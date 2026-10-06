@@ -1,0 +1,13 @@
+{
+  "title": "Пилотируемая корова",
+  "date": "2009-07-07T06:58:00+03:00",
+  "url": "/news/pilotiruemaya-korova/",
+  "original_url": "http://spidermedia.ru/news/pilotiruemaya-korova",
+  "archived": "https://web.archive.org/web/20160426212636/http://spidermedia.ru/news/pilotiruemaya-korova",
+  "template": "modern",
+  "source_encoding": "utf-8"
+}
+
+Хорошая новость: **Top Cow** делает третий **Pilot Season**. Для тех кто забыл или прозевал: это когда выходят пять ван-шотов с разными концептами от разных авторов, а потом проводится голосование в интернете, и из двух самых полюбившихся читателям делают онгоинги (это в теории, **Velocity** мы вот ещё аж с первого сезона ждём). Теперь плохая новость: в этот раз разнообразия авторов не будет, так как все пять ван-шотов пишет один человек. Но вот снова хорошая новость: этот человек ни кто иной, как грёбаный **Роберт Киркман** (*Robert Kirkman*)!
+[![Photobucket](https://web.archive.org/web/20160426212636im_/http://i3.photobucket.com/albums/y65/Carnage_vl/th_1246931678.jpg)](http://s3.photobucket.com/albums/y65/Carnage_vl/?action=view¤t=1246931678.jpg) [![Photobucket](https://web.archive.org/web/20160426212636im_/http://i3.photobucket.com/albums/y65/Carnage_vl/th_1246931680.jpg)](http://s3.photobucket.com/albums/y65/Carnage_vl/?action=view¤t=1246931680.jpg)
+И ещё одна хорошая новость: помогать Роберту в этом деле будет сам **Марк Сильвестри** (*Marc Silvestri*). Нет, все пять ван-шотов он рисовать не будет, ишь чего захотели, но он займётся дизайном и обложками. Кто же будет заниматься артом дальше обложек, пока не сообщается.

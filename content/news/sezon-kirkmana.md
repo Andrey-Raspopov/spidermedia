@@ -1,0 +1,52 @@
+{
+  "title": "Сезон Киркмана",
+  "date": "2009-11-04T18:47:00+03:00",
+  "url": "/news/sezon-kirkmana/",
+  "original_url": "https://spidermedia.ru/news/sezon-kirkmana",
+  "archived": "https://web.archive.org/web/20260307054853/https://spidermedia.ru/news/sezon-kirkmana",
+  "template": "modern",
+  "source_encoding": "utf-8"
+}
+
+![](https://web.archive.org/web/20260307054853im_/http://i365.photobucket.com/albums/oo93/Ellaya_dw/Spidermedia/_PilotSeason_.jpg)
+
+Отступление: **Пилотный Сезон** (*Pilot Season*) - это ежегодная практика издательства **Топ Кау** (*Top Cow*), начавшаяся в 2007 году. Определённое количество писателей с художниками делают по первому (пилотному) номеру какого-либо комикса, читателям предлагается проголосовать за понравившийся и победителям (обычно их два) обещают выдать полноценный онгоинг.
+В реальности, из двух победителей 2007-го года - **Velocity** и **Cyblade**, только второй пошёл дальше первого номера (но был прикрыт из-за низких продаж и вообще...), над победителями 2008-го года - **Twilight Guardian** и **Genius**, как сообщает издательство, всё ещё ведётся работа. Также было анонсировано, что по одному из проигравших - **Alibi** - будет снят фильм.
+
+Над нынешним Сезоном работают сценарист **Роберт Киркман** (*Robert Kirkman*), на обложках **Марк Сильвестри** (*Mark Silvestri*), о художниках, работающих над "внутренностями" комиксов, ниже.
+
+Предыстория: Однажды в студёную зимнюю пору (а именно 4-го февраля 2009-го года), в редакцию Топ Кау пришло письмо следующего содержания: "Я - Роберт Киркман, тот самый Роберт Киркман, бросайте всё и всех, я напишу для вас Пилотный Сезон". И побросали люди свои дела, и послали уже работающих над пилотами авторов на следующий год, и объявили они всему свету, что (сам!) Киркман  делает (весь!) Пилотный Сезон. Время шло, сменялись сезоны, однако из стана Топ Кау не было новостей. И возопил народ: "Неужели, неужели не увидим мы (самого!) Киркмана на пилотах?". И внял Киркман их мольбам, и выпустил журнал со скетчами, описаниями и обложками по 1 у.е. за штуку, хотя обычно такое в сети можно бесплатно найти. Что же внутри этого священного журнала?
+
+**Убийца** (*Murderer*)
+[![Photobucket](https://web.archive.org/web/20260307054853im_/http://i365.photobucket.com/albums/oo93/Ellaya_dw/Spidermedia/th_PilotSeasonp09.jpg)](http://s365.photobucket.com/albums/oo93/Ellaya_dw/Spidermedia/?action=view¤t=PilotSeasonp09.jpg)Художник: **Нельсон Блэйк II** (*Nelson Blake II*)
+**Джейсон Спаркс** (*Jason Sparks*) - телепат. Каждый грязный секрет, каждое скрытое желание - он слышит всё. Единственный способ заставить голоса замолчать, хоть на мгновенье подрарить ему тишину - это убийство. Правда, он старается использовать свои способности во благо.
+
+[![Photobucket](https://web.archive.org/web/20260307054853im_/http://i365.photobucket.com/albums/oo93/Ellaya_dw/Spidermedia/th_PilotSeasonp08.jpg)](http://s365.photobucket.com/albums/oo93/Ellaya_dw/Spidermedia/?action=view¤t=PilotSeasonp08.jpg)
+
+Карандашная обложка к Murderer.
+
+**Демоник** (*Demonic*)
+[![Photobucket](https://web.archive.org/web/20260307054853im_/http://i365.photobucket.com/albums/oo93/Ellaya_dw/Spidermedia/th_PilotSeasonp16p17-1.jpg)](http://s365.photobucket.com/albums/oo93/Ellaya_dw/Spidermedia/?action=view¤t=PilotSeasonp16p17-1.jpg)Художник: **Джо Бенитез** (*Joe Benitez*)
+**Скотт Грэйвс** (*Scott Graves*) постоянно слышит голос. Это демон говорит с ним. Демон даёт ему силу. Однако демон злится, если Скотт не убивает. Он сделает всё, что скажет демон, лишь бы тот не заставил его убить жену и дочь. Он - Демоник, виджиланте, известный за жестокие убийства преступников. Но как долго он сможет продолжать это делать и реален ли сам демон?
+
+[![Photobucket](https://web.archive.org/web/20260307054853im_/http://i365.photobucket.com/albums/oo93/Ellaya_dw/Spidermedia/th_PilotSeasonp14.jpg)](http://s365.photobucket.com/albums/oo93/Ellaya_dw/Spidermedia/?action=view¤t=PilotSeasonp14.jpg) [![Photobucket](https://web.archive.org/web/20260307054853im_/http://i365.photobucket.com/albums/oo93/Ellaya_dw/Spidermedia/th_PilotSeasonp18.jpg)](http://s365.photobucket.com/albums/oo93/Ellaya_dw/Spidermedia/?action=view¤t=PilotSeasonp18.jpg) [![Photobucket](https://web.archive.org/web/20260307054853im_/http://i365.photobucket.com/albums/oo93/Ellaya_dw/Spidermedia/th_PilotSeasonp19.jpg)](http://s365.photobucket.com/albums/oo93/Ellaya_dw/Spidermedia/?action=view¤t=PilotSeasonp19.jpg)
+
+Скетчи к Demonic.
+
+**Стелс** (*Stealth*)
+[![Photobucket](https://web.archive.org/web/20260307054853im_/http://i365.photobucket.com/albums/oo93/Ellaya_dw/Spidermedia/th_PilotSeasonp23.jpg)](http://s365.photobucket.com/albums/oo93/Ellaya_dw/Spidermedia/?action=view¤t=PilotSeasonp23.jpg)Художник: **Шелдон Митчелл** (*Sheldon Mitchell*)
+**Тодд Кэри** (*Todd Carey*) только что развёлся, его дочь бросила колледж и он узнал, что отец болен синдромом Альцгеймера. Так как последний не в силах позаботиться о себе, Тодд привозит его к себе жить. Единственное, чего Тодд не знает о своём отце - это то, что тот всю жизнь был виджиланте по имени Стелс. У него много врагов и, из-за своего непредсказуемого поведения, он легко может попасть в беду... и всё это сваливается Тодду буквально на голову.
+
+[![Photobucket](https://web.archive.org/web/20260307054853im_/http://i365.photobucket.com/albums/oo93/Ellaya_dw/Spidermedia/th_PilotSeasonp22.jpg)](http://s365.photobucket.com/albums/oo93/Ellaya_dw/Spidermedia/?action=view¤t=PilotSeasonp22.jpg) [![Photobucket](https://web.archive.org/web/20260307054853im_/http://i365.photobucket.com/albums/oo93/Ellaya_dw/Spidermedia/th_PilotSeasonp24.jpg)](http://s365.photobucket.com/albums/oo93/Ellaya_dw/Spidermedia/?action=view¤t=PilotSeasonp24.jpg)
+
+Скетчи к Stealth.
+
+**Звёздная** (*Stellar*)
+Художник: **Бернард Чанг** (*Bernard Chang*)
+Она одна из пяти генетически улучшенных сверхлюдей, созданных правительством Земли. Процесс сделал её токсичной для других людей, из-за чего другие четыре добровольца потеряли рассудок. И теперь, изгнанная с Земли, она странствует по космосу, стараясь использовать свои способности во благо, преследуемая мыслью, что она никогда не может вернуться домой. Однако другие сверхлюди неподалёку и готовы нанести удар в любой момент.
+**Хардкор** (*Hardcore*)
+Художник: **Брайан Стелфриз** (*Brian Stelfreeze*)
+Как только небольшое ядро попадёт тебе в затылок, мозговые волны ассассина могут быть переданы в твой мозг и он получит полный контроль над твоим телом. Используя эту технологию, твоим убийцей может оказаться кто угодно: парикмахер, сосед или даже жена. Таким образом, они лучшие в своём деле. Но что случится, если один из них станет предателем? Кому доверять, когда твой враг имеет возможность менять лицо, как перчатки?
+Ну и напоследок, небольшое доказательство, что над Genius действительно ведётся работа:
+
+[![Photobucket](https://web.archive.org/web/20260307054853im_/http://i365.photobucket.com/albums/oo93/Ellaya_dw/Spidermedia/th_PilotSeasonp27.jpg)](http://s365.photobucket.com/albums/oo93/Ellaya_dw/Spidermedia/?action=view¤t=PilotSeasonp27.jpg)

@@ -1,0 +1,11 @@
+{
+  "title": "Фрэнсис Робинапуль",
+  "date": "2009-03-14T05:45:00+03:00",
+  "url": "/news/frensis-robinapul/",
+  "original_url": "http://spidermedia.ru/news/frensis-robinapul",
+  "archived": "https://web.archive.org/web/20260314080035/http://spidermedia.ru/news/frensis-robinapul",
+  "template": "modern",
+  "source_encoding": "utf-8"
+}
+
+[![Photobucket](https://web.archive.org/web/20260314080035im_/http://i265.photobucket.com/albums/ii233/QWANT007/previews/DC%20Comics/th_redrobinmanapul.jpg)](http://s265.photobucket.com/albums/ii233/QWANT007/previews/DC%20Comics/?action=view¤t=redrobinmanapul.jpg) В колонке **DC Nation** на сайте [Facebook.com](http://www.facebook.com) выложили обложку грядущей соло-серии про **Красного Робина** *(Red Robin)*, личность которого пока неизвестна, но велика вероятность, что им станет экс-Робин **Тим Дрейк** *(Tim Drake)*. Также пока неизвестно будет ли автор обложки **Фрэнсис Манапуль** *(Francis Manapul)* рисовать и внутренную часть комикса. Ждем дальнейших подробностей.

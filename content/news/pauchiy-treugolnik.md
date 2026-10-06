@@ -1,0 +1,13 @@
+{
+  "title": "Паучий треугольник",
+  "date": "2009-06-18T00:20:00+03:00",
+  "url": "/news/pauchiy-treugolnik/",
+  "original_url": "http://spidermedia.ru/news/pauchiy-treugolnik",
+  "archived": "https://web.archive.org/web/20190811012859/http://spidermedia.ru:80/news/pauchiy-treugolnik",
+  "template": "modern",
+  "source_encoding": "utf-8"
+}
+
+**Marvel** [скрыло](http://marvel.com/news/comicstories.8389.FIRST_LOOK~colon~_September_2009_Spidey_Previews) анонс сентябрьских выпусков **Amazing Spider-Man**, но скажем спасибо сайту журнала **Wizard** за приоткрытие завесы тайны:
+[![](https://web.archive.org/web/20190811012859im_/http://www.picamatic.com/show/2009/06/17/11/57/4032861_bigthumb.jpg)](http://www.picamatic.com/view/4032861_amazing-spider-man-606/)
+Рисунок выше принадлежит перу **Скотта Кэмпбелла** *(J. Scott Campbell)* и является кавером к **#606**, но что мы видим? После стольких возвращений сразу (**Мэри Джейн Ватсон** *(Mary Jane Watson)*, **Доктор Осьминог** *(Doctor Octopus)*), дали свет и **Черной Кошке** *(Black Cat)* вместе с новой романтической линией в комиксе? Именно это и предстоит узнать в **#606-607** номерах, где сценаристом выступает **Джо Келли** *(Joe Kelly)*, а художником **Майк Маккон** *(Mike McKone)*.

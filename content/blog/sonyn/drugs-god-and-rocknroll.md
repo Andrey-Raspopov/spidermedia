@@ -1,0 +1,25 @@
+{
+  "title": "Drugs, God and Rock'n'Roll",
+  "date": "2009-12-09T00:44:00+03:00",
+  "url": "/blog/sonyn/drugs-god-and-rocknroll/",
+  "original_url": "https://spidermedia.ru/blog/sonyn/drugs-god-and-rocknroll",
+  "archived": "https://web.archive.org/web/20260125051722/https://spidermedia.ru/blog/sonyn/drugs-god-and-rocknroll",
+  "template": "modern",
+  "source_encoding": "utf-8"
+}
+
+![Photobucket](https://web.archive.org/web/20260125051722im_/http://i530.photobucket.com/albums/dd350/rusmeteora/6296881_650x211.jpg)
+
+Смотрим на лица. Внимательно. Узнали кого-нибудь? Да, вы таки не ошиблись - парень слева есть никто иной, как Грант Моррисон, [молодой и кучерявый](http://i530.photobucket.com/albums/dd350/rusmeteora/6296882_345x900.jpg?t=1260303918).
+
+На фото Грант был запечатлен со своей группой The Fauves (не путать с австралийской одноименной группой, играющей довольно унылый инде). В далекие восьмидесятые будущий убийца Бэтмена играл на ритм-гитаре, а так же был солистом и со-автором большинства песен (которых, откровенно говоря, было не так уж много). На протяжении почти десятка лет группа несколько раз меняла название: сначала парни именовали себя [The Mixers](http://homepage.ntlworld.com/ulric.kennedy/Spirophone/The%20Mixers.htm), после этого [Jenny and The Cat Club](http://homepage.ntlworld.com/ulric.kennedy/Spirophone/Jenny%20&%20The%20Cat%20Club.htm), и, в конце концов, [The Fauves](http://homepage.ntlworld.com/ulric.kennedy/Spirophone/The%20Fauves.htm). Состав группы часто менялся, неизменными оставались лишь сам Грант и его друг Данниэл ([Danniel Vallely](http://en.wikipedia.org/wiki/Daniel_Vallely)). В начале девяностых годов Моррисон ушел из коллектива (которые, кстати, к тому времени уже именовались [DHK](http://homepage.ntlworld.com/ulric.kennedy/Spirophone/DHK.htm)), с тех пор о группе слышно не так уж много - известны всего несколько песен, раскиданных по разным дискам-компиляциям (например на [мексиканском сборнике](http://cgi.ebay.com/Whaam!-Bam!-Thank-You-Dan!-compilation-|-C86-|-Sarah_W0QQitemZ170416562938QQcmdZViewItemQQimsxZ20091206?IMSfp=TL091206189001r2482) непонятно какой музыки). В начале 2008 года на ютюбе появилось видео с отрывком песни "Tortured Soul" группы The Fauves. Аудиопоток был спёрт с некой радиостанции, поставившей песню в одну из своих передач; видео же является ничем иным, как старым мультфильмом о Супермене. Enjoy.
+
+![](http://spidermedia.ru/assets/cache/images/youtube/622x350-wuUUkPCZTBg.3e9.jpg)
+
+[The Fauves Tortured Soul VS Superman](./) 00:01:46
+
+Напоследок порекомендую обратить внимание на музыкальные разделы вышеупомянутых сайтов, там много чего интересного (правда, к сожалению, некоторые записи были сделаны без участия Гранта). Особенно выделяется трэк [Hello Cruel World](http://homepage.ntlworld.com/ulric.kennedy/Spirophone/The%20Fauves%20Sounds.htm) все тех же The Fauves с вокалом Моррисона, на мой взгляд самая достойная их работа:
+
+[Flash: <http://muzicons.com/musicon_v_srv_new.swf>]
+
+Такие дела.

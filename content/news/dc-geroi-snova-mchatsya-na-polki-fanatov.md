@@ -1,0 +1,15 @@
+{
+  "title": "DC герои снова мчатся на полки фанатов!",
+  "date": "2009-05-15T00:54:00+03:00",
+  "url": "/news/dc-geroi-snova-mchatsya-na-polki-fanatov/",
+  "original_url": "http://spidermedia.ru/news/dc-geroi-snova-mchatsya-na-polki-fanatov",
+  "archived": "https://web.archive.org/web/20260312012056/http://spidermedia.ru/news/dc-geroi-snova-mchatsya-na-polki-fanatov",
+  "template": "modern",
+  "source_encoding": "utf-8"
+}
+
+Лидер по изготовлению качественных пластиковых воплощений героев комиксов DC - **DC Direct** вновь обрадовал фанатов. На этот раз это анонсированные статуи-бюсты героев комиксов DC. Выходить они будут в рамках серии **DC Dynamics**, и в состав нее уже вошли **Супермен** (*Superman*), **Бэтмен** (*Batman*), **Чудо-Женщина** (*Wonder Woman*) и **Аквамен** (*Aquaman*). На прилавках магазинов сие чудо планирует обьявиться в **2010** году, а если быть точным, то первая статуя Чудо-Женщины поступит в продажу уже в **январе 20** числа, по цене в **195 долларов**. Ну и конечно же, что бы это все было без промо-фото, которые вы можете видеть ниже.
+
+[![](https://web.archive.org/web/20260312012056im_/http://s46.radikal.ru/i112/0905/7e/bd4189ad4453t.jpg)](http://radikal.ru/F/s46.radikal.ru/i112/0905/7e/bd4189ad4453.jpg.html) [![](https://web.archive.org/web/20260312012056im_/http://s41.radikal.ru/i093/0905/a4/262d6404df81t.jpg)](http://radikal.ru/F/s41.radikal.ru/i093/0905/a4/262d6404df81.jpg.html) [![](https://web.archive.org/web/20260312012056im_/http://s40.radikal.ru/i087/0905/7e/90907283ad88t.jpg)](http://radikal.ru/F/s40.radikal.ru/i087/0905/7e/90907283ad88.jpg.html) [![](https://web.archive.org/web/20260312012056im_/http://i044.radikal.ru/0905/bf/30ee8372fefbt.jpg)](http://radikal.ru/F/i044.radikal.ru/0905/bf/30ee8372fefb.jpg.html)
+
+Нет, ну шикарно же.

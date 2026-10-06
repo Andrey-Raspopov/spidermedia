@@ -1,0 +1,35 @@
+{
+  "title": "Новости из мира кино",
+  "date": "2009-02-27T20:21:00+03:00",
+  "url": "/news/novosti-iz-mira-kino/",
+  "original_url": "https://spidermedia.ru/news/novosti-iz-mira-kino",
+  "archived": "https://web.archive.org/web/20241102084750/https://spidermedia.ru/news/novosti-iz-mira-kino",
+  "template": "modern",
+  "source_encoding": "utf-8"
+}
+
+[The Hollywood Reporter](http://www.hollywoodreporter.com/hr/content_display/film/news/e3i57845f198f95ed93c4667e6a026a4c6b) доносит, что актер **Сэмюэль Л. Джексон** *(Samuel L. Jackson)* уладил все неполадки с компанией **Marvel Entertainment** и одним махом подписался сразу на несколько проектов - **Железный Человек 2** *(Iron Man 2)*, **Тор** *(Thor)*, **Первый Мститель: Капитан Америка** *(First Avenger: Captain America)*, **Мстители** *(Avengers)* и по слухам обсуждает возможность появления в персональном фильме про **Ника Фьюри** *(Nick Fury)*.
+
+---
+
+[![](https://web.archive.org/web/20241102084750im_/http://i8.photobucket.com/albums/a6/ziipo/News/thSUSQFTA-cv.jpg)](http://i8.photobucket.com/albums/a6/ziipo/News/SUSQFTA-cv.jpg "Suicide Squad")Компания **Warner Bros.** видимо очень любит произведения **DC**, раз решилась перенести на большие экраны комикс **Suicide Squad**.
+
+Многим комикс знаком не понаслышке, а для тех, кто не в нашем мире поясняем, что первоисточник отличается от других тем, что здесь вместо героической команды супергероев главную роль играет героическая команда суперзлодеев. Известные и не очень злодеи и пакостники вынуждены работать на правительство и выполнить задание, которое для здешних супергероев оказывается очень опасным.
+
+**Джастин Маркc** *(Justin Marks)* любезно согласился написать сценарий а **Дэн Лин** *(Dan Lin)* занял место главного продюсера.
+
+---
+
+[![](https://web.archive.org/web/20241102084750im_/http://i8.photobucket.com/albums/a6/ziipo/News/thaphrodite2.jpg)](http://www.picamatic.com/view/2490181_aphrodite1/ "Aphrodite IX")Компании **Threshold Entertainment**, **Platinum Studios** и **Top Cow Prods.** объединили свои силы, чтобы перенести на большие экраны комикс **Aphrodite IX**, правда, пока только в виде полнометражного 3D фильма.
+
+Первоисточник рассказывает историю киборга-убийцы, которая в один прекрасный день осознает, что она не просто машина для убийств, а личность и приступает к разгадке тайны своего происхождения.
+
+**Ларри Казанофф** *(Larry Kasanoff)*, продюсер со стороны Threshold Entertainment, поведал:
+
+*- Подобные франчайзы мы очень любим, здесь есть все: визуально богатый мир, потрясные эффекты, потрясный сюжет и, конечно же, сногсшибательная девушка в главной роли.*
+
+---
+
+Ну и, так сказать, контрольным выстрелом будет презентация новых промо-кадров к фильму **Люди-Икс: Росомаха** *(X-Men Origins: Wolverine)*.
+
+[![Photobucket](https://web.archive.org/web/20241102084750im_/http://i8.photobucket.com/albums/a6/ziipo/News/th_86704_wolverine-topia_1.jpg)](http://s8.photobucket.com/albums/a6/ziipo/News/?action=view¤t=86704_wolverine-topia_1.jpg) [![Photobucket](https://web.archive.org/web/20241102084750im_/http://i8.photobucket.com/albums/a6/ziipo/News/th_86704_wolverine-topia_2.jpg)](http://s8.photobucket.com/albums/a6/ziipo/News/?action=view¤t=86704_wolverine-topia_2.jpg) [![Photobucket](https://web.archive.org/web/20241102084750im_/http://i8.photobucket.com/albums/a6/ziipo/News/th_86704_wolverine-topia_3.jpg)](http://s8.photobucket.com/albums/a6/ziipo/News/?action=view¤t=86704_wolverine-topia_3.jpg) [![Photobucket](https://web.archive.org/web/20241102084750im_/http://i8.photobucket.com/albums/a6/ziipo/News/th_86704_wolverine-topia_4.jpg)](http://s8.photobucket.com/albums/a6/ziipo/News/?action=view¤t=86704_wolverine-topia_4.jpg) [![Photobucket](https://web.archive.org/web/20241102084750im_/http://i8.photobucket.com/albums/a6/ziipo/News/th_86704_wolverine-topia_5.jpg)](http://s8.photobucket.com/albums/a6/ziipo/News/?action=view¤t=86704_wolverine-topia_5.jpg) [![Photobucket](https://web.archive.org/web/20241102084750im_/http://i8.photobucket.com/albums/a6/ziipo/News/th98407_wolverinetop.jpg)](http://s8.photobucket.com/albums/a6/ziipo/News/?action=view¤t=98407_wolverinetop_122.jpg)

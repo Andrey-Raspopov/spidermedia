@@ -1,0 +1,17 @@
+{
+  "title": "Green Goblin Unmasked",
+  "date": "2009-02-06T19:22:00+03:00",
+  "url": "/news/green-goblin-unmasked/",
+  "original_url": "http://spidermedia.ru/news/green-goblin-unmasked",
+  "archived": "https://web.archive.org/web/20150427032905/http://spidermedia.ru/news/green-goblin-unmasked",
+  "template": "modern",
+  "source_encoding": "utf-8"
+}
+
+Первые горячие новости:
+
+Появилась дразнилка-страничка из **Amazing Spider-Man #595** (картинка слева):
+
+[![ASM595019.jpg - Picamatic - upload your images](https://web.archive.org/web/20150427032905im_/http://www.picamatic.com/show/2009/02/06/06/57/2033515_bigthumb.jpg "ASM595019.jpg")](http://s43.radikal.ru/i101/0902/28/0c39b63f458c.jpg) [![039.jpg - Picamatic - upload your images](https://web.archive.org/web/20150427032905im_/http://www.picamatic.com/show/2009/02/06/06/59/2033550_bigthumb.jpg "039.jpg")](http://s60.radikal.ru/i167/0902/dc/4d82c5b6db4d.jpg)
+
+Глаз фэна серии сразу узнает, что это отсылка к обложке **Amazing Spider-Man #39**, арка *"Spider-Man Unmasked"*. Современная же страница будет относиться к сюжету *“American Son”*. Как видите, времена меняются, все течет, и даже злейшие враги, порой, меняются местами.

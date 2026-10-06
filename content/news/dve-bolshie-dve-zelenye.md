@@ -1,0 +1,27 @@
+{
+  "title": "Две большие, Две зеленые",
+  "date": "2009-04-15T17:53:00+03:00",
+  "url": "/news/dve-bolshie-dve-zelenye/",
+  "original_url": "http://spidermedia.ru/news/dve-bolshie-dve-zelenye",
+  "archived": "https://web.archive.org/web/20120608213600/http://spidermedia.ru/news/dve-bolshie-dve-zelenye",
+  "template": "drupal",
+  "source_encoding": "utf-8"
+}
+
+![](https://web.archive.org/web/20120608213600im_/http://pic.ipicture.ru/uploads/090415/x3NN2zs5zC.jpg)
+
+Она такая зеленая, такая сильная, но имя ее не **Дженнифер Уолтерс** *(Jennifer Walters)* - ее зовут **Лира** *(Lyra)*, и она явилась из будущего, чтобы надрать не одну сверхзадницу.
+
+Первый выпуск закончился на встрече двух **Ши-Халк** *(She-Hulk)* - Джен, агента **Б.Р.О.Н.И.** *(A.R.M.O.R)* и самой Лиры. Правда, современная Ши-Халка и не представляет, что биться ей предстоит со своей родственницей. Семейные страсти могут разгореться с новой силой, узнай Уолтерс подробности. Возможно, на это и намекает создатели серии.
+
+]]>[![7611new_storyimage9735781.jpg - image uploaded to Picamatic](https://web.archive.org/web/20120608213600im_/http://www.picamatic.com/show/2009/04/15/04/37/3270421_bigthumb.jpg "7611new_storyimage9735781.jpg")](http://www.picamatic.com/view/3270421_7611new_storyimage9735781/)]]>
+
+Будем надеяться, что эта стычка не помешает Лире продолжить исследования тех причин, которые довели ее родину до межполовых столкновений и вообще тотальной разрухи. **Фред Ван Ленте** *(Fred Van Lente)* уверяет, что **Норман Озборн** *(Norman Osborn)* и **Темное Правление** *(Dark Reign)* имеют к этим изменениям прямое отношение.
+
+Появлением Дженнифер серия не ограничится, планируются не только **Темные Мстители** *(Dark Avengers)*, но и уже облюбованные сценаристом герои, как **Джокаста** *(Jocasta)*, например.
+
+Второй номер Дикой Амазонки намечен на 6 мая, хотя увидеть арт-превью от **Питер Вейла** *(Peter Vale)* можно уже сейчас, обложка от **Скотта Кемпбелла** *(J. Scott Campbell)*.
+
+]]>[![7611new_storyimage9735809.jpg - image uploaded to Picamatic](https://web.archive.org/web/20120608213600im_/http://www.picamatic.com/show/2009/04/15/04/37/3270422_bigthumb.jpg "7611new_storyimage9735809.jpg")](http://www.picamatic.com/view/3270422_7611new_storyimage9735809/)]]> ]]>[![7611new_storyimage9735839.jpg - upload images with Picamatic](https://web.archive.org/web/20120608213600im_/http://www.picamatic.com/show/2009/04/15/04/37/3270424_bigthumb.jpg "7611new_storyimage9735839.jpg")](http://www.picamatic.com/view/3270424_7611new_storyimage9735839/)]]> ]]>[![7611new_storyimage9735907.jpg - upload images with Picamatic](https://web.archive.org/web/20120608213600im_/http://www.picamatic.com/show/2009/04/15/04/37/3270425_bigthumb.jpg "7611new_storyimage9735907.jpg")](http://www.picamatic.com/view/3270425_7611new_storyimage9735907/)]]> ]]>[![7611new_storyimage9735956.jpg - Picamatic - upload your images](https://web.archive.org/web/20120608213600im_/http://www.picamatic.com/show/2009/04/15/04/37/3270426_bigthumb.jpg "7611new_storyimage9735956.jpg")](http://www.picamatic.com/view/3270426_7611new_storyimage9735956/)]]> ]]>[![7611new_storyimage9736045.jpg - upload images with Picamatic](https://web.archive.org/web/20120608213600im_/http://www.picamatic.com/show/2009/04/15/04/37/3270427_bigthumb.jpg "7611new_storyimage9736045.jpg")](http://www.picamatic.com/view/3270427_7611new_storyimage9736045/)]]>
+
+Поделиться:

@@ -1,0 +1,17 @@
+{
+  "title": "Новые претенденты на роль Зеленого Фонаря",
+  "date": "2009-07-10T09:42:00+03:00",
+  "url": "/news/novye-pretendenty-na-rol-zelenogo-fonarya/",
+  "original_url": "http://spidermedia.ru/news/novye-pretendenty-na-rol-zelenogo-fonarya",
+  "archived": "https://web.archive.org/web/20250806051303/http://spidermedia.ru/news/novye-pretendenty-na-rol-zelenogo-fonarya",
+  "template": "modern",
+  "source_encoding": "utf-8"
+}
+
+![](https://web.archive.org/web/20250806051303im_/http://i583.photobucket.com/albums/ss273/zipoff/News/green_lant_z2.jpg)
+
+[The Hollywood Reporter](http://www.hollywoodreporter.com/) сообщает, что в настоящее время на главную роль в экранизации **"Зеленого Фонаря"** *(Green Lantern)* претендуют: **Джастин Тимберлейк** *(Justin Timberlake*), **Райан Рейнольдс** *(Ryan Reynolds)* и **Брэдли Купер** *(Bradley Cooper)*.
+
+Каждый из них уже успел примерить костюм на тестовых съемках и теперь ждет официального решения. Вся загвоздка в том, что у режиссера **Мартина Кэмпбелла** *(Martin Campbell)*, продюсера **Дональда Ди Лайна** *(Donald De Line)* и сценариста **Грега Берланти** *(Greg Berlanti)* вкусы явно не совпадают, так что есть вероятность, что эта троица еще не скоро определится с выбором.
+
+Пока кастинг идет полным ходом боссы **Warner Bros.** никак не могут решить, сколько же дать Мартину Кэмпбеллу денег на фильм. По некоторым данным бюджет картины колеблется от $150 до $200 млн., и прежде чем начать съемки Warner Bros. хотят точно определиться со стоимостью проекта.

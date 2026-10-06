@@ -1,0 +1,99 @@
+{
+  "title": "The Column With No Name - Week #4: Are you ready to get infamous--?",
+  "date": "2009-03-01T02:18:00+03:00",
+  "url": "/blog/sir-carnage/column-no-name-week-4-are-you-ready-get-infamous/",
+  "original_url": "http://spidermedia.ru/blog/sir-carnage/column-no-name-week-4-are-you-ready-get-infamous",
+  "archived": "https://web.archive.org/web/20250419043412/http://spidermedia.ru/blog/sir-carnage/column-no-name-week-4-are-you-ready-get-infamous",
+  "template": "modern",
+  "source_encoding": "utf-8"
+}
+
+Ух, ну и неделька... Хотите поговорить об этом?
+
+1. **Gigantic #3**
+2. **The Umbrella Academy: Dallas #4**
+3. **Jack of Fables #31**
+4. **Madame Xanadu #8**
+5. **Unknown Soldier #5**
+6. **The Astounding Wolf-Man #13**
+7. **Proof #17**
+8. **The Sword #15**
+9. **Avengers: The Initiative #22**
+10. **Captain America #47**
+11. **The Dark Tower: Treachery #6**
+12. **Ender's Shadow: Battle School #3**
+13. **Fantastic Four #564**
+14. **Ghost Rider: Danny Ketch #5**
+15. **Hulk #10**
+16. **Incredible Hercules #126**
+17. **Marvels: Eye of the Camera #4**
+18. **Mighty Avengers #22**
+19. **Ms Marvel #36**
+20. **New Avengers #50**
+21. **Nova #22**
+22. **Runaways #7**
+23. **She-Hulk #38**
+24. **Skaar: Son of Hulk #8**
+25. **Thunderbolts #129**
+26. **War Machine #3**
+27. **Wolverine: First Class #12**
+28. **Wolverine: Origins #33**
+29. **X-force #12**
+30. **Hack/Slash #20**
+31. **Street Fighter II Turbo #4**
+
+Let's get dangerous!
+
+**Комикс недели**
+
+[![Photobucket](https://web.archive.org/web/20250419043412im_/http://i3.photobucket.com/albums/y65/Carnage_vl/th_tbolts129-0101.jpg)](http://s3.photobucket.com/albums/y65/Carnage_vl/?action=view¤t=tbolts129-0101.jpg)
+
+**Thunderbolts #129**
+
+Всё же **The Dark Tower: Treachery #6**,при всё том же прежнем уровне шикарности, своим главным твистом обязан уже давно написанной книге, так что не в этот раз. С другой стороны, **Thunderbolts #129** завершает эпик "Как Осборн от Обамы отмазался и Самсону на хвост посадил". Шикарный план, безупречное исполнение, и действующие лица - сплошь красавцы. Всё это плюс камео Мелиссы с большими планами (я ведь уже сказал, что тут сплошь красавцы, верно?)! Интересно, ей найдётся хотя бы пара сцен во время **Magnum Opus**? Ну так, в качестве интерлюдий. А то в противном случае мне без неё жить ещё два месяца.
+
+**Герой недели**
+
+[![Photobucket](https://web.archive.org/web/20250419043412im_/http://i3.photobucket.com/albums/y65/Carnage_vl/AvengersInit22-005.jpg)](http://s3.photobucket.com/albums/y65/Carnage_vl/?action=view¤t=AvengersInit22-005.jpg)
+
+**Justice**
+
+И вот тут я много думал. И хотелось бы на чистом субъективизме сюда Мелиссу поставить, но она как бы не первая, кому пришла в голову мысль остановить Осборна, а больше она ничего на этой неделе и не успела. С другой стороны Джастис: не то чтобы его поведение на этой неделе меня как-то особо впечатлило, но обо всех остальных номинантах я могу сказать и того меньше. По крайней мере последствия того, что он сделал, обещают хорошенько отразиться на дальнейшем сюжете, да и пожалуй это действительно стоило сделать, хотя я и придерживаюсь идеи, что трупам всё откровенно пофигу.
+
+**Злодей недели**
+
+[![Photobucket](https://web.archive.org/web/20250419043412im_/http://i3.photobucket.com/albums/y65/Carnage_vl/tbolts129-0118.jpg)](http://s3.photobucket.com/albums/y65/Carnage_vl/?action=view¤t=tbolts129-0118.jpg)
+
+**Норман Осборн**
+
+Double win! На этой неделе Норману удалось перехитрить сразу двух опасных для него людей: Обаму, с его недоверием, и Бендиса, с его любовью к большим бессмысленным побоищам. Побоище-то было, вот только Норман оказался умнее и сам в него не полез.
+
+**Кадр недели**
+
+[![Photobucket](https://web.archive.org/web/20250419043412im_/http://i3.photobucket.com/albums/y65/Carnage_vl/AvengersInit22-007.jpg)](http://s3.photobucket.com/albums/y65/Carnage_vl/?action=view¤t=AvengersInit22-007.jpg)
+
+А можно Слэпстика теперь всегда будет Рамос рисовать?
+
+**Обложка недели**
+
+[![Photobucket](https://web.archive.org/web/20250419043412im_/http://i3.photobucket.com/albums/y65/Carnage_vl/th_UA_-_D_004_000.jpg)](http://s3.photobucket.com/albums/y65/Carnage_vl/?action=view¤t=UA_-_D_004_000.jpg)
+
+**The Umbrella Academy: Dallas #4**
+
+**Лажа недели**
+
+[![Photobucket](https://web.archive.org/web/20250419043412im_/http://i3.photobucket.com/albums/y65/Carnage_vl/th_Hulk10000j.jpg)](http://s3.photobucket.com/albums/y65/Carnage_vl/?action=view¤t=Hulk10000j.jpg)
+
+**Hulk #10**
+
+The Offenders. Этого уже достаточно. But wait! There's more! ... хотя нет, вру, нет тут больше ни хрена. Вообще. Только ради арта МакГиннеса можно пролистать.
+
+**Быдло недели**
+
+[![Photobucket](https://web.archive.org/web/20250419043412im_/http://i3.photobucket.com/albums/y65/Carnage_vl/th_BIRDzf6iE0-1.jpg)](http://s3.photobucket.com/albums/y65/Carnage_vl/?action=view¤t=BIRDzf6iE0-1.jpg)
+
+**Я**
+
+**Final Crisis** - это не бред, а постмо-мать-его-дернизм. Пещерный Бэтмен - великолепная идея, всецело соответствующая духу франчайза. **Mighty Avengers #22** - вот это бред. The Offenders - ни разу не тупое название для команды злодеев. Если вы хоть с чем-то из этого не согласны, то на следующей неделе тут будет ваша фотография в ковбойской шляпе.
+
+That's all, folks! И запомните: не все Халки одинаково полезны.

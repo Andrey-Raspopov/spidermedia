@@ -1,0 +1,13 @@
+{
+  "title": "The GOON (3D): Первые кадры!",
+  "date": "2009-03-14T20:12:00+03:00",
+  "url": "/news/goon-3d-pervye-kadry/",
+  "original_url": "http://spidermedia.ru/news/goon-3d-pervye-kadry",
+  "archived": "https://web.archive.org/web/20220819234642/http://spidermedia.ru/news/goon-3d-pervye-kadry",
+  "template": "modern",
+  "source_encoding": "utf-8"
+}
+
+На сайте [Aintitcool.com](http://www.aintitcool.com/node/40432) добрые гики выложили парочку кадров из грядущей трехмерной анимации **"The Goon"** *(болван, тупица, киллер, убийца, головорез - переводчикам придется помучиться)*, чьи ноги растут из одноименных комиксов издательства **Dark Horse**.
+
+[![Image Source,Photobucket Uploader Firefox Extension](https://web.archive.org/web/20220819234642im_/http://img.photobucket.com/albums/v335/sterpazook/th_74696ff9.jpg)](http://smg.photobucket.com/albums/v335/sterpazook/?action=view¤t=74696ff9.jpg) [![Image Source](https://web.archive.org/web/20220819234642im_/http://img.photobucket.com/albums/v335/sterpazook/th_08356e8c.jpg)](http://smg.photobucket.com/albums/v335/sterpazook/?action=view¤t=08356e8c.jpg)

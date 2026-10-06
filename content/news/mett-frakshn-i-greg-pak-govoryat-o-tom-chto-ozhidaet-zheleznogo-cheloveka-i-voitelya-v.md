@@ -1,0 +1,21 @@
+{
+  "title": "Мэтт Фракшн и Грег Пак говорят о том, что ожидает Железного Человека и Воителя в будущем - SPOILER ALERT!",
+  "date": "2009-02-19T22:33:00+03:00",
+  "url": "/news/mett-frakshn-i-greg-pak-govoryat-o-tom-chto-ozhidaet-zheleznogo-cheloveka-i-voitelya-v/",
+  "original_url": "http://spidermedia.ru/news/mett-frakshn-i-greg-pak-govoryat-o-tom-chto-ozhidaet-zheleznogo-cheloveka-i-voitelya-v",
+  "archived": "https://web.archive.org/web/20120718083828/http://spidermedia.ru/news/mett-frakshn-i-greg-pak-govoryat-o-tom-chto-ozhidaet-zheleznogo-cheloveka-i-voitelya-v",
+  "template": "drupal",
+  "source_encoding": "utf-8"
+}
+
+Сегодня **Мэтт Фракшн** (*Matt Fraction*) **-** сценарист комикса **"Invincible Iron Man"** и **Грег Пак** (*Greg Pak*) - cценарист комикса **"War Machine vol.2"**делятся интересными подробностями по поводу того, что ожидает их персонажей в ближайшем будущем. Как вы поняли, речь пойдёт о двух друзьях**: Тони Старке** (*Tony Stark / Iron Man*) и **Джиме Роудсе** (*Jim Rhodes / War Machine*). Очень скоро их крепкая дружба претерпит большие изменения, так как **11го марта** выходит **11ый** выпуск комикса **"Invincible Iron Man"**, в котором произойдёт большое сражение между двумя "железными" воинами!
+
+]]> [![Wednesday Q&A: Pak & Fraction](https://web.archive.org/web/20120718083828im_/http://marvel.com/i/content/st/6959header_banner4996320.jpg)](http://pic.ipicture.ru/uploads/090209/6VVXkUMpld.png)]]>
+
+- Стоит напомнить, что Джим и Тони уже неоднократно сражались на страницах: **Iron Man vol.1 #192 - War Machine vol.1 #8 - Iron Man vol.1 #310 - War Machine vol.1 #22.**
+- Норман Осборн (*Norman Osborn / Iron Patriot*) который теперь имеет доступ ко всему архиву брони Железного Человека не сможет иметь доступ к репульсорной технологии Старка, так как это всё ещё собственность Тони. Возможно Норман и сделает в будущем новую броню, но новая броня Тони всегда будет на "ступеньку выше".
+- Начиная с **War Machine vol.2 #3**, **Арес** **-** (*Ares*) **бог войны**, будет играть большую роль в жизни Джима Роудса.
+- Часть из того, что произойдёт на страницах **Invincible Iron Man** **#11**: Тони прощается с **Генри Хеллрангом** (*Henry Hellrung* / *Anthem*), персонажем из комикса **"The Order"**. Генри понимает, как плохо идут дела у Старка.Он попытается заставить Тони не идти в поход против Осборна, но Тони его не будет слушать. Поэтому Генри позовёт на помощь Джима Роудса, который в свою очередь тоже побеседует с Тони, но в другом стиле.
+- Причина, из-за которой Джим Роудс стал киборгом получит дальнейшее развитие. Мы скоро узнаем, какова будет реакция Тони на то, что делает Джим (смотри **War Machine vol.2 #1-...**).
+
+На сегодня это всё. Оставайтесь с нами, чтобы быть в курсе всего, что будет происходить в комиксах **"Invincible Iron Man" и "War Machine vol.2"**.

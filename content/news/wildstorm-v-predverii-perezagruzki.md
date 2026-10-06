@@ -1,0 +1,16 @@
+{
+  "title": "Wildstorm: В предверии перезагрузки",
+  "date": "2009-09-18T23:24:00+03:00",
+  "url": "/news/wildstorm-v-predverii-perezagruzki/",
+  "original_url": "http://spidermedia.ru/news/wildstorm-v-predverii-perezagruzki",
+  "archived": "https://web.archive.org/web/20120607104041/http://spidermedia.ru/news/wildstorm-v-predverii-perezagruzki",
+  "template": "drupal",
+  "source_encoding": "utf-8"
+}
+
+Мы уже писали о [перезагрузке](../../node/1700/), которая ожидает **WildStorm Universe** в **декабре**. А пока мы ожидаем свежих релизов **DC Comics** на декабрь, представим вам две обложки грядущих проектов, которые вы можете видеть ниже. Первая из них, скорее всего, является ковером одного из номеров минисерии **One Foot In The Grave** от **Гейл Саймон** *(Gail Simone)* и **Горацио Домингеса** *(Horacio Domingues)*. Вторая обложка-скетч работы **Саймона Колеби** *(Simon Coleby)*, по непроверенной информации, является обложкой минисерии *(онгоинга?)* посвященного **Команде 7** *(Team 7)*.
+
+]]>[![Photobucket](https://web.archive.org/web/20120607104041im_/http://img.photobucket.com/albums/v499/sp888/th_thecut091109-675x1024.jpg)](http://smg.photobucket.com/albums/v499/sp888/?action=view¤t=thecut091109-675x1024.jpg)]]> ]]>[![Photobucket](https://web.archive.org/web/20120607104041im_/http://img.photobucket.com/albums/v499/sp888/th_thecut090409-669x1024.jpg)](http://smg.photobucket.com/albums/v499/sp888/?action=view¤t=thecut090409-669x1024.jpg)]]> ]]>[![Photobucket](https://web.archive.org/web/20120607104041im_/http://img.photobucket.com/albums/v499/sp888/th_thecut091809-659x1023.jpg)](http://smg.photobucket.com/albums/v499/sp888/?action=view¤t=thecut091809-659x1023.jpg)]]>Как отдельный бонус, ниже представим вам панель из грядущего перезапуска серии **Wildcats**, работы **Тима Сили** *(Tim Seeley)*. Как вы можете видеть на картинке, судя по всему, обещание издательства распределить героев **StormWatch P.H.D.** по остальным онгоингам издательства, получит свое воплощение и **Батальон** *(Battalion)* войдет в состав команды **Диких Котов** *(WildCats)*. Смотрим:]]>[![Photobucket](https://web.archive.org/web/20120607104041im_/http://img.photobucket.com/albums/v499/sp888/The_CATs_is_out_of_the_bag_by_re-1.jpg?t=1253098362)](http://smg.photobucket.com/albums/v499/sp888/?action=view¤t=The_CATs_is_out_of_the_bag_by_realc.jpg)]]>
+**UPD:** Выше вы можете видеть страничку *(обложку?)* работы **Тима Сили**. Учитывая, что он является художником перезапуска серии **WildCats**, а так же кадр с **Батальном** и **Зилот** (Zialot), приведенный выше, вполне резонно сделать вывод о кардинальном изменении состава **Диких Котов**!
+
+Поделиться:

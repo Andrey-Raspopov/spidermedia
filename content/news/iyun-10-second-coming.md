@@ -1,0 +1,52 @@
+{
+  "title": "Июнь '10: Second Coming",
+  "date": "2010-05-31T21:00:00+03:00",
+  "url": "/news/iyun-10-second-coming/",
+  "original_url": "http://spidermedia.ru/news/iyun-10-second-coming",
+  "archived": "https://web.archive.org/web/20251106233244/http://spidermedia.ru/news/iyun-10-second-coming",
+  "template": "modern",
+  "source_encoding": "utf-8"
+}
+
+**Второе Пришествие** **(Second Coming)** подходит к концу. Силы **Бастиона** **(Bastion)** наносят свой финальный удар по **Людям Икс** **(X-Men)**, а **Утопия** **(Utopia)** находится в осаде. Только **Икс-Форс** *(X-Force)* могут склонить чашу весов в сторону мутантов.
+![](https://web.archive.org/web/20251106233244im_/http://img.photobucket.com/albums/v499/sp888/news/second1.jpg)
+
+[![](https://web.archive.org/web/20251106233244im_/http://i.annihil.us/u/prod/marvel/i/content/70070comic_storystory_thumb-8920109..jpg)](http://images.comicbookresources.com/solicits/marvelcomics/201006-advance/135_UNCANNY_X_MEN_525.jpg) **Uncanny X-Men #525**
+Автор: **Мэтт Фракшен** **(Matt Fraction)**
+Художник: **Терри Додсон** **(Terry Dodson)**
+Обложка: **Ади Гранов** **(Adi Granov)**
+Вариант: **Дэвид Финч** **(David Finch)**
+"Второе Пришествие", часть 10 *(из 14)*
+Пока **Люди Икс** заперты под непроницаемым куполом **Бастиона**, а портал из вселенной **Days of Future Past** присылает все больше и больше **Нимродов** *(Nimrod)*, у **Икс-Форса** остается все меньше и меньше времени, чтобы разрушить злополучное окно в будущее. Сможет ли команда, к которой присоединились **Кейбл** *(Cable)* и **Дуг Рэмси** *(Doug Ramsey aka Cypher)* справиться с задачей и вернуться живыми с этой миссии?
+[![](https://web.archive.org/web/20251106233244im_/http://i.annihil.us/u/prod/marvel/i/content/69800comic_storystory_thumb-9021412..jpg)](http://images.comicbookresources.com/solicits/marvelcomics/201006-advance/newmutants14.jpg) **New Mutants #14**
+Автор: **Зеб Уэллс** **(Zeb Wells)**
+Художник: **Ибраим Роберсон** **(Ibraim Roberson)**
+Обложка: **Ади Гранов** **(Adi Granov)**
+Вариант: **Дэвид Финч** **(David Finch)**
+"Второе Пришествие", часть 11 *(из 14)*
+Когда битва с **Нимродами** проиграна, чтобы выжить **Циклоп** *(Cyclops)* идет на отчаянный шаг, дабы спасти расу мутантов от уничтожения - **Легион** *(Legion)* выпущен из заточения, чтобы сражаться на стороне **Людей Икс**.
+[![](https://web.archive.org/web/20251106233244im_/http://i.annihil.us/u/prod/marvel/i/content/75269comic_storystory_thumb-8927219..jpg)](http://images.comicbookresources.com/solicits/marvelcomics/201006-advance/148_X_MEN_LEGACY_237_FINCH_VARIANT_.jpg) **X-Men: Legacy #237**
+Автор: **Майк Кэри** **(Mike Carey)**
+Художник: **Грег Лэнд** **(Greg Land)**
+Обложка: **Ади Гранов** **(Adi Granov)**
+Вариант: **Дэвид Финч** **(David Finch)**
+"Второе Пришествие", часть 12 *(из 14)*
+У **Икс-Форса** остается все меньше и меньше времени, чтобы закрыть портал, ведущий из альтернативного будущего в настоящее, но для этого им нужно прорваться через армию солдат **Бастиона**. Тем временем **Люди Икс** проигрывают битву с превосходящими силами противника.
+[![](https://web.archive.org/web/20251106233244im_/http://i.annihil.us/u/prod/marvel/i/content/73932comic_storystory_thumb-8929178..jpg)](http://images.comicbookresources.com/solicits/marvelcomics/201006-advance/146_X_FORCE_28_FINCH_VARIANT_.jpg) **X-Force #28**
+Авторы: **Крейг Кайл** **(Craig Kyle)** & **Кристофер Йост** **(Christopher Yost)**
+Художники: **Майк Чои** **(Mike Choi)** & **Сонья Обак** **(Sonia Oback)**
+Обложка: **Ади Гранов** **(Adi Granov)**
+Вариант: **Дэвид Финч** **(David Finch)**
+"Второе Пришествие", часть 13 *(из 14)**, финал*
+Финал! Последняя битва между **Людьми Икс** в настоящем и **Икс-Форсом** в будущем с силами **Бастиона**. Мы знаем, что **Бастион** всегда был на шаг впереди **Людей Икс**, но смерть одного из мутантов может склонить чашу весов в противоположную сторону.
+[![](https://web.archive.org/web/20251106233244im_/http://i.annihil.us/u/prod/marvel/i/content/70148comic_storystory_thumb-8927107..jpg)](http://images.comicbookresources.com/solicits/marvelcomics/201006-advance/144_X_FACTOR_206.jpg) **X-Factor #206**
+Автор: **Питер Дэвид** **(Peter David)**
+Художник: **Валентино Ди Ландро** **(Valentine De Landro)**
+Обложка: **Давид Ярдин** **(David Yardin)**
+"Второе Пришествие - Откровения", часть 3 *(из 3)*
+Заключительная часть арка, в которой **Траск** *(Trask)* возьмет в свои руки контроль за **MRD** *(Mutant Response Division)*, чтобы начать полномасштабную войну против **Икс-Фактора**.
+[![](https://web.archive.org/web/20251106233244im_/http://i.annihil.us/u/prod/marvel/i/content/74312comic_storystory_thumb-9009371..jpg)](http://images.comicbookresources.com/solicits/marvelcomics/201006-advance/150_X_MEN__HELLBOUND_2.jpg) **X-Men: Second Coming - Revelations: Hellbound #2 *(of 3)***
+Автор: **Кристофер Йост** **(Christopher Yost)**
+Художник: **Харви Толибао** **(Harvey Tolibao)**
+Обложка: **Марко Джурджевич** **(Marko Djurdjevic)**
+**Люди Икс** против **Смерти** *(Death aka Gambit)*. Отряд посланный на поиск **Мэджик** *(Magik aka Illiana Rasputin)* должен как можно скорее вернуться на Землю, чтобы помочь в сражении с войсками **Бастиона**. Меж тем, поиски **Иллианы** так и не увенчались успехом, а один из участников группы попал под влияние **Лимбо** *(Limbo)*.

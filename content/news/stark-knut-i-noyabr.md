@@ -1,0 +1,23 @@
+{
+  "title": "Старк, Кнут и ноябрь",
+  "date": "2009-08-14T22:14:00+03:00",
+  "url": "/news/stark-knut-i-noyabr/",
+  "original_url": "https://spidermedia.ru/news/stark-knut-i-noyabr",
+  "archived": "https://web.archive.org/web/20250814203442/https://spidermedia.ru/news/stark-knut-i-noyabr",
+  "template": "modern",
+  "source_encoding": "utf-8"
+}
+
+![9196header_banner0263194.jpg - image uploaded to Picamatic](https://web.archive.org/web/20250814203442im_/http://www.picamatic.com/show/2009/08/14/08/38/4737238_608x229.jpg "9196header_banner0263194.jpg")Пиар к фильму Железный Человек 2 ("Iron Man 2") начался. В ноябре нас ожидает новая мини, состоящая из четырёх выпусков, под названием Iron Man vs. Whiplash. Все подробности ниже:
+
+Возможно, не все знают, что настоящий Кнут (Mark Scarlotti/Whiplash) погиб от рук "живой" брони Железного Человека (Tony Stark/Iron Man) в Iron Man v3 #28. С тех пор прошло много времени. Были некоторые люди, которые пытались продолжить дело Марка Скарлотти, но затмить оригинал ни у кого так и не получилось.
+
+В данной мини, нам представят нового Кнута - Антона Ванко (Anton Vanko/New Whiplash). Единственное отличие от экранной версии - это имя. Кстати, у Тони Старка уже был враг под таким именем. Этим врагом был первый Красный Динамо (Anton Vanko/the first Crimson Dynamo). Пока неизвестно или будет новый Антон иметь связь со старым, но вот что гласит описание:
+
+[![9196new_storyimage0263194.jpg - image uploaded to Picamatic](https://web.archive.org/web/20250814203442im_/http://www.picamatic.com/show/2009/08/14/08/38/4737239_bigthumb.jpg "9196new_storyimage0263194.jpg")](http://www.picamatic.com/view/4737239_9196new_storyimage0263194/) [![9196new_storyimage0263299.jpg - upload images with Picamatic](https://web.archive.org/web/20250814203442im_/http://www.picamatic.com/show/2009/08/14/08/38/4737241_bigthumb.jpg "9196new_storyimage0263299.jpg")](http://www.picamatic.com/view/4737241_9196new_storyimage0263299/)
+
+Обложка Iron Man vs. Whiplash #1 от Брендона Петерсона (Brandon Peterson) и дизайн Кнута от Марко Джурджевича (Marko Djurdjevic)
+
+- Встречайте нового и беспощадного Кнута! События комикса происходят во Вселенной Marvel (Marvel Universe). Кто такой Антон Ванко? Почему он и ООН считают, что Тони Старк виновен в смерти тысяч невинных людей?
+
+Сценаристами новой мини выступят Брэннон Брага (Brannon Braga) и Марк Гуггенхайм (Marc Gugenheim), а поможет им художник Фил Брайонес (Phil Briones). Первый выпуск мини появится на прилавках 4 ноября.

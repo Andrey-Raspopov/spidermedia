@@ -1,0 +1,31 @@
+:root { --fg: #1d1d1f; --muted: #6b6b70; --bg: #fbfaf8; --line: #e4e1dc; --accent: #b3261e; }
+@media (prefers-color-scheme: dark) {
+  :root { --fg: #e9e7e3; --muted: #a09d98; --bg: #18181a; --line: #2e2d2b; --accent: #ff6b5e; }
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--fg);
+  font: 17px/1.6 Georgia, "PT Serif", "Times New Roman", serif; }
+a { color: var(--accent); }
+header.site, main, footer.site { max-width: 46rem; margin: 0 auto; padding: 0 1rem; }
+header.site { padding-block: 1.25rem; border-bottom: 1px solid var(--line);
+  font-family: system-ui, -apple-system, "Segoe UI", sans-serif; font-size: 0.95rem; }
+header.site .brand { font-weight: 700; color: var(--fg); text-decoration: none; font-size: 1.15rem; }
+header.site .brand span { color: var(--muted); font-weight: 400; }
+header.site nav { display: flex; flex-wrap: wrap; gap: 0.25rem 0.9rem; margin-top: 0.5rem; }
+header.site nav a { text-decoration: none; }
+main { padding-block: 1.5rem 3rem; }
+h1 { line-height: 1.2; margin: 0 0 0.5rem; }
+.meta, time, footer.site, .sections span { color: var(--muted); font-family: system-ui, sans-serif; font-size: 0.85rem; }
+.body img { max-width: 100%; height: auto; }
+.body iframe { max-width: 100%; }
+.body table { display: block; max-width: 100%; overflow-x: auto; border-collapse: collapse; }
+.body td, .body th { border: 1px solid var(--line); padding: 0.25rem 0.5rem; }
+.body blockquote { margin-left: 0; padding-left: 1rem; border-left: 3px solid var(--line); color: var(--muted); }
+ul.list { list-style: none; padding: 0; }
+ul.list li { padding: 0.35rem 0; border-bottom: 1px solid var(--line); }
+ul.list time { display: inline-block; min-width: 6.5rem; }
+ul.sections { columns: 2 14rem; padding-left: 1.1rem; }
+.pagination { display: flex; flex-wrap: wrap; gap: 0.4rem; list-style: none; padding: 0;
+  font-family: system-ui, sans-serif; font-size: 0.9rem; }
+.pagination .active a { font-weight: 700; color: var(--fg); }
+footer.site { padding-block: 2rem; border-top: 1px solid var(--line); }

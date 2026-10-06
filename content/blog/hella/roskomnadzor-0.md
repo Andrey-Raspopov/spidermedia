@@ -1,0 +1,33 @@
+{
+  "title": "РосКомНадзор: тишь да гладь",
+  "date": "2015-01-23T12:00:00+03:00",
+  "url": "/blog/hella/roskomnadzor-0/",
+  "original_url": "https://spidermedia.ru/blog/hella/roskomnadzor-0",
+  "archived": "https://web.archive.org/web/20260206230325/https://spidermedia.ru/blog/hella/roskomnadzor-0",
+  "template": "modern",
+  "source_encoding": "utf-8"
+}
+
+Начитавшись разных тредов по поводу кастингов, а также отзывов о новых фильмах и свежих обсуждений сериалов, я даже рада, что в нашем сегменте прошедшая неделя была довольно спокойной. Главной темой продолжает оставаться энциклопедия Marvel. Сообщают даже, что в рейтинге вопросов она обставляет «А когда Ходячие?», «А мат будет?» и «Что там слышно про мангу». Вот это я понимаю. Успех.
+[![](https://web.archive.org/web/20260206230325im_/http://i.imgur.com/zhQgdKtl.jpg "source: imgur.com")](http://imgur.com/zhQgdKt)
+
+Главным анонсом прошлой недели безоговорочно становится книга «**Век супергероев: Истоки, история, идеология американского комикса»** от издательства **«Изотека»**. Рано или поздно это должно было произойти. Раз уж рынок насытился супергеройскими комиксами, а каждую неделю к нам на огонек заглядывают Олли, Барри и прочие, то самое время освоить и научный труд по теме. «Эта книга рассказывает о том, как возник и развивался американский комикс о супергерое с 1938 года по сегодняшний день. Это не просто история жанра, но подробный анализ различных его аспектов», — [гласит](http://izoteka.ru/vek-supergeroev-istoki-istoriya-ideologiya-amerikanskogo-komiksa/) анонс. Что ж, shut up and take my money. Эх, где вы были год назад? Книга уже ушла в печать. Ожидайте ее появление на прилавках магазинов к середине февраля.
+Продолжая тему околокомиксового: обороты набирает история, связанная с **Энциклопедией Marvel** от **«Эксмо»**. Как и ожидалось, цена безбожно кусается, что вызвало волну бурлений и привело к очередному слету диванных экономистов. До 5 февраля вы можете сэкономить, оформив предзаказ в [«Чуке и Гике»](http://www.chookandgeek.ru/collection/new/product/entsiklopediya-marvel-heroes-predzakaz), на «Лабиринте» или «Озоне».
+[![](https://web.archive.org/web/20260206230325im_/http://i.imgur.com/jL8oNkWl.jpg "source: imgur.com")](http://imgur.com/jL8oNkW)[![](https://web.archive.org/web/20260206230325im_/http://i.imgur.com/NKIv2V7l.jpg "source: imgur.com")](http://imgur.com/NKIv2V7)
+[![](https://web.archive.org/web/20260206230325im_/http://i.imgur.com/pbhqUEtl.jpg "source: imgur.com")](http://imgur.com/pbhqUEt)[![](https://web.archive.org/web/20260206230325im_/http://i.imgur.com/ML7Gb5Gl.jpg "source: imgur.com")](http://imgur.com/ML7Gb5G)
+Но вернемся к нашим баранам. Издательство **«Азбука»** сообщило, что **«Супермен. Земля 1. Книга 3»** Дж. Майкла Стражински и Ардиана Сайефа сдан в печать. Примечательно здесь то, что книга поступит в продажу практически одновременно со своим зарубежным аналогом (20 февраля). Маленький, но важный успех наших издателей. А пока смотрим превью:
+[![](https://web.archive.org/web/20260206230325im_/http://i.imgur.com/9TyFzS2l.jpg "source: imgur.com")](http://imgur.com/9TyFzS2)
+[![](https://web.archive.org/web/20260206230325im_/http://i.imgur.com/FrpwWapl.jpg "source: imgur.com")](http://imgur.com/FrpwWap)[![](https://web.archive.org/web/20260206230325im_/http://i.imgur.com/yt8Eqk4l.jpg "source: imgur.com")](http://imgur.com/yt8Eqk4)
+Зима под знаком Нила Геймана продолжается: **XL Media** сдало в печать **«Мистерии убийства»**, в основу которых лег одноименный рассказ английского автора. 112 страниц, дополнительные материалы (много), ждем 10 февраля. Превью:
+[![](https://web.archive.org/web/20260206230325im_/http://i.imgur.com/RR6XzCNl.jpg "source: imgur.com")](http://imgur.com/RR6XzCN)
+[![](https://web.archive.org/web/20260206230325im_/http://i.imgur.com/ppuG6D6l.jpg "source: imgur.com")](http://imgur.com/ppuG6D6)[![](https://web.archive.org/web/20260206230325im_/http://i.imgur.com/RBDoaZ3l.jpg "source: imgur.com")](http://imgur.com/RBDoaZ3)[![](https://web.archive.org/web/20260206230325im_/http://i.imgur.com/gDYfHIOl.jpg "source: imgur.com")](http://imgur.com/gDYfHIO)[![](https://web.archive.org/web/20260206230325im_/http://i.imgur.com/C6N36Dzl.jpg "source: imgur.com")](http://imgur.com/C6N36Dz)[![](https://web.archive.org/web/20260206230325im_/http://i.imgur.com/NJNIuYhl.jpg "source: imgur.com")](http://imgur.com/NJNIuYh)[![](https://web.archive.org/web/20260206230325im_/http://i.imgur.com/nqwd8ejl.jpg "source: imgur.com")](http://imgur.com/nqwd8ej)
+Подоспели анонсы 31-35 книг **«Ашет-коллекции»**:
+31) **«Капитан Америка. Избранный»**. Внутри: Captain America: The Chosen #1-6. Сценарий — Дэвид Моррелл, рисунок — Митч Брейтвейзер
+32) **«Секретные войны. Часть II»**. Внутри: Marvel Superheroes Secret Wars #7-12. Сценарий —Джим Шутер, рисунок — Майк Зек и Боб Лейтон
+33) **«Человек-Паук. Грусть»**. Внутри: Spider-Man: Blue #1-6. Сценарий — Джеф Лоэб, рисунок — Тим Сейл
+34) **«Новые Люди Икс. Империал»**. Внутри: New X-Men #118-126. Сценарий — Грант Моррисон, рисунок — Фрэнк Куайтли, Итан Ван Скайвер и Игорь Кордей
+35) **«Новые Мстители. Побег»**. Внутри: New Avengers #1-6. Сценарий — Брайан Майкл Бендис, рисунок — Дэвид Финч.
+Новинка от **Khan Comics**: серия **«Галстуки»**, первый номер которой выйдет в ближайшее время. В сюжете запланировано 6 выпусков. Синопсис гласит: «Мир изменился после катастрофы. Новый порядок — орден Галстуков, которые прибрали к своим рукам все уцелевшие блага человечества. Чтобы жить достойно, нужно быть приспешником ордена. История повествует об Иване — обычном парне со сложной и несчастливой жизнью и его пути после катастрофы, которая открыла ему дорогу к власти».
+[![](https://web.archive.org/web/20260206230325im_/http://i.imgur.com/BKRgNs5l.jpg "source: imgur.com")](http://imgur.com/BKRgNs5)[![](https://web.archive.org/web/20260206230325im_/http://i.imgur.com/ptxTwVGl.jpg "source: imgur.com")](http://imgur.com/ptxTwVG)[![](https://web.archive.org/web/20260206230325im_/http://i.imgur.com/ZO2O1yJl.jpg "source: imgur.com")](http://imgur.com/ZO2O1yJ)
+Не пропустите [превью](../../../news/eksklyuziv-prevyu-i-nemnozhko-roka-no2/) второго номера **«И немножко рока»** от издательства **«42»** и шикарную [вариантную обложку](../../../news/eksklyuziv-variantnaya-oblozhka-ekslibrium-no28-dlya-magazina-apelsin-0/) **«Экслибриума»** от **BUBBLE**. В течение дня ждите на нашем сайте first look на вариантную обложку **«Метеоры»**.
+[![](https://web.archive.org/web/20260206230325im_/http://i.imgur.com/KVl2C7El.jpg "source: imgur.com")](http://imgur.com/KVl2C7E)[![](https://web.archive.org/web/20260206230325im_/http://i.imgur.com/MGbE9o8l.jpg "source: imgur.com")](http://imgur.com/MGbE9o8)

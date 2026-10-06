@@ -1,0 +1,20 @@
+{
+  "title": "Stairway to Reunion",
+  "date": "2010-03-11T18:37:00+03:00",
+  "url": "/news/stairway-reunion/",
+  "original_url": "http://spidermedia.ru/news/stairway-reunion",
+  "archived": "https://web.archive.org/web/20251213191022/http://spidermedia.ru/news/stairway-reunion",
+  "template": "modern",
+  "source_encoding": "utf-8"
+}
+
+Совсем недавно **Marvel** анонсировали новую **мини**, состоящую из **пяти выпусков**, под названием **Avengers Prime: Siege Aftermath**, которая стартует в **июне**.![http://comicbookresources.com/assets/phpThumb/phpThumb.php?src=/assets/images/articles/1267547149.jpg&w=300](https://web.archive.org/web/20251213191022im_/http://comicbookresources.com/assets/phpThumb/phpThumb.php?src=/assets/images/articles/1267547149.jpg&w=300)Мы знаем, что "Троица" Мстителей, состоящая из **Стива Роджерса** *(Steve Rogers/Captain America)*, **Тора** *(Thor)* и **Железного Человека** *(Tony Stark/Iron Man)*, воссоединится во время **Осады** *(Siege)* и отбросит все разногласия, чтобы остановить **Нормана Осборна** *(Norman Osborn/Iron Patriot)* и **Локи** *(Loki)*. Но что же будет дальше? Смогут ли эти герои снова стать друзьями после всего произошедшего с ними? Об этом и многом другом нам расскажут сценарист **Брайан Майкл Бендис** *(Brian Michael Bendis)* и художник **Алан Дэвис** *(Alan Davis)*.
+[![Photobucket](https://web.archive.org/web/20251213191022im_/http://i859.photobucket.com/albums/ab152/RealIrOnMaN-1/th_Prime.jpg)](http://s859.photobucket.com/albums/ab152/RealIrOnMaN-1/Prime.jpg) [![Photobucket](https://web.archive.org/web/20251213191022im_/http://i859.photobucket.com/albums/ab152/RealIrOnMaN-1/th_11513storystory_full-7562045.jpg)](http://s859.photobucket.com/albums/ab152/RealIrOnMaN-1/11513storystory_full-7562045.jpg)
+Промо-арт от Алана Дэвиса
+
+- Сюжет комикса стартует сразу после окончания Осады (Siege), но до начала онгоинга Avengers v4 и Эры Героев (Heroic Age). Кэп, Тор и Железный Человек окажутся втянуты в большое и безумное приключение, причем против их воли, а именно - в путешествие во времени. Именно это поможет героям вспомнить светлые дни былой славы, а также попытаться снова стать ближе, что, собственно, будет не так просто, учитывая всё пережитое "Троицей".
+- Бендис сказал, что мини будет выходить раз в два месяца.
+- Следует ожидать камео разных Мстителей (Avengers) в первом выпуске.
+- По словам Брайана, было интересно развивать отношения между Тони Старком и Стивом Роджерсом, а потому - читателей ждет продолжение линий уан-шота Civil War: The Confession.
+
+Смогут ли герои снова сражаться на одной стороне? Будут ли они в одной и той же команде? (Прим. от Бендиса: "Даже несмотря на то, что вы видели на обложках к [майским релизам](../../node/2409/)") Ответы на эти и многие другие вопросы, вы найдете на страницах данной мини.

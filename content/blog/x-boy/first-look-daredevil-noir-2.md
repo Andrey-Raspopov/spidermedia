@@ -1,0 +1,15 @@
+{
+  "title": "First Look: Daredevil: Noir #2",
+  "date": "2009-04-17T13:57:00+03:00",
+  "url": "/blog/x-boy/first-look-daredevil-noir-2/",
+  "original_url": "http://spidermedia.ru/blog/x-boy/first-look-daredevil-noir-2",
+  "archived": "https://web.archive.org/web/20260116222128/http://spidermedia.ru/blog/x-boy/first-look-daredevil-noir-2",
+  "template": "modern",
+  "source_encoding": "utf-8"
+}
+
+Перед выходом второго номера «Daredevil: Noir», сайт **NEWSARAMA.com** решило побаловать нас парочками превью этого комикса.
+
+[![DD---Noir2-cover.jpg - upload images with Picamatic](https://web.archive.org/web/20260116222128im_/http://www.picamatic.com/show/2009/04/17/01/27/3294936_bigthumb.jpg "DD---Noir2-cover.jpg")](http://www.picamatic.com/view/3294936_DD---Noir2-cover/) [![DDNoir02-6.jpg - upload images with Picamatic](https://web.archive.org/web/20260116222128im_/http://www.picamatic.com/show/2009/04/17/01/24/3294907_bigthumb.jpg "DDNoir02-6.jpg")](http://www.picamatic.com/view/3294907_DDNoir02-6/) [![DDNoir02-10.jpg - image uploaded to Picamatic](https://web.archive.org/web/20260116222128im_/http://www.picamatic.com/show/2009/04/17/01/25/3294912_bigthumb.jpg "DDNoir02-10.jpg")](http://www.picamatic.com/view/3294912_DDNoir02-10/) [![DDNoir02-13.jpg - image uploaded to Picamatic](https://web.archive.org/web/20260116222128im_/http://www.picamatic.com/show/2009/04/17/01/25/3294918_bigthumb.jpg "DDNoir02-13.jpg")](http://www.picamatic.com/view/3294918_DDNoir02-13/) [![DDNoir-16.jpg - Picamatic - upload your images](https://web.archive.org/web/20260116222128im_/http://www.picamatic.com/show/2009/04/17/01/27/3294935_bigthumb.jpg "DDNoir-16.jpg")](http://www.picamatic.com/view/3294935_DDNoir-16/).
+
+Напоминаем, что выход комикса заплонирован на **6 мая**.

@@ -1,0 +1,92 @@
+{
+  "title": "The Column With No Name - Week #10: Wolverine is a jerk!!",
+  "date": "2009-05-31T03:59:00+03:00",
+  "url": "/blog/sir-carnage/column-no-name-week-10-wolverine-jerk/",
+  "original_url": "http://spidermedia.ru/blog/sir-carnage/column-no-name-week-10-wolverine-jerk",
+  "archived": "https://web.archive.org/web/20251211024332/http://spidermedia.ru/blog/sir-carnage/column-no-name-week-10-wolverine-jerk",
+  "template": "modern",
+  "source_encoding": "utf-8"
+}
+
+А пока я изобретаю способ сделать комиксы темой своей курсовой на следующий год, эти самые комиксы продолжают исправно выходить в больших количествах, отсылая сессию (если это ещё можно так назвать) куда-то в дебри второго плана. Ох уж эта моя вечная атараксия, сдохну и не замечу. Ну да ладно, поговорим уже о важном. Важное:
+
+1. **Batman in Barcelona: Dragon's Knight**
+2. **Green Lantern #41**
+3. **Justice League of America #33**
+4. **Justice Society of America #27**
+5. **The Literals #2**
+6. **Madame Xanadu #11**
+7. **Unknown Soldier #8**
+8. **Darkness #77**
+9. **The Sword #17**
+10. **Amazing Spider-Man #595**
+11. **Avengers: The Initiative #24**
+12. **Avengers/Invaders #11**
+13. **Dark Reign: Elektra #3**
+14. **Dark Reign: Made Men #2**
+15. **Dark Reign: The Hood #1**
+16. **Ender's Shadow: Battle School #5**
+17. **Ghost Rider #35**
+18. **Guardians of the Galaxy #14**
+19. **Immortal Iron Fist #26**
+20. **Moon Knight #30**
+21. **Ms Marvel #39**
+22. **New Avengers #53**
+23. **Nova #25**
+24. **Runaways #10**
+25. **Spider-Man: The Short Halloween**
+26. **War Machine #6**
+27. **Wolverine #72**
+28. **Wolverine: First Class #15**
+29. **Wolverine: Origins #36**
+30. **X-force #15**
+31. **X-men: Legacy #224**
+32. **Crossed #5**
+
+Let's get dangerous!
+
+**Комикс недели:**
+![Photobucket](https://web.archive.org/web/20251211024332im_/http://i3.photobucket.com/albums/y65/Carnage_vl/th_GR_35_Oroboros_DCP_001.jpg)
+Ghost Rider #35
+
+С первых кадров этой трэш-радости моё лицо заполонила крайне идиотская улыбочка, края которой и вовсе сошлись на затылке, когда я увидел как выглядит местная злодейка. Вот оно, истинное лицо кавая. В этом комиксе такой мощный заряд фана, что восторг не покидает даже во время довольно серьёзных и не особо-то фановых моментов (да, генеральная сюжетная линия здесь всё же даёт о себе знать, но это ж разве плохо?). Во многом тут ещё заслуга Тони Мура, ибо всякую страшную чертовщину он рисует как бог, а её тут выше крыши.
+
+Герой недели:
+![Photobucket](https://web.archive.org/web/20251211024332im_/http://i3.photobucket.com/albums/y65/Carnage_vl/AvengersTheInitiative24MrShepherd-M.jpg)
+Hardball
+
+Парень может с чистой совестью менять имя на "Hardballs", после такого имеет полное право. Кому-то может показаться, что ничего такого уж особенного он и не сделал, но просто задумайтесь на минутку и спрсите себя: а вы бы смогли так поступить ради благородного дела? И тем более, заставить любимого человека вас ненавидеть, потому что ему реально так лучше? Ну, кто-то вероятно мог бы, но это всяко потруднее будет, чем суперзлодеям морды бить.
+
+Злодей недели:
+![Photobucket](https://web.archive.org/web/20251211024332im_/http://i3.photobucket.com/albums/y65/Carnage_vl/The_Literals_002_006.jpg)
+Kevin Thorn
+
+На этот раз Кевин взял последней страницей, сулящей много нехорошего всему сущему. Ах, как бы и мне хотелось, чтобы от творческого кризиса можно было избавиться с помощью всего навсего простой кочерги.
+
+Кадр недели:
+
+[![Photobucket](https://web.archive.org/web/20251211024332im_/http://i3.photobucket.com/albums/y65/Carnage_vl/GR_35_Oroboros_DCP_004.jpg)](http://s3.photobucket.com/albums/y65/Carnage_vl/?action=view¤t=GR_35_Oroboros_DCP_004.jpg)
+Ничего, и со мной такое тоже иногда бывает. Уверен, что и с вами тоже.
+
+Обложка недели:
+![Photobucket](https://web.archive.org/web/20251211024332im_/http://i3.photobucket.com/albums/y65/Carnage_vl/th_DR_-_The_Hood_001_000.jpg)
+Dark Reign: The Hood #1
+
+Колонка писем недели:
+![Photobucket](https://web.archive.org/web/20251211024332im_/http://i3.photobucket.com/albums/y65/Carnage_vl/th_Spider-Man595GreenGiant027.jpg)
+Amazing Spider-Man #595
+
+Примечательна за счёт того, что на письма в этот раз отвечает сам Норман Осборн. Выглядит по меньшей мере забавно.
+
+Оторванная конечность недели:
+![Photobucket](https://web.archive.org/web/20251211024332im_/http://i3.photobucket.com/albums/y65/Carnage_vl/GL41-023.jpg)
+Рука Хэла Джордана
+
+Комментарии излишни.
+
+Лажа недели:
+![Photobucket](https://web.archive.org/web/20251211024332im_/http://i3.photobucket.com/albums/y65/Carnage_vl/th_00-4.jpg)
+Justice Society of America #27
+
+Вот над этой номинацией пришлось подумать, ибо унылых комиксов на это неделе было не то чтобы очень мало. Задав себе простой вопрос "Что тебе, балда, понравилось меньше всего?", я обнаружил, что это JSA. Впрочем, чему удивляться, Ордвэй поверг серию в уныние ещё даже до ухода Джонса, а теперь Джонса нет и скука заполонила тайтл что те киборги планету. Виллингем, Стёрджес, вы где?
+That's all, folks! Не забывайте выгуливать свой мозг три раза в день и менять ему наполнитель в туалете.

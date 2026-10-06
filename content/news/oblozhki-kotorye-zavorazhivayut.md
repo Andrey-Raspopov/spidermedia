@@ -1,0 +1,16 @@
+{
+  "title": "Обложки, которые завораживают...",
+  "date": "2009-04-29T20:26:00+03:00",
+  "url": "/news/oblozhki-kotorye-zavorazhivayut/",
+  "original_url": "https://spidermedia.ru/news/oblozhki-kotorye-zavorazhivayut",
+  "archived": "https://web.archive.org/web/20260120154928/https://spidermedia.ru/news/oblozhki-kotorye-zavorazhivayut",
+  "template": "modern",
+  "source_encoding": "utf-8"
+}
+
+Не так давно, мы уже [писали](../../node/909/) о новой онгоинг-серии про **Пауэр Гёрл** (*Power Girl*), а также выкладывали альтернативные обложки. Теперь пришло время увидеть новые обложки для номеров **3** и **4**, и на этот раз от художника **Гиллема Марша** (*Guillem March*). Смотрим и любуемся, а также не забываем, что **1** номер появится на прилавках уже **6 мая**.
+[![](https://web.archive.org/web/20260120154928im_/http://i007.radikal.ru/0904/9b/07d13a230d49t.jpg)](http://radikal.ru/F/i007.radikal.ru/0904/9b/07d13a230d49.jpg.html) [![](https://web.archive.org/web/20260120154928im_/http://i062.radikal.ru/0904/84/c829083dd595t.jpg)](http://radikal.ru/F/i062.radikal.ru/0904/84/c829083dd595.jpg.html)
+**UPD:** Не прошло и суток, а уже к обозрению стало доступно полноценное превью 1 номера, смотрим:
+
+[![](https://web.archive.org/web/20260120154928im_/http://i027.radikal.ru/0904/43/d2e18efa27a0t.jpg)](http://radikal.ru/F/i027.radikal.ru/0904/43/d2e18efa27a0.jpg.html) [![](https://web.archive.org/web/20260120154928im_/http://s40.radikal.ru/i087/0904/9c/44edb6e36fcbt.jpg)](http://radikal.ru/F/s40.radikal.ru/i087/0904/9c/44edb6e36fcb.jpg.html) [![](https://web.archive.org/web/20260120154928im_/http://s40.radikal.ru/i090/0904/91/9969aaea2ba5t.jpg)](http://radikal.ru/F/s40.radikal.ru/i090/0904/91/9969aaea2ba5.jpg.html) [![](https://web.archive.org/web/20260120154928im_/http://i001.radikal.ru/0904/cf/00de46981e65t.jpg)](http://radikal.ru/F/i001.radikal.ru/0904/cf/00de46981e65.jpg.html)
+[![](https://web.archive.org/web/20260120154928im_/http://s56.radikal.ru/i152/0904/83/1ce4f0ef757ct.jpg)](http://radikal.ru/F/s56.radikal.ru/i152/0904/83/1ce4f0ef757c.jpg.html)[![](https://web.archive.org/web/20260120154928im_/http://i077.radikal.ru/0904/a1/d4eb8731f4d5t.jpg)](http://radikal.ru/F/i077.radikal.ru/0904/a1/d4eb8731f4d5.jpg.html) [![](https://web.archive.org/web/20260120154928im_/http://s51.radikal.ru/i134/0904/db/405ba8a9160et.jpg)](http://radikal.ru/F/s51.radikal.ru/i134/0904/db/405ba8a9160e.jpg.html) [![](https://web.archive.org/web/20260120154928im_/http://s61.radikal.ru/i173/0904/f4/58494564aeaat.jpg)](http://radikal.ru/F/s61.radikal.ru/i173/0904/f4/58494564aeaa.jpg.html)

@@ -1,0 +1,14 @@
+{
+  "title": "Арт-превью Iron Man vs. Whiplash #1",
+  "date": "2009-09-28T22:31:00+03:00",
+  "url": "/news/art-prevyu-iron-man-vs-whiplash-1/",
+  "original_url": "http://spidermedia.ru/news/art-prevyu-iron-man-vs-whiplash-1",
+  "archived": "https://web.archive.org/web/20260120145311/http://spidermedia.ru/news/art-prevyu-iron-man-vs-whiplash-1",
+  "template": "modern",
+  "source_encoding": "utf-8"
+}
+
+Сегодня мы приготовили для вас превью Iron Man vs. Whiplash #1[![9196new_storyimage0263194.jpg - image uploaded to Picamatic](https://web.archive.org/web/20260120145311im_/http://www.picamatic.com/show/2009/09/28/10/16/5241643_bigthumb.jpg "9196new_storyimage0263194.jpg")](http://www.picamatic.com/view/5241643_9196new_storyimage0263194/)
+Обложка #1 от от Брендона "Петросяна" Петерсона (Brandon Peterson)
+
+Встречайте нового и беспощадного Кнута (Anton Vanko/New Whiplash). События комикса происходят во Вселенной Marvel (Marvel Universe). Кто такой Антон Ванко? Почему он и ООН считают, что Тони Старк (Tony Stark/Iron Man) виновен в смерти тысяч невинных людей?[![1.jpg - Picamatic - upload your images](https://web.archive.org/web/20260120145311im_/http://www.picamatic.com/show/2009/09/28/10/25/5241751_bigthumb.jpg "1.jpg")](http://www.picamatic.com/view/5241751_1/) [![2.jpg - upload images with Picamatic](https://web.archive.org/web/20260120145311im_/http://www.picamatic.com/show/2009/09/28/10/25/5241759_bigthumb.jpg "2.jpg")](http://www.picamatic.com/view/5241759_2/) [![3.jpg - image uploaded to Picamatic](https://web.archive.org/web/20260120145311im_/http://www.picamatic.com/show/2009/09/28/10/25/5241747_bigthumb.jpg "3.jpg")](http://www.picamatic.com/view/5241747_3/) [![4.jpg - image uploaded to Picamatic](https://web.archive.org/web/20260120145311im_/http://www.picamatic.com/show/2009/09/28/10/25/5241746_bigthumb.jpg "4.jpg")](http://www.picamatic.com/view/5241746_4/) [![5.jpg - image uploaded to Picamatic](https://web.archive.org/web/20260120145311im_/http://www.picamatic.com/show/2009/09/28/10/25/5241761_bigthumb.jpg "5.jpg")](http://www.picamatic.com/view/5241761_5/) [![6.jpg - upload images with Picamatic](https://web.archive.org/web/20260120145311im_/http://www.picamatic.com/show/2009/09/28/10/24/5241743_bigthumb.jpg "6.jpg")](http://www.picamatic.com/view/5241743_6/)Сценаристами новой мини выступят Брэннон Брага (Brannon Braga) и Марк Гуггенхайм (Marc Gugenheim), а поможет им художник Фил Брайонес (Phil Briones). Первый выпуск мини появится на прилавках 4 ноября.

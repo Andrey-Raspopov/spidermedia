@@ -1,0 +1,21 @@
+{
+  "title": "Когтистый Апрель",
+  "date": "2009-03-11T17:50:00+03:00",
+  "url": "/news/kogtistyy-aprel/",
+  "original_url": "http://spidermedia.ru/news/kogtistyy-aprel",
+  "archived": "https://web.archive.org/web/20120607172211/http://spidermedia.ru/news/kogtistyy-aprel",
+  "template": "drupal",
+  "source_encoding": "utf-8"
+}
+
+]]>[![1728161_1200x1697.jpg - image uploaded to Picamatic](https://web.archive.org/web/20120607172211im_/http://www.picamatic.com/show/2009/03/11/04/40/2742392_bigthumb.jpg "1728161_1200x1697.jpg")](http://www.picamatic.com/view/2742392_1728161_1200x1697/) ]]>]]>[![7174new_storyimage6709959.jpg - image uploaded to Picamatic](https://web.archive.org/web/20120607172211im_/http://www.picamatic.com/show/2009/03/11/04/43/2742413_bigthumb.jpg "7174new_storyimage6709959.jpg")](http://www.picamatic.com/view/2742413_7174new_storyimage6709959/)]]>
+
+Фильм фильмом, а старт нового онгоинга **Wolverine: Weapon X**, с **Ро****сомахой** *(Wolverine)* в главной роли, уже совсем близко.
+
+Сценарист **Джейсон Аарон** *(Jason Aaron)* и художник **Рон Гарни** *(Ron Garney)* уже представили первые результаты совместной работы, арт-превью:
+
+]]>[![wolverine-weapon-x-preview-1.jpg - Picamatic - upload your images](https://web.archive.org/web/20120607172211im_/http://www.picamatic.com/show/2009/03/11/04/39/2742369_bigthumb.jpg "wolverine-weapon-x-preview-1.jpg")](http://www.picamatic.com/view/2742369_wolverine-weapon-x-preview-1/)]]> ]]>[![wolverine-weapon-x-preview-2.jpg - upload images with Picamatic](https://web.archive.org/web/20120607172211im_/http://www.picamatic.com/show/2009/03/11/04/39/2742371_bigthumb.jpg "wolverine-weapon-x-preview-2.jpg")](http://www.picamatic.com/view/2742371_wolverine-weapon-x-preview-2/)]]> ]]>[![wolverine-weapon-x-preview-3.jpg - Picamatic - upload your images](https://web.archive.org/web/20120607172211im_/http://www.picamatic.com/show/2009/03/11/04/40/2742373_bigthumb.jpg "wolverine-weapon-x-preview-3.jpg")](http://www.picamatic.com/view/2742373_wolverine-weapon-x-preview-3/)]]> ]]>[![wolverine-weapon-x-preview-4.jpg - Picamatic - upload your images](https://web.archive.org/web/20120607172211im_/http://www.picamatic.com/show/2009/03/11/04/40/2742375_bigthumb.jpg "wolverine-weapon-x-preview-4.jpg")](http://www.picamatic.com/view/2742375_wolverine-weapon-x-preview-4/)]]>
+
+Комикс начинает свое шествие в апреле, готовьтесь к тотальной росомахонизации!
+
+Поделиться:

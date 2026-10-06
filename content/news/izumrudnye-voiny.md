@@ -1,0 +1,15 @@
+{
+  "title": "Изумрудные Воины",
+  "date": "2010-02-12T21:59:00+03:00",
+  "url": "/news/izumrudnye-voiny/",
+  "original_url": "https://spidermedia.ru/news/izumrudnye-voiny",
+  "archived": "https://web.archive.org/web/20250429005840/https://spidermedia.ru/news/izumrudnye-voiny",
+  "template": "modern",
+  "source_encoding": "utf-8"
+}
+
+Во **вселенной DC** начинается новый, **Светлейший День** *(Brightest Day)*, а вместе с ним перемены. Вы уже видели обложку **Дэвида Финча** к одноименной серии, теперь же мы поговорим непосредственно о виновниках "торжества" - **Зеленых Фонарях** *(Green Lantern)*. Итак, разрешите представить - **Тони Бедард** *(Tony Bedard)* и **Адриан Саеф** *(Ardian Syaf)*, новые автор и художник серии **Green Lantern Corps** (правда Адриан пока только на один арк). Но сменится не только состав креативной команды, изменятся и герои. Вместе с **Кайлом Райнером** *(Kyle Rayner)* разбираться с космическими проблемами теперь будут **Джон Стюарт** *(John Stewart)* и **Зеленый Фонарь Гантет** *(Green Lantern Ganthet)*, да, вы не ослышались.
+
+[![Photobucket](https://web.archive.org/web/20250429005840im_/http://i46.tinypic.com/21ayces.jpg)](http://dcu.blog.dccomics.com/files/2010/02/glcor-cv46-var.jpg) [![Photobucket](https://web.archive.org/web/20250429005840im_/http://i50.tinypic.com/29xj8mu.jpg)](http://dcu.blog.dccomics.com/files/2010/02/glcor-cv48.jpg)
+
+Но куда же денется **Питер Томаси** *(Peter Tomasi)* и **Гай Гарднер** *(Guy Gardner)*? Точно, в новый онгоинг под названием **Green Lantern: Emerald Warriors**. А вместе с Гаем туда переедет и **Киловог** *(Kilowog)*. Ну а рисовать все это будет **Фернандо Пасарин** *(Fernando Pasarin)*. Правда вот **Патрику Глисону** *(Patrick Gleason)*, похоже, не нашлось места в Фонарной эпопее, хотя как знать, как знать... Ну а чуть выше вы можете видеть обложки 46 и 48 номера серии от **Грега Хорна** *(Greg Horn)* и **Родольфо Миглиари** *(Rodolvo Migliari)* соответственно. **Update:** Стали изветны имена художников первых двух майских выпусков серии **Brightest Day**. Ими стали - **Айван Рейс** *(Ivan Reis)*, **Адриан Саеф**, **Скотт Кларк** *(Scott Clark)* и **Патрик Глисон** *(Patrick Gleason)*, которому тоже нашлось место в этом экипаже межгалактического крейсера разноцветных Фонарей.

@@ -1,0 +1,37 @@
+{
+  "title": "Brand New Day: Февральские Новости",
+  "date": "2009-02-21T03:14:00+03:00",
+  "url": "/news/brand-new-day-fevralskie-novosti/",
+  "original_url": "http://spidermedia.ru/news/brand-new-day-fevralskie-novosti",
+  "archived": "https://web.archive.org/web/20120607195343/http://spidermedia.ru/news/brand-new-day-fevralskie-novosti",
+  "template": "drupal",
+  "source_encoding": "utf-8"
+}
+
+]]>[![](https://web.archive.org/web/20120607195343im_/http://pic.ipicture.ru/uploads/090209/6VVXkUMpld.png)](http://pic.ipicture.ru/uploads/090209/6VVXkUMpld.png)]]>
+
+Редактор **Стив Вэкер** *(Steve Wacker)*в очередной раз делится интересной информацией о грядущих событиях в жизни **Человека-Паука** *(Spider-Man).*
+
+Итак, новости одной строкой:
+
+- Так что же прошептала **Мэри Джейн Ватсон** *(Mary Jane Watson)* в последний момент самому **Мефисто** *(Mephisto*)? Возможно, узнаем в течении года.
+- **Джекпот** *(Jackpot)* никто не забыл, ей будет посвящен, в какой-то степени, **Amazing Spider-Man Family #6**, выходящий в мае.
+- Это звучит абсурдно, но в будущем может появиться комикс **Spider-Man 20,999**. Естественно, речь пойдет о совсем далеком будущем. Верить или не верить - решает каждый сам.
+- Ежегодный выпуск прикреплен за **Патриком Олифе** *(Patrick Olliffe).*
+- Достаточно не скоро закончится нынешний график выхода серии, т.е. 3 раза в месяц, поскольку ни планов, ни желаний, прекращать выходить в подобном формате, нет.
+- Скорого возращения **Черной Кошки** *(Black Cat)* не ждите. Она вернется, но перед этим надо придумать качественную историю, потерпите.
+
+Ниже вы может увидеть различный арт для разных серий и выпусков.
+
+Арт-превью **Amazing Spider-Man Extra #3, по страничке к каждой истории**:  
+]]>[![6549new_storyimage1448360.jpg - image uploaded to Picamatic](https://web.archive.org/web/20120607195343im_/http://www.picamatic.com/show/2009/02/21/02/01/2350464_bigthumb.jpg "6549new_storyimage1448360.jpg")](http://www.picamatic.com/view/2350464_6549new_storyimage1448360/)]]> ]]>[![page-4_col.jpg - Picamatic - upload your images](https://web.archive.org/web/20120607195343im_/http://www.picamatic.com/show/2009/02/21/02/09/2350609_bigthumb.jpg "page-4_col.jpg")](http://www.picamatic.com/view/2350609_page-4_col/)]]> ]]>[![ASMEX003B001_col.jpg - image uploaded to Picamatic](https://web.archive.org/web/20120607195343im_/http://www.picamatic.com/show/2009/02/21/01/27/2349550_bigthumb.jpg "ASMEX003B001_col.jpg")](http://www.picamatic.com/view/2349550_ASMEX003B001_col/)]]> ]]>[![ASMEX003A011A.jpg - upload images with Picamatic](https://web.archive.org/web/20120607195343im_/http://www.picamatic.com/show/2009/02/21/01/27/2349534_bigthumb.jpg "ASMEX003A011A.jpg")](http://www.picamatic.com/view/2349534_ASMEX003A011A/)]]>
+
+Обложки к**Amazing Spider-Man Family #6** & **Amazing Spider-Man #593**:
+
+]]>[![6906new_storyimage4799024.jpg - upload images with Picamatic](https://web.archive.org/web/20120607195343im_/http://www.picamatic.com/show/2009/02/21/02/01/2350457_bigthumb.jpg "6906new_storyimage4799024.jpg")](http://www.picamatic.com/view/2350457_6906new_storyimage4799024/)]]> ]]>[![6906new_storyimage4798980.jpg - Picamatic - upload your images](https://web.archive.org/web/20120607195343im_/http://www.picamatic.com/show/2009/02/21/01/41/2349864_bigthumb.jpg "6906new_storyimage4798980.jpg")](http://www.picamatic.com/view/2349864_6906new_storyimage4798980/)]]>
+
+Арт-странички из **Amazing Spider-Man #589** и **Amazing Spider-Man #592**:
+]]>[![ASM589006_col.jpg - image uploaded to Picamatic](https://web.archive.org/web/20120607195343im_/http://www.picamatic.com/show/2009/02/21/01/26/2349520_bigthumb.jpg "ASM589006_col.jpg")](http://www.picamatic.com/view/2349520_ASM589006_col/)]]> ]]>[![ASM5920014-15.jpg - image uploaded to Picamatic](https://web.archive.org/web/20120607195343im_/http://www.picamatic.com/show/2009/02/21/01/27/2349531_bigthumb.jpg "ASM5920014-15.jpg")](http://www.picamatic.com/view/2349531_ASM5920014-15/)]]> 
+Cледите за новостями, дальше интересней.
+
+Поделиться:

@@ -1,0 +1,23 @@
+{
+  "title": "Рецензия - The Nightly News",
+  "date": "2009-03-04T20:32:00+03:00",
+  "url": "/blog/bastion7/recenziya-nightly-news/",
+  "original_url": "http://spidermedia.ru/blog/bastion7/recenziya-nightly-news",
+  "archived": "https://web.archive.org/web/20190731040707/http://spidermedia.ru:80/blog/bastion7/recenziya-nightly-news",
+  "template": "modern",
+  "source_encoding": "utf-8"
+}
+
+Издательство: Image
+
+Сценарий и рисунок: Джонатан Хикман (Johnatan Hickman)
+
+**№1-6**
+
+![](https://web.archive.org/web/20190731040707im_/http://i240.photobucket.com/albums/ff161/Bastion7/Spidermedia%20reviews/ResizeofNightlynews.jpg)Миром правит информация. Информацией правит пресса. А кто правит прессой? Те же, кто и всем остальным – корпорации и политики. И прессу они используют ля всех тех же целей – манипулирование, укрепление своих позиций, достижения еще большей власти. И кому какое дело, если ошибки, допущенные прессой уничтожают жизни людей? Никому. Кроме Церкви Гласа, культа, предлагающего пострадавшим от СМИ возможность мести…
+
+Первый комикс Хикмана, он же, я считаю, лучший из его авторских. Может, дело в большем количестве номеров, но персонажи проработаны глубже, чем в Pax Romana. Сюжет насыщен сатирой на СМИ, временами автор отводит полстраницы на очередную диаграмму, демонстрирующую ненадежность прессы. При этом сам сюжет движется достаточно бодро и с интересными поворотами. Как обычно, много текста, много органично вплетенных умных идей и мыслей. Причем части «сюжетная» и «на подумать» очень хорошо сбалансированы. Основной недостаток серии – своеобразный визуальный стиль. Хикман рисует сам, причем рисует хорошо, люди отлично изображены. Но часто отсутствует фон, зачастую и персонажи представлены силуэтами, иногда изображение становится похожим на коллаж. К нему, недостатку, относится и шрифт, который Хикман использует. В для комиксов не слишком привычный и не очень удобный.
+
+Но, в целом, настоятельно рекомендую. Из четырех мини-серий Хикмана для Image эта - самая лучшая.
+
+[![Photobucket](https://web.archive.org/web/20190731040707im_/http://i240.photobucket.com/albums/ff161/Bastion7/Spidermedia%20reviews/th_Page05-06.jpg)](http://s240.photobucket.com/albums/ff161/Bastion7/Spidermedia%20reviews/?action=view¤t=Page05-06.jpg) [![Photobucket](https://web.archive.org/web/20190731040707im_/http://i240.photobucket.com/albums/ff161/Bastion7/Spidermedia%20reviews/th_Page07-08.jpg)](http://s240.photobucket.com/albums/ff161/Bastion7/Spidermedia%20reviews/?action=view¤t=Page07-08.jpg) [![Photobucket](https://web.archive.org/web/20190731040707im_/http://i240.photobucket.com/albums/ff161/Bastion7/Spidermedia%20reviews/th_Page09-10.jpg)](http://s240.photobucket.com/albums/ff161/Bastion7/Spidermedia%20reviews/?action=view¤t=Page09-10.jpg)

@@ -1,0 +1,33 @@
+{
+  "title": "Конец Ultimate Universe",
+  "date": "2009-02-09T16:11:00+03:00",
+  "url": "/news/konec-ultimate-universe/",
+  "original_url": "http://spidermedia.ru/news/konec-ultimate-universe",
+  "archived": "https://web.archive.org/web/20250419050301/http://spidermedia.ru/news/konec-ultimate-universe",
+  "template": "modern",
+  "source_encoding": "utf-8"
+}
+
+Итак, на прошедшем недавно Комиконе говорилось, в том числе, и об **Ultimate Universe**. Да, после **ULTIMATUM**'а линейка комиксов Ultimate на самом деле закрывается. На её место придет линейка **Ultimate Comics**. Кажется несколько странным, но ничего не поделать - **Marvel** решили начать все сначала, да - именно как тогда в 1999-2000 годах... Только разница в том, что ничего из событий Ultimate Universe не будет забыто - хронология продолжится с того момента, где оставит героев **ULTIMATUM**. Изменение будет всего лишь одно - мир героев изменится, перевернувшись с ног на голову и подарив читателям новый статус-кво.
+
+[![](https://web.archive.org/web/20250419050301im_/http://images.comicbookresources.com/cons/nycc2009/Cup_o_%20Joe/sm/ultimate_comics_black.jpg)](http://images.comicbookresources.com/cons/nycc2009/Cup_o_%20Joe/ultimate_comics_black.jpg)  [![](https://web.archive.org/web/20250419050301im_/http://images.comicbookresources.com/cons/nycc2009/Cup_o_%20Joe/sm/ultimate_comics_red.jpg)](http://images.comicbookresources.com/cons/nycc2009/Cup_o_%20Joe/ultimate_comics_red.jpg)
+
+Что ж, рассмотрим кратко, что же мы знаем сейчас об Ultimate-линейке, кроме факта перезапуска под новым брендом:
+
+- Перезагрузка **Ultimate Universe** была произведена потому, что после ухода **Марка Миллара** *(Mark Millar)* линейка и 616 становились все больше и больше похожи - авторы Оригинальной Вселенной Марвел черпали идеи из **Ultimates**, что привело к потере оригинальности Ultimate. Кроме этого, сюжеты и хронология основных Ultimate-комиксов стали настолько запутанными, что выходящие параллельно серии иногда противоречили друг другу.
+
+- В разработке ULTIMATUM'а, кроме редакторского состава и **Джефа Лоеба** *(Jeph Loeb)*, косвенно приняли участие Бендис, Миллар и, вы не поверите,  **Алан Хейнберг** *(Allan Heinberg)* и **Дэймон Линделоф** *(Damon Lindelof)*.
+
+- После перезапуска вселенной не будет возрождения погибших героев - те, кто погибнут, погибнут навсегда. Ну или хотя бы на пару лет - это же все-таки комиксы.
+
+- Глобальные изменения коснутся **Людей Икс** *(X-men)*. И дело тут не только в том, что **Чарльз Ксавье** *(**Charles Xavie**)* мертв, а **Магнето** *(Magneto)* разрушил мир. Нет, дело в том, что вместе с ним погибнет и его дело, его идея...
+
+- Серии **[Ultimate Spider-man](../../node/260/)**, **Ultimate X-men** и **Ultimate Fantastic Four** ожидают завершающие выпуски **Requiem**, рассказывающие о событиях после ULTIMATUM'а.
+
+- Известно, что после перезагрузки будет четыре полноценных онгоинг-тайтла. Пока известно три из них: **Ultimate Comics: Ultimate Spider-Man**, **Ultimate Avengers** и **New Ultimates**.
+
+- Новая линейка **Ultimate Comics** будет не только более сжатой, но и более взаимосвязанной - события одной серии будут иметь отражения в других, об этом обещают позаботиться редакторы. Лоеб же божится писать New Ultimates максимально приближенно к Ultimate Avengers, чтобы Марк Миллар мог без труда брать героев из NU в состав очередного арка UA.
+
+На этом пожалуй все. Но чтобы новость не была пресной, представляем вам немного потрясающего арта - страничку из **ULTIMATUM #3**, доселе невиданную обложку 6 номера из долгостроя **[Ultimate Hulk vs Wolverine](../../node/196/)** и **Женщину Халк** *(She Hulk)* из того же долгостроя:
+
+[![](https://web.archive.org/web/20250419050301im_/http://images.comicbookresources.com/cons/nycc2009/Cup_o_%20Joe/sm/ULTMTM003008_colSF.jpg)](http://images.comicbookresources.com/cons/nycc2009/Cup_o_%20Joe/ULTMTM003008_colSF.jpg) [![](https://web.archive.org/web/20250419050301im_/http://images.comicbookresources.com/cons/nycc2009/Cup_o_%20Joe/sm/ULTWOLVH006_SOLICIT_lo.jpg)](http://images.comicbookresources.com/cons/nycc2009/Cup_o_%20Joe/ULTWOLVH006_SOLICIT_lo.jpg) [![](https://web.archive.org/web/20250419050301im_/http://images.comicbookresources.com/cons/nycc2009/Cup_o_%20Joe/sm/ULTWOLVH003022_color.jpg)](http://images.comicbookresources.com/cons/nycc2009/Cup_o_%20Joe/ULTWOLVH003022_color.jpg)

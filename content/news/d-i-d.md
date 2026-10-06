@@ -1,0 +1,19 @@
+{
+  "title": "D и D",
+  "date": "2010-01-29T19:32:00+03:00",
+  "url": "/news/d-i-d/",
+  "original_url": "https://spidermedia.ru/news/d-i-d",
+  "archived": "https://web.archive.org/web/20260313101253/https://spidermedia.ru/news/d-i-d",
+  "template": "modern",
+  "source_encoding": "utf-8"
+}
+
+Февраль - большой месяц для **Брайана Вуда** (*Brian Wood*), дизайнера, успешного сценариста, пишущего аж два онгоинга для **Vertigo** и, наверное, единственного автора в индустрии, охотно делящегося информацией о продажах переизданий своих серий в графроманах.
+![](https://web.archive.org/web/20260313101253im_/http://i563.photobucket.com/albums/ss77/vi_spidermedia/dmzzz/headline.jpg)
+
+**3 февраля** выходит первый номер второго тома **Demo**, комикса, прославившего Вуда и его соавтора-художника **Бэкки Клунан** (*Becky Cloonan*). Продолжение, разумеется, будет следовать духу предшественника и каждый из шести номеров будет отдельной законченной историей о конкретном персонаже. История в первом выпуске, под названием **"The Waking Life of Angels"**, расскажет о девушке, которую преследует сон о человеке, падающем с большой высоты, и отправившейся в путешествие для того, чтобы разобратся с этим видением. На сайте Comic Book Resources появилось эксклюзивное превью:
+[![Demo #1](https://web.archive.org/web/20260313101253im_/http://i563.photobucket.com/albums/ss77/vi_spidermedia/dmzzz/demo1thumb.jpg)](http://www.comicbookresources.com/prev_img.php?pid=4325&pg=1)
+(для просмотра превью щелкните на обложку)
+А **10 февраля** достигнет значимой отметки в 50 номеров серия **DMZ**, в центре которой демилитаризованная зона Мэнхэттен, ставшая таковой в ходе новой гражданской войны в США и её жители, прежде всего журналист **Мэттью Рот** (*Matthew Roth*), уже прошедший через многое за эти пятьдесят выпусков. Юбилейный номер будет увеличенного размера и будет представлять из себя сборник историй, нарисованных людьми, уже работавших с Вудом: **Ребекой Айзэкс** (*Rebekah Isaacs*, выходящая в апреле этого года DV8), **Джоном Полем Леоном** (*John Paul Leon*, обложечник DMZ), **Райаном Келли** (*Ryan Kelly*, Local) и основным художником серии **Рикардо Бёрчелли** (*Ricardo Burchelli*). Кроме того, там будет история, нарисованная **Фабио Муном** (*Fabio Moon*) и несколько пин-апов от известных художников: **Джима Ли** (*Jim Lee*), **Ли Бермехо** (*Lee Bermejo*), **Филлипа Бонда** (*Phillip Bond*), **Эдуардо Риссо** (*Eduardo Risso*) и **Дэйва Гиббонса** (*Dave Gibbons*).
+[![DMZ #50](https://web.archive.org/web/20260313101253im_/http://i563.photobucket.com/albums/ss77/vi_spidermedia/dmzzz/dmz50thumb.jpg)](http://i563.photobucket.com/albums/ss77/vi_spidermedia/dmzzz/dmz50.jpg) [![DMZ by Dave Gibbons](https://web.archive.org/web/20260313101253im_/http://i563.photobucket.com/albums/ss77/vi_spidermedia/dmzzz/dmz_gibbonsthumb.jpg)](http://i563.photobucket.com/albums/ss77/vi_spidermedia/dmzzz/dmz_gibbons.jpg) [![DMZ by Rebekah Isaacs](https://web.archive.org/web/20260313101253im_/http://i563.photobucket.com/albums/ss77/vi_spidermedia/dmzzz/dmz_isaacsthumb.jpg)](http://i563.photobucket.com/albums/ss77/vi_spidermedia/dmzzz/dmz_isaacs.jpg) [![DMZ by Ryan Kelly](https://web.archive.org/web/20260313101253im_/http://i563.photobucket.com/albums/ss77/vi_spidermedia/dmzzz/dmz_kellythumb.jpg)](http://i563.photobucket.com/albums/ss77/vi_spidermedia/dmzzz/dmz_kelly.jpg) [![DMZ by Jim Lee](https://web.archive.org/web/20260313101253im_/http://i563.photobucket.com/albums/ss77/vi_spidermedia/dmzzz/dmz_leethumb.jpg)](http://www.comicbookresources.com/prev_img.php?disp=img&pid=1264712134) [![DMZ by Fabio Moon](https://web.archive.org/web/20260313101253im_/http://i563.photobucket.com/albums/ss77/vi_spidermedia/dmzzz/dmz_moonthumb.jpg)](http://i563.photobucket.com/albums/ss77/vi_spidermedia/dmzzz/dmz_moon.jpg)
+Обложка к **DMZ #50** и страницы из него авторства **Дэйва Гиббонса**, **Ребеки Айзэкс**, **Райана Келли**, **Джима Ли** и **Фабио Муна**

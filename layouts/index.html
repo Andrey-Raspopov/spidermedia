@@ -1,0 +1,16 @@
+{{ define "main" }}
+<h1>{{ site.Title }}</h1>
+<p class="intro">{{ site.Params.description }}</p>
+<h2>Разделы</h2>
+<ul class="sections">
+  {{ range site.Sections.ByWeight }}
+  <li><a href="{{ .RelPermalink }}">{{ .Title }}</a> <span>{{ len .RegularPagesRecursive }}</span></li>
+  {{ end }}
+</ul>
+<h2>Последние материалы</h2>
+<ul class="list">
+  {{ range first 30 (site.RegularPages.ByDate.Reverse) }}
+  <li>{{ if not .Date.IsZero }}<time>{{ .Date.Format "02.01.2006" }}</time>{{ end }}<a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+  {{ end }}
+</ul>
+{{ end }}

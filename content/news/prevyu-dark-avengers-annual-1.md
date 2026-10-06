@@ -1,0 +1,14 @@
+{
+  "title": "Превью Dark Avengers Annual #1",
+  "date": "2009-11-13T22:20:00+03:00",
+  "url": "/news/prevyu-dark-avengers-annual-1/",
+  "original_url": "https://spidermedia.ru/news/prevyu-dark-avengers-annual-1",
+  "archived": "https://web.archive.org/web/20250114040429/https://spidermedia.ru/news/prevyu-dark-avengers-annual-1",
+  "template": "modern",
+  "source_encoding": "utf-8"
+}
+
+[![](https://web.archive.org/web/20250114040429im_/http://i691.photobucket.com/albums/vv276/Silvernoir/th_24809new_storyimage3115581.jpg)](http://i691.photobucket.com/albums/vv276/Silvernoir/24809new_storyimage3115581.jpg?t=1258139158)
+Первый аннуал темнейшего онгоинга **Dark Avengers**, авторства **Брайана Майкла Бендиса** *(Brian Michael Bendis)*, обещает рассказать о судьбе **Марвел Боя** *(Marvel Boy)*, он же новый **Капитан Марвел** *(Captain Marvel)*, после коварного побега из рук **Нормана Озборна** *(Norman Osborn)*. Но так ли просто попрощаться с Норманом? Естественно, без **Сентри** *(Sentry)*, в выпуске двойного размера, не обойдется. Тем временем аннуал уже готов похвастаться черно-белым превью от всеми обожаемого художника **Криса Бачало** *(Chris Bachalo)*:
+[![](https://web.archive.org/web/20250114040429im_/http://i691.photobucket.com/albums/vv276/Silvernoir/th_the-final-days-of-dark-reign-dark-a.jpg)](http://i691.photobucket.com/albums/vv276/Silvernoir/the-final-days-of-dark-reign-dark-a.jpg?t=1258138828) [![](https://web.archive.org/web/20250114040429im_/http://i691.photobucket.com/albums/vv276/Silvernoir/th_the-final-days-of-dark-reign-dar-1.jpg)](http://i691.photobucket.com/albums/vv276/Silvernoir/the-final-days-of-dark-reign-dar-1.jpg?t=1258138857) [![](https://web.archive.org/web/20250114040429im_/http://i691.photobucket.com/albums/vv276/Silvernoir/th_the-final-days-of-dark-reign-dar-2.jpg)](http://i691.photobucket.com/albums/vv276/Silvernoir/the-final-days-of-dark-reign-dar-2.jpg?t=1258138890) [![](https://web.archive.org/web/20250114040429im_/http://i691.photobucket.com/albums/vv276/Silvernoir/th_the-final-days-of-dark-reign-dar-3.jpg)](http://i691.photobucket.com/albums/vv276/Silvernoir/the-final-days-of-dark-reign-dar-3.jpg?t=1258138912)
+Выход назначен на **второе декабря**.

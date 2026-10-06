@@ -1,0 +1,19 @@
+{
+  "title": "Spider-Man: Угроза детству",
+  "date": "2010-06-21T14:58:00+03:00",
+  "url": "/news/spider-man-ugroza-detstvu/",
+  "original_url": "http://spidermedia.ru/news/spider-man-ugroza-detstvu",
+  "archived": "https://web.archive.org/web/20120608031800/http://spidermedia.ru/news/spider-man-ugroza-detstvu",
+  "template": "drupal",
+  "source_encoding": "utf-8"
+}
+
+По завершению арка ]]>[**One Moment In Time**](../../node/2556/)]]> на тайтл **Amazing Spider-Man** вернется проверенный дуэт из **Марка Уэйда** *(Mark Waid)* и **Пола Азаситы** *(Paul Azaceta)*, чья цель - рассказать о последствиях столкновения с **Крейвенами** *(Kraven)* и вернуть несколько позабытого персонажа - **Лили Холлистер** *(Lily Hollister)*, более известная как **Угроза** *(Menace)*.
+
+]]>[![](https://web.archive.org/web/20120608031800im_/http://img.photobucket.com/albums/v497/spidermedia/th_799758951.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/799758951.jpg)]]> ]]>[![](https://web.archive.org/web/20120608031800im_/http://img.photobucket.com/albums/v497/spidermedia/th_ASM642012scol.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/ASM642012scol.jpg)]]> ]]>[![](https://web.archive.org/web/20120608031800im_/http://img.photobucket.com/albums/v497/spidermedia/th_ASM642017_col1.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/ASM642017_col1.jpg)]]> ]]>[![](https://web.archive.org/web/20120608031800im_/http://img.photobucket.com/albums/v497/spidermedia/th_ASM642019_col.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/ASM642019_col.jpg)]]>
+
+В грядущем шестисерийном эпике **Origin of the Species** **Питеру Паркеру** *(Peter Parker)* предстоит спасти ребенка своего заклятого врага - напомним, что Лили беременна от Озборна Старшего и на нее объявлена охота во всем преступном мире. Получить дитя - это невероятный козырь в криминальных играх. **Песочный Человек** *(Sandman)*, **Ящер** *(Lizard)*, **Электро** *(Electro)*, **Носорог** *(Rhino)*, **Оторва** *(Screwball)*, **Крейвен** *(Kraven)*, **Стервятник** *(Vulture)* и тяжелая артиллерия в виде **Доктора Осьминога** *(Dr. Octopus)* - все они так или иначе примут участие в охоте на потомство Нормана. Кроме основной сюжетной линии автор обещает нанести еще один сокрушительный удар по друзьям и семье Паука, в общем - бесконечная борьба продолжается.
+
+Сентябрьский **Origin of the Species** стартует в **Amazing Spider-Man #642**.
+
+Поделиться:

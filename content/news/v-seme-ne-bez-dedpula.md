@@ -1,0 +1,13 @@
+{
+  "title": "В семье не без Дэдпула",
+  "date": "2011-01-11T23:24:00+03:00",
+  "url": "/news/v-seme-ne-bez-dedpula/",
+  "original_url": "http://spidermedia.ru/news/v-seme-ne-bez-dedpula",
+  "archived": "https://web.archive.org/web/20220813152857/http://spidermedia.ru/news/v-seme-ne-bez-dedpula",
+  "template": "modern",
+  "source_encoding": "utf-8"
+}
+
+Несмотря на то, что некоторые серии про **Дэдпула** *(Deadpool)* закрываются, безумства связанные с персонажем по-прежнему в силе. В апреле нам представят одиночный выпуск **Deadpool Family**, который расскажет не только о старом добром наемнике, но и про остальных, относительно новых, представителей движения Дэдпула, впервые появившиеся в **Deadpool Corps**. По словам редактора издательства, для возникновения комикса повод простой - читатели все еще хотят наблюдать за приключениями красно-черных фриков.
+[![](https://web.archive.org/web/20220813152857im_/http://img.photobucket.com/albums/v497/spidermedia/silver_news/1294771370-1.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/silver_news/1294771370.jpg)
+Всего в номере будет три истории, над ними работает целая орава из сценаристов и художников: **Джеймс Асмус** *(James Asmus)*, **Каллен Банн** *(Cullen Bunn)*, **Мари Чои** *(Mary H.K. Choi)*, **Дарнел Джонсон** *(Darnell Johnson)*, **Доминик Cтентон** *(Dominike Stanton)* и **Ирен Страшальски** *(Irene Strychalski)*. Обложка от **Джейсона Пирсона** *(Jason Pearson)*.

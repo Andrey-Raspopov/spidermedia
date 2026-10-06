@@ -1,0 +1,15 @@
+{
+  "title": "Ох, Скарлет",
+  "date": "2010-04-18T01:04:00+03:00",
+  "url": "/news/oh-skarlet/",
+  "original_url": "http://spidermedia.ru/news/oh-skarlet",
+  "archived": "https://web.archive.org/web/20250429155350/http://spidermedia.ru/news/oh-skarlet",
+  "template": "modern",
+  "source_encoding": "utf-8"
+}
+
+[![Maleev](https://web.archive.org/web/20250429155350im_/http://img.photobucket.com/albums/v497/spidermedia/plane_news/maleevbgthh.jpg)](http://img.photobucket.com/albums/v497/spidermedia/plane_news/maleevbg.jpg) [![Mack](https://web.archive.org/web/20250429155350im_/http://img.photobucket.com/albums/v497/spidermedia/plane_news/mackbgthh.jpg)](http://img.photobucket.com/albums/v497/spidermedia/plane_news/mackbg.jpg) [![Oeming](https://web.archive.org/web/20250429155350im_/http://img.photobucket.com/albums/v497/spidermedia/plane_news/oemingbgthh.jpg)](http://img.photobucket.com/albums/v497/spidermedia/plane_news/oemingbg.jpg) [![Lafuente](https://web.archive.org/web/20250429155350im_/http://img.photobucket.com/albums/v497/spidermedia/plane_news/lafuentebgthh.jpg)](http://img.photobucket.com/albums/v497/spidermedia/plane_news/lafuentebg.jpg)
+Обложки к **Scarlet #1** от **Алекса Малеева** (*Alex Maleev*), **Дэвида Мэка** (*David Mack*), **Майкла Эйвона Оеминга** (*Mike Avon Oeming*) и **Дэвида Лафуэнте** (*David Lafuente*)
+Разгадка [тизера "OX"](../../node/2528/) с сайта Брайана Майкла Бендиса (Brian Michael Bendis) появилась раньше, чем ожидалось - в программе Attack of the Show было раскрыты название нового проекта Бендиса и Алекса Малеева - **Scarlet** - , кое-какие детали о сюжете, а вскоре заработал и [раздел сайта](http://www.jinxworld.com/scarlet/index.html), посвященный новому комиксу.
+Титульная героиня в этой авторской серии, которая стартует на импринте Marvel **Icon** в **июле**, оказывается в оппозиции к коррумпированному правительству и в своей борьбе случайно начинает новую американскую революцию. Бендис, тем не менее, сразу настаивает, чтобы комикс не считали политическим - да, ему интересно писать о том, как в его родном Портленде неожиданно начинается восстание, но, прежде всего, это комикс о сильном женском персонаже, в духе его **Alias** и **Jinx**. Интересная деталь - в комиксе будет вдребезги разбита "четвертая стена", так что можно ожидать того, что главная героиня будет общаться с Бендисом в комиксе или с читателями с его страниц.
+Это будет постоянная серия с неопределенным количеством номеров, но с заранее запланированным финалом. Комикс будет выходить раз в два месяца, чередуясь с **Powers**, другим онгоингом Бендиса.

@@ -1,0 +1,17 @@
+{
+  "title": "Бэтмен возвращается",
+  "date": "2009-08-29T00:26:00+03:00",
+  "url": "/news/betmen-vozvrashchaetsya/",
+  "original_url": "http://spidermedia.ru/news/betmen-vozvrashchaetsya",
+  "archived": "https://web.archive.org/web/20260214125127/http://spidermedia.ru/news/betmen-vozvrashchaetsya",
+  "template": "modern",
+  "source_encoding": "utf-8"
+}
+
+Недолго музыка играла, скоро и **Брюс Уэйн** *(Bruce Wayne)* вернется. Впрочем, мы ведь и так это знали, верно? Вопрос был только в том, когда DC посчитают нужным устроить его масштабное возвращение.
+Сплетник **Рич Джонстон** *(Rich Johnston)* [**уверенно заявляет**](http://www.bleedingcool.com/2009/08/28/bringing-back-batman-from-the-dead-again-again-again/), что рассчитывать стоит на лето 2010-го года. Именно тогда стартует цикл из двух мини-серий от **Гранта Моррисона** *(Grant Morrison)*: **The Search For Bruce Wayne** и **The Return of Batman**. Возможно, названия рабочие и их еще успеют поменять, но концепция такая. Это вполне вписывается в упомянутый Моррисоном в различных интервью Большой План, где-то около года он и собирался отвести Бэтмену-**Дику Грейсону** *(Dick Grayson)*. На всякий случай напомним, что Брюс Уэйн на самом деле не мертв, а скучает на одной из параллельных земель.
+А вот новые Бэтмен и **Робин** *(Robin)* развлекаются практически нон-стоп. Во втором выпуске мини-серии **Blackest Night: Batman**, к примеру, им предстоит столкнуться с восставшими из могил родственниками. Вот пара страниц из него, а заодно и обложка в исполнении **Джока** *(Jock)* к третьему выпуску грядущей постоянной серии **Azrael**:
+
+[![](https://web.archive.org/web/20260214125127im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/th_blnbm-206600-cmyk-sm1.jpg)](http://img.photobucket.com/albums/v497/spidermedia/redson_News/blnbm-206600-cmyk-sm1.jpg) [![](https://web.archive.org/web/20260214125127im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/th_blnbm-202cmyk-2-sm.jpg)](http://img.photobucket.com/albums/v497/spidermedia/redson_News/blnbm-202cmyk-2-sm.jpg) [![](https://web.archive.org/web/20260214125127im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/th_azrael3.jpg)](http://img.photobucket.com/albums/v497/spidermedia/redson_News/azrael3.jpg)
+
+Очередной комикс про дисишный зомбоапокалипсис от сценариста **Питера Томаси** *(Peter Tomasi)* ждите девятого сентября (к тому времени и превью побольше появится). Что до онгоинга Азраила, стартует он в октябре, писать его будет **Фабиан Нициеза** *(Fabian Nicieza)*, рисовать **Рамон Бакс** *(Ramon Bachs)*, перешедший туда с серии **Red Robin**.

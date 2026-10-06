@@ -1,0 +1,15 @@
+{
+  "title": "Потому что мы - банда!",
+  "date": "2009-03-28T00:14:00+03:00",
+  "url": "/news/potomu-chto-my-banda/",
+  "original_url": "http://spidermedia.ru/news/potomu-chto-my-banda",
+  "archived": "https://web.archive.org/web/20120718215937/http://spidermedia.ru/news/potomu-chto-my-banda",
+  "template": "drupal",
+  "source_encoding": "utf-8"
+}
+
+]]>[![TMSTRM001_cov.jpg - image uploaded to Picamatic](https://web.archive.org/web/20120718215937im_/http://pic.ipicture.ru/uploads/090327/YisebAz6T2.jpg "TMSTRM001_cov.jpg")](http://www.picamatic.com/view/3058570_KICKASS006_COVDW-100/)]]> Уже успели подзабыть хардкорный дуэт **Марка Миллaра** *(Mark Millar)* и **Джона Ромиты Мл.** *(John Romita, Jr.)*? Пора подлить масла в огонь.
+
+Слева вы можете увидеть обложку шестого номера **Kick-Ass**, выход которого намечен на **15 апреля**.
+
+Он уже близко!

@@ -1,0 +1,17 @@
+{
+  "title": "Утопия, третий круг",
+  "date": "2009-07-08T16:18:00+03:00",
+  "url": "/news/utopiya-tretiy-krug/",
+  "original_url": "http://spidermedia.ru/news/utopiya-tretiy-krug",
+  "archived": "https://web.archive.org/web/20120607074243/http://spidermedia.ru/news/utopiya-tretiy-krug",
+  "template": "drupal",
+  "source_encoding": "utf-8"
+}
+
+Если вы следите за издательством **Marvel Comics**, то знаете, что сейчас происходит летнее глобальное событие во Вселенной Марвел, имя которому - [**Utopia**](https://web.archive.org/web/20111018064907/http://spidermedia.ru/taxonomy/term/1309). Кроссовер, как мы уже не раз сообщали, охватывает сразу две серии - **Uncanny X-Men** и **Dark Avengers**. И именно на следующей неделе, 15 июня, выходит **Dark Avengers #7**, который выступит третьей частью **Utopia**.
+
+]]>[![](https://web.archive.org/web/20120607074243im_/http://comicsmedia.ign.com/comics/image/article/100/1001713/dark-avengers-20090707025252840-000.jpg)](http://comicsmedia.ign.com/comics/image/article/100/1001713/dark-avengers-20090707025252840.jpg)]]> ]]>[![](https://web.archive.org/web/20120607074243im_/http://comicsmedia.ign.com/comics/image/article/100/1001713/dark-avengers-20090707025304613-000.jpg)](http://comicsmedia.ign.com/comics/image/article/100/1001713/dark-avengers-20090707025304613.jpg)]]>
+(Обложки от **Майка Деодато** *(Mike Deodato)* и **Саймона Бьянчи** *(Simon Bianchi)*)Тем временем, сайт **CBR**, выложил разбор первых двух частей кроссовера, с комментариями автора события - **Мэтта Фракшена** *(Matt Fraction)*. Смотрим - ]]> [часть 1](http://www.comicbookresources.com/?page=article&id=21774)]]>, ]]>[часть 2](http://www.comicbookresources.com/?page=article&id=21916)]]>. Кроме этого, представляем вашему вниманию несколько страниц превью из **Utopia #3**!]]>[![](https://web.archive.org/web/20120607074243im_/http://comicsmedia.ign.com/comics/image/article/100/1001713/dark-avengers-20090707025219145-000.jpg)](http://comicsmedia.ign.com/comics/image/article/100/1001713/dark-avengers-20090707025219145.jpg)]]> ]]>[![](https://web.archive.org/web/20120607074243im_/http://comicsmedia.ign.com/comics/image/article/100/1001713/dark-avengers-20090707025216303-000.jpg)](http://comicsmedia.ign.com/comics/image/article/100/1001713/dark-avengers-20090707025216303.jpg)]]> ]]>[![](https://web.archive.org/web/20120607074243im_/http://comicsmedia.ign.com/comics/image/article/100/1001713/dark-avengers-20090707025221831-000.jpg)](http://comicsmedia.ign.com/comics/image/article/100/1001713/dark-avengers-20090707025221831.jpg)]]> ]]>[![](https://web.archive.org/web/20120607074243im_/http://marvel.com/i/content/st/1511new_storyimage4849007_thumb.jpg)](http://marvel.com/i/content/st/1511new_storyimage4849007.jpg)]]>
+Напоминаем, что на время **Utopia**, **Люк Росс** *(Luke Ross)* сменит **Майка Деодато** на посту художника. По окончанию кроссовера **Майк** должен вернуться на **Dark Avengers**, вместе с автором серии **Брайаном Бендисом** *(Brian Bendis)*.
+
+Поделиться:

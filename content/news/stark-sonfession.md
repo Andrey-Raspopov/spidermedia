@@ -1,0 +1,19 @@
+{
+  "title": "Stark: Сonfession",
+  "date": "2009-08-22T01:55:00+03:00",
+  "url": "/news/stark-sonfession/",
+  "original_url": "http://spidermedia.ru/news/stark-sonfession",
+  "archived": "https://web.archive.org/web/20120608140804/http://spidermedia.ru/news/stark-sonfession",
+  "template": "drupal",
+  "source_encoding": "utf-8"
+}
+
+Конец арка "World's Most Wanted" близится к завершению. Мы ]]>[уже писали](../../node/1747/)]]> о дальнейшей судьбе Тони Старка (Tony Stark/Iron Man) и о ]]>[новой "ноябрьской" мини](../../node/1787/)]]>. Сегодня мы хотим представить вам вариант обложку Invincible Iron Man #20 от Патрика Зирчера (Patrick Zircher).
+
+![9265header_banner0785981.jpg - image uploaded to Picamatic](https://web.archive.org/web/20120608140804im_/http://www.picamatic.com/show/2009/08/22/03/34/4814599_bigthumb.jpg "9265header_banner0785981.jpg")
+
+Данная обложка сильно напоминает сцену из уан-шота Civil War: The Confession, созданную художником Алексом Малеевым (Alex Maleev). На обложке запечатлён Тор (Thor) и павший Тони Старк. Увидеть сравнение можно ниже:
+
+]]>[![9265new_storyimage0786060.jpg - image uploaded to Picamatic](https://web.archive.org/web/20120608140804im_/http://www.picamatic.com/show/2009/08/22/01/29/4813673_bigthumb.jpg "9265new_storyimage0786060.jpg")](http://www.picamatic.com/view/4813673_9265new_storyimage0786060/)]]> ]]>[![ironman.jpg - Picamatic - upload your images](https://web.archive.org/web/20120608140804im_/http://www.picamatic.com/show/2009/08/22/01/42/4813831_bigthumb.jpg "ironman.jpg")](http://www.picamatic.com/view/4813831_ironman/)]]>Постойте, ведь это ещё не всё! Сценарист Мэтт Фракшен (Matt Fraction) показал нам второй вариант обложки #20 от Сальвадора Ларроки (Salvador Larroca). Как многие и предполагали, вторая половина показывает Тони Старка и его первую броню - Марк I (Mark I Armor):]]>[![25537new_storyimage0791851.jpg - Picamatic - upload your images](https://web.archive.org/web/20120608140804im_/http://www.picamatic.com/show/2009/08/22/02/09/4813994_bigthumb.jpg "25537new_storyimage0791851.jpg")](http://www.picamatic.com/view/4813994_25537new_storyimage0791851/)]]>На сегодня это всё. Invincible Iron Man #20, от сценариста Мэтта Фракшена и художника Сальвадора Ларроки, выходит 18 ноября. Оставайтесь с нами, чтобы быть в курсе всего происходящего с Тони Старком.
+
+Поделиться:

@@ -1,0 +1,21 @@
+{
+  "title": "Арт-превью Mighty Avengers #29",
+  "date": "2009-08-30T15:35:00+03:00",
+  "url": "/news/art-prevyu-mighty-avengers-29/",
+  "original_url": "http://spidermedia.ru/news/art-prevyu-mighty-avengers-29",
+  "archived": "https://web.archive.org/web/20190820174521/http://spidermedia.ru:80/news/art-prevyu-mighty-avengers-29",
+  "template": "modern",
+  "source_encoding": "utf-8"
+}
+
+Cегодня мы приготовили для вас арт-превью Mighty Avengers #29.
+
+[![ma.jpg - upload images with Picamatic](https://web.archive.org/web/20190820174521im_/http://www.picamatic.com/show/2009/08/30/03/14/4902098_bigthumb.jpg "ma.jpg")](http://www.picamatic.com/view/4902098_ma/)
+
+Обложка #29 от Марко Джурджевича (Marko Djurdjevic).
+
+Ронин (Clint Barton/Ronin) и Вижн (Vision) сражаются с Алой Ведьмой (the Scarlet Witch). В этом выпуске Высота (Stature) и Могучие Мстители (Mighty Avengers) наконец-таки узнают, что на самом деле Локи (Loki) - это Алая Ведьма. Тем временем, на окраинах Тибета, Квиксильвер (Quicksilver) и давний противник Мстителей раскрывают план Неназванного (the Unspoken) по завоеванию всего живого на Земле. Главные гости выпуска: Юные Мстители (Young Avengers).
+
+[![9274new_storyimage0798822.jpg - image uploaded to Picamatic](https://web.archive.org/web/20190820174521im_/http://www.picamatic.com/show/2009/08/30/03/21/4902132_bigthumb.jpg "9274new_storyimage0798822.jpg")](http://www.picamatic.com/view/4902132_9274new_storyimage0798822/) [![9340new_storyimage1408396.jpg - Picamatic - upload your images](https://web.archive.org/web/20190820174521im_/http://www.picamatic.com/show/2009/08/30/03/23/4902137_bigthumb.jpg "9340new_storyimage1408396.jpg")](http://www.picamatic.com/view/4902137_9340new_storyimage1408396/) [![9340new_storyimage1408444.jpg - upload images with Picamatic](https://web.archive.org/web/20190820174521im_/http://www.picamatic.com/show/2009/08/30/03/23/4902140_bigthumb.jpg "9340new_storyimage1408444.jpg")](http://www.picamatic.com/view/4902140_9340new_storyimage1408444/) [![9340new_storyimage1408585.jpg - Picamatic - upload your images](https://web.archive.org/web/20190820174521im_/http://www.picamatic.com/show/2009/08/30/03/26/4902154_bigthumb.jpg "9340new_storyimage1408585.jpg")](http://www.picamatic.com/view/4902154_9340new_storyimage1408585/)
+
+Mighty Avengers #29, от сценариста Дэна Слотта (Dan Slott) и художника Кхои Фама (Khoi Pham), появится на прилавках 16 сентября.

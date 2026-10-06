@@ -1,0 +1,33 @@
+{
+  "title": "X-Position: Обо всём по немногу",
+  "date": "2009-09-18T00:24:00+03:00",
+  "url": "/news/x-position-obo-vsyom-po-nemnogu/",
+  "original_url": "http://spidermedia.ru/news/x-position-obo-vsyom-po-nemnogu",
+  "archived": "https://web.archive.org/web/20260215074127/http://spidermedia.ru/news/x-position-obo-vsyom-po-nemnogu",
+  "template": "modern",
+  "source_encoding": "utf-8"
+}
+
+**X-Position** - это регулярная рубрика на сайте **[CBR](http://www.comicbookresources.com/)**, в рамках которой авторы различных икс-серий отвечают на вопросы читателей. Иногда она информативна, иногда не очень, но когда на вопросы отвечает весь редакторский состав икс-линейки, всегда можно ожидать новую информацию и свежий арт. Вот и этот раз не стал исключением. Редакторы во главе с **Акселем Алонсо** *(Axel Alonso)* поделились дальнейшими планами на икс-франчайз.
+![](https://web.archive.org/web/20260215074127im_/http://img132.imageshack.us/img132/4985/magnetosm.jpg)
+В качестве завлекаловки, снова **Магнето** *(Magneto)* и снова **Грег Лэнд** *(Greg Land)*
+
+- Заключительная часть **Трилогии Мессии** *(Messiah Trilogy)* будет иметь такой же формат, как и предыдущие две. Стартовый уан-шот, затем чередование в 4-ых сериях в течении 3-х месяцев, и в заключении закрывающий уан-шот увеличенного размера. Об эвенте будет объявлено в ближайшее время.
+- **Люди Икс** *(X-Men)*, входящие сейчас в состав **Старджаммеров** *(Starjammers)*, не вернутся на Землю в ближайшее время.
+- История атланта-мутанта **Кросты** *(Crosta)*, появившегося в уан-шоте **Dark Reign: Cabal**, в конце которого он был отправлен в Сан Франциско, продолжится на страницах **Uncanny X-Men** (информация на счет серии неточная, но то, что он скоро появится - факт).
+
+[![](https://web.archive.org/web/20260215074127im_/http://img185.imageshack.us/img185/7910/pic1sm.jpg)](http://www.marvel.com/i/content/st/9496new_storyimage2700032.jpg) [![](https://web.archive.org/web/20260215074127im_/http://img132.imageshack.us/img132/8862/pic2sm.jpg)](http://www.marvel.com/i/content/st/9496new_storyimage2700069.jpg) [![](https://web.archive.org/web/20260215074127im_/http://img185.imageshack.us/img185/1509/pic3sm.jpg)](http://marvel.com/i/content/st/9496new_storyimage2699979.jpg) [![](https://web.archive.org/web/20260215074127im_/http://img21.imageshack.us/img21/4685/pic4sm.jpg)](http://marvel.com/i/content/st/9496new_storyimage2700122.jpg) [![](https://web.archive.org/web/20260215074127im_/http://img30.imageshack.us/img30/9750/pic5sm.jpg)](http://marvel.com/i/content/st/9496new_storyimage2700184.jpg)
+Различный промо-арт к грядущей мини-серии **X-Babies** от **Якоба Шабо** *(Jacob Chabot)*. Помимо обозначенных **Икс-Деток** и **Spider-Ham**, на нём запечатлены персонажи **Star Comics**: **Royal Roy**, **Wally Wizard**, **Planet Terry** и **Top Dog**
+
+- События текущего арка серии **X-Force**, *"Not Forgotten"*, будут иметь долгоиграющие последствия для **Икс-23** *(X-23)*.
+- В ближайшее время не стоит ожидать появления антологии, посвященной икс-персонажам. Однако ничто не мешает выпускать подобные серии, приуроченные к различным эвентам. Ближайший представитель - уан-шот **X-Necrosha: The Gathering** за авторством **Крейга Кайла** *(Craig Kyle)*, **Криса Йоста** *(Chris Yost)* и целой группы художников. Как и мини-серия **Dark X-Men: The Beginning**, он будет посвящен набору различных персонажей, на этот раз, в ряды **Селены** *(Selene)*.
+- Ближайший арк серии **Deadpool**, *"Want you to Want Me"*, который пройдёт в 16-18 номерах, будет тай-ином к **Нации Икс** *(Nation X)*.
+
+[![](https://web.archive.org/web/20260215074127im_/http://img29.imageshack.us/img29/9804/wolvorign40varsm.jpg)](http://i.livescience.com/images/wolvorign40var.jpg) [![](https://web.archive.org/web/20260215074127im_/http://images.comicbookresources.com/previews/marvelcomics/xmen/xpos091609/sm/NECROSHA001010col72.jpg)](http://www.comicbookresources.com/images/previews/marvelcomics/xmen/xpos091609/NECROSHA001010col72.jpg) [![](https://web.archive.org/web/20260215074127im_/http://images.comicbookresources.com/previews/marvelcomics/xmen/xpos091609/sm/XFNECRGA001_cov72.jpg)](http://www.comicbookresources.com/images/previews/marvelcomics/xmen/xpos091609/XFNECRGA001_cov72.jpg)
+Вариантная обложка к **Wolverine: Origins #40** с **Ромулусом** *(Romulus)* от **Саймона Бьянчи** *(Simone Bianchi)*,
+страница из **X-Necrosha** и обложка к **X-Necrosha: The Gathering**
+[![](https://web.archive.org/web/20260215074127im_/http://img38.imageshack.us/img38/4797/xmnaoa001sm.jpg)](http://i.newsarama.com/images/XMNAOA001_var.jpg) [![](https://web.archive.org/web/20260215074127im_/http://img34.imageshack.us/img34/4788/xmnaoa002sm.jpg)](http://i.newsarama.com/images/XMNAOA001_var_2.jpg) [![](https://web.archive.org/web/20260215074127im_/http://images.comicbookresources.com/previews/marvelcomics/xmen/xpos091609/sm/DPool-clr17-previews1.jpg)](http://www.comicbookresources.com/images/previews/marvelcomics/xmen/xpos091609/DPool-clr17-previews1.jpg) [![](https://web.archive.org/web/20260215074127im_/http://images.comicbookresources.com/previews/marvelcomics/xmen/xpos091609/sm/Magneto.jpg)](http://www.comicbookresources.com/images/previews/marvelcomics/xmen/xpos091609/Magneto.jpg)
+Вариантные обложки к **X-Men vs. Agents of Atlas #1-2** от **Умберто Рамоса** *(Humberto Ramos)*,
+обложка к **Deadpool #17** и возвращение **Магнето** *(Magneto)* в **Uncanny X-Men #515** (или 516)
+[![](https://web.archive.org/web/20260215074127im_/http://images.comicbookresources.com/previews/marvelcomics/xmen/xpos091609/sm/PIXIE001finfin.jpg)](http://www.comicbookresources.com/images/previews/marvelcomics/xmen/xpos091609/PIXIE001finfin.jpg)И в заключении, анонс новой мини **X-Men: Pixie Strikes Back**, который [состоялся](http://www.comicbookresources.com/?page=article&id=22732) на **Fan Expo** в Канаде. Как видно из названия, серия будет посвящена **Меган Гвинн** *(Megan Gwynn)*, она же **Пикси** *(Pixie)*. Ключевой темой мини будет дружба главной героини с **Меркури** *(Mercury)*, **Армор** *(Armor)*, **Блайндфолд** *(Blindfold)* и **Икс-23** *(X-23)* (вся компания на промо-арте справа). Завязкой сюжета служит совместный выходной вечер, который идёт наперекосяк. Дружба, ложь, предательство и так далее в том же духе... Пишет все это дело главная модница Марвел **Кэтрин Иммонен** *(Kathryn Immonen)*, на рисунке - её партнёр по **Runaways**, **Сара Пичелли** *(Sarah Pichelli)*.
+**X-Men: Pixie Strikes Back** стартует в декабре и будет состоять из 4-х номеров.

@@ -1,0 +1,15 @@
+{
+  "title": "Росомаха, Дэдпул. Что дальше?",
+  "date": "2009-06-20T04:28:00+03:00",
+  "url": "/news/rosomaha-dedpul-chto-dalshe/",
+  "original_url": "https://spidermedia.ru/news/rosomaha-dedpul-chto-dalshe",
+  "archived": "https://web.archive.org/web/20260314081825/https://spidermedia.ru/news/rosomaha-dedpul-chto-dalshe",
+  "template": "modern",
+  "source_encoding": "utf-8"
+}
+
+![](https://web.archive.org/web/20260314081825im_/http://i583.photobucket.com/albums/ss273/zipoff/News/X-Men_z1.jpg)
+
+[Superhero Hype](http://superherohype.com/) посчастливилось взять интервью у **Дэвида Гойера** *(David Goyer)*, в котором он поделился своими домыслами о следующем фильме из вселенной **Людей Икс** *(X-Men)*.
+*- Я сейчас по уши в **Магнето** (Magneto). Хотя, честно говоря, я не уверен что Магнето мы увидим раньше чем, к примеру, **Люди Икс: Первый Класс** (X-Men: First Class). Руководство **Fox** постоянно дискутирует по этому поводу. Многие из них горят желанием увидеть молодых Людей Икс на больших экранах раньше всего. Споры не утихают и по сей день.*
+Напомним, что на сегодняшний день официально заявлены следующие фильмы: сиквел **Росомахи** *(Wolverine)*, **Дэдпул** *(Deadpool)*, Магнето и Люди Икс: Первый Класс.

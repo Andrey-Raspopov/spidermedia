@@ -1,0 +1,19 @@
+{
+  "title": "Изумрудная Конвенция'09",
+  "date": "2009-03-24T18:00:00+03:00",
+  "url": "/news/izumrudnaya-konvenciya09/",
+  "original_url": "https://spidermedia.ru/news/izumrudnaya-konvenciya09",
+  "archived": "https://web.archive.org/web/20251205121924/https://spidermedia.ru/news/izumrudnaya-konvenciya09",
+  "template": "modern",
+  "source_encoding": "utf-8"
+}
+
+![](https://web.archive.org/web/20251205121924im_/http://s61.radikal.ru/i172/0903/1e/3d0db1921173.jpg)
+За последние пару месяцев успели пройти две конвенции, так или иначе связанные с комиксами. И уже в апреле банкет продолжится, встречайте **Комик-Кон Изумрудного Города** *(Emerald City Comic-Con)*, проходящий в Сиетле, штат Вашингтон.
+Приготовьтесь к новому потоку свежей информации от разных компаний, разных сценаристов и художников. Хотя уже сейчас можно узнать некоторые подробности:
+- Конвенцию посетят: **Джейсон Аарон** *(Jason Aaron)*, **Брайн Майкл Бендис** *(Brian Michael Bendis)*, **Марк Брукс** *(Mark Brooks)*, **Эд Брубейкер** *(Ed Brubaker)*, **Курт Бусиек** *(Kurt Busiek)*, **Френк Чо** *(Frank Cho)*, **Аманда Коннер** *(Amanda Conner)*, **Дэннис Калеро** *(Dannis Calero)*, **Мэтт Фракшн** *(Matt Fraction)*, **Адам Хьюз** *(Adam Hughes)*, **Дастин Нгуен** *(Dustin Nguyen)*, **Умберто Рамос** *(Humberto Ramos)* и многие [другие](http://www.emeraldcitycomicon.com/guests.php). Уже солидный список, конечно, но он был бы не таким полным, не упомянув **Роба Лифилда** *(Rob Liefeld)*.
+Дэннис Калеро решил не мелочиться, и представил свою работу, одновременно являющиеся и обложкой гида Конвенции:
+[![eccc_covinks_big.jpg - Picamatic - upload your images](https://web.archive.org/web/20251205121924im_/http://www.picamatic.com/show/2009/03/24/04/34/2998594_bigthumb.jpg "eccc_covinks_big.jpg")](http://www.picamatic.com/view/2998594_eccc_covinks_big/) [![eccc_covcolor_big.jpg - Picamatic - upload your images](https://web.archive.org/web/20251205121924im_/http://www.picamatic.com/show/2009/03/24/04/34/2998590_bigthumb.jpg "eccc_covcolor_big.jpg")](http://www.picamatic.com/view/2998590_eccc_covcolor_big/)- **Марк Уэйд** *(Mark Waid)* никогда скромностью не отличался, что и продемонстрировал лимитированной обложкой **[Irredeemable](../../node/22/#comments) #1**.
+  [![boom_waid.jpg - upload images with Picamatic](https://web.archive.org/web/20251205121924im_/http://www.picamatic.com/show/2009/03/24/05/28/2999133_bigthumb.jpg "boom_waid.jpg")](http://www.picamatic.com/view/2999133_boom_waid/)
+Само событие будет проходить **4** и **5 апреля**.
+[![needle.jpg - upload images with Picamatic](https://web.archive.org/web/20251205121924im_/http://www.picamatic.com/show/2009/03/24/05/33/2999168_bigthumb.jpg "needle.jpg")](http://www.picamatic.com/view/2999168_needle/)

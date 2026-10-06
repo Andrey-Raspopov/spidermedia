@@ -1,0 +1,17 @@
+{
+  "title": "Финал Икс",
+  "date": "2009-02-17T20:59:00+03:00",
+  "url": "/news/final-iks/",
+  "original_url": "http://spidermedia.ru/news/final-iks",
+  "archived": "https://web.archive.org/web/20251207005847/http://spidermedia.ru/news/final-iks",
+  "template": "modern",
+  "source_encoding": "utf-8"
+}
+
+[![](https://web.archive.org/web/20251207005847im_/http://pic.ipicture.ru/uploads/090217/J6tS3tRd1V.jpg)](http://pic.ipicture.ru/uploads/090217/7Uv0R3blBg.jpg) [![](https://web.archive.org/web/20251207005847im_/http://pic.ipicture.ru/uploads/090217/g56rNxS3Yz.jpg)](http://pic.ipicture.ru/uploads/090217/b9ZDT6fnwl.jpg)
+
+Привычной **Ultimate Universe** конец - это давно уже факт. Перед нами завершают свою жизнь те серии, с которыми вселенная и начиналась, но финал всегда должен быть запоминающимся.
+
+11 марта выходит **сотый номер** **Ultimate X-Men** от **Эрона Колайта** *(Aron Coleite)* и **Марка Брукса** *(Mark Brooks)*, который и станет решающим для команды мутантов. Ниже вы можете посмотреть арт-превью последнего номера:
+
+[![](https://web.archive.org/web/20251207005847im_/http://www.picamatic.com/show/2009/01/29/11/31/1895756_bigthumb.jpg)](http://www.picamatic.com/view/1895756_6689new_storyimage3158347/) [![](https://web.archive.org/web/20251207005847im_/http://www.picamatic.com/show/2009/01/29/11/31/1895758_bigthumb.jpg)](http://www.picamatic.com/view/1895758_6689new_storyimage3158372/) [![](https://web.archive.org/web/20251207005847im_/http://www.picamatic.com/show/2009/01/29/11/32/1895759_bigthumb.jpg)](http://www.picamatic.com/view/1895759_6689new_storyimage3158393/) [![](https://web.archive.org/web/20251207005847im_/http://www.picamatic.com/show/2009/01/29/11/32/1895761_bigthumb.jpg)](http://www.picamatic.com/view/1895761_6689new_storyimage3158415/) [![](https://web.archive.org/web/20251207005847im_/http://www.picamatic.com/show/2009/01/29/11/32/1895763_bigthumb.jpg)](http://www.picamatic.com/view/1895763_6689new_storyimage3158438/) [![](https://web.archive.org/web/20251207005847im_/http://pic.ipicture.ru/uploads/090217/8R2xSQBSaG.jpg)](http://pic.ipicture.ru/uploads/090217/c7ByOH1QY6.jpg)

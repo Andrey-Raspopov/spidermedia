@@ -1,0 +1,14 @@
+{
+  "title": "Бэтмен и Робин наносят ответный удар !",
+  "date": "2009-05-08T00:47:00+03:00",
+  "url": "/news/betmen-i-robin-nanosyat-otvetnyy-udar/",
+  "original_url": "http://spidermedia.ru/news/betmen-i-robin-nanosyat-otvetnyy-udar",
+  "archived": "https://web.archive.org/web/20251216185103/http://spidermedia.ru/news/betmen-i-robin-nanosyat-otvetnyy-udar",
+  "template": "modern",
+  "source_encoding": "utf-8"
+}
+
+[![](https://web.archive.org/web/20251216185103im_/http://s55.radikal.ru/i148/0905/fb/92f8b3da766et.jpg)](http://radikal.ru/F/s55.radikal.ru/i148/0905/fb/92f8b3da766e.jpg.html)
+Мы уже не раз писали, что в **июне** стартует новая онгоинг-серия под названием **Batman and Robin** от великого человека **Гранта Моррисона** (*Grant Morrison*) в роли сценариста, и от художника **Френка Куайтли** (*Frank Quitely*). Ранние новости вы можете видеть [тут](../../node/641/) и [тут](../../node/939/), а прямо сейчас имеем честь представить пару страничек из грядущего 1 номера (ниже), а также совсем свежую обложку номера **3**, которую вы можете видеть в заглавии новости.
+[![](https://web.archive.org/web/20251216185103im_/http://s39.radikal.ru/i084/0905/96/097350405d38t.jpg)](http://radikal.ru/F/s39.radikal.ru/i084/0905/96/097350405d38.jpg.html) [![](https://web.archive.org/web/20251216185103im_/http://s55.radikal.ru/i150/0905/98/054fb083e07bt.jpg)](http://radikal.ru/F/s55.radikal.ru/i150/0905/98/054fb083e07b.jpg.html)
+Напоминаем, что 1 номер захватит прилавки западных комикс-магазинов уже **3 июня**.

@@ -1,0 +1,19 @@
+{
+  "title": "Моджо поднимает рейтинги!",
+  "date": "2009-02-19T12:50:00+03:00",
+  "url": "/news/modzho-podnimaet-reytingi/",
+  "original_url": "http://spidermedia.ru/news/modzho-podnimaet-reytingi",
+  "archived": "https://web.archive.org/web/20111018092314/http://spidermedia.ru/news/modzho-podnimaet-reytingi",
+  "template": "drupal",
+  "source_encoding": "utf-8"
+}
+
+]]>[![TMSTRM001_cov.jpg - image uploaded to Picamatic](https://web.archive.org/web/20111018092314im_/http://pic.ipicture.ru/uploads/090219/oNDQGY1AWI.jpg "TMSTRM001_cov.jpg")](http://www.picamatic.com/view/2294487_6938new_storyimage4996602/)]]>
+
+Новости с диджитал-фронта комиксов Марвел продолжаются.
+
+Совсем скоро можно будет прочитать ван-шот о **Джессике Дрю** *(Jessica Drew)*, о котором мы уже [писали](../../node/322/#comments). Настало время анонса нового комикса - это третий выпуск из серии **Mojoworld**, где в центре сюжета приключение мутантов **Санспота** *(Sunspot)* и **Ядра** *(Cannonball)* в мире **Моджо** *(Mojo)*. Естественно, весь этот антураж лишь фон для сатиры, и, увы, на нашу зомбированную реальность.
+
+Даже если и это вам не совсем по вкусу, постойте - в 3 выпуске нас ждет постановка **Гражданской Войны** *(Civil War)* от самого медия-монстра Моджо. По крайней мере, любопытно.
+
+Поделиться:

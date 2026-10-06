@@ -1,0 +1,76 @@
+{
+  "title": "Do NOT Send Us Your Shelf Porn",
+  "date": "2009-12-13T20:04:00+03:00",
+  "url": "/blog/el-qwanto/do-not-send-us-your-shelf-porn/",
+  "original_url": "http://spidermedia.ru/blog/el-qwanto/do-not-send-us-your-shelf-porn",
+  "archived": "https://web.archive.org/web/20200221074055/http://spidermedia.ru:80/blog/el-qwanto/do-not-send-us-your-shelf-porn",
+  "template": "modern",
+  "source_encoding": "utf-8"
+}
+
+В связи с тем, что одминистратор стерпазук нуждается в ~~хлебе~~ омнибасах, начинаю убивать и захламлять сайт.
+**DC Comics Covergirls [HC] (Previews Shmexclusive Alex Ross Cover)** *DC Comics*
+[![](https://web.archive.org/web/20200221074055im_/http://i265.photobucket.com/albums/ii233/QWANT007/Comics-collect/th_tn_SDC10318.jpg)](http://s265.photobucket.com/albums/ii233/QWANT007/Comics-collect/tn_SDC10318.jpg) [![](https://web.archive.org/web/20200221074055im_/http://i265.photobucket.com/albums/ii233/QWANT007/Comics-collect/th_tn_SDC10319.jpg)](http://s265.photobucket.com/albums/ii233/QWANT007/Comics-collect/tn_SDC10319.jpg)
+Изумительная книга. Гид по обложкам ДиСи девок. Есть разделы для Супергёрл (в который пихнули и ПиДжи за компанию ಠ_ಠ ), Лоис Лэйн, Вандер Вумен, Готем Гёрлз и т.п. Много обложек, больших и маленьких, с описанием и/или историей, и 'бонусными' галереями.
+Овероверсайз. 208 страниц.
+**Casanova Vol. 1: Luxuria [HC]** *Image*
+[![](https://web.archive.org/web/20200221074055im_/http://i265.photobucket.com/albums/ii233/QWANT007/Comics-collect/th_tn_SDC10320.jpg)](http://s265.photobucket.com/albums/ii233/QWANT007/Comics-collect/tn_SDC10320.jpg) [![](https://web.archive.org/web/20200221074055im_/http://i265.photobucket.com/albums/ii233/QWANT007/Comics-collect/th_tn_SDC10321.jpg)](http://s265.photobucket.com/albums/ii233/QWANT007/Comics-collect/tn_SDC10321.jpg)
+Written by *Matt Fraction*
+Art by *Gabriel Bá*
+Он спасает мир, он не церемонится с женщинами и он крут. А еще он пишет Казанову. Историю настолько запутанную и плавящую мозг, что с первого раза понять всё (или даже что-то) затруднительно. Ба выдает феерию, которую невозможно разглядеть с экрана монитора. Фрэкшн уже которую неделю дразнит тизерами и продолжении, но FRACTION RELEASE THE SECOND BOOK ALREADY (на случай если вдруг будет гуглить свое имя и пролистает 725 страницы). Casanova #1-4 + прелиминериз и скетчи Ба, но без почти всех рэнтов Фрэкшна.
+Оверсайз. 144 страницы.
+**Hexed [HC]** *Boom! Studios*
+[![](https://web.archive.org/web/20200221074055im_/http://i265.photobucket.com/albums/ii233/QWANT007/Comics-collect/th_tn_SDC10322.jpg)](http://s265.photobucket.com/albums/ii233/QWANT007/Comics-collect/tn_SDC10322.jpg)
+Written by *Michael Alan Nelson*
+Art by *Emma Rios*
+Они обещали кровь, кражи ,секс и магию. Первого и последнего было в достатке. Из разряда "дунно, джаст лайк зэ бук". Зато сделали закладочку :3 Hexed #1-4
+Премьер. 96 страниц.
+**Mouse Guard Vol. 1: Fall 1152 [HC]** *Archaia Studios Press*
+[![](https://web.archive.org/web/20200221074055im_/http://i265.photobucket.com/albums/ii233/QWANT007/Comics-collect/th_tn_SDC10327.jpg)](http://s265.photobucket.com/albums/ii233/QWANT007/Comics-collect/tn_SDC10327.jpg) [![](https://web.archive.org/web/20200221074055im_/http://i265.photobucket.com/albums/ii233/QWANT007/Comics-collect/th_tn_SDC10329.jpg)](http://s265.photobucket.com/albums/ii233/QWANT007/Comics-collect/tn_SDC10329.jpg)
+Written and drawn by *David Petersen*
+Дэвид Петерсен прочитал Рэдволл и решил построить свое казино, но без блэкджека. Мило, приятно (хотя вторая книга раскрывает все прелести истории в разы лучше) и мало. Mouse Guard: Fall 1152 #1-6 + эпилог, которого не было в выпусках.
+Маленький такой квадратик. 192 cтраницы.
+**Flash: Crossfire & Flash: Blitz [TPB]** *DC Comics*
+[![](https://web.archive.org/web/20200221074055im_/http://i265.photobucket.com/albums/ii233/QWANT007/Comics-collect/th_tn_SDC10326.jpg)](http://s265.photobucket.com/albums/ii233/QWANT007/Comics-collect/tn_SDC10326.jpg)
+Written by **Geoff Johns**
+Art by *Scott Kolins*
+<здесь любая пафосная фраза со словом 'run'> В любом случае сумел достать рарные книги для завершения текущего рана ДД нал флэшем. Kewl. Flash #183-191 и #192-200.
+По 224 страницы.
+**JLA Vol. 14: Trial by Fire [TPB]** *DC Comics*
+[![](https://web.archive.org/web/20200221074055im_/http://i265.photobucket.com/albums/ii233/QWANT007/Comics-collect/th_tn_SDC10324.jpg)](http://s265.photobucket.com/albums/ii233/QWANT007/Comics-collect/tn_SDC10324.jpg)
+Written by *Joe Kelly*
+Art by *Doug Mahnke*
+Их сейчас активно в оверсайзных хардах выпускают, но я сумневаюсь, что дальше Моррисона продвинутся, поэтому вот. Манке, правда, далеко не художник Икс-Фактора, поэтому вместо хороших выражений лиц у него получаеются *перекачанные культуристы* и *meh*, так что берите лучше Икс-Фактор. JLA #84-89
+144 страницы.
+**Green Lantern: Passing the Torch [TPB]** *DC Comics*
+Written by *Judd Winick*
+Art by *Dale Eaglesham*
+Это не написано Джеффом Джонсом и здесь нет Хэла Джордана, казалось бы, зачем это кому-нибудь нужно? Однако на практике оказывается, что не все так плохо. И Иглшэм. Обложки рисует еще не полностью скатившийся в статику Оливьетте. Green Lantern v3 #156, 158-161
+128 страниц.
+**JLA: Year One [TPB]** *DC Comics*
+Written by *Mark Waid*
+Art by *Barry Kitson* & others
+Почти что СуперФрендз. JLA: Year One #1-12
+320 страниц.
+**Ultra: Seven Days [TPB]** *Image*
+[![](https://web.archive.org/web/20200221074055im_/http://i265.photobucket.com/albums/ii233/QWANT007/Comics-collect/th_tn_SDC10323.jpg)](http://s265.photobucket.com/albums/ii233/QWANT007/Comics-collect/tn_SDC10323.jpg)
+Written and drawn by *Luna Brothers*
+Несмотря на то, что далеко не лучшая работы Лун, хорошая вещь. Ничего общего с Girls и The Sword не имеет, зато суперхероик слайс оф лайф. Хотя при первой же возможности обменяю на хард, вряд ли получится только. Ultra #1-8
+232 страницы.
+**Madman Atomic Comics Vol. 1: Existentail Exits [TPB]** *Image*
+Written and drawn by *Michael Allred*
+По моему скромному мнению новая серия Мэдмена > старые серии Мэдмена. Хотя, конечно, Гаргантюа, которого имеет любой медиец, издание лучше и уже в дороге. Жду не дождусь. Madman Atomic Comics #1-7
+160 страниц.
+**American Elf Sketchbook Diaries of James Kochalka [TPB]** *Top Shelf*
+[![](https://web.archive.org/web/20200221074055im_/http://i265.photobucket.com/albums/ii233/QWANT007/Comics-collect/th_tn_SDC10330.jpg)](http://s265.photobucket.com/albums/ii233/QWANT007/Comics-collect/tn_SDC10330.jpg) [![](https://web.archive.org/web/20200221074055im_/http://i265.photobucket.com/albums/ii233/QWANT007/Comics-collect/th_tn_SDC10331.jpg)](http://s265.photobucket.com/albums/ii233/QWANT007/Comics-collect/tn_SDC10331.jpg)
+Written and drawn by *James Kochalka*
+Черно-белые ежедневные зарисовки Американского Эльфа Джеймса Кочалки. January 1, 2006 to December 31, 2007
+Квадратик как Маус Гард, 192 страницы.
+**G-Man:Learning to Fly [TPB]** *Image*
+Written and drawn by *Crhis Giarusso*
+Крис Джиаруззо без мини-марвелов, а со своим персонажем. Я очень ждал эту книгу, а оказалось это дайджест, размера с Filthy Rich. И если второй был специально сделан под такой формат, то G-Man смотрится ущербно, в панелях текст сложно разобрать. Эх.
+Дайджест, 96 страниц.
+Всё и сразу (даже с прошлым апдейтом).
+[![](https://web.archive.org/web/20200221074055im_/http://i265.photobucket.com/albums/ii233/QWANT007/Comics-collect/th_tn_SDC10316.jpg)](http://s265.photobucket.com/albums/ii233/QWANT007/Comics-collect/tn_SDC10316.jpg)
+И приятная безделушка в виде Койпела. С обратной стороны халтурный Джурджевич.
+[![](https://web.archive.org/web/20200221074055im_/http://i265.photobucket.com/albums/ii233/QWANT007/Comics-collect/th_tn_SDC10312.jpg)](http://s265.photobucket.com/albums/ii233/QWANT007/Comics-collect/tn_SDC10312.jpg)

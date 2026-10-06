@@ -1,0 +1,17 @@
+{
+  "title": "Июньский расклад карт",
+  "date": "2009-03-21T00:45:00+03:00",
+  "url": "/news/iyunskiy-rasklad-kart/",
+  "original_url": "http://spidermedia.ru/news/iyunskiy-rasklad-kart",
+  "archived": "https://web.archive.org/web/20260117230857/http://spidermedia.ru/news/iyunskiy-rasklad-kart",
+  "template": "modern",
+  "source_encoding": "utf-8"
+}
+
+Не только одному **Росомахе** *(Wolverine)* пользоваться положением дозволено. **Гамбита** *(Gambit)*  тоже ждет личный комикс, хоть и размером всего в один выпуск.
+[![7305new_storyimage7569359.jpg - upload images with Picamatic](https://web.archive.org/web/20260117230857im_/http://www.picamatic.com/show/2009/03/20/09/28/2905201_bigthumb.jpg "7305new_storyimage7569359.jpg")](http://www.picamatic.com/view/2905201_7305new_storyimage7569359/)
+
+Серия одиночных выпусков **X-Men Origins** пополнится и историей **Реми ЛеБо** *(Remy LeBeau)*, которая начнется свадьбой, а закончится спасением **Бури** *(Storm)*, произошедшим в **Uncanny X-Men #266**. Естественно, в выпуске не забудут и такие важные моменты в жизни героя, как **Резня Мутантов** *(Mutant Massacre)*, появления **Зловещего** *(Sinister)*, и участия в команде **Мародеров** *(The Marauders)*.
+Для автора комикса, **Майка Кэри** *(Mike Carey)*, Гамбит является очень занимательным персонажем, даже в чем-то загадкой. Он был вором, был героем, был злодеем. Именно поэтому Майку интересно с ним работать. Есть все основания для того, чтобы ждать интересные и качественный комикс, где Реми показан как живой человек, у которого есть чувства.
+Ниже можно посмотреть арт-превью от художника **Дэвида Ярдина** *(David Yardin)*:
+[![7305new_storyimage7569387.jpg - Picamatic - upload your images](https://web.archive.org/web/20260117230857im_/http://www.picamatic.com/show/2009/03/20/09/27/2905212_bigthumb.jpg "7305new_storyimage7569387.jpg")](http://www.picamatic.com/view/2905212_7305new_storyimage7569387/) [![7305new_storyimage7569404.jpg - upload images with Picamatic](https://web.archive.org/web/20260117230857im_/http://www.picamatic.com/show/2009/03/20/09/31/2905214_bigthumb.jpg "7305new_storyimage7569404.jpg")](http://www.picamatic.com/view/2905214_7305new_storyimage7569404/) [![7305new_storyimage7569419.jpg - image uploaded to Picamatic](https://web.archive.org/web/20260117230857im_/http://www.picamatic.com/show/2009/03/20/09/29/2905216_bigthumb.jpg "7305new_storyimage7569419.jpg")](http://www.picamatic.com/view/2905216_7305new_storyimage7569419/) [![7305new_storyimage7569437.jpg - image uploaded to Picamatic](https://web.archive.org/web/20260117230857im_/http://www.picamatic.com/show/2009/03/20/09/31/2905218_bigthumb.jpg "7305new_storyimage7569437.jpg")](http://www.picamatic.com/view/2905218_7305new_storyimage7569437/)

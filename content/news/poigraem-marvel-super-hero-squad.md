@@ -1,0 +1,18 @@
+{
+  "title": "Поиграем? Marvel Super Hero Squad",
+  "date": "2009-06-05T22:53:00+03:00",
+  "url": "/news/poigraem-marvel-super-hero-squad/",
+  "original_url": "http://spidermedia.ru/news/poigraem-marvel-super-hero-squad",
+  "archived": "https://web.archive.org/web/20260211191141/http://spidermedia.ru/news/poigraem-marvel-super-hero-squad",
+  "template": "modern",
+  "source_encoding": "utf-8"
+}
+
+![](https://web.archive.org/web/20260211191141im_/http://i583.photobucket.com/albums/ss273/zipoff/News/super_hero_squad_z1.jpg)
+
+Компания **THQ** анонсировала игру по мотивам сериала **The Super Hero Squad Show**, который дебютирует этой осенью на канале **Cartoon Network**. Игра разрабатывается силами **Gazillion Entertainment**, а THQ отведена роль мирового издателя. Разработчики обещают бесконечный экшен и захватывающие мультиплеерные схватки. Игра появится на **Nintendo Wii**, **Nintendo DS**, **PlayStation 2** и **PSP** в октябре этого года.
+
+[Flash: <http://img217.imageshack.us/img217/6668/spidermediaplayerz09.swf>]
+
+[![Photobucket](https://web.archive.org/web/20260211191141im_/http://i583.photobucket.com/albums/ss273/zipoff/All/th_3.jpg)](http://s583.photobucket.com/albums/ss273/zipoff/All/?action=view¤t=3.jpg) [![Photobucket](https://web.archive.org/web/20260211191141im_/http://i583.photobucket.com/albums/ss273/zipoff/All/th_2.jpg)](http://s583.photobucket.com/albums/ss273/zipoff/All/?action=view¤t=2.jpg) [![Photobucket](https://web.archive.org/web/20260211191141im_/http://i583.photobucket.com/albums/ss273/zipoff/All/th_1.jpg)](http://s583.photobucket.com/albums/ss273/zipoff/All/?action=view¤t=1.jpg)
+[![Photobucket](https://web.archive.org/web/20260211191141im_/http://i583.photobucket.com/albums/ss273/zipoff/All/th_Hulk1.jpg)](http://s583.photobucket.com/albums/ss273/zipoff/All/?action=view¤t=Hulk1.jpg) [![Photobucket](https://web.archive.org/web/20260211191141im_/http://i583.photobucket.com/albums/ss273/zipoff/All/th_Wolverine.jpg)](http://s583.photobucket.com/albums/ss273/zipoff/All/?action=view¤t=Wolverine.jpg) [![Photobucket](https://web.archive.org/web/20260211191141im_/http://i583.photobucket.com/albums/ss273/zipoff/All/th_IronMan.jpg)](http://s583.photobucket.com/albums/ss273/zipoff/All/?action=view¤t=IronMan.jpg)

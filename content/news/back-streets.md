@@ -1,0 +1,17 @@
+{
+  "title": "Back to the Streets",
+  "date": "2010-01-15T20:55:00+03:00",
+  "url": "/news/back-streets/",
+  "original_url": "http://spidermedia.ru/news/back-streets",
+  "archived": "https://web.archive.org/web/20250519182514/http://spidermedia.ru/news/back-streets",
+  "template": "modern",
+  "source_encoding": "utf-8"
+}
+
+Для него тюрьма и геройство по найму в прошлом, сейчас он, в первую очередь, отец, муж и член команды **Новые Мстители** *(New Avengers)*. Любимец **Брайана Майкла Бендиса** *(Brian Michael Bendis)*, хоть и без его прямого участия, возвращается на улицы в мини **New Avengers: Luke Cage**.
+[![](https://web.archive.org/web/20250519182514im_/http://i691.photobucket.com/albums/vv276/Silvernoir/th_newavncage001_cov_02.jpg)](http://i.newsarama.com/images/newavncage001_cov_02.jpg)
+
+На этот раз **Люк Кейдж** *(Luke Cage)* попал в руки сценариста **Джона Аркуди** *(John Arcudi)*  и художника **Эрика Канета** *(Eric Canete)*. Если первого можно вспомнить, например, по куче серий для **Dark Horse Comics** (Aliens, The Mask и др.) или по **Wednesday Comics**, где он отвечал за **Супермена** *(Superman)*, то второго легко узнаете в **Iron Man: Enter The Mandarin**, **Amazing Spider Man #611** и прочих.
+Сам Аркуди, по его признанию, практически не следил за свершениями в судьбе Кейджа и был приятно удивлен новому знакомству с персонажем. Но при всем этом, главной темой истории станет именно улица, где царят свои правила и законы. Завязка заключается в том, что Люк отправляется на помощь к сыну своего старого друга, который организовал в опасном районе Филадельфии, из благих побуждений, свою версию **Героев по найму** *(Hero-for-Hire)*, за что жестоко и поплатился. Основными персонажами являются обычные люди, но в серии стоит ждать появление таких личностей, как **Человек-Паук** *(Spider-Man)*, **Ронин** *(Ronin)* и **Кувалда** *(Hammerhead)*. Кроме того, в плане противников планируется некоторые сюрпризы и неожиданные повороты.
+[![](https://web.archive.org/web/20250519182514im_/http://i691.photobucket.com/albums/vv276/Silvernoir/th_cage01_pg01_b_w_send_02.jpg)](http://i691.photobucket.com/albums/vv276/Silvernoir/cage01_pg01_b_w_send_02.jpg?t=1263577107) [![](https://web.archive.org/web/20250519182514im_/http://i691.photobucket.com/albums/vv276/Silvernoir/th_cage01_pg02_b_w_send_02.jpg)](http://i691.photobucket.com/albums/vv276/Silvernoir/cage01_pg02_b_w_send_02.jpg?t=1263579184)
+Лимитка из четырех номеров не собирается плотно взаимодействовать с теми же **New Avengers** Бендиса, ее можно охарактеризовать как самостоятельную и самодостаточную вещь. Первый выпуск уже в апреле.

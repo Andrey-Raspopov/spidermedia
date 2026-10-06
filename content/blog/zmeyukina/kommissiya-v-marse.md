@@ -1,0 +1,24 @@
+{
+  "title": "Коммиссия в МАрсе",
+  "date": "2009-05-03T22:44:00+03:00",
+  "url": "/blog/zmeyukina/kommissiya-v-marse/",
+  "original_url": "https://spidermedia.ru/blog/zmeyukina/kommissiya-v-marse",
+  "archived": "https://web.archive.org/web/20250804003859/https://spidermedia.ru/blog/zmeyukina/kommissiya-v-marse",
+  "template": "modern",
+  "source_encoding": "utf-8"
+}
+
+Как известно, в этом году Коммиссия идет на два зала. Вчера посетила ту часть, что в галерее МАрс. На самом деле, выглядит она гораздо уютнее и милее, чем-то, что на Винзаводе. То ли дело привычки, то ли эти камерные залы лучше подходят для комиксов.
+Попутно пообщалась немного с местными комиксистами, краем глаза посмотрела на слайды и послушала лекцию об итальянском ком-фестивале. Да, еще взяла интервью у Хихуса для своего фильма. Интервьюируемый очень даже разговорился, особенно когда речь зашла о трэш-комиксах. А также рассказал о планах объединить в будущем комикс-фестиваль и игровую индустрию.
+Народу кстати было в залах очень мало, несмотря на выходной день. То ли все рванули на Винзавод, то ли... не знаю. Но все равно МАрс навевает какую-то ностальгию. По тем временам, когда казалось, что еще что-то может быть...
+Немного фот:
+Хихус и автор блога
+[![Photobucket](https://web.archive.org/web/20250804003859im_/http://i8.photobucket.com/albums/a9/zmeukina/100_0991.jpg)](http://s8.photobucket.com/albums/a9/zmeukina/?action=view¤t=100_0991.jpg)
+С Комардином
+[![Photobucket](https://web.archive.org/web/20250804003859im_/http://i8.photobucket.com/albums/a9/zmeukina/100_0992.jpg)](http://s8.photobucket.com/albums/a9/zmeukina/?action=view¤t=100_0992.jpg)
+Зал выставки
+[![Photobucket](https://web.archive.org/web/20250804003859im_/http://i8.photobucket.com/albums/a9/zmeukina/100_0997.jpg)](http://s8.photobucket.com/albums/a9/zmeukina/?action=view¤t=100_0997.jpg)
+Хэллбой
+[![Photobucket](https://web.archive.org/web/20250804003859im_/http://i8.photobucket.com/albums/a9/zmeukina/100_0995.jpg)](http://s8.photobucket.com/albums/a9/zmeukina/?action=view¤t=100_0995.jpg)
+Забавные фигурки
+[![Photobucket](https://web.archive.org/web/20250804003859im_/http://i8.photobucket.com/albums/a9/zmeukina/100_0994.jpg)](http://s8.photobucket.com/albums/a9/zmeukina/?action=view¤t=100_0994.jpg)

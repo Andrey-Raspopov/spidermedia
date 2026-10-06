@@ -1,0 +1,16 @@
+{
+  "title": "Роб Лайфелд о фильмах \"Youngblood\" и \"Capeshooters\"",
+  "date": "2009-05-14T15:16:00+03:00",
+  "url": "/news/rob-layfeld-o-filmah-youngblood-i-capeshooters/",
+  "original_url": "http://spidermedia.ru/news/rob-layfeld-o-filmah-youngblood-i-capeshooters",
+  "archived": "https://web.archive.org/web/20260214132927/http://spidermedia.ru/news/rob-layfeld-o-filmah-youngblood-i-capeshooters",
+  "template": "modern",
+  "source_encoding": "utf-8"
+}
+
+Автор и художник **Роб Лайфелд** *(Rob Liefeld)* поделился новой информацией касательно экранизаций двух его комиксов - [**"Youngblood"**](../../node/284/) (о команде супергероев на службе правительства) и **"Capeshooters"** (о недотепах-папарацци, охотящихся за клубничкой с участием супергероев).
+
+![Photobucket](https://web.archive.org/web/20260214132927im_/http://img.photobucket.com/albums/v335/sterpazook/ea240efb.jpg)
+
+- [![Image Source](https://web.archive.org/web/20260214132927im_/http://img.photobucket.com/albums/v335/sterpazook/th_112585eb.jpg)](http://smg.photobucket.com/albums/v335/sterpazook/?action=view¤t=112585eb.jpg) Сценаристы "Youngblood" **Джей Пи Лавин** *(J.P. Lavin)* и **Чед Дэмиани** *(Chad Damiani)* уже набросали половину первичного сценария: сюжет картины сфокусируется на противопоставлении жизненных взглядов двух центральных персонажей - новичка (супергерой-лучник **Hawkeye Shaft**) и бывалого ветеране-спецназовца (**Chapel**). А вот самого колоритного участника команды [**Бэдрока** *(Badrock)*](http://img.photobucket.com/albums/v335/sterpazook/5c5b2bee.jpg) в фильме не будет. Однако Лайфелд не отрицает возможность появления данного персонажа в сиквеле, если таковой решат снять. **Youngblood** *(Молодая кровь)* не просто взвод супер-солдат - они знаменитости, у которых есть толпы поклонников. Основной фишкой фильма будет освещение действий команды в режиме *реалити-шоу* - ТВ-камеры будут закреплены в том числе на их оружии и амуниции.
+- О фильме "Capeshooters" пока известно очень мало. Комикс еще не вышел, а синопсис не обрел новых подробностей: двое друзей, желая заработать, начинают тайную фото-охоту на супергероев и случайно узнают, что самый известный из них является суперзлодеем. Над сценарием работают те же люди, что и над "Youngblood".

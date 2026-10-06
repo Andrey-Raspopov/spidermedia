@@ -1,0 +1,29 @@
+{
+  "title": "Tricky! Sticky! Mickey Eye!",
+  "date": "2009-02-02T10:47:00+03:00",
+  "url": "/blog/bogart/tricky-sticky-mickey-eye/",
+  "original_url": "http://spidermedia.ru/blog/bogart/tricky-sticky-mickey-eye",
+  "archived": "https://web.archive.org/web/20251216182152/http://spidermedia.ru/blog/bogart/tricky-sticky-mickey-eye",
+  "template": "modern",
+  "source_encoding": "utf-8"
+}
+
+![](https://web.archive.org/web/20251216182152im_/http://i305.photobucket.com/albums/nn228/Crackity_Jones_0/tn_022.jpg)Не знаю как вы, а я вот очень жду выхода **Seaguy: The Slaves of Mickey Eye**. Почему жду? На это у меня есть как минимум три причины: во-первых, это комикс от Гранта Моррисона, во-вторых, это комикс от Гранта Моррисона и в-третьих, The Slaves of Mickey Eye - это продолжение гениальной мини-серии 2004-ого года.
+
+Seaguy - это комикс о супергерое живущем в мире которому не нужны супергерои (ну или по крайне мере, все думают что они не нужны). Сам автор говорил о комиксе следующее:
+
+*"I had the idea to develop Seaguy into a weapon I could use to fight back against the trendy and*
+
+unconvincing 'bad-ass' cynicism of current comics, most of which are produced by the most
+
+un-'bad-ass' men you can possibly imagine"
+
+Моррисон с самого начала планировал сделать из комикса трилогию (The Wasps of Atlantis - The Slaves of Mickey Eye - Eternal), финал первой серии был весьма открытым, но, тем не менее, продолжения приключений Сигая пришлось ждать целых пять лет. Ходили даже слухи что Вертиго давно решило не издавать оставшиеся части трилогии и передумать их заставил только поставленный Богом Всех Комиксов ультиматум: или издательство дает Сигаю зеленый свет или никакого участия в написании ДиСишного 52. Не знаю насколько правдивы были эти слухи (подозреваю, что не очень), но факт остается фактом - The Slaves of Mickey Eye быть!
+
+Ниже располагаются несколько готовых страниц, обложка и скетчи персонажей от художника серии Кэмерона Стюарта:
+
+[![Photobucket](https://web.archive.org/web/20251216182152im_/http://i305.photobucket.com/albums/nn228/Crackity_Jones_0/th_seagsm_cv1.jpg)](http://s305.photobucket.com/albums/nn228/Crackity_Jones_0/?action=view¤t=seagsm_cv1.jpg) [![Photobucket](https://web.archive.org/web/20251216182152im_/http://i305.photobucket.com/albums/nn228/Crackity_Jones_0/th_SEAGSM101600clr.jpg)](http://s305.photobucket.com/albums/nn228/Crackity_Jones_0/?action=view¤t=SEAGSM101600clr.jpg) [![Photobucket](https://web.archive.org/web/20251216182152im_/http://i305.photobucket.com/albums/nn228/Crackity_Jones_0/th_SEAGSM102_03600clr.jpg)](http://s305.photobucket.com/albums/nn228/Crackity_Jones_0/?action=view¤t=SEAGSM102_03600clr.jpg) [![Photobucket](https://web.archive.org/web/20251216182152im_/http://i305.photobucket.com/albums/nn228/Crackity_Jones_0/th_SEAGSM104600clrR1.jpg)](http://s305.photobucket.com/albums/nn228/Crackity_Jones_0/?action=view¤t=SEAGSM104600clrR1.jpg) [![Photobucket](https://web.archive.org/web/20251216182152im_/http://i305.photobucket.com/albums/nn228/Crackity_Jones_0/th_SEAGSM106_07600clr.jpg)](http://s305.photobucket.com/albums/nn228/Crackity_Jones_0/?action=view¤t=SEAGSM106_07600clr.jpg)[![Photobucket](https://web.archive.org/web/20251216182152im_/http://i305.photobucket.com/albums/nn228/Crackity_Jones_0/th_Seaguy2pg25.jpg)](http://s305.photobucket.com/albums/nn228/Crackity_Jones_0/?action=view¤t=Seaguy2pg25.jpg)
+
+[![Photobucket](https://web.archive.org/web/20251216182152im_/http://i305.photobucket.com/albums/nn228/Crackity_Jones_0/th_Seaguymodel1colour.jpg)](http://s305.photobucket.com/albums/nn228/Crackity_Jones_0/?action=view¤t=Seaguymodel1colour.jpg)[![Photobucket](https://web.archive.org/web/20251216182152im_/http://i305.photobucket.com/albums/nn228/Crackity_Jones_0/th_Shebeardmodelcolour.jpg)](http://s305.photobucket.com/albums/nn228/Crackity_Jones_0/?action=view¤t=Shebeardmodelcolour.jpg) [![Photobucket](https://web.archive.org/web/20251216182152im_/http://i305.photobucket.com/albums/nn228/Crackity_Jones_0/th_deathmodel1colour.jpg)](http://s305.photobucket.com/albums/nn228/Crackity_Jones_0/?action=view¤t=deathmodel1colour.jpg) [![Photobucket](https://web.archive.org/web/20251216182152im_/http://i305.photobucket.com/albums/nn228/Crackity_Jones_0/th_docheromodelcolour-1.jpg)](http://s305.photobucket.com/albums/nn228/Crackity_Jones_0/?action=view¤t=docheromodelcolour-1.jpg) [![Photobucket](https://web.archive.org/web/20251216182152im_/http://i305.photobucket.com/albums/nn228/Crackity_Jones_0/th_seadogmodelcolour1.jpg)](http://s305.photobucket.com/albums/nn228/Crackity_Jones_0/?action=view¤t=seadogmodelcolour1.jpg) [![Photobucket](https://web.archive.org/web/20251216182152im_/http://i305.photobucket.com/albums/nn228/Crackity_Jones_0/th_niltoidmodel1colour.jpg)](http://s305.photobucket.com/albums/nn228/Crackity_Jones_0/?action=view¤t=niltoidmodel1colour.jpg)
+
+Первый номер выйдет в продажу и взорвет вам мозг (а также выбьет в вашем доме все окна и съест всё печенье) уже первого апреля.

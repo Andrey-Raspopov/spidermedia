@@ -1,0 +1,14 @@
+{
+  "title": "Second Coming? Что дальше?",
+  "date": "2010-04-16T01:02:00+03:00",
+  "url": "/news/second-coming-chto-dalshe/",
+  "original_url": "http://spidermedia.ru/news/second-coming-chto-dalshe",
+  "archived": "https://web.archive.org/web/20251115033639/http://spidermedia.ru/news/second-coming-chto-dalshe",
+  "template": "modern",
+  "source_encoding": "utf-8"
+}
+
+Возможно вы помните тизер нового направления комиксов о **Людях Икс** *(X-men)* - **[We Are the X-men](../../node/2401/)**. Оно стартует в **июле**, сразу после окончания [**Second Coming**](https://web.archive.org/web/20111018183255/http://spidermedia.ru/taxonomy/term/2395). Недавно издательство **Marvel Comics** выпустило линейку тизеров под тем же названием, правда, с более чем непривычным кастом. Сами тизеры вы можете видеть ниже:
+[![Photobucket](https://web.archive.org/web/20251115033639im_/http://img.photobucket.com/albums/v499/sp888/th_1270829188.jpg)](http://smg.photobucket.com/albums/v499/sp888/?action=view¤t=1270829188.jpg) [![Photobucket](https://web.archive.org/web/20251115033639im_/http://img.photobucket.com/albums/v499/sp888/th_1271088350.jpg)](http://smg.photobucket.com/albums/v499/sp888/?action=view¤t=1271088350.jpg) [![Photobucket](https://web.archive.org/web/20251115033639im_/http://img.photobucket.com/albums/v499/sp888/th_1271174990.jpg)](http://smg.photobucket.com/albums/v499/sp888/?action=view¤t=1271174990.jpg) [![Photobucket](https://web.archive.org/web/20251115033639im_/http://img.photobucket.com/albums/v499/sp888/th_1271261492.jpg)](http://smg.photobucket.com/albums/v499/sp888/?action=view¤t=1271261492.jpg) [![Photobucket](https://web.archive.org/web/20251115033639im_/http://img.photobucket.com/albums/v499/sp888/th_1271347938.jpg)](http://smg.photobucket.com/albums/v499/sp888/?action=view¤t=1271347938.jpg)
+Слева направо: **Человек-паук** *(Spider-man)* и **Псайлок** *(Psylocke)*, **Магнето** *(Magneto)* и **Лира** *(Lyra)*, **Надежда** *(Hope)* и **Блэйд** *(Blade)*, **Гамбит** *(Gambit)* и **Электра** *(Elektra)*, **Человека-Икс** *(X-Man)* и вампира **Джубили** *(vampire Jubillee)*. Что именно значат тизеры, нам обещают рассказать **18 апреля**, а значит вскоре поcле этой даты мы подробней напишем о их значении. Пока же, если просто попытаться угадать, то, в связи с объявлением **Marvel** 2010 года - годом женщин, в голову приходит череда уан-шотов, связанных с **Людьми Икс**.
+**UPD:** Внезапно появилась информация, пока на уровне слухов, что данные тизеры относятся к новому кроссоверу между **Людьми Икс** и **вампирами**: **X-Men vs Vampires**. По неподтвержденной информации, работать над проектом будут **Виктор Гишлер** *(Victor Gischler)* и **Пако Медина** *(Paco Medina)*.

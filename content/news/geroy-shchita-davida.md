@@ -1,0 +1,17 @@
+{
+  "title": "Герой щита Давида",
+  "date": "2009-05-15T16:28:00+03:00",
+  "url": "/news/geroy-shchita-davida/",
+  "original_url": "http://spidermedia.ru/news/geroy-shchita-davida",
+  "archived": "https://web.archive.org/web/20120607120443/http://spidermedia.ru/news/geroy-shchita-davida",
+  "template": "drupal",
+  "source_encoding": "utf-8"
+}
+
+]]>[![TMSTRM001_cov.jpg - image uploaded to Picamatic](https://web.archive.org/web/20120607120443im_/http://i039.radikal.ru/0905/ea/eaa7aa1f8476.jpg)](http://i078.radikal.ru/0905/0b/f52ea43e9001.jpg)]]> Таки на следующей неделе **Marvel** приготовит ван-шот **Astonishing Tales - Sabra**, где в центре событий будет находиться израильская девушка-супергерой **Сабра** *(Sabra)*.
+
+**Рут Бэт-Сераф** *(Ruth Bat-Seraph, она же Сабра)* - агент **Моссада**, что не мешает быть ей не только одной из немногих, кто сохранил силы после событий **Дома М** *(House of M)*, но и быть редким представителем мутантов на службе государства. О чем точно пойдет речь в комиксе - узнаем уже скоро, а сам комикс делает авторская команда из **Мэтта Йокама** (Matt Yocum) и **Адрианы Мело** *(Adriana Melo)*, чье превью можно увидеть ниже:
+
+]]>[![](https://web.archive.org/web/20120607120443im_/http://s40.radikal.ru/i088/0905/d0/2ddd7f68c979t.jpg)](http://s40.radikal.ru/i088/0905/d0/2ddd7f68c979.jpg)]]> ]]>[![](https://web.archive.org/web/20120607120443im_/http://i061.radikal.ru/0905/07/7df127690fabt.jpg)](http://i061.radikal.ru/0905/07/7df127690fab.jpg)]]> ]]>[![](https://web.archive.org/web/20120607120443im_/http://i042.radikal.ru/0905/75/c445cf496244t.jpg)](http://i042.radikal.ru/0905/75/c445cf496244.jpg)]]>
+
+Поделиться:

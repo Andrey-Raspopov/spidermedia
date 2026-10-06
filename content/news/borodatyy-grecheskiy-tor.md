@@ -1,0 +1,15 @@
+{
+  "title": "Бородатый греческий Тор",
+  "date": "2009-05-04T21:18:00+03:00",
+  "url": "/news/borodatyy-grecheskiy-tor/",
+  "original_url": "http://spidermedia.ru/news/borodatyy-grecheskiy-tor",
+  "archived": "https://web.archive.org/web/20120608020449/http://spidermedia.ru/news/borodatyy-grecheskiy-tor",
+  "template": "drupal",
+  "source_encoding": "utf-8"
+}
+
+]]>[![TMSTRM001_cov.jpg - image uploaded to Picamatic](https://web.archive.org/web/20120608020449im_/http://www.picamatic.com/show/2009/05/04/08/47/3513207_bigthumb.jpg)](http://www.marvel.com/i/content/st/7865new_storyimage1206129.jpg)]]> Он бородат, силен и имеет самого **Зевса** *(Zeus)* в отцах. Он геройствует, он противостоит **Темным Мстителям** *(Dark Avengers)*, у него есть маленький сайдкик, и он в состоит в **Могучих Мстителях** *(Mighty Avengers)*. Его зовут **Геркулес** *(Hercules)* и теперь он... новый **Тор** *(Thor)*?
+
+Интрига августа от сценаристов **Фреда Ван Ленте** *(Fred Van Lente)* и **Грега Пака** *(Greg Pak)* в комиксе **Incredible Hercules #132**. Рисует **Рейли Браун** *(Reilly Brown)*, обложка от **Рафаэля Альбукерке** *(Rafael Albuquerque)*.
+
+Поделиться:

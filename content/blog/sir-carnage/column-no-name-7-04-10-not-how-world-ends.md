@@ -1,0 +1,91 @@
+{
+  "title": "The Column With No Name: 7/04/10 - This is not how the world ends!",
+  "date": "2010-04-11T07:14:00+03:00",
+  "url": "/blog/sir-carnage/column-no-name-7-04-10-not-how-world-ends/",
+  "original_url": "http://spidermedia.ru/blog/sir-carnage/column-no-name-7-04-10-not-how-world-ends",
+  "archived": "https://web.archive.org/web/20240416052939/http://spidermedia.ru/blog/sir-carnage/column-no-name-7-04-10-not-how-world-ends",
+  "template": "modern",
+  "source_encoding": "utf-8"
+}
+
+Так как я уже оправился от жестокого анального изнасилования тех 118 минут моего детства, что я потратил на просмотр оригинала "Битвы Титанов", можно и колонку сделать, пожалуй. Тем более, что воскресенье и пора уже **СПОЙЛЕРИТЬ!**.
+
+[![Photobucket](https://web.archive.org/web/20240416052939im_/http://i3.photobucket.com/albums/y65/Carnage_vl/Cable_25_Legion_CPS_041.jpg)](http://s3.photobucket.com/albums/y65/Carnage_vl/?action=view¤t=Cable_25_Legion_CPS_041.jpg)
+**Cable #25**
+
+**1. Buffy the Vampire Slayer #34
+2. Batman and Robin #11
+3. Cinderella: From Fabletown With Love #6
+4. The Flash: Secret Files and Origins
+5. Greek Street #10
+6. House of Mystery #24
+7. JSA All-Stars #5
+8. Red Robin #11
+9. Superman: Last Stand of New Krypton #2
+10. Superman: Secret Origin #5
+11. Sweet Tooth #8
+12. Invincible Returns
+13. Proof #26
+14. Avengers: The Origin #1
+15. Cable #25
+16. Deadpool Corps #1
+17. Marvel Zombies 5 #1
+18. New Avengers: Luke Cage #1
+19. Realm of Kings: Son of Hulk #3
+20. S.H.I.E.L.D. #1
+21. Spider-Man: Fever #1
+22. Stephen King's N. #2
+23. Uncanny X-men #523
+24. Wolverine: Weapon X #12
+25. World War Hulks**
+Let's get dangerous!
+
+**Комикс недели**
+[![Photobucket](https://web.archive.org/web/20240416052939im_/http://i3.photobucket.com/albums/y65/Carnage_vl/th_shield_01_0001.jpg)](http://i3.photobucket.com/albums/y65/Carnage_vl/shield_01_0001.jpg)
+**S.H.I.E.L.D. #1**
+
+Количество удивлённых видеть здесь это название и эту обложку едва ли превышает ноль, но оно и понятно, потому что из всех комиксов, написанных Джонатаном Хикманом для **Marvel** этот - самый джонатонохикмановский. Я не буду описывать, что это значит, кому надо - те знают. Но превосходную работу (и это только начало) над мифологией, уместный и грамотно дозированный пафос (воодушевляющая разновидность), и превосходный арт Дастина Уивера упомянуть всё же стоит, потому что как можно не? И при всём этом комикс умудряется выглядеть как свой собственный тизер, будучи полным лишь слегка затронутых, но безумно увлекательных тем. Этот комикс ни разу не жалко будет ждать два месяца.
+
+**Герои недели**
+[![Photobucket](https://web.archive.org/web/20240416052939im_/http://i3.photobucket.com/albums/y65/Carnage_vl/MarvelZombies5024.jpg)](http://s3.photobucket.com/albums/y65/Carnage_vl/?action=view¤t=MarvelZombies5024.jpg)
+**Machine Man and Howard the Duck
+(Marvel Zombies 5 #1)**
+
+До этой недели в ткани мироздания существовала дыра в форме комикса, в котором утка и робот, работающие на вампира, путешествуют по параллельным мирам убивая зомби. Её больше нет. Конечно большая часть первого номера прошла без этих молодцов, знакомя всех с новым героем, но с момента появления этих двоих, каждая из немногих оставшихся страниц начинает просто светиться радостью и счастьем. Кажется для чтения второго номера могут понадобиться защитные очки. Или сварочная маска.
+
+**Злодей недели**
+[![Photobucket](https://web.archive.org/web/20240416052939im_/http://i3.photobucket.com/albums/y65/Carnage_vl/BatmanAndRobin11023.jpg)](http://s3.photobucket.com/albums/y65/Carnage_vl/?action=view¤t=BatmanAndRobin11023.jpg)
+**Deathstroke
+(Batman and Robin #11)**
+
+Тут конечно есть небольшая оговорка, поскольку мозгами операции всё-таки является Талия, но Дэфстроук обошёл её за счёт своей внезапности. В смысле его реально не ждали, так что он ещё и твист и клиффхэнгер недели. Даже несмотря на то, что его в комиксе практически одна панель и по ходу комикса ещё до его появления не в тени явно произносится его имя (один пробел может усыпить бдительность, если не быть достаточно внимательным).
+
+**Дэдпул недели**
+[![Photobucket](https://web.archive.org/web/20240416052939im_/http://i3.photobucket.com/albums/y65/Carnage_vl/th_Cable_25_Legion_CPS_003.jpg)](http://i3.photobucket.com/albums/y65/Carnage_vl/Cable_25_Legion_CPS_003.jpg)
+**Cable #25**
+
+Вообще-то это должен был быть рекэп недели, но эту страницу можно назвать рекэпом только очень условно, а раз уж Дэдпул заполонил, то можно выделить ему и отдельную номинацию.
+
+**Вопрос недели**
+[![Photobucket](https://web.archive.org/web/20240416052939im_/http://i3.photobucket.com/albums/y65/Carnage_vl/th_BatmanAndRobin11019.jpg)](http://i3.photobucket.com/albums/y65/Carnage_vl/BatmanAndRobin11019.jpg)
+**Batman and Robin #11**
+
+Дэмиен высказал то, что все подумали ещё в прошлом номере, и подано это со всей полагающейся стильностью. И ведь ответ звучал совершенно не как "нет". Вот же будет твист, если выяснится, что в одном из бэтменовских комиксов всё это время на самом деле был Бэтмен.
+
+**Смерть недели**
+[![Photobucket](https://web.archive.org/web/20240416052939im_/http://i3.photobucket.com/albums/y65/Carnage_vl/th_Proof26022.jpg)](http://i3.photobucket.com/albums/y65/Carnage_vl/Proof26022.jpg)
+**Dover Demon
+(Proof #26)**
+
+Твою. Ж. Мать.
+
+**Обложка недели**
+[![Photobucket](https://web.archive.org/web/20240416052939im_/http://i3.photobucket.com/albums/y65/Carnage_vl/th_SKN_2_FP_CPS_001.jpg)](http://i3.photobucket.com/albums/y65/Carnage_vl/SKN_2_FP_CPS_001.jpg)
+**Stephen King's N. #2**
+
+**Лажа недели**
+[![Photobucket](https://web.archive.org/web/20240416052939im_/http://i3.photobucket.com/albums/y65/Carnage_vl/th_RedRobin11001.jpg)](http://i3.photobucket.com/albums/y65/Carnage_vl/RedRobin11001.jpg)
+**Red Robin #11**
+
+На самом деле я считаю неделю, на которой худшим комиксом в моём чеклисте оказывается **Red Robin** (потому что хрена с два вы меня заставите читать очередной хадлиновский расизм, когда его легко проигнорировать), довольно удачной, потому что на неделе вроде предыдущей он бы не подобрался сюда и близко. И в целом тут ничего нового, даже не худший номер серии, просто стабильное уныние. Я искренне верю, что хадлиновский расизм раз в двести хуже, но в этом чеклисте слабое звено вот оно.
+That's all, folks! И запомните: свежий "Доктор Кто" - хорошо, римейк "Битвы Титанов" - плохо.

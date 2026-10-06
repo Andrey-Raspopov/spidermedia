@@ -1,0 +1,28 @@
+{
+  "title": "Хранители DVD",
+  "date": "2009-05-28T21:17:00+03:00",
+  "url": "/news/hraniteli-dvd/",
+  "original_url": "https://spidermedia.ru/news/hraniteli-dvd",
+  "archived": "https://web.archive.org/web/20250913005705/https://spidermedia.ru/news/hraniteli-dvd",
+  "template": "modern",
+  "source_encoding": "utf-8"
+}
+
+Оставшиеся недовольными от кассовых сборов **"Хранителей"** *(Watchmen)* боссы **Warner Brothers** решили поправить положение продажами **DVD/Blu-Ray** дисков. Точной даты поступления в продажу никто не называет, но по приблизительным расчетам есть вероятность увидеть их уже в июле. На данный момент анонсировано три варианта: театральная версия на одном DVD, режиссерское издание на 2-х дисках и расширенное издание в формате Blu-Ray и плюс к этому эксклюзивно для сайта Amazon.de и только для него в продажу поступит [спец. издание посвященное **Роршаху**](http://www.amazon.de/gp/product/B00272MSOU?tag=bluraycom04-21) *(Rorschach)*. А вот обещанное мистером Снайдером полное издание со вставками из [**"Истории о Черной Шхуне"**](../../node/711/) *(Tales of the Black Freighter)* вероятнее всего ожидать ближе к Рождеству. А пока давайте посмотрим, чем примечательны вышеописанные издания:
+![](https://web.archive.org/web/20250913005705im_/http://i583.photobucket.com/albums/ss273/zipoff/News/Watchmen_2Disk_A-side.jpg) **Watchmen (Director's Cut) 2 Disc Special Edition**
+- Режиссерская версия фильма (+25 минут)
+- Цифровая копия урезанной театральной версии
+- The Phenomenon: The Comic that Changed Comics
+- Все видеожурналы из блога Зака Снайдера
+- Клип My Chemical Romance - Desolation Row
+![](https://web.archive.org/web/20250913005705im_/http://i583.photobucket.com/albums/ss273/zipoff/News/Watchmen_BR_Disk.jpg)
+**Watchmen (Director's Cut) Blu-Ray Special Edition**
+- Все прелести 2-х дискового издания
+- Warner Bros. Maximum Movie Mode
+- Watchmen: Focus Points
+- Real Super Heroes, Real Vigilantes
+- Mechanics: Technologies of a Fantastic World
+
+**Watchmen Blu-Ray Limited Rorschach Edition**
+![](https://web.archive.org/web/20250913005705im_/http://i583.photobucket.com/albums/ss273/zipoff/News/19393_5067_l.jpg)
+Основное отличие - упаковка

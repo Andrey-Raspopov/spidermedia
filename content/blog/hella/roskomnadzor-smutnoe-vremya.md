@@ -1,0 +1,27 @@
+{
+  "title": "РоскомНадзор: смутное время",
+  "date": "2015-01-30T11:58:00+03:00",
+  "url": "/blog/hella/roskomnadzor-smutnoe-vremya/",
+  "original_url": "http://spidermedia.ru/blog/hella/roskomnadzor-smutnoe-vremya",
+  "archived": "https://web.archive.org/web/20260125131813/http://spidermedia.ru/blog/hella/roskomnadzor-smutnoe-vremya",
+  "template": "modern",
+  "source_encoding": "utf-8"
+}
+
+Сенсации, скандалы, интриги, расследования, [культурологические дискуссии](../../vitaliy-terleckiy/imho-serebryanyy-vek-otechestvennoy-komiks-industrii-na-samom-dele-net-0/) и жуткая мигрень. Нет, это не синопсис к сериалу, это жизнь и очередная неделя в мире российских комиксов.
+[![](https://web.archive.org/web/20260125131813im_/http://i.imgur.com/GhFbOqbl.jpg "source: imgur.com")](http://imgur.com/GhFbOqb)
+
+Нельзя не признать, что на этой неделе балом правит **издательство «Комильфо»**. Там продолжают похвальную политику и сообщают о проделанной работе по факту, а это означает, что у нас получается эдакое к-к-комбо: и анонс, и новость о сдаче в печать, и превью одним махом.
+Итак, аккурат к выходу экранизации, на русском языке издадут **«Секретную службу»** **Миллара** и **Гиббонса**. Книга будет в мягком переплете, что не может не порадовать экономных нас.
+[![](https://web.archive.org/web/20260125131813im_/http://i.imgur.com/h8JqOull.jpg "source: imgur.com")](http://imgur.com/h8JqOul)[![](https://web.archive.org/web/20260125131813im_/http://i.imgur.com/uzuMTfll.jpg "source: imgur.com")](http://imgur.com/uzuMTfl)[![](https://web.archive.org/web/20260125131813im_/http://i.imgur.com/pS7FSiTl.jpg "source: imgur.com")](http://imgur.com/pS7FSiT)[![](https://web.archive.org/web/20260125131813im_/http://i.imgur.com/kieGl0cl.jpg "source: imgur.com")](http://imgur.com/kieGl0c)
+Но настоящую бомбу (хотя и ожидаемую, но от этого не менее приятную) «Комильфо» выдало чуть позже. Меньше, чем через месяц, на прилавки магазинов попадет **«Скотт Пилигрим»**. Это будет адаптация цветной (ураураура) версии с новым переводом, дополнительными материалами, которые изначально входили в издание и примечаниями самого «Комильфо». 192 страницы, твердая обложка, полный восторг.
+[![](https://web.archive.org/web/20260125131813im_/http://i.imgur.com/a26xkzcl.jpg "source: imgur.com")](http://imgur.com/a26xkzc)[![](https://web.archive.org/web/20260125131813im_/http://i.imgur.com/qUEzEztl.jpg "source: imgur.com")](http://imgur.com/qUEzEzt)
+[![](https://web.archive.org/web/20260125131813im_/http://i.imgur.com/EI90NPRl.jpg "source: imgur.com")](http://imgur.com/EI90NPR)[![](https://web.archive.org/web/20260125131813im_/http://i.imgur.com/4QIlVpbl.jpg "source: imgur.com")](http://imgur.com/4QIlVpb)
+**Издательство «Азбука»** тем временем сдало в печать книгу **«Бэтмен. Земля 1» Джеффа Джонса** и **Гэри Фрэнка**. Помимо самого комикса издание содержит эссе «Не пора ли Бэтмену на пенсию?» (воу) и примечания. Дополнительный тираж получат книги **«V — значит Vендетта»** и **«Красный сын»**. А вот по поводу **«Запретного» Луиса Ройо** новой информации так и не поступило, кроме того, что экспертиза продолжается, но результатов пока нет. Ну и еще стало видно, как сильно издательство дорожит этой книгой. Станет ли обсуждение материала с «Канобу» в группе издательства поводом для чьего-то ИМХО на тему общения в сети с читателями, вот в чем вопрос. Если что, дарю идею. А пока ждем переиздание **«Песочного человека»**, обещают на днях.
+[![](https://web.archive.org/web/20260125131813im_/http://i.imgur.com/LtCGadUl.jpg "source: imgur.com")](http://imgur.com/LtCGadU)[![](https://web.archive.org/web/20260125131813im_/http://i.imgur.com/WI12kKSl.jpg "source: imgur.com")](http://imgur.com/WI12kKS)[![](https://web.archive.org/web/20260125131813im_/http://i.imgur.com/YiBV3LKl.jpg "source: imgur.com")](http://imgur.com/YiBV3LK)[![](https://web.archive.org/web/20260125131813im_/http://i.imgur.com/1mJyxsil.jpg "source: imgur.com")](http://imgur.com/1mJyxsi)
+В **XL Media** мимоходом рассказали, что **Outcast («Изгой»)** Киркмана на русском языке стоит ждать где-то в апреле.
+А вот новая книга **Аскольда Акишина «Лес»** выйдет в середине февраля в **издательстве «Бумкнига»**. Мягкий переплет, 72 страницы.
+[![](https://web.archive.org/web/20260125131813im_/http://i.imgur.com/qN2kbltl.jpg "source: imgur.com")](http://imgur.com/qN2kblt)
+Неожиданный поворот с **энциклопедией Marvel** (скоро можно будет снимать сериал, право слово). Стало известно, что **«Эксмо»** решило передать весь тираж книги (3 тыс. экземпляров) интернет-магазину «Лабиринт», в свободную продажу она не поступит, а магазинам комиксов остается плакать, грызть бублики и ждать допечатку. Она будет, но когда и в каком объеме — неизвестно. Предзаказавшим энциклопедию в «Чуке и Гике» мои искренние соболезнования. В группе магазина вам [объяснят](http://vk.com/wall-22126383_28443), что делать.
+В магазинах же появился еще один **«Доктор Люцид»**, допечатка второго тома **«Ходячих мертвецов»**, **«Местная»**, **«Малость подавленный парень»**, очередной том Ашет-коллекции (**«Железный Человек. Демон в бутылке»**) и **«Метеора»** #4. Если вы живете в Питере, то там можно купить и [такую](../../../news/eksklyuziv-variantnaya-oblozhka-meteora-no4-dlya-magazina-apelsin-0/) «Метеору». Заодно посмотрите обложку **«Бесобоя»** #29, который подоспеет 2 февраля.
+[![](https://web.archive.org/web/20260125131813im_/http://i.imgur.com/DNSscMTl.jpg "source: imgur.com")](http://imgur.com/DNSscMT)

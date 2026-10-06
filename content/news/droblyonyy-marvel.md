@@ -1,0 +1,12 @@
+{
+  "title": "Дроблёный Марвел",
+  "date": "2010-11-05T07:43:00+03:00",
+  "url": "/news/droblyonyy-marvel/",
+  "original_url": "http://spidermedia.ru/news/droblyonyy-marvel",
+  "archived": "https://web.archive.org/web/20260206220442/http://spidermedia.ru/news/droblyonyy-marvel",
+  "template": "modern",
+  "source_encoding": "utf-8"
+}
+
+В попытке привлечь ещё больше новых читателей к своей продукции, **Marvel Comics** объявили, что с февраля следующего года у некоторых серий (полный список не выдали) появится ещё один дополнительный выпуск, чей номер будет выглядеть как номер предыдущего плюс 0.1. Каким образом дробные числа могут служить для привлечения людей к чему-либо вообще - вопрос отдельный, но главное, что написаны они будут теми же авторами, которые пишут и сами серии, сюжетно будут доступны для новых читателей и не будут встрявать посреди уже идущих сюжетов. Более того, в **Amazing Spider-Man #654.1** мы даже узнаем, кто стал новым носителем симбиота **Венома** (*Venom*). Так что в общем смысл в том, что будет чуть больше тех же комиксов. Ну что ж, никто не против.
+[![](https://web.archive.org/web/20260206220442im_/http://img.photobucket.com/albums/v497/spidermedia/1288716194_t.jpg)](http://img.photobucket.com/albums/v497/spidermedia/1288716194.jpg) [![](https://web.archive.org/web/20260206220442im_/http://img.photobucket.com/albums/v497/spidermedia/1288716218_t.jpg)](http://img.photobucket.com/albums/v497/spidermedia/1288716218.jpg) [![](https://web.archive.org/web/20260206220442im_/http://img.photobucket.com/albums/v497/spidermedia/1288716220_t.jpg)](http://img.photobucket.com/albums/v497/spidermedia/1288716220.jpg) [![](https://web.archive.org/web/20260206220442im_/http://img.photobucket.com/albums/v497/spidermedia/1288716225_t.jpg)](http://img.photobucket.com/albums/v497/spidermedia/1288716225.jpg)

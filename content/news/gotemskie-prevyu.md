@@ -1,0 +1,17 @@
+{
+  "title": "Готэмские превью",
+  "date": "2009-06-12T01:44:00+03:00",
+  "url": "/news/gotemskie-prevyu/",
+  "original_url": "https://spidermedia.ru/news/gotemskie-prevyu",
+  "archived": "https://web.archive.org/web/20260115050426/https://spidermedia.ru/news/gotemskie-prevyu",
+  "template": "modern",
+  "source_encoding": "utf-8"
+}
+
+[![](https://web.archive.org/web/20260115050426im_/http://i030.radikal.ru/0906/86/e5fa4c065b66t.jpg)](http://radikal.ru/F/i030.radikal.ru/0906/86/e5fa4c065b66.jpg.html) [![](https://web.archive.org/web/20260115050426im_/http://s59.radikal.ru/i163/0906/fc/2199ca871690t.jpg)](http://radikal.ru/F/s59.radikal.ru/i163/0906/fc/2199ca871690.jpg.html)
+Мы подготовили для вас полноценное превью **первого** номера серии **Batman: Streets of Gotham** от легендарного **Пола Дини** (*Paul Dini*) и не менее потрясного **Дастина Нгуена** (*Dustin Nguyen*), а также 3 страницы из **первого** номера серии **Gotham City Sirens** от все того же Пола Дини и свежего художника **Гийема Марча** (*Guillem March*), но пока что без текста.
+Batman: Streets of Gotham #1 (дата выхода - **17 июня**)
+[![](https://web.archive.org/web/20260115050426im_/http://s49.radikal.ru/i126/0906/30/8d5c1791cd9ct.jpg)](http://radikal.ru/F/s49.radikal.ru/i126/0906/30/8d5c1791cd9c.jpg.html)[![](https://web.archive.org/web/20260115050426im_/http://s57.radikal.ru/i158/0906/97/a6cce9cd5ce2t.jpg)](http://radikal.ru/F/s57.radikal.ru/i158/0906/97/a6cce9cd5ce2.jpg.html)[![](https://web.archive.org/web/20260115050426im_/http://s39.radikal.ru/i084/0906/e2/89a15153178ct.jpg)](http://radikal.ru/F/s39.radikal.ru/i084/0906/e2/89a15153178c.jpg.html)[![](https://web.archive.org/web/20260115050426im_/http://s59.radikal.ru/i164/0906/68/24c8f3985f2at.jpg)](http://radikal.ru/F/s59.radikal.ru/i164/0906/68/24c8f3985f2a.jpg.html)[![](https://web.archive.org/web/20260115050426im_/http://s41.radikal.ru/i091/0906/09/b128432d7951t.jpg)](http://radikal.ru/F/s41.radikal.ru/i091/0906/09/b128432d7951.jpg.html)[![](https://web.archive.org/web/20260115050426im_/http://s49.radikal.ru/i123/0906/ff/83ca951264aet.jpg)](http://radikal.ru/F/s49.radikal.ru/i123/0906/ff/83ca951264ae.jpg.html)[![](https://web.archive.org/web/20260115050426im_/http://i014.radikal.ru/0906/5b/691a58abdb37t.jpg)](http://radikal.ru/F/i014.radikal.ru/0906/5b/691a58abdb37.jpg.html)
+Gotham City Sirens #1 (дата выхода - **24 июня**)
+[![](https://web.archive.org/web/20260115050426im_/http://s48.radikal.ru/i122/0906/6d/fec6f5223ddat.jpg)](http://radikal.ru/F/s48.radikal.ru/i122/0906/6d/fec6f5223dda.jpg.html) [![](https://web.archive.org/web/20260115050426im_/http://i052.radikal.ru/0906/36/e704692880f3t.jpg)](http://radikal.ru/F/i052.radikal.ru/0906/36/e704692880f3.jpg.html) [![](https://web.archive.org/web/20260115050426im_/http://s55.radikal.ru/i148/0906/08/e0f8619c403dt.jpg)](http://radikal.ru/F/s55.radikal.ru/i148/0906/08/e0f8619c403d.jpg.html)
+Также, в виде бонуса, сообщаем, что **3** арк серии **Batman and Robin** будет рисовать **Фрейзер Ирвинг** (*Frazer Irving*). Хорошо это или ужасно, решайте сами.

@@ -1,0 +1,22 @@
+# baseURL is set by the GitHub Actions workflow from the Pages URL; this is the local default.
+baseURL = "http://localhost:1313/spidermedia/"
+locale = "ru"
+title = "SpiderMedia.ru — архив"
+# keep original URL paths exactly (GitHub Pages is case-sensitive)
+disablePathToLower = true
+enableRobotsTXT = true
+disableKinds = ["taxonomy", "term", "RSS"]
+
+[pagination]
+  pagerSize = 50
+
+[markup.goldmark.renderer]
+  # article bodies keep embeds (YouTube/Vimeo iframes, audio) as raw HTML
+  unsafe = true
+
+[params]
+  sourceSite = "http://spidermedia.ru/"
+  description = "Архивная копия SpiderMedia.ru (2003–2026), восстановленная из Wayback Machine."
+
+[sitemap]
+  changefreq = "never"

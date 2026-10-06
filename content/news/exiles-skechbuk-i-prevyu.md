@@ -1,0 +1,19 @@
+{
+  "title": "Exiles: Скечбук и Превью",
+  "date": "2009-02-27T15:01:00+03:00",
+  "url": "/news/exiles-skechbuk-i-prevyu/",
+  "original_url": "https://spidermedia.ru/news/exiles-skechbuk-i-prevyu",
+  "archived": "https://web.archive.org/web/20251107004942/https://spidermedia.ru/news/exiles-skechbuk-i-prevyu",
+  "template": "modern",
+  "source_encoding": "utf-8"
+}
+
+[![Photobucket](https://web.archive.org/web/20251107004942im_/http://img.photobucket.com/albums/v499/sp888/th_EXILESV2001_cov.jpg)](http://smg.photobucket.com/albums/v499/sp888/?action=view¤t=EXILESV2001_cov.jpg) [![Photobucket](https://web.archive.org/web/20251107004942im_/http://img.photobucket.com/albums/v499/sp888/th_ex_01.jpg)](http://smg.photobucket.com/albums/v499/sp888/?action=view¤t=ex_01.jpg) [![Photobucket](https://web.archive.org/web/20251107004942im_/http://img.photobucket.com/albums/v499/sp888/th_ex_02.jpg)](http://smg.photobucket.com/albums/v499/sp888/?action=view¤t=ex_02.jpg)
+
+Представляем вашему вниманию эксклюзивный скечбук комиксе **Exiles**, работы **Сальвадора Эспина** *(Salvador Espin)*. Комментарии к скечбуку принадлежат автору комикса - **Джеффу Паркеру** *(Jeff Parker)*. Смотрим:
+
+[![Photobucket](https://web.archive.org/web/20251107004942im_/http://img.photobucket.com/albums/v499/sp888/th_ex_03.jpg)](http://smg.photobucket.com/albums/v499/sp888/?action=view¤t=ex_03.jpg) [![Photobucket](https://web.archive.org/web/20251107004942im_/http://img.photobucket.com/albums/v499/sp888/th_ex_04.jpg)](http://smg.photobucket.com/albums/v499/sp888/?action=view¤t=ex_04.jpg) [![Photobucket](https://web.archive.org/web/20251107004942im_/http://img.photobucket.com/albums/v499/sp888/th_ex_05.jpg)](http://smg.photobucket.com/albums/v499/sp888/?action=view¤t=ex_05.jpg) [![Photobucket](https://web.archive.org/web/20251107004942im_/http://img.photobucket.com/albums/v499/sp888/th_ex_06.jpg)](http://smg.photobucket.com/albums/v499/sp888/?action=view¤t=ex_06.jpg) [![Photobucket](https://web.archive.org/web/20251107004942im_/http://img.photobucket.com/albums/v499/sp888/th_ex_07.jpg)](http://smg.photobucket.com/albums/v499/sp888/?action=view¤t=ex_07.jpg) [![Photobucket](https://web.archive.org/web/20251107004942im_/http://img.photobucket.com/albums/v499/sp888/th_ex_08.jpg)](http://smg.photobucket.com/albums/v499/sp888/?action=view¤t=ex_08.jpg) [![Photobucket](https://web.archive.org/web/20251107004942im_/http://img.photobucket.com/albums/v499/sp888/th_ex_09.jpg)](http://smg.photobucket.com/albums/v499/sp888/?action=view¤t=ex_09.jpg)
+
+Но это ещё не все! Кроме скечбука вашему вниманию предоставляем пару-тройку страниц из грядущего комикса:
+
+[![Photobucket](https://web.archive.org/web/20251107004942im_/http://img.photobucket.com/albums/v499/sp888/th_ex_10.jpg)](http://smg.photobucket.com/albums/v499/sp888/?action=view¤t=ex_10.jpg) [![Photobucket](https://web.archive.org/web/20251107004942im_/http://img.photobucket.com/albums/v499/sp888/th_ex_11.jpg)](http://smg.photobucket.com/albums/v499/sp888/?action=view¤t=ex_11.jpg) [![Photobucket](https://web.archive.org/web/20251107004942im_/http://img.photobucket.com/albums/v499/sp888/th_ex_12.jpg)](http://smg.photobucket.com/albums/v499/sp888/?action=view¤t=ex_12.jpg)

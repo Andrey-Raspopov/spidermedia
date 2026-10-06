@@ -1,0 +1,14 @@
+{
+  "title": "Оно на подходе",
+  "date": "2009-09-23T01:23:00+03:00",
+  "url": "/news/ono-na-podhode/",
+  "original_url": "http://spidermedia.ru/news/ono-na-podhode",
+  "archived": "https://web.archive.org/web/20260117214231/http://spidermedia.ru/news/ono-na-podhode",
+  "template": "modern",
+  "source_encoding": "utf-8"
+}
+
+![Photobucket](https://web.archive.org/web/20260117214231im_/http://i707.photobucket.com/albums/ww79/Alex_spidermedia/media/Batman.png)
+Вы ведь не забыли, что, начиная с **692** номера, серию **Batman** будет писать и рисовать **Тони Дэниел** (*Tony Daniel*) ? Задержится он на один арк, размером в **6** номеров, впрочем мы уже об этом писали, а теперь время и посмотреть, если кому интересно. Ниже вы можете видеть несколько карандашных страниц из 692 номера.
+[![](https://web.archive.org/web/20260117214231im_/http://s51.radikal.ru/i131/0909/dc/b3e410e7ab0dt.jpg)](http://radikal.ru/F/s51.radikal.ru/i131/0909/dc/b3e410e7ab0d.jpg.html) [![](https://web.archive.org/web/20260117214231im_/http://s40.radikal.ru/i090/0909/61/fc362dbdb251t.jpg)](http://radikal.ru/F/s40.radikal.ru/i090/0909/61/fc362dbdb251.jpg.html) [![](https://web.archive.org/web/20260117214231im_/http://s45.radikal.ru/i107/0909/a5/93fe5636133et.jpg)](http://radikal.ru/F/s45.radikal.ru/i107/0909/a5/93fe5636133e.jpg.html)
+На прилавках **28** октября.

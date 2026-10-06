@@ -1,0 +1,17 @@
+{
+  "title": "Оригинальный Квазар возвращается! Отчасти...",
+  "date": "2009-03-11T15:06:00+03:00",
+  "url": "/news/originalnyy-kvazar-vozvrashchaetsya-otchasti/",
+  "original_url": "http://spidermedia.ru/news/originalnyy-kvazar-vozvrashchaetsya-otchasti",
+  "archived": "https://web.archive.org/web/20250709071436/http://spidermedia.ru/news/originalnyy-kvazar-vozvrashchaetsya-otchasti",
+  "template": "modern",
+  "source_encoding": "utf-8"
+}
+
+[![](https://web.archive.org/web/20250709071436im_/http://www.marvel.com/i/content/st/7104new_storyimage6102945_thumb.jpg)](http://www.marvel.com/i/content/st/7104new_storyimage6102945.jpg)О том, что **Квазар** *(Quasar)* - оригинальный Квазар, **Вендел Вон** *(Wendell Vaughn)* - вернулся к жизни в личной серии **Новы** *(Nova)* ни для кого не секрет. Теперь сам **Нова** лишился своих сил *(см. Nova #21)* и... начал умирать от клеточной дергадации, лишенный своих способностей *(см. Nova #22)*. Встаёт закономерный вопрос, где же ему взять силы? Ответ прост - **Квазар** сам являет собой ничто иное как квантовую энерги, а значит может стать великолепным источником силы **Ричарда Райнера** *(Richard Rider)* - **Новы**!
+
+Ну а пока мы все ждем номер, вы можете увидеть, пройдя по [ссылке](http://www.marvel.com/news/comicstories.7104.Nova~colon~_Clothes_Make_the_Man?utm_source=rss_new_news_feed&utm_medium=feed_link&utm_campaign=rss_feeds), ретроспективу костюмов **Новы** и прочесть интервью с новым художником серии **Андреа ДеВитто** *(Andrea DiVito)*, по поводу предстоящего редизайна!
+
+Превью, разумеется, так же прилагается:
+
+[![](https://web.archive.org/web/20250709071436im_/http://www.marvel.com/i/content/st/7104new_storyimage6102984_thumb.jpg)](http://www.marvel.com/i/content/st/7104new_storyimage6102984.jpg) [![](https://web.archive.org/web/20250709071436im_/http://www.marvel.com/i/content/st/7104new_storyimage6102992_thumb.jpg)](http://www.marvel.com/i/content/st/7104new_storyimage6102992.jpg) [![](https://web.archive.org/web/20250709071436im_/http://www.marvel.com/i/content/st/7104new_storyimage6103008_thumb.jpg)](http://www.marvel.com/i/content/st/7104new_storyimage6103008.jpg)

@@ -1,0 +1,73 @@
+{
+  "title": "Темный ноябрь",
+  "date": "2009-08-13T11:31:00+03:00",
+  "url": "/blog/alex/temnyy-noyabr/",
+  "original_url": "http://spidermedia.ru/blog/alex/temnyy-noyabr",
+  "archived": "https://web.archive.org/web/20250913004320/http://spidermedia.ru/blog/alex/temnyy-noyabr",
+  "template": "modern",
+  "source_encoding": "utf-8"
+}
+
+Для «ДиСи-филов» и иже с ними ноябрь 2009 года стал по большому счету одним из самых ожидаемых месяцев, в первую очередь потому, что анонс глобального события – **«Темнейшей Ночи»** *(Blackest Night)* был лишь до второго месяца осени. А самое интересное заключается в том, что в ноябре будет не **6** тайтлов Ночи, а целых **11**. Мини-серии сделали перерыв на месяц (**BN: Flash** выйдет лишь в декабре, остальные вероятно тоже), зато оставили вместо себя **8** тай-инов нескольких текущих серий издательства. Какие именно? Смотрите ниже. И оставайтесь с нами, анонс самой Ночи и сопутствующим ей Фонарным тайтлам уже не за горами.![Blackest Night](https://web.archive.org/web/20250913004320im_/http://i34.photobucket.com/albums/d116/ALex-2099/Green%20Lantern/BN.png)
+
+[![](https://web.archive.org/web/20250913004320im_/http://i707.photobucket.com/albums/ww79/Alex_spidermedia/media/th_blackest-night-event-20090812021929.jpg)](http://i707.photobucket.com/albums/ww79/Alex_spidermedia/media/blackest-night-event-20090812021929.jpg) **ADVENTURE COMICS #4**
+Сценарий – **Джефф Джонс** *(Geoff Johns)*
+Рисунок – **Джерри Ордвей** *(Jerry Ordway)*
+Бэк-ап сценарий – **Джефф Джонс** и **Майкл Шумэйкер** *(Michael Shoemaker)*
+Бэк-ап рисунок – **Клейтон Генри** *(Clayton Henry)*
+Обложка – **Джерри Ордвей** и **Фрэнсис Манапуль** *(Francis Manapul)*
+Вариант обложки – **Фрэнсис Манапуль**
+Возвращение Супербоя! **Супербоя-Прайм** *(Superboy-Prime)*!
+Власть Темнейшей Ночи не знает границ, и вот она на пороге дома Супербоя-Прайм. Хотите верьте, хотите нет, но Прайм встретит достойного соперника. **Черных Фонарей** *(Black Lanterns)*, знающих его глубокие, темные секреты, они заставят Прайма почувствовать эмоции, от которых он так долго отказывался.
+Плюс, бэк-ап **Легиона Супер-Героев** *(Legion of Super-Heroes)*, **Донстар** *(Dawnstar)* встала на след существа – или существ – которые виновны в больших проблемах Легиона. Но подберется ли она к правде? Ее соратник по команде, **Вайдфайр** *(Wildfire)* приходит ей на помощь, но сможет ли дуэт открыть истинное лицо того, кто стоит за злодейским заговором, направленном на уничтожение известной вселенной?
+В продаже **18 Ноября** – 40 стр.
+[![](https://web.archive.org/web/20250913004320im_/http://i707.photobucket.com/albums/ww79/Alex_spidermedia/media/th_blackest-night-event-20090812021942.jpg)](http://i707.photobucket.com/albums/ww79/Alex_spidermedia/media/blackest-night-event-20090812021942.jpg) **BOOSTER GOLD #26**
+Сценарий – **Дэн Юргенс** *(Dan Jurgen)* и **Мэтт Стурджес** *(Matt Sturges)*
+Рисунок – **Дэн Юргенс, Майк Нортон** *(Mike Norton)* и **Норм Рапмунд** *(Norm Rapmund)*
+Обложка – **Дэн Юргенс** и **Норм Рапмунд**
+Что синее, золотое и все кровавое? Этот тай-ин!
+Худшие страхи **Бустера Голда** *(Booster Gold)* воплотились в жизнь, когда **Тед Корд** *(Ted Kord)* вернулся **Черным Фонарем**, чтобы убить бывшего лучшего друга. Хорошая новость – другой **Синий Жук** *(Blue Beetle)* рядом – но успеет ли **Джейми Райс** *(Jaime Reyes)* спасти жизнь Бустера?
+В продаже **11 Ноября** – 40 стр.
+[![](https://web.archive.org/web/20250913004320im_/http://i707.photobucket.com/albums/ww79/Alex_spidermedia/media/th_blackest-night-event-20090812022134.jpg)](http://i707.photobucket.com/albums/ww79/Alex_spidermedia/media/blackest-night-event-20090812022134.jpg) **DOOM PATROL #4**
+Сценарий – **Кейт Гиффен** *(Keith Giffen)*
+Рисунок – **Джустиниано и Лайфсэй** *(Justiniano & Livesay)*
+Бэк-ап сценарий – **Кейт Гиффен и Джей Эм ДеМаттейс** *(J.M. DeMatteis)*
+Бэк-ап рисунок – **Кевин Магайр** *(Kevin Maguire)*
+Обложка – **Джустиниано и Эндрю Магнум** *(Andrew Mangum)*
+С наступлением **Темнейшей Ночи**, скелеты начинают вылезать из шкафа – и у кого их больше всего, так это у основателя **Дум Патруля** *(Doom Patrol)* – **Нильса Колдера** *(Niles Caulder)*. Много лет Колдер играл в бога, пришло время платить по счетам. Дум Патруль полагал, что они знают тьму.
+Посмотрите как они ошибались!
+Тем временем **Металлические Люди** *(Metal Men)* сталкиваются с абсурдом – роботы против банды живых манекенов.
+В продаже **4 Ноября** – 40 стр.
+[![](https://web.archive.org/web/20250913004320im_/http://i707.photobucket.com/albums/ww79/Alex_spidermedia/media/th_blackest-night-event-20090812022218.jpg)](http://i707.photobucket.com/albums/ww79/Alex_spidermedia/media/blackest-night-event-20090812022218.jpg) **JUSTICE LEAGUE OF AMERICA #39**
+Сценарий – **Джеймс Робинсон** *(James Robinson)*
+Рисунок и Обложка – **Марк Багли** *(Mark Bagley)*
+**Темнейшая Ночь** сгустила тучи над **Лигой Справедливости** *(Justice League)*!
+Сможет ли команда вовремя собраться, чтобы пережить возвращение немертвого **Доктора Лайта** *(Dr. Light)*? Или его темное зло удавит каждого по отдельности?
+В продаже **25 Ноября** – 40 стр.
+[![](https://web.archive.org/web/20250913004320im_/http://i707.photobucket.com/albums/ww79/Alex_spidermedia/media/th_blackest-night-event-20090812022229.jpg)](http://i707.photobucket.com/albums/ww79/Alex_spidermedia/media/blackest-night-event-20090812022229.jpg) **SUPERMAN/BATMAN #66**
+Сценарий, Рисунок и Обложка – **Скотт Колинс** *(Scott Kolins)*
+Темнейшая Ночь вновь окутала мир **Супермена** *(Superman)* и **Бэтмена** *(Batman)*! Но на этот раз это не то, о чем вы подумали! Приготовьтесь к союзу эпичных масштабов – **Бизарро** *(Bizarro)* и **Мэн-Бэт** *(Man-Bat)* против немертвой силы **Черного Фонаря Соломона Гранди** *(Black Lantern Solomon Grundy)*!
+В продаже **18 Ноября** – 32 стр.
+[![](https://web.archive.org/web/20250913004320im_/http://i707.photobucket.com/albums/ww79/Alex_spidermedia/media/th_blackest-night-event-20090812021928.jpg)](http://i707.photobucket.com/albums/ww79/Alex_spidermedia/media/blackest-night-event-20090812021928.jpg) **R.E.B.E.L.S. #10**
+Сценарий – **Тони Бедард** *(Tony Bedard)*
+Рисунок – **Энди Кларк** *(Andy Clarke)*
+Обложка – **Калман Андрасофски** *(Kalman Andrasofszky)*
+Увеличенный выпуск - **Черные Фонари** против **Корпуса Синестро** *(Sinestro Corps)* и **R.E.B.E.L.S.**!
+Пока супер-умник **Врил Докс** *(Vril Dox)* и его команда разрабатывают план противостояния **Старро Завоевателю** *(Starro the Conqueror)*, они оказываются втянуты в центр космического конфликта! И у Докса проблемы, потому что эти Черные Фонари хотели убить его ещё когда были живы!
+В продаже **11 Ноября** – 40 стр.
+[![](https://web.archive.org/web/20250913004320im_/http://i707.photobucket.com/albums/ww79/Alex_spidermedia/media/th_blackest-night-event-20090812022131.jpg)](http://i707.photobucket.com/albums/ww79/Alex_spidermedia/media/blackest-night-event-20090812022131.jpg) **TEEN TITANS #77**
+Сценарий – **Джей Ти Крал** *(J.T. Krul)*
+Рисунок – **Джо Беннетт** *(Joe Bennett)* и **Джек Джедсон** *(Jack Jadson)*
+Бэк-ап сценарий – **Шон МакКивер** *(Sean McKeever)*
+Бэк-ап рисунок – *Юлдирей Сайнар* *(Yildiray Cinar)* и **Джулио Феррейра** *(Julio Ferreira)*
+Обложка – **Джо Беннетт и Джек Джедсон**
+Возвращение мертвых подростков в тай-ине **Темнейшей Ночи**!
+Погибших **Молодых Титанов** *(Teen Titans)* всегда хватало, и, вернувшись в качестве **Черных Фонарей**, старые товарищи жаждут возмездия! Худший кошмар **Титанов** стал реальностью!
+В продаже **25 Ноября** – 40 стр.
+[![](https://web.archive.org/web/20250913004320im_/http://i707.photobucket.com/albums/ww79/Alex_spidermedia/media/th_blackest-night-event-20090812021926.jpg)](http://i707.photobucket.com/albums/ww79/Alex_spidermedia/media/blackest-night-event-20090812021926.jpg) **THE OUTSIDERS #24**
+Сценарий – **Питер Томаси** *(Peter J. Tomasi)*
+Рисунок – **Фернандо Пазарин** *(Fernando Pasarin)* и **Джей Лейстен** *(Jay Leisten)*
+Обложка – **Том Мандрейк** *(Tom Mandrake)*
+Приготовьтесь к ещё одному головокружительному тай-ину! **Прямо из BN: Titans** мертвая встает, чтобы полакомиться живыми!
+Брат против немертвой сестры, **Черный Фонарь Терра** *(Black Lantern Terra)* приходит за ещё бьющимся сердцем **Гео-Форса** *(Geo-Force)* и остальных **Аутсайдеров** *(Outsiders)*!
+В продаже **18 Ноября** – 40 стр.

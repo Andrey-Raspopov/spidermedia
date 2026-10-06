@@ -1,0 +1,23 @@
+{
+  "title": "Watchmen - неудачная экранизация?",
+  "date": "2009-02-10T14:25:00+03:00",
+  "url": "/blog/sterpazook/watchmen-neudachnaya-ekranizaciya/",
+  "original_url": "https://spidermedia.ru/blog/sterpazook/watchmen-neudachnaya-ekranizaciya",
+  "archived": "https://web.archive.org/web/20260125053352/https://spidermedia.ru/blog/sterpazook/watchmen-neudachnaya-ekranizaciya",
+  "template": "modern",
+  "source_encoding": "utf-8"
+}
+
+Фильм: [Хранители](https://web.archive.org/web/20260313103311/http://spidermedia.ru/movies-index/dc-comics/dc-comics-watchmen-movie-2009)
+
+Ниже приведен комментарий одного из буржуйских фэнов, мнение которого я целиком разделяю.
+
+**ОСТОРОЖНО, ДАЛЕЕ** **СПОЙЛЕРЫ!**
+
+![](https://web.archive.org/web/20260125053352im_/http://img.photobucket.com/albums/v335/sterpazook/watchmen.jpg)
+
+[We have the technology to do it realistically, artistically and thoughtfully. But Zack Snyder isn't going to do it. Want to know why? Because it's risky. That's why. His philosphy is "let's simplify this comic". I can just picture him saying "I don't get this squid thing...let's take it out...I don't get why the "villain" is dressed in gold...let's make him dressed as dark as Darth Vader...I don't get the title WATCHMEN...let's make the Crime Busters team be called WATCHMEN you know, like X-MEN..." Everything that made Watchmen unique has been dumbed down.](http://www.comicbookmovie.com/fansites/rorschachsrants/news/?a=6222)
+
+**Вольный перевод:** *Мы владеем всей необходимой технологией, чтобы снять фильм по букве комикса - чтобы все было реалистично, художественно и продумано. Но Заку Снайдеру это не нужно. Почему? Потому что это рискованно. Философия Снайдера такова: **"необходимо упростить первоисточник"**. Зак смотрит в книгу, и видит фигу: **"Не понимаю, нафиг нужен этот гигантский осьминог... Давайте его выкинем... Не понимаю, почему злодей носит светлые сверкающие доспехи... Давайте оденем его как Дарта Вейдера... Не понимаю, откуда взялось название WATCHMEN - в книге нет никаких Вочменов... Короче, переименуем команду КраймБастерзов в Watchmen - ну типа, Вочмены - Иксмены, улавливаете?"** Всё что сделало Вочменов уникальным произведением было зверски отуплено.*
+
+И всё же надеюсь, что фильм **получится.**

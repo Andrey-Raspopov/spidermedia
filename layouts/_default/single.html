@@ -1,0 +1,11 @@
+{{ define "main" }}
+<article>
+  <h1>{{ .Title }}</h1>
+  <p class="meta">
+    {{ with .Date }}{{ if not $.Date.IsZero }}<time datetime="{{ .Format "2006-01-02" }}">{{ .Format "02.01.2006" }}</time> · {{ end }}{{ end }}
+    {{ with .Params.original_url }}<a href="{{ . }}">оригинал</a>{{ end }}
+    {{ with .Params.archived }} · <a href="{{ . }}">снимок в архиве</a>{{ end }}
+  </p>
+  <div class="body">{{ .Content }}</div>
+</article>
+{{ end }}

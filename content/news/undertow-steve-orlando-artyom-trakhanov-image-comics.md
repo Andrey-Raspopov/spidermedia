@@ -1,0 +1,16 @@
+{
+  "title": "\"UNDERTOW\" Стива Орландо и Артёма Траханова выйдет в феврале",
+  "date": "2013-11-14T12:38:00+03:00",
+  "url": "/news/undertow-steve-orlando-artyom-trakhanov-image-comics/",
+  "original_url": "https://spidermedia.ru/news/undertow-steve-orlando-artyom-trakhanov-image-comics",
+  "archived": "https://web.archive.org/web/20260307064654/https://spidermedia.ru/news/undertow-steve-orlando-artyom-trakhanov-image-comics",
+  "template": "modern",
+  "source_encoding": "utf-8"
+}
+
+Большинству посетителей Спайдермедии наверняка знаком веб-комикс **[Артёма "Охотнига" Траханова](http://vk.com/ohotnig)** "MAD BLADE". Многим известно, что cовместная работа Артёма, в качестве художника, и американского сценариста **Стива Орландо** "FLIP FALCON" была издана в рамках инди-антологию [NOBODIES vol.2](http://drawmoreinc.com/store/nobodies-volume-2/). И вот наконец, **в феврале 2014** стартует новый совместный проект Орландо и Траханова **"UNDERTOW"** - полноформатная **мини-серия из 6 выпусков** будет выпущена пожалуй лучшим на данный момент издательством **IMAGE COMICS**.
+[![](https://web.archive.org/web/20260307064654im_/http://img.photobucket.com/albums/v497/spidermedia/sterpazook_News/undertow-01web.jpg)](http://img.photobucket.com/albums/v497/spidermedia/sterpazook_News/undertow-01web.jpg)
+"UNDERTOW" покажет жизнь Атлантиды (мифического затонувшего континента) и её обитателей под совершенно новым углом. Комикс изобилует палповыми монстрами, но главная фантастическая условность, вокруг которой выстроен сюжет, заключается в том, что существование Атлантиды и её обитателей не является тайной. Напротив, в современном мире Атлантида является высокоразвитой сверх-державой, а люди обитающие на суше остались на уровне диких животных. Атланты обладают высокими технологиями, но могут дышать только под водой, а способность дышать воздухом суши представляется чем-то мифическим.
+[![](https://web.archive.org/web/20260307064654im_/http://img.photobucket.com/albums/v497/spidermedia/sterpazook_News/UndertowPREVIEW-1.jpg~original)](http://img.photobucket.com/albums/v497/spidermedia/sterpazook_News/UndertowPREVIEW-1.jpg~original)[![](https://web.archive.org/web/20260307064654im_/http://img.photobucket.com/albums/v497/spidermedia/sterpazook_News/UndertowPREVIEW-2.jpg~original)](http://img.photobucket.com/albums/v497/spidermedia/sterpazook_News/UndertowPREVIEW-2.jpg~original)[![](https://web.archive.org/web/20260307064654im_/http://img.photobucket.com/albums/v497/spidermedia/sterpazook_News/UndertowPREVIEW-3.jpg~original)](http://img.photobucket.com/albums/v497/spidermedia/sterpazook_News/UndertowPREVIEW-3.jpg~original)
+*Атлантида - мировая сверхдержава, раскинувшаяся на дне океана, а Редум Аншаргал - её злейший враг. И если вы хотите вырваться из жестокой подводной системы, Редум предложит вам место в своём городе-барже «Избавитель», исследующем дикий мир первобытных людей и животных, расположенный над запретной для атлантов поверхностью воды.
+...Пытаясь найти для своих людей место под солнцем, Редум и его заложник-протеже Укинну Алал охотятся на Земноводного - неуловимую легенду, которая может стать для мятежных атлантов ключом к жизни на земле. Но сможет ли команда Аншаргала понять, что из охотников они превратились в жертв, и какому богоподобному существу они противостоят на самом деле?*

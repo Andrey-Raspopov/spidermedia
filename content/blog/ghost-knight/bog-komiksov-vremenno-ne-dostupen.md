@@ -1,0 +1,17 @@
+{
+  "title": "Бог комиксов временно не доступен",
+  "date": "2009-02-04T22:13:00+03:00",
+  "url": "/blog/ghost-knight/bog-komiksov-vremenno-ne-dostupen/",
+  "original_url": "http://spidermedia.ru/blog/ghost-knight/bog-komiksov-vremenno-ne-dostupen",
+  "archived": "https://web.archive.org/web/20120610084830/http://spidermedia.ru/blog/ghost-knight/bog-komiksov-vremenno-ne-dostupen",
+  "template": "drupal",
+  "source_encoding": "utf-8"
+}
+
+Официальные источники сообщили, что **Грант Моррисон** (*Grant Morrison*) не будет присутствовать на комикс-конвенции в Нью Йорке (**New York Comic-Con 2009**), которая пройдет **с 6 по 8 февраля** на этой неделе. Сам же Моррисон утверждает, что принять участие не сможет по семейным обстоятельствам, и приносит всем свои извинения.
+
+]]>[![](https://web.archive.org/web/20120610084830im_/http://s56.radikal.ru/i151/0902/8a/adfe299ef30et.jpg)](http://radikal.ru/F/s56.radikal.ru/i151/0902/8a/adfe299ef30e.jpg.html)]]>
+
+Нам терять нечего, но на месте американского фаната лично мне было бы очень обидно.
+
+Поделиться:

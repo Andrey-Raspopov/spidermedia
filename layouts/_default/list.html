@@ -1,0 +1,11 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+{{ with .Content }}<div class="intro">{{ . }}</div>{{ end }}
+{{ $paginator := .Paginate (.RegularPagesRecursive.ByDate.Reverse) }}
+<ul class="list">
+  {{ range $paginator.Pages }}
+  <li>{{ if not .Date.IsZero }}<time>{{ .Date.Format "02.01.2006" }}</time>{{ end }}<a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+  {{ end }}
+</ul>
+{{ template "_internal/pagination.html" . }}
+{{ end }}

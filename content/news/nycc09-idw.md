@@ -1,0 +1,47 @@
+{
+  "title": "NYCC'09 - IDW",
+  "date": "2009-02-09T10:45:00+03:00",
+  "url": "/news/nycc09-idw/",
+  "original_url": "https://spidermedia.ru/news/nycc09-idw",
+  "archived": "https://web.archive.org/web/20260314082203/https://spidermedia.ru/news/nycc09-idw",
+  "template": "modern",
+  "source_encoding": "utf-8"
+}
+
+![](https://web.archive.org/web/20260314082203im_/http://i305.photobucket.com/albums/nn228/Crackity_Jones_0/tn_423090-IDW_logo_large.jpg)
+
+На прошедшем в Нью-Йорке Комик Коне издательство IDW поделилось с общественностью информацией о своих планах на будущее:
+
+- В конце весны IDW отпразднует свое десятилетие, издав три не совсем обычных книги. Первая будет содержать обложки всех выпущенных издательством комиксов. Вторая станет книгой истории издательства. Третьим проектом будет юбилейный комикс, в который войдут новые истории из основных серий компании (в том числе **Fallen Angel**, **Locke & Key** и **Wormwood**). Все истории свяжет между собой вселенная **Locke & Key**.
+
+- Роль нового сценариста **Angel: After The Fall** выпала **Келли Армстронгу** (Kelly Armstrong).  **Джон Бирн** (John Byrne) станет автором комикса **Angel: Blood & Trenches** действие которого развернется во времена Первой Мировой войны.
+
+- **Брайан Линч** (Brian Lynch) напишет несколько специальных выпусков Ангела, а также станет сценаристом новой серии Спайка. Над обоими проектами Линч будет трудиться вместе с художником **Франко Урру** (Franco Urru).
+
+- **Скотт Типтон** (Scott Tipton) напишет приквел и адаптацию фильма **Astro Boy**.
+
+[![Photobucket](https://web.archive.org/web/20260314082203im_/http://i305.photobucket.com/albums/nn228/Crackity_Jones_0/th_10thanni_low.jpg)](http://s305.photobucket.com/albums/nn228/Crackity_Jones_0/?action=view¤t=10thanni_low.jpg) [![Photobucket](https://web.archive.org/web/20260314082203im_/http://i305.photobucket.com/albums/nn228/Crackity_Jones_0/th_Angel_BT3_Byrne_TomSmith_FINAL.jpg)](http://s305.photobucket.com/albums/nn228/Crackity_Jones_0/?action=view¤t=Angel_BT3_Byrne_TomSmith_FINAL.jpg) [![Photobucket](https://web.archive.org/web/20260314082203im_/http://i305.photobucket.com/albums/nn228/Crackity_Jones_0/th_zombibus.jpg)](http://s305.photobucket.com/albums/nn228/Crackity_Jones_0/?action=view¤t=zombibus.jpg) [![Photobucket](https://web.archive.org/web/20260314082203im_/http://i305.photobucket.com/albums/nn228/Crackity_Jones_0/th_Tetsuwan_cover01b.jpg)](http://s305.photobucket.com/albums/nn228/Crackity_Jones_0/?action=view¤t=Tetsuwan_cover01b.jpg) [![Photobucket](https://web.archive.org/web/20260314082203im_/http://i305.photobucket.com/albums/nn228/Crackity_Jones_0/th_1234131065.jpg)](http://s305.photobucket.com/albums/nn228/Crackity_Jones_0/?action=view¤t=1234131065.jpg) 
+
+- **Тони Ли** (Tony Lee) и **Пол Грист** (Paul Grist) станут создателями комикса **Doctor Who: The Time Machination**. Также Ли займет пост автора новой регулярной серией **Doctor Who**. События новой серии хронологически будут происходить после четвертого сезона сериала.
+
+- **Star Trek: Countdown** станет в некотором роде приквелом к грядущему фильму. За скрипт будут отвечать **Майк Джонсон** (Mike Johnson) и **Тим Джонс** (Tim Jones). Комикс одобрен Дж. Дж. Абрамсом.
+
+- **Джон Бирн** (John Byrne) работает над комиксом **Star Trek Crew**. **Тай Темплтон** (Ty Templeton) и **Стивен Молнар** (Stephen Molnar) планируют разделить Спока, Кирка и Маккоя в **Star Trek: Mission’s End**. Также в 2009-ом IDW выпустит серию **Star Trek: Alien Spotlight** и адаптацию **Star Trek II: The Wrath Of Khan**.
+
+[![Photobucket](https://web.archive.org/web/20260314082203im_/http://i305.photobucket.com/albums/nn228/Crackity_Jones_0/th_STME2CvrCorroneyNearFinal.jpg)](http://s305.photobucket.com/albums/nn228/Crackity_Jones_0/?action=view¤t=STME2CvrCorroneyNearFinal.jpg) [![Photobucket](https://web.archive.org/web/20260314082203im_/http://i305.photobucket.com/albums/nn228/Crackity_Jones_0/th_STWOK001-COV-paint01.jpg)](http://s305.photobucket.com/albums/nn228/Crackity_Jones_0/?action=view¤t=STWOK001-COV-paint01.jpg) [![Photobucket](https://web.archive.org/web/20260314082203im_/http://i305.photobucket.com/albums/nn228/Crackity_Jones_0/th_ST_Crew1_Byrne_Ogrady.jpg)](http://s305.photobucket.com/albums/nn228/Crackity_Jones_0/?action=view¤t=ST_Crew1_Byrne_Ogrady.jpg) [![Photobucket](https://web.archive.org/web/20260314082203im_/http://i305.photobucket.com/albums/nn228/Crackity_Jones_0/th_ST_Crew3_Byrne_TomSmith_final.jpg)](http://s305.photobucket.com/albums/nn228/Crackity_Jones_0/?action=view¤t=ST_Crew3_Byrne_TomSmith_final.jpg) [![Photobucket](https://web.archive.org/web/20260314082203im_/http://i305.photobucket.com/albums/nn228/Crackity_Jones_0/th_StarTrek_col.jpg)](http://s305.photobucket.com/albums/nn228/Crackity_Jones_0/?action=view¤t=StarTrek_col.jpg)
+
+- Недавно закончившаяся серия **Питера Дэвида** (Peter David) **Fallen Angel** в скором времени будет перезапущена. В первом арке стоит ждать появления Иллирии из баффиверса.
+
+- Главный редактор IDW **Крис Райалл** (Chris Ryall) и **Эшли Вуд** (Ashley Wood) работают над новым комиксом Zombies V Robots - **ZVR Adventure**. Каждый номер будет состоять из трех историй: смешной, страшной и смешно страшной (или, если так вам больше понравится, страшно смешной).
+
+- В августе будет издан **Oxido -** комикс о самом опасном человеке вселенной. Над его созданием трудится **Пабло Раймонди** (Pablo Raimondi).
+
+- Актер **Майкл Чиклис** (Michael Chiklis) станет "исполнительным продюсером" серии **Olympus**. Роль сценариста исполнит **Марк Андрейко** (Marc Andreyko). Выход комикса запланирован на следующую осень.
+
+- Фанаты Барака Обамы могут ликовать! IDW планирует и дальше выпускать комиксы о приключениях нового президента США.
+
+[![Photobucket](https://web.archive.org/web/20260314082203im_/http://i305.photobucket.com/albums/nn228/Crackity_Jones_0/th_DangerUnlimiterTPBCVR_col.jpg)](http://s305.photobucket.com/albums/nn228/Crackity_Jones_0/?action=view¤t=DangerUnlimiterTPBCVR_col.jpg) [![Photobucket](https://web.archive.org/web/20260314082203im_/http://i305.photobucket.com/albums/nn228/Crackity_Jones_0/th_DrWhoTimeMachinationGrist_Elliot.jpg)](http://s305.photobucket.com/albums/nn228/Crackity_Jones_0/?action=view¤t=DrWhoTimeMachinationGrist_Elliot.jpg) [![Photobucket](https://web.archive.org/web/20260314082203im_/http://i305.photobucket.com/albums/nn228/Crackity_Jones_0/th_FA_Illyria_FrancoUrru_FabioMantovan.jpg)](http://s305.photobucket.com/albums/nn228/Crackity_Jones_0/?action=view¤t=FA_Illyria_FrancoUrru_FabioMantovan.jpg) [![Photobucket](https://web.archive.org/web/20260314082203im_/http://i305.photobucket.com/albums/nn228/Crackity_Jones_0/th_Ghouls_col.jpg)](http://s305.photobucket.com/albums/nn228/Crackity_Jones_0/?action=view¤t=Ghouls_col.jpg) [![Photobucket](https://web.archive.org/web/20260314082203im_/http://i305.photobucket.com/albums/nn228/Crackity_Jones_0/th_Hunter-CoverLOW.jpg)](http://s305.photobucket.com/albums/nn228/Crackity_Jones_0/?action=view¤t=Hunter-CoverLOW.jpg)
+
+[![Photobucket](https://web.archive.org/web/20260314082203im_/http://i305.photobucket.com/albums/nn228/Crackity_Jones_0/th_LockeKeyIssue05colorrgb.jpg)](http://s305.photobucket.com/albums/nn228/Crackity_Jones_0/?action=view¤t=LockeKeyIssue05colorrgb.jpg) [![Photobucket](https://web.archive.org/web/20260314082203im_/http://i305.photobucket.com/albums/nn228/Crackity_Jones_0/th_LockeKey_HG4_Final.jpg)](http://s305.photobucket.com/albums/nn228/Crackity_Jones_0/?action=view¤t=LockeKey_HG4_Final.jpg) [![Photobucket](https://web.archive.org/web/20260314082203im_/http://i305.photobucket.com/albums/nn228/Crackity_Jones_0/th_GRIMMcov01Templesmith.jpg)](http://s305.photobucket.com/albums/nn228/Crackity_Jones_0/?action=view¤t=GRIMMcov01Templesmith.jpg) [![Photobucket](https://web.archive.org/web/20260314082203im_/http://i305.photobucket.com/albums/nn228/Crackity_Jones_0/th_Grimm-cover.jpg)](http://s305.photobucket.com/albums/nn228/Crackity_Jones_0/?action=view¤t=Grimm-cover.jpg) [![Photobucket](https://web.archive.org/web/20260314082203im_/http://i305.photobucket.com/albums/nn228/Crackity_Jones_0/th_amg01_01.jpg)](http://s305.photobucket.com/albums/nn228/Crackity_Jones_0/?action=view¤t=amg01_01.jpg)
+
+[![Photobucket](https://web.archive.org/web/20260314082203im_/http://i305.photobucket.com/albums/nn228/Crackity_Jones_0/th_Veil100coverbaseMOCKONLY.jpg)](http://s305.photobucket.com/albums/nn228/Crackity_Jones_0/?action=view¤t=Veil100coverbaseMOCKONLY.jpg) [![Photobucket](https://web.archive.org/web/20260314082203im_/http://i305.photobucket.com/albums/nn228/Crackity_Jones_0/th_draculaposter.jpg)](http://s305.photobucket.com/albums/nn228/Crackity_Jones_0/?action=view¤t=draculaposter.jpg) [![Photobucket](https://web.archive.org/web/20260314082203im_/http://i305.photobucket.com/albums/nn228/Crackity_Jones_0/th_ZvR_Av1.jpg)](http://s305.photobucket.com/albums/nn228/Crackity_Jones_0/?action=view¤t=ZvR_Av1.jpg) [![Photobucket](https://web.archive.org/web/20260314082203im_/http://i305.photobucket.com/albums/nn228/Crackity_Jones_0/th_NMPremiereCvr.jpg)](http://s305.photobucket.com/albums/nn228/Crackity_Jones_0/?action=view¤t=NMPremiereCvr.jpg) [![Photobucket](https://web.archive.org/web/20260314082203im_/http://i305.photobucket.com/albums/nn228/Crackity_Jones_0/th_FTA_1_CVR_FINAL.jpg)](http://s305.photobucket.com/albums/nn228/Crackity_Jones_0/?action=view¤t=FTA_1_CVR_FINAL.jpg)

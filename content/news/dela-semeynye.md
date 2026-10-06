@@ -1,0 +1,14 @@
+{
+  "title": "Дела семейные",
+  "date": "2010-12-14T21:42:00+03:00",
+  "url": "/news/dela-semeynye/",
+  "original_url": "http://spidermedia.ru/news/dela-semeynye",
+  "archived": "https://web.archive.org/web/20251207095524/http://spidermedia.ru/news/dela-semeynye",
+  "template": "modern",
+  "source_encoding": "utf-8"
+}
+
+В когтистом королевстве назревают новые проблемы, но на этот раз уже между отпрысками **Логана** *(Logan)*: красавец-мужчина **Дакен** *(Daken)* в скором времени сразится со строптивой **Икс-23** *(X-23)*, что выльется в кроссовер **Столкновение** *(Collision)* между комиксами **Daken: Dark Wolverine** и **X-23**.
+[![](https://web.archive.org/web/20251207095524im_/http://img.photobucket.com/albums/v497/spidermedia/silver_news/Daken_7_Cov_021.jpg?t=1292328014)](http://smg.photobucket.com/albums/v497/spidermedia/silver_news/Daken_7_Cov_02.jpg) [![](https://web.archive.org/web/20251207095524im_/http://img.photobucket.com/albums/v497/spidermedia/silver_news/x23_8_cover_023.jpg?t=1292328118)](http://smg.photobucket.com/albums/v497/spidermedia/silver_news/x23_8_cover_02.jpg)
+Обложки **Джузеппе Камунсоли** *(Giueseppe Camuncoli)* и **Калмана Андрасофски** *(Kalman Andrasofszky)*
+К началу кроссовера Дакен уже давно будет находиться в азиатской криминальной столице **Мадрипур** *(Madripoor)*, где приживется настолько, что станет главой местного преступного мира. При этом бандитский авторитет превращает его в неприкосновенного, правда, до тех пор, пока Икс-23 не заявляется к нему лично. Все это дело стартует в мартовском **Daken: Dark Wolverine #7** и продолжится в **X-23 #8**, над Столкновением традиционно работает дуэт сценаристов из **Марджори Лю** *(Marjorie Liu)* и **Дэниела Вея** *(Daniel Way)*, а рисует **Марко Чекчетто** *(Marco Checchetto)* и **Райан Стегман** *(Ryan Stegman)*.

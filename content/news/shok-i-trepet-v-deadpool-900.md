@@ -1,0 +1,14 @@
+{
+  "title": "Шок и трепет в Deadpool #900",
+  "date": "2009-08-25T22:19:00+03:00",
+  "url": "/news/shok-i-trepet-v-deadpool-900/",
+  "original_url": "http://spidermedia.ru/news/shok-i-trepet-v-deadpool-900",
+  "archived": "https://web.archive.org/web/20200221175333/http://spidermedia.ru:80/news/shok-i-trepet-v-deadpool-900",
+  "template": "modern",
+  "source_encoding": "utf-8"
+}
+
+[![](https://web.archive.org/web/20200221175333im_/http://marvel.com/i/content/9303497654_thumb1149208.jpg)](http://marvel.com/i/content/st/28621new_storyimage7841729.jpg) Комикс **Deadpool #900** продолжает радовать [артом](../../node/1788/) из-под карандаша **Роба Лайфелда** *(Rob Liefeld)* - человека, чьи заслуги и работы не нуждаются в представлении. Помимо превью выпуска, которое можно увидеть ниже, появились другие подробности относительно юбилейного номера: во-первых, официально журнал называют суперспешлом, в арсенале которого 104 страницы и разнообразный авторский состав, во-вторых - нас ждет безумный коктейль, в котором найдется место пришельцам, боевым мимам, путешествию по всему миру и многому-многому другому.
+Перед тем, как начать по-настоящему наслажадаться страницами истории от Роба и сценариста **Джо Келли** *(Joe Kelly)*, стоит хотя бы мельком упомянуть всех тех людей, работающих над созданием **#900**: **Джейсон Аарон** *(Jason Aaron)*, **Майк Бенсон** *(Mike Benson)*, **Виктор Гишлер** *(Victor Gischler)*, **Чарли Хьюстон** *(Charlie Huston)*, **Фред Ван Ленте** *(Fred Van Lente)*, **Дуэйн Сверчински** *(Duane Swierczynski)*, **Кайл Бейкер** *(Kyle Baker)*, **Далибор Таладжик** *(Dalibor Talajic)*, **Сэнфорд Грин** *(Sanford Greene)*, **Шон Кристал** *(Shawn Crystal)*, **Крис Стеггс** *(Chris Staggs)*. Все это дело будет скрываться за обложкой от **Дэйва Джонсона** *(Dave Johnson)*, находящаяся справа.
+[![](https://web.archive.org/web/20200221175333im_/http://marvel.com/i/content/st/9303new_storyimage1148335_thumb.jpg)](http://marvel.com/i/content/st/9303new_storyimage1148335.jpg) [![](https://web.archive.org/web/20200221175333im_/http://marvel.com/i/content/st/9303new_storyimage1148394_thumb.jpg)](http://marvel.com/i/content/st/9303new_storyimage1148394.jpg) [![](https://web.archive.org/web/20200221175333im_/http://marvel.com/i/content/st/9303new_storyimage1148441_thumb.jpg)](http://marvel.com/i/content/st/9303new_storyimage1148441.jpg) [![](https://web.archive.org/web/20200221175333im_/http://marvel.com/i/content/st/9303new_storyimage1148525_thumb.jpg)](http://marvel.com/i/content/st/9303new_storyimage1148525.jpg) [![](https://web.archive.org/web/20200221175333im_/http://marvel.com/i/content/st/9303new_storyimage1148562_thumb.jpg)](http://marvel.com/i/content/st/9303new_storyimage1148562.jpg) [![](https://web.archive.org/web/20200221175333im_/http://marvel.com/i/content/st/9303new_storyimage1148609_thumb.jpg)](http://marvel.com/i/content/st/9303new_storyimage1148609.jpg)
+Релиз комикса - **14 октября**.

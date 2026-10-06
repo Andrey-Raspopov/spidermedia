@@ -1,0 +1,17 @@
+{
+  "title": "Смолвиль\\Smallville s9 ep.1 - \"Savior\"\\\"Спаситель\"",
+  "date": "2009-09-27T10:31:00+03:00",
+  "url": "/blog/alex/smolvil-smallville-s9-ep1-savior-spasitel/",
+  "original_url": "https://spidermedia.ru/blog/alex/smolvil-smallville-s9-ep1-savior-spasitel",
+  "archived": "https://web.archive.org/web/20251207005158/https://spidermedia.ru/blog/alex/smolvil-smallville-s9-ep1-savior-spasitel",
+  "template": "modern",
+  "source_encoding": "utf-8"
+}
+
+Начало 9 сезона - **SPOILER! ALERT!**
+
+![Photobucket](https://web.archive.org/web/20251207005158im_/http://i707.photobucket.com/albums/ww79/Alex_spidermedia/smallvilles9.png)
+
+**Ep.1 - "Savior"\"Спаситель"**
+
+Гм... как бы это было ни удивительно, но Смолвиль мне больше Героев понравился. Наверно потому, что всю его драматическую составляющую мы уже знаем вдоль и поперек, так что просто не обращаем особого внимания (все равно ничего нового), ставим мысленно галочку, мол "чек" и наслаждаемся экшном. Нет, ну на самом деле довольно неплохо начали. Майор Зод с бандой пока-ещё-не-криптонцев, Лоис вернувшаяся из будущего, прилетевшая за ней криптонка, принесшая на хвосте очередное "кларк-сумка-ты-всех-замочишь-будет-апокалипсис", Олли участвующий в подпольных боях, Хлоя и Эмиль, плюс ещё не мЯталло, но уже Джон Корбен. А, ну и Кларк, завидующий Бэтмену) Поехали дальше.

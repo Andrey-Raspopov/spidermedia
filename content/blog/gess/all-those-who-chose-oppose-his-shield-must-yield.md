@@ -1,0 +1,25 @@
+{
+  "title": "All those who chose to oppose his shield must yield",
+  "date": "2009-12-03T02:35:00+03:00",
+  "url": "/blog/gess/all-those-who-chose-oppose-his-shield-must-yield/",
+  "original_url": "http://spidermedia.ru/blog/gess/all-those-who-chose-oppose-his-shield-must-yield",
+  "archived": "https://web.archive.org/web/20120512081308/http://spidermedia.ru/blog/gess/all-those-who-chose-oppose-his-shield-must-yield",
+  "template": "drupal",
+  "source_encoding": "utf-8"
+}
+
+Последний эпизод айфэнбоя
+
+[Flash: <http://revision3.com/player-v3299>]
+
+не столь познавательный (для тех, кто в теме), но провоцирует на размышления.]]>[![Photobucket](https://web.archive.org/web/20120512081308im_/http://i648.photobucket.com/albums/uu208/esspidermedia/serious%20blogging/CaptainAmerica_113_1213.jpg)](http://s648.photobucket.com/albums/uu208/esspidermedia/serious%20blogging/?action=view¤t=CaptainAmerica_113_1213.jpg)]]>
+
+]]>[![Photobucket](https://web.archive.org/web/20120512081308im_/http://i648.photobucket.com/albums/uu208/esspidermedia/serious%20blogging/th_2024206223_a545dfacde_o.jpg)](http://s648.photobucket.com/albums/uu208/esspidermedia/serious%20blogging/?action=view¤t=2024206223_a545dfacde_o.jpg)]]>Большое количество сколько-нибудь заметных crowning moments of awesome Капитана Америки связаны либо с "смертью/воскрешением", либо с его щитом. Самая иконическая сцена в истории звёздно-полосатых комксов, по своей полноте отражения персонажа, бэдэссности и запоминаемости сопоставимая с "Gaze into the fist of Dredd!", "Captain America Lives" (#113, 1969, Джим Стеранко) несомненно является хрестоматийным примером раскрытия первой темы в одном кадре. Не вдаваясь в перечисление самих моментов (некоторые, например, есть в составленном Крисом "Инвинсибл" Симсом списке ]]>[Captain America's Best Moments](http://www.comicsalliance.com/2009/06/15/captain-america-comes-back-to-life/)]]>) я точно помню, что и то, и другое ни разу не были переплетены одновременно, но полтора десятка лет назад это могло произойти, усилиями авторов
+
+]]>[![Photobucket](https://web.archive.org/web/20120512081308im_/http://i648.photobucket.com/albums/uu208/esspidermedia/serious%20blogging/th_Skull_Kill_Krew_MS_02_p18.jpg)](http://s648.photobucket.com/albums/uu208/esspidermedia/serious%20blogging/?action=view¤t=Skull_Kill_Krew_MS_02_p18.jpg)]]>]]>[![Photobucket](https://web.archive.org/web/20120512081308im_/http://i648.photobucket.com/albums/uu208/esspidermedia/serious%20blogging/th_Skull_Kill_Krew_MS_02_p19.jpg)](http://s648.photobucket.com/albums/uu208/esspidermedia/serious%20blogging/?action=view¤t=Skull_Kill_Krew_MS_02_p19.jpg)]]>этих страниц. Это Skrull Kill Krew (комикс однозначно стоящий вашего внимания, практически They Live, помноженный на Сканеров Кроненберга). В середине 90-х Моррисон и Миллар планировали (no shit) онгоинг Captain America 2099 (вместе с Avengers и Iron Man в той же вселенной, к сожалению, обреченной банкротством Марвел на ликвидацию до того, как с ней кто-то что-либо успел сделать).]]>[![Photobucket](https://web.archive.org/web/20120512081308im_/http://i648.photobucket.com/albums/uu208/esspidermedia/serious%20blogging/18504.jpg)](http://s648.photobucket.com/albums/uu208/esspidermedia/serious%20blogging/?action=view¤t=18504.jpg)]]>"Алтимизация" образа Капитана Америки для 2099-верса к тому времени уже была проведена, в эллисовском Doom 2099, в лице торчка-импостора, подававшегося публике в качестве оригинала. "Милларисоновский" Капитан был кардинально другим персонажем, "киберпанкизированный Кэп" был (мог быть) ветераном войны за Атлантиду (всплывшую в конце XXI века без атлантийцев, вымерших от загрязнения океана), сражённым аномией и "вьетнамским синдромом", который в поисках могилы своего бывшего кумира Стива Роджерса находит Американскую мечту и новую жизнь, а щит для нового носителя становится артуровским Экскалибуром, его возвращение в руки американца, готового жить Мечтой, возвращало к жизни Капитана Америку. Этот по-настоящему один из самых красивых и символически сильных событий в истории персонажа и фрэнчайза так и не был (как и всё, что было запланировано для Авенджеров 2099) *до сих пор* реализован нигде и никак, даже Милларом, любящим перетереть старые идеи в альтернативных вселенных. И это меня огорчает.
+Даже больше того, что Капитана Америку никогда больше не будет писать Роберт Киркман, который
+]]>[![Photobucket](https://web.archive.org/web/20120512081308im_/http://i648.photobucket.com/albums/uu208/esspidermedia/serious%20blogging/th_1251865696488.jpg)](http://s648.photobucket.com/albums/uu208/esspidermedia/serious%20blogging/?action=view¤t=1251865696488.jpg)]]>был неповторимо офигенен.
+
+С другой стороны то, что онгоинг Ultimate Captain America Миллара и Макнивена, очевидную переработку которого ММ толкает в Ultimate Avengers, был сорван работой над Сивил Вором, меня не огорчает совершенно. ^_^
+
+Поделиться:

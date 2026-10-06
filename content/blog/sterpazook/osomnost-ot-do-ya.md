@@ -1,0 +1,13 @@
+{
+  "title": "Осомность от А до Я!",
+  "date": "2009-11-16T13:39:00+03:00",
+  "url": "/blog/sterpazook/osomnost-ot-do-ya/",
+  "original_url": "https://spidermedia.ru/blog/sterpazook/osomnost-ot-do-ya",
+  "archived": "https://web.archive.org/web/20251117005450/https://spidermedia.ru/blog/sterpazook/osomnost-ot-do-ya",
+  "template": "modern",
+  "source_encoding": "utf-8"
+}
+
+Увидено в блоге Киномозга и пройдено по ссылке на [сайт автора](http://www.neillcameron.com). Латинский алфавит с забавными референсами к попкультурным иконам (лично я всех точно не знаю). Кликайте изображение и смотрите в полный размер - это потрясающе!
+
+[![](https://web.archive.org/web/20251117005450im_/http://img.photobucket.com/albums/v335/sterpazook/1f68d854-1.jpg)](http://www.neillcameron.com/A_to_Z.html)

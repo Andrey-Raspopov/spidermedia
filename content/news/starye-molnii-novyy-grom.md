@@ -1,0 +1,22 @@
+{
+  "title": "Старые молнии - новый гром.",
+  "date": "2009-07-12T02:25:00+03:00",
+  "url": "/news/starye-molnii-novyy-grom/",
+  "original_url": "http://spidermedia.ru/news/starye-molnii-novyy-grom",
+  "archived": "https://web.archive.org/web/20120607181905/http://spidermedia.ru/news/starye-molnii-novyy-grom",
+  "template": "drupal",
+  "source_encoding": "utf-8"
+}
+
+Приход **Уоррена Эллиса** (*Warren Ellis*) на пост сценариста **Thunderbolts** в своё время не только превратил не пользовавшуюся на тот момент особой популярностью серию в один из самых любимых читателями тайтлов, но и к сожалению ознаменовался исчезновением из серии большинства её героев, из которых почти никто с тех пор так нигде как следует и не засветился. Но вот тизерная обложка октябрьского номера явно намекает на возвращение как минимум двух из них, и при том в довольно интересной компании:
+
+]]>[![Photobucket](https://web.archive.org/web/20120607181905im_/http://i3.photobucket.com/albums/y65/Carnage_vl/th_thunderbolts-20090707040414812.jpg)](http://s3.photobucket.com/albums/y65/Carnage_vl/?action=view¤t=thunderbolts-20090707040414812.jpg)]]>
+На обложке кроме уже присутствующих на данный момент в серии **Чёрной Вдовы** (*Black Widow*) и **Сонгбёрд** (*Songbird*), чей альянс уже не кажется неожиданным в свете откровения в конце предыдущего 133 номера комикса, видны такие ветераны оригинальной команды Громовержцев как **Фиксер** (*Fixer*) и персонаж, чьё имя меняется по мере апгрейда его костюма, так что скорее всего теперь его должны звать **МЭК-5** (*M.A.C.H.-V*) а.к.а. **Эбнер Дженкинс** (*Abner Jenkins*). Подразумевая, конечно же, что в костюме и правда именно он. Таким образом **Энди Диггл** (*Andy Diggle*) будет первым за довольно долгое время автором после **Фабиана Нисиезы** (*Fabian Nicieza*), который будет использовать у себя этих персонажей не для заполнения массовки в батальных сценах **Civil War**.
+
+После этого остаётся один вопрос: когда же наконец произойдёт давно обещанное возвращение **Барона Земо** (*Baron Zemo*)?
+
+**UPD:** А вот ещё чёрно-белое превью 134-го номера, в котором уже есть и Дженкинс и Фиксер.
+
+]]>[![Photobucket](https://web.archive.org/web/20120607181905im_/http://i3.photobucket.com/albums/y65/Carnage_vl/th_TBOLTS134_DC11.jpg)](http://s3.photobucket.com/albums/y65/Carnage_vl/?action=view¤t=TBOLTS134_DC11.jpg)]]> ]]>[![Photobucket](https://web.archive.org/web/20120607181905im_/http://i3.photobucket.com/albums/y65/Carnage_vl/th_thunderbolts-134-page-01-pe.jpg)](http://s3.photobucket.com/albums/y65/Carnage_vl/?action=view¤t=thunderbolts-134-page-01-pe.jpg)]]> ]]>[![Photobucket](https://web.archive.org/web/20120607181905im_/http://i3.photobucket.com/albums/y65/Carnage_vl/th_thunderbolts-134-page-02-pe.jpg)](http://s3.photobucket.com/albums/y65/Carnage_vl/?action=view¤t=thunderbolts-134-page-02-pe.jpg)]]> ]]>[![Photobucket](https://web.archive.org/web/20120607181905im_/http://i3.photobucket.com/albums/y65/Carnage_vl/th_thunderbolts-134-page-03-pe.jpg)](http://s3.photobucket.com/albums/y65/Carnage_vl/?action=view¤t=thunderbolts-134-page-03-pe.jpg)]]> ]]>[![Photobucket](https://web.archive.org/web/20120607181905im_/http://i3.photobucket.com/albums/y65/Carnage_vl/th_thunderbolts-134-page-04-pe.jpg)](http://s3.photobucket.com/albums/y65/Carnage_vl/?action=view¤t=thunderbolts-134-page-04-pe.jpg)]]>
+
+Поделиться:

@@ -1,0 +1,29 @@
+{
+  "title": "Капитана Америки псто",
+  "date": "2009-07-24T20:16:00+03:00",
+  "url": "/blog/gess/kapitana-ameriki-psto/",
+  "original_url": "http://spidermedia.ru/blog/gess/kapitana-ameriki-psto",
+  "archived": "https://web.archive.org/web/20120607163401/http://spidermedia.ru/blog/gess/kapitana-ameriki-psto",
+  "template": "drupal",
+  "source_encoding": "utf-8"
+}
+
+![](https://web.archive.org/web/20120607163401im_/http://www.picamatic.com/show/2009/07/24/07/57/4569612_bigthumb.png)
+Перечитывание Алтимейтс (омнибус в числе июльских релизов - надо что-то написать) зацепило за одну давнишнюю mental note по поводу Капитана Америки, ультимате-стилистики и вообще.
+
+**Captain America vol.4 #6 (oct. 2002)**
+
+]]>[![Photobucket](https://web.archive.org/web/20120607163401im_/http://i648.photobucket.com/albums/uu208/esspidermedia/th_rl1.jpg)](http://s648.photobucket.com/albums/uu208/esspidermedia/?action=view¤t=rl1.jpg)]]> ]]>[![Photobucket](https://web.archive.org/web/20120607163401im_/http://i648.photobucket.com/albums/uu208/esspidermedia/th_rl2.jpg)](http://s648.photobucket.com/albums/uu208/esspidermedia/?action=view¤t=rl2.jpg)]]> ]]>[![Photobucket](https://web.archive.org/web/20120607163401im_/http://i648.photobucket.com/albums/uu208/esspidermedia/th_rl3.jpg)](http://s648.photobucket.com/albums/uu208/esspidermedia/?action=view¤t=rl3.jpg)]]> ]]>[![Photobucket](https://web.archive.org/web/20120607163401im_/http://i648.photobucket.com/albums/uu208/esspidermedia/th_rl4.jpg)](http://s648.photobucket.com/albums/uu208/esspidermedia/?action=view¤t=rl4.jpg)]]> ]]>[![Photobucket](https://web.archive.org/web/20120607163401im_/http://i648.photobucket.com/albums/uu208/esspidermedia/th_rl5.jpg)](http://s648.photobucket.com/albums/uu208/esspidermedia/?action=view¤t=rl5.jpg)]]> ]]>[![Photobucket](https://web.archive.org/web/20120607163401im_/http://i648.photobucket.com/albums/uu208/esspidermedia/th_rl6.jpg)](http://s648.photobucket.com/albums/uu208/esspidermedia/?action=view¤t=rl6.jpg)]]> ]]>[![Photobucket](https://web.archive.org/web/20120607163401im_/http://i648.photobucket.com/albums/uu208/esspidermedia/th_rl7.jpg)](http://s648.photobucket.com/albums/uu208/esspidermedia/?action=view¤t=rl7.jpg)]]> ]]>[![Photobucket](https://web.archive.org/web/20120607163401im_/http://i648.photobucket.com/albums/uu208/esspidermedia/th_rl8.jpg)](http://s648.photobucket.com/albums/uu208/esspidermedia/?action=view¤t=rl8.jpg)]]>
+
+**Ultimates #12 (sep. 2003)**
+
+]]>[![Photobucket](https://web.archive.org/web/20120607163401im_/http://i648.photobucket.com/albums/uu208/esspidermedia/th_ult1.jpg)](http://s648.photobucket.com/albums/uu208/esspidermedia/?action=view¤t=ult1.jpg)]]> ]]>[![Photobucket](https://web.archive.org/web/20120607163401im_/http://i648.photobucket.com/albums/uu208/esspidermedia/th_ult2.jpg)](http://s648.photobucket.com/albums/uu208/esspidermedia/?action=view¤t=ult2.jpg)]]> ]]>[![Photobucket](https://web.archive.org/web/20120607163401im_/http://i648.photobucket.com/albums/uu208/esspidermedia/th_ult3.jpg)](http://s648.photobucket.com/albums/uu208/esspidermedia/?action=view¤t=ult3.jpg)]]> ]]>[![Photobucket](https://web.archive.org/web/20120607163401im_/http://i648.photobucket.com/albums/uu208/esspidermedia/th_ult4.jpg)](http://s648.photobucket.com/albums/uu208/esspidermedia/?action=view¤t=ult4.jpg)]]> ]]>[![Photobucket](https://web.archive.org/web/20120607163401im_/http://i648.photobucket.com/albums/uu208/esspidermedia/th_ult5.jpg)](http://s648.photobucket.com/albums/uu208/esspidermedia/?action=view¤t=ult5.jpg)]]> ]]>[![Photobucket](https://web.archive.org/web/20120607163401im_/http://i648.photobucket.com/albums/uu208/esspidermedia/th_ult6.jpg)](http://s648.photobucket.com/albums/uu208/esspidermedia/?action=view¤t=ult6.jpg)]]> ]]>[![Photobucket](https://web.archive.org/web/20120607163401im_/http://i648.photobucket.com/albums/uu208/esspidermedia/th_ult7.jpg)](http://s648.photobucket.com/albums/uu208/esspidermedia/?action=view¤t=ult7.jpg)]]> ]]>[![Photobucket](https://web.archive.org/web/20120607163401im_/http://i648.photobucket.com/albums/uu208/esspidermedia/th_ult8.jpg)](http://s648.photobucket.com/albums/uu208/esspidermedia/?action=view¤t=ult8.jpg)]]>
+
+Feel the... kewlness.
+
+**Бонус**
+Да на самом деле всё это не ново и обе версии уживаются на протяжении не одного десятилетия (sic).
+
+]]>[![Photobucket](https://web.archive.org/web/20120607163401im_/http://i648.photobucket.com/albums/uu208/esspidermedia/th_vs1.jpg)](http://s648.photobucket.com/albums/uu208/esspidermedia/?action=view¤t=vs1.jpg)]]> ]]>[![Photobucket](https://web.archive.org/web/20120607163401im_/http://i648.photobucket.com/albums/uu208/esspidermedia/th_vs2.jpg)](http://s648.photobucket.com/albums/uu208/esspidermedia/?action=view¤t=vs2.jpg)]]>
+
+Поделиться:
