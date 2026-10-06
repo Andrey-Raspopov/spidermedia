@@ -4,6 +4,12 @@
   "url": "/news/vnezapnye-lyudi-iks/",
   "original_url": "http://spidermedia.ru/news/vnezapnye-lyudi-iks",
   "archived": "https://web.archive.org/web/20241109083057/http://spidermedia.ru/news/vnezapnye-lyudi-iks",
+  "tags": [
+    "x-men",
+    "greg-pak",
+    "majk-makkon",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

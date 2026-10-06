@@ -4,6 +4,9 @@
   "url": "/news/rezhisser-makgrubera-ekraniziruet-komiks-great-unknown/",
   "original_url": "http://spidermedia.ru/news/rezhisser-makgrubera-ekraniziruet-komiks-great-unknown",
   "archived": "https://web.archive.org/web/20250210064335/http://spidermedia.ru/news/rezhisser-makgrubera-ekraniziruet-komiks-great-unknown",
+  "tags": [
+    "image-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

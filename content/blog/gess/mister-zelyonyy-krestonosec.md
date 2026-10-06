@@ -4,6 +4,11 @@
   "url": "/blog/gess/mister-zelyonyy-krestonosec/",
   "original_url": "http://spidermedia.ru/blog/gess/mister-zelyonyy-krestonosec",
   "archived": "https://web.archive.org/web/20241004024446/http://spidermedia.ru/blog/gess/mister-zelyonyy-krestonosec",
+  "tags": [
+    "kris-ueston",
+    "thargs-future-shocks",
+    "2000-ad"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/tv/sluh-gotovitsya-serial-kapitan-britaniya/",
   "original_url": "http://spidermedia.ru/tv/sluh-gotovitsya-serial-kapitan-britaniya",
   "archived": "https://web.archive.org/web/20250617224758/http://spidermedia.ru/tv/sluh-gotovitsya-serial-kapitan-britaniya",
+  "tags": [
+    "marvel",
+    "kapitan-britaniya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

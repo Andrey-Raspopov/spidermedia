@@ -4,6 +4,10 @@
   "url": "/blog/redson/ya-prochital-marvel-now-vy/",
   "original_url": "http://spidermedia.ru/blog/redson/ya-prochital-marvel-now-vy",
   "archived": "https://web.archive.org/web/20200131103650/http://spidermedia.ru:80/blog/redson/ya-prochital-marvel-now-vy",
+  "tags": [
+    "mnenie",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

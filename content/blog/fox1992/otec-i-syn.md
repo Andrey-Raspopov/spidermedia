@@ -4,6 +4,13 @@
   "url": "/blog/fox1992/otec-i-syn/",
   "original_url": "http://spidermedia.ru/blog/fox1992/otec-i-syn",
   "archived": "https://web.archive.org/web/20260214131520/http://spidermedia.ru/blog/fox1992/otec-i-syn",
+  "tags": [
+    "uill-konrad",
+    "krossover",
+    "daken",
+    "wolverine",
+    "will-conrad"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

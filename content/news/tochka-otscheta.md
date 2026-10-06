@@ -4,6 +4,12 @@
   "url": "/news/tochka-otscheta/",
   "original_url": "http://spidermedia.ru/news/tochka-otscheta",
   "archived": "https://web.archive.org/web/20251211035525/http://spidermedia.ru/news/tochka-otscheta",
+  "tags": [
+    "geoff-johns",
+    "the-flash",
+    "dc-comics",
+    "endi-kubert"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

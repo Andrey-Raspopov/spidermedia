@@ -4,6 +4,14 @@
   "url": "/news/ultimatum-generala-zoda/",
   "original_url": "http://spidermedia.ru/news/ultimatum-generala-zoda",
   "archived": "https://web.archive.org/web/20130619071006/http://spidermedia.ru/news/ultimatum-generala-zoda",
+  "tags": [
+    "man-steel",
+    "zod",
+    "video",
+    "kino",
+    "supermen",
+    "chelovek-iz-stali"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

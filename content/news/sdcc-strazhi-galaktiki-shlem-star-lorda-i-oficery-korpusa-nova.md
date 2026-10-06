@@ -4,6 +4,11 @@
   "url": "/news/sdcc-strazhi-galaktiki-shlem-star-lorda-i-oficery-korpusa-nova/",
   "original_url": "http://spidermedia.ru/news/sdcc-strazhi-galaktiki-shlem-star-lorda-i-oficery-korpusa-nova",
   "archived": "https://web.archive.org/web/20250808212320/http://spidermedia.ru/news/sdcc-strazhi-galaktiki-shlem-star-lorda-i-oficery-korpusa-nova",
+  "tags": [
+    "guardians-of-the-galaxy",
+    "marvel",
+    "san-diego-comic-con-international"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

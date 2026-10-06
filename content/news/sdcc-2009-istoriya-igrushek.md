@@ -4,6 +4,11 @@
   "url": "/news/sdcc-2009-istoriya-igrushek/",
   "original_url": "https://spidermedia.ru/news/sdcc-2009-istoriya-igrushek",
   "archived": "https://web.archive.org/web/20251108030957/https://spidermedia.ru/news/sdcc-2009-istoriya-igrushek",
+  "tags": [
+    "figurki",
+    "san-diego-comic-con-international",
+    "igrushki"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

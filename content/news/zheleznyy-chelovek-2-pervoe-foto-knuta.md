@@ -4,6 +4,18 @@
   "url": "/news/zheleznyy-chelovek-2-pervoe-foto-knuta/",
   "original_url": "http://spidermedia.ru/news/zheleznyy-chelovek-2-pervoe-foto-knuta",
   "archived": "https://web.archive.org/web/20120608132947/http://spidermedia.ru/news/zheleznyy-chelovek-2-pervoe-foto-knuta",
+  "tags": [
+    "iron-man-2",
+    "mickey-rourke",
+    "whiplash",
+    "zheleznyy-chelovek",
+    "zheleznyy-chelovek-2",
+    "kino",
+    "knut",
+    "komiksy",
+    "marvel",
+    "mikki-rurk"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

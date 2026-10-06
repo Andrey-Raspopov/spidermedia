@@ -4,6 +4,11 @@
   "url": "/tv/the-flash-supergirl-tv-series-crossover-officially-annaounced/",
   "original_url": "http://spidermedia.ru/tv/the-flash-supergirl-tv-series-crossover-officially-annaounced",
   "archived": "https://web.archive.org/web/20251107031205/http://spidermedia.ru/tv/the-flash-supergirl-tv-series-crossover-officially-annaounced",
+  "tags": [
+    "supergirl",
+    "the-flash",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

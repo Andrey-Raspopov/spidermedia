@@ -4,6 +4,17 @@
   "url": "/news/iz-proshlogo-v-budushchee/",
   "original_url": "http://spidermedia.ru/news/iz-proshlogo-v-budushchee",
   "archived": "https://web.archive.org/web/20120607112841/http://spidermedia.ru/news/iz-proshlogo-v-budushchee",
+  "tags": [
+    "2099",
+    "spider-man",
+    "x-men",
+    "brayan-rid",
+    "komiksy",
+    "lyudi-iks",
+    "marvel",
+    "uesli-kreyg",
+    "chelovek-pauk"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

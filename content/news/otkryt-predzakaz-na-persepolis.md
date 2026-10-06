@@ -4,6 +4,12 @@
   "url": "/news/otkryt-predzakaz-na-persepolis/",
   "original_url": "https://spidermedia.ru/news/otkryt-predzakaz-na-persepolis",
   "archived": "https://web.archive.org/web/20250316163759/https://spidermedia.ru/news/otkryt-predzakaz-na-persepolis",
+  "tags": [
+    "persepolis",
+    "marzhan-satrapi",
+    "zarubezhnye-komiksy-na-russkom",
+    "boomkniga"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

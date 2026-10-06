@@ -4,6 +4,12 @@
   "url": "/blog/ghost-knight/komiks-nedeli-07022009/",
   "original_url": "http://spidermedia.ru/blog/ghost-knight/komiks-nedeli-07022009",
   "archived": "https://web.archive.org/web/20250814211552/http://spidermedia.ru/blog/ghost-knight/komiks-nedeli-07022009",
+  "tags": [
+    "marvel",
+    "recenziya",
+    "thunderbolts",
+    "komiksy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

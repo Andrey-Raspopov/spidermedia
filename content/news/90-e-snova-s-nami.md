@@ -4,6 +4,19 @@
   "url": "/news/90-e-snova-s-nami/",
   "original_url": "http://spidermedia.ru/news/90-e-snova-s-nami",
   "archived": "https://web.archive.org/web/20260117231243/http://spidermedia.ru/news/90-e-snova-s-nami",
+  "tags": [
+    "warren-ellis",
+    "stiv-kurt",
+    "avengers",
+    "mark-millar",
+    "karlos-pacheko",
+    "devid-lafuente",
+    "brian-michael-bendis",
+    "ultimate",
+    "marvel",
+    "iron-man",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

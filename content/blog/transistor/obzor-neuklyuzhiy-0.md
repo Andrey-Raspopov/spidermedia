@@ -4,6 +4,11 @@
   "url": "/blog/transistor/obzor-neuklyuzhiy-0/",
   "original_url": "http://spidermedia.ru/blog/transistor/obzor-neuklyuzhiy-0",
   "archived": "https://web.archive.org/web/20260206215548/http://spidermedia.ru/blog/transistor/obzor-neuklyuzhiy-0",
+  "tags": [
+    "obzor",
+    "zarubezhnye-komiksy-na-russkom",
+    "boomkniga"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

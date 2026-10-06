@@ -4,6 +4,9 @@
   "url": "/news/laureaty-premii-aznera-2013/",
   "original_url": "http://spidermedia.ru/news/laureaty-premii-aznera-2013",
   "archived": "https://web.archive.org/web/20191228200925/http://spidermedia.ru:80/news/laureaty-premii-aznera-2013",
+  "tags": [
+    "eisner-awards"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

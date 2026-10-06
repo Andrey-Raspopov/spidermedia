@@ -4,6 +4,13 @@
   "url": "/news/igray-i-uchis-s-tellos/",
   "original_url": "http://spidermedia.ru/news/igray-i-uchis-s-tellos",
   "archived": "https://web.archive.org/web/20251206021143/http://spidermedia.ru/news/igray-i-uchis-s-tellos",
+  "tags": [
+    "tellos",
+    "majk-vajringo",
+    "izdatelstvo-komiks",
+    "zarubezhnye-komiksy-na-russkom",
+    "image-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

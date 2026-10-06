@@ -4,6 +4,10 @@
   "url": "/news/panel-marvel-studios-kevin-faygi/",
   "original_url": "http://spidermedia.ru/news/panel-marvel-studios-kevin-faygi",
   "archived": "https://web.archive.org/web/20250216231407/http://spidermedia.ru/news/panel-marvel-studios-kevin-faygi",
+  "tags": [
+    "marvel",
+    "preview"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

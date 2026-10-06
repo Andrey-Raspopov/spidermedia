@@ -4,6 +4,11 @@
   "url": "/blog/samm-o/plohie-komiksy-inc-no1-dzhubili-sosyot-iks-23-ne-propustite/",
   "original_url": "http://spidermedia.ru/blog/samm-o/plohie-komiksy-inc-no1-dzhubili-sosyot-iks-23-ne-propustite",
   "archived": "https://web.archive.org/web/20120610051814/http://spidermedia.ru/blog/samm-o/plohie-komiksy-inc-no1-dzhubili-sosyot-iks-23-ne-propustite",
+  "tags": [
+    "komiksy",
+    "marvel",
+    "plohie-komiksy-inc"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

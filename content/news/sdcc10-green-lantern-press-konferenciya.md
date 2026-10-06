@@ -4,6 +4,15 @@
   "url": "/news/sdcc10-green-lantern-press-konferenciya/",
   "original_url": "http://spidermedia.ru/news/sdcc10-green-lantern-press-konferenciya",
   "archived": "https://web.archive.org/web/20120608153515/http://spidermedia.ru/news/sdcc10-green-lantern-press-konferenciya",
+  "tags": [
+    "dc-comics",
+    "green-lantern",
+    "sdcc-2010",
+    "zelenyy-fonar",
+    "intervyu",
+    "kino",
+    "komik-kon-v-san-diego"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

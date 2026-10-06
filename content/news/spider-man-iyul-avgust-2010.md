@@ -4,6 +4,11 @@
   "url": "/news/spider-man-iyul-avgust-2010/",
   "original_url": "https://spidermedia.ru/news/spider-man-iyul-avgust-2010",
   "archived": "https://web.archive.org/web/20250214235953/https://spidermedia.ru/news/spider-man-iyul-avgust-2010",
+  "tags": [
+    "art-0",
+    "marvel",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,19 @@
   "url": "/news/zheleznyy-yanvar/",
   "original_url": "https://spidermedia.ru/news/zheleznyy-yanvar",
   "archived": "https://web.archive.org/web/20251019001655/https://spidermedia.ru/news/zheleznyy-yanvar",
+  "tags": [
+    "iron-man",
+    "whiplash",
+    "knut",
+    "matt-fraction",
+    "salvador-larroka",
+    "piter-devid",
+    "shon-chen",
+    "mark-guggenhajm",
+    "brendon-peterson",
+    "marvel",
+    "preview"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

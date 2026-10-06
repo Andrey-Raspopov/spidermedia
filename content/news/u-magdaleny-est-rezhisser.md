@@ -4,6 +4,10 @@
   "url": "/news/u-magdaleny-est-rezhisser/",
   "original_url": "http://spidermedia.ru/news/u-magdaleny-est-rezhisser",
   "archived": "https://web.archive.org/web/20160427032943/http://spidermedia.ru/news/u-magdaleny-est-rezhisser",
+  "tags": [
+    "top-cow",
+    "magdalena"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

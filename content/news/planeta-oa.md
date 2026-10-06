@@ -4,6 +4,11 @@
   "url": "/news/planeta-oa/",
   "original_url": "https://spidermedia.ru/news/planeta-oa",
   "archived": "https://web.archive.org/web/20260211185346/https://spidermedia.ru/news/planeta-oa",
+  "tags": [
+    "art-0",
+    "green-lantern",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

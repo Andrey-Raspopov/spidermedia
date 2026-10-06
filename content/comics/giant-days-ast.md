@@ -4,6 +4,10 @@
   "url": "/comics/giant-days-ast/",
   "original_url": "http://spidermedia.ru/comics/giant-days-ast",
   "archived": "https://web.archive.org/web/20250909134317/http://spidermedia.ru/comics/giant-days-ast",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "ast"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

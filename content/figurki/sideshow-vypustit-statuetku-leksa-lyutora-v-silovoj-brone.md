@@ -4,6 +4,10 @@
   "url": "/figurki/sideshow-vypustit-statuetku-leksa-lyutora-v-silovoj-brone/",
   "original_url": "http://spidermedia.ru/figurki/sideshow-vypustit-statuetku-leksa-lyutora-v-silovoj-brone",
   "archived": "https://web.archive.org/web/20251115030032/http://spidermedia.ru/figurki/sideshow-vypustit-statuetku-leksa-lyutora-v-silovoj-brone",
+  "tags": [
+    "dc-comics",
+    "lex-luthor"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

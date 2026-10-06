@@ -4,6 +4,17 @@
   "url": "/news/kesada-seyl-i-kessedi/",
   "original_url": "http://spidermedia.ru/news/kesada-seyl-i-kessedi",
   "archived": "https://web.archive.org/web/20260313121134/http://spidermedia.ru/news/kesada-seyl-i-kessedi",
+  "tags": [
+    "ed-brubaker",
+    "dzhon-kessedi",
+    "dzho-kesada",
+    "bryan-hitch",
+    "art-0",
+    "reborn",
+    "marvel",
+    "iron-man",
+    "captain-america"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

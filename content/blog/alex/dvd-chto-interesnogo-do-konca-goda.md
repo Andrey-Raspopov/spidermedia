@@ -4,6 +4,10 @@
   "url": "/blog/alex/dvd-chto-interesnogo-do-konca-goda/",
   "original_url": "https://spidermedia.ru/blog/alex/dvd-chto-interesnogo-do-konca-goda",
   "archived": "https://web.archive.org/web/20251006142017/https://spidermedia.ru/blog/alex/dvd-chto-interesnogo-do-konca-goda",
+  "tags": [
+    "terminator",
+    "hraniteli"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

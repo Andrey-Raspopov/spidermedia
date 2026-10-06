@@ -4,6 +4,12 @@
   "url": "/news/prevyu-moon-knight-1/",
   "original_url": "https://spidermedia.ru/news/prevyu-moon-knight-1",
   "archived": "https://web.archive.org/web/20260117224807/https://spidermedia.ru/news/prevyu-moon-knight-1",
+  "tags": [
+    "moon-knight",
+    "brian-michael-bendis",
+    "alex-maleev",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

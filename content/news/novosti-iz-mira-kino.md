@@ -4,6 +4,20 @@
   "url": "/news/novosti-iz-mira-kino/",
   "original_url": "https://spidermedia.ru/news/novosti-iz-mira-kino",
   "archived": "https://web.archive.org/web/20241102084750/https://spidermedia.ru/news/novosti-iz-mira-kino",
+  "tags": [
+    "iron-man",
+    "avengers",
+    "wolverine",
+    "thor",
+    "captain-america",
+    "nick-fury",
+    "afrodita-iks",
+    "nik-fyuri",
+    "suicide-squad",
+    "gorod-grehov",
+    "brian-bolland",
+    "x-men"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

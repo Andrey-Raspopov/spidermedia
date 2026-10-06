@@ -4,6 +4,19 @@
   "url": "/news/seks-v-bolshom-marvel/",
   "original_url": "http://spidermedia.ru/news/seks-v-bolshom-marvel",
   "archived": "https://web.archive.org/web/20170605030730/http://spidermedia.ru:80/news/seks-v-bolshom-marvel",
+  "tags": [
+    "marvel",
+    "hellcat",
+    "skott-kempbell",
+    "roberto-agirre-sakasa",
+    "chernaya-koshka",
+    "adskaya-koshka",
+    "foton",
+    "ognennaya-zvezda",
+    "black-cat",
+    "photon",
+    "firestar"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/news/tim-ap-s-aavramom-linkolnom/",
   "original_url": "http://spidermedia.ru/news/tim-ap-s-aavramom-linkolnom",
   "archived": "https://web.archive.org/web/20150426182232/http://spidermedia.ru/news/tim-ap-s-aavramom-linkolnom",
+  "tags": [
+    "mett-frakshen",
+    "marvel-comics",
+    "kapitan-amerika",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/comics/roskomnadzor-brace-yourself/",
   "original_url": "https://spidermedia.ru/comics/roskomnadzor-brace-yourself",
   "archived": "https://web.archive.org/web/20260307053923/https://spidermedia.ru/comics/roskomnadzor-brace-yourself",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "roskomnadzor",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,16 @@
   "url": "/blog/deadpoolic/vs-overlook-1/",
   "original_url": "http://spidermedia.ru/blog/deadpoolic/vs-overlook-1",
   "archived": "https://web.archive.org/web/20111019051914/http://spidermedia.ru/blog/deadpoolic/vs-overlook-1",
+  "tags": [
+    "dark-avengers",
+    "image-comics",
+    "marvel",
+    "shadowline",
+    "spider-man",
+    "terror-inc",
+    "komiksy",
+    "chelovek-pauk"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

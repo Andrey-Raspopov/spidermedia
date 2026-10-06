@@ -4,6 +4,10 @@
   "url": "/news/v-rossii-izdan-komiks-mass-effect-evolyuciya/",
   "original_url": "https://spidermedia.ru/news/v-rossii-izdan-komiks-mass-effect-evolyuciya",
   "archived": "https://web.archive.org/web/20220626074815/https://spidermedia.ru/news/v-rossii-izdan-komiks-mass-effect-evolyuciya",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "dark-horse"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

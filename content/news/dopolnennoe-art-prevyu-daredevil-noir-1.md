@@ -4,6 +4,14 @@
   "url": "/news/dopolnennoe-art-prevyu-daredevil-noir-1/",
   "original_url": "http://spidermedia.ru/news/dopolnennoe-art-prevyu-daredevil-noir-1",
   "archived": "https://web.archive.org/web/20200217104414/http://spidermedia.ru:80/news/dopolnennoe-art-prevyu-daredevil-noir-1",
+  "tags": [
+    "preview",
+    "dardevil",
+    "art-0",
+    "noirverse",
+    "marvel",
+    "daredevil"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

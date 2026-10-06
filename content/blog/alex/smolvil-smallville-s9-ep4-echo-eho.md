@@ -4,6 +4,13 @@
   "url": "/blog/alex/smolvil-smallville-s9-ep4-echo-eho/",
   "original_url": "https://spidermedia.ru/blog/alex/smolvil-smallville-s9-ep4-echo-eho",
   "archived": "https://web.archive.org/web/20250909134840/https://spidermedia.ru/blog/alex/smolvil-smallville-s9-ep4-echo-eho",
+  "tags": [
+    "smallville",
+    "smollvill",
+    "superman",
+    "tajny-smollvillya",
+    "serialy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

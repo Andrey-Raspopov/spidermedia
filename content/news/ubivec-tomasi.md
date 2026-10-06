@@ -4,6 +4,15 @@
   "url": "/news/ubivec-tomasi/",
   "original_url": "https://spidermedia.ru/news/ubivec-tomasi",
   "archived": "https://web.archive.org/web/20250807221935/https://spidermedia.ru/news/ubivec-tomasi",
+  "tags": [
+    "dc-comics",
+    "blackest-night",
+    "peter-j.-tomasi",
+    "intervyu",
+    "temnejshaya-noch",
+    "piter-tomasi",
+    "green-lantern"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

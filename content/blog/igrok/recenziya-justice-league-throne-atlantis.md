@@ -4,6 +4,10 @@
   "url": "/blog/igrok/recenziya-justice-league-throne-atlantis/",
   "original_url": "http://spidermedia.ru/blog/igrok/recenziya-justice-league-throne-atlantis",
   "archived": "https://web.archive.org/web/20250906074240/http://spidermedia.ru/blog/igrok/recenziya-justice-league-throne-atlantis",
+  "tags": [
+    "recenziya",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

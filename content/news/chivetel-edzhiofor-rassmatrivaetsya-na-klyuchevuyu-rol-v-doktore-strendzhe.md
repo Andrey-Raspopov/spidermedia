@@ -4,6 +4,11 @@
   "url": "/news/chivetel-edzhiofor-rassmatrivaetsya-na-klyuchevuyu-rol-v-doktore-strendzhe/",
   "original_url": "http://spidermedia.ru/news/chivetel-edzhiofor-rassmatrivaetsya-na-klyuchevuyu-rol-v-doktore-strendzhe",
   "archived": "https://web.archive.org/web/20251216120332/http://spidermedia.ru/news/chivetel-edzhiofor-rassmatrivaetsya-na-klyuchevuyu-rol-v-doktore-strendzhe",
+  "tags": [
+    "marvel",
+    "kasting",
+    "doctor-strange"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/podcast/gol-d-panels-saga-10-part-2-wano-country-act-ii/",
   "original_url": "https://spidermedia.ru/podcast/gol-d-panels-saga-10-part-2-wano-country-act-ii",
   "archived": "https://web.archive.org/web/20260217211151/https://spidermedia.ru/podcast/gol-d-panels-saga-10-part-2-wano-country-act-ii",
+  "tags": [
+    "gold-panels",
+    "on-panels"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

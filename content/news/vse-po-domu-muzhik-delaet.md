@@ -4,6 +4,12 @@
   "url": "/news/vse-po-domu-muzhik-delaet/",
   "original_url": "http://spidermedia.ru/news/vse-po-domu-muzhik-delaet",
   "archived": "https://web.archive.org/web/20120609051608/http://spidermedia.ru/news/vse-po-domu-muzhik-delaet",
+  "tags": [
+    "dc-comics",
+    "jim-starlin",
+    "strange-adventures",
+    "art-0"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

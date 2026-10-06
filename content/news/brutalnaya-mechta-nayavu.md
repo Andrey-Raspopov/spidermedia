@@ -4,6 +4,14 @@
   "url": "/news/brutalnaya-mechta-nayavu/",
   "original_url": "http://spidermedia.ru/news/brutalnaya-mechta-nayavu",
   "archived": "https://web.archive.org/web/20190816181437/http://spidermedia.ru:80/news/brutalnaya-mechta-nayavu",
+  "tags": [
+    "steve-dillon",
+    "kingpin",
+    "punisher",
+    "dzheyson-aaron",
+    "art-0",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

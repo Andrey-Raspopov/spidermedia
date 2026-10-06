@@ -4,6 +4,11 @@
   "url": "/news/trio-0/",
   "original_url": "http://spidermedia.ru/news/trio-0",
   "archived": "https://web.archive.org/web/20250807001918/http://spidermedia.ru/news/trio-0",
+  "tags": [
+    "dzhonatan-hikman",
+    "stiv-epting",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

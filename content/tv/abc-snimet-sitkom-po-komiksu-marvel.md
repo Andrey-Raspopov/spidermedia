@@ -4,6 +4,9 @@
   "url": "/tv/abc-snimet-sitkom-po-komiksu-marvel/",
   "original_url": "https://spidermedia.ru/tv/abc-snimet-sitkom-po-komiksu-marvel",
   "archived": "https://web.archive.org/web/20250717192113/https://spidermedia.ru/tv/abc-snimet-sitkom-po-komiksu-marvel",
+  "tags": [
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

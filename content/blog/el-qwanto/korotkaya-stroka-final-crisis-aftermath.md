@@ -4,6 +4,10 @@
   "url": "/blog/el-qwanto/korotkaya-stroka-final-crisis-aftermath/",
   "original_url": "https://spidermedia.ru/blog/el-qwanto/korotkaya-stroka-final-crisis-aftermath",
   "archived": "https://web.archive.org/web/20260215072925/https://spidermedia.ru/blog/el-qwanto/korotkaya-stroka-final-crisis-aftermath",
+  "tags": [
+    "final-crisis",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

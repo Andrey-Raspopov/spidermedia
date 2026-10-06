@@ -4,6 +4,9 @@
   "url": "/blog/plane-v/you-there-eyes/",
   "original_url": "http://spidermedia.ru/blog/plane-v/you-there-eyes",
   "archived": "https://web.archive.org/web/20191228033105/http://spidermedia.ru:80/blog/plane-v/you-there-eyes",
+  "tags": [
+    "art-0"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

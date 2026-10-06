@@ -4,6 +4,10 @@
   "url": "/comics/best-column-about-comics-21-panther/",
   "original_url": "http://spidermedia.ru/comics/best-column-about-comics-21-panther",
   "archived": "https://web.archive.org/web/20251205115815/http://spidermedia.ru/comics/best-column-about-comics-21-panther",
+  "tags": [
+    "best-column-about-comics",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

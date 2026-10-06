@@ -4,6 +4,10 @@
   "url": "/comics/dedpul-2099-obzavedetsya-sobstvennoj-seriej-singlov/",
   "original_url": "http://spidermedia.ru/comics/dedpul-2099-obzavedetsya-sobstvennoj-seriej-singlov",
   "archived": "https://web.archive.org/web/20250424095713/http://spidermedia.ru/comics/dedpul-2099-obzavedetsya-sobstvennoj-seriej-singlov",
+  "tags": [
+    "marvel",
+    "deadpool"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

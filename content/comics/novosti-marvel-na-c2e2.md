@@ -4,6 +4,16 @@
   "url": "/comics/novosti-marvel-na-c2e2/",
   "original_url": "http://spidermedia.ru/comics/novosti-marvel-na-c2e2",
   "archived": "https://web.archive.org/web/20260209121208/http://spidermedia.ru/comics/novosti-marvel-na-c2e2",
+  "tags": [
+    "loki",
+    "marvel",
+    "deadpool",
+    "iron-man",
+    "zvezdnye-vojny",
+    "captain-marvel",
+    "spider-man",
+    "civil-war"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/news/vokrug-sveta-s-vosemyu-shchupalcami/",
   "original_url": "https://spidermedia.ru/news/vokrug-sveta-s-vosemyu-shchupalcami",
   "archived": "https://web.archive.org/web/20250618124319/https://spidermedia.ru/news/vokrug-sveta-s-vosemyu-shchupalcami",
+  "tags": [
+    "spider-man",
+    "den-slott",
+    "stefano-kaselli",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,13 @@
   "url": "/blog/alex/smollvill-smallville-s8-ep18-eternal-bessmertnyy/",
   "original_url": "https://spidermedia.ru/blog/alex/smollvill-smallville-s8-ep18-eternal-bessmertnyy",
   "archived": "https://web.archive.org/web/20251208074302/https://spidermedia.ru/blog/alex/smollvill-smallville-s8-ep18-eternal-bessmertnyy",
+  "tags": [
+    "smallville",
+    "serialy",
+    "superman",
+    "smollvill",
+    "tajny-smollvillya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/news/amazing-spider-man-2-rise-of-electro-official-trailer-2013/",
   "original_url": "https://spidermedia.ru/news/amazing-spider-man-2-rise-of-electro-official-trailer-2013",
   "archived": "https://web.archive.org/web/20240807003858/https://spidermedia.ru/news/amazing-spider-man-2-rise-of-electro-official-trailer-2013",
+  "tags": [
+    "spider-man",
+    "trejlery",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

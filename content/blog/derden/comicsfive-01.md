@@ -4,6 +4,11 @@
   "url": "/blog/derden/comicsfive-01/",
   "original_url": "http://spidermedia.ru/blog/derden/comicsfive-01",
   "archived": "https://web.archive.org/web/20240422185408/http://spidermedia.ru/blog/derden/comicsfive-01",
+  "tags": [
+    "rob-zombi",
+    "toni-harris",
+    "warren-ellis"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

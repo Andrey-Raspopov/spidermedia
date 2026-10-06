@@ -4,6 +4,18 @@
   "url": "/news/ponabezhali-tut/",
   "original_url": "http://spidermedia.ru/news/ponabezhali-tut",
   "archived": "https://web.archive.org/web/20251205115500/http://spidermedia.ru/news/ponabezhali-tut",
+  "tags": [
+    "marvel",
+    "wolverine",
+    "devid-lafuente",
+    "runaways",
+    "dzhejms-ezmus",
+    "molly-hayes",
+    "emma-rios",
+    "sara-pichelli",
+    "kris-jost",
+    "beglecy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

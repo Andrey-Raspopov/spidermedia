@@ -4,6 +4,14 @@
   "url": "/blog/larosh/constantine-s01e12-angels-and-ministers-grace-mnenie-redakcii/",
   "original_url": "http://spidermedia.ru/blog/larosh/constantine-s01e12-angels-and-ministers-grace-mnenie-redakcii",
   "archived": "https://web.archive.org/web/20251206160832/http://spidermedia.ru/blog/larosh/constantine-s01e12-angels-and-ministers-grace-mnenie-redakcii",
+  "tags": [
+    "serialy",
+    "obzor",
+    "dzhon-konstantin",
+    "vertigo",
+    "dc-comics",
+    "constantine"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

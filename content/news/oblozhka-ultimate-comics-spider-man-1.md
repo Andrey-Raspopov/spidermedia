@@ -4,6 +4,13 @@
   "url": "/news/oblozhka-ultimate-comics-spider-man-1/",
   "original_url": "http://spidermedia.ru/news/oblozhka-ultimate-comics-spider-man-1",
   "archived": "https://web.archive.org/web/20251208074155/http://spidermedia.ru/news/oblozhka-ultimate-comics-spider-man-1",
+  "tags": [
+    "devid-lafuente",
+    "ultimate",
+    "marvel",
+    "david-lafuente",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

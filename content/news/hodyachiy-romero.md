@@ -4,6 +4,11 @@
   "url": "/news/hodyachiy-romero/",
   "original_url": "http://spidermedia.ru/news/hodyachiy-romero",
   "archived": "https://web.archive.org/web/20190822005801/http://spidermedia.ru:80/news/hodyachiy-romero",
+  "tags": [
+    "dzhordzh-romero",
+    "alex-maleev",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

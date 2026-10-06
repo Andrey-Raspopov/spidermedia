@@ -4,6 +4,14 @@
   "url": "/news/hulk-noyabr-i-dekabr-2009/",
   "original_url": "http://spidermedia.ru/news/hulk-noyabr-i-dekabr-2009",
   "archived": "https://web.archive.org/web/20170424074004/http://spidermedia.ru:80/news/hulk-noyabr-i-dekabr-2009",
+  "tags": [
+    "syn-halka",
+    "skaar",
+    "bryus-benner",
+    "son-of-hulk",
+    "marvel",
+    "halk"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

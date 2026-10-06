@@ -4,6 +4,16 @@
   "url": "/news/po-doroge-k-yubileyu/",
   "original_url": "https://spidermedia.ru/news/po-doroge-k-yubileyu",
   "archived": "https://web.archive.org/web/20240620115600/https://spidermedia.ru/news/po-doroge-k-yubileyu",
+  "tags": [
+    "x-men",
+    "x-factor",
+    "piter-devid",
+    "marvel",
+    "layla-miller",
+    "lajla-miller",
+    "shaterstar",
+    "shatterstar"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

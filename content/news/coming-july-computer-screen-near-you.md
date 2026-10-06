@@ -4,6 +4,14 @@
   "url": "/news/coming-july-computer-screen-near-you/",
   "original_url": "http://spidermedia.ru/news/coming-july-computer-screen-near-you",
   "archived": "https://web.archive.org/web/20260211191354/http://spidermedia.ru/news/coming-july-computer-screen-near-you",
+  "tags": [
+    "ed-brubaker",
+    "stiv-makniven",
+    "marvel",
+    "steve-rogers",
+    "steve-mcniven",
+    "captain-america"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

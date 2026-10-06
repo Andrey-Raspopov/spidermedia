@@ -4,6 +4,12 @@
   "url": "/blog/bastion7/recenziya-kid-eternity/",
   "original_url": "http://spidermedia.ru/blog/bastion7/recenziya-kid-eternity",
   "archived": "https://web.archive.org/web/20251211035559/http://spidermedia.ru/blog/bastion7/recenziya-kid-eternity",
+  "tags": [
+    "dc-comics",
+    "recenziya",
+    "grant-morrison",
+    "vertigo"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/news/koncepty-zelenogo-fonarya/",
   "original_url": "http://spidermedia.ru/news/koncepty-zelenogo-fonarya",
   "archived": "https://web.archive.org/web/20120718064752/http://spidermedia.ru/news/koncepty-zelenogo-fonarya",
+  "tags": [
+    "green-lantern",
+    "art-0",
+    "zelenyy-fonar",
+    "kino"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

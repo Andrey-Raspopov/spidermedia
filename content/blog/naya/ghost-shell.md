@@ -4,6 +4,10 @@
   "url": "/blog/naya/ghost-shell/",
   "original_url": "https://spidermedia.ru/blog/naya/ghost-shell",
   "archived": "https://web.archive.org/web/20251211023404/https://spidermedia.ru/blog/naya/ghost-shell",
+  "tags": [
+    "sci-fi",
+    "manga"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

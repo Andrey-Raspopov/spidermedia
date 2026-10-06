@@ -4,6 +4,21 @@
   "url": "/news/ultimate-comics-v-marte/",
   "original_url": "http://spidermedia.ru/news/ultimate-comics-v-marte",
   "archived": "https://web.archive.org/web/20260208194031/http://spidermedia.ru/news/ultimate-comics-v-marte",
+  "tags": [
+    "ed-makginnes",
+    "frenk-cho",
+    "rafa-sendoval",
+    "lejnil-frensis-yu",
+    "devid-lafuente",
+    "dzhef-loeb",
+    "ultimate",
+    "rafael-sandoval",
+    "jeph-loeb",
+    "frank-cho",
+    "ed-mcguinness",
+    "david-lafuente",
+    "brian-michael-bendis"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

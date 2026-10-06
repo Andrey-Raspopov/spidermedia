@@ -4,6 +4,13 @@
   "url": "/news/image-expo-2015-novye-proekty-brayana-k-vona/",
   "original_url": "https://spidermedia.ru/news/image-expo-2015-novye-proekty-brayana-k-vona",
   "archived": "https://web.archive.org/web/20260115064654/https://spidermedia.ru/news/image-expo-2015-novye-proekty-brayana-k-vona",
+  "tags": [
+    "stiv-skros",
+    "kliff-chiang",
+    "image-comics",
+    "image-expo",
+    "brian-k-vaughan"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

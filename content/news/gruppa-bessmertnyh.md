@@ -4,6 +4,14 @@
   "url": "/news/gruppa-bessmertnyh/",
   "original_url": "http://spidermedia.ru/news/gruppa-bessmertnyh",
   "archived": "https://web.archive.org/web/20170425103414/http://spidermedia.ru:80/news/gruppa-bessmertnyh",
+  "tags": [
+    "marvel",
+    "dzheyson-aaron",
+    "duejn-sverchinski",
+    "iron-fist",
+    "immortal-weapons",
+    "bessmertnye-oruzhiya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

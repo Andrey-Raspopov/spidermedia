@@ -4,6 +4,9 @@
   "url": "/news/hellboymedia-news-september-14-solicitations/",
   "original_url": "http://spidermedia.ru/news/hellboymedia-news-september-14-solicitations",
   "archived": "https://web.archive.org/web/20260121013917/http://spidermedia.ru/news/hellboymedia-news-september-14-solicitations",
+  "tags": [
+    "hellboymedia"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

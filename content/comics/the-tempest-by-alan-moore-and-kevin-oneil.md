@@ -4,6 +4,13 @@
   "url": "/comics/the-tempest-by-alan-moore-and-kevin-oneil/",
   "original_url": "https://spidermedia.ru/comics/the-tempest-by-alan-moore-and-kevin-oneil",
   "archived": "https://web.archive.org/web/20260121015106/https://spidermedia.ru/comics/the-tempest-by-alan-moore-and-kevin-oneil",
+  "tags": [
+    "top-shelf-productions",
+    "alan-mur",
+    "kevin-onil",
+    "liga-vydayushhihsya-dzhentlmenov",
+    "san-diego-comic-con-international"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

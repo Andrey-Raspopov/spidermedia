@@ -4,6 +4,15 @@
   "url": "/news/pervyy-vzglyad-na-ultimate-comics-x-men/",
   "original_url": "http://spidermedia.ru/news/pervyy-vzglyad-na-ultimate-comics-x-men",
   "archived": "https://web.archive.org/web/20260306000536/http://spidermedia.ru/news/pervyy-vzglyad-na-ultimate-comics-x-men",
+  "tags": [
+    "preview",
+    "pako-medina",
+    "nik-spenser",
+    "x-men",
+    "art-0",
+    "ultimate",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/news/ya-risuyu-na-asfalte-belym-melom-slovo-hvatit/",
   "original_url": "http://spidermedia.ru/news/ya-risuyu-na-asfalte-belym-melom-slovo-hvatit",
   "archived": "https://web.archive.org/web/20200221074341/http://spidermedia.ru:80/news/ya-risuyu-na-asfalte-belym-melom-slovo-hvatit",
+  "tags": [
+    "nablyudatel",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

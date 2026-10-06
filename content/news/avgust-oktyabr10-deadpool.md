@@ -4,6 +4,12 @@
   "url": "/news/avgust-oktyabr10-deadpool/",
   "original_url": "http://spidermedia.ru/news/avgust-oktyabr10-deadpool",
   "archived": "https://web.archive.org/web/20251106231840/http://spidermedia.ru/news/avgust-oktyabr10-deadpool",
+  "tags": [
+    "relizy",
+    "deadpool",
+    "x-men",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

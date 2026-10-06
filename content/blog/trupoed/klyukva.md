@@ -4,6 +4,11 @@
   "url": "/blog/trupoed/klyukva/",
   "original_url": "http://spidermedia.ru/blog/trupoed/klyukva",
   "archived": "https://web.archive.org/web/20260125070819/http://spidermedia.ru/blog/trupoed/klyukva",
+  "tags": [
+    "klyukva",
+    "kartinki",
+    "sal-abbinanti"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/blog/jane-snuff/spidercast-002-jesus-aburtov/",
   "original_url": "http://spidermedia.ru/blog/jane-snuff/spidercast-002-jesus-aburtov",
   "archived": "https://web.archive.org/web/20120315155206/http://spidermedia.ru:80/blog/jane-snuff/spidercast-002-jesus-aburtov",
+  "tags": [
+    "spidercast",
+    "spidermedia",
+    "podcast"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,13 @@
   "url": "/news/mstiteli-30-novyh-kadrov/",
   "original_url": "http://spidermedia.ru/news/mstiteli-30-novyh-kadrov",
   "archived": "https://web.archive.org/web/20130619120507/http://spidermedia.ru/news/mstiteli-30-novyh-kadrov",
+  "tags": [
+    "avengers",
+    "kadry",
+    "kino",
+    "marvel",
+    "mstiteli"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

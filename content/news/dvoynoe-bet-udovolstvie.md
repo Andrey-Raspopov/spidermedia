@@ -4,6 +4,18 @@
   "url": "/news/dvoynoe-bet-udovolstvie/",
   "original_url": "https://spidermedia.ru/news/dvoynoe-bet-udovolstvie",
   "archived": "https://web.archive.org/web/20251108180707/https://spidermedia.ru/news/dvoynoe-bet-udovolstvie",
+  "tags": [
+    "dc-comics",
+    "batman",
+    "preview",
+    "dzhadd-vinik",
+    "krasnyj-robin",
+    "red-robin",
+    "kris-jost",
+    "judd-winick",
+    "ed-benes",
+    "chris-yost"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/news/stala-izvestna-data-premery-sorvigolovy/",
   "original_url": "https://spidermedia.ru/news/stala-izvestna-data-premery-sorvigolovy",
   "archived": "https://web.archive.org/web/20260115052923/https://spidermedia.ru/news/stala-izvestna-data-premery-sorvigolovy",
+  "tags": [
+    "serialy",
+    "daredevil",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

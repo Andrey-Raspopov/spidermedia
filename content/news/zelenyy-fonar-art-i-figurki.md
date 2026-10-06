@@ -4,6 +4,18 @@
   "url": "/news/zelenyy-fonar-art-i-figurki/",
   "original_url": "https://spidermedia.ru/news/zelenyy-fonar-art-i-figurki",
   "archived": "https://web.archive.org/web/20260309175758/https://spidermedia.ru/news/zelenyy-fonar-art-i-figurki",
+  "tags": [
+    "hel-dzhordan",
+    "figurki",
+    "sinestro",
+    "kilovog",
+    "art-0",
+    "mattel",
+    "kilowog",
+    "hal-jordan",
+    "green-lantern",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,17 @@
   "url": "/news/ostrov-doktora-shakala/",
   "original_url": "http://spidermedia.ru/news/ostrov-doktora-shakala",
   "archived": "https://web.archive.org/web/20260123075038/http://spidermedia.ru/news/ostrov-doktora-shakala",
+  "tags": [
+    "spider-island",
+    "domovoj",
+    "hobgoblin",
+    "den-slott",
+    "kristos-gejdzh",
+    "fred-van-lente",
+    "dzhuzeppe-kamunkoli",
+    "mink-oosterveer",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

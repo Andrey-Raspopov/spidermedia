@@ -4,6 +4,19 @@
   "url": "/news/brutalnye-30-ye-cherep-dyavol-kogti/",
   "original_url": "http://spidermedia.ru/news/brutalnye-30-ye-cherep-dyavol-kogti",
   "archived": "https://web.archive.org/web/20251106235352/http://spidermedia.ru/news/brutalnye-30-ye-cherep-dyavol-kogti",
+  "tags": [
+    "marvel",
+    "wolverine",
+    "frenk-tieri",
+    "daredevil",
+    "noirverse",
+    "styuart-mur",
+    "si-pi-smit",
+    "aleksandr-irvin",
+    "tom-koker",
+    "pol-azasita",
+    "punisher"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/news/hellboymedia-news-13-dney-hellboya-obnovlyaetsya/",
   "original_url": "http://spidermedia.ru/news/hellboymedia-news-13-dney-hellboya-obnovlyaetsya",
   "archived": "https://web.archive.org/web/20260121004530/http://spidermedia.ru/news/hellboymedia-news-13-dney-hellboya-obnovlyaetsya",
+  "tags": [
+    "novosti",
+    "hellboymedia"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

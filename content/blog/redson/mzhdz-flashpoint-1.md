@@ -4,6 +4,11 @@
   "url": "/blog/redson/mzhdz-flashpoint-1/",
   "original_url": "http://spidermedia.ru/blog/redson/mzhdz-flashpoint-1",
   "archived": "https://web.archive.org/web/20260116213101/http://spidermedia.ru/blog/redson/mzhdz-flashpoint-1",
+  "tags": [
+    "mnenie",
+    "mzhdz",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

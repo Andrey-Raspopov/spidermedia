@@ -4,6 +4,11 @@
   "url": "/blog/naya/jump-square-postcard/",
   "original_url": "http://spidermedia.ru/blog/naya/jump-square-postcard",
   "archived": "https://web.archive.org/web/20251110232816/http://spidermedia.ru/blog/naya/jump-square-postcard",
+  "tags": [
+    "publishing",
+    "manga",
+    "art-0"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

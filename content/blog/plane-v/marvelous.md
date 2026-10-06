@@ -4,6 +4,11 @@
   "url": "/blog/plane-v/marvelous/",
   "original_url": "https://spidermedia.ru/blog/plane-v/marvelous",
   "archived": "https://web.archive.org/web/20260214125008/https://spidermedia.ru/blog/plane-v/marvelous",
+  "tags": [
+    "skotti-yang",
+    "art-0",
+    "wizard-of-oz"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

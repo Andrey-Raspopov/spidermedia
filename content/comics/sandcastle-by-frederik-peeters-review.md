@@ -4,6 +4,9 @@
   "url": "/comics/sandcastle-by-frederik-peeters-review/",
   "original_url": "http://spidermedia.ru/comics/sandcastle-by-frederik-peeters-review",
   "archived": "https://web.archive.org/web/20250913020042/http://spidermedia.ru/comics/sandcastle-by-frederik-peeters-review",
+  "tags": [
+    "boomkniga"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

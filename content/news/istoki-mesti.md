@@ -4,6 +4,18 @@
   "url": "/news/istoki-mesti/",
   "original_url": "http://spidermedia.ru/news/istoki-mesti",
   "archived": "https://web.archive.org/web/20260214144227/http://spidermedia.ru/news/istoki-mesti",
+  "tags": [
+    "charli-hyuston",
+    "tomas-pichchirilli",
+    "peter-milligan",
+    "lourens-kembell",
+    "ken-leshli",
+    "punisher",
+    "duejn-sverchinski",
+    "dejv-dzhonson",
+    "greg-hurvitc",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

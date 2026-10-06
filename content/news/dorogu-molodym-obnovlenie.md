@@ -4,6 +4,16 @@
   "url": "/news/dorogu-molodym-obnovlenie/",
   "original_url": "https://spidermedia.ru/news/dorogu-molodym-obnovlenie",
   "archived": "https://web.archive.org/web/20251115024330/https://spidermedia.ru/news/dorogu-molodym-obnovlenie",
+  "tags": [
+    "sibi-cebulski",
+    "piter-devid",
+    "molodye-stvoly",
+    "mark-guggenhajm",
+    "majk-keri",
+    "brajan-linch",
+    "young-guns",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

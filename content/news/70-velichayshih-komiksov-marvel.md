@@ -4,6 +4,9 @@
   "url": "/news/70-velichayshih-komiksov-marvel/",
   "original_url": "http://spidermedia.ru/news/70-velichayshih-komiksov-marvel",
   "archived": "https://web.archive.org/web/20170827214323/http://spidermedia.ru:80/news/70-velichayshih-komiksov-marvel",
+  "tags": [
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

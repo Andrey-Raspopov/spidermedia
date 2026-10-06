@@ -4,6 +4,16 @@
   "url": "/news/zombi-protiv-nechisti/",
   "original_url": "http://spidermedia.ru/news/zombi-protiv-nechisti",
   "archived": "https://web.archive.org/web/20120607154146/http://spidermedia.ru/news/zombi-protiv-nechisti",
+  "tags": [
+    "marvel-zombies",
+    "midnight-sons",
+    "deti-polnochi",
+    "komiksy",
+    "marvel",
+    "marvel-zombi",
+    "oblozhki",
+    "preview-s"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

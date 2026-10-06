@@ -4,6 +4,10 @@
   "url": "/news/v-rossiyskoy-akademii-poyavitsya-kafedra-komiksov-i-mangi/",
   "original_url": "https://spidermedia.ru/news/v-rossiyskoy-akademii-poyavitsya-kafedra-komiksov-i-mangi",
   "archived": "https://web.archive.org/web/20241106075043/https://spidermedia.ru/news/v-rossiyskoy-akademii-poyavitsya-kafedra-komiksov-i-mangi",
+  "tags": [
+    "russian-comics",
+    "novosti"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

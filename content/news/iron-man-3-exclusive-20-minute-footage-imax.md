@@ -4,6 +4,11 @@
   "url": "/news/iron-man-3-exclusive-20-minute-footage-imax/",
   "original_url": "https://spidermedia.ru/news/iron-man-3-exclusive-20-minute-footage-imax",
   "archived": "https://web.archive.org/web/20241205112527/https://spidermedia.ru/news/iron-man-3-exclusive-20-minute-footage-imax",
+  "tags": [
+    "marvel",
+    "iron-man",
+    "viktorina"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

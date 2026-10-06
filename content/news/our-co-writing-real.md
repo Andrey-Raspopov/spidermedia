@@ -4,6 +4,13 @@
   "url": "/news/our-co-writing-real/",
   "original_url": "http://spidermedia.ru/news/our-co-writing-real",
   "archived": "https://web.archive.org/web/20260116221639/http://spidermedia.ru/news/our-co-writing-real",
+  "tags": [
+    "dzhonatan-hikman",
+    "sem-hampris",
+    "ultimates",
+    "ultimate",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,16 @@
   "url": "/news/zelenoe-semeystvo/",
   "original_url": "http://spidermedia.ru/news/zelenoe-semeystvo",
   "archived": "https://web.archive.org/web/20250909141227/http://spidermedia.ru/news/zelenoe-semeystvo",
+  "tags": [
+    "smallville",
+    "jsa",
+    "tajny-smollvillya",
+    "smollvill",
+    "geoff-johns",
+    "obshhestvo-spravedlivosti-ameriki",
+    "dc-comics",
+    "green-arrow"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

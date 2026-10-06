@@ -4,6 +4,12 @@
   "url": "/news/brand-new-day-v-2010/",
   "original_url": "http://spidermedia.ru/news/brand-new-day-v-2010",
   "archived": "https://web.archive.org/web/20190731041655/http://spidermedia.ru:80/news/brand-new-day-v-2010",
+  "tags": [
+    "paskal-ferri",
+    "art-0",
+    "marvel",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

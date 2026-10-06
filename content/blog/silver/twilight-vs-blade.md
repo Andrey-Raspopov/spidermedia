@@ -4,6 +4,13 @@
   "url": "/blog/silver/twilight-vs-blade/",
   "original_url": "http://spidermedia.ru/blog/silver/twilight-vs-blade",
   "archived": "https://web.archive.org/web/20120607171538/http://spidermedia.ru/blog/silver/twilight-vs-blade",
+  "tags": [
+    "blade",
+    "bleyd",
+    "kino",
+    "komiksy",
+    "marvel"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

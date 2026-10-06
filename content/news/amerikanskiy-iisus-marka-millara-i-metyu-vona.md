@@ -4,6 +4,15 @@
   "url": "/news/amerikanskiy-iisus-marka-millara-i-metyu-vona/",
   "original_url": "http://spidermedia.ru/news/amerikanskiy-iisus-marka-millara-i-metyu-vona",
   "archived": "https://web.archive.org/web/20120608210942/http://spidermedia.ru/news/amerikanskiy-iisus-marka-millara-i-metyu-vona",
+  "tags": [
+    "american-jesus",
+    "chosen",
+    "dark-horse",
+    "kino",
+    "komiksy",
+    "mark-millar",
+    "mettyu-von"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

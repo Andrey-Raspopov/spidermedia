@@ -4,6 +4,16 @@
   "url": "/news/detective-action-comics/",
   "original_url": "https://spidermedia.ru/news/detective-action-comics",
   "archived": "https://web.archive.org/web/20260309181944/https://spidermedia.ru/news/detective-action-comics",
+  "tags": [
+    "dc-comics",
+    "greg-rakka",
+    "nightwing",
+    "detective-comics",
+    "superman",
+    "flamebird",
+    "question",
+    "kalli-hemner"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

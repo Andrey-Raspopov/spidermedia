@@ -4,6 +4,13 @@
   "url": "/news/tma-i-uzhas/",
   "original_url": "http://spidermedia.ru/news/tma-i-uzhas",
   "archived": "https://web.archive.org/web/20250806085049/http://spidermedia.ru/news/tma-i-uzhas",
+  "tags": [
+    "ejb-sepien",
+    "skott-alli",
+    "sebastyan-fiumara",
+    "majk-minola",
+    "dark-horse"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

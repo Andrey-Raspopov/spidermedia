@@ -4,6 +4,14 @@
   "url": "/blog/redson/obzor-meteora-no1-0/",
   "original_url": "http://spidermedia.ru/blog/redson/obzor-meteora-no1-0",
   "archived": "https://web.archive.org/web/20260306001523/http://spidermedia.ru/blog/redson/obzor-meteora-no1-0",
+  "tags": [
+    "konstantin-tarasov",
+    "artem-gabrelyanov",
+    "bubble",
+    "meteora",
+    "obzor",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

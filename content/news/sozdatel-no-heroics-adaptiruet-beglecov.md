@@ -4,6 +4,12 @@
   "url": "/news/sozdatel-no-heroics-adaptiruet-beglecov/",
   "original_url": "http://spidermedia.ru/news/sozdatel-no-heroics-adaptiruet-beglecov",
   "archived": "https://web.archive.org/web/20260206215513/http://spidermedia.ru/news/sozdatel-no-heroics-adaptiruet-beglecov",
+  "tags": [
+    "marvel",
+    "beglecy",
+    "runaways",
+    "no-heroics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

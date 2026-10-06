@@ -4,6 +4,9 @@
   "url": "/comics/all-new-all-different-marvel-october-releases-post-secret-wars-8-months-later/",
   "original_url": "https://spidermedia.ru/comics/all-new-all-different-marvel-october-releases-post-secret-wars-8-months-later",
   "archived": "https://web.archive.org/web/20260209120707/https://spidermedia.ru/comics/all-new-all-different-marvel-october-releases-post-secret-wars-8-months-later",
+  "tags": [
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

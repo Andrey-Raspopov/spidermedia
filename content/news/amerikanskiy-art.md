@@ -4,6 +4,12 @@
   "url": "/news/amerikanskiy-art/",
   "original_url": "https://spidermedia.ru/news/amerikanskiy-art",
   "archived": "https://web.archive.org/web/20250325090421/https://spidermedia.ru/news/amerikanskiy-art",
+  "tags": [
+    "norman-ozborn",
+    "garri-ozborn",
+    "norman-osborn",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

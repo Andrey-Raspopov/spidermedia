@@ -4,6 +4,14 @@
   "url": "/news/nemezis-nachalo/",
   "original_url": "https://spidermedia.ru/news/nemezis-nachalo",
   "archived": "https://web.archive.org/web/20251205112119/https://spidermedia.ru/news/nemezis-nachalo",
+  "tags": [
+    "toni-skott",
+    "nemezis",
+    "mark-millar",
+    "tony-scott",
+    "nemesis",
+    "icon-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

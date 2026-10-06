@@ -4,6 +4,10 @@
   "url": "/comics/hellboymedia-hellboy-dinosaur/",
   "original_url": "https://spidermedia.ru/comics/hellboymedia-hellboy-dinosaur",
   "archived": "https://web.archive.org/web/20251216124002/https://spidermedia.ru/comics/hellboymedia-hellboy-dinosaur",
+  "tags": [
+    "hellboymedia",
+    "novosti"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

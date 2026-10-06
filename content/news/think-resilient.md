@@ -4,6 +4,14 @@
   "url": "/news/think-resilient/",
   "original_url": "https://spidermedia.ru/news/think-resilient",
   "archived": "https://web.archive.org/web/20260125062612/https://spidermedia.ru/news/think-resilient",
+  "tags": [
+    "salvador-larroka",
+    "preview",
+    "matt-fraction",
+    "art-0",
+    "marvel",
+    "iron-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

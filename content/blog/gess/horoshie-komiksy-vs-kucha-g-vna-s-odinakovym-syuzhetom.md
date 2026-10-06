@@ -4,6 +4,11 @@
   "url": "/blog/gess/horoshie-komiksy-vs-kucha-g-vna-s-odinakovym-syuzhetom/",
   "original_url": "http://spidermedia.ru/blog/gess/horoshie-komiksy-vs-kucha-g-vna-s-odinakovym-syuzhetom",
   "archived": "https://web.archive.org/web/20251206035126/http://spidermedia.ru/blog/gess/horoshie-komiksy-vs-kucha-g-vna-s-odinakovym-syuzhetom",
+  "tags": [
+    "thor",
+    "j-michael-straczynski",
+    "you-do-it-wrong"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

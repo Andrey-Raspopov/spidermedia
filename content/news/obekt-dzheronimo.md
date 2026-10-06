@@ -4,6 +4,10 @@
   "url": "/news/obekt-dzheronimo/",
   "original_url": "https://spidermedia.ru/news/obekt-dzheronimo",
   "archived": "https://web.archive.org/web/20260209112228/https://spidermedia.ru/news/obekt-dzheronimo",
+  "tags": [
+    "matt-fraction",
+    "natan-foks"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

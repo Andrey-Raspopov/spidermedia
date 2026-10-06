@@ -4,6 +4,12 @@
   "url": "/tv/daredevil-season-2-trailer-2/",
   "original_url": "https://spidermedia.ru/tv/daredevil-season-2-trailer-2",
   "archived": "https://web.archive.org/web/20260214135109/https://spidermedia.ru/tv/daredevil-season-2-trailer-2",
+  "tags": [
+    "marvel",
+    "punisher",
+    "daredevil",
+    "elektra"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/news/eksklyuziv-prevyu-komiksa-ne-mesto-dlya-geroev/",
   "original_url": "https://spidermedia.ru/news/eksklyuziv-prevyu-komiksa-ne-mesto-dlya-geroev",
   "archived": "https://web.archive.org/web/20250806234832/https://spidermedia.ru/news/eksklyuziv-prevyu-komiksa-ne-mesto-dlya-geroev",
+  "tags": [
+    "russian-comics",
+    "preview",
+    "ne-mesto-dlya-geroev"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

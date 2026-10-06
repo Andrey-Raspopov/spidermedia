@@ -4,6 +4,10 @@
   "url": "/news/fantasticheskaya-2-2/",
   "original_url": "http://spidermedia.ru/news/fantasticheskaya-2-2",
   "archived": "https://web.archive.org/web/20251208081200/http://spidermedia.ru/news/fantasticheskaya-2-2",
+  "tags": [
+    "fantastic-four",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

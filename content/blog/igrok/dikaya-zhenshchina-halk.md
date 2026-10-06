@@ -4,6 +4,11 @@
   "url": "/blog/igrok/dikaya-zhenshchina-halk/",
   "original_url": "https://spidermedia.ru/blog/igrok/dikaya-zhenshchina-halk",
   "archived": "https://web.archive.org/web/20241105162125/https://spidermedia.ru/blog/igrok/dikaya-zhenshchina-halk",
+  "tags": [
+    "russian-comics",
+    "kosplej",
+    "she-hulk"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

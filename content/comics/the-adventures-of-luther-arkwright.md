@@ -4,6 +4,10 @@
   "url": "/comics/the-adventures-of-luther-arkwright/",
   "original_url": "http://spidermedia.ru/comics/the-adventures-of-luther-arkwright",
   "archived": "https://web.archive.org/web/20190924061024/http://spidermedia.ru:80/comics/the-adventures-of-luther-arkwright",
+  "tags": [
+    "brajan-telbot",
+    "bande-dessinée"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

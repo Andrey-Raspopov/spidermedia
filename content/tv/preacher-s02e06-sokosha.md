@@ -4,6 +4,10 @@
   "url": "/tv/preacher-s02e06-sokosha/",
   "original_url": "http://spidermedia.ru/tv/preacher-s02e06-sokosha",
   "archived": "https://web.archive.org/web/20260312005044/http://spidermedia.ru/tv/preacher-s02e06-sokosha",
+  "tags": [
+    "vertigo",
+    "preacher"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

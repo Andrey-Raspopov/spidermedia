@@ -4,6 +4,10 @@
   "url": "/blog/redson/bollocks/",
   "original_url": "http://spidermedia.ru/blog/redson/bollocks",
   "archived": "https://web.archive.org/web/20150426184302/http://spidermedia.ru/blog/redson/bollocks",
+  "tags": [
+    "marvel-comics",
+    "wolverine"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

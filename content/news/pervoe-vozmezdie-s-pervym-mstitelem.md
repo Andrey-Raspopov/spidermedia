@@ -4,6 +4,13 @@
   "url": "/news/pervoe-vozmezdie-s-pervym-mstitelem/",
   "original_url": "https://spidermedia.ru/news/pervoe-vozmezdie-s-pervym-mstitelem",
   "archived": "https://web.archive.org/web/20251211035403/https://spidermedia.ru/news/pervoe-vozmezdie-s-pervym-mstitelem",
+  "tags": [
+    "fred-van-lente",
+    "preview",
+    "nil-edvards",
+    "luke-ross",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

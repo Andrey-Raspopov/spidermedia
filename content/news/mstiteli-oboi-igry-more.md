@@ -4,6 +4,12 @@
   "url": "/news/mstiteli-oboi-igry-more/",
   "original_url": "http://spidermedia.ru/news/mstiteli-oboi-igry-more",
   "archived": "https://web.archive.org/web/20120512053946/http://spidermedia.ru/news/mstiteli-oboi-igry-more",
+  "tags": [
+    "avengers",
+    "kino",
+    "marvel",
+    "mstiteli"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

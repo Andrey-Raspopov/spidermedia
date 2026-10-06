@@ -4,6 +4,10 @@
   "url": "/news/chudo-zhenshchinu-snimet-zhenshchina/",
   "original_url": "http://spidermedia.ru/news/chudo-zhenshchinu-snimet-zhenshchina",
   "archived": "https://web.archive.org/web/20260121004145/http://spidermedia.ru/news/chudo-zhenshchinu-snimet-zhenshchina",
+  "tags": [
+    "wonder-woman",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

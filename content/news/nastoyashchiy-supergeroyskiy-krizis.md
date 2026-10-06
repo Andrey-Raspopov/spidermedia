@@ -4,6 +4,13 @@
   "url": "/news/nastoyashchiy-supergeroyskiy-krizis/",
   "original_url": "http://spidermedia.ru/news/nastoyashchiy-supergeroyskiy-krizis",
   "archived": "https://web.archive.org/web/20120607175308/http://spidermedia.ru/news/nastoyashchiy-supergeroyskiy-krizis",
+  "tags": [
+    "kickstart-comics",
+    "adam-friman",
+    "komiksy",
+    "mark-bernardin",
+    "havi-fernandes"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

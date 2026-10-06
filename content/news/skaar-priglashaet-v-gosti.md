@@ -4,6 +4,15 @@
   "url": "/news/skaar-priglashaet-v-gosti/",
   "original_url": "http://spidermedia.ru/news/skaar-priglashaet-v-gosti",
   "archived": "https://web.archive.org/web/20140823024427/http://spidermedia.ru:80/news/skaar-priglashaet-v-gosti",
+  "tags": [
+    "skaar",
+    "kleyton-genri",
+    "comics",
+    "kristos-geydzh",
+    "marvel",
+    "skaar-0",
+    "hulk"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

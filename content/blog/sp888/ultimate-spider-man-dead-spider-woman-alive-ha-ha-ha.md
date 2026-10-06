@@ -4,6 +4,13 @@
   "url": "/blog/sp888/ultimate-spider-man-dead-spider-woman-alive-ha-ha-ha/",
   "original_url": "http://spidermedia.ru/blog/sp888/ultimate-spider-man-dead-spider-woman-alive-ha-ha-ha",
   "archived": "https://web.archive.org/web/20111026144427/http://spidermedia.ru/blog/sp888/ultimate-spider-man-dead-spider-woman-alive-ha-ha-ha",
+  "tags": [
+    "spider-man",
+    "ultimate",
+    "brayan-maykl-bendis",
+    "komiksy",
+    "chelovek-pauk"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/blog/sp888/origin-mark-millar/",
   "original_url": "http://spidermedia.ru/blog/sp888/origin-mark-millar",
   "archived": "https://web.archive.org/web/20111125181116/http://spidermedia.ru/blog/sp888/origin-mark-millar",
+  "tags": [
+    "komiksy",
+    "mark-millar",
+    "yumor"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

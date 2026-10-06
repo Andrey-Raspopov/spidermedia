@@ -4,6 +4,11 @@
   "url": "/news/x-force-voyna-zakonchena/",
   "original_url": "http://spidermedia.ru/news/x-force-voyna-zakonchena",
   "archived": "https://web.archive.org/web/20260211191438/http://spidermedia.ru/news/x-force-voyna-zakonchena",
+  "tags": [
+    "x-men",
+    "marvel",
+    "x-force"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

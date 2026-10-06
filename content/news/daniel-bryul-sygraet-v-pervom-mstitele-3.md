@@ -4,6 +4,12 @@
   "url": "/news/daniel-bryul-sygraet-v-pervom-mstitele-3/",
   "original_url": "http://spidermedia.ru/news/daniel-bryul-sygraet-v-pervom-mstitele-3",
   "archived": "https://web.archive.org/web/20251211031231/http://spidermedia.ru/news/daniel-bryul-sygraet-v-pervom-mstitele-3",
+  "tags": [
+    "marvel",
+    "kasting",
+    "captain-america",
+    "civil-war"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/news/para-slov-o-voyne-koroley/",
   "original_url": "http://spidermedia.ru/news/para-slov-o-voyne-koroley",
   "archived": "https://web.archive.org/web/20241102081641/http://spidermedia.ru/news/para-slov-o-voyne-koroley",
+  "tags": [
+    "marvel",
+    "nycc-2009"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

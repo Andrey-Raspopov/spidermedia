@@ -4,6 +4,11 @@
   "url": "/news/rosomaha-ne-sikvel/",
   "original_url": "http://spidermedia.ru/news/rosomaha-ne-sikvel",
   "archived": "https://web.archive.org/web/20220819234802/http://spidermedia.ru/news/rosomaha-ne-sikvel",
+  "tags": [
+    "darren-aronofski",
+    "wolverine",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

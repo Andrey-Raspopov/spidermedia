@@ -4,6 +4,16 @@
   "url": "/news/dark-snikt/",
   "original_url": "http://spidermedia.ru/news/dark-snikt",
   "archived": "https://web.archive.org/web/20260214131447/http://spidermedia.ru/news/dark-snikt",
+  "tags": [
+    "mardzhori-lyu",
+    "lejnil-frensis-yu",
+    "x-23",
+    "deniel-vej",
+    "daken",
+    "greg-lend",
+    "wolverine",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

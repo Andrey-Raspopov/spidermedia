@@ -4,6 +4,11 @@
   "url": "/news/komiksy-adventure-time-uzhe-sovsem-skoro-na-russkom/",
   "original_url": "http://spidermedia.ru/news/komiksy-adventure-time-uzhe-sovsem-skoro-na-russkom",
   "archived": "https://web.archive.org/web/20251115040351/http://spidermedia.ru/news/komiksy-adventure-time-uzhe-sovsem-skoro-na-russkom",
+  "tags": [
+    "komilfo",
+    "zarubezhnye-komiksy-na-russkom",
+    "vremya-priklyuchenij"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

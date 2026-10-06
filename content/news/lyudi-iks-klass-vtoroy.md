@@ -4,6 +4,11 @@
   "url": "/news/lyudi-iks-klass-vtoroy/",
   "original_url": "https://spidermedia.ru/news/lyudi-iks-klass-vtoroy",
   "archived": "https://web.archive.org/web/20260125055705/https://spidermedia.ru/news/lyudi-iks-klass-vtoroy",
+  "tags": [
+    "marvel",
+    "lyudi-iks-pervyj-klass",
+    "x-men"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

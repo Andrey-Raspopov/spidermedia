@@ -4,6 +4,9 @@
   "url": "/comics/skonchalsya-darvin-kuk/",
   "original_url": "http://spidermedia.ru/comics/skonchalsya-darvin-kuk",
   "archived": "https://web.archive.org/web/20190915015816/http://spidermedia.ru:80/comics/skonchalsya-darvin-kuk",
+  "tags": [
+    "darvin-kuk"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

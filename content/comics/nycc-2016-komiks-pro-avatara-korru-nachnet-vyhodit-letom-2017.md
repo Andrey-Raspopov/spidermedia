@@ -4,6 +4,10 @@
   "url": "/comics/nycc-2016-komiks-pro-avatara-korru-nachnet-vyhodit-letom-2017/",
   "original_url": "http://spidermedia.ru/comics/nycc-2016-komiks-pro-avatara-korru-nachnet-vyhodit-letom-2017",
   "archived": "https://web.archive.org/web/20250422025527/http://spidermedia.ru/comics/nycc-2016-komiks-pro-avatara-korru-nachnet-vyhodit-letom-2017",
+  "tags": [
+    "dark-horse",
+    "komik-kon-v-nyu-yorke"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

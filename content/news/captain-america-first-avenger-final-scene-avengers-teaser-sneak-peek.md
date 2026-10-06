@@ -4,6 +4,12 @@
   "url": "/news/captain-america-first-avenger-final-scene-avengers-teaser-sneak-peek/",
   "original_url": "http://spidermedia.ru/news/captain-america-first-avenger-final-scene-avengers-teaser-sneak-peek",
   "archived": "https://web.archive.org/web/20250715233408/http://spidermedia.ru/news/captain-america-first-avenger-final-scene-avengers-teaser-sneak-peek",
+  "tags": [
+    "trejlery",
+    "marvel",
+    "captain-america",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

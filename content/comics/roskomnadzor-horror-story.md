@@ -4,6 +4,11 @@
   "url": "/comics/roskomnadzor-horror-story/",
   "original_url": "http://spidermedia.ru/comics/roskomnadzor-horror-story",
   "archived": "https://web.archive.org/web/20250715233849/http://spidermedia.ru/comics/roskomnadzor-horror-story",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "roskomnadzor",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

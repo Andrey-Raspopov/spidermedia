@@ -4,6 +4,17 @@
   "url": "/news/slepoe-pravosudie/",
   "original_url": "http://spidermedia.ru/news/slepoe-pravosudie",
   "archived": "https://web.archive.org/web/20251115023023/http://spidermedia.ru/news/slepoe-pravosudie",
+  "tags": [
+    "endi-diggl",
+    "strana-tenej",
+    "roberto-de-la-torre",
+    "dardevil",
+    "billi-tan",
+    "antoni-dzhonston",
+    "shadowland",
+    "marvel",
+    "daredevil"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

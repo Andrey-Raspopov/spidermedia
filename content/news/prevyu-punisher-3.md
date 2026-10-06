@@ -4,6 +4,14 @@
   "url": "/news/prevyu-punisher-3/",
   "original_url": "http://spidermedia.ru/news/prevyu-punisher-3",
   "archived": "https://web.archive.org/web/20120608021950/http://spidermedia.ru/news/prevyu-punisher-3",
+  "tags": [
+    "punisher",
+    "dzherom-opena",
+    "komiksy",
+    "marvel",
+    "preview-s",
+    "rik-remender"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

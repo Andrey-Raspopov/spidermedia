@@ -4,6 +4,11 @@
   "url": "/news/betmen-i-supermen-pereehali-na-novuyu-datu/",
   "original_url": "https://spidermedia.ru/news/betmen-i-supermen-pereehali-na-novuyu-datu",
   "archived": "https://web.archive.org/web/20251216122600/https://spidermedia.ru/news/betmen-i-supermen-pereehali-na-novuyu-datu",
+  "tags": [
+    "superman",
+    "batman",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

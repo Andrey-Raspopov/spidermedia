@@ -4,6 +4,9 @@
   "url": "/blog/bastion7/produkt-mashinnogo-razuma/",
   "original_url": "http://spidermedia.ru/blog/bastion7/produkt-mashinnogo-razuma",
   "archived": "https://web.archive.org/web/20120608195828/http://spidermedia.ru/blog/bastion7/produkt-mashinnogo-razuma",
+  "tags": [
+    "vstuplenie"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

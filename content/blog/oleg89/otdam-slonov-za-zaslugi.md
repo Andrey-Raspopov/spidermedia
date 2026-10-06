@@ -4,6 +4,16 @@
   "url": "/blog/oleg89/otdam-slonov-za-zaslugi/",
   "original_url": "https://spidermedia.ru/blog/oleg89/otdam-slonov-za-zaslugi",
   "archived": "https://web.archive.org/web/20260305232736/https://spidermedia.ru/blog/oleg89/otdam-slonov-za-zaslugi",
+  "tags": [
+    "agenty-atlasa",
+    "mnenie",
+    "dzhonatan-hikman",
+    "joe-kelly",
+    "dzheff-parker",
+    "secret-warriors",
+    "marvel",
+    "image-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

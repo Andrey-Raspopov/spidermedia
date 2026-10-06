@@ -4,6 +4,9 @@
   "url": "/comics/all-things-valiant-40-week-13/",
   "original_url": "http://spidermedia.ru/comics/all-things-valiant-40-week-13",
   "archived": "https://web.archive.org/web/20260125064202/http://spidermedia.ru/comics/all-things-valiant-40-week-13",
+  "tags": [
+    "valiant-entertainment"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

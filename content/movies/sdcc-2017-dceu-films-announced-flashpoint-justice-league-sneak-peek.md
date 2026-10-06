@@ -4,6 +4,12 @@
   "url": "/movies/sdcc-2017-dceu-films-announced-flashpoint-justice-league-sneak-peek/",
   "original_url": "https://spidermedia.ru/movies/sdcc-2017-dceu-films-announced-flashpoint-justice-league-sneak-peek",
   "archived": "https://web.archive.org/web/20251216182614/https://spidermedia.ru/movies/sdcc-2017-dceu-films-announced-flashpoint-justice-league-sneak-peek",
+  "tags": [
+    "dc-comics",
+    "justice-league",
+    "the-flash",
+    "san-diego-comic-con-international"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

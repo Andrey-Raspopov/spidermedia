@@ -4,6 +4,11 @@
   "url": "/comics/roskomnadzor-nedelya-anonsov/",
   "original_url": "https://spidermedia.ru/comics/roskomnadzor-nedelya-anonsov",
   "archived": "https://web.archive.org/web/20260313103507/https://spidermedia.ru/comics/roskomnadzor-nedelya-anonsov",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "roskomnadzor",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

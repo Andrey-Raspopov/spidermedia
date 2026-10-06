@@ -4,6 +4,12 @@
   "url": "/news/azzarello-romita-ml-gibbons-i-yanson-prisoedinyatsya-k-rabote-nad-trikvelom-vozvrashcheniya-tyo/",
   "original_url": "https://spidermedia.ru/news/azzarello-romita-ml-gibbons-i-yanson-prisoedinyatsya-k-rabote-nad-trikvelom-vozvrashcheniya-tyo",
   "archived": "https://web.archive.org/web/20260116225013/https://spidermedia.ru/news/azzarello-romita-ml-gibbons-i-yanson-prisoedinyatsya-k-rabote-nad-trikvelom-vozvrashcheniya-tyo",
+  "tags": [
+    "frenk-miller",
+    "skott-snajder",
+    "batman",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

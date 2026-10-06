@@ -4,6 +4,11 @@
   "url": "/news/premera-agentov-shchit-sostoitsya-osenyu/",
   "original_url": "http://spidermedia.ru/news/premera-agentov-shchit-sostoitsya-osenyu",
   "archived": "https://web.archive.org/web/20251206155856/http://spidermedia.ru/news/premera-agentov-shchit-sostoitsya-osenyu",
+  "tags": [
+    "serialy",
+    "marvel",
+    "s.h.i.e.l.d"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,17 @@
   "url": "/news/ishod/",
   "original_url": "http://spidermedia.ru/news/ishod",
   "archived": "https://web.archive.org/web/20200115082222/http://spidermedia.ru:80/news/ishod",
+  "tags": [
+    "terri-dodson",
+    "matt-fraction",
+    "majk-deodato",
+    "x-men",
+    "utopia",
+    "terry-dodson",
+    "mike-deodato",
+    "marvel",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

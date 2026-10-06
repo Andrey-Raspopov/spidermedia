@@ -4,6 +4,9 @@
   "url": "/movies/valiant-and-sony-five-picture-deal/",
   "original_url": "https://spidermedia.ru/movies/valiant-and-sony-five-picture-deal",
   "archived": "https://web.archive.org/web/20260125061912/https://spidermedia.ru/movies/valiant-and-sony-five-picture-deal",
+  "tags": [
+    "valiant-entertainment"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

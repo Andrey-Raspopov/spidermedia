@@ -4,6 +4,11 @@
   "url": "/news/amc-zakazal-pilot-propovednika/",
   "original_url": "http://spidermedia.ru/news/amc-zakazal-pilot-propovednika",
   "archived": "https://web.archive.org/web/20251014042354/http://spidermedia.ru/news/amc-zakazal-pilot-propovednika",
+  "tags": [
+    "serialy",
+    "vertigo",
+    "preacher"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

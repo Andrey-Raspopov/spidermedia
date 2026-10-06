@@ -4,6 +4,9 @@
   "url": "/podcast/spider-talk-11-pauki-holmes-i-cyberpunk/",
   "original_url": "http://spidermedia.ru/podcast/spider-talk-11-pauki-holmes-i-cyberpunk",
   "archived": "https://web.archive.org/web/20251207004535/http://spidermedia.ru/podcast/spider-talk-11-pauki-holmes-i-cyberpunk",
+  "tags": [
+    "spider-talk"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/news/kogtistyy-vud/",
   "original_url": "http://spidermedia.ru/news/kogtistyy-vud",
   "archived": "https://web.archive.org/web/20250324162550/http://spidermedia.ru/news/kogtistyy-vud",
+  "tags": [
+    "brian-wood",
+    "wolverine",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

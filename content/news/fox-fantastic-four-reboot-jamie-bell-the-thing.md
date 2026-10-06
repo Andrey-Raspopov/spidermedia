@@ -4,6 +4,10 @@
   "url": "/news/fox-fantastic-four-reboot-jamie-bell-the-thing/",
   "original_url": "http://spidermedia.ru/news/fox-fantastic-four-reboot-jamie-bell-the-thing",
   "archived": "https://web.archive.org/web/20250512113849/http://spidermedia.ru/news/fox-fantastic-four-reboot-jamie-bell-the-thing",
+  "tags": [
+    "fantastic-four",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

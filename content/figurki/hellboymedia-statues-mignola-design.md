@@ -4,6 +4,10 @@
   "url": "/figurki/hellboymedia-statues-mignola-design/",
   "original_url": "http://spidermedia.ru/figurki/hellboymedia-statues-mignola-design",
   "archived": "https://web.archive.org/web/20260208204627/http://spidermedia.ru/figurki/hellboymedia-statues-mignola-design",
+  "tags": [
+    "hellboymedia",
+    "novosti"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

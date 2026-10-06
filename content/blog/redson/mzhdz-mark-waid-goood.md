@@ -4,11 +4,15 @@
   "url": "/blog/redson/mzhdz-mark-waid-goood/",
   "original_url": "http://spidermedia.ru/blog/redson/mzhdz-mark-waid-goood",
   "archived": "https://web.archive.org/web/20251107032936/http://spidermedia.ru/blog/redson/mzhdz-mark-waid-goood",
+  "tags": [
+    "mnenie",
+    "mzhdz"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](https://web.archive.org/web/20251107032936im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz.png)](https://web.archive.org/web/20260206215846/http://spidermedia.ru/tags/mzhdz)
+[![](https://web.archive.org/web/20251107032936im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz.png)](../../../tags/mzhdz/)
 ![](https://web.archive.org/web/20251107032936im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/tanked.jpg)
 **Еженедельные обзоры новых комиксов!**
 **Теперь:** [страница архива](../mzhdz-arhiv/) похорошела, список в две колонки, на фоне висят стильные обои.

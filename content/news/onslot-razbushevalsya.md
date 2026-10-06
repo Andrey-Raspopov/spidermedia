@@ -4,6 +4,18 @@
   "url": "/news/onslot-razbushevalsya/",
   "original_url": "http://spidermedia.ru/news/onslot-razbushevalsya",
   "archived": "https://web.archive.org/web/20251107005511/http://spidermedia.ru/news/onslot-razbushevalsya",
+  "tags": [
+    "shon-makkiver",
+    "filipe-andrade",
+    "sekretnye-voiny",
+    "rob-lajfeld",
+    "onslot",
+    "molodye-soyuzniki",
+    "young-allies",
+    "onslaught",
+    "marvel",
+    "secret-avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

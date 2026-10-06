@@ -4,6 +4,15 @@
   "url": "/news/bronirovannye-figurki/",
   "original_url": "http://spidermedia.ru/news/bronirovannye-figurki",
   "archived": "https://web.archive.org/web/20241110013627/http://spidermedia.ru/news/bronirovannye-figurki",
+  "tags": [
+    "marvel",
+    "iron-man",
+    "figurki",
+    "animaciya",
+    "mandarin",
+    "crimson-dynamo",
+    "krasnyj-dinamo"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

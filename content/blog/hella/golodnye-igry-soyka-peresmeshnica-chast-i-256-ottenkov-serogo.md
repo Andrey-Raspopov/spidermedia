@@ -4,6 +4,11 @@
   "url": "/blog/hella/golodnye-igry-soyka-peresmeshnica-chast-i-256-ottenkov-serogo/",
   "original_url": "http://spidermedia.ru/blog/hella/golodnye-igry-soyka-peresmeshnica-chast-i-256-ottenkov-serogo",
   "archived": "https://web.archive.org/web/20150501130134/http://spidermedia.ru/blog/hella/golodnye-igry-soyka-peresmeshnica-chast-i-256-ottenkov-serogo",
+  "tags": [
+    "otzyv",
+    "kino",
+    "golodnye-igry"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

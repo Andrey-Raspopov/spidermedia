@@ -4,6 +4,13 @@
   "url": "/news/komilfo-izdast-true-lives-fabulous-killjoys/",
   "original_url": "http://spidermedia.ru/news/komilfo-izdast-true-lives-fabulous-killjoys",
   "archived": "https://web.archive.org/web/20250616102500/http://spidermedia.ru/news/komilfo-izdast-true-lives-fabulous-killjoys",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "dzherard-vej",
+    "bekki-klunan",
+    "dark-horse",
+    "komilfo"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

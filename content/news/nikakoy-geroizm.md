@@ -4,6 +4,11 @@
   "url": "/news/nikakoy-geroizm/",
   "original_url": "http://spidermedia.ru/news/nikakoy-geroizm",
   "archived": "https://web.archive.org/web/20250807004544/http://spidermedia.ru/news/nikakoy-geroizm",
+  "tags": [
+    "spoof",
+    "serialy",
+    "no-heroics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

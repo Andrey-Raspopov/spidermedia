@@ -4,6 +4,10 @@
   "url": "/comics/death-of-x-novyj-tizer-marvel/",
   "original_url": "http://spidermedia.ru/comics/death-of-x-novyj-tizer-marvel",
   "archived": "https://web.archive.org/web/20250512124728/http://spidermedia.ru/comics/death-of-x-novyj-tizer-marvel",
+  "tags": [
+    "marvel",
+    "x-men"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

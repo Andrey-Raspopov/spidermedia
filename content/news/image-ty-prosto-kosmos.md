@@ -4,6 +4,9 @@
   "url": "/news/image-ty-prosto-kosmos/",
   "original_url": "https://spidermedia.ru/news/image-ty-prosto-kosmos",
   "archived": "https://web.archive.org/web/20260307054644/https://spidermedia.ru/news/image-ty-prosto-kosmos",
+  "tags": [
+    "image-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

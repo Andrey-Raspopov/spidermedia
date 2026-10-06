@@ -4,6 +4,11 @@
   "url": "/movies/x-men-apocalypse-movie-trailer/",
   "original_url": "https://spidermedia.ru/movies/x-men-apocalypse-movie-trailer",
   "archived": "https://web.archive.org/web/20250316162838/https://spidermedia.ru/movies/x-men-apocalypse-movie-trailer",
+  "tags": [
+    "apokalipsis",
+    "x-men",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

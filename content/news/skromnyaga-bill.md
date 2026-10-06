@@ -4,6 +4,12 @@
   "url": "/news/skromnyaga-bill/",
   "original_url": "http://spidermedia.ru/news/skromnyaga-bill",
   "archived": "https://web.archive.org/web/20120512051907/http://spidermedia.ru/news/skromnyaga-bill",
+  "tags": [
+    "beta-ray-bill",
+    "kiron-gillen",
+    "komiksy",
+    "marvel"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

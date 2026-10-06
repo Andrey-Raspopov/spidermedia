@@ -4,6 +4,11 @@
   "url": "/blog/alex/brave-and-bold-green-lantern-corps/",
   "original_url": "https://spidermedia.ru/blog/alex/brave-and-bold-green-lantern-corps",
   "archived": "https://web.archive.org/web/20250806093442/https://spidermedia.ru/blog/alex/brave-and-bold-green-lantern-corps",
+  "tags": [
+    "animaciya",
+    "green-lantern",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

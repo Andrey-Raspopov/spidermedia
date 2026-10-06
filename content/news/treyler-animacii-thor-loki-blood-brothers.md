@@ -4,6 +4,16 @@
   "url": "/news/treyler-animacii-thor-loki-blood-brothers/",
   "original_url": "http://spidermedia.ru/news/treyler-animacii-thor-loki-blood-brothers",
   "archived": "https://web.archive.org/web/20260312012958/http://spidermedia.ru/news/treyler-animacii-thor-loki-blood-brothers",
+  "tags": [
+    "marvel",
+    "loki",
+    "animirovannye-komiksy",
+    "animaciya",
+    "thor",
+    "motion-comics",
+    "esad-ribic",
+    "esad-ribich"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,17 @@
   "url": "/news/tantan-tintin-kakaya-raznica/",
   "original_url": "http://spidermedia.ru/news/tantan-tintin-kakaya-raznica",
   "archived": "https://web.archive.org/web/20120607111018/http://spidermedia.ru/news/tantan-tintin-kakaya-raznica",
+  "tags": [
+    "nick-frost",
+    "simon-pegg",
+    "steven-spielberg",
+    "tin-tin",
+    "kino",
+    "komiksy",
+    "nik-frost",
+    "saymon-pegg",
+    "stiven-spilberg"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

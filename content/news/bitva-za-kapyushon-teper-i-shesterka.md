@@ -4,6 +4,14 @@
   "url": "/news/bitva-za-kapyushon-teper-i-shesterka/",
   "original_url": "http://spidermedia.ru/news/bitva-za-kapyushon-teper-i-shesterka",
   "archived": "https://web.archive.org/web/20250913011949/http://spidermedia.ru/news/bitva-za-kapyushon-teper-i-shesterka",
+  "tags": [
+    "dc-comics",
+    "secret-six",
+    "preview",
+    "sekretnaya-shesterka",
+    "gejl-simon",
+    "gail-simone"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

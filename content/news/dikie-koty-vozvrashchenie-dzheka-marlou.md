@@ -4,6 +4,12 @@
   "url": "/news/dikie-koty-vozvrashchenie-dzheka-marlou/",
   "original_url": "http://spidermedia.ru/news/dikie-koty-vozvrashchenie-dzheka-marlou",
   "archived": "https://web.archive.org/web/20111018191539/http://spidermedia.ru/news/dikie-koty-vozvrashchenie-dzheka-marlou",
+  "tags": [
+    "dc-comics",
+    "wildcats",
+    "wildstorm",
+    "dikie-koty"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

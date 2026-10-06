@@ -4,6 +4,9 @@
   "url": "/comics/nominanty-premiyu-ajsnera-2016/",
   "original_url": "http://spidermedia.ru/comics/nominanty-premiyu-ajsnera-2016",
   "archived": "https://web.archive.org/web/20260120160343/http://spidermedia.ru/comics/nominanty-premiyu-ajsnera-2016",
+  "tags": [
+    "eisner-awards"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

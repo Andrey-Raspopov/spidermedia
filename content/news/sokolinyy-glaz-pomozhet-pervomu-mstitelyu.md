@@ -4,6 +4,9 @@
   "url": "/news/sokolinyy-glaz-pomozhet-pervomu-mstitelyu/",
   "original_url": "http://spidermedia.ru/news/sokolinyy-glaz-pomozhet-pervomu-mstitelyu",
   "archived": "https://web.archive.org/web/20160629101604/http://spidermedia.ru/news/sokolinyy-glaz-pomozhet-pervomu-mstitelyu",
+  "tags": [
+    "captain-america"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

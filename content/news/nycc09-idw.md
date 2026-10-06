@@ -4,6 +4,10 @@
   "url": "/news/nycc09-idw/",
   "original_url": "https://spidermedia.ru/news/nycc09-idw",
   "archived": "https://web.archive.org/web/20260314082203/https://spidermedia.ru/news/nycc09-idw",
+  "tags": [
+    "idw-publishing",
+    "nycc-2009"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

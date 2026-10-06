@@ -4,6 +4,10 @@
   "url": "/blog/sterpazook/raspredelennaya-vychislitelnaya-platforma-skynet/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/raspredelennaya-vychislitelnaya-platforma-skynet",
   "archived": "https://web.archive.org/web/20210125222736/http://spidermedia.ru/blog/sterpazook/raspredelennaya-vychislitelnaya-platforma-skynet",
+  "tags": [
+    "terminator",
+    "viral"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

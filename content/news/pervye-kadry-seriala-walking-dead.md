@@ -4,6 +4,10 @@
   "url": "/news/pervye-kadry-seriala-walking-dead/",
   "original_url": "http://spidermedia.ru/news/pervye-kadry-seriala-walking-dead",
   "archived": "https://web.archive.org/web/20240305144254/http://spidermedia.ru/news/pervye-kadry-seriala-walking-dead",
+  "tags": [
+    "serialy",
+    "the-walking-dead"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

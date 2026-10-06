@@ -4,6 +4,11 @@
   "url": "/comics/roskomnadzor-vot-i-leto-proshlo/",
   "original_url": "http://spidermedia.ru/comics/roskomnadzor-vot-i-leto-proshlo",
   "archived": "https://web.archive.org/web/20241004020159/http://spidermedia.ru/comics/roskomnadzor-vot-i-leto-proshlo",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "roskomnadzor",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

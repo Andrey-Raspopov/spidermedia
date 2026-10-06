@@ -4,6 +4,10 @@
   "url": "/podcast/hellfire-panels-04-this-is-what-comes-next/",
   "original_url": "https://spidermedia.ru/podcast/hellfire-panels-04-this-is-what-comes-next",
   "archived": "https://web.archive.org/web/20251216175950/https://spidermedia.ru/podcast/hellfire-panels-04-this-is-what-comes-next",
+  "tags": [
+    "panels-of-x",
+    "on-panels"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

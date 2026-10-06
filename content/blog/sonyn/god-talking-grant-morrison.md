@@ -4,6 +4,10 @@
   "url": "/blog/sonyn/god-talking-grant-morrison/",
   "original_url": "http://spidermedia.ru/blog/sonyn/god-talking-grant-morrison",
   "archived": "https://web.archive.org/web/20120608160821/http://spidermedia.ru/blog/sonyn/god-talking-grant-morrison",
+  "tags": [
+    "grant-morrison-talking-gods",
+    "grant-morrison"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

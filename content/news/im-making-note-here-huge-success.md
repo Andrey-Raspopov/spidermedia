@@ -4,6 +4,11 @@
   "url": "/news/im-making-note-here-huge-success/",
   "original_url": "https://spidermedia.ru/news/im-making-note-here-huge-success",
   "archived": "https://web.archive.org/web/20260313121142/https://spidermedia.ru/news/im-making-note-here-huge-success",
+  "tags": [
+    "greg-pak",
+    "takeshi-miyadzava",
+    "dzhonatan-kolton"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

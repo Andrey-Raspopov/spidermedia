@@ -4,6 +4,11 @@
   "url": "/comics/roskomnadzor-bolshie-nadezhdy/",
   "original_url": "http://spidermedia.ru/comics/roskomnadzor-bolshie-nadezhdy",
   "archived": "https://web.archive.org/web/20230608124143/http://spidermedia.ru/comics/roskomnadzor-bolshie-nadezhdy",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "roskomnadzor",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

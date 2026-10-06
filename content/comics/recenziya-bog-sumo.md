@@ -4,6 +4,10 @@
   "url": "/comics/recenziya-bog-sumo/",
   "original_url": "http://spidermedia.ru/comics/recenziya-bog-sumo",
   "archived": "https://web.archive.org/web/20251012180529/http://spidermedia.ru/comics/recenziya-bog-sumo",
+  "tags": [
+    "obzor",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

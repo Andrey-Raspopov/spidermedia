@@ -4,6 +4,17 @@
   "url": "/news/watch-world-burn/",
   "original_url": "https://spidermedia.ru/news/watch-world-burn",
   "archived": "https://web.archive.org/web/20260208205519/https://spidermedia.ru/news/watch-world-burn",
+  "tags": [
+    "matt-fraction",
+    "loki",
+    "kiron-gillen",
+    "karmin-di-dzhyandomeniko",
+    "dzheymi-makkelvi",
+    "alan-devis",
+    "thor",
+    "marvel",
+    "journey-into-mystery"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,13 @@
   "url": "/news/dark-reign-list-amazing-spider-man/",
   "original_url": "https://spidermedia.ru/news/dark-reign-list-amazing-spider-man",
   "archived": "https://web.archive.org/web/20260314081057/https://spidermedia.ru/news/dark-reign-list-amazing-spider-man",
+  "tags": [
+    "den-slott",
+    "adam-kubert",
+    "marvel",
+    "list",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

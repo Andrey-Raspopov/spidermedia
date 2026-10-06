@@ -4,6 +4,10 @@
   "url": "/tv/powers-s02e04-stealing-fire-rekap-i-recenziya/",
   "original_url": "http://spidermedia.ru/tv/powers-s02e04-stealing-fire-rekap-i-recenziya",
   "archived": "https://web.archive.org/web/20260314082420/http://spidermedia.ru/tv/powers-s02e04-stealing-fire-rekap-i-recenziya",
+  "tags": [
+    "icon-comics",
+    "powers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

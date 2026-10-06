@@ -4,6 +4,11 @@
   "url": "/blog/zmeyukina/katalog-kommissii-2009/",
   "original_url": "https://spidermedia.ru/blog/zmeyukina/katalog-kommissii-2009",
   "archived": "https://web.archive.org/web/20250121004056/https://spidermedia.ru/blog/zmeyukina/katalog-kommissii-2009",
+  "tags": [
+    "russian-comics",
+    "kommissiya",
+    "chto-u-nas-pechatayut"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

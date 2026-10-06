@@ -4,6 +4,19 @@
   "url": "/news/stark-sonfession/",
   "original_url": "http://spidermedia.ru/news/stark-sonfession",
   "archived": "https://web.archive.org/web/20120608140804/http://spidermedia.ru/news/stark-sonfession",
+  "tags": [
+    "invincible-iron-man",
+    "iron-man",
+    "thor",
+    "zheleznyy-chelovek",
+    "komiksy",
+    "marvel",
+    "mett-frakshen",
+    "patrik-zircher",
+    "preview-s",
+    "salvador-larroka",
+    "tor"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

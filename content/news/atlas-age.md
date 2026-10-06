@@ -4,6 +4,17 @@
   "url": "/news/atlas-age/",
   "original_url": "http://spidermedia.ru/news/atlas-age",
   "archived": "https://web.archive.org/web/20260214135557/http://spidermedia.ru/news/atlas-age",
+  "tags": [
+    "agenty-atlasa",
+    "era-geroev",
+    "marvel",
+    "chris-samnee",
+    "dzheff-parker",
+    "gabriel-hardmen",
+    "jeff-parker",
+    "heroic-age",
+    "gabriel-hardman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/comics/blacksad-book-1-review/",
   "original_url": "https://spidermedia.ru/comics/blacksad-book-1-review",
   "archived": "https://web.archive.org/web/20260215081155/https://spidermedia.ru/comics/blacksad-book-1-review",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "recenziya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

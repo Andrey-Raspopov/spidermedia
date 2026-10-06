@@ -4,6 +4,18 @@
   "url": "/news/temnyy-deyken/",
   "original_url": "https://spidermedia.ru/news/temnyy-deyken",
   "archived": "https://web.archive.org/web/20260120155812/https://spidermedia.ru/news/temnyy-deyken",
+  "tags": [
+    "marvel",
+    "wolverine",
+    "daken",
+    "deniel-vej",
+    "mardzhori-lyu",
+    "dejken",
+    "daniel-way",
+    "dzhuzeppe-kamunkoli",
+    "marjorie-liu",
+    "giuseppe-camuncoli"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

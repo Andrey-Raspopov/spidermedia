@@ -4,6 +4,11 @@
   "url": "/news/metallo-i-video-9-sezona-tayn-smolvilya/",
   "original_url": "https://spidermedia.ru/news/metallo-i-video-9-sezona-tayn-smolvilya",
   "archived": "https://web.archive.org/web/20260211101847/https://spidermedia.ru/news/metallo-i-video-9-sezona-tayn-smolvilya",
+  "tags": [
+    "serialy",
+    "metallo",
+    "smallville"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

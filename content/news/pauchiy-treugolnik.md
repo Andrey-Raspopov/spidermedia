@@ -4,6 +4,17 @@
   "url": "/news/pauchiy-treugolnik/",
   "original_url": "http://spidermedia.ru/news/pauchiy-treugolnik",
   "archived": "https://web.archive.org/web/20190811012859/http://spidermedia.ru:80/news/pauchiy-treugolnik",
+  "tags": [
+    "skott-kempbell",
+    "meri-dzhejn-vatson",
+    "majk-makkon",
+    "joe-kelly",
+    "art-0",
+    "mary-jane-watson",
+    "black-cat",
+    "spider-man",
+    "chernaya-koshka"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

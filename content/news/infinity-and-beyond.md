@@ -4,6 +4,19 @@
   "url": "/news/infinity-and-beyond/",
   "original_url": "http://spidermedia.ru/news/infinity-and-beyond",
   "archived": "https://web.archive.org/web/20260309190657/http://spidermedia.ru/news/infinity-and-beyond",
+  "tags": [
+    "marvel",
+    "fantastic-four",
+    "doctor-doom",
+    "doktor-dum",
+    "dzhonatan-hikman",
+    "dejl-iglshem",
+    "nemor",
+    "namor",
+    "inhumans",
+    "annihilus",
+    "nil-edvards"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

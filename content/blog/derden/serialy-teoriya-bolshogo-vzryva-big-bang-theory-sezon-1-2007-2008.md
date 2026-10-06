@@ -4,6 +4,11 @@
   "url": "/blog/derden/serialy-teoriya-bolshogo-vzryva-big-bang-theory-sezon-1-2007-2008/",
   "original_url": "http://spidermedia.ru/blog/derden/serialy-teoriya-bolshogo-vzryva-big-bang-theory-sezon-1-2007-2008",
   "archived": "https://web.archive.org/web/20251117011735/http://spidermedia.ru/blog/derden/serialy-teoriya-bolshogo-vzryva-big-bang-theory-sezon-1-2007-2008",
+  "tags": [
+    "recenziya",
+    "serialy",
+    "teoriya-bolshogo-vzryva"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

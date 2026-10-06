@@ -4,6 +4,10 @@
   "url": "/podcast/gol-d-panels-live-action-series-season-01/",
   "original_url": "http://spidermedia.ru/podcast/gol-d-panels-live-action-series-season-01",
   "archived": "https://web.archive.org/web/20260115061924/http://spidermedia.ru/podcast/gol-d-panels-live-action-series-season-01",
+  "tags": [
+    "gold-panels",
+    "on-panels"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

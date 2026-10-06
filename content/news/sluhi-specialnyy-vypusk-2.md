@@ -4,6 +4,10 @@
   "url": "/news/sluhi-specialnyy-vypusk-2/",
   "original_url": "http://spidermedia.ru/news/sluhi-specialnyy-vypusk-2",
   "archived": "https://web.archive.org/web/20260125055055/http://spidermedia.ru/news/sluhi-specialnyy-vypusk-2",
+  "tags": [
+    "sluhi",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

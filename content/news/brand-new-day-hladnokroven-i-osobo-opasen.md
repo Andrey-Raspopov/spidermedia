@@ -4,6 +4,13 @@
   "url": "/news/brand-new-day-hladnokroven-i-osobo-opasen/",
   "original_url": "http://spidermedia.ru/news/brand-new-day-hladnokroven-i-osobo-opasen",
   "archived": "https://web.archive.org/web/20260313104200/http://spidermedia.ru/news/brand-new-day-hladnokroven-i-osobo-opasen",
+  "tags": [
+    "kris-bachalo",
+    "zeb-uells",
+    "lizard",
+    "spider-man",
+    "yashher"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

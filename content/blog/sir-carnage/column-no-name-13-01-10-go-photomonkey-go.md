@@ -4,6 +4,12 @@
   "url": "/blog/sir-carnage/column-no-name-13-01-10-go-photomonkey-go/",
   "original_url": "https://spidermedia.ru/blog/sir-carnage/column-no-name-13-01-10-go-photomonkey-go",
   "archived": "https://web.archive.org/web/20251216123857/https://spidermedia.ru/blog/sir-carnage/column-no-name-13-01-10-go-photomonkey-go",
+  "tags": [
+    "vertigo",
+    "marvel",
+    "dc-comics",
+    "the-column-with-no-name"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

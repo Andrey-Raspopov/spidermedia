@@ -4,6 +4,17 @@
   "url": "/news/call-mewhiplash/",
   "original_url": "http://spidermedia.ru/news/call-mewhiplash",
   "archived": "https://web.archive.org/web/20120608153047/http://spidermedia.ru/news/call-mewhiplash",
+  "tags": [
+    "iron-man",
+    "iron-man-2",
+    "whiplash",
+    "dzhon-favro",
+    "zheleznyy-chelovek",
+    "kino",
+    "knut",
+    "komiksy",
+    "marvel"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,14 @@
   "url": "/comics/what-to-read-before-avengers-infinity-war/",
   "original_url": "http://spidermedia.ru/comics/what-to-read-before-avengers-infinity-war",
   "archived": "https://web.archive.org/web/20260307064146/http://spidermedia.ru/comics/what-to-read-before-avengers-infinity-war",
+  "tags": [
+    "jellyfish-jam",
+    "marvel",
+    "zarubezhnye-komiksy-na-russkom",
+    "avengers",
+    "tanos",
+    "avengers-week"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/news/rosomaha/",
   "original_url": "http://spidermedia.ru/news/rosomaha",
   "archived": "https://web.archive.org/web/20241110012211/http://spidermedia.ru/news/rosomaha",
+  "tags": [
+    "marvel",
+    "wolverine",
+    "dzhejson-starr"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

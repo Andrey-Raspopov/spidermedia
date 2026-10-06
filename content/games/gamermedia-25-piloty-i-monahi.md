@@ -4,6 +4,10 @@
   "url": "/games/gamermedia-25-piloty-i-monahi/",
   "original_url": "https://spidermedia.ru/games/gamermedia-25-piloty-i-monahi",
   "archived": "https://web.archive.org/web/20260115050234/https://spidermedia.ru/games/gamermedia-25-piloty-i-monahi",
+  "tags": [
+    "star-wars",
+    "zvezdnye-vojny"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

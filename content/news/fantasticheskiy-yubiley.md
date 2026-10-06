@@ -4,6 +4,12 @@
   "url": "/news/fantasticheskiy-yubiley/",
   "original_url": "http://spidermedia.ru/news/fantasticheskiy-yubiley",
   "archived": "https://web.archive.org/web/20120607054423/http://spidermedia.ru/news/fantasticheskiy-yubiley",
+  "tags": [
+    "fantastic-four",
+    "komiksy",
+    "marvel",
+    "fantasticheskaya-chetverka"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

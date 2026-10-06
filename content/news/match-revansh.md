@@ -4,6 +4,15 @@
   "url": "/news/match-revansh/",
   "original_url": "https://spidermedia.ru/news/match-revansh",
   "archived": "https://web.archive.org/web/20260116224616/https://spidermedia.ru/news/match-revansh",
+  "tags": [
+    "toni-mur",
+    "sajmon-byanchi",
+    "rik-remender",
+    "punisher",
+    "daken",
+    "art-0",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

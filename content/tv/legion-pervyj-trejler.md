@@ -4,6 +4,10 @@
   "url": "/tv/legion-pervyj-trejler/",
   "original_url": "https://spidermedia.ru/tv/legion-pervyj-trejler",
   "archived": "https://web.archive.org/web/20250807005458/https://spidermedia.ru/tv/legion-pervyj-trejler",
+  "tags": [
+    "marvel",
+    "legion"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

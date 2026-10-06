@@ -4,6 +4,15 @@
   "url": "/tv/sdcc-2016-tizery-serialov-zheleznyj-kulak-lyuk-kejdzh-zashhitniki/",
   "original_url": "https://spidermedia.ru/tv/sdcc-2016-tizery-serialov-zheleznyj-kulak-lyuk-kejdzh-zashhitniki",
   "archived": "https://web.archive.org/web/20251211020724/https://spidermedia.ru/tv/sdcc-2016-tizery-serialov-zheleznyj-kulak-lyuk-kejdzh-zashhitniki",
+  "tags": [
+    "marvel",
+    "jessica-jones-alias",
+    "iron-fist",
+    "punisher",
+    "luke-cage",
+    "daredevil",
+    "san-diego-comic-con-international"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

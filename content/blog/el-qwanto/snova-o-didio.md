@@ -4,6 +4,11 @@
   "url": "/blog/el-qwanto/snova-o-didio/",
   "original_url": "http://spidermedia.ru/blog/el-qwanto/snova-o-didio",
   "archived": "https://web.archive.org/web/20260314075131/http://spidermedia.ru/blog/el-qwanto/snova-o-didio",
+  "tags": [
+    "dan-didio",
+    "geoff-johns",
+    "nycc-2009"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

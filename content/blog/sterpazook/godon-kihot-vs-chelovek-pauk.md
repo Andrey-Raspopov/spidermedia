@@ -4,6 +4,12 @@
   "url": "/blog/sterpazook/godon-kihot-vs-chelovek-pauk/",
   "original_url": "https://spidermedia.ru/blog/sterpazook/godon-kihot-vs-chelovek-pauk",
   "archived": "https://web.archive.org/web/20260117213551/https://spidermedia.ru/blog/sterpazook/godon-kihot-vs-chelovek-pauk",
+  "tags": [
+    "yumor",
+    "parodiya",
+    "gordon",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

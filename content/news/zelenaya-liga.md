@@ -4,6 +4,16 @@
   "url": "/news/zelenaya-liga/",
   "original_url": "https://spidermedia.ru/news/zelenaya-liga",
   "archived": "https://web.archive.org/web/20250518133315/https://spidermedia.ru/news/zelenaya-liga",
+  "tags": [
+    "david-mack",
+    "dc-comics",
+    "patrick-gleason",
+    "justice-league",
+    "patrik-glison",
+    "devid-mek",
+    "art-0",
+    "green-lantern"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

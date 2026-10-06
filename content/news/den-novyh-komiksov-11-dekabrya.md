@@ -4,6 +4,9 @@
   "url": "/news/den-novyh-komiksov-11-dekabrya/",
   "original_url": "https://spidermedia.ru/news/den-novyh-komiksov-11-dekabrya",
   "archived": "https://web.archive.org/web/20250315181616/https://spidermedia.ru/news/den-novyh-komiksov-11-dekabrya",
+  "tags": [
+    "den-novyh-komiksov"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

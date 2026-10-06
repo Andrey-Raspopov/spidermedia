@@ -4,6 +4,12 @@
   "url": "/movies/opinion-logan/",
   "original_url": "https://spidermedia.ru/movies/opinion-logan",
   "archived": "https://web.archive.org/web/20260314080516/https://spidermedia.ru/movies/opinion-logan",
+  "tags": [
+    "marvel",
+    "x-23",
+    "x-men",
+    "wolverine"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

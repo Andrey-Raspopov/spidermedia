@@ -4,6 +4,11 @@
   "url": "/news/pervyy-oficialnyy-tizer-poster-k-lyudi-iks-pervyy-klass/",
   "original_url": "http://spidermedia.ru/news/pervyy-oficialnyy-tizer-poster-k-lyudi-iks-pervyy-klass",
   "archived": "https://web.archive.org/web/20260125055350/http://spidermedia.ru/news/pervyy-oficialnyy-tizer-poster-k-lyudi-iks-pervyy-klass",
+  "tags": [
+    "lyudi-iks-pervyj-klass",
+    "x-men-first-class",
+    "x-men"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

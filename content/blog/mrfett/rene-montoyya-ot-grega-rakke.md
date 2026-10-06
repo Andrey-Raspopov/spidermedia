@@ -4,6 +4,15 @@
   "url": "/blog/mrfett/rene-montoyya-ot-grega-rakke/",
   "original_url": "https://spidermedia.ru/blog/mrfett/rene-montoyya-ot-grega-rakke",
   "archived": "https://web.archive.org/web/20260206220321/https://spidermedia.ru/blog/mrfett/rene-montoyya-ot-grega-rakke",
+  "tags": [
+    "dc-comics",
+    "batman",
+    "greg-rakka",
+    "question",
+    "greg-rucka",
+    "dvulikij",
+    "two-face"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

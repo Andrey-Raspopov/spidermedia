@@ -4,6 +4,11 @@
   "url": "/news/mest-pod-zvuki-repa/",
   "original_url": "http://spidermedia.ru/news/mest-pod-zvuki-repa",
   "archived": "https://web.archive.org/web/20251106235611/http://spidermedia.ru/news/mest-pod-zvuki-repa",
+  "tags": [
+    "fred-van-lente",
+    "salvador-larroka",
+    "punisher"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

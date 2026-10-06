@@ -4,6 +4,12 @@
   "url": "/news/dzhoker-snova-s-nami/",
   "original_url": "http://spidermedia.ru/news/dzhoker-snova-s-nami",
   "archived": "https://web.archive.org/web/20250208091702/http://spidermedia.ru/news/dzhoker-snova-s-nami",
+  "tags": [
+    "figurki",
+    "joker",
+    "hot-toys",
+    "dark-knight"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

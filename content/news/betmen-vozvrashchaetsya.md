@@ -4,6 +4,23 @@
   "url": "/news/betmen-vozvrashchaetsya/",
   "original_url": "http://spidermedia.ru/news/betmen-vozvrashchaetsya",
   "archived": "https://web.archive.org/web/20260214125127/http://spidermedia.ru/news/betmen-vozvrashchaetsya",
+  "tags": [
+    "fabian-nicieza",
+    "temnejshaya-noch",
+    "ramon-baks",
+    "piter-tomasi",
+    "dzhok",
+    "grant-morrison",
+    "art-0",
+    "azrail",
+    "ramon-bachs",
+    "peter-j.-tomasi",
+    "jock",
+    "dc-comics",
+    "blackest-night",
+    "batman",
+    "azrael"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

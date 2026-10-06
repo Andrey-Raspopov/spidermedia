@@ -4,6 +4,10 @@
   "url": "/blog/sterpazook/fen-video-superman-doomsday/",
   "original_url": "https://spidermedia.ru/blog/sterpazook/fen-video-superman-doomsday",
   "archived": "https://web.archive.org/web/20251115175308/https://spidermedia.ru/blog/sterpazook/fen-video-superman-doomsday",
+  "tags": [
+    "fanstaff",
+    "superman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

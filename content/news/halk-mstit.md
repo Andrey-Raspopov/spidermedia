@@ -4,6 +4,22 @@
   "url": "/news/halk-mstit/",
   "original_url": "http://spidermedia.ru/news/halk-mstit",
   "archived": "https://web.archive.org/web/20260117225626/http://spidermedia.ru/news/halk-mstit",
+  "tags": [
+    "komik-kon-v-nyu-jorke",
+    "dzho-kejsi",
+    "karl-moline",
+    "fred-van-lente",
+    "majkl-ejvon-oeming",
+    "dzhim-makkenn",
+    "rodzher-stern",
+    "tom-defalko",
+    "nycc-2011",
+    "hulk",
+    "avengers",
+    "marvel",
+    "maks-fiumara",
+    "ron-frenc"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

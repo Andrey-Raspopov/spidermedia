@@ -4,6 +4,10 @@
   "url": "/news/new-york-times-best-selling-graphic-books-14-marta/",
   "original_url": "http://spidermedia.ru/news/new-york-times-best-selling-graphic-books-14-marta",
   "archived": "https://web.archive.org/web/20251013182745/http://spidermedia.ru/news/new-york-times-best-selling-graphic-books-14-marta",
+  "tags": [
+    "manga",
+    "rejtingi-prodazh"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

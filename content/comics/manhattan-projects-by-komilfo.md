@@ -4,6 +4,10 @@
   "url": "/comics/manhattan-projects-by-komilfo/",
   "original_url": "https://spidermedia.ru/comics/manhattan-projects-by-komilfo",
   "archived": "https://web.archive.org/web/20251108195920/https://spidermedia.ru/comics/manhattan-projects-by-komilfo",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "komilfo"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

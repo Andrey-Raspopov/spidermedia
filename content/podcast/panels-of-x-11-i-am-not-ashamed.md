@@ -4,6 +4,10 @@
   "url": "/podcast/panels-of-x-11-i-am-not-ashamed/",
   "original_url": "http://spidermedia.ru/podcast/panels-of-x-11-i-am-not-ashamed",
   "archived": "https://web.archive.org/web/20251206034823/http://spidermedia.ru/podcast/panels-of-x-11-i-am-not-ashamed",
+  "tags": [
+    "panels-of-x",
+    "on-panels"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

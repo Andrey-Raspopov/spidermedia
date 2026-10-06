@@ -4,6 +4,11 @@
   "url": "/blog/redson/watchmen-one-year-and-two-and-half-months-later/",
   "original_url": "https://spidermedia.ru/blog/redson/watchmen-one-year-and-two-and-half-months-later",
   "archived": "https://web.archive.org/web/20250519181126/https://spidermedia.ru/blog/redson/watchmen-one-year-and-two-and-half-months-later",
+  "tags": [
+    "mnenie",
+    "hraniteli",
+    "zack-snyder"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

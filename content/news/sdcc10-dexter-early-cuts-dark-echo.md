@@ -4,6 +4,15 @@
   "url": "/news/sdcc10-dexter-early-cuts-dark-echo/",
   "original_url": "http://spidermedia.ru/news/sdcc10-dexter-early-cuts-dark-echo",
   "archived": "https://web.archive.org/web/20120512041203/http://spidermedia.ru/news/sdcc10-dexter-early-cuts-dark-echo",
+  "tags": [
+    "dexter",
+    "sdcc-2010",
+    "bill-sinkevich",
+    "dekster",
+    "komik-kon-v-san-diego",
+    "serialy",
+    "tim-shlatmann"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,13 @@
   "url": "/news/vozvrashchenie-bludnogo-kornella/",
   "original_url": "http://spidermedia.ru/news/vozvrashchenie-bludnogo-kornella",
   "archived": "https://web.archive.org/web/20150428052657/http://spidermedia.ru/news/vozvrashchenie-bludnogo-kornella",
+  "tags": [
+    "pol-kornell",
+    "alan-devis",
+    "marvel-now",
+    "marvel-comics",
+    "tizer"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

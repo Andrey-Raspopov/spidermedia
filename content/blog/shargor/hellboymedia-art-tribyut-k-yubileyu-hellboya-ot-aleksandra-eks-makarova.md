@@ -4,6 +4,11 @@
   "url": "/blog/shargor/hellboymedia-art-tribyut-k-yubileyu-hellboya-ot-aleksandra-eks-makarova/",
   "original_url": "https://spidermedia.ru/blog/shargor/hellboymedia-art-tribyut-k-yubileyu-hellboya-ot-aleksandra-eks-makarova",
   "archived": "https://web.archive.org/web/20251209130906/https://spidermedia.ru/blog/shargor/hellboymedia-art-tribyut-k-yubileyu-hellboya-ot-aleksandra-eks-makarova",
+  "tags": [
+    "art-tribyut",
+    "hellboymedia",
+    "20-let-hellboya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,18 @@
   "url": "/news/syn-ameriki-eto-gordo/",
   "original_url": "http://spidermedia.ru/news/syn-ameriki-eto-gordo",
   "archived": "https://web.archive.org/web/20260314080704/http://spidermedia.ru/news/syn-ameriki-eto-gordo",
+  "tags": [
+    "fil-himenez",
+    "paulo-sikejra",
+    "norman-ozborn",
+    "marko-chekchetto",
+    "zheleznyj-patriot",
+    "joe-kelly",
+    "garri-ozborn",
+    "norman-osborn",
+    "iron-patriot",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/news/dedpul-protiv-houkaya/",
   "original_url": "https://spidermedia.ru/news/dedpul-protiv-houkaya",
   "archived": "https://web.archive.org/web/20250315174251/https://spidermedia.ru/news/dedpul-protiv-houkaya",
+  "tags": [
+    "deadpool",
+    "marvel",
+    "hawkeye"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

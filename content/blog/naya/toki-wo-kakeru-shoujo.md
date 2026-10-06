@@ -4,6 +4,11 @@
   "url": "/blog/naya/toki-wo-kakeru-shoujo/",
   "original_url": "http://spidermedia.ru/blog/naya/toki-wo-kakeru-shoujo",
   "archived": "https://web.archive.org/web/20251107010500/http://spidermedia.ru/blog/naya/toki-wo-kakeru-shoujo",
+  "tags": [
+    "slice-of-life",
+    "sci-fi",
+    "anime"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

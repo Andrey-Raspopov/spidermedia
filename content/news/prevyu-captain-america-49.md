@@ -4,6 +4,15 @@
   "url": "/news/prevyu-captain-america-49/",
   "original_url": "http://spidermedia.ru/news/prevyu-captain-america-49",
   "archived": "https://web.archive.org/web/20120608033218/http://spidermedia.ru/news/prevyu-captain-america-49",
+  "tags": [
+    "captain-america",
+    "kapitan-amerika",
+    "komiksy",
+    "lyuk-ross",
+    "marvel",
+    "preview-s",
+    "ed-brubeyker"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

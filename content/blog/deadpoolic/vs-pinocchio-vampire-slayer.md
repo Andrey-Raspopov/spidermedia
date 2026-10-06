@@ -4,6 +4,11 @@
   "url": "/blog/deadpoolic/vs-pinocchio-vampire-slayer/",
   "original_url": "http://spidermedia.ru/blog/deadpoolic/vs-pinocchio-vampire-slayer",
   "archived": "https://web.archive.org/web/20111018131509/http://spidermedia.ru/blog/deadpoolic/vs-pinocchio-vampire-slayer",
+  "tags": [
+    "crosspost",
+    "pinocchio",
+    "komiksy"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

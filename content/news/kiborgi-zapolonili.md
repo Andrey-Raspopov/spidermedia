@@ -4,6 +4,17 @@
   "url": "/news/kiborgi-zapolonili/",
   "original_url": "https://spidermedia.ru/news/kiborgi-zapolonili",
   "archived": "https://web.archive.org/web/20260208200813/https://spidermedia.ru/news/kiborgi-zapolonili",
+  "tags": [
+    "charlz-soul",
+    "sem-hampris",
+    "pako-medina",
+    "nova",
+    "zeb-uells",
+    "andre-arauho",
+    "thunderbolts",
+    "marvel",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

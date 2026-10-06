@@ -4,6 +4,10 @@
   "url": "/animation/review-castlevania/",
   "original_url": "http://spidermedia.ru/animation/review-castlevania",
   "archived": "https://web.archive.org/web/20251018232429/http://spidermedia.ru/animation/review-castlevania",
+  "tags": [
+    "netflix",
+    "warren-ellis"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

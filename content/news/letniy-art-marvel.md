@@ -4,6 +4,19 @@
   "url": "/news/letniy-art-marvel/",
   "original_url": "http://spidermedia.ru/news/letniy-art-marvel",
   "archived": "https://web.archive.org/web/20120607114824/http://spidermedia.ru/news/letniy-art-marvel",
+  "tags": [
+    "avengers",
+    "spider-man",
+    "thunderbolts",
+    "zodiac",
+    "art-0",
+    "gromoverzhcy",
+    "zodiak",
+    "komiksy",
+    "marvel",
+    "mstiteli",
+    "chelovek-pauk"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

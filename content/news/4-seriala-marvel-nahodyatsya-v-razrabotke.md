@@ -4,6 +4,10 @@
   "url": "/news/4-seriala-marvel-nahodyatsya-v-razrabotke/",
   "original_url": "http://spidermedia.ru/news/4-seriala-marvel-nahodyatsya-v-razrabotke",
   "archived": "https://web.archive.org/web/20260213063332/http://spidermedia.ru/news/4-seriala-marvel-nahodyatsya-v-razrabotke",
+  "tags": [
+    "serialy",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

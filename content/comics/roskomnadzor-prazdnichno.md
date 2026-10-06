@@ -4,13 +4,19 @@
   "url": "/comics/roskomnadzor-prazdnichno/",
   "original_url": "https://spidermedia.ru/comics/roskomnadzor-prazdnichno",
   "archived": "https://web.archive.org/web/20260209120655/https://spidermedia.ru/comics/roskomnadzor-prazdnichno",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "horror-week",
+    "roskomnadzor",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
 [![](https://web.archive.org/web/20160611104551im_/http://spidermedia.ru/assets/cache/images/roskomnadzor/30102015/622x-12.2e9.jpg)](https://web.archive.org/web/20160611151202im_/http://spidermedia.ru/assets/images/roskomnadzor/30102015/12.jpg)
 
-Всегда было интересно, как люди отмечают (и отмечают ли) Хэллоуин в странах, где этот праздник не распространен? Вечеринки с переодеванием? Посиделки с фильмами ужасов? На Медии мы [решили почитать хорроры](https://web.archive.org/web/20260206220049/http://spidermedia.ru/tags/horror-week), поэтому можете заодно рассказать, на какие комиксы в этом жанре стоит обратить внимание. Я вот присмотрела сборник Through the Woods Эмили Кэрролл, но его пока что нет на русском, так что вернемся к делам мирским.
+Всегда было интересно, как люди отмечают (и отмечают ли) Хэллоуин в странах, где этот праздник не распространен? Вечеринки с переодеванием? Посиделки с фильмами ужасов? На Медии мы [решили почитать хорроры](../../tags/horror-week/), поэтому можете заодно рассказать, на какие комиксы в этом жанре стоит обратить внимание. Я вот присмотрела сборник Through the Woods Эмили Кэрролл, но его пока что нет на русском, так что вернемся к делам мирским.
 
 **Издательство «Панини»** выходит на финишную прямую с Ашет-коллекцией и объявило предпоследнюю пятерку серии. Будем надеяться, что цена больше не станет расти. Главная же интрига — продлят ли коллекцию до 120 выпусков. Будете в таком случае покупать?
 

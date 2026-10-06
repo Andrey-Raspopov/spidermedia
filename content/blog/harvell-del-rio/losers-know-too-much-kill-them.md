@@ -4,6 +4,12 @@
   "url": "/blog/harvell-del-rio/losers-know-too-much-kill-them/",
   "original_url": "http://spidermedia.ru/blog/harvell-del-rio/losers-know-too-much-kill-them",
   "archived": "https://web.archive.org/web/20251211025240/http://spidermedia.ru/blog/harvell-del-rio/losers-know-too-much-kill-them",
+  "tags": [
+    "vertigo",
+    "outstanding",
+    "jock",
+    "endi-diggl"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

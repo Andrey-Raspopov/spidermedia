@@ -4,6 +4,12 @@
   "url": "/blog/alex/rukovodstvo-k-temneyshey-nochi-chast-tretya-korpus-zelenyh-fonarey-dopolnenie/",
   "original_url": "http://spidermedia.ru/blog/alex/rukovodstvo-k-temneyshey-nochi-chast-tretya-korpus-zelenyh-fonarey-dopolnenie",
   "archived": "https://web.archive.org/web/20241110021712/http://spidermedia.ru/blog/alex/rukovodstvo-k-temneyshey-nochi-chast-tretya-korpus-zelenyh-fonarey-dopolnenie",
+  "tags": [
+    "obzor",
+    "green-lantern",
+    "dc-comics",
+    "blackest-night"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

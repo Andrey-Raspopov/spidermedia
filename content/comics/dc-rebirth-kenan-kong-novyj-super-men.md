@@ -4,6 +4,10 @@
   "url": "/comics/dc-rebirth-kenan-kong-novyj-super-men/",
   "original_url": "http://spidermedia.ru/comics/dc-rebirth-kenan-kong-novyj-super-men",
   "archived": "https://web.archive.org/web/20260313111800/http://spidermedia.ru/comics/dc-rebirth-kenan-kong-novyj-super-men",
+  "tags": [
+    "dc-comics",
+    "superman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

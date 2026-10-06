@@ -4,6 +4,10 @@
   "url": "/movies/fragment-filma-chelovek-muravej/",
   "original_url": "https://spidermedia.ru/movies/fragment-filma-chelovek-muravej",
   "archived": "https://web.archive.org/web/20251006001745/https://spidermedia.ru/movies/fragment-filma-chelovek-muravej",
+  "tags": [
+    "marvel",
+    "ant-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

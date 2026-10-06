@@ -4,6 +4,15 @@
   "url": "/news/i-want-you-dead/",
   "original_url": "https://spidermedia.ru/news/i-want-you-dead",
   "archived": "https://web.archive.org/web/20260211193952/https://spidermedia.ru/news/i-want-you-dead",
+  "tags": [
+    "karnazh",
+    "karnejdzh",
+    "zeb-uells",
+    "klejton-krejn",
+    "marvel",
+    "spider-man",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

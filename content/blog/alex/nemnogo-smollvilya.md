@@ -4,6 +4,13 @@
   "url": "/blog/alex/nemnogo-smollvilya/",
   "original_url": "https://spidermedia.ru/blog/alex/nemnogo-smollvilya",
   "archived": "https://web.archive.org/web/20260120164759/https://spidermedia.ru/blog/alex/nemnogo-smollvilya",
+  "tags": [
+    "smallville",
+    "smollvill",
+    "superman",
+    "tajny-smollvillya",
+    "serialy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

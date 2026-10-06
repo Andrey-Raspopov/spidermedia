@@ -4,6 +4,11 @@
   "url": "/news/retro-poster-pervogo-mstitelya-kapitan-amerika/",
   "original_url": "https://spidermedia.ru/news/retro-poster-pervogo-mstitelya-kapitan-amerika",
   "archived": "https://web.archive.org/web/20250913015501/https://spidermedia.ru/news/retro-poster-pervogo-mstitelya-kapitan-amerika",
+  "tags": [
+    "postery",
+    "marvel",
+    "captain-america"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

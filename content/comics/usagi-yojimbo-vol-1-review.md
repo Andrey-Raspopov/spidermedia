@@ -4,6 +4,10 @@
   "url": "/comics/usagi-yojimbo-vol-1-review/",
   "original_url": "https://spidermedia.ru/comics/usagi-yojimbo-vol-1-review",
   "archived": "https://web.archive.org/web/20251115183627/https://spidermedia.ru/comics/usagi-yojimbo-vol-1-review",
+  "tags": [
+    "mnenie",
+    "ramona"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

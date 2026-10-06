@@ -4,6 +4,10 @@
   "url": "/movies/dzhon-berg-i-dzheff-dzhons-novye-rulevye-kinovselennoj-dc/",
   "original_url": "http://spidermedia.ru/movies/dzhon-berg-i-dzheff-dzhons-novye-rulevye-kinovselennoj-dc",
   "archived": "https://web.archive.org/web/20260211193510/http://spidermedia.ru/movies/dzhon-berg-i-dzheff-dzhons-novye-rulevye-kinovselennoj-dc",
+  "tags": [
+    "dc-comics",
+    "geoff-johns"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

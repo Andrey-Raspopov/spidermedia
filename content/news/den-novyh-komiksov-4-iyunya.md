@@ -4,6 +4,9 @@
   "url": "/news/den-novyh-komiksov-4-iyunya/",
   "original_url": "http://spidermedia.ru/news/den-novyh-komiksov-4-iyunya",
   "archived": "https://web.archive.org/web/20190914074714/http://spidermedia.ru:80/news/den-novyh-komiksov-4-iyunya",
+  "tags": [
+    "den-novyh-komiksov"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

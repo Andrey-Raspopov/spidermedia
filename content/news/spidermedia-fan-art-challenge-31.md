@@ -4,6 +4,11 @@
   "url": "/news/spidermedia-fan-art-challenge-31/",
   "original_url": "http://spidermedia.ru/news/spidermedia-fan-art-challenge-31",
   "archived": "https://web.archive.org/web/20250906081851/http://spidermedia.ru/news/spidermedia-fan-art-challenge-31",
+  "tags": [
+    "fanart",
+    "miles-morales",
+    "challenge"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

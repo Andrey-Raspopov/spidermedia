@@ -4,6 +4,11 @@
   "url": "/news/i-kozyol/",
   "original_url": "http://spidermedia.ru/news/i-kozyol",
   "archived": "https://web.archive.org/web/20260208204649/http://spidermedia.ru/news/i-kozyol",
+  "tags": [
+    "tom-fauler",
+    "dzhejms-ezmus",
+    "valiant-entertainment"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

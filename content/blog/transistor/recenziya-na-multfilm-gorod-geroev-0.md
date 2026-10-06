@@ -4,6 +4,14 @@
   "url": "/blog/transistor/recenziya-na-multfilm-gorod-geroev-0/",
   "original_url": "http://spidermedia.ru/blog/transistor/recenziya-na-multfilm-gorod-geroev-0",
   "archived": "https://web.archive.org/web/20260115044143/http://spidermedia.ru/blog/transistor/recenziya-na-multfilm-gorod-geroev-0",
+  "tags": [
+    "recenziya",
+    "obzor",
+    "marvel",
+    "big-hero-6",
+    "animaciya",
+    "disney"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

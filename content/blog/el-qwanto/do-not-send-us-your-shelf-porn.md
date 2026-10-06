@@ -4,6 +4,9 @@
   "url": "/blog/el-qwanto/do-not-send-us-your-shelf-porn/",
   "original_url": "http://spidermedia.ru/blog/el-qwanto/do-not-send-us-your-shelf-porn",
   "archived": "https://web.archive.org/web/20200221074055/http://spidermedia.ru:80/blog/el-qwanto/do-not-send-us-your-shelf-porn",
+  "tags": [
+    "shelf-porn"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

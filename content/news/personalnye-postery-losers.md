@@ -4,6 +4,10 @@
   "url": "/news/personalnye-postery-losers/",
   "original_url": "http://spidermedia.ru/news/personalnye-postery-losers",
   "archived": "https://web.archive.org/web/20260314082335/http://spidermedia.ru/news/personalnye-postery-losers",
+  "tags": [
+    "neudachniki",
+    "vertigo"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

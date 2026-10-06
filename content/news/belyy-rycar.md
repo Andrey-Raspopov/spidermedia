@@ -4,6 +4,16 @@
   "url": "/news/belyy-rycar/",
   "original_url": "http://spidermedia.ru/news/belyy-rycar",
   "archived": "https://web.archive.org/web/20260116210251/http://spidermedia.ru/news/belyy-rycar",
+  "tags": [
+    "moon-knight",
+    "brian-michael-bendis",
+    "art-0",
+    "alex-maleev",
+    "nycc-2010",
+    "new-york-comic-con",
+    "marvel",
+    "komik-kon-v-nyu-jorke"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

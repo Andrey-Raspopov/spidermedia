@@ -4,6 +4,10 @@
   "url": "/comics/mzhdz-golovokruzhenie/",
   "original_url": "http://spidermedia.ru/comics/mzhdz-golovokruzhenie",
   "archived": "https://web.archive.org/web/20251216125422/http://spidermedia.ru/comics/mzhdz-golovokruzhenie",
+  "tags": [
+    "vertigo",
+    "mzhdz"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

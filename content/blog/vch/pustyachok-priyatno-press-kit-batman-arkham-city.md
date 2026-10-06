@@ -4,6 +4,12 @@
   "url": "/blog/vch/pustyachok-priyatno-press-kit-batman-arkham-city/",
   "original_url": "https://spidermedia.ru/blog/vch/pustyachok-priyatno-press-kit-batman-arkham-city",
   "archived": "https://web.archive.org/web/20260215075844/https://spidermedia.ru/blog/vch/pustyachok-priyatno-press-kit-batman-arkham-city",
+  "tags": [
+    "igry",
+    "dc-comics",
+    "batman",
+    "arkham-asylum"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

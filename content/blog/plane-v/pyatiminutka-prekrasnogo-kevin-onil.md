@@ -4,6 +4,11 @@
   "url": "/blog/plane-v/pyatiminutka-prekrasnogo-kevin-onil/",
   "original_url": "https://spidermedia.ru/blog/plane-v/pyatiminutka-prekrasnogo-kevin-onil",
   "archived": "https://web.archive.org/web/20250424190036/https://spidermedia.ru/blog/plane-v/pyatiminutka-prekrasnogo-kevin-onil",
+  "tags": [
+    "pyatiminutka-prekrasnogo",
+    "kevin-onil",
+    "art-0"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

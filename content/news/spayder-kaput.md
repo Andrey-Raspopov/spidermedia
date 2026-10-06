@@ -4,6 +4,16 @@
   "url": "/news/spayder-kaput/",
   "original_url": "https://spidermedia.ru/news/spayder-kaput",
   "archived": "https://web.archive.org/web/20260208193126/https://spidermedia.ru/news/spayder-kaput",
+  "tags": [
+    "marvel",
+    "spider-man",
+    "ultimate",
+    "lejnil-frensis-yu",
+    "mark-bagli",
+    "nik-spenser",
+    "dzhonatan-hikman",
+    "sara-pichelli"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

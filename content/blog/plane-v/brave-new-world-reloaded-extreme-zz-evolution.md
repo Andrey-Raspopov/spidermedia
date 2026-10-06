@@ -4,6 +4,9 @@
   "url": "/blog/plane-v/brave-new-world-reloaded-extreme-zz-evolution/",
   "original_url": "http://spidermedia.ru/blog/plane-v/brave-new-world-reloaded-extreme-zz-evolution",
   "archived": "https://web.archive.org/web/20120608195751/http://spidermedia.ru/blog/plane-v/brave-new-world-reloaded-extreme-zz-evolution",
+  "tags": [
+    "vstuplenie"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

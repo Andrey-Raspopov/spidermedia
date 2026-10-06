@@ -4,6 +4,10 @@
   "url": "/news/brayan-krenston-sygraet-leksa-lyutora-v-sikvele-cheloveka-iz-stali/",
   "original_url": "https://spidermedia.ru/news/brayan-krenston-sygraet-leksa-lyutora-v-sikvele-cheloveka-iz-stali",
   "archived": "https://web.archive.org/web/20260215073920/https://spidermedia.ru/news/brayan-krenston-sygraet-leksa-lyutora-v-sikvele-cheloveka-iz-stali",
+  "tags": [
+    "dc-comics",
+    "lex-luthor"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

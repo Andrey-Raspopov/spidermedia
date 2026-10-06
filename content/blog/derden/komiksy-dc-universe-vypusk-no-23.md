@@ -4,6 +4,12 @@
   "url": "/blog/derden/komiksy-dc-universe-vypusk-no-23/",
   "original_url": "http://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-23",
   "archived": "https://web.archive.org/web/20260211184046/http://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-23",
+  "tags": [
+    "teen-titans",
+    "dc-comics",
+    "geoff-johns",
+    "dc-universe-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,18 @@
   "url": "/news/daken-gryadet/",
   "original_url": "https://spidermedia.ru/news/daken-gryadet",
   "archived": "https://web.archive.org/web/20260206222331/https://spidermedia.ru/news/daken-gryadet",
+  "tags": [
+    "marvel",
+    "wolverine",
+    "daken",
+    "deniel-vej",
+    "mardzhori-lyu",
+    "dejken",
+    "daniel-way",
+    "dzhuzeppe-kamunkoli",
+    "marjorie-liu",
+    "giuseppe-camuncoli"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

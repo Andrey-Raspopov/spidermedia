@@ -4,6 +4,12 @@
   "url": "/news/myuzikl-chelovek-pauk-pogasit-tmu/",
   "original_url": "https://spidermedia.ru/news/myuzikl-chelovek-pauk-pogasit-tmu",
   "archived": "https://web.archive.org/web/20250807000047/https://spidermedia.ru/news/myuzikl-chelovek-pauk-pogasit-tmu",
+  "tags": [
+    "myuzikl",
+    "spider-man-turn-off-the-dark",
+    "marvel",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

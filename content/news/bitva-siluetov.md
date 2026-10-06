@@ -4,6 +4,11 @@
   "url": "/news/bitva-siluetov/",
   "original_url": "http://spidermedia.ru/news/bitva-siluetov",
   "archived": "https://web.archive.org/web/20251216112920/http://spidermedia.ru/news/bitva-siluetov",
+  "tags": [
+    "marvel",
+    "sara-pichelli",
+    "brian-michael-bendis"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

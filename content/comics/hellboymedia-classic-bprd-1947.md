@@ -4,6 +4,10 @@
   "url": "/comics/hellboymedia-classic-bprd-1947/",
   "original_url": "https://spidermedia.ru/comics/hellboymedia-classic-bprd-1947",
   "archived": "https://web.archive.org/web/20260312010933/https://spidermedia.ru/comics/hellboymedia-classic-bprd-1947",
+  "tags": [
+    "hellboymedia",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

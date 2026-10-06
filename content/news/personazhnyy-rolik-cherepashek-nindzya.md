@@ -4,6 +4,10 @@
   "url": "/news/personazhnyy-rolik-cherepashek-nindzya/",
   "original_url": "http://spidermedia.ru/news/personazhnyy-rolik-cherepashek-nindzya",
   "archived": "https://web.archive.org/web/20260125121248/http://spidermedia.ru/news/personazhnyy-rolik-cherepashek-nindzya",
+  "tags": [
+    "ninja-turtles",
+    "trejlery"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

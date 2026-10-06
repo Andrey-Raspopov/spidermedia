@@ -4,6 +4,10 @@
   "url": "/blog/gess/2009-god-v-oblozhkah-s-lenivymi-podpisyami/",
   "original_url": "https://spidermedia.ru/blog/gess/2009-god-v-oblozhkah-s-lenivymi-podpisyami",
   "archived": "https://web.archive.org/web/20240920173737/https://spidermedia.ru/blog/gess/2009-god-v-oblozhkah-s-lenivymi-podpisyami",
+  "tags": [
+    "kak-raz-vovremya",
+    "itogi-goda"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

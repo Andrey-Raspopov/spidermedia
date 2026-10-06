@@ -4,6 +4,21 @@
   "url": "/news/kep-yu-i-reborn/",
   "original_url": "http://spidermedia.ru/news/kep-yu-i-reborn",
   "archived": "https://web.archive.org/web/20200219113544/http://spidermedia.ru:80/news/kep-yu-i-reborn",
+  "tags": [
+    "ed-brubaker",
+    "fantastic-four",
+    "preview",
+    "lejnil-frensis-yu",
+    "krasnyj-cherep",
+    "doktor-dum",
+    "bryan-hitch",
+    "art-0",
+    "red-skull",
+    "marvel",
+    "doctor-doom",
+    "captain-america",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

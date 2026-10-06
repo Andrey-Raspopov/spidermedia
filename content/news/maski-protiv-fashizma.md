@@ -4,6 +4,16 @@
   "url": "/news/maski-protiv-fashizma/",
   "original_url": "http://spidermedia.ru/news/maski-protiv-fashizma",
   "archived": "https://web.archive.org/web/20260121001834/http://spidermedia.ru/news/maski-protiv-fashizma",
+  "tags": [
+    "kris-roberson",
+    "alex-ross",
+    "dynamite-entertainment",
+    "zorro",
+    "ten",
+    "shadow",
+    "green-hornet",
+    "zelenyj-shershen"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

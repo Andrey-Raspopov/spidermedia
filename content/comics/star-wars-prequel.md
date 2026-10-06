@@ -4,6 +4,11 @@
   "url": "/comics/star-wars-prequel/",
   "original_url": "https://spidermedia.ru/comics/star-wars-prequel",
   "archived": "https://web.archive.org/web/20260115064706/https://spidermedia.ru/comics/star-wars-prequel",
+  "tags": [
+    "marvel",
+    "zvezdnye-vojny",
+    "fil-noto"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

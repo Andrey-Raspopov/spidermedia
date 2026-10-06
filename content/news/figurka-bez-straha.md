@@ -4,6 +4,13 @@
   "url": "/news/figurka-bez-straha/",
   "original_url": "https://spidermedia.ru/news/figurka-bez-straha",
   "archived": "https://web.archive.org/web/20260120150119/https://spidermedia.ru/news/figurka-bez-straha",
+  "tags": [
+    "marvel",
+    "figurki",
+    "daredevil",
+    "dardevil",
+    "diamond-select"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

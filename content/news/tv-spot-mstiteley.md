@@ -4,6 +4,11 @@
   "url": "/news/tv-spot-mstiteley/",
   "original_url": "http://spidermedia.ru/news/tv-spot-mstiteley",
   "archived": "https://web.archive.org/web/20240614185345/http://spidermedia.ru/news/tv-spot-mstiteley",
+  "tags": [
+    "trejlery",
+    "marvel",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

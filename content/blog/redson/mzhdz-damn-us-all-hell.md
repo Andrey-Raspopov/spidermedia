@@ -4,11 +4,15 @@
   "url": "/blog/redson/mzhdz-damn-us-all-hell/",
   "original_url": "http://spidermedia.ru/blog/redson/mzhdz-damn-us-all-hell",
   "archived": "https://web.archive.org/web/20251013191745/http://spidermedia.ru/blog/redson/mzhdz-damn-us-all-hell",
+  "tags": [
+    "mnenie",
+    "mzhdz"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](https://web.archive.org/web/20251013191745im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz.png)](https://web.archive.org/web/20260206215846/http://spidermedia.ru/tags/mzhdz)
+[![](https://web.archive.org/web/20251013191745im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz.png)](../../../tags/mzhdz/)
 ![](https://web.archive.org/web/20251013191745im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/nomorepizza.jpg)
 **Еженедельные обзоры новых комиксов!**
 **Теперь:** do the clicky, смотри обложки в оригинальном размере. Мы сделали уже почти все для захвата мира, каждую неделю вы заходите сюда и видите самую сексуальную интернет-страницу во всем рунете (мальчики смотрят на картинки, девочки читают слова).

@@ -4,11 +4,15 @@
   "url": "/blog/redson/mzhdz-perezagruzka-dc-comics/",
   "original_url": "http://spidermedia.ru/blog/redson/mzhdz-perezagruzka-dc-comics",
   "archived": "https://web.archive.org/web/20251107005042/http://spidermedia.ru/blog/redson/mzhdz-perezagruzka-dc-comics",
+  "tags": [
+    "mnenie",
+    "mzhdz"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](https://web.archive.org/web/20251107005042im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz400.png)](https://web.archive.org/web/20260206215846/http://spidermedia.ru/tags/mzhdz)
+[![](https://web.archive.org/web/20251107005042im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz400.png)](../../../tags/mzhdz/)
 ![](https://web.archive.org/web/20251107005042im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/new52.jpg)
 ![](https://web.archive.org/web/20251107005042im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/SUPERCAGE.jpg)
 Вместо регулярного выпуска МЖДЗ мы решили сразу бахнуть спешл, посвященный двойному удару по мозгам любителей комиксов: Flashpoint #5, плавно (на самом деле не очень плавно) перетекающему в Justice League #1 - уже самый продаваемый комикс 2011 года. Ради такого праздника мы даже позвали супергероя Блогомедии Дердена, [написавшего Хронологию DC](../../derden/hronologiya-dc-universe-chast-i-prelude-identity-crisis-prelyudiya-k-krizisu-lichnosti/).

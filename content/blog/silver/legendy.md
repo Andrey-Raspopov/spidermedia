@@ -4,6 +4,11 @@
   "url": "/blog/silver/legendy/",
   "original_url": "http://spidermedia.ru/blog/silver/legendy",
   "archived": "https://web.archive.org/web/20120607115643/http://spidermedia.ru/blog/silver/legendy",
+  "tags": [
+    "kartinki",
+    "shok11",
+    "el-rio"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

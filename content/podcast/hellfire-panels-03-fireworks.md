@@ -4,6 +4,10 @@
   "url": "/podcast/hellfire-panels-03-fireworks/",
   "original_url": "https://spidermedia.ru/podcast/hellfire-panels-03-fireworks",
   "archived": "https://web.archive.org/web/20251213192655/https://spidermedia.ru/podcast/hellfire-panels-03-fireworks",
+  "tags": [
+    "panels-of-x",
+    "on-panels"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

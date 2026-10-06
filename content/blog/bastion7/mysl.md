@@ -4,6 +4,12 @@
   "url": "/blog/bastion7/mysl/",
   "original_url": "https://spidermedia.ru/blog/bastion7/mysl",
   "archived": "https://web.archive.org/web/20241202084735/https://spidermedia.ru/blog/bastion7/mysl",
+  "tags": [
+    "warren-ellis",
+    "mysli",
+    "grant-morrison",
+    "garth-ennis"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

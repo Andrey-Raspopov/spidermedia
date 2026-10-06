@@ -4,6 +4,22 @@
   "url": "/news/supersily-i-mnogoe-drugoe/",
   "original_url": "https://spidermedia.ru/news/supersily-i-mnogoe-drugoe",
   "archived": "https://web.archive.org/web/20251108042431/https://spidermedia.ru/news/supersily-i-mnogoe-drugoe",
+  "tags": [
+    "dc-comics",
+    "icon-comics",
+    "greg-rakka",
+    "dzhejms-robinson",
+    "ed-brubaker",
+    "incognito",
+    "shon-fillips",
+    "superman",
+    "power-girl",
+    "pauer-gyorl",
+    "amanda-konner",
+    "skott-kolins",
+    "bizarro",
+    "solomon-grundy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

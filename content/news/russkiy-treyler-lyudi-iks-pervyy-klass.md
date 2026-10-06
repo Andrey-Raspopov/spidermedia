@@ -4,6 +4,12 @@
   "url": "/news/russkiy-treyler-lyudi-iks-pervyy-klass/",
   "original_url": "http://spidermedia.ru/news/russkiy-treyler-lyudi-iks-pervyy-klass",
   "archived": "https://web.archive.org/web/20260125050725/http://spidermedia.ru/news/russkiy-treyler-lyudi-iks-pervyy-klass",
+  "tags": [
+    "trejlery",
+    "lyudi-iks-pervyj-klass",
+    "x-men-first-class",
+    "x-men"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

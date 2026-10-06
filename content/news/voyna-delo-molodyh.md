@@ -4,6 +4,15 @@
   "url": "/news/voyna-delo-molodyh/",
   "original_url": "https://spidermedia.ru/news/voyna-delo-molodyh",
   "archived": "https://web.archive.org/web/20260115054108/https://spidermedia.ru/news/voyna-delo-molodyh",
+  "tags": [
+    "tom-rejni",
+    "kristos-gejdzh",
+    "gigant",
+    "akademiya-mstitelej",
+    "marvel",
+    "giant-man",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

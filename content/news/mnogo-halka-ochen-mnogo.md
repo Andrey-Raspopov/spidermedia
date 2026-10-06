@@ -4,6 +4,23 @@
   "url": "/news/mnogo-halka-ochen-mnogo/",
   "original_url": "https://spidermedia.ru/news/mnogo-halka-ochen-mnogo",
   "archived": "https://web.archive.org/web/20260215075146/https://spidermedia.ru/news/mnogo-halka-ochen-mnogo",
+  "tags": [
+    "marvel",
+    "hulk",
+    "dzhef-loeb",
+    "pol-dzhenkins",
+    "art-0",
+    "skaar",
+    "greg-pak",
+    "fred-van-lente",
+    "hercules",
+    "krasnyj-halk",
+    "red-hulk",
+    "ed-makginnes",
+    "gerkules",
+    "ariel-olivetti",
+    "jen-cherchill"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,14 @@
   "url": "/blog/sp888/dark-reign-elektra-dinamika-v-ushcherb-ekshenu/",
   "original_url": "http://spidermedia.ru/blog/sp888/dark-reign-elektra-dinamika-v-ushcherb-ekshenu",
   "archived": "https://web.archive.org/web/20111020122209/http://spidermedia.ru/blog/sp888/dark-reign-elektra-dinamika-v-ushcherb-ekshenu",
+  "tags": [
+    "dark-reign",
+    "elektra",
+    "marvel",
+    "zeb-uells",
+    "komiksy",
+    "elektra-0"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

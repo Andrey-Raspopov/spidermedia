@@ -4,6 +4,17 @@
   "url": "/news/oficialnye-kadry-iz-filma-mstiteli/",
   "original_url": "https://spidermedia.ru/news/oficialnye-kadry-iz-filma-mstiteli",
   "archived": "https://web.archive.org/web/20251019002142/https://spidermedia.ru/news/oficialnye-kadry-iz-filma-mstiteli",
+  "tags": [
+    "black-widow",
+    "toni-stark",
+    "nik-fyuri",
+    "marvel",
+    "thor",
+    "nick-fury",
+    "iron-man",
+    "captain-america",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

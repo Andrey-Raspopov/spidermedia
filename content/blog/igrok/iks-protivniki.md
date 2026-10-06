@@ -4,6 +4,11 @@
   "url": "/blog/igrok/iks-protivniki/",
   "original_url": "http://spidermedia.ru/blog/igrok/iks-protivniki",
   "archived": "https://web.archive.org/web/20120607150149/http://spidermedia.ru/blog/igrok/iks-protivniki",
+  "tags": [
+    "x-men",
+    "lyudi-iks",
+    "mysli"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

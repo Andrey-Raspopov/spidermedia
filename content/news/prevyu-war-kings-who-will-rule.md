@@ -4,6 +4,16 @@
   "url": "/news/prevyu-war-kings-who-will-rule/",
   "original_url": "http://spidermedia.ru/news/prevyu-war-kings-who-will-rule",
   "archived": "https://web.archive.org/web/20120607112233/http://spidermedia.ru/news/prevyu-war-kings-who-will-rule",
+  "tags": [
+    "war-kings",
+    "art-0",
+    "voyna-koroley",
+    "den-ebnett",
+    "komiksy",
+    "marvel",
+    "pol-pellete",
+    "endi-lenning"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

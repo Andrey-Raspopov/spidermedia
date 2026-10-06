@@ -4,6 +4,11 @@
   "url": "/comics/new-world-1-review/",
   "original_url": "http://spidermedia.ru/comics/new-world-1-review",
   "archived": "https://web.archive.org/web/20251211023214/http://spidermedia.ru/comics/new-world-1-review",
+  "tags": [
+    "image-comics",
+    "ales-kot",
+    "tradd-moore"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

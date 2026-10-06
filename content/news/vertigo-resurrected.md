@@ -4,6 +4,11 @@
   "url": "/news/vertigo-resurrected/",
   "original_url": "https://spidermedia.ru/news/vertigo-resurrected",
   "archived": "https://web.archive.org/web/20260206225247/https://spidermedia.ru/news/vertigo-resurrected",
+  "tags": [
+    "warren-ellis",
+    "tim-bredstrit",
+    "vertigo"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

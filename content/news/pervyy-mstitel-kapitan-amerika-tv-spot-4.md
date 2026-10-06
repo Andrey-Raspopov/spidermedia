@@ -4,6 +4,11 @@
   "url": "/news/pervyy-mstitel-kapitan-amerika-tv-spot-4/",
   "original_url": "http://spidermedia.ru/news/pervyy-mstitel-kapitan-amerika-tv-spot-4",
   "archived": "https://web.archive.org/web/20241010053358/http://spidermedia.ru/news/pervyy-mstitel-kapitan-amerika-tv-spot-4",
+  "tags": [
+    "trejlery",
+    "marvel",
+    "captain-america"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

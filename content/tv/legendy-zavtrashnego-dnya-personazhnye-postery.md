@@ -4,6 +4,9 @@
   "url": "/tv/legendy-zavtrashnego-dnya-personazhnye-postery/",
   "original_url": "https://spidermedia.ru/tv/legendy-zavtrashnego-dnya-personazhnye-postery",
   "archived": "https://web.archive.org/web/20251216124721/https://spidermedia.ru/tv/legendy-zavtrashnego-dnya-personazhnye-postery",
+  "tags": [
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

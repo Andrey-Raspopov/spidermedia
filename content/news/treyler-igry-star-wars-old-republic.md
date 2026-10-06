@@ -4,6 +4,12 @@
   "url": "/news/treyler-igry-star-wars-old-republic/",
   "original_url": "http://spidermedia.ru/news/treyler-igry-star-wars-old-republic",
   "archived": "https://web.archive.org/web/20260211192534/http://spidermedia.ru/news/treyler-igry-star-wars-old-republic",
+  "tags": [
+    "igry",
+    "trejlery",
+    "star-wars",
+    "zvezdnye-vojny"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

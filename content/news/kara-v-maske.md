@@ -4,6 +4,17 @@
   "url": "/news/kara-v-maske/",
   "original_url": "http://spidermedia.ru/news/kara-v-maske",
   "archived": "https://web.archive.org/web/20120608174714/http://spidermedia.ru/news/kara-v-maske",
+  "tags": [
+    "noirverse",
+    "punisher",
+    "dennis-kalero",
+    "komiksy",
+    "marvel",
+    "pol-azasita",
+    "preview-s",
+    "tim-bredstrit",
+    "frenk-tieri-0"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

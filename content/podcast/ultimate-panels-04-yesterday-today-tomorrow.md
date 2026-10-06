@@ -4,6 +4,10 @@
   "url": "/podcast/ultimate-panels-04-yesterday-today-tomorrow/",
   "original_url": "http://spidermedia.ru/podcast/ultimate-panels-04-yesterday-today-tomorrow",
   "archived": "https://web.archive.org/web/20260116222528/http://spidermedia.ru/podcast/ultimate-panels-04-yesterday-today-tomorrow",
+  "tags": [
+    "ultimate-panels",
+    "on-panels"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

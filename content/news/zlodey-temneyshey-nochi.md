@@ -4,6 +4,11 @@
   "url": "/news/zlodey-temneyshey-nochi/",
   "original_url": "http://spidermedia.ru/news/zlodey-temneyshey-nochi",
   "archived": "https://web.archive.org/web/20250814210947/http://spidermedia.ru/news/zlodey-temneyshey-nochi",
+  "tags": [
+    "temnejshaya-noch",
+    "dc-comics",
+    "blackest-night"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

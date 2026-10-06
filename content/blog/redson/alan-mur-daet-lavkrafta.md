@@ -4,6 +4,10 @@
   "url": "/blog/redson/alan-mur-daet-lavkrafta/",
   "original_url": "http://spidermedia.ru/blog/redson/alan-mur-daet-lavkrafta",
   "archived": "https://web.archive.org/web/20120610054551/http://spidermedia.ru/blog/redson/alan-mur-daet-lavkrafta",
+  "tags": [
+    "alan-moore",
+    "kartinki"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

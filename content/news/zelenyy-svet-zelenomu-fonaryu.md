@@ -4,6 +4,11 @@
   "url": "/news/zelenyy-svet-zelenomu-fonaryu/",
   "original_url": "https://spidermedia.ru/news/zelenyy-svet-zelenomu-fonaryu",
   "archived": "https://web.archive.org/web/20250429012205/https://spidermedia.ru/news/zelenyy-svet-zelenomu-fonaryu",
+  "tags": [
+    "dc-comics",
+    "green-lantern",
+    "hal-jordan"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

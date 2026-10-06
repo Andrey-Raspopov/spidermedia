@@ -4,6 +4,13 @@
   "url": "/news/originaly-i-posledovateli/",
   "original_url": "https://spidermedia.ru/news/originaly-i-posledovateli",
   "archived": "https://web.archive.org/web/20260211191653/https://spidermedia.ru/news/originaly-i-posledovateli",
+  "tags": [
+    "zeb-uells",
+    "x-force",
+    "marvel",
+    "x-men",
+    "new-mutants"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,17 @@
   "url": "/news/shpionskie-strasti-rodrigesa-i-alby/",
   "original_url": "http://spidermedia.ru/news/shpionskie-strasti-rodrigesa-i-alby",
   "archived": "https://web.archive.org/web/20120607111643/http://spidermedia.ru/news/shpionskie-strasti-rodrigesa-i-alby",
+  "tags": [
+    "insiders",
+    "jessica-alba",
+    "robert-rodriguez",
+    "dzhessika-alba",
+    "evropeyskie-komiksy",
+    "insaydery",
+    "kino",
+    "komiksy",
+    "robert-rodriges"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

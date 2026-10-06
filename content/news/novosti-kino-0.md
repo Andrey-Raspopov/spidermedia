@@ -4,6 +4,10 @@
   "url": "/news/novosti-kino-0/",
   "original_url": "https://spidermedia.ru/news/novosti-kino-0",
   "archived": "https://web.archive.org/web/20250807225537/https://spidermedia.ru/news/novosti-kino-0",
+  "tags": [
+    "ant-man",
+    "prizrachnyj-gonshhik"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/blog/gess/chelovek-pauk-i-nevedomaya-gryobanaya-hrenovina/",
   "original_url": "http://spidermedia.ru/blog/gess/chelovek-pauk-i-nevedomaya-gryobanaya-hrenovina",
   "archived": "https://web.archive.org/web/20241110020212/http://spidermedia.ru/blog/gess/chelovek-pauk-i-nevedomaya-gryobanaya-hrenovina",
+  "tags": [
+    "animaciya",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

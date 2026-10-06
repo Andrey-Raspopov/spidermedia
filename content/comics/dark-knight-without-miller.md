@@ -4,6 +4,11 @@
   "url": "/comics/dark-knight-without-miller/",
   "original_url": "http://spidermedia.ru/comics/dark-knight-without-miller",
   "archived": "https://web.archive.org/web/20250429155346/http://spidermedia.ru/comics/dark-knight-without-miller",
+  "tags": [
+    "dc-comics",
+    "batman",
+    "frenk-miller"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

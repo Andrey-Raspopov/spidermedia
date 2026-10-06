@@ -4,6 +4,13 @@
   "url": "/news/nuarnyy-doktor-osminog/",
   "original_url": "http://spidermedia.ru/news/nuarnyy-doktor-osminog",
   "archived": "https://web.archive.org/web/20200217104921/http://spidermedia.ru:80/news/nuarnyy-doktor-osminog",
+  "tags": [
+    "doktor-osminog",
+    "noirverse",
+    "marvel",
+    "doctor-octopus",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

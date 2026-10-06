@@ -4,6 +4,13 @@
   "url": "/news/beskonechnye-istorii/",
   "original_url": "http://spidermedia.ru/news/beskonechnye-istorii",
   "archived": "https://web.archive.org/web/20260117220639/http://spidermedia.ru/news/beskonechnye-istorii",
+  "tags": [
+    "cifrovye-komiksy",
+    "styuart-immonen",
+    "nova",
+    "mark-waid",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

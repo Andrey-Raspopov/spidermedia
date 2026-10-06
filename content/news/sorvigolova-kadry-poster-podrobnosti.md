@@ -4,6 +4,11 @@
   "url": "/news/sorvigolova-kadry-poster-podrobnosti/",
   "original_url": "http://spidermedia.ru/news/sorvigolova-kadry-poster-podrobnosti",
   "archived": "https://web.archive.org/web/20260313104325/http://spidermedia.ru/news/sorvigolova-kadry-poster-podrobnosti",
+  "tags": [
+    "serialy",
+    "marvel",
+    "daredevil"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

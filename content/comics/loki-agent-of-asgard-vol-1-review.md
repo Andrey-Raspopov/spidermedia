@@ -4,6 +4,10 @@
   "url": "/comics/loki-agent-of-asgard-vol-1-review/",
   "original_url": "http://spidermedia.ru/comics/loki-agent-of-asgard-vol-1-review",
   "archived": "https://web.archive.org/web/20250715013025/http://spidermedia.ru/comics/loki-agent-of-asgard-vol-1-review",
+  "tags": [
+    "jellyfish-jam",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

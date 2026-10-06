@@ -4,6 +4,11 @@
   "url": "/comics/roskomnadzor-urozhay/",
   "original_url": "http://spidermedia.ru/comics/roskomnadzor-urozhay",
   "archived": "https://web.archive.org/web/20251115174102/http://spidermedia.ru/comics/roskomnadzor-urozhay",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "roskomnadzor",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

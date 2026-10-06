@@ -4,6 +4,18 @@
   "url": "/news/70-let-eto-tolko-povod/",
   "original_url": "http://spidermedia.ru/news/70-let-eto-tolko-povod",
   "archived": "https://web.archive.org/web/20120607115748/http://spidermedia.ru/news/70-let-eto-tolko-povod",
+  "tags": [
+    "bucky",
+    "miss-america",
+    "art-0",
+    "bakki",
+    "komiksy",
+    "marvel",
+    "miss-amerika",
+    "oblozhki",
+    "paolo-rivera",
+    "rodzher-stern"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

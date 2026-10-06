@@ -4,6 +4,10 @@
   "url": "/tv/preacher-s01e07-he-gone/",
   "original_url": "https://spidermedia.ru/tv/preacher-s01e07-he-gone",
   "archived": "https://web.archive.org/web/20260120150805/https://spidermedia.ru/tv/preacher-s01e07-he-gone",
+  "tags": [
+    "vertigo",
+    "preacher"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

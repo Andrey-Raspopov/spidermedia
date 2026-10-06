@@ -4,6 +4,11 @@
   "url": "/news/yep/",
   "original_url": "https://spidermedia.ru/news/yep",
   "archived": "https://web.archive.org/web/20260214132844/https://spidermedia.ru/news/yep",
+  "tags": [
+    "guardians-of-the-galaxy",
+    "skotti-yang",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

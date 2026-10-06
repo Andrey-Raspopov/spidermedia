@@ -4,6 +4,10 @@
   "url": "/news/zelenyy-fonar-v-polnyy-rost/",
   "original_url": "https://spidermedia.ru/news/zelenyy-fonar-v-polnyy-rost",
   "archived": "https://web.archive.org/web/20260211175205/https://spidermedia.ru/news/zelenyy-fonar-v-polnyy-rost",
+  "tags": [
+    "green-lantern",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

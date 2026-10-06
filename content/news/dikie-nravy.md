@@ -4,6 +4,12 @@
   "url": "/news/dikie-nravy/",
   "original_url": "http://spidermedia.ru/news/dikie-nravy",
   "archived": "https://web.archive.org/web/20241205032929/http://spidermedia.ru/news/dikie-nravy",
+  "tags": [
+    "dejl-iglshem",
+    "greg-pak",
+    "marvel",
+    "hulk"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

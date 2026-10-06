@@ -4,6 +4,21 @@
   "url": "/news/ocherednaya-porciya-svezhih-oblozhek/",
   "original_url": "http://spidermedia.ru/news/ocherednaya-porciya-svezhih-oblozhek",
   "archived": "https://web.archive.org/web/20260116211034/http://spidermedia.ru/news/ocherednaya-porciya-svezhih-oblozhek",
+  "tags": [
+    "batman",
+    "detective-comics",
+    "red-robin",
+    "dustin-nguyen",
+    "j.h.-williams",
+    "tony-daniel",
+    "phil-noto",
+    "fil-noto",
+    "dastin-nguen",
+    "toni-deniel",
+    "krasnyj-robin",
+    "betgyorl",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

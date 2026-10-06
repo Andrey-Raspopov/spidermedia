@@ -4,6 +4,10 @@
   "url": "/blog/gess/grustnye-mysli-na-temu-krizisa-i-industrii/",
   "original_url": "http://spidermedia.ru/blog/gess/grustnye-mysli-na-temu-krizisa-i-industrii",
   "archived": "https://web.archive.org/web/20150428053104/http://spidermedia.ru/blog/gess/grustnye-mysli-na-temu-krizisa-i-industrii",
+  "tags": [
+    "yumor",
+    "industriya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,0 +1,3 @@
+{
+  "title": "brian m. bendis"
+}

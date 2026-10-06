@@ -4,6 +4,10 @@
   "url": "/podcast/x-of-panels-02-x-factor/",
   "original_url": "http://spidermedia.ru/podcast/x-of-panels-02-x-factor",
   "archived": "https://web.archive.org/web/20250324230335/http://spidermedia.ru/podcast/x-of-panels-02-x-factor",
+  "tags": [
+    "panels-of-x",
+    "on-panels"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

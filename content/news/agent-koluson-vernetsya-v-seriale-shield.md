@@ -4,6 +4,12 @@
   "url": "/news/agent-koluson-vernetsya-v-seriale-shield/",
   "original_url": "http://spidermedia.ru/news/agent-koluson-vernetsya-v-seriale-shield",
   "archived": "https://web.archive.org/web/20260117221843/http://spidermedia.ru/news/agent-koluson-vernetsya-v-seriale-shield",
+  "tags": [
+    "serialy",
+    "avengers",
+    "marvel",
+    "s.h.i.e.l.d"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

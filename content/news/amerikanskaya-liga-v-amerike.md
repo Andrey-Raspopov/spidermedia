@@ -4,6 +4,12 @@
   "url": "/news/amerikanskaya-liga-v-amerike/",
   "original_url": "https://spidermedia.ru/news/amerikanskaya-liga-v-amerike",
   "archived": "https://web.archive.org/web/20260314083033/https://spidermedia.ru/news/amerikanskaya-liga-v-amerike",
+  "tags": [
+    "justice-league",
+    "devid-finch",
+    "geoff-johns",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

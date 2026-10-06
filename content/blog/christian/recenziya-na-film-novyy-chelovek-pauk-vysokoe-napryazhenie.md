@@ -4,6 +4,11 @@
   "url": "/blog/christian/recenziya-na-film-novyy-chelovek-pauk-vysokoe-napryazhenie/",
   "original_url": "https://spidermedia.ru/blog/christian/recenziya-na-film-novyy-chelovek-pauk-vysokoe-napryazhenie",
   "archived": "https://web.archive.org/web/20251116060005/https://spidermedia.ru/blog/christian/recenziya-na-film-novyy-chelovek-pauk-vysokoe-napryazhenie",
+  "tags": [
+    "spider-man",
+    "recenziya",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

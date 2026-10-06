@@ -4,6 +4,13 @@
   "url": "/news/i-am-legend/",
   "original_url": "http://spidermedia.ru/news/i-am-legend",
   "archived": "https://web.archive.org/web/20251211025911/http://spidermedia.ru/news/i-am-legend",
+  "tags": [
+    "punisher",
+    "dzhonatan-mejberri",
+    "marvel",
+    "art-0",
+    "goran-parlov"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,14 @@
   "url": "/news/po-doroge-v-eru-geroev/",
   "original_url": "http://spidermedia.ru/news/po-doroge-v-eru-geroev",
   "archived": "https://web.archive.org/web/20250709071047/http://spidermedia.ru/news/po-doroge-v-eru-geroev",
+  "tags": [
+    "bryan-hitch",
+    "art-0",
+    "marvel",
+    "avengers",
+    "era-geroev",
+    "heroic-age"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

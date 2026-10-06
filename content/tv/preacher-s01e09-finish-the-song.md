@@ -4,6 +4,10 @@
   "url": "/tv/preacher-s01e09-finish-the-song/",
   "original_url": "http://spidermedia.ru/tv/preacher-s01e09-finish-the-song",
   "archived": "https://web.archive.org/web/20260120164823/http://spidermedia.ru/tv/preacher-s01e09-finish-the-song",
+  "tags": [
+    "vertigo",
+    "preacher"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

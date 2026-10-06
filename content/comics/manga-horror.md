@@ -4,6 +4,9 @@
   "url": "/comics/manga-horror/",
   "original_url": "http://spidermedia.ru/comics/manga-horror",
   "archived": "https://web.archive.org/web/20260102050941/http://spidermedia.ru/comics/manga-horror",
+  "tags": [
+    "manga"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/news/dva-novyh-kadra-iz-filma-mstiteli/",
   "original_url": "https://spidermedia.ru/news/dva-novyh-kadra-iz-filma-mstiteli",
   "archived": "https://web.archive.org/web/20240720062410/https://spidermedia.ru/news/dva-novyh-kadra-iz-filma-mstiteli",
+  "tags": [
+    "avengers",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

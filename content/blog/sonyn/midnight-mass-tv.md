@@ -4,6 +4,10 @@
   "url": "/blog/sonyn/midnight-mass-tv/",
   "original_url": "http://spidermedia.ru/blog/sonyn/midnight-mass-tv",
   "archived": "https://web.archive.org/web/20120608145249/http://spidermedia.ru/blog/sonyn/midnight-mass-tv",
+  "tags": [
+    "midnight-mass",
+    "vertigo"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

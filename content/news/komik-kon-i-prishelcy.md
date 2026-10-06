@@ -4,6 +4,12 @@
   "url": "/news/komik-kon-i-prishelcy/",
   "original_url": "http://spidermedia.ru/news/komik-kon-i-prishelcy",
   "archived": "https://web.archive.org/web/20190621154513/http://spidermedia.ru:80/news/komik-kon-i-prishelcy",
+  "tags": [
+    "sajmon-pegg",
+    "nik-frost",
+    "san-diego-comic-con-international",
+    "paul"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

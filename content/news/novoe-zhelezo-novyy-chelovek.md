@@ -4,6 +4,12 @@
   "url": "/news/novoe-zhelezo-novyy-chelovek/",
   "original_url": "https://spidermedia.ru/news/novoe-zhelezo-novyy-chelovek",
   "archived": "https://web.archive.org/web/20251207012856/https://spidermedia.ru/news/novoe-zhelezo-novyy-chelovek",
+  "tags": [
+    "dzhonatan-hikman",
+    "marvel",
+    "iron-man",
+    "fantastic-four"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

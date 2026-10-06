@@ -4,6 +4,12 @@
   "url": "/news/xl-media-izdast-v-rossii-komiks-pretty-deadly/",
   "original_url": "https://spidermedia.ru/news/xl-media-izdast-v-rossii-komiks-pretty-deadly",
   "archived": "https://web.archive.org/web/20260307071337/https://spidermedia.ru/news/xl-media-izdast-v-rossii-komiks-pretty-deadly",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "xl-media",
+    "pretty-deadly",
+    "image-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

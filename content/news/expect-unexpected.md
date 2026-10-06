@@ -4,6 +4,12 @@
   "url": "/news/expect-unexpected/",
   "original_url": "https://spidermedia.ru/news/expect-unexpected",
   "archived": "https://web.archive.org/web/20260314082224/https://spidermedia.ru/news/expect-unexpected",
+  "tags": [
+    "x-men",
+    "x-factor",
+    "piter-devid",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

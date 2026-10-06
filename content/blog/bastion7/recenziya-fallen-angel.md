@@ -4,6 +4,13 @@
   "url": "/blog/bastion7/recenziya-fallen-angel/",
   "original_url": "http://spidermedia.ru/blog/bastion7/recenziya-fallen-angel",
   "archived": "https://web.archive.org/web/20260121001049/http://spidermedia.ru/blog/bastion7/recenziya-fallen-angel",
+  "tags": [
+    "piter-devid",
+    "dc-comics",
+    "recenziya",
+    "idw-publishing",
+    "fallen-angel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/blog/naya/aoi-bungaku-series/",
   "original_url": "http://spidermedia.ru/blog/naya/aoi-bungaku-series",
   "archived": "https://web.archive.org/web/20251112165027/http://spidermedia.ru/blog/naya/aoi-bungaku-series",
+  "tags": [
+    "seinen",
+    "historical",
+    "drama",
+    "anime"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

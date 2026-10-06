@@ -4,6 +4,14 @@
   "url": "/blog/ghost-knight/komiks-nedeli-22022009/",
   "original_url": "https://spidermedia.ru/blog/ghost-knight/komiks-nedeli-22022009",
   "archived": "https://web.archive.org/web/20251216115146/https://spidermedia.ru/blog/ghost-knight/komiks-nedeli-22022009",
+  "tags": [
+    "dc-comics",
+    "recenziya",
+    "komiksy",
+    "robin",
+    "nightwing",
+    "jason-todd"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

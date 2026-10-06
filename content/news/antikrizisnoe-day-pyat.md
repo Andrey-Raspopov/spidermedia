@@ -4,6 +4,11 @@
   "url": "/news/antikrizisnoe-day-pyat/",
   "original_url": "http://spidermedia.ru/news/antikrizisnoe-day-pyat",
   "archived": "https://web.archive.org/web/20190915014555/http://spidermedia.ru:80/news/antikrizisnoe-day-pyat",
+  "tags": [
+    "art-0",
+    "marvel",
+    "iron-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

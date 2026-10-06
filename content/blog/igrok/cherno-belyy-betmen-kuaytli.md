@@ -4,6 +4,13 @@
   "url": "/blog/igrok/cherno-belyy-betmen-kuaytli/",
   "original_url": "http://spidermedia.ru/blog/igrok/cherno-belyy-betmen-kuaytli",
   "archived": "https://web.archive.org/web/20260208211438/http://spidermedia.ru/blog/igrok/cherno-belyy-betmen-kuaytli",
+  "tags": [
+    "frenk-kuajtli",
+    "statui",
+    "frank-quitely",
+    "figurki",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

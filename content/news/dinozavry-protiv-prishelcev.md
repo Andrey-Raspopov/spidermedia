@@ -4,6 +4,10 @@
   "url": "/news/dinozavry-protiv-prishelcev/",
   "original_url": "http://spidermedia.ru/news/dinozavry-protiv-prishelcev",
   "archived": "https://web.archive.org/web/20170626183258/http://spidermedia.ru:80/news/dinozavry-protiv-prishelcev",
+  "tags": [
+    "dinozavry-protiv-prishelcev",
+    "grant-morrison"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

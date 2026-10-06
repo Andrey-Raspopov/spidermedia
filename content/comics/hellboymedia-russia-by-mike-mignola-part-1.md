@@ -4,6 +4,10 @@
   "url": "/comics/hellboymedia-russia-by-mike-mignola-part-1/",
   "original_url": "http://spidermedia.ru/comics/hellboymedia-russia-by-mike-mignola-part-1",
   "archived": "https://web.archive.org/web/20260312012205/http://spidermedia.ru/comics/hellboymedia-russia-by-mike-mignola-part-1",
+  "tags": [
+    "hellboymedia",
+    "mike-mignola-russia"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

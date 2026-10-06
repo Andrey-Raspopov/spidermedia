@@ -4,6 +4,17 @@
   "url": "/news/ccc09-invincible-iron-man/",
   "original_url": "http://spidermedia.ru/news/ccc09-invincible-iron-man",
   "archived": "https://web.archive.org/web/20120608142055/http://spidermedia.ru/news/ccc09-invincible-iron-man",
+  "tags": [
+    "dark-reign",
+    "iron-man",
+    "norman-osborn",
+    "zheleznyy-chelovek",
+    "komiksy",
+    "marvel",
+    "mett-frakshen",
+    "norman-osborn-0",
+    "preview-s"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

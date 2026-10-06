@@ -4,6 +4,11 @@
   "url": "/news/zangavar-izdast-peanuts-v-rossii/",
   "original_url": "http://spidermedia.ru/news/zangavar-izdast-peanuts-v-rossii",
   "archived": "https://web.archive.org/web/20231129061456/http://spidermedia.ru/news/zangavar-izdast-peanuts-v-rossii",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "zangavar",
+    "peanuts"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/news/mstiteli-v-moskve/",
   "original_url": "http://spidermedia.ru/news/mstiteli-v-moskve",
   "archived": "https://web.archive.org/web/20130619044354/http://spidermedia.ru/news/mstiteli-v-moskve",
+  "tags": [
+    "avengers",
+    "kino",
+    "marvel",
+    "mstiteli"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

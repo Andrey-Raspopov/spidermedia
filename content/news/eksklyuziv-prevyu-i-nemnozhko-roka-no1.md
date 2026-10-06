@@ -4,6 +4,11 @@
   "url": "/news/eksklyuziv-prevyu-i-nemnozhko-roka-no1/",
   "original_url": "http://spidermedia.ru/news/eksklyuziv-prevyu-i-nemnozhko-roka-no1",
   "archived": "https://web.archive.org/web/20250717184945/http://spidermedia.ru/news/eksklyuziv-prevyu-i-nemnozhko-roka-no1",
+  "tags": [
+    "russian-comics",
+    "preview",
+    "izdatelstvo-42"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/news/za-rodinu-za-odina/",
   "original_url": "http://spidermedia.ru/news/za-rodinu-za-odina",
   "archived": "https://web.archive.org/web/20220815193151/http://spidermedia.ru/news/za-rodinu-za-odina",
+  "tags": [
+    "sajmon-byanchi",
+    "robert-rodi",
+    "thor",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,20 @@
   "url": "/news/hulks-avgust-oktyabr-2010/",
   "original_url": "http://spidermedia.ru/news/hulks-avgust-oktyabr-2010",
   "archived": "https://web.archive.org/web/20260313112150/http://spidermedia.ru/news/hulks-avgust-oktyabr-2010",
+  "tags": [
+    "relizy",
+    "ralk",
+    "krasnyj-halk",
+    "she-hulk",
+    "dzheff-parker",
+    "dzhef-loeb",
+    "greg-pak",
+    "a-bomb",
+    "rulk",
+    "red-hulk",
+    "marvel",
+    "hulk"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

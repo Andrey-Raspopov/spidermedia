@@ -4,6 +4,13 @@
   "url": "/news/opasno-dlya-vashego-zdorovya/",
   "original_url": "https://spidermedia.ru/news/opasno-dlya-vashego-zdorovya",
   "archived": "https://web.archive.org/web/20260214141542/https://spidermedia.ru/news/opasno-dlya-vashego-zdorovya",
+  "tags": [
+    "gotem",
+    "dustin-nguyen",
+    "detective-comics",
+    "dc-comics",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

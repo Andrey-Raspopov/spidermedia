@@ -4,6 +4,9 @@
   "url": "/tv/riverdejl-trejler/",
   "original_url": "http://spidermedia.ru/tv/riverdejl-trejler",
   "archived": "https://web.archive.org/web/20260215084223/http://spidermedia.ru/tv/riverdejl-trejler",
+  "tags": [
+    "archie-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

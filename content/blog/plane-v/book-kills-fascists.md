@@ -4,6 +4,11 @@
   "url": "/blog/plane-v/book-kills-fascists/",
   "original_url": "http://spidermedia.ru/blog/plane-v/book-kills-fascists",
   "archived": "https://web.archive.org/web/20130619061430/http://spidermedia.ru/blog/plane-v/book-kills-fascists",
+  "tags": [
+    "invisibles",
+    "say-you-want-revolution",
+    "komiksy"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

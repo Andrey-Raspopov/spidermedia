@@ -4,6 +4,9 @@
   "url": "/news/skulptor-skotta-makklauda-stanet-filmom/",
   "original_url": "https://spidermedia.ru/news/skulptor-skotta-makklauda-stanet-filmom",
   "archived": "https://web.archive.org/web/20240301102719/https://spidermedia.ru/news/skulptor-skotta-makklauda-stanet-filmom",
+  "tags": [
+    "skott-makklaud"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

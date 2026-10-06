@@ -4,6 +4,11 @@
   "url": "/blog/alex/komiks-itogi-2009/",
   "original_url": "http://spidermedia.ru/blog/alex/komiks-itogi-2009",
   "archived": "https://web.archive.org/web/20250519174141/http://spidermedia.ru/blog/alex/komiks-itogi-2009",
+  "tags": [
+    "marvel",
+    "dc-comics",
+    "blackest-night"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

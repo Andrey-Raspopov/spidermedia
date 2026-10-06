@@ -4,6 +4,13 @@
   "url": "/news/zheleznyy-chelovek-bronirovannye-priklyucheniya-vsyo-chto-nuzhno-znat-o-novom-multseriale-pro/",
   "original_url": "http://spidermedia.ru/news/zheleznyy-chelovek-bronirovannye-priklyucheniya-vsyo-chto-nuzhno-znat-o-novom-multseriale-pro",
   "archived": "https://web.archive.org/web/20250715013209/http://spidermedia.ru/news/zheleznyy-chelovek-bronirovannye-priklyucheniya-vsyo-chto-nuzhno-znat-o-novom-multseriale-pro",
+  "tags": [
+    "marvel",
+    "iron-man",
+    "animaciya",
+    "war-machine",
+    "mandarin"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

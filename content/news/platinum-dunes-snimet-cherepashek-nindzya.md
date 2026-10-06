@@ -4,6 +4,12 @@
   "url": "/news/platinum-dunes-snimet-cherepashek-nindzya/",
   "original_url": "http://spidermedia.ru/news/platinum-dunes-snimet-cherepashek-nindzya",
   "archived": "https://web.archive.org/web/20191228062754/http://spidermedia.ru:80/news/platinum-dunes-snimet-cherepashek-nindzya",
+  "tags": [
+    "platinum-dunes",
+    "ninja-turtles",
+    "nickelodeon",
+    "mirage-studios"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

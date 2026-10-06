@@ -4,6 +4,11 @@
   "url": "/news/eksklyuziv-variantnaya-oblozhka-inok-no28-dlya-magazina-chuk-i-gik-0/",
   "original_url": "https://spidermedia.ru/news/eksklyuziv-variantnaya-oblozhka-inok-no28-dlya-magazina-chuk-i-gik-0",
   "archived": "https://web.archive.org/web/20250617233208/https://spidermedia.ru/news/eksklyuziv-variantnaya-oblozhka-inok-no28-dlya-magazina-chuk-i-gik-0",
+  "tags": [
+    "bubble",
+    "inok",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

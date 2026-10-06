@@ -4,6 +4,14 @@
   "url": "/news/muzykalnoe-video-spider-woman/",
   "original_url": "https://spidermedia.ru/news/muzykalnoe-video-spider-woman",
   "archived": "https://web.archive.org/web/20260115062055/https://spidermedia.ru/news/muzykalnoe-video-spider-woman",
+  "tags": [
+    "spider-woman",
+    "zhenshhina-pauk",
+    "marvel",
+    "muzyka",
+    "motion-comics",
+    "animirovannye-komiksy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

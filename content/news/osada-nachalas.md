@@ -4,6 +4,17 @@
   "url": "/news/osada-nachalas/",
   "original_url": "https://spidermedia.ru/news/osada-nachalas",
   "archived": "https://web.archive.org/web/20251013184521/https://spidermedia.ru/news/osada-nachalas",
+  "tags": [
+    "avengers",
+    "osada",
+    "iniciativa",
+    "thor",
+    "the-initiative",
+    "new-avengers",
+    "marvel",
+    "iron-man",
+    "captain-america"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

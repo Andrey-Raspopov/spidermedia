@@ -4,6 +4,10 @@
   "url": "/news/spidermedia-fan-art-challenge-1-belorusskiy-partizan/",
   "original_url": "http://spidermedia.ru/news/spidermedia-fan-art-challenge-1-belorusskiy-partizan",
   "archived": "https://web.archive.org/web/20260314082306/http://spidermedia.ru/news/spidermedia-fan-art-challenge-1-belorusskiy-partizan",
+  "tags": [
+    "fanart",
+    "challenge"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

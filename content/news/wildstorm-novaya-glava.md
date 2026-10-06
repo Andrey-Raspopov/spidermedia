@@ -4,6 +4,11 @@
   "url": "/news/wildstorm-novaya-glava/",
   "original_url": "http://spidermedia.ru/news/wildstorm-novaya-glava",
   "archived": "https://web.archive.org/web/20111019195547/http://spidermedia.ru/news/wildstorm-novaya-glava",
+  "tags": [
+    "dc-comics",
+    "wildstorm",
+    "komiksy"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

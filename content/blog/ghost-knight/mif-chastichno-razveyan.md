@@ -4,6 +4,13 @@
   "url": "/blog/ghost-knight/mif-chastichno-razveyan/",
   "original_url": "http://spidermedia.ru/blog/ghost-knight/mif-chastichno-razveyan",
   "archived": "https://web.archive.org/web/20120607084318/http://spidermedia.ru/blog/ghost-knight/mif-chastichno-razveyan",
+  "tags": [
+    "dc-comics",
+    "teen-titans",
+    "dik-greyson",
+    "komiksy",
+    "robin-0"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

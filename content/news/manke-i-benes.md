@@ -4,6 +4,13 @@
   "url": "/news/manke-i-benes/",
   "original_url": "https://spidermedia.ru/news/manke-i-benes",
   "archived": "https://web.archive.org/web/20260120152938/https://spidermedia.ru/news/manke-i-benes",
+  "tags": [
+    "dag-manke",
+    "temnejshaya-noch",
+    "blackest-night",
+    "doug-mahnke",
+    "ed-benes"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

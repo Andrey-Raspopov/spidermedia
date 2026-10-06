@@ -4,6 +4,11 @@
   "url": "/blog/sonyn/kirby-krackle/",
   "original_url": "https://spidermedia.ru/blog/sonyn/kirby-krackle",
   "archived": "https://web.archive.org/web/20260125054229/https://spidermedia.ru/blog/sonyn/kirby-krackle",
+  "tags": [
+    "muzyka",
+    "kirby-krackle",
+    "green-lantern"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

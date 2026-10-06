@@ -4,6 +4,10 @@
   "url": "/news/tom-hardi-pokinul-otryad-samoubiyc/",
   "original_url": "https://spidermedia.ru/news/tom-hardi-pokinul-otryad-samoubiyc",
   "archived": "https://web.archive.org/web/20251206155931/https://spidermedia.ru/news/tom-hardi-pokinul-otryad-samoubiyc",
+  "tags": [
+    "kasting",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/news/misterii-ubiystva-nila-geymana-vyydut-na-russkom-yazyke/",
   "original_url": "https://spidermedia.ru/news/misterii-ubiystva-nila-geymana-vyydut-na-russkom-yazyke",
   "archived": "https://web.archive.org/web/20251014040122/https://spidermedia.ru/news/misterii-ubiystva-nila-geymana-vyydut-na-russkom-yazyke",
+  "tags": [
+    "neil-gaiman",
+    "zarubezhnye-komiksy-na-russkom",
+    "xl-media",
+    "dark-horse"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

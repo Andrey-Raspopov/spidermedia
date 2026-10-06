@@ -4,6 +4,12 @@
   "url": "/comics/podrobnosti-serij-x-men-gold-i-x-men-blue/",
   "original_url": "http://spidermedia.ru/comics/podrobnosti-serij-x-men-gold-i-x-men-blue",
   "archived": "https://web.archive.org/web/20260116212659/http://spidermedia.ru/comics/podrobnosti-serij-x-men-gold-i-x-men-blue",
+  "tags": [
+    "marvel",
+    "kallen-bann",
+    "x-men",
+    "mark-guggenhajm"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

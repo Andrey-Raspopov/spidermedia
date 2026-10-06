@@ -4,6 +4,10 @@
   "url": "/movies/pervyj-mstitel-protivostoyanie-tvorcheskij-konkurs/",
   "original_url": "http://spidermedia.ru/movies/pervyj-mstitel-protivostoyanie-tvorcheskij-konkurs",
   "archived": "https://web.archive.org/web/20260214135242/http://spidermedia.ru/movies/pervyj-mstitel-protivostoyanie-tvorcheskij-konkurs",
+  "tags": [
+    "marvel",
+    "konkurs"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

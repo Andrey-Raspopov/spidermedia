@@ -4,6 +4,11 @@
   "url": "/blog/zmeyukina/ekonomicheskie-zametki-blondinki-1/",
   "original_url": "https://spidermedia.ru/blog/zmeyukina/ekonomicheskie-zametki-blondinki-1",
   "archived": "https://web.archive.org/web/20260307054402/https://spidermedia.ru/blog/zmeyukina/ekonomicheskie-zametki-blondinki-1",
+  "tags": [
+    "marvel",
+    "image-comics",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

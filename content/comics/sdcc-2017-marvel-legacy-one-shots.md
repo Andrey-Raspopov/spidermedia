@@ -4,6 +4,14 @@
   "url": "/comics/sdcc-2017-marvel-legacy-one-shots/",
   "original_url": "https://spidermedia.ru/comics/sdcc-2017-marvel-legacy-one-shots",
   "archived": "https://web.archive.org/web/20251107002552/https://spidermedia.ru/comics/sdcc-2017-marvel-legacy-one-shots",
+  "tags": [
+    "darkhawk",
+    "dazzler",
+    "legacy",
+    "marvel",
+    "shang-chi",
+    "san-diego-comic-con-international"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

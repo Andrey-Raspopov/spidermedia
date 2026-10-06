@@ -4,6 +4,9 @@
   "url": "/blog/redson/den-novyh-komiksov-16-iyulya/",
   "original_url": "http://spidermedia.ru/blog/redson/den-novyh-komiksov-16-iyulya",
   "archived": "https://web.archive.org/web/20190915020851/http://spidermedia.ru:80/blog/redson/den-novyh-komiksov-16-iyulya",
+  "tags": [
+    "den-novyh-komiksov"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

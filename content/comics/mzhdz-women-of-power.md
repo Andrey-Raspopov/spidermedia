@@ -4,6 +4,9 @@
   "url": "/comics/mzhdz-women-of-power/",
   "original_url": "http://spidermedia.ru/comics/mzhdz-women-of-power",
   "archived": "https://web.archive.org/web/20251012182259/http://spidermedia.ru/comics/mzhdz-women-of-power",
+  "tags": [
+    "mzhdz"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

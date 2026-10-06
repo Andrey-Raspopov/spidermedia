@@ -4,6 +4,14 @@
   "url": "/news/im-batgirl/",
   "original_url": "http://spidermedia.ru/news/im-batgirl",
   "archived": "https://web.archive.org/web/20200223055028/http://spidermedia.ru:80/news/im-batgirl",
+  "tags": [
+    "dc-comics",
+    "art-0",
+    "betgyorl",
+    "li-garbett",
+    "fil-noto",
+    "brajan-kyu.-miller"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/movies/batman-v-superman-final-trailer/",
   "original_url": "https://spidermedia.ru/movies/batman-v-superman-final-trailer",
   "archived": "https://web.archive.org/web/20260214143517/https://spidermedia.ru/movies/batman-v-superman-final-trailer",
+  "tags": [
+    "dc-comics",
+    "batman",
+    "superman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

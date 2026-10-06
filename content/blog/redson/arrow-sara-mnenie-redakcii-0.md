@@ -4,6 +4,10 @@
   "url": "/blog/redson/arrow-sara-mnenie-redakcii-0/",
   "original_url": "http://spidermedia.ru/blog/redson/arrow-sara-mnenie-redakcii-0",
   "archived": "https://web.archive.org/web/20260117225025/http://spidermedia.ru/blog/redson/arrow-sara-mnenie-redakcii-0",
+  "tags": [
+    "dc-comics",
+    "green-arrow"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

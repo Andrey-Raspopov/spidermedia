@@ -4,6 +4,11 @@
   "url": "/news/kevin-faygi-otvechaet/",
   "original_url": "https://spidermedia.ru/news/kevin-faygi-otvechaet",
   "archived": "https://web.archive.org/web/20251112161733/https://spidermedia.ru/news/kevin-faygi-otvechaet",
+  "tags": [
+    "thor",
+    "iron-man",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

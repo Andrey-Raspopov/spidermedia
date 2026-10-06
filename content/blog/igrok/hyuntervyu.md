@@ -4,6 +4,12 @@
   "url": "/blog/igrok/hyuntervyu/",
   "original_url": "http://spidermedia.ru/blog/igrok/hyuntervyu",
   "archived": "https://web.archive.org/web/20120608154830/http://spidermedia.ru/blog/igrok/hyuntervyu",
+  "tags": [
+    "hugh-jackman",
+    "wolverine",
+    "kino",
+    "rosomaha"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

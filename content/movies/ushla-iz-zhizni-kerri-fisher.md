@@ -4,6 +4,9 @@
   "url": "/movies/ushla-iz-zhizni-kerri-fisher/",
   "original_url": "https://spidermedia.ru/movies/ushla-iz-zhizni-kerri-fisher",
   "archived": "https://web.archive.org/web/20251013185853/https://spidermedia.ru/movies/ushla-iz-zhizni-kerri-fisher",
+  "tags": [
+    "zvezdnye-vojny"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

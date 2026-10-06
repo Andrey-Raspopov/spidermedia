@@ -4,6 +4,10 @@
   "url": "/comics/all-new-mzhdz-bubble-special-o-chem-eshhe-ne-govorili/",
   "original_url": "https://spidermedia.ru/comics/all-new-mzhdz-bubble-special-o-chem-eshhe-ne-govorili",
   "archived": "https://web.archive.org/web/20260116221122/https://spidermedia.ru/comics/all-new-mzhdz-bubble-special-o-chem-eshhe-ne-govorili",
+  "tags": [
+    "bubble",
+    "mzhdz"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

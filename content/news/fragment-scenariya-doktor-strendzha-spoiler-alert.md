@@ -4,6 +4,10 @@
   "url": "/news/fragment-scenariya-doktor-strendzha-spoiler-alert/",
   "original_url": "http://spidermedia.ru/news/fragment-scenariya-doktor-strendzha-spoiler-alert",
   "archived": "https://web.archive.org/web/20260314080925/http://spidermedia.ru/news/fragment-scenariya-doktor-strendzha-spoiler-alert",
+  "tags": [
+    "marvel",
+    "doctor-strange"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

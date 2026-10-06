@@ -4,6 +4,10 @@
   "url": "/blog/hedsar/everything-burns-everyone-cries/",
   "original_url": "http://spidermedia.ru/blog/hedsar/everything-burns-everyone-cries",
   "archived": "https://web.archive.org/web/20260116212918/http://spidermedia.ru/blog/hedsar/everything-burns-everyone-cries",
+  "tags": [
+    "manga",
+    "apokalipsis"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

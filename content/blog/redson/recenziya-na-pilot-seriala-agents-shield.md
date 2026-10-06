@@ -4,6 +4,11 @@
   "url": "/blog/redson/recenziya-na-pilot-seriala-agents-shield/",
   "original_url": "http://spidermedia.ru/blog/redson/recenziya-na-pilot-seriala-agents-shield",
   "archived": "https://web.archive.org/web/20260208200331/http://spidermedia.ru/blog/redson/recenziya-na-pilot-seriala-agents-shield",
+  "tags": [
+    "mnenie",
+    "marvel",
+    "s.h.i.e.l.d"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

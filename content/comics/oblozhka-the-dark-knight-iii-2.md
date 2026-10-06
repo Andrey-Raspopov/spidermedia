@@ -4,6 +4,11 @@
   "url": "/comics/oblozhka-the-dark-knight-iii-2/",
   "original_url": "http://spidermedia.ru/comics/oblozhka-the-dark-knight-iii-2",
   "archived": "https://web.archive.org/web/20251211034834/http://spidermedia.ru/comics/oblozhka-the-dark-knight-iii-2",
+  "tags": [
+    "batman",
+    "dc-comics",
+    "endi-kubert"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

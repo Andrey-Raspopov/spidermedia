@@ -4,6 +4,15 @@
   "url": "/news/iglshem-v-kachestve/",
   "original_url": "http://spidermedia.ru/news/iglshem-v-kachestve",
   "archived": "https://web.archive.org/web/20120718055735/http://spidermedia.ru/news/iglshem-v-kachestve",
+  "tags": [
+    "fantastic-four",
+    "art-0",
+    "deyl-iglshem",
+    "komiksy",
+    "marvel",
+    "oblozhki",
+    "fantasticheskaya-chetverka"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

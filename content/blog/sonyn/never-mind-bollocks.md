@@ -4,6 +4,14 @@
   "url": "/blog/sonyn/never-mind-bollocks/",
   "original_url": "https://spidermedia.ru/blog/sonyn/never-mind-bollocks",
   "archived": "https://web.archive.org/web/20251115174541/https://spidermedia.ru/blog/sonyn/never-mind-bollocks",
+  "tags": [
+    "peter-milligan",
+    "muzyka",
+    "vertigo",
+    "the-minx",
+    "sex-pistols",
+    "hellblazer"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

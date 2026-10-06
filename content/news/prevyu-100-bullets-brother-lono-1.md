@@ -4,6 +4,13 @@
   "url": "/news/prevyu-100-bullets-brother-lono-1/",
   "original_url": "https://spidermedia.ru/news/prevyu-100-bullets-brother-lono-1",
   "archived": "https://web.archive.org/web/20251206150028/https://spidermedia.ru/news/prevyu-100-bullets-brother-lono-1",
+  "tags": [
+    "brian-azzarello",
+    "eduardo-risso",
+    "preview",
+    "dc-comics",
+    "vertigo"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

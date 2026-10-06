@@ -4,6 +4,13 @@
   "url": "/news/novyy-punisher-novye-avtory/",
   "original_url": "https://spidermedia.ru/news/novyy-punisher-novye-avtory",
   "archived": "https://web.archive.org/web/20260306000244/https://spidermedia.ru/news/novyy-punisher-novye-avtory",
+  "tags": [
+    "marko-chekchetto",
+    "punisher",
+    "greg-rakka",
+    "art-0",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

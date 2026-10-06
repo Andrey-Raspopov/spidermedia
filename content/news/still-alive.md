@@ -4,6 +4,16 @@
   "url": "/news/still-alive/",
   "original_url": "http://spidermedia.ru/news/still-alive",
   "archived": "https://web.archive.org/web/20250512122505/http://spidermedia.ru/news/still-alive",
+  "tags": [
+    "frenk-miller",
+    "scott-pilgrim",
+    "manga",
+    "kserks",
+    "xerxes",
+    "x-men-first-class",
+    "x-men",
+    "thor"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

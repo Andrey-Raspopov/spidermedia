@@ -4,6 +4,12 @@
   "url": "/blog/sterpazook/final-losta-eksklyuziv/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/final-losta-eksklyuziv",
   "archived": "https://web.archive.org/web/20251116063827/http://spidermedia.ru/blog/sterpazook/final-losta-eksklyuziv",
+  "tags": [
+    "yumor",
+    "lost",
+    "spoof",
+    "ostatsya-v-zhivyh"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/movies/batman-and-ershov/",
   "original_url": "http://spidermedia.ru/movies/batman-and-ershov",
   "archived": "https://web.archive.org/web/20260309184922/http://spidermedia.ru/movies/batman-and-ershov",
+  "tags": [
+    "batman-and-robin-day"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

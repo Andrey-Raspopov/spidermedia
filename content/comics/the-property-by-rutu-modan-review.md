@@ -4,6 +4,10 @@
   "url": "/comics/the-property-by-rutu-modan-review/",
   "original_url": "http://spidermedia.ru/comics/the-property-by-rutu-modan-review",
   "archived": "https://web.archive.org/web/20250807220447/http://spidermedia.ru/comics/the-property-by-rutu-modan-review",
+  "tags": [
+    "boomkniga",
+    "zarubezhnye-komiksy-na-russkom"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

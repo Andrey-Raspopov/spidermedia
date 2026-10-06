@@ -4,6 +4,9 @@
   "url": "/comics/dc-comics-vozvrashhaet-klassicheskih-personazhej-hanna-barbera/",
   "original_url": "https://spidermedia.ru/comics/dc-comics-vozvrashhaet-klassicheskih-personazhej-hanna-barbera",
   "archived": "https://web.archive.org/web/20210120165025/https://spidermedia.ru/comics/dc-comics-vozvrashhaet-klassicheskih-personazhej-hanna-barbera",
+  "tags": [
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

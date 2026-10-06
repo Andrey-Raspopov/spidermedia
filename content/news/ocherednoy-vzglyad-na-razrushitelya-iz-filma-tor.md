@@ -4,6 +4,13 @@
   "url": "/news/ocherednoy-vzglyad-na-razrushitelya-iz-filma-tor/",
   "original_url": "http://spidermedia.ru/news/ocherednoy-vzglyad-na-razrushitelya-iz-filma-tor",
   "archived": "https://web.archive.org/web/20240518203117/http://spidermedia.ru/news/ocherednoy-vzglyad-na-razrushitelya-iz-filma-tor",
+  "tags": [
+    "razrushitel",
+    "kennet-brana",
+    "thor",
+    "marvel",
+    "destroyer"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

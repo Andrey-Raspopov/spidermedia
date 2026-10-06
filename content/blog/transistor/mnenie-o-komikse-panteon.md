@@ -4,6 +4,11 @@
   "url": "/blog/transistor/mnenie-o-komikse-panteon/",
   "original_url": "http://spidermedia.ru/blog/transistor/mnenie-o-komikse-panteon",
   "archived": "https://web.archive.org/web/20260120160623/http://spidermedia.ru/blog/transistor/mnenie-o-komikse-panteon",
+  "tags": [
+    "filipp-sosedov",
+    "russian-comics",
+    "belyj-edinorog"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

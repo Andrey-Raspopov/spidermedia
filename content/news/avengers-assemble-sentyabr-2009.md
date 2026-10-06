@@ -4,6 +4,13 @@
   "url": "/news/avengers-assemble-sentyabr-2009/",
   "original_url": "http://spidermedia.ru/news/avengers-assemble-sentyabr-2009",
   "archived": "https://web.archive.org/web/20120718110111/http://spidermedia.ru/news/avengers-assemble-sentyabr-2009",
+  "tags": [
+    "avengers",
+    "komiksy",
+    "marvel",
+    "mstiteli",
+    "preview-s"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

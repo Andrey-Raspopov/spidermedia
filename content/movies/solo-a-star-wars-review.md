@@ -4,6 +4,9 @@
   "url": "/movies/solo-a-star-wars-review/",
   "original_url": "http://spidermedia.ru/movies/solo-a-star-wars-review",
   "archived": "https://web.archive.org/web/20250814204157/http://spidermedia.ru/movies/solo-a-star-wars-review",
+  "tags": [
+    "zvezdnye-vojny"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

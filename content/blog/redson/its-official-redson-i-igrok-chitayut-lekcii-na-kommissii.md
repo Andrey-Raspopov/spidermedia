@@ -4,6 +4,9 @@
   "url": "/blog/redson/its-official-redson-i-igrok-chitayut-lekcii-na-kommissii/",
   "original_url": "http://spidermedia.ru/blog/redson/its-official-redson-i-igrok-chitayut-lekcii-na-kommissii",
   "archived": "https://web.archive.org/web/20251013185312/http://spidermedia.ru/blog/redson/its-official-redson-i-igrok-chitayut-lekcii-na-kommissii",
+  "tags": [
+    "kommissiya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

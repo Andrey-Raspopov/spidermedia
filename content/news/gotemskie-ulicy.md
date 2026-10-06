@@ -4,6 +4,13 @@
   "url": "/news/gotemskie-ulicy/",
   "original_url": "http://spidermedia.ru/news/gotemskie-ulicy",
   "archived": "https://web.archive.org/web/20120718211532/http://spidermedia.ru/news/gotemskie-ulicy",
+  "tags": [
+    "batman",
+    "dc-comics",
+    "art-0",
+    "betmen",
+    "oblozhki"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

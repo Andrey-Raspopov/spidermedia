@@ -4,6 +4,10 @@
   "url": "/news/fantasticheskie-tizery/",
   "original_url": "http://spidermedia.ru/news/fantasticheskie-tizery",
   "archived": "https://web.archive.org/web/20171122172100/http://spidermedia.ru:80/news/fantasticheskie-tizery",
+  "tags": [
+    "fantastic-four",
+    "dzhonatan-hikman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

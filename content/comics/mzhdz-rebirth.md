@@ -4,6 +4,9 @@
   "url": "/comics/mzhdz-rebirth/",
   "original_url": "http://spidermedia.ru/comics/mzhdz-rebirth",
   "archived": "https://web.archive.org/web/20251107022736/http://spidermedia.ru/comics/mzhdz-rebirth",
+  "tags": [
+    "mzhdz"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

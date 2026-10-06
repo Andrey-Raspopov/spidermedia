@@ -4,6 +4,19 @@
   "url": "/news/olimp-v-osade/",
   "original_url": "http://spidermedia.ru/news/olimp-v-osade",
   "archived": "https://web.archive.org/web/20260214131009/http://spidermedia.ru/news/olimp-v-osade",
+  "tags": [
+    "fred-van-lente",
+    "avengers",
+    "greg-pak",
+    "gerkules",
+    "new-avengers",
+    "mighty-avengers",
+    "marvel",
+    "hercules",
+    "amadeus-cho",
+    "agenty-atlasa",
+    "incredible-hercules"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

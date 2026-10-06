@@ -4,6 +4,13 @@
   "url": "/news/halk-bit-aaron-pisat-silvestri-risovat/",
   "original_url": "http://spidermedia.ru/news/halk-bit-aaron-pisat-silvestri-risovat",
   "archived": "https://web.archive.org/web/20250210033636/http://spidermedia.ru/news/halk-bit-aaron-pisat-silvestri-risovat",
+  "tags": [
+    "mark-silvestri",
+    "dzheyson-aaron",
+    "art-0",
+    "marvel",
+    "hulk"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,18 @@
   "url": "/news/bitva-spin-offov/",
   "original_url": "https://spidermedia.ru/news/bitva-spin-offov",
   "archived": "https://web.archive.org/web/20251216181239/https://spidermedia.ru/news/bitva-spin-offov",
+  "tags": [
+    "lan-medina",
+    "khoj-fam",
+    "kris-jost",
+    "san-diego-comic-con-international",
+    "kallen-bann",
+    "deklan-shelvi",
+    "venom",
+    "alyj-pauk",
+    "scarlet-spider",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

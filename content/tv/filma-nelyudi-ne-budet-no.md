@@ -4,6 +4,10 @@
   "url": "/tv/filma-nelyudi-ne-budet-no/",
   "original_url": "http://spidermedia.ru/tv/filma-nelyudi-ne-budet-no",
   "archived": "https://web.archive.org/web/20250807223148/http://spidermedia.ru/tv/filma-nelyudi-ne-budet-no",
+  "tags": [
+    "marvel",
+    "nelyudi"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

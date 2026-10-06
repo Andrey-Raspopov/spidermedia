@@ -4,6 +4,15 @@
   "url": "/blog/sp888/hidden-plain-sight/",
   "original_url": "http://spidermedia.ru/blog/sp888/hidden-plain-sight",
   "archived": "https://web.archive.org/web/20111018190720/http://spidermedia.ru/blog/sp888/hidden-plain-sight",
+  "tags": [
+    "doctor-nemesis",
+    "marvel",
+    "x-men",
+    "x-universe",
+    "doktor-nemezis",
+    "komiksy",
+    "mett-frakshen"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

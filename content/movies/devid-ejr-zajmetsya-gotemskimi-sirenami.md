@@ -4,6 +4,12 @@
   "url": "/movies/devid-ejr-zajmetsya-gotemskimi-sirenami/",
   "original_url": "https://spidermedia.ru/movies/devid-ejr-zajmetsya-gotemskimi-sirenami",
   "archived": "https://web.archive.org/web/20260125120817/https://spidermedia.ru/movies/devid-ejr-zajmetsya-gotemskimi-sirenami",
+  "tags": [
+    "dc-comics",
+    "poison-ivy",
+    "zhenshhina-koshka",
+    "harli-kvin"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

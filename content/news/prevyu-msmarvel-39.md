@@ -4,6 +4,13 @@
   "url": "/news/prevyu-msmarvel-39/",
   "original_url": "http://spidermedia.ru/news/prevyu-msmarvel-39",
   "archived": "https://web.archive.org/web/20260121011549/http://spidermedia.ru/news/prevyu-msmarvel-39",
+  "tags": [
+    "marvel",
+    "preview",
+    "brajan-rid",
+    "miss-marvel",
+    "sana-takeda"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

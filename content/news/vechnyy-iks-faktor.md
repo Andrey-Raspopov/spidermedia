@@ -4,6 +4,17 @@
   "url": "/news/vechnyy-iks-faktor/",
   "original_url": "http://spidermedia.ru/news/vechnyy-iks-faktor",
   "archived": "https://web.archive.org/web/20170908231353/http://spidermedia.ru:80/news/vechnyy-iks-faktor",
+  "tags": [
+    "luiz-simonson",
+    "iks-faktor",
+    "den-panosyan",
+    "x-men",
+    "x-factor-forever",
+    "x-factor",
+    "marvel",
+    "louise-simonson",
+    "dan-panosian"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

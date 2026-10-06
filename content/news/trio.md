@@ -4,6 +4,16 @@
   "url": "/news/trio/",
   "original_url": "https://spidermedia.ru/news/trio",
   "archived": "https://web.archive.org/web/20251107011232/https://spidermedia.ru/news/trio",
+  "tags": [
+    "x-men",
+    "marvel",
+    "ugadajka",
+    "rogue",
+    "roug",
+    "denzher",
+    "legacy",
+    "danger"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

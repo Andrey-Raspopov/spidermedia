@@ -4,6 +4,11 @@
   "url": "/news/novaya-avtorskaya-komanda-wonder-woman/",
   "original_url": "http://spidermedia.ru/news/novaya-avtorskaya-komanda-wonder-woman",
   "archived": "https://web.archive.org/web/20260313105829/http://spidermedia.ru/news/novaya-avtorskaya-komanda-wonder-woman",
+  "tags": [
+    "wonder-woman",
+    "devid-finch",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

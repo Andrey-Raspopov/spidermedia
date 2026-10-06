@@ -4,6 +4,14 @@
   "url": "/news/kulturno-prosveshchaemsya-s-rosomahoy/",
   "original_url": "http://spidermedia.ru/news/kulturno-prosveshchaemsya-s-rosomahoy",
   "archived": "https://web.archive.org/web/20120718062340/http://spidermedia.ru/news/kulturno-prosveshchaemsya-s-rosomahoy",
+  "tags": [
+    "wolverine",
+    "art-0",
+    "komiksy",
+    "marvel",
+    "oblozhki",
+    "rosomaha"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,13 @@
   "url": "/blog/redson/ya-chitayu-marvel-now-vypusk-21-mstiteli/",
   "original_url": "http://spidermedia.ru/blog/redson/ya-chitayu-marvel-now-vypusk-21-mstiteli",
   "archived": "https://web.archive.org/web/20260309184050/http://spidermedia.ru/blog/redson/ya-chitayu-marvel-now-vypusk-21-mstiteli",
+  "tags": [
+    "mnenie",
+    "avengers",
+    "dzhonatan-hikman",
+    "jonathan-hickman",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

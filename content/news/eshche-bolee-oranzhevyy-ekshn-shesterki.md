@@ -4,6 +4,15 @@
   "url": "/news/eshche-bolee-oranzhevyy-ekshn-shesterki/",
   "original_url": "http://spidermedia.ru/news/eshche-bolee-oranzhevyy-ekshn-shesterki",
   "archived": "https://web.archive.org/web/20260206223909/http://spidermedia.ru/news/eshche-bolee-oranzhevyy-ekshn-shesterki",
+  "tags": [
+    "dc-comics",
+    "green-lantern",
+    "secret-six",
+    "geoff-johns",
+    "greg-rakka",
+    "ajvan-rejs",
+    "gejl-simon"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

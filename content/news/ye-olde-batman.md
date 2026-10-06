@@ -4,6 +4,13 @@
   "url": "/news/ye-olde-batman/",
   "original_url": "https://spidermedia.ru/news/ye-olde-batman",
   "archived": "https://web.archive.org/web/20250913012645/https://spidermedia.ru/news/ye-olde-batman",
+  "tags": [
+    "frejzer-irving",
+    "kemeron-styuart",
+    "grant-morrison",
+    "dc-comics",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/news/intervyu-s-uorrenom-ellisom/",
   "original_url": "https://spidermedia.ru/news/intervyu-s-uorrenom-ellisom",
   "archived": "https://web.archive.org/web/20260125085120/https://spidermedia.ru/news/intervyu-s-uorrenom-ellisom",
+  "tags": [
+    "warren-ellis",
+    "intervyu"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/news/para-slov-o-krasnom-robine/",
   "original_url": "https://spidermedia.ru/news/para-slov-o-krasnom-robine",
   "archived": "https://web.archive.org/web/20251213183050/https://spidermedia.ru/news/para-slov-o-krasnom-robine",
+  "tags": [
+    "tim-drejk",
+    "krasnyj-robin",
+    "red-robin",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

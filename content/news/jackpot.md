@@ -4,6 +4,15 @@
   "url": "/news/jackpot/",
   "original_url": "https://spidermedia.ru/news/jackpot",
   "archived": "https://web.archive.org/web/20250807231006/https://spidermedia.ru/news/jackpot",
+  "tags": [
+    "mark-guggenhajm",
+    "dzhekpot",
+    "art-0",
+    "adriana-melo",
+    "marvel",
+    "jackpot",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

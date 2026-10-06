@@ -4,6 +4,9 @@
   "url": "/blog/zipop/superman-lives/",
   "original_url": "https://spidermedia.ru/blog/zipop/superman-lives",
   "archived": "https://web.archive.org/web/20260307062708/https://spidermedia.ru/blog/zipop/superman-lives",
+  "tags": [
+    "superman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

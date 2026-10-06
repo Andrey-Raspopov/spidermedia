@@ -4,6 +4,11 @@
   "url": "/news/otryad-samoubiyc-kastingovye-sluhi/",
   "original_url": "https://spidermedia.ru/news/otryad-samoubiyc-kastingovye-sluhi",
   "archived": "https://web.archive.org/web/20251216111943/https://spidermedia.ru/news/otryad-samoubiyc-kastingovye-sluhi",
+  "tags": [
+    "suicide-squad",
+    "kasting",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

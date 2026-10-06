@@ -4,6 +4,16 @@
   "url": "/news/luchi-i-kogti/",
   "original_url": "http://spidermedia.ru/news/luchi-i-kogti",
   "archived": "https://web.archive.org/web/20120512005509/http://spidermedia.ru/news/luchi-i-kogti",
+  "tags": [
+    "schism",
+    "x-men",
+    "x-universe",
+    "adam-kubert",
+    "art-0",
+    "komiksy",
+    "lyudi-iks",
+    "raskol"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

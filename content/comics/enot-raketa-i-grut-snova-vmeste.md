@@ -4,6 +4,11 @@
   "url": "/comics/enot-raketa-i-grut-snova-vmeste/",
   "original_url": "https://spidermedia.ru/comics/enot-raketa-i-grut-snova-vmeste",
   "archived": "https://web.archive.org/web/20251111085157/https://spidermedia.ru/comics/enot-raketa-i-grut-snova-vmeste",
+  "tags": [
+    "groot",
+    "marvel",
+    "rocket-racoon"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

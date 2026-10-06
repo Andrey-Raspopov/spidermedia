@@ -4,6 +4,12 @@
   "url": "/comics/sdcc-2017-novyj-imprint-idw-black-crown/",
   "original_url": "https://spidermedia.ru/comics/sdcc-2017-novyj-imprint-idw-black-crown",
   "archived": "https://web.archive.org/web/20260125113422/https://spidermedia.ru/comics/sdcc-2017-novyj-imprint-idw-black-crown",
+  "tags": [
+    "idw-publishing",
+    "gilbert-ernandez",
+    "san-diego-comic-con-international",
+    "peter-milligan"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

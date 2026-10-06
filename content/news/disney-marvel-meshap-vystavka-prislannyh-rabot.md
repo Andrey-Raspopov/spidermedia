@@ -4,6 +4,15 @@
   "url": "/news/disney-marvel-meshap-vystavka-prislannyh-rabot/",
   "original_url": "https://spidermedia.ru/news/disney-marvel-meshap-vystavka-prislannyh-rabot",
   "archived": "https://web.archive.org/web/20260116215012/https://spidermedia.ru/news/disney-marvel-meshap-vystavka-prislannyh-rabot",
+  "tags": [
+    "fanart",
+    "meshap",
+    "marvel",
+    "disnej",
+    "mashup",
+    "disney",
+    "challenge"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

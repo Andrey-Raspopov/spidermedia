@@ -4,6 +4,16 @@
   "url": "/news/nycc10-hasbro-tor-i-pervyy-mstitel-kapitan-amerika/",
   "original_url": "http://spidermedia.ru/news/nycc10-hasbro-tor-i-pervyy-mstitel-kapitan-amerika",
   "archived": "https://web.archive.org/web/20251205111129/http://spidermedia.ru/news/nycc10-hasbro-tor-i-pervyy-mstitel-kapitan-amerika",
+  "tags": [
+    "komik-kon-v-nyu-yorke",
+    "thor",
+    "nycc-2010",
+    "new-york-comic-con",
+    "marvel",
+    "gorod-grehov",
+    "brian-bolland",
+    "captain-america"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

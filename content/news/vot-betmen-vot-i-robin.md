@@ -4,6 +4,12 @@
   "url": "/news/vot-betmen-vot-i-robin/",
   "original_url": "http://spidermedia.ru/news/vot-betmen-vot-i-robin",
   "archived": "https://web.archive.org/web/20210126025249/http://spidermedia.ru/news/vot-betmen-vot-i-robin",
+  "tags": [
+    "frenk-kuajtli",
+    "grant-morrison",
+    "dc-comics",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/news/rip-dzhon-severin/",
   "original_url": "http://spidermedia.ru/news/rip-dzhon-severin",
   "archived": "https://web.archive.org/web/20120610155201/http://spidermedia.ru/news/rip-dzhon-severin",
+  "tags": [
+    "dzhon-severin"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

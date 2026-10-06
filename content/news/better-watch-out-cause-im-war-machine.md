@@ -4,6 +4,16 @@
   "url": "/news/better-watch-out-cause-im-war-machine/",
   "original_url": "http://spidermedia.ru/news/better-watch-out-cause-im-war-machine",
   "archived": "https://web.archive.org/web/20120607150811/http://spidermedia.ru/news/better-watch-out-cause-im-war-machine",
+  "tags": [
+    "ares",
+    "war-machine",
+    "ares-0",
+    "voitel",
+    "greg-pak",
+    "komiksy",
+    "marvel",
+    "preview-s"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

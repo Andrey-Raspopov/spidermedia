@@ -4,6 +4,9 @@
   "url": "/comics/all-things-valiant-45-week-18/",
   "original_url": "http://spidermedia.ru/comics/all-things-valiant-45-week-18",
   "archived": "https://web.archive.org/web/20260117220159/http://spidermedia.ru/comics/all-things-valiant-45-week-18",
+  "tags": [
+    "valiant-entertainment"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

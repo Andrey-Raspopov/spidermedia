@@ -4,6 +4,10 @@
   "url": "/news/strah-i-nenavist/",
   "original_url": "http://spidermedia.ru/news/strah-i-nenavist",
   "archived": "https://web.archive.org/web/20190915061345/http://spidermedia.ru:80/news/strah-i-nenavist",
+  "tags": [
+    "art-0",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

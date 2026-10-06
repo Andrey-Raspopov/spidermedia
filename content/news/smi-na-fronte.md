@@ -4,6 +4,15 @@
   "url": "/news/smi-na-fronte/",
   "original_url": "https://spidermedia.ru/news/smi-na-fronte",
   "archived": "https://web.archive.org/web/20241106104429/https://spidermedia.ru/news/smi-na-fronte",
+  "tags": [
+    "norman-ozborn",
+    "chris-samnee",
+    "brajan-rid",
+    "ben-urih",
+    "adi-granov",
+    "norman-osborn",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

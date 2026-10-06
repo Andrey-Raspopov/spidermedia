@@ -4,6 +4,13 @@
   "url": "/news/ultimate-avengers-2-prevyu/",
   "original_url": "http://spidermedia.ru/news/ultimate-avengers-2-prevyu",
   "archived": "https://web.archive.org/web/20120718083058/http://spidermedia.ru/news/ultimate-avengers-2-prevyu",
+  "tags": [
+    "ultimate",
+    "komiksy",
+    "marvel",
+    "mark-millar",
+    "mstiteli"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

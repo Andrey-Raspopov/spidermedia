@@ -4,6 +4,10 @@
   "url": "/comics/namesake-orlando-i-rebelki-startuet-v-noyabre/",
   "original_url": "https://spidermedia.ru/comics/namesake-orlando-i-rebelki-startuet-v-noyabre",
   "archived": "https://web.archive.org/web/20260312004659/https://spidermedia.ru/comics/namesake-orlando-i-rebelki-startuet-v-noyabre",
+  "tags": [
+    "boom-studios",
+    "stiv-orlando"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

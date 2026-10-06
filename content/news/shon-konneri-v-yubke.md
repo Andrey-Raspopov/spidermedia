@@ -4,6 +4,14 @@
   "url": "/news/shon-konneri-v-yubke/",
   "original_url": "http://spidermedia.ru/news/shon-konneri-v-yubke",
   "archived": "https://web.archive.org/web/20190925024211/http://spidermedia.ru:80/news/shon-konneri-v-yubke",
+  "tags": [
+    "black-widow",
+    "tom-rejni",
+    "pol-kornell",
+    "greg-lend",
+    "adi-granov",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

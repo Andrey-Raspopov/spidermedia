@@ -4,6 +4,11 @@
   "url": "/news/uroki-anatomii/",
   "original_url": "https://spidermedia.ru/news/uroki-anatomii",
   "archived": "https://web.archive.org/web/20260214140459/https://spidermedia.ru/news/uroki-anatomii",
+  "tags": [
+    "alan-mur",
+    "bolotnaya-tvar",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

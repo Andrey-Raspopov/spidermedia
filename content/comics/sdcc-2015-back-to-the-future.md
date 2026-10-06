@@ -4,6 +4,10 @@
   "url": "/comics/sdcc-2015-back-to-the-future/",
   "original_url": "http://spidermedia.ru/comics/sdcc-2015-back-to-the-future",
   "archived": "https://web.archive.org/web/20260125062643/http://spidermedia.ru/comics/sdcc-2015-back-to-the-future",
+  "tags": [
+    "idw-publishing",
+    "san-diego-comic-con-international"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/news/prevyu-animacionnogo-vozvrashcheniya-temnogo-rycarya/",
   "original_url": "http://spidermedia.ru/news/prevyu-animacionnogo-vozvrashcheniya-temnogo-rycarya",
   "archived": "https://web.archive.org/web/20250807225040/http://spidermedia.ru/news/prevyu-animacionnogo-vozvrashcheniya-temnogo-rycarya",
+  "tags": [
+    "frenk-miller",
+    "animaciya",
+    "dc-comics",
+    "dark-knight-returns"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

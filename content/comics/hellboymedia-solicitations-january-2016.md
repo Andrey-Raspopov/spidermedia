@@ -4,6 +4,9 @@
   "url": "/comics/hellboymedia-solicitations-january-2016/",
   "original_url": "https://spidermedia.ru/comics/hellboymedia-solicitations-january-2016",
   "archived": "https://web.archive.org/web/20251207012440/https://spidermedia.ru/comics/hellboymedia-solicitations-january-2016",
+  "tags": [
+    "hellboymedia"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

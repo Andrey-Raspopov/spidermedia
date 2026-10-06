@@ -4,6 +4,12 @@
   "url": "/blog/silver/sexy-lesbian-lieutenant-punisher-team-carnage/",
   "original_url": "http://spidermedia.ru/blog/silver/sexy-lesbian-lieutenant-punisher-team-carnage",
   "archived": "https://web.archive.org/web/20251117010745/http://spidermedia.ru/blog/silver/sexy-lesbian-lieutenant-punisher-team-carnage",
+  "tags": [
+    "marvel",
+    "garth-ennis",
+    "punisher",
+    "steve-dillon"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

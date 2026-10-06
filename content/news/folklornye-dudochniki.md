@@ -4,6 +4,13 @@
   "url": "/news/folklornye-dudochniki/",
   "original_url": "http://spidermedia.ru/news/folklornye-dudochniki",
   "archived": "https://web.archive.org/web/20260307055834/http://spidermedia.ru/news/folklornye-dudochniki",
+  "tags": [
+    "vertigo",
+    "fables",
+    "knigi",
+    "bill-uillingem",
+    "stiv-lejaloa"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

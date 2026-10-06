@@ -4,6 +4,24 @@
   "url": "/news/brand-new-day-aprel-2010/",
   "original_url": "https://spidermedia.ru/news/brand-new-day-aprel-2010",
   "archived": "https://web.archive.org/web/20260209104517/https://spidermedia.ru/news/brand-new-day-aprel-2010",
+  "tags": [
+    "fred-van-lente",
+    "skotti-yang",
+    "rodzher-stern",
+    "majkl-lark",
+    "li-viks",
+    "kris-bachalo",
+    "krejven",
+    "zeb-uells",
+    "elena-dzhurdzhevich",
+    "barri-kitson",
+    "art-0",
+    "marvel",
+    "lizard",
+    "kraven",
+    "spider-man",
+    "yashher"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

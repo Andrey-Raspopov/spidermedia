@@ -4,6 +4,12 @@
   "url": "/news/tupik-ili-novoe-nachalo/",
   "original_url": "https://spidermedia.ru/news/tupik-ili-novoe-nachalo",
   "archived": "https://web.archive.org/web/20250804002849/https://spidermedia.ru/news/tupik-ili-novoe-nachalo",
+  "tags": [
+    "marvel",
+    "punisher",
+    "rik-remender",
+    "tan-eng-huat"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

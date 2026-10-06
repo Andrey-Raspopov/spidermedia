@@ -4,6 +4,11 @@
   "url": "/blog/alex/chego-zhdat/",
   "original_url": "https://spidermedia.ru/blog/alex/chego-zhdat",
   "archived": "https://web.archive.org/web/20251106233736/https://spidermedia.ru/blog/alex/chego-zhdat",
+  "tags": [
+    "dc-comics",
+    "figurki",
+    "solicitations"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

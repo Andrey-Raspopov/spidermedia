@@ -4,6 +4,11 @@
   "url": "/blog/sonyn/hall-just-us-004-rogan-gosh/",
   "original_url": "http://spidermedia.ru/blog/sonyn/hall-just-us-004-rogan-gosh",
   "archived": "https://web.archive.org/web/20190907232433/http://spidermedia.ru:80/blog/sonyn/hall-just-us-004-rogan-gosh",
+  "tags": [
+    "mnenie",
+    "rogan-gosh",
+    "hall-of-just-us"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

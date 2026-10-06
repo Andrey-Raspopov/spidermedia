@@ -4,6 +4,14 @@
   "url": "/news/byvshie-mstyat/",
   "original_url": "http://spidermedia.ru/news/byvshie-mstyat",
   "archived": "https://web.archive.org/web/20120607182123/http://spidermedia.ru/news/byvshie-mstyat",
+  "tags": [
+    "thunderbolts",
+    "art-0",
+    "gromoverzhcy",
+    "marvel",
+    "oblozhki",
+    "songbyord"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

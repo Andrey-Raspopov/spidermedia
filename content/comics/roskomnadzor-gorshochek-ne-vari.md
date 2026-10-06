@@ -4,6 +4,11 @@
   "url": "/comics/roskomnadzor-gorshochek-ne-vari/",
   "original_url": "http://spidermedia.ru/comics/roskomnadzor-gorshochek-ne-vari",
   "archived": "https://web.archive.org/web/20250806051758/http://spidermedia.ru/comics/roskomnadzor-gorshochek-ne-vari",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "roskomnadzor",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

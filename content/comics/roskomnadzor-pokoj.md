@@ -4,6 +4,11 @@
   "url": "/comics/roskomnadzor-pokoj/",
   "original_url": "https://spidermedia.ru/comics/roskomnadzor-pokoj",
   "archived": "https://web.archive.org/web/20260307064056/https://spidermedia.ru/comics/roskomnadzor-pokoj",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "roskomnadzor",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

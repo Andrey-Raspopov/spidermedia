@@ -4,6 +4,10 @@
   "url": "/blog/silver/smena-pokoleniy-v-marvel/",
   "original_url": "http://spidermedia.ru/blog/silver/smena-pokoleniy-v-marvel",
   "archived": "https://web.archive.org/web/20140824032709/http://spidermedia.ru:80/blog/silver/smena-pokoleniy-v-marvel",
+  "tags": [
+    "comics",
+    "mnenie"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

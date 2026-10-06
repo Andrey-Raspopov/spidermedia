@@ -4,6 +4,10 @@
   "url": "/comics/pravyj-pereplet-01-snova/",
   "original_url": "http://spidermedia.ru/comics/pravyj-pereplet-01-snova",
   "archived": "https://web.archive.org/web/20250806235756/http://spidermedia.ru/comics/pravyj-pereplet-01-snova",
+  "tags": [
+    "manga",
+    "right-binding"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,14 @@
   "url": "/blog/gess/ya-i-mutant-massacre-pt1/",
   "original_url": "http://spidermedia.ru/blog/gess/ya-i-mutant-massacre-pt1",
   "archived": "https://web.archive.org/web/20190924050326/http://spidermedia.ru:80/blog/gess/ya-i-mutant-massacre-pt1",
+  "tags": [
+    "new-mutants",
+    "kris-klermont",
+    "some-old-shit",
+    "mnenie",
+    "marvel",
+    "x-men"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/faq/mirc/sshots/",
   "original_url": "http://spidermedia.ru/faq/mirc/sshots",
   "archived": "https://web.archive.org/web/20120718092719/http://spidermedia.ru/faq/mirc/sshots",
+  "tags": [
+    "faq"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

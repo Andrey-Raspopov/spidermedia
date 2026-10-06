@@ -4,6 +4,20 @@
   "url": "/movies/pervyj-mstitel-protivostoyanie-koncept-art-v-ultravysokom-razreshenii/",
   "original_url": "http://spidermedia.ru/movies/pervyj-mstitel-protivostoyanie-koncept-art-v-ultravysokom-razreshenii",
   "archived": "https://web.archive.org/web/20251208081709/http://spidermedia.ru/movies/pervyj-mstitel-protivostoyanie-koncept-art-v-ultravysokom-razreshenii",
+  "tags": [
+    "scarlet-witch",
+    "iron-man",
+    "winter-soldier",
+    "captain-america",
+    "avengers",
+    "ant-man",
+    "black-widow",
+    "black-panther",
+    "hawkeye",
+    "war-machine",
+    "falcon",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

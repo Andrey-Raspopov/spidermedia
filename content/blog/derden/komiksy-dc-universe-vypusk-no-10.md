@@ -4,6 +4,11 @@
   "url": "/blog/derden/komiksy-dc-universe-vypusk-no-10/",
   "original_url": "http://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-10",
   "archived": "https://web.archive.org/web/20250325000452/http://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-10",
+  "tags": [
+    "the-flash",
+    "dc-comics",
+    "dc-universe-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

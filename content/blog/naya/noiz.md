@@ -4,6 +4,11 @@
   "url": "/blog/naya/noiz/",
   "original_url": "https://spidermedia.ru/blog/naya/noiz",
   "archived": "https://web.archive.org/web/20251107005717/https://spidermedia.ru/blog/naya/noiz",
+  "tags": [
+    "supernatural",
+    "one-shot",
+    "manga"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

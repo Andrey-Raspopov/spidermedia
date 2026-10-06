@@ -4,6 +4,9 @@
   "url": "/podcast/podkast-razbor-polyotov-vypusk-5-smehopanorama/",
   "original_url": "https://spidermedia.ru/podcast/podkast-razbor-polyotov-vypusk-5-smehopanorama",
   "archived": "https://web.archive.org/web/20260211192316/https://spidermedia.ru/podcast/podkast-razbor-polyotov-vypusk-5-smehopanorama",
+  "tags": [
+    "spidercast"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

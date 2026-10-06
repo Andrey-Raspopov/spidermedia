@@ -4,6 +4,9 @@
   "url": "/blog/aleksey-volkov/den-rozhdeniya-dzheka-kirbi/",
   "original_url": "http://spidermedia.ru/blog/aleksey-volkov/den-rozhdeniya-dzheka-kirbi",
   "archived": "https://web.archive.org/web/20210303080421/http://spidermedia.ru/blog/aleksey-volkov/den-rozhdeniya-dzheka-kirbi",
+  "tags": [
+    "jack-kirby"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

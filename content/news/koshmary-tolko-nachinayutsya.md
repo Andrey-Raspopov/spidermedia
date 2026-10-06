@@ -4,6 +4,14 @@
   "url": "/news/koshmary-tolko-nachinayutsya/",
   "original_url": "http://spidermedia.ru/news/koshmary-tolko-nachinayutsya",
   "archived": "https://web.archive.org/web/20120608045437/http://spidermedia.ru/news/koshmary-tolko-nachinayutsya",
+  "tags": [
+    "punisher",
+    "art-0",
+    "karatel",
+    "komiksy",
+    "mark-tekseyra",
+    "skott-dzhimpel"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

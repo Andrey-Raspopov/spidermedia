@@ -4,6 +4,13 @@
   "url": "/movies/otryad-samoubijc-novyj-trejler/",
   "original_url": "https://spidermedia.ru/movies/otryad-samoubijc-novyj-trejler",
   "archived": "https://web.archive.org/web/20251116065730/https://spidermedia.ru/movies/otryad-samoubijc-novyj-trejler",
+  "tags": [
+    "dc-comics",
+    "suicide-squad",
+    "harley-quinn",
+    "joker",
+    "harli-kvin"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

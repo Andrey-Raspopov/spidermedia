@@ -4,6 +4,9 @@
   "url": "/games/metroid-dread-opinion/",
   "original_url": "http://spidermedia.ru/games/metroid-dread-opinion",
   "archived": "https://web.archive.org/web/20251111075159/http://spidermedia.ru/games/metroid-dread-opinion",
+  "tags": [
+    "nintendo"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

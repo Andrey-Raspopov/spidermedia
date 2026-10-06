@@ -4,6 +4,19 @@
   "url": "/news/staryy-svet-protiv/",
   "original_url": "http://spidermedia.ru/news/staryy-svet-protiv",
   "archived": "https://web.archive.org/web/20120607162545/http://spidermedia.ru/news/staryy-svet-protiv",
+  "tags": [
+    "dc-comics",
+    "human-target",
+    "art-0",
+    "bruno-redondo",
+    "zhivaya-mishen",
+    "komiksy",
+    "kris-sprauz",
+    "len-uin",
+    "li-bermeho",
+    "oblozhki",
+    "piter-dzhonson"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/comics/hellboymedia-ogdrupocalypse-solution-part-2/",
   "original_url": "https://spidermedia.ru/comics/hellboymedia-ogdrupocalypse-solution-part-2",
   "archived": "https://web.archive.org/web/20251213183352/https://spidermedia.ru/comics/hellboymedia-ogdrupocalypse-solution-part-2",
+  "tags": [
+    "hellboymedia"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

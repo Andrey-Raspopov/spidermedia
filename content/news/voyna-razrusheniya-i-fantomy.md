@@ -4,6 +4,11 @@
   "url": "/news/voyna-razrusheniya-i-fantomy/",
   "original_url": "http://spidermedia.ru/news/voyna-razrusheniya-i-fantomy",
   "archived": "https://web.archive.org/web/20251216120954/http://spidermedia.ru/news/voyna-razrusheniya-i-fantomy",
+  "tags": [
+    "marvel",
+    "markos-martin",
+    "mark-guggenhajm"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/news/millar-narkotiki-rok-n-roll/",
   "original_url": "http://spidermedia.ru/news/millar-narkotiki-rok-n-roll",
   "archived": "https://web.archive.org/web/20200219022228/http://spidermedia.ru:80/news/millar-narkotiki-rok-n-roll",
+  "tags": [
+    "mark-millar",
+    "karlos-pacheko",
+    "ultimate",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

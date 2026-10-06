@@ -4,6 +4,9 @@
   "url": "/blog/gess/eisner-awards-2012-2-2/",
   "original_url": "http://spidermedia.ru/blog/gess/eisner-awards-2012-2-2",
   "archived": "https://web.archive.org/web/20200127103536/http://spidermedia.ru:80/blog/gess/eisner-awards-2012-2-2",
+  "tags": [
+    "eisner-awards"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

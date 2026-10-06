@@ -4,6 +4,13 @@
   "url": "/blog/gess/hardy-i-nehardy-v-dekabre-2009-marvel-speed-version/",
   "original_url": "http://spidermedia.ru/blog/gess/hardy-i-nehardy-v-dekabre-2009-marvel-speed-version",
   "archived": "https://web.archive.org/web/20161105081825/http://spidermedia.ru:80/blog/gess/hardy-i-nehardy-v-dekabre-2009-marvel-speed-version",
+  "tags": [
+    "handnh",
+    "marvel",
+    "mnenie",
+    "hc",
+    "tpb"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

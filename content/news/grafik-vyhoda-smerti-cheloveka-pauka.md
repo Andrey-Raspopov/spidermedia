@@ -4,6 +4,13 @@
   "url": "/news/grafik-vyhoda-smerti-cheloveka-pauka/",
   "original_url": "https://spidermedia.ru/news/grafik-vyhoda-smerti-cheloveka-pauka",
   "archived": "https://web.archive.org/web/20260211181632/https://spidermedia.ru/news/grafik-vyhoda-smerti-cheloveka-pauka",
+  "tags": [
+    "mark-bagli",
+    "lejnil-frensis-yu",
+    "ultimate",
+    "marvel",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

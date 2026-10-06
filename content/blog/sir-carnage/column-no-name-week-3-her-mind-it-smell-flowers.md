@@ -4,6 +4,22 @@
   "url": "/blog/sir-carnage/column-no-name-week-3-her-mind-it-smell-flowers/",
   "original_url": "https://spidermedia.ru/blog/sir-carnage/column-no-name-week-3-her-mind-it-smell-flowers",
   "archived": "https://web.archive.org/web/20260314083414/https://spidermedia.ru/blog/sir-carnage/column-no-name-week-3-her-mind-it-smell-flowers",
+  "tags": [
+    "piter-devid",
+    "mnenie",
+    "kris-klermont",
+    "zadkiel",
+    "x-men",
+    "x-factor",
+    "moon-knight",
+    "marvel",
+    "guardians-of-the-galaxy",
+    "godzilla",
+    "prizrachnyj-gonshhik",
+    "exiles",
+    "doctor-nemesis",
+    "the-column-with-no-name"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

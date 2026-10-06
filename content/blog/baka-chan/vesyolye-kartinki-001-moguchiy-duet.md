@@ -4,6 +4,9 @@
   "url": "/blog/baka-chan/vesyolye-kartinki-001-moguchiy-duet/",
   "original_url": "http://spidermedia.ru/blog/baka-chan/vesyolye-kartinki-001-moguchiy-duet",
   "archived": "https://web.archive.org/web/20250618121918/http://spidermedia.ru/blog/baka-chan/vesyolye-kartinki-001-moguchiy-duet",
+  "tags": [
+    "invincible"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/tv/dzhej-garrik-zum-i-drugie-v-novom-sezone-seriala-flesh/",
   "original_url": "https://spidermedia.ru/tv/dzhej-garrik-zum-i-drugie-v-novom-sezone-seriala-flesh",
   "archived": "https://web.archive.org/web/20260117221537/https://spidermedia.ru/tv/dzhej-garrik-zum-i-drugie-v-novom-sezone-seriala-flesh",
+  "tags": [
+    "dc-comics",
+    "the-flash"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

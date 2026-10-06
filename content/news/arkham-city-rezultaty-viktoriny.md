@@ -4,6 +4,13 @@
   "url": "/news/arkham-city-rezultaty-viktoriny/",
   "original_url": "https://spidermedia.ru/news/arkham-city-rezultaty-viktoriny",
   "archived": "https://web.archive.org/web/20251216175120/https://spidermedia.ru/news/arkham-city-rezultaty-viktoriny",
+  "tags": [
+    "igry",
+    "viktorina",
+    "dc-comics",
+    "batman",
+    "arkham-asylum"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

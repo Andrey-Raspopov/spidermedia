@@ -4,11 +4,15 @@
   "url": "/blog/redson/mzhdz-batman-and-diana-woman-wonder/",
   "original_url": "http://spidermedia.ru/blog/redson/mzhdz-batman-and-diana-woman-wonder",
   "archived": "https://web.archive.org/web/20251117003114/http://spidermedia.ru/blog/redson/mzhdz-batman-and-diana-woman-wonder",
+  "tags": [
+    "mnenie",
+    "mzhdz"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](https://web.archive.org/web/20251117003114im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz.png)](https://web.archive.org/web/20260206215846/http://spidermedia.ru/tags/mzhdz)
+[![](https://web.archive.org/web/20251117003114im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz.png)](../../../tags/mzhdz/)
 ![](https://web.archive.org/web/20251117003114im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/WonderWomanWantsToGetLaid.jpg)
 Что такое Готэм - это Бэтмен,
 Человек в плаще бежит беззвучно.

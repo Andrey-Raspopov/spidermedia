@@ -4,6 +4,16 @@
   "url": "/news/ulichnyy-blokbaster/",
   "original_url": "http://spidermedia.ru/news/ulichnyy-blokbaster",
   "archived": "https://web.archive.org/web/20120607112250/http://spidermedia.ru/news/ulichnyy-blokbaster",
+  "tags": [
+    "heroes-hire",
+    "art-0",
+    "bred-volker",
+    "geroi-po-naymu",
+    "den-ebnett",
+    "komiksy",
+    "oblozhki",
+    "endi-lenning"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

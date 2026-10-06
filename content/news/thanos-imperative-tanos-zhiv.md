@@ -4,6 +4,16 @@
   "url": "/news/thanos-imperative-tanos-zhiv/",
   "original_url": "http://spidermedia.ru/news/thanos-imperative-tanos-zhiv",
   "archived": "https://web.archive.org/web/20250814205936/http://spidermedia.ru/news/thanos-imperative-tanos-zhiv",
+  "tags": [
+    "endi-lenning",
+    "nova",
+    "kvazar",
+    "den-ebnett",
+    "silver-surfer",
+    "quasar",
+    "marvel",
+    "guardians-of-the-galaxy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

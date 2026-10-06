@@ -4,6 +4,11 @@
   "url": "/comics/amadeus-cho-totally-awesome-hulk/",
   "original_url": "http://spidermedia.ru/comics/amadeus-cho-totally-awesome-hulk",
   "archived": "https://web.archive.org/web/20260215072336/http://spidermedia.ru/comics/amadeus-cho-totally-awesome-hulk",
+  "tags": [
+    "amadeus-cho",
+    "marvel",
+    "hulk"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/news/vyshla-igra-deadpool/",
   "original_url": "https://spidermedia.ru/news/vyshla-igra-deadpool",
   "archived": "https://web.archive.org/web/20251206162519/https://spidermedia.ru/news/vyshla-igra-deadpool",
+  "tags": [
+    "trejlery",
+    "marvel",
+    "igry",
+    "deadpool"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

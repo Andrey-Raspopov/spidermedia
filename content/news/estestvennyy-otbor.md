@@ -4,6 +4,12 @@
   "url": "/news/estestvennyy-otbor/",
   "original_url": "https://spidermedia.ru/news/estestvennyy-otbor",
   "archived": "https://web.archive.org/web/20251206145947/https://spidermedia.ru/news/estestvennyy-otbor",
+  "tags": [
+    "dzheff-parker",
+    "art-0",
+    "thunderbolts",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

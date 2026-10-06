@@ -4,6 +4,9 @@
   "url": "/comics/manga-review-itoshi-no-kana/",
   "original_url": "https://spidermedia.ru/comics/manga-review-itoshi-no-kana",
   "archived": "https://web.archive.org/web/20251209135557/https://spidermedia.ru/comics/manga-review-itoshi-no-kana",
+  "tags": [
+    "manga"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

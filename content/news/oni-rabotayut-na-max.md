@@ -4,6 +4,14 @@
   "url": "/news/oni-rabotayut-na-max/",
   "original_url": "http://spidermedia.ru/news/oni-rabotayut-na-max",
   "archived": "https://web.archive.org/web/20251208081508/http://spidermedia.ru/news/oni-rabotayut-na-max",
+  "tags": [
+    "punisher",
+    "dzheyson-aaron",
+    "marvel",
+    "aksel-alonso",
+    "steve-dillon",
+    "viktor-gishler"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

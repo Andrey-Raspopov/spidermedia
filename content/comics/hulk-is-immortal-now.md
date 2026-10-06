@@ -4,6 +4,11 @@
   "url": "/comics/hulk-is-immortal-now/",
   "original_url": "http://spidermedia.ru/comics/hulk-is-immortal-now",
   "archived": "https://web.archive.org/web/20260312014619/http://spidermedia.ru/comics/hulk-is-immortal-now",
+  "tags": [
+    "marvel",
+    "avengers",
+    "hulk"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,13 @@
   "url": "/news/pozdravlyaem-u-vam-tanos/",
   "original_url": "https://spidermedia.ru/news/pozdravlyaem-u-vam-tanos",
   "archived": "https://web.archive.org/web/20251107030021/https://spidermedia.ru/news/pozdravlyaem-u-vam-tanos",
+  "tags": [
+    "tanos",
+    "sajmon-byanchi",
+    "dzheyson-aaron",
+    "thanos",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

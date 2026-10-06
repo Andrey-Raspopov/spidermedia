@@ -4,6 +4,12 @@
   "url": "/news/goon-3d-pervye-kadry/",
   "original_url": "http://spidermedia.ru/news/goon-3d-pervye-kadry",
   "archived": "https://web.archive.org/web/20220819234642/http://spidermedia.ru/news/goon-3d-pervye-kadry",
+  "tags": [
+    "gun",
+    "animaciya",
+    "the-goon",
+    "dark-horse"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

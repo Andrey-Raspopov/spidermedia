@@ -4,6 +4,11 @@
   "url": "/news/dva-tv-spota-filma-transformery-mest-padshego/",
   "original_url": "https://spidermedia.ru/news/dva-tv-spota-filma-transformery-mest-padshego",
   "archived": "https://web.archive.org/web/20240911132444/https://spidermedia.ru/news/dva-tv-spota-filma-transformery-mest-padshego",
+  "tags": [
+    "majkl-bej",
+    "trejlery",
+    "transformers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

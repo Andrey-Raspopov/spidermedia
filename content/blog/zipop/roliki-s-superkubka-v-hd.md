@@ -4,6 +4,14 @@
   "url": "/blog/zipop/roliki-s-superkubka-v-hd/",
   "original_url": "http://spidermedia.ru/blog/zipop/roliki-s-superkubka-v-hd",
   "archived": "https://web.archive.org/web/20150501131422/http://spidermedia.ru/blog/zipop/roliki-s-superkubka-v-hd",
+  "tags": [
+    "kino",
+    "gi-joe",
+    "transformers",
+    "star-trek",
+    "trejlery",
+    "video"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

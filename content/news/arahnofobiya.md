@@ -4,6 +4,12 @@
   "url": "/news/arahnofobiya/",
   "original_url": "http://spidermedia.ru/news/arahnofobiya",
   "archived": "https://web.archive.org/web/20250121010152/http://spidermedia.ru/news/arahnofobiya",
+  "tags": [
+    "spider-man",
+    "kris-jost",
+    "marvel",
+    "majk-makkon"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

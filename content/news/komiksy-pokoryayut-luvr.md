@@ -4,6 +4,9 @@
   "url": "/news/komiksy-pokoryayut-luvr/",
   "original_url": "https://spidermedia.ru/news/komiksy-pokoryayut-luvr",
   "archived": "https://web.archive.org/web/20250420025141/https://spidermedia.ru/news/komiksy-pokoryayut-luvr",
+  "tags": [
+    "vneshnij-mir"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

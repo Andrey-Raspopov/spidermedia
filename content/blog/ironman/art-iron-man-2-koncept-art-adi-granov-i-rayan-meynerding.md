@@ -4,6 +4,14 @@
   "url": "/blog/ironman/art-iron-man-2-koncept-art-adi-granov-i-rayan-meynerding/",
   "original_url": "http://spidermedia.ru/blog/ironman/art-iron-man-2-koncept-art-adi-granov-i-rayan-meynerding",
   "archived": "https://web.archive.org/web/20250116174624/http://spidermedia.ru/blog/ironman/art-iron-man-2-koncept-art-adi-granov-i-rayan-meynerding",
+  "tags": [
+    "obzor",
+    "koncept-art",
+    "dzhon-favro",
+    "art-0",
+    "marvel",
+    "iron-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,13 @@
   "url": "/news/semnadcat-na-odnogo/",
   "original_url": "http://spidermedia.ru/news/semnadcat-na-odnogo",
   "archived": "https://web.archive.org/web/20251108031414/http://spidermedia.ru/news/semnadcat-na-odnogo",
+  "tags": [
+    "marvel",
+    "punisher",
+    "rik-remender",
+    "art-0",
+    "tan-eng-huat"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

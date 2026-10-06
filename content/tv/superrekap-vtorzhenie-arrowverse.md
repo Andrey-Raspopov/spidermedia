@@ -4,6 +4,12 @@
   "url": "/tv/superrekap-vtorzhenie-arrowverse/",
   "original_url": "https://spidermedia.ru/tv/superrekap-vtorzhenie-arrowverse",
   "archived": "https://web.archive.org/web/20260215070610/https://spidermedia.ru/tv/superrekap-vtorzhenie-arrowverse",
+  "tags": [
+    "dc-comics",
+    "green-arrow",
+    "supergirl",
+    "the-flash"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

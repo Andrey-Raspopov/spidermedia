@@ -4,6 +4,14 @@
   "url": "/news/voennye-prestupleniya/",
   "original_url": "http://spidermedia.ru/news/voennye-prestupleniya",
   "archived": "https://web.archive.org/web/20250121023551/http://spidermedia.ru/news/voennye-prestupleniya",
+  "tags": [
+    "avengers",
+    "temnoe-pravlenie",
+    "norman-osborn",
+    "greg-pak",
+    "war-machine",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

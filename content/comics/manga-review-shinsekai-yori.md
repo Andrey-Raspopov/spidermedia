@@ -4,6 +4,9 @@
   "url": "/comics/manga-review-shinsekai-yori/",
   "original_url": "https://spidermedia.ru/comics/manga-review-shinsekai-yori",
   "archived": "https://web.archive.org/web/20251206154606/https://spidermedia.ru/comics/manga-review-shinsekai-yori",
+  "tags": [
+    "manga"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

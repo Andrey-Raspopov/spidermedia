@@ -4,6 +4,11 @@
   "url": "/movies/avengers-infinity-war-review/",
   "original_url": "http://spidermedia.ru/movies/avengers-infinity-war-review",
   "archived": "https://web.archive.org/web/20260305234300/http://spidermedia.ru/movies/avengers-infinity-war-review",
+  "tags": [
+    "avengers",
+    "avengers-week",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

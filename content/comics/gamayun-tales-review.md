@@ -4,6 +4,10 @@
   "url": "/comics/gamayun-tales-review/",
   "original_url": "https://spidermedia.ru/comics/gamayun-tales-review",
   "archived": "https://web.archive.org/web/20260123074828/https://spidermedia.ru/comics/gamayun-tales-review",
+  "tags": [
+    "boomkniga",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

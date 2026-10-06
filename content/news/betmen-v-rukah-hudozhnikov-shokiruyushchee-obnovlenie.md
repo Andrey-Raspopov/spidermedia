@@ -4,6 +4,19 @@
   "url": "/news/betmen-v-rukah-hudozhnikov-shokiruyushchee-obnovlenie/",
   "original_url": "http://spidermedia.ru/news/betmen-v-rukah-hudozhnikov-shokiruyushchee-obnovlenie",
   "archived": "https://web.archive.org/web/20251206150642/http://spidermedia.ru/news/betmen-v-rukah-hudozhnikov-shokiruyushchee-obnovlenie",
+  "tags": [
+    "toni-deniel",
+    "piter-tomasi",
+    "patrik-glison",
+    "grant-morrison",
+    "tony-daniel",
+    "scott-snyder",
+    "peter-j.-tomasi",
+    "patrick-gleason",
+    "detective-comics",
+    "dc-comics",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

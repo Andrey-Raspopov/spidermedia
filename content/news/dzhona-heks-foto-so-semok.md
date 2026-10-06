@@ -4,6 +4,13 @@
   "url": "/news/dzhona-heks-foto-so-semok/",
   "original_url": "https://spidermedia.ru/news/dzhona-heks-foto-so-semok",
   "archived": "https://web.archive.org/web/20260125062944/https://spidermedia.ru/news/dzhona-heks-foto-so-semok",
+  "tags": [
+    "dc-comics",
+    "jonah-hex",
+    "megan-foks",
+    "dzhona-heks",
+    "dzhon-malkovich"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

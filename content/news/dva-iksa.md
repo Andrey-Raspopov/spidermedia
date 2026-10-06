@@ -4,6 +4,10 @@
   "url": "/news/dva-iksa/",
   "original_url": "http://spidermedia.ru/news/dva-iksa",
   "archived": "https://web.archive.org/web/20251207085654/http://spidermedia.ru/news/dva-iksa",
+  "tags": [
+    "marvel",
+    "x-men"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

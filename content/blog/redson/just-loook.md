@@ -4,6 +4,11 @@
   "url": "/blog/redson/just-loook/",
   "original_url": "http://spidermedia.ru/blog/redson/just-loook",
   "archived": "https://web.archive.org/web/20200221074110/http://spidermedia.ru:80/blog/redson/just-loook",
+  "tags": [
+    "dzhejms-dzhin",
+    "james-jean",
+    "art-0"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

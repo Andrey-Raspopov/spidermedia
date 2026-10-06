@@ -4,6 +4,13 @@
   "url": "/news/stiv-gerber-eshchyo-ne-vsyo-skazal/",
   "original_url": "http://spidermedia.ru/news/stiv-gerber-eshchyo-ne-vsyo-skazal",
   "archived": "https://web.archive.org/web/20120512075026/http://spidermedia.ru/news/stiv-gerber-eshchyo-ne-vsyo-skazal",
+  "tags": [
+    "man-thing",
+    "marvel-1",
+    "kevin-noulan",
+    "komiksy",
+    "stiv-gerber"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/comics/wolverine-returns/",
   "original_url": "http://spidermedia.ru/comics/wolverine-returns",
   "archived": "https://web.archive.org/web/20250512120401/http://spidermedia.ru/comics/wolverine-returns",
+  "tags": [
+    "marvel",
+    "wolverine"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

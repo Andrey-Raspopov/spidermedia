@@ -4,6 +4,11 @@
   "url": "/blog/alex/hand-made-green-lantern-suit/",
   "original_url": "http://spidermedia.ru/blog/alex/hand-made-green-lantern-suit",
   "archived": "https://web.archive.org/web/20120608145421/http://spidermedia.ru/blog/alex/hand-made-green-lantern-suit",
+  "tags": [
+    "green-lantern",
+    "zelenyy-fonar",
+    "kostyumy"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

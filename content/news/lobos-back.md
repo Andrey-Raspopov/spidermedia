@@ -4,6 +4,12 @@
   "url": "/news/lobos-back/",
   "original_url": "http://spidermedia.ru/news/lobos-back",
   "archived": "https://web.archive.org/web/20220314041405/http://spidermedia.ru/news/lobos-back",
+  "tags": [
+    "sem-kit",
+    "lobo",
+    "dan-didio",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

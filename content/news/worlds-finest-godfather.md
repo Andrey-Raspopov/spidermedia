@@ -4,6 +4,14 @@
   "url": "/news/worlds-finest-godfather/",
   "original_url": "https://spidermedia.ru/news/worlds-finest-godfather",
   "archived": "https://web.archive.org/web/20250215010129/https://spidermedia.ru/news/worlds-finest-godfather",
+  "tags": [
+    "akira",
+    "superman",
+    "the-walking-dead",
+    "spider-man",
+    "batman",
+    "digest"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

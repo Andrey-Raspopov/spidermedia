@@ -4,6 +4,15 @@
   "url": "/blog/sterpazook/supergeroi-na-bigbordah-minsk-chast-2/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/supergeroi-na-bigbordah-minsk-chast-2",
   "archived": "https://web.archive.org/web/20120607124254/http://spidermedia.ru/blog/sterpazook/supergeroi-na-bigbordah-minsk-chast-2",
+  "tags": [
+    "batman",
+    "belarus",
+    "bigbordy",
+    "betmen",
+    "reklama",
+    "spergeroi",
+    "foto"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

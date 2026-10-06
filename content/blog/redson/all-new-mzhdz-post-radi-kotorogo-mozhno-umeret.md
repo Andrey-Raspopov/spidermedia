@@ -4,11 +4,15 @@
   "url": "/blog/redson/all-new-mzhdz-post-radi-kotorogo-mozhno-umeret/",
   "original_url": "http://spidermedia.ru/blog/redson/all-new-mzhdz-post-radi-kotorogo-mozhno-umeret",
   "archived": "https://web.archive.org/web/20161112213014/http://spidermedia.ru:80/blog/redson/all-new-mzhdz-post-radi-kotorogo-mozhno-umeret",
+  "tags": [
+    "obzor",
+    "mzhdz"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](https://web.archive.org/web/20161112213014im_/http://i.imgur.com/0zaHqKf.jpg "Автор логотипа - Ярослав Астапеев")](https://web.archive.org/web/20260206215846/http://spidermedia.ru/tags/mzhdz) Наши ребята, не сговариваясь, написали о комиксах на тему смерти и потустороннего мира. С чего это вдруг? Вероятно, в воздухе витает что-то сверхъестественное, такие дни. Ларош рекомендует нео-нуар **Dead Letters** и не рекомендует романтическую историю **Grim Leaper**, а Undead Groom пытается скрыться от ужасов реальности на страницах комедий **God Hates Astronauts** и **Punks The Comics**, но в конце концов спускается с небес на землю, чтобы прочитать суровый комикс о правде жизни - **The Death of Wolverine**.
+[![](https://web.archive.org/web/20161112213014im_/http://i.imgur.com/0zaHqKf.jpg "Автор логотипа - Ярослав Астапеев")](../../../tags/mzhdz/) Наши ребята, не сговариваясь, написали о комиксах на тему смерти и потустороннего мира. С чего это вдруг? Вероятно, в воздухе витает что-то сверхъестественное, такие дни. Ларош рекомендует нео-нуар **Dead Letters** и не рекомендует романтическую историю **Grim Leaper**, а Undead Groom пытается скрыться от ужасов реальности на страницах комедий **God Hates Astronauts** и **Punks The Comics**, но в конце концов спускается с небес на землю, чтобы прочитать суровый комикс о правде жизни - **The Death of Wolverine**.
 **Happy Halloween!**
 
 [![](https://web.archive.org/web/20161112213014im_/http://i.imgur.com/srd2gSz.jpg)](http://i.imgur.com/srd2gSz.jpg)

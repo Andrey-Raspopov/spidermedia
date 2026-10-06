@@ -4,6 +4,13 @@
   "url": "/news/muzhiku-muzhika-scenarista/",
   "original_url": "http://spidermedia.ru/news/muzhiku-muzhika-scenarista",
   "archived": "https://web.archive.org/web/20190915015224/http://spidermedia.ru:80/news/muzhiku-muzhika-scenarista",
+  "tags": [
+    "sem-kit",
+    "skott-yan",
+    "lobo",
+    "art-0",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/games/gamermedia-special/",
   "original_url": "http://spidermedia.ru/games/gamermedia-special",
   "archived": "https://web.archive.org/web/20260208194243/http://spidermedia.ru/games/gamermedia-special",
+  "tags": [
+    "gamermedia"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/comics/mzhdz-dc-you-week-two/",
   "original_url": "http://spidermedia.ru/comics/mzhdz-dc-you-week-two",
   "archived": "https://web.archive.org/web/20251013185816/http://spidermedia.ru/comics/mzhdz-dc-you-week-two",
+  "tags": [
+    "dc-comics",
+    "mzhdz"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

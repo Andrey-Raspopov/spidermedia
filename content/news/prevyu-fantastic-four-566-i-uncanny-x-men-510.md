@@ -4,6 +4,16 @@
   "url": "/news/prevyu-fantastic-four-566-i-uncanny-x-men-510/",
   "original_url": "https://spidermedia.ru/news/prevyu-fantastic-four-566-i-uncanny-x-men-510",
   "archived": "https://web.archive.org/web/20241113215004/https://spidermedia.ru/news/prevyu-fantastic-four-566-i-uncanny-x-men-510",
+  "tags": [
+    "x-men",
+    "marvel",
+    "mark-millar",
+    "bryan-hitch",
+    "fantastic-four",
+    "matt-fraction",
+    "greg-land",
+    "greg-lend"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

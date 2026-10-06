@@ -4,6 +4,15 @@
   "url": "/news/bitva-za-kapyushon-prodolzhaetsyaserezno/",
   "original_url": "http://spidermedia.ru/news/bitva-za-kapyushon-prodolzhaetsyaserezno",
   "archived": "https://web.archive.org/web/20260123071817/http://spidermedia.ru/news/bitva-za-kapyushon-prodolzhaetsyaserezno",
+  "tags": [
+    "dc-comics",
+    "batman",
+    "nightwing",
+    "jason-todd",
+    "najtving",
+    "tony-daniel",
+    "dzhejson-todd"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

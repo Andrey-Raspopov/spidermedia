@@ -4,6 +4,18 @@
   "url": "/news/age-x-мстители/",
   "original_url": "http://www.spidermedia.ru/news/age-x-%D0%BC%D1%81%D1%82%D0%B8%D1%82%D0%B5%D0%BB%D0%B8",
   "archived": "https://web.archive.org/web/20110125101825/http://www.spidermedia.ru:80/news/age-x-%D0%BC%D1%81%D1%82%D0%B8%D1%82%D0%B5%D0%BB%D0%B8",
+  "tags": [
+    "marvel",
+    "x-men",
+    "арт",
+    "комиксы",
+    "кхой-фам",
+    "люди-икс",
+    "саймон-бьянчи",
+    "саймон-спурье",
+    "эра-икс",
+    "age-x"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

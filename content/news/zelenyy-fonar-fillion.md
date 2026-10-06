@@ -4,6 +4,13 @@
   "url": "/news/zelenyy-fonar-fillion/",
   "original_url": "http://spidermedia.ru/news/zelenyy-fonar-fillion",
   "archived": "https://web.archive.org/web/20251108041755/http://spidermedia.ru/news/zelenyy-fonar-fillion",
+  "tags": [
+    "natan-fillion",
+    "hel-dzhordan",
+    "animaciya",
+    "dc-comics",
+    "green-lantern"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

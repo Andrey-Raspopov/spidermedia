@@ -4,6 +4,13 @@
   "url": "/news/post-rip-prevyu-punisher-11/",
   "original_url": "http://spidermedia.ru/news/post-rip-prevyu-punisher-11",
   "archived": "https://web.archive.org/web/20251211035646/http://spidermedia.ru/news/post-rip-prevyu-punisher-11",
+  "tags": [
+    "toni-mur",
+    "rik-remender",
+    "punisher",
+    "dejv-vilkins",
+    "art-0"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

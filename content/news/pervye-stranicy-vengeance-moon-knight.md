@@ -4,6 +4,14 @@
   "url": "/news/pervye-stranicy-vengeance-moon-knight/",
   "original_url": "http://spidermedia.ru/news/pervye-stranicy-vengeance-moon-knight",
   "archived": "https://web.archive.org/web/20251207011124/http://spidermedia.ru/news/pervye-stranicy-vengeance-moon-knight",
+  "tags": [
+    "marvel",
+    "art-0",
+    "greg-hurvitc",
+    "dzherom-openya",
+    "lejnil-frensis-yu",
+    "moon-knight"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

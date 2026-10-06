@@ -4,6 +4,9 @@
   "url": "/news/marvel-universe-online-zhivee-vseh-zhivyh/",
   "original_url": "http://spidermedia.ru/news/marvel-universe-online-zhivee-vseh-zhivyh",
   "archived": "https://web.archive.org/web/20260211185842/http://spidermedia.ru/news/marvel-universe-online-zhivee-vseh-zhivyh",
+  "tags": [
+    "igry"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

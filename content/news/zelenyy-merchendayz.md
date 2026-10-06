@@ -4,6 +4,10 @@
   "url": "/news/zelenyy-merchendayz/",
   "original_url": "https://spidermedia.ru/news/zelenyy-merchendayz",
   "archived": "https://web.archive.org/web/20260211184337/https://spidermedia.ru/news/zelenyy-merchendayz",
+  "tags": [
+    "green-lantern",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

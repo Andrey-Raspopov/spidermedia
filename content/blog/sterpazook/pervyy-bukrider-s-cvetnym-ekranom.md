@@ -4,6 +4,10 @@
   "url": "/blog/sterpazook/pervyy-bukrider-s-cvetnym-ekranom/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/pervyy-bukrider-s-cvetnym-ekranom",
   "archived": "https://web.archive.org/web/20190925024442/http://spidermedia.ru:80/blog/sterpazook/pervyy-bukrider-s-cvetnym-ekranom",
+  "tags": [
+    "cifrovye-komiksy",
+    "gadzhety"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/blog/ghost-knight/bog-komiksov-vremenno-ne-dostupen/",
   "original_url": "http://spidermedia.ru/blog/ghost-knight/bog-komiksov-vremenno-ne-dostupen",
   "archived": "https://web.archive.org/web/20120610084830/http://spidermedia.ru/blog/ghost-knight/bog-komiksov-vremenno-ne-dostupen",
+  "tags": [
+    "comic-con",
+    "grant-morrison"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

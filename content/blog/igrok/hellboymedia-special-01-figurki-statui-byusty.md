@@ -4,6 +4,10 @@
   "url": "/blog/igrok/hellboymedia-special-01-figurki-statui-byusty/",
   "original_url": "https://spidermedia.ru/blog/igrok/hellboymedia-special-01-figurki-statui-byusty",
   "archived": "https://web.archive.org/web/20260115044352/https://spidermedia.ru/blog/igrok/hellboymedia-special-01-figurki-statui-byusty",
+  "tags": [
+    "hellboymedia",
+    "obzor"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

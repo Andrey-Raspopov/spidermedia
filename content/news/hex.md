@@ -4,6 +4,12 @@
   "url": "/news/hex/",
   "original_url": "http://spidermedia.ru/news/hex",
   "archived": "https://web.archive.org/web/20230323041503/http://spidermedia.ru/news/hex",
+  "tags": [
+    "serialy",
+    "zatanna",
+    "smallville",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

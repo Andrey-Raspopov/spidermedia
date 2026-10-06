@@ -4,6 +4,10 @@
   "url": "/news/lego-oblozhki-komiksov-dc/",
   "original_url": "http://spidermedia.ru/news/lego-oblozhki-komiksov-dc",
   "archived": "https://web.archive.org/web/20190915012909/http://spidermedia.ru:80/news/lego-oblozhki-komiksov-dc",
+  "tags": [
+    "lego",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,13 @@
   "url": "/news/viktor-fon-dum-i-adskaya-satana/",
   "original_url": "https://spidermedia.ru/news/viktor-fon-dum-i-adskaya-satana",
   "archived": "https://web.archive.org/web/20251211020224/https://spidermedia.ru/news/viktor-fon-dum-i-adskaya-satana",
+  "tags": [
+    "bekki-klunan",
+    "nik-spenser",
+    "doktor-dum",
+    "doctor-doom",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

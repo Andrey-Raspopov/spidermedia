@@ -4,6 +4,9 @@
   "url": "/games/underrail-review/",
   "original_url": "https://spidermedia.ru/games/underrail-review",
   "archived": "https://web.archive.org/web/20260215072007/https://spidermedia.ru/games/underrail-review",
+  "tags": [
+    "recenziya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

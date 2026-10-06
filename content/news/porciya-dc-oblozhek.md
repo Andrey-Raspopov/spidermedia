@@ -4,6 +4,17 @@
   "url": "/news/porciya-dc-oblozhek/",
   "original_url": "http://spidermedia.ru/news/porciya-dc-oblozhek",
   "archived": "https://web.archive.org/web/20251205120104/http://spidermedia.ru/news/porciya-dc-oblozhek",
+  "tags": [
+    "temnejshaya-noch",
+    "sekretnaya-shesterka",
+    "dedshot",
+    "gillem-marsh",
+    "secret-six",
+    "guillem-march",
+    "deadshot",
+    "dc-comics",
+    "blackest-night"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

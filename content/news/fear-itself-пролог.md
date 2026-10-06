@@ -4,6 +4,22 @@
   "url": "/news/fear-itself-пролог/",
   "original_url": "http://www.spidermedia.ru/news/fear-itself-%D0%BF%D1%80%D0%BE%D0%BB%D0%BE%D0%B3",
   "archived": "https://web.archive.org/web/20110127112808/http://www.spidermedia.ru:80/news/fear-itself-%D0%BF%D1%80%D0%BE%D0%BB%D0%BE%D0%B3",
+  "tags": [
+    "captain-america",
+    "fear-itself",
+    "marvel",
+    "namor",
+    "red-skull",
+    "арт",
+    "воплощение-страха",
+    "капитан-америка",
+    "комиксы",
+    "красный-череп",
+    "марко-джурджевич",
+    "нэмор",
+    "скотт-итон",
+    "эд-брубейкер"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

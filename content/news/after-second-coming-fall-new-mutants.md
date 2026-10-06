@@ -4,6 +4,12 @@
   "url": "/news/after-second-coming-fall-new-mutants/",
   "original_url": "https://spidermedia.ru/news/after-second-coming-fall-new-mutants",
   "archived": "https://web.archive.org/web/20260211183841/https://spidermedia.ru/news/after-second-coming-fall-new-mutants",
+  "tags": [
+    "leonard-kirk",
+    "zeb-uells",
+    "marvel",
+    "x-men"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

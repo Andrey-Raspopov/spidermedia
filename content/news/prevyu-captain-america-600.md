@@ -4,6 +4,19 @@
   "url": "/news/prevyu-captain-america-600/",
   "original_url": "http://spidermedia.ru/news/prevyu-captain-america-600",
   "archived": "https://web.archive.org/web/20251209145443/http://spidermedia.ru/news/prevyu-captain-america-600",
+  "tags": [
+    "marvel",
+    "mark-waid",
+    "govard-chajkin",
+    "devid-aha",
+    "preview",
+    "captain-america",
+    "dejl-iglshem",
+    "sten-li",
+    "ed-brubaker",
+    "rodzher-stern",
+    "luke-ross"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

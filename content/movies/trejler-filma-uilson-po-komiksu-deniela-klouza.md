@@ -4,6 +4,10 @@
   "url": "/movies/trejler-filma-uilson-po-komiksu-deniela-klouza/",
   "original_url": "http://spidermedia.ru/movies/trejler-filma-uilson-po-komiksu-deniela-klouza",
   "archived": "https://web.archive.org/web/20250210033727/http://spidermedia.ru/movies/trejler-filma-uilson-po-komiksu-deniela-klouza",
+  "tags": [
+    "daniel-clowes",
+    "drawn-and-quarterly"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,17 @@
   "url": "/news/da-nastanet-carstvo-obnovlenie/",
   "original_url": "https://spidermedia.ru/news/da-nastanet-carstvo-obnovlenie",
   "archived": "https://web.archive.org/web/20251111072831/https://spidermedia.ru/news/da-nastanet-carstvo-obnovlenie",
+  "tags": [
+    "endi-lenning",
+    "stepan-sedzhik",
+    "leonardo-manko",
+    "kev-uoker",
+    "den-ebnett",
+    "brajan-haberlin",
+    "art-0",
+    "realm-of-kings",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

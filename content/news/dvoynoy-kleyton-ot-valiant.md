@@ -4,6 +4,11 @@
   "url": "/news/dvoynoy-kleyton-ot-valiant/",
   "original_url": "https://spidermedia.ru/news/dvoynoy-kleyton-ot-valiant",
   "archived": "https://web.archive.org/web/20260125064330/https://spidermedia.ru/news/dvoynoy-kleyton-ot-valiant",
+  "tags": [
+    "klejton-krejn",
+    "klejton-genri",
+    "valiant-entertainment"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

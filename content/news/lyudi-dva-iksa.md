@@ -4,6 +4,12 @@
   "url": "/news/lyudi-dva-iksa/",
   "original_url": "http://spidermedia.ru/news/lyudi-dva-iksa",
   "archived": "https://web.archive.org/web/20250119225443/http://spidermedia.ru/news/lyudi-dva-iksa",
+  "tags": [
+    "olive-kojpel",
+    "brian-wood",
+    "x-men",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

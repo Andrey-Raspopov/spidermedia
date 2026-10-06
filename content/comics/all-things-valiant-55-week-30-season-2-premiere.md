@@ -4,6 +4,9 @@
   "url": "/comics/all-things-valiant-55-week-30-season-2-premiere/",
   "original_url": "http://spidermedia.ru/comics/all-things-valiant-55-week-30-season-2-premiere",
   "archived": "https://web.archive.org/web/20260215073035/http://spidermedia.ru/comics/all-things-valiant-55-week-30-season-2-premiere",
+  "tags": [
+    "valiant-entertainment"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

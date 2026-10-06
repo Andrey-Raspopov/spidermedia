@@ -4,6 +4,10 @@
   "url": "/blog/zipop/sovremennye-tendencii-v-dizayne-1/",
   "original_url": "http://spidermedia.ru/blog/zipop/sovremennye-tendencii-v-dizayne-1",
   "archived": "https://web.archive.org/web/20140811201732/http://spidermedia.ru:80/blog/zipop/sovremennye-tendencii-v-dizayne-1",
+  "tags": [
+    "design",
+    "gadzhety"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

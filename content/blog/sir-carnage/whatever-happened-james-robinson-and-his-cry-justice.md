@@ -4,6 +4,14 @@
   "url": "/blog/sir-carnage/whatever-happened-james-robinson-and-his-cry-justice/",
   "original_url": "https://spidermedia.ru/blog/sir-carnage/whatever-happened-james-robinson-and-his-cry-justice",
   "archived": "https://web.archive.org/web/20260123072656/https://spidermedia.ru/blog/sir-carnage/whatever-happened-james-robinson-and-his-cry-justice",
+  "tags": [
+    "yumor",
+    "fanfikshn",
+    "dzhejms-robinson",
+    "dc-comics",
+    "whatever-happened",
+    "justice-league"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

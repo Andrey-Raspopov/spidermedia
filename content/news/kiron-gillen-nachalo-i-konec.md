@@ -4,6 +4,15 @@
   "url": "/news/kiron-gillen-nachalo-i-konec/",
   "original_url": "http://spidermedia.ru/news/kiron-gillen-nachalo-i-konec",
   "archived": "https://web.archive.org/web/20251207011333/http://spidermedia.ru/news/kiron-gillen-nachalo-i-konec",
+  "tags": [
+    "wolverine",
+    "young-avengers",
+    "san-diego-comic-con-international",
+    "kiron-gillen",
+    "dzheymi-makkelvi",
+    "adam-kubert",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

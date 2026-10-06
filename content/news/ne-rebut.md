@@ -4,6 +4,17 @@
   "url": "/news/ne-rebut/",
   "original_url": "http://spidermedia.ru/news/ne-rebut",
   "archived": "https://web.archive.org/web/20260312015936/http://spidermedia.ru/news/ne-rebut",
+  "tags": [
+    "dzhon-kessedej",
+    "avengers",
+    "x-men",
+    "dzherom-openya",
+    "styuart-immonen",
+    "rik-remender",
+    "brian-michael-bendis",
+    "dzhonatan-hikman",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

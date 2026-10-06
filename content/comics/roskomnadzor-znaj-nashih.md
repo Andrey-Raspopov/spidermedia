@@ -4,6 +4,11 @@
   "url": "/comics/roskomnadzor-znaj-nashih/",
   "original_url": "http://spidermedia.ru/comics/roskomnadzor-znaj-nashih",
   "archived": "https://web.archive.org/web/20251014045217/http://spidermedia.ru/comics/roskomnadzor-znaj-nashih",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "roskomnadzor",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

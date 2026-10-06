@@ -4,6 +4,12 @@
   "url": "/comics/fables-and-bill-willingham/",
   "original_url": "http://spidermedia.ru/comics/fables-and-bill-willingham",
   "archived": "https://web.archive.org/web/20260120160152/http://spidermedia.ru/comics/fables-and-bill-willingham",
+  "tags": [
+    "dc-comics",
+    "vertigo",
+    "imho",
+    "fables"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

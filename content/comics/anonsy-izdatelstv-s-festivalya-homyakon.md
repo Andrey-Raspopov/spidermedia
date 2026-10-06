@@ -4,6 +4,10 @@
   "url": "/comics/anonsy-izdatelstv-s-festivalya-homyakon/",
   "original_url": "https://spidermedia.ru/comics/anonsy-izdatelstv-s-festivalya-homyakon",
   "archived": "https://web.archive.org/web/20260120144241/https://spidermedia.ru/comics/anonsy-izdatelstv-s-festivalya-homyakon",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

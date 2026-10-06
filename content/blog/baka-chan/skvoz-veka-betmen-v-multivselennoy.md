@@ -4,6 +4,11 @@
   "url": "/blog/baka-chan/skvoz-veka-betmen-v-multivselennoy/",
   "original_url": "https://spidermedia.ru/blog/baka-chan/skvoz-veka-betmen-v-multivselennoy",
   "archived": "https://web.archive.org/web/20260208195931/https://spidermedia.ru/blog/baka-chan/skvoz-veka-betmen-v-multivselennoy",
+  "tags": [
+    "mnenie",
+    "dc-comics",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

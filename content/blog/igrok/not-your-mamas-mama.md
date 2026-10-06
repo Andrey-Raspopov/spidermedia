@@ -4,6 +4,9 @@
   "url": "/blog/igrok/not-your-mamas-mama/",
   "original_url": "http://spidermedia.ru/blog/igrok/not-your-mamas-mama",
   "archived": "https://web.archive.org/web/20170710051341/http://spidermedia.ru:80/blog/igrok/not-your-mamas-mama",
+  "tags": [
+    "recenziya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

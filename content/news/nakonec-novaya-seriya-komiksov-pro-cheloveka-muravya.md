@@ -4,6 +4,11 @@
   "url": "/news/nakonec-novaya-seriya-komiksov-pro-cheloveka-muravya/",
   "original_url": "http://spidermedia.ru/news/nakonec-novaya-seriya-komiksov-pro-cheloveka-muravya",
   "archived": "https://web.archive.org/web/20260314080638/http://spidermedia.ru/news/nakonec-novaya-seriya-komiksov-pro-cheloveka-muravya",
+  "tags": [
+    "ant-man",
+    "nik-spenser",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

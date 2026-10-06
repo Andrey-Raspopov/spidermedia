@@ -4,6 +4,11 @@
   "url": "/blog/naya/tengen-toppa-gurren-lagann-gurren-gakuen-hen/",
   "original_url": "http://spidermedia.ru/blog/naya/tengen-toppa-gurren-lagann-gurren-gakuen-hen",
   "archived": "https://web.archive.org/web/20120607145007/http://spidermedia.ru/blog/naya/tengen-toppa-gurren-lagann-gurren-gakuen-hen",
+  "tags": [
+    "comedy",
+    "manga",
+    "skachat"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

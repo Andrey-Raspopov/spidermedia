@@ -4,6 +4,15 @@
   "url": "/news/dorogoy-drakula/",
   "original_url": "https://spidermedia.ru/news/dorogoy-drakula",
   "archived": "https://web.archive.org/web/20260307060034/https://spidermedia.ru/news/dorogoy-drakula",
+  "tags": [
+    "animaciya",
+    "image-comics",
+    "shadowline",
+    "dracula",
+    "drakula",
+    "dorogoj-drakula",
+    "dear-dracula"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

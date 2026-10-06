@@ -4,6 +4,11 @@
   "url": "/comics/roskomnadzor-burya/",
   "original_url": "https://spidermedia.ru/comics/roskomnadzor-burya",
   "archived": "https://web.archive.org/web/20260123072848/https://spidermedia.ru/comics/roskomnadzor-burya",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "roskomnadzor",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/news/apokalipsis-nashel-molodogo-naytkroulera/",
   "original_url": "http://spidermedia.ru/news/apokalipsis-nashel-molodogo-naytkroulera",
   "archived": "https://web.archive.org/web/20260125063126/http://spidermedia.ru/news/apokalipsis-nashel-molodogo-naytkroulera",
+  "tags": [
+    "marvel",
+    "x-men",
+    "kasting"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

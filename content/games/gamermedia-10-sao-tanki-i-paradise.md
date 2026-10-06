@@ -4,6 +4,9 @@
   "url": "/games/gamermedia-10-sao-tanki-i-paradise/",
   "original_url": "http://spidermedia.ru/games/gamermedia-10-sao-tanki-i-paradise",
   "archived": "https://web.archive.org/web/20260307063903/http://spidermedia.ru/games/gamermedia-10-sao-tanki-i-paradise",
+  "tags": [
+    "gamermedia"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

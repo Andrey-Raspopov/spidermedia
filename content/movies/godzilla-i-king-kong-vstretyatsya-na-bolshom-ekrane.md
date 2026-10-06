@@ -4,6 +4,9 @@
   "url": "/movies/godzilla-i-king-kong-vstretyatsya-na-bolshom-ekrane/",
   "original_url": "http://spidermedia.ru/movies/godzilla-i-king-kong-vstretyatsya-na-bolshom-ekrane",
   "archived": "https://web.archive.org/web/20231202144943/http://spidermedia.ru/movies/godzilla-i-king-kong-vstretyatsya-na-bolshom-ekrane",
+  "tags": [
+    "godzilla"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

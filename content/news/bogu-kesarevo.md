@@ -4,6 +4,18 @@
   "url": "/news/bogu-kesarevo/",
   "original_url": "http://spidermedia.ru/news/bogu-kesarevo",
   "archived": "https://web.archive.org/web/20260121010159/http://spidermedia.ru/news/bogu-kesarevo",
+  "tags": [
+    "amadeus-cho",
+    "hobgoblin",
+    "fred-van-lente",
+    "nil-edvards",
+    "greg-pak",
+    "gerkules",
+    "ares",
+    "marvel",
+    "domovoj",
+    "hercules"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

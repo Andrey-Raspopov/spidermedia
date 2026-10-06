@@ -4,6 +4,14 @@
   "url": "/news/lyudi-iks-plany-na-budushchee/",
   "original_url": "http://spidermedia.ru/news/lyudi-iks-plany-na-budushchee",
   "archived": "https://web.archive.org/web/20120607170256/http://spidermedia.ru/news/lyudi-iks-plany-na-budushchee",
+  "tags": [
+    "hellion",
+    "x-force",
+    "x-men",
+    "x-universe",
+    "gellion",
+    "komiksy"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/blog/tanya-chirsex/recenziya-na-film-padenie-olimpa/",
   "original_url": "http://spidermedia.ru/blog/tanya-chirsex/recenziya-na-film-padenie-olimpa",
   "archived": "https://web.archive.org/web/20190819230005/http://spidermedia.ru/blog/tanya-chirsex/recenziya-na-film-padenie-olimpa",
+  "tags": [
+    "recenziya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/news/zheleznyy-chelovek-3-mstiteli-i-disney/",
   "original_url": "http://spidermedia.ru/news/zheleznyy-chelovek-3-mstiteli-i-disney",
   "archived": "https://web.archive.org/web/20250913012816/http://spidermedia.ru/news/zheleznyy-chelovek-3-mstiteli-i-disney",
+  "tags": [
+    "iron-man",
+    "avengers",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

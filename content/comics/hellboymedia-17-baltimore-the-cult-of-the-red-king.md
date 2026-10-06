@@ -4,6 +4,10 @@
   "url": "/comics/hellboymedia-17-baltimore-the-cult-of-the-red-king/",
   "original_url": "https://spidermedia.ru/comics/hellboymedia-17-baltimore-the-cult-of-the-red-king",
   "archived": "https://web.archive.org/web/20251205115045/https://spidermedia.ru/comics/hellboymedia-17-baltimore-the-cult-of-the-red-king",
+  "tags": [
+    "hellboymedia",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

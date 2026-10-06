@@ -4,6 +4,15 @@
   "url": "/news/art-prevyu-siege-1/",
   "original_url": "https://spidermedia.ru/news/art-prevyu-siege-1",
   "archived": "https://web.archive.org/web/20251006143628/https://spidermedia.ru/news/art-prevyu-siege-1",
+  "tags": [
+    "preview",
+    "osada",
+    "olive-kojpel",
+    "brian-michael-bendis",
+    "art-0",
+    "siege",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

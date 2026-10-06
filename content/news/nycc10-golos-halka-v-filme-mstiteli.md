@@ -4,6 +4,14 @@
   "url": "/news/nycc10-golos-halka-v-filme-mstiteli/",
   "original_url": "http://spidermedia.ru/news/nycc10-golos-halka-v-filme-mstiteli",
   "archived": "https://web.archive.org/web/20260125122223/http://spidermedia.ru/news/nycc10-golos-halka-v-filme-mstiteli",
+  "tags": [
+    "komik-kon-v-nyu-jorke",
+    "nycc-2010",
+    "new-york-comic-con",
+    "marvel",
+    "hulk",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

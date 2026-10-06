@@ -4,6 +4,17 @@
   "url": "/blog/bogart/krasnaya-animaciya/",
   "original_url": "http://spidermedia.ru/blog/bogart/krasnaya-animaciya",
   "archived": "https://web.archive.org/web/20250420042054/http://spidermedia.ru/blog/bogart/krasnaya-animaciya",
+  "tags": [
+    "cifrovye-komiksy",
+    "superman",
+    "mark-millar",
+    "dejv-dzhonson",
+    "animirovannye-komiksy",
+    "animaciya",
+    "motion-comics",
+    "elseworlds",
+    "dave-johnson"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/comics/hawkeye-by-komilfo/",
   "original_url": "https://spidermedia.ru/comics/hawkeye-by-komilfo",
   "archived": "https://web.archive.org/web/20260209123248/https://spidermedia.ru/comics/hawkeye-by-komilfo",
+  "tags": [
+    "komilfo",
+    "matt-fraction",
+    "zarubezhnye-komiksy-na-russkom"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

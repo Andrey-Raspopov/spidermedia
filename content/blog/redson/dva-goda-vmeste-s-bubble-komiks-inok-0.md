@@ -4,6 +4,10 @@
   "url": "/blog/redson/dva-goda-vmeste-s-bubble-komiks-inok-0/",
   "original_url": "http://spidermedia.ru/blog/redson/dva-goda-vmeste-s-bubble-komiks-inok-0",
   "archived": "https://web.archive.org/web/20251206024613/http://spidermedia.ru/blog/redson/dva-goda-vmeste-s-bubble-komiks-inok-0",
+  "tags": [
+    "bubble",
+    "obzor"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,16 @@
   "url": "/movies/studiya-foks-anonsirovala-dva-novyh-filma-po-komiksam-marvel/",
   "original_url": "http://spidermedia.ru/movies/studiya-foks-anonsirovala-dva-novyh-filma-po-komiksam-marvel",
   "archived": "https://web.archive.org/web/20260211101817/http://spidermedia.ru/movies/studiya-foks-anonsirovala-dva-novyh-filma-po-komiksam-marvel",
+  "tags": [
+    "cable",
+    "uncanny-x-force",
+    "x-force",
+    "gambit",
+    "deadpool",
+    "iks-fors",
+    "kejbl",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

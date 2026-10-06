@@ -4,6 +4,14 @@
   "url": "/news/chto-budet/",
   "original_url": "https://spidermedia.ru/news/chto-budet",
   "archived": "https://web.archive.org/web/20251018224419/https://spidermedia.ru/news/chto-budet",
+  "tags": [
+    "dc-comics",
+    "dan-didio",
+    "brian-azzarello",
+    "brajan-stilfriz",
+    "dok-sevidzh",
+    "doc-savage"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

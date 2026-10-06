@@ -4,6 +4,13 @@
   "url": "/comics/avengers-no-surrender-event-review/",
   "original_url": "https://spidermedia.ru/comics/avengers-no-surrender-event-review",
   "archived": "https://web.archive.org/web/20251207012331/https://spidermedia.ru/comics/avengers-no-surrender-event-review",
+  "tags": [
+    "mark-waid",
+    "avengers",
+    "avengers-week",
+    "el-yuing",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

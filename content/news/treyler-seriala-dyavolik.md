@@ -4,6 +4,11 @@
   "url": "/news/treyler-seriala-dyavolik/",
   "original_url": "https://spidermedia.ru/news/treyler-seriala-dyavolik",
   "archived": "https://web.archive.org/web/20251117002031/https://spidermedia.ru/news/treyler-seriala-dyavolik",
+  "tags": [
+    "serialy",
+    "trejlery",
+    "dyavolik"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

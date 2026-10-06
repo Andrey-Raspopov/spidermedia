@@ -4,6 +4,11 @@
   "url": "/news/devid-tennant-stanet-protivnikom-dzhessiki-dzhons/",
   "original_url": "http://spidermedia.ru/news/devid-tennant-stanet-protivnikom-dzhessiki-dzhons",
   "archived": "https://web.archive.org/web/20251213193601/http://spidermedia.ru/news/devid-tennant-stanet-protivnikom-dzhessiki-dzhons",
+  "tags": [
+    "serialy",
+    "marvel",
+    "kasting"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

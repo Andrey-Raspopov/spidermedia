@@ -4,6 +4,11 @@
   "url": "/news/vystavka-nemeckih-komiksov-v-minske/",
   "original_url": "http://spidermedia.ru/news/vystavka-nemeckih-komiksov-v-minske",
   "archived": "https://web.archive.org/web/20111018125524/http://spidermedia.ru/news/vystavka-nemeckih-komiksov-v-minske",
+  "tags": [
+    "belarus",
+    "vystavka",
+    "komiksy"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

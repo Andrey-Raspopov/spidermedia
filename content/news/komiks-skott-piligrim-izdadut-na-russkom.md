@@ -4,6 +4,12 @@
   "url": "/news/komiks-skott-piligrim-izdadut-na-russkom/",
   "original_url": "https://spidermedia.ru/news/komiks-skott-piligrim-izdadut-na-russkom",
   "archived": "https://web.archive.org/web/20220626083135/https://spidermedia.ru/news/komiks-skott-piligrim-izdadut-na-russkom",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "oni-press",
+    "scott-pilgrim",
+    "bryan-lee-o-malley"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

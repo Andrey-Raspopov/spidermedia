@@ -4,6 +4,12 @@
   "url": "/news/formerly-known-mighty/",
   "original_url": "https://spidermedia.ru/news/formerly-known-mighty",
   "archived": "https://web.archive.org/web/20260312022541/https://spidermedia.ru/news/formerly-known-mighty",
+  "tags": [
+    "esad-ribich",
+    "dzheyson-aaron",
+    "marvel",
+    "thor"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

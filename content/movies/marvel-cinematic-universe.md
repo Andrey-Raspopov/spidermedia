@@ -4,6 +4,11 @@
   "url": "/movies/marvel-cinematic-universe/",
   "original_url": "https://spidermedia.ru/movies/marvel-cinematic-universe",
   "archived": "https://web.archive.org/web/20251207100835/https://spidermedia.ru/movies/marvel-cinematic-universe",
+  "tags": [
+    "avengers",
+    "avengers-week",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

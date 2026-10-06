@@ -4,6 +4,9 @@
   "url": "/blog/redson/classic-run/",
   "original_url": "http://spidermedia.ru/blog/redson/classic-run",
   "archived": "https://web.archive.org/web/20190907233602/http://spidermedia.ru:80/blog/redson/classic-run",
+  "tags": [
+    "strana-igr"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

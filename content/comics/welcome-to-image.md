@@ -4,6 +4,9 @@
   "url": "/comics/welcome-to-image/",
   "original_url": "http://spidermedia.ru/comics/welcome-to-image",
   "archived": "https://web.archive.org/web/20251206151014/http://spidermedia.ru/comics/welcome-to-image",
+  "tags": [
+    "image-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

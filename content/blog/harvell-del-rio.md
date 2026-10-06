@@ -4,6 +4,13 @@
   "url": "/blog/harvell-del-rio/",
   "original_url": "http://spidermedia.ru/blog/harvell-del-rio",
   "archived": "https://web.archive.org/web/20120608023519/http://spidermedia.ru/blog/harvell-del-rio",
+  "tags": [
+    "andy-diggle",
+    "comics-cool-people",
+    "jock",
+    "outstanding",
+    "vertigo"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,14 @@
   "url": "/news/legacy-iron/",
   "original_url": "https://spidermedia.ru/news/legacy-iron",
   "archived": "https://web.archive.org/web/20251108191645/https://spidermedia.ru/news/legacy-iron",
+  "tags": [
+    "fred-van-lente",
+    "stiv-kurt",
+    "preview",
+    "art-0",
+    "marvel",
+    "iron-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

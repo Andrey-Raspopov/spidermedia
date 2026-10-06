@@ -4,6 +4,10 @@
   "url": "/news/prevyu-vtoryh-vypuskov-nebyvalii-i-za-predelami-strany-chudes/",
   "original_url": "http://spidermedia.ru/news/prevyu-vtoryh-vypuskov-nebyvalii-i-za-predelami-strany-chudes",
   "archived": "https://web.archive.org/web/20220815202012/http://spidermedia.ru/news/prevyu-vtoryh-vypuskov-nebyvalii-i-za-predelami-strany-chudes",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "zenescope-entertainment"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/news/novaya-glava-doma-idey/",
   "original_url": "http://spidermedia.ru/news/novaya-glava-doma-idey",
   "archived": "https://web.archive.org/web/20251117003931/http://spidermedia.ru/news/novaya-glava-doma-idey",
+  "tags": [
+    "aksel-alonso",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

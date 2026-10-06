@@ -4,6 +4,11 @@
   "url": "/news/dva-plakata-zelenogo-fonarya/",
   "original_url": "https://spidermedia.ru/news/dva-plakata-zelenogo-fonarya",
   "archived": "https://web.archive.org/web/20260125130410/https://spidermedia.ru/news/dva-plakata-zelenogo-fonarya",
+  "tags": [
+    "postery",
+    "dc-comics",
+    "green-lantern"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

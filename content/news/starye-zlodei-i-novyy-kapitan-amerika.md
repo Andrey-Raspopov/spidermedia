@@ -4,6 +4,11 @@
   "url": "/news/starye-zlodei-i-novyy-kapitan-amerika/",
   "original_url": "http://spidermedia.ru/news/starye-zlodei-i-novyy-kapitan-amerika",
   "archived": "https://web.archive.org/web/20180124054544/http://spidermedia.ru/news/starye-zlodei-i-novyy-kapitan-amerika",
+  "tags": [
+    "marvel",
+    "domovoj",
+    "karnazh"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

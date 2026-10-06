@@ -4,6 +4,13 @@
   "url": "/news/killraven-dolgostroy-budushchego/",
   "original_url": "http://spidermedia.ru/news/killraven-dolgostroy-budushchego",
   "archived": "https://web.archive.org/web/20200221175827/http://spidermedia.ru:80/news/killraven-dolgostroy-budushchego",
+  "tags": [
+    "robert-kirkman",
+    "rob-lajfeld",
+    "preview",
+    "marvel",
+    "killraven"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/news/moguchie-reyndzhery-takimi-vy-ih-eshche-ne-videli/",
   "original_url": "http://spidermedia.ru/news/moguchie-reyndzhery-takimi-vy-ih-eshche-ne-videli",
   "archived": "https://web.archive.org/web/20240809120505/http://spidermedia.ru/news/moguchie-reyndzhery-takimi-vy-ih-eshche-ne-videli",
+  "tags": [
+    "fanfilmy",
+    "moguchie-rejndzhery",
+    "adi-shankar"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

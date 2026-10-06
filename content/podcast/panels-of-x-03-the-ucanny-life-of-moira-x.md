@@ -4,6 +4,10 @@
   "url": "/podcast/panels-of-x-03-the-ucanny-life-of-moira-x/",
   "original_url": "https://spidermedia.ru/podcast/panels-of-x-03-the-ucanny-life-of-moira-x",
   "archived": "https://web.archive.org/web/20250808195734/https://spidermedia.ru/podcast/panels-of-x-03-the-ucanny-life-of-moira-x",
+  "tags": [
+    "panels-of-x",
+    "on-panels"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

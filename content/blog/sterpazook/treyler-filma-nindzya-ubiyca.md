@@ -4,6 +4,9 @@
   "url": "/blog/sterpazook/treyler-filma-nindzya-ubiyca/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/treyler-filma-nindzya-ubiyca",
   "archived": "https://web.archive.org/web/20251206043429/http://spidermedia.ru/blog/sterpazook/treyler-filma-nindzya-ubiyca",
+  "tags": [
+    "j-michael-straczynski"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

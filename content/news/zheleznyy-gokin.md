@@ -4,6 +4,11 @@
   "url": "/news/zheleznyy-gokin/",
   "original_url": "http://spidermedia.ru/news/zheleznyy-gokin",
   "archived": "https://web.archive.org/web/20250325093746/http://spidermedia.ru/news/zheleznyy-gokin",
+  "tags": [
+    "marvel",
+    "iron-man",
+    "figurki"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

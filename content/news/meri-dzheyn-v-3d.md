@@ -4,6 +4,11 @@
   "url": "/news/meri-dzheyn-v-3d/",
   "original_url": "http://spidermedia.ru/news/meri-dzheyn-v-3d",
   "archived": "https://web.archive.org/web/20240613065742/http://spidermedia.ru/news/meri-dzheyn-v-3d",
+  "tags": [
+    "meri-dzhejn-vatson",
+    "mary-jane-watson",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

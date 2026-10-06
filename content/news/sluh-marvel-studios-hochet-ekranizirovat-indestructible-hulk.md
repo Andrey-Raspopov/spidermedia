@@ -4,6 +4,11 @@
   "url": "/news/sluh-marvel-studios-hochet-ekranizirovat-indestructible-hulk/",
   "original_url": "http://spidermedia.ru/news/sluh-marvel-studios-hochet-ekranizirovat-indestructible-hulk",
   "archived": "https://web.archive.org/web/20251208063710/http://spidermedia.ru/news/sluh-marvel-studios-hochet-ekranizirovat-indestructible-hulk",
+  "tags": [
+    "sluhi",
+    "hulk",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

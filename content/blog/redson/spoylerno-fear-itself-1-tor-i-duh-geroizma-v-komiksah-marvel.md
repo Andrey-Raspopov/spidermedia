@@ -4,6 +4,12 @@
   "url": "/blog/redson/spoylerno-fear-itself-1-tor-i-duh-geroizma-v-komiksah-marvel/",
   "original_url": "http://spidermedia.ru/blog/redson/spoylerno-fear-itself-1-tor-i-duh-geroizma-v-komiksah-marvel",
   "archived": "https://web.archive.org/web/20251116060649/http://spidermedia.ru/blog/redson/spoylerno-fear-itself-1-tor-i-duh-geroizma-v-komiksah-marvel",
+  "tags": [
+    "mnenie",
+    "thor",
+    "matt-fraction",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

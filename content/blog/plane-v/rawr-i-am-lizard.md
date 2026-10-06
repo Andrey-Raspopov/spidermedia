@@ -4,6 +4,10 @@
   "url": "/blog/plane-v/rawr-i-am-lizard/",
   "original_url": "http://spidermedia.ru/blog/plane-v/rawr-i-am-lizard",
   "archived": "https://web.archive.org/web/20260211174618/http://spidermedia.ru/blog/plane-v/rawr-i-am-lizard",
+  "tags": [
+    "ed-brubaker",
+    "dzhejms-stokoi"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

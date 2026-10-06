@@ -4,6 +4,11 @@
   "url": "/blog/ghost-knight/fastest-figure-alive/",
   "original_url": "https://spidermedia.ru/blog/ghost-knight/fastest-figure-alive",
   "archived": "https://web.archive.org/web/20250119074709/https://spidermedia.ru/blog/ghost-knight/fastest-figure-alive",
+  "tags": [
+    "dc-comics",
+    "figurki",
+    "the-flash"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

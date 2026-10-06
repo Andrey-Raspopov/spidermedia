@@ -4,6 +4,15 @@
   "url": "/blog/gess/siski-bryunetki-krovyaka/",
   "original_url": "https://spidermedia.ru/blog/gess/siski-bryunetki-krovyaka",
   "archived": "https://web.archive.org/web/20251115190338/https://spidermedia.ru/blog/gess/siski-bryunetki-krovyaka",
+  "tags": [
+    "wolverine",
+    "batman",
+    "vampirella",
+    "important-shit-nobody-gives-a-shit-about",
+    "image-comics",
+    "hackslash",
+    "dynamite-entertainment"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

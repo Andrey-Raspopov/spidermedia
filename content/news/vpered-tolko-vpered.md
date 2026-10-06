@@ -4,6 +4,14 @@
   "url": "/news/vpered-tolko-vpered/",
   "original_url": "http://spidermedia.ru/news/vpered-tolko-vpered",
   "archived": "https://web.archive.org/web/20251208073337/http://spidermedia.ru/news/vpered-tolko-vpered",
+  "tags": [
+    "dzhonatan-hikman",
+    "dzherald-parel",
+    "dastin-uiver",
+    "art-0",
+    "s.h.i.e.l.d",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

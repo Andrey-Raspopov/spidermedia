@@ -4,6 +4,17 @@
   "url": "/news/totalnoe-sliyanie/",
   "original_url": "http://spidermedia.ru/news/totalnoe-sliyanie",
   "archived": "https://web.archive.org/web/20160427024553/http://spidermedia.ru/news/totalnoe-sliyanie",
+  "tags": [
+    "marvel",
+    "avengers",
+    "thunderbolts",
+    "top-cow",
+    "hunter-killer",
+    "cyberforce",
+    "den-ebnett",
+    "endi-lenning",
+    "tajler-kirkham"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,13 @@
   "url": "/news/brand-building/",
   "original_url": "http://spidermedia.ru/news/brand-building",
   "archived": "https://web.archive.org/web/20260312014730/http://spidermedia.ru/news/brand-building",
+  "tags": [
+    "yanik-pekket",
+    "devid-finch",
+    "grant-morrison",
+    "dc-comics",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

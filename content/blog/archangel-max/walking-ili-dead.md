@@ -4,6 +4,10 @@
   "url": "/blog/archangel-max/walking-ili-dead/",
   "original_url": "https://spidermedia.ru/blog/archangel-max/walking-ili-dead",
   "archived": "https://web.archive.org/web/20260211191122/https://spidermedia.ru/blog/archangel-max/walking-ili-dead",
+  "tags": [
+    "the-walking-dead",
+    "robert-kirkman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

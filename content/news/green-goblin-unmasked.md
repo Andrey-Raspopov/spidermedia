@@ -4,6 +4,12 @@
   "url": "/news/green-goblin-unmasked/",
   "original_url": "http://spidermedia.ru/news/green-goblin-unmasked",
   "archived": "https://web.archive.org/web/20150427032905/http://spidermedia.ru/news/green-goblin-unmasked",
+  "tags": [
+    "norman-osborn",
+    "marvel-comics",
+    "zelyonyj-goblin",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

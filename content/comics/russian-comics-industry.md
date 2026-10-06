@@ -4,6 +4,12 @@
   "url": "/comics/russian-comics-industry/",
   "original_url": "https://spidermedia.ru/comics/russian-comics-industry",
   "archived": "https://web.archive.org/web/20260120164752/https://spidermedia.ru/comics/russian-comics-industry",
+  "tags": [
+    "bubble",
+    "azbuka",
+    "artem-gabrelyanov",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

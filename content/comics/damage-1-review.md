@@ -4,6 +4,11 @@
   "url": "/comics/damage-1-review/",
   "original_url": "http://spidermedia.ru/comics/damage-1-review",
   "archived": "https://web.archive.org/web/20251206024146/http://spidermedia.ru/comics/damage-1-review",
+  "tags": [
+    "dc-comics",
+    "robert-venditti",
+    "toni-deniel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

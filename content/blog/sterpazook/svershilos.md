@@ -4,6 +4,12 @@
   "url": "/blog/sterpazook/svershilos/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/svershilos",
   "archived": "https://web.archive.org/web/20260115064514/http://spidermedia.ru/blog/sterpazook/svershilos",
+  "tags": [
+    "kartinki",
+    "brian-k-vaughan",
+    "klyukva",
+    "russkie-v-zarubezhnyh-komiksah"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,13 @@
   "url": "/news/sorvigolova-nashel-protivnika/",
   "original_url": "http://spidermedia.ru/news/sorvigolova-nashel-protivnika",
   "archived": "https://web.archive.org/web/20251107024647/http://spidermedia.ru/news/sorvigolova-nashel-protivnika",
+  "tags": [
+    "kingpin",
+    "kasting",
+    "netflix",
+    "marvel",
+    "daredevil"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

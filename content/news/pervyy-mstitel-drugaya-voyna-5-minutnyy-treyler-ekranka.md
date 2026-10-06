@@ -4,6 +4,12 @@
   "url": "/news/pervyy-mstitel-drugaya-voyna-5-minutnyy-treyler-ekranka/",
   "original_url": "http://spidermedia.ru/news/pervyy-mstitel-drugaya-voyna-5-minutnyy-treyler-ekranka",
   "archived": "https://web.archive.org/web/20230604114338/http://spidermedia.ru/news/pervyy-mstitel-drugaya-voyna-5-minutnyy-treyler-ekranka",
+  "tags": [
+    "trejlery",
+    "marvel",
+    "captain-america",
+    "winter-soldier"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

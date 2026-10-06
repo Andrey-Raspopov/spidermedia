@@ -4,6 +4,9 @@
   "url": "/comics/inok-berlin-new-preview/",
   "original_url": "http://spidermedia.ru/comics/inok-berlin-new-preview",
   "archived": "https://web.archive.org/web/20241225182415/http://spidermedia.ru/comics/inok-berlin-new-preview",
+  "tags": [
+    "bubble"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

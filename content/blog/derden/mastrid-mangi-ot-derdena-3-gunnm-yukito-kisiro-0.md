@@ -4,6 +4,11 @@
   "url": "/blog/derden/mastrid-mangi-ot-derdena-3-gunnm-yukito-kisiro-0/",
   "original_url": "https://spidermedia.ru/blog/derden/mastrid-mangi-ot-derdena-3-gunnm-yukito-kisiro-0",
   "archived": "https://web.archive.org/web/20251211022156/https://spidermedia.ru/blog/derden/mastrid-mangi-ot-derdena-3-gunnm-yukito-kisiro-0",
+  "tags": [
+    "yukito-kisiro",
+    "manga",
+    "gunnm"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

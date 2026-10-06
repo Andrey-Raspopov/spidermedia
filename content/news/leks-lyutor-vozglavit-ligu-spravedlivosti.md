@@ -4,6 +4,12 @@
   "url": "/news/leks-lyutor-vozglavit-ligu-spravedlivosti/",
   "original_url": "http://spidermedia.ru/news/leks-lyutor-vozglavit-ligu-spravedlivosti",
   "archived": "https://web.archive.org/web/20260116221504/http://spidermedia.ru/news/leks-lyutor-vozglavit-ligu-spravedlivosti",
+  "tags": [
+    "geoff-johns",
+    "lex-luthor",
+    "justice-league",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

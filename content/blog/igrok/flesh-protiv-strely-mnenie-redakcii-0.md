@@ -4,6 +4,11 @@
   "url": "/blog/igrok/flesh-protiv-strely-mnenie-redakcii-0/",
   "original_url": "http://spidermedia.ru/blog/igrok/flesh-protiv-strely-mnenie-redakcii-0",
   "archived": "https://web.archive.org/web/20250807012718/http://spidermedia.ru/blog/igrok/flesh-protiv-strely-mnenie-redakcii-0",
+  "tags": [
+    "dc-comics",
+    "the-flash",
+    "green-arrow"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

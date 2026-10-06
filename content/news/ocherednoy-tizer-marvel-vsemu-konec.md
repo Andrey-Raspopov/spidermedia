@@ -4,6 +4,9 @@
   "url": "/news/ocherednoy-tizer-marvel-vsemu-konec/",
   "original_url": "http://spidermedia.ru/news/ocherednoy-tizer-marvel-vsemu-konec",
   "archived": "https://web.archive.org/web/20150319224633/http://spidermedia.ru/news/ocherednoy-tizer-marvel-vsemu-konec",
+  "tags": [
+    "marvel-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

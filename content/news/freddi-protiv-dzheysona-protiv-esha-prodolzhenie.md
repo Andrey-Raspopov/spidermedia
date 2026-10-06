@@ -4,6 +4,14 @@
   "url": "/news/freddi-protiv-dzheysona-protiv-esha-prodolzhenie/",
   "original_url": "http://spidermedia.ru/news/freddi-protiv-dzheysona-protiv-esha-prodolzhenie",
   "archived": "https://web.archive.org/web/20260121010301/http://spidermedia.ru/news/freddi-protiv-dzheysona-protiv-esha-prodolzhenie",
+  "tags": [
+    "dc-comics",
+    "freddi",
+    "dzhejson",
+    "jason",
+    "army-of-darkness",
+    "freddy-krueger"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

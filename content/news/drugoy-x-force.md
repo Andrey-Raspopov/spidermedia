@@ -4,6 +4,16 @@
   "url": "/news/drugoy-x-force/",
   "original_url": "https://spidermedia.ru/news/drugoy-x-force",
   "archived": "https://web.archive.org/web/20260120234533/https://spidermedia.ru/news/drugoy-x-force",
+  "tags": [
+    "mmxi",
+    "iks-fors",
+    "art-0",
+    "rik-remender",
+    "mark-bruks",
+    "marvel",
+    "x-force",
+    "x-men"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

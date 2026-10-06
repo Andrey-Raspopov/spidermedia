@@ -4,6 +4,9 @@
   "url": "/movies/batman-and-bizyaev/",
   "original_url": "https://spidermedia.ru/movies/batman-and-bizyaev",
   "archived": "https://web.archive.org/web/20251205115315/https://spidermedia.ru/movies/batman-and-bizyaev",
+  "tags": [
+    "batman-and-robin-day"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

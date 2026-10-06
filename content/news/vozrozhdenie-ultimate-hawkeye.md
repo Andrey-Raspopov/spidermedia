@@ -4,6 +4,14 @@
   "url": "/news/vozrozhdenie-ultimate-hawkeye/",
   "original_url": "http://spidermedia.ru/news/vozrozhdenie-ultimate-hawkeye",
   "archived": "https://web.archive.org/web/20251115040148/http://spidermedia.ru/news/vozrozhdenie-ultimate-hawkeye",
+  "tags": [
+    "rafa-sendoval",
+    "dzhonatan-hikman",
+    "ultimate",
+    "marvel",
+    "darkhawk",
+    "hawkeye"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

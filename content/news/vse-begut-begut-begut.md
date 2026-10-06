@@ -4,6 +4,12 @@
   "url": "/news/vse-begut-begut-begut/",
   "original_url": "http://spidermedia.ru/news/vse-begut-begut-begut",
   "archived": "https://web.archive.org/web/20251211023920/http://spidermedia.ru/news/vse-begut-begut-begut",
+  "tags": [
+    "geoff-johns",
+    "the-flash",
+    "dc-comics",
+    "endi-kubert"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/tv/rekap-powers-s02e07-origins/",
   "original_url": "https://spidermedia.ru/tv/rekap-powers-s02e07-origins",
   "archived": "https://web.archive.org/web/20250429014731/https://spidermedia.ru/tv/rekap-powers-s02e07-origins",
+  "tags": [
+    "icon-comics",
+    "powers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,16 @@
   "url": "/news/space-no-one-can-hear-i-am-groot/",
   "original_url": "http://spidermedia.ru/news/space-no-one-can-hear-i-am-groot",
   "archived": "https://web.archive.org/web/20250913021156/http://spidermedia.ru/news/space-no-one-can-hear-i-am-groot",
+  "tags": [
+    "ant-man",
+    "winter-soldier",
+    "marvel",
+    "san-diego-comic-con-international",
+    "thor",
+    "iron-man",
+    "guardians-of-the-galaxy",
+    "captain-america"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

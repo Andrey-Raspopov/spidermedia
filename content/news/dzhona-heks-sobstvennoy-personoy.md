@@ -4,6 +4,16 @@
   "url": "/news/dzhona-heks-sobstvennoy-personoy/",
   "original_url": "http://spidermedia.ru/news/dzhona-heks-sobstvennoy-personoy",
   "archived": "https://web.archive.org/web/20120607030024/http://spidermedia.ru/news/dzhona-heks-sobstvennoy-personoy",
+  "tags": [
+    "dc-comics",
+    "jonah-hex",
+    "josh-brolin",
+    "dzhona-heks",
+    "dzhosh-brolin",
+    "kino",
+    "komiksy",
+    "foto"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

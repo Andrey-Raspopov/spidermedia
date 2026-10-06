@@ -4,11 +4,15 @@
   "url": "/blog/redson/mzhdz-novyy-chelovek-pauk/",
   "original_url": "https://spidermedia.ru/blog/redson/mzhdz-novyy-chelovek-pauk",
   "archived": "https://web.archive.org/web/20251209132433/https://spidermedia.ru/blog/redson/mzhdz-novyy-chelovek-pauk",
+  "tags": [
+    "mnenie",
+    "mzhdz"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](https://web.archive.org/web/20251209132433im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz.png)](https://web.archive.org/web/20260206215846/http://spidermedia.ru/tags/mzhdz)
+[![](https://web.archive.org/web/20251209132433im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz.png)](../../../tags/mzhdz/)
 ![](https://web.archive.org/web/20251209132433im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/x_f247be7a.jpg)
 Вчера Майлз Моралес официально вступил в должность главного героя серии **Ultimate Spider-Man**. Все вы ждали этого момента затаив дыхание, из сотен комментариев так и хлестал всепоглощающий оптимизм. Естественно, мы не смогли обойти этот комикс стороной, и слепили короткий, но четкий спецвыпуск.
 [Расшифровка системы оценок](../mzhdz-odin-vy-kak-hotite-ya-kak-hochu/).

@@ -4,6 +4,12 @@
   "url": "/news/chernyy-flesh-davit-ostalnyh/",
   "original_url": "http://spidermedia.ru/news/chernyy-flesh-davit-ostalnyh",
   "archived": "https://web.archive.org/web/20240305034432/http://spidermedia.ru/news/chernyy-flesh-davit-ostalnyh",
+  "tags": [
+    "dc-comics",
+    "the-flash",
+    "geoff-johns",
+    "ethan-van-sciver"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

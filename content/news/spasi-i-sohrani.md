@@ -4,6 +4,13 @@
   "url": "/news/spasi-i-sohrani/",
   "original_url": "http://spidermedia.ru/news/spasi-i-sohrani",
   "archived": "https://web.archive.org/web/20260215083726/http://spidermedia.ru/news/spasi-i-sohrani",
+  "tags": [
+    "dzhonatan-hikman",
+    "dastin-uiver",
+    "art-0",
+    "s.h.i.e.l.d",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

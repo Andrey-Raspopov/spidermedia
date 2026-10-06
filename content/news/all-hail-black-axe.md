@@ -4,6 +4,14 @@
   "url": "/news/all-hail-black-axe/",
   "original_url": "http://spidermedia.ru/news/all-hail-black-axe",
   "archived": "https://web.archive.org/web/20120607162139/http://spidermedia.ru/news/all-hail-black-axe",
+  "tags": [
+    "archaia",
+    "david-petersen",
+    "mouse-guard",
+    "sdcc-2009",
+    "devid-petersen",
+    "komiksy"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

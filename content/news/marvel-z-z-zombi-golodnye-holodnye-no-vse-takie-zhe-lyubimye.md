@@ -4,6 +4,23 @@
   "url": "/news/marvel-z-z-zombi-golodnye-holodnye-no-vse-takie-zhe-lyubimye/",
   "original_url": "http://spidermedia.ru/news/marvel-z-z-zombi-golodnye-holodnye-no-vse-takie-zhe-lyubimye",
   "archived": "https://web.archive.org/web/20111018172933/http://spidermedia.ru/news/marvel-z-z-zombi-golodnye-holodnye-no-vse-takie-zhe-lyubimye",
+  "tags": [
+    "avengers",
+    "iron-man",
+    "marvel",
+    "marvel-zombies",
+    "spider-man",
+    "andrea-muti",
+    "art-0",
+    "devid-velington",
+    "zheleznyy-chelovek",
+    "komiksy",
+    "marvel-zombi",
+    "mstiteli",
+    "nik-dragotta",
+    "fred-van-lente",
+    "chelovek-pauk"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/news/cheburashka-anime-epizod-1/",
   "original_url": "http://spidermedia.ru/news/cheburashka-anime-epizod-1",
   "archived": "https://web.archive.org/web/20251107004813/http://spidermedia.ru/news/cheburashka-anime-epizod-1",
+  "tags": [
+    "animaciya",
+    "anime",
+    "cheburashka"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

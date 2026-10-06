@@ -4,6 +4,11 @@
   "url": "/blog/hella/rockomnadzor-spokoystvie-0/",
   "original_url": "http://spidermedia.ru/blog/hella/rockomnadzor-spokoystvie-0",
   "archived": "https://web.archive.org/web/20260123083402/http://spidermedia.ru/blog/hella/rockomnadzor-spokoystvie-0",
+  "tags": [
+    "russian-comics",
+    "roskomnadzor",
+    "zarubezhnye-komiksy-na-russkom"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

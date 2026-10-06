@@ -4,6 +4,13 @@
   "url": "/blog/bastion7/recenziya-invisibles/",
   "original_url": "http://spidermedia.ru/blog/bastion7/recenziya-invisibles",
   "archived": "https://web.archive.org/web/20251206152141/http://spidermedia.ru/blog/bastion7/recenziya-invisibles",
+  "tags": [
+    "dc-comics",
+    "recenziya",
+    "grant-morrison",
+    "vertigo",
+    "filip-tan"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

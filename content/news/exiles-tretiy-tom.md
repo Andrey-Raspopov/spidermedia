@@ -4,6 +4,13 @@
   "url": "/news/exiles-tretiy-tom/",
   "original_url": "https://spidermedia.ru/news/exiles-tretiy-tom",
   "archived": "https://web.archive.org/web/20260309173556/https://spidermedia.ru/news/exiles-tretiy-tom",
+  "tags": [
+    "salvador-espin",
+    "dzheff-parker",
+    "dejv-bullok",
+    "marvel",
+    "exiles"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

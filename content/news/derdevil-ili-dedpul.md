@@ -4,6 +4,18 @@
   "url": "/news/derdevil-ili-dedpul/",
   "original_url": "http://spidermedia.ru/news/derdevil-ili-dedpul",
   "archived": "https://web.archive.org/web/20120607134249/http://spidermedia.ru/news/derdevil-ili-dedpul",
+  "tags": [
+    "daredevil",
+    "deadpool",
+    "katee-sackhoff",
+    "typhoid-mary",
+    "dedpul",
+    "kino",
+    "komiksy",
+    "keti-zakhoff",
+    "marvel",
+    "tifoidnaya-meri"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

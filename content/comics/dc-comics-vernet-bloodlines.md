@@ -4,6 +4,10 @@
   "url": "/comics/dc-comics-vernet-bloodlines/",
   "original_url": "http://spidermedia.ru/comics/dc-comics-vernet-bloodlines",
   "archived": "https://web.archive.org/web/20251108042154/http://spidermedia.ru/comics/dc-comics-vernet-bloodlines",
+  "tags": [
+    "dc-comics",
+    "dzhej-ti-kral"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

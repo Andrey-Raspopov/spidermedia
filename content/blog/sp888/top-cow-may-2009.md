@@ -4,6 +4,12 @@
   "url": "/blog/sp888/top-cow-may-2009/",
   "original_url": "http://spidermedia.ru/blog/sp888/top-cow-may-2009",
   "archived": "https://web.archive.org/web/20111018111853/http://spidermedia.ru/blog/sp888/top-cow-may-2009",
+  "tags": [
+    "top-cow",
+    "komiksy",
+    "mnenie",
+    "relizy"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

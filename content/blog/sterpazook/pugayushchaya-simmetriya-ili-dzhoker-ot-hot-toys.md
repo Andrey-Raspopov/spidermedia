@@ -4,6 +4,13 @@
   "url": "/blog/sterpazook/pugayushchaya-simmetriya-ili-dzhoker-ot-hot-toys/",
   "original_url": "https://spidermedia.ru/blog/sterpazook/pugayushchaya-simmetriya-ili-dzhoker-ot-hot-toys",
   "archived": "https://web.archive.org/web/20260211184554/https://spidermedia.ru/blog/sterpazook/pugayushchaya-simmetriya-ili-dzhoker-ot-hot-toys",
+  "tags": [
+    "joker",
+    "hot-toys",
+    "dark-knight",
+    "figurki",
+    "temnyj-rycar"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

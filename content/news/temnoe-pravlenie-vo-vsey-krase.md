@@ -4,6 +4,19 @@
   "url": "/news/temnoe-pravlenie-vo-vsey-krase/",
   "original_url": "https://spidermedia.ru/news/temnoe-pravlenie-vo-vsey-krase",
   "archived": "https://web.archive.org/web/20251208064005/https://spidermedia.ru/news/temnoe-pravlenie-vo-vsey-krase",
+  "tags": [
+    "x-men",
+    "marvel",
+    "hood",
+    "avengers",
+    "iron-patriot",
+    "norman-ozborn",
+    "kapyushon",
+    "doktor-dum",
+    "the-initiative",
+    "utopia",
+    "dr.-doom"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

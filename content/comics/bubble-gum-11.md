@@ -4,6 +4,9 @@
   "url": "/comics/bubble-gum-11/",
   "original_url": "https://spidermedia.ru/comics/bubble-gum-11",
   "archived": "https://web.archive.org/web/20250325095142/https://spidermedia.ru/comics/bubble-gum-11",
+  "tags": [
+    "bubble"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

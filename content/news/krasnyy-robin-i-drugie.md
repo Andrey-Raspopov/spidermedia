@@ -4,6 +4,16 @@
   "url": "/news/krasnyy-robin-i-drugie/",
   "original_url": "https://spidermedia.ru/news/krasnyy-robin-i-drugie",
   "archived": "https://web.archive.org/web/20250913015129/https://spidermedia.ru/news/krasnyy-robin-i-drugie",
+  "tags": [
+    "sekretnaya-shesterka",
+    "robin",
+    "justice-league",
+    "krasnyj-robin",
+    "secret-six",
+    "red-robin",
+    "dc-comics",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/blog/happycake-oven/ne-sklalos/",
   "original_url": "http://spidermedia.ru/blog/happycake-oven/ne-sklalos",
   "archived": "https://web.archive.org/web/20111025234205/http://spidermedia.ru/blog/happycake-oven/ne-sklalos",
+  "tags": [
+    "dc-comics",
+    "mark-bagley"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,15 @@
   "url": "/blog/plane-v/rekomendacii-kriminal/",
   "original_url": "http://spidermedia.ru/blog/plane-v/rekomendacii-kriminal",
   "archived": "https://web.archive.org/web/20251111081854/http://spidermedia.ru/blog/plane-v/rekomendacii-kriminal",
+  "tags": [
+    "rekomendacii",
+    "stray-bullets",
+    "scalped",
+    "powers",
+    "parker",
+    "mustread",
+    "criminal"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

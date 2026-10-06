@@ -4,6 +4,10 @@
   "url": "/news/novyy-komiks-pitera-milligana-vyydet-u-vertigo/",
   "original_url": "https://spidermedia.ru/news/novyy-komiks-pitera-milligana-vyydet-u-vertigo",
   "archived": "https://web.archive.org/web/20251209140155/https://spidermedia.ru/news/novyy-komiks-pitera-milligana-vyydet-u-vertigo",
+  "tags": [
+    "peter-milligan",
+    "vertigo"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

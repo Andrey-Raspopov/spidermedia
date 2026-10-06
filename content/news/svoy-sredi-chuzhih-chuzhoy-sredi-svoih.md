@@ -4,6 +4,23 @@
   "url": "/news/svoy-sredi-chuzhih-chuzhoy-sredi-svoih/",
   "original_url": "http://spidermedia.ru/news/svoy-sredi-chuzhih-chuzhoy-sredi-svoih",
   "archived": "https://web.archive.org/web/20260309180435/http://spidermedia.ru/news/svoy-sredi-chuzhih-chuzhoy-sredi-svoih",
+  "tags": [
+    "dc-comics",
+    "govard-chajkin",
+    "preview",
+    "greg-rakka",
+    "dzhejms-robinson",
+    "novyj-kripton",
+    "new-krypton",
+    "superman",
+    "james-robinson",
+    "geri-frenk",
+    "pit-vuds",
+    "greg-rucka",
+    "pete-woods",
+    "gary-frank",
+    "howard-chaykin"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

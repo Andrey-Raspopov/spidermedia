@@ -4,6 +4,10 @@
   "url": "/blog/redson/mzhdz-one-night-bangkok-can-make-hard-man-tumble/",
   "original_url": "http://spidermedia.ru/blog/redson/mzhdz-one-night-bangkok-can-make-hard-man-tumble",
   "archived": "https://web.archive.org/web/20260313110337/http://spidermedia.ru/blog/redson/mzhdz-one-night-bangkok-can-make-hard-man-tumble",
+  "tags": [
+    "mnenie",
+    "mzhdz"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

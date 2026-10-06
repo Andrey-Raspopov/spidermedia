@@ -4,6 +4,9 @@
   "url": "/news/den-novyh-komiksov-14-maya/",
   "original_url": "http://spidermedia.ru/news/den-novyh-komiksov-14-maya",
   "archived": "https://web.archive.org/web/20190907231209/http://spidermedia.ru:80/news/den-novyh-komiksov-14-maya",
+  "tags": [
+    "den-novyh-komiksov"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

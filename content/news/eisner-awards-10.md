@@ -4,6 +4,11 @@
   "url": "/news/eisner-awards-10/",
   "original_url": "http://spidermedia.ru/news/eisner-awards-10",
   "archived": "https://web.archive.org/web/20250715231533/http://spidermedia.ru/news/eisner-awards-10",
+  "tags": [
+    "nagrady",
+    "manga",
+    "eisner-awards"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

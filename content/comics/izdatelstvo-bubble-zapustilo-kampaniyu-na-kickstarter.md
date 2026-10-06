@@ -4,6 +4,10 @@
   "url": "/comics/izdatelstvo-bubble-zapustilo-kampaniyu-na-kickstarter/",
   "original_url": "https://spidermedia.ru/comics/izdatelstvo-bubble-zapustilo-kampaniyu-na-kickstarter",
   "archived": "https://web.archive.org/web/20260209114226/https://spidermedia.ru/comics/izdatelstvo-bubble-zapustilo-kampaniyu-na-kickstarter",
+  "tags": [
+    "bubble",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/tv/archie-cast/",
   "original_url": "http://spidermedia.ru/tv/archie-cast",
   "archived": "https://web.archive.org/web/20260208211126/http://spidermedia.ru/tv/archie-cast",
+  "tags": [
+    "archie-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/blog/qvall/itazura-ouji/",
   "original_url": "http://spidermedia.ru/blog/qvall/itazura-ouji",
   "archived": "https://web.archive.org/web/20120607132638/http://spidermedia.ru/blog/qvall/itazura-ouji",
+  "tags": [
+    "manga",
+    "one-shot",
+    "shoujo",
+    "skachat"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

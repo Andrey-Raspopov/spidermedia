@@ -4,6 +4,13 @@
   "url": "/news/harder-better-faster-stronger/",
   "original_url": "https://spidermedia.ru/news/harder-better-faster-stronger",
   "archived": "https://web.archive.org/web/20251116054840/https://spidermedia.ru/news/harder-better-faster-stronger",
+  "tags": [
+    "salvador-larroka",
+    "preview",
+    "matt-fraction",
+    "marvel",
+    "iron-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

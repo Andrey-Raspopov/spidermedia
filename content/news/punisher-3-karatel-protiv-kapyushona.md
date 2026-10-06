@@ -4,6 +4,11 @@
   "url": "/news/punisher-3-karatel-protiv-kapyushona/",
   "original_url": "http://spidermedia.ru/news/punisher-3-karatel-protiv-kapyushona",
   "archived": "https://web.archive.org/web/20251106234925/http://spidermedia.ru/news/punisher-3-karatel-protiv-kapyushona",
+  "tags": [
+    "marvel",
+    "hood",
+    "punisher"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

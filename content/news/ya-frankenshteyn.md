@@ -4,6 +4,11 @@
   "url": "/news/ya-frankenshteyn/",
   "original_url": "http://spidermedia.ru/news/ya-frankenshteyn",
   "archived": "https://web.archive.org/web/20190315120847/http://spidermedia.ru:80/news/ya-frankenshteyn",
+  "tags": [
+    "darkstorm",
+    "frankenstein",
+    "frankenshtejn"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

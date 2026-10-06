@@ -4,6 +4,9 @@
   "url": "/news/evil-dead-reboot-remake/",
   "original_url": "http://spidermedia.ru/news/evil-dead-reboot-remake",
   "archived": "https://web.archive.org/web/20260121005006/http://spidermedia.ru/news/evil-dead-reboot-remake",
+  "tags": [
+    "army-of-darkness"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,16 @@
   "url": "/news/supermen-protiv/",
   "original_url": "http://spidermedia.ru/news/supermen-protiv",
   "archived": "https://web.archive.org/web/20250806060331/http://spidermedia.ru/news/supermen-protiv",
+  "tags": [
+    "superman",
+    "novyj-kripton",
+    "dzhejms-robinson",
+    "james-robinson",
+    "fcbd",
+    "dc-comics",
+    "mark-guggenhajm",
+    "mark-guggenheim"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/news/pervyy-vzglyad-na-novogo-sudyu-dredda/",
   "original_url": "http://spidermedia.ru/news/pervyy-vzglyad-na-novogo-sudyu-dredda",
   "archived": "https://web.archive.org/web/20260313103716/http://spidermedia.ru/news/pervyy-vzglyad-na-novogo-sudyu-dredda",
+  "tags": [
+    "judge-dredd",
+    "2000-ad"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

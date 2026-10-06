@@ -4,6 +4,12 @@
   "url": "/news/lourens-fishbern-sygraet-perri-uayta-v-ekranizacii-supermena/",
   "original_url": "https://spidermedia.ru/news/lourens-fishbern-sygraet-perri-uayta-v-ekranizacii-supermena",
   "archived": "https://web.archive.org/web/20260117223342/https://spidermedia.ru/news/lourens-fishbern-sygraet-perri-uayta-v-ekranizacii-supermena",
+  "tags": [
+    "chelovek-iz-stali",
+    "superman",
+    "man-of-steel",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

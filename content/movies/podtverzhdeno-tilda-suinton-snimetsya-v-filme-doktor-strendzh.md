@@ -4,6 +4,10 @@
   "url": "/movies/podtverzhdeno-tilda-suinton-snimetsya-v-filme-doktor-strendzh/",
   "original_url": "https://spidermedia.ru/movies/podtverzhdeno-tilda-suinton-snimetsya-v-filme-doktor-strendzh",
   "archived": "https://web.archive.org/web/20241205032632/https://spidermedia.ru/movies/podtverzhdeno-tilda-suinton-snimetsya-v-filme-doktor-strendzh",
+  "tags": [
+    "marvel",
+    "doctor-strange"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

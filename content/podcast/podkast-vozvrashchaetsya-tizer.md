@@ -4,6 +4,9 @@
   "url": "/podcast/podkast-vozvrashchaetsya-tizer/",
   "original_url": "http://spidermedia.ru/podcast/podkast-vozvrashchaetsya-tizer",
   "archived": "https://web.archive.org/web/20250424193852/http://spidermedia.ru/podcast/podkast-vozvrashchaetsya-tizer",
+  "tags": [
+    "spidercast"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

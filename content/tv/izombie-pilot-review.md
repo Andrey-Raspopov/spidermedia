@@ -4,6 +4,10 @@
   "url": "/tv/izombie-pilot-review/",
   "original_url": "http://spidermedia.ru/tv/izombie-pilot-review",
   "archived": "https://web.archive.org/web/20260307062911/http://spidermedia.ru/tv/izombie-pilot-review",
+  "tags": [
+    "izombie",
+    "vertigo"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

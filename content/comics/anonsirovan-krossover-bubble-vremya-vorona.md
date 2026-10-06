@@ -4,6 +4,10 @@
   "url": "/comics/anonsirovan-krossover-bubble-vremya-vorona/",
   "original_url": "http://spidermedia.ru/comics/anonsirovan-krossover-bubble-vremya-vorona",
   "archived": "https://web.archive.org/web/20251005134148/http://spidermedia.ru/comics/anonsirovan-krossover-bubble-vremya-vorona",
+  "tags": [
+    "bubble",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

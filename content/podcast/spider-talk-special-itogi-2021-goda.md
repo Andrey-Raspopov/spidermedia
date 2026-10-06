@@ -4,6 +4,9 @@
   "url": "/podcast/spider-talk-special-itogi-2021-goda/",
   "original_url": "http://spidermedia.ru/podcast/spider-talk-special-itogi-2021-goda",
   "archived": "https://web.archive.org/web/20251216124850/http://spidermedia.ru/podcast/spider-talk-special-itogi-2021-goda",
+  "tags": [
+    "spider-talk"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

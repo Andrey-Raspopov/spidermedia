@@ -4,6 +4,18 @@
   "url": "/news/podgotovka-k-captain-america-reborn-4/",
   "original_url": "https://spidermedia.ru/news/podgotovka-k-captain-america-reborn-4",
   "archived": "https://web.archive.org/web/20260314075854/https://spidermedia.ru/news/podgotovka-k-captain-america-reborn-4",
+  "tags": [
+    "ed-brubaker",
+    "preview",
+    "krasnyj-cherep",
+    "doktor-dum",
+    "bryan-hitch",
+    "red-skull",
+    "reborn",
+    "marvel",
+    "dr.-doom",
+    "captain-america"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

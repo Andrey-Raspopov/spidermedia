@@ -4,6 +4,11 @@
   "url": "/comics/exclusive-irredeemable-vol-1-russian-edition-preview/",
   "original_url": "http://spidermedia.ru/comics/exclusive-irredeemable-vol-1-russian-edition-preview",
   "archived": "https://web.archive.org/web/20251216180934/http://spidermedia.ru/comics/exclusive-irredeemable-vol-1-russian-edition-preview",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "mark-waid",
+    "eksklyuziv"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

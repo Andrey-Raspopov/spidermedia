@@ -4,6 +4,13 @@
   "url": "/news/spider-woman-teper-sentyabr/",
   "original_url": "http://spidermedia.ru/news/spider-woman-teper-sentyabr",
   "archived": "https://web.archive.org/web/20190820212247/http://spidermedia.ru:80/news/spider-woman-teper-sentyabr",
+  "tags": [
+    "marvel",
+    "spider-woman",
+    "alex-maleev",
+    "brian-michael-bendis",
+    "art-0"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

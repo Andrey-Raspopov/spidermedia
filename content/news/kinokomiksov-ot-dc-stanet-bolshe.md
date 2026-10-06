@@ -4,6 +4,11 @@
   "url": "/news/kinokomiksov-ot-dc-stanet-bolshe/",
   "original_url": "http://spidermedia.ru/news/kinokomiksov-ot-dc-stanet-bolshe",
   "archived": "https://web.archive.org/web/20120613000436/http://spidermedia.ru/news/kinokomiksov-ot-dc-stanet-bolshe",
+  "tags": [
+    "dc-comics",
+    "warner-bros",
+    "kino"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

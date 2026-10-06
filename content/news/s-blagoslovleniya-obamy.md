@@ -4,6 +4,10 @@
   "url": "/news/s-blagoslovleniya-obamy/",
   "original_url": "https://spidermedia.ru/news/s-blagoslovleniya-obamy",
   "archived": "https://web.archive.org/web/20251208080301/https://spidermedia.ru/news/s-blagoslovleniya-obamy",
+  "tags": [
+    "x-men",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

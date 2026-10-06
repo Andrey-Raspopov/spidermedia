@@ -4,6 +4,11 @@
   "url": "/news/rosomaha-v-igre/",
   "original_url": "http://spidermedia.ru/news/rosomaha-v-igre",
   "archived": "https://web.archive.org/web/20260211180521/http://spidermedia.ru/news/rosomaha-v-igre",
+  "tags": [
+    "wolverine",
+    "igry",
+    "intervyu"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

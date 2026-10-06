@@ -4,6 +4,14 @@
   "url": "/blog/sterpazook/audiokniga-kingdom-come/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/audiokniga-kingdom-come",
   "archived": "https://web.archive.org/web/20170710045332/http://spidermedia.ru:80/blog/sterpazook/audiokniga-kingdom-come",
+  "tags": [
+    "dc-comics",
+    "mark-waid",
+    "audioknigi",
+    "elseworlds",
+    "kingdom-come",
+    "alex-ross"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

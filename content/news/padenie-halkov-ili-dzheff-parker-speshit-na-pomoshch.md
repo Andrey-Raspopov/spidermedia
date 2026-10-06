@@ -4,6 +4,19 @@
   "url": "/news/padenie-halkov-ili-dzheff-parker-speshit-na-pomoshch/",
   "original_url": "http://spidermedia.ru/news/padenie-halkov-ili-dzheff-parker-speshit-na-pomoshch",
   "archived": "https://web.archive.org/web/20260121011634/http://spidermedia.ru/news/padenie-halkov-ili-dzheff-parker-speshit-na-pomoshch",
+  "tags": [
+    "fred-van-lente",
+    "ralk",
+    "krasnyj-halk",
+    "she-hulk",
+    "dzheff-parker",
+    "dzhef-loeb",
+    "greg-pak",
+    "rulk",
+    "red-hulk",
+    "marvel",
+    "hulk"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

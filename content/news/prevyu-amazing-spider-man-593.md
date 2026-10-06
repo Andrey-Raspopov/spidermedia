@@ -4,6 +4,14 @@
   "url": "/news/prevyu-amazing-spider-man-593/",
   "original_url": "http://spidermedia.ru/news/prevyu-amazing-spider-man-593",
   "archived": "https://web.archive.org/web/20120718055332/http://spidermedia.ru/news/prevyu-amazing-spider-man-593",
+  "tags": [
+    "spider-man",
+    "komiksy",
+    "marvel",
+    "mark-ueyd",
+    "preview-s",
+    "chelovek-pauk"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

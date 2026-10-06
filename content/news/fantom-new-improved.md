@@ -4,6 +4,14 @@
   "url": "/news/fantom-new-improved/",
   "original_url": "http://spidermedia.ru/news/fantom-new-improved",
   "archived": "https://web.archive.org/web/20120608142457/http://spidermedia.ru/news/fantom-new-improved",
+  "tags": [
+    "phantom",
+    "art-0",
+    "kino",
+    "redizayn",
+    "tv-0",
+    "fantom"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

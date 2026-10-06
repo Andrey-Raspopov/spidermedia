@@ -4,6 +4,13 @@
   "url": "/news/wildstorm-universe-wildcats-gen-13-v-2010/",
   "original_url": "http://spidermedia.ru/news/wildstorm-universe-wildcats-gen-13-v-2010",
   "archived": "https://web.archive.org/web/20200223125622/http://spidermedia.ru:80/news/wildstorm-universe-wildcats-gen-13-v-2010",
+  "tags": [
+    "gen-13",
+    "avtoritety",
+    "wildcats",
+    "dc-comics",
+    "authority"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/blog/oleg89/den-novyh-komiksov-19-noyabrya/",
   "original_url": "http://spidermedia.ru/blog/oleg89/den-novyh-komiksov-19-noyabrya",
   "archived": "https://web.archive.org/web/20260211191409/http://spidermedia.ru/blog/oleg89/den-novyh-komiksov-19-noyabrya",
+  "tags": [
+    "den-novyh-komiksov"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

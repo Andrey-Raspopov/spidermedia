@@ -4,6 +4,11 @@
   "url": "/comics/locke-and-key-vernetsya-pod-rozhdestvo/",
   "original_url": "http://spidermedia.ru/comics/locke-and-key-vernetsya-pod-rozhdestvo",
   "archived": "https://web.archive.org/web/20251209152219/http://spidermedia.ru/comics/locke-and-key-vernetsya-pod-rozhdestvo",
+  "tags": [
+    "gabriel-rodriguez",
+    "joe-hill",
+    "idw-publishing"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

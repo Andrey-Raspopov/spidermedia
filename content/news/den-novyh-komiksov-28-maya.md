@@ -4,6 +4,9 @@
   "url": "/news/den-novyh-komiksov-28-maya/",
   "original_url": "http://spidermedia.ru/news/den-novyh-komiksov-28-maya",
   "archived": "https://web.archive.org/web/20200127103911/http://spidermedia.ru:80/news/den-novyh-komiksov-28-maya",
+  "tags": [
+    "den-novyh-komiksov"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

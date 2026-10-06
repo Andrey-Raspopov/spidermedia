@@ -4,6 +4,10 @@
   "url": "/comics/best-column-about-comics-16-remind/",
   "original_url": "http://spidermedia.ru/comics/best-column-about-comics-16-remind",
   "archived": "https://web.archive.org/web/20251116234958/http://spidermedia.ru/comics/best-column-about-comics-16-remind",
+  "tags": [
+    "best-column-about-comics",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,13 @@
   "url": "/news/avtoritety-vozvrashchayutsya-sort/",
   "original_url": "http://spidermedia.ru/news/avtoritety-vozvrashchayutsya-sort",
   "archived": "https://web.archive.org/web/20190923060824/http://spidermedia.ru:80/news/avtoritety-vozvrashchayutsya-sort",
+  "tags": [
+    "kit-giffen",
+    "grant-morrison",
+    "avtoritety",
+    "authority",
+    "wildstorm"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

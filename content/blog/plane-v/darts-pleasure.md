@@ -4,6 +4,9 @@
   "url": "/blog/plane-v/darts-pleasure/",
   "original_url": "http://spidermedia.ru/blog/plane-v/darts-pleasure",
   "archived": "https://web.archive.org/web/20161112213604/http://spidermedia.ru:80/blog/plane-v/darts-pleasure",
+  "tags": [
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

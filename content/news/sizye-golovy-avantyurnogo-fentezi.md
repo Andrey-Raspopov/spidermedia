@@ -4,6 +4,12 @@
   "url": "/news/sizye-golovy-avantyurnogo-fentezi/",
   "original_url": "https://spidermedia.ru/news/sizye-golovy-avantyurnogo-fentezi",
   "archived": "https://web.archive.org/web/20260115061819/https://spidermedia.ru/news/sizye-golovy-avantyurnogo-fentezi",
+  "tags": [
+    "orc-stain",
+    "dzhejms-stokou",
+    "image-comics",
+    "preview"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

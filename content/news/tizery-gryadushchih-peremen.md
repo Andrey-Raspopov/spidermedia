@@ -4,6 +4,16 @@
   "url": "/news/tizery-gryadushchih-peremen/",
   "original_url": "http://spidermedia.ru/news/tizery-gryadushchih-peremen",
   "archived": "https://web.archive.org/web/20120609161829/http://spidermedia.ru/news/tizery-gryadushchih-peremen",
+  "tags": [
+    "avengers",
+    "daredevil",
+    "dr-strange",
+    "iron-man",
+    "silver-surfer",
+    "war-machine",
+    "komiksy",
+    "marvel"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

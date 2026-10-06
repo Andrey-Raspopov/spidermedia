@@ -4,6 +4,12 @@
   "url": "/comics/obzor-skazki-kniga-vtoraya-srez-lokalizacii/",
   "original_url": "http://spidermedia.ru/comics/obzor-skazki-kniga-vtoraya-srez-lokalizacii",
   "archived": "https://web.archive.org/web/20251108035728/http://spidermedia.ru/comics/obzor-skazki-kniga-vtoraya-srez-lokalizacii",
+  "tags": [
+    "fables",
+    "azbuka",
+    "zarubezhnye-komiksy-na-russkom",
+    "recenziya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

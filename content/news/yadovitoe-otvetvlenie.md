@@ -4,6 +4,10 @@
   "url": "/news/yadovitoe-otvetvlenie/",
   "original_url": "https://spidermedia.ru/news/yadovitoe-otvetvlenie",
   "archived": "https://web.archive.org/web/20241113213323/https://spidermedia.ru/news/yadovitoe-otvetvlenie",
+  "tags": [
+    "venom",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

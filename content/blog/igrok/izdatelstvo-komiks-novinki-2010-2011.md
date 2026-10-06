@@ -4,6 +4,12 @@
   "url": "/blog/igrok/izdatelstvo-komiks-novinki-2010-2011/",
   "original_url": "http://spidermedia.ru/blog/igrok/izdatelstvo-komiks-novinki-2010-2011",
   "archived": "https://web.archive.org/web/20241106092243/http://spidermedia.ru/blog/igrok/izdatelstvo-komiks-novinki-2010-2011",
+  "tags": [
+    "meri-dzhejn-vatson",
+    "izdatelstvo-komiks",
+    "zarubezhnye-komiksy-na-russkom",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

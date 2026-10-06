@@ -4,6 +4,15 @@
   "url": "/news/mysterious/",
   "original_url": "http://spidermedia.ru/news/mysterious",
   "archived": "https://web.archive.org/web/20250808202246/http://spidermedia.ru/news/mysterious",
+  "tags": [
+    "misterio",
+    "markos-martin",
+    "den-slott",
+    "art-0",
+    "mysterio",
+    "marvel",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

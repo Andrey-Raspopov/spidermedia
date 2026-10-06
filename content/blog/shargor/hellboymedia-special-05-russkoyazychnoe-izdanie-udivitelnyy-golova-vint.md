@@ -4,6 +4,11 @@
   "url": "/blog/shargor/hellboymedia-special-05-russkoyazychnoe-izdanie-udivitelnyy-golova-vint/",
   "original_url": "https://spidermedia.ru/blog/shargor/hellboymedia-special-05-russkoyazychnoe-izdanie-udivitelnyy-golova-vint",
   "archived": "https://web.archive.org/web/20251213185118/https://spidermedia.ru/blog/shargor/hellboymedia-special-05-russkoyazychnoe-izdanie-udivitelnyy-golova-vint",
+  "tags": [
+    "obzor",
+    "zarubezhnye-komiksy-na-russkom",
+    "hellboymedia"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

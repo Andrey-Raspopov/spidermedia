@@ -4,6 +4,12 @@
   "url": "/animation/disnej-gotovit-prodolzhenie-goroda-geroev/",
   "original_url": "https://spidermedia.ru/animation/disnej-gotovit-prodolzhenie-goroda-geroev",
   "archived": "https://web.archive.org/web/20260305233812/https://spidermedia.ru/animation/disnej-gotovit-prodolzhenie-goroda-geroev",
+  "tags": [
+    "disney",
+    "marvel",
+    "big-hero-6",
+    "disnej"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

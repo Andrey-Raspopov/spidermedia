@@ -4,6 +4,10 @@
   "url": "/news/rezhisser-supermena-obyavlen/",
   "original_url": "http://spidermedia.ru/news/rezhisser-supermena-obyavlen",
   "archived": "https://web.archive.org/web/20250424195315/http://spidermedia.ru/news/rezhisser-supermena-obyavlen",
+  "tags": [
+    "superman",
+    "zack-snyder"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

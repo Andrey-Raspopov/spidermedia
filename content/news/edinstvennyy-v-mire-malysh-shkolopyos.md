@@ -4,6 +4,9 @@
   "url": "/news/edinstvennyy-v-mire-malysh-shkolopyos/",
   "original_url": "http://spidermedia.ru/news/edinstvennyy-v-mire-malysh-shkolopyos",
   "archived": "https://web.archive.org/web/20260125065145/http://spidermedia.ru/news/edinstvennyy-v-mire-malysh-shkolopyos",
+  "tags": [
+    "boom-studios"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

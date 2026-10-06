@@ -4,6 +4,10 @@
   "url": "/podcast/gol-d-panels-02-redux-part-2-alabasta/",
   "original_url": "http://spidermedia.ru/podcast/gol-d-panels-02-redux-part-2-alabasta",
   "archived": "https://web.archive.org/web/20251107034347/http://spidermedia.ru/podcast/gol-d-panels-02-redux-part-2-alabasta",
+  "tags": [
+    "gold-panels",
+    "on-panels"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

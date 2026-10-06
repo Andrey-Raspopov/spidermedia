@@ -4,6 +4,12 @@
   "url": "/news/za-bogom-v-kosmos/",
   "original_url": "http://spidermedia.ru/news/za-bogom-v-kosmos",
   "archived": "https://web.archive.org/web/20210128050505/http://spidermedia.ru/news/za-bogom-v-kosmos",
+  "tags": [
+    "chris-samnee",
+    "zak-uedon",
+    "serenity",
+    "dark-horse"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

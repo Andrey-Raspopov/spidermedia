@@ -4,6 +4,14 @@
   "url": "/news/meet-my-poolmates/",
   "original_url": "https://spidermedia.ru/news/meet-my-poolmates",
   "archived": "https://web.archive.org/web/20250324060317/https://spidermedia.ru/news/meet-my-poolmates",
+  "tags": [
+    "deadpool",
+    "viktor-gishler",
+    "x-men",
+    "victor-gischler",
+    "marvel",
+    "deadpool-corps"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

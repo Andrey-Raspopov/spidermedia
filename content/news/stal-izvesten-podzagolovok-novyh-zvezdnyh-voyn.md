@@ -4,6 +4,9 @@
   "url": "/news/stal-izvesten-podzagolovok-novyh-zvezdnyh-voyn/",
   "original_url": "https://spidermedia.ru/news/stal-izvesten-podzagolovok-novyh-zvezdnyh-voyn",
   "archived": "https://web.archive.org/web/20251207012258/https://spidermedia.ru/news/stal-izvesten-podzagolovok-novyh-zvezdnyh-voyn",
+  "tags": [
+    "zvezdnye-vojny"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

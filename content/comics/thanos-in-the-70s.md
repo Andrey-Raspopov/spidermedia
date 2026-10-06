@@ -4,6 +4,14 @@
   "url": "/comics/thanos-in-the-70s/",
   "original_url": "https://spidermedia.ru/comics/thanos-in-the-70s",
   "archived": "https://web.archive.org/web/20260206222618/https://spidermedia.ru/comics/thanos-in-the-70s",
+  "tags": [
+    "old-komix",
+    "dzhim-starlin",
+    "istoriya",
+    "tanos",
+    "avengers-week",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

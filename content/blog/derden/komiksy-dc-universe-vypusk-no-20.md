@@ -4,6 +4,13 @@
   "url": "/blog/derden/komiksy-dc-universe-vypusk-no-20/",
   "original_url": "http://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-20",
   "archived": "https://web.archive.org/web/20260211181120/http://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-20",
+  "tags": [
+    "dc-comics",
+    "justice-league",
+    "chuck-austen",
+    "ron-garni",
+    "dc-universe-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/news/bubble-pobedit-v-mae/",
   "original_url": "http://spidermedia.ru/news/bubble-pobedit-v-mae",
   "archived": "https://web.archive.org/web/20250618105442/http://spidermedia.ru/news/bubble-pobedit-v-mae",
+  "tags": [
+    "russian-comics",
+    "bubble"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

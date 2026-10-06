@@ -4,6 +4,11 @@
   "url": "/news/lyudi-iks-dni-minuvshego-budushchego-novyy-tizer-i-anons-video/",
   "original_url": "https://spidermedia.ru/news/lyudi-iks-dni-minuvshego-budushchego-novyy-tizer-i-anons-video",
   "archived": "https://web.archive.org/web/20260125065206/https://spidermedia.ru/news/lyudi-iks-dni-minuvshego-budushchego-novyy-tizer-i-anons-video",
+  "tags": [
+    "x-men",
+    "days-of-future-past",
+    "lyudi-iks-pervyj-klass"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,15 @@
   "url": "/news/novyy-spawn-makfarleynu-nuzhen-dikaprio/",
   "original_url": "http://spidermedia.ru/news/novyy-spawn-makfarleynu-nuzhen-dikaprio",
   "archived": "https://web.archive.org/web/20251107004229/http://spidermedia.ru/news/novyy-spawn-makfarleynu-nuzhen-dikaprio",
+  "tags": [
+    "todd-makfarlejn",
+    "image-comics",
+    "todd-mcfarlane",
+    "leonardo-dicaprio",
+    "leonardo-dikaprio",
+    "spawn",
+    "spaun"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

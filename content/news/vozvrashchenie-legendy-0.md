@@ -4,6 +4,13 @@
   "url": "/news/vozvrashchenie-legendy-0/",
   "original_url": "http://spidermedia.ru/news/vozvrashchenie-legendy-0",
   "archived": "https://web.archive.org/web/20250519175441/http://spidermedia.ru/news/vozvrashchenie-legendy-0",
+  "tags": [
+    "nil-adams",
+    "x-men",
+    "wolverine",
+    "neal-adams",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/news/and-may-odds-be-your-favor/",
   "original_url": "https://spidermedia.ru/news/and-may-odds-be-your-favor",
   "archived": "https://web.archive.org/web/20260312004109/https://spidermedia.ru/news/and-may-odds-be-your-favor",
+  "tags": [
+    "dennis-houpless",
+    "kev-uoker",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

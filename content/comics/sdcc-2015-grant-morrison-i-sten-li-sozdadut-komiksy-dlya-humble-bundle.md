@@ -4,6 +4,11 @@
   "url": "/comics/sdcc-2015-grant-morrison-i-sten-li-sozdadut-komiksy-dlya-humble-bundle/",
   "original_url": "https://spidermedia.ru/comics/sdcc-2015-grant-morrison-i-sten-li-sozdadut-komiksy-dlya-humble-bundle",
   "archived": "https://web.archive.org/web/20250121005127/https://spidermedia.ru/comics/sdcc-2015-grant-morrison-i-sten-li-sozdadut-komiksy-dlya-humble-bundle",
+  "tags": [
+    "grant-morrison",
+    "sten-li",
+    "san-diego-comic-con-international"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

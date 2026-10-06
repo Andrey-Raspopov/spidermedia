@@ -4,6 +4,10 @@
   "url": "/animation/young-justice-returns/",
   "original_url": "http://spidermedia.ru/animation/young-justice-returns",
   "archived": "https://web.archive.org/web/20260206215703/http://spidermedia.ru/animation/young-justice-returns",
+  "tags": [
+    "dc-comics",
+    "young-justice"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

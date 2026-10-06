@@ -4,6 +4,13 @@
   "url": "/blog/silver/mak-gargan-bolshe-ne-venom/",
   "original_url": "https://spidermedia.ru/blog/silver/mak-gargan-bolshe-ne-venom",
   "archived": "https://web.archive.org/web/20250620081654/https://spidermedia.ru/blog/silver/mak-gargan-bolshe-ne-venom",
+  "tags": [
+    "skorpion",
+    "mak-gargan",
+    "venom",
+    "scorpion",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/comics/all-things-valiant-64-week-39/",
   "original_url": "http://spidermedia.ru/comics/all-things-valiant-64-week-39",
   "archived": "https://web.archive.org/web/20260308231233/http://spidermedia.ru/comics/all-things-valiant-64-week-39",
+  "tags": [
+    "valiant-entertainment"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

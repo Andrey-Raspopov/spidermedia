@@ -4,6 +4,13 @@
   "url": "/news/prevyu-thunderbolts-130/",
   "original_url": "http://spidermedia.ru/news/prevyu-thunderbolts-130",
   "archived": "https://web.archive.org/web/20251211020915/http://spidermedia.ru/news/prevyu-thunderbolts-130",
+  "tags": [
+    "endi-diggl",
+    "deadpool",
+    "thunderbolts",
+    "marvel",
+    "magnum-opus"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

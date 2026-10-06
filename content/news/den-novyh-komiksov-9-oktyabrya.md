@@ -4,6 +4,10 @@
   "url": "/news/den-novyh-komiksov-9-oktyabrya/",
   "original_url": "https://spidermedia.ru/news/den-novyh-komiksov-9-oktyabrya",
   "archived": "https://web.archive.org/web/20250807001721/https://spidermedia.ru/news/den-novyh-komiksov-9-oktyabrya",
+  "tags": [
+    "den-novyh-komiksov",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/movies/rajan-kugler-mozhet-stat-rezhisserom-chernoj-pantery/",
   "original_url": "https://spidermedia.ru/movies/rajan-kugler-mozhet-stat-rezhisserom-chernoj-pantery",
   "archived": "https://web.archive.org/web/20250519173929/https://spidermedia.ru/movies/rajan-kugler-mozhet-stat-rezhisserom-chernoj-pantery",
+  "tags": [
+    "marvel",
+    "black-panther"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

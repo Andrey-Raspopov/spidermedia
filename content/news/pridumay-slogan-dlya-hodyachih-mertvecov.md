@@ -4,6 +4,11 @@
   "url": "/news/pridumay-slogan-dlya-hodyachih-mertvecov/",
   "original_url": "http://spidermedia.ru/news/pridumay-slogan-dlya-hodyachih-mertvecov",
   "archived": "https://web.archive.org/web/20260214142147/http://spidermedia.ru/news/pridumay-slogan-dlya-hodyachih-mertvecov",
+  "tags": [
+    "hodyachie-mertvecy",
+    "izdatelstvo-42",
+    "zarubezhnye-komiksy-na-russkom"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

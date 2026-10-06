@@ -4,6 +4,9 @@
   "url": "/blog/qvall/s-nastupayushchim/",
   "original_url": "http://spidermedia.ru/blog/qvall/s-nastupayushchim",
   "archived": "https://web.archive.org/web/20120613062813/http://spidermedia.ru/blog/qvall/s-nastupayushchim",
+  "tags": [
+    "prazdnik"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

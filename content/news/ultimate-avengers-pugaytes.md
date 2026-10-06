@@ -4,6 +4,12 @@
   "url": "/news/ultimate-avengers-pugaytes/",
   "original_url": "http://spidermedia.ru/news/ultimate-avengers-pugaytes",
   "archived": "https://web.archive.org/web/20120718062947/http://spidermedia.ru/news/ultimate-avengers-pugaytes",
+  "tags": [
+    "ultimate",
+    "komiksy",
+    "marvel",
+    "mstiteli"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

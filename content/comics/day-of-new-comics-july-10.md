@@ -4,6 +4,9 @@
   "url": "/comics/day-of-new-comics-july-10/",
   "original_url": "http://spidermedia.ru/comics/day-of-new-comics-july-10",
   "archived": "https://web.archive.org/web/20250913013600/http://spidermedia.ru/comics/day-of-new-comics-july-10",
+  "tags": [
+    "den-novyh-komiksov"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

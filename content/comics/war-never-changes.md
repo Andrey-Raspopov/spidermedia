@@ -4,6 +4,11 @@
   "url": "/comics/war-never-changes/",
   "original_url": "https://spidermedia.ru/comics/war-never-changes",
   "archived": "https://web.archive.org/web/20251209134747/https://spidermedia.ru/comics/war-never-changes",
+  "tags": [
+    "marvel",
+    "dzhonatan-hikman",
+    "secret-wars"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

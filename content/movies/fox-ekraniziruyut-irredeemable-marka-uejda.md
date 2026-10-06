@@ -4,6 +4,11 @@
   "url": "/movies/fox-ekraniziruyut-irredeemable-marka-uejda/",
   "original_url": "http://spidermedia.ru/movies/fox-ekraniziruyut-irredeemable-marka-uejda",
   "archived": "https://web.archive.org/web/20260120145040/http://spidermedia.ru/movies/fox-ekraniziruyut-irredeemable-marka-uejda",
+  "tags": [
+    "boom-studios",
+    "mark-waid",
+    "piter-krauze"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

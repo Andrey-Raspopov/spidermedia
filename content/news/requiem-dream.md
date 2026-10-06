@@ -4,6 +4,14 @@
   "url": "/news/requiem-dream/",
   "original_url": "http://spidermedia.ru/news/requiem-dream",
   "archived": "https://web.archive.org/web/20251018220746/http://spidermedia.ru/news/requiem-dream",
+  "tags": [
+    "iron-man",
+    "war-machine",
+    "matt-fraction",
+    "shon-chen",
+    "marvel",
+    "preview"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

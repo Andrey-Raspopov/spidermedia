@@ -4,6 +4,14 @@
   "url": "/comics/current-spider-man-comics-review/",
   "original_url": "http://spidermedia.ru/comics/current-spider-man-comics-review",
   "archived": "https://web.archive.org/web/20251013183813/http://spidermedia.ru/comics/current-spider-man-comics-review",
+  "tags": [
+    "marvel",
+    "adam-kubert",
+    "den-slott",
+    "styuart-immonen",
+    "spider-man",
+    "chip-zdarski"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/news/kasting-lyudi-iks-pervyy-klass/",
   "original_url": "http://spidermedia.ru/news/kasting-lyudi-iks-pervyy-klass",
   "archived": "https://web.archive.org/web/20260312014247/http://spidermedia.ru/news/kasting-lyudi-iks-pervyy-klass",
+  "tags": [
+    "lyudi-iks-pervyj-klass",
+    "x-men-first-class",
+    "x-men"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

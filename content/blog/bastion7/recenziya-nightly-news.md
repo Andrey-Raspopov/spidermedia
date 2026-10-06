@@ -4,6 +4,11 @@
   "url": "/blog/bastion7/recenziya-nightly-news/",
   "original_url": "http://spidermedia.ru/blog/bastion7/recenziya-nightly-news",
   "archived": "https://web.archive.org/web/20190731040707/http://spidermedia.ru:80/blog/bastion7/recenziya-nightly-news",
+  "tags": [
+    "recenziya",
+    "image-comics",
+    "dzhonatan-hikman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

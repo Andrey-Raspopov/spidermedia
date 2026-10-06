@@ -4,6 +4,14 @@
   "url": "/news/marvel-cosmos-mart-aprel-2010/",
   "original_url": "http://spidermedia.ru/news/marvel-cosmos-mart-aprel-2010",
   "archived": "https://web.archive.org/web/20250913015200/http://spidermedia.ru/news/marvel-cosmos-mart-aprel-2010",
+  "tags": [
+    "nova",
+    "nelyudi",
+    "realm-of-kings",
+    "marvel",
+    "inhumans",
+    "guardians-of-the-galaxy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

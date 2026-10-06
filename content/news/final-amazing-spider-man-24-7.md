@@ -4,6 +4,13 @@
   "url": "/news/final-amazing-spider-man-24-7/",
   "original_url": "http://spidermedia.ru/news/final-amazing-spider-man-24-7",
   "archived": "https://web.archive.org/web/20120607121507/http://spidermedia.ru/news/final-amazing-spider-man-24-7",
+  "tags": [
+    "brand-new-day",
+    "spider-man",
+    "vulture",
+    "stervyatnik",
+    "chelovek-pauk"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

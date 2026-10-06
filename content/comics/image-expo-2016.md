@@ -4,6 +4,10 @@
   "url": "/comics/image-expo-2016/",
   "original_url": "https://spidermedia.ru/comics/image-expo-2016",
   "archived": "https://web.archive.org/web/20251108031659/https://spidermedia.ru/comics/image-expo-2016",
+  "tags": [
+    "image-comics",
+    "image-expo"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

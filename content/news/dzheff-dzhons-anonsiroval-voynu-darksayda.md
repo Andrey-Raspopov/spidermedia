@@ -4,6 +4,11 @@
   "url": "/news/dzheff-dzhons-anonsiroval-voynu-darksayda/",
   "original_url": "http://spidermedia.ru/news/dzheff-dzhons-anonsiroval-voynu-darksayda",
   "archived": "https://web.archive.org/web/20251206161747/http://spidermedia.ru/news/dzheff-dzhons-anonsiroval-voynu-darksayda",
+  "tags": [
+    "dc-comics",
+    "darksajd",
+    "justice-league"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

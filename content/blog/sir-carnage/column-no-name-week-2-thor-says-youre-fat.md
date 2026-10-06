@@ -4,6 +4,20 @@
   "url": "/blog/sir-carnage/column-no-name-week-2-thor-says-youre-fat/",
   "original_url": "http://spidermedia.ru/blog/sir-carnage/column-no-name-week-2-thor-says-youre-fat",
   "archived": "https://web.archive.org/web/20251107004056/http://spidermedia.ru/blog/sir-carnage/column-no-name-week-2-thor-says-youre-fat",
+  "tags": [
+    "neil-gaiman",
+    "mnenie",
+    "thor",
+    "marvel",
+    "loki",
+    "invaders",
+    "hellcat",
+    "fables",
+    "dc-comics",
+    "batman",
+    "avengers",
+    "the-column-with-no-name"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

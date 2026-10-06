@@ -4,6 +4,11 @@
   "url": "/comics/roskomnadzor-oxota/",
   "original_url": "https://spidermedia.ru/comics/roskomnadzor-oxota",
   "archived": "https://web.archive.org/web/20251018232316/https://spidermedia.ru/comics/roskomnadzor-oxota",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "roskomnadzor",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,13 @@
   "url": "/news/house-u/",
   "original_url": "http://spidermedia.ru/news/house-u",
   "archived": "https://web.archive.org/web/20200219114841/http://spidermedia.ru:80/news/house-u",
+  "tags": [
+    "karlos-pacheko",
+    "brendon-peterson",
+    "bryan-hitch",
+    "brian-michael-bendis",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

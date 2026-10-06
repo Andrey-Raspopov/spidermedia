@@ -4,11 +4,29 @@
   "url": "/news/mzhdz-i-snova-zdravstvuyte/",
   "original_url": "https://spidermedia.ru/news/mzhdz-i-snova-zdravstvuyte",
   "archived": "https://web.archive.org/web/20260208193906/https://spidermedia.ru/news/mzhdz-i-snova-zdravstvuyte",
+  "tags": [
+    "mnenie",
+    "mzhdz",
+    "marvel",
+    "avengers",
+    "x-men",
+    "wolverine",
+    "iron-man",
+    "dardevil",
+    "daredevil",
+    "brian-michael-bendis",
+    "dzheyson-aaron",
+    "jason-aaron",
+    "majk-ollred",
+    "image-comics",
+    "grant-morrison",
+    "matt-fraction"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](https://web.archive.org/web/20260208193906im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz.png)](https://web.archive.org/web/20260206215846/http://spidermedia.ru/tags/mzhdz)
+[![](https://web.archive.org/web/20260208193906im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz.png)](../../tags/mzhdz/)
 ![](https://web.archive.org/web/20260208193906im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/keepup.jpg)
 **Еженедельные обзоры новых комиксов!**
 Привет, как дела? У нас очень даже хорошо! Несмотря на последние непонятные бурления, МЖДЗ собирается продолжать работу в новом-старом-в-принципе-знакомом составе. Вам нравится МЖДЗ? У нас есть МЖДЗ, и с этого момента снова будет каждую неделю. Мусор, жижа, добро, золото, кожгалантерея, хинкали, хаш каждый день.

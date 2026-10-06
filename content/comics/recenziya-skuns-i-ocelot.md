@@ -4,6 +4,10 @@
   "url": "/comics/recenziya-skuns-i-ocelot/",
   "original_url": "https://spidermedia.ru/comics/recenziya-skuns-i-ocelot",
   "archived": "https://web.archive.org/web/20250429003959/https://spidermedia.ru/comics/recenziya-skuns-i-ocelot",
+  "tags": [
+    "istari-komiks",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

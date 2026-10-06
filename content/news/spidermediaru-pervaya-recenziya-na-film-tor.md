@@ -4,6 +4,11 @@
   "url": "/news/spidermediaru-pervaya-recenziya-na-film-tor/",
   "original_url": "https://spidermedia.ru/news/spidermediaru-pervaya-recenziya-na-film-tor",
   "archived": "https://web.archive.org/web/20250518132648/https://spidermedia.ru/news/spidermediaru-pervaya-recenziya-na-film-tor",
+  "tags": [
+    "recenziya",
+    "thor",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

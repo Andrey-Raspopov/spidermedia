@@ -4,6 +4,14 @@
   "url": "/news/marvel-studios-kadry-iz-filma-tor-sdcc10-i-3d/",
   "original_url": "http://spidermedia.ru/news/marvel-studios-kadry-iz-filma-tor-sdcc10-i-3d",
   "archived": "https://web.archive.org/web/20250808201121/http://spidermedia.ru/news/marvel-studios-kadry-iz-filma-tor-sdcc10-i-3d",
+  "tags": [
+    "entoni-hopkins",
+    "odin",
+    "loki",
+    "san-diego-comic-con-international",
+    "thor",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

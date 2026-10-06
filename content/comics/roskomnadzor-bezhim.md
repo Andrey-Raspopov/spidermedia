@@ -4,6 +4,11 @@
   "url": "/comics/roskomnadzor-bezhim/",
   "original_url": "http://spidermedia.ru/comics/roskomnadzor-bezhim",
   "archived": "https://web.archive.org/web/20250518130205/http://spidermedia.ru/comics/roskomnadzor-bezhim",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "roskomnadzor",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

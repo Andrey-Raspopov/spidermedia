@@ -4,6 +4,11 @@
   "url": "/blog/drgonzobear/panteon-miscreant-daty-vyhoda/",
   "original_url": "http://spidermedia.ru/blog/drgonzobear/panteon-miscreant-daty-vyhoda",
   "archived": "https://web.archive.org/web/20210118133305/http://spidermedia.ru/blog/drgonzobear/panteon-miscreant-daty-vyhoda",
+  "tags": [
+    "stimpank",
+    "russian-comics",
+    "miscreant"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

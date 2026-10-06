@@ -4,6 +4,12 @@
   "url": "/blog/igrok/hrabryy-dzhoker/",
   "original_url": "http://spidermedia.ru/blog/igrok/hrabryy-dzhoker",
   "archived": "https://web.archive.org/web/20251216172616/http://spidermedia.ru/blog/igrok/hrabryy-dzhoker",
+  "tags": [
+    "figurki",
+    "batman",
+    "joker",
+    "toy-fair-2009"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

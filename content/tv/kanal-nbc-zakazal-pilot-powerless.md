@@ -4,6 +4,9 @@
   "url": "/tv/kanal-nbc-zakazal-pilot-powerless/",
   "original_url": "https://spidermedia.ru/tv/kanal-nbc-zakazal-pilot-powerless",
   "archived": "https://web.archive.org/web/20251107030053/https://spidermedia.ru/tv/kanal-nbc-zakazal-pilot-powerless",
+  "tags": [
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

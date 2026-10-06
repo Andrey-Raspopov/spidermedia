@@ -4,6 +4,12 @@
   "url": "/news/mstyashchiy-rycar/",
   "original_url": "http://spidermedia.ru/news/mstyashchiy-rycar",
   "archived": "https://web.archive.org/web/20260125124632/http://spidermedia.ru/news/mstyashchiy-rycar",
+  "tags": [
+    "temnyj-rycar",
+    "dc-comics",
+    "dark-knight-rises",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/blog/redson/den-novyh-komiksov-23-iyulya-0/",
   "original_url": "http://spidermedia.ru/blog/redson/den-novyh-komiksov-23-iyulya-0",
   "archived": "https://web.archive.org/web/20200218015251/http://spidermedia.ru:80/blog/redson/den-novyh-komiksov-23-iyulya-0",
+  "tags": [
+    "den-novyh-komiksov"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

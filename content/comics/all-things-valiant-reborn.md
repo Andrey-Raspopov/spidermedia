@@ -4,6 +4,10 @@
   "url": "/comics/all-things-valiant-reborn/",
   "original_url": "https://spidermedia.ru/comics/all-things-valiant-reborn",
   "archived": "https://web.archive.org/web/20260125060709/https://spidermedia.ru/comics/all-things-valiant-reborn",
+  "tags": [
+    "valiant-entertainment",
+    "dorogaya-redakciya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

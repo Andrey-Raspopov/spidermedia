@@ -4,6 +4,14 @@
   "url": "/news/novye-mutanty-kratko/",
   "original_url": "http://spidermedia.ru/news/novye-mutanty-kratko",
   "archived": "https://web.archive.org/web/20120608051801/http://spidermedia.ru/news/novye-mutanty-kratko",
+  "tags": [
+    "new-mutants",
+    "x-universe",
+    "komiksy",
+    "lyudi-iks",
+    "marvel",
+    "novye-mutanty"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

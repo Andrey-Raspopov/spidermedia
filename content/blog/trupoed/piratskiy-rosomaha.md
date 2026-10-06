@@ -4,6 +4,11 @@
   "url": "/blog/trupoed/piratskiy-rosomaha/",
   "original_url": "http://spidermedia.ru/blog/trupoed/piratskiy-rosomaha",
   "archived": "https://web.archive.org/web/20170512151509/http://spidermedia.ru:80/blog/trupoed/piratskiy-rosomaha",
+  "tags": [
+    "x-men",
+    "wolverine",
+    "recenziya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

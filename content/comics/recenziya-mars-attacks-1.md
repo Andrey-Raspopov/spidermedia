@@ -4,6 +4,9 @@
   "url": "/comics/recenziya-mars-attacks-1/",
   "original_url": "http://spidermedia.ru/comics/recenziya-mars-attacks-1",
   "archived": "https://web.archive.org/web/20250324071326/http://spidermedia.ru/comics/recenziya-mars-attacks-1",
+  "tags": [
+    "dynamite-entertainment"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

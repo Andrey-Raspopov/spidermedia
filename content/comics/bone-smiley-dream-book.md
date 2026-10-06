@@ -4,6 +4,11 @@
   "url": "/comics/bone-smiley-dream-book/",
   "original_url": "http://spidermedia.ru/comics/bone-smiley-dream-book",
   "archived": "https://web.archive.org/web/20170823205726/http://spidermedia.ru:80/comics/bone-smiley-dream-book",
+  "tags": [
+    "bone",
+    "jeff-smith",
+    "dzhef-smit"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

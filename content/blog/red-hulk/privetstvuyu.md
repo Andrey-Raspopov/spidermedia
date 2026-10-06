@@ -4,6 +4,9 @@
   "url": "/blog/red-hulk/privetstvuyu/",
   "original_url": "http://spidermedia.ru/blog/red-hulk/privetstvuyu",
   "archived": "https://web.archive.org/web/20120608195144/http://spidermedia.ru/blog/red-hulk/privetstvuyu",
+  "tags": [
+    "vstuplenie"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,13 @@
   "url": "/news/kosmos-opasnoe-mesto/",
   "original_url": "http://spidermedia.ru/news/kosmos-opasnoe-mesto",
   "archived": "https://web.archive.org/web/20241102083131/http://spidermedia.ru/news/kosmos-opasnoe-mesto",
+  "tags": [
+    "starhouk",
+    "nova",
+    "starhawk",
+    "marvel",
+    "guardians-of-the-galaxy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

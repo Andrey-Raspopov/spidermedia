@@ -4,6 +4,10 @@
   "url": "/news/papa-fonarya/",
   "original_url": "http://spidermedia.ru/news/papa-fonarya",
   "archived": "https://web.archive.org/web/20190724135502/http://spidermedia.ru:80/news/papa-fonarya",
+  "tags": [
+    "art-0",
+    "green-lantern"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

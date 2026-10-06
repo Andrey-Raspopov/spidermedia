@@ -4,6 +4,16 @@
   "url": "/news/shadowland-one-shots/",
   "original_url": "https://spidermedia.ru/news/shadowland-one-shots",
   "archived": "https://web.archive.org/web/20260214133659/https://spidermedia.ru/news/shadowland-one-shots",
+  "tags": [
+    "shang-chi",
+    "shadowland",
+    "marvel",
+    "prizrachnyj-gonshhik",
+    "elektra",
+    "bullseye",
+    "spider-man",
+    "daredevil"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

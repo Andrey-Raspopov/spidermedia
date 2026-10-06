@@ -4,6 +4,14 @@
   "url": "/news/do-chego-progress-doshel/",
   "original_url": "http://spidermedia.ru/news/do-chego-progress-doshel",
   "archived": "https://web.archive.org/web/20120608222153/http://spidermedia.ru/news/do-chego-progress-doshel",
+  "tags": [
+    "punisher",
+    "art-0",
+    "karatel",
+    "komiksy",
+    "rik-remender",
+    "toni-mur"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

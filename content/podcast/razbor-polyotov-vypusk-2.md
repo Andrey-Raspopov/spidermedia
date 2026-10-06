@@ -4,6 +4,9 @@
   "url": "/podcast/razbor-polyotov-vypusk-2/",
   "original_url": "http://spidermedia.ru/podcast/razbor-polyotov-vypusk-2",
   "archived": "https://web.archive.org/web/20250422024623/http://spidermedia.ru/podcast/razbor-polyotov-vypusk-2",
+  "tags": [
+    "spidercast"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,16 @@
   "url": "/news/its-not-easy-being-green/",
   "original_url": "http://spidermedia.ru/news/its-not-easy-being-green",
   "archived": "https://web.archive.org/web/20150501125522/http://spidermedia.ru/news/its-not-easy-being-green",
+  "tags": [
+    "enn-nosenti",
+    "endryu-krajsberg",
+    "pit-vuds",
+    "dzheff-lemir",
+    "andrea-sorrentino",
+    "aleks-sanchez",
+    "zelyonaya-strela",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,13 @@
   "url": "/blog/el-qwanto/novyy-art-novyh-altimeyts/",
   "original_url": "https://spidermedia.ru/blog/el-qwanto/novyy-art-novyh-altimeyts",
   "archived": "https://web.archive.org/web/20260120162305/https://spidermedia.ru/blog/el-qwanto/novyy-art-novyh-altimeyts",
+  "tags": [
+    "frenk-cho",
+    "art-0",
+    "ultimate",
+    "ultimates",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

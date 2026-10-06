@@ -4,6 +4,13 @@
   "url": "/news/prevyu-mighty-avengers-24/",
   "original_url": "http://spidermedia.ru/news/prevyu-mighty-avengers-24",
   "archived": "https://web.archive.org/web/20190820213325/http://spidermedia.ru:80/news/prevyu-mighty-avengers-24",
+  "tags": [
+    "marvel",
+    "preview",
+    "den-slott",
+    "mighty-avengers",
+    "rafa-sendoval"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

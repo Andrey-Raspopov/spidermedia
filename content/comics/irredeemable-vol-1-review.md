@@ -4,6 +4,10 @@
   "url": "/comics/irredeemable-vol-1-review/",
   "original_url": "https://spidermedia.ru/comics/irredeemable-vol-1-review",
   "archived": "https://web.archive.org/web/20251216123054/https://spidermedia.ru/comics/irredeemable-vol-1-review",
+  "tags": [
+    "fanzon",
+    "mark-waid"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

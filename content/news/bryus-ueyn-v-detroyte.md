@@ -4,6 +4,10 @@
   "url": "/news/bryus-ueyn-v-detroyte/",
   "original_url": "https://spidermedia.ru/news/bryus-ueyn-v-detroyte",
   "archived": "https://web.archive.org/web/20251216190134/https://spidermedia.ru/news/bryus-ueyn-v-detroyte",
+  "tags": [
+    "dc-comics",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

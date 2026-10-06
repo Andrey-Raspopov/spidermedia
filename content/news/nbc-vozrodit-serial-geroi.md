@@ -4,6 +4,10 @@
   "url": "/news/nbc-vozrodit-serial-geroi/",
   "original_url": "https://spidermedia.ru/news/nbc-vozrodit-serial-geroi",
   "archived": "https://web.archive.org/web/20260125122033/https://spidermedia.ru/news/nbc-vozrodit-serial-geroi",
+  "tags": [
+    "serialy",
+    "geroi"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

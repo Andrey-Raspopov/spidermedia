@@ -4,6 +4,10 @@
   "url": "/news/hellboymedia-hellboy-and-bprd-100-project/",
   "original_url": "http://spidermedia.ru/news/hellboymedia-hellboy-and-bprd-100-project",
   "archived": "https://web.archive.org/web/20260309183457/http://spidermedia.ru/news/hellboymedia-hellboy-and-bprd-100-project",
+  "tags": [
+    "hellboymedia",
+    "novosti"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

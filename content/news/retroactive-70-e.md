@@ -4,6 +4,12 @@
   "url": "/news/retroactive-70-e/",
   "original_url": "http://spidermedia.ru/news/retroactive-70-e",
   "archived": "https://web.archive.org/web/20120610090850/http://spidermedia.ru/news/retroactive-70-e",
+  "tags": [
+    "dc-comics",
+    "retro-active",
+    "anonsy",
+    "komiksy"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/news/potomu-potomu-chto-my-agenty/",
   "original_url": "http://spidermedia.ru/news/potomu-potomu-chto-my-agenty",
   "archived": "https://web.archive.org/web/20250424093749/http://spidermedia.ru/news/potomu-potomu-chto-my-agenty",
+  "tags": [
+    "marvel",
+    "s.h.i.e.l.d"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

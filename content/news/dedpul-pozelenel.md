@@ -4,6 +4,9 @@
   "url": "/news/dedpul-pozelenel/",
   "original_url": "http://spidermedia.ru/news/dedpul-pozelenel",
   "archived": "https://web.archive.org/web/20241110024504/http://spidermedia.ru/news/dedpul-pozelenel",
+  "tags": [
+    "green-lantern"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

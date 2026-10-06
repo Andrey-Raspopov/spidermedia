@@ -4,6 +4,13 @@
   "url": "/blog/redson/eshche-odno-vazhnoe-zamechanie-ob-ekranizacii-watchmen/",
   "original_url": "http://spidermedia.ru/blog/redson/eshche-odno-vazhnoe-zamechanie-ob-ekranizacii-watchmen",
   "archived": "https://web.archive.org/web/20120608172319/http://spidermedia.ru/blog/redson/eshche-odno-vazhnoe-zamechanie-ob-ekranizacii-watchmen",
+  "tags": [
+    "watchmen",
+    "alan-moore",
+    "zak-snayder",
+    "kino",
+    "komiksy"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

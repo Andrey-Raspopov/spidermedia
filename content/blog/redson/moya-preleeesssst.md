@@ -4,6 +4,11 @@
   "url": "/blog/redson/moya-preleeesssst/",
   "original_url": "https://spidermedia.ru/blog/redson/moya-preleeesssst",
   "archived": "https://web.archive.org/web/20250429004714/https://spidermedia.ru/blog/redson/moya-preleeesssst",
+  "tags": [
+    "figurki",
+    "anime",
+    "lucky-star"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/news/supergod-will-save-you-not/",
   "original_url": "https://spidermedia.ru/news/supergod-will-save-you-not",
   "archived": "https://web.archive.org/web/20260313102907/https://spidermedia.ru/news/supergod-will-save-you-not",
+  "tags": [
+    "warren-ellis",
+    "superbog",
+    "supergod",
+    "avatar-press"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

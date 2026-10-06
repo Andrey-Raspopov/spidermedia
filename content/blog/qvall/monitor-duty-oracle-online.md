@@ -4,6 +4,9 @@
   "url": "/blog/qvall/monitor-duty-oracle-online/",
   "original_url": "http://spidermedia.ru/blog/qvall/monitor-duty-oracle-online",
   "archived": "https://web.archive.org/web/20120608195446/http://spidermedia.ru/blog/qvall/monitor-duty-oracle-online",
+  "tags": [
+    "vstuplenie"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/tv/supergirl-pilot-review/",
   "original_url": "https://spidermedia.ru/tv/supergirl-pilot-review",
   "archived": "https://web.archive.org/web/20251208073735/https://spidermedia.ru/tv/supergirl-pilot-review",
+  "tags": [
+    "dc-comics",
+    "supergirl"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

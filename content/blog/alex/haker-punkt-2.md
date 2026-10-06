@@ -4,6 +4,9 @@
   "url": "/blog/alex/haker-punkt-2/",
   "original_url": "http://spidermedia.ru/blog/alex/haker-punkt-2",
   "archived": "https://web.archive.org/web/20240416053304/http://spidermedia.ru/blog/alex/haker-punkt-2",
+  "tags": [
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

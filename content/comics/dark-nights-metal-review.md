@@ -4,6 +4,12 @@
   "url": "/comics/dark-nights-metal-review/",
   "original_url": "https://spidermedia.ru/comics/dark-nights-metal-review",
   "archived": "https://web.archive.org/web/20260309181157/https://spidermedia.ru/comics/dark-nights-metal-review",
+  "tags": [
+    "dc-comics",
+    "batman",
+    "greg-capullo",
+    "skott-snajder"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

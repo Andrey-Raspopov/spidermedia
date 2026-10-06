@@ -4,11 +4,14 @@
   "url": "/comics/hellboymedia-solicitations-march-2016/",
   "original_url": "https://spidermedia.ru/comics/hellboymedia-solicitations-march-2016",
   "archived": "https://web.archive.org/web/20251209132816/https://spidermedia.ru/comics/hellboymedia-solicitations-march-2016",
+  "tags": [
+    "hellboymedia"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-Давайте отвлечёмся буквально на денёк от [нашего спецпроекта](https://web.archive.org/web/20260306001508/http://spidermedia.ru/tags/mike-mignola-russia) и расскажем, что ждёт Миньолавёрс в первый месяц весны. А ждёт нас достаточно стандартный для последних месяцев набор серий (**B.P.R.D. Hell on Earth**, **Hellboy and the B.P.R.D.** да **Joe Golem, Occult Detective**) + новый уан-шот про главного любимчика франчайза — Лобстера Джонсона. Также расскажем про первое за несколько последних лет участие Майка в **Free Comic Book Day** (правда, уже в мае).
+Давайте отвлечёмся буквально на денёк от [нашего спецпроекта](../../tags/mike-mignola-russia/) и расскажем, что ждёт Миньолавёрс в первый месяц весны. А ждёт нас достаточно стандартный для последних месяцев набор серий (**B.P.R.D. Hell on Earth**, **Hellboy and the B.P.R.D.** да **Joe Golem, Occult Detective**) + новый уан-шот про главного любимчика франчайза — Лобстера Джонсона. Также расскажем про первое за несколько последних лет участие Майка в **Free Comic Book Day** (правда, уже в мае).
 
 Ах да, ещё ищите в конце выпуска новый крайне любопытный анонс. Всё, как всегда, сопровождается моими комментариями. Поехали.
 

@@ -4,6 +4,12 @@
   "url": "/comics/anonsy-marvel-final-beskonechnosti-peresmeshnica-lyudi-iks-92/",
   "original_url": "https://spidermedia.ru/comics/anonsy-marvel-final-beskonechnosti-peresmeshnica-lyudi-iks-92",
   "archived": "https://web.archive.org/web/20251112165927/https://spidermedia.ru/comics/anonsy-marvel-final-beskonechnosti-peresmeshnica-lyudi-iks-92",
+  "tags": [
+    "marvel",
+    "alan-devis",
+    "dzhim-starlin",
+    "peresmeshnica"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/movies/guardians-of-the-galaxy-volume-2-cast/",
   "original_url": "http://spidermedia.ru/movies/guardians-of-the-galaxy-volume-2-cast",
   "archived": "https://web.archive.org/web/20230607025534/http://spidermedia.ru/movies/guardians-of-the-galaxy-volume-2-cast",
+  "tags": [
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

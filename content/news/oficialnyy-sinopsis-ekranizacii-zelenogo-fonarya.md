@@ -4,6 +4,9 @@
   "url": "/news/oficialnyy-sinopsis-ekranizacii-zelenogo-fonarya/",
   "original_url": "http://spidermedia.ru/news/oficialnyy-sinopsis-ekranizacii-zelenogo-fonarya",
   "archived": "https://web.archive.org/web/20251006013852/http://spidermedia.ru/news/oficialnyy-sinopsis-ekranizacii-zelenogo-fonarya",
+  "tags": [
+    "green-lantern"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

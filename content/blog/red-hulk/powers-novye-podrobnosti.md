@@ -4,6 +4,12 @@
   "url": "/blog/red-hulk/powers-novye-podrobnosti/",
   "original_url": "http://spidermedia.ru/blog/red-hulk/powers-novye-podrobnosti",
   "archived": "https://web.archive.org/web/20260314083355/http://spidermedia.ru/blog/red-hulk/powers-novye-podrobnosti",
+  "tags": [
+    "serialy",
+    "powers",
+    "brian-michael-bendis",
+    "icon-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

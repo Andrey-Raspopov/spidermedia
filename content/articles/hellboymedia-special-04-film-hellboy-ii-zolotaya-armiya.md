@@ -4,6 +4,10 @@
   "url": "/articles/hellboymedia-special-04-film-hellboy-ii-zolotaya-armiya/",
   "original_url": "http://spidermedia.ru/articles/hellboymedia-special-04-film-hellboy-ii-zolotaya-armiya",
   "archived": "https://web.archive.org/web/20260117225326/http://spidermedia.ru/articles/hellboymedia-special-04-film-hellboy-ii-zolotaya-armiya",
+  "tags": [
+    "recenziya",
+    "hellboymedia"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

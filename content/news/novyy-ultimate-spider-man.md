@@ -4,6 +4,12 @@
   "url": "/news/novyy-ultimate-spider-man/",
   "original_url": "http://spidermedia.ru/news/novyy-ultimate-spider-man",
   "archived": "https://web.archive.org/web/20260116215912/http://spidermedia.ru/news/novyy-ultimate-spider-man",
+  "tags": [
+    "spider-man",
+    "art-0",
+    "ultimate",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

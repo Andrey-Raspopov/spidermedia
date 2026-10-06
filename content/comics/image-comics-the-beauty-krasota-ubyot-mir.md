@@ -4,6 +4,9 @@
   "url": "/comics/image-comics-the-beauty-krasota-ubyot-mir/",
   "original_url": "http://spidermedia.ru/comics/image-comics-the-beauty-krasota-ubyot-mir",
   "archived": "https://web.archive.org/web/20251110232201/http://spidermedia.ru/comics/image-comics-the-beauty-krasota-ubyot-mir",
+  "tags": [
+    "image-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

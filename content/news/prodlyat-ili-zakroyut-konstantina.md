@@ -4,6 +4,12 @@
   "url": "/news/prodlyat-ili-zakroyut-konstantina/",
   "original_url": "http://spidermedia.ru/news/prodlyat-ili-zakroyut-konstantina",
   "archived": "https://web.archive.org/web/20251115024941/http://spidermedia.ru/news/prodlyat-ili-zakroyut-konstantina",
+  "tags": [
+    "serialy",
+    "dzhon-konstantin",
+    "vertigo",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

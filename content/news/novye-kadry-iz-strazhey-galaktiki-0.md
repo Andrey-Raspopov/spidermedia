@@ -4,6 +4,10 @@
   "url": "/news/novye-kadry-iz-strazhey-galaktiki-0/",
   "original_url": "https://spidermedia.ru/news/novye-kadry-iz-strazhey-galaktiki-0",
   "archived": "https://web.archive.org/web/20250113174221/https://spidermedia.ru/news/novye-kadry-iz-strazhey-galaktiki-0",
+  "tags": [
+    "guardians-of-the-galaxy",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

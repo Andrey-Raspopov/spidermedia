@@ -4,6 +4,13 @@
   "url": "/news/nuarnyy-variant/",
   "original_url": "http://spidermedia.ru/news/nuarnyy-variant",
   "archived": "https://web.archive.org/web/20200217104510/http://spidermedia.ru:80/news/nuarnyy-variant",
+  "tags": [
+    "dennis-kalero",
+    "art-0",
+    "noirverse",
+    "marvel",
+    "daredevil"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

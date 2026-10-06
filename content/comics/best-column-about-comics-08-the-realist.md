@@ -4,6 +4,10 @@
   "url": "/comics/best-column-about-comics-08-the-realist/",
   "original_url": "http://spidermedia.ru/comics/best-column-about-comics-08-the-realist",
   "archived": "https://web.archive.org/web/20251205123729/http://spidermedia.ru/comics/best-column-about-comics-08-the-realist",
+  "tags": [
+    "best-column-about-comics",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

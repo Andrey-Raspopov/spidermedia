@@ -4,6 +4,9 @@
   "url": "/blog/plane-v/what-it-exactly-you-have-created/",
   "original_url": "http://spidermedia.ru/blog/plane-v/what-it-exactly-you-have-created",
   "archived": "https://web.archive.org/web/20161112212843/http://spidermedia.ru:80/blog/plane-v/what-it-exactly-you-have-created",
+  "tags": [
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

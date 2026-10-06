@@ -4,6 +4,13 @@
   "url": "/news/tainstvennye-i-misticheskie/",
   "original_url": "https://spidermedia.ru/news/tainstvennye-i-misticheskie",
   "archived": "https://web.archive.org/web/20250217063609/https://spidermedia.ru/news/tainstvennye-i-misticheskie",
+  "tags": [
+    "devid-liss",
+    "patrik-zircher",
+    "art-0",
+    "marvel",
+    "mystery-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

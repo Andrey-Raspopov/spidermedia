@@ -4,6 +4,12 @@
   "url": "/news/sdcc10-young-justice/",
   "original_url": "http://spidermedia.ru/news/sdcc10-young-justice",
   "archived": "https://web.archive.org/web/20250806052657/http://spidermedia.ru/news/sdcc10-young-justice",
+  "tags": [
+    "animaciya",
+    "san-diego-comic-con-international",
+    "young-justice",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

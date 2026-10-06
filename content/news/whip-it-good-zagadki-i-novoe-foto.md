@@ -4,6 +4,18 @@
   "url": "/news/whip-it-good-zagadki-i-novoe-foto/",
   "original_url": "http://spidermedia.ru/news/whip-it-good-zagadki-i-novoe-foto",
   "archived": "https://web.archive.org/web/20120608214629/http://spidermedia.ru/news/whip-it-good-zagadki-i-novoe-foto",
+  "tags": [
+    "iron-man",
+    "iron-man-2",
+    "video",
+    "dzhon-favro",
+    "zheleznyy-chelovek",
+    "zheleznyy-chelovek-2",
+    "kino",
+    "knut",
+    "komiksy",
+    "marvel"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

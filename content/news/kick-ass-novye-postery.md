@@ -4,6 +4,13 @@
   "url": "/news/kick-ass-novye-postery/",
   "original_url": "http://spidermedia.ru/news/kick-ass-novye-postery",
   "archived": "https://web.archive.org/web/20120608140734/http://spidermedia.ru/news/kick-ass-novye-postery",
+  "tags": [
+    "kick-ass",
+    "kino",
+    "mark-millar",
+    "mettyu-von",
+    "postery"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

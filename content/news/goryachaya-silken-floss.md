@@ -4,6 +4,12 @@
   "url": "/news/goryachaya-silken-floss/",
   "original_url": "http://spidermedia.ru/news/goryachaya-silken-floss",
   "archived": "https://web.archive.org/web/20250422023855/http://spidermedia.ru/news/goryachaya-silken-floss",
+  "tags": [
+    "frenk-miller",
+    "figurki",
+    "spirit",
+    "hot-toys"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

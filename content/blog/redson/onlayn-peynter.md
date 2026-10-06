@@ -4,6 +4,10 @@
   "url": "/blog/redson/onlayn-peynter/",
   "original_url": "http://spidermedia.ru/blog/redson/onlayn-peynter",
   "archived": "https://web.archive.org/web/20160806184429/http://spidermedia.ru/blog/redson/onlayn-peynter",
+  "tags": [
+    "internety",
+    "kartinki"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

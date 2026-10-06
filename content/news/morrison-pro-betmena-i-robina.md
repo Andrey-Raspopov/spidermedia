@@ -4,6 +4,20 @@
   "url": "/news/morrison-pro-betmena-i-robina/",
   "original_url": "http://spidermedia.ru/news/morrison-pro-betmena-i-robina",
   "archived": "https://web.archive.org/web/20251216105717/http://spidermedia.ru/news/morrison-pro-betmena-i-robina",
+  "tags": [
+    "frenk-kuajtli",
+    "robin",
+    "krasnyj-robin",
+    "intervyu",
+    "grant-morrison",
+    "betvuman",
+    "red-robin",
+    "j.-g.-jones",
+    "frank-quitely",
+    "detective-comics",
+    "dc-comics",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

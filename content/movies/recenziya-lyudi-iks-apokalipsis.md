@@ -4,6 +4,11 @@
   "url": "/movies/recenziya-lyudi-iks-apokalipsis/",
   "original_url": "http://spidermedia.ru/movies/recenziya-lyudi-iks-apokalipsis",
   "archived": "https://web.archive.org/web/20260306001636/http://spidermedia.ru/movies/recenziya-lyudi-iks-apokalipsis",
+  "tags": [
+    "marvel",
+    "apokalipsis",
+    "x-men"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

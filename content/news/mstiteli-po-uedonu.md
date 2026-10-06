@@ -4,6 +4,10 @@
   "url": "/news/mstiteli-po-uedonu/",
   "original_url": "https://spidermedia.ru/news/mstiteli-po-uedonu",
   "archived": "https://web.archive.org/web/20250807005918/https://spidermedia.ru/news/mstiteli-po-uedonu",
+  "tags": [
+    "joss-whedon",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

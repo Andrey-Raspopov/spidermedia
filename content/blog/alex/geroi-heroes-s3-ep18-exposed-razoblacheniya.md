@@ -4,6 +4,11 @@
   "url": "/blog/alex/geroi-heroes-s3-ep18-exposed-razoblacheniya/",
   "original_url": "http://spidermedia.ru/blog/alex/geroi-heroes-s3-ep18-exposed-razoblacheniya",
   "archived": "https://web.archive.org/web/20220314040546/http://spidermedia.ru/blog/alex/geroi-heroes-s3-ep18-exposed-razoblacheniya",
+  "tags": [
+    "serialy",
+    "geroi",
+    "heroes"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/tv/supergerl-sinopsis-pervye-kadry/",
   "original_url": "https://spidermedia.ru/tv/supergerl-sinopsis-pervye-kadry",
   "archived": "https://web.archive.org/web/20260120151417/https://spidermedia.ru/tv/supergerl-sinopsis-pervye-kadry",
+  "tags": [
+    "dc-comics",
+    "supergirl"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/news/kast-fonarya/",
   "original_url": "http://spidermedia.ru/news/kast-fonarya",
   "archived": "https://web.archive.org/web/20120607140139/http://spidermedia.ru/news/kast-fonarya",
+  "tags": [
+    "green-lantern",
+    "zelenyy-fonar",
+    "kino",
+    "foto"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/comics/best-column-about-comics-30-the-auteur/",
   "original_url": "http://spidermedia.ru/comics/best-column-about-comics-30-the-auteur",
   "archived": "https://web.archive.org/web/20260313115724/http://spidermedia.ru/comics/best-column-about-comics-30-the-auteur",
+  "tags": [
+    "best-column-about-comics",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

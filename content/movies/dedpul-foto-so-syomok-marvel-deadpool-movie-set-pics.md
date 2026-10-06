@@ -4,6 +4,10 @@
   "url": "/movies/dedpul-foto-so-syomok-marvel-deadpool-movie-set-pics/",
   "original_url": "http://spidermedia.ru/movies/dedpul-foto-so-syomok-marvel-deadpool-movie-set-pics",
   "archived": "https://web.archive.org/web/20250807230904/http://spidermedia.ru/movies/dedpul-foto-so-syomok-marvel-deadpool-movie-set-pics",
+  "tags": [
+    "marvel",
+    "deadpool"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

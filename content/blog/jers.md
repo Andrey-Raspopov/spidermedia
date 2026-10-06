@@ -4,6 +4,11 @@
   "url": "/blog/jers/",
   "original_url": "http://spidermedia.ru/blog/jers",
   "archived": "https://web.archive.org/web/20111018192211/http://spidermedia.ru/blog/jers",
+  "tags": [
+    "boom-studios",
+    "anchor",
+    "fil-hester"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

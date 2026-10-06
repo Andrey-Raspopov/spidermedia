@@ -4,6 +4,17 @@
   "url": "/blog/sir-carnage/whatever-happened-marvels-siege/",
   "original_url": "http://spidermedia.ru/blog/sir-carnage/whatever-happened-marvels-siege",
   "archived": "https://web.archive.org/web/20251213202943/http://spidermedia.ru/blog/sir-carnage/whatever-happened-marvels-siege",
+  "tags": [
+    "yumor",
+    "fanfikshn",
+    "dzho-kesada",
+    "brian-michael-bendis",
+    "siege",
+    "marvel",
+    "whatever-happened",
+    "j-michael-straczynski",
+    "matt-fraction"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/news/rozygrysh-diska-s-igroy-injustice-gods-among-us/",
   "original_url": "https://spidermedia.ru/news/rozygrysh-diska-s-igroy-injustice-gods-among-us",
   "archived": "https://web.archive.org/web/20260215075408/https://spidermedia.ru/news/rozygrysh-diska-s-igroy-injustice-gods-among-us",
+  "tags": [
+    "igry",
+    "viktorina",
+    "injustice",
+    "konkurs"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

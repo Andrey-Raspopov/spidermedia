@@ -4,6 +4,11 @@
   "url": "/blog/igrok/bleksed-v-moskve/",
   "original_url": "https://spidermedia.ru/blog/igrok/bleksed-v-moskve",
   "archived": "https://web.archive.org/web/20250804005740/https://spidermedia.ru/blog/igrok/bleksed-v-moskve",
+  "tags": [
+    "blacksad",
+    "kommissiya",
+    "bleksed"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

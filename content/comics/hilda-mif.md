@@ -4,6 +4,9 @@
   "url": "/comics/hilda-mif/",
   "original_url": "https://spidermedia.ru/comics/hilda-mif",
   "archived": "https://web.archive.org/web/20250807231535/https://spidermedia.ru/comics/hilda-mif",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

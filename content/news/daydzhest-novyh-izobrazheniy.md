@@ -4,6 +4,12 @@
   "url": "/news/daydzhest-novyh-izobrazheniy/",
   "original_url": "http://spidermedia.ru/news/daydzhest-novyh-izobrazheniy",
   "archived": "https://web.archive.org/web/20260208201402/http://spidermedia.ru/news/daydzhest-novyh-izobrazheniy",
+  "tags": [
+    "the-flash",
+    "marvel",
+    "agenty-shhita",
+    "daredevil"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

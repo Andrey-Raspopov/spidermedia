@@ -4,6 +4,10 @@
   "url": "/news/plastik-farfor-i-prochee-sentyabr-fevral/",
   "original_url": "http://spidermedia.ru/news/plastik-farfor-i-prochee-sentyabr-fevral",
   "archived": "https://web.archive.org/web/20260215073313/http://spidermedia.ru/news/plastik-farfor-i-prochee-sentyabr-fevral",
+  "tags": [
+    "dc-comics",
+    "figurki"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

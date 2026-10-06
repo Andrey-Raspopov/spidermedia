@@ -4,6 +4,11 @@
   "url": "/blog/deadpoolic/vs-overlook-2/",
   "original_url": "https://spidermedia.ru/blog/deadpoolic/vs-overlook-2",
   "archived": "https://web.archive.org/web/20260307062933/https://spidermedia.ru/blog/deadpoolic/vs-overlook-2",
+  "tags": [
+    "image-comics",
+    "shadowline",
+    "overlook"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

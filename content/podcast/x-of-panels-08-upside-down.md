@@ -4,6 +4,10 @@
   "url": "/podcast/x-of-panels-08-upside-down/",
   "original_url": "http://spidermedia.ru/podcast/x-of-panels-08-upside-down",
   "archived": "https://web.archive.org/web/20260211193602/http://spidermedia.ru/podcast/x-of-panels-08-upside-down",
+  "tags": [
+    "panels-of-x",
+    "on-panels"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

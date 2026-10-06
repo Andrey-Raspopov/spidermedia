@@ -4,6 +4,14 @@
   "url": "/news/poeziya-detektiva/",
   "original_url": "http://spidermedia.ru/news/poeziya-detektiva",
   "archived": "https://web.archive.org/web/20260116221050/http://spidermedia.ru/news/poeziya-detektiva",
+  "tags": [
+    "dc-comics",
+    "preview",
+    "greg-rakka",
+    "art-0",
+    "betvuman",
+    "uilyams-iii"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

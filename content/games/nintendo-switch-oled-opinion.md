@@ -4,6 +4,9 @@
   "url": "/games/nintendo-switch-oled-opinion/",
   "original_url": "http://spidermedia.ru/games/nintendo-switch-oled-opinion",
   "archived": "https://web.archive.org/web/20250909135711/http://spidermedia.ru/games/nintendo-switch-oled-opinion",
+  "tags": [
+    "nintendo"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

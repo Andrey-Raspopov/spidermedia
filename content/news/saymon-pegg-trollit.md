@@ -4,6 +4,10 @@
   "url": "/news/saymon-pegg-trollit/",
   "original_url": "https://spidermedia.ru/news/saymon-pegg-trollit",
   "archived": "https://web.archive.org/web/20250425225457/https://spidermedia.ru/news/saymon-pegg-trollit",
+  "tags": [
+    "ant-man",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

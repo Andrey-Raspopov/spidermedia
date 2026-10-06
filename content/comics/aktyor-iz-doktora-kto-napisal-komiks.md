@@ -4,6 +4,9 @@
   "url": "/comics/aktyor-iz-doktora-kto-napisal-komiks/",
   "original_url": "http://spidermedia.ru/comics/aktyor-iz-doktora-kto-napisal-komiks",
   "archived": "https://web.archive.org/web/20220314055557/http://spidermedia.ru/comics/aktyor-iz-doktora-kto-napisal-komiks",
+  "tags": [
+    "titan-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

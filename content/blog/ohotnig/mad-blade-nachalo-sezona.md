@@ -4,6 +4,10 @@
   "url": "/blog/ohotnig/mad-blade-nachalo-sezona/",
   "original_url": "http://spidermedia.ru/blog/ohotnig/mad-blade-nachalo-sezona",
   "archived": "https://web.archive.org/web/20120608220643/http://spidermedia.ru/blog/ohotnig/mad-blade-nachalo-sezona",
+  "tags": [
+    "mad-blade",
+    "russkie-komiksy"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

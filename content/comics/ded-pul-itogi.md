@@ -4,6 +4,11 @@
   "url": "/comics/ded-pul-itogi/",
   "original_url": "http://spidermedia.ru/comics/ded-pul-itogi",
   "archived": "https://web.archive.org/web/20260211192029/http://spidermedia.ru/comics/ded-pul-itogi",
+  "tags": [
+    "konkurs",
+    "fanart",
+    "deadpool"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

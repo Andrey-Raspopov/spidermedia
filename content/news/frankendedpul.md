@@ -4,6 +4,13 @@
   "url": "/news/frankendedpul/",
   "original_url": "https://spidermedia.ru/news/frankendedpul",
   "archived": "https://web.archive.org/web/20251205112943/https://spidermedia.ru/news/frankendedpul",
+  "tags": [
+    "salvador-espin",
+    "san-diego-comic-con-international",
+    "deniel-vej",
+    "deadpool",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

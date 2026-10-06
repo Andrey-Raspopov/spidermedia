@@ -4,6 +4,11 @@
   "url": "/games/batman-the-brave-and-the-bold-serial-i-igra/",
   "original_url": "http://spidermedia.ru/games/batman-the-brave-and-the-bold-serial-i-igra",
   "archived": "https://web.archive.org/web/20251216122208/http://spidermedia.ru/games/batman-the-brave-and-the-bold-serial-i-igra",
+  "tags": [
+    "dc-comics",
+    "batman",
+    "batman-week"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

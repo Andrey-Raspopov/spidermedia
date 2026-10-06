@@ -4,6 +4,10 @@
   "url": "/blog/ironman/well-hello-mr-hugh-jackman/",
   "original_url": "http://spidermedia.ru/blog/ironman/well-hello-mr-hugh-jackman",
   "archived": "https://web.archive.org/web/20200127103541/http://spidermedia.ru:80/blog/ironman/well-hello-mr-hugh-jackman",
+  "tags": [
+    "marvel",
+    "wolverine"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

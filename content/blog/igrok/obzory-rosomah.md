@@ -4,6 +4,11 @@
   "url": "/blog/igrok/obzory-rosomah/",
   "original_url": "https://spidermedia.ru/blog/igrok/obzory-rosomah",
   "archived": "https://web.archive.org/web/20251108192459/https://spidermedia.ru/blog/igrok/obzory-rosomah",
+  "tags": [
+    "figurki",
+    "wolverine",
+    "hasbro"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

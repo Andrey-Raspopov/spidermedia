@@ -4,6 +4,10 @@
   "url": "/blog/samm-o/wild-children-idite-v-2d/",
   "original_url": "http://spidermedia.ru/blog/samm-o/wild-children-idite-v-2d",
   "archived": "https://web.archive.org/web/20200203060902/http://spidermedia.ru:80/blog/samm-o/wild-children-idite-v-2d",
+  "tags": [
+    "wild-children",
+    "image-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

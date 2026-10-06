@@ -4,6 +4,11 @@
   "url": "/blog/gess/fastest-shoes-whatever/",
   "original_url": "http://spidermedia.ru/blog/gess/fastest-shoes-whatever",
   "archived": "https://web.archive.org/web/20250209102113/http://spidermedia.ru/blog/gess/fastest-shoes-whatever",
+  "tags": [
+    "vneshnij-mir",
+    "the-flash",
+    "moda"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,13 @@
   "url": "/news/15-iyunya-2009-goda/",
   "original_url": "http://spidermedia.ru/news/15-iyunya-2009-goda",
   "archived": "https://web.archive.org/web/20120607180555/http://spidermedia.ru/news/15-iyunya-2009-goda",
+  "tags": [
+    "captain-america",
+    "kapitan-amerika",
+    "komiksy",
+    "marvel",
+    "ugadayka"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

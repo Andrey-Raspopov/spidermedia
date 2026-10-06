@@ -4,6 +4,14 @@
   "url": "/news/dekabr-09-x-men/",
   "original_url": "http://spidermedia.ru/news/dekabr-09-x-men",
   "archived": "https://web.archive.org/web/20120610055335/http://spidermedia.ru/news/dekabr-09-x-men",
+  "tags": [
+    "x-men",
+    "x-universe",
+    "komiksy",
+    "lyudi-iks",
+    "marvel",
+    "relizy"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

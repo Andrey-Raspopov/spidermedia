@@ -4,6 +4,9 @@
   "url": "/news/mstiteley-ozhidaet-smena-sostava/",
   "original_url": "http://spidermedia.ru/news/mstiteley-ozhidaet-smena-sostava",
   "archived": "https://web.archive.org/web/20251206024541/http://spidermedia.ru/news/mstiteley-ozhidaet-smena-sostava",
+  "tags": [
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

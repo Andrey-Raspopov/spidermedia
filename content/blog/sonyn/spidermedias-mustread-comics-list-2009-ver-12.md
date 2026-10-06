@@ -4,6 +4,9 @@
   "url": "/blog/sonyn/spidermedias-mustread-comics-list-2009-ver-12/",
   "original_url": "http://spidermedia.ru/blog/sonyn/spidermedias-mustread-comics-list-2009-ver-12",
   "archived": "https://web.archive.org/web/20190915012629/http://spidermedia.ru:80/blog/sonyn/spidermedias-mustread-comics-list-2009-ver-12",
+  "tags": [
+    "mustread"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

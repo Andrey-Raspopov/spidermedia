@@ -4,6 +4,13 @@
   "url": "/news/incognito-20/",
   "original_url": "http://spidermedia.ru/news/incognito-20",
   "archived": "https://web.archive.org/web/20260309190419/http://spidermedia.ru/news/incognito-20",
+  "tags": [
+    "ed-brubaker",
+    "shon-fillips",
+    "sean-phillips",
+    "incognito",
+    "icon-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,13 @@
   "url": "/movies/suicide-squad-empire-covers/",
   "original_url": "https://spidermedia.ru/movies/suicide-squad-empire-covers",
   "archived": "https://web.archive.org/web/20260215081223/https://spidermedia.ru/movies/suicide-squad-empire-covers",
+  "tags": [
+    "dc-comics",
+    "dedshot",
+    "suicide-squad",
+    "harli-kvin",
+    "joker"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

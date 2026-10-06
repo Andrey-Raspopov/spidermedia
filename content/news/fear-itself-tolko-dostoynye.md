@@ -4,6 +4,12 @@
   "url": "/news/fear-itself-tolko-dostoynye/",
   "original_url": "http://spidermedia.ru/news/fear-itself-tolko-dostoynye",
   "archived": "https://web.archive.org/web/20160917071240/http://spidermedia.ru:80/news/fear-itself-tolko-dostoynye",
+  "tags": [
+    "voploshhenie-straha",
+    "art-0",
+    "marvel",
+    "fear-itself"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

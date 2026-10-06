@@ -4,6 +4,10 @@
   "url": "/tv/universal-ekraniziruet-komiksy-dark-horse/",
   "original_url": "http://spidermedia.ru/tv/universal-ekraniziruet-komiksy-dark-horse",
   "archived": "https://web.archive.org/web/20250620075729/http://spidermedia.ru/tv/universal-ekraniziruet-komiksy-dark-horse",
+  "tags": [
+    "dark-horse",
+    "umbrella-academy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

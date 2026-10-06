@@ -4,6 +4,12 @@
   "url": "/movies/batman-v-superman-dawn-of-justice-san-diego-comic-con-2015-trailer/",
   "original_url": "https://spidermedia.ru/movies/batman-v-superman-dawn-of-justice-san-diego-comic-con-2015-trailer",
   "archived": "https://web.archive.org/web/20260309184808/https://spidermedia.ru/movies/batman-v-superman-dawn-of-justice-san-diego-comic-con-2015-trailer",
+  "tags": [
+    "dc-comics",
+    "batman",
+    "superman",
+    "san-diego-comic-con-international"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

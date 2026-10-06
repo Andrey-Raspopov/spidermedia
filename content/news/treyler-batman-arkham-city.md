@@ -4,6 +4,11 @@
   "url": "/news/treyler-batman-arkham-city/",
   "original_url": "https://spidermedia.ru/news/treyler-batman-arkham-city",
   "archived": "https://web.archive.org/web/20260211191910/https://spidermedia.ru/news/treyler-batman-arkham-city",
+  "tags": [
+    "igry",
+    "batman",
+    "arkham-asylum"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

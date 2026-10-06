@@ -4,6 +4,12 @@
   "url": "/news/intervyu-so-scenaristom-bubble-nataliey-devovoy-0/",
   "original_url": "http://spidermedia.ru/news/intervyu-so-scenaristom-bubble-nataliey-devovoy-0",
   "archived": "https://web.archive.org/web/20260217035832/http://spidermedia.ru/news/intervyu-so-scenaristom-bubble-nataliey-devovoy-0",
+  "tags": [
+    "ekslibrium",
+    "russian-comics",
+    "intervyu",
+    "bubble"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

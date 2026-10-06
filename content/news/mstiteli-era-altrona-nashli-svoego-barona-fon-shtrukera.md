@@ -4,6 +4,10 @@
   "url": "/news/mstiteli-era-altrona-nashli-svoego-barona-fon-shtrukera/",
   "original_url": "https://spidermedia.ru/news/mstiteli-era-altrona-nashli-svoego-barona-fon-shtrukera",
   "archived": "https://web.archive.org/web/20240624143733/https://spidermedia.ru/news/mstiteli-era-altrona-nashli-svoego-barona-fon-shtrukera",
+  "tags": [
+    "avengers",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

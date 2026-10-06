@@ -4,6 +4,10 @@
   "url": "/blog/alex/geroi-heroes-s3-ep14-pryamaya-i-yavnaya-ugroza-clear-and-present-danger/",
   "original_url": "http://spidermedia.ru/blog/alex/geroi-heroes-s3-ep14-pryamaya-i-yavnaya-ugroza-clear-and-present-danger",
   "archived": "https://web.archive.org/web/20230323054452/http://spidermedia.ru/blog/alex/geroi-heroes-s3-ep14-pryamaya-i-yavnaya-ugroza-clear-and-present-danger",
+  "tags": [
+    "serialy",
+    "heroes"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

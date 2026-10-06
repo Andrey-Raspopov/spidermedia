@@ -4,6 +4,18 @@
   "url": "/news/avengers-assemble-may-2009/",
   "original_url": "http://spidermedia.ru/news/avengers-assemble-may-2009",
   "archived": "https://web.archive.org/web/20120608142922/http://spidermedia.ru/news/avengers-assemble-may-2009",
+  "tags": [
+    "avengers",
+    "captain-america",
+    "dark-avengers",
+    "iron-man",
+    "ms-marvel",
+    "spider-woman",
+    "thor",
+    "war-machine",
+    "komiksy",
+    "marvel"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

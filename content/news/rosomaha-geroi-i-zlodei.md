@@ -4,6 +4,15 @@
   "url": "/news/rosomaha-geroi-i-zlodei/",
   "original_url": "http://spidermedia.ru/news/rosomaha-geroi-i-zlodei",
   "archived": "https://web.archive.org/web/20250808212642/http://spidermedia.ru/news/rosomaha-geroi-i-zlodei",
+  "tags": [
+    "x-men",
+    "marvel",
+    "wolverine",
+    "sabretooth",
+    "deadpool",
+    "gambit",
+    "sablezubyj"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

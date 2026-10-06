@@ -4,6 +4,9 @@
   "url": "/games/protomen-saga/",
   "original_url": "http://spidermedia.ru/games/protomen-saga",
   "archived": "https://web.archive.org/web/20260209121233/http://spidermedia.ru/games/protomen-saga",
+  "tags": [
+    "muzyka"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/tv/odin-kvinkennon-preacher-tv/",
   "original_url": "https://spidermedia.ru/tv/odin-kvinkennon-preacher-tv",
   "archived": "https://web.archive.org/web/20250512122235/https://spidermedia.ru/tv/odin-kvinkennon-preacher-tv",
+  "tags": [
+    "vertigo",
+    "garth-ennis",
+    "preacher"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

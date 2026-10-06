@@ -4,6 +4,15 @@
   "url": "/news/zamena-v-batman-robin/",
   "original_url": "http://spidermedia.ru/news/zamena-v-batman-robin",
   "archived": "https://web.archive.org/web/20251207100204/http://spidermedia.ru/news/zamena-v-batman-robin",
+  "tags": [
+    "skott-makdeniel",
+    "pol-kornell",
+    "piter-tomasi",
+    "patrik-glison",
+    "gillem-marsh",
+    "dc-comics",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

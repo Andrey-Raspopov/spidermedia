@@ -4,6 +4,13 @@
   "url": "/blog/redson/chto-stoit-zhdat-12-avgusta-2009/",
   "original_url": "http://spidermedia.ru/blog/redson/chto-stoit-zhdat-12-avgusta-2009",
   "archived": "https://web.archive.org/web/20260125115635/http://spidermedia.ru/blog/redson/chto-stoit-zhdat-12-avgusta-2009",
+  "tags": [
+    "chto-stoit-zhdat",
+    "mnenie",
+    "idw-publishing",
+    "ultimate",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

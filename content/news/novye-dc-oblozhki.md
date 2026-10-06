@@ -4,6 +4,20 @@
   "url": "/news/novye-dc-oblozhki/",
   "original_url": "http://spidermedia.ru/news/novye-dc-oblozhki",
   "archived": "https://web.archive.org/web/20260208210434/http://spidermedia.ru/news/novye-dc-oblozhki",
+  "tags": [
+    "filip-tan",
+    "fil-noto",
+    "toni-deniel",
+    "betgyorl",
+    "tony-daniel",
+    "philip-tan",
+    "phil-noto",
+    "outsiders",
+    "j.h.-williams",
+    "detective-comics",
+    "dc-comics",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

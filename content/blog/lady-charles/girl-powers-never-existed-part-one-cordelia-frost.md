@@ -4,6 +4,10 @@
   "url": "/blog/lady-charles/girl-powers-never-existed-part-one-cordelia-frost/",
   "original_url": "http://spidermedia.ru/blog/lady-charles/girl-powers-never-existed-part-one-cordelia-frost",
   "archived": "https://web.archive.org/web/20111018054557/http://spidermedia.ru/blog/lady-charles/girl-powers-never-existed-part-one-cordelia-frost",
+  "tags": [
+    "mythbusters",
+    "personazhi-komiksov"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

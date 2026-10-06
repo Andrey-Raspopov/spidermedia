@@ -4,6 +4,10 @@
   "url": "/comics/intergalactic-tv-review/",
   "original_url": "http://spidermedia.ru/comics/intergalactic-tv-review",
   "archived": "https://web.archive.org/web/20251209144404/http://spidermedia.ru/comics/intergalactic-tv-review",
+  "tags": [
+    "jellyfish-jam",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

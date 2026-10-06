@@ -4,6 +4,11 @@
   "url": "/news/promo-art-mstiteley/",
   "original_url": "https://spidermedia.ru/news/promo-art-mstiteley",
   "archived": "https://web.archive.org/web/20251116072227/https://spidermedia.ru/news/promo-art-mstiteley",
+  "tags": [
+    "marvel",
+    "art-0",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

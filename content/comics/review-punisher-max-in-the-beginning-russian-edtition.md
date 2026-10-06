@@ -4,11 +4,17 @@
   "url": "/comics/review-punisher-max-in-the-beginning-russian-edtition/",
   "original_url": "http://spidermedia.ru/comics/review-punisher-max-in-the-beginning-russian-edtition",
   "archived": "https://web.archive.org/web/20251209144434/http://spidermedia.ru/comics/review-punisher-max-in-the-beginning-russian-edtition",
+  "tags": [
+    "punisher",
+    "obzor",
+    "alden-comics",
+    "zarubezhnye-komiksy-na-russkom"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-Подходит к концу месяц, прослушаны подкасты возрождённой рубрики [«Разбор полётов»](https://web.archive.org/web/20260306000131/http://spidermedia.ru/tags/spidercast), через пару недель на киноэкранах развернётся [«Гражданская Война»](https://web.archive.org/web/20260120143300/http://spidermedia.ru/movies-index/marvel/marvel-captain-america-3-civil-war-2016), а в российские комикс-шопы нагрянул [«Каратель»](../alden-comics-garth-ennis-punisher-max-russian-edition/) — культовый комикс британского автора **Гарта Энниса** (Hellblazer, Preacher), попавший не только в список [экшн-рекомендаций](../../blog/plane-v/rekomendacii-boeviki/) сайта, но и занимающий достойное место в [мастриде Спайдермедии](https://web.archive.org/web/20260312005210/http://spidermedia.ru/mustread).
+Подходит к концу месяц, прослушаны подкасты возрождённой рубрики [«Разбор полётов»](../../tags/spidercast/), через пару недель на киноэкранах развернётся [«Гражданская Война»](https://web.archive.org/web/20260120143300/http://spidermedia.ru/movies-index/marvel/marvel-captain-america-3-civil-war-2016), а в российские комикс-шопы нагрянул [«Каратель»](../alden-comics-garth-ennis-punisher-max-russian-edition/) — культовый комикс британского автора **Гарта Энниса** (Hellblazer, Preacher), попавший не только в список [экшн-рекомендаций](../../blog/plane-v/rekomendacii-boeviki/) сайта, но и занимающий достойное место в [мастриде Спайдермедии](https://web.archive.org/web/20260312005210/http://spidermedia.ru/mustread).
 
 ![](https://web.archive.org/web/20240710173523im_/http://spidermedia.ru/assets/images/newgallery/gallery752/punisher-max-rus-preview-1.jpg)
 

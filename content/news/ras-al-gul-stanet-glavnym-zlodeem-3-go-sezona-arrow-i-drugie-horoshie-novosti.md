@@ -4,6 +4,11 @@
   "url": "/news/ras-al-gul-stanet-glavnym-zlodeem-3-go-sezona-arrow-i-drugie-horoshie-novosti/",
   "original_url": "http://spidermedia.ru/news/ras-al-gul-stanet-glavnym-zlodeem-3-go-sezona-arrow-i-drugie-horoshie-novosti",
   "archived": "https://web.archive.org/web/20250620075042/http://spidermedia.ru/news/ras-al-gul-stanet-glavnym-zlodeem-3-go-sezona-arrow-i-drugie-horoshie-novosti",
+  "tags": [
+    "the-flash",
+    "dc-comics",
+    "green-arrow"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

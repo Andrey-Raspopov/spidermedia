@@ -4,6 +4,12 @@
   "url": "/news/federalnoe-byuro-supersil/",
   "original_url": "http://spidermedia.ru/news/federalnoe-byuro-supersil",
   "archived": "https://web.archive.org/web/20260116221934/http://spidermedia.ru/news/federalnoe-byuro-supersil",
+  "tags": [
+    "icon-comics",
+    "majkl-ejvon-oeming",
+    "brian-michael-bendis",
+    "powers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

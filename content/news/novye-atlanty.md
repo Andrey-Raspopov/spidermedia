@@ -4,6 +4,20 @@
   "url": "/news/novye-atlanty/",
   "original_url": "https://spidermedia.ru/news/novye-atlanty",
   "archived": "https://web.archive.org/web/20251013184758/https://spidermedia.ru/news/novye-atlanty",
+  "tags": [
+    "steve-niles",
+    "piter-hogan",
+    "net-dzhons",
+    "komik-kon-v-nyu-yorke",
+    "din-zakari",
+    "dzhoshua-ortega",
+    "dzhim-kryuger",
+    "dzhej-em-demattej",
+    "brendan-denin",
+    "nycc-2010",
+    "new-york-comic-con",
+    "atlas-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

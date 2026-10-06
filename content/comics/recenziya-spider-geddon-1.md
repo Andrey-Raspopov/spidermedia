@@ -4,6 +4,10 @@
   "url": "/comics/recenziya-spider-geddon-1/",
   "original_url": "https://spidermedia.ru/comics/recenziya-spider-geddon-1",
   "archived": "https://web.archive.org/web/20250806050649/https://spidermedia.ru/comics/recenziya-spider-geddon-1",
+  "tags": [
+    "marvel",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

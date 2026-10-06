@@ -4,6 +4,12 @@
   "url": "/news/zheleznyy-i-zelyonyy/",
   "original_url": "http://spidermedia.ru/news/zheleznyy-i-zelyonyy",
   "archived": "https://web.archive.org/web/20260211094344/http://spidermedia.ru/news/zheleznyy-i-zelyonyy",
+  "tags": [
+    "marvel",
+    "animaciya",
+    "iron-man",
+    "hulk"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

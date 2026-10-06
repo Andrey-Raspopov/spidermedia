@@ -4,6 +4,13 @@
   "url": "/news/beskonechnoe-vtorzhenie/",
   "original_url": "http://spidermedia.ru/news/beskonechnoe-vtorzhenie",
   "archived": "https://web.archive.org/web/20260120155721/http://spidermedia.ru/news/beskonechnoe-vtorzhenie",
+  "tags": [
+    "tanos",
+    "avengers",
+    "marvel",
+    "dzhonatan-hikman",
+    "infinity"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

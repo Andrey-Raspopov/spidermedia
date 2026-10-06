@@ -4,6 +4,14 @@
   "url": "/blog/krofes/doktor-strendzh-i-tayna-ordena-magov-doctor-strange/",
   "original_url": "http://spidermedia.ru/blog/krofes/doktor-strendzh-i-tayna-ordena-magov-doctor-strange",
   "archived": "https://web.archive.org/web/20150501124736/http://spidermedia.ru/blog/krofes/doktor-strendzh-i-tayna-ordena-magov-doctor-strange",
+  "tags": [
+    "marvel-comics",
+    "animaciya",
+    "video",
+    "skachat",
+    "dr.-strange",
+    "dormammu"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

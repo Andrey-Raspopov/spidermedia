@@ -4,6 +4,11 @@
   "url": "/news/tonkaya-krasnaya-liniya/",
   "original_url": "http://spidermedia.ru/news/tonkaya-krasnaya-liniya",
   "archived": "https://web.archive.org/web/20190811013555/http://spidermedia.ru:80/news/tonkaya-krasnaya-liniya",
+  "tags": [
+    "marvel",
+    "brian-michael-bendis",
+    "kris-bachalo"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

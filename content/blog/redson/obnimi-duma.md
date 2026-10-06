@@ -4,6 +4,12 @@
   "url": "/blog/redson/obnimi-duma/",
   "original_url": "https://spidermedia.ru/blog/redson/obnimi-duma",
   "archived": "https://web.archive.org/web/20241102073837/https://spidermedia.ru/blog/redson/obnimi-duma",
+  "tags": [
+    "fanstaff",
+    "igrushki",
+    "marvel",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

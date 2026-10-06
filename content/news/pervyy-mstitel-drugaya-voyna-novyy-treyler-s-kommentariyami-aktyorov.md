@@ -4,6 +4,12 @@
   "url": "/news/pervyy-mstitel-drugaya-voyna-novyy-treyler-s-kommentariyami-aktyorov/",
   "original_url": "http://spidermedia.ru/news/pervyy-mstitel-drugaya-voyna-novyy-treyler-s-kommentariyami-aktyorov",
   "archived": "https://web.archive.org/web/20240624012656/http://spidermedia.ru/news/pervyy-mstitel-drugaya-voyna-novyy-treyler-s-kommentariyami-aktyorov",
+  "tags": [
+    "trejlery",
+    "captain-america",
+    "winter-soldier",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

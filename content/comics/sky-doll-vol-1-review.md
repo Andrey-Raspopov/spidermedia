@@ -4,6 +4,9 @@
   "url": "/comics/sky-doll-vol-1-review/",
   "original_url": "https://spidermedia.ru/comics/sky-doll-vol-1-review",
   "archived": "https://web.archive.org/web/20251211031638/https://spidermedia.ru/comics/sky-doll-vol-1-review",
+  "tags": [
+    "xl-media"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

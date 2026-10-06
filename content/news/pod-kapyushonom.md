@@ -4,6 +4,14 @@
   "url": "/news/pod-kapyushonom/",
   "original_url": "https://spidermedia.ru/news/pod-kapyushonom",
   "archived": "https://web.archive.org/web/20260312010204/https://spidermedia.ru/news/pod-kapyushonom",
+  "tags": [
+    "marvel",
+    "hood",
+    "dzheff-parker",
+    "art-0",
+    "kapyushon",
+    "kajl-hotc"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

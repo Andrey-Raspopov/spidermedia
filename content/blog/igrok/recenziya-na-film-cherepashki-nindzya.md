@@ -4,6 +4,10 @@
   "url": "/blog/igrok/recenziya-na-film-cherepashki-nindzya/",
   "original_url": "http://spidermedia.ru/blog/igrok/recenziya-na-film-cherepashki-nindzya",
   "archived": "https://web.archive.org/web/20251208071217/http://spidermedia.ru/blog/igrok/recenziya-na-film-cherepashki-nindzya",
+  "tags": [
+    "ninja-turtles",
+    "recenziya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

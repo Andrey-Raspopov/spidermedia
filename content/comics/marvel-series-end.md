@@ -4,6 +4,10 @@
   "url": "/comics/marvel-series-end/",
   "original_url": "http://spidermedia.ru/comics/marvel-series-end",
   "archived": "https://web.archive.org/web/20210118130220/http://spidermedia.ru/comics/marvel-series-end",
+  "tags": [
+    "marvel",
+    "secret-wars"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

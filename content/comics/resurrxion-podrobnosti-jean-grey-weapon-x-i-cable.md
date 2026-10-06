@@ -4,6 +4,10 @@
   "url": "/comics/resurrxion-podrobnosti-jean-grey-weapon-x-i-cable/",
   "original_url": "http://spidermedia.ru/comics/resurrxion-podrobnosti-jean-grey-weapon-x-i-cable",
   "archived": "https://web.archive.org/web/20260309181710/http://spidermedia.ru/comics/resurrxion-podrobnosti-jean-grey-weapon-x-i-cable",
+  "tags": [
+    "marvel",
+    "x-men"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

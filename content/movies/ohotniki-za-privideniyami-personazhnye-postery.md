@@ -4,6 +4,9 @@
   "url": "/movies/ohotniki-za-privideniyami-personazhnye-postery/",
   "original_url": "http://spidermedia.ru/movies/ohotniki-za-privideniyami-personazhnye-postery",
   "archived": "https://web.archive.org/web/20241106085718/http://spidermedia.ru/movies/ohotniki-za-privideniyami-personazhnye-postery",
+  "tags": [
+    "ghostbusters"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

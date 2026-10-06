@@ -4,6 +4,17 @@
   "url": "/news/ohotnik-na-vampirov/",
   "original_url": "http://spidermedia.ru/news/ohotnik-na-vampirov",
   "archived": "https://web.archive.org/web/20250217074448/http://spidermedia.ru/news/ohotnik-na-vampirov",
+  "tags": [
+    "majk-minola",
+    "lord-baltimor",
+    "kristofer-golden",
+    "ben-stenbeck",
+    "san-diego-comic-con-international",
+    "mike-mignola",
+    "lord-baltimore",
+    "dark-horse",
+    "christopher-golden"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

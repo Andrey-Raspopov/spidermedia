@@ -4,6 +4,10 @@
   "url": "/comics/tizery-marvel-pavshij-i-obvinyaemyj/",
   "original_url": "https://spidermedia.ru/comics/tizery-marvel-pavshij-i-obvinyaemyj",
   "archived": "https://web.archive.org/web/20250807222836/https://spidermedia.ru/comics/tizery-marvel-pavshij-i-obvinyaemyj",
+  "tags": [
+    "marvel",
+    "civil-war"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

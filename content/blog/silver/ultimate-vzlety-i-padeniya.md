@@ -4,6 +4,9 @@
   "url": "/blog/silver/ultimate-vzlety-i-padeniya/",
   "original_url": "http://spidermedia.ru/blog/silver/ultimate-vzlety-i-padeniya",
   "archived": "https://web.archive.org/web/20190907234032/http://spidermedia.ru:80/blog/silver/ultimate-vzlety-i-padeniya",
+  "tags": [
+    "ultimate"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,17 @@
   "url": "/blog/sterpazook/fen-film-batman-ashes-ashes/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/fen-film-batman-ashes-ashes",
   "archived": "https://web.archive.org/web/20120607074420/http://spidermedia.ru/blog/sterpazook/fen-film-batman-ashes-ashes",
+  "tags": [
+    "batman",
+    "batman-ashes-ashes",
+    "dc-comics",
+    "betmen",
+    "video",
+    "kino",
+    "komiksy",
+    "skachat",
+    "fanstaff"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/news/den-abnett-vernetsya-k-strazham-galaktiki/",
   "original_url": "http://spidermedia.ru/news/den-abnett-vernetsya-k-strazham-galaktiki",
   "archived": "https://web.archive.org/web/20260313113442/http://spidermedia.ru/news/den-abnett-vernetsya-k-strazham-galaktiki",
+  "tags": [
+    "marvel",
+    "den-ebnett",
+    "guardians-of-the-galaxy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

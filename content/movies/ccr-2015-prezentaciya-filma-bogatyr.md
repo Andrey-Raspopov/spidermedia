@@ -4,6 +4,9 @@
   "url": "/movies/ccr-2015-prezentaciya-filma-bogatyr/",
   "original_url": "http://spidermedia.ru/movies/ccr-2015-prezentaciya-filma-bogatyr",
   "archived": "https://web.archive.org/web/20250717193527/http://spidermedia.ru/movies/ccr-2015-prezentaciya-filma-bogatyr",
+  "tags": [
+    "comic-con-russia"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

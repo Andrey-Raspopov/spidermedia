@@ -4,6 +4,12 @@
   "url": "/news/dzheyms-makavoy-sygraet-charlza-ksave/",
   "original_url": "http://spidermedia.ru/news/dzheyms-makavoy-sygraet-charlza-ksave",
   "archived": "https://web.archive.org/web/20170908231123/http://spidermedia.ru:80/news/dzheyms-makavoy-sygraet-charlza-ksave",
+  "tags": [
+    "marvel",
+    "lyudi-iks-pervyj-klass",
+    "x-men",
+    "x-men-first-class"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

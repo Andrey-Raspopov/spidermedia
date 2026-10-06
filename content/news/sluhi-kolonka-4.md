@@ -4,6 +4,18 @@
   "url": "/news/sluhi-kolonka-4/",
   "original_url": "https://spidermedia.ru/news/sluhi-kolonka-4",
   "archived": "https://web.archive.org/web/20251107032047/https://spidermedia.ru/news/sluhi-kolonka-4",
+  "tags": [
+    "x-men",
+    "marvel",
+    "hulk",
+    "dzhef-loeb",
+    "dzheyson-aaron",
+    "sluhi",
+    "dzhonatan-hikman",
+    "dzhok",
+    "ed-makginnes",
+    "models-inc"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

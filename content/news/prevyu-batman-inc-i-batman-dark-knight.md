@@ -4,6 +4,14 @@
   "url": "/news/prevyu-batman-inc-i-batman-dark-knight/",
   "original_url": "https://spidermedia.ru/news/prevyu-batman-inc-i-batman-dark-knight",
   "archived": "https://web.archive.org/web/20251207100337/https://spidermedia.ru/news/prevyu-batman-inc-i-batman-dark-knight",
+  "tags": [
+    "yanik-pekket",
+    "devid-finch",
+    "grant-morrison",
+    "art-0",
+    "dc-comics",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

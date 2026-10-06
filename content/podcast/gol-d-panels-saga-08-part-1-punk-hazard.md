@@ -4,6 +4,10 @@
   "url": "/podcast/gol-d-panels-saga-08-part-1-punk-hazard/",
   "original_url": "http://spidermedia.ru/podcast/gol-d-panels-saga-08-part-1-punk-hazard",
   "archived": "https://web.archive.org/web/20260121003232/http://spidermedia.ru/podcast/gol-d-panels-saga-08-part-1-punk-hazard",
+  "tags": [
+    "gold-panels",
+    "on-panels"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

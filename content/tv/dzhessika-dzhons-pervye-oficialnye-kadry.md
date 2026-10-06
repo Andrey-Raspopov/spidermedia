@@ -4,6 +4,11 @@
   "url": "/tv/dzhessika-dzhons-pervye-oficialnye-kadry/",
   "original_url": "https://spidermedia.ru/tv/dzhessika-dzhons-pervye-oficialnye-kadry",
   "archived": "https://web.archive.org/web/20251211023628/https://spidermedia.ru/tv/dzhessika-dzhons-pervye-oficialnye-kadry",
+  "tags": [
+    "marvel",
+    "jessica-jones-alias",
+    "luke-cage"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

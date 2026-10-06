@@ -4,6 +4,9 @@
   "url": "/news/videoreportazh-o-sozdanii-komiksa-dreadcore-anamnes/",
   "original_url": "http://spidermedia.ru/news/videoreportazh-o-sozdanii-komiksa-dreadcore-anamnes",
   "archived": "https://web.archive.org/web/20250920202414/http://spidermedia.ru/news/videoreportazh-o-sozdanii-komiksa-dreadcore-anamnes",
+  "tags": [
+    "izdatelstvo-42"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

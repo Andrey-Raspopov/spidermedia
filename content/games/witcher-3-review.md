@@ -4,6 +4,9 @@
   "url": "/games/witcher-3-review/",
   "original_url": "https://spidermedia.ru/games/witcher-3-review",
   "archived": "https://web.archive.org/web/20260313103355/https://spidermedia.ru/games/witcher-3-review",
+  "tags": [
+    "vedmak"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

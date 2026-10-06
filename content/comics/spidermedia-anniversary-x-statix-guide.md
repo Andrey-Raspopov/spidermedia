@@ -4,6 +4,11 @@
   "url": "/comics/spidermedia-anniversary-x-statix-guide/",
   "original_url": "https://spidermedia.ru/comics/spidermedia-anniversary-x-statix-guide",
   "archived": "https://web.archive.org/web/20250808202324/https://spidermedia.ru/comics/spidermedia-anniversary-x-statix-guide",
+  "tags": [
+    "spidermedia-15th-anniversary",
+    "guide",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

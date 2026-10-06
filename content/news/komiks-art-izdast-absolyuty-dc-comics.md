@@ -4,6 +4,18 @@
   "url": "/news/komiks-art-izdast-absolyuty-dc-comics/",
   "original_url": "http://spidermedia.ru/news/komiks-art-izdast-absolyuty-dc-comics",
   "archived": "https://web.archive.org/web/20260120164748/http://spidermedia.ru/news/komiks-art-izdast-absolyuty-dc-comics",
+  "tags": [
+    "superman",
+    "neil-gaiman",
+    "komiks-art",
+    "zarubezhnye-komiksy-na-russkom",
+    "batman",
+    "hraniteli",
+    "vertigo",
+    "v-for-vendetta",
+    "death",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

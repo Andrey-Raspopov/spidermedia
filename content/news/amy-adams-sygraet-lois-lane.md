@@ -4,6 +4,12 @@
   "url": "/news/amy-adams-sygraet-lois-lane/",
   "original_url": "https://spidermedia.ru/news/amy-adams-sygraet-lois-lane",
   "archived": "https://web.archive.org/web/20260211185448/https://spidermedia.ru/news/amy-adams-sygraet-lois-lane",
+  "tags": [
+    "chelovek-iz-stali",
+    "superman",
+    "man-of-steel",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

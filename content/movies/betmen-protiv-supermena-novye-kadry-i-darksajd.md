@@ -4,6 +4,12 @@
   "url": "/movies/betmen-protiv-supermena-novye-kadry-i-darksajd/",
   "original_url": "https://spidermedia.ru/movies/betmen-protiv-supermena-novye-kadry-i-darksajd",
   "archived": "https://web.archive.org/web/20260116221403/https://spidermedia.ru/movies/betmen-protiv-supermena-novye-kadry-i-darksajd",
+  "tags": [
+    "dc-comics",
+    "batman",
+    "darksajd",
+    "superman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

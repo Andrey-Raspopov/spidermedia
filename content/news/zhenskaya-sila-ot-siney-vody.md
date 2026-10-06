@@ -4,6 +4,11 @@
   "url": "/news/zhenskaya-sila-ot-siney-vody/",
   "original_url": "http://spidermedia.ru/news/zhenskaya-sila-ot-siney-vody",
   "archived": "https://web.archive.org/web/20120608211056/http://spidermedia.ru/news/zhenskaya-sila-ot-siney-vody",
+  "tags": [
+    "bluewater",
+    "female-force",
+    "komiksy"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

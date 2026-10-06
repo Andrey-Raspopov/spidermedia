@@ -4,6 +4,9 @@
   "url": "/news/duh-mshcheniya/",
   "original_url": "http://spidermedia.ru/news/duh-mshcheniya",
   "archived": "https://web.archive.org/web/20250429012526/http://spidermedia.ru/news/duh-mshcheniya",
+  "tags": [
+    "prizrachnyj-gonshhik"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

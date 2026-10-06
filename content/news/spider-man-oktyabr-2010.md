@@ -4,6 +4,16 @@
   "url": "/news/spider-man-oktyabr-2010/",
   "original_url": "http://spidermedia.ru/news/spider-man-oktyabr-2010",
   "archived": "https://web.archive.org/web/20120607182324/http://spidermedia.ru/news/spider-man-oktyabr-2010",
+  "tags": [
+    "amazing-spider-man",
+    "shadowland",
+    "spider-man",
+    "art-0",
+    "komiksy",
+    "oblozhki",
+    "strana-teney",
+    "chelovek-pauk"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

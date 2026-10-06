@@ -4,11 +4,29 @@
   "url": "/news/mzhdz-scott-snyder-was-probably-right/",
   "original_url": "https://spidermedia.ru/news/mzhdz-scott-snyder-was-probably-right",
   "archived": "https://web.archive.org/web/20260208204402/https://spidermedia.ru/news/mzhdz-scott-snyder-was-probably-right",
+  "tags": [
+    "mnenie",
+    "mzhdz",
+    "marvel",
+    "image-comics",
+    "dc-comics",
+    "batman",
+    "joker",
+    "skott-snajder",
+    "dzheyson-aaron",
+    "wolverine",
+    "x-men",
+    "fantastic-four",
+    "dzhonatan-hikman",
+    "kiron-gillen",
+    "dejl-iglshem",
+    "greg-capullo"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](https://web.archive.org/web/20260208204402im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz-1.png)](https://web.archive.org/web/20260206215846/http://spidermedia.ru/tags/mzhdz)
+[![](https://web.archive.org/web/20260208204402im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz-1.png)](../../tags/mzhdz/)
 ![](https://web.archive.org/web/20260208204402im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/tumblr_lublmchbiZ1qko4x4o1_500.gif)
 **Еженедельные обзоры новых комиксов!**
 Немного припозднились, но такая уж жизнь! Главное, что МЖДЗ все-таки с вами. И мы здесь не для того, чтобы орать в мегафон с броневика свои объективные мнения о комиксах (ну, не только) - мы открываем двери и зовем вас внутрь, чтобы услышать, что думаете вы. Нам часто удается узнать много интересного в комментариях: о вас, о ваших отношениях с комиксами, об отношениях персонажей комиксов и тех вещах, которые мы могли пропустить. Согласиться получается не со всеми и не во всем, но в этом и главная ценность коммьюнити.

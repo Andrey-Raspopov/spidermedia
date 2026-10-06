@@ -4,6 +4,16 @@
   "url": "/news/bendis-vozvrashchaetsya/",
   "original_url": "http://spidermedia.ru/news/bendis-vozvrashchaetsya",
   "archived": "https://web.archive.org/web/20260306001504/http://spidermedia.ru/news/bendis-vozvrashchaetsya",
+  "tags": [
+    "new-avengers",
+    "marvel",
+    "klaus-janson",
+    "david-mack",
+    "daredevil",
+    "brian-michael-bendis",
+    "bill-sinkevich",
+    "alex-maleev"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

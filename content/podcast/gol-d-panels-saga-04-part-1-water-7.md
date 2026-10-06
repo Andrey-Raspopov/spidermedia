@@ -4,6 +4,10 @@
   "url": "/podcast/gol-d-panels-saga-04-part-1-water-7/",
   "original_url": "https://spidermedia.ru/podcast/gol-d-panels-saga-04-part-1-water-7",
   "archived": "https://web.archive.org/web/20260215080223/https://spidermedia.ru/podcast/gol-d-panels-saga-04-part-1-water-7",
+  "tags": [
+    "gold-panels",
+    "on-panels"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

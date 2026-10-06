@@ -4,6 +4,10 @@
   "url": "/comics/sdcc-darkseid-is/",
   "original_url": "http://spidermedia.ru/comics/sdcc-darkseid-is",
   "archived": "https://web.archive.org/web/20250620071006/http://spidermedia.ru/comics/sdcc-darkseid-is",
+  "tags": [
+    "dc-comics",
+    "san-diego-comic-con-international"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

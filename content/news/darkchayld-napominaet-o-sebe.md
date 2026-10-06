@@ -4,6 +4,12 @@
   "url": "/news/darkchayld-napominaet-o-sebe/",
   "original_url": "http://spidermedia.ru/news/darkchayld-napominaet-o-sebe",
   "archived": "https://web.archive.org/web/20190810125606/http://spidermedia.ru:80/news/darkchayld-napominaet-o-sebe",
+  "tags": [
+    "rendi-kvin",
+    "darkchajld",
+    "randy-queen",
+    "darkchylde"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

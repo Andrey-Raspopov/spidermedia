@@ -4,6 +4,11 @@
   "url": "/news/chelovek-iz-stali-podkast/",
   "original_url": "http://spidermedia.ru/news/chelovek-iz-stali-podkast",
   "archived": "https://web.archive.org/web/20250618112446/http://spidermedia.ru/news/chelovek-iz-stali-podkast",
+  "tags": [
+    "superman",
+    "devid-gojer",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

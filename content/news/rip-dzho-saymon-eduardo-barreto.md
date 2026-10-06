@@ -4,6 +4,10 @@
   "url": "/news/rip-dzho-saymon-eduardo-barreto/",
   "original_url": "http://spidermedia.ru/news/rip-dzho-saymon-eduardo-barreto",
   "archived": "https://web.archive.org/web/20120608032938/http://spidermedia.ru/news/rip-dzho-saymon-eduardo-barreto",
+  "tags": [
+    "dzho-saymon",
+    "eduardo-barreto"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

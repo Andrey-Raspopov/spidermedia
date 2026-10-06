@@ -4,6 +4,14 @@
   "url": "/blog/ironman/sdcc09-marvel-anime/",
   "original_url": "http://spidermedia.ru/blog/ironman/sdcc09-marvel-anime",
   "archived": "https://web.archive.org/web/20260306000156/http://spidermedia.ru/blog/ironman/sdcc09-marvel-anime",
+  "tags": [
+    "warren-ellis",
+    "anime",
+    "animaciya",
+    "wolverine",
+    "marvel",
+    "iron-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

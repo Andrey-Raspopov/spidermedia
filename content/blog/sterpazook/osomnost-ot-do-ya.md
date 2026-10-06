@@ -4,6 +4,10 @@
   "url": "/blog/sterpazook/osomnost-ot-do-ya/",
   "original_url": "https://spidermedia.ru/blog/sterpazook/osomnost-ot-do-ya",
   "archived": "https://web.archive.org/web/20251117005450/https://spidermedia.ru/blog/sterpazook/osomnost-ot-do-ya",
+  "tags": [
+    "yumor",
+    "art-0"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

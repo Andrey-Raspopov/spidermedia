@@ -4,6 +4,15 @@
   "url": "/blog/hella/obzor-supermen-krasnyy-syn-russkoyazychnoe-izdanie/",
   "original_url": "http://spidermedia.ru/blog/hella/obzor-supermen-krasnyy-syn-russkoyazychnoe-izdanie",
   "archived": "https://web.archive.org/web/20260307054943/http://spidermedia.ru/blog/hella/obzor-supermen-krasnyy-syn-russkoyazychnoe-izdanie",
+  "tags": [
+    "superman",
+    "mark-millar",
+    "krasnyj-syn",
+    "zarubezhnye-komiksy-na-russkom",
+    "dejv-dzhonson",
+    "azbuka",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

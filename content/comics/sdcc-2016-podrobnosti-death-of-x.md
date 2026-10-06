@@ -4,6 +4,13 @@
   "url": "/comics/sdcc-2016-podrobnosti-death-of-x/",
   "original_url": "https://spidermedia.ru/comics/sdcc-2016-podrobnosti-death-of-x",
   "archived": "https://web.archive.org/web/20260115053917/https://spidermedia.ru/comics/sdcc-2016-podrobnosti-death-of-x",
+  "tags": [
+    "inhumans",
+    "marvel",
+    "x-23",
+    "x-men",
+    "nelyudi"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

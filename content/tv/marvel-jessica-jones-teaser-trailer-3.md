@@ -4,6 +4,10 @@
   "url": "/tv/marvel-jessica-jones-teaser-trailer-3/",
   "original_url": "https://spidermedia.ru/tv/marvel-jessica-jones-teaser-trailer-3",
   "archived": "https://web.archive.org/web/20251211020618/https://spidermedia.ru/tv/marvel-jessica-jones-teaser-trailer-3",
+  "tags": [
+    "marvel",
+    "jessica-jones-alias"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

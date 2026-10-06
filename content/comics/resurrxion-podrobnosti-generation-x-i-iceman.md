@@ -4,6 +4,10 @@
   "url": "/comics/resurrxion-podrobnosti-generation-x-i-iceman/",
   "original_url": "http://spidermedia.ru/comics/resurrxion-podrobnosti-generation-x-i-iceman",
   "archived": "https://web.archive.org/web/20251115032123/http://spidermedia.ru/comics/resurrxion-podrobnosti-generation-x-i-iceman",
+  "tags": [
+    "marvel",
+    "x-men"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

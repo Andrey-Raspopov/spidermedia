@@ -4,6 +4,11 @@
   "url": "/news/multidedpul/",
   "original_url": "http://spidermedia.ru/news/multidedpul",
   "archived": "https://web.archive.org/web/20220813160505/http://spidermedia.ru/news/multidedpul",
+  "tags": [
+    "deadpool",
+    "art-0",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

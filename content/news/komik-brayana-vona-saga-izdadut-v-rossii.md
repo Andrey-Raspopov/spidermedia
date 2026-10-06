@@ -4,6 +4,12 @@
   "url": "/news/komik-brayana-vona-saga-izdadut-v-rossii/",
   "original_url": "https://spidermedia.ru/news/komik-brayana-vona-saga-izdadut-v-rossii",
   "archived": "https://web.archive.org/web/20260308234200/https://spidermedia.ru/news/komik-brayana-vona-saga-izdadut-v-rossii",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "brian-k-vaughan",
+    "saga",
+    "image-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

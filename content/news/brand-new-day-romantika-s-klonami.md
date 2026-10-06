@@ -4,6 +4,24 @@
   "url": "/news/brand-new-day-romantika-s-klonami/",
   "original_url": "http://spidermedia.ru/news/brand-new-day-romantika-s-klonami",
   "archived": "https://web.archive.org/web/20190729002239/http://spidermedia.ru:80/news/brand-new-day-romantika-s-klonami",
+  "tags": [
+    "chernaya-koshka",
+    "fred-van-lente",
+    "meri-dzhejn-vatson",
+    "marko-chekchetto",
+    "mark-waid",
+    "mario-alberti",
+    "majk-makkon",
+    "joe-kelly",
+    "ben-rejli",
+    "barri-kitson",
+    "mary-jane-watson",
+    "marvel",
+    "electro",
+    "black-cat",
+    "spider-man",
+    "elektro"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

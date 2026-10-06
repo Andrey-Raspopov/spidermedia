@@ -4,6 +4,15 @@
   "url": "/news/brand-new-day-oktyabr-2009/",
   "original_url": "http://spidermedia.ru/news/brand-new-day-oktyabr-2009",
   "archived": "https://web.archive.org/web/20260312013441/http://spidermedia.ru/news/brand-new-day-oktyabr-2009",
+  "tags": [
+    "marko-chekchetto",
+    "marko-dzhurdzhevich",
+    "mark-guggenhajm",
+    "luke-ross",
+    "adi-granov",
+    "marvel",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

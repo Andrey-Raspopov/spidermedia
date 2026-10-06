@@ -4,6 +4,14 @@
   "url": "/news/days-second-coming-part-3/",
   "original_url": "http://spidermedia.ru/news/days-second-coming-part-3",
   "archived": "https://web.archive.org/web/20120608231723/http://spidermedia.ru/news/days-second-coming-part-3",
+  "tags": [
+    "second-coming",
+    "x-men",
+    "x-universe",
+    "komiksy",
+    "lyudi-iks",
+    "marvel"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

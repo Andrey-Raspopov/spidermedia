@@ -4,6 +4,10 @@
   "url": "/comics/novaya-seriya-black-panther-and-the-crew/",
   "original_url": "https://spidermedia.ru/comics/novaya-seriya-black-panther-and-the-crew",
   "archived": "https://web.archive.org/web/20251013191334/https://spidermedia.ru/comics/novaya-seriya-black-panther-and-the-crew",
+  "tags": [
+    "marvel",
+    "black-panther"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

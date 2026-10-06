@@ -4,6 +4,10 @@
   "url": "/news/endryu-garfild-novyy-chelovek-pauk/",
   "original_url": "http://spidermedia.ru/news/endryu-garfild-novyy-chelovek-pauk",
   "archived": "https://web.archive.org/web/20240916030712/http://spidermedia.ru/news/endryu-garfild-novyy-chelovek-pauk",
+  "tags": [
+    "marvel",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

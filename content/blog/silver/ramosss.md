@@ -4,6 +4,12 @@
   "url": "/blog/silver/ramosss/",
   "original_url": "https://spidermedia.ru/blog/silver/ramosss",
   "archived": "https://web.archive.org/web/20251117002722/https://spidermedia.ru/blog/silver/ramosss",
+  "tags": [
+    "umberto-ramos",
+    "marvel",
+    "avengers",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

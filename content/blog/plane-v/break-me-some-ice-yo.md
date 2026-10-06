@@ -4,6 +4,10 @@
   "url": "/blog/plane-v/break-me-some-ice-yo/",
   "original_url": "https://spidermedia.ru/blog/plane-v/break-me-some-ice-yo",
   "archived": "https://web.archive.org/web/20260125070227/https://spidermedia.ru/blog/plane-v/break-me-some-ice-yo",
+  "tags": [
+    "mnenie",
+    "lyudi-iks-pervyj-klass"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

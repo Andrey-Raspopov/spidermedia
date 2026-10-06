@@ -4,6 +4,11 @@
   "url": "/blog/silver/vy-nam-pisali/",
   "original_url": "http://spidermedia.ru/blog/silver/vy-nam-pisali",
   "archived": "https://web.archive.org/web/20250620074043/http://spidermedia.ru/blog/silver/vy-nam-pisali",
+  "tags": [
+    "marvel",
+    "avengers",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

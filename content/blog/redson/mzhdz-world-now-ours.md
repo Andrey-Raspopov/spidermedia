@@ -4,11 +4,15 @@
   "url": "/blog/redson/mzhdz-world-now-ours/",
   "original_url": "http://spidermedia.ru/blog/redson/mzhdz-world-now-ours",
   "archived": "https://web.archive.org/web/20251207002838/http://spidermedia.ru/blog/redson/mzhdz-world-now-ours",
+  "tags": [
+    "mnenie",
+    "mzhdz"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](https://web.archive.org/web/20251207002838im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz450.png)](https://web.archive.org/web/20260206215846/http://spidermedia.ru/tags/mzhdz)
+[![](https://web.archive.org/web/20251207002838im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz450.png)](../../../tags/mzhdz/)
 ![](https://web.archive.org/web/20251207002838im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/jimleeipad.jpg)
 **Еженедельные обзоры новых комиксов!**
 **В этом выпуске:**  это конец! Конец первого месяца новой эпохи DC Comics. Игрок выскажется по оставшимся тайтлам и подведет итоги. Мы снова кое-где поможем и попытаемся вспомнить, не выпустило ли Marvel что-нибудь интересное.

@@ -4,6 +4,12 @@
   "url": "/news/izdatelstvo-idw-anonsirovalo-dva-neozhidannyh-krossovera/",
   "original_url": "http://spidermedia.ru/news/izdatelstvo-idw-anonsirovalo-dva-neozhidannyh-krossovera",
   "archived": "https://web.archive.org/web/20260121013950/http://spidermedia.ru/news/izdatelstvo-idw-anonsirovalo-dva-neozhidannyh-krossovera",
+  "tags": [
+    "transformers",
+    "san-diego-comic-con-international",
+    "idw-publishing",
+    "boom-studios"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

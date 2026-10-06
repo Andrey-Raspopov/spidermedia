@@ -4,6 +4,15 @@
   "url": "/news/dark-reign-list-avengers/",
   "original_url": "https://spidermedia.ru/news/dark-reign-list-avengers",
   "archived": "https://web.archive.org/web/20251207005715/https://spidermedia.ru/news/dark-reign-list-avengers",
+  "tags": [
+    "avengers",
+    "temnoe-pravlenie",
+    "marko-dzhurdzhevich",
+    "brian-michael-bendis",
+    "new-avengers",
+    "marvel",
+    "list"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

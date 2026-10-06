@@ -4,6 +4,10 @@
   "url": "/blog/hedsar/ya-shpion-supershpion/",
   "original_url": "https://spidermedia.ru/blog/hedsar/ya-shpion-supershpion",
   "archived": "https://web.archive.org/web/20230607031941/https://spidermedia.ru/blog/hedsar/ya-shpion-supershpion",
+  "tags": [
+    "mark-millar",
+    "tajnaya-sluzhba"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

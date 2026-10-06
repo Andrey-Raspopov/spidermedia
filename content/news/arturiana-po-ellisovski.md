@@ -4,6 +4,13 @@
   "url": "/news/arturiana-po-ellisovski/",
   "original_url": "http://spidermedia.ru/news/arturiana-po-ellisovski",
   "archived": "https://web.archive.org/web/20120608015221/http://spidermedia.ru/news/arturiana-po-ellisovski",
+  "tags": [
+    "excalibur",
+    "warren-ellis",
+    "kino",
+    "uorren-ellis",
+    "ekskalibur"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

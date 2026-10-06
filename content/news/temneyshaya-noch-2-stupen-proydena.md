@@ -4,6 +4,12 @@
   "url": "/news/temneyshaya-noch-2-stupen-proydena/",
   "original_url": "http://spidermedia.ru/news/temneyshaya-noch-2-stupen-proydena",
   "archived": "https://web.archive.org/web/20241110010825/http://spidermedia.ru/news/temneyshaya-noch-2-stupen-proydena",
+  "tags": [
+    "temnejshaya-noch",
+    "geoff-johns",
+    "dc-comics",
+    "blackest-night"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

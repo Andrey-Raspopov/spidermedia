@@ -4,6 +4,12 @@
   "url": "/blog/plane-v/there-fetish-scene-out-there/",
   "original_url": "http://spidermedia.ru/blog/plane-v/there-fetish-scene-out-there",
   "archived": "https://web.archive.org/web/20130619061257/http://spidermedia.ru/blog/plane-v/there-fetish-scene-out-there",
+  "tags": [
+    "extreme-studios",
+    "glory",
+    "komiksy",
+    "ross-kempbell"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

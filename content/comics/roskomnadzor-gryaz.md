@@ -4,6 +4,11 @@
   "url": "/comics/roskomnadzor-gryaz/",
   "original_url": "http://spidermedia.ru/comics/roskomnadzor-gryaz",
   "archived": "https://web.archive.org/web/20251216115742/http://spidermedia.ru/comics/roskomnadzor-gryaz",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "roskomnadzor",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

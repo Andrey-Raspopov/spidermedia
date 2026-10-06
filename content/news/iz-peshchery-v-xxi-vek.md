@@ -4,6 +4,14 @@
   "url": "/news/iz-peshchery-v-xxi-vek/",
   "original_url": "http://spidermedia.ru/news/iz-peshchery-v-xxi-vek",
   "archived": "https://web.archive.org/web/20251211031159/http://spidermedia.ru/news/iz-peshchery-v-xxi-vek",
+  "tags": [
+    "endi-kubert",
+    "frejzer-irving",
+    "kris-sprauz",
+    "grant-morrison",
+    "dc-comics",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

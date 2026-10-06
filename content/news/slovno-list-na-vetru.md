@@ -4,6 +4,10 @@
   "url": "/news/slovno-list-na-vetru/",
   "original_url": "http://spidermedia.ru/news/slovno-list-na-vetru",
   "archived": "https://web.archive.org/web/20210128051508/http://spidermedia.ru/news/slovno-list-na-vetru",
+  "tags": [
+    "serenity",
+    "dark-horse"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

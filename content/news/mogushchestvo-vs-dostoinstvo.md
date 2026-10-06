@@ -4,6 +4,11 @@
   "url": "/news/mogushchestvo-vs-dostoinstvo/",
   "original_url": "http://spidermedia.ru/news/mogushchestvo-vs-dostoinstvo",
   "archived": "https://web.archive.org/web/20161117213948/http://spidermedia.ru:80/news/mogushchestvo-vs-dostoinstvo",
+  "tags": [
+    "marvel",
+    "fear-itself",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

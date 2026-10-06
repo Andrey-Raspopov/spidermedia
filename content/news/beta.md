@@ -4,6 +4,12 @@
   "url": "/news/beta/",
   "original_url": "http://spidermedia.ru/news/beta",
   "archived": "https://web.archive.org/web/20121121035852/http://spidermedia.ru:80/news/beta",
+  "tags": [
+    "alpha",
+    "alfa",
+    "dzhoshua-heyl-fialkov",
+    "nuno-plati"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

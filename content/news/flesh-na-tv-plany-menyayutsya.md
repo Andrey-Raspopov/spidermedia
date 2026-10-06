@@ -4,6 +4,11 @@
   "url": "/news/flesh-na-tv-plany-menyayutsya/",
   "original_url": "http://spidermedia.ru/news/flesh-na-tv-plany-menyayutsya",
   "archived": "https://web.archive.org/web/20250215000114/http://spidermedia.ru/news/flesh-na-tv-plany-menyayutsya",
+  "tags": [
+    "dc-comics",
+    "the-flash",
+    "green-arrow"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

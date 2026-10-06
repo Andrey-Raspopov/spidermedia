@@ -4,6 +4,10 @@
   "url": "/news/harvi-pikar-1939-2010/",
   "original_url": "http://spidermedia.ru/news/harvi-pikar-1939-2010",
   "archived": "https://web.archive.org/web/20120608152347/http://spidermedia.ru/news/harvi-pikar-1939-2010",
+  "tags": [
+    "komiksy",
+    "harvi-pikar"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

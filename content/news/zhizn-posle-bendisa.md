@@ -4,6 +4,12 @@
   "url": "/news/zhizn-posle-bendisa/",
   "original_url": "http://spidermedia.ru/news/zhizn-posle-bendisa",
   "archived": "https://web.archive.org/web/20260120151332/http://spidermedia.ru/news/zhizn-posle-bendisa",
+  "tags": [
+    "kelli-syu-dekonnik",
+    "stefano-kaselli",
+    "avengers",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

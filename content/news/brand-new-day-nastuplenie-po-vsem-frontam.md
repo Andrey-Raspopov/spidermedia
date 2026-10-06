@@ -4,6 +4,17 @@
   "url": "/news/brand-new-day-nastuplenie-po-vsem-frontam/",
   "original_url": "http://spidermedia.ru/news/brand-new-day-nastuplenie-po-vsem-frontam",
   "archived": "https://web.archive.org/web/20250906073335/http://spidermedia.ru/news/brand-new-day-nastuplenie-po-vsem-frontam",
+  "tags": [
+    "nosorog",
+    "mark-waid",
+    "mark-guggenhajm",
+    "adi-granov",
+    "rhino",
+    "marvel",
+    "electro",
+    "spider-man",
+    "elektro"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

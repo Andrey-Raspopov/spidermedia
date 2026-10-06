@@ -4,6 +4,11 @@
   "url": "/comics/sdcc-spidey/",
   "original_url": "https://spidermedia.ru/comics/sdcc-spidey",
   "archived": "https://web.archive.org/web/20260313112246/https://spidermedia.ru/comics/sdcc-spidey",
+  "tags": [
+    "marvel",
+    "san-diego-comic-con-international",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

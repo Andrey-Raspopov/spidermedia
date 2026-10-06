@@ -4,6 +4,11 @@
   "url": "/blog/plane-v/hellblazing-01-any-c-t-can-do/",
   "original_url": "https://spidermedia.ru/blog/plane-v/hellblazing-01-any-c-t-can-do",
   "archived": "https://web.archive.org/web/20260313112717/https://spidermedia.ru/blog/plane-v/hellblazing-01-any-c-t-can-do",
+  "tags": [
+    "vertigo",
+    "hellblazing",
+    "hellblazer"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

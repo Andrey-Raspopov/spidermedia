@@ -4,6 +4,9 @@
   "url": "/comics/broken-world-apokalipticheskij-saj-faj-triller-ot-boom-studios/",
   "original_url": "https://spidermedia.ru/comics/broken-world-apokalipticheskij-saj-faj-triller-ot-boom-studios",
   "archived": "https://web.archive.org/web/20260309191423/https://spidermedia.ru/comics/broken-world-apokalipticheskij-saj-faj-triller-ot-boom-studios",
+  "tags": [
+    "boom-studios"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

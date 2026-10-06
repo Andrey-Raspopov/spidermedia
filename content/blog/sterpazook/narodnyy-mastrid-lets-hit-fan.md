@@ -4,6 +4,9 @@
   "url": "/blog/sterpazook/narodnyy-mastrid-lets-hit-fan/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/narodnyy-mastrid-lets-hit-fan",
   "archived": "https://web.archive.org/web/20200127102828/http://spidermedia.ru:80/blog/sterpazook/narodnyy-mastrid-lets-hit-fan",
+  "tags": [
+    "mustread"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

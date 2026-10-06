@@ -4,6 +4,13 @@
   "url": "/news/zelenaya-opasnaya/",
   "original_url": "http://spidermedia.ru/news/zelenaya-opasnaya",
   "archived": "https://web.archive.org/web/20120613061848/http://spidermedia.ru/news/zelenaya-opasnaya",
+  "tags": [
+    "savage-she-hulk",
+    "art-0",
+    "komiksy",
+    "marvel",
+    "oblozhki"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

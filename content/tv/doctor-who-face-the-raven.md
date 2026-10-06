@@ -4,6 +4,9 @@
   "url": "/tv/doctor-who-face-the-raven/",
   "original_url": "http://spidermedia.ru/tv/doctor-who-face-the-raven",
   "archived": "https://web.archive.org/web/20251013191100/http://spidermedia.ru/tv/doctor-who-face-the-raven",
+  "tags": [
+    "doctor-who"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

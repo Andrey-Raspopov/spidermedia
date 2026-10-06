@@ -4,6 +4,14 @@
   "url": "/news/zub-za-zub/",
   "original_url": "http://spidermedia.ru/news/zub-za-zub",
   "archived": "https://web.archive.org/web/20250814212010/http://spidermedia.ru/news/zub-za-zub",
+  "tags": [
+    "sablezubyj",
+    "sajmon-byanchi",
+    "dzhef-loeb",
+    "sabretooth",
+    "wolverine",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

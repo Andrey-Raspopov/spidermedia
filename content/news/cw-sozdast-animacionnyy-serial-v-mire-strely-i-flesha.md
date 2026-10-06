@@ -4,6 +4,9 @@
   "url": "/news/cw-sozdast-animacionnyy-serial-v-mire-strely-i-flesha/",
   "original_url": "http://spidermedia.ru/news/cw-sozdast-animacionnyy-serial-v-mire-strely-i-flesha",
   "archived": "https://web.archive.org/web/20150501135442/http://spidermedia.ru/news/cw-sozdast-animacionnyy-serial-v-mire-strely-i-flesha",
+  "tags": [
+    "serialy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

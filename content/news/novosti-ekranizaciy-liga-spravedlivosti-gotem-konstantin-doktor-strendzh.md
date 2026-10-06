@@ -4,6 +4,18 @@
   "url": "/news/novosti-ekranizaciy-liga-spravedlivosti-gotem-konstantin-doktor-strendzh/",
   "original_url": "https://spidermedia.ru/news/novosti-ekranizaciy-liga-spravedlivosti-gotem-konstantin-doktor-strendzh",
   "archived": "https://web.archive.org/web/20260208211535/https://spidermedia.ru/news/novosti-ekranizaciy-liga-spravedlivosti-gotem-konstantin-doktor-strendzh",
+  "tags": [
+    "serialy",
+    "superman",
+    "marvel",
+    "justice-league",
+    "doctor-strange",
+    "dzhon-konstantin",
+    "gotem",
+    "batman",
+    "hellblazer",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

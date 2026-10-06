@@ -4,6 +4,9 @@
   "url": "/movies/pervyj-mstitel-protivostoyanie-itogi-tvorcheskogo-konkursa/",
   "original_url": "http://spidermedia.ru/movies/pervyj-mstitel-protivostoyanie-itogi-tvorcheskogo-konkursa",
   "archived": "https://web.archive.org/web/20260211180219/http://spidermedia.ru/movies/pervyj-mstitel-protivostoyanie-itogi-tvorcheskogo-konkursa",
+  "tags": [
+    "konkurs"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

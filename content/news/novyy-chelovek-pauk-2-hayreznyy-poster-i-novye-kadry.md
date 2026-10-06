@@ -4,6 +4,11 @@
   "url": "/news/novyy-chelovek-pauk-2-hayreznyy-poster-i-novye-kadry/",
   "original_url": "https://spidermedia.ru/news/novyy-chelovek-pauk-2-hayreznyy-poster-i-novye-kadry",
   "archived": "https://web.archive.org/web/20240807181005/https://spidermedia.ru/news/novyy-chelovek-pauk-2-hayreznyy-poster-i-novye-kadry",
+  "tags": [
+    "spider-man",
+    "postery",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

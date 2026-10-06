@@ -4,6 +4,9 @@
   "url": "/tv/mashinima-ekraniziruet-komiksy-dc/",
   "original_url": "https://spidermedia.ru/tv/mashinima-ekraniziruet-komiksy-dc",
   "archived": "https://web.archive.org/web/20251110223639/https://spidermedia.ru/tv/mashinima-ekraniziruet-komiksy-dc",
+  "tags": [
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

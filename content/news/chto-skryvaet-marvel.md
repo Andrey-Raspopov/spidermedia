@@ -4,6 +4,11 @@
   "url": "/news/chto-skryvaet-marvel/",
   "original_url": "http://spidermedia.ru/news/chto-skryvaet-marvel",
   "archived": "https://web.archive.org/web/20250807000327/http://spidermedia.ru/news/chto-skryvaet-marvel",
+  "tags": [
+    "guardians-of-the-galaxy",
+    "marvel",
+    "san-diego-comic-con-international"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

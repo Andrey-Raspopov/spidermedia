@@ -4,6 +4,19 @@
   "url": "/news/nochnye-spoylery/",
   "original_url": "https://spidermedia.ru/news/nochnye-spoylery",
   "archived": "https://web.archive.org/web/20260115044606/https://spidermedia.ru/news/nochnye-spoylery",
+  "tags": [
+    "dc-comics",
+    "doug-mahnke",
+    "shane-davis",
+    "green-lantern",
+    "patrick-gleason",
+    "patrik-glison",
+    "dag-manke",
+    "shejn-devis",
+    "spojlery",
+    "temnejshaya-noch",
+    "blackest-night"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

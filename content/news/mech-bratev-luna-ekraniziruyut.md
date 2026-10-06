@@ -4,6 +4,11 @@
   "url": "/news/mech-bratev-luna-ekraniziruyut/",
   "original_url": "http://spidermedia.ru/news/mech-bratev-luna-ekraniziruyut",
   "archived": "https://web.archive.org/web/20260121010332/http://spidermedia.ru/news/mech-bratev-luna-ekraniziruyut",
+  "tags": [
+    "the-sword",
+    "luna-brothers",
+    "image-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

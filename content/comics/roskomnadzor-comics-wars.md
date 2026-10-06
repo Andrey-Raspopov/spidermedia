@@ -4,6 +4,11 @@
   "url": "/comics/roskomnadzor-comics-wars/",
   "original_url": "https://spidermedia.ru/comics/roskomnadzor-comics-wars",
   "archived": "https://web.archive.org/web/20260307064537/https://spidermedia.ru/comics/roskomnadzor-comics-wars",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "roskomnadzor",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

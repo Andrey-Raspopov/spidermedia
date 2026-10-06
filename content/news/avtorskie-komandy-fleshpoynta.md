@@ -4,6 +4,15 @@
   "url": "/news/avtorskie-komandy-fleshpoynta/",
   "original_url": "http://spidermedia.ru/news/avtorskie-komandy-fleshpoynta",
   "archived": "https://web.archive.org/web/20251211033054/http://spidermedia.ru/news/avtorskie-komandy-fleshpoynta",
+  "tags": [
+    "skott-kolins",
+    "geoff-johns",
+    "brian-azzarello",
+    "scott-collins",
+    "the-flash",
+    "dc-comics",
+    "endi-kubert"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

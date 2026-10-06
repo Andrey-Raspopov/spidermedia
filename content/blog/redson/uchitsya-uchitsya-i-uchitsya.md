@@ -4,6 +4,10 @@
   "url": "/blog/redson/uchitsya-uchitsya-i-uchitsya/",
   "original_url": "http://spidermedia.ru/blog/redson/uchitsya-uchitsya-i-uchitsya",
   "archived": "https://web.archive.org/web/20120607154806/http://spidermedia.ru/blog/redson/uchitsya-uchitsya-i-uchitsya",
+  "tags": [
+    "vneshniy-mir",
+    "komiksy"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

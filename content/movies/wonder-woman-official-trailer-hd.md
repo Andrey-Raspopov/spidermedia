@@ -4,6 +4,10 @@
   "url": "/movies/wonder-woman-official-trailer-hd/",
   "original_url": "https://spidermedia.ru/movies/wonder-woman-official-trailer-hd",
   "archived": "https://web.archive.org/web/20260125131757/https://spidermedia.ru/movies/wonder-woman-official-trailer-hd",
+  "tags": [
+    "dc-comics",
+    "wonder-woman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

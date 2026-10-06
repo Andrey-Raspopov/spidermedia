@@ -4,6 +4,13 @@
   "url": "/blog/derden/mastrid-mangi-ot-derdena-7-run-bon-gu-run-pyon-pyongdzhun-0/",
   "original_url": "http://spidermedia.ru/blog/derden/mastrid-mangi-ot-derdena-7-run-bon-gu-run-pyon-pyongdzhun-0",
   "archived": "https://web.archive.org/web/20250906074546/http://spidermedia.ru/blog/derden/mastrid-mangi-ot-derdena-7-run-bon-gu-run-pyon-pyongdzhun-0",
+  "tags": [
+    "byung-jun-byun",
+    "run-bon-gu-run",
+    "begi-bongu-begi",
+    "manga",
+    "pyon-pyongdzhun"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,13 @@
   "url": "/news/novyy-chelovek-pauk-vysokoe-napryazhenie-treyler-s-superkubka/",
   "original_url": "http://spidermedia.ru/news/novyy-chelovek-pauk-vysokoe-napryazhenie-treyler-s-superkubka",
   "archived": "https://web.archive.org/web/20251107032123/http://spidermedia.ru/news/novyy-chelovek-pauk-vysokoe-napryazhenie-treyler-s-superkubka",
+  "tags": [
+    "endryu-garfild",
+    "emma-stoun",
+    "spider-man",
+    "mark-uebb",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

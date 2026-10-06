@@ -4,6 +4,15 @@
   "url": "/news/pervyy-vzglyad-punisher-4/",
   "original_url": "http://spidermedia.ru/news/pervyy-vzglyad-punisher-4",
   "archived": "https://web.archive.org/web/20120608023637/http://spidermedia.ru/news/pervyy-vzglyad-punisher-4",
+  "tags": [
+    "punisher",
+    "dzherom-opena",
+    "karatel",
+    "komiksy",
+    "oblozhki",
+    "preview-s",
+    "rik-remender"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

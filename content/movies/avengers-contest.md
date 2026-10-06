@@ -4,6 +4,11 @@
   "url": "/movies/avengers-contest/",
   "original_url": "http://spidermedia.ru/movies/avengers-contest",
   "archived": "https://web.archive.org/web/20251115022453/http://spidermedia.ru/movies/avengers-contest",
+  "tags": [
+    "marvel",
+    "avengers",
+    "viktorina"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

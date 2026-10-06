@@ -4,13 +4,16 @@
   "url": "/comics/all-things-valiant-16-week-39/",
   "original_url": "https://spidermedia.ru/comics/all-things-valiant-16-week-39",
   "archived": "https://web.archive.org/web/20260125063646/https://spidermedia.ru/comics/all-things-valiant-16-week-39",
+  "tags": [
+    "valiant-entertainment"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
 [![](https://spidermedia.ru/assets/cache/images/valiant/images/atv16/622x-cover-16a.2e9.jpg)](https://spidermedia.ru/assets/images/valiant/images/atv16/cover-16a.jpg)
 
-Закончилась эпичная [неделя Бэтмена](https://web.archive.org/web/20260117224118/http://spidermedia.ru/tags/batman-week), и пришла пора возвращаться к рабочему режиму. Но для All Things Valiant настало время вырасти из отцовского формата и вводить новые подразделы с разной степенью регулярности. Начиная с этого выпуска, вместе с обязательными рецензиями и периодическими новостями и анонсами, будут публиковаться интересные материалы по вселенной и издательству Valiant.
+Закончилась эпичная [неделя Бэтмена](../../tags/batman-week/), и пришла пора возвращаться к рабочему режиму. Но для All Things Valiant настало время вырасти из отцовского формата и вводить новые подразделы с разной степенью регулярности. Начиная с этого выпуска, вместе с обязательными рецензиями и периодическими новостями и анонсами, будут публиковаться интересные материалы по вселенной и издательству Valiant.
 
 **[Новости](./#news) **•** [Мысли](./#thoughts) ****•****[Профиль](./#profile) • [Рецензии](./#reviews)**
 

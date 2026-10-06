@@ -4,6 +4,10 @@
   "url": "/blog/plane-v/rekomendacii-boeviki/",
   "original_url": "https://spidermedia.ru/blog/plane-v/rekomendacii-boeviki",
   "archived": "https://web.archive.org/web/20260313121111/https://spidermedia.ru/blog/plane-v/rekomendacii-boeviki",
+  "tags": [
+    "punisher",
+    "mustread"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

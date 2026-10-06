@@ -4,6 +4,10 @@
   "url": "/movies/fantastic-four-in-film/",
   "original_url": "http://spidermedia.ru/movies/fantastic-four-in-film",
   "archived": "https://web.archive.org/web/20260209105838/http://spidermedia.ru/movies/fantastic-four-in-film",
+  "tags": [
+    "marvel",
+    "fantastic-four"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

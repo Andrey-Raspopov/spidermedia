@@ -4,6 +4,9 @@
   "url": "/comics/wondercon-2016-prezentaciya-perezapuska-hanna-barbera/",
   "original_url": "https://spidermedia.ru/comics/wondercon-2016-prezentaciya-perezapuska-hanna-barbera",
   "archived": "https://web.archive.org/web/20210120161724/https://spidermedia.ru/comics/wondercon-2016-prezentaciya-perezapuska-hanna-barbera",
+  "tags": [
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

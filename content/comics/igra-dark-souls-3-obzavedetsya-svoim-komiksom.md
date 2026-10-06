@@ -4,6 +4,9 @@
   "url": "/comics/igra-dark-souls-3-obzavedetsya-svoim-komiksom/",
   "original_url": "http://spidermedia.ru/comics/igra-dark-souls-3-obzavedetsya-svoim-komiksom",
   "archived": "https://web.archive.org/web/20190914102917/http://spidermedia.ru:80/comics/igra-dark-souls-3-obzavedetsya-svoim-komiksom",
+  "tags": [
+    "titan-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

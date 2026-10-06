@@ -4,6 +4,12 @@
   "url": "/news/syn-za-otca/",
   "original_url": "http://spidermedia.ru/news/syn-za-otca",
   "archived": "https://web.archive.org/web/20260214131120/http://spidermedia.ru/news/syn-za-otca",
+  "tags": [
+    "marvel",
+    "wolverine",
+    "nycc-2009",
+    "daken"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

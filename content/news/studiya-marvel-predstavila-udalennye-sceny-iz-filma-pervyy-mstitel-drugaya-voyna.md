@@ -4,6 +4,10 @@
   "url": "/news/studiya-marvel-predstavila-udalennye-sceny-iz-filma-pervyy-mstitel-drugaya-voyna/",
   "original_url": "https://spidermedia.ru/news/studiya-marvel-predstavila-udalennye-sceny-iz-filma-pervyy-mstitel-drugaya-voyna",
   "archived": "https://web.archive.org/web/20260209114807/https://spidermedia.ru/news/studiya-marvel-predstavila-udalennye-sceny-iz-filma-pervyy-mstitel-drugaya-voyna",
+  "tags": [
+    "captain-america",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

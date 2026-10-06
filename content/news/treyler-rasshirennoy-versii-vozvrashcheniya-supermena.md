@@ -4,6 +4,10 @@
   "url": "/news/treyler-rasshirennoy-versii-vozvrashcheniya-supermena/",
   "original_url": "http://spidermedia.ru/news/treyler-rasshirennoy-versii-vozvrashcheniya-supermena",
   "archived": "https://web.archive.org/web/20240803174541/http://spidermedia.ru/news/treyler-rasshirennoy-versii-vozvrashcheniya-supermena",
+  "tags": [
+    "superman",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

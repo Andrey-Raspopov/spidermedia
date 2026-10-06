@@ -4,6 +4,11 @@
   "url": "/news/obyavleno-oficialnoe-nazvanie-filma-betmen-protiv-supermena/",
   "original_url": "http://spidermedia.ru/news/obyavleno-oficialnoe-nazvanie-filma-betmen-protiv-supermena",
   "archived": "https://web.archive.org/web/20250512121549/http://spidermedia.ru/news/obyavleno-oficialnoe-nazvanie-filma-betmen-protiv-supermena",
+  "tags": [
+    "superman",
+    "batman",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

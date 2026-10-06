@@ -4,6 +4,12 @@
   "url": "/news/semyuel-l-dzhekson-stanet-zlodeem/",
   "original_url": "http://spidermedia.ru/news/semyuel-l-dzhekson-stanet-zlodeem",
   "archived": "https://web.archive.org/web/20250715003345/http://spidermedia.ru/news/semyuel-l-dzhekson-stanet-zlodeem",
+  "tags": [
+    "semyuel-l.-dzhekson",
+    "mark-millar",
+    "tajnaya-sluzhba",
+    "icon-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

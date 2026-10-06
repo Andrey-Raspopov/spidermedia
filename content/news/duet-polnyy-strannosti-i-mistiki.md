@@ -4,6 +4,16 @@
   "url": "/news/duet-polnyy-strannosti-i-mistiki/",
   "original_url": "http://spidermedia.ru/news/duet-polnyy-strannosti-i-mistiki",
   "archived": "https://web.archive.org/web/20131227074217/http://spidermedia.ru:80/news/duet-polnyy-strannosti-i-mistiki",
+  "tags": [
+    "doctor-strange",
+    "spider-man",
+    "art-0",
+    "doktor-strendzh",
+    "komiksy",
+    "marvel",
+    "preview-s",
+    "chelovek-pauk"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

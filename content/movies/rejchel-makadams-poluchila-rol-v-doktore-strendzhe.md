@@ -4,6 +4,10 @@
   "url": "/movies/rejchel-makadams-poluchila-rol-v-doktore-strendzhe/",
   "original_url": "https://spidermedia.ru/movies/rejchel-makadams-poluchila-rol-v-doktore-strendzhe",
   "archived": "https://web.archive.org/web/20241106085443/https://spidermedia.ru/movies/rejchel-makadams-poluchila-rol-v-doktore-strendzhe",
+  "tags": [
+    "marvel",
+    "doctor-strange"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/tv/heroes-reborn-tv-series-trailer/",
   "original_url": "https://spidermedia.ru/tv/heroes-reborn-tv-series-trailer",
   "archived": "https://web.archive.org/web/20240908073746/https://spidermedia.ru/tv/heroes-reborn-tv-series-trailer",
+  "tags": [
+    "geroi",
+    "san-diego-comic-con-international"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

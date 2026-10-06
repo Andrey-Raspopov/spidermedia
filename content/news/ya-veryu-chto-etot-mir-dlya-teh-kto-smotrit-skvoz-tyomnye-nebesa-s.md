@@ -4,6 +4,10 @@
   "url": "/news/ya-veryu-chto-etot-mir-dlya-teh-kto-smotrit-skvoz-tyomnye-nebesa-s/",
   "original_url": "http://spidermedia.ru/news/ya-veryu-chto-etot-mir-dlya-teh-kto-smotrit-skvoz-tyomnye-nebesa-s",
   "archived": "https://web.archive.org/web/20251107001910/http://spidermedia.ru/news/ya-veryu-chto-etot-mir-dlya-teh-kto-smotrit-skvoz-tyomnye-nebesa-s",
+  "tags": [
+    "superman",
+    "kristofer-riv"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

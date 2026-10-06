@@ -4,6 +4,10 @@
   "url": "/podcast/spidercast-003-prizrachnyy-samogonshchik/",
   "original_url": "http://spidermedia.ru/podcast/spidercast-003-prizrachnyy-samogonshchik",
   "archived": "https://web.archive.org/web/20260120153610/http://spidermedia.ru/podcast/spidercast-003-prizrachnyy-samogonshchik",
+  "tags": [
+    "spidermedia",
+    "spidercast"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

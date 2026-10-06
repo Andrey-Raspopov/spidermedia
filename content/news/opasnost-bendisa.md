@@ -4,6 +4,13 @@
   "url": "/news/opasnost-bendisa/",
   "original_url": "https://spidermedia.ru/news/opasnost-bendisa",
   "archived": "https://web.archive.org/web/20250322060327/https://spidermedia.ru/news/opasnost-bendisa",
+  "tags": [
+    "rafa-sendoval",
+    "bryan-hitch",
+    "brian-michael-bendis",
+    "ultimate",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

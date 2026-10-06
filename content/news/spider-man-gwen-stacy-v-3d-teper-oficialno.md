@@ -4,6 +4,11 @@
   "url": "/news/spider-man-gwen-stacy-v-3d-teper-oficialno/",
   "original_url": "http://spidermedia.ru/news/spider-man-gwen-stacy-v-3d-teper-oficialno",
   "archived": "https://web.archive.org/web/20240623021502/http://spidermedia.ru/news/spider-man-gwen-stacy-v-3d-teper-oficialno",
+  "tags": [
+    "gven-stejsi",
+    "gwen-stacy",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

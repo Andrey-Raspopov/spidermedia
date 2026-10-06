@@ -4,6 +4,9 @@
   "url": "/blog/trupoed/manifest-perevodchikov-komiksov/",
   "original_url": "http://spidermedia.ru/blog/trupoed/manifest-perevodchikov-komiksov",
   "archived": "https://web.archive.org/web/20220627181136/http://spidermedia.ru/blog/trupoed/manifest-perevodchikov-komiksov",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/news/hellboymedia-news-novaya-seriya-hellboy-and-bprd/",
   "original_url": "http://spidermedia.ru/news/hellboymedia-news-novaya-seriya-hellboy-and-bprd",
   "archived": "https://web.archive.org/web/20260124045204/http://spidermedia.ru/news/hellboymedia-news-novaya-seriya-hellboy-and-bprd",
+  "tags": [
+    "novosti",
+    "hellboymedia"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

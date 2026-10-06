@@ -4,6 +4,11 @@
   "url": "/news/jarvis-dlya-ios/",
   "original_url": "http://spidermedia.ru/news/jarvis-dlya-ios",
   "archived": "https://web.archive.org/web/20260309184605/http://spidermedia.ru/news/jarvis-dlya-ios",
+  "tags": [
+    "marvel",
+    "igry",
+    "iron-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

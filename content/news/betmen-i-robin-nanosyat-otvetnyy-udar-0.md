@@ -4,6 +4,16 @@
   "url": "/news/betmen-i-robin-nanosyat-otvetnyy-udar-0/",
   "original_url": "http://spidermedia.ru/news/betmen-i-robin-nanosyat-otvetnyy-udar-0",
   "archived": "https://web.archive.org/web/20250814215502/http://spidermedia.ru/news/betmen-i-robin-nanosyat-otvetnyy-udar-0",
+  "tags": [
+    "frenk-kuajtli",
+    "filip-tan",
+    "robin",
+    "grant-morrison",
+    "philip-tan",
+    "frank-quitely",
+    "dc-comics",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

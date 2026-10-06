@@ -4,6 +4,10 @@
   "url": "/tv/dzhessika-dzhons-sezon-1/",
   "original_url": "https://spidermedia.ru/tv/dzhessika-dzhons-sezon-1",
   "archived": "https://web.archive.org/web/20260211084749/https://spidermedia.ru/tv/dzhessika-dzhons-sezon-1",
+  "tags": [
+    "marvel",
+    "jessica-jones-alias"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,17 @@
   "url": "/news/novyy-tv-spot-i-mnogo-novyh-kadrov-iz-filma-zheleznyy-chelovek-2/",
   "original_url": "http://spidermedia.ru/news/novyy-tv-spot-i-mnogo-novyh-kadrov-iz-filma-zheleznyy-chelovek-2",
   "archived": "https://web.archive.org/web/20120607164613/http://spidermedia.ru/news/novyy-tv-spot-i-mnogo-novyh-kadrov-iz-filma-zheleznyy-chelovek-2",
+  "tags": [
+    "iron-man",
+    "iron-man-2",
+    "art-0",
+    "dzhon-favro",
+    "zheleznyy-chelovek",
+    "zheleznyy-chelovek-2",
+    "kino",
+    "komiksy",
+    "marvel"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

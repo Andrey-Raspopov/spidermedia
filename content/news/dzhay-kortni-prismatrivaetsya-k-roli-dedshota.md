@@ -4,6 +4,12 @@
   "url": "/news/dzhay-kortni-prismatrivaetsya-k-roli-dedshota/",
   "original_url": "https://spidermedia.ru/news/dzhay-kortni-prismatrivaetsya-k-roli-dedshota",
   "archived": "https://web.archive.org/web/20251206034452/https://spidermedia.ru/news/dzhay-kortni-prismatrivaetsya-k-roli-dedshota",
+  "tags": [
+    "suicide-squad",
+    "kasting",
+    "dedshot",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

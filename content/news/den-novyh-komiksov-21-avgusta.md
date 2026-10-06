@@ -4,6 +4,9 @@
   "url": "/news/den-novyh-komiksov-21-avgusta/",
   "original_url": "http://spidermedia.ru/news/den-novyh-komiksov-21-avgusta",
   "archived": "https://web.archive.org/web/20260307054551/http://spidermedia.ru/news/den-novyh-komiksov-21-avgusta",
+  "tags": [
+    "den-novyh-komiksov"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,14 @@
   "url": "/news/wonderful-wizard-oz-5-prevyu/",
   "original_url": "https://spidermedia.ru/news/wonderful-wizard-oz-5-prevyu",
   "archived": "https://web.archive.org/web/20260208194633/https://spidermedia.ru/news/wonderful-wizard-oz-5-prevyu",
+  "tags": [
+    "erik-shenauer",
+    "skotti-yang",
+    "preview",
+    "skottie-young",
+    "marvel",
+    "eric-shanower"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

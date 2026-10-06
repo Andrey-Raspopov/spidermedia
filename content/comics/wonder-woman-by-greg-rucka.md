@@ -4,6 +4,11 @@
   "url": "/comics/wonder-woman-by-greg-rucka/",
   "original_url": "https://spidermedia.ru/comics/wonder-woman-by-greg-rucka",
   "archived": "https://web.archive.org/web/20260305231959/https://spidermedia.ru/comics/wonder-woman-by-greg-rucka",
+  "tags": [
+    "dc-comics",
+    "greg-rakka",
+    "wonder-woman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

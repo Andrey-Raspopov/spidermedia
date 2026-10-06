@@ -4,6 +4,11 @@
   "url": "/comics/roskomnadzor-ni-minuty-pokoya/",
   "original_url": "http://spidermedia.ru/comics/roskomnadzor-ni-minuty-pokoya",
   "archived": "https://web.archive.org/web/20240424004913/http://spidermedia.ru/comics/roskomnadzor-ni-minuty-pokoya",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "roskomnadzor",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

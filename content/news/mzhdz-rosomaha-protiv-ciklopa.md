@@ -4,11 +4,17 @@
   "url": "/news/mzhdz-rosomaha-protiv-ciklopa/",
   "original_url": "http://spidermedia.ru/news/mzhdz-rosomaha-protiv-ciklopa",
   "archived": "https://web.archive.org/web/20251117001939/http://spidermedia.ru/news/mzhdz-rosomaha-protiv-ciklopa",
+  "tags": [
+    "mnenie",
+    "mzhdz",
+    "x-men",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](https://web.archive.org/web/20251117001939im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz.png)](https://web.archive.org/web/20260206215846/http://spidermedia.ru/tags/mzhdz)
+[![](https://web.archive.org/web/20251117001939im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz.png)](../../tags/mzhdz/)
 ![](https://web.archive.org/web/20251117001939im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/wolvieandcyclops.jpg)
 Вышли первые выпуски обеих новых флагманских серий икс-франчайза - **Wolverine and The X-Men** и **Uncanny X-Men**. Ощущаете радостное волнение? Заинтригованы? А должны быть? Пожалуй, должны. Сейчас попробуем объяснить, почему.
 [**Расшифровка системы оценок**](../../blog/redson/mzhdz-odin-vy-kak-hotite-ya-kak-hochu/)

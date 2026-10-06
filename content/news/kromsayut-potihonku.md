@@ -4,6 +4,10 @@
   "url": "/news/kromsayut-potihonku/",
   "original_url": "https://spidermedia.ru/news/kromsayut-potihonku",
   "archived": "https://web.archive.org/web/20250913023220/https://spidermedia.ru/news/kromsayut-potihonku",
+  "tags": [
+    "hackslash",
+    "devils-due-publishing"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

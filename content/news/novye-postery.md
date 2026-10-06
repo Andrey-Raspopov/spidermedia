@@ -4,6 +4,11 @@
   "url": "/news/novye-postery/",
   "original_url": "http://spidermedia.ru/news/novye-postery",
   "archived": "https://web.archive.org/web/20260117220235/http://spidermedia.ru/news/novye-postery",
+  "tags": [
+    "spider-man",
+    "marvel",
+    "prizrachnyj-gonshhik"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

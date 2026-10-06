@@ -4,6 +4,16 @@
   "url": "/news/burya-pered-svadboy/",
   "original_url": "http://spidermedia.ru/news/burya-pered-svadboy",
   "archived": "https://web.archive.org/web/20251115035951/http://spidermedia.ru/news/burya-pered-svadboy",
+  "tags": [
+    "patrik-ollife",
+    "olive-kojpel",
+    "mark-guggenhajm",
+    "ben-rejli",
+    "art-0",
+    "alyj-pauk",
+    "scarlet-spider",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

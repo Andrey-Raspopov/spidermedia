@@ -4,6 +4,12 @@
   "url": "/news/one-more-diana/",
   "original_url": "http://spidermedia.ru/news/one-more-diana",
   "archived": "https://web.archive.org/web/20251208063207/http://spidermedia.ru/news/one-more-diana",
+  "tags": [
+    "wonder-woman",
+    "don-kramer",
+    "jim-lee",
+    "j-michael-straczynski"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/news/bronirovannye-voyny/",
   "original_url": "http://spidermedia.ru/news/bronirovannye-voyny",
   "archived": "https://web.archive.org/web/20260121000754/http://spidermedia.ru/news/bronirovannye-voyny",
+  "tags": [
+    "marvel",
+    "iron-man",
+    "skotti-yang"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

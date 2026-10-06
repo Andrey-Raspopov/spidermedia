@@ -4,6 +4,11 @@
   "url": "/news/mstiteli-era-altrona-hayreznye-postery-i-tainstvennyy-anons&psig=AOvVaw3IwrtYSUlkk3G99ao-3rCF&ust=1551358735002060&psig=AOvVaw3IwrtYSUlkk3G99ao-3rCF&ust=1551358735002060/",
   "original_url": "http://spidermedia.ru/news/mstiteli-era-altrona-hayreznye-postery-i-tainstvennyy-anons&psig=AOvVaw3IwrtYSUlkk3G99ao-3rCF&ust=1551358735002060&psig=AOvVaw3IwrtYSUlkk3G99ao-3rCF&ust=1551358735002060",
   "archived": "https://web.archive.org/web/20200131103941/http://spidermedia.ru:80/news/mstiteli-era-altrona-hayreznye-postery-i-tainstvennyy-anons&psig=AOvVaw3IwrtYSUlkk3G99ao-3rCF&ust=1551358735002060&psig=AOvVaw3IwrtYSUlkk3G99ao-3rCF&ust=1551358735002060",
+  "tags": [
+    "avengers",
+    "marvel",
+    "iron-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

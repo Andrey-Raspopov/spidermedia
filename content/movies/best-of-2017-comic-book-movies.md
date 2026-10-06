@@ -4,6 +4,9 @@
   "url": "/movies/best-of-2017-comic-book-movies/",
   "original_url": "http://spidermedia.ru/movies/best-of-2017-comic-book-movies",
   "archived": "https://web.archive.org/web/20250814214727/http://spidermedia.ru/movies/best-of-2017-comic-book-movies",
+  "tags": [
+    "itogi-goda"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

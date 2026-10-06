@@ -4,6 +4,10 @@
   "url": "/comics/anonsy-boom-studios-jonesy-mighty-morphin-power-rangers/",
   "original_url": "https://spidermedia.ru/comics/anonsy-boom-studios-jonesy-mighty-morphin-power-rangers",
   "archived": "https://web.archive.org/web/20260305224632/https://spidermedia.ru/comics/anonsy-boom-studios-jonesy-mighty-morphin-power-rangers",
+  "tags": [
+    "boom-studios",
+    "moguchie-rejndzhery"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

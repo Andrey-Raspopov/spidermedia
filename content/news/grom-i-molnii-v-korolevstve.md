@@ -4,6 +4,15 @@
   "url": "/news/grom-i-molnii-v-korolevstve/",
   "original_url": "http://spidermedia.ru/news/grom-i-molnii-v-korolevstve",
   "archived": "https://web.archive.org/web/20251014043339/http://spidermedia.ru/news/grom-i-molnii-v-korolevstve",
+  "tags": [
+    "loki",
+    "karlos-pacheko",
+    "dzhonatan-hikman",
+    "art-0",
+    "ultimate",
+    "thor",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

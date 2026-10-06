@@ -4,6 +4,9 @@
   "url": "/news/pervyy-mstitel-kapitan-amerika-peggi-karter/",
   "original_url": "http://spidermedia.ru/news/pervyy-mstitel-kapitan-amerika-peggi-karter",
   "archived": "https://web.archive.org/web/20241212085232/http://spidermedia.ru/news/pervyy-mstitel-kapitan-amerika-peggi-karter",
+  "tags": [
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

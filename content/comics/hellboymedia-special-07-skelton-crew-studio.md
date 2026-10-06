@@ -4,6 +4,10 @@
   "url": "/comics/hellboymedia-special-07-skelton-crew-studio/",
   "original_url": "https://spidermedia.ru/comics/hellboymedia-special-07-skelton-crew-studio",
   "archived": "https://web.archive.org/web/20260206230705/https://spidermedia.ru/comics/hellboymedia-special-07-skelton-crew-studio",
+  "tags": [
+    "hellboymedia",
+    "obzor"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

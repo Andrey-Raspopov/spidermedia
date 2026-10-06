@@ -4,6 +4,11 @@
   "url": "/news/daredevil-vozvrashchaetsya/",
   "original_url": "http://spidermedia.ru/news/daredevil-vozvrashchaetsya",
   "archived": "https://web.archive.org/web/20250807230836/http://spidermedia.ru/news/daredevil-vozvrashchaetsya",
+  "tags": [
+    "mark-waid",
+    "chris-samnee",
+    "dardevil"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/blog/alex/geroi-heroes-s4-5-ep6/",
   "original_url": "https://spidermedia.ru/blog/alex/geroi-heroes-s4-5-ep6",
   "archived": "https://web.archive.org/web/20221204212247/https://spidermedia.ru/blog/alex/geroi-heroes-s4-5-ep6",
+  "tags": [
+    "heroes",
+    "geroi",
+    "serialy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

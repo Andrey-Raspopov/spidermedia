@@ -4,6 +4,9 @@
   "url": "/tv/riverdale-cast-1/",
   "original_url": "http://spidermedia.ru/tv/riverdale-cast-1",
   "archived": "https://web.archive.org/web/20260208192143/http://spidermedia.ru/tv/riverdale-cast-1",
+  "tags": [
+    "archie-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

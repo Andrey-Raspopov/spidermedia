@@ -4,6 +4,10 @@
   "url": "/news/specialnyy-vypusk-kinokomiksa/",
   "original_url": "http://spidermedia.ru/news/specialnyy-vypusk-kinokomiksa",
   "archived": "https://web.archive.org/web/20190810123922/http://spidermedia.ru:80/news/specialnyy-vypusk-kinokomiksa",
+  "tags": [
+    "obitaemyj-ostrov",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

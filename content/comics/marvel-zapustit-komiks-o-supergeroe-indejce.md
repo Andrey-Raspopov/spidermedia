@@ -4,6 +4,9 @@
   "url": "/comics/marvel-zapustit-komiks-o-supergeroe-indejce/",
   "original_url": "https://spidermedia.ru/comics/marvel-zapustit-komiks-o-supergeroe-indejce",
   "archived": "https://web.archive.org/web/20251112174048/https://spidermedia.ru/comics/marvel-zapustit-komiks-o-supergeroe-indejce",
+  "tags": [
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

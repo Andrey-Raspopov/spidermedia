@@ -4,6 +4,10 @@
   "url": "/movies/i-kill-giants/",
   "original_url": "https://spidermedia.ru/movies/i-kill-giants",
   "archived": "https://web.archive.org/web/20260208201633/https://spidermedia.ru/movies/i-kill-giants",
+  "tags": [
+    "image-comics",
+    "joe-kelly"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

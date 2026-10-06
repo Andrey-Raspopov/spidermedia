@@ -4,6 +4,9 @@
   "url": "/games/telltale-marvel-game/",
   "original_url": "https://spidermedia.ru/games/telltale-marvel-game",
   "archived": "https://web.archive.org/web/20251207103154/https://spidermedia.ru/games/telltale-marvel-game",
+  "tags": [
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

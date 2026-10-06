@@ -4,6 +4,13 @@
   "url": "/news/sdcc10-smallville/",
   "original_url": "https://spidermedia.ru/news/sdcc10-smallville",
   "archived": "https://web.archive.org/web/20250906075130/https://spidermedia.ru/news/sdcc10-smallville",
+  "tags": [
+    "superman",
+    "smollvill",
+    "san-diego-comic-con-international",
+    "smallville",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

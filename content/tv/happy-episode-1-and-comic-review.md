@@ -4,6 +4,11 @@
   "url": "/tv/happy-episode-1-and-comic-review/",
   "original_url": "https://spidermedia.ru/tv/happy-episode-1-and-comic-review",
   "archived": "https://web.archive.org/web/20251111074338/https://spidermedia.ru/tv/happy-episode-1-and-comic-review",
+  "tags": [
+    "grant-morrison",
+    "derik-robertson",
+    "image-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

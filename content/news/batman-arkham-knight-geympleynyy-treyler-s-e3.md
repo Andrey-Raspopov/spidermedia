@@ -4,6 +4,13 @@
   "url": "/news/batman-arkham-knight-geympleynyy-treyler-s-e3/",
   "original_url": "http://spidermedia.ru/news/batman-arkham-knight-geympleynyy-treyler-s-e3",
   "archived": "https://web.archive.org/web/20260117220744/http://spidermedia.ru/news/batman-arkham-knight-geympleynyy-treyler-s-e3",
+  "tags": [
+    "trejlery",
+    "igry",
+    "batman",
+    "dc-comics",
+    "arkham-asylum"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

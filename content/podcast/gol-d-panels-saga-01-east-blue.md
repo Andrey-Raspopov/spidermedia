@@ -4,6 +4,10 @@
   "url": "/podcast/gol-d-panels-saga-01-east-blue/",
   "original_url": "https://spidermedia.ru/podcast/gol-d-panels-saga-01-east-blue",
   "archived": "https://web.archive.org/web/20251115031444/https://spidermedia.ru/podcast/gol-d-panels-saga-01-east-blue",
+  "tags": [
+    "gold-panels",
+    "on-panels"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

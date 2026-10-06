@@ -4,6 +4,10 @@
   "url": "/news/novyy-kadr-iz-seriala-strela/",
   "original_url": "http://spidermedia.ru/news/novyy-kadr-iz-seriala-strela",
   "archived": "https://web.archive.org/web/20250920200844/http://spidermedia.ru/news/novyy-kadr-iz-seriala-strela",
+  "tags": [
+    "dc-comics",
+    "green-arrow"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

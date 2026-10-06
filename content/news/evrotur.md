@@ -4,6 +4,14 @@
   "url": "/news/evrotur/",
   "original_url": "https://spidermedia.ru/news/evrotur",
   "archived": "https://web.archive.org/web/20251006131354/https://spidermedia.ru/news/evrotur",
+  "tags": [
+    "dc-comics",
+    "batman",
+    "robin",
+    "krasnyj-robin",
+    "red-robin",
+    "christopher-yost"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

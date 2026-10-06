@@ -4,6 +4,14 @@
   "url": "/news/zolotoy-avgust/",
   "original_url": "http://spidermedia.ru/news/zolotoy-avgust",
   "archived": "https://web.archive.org/web/20120607192812/http://spidermedia.ru/news/zolotoy-avgust",
+  "tags": [
+    "70th-anniversary-special",
+    "devid-lafem",
+    "karl-kessel",
+    "komiksy",
+    "marvel",
+    "huan-do"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

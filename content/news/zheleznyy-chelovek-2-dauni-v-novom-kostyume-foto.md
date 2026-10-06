@@ -4,6 +4,15 @@
   "url": "/news/zheleznyy-chelovek-2-dauni-v-novom-kostyume-foto/",
   "original_url": "http://spidermedia.ru/news/zheleznyy-chelovek-2-dauni-v-novom-kostyume-foto",
   "archived": "https://web.archive.org/web/20120608232611/http://spidermedia.ru/news/zheleznyy-chelovek-2-dauni-v-novom-kostyume-foto",
+  "tags": [
+    "iron-man",
+    "iron-man-2",
+    "zheleznyy-chelovek",
+    "zheleznyy-chelovek-2",
+    "kino",
+    "robert-dauni-ml",
+    "foto"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

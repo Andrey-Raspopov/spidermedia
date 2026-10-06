@@ -4,6 +4,13 @@
   "url": "/blog/silver/dva-bolshih-i-chernyh/",
   "original_url": "http://spidermedia.ru/blog/silver/dva-bolshih-i-chernyh",
   "archived": "https://web.archive.org/web/20250324160938/http://spidermedia.ru/blog/silver/dva-bolshih-i-chernyh",
+  "tags": [
+    "styuart-immonen",
+    "brian-michael-bendis",
+    "ultimate",
+    "marvel",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

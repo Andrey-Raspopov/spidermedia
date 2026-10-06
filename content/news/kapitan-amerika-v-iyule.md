@@ -4,6 +4,14 @@
   "url": "/news/kapitan-amerika-v-iyule/",
   "original_url": "http://spidermedia.ru/news/kapitan-amerika-v-iyule",
   "archived": "https://web.archive.org/web/20120607180647/http://spidermedia.ru/news/kapitan-amerika-v-iyule",
+  "tags": [
+    "captain-america",
+    "kapitan-amerika",
+    "kino",
+    "komiksy",
+    "marvel",
+    "ugadayka"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

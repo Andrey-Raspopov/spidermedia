@@ -4,6 +4,11 @@
   "url": "/blog/samm-o/bolshe-disi-mysley-chast-2-originalnye-personazhi-zhenshchiny-lyogkogo-povedeniya-i/",
   "original_url": "http://spidermedia.ru/blog/samm-o/bolshe-disi-mysley-chast-2-originalnye-personazhi-zhenshchiny-lyogkogo-povedeniya-i",
   "archived": "https://web.archive.org/web/20150501190119/http://spidermedia.ru/blog/samm-o/bolshe-disi-mysley-chast-2-originalnye-personazhi-zhenshchiny-lyogkogo-povedeniya-i",
+  "tags": [
+    "dc-comics",
+    "bdsm",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

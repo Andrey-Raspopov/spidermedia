@@ -4,6 +4,11 @@
   "url": "/news/syfy-ekraniziruet-komiks-booster-gold/",
   "original_url": "https://spidermedia.ru/news/syfy-ekraniziruet-komiks-booster-gold",
   "archived": "https://web.archive.org/web/20260125115407/https://spidermedia.ru/news/syfy-ekraniziruet-komiks-booster-gold",
+  "tags": [
+    "serialy",
+    "buster-gold",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,11 +4,14 @@
   "url": "/blog/redson/all-new-mzhdz-superior-spidermedia-0/",
   "original_url": "http://spidermedia.ru/blog/redson/all-new-mzhdz-superior-spidermedia-0",
   "archived": "https://web.archive.org/web/20190917015836/http://spidermedia.ru:80/blog/redson/all-new-mzhdz-superior-spidermedia-0",
+  "tags": [
+    "mzhdz"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](https://web.archive.org/web/20190917015836im_/http://i.imgur.com/0zaHqKf.jpg "Автор логотипа - Ярослав Астапеев")](https://web.archive.org/web/20260206215846/http://spidermedia.ru/tags/mzhdz) Мы очень любим рецензировать комиксы. Сегодняшние темы: в очередной раз кончается **X-Factor** Питера Дэвида; Дэмиен Уэйн воскрес и вернулся на страницы серии **Batman and Robin**; комикс **Copperhead** проводит новую попытку совместить фантастику и вестерн; Алан Мур пишет **Crossed**; **Supergirl**  — лучший комикс DC, который вы не читаете; а **Superior Iron Man** — просто песня.
+[![](https://web.archive.org/web/20190917015836im_/http://i.imgur.com/0zaHqKf.jpg "Автор логотипа - Ярослав Астапеев")](../../../tags/mzhdz/) Мы очень любим рецензировать комиксы. Сегодняшние темы: в очередной раз кончается **X-Factor** Питера Дэвида; Дэмиен Уэйн воскрес и вернулся на страницы серии **Batman and Robin**; комикс **Copperhead** проводит новую попытку совместить фантастику и вестерн; Алан Мур пишет **Crossed**; **Supergirl**  — лучший комикс DC, который вы не читаете; а **Superior Iron Man** — просто песня.
 
 ![](https://web.archive.org/web/20190917015836im_/http://i.imgur.com/NB5WtMQ.jpg)[**Расшифровка системы оценок**](../mzhdz-odin-vy-kak-hotite-ya-kak-hochu/) [**Архив рецензий**](../mzhdz-arhiv/)
 

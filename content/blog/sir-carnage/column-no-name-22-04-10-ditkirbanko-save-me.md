@@ -4,6 +4,12 @@
   "url": "/blog/sir-carnage/column-no-name-22-04-10-ditkirbanko-save-me/",
   "original_url": "https://spidermedia.ru/blog/sir-carnage/column-no-name-22-04-10-ditkirbanko-save-me",
   "archived": "https://web.archive.org/web/20250806090209/https://spidermedia.ru/blog/sir-carnage/column-no-name-22-04-10-ditkirbanko-save-me",
+  "tags": [
+    "vertigo",
+    "marvel",
+    "dc-comics",
+    "the-column-with-no-name"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

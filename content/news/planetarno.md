@@ -4,6 +4,13 @@
   "url": "/news/planetarno/",
   "original_url": "http://spidermedia.ru/news/planetarno",
   "archived": "https://web.archive.org/web/20120607104603/http://spidermedia.ru/news/planetarno",
+  "tags": [
+    "planetary",
+    "wildstorm",
+    "dzhon-kessedi",
+    "komiksy",
+    "uorren-ellis"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

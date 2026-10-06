@@ -4,6 +4,10 @@
   "url": "/news/cherepashki-nidzya-poster-i-banner/",
   "original_url": "https://spidermedia.ru/news/cherepashki-nidzya-poster-i-banner",
   "archived": "https://web.archive.org/web/20241011033941/https://spidermedia.ru/news/cherepashki-nidzya-poster-i-banner",
+  "tags": [
+    "ninja-turtles",
+    "postery"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

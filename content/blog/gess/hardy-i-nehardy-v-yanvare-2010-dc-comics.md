@@ -4,6 +4,13 @@
   "url": "/blog/gess/hardy-i-nehardy-v-yanvare-2010-dc-comics/",
   "original_url": "http://spidermedia.ru/blog/gess/hardy-i-nehardy-v-yanvare-2010-dc-comics",
   "archived": "https://web.archive.org/web/20251211031754/http://spidermedia.ru/blog/gess/hardy-i-nehardy-v-yanvare-2010-dc-comics",
+  "tags": [
+    "handnh",
+    "mnenie",
+    "dc-comics",
+    "vertigo",
+    "hc"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

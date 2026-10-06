@@ -4,6 +4,12 @@
   "url": "/news/beskonechnost-navsegda/",
   "original_url": "http://spidermedia.ru/news/beskonechnost-navsegda",
   "archived": "https://web.archive.org/web/20150507102923/http://spidermedia.ru/news/beskonechnost-navsegda",
+  "tags": [
+    "novye-bogi",
+    "kit-giffen",
+    "den-didio",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

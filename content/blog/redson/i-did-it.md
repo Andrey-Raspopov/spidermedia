@@ -4,6 +4,12 @@
   "url": "/blog/redson/i-did-it/",
   "original_url": "http://spidermedia.ru/blog/redson/i-did-it",
   "archived": "https://web.archive.org/web/20120610052148/http://spidermedia.ru/blog/redson/i-did-it",
+  "tags": [
+    "watchmen",
+    "alan-moore",
+    "komiksy",
+    "mnenie"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

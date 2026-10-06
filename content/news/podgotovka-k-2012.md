@@ -4,6 +4,11 @@
   "url": "/news/podgotovka-k-2012/",
   "original_url": "http://spidermedia.ru/news/podgotovka-k-2012",
   "archived": "https://web.archive.org/web/20240720062515/http://spidermedia.ru/news/podgotovka-k-2012",
+  "tags": [
+    "art-0",
+    "point-one",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

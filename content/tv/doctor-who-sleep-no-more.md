@@ -4,6 +4,9 @@
   "url": "/tv/doctor-who-sleep-no-more/",
   "original_url": "http://spidermedia.ru/tv/doctor-who-sleep-no-more",
   "archived": "https://web.archive.org/web/20250419061111/http://spidermedia.ru/tv/doctor-who-sleep-no-more",
+  "tags": [
+    "doctor-who"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

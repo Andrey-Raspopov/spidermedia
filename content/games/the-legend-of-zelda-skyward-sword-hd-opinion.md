@@ -4,6 +4,9 @@
   "url": "/games/the-legend-of-zelda-skyward-sword-hd-opinion/",
   "original_url": "http://spidermedia.ru/games/the-legend-of-zelda-skyward-sword-hd-opinion",
   "archived": "https://web.archive.org/web/20260208194941/http://spidermedia.ru/games/the-legend-of-zelda-skyward-sword-hd-opinion",
+  "tags": [
+    "nintendo"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

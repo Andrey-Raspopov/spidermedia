@@ -4,6 +4,9 @@
   "url": "/comics/cognetic-kollektivnyj-apokalipsis/",
   "original_url": "http://spidermedia.ru/comics/cognetic-kollektivnyj-apokalipsis",
   "archived": "https://web.archive.org/web/20260125063903/http://spidermedia.ru/comics/cognetic-kollektivnyj-apokalipsis",
+  "tags": [
+    "boom-studios"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

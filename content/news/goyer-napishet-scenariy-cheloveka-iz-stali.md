@@ -4,6 +4,12 @@
   "url": "/news/goyer-napishet-scenariy-cheloveka-iz-stali/",
   "original_url": "http://spidermedia.ru/news/goyer-napishet-scenariy-cheloveka-iz-stali",
   "archived": "https://web.archive.org/web/20250118045018/http://spidermedia.ru/news/goyer-napishet-scenariy-cheloveka-iz-stali",
+  "tags": [
+    "chelovek-iz-stali",
+    "superman",
+    "man-of-steel",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

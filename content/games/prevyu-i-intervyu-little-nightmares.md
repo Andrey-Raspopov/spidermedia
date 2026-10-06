@@ -4,6 +4,9 @@
   "url": "/games/prevyu-i-intervyu-little-nightmares/",
   "original_url": "http://spidermedia.ru/games/prevyu-i-intervyu-little-nightmares",
   "archived": "https://web.archive.org/web/20251110220749/http://spidermedia.ru/games/prevyu-i-intervyu-little-nightmares",
+  "tags": [
+    "gamermedia"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

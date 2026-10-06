@@ -4,6 +4,15 @@
   "url": "/news/art-prevyu-new-avengers-51/",
   "original_url": "https://spidermedia.ru/news/art-prevyu-new-avengers-51",
   "archived": "https://web.archive.org/web/20250422034717/https://spidermedia.ru/news/art-prevyu-new-avengers-51",
+  "tags": [
+    "preview",
+    "kris-bachalo",
+    "doctor-strange",
+    "brian-michael-bendis",
+    "billi-tan",
+    "marvel",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

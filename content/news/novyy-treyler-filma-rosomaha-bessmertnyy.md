@@ -4,6 +4,12 @@
   "url": "/news/novyy-treyler-filma-rosomaha-bessmertnyy/",
   "original_url": "http://spidermedia.ru/news/novyy-treyler-filma-rosomaha-bessmertnyy",
   "archived": "https://web.archive.org/web/20251006145707/http://spidermedia.ru/news/novyy-treyler-filma-rosomaha-bessmertnyy",
+  "tags": [
+    "trejlery",
+    "wolverine",
+    "marvel",
+    "x-men"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

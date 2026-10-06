@@ -4,6 +4,15 @@
   "url": "/news/novosti-marvel-studios-strazhi-galaktiki-2-agent-karter-agenty-shchita-i-chelovek-muravey/",
   "original_url": "https://spidermedia.ru/news/novosti-marvel-studios-strazhi-galaktiki-2-agent-karter-agenty-shchita-i-chelovek-muravey",
   "archived": "https://web.archive.org/web/20260309182647/https://spidermedia.ru/news/novosti-marvel-studios-strazhi-galaktiki-2-agent-karter-agenty-shchita-i-chelovek-muravey",
+  "tags": [
+    "ant-man",
+    "guardians-of-the-galaxy",
+    "marvel",
+    "san-diego-comic-con-international",
+    "agenty-shhita",
+    "agent-karter",
+    "serialy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

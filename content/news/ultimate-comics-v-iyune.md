@@ -4,6 +4,17 @@
   "url": "/news/ultimate-comics-v-iyune/",
   "original_url": "https://spidermedia.ru/news/ultimate-comics-v-iyune",
   "archived": "https://web.archive.org/web/20260208202441/https://spidermedia.ru/news/ultimate-comics-v-iyune",
+  "tags": [
+    "mark-millar",
+    "lejnil-frensis-yu",
+    "devid-lafuente",
+    "dzhef-loeb",
+    "artur-adams",
+    "ultimate",
+    "jeph-loeb",
+    "brian-michael-bendis",
+    "david-lafuente"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

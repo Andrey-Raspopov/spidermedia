@@ -4,6 +4,11 @@
   "url": "/blog/shargor/hellboymedia-art-konkurs-20-let-hellboya/",
   "original_url": "http://spidermedia.ru/blog/shargor/hellboymedia-art-konkurs-20-let-hellboya",
   "archived": "https://web.archive.org/web/20260309180103/http://spidermedia.ru/blog/shargor/hellboymedia-art-konkurs-20-let-hellboya",
+  "tags": [
+    "konkurs",
+    "hellboymedia",
+    "20-let-hellboya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/news/brayan-singer-rasskazhet-ob-apokalipsise/",
   "original_url": "http://spidermedia.ru/news/brayan-singer-rasskazhet-ob-apokalipsise",
   "archived": "https://web.archive.org/web/20170402105134/http://spidermedia.ru/news/brayan-singer-rasskazhet-ob-apokalipsise",
+  "tags": [
+    "x-men"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

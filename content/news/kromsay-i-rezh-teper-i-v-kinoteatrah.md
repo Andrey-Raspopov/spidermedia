@@ -4,6 +4,11 @@
   "url": "/news/kromsay-i-rezh-teper-i-v-kinoteatrah/",
   "original_url": "http://spidermedia.ru/news/kromsay-i-rezh-teper-i-v-kinoteatrah",
   "archived": "https://web.archive.org/web/20120610040439/http://spidermedia.ru/news/kromsay-i-rezh-teper-i-v-kinoteatrah",
+  "tags": [
+    "hack-slash",
+    "kino",
+    "komiksy"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

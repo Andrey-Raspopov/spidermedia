@@ -4,6 +4,11 @@
   "url": "/news/ograblenie-po-amerikanski/",
   "original_url": "https://spidermedia.ru/news/ograblenie-po-amerikanski",
   "archived": "https://web.archive.org/web/20260211185623/https://spidermedia.ru/news/ograblenie-po-amerikanski",
+  "tags": [
+    "mark-millar",
+    "lejnil-frensis-yu",
+    "supercrooks"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

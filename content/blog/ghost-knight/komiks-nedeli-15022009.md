@@ -4,6 +4,12 @@
   "url": "/blog/ghost-knight/komiks-nedeli-15022009/",
   "original_url": "http://spidermedia.ru/blog/ghost-knight/komiks-nedeli-15022009",
   "archived": "https://web.archive.org/web/20251107004912/http://spidermedia.ru/blog/ghost-knight/komiks-nedeli-15022009",
+  "tags": [
+    "recenziya",
+    "dc-comics",
+    "batman",
+    "neil-gaiman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

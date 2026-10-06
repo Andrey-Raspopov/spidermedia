@@ -4,6 +4,12 @@
   "url": "/news/kommissiya-2011/",
   "original_url": "https://spidermedia.ru/news/kommissiya-2011",
   "archived": "https://web.archive.org/web/20260211091017/https://spidermedia.ru/news/kommissiya-2011",
+  "tags": [
+    "sibi-cebulski",
+    "russian-comics",
+    "marvel",
+    "kommissiya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

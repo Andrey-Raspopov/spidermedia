@@ -4,6 +4,13 @@
   "url": "/news/durnaya-golova-nogam-pokoya-ne-daet/",
   "original_url": "http://spidermedia.ru/news/durnaya-golova-nogam-pokoya-ne-daet",
   "archived": "https://web.archive.org/web/20120608025728/http://spidermedia.ru/news/durnaya-golova-nogam-pokoya-ne-daet",
+  "tags": [
+    "deadpool",
+    "marvel-zombies",
+    "dedpul",
+    "komiksy",
+    "marvel"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

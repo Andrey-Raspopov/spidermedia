@@ -4,6 +4,15 @@
   "url": "/news/fear-itself-глобальное-событие-2011/",
   "original_url": "http://www.spidermedia.ru/news/fear-itself-%D0%B3%D0%BB%D0%BE%D0%B1%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5-%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D0%B5-2011",
   "archived": "https://web.archive.org/web/20110127094118/http://www.spidermedia.ru:80/news/fear-itself-%D0%B3%D0%BB%D0%BE%D0%B1%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5-%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D0%B5-2011",
+  "tags": [
+    "fear-itself",
+    "marvel",
+    "арт",
+    "воплощение-страха",
+    "комиксы",
+    "мэтт-фракшен",
+    "стюарт-иммонен"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

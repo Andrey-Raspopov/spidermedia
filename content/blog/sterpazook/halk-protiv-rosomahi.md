@@ -4,6 +4,15 @@
   "url": "/blog/sterpazook/halk-protiv-rosomahi/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/halk-protiv-rosomahi",
   "archived": "https://web.archive.org/web/20190719104748/http://spidermedia.ru/blog/sterpazook/halk-protiv-rosomahi",
+  "tags": [
+    "marvel",
+    "animaciya",
+    "hulk",
+    "wolverine",
+    "omega-red",
+    "lady-deathstrike",
+    "sabretooth"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

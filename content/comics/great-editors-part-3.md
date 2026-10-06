@@ -4,6 +4,10 @@
   "url": "/comics/great-editors-part-3/",
   "original_url": "http://spidermedia.ru/comics/great-editors-part-3",
   "archived": "https://web.archive.org/web/20250814211025/http://spidermedia.ru/comics/great-editors-part-3",
+  "tags": [
+    "old-komix",
+    "istoriya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,13 @@
   "url": "/news/watchmensch/",
   "original_url": "http://spidermedia.ru/news/watchmensch",
   "archived": "https://web.archive.org/web/20251013193446/http://spidermedia.ru/news/watchmensch",
+  "tags": [
+    "hraniteli",
+    "preview",
+    "spoof",
+    "watchmensch",
+    "parodiya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

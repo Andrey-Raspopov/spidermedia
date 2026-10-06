@@ -4,6 +4,14 @@
   "url": "/news/x-men-noir-vse-dorogi-vedut-v-madripur/",
   "original_url": "http://spidermedia.ru/news/x-men-noir-vse-dorogi-vedut-v-madripur",
   "archived": "https://web.archive.org/web/20200218020134/http://spidermedia.ru:80/news/x-men-noir-vse-dorogi-vedut-v-madripur",
+  "tags": [
+    "fred-van-lente",
+    "dennis-kalero",
+    "art-0",
+    "x-men",
+    "noirverse",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

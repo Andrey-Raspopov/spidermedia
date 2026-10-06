@@ -4,6 +4,14 @@
   "url": "/news/prevyu-ultimate-comics-x-2/",
   "original_url": "http://spidermedia.ru/news/prevyu-ultimate-comics-x-2",
   "archived": "https://web.archive.org/web/20190725211805/http://spidermedia.ru:80/news/prevyu-ultimate-comics-x-2",
+  "tags": [
+    "marvel",
+    "preview",
+    "dzhef-loeb",
+    "artur-adams",
+    "ultimate",
+    "jeph-loeb"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,17 @@
   "url": "/news/zheleznaya-obnova-ot-favro-obnovlenie/",
   "original_url": "http://spidermedia.ru/news/zheleznaya-obnova-ot-favro-obnovlenie",
   "archived": "https://web.archive.org/web/20120613033827/http://spidermedia.ru/news/zheleznaya-obnova-ot-favro-obnovlenie",
+  "tags": [
+    "iron-man",
+    "iron-man-2",
+    "video",
+    "dzhon-favro",
+    "zheleznyy-chelovek",
+    "zheleznyy-chelovek-2",
+    "kino",
+    "komiksy",
+    "marvel"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

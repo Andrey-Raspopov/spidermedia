@@ -4,6 +4,11 @@
   "url": "/news/ohotniki-za-privideniyami-zateryannye-vo-vremeni/",
   "original_url": "https://spidermedia.ru/news/ohotniki-za-privideniyami-zateryannye-vo-vremeni",
   "archived": "https://web.archive.org/web/20260314081956/https://spidermedia.ru/news/ohotniki-za-privideniyami-zateryannye-vo-vremeni",
+  "tags": [
+    "idw-publishing",
+    "preview",
+    "ghostbusters"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

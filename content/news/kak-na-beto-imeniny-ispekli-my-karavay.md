@@ -4,6 +4,12 @@
   "url": "/news/kak-na-beto-imeniny-ispekli-my-karavay/",
   "original_url": "http://spidermedia.ru/news/kak-na-beto-imeniny-ispekli-my-karavay",
   "archived": "https://web.archive.org/web/20251107004636/http://spidermedia.ru/news/kak-na-beto-imeniny-ispekli-my-karavay",
+  "tags": [
+    "batman",
+    "neil-gaiman",
+    "detective-comics",
+    "endi-kubert"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

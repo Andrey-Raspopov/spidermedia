@@ -4,6 +4,17 @@
   "url": "/news/betmen-i-robin-kemeron-i-klark-obnovlenie/",
   "original_url": "http://spidermedia.ru/news/betmen-i-robin-kemeron-i-klark-obnovlenie",
   "archived": "https://web.archive.org/web/20251205114857/http://spidermedia.ru/news/betmen-i-robin-kemeron-i-klark-obnovlenie",
+  "tags": [
+    "endi-klark",
+    "frenk-kuajtli",
+    "frejzer-irving",
+    "robin",
+    "kemeron-styuart",
+    "grant-morrison",
+    "frank-quitely",
+    "dc-comics",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

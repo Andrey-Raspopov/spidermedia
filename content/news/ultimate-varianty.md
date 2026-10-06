@@ -4,6 +4,14 @@
   "url": "/news/ultimate-varianty/",
   "original_url": "http://spidermedia.ru/news/ultimate-varianty",
   "archived": "https://web.archive.org/web/20260209115322/http://spidermedia.ru/news/ultimate-varianty",
+  "tags": [
+    "mark-bagli",
+    "sara-pichelli",
+    "art-0",
+    "x-men",
+    "spider-man",
+    "ultimate"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

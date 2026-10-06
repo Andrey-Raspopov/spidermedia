@@ -4,6 +4,11 @@
   "url": "/news/doktor-doktor-sevidzh/",
   "original_url": "http://spidermedia.ru/news/doktor-doktor-sevidzh",
   "archived": "https://web.archive.org/web/20190915022740/http://spidermedia.ru:80/news/doktor-doktor-sevidzh",
+  "tags": [
+    "dc-comics",
+    "dok-sevidzh",
+    "doc-savage"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

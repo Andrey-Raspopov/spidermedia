@@ -4,6 +4,12 @@
   "url": "/blog/vch/artem-gabrelyanov-glavnyy-redaktor-izdatelstva-bubble-o-russkih-supergeroyah-panteone-i/",
   "original_url": "http://spidermedia.ru/blog/vch/artem-gabrelyanov-glavnyy-redaktor-izdatelstva-bubble-o-russkih-supergeroyah-panteone-i",
   "archived": "https://web.archive.org/web/20260211181953/http://spidermedia.ru/blog/vch/artem-gabrelyanov-glavnyy-redaktor-izdatelstva-bubble-o-russkih-supergeroyah-panteone-i",
+  "tags": [
+    "russian-comics",
+    "intervyu",
+    "industriya",
+    "bubble"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

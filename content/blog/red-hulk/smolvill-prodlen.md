@@ -4,6 +4,10 @@
   "url": "/blog/red-hulk/smolvill-prodlen/",
   "original_url": "http://spidermedia.ru/blog/red-hulk/smolvill-prodlen",
   "archived": "https://web.archive.org/web/20230323050937/http://spidermedia.ru/blog/red-hulk/smolvill-prodlen",
+  "tags": [
+    "smallville",
+    "serialy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,19 @@
   "url": "/news/sluhi-kolonka-6/",
   "original_url": "http://spidermedia.ru/news/sluhi-kolonka-6",
   "archived": "https://web.archive.org/web/20251207101813/http://spidermedia.ru/news/sluhi-kolonka-6",
+  "tags": [
+    "x-men",
+    "marvel",
+    "iron-man",
+    "hulk",
+    "endi-diggl",
+    "thunderbolts",
+    "rik-remender",
+    "sluhi",
+    "rikki-barnes",
+    "rikki-barns",
+    "legacy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

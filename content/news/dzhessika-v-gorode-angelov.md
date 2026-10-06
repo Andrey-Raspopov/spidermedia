@@ -4,6 +4,14 @@
   "url": "/news/dzhessika-v-gorode-angelov/",
   "original_url": "https://spidermedia.ru/news/dzhessika-v-gorode-angelov",
   "archived": "https://web.archive.org/web/20260214141354/https://spidermedia.ru/news/dzhessika-v-gorode-angelov",
+  "tags": [
+    "fiona-steplz",
+    "preview",
+    "dzhonatan-grin",
+    "spider-woman",
+    "marvel",
+    "cifrovye-komiksy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

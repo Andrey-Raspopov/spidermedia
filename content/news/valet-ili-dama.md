@@ -4,6 +4,15 @@
   "url": "/news/valet-ili-dama/",
   "original_url": "http://spidermedia.ru/news/valet-ili-dama",
   "archived": "https://web.archive.org/web/20120608213229/http://spidermedia.ru/news/valet-ili-dama",
+  "tags": [
+    "brand-new-day",
+    "dark-reign",
+    "spider-man",
+    "adi-granov",
+    "komiksy",
+    "marvel",
+    "chelovek-pauk"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

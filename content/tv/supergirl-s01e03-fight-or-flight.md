@@ -4,6 +4,10 @@
   "url": "/tv/supergirl-s01e03-fight-or-flight/",
   "original_url": "https://spidermedia.ru/tv/supergirl-s01e03-fight-or-flight",
   "archived": "https://web.archive.org/web/20260120151650/https://spidermedia.ru/tv/supergirl-s01e03-fight-or-flight",
+  "tags": [
+    "dc-comics",
+    "supergirl"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

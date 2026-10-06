@@ -4,6 +4,14 @@
   "url": "/news/avgustovskie-priklyucheniya/",
   "original_url": "https://spidermedia.ru/news/avgustovskie-priklyucheniya",
   "archived": "https://web.archive.org/web/20251216113638/https://spidermedia.ru/news/avgustovskie-priklyucheniya",
+  "tags": [
+    "dc-comics",
+    "geoff-johns",
+    "dzhordzh-perez",
+    "frensis-manapul",
+    "george-perez",
+    "francis-manapul"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

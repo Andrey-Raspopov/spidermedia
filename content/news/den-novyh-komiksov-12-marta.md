@@ -4,6 +4,9 @@
   "url": "/news/den-novyh-komiksov-12-marta/",
   "original_url": "http://spidermedia.ru/news/den-novyh-komiksov-12-marta",
   "archived": "https://web.archive.org/web/20250617230055/http://spidermedia.ru/news/den-novyh-komiksov-12-marta",
+  "tags": [
+    "den-novyh-komiksov"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

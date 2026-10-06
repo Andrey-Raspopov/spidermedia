@@ -4,6 +4,13 @@
   "url": "/news/agenty-atlasa-na-ocheredi-lyudi-iks/",
   "original_url": "https://spidermedia.ru/news/agenty-atlasa-na-ocheredi-lyudi-iks",
   "archived": "https://web.archive.org/web/20260313105543/https://spidermedia.ru/news/agenty-atlasa-na-ocheredi-lyudi-iks",
+  "tags": [
+    "dzheff-parker",
+    "karlo-pagulayan",
+    "art-0",
+    "agenty-atlasa",
+    "x-men"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

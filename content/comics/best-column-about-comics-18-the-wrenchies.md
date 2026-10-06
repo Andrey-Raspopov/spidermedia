@@ -4,6 +4,10 @@
   "url": "/comics/best-column-about-comics-18-the-wrenchies/",
   "original_url": "http://spidermedia.ru/comics/best-column-about-comics-18-the-wrenchies",
   "archived": "https://web.archive.org/web/20251216125132/http://spidermedia.ru/comics/best-column-about-comics-18-the-wrenchies",
+  "tags": [
+    "best-column-about-comics",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

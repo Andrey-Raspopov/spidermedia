@@ -4,11 +4,15 @@
   "url": "/comics/comic-con-russia-2016-caesar/",
   "original_url": "http://spidermedia.ru/comics/comic-con-russia-2016-caesar",
   "archived": "https://web.archive.org/web/20241213055109/http://spidermedia.ru/comics/comic-con-russia-2016-caesar",
+  "tags": [
+    "bubble",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-*На прошедшем Comic Con Russia 2016 ведущим рубрики [All Things Valiant](https://web.archive.org/web/20260123081802/http://spidermedia.ru/tags/valiant-entertainment) Дмитрию Андрееву и Андрею Ложенко удалось пообщаться с авторами комиксов, выходящих в импринте издательства Bubble — Bubble Visions. И первым цикл статей открывает интервью с творческой командой «Цезаря Великолепного»: Аленой Спиридоновой (автор идеи, сценарист, художник), Ярославом Анжауровым (сценарист) и Яной Колестро (колорист).*
+*На прошедшем Comic Con Russia 2016 ведущим рубрики [All Things Valiant](../../tags/valiant-entertainment/) Дмитрию Андрееву и Андрею Ложенко удалось пообщаться с авторами комиксов, выходящих в импринте издательства Bubble — Bubble Visions. И первым цикл статей открывает интервью с творческой командой «Цезаря Великолепного»: Аленой Спиридоновой (автор идеи, сценарист, художник), Ярославом Анжауровым (сценарист) и Яной Колестро (колорист).*
 
 [![](https://web.archive.org/web/20171014031639im_/http://spidermedia.ru/assets/cache/preview/101368/valiant/images/b-v/622x467-00.e83.jpg)](http://spidermedia.ru/assets/images/valiant/images/b-v/00.jpg)
 

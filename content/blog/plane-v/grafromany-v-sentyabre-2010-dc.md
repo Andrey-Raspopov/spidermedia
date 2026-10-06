@@ -4,6 +4,12 @@
   "url": "/blog/plane-v/grafromany-v-sentyabre-2010-dc/",
   "original_url": "https://spidermedia.ru/blog/plane-v/grafromany-v-sentyabre-2010-dc",
   "archived": "https://web.archive.org/web/20251110233031/https://spidermedia.ru/blog/plane-v/grafromany-v-sentyabre-2010-dc",
+  "tags": [
+    "handnh",
+    "relizy",
+    "vertigo",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

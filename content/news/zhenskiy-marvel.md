@@ -4,6 +4,11 @@
   "url": "/news/zhenskiy-marvel/",
   "original_url": "http://spidermedia.ru/news/zhenskiy-marvel",
   "archived": "https://web.archive.org/web/20120608231241/http://spidermedia.ru/news/zhenskiy-marvel",
+  "tags": [
+    "girl-comics",
+    "komiksy",
+    "marvel"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

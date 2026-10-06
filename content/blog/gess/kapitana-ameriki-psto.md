@@ -4,6 +4,10 @@
   "url": "/blog/gess/kapitana-ameriki-psto/",
   "original_url": "http://spidermedia.ru/blog/gess/kapitana-ameriki-psto",
   "archived": "https://web.archive.org/web/20120607163401/http://spidermedia.ru/blog/gess/kapitana-ameriki-psto",
+  "tags": [
+    "geek-stuff",
+    "kapitan-amerika"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,13 @@
   "url": "/blog/igrok/venom-ti-reks/",
   "original_url": "http://spidermedia.ru/blog/igrok/venom-ti-reks",
   "archived": "https://web.archive.org/web/20260314083117/http://spidermedia.ru/blog/igrok/venom-ti-reks",
+  "tags": [
+    "statui",
+    "mark-millar",
+    "venom",
+    "sideshow",
+    "old-man-logan"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

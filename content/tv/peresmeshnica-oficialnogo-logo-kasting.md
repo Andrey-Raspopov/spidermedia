@@ -4,6 +4,12 @@
   "url": "/tv/peresmeshnica-oficialnogo-logo-kasting/",
   "original_url": "http://spidermedia.ru/tv/peresmeshnica-oficialnogo-logo-kasting",
   "archived": "https://web.archive.org/web/20250119220014/http://spidermedia.ru/tv/peresmeshnica-oficialnogo-logo-kasting",
+  "tags": [
+    "mockingbird",
+    "kasting",
+    "peresmeshnica",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

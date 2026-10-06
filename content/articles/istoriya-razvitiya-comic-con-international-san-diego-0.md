@@ -4,6 +4,10 @@
   "url": "/articles/istoriya-razvitiya-comic-con-international-san-diego-0/",
   "original_url": "http://spidermedia.ru/articles/istoriya-razvitiya-comic-con-international-san-diego-0",
   "archived": "https://web.archive.org/web/20251013191025/http://spidermedia.ru/articles/istoriya-razvitiya-comic-con-international-san-diego-0",
+  "tags": [
+    "san-diego-comic-con-international",
+    "comic-con-russia"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,18 @@
   "url": "/news/sdcc10-green-lantern/",
   "original_url": "http://spidermedia.ru/news/sdcc10-green-lantern",
   "archived": "https://web.archive.org/web/20120607123709/http://spidermedia.ru/news/sdcc10-green-lantern",
+  "tags": [
+    "dc-comics",
+    "geoff-johns",
+    "green-lantern",
+    "green-lantern-corps",
+    "sdcc-2010",
+    "dzheff-dzhons",
+    "zelenyy-fonar",
+    "komik-kon-v-san-diego",
+    "komiksy",
+    "korpus-zelenyh-fonarey"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

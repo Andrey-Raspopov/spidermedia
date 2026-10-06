@@ -4,6 +4,13 @@
   "url": "/news/nemezis-alternativnyy-vzglyad/",
   "original_url": "https://spidermedia.ru/news/nemezis-alternativnyy-vzglyad",
   "archived": "https://web.archive.org/web/20260215072440/https://spidermedia.ru/news/nemezis-alternativnyy-vzglyad",
+  "tags": [
+    "mark-millar",
+    "lejnil-frensis-yu",
+    "nemesis",
+    "marvel",
+    "icon-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

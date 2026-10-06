@@ -4,6 +4,10 @@
   "url": "/comics/hellboymedia-28-hellboy-for-whom-the-bell-tolls/",
   "original_url": "http://spidermedia.ru/comics/hellboymedia-28-hellboy-for-whom-the-bell-tolls",
   "archived": "https://web.archive.org/web/20260116212217/http://spidermedia.ru/comics/hellboymedia-28-hellboy-for-whom-the-bell-tolls",
+  "tags": [
+    "hellboymedia",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

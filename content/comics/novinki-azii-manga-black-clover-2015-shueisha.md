@@ -4,6 +4,9 @@
   "url": "/comics/novinki-azii-manga-black-clover-2015-shueisha/",
   "original_url": "http://spidermedia.ru/comics/novinki-azii-manga-black-clover-2015-shueisha",
   "archived": "https://web.archive.org/web/20251006131934/http://spidermedia.ru/comics/novinki-azii-manga-black-clover-2015-shueisha",
+  "tags": [
+    "manga"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

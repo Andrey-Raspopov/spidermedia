@@ -4,6 +4,14 @@
   "url": "/news/prevyu-mstiteley-2-era-altrona-halkbaster-rtut-alaya-vedma/",
   "original_url": "https://spidermedia.ru/news/prevyu-mstiteley-2-era-altrona-halkbaster-rtut-alaya-vedma",
   "archived": "https://web.archive.org/web/20251211021809/https://spidermedia.ru/news/prevyu-mstiteley-2-era-altrona-halkbaster-rtut-alaya-vedma",
+  "tags": [
+    "ant-man",
+    "hulk",
+    "guardians-of-the-galaxy",
+    "avengers",
+    "marvel",
+    "scarlet-witch"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

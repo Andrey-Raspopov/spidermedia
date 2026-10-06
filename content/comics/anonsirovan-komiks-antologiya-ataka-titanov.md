@@ -4,6 +4,9 @@
   "url": "/comics/anonsirovan-komiks-antologiya-ataka-titanov/",
   "original_url": "http://spidermedia.ru/comics/anonsirovan-komiks-antologiya-ataka-titanov",
   "archived": "https://web.archive.org/web/20260211180927/http://spidermedia.ru/comics/anonsirovan-komiks-antologiya-ataka-titanov",
+  "tags": [
+    "komik-kon-v-nyu-yorke"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

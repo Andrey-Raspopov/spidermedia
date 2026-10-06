@@ -4,6 +4,12 @@
   "url": "/news/prosto-saga/",
   "original_url": "https://spidermedia.ru/news/prosto-saga",
   "archived": "https://web.archive.org/web/20260124052531/https://spidermedia.ru/news/prosto-saga",
+  "tags": [
+    "brian-k-vaughan",
+    "fiona-steplz",
+    "image-comics",
+    "san-diego-comic-con-international"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

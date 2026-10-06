@@ -4,6 +4,12 @@
   "url": "/blog/transistor/obzor-vedmak-dom-vitrazhey-0/",
   "original_url": "https://spidermedia.ru/blog/transistor/obzor-vedmak-dom-vitrazhey-0",
   "archived": "https://web.archive.org/web/20260214131358/https://spidermedia.ru/blog/transistor/obzor-vedmak-dom-vitrazhey-0",
+  "tags": [
+    "mnenie",
+    "vedmak",
+    "belyj-edinorog",
+    "dark-horse"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

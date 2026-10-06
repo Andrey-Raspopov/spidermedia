@@ -4,6 +4,14 @@
   "url": "/news/koshmarnye-zombi/",
   "original_url": "http://spidermedia.ru/news/koshmarnye-zombi",
   "archived": "https://web.archive.org/web/20251107011102/http://spidermedia.ru/news/koshmarnye-zombi",
+  "tags": [
+    "punisher",
+    "deadpool",
+    "marvel-zombies",
+    "marvel",
+    "skott-dzhimpel",
+    "mark-teksera"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

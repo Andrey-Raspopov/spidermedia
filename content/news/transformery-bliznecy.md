@@ -4,6 +4,11 @@
   "url": "/news/transformery-bliznecy/",
   "original_url": "https://spidermedia.ru/news/transformery-bliznecy",
   "archived": "https://web.archive.org/web/20260309173026/https://spidermedia.ru/news/transformery-bliznecy",
+  "tags": [
+    "hasbro",
+    "idw-publishing",
+    "transformers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

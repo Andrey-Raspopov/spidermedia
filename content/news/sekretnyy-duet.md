@@ -4,6 +4,17 @@
   "url": "/news/sekretnyy-duet/",
   "original_url": "http://spidermedia.ru/news/sekretnyy-duet",
   "archived": "https://web.archive.org/web/20120607180542/http://spidermedia.ru/news/sekretnyy-duet",
+  "tags": [
+    "deadpool",
+    "tigra-0",
+    "art-0",
+    "dedpul",
+    "kayl-beyker",
+    "komiksy",
+    "marvel",
+    "tigra",
+    "ugadayka"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

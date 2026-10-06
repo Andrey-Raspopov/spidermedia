@@ -4,6 +4,15 @@
   "url": "/news/brand-new-day-fevralskie-novosti/",
   "original_url": "http://spidermedia.ru/news/brand-new-day-fevralskie-novosti",
   "archived": "https://web.archive.org/web/20120607195343/http://spidermedia.ru/news/brand-new-day-fevralskie-novosti",
+  "tags": [
+    "brand-new-day",
+    "jackpot",
+    "norman-osborn",
+    "spider-man",
+    "komiksy",
+    "marvel",
+    "chelovek-pauk"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

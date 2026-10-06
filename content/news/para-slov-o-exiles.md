@@ -4,6 +4,12 @@
   "url": "/news/para-slov-o-exiles/",
   "original_url": "https://spidermedia.ru/news/para-slov-o-exiles",
   "archived": "https://web.archive.org/web/20260312005750/https://spidermedia.ru/news/para-slov-o-exiles",
+  "tags": [
+    "marvel",
+    "dzheff-parker",
+    "exiles",
+    "izgnanniki"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

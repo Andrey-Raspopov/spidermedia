@@ -4,6 +4,10 @@
   "url": "/news/millars-hour/",
   "original_url": "http://spidermedia.ru/news/millars-hour",
   "archived": "https://web.archive.org/web/20250715230045/http://spidermedia.ru/news/millars-hour",
+  "tags": [
+    "mark-millar",
+    "image-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

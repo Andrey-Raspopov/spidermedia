@@ -4,6 +4,14 @@
   "url": "/news/voennoe-vremya-v-marvel/",
   "original_url": "http://spidermedia.ru/news/voennoe-vremya-v-marvel",
   "archived": "https://web.archive.org/web/20251106235425/http://spidermedia.ru/news/voennoe-vremya-v-marvel",
+  "tags": [
+    "marvel",
+    "norman-osborn",
+    "punisher",
+    "rik-remender",
+    "norman-ozborn",
+    "dzheyson-aaron"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

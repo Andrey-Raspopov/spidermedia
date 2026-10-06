@@ -4,6 +4,11 @@
   "url": "/news/konec-fantasticheskoy-chetverki/",
   "original_url": "http://spidermedia.ru/news/konec-fantasticheskoy-chetverki",
   "archived": "https://web.archive.org/web/20250717190252/http://spidermedia.ru/news/konec-fantasticheskoy-chetverki",
+  "tags": [
+    "fantastic-four",
+    "marvel",
+    "dzhejms-robinson"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

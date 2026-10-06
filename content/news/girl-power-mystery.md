@@ -4,6 +4,13 @@
   "url": "/news/girl-power-mystery/",
   "original_url": "https://spidermedia.ru/news/girl-power-mystery",
   "archived": "https://web.archive.org/web/20251014031848/https://spidermedia.ru/news/girl-power-mystery",
+  "tags": [
+    "sif",
+    "ketrin-immonen",
+    "valerio-schiti",
+    "marvel",
+    "journey-into-mystery"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

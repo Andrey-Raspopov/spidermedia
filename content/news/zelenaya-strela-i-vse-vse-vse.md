@@ -4,6 +4,10 @@
   "url": "/news/zelenaya-strela-i-vse-vse-vse/",
   "original_url": "http://spidermedia.ru/news/zelenaya-strela-i-vse-vse-vse",
   "archived": "https://web.archive.org/web/20240714175911/http://spidermedia.ru/news/zelenaya-strela-i-vse-vse-vse",
+  "tags": [
+    "dc-comics",
+    "green-arrow"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/news/realnyy-ekstremalnyy-derzkiy/",
   "original_url": "http://spidermedia.ru/news/realnyy-ekstremalnyy-derzkiy",
   "archived": "https://web.archive.org/web/20240625162000/http://spidermedia.ru/news/realnyy-ekstremalnyy-derzkiy",
+  "tags": [
+    "red",
+    "warren-ellis",
+    "trejlery"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,16 @@
   "url": "/news/korolevskaya-ohota/",
   "original_url": "https://spidermedia.ru/news/korolevskaya-ohota",
   "archived": "https://web.archive.org/web/20260214125928/https://spidermedia.ru/news/korolevskaya-ohota",
+  "tags": [
+    "styuart-mur",
+    "nemor",
+    "dzho-kesada",
+    "art-0",
+    "ariel-olivetti",
+    "x-men",
+    "namor",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

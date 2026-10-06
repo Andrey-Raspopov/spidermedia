@@ -4,6 +4,10 @@
   "url": "/comics/eccc-2016-gru-srazitsya-s-bogami-v-novoj-maksi-serii/",
   "original_url": "https://spidermedia.ru/comics/eccc-2016-gru-srazitsya-s-bogami-v-novoj-maksi-serii",
   "archived": "https://web.archive.org/web/20251216180824/https://spidermedia.ru/comics/eccc-2016-gru-srazitsya-s-bogami-v-novoj-maksi-serii",
+  "tags": [
+    "dark-horse",
+    "emerald-city-comicon"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

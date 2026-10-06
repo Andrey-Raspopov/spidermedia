@@ -4,6 +4,10 @@
   "url": "/news/image-expo-2013-srazu-mnogo-anonsov/",
   "original_url": "http://spidermedia.ru/news/image-expo-2013-srazu-mnogo-anonsov",
   "archived": "https://web.archive.org/web/20190915023005/http://spidermedia.ru:80/news/image-expo-2013-srazu-mnogo-anonsov",
+  "tags": [
+    "image-comics",
+    "image-expo"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

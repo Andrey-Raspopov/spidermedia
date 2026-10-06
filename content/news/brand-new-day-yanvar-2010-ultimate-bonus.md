@@ -4,6 +4,22 @@
   "url": "/news/brand-new-day-yanvar-2010-ultimate-bonus/",
   "original_url": "https://spidermedia.ru/news/brand-new-day-yanvar-2010-ultimate-bonus",
   "archived": "https://web.archive.org/web/20260208204156/https://spidermedia.ru/news/brand-new-day-yanvar-2010-ultimate-bonus",
+  "tags": [
+    "fred-van-lente",
+    "nosorog",
+    "misterio",
+    "markos-martin",
+    "maks-fiumara",
+    "elena-dzhurdzhevich",
+    "den-slott",
+    "devid-lafuente",
+    "joe-kelly",
+    "brian-michael-bendis",
+    "barri-kitson",
+    "rhino",
+    "mysterio",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,18 @@
   "url": "/news/ccc09-ultimate-marvel/",
   "original_url": "http://spidermedia.ru/news/ccc09-ultimate-marvel",
   "archived": "https://web.archive.org/web/20190710212150/http://spidermedia.ru:80/news/ccc09-ultimate-marvel",
+  "tags": [
+    "warren-ellis",
+    "stiv-kurt",
+    "preview",
+    "avengers",
+    "mark-millar",
+    "karlos-pacheko",
+    "ultimate",
+    "ultimates",
+    "marvel",
+    "iron-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

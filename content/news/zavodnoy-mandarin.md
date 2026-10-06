@@ -4,6 +4,14 @@
   "url": "/news/zavodnoy-mandarin/",
   "original_url": "http://spidermedia.ru/news/zavodnoy-mandarin",
   "archived": "https://web.archive.org/web/20251208080417/http://spidermedia.ru/news/zavodnoy-mandarin",
+  "tags": [
+    "natan-edmondson",
+    "matteo-buffani",
+    "iron-man",
+    "ultimate",
+    "marvel",
+    "san-diego-comic-con-international"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

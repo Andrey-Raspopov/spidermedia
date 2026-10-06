@@ -4,6 +4,16 @@
   "url": "/news/konec-cheloveka-pauka/",
   "original_url": "http://spidermedia.ru/news/konec-cheloveka-pauka",
   "archived": "https://web.archive.org/web/20251108041847/http://spidermedia.ru/news/konec-cheloveka-pauka",
+  "tags": [
+    "styuart-immonen",
+    "mark-bagli",
+    "devid-lafuente",
+    "brian-michael-bendis",
+    "ultimate",
+    "spider-woman",
+    "nycc-2009",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

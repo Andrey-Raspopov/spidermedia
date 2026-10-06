@@ -4,6 +4,10 @@
   "url": "/tv/propovednik-oficialnye-foto-personazhej-hi-res/",
   "original_url": "https://spidermedia.ru/tv/propovednik-oficialnye-foto-personazhej-hi-res",
   "archived": "https://web.archive.org/web/20251216174502/https://spidermedia.ru/tv/propovednik-oficialnye-foto-personazhej-hi-res",
+  "tags": [
+    "vertigo",
+    "preacher"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/comics/nycc-2016-amerikanskie-bogi-stanut-komiksom/",
   "original_url": "http://spidermedia.ru/comics/nycc-2016-amerikanskie-bogi-stanut-komiksom",
   "archived": "https://web.archive.org/web/20260211180849/http://spidermedia.ru/comics/nycc-2016-amerikanskie-bogi-stanut-komiksom",
+  "tags": [
+    "dark-horse",
+    "komik-kon-v-nyu-yorke"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

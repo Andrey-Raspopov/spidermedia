@@ -4,6 +4,10 @@
   "url": "/comics/one-piece-01-east-blue/",
   "original_url": "http://spidermedia.ru/comics/one-piece-01-east-blue",
   "archived": "https://web.archive.org/web/20250620081459/http://spidermedia.ru/comics/one-piece-01-east-blue",
+  "tags": [
+    "mnenie",
+    "manga"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

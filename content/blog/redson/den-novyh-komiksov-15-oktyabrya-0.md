@@ -4,6 +4,9 @@
   "url": "/blog/redson/den-novyh-komiksov-15-oktyabrya-0/",
   "original_url": "https://spidermedia.ru/blog/redson/den-novyh-komiksov-15-oktyabrya-0",
   "archived": "https://web.archive.org/web/20260314083900/https://spidermedia.ru/blog/redson/den-novyh-komiksov-15-oktyabrya-0",
+  "tags": [
+    "den-novyh-komiksov"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

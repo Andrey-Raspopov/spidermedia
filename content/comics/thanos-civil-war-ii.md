@@ -4,6 +4,13 @@
   "url": "/comics/thanos-civil-war-ii/",
   "original_url": "https://spidermedia.ru/comics/thanos-civil-war-ii",
   "archived": "https://web.archive.org/web/20260309184540/https://spidermedia.ru/comics/thanos-civil-war-ii",
+  "tags": [
+    "marvel",
+    "tanos",
+    "thanos",
+    "captain-america",
+    "civil-war"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

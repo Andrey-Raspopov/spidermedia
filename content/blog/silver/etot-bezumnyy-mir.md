@@ -4,6 +4,13 @@
   "url": "/blog/silver/etot-bezumnyy-mir/",
   "original_url": "http://spidermedia.ru/blog/silver/etot-bezumnyy-mir",
   "archived": "https://web.archive.org/web/20161029033410/http://spidermedia.ru:80/blog/silver/etot-bezumnyy-mir",
+  "tags": [
+    "salvador-larroka",
+    "matt-fraction",
+    "mnenie",
+    "marvel",
+    "iron-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

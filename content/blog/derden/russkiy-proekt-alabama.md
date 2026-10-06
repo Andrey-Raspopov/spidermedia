@@ -4,6 +4,9 @@
   "url": "/blog/derden/russkiy-proekt-alabama/",
   "original_url": "https://spidermedia.ru/blog/derden/russkiy-proekt-alabama",
   "archived": "https://web.archive.org/web/20240226091646/https://spidermedia.ru/blog/derden/russkiy-proekt-alabama",
+  "tags": [
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

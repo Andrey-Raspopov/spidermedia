@@ -4,6 +4,15 @@
   "url": "/blog/sir-carnage/column-no-name-week-14-did-hypno-hustler-retire/",
   "original_url": "http://spidermedia.ru/blog/sir-carnage/column-no-name-week-14-did-hypno-hustler-retire",
   "archived": "https://web.archive.org/web/20260121004452/http://spidermedia.ru/blog/sir-carnage/column-no-name-week-14-did-hypno-hustler-retire",
+  "tags": [
+    "miss-marvel",
+    "deadpool",
+    "house-of-mystery",
+    "green-lantern",
+    "blackest-night",
+    "batman",
+    "the-column-with-no-name"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

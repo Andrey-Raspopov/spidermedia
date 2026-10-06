@@ -4,6 +4,9 @@
   "url": "/podcast/spider-talk-04-studii-razrabotchiki-i-izdateli/",
   "original_url": "http://spidermedia.ru/podcast/spider-talk-04-studii-razrabotchiki-i-izdateli",
   "archived": "https://web.archive.org/web/20251216174535/http://spidermedia.ru/podcast/spider-talk-04-studii-razrabotchiki-i-izdateli",
+  "tags": [
+    "spider-talk"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

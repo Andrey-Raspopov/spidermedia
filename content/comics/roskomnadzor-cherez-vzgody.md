@@ -4,6 +4,11 @@
   "url": "/comics/roskomnadzor-cherez-vzgody/",
   "original_url": "https://spidermedia.ru/comics/roskomnadzor-cherez-vzgody",
   "archived": "https://web.archive.org/web/20250512122005/https://spidermedia.ru/comics/roskomnadzor-cherez-vzgody",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "roskomnadzor",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

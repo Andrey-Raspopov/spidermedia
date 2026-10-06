@@ -4,6 +4,11 @@
   "url": "/news/neudachniki-my-tak-ne-dumaem/",
   "original_url": "http://spidermedia.ru/news/neudachniki-my-tak-ne-dumaem",
   "archived": "https://web.archive.org/web/20260312013831/http://spidermedia.ru/news/neudachniki-my-tak-ne-dumaem",
+  "tags": [
+    "vertigo",
+    "dc-comics",
+    "endi-diggl"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

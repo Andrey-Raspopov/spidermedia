@@ -4,6 +4,14 @@
   "url": "/news/prevyu-all-new-savage-she-hulk-1/",
   "original_url": "http://spidermedia.ru/news/prevyu-all-new-savage-she-hulk-1",
   "archived": "https://web.archive.org/web/20120608213430/http://spidermedia.ru/news/prevyu-all-new-savage-she-hulk-1",
+  "tags": [
+    "she-hulk",
+    "komiksy",
+    "marvel",
+    "piter-veyl",
+    "preview-s",
+    "fred-van-lente"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

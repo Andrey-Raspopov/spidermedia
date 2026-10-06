@@ -4,6 +4,10 @@
   "url": "/news/sweet-street/",
   "original_url": "http://spidermedia.ru/news/sweet-street",
   "archived": "https://web.archive.org/web/20251211033305/http://spidermedia.ru/news/sweet-street",
+  "tags": [
+    "vertigo",
+    "peter-milligan"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

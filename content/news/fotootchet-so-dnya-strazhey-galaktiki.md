@@ -4,6 +4,11 @@
   "url": "/news/fotootchet-so-dnya-strazhey-galaktiki/",
   "original_url": "http://spidermedia.ru/news/fotootchet-so-dnya-strazhey-galaktiki",
   "archived": "https://web.archive.org/web/20260307062617/http://spidermedia.ru/news/fotootchet-so-dnya-strazhey-galaktiki",
+  "tags": [
+    "guardians-of-the-galaxy",
+    "marvel",
+    "disnej"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

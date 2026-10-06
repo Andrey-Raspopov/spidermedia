@@ -4,6 +4,10 @@
   "url": "/comics/unlicensed-manga-in-russia/",
   "original_url": "http://spidermedia.ru/comics/unlicensed-manga-in-russia",
   "archived": "https://web.archive.org/web/20260206224517/http://spidermedia.ru/comics/unlicensed-manga-in-russia",
+  "tags": [
+    "manga",
+    "imho"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/news/oblozhki-nola/",
   "original_url": "https://spidermedia.ru/news/oblozhki-nola",
   "archived": "https://web.archive.org/web/20240520101449/https://spidermedia.ru/news/oblozhki-nola",
+  "tags": [
+    "erik-dzhons",
+    "nola",
+    "erik-jones",
+    "boom-studios"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

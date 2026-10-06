@@ -4,6 +4,11 @@
   "url": "/comics/anonsy-dc-deadman-hawkman-and-adam-strange/",
   "original_url": "https://spidermedia.ru/comics/anonsy-dc-deadman-hawkman-and-adam-strange",
   "archived": "https://web.archive.org/web/20260314075000/https://spidermedia.ru/comics/anonsy-dc-deadman-hawkman-and-adam-strange",
+  "tags": [
+    "dc-comics",
+    "deadman",
+    "dedmen"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

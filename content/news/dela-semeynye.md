@@ -4,6 +4,17 @@
   "url": "/news/dela-semeynye/",
   "original_url": "http://spidermedia.ru/news/dela-semeynye",
   "archived": "https://web.archive.org/web/20251207095524/http://spidermedia.ru/news/dela-semeynye",
+  "tags": [
+    "rajan-stegman",
+    "marko-chekchetto",
+    "mardzhori-lyu",
+    "x-23",
+    "deniel-vej",
+    "dzhuzeppe-kamunkoli",
+    "daken",
+    "art-0",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

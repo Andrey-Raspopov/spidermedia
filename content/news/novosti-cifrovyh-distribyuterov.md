@@ -4,6 +4,12 @@
   "url": "/news/novosti-cifrovyh-distribyuterov/",
   "original_url": "http://spidermedia.ru/news/novosti-cifrovyh-distribyuterov",
   "archived": "https://web.archive.org/web/20190929140448/http://spidermedia.ru:80/news/novosti-cifrovyh-distribyuterov",
+  "tags": [
+    "cifrovye-komiksy",
+    "marvel",
+    "image-comics",
+    "comixology"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

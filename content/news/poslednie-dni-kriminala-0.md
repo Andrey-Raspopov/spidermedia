@@ -4,6 +4,10 @@
   "url": "/news/poslednie-dni-kriminala-0/",
   "original_url": "https://spidermedia.ru/news/poslednie-dni-kriminala-0",
   "archived": "https://web.archive.org/web/20260117221336/https://spidermedia.ru/news/poslednie-dni-kriminala-0",
+  "tags": [
+    "rik-remender",
+    "radical-publishing"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

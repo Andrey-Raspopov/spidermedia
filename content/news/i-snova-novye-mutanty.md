@@ -4,6 +4,13 @@
   "url": "/news/i-snova-novye-mutanty/",
   "original_url": "https://spidermedia.ru/news/i-snova-novye-mutanty",
   "archived": "https://web.archive.org/web/20260121010405/https://spidermedia.ru/news/i-snova-novye-mutanty",
+  "tags": [
+    "x-men",
+    "marvel",
+    "zeb-uells",
+    "new-mutants",
+    "diogenis-nivis"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

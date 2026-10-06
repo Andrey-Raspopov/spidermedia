@@ -4,6 +4,15 @@
   "url": "/blog/sir-carnage/column-no-name-week-11-modok-demands-pancakes/",
   "original_url": "https://spidermedia.ru/blog/sir-carnage/column-no-name-week-11-modok-demands-pancakes",
   "archived": "https://web.archive.org/web/20260214131151/https://spidermedia.ru/blog/sir-carnage/column-no-name-week-11-modok-demands-pancakes",
+  "tags": [
+    "secret-six",
+    "mighty-avengers",
+    "marvel",
+    "dc-comics",
+    "captain-britain",
+    "agenty-atlasa",
+    "the-column-with-no-name"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

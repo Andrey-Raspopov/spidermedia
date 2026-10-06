@@ -4,6 +4,9 @@
   "url": "/comics/buyers-guide-russkoj-mangi-aprel-2015/",
   "original_url": "http://spidermedia.ru/comics/buyers-guide-russkoj-mangi-aprel-2015",
   "archived": "https://web.archive.org/web/20251013180005/http://spidermedia.ru/comics/buyers-guide-russkoj-mangi-aprel-2015",
+  "tags": [
+    "manga"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

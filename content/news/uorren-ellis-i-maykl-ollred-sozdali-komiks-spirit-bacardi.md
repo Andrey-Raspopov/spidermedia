@@ -4,6 +4,10 @@
   "url": "/news/uorren-ellis-i-maykl-ollred-sozdali-komiks-spirit-bacardi/",
   "original_url": "http://spidermedia.ru/news/uorren-ellis-i-maykl-ollred-sozdali-komiks-spirit-bacardi",
   "archived": "https://web.archive.org/web/20250512124557/http://spidermedia.ru/news/uorren-ellis-i-maykl-ollred-sozdali-komiks-spirit-bacardi",
+  "tags": [
+    "warren-ellis",
+    "majk-ollred"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

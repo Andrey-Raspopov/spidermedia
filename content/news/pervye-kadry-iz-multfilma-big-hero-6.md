@@ -4,6 +4,12 @@
   "url": "/news/pervye-kadry-iz-multfilma-big-hero-6/",
   "original_url": "http://spidermedia.ru/news/pervye-kadry-iz-multfilma-big-hero-6",
   "archived": "https://web.archive.org/web/20251213184324/http://spidermedia.ru/news/pervye-kadry-iz-multfilma-big-hero-6",
+  "tags": [
+    "marvel",
+    "disnej",
+    "animaciya",
+    "big-hero-6"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/news/hellboymedia-abe-sapien-calm-storm/",
   "original_url": "http://spidermedia.ru/news/hellboymedia-abe-sapien-calm-storm",
   "archived": "https://web.archive.org/web/20260117215157/http://spidermedia.ru/news/hellboymedia-abe-sapien-calm-storm",
+  "tags": [
+    "novosti",
+    "hellboymedia"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

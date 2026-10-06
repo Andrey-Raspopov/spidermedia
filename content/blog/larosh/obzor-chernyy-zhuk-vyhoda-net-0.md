@@ -4,6 +4,13 @@
   "url": "/blog/larosh/obzor-chernyy-zhuk-vyhoda-net-0/",
   "original_url": "http://spidermedia.ru/blog/larosh/obzor-chernyy-zhuk-vyhoda-net-0",
   "archived": "https://web.archive.org/web/20260206224359/http://spidermedia.ru/blog/larosh/obzor-chernyy-zhuk-vyhoda-net-0",
+  "tags": [
+    "franchesko-frankavilla",
+    "obzor",
+    "zarubezhnye-komiksy-na-russkom",
+    "belyj-edinorog",
+    "dark-horse"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

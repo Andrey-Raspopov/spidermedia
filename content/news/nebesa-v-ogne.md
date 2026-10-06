@@ -4,6 +4,13 @@
   "url": "/news/nebesa-v-ogne/",
   "original_url": "https://spidermedia.ru/news/nebesa-v-ogne",
   "archived": "https://web.archive.org/web/20260116214404/https://spidermedia.ru/news/nebesa-v-ogne",
+  "tags": [
+    "marvel",
+    "prizrachnyj-gonshhik",
+    "dzheyson-aaron",
+    "zadkiel",
+    "emerald-city-comicon"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

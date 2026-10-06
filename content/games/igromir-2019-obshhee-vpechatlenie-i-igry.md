@@ -4,6 +4,9 @@
   "url": "/games/igromir-2019-obshhee-vpechatlenie-i-igry/",
   "original_url": "http://spidermedia.ru/games/igromir-2019-obshhee-vpechatlenie-i-igry",
   "archived": "https://web.archive.org/web/20260124052840/http://spidermedia.ru/games/igromir-2019-obshhee-vpechatlenie-i-igry",
+  "tags": [
+    "gamermedia"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

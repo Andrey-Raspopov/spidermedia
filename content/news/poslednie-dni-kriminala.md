@@ -4,6 +4,12 @@
   "url": "/news/poslednie-dni-kriminala/",
   "original_url": "http://spidermedia.ru/news/poslednie-dni-kriminala",
   "archived": "https://web.archive.org/web/20250422033720/http://spidermedia.ru/news/poslednie-dni-kriminala",
+  "tags": [
+    "rik-remender",
+    "greg-tochchini",
+    "art-0",
+    "radical-publishing"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

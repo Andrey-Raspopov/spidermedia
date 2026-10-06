@@ -4,6 +4,12 @@
   "url": "/news/and-beyond/",
   "original_url": "http://spidermedia.ru/news/and-beyond",
   "archived": "https://web.archive.org/web/20250512123903/http://spidermedia.ru/news/and-beyond",
+  "tags": [
+    "dzhonatan-hikman",
+    "dzhim-cheng",
+    "marvel",
+    "fcbd"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,14 @@
   "url": "/comics/crisis-theory-death-metal-1-2/",
   "original_url": "https://spidermedia.ru/comics/crisis-theory-death-metal-1-2",
   "archived": "https://web.archive.org/web/20251207002205/https://spidermedia.ru/comics/crisis-theory-death-metal-1-2",
+  "tags": [
+    "dc-comics",
+    "batman",
+    "grant-morrison",
+    "greg-capullo",
+    "imho",
+    "skott-snajder"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

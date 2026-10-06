@@ -4,6 +4,12 @@
   "url": "/comics/fables-book-1-russian-deluxe-edition-review/",
   "original_url": "https://spidermedia.ru/comics/fables-book-1-russian-deluxe-edition-review",
   "archived": "https://web.archive.org/web/20251216124935/https://spidermedia.ru/comics/fables-book-1-russian-deluxe-edition-review",
+  "tags": [
+    "fables",
+    "azbuka",
+    "recenziya",
+    "zarubezhnye-komiksy-na-russkom"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/news/na-syomochnoy-ploshchadke-filma-tor/",
   "original_url": "http://spidermedia.ru/news/na-syomochnoy-ploshchadke-filma-tor",
   "archived": "https://web.archive.org/web/20260206230926/http://spidermedia.ru/news/na-syomochnoy-ploshchadke-filma-tor",
+  "tags": [
+    "preview",
+    "thor",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

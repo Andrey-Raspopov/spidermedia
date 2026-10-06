@@ -4,6 +4,9 @@
   "url": "/podcast/den-novyh-komiksov-400/",
   "original_url": "https://spidermedia.ru/podcast/den-novyh-komiksov-400",
   "archived": "https://web.archive.org/web/20250209103434/https://spidermedia.ru/podcast/den-novyh-komiksov-400",
+  "tags": [
+    "den-novyh-komiksov"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

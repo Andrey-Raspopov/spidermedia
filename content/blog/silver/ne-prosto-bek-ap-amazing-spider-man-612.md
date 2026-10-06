@@ -4,6 +4,11 @@
   "url": "/blog/silver/ne-prosto-bek-ap-amazing-spider-man-612/",
   "original_url": "http://spidermedia.ru/blog/silver/ne-prosto-bek-ap-amazing-spider-man-612",
   "archived": "https://web.archive.org/web/20190806145957/http://spidermedia.ru:80/blog/silver/ne-prosto-bek-ap-amazing-spider-man-612",
+  "tags": [
+    "dzhej-em-ken-nimura",
+    "joe-kelly",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

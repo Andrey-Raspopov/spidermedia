@@ -4,6 +4,10 @@
   "url": "/blog/shargor/hellboymedia-interview-bolshie-izmeneniya-gryadut-v-mire-baltimora-chast-1/",
   "original_url": "https://spidermedia.ru/blog/shargor/hellboymedia-interview-bolshie-izmeneniya-gryadut-v-mire-baltimora-chast-1",
   "archived": "https://web.archive.org/web/20251209143213/https://spidermedia.ru/blog/shargor/hellboymedia-interview-bolshie-izmeneniya-gryadut-v-mire-baltimora-chast-1",
+  "tags": [
+    "intervyu",
+    "hellboymedia"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

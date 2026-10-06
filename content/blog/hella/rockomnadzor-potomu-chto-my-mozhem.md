@@ -4,6 +4,11 @@
   "url": "/blog/hella/rockomnadzor-potomu-chto-my-mozhem/",
   "original_url": "http://spidermedia.ru/blog/hella/rockomnadzor-potomu-chto-my-mozhem",
   "archived": "https://web.archive.org/web/20260125130446/http://spidermedia.ru/blog/hella/rockomnadzor-potomu-chto-my-mozhem",
+  "tags": [
+    "russian-comics",
+    "roskomnadzor",
+    "zarubezhnye-komiksy-na-russkom"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

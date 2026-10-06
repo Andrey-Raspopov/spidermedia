@@ -4,6 +4,9 @@
   "url": "/movies/intervyu-s-sozdatelem-filma-zashhitniki-sarikom-andreasyanom/",
   "original_url": "http://spidermedia.ru/movies/intervyu-s-sozdatelem-filma-zashhitniki-sarikom-andreasyanom",
   "archived": "https://web.archive.org/web/20260215070742/http://spidermedia.ru/movies/intervyu-s-sozdatelem-filma-zashhitniki-sarikom-andreasyanom",
+  "tags": [
+    "zashhitniki"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

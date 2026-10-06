@@ -4,6 +4,14 @@
   "url": "/news/astonishing-x-men-30-svezhiy-vzglyad/",
   "original_url": "http://spidermedia.ru/news/astonishing-x-men-30-svezhiy-vzglyad",
   "archived": "https://web.archive.org/web/20120512074709/http://spidermedia.ru/news/astonishing-x-men-30-svezhiy-vzglyad",
+  "tags": [
+    "astonishing-x-men",
+    "x-men",
+    "x-universe",
+    "lyudi-iks",
+    "saymon-byanchi",
+    "uorren-ellis"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

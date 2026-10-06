@@ -4,6 +4,14 @@
   "url": "/news/ih-sobstvennyy-kosmos/",
   "original_url": "https://spidermedia.ru/news/ih-sobstvennyy-kosmos",
   "archived": "https://web.archive.org/web/20260120164728/https://spidermedia.ru/news/ih-sobstvennyy-kosmos",
+  "tags": [
+    "endi-lenning",
+    "tom-derenik",
+    "den-ebnett",
+    "brad-walker",
+    "andres-ginaldo",
+    "boom-studios"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

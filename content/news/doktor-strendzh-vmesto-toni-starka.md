@@ -4,6 +4,10 @@
   "url": "/news/doktor-strendzh-vmesto-toni-starka/",
   "original_url": "http://spidermedia.ru/news/doktor-strendzh-vmesto-toni-starka",
   "archived": "https://web.archive.org/web/20260314082355/http://spidermedia.ru/news/doktor-strendzh-vmesto-toni-starka",
+  "tags": [
+    "marvel",
+    "doctor-strange"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

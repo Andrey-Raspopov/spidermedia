@@ -4,6 +4,14 @@
   "url": "/news/prevyu-avengers-x-sanction-1/",
   "original_url": "https://spidermedia.ru/news/prevyu-avengers-x-sanction-1",
   "archived": "https://web.archive.org/web/20251206151427/https://spidermedia.ru/news/prevyu-avengers-x-sanction-1",
+  "tags": [
+    "ed-makginnes",
+    "kejbl",
+    "dzhef-loeb",
+    "x-men",
+    "marvel",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

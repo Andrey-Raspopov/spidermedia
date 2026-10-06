@@ -4,6 +4,11 @@
   "url": "/comics/roskomnadzor-bez-granic/",
   "original_url": "https://spidermedia.ru/comics/roskomnadzor-bez-granic",
   "archived": "https://web.archive.org/web/20260305235450/https://spidermedia.ru/comics/roskomnadzor-bez-granic",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "roskomnadzor",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,15 @@
   "url": "/news/will-you-bollocks-me/",
   "original_url": "http://spidermedia.ru/news/will-you-bollocks-me",
   "archived": "https://web.archive.org/web/20260313104848/http://spidermedia.ru/news/will-you-bollocks-me",
+  "tags": [
+    "peter-milligan",
+    "dzhuzeppe-kamunkoli",
+    "vertigo",
+    "stefano-landini",
+    "simon-bisley",
+    "hellblazer",
+    "giuseppe-camuncoli"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/news/vechno-novye/",
   "original_url": "http://spidermedia.ru/news/vechno-novye",
   "archived": "https://web.archive.org/web/20190924030550/http://spidermedia.ru:80/news/vechno-novye",
+  "tags": [
+    "x-men",
+    "kris-klermont",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

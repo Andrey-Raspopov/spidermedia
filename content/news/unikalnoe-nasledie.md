@@ -4,6 +4,12 @@
   "url": "/news/unikalnoe-nasledie/",
   "original_url": "http://spidermedia.ru/news/unikalnoe-nasledie",
   "archived": "https://web.archive.org/web/20250906082951/http://spidermedia.ru/news/unikalnoe-nasledie",
+  "tags": [
+    "khoj-fam",
+    "karlos-pacheko",
+    "x-men",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/news/brightest-day-blackest-night/",
   "original_url": "https://spidermedia.ru/news/brightest-day-blackest-night",
   "archived": "https://web.archive.org/web/20260121000939/https://spidermedia.ru/news/brightest-day-blackest-night",
+  "tags": [
+    "green-lantern",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

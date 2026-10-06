@@ -4,6 +4,10 @@
   "url": "/blog/shargor/hellboymedia-hellboy-death-card/",
   "original_url": "https://spidermedia.ru/blog/shargor/hellboymedia-hellboy-death-card",
   "archived": "https://web.archive.org/web/20260125124929/https://spidermedia.ru/blog/shargor/hellboymedia-hellboy-death-card",
+  "tags": [
+    "hellboymedia",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/movies/spider-man-homecoming-trailer/",
   "original_url": "http://spidermedia.ru/movies/spider-man-homecoming-trailer",
   "archived": "https://web.archive.org/web/20260215080905/http://spidermedia.ru/movies/spider-man-homecoming-trailer",
+  "tags": [
+    "marvel",
+    "iron-man",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

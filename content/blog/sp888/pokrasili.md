@@ -4,6 +4,12 @@
   "url": "/blog/sp888/pokrasili/",
   "original_url": "http://spidermedia.ru/blog/sp888/pokrasili",
   "archived": "https://web.archive.org/web/20111126004857/http://spidermedia.ru/blog/sp888/pokrasili",
+  "tags": [
+    "avengers",
+    "dark-avengers",
+    "brayan-maykl-bendis",
+    "komiksy"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

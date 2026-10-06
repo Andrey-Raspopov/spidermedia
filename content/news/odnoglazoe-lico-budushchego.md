@@ -4,6 +4,27 @@
   "url": "/news/odnoglazoe-lico-budushchego/",
   "original_url": "https://spidermedia.ru/news/odnoglazoe-lico-budushchego",
   "archived": "https://web.archive.org/web/20260208194424/https://spidermedia.ru/news/odnoglazoe-lico-budushchego",
+  "tags": [
+    "ed-makginnes",
+    "ant-man",
+    "stiv-makniven",
+    "salvador-larroka",
+    "nova",
+    "nik-fyuri-mladshij",
+    "nik-spenser",
+    "matt-fraction",
+    "majkl-ollred",
+    "loki",
+    "kejbl",
+    "kiron-gillen",
+    "dzhef-loeb",
+    "dzheymi-makkelvi",
+    "dennis-houpless",
+    "brian-michael-bendis",
+    "nick-fury-jr",
+    "marvel",
+    "cable"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/news/bumazhneyshie-voyny/",
   "original_url": "https://spidermedia.ru/news/bumazhneyshie-voyny",
   "archived": "https://web.archive.org/web/20240416035625/https://spidermedia.ru/news/bumazhneyshie-voyny",
+  "tags": [
+    "boom-studios"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

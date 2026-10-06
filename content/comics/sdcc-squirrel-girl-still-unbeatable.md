@@ -4,6 +4,10 @@
   "url": "/comics/sdcc-squirrel-girl-still-unbeatable/",
   "original_url": "https://spidermedia.ru/comics/sdcc-squirrel-girl-still-unbeatable",
   "archived": "https://web.archive.org/web/20260115045425/https://spidermedia.ru/comics/sdcc-squirrel-girl-still-unbeatable",
+  "tags": [
+    "marvel",
+    "san-diego-comic-con-international"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

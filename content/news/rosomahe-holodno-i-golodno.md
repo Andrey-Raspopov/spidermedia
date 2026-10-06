@@ -4,6 +4,14 @@
   "url": "/news/rosomahe-holodno-i-golodno/",
   "original_url": "http://spidermedia.ru/news/rosomahe-holodno-i-golodno",
   "archived": "https://web.archive.org/web/20120718094711/http://spidermedia.ru/news/rosomahe-holodno-i-golodno",
+  "tags": [
+    "wolverine",
+    "art-0",
+    "komiksy",
+    "marvel",
+    "oblozhki",
+    "rosomaha"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

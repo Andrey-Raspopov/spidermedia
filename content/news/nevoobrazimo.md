@@ -4,6 +4,10 @@
   "url": "/news/nevoobrazimo/",
   "original_url": "http://spidermedia.ru/news/nevoobrazimo",
   "archived": "https://web.archive.org/web/20260214135722/http://spidermedia.ru/news/nevoobrazimo",
+  "tags": [
+    "unthinkable",
+    "boom-studios"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

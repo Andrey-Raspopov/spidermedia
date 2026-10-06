@@ -4,6 +4,11 @@
   "url": "/news/video-dnevnik-hraniteley-chast-11/",
   "original_url": "http://spidermedia.ru/news/video-dnevnik-hraniteley-chast-11",
   "archived": "https://web.archive.org/web/20250119132135/http://spidermedia.ru/news/video-dnevnik-hraniteley-chast-11",
+  "tags": [
+    "hraniteli",
+    "rorschach",
+    "rorshah"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

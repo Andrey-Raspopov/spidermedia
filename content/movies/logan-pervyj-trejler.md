@@ -4,6 +4,12 @@
   "url": "/movies/logan-pervyj-trejler/",
   "original_url": "https://spidermedia.ru/movies/logan-pervyj-trejler",
   "archived": "https://web.archive.org/web/20260314075957/https://spidermedia.ru/movies/logan-pervyj-trejler",
+  "tags": [
+    "marvel",
+    "x-23",
+    "x-men",
+    "wolverine"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

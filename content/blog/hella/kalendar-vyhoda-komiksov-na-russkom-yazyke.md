@@ -4,6 +4,10 @@
   "url": "/blog/hella/kalendar-vyhoda-komiksov-na-russkom-yazyke/",
   "original_url": "http://spidermedia.ru/blog/hella/kalendar-vyhoda-komiksov-na-russkom-yazyke",
   "archived": "https://web.archive.org/web/20251209144854/http://spidermedia.ru/blog/hella/kalendar-vyhoda-komiksov-na-russkom-yazyke",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "panini"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

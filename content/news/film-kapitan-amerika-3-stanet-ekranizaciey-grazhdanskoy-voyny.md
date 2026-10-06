@@ -4,6 +4,12 @@
   "url": "/news/film-kapitan-amerika-3-stanet-ekranizaciey-grazhdanskoy-voyny/",
   "original_url": "http://spidermedia.ru/news/film-kapitan-amerika-3-stanet-ekranizaciey-grazhdanskoy-voyny",
   "archived": "https://web.archive.org/web/20251207005024/http://spidermedia.ru/news/film-kapitan-amerika-3-stanet-ekranizaciey-grazhdanskoy-voyny",
+  "tags": [
+    "marvel",
+    "captain-america",
+    "iron-man",
+    "civil-war"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

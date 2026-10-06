@@ -4,6 +4,14 @@
   "url": "/news/mercenary-loose/",
   "original_url": "http://spidermedia.ru/news/mercenary-loose",
   "archived": "https://web.archive.org/web/20190811004813/http://spidermedia.ru:80/news/mercenary-loose",
+  "tags": [
+    "matt-fraction",
+    "greg-lend",
+    "x-men",
+    "nation-x",
+    "marvel",
+    "greg-land"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

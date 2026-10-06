@@ -4,6 +4,11 @@
   "url": "/news/rezhisser-hroniki-perezagruzit-fantasticheskuyu-chetverku/",
   "original_url": "http://spidermedia.ru/news/rezhisser-hroniki-perezagruzit-fantasticheskuyu-chetverku",
   "archived": "https://web.archive.org/web/20251006135731/http://spidermedia.ru/news/rezhisser-hroniki-perezagruzit-fantasticheskuyu-chetverku",
+  "tags": [
+    "fantastic-four",
+    "daredevil",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

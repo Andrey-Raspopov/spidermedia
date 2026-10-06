@@ -4,6 +4,12 @@
   "url": "/news/cifrovye-komiksy-marvel-prishli-v-rossiyu/",
   "original_url": "http://spidermedia.ru/news/cifrovye-komiksy-marvel-prishli-v-rossiyu",
   "archived": "https://web.archive.org/web/20260211184007/http://spidermedia.ru/news/cifrovye-komiksy-marvel-prishli-v-rossiyu",
+  "tags": [
+    "cifrovye-komiksy",
+    "marvel",
+    "industriya",
+    "zarubezhnye-komiksy-na-russkom"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

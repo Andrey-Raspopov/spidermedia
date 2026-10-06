@@ -4,6 +4,11 @@
   "url": "/comics/klyuchi-lokkov-srez-lokalizacii/",
   "original_url": "http://spidermedia.ru/comics/klyuchi-lokkov-srez-lokalizacii",
   "archived": "https://web.archive.org/web/20260313113354/http://spidermedia.ru/comics/klyuchi-lokkov-srez-lokalizacii",
+  "tags": [
+    "vd-publishing",
+    "gabriel-rodriguez",
+    "joe-hill"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

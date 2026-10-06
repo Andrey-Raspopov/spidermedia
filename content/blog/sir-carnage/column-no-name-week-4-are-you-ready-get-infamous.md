@@ -4,6 +4,18 @@
   "url": "/blog/sir-carnage/column-no-name-week-4-are-you-ready-get-infamous/",
   "original_url": "http://spidermedia.ru/blog/sir-carnage/column-no-name-week-4-are-you-ready-get-infamous",
   "archived": "https://web.archive.org/web/20250419043412/http://spidermedia.ru/blog/sir-carnage/column-no-name-week-4-are-you-ready-get-infamous",
+  "tags": [
+    "mnenie",
+    "umbrella-academy",
+    "thunderbolts",
+    "slapstick",
+    "norman-osborn",
+    "marvel",
+    "justice",
+    "hulk",
+    "dark-horse",
+    "the-column-with-no-name"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

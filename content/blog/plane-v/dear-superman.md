@@ -4,6 +4,11 @@
   "url": "/blog/plane-v/dear-superman/",
   "original_url": "http://spidermedia.ru/blog/plane-v/dear-superman",
   "archived": "https://web.archive.org/web/20120610132411/http://spidermedia.ru/blog/plane-v/dear-superman",
+  "tags": [
+    "dc-comics",
+    "komiksy",
+    "ferel-delrimpl"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

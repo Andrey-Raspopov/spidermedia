@@ -4,6 +4,13 @@
   "url": "/news/novyy-hudozhnik-zelenogo-fonarya/",
   "original_url": "https://spidermedia.ru/news/novyy-hudozhnik-zelenogo-fonarya",
   "archived": "https://web.archive.org/web/20251216172732/https://spidermedia.ru/news/novyy-hudozhnik-zelenogo-fonarya",
+  "tags": [
+    "dc-comics",
+    "green-lantern",
+    "blackest-night",
+    "temnejshaya-noch",
+    "dag-manke"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

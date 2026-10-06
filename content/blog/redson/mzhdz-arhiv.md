@@ -4,11 +4,14 @@
   "url": "/blog/redson/mzhdz-arhiv/",
   "original_url": "https://spidermedia.ru/blog/redson/mzhdz-arhiv",
   "archived": "https://web.archive.org/web/20260120145649/https://spidermedia.ru/blog/redson/mzhdz-arhiv",
+  "tags": [
+    "mzhdz"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-**[![](https://web.archive.org/web/20260120145649im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz.png)](https://web.archive.org/web/20260206215846/http://spidermedia.ru/tags/mzhdz) ![](https://web.archive.org/web/20260120145649im_/http://img.photobucket.com/albums/v497/spidermedia/logo/mzhdz-1.png)****ALL THOSE COMICS** **[Расшифровка системы оценок](../mzhdz-odin-vy-kak-hotite-ya-kak-hochu/)**
+**[![](https://web.archive.org/web/20260120145649im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz.png)](../../../tags/mzhdz/) ![](https://web.archive.org/web/20260120145649im_/http://img.photobucket.com/albums/v497/spidermedia/logo/mzhdz-1.png)****ALL THOSE COMICS** **[Расшифровка системы оценок](../mzhdz-odin-vy-kak-hotite-ya-kak-hochu/)**
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

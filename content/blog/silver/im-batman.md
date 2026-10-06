@@ -4,6 +4,12 @@
   "url": "/blog/silver/im-batman/",
   "original_url": "https://spidermedia.ru/blog/silver/im-batman",
   "archived": "https://web.archive.org/web/20250715223239/https://spidermedia.ru/blog/silver/im-batman",
+  "tags": [
+    "ugadajka",
+    "kartinki",
+    "dc-comics",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

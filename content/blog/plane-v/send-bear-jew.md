@@ -4,6 +4,11 @@
   "url": "/blog/plane-v/send-bear-jew/",
   "original_url": "http://spidermedia.ru/blog/plane-v/send-bear-jew",
   "archived": "https://web.archive.org/web/20120608230806/http://spidermedia.ru/blog/plane-v/send-bear-jew",
+  "tags": [
+    "lolwhat",
+    "komiksy",
+    "marvel"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

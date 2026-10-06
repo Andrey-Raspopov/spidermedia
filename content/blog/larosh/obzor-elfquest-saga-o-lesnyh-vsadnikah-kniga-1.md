@@ -4,6 +4,11 @@
   "url": "/blog/larosh/obzor-elfquest-saga-o-lesnyh-vsadnikah-kniga-1/",
   "original_url": "http://spidermedia.ru/blog/larosh/obzor-elfquest-saga-o-lesnyh-vsadnikah-kniga-1",
   "archived": "https://web.archive.org/web/20221130042847/http://spidermedia.ru/blog/larosh/obzor-elfquest-saga-o-lesnyh-vsadnikah-kniga-1",
+  "tags": [
+    "elfquest",
+    "zarubezhnye-komiksy-na-russkom",
+    "obzor"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

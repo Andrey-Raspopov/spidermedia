@@ -4,6 +4,9 @@
   "url": "/tv/best-of-2017-comic-book-tv-shows/",
   "original_url": "https://spidermedia.ru/tv/best-of-2017-comic-book-tv-shows",
   "archived": "https://web.archive.org/web/20250324163918/https://spidermedia.ru/tv/best-of-2017-comic-book-tv-shows",
+  "tags": [
+    "itogi-goda"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

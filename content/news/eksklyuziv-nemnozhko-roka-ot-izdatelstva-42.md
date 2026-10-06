@@ -4,6 +4,11 @@
   "url": "/news/eksklyuziv-nemnozhko-roka-ot-izdatelstva-42/",
   "original_url": "http://spidermedia.ru/news/eksklyuziv-nemnozhko-roka-ot-izdatelstva-42",
   "archived": "https://web.archive.org/web/20251107025946/http://spidermedia.ru/news/eksklyuziv-nemnozhko-roka-ot-izdatelstva-42",
+  "tags": [
+    "russian-comics",
+    "izdatelstvo-42",
+    "i-nemnozhko-roka"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

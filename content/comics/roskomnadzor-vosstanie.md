@@ -4,6 +4,11 @@
   "url": "/comics/roskomnadzor-vosstanie/",
   "original_url": "https://spidermedia.ru/comics/roskomnadzor-vosstanie",
   "archived": "https://web.archive.org/web/20260305225437/https://spidermedia.ru/comics/roskomnadzor-vosstanie",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "roskomnadzor",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

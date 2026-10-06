@@ -4,6 +4,12 @@
   "url": "/news/spider-man-3d-piter-i-gven/",
   "original_url": "http://spidermedia.ru/news/spider-man-3d-piter-i-gven",
   "archived": "https://web.archive.org/web/20250119071553/http://spidermedia.ru/news/spider-man-3d-piter-i-gven",
+  "tags": [
+    "emma-stoun",
+    "marvel",
+    "spider-man",
+    "endryu-garfild"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

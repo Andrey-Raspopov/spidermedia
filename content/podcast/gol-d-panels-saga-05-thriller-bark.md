@@ -4,6 +4,10 @@
   "url": "/podcast/gol-d-panels-saga-05-thriller-bark/",
   "original_url": "http://spidermedia.ru/podcast/gol-d-panels-saga-05-thriller-bark",
   "archived": "https://web.archive.org/web/20260211083433/http://spidermedia.ru/podcast/gol-d-panels-saga-05-thriller-bark",
+  "tags": [
+    "gold-panels",
+    "on-panels"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

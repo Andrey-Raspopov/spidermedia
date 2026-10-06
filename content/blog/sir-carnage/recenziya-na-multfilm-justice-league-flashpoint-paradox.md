@@ -4,6 +4,13 @@
   "url": "/blog/sir-carnage/recenziya-na-multfilm-justice-league-flashpoint-paradox/",
   "original_url": "https://spidermedia.ru/blog/sir-carnage/recenziya-na-multfilm-justice-league-flashpoint-paradox",
   "archived": "https://web.archive.org/web/20260206220840/https://spidermedia.ru/blog/sir-carnage/recenziya-na-multfilm-justice-league-flashpoint-paradox",
+  "tags": [
+    "the-flash",
+    "recenziya",
+    "justice-league",
+    "animaciya",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

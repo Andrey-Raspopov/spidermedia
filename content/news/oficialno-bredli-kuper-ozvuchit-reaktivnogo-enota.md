@@ -4,6 +4,10 @@
   "url": "/news/oficialno-bredli-kuper-ozvuchit-reaktivnogo-enota/",
   "original_url": "https://spidermedia.ru/news/oficialno-bredli-kuper-ozvuchit-reaktivnogo-enota",
   "archived": "https://web.archive.org/web/20251013185603/https://spidermedia.ru/news/oficialno-bredli-kuper-ozvuchit-reaktivnogo-enota",
+  "tags": [
+    "guardians-of-the-galaxy",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

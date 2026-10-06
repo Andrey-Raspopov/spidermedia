@@ -4,6 +4,11 @@
   "url": "/news/robert-dauni-ml-podtverdil-vyhod-zheleznogo-cheloveka-4/",
   "original_url": "http://spidermedia.ru/news/robert-dauni-ml-podtverdil-vyhod-zheleznogo-cheloveka-4",
   "archived": "https://web.archive.org/web/20251206155342/http://spidermedia.ru/news/robert-dauni-ml-podtverdil-vyhod-zheleznogo-cheloveka-4",
+  "tags": [
+    "robert-dauni-ml",
+    "marvel",
+    "iron-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

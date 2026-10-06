@@ -4,6 +4,9 @@
   "url": "/news/pop-art-productions/",
   "original_url": "http://spidermedia.ru/news/pop-art-productions",
   "archived": "https://web.archive.org/web/20251206043527/http://spidermedia.ru/news/pop-art-productions",
+  "tags": [
+    "image-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

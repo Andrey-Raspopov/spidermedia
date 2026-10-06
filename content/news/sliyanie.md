@@ -4,6 +4,18 @@
   "url": "/news/sliyanie/",
   "original_url": "http://spidermedia.ru/news/sliyanie",
   "archived": "https://web.archive.org/web/20230329030828/http://spidermedia.ru/news/sliyanie",
+  "tags": [
+    "marvel",
+    "avengers",
+    "thunderbolts",
+    "top-cow",
+    "hunter-killer",
+    "cyberforce",
+    "den-ebnett",
+    "endi-lenning",
+    "majk-choi",
+    "tajler-kirkham"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

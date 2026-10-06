@@ -4,6 +4,12 @@
   "url": "/news/otryvok-multfilma-superman-batman-apocalypse/",
   "original_url": "http://spidermedia.ru/news/otryvok-multfilma-superman-batman-apocalypse",
   "archived": "https://web.archive.org/web/20251115032734/http://spidermedia.ru/news/otryvok-multfilma-superman-batman-apocalypse",
+  "tags": [
+    "animaciya",
+    "dc-comics",
+    "superman",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

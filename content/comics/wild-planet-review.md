@@ -4,6 +4,9 @@
   "url": "/comics/wild-planet-review/",
   "original_url": "http://spidermedia.ru/comics/wild-planet-review",
   "archived": "https://web.archive.org/web/20250326011820/http://spidermedia.ru/comics/wild-planet-review",
+  "tags": [
+    "manga"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

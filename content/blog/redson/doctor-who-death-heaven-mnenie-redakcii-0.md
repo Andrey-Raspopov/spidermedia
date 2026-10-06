@@ -4,6 +4,10 @@
   "url": "/blog/redson/doctor-who-death-heaven-mnenie-redakcii-0/",
   "original_url": "http://spidermedia.ru/blog/redson/doctor-who-death-heaven-mnenie-redakcii-0",
   "archived": "https://web.archive.org/web/20250909122720/http://spidermedia.ru/blog/redson/doctor-who-death-heaven-mnenie-redakcii-0",
+  "tags": [
+    "doctor-who",
+    "obzor"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

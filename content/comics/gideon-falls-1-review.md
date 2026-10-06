@@ -4,6 +4,10 @@
   "url": "/comics/gideon-falls-1-review/",
   "original_url": "https://spidermedia.ru/comics/gideon-falls-1-review",
   "archived": "https://web.archive.org/web/20251213192525/https://spidermedia.ru/comics/gideon-falls-1-review",
+  "tags": [
+    "andrea-sorrentino",
+    "dzheff-lemir"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/games/mnenie-igromir-2018/",
   "original_url": "http://spidermedia.ru/games/mnenie-igromir-2018",
   "archived": "https://web.archive.org/web/20250208092334/http://spidermedia.ru/games/mnenie-igromir-2018",
+  "tags": [
+    "gamermedia"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

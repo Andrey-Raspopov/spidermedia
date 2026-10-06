@@ -4,6 +4,10 @@
   "url": "/comics/eccc-2016-komiks-prikvel-king-konga-vyjdet-v-iyule/",
   "original_url": "https://spidermedia.ru/comics/eccc-2016-komiks-prikvel-king-konga-vyjdet-v-iyule",
   "archived": "https://web.archive.org/web/20260306001601/https://spidermedia.ru/comics/eccc-2016-komiks-prikvel-king-konga-vyjdet-v-iyule",
+  "tags": [
+    "boom-studios",
+    "emerald-city-comicon"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

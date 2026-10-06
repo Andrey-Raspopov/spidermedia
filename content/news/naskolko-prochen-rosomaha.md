@@ -4,6 +4,14 @@
   "url": "/news/naskolko-prochen-rosomaha/",
   "original_url": "https://spidermedia.ru/news/naskolko-prochen-rosomaha",
   "archived": "https://web.archive.org/web/20260313101930/https://spidermedia.ru/news/naskolko-prochen-rosomaha",
+  "tags": [
+    "dzheyson-aaron",
+    "x-men",
+    "wolverine",
+    "weapon-x",
+    "marvel",
+    "jason-aaron"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

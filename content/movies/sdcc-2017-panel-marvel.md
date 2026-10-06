@@ -4,6 +4,15 @@
   "url": "/movies/sdcc-2017-panel-marvel/",
   "original_url": "http://spidermedia.ru/movies/sdcc-2017-panel-marvel",
   "archived": "https://web.archive.org/web/20260214133201/http://spidermedia.ru/movies/sdcc-2017-panel-marvel",
+  "tags": [
+    "marvel",
+    "captain-marvel",
+    "san-diego-comic-con-international",
+    "skrully",
+    "guardians-of-the-galaxy",
+    "thor",
+    "ant-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

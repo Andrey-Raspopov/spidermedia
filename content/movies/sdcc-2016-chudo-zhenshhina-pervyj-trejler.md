@@ -4,6 +4,11 @@
   "url": "/movies/sdcc-2016-chudo-zhenshhina-pervyj-trejler/",
   "original_url": "http://spidermedia.ru/movies/sdcc-2016-chudo-zhenshhina-pervyj-trejler",
   "archived": "https://web.archive.org/web/20260215071826/http://spidermedia.ru/movies/sdcc-2016-chudo-zhenshhina-pervyj-trejler",
+  "tags": [
+    "dc-comics",
+    "san-diego-comic-con-international",
+    "wonder-woman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

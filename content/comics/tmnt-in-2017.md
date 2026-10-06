@@ -4,6 +4,10 @@
   "url": "/comics/tmnt-in-2017/",
   "original_url": "http://spidermedia.ru/comics/tmnt-in-2017",
   "archived": "https://web.archive.org/web/20251209133017/http://spidermedia.ru/comics/tmnt-in-2017",
+  "tags": [
+    "idw-publishing",
+    "ninja-turtles"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

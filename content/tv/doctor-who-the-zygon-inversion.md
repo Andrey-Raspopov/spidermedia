@@ -4,6 +4,9 @@
   "url": "/tv/doctor-who-the-zygon-inversion/",
   "original_url": "http://spidermedia.ru/tv/doctor-who-the-zygon-inversion",
   "archived": "https://web.archive.org/web/20250808200724/http://spidermedia.ru/tv/doctor-who-the-zygon-inversion",
+  "tags": [
+    "doctor-who"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

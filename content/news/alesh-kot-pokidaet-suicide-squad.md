@@ -4,6 +4,11 @@
   "url": "/news/alesh-kot-pokidaet-suicide-squad/",
   "original_url": "http://spidermedia.ru/news/alesh-kot-pokidaet-suicide-squad",
   "archived": "https://web.archive.org/web/20250519175115/http://spidermedia.ru/news/alesh-kot-pokidaet-suicide-squad",
+  "tags": [
+    "dc-comics",
+    "ales-kot",
+    "suicide-squad"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

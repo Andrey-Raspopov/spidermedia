@@ -4,6 +4,11 @@
   "url": "/games/lego-marvels-avengers-review/",
   "original_url": "http://spidermedia.ru/games/lego-marvels-avengers-review",
   "archived": "https://web.archive.org/web/20260209120937/http://spidermedia.ru/games/lego-marvels-avengers-review",
+  "tags": [
+    "marvel",
+    "avengers",
+    "recenziya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

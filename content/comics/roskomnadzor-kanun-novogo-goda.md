@@ -4,6 +4,11 @@
   "url": "/comics/roskomnadzor-kanun-novogo-goda/",
   "original_url": "https://spidermedia.ru/comics/roskomnadzor-kanun-novogo-goda",
   "archived": "https://web.archive.org/web/20250518141531/https://spidermedia.ru/comics/roskomnadzor-kanun-novogo-goda",
+  "tags": [
+    "roskomnadzor",
+    "zarubezhnye-komiksy-na-russkom",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

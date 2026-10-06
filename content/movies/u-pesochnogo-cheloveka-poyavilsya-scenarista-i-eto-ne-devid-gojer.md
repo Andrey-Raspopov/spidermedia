@@ -4,6 +4,10 @@
   "url": "/movies/u-pesochnogo-cheloveka-poyavilsya-scenarista-i-eto-ne-devid-gojer/",
   "original_url": "http://spidermedia.ru/movies/u-pesochnogo-cheloveka-poyavilsya-scenarista-i-eto-ne-devid-gojer",
   "archived": "https://web.archive.org/web/20250807222002/http://spidermedia.ru/movies/u-pesochnogo-cheloveka-poyavilsya-scenarista-i-eto-ne-devid-gojer",
+  "tags": [
+    "neil-gaiman-sandman",
+    "vertigo"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

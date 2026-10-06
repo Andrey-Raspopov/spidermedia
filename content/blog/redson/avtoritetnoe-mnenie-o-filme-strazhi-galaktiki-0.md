@@ -4,6 +4,12 @@
   "url": "/blog/redson/avtoritetnoe-mnenie-o-filme-strazhi-galaktiki-0/",
   "original_url": "http://spidermedia.ru/blog/redson/avtoritetnoe-mnenie-o-filme-strazhi-galaktiki-0",
   "archived": "https://web.archive.org/web/20260307063440/http://spidermedia.ru/blog/redson/avtoritetnoe-mnenie-o-filme-strazhi-galaktiki-0",
+  "tags": [
+    "film",
+    "guardians-of-the-galaxy",
+    "mnenie",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

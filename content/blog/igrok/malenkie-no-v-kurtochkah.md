@@ -4,6 +4,12 @@
   "url": "/blog/igrok/malenkie-no-v-kurtochkah/",
   "original_url": "https://spidermedia.ru/blog/igrok/malenkie-no-v-kurtochkah",
   "archived": "https://web.archive.org/web/20251111080829/https://spidermedia.ru/blog/igrok/malenkie-no-v-kurtochkah",
+  "tags": [
+    "figurki",
+    "wolverine",
+    "marvel",
+    "hasbro"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

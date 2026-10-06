@@ -4,6 +4,12 @@
   "url": "/news/religioznye-treniya/",
   "original_url": "http://spidermedia.ru/news/religioznye-treniya",
   "archived": "https://web.archive.org/web/20250717182322/http://spidermedia.ru/news/religioznye-treniya",
+  "tags": [
+    "detective-comics",
+    "dc-comics",
+    "batman",
+    "azrael"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

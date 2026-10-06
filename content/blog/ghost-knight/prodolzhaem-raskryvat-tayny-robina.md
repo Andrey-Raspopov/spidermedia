@@ -4,6 +4,11 @@
   "url": "/blog/ghost-knight/prodolzhaem-raskryvat-tayny-robina/",
   "original_url": "http://spidermedia.ru/blog/ghost-knight/prodolzhaem-raskryvat-tayny-robina",
   "archived": "https://web.archive.org/web/20120607190141/http://spidermedia.ru/blog/ghost-knight/prodolzhaem-raskryvat-tayny-robina",
+  "tags": [
+    "dc-comics",
+    "dik-greyson",
+    "robin-0"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

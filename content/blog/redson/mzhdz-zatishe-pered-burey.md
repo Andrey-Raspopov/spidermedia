@@ -4,11 +4,15 @@
   "url": "/blog/redson/mzhdz-zatishe-pered-burey/",
   "original_url": "http://spidermedia.ru/blog/redson/mzhdz-zatishe-pered-burey",
   "archived": "https://web.archive.org/web/20251116060433/http://spidermedia.ru/blog/redson/mzhdz-zatishe-pered-burey",
+  "tags": [
+    "mnenie",
+    "mzhdz"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](https://web.archive.org/web/20251116060433im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz.png)](https://web.archive.org/web/20260206215846/http://spidermedia.ru/tags/mzhdz)
+[![](https://web.archive.org/web/20251116060433im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz.png)](../../../tags/mzhdz/)
 ![](https://web.archive.org/web/20251116060433im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/ka_03_025.jpg)
 **Еженедельные обзоры новых комиксов!**
 **В этом выпуске:** они перезапустили Черепашек-Ниндзя! Пока DC еще не выбросили свои 13 первых выпусков и стоит штиль, будем считать это главной новостью. И еще: Uncanny X-Force снова один из лучших комиксов на свете. Читайте, чтобы узнать, почему.

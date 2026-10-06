@@ -4,6 +4,10 @@
   "url": "/comics/vselennaya-marvel-8-mesyacev-spustya/",
   "original_url": "http://spidermedia.ru/comics/vselennaya-marvel-8-mesyacev-spustya",
   "archived": "https://web.archive.org/web/20210118134738/http://spidermedia.ru/comics/vselennaya-marvel-8-mesyacev-spustya",
+  "tags": [
+    "marvel",
+    "secret-wars"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

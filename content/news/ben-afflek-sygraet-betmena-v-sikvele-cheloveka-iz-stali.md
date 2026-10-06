@@ -4,6 +4,13 @@
   "url": "/news/ben-afflek-sygraet-betmena-v-sikvele-cheloveka-iz-stali/",
   "original_url": "http://spidermedia.ru/news/ben-afflek-sygraet-betmena-v-sikvele-cheloveka-iz-stali",
   "archived": "https://web.archive.org/web/20130828040843/http://spidermedia.ru:80/news/ben-afflek-sygraet-betmena-v-sikvele-cheloveka-iz-stali",
+  "tags": [
+    "ben-afflek",
+    "betmen",
+    "zak-snayder",
+    "kino",
+    "supermen"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

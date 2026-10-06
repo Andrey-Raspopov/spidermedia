@@ -4,6 +4,15 @@
   "url": "/news/v-predverii-psylocke-1/",
   "original_url": "http://spidermedia.ru/news/v-predverii-psylocke-1",
   "archived": "https://web.archive.org/web/20120607105610/http://spidermedia.ru/news/v-predverii-psylocke-1",
+  "tags": [
+    "psylocke",
+    "uncanny-x-men",
+    "x-men",
+    "x-universe",
+    "komiksy",
+    "marvel",
+    "psaylok"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

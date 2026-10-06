@@ -4,6 +4,12 @@
   "url": "/news/prevyu-amazing-spider-man-638/",
   "original_url": "https://spidermedia.ru/news/prevyu-amazing-spider-man-638",
   "archived": "https://web.archive.org/web/20260215081613/https://spidermedia.ru/news/prevyu-amazing-spider-man-638",
+  "tags": [
+    "paolo-rivera",
+    "dzho-kesada",
+    "marvel",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

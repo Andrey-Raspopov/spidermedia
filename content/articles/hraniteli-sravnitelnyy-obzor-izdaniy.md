@@ -4,6 +4,14 @@
   "url": "/articles/hraniteli-sravnitelnyy-obzor-izdaniy/",
   "original_url": "http://spidermedia.ru/articles/hraniteli-sravnitelnyy-obzor-izdaniy",
   "archived": "https://web.archive.org/web/20260123081215/http://spidermedia.ru/articles/hraniteli-sravnitelnyy-obzor-izdaniy",
+  "tags": [
+    "hraniteli",
+    "zarubezhnye-komiksy-na-russkom",
+    "dejv-gibbons",
+    "alan-mur",
+    "azbuka",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

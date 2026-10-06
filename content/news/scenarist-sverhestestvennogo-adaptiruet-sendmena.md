@@ -4,6 +4,10 @@
   "url": "/news/scenarist-sverhestestvennogo-adaptiruet-sendmena/",
   "original_url": "http://spidermedia.ru/news/scenarist-sverhestestvennogo-adaptiruet-sendmena",
   "archived": "https://web.archive.org/web/20250324163330/http://spidermedia.ru/news/scenarist-sverhestestvennogo-adaptiruet-sendmena",
+  "tags": [
+    "vertigo",
+    "neil-gaiman-sandman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

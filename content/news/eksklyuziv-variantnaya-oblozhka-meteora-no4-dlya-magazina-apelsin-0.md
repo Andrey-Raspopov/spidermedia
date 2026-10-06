@@ -4,6 +4,10 @@
   "url": "/news/eksklyuziv-variantnaya-oblozhka-meteora-no4-dlya-magazina-apelsin-0/",
   "original_url": "https://spidermedia.ru/news/eksklyuziv-variantnaya-oblozhka-meteora-no4-dlya-magazina-apelsin-0",
   "archived": "https://web.archive.org/web/20241205030618/https://spidermedia.ru/news/eksklyuziv-variantnaya-oblozhka-meteora-no4-dlya-magazina-apelsin-0",
+  "tags": [
+    "russian-comics",
+    "bubble"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

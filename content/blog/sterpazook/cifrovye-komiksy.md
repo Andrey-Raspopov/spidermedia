@@ -4,6 +4,10 @@
   "url": "/blog/sterpazook/cifrovye-komiksy/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/cifrovye-komiksy",
   "archived": "https://web.archive.org/web/20250524062241/http://spidermedia.ru/blog/sterpazook/cifrovye-komiksy",
+  "tags": [
+    "cifrovye-komiksy",
+    "faq"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

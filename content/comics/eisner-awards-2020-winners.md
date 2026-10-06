@@ -4,6 +4,9 @@
   "url": "/comics/eisner-awards-2020-winners/",
   "original_url": "http://spidermedia.ru/comics/eisner-awards-2020-winners",
   "archived": "https://web.archive.org/web/20250620064539/http://spidermedia.ru/comics/eisner-awards-2020-winners",
+  "tags": [
+    "eisner-awards"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

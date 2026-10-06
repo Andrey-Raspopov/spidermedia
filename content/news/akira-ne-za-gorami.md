@@ -4,6 +4,9 @@
   "url": "/news/akira-ne-za-gorami/",
   "original_url": "http://spidermedia.ru/news/akira-ne-za-gorami",
   "archived": "https://web.archive.org/web/20190929135827/http://spidermedia.ru:80/news/akira-ne-za-gorami",
+  "tags": [
+    "akira"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/blog/happycake-oven/ultimate-dc-extreme-comics-no-2/",
   "original_url": "http://spidermedia.ru/blog/happycake-oven/ultimate-dc-extreme-comics-no-2",
   "archived": "https://web.archive.org/web/20120610084420/http://spidermedia.ru/blog/happycake-oven/ultimate-dc-extreme-comics-no-2",
+  "tags": [
+    "dc-comics"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

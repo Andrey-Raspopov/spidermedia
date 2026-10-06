@@ -4,11 +4,15 @@
   "url": "/news/mzhdz-how-eat-dragon/",
   "original_url": "http://spidermedia.ru/news/mzhdz-how-eat-dragon",
   "archived": "https://web.archive.org/web/20251112165958/http://spidermedia.ru/news/mzhdz-how-eat-dragon",
+  "tags": [
+    "mzhdz",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](https://web.archive.org/web/20251112165958im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz.png)](https://web.archive.org/web/20260206215846/http://spidermedia.ru/tags/mzhdz)
+[![](https://web.archive.org/web/20251112165958im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz.png)](../../tags/mzhdz/)
 ![](https://web.archive.org/web/20251112165958im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/TheSimpsonsS23E05HDTVXviD-LOL-144133.jpg)
 [Гордон Рамзи](http://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%BC%D0%B7%D0%B8,_%D0%93%D0%BE%D1%80%D0%B4%D0%BE%D0%BD) не одобряет чрезмерное потребление жижи
 **Еженедельные обзоры новых комиксов!**

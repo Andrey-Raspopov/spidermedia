@@ -4,6 +4,15 @@
   "url": "/news/rezhisser-cheloveka-pauka/",
   "original_url": "http://spidermedia.ru/news/rezhisser-cheloveka-pauka",
   "archived": "https://web.archive.org/web/20120609210105/http://spidermedia.ru/news/rezhisser-cheloveka-pauka",
+  "tags": [
+    "spider-man",
+    "spider-man-3d",
+    "kino",
+    "komiksy",
+    "marvel",
+    "mark-uebb",
+    "chelovek-pauk"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

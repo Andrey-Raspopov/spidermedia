@@ -4,6 +4,10 @@
   "url": "/comics/new-sin-city/",
   "original_url": "http://spidermedia.ru/comics/new-sin-city",
   "archived": "https://web.archive.org/web/20250424101738/http://spidermedia.ru/comics/new-sin-city",
+  "tags": [
+    "komik-kon-v-nyu-yorke",
+    "sin-city"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

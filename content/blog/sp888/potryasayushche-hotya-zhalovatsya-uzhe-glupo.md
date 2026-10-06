@@ -4,6 +4,18 @@
   "url": "/blog/sp888/potryasayushche-hotya-zhalovatsya-uzhe-glupo/",
   "original_url": "http://spidermedia.ru/blog/sp888/potryasayushche-hotya-zhalovatsya-uzhe-glupo",
   "archived": "https://web.archive.org/web/20111018111908/http://spidermedia.ru/blog/sp888/potryasayushche-hotya-zhalovatsya-uzhe-glupo",
+  "tags": [
+    "avengers",
+    "marvel",
+    "new-avengers",
+    "spider-man",
+    "brayan-maykl-bendis",
+    "komiksy",
+    "mstiteli",
+    "novye-mstiteli",
+    "tom-brevot",
+    "chelovek-pauk"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

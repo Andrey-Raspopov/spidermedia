@@ -4,6 +4,12 @@
   "url": "/blog/sterpazook/flash-video-game-art/",
   "original_url": "https://spidermedia.ru/blog/sterpazook/flash-video-game-art",
   "archived": "https://web.archive.org/web/20260206222546/https://spidermedia.ru/blog/sterpazook/flash-video-game-art",
+  "tags": [
+    "igry",
+    "art-0",
+    "the-flash",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

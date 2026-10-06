@@ -4,6 +4,10 @@
   "url": "/news/transformery-4-rolik-s-superkubka/",
   "original_url": "https://spidermedia.ru/news/transformery-4-rolik-s-superkubka",
   "archived": "https://web.archive.org/web/20251014050916/https://spidermedia.ru/news/transformery-4-rolik-s-superkubka",
+  "tags": [
+    "trejlery",
+    "transformers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

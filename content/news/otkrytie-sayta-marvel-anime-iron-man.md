@@ -4,6 +4,13 @@
   "url": "/news/otkrytie-sayta-marvel-anime-iron-man/",
   "original_url": "http://spidermedia.ru/news/otkrytie-sayta-marvel-anime-iron-man",
   "archived": "https://web.archive.org/web/20260115053842/http://spidermedia.ru/news/otkrytie-sayta-marvel-anime-iron-man",
+  "tags": [
+    "warren-ellis",
+    "anime",
+    "animaciya",
+    "marvel",
+    "iron-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

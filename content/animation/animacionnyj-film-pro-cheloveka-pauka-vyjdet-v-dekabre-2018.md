@@ -4,6 +4,10 @@
   "url": "/animation/animacionnyj-film-pro-cheloveka-pauka-vyjdet-v-dekabre-2018/",
   "original_url": "https://spidermedia.ru/animation/animacionnyj-film-pro-cheloveka-pauka-vyjdet-v-dekabre-2018",
   "archived": "https://web.archive.org/web/20251211034210/https://spidermedia.ru/animation/animacionnyj-film-pro-cheloveka-pauka-vyjdet-v-dekabre-2018",
+  "tags": [
+    "spider-man",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

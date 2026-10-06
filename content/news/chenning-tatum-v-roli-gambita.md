@@ -4,6 +4,12 @@
   "url": "/news/chenning-tatum-v-roli-gambita/",
   "original_url": "http://spidermedia.ru/news/chenning-tatum-v-roli-gambita",
   "archived": "https://web.archive.org/web/20250913021412/http://spidermedia.ru/news/chenning-tatum-v-roli-gambita",
+  "tags": [
+    "marvel",
+    "x-men",
+    "gambit",
+    "fantastic-four"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

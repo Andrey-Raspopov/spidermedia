@@ -4,6 +4,10 @@
   "url": "/podcast/x-of-panels-04-hellions-new-mutants-cable/",
   "original_url": "http://spidermedia.ru/podcast/x-of-panels-04-hellions-new-mutants-cable",
   "archived": "https://web.archive.org/web/20260211191750/http://spidermedia.ru/podcast/x-of-panels-04-hellions-new-mutants-cable",
+  "tags": [
+    "panels-of-x",
+    "on-panels"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

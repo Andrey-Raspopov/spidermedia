@@ -4,6 +4,11 @@
   "url": "/comics/batman-nine-lives-review/",
   "original_url": "https://spidermedia.ru/comics/batman-nine-lives-review",
   "archived": "https://web.archive.org/web/20251018223243/https://spidermedia.ru/comics/batman-nine-lives-review",
+  "tags": [
+    "dc-comics",
+    "batman",
+    "batman-week"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

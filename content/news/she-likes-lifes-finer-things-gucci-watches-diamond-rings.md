@@ -4,6 +4,11 @@
   "url": "/news/she-likes-lifes-finer-things-gucci-watches-diamond-rings/",
   "original_url": "http://spidermedia.ru/news/she-likes-lifes-finer-things-gucci-watches-diamond-rings",
   "archived": "https://web.archive.org/web/20251216113158/http://spidermedia.ru/news/she-likes-lifes-finer-things-gucci-watches-diamond-rings",
+  "tags": [
+    "image-comics",
+    "dzheymi-makkelvi",
+    "kiron-gillen"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

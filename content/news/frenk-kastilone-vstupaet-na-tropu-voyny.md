@@ -4,6 +4,13 @@
   "url": "/news/frenk-kastilone-vstupaet-na-tropu-voyny/",
   "original_url": "http://spidermedia.ru/news/frenk-kastilone-vstupaet-na-tropu-voyny",
   "archived": "https://web.archive.org/web/20251107001836/http://spidermedia.ru/news/frenk-kastilone-vstupaet-na-tropu-voyny",
+  "tags": [
+    "marvel",
+    "preview",
+    "pol-azasita",
+    "frenk-tieri",
+    "punisher"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

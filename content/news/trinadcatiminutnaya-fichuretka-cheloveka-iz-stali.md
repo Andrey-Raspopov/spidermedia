@@ -4,6 +4,11 @@
   "url": "/news/trinadcatiminutnaya-fichuretka-cheloveka-iz-stali/",
   "original_url": "https://spidermedia.ru/news/trinadcatiminutnaya-fichuretka-cheloveka-iz-stali",
   "archived": "https://web.archive.org/web/20260125125455/https://spidermedia.ru/news/trinadcatiminutnaya-fichuretka-cheloveka-iz-stali",
+  "tags": [
+    "chelovek-iz-stali",
+    "superman",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

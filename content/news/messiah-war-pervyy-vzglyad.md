@@ -4,6 +4,13 @@
   "url": "/news/messiah-war-pervyy-vzglyad/",
   "original_url": "http://spidermedia.ru/news/messiah-war-pervyy-vzglyad",
   "archived": "https://web.archive.org/web/20240617223219/http://spidermedia.ru/news/messiah-war-pervyy-vzglyad",
+  "tags": [
+    "x-men",
+    "marvel",
+    "x-force",
+    "cable",
+    "hope"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

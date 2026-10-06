@@ -4,6 +4,10 @@
   "url": "/news/v-pervyy-raz-v-pervyy-klass/",
   "original_url": "http://spidermedia.ru/news/v-pervyy-raz-v-pervyy-klass",
   "archived": "https://web.archive.org/web/20191226060006/http://spidermedia.ru:80/news/v-pervyy-raz-v-pervyy-klass",
+  "tags": [
+    "dc-comics",
+    "betgyorl"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

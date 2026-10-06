@@ -4,6 +4,17 @@
   "url": "/news/v-pechat/",
   "original_url": "http://spidermedia.ru/news/v-pechat",
   "archived": "https://web.archive.org/web/20161229162945/http://spidermedia.ru:80/news/v-pechat",
+  "tags": [
+    "dc-comics",
+    "j-michael-straczynski",
+    "dan-didio",
+    "inferno",
+    "pautina",
+    "palach",
+    "web",
+    "shield",
+    "hangman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

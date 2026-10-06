@@ -4,6 +4,13 @@
   "url": "/news/anons-i-prevyu-oranzh-layf-ot-istari-komiks/",
   "original_url": "http://spidermedia.ru/news/anons-i-prevyu-oranzh-layf-ot-istari-komiks",
   "archived": "https://web.archive.org/web/20260211090529/http://spidermedia.ru/news/anons-i-prevyu-oranzh-layf-ot-istari-komiks",
+  "tags": [
+    "orange-life",
+    "dmitrij-dubrovin",
+    "istari-komiks",
+    "oranzh-lajf",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

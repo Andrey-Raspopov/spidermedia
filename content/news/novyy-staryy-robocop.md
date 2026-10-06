@@ -4,6 +4,13 @@
   "url": "/news/novyy-staryy-robocop/",
   "original_url": "https://spidermedia.ru/news/novyy-staryy-robocop",
   "archived": "https://web.archive.org/web/20260123092552/https://spidermedia.ru/news/novyy-staryy-robocop",
+  "tags": [
+    "fabian-nevis",
+    "rob-uillyams",
+    "art-0",
+    "robocop",
+    "dynamite-entertainment"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

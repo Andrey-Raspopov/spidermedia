@@ -4,6 +4,9 @@
   "url": "/news/spidermedias-mustread-comics-list-2010/",
   "original_url": "http://spidermedia.ru/news/spidermedias-mustread-comics-list-2010",
   "archived": "https://web.archive.org/web/20200214211807/http://spidermedia.ru:80/news/spidermedias-mustread-comics-list-2010",
+  "tags": [
+    "mustread"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

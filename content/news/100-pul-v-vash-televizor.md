@@ -4,6 +4,10 @@
   "url": "/news/100-pul-v-vash-televizor/",
   "original_url": "https://spidermedia.ru/news/100-pul-v-vash-televizor",
   "archived": "https://web.archive.org/web/20260215081803/https://spidermedia.ru/news/100-pul-v-vash-televizor",
+  "tags": [
+    "vertigo",
+    "serialy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

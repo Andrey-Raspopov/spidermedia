@@ -4,6 +4,11 @@
   "url": "/movies/tor-ragnaryok-podrobnosti-syuzheta/",
   "original_url": "http://spidermedia.ru/movies/tor-ragnaryok-podrobnosti-syuzheta",
   "archived": "https://web.archive.org/web/20260208194805/http://spidermedia.ru/movies/tor-ragnaryok-podrobnosti-syuzheta",
+  "tags": [
+    "marvel",
+    "thor",
+    "hulk"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

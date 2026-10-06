@@ -4,6 +4,14 @@
   "url": "/news/recenziya-na-film-chelovek-iz-stali/",
   "original_url": "https://spidermedia.ru/news/recenziya-na-film-chelovek-iz-stali",
   "archived": "https://web.archive.org/web/20260125070736/https://spidermedia.ru/news/recenziya-na-film-chelovek-iz-stali",
+  "tags": [
+    "superman",
+    "mnenie",
+    "dc-comics",
+    "recenziya",
+    "chelovek-iz-stali",
+    "man-of-steel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

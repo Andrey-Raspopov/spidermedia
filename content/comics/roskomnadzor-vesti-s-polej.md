@@ -4,6 +4,11 @@
   "url": "/comics/roskomnadzor-vesti-s-polej/",
   "original_url": "http://spidermedia.ru/comics/roskomnadzor-vesti-s-polej",
   "archived": "https://web.archive.org/web/20260125131950/http://spidermedia.ru/comics/roskomnadzor-vesti-s-polej",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "roskomnadzor",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

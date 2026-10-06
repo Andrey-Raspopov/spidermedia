@@ -4,6 +4,13 @@
   "url": "/news/pervye-oficialnye-chernye-fonari/",
   "original_url": "https://spidermedia.ru/news/pervye-oficialnye-chernye-fonari",
   "archived": "https://web.archive.org/web/20260215082653/https://spidermedia.ru/news/pervye-oficialnye-chernye-fonari",
+  "tags": [
+    "dc-comics",
+    "ethan-van-sciver",
+    "blackest-night",
+    "aquaman",
+    "temnejshaya-noch"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

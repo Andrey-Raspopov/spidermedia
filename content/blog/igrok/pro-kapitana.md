@@ -4,6 +4,10 @@
   "url": "/blog/igrok/pro-kapitana/",
   "original_url": "http://spidermedia.ru/blog/igrok/pro-kapitana",
   "archived": "https://web.archive.org/web/20260125070823/http://spidermedia.ru/blog/igrok/pro-kapitana",
+  "tags": [
+    "captain-america",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

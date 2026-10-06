@@ -4,6 +4,12 @@
   "url": "/blog/zipop/transformery-mest-padshih-chto-vrode-recenzii/",
   "original_url": "https://spidermedia.ru/blog/zipop/transformery-mest-padshih-chto-vrode-recenzii",
   "archived": "https://web.archive.org/web/20260208195425/https://spidermedia.ru/blog/zipop/transformery-mest-padshih-chto-vrode-recenzii",
+  "tags": [
+    "mnenie",
+    "recenziya",
+    "majkl-bej",
+    "transformers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

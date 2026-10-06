@@ -4,6 +4,9 @@
   "url": "/comics/manga-fairy-tail/",
   "original_url": "https://spidermedia.ru/comics/manga-fairy-tail",
   "archived": "https://web.archive.org/web/20251115033354/https://spidermedia.ru/comics/manga-fairy-tail",
+  "tags": [
+    "manga"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,20 @@
   "url": "/blog/hella/roskomnadzor-bystree-vyshe-silnee-itogi-2014-goda/",
   "original_url": "https://spidermedia.ru/blog/hella/roskomnadzor-bystree-vyshe-silnee-itogi-2014-goda",
   "archived": "https://web.archive.org/web/20260115051015/https://spidermedia.ru/blog/hella/roskomnadzor-bystree-vyshe-silnee-itogi-2014-goda",
+  "tags": [
+    "russian-comics",
+    "roskomnadzor",
+    "komilfo",
+    "zarubezhnye-komiksy-na-russkom",
+    "dorogaya-redakciya",
+    "boomkniga",
+    "ast",
+    "amfora",
+    "azbuka",
+    "xl-media",
+    "viverra-publishing",
+    "bubble"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

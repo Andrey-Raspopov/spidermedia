@@ -4,6 +4,16 @@
   "url": "/news/altimeyt-pauk-art-i-kolor/",
   "original_url": "http://spidermedia.ru/news/altimeyt-pauk-art-i-kolor",
   "archived": "https://web.archive.org/web/20260208202620/http://spidermedia.ru/news/altimeyt-pauk-art-i-kolor",
+  "tags": [
+    "kartinki",
+    "devid-lafuente",
+    "dzhastin-ponsor",
+    "brian-michael-bendis",
+    "art-0",
+    "ultimate",
+    "marvel",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

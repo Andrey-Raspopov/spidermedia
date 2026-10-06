@@ -4,6 +4,10 @@
   "url": "/movies/novyj-trejler-otryada-samoubijc/",
   "original_url": "https://spidermedia.ru/movies/novyj-trejler-otryada-samoubijc",
   "archived": "https://web.archive.org/web/20260125063518/https://spidermedia.ru/movies/novyj-trejler-otryada-samoubijc",
+  "tags": [
+    "dc-comics",
+    "suicide-squad"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

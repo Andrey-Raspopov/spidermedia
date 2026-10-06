@@ -4,6 +4,12 @@
   "url": "/news/chelovek-slova/",
   "original_url": "http://spidermedia.ru/news/chelovek-slova",
   "archived": "https://web.archive.org/web/20160917071230/http://spidermedia.ru:80/news/chelovek-slova",
+  "tags": [
+    "tizer",
+    "iron-fist",
+    "marvel",
+    "fear-itself"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

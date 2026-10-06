@@ -4,6 +4,9 @@
   "url": "/games/gamermedia-24-tes-i-sao/",
   "original_url": "http://spidermedia.ru/games/gamermedia-24-tes-i-sao",
   "archived": "https://web.archive.org/web/20250518133701/http://spidermedia.ru/games/gamermedia-24-tes-i-sao",
+  "tags": [
+    "gamermedia"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

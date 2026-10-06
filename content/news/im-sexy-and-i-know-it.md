@@ -4,6 +4,12 @@
   "url": "/news/im-sexy-and-i-know-it/",
   "original_url": "https://spidermedia.ru/news/im-sexy-and-i-know-it",
   "archived": "https://web.archive.org/web/20251216174431/https://spidermedia.ru/news/im-sexy-and-i-know-it",
+  "tags": [
+    "klej-mann",
+    "dzhejms-ezmus",
+    "gambit",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

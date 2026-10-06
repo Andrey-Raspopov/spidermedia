@@ -4,6 +4,9 @@
   "url": "/blog/happycake-oven/love-cheese/",
   "original_url": "http://spidermedia.ru/blog/happycake-oven/love-cheese",
   "archived": "https://web.archive.org/web/20120607161458/http://spidermedia.ru/blog/happycake-oven/love-cheese",
+  "tags": [
+    "skyrim"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

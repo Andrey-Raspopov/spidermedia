@@ -4,6 +4,11 @@
   "url": "/blog/derden/mnogoobrazie-mangi-i-s-chem-eyo-est/",
   "original_url": "http://spidermedia.ru/blog/derden/mnogoobrazie-mangi-i-s-chem-eyo-est",
   "archived": "https://web.archive.org/web/20250618112620/http://spidermedia.ru/blog/derden/mnogoobrazie-mangi-i-s-chem-eyo-est",
+  "tags": [
+    "manga",
+    "kelli-syu-dekonnik",
+    "alena-kamyshevskaya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

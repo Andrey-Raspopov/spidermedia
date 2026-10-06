@@ -4,6 +4,13 @@
   "url": "/news/magicheskiy-bachalo/",
   "original_url": "http://spidermedia.ru/news/magicheskiy-bachalo",
   "archived": "https://web.archive.org/web/20190728222735/http://spidermedia.ru:80/news/magicheskiy-bachalo",
+  "tags": [
+    "avengers",
+    "kris-bachalo",
+    "art-0",
+    "new-avengers",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

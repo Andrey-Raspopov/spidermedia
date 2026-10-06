@@ -4,6 +4,9 @@
   "url": "/blog/naya/ikkitousen/",
   "original_url": "https://spidermedia.ru/blog/naya/ikkitousen",
   "archived": "https://web.archive.org/web/20251107003948/https://spidermedia.ru/blog/naya/ikkitousen",
+  "tags": [
+    "manga"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

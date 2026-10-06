@@ -4,6 +4,9 @@
   "url": "/movies/batman-and-kutuzov/",
   "original_url": "https://spidermedia.ru/movies/batman-and-kutuzov",
   "archived": "https://web.archive.org/web/20251012164901/https://spidermedia.ru/movies/batman-and-kutuzov",
+  "tags": [
+    "batman-and-robin-day"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

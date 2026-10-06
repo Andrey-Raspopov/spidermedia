@@ -4,6 +4,9 @@
   "url": "/news/igromir-2014-i-comic-con-russia-2014-nachalas-prodazha-biletov/",
   "original_url": "http://spidermedia.ru/news/igromir-2014-i-comic-con-russia-2014-nachalas-prodazha-biletov",
   "archived": "https://web.archive.org/web/20251117010510/http://spidermedia.ru/news/igromir-2014-i-comic-con-russia-2014-nachalas-prodazha-biletov",
+  "tags": [
+    "comic-con-russia"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

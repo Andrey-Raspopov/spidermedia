@@ -4,6 +4,13 @@
   "url": "/news/kicking-kick-asss-ass/",
   "original_url": "https://spidermedia.ru/news/kicking-kick-asss-ass",
   "archived": "https://web.archive.org/web/20251213195728/https://spidermedia.ru/news/kicking-kick-asss-ass",
+  "tags": [
+    "stiv-makniven",
+    "mark-millar",
+    "nemesis",
+    "marvel",
+    "icon-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

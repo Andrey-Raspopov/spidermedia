@@ -4,6 +4,15 @@
   "url": "/news/izumrudnye-voiny/",
   "original_url": "https://spidermedia.ru/news/izumrudnye-voiny",
   "archived": "https://web.archive.org/web/20250429005840/https://spidermedia.ru/news/izumrudnye-voiny",
+  "tags": [
+    "fernando-pasarin",
+    "toni-bedard",
+    "svetlejshij-den",
+    "piter-tomasi",
+    "peter-j.-tomasi",
+    "dc-comics",
+    "green-lantern"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

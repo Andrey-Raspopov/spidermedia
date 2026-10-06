@@ -4,6 +4,11 @@
   "url": "/news/flash-fastest-man-alive/",
   "original_url": "https://spidermedia.ru/news/flash-fastest-man-alive",
   "archived": "https://web.archive.org/web/20260125121456/https://spidermedia.ru/news/flash-fastest-man-alive",
+  "tags": [
+    "the-flash",
+    "serialy",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

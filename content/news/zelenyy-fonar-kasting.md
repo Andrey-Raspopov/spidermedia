@@ -4,6 +4,12 @@
   "url": "/news/zelenyy-fonar-kasting/",
   "original_url": "http://spidermedia.ru/news/zelenyy-fonar-kasting",
   "archived": "https://web.archive.org/web/20250518141123/http://spidermedia.ru/news/zelenyy-fonar-kasting",
+  "tags": [
+    "green-lantern",
+    "hal-jordan",
+    "hel-dzhordan",
+    "kris-pajn"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

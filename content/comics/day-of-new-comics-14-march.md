@@ -4,6 +4,9 @@
   "url": "/comics/day-of-new-comics-14-march/",
   "original_url": "http://spidermedia.ru/comics/day-of-new-comics-14-march",
   "archived": "https://web.archive.org/web/20190915013546/http://spidermedia.ru:80/comics/day-of-new-comics-14-march",
+  "tags": [
+    "den-novyh-komiksov"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

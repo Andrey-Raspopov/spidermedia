@@ -4,6 +4,14 @@
   "url": "/blog/baka-chan/starye-pesni-o-glavnom/",
   "original_url": "http://spidermedia.ru/blog/baka-chan/starye-pesni-o-glavnom",
   "archived": "https://web.archive.org/web/20250519184152/http://spidermedia.ru/blog/baka-chan/starye-pesni-o-glavnom",
+  "tags": [
+    "marv-vulfman",
+    "dzhordzh-perez",
+    "teen-titans",
+    "marv-wolfman",
+    "george-perez",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

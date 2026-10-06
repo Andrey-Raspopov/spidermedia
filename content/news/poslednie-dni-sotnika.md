@@ -4,6 +4,11 @@
   "url": "/news/poslednie-dni-sotnika/",
   "original_url": "https://spidermedia.ru/news/poslednie-dni-sotnika",
   "archived": "https://web.archive.org/web/20260305234418/https://spidermedia.ru/news/poslednie-dni-sotnika",
+  "tags": [
+    "toni-harris",
+    "brian-k-vaughan",
+    "tony-harris"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

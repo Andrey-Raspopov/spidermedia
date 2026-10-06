@@ -4,6 +4,9 @@
   "url": "/comics/day-of-new-comics-6-december/",
   "original_url": "http://spidermedia.ru/comics/day-of-new-comics-6-december",
   "archived": "https://web.archive.org/web/20220314065408/http://spidermedia.ru/comics/day-of-new-comics-6-december",
+  "tags": [
+    "den-novyh-komiksov"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/news/geympley-otmenyonnoy-igry-mstiteli-video/",
   "original_url": "http://spidermedia.ru/news/geympley-otmenyonnoy-igry-mstiteli-video",
   "archived": "https://web.archive.org/web/20260314080212/http://spidermedia.ru/news/geympley-otmenyonnoy-igry-mstiteli-video",
+  "tags": [
+    "avengers",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

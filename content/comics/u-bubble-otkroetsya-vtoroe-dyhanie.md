@@ -4,6 +4,10 @@
   "url": "/comics/u-bubble-otkroetsya-vtoroe-dyhanie/",
   "original_url": "http://spidermedia.ru/comics/u-bubble-otkroetsya-vtoroe-dyhanie",
   "archived": "https://web.archive.org/web/20260301085510/http://spidermedia.ru/comics/u-bubble-otkroetsya-vtoroe-dyhanie",
+  "tags": [
+    "bubble",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

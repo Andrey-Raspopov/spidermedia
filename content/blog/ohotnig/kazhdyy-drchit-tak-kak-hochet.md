@@ -4,6 +4,11 @@
   "url": "/blog/ohotnig/kazhdyy-drchit-tak-kak-hochet/",
   "original_url": "https://spidermedia.ru/blog/ohotnig/kazhdyy-drchit-tak-kak-hochet",
   "archived": "https://web.archive.org/web/20250327225856/https://spidermedia.ru/blog/ohotnig/kazhdyy-drchit-tak-kak-hochet",
+  "tags": [
+    "hellboj",
+    "fanart",
+    "bprd"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

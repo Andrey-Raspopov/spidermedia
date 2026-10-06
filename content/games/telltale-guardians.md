@@ -4,6 +4,10 @@
   "url": "/games/telltale-guardians/",
   "original_url": "https://spidermedia.ru/games/telltale-guardians",
   "archived": "https://web.archive.org/web/20251211035253/https://spidermedia.ru/games/telltale-guardians",
+  "tags": [
+    "marvel",
+    "guardians-of-the-galaxy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

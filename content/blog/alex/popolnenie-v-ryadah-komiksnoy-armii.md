@@ -4,6 +4,14 @@
   "url": "/blog/alex/popolnenie-v-ryadah-komiksnoy-armii/",
   "original_url": "https://spidermedia.ru/blog/alex/popolnenie-v-ryadah-komiksnoy-armii",
   "archived": "https://web.archive.org/web/20250804013325/https://spidermedia.ru/blog/alex/popolnenie-v-ryadah-komiksnoy-armii",
+  "tags": [
+    "dc-comics",
+    "the-flash",
+    "green-lantern",
+    "superman",
+    "kollekciya",
+    "dejl-iglshem"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

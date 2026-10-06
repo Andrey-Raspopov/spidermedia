@@ -4,6 +4,16 @@
   "url": "/movies/oficialno-predstavlen-sostav-ligi-spravedlivosti/",
   "original_url": "https://spidermedia.ru/movies/oficialno-predstavlen-sostav-ligi-spravedlivosti",
   "archived": "https://web.archive.org/web/20251206151126/https://spidermedia.ru/movies/oficialno-predstavlen-sostav-ligi-spravedlivosti",
+  "tags": [
+    "cyborg",
+    "aquaman",
+    "batman",
+    "justice-league",
+    "superman",
+    "the-flash",
+    "wonder-woman",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

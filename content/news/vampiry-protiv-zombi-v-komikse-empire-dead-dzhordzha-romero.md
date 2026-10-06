@@ -4,6 +4,13 @@
   "url": "/news/vampiry-protiv-zombi-v-komikse-empire-dead-dzhordzha-romero/",
   "original_url": "https://spidermedia.ru/news/vampiry-protiv-zombi-v-komikse-empire-dead-dzhordzha-romero",
   "archived": "https://web.archive.org/web/20250328002043/https://spidermedia.ru/news/vampiry-protiv-zombi-v-komikse-empire-dead-dzhordzha-romero",
+  "tags": [
+    "alex-maleev",
+    "frenk-cho",
+    "marvel",
+    "zombi",
+    "dzhordzh-romero"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

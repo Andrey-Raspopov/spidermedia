@@ -4,6 +4,14 @@
   "url": "/news/dream-another-dream-ili-god-vinzora-makkeya/",
   "original_url": "https://spidermedia.ru/news/dream-another-dream-ili-god-vinzora-makkeya",
   "archived": "https://web.archive.org/web/20260312013928/https://spidermedia.ru/news/dream-another-dream-ili-god-vinzora-makkeya",
+  "tags": [
+    "erik-shanover",
+    "gabriel-rodriguez",
+    "vindzor-makkej",
+    "little-nemo",
+    "kickstart-comics",
+    "idw-publishing"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

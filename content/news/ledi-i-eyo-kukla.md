@@ -4,6 +4,13 @@
   "url": "/news/ledi-i-eyo-kukla/",
   "original_url": "http://spidermedia.ru/news/ledi-i-eyo-kukla",
   "archived": "https://web.archive.org/web/20251014033631/http://spidermedia.ru/news/ledi-i-eyo-kukla",
+  "tags": [
+    "ket-steggs",
+    "dzhimmi-palmiotti",
+    "dzhastin-grej",
+    "amanda-konner",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

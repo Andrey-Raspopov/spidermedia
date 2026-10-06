@@ -4,6 +4,12 @@
   "url": "/news/mstiteli-koncept-art/",
   "original_url": "https://spidermedia.ru/news/mstiteli-koncept-art",
   "archived": "https://web.archive.org/web/20241106123159/https://spidermedia.ru/news/mstiteli-koncept-art",
+  "tags": [
+    "koncept-art",
+    "art-0",
+    "marvel",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

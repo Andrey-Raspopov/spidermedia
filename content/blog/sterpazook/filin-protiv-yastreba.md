@@ -4,6 +4,13 @@
   "url": "/blog/sterpazook/filin-protiv-yastreba/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/filin-protiv-yastreba",
   "archived": "https://web.archive.org/web/20260214134731/http://spidermedia.ru/blog/sterpazook/filin-protiv-yastreba",
+  "tags": [
+    "marvel",
+    "hraniteli",
+    "dc-comics",
+    "mark-millar",
+    "ultimate"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

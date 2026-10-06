@@ -4,6 +4,9 @@
   "url": "/blog/sonyn/batman-do-u-smoke-vodka/",
   "original_url": "http://spidermedia.ru/blog/sonyn/batman-do-u-smoke-vodka",
   "archived": "https://web.archive.org/web/20120718054602/http://spidermedia.ru/blog/sonyn/batman-do-u-smoke-vodka",
+  "tags": [
+    "batman"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

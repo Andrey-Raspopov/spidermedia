@@ -4,6 +4,15 @@
   "url": "/news/kto-etot-krasivyy-muzhchina/",
   "original_url": "http://spidermedia.ru/news/kto-etot-krasivyy-muzhchina",
   "archived": "https://web.archive.org/web/20120607142518/http://spidermedia.ru/news/kto-etot-krasivyy-muzhchina",
+  "tags": [
+    "hot-toys",
+    "hugh-jackman",
+    "kino",
+    "lyudi-iks",
+    "rosomaha",
+    "figurki",
+    "hyu-dzhekman"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/comics/mzhdz-media-of-spiders/",
   "original_url": "http://spidermedia.ru/comics/mzhdz-media-of-spiders",
   "archived": "https://web.archive.org/web/20200218015558/http://spidermedia.ru:80/comics/mzhdz-media-of-spiders",
+  "tags": [
+    "mzhdz"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

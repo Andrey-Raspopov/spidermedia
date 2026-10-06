@@ -4,6 +4,11 @@
   "url": "/blog/redson/all-new-mzhdz-cherepashki-nindzya/",
   "original_url": "https://spidermedia.ru/blog/redson/all-new-mzhdz-cherepashki-nindzya",
   "archived": "https://web.archive.org/web/20250424100340/https://spidermedia.ru/blog/redson/all-new-mzhdz-cherepashki-nindzya",
+  "tags": [
+    "ninja-turtles",
+    "mnenie",
+    "mzhdz"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

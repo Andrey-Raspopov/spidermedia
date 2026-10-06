@@ -4,6 +4,10 @@
   "url": "/comics/pravyj-pereplet-08/",
   "original_url": "http://spidermedia.ru/comics/pravyj-pereplet-08",
   "archived": "https://web.archive.org/web/20250116124245/http://spidermedia.ru/comics/pravyj-pereplet-08",
+  "tags": [
+    "manga",
+    "right-binding"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

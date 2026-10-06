@@ -4,6 +4,9 @@
   "url": "/comics/bubblemedia-forever/",
   "original_url": "http://spidermedia.ru/comics/bubblemedia-forever",
   "archived": "https://web.archive.org/web/20220808155842/http://spidermedia.ru/comics/bubblemedia-forever",
+  "tags": [
+    "bubble"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

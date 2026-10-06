@@ -4,6 +4,11 @@
   "url": "/blog/plane-v/grafromany-v-sentyabre-2010-marvel/",
   "original_url": "http://spidermedia.ru/blog/plane-v/grafromany-v-sentyabre-2010-marvel",
   "archived": "https://web.archive.org/web/20251107003815/http://spidermedia.ru/blog/plane-v/grafromany-v-sentyabre-2010-marvel",
+  "tags": [
+    "handnh",
+    "relizy",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

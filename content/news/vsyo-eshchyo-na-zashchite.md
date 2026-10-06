@@ -4,6 +4,12 @@
   "url": "/news/vsyo-eshchyo-na-zashchite/",
   "original_url": "http://spidermedia.ru/news/vsyo-eshchyo-na-zashchite",
   "archived": "https://web.archive.org/web/20120505032949/http://spidermedia.ru/news/vsyo-eshchyo-na-zashchite",
+  "tags": [
+    "guardians-globe",
+    "image-comics",
+    "todd-nauk",
+    "fil-hester"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

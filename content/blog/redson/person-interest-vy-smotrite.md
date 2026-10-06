@@ -4,6 +4,10 @@
   "url": "/blog/redson/person-interest-vy-smotrite/",
   "original_url": "http://spidermedia.ru/blog/redson/person-interest-vy-smotrite",
   "archived": "https://web.archive.org/web/20230323035438/http://spidermedia.ru/blog/redson/person-interest-vy-smotrite",
+  "tags": [
+    "obzor",
+    "serialy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

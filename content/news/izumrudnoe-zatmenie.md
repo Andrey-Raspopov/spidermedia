@@ -4,6 +4,11 @@
   "url": "/news/izumrudnoe-zatmenie/",
   "original_url": "http://spidermedia.ru/news/izumrudnoe-zatmenie",
   "archived": "https://web.archive.org/web/20260125125240/http://spidermedia.ru/news/izumrudnoe-zatmenie",
+  "tags": [
+    "dc-comics",
+    "green-lantern",
+    "preview"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

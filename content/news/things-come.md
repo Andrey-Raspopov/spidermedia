@@ -4,6 +4,14 @@
   "url": "/news/things-come/",
   "original_url": "http://spidermedia.ru/news/things-come",
   "archived": "https://web.archive.org/web/20120608231050/http://spidermedia.ru/news/things-come",
+  "tags": [
+    "second-coming",
+    "x-men",
+    "x-universe",
+    "komiksy",
+    "lyudi-iks",
+    "marvel"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

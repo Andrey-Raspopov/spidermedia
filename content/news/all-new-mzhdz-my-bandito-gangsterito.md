@@ -4,6 +4,10 @@
   "url": "/news/all-new-mzhdz-my-bandito-gangsterito/",
   "original_url": "https://spidermedia.ru/news/all-new-mzhdz-my-bandito-gangsterito",
   "archived": "https://web.archive.org/web/20251107003457/https://spidermedia.ru/news/all-new-mzhdz-my-bandito-gangsterito",
+  "tags": [
+    "mnenie",
+    "mzhdz"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

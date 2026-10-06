@@ -4,6 +4,11 @@
   "url": "/blog/silver/lets-eat1/",
   "original_url": "http://spidermedia.ru/blog/silver/lets-eat1",
   "archived": "https://web.archive.org/web/20120608025908/http://spidermedia.ru/blog/silver/lets-eat1",
+  "tags": [
+    "marvel-zombies",
+    "komiksy",
+    "marvel"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/news/nbc-snimet-serial-pro-konstantina/",
   "original_url": "http://spidermedia.ru/news/nbc-snimet-serial-pro-konstantina",
   "archived": "https://web.archive.org/web/20260308234711/http://spidermedia.ru/news/nbc-snimet-serial-pro-konstantina",
+  "tags": [
+    "serialy",
+    "dc-comics",
+    "hellblazer",
+    "dzhon-konstantin"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

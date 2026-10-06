@@ -4,6 +4,14 @@
   "url": "/news/legko-li-byt-synom-halka/",
   "original_url": "https://spidermedia.ru/news/legko-li-byt-synom-halka",
   "archived": "https://web.archive.org/web/20251115183334/https://spidermedia.ru/news/legko-li-byt-synom-halka",
+  "tags": [
+    "marvel",
+    "hulk",
+    "pol-dzhenkins",
+    "kristos-gejdzh",
+    "skaar",
+    "greg-pak"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,13 @@
   "url": "/news/tizer-ultimate-x/",
   "original_url": "http://spidermedia.ru/news/tizer-ultimate-x",
   "archived": "https://web.archive.org/web/20180313215511/http://spidermedia.ru:80/news/tizer-ultimate-x",
+  "tags": [
+    "dzhef-loeb",
+    "artur-adams",
+    "art-0",
+    "ultimate",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/news/super-protivniki-cheloveka-iz-stali/",
   "original_url": "http://spidermedia.ru/news/super-protivniki-cheloveka-iz-stali",
   "archived": "https://web.archive.org/web/20111125225903/http://spidermedia.ru/news/super-protivniki-cheloveka-iz-stali",
+  "tags": [
+    "dc-comics",
+    "komiksy",
+    "supermen"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

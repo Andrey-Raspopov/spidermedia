@@ -4,6 +4,13 @@
   "url": "/blog/redson/watchmen-parodiynye-veb-komiksy/",
   "original_url": "http://spidermedia.ru/blog/redson/watchmen-parodiynye-veb-komiksy",
   "archived": "https://web.archive.org/web/20251115033847/http://spidermedia.ru/blog/redson/watchmen-parodiynye-veb-komiksy",
+  "tags": [
+    "hraniteli",
+    "rorschach",
+    "yumor",
+    "veb-komiksy",
+    "rorshah"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

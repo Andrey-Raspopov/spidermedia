@@ -4,6 +4,10 @@
   "url": "/news/pozdravlyaem-pobediteley-viktoriny-comic-con-russia-0/",
   "original_url": "http://spidermedia.ru/news/pozdravlyaem-pobediteley-viktoriny-comic-con-russia-0",
   "archived": "https://web.archive.org/web/20260309174943/http://spidermedia.ru/news/pozdravlyaem-pobediteley-viktoriny-comic-con-russia-0",
+  "tags": [
+    "comic-con-russia",
+    "konkurs"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

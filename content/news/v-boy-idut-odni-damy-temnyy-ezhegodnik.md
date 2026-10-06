@@ -4,6 +4,15 @@
   "url": "/news/v-boy-idut-odni-damy-temnyy-ezhegodnik/",
   "original_url": "https://spidermedia.ru/news/v-boy-idut-odni-damy-temnyy-ezhegodnik",
   "archived": "https://web.archive.org/web/20260306001452/https://spidermedia.ru/news/v-boy-idut-odni-damy-temnyy-ezhegodnik",
+  "tags": [
+    "avengers",
+    "majk-mejhyu",
+    "brian-michael-bendis",
+    "art-0",
+    "new-avengers",
+    "marvel",
+    "kris-bachalo"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

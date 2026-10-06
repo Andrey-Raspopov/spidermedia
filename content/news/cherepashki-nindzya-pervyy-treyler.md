@@ -4,6 +4,10 @@
   "url": "/news/cherepashki-nindzya-pervyy-treyler/",
   "original_url": "http://spidermedia.ru/news/cherepashki-nindzya-pervyy-treyler",
   "archived": "https://web.archive.org/web/20260125115956/http://spidermedia.ru/news/cherepashki-nindzya-pervyy-treyler",
+  "tags": [
+    "ninja-turtles",
+    "trejlery"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

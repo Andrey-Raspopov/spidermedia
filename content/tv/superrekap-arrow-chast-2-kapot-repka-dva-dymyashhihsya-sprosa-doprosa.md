@@ -4,6 +4,9 @@
   "url": "/tv/superrekap-arrow-chast-2-kapot-repka-dva-dymyashhihsya-sprosa-doprosa/",
   "original_url": "http://spidermedia.ru/tv/superrekap-arrow-chast-2-kapot-repka-dva-dymyashhihsya-sprosa-doprosa",
   "archived": "https://web.archive.org/web/20251216172354/http://spidermedia.ru/tv/superrekap-arrow-chast-2-kapot-repka-dva-dymyashhihsya-sprosa-doprosa",
+  "tags": [
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

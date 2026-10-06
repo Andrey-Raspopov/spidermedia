@@ -4,6 +4,17 @@
   "url": "/blog/sir-carnage/column-no-name-week-6-different-avengers-different-avengers/",
   "original_url": "http://spidermedia.ru/blog/sir-carnage/column-no-name-week-6-different-avengers-different-avengers",
   "archived": "https://web.archive.org/web/20251106232655/http://spidermedia.ru/blog/sir-carnage/column-no-name-week-6-different-avengers-different-avengers",
+  "tags": [
+    "neil-gaiman",
+    "thor",
+    "skrull-kill-krew",
+    "marvel",
+    "prizrachnyj-gonshhik",
+    "detective-comics",
+    "dc-comics",
+    "batman",
+    "the-column-with-no-name"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

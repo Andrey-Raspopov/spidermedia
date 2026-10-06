@@ -4,6 +4,12 @@
   "url": "/news/parker-lightning/",
   "original_url": "http://spidermedia.ru/news/parker-lightning",
   "archived": "https://web.archive.org/web/20260211085110/http://spidermedia.ru/news/parker-lightning",
+  "tags": [
+    "dzheff-parker",
+    "thunderbolts",
+    "marvel",
+    "agenty-atlasa"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

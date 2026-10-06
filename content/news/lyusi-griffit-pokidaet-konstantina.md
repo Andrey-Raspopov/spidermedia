@@ -4,6 +4,10 @@
   "url": "/news/lyusi-griffit-pokidaet-konstantina/",
   "original_url": "http://spidermedia.ru/news/lyusi-griffit-pokidaet-konstantina",
   "archived": "https://web.archive.org/web/20250717192214/http://spidermedia.ru/news/lyusi-griffit-pokidaet-konstantina",
+  "tags": [
+    "kasting",
+    "dzhon-konstantin"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

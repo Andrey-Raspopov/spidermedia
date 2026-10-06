@@ -4,6 +4,13 @@
   "url": "/blog/sterpazook/redizayn-personazhey-podborka-fanarta/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/redizayn-personazhey-podborka-fanarta",
   "archived": "https://web.archive.org/web/20120607163310/http://spidermedia.ru/blog/sterpazook/redizayn-personazhey-podborka-fanarta",
+  "tags": [
+    "redesign",
+    "ultimizing",
+    "art-0",
+    "redizayn",
+    "fanart"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

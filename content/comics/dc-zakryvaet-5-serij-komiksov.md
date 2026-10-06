@@ -4,6 +4,9 @@
   "url": "/comics/dc-zakryvaet-5-serij-komiksov/",
   "original_url": "http://spidermedia.ru/comics/dc-zakryvaet-5-serij-komiksov",
   "archived": "https://web.archive.org/web/20250424091844/http://spidermedia.ru/comics/dc-zakryvaet-5-serij-komiksov",
+  "tags": [
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

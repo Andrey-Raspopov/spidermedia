@@ -4,6 +4,10 @@
   "url": "/tv/propovednik-data-premery-i-poster/",
   "original_url": "https://spidermedia.ru/tv/propovednik-data-premery-i-poster",
   "archived": "https://web.archive.org/web/20250518124200/https://spidermedia.ru/tv/propovednik-data-premery-i-poster",
+  "tags": [
+    "vertigo",
+    "preacher"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

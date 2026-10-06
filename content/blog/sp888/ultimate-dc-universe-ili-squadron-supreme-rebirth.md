@@ -4,6 +4,14 @@
   "url": "/blog/sp888/ultimate-dc-universe-ili-squadron-supreme-rebirth/",
   "original_url": "http://spidermedia.ru/blog/sp888/ultimate-dc-universe-ili-squadron-supreme-rebirth",
   "archived": "https://web.archive.org/web/20111018062734/http://spidermedia.ru/blog/sp888/ultimate-dc-universe-ili-squadron-supreme-rebirth",
+  "tags": [
+    "hyperion",
+    "squadron-supreme",
+    "supreme-power",
+    "govard-chaykin",
+    "dzhey-maykl-strazhinskiy",
+    "evropeyskie-hudozhniki"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

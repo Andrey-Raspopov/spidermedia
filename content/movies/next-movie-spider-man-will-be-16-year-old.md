@@ -4,6 +4,10 @@
   "url": "/movies/next-movie-spider-man-will-be-16-year-old/",
   "original_url": "https://spidermedia.ru/movies/next-movie-spider-man-will-be-16-year-old",
   "archived": "https://web.archive.org/web/20260115053155/https://spidermedia.ru/movies/next-movie-spider-man-will-be-16-year-old",
+  "tags": [
+    "marvel",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

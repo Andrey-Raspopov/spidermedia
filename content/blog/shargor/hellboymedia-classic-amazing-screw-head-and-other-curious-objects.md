@@ -4,6 +4,10 @@
   "url": "/blog/shargor/hellboymedia-classic-amazing-screw-head-and-other-curious-objects/",
   "original_url": "https://spidermedia.ru/blog/shargor/hellboymedia-classic-amazing-screw-head-and-other-curious-objects",
   "archived": "https://web.archive.org/web/20251207093359/https://spidermedia.ru/blog/shargor/hellboymedia-classic-amazing-screw-head-and-other-curious-objects",
+  "tags": [
+    "hellboymedia",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/news/koncept-art-k-igre-po-filmu-mstiteli/",
   "original_url": "http://spidermedia.ru/news/koncept-art-k-igre-po-filmu-mstiteli",
   "archived": "https://web.archive.org/web/20260314084006/http://spidermedia.ru/news/koncept-art-k-igre-po-filmu-mstiteli",
+  "tags": [
+    "koncept-art",
+    "igry",
+    "marvel",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

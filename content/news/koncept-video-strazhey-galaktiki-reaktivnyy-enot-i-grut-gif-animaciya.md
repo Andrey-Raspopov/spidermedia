@@ -4,6 +4,10 @@
   "url": "/news/koncept-video-strazhey-galaktiki-reaktivnyy-enot-i-grut-gif-animaciya/",
   "original_url": "http://spidermedia.ru/news/koncept-video-strazhey-galaktiki-reaktivnyy-enot-i-grut-gif-animaciya",
   "archived": "https://web.archive.org/web/20241009223318/http://spidermedia.ru/news/koncept-video-strazhey-galaktiki-reaktivnyy-enot-i-grut-gif-animaciya",
+  "tags": [
+    "guardians-of-the-galaxy",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

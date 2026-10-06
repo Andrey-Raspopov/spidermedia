@@ -4,6 +4,16 @@
   "url": "/news/strazhinskiy-svyazist/",
   "original_url": "http://spidermedia.ru/news/strazhinskiy-svyazist",
   "archived": "https://web.archive.org/web/20260309180249/http://spidermedia.ru/news/strazhinskiy-svyazist",
+  "tags": [
+    "dc-comics",
+    "j-michael-straczynski",
+    "skott-makdeniel",
+    "inferno",
+    "pautina",
+    "web",
+    "shield",
+    "hangman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

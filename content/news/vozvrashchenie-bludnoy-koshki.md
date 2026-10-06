@@ -4,6 +4,14 @@
   "url": "/news/vozvrashchenie-bludnoy-koshki/",
   "original_url": "http://spidermedia.ru/news/vozvrashchenie-bludnoy-koshki",
   "archived": "https://web.archive.org/web/20260209111258/http://spidermedia.ru/news/vozvrashchenie-bludnoy-koshki",
+  "tags": [
+    "skott-kempbell",
+    "sara-pichelli",
+    "brian-michael-bendis",
+    "art-0",
+    "ultimate",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

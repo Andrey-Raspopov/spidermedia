@@ -4,6 +4,17 @@
   "url": "/news/dark-x-men-proshloe-nastoyashchee-budushchee/",
   "original_url": "http://spidermedia.ru/news/dark-x-men-proshloe-nastoyashchee-budushchee",
   "archived": "https://web.archive.org/web/20260214135040/http://spidermedia.ru/news/dark-x-men-proshloe-nastoyashchee-budushchee",
+  "tags": [
+    "x-men",
+    "pol-kornell",
+    "mistik",
+    "leonard-kirk",
+    "dzhok",
+    "dzheyson-aaron",
+    "art-0",
+    "mystique",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

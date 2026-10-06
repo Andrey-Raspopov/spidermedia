@@ -4,6 +4,11 @@
   "url": "/news/eto-nuar-bro/",
   "original_url": "http://spidermedia.ru/news/eto-nuar-bro",
   "archived": "https://web.archive.org/web/20200217105016/http://spidermedia.ru:80/news/eto-nuar-bro",
+  "tags": [
+    "noirverse",
+    "marvel",
+    "luke-cage"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

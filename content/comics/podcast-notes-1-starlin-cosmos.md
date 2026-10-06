@@ -4,6 +4,12 @@
   "url": "/comics/podcast-notes-1-starlin-cosmos/",
   "original_url": "https://spidermedia.ru/comics/podcast-notes-1-starlin-cosmos",
   "archived": "https://web.archive.org/web/20251206162927/https://spidermedia.ru/comics/podcast-notes-1-starlin-cosmos",
+  "tags": [
+    "dzhim-starlin",
+    "avengers-week",
+    "on-panels",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

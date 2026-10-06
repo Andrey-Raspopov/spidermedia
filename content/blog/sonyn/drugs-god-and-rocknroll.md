@@ -4,6 +4,10 @@
   "url": "/blog/sonyn/drugs-god-and-rocknroll/",
   "original_url": "https://spidermedia.ru/blog/sonyn/drugs-god-and-rocknroll",
   "archived": "https://web.archive.org/web/20260125051722/https://spidermedia.ru/blog/sonyn/drugs-god-and-rocknroll",
+  "tags": [
+    "muzyka",
+    "grant-morrison"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/news/novoe-promo-flesha/",
   "original_url": "http://spidermedia.ru/news/novoe-promo-flesha",
   "archived": "https://web.archive.org/web/20250617232828/http://spidermedia.ru/news/novoe-promo-flesha",
+  "tags": [
+    "the-flash",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

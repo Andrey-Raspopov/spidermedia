@@ -4,6 +4,11 @@
   "url": "/news/komiksolodzhi-zavoyovyvaet-evropu/",
   "original_url": "http://spidermedia.ru/news/komiksolodzhi-zavoyovyvaet-evropu",
   "archived": "https://web.archive.org/web/20260211183926/http://spidermedia.ru/news/komiksolodzhi-zavoyovyvaet-evropu",
+  "tags": [
+    "cifrovye-komiksy",
+    "industriya",
+    "comixology"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

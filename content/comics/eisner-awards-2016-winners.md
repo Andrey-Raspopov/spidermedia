@@ -4,6 +4,10 @@
   "url": "/comics/eisner-awards-2016-winners/",
   "original_url": "http://spidermedia.ru/comics/eisner-awards-2016-winners",
   "archived": "https://web.archive.org/web/20191228200719/http://spidermedia.ru:80/comics/eisner-awards-2016-winners",
+  "tags": [
+    "san-diego-comic-con-international",
+    "eisner-awards"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

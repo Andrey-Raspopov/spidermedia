@@ -4,6 +4,14 @@
   "url": "/news/anonsirovan-all-new-doop-odin-iz-glavnyh-komiksov-goda/",
   "original_url": "http://spidermedia.ru/news/anonsirovan-all-new-doop-odin-iz-glavnyh-komiksov-goda",
   "archived": "https://web.archive.org/web/20250327233854/http://spidermedia.ru/news/anonsirovan-all-new-doop-odin-iz-glavnyh-komiksov-goda",
+  "tags": [
+    "peter-milligan",
+    "majkl-ollred",
+    "devid-lafuente",
+    "dup",
+    "marvel",
+    "x-men"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

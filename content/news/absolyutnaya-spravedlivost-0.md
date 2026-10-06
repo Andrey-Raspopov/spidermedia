@@ -4,6 +4,14 @@
   "url": "/news/absolyutnaya-spravedlivost-0/",
   "original_url": "https://spidermedia.ru/news/absolyutnaya-spravedlivost-0",
   "archived": "https://web.archive.org/web/20250913011629/https://spidermedia.ru/news/absolyutnaya-spravedlivost-0",
+  "tags": [
+    "tajny-smollvillya",
+    "obshhestvo-spravedlivosti-ameriki",
+    "smallville",
+    "jsa",
+    "dc-comics",
+    "geoff-johns"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/news/anonsirovan-komiks-uorrena-ellisa-trees/",
   "original_url": "https://spidermedia.ru/news/anonsirovan-komiks-uorrena-ellisa-trees",
   "archived": "https://web.archive.org/web/20260307055320/https://spidermedia.ru/news/anonsirovan-komiks-uorrena-ellisa-trees",
+  "tags": [
+    "warren-ellis",
+    "image-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

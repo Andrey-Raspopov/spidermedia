@@ -4,6 +4,18 @@
   "url": "/news/vse-ligi-v-odni-ruki/",
   "original_url": "http://spidermedia.ru/news/vse-ligi-v-odni-ruki",
   "archived": "https://web.archive.org/web/20120607080801/http://spidermedia.ru/news/vse-ligi-v-odni-ruki",
+  "tags": [
+    "dc-comics",
+    "james-robinson",
+    "jla",
+    "justice-league",
+    "mark-bagley",
+    "trinity",
+    "dzheyms-robinson",
+    "liga-spravedlivosti",
+    "mark-bagli",
+    "troica"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/news/wwprjd/",
   "original_url": "https://spidermedia.ru/news/wwprjd",
   "archived": "https://web.archive.org/web/20260206223239/https://spidermedia.ru/news/wwprjd",
+  "tags": [
+    "shon-merfi",
+    "vertigo"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

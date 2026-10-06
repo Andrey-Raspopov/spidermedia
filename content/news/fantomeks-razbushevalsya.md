@@ -4,6 +4,13 @@
   "url": "/news/fantomeks-razbushevalsya/",
   "original_url": "http://spidermedia.ru/news/fantomeks-razbushevalsya",
   "archived": "https://web.archive.org/web/20150427213155/http://spidermedia.ru/news/fantomeks-razbushevalsya",
+  "tags": [
+    "endryu-houp",
+    "shon-kristal",
+    "franchesko-frankavilla",
+    "fantomeks",
+    "marvel-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,18 @@
   "url": "/news/ne-igraysya-s-dedpulom/",
   "original_url": "http://spidermedia.ru/news/ne-igraysya-s-dedpulom",
   "archived": "https://web.archive.org/web/20111229123208/http://spidermedia.ru/news/ne-igraysya-s-dedpulom",
+  "tags": [
+    "daredevil",
+    "deadpool",
+    "marvel",
+    "punisher",
+    "dardevil",
+    "dedpul",
+    "karatel",
+    "komiksy",
+    "oblozhki",
+    "preview-s"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

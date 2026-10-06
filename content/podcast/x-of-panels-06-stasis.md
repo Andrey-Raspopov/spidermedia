@@ -4,6 +4,10 @@
   "url": "/podcast/x-of-panels-06-stasis/",
   "original_url": "http://spidermedia.ru/podcast/x-of-panels-06-stasis",
   "archived": "https://web.archive.org/web/20260211192942/http://spidermedia.ru/podcast/x-of-panels-06-stasis",
+  "tags": [
+    "panels-of-x",
+    "on-panels"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

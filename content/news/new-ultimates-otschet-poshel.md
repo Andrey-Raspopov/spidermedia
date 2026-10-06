@@ -4,6 +4,13 @@
   "url": "/news/new-ultimates-otschet-poshel/",
   "original_url": "https://spidermedia.ru/news/new-ultimates-otschet-poshel",
   "archived": "https://web.archive.org/web/20260115053653/https://spidermedia.ru/news/new-ultimates-otschet-poshel",
+  "tags": [
+    "frenk-cho",
+    "dzhef-loeb",
+    "ultimates",
+    "ultimate",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/movies/dzhosh-bun-snimet-novyh-mutantov-spin-off-lyudej-iks/",
   "original_url": "https://spidermedia.ru/movies/dzhosh-bun-snimet-novyh-mutantov-spin-off-lyudej-iks",
   "archived": "https://web.archive.org/web/20251205115617/https://spidermedia.ru/movies/dzhosh-bun-snimet-novyh-mutantov-spin-off-lyudej-iks",
+  "tags": [
+    "marvel",
+    "x-men",
+    "new-mutants"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/blog/jean-grey/osnovnye-super-sposobnosti-v-komiksah-marvel/",
   "original_url": "http://spidermedia.ru/blog/jean-grey/osnovnye-super-sposobnosti-v-komiksah-marvel",
   "archived": "https://web.archive.org/web/20190916235600/http://spidermedia.ru:80/blog/jean-grey/osnovnye-super-sposobnosti-v-komiksah-marvel",
+  "tags": [
+    "sposobnosti",
+    "obzor",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

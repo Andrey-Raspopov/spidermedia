@@ -4,6 +4,9 @@
   "url": "/blog/bezdredoff/devyatyy-vypusk-komikkasta/",
   "original_url": "http://spidermedia.ru/blog/bezdredoff/devyatyy-vypusk-komikkasta",
   "archived": "https://web.archive.org/web/20150320081215/http://spidermedia.ru/blog/bezdredoff/devyatyy-vypusk-komikkasta",
+  "tags": [
+    "komikkast"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

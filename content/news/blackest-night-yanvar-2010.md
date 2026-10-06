@@ -4,6 +4,12 @@
   "url": "/news/blackest-night-yanvar-2010/",
   "original_url": "https://spidermedia.ru/news/blackest-night-yanvar-2010",
   "archived": "https://web.archive.org/web/20251107000040/https://spidermedia.ru/news/blackest-night-yanvar-2010",
+  "tags": [
+    "temnejshaya-noch",
+    "solicitations",
+    "dc-comics",
+    "blackest-night"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

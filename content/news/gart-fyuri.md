@@ -4,6 +4,13 @@
   "url": "/news/gart-fyuri/",
   "original_url": "https://spidermedia.ru/news/gart-fyuri",
   "archived": "https://web.archive.org/web/20250318072254/https://spidermedia.ru/news/gart-fyuri",
+  "tags": [
+    "nik-fyuri",
+    "goran-parlov",
+    "garth-ennis",
+    "nick-fury",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/movies/nycc-2015-oficialnyj-sinopsis-filma-lyudi-iks-apokalipsis/",
   "original_url": "http://spidermedia.ru/movies/nycc-2015-oficialnyj-sinopsis-filma-lyudi-iks-apokalipsis",
   "archived": "https://web.archive.org/web/20260208202902/http://spidermedia.ru/movies/nycc-2015-oficialnyj-sinopsis-filma-lyudi-iks-apokalipsis",
+  "tags": [
+    "marvel",
+    "komik-kon-v-nyu-yorke",
+    "x-men",
+    "apokalipsis"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

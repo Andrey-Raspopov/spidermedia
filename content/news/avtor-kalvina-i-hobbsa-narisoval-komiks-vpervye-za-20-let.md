@@ -4,6 +4,12 @@
   "url": "/news/avtor-kalvina-i-hobbsa-narisoval-komiks-vpervye-za-20-let/",
   "original_url": "https://spidermedia.ru/news/avtor-kalvina-i-hobbsa-narisoval-komiks-vpervye-za-20-let",
   "archived": "https://web.archive.org/web/20230329030537/https://spidermedia.ru/news/avtor-kalvina-i-hobbsa-narisoval-komiks-vpervye-za-20-let",
+  "tags": [
+    "stefan-pastis",
+    "kalvin-i-hobbs",
+    "biser-pered-svinyami",
+    "bill-uotterson"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

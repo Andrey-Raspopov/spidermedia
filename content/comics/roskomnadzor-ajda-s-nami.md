@@ -4,6 +4,11 @@
   "url": "/comics/roskomnadzor-ajda-s-nami/",
   "original_url": "http://spidermedia.ru/comics/roskomnadzor-ajda-s-nami",
   "archived": "https://web.archive.org/web/20250806054733/http://spidermedia.ru/comics/roskomnadzor-ajda-s-nami",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "roskomnadzor",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

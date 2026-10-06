@@ -4,6 +4,9 @@
   "url": "/movies/zametka-eternals/",
   "original_url": "http://spidermedia.ru/movies/zametka-eternals",
   "archived": "https://web.archive.org/web/20251116062309/http://spidermedia.ru/movies/zametka-eternals",
+  "tags": [
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

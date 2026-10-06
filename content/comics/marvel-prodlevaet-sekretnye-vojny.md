@@ -4,6 +4,10 @@
   "url": "/comics/marvel-prodlevaet-sekretnye-vojny/",
   "original_url": "https://spidermedia.ru/comics/marvel-prodlevaet-sekretnye-vojny",
   "archived": "https://web.archive.org/web/20260115062009/https://spidermedia.ru/comics/marvel-prodlevaet-sekretnye-vojny",
+  "tags": [
+    "secret-wars",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

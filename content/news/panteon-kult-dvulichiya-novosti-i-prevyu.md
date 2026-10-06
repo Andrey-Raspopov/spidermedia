@@ -4,6 +4,11 @@
   "url": "/news/panteon-kult-dvulichiya-novosti-i-prevyu/",
   "original_url": "https://spidermedia.ru/news/panteon-kult-dvulichiya-novosti-i-prevyu",
   "archived": "https://web.archive.org/web/20260116213819/https://spidermedia.ru/news/panteon-kult-dvulichiya-novosti-i-prevyu",
+  "tags": [
+    "filipp-sosedov",
+    "russian-comics",
+    "belyj-edinorog"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

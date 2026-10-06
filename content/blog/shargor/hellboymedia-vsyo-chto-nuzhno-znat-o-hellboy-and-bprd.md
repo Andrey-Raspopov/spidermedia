@@ -4,6 +4,11 @@
   "url": "/blog/shargor/hellboymedia-vsyo-chto-nuzhno-znat-o-hellboy-and-bprd/",
   "original_url": "http://spidermedia.ru/blog/shargor/hellboymedia-vsyo-chto-nuzhno-znat-o-hellboy-and-bprd",
   "archived": "https://web.archive.org/web/20260206231016/http://spidermedia.ru/blog/shargor/hellboymedia-vsyo-chto-nuzhno-znat-o-hellboy-and-bprd",
+  "tags": [
+    "hellboymedia",
+    "20-let-hellboya",
+    "guide"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

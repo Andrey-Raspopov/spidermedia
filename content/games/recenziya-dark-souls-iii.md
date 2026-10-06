@@ -4,6 +4,9 @@
   "url": "/games/recenziya-dark-souls-iii/",
   "original_url": "http://spidermedia.ru/games/recenziya-dark-souls-iii",
   "archived": "https://web.archive.org/web/20250807230343/http://spidermedia.ru/games/recenziya-dark-souls-iii",
+  "tags": [
+    "recenziya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

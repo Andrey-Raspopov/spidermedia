@@ -4,6 +4,15 @@
   "url": "/blog/sterpazook/ultimate-superman/",
   "original_url": "https://spidermedia.ru/blog/sterpazook/ultimate-superman",
   "archived": "https://web.archive.org/web/20251111043042/https://spidermedia.ru/blog/sterpazook/ultimate-superman",
+  "tags": [
+    "dc-comics",
+    "fanart",
+    "art-0",
+    "deviantart",
+    "redizajn",
+    "superman",
+    "ultimizing"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

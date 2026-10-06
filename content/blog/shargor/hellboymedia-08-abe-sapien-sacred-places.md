@@ -4,6 +4,10 @@
   "url": "/blog/shargor/hellboymedia-08-abe-sapien-sacred-places/",
   "original_url": "https://spidermedia.ru/blog/shargor/hellboymedia-08-abe-sapien-sacred-places",
   "archived": "https://web.archive.org/web/20251209152206/https://spidermedia.ru/blog/shargor/hellboymedia-08-abe-sapien-sacred-places",
+  "tags": [
+    "hellboymedia",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

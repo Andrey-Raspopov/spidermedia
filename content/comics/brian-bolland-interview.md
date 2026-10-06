@@ -4,6 +4,10 @@
   "url": "/comics/brian-bolland-interview/",
   "original_url": "http://spidermedia.ru/comics/brian-bolland-interview",
   "archived": "https://web.archive.org/web/20250818083042/http://spidermedia.ru/comics/brian-bolland-interview",
+  "tags": [
+    "dc-comics",
+    "brian-bolland"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

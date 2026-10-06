@@ -4,6 +4,15 @@
   "url": "/news/daredevil-konec-i-novoe-nachalo/",
   "original_url": "http://spidermedia.ru/news/daredevil-konec-i-novoe-nachalo",
   "archived": "https://web.archive.org/web/20251211030508/http://spidermedia.ru/news/daredevil-konec-i-novoe-nachalo",
+  "tags": [
+    "endi-diggl",
+    "ed-brubaker",
+    "marko-dzhurdzhevich",
+    "dardevil",
+    "art-0",
+    "marvel",
+    "daredevil"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

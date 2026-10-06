@@ -4,6 +4,13 @@
   "url": "/news/prevyu-punisher-max-happy-ending/",
   "original_url": "http://spidermedia.ru/news/prevyu-punisher-max-happy-ending",
   "archived": "https://web.archive.org/web/20260309184328/http://spidermedia.ru/news/prevyu-punisher-max-happy-ending",
+  "tags": [
+    "marvel",
+    "punisher",
+    "art-0",
+    "peter-milligan",
+    "huan-hose-rip"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

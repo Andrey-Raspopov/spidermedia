@@ -4,6 +4,10 @@
   "url": "/news/temnyy-rycar-v-nyu-yorke-foto-so-semok/",
   "original_url": "https://spidermedia.ru/news/temnyy-rycar-v-nyu-yorke-foto-so-semok",
   "archived": "https://web.archive.org/web/20260307053319/https://spidermedia.ru/news/temnyy-rycar-v-nyu-yorke-foto-so-semok",
+  "tags": [
+    "batman",
+    "dark-knight-rises"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

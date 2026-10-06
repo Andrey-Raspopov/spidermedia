@@ -4,6 +4,12 @@
   "url": "/news/im-pyatdesyat/",
   "original_url": "http://spidermedia.ru/news/im-pyatdesyat",
   "archived": "https://web.archive.org/web/20120718063347/http://spidermedia.ru/news/im-pyatdesyat",
+  "tags": [
+    "avengers",
+    "brayan-maykl-bendis",
+    "komiksy",
+    "marvel"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

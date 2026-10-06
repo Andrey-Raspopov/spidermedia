@@ -4,6 +4,11 @@
   "url": "/news/manga-pervyy-otryad/",
   "original_url": "http://spidermedia.ru/news/manga-pervyy-otryad",
   "archived": "https://web.archive.org/web/20190212214300/http://spidermedia.ru:80/news/manga-pervyy-otryad",
+  "tags": [
+    "manga",
+    "first-squad",
+    "pervyj-otryad"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

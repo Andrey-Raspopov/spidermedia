@@ -4,6 +4,10 @@
   "url": "/comics/luchshaya-rubrika-o-komiksah-04-space-dumplins/",
   "original_url": "http://spidermedia.ru/comics/luchshaya-rubrika-o-komiksah-04-space-dumplins",
   "archived": "https://web.archive.org/web/20251018225422/http://spidermedia.ru/comics/luchshaya-rubrika-o-komiksah-04-space-dumplins",
+  "tags": [
+    "best-column-about-comics",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

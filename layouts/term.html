@@ -1,0 +1,12 @@
+{{ define "main" }}
+<p class="crumb"><a href="{{ "tags/" | relURL }}">Теги</a></p>
+<h1>{{ .Title }}</h1>
+<p class="meta">{{ len .Pages }} материалов</p>
+{{ $paginator := .Paginate (.Pages.ByDate.Reverse) }}
+<ul class="list">
+  {{ range $paginator.Pages }}
+  <li>{{ if not .Date.IsZero }}<time>{{ .Date.Format "02.01.2006" }}</time>{{ end }}<a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+  {{ end }}
+</ul>
+{{ template "_internal/pagination.html" . }}
+{{ end }}

@@ -4,6 +4,9 @@
   "url": "/comics/dreadcore-no3-is-coming/",
   "original_url": "https://spidermedia.ru/comics/dreadcore-no3-is-coming",
   "archived": "https://web.archive.org/web/20260309172714/https://spidermedia.ru/comics/dreadcore-no3-is-coming",
+  "tags": [
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

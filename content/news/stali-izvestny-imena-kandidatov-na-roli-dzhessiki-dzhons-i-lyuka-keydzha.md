@@ -4,6 +4,12 @@
   "url": "/news/stali-izvestny-imena-kandidatov-na-roli-dzhessiki-dzhons-i-lyuka-keydzha/",
   "original_url": "https://spidermedia.ru/news/stali-izvestny-imena-kandidatov-na-roli-dzhessiki-dzhons-i-lyuka-keydzha",
   "archived": "https://web.archive.org/web/20251211032557/https://spidermedia.ru/news/stali-izvestny-imena-kandidatov-na-roli-dzhessiki-dzhons-i-lyuka-keydzha",
+  "tags": [
+    "marvel",
+    "kasting",
+    "jessica-jones-alias",
+    "luke-cage"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

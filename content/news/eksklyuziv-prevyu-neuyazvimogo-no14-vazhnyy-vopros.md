@@ -4,6 +4,11 @@
   "url": "/news/eksklyuziv-prevyu-neuyazvimogo-no14-vazhnyy-vopros/",
   "original_url": "https://spidermedia.ru/news/eksklyuziv-prevyu-neuyazvimogo-no14-vazhnyy-vopros",
   "archived": "https://web.archive.org/web/20250121014356/https://spidermedia.ru/news/eksklyuziv-prevyu-neuyazvimogo-no14-vazhnyy-vopros",
+  "tags": [
+    "invincible",
+    "izdatelstvo-42",
+    "zarubezhnye-komiksy-na-russkom"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

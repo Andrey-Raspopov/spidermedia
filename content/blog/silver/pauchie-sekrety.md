@@ -4,6 +4,13 @@
   "url": "/blog/silver/pauchie-sekrety/",
   "original_url": "http://spidermedia.ru/blog/silver/pauchie-sekrety",
   "archived": "https://web.archive.org/web/20220814180110/http://spidermedia.ru/blog/silver/pauchie-sekrety",
+  "tags": [
+    "mnenie",
+    "brian-michael-bendis",
+    "alex-maleev",
+    "spider-woman",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

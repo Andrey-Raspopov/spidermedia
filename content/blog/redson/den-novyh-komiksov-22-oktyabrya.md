@@ -4,6 +4,9 @@
   "url": "/blog/redson/den-novyh-komiksov-22-oktyabrya/",
   "original_url": "http://spidermedia.ru/blog/redson/den-novyh-komiksov-22-oktyabrya",
   "archived": "https://web.archive.org/web/20260211190202/http://spidermedia.ru/blog/redson/den-novyh-komiksov-22-oktyabrya",
+  "tags": [
+    "den-novyh-komiksov"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/news/deyn-dehaan-v-obraze-zelenogo-goblina/",
   "original_url": "https://spidermedia.ru/news/deyn-dehaan-v-obraze-zelenogo-goblina",
   "archived": "https://web.archive.org/web/20260314082100/https://spidermedia.ru/news/deyn-dehaan-v-obraze-zelenogo-goblina",
+  "tags": [
+    "spider-man",
+    "zelyonyj-goblin",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

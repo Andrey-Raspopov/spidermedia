@@ -4,6 +4,11 @@
   "url": "/comics/roskomnadzor-snova-zdorovo/",
   "original_url": "https://spidermedia.ru/comics/roskomnadzor-snova-zdorovo",
   "archived": "https://web.archive.org/web/20250120030455/https://spidermedia.ru/comics/roskomnadzor-snova-zdorovo",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "roskomnadzor",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

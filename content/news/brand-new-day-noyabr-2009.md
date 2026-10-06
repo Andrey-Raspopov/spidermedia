@@ -4,6 +4,24 @@
   "url": "/news/brand-new-day-noyabr-2009/",
   "original_url": "https://spidermedia.ru/news/brand-new-day-noyabr-2009",
   "archived": "https://web.archive.org/web/20260214142841/https://spidermedia.ru/news/brand-new-day-noyabr-2009",
+  "tags": [
+    "elektro",
+    "fred-van-lente",
+    "tom-pejr",
+    "skotti-yang",
+    "pol-azasita",
+    "mirko-perfederichi",
+    "marko-dzhurdzhevich",
+    "mark-waid",
+    "zeb-uells",
+    "deadpool",
+    "joe-kelly",
+    "barri-kitson",
+    "anti-venom",
+    "electro",
+    "spider-man",
+    "erik-kenet"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

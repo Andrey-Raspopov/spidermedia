@@ -4,6 +4,14 @@
   "url": "/news/eshche-bolshe-transformerov/",
   "original_url": "http://spidermedia.ru/news/eshche-bolshe-transformerov",
   "archived": "https://web.archive.org/web/20260121014012/http://spidermedia.ru/news/eshche-bolshe-transformerov",
+  "tags": [
+    "idw-publishing",
+    "nycc-2009",
+    "endi-shmidt",
+    "sajmon-furman",
+    "majk-kosta",
+    "transformers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

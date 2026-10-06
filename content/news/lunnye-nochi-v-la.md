@@ -4,6 +4,13 @@
   "url": "/news/lunnye-nochi-v-la/",
   "original_url": "http://spidermedia.ru/news/lunnye-nochi-v-la",
   "archived": "https://web.archive.org/web/20260215090136/http://spidermedia.ru/news/lunnye-nochi-v-la",
+  "tags": [
+    "moon-knight",
+    "brian-michael-bendis",
+    "art-0",
+    "alex-maleev",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/news/novaya-veha-dlya-angelus/",
   "original_url": "https://spidermedia.ru/news/novaya-veha-dlya-angelus",
   "archived": "https://web.archive.org/web/20260307060850/https://spidermedia.ru/news/novaya-veha-dlya-angelus",
+  "tags": [
+    "angelus",
+    "top-cow",
+    "image-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

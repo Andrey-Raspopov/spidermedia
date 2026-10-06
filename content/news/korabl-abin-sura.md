@@ -4,6 +4,10 @@
   "url": "/news/korabl-abin-sura/",
   "original_url": "http://spidermedia.ru/news/korabl-abin-sura",
   "archived": "https://web.archive.org/web/20250806085222/http://spidermedia.ru/news/korabl-abin-sura",
+  "tags": [
+    "green-lantern",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

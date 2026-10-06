@@ -4,6 +4,9 @@
   "url": "/blog/zipop/narod-protiv-lukasa/",
   "original_url": "https://spidermedia.ru/blog/zipop/narod-protiv-lukasa",
   "archived": "https://web.archive.org/web/20250424195001/https://spidermedia.ru/blog/zipop/narod-protiv-lukasa",
+  "tags": [
+    "star-wars"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

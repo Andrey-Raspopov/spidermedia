@@ -4,6 +4,12 @@
   "url": "/news/sdcc10-pervyy-futadzh-filma-tor/",
   "original_url": "https://spidermedia.ru/news/sdcc10-pervyy-futadzh-filma-tor",
   "archived": "https://web.archive.org/web/20251115190853/https://spidermedia.ru/news/sdcc10-pervyy-futadzh-filma-tor",
+  "tags": [
+    "san-diego-comic-con-international",
+    "thor",
+    "marvel",
+    "futazh"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

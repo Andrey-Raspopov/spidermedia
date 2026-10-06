@@ -4,6 +4,10 @@
   "url": "/blog/silver/nesbyvshiesya-mechty/",
   "original_url": "http://spidermedia.ru/blog/silver/nesbyvshiesya-mechty",
   "archived": "https://web.archive.org/web/20190731040712/http://spidermedia.ru:80/blog/silver/nesbyvshiesya-mechty",
+  "tags": [
+    "nesbyvshiesya-mechty",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

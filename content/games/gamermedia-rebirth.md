@@ -4,6 +4,9 @@
   "url": "/games/gamermedia-rebirth/",
   "original_url": "https://spidermedia.ru/games/gamermedia-rebirth",
   "archived": "https://web.archive.org/web/20251115173001/https://spidermedia.ru/games/gamermedia-rebirth",
+  "tags": [
+    "gamermedia"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

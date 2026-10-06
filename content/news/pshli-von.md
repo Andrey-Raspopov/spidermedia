@@ -4,6 +4,13 @@
   "url": "/news/pshli-von/",
   "original_url": "http://spidermedia.ru/news/pshli-von",
   "archived": "https://web.archive.org/web/20251110225128/http://spidermedia.ru/news/pshli-von",
+  "tags": [
+    "endi-lenning",
+    "kiron-gillen",
+    "karmin-di-dzhyandomeniko",
+    "marvel",
+    "journey-into-mystery"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

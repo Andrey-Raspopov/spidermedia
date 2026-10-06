@@ -4,6 +4,18 @@
   "url": "/news/marvel-art-131109/",
   "original_url": "http://spidermedia.ru/news/marvel-art-131109",
   "archived": "https://web.archive.org/web/20260305230737/http://spidermedia.ru/news/marvel-art-131109",
+  "tags": [
+    "preview",
+    "thunderbolts",
+    "reborn",
+    "new-avengers",
+    "mighty-avengers",
+    "marvel",
+    "captain-america",
+    "avengers",
+    "spider-man",
+    "doctor-strange"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

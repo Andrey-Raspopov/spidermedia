@@ -4,6 +4,11 @@
   "url": "/comics/roskomnadzor-prostye-radosti/",
   "original_url": "https://spidermedia.ru/comics/roskomnadzor-prostye-radosti",
   "archived": "https://web.archive.org/web/20260117232025/https://spidermedia.ru/comics/roskomnadzor-prostye-radosti",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "roskomnadzor",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

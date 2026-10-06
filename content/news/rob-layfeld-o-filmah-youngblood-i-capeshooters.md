@@ -4,6 +4,13 @@
   "url": "/news/rob-layfeld-o-filmah-youngblood-i-capeshooters/",
   "original_url": "http://spidermedia.ru/news/rob-layfeld-o-filmah-youngblood-i-capeshooters",
   "archived": "https://web.archive.org/web/20260214132927/http://spidermedia.ru/news/rob-layfeld-o-filmah-youngblood-i-capeshooters",
+  "tags": [
+    "image-comics",
+    "youngblood",
+    "rob-lajfeld",
+    "rob-liefeld",
+    "molodaya-krov"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

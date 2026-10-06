@@ -4,6 +4,11 @@
   "url": "/blog/drgonzobear/panteon-kult-dvulichiya3/",
   "original_url": "https://spidermedia.ru/blog/drgonzobear/panteon-kult-dvulichiya3",
   "archived": "https://web.archive.org/web/20260206222445/https://spidermedia.ru/blog/drgonzobear/panteon-kult-dvulichiya3",
+  "tags": [
+    "stimpank",
+    "russian-comics",
+    "belyj-edinorog"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

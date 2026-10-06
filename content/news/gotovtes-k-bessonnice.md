@@ -4,6 +4,11 @@
   "url": "/news/gotovtes-k-bessonnice/",
   "original_url": "http://spidermedia.ru/news/gotovtes-k-bessonnice",
   "archived": "https://web.archive.org/web/20120608233825/http://spidermedia.ru/news/gotovtes-k-bessonnice",
+  "tags": [
+    "dark-horse",
+    "graphic-novel",
+    "mk-perker"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

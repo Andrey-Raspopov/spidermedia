@@ -4,6 +4,11 @@
   "url": "/comics/we-are-the-industry/",
   "original_url": "https://spidermedia.ru/comics/we-are-the-industry",
   "archived": "https://web.archive.org/web/20260106001056/https://spidermedia.ru/comics/we-are-the-industry",
+  "tags": [
+    "bubble",
+    "russian-comics",
+    "imho"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

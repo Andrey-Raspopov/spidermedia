@@ -4,6 +4,13 @@
   "url": "/news/kapitan-amerika-i-vse-vse-vse/",
   "original_url": "https://spidermedia.ru/news/kapitan-amerika-i-vse-vse-vse",
   "archived": "https://web.archive.org/web/20250808211723/https://spidermedia.ru/news/kapitan-amerika-i-vse-vse-vse",
+  "tags": [
+    "captain-america",
+    "hawkeye",
+    "kallen-bann",
+    "alessandro-vitti",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/comics/punisher-the-platoon-review/",
   "original_url": "http://spidermedia.ru/comics/punisher-the-platoon-review",
   "archived": "https://web.archive.org/web/20250709054222/http://spidermedia.ru/comics/punisher-the-platoon-review",
+  "tags": [
+    "marvel",
+    "garth-ennis",
+    "goran-parlov",
+    "punisher"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

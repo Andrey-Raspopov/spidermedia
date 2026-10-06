@@ -4,6 +4,11 @@
   "url": "/tv/the-flash-season-1-review/",
   "original_url": "https://spidermedia.ru/tv/the-flash-season-1-review",
   "archived": "https://web.archive.org/web/20260115050036/https://spidermedia.ru/tv/the-flash-season-1-review",
+  "tags": [
+    "recenziya",
+    "the-flash",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

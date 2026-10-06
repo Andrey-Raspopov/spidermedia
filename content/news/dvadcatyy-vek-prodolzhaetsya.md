@@ -4,6 +4,12 @@
   "url": "/news/dvadcatyy-vek-prodolzhaetsya/",
   "original_url": "https://spidermedia.ru/news/dvadcatyy-vek-prodolzhaetsya",
   "archived": "https://web.archive.org/web/20260121011131/https://spidermedia.ru/news/dvadcatyy-vek-prodolzhaetsya",
+  "tags": [
+    "kevin-onil",
+    "alan-mur",
+    "top-shelf-productions",
+    "league-of-extraordinary-gentlemen"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

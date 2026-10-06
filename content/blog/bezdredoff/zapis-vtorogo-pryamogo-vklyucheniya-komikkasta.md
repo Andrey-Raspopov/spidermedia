@@ -4,6 +4,9 @@
   "url": "/blog/bezdredoff/zapis-vtorogo-pryamogo-vklyucheniya-komikkasta/",
   "original_url": "http://spidermedia.ru/blog/bezdredoff/zapis-vtorogo-pryamogo-vklyucheniya-komikkasta",
   "archived": "https://web.archive.org/web/20150501124453/http://spidermedia.ru/blog/bezdredoff/zapis-vtorogo-pryamogo-vklyucheniya-komikkasta",
+  "tags": [
+    "komikkast"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

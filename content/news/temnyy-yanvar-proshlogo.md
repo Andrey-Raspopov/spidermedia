@@ -4,6 +4,16 @@
   "url": "/news/temnyy-yanvar-proshlogo/",
   "original_url": "http://spidermedia.ru/news/temnyy-yanvar-proshlogo",
   "archived": "https://web.archive.org/web/20250424103351/http://spidermedia.ru/news/temnyy-yanvar-proshlogo",
+  "tags": [
+    "temnejshaya-noch",
+    "piter-tomasi",
+    "dan-didio",
+    "geoff-johns",
+    "gejl-simon",
+    "peter-j.-tomasi",
+    "gail-simone",
+    "blackest-night"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

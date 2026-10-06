@@ -4,6 +4,11 @@
   "url": "/news/tizer-poster-fantasticheskoy-chetverki/",
   "original_url": "https://spidermedia.ru/news/tizer-poster-fantasticheskoy-chetverki",
   "archived": "https://web.archive.org/web/20251014040032/https://spidermedia.ru/news/tizer-poster-fantasticheskoy-chetverki",
+  "tags": [
+    "fantastic-four",
+    "postery",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

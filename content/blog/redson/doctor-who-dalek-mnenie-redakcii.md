@@ -4,6 +4,11 @@
   "url": "/blog/redson/doctor-who-dalek-mnenie-redakcii/",
   "original_url": "http://spidermedia.ru/blog/redson/doctor-who-dalek-mnenie-redakcii",
   "archived": "https://web.archive.org/web/20230320164221/http://spidermedia.ru/blog/redson/doctor-who-dalek-mnenie-redakcii",
+  "tags": [
+    "doctor-who",
+    "mnenie",
+    "serialy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

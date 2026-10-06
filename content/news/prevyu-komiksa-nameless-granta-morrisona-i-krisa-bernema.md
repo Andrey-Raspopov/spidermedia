@@ -4,6 +4,10 @@
   "url": "/news/prevyu-komiksa-nameless-granta-morrisona-i-krisa-bernema/",
   "original_url": "https://spidermedia.ru/news/prevyu-komiksa-nameless-granta-morrisona-i-krisa-bernema",
   "archived": "https://web.archive.org/web/20260307051911/https://spidermedia.ru/news/prevyu-komiksa-nameless-granta-morrisona-i-krisa-bernema",
+  "tags": [
+    "grant-morrison",
+    "image-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/news/ya-hranitel-chestno/",
   "original_url": "https://spidermedia.ru/news/ya-hranitel-chestno",
   "archived": "https://web.archive.org/web/20250804004339/https://spidermedia.ru/news/ya-hranitel-chestno",
+  "tags": [
+    "hraniteli-planety",
+    "robert-kirkman",
+    "brit",
+    "image-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

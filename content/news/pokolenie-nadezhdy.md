@@ -4,6 +4,14 @@
   "url": "/news/pokolenie-nadezhdy/",
   "original_url": "http://spidermedia.ru/news/pokolenie-nadezhdy",
   "archived": "https://web.archive.org/web/20250119122945/http://spidermedia.ru/news/pokolenie-nadezhdy",
+  "tags": [
+    "salvador-espin",
+    "olive-kojpel",
+    "kiron-gillen",
+    "x-men",
+    "marvel",
+    "generation-hope"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

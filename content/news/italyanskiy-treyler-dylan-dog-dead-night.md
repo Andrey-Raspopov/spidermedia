@@ -4,6 +4,10 @@
   "url": "/news/italyanskiy-treyler-dylan-dog-dead-night/",
   "original_url": "https://spidermedia.ru/news/italyanskiy-treyler-dylan-dog-dead-night",
   "archived": "https://web.archive.org/web/20250422032609/https://spidermedia.ru/news/italyanskiy-treyler-dylan-dog-dead-night",
+  "tags": [
+    "trejlery",
+    "dylan-dog"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

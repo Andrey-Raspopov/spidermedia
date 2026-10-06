@@ -4,6 +4,20 @@
   "url": "/news/dc-panel-wondercon-2009/",
   "original_url": "http://spidermedia.ru/news/dc-panel-wondercon-2009",
   "archived": "https://web.archive.org/web/20250913004556/http://spidermedia.ru/news/dc-panel-wondercon-2009",
+  "tags": [
+    "yan-settler",
+    "superman",
+    "pol-dini",
+    "dzhejms-robinson",
+    "dzhadd-vinik",
+    "dastin-nguen",
+    "grant-morrison",
+    "gotem",
+    "wondercon",
+    "dc-comics",
+    "blackest-night",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

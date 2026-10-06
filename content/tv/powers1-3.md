@@ -4,6 +4,9 @@
   "url": "/tv/powers1-3/",
   "original_url": "https://spidermedia.ru/tv/powers1-3",
   "archived": "https://web.archive.org/web/20250425214625/https://spidermedia.ru/tv/powers1-3",
+  "tags": [
+    "brian-michael-bendis"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

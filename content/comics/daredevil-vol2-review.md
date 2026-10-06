@@ -4,6 +4,10 @@
   "url": "/comics/daredevil-vol2-review/",
   "original_url": "https://spidermedia.ru/comics/daredevil-vol2-review",
   "archived": "https://web.archive.org/web/20260206225710/https://spidermedia.ru/comics/daredevil-vol2-review",
+  "tags": [
+    "marvel",
+    "daredevil"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

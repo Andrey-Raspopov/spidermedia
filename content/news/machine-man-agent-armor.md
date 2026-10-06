@@ -4,6 +4,15 @@
   "url": "/news/machine-man-agent-armor/",
   "original_url": "https://spidermedia.ru/news/machine-man-agent-armor",
   "archived": "https://web.archive.org/web/20260312010036/https://spidermedia.ru/news/machine-man-agent-armor",
+  "tags": [
+    "chelovek-mashina",
+    "fred-van-lente",
+    "marvel-zombies",
+    "keno",
+    "art-0",
+    "marvel",
+    "machine-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,15 @@
   "url": "/news/drugaya-storona-dzho/",
   "original_url": "http://spidermedia.ru/news/drugaya-storona-dzho",
   "archived": "https://web.archive.org/web/20120609090759/http://spidermedia.ru/news/drugaya-storona-dzho",
+  "tags": [
+    "brand-new-day",
+    "spider-man",
+    "art-0",
+    "dzho-kesada",
+    "komiksy",
+    "oblozhki",
+    "chelovek-pauk"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

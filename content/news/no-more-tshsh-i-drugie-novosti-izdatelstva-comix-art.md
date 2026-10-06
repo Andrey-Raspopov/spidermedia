@@ -4,6 +4,11 @@
   "url": "/news/no-more-tshsh-i-drugie-novosti-izdatelstva-comix-art/",
   "original_url": "http://spidermedia.ru/news/no-more-tshsh-i-drugie-novosti-izdatelstva-comix-art",
   "archived": "https://web.archive.org/web/20260211190134/http://spidermedia.ru/news/no-more-tshsh-i-drugie-novosti-izdatelstva-comix-art",
+  "tags": [
+    "industriya",
+    "zarubezhnye-komiksy-na-russkom",
+    "art-0"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

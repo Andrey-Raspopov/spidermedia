@@ -4,6 +4,10 @@
   "url": "/blog/igrok/sotrudnichaem-s-gadzhetom/",
   "original_url": "https://spidermedia.ru/blog/igrok/sotrudnichaem-s-gadzhetom",
   "archived": "https://web.archive.org/web/20260211181450/https://spidermedia.ru/blog/igrok/sotrudnichaem-s-gadzhetom",
+  "tags": [
+    "mattel",
+    "figurki"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

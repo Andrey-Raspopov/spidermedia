@@ -4,6 +4,13 @@
   "url": "/tv/sdcc-tv-show-panels/",
   "original_url": "https://spidermedia.ru/tv/sdcc-tv-show-panels",
   "archived": "https://web.archive.org/web/20260115050352/https://spidermedia.ru/tv/sdcc-tv-show-panels",
+  "tags": [
+    "dc-comics",
+    "san-diego-comic-con-international",
+    "gotem",
+    "supergirl",
+    "the-flash"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/news/mediaproekt-versum-startuet-v-oktyabre/",
   "original_url": "https://spidermedia.ru/news/mediaproekt-versum-startuet-v-oktyabre",
   "archived": "https://web.archive.org/web/20250322054300/https://spidermedia.ru/news/mediaproekt-versum-startuet-v-oktyabre",
+  "tags": [
+    "russian-comics",
+    "versum"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

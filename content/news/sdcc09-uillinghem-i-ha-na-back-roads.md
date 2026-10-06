@@ -4,6 +4,12 @@
   "url": "/news/sdcc09-uillinghem-i-ha-na-back-roads/",
   "original_url": "http://spidermedia.ru/news/sdcc09-uillinghem-i-ha-na-back-roads",
   "archived": "https://web.archive.org/web/20260116220713/http://spidermedia.ru/news/sdcc09-uillinghem-i-ha-na-back-roads",
+  "tags": [
+    "dzhin-ha",
+    "idw-publishing",
+    "gene-ha",
+    "bill-uillingem"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

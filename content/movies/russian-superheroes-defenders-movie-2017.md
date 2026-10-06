@@ -4,6 +4,9 @@
   "url": "/movies/russian-superheroes-defenders-movie-2017/",
   "original_url": "http://spidermedia.ru/movies/russian-superheroes-defenders-movie-2017",
   "archived": "https://web.archive.org/web/20251013185052/http://spidermedia.ru/movies/russian-superheroes-defenders-movie-2017",
+  "tags": [
+    "zashhitniki"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

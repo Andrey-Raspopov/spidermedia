@@ -4,6 +4,10 @@
   "url": "/blog/shargor/hellboymedia-04-bprd-devils-wings/",
   "original_url": "http://spidermedia.ru/blog/shargor/hellboymedia-04-bprd-devils-wings",
   "archived": "https://web.archive.org/web/20260313114239/http://spidermedia.ru/blog/shargor/hellboymedia-04-bprd-devils-wings",
+  "tags": [
+    "hellboymedia",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/blog/redson/mike-mignola-does-hellraiser/",
   "original_url": "http://spidermedia.ru/blog/redson/mike-mignola-does-hellraiser",
   "archived": "https://web.archive.org/web/20250119233653/http://spidermedia.ru/blog/redson/mike-mignola-does-hellraiser",
+  "tags": [
+    "majk-minola",
+    "mike-mignola",
+    "hellraiser"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

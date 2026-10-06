@@ -4,6 +4,12 @@
   "url": "/blog/ironman/90s-suck-and-so-do-you-crossing/",
   "original_url": "http://spidermedia.ru/blog/ironman/90s-suck-and-so-do-you-crossing",
   "archived": "https://web.archive.org/web/20251207094351/http://spidermedia.ru/blog/ironman/90s-suck-and-so-do-you-crossing",
+  "tags": [
+    "avengers",
+    "iron-man",
+    "marvel",
+    "preview"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

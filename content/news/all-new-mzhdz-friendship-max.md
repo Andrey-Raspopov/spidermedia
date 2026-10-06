@@ -4,11 +4,15 @@
   "url": "/news/all-new-mzhdz-friendship-max/",
   "original_url": "http://spidermedia.ru/news/all-new-mzhdz-friendship-max",
   "archived": "https://web.archive.org/web/20260313112651/http://spidermedia.ru/news/all-new-mzhdz-friendship-max",
+  "tags": [
+    "mnenie",
+    "mzhdz"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](https://web.archive.org/web/20260313112651im_/http://i.imgur.com/JCbv66a.jpg)](https://web.archive.org/web/20260206215846/http://spidermedia.ru/tags/mzhdz)
+[![](https://web.archive.org/web/20260313112651im_/http://i.imgur.com/JCbv66a.jpg)](../../tags/mzhdz/)
 ![](https://web.archive.org/web/20260313112651im_/http://i.imgur.com/RJZchXs.jpg)
 В честь фильма ["Люди Икс: Дни минувшего будущего"](../recenziya-na-film-lyudi-iks-dni-minuvshego-budushchego/) я дал offeye задание прочитать комикс про путешествия во времени **Rocket Girl**, а сам сел за **Magneto**, заодно прочитав другой злодейский онгоинг Каллена Банна - **Sinestro**. Также **Original Sin** вызвал у меня крик души. Кроме того, Derden делится мнением о завершившемся мегасобытии **Forever Evil** и всей серии **Uncanny X-Men** на текущий момент, а Oleg89 напоминает, что есть просто добрые и вечные вещи вроде экстремально позитивных **Lumberjanes**.
 **Автор логотипа - Ярослав Астапеев.**

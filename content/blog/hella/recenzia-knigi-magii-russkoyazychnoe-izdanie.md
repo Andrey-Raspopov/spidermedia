@@ -4,6 +4,11 @@
   "url": "/blog/hella/recenzia-knigi-magii-russkoyazychnoe-izdanie/",
   "original_url": "http://spidermedia.ru/blog/hella/recenzia-knigi-magii-russkoyazychnoe-izdanie",
   "archived": "https://web.archive.org/web/20251216114447/http://spidermedia.ru/blog/hella/recenzia-knigi-magii-russkoyazychnoe-izdanie",
+  "tags": [
+    "neil-gaiman",
+    "zarubezhnye-komiksy-na-russkom",
+    "azbuka"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,15 @@
   "url": "/news/spider-man-shattered-dimensions-villains-trailer/",
   "original_url": "http://spidermedia.ru/news/spider-man-shattered-dimensions-villains-trailer",
   "archived": "https://web.archive.org/web/20260211101836/http://spidermedia.ru/news/spider-man-shattered-dimensions-villains-trailer",
+  "tags": [
+    "nuar",
+    "marvel",
+    "igry",
+    "spider-man-shattered-dimensions",
+    "noir",
+    "game",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,25 @@
   "url": "/news/sluhi-kolonka-11/",
   "original_url": "http://spidermedia.ru/news/sluhi-kolonka-11",
   "archived": "https://web.archive.org/web/20251115175854/http://spidermedia.ru/news/sluhi-kolonka-11",
+  "tags": [
+    "endi-diggl",
+    "frenk-cho",
+    "avengers",
+    "sluhi",
+    "robert-kirkman",
+    "osada",
+    "nekstvejv",
+    "kristos-gejdzh",
+    "deadpool",
+    "dzhef-loeb",
+    "dzheyson-aaron",
+    "brian-michael-bendis",
+    "art-0",
+    "thunderbolts",
+    "siege",
+    "nextwave",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

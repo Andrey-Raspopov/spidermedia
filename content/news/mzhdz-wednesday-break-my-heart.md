@@ -4,11 +4,15 @@
   "url": "/news/mzhdz-wednesday-break-my-heart/",
   "original_url": "http://spidermedia.ru/news/mzhdz-wednesday-break-my-heart",
   "archived": "https://web.archive.org/web/20260313112122/http://spidermedia.ru/news/mzhdz-wednesday-break-my-heart",
+  "tags": [
+    "mnenie",
+    "mzhdz"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](https://web.archive.org/web/20260313112122im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz.png)](https://web.archive.org/web/20260206215846/http://spidermedia.ru/tags/mzhdz)
+[![](https://web.archive.org/web/20260313112122im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz.png)](../../tags/mzhdz/)
 ![](https://web.archive.org/web/20260313112122im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/TheSimpsonsS23E06ByJohnnyboy187-205179.jpg)
 Нил Гейман читает только абсолютами
 **Еженедельные обзоры новых комиксов!**

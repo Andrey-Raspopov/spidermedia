@@ -4,6 +4,17 @@
   "url": "/news/messiah-war-part-5/",
   "original_url": "http://spidermedia.ru/news/messiah-war-part-5",
   "archived": "https://web.archive.org/web/20260117222547/http://spidermedia.ru/news/messiah-war-part-5",
+  "tags": [
+    "marvel",
+    "x-force",
+    "cable",
+    "hope",
+    "strajf",
+    "kejbl",
+    "stryfe",
+    "nadezhda",
+    "bishop"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

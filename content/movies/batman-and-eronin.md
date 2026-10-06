@@ -4,6 +4,9 @@
   "url": "/movies/batman-and-eronin/",
   "original_url": "http://spidermedia.ru/movies/batman-and-eronin",
   "archived": "https://web.archive.org/web/20260308234249/http://spidermedia.ru/movies/batman-and-eronin",
+  "tags": [
+    "batman-and-robin-day"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

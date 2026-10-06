@@ -4,6 +4,23 @@
   "url": "/news/they-lost-he-won/",
   "original_url": "http://spidermedia.ru/news/they-lost-he-won",
   "archived": "https://web.archive.org/web/20260117224256/http://spidermedia.ru/news/they-lost-he-won",
+  "tags": [
+    "kartinki",
+    "art-0",
+    "x-men",
+    "wolverine",
+    "wasp",
+    "venom",
+    "thor",
+    "norman-osborn",
+    "marvel",
+    "loki",
+    "iron-man",
+    "zelyonyj-goblin",
+    "emma-frost",
+    "captain-america",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,17 @@
   "url": "/blog/sp888/wildstrom-worlds-end-iyul/",
   "original_url": "http://spidermedia.ru/blog/sp888/wildstrom-worlds-end-iyul",
   "archived": "https://web.archive.org/web/20111018123136/http://spidermedia.ru/blog/sp888/wildstrom-worlds-end-iyul",
+  "tags": [
+    "authority",
+    "dc-comics",
+    "stormwatch",
+    "wildcats",
+    "wildstorm",
+    "avtoritety",
+    "dikie-koty",
+    "komiksy",
+    "stormvotch"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

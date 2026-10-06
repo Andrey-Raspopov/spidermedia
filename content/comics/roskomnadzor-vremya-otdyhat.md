@@ -4,6 +4,11 @@
   "url": "/comics/roskomnadzor-vremya-otdyhat/",
   "original_url": "http://spidermedia.ru/comics/roskomnadzor-vremya-otdyhat",
   "archived": "https://web.archive.org/web/20240413130431/http://spidermedia.ru/comics/roskomnadzor-vremya-otdyhat",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "roskomnadzor",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

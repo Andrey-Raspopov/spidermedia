@@ -4,6 +4,11 @@
   "url": "/news/gorod-grehov-2-ah-kakaya-zhenshchina/",
   "original_url": "https://spidermedia.ru/news/gorod-grehov-2-ah-kakaya-zhenshchina",
   "archived": "https://web.archive.org/web/20260214140327/https://spidermedia.ru/news/gorod-grehov-2-ah-kakaya-zhenshchina",
+  "tags": [
+    "sin-city",
+    "gorod-grehov",
+    "dark-horse"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

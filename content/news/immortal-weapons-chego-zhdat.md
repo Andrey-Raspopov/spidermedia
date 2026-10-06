@@ -4,6 +4,12 @@
   "url": "/news/immortal-weapons-chego-zhdat/",
   "original_url": "http://spidermedia.ru/news/immortal-weapons-chego-zhdat",
   "archived": "https://web.archive.org/web/20170425103706/http://spidermedia.ru:80/news/immortal-weapons-chego-zhdat",
+  "tags": [
+    "immortal-weapons",
+    "bessmertnye-oruzhiya",
+    "iron-fist",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,21 @@
   "url": "/blog/oleg89/senior-trekkers-log-x-men-special/",
   "original_url": "https://spidermedia.ru/blog/oleg89/senior-trekkers-log-x-men-special",
   "archived": "https://web.archive.org/web/20260208204516/https://spidermedia.ru/blog/oleg89/senior-trekkers-log-x-men-special",
+  "tags": [
+    "skott-lobdell",
+    "recenziya",
+    "mark-silvestri",
+    "keri-nord",
+    "jen-edzhinton",
+    "den-ebnett",
+    "devid-finch",
+    "billi-tan",
+    "x-men",
+    "star-trek",
+    "senior-trekkers-log",
+    "marvel",
+    "entoni-vinn"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

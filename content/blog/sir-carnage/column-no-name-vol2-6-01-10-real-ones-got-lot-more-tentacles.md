@@ -4,6 +4,15 @@
   "url": "/blog/sir-carnage/column-no-name-vol2-6-01-10-real-ones-got-lot-more-tentacles/",
   "original_url": "http://spidermedia.ru/blog/sir-carnage/column-no-name-vol2-6-01-10-real-ones-got-lot-more-tentacles",
   "archived": "https://web.archive.org/web/20250618120349/http://spidermedia.ru/blog/sir-carnage/column-no-name-vol2-6-01-10-real-ones-got-lot-more-tentacles",
+  "tags": [
+    "siege",
+    "marvel",
+    "echo",
+    "dc-comics",
+    "dark-horse",
+    "blackest-night",
+    "the-column-with-no-name"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

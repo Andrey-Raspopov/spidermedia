@@ -4,6 +4,21 @@
   "url": "/news/pugalo-superboy-i-zelenyy-fonar/",
   "original_url": "https://spidermedia.ru/news/pugalo-superboy-i-zelenyy-fonar",
   "archived": "https://web.archive.org/web/20251018232036/https://spidermedia.ru/news/pugalo-superboy-i-zelenyy-fonar",
+  "tags": [
+    "frensis-manapul",
+    "patrik-glison",
+    "majk-grell",
+    "dag-manke",
+    "greg-horn",
+    "brian-bolland",
+    "aaron-lopresti",
+    "patrick-gleason",
+    "mike-grell",
+    "green-lantern",
+    "francis-manapul",
+    "doug-mahnke",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

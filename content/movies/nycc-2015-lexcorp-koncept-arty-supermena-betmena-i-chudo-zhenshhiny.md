@@ -4,6 +4,10 @@
   "url": "/movies/nycc-2015-lexcorp-koncept-arty-supermena-betmena-i-chudo-zhenshhiny/",
   "original_url": "http://spidermedia.ru/movies/nycc-2015-lexcorp-koncept-arty-supermena-betmena-i-chudo-zhenshhiny",
   "archived": "https://web.archive.org/web/20260214134528/http://spidermedia.ru/movies/nycc-2015-lexcorp-koncept-arty-supermena-betmena-i-chudo-zhenshhiny",
+  "tags": [
+    "dc-comics",
+    "komik-kon-v-nyu-yorke"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

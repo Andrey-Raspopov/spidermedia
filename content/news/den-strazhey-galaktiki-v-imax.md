@@ -4,6 +4,10 @@
   "url": "/news/den-strazhey-galaktiki-v-imax/",
   "original_url": "http://spidermedia.ru/news/den-strazhey-galaktiki-v-imax",
   "archived": "https://web.archive.org/web/20251107000848/http://spidermedia.ru/news/den-strazhey-galaktiki-v-imax",
+  "tags": [
+    "guardians-of-the-galaxy",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

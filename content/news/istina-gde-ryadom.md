@@ -4,6 +4,13 @@
   "url": "/news/istina-gde-ryadom/",
   "original_url": "https://spidermedia.ru/news/istina-gde-ryadom",
   "archived": "https://web.archive.org/web/20260305234327/https://spidermedia.ru/news/istina-gde-ryadom",
+  "tags": [
+    "paolo-rivera",
+    "dzho-kesada",
+    "art-0",
+    "marvel",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

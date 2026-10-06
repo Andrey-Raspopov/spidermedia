@@ -4,6 +4,9 @@
   "url": "/comics/all-things-valiant-28-week-51/",
   "original_url": "https://spidermedia.ru/comics/all-things-valiant-28-week-51",
   "archived": "https://web.archive.org/web/20260125064304/https://spidermedia.ru/comics/all-things-valiant-28-week-51",
+  "tags": [
+    "valiant-entertainment"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

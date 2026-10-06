@@ -4,6 +4,12 @@
   "url": "/news/novyy-chelovek-pauk-ot-gameloft/",
   "original_url": "https://spidermedia.ru/news/novyy-chelovek-pauk-ot-gameloft",
   "archived": "https://web.archive.org/web/20251216111858/https://spidermedia.ru/news/novyy-chelovek-pauk-ot-gameloft",
+  "tags": [
+    "spider-man",
+    "marvel",
+    "igry",
+    "gameloft"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/blog/plane-v/prepare-become-fictional/",
   "original_url": "https://spidermedia.ru/blog/plane-v/prepare-become-fictional",
   "archived": "https://web.archive.org/web/20260123073848/https://spidermedia.ru/blog/plane-v/prepare-become-fictional",
+  "tags": [
+    "frenk-kuajtli",
+    "grant-morrison",
+    "flex-mentallo",
+    "vertigo"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

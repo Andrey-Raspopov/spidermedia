@@ -4,6 +4,17 @@
   "url": "/news/naciya-d-listerov/",
   "original_url": "https://spidermedia.ru/news/naciya-d-listerov",
   "archived": "https://web.archive.org/web/20260117221103/https://spidermedia.ru/news/naciya-d-listerov",
+  "tags": [
+    "trevor-hersin",
+    "tom-tejlor",
+    "rob-uilyams",
+    "nil-gudzh",
+    "majk-s.-miller",
+    "kalli-hemner",
+    "jen-edzhinton",
+    "dzheff-lemir",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

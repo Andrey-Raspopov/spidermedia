@@ -4,6 +4,9 @@
   "url": "/news/novaya-barbarella/",
   "original_url": "http://spidermedia.ru/news/novaya-barbarella",
   "archived": "https://web.archive.org/web/20200219021535/http://spidermedia.ru:80/news/novaya-barbarella",
+  "tags": [
+    "barbarella"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

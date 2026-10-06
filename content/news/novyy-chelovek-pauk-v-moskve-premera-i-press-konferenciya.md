@@ -4,6 +4,10 @@
   "url": "/news/novyy-chelovek-pauk-v-moskve-premera-i-press-konferenciya/",
   "original_url": "https://spidermedia.ru/news/novyy-chelovek-pauk-v-moskve-premera-i-press-konferenciya",
   "archived": "https://web.archive.org/web/20250424203754/https://spidermedia.ru/news/novyy-chelovek-pauk-v-moskve-premera-i-press-konferenciya",
+  "tags": [
+    "spider-man",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

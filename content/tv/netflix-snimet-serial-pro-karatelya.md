@@ -4,6 +4,10 @@
   "url": "/tv/netflix-snimet-serial-pro-karatelya/",
   "original_url": "http://spidermedia.ru/tv/netflix-snimet-serial-pro-karatelya",
   "archived": "https://web.archive.org/web/20250524072108/http://spidermedia.ru/tv/netflix-snimet-serial-pro-karatelya",
+  "tags": [
+    "marvel",
+    "punisher"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

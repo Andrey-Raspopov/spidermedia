@@ -4,6 +4,14 @@
   "url": "/news/v-kosmose-i-na-more/",
   "original_url": "https://spidermedia.ru/news/v-kosmose-i-na-more",
   "archived": "https://web.archive.org/web/20241009222339/https://spidermedia.ru/news/v-kosmose-i-na-more",
+  "tags": [
+    "shazam",
+    "bizarro",
+    "aquaman",
+    "adam-strejndzh",
+    "dc-comics",
+    "green-arrow"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

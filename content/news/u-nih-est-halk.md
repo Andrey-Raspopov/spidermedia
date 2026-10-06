@@ -4,6 +4,12 @@
   "url": "/news/u-nih-est-halk/",
   "original_url": "http://spidermedia.ru/news/u-nih-est-halk",
   "archived": "https://web.archive.org/web/20260215091128/http://spidermedia.ru/news/u-nih-est-halk",
+  "tags": [
+    "hulk",
+    "trejlery",
+    "marvel",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/blog/ohotnig/gyakushu-vol3/",
   "original_url": "http://spidermedia.ru/blog/ohotnig/gyakushu-vol3",
   "archived": "https://web.archive.org/web/20190715185249/http://spidermedia.ru:80/blog/ohotnig/gyakushu-vol3",
+  "tags": [
+    "den-hipp",
+    "gyakushu",
+    "dan-hipp"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

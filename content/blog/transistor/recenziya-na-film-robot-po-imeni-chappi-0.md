@@ -4,6 +4,9 @@
   "url": "/blog/transistor/recenziya-na-film-robot-po-imeni-chappi-0/",
   "original_url": "https://spidermedia.ru/blog/transistor/recenziya-na-film-robot-po-imeni-chappi-0",
   "archived": "https://web.archive.org/web/20230320165857/https://spidermedia.ru/blog/transistor/recenziya-na-film-robot-po-imeni-chappi-0",
+  "tags": [
+    "recenziya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/games/gamermedia-23-novosti-i-kovboi/",
   "original_url": "http://spidermedia.ru/games/gamermedia-23-novosti-i-kovboi",
   "archived": "https://web.archive.org/web/20260208204814/http://spidermedia.ru/games/gamermedia-23-novosti-i-kovboi",
+  "tags": [
+    "gamermedia"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

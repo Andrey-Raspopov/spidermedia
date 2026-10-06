@@ -4,6 +4,17 @@
   "url": "/news/animacionnye-plany-marvel-i-nemnozhko-dc/",
   "original_url": "https://spidermedia.ru/news/animacionnye-plany-marvel-i-nemnozhko-dc",
   "archived": "https://web.archive.org/web/20251216112453/https://spidermedia.ru/news/animacionnye-plany-marvel-i-nemnozhko-dc",
+  "tags": [
+    "spider-man",
+    "guardians-of-the-galaxy",
+    "avengers",
+    "marvel",
+    "justice-league",
+    "san-diego-comic-con-international",
+    "batman",
+    "animaciya",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

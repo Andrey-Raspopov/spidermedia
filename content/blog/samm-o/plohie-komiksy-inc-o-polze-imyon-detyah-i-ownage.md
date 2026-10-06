@@ -4,6 +4,11 @@
   "url": "/blog/samm-o/plohie-komiksy-inc-o-polze-imyon-detyah-i-ownage/",
   "original_url": "http://spidermedia.ru/blog/samm-o/plohie-komiksy-inc-o-polze-imyon-detyah-i-ownage",
   "archived": "https://web.archive.org/web/20120610052036/http://spidermedia.ru/blog/samm-o/plohie-komiksy-inc-o-polze-imyon-detyah-i-ownage",
+  "tags": [
+    "komiksy",
+    "mnenie",
+    "plohie-komiksy-inc"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

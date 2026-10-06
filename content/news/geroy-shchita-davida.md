@@ -4,6 +4,15 @@
   "url": "/news/geroy-shchita-davida/",
   "original_url": "http://spidermedia.ru/news/geroy-shchita-davida",
   "archived": "https://web.archive.org/web/20120607120443/http://spidermedia.ru/news/geroy-shchita-davida",
+  "tags": [
+    "sabra-0",
+    "adriana-melo",
+    "komiksy",
+    "marvel",
+    "mett-yokama",
+    "oblozhki",
+    "sabra"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

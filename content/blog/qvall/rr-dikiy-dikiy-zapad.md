@@ -4,6 +4,11 @@
   "url": "/blog/qvall/rr-dikiy-dikiy-zapad/",
   "original_url": "http://spidermedia.ru/blog/qvall/rr-dikiy-dikiy-zapad",
   "archived": "https://web.archive.org/web/20120609123353/http://spidermedia.ru/blog/qvall/rr-dikiy-dikiy-zapad",
+  "tags": [
+    "picspam",
+    "vertigo",
+    "marvel"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

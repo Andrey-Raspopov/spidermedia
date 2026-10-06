@@ -4,6 +4,10 @@
   "url": "/comics/ccr-2015-paneli-zangavar-i-komilfo/",
   "original_url": "http://spidermedia.ru/comics/ccr-2015-paneli-zangavar-i-komilfo",
   "archived": "https://web.archive.org/web/20251207011824/http://spidermedia.ru/comics/ccr-2015-paneli-zangavar-i-komilfo",
+  "tags": [
+    "comic-con-russia",
+    "zarubezhnye-komiksy-na-russkom"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

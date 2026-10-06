@@ -4,6 +4,17 @@
   "url": "/blog/redson/chto-stoit-i-ne-stoit-zhdat-24-marta-2010-goda/",
   "original_url": "https://spidermedia.ru/blog/redson/chto-stoit-i-ne-stoit-zhdat-24-marta-2010-goda",
   "archived": "https://web.archive.org/web/20251211030730/https://spidermedia.ru/blog/redson/chto-stoit-i-ne-stoit-zhdat-24-marta-2010-goda",
+  "tags": [
+    "richard-mur",
+    "preview",
+    "nik-spenser",
+    "slg-publishing",
+    "image-comics",
+    "dark-horse",
+    "antarctic-press",
+    "mnenie",
+    "top-shelf-productions"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

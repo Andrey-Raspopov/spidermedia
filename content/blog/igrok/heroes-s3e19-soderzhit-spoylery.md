@@ -4,6 +4,12 @@
   "url": "/blog/igrok/heroes-s3e19-soderzhit-spoylery/",
   "original_url": "http://spidermedia.ru/blog/igrok/heroes-s3e19-soderzhit-spoylery",
   "archived": "https://web.archive.org/web/20160405133333/http://spidermedia.ru/blog/igrok/heroes-s3e19-soderzhit-spoylery",
+  "tags": [
+    "recenziya",
+    "heroes",
+    "serialy",
+    "geroi"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

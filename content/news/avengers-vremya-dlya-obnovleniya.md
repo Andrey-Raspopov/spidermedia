@@ -4,6 +4,11 @@
   "url": "/news/avengers-vremya-dlya-obnovleniya/",
   "original_url": "http://spidermedia.ru/news/avengers-vremya-dlya-obnovleniya",
   "archived": "https://web.archive.org/web/20251013175502/http://spidermedia.ru/news/avengers-vremya-dlya-obnovleniya",
+  "tags": [
+    "marvel",
+    "iron-man",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

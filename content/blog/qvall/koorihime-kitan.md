@@ -4,6 +4,14 @@
   "url": "/blog/qvall/koorihime-kitan/",
   "original_url": "http://spidermedia.ru/blog/qvall/koorihime-kitan",
   "archived": "https://web.archive.org/web/20120607131838/http://spidermedia.ru/blog/qvall/koorihime-kitan",
+  "tags": [
+    "manga",
+    "one-shot",
+    "romance",
+    "shoujo",
+    "supernatural",
+    "skachat"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

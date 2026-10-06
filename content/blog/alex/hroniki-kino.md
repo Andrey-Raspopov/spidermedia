@@ -4,6 +4,11 @@
   "url": "/blog/alex/hroniki-kino/",
   "original_url": "http://spidermedia.ru/blog/alex/hroniki-kino",
   "archived": "https://web.archive.org/web/20250804004021/http://spidermedia.ru/blog/alex/hroniki-kino",
+  "tags": [
+    "marvel",
+    "wolverine",
+    "fanart"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

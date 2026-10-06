@@ -4,6 +4,12 @@
   "url": "/news/ellisoniana/",
   "original_url": "https://spidermedia.ru/news/ellisoniana",
   "archived": "https://web.archive.org/web/20260307071341/https://spidermedia.ru/news/ellisoniana",
+  "tags": [
+    "warren-ellis",
+    "ben-templsmit",
+    "marvel",
+    "image-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

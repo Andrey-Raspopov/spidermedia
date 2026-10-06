@@ -4,6 +4,12 @@
   "url": "/news/sdcc-09-iron-man-2-video-game/",
   "original_url": "http://spidermedia.ru/news/sdcc-09-iron-man-2-video-game",
   "archived": "https://web.archive.org/web/20260211182929/http://spidermedia.ru/news/sdcc-09-iron-man-2-video-game",
+  "tags": [
+    "preview",
+    "igry",
+    "san-diego-comic-con-2009",
+    "iron-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

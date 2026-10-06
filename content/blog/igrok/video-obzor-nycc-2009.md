@@ -4,6 +4,11 @@
   "url": "/blog/igrok/video-obzor-nycc-2009/",
   "original_url": "http://spidermedia.ru/blog/igrok/video-obzor-nycc-2009",
   "archived": "https://web.archive.org/web/20260121001651/http://spidermedia.ru/blog/igrok/video-obzor-nycc-2009",
+  "tags": [
+    "mattel",
+    "figurki",
+    "nycc-2009"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

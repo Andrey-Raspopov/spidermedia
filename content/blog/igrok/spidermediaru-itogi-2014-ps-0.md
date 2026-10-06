@@ -4,6 +4,9 @@
   "url": "/blog/igrok/spidermediaru-itogi-2014-ps-0/",
   "original_url": "https://spidermedia.ru/blog/igrok/spidermediaru-itogi-2014-ps-0",
   "archived": "https://web.archive.org/web/20250114020807/https://spidermedia.ru/blog/igrok/spidermediaru-itogi-2014-ps-0",
+  "tags": [
+    "itogi-goda"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

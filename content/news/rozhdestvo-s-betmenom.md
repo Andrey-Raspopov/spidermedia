@@ -4,6 +4,12 @@
   "url": "/news/rozhdestvo-s-betmenom/",
   "original_url": "http://spidermedia.ru/news/rozhdestvo-s-betmenom",
   "archived": "https://web.archive.org/web/20200221074331/http://spidermedia.ru:80/news/rozhdestvo-s-betmenom",
+  "tags": [
+    "li-bermeho",
+    "art-0",
+    "dc-comics",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

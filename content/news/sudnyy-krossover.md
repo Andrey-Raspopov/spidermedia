@@ -4,6 +4,15 @@
   "url": "/news/sudnyy-krossover/",
   "original_url": "http://spidermedia.ru/news/sudnyy-krossover",
   "archived": "https://web.archive.org/web/20120607121857/http://spidermedia.ru/news/sudnyy-krossover",
+  "tags": [
+    "dc-comics",
+    "doomsday",
+    "art-0",
+    "dumsdey",
+    "komiksy",
+    "oblozhki",
+    "ed-benes-1"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

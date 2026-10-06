@@ -4,6 +4,10 @@
   "url": "/comics/hellboymedia-classic-hellboy-wake-the-devil/",
   "original_url": "http://spidermedia.ru/comics/hellboymedia-classic-hellboy-wake-the-devil",
   "archived": "https://web.archive.org/web/20251216123331/http://spidermedia.ru/comics/hellboymedia-classic-hellboy-wake-the-devil",
+  "tags": [
+    "hellboymedia",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

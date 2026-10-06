@@ -4,6 +4,11 @@
   "url": "/news/dostoinstvo-i-trepet/",
   "original_url": "https://spidermedia.ru/news/dostoinstvo-i-trepet",
   "archived": "https://web.archive.org/web/20251014051045/https://spidermedia.ru/news/dostoinstvo-i-trepet",
+  "tags": [
+    "marko-dzhurdzhevich",
+    "art-0",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/news/ispaniya-barselona-betmen/",
   "original_url": "http://spidermedia.ru/news/ispaniya-barselona-betmen",
   "archived": "https://web.archive.org/web/20120718215713/http://spidermedia.ru/news/ispaniya-barselona-betmen",
+  "tags": [
+    "batman",
+    "dc-comics",
+    "komiksy",
+    "mark-ueyd"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

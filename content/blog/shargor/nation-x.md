@@ -4,6 +4,18 @@
   "url": "/blog/shargor/nation-x/",
   "original_url": "https://spidermedia.ru/blog/shargor/nation-x",
   "archived": "https://web.archive.org/web/20260314080316/https://spidermedia.ru/blog/shargor/nation-x",
+  "tags": [
+    "terri-dodson",
+    "matt-fraction",
+    "greg-lend",
+    "x-men",
+    "terry-dodson",
+    "san-diego-comic-con-international",
+    "marvel",
+    "magneto",
+    "greg-land",
+    "nation-x"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

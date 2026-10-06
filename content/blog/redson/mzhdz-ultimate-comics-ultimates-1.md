@@ -4,11 +4,15 @@
   "url": "/blog/redson/mzhdz-ultimate-comics-ultimates-1/",
   "original_url": "http://spidermedia.ru/blog/redson/mzhdz-ultimate-comics-ultimates-1",
   "archived": "https://web.archive.org/web/20251107005213/http://spidermedia.ru/blog/redson/mzhdz-ultimate-comics-ultimates-1",
+  "tags": [
+    "mnenie",
+    "mzhdz"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](https://web.archive.org/web/20251107005213im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz450.png)](https://web.archive.org/web/20260206215846/http://spidermedia.ru/tags/mzhdz)
+[![](https://web.archive.org/web/20251107005213im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz450.png)](../../../tags/mzhdz/)
 ![](https://web.archive.org/web/20251107005213im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/tumblr_lqafqemIQU1r229z1o1_500.gif)
 **OUR BOYS ARE BACK**
 Жизнь их здорово потрепала - и динозавров они били, и Венома, и вампиров, и еще дюжину Халков и Спайдерменов успели повстречать. Но, кажется, продолжительный загул окончен. Алтимейтс возвращаются к тому, что у них получается лучше всего. В новый том мировую полицию ведет серьезный автор с серьезными идеями Джонатан Хикман, а художником при нем заметно изменившийся в лице Эсад Рибич, автор любимых в народе Loki и Silver Surfer: Requiem. Удачно ли они стартовали?

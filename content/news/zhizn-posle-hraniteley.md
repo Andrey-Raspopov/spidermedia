@@ -4,6 +4,10 @@
   "url": "/news/zhizn-posle-hraniteley/",
   "original_url": "http://spidermedia.ru/news/zhizn-posle-hraniteley",
   "archived": "https://web.archive.org/web/20190915022508/http://spidermedia.ru:80/news/zhizn-posle-hraniteley",
+  "tags": [
+    "hraniteli",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

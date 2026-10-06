@@ -4,6 +4,9 @@
   "url": "/blog/plane-v/i-think-i-crashed-your-plane/",
   "original_url": "http://spidermedia.ru/blog/plane-v/i-think-i-crashed-your-plane",
   "archived": "https://web.archive.org/web/20161112213451/http://spidermedia.ru:80/blog/plane-v/i-think-i-crashed-your-plane",
+  "tags": [
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,13 @@
   "url": "/news/novyy-chelovek-pauk-s-novymi-foto/",
   "original_url": "http://spidermedia.ru/news/novyy-chelovek-pauk-s-novymi-foto",
   "archived": "https://web.archive.org/web/20251116072222/http://spidermedia.ru/news/novyy-chelovek-pauk-s-novymi-foto",
+  "tags": [
+    "endryu-garfild",
+    "emma-stoun",
+    "mark-uebb",
+    "spider-man",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/news/nycc-oni-press-vypustit-komiks-pro-tyurmu-dlya-gigantskih-monstrov/",
   "original_url": "http://spidermedia.ru/news/nycc-oni-press-vypustit-komiks-pro-tyurmu-dlya-gigantskih-monstrov",
   "archived": "https://web.archive.org/web/20260125123642/http://spidermedia.ru/news/nycc-oni-press-vypustit-komiks-pro-tyurmu-dlya-gigantskih-monstrov",
+  "tags": [
+    "komik-kon-v-nyu-jorke",
+    "oni-press"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

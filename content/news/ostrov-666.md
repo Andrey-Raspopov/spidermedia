@@ -4,6 +4,13 @@
   "url": "/news/ostrov-666/",
   "original_url": "http://spidermedia.ru/news/ostrov-666",
   "archived": "https://web.archive.org/web/20260214141419/http://spidermedia.ru/news/ostrov-666",
+  "tags": [
+    "spider-man",
+    "ostrov-pauka",
+    "den-slott",
+    "art-0",
+    "spider-island"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/blog/sterpazook/sabotazh-rossiyskoy-premery-hraniteley/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/sabotazh-rossiyskoy-premery-hraniteley",
   "archived": "https://web.archive.org/web/20191205172455/http://spidermedia.ru/blog/sterpazook/sabotazh-rossiyskoy-premery-hraniteley",
+  "tags": [
+    "hraniteli"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

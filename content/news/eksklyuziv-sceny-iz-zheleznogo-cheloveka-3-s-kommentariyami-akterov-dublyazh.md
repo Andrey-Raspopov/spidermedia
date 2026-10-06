@@ -4,6 +4,12 @@
   "url": "/news/eksklyuziv-sceny-iz-zheleznogo-cheloveka-3-s-kommentariyami-akterov-dublyazh/",
   "original_url": "http://www.spidermedia.ru/news/eksklyuziv-sceny-iz-zheleznogo-cheloveka-3-s-kommentariyami-akterov-dublyazh",
   "archived": "https://web.archive.org/web/20140708044315/http://www.spidermedia.ru:80/news/eksklyuziv-sceny-iz-zheleznogo-cheloveka-3-s-kommentariyami-akterov-dublyazh",
+  "tags": [
+    "video",
+    "iron-man",
+    "movie",
+    "marvel"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

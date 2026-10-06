@@ -4,6 +4,20 @@
   "url": "/news/ohota-dlinoyu-v-zhizn/",
   "original_url": "https://spidermedia.ru/news/ohota-dlinoyu-v-zhizn",
   "archived": "https://web.archive.org/web/20260211190231/https://spidermedia.ru/news/ohota-dlinoyu-v-zhizn",
+  "tags": [
+    "sten-li",
+    "markos-martin",
+    "maks-fiumara",
+    "majkl-lark",
+    "lejnil-frensis-yu",
+    "krejven",
+    "joe-kelly",
+    "dzhej-em-demattej",
+    "art-0",
+    "marvel",
+    "kraven",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

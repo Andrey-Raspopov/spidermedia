@@ -4,6 +4,11 @@
   "url": "/blog/bastion7/recenziya-league-extraordinary-gentlemen-century-1-1910/",
   "original_url": "https://spidermedia.ru/blog/bastion7/recenziya-league-extraordinary-gentlemen-century-1-1910",
   "archived": "https://web.archive.org/web/20260121005238/https://spidermedia.ru/blog/bastion7/recenziya-league-extraordinary-gentlemen-century-1-1910",
+  "tags": [
+    "recenziya",
+    "alan-mur",
+    "top-shelf-productions"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

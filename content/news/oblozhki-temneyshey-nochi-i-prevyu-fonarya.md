@@ -4,6 +4,13 @@
   "url": "/news/oblozhki-temneyshey-nochi-i-prevyu-fonarya/",
   "original_url": "https://spidermedia.ru/news/oblozhki-temneyshey-nochi-i-prevyu-fonarya",
   "archived": "https://web.archive.org/web/20250322062110/https://spidermedia.ru/news/oblozhki-temneyshey-nochi-i-prevyu-fonarya",
+  "tags": [
+    "dc-comics",
+    "green-lantern",
+    "blackest-night",
+    "preview",
+    "temnejshaya-noch"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,14 @@
   "url": "/news/ognestrelnyy-rosomaha/",
   "original_url": "http://spidermedia.ru/news/ognestrelnyy-rosomaha",
   "archived": "https://web.archive.org/web/20120718090604/http://spidermedia.ru/news/ognestrelnyy-rosomaha",
+  "tags": [
+    "wolverine",
+    "komiksy",
+    "marvel",
+    "oblozhki",
+    "preview-s",
+    "rosomaha"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/comics/recenziya-klaus/",
   "original_url": "https://spidermedia.ru/comics/recenziya-klaus",
   "archived": "https://web.archive.org/web/20251207094630/https://spidermedia.ru/comics/recenziya-klaus",
+  "tags": [
+    "fanzon",
+    "zarubezhnye-komiksy-na-russkom"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

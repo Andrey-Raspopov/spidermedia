@@ -4,6 +4,10 @@
   "url": "/comics/snotgirl-novyj-ongoing-brajana-li-omelli/",
   "original_url": "http://spidermedia.ru/comics/snotgirl-novyj-ongoing-brajana-li-omelli",
   "archived": "https://web.archive.org/web/20251211024623/http://spidermedia.ru/comics/snotgirl-novyj-ongoing-brajana-li-omelli",
+  "tags": [
+    "bryan-lee-o-malley",
+    "image-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

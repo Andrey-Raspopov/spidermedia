@@ -4,6 +4,17 @@
   "url": "/news/razedinenie/",
   "original_url": "http://spidermedia.ru/news/razedinenie",
   "archived": "https://web.archive.org/web/20120512064652/http://spidermedia.ru/news/razedinenie",
+  "tags": [
+    "fantastic-four",
+    "alan-devis",
+    "art-0",
+    "jonathan-hickman",
+    "komiksy",
+    "marvel",
+    "oblozhki",
+    "stiv-epting",
+    "fantasticheskaya-chetverka"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

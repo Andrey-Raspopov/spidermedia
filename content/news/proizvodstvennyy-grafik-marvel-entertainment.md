@@ -4,6 +4,19 @@
   "url": "/news/proizvodstvennyy-grafik-marvel-entertainment/",
   "original_url": "http://spidermedia.ru/news/proizvodstvennyy-grafik-marvel-entertainment",
   "archived": "https://web.archive.org/web/20120608140623/http://spidermedia.ru/news/proizvodstvennyy-grafik-marvel-entertainment",
+  "tags": [
+    "avengers",
+    "captain-america",
+    "iron-man",
+    "iron-man-2",
+    "thor",
+    "zheleznyy-chelovek",
+    "zheleznyy-chelovek-2",
+    "kapitan-amerika",
+    "kino",
+    "mstiteli",
+    "tor"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

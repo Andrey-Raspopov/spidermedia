@@ -4,6 +4,11 @@
   "url": "/comics/boom-presents-rowans-ruin/",
   "original_url": "http://spidermedia.ru/comics/boom-presents-rowans-ruin",
   "archived": "https://web.archive.org/web/20260208202408/http://spidermedia.ru/comics/boom-presents-rowans-ruin",
+  "tags": [
+    "boom-studios",
+    "majk-keri",
+    "majk-perkins"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

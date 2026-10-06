@@ -4,6 +4,10 @@
   "url": "/blog/sterpazook/pomnish-kak-vse-nachinalos/",
   "original_url": "https://spidermedia.ru/blog/sterpazook/pomnish-kak-vse-nachinalos",
   "archived": "https://web.archive.org/web/20220626074019/https://spidermedia.ru/blog/sterpazook/pomnish-kak-vse-nachinalos",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

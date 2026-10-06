@@ -4,6 +4,18 @@
   "url": "/news/shchupalca-ross-i-yubiley/",
   "original_url": "http://spidermedia.ru/news/shchupalca-ross-i-yubiley",
   "archived": "https://web.archive.org/web/20120608122946/http://spidermedia.ru/news/shchupalca-ross-i-yubiley",
+  "tags": [
+    "brand-new-day",
+    "doc-ock",
+    "spider-man",
+    "art-0",
+    "dzhon-romita-ml",
+    "doktor-osminog",
+    "den-slott",
+    "komiksy",
+    "oblozhki",
+    "chelovek-pauk"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

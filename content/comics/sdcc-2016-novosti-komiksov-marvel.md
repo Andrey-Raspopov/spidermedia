@@ -4,6 +4,12 @@
   "url": "/comics/sdcc-2016-novosti-komiksov-marvel/",
   "original_url": "http://spidermedia.ru/comics/sdcc-2016-novosti-komiksov-marvel",
   "archived": "https://web.archive.org/web/20251013185417/http://spidermedia.ru/comics/sdcc-2016-novosti-komiksov-marvel",
+  "tags": [
+    "marvel",
+    "nova",
+    "deadpool",
+    "black-panther"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

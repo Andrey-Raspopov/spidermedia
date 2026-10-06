@@ -4,6 +4,9 @@
   "url": "/comics/manzai/",
   "original_url": "http://spidermedia.ru/comics/manzai",
   "archived": "https://web.archive.org/web/20251117011754/http://spidermedia.ru/comics/manzai",
+  "tags": [
+    "manga"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

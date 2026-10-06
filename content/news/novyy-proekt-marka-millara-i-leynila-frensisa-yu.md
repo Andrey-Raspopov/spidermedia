@@ -4,6 +4,12 @@
   "url": "/news/novyy-proekt-marka-millara-i-leynila-frensisa-yu/",
   "original_url": "https://spidermedia.ru/news/novyy-proekt-marka-millara-i-leynila-frensisa-yu",
   "archived": "https://web.archive.org/web/20260211183502/https://spidermedia.ru/news/novyy-proekt-marka-millara-i-leynila-frensisa-yu",
+  "tags": [
+    "mark-millar",
+    "lejnil-frensis-yu",
+    "superior",
+    "creator-owned"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

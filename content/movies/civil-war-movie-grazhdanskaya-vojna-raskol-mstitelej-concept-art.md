@@ -4,6 +4,13 @@
   "url": "/movies/civil-war-movie-grazhdanskaya-vojna-raskol-mstitelej-concept-art/",
   "original_url": "https://spidermedia.ru/movies/civil-war-movie-grazhdanskaya-vojna-raskol-mstitelej-concept-art",
   "archived": "https://web.archive.org/web/20260314081144/https://spidermedia.ru/movies/civil-war-movie-grazhdanskaya-vojna-raskol-mstitelej-concept-art",
+  "tags": [
+    "marvel",
+    "iron-man",
+    "captain-america",
+    "avengers",
+    "civil-war"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

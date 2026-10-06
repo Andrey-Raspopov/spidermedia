@@ -4,6 +4,9 @@
   "url": "/news/semeynye-cennosti-na-spidermediaru/",
   "original_url": "http://spidermedia.ru/news/semeynye-cennosti-na-spidermediaru",
   "archived": "https://web.archive.org/web/20210125225435/http://spidermedia.ru/news/semeynye-cennosti-na-spidermediaru",
+  "tags": [
+    "dorogaya-redakciya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

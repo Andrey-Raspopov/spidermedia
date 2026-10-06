@@ -4,6 +4,23 @@
   "url": "/news/flesh-didio-i-ne-tolko/",
   "original_url": "http://spidermedia.ru/news/flesh-didio-i-ne-tolko",
   "archived": "https://web.archive.org/web/20260313111016/http://spidermedia.ru/news/flesh-didio-i-ne-tolko",
+  "tags": [
+    "frensis-manapul",
+    "filip-tan",
+    "temnejshaya-noch",
+    "skott-kolins",
+    "zatanna",
+    "dan-didio",
+    "geoff-johns",
+    "scott-kolins",
+    "philip-tan",
+    "paul-dini",
+    "outsiders",
+    "francis-manapul",
+    "the-flash",
+    "dc-comics",
+    "blackest-night"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

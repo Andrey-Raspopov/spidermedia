@@ -4,6 +4,11 @@
   "url": "/comics/roskomnadzor-blagodat/",
   "original_url": "https://spidermedia.ru/comics/roskomnadzor-blagodat",
   "archived": "https://web.archive.org/web/20230205173108/https://spidermedia.ru/comics/roskomnadzor-blagodat",
+  "tags": [
+    "roskomnadzor",
+    "zarubezhnye-komiksy-na-russkom",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

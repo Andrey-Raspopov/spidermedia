@@ -4,6 +4,13 @@
   "url": "/news/paranormalnoe-yavlenie-1940/",
   "original_url": "http://spidermedia.ru/news/paranormalnoe-yavlenie-1940",
   "archived": "https://web.archive.org/web/20260125060825/http://spidermedia.ru/news/paranormalnoe-yavlenie-1940",
+  "tags": [
+    "rodzher-lengridzh",
+    "dzhej-boun",
+    "idw-publishing",
+    "rocketeer",
+    "raketchik"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

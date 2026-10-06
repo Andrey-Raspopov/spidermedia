@@ -4,6 +4,11 @@
   "url": "/comics/roskomnadzor-u-nas-vse-okej/",
   "original_url": "https://spidermedia.ru/comics/roskomnadzor-u-nas-vse-okej",
   "archived": "https://web.archive.org/web/20250617224043/https://spidermedia.ru/comics/roskomnadzor-u-nas-vse-okej",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "roskomnadzor",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

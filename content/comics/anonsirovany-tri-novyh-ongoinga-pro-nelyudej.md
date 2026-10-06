@@ -4,6 +4,11 @@
   "url": "/comics/anonsirovany-tri-novyh-ongoinga-pro-nelyudej/",
   "original_url": "https://spidermedia.ru/comics/anonsirovany-tri-novyh-ongoinga-pro-nelyudej",
   "archived": "https://web.archive.org/web/20250512112044/https://spidermedia.ru/comics/anonsirovany-tri-novyh-ongoinga-pro-nelyudej",
+  "tags": [
+    "inhumans",
+    "marvel",
+    "nelyudi"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

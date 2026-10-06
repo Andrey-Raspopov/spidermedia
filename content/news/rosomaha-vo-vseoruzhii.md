@@ -4,6 +4,15 @@
   "url": "/news/rosomaha-vo-vseoruzhii/",
   "original_url": "http://spidermedia.ru/news/rosomaha-vo-vseoruzhii",
   "archived": "https://web.archive.org/web/20120608045519/http://spidermedia.ru/news/rosomaha-vo-vseoruzhii",
+  "tags": [
+    "wolverine",
+    "adam-kubert",
+    "art-0",
+    "komiksy",
+    "marvel",
+    "oblozhki",
+    "rosomaha"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

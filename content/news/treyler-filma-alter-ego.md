@@ -4,6 +4,11 @@
   "url": "/news/treyler-filma-alter-ego/",
   "original_url": "http://spidermedia.ru/news/treyler-filma-alter-ego",
   "archived": "https://web.archive.org/web/20241104203609/http://spidermedia.ru/news/treyler-filma-alter-ego",
+  "tags": [
+    "trejlery",
+    "supergeroi",
+    "kevin-smit"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

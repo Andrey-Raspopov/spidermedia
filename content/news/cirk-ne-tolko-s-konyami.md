@@ -4,6 +4,12 @@
   "url": "/news/cirk-ne-tolko-s-konyami/",
   "original_url": "http://spidermedia.ru/news/cirk-ne-tolko-s-konyami",
   "archived": "https://web.archive.org/web/20251012170455/http://spidermedia.ru/news/cirk-ne-tolko-s-konyami",
+  "tags": [
+    "hellboj",
+    "majk-minola",
+    "dankan-fegredo",
+    "dark-horse"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

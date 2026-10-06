@@ -4,6 +4,13 @@
   "url": "/blog/alex/smolvil-smallville-s9-ep5-ruletka-roulette/",
   "original_url": "https://spidermedia.ru/blog/alex/smolvil-smallville-s9-ep5-ruletka-roulette",
   "archived": "https://web.archive.org/web/20251206153703/https://spidermedia.ru/blog/alex/smolvil-smallville-s9-ep5-ruletka-roulette",
+  "tags": [
+    "serialy",
+    "tajny-smollvillya",
+    "superman",
+    "smollvill",
+    "smallville"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

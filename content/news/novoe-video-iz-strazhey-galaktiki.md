@@ -4,6 +4,11 @@
   "url": "/news/novoe-video-iz-strazhey-galaktiki/",
   "original_url": "http://spidermedia.ru/news/novoe-video-iz-strazhey-galaktiki",
   "archived": "https://web.archive.org/web/20160703170818/http://spidermedia.ru/news/novoe-video-iz-strazhey-galaktiki",
+  "tags": [
+    "guardians-of-the-galaxy",
+    "marvel",
+    "video"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

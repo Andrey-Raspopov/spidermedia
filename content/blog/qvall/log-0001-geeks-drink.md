@@ -4,6 +4,9 @@
   "url": "/blog/qvall/log-0001-geeks-drink/",
   "original_url": "http://spidermedia.ru/blog/qvall/log-0001-geeks-drink",
   "archived": "https://web.archive.org/web/20120607080455/http://spidermedia.ru/blog/qvall/log-0001-geeks-drink",
+  "tags": [
+    "gik-kafe"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

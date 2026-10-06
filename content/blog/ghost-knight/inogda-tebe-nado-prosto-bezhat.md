@@ -4,6 +4,13 @@
   "url": "/blog/ghost-knight/inogda-tebe-nado-prosto-bezhat/",
   "original_url": "https://spidermedia.ru/blog/ghost-knight/inogda-tebe-nado-prosto-bezhat",
   "archived": "https://web.archive.org/web/20251115035001/https://spidermedia.ru/blog/ghost-knight/inogda-tebe-nado-prosto-bezhat",
+  "tags": [
+    "dc-comics",
+    "preview",
+    "final-crisis",
+    "freddi-vilyams-ii",
+    "freddy-williams-ii"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

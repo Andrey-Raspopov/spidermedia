@@ -4,6 +4,14 @@
   "url": "/news/na-kostyor/",
   "original_url": "http://spidermedia.ru/news/na-kostyor",
   "archived": "https://web.archive.org/web/20260214125632/http://spidermedia.ru/news/na-kostyor",
+  "tags": [
+    "san-diego-comic-con-international",
+    "alyj-pauk",
+    "spider-man",
+    "spider-island",
+    "scarlet-spider",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

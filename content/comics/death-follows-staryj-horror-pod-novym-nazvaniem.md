@@ -4,6 +4,10 @@
   "url": "/comics/death-follows-staryj-horror-pod-novym-nazvaniem/",
   "original_url": "http://spidermedia.ru/comics/death-follows-staryj-horror-pod-novym-nazvaniem",
   "archived": "https://web.archive.org/web/20251205121854/http://spidermedia.ru/comics/death-follows-staryj-horror-pod-novym-nazvaniem",
+  "tags": [
+    "dark-horse",
+    "kallen-bann"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

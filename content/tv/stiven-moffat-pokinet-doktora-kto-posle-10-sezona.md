@@ -4,6 +4,9 @@
   "url": "/tv/stiven-moffat-pokinet-doktora-kto-posle-10-sezona/",
   "original_url": "http://spidermedia.ru/tv/stiven-moffat-pokinet-doktora-kto-posle-10-sezona",
   "archived": "https://web.archive.org/web/20251117003620/http://spidermedia.ru/tv/stiven-moffat-pokinet-doktora-kto-posle-10-sezona",
+  "tags": [
+    "doctor-who"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
@@ -18,4 +21,4 @@
 
 Грядут ли изменения в актерском составе, не сообщалось.
 
-Наши разборы последних двух сезонов вы можете найти [здесь](https://web.archive.org/web/20260215082138/http://spidermedia.ru/tags/doctor-who).
+Наши разборы последних двух сезонов вы можете найти [здесь](../../tags/doctor-who/).

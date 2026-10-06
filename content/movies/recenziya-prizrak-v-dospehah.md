@@ -4,6 +4,9 @@
   "url": "/movies/recenziya-prizrak-v-dospehah/",
   "original_url": "http://spidermedia.ru/movies/recenziya-prizrak-v-dospehah",
   "archived": "https://web.archive.org/web/20250215002543/http://spidermedia.ru/movies/recenziya-prizrak-v-dospehah",
+  "tags": [
+    "manga"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

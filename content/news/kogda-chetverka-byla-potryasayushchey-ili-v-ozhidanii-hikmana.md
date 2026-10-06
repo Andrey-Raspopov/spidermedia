@@ -4,6 +4,12 @@
   "url": "/news/kogda-chetverka-byla-potryasayushchey-ili-v-ozhidanii-hikmana/",
   "original_url": "http://spidermedia.ru/news/kogda-chetverka-byla-potryasayushchey-ili-v-ozhidanii-hikmana",
   "archived": "https://web.archive.org/web/20251216185926/http://spidermedia.ru/news/kogda-chetverka-byla-potryasayushchey-ili-v-ozhidanii-hikmana",
+  "tags": [
+    "marvel",
+    "fantastic-four",
+    "shon-chen",
+    "styuart-immonen"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

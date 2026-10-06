@@ -4,6 +4,19 @@
   "url": "/news/messiah-war-vtoroy-vzglyad/",
   "original_url": "http://spidermedia.ru/news/messiah-war-vtoroy-vzglyad",
   "archived": "https://web.archive.org/web/20260215072611/http://spidermedia.ru/news/messiah-war-vtoroy-vzglyad",
+  "tags": [
+    "x-men",
+    "marvel",
+    "x-force",
+    "cable",
+    "hope",
+    "deadpool",
+    "strajf",
+    "kejbl",
+    "stryfe",
+    "nadezhda",
+    "apokalipsis"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

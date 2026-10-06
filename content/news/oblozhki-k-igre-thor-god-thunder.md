@@ -4,6 +4,13 @@
   "url": "/news/oblozhki-k-igre-thor-god-thunder/",
   "original_url": "http://spidermedia.ru/news/oblozhki-k-igre-thor-god-thunder",
   "archived": "https://web.archive.org/web/20120608144644/http://spidermedia.ru/news/oblozhki-k-igre-thor-god-thunder",
+  "tags": [
+    "thor",
+    "games",
+    "komiksy",
+    "marvel",
+    "tor"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

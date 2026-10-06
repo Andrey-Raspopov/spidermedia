@@ -4,6 +4,11 @@
   "url": "/blog/happycake-oven/bronya/",
   "original_url": "http://spidermedia.ru/blog/happycake-oven/bronya",
   "archived": "https://web.archive.org/web/20130619121930/http://spidermedia.ru/blog/happycake-oven/bronya",
+  "tags": [
+    "spider-man",
+    "bronya",
+    "chelovek-pauk"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

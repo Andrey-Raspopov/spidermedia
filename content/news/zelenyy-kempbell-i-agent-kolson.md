@@ -4,6 +4,13 @@
   "url": "/news/zelenyy-kempbell-i-agent-kolson/",
   "original_url": "http://spidermedia.ru/news/zelenyy-kempbell-i-agent-kolson",
   "archived": "https://web.archive.org/web/20120608140514/http://spidermedia.ru/news/zelenyy-kempbell-i-agent-kolson",
+  "tags": [
+    "green-lantern",
+    "thor",
+    "zelenyy-fonar",
+    "kino",
+    "tor"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

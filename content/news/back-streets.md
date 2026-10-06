@@ -4,6 +4,13 @@
   "url": "/news/back-streets/",
   "original_url": "http://spidermedia.ru/news/back-streets",
   "archived": "https://web.archive.org/web/20250519182514/http://spidermedia.ru/news/back-streets",
+  "tags": [
+    "erik-kanete",
+    "dzhon-arkudi",
+    "art-0",
+    "marvel",
+    "luke-cage"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,17 @@
   "url": "/news/kogtistyy-aprel/",
   "original_url": "http://spidermedia.ru/news/kogtistyy-aprel",
   "archived": "https://web.archive.org/web/20120607172211/http://spidermedia.ru/news/kogtistyy-aprel",
+  "tags": [
+    "wolverine",
+    "art-0",
+    "dzheyson-aaron",
+    "komiksy",
+    "marvel",
+    "oblozhki",
+    "preview-s",
+    "ron-garni",
+    "rosomaha"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

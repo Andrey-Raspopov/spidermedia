@@ -4,6 +4,9 @@
   "url": "/news/posledniy-letere/",
   "original_url": "http://spidermedia.ru/news/posledniy-letere",
   "archived": "https://web.archive.org/web/20241211222225/http://spidermedia.ru/news/posledniy-letere",
+  "tags": [
+    "y-the-last-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

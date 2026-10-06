@@ -4,6 +4,11 @@
   "url": "/news/lyudi-iks-dni-minuvshego-budushchego-osheynik-ingibitor/",
   "original_url": "http://spidermedia.ru/news/lyudi-iks-dni-minuvshego-budushchego-osheynik-ingibitor",
   "archived": "https://web.archive.org/web/20260305234659/http://spidermedia.ru/news/lyudi-iks-dni-minuvshego-budushchego-osheynik-ingibitor",
+  "tags": [
+    "marvel",
+    "x-men",
+    "days-of-future-past"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/news/udivitelnyy-chelovek-pauk/",
   "original_url": "http://spidermedia.ru/news/udivitelnyy-chelovek-pauk",
   "archived": "https://web.archive.org/web/20250121012745/http://spidermedia.ru/news/udivitelnyy-chelovek-pauk",
+  "tags": [
+    "marvel",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/blog/hella/podrostki-mutanty-nindzya-cherepashki-ot-komilfo/",
   "original_url": "http://spidermedia.ru/blog/hella/podrostki-mutanty-nindzya-cherepashki-ot-komilfo",
   "archived": "https://web.archive.org/web/20250806091709/http://spidermedia.ru/blog/hella/podrostki-mutanty-nindzya-cherepashki-ot-komilfo",
+  "tags": [
+    "ninja-turtles",
+    "komilfo",
+    "zarubezhnye-komiksy-na-russkom"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

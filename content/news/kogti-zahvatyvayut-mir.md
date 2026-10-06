@@ -4,6 +4,14 @@
   "url": "/news/kogti-zahvatyvayut-mir/",
   "original_url": "http://spidermedia.ru/news/kogti-zahvatyvayut-mir",
   "archived": "https://web.archive.org/web/20120718073719/http://spidermedia.ru/news/kogti-zahvatyvayut-mir",
+  "tags": [
+    "wolverine",
+    "art-0",
+    "komiksy",
+    "marvel",
+    "oblozhki",
+    "rosomaha"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

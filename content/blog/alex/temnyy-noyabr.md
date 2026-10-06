@@ -4,6 +4,11 @@
   "url": "/blog/alex/temnyy-noyabr/",
   "original_url": "http://spidermedia.ru/blog/alex/temnyy-noyabr",
   "archived": "https://web.archive.org/web/20250913004320/http://spidermedia.ru/blog/alex/temnyy-noyabr",
+  "tags": [
+    "temnejshaya-noch",
+    "dc-comics",
+    "blackest-night"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

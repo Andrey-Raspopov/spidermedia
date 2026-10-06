@@ -4,6 +4,13 @@
   "url": "/news/ya-ohochus-na-geroev-poka-chto-ni-odnogo-ne-vstrechal/",
   "original_url": "http://spidermedia.ru/news/ya-ohochus-na-geroev-poka-chto-ni-odnogo-ne-vstrechal",
   "archived": "https://web.archive.org/web/20121119002510/http://spidermedia.ru/news/ya-ohochus-na-geroev-poka-chto-ni-odnogo-ne-vstrechal",
+  "tags": [
+    "dc-comics",
+    "marshal-law",
+    "kevin-onil",
+    "komiksy",
+    "pet-mills"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

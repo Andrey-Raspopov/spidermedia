@@ -4,6 +4,13 @@
   "url": "/blog/bastion7/hall-just-us-008-x-force-vol-1/",
   "original_url": "http://spidermedia.ru/blog/bastion7/hall-just-us-008-x-force-vol-1",
   "archived": "https://web.archive.org/web/20260214143206/http://spidermedia.ru/blog/bastion7/hall-just-us-008-x-force-vol-1",
+  "tags": [
+    "fabian-nicieza",
+    "rob-lajfeld",
+    "x-force",
+    "marvel",
+    "hall-of-just-us"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

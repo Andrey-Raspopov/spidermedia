@@ -4,6 +4,11 @@
   "url": "/news/tysyacha-lic-pola-dzhiamatti/",
   "original_url": "http://spidermedia.ru/news/tysyacha-lic-pola-dzhiamatti",
   "archived": "https://web.archive.org/web/20181112163151/http://spidermedia.ru:80/news/tysyacha-lic-pola-dzhiamatti",
+  "tags": [
+    "mark-uebb",
+    "pol-dzhiamatti",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/blog/uncle-fucka/comic-book-men/",
   "original_url": "http://spidermedia.ru/blog/uncle-fucka/comic-book-men",
   "archived": "https://web.archive.org/web/20150501133856/http://spidermedia.ru/blog/uncle-fucka/comic-book-men",
+  "tags": [
+    "kevin-smit",
+    "tv"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

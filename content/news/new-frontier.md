@@ -4,6 +4,13 @@
   "url": "/news/new-frontier/",
   "original_url": "http://spidermedia.ru/news/new-frontier",
   "archived": "https://web.archive.org/web/20251014040700/http://spidermedia.ru/news/new-frontier",
+  "tags": [
+    "industriya",
+    "dan-didio",
+    "jim-lee",
+    "geoff-johns",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

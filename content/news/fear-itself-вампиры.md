@@ -4,6 +4,15 @@
   "url": "/news/fear-itself-вампиры/",
   "original_url": "http://www.spidermedia.ru/news/fear-itself-%D0%B2%D0%B0%D0%BC%D0%BF%D0%B8%D1%80%D1%8B",
   "archived": "https://web.archive.org/web/20110128040049/http://www.spidermedia.ru:80/news/fear-itself-%D0%B2%D0%B0%D0%BC%D0%BF%D0%B8%D1%80%D1%8B",
+  "tags": [
+    "fear-itself",
+    "marvel",
+    "арт",
+    "вампиры",
+    "воплощение-страха",
+    "комиксы",
+    "обложки"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

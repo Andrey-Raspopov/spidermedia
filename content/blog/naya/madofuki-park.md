@@ -4,6 +4,12 @@
   "url": "/blog/naya/madofuki-park/",
   "original_url": "http://spidermedia.ru/blog/naya/madofuki-park",
   "archived": "https://web.archive.org/web/20120608033720/http://spidermedia.ru/blog/naya/madofuki-park",
+  "tags": [
+    "manga",
+    "one-shot",
+    "sci-fi",
+    "skachat"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

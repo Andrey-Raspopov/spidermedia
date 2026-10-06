@@ -4,6 +4,13 @@
   "url": "/news/pod-krylom-bolshogo-brata/",
   "original_url": "http://spidermedia.ru/news/pod-krylom-bolshogo-brata",
   "archived": "https://web.archive.org/web/20250715223310/http://spidermedia.ru/news/pod-krylom-bolshogo-brata",
+  "tags": [
+    "biznes",
+    "marvel",
+    "industriya",
+    "disnej",
+    "disney"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

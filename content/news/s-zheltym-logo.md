@@ -4,6 +4,15 @@
   "url": "/news/s-zheltym-logo/",
   "original_url": "http://spidermedia.ru/news/s-zheltym-logo",
   "archived": "https://web.archive.org/web/20120610023332/http://spidermedia.ru/news/s-zheltym-logo",
+  "tags": [
+    "batman",
+    "battle-cowl",
+    "dc-comics",
+    "betmen",
+    "komiksy",
+    "tim-dreyk",
+    "toni-deniel"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

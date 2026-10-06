@@ -4,6 +4,9 @@
   "url": "/comics/recenziya-chu-brodyaga/",
   "original_url": "http://spidermedia.ru/comics/recenziya-chu-brodyaga",
   "archived": "https://web.archive.org/web/20260117220816/http://spidermedia.ru/comics/recenziya-chu-brodyaga",
+  "tags": [
+    "obzor"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

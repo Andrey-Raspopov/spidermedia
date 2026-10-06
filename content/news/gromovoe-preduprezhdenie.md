@@ -4,6 +4,13 @@
   "url": "/news/gromovoe-preduprezhdenie/",
   "original_url": "http://spidermedia.ru/news/gromovoe-preduprezhdenie",
   "archived": "https://web.archive.org/web/20120608165403/http://spidermedia.ru/news/gromovoe-preduprezhdenie",
+  "tags": [
+    "dc-comics",
+    "thunder-agents",
+    "agenty-groma",
+    "art-0",
+    "oblozhki"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

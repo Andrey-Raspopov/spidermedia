@@ -4,6 +4,13 @@
   "url": "/news/nemnozhko-cho-v-predverii-leta/",
   "original_url": "http://spidermedia.ru/news/nemnozhko-cho-v-predverii-leta",
   "archived": "https://web.archive.org/web/20260211085749/http://spidermedia.ru/news/nemnozhko-cho-v-predverii-leta",
+  "tags": [
+    "frenk-cho",
+    "dzhef-loeb",
+    "ultimate",
+    "ultimates",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,17 @@
   "url": "/news/novosti-marvel-0/",
   "original_url": "https://spidermedia.ru/news/novosti-marvel-0",
   "archived": "https://web.archive.org/web/20260124052250/https://spidermedia.ru/news/novosti-marvel-0",
+  "tags": [
+    "endi-diggl",
+    "spider-man",
+    "mett-kindt",
+    "marko-rudi",
+    "majk-kosta",
+    "dzho-kiting",
+    "adi-granov",
+    "x-men",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

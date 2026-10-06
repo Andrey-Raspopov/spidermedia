@@ -4,6 +4,12 @@
   "url": "/news/iron-man-2-et-promo-podgotovka-k-treyleru/",
   "original_url": "https://spidermedia.ru/news/iron-man-2-et-promo-podgotovka-k-treyleru",
   "archived": "https://web.archive.org/web/20260313105655/https://spidermedia.ru/news/iron-man-2-et-promo-podgotovka-k-treyleru",
+  "tags": [
+    "reportazh",
+    "dzhon-favro",
+    "marvel",
+    "iron-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

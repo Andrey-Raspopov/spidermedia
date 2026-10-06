@@ -4,6 +4,11 @@
   "url": "/blog/gess/supaydaman/",
   "original_url": "http://spidermedia.ru/blog/gess/supaydaman",
   "archived": "https://web.archive.org/web/20120608235312/http://spidermedia.ru/blog/gess/supaydaman",
+  "tags": [
+    "spider-man",
+    "tokusacu",
+    "chelovek-pauk"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

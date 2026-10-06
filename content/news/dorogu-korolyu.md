@@ -4,6 +4,16 @@
   "url": "/news/dorogu-korolyu/",
   "original_url": "http://spidermedia.ru/news/dorogu-korolyu",
   "archived": "https://web.archive.org/web/20190924063536/http://spidermedia.ru:80/news/dorogu-korolyu",
+  "tags": [
+    "chernyj-grom",
+    "mark-bagli",
+    "dzhonatan-hikman",
+    "greg-tochchini",
+    "barri-kitson",
+    "art-0",
+    "marvel",
+    "black-bolt"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

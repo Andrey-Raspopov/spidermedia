@@ -4,6 +4,11 @@
   "url": "/news/hraniteli-dvd/",
   "original_url": "https://spidermedia.ru/news/hraniteli-dvd",
   "archived": "https://web.archive.org/web/20250913005705/https://spidermedia.ru/news/hraniteli-dvd",
+  "tags": [
+    "hraniteli",
+    "rorschach",
+    "rorshah"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

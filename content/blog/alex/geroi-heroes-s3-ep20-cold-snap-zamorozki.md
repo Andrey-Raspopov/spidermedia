@@ -4,6 +4,11 @@
   "url": "/blog/alex/geroi-heroes-s3-ep20-cold-snap-zamorozki/",
   "original_url": "http://spidermedia.ru/blog/alex/geroi-heroes-s3-ep20-cold-snap-zamorozki",
   "archived": "https://web.archive.org/web/20190901223110/http://spidermedia.ru:80/blog/alex/geroi-heroes-s3-ep20-cold-snap-zamorozki",
+  "tags": [
+    "heroes",
+    "serialy",
+    "geroi"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

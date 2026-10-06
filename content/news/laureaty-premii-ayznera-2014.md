@@ -4,6 +4,10 @@
   "url": "/news/laureaty-premii-ayznera-2014/",
   "original_url": "https://spidermedia.ru/news/laureaty-premii-ayznera-2014",
   "archived": "https://web.archive.org/web/20250518124543/https://spidermedia.ru/news/laureaty-premii-ayznera-2014",
+  "tags": [
+    "eisner-awards",
+    "san-diego-comic-con-international"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

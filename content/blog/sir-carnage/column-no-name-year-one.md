@@ -4,6 +4,16 @@
   "url": "/blog/sir-carnage/column-no-name-year-one/",
   "original_url": "https://spidermedia.ru/blog/sir-carnage/column-no-name-year-one",
   "archived": "https://web.archive.org/web/20260121010937/https://spidermedia.ru/blog/sir-carnage/column-no-name-year-one",
+  "tags": [
+    "vertigo",
+    "marvel",
+    "image-comics",
+    "idw-publishing",
+    "dc-comics",
+    "dark-horse",
+    "blackest-night",
+    "the-column-with-no-name"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

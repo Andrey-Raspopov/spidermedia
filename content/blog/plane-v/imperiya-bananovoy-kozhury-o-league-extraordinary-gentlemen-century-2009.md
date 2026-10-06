@@ -4,6 +4,12 @@
   "url": "/blog/plane-v/imperiya-bananovoy-kozhury-o-league-extraordinary-gentlemen-century-2009/",
   "original_url": "https://spidermedia.ru/blog/plane-v/imperiya-bananovoy-kozhury-o-league-extraordinary-gentlemen-century-2009",
   "archived": "https://web.archive.org/web/20250324061707/https://spidermedia.ru/blog/plane-v/imperiya-bananovoy-kozhury-o-league-extraordinary-gentlemen-century-2009",
+  "tags": [
+    "liga-vydayushhihsya-dzhentlmenov",
+    "kevin-onil",
+    "alan-mur",
+    "league-of-extraordinary-gentlemen"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/news/walking-alive/",
   "original_url": "http://spidermedia.ru/news/walking-alive",
   "archived": "https://web.archive.org/web/20161112213300/http://spidermedia.ru:80/news/walking-alive",
+  "tags": [
+    "the-walking-dead",
+    "image-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

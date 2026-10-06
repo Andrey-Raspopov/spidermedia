@@ -4,6 +4,11 @@
   "url": "/blog/ghost-knight/ubiyca-supermena-uzhe-v-seti/",
   "original_url": "https://spidermedia.ru/blog/ghost-knight/ubiyca-supermena-uzhe-v-seti",
   "archived": "https://web.archive.org/web/20250327224039/https://spidermedia.ru/blog/ghost-knight/ubiyca-supermena-uzhe-v-seti",
+  "tags": [
+    "igry",
+    "superman",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

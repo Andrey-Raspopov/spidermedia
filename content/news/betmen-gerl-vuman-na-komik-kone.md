@@ -4,6 +4,16 @@
   "url": "/news/betmen-gerl-vuman-na-komik-kone/",
   "original_url": "http://spidermedia.ru/news/betmen-gerl-vuman-na-komik-kone",
   "archived": "https://web.archive.org/web/20251207094208/http://spidermedia.ru/news/betmen-gerl-vuman-na-komik-kone",
+  "tags": [
+    "pol-dini",
+    "dzhok",
+    "betgyorl",
+    "betvuman",
+    "san-diego-comic-con-international",
+    "paul-dini",
+    "jock",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

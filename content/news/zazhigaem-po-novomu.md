@@ -4,6 +4,13 @@
   "url": "/news/zazhigaem-po-novomu/",
   "original_url": "http://spidermedia.ru/news/zazhigaem-po-novomu",
   "archived": "https://web.archive.org/web/20230209070242/http://spidermedia.ru/news/zazhigaem-po-novomu",
+  "tags": [
+    "majkl-terner",
+    "izdatelstvo-komiks",
+    "zarubezhnye-komiksy-na-russkom",
+    "soulfire",
+    "michael-turner"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

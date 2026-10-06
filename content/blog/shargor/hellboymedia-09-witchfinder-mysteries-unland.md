@@ -4,6 +4,10 @@
   "url": "/blog/shargor/hellboymedia-09-witchfinder-mysteries-unland/",
   "original_url": "https://spidermedia.ru/blog/shargor/hellboymedia-09-witchfinder-mysteries-unland",
   "archived": "https://web.archive.org/web/20251209144825/https://spidermedia.ru/blog/shargor/hellboymedia-09-witchfinder-mysteries-unland",
+  "tags": [
+    "hellboymedia",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

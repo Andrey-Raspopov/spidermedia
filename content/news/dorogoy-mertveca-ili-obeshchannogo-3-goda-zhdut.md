@@ -4,6 +4,12 @@
   "url": "/news/dorogoy-mertveca-ili-obeshchannogo-3-goda-zhdut/",
   "original_url": "http://spidermedia.ru/news/dorogoy-mertveca-ili-obeshchannogo-3-goda-zhdut",
   "archived": "https://web.archive.org/web/20260214131643/http://spidermedia.ru/news/dorogoy-mertveca-ili-obeshchannogo-3-goda-zhdut",
+  "tags": [
+    "frenk-cho",
+    "dzhef-loeb",
+    "ultimates",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

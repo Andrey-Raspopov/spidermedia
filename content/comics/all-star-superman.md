@@ -4,6 +4,12 @@
   "url": "/comics/all-star-superman/",
   "original_url": "https://spidermedia.ru/comics/all-star-superman",
   "archived": "https://web.archive.org/web/20260305231913/https://spidermedia.ru/comics/all-star-superman",
+  "tags": [
+    "dc-comics",
+    "grant-morrison",
+    "superman",
+    "frenk-kuajtli"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

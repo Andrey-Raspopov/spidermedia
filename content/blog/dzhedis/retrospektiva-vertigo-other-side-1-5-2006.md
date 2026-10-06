@@ -4,6 +4,11 @@
   "url": "/blog/dzhedis/retrospektiva-vertigo-other-side-1-5-2006/",
   "original_url": "https://spidermedia.ru/blog/dzhedis/retrospektiva-vertigo-other-side-1-5-2006",
   "archived": "https://web.archive.org/web/20260305235534/https://spidermedia.ru/blog/dzhedis/retrospektiva-vertigo-other-side-1-5-2006",
+  "tags": [
+    "vertigo",
+    "jason-aaron",
+    "cameron-stewart"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

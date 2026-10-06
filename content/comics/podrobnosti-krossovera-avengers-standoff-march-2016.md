@@ -4,6 +4,13 @@
   "url": "/comics/podrobnosti-krossovera-avengers-standoff-march-2016/",
   "original_url": "https://spidermedia.ru/comics/podrobnosti-krossovera-avengers-standoff-march-2016",
   "archived": "https://web.archive.org/web/20260309175359/https://spidermedia.ru/comics/podrobnosti-krossovera-avengers-standoff-march-2016",
+  "tags": [
+    "marvel",
+    "s.h.i.e.l.d",
+    "agenty-shhita",
+    "captain-america",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

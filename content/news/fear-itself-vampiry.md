@@ -4,6 +4,15 @@
   "url": "/news/fear-itself-vampiry/",
   "original_url": "http://spidermedia.ru/news/fear-itself-vampiry",
   "archived": "https://web.archive.org/web/20120607170219/http://spidermedia.ru/news/fear-itself-vampiry",
+  "tags": [
+    "fear-itself",
+    "art-0",
+    "vampiry",
+    "voploshchenie-straha",
+    "komiksy",
+    "marvel",
+    "oblozhki"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

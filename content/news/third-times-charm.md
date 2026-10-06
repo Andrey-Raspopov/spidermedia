@@ -4,6 +4,13 @@
   "url": "/news/third-times-charm/",
   "original_url": "http://spidermedia.ru/news/third-times-charm",
   "archived": "https://web.archive.org/web/20260211193427/http://spidermedia.ru/news/third-times-charm",
+  "tags": [
+    "krasnye-fonari",
+    "geoff-johns",
+    "red-lantern-corps",
+    "green-lantern",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/comics/mister-miracle-review/",
   "original_url": "http://spidermedia.ru/comics/mister-miracle-review",
   "archived": "https://web.archive.org/web/20250217070407/http://spidermedia.ru/comics/mister-miracle-review",
+  "tags": [
+    "dc-comics",
+    "novye-bogi"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

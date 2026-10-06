@@ -4,6 +4,11 @@
   "url": "/news/bolshe-iks-geroev-vsyakih-i-raznyh/",
   "original_url": "http://spidermedia.ru/news/bolshe-iks-geroev-vsyakih-i-raznyh",
   "archived": "https://web.archive.org/web/20251012171401/http://spidermedia.ru/news/bolshe-iks-geroev-vsyakih-i-raznyh",
+  "tags": [
+    "art-0",
+    "marvel",
+    "x-men"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

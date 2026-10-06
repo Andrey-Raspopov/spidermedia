@@ -4,6 +4,9 @@
   "url": "/comics/my-favorite-comics-in-2020/",
   "original_url": "http://spidermedia.ru/comics/my-favorite-comics-in-2020",
   "archived": "https://web.archive.org/web/20250909140442/http://spidermedia.ru/comics/my-favorite-comics-in-2020",
+  "tags": [
+    "itogi-goda"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

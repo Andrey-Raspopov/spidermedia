@@ -4,6 +4,10 @@
   "url": "/animation/hellboymedia-special-08-hellboy-animated/",
   "original_url": "https://spidermedia.ru/animation/hellboymedia-special-08-hellboy-animated",
   "archived": "https://web.archive.org/web/20260209104840/https://spidermedia.ru/animation/hellboymedia-special-08-hellboy-animated",
+  "tags": [
+    "hellboymedia",
+    "obzor"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

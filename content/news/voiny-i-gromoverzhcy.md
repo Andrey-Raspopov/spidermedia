@@ -4,6 +4,16 @@
   "url": "/news/voiny-i-gromoverzhcy/",
   "original_url": "http://spidermedia.ru/news/voiny-i-gromoverzhcy",
   "archived": "https://web.archive.org/web/20260120154759/http://spidermedia.ru/news/voiny-i-gromoverzhcy",
+  "tags": [
+    "endi-diggl",
+    "tajnye-voiny",
+    "preview",
+    "dzhonatan-hikman",
+    "art-0",
+    "thunderbolts",
+    "secret-warriors",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,13 @@
   "url": "/news/vosstat-iz-pepla/",
   "original_url": "http://spidermedia.ru/news/vosstat-iz-pepla",
   "archived": "https://web.archive.org/web/20250913010920/http://spidermedia.ru/news/vosstat-iz-pepla",
+  "tags": [
+    "feniks",
+    "x-men",
+    "dzhin-grej",
+    "phoenix",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

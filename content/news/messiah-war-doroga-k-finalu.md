@@ -4,6 +4,17 @@
   "url": "/news/messiah-war-doroga-k-finalu/",
   "original_url": "https://spidermedia.ru/news/messiah-war-doroga-k-finalu",
   "archived": "https://web.archive.org/web/20260314080753/https://spidermedia.ru/news/messiah-war-doroga-k-finalu",
+  "tags": [
+    "x-men",
+    "marvel",
+    "x-force",
+    "cable",
+    "hope",
+    "strajf",
+    "kejbl",
+    "stryfe",
+    "nadezhda"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

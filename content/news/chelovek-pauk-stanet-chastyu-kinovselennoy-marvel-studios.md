@@ -4,6 +4,10 @@
   "url": "/news/chelovek-pauk-stanet-chastyu-kinovselennoy-marvel-studios/",
   "original_url": "http://spidermedia.ru/news/chelovek-pauk-stanet-chastyu-kinovselennoy-marvel-studios",
   "archived": "https://web.archive.org/web/20260125051103/http://spidermedia.ru/news/chelovek-pauk-stanet-chastyu-kinovselennoy-marvel-studios",
+  "tags": [
+    "spider-man",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

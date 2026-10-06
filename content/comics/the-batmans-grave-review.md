@@ -4,6 +4,12 @@
   "url": "/comics/the-batmans-grave-review/",
   "original_url": "http://spidermedia.ru/comics/the-batmans-grave-review",
   "archived": "https://web.archive.org/web/20260116210208/http://spidermedia.ru/comics/the-batmans-grave-review",
+  "tags": [
+    "dc-comics",
+    "bryan-hitch",
+    "batman",
+    "warren-ellis"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

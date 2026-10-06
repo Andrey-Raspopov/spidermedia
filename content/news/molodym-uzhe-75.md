@@ -4,6 +4,11 @@
   "url": "/news/molodym-uzhe-75/",
   "original_url": "http://spidermedia.ru/news/molodym-uzhe-75",
   "archived": "https://web.archive.org/web/20120607085900/http://spidermedia.ru/news/molodym-uzhe-75",
+  "tags": [
+    "dc-comics",
+    "teen-titans",
+    "komiksy"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

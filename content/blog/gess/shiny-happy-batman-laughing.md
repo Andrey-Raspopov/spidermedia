@@ -4,6 +4,10 @@
   "url": "/blog/gess/shiny-happy-batman-laughing/",
   "original_url": "https://spidermedia.ru/blog/gess/shiny-happy-batman-laughing",
   "archived": "https://web.archive.org/web/20260125053047/https://spidermedia.ru/blog/gess/shiny-happy-batman-laughing",
+  "tags": [
+    "batman",
+    "muzyka"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

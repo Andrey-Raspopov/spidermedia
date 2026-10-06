@@ -4,6 +4,9 @@
   "url": "/comics/kunin-galdyrdyms/",
   "original_url": "http://spidermedia.ru/comics/kunin-galdyrdyms",
   "archived": "https://web.archive.org/web/20250921085354/http://spidermedia.ru/comics/kunin-galdyrdyms",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

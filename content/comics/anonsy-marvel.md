@@ -4,6 +4,15 @@
   "url": "/comics/anonsy-marvel/",
   "original_url": "http://spidermedia.ru/comics/anonsy-marvel",
   "archived": "https://web.archive.org/web/20260215082823/http://spidermedia.ru/comics/anonsy-marvel",
+  "tags": [
+    "doctor-doom",
+    "marvel",
+    "thanos",
+    "doktor-dum",
+    "captain-marvel",
+    "tanos",
+    "thor"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

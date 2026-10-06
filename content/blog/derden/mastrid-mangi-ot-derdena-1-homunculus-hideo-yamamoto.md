@@ -4,6 +4,12 @@
   "url": "/blog/derden/mastrid-mangi-ot-derdena-1-homunculus-hideo-yamamoto/",
   "original_url": "http://spidermedia.ru/blog/derden/mastrid-mangi-ot-derdena-1-homunculus-hideo-yamamoto",
   "archived": "https://web.archive.org/web/20260121001126/http://spidermedia.ru/blog/derden/mastrid-mangi-ot-derdena-1-homunculus-hideo-yamamoto",
+  "tags": [
+    "hideo-yamamoto",
+    "manga",
+    "gomunkul",
+    "homunculus"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

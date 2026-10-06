@@ -4,6 +4,12 @@
   "url": "/news/recenziya-na-film-tor-2-carstvo-tmy/",
   "original_url": "http://spidermedia.ru/news/recenziya-na-film-tor-2-carstvo-tmy",
   "archived": "https://web.archive.org/web/20260312021025/http://spidermedia.ru/news/recenziya-na-film-tor-2-carstvo-tmy",
+  "tags": [
+    "thor",
+    "recenziya",
+    "marvel",
+    "loki"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

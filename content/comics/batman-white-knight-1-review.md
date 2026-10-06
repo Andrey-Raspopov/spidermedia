@@ -4,6 +4,11 @@
   "url": "/comics/batman-white-knight-1-review/",
   "original_url": "https://spidermedia.ru/comics/batman-white-knight-1-review",
   "archived": "https://web.archive.org/web/20260313104533/https://spidermedia.ru/comics/batman-white-knight-1-review",
+  "tags": [
+    "dc-comics",
+    "batman",
+    "shon-merfi"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

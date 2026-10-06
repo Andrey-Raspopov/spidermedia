@@ -4,6 +4,12 @@
   "url": "/blog/happycake-oven/prevyu-dlya-autsayderov/",
   "original_url": "http://spidermedia.ru/blog/happycake-oven/prevyu-dlya-autsayderov",
   "archived": "https://web.archive.org/web/20111025074239/http://spidermedia.ru/blog/happycake-oven/prevyu-dlya-autsayderov",
+  "tags": [
+    "dc-comics",
+    "outsiders",
+    "komiksy",
+    "preview-s"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

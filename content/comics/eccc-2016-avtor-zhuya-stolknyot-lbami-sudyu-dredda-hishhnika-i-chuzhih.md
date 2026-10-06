@@ -4,6 +4,13 @@
   "url": "/comics/eccc-2016-avtor-zhuya-stolknyot-lbami-sudyu-dredda-hishhnika-i-chuzhih/",
   "original_url": "https://spidermedia.ru/comics/eccc-2016-avtor-zhuya-stolknyot-lbami-sudyu-dredda-hishhnika-i-chuzhih",
   "archived": "https://web.archive.org/web/20260116211558/https://spidermedia.ru/comics/eccc-2016-avtor-zhuya-stolknyot-lbami-sudyu-dredda-hishhnika-i-chuzhih",
+  "tags": [
+    "2000-ad",
+    "dark-horse",
+    "idw-publishing",
+    "judge-dredd",
+    "emerald-city-comicon"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,13 @@
   "url": "/news/retro/",
   "original_url": "http://spidermedia.ru/news/retro",
   "archived": "https://web.archive.org/web/20120607180608/http://spidermedia.ru/news/retro",
+  "tags": [
+    "art-0",
+    "komiksy",
+    "marvel",
+    "oblozhki",
+    "ugadayka"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

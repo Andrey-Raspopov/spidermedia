@@ -4,6 +4,12 @@
   "url": "/blog/plane-v/perfect-storm/",
   "original_url": "https://spidermedia.ru/blog/plane-v/perfect-storm",
   "archived": "https://web.archive.org/web/20250119230602/https://spidermedia.ru/blog/plane-v/perfect-storm",
+  "tags": [
+    "kejt-biton",
+    "veb-komiksy",
+    "aquaman",
+    "outrageous"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

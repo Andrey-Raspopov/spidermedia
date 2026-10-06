@@ -4,6 +4,9 @@
   "url": "/news/mozhno-li-verit-mayklu-beyu/",
   "original_url": "http://spidermedia.ru/news/mozhno-li-verit-mayklu-beyu",
   "archived": "https://web.archive.org/web/20190416194435/http://spidermedia.ru:80/news/mozhno-li-verit-mayklu-beyu",
+  "tags": [
+    "transformers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

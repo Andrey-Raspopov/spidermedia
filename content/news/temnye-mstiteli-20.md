@@ -4,6 +4,14 @@
   "url": "/news/temnye-mstiteli-20/",
   "original_url": "http://spidermedia.ru/news/temnye-mstiteli-20",
   "archived": "https://web.archive.org/web/20250715232604/http://spidermedia.ru/news/temnye-mstiteli-20",
+  "tags": [
+    "art-0",
+    "norman-ozborn",
+    "majk-deodato",
+    "brian-michael-bendis",
+    "marvel",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

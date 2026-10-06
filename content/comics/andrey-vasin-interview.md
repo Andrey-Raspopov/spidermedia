@@ -4,6 +4,11 @@
   "url": "/comics/andrey-vasin-interview/",
   "original_url": "https://spidermedia.ru/comics/andrey-vasin-interview",
   "archived": "https://web.archive.org/web/20260106214732/https://spidermedia.ru/comics/andrey-vasin-interview",
+  "tags": [
+    "bubble",
+    "andrej-vasin",
+    "intervyu"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

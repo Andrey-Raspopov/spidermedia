@@ -4,6 +4,12 @@
   "url": "/news/nycc10-dc-nation-dc-universe/",
   "original_url": "https://spidermedia.ru/news/nycc10-dc-nation-dc-universe",
   "archived": "https://web.archive.org/web/20260115064710/https://spidermedia.ru/news/nycc10-dc-nation-dc-universe",
+  "tags": [
+    "komik-kon-v-nyu-yorke",
+    "nycc-2010",
+    "dc-comics",
+    "new-york-comic-con"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/news/samoe-silnoe-serdce/",
   "original_url": "http://spidermedia.ru/news/samoe-silnoe-serdce",
   "archived": "https://web.archive.org/web/20240624000508/http://spidermedia.ru/news/samoe-silnoe-serdce",
+  "tags": [
+    "hulk",
+    "marvel",
+    "greg-pak",
+    "pol-pellete"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

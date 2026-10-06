@@ -4,6 +4,11 @@
   "url": "/blog/dzhedis/retrospektiva-vertigo-mercy-1993/",
   "original_url": "https://spidermedia.ru/blog/dzhedis/retrospektiva-vertigo-mercy-1993",
   "archived": "https://web.archive.org/web/20260206230200/https://spidermedia.ru/blog/dzhedis/retrospektiva-vertigo-mercy-1993",
+  "tags": [
+    "j.m.-dematteis",
+    "paul-johnson",
+    "vertigo"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

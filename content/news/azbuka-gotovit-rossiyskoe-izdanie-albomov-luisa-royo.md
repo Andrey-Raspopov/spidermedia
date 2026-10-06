@@ -4,6 +4,10 @@
   "url": "/news/azbuka-gotovit-rossiyskoe-izdanie-albomov-luisa-royo/",
   "original_url": "https://spidermedia.ru/news/azbuka-gotovit-rossiyskoe-izdanie-albomov-luisa-royo",
   "archived": "https://web.archive.org/web/20251108025134/https://spidermedia.ru/news/azbuka-gotovit-rossiyskoe-izdanie-albomov-luisa-royo",
+  "tags": [
+    "luis-rojo",
+    "azbuka"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

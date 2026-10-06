@@ -4,6 +4,12 @@
   "url": "/blog/oleg89/i-bake-pies-and-wake-dead-i-live-very-sheltered-life/",
   "original_url": "http://spidermedia.ru/blog/oleg89/i-bake-pies-and-wake-dead-i-live-very-sheltered-life",
   "archived": "https://web.archive.org/web/20240623232834/http://spidermedia.ru/blog/oleg89/i-bake-pies-and-wake-dead-i-live-very-sheltered-life",
+  "tags": [
+    "serialy",
+    "brajan-fuller",
+    "pushing-daisies",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,22 @@
   "url": "/news/brand-new-day-dekabr-2009/",
   "original_url": "http://spidermedia.ru/news/brand-new-day-dekabr-2009",
   "archived": "https://web.archive.org/web/20260215082445/http://spidermedia.ru/news/brand-new-day-dekabr-2009",
+  "tags": [
+    "haver-pulido",
+    "fred-van-lente",
+    "pol-azasita",
+    "paolo-rivera",
+    "nosorog",
+    "marko-dzhurdzhevich",
+    "mark-waid",
+    "elena-dzhurdzhevich",
+    "barri-kitson",
+    "rhino",
+    "marvel",
+    "electro",
+    "spider-man",
+    "elektro"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

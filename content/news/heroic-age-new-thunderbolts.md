@@ -4,6 +4,15 @@
   "url": "/news/heroic-age-new-thunderbolts/",
   "original_url": "https://spidermedia.ru/news/heroic-age-new-thunderbolts",
   "archived": "https://web.archive.org/web/20260305224731/https://spidermedia.ru/news/heroic-age-new-thunderbolts",
+  "tags": [
+    "era-geroev",
+    "kev-uoker",
+    "dzheff-parker",
+    "thunderbolts",
+    "marvel",
+    "luke-cage",
+    "heroic-age"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/games/recenziya-fat-princess-adventures/",
   "original_url": "https://spidermedia.ru/games/recenziya-fat-princess-adventures",
   "archived": "https://web.archive.org/web/20260305235056/https://spidermedia.ru/games/recenziya-fat-princess-adventures",
+  "tags": [
+    "recenziya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

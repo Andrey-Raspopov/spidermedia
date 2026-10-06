@@ -4,6 +4,22 @@
   "url": "/blog/oleg89/senior-trekkers-log-stardate-626222/",
   "original_url": "http://spidermedia.ru/blog/oleg89/senior-trekkers-log-stardate-626222",
   "archived": "https://web.archive.org/web/20251207012205/http://spidermedia.ru/blog/oleg89/senior-trekkers-log-stardate-626222",
+  "tags": [
+    "marvel",
+    "recenziya",
+    "star-trek",
+    "den-ebnett",
+    "endi-lenning",
+    "senior-trekkers-log",
+    "dzheffri-moj",
+    "kris-kuper",
+    "majkl-martin",
+    "endi-mangels",
+    "lori-satton",
+    "patrik-zircher",
+    "terri-pallot",
+    "jen-edzhinton"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

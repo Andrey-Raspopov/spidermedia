@@ -4,6 +4,9 @@
   "url": "/comics/welcome-back-istoriya-boevoj-reinkarnacii-ot-boom-studios/",
   "original_url": "https://spidermedia.ru/comics/welcome-back-istoriya-boevoj-reinkarnacii-ot-boom-studios",
   "archived": "https://web.archive.org/web/20260313121047/https://spidermedia.ru/comics/welcome-back-istoriya-boevoj-reinkarnacii-ot-boom-studios",
+  "tags": [
+    "boom-studios"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

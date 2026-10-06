@@ -4,6 +4,12 @@
   "url": "/comics/imho-inogda-luchshe-molchat/",
   "original_url": "http://spidermedia.ru/comics/imho-inogda-luchshe-molchat",
   "archived": "https://web.archive.org/web/20260115052201/http://spidermedia.ru/comics/imho-inogda-luchshe-molchat",
+  "tags": [
+    "dc-comics",
+    "betgyorl",
+    "imho",
+    "joker"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

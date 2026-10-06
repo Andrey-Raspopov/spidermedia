@@ -4,6 +4,13 @@
   "url": "/news/polyot-prodolzhaetsya/",
   "original_url": "http://spidermedia.ru/news/polyot-prodolzhaetsya",
   "archived": "https://web.archive.org/web/20251216122817/http://spidermedia.ru/news/polyot-prodolzhaetsya",
+  "tags": [
+    "idw-publishing",
+    "chris-samnee",
+    "mark-waid",
+    "raketchik",
+    "rocketeer"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

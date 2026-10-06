@@ -4,6 +4,11 @@
   "url": "/comics/sdcc-superman-and-teen-titans/",
   "original_url": "http://spidermedia.ru/comics/sdcc-superman-and-teen-titans",
   "archived": "https://web.archive.org/web/20250709071828/http://spidermedia.ru/comics/sdcc-superman-and-teen-titans",
+  "tags": [
+    "dc-comics",
+    "san-diego-comic-con-international",
+    "superman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

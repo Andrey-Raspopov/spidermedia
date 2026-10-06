@@ -4,6 +4,11 @@
   "url": "/blog/gess/kurtzman-orci-welcome-fail/",
   "original_url": "http://spidermedia.ru/blog/gess/kurtzman-orci-welcome-fail",
   "archived": "https://web.archive.org/web/20120512081232/http://spidermedia.ru/blog/gess/kurtzman-orci-welcome-fail",
+  "tags": [
+    "daredevil",
+    "locke-key",
+    "kino"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

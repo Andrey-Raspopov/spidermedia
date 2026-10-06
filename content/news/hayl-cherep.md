@@ -4,6 +4,13 @@
   "url": "/news/hayl-cherep/",
   "original_url": "http://spidermedia.ru/news/hayl-cherep",
   "archived": "https://web.archive.org/web/20240623234136/http://spidermedia.ru/news/hayl-cherep",
+  "tags": [
+    "mirko-kolak",
+    "krasnyj-cherep",
+    "greg-pak",
+    "red-skull",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

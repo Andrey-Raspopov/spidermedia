@@ -4,6 +4,10 @@
   "url": "/blog/redson/have-no-doubts-mark-millar-stan-lee-21st-century/",
   "original_url": "http://spidermedia.ru/blog/redson/have-no-doubts-mark-millar-stan-lee-21st-century",
   "archived": "https://web.archive.org/web/20111126080944/http://spidermedia.ru/blog/redson/have-no-doubts-mark-millar-stan-lee-21st-century",
+  "tags": [
+    "komiksy",
+    "mark-millar"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

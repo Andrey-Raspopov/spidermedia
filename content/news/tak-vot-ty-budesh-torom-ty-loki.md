@@ -4,6 +4,12 @@
   "url": "/news/tak-vot-ty-budesh-torom-ty-loki/",
   "original_url": "http://spidermedia.ru/news/tak-vot-ty-budesh-torom-ty-loki",
   "archived": "https://web.archive.org/web/20150423181733/http://spidermedia.ru/news/tak-vot-ty-budesh-torom-ty-loki",
+  "tags": [
+    "marvel-comics",
+    "kino",
+    "thor",
+    "loki"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

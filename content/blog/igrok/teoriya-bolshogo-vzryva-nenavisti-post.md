@@ -4,6 +4,10 @@
   "url": "/blog/igrok/teoriya-bolshogo-vzryva-nenavisti-post/",
   "original_url": "https://spidermedia.ru/blog/igrok/teoriya-bolshogo-vzryva-nenavisti-post",
   "archived": "https://web.archive.org/web/20260125130435/https://spidermedia.ru/blog/igrok/teoriya-bolshogo-vzryva-nenavisti-post",
+  "tags": [
+    "serialy",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

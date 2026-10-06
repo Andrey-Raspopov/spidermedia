@@ -4,6 +4,14 @@
   "url": "/blog/qvall/hall-just-us-006-daytripper/",
   "original_url": "https://spidermedia.ru/blog/qvall/hall-just-us-006-daytripper",
   "archived": "https://web.archive.org/web/20251111071503/https://spidermedia.ru/blog/qvall/hall-just-us-006-daytripper",
+  "tags": [
+    "hall-of-just-us",
+    "vertigo",
+    "daytripper",
+    "gabriel-ba",
+    "fabio-mun",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

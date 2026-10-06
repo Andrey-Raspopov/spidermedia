@@ -4,6 +4,10 @@
   "url": "/comics/reborn-millara-i-kapullo-startuet-v-oktyabre/",
   "original_url": "https://spidermedia.ru/comics/reborn-millara-i-kapullo-startuet-v-oktyabre",
   "archived": "https://web.archive.org/web/20250214235223/https://spidermedia.ru/comics/reborn-millara-i-kapullo-startuet-v-oktyabre",
+  "tags": [
+    "greg-capullo",
+    "mark-millar"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

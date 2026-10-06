@@ -4,6 +4,10 @@
   "url": "/comics/pravyj-pereplet-09-zajmemsya-sportom/",
   "original_url": "http://spidermedia.ru/comics/pravyj-pereplet-09-zajmemsya-sportom",
   "archived": "https://web.archive.org/web/20250116122730/http://spidermedia.ru/comics/pravyj-pereplet-09-zajmemsya-sportom",
+  "tags": [
+    "manga",
+    "right-binding"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

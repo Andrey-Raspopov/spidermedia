@@ -4,6 +4,11 @@
   "url": "/news/otto-zhil-otto-zhiv-otto-budet-zhit/",
   "original_url": "https://spidermedia.ru/news/otto-zhil-otto-zhiv-otto-budet-zhit",
   "archived": "https://web.archive.org/web/20251014042242/https://spidermedia.ru/news/otto-zhil-otto-zhiv-otto-budet-zhit",
+  "tags": [
+    "spider-man",
+    "marvel",
+    "den-slott"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

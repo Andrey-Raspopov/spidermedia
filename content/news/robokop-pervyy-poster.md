@@ -4,6 +4,10 @@
   "url": "/news/robokop-pervyy-poster/",
   "original_url": "https://spidermedia.ru/news/robokop-pervyy-poster",
   "archived": "https://web.archive.org/web/20240911132352/https://spidermedia.ru/news/robokop-pervyy-poster",
+  "tags": [
+    "robocop",
+    "postery"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

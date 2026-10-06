@@ -4,6 +4,9 @@
   "url": "/blog/plane-v/panty-and-stocking-garterbelt/",
   "original_url": "http://spidermedia.ru/blog/plane-v/panty-and-stocking-garterbelt",
   "archived": "https://web.archive.org/web/20260209123312/http://spidermedia.ru/blog/plane-v/panty-and-stocking-garterbelt",
+  "tags": [
+    "anime"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

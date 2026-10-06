@@ -4,6 +4,12 @@
   "url": "/news/image-expo-2015-ostrov-komiksov/",
   "original_url": "http://spidermedia.ru/news/image-expo-2015-ostrov-komiksov",
   "archived": "https://web.archive.org/web/20260305232257/http://spidermedia.ru/news/image-expo-2015-ostrov-komiksov",
+  "tags": [
+    "image-comics",
+    "brendon-grem",
+    "emma-rios",
+    "image-expo"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

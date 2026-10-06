@@ -4,6 +4,11 @@
   "url": "/comics/the-magic-order-1-review/",
   "original_url": "http://spidermedia.ru/comics/the-magic-order-1-review",
   "archived": "https://web.archive.org/web/20260307054524/http://spidermedia.ru/comics/the-magic-order-1-review",
+  "tags": [
+    "netflix",
+    "mark-millar",
+    "olive-kojpel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

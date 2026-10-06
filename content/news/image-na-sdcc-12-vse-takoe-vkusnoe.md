@@ -4,6 +4,13 @@
   "url": "/news/image-na-sdcc-12-vse-takoe-vkusnoe/",
   "original_url": "http://spidermedia.ru/news/image-na-sdcc-12-vse-takoe-vkusnoe",
   "archived": "https://web.archive.org/web/20260211101753/http://spidermedia.ru/news/image-na-sdcc-12-vse-takoe-vkusnoe",
+  "tags": [
+    "emma-rios",
+    "matt-fraction",
+    "kelli-syu-dekonnik",
+    "greg-rakka",
+    "image-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

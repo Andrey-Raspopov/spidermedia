@@ -4,6 +4,20 @@
   "url": "/news/blizhayshee-budushchee-marvel/",
   "original_url": "http://spidermedia.ru/news/blizhayshee-budushchee-marvel",
   "archived": "https://web.archive.org/web/20120607191621/http://spidermedia.ru/news/blizhayshee-budushchee-marvel",
+  "tags": [
+    "brand-new-day",
+    "captain-america",
+    "kid-colt",
+    "spider-man",
+    "art-0",
+    "kapitan-amerika",
+    "komiksy",
+    "malysh-kolt",
+    "marvel",
+    "oblozhki",
+    "preview-s",
+    "chelovek-pauk"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,13 @@
   "url": "/news/there-another-parker/",
   "original_url": "https://spidermedia.ru/news/there-another-parker",
   "archived": "https://web.archive.org/web/20251006014859/https://spidermedia.ru/news/there-another-parker",
+  "tags": [
+    "mark-waid",
+    "dzhejms-robinson",
+    "gabriele-dell-otto",
+    "marvel",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

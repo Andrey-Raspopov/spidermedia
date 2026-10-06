@@ -4,6 +4,10 @@
   "url": "/movies/sluh-vozmozhnoe-nazvanie-novogo-filma-pro-cheloveka-pauka/",
   "original_url": "http://spidermedia.ru/movies/sluh-vozmozhnoe-nazvanie-novogo-filma-pro-cheloveka-pauka",
   "archived": "https://web.archive.org/web/20260215091145/http://spidermedia.ru/movies/sluh-vozmozhnoe-nazvanie-novogo-filma-pro-cheloveka-pauka",
+  "tags": [
+    "marvel",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

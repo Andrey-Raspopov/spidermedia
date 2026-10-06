@@ -4,6 +4,12 @@
   "url": "/blog/sterpazook/sudya-dredd-na-komik-kone/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/sudya-dredd-na-komik-kone",
   "archived": "https://web.archive.org/web/20260313104035/http://spidermedia.ru/blog/sterpazook/sudya-dredd-na-komik-kone",
+  "tags": [
+    "judge-dredd",
+    "kosplej",
+    "komik-kon-v-londone",
+    "kapow-comic-con"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

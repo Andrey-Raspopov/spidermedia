@@ -4,6 +4,9 @@
   "url": "/games/gamermedia-e3-ubisoft/",
   "original_url": "http://spidermedia.ru/games/gamermedia-e3-ubisoft",
   "archived": "https://web.archive.org/web/20250618112341/http://spidermedia.ru/games/gamermedia-e3-ubisoft",
+  "tags": [
+    "gamermedia"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,19 @@
   "url": "/news/nycc09-image-comics-extreeeme/",
   "original_url": "https://spidermedia.ru/news/nycc09-image-comics-extreeeme",
   "archived": "https://web.archive.org/web/20250808211827/https://spidermedia.ru/news/nycc09-image-comics-extreeeme",
+  "tags": [
+    "todd-makfarlejn",
+    "robert-kirkman",
+    "rob-lajfeld",
+    "ryan-ottley",
+    "greg-capullo",
+    "youngblood",
+    "nycc-2009",
+    "invincible",
+    "image-comics",
+    "haunt",
+    "dawn"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

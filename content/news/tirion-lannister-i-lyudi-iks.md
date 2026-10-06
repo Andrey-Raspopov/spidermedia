@@ -4,6 +4,11 @@
   "url": "/news/tirion-lannister-i-lyudi-iks/",
   "original_url": "http://spidermedia.ru/news/tirion-lannister-i-lyudi-iks",
   "archived": "https://web.archive.org/web/20250923040243/http://spidermedia.ru/news/tirion-lannister-i-lyudi-iks",
+  "tags": [
+    "days-of-future-past",
+    "marvel",
+    "x-men"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

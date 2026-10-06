@@ -4,6 +4,16 @@
   "url": "/news/prevyu-i-oblozhki-black-widow-deadly-origin/",
   "original_url": "http://spidermedia.ru/news/prevyu-i-oblozhki-black-widow-deadly-origin",
   "archived": "https://web.archive.org/web/20120607184904/http://spidermedia.ru/news/prevyu-i-oblozhki-black-widow-deadly-origin",
+  "tags": [
+    "black-widow",
+    "adi-granov",
+    "dzhon-pol-leon",
+    "komiksy",
+    "marvel",
+    "oblozhki",
+    "pol-kornell",
+    "chyornaya-vdova"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/comics/sdcc-2017-star-wars-thrawn/",
   "original_url": "https://spidermedia.ru/comics/sdcc-2017-star-wars-thrawn",
   "archived": "https://web.archive.org/web/20260117232425/https://spidermedia.ru/comics/sdcc-2017-star-wars-thrawn",
+  "tags": [
+    "marvel",
+    "star-wars",
+    "san-diego-comic-con-international"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

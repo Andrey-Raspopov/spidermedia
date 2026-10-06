@@ -4,6 +4,19 @@
   "url": "/news/ultimate-comics-v-aprele/",
   "original_url": "http://spidermedia.ru/news/ultimate-comics-v-aprele",
   "archived": "https://web.archive.org/web/20251211030940/http://spidermedia.ru/news/ultimate-comics-v-aprele",
+  "tags": [
+    "spider-woman",
+    "rafael-sandoval",
+    "marvel",
+    "mark-millar",
+    "marc-silvestri",
+    "lejnil-frensis-yu",
+    "kitty-pryde",
+    "jeph-loeb",
+    "david-lafuente",
+    "brian-michael-bendis",
+    "punisher"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

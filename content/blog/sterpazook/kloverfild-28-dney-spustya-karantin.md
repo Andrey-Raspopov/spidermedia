@@ -4,6 +4,16 @@
   "url": "/blog/sterpazook/kloverfild-28-dney-spustya-karantin/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/kloverfild-28-dney-spustya-karantin",
   "archived": "https://web.archive.org/web/20120607054539/http://spidermedia.ru/blog/sterpazook/kloverfild-28-dney-spustya-karantin",
+  "tags": [
+    "cloverfield",
+    "quarantine",
+    "zombie",
+    "zombi",
+    "karantin",
+    "kino",
+    "monstro",
+    "recenziya"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

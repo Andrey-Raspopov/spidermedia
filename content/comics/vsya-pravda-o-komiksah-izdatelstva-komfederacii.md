@@ -4,6 +4,11 @@
   "url": "/comics/vsya-pravda-o-komiksah-izdatelstva-komfederacii/",
   "original_url": "http://spidermedia.ru/comics/vsya-pravda-o-komiksah-izdatelstva-komfederacii",
   "archived": "https://web.archive.org/web/20231202152726/http://spidermedia.ru/comics/vsya-pravda-o-komiksah-izdatelstva-komfederacii",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "mnenie",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/news/treyler-dc-comics-new-52/",
   "original_url": "http://spidermedia.ru/news/treyler-dc-comics-new-52",
   "archived": "https://web.archive.org/web/20251115035625/http://spidermedia.ru/news/treyler-dc-comics-new-52",
+  "tags": [
+    "trejlery",
+    "motion-comics",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

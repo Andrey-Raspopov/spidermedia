@@ -4,6 +4,9 @@
   "url": "/comics/marvel-october-solicitations/",
   "original_url": "https://spidermedia.ru/comics/marvel-october-solicitations",
   "archived": "https://web.archive.org/web/20260313113120/https://spidermedia.ru/comics/marvel-october-solicitations",
+  "tags": [
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

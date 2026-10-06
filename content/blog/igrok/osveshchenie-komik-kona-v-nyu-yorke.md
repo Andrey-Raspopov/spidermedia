@@ -4,6 +4,11 @@
   "url": "/blog/igrok/osveshchenie-komik-kona-v-nyu-yorke/",
   "original_url": "http://spidermedia.ru/blog/igrok/osveshchenie-komik-kona-v-nyu-yorke",
   "archived": "https://web.archive.org/web/20241211230155/http://spidermedia.ru/blog/igrok/osveshchenie-komik-kona-v-nyu-yorke",
+  "tags": [
+    "figurki",
+    "statui",
+    "nycc-2009"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/blog/sonyn/diagram-delinquents/",
   "original_url": "http://spidermedia.ru/blog/sonyn/diagram-delinquents",
   "archived": "https://web.archive.org/web/20120607154934/http://spidermedia.ru/blog/sonyn/diagram-delinquents",
+  "tags": [
+    "diagram-delinquents",
+    "fredric-wertham"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

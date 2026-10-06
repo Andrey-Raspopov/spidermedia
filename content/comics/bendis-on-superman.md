@@ -4,6 +4,11 @@
   "url": "/comics/bendis-on-superman/",
   "original_url": "https://spidermedia.ru/comics/bendis-on-superman",
   "archived": "https://web.archive.org/web/20251207011358/https://spidermedia.ru/comics/bendis-on-superman",
+  "tags": [
+    "dc-comics",
+    "brian-michael-bendis",
+    "superman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,15 @@
   "url": "/comics/cinema-purgatorio-horror-comic-anthology-by-alan-moore-kevin-oneal/",
   "original_url": "https://spidermedia.ru/comics/cinema-purgatorio-horror-comic-anthology-by-alan-moore-kevin-oneal",
   "archived": "https://web.archive.org/web/20260206225023/https://spidermedia.ru/comics/cinema-purgatorio-horror-comic-anthology-by-alan-moore-kevin-oneal",
+  "tags": [
+    "avatar-press",
+    "alan-mur",
+    "garth-ennis",
+    "kevin-onil",
+    "kiron-gillen",
+    "kristos-gejdzh",
+    "maks-bruks"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

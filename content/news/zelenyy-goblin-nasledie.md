@@ -4,6 +4,16 @@
   "url": "/news/zelenyy-goblin-nasledie/",
   "original_url": "https://spidermedia.ru/news/zelenyy-goblin-nasledie",
   "archived": "https://web.archive.org/web/20260314075925/https://spidermedia.ru/news/zelenyy-goblin-nasledie",
+  "tags": [
+    "norman-ozborn",
+    "majk-mejhyu",
+    "karl-kessel",
+    "kalman-andrasovski",
+    "art-0",
+    "norman-osborn",
+    "marvel",
+    "zelyonyj-goblin"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

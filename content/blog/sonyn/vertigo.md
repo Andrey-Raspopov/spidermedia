@@ -4,6 +4,10 @@
   "url": "/blog/sonyn/vertigo/",
   "original_url": "http://spidermedia.ru/blog/sonyn/vertigo",
   "archived": "https://web.archive.org/web/20110309154901/http://spidermedia.ru:80/blog/sonyn/vertigo",
+  "tags": [
+    "vertigo",
+    "komiksy"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

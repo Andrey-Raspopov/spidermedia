@@ -4,6 +4,11 @@
   "url": "/news/elden-henson-sygraet-foggi-nelsona-v-sorvigolove/",
   "original_url": "http://spidermedia.ru/news/elden-henson-sygraet-foggi-nelsona-v-sorvigolove",
   "archived": "https://web.archive.org/web/20251111082829/http://spidermedia.ru/news/elden-henson-sygraet-foggi-nelsona-v-sorvigolove",
+  "tags": [
+    "kasting",
+    "marvel",
+    "daredevil"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

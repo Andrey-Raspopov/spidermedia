@@ -4,6 +4,17 @@
   "url": "/news/diamond-summit-09-siege/",
   "original_url": "https://spidermedia.ru/news/diamond-summit-09-siege",
   "archived": "https://web.archive.org/web/20251115185559/https://spidermedia.ru/news/diamond-summit-09-siege",
+  "tags": [
+    "avengers",
+    "temnoe-pravlenie",
+    "brian-michael-bendis",
+    "olive-kojpel",
+    "dzhim-cheng",
+    "marvel",
+    "preview",
+    "art-0",
+    "sobytiya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

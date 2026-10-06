@@ -4,6 +4,10 @@
   "url": "/comics/sdcc-2015-archi-vstretit-pank-gruppu-ramones/",
   "original_url": "http://spidermedia.ru/comics/sdcc-2015-archi-vstretit-pank-gruppu-ramones",
   "archived": "https://web.archive.org/web/20260214133011/http://spidermedia.ru/comics/sdcc-2015-archi-vstretit-pank-gruppu-ramones",
+  "tags": [
+    "archie-comics",
+    "san-diego-comic-con-international"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

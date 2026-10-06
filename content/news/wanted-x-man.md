@@ -4,6 +4,14 @@
   "url": "/news/wanted-x-man/",
   "original_url": "https://spidermedia.ru/news/wanted-x-man",
   "archived": "https://web.archive.org/web/20260120235528/https://spidermedia.ru/news/wanted-x-man",
+  "tags": [
+    "pol-kornell",
+    "leonard-kirk",
+    "x-men",
+    "paul-cornell",
+    "marvel",
+    "komik-kon-v-chikago"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/blog/aleksey-volkov/crisis-infinite-comics/",
   "original_url": "http://spidermedia.ru/blog/aleksey-volkov/crisis-infinite-comics",
   "archived": "https://web.archive.org/web/20210303092907/http://spidermedia.ru/blog/aleksey-volkov/crisis-infinite-comics",
+  "tags": [
+    "istoriya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,16 @@
   "url": "/news/zlo-doma-m/",
   "original_url": "http://spidermedia.ru/news/zlo-doma-m",
   "archived": "https://web.archive.org/web/20251108193715/http://spidermedia.ru/news/zlo-doma-m",
+  "tags": [
+    "x-men",
+    "marvel",
+    "kristos-gejdzh",
+    "art-0",
+    "kapyushon",
+    "house-of-m",
+    "manuel-garsiya",
+    "magneto"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

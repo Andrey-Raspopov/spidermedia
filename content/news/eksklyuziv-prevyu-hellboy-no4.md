@@ -4,6 +4,14 @@
   "url": "/news/eksklyuziv-prevyu-hellboy-no4/",
   "original_url": "http://spidermedia.ru/news/eksklyuziv-prevyu-hellboy-no4",
   "archived": "https://web.archive.org/web/20250814212531/http://spidermedia.ru/news/eksklyuziv-prevyu-hellboy-no4",
+  "tags": [
+    "hellboj",
+    "majk-minola",
+    "izdatelstvo-42",
+    "zarubezhnye-komiksy-na-russkom",
+    "hellboy",
+    "dark-horse"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

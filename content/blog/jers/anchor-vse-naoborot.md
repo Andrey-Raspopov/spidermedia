@@ -4,6 +4,11 @@
   "url": "/blog/jers/anchor-vse-naoborot/",
   "original_url": "https://spidermedia.ru/blog/jers/anchor-vse-naoborot",
   "archived": "https://web.archive.org/web/20231201203304/https://spidermedia.ru/blog/jers/anchor-vse-naoborot",
+  "tags": [
+    "the-anchor",
+    "boom-studios",
+    "fil-hester"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

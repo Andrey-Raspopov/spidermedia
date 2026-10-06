@@ -4,6 +4,10 @@
   "url": "/tv/preacher-s01e02-uzri/",
   "original_url": "http://spidermedia.ru/tv/preacher-s01e02-uzri",
   "archived": "https://web.archive.org/web/20251106231314/http://spidermedia.ru/tv/preacher-s01e02-uzri",
+  "tags": [
+    "vertigo",
+    "preacher"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

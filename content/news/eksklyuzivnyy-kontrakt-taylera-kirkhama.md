@@ -4,6 +4,13 @@
   "url": "/news/eksklyuzivnyy-kontrakt-taylera-kirkhama/",
   "original_url": "http://spidermedia.ru/news/eksklyuzivnyy-kontrakt-taylera-kirkhama",
   "archived": "https://web.archive.org/web/20120607123300/http://spidermedia.ru/news/eksklyuzivnyy-kontrakt-taylera-kirkhama",
+  "tags": [
+    "dc-comics",
+    "green-lantern-corps",
+    "tyler-kirkham",
+    "korpus-zelenyh-fonarey",
+    "tayler-kirkham"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

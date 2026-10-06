@@ -4,11 +4,14 @@
   "url": "/blog/redson/all-new-mzhdz-darker-black-0/",
   "original_url": "http://spidermedia.ru/blog/redson/all-new-mzhdz-darker-black-0",
   "archived": "https://web.archive.org/web/20241106082843/http://spidermedia.ru/blog/redson/all-new-mzhdz-darker-black-0",
+  "tags": [
+    "mzhdz"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](https://web.archive.org/web/20241106082843im_/http://i.imgur.com/0zaHqKf.jpg "Автор логотипа - Ярослав Астапеев")](https://web.archive.org/web/20260206215846/http://spidermedia.ru/tags/mzhdz) Когда за окном сплошная белизна, мы предлагаем вам сбежать в царство тьмы. Мы определим, тянет ли классик комиксов Дж. М. Дематтейс магическую сторону DC в серии **Justice League Dark**, удачен ли **кроссовер между «Черепашками-ниндзя» и «Охотниками за привидениями»**, хорош ли издатель Image Эрик Стивенсон как сценарист на примере **They’re Not Like Us**, можно ли читать комикс, в котором Тора заменили на женщину и назвали ее **Тором**, и есть ли Vertigo смысл заниматься антологиями вроде **CMYK**.
+[![](https://web.archive.org/web/20241106082843im_/http://i.imgur.com/0zaHqKf.jpg "Автор логотипа - Ярослав Астапеев")](../../../tags/mzhdz/) Когда за окном сплошная белизна, мы предлагаем вам сбежать в царство тьмы. Мы определим, тянет ли классик комиксов Дж. М. Дематтейс магическую сторону DC в серии **Justice League Dark**, удачен ли **кроссовер между «Черепашками-ниндзя» и «Охотниками за привидениями»**, хорош ли издатель Image Эрик Стивенсон как сценарист на примере **They’re Not Like Us**, можно ли читать комикс, в котором Тора заменили на женщину и назвали ее **Тором**, и есть ли Vertigo смысл заниматься антологиями вроде **CMYK**.
 
 ![](https://web.archive.org/web/20241106082843im_/http://i.imgur.com/ANzNUp9.jpg)[**Расшифровка системы оценок**](../mzhdz-odin-vy-kak-hotite-ya-kak-hochu/) [**Архив рецензий**](../mzhdz-arhiv/)
 

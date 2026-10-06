@@ -4,6 +4,13 @@
   "url": "/news/novaya-vstrecha-staryh-vragov/",
   "original_url": "http://spidermedia.ru/news/novaya-vstrecha-staryh-vragov",
   "archived": "https://web.archive.org/web/20190724073659/http://spidermedia.ru:80/news/novaya-vstrecha-staryh-vragov",
+  "tags": [
+    "figurki",
+    "wolverine",
+    "sabretooth",
+    "logan",
+    "sablezubyj"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/blog/gess/batman-my-pocket/",
   "original_url": "http://spidermedia.ru/blog/gess/batman-my-pocket",
   "archived": "https://web.archive.org/web/20260211181827/http://spidermedia.ru/blog/gess/batman-my-pocket",
+  "tags": [
+    "batman",
+    "the-flash",
+    "igry"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

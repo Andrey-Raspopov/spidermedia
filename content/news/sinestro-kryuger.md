@@ -4,6 +4,12 @@
   "url": "/news/sinestro-kryuger/",
   "original_url": "https://spidermedia.ru/news/sinestro-kryuger",
   "archived": "https://web.archive.org/web/20260215082807/https://spidermedia.ru/news/sinestro-kryuger",
+  "tags": [
+    "green-lantern",
+    "sinestro",
+    "jackie-earle-haley",
+    "dzheki-erl-hejli"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

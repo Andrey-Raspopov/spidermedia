@@ -4,6 +4,15 @@
   "url": "/news/samyy-luchshiy-chelovek-pauk/",
   "original_url": "http://spidermedia.ru/news/samyy-luchshiy-chelovek-pauk",
   "archived": "https://web.archive.org/web/20120607155737/http://spidermedia.ru/news/samyy-luchshiy-chelovek-pauk",
+  "tags": [
+    "sam-raimi",
+    "spider-man",
+    "spider-man-4",
+    "kino",
+    "sem-reymi",
+    "chelovek-pauk",
+    "chelovek-pauk-4"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

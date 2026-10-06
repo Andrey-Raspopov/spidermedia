@@ -4,6 +4,11 @@
   "url": "/news/venom-speshit-na-pomoshch/",
   "original_url": "https://spidermedia.ru/news/venom-speshit-na-pomoshch",
   "archived": "https://web.archive.org/web/20241106084909/https://spidermedia.ru/news/venom-speshit-na-pomoshch",
+  "tags": [
+    "venom",
+    "marvel",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

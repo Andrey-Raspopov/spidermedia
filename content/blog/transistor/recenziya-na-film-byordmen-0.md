@@ -4,6 +4,10 @@
   "url": "/blog/transistor/recenziya-na-film-byordmen-0/",
   "original_url": "http://spidermedia.ru/blog/transistor/recenziya-na-film-byordmen-0",
   "archived": "https://web.archive.org/web/20220815202733/http://spidermedia.ru/blog/transistor/recenziya-na-film-byordmen-0",
+  "tags": [
+    "byordmen",
+    "recenziya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

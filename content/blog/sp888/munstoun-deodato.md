@@ -4,6 +4,15 @@
   "url": "/blog/sp888/munstoun-deodato/",
   "original_url": "http://spidermedia.ru/blog/sp888/munstoun-deodato",
   "archived": "https://web.archive.org/web/20111019070648/http://spidermedia.ru/blog/sp888/munstoun-deodato",
+  "tags": [
+    "dark-reign",
+    "marvel",
+    "moonstone",
+    "ms-marvel",
+    "brayan-rid",
+    "komiksy",
+    "mayk-deodato"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

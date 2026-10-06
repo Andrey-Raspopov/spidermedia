@@ -4,6 +4,11 @@
   "url": "/blog/redson/doctor-who-last-christmas-mnenie-redakcii-0/",
   "original_url": "http://spidermedia.ru/blog/redson/doctor-who-last-christmas-mnenie-redakcii-0",
   "archived": "https://web.archive.org/web/20260314082644/http://spidermedia.ru/blog/redson/doctor-who-last-christmas-mnenie-redakcii-0",
+  "tags": [
+    "serialy",
+    "obzor",
+    "doctor-who"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

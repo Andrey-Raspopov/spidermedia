@@ -4,6 +4,11 @@
   "url": "/blog/igrok/i-need-hiro/",
   "original_url": "https://spidermedia.ru/blog/igrok/i-need-hiro",
   "archived": "https://web.archive.org/web/20240911131815/https://spidermedia.ru/blog/igrok/i-need-hiro",
+  "tags": [
+    "mnenie",
+    "heroes",
+    "serialy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

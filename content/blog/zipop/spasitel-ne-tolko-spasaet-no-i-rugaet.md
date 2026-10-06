@@ -4,6 +4,10 @@
   "url": "/blog/zipop/spasitel-ne-tolko-spasaet-no-i-rugaet/",
   "original_url": "http://spidermedia.ru/blog/zipop/spasitel-ne-tolko-spasaet-no-i-rugaet",
   "archived": "https://web.archive.org/web/20210125232233/http://spidermedia.ru/blog/zipop/spasitel-ne-tolko-spasaet-no-i-rugaet",
+  "tags": [
+    "kristian-bejl",
+    "terminator"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

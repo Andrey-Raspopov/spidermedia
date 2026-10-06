@@ -4,6 +4,15 @@
   "url": "/news/sdcc10-iron-thunder/",
   "original_url": "http://spidermedia.ru/news/sdcc10-iron-thunder",
   "archived": "https://web.archive.org/web/20260215071117/http://spidermedia.ru/news/sdcc10-iron-thunder",
+  "tags": [
+    "endi-lenning",
+    "ron-garni",
+    "san-diego-comic-con-international",
+    "den-ebnett",
+    "thor",
+    "marvel",
+    "iron-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

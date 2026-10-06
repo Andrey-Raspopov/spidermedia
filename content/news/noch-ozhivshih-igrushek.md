@@ -4,6 +4,9 @@
   "url": "/news/noch-ozhivshih-igrushek/",
   "original_url": "http://spidermedia.ru/news/noch-ozhivshih-igrushek",
   "archived": "https://web.archive.org/web/20260125131850/http://spidermedia.ru/news/noch-ozhivshih-igrushek",
+  "tags": [
+    "image-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/blog/gess/sale-feb-4/",
   "original_url": "http://spidermedia.ru/blog/gess/sale-feb-4",
   "archived": "https://web.archive.org/web/20150428110252/http://spidermedia.ru/blog/gess/sale-feb-4",
+  "tags": [
+    "mnenie",
+    "on-sale-this-week"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

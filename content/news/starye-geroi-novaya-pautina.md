@@ -4,6 +4,14 @@
   "url": "/news/starye-geroi-novaya-pautina/",
   "original_url": "http://spidermedia.ru/news/starye-geroi-novaya-pautina",
   "archived": "https://web.archive.org/web/20260123082518/http://spidermedia.ru/news/starye-geroi-novaya-pautina",
+  "tags": [
+    "tom-defalko",
+    "ron-frenc",
+    "paskal-ferri",
+    "dzhej-em-demattej",
+    "barri-kitson",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/games/daredevil-in-games/",
   "original_url": "https://spidermedia.ru/games/daredevil-in-games",
   "archived": "https://web.archive.org/web/20260206225207/https://spidermedia.ru/games/daredevil-in-games",
+  "tags": [
+    "marvel",
+    "daredevil"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

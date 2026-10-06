@@ -4,6 +4,9 @@
   "url": "/comics/all-things-valiant-67-week-45/",
   "original_url": "https://spidermedia.ru/comics/all-things-valiant-67-week-45",
   "archived": "https://web.archive.org/web/20251216185816/https://spidermedia.ru/comics/all-things-valiant-67-week-45",
+  "tags": [
+    "valiant-entertainment"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

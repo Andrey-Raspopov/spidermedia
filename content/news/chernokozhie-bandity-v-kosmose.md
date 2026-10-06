@@ -4,6 +4,12 @@
   "url": "/news/chernokozhie-bandity-v-kosmose/",
   "original_url": "https://spidermedia.ru/news/chernokozhie-bandity-v-kosmose",
   "archived": "https://web.archive.org/web/20241205043938/https://spidermedia.ru/news/chernokozhie-bandity-v-kosmose",
+  "tags": [
+    "semyuel-l.-dzhekson",
+    "dejv-dzhonson",
+    "dzheremi-rok",
+    "boom-studios"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

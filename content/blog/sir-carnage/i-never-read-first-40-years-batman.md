@@ -4,6 +4,10 @@
   "url": "/blog/sir-carnage/i-never-read-first-40-years-batman/",
   "original_url": "http://spidermedia.ru/blog/sir-carnage/i-never-read-first-40-years-batman",
   "archived": "https://web.archive.org/web/20250524063829/http://spidermedia.ru/blog/sir-carnage/i-never-read-first-40-years-batman",
+  "tags": [
+    "yumor",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

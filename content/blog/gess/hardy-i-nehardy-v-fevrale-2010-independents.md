@@ -4,6 +4,14 @@
   "url": "/blog/gess/hardy-i-nehardy-v-fevrale-2010-independents/",
   "original_url": "http://spidermedia.ru/blog/gess/hardy-i-nehardy-v-fevrale-2010-independents",
   "archived": "https://web.archive.org/web/20260306000400/http://spidermedia.ru/blog/gess/hardy-i-nehardy-v-fevrale-2010-independents",
+  "tags": [
+    "handnh",
+    "image-comics",
+    "dynamite-entertainment",
+    "dark-horse",
+    "boom-studios",
+    "avatar-press"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

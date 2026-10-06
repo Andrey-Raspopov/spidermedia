@@ -4,6 +4,9 @@
   "url": "/comics/all-things-valiant-07-week-30/",
   "original_url": "https://spidermedia.ru/comics/all-things-valiant-07-week-30",
   "archived": "https://web.archive.org/web/20260125061200/https://spidermedia.ru/comics/all-things-valiant-07-week-30",
+  "tags": [
+    "valiant-entertainment"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

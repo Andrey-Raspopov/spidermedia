@@ -4,6 +4,15 @@
   "url": "/news/dan-slotts-fourth-world-omnibus/",
   "original_url": "http://spidermedia.ru/news/dan-slotts-fourth-world-omnibus",
   "archived": "https://web.archive.org/web/20251205111045/http://spidermedia.ru/news/dan-slotts-fourth-world-omnibus",
+  "tags": [
+    "krejven",
+    "igry",
+    "den-slott",
+    "spider-man-shattered-dimensions",
+    "noirverse",
+    "kraven",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

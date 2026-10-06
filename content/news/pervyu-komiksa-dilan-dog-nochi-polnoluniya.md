@@ -4,6 +4,11 @@
   "url": "/news/pervyu-komiksa-dilan-dog-nochi-polnoluniya/",
   "original_url": "http://spidermedia.ru/news/pervyu-komiksa-dilan-dog-nochi-polnoluniya",
   "archived": "https://web.archive.org/web/20200127103915/http://spidermedia.ru:80/news/pervyu-komiksa-dilan-dog-nochi-polnoluniya",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "smart-owl",
+    "dylan-dog"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

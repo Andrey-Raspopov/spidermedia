@@ -4,6 +4,14 @@
   "url": "/blog/igrok/pochemu-supermen-ubiyca/",
   "original_url": "http://spidermedia.ru/blog/igrok/pochemu-supermen-ubiyca",
   "archived": "https://web.archive.org/web/20260309185008/http://spidermedia.ru/blog/igrok/pochemu-supermen-ubiyca",
+  "tags": [
+    "superman",
+    "mnenie",
+    "devid-gojer",
+    "dc-comics",
+    "chelovek-iz-stali",
+    "man-of-steel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

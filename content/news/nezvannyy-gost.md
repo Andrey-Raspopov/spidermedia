@@ -4,6 +4,16 @@
   "url": "/news/nezvannyy-gost/",
   "original_url": "http://spidermedia.ru/news/nezvannyy-gost",
   "archived": "https://web.archive.org/web/20251108034858/http://spidermedia.ru/news/nezvannyy-gost",
+  "tags": [
+    "temnejshaya-noch",
+    "superman",
+    "preview",
+    "dzhejms-robinson",
+    "james-robinson",
+    "eddy-barrows",
+    "dc-comics",
+    "blackest-night"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

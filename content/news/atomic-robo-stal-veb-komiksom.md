@@ -4,6 +4,9 @@
   "url": "/news/atomic-robo-stal-veb-komiksom/",
   "original_url": "http://spidermedia.ru/news/atomic-robo-stal-veb-komiksom",
   "archived": "https://web.archive.org/web/20191103144642/http://spidermedia.ru:80/news/atomic-robo-stal-veb-komiksom",
+  "tags": [
+    "atomic-robo"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

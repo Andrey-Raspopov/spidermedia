@@ -4,6 +4,13 @@
   "url": "/blog/red-hulk/recenziya-xiii-conspiracy/",
   "original_url": "http://spidermedia.ru/blog/red-hulk/recenziya-xiii-conspiracy",
   "archived": "https://web.archive.org/web/20191216074128/http://spidermedia.ru/blog/red-hulk/recenziya-xiii-conspiracy",
+  "tags": [
+    "mnenie",
+    "recenziya",
+    "serialy",
+    "xiii",
+    "trinadcat"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

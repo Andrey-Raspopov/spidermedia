@@ -4,6 +4,11 @@
   "url": "/comics/roskomnadzor-vesna-idet/",
   "original_url": "http://spidermedia.ru/comics/roskomnadzor-vesna-idet",
   "archived": "https://web.archive.org/web/20260125120929/http://spidermedia.ru/comics/roskomnadzor-vesna-idet",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "roskomnadzor",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

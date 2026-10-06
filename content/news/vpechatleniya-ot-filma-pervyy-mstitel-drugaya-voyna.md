@@ -4,6 +4,11 @@
   "url": "/news/vpechatleniya-ot-filma-pervyy-mstitel-drugaya-voyna/",
   "original_url": "http://spidermedia.ru/news/vpechatleniya-ot-filma-pervyy-mstitel-drugaya-voyna",
   "archived": "https://web.archive.org/web/20200222012738/http://spidermedia.ru:80/news/vpechatleniya-ot-filma-pervyy-mstitel-drugaya-voyna",
+  "tags": [
+    "marvel",
+    "captain-america",
+    "winter-soldier"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

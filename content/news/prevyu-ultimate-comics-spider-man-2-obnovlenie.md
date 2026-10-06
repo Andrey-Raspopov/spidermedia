@@ -4,6 +4,13 @@
   "url": "/news/prevyu-ultimate-comics-spider-man-2-obnovlenie/",
   "original_url": "http://spidermedia.ru/news/prevyu-ultimate-comics-spider-man-2-obnovlenie",
   "archived": "https://web.archive.org/web/20260313111046/http://spidermedia.ru/news/prevyu-ultimate-comics-spider-man-2-obnovlenie",
+  "tags": [
+    "devid-lafuente",
+    "brian-michael-bendis",
+    "ultimate",
+    "iron-man",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

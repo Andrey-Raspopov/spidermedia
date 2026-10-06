@@ -4,6 +4,14 @@
   "url": "/news/chyornye-sily-dobra/",
   "original_url": "https://spidermedia.ru/news/chyornye-sily-dobra",
   "archived": "https://web.archive.org/web/20251117003706/https://spidermedia.ru/news/chyornye-sily-dobra",
+  "tags": [
+    "hefte-palo",
+    "rik-remender",
+    "doctor-strange",
+    "doktor-dum",
+    "doktor-vudu",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

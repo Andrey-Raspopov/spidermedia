@@ -4,6 +4,10 @@
   "url": "/movies/rebekka-fergyuson-kapitan-marvel/",
   "original_url": "http://spidermedia.ru/movies/rebekka-fergyuson-kapitan-marvel",
   "archived": "https://web.archive.org/web/20260214134905/http://spidermedia.ru/movies/rebekka-fergyuson-kapitan-marvel",
+  "tags": [
+    "marvel",
+    "captain-marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

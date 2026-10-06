@@ -4,6 +4,15 @@
   "url": "/news/priyut-dlya-beglecov-i-odinochek/",
   "original_url": "https://spidermedia.ru/news/priyut-dlya-beglecov-i-odinochek",
   "archived": "https://web.archive.org/web/20251006143339/https://spidermedia.ru/news/priyut-dlya-beglecov-i-odinochek",
+  "tags": [
+    "kristos-gejdzh",
+    "san-diego-comic-con-international",
+    "akademiya-mstitelej",
+    "marvel",
+    "avengers",
+    "tom-rejni",
+    "shon-chen"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/movies/shang-chi-opinion/",
   "original_url": "https://spidermedia.ru/movies/shang-chi-opinion",
   "archived": "https://web.archive.org/web/20260211090455/https://spidermedia.ru/movies/shang-chi-opinion",
+  "tags": [
+    "marvel",
+    "shang-chi"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

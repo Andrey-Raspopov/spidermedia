@@ -4,6 +4,12 @@
   "url": "/blog/sterpazook/luchshaya-kinoshnaya-draka-vseh-vremen/",
   "original_url": "https://spidermedia.ru/blog/sterpazook/luchshaya-kinoshnaya-draka-vseh-vremen",
   "archived": "https://web.archive.org/web/20250715014542/https://spidermedia.ru/blog/sterpazook/luchshaya-kinoshnaya-draka-vseh-vremen",
+  "tags": [
+    "yumor",
+    "undefeatable",
+    "trash",
+    "tresh"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

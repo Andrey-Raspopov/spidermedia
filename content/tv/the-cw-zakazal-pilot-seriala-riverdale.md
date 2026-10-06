@@ -4,6 +4,9 @@
   "url": "/tv/the-cw-zakazal-pilot-seriala-riverdale/",
   "original_url": "http://spidermedia.ru/tv/the-cw-zakazal-pilot-seriala-riverdale",
   "archived": "https://web.archive.org/web/20260215083344/http://spidermedia.ru/tv/the-cw-zakazal-pilot-seriala-riverdale",
+  "tags": [
+    "archie-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/news/hodyachie-mertvecy-novoe-promokadry/",
   "original_url": "http://spidermedia.ru/news/hodyachie-mertvecy-novoe-promokadry",
   "archived": "https://web.archive.org/web/20260125131908/http://spidermedia.ru/news/hodyachie-mertvecy-novoe-promokadry",
+  "tags": [
+    "hodyachie-mertvecy",
+    "serialy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/news/stala-izvestna-data-starta-seriala-agent-karter/",
   "original_url": "https://spidermedia.ru/news/stala-izvestna-data-starta-seriala-agent-karter",
   "archived": "https://web.archive.org/web/20250617225744/https://spidermedia.ru/news/stala-izvestna-data-starta-seriala-agent-karter",
+  "tags": [
+    "agent-karter",
+    "serialy",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

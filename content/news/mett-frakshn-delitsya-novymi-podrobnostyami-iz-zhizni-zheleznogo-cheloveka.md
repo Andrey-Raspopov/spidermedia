@@ -4,6 +4,17 @@
   "url": "/news/mett-frakshn-delitsya-novymi-podrobnostyami-iz-zhizni-zheleznogo-cheloveka/",
   "original_url": "http://spidermedia.ru/news/mett-frakshn-delitsya-novymi-podrobnostyami-iz-zhizni-zheleznogo-cheloveka",
   "archived": "https://web.archive.org/web/20111018035037/http://spidermedia.ru/news/mett-frakshn-delitsya-novymi-podrobnostyami-iz-zhizni-zheleznogo-cheloveka",
+  "tags": [
+    "iron-maiden",
+    "iron-man",
+    "marvel",
+    "namor",
+    "zheleznaya-deva",
+    "zheleznyy-chelovek",
+    "komiksy",
+    "mett-frakshen",
+    "neymor"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

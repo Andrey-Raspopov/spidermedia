@@ -4,6 +4,9 @@
   "url": "/comics/all-things-valiant-39-week-12/",
   "original_url": "http://spidermedia.ru/comics/all-things-valiant-39-week-12",
   "archived": "https://web.archive.org/web/20260125063615/http://spidermedia.ru/comics/all-things-valiant-39-week-12",
+  "tags": [
+    "valiant-entertainment"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

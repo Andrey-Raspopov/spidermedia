@@ -4,6 +4,14 @@
   "url": "/news/modok-rvetsya-k-vlasti/",
   "original_url": "https://spidermedia.ru/news/modok-rvetsya-k-vlasti",
   "archived": "https://web.archive.org/web/20241202083522/https://spidermedia.ru/news/modok-rvetsya-k-vlasti",
+  "tags": [
+    "norman-ozborn",
+    "art-0",
+    "fred-van-lente",
+    "m.o.d.o.k",
+    "rajan-danlevi",
+    "temnoe-pravlenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,15 @@
   "url": "/blog/sp888/layla-miller-back/",
   "original_url": "http://spidermedia.ru/blog/sp888/layla-miller-back",
   "archived": "https://web.archive.org/web/20111018101910/http://spidermedia.ru/blog/sp888/layla-miller-back",
+  "tags": [
+    "layla-miller",
+    "marvel",
+    "x-factor",
+    "x-universe",
+    "komiksy",
+    "layla-govorit",
+    "piter-devid"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

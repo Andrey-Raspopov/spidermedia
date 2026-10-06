@@ -4,6 +4,12 @@
   "url": "/news/nostalgiya-po-betgerl/",
   "original_url": "http://spidermedia.ru/news/nostalgiya-po-betgerl",
   "archived": "https://web.archive.org/web/20251207012107/http://spidermedia.ru/news/nostalgiya-po-betgerl",
+  "tags": [
+    "dc-comics",
+    "betgyorl",
+    "fil-noto",
+    "phil-noto"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

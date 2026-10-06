@@ -4,6 +4,11 @@
   "url": "/news/kruchu-verchu/",
   "original_url": "http://spidermedia.ru/news/kruchu-verchu",
   "archived": "https://web.archive.org/web/20120608172423/http://spidermedia.ru/news/kruchu-verchu",
+  "tags": [
+    "dc-comics",
+    "dzhey-maykl-strazhinskiy",
+    "komiksy"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,13 @@
   "url": "/news/obrezanie-dedpula/",
   "original_url": "http://spidermedia.ru/news/obrezanie-dedpula",
   "archived": "https://web.archive.org/web/20140824050257/http://spidermedia.ru:80/news/obrezanie-dedpula",
+  "tags": [
+    "deadpool",
+    "deadpool-corps",
+    "dedpul",
+    "comics",
+    "marvel"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

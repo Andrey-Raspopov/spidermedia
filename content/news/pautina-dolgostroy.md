@@ -4,6 +4,13 @@
   "url": "/news/pautina-dolgostroy/",
   "original_url": "https://spidermedia.ru/news/pautina-dolgostroy",
   "archived": "https://web.archive.org/web/20251207005055/https://spidermedia.ru/news/pautina-dolgostroy",
+  "tags": [
+    "skott-kempbell",
+    "dzhef-loeb",
+    "art-0",
+    "spider-man",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

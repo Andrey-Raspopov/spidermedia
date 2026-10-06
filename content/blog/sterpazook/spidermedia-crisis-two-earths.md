@@ -4,6 +4,10 @@
   "url": "/blog/sterpazook/spidermedia-crisis-two-earths/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/spidermedia-crisis-two-earths",
   "archived": "https://web.archive.org/web/20190514012624/http://spidermedia.ru:80/blog/sterpazook/spidermedia-crisis-two-earths",
+  "tags": [
+    "spidermedia",
+    "justice-league"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

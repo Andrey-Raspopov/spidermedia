@@ -4,6 +4,21 @@
   "url": "/news/inkognito-na-ekrane-i-drugie-kinonovosti/",
   "original_url": "http://spidermedia.ru/news/inkognito-na-ekrane-i-drugie-kinonovosti",
   "archived": "https://web.archive.org/web/20260215081733/http://spidermedia.ru/news/inkognito-na-ekrane-i-drugie-kinonovosti",
+  "tags": [
+    "ed-brubaker",
+    "shon-fillips",
+    "superman",
+    "mettyu-von",
+    "lyudi-iks-pervyj-klass",
+    "x-men",
+    "x-men-first-class",
+    "marvel",
+    "incognito",
+    "icon-comics",
+    "dc-comics",
+    "captain-america",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

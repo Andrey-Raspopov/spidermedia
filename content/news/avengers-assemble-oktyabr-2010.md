@@ -4,6 +4,13 @@
   "url": "/news/avengers-assemble-oktyabr-2010/",
   "original_url": "https://spidermedia.ru/news/avengers-assemble-oktyabr-2010",
   "archived": "https://web.archive.org/web/20251208063302/https://spidermedia.ru/news/avengers-assemble-oktyabr-2010",
+  "tags": [
+    "era-geroev",
+    "preview",
+    "marvel",
+    "heroic-age",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,13 @@
   "url": "/news/gorod-geroev-big-hero-6-novye-postery-i-sinopsis/",
   "original_url": "http://spidermedia.ru/news/gorod-geroev-big-hero-6-novye-postery-i-sinopsis",
   "archived": "https://web.archive.org/web/20260115060329/http://spidermedia.ru/news/gorod-geroev-big-hero-6-novye-postery-i-sinopsis",
+  "tags": [
+    "postery",
+    "marvel",
+    "disnej",
+    "animaciya",
+    "big-hero-6"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,13 @@
   "url": "/news/nycc-mrachnye-tizery-marvel/",
   "original_url": "http://spidermedia.ru/news/nycc-mrachnye-tizery-marvel",
   "archived": "https://web.archive.org/web/20260125123430/http://spidermedia.ru/news/nycc-mrachnye-tizery-marvel",
+  "tags": [
+    "fantastic-four",
+    "rtut",
+    "marvel",
+    "komik-kon-v-nyu-jorke",
+    "scarlet-witch"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

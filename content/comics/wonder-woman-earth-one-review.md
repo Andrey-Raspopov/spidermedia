@@ -4,6 +4,14 @@
   "url": "/comics/wonder-woman-earth-one-review/",
   "original_url": "http://spidermedia.ru/comics/wonder-woman-earth-one-review",
   "archived": "https://web.archive.org/web/20260308232048/http://spidermedia.ru/comics/wonder-woman-earth-one-review",
+  "tags": [
+    "dc-comics",
+    "grant-morrison",
+    "mnenie",
+    "recenziya",
+    "wonder-woman",
+    "yanik-pekket"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

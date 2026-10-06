@@ -4,6 +4,23 @@
   "url": "/news/mstiteli-ne-protiv-lyudey-iks/",
   "original_url": "http://spidermedia.ru/news/mstiteli-ne-protiv-lyudey-iks",
   "archived": "https://web.archive.org/web/20260115044825/http://spidermedia.ru/news/mstiteli-ne-protiv-lyudey-iks",
+  "tags": [
+    "avengers",
+    "x-men",
+    "kiron-gillen",
+    "dzhef-loeb",
+    "den-slott",
+    "ron-garni",
+    "dejl-kejon",
+    "tom-rejni",
+    "mark-bruks",
+    "stiv-kurt",
+    "dejl-iglshem",
+    "skotti-yang",
+    "gurihiru",
+    "san-diego-comic-con-international",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,13 @@
   "url": "/news/del-toro-temnit/",
   "original_url": "https://spidermedia.ru/news/del-toro-temnit",
   "archived": "https://web.archive.org/web/20260312020906/https://spidermedia.ru/news/del-toro-temnit",
+  "tags": [
+    "dzhon-konstantin",
+    "bolotnaya-tvar",
+    "justice-league-dark",
+    "deadman",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

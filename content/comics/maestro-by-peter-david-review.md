@@ -4,6 +4,11 @@
   "url": "/comics/maestro-by-peter-david-review/",
   "original_url": "https://spidermedia.ru/comics/maestro-by-peter-david-review",
   "archived": "https://web.archive.org/web/20251211032701/https://spidermedia.ru/comics/maestro-by-peter-david-review",
+  "tags": [
+    "marvel",
+    "piter-devid",
+    "hulk"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

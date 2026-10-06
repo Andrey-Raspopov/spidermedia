@@ -4,6 +4,10 @@
   "url": "/tv/sorvigolova-animirovannyj-poster-trejler-i-tv-spot/",
   "original_url": "https://spidermedia.ru/tv/sorvigolova-animirovannyj-poster-trejler-i-tv-spot",
   "archived": "https://web.archive.org/web/20240624134602/https://spidermedia.ru/tv/sorvigolova-animirovannyj-poster-trejler-i-tv-spot",
+  "tags": [
+    "marvel",
+    "daredevil"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

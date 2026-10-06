@@ -4,6 +4,14 @@
   "url": "/news/prevyu-ultimate-comics-captain-america-1/",
   "original_url": "http://spidermedia.ru/news/prevyu-ultimate-comics-captain-america-1",
   "archived": "https://web.archive.org/web/20260120160111/http://spidermedia.ru/news/prevyu-ultimate-comics-captain-america-1",
+  "tags": [
+    "ron-garni",
+    "preview",
+    "dzheyson-aaron",
+    "ultimate",
+    "marvel",
+    "captain-america"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

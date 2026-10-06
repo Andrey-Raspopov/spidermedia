@@ -4,6 +4,12 @@
   "url": "/news/surrogaty-treyler-hd/",
   "original_url": "https://spidermedia.ru/news/surrogaty-treyler-hd",
   "archived": "https://web.archive.org/web/20240528095845/https://spidermedia.ru/news/surrogaty-treyler-hd",
+  "tags": [
+    "trejlery",
+    "surrogaty",
+    "surrogates",
+    "top-shelf-productions"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

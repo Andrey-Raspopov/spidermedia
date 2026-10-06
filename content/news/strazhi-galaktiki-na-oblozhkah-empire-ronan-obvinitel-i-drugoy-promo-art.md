@@ -4,6 +4,10 @@
   "url": "/news/strazhi-galaktiki-na-oblozhkah-empire-ronan-obvinitel-i-drugoy-promo-art/",
   "original_url": "https://spidermedia.ru/news/strazhi-galaktiki-na-oblozhkah-empire-ronan-obvinitel-i-drugoy-promo-art",
   "archived": "https://web.archive.org/web/20251115185050/https://spidermedia.ru/news/strazhi-galaktiki-na-oblozhkah-empire-ronan-obvinitel-i-drugoy-promo-art",
+  "tags": [
+    "guardians-of-the-galaxy",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

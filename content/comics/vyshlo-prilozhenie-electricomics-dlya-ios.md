@@ -4,6 +4,10 @@
   "url": "/comics/vyshlo-prilozhenie-electricomics-dlya-ios/",
   "original_url": "https://spidermedia.ru/comics/vyshlo-prilozhenie-electricomics-dlya-ios",
   "archived": "https://web.archive.org/web/20250804012120/https://spidermedia.ru/comics/vyshlo-prilozhenie-electricomics-dlya-ios",
+  "tags": [
+    "alan-mur",
+    "cifrovye-komiksy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/news/chelovek-pauk-umer-da-zdravstvuet-chelovek-pauk/",
   "original_url": "http://spidermedia.ru/news/chelovek-pauk-umer-da-zdravstvuet-chelovek-pauk",
   "archived": "https://web.archive.org/web/20250715215647/http://spidermedia.ru/news/chelovek-pauk-umer-da-zdravstvuet-chelovek-pauk",
+  "tags": [
+    "marvel",
+    "spider-man",
+    "ultimate"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

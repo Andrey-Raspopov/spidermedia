@@ -4,6 +4,13 @@
   "url": "/blog/igrok/alternativnoe-mnenie-o-filme-tor-2-carstvo-tmy/",
   "original_url": "http://spidermedia.ru/blog/igrok/alternativnoe-mnenie-o-filme-tor-2-carstvo-tmy",
   "archived": "https://web.archive.org/web/20250807004303/http://spidermedia.ru/blog/igrok/alternativnoe-mnenie-o-filme-tor-2-carstvo-tmy",
+  "tags": [
+    "recenziya",
+    "thor",
+    "mnenie",
+    "marvel",
+    "loki"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

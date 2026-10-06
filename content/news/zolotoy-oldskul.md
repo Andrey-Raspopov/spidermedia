@@ -4,6 +4,14 @@
   "url": "/news/zolotoy-oldskul/",
   "original_url": "http://spidermedia.ru/news/zolotoy-oldskul",
   "archived": "https://web.archive.org/web/20170427033823/http://spidermedia.ru:80/news/zolotoy-oldskul",
+  "tags": [
+    "markos-martin",
+    "dzhejms-robinson",
+    "namor",
+    "marvel",
+    "captain-america",
+    "angel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

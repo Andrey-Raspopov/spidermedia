@@ -4,6 +4,12 @@
   "url": "/blog/plane-v/hall-just-us-003-pop-gun-war/",
   "original_url": "http://spidermedia.ru/blog/plane-v/hall-just-us-003-pop-gun-war",
   "archived": "https://web.archive.org/web/20210128042336/http://spidermedia.ru/blog/plane-v/hall-just-us-003-pop-gun-war",
+  "tags": [
+    "ferel-delrimpl",
+    "mnenie",
+    "hall-of-just-us",
+    "dark-horse"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

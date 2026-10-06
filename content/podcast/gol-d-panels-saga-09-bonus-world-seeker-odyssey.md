@@ -4,6 +4,10 @@
   "url": "/podcast/gol-d-panels-saga-09-bonus-world-seeker-odyssey/",
   "original_url": "http://spidermedia.ru/podcast/gol-d-panels-saga-09-bonus-world-seeker-odyssey",
   "archived": "https://web.archive.org/web/20251216184706/http://spidermedia.ru/podcast/gol-d-panels-saga-09-bonus-world-seeker-odyssey",
+  "tags": [
+    "gold-panels",
+    "on-panels"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

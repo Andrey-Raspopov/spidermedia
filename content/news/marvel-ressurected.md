@@ -4,6 +4,12 @@
   "url": "/news/marvel-ressurected/",
   "original_url": "http://spidermedia.ru/news/marvel-ressurected",
   "archived": "https://web.archive.org/web/20120607170902/http://spidermedia.ru/news/marvel-ressurected",
+  "tags": [
+    "man-thing",
+    "kevin-noulan",
+    "marvel",
+    "stiv-gerber"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

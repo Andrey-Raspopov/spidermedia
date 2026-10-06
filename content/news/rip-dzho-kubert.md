@@ -4,6 +4,9 @@
   "url": "/news/rip-dzho-kubert/",
   "original_url": "http://spidermedia.ru/news/rip-dzho-kubert",
   "archived": "https://web.archive.org/web/20121022093618/http://spidermedia.ru/news/rip-dzho-kubert",
+  "tags": [
+    "dzho-kubert"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

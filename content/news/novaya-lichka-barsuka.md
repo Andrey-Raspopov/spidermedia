@@ -4,6 +4,17 @@
   "url": "/news/novaya-lichka-barsuka/",
   "original_url": "http://spidermedia.ru/news/novaya-lichka-barsuka",
   "archived": "https://web.archive.org/web/20120607190453/http://spidermedia.ru/news/novaya-lichka-barsuka",
+  "tags": [
+    "maverick",
+    "wolverine",
+    "x-universe",
+    "agent-zero",
+    "komiksy",
+    "marvel",
+    "meverik",
+    "rosomaha",
+    "agent-zero-0"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

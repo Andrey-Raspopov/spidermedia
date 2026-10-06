@@ -4,6 +4,21 @@
   "url": "/news/sluhi-kolonka-9/",
   "original_url": "https://spidermedia.ru/news/sluhi-kolonka-9",
   "archived": "https://web.archive.org/web/20260306001617/https://spidermedia.ru/news/sluhi-kolonka-9",
+  "tags": [
+    "ugadajka",
+    "sluhi",
+    "beglecy",
+    "x-men",
+    "x-factor",
+    "thor",
+    "runaways",
+    "marvel",
+    "list",
+    "iron-man",
+    "captain-america",
+    "avengers",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

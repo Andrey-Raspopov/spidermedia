@@ -4,6 +4,11 @@
   "url": "/comics/apocalypse-wars-x-men-crossover-event-2016/",
   "original_url": "http://spidermedia.ru/comics/apocalypse-wars-x-men-crossover-event-2016",
   "archived": "https://web.archive.org/web/20251216125713/http://spidermedia.ru/comics/apocalypse-wars-x-men-crossover-event-2016",
+  "tags": [
+    "marvel",
+    "apokalipsis",
+    "x-men"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,14 @@
   "url": "/news/sekret-dark-horse-i-universal/",
   "original_url": "http://spidermedia.ru/news/sekret-dark-horse-i-universal",
   "archived": "https://web.archive.org/web/20111018235035/http://spidermedia.ru/news/sekret-dark-horse-i-universal",
+  "tags": [
+    "dark-horse",
+    "secret",
+    "universal",
+    "kino",
+    "komiksy",
+    "sekret"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

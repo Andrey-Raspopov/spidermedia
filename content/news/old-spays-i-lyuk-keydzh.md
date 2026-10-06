@@ -4,6 +4,10 @@
   "url": "/news/old-spays-i-lyuk-keydzh/",
   "original_url": "http://spidermedia.ru/news/old-spays-i-lyuk-keydzh",
   "archived": "https://web.archive.org/web/20200929194500/http://spidermedia.ru/news/old-spays-i-lyuk-keydzh",
+  "tags": [
+    "marvel",
+    "luke-cage"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

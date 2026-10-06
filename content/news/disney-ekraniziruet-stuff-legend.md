@@ -4,6 +4,10 @@
   "url": "/news/disney-ekraniziruet-stuff-legend/",
   "original_url": "http://spidermedia.ru/news/disney-ekraniziruet-stuff-legend",
   "archived": "https://web.archive.org/web/20200130123428/http://spidermedia.ru:80/news/disney-ekraniziruet-stuff-legend",
+  "tags": [
+    "th3rd-world",
+    "stuff-of-legend"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

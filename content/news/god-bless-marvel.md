@@ -4,6 +4,12 @@
   "url": "/news/god-bless-marvel/",
   "original_url": "http://spidermedia.ru/news/god-bless-marvel",
   "archived": "https://web.archive.org/web/20260215072852/http://spidermedia.ru/news/god-bless-marvel",
+  "tags": [
+    "ed-brubaker",
+    "marvel",
+    "steve-rogers",
+    "captain-america"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

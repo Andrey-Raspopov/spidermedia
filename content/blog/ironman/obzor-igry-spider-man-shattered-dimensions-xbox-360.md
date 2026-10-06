@@ -4,6 +4,15 @@
   "url": "/blog/ironman/obzor-igry-spider-man-shattered-dimensions-xbox-360/",
   "original_url": "https://spidermedia.ru/blog/ironman/obzor-igry-spider-man-shattered-dimensions-xbox-360",
   "archived": "https://web.archive.org/web/20230601183707/https://spidermedia.ru/blog/ironman/obzor-igry-spider-man-shattered-dimensions-xbox-360",
+  "tags": [
+    "sten-li",
+    "obzor",
+    "igry",
+    "den-slott",
+    "spider-man",
+    "noir",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

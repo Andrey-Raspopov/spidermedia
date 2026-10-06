@@ -4,6 +4,12 @@
   "url": "/news/rosomaha-dedpul-chto-dalshe/",
   "original_url": "https://spidermedia.ru/news/rosomaha-dedpul-chto-dalshe",
   "archived": "https://web.archive.org/web/20260314081825/https://spidermedia.ru/news/rosomaha-dedpul-chto-dalshe",
+  "tags": [
+    "x-men",
+    "wolverine",
+    "deadpool",
+    "magneto"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

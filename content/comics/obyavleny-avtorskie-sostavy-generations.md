@@ -4,6 +4,9 @@
   "url": "/comics/obyavleny-avtorskie-sostavy-generations/",
   "original_url": "https://spidermedia.ru/comics/obyavleny-avtorskie-sostavy-generations",
   "archived": "https://web.archive.org/web/20250808202103/https://spidermedia.ru/comics/obyavleny-avtorskie-sostavy-generations",
+  "tags": [
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

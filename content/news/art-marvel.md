@@ -4,6 +4,14 @@
   "url": "/news/art-marvel/",
   "original_url": "http://spidermedia.ru/news/art-marvel",
   "archived": "https://web.archive.org/web/20250620064340/http://spidermedia.ru/news/art-marvel",
+  "tags": [
+    "marvel",
+    "spider-woman",
+    "fantastic-four",
+    "art-0",
+    "young-avengers",
+    "zhenshhina-pauk"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

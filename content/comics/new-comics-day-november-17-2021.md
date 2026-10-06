@@ -4,6 +4,9 @@
   "url": "/comics/new-comics-day-november-17-2021/",
   "original_url": "https://spidermedia.ru/comics/new-comics-day-november-17-2021",
   "archived": "https://web.archive.org/web/20260306000603/https://spidermedia.ru/comics/new-comics-day-november-17-2021",
+  "tags": [
+    "den-novyh-komiksov"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,13 @@
   "url": "/news/agent-00venom/",
   "original_url": "https://spidermedia.ru/news/agent-00venom",
   "archived": "https://web.archive.org/web/20250807011840/https://spidermedia.ru/news/agent-00venom",
+  "tags": [
+    "toni-mur",
+    "rik-remender",
+    "venom",
+    "art-0",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

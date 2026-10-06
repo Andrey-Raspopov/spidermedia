@@ -4,6 +4,9 @@
   "url": "/comics/avatar-the-last-airbender-north-and-south/",
   "original_url": "http://spidermedia.ru/comics/avatar-the-last-airbender-north-and-south",
   "archived": "https://web.archive.org/web/20250617221247/http://spidermedia.ru/comics/avatar-the-last-airbender-north-and-south",
+  "tags": [
+    "dark-horse"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

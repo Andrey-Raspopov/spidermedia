@@ -4,6 +4,11 @@
   "url": "/comics/roskomnadzor-smile/",
   "original_url": "https://spidermedia.ru/comics/roskomnadzor-smile",
   "archived": "https://web.archive.org/web/20260120160027/https://spidermedia.ru/comics/roskomnadzor-smile",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "roskomnadzor",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

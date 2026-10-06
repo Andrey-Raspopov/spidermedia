@@ -4,6 +4,14 @@
   "url": "/news/prevyu-amazing-spider-man-short-halloween/",
   "original_url": "http://spidermedia.ru/news/prevyu-amazing-spider-man-short-halloween",
   "archived": "https://web.archive.org/web/20120608174136/http://spidermedia.ru/news/prevyu-amazing-spider-man-short-halloween",
+  "tags": [
+    "bill-hader",
+    "kevin-maguire",
+    "seth-meyers",
+    "spider-man",
+    "marvel",
+    "chelovek-pauk"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

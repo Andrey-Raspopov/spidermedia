@@ -4,6 +4,9 @@
   "url": "/comics/comic-con-russia-2015/",
   "original_url": "http://spidermedia.ru/comics/comic-con-russia-2015",
   "archived": "https://web.archive.org/web/20251111073913/http://spidermedia.ru/comics/comic-con-russia-2015",
+  "tags": [
+    "comic-con-russia"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

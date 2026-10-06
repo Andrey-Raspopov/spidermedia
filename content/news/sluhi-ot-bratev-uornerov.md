@@ -4,6 +4,12 @@
   "url": "/news/sluhi-ot-bratev-uornerov/",
   "original_url": "https://spidermedia.ru/news/sluhi-ot-bratev-uornerov",
   "archived": "https://web.archive.org/web/20260206224122/https://spidermedia.ru/news/sluhi-ot-bratev-uornerov",
+  "tags": [
+    "sluhi",
+    "green-lantern",
+    "dc-comics",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

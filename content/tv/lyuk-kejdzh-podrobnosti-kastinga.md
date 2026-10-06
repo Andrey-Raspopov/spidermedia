@@ -4,6 +4,11 @@
   "url": "/tv/lyuk-kejdzh-podrobnosti-kastinga/",
   "original_url": "https://spidermedia.ru/tv/lyuk-kejdzh-podrobnosti-kastinga",
   "archived": "https://web.archive.org/web/20251115031410/https://spidermedia.ru/tv/lyuk-kejdzh-podrobnosti-kastinga",
+  "tags": [
+    "marvel",
+    "luke-cage",
+    "kasting"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,15 @@
   "url": "/blog/redson/do-i-posle/",
   "original_url": "http://spidermedia.ru/blog/redson/do-i-posle",
   "archived": "https://web.archive.org/web/20251207093158/http://spidermedia.ru/blog/redson/do-i-posle",
+  "tags": [
+    "devid-aha",
+    "marvel",
+    "x-men",
+    "art-0",
+    "david-aja",
+    "frank-darmata",
+    "frenk-darmata"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

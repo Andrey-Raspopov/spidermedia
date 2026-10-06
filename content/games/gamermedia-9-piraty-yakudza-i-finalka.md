@@ -4,6 +4,9 @@
   "url": "/games/gamermedia-9-piraty-yakudza-i-finalka/",
   "original_url": "http://spidermedia.ru/games/gamermedia-9-piraty-yakudza-i-finalka",
   "archived": "https://web.archive.org/web/20240807181707/http://spidermedia.ru/games/gamermedia-9-piraty-yakudza-i-finalka",
+  "tags": [
+    "gamermedia"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

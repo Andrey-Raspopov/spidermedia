@@ -4,6 +4,12 @@
   "url": "/news/fantom-na-tv/",
   "original_url": "http://spidermedia.ru/news/fantom-na-tv",
   "archived": "https://web.archive.org/web/20120608141628/http://spidermedia.ru/news/fantom-na-tv",
+  "tags": [
+    "phantom",
+    "kino",
+    "tv-0",
+    "fantom"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

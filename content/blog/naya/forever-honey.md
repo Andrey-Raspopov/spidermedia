@@ -4,6 +4,12 @@
   "url": "/blog/naya/forever-honey/",
   "original_url": "http://spidermedia.ru/blog/naya/forever-honey",
   "archived": "https://web.archive.org/web/20120608234924/http://spidermedia.ru/blog/naya/forever-honey",
+  "tags": [
+    "manga",
+    "one-shot",
+    "shoujo",
+    "skachat"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

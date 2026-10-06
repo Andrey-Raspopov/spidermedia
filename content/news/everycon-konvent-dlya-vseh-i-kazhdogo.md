@@ -4,6 +4,10 @@
   "url": "/news/everycon-konvent-dlya-vseh-i-kazhdogo/",
   "original_url": "http://spidermedia.ru/news/everycon-konvent-dlya-vseh-i-kazhdogo",
   "archived": "https://web.archive.org/web/20131206192655/http://spidermedia.ru/news/everycon-konvent-dlya-vseh-i-kazhdogo",
+  "tags": [
+    "komiksy",
+    "konvencii"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

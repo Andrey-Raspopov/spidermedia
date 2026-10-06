@@ -4,6 +4,9 @@
   "url": "/comics/mzhdz-divine-intervention/",
   "original_url": "http://spidermedia.ru/comics/mzhdz-divine-intervention",
   "archived": "https://web.archive.org/web/20260117214724/http://spidermedia.ru/comics/mzhdz-divine-intervention",
+  "tags": [
+    "mzhdz"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

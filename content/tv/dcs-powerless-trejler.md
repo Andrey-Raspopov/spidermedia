@@ -4,6 +4,9 @@
   "url": "/tv/dcs-powerless-trejler/",
   "original_url": "https://spidermedia.ru/tv/dcs-powerless-trejler",
   "archived": "https://web.archive.org/web/20250429135256/https://spidermedia.ru/tv/dcs-powerless-trejler",
+  "tags": [
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

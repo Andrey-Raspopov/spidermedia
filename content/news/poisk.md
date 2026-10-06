@@ -4,6 +4,10 @@
   "url": "/news/poisk/",
   "original_url": "https://spidermedia.ru/news/poisk",
   "archived": "https://web.archive.org/web/20250807230808/https://spidermedia.ru/news/poisk",
+  "tags": [
+    "svetlejshij-den",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

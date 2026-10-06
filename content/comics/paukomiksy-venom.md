@@ -4,6 +4,11 @@
   "url": "/comics/paukomiksy-venom/",
   "original_url": "https://spidermedia.ru/comics/paukomiksy-venom",
   "archived": "https://web.archive.org/web/20251216175741/https://spidermedia.ru/comics/paukomiksy-venom",
+  "tags": [
+    "marvel",
+    "venom",
+    "spider-week"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

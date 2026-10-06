@@ -4,6 +4,10 @@
   "url": "/tv/legendy-zavtrashnego-dnya-houkmen-i-houkgerl-oficialnoe-foto/",
   "original_url": "https://spidermedia.ru/tv/legendy-zavtrashnego-dnya-houkmen-i-houkgerl-oficialnoe-foto",
   "archived": "https://web.archive.org/web/20251115182844/https://spidermedia.ru/tv/legendy-zavtrashnego-dnya-houkmen-i-houkgerl-oficialnoe-foto",
+  "tags": [
+    "dc-comics",
+    "hawkman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

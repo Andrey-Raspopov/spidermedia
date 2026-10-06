@@ -4,6 +4,9 @@
   "url": "/comics/new-comics-day-november-4-2020/",
   "original_url": "http://spidermedia.ru/comics/new-comics-day-november-4-2020",
   "archived": "https://web.archive.org/web/20260305231805/http://spidermedia.ru/comics/new-comics-day-november-4-2020",
+  "tags": [
+    "den-novyh-komiksov"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

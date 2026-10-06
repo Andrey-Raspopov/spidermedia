@@ -4,6 +4,10 @@
   "url": "/comics/prevyu-komiksa-the-dark-knight-iii-the-master-race-1/",
   "original_url": "http://spidermedia.ru/comics/prevyu-komiksa-the-dark-knight-iii-the-master-race-1",
   "archived": "https://web.archive.org/web/20251013191920/http://spidermedia.ru/comics/prevyu-komiksa-the-dark-knight-iii-the-master-race-1",
+  "tags": [
+    "dc-comics",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

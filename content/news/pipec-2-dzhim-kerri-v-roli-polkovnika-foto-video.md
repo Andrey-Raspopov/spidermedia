@@ -4,6 +4,11 @@
   "url": "/news/pipec-2-dzhim-kerri-v-roli-polkovnika-foto-video/",
   "original_url": "https://spidermedia.ru/news/pipec-2-dzhim-kerri-v-roli-polkovnika-foto-video",
   "archived": "https://web.archive.org/web/20250709065324/https://spidermedia.ru/news/pipec-2-dzhim-kerri-v-roli-polkovnika-foto-video",
+  "tags": [
+    "mark-millar",
+    "kick-ass",
+    "icon-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

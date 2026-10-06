@@ -4,6 +4,9 @@
   "url": "/comics/belarusian-comics-review/",
   "original_url": "http://spidermedia.ru/comics/belarusian-comics-review",
   "archived": "https://web.archive.org/web/20250807004819/http://spidermedia.ru/comics/belarusian-comics-review",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

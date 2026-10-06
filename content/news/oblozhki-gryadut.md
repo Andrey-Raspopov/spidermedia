@@ -4,6 +4,16 @@
   "url": "/news/oblozhki-gryadut/",
   "original_url": "https://spidermedia.ru/news/oblozhki-gryadut",
   "archived": "https://web.archive.org/web/20260208202827/https://spidermedia.ru/news/oblozhki-gryadut",
+  "tags": [
+    "dc-comics",
+    "batman",
+    "robin",
+    "frensis-manapul",
+    "wonder-woman",
+    "dzhej-dzhi-dzhons",
+    "francis-manapul",
+    "j.-g.-jones"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

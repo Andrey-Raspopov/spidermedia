@@ -4,6 +4,10 @@
   "url": "/blog/qvall/log-0005-damned/",
   "original_url": "http://spidermedia.ru/blog/qvall/log-0005-damned",
   "archived": "https://web.archive.org/web/20190915011412/http://spidermedia.ru:80/blog/qvall/log-0005-damned",
+  "tags": [
+    "mnenie",
+    "image-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

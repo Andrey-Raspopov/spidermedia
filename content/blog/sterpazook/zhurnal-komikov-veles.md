@@ -4,6 +4,9 @@
   "url": "/blog/sterpazook/zhurnal-komikov-veles/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/zhurnal-komikov-veles",
   "archived": "https://web.archive.org/web/20230323040845/http://spidermedia.ru/blog/sterpazook/zhurnal-komikov-veles",
+  "tags": [
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

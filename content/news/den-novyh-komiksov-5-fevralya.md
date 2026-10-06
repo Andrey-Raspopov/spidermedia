@@ -4,6 +4,9 @@
   "url": "/news/den-novyh-komiksov-5-fevralya/",
   "original_url": "https://spidermedia.ru/news/den-novyh-komiksov-5-fevralya",
   "archived": "https://web.archive.org/web/20250620081835/https://spidermedia.ru/news/den-novyh-komiksov-5-fevralya",
+  "tags": [
+    "den-novyh-komiksov"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

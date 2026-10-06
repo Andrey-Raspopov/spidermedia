@@ -4,6 +4,11 @@
   "url": "/news/v-preddverii-avengers-earths-mightiest-heroes/",
   "original_url": "http://spidermedia.ru/news/v-preddverii-avengers-earths-mightiest-heroes",
   "archived": "https://web.archive.org/web/20251117001329/http://spidermedia.ru/news/v-preddverii-avengers-earths-mightiest-heroes",
+  "tags": [
+    "animaciya",
+    "avengers",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

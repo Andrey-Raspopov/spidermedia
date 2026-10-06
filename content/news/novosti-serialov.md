@@ -4,6 +4,11 @@
   "url": "/news/novosti-serialov/",
   "original_url": "https://spidermedia.ru/news/novosti-serialov",
   "archived": "https://web.archive.org/web/20260214130745/https://spidermedia.ru/news/novosti-serialov",
+  "tags": [
+    "the-flash",
+    "gotem",
+    "green-arrow"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

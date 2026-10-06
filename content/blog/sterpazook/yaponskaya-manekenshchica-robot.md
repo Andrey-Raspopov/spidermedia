@@ -4,6 +4,17 @@
   "url": "/blog/sterpazook/yaponskaya-manekenshchica-robot/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/yaponskaya-manekenshchica-robot",
   "archived": "https://web.archive.org/web/20120607143847/http://spidermedia.ru/blog/sterpazook/yaponskaya-manekenshchica-robot",
+  "tags": [
+    "future",
+    "hrp-4c",
+    "humanoid",
+    "japanese",
+    "model",
+    "robot-girl",
+    "robots",
+    "science",
+    "roboty"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/comics/manga-kimi-no-iru-machi-vs-ge-good-ending/",
   "original_url": "https://spidermedia.ru/comics/manga-kimi-no-iru-machi-vs-ge-good-ending",
   "archived": "https://web.archive.org/web/20251207102124/https://spidermedia.ru/comics/manga-kimi-no-iru-machi-vs-ge-good-ending",
+  "tags": [
+    "manga"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

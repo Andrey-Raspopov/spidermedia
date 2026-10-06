@@ -4,6 +4,11 @@
   "url": "/news/benedikt-kamberbetch-doktor-strendzh/",
   "original_url": "http://spidermedia.ru/news/benedikt-kamberbetch-doktor-strendzh",
   "archived": "https://web.archive.org/web/20251206030127/http://spidermedia.ru/news/benedikt-kamberbetch-doktor-strendzh",
+  "tags": [
+    "marvel",
+    "kasting",
+    "doctor-strange"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

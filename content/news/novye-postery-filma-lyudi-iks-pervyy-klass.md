@@ -4,6 +4,12 @@
   "url": "/news/novye-postery-filma-lyudi-iks-pervyy-klass/",
   "original_url": "http://spidermedia.ru/news/novye-postery-filma-lyudi-iks-pervyy-klass",
   "archived": "https://web.archive.org/web/20260125065227/http://spidermedia.ru/news/novye-postery-filma-lyudi-iks-pervyy-klass",
+  "tags": [
+    "postery",
+    "marvel",
+    "lyudi-iks-pervyj-klass",
+    "x-men-first-class"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

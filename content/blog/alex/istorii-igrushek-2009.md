@@ -4,6 +4,11 @@
   "url": "/blog/alex/istorii-igrushek-2009/",
   "original_url": "https://spidermedia.ru/blog/alex/istorii-igrushek-2009",
   "archived": "https://web.archive.org/web/20260313115709/https://spidermedia.ru/blog/alex/istorii-igrushek-2009",
+  "tags": [
+    "figurki",
+    "green-lantern",
+    "toy-fair-2009"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

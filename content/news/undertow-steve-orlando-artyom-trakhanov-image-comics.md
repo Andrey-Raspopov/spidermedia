@@ -4,6 +4,10 @@
   "url": "/news/undertow-steve-orlando-artyom-trakhanov-image-comics/",
   "original_url": "https://spidermedia.ru/news/undertow-steve-orlando-artyom-trakhanov-image-comics",
   "archived": "https://web.archive.org/web/20260307064654/https://spidermedia.ru/news/undertow-steve-orlando-artyom-trakhanov-image-comics",
+  "tags": [
+    "undertow",
+    "image-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

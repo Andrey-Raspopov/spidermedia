@@ -4,6 +4,12 @@
   "url": "/news/assemble-some-animated-action/",
   "original_url": "http://spidermedia.ru/news/assemble-some-animated-action",
   "archived": "https://web.archive.org/web/20260125071158/http://spidermedia.ru/news/assemble-some-animated-action",
+  "tags": [
+    "preview",
+    "animaciya",
+    "marvel",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

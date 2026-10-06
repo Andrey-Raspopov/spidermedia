@@ -4,6 +4,10 @@
   "url": "/news/kop-s-toporom/",
   "original_url": "http://spidermedia.ru/news/kop-s-toporom",
   "archived": "https://web.archive.org/web/20260124051533/http://spidermedia.ru/news/kop-s-toporom",
+  "tags": [
+    "veb-komiksy",
+    "animaciya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

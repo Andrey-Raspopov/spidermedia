@@ -4,6 +4,19 @@
   "url": "/blog/sterpazook/ekranizaciya-kick-ass-vot-etot-paren/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/ekranizaciya-kick-ass-vot-etot-paren",
   "archived": "https://web.archive.org/web/20120607191923/http://spidermedia.ru/blog/sterpazook/ekranizaciya-kick-ass-vot-etot-paren",
+  "tags": [
+    "awesome",
+    "damien-walters",
+    "icon",
+    "kick-ass",
+    "video",
+    "demien-uolters",
+    "kino",
+    "komiksy",
+    "marvel",
+    "mark-millar",
+    "mettyu-von"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

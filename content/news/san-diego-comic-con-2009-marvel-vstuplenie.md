@@ -4,6 +4,14 @@
   "url": "/news/san-diego-comic-con-2009-marvel-vstuplenie/",
   "original_url": "http://spidermedia.ru/news/san-diego-comic-con-2009-marvel-vstuplenie",
   "archived": "https://web.archive.org/web/20250807231753/http://spidermedia.ru/news/san-diego-comic-con-2009-marvel-vstuplenie",
+  "tags": [
+    "temnoe-pravlenie",
+    "sobytiya",
+    "san-diego-comic-con-international",
+    "animaciya",
+    "san-diego-comic-con-2009",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

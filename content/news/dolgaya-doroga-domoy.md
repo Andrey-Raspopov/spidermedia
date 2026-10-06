@@ -4,6 +4,14 @@
   "url": "/news/dolgaya-doroga-domoy/",
   "original_url": "http://spidermedia.ru/news/dolgaya-doroga-domoy",
   "archived": "https://web.archive.org/web/20260215083225/http://spidermedia.ru/news/dolgaya-doroga-domoy",
+  "tags": [
+    "kejbl",
+    "nadezhda",
+    "cable",
+    "hope",
+    "marvel",
+    "x-men"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

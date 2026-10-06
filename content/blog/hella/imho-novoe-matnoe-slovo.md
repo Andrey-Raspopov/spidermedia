@@ -4,6 +4,11 @@
   "url": "/blog/hella/imho-novoe-matnoe-slovo/",
   "original_url": "http://spidermedia.ru/blog/hella/imho-novoe-matnoe-slovo",
   "archived": "https://web.archive.org/web/20260209120956/http://spidermedia.ru/blog/hella/imho-novoe-matnoe-slovo",
+  "tags": [
+    "roskomnadzor",
+    "imho",
+    "zarubezhnye-komiksy-na-russkom"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/news/elektro-nosorog-i-zelenyy-goblin-na-postere-novogo-cheloveka-pauka-2/",
   "original_url": "http://spidermedia.ru/news/elektro-nosorog-i-zelenyy-goblin-na-postere-novogo-cheloveka-pauka-2",
   "archived": "https://web.archive.org/web/20170609204212/http://spidermedia.ru:80/news/elektro-nosorog-i-zelenyy-goblin-na-postere-novogo-cheloveka-pauka-2",
+  "tags": [
+    "spider-man",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

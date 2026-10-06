@@ -4,6 +4,17 @@
   "url": "/news/sdcc-2009-dc-comics/",
   "original_url": "http://spidermedia.ru/news/sdcc-2009-dc-comics",
   "archived": "https://web.archive.org/web/20250906200650/http://spidermedia.ru/news/sdcc-2009-dc-comics",
+  "tags": [
+    "san-diego-comic-con-international",
+    "geoff-johns",
+    "skott-kolins",
+    "temnejshaya-noch",
+    "blackest-night",
+    "the-flash",
+    "san-diego-comic-con-2009",
+    "dc-comics",
+    "scott-kolins"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

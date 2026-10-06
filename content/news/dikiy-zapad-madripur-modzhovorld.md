@@ -4,6 +4,17 @@
   "url": "/news/dikiy-zapad-madripur-modzhovorld/",
   "original_url": "http://spidermedia.ru/news/dikiy-zapad-madripur-modzhovorld",
   "archived": "https://web.archive.org/web/20120609182159/http://spidermedia.ru/news/dikiy-zapad-madripur-modzhovorld",
+  "tags": [
+    "digital-comics",
+    "punisher",
+    "wolverine",
+    "karatel",
+    "komiksy",
+    "marvel",
+    "oblozhki",
+    "preview-s",
+    "rosomaha"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

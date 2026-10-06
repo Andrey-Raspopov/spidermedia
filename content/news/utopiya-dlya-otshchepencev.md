@@ -4,6 +4,16 @@
   "url": "/news/utopiya-dlya-otshchepencev/",
   "original_url": "https://spidermedia.ru/news/utopiya-dlya-otshchepencev",
   "archived": "https://web.archive.org/web/20250429152648/https://spidermedia.ru/news/utopiya-dlya-otshchepencev",
+  "tags": [
+    "piter-devid",
+    "iks-faktor",
+    "valentin-de-landro",
+    "x-men",
+    "x-factor",
+    "valentine-de-landro",
+    "nation-x",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

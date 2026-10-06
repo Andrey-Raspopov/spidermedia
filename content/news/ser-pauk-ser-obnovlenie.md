@@ -4,6 +4,14 @@
   "url": "/news/ser-pauk-ser-obnovlenie/",
   "original_url": "https://spidermedia.ru/news/ser-pauk-ser-obnovlenie",
   "archived": "https://web.archive.org/web/20260312005819/https://spidermedia.ru/news/ser-pauk-ser-obnovlenie",
+  "tags": [
+    "ramon-rozanas",
+    "majkl-golden",
+    "dzheff-parker",
+    "art-0",
+    "marvel",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

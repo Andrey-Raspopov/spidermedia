@@ -4,6 +4,11 @@
   "url": "/blog/gess/all-those-who-chose-oppose-his-shield-must-yield/",
   "original_url": "http://spidermedia.ru/blog/gess/all-those-who-chose-oppose-his-shield-must-yield",
   "archived": "https://web.archive.org/web/20120512081308/http://spidermedia.ru/blog/gess/all-those-who-chose-oppose-his-shield-must-yield",
+  "tags": [
+    "captain-america-wankery",
+    "geek-stuff",
+    "kapitan-amerika"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

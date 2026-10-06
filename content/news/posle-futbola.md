@@ -4,6 +4,15 @@
   "url": "/news/posle-futbola/",
   "original_url": "http://spidermedia.ru/news/posle-futbola",
   "archived": "https://web.archive.org/web/20120607114044/http://spidermedia.ru/news/posle-futbola",
+  "tags": [
+    "danny-mcbride",
+    "hench",
+    "warner-bros",
+    "denni-makbrayd",
+    "kino",
+    "komiksy",
+    "ait-planet-lar"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

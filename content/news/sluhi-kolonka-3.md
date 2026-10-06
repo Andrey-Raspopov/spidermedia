@@ -4,6 +4,17 @@
   "url": "/news/sluhi-kolonka-3/",
   "original_url": "http://spidermedia.ru/news/sluhi-kolonka-3",
   "archived": "https://web.archive.org/web/20120512075038/http://spidermedia.ru/news/sluhi-kolonka-3",
+  "tags": [
+    "dani-moonstar",
+    "new-mutants",
+    "dani-munstar",
+    "den-brereton",
+    "komiksy",
+    "marvel",
+    "novye-mutanty",
+    "saymon-byanchi",
+    "sluhi"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

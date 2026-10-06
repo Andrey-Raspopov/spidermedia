@@ -4,6 +4,16 @@
   "url": "/news/dc-universe-s-miru-po-nitke/",
   "original_url": "http://spidermedia.ru/news/dc-universe-s-miru-po-nitke",
   "archived": "https://web.archive.org/web/20260309185850/http://spidermedia.ru/news/dc-universe-s-miru-po-nitke",
+  "tags": [
+    "wonder-woman",
+    "superman",
+    "devid-finch",
+    "red-hood",
+    "j-michael-straczynski",
+    "dc-comics",
+    "batman",
+    "geoff-johns"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

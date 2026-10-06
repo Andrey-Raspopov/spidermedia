@@ -4,6 +4,10 @@
   "url": "/news/promo-fotosessiya-akterskogo-sostava-flesha/",
   "original_url": "https://spidermedia.ru/news/promo-fotosessiya-akterskogo-sostava-flesha",
   "archived": "https://web.archive.org/web/20260215082632/https://spidermedia.ru/news/promo-fotosessiya-akterskogo-sostava-flesha",
+  "tags": [
+    "the-flash",
+    "serialy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

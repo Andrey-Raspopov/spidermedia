@@ -4,6 +4,14 @@
   "url": "/blog/derden/komiksy-dc-universe-vypusk-no-26/",
   "original_url": "http://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-26",
   "archived": "https://web.archive.org/web/20260211190546/http://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-26",
+  "tags": [
+    "ron-garney",
+    "kurt-busiek",
+    "dc-comics",
+    "crime-syndicate",
+    "justice-league",
+    "dc-universe-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

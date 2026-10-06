@@ -4,6 +4,12 @@
   "url": "/comics/weapon-h-1-review/",
   "original_url": "https://spidermedia.ru/comics/weapon-h-1-review",
   "archived": "https://web.archive.org/web/20251206033856/https://spidermedia.ru/comics/weapon-h-1-review",
+  "tags": [
+    "marvel",
+    "greg-pak",
+    "wolverine",
+    "hulk"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

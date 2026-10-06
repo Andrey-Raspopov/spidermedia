@@ -4,6 +4,13 @@
   "url": "/news/novye-molodye-mstitelya-gryadut/",
   "original_url": "http://spidermedia.ru/news/novye-molodye-mstitelya-gryadut",
   "archived": "https://web.archive.org/web/20171015071940/http://spidermedia.ru:80/news/novye-molodye-mstitelya-gryadut",
+  "tags": [
+    "marvel",
+    "avengers",
+    "young-avengers",
+    "pol-kornell",
+    "mark-bruks"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/news/izdatelstvo-xl-media-obyavilo-o-svoih-novyh-licenziyah/",
   "original_url": "https://spidermedia.ru/news/izdatelstvo-xl-media-obyavilo-o-svoih-novyh-licenziyah",
   "archived": "https://web.archive.org/web/20251211024224/https://spidermedia.ru/news/izdatelstvo-xl-media-obyavilo-o-svoih-novyh-licenziyah",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "xl-media"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

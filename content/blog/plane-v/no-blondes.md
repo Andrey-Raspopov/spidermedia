@@ -4,6 +4,10 @@
   "url": "/blog/plane-v/no-blondes/",
   "original_url": "http://spidermedia.ru/blog/plane-v/no-blondes",
   "archived": "https://web.archive.org/web/20260125065702/http://spidermedia.ru/blog/plane-v/no-blondes",
+  "tags": [
+    "kemeron-styuart",
+    "idw-publishing"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

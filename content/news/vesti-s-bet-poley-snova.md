@@ -4,6 +4,24 @@
   "url": "/news/vesti-s-bet-poley-snova/",
   "original_url": "http://spidermedia.ru/news/vesti-s-bet-poley-snova",
   "archived": "https://web.archive.org/web/20260312011650/http://spidermedia.ru/news/vesti-s-bet-poley-snova",
+  "tags": [
+    "frenk-kuajtli",
+    "robin",
+    "kris-jost",
+    "krasnyj-robin",
+    "dastin-nguen",
+    "greg-rakka",
+    "grant-morrison",
+    "betvuman",
+    "red-robin",
+    "paul-dini",
+    "greg-rucka",
+    "frank-quitely",
+    "dustin-nguyen",
+    "dc-comics",
+    "chris-yost",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

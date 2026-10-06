@@ -4,6 +4,13 @@
   "url": "/news/iyunskiy-rasklad-kart/",
   "original_url": "http://spidermedia.ru/news/iyunskiy-rasklad-kart",
   "archived": "https://web.archive.org/web/20260117230857/http://spidermedia.ru/news/iyunskiy-rasklad-kart",
+  "tags": [
+    "marvel",
+    "preview",
+    "majk-keri",
+    "art-0",
+    "gambit"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

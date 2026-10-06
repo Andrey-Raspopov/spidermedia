@@ -4,6 +4,11 @@
   "url": "/blog/sterpazook/komiks-spider-girl-v-filme-zhmurki/",
   "original_url": "https://spidermedia.ru/blog/sterpazook/komiks-spider-girl-v-filme-zhmurki",
   "archived": "https://web.archive.org/web/20251115031144/https://spidermedia.ru/blog/sterpazook/komiks-spider-girl-v-filme-zhmurki",
+  "tags": [
+    "marvel",
+    "spider-girl",
+    "devushka-pauk"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,14 @@
   "url": "/news/art-prevyu-deadpool-10/",
   "original_url": "https://spidermedia.ru/news/art-prevyu-deadpool-10",
   "archived": "https://web.archive.org/web/20240623015900/https://spidermedia.ru/news/art-prevyu-deadpool-10",
+  "tags": [
+    "marvel",
+    "thunderbolts",
+    "preview",
+    "bullseye",
+    "deadpool",
+    "deniel-vej"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

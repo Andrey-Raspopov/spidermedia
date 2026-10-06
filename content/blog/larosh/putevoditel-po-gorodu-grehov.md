@@ -4,6 +4,12 @@
   "url": "/blog/larosh/putevoditel-po-gorodu-grehov/",
   "original_url": "https://spidermedia.ru/blog/larosh/putevoditel-po-gorodu-grehov",
   "archived": "https://web.archive.org/web/20260209105542/https://spidermedia.ru/blog/larosh/putevoditel-po-gorodu-grehov",
+  "tags": [
+    "frenk-miller",
+    "mnenie",
+    "sin-city",
+    "dark-horse"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/podcast/hellfire-panels-01-you-are-cordially-invited/",
   "original_url": "https://spidermedia.ru/podcast/hellfire-panels-01-you-are-cordially-invited",
   "archived": "https://web.archive.org/web/20260215083128/https://spidermedia.ru/podcast/hellfire-panels-01-you-are-cordially-invited",
+  "tags": [
+    "panels-of-x",
+    "on-panels"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

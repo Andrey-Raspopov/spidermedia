@@ -4,6 +4,11 @@
   "url": "/blog/redson/eskapizm/",
   "original_url": "http://spidermedia.ru/blog/redson/eskapizm",
   "archived": "https://web.archive.org/web/20120608123225/http://spidermedia.ru/blog/redson/eskapizm",
+  "tags": [
+    "nsfw",
+    "komiksy",
+    "mnenie"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

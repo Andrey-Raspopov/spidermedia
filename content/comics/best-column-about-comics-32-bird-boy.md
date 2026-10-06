@@ -4,6 +4,10 @@
   "url": "/comics/best-column-about-comics-32-bird-boy/",
   "original_url": "https://spidermedia.ru/comics/best-column-about-comics-32-bird-boy",
   "archived": "https://web.archive.org/web/20260211093914/https://spidermedia.ru/comics/best-column-about-comics-32-bird-boy",
+  "tags": [
+    "best-column-about-comics",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

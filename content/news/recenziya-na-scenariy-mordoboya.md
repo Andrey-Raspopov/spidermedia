@@ -4,6 +4,11 @@
   "url": "/news/recenziya-na-scenariy-mordoboya/",
   "original_url": "https://spidermedia.ru/news/recenziya-na-scenariy-mordoboya",
   "archived": "https://web.archive.org/web/20260120154728/https://spidermedia.ru/news/recenziya-na-scenariy-mordoboya",
+  "tags": [
+    "mettyu-von",
+    "mark-millar",
+    "kick-ass"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

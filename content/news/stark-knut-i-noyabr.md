@@ -4,6 +4,16 @@
   "url": "/news/stark-knut-i-noyabr/",
   "original_url": "https://spidermedia.ru/news/stark-knut-i-noyabr",
   "archived": "https://web.archive.org/web/20250814203442/https://spidermedia.ru/news/stark-knut-i-noyabr",
+  "tags": [
+    "preview",
+    "marko-dzhurdzhevich",
+    "mark-guggenhajm",
+    "knut",
+    "brendon-peterson",
+    "whiplash",
+    "marvel",
+    "iron-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

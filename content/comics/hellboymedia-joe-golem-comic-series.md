@@ -4,6 +4,10 @@
   "url": "/comics/hellboymedia-joe-golem-comic-series/",
   "original_url": "http://spidermedia.ru/comics/hellboymedia-joe-golem-comic-series",
   "archived": "https://web.archive.org/web/20251209143908/http://spidermedia.ru/comics/hellboymedia-joe-golem-comic-series",
+  "tags": [
+    "hellboymedia",
+    "novosti"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

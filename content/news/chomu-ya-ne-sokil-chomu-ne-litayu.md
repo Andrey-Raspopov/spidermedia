@@ -4,6 +4,12 @@
   "url": "/news/chomu-ya-ne-sokil-chomu-ne-litayu/",
   "original_url": "http://spidermedia.ru/news/chomu-ya-ne-sokil-chomu-ne-litayu",
   "archived": "https://web.archive.org/web/20130619034947/http://spidermedia.ru/news/chomu-ya-ne-sokil-chomu-ne-litayu",
+  "tags": [
+    "zimniy-soldat",
+    "kino",
+    "marvel",
+    "pervyy-mstitel-kapitan-amerika"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

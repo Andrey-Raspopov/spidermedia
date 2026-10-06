@@ -4,6 +4,10 @@
   "url": "/news/doktor-dum-smenit-imya-v-novom-filme/",
   "original_url": "http://spidermedia.ru/news/doktor-dum-smenit-imya-v-novom-filme",
   "archived": "https://web.archive.org/web/20251206025543/http://spidermedia.ru/news/doktor-dum-smenit-imya-v-novom-filme",
+  "tags": [
+    "fantastic-four",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

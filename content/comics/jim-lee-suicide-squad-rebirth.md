@@ -4,6 +4,11 @@
   "url": "/comics/jim-lee-suicide-squad-rebirth/",
   "original_url": "https://spidermedia.ru/comics/jim-lee-suicide-squad-rebirth",
   "archived": "https://web.archive.org/web/20260120160847/https://spidermedia.ru/comics/jim-lee-suicide-squad-rebirth",
+  "tags": [
+    "jim-lee",
+    "suicide-squad",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

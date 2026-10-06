@@ -4,6 +4,19 @@
   "url": "/blog/sir-carnage/column-no-name-week-12-and-brains-give-me-gas/",
   "original_url": "https://spidermedia.ru/blog/sir-carnage/column-no-name-week-12-and-brains-give-me-gas",
   "archived": "https://web.archive.org/web/20260314083130/https://spidermedia.ru/blog/sir-carnage/column-no-name-week-12-and-brains-give-me-gas",
+  "tags": [
+    "x-factor",
+    "marvel",
+    "lovebunny-and-mr.-hell",
+    "kobra",
+    "jsa",
+    "hackslash",
+    "fantastic-four",
+    "dc-comics",
+    "beta-rej-bill",
+    "batman",
+    "the-column-with-no-name"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

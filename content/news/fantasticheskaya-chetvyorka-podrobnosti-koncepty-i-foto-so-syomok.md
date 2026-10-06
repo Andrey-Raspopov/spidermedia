@@ -4,6 +4,9 @@
   "url": "/news/fantasticheskaya-chetvyorka-podrobnosti-koncepty-i-foto-so-syomok/",
   "original_url": "http://spidermedia.ru/news/fantasticheskaya-chetvyorka-podrobnosti-koncepty-i-foto-so-syomok",
   "archived": "https://web.archive.org/web/20250814202137/http://spidermedia.ru/news/fantasticheskaya-chetvyorka-podrobnosti-koncepty-i-foto-so-syomok",
+  "tags": [
+    "fantastic-four"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

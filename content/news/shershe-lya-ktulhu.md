@@ -4,6 +4,13 @@
   "url": "/news/shershe-lya-ktulhu/",
   "original_url": "http://spidermedia.ru/news/shershe-lya-ktulhu",
   "archived": "https://web.archive.org/web/20251206144002/http://spidermedia.ru/news/shershe-lya-ktulhu",
+  "tags": [
+    "nycc-2011",
+    "komik-kon-v-nyu-jorke",
+    "ed-brubaker",
+    "shon-fillips",
+    "image-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

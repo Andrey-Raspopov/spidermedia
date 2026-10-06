@@ -4,6 +4,15 @@
   "url": "/news/sdcc10-ultimate-thor/",
   "original_url": "http://spidermedia.ru/news/sdcc10-ultimate-thor",
   "archived": "https://web.archive.org/web/20220815183607/http://spidermedia.ru/news/sdcc10-ultimate-thor",
+  "tags": [
+    "san-diego-comic-con-international",
+    "karlos-pacheko",
+    "dzhonatan-hikman",
+    "art-0",
+    "ultimate",
+    "thor",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

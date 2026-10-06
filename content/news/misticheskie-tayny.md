@@ -4,6 +4,13 @@
   "url": "/news/misticheskie-tayny/",
   "original_url": "http://spidermedia.ru/news/misticheskie-tayny",
   "archived": "https://web.archive.org/web/20120608214326/http://spidermedia.ru/news/misticheskie-tayny",
+  "tags": [
+    "art-0",
+    "komiksy",
+    "marvel",
+    "patrik-zircher",
+    "tizery"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

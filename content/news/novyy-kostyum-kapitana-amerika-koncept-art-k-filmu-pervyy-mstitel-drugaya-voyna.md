@@ -4,6 +4,11 @@
   "url": "/news/novyy-kostyum-kapitana-amerika-koncept-art-k-filmu-pervyy-mstitel-drugaya-voyna/",
   "original_url": "http://spidermedia.ru/news/novyy-kostyum-kapitana-amerika-koncept-art-k-filmu-pervyy-mstitel-drugaya-voyna",
   "archived": "https://web.archive.org/web/20251116072325/http://spidermedia.ru/news/novyy-kostyum-kapitana-amerika-koncept-art-k-filmu-pervyy-mstitel-drugaya-voyna",
+  "tags": [
+    "marvel",
+    "koncept-art",
+    "winter-soldier"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

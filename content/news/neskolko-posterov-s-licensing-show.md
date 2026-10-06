@@ -4,6 +4,17 @@
   "url": "/news/neskolko-posterov-s-licensing-show/",
   "original_url": "http://spidermedia.ru/news/neskolko-posterov-s-licensing-show",
   "archived": "https://web.archive.org/web/20190929140918/http://spidermedia.ru:80/news/neskolko-posterov-s-licensing-show",
+  "tags": [
+    "scott-pilgrim",
+    "postery",
+    "iron-man",
+    "thor",
+    "marvel",
+    "licensing-show",
+    "captain-america",
+    "avengers",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

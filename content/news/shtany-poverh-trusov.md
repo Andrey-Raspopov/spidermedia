@@ -4,6 +4,11 @@
   "url": "/news/shtany-poverh-trusov/",
   "original_url": "http://spidermedia.ru/news/shtany-poverh-trusov",
   "archived": "https://web.archive.org/web/20251216184929/http://spidermedia.ru/news/shtany-poverh-trusov",
+  "tags": [
+    "icon-comics",
+    "brian-michael-bendis",
+    "mark-bagli"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

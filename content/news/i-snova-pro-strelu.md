@@ -4,6 +4,11 @@
   "url": "/news/i-snova-pro-strelu/",
   "original_url": "http://spidermedia.ru/news/i-snova-pro-strelu",
   "archived": "https://web.archive.org/web/20241109074724/http://spidermedia.ru/news/i-snova-pro-strelu",
+  "tags": [
+    "dc-comics",
+    "atom",
+    "green-arrow"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

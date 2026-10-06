@@ -4,6 +4,9 @@
   "url": "/comics/strashnye-skazki-obzavedutsya-svoej-seriej-komiksov/",
   "original_url": "http://spidermedia.ru/comics/strashnye-skazki-obzavedutsya-svoej-seriej-komiksov",
   "archived": "https://web.archive.org/web/20190913005021/http://spidermedia.ru:80/comics/strashnye-skazki-obzavedutsya-svoej-seriej-komiksov",
+  "tags": [
+    "titan-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

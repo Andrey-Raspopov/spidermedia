@@ -4,6 +4,11 @@
   "url": "/news/osenniy-soldat/",
   "original_url": "http://spidermedia.ru/news/osenniy-soldat",
   "archived": "https://web.archive.org/web/20240305030107/http://spidermedia.ru/news/osenniy-soldat",
+  "tags": [
+    "rik-remender",
+    "dzhon-romita-ml",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

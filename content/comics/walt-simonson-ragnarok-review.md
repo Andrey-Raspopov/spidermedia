@@ -4,6 +4,10 @@
   "url": "/comics/walt-simonson-ragnarok-review/",
   "original_url": "https://spidermedia.ru/comics/walt-simonson-ragnarok-review",
   "archived": "https://web.archive.org/web/20250210063058/https://spidermedia.ru/comics/walt-simonson-ragnarok-review",
+  "tags": [
+    "ast",
+    "uolt-simonson"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

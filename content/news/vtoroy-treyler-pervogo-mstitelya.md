@@ -4,6 +4,11 @@
   "url": "/news/vtoroy-treyler-pervogo-mstitelya/",
   "original_url": "http://spidermedia.ru/news/vtoroy-treyler-pervogo-mstitelya",
   "archived": "https://web.archive.org/web/20241106114329/http://spidermedia.ru/news/vtoroy-treyler-pervogo-mstitelya",
+  "tags": [
+    "trejlery",
+    "marvel",
+    "captain-america"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

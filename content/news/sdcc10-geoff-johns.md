@@ -4,6 +4,18 @@
   "url": "/news/sdcc10-geoff-johns/",
   "original_url": "http://spidermedia.ru/news/sdcc10-geoff-johns",
   "archived": "https://web.archive.org/web/20260120145000/http://spidermedia.ru/news/sdcc10-geoff-johns",
+  "tags": [
+    "blue-beetle",
+    "klan-indigo",
+    "geoff-johns",
+    "aquaman",
+    "ajvan-rejs",
+    "ivan-reis",
+    "green-lantern",
+    "the-flash",
+    "dc-comics",
+    "san-diego-comic-con-international"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

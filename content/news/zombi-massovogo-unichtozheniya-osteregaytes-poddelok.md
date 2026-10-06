@@ -4,6 +4,15 @@
   "url": "/news/zombi-massovogo-unichtozheniya-osteregaytes-poddelok/",
   "original_url": "http://spidermedia.ru/news/zombi-massovogo-unichtozheniya-osteregaytes-poddelok",
   "archived": "https://web.archive.org/web/20111019181832/http://spidermedia.ru/news/zombi-massovogo-unichtozheniya-osteregaytes-poddelok",
+  "tags": [
+    "zmd",
+    "zombie",
+    "zombies-mass-destruction",
+    "zombi",
+    "zombi-massovogo-unichtozheniya",
+    "kino",
+    "komiksy"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

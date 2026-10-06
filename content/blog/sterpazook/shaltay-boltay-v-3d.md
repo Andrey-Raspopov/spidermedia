@@ -4,6 +4,11 @@
   "url": "/blog/sterpazook/shaltay-boltay-v-3d/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/shaltay-boltay-v-3d",
   "archived": "https://web.archive.org/web/20111019192335/http://spidermedia.ru/blog/sterpazook/shaltay-boltay-v-3d",
+  "tags": [
+    "horror",
+    "kino",
+    "postery"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

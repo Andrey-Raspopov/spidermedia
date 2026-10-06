@@ -4,6 +4,9 @@
   "url": "/games/igromir-2015-dark-souls-3/",
   "original_url": "http://spidermedia.ru/games/igromir-2015-dark-souls-3",
   "archived": "https://web.archive.org/web/20250322062002/http://spidermedia.ru/games/igromir-2015-dark-souls-3",
+  "tags": [
+    "igromir-2015"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

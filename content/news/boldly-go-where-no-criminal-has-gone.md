@@ -4,6 +4,12 @@
   "url": "/news/boldly-go-where-no-criminal-has-gone/",
   "original_url": "https://spidermedia.ru/news/boldly-go-where-no-criminal-has-gone",
   "archived": "https://web.archive.org/web/20250524065137/https://spidermedia.ru/news/boldly-go-where-no-criminal-has-gone",
+  "tags": [
+    "frenk-tieri",
+    "mark-teksejra",
+    "punisher",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,15 @@
   "url": "/news/human-target-master-maskirovki/",
   "original_url": "http://spidermedia.ru/news/human-target-master-maskirovki",
   "archived": "https://web.archive.org/web/20120608144815/http://spidermedia.ru/news/human-target-master-maskirovki",
+  "tags": [
+    "dc-comics",
+    "fox",
+    "human-target",
+    "kino",
+    "komiksy",
+    "serialy",
+    "tv-0"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

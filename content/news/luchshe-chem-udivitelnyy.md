@@ -4,6 +4,14 @@
   "url": "/news/luchshe-chem-udivitelnyy/",
   "original_url": "http://spidermedia.ru/news/luchshe-chem-udivitelnyy",
   "archived": "https://web.archive.org/web/20260117232530/http://spidermedia.ru/news/luchshe-chem-udivitelnyy",
+  "tags": [
+    "den-slott",
+    "rajan-stegman",
+    "dzhuzeppe-kamunkoli",
+    "umberto-ramos",
+    "spider-man",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

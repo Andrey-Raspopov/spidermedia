@@ -4,6 +4,18 @@
   "url": "/news/messiah-war-ostorozhno-spoylery/",
   "original_url": "http://spidermedia.ru/news/messiah-war-ostorozhno-spoylery",
   "archived": "https://web.archive.org/web/20251206162109/http://spidermedia.ru/news/messiah-war-ostorozhno-spoylery",
+  "tags": [
+    "x-men",
+    "marvel",
+    "x-force",
+    "cable",
+    "hope",
+    "kejbl",
+    "stryfe",
+    "nadezhda",
+    "bishop",
+    "strajnf"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

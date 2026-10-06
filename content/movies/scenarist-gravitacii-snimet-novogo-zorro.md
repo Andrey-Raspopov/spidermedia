@@ -4,6 +4,9 @@
   "url": "/movies/scenarist-gravitacii-snimet-novogo-zorro/",
   "original_url": "http://spidermedia.ru/movies/scenarist-gravitacii-snimet-novogo-zorro",
   "archived": "https://web.archive.org/web/20230329032649/http://spidermedia.ru/movies/scenarist-gravitacii-snimet-novogo-zorro",
+  "tags": [
+    "zorro"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

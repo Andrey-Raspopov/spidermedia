@@ -4,6 +4,11 @@
   "url": "/blog/larosh/obzor-shafirovskiy-prospekt-1/",
   "original_url": "http://spidermedia.ru/blog/larosh/obzor-shafirovskiy-prospekt-1",
   "archived": "https://web.archive.org/web/20260209112659/http://spidermedia.ru/blog/larosh/obzor-shafirovskiy-prospekt-1",
+  "tags": [
+    "russian-comics",
+    "obzor",
+    "komilfo"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

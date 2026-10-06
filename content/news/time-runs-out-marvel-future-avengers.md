@@ -4,6 +4,10 @@
   "url": "/news/time-runs-out-marvel-future-avengers/",
   "original_url": "https://spidermedia.ru/news/time-runs-out-marvel-future-avengers",
   "archived": "https://web.archive.org/web/20240712234420/https://spidermedia.ru/news/time-runs-out-marvel-future-avengers",
+  "tags": [
+    "avengers",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/news/uzhe-vyehal/",
   "original_url": "http://spidermedia.ru/news/uzhe-vyehal",
   "archived": "https://web.archive.org/web/20241113231238/http://spidermedia.ru/news/uzhe-vyehal",
+  "tags": [
+    "marvel",
+    "prizrachnyj-gonshhik"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

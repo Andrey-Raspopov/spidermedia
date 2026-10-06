@@ -4,6 +4,9 @@
   "url": "/comics/dc-october-solicitations/",
   "original_url": "http://spidermedia.ru/comics/dc-october-solicitations",
   "archived": "https://web.archive.org/web/20250909130627/http://spidermedia.ru/comics/dc-october-solicitations",
+  "tags": [
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/comics/sdcc-2018-laureaty-premii-ajznera-2018/",
   "original_url": "http://spidermedia.ru/comics/sdcc-2018-laureaty-premii-ajznera-2018",
   "archived": "https://web.archive.org/web/20191228200920/http://spidermedia.ru:80/comics/sdcc-2018-laureaty-premii-ajznera-2018",
+  "tags": [
+    "eisner-awards"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

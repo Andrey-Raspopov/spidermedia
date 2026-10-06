@@ -4,6 +4,10 @@
   "url": "/news/shvarcenegger-snimetsya-v-rimeyke-toksichnogo-mstitelya/",
   "original_url": "http://spidermedia.ru/news/shvarcenegger-snimetsya-v-rimeyke-toksichnogo-mstitelya",
   "archived": "https://web.archive.org/web/20200718180347/http://spidermedia.ru:80/news/shvarcenegger-snimetsya-v-rimeyke-toksichnogo-mstitelya",
+  "tags": [
+    "troma",
+    "toxic-avenger"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/news/nazvany-scenaristy-serialov-pro-dardevila-i-dzhessiku-dzhons/",
   "original_url": "https://spidermedia.ru/news/nazvany-scenaristy-serialov-pro-dardevila-i-dzhessiku-dzhons",
   "archived": "https://web.archive.org/web/20260115052326/https://spidermedia.ru/news/nazvany-scenaristy-serialov-pro-dardevila-i-dzhessiku-dzhons",
+  "tags": [
+    "marvel",
+    "jessica-jones-alias",
+    "daredevil"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

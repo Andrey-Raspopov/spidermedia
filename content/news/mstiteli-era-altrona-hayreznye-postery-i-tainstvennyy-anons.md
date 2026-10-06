@@ -4,6 +4,11 @@
   "url": "/news/mstiteli-era-altrona-hayreznye-postery-i-tainstvennyy-anons/",
   "original_url": "http://spidermedia.ru/news/mstiteli-era-altrona-hayreznye-postery-i-tainstvennyy-anons",
   "archived": "https://web.archive.org/web/20260117222311/http://spidermedia.ru/news/mstiteli-era-altrona-hayreznye-postery-i-tainstvennyy-anons",
+  "tags": [
+    "avengers",
+    "marvel",
+    "iron-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

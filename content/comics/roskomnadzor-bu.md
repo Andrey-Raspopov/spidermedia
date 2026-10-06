@@ -4,6 +4,11 @@
   "url": "/comics/roskomnadzor-bu/",
   "original_url": "https://spidermedia.ru/comics/roskomnadzor-bu",
   "archived": "https://web.archive.org/web/20241010054808/https://spidermedia.ru/comics/roskomnadzor-bu",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "roskomnadzor",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

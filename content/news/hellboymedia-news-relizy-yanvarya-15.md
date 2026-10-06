@@ -4,6 +4,9 @@
   "url": "/news/hellboymedia-news-relizy-yanvarya-15/",
   "original_url": "https://spidermedia.ru/news/hellboymedia-news-relizy-yanvarya-15",
   "archived": "https://web.archive.org/web/20251209134502/https://spidermedia.ru/news/hellboymedia-news-relizy-yanvarya-15",
+  "tags": [
+    "hellboymedia"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

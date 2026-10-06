@@ -4,6 +4,10 @@
   "url": "/pages/100-rekomenduemyh-komiksov/",
   "original_url": "http://spidermedia.ru/pages/100-rekomenduemyh-komiksov",
   "archived": "https://web.archive.org/web/20110204031847/http://spidermedia.ru:80/pages/100-rekomenduemyh-komiksov",
+  "tags": [
+    "mustread",
+    "komiksy"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

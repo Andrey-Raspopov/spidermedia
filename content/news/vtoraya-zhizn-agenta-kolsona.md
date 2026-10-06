@@ -4,6 +4,11 @@
   "url": "/news/vtoraya-zhizn-agenta-kolsona/",
   "original_url": "https://spidermedia.ru/news/vtoraya-zhizn-agenta-kolsona",
   "archived": "https://web.archive.org/web/20260125115444/https://spidermedia.ru/news/vtoraya-zhizn-agenta-kolsona",
+  "tags": [
+    "serialy",
+    "s.h.i.e.l.d",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,22 @@
   "url": "/news/sdcc09-hellboy/",
   "original_url": "http://spidermedia.ru/news/sdcc09-hellboy",
   "archived": "https://web.archive.org/web/20250806060828/http://spidermedia.ru/news/sdcc09-hellboy",
+  "tags": [
+    "richard-korben",
+    "majk-minola",
+    "dzhon-arkudi",
+    "dankan-fegredo",
+    "gaj-devis",
+    "san-diego-comic-con-international",
+    "richard-corben",
+    "mike-mignola",
+    "john-arcudi",
+    "hellboy",
+    "guy-davis",
+    "duncan-fegredo",
+    "dark-horse",
+    "bprd"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

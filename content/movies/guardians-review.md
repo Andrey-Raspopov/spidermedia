@@ -4,6 +4,10 @@
   "url": "/movies/guardians-review/",
   "original_url": "http://spidermedia.ru/movies/guardians-review",
   "archived": "https://web.archive.org/web/20250210043120/http://spidermedia.ru/movies/guardians-review",
+  "tags": [
+    "zashhitniki",
+    "recenziya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

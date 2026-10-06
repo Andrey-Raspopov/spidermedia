@@ -4,6 +4,16 @@
   "url": "/news/agents-assemble/",
   "original_url": "https://spidermedia.ru/news/agents-assemble",
   "archived": "https://web.archive.org/web/20260313105200/https://spidermedia.ru/news/agents-assemble",
+  "tags": [
+    "feliks-ruis",
+    "umberto-ramos",
+    "marko-dzhurdzhevich",
+    "dzheff-parker",
+    "gabriel-hardmen",
+    "art-0",
+    "marvel",
+    "agenty-atlasa"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

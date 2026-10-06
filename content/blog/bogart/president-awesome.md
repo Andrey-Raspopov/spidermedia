@@ -4,6 +4,11 @@
   "url": "/blog/bogart/president-awesome/",
   "original_url": "http://spidermedia.ru/blog/bogart/president-awesome",
   "archived": "https://web.archive.org/web/20120609002959/http://spidermedia.ru/blog/bogart/president-awesome",
+  "tags": [
+    "veb-komiksy",
+    "din-tripp",
+    "komiksy"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

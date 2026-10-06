@@ -4,6 +4,10 @@
   "url": "/comics/sdcc-2015-lady-killer-vernetsya/",
   "original_url": "https://spidermedia.ru/comics/sdcc-2015-lady-killer-vernetsya",
   "archived": "https://web.archive.org/web/20260117222140/https://spidermedia.ru/comics/sdcc-2015-lady-killer-vernetsya",
+  "tags": [
+    "dark-horse",
+    "san-diego-comic-con-international"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/news/aprel-10-second-coming/",
   "original_url": "http://spidermedia.ru/news/aprel-10-second-coming",
   "archived": "https://web.archive.org/web/20251106232513/http://spidermedia.ru/news/aprel-10-second-coming",
+  "tags": [
+    "relizy",
+    "marvel",
+    "x-men",
+    "new-mutants"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,13 @@
   "url": "/news/frensis-robinapul/",
   "original_url": "http://spidermedia.ru/news/frensis-robinapul",
   "archived": "https://web.archive.org/web/20260314080035/http://spidermedia.ru/news/frensis-robinapul",
+  "tags": [
+    "frensis-manapul",
+    "robin",
+    "krasnyj-robin",
+    "red-robin",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/comics/nedelya-horrora-beautiful-darkness/",
   "original_url": "https://spidermedia.ru/comics/nedelya-horrora-beautiful-darkness",
   "archived": "https://web.archive.org/web/20250519180041/https://spidermedia.ru/comics/nedelya-horrora-beautiful-darkness",
+  "tags": [
+    "bande-dessinée",
+    "horror-week"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

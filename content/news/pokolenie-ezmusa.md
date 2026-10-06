@@ -4,6 +4,13 @@
   "url": "/news/pokolenie-ezmusa/",
   "original_url": "http://spidermedia.ru/news/pokolenie-ezmusa",
   "archived": "https://web.archive.org/web/20251207005508/http://spidermedia.ru/news/pokolenie-ezmusa",
+  "tags": [
+    "generation-hope",
+    "x-men",
+    "dzhejms-ezmus",
+    "ibraim-roberson",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

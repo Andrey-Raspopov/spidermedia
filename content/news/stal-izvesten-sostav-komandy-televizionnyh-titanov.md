@@ -4,6 +4,10 @@
   "url": "/news/stal-izvesten-sostav-komandy-televizionnyh-titanov/",
   "original_url": "http://spidermedia.ru/news/stal-izvesten-sostav-komandy-televizionnyh-titanov",
   "archived": "https://web.archive.org/web/20251216182403/http://spidermedia.ru/news/stal-izvesten-sostav-komandy-televizionnyh-titanov",
+  "tags": [
+    "serialy",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

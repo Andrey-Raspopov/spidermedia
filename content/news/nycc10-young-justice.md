@@ -4,6 +4,16 @@
   "url": "/news/nycc10-young-justice/",
   "original_url": "http://spidermedia.ru/news/nycc10-young-justice",
   "archived": "https://web.archive.org/web/20251110220623/http://spidermedia.ru/news/nycc10-young-justice",
+  "tags": [
+    "nycc-2010",
+    "new-york-comic-con",
+    "komik-kon-v-nyu-yorke",
+    "animaciya",
+    "koncept-art",
+    "young-justice",
+    "dc-comics",
+    "molodoe-pravosudie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

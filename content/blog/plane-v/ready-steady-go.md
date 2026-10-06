@@ -4,6 +4,9 @@
   "url": "/blog/plane-v/ready-steady-go/",
   "original_url": "http://spidermedia.ru/blog/plane-v/ready-steady-go",
   "archived": "https://web.archive.org/web/20251107000003/http://spidermedia.ru/blog/plane-v/ready-steady-go",
+  "tags": [
+    "anime"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

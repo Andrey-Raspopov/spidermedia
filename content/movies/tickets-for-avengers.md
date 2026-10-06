@@ -4,6 +4,10 @@
   "url": "/movies/tickets-for-avengers/",
   "original_url": "https://spidermedia.ru/movies/tickets-for-avengers",
   "archived": "https://web.archive.org/web/20251019000931/https://spidermedia.ru/movies/tickets-for-avengers",
+  "tags": [
+    "marvel",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

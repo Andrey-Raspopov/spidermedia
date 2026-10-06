@@ -4,6 +4,9 @@
   "url": "/blog/vch/kospley-mediya-daydzhest-no2/",
   "original_url": "http://spidermedia.ru/blog/vch/kospley-mediya-daydzhest-no2",
   "archived": "https://web.archive.org/web/20170715033942/http://spidermedia.ru:80/blog/vch/kospley-mediya-daydzhest-no2",
+  "tags": [
+    "kosplej"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

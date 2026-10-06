@@ -4,6 +4,9 @@
   "url": "/news/raskreposhchennyy-supermen/",
   "original_url": "https://spidermedia.ru/news/raskreposhchennyy-supermen",
   "archived": "https://web.archive.org/web/20240720195345/https://spidermedia.ru/news/raskreposhchennyy-supermen",
+  "tags": [
+    "superman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

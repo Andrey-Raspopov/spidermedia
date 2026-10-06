@@ -4,6 +4,12 @@
   "url": "/comics/young-jelly-avengers-review/",
   "original_url": "https://spidermedia.ru/comics/young-jelly-avengers-review",
   "archived": "https://web.archive.org/web/20250807215939/https://spidermedia.ru/comics/young-jelly-avengers-review",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "jellyfish-jam",
+    "young-avengers",
+    "recenziya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/podcast/hellboymedia-classic-hellboy-the-chained-coffin-and-others/",
   "original_url": "http://spidermedia.ru/podcast/hellboymedia-classic-hellboy-the-chained-coffin-and-others",
   "archived": "https://web.archive.org/web/20260309182716/http://spidermedia.ru/podcast/hellboymedia-classic-hellboy-the-chained-coffin-and-others",
+  "tags": [
+    "hellboymedia",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

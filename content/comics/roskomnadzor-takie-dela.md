@@ -4,6 +4,11 @@
   "url": "/comics/roskomnadzor-takie-dela/",
   "original_url": "http://spidermedia.ru/comics/roskomnadzor-takie-dela",
   "archived": "https://web.archive.org/web/20240301105800/http://spidermedia.ru/comics/roskomnadzor-takie-dela",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "roskomnadzor",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

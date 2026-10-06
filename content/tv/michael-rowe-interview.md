@@ -4,6 +4,11 @@
   "url": "/tv/michael-rowe-interview/",
   "original_url": "http://spidermedia.ru/tv/michael-rowe-interview",
   "archived": "https://web.archive.org/web/20251014041827/http://spidermedia.ru/tv/michael-rowe-interview",
+  "tags": [
+    "dc-comics",
+    "green-arrow",
+    "suicide-squad"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

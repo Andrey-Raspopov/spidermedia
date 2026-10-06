@@ -4,6 +4,14 @@
   "url": "/news/komanda-supergeroev-dc/",
   "original_url": "http://spidermedia.ru/news/komanda-supergeroev-dc",
   "archived": "https://web.archive.org/web/20171123044043/http://spidermedia.ru:80/news/komanda-supergeroev-dc",
+  "tags": [
+    "izdatelstvo-komiks",
+    "zarubezhnye-komiksy-na-russkom",
+    "green-lantern",
+    "green-arrow",
+    "dc-comics",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/news/strela-oficialnoe-foto-reya-palmera-v-kostyume-atoma/",
   "original_url": "http://spidermedia.ru/news/strela-oficialnoe-foto-reya-palmera-v-kostyume-atoma",
   "archived": "https://web.archive.org/web/20251111083832/http://spidermedia.ru/news/strela-oficialnoe-foto-reya-palmera-v-kostyume-atoma",
+  "tags": [
+    "dc-comics",
+    "atom",
+    "green-arrow"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

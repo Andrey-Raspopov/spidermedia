@@ -4,6 +4,12 @@
   "url": "/blog/bastion7/yo-joe/",
   "original_url": "https://spidermedia.ru/blog/bastion7/yo-joe",
   "archived": "https://web.archive.org/web/20260314075749/https://spidermedia.ru/blog/bastion7/yo-joe",
+  "tags": [
+    "chak-dikson",
+    "warren-ellis",
+    "idw-publishing",
+    "gi-joe"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

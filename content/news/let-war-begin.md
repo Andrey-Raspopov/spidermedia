@@ -4,6 +4,12 @@
   "url": "/news/let-war-begin/",
   "original_url": "http://spidermedia.ru/news/let-war-begin",
   "archived": "https://web.archive.org/web/20260117225116/http://spidermedia.ru/news/let-war-begin",
+  "tags": [
+    "justice-league",
+    "jim-lee",
+    "dc-comics",
+    "geoff-johns"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

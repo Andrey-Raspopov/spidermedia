@@ -17,6 +17,14 @@ rebuilt from Wayback Machine snapshots taken up to 14 March 2026 and converted t
 - Not included: the phpBB forum, user profiles, login/search pages and auto-generated
   tag listings.
 
+## Tags and search
+
+- Tags come from the original articles (both the Drupal and the later CMS used `/tags/<slug>`),
+  so tag pages keep their original addresses: `/tags/marvel/`, `/tags/hellboymedia/`, …
+  `content/tags/<slug>/_index.md` holds each tag's display name.
+- Search is a static [Pagefind](https://pagefind.app/) index built after Hugo in the deploy
+  workflow, with Russian stemming and filters by section and year. Only article bodies are indexed.
+
 ## Images and audio
 
 Images and podcast audio are not stored in this repository (about 6 GB, over GitHub Pages'
@@ -33,4 +41,11 @@ services that have shut down were replaced with a link to the original file.
 ## Building
 
 The site is built with [Hugo](https://gohugo.io/) by `.github/workflows/pages.yml` on every
-push to `main`. Locally: `hugo server`, then open http://localhost:1313/spidermedia/.
+push to `main`. Locally:
+
+```sh
+hugo -d public/spidermedia && npx -y pagefind@1.5.2 --site public/spidermedia
+python3 -m http.server -d public    # then open http://localhost:8000/spidermedia/
+```
+
+(`hugo server` works too, but without search: the Pagefind index only exists after a build.)

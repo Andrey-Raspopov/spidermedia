@@ -4,6 +4,12 @@
   "url": "/news/chto-zhe-s-nim-sluchilosteper-i-v-delyukse/",
   "original_url": "http://spidermedia.ru/news/chto-zhe-s-nim-sluchilosteper-i-v-delyukse",
   "archived": "https://web.archive.org/web/20251107004434/http://spidermedia.ru/news/chto-zhe-s-nim-sluchilosteper-i-v-delyukse",
+  "tags": [
+    "dc-comics",
+    "batman",
+    "neil-gaiman",
+    "endi-kubert"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/comics/dnk-march11/",
   "original_url": "http://spidermedia.ru/comics/dnk-march11",
   "archived": "https://web.archive.org/web/20200223125542/http://spidermedia.ru:80/comics/dnk-march11",
+  "tags": [
+    "den-novyh-komiksov"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

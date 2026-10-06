@@ -4,6 +4,15 @@
   "url": "/news/betmen-i-robin-iyunskiy-start/",
   "original_url": "http://spidermedia.ru/news/betmen-i-robin-iyunskiy-start",
   "archived": "https://web.archive.org/web/20120608194729/http://spidermedia.ru/news/betmen-i-robin-iyunskiy-start",
+  "tags": [
+    "batman",
+    "dc-comics",
+    "robin",
+    "art-0",
+    "grant-morrison",
+    "oblozhki",
+    "frenk-kuaytli"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

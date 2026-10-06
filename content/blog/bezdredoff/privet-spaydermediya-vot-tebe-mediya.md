@@ -4,6 +4,10 @@
   "url": "/blog/bezdredoff/privet-spaydermediya-vot-tebe-mediya/",
   "original_url": "http://spidermedia.ru/blog/bezdredoff/privet-spaydermediya-vot-tebe-mediya",
   "archived": "https://web.archive.org/web/20150501131509/http://spidermedia.ru/blog/bezdredoff/privet-spaydermediya-vot-tebe-mediya",
+  "tags": [
+    "novosti",
+    "komikkast"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

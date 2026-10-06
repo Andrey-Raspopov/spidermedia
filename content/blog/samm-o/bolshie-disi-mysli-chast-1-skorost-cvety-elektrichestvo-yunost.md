@@ -4,6 +4,11 @@
   "url": "/blog/samm-o/bolshie-disi-mysli-chast-1-skorost-cvety-elektrichestvo-yunost/",
   "original_url": "http://spidermedia.ru/blog/samm-o/bolshie-disi-mysli-chast-1-skorost-cvety-elektrichestvo-yunost",
   "archived": "https://web.archive.org/web/20190915012939/http://spidermedia.ru:80/blog/samm-o/bolshie-disi-mysli-chast-1-skorost-cvety-elektrichestvo-yunost",
+  "tags": [
+    "bdsm",
+    "dc-comics",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/comics/hellboy-classic-rusty-razorclam-president-of-neptune-and-others/",
   "original_url": "http://spidermedia.ru/comics/hellboy-classic-rusty-razorclam-president-of-neptune-and-others",
   "archived": "https://web.archive.org/web/20260306001621/http://spidermedia.ru/comics/hellboy-classic-rusty-razorclam-president-of-neptune-and-others",
+  "tags": [
+    "hellboymedia",
+    "obzor"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

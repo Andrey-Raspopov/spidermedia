@@ -4,6 +4,15 @@
   "url": "/news/borodatyy-grecheskiy-tor/",
   "original_url": "http://spidermedia.ru/news/borodatyy-grecheskiy-tor",
   "archived": "https://web.archive.org/web/20120608020449/http://spidermedia.ru/news/borodatyy-grecheskiy-tor",
+  "tags": [
+    "hercules",
+    "thor",
+    "gerkules",
+    "komiksy",
+    "marvel",
+    "oblozhki",
+    "tor"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

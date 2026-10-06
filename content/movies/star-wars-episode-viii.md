@@ -4,6 +4,10 @@
   "url": "/movies/star-wars-episode-viii/",
   "original_url": "http://spidermedia.ru/movies/star-wars-episode-viii",
   "archived": "https://web.archive.org/web/20250804003700/http://spidermedia.ru/movies/star-wars-episode-viii",
+  "tags": [
+    "disney",
+    "zvezdnye-vojny"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

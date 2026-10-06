@@ -4,6 +4,14 @@
   "url": "/news/fantastiki-vdvoe-bolshe/",
   "original_url": "http://spidermedia.ru/news/fantastiki-vdvoe-bolshe",
   "archived": "https://web.archive.org/web/20120607164014/http://spidermedia.ru/news/fantastiki-vdvoe-bolshe",
+  "tags": [
+    "fantastic-four",
+    "ff",
+    "jonathan-hickman",
+    "komiksy",
+    "marvel",
+    "fantasticheskaya-chetverka"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

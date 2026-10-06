@@ -4,6 +4,10 @@
   "url": "/news/edgar-rayt-ushel-s-posta-rezhissera-cheloveka-muravya/",
   "original_url": "http://spidermedia.ru/news/edgar-rayt-ushel-s-posta-rezhissera-cheloveka-muravya",
   "archived": "https://web.archive.org/web/20170910210621/http://spidermedia.ru:80/news/edgar-rayt-ushel-s-posta-rezhissera-cheloveka-muravya",
+  "tags": [
+    "ant-man",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

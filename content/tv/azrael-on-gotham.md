@@ -4,6 +4,10 @@
   "url": "/tv/azrael-on-gotham/",
   "original_url": "https://spidermedia.ru/tv/azrael-on-gotham",
   "archived": "https://web.archive.org/web/20250715215338/https://spidermedia.ru/tv/azrael-on-gotham",
+  "tags": [
+    "batman",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

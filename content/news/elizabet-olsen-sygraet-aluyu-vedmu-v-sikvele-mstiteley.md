@@ -4,6 +4,11 @@
   "url": "/news/elizabet-olsen-sygraet-aluyu-vedmu-v-sikvele-mstiteley/",
   "original_url": "https://spidermedia.ru/news/elizabet-olsen-sygraet-aluyu-vedmu-v-sikvele-mstiteley",
   "archived": "https://web.archive.org/web/20250807230443/https://spidermedia.ru/news/elizabet-olsen-sygraet-aluyu-vedmu-v-sikvele-mstiteley",
+  "tags": [
+    "marvel",
+    "avengers",
+    "scarlet-witch"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

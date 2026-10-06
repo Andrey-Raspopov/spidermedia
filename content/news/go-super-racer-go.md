@@ -4,6 +4,12 @@
   "url": "/news/go-super-racer-go/",
   "original_url": "http://spidermedia.ru/news/go-super-racer-go",
   "archived": "https://web.archive.org/web/20240518200117/http://spidermedia.ru/news/go-super-racer-go",
+  "tags": [
+    "sluhi",
+    "dzhejms-maktejg",
+    "superman",
+    "plastic-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

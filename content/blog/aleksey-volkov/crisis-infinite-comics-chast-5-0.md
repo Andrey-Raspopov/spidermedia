@@ -4,6 +4,9 @@
   "url": "/blog/aleksey-volkov/crisis-infinite-comics-chast-5-0/",
   "original_url": "http://spidermedia.ru/blog/aleksey-volkov/crisis-infinite-comics-chast-5-0",
   "archived": "https://web.archive.org/web/20210303074359/http://spidermedia.ru/blog/aleksey-volkov/crisis-infinite-comics-chast-5-0",
+  "tags": [
+    "istoriya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

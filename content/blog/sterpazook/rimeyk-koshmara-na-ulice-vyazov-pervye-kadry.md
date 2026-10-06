@@ -4,6 +4,14 @@
   "url": "/blog/sterpazook/rimeyk-koshmara-na-ulice-vyazov-pervye-kadry/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/rimeyk-koshmara-na-ulice-vyazov-pervye-kadry",
   "archived": "https://web.archive.org/web/20120608121552/http://spidermedia.ru/blog/sterpazook/rimeyk-koshmara-na-ulice-vyazov-pervye-kadry",
+  "tags": [
+    "freddy-krueger",
+    "nightmare-elm-street",
+    "kino",
+    "koshmar-na-ulice-vyazov",
+    "foto",
+    "freddi-kryuger"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

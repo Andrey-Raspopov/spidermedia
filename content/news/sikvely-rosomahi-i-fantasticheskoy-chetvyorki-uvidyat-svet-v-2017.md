@@ -4,6 +4,10 @@
   "url": "/news/sikvely-rosomahi-i-fantasticheskoy-chetvyorki-uvidyat-svet-v-2017/",
   "original_url": "https://spidermedia.ru/news/sikvely-rosomahi-i-fantasticheskoy-chetvyorki-uvidyat-svet-v-2017",
   "archived": "https://web.archive.org/web/20250316171648/https://spidermedia.ru/news/sikvely-rosomahi-i-fantasticheskoy-chetvyorki-uvidyat-svet-v-2017",
+  "tags": [
+    "fantastic-four",
+    "wolverine"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

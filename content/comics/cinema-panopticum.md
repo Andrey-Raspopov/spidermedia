@@ -4,6 +4,9 @@
   "url": "/comics/cinema-panopticum/",
   "original_url": "http://spidermedia.ru/comics/cinema-panopticum",
   "archived": "https://web.archive.org/web/20220314075431/http://spidermedia.ru/comics/cinema-panopticum",
+  "tags": [
+    "bande-dessinée"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

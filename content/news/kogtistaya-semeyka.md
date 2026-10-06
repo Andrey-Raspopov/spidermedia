@@ -4,6 +4,13 @@
   "url": "/news/kogtistaya-semeyka/",
   "original_url": "http://spidermedia.ru/news/kogtistaya-semeyka",
   "archived": "https://web.archive.org/web/20260214130222/http://spidermedia.ru/news/kogtistaya-semeyka",
+  "tags": [
+    "x-23",
+    "daken",
+    "x-men",
+    "wolverine",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

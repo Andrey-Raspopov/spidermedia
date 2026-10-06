@@ -4,6 +4,10 @@
   "url": "/blog/gess/jennifer-grunwald-naprimer/",
   "original_url": "http://spidermedia.ru/blog/gess/jennifer-grunwald-naprimer",
   "archived": "https://web.archive.org/web/20120609000710/http://spidermedia.ru/blog/gess/jennifer-grunwald-naprimer",
+  "tags": [
+    "dzhon-kessedi",
+    "redaktory"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

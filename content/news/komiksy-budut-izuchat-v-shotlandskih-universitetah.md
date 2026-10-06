@@ -4,6 +4,11 @@
   "url": "/news/komiksy-budut-izuchat-v-shotlandskih-universitetah/",
   "original_url": "http://spidermedia.ru/news/komiksy-budut-izuchat-v-shotlandskih-universitetah",
   "archived": "https://web.archive.org/web/20120608214516/http://spidermedia.ru/news/komiksy-budut-izuchat-v-shotlandskih-universitetah",
+  "tags": [
+    "industriya",
+    "komiksy",
+    "kultura"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

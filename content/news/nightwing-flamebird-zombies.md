@@ -4,6 +4,13 @@
   "url": "/news/nightwing-flamebird-zombies/",
   "original_url": "http://spidermedia.ru/news/nightwing-flamebird-zombies",
   "archived": "https://web.archive.org/web/20251207090743/http://spidermedia.ru/news/nightwing-flamebird-zombies",
+  "tags": [
+    "robert-kirkman",
+    "greg-rakka",
+    "the-walking-dead",
+    "image-comics",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

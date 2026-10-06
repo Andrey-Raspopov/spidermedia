@@ -4,6 +4,14 @@
   "url": "/news/sekrety-detektiva/",
   "original_url": "https://spidermedia.ru/news/sekrety-detektiva",
   "archived": "https://web.archive.org/web/20260115051626/https://spidermedia.ru/news/sekrety-detektiva",
+  "tags": [
+    "dc-comics",
+    "preview",
+    "betvuman",
+    "greg-rakka",
+    "art-0",
+    "uilyams-iii"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

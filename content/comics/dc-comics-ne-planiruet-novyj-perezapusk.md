@@ -4,6 +4,12 @@
   "url": "/comics/dc-comics-ne-planiruet-novyj-perezapusk/",
   "original_url": "http://spidermedia.ru/comics/dc-comics-ne-planiruet-novyj-perezapusk",
   "archived": "https://web.archive.org/web/20260211184736/http://spidermedia.ru/comics/dc-comics-ne-planiruet-novyj-perezapusk",
+  "tags": [
+    "dc-comics",
+    "geoff-johns",
+    "dan-didio",
+    "ethan-van-sciver"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

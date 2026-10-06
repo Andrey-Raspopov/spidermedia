@@ -4,6 +4,11 @@
   "url": "/blog/naya/line/",
   "original_url": "http://spidermedia.ru/blog/naya/line",
   "archived": "https://web.archive.org/web/20120612230417/http://spidermedia.ru/blog/naya/line",
+  "tags": [
+    "manga",
+    "mystery",
+    "skachat"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

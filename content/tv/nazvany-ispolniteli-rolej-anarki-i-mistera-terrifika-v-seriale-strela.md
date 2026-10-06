@@ -4,6 +4,10 @@
   "url": "/tv/nazvany-ispolniteli-rolej-anarki-i-mistera-terrifika-v-seriale-strela/",
   "original_url": "https://spidermedia.ru/tv/nazvany-ispolniteli-rolej-anarki-i-mistera-terrifika-v-seriale-strela",
   "archived": "https://web.archive.org/web/20260209104606/https://spidermedia.ru/tv/nazvany-ispolniteli-rolej-anarki-i-mistera-terrifika-v-seriale-strela",
+  "tags": [
+    "dc-comics",
+    "kasting"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

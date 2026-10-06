@@ -4,6 +4,10 @@
   "url": "/news/hraniteli-istoriya-chernoy-shhuny-na-dvd/",
   "original_url": "http://spidermedia.ru/news/hraniteli-istoriya-chernoy-shhuny-na-dvd",
   "archived": "https://web.archive.org/web/20251106232817/http://spidermedia.ru/news/hraniteli-istoriya-chernoy-shhuny-na-dvd",
+  "tags": [
+    "anime",
+    "hraniteli"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

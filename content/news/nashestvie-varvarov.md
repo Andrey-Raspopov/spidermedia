@@ -4,6 +4,21 @@
   "url": "/news/nashestvie-varvarov/",
   "original_url": "https://spidermedia.ru/news/nashestvie-varvarov",
   "archived": "https://web.archive.org/web/20260123081116/https://spidermedia.ru/news/nashestvie-varvarov",
+  "tags": [
+    "shon-gordon-merfi",
+    "fabio-mun",
+    "peter-milligan",
+    "piter-beg",
+    "dzhejms-romberger",
+    "grant-morrison",
+    "gabriel-ba",
+    "vertigo-crime",
+    "vertigo",
+    "the-bronx-kill",
+    "other-lives",
+    "joe-the-barbarian",
+    "daytripper"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

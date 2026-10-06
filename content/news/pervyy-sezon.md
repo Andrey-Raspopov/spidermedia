@@ -4,6 +4,16 @@
   "url": "/news/pervyy-sezon/",
   "original_url": "https://spidermedia.ru/news/pervyy-sezon",
   "archived": "https://web.archive.org/web/20260309180036/https://spidermedia.ru/news/pervyy-sezon",
+  "tags": [
+    "spider-man",
+    "fantastic-four",
+    "preview",
+    "x-men",
+    "dardevil",
+    "art-0",
+    "season-one",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

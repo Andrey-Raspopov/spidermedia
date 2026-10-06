@@ -4,6 +4,11 @@
   "url": "/news/premiya-saturn-obyavila-nominantov/",
   "original_url": "http://spidermedia.ru/news/premiya-saturn-obyavila-nominantov",
   "archived": "https://web.archive.org/web/20251012181127/http://spidermedia.ru/news/premiya-saturn-obyavila-nominantov",
+  "tags": [
+    "saturn",
+    "nagrady",
+    "serialy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

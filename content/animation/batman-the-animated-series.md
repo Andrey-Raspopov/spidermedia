@@ -4,6 +4,11 @@
   "url": "/animation/batman-the-animated-series/",
   "original_url": "http://spidermedia.ru/animation/batman-the-animated-series",
   "archived": "https://web.archive.org/web/20260208202933/http://spidermedia.ru/animation/batman-the-animated-series",
+  "tags": [
+    "dc-comics",
+    "batman",
+    "batman-week"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

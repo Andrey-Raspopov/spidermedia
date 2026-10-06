@@ -4,6 +4,13 @@
   "url": "/news/ot-dzheysona-k-dzheysonu/",
   "original_url": "http://spidermedia.ru/news/ot-dzheysona-k-dzheysonu",
   "archived": "https://web.archive.org/web/20241109072917/http://spidermedia.ru/news/ot-dzheysona-k-dzheysonu",
+  "tags": [
+    "marvel",
+    "x-men",
+    "wolverine",
+    "mahmud-asrar",
+    "dzhejson-latur"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/news/superbog/",
   "original_url": "http://spidermedia.ru/news/superbog",
   "archived": "https://web.archive.org/web/20260215075037/http://spidermedia.ru/news/superbog",
+  "tags": [
+    "warren-ellis",
+    "supergod",
+    "superbog"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

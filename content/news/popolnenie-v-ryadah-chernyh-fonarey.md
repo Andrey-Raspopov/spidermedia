@@ -4,6 +4,14 @@
   "url": "/news/popolnenie-v-ryadah-chernyh-fonarey/",
   "original_url": "http://spidermedia.ru/news/popolnenie-v-ryadah-chernyh-fonarey",
   "archived": "https://web.archive.org/web/20150501152918/http://spidermedia.ru/news/popolnenie-v-ryadah-chernyh-fonarey",
+  "tags": [
+    "dc-comics",
+    "itan-van-skajver",
+    "blackest-night",
+    "art-0",
+    "temnejshaya-noch",
+    "ethan-van-sciver"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

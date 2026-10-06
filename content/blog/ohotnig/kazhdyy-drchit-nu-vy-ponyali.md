@@ -4,6 +4,10 @@
   "url": "/blog/ohotnig/kazhdyy-drchit-nu-vy-ponyali/",
   "original_url": "http://spidermedia.ru/blog/ohotnig/kazhdyy-drchit-nu-vy-ponyali",
   "archived": "https://web.archive.org/web/20111019182706/http://spidermedia.ru/blog/ohotnig/kazhdyy-drchit-nu-vy-ponyali",
+  "tags": [
+    "dark-hose",
+    "hellboy-1"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

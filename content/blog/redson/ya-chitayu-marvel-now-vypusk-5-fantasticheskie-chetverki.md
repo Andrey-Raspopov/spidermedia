@@ -4,6 +4,14 @@
   "url": "/blog/redson/ya-chitayu-marvel-now-vypusk-5-fantasticheskie-chetverki/",
   "original_url": "https://spidermedia.ru/blog/redson/ya-chitayu-marvel-now-vypusk-5-fantasticheskie-chetverki",
   "archived": "https://web.archive.org/web/20260211092425/https://spidermedia.ru/blog/redson/ya-chitayu-marvel-now-vypusk-5-fantasticheskie-chetverki",
+  "tags": [
+    "fantastic-four",
+    "matt-fraction",
+    "mnenie",
+    "mark-bagli",
+    "majkl-ollred",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,14 @@
   "url": "/news/sdcc10-hasbro-tor-i-pervyy-mstitel-kapitan-amerika/",
   "original_url": "https://spidermedia.ru/news/sdcc10-hasbro-tor-i-pervyy-mstitel-kapitan-amerika",
   "archived": "https://web.archive.org/web/20251110222258/https://spidermedia.ru/news/sdcc10-hasbro-tor-i-pervyy-mstitel-kapitan-amerika",
+  "tags": [
+    "figurki",
+    "san-diego-comic-con-international",
+    "thor",
+    "marvel",
+    "hasbro",
+    "captain-america"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

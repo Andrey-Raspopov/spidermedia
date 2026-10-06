@@ -4,6 +4,11 @@
   "url": "/news/brayan-maykl-bendis-pokidaet-lyudey-iks/",
   "original_url": "https://spidermedia.ru/news/brayan-maykl-bendis-pokidaet-lyudey-iks",
   "archived": "https://web.archive.org/web/20250913020407/https://spidermedia.ru/news/brayan-maykl-bendis-pokidaet-lyudey-iks",
+  "tags": [
+    "x-men",
+    "marvel",
+    "brian-michael-bendis"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

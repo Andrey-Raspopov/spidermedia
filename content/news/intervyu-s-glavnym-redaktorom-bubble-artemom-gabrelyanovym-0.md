@@ -4,6 +4,12 @@
   "url": "/news/intervyu-s-glavnym-redaktorom-bubble-artemom-gabrelyanovym-0/",
   "original_url": "https://spidermedia.ru/news/intervyu-s-glavnym-redaktorom-bubble-artemom-gabrelyanovym-0",
   "archived": "https://web.archive.org/web/20250807005556/https://spidermedia.ru/news/intervyu-s-glavnym-redaktorom-bubble-artemom-gabrelyanovym-0",
+  "tags": [
+    "bubble",
+    "artem-gabrelyanov",
+    "intervyu",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

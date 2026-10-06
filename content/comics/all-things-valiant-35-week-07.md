@@ -4,6 +4,9 @@
   "url": "/comics/all-things-valiant-35-week-07/",
   "original_url": "https://spidermedia.ru/comics/all-things-valiant-35-week-07",
   "archived": "https://web.archive.org/web/20260125062328/https://spidermedia.ru/comics/all-things-valiant-35-week-07",
+  "tags": [
+    "valiant-entertainment"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/news/ramki-i-oblozhki/",
   "original_url": "http://spidermedia.ru/news/ramki-i-oblozhki",
   "archived": "https://web.archive.org/web/20120718105943/http://spidermedia.ru/news/ramki-i-oblozhki",
+  "tags": [
+    "art-0",
+    "komiksy",
+    "marvel",
+    "oblozhki"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

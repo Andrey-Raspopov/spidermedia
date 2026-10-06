@@ -4,6 +4,15 @@
   "url": "/news/kto-agent-kto-mstitel/",
   "original_url": "http://spidermedia.ru/news/kto-agent-kto-mstitel",
   "archived": "https://web.archive.org/web/20260211185113/http://spidermedia.ru/news/kto-agent-kto-mstitel",
+  "tags": [
+    "marvel",
+    "agenty-atlasa",
+    "dzheff-parker",
+    "new-avengers",
+    "avengers",
+    "billi-tan",
+    "karlo-pagulayan"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

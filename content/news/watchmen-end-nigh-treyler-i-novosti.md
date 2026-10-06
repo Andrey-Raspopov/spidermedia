@@ -4,6 +4,15 @@
   "url": "/news/watchmen-end-nigh-treyler-i-novosti/",
   "original_url": "http://spidermedia.ru/news/watchmen-end-nigh-treyler-i-novosti",
   "archived": "https://web.archive.org/web/20260211101744/http://spidermedia.ru/news/watchmen-end-nigh-treyler-i-novosti",
+  "tags": [
+    "hraniteli",
+    "rorschach",
+    "nite-owl",
+    "igry",
+    "trejlery",
+    "rorshah",
+    "nochnoj-filin"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

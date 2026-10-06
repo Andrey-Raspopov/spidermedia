@@ -4,6 +4,12 @@
   "url": "/news/marvel-sobiraet-zhenskuyu-komandu-mstiteley/",
   "original_url": "http://spidermedia.ru/news/marvel-sobiraet-zhenskuyu-komandu-mstiteley",
   "archived": "https://web.archive.org/web/20190916234520/http://spidermedia.ru:80/news/marvel-sobiraet-zhenskuyu-komandu-mstiteley",
+  "tags": [
+    "marvel",
+    "avengers",
+    "margerit-bennett",
+    "dzhi-uillou-uilson"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/blog/qvall/log-0004-pizzeria-kamikaze/",
   "original_url": "http://spidermedia.ru/blog/qvall/log-0004-pizzeria-kamikaze",
   "archived": "https://web.archive.org/web/20200131103925/http://spidermedia.ru:80/blog/qvall/log-0004-pizzeria-kamikaze",
+  "tags": [
+    "independent-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

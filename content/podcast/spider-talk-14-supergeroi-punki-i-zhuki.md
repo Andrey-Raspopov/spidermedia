@@ -4,6 +4,9 @@
   "url": "/podcast/spider-talk-14-supergeroi-punki-i-zhuki/",
   "original_url": "http://spidermedia.ru/podcast/spider-talk-14-supergeroi-punki-i-zhuki",
   "archived": "https://web.archive.org/web/20260206214923/http://spidermedia.ru/podcast/spider-talk-14-supergeroi-punki-i-zhuki",
+  "tags": [
+    "spider-talk"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

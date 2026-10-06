@@ -4,6 +4,15 @@
   "url": "/news/konec-ultimate-universe/",
   "original_url": "http://spidermedia.ru/news/konec-ultimate-universe",
   "archived": "https://web.archive.org/web/20250419050301/http://spidermedia.ru/news/konec-ultimate-universe",
+  "tags": [
+    "wolverine",
+    "ultimate",
+    "nycc-2009",
+    "hulk",
+    "spider-man",
+    "she-hulk",
+    "x-men"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

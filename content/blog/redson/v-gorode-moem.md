@@ -4,6 +4,11 @@
   "url": "/blog/redson/v-gorode-moem/",
   "original_url": "http://spidermedia.ru/blog/redson/v-gorode-moem",
   "archived": "https://web.archive.org/web/20190929142539/http://spidermedia.ru:80/blog/redson/v-gorode-moem",
+  "tags": [
+    "art-0",
+    "bande-dessinée",
+    "vneshnij-mir"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

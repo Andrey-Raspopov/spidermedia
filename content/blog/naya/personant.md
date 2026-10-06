@@ -4,6 +4,12 @@
   "url": "/blog/naya/personant/",
   "original_url": "http://spidermedia.ru/blog/naya/personant",
   "archived": "https://web.archive.org/web/20120607131341/http://spidermedia.ru/blog/naya/personant",
+  "tags": [
+    "manga",
+    "one-shot",
+    "sci-fi",
+    "skachat"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

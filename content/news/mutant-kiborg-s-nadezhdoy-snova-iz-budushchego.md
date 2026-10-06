@@ -4,6 +4,17 @@
   "url": "/news/mutant-kiborg-s-nadezhdoy-snova-iz-budushchego/",
   "original_url": "https://spidermedia.ru/news/mutant-kiborg-s-nadezhdoy-snova-iz-budushchego",
   "archived": "https://web.archive.org/web/20260214142159/https://spidermedia.ru/news/mutant-kiborg-s-nadezhdoy-snova-iz-budushchego",
+  "tags": [
+    "steve-dillon",
+    "nadezhda",
+    "kejbl",
+    "duejn-sverchinski",
+    "art-0",
+    "x-men",
+    "marvel",
+    "hope",
+    "cable"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

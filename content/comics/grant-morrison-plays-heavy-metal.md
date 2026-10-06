@@ -4,6 +4,10 @@
   "url": "/comics/grant-morrison-plays-heavy-metal/",
   "original_url": "http://spidermedia.ru/comics/grant-morrison-plays-heavy-metal",
   "archived": "https://web.archive.org/web/20250807230540/http://spidermedia.ru/comics/grant-morrison-plays-heavy-metal",
+  "tags": [
+    "heavy-metal",
+    "grant-morrison"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,13 @@
   "url": "/news/its-bird-its-plane-its-henry-cavill/",
   "original_url": "https://spidermedia.ru/news/its-bird-its-plane-its-henry-cavill",
   "archived": "https://web.archive.org/web/20260215072718/https://spidermedia.ru/news/its-bird-its-plane-its-henry-cavill",
+  "tags": [
+    "superman",
+    "zack-snyder",
+    "dc-comics",
+    "genri-kevill",
+    "henry-cavill"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

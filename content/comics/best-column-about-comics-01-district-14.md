@@ -4,6 +4,10 @@
   "url": "/comics/best-column-about-comics-01-district-14/",
   "original_url": "https://spidermedia.ru/comics/best-column-about-comics-01-district-14",
   "archived": "https://web.archive.org/web/20260120155056/https://spidermedia.ru/comics/best-column-about-comics-01-district-14",
+  "tags": [
+    "mnenie",
+    "best-column-about-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,13 @@
   "url": "/news/spidermedia-wolverine-100-project/",
   "original_url": "http://spidermedia.ru/news/spidermedia-wolverine-100-project",
   "archived": "https://web.archive.org/web/20250906073252/http://spidermedia.ru/news/spidermedia-wolverine-100-project",
+  "tags": [
+    "fanart",
+    "wolverine",
+    "marvel",
+    "100-project",
+    "challenge"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

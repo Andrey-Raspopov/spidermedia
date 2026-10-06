@@ -4,6 +4,11 @@
   "url": "/comics/robin-war/",
   "original_url": "http://spidermedia.ru/comics/robin-war",
   "archived": "https://web.archive.org/web/20250807224602/http://spidermedia.ru/comics/robin-war",
+  "tags": [
+    "dc-comics",
+    "san-diego-comic-con-international",
+    "robin"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

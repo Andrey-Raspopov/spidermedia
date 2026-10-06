@@ -4,6 +4,10 @@
   "url": "/comics/best-column-about-comics-33-killing-and-dying/",
   "original_url": "https://spidermedia.ru/comics/best-column-about-comics-33-killing-and-dying",
   "archived": "https://web.archive.org/web/20260215081320/https://spidermedia.ru/comics/best-column-about-comics-33-killing-and-dying",
+  "tags": [
+    "best-column-about-comics",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

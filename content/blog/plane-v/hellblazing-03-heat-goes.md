@@ -4,6 +4,12 @@
   "url": "/blog/plane-v/hellblazing-03-heat-goes/",
   "original_url": "https://spidermedia.ru/blog/plane-v/hellblazing-03-heat-goes",
   "archived": "https://web.archive.org/web/20251211024703/https://spidermedia.ru/blog/plane-v/hellblazing-03-heat-goes",
+  "tags": [
+    "shon-fillips",
+    "dzhejmi-delano",
+    "hellblazing",
+    "hellblazer"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

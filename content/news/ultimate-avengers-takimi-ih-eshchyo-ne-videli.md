@@ -4,6 +4,13 @@
   "url": "/news/ultimate-avengers-takimi-ih-eshchyo-ne-videli/",
   "original_url": "http://spidermedia.ru/news/ultimate-avengers-takimi-ih-eshchyo-ne-videli",
   "archived": "https://web.archive.org/web/20120718063114/http://spidermedia.ru/news/ultimate-avengers-takimi-ih-eshchyo-ne-videli",
+  "tags": [
+    "ultimate",
+    "komiksy",
+    "marvel",
+    "mark-millar",
+    "mstiteli"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

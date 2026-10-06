@@ -4,6 +4,11 @@
   "url": "/news/avengers-earths-mightiest-heroes/",
   "original_url": "http://spidermedia.ru/news/avengers-earths-mightiest-heroes",
   "archived": "https://web.archive.org/web/20220629011651/http://spidermedia.ru/news/avengers-earths-mightiest-heroes",
+  "tags": [
+    "marvel",
+    "avengers",
+    "ant-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

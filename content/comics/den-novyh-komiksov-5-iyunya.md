@@ -4,6 +4,9 @@
   "url": "/comics/den-novyh-komiksov-5-iyunya/",
   "original_url": "http://spidermedia.ru/comics/den-novyh-komiksov-5-iyunya",
   "archived": "https://web.archive.org/web/20190914073528/http://spidermedia.ru:80/comics/den-novyh-komiksov-5-iyunya",
+  "tags": [
+    "den-novyh-komiksov"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

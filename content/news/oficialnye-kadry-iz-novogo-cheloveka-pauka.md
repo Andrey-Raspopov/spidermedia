@@ -4,6 +4,10 @@
   "url": "/news/oficialnye-kadry-iz-novogo-cheloveka-pauka/",
   "original_url": "http://spidermedia.ru/news/oficialnye-kadry-iz-novogo-cheloveka-pauka",
   "archived": "https://web.archive.org/web/20251014043415/http://spidermedia.ru/news/oficialnye-kadry-iz-novogo-cheloveka-pauka",
+  "tags": [
+    "spider-man",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

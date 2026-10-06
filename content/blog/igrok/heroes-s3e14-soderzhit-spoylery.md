@@ -4,6 +4,12 @@
   "url": "/blog/igrok/heroes-s3e14-soderzhit-spoylery/",
   "original_url": "https://spidermedia.ru/blog/igrok/heroes-s3e14-soderzhit-spoylery",
   "archived": "https://web.archive.org/web/20241205035613/https://spidermedia.ru/blog/igrok/heroes-s3e14-soderzhit-spoylery",
+  "tags": [
+    "mnenie",
+    "recenziya",
+    "heroes",
+    "serialy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

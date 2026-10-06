@@ -4,6 +4,12 @@
   "url": "/blog/silver/zhenatyy-piter-bendzhamin-parker/",
   "original_url": "http://spidermedia.ru/blog/silver/zhenatyy-piter-bendzhamin-parker",
   "archived": "https://web.archive.org/web/20260125070705/http://spidermedia.ru/blog/silver/zhenatyy-piter-bendzhamin-parker",
+  "tags": [
+    "sluhi",
+    "art-0",
+    "marvel",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

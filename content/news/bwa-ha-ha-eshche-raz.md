@@ -4,6 +4,16 @@
   "url": "/news/bwa-ha-ha-eshche-raz/",
   "original_url": "http://spidermedia.ru/news/bwa-ha-ha-eshche-raz",
   "archived": "https://web.archive.org/web/20240920173018/http://spidermedia.ru/news/bwa-ha-ha-eshche-raz",
+  "tags": [
+    "kit-giffen",
+    "toni-harris",
+    "blue-beetle",
+    "dzhej-em-demattej",
+    "dzhadd-vinnik",
+    "buster-gold",
+    "dc-comics",
+    "justice-league"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

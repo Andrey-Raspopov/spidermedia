@@ -4,6 +4,10 @@
   "url": "/comics/sharaz-de-review/",
   "original_url": "http://spidermedia.ru/comics/sharaz-de-review",
   "archived": "https://web.archive.org/web/20251006011027/http://spidermedia.ru/comics/sharaz-de-review",
+  "tags": [
+    "zangavar",
+    "zarubezhnye-komiksy-na-russkom"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

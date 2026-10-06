@@ -4,6 +4,12 @@
   "url": "/articles/manga-na-russkom-poveliteli-terniy-istari-komiks/",
   "original_url": "https://spidermedia.ru/articles/manga-na-russkom-poveliteli-terniy-istari-komiks",
   "archived": "https://web.archive.org/web/20251216111817/https://spidermedia.ru/articles/manga-na-russkom-poveliteli-terniy-istari-komiks",
+  "tags": [
+    "yudzi-ivahara",
+    "poveliteli-ternij",
+    "manga",
+    "istari-komiks"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

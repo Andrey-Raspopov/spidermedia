@@ -4,6 +4,12 @@
   "url": "/blog/sir-carnage/column-no-name-17-03-10-peachy-just-need-stop-some-waterproof-undies-and-im-all-set/",
   "original_url": "https://spidermedia.ru/blog/sir-carnage/column-no-name-17-03-10-peachy-just-need-stop-some-waterproof-undies-and-im-all-set",
   "archived": "https://web.archive.org/web/20250618124225/https://spidermedia.ru/blog/sir-carnage/column-no-name-17-03-10-peachy-just-need-stop-some-waterproof-undies-and-im-all-set",
+  "tags": [
+    "vertigo",
+    "marvel",
+    "dc-comics",
+    "the-column-with-no-name"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,13 @@
   "url": "/news/shadowland-epilog/",
   "original_url": "http://spidermedia.ru/news/shadowland-epilog",
   "archived": "https://web.archive.org/web/20251205122801/http://spidermedia.ru/news/shadowland-epilog",
+  "tags": [
+    "strana-tenej",
+    "dardevil",
+    "shadowland",
+    "marvel",
+    "daredevil"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/blog/redson/agenty-shchit-s02e01-10-mnenie-redakcii-0/",
   "original_url": "https://spidermedia.ru/blog/redson/agenty-shchit-s02e01-10-mnenie-redakcii-0",
   "archived": "https://web.archive.org/web/20260314082324/https://spidermedia.ru/blog/redson/agenty-shchit-s02e01-10-mnenie-redakcii-0",
+  "tags": [
+    "serialy",
+    "obzor",
+    "marvel",
+    "agenty-shhita"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

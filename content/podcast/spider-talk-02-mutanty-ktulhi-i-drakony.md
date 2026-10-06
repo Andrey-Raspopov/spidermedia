@@ -4,6 +4,9 @@
   "url": "/podcast/spider-talk-02-mutanty-ktulhi-i-drakony/",
   "original_url": "http://spidermedia.ru/podcast/spider-talk-02-mutanty-ktulhi-i-drakony",
   "archived": "https://web.archive.org/web/20260121002424/http://spidermedia.ru/podcast/spider-talk-02-mutanty-ktulhi-i-drakony",
+  "tags": [
+    "spider-talk"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

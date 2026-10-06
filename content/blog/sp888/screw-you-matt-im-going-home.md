@@ -4,6 +4,20 @@
   "url": "/blog/sp888/screw-you-matt-im-going-home/",
   "original_url": "http://spidermedia.ru/blog/sp888/screw-you-matt-im-going-home",
   "archived": "https://web.archive.org/web/20111018073321/http://spidermedia.ru/blog/sp888/screw-you-matt-im-going-home",
+  "tags": [
+    "angel",
+    "archargel",
+    "marvel",
+    "x-23",
+    "x-men",
+    "x-universe",
+    "angel-0",
+    "arhangel",
+    "iks-23",
+    "komiksy",
+    "mnenie",
+    "mett-frakshen"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

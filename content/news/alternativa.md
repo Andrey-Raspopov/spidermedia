@@ -4,6 +4,14 @@
   "url": "/news/alternativa/",
   "original_url": "http://spidermedia.ru/news/alternativa",
   "archived": "https://web.archive.org/web/20120512074237/http://spidermedia.ru/news/alternativa",
+  "tags": [
+    "utopia",
+    "war-kings",
+    "dzhey-li",
+    "komiksy",
+    "marvel",
+    "saymon-byanchi"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

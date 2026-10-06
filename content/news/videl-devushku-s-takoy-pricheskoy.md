@@ -4,6 +4,10 @@
   "url": "/news/videl-devushku-s-takoy-pricheskoy/",
   "original_url": "http://spidermedia.ru/news/videl-devushku-s-takoy-pricheskoy",
   "archived": "https://web.archive.org/web/20190924052656/http://spidermedia.ru:80/news/videl-devushku-s-takoy-pricheskoy",
+  "tags": [
+    "bryan-lee-o-malley",
+    "scott-pilgrim"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

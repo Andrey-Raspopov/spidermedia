@@ -4,6 +4,19 @@
   "url": "/news/nameless-unreasoning-unjustified-terror-panel-fear-itself-na-c2e2/",
   "original_url": "http://spidermedia.ru/news/nameless-unreasoning-unjustified-terror-panel-fear-itself-na-c2e2",
   "archived": "https://web.archive.org/web/20260120160314/http://spidermedia.ru/news/nameless-unreasoning-unjustified-terror-panel-fear-itself-na-c2e2",
+  "tags": [
+    "voploshhenie-straha",
+    "thor",
+    "stuart-immonen",
+    "odin",
+    "matt-fraction",
+    "iron-man",
+    "hulk",
+    "prizrachnyj-gonshhik",
+    "captain-america",
+    "brian-michael-bendis",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

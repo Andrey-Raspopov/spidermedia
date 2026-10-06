@@ -4,6 +4,12 @@
   "url": "/news/ya-vizhu-myortvyh-lyudey/",
   "original_url": "http://spidermedia.ru/news/ya-vizhu-myortvyh-lyudey",
   "archived": "https://web.archive.org/web/20260214135656/http://spidermedia.ru/news/ya-vizhu-myortvyh-lyudey",
+  "tags": [
+    "ditrih-smit",
+    "marvel",
+    "hercules",
+    "amadeus-cho"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

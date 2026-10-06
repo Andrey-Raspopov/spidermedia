@@ -4,6 +4,15 @@
   "url": "/news/prevyu-ultimate-wolverine-vs-hulk-5/",
   "original_url": "http://spidermedia.ru/news/prevyu-ultimate-wolverine-vs-hulk-5",
   "archived": "https://web.archive.org/web/20250909134438/http://spidermedia.ru/news/prevyu-ultimate-wolverine-vs-hulk-5",
+  "tags": [
+    "marvel",
+    "hulk",
+    "wolverine",
+    "ultimate",
+    "lejnil-frensis-yu",
+    "preview",
+    "dejmon-lindelof"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

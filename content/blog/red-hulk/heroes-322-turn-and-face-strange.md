@@ -4,6 +4,11 @@
   "url": "/blog/red-hulk/heroes-322-turn-and-face-strange/",
   "original_url": "http://spidermedia.ru/blog/red-hulk/heroes-322-turn-and-face-strange",
   "archived": "https://web.archive.org/web/20150507231410/http://spidermedia.ru/blog/red-hulk/heroes-322-turn-and-face-strange",
+  "tags": [
+    "mnenie",
+    "heroes",
+    "serialy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

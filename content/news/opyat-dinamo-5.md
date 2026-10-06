@@ -4,6 +4,10 @@
   "url": "/news/opyat-dinamo-5/",
   "original_url": "http://spidermedia.ru/news/opyat-dinamo-5",
   "archived": "https://web.archive.org/web/20250209115959/http://spidermedia.ru/news/opyat-dinamo-5",
+  "tags": [
+    "jay-faerber",
+    "image-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

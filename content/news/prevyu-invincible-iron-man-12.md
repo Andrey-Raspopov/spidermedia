@@ -4,6 +4,18 @@
   "url": "/news/prevyu-invincible-iron-man-12/",
   "original_url": "http://spidermedia.ru/news/prevyu-invincible-iron-man-12",
   "archived": "https://web.archive.org/web/20111018041013/http://spidermedia.ru/news/prevyu-invincible-iron-man-12",
+  "tags": [
+    "iron-man",
+    "iron-woman",
+    "marvel",
+    "namor",
+    "norman-osborn",
+    "zheleznaya-deva",
+    "zheleznyy-chelovek",
+    "komiksy",
+    "norman-ozborn",
+    "neymor"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

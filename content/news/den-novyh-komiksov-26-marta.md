@@ -4,6 +4,9 @@
   "url": "/news/den-novyh-komiksov-26-marta/",
   "original_url": "https://spidermedia.ru/news/den-novyh-komiksov-26-marta",
   "archived": "https://web.archive.org/web/20250512121903/https://spidermedia.ru/news/den-novyh-komiksov-26-marta",
+  "tags": [
+    "den-novyh-komiksov"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/comics/roskomnadzor-a-ya-syadu-v-kabriolet/",
   "original_url": "http://spidermedia.ru/comics/roskomnadzor-a-ya-syadu-v-kabriolet",
   "archived": "https://web.archive.org/web/20250814205457/http://spidermedia.ru/comics/roskomnadzor-a-ya-syadu-v-kabriolet",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "roskomnadzor",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

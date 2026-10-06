@@ -4,6 +4,13 @@
   "url": "/news/chudo-chelovek-i-ego-otomstiteli/",
   "original_url": "http://spidermedia.ru/news/chudo-chelovek-i-ego-otomstiteli",
   "archived": "https://web.archive.org/web/20230323041025/http://spidermedia.ru/news/chudo-chelovek-i-ego-otomstiteli",
+  "tags": [
+    "gabriele-dell-otto",
+    "brian-michael-bendis",
+    "art-0",
+    "marvel",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

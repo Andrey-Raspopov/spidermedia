@@ -4,6 +4,10 @@
   "url": "/blog/sir-carnage/strangers-paradise-vol1-3/",
   "original_url": "http://spidermedia.ru/blog/sir-carnage/strangers-paradise-vol1-3",
   "archived": "https://web.archive.org/web/20200131025905/http://spidermedia.ru:80/blog/sir-carnage/strangers-paradise-vol1-3",
+  "tags": [
+    "recenziya",
+    "terri-mur"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

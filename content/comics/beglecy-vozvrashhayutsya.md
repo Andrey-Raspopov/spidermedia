@@ -4,6 +4,10 @@
   "url": "/comics/beglecy-vozvrashhayutsya/",
   "original_url": "http://spidermedia.ru/comics/beglecy-vozvrashhayutsya",
   "archived": "https://web.archive.org/web/20250429005110/http://spidermedia.ru/comics/beglecy-vozvrashhayutsya",
+  "tags": [
+    "marvel",
+    "runaways"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

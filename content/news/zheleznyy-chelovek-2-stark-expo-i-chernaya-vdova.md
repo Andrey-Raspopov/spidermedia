@@ -4,6 +4,12 @@
   "url": "/news/zheleznyy-chelovek-2-stark-expo-i-chernaya-vdova/",
   "original_url": "http://spidermedia.ru/news/zheleznyy-chelovek-2-stark-expo-i-chernaya-vdova",
   "archived": "https://web.archive.org/web/20251211034143/http://spidermedia.ru/news/zheleznyy-chelovek-2-stark-expo-i-chernaya-vdova",
+  "tags": [
+    "postery",
+    "dzhon-favro",
+    "marvel",
+    "iron-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

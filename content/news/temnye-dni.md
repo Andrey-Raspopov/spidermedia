@@ -4,6 +4,13 @@
   "url": "/news/temnye-dni/",
   "original_url": "http://spidermedia.ru/news/temnye-dni",
   "archived": "https://web.archive.org/web/20190724150030/http://spidermedia.ru:80/news/temnye-dni",
+  "tags": [
+    "avengers",
+    "joe-kelly",
+    "amerikanskij-syn",
+    "marvel",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/news/sdcc10-marvel-studios-rukavica-beskonechnosti/",
   "original_url": "http://spidermedia.ru/news/sdcc10-marvel-studios-rukavica-beskonechnosti",
   "archived": "https://web.archive.org/web/20200223130136/http://spidermedia.ru:80/news/sdcc10-marvel-studios-rukavica-beskonechnosti",
+  "tags": [
+    "rukavica-beskonechnosti",
+    "san-diego-comic-con-international",
+    "marvel",
+    "infinity-gauntlet"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

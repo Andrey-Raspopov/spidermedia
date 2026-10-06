@@ -4,6 +4,12 @@
   "url": "/news/posledniy-snikt/",
   "original_url": "http://spidermedia.ru/news/posledniy-snikt",
   "archived": "https://web.archive.org/web/20251111082037/http://spidermedia.ru/news/posledniy-snikt",
+  "tags": [
+    "wolverine",
+    "marvel",
+    "stiv-makniven",
+    "charlz-soul"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

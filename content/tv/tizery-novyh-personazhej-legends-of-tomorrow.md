@@ -4,6 +4,9 @@
   "url": "/tv/tizery-novyh-personazhej-legends-of-tomorrow/",
   "original_url": "https://spidermedia.ru/tv/tizery-novyh-personazhej-legends-of-tomorrow",
   "archived": "https://web.archive.org/web/20260115055521/https://spidermedia.ru/tv/tizery-novyh-personazhej-legends-of-tomorrow",
+  "tags": [
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,13 @@
   "url": "/news/gorod-geroy/",
   "original_url": "http://spidermedia.ru/news/gorod-geroy",
   "archived": "https://web.archive.org/web/20150501155924/http://spidermedia.ru/news/gorod-geroy",
+  "tags": [
+    "kurt-byusik",
+    "brent-anderson",
+    "aleks-ross",
+    "dc-comics",
+    "astro-city"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

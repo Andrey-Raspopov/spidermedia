@@ -4,6 +4,11 @@
   "url": "/news/smert-mstitelyam/",
   "original_url": "http://spidermedia.ru/news/smert-mstitelyam",
   "archived": "https://web.archive.org/web/20250807004848/http://spidermedia.ru/news/smert-mstitelyam",
+  "tags": [
+    "tanos",
+    "thanos",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

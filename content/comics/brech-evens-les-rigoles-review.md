@@ -4,6 +4,9 @@
   "url": "/comics/brech-evens-les-rigoles-review/",
   "original_url": "http://spidermedia.ru/comics/brech-evens-les-rigoles-review",
   "archived": "https://web.archive.org/web/20250424094930/http://spidermedia.ru/comics/brech-evens-les-rigoles-review",
+  "tags": [
+    "boomkniga"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

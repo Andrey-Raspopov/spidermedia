@@ -4,6 +4,12 @@
   "url": "/blog/silver/ty-eshche-ne-v-nuare/",
   "original_url": "http://spidermedia.ru/blog/silver/ty-eshche-ne-v-nuare",
   "archived": "https://web.archive.org/web/20200217104541/http://spidermedia.ru:80/blog/silver/ty-eshche-ne-v-nuare",
+  "tags": [
+    "mysli",
+    "mnenie",
+    "noirverse",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

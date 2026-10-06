@@ -4,6 +4,10 @@
   "url": "/podcast/inferno-panels-03-different-history-of-the-world/",
   "original_url": "http://spidermedia.ru/podcast/inferno-panels-03-different-history-of-the-world",
   "archived": "https://web.archive.org/web/20260121004824/http://spidermedia.ru/podcast/inferno-panels-03-different-history-of-the-world",
+  "tags": [
+    "panels-of-x",
+    "on-panels"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

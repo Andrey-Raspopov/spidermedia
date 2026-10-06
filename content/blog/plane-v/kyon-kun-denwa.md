@@ -4,6 +4,9 @@
   "url": "/blog/plane-v/kyon-kun-denwa/",
   "original_url": "http://spidermedia.ru/blog/plane-v/kyon-kun-denwa",
   "archived": "https://web.archive.org/web/20161112213311/http://spidermedia.ru:80/blog/plane-v/kyon-kun-denwa",
+  "tags": [
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

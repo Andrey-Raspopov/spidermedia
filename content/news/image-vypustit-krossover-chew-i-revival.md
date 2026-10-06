@@ -4,6 +4,9 @@
   "url": "/news/image-vypustit-krossover-chew-i-revival/",
   "original_url": "https://spidermedia.ru/news/image-vypustit-krossover-chew-i-revival",
   "archived": "https://web.archive.org/web/20251107005820/https://spidermedia.ru/news/image-vypustit-krossover-chew-i-revival",
+  "tags": [
+    "image-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

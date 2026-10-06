@@ -4,6 +4,10 @@
   "url": "/comics/ongoing-dzhessiki-dzhons-startuet-v-oktyabre/",
   "original_url": "https://spidermedia.ru/comics/ongoing-dzhessiki-dzhons-startuet-v-oktyabre",
   "archived": "https://web.archive.org/web/20251211023440/https://spidermedia.ru/comics/ongoing-dzhessiki-dzhons-startuet-v-oktyabre",
+  "tags": [
+    "marvel",
+    "jessica-jones-alias"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

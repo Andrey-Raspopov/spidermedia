@@ -4,6 +4,11 @@
   "url": "/news/emu-75/",
   "original_url": "http://spidermedia.ru/news/emu-75",
   "archived": "https://web.archive.org/web/20160426232346/http://spidermedia.ru/news/emu-75",
+  "tags": [
+    "preview",
+    "top-cow",
+    "darkness"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

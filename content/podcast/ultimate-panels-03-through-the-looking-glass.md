@@ -4,6 +4,10 @@
   "url": "/podcast/ultimate-panels-03-through-the-looking-glass/",
   "original_url": "http://spidermedia.ru/podcast/ultimate-panels-03-through-the-looking-glass",
   "archived": "https://web.archive.org/web/20251208064654/http://spidermedia.ru/podcast/ultimate-panels-03-through-the-looking-glass",
+  "tags": [
+    "ultimate-panels",
+    "on-panels"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

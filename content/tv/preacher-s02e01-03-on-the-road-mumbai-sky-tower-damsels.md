@@ -4,6 +4,10 @@
   "url": "/tv/preacher-s02e01-03-on-the-road-mumbai-sky-tower-damsels/",
   "original_url": "http://spidermedia.ru/tv/preacher-s02e01-03-on-the-road-mumbai-sky-tower-damsels",
   "archived": "https://web.archive.org/web/20260208203811/http://spidermedia.ru/tv/preacher-s02e01-03-on-the-road-mumbai-sky-tower-damsels",
+  "tags": [
+    "vertigo",
+    "preacher"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

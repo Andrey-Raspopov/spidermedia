@@ -4,6 +4,10 @@
   "url": "/news/kostyum-zelenogo-fonarya/",
   "original_url": "http://spidermedia.ru/news/kostyum-zelenogo-fonarya",
   "archived": "https://web.archive.org/web/20200127174816/http://spidermedia.ru:80/news/kostyum-zelenogo-fonarya",
+  "tags": [
+    "green-lantern",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

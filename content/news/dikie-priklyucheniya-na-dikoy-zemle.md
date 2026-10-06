@@ -4,6 +4,14 @@
   "url": "/news/dikie-priklyucheniya-na-dikoy-zemle/",
   "original_url": "http://spidermedia.ru/news/dikie-priklyucheniya-na-dikoy-zemle",
   "archived": "https://web.archive.org/web/20251108191720/http://spidermedia.ru/news/dikie-priklyucheniya-na-dikoy-zemle",
+  "tags": [
+    "art-0",
+    "pol-dzhenkins",
+    "preview",
+    "marvel",
+    "ka-zar",
+    "paskal-eliks"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

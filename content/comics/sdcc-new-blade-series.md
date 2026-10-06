@@ -4,6 +4,10 @@
   "url": "/comics/sdcc-new-blade-series/",
   "original_url": "https://spidermedia.ru/comics/sdcc-new-blade-series",
   "archived": "https://web.archive.org/web/20251014045956/https://spidermedia.ru/comics/sdcc-new-blade-series",
+  "tags": [
+    "marvel",
+    "san-diego-comic-con-international"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

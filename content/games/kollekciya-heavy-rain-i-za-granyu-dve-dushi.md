@@ -4,6 +4,9 @@
   "url": "/games/kollekciya-heavy-rain-i-za-granyu-dve-dushi/",
   "original_url": "http://spidermedia.ru/games/kollekciya-heavy-rain-i-za-granyu-dve-dushi",
   "archived": "https://web.archive.org/web/20250618000716/http://spidermedia.ru/games/kollekciya-heavy-rain-i-za-granyu-dve-dushi",
+  "tags": [
+    "recenziya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

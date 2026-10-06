@@ -4,6 +4,12 @@
   "url": "/blog/redson/tsundere-comic-reviewer-episode-2-supremo-adventures-amitabh-bachchan/",
   "original_url": "http://spidermedia.ru/blog/redson/tsundere-comic-reviewer-episode-2-supremo-adventures-amitabh-bachchan",
   "archived": "https://web.archive.org/web/20120607194347/http://spidermedia.ru/blog/redson/tsundere-comic-reviewer-episode-2-supremo-adventures-amitabh-bachchan",
+  "tags": [
+    "tsundere-comic-reviewer",
+    "komiksy",
+    "recenziya",
+    "skachat"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

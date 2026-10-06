@@ -4,6 +4,10 @@
   "url": "/comics/horror-week-uzumaki/",
   "original_url": "http://spidermedia.ru/comics/horror-week-uzumaki",
   "archived": "https://web.archive.org/web/20251208075919/http://spidermedia.ru/comics/horror-week-uzumaki",
+  "tags": [
+    "manga",
+    "horror-week"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

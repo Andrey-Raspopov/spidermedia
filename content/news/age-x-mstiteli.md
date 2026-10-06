@@ -4,6 +4,15 @@
   "url": "/news/age-x-mstiteli/",
   "original_url": "http://spidermedia.ru/news/age-x-mstiteli",
   "archived": "https://web.archive.org/web/20260314081338/http://spidermedia.ru/news/age-x-mstiteli",
+  "tags": [
+    "marvel",
+    "x-men",
+    "art-0",
+    "khoj-fam",
+    "sajmon-spure",
+    "era-iks",
+    "sajmon-byanchi"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

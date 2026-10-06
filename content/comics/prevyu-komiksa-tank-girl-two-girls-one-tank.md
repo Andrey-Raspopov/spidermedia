@@ -4,6 +4,9 @@
   "url": "/comics/prevyu-komiksa-tank-girl-two-girls-one-tank/",
   "original_url": "http://spidermedia.ru/comics/prevyu-komiksa-tank-girl-two-girls-one-tank",
   "archived": "https://web.archive.org/web/20190907231159/http://spidermedia.ru:80/comics/prevyu-komiksa-tank-girl-two-girls-one-tank",
+  "tags": [
+    "titan-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

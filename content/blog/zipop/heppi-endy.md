@@ -4,6 +4,12 @@
   "url": "/blog/zipop/heppi-endy/",
   "original_url": "https://spidermedia.ru/blog/zipop/heppi-endy",
   "archived": "https://web.archive.org/web/20260115064638/https://spidermedia.ru/blog/zipop/heppi-endy",
+  "tags": [
+    "superman",
+    "star-wars",
+    "spider-man",
+    "yumor"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

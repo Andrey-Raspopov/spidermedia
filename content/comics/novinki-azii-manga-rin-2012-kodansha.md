@@ -4,6 +4,9 @@
   "url": "/comics/novinki-azii-manga-rin-2012-kodansha/",
   "original_url": "http://spidermedia.ru/comics/novinki-azii-manga-rin-2012-kodansha",
   "archived": "https://web.archive.org/web/20251115185858/http://spidermedia.ru/comics/novinki-azii-manga-rin-2012-kodansha",
+  "tags": [
+    "manga"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

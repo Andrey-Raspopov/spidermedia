@@ -4,6 +4,12 @@
   "url": "/blog/hella/roskomnadzor-muzyka-dlya-muzhika/",
   "original_url": "http://spidermedia.ru/blog/hella/roskomnadzor-muzyka-dlya-muzhika",
   "archived": "https://web.archive.org/web/20260115051421/http://spidermedia.ru/blog/hella/roskomnadzor-muzyka-dlya-muzhika",
+  "tags": [
+    "russian-comics",
+    "russkie-v-zarubezhnyh-komiksah",
+    "roskomnadzor",
+    "zarubezhnye-komiksy-na-russkom"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

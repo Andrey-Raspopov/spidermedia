@@ -4,6 +4,10 @@
   "url": "/news/dedpul-v-kino-teper-eto-realnost/",
   "original_url": "http://spidermedia.ru/news/dedpul-v-kino-teper-eto-realnost",
   "archived": "https://web.archive.org/web/20220813144004/http://spidermedia.ru/news/dedpul-v-kino-teper-eto-realnost",
+  "tags": [
+    "marvel",
+    "deadpool"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

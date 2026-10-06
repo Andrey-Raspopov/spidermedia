@@ -4,6 +4,12 @@
   "url": "/news/sweet-sweet-christmas/",
   "original_url": "http://spidermedia.ru/news/sweet-sweet-christmas",
   "archived": "https://web.archive.org/web/20200929214033/http://spidermedia.ru/news/sweet-sweet-christmas",
+  "tags": [
+    "den-panosyan",
+    "iron-fist",
+    "luke-cage",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

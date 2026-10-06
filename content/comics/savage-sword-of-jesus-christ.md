@@ -4,6 +4,10 @@
   "url": "/comics/savage-sword-of-jesus-christ/",
   "original_url": "http://spidermedia.ru/comics/savage-sword-of-jesus-christ",
   "archived": "https://web.archive.org/web/20250617231827/http://spidermedia.ru/comics/savage-sword-of-jesus-christ",
+  "tags": [
+    "heavy-metal",
+    "grant-morrison"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

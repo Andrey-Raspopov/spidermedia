@@ -4,6 +4,10 @@
   "url": "/movies/sdcc-2015-kino/",
   "original_url": "https://spidermedia.ru/movies/sdcc-2015-kino",
   "archived": "https://web.archive.org/web/20241104083300/https://spidermedia.ru/movies/sdcc-2015-kino",
+  "tags": [
+    "san-diego-comic-con-international",
+    "digest"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

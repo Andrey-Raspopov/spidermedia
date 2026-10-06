@@ -4,6 +4,11 @@
   "url": "/news/virusnye-sayty-banner-i-novye-tv-spoty-zelenogo-fonarya/",
   "original_url": "https://spidermedia.ru/news/virusnye-sayty-banner-i-novye-tv-spoty-zelenogo-fonarya",
   "archived": "https://web.archive.org/web/20260125045845/https://spidermedia.ru/news/virusnye-sayty-banner-i-novye-tv-spoty-zelenogo-fonarya",
+  "tags": [
+    "postery",
+    "green-lantern",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

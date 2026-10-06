@@ -4,6 +4,14 @@
   "url": "/news/bitva-v-samom-razgare/",
   "original_url": "https://spidermedia.ru/news/bitva-v-samom-razgare",
   "archived": "https://web.archive.org/web/20260313121119/https://spidermedia.ru/news/bitva-v-samom-razgare",
+  "tags": [
+    "dc-comics",
+    "batman",
+    "robin",
+    "nightwing",
+    "toni-deniel",
+    "najtving"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

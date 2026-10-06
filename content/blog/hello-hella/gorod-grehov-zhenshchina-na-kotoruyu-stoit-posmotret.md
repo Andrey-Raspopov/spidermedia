@@ -4,6 +4,12 @@
   "url": "/blog/hello-hella/gorod-grehov-zhenshchina-na-kotoruyu-stoit-posmotret/",
   "original_url": "http://spidermedia.ru/blog/hello-hella/gorod-grehov-zhenshchina-na-kotoruyu-stoit-posmotret",
   "archived": "https://web.archive.org/web/20250519181809/http://spidermedia.ru/blog/hello-hella/gorod-grehov-zhenshchina-na-kotoruyu-stoit-posmotret",
+  "tags": [
+    "frenk-miller",
+    "film",
+    "recenziya",
+    "sin-city"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

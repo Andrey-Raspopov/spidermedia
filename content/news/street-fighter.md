@@ -4,6 +4,17 @@
   "url": "/news/street-fighter/",
   "original_url": "https://spidermedia.ru/news/street-fighter",
   "archived": "https://web.archive.org/web/20260120153505/https://spidermedia.ru/news/street-fighter",
+  "tags": [
+    "entoni-dzhonston",
+    "shon-chen",
+    "marko-dzhurdzhevich",
+    "dardevil",
+    "billi-tan",
+    "art-0",
+    "marvel",
+    "luke-cage",
+    "daredevil"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

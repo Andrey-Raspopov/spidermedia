@@ -4,6 +4,10 @@
   "url": "/comics/best-column-about-comics-28-the-bulletproof-coffin/",
   "original_url": "https://spidermedia.ru/comics/best-column-about-comics-28-the-bulletproof-coffin",
   "archived": "https://web.archive.org/web/20260211180708/https://spidermedia.ru/comics/best-column-about-comics-28-the-bulletproof-coffin",
+  "tags": [
+    "best-column-about-comics",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

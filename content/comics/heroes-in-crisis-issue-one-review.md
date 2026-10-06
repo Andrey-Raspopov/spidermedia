@@ -4,6 +4,9 @@
   "url": "/comics/heroes-in-crisis-issue-one-review/",
   "original_url": "https://spidermedia.ru/comics/heroes-in-crisis-issue-one-review",
   "archived": "https://web.archive.org/web/20260309183058/https://spidermedia.ru/comics/heroes-in-crisis-issue-one-review",
+  "tags": [
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

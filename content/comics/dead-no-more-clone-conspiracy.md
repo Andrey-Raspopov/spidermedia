@@ -4,6 +4,10 @@
   "url": "/comics/dead-no-more-clone-conspiracy/",
   "original_url": "https://spidermedia.ru/comics/dead-no-more-clone-conspiracy",
   "archived": "https://web.archive.org/web/20241104080904/https://spidermedia.ru/comics/dead-no-more-clone-conspiracy",
+  "tags": [
+    "marvel",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

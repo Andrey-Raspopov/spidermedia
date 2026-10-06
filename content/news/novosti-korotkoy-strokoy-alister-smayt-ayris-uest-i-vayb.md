@@ -4,6 +4,11 @@
   "url": "/news/novosti-korotkoy-strokoy-alister-smayt-ayris-uest-i-vayb/",
   "original_url": "http://spidermedia.ru/news/novosti-korotkoy-strokoy-alister-smayt-ayris-uest-i-vayb",
   "archived": "https://web.archive.org/web/20260116223120/http://spidermedia.ru/news/novosti-korotkoy-strokoy-alister-smayt-ayris-uest-i-vayb",
+  "tags": [
+    "the-flash",
+    "spider-man",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

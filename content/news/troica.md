@@ -4,6 +4,13 @@
   "url": "/news/troica/",
   "original_url": "http://spidermedia.ru/news/troica",
   "archived": "https://web.archive.org/web/20260313113147/http://spidermedia.ru/news/troica",
+  "tags": [
+    "dzhef-loeb",
+    "avengers",
+    "ed-makginnes",
+    "art-0",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

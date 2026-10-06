@@ -4,6 +4,11 @@
   "url": "/news/pro-flesha-sdelayut-serial/",
   "original_url": "https://spidermedia.ru/news/pro-flesha-sdelayut-serial",
   "archived": "https://web.archive.org/web/20260125123947/https://spidermedia.ru/news/pro-flesha-sdelayut-serial",
+  "tags": [
+    "the-flash",
+    "serialy",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

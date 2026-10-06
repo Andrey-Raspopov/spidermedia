@@ -4,6 +4,12 @@
   "url": "/news/wednesday-woman/",
   "original_url": "https://spidermedia.ru/news/wednesday-woman",
   "archived": "https://web.archive.org/web/20241205044440/https://spidermedia.ru/news/wednesday-woman",
+  "tags": [
+    "dc-comics",
+    "wonder-woman",
+    "ben-keldvell",
+    "wednesday-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

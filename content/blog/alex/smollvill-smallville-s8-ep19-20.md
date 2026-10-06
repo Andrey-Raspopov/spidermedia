@@ -4,6 +4,13 @@
   "url": "/blog/alex/smollvill-smallville-s8-ep19-20/",
   "original_url": "https://spidermedia.ru/blog/alex/smollvill-smallville-s8-ep19-20",
   "archived": "https://web.archive.org/web/20251208072212/https://spidermedia.ru/blog/alex/smollvill-smallville-s8-ep19-20",
+  "tags": [
+    "smallville",
+    "serialy",
+    "superman",
+    "smollvill",
+    "tajny-smollvillya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/news/nervnaya-rabota/",
   "original_url": "http://spidermedia.ru/news/nervnaya-rabota",
   "archived": "https://web.archive.org/web/20230607023829/http://spidermedia.ru/news/nervnaya-rabota",
+  "tags": [
+    "majkl-ejvon-oeming",
+    "dark-horse"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

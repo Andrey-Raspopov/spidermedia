@@ -4,6 +4,11 @@
   "url": "/blog/igrok/rogues-guide-vse-chto-vam-nuzhno-znat-o-protivnikah-flesha-0/",
   "original_url": "http://spidermedia.ru/blog/igrok/rogues-guide-vse-chto-vam-nuzhno-znat-o-protivnikah-flesha-0",
   "archived": "https://web.archive.org/web/20260312014126/http://spidermedia.ru/blog/igrok/rogues-guide-vse-chto-vam-nuzhno-znat-o-protivnikah-flesha-0",
+  "tags": [
+    "the-flash",
+    "serialy",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

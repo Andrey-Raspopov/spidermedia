@@ -4,6 +4,16 @@
   "url": "/news/fevralskie-betmen-i-robin/",
   "original_url": "http://spidermedia.ru/news/fevralskie-betmen-i-robin",
   "archived": "https://web.archive.org/web/20251013185344/http://spidermedia.ru/news/fevralskie-betmen-i-robin",
+  "tags": [
+    "frenk-kuajtli",
+    "temnejshaya-noch",
+    "grant-morrison",
+    "betvuman",
+    "frank-quitely",
+    "dc-comics",
+    "blackest-night",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,15 @@
   "url": "/news/prevyu-betmen-lechebnica-arkhem/",
   "original_url": "http://spidermedia.ru/news/prevyu-betmen-lechebnica-arkhem",
   "archived": "https://web.archive.org/web/20260307060806/http://spidermedia.ru/news/prevyu-betmen-lechebnica-arkhem",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "batman",
+    "dc-comics",
+    "grant-morrison",
+    "art-0",
+    "dejv-makkin",
+    "komiks-art"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

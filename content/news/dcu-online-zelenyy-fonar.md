@@ -4,6 +4,12 @@
   "url": "/news/dcu-online-zelenyy-fonar/",
   "original_url": "http://spidermedia.ru/news/dcu-online-zelenyy-fonar",
   "archived": "https://web.archive.org/web/20260121012405/http://spidermedia.ru/news/dcu-online-zelenyy-fonar",
+  "tags": [
+    "solomon-grandi",
+    "lex-luthor",
+    "solomon-grundy",
+    "green-lantern"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

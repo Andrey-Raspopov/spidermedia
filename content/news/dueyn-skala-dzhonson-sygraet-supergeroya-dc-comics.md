@@ -4,6 +4,10 @@
   "url": "/news/dueyn-skala-dzhonson-sygraet-supergeroya-dc-comics/",
   "original_url": "http://spidermedia.ru/news/dueyn-skala-dzhonson-sygraet-supergeroya-dc-comics",
   "archived": "https://web.archive.org/web/20190923111855/http://spidermedia.ru/news/dueyn-skala-dzhonson-sygraet-supergeroya-dc-comics",
+  "tags": [
+    "shazam",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

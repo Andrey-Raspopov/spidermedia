@@ -4,6 +4,14 @@
   "url": "/news/tiho/",
   "original_url": "http://spidermedia.ru/news/tiho",
   "archived": "https://web.archive.org/web/20250512121516/http://spidermedia.ru/news/tiho",
+  "tags": [
+    "batman",
+    "zarubezhnye-komiksy-na-russkom",
+    "art-0",
+    "dc-comics",
+    "dzhef-loeb",
+    "jim-lee"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

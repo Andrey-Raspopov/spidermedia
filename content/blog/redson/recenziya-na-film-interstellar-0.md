@@ -4,6 +4,9 @@
   "url": "/blog/redson/recenziya-na-film-interstellar-0/",
   "original_url": "http://spidermedia.ru/blog/redson/recenziya-na-film-interstellar-0",
   "archived": "https://web.archive.org/web/20190911050737/http://spidermedia.ru:80/blog/redson/recenziya-na-film-interstellar-0",
+  "tags": [
+    "obzor"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

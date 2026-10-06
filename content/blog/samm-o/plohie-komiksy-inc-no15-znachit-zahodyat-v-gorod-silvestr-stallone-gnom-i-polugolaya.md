@@ -4,6 +4,11 @@
   "url": "/blog/samm-o/plohie-komiksy-inc-no15-znachit-zahodyat-v-gorod-silvestr-stallone-gnom-i-polugolaya/",
   "original_url": "http://spidermedia.ru/blog/samm-o/plohie-komiksy-inc-no15-znachit-zahodyat-v-gorod-silvestr-stallone-gnom-i-polugolaya",
   "archived": "https://web.archive.org/web/20120608192902/http://spidermedia.ru/blog/samm-o/plohie-komiksy-inc-no15-znachit-zahodyat-v-gorod-silvestr-stallone-gnom-i-polugolaya",
+  "tags": [
+    "zenescope-entertainment",
+    "komiksy",
+    "plohie-komiksy-inc"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

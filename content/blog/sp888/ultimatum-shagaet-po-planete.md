@@ -4,6 +4,13 @@
   "url": "/blog/sp888/ultimatum-shagaet-po-planete/",
   "original_url": "http://spidermedia.ru/blog/sp888/ultimatum-shagaet-po-planete",
   "archived": "https://web.archive.org/web/20111026012847/http://spidermedia.ru/blog/sp888/ultimatum-shagaet-po-planete",
+  "tags": [
+    "marvel",
+    "ultimate",
+    "ultimatum",
+    "dzhef-loeb",
+    "komiksy"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

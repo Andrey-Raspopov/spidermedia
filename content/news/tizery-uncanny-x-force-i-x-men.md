@@ -4,6 +4,11 @@
   "url": "/news/tizery-uncanny-x-force-i-x-men/",
   "original_url": "http://spidermedia.ru/news/tizery-uncanny-x-force-i-x-men",
   "archived": "https://web.archive.org/web/20260211180633/http://spidermedia.ru/news/tizery-uncanny-x-force-i-x-men",
+  "tags": [
+    "marvel",
+    "x-men",
+    "x-force"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

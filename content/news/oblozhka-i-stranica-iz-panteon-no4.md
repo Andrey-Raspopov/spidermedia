@@ -4,6 +4,11 @@
   "url": "/news/oblozhka-i-stranica-iz-panteon-no4/",
   "original_url": "http://spidermedia.ru/news/oblozhka-i-stranica-iz-panteon-no4",
   "archived": "https://web.archive.org/web/20251216173001/http://spidermedia.ru/news/oblozhka-i-stranica-iz-panteon-no4",
+  "tags": [
+    "russian-comics",
+    "belyj-edinorog",
+    "filipp-sosedov"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

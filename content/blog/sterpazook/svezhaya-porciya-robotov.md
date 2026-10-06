@@ -4,6 +4,12 @@
   "url": "/blog/sterpazook/svezhaya-porciya-robotov/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/svezhaya-porciya-robotov",
   "archived": "https://web.archive.org/web/20241212162730/http://spidermedia.ru/blog/sterpazook/svezhaya-porciya-robotov",
+  "tags": [
+    "novye-tehnologii",
+    "robots",
+    "nauka",
+    "science"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

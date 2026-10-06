@@ -4,6 +4,11 @@
   "url": "/comics/kommissiya-2015-pervye-vyhodnye/",
   "original_url": "http://spidermedia.ru/comics/kommissiya-2015-pervye-vyhodnye",
   "archived": "https://web.archive.org/web/20240720163334/http://spidermedia.ru/comics/kommissiya-2015-pervye-vyhodnye",
+  "tags": [
+    "kommissiya",
+    "zarubezhnye-komiksy-na-russkom",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

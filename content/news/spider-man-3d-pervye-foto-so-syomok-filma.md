@@ -4,6 +4,13 @@
   "url": "/news/spider-man-3d-pervye-foto-so-syomok-filma/",
   "original_url": "http://spidermedia.ru/news/spider-man-3d-pervye-foto-so-syomok-filma",
   "archived": "https://web.archive.org/web/20251207095237/http://spidermedia.ru/news/spider-man-3d-pervye-foto-so-syomok-filma",
+  "tags": [
+    "mark-uebb",
+    "gven-stejsi",
+    "marvel",
+    "spider-man",
+    "emma-stoun"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

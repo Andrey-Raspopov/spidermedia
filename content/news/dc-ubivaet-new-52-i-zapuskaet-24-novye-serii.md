@@ -4,6 +4,9 @@
   "url": "/news/dc-ubivaet-new-52-i-zapuskaet-24-novye-serii/",
   "original_url": "http://spidermedia.ru/news/dc-ubivaet-new-52-i-zapuskaet-24-novye-serii",
   "archived": "https://web.archive.org/web/20200115074349/http://spidermedia.ru:80/news/dc-ubivaet-new-52-i-zapuskaet-24-novye-serii",
+  "tags": [
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

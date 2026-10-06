@@ -4,6 +4,16 @@
   "url": "/news/mirovaya-voyna-snova/",
   "original_url": "http://spidermedia.ru/news/mirovaya-voyna-snova",
   "archived": "https://web.archive.org/web/20260214135209/http://spidermedia.ru/news/mirovaya-voyna-snova",
+  "tags": [
+    "skaar",
+    "krasnyj-halk",
+    "dzhon-romita-ml",
+    "dzhef-loeb",
+    "art-0",
+    "san-diego-comic-con-international",
+    "red-hulk",
+    "hulk"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

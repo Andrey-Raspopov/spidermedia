@@ -4,6 +4,17 @@
   "url": "/news/black/",
   "original_url": "http://spidermedia.ru/news/black",
   "archived": "https://web.archive.org/web/20260117213422/http://spidermedia.ru/news/black",
+  "tags": [
+    "marvel",
+    "ugadajka",
+    "kajl-bejker",
+    "bryan-hitch",
+    "sluhi",
+    "captain-america",
+    "art-0",
+    "ed-brubaker",
+    "reborn"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

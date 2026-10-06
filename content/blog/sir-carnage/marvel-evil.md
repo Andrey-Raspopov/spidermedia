@@ -4,6 +4,11 @@
   "url": "/blog/sir-carnage/marvel-evil/",
   "original_url": "http://spidermedia.ru/blog/sir-carnage/marvel-evil",
   "archived": "https://web.archive.org/web/20190610163028/http://spidermedia.ru:80/blog/sir-carnage/marvel-evil",
+  "tags": [
+    "mysli",
+    "marvel",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

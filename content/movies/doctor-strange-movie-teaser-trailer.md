@@ -4,6 +4,10 @@
   "url": "/movies/doctor-strange-movie-teaser-trailer/",
   "original_url": "http://spidermedia.ru/movies/doctor-strange-movie-teaser-trailer",
   "archived": "https://web.archive.org/web/20260214142031/http://spidermedia.ru/movies/doctor-strange-movie-teaser-trailer",
+  "tags": [
+    "marvel",
+    "doctor-strange"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

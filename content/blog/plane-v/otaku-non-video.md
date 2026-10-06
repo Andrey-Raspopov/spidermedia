@@ -4,6 +4,11 @@
   "url": "/blog/plane-v/otaku-non-video/",
   "original_url": "http://spidermedia.ru/blog/plane-v/otaku-non-video",
   "archived": "https://web.archive.org/web/20260209105508/http://spidermedia.ru/blog/plane-v/otaku-non-video",
+  "tags": [
+    "manga",
+    "internety",
+    "anime"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/news/dark-reign-elektra-shes-back-and-ready-action/",
   "original_url": "https://spidermedia.ru/news/dark-reign-elektra-shes-back-and-ready-action",
   "archived": "https://web.archive.org/web/20260121012205/https://spidermedia.ru/news/dark-reign-elektra-shes-back-and-ready-action",
+  "tags": [
+    "klej-mann",
+    "zeb-uells",
+    "marvel",
+    "elektra"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

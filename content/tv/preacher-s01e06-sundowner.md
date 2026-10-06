@@ -4,6 +4,10 @@
   "url": "/tv/preacher-s01e06-sundowner/",
   "original_url": "http://spidermedia.ru/tv/preacher-s01e06-sundowner",
   "archived": "https://web.archive.org/web/20260209114834/http://spidermedia.ru/tv/preacher-s01e06-sundowner",
+  "tags": [
+    "vertigo",
+    "preacher"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

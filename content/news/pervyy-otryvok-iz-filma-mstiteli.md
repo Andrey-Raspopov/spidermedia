@@ -4,6 +4,13 @@
   "url": "/news/pervyy-otryvok-iz-filma-mstiteli/",
   "original_url": "http://spidermedia.ru/news/pervyy-otryvok-iz-filma-mstiteli",
   "archived": "https://web.archive.org/web/20130619133606/http://spidermedia.ru/news/pervyy-otryvok-iz-filma-mstiteli",
+  "tags": [
+    "avengers",
+    "video",
+    "kino",
+    "marvel",
+    "mstiteli"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

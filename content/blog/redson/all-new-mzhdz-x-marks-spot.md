@@ -4,6 +4,10 @@
   "url": "/blog/redson/all-new-mzhdz-x-marks-spot/",
   "original_url": "https://spidermedia.ru/blog/redson/all-new-mzhdz-x-marks-spot",
   "archived": "https://web.archive.org/web/20260115064702/https://spidermedia.ru/blog/redson/all-new-mzhdz-x-marks-spot",
+  "tags": [
+    "mnenie",
+    "mzhdz"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

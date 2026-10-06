@@ -4,6 +4,11 @@
   "url": "/blog/sterpazook/book-eli-motion-comic/",
   "original_url": "https://spidermedia.ru/blog/sterpazook/book-eli-motion-comic",
   "archived": "https://web.archive.org/web/20250519184141/https://spidermedia.ru/blog/sterpazook/book-eli-motion-comic",
+  "tags": [
+    "motion-comics",
+    "animirovannye-komiksy",
+    "kniga-ilaya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

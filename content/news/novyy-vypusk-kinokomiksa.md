@@ -4,6 +4,13 @@
   "url": "/news/novyy-vypusk-kinokomiksa/",
   "original_url": "http://spidermedia.ru/news/novyy-vypusk-kinokomiksa",
   "archived": "https://web.archive.org/web/20241211212124/http://spidermedia.ru/news/novyy-vypusk-kinokomiksa",
+  "tags": [
+    "dc-comics",
+    "grant-morrison",
+    "geoff-johns",
+    "marv-vulfman",
+    "marv-wolfman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

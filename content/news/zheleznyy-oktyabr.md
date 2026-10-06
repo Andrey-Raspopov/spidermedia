@@ -4,6 +4,17 @@
   "url": "/news/zheleznyy-oktyabr/",
   "original_url": "http://spidermedia.ru/news/zheleznyy-oktyabr",
   "archived": "https://web.archive.org/web/20120608141422/http://spidermedia.ru/news/zheleznyy-oktyabr",
+  "tags": [
+    "dark-reign",
+    "iron-man",
+    "norman-osborn",
+    "zheleznyy-chelovek",
+    "komiksy",
+    "marvel",
+    "mett-frakshen",
+    "norman-osborn-0",
+    "preview-s"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

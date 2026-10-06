@@ -4,6 +4,13 @@
   "url": "/news/ava-expo-eksklyuziv-komilfo-izdast-seconds-na-russkom/",
   "original_url": "http://spidermedia.ru/news/ava-expo-eksklyuziv-komilfo-izdast-seconds-na-russkom",
   "archived": "https://web.archive.org/web/20250913023620/http://spidermedia.ru/news/ava-expo-eksklyuziv-komilfo-izdast-seconds-na-russkom",
+  "tags": [
+    "shansy",
+    "preview",
+    "komilfo",
+    "zarubezhnye-komiksy-na-russkom",
+    "bryan-lee-o-malley"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

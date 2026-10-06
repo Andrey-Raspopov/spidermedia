@@ -4,6 +4,17 @@
   "url": "/news/kto-na-svete-vseh-milee/",
   "original_url": "https://spidermedia.ru/news/kto-na-svete-vseh-milee",
   "archived": "https://web.archive.org/web/20260306001632/https://spidermedia.ru/news/kto-na-svete-vseh-milee",
+  "tags": [
+    "shon-makmanus",
+    "fil-himenes",
+    "loren-byuks",
+    "kris-roberson",
+    "san-diego-comic-con-international",
+    "inaki-miranda",
+    "bill-uillingem",
+    "vertigo",
+    "fables"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

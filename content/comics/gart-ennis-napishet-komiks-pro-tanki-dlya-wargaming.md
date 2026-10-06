@@ -4,6 +4,10 @@
   "url": "/comics/gart-ennis-napishet-komiks-pro-tanki-dlya-wargaming/",
   "original_url": "https://spidermedia.ru/comics/gart-ennis-napishet-komiks-pro-tanki-dlya-wargaming",
   "archived": "https://web.archive.org/web/20250118040530/https://spidermedia.ru/comics/gart-ennis-napishet-komiks-pro-tanki-dlya-wargaming",
+  "tags": [
+    "garth-ennis",
+    "dark-horse"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

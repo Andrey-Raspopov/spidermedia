@@ -4,6 +4,10 @@
   "url": "/comics/fialkov-oni-press-exclusive-deal/",
   "original_url": "http://spidermedia.ru/comics/fialkov-oni-press-exclusive-deal",
   "archived": "https://web.archive.org/web/20160427044935/http://spidermedia.ru/comics/fialkov-oni-press-exclusive-deal",
+  "tags": [
+    "oni-press",
+    "joshua-hale-fialkov"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

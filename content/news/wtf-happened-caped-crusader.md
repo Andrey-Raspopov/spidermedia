@@ -4,6 +4,13 @@
   "url": "/news/wtf-happened-caped-crusader/",
   "original_url": "http://spidermedia.ru/news/wtf-happened-caped-crusader",
   "archived": "https://web.archive.org/web/20251107002101/http://spidermedia.ru/news/wtf-happened-caped-crusader",
+  "tags": [
+    "dc-comics",
+    "batman",
+    "neil-gaiman",
+    "endi-kubert",
+    "detective-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

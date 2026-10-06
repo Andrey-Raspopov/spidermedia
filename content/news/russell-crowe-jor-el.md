@@ -4,6 +4,12 @@
   "url": "/news/russell-crowe-jor-el/",
   "original_url": "https://spidermedia.ru/news/russell-crowe-jor-el",
   "archived": "https://web.archive.org/web/20260124052125/https://spidermedia.ru/news/russell-crowe-jor-el",
+  "tags": [
+    "chelovek-iz-stali",
+    "superman",
+    "man-of-steel",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

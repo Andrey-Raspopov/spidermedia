@@ -4,6 +4,11 @@
   "url": "/news/halk-dichat/",
   "original_url": "http://spidermedia.ru/news/halk-dichat",
   "archived": "https://web.archive.org/web/20150426231018/http://spidermedia.ru/news/halk-dichat",
+  "tags": [
+    "alan-devis",
+    "dzhim-starlin",
+    "marvel-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

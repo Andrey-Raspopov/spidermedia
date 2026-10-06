@@ -4,6 +4,12 @@
   "url": "/comics/cassaday-out-immonen-in/",
   "original_url": "https://spidermedia.ru/comics/cassaday-out-immonen-in",
   "archived": "https://web.archive.org/web/20251205122132/https://spidermedia.ru/comics/cassaday-out-immonen-in",
+  "tags": [
+    "marvel",
+    "dzheyson-aaron",
+    "zvezdnye-vojny",
+    "styuart-immonen"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

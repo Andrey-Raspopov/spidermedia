@@ -4,6 +4,14 @@
   "url": "/news/yubileynyy-iks-faktor/",
   "original_url": "https://spidermedia.ru/news/yubileynyy-iks-faktor",
   "archived": "https://web.archive.org/web/20250512124006/https://spidermedia.ru/news/yubileynyy-iks-faktor",
+  "tags": [
+    "piter-devid",
+    "iks-faktor",
+    "x-men",
+    "x-factor",
+    "marvel",
+    "fan-expo-2009"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

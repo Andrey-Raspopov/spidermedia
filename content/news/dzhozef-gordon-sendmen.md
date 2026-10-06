@@ -4,6 +4,11 @@
   "url": "/news/dzhozef-gordon-sendmen/",
   "original_url": "https://spidermedia.ru/news/dzhozef-gordon-sendmen",
   "archived": "https://web.archive.org/web/20260305225657/https://spidermedia.ru/news/dzhozef-gordon-sendmen",
+  "tags": [
+    "neil-gaiman-sandman",
+    "vertigo",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

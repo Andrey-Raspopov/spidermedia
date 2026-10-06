@@ -4,6 +4,12 @@
   "url": "/blog/bastion7/recenziya-trenchcoat-brigade/",
   "original_url": "http://spidermedia.ru/blog/bastion7/recenziya-trenchcoat-brigade",
   "archived": "https://web.archive.org/web/20250808213044/http://spidermedia.ru/blog/bastion7/recenziya-trenchcoat-brigade",
+  "tags": [
+    "dc-comics",
+    "recenziya",
+    "vertigo",
+    "dzhon-konstantin"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

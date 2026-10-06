@@ -4,6 +4,12 @@
   "url": "/news/zelenyy-fonar-komiksy-figurki-animaciya/",
   "original_url": "http://spidermedia.ru/news/zelenyy-fonar-komiksy-figurki-animaciya",
   "archived": "https://web.archive.org/web/20251110225248/http://spidermedia.ru/news/zelenyy-fonar-komiksy-figurki-animaciya",
+  "tags": [
+    "green-lantern",
+    "dc-comics",
+    "animaciya",
+    "figurki"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,13 @@
   "url": "/blog/sterpazook/shot-through-heart/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/shot-through-heart",
   "archived": "https://web.archive.org/web/20120607054823/http://spidermedia.ru/blog/sterpazook/shot-through-heart",
+  "tags": [
+    "bon-jovi",
+    "deadpool",
+    "dedpul",
+    "komiksy",
+    "muzyka"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

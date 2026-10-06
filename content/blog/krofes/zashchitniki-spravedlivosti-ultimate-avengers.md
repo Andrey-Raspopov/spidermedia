@@ -4,6 +4,12 @@
   "url": "/blog/krofes/zashchitniki-spravedlivosti-ultimate-avengers/",
   "original_url": "https://spidermedia.ru/blog/krofes/zashchitniki-spravedlivosti-ultimate-avengers",
   "archived": "https://web.archive.org/web/20250807230211/https://spidermedia.ru/blog/krofes/zashchitniki-spravedlivosti-ultimate-avengers",
+  "tags": [
+    "animaciya",
+    "ultimate",
+    "marvel",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,14 @@
   "url": "/news/dracula-smash/",
   "original_url": "https://spidermedia.ru/news/dracula-smash",
   "archived": "https://web.archive.org/web/20260117221504/https://spidermedia.ru/news/dracula-smash",
+  "tags": [
+    "rajan-stegman",
+    "drakula",
+    "viktor-gishler",
+    "marvel",
+    "hulk",
+    "dracula"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

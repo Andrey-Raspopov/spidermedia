@@ -4,6 +4,11 @@
   "url": "/comics/roskomnadzor-rokirovka/",
   "original_url": "http://spidermedia.ru/comics/roskomnadzor-rokirovka",
   "archived": "https://web.archive.org/web/20260206213628/http://spidermedia.ru/comics/roskomnadzor-rokirovka",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "roskomnadzor",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

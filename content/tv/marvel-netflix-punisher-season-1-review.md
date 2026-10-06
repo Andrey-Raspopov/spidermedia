@@ -4,6 +4,11 @@
   "url": "/tv/marvel-netflix-punisher-season-1-review/",
   "original_url": "http://spidermedia.ru/tv/marvel-netflix-punisher-season-1-review",
   "archived": "https://web.archive.org/web/20250425221004/http://spidermedia.ru/tv/marvel-netflix-punisher-season-1-review",
+  "tags": [
+    "marvel",
+    "netflix",
+    "punisher"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

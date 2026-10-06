@@ -4,6 +4,11 @@
   "url": "/blog/bogart/spoof-comics-presents/",
   "original_url": "http://spidermedia.ru/blog/bogart/spoof-comics-presents",
   "archived": "https://web.archive.org/web/20190914072425/http://spidermedia.ru:80/blog/bogart/spoof-comics-presents",
+  "tags": [
+    "adam-hyuz",
+    "parodii",
+    "dzhim-belent"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

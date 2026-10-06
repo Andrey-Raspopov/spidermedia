@@ -4,6 +4,9 @@
   "url": "/comics/all-things-valiant-51-week-24/",
   "original_url": "http://spidermedia.ru/comics/all-things-valiant-51-week-24",
   "archived": "https://web.archive.org/web/20260125060533/http://spidermedia.ru/comics/all-things-valiant-51-week-24",
+  "tags": [
+    "valiant-entertainment"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

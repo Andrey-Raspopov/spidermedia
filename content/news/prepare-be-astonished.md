@@ -4,6 +4,18 @@
   "url": "/news/prepare-be-astonished/",
   "original_url": "http://spidermedia.ru/news/prepare-be-astonished",
   "archived": "https://web.archive.org/web/20251205115736/http://spidermedia.ru/news/prepare-be-astonished",
+  "tags": [
+    "warren-ellis",
+    "kaare-endryus",
+    "dzheyson-aaron",
+    "x-men",
+    "wolverine",
+    "marvel",
+    "kaare-andrews",
+    "jason-aaron",
+    "spider-man",
+    "adam-kubert"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

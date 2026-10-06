@@ -4,6 +4,12 @@
   "url": "/blog/mrfett/nash-otvet-fcbd/",
   "original_url": "http://spidermedia.ru/blog/mrfett/nash-otvet-fcbd",
   "archived": "https://web.archive.org/web/20130110091727/http://spidermedia.ru:80/blog/mrfett/nash-otvet-fcbd",
+  "tags": [
+    "magazin",
+    "reklama",
+    "russkie-komiksy",
+    "sankt-peterburg"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

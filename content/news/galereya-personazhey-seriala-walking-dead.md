@@ -4,6 +4,10 @@
   "url": "/news/galereya-personazhey-seriala-walking-dead/",
   "original_url": "https://spidermedia.ru/news/galereya-personazhey-seriala-walking-dead",
   "archived": "https://web.archive.org/web/20260211191044/https://spidermedia.ru/news/galereya-personazhey-seriala-walking-dead",
+  "tags": [
+    "serialy",
+    "the-walking-dead"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

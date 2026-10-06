@@ -4,6 +4,10 @@
   "url": "/news/eksklyuziv-prevyu-i-nemnozhko-roka-no2/",
   "original_url": "http://spidermedia.ru/news/eksklyuziv-prevyu-i-nemnozhko-roka-no2",
   "archived": "https://web.archive.org/web/20250324065721/http://spidermedia.ru/news/eksklyuziv-prevyu-i-nemnozhko-roka-no2",
+  "tags": [
+    "izdatelstvo-42",
+    "i-nemnozhko-roka"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

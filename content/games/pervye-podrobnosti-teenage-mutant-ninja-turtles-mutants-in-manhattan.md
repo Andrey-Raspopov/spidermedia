@@ -4,6 +4,9 @@
   "url": "/games/pervye-podrobnosti-teenage-mutant-ninja-turtles-mutants-in-manhattan/",
   "original_url": "https://spidermedia.ru/games/pervye-podrobnosti-teenage-mutant-ninja-turtles-mutants-in-manhattan",
   "archived": "https://web.archive.org/web/20250324065423/https://spidermedia.ru/games/pervye-podrobnosti-teenage-mutant-ninja-turtles-mutants-in-manhattan",
+  "tags": [
+    "ninja-turtles"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

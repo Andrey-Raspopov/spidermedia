@@ -4,11 +4,14 @@
   "url": "/comics/comic-con-russia-2016-intervyu-s-komandoj-komiksa-yakutiya/",
   "original_url": "https://spidermedia.ru/comics/comic-con-russia-2016-intervyu-s-komandoj-komiksa-yakutiya",
   "archived": "https://web.archive.org/web/20260110004345/https://spidermedia.ru/comics/comic-con-russia-2016-intervyu-s-komandoj-komiksa-yakutiya",
+  "tags": [
+    "bubble"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-*На прошедшем Comic Con Russia 2016 ведущим рубрики [All Things Valiant](https://web.archive.org/web/20260123081802/http://spidermedia.ru/tags/valiant-entertainment) Дмитрию Андрееву и Андрею Ложенко удалось пообщаться с авторами комиксов, выходящих в импринте издательства Bubble — Bubble Visions. И завершает цикл статей интервью с творческой командой «Якутии»: Евгением Федотовым (сценарий и карандаш) и Богданом Куликовских (тушь и постобработка).*
+*На прошедшем Comic Con Russia 2016 ведущим рубрики [All Things Valiant](../../tags/valiant-entertainment/) Дмитрию Андрееву и Андрею Ложенко удалось пообщаться с авторами комиксов, выходящих в импринте издательства Bubble — Bubble Visions. И завершает цикл статей интервью с творческой командой «Якутии»: Евгением Федотовым (сценарий и карандаш) и Богданом Куликовских (тушь и постобработка).*
 
 [![](https://web.archive.org/web/20220921221300im_/http://spidermedia.ru/assets/cache/preview/101390/valiant/images/b-v/622x466-interview-yakutia-cover-1.345.jpg)](https://web.archive.org/web/20220922011253im_/http://spidermedia.ru/assets/images/valiant/images/b-v/interview-yakutia-cover-1.jpg)
 

@@ -4,6 +4,10 @@
   "url": "/blog/sterpazook/monster-roll/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/monster-roll",
   "archived": "https://web.archive.org/web/20150501125251/http://spidermedia.ru/blog/sterpazook/monster-roll",
+  "tags": [
+    "kino",
+    "video"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

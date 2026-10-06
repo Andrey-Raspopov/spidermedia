@@ -4,6 +4,10 @@
   "url": "/news/mett-vagner-vozrodit-spirit-uilla-ayznera/",
   "original_url": "https://spidermedia.ru/news/mett-vagner-vozrodit-spirit-uilla-ayznera",
   "archived": "https://web.archive.org/web/20251116072446/https://spidermedia.ru/news/mett-vagner-vozrodit-spirit-uilla-ayznera",
+  "tags": [
+    "mett-vagner",
+    "dynamite-entertainment"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

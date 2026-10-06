@@ -4,6 +4,9 @@
   "url": "/blog/redson/ne-nazyvay-menya-gikom-0/",
   "original_url": "http://spidermedia.ru/blog/redson/ne-nazyvay-menya-gikom-0",
   "archived": "https://web.archive.org/web/20250220051812/http://spidermedia.ru/blog/redson/ne-nazyvay-menya-gikom-0",
+  "tags": [
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

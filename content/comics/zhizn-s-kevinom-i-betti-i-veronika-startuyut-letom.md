@@ -4,6 +4,9 @@
   "url": "/comics/zhizn-s-kevinom-i-betti-i-veronika-startuyut-letom/",
   "original_url": "http://spidermedia.ru/comics/zhizn-s-kevinom-i-betti-i-veronika-startuyut-letom",
   "archived": "https://web.archive.org/web/20260214125801/http://spidermedia.ru/comics/zhizn-s-kevinom-i-betti-i-veronika-startuyut-letom",
+  "tags": [
+    "archie-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

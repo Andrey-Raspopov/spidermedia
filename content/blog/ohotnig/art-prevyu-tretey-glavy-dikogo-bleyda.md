@@ -4,6 +4,11 @@
   "url": "/blog/ohotnig/art-prevyu-tretey-glavy-dikogo-bleyda/",
   "original_url": "http://spidermedia.ru/blog/ohotnig/art-prevyu-tretey-glavy-dikogo-bleyda",
   "archived": "https://web.archive.org/web/20120608220802/http://spidermedia.ru/blog/ohotnig/art-prevyu-tretey-glavy-dikogo-bleyda",
+  "tags": [
+    "mad-blade",
+    "art-0",
+    "komiksy"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

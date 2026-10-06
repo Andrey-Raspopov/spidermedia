@@ -4,6 +4,11 @@
   "url": "/news/komiks-zvezdnyy-put-poyavitsya-na-russkom-yazyke/",
   "original_url": "http://spidermedia.ru/news/komiks-zvezdnyy-put-poyavitsya-na-russkom-yazyke",
   "archived": "https://web.archive.org/web/20251208073303/http://spidermedia.ru/news/komiks-zvezdnyy-put-poyavitsya-na-russkom-yazyke",
+  "tags": [
+    "zvezdnyj-put",
+    "sudden-dragon",
+    "zarubezhnye-komiksy-na-russkom"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

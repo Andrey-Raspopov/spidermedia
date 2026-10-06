@@ -4,6 +4,11 @@
   "url": "/news/avengers-earths-mightiest-heroes-promo-osnovnyh-geroev-i-zlodeev/",
   "original_url": "http://spidermedia.ru/news/avengers-earths-mightiest-heroes-promo-osnovnyh-geroev-i-zlodeev",
   "archived": "https://web.archive.org/web/20260116210413/http://spidermedia.ru/news/avengers-earths-mightiest-heroes-promo-osnovnyh-geroev-i-zlodeev",
+  "tags": [
+    "animaciya",
+    "marvel",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

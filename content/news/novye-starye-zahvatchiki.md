@@ -4,6 +4,13 @@
   "url": "/news/novye-starye-zahvatchiki/",
   "original_url": "http://spidermedia.ru/news/novye-starye-zahvatchiki",
   "archived": "https://web.archive.org/web/20150427213027/http://spidermedia.ru/news/novye-starye-zahvatchiki",
+  "tags": [
+    "stiv-pyu",
+    "zahvatchiki",
+    "dzhejms-robinson",
+    "marvel-now",
+    "marvel-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

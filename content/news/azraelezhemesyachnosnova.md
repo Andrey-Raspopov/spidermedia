@@ -4,6 +4,12 @@
   "url": "/news/azraelezhemesyachnosnova/",
   "original_url": "http://spidermedia.ru/news/azraelezhemesyachnosnova",
   "archived": "https://web.archive.org/web/20150501190041/http://spidermedia.ru/news/azraelezhemesyachnosnova",
+  "tags": [
+    "dc-comics",
+    "batman",
+    "bitva-za-plashh",
+    "azrael"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

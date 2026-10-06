@@ -4,6 +4,16 @@
   "url": "/news/perezagruzka-x-men-legacy/",
   "original_url": "https://spidermedia.ru/news/perezagruzka-x-men-legacy",
   "archived": "https://web.archive.org/web/20251107000751/https://spidermedia.ru/news/perezagruzka-x-men-legacy",
+  "tags": [
+    "x-men",
+    "marvel",
+    "gambit",
+    "rogue",
+    "roug",
+    "denzher",
+    "legacy",
+    "danger"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,13 @@
   "url": "/news/sdcc10-uncanny-x-force/",
   "original_url": "http://spidermedia.ru/news/sdcc10-uncanny-x-force",
   "archived": "https://web.archive.org/web/20260211192823/http://spidermedia.ru/news/sdcc10-uncanny-x-force",
+  "tags": [
+    "san-diego-comic-con-international",
+    "x-men",
+    "x-force",
+    "uncanny-x-force",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

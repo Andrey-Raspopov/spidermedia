@@ -4,6 +4,11 @@
   "url": "/news/mark-millar-velikiy-kombinator/",
   "original_url": "https://spidermedia.ru/news/mark-millar-velikiy-kombinator",
   "archived": "https://web.archive.org/web/20251208071955/https://spidermedia.ru/news/mark-millar-velikiy-kombinator",
+  "tags": [
+    "mark-millar",
+    "nemesis",
+    "kick-ass"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

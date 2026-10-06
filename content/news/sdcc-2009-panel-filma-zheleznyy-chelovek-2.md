@@ -4,6 +4,18 @@
   "url": "/news/sdcc-2009-panel-filma-zheleznyy-chelovek-2/",
   "original_url": "http://spidermedia.ru/news/sdcc-2009-panel-filma-zheleznyy-chelovek-2",
   "archived": "https://web.archive.org/web/20120608005417/http://spidermedia.ru/news/sdcc-2009-panel-filma-zheleznyy-chelovek-2",
+  "tags": [
+    "iron-man",
+    "iron-man-2",
+    "san-diego-comic-con-2009",
+    "sdcc-2009",
+    "video",
+    "zheleznyy-chelovek",
+    "zheleznyy-chelovek-2",
+    "kino",
+    "komik-kon-v-san-diego",
+    "foto"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

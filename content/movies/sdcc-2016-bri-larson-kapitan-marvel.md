@@ -4,6 +4,11 @@
   "url": "/movies/sdcc-2016-bri-larson-kapitan-marvel/",
   "original_url": "http://spidermedia.ru/movies/sdcc-2016-bri-larson-kapitan-marvel",
   "archived": "https://web.archive.org/web/20260215071015/http://spidermedia.ru/movies/sdcc-2016-bri-larson-kapitan-marvel",
+  "tags": [
+    "marvel",
+    "captain-marvel",
+    "san-diego-comic-con-international"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

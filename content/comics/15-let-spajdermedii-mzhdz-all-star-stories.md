@@ -4,6 +4,10 @@
   "url": "/comics/15-let-spajdermedii-mzhdz-all-star-stories/",
   "original_url": "https://spidermedia.ru/comics/15-let-spajdermedii-mzhdz-all-star-stories",
   "archived": "https://web.archive.org/web/20251208064223/https://spidermedia.ru/comics/15-let-spajdermedii-mzhdz-all-star-stories",
+  "tags": [
+    "spidermedia-15th-anniversary",
+    "mzhdz"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/blog/derden/komiksy-dc-universe-vypusk-no-25/",
   "original_url": "http://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-25",
   "archived": "https://web.archive.org/web/20260211181732/http://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-25",
+  "tags": [
+    "outsiders",
+    "judd-winick",
+    "dc-comics",
+    "dc-universe-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

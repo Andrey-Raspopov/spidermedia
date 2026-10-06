@@ -4,6 +4,11 @@
   "url": "/news/tor-kadry-tv-spoty-i-klip/",
   "original_url": "https://spidermedia.ru/news/tor-kadry-tv-spoty-i-klip",
   "archived": "https://web.archive.org/web/20240807184541/https://spidermedia.ru/news/tor-kadry-tv-spoty-i-klip",
+  "tags": [
+    "trejlery",
+    "thor",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

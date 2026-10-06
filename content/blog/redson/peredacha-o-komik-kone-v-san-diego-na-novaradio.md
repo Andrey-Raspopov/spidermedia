@@ -4,6 +4,13 @@
   "url": "/blog/redson/peredacha-o-komik-kone-v-san-diego-na-novaradio/",
   "original_url": "http://spidermedia.ru/blog/redson/peredacha-o-komik-kone-v-san-diego-na-novaradio",
   "archived": "https://web.archive.org/web/20120608005856/http://spidermedia.ru/blog/redson/peredacha-o-komik-kone-v-san-diego-na-novaradio",
+  "tags": [
+    "san-diego-comic-con-2009",
+    "sdcc-2009",
+    "kino",
+    "komik-kon-v-san-diego",
+    "komiksy"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

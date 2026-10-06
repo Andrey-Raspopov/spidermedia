@@ -4,6 +4,12 @@
   "url": "/news/nayden-akter-na-rol-lyucifera/",
   "original_url": "https://spidermedia.ru/news/nayden-akter-na-rol-lyucifera",
   "archived": "https://web.archive.org/web/20260120164815/https://spidermedia.ru/news/nayden-akter-na-rol-lyucifera",
+  "tags": [
+    "serialy",
+    "lyucifer",
+    "kasting",
+    "vertigo"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

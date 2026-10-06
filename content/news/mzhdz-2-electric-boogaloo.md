@@ -4,11 +4,15 @@
   "url": "/news/mzhdz-2-electric-boogaloo/",
   "original_url": "http://spidermedia.ru/news/mzhdz-2-electric-boogaloo",
   "archived": "https://web.archive.org/web/20241202085214/http://spidermedia.ru/news/mzhdz-2-electric-boogaloo",
+  "tags": [
+    "mnenie",
+    "mzhdz"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](https://web.archive.org/web/20241202085214im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz.png)](https://web.archive.org/web/20260206215846/http://spidermedia.ru/tags/mzhdz)
+[![](https://web.archive.org/web/20241202085214im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz.png)](../../tags/mzhdz/)
 ![](https://web.archive.org/web/20241202085214im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/emeic.jpg)
 Король Джоффри Баратеон смотрит на вас, как на Гикстер
 **Еженедельные обзоры новых комиксов!**

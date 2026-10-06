@@ -4,6 +4,10 @@
   "url": "/comics/dead-no-more-vsyo-chto-vam-govorili-ne-pravda/",
   "original_url": "https://spidermedia.ru/comics/dead-no-more-vsyo-chto-vam-govorili-ne-pravda",
   "archived": "https://web.archive.org/web/20250210060927/https://spidermedia.ru/comics/dead-no-more-vsyo-chto-vam-govorili-ne-pravda",
+  "tags": [
+    "marvel",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

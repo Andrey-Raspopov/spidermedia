@@ -4,6 +4,11 @@
   "url": "/comics/roskomnadzor-new-chapter/",
   "original_url": "https://spidermedia.ru/comics/roskomnadzor-new-chapter",
   "archived": "https://web.archive.org/web/20250512111059/https://spidermedia.ru/comics/roskomnadzor-new-chapter",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "roskomnadzor",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
@@ -106,7 +111,7 @@
 
 Не одними комиксами живем, на русском вышел очередной роман по мотивам Marvel: **«Росомаха: Оружие Икс».** И не забудьте поискать, вдруг где остался, путеводитель по миру The Elder Scrolls V: Skyrim — **«Skyrim — Хроники»**.
 
-Осталось всего два дня до онлайн-премьеры первого фильма Bubble Studios — **«Майор Гром»** на сайте [life.ru/grom](https://vk.com/away.php?to=http%3A%2F%2Flife.ru%2Fgrom&post=-34202590_139708), забейте это время во всех своих ежедневниках: 19 февраля, в воскресенье, в 21:00 мск. К выходу фильма издательство подготовило предысторию своего блокбастера **«Майор Гром: Шанс»**. Но фильм фильмом, а регулярные комиксы должны выходить по расписанию: 2 номер **«Игоря Гром»**, а также 2 номер **«Мироходцев»** с основной и праздничной обложкой, все это уже можно найти на полках комикс-шопов. А стоит ли вообще читать комиксы **Bubble**, вы можете узнать из нашей рубрики [Bubble Gum](https://web.archive.org/web/20260309000544/https://spidermedia.ru/tags/bubble).
+Осталось всего два дня до онлайн-премьеры первого фильма Bubble Studios — **«Майор Гром»** на сайте [life.ru/grom](https://vk.com/away.php?to=http%3A%2F%2Flife.ru%2Fgrom&post=-34202590_139708), забейте это время во всех своих ежедневниках: 19 февраля, в воскресенье, в 21:00 мск. К выходу фильма издательство подготовило предысторию своего блокбастера **«Майор Гром: Шанс»**. Но фильм фильмом, а регулярные комиксы должны выходить по расписанию: 2 номер **«Игоря Гром»**, а также 2 номер **«Мироходцев»** с основной и праздничной обложкой, все это уже можно найти на полках комикс-шопов. А стоит ли вообще читать комиксы **Bubble**, вы можете узнать из нашей рубрики [Bubble Gum](../../tags/bubble/).
 
 [![](https://web.archive.org/web/20180130201158im_/http://spidermedia.ru/assets/images/valiant/images/rcs-17.02.2017/rcs-17.02.2017-bubble-00.jpg)](https://web.archive.org/web/20180130201158im_/http://spidermedia.ru/assets/images/valiant/images/rcs-17.02.2017/rcs-17.02.2017-bubble-00.jpg)
 

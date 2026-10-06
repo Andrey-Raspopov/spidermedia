@@ -4,6 +4,10 @@
   "url": "/blog/alex/betmen-budushchego-snova-s-nami/",
   "original_url": "http://spidermedia.ru/blog/alex/betmen-budushchego-snova-s-nami",
   "archived": "https://web.archive.org/web/20181213102819/http://spidermedia.ru:80/blog/alex/betmen-budushchego-snova-s-nami",
+  "tags": [
+    "dc-comics",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/news/arhitektory-marvel-scenaristy/",
   "original_url": "https://spidermedia.ru/news/arhitektory-marvel-scenaristy",
   "archived": "https://web.archive.org/web/20260214131307/https://spidermedia.ru/news/arhitektory-marvel-scenaristy",
+  "tags": [
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

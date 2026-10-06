@@ -4,6 +4,12 @@
   "url": "/news/kirkman-draznitsya/",
   "original_url": "http://spidermedia.ru/news/kirkman-draznitsya",
   "archived": "https://web.archive.org/web/20120610085133/http://spidermedia.ru/news/kirkman-draznitsya",
+  "tags": [
+    "astounding-wolf-man",
+    "image-comics",
+    "invincible",
+    "robert-kirkman"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

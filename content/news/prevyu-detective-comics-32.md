@@ -4,6 +4,13 @@
   "url": "/news/prevyu-detective-comics-32/",
   "original_url": "http://spidermedia.ru/news/prevyu-detective-comics-32",
   "archived": "https://web.archive.org/web/20260214132634/http://spidermedia.ru/news/prevyu-detective-comics-32",
+  "tags": [
+    "frensis-manapul",
+    "preview",
+    "batman",
+    "brian-buccellato",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

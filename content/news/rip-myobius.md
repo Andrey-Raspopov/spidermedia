@@ -4,6 +4,10 @@
   "url": "/news/rip-myobius/",
   "original_url": "http://spidermedia.ru/news/rip-myobius",
   "archived": "https://web.archive.org/web/20161105012154/http://spidermedia.ru:80/news/rip-myobius",
+  "tags": [
+    "nekrolog",
+    "myobius"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

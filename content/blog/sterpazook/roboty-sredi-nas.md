@@ -4,6 +4,10 @@
   "url": "/blog/sterpazook/roboty-sredi-nas/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/roboty-sredi-nas",
   "archived": "https://web.archive.org/web/20120607193134/http://spidermedia.ru/blog/sterpazook/roboty-sredi-nas",
+  "tags": [
+    "novye-tehnologii",
+    "roboty"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

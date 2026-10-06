@@ -4,6 +4,9 @@
   "url": "/blog/qvall/log-0006-bears-nuts/",
   "original_url": "http://spidermedia.ru/blog/qvall/log-0006-bears-nuts",
   "archived": "https://web.archive.org/web/20150428110104/http://spidermedia.ru/blog/qvall/log-0006-bears-nuts",
+  "tags": [
+    "veb-komiksy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

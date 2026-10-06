@@ -4,6 +4,14 @@
   "url": "/blog/larosh/constantine-s01e11-whole-world-out-there-mnenie-redakcii/",
   "original_url": "http://spidermedia.ru/blog/larosh/constantine-s01e11-whole-world-out-there-mnenie-redakcii",
   "archived": "https://web.archive.org/web/20251216122105/http://spidermedia.ru/blog/larosh/constantine-s01e11-whole-world-out-there-mnenie-redakcii",
+  "tags": [
+    "constantine",
+    "dc-comics",
+    "vertigo",
+    "dzhon-konstantin",
+    "obzor",
+    "serialy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

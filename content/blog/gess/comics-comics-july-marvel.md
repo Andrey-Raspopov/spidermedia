@@ -4,6 +4,10 @@
   "url": "/blog/gess/comics-comics-july-marvel/",
   "original_url": "http://spidermedia.ru/blog/gess/comics-comics-july-marvel",
   "archived": "https://web.archive.org/web/20120608164548/http://spidermedia.ru/blog/gess/comics-comics-july-marvel",
+  "tags": [
+    "sale",
+    "mnenie"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

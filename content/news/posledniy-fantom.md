@@ -4,6 +4,15 @@
   "url": "/news/posledniy-fantom/",
   "original_url": "https://spidermedia.ru/news/posledniy-fantom",
   "archived": "https://web.archive.org/web/20251108040326/https://spidermedia.ru/news/posledniy-fantom",
+  "tags": [
+    "eduardo-ferigato",
+    "fantom",
+    "skott-bitti",
+    "art-0",
+    "alex-ross",
+    "phantom",
+    "dynamite-entertainment"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

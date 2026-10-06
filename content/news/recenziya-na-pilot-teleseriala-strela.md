@@ -4,6 +4,11 @@
   "url": "/news/recenziya-na-pilot-teleseriala-strela/",
   "original_url": "http://spidermedia.ru/news/recenziya-na-pilot-teleseriala-strela",
   "archived": "https://web.archive.org/web/20240809114348/http://spidermedia.ru/news/recenziya-na-pilot-teleseriala-strela",
+  "tags": [
+    "dc-comics",
+    "recenziya",
+    "green-arrow"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

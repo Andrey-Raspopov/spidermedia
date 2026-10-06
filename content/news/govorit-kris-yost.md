@@ -4,6 +4,14 @@
   "url": "/news/govorit-kris-yost/",
   "original_url": "http://spidermedia.ru/news/govorit-kris-yost",
   "archived": "https://web.archive.org/web/20260314082017/http://spidermedia.ru/news/govorit-kris-yost",
+  "tags": [
+    "dc-comics",
+    "krasnyj-robin",
+    "red-robin",
+    "intervyu",
+    "chris-yost",
+    "kristofer-jost"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

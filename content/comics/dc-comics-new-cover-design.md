@@ -4,6 +4,9 @@
   "url": "/comics/dc-comics-new-cover-design/",
   "original_url": "http://spidermedia.ru/comics/dc-comics-new-cover-design",
   "archived": "https://web.archive.org/web/20251206031449/http://spidermedia.ru/comics/dc-comics-new-cover-design",
+  "tags": [
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

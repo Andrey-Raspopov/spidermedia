@@ -4,6 +4,10 @@
   "url": "/blog/dzhedis/retrospektiva-vertigo-bigg-time-2002/",
   "original_url": "https://spidermedia.ru/blog/dzhedis/retrospektiva-vertigo-bigg-time-2002",
   "archived": "https://web.archive.org/web/20260208203740/https://spidermedia.ru/blog/dzhedis/retrospektiva-vertigo-bigg-time-2002",
+  "tags": [
+    "vertigo",
+    "ty-templeton"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/blog/bezdredoff/zapis-pryamogo-vklyucheniya-komikkasta/",
   "original_url": "http://spidermedia.ru/blog/bezdredoff/zapis-pryamogo-vklyucheniya-komikkasta",
   "archived": "https://web.archive.org/web/20120607031144/http://spidermedia.ru/blog/bezdredoff/zapis-pryamogo-vklyucheniya-komikkasta",
+  "tags": [
+    "comics",
+    "comiccast",
+    "podcast"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

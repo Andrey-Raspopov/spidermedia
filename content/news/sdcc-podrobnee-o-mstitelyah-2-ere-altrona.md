@@ -4,6 +4,10 @@
   "url": "/news/sdcc-podrobnee-o-mstitelyah-2-ere-altrona/",
   "original_url": "http://spidermedia.ru/news/sdcc-podrobnee-o-mstitelyah-2-ere-altrona",
   "archived": "https://web.archive.org/web/20240623002506/http://spidermedia.ru/news/sdcc-podrobnee-o-mstitelyah-2-ere-altrona",
+  "tags": [
+    "avengers",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

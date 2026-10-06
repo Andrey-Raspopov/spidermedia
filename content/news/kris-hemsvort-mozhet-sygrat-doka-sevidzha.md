@@ -4,6 +4,9 @@
   "url": "/news/kris-hemsvort-mozhet-sygrat-doka-sevidzha/",
   "original_url": "http://spidermedia.ru/news/kris-hemsvort-mozhet-sygrat-doka-sevidzha",
   "archived": "https://web.archive.org/web/20190808213242/http://spidermedia.ru:80/news/kris-hemsvort-mozhet-sygrat-doka-sevidzha",
+  "tags": [
+    "dok-sevidzh"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

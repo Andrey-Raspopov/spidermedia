@@ -4,11 +4,15 @@
   "url": "/blog/redson/all-new-mzhdz/",
   "original_url": "http://spidermedia.ru/blog/redson/all-new-mzhdz",
   "archived": "https://web.archive.org/web/20251108183721/http://spidermedia.ru/blog/redson/all-new-mzhdz",
+  "tags": [
+    "mnenie",
+    "mzhdz"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](https://web.archive.org/web/20251108183721im_/http://i.imgur.com/JCbv66a.jpg)](https://web.archive.org/web/20260206215846/http://spidermedia.ru/tags/mzhdz)
+[![](https://web.archive.org/web/20251108183721im_/http://i.imgur.com/JCbv66a.jpg)](../../../tags/mzhdz/)
 ![](https://web.archive.org/web/20251108183721im_/http://i.imgur.com/H7I8gMK.jpg)
 Здравствуйте! Предыдущий МЖДЗ был меньше недели назад, поэтому пост вышел не такой монструозный, но тем для разговора хватает. Наша команда рекомендует вам прочитать мангу **20th Century Boys**, ругает марвеловские серии **Captain Marvel** и **Silver Surfer** и хвалит дисишный комикс **Penguin: Pain and Prejudice**.
 **Автор логотипа - Ярослав Астапеев.**

@@ -4,6 +4,10 @@
   "url": "/news/fantasticheskaya-chetvyorka-syu-shtorm-v-kostyume-i-chelovek-krot-foto/",
   "original_url": "https://spidermedia.ru/news/fantasticheskaya-chetvyorka-syu-shtorm-v-kostyume-i-chelovek-krot-foto",
   "archived": "https://web.archive.org/web/20251111080450/https://spidermedia.ru/news/fantasticheskaya-chetvyorka-syu-shtorm-v-kostyume-i-chelovek-krot-foto",
+  "tags": [
+    "fantastic-four",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

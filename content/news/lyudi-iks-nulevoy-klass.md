@@ -4,6 +4,13 @@
   "url": "/news/lyudi-iks-nulevoy-klass/",
   "original_url": "http://spidermedia.ru/news/lyudi-iks-nulevoy-klass",
   "archived": "https://web.archive.org/web/20251207004920/http://spidermedia.ru/news/lyudi-iks-nulevoy-klass",
+  "tags": [
+    "nil-adams",
+    "kristos-gejdzh",
+    "x-men",
+    "wolverine",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

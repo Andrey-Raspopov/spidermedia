@@ -4,6 +4,12 @@
   "url": "/news/udar-terrora/",
   "original_url": "http://spidermedia.ru/news/udar-terrora",
   "archived": "https://web.archive.org/web/20120607193121/http://spidermedia.ru/news/udar-terrora",
+  "tags": [
+    "terror-inc",
+    "devid-lafem",
+    "komiksy",
+    "marvel"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

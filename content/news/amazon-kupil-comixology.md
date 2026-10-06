@@ -4,6 +4,10 @@
   "url": "/news/amazon-kupil-comixology/",
   "original_url": "http://spidermedia.ru/news/amazon-kupil-comixology",
   "archived": "https://web.archive.org/web/20260308234000/http://spidermedia.ru/news/amazon-kupil-comixology",
+  "tags": [
+    "cifrovye-komiksy",
+    "comixology"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

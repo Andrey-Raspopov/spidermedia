@@ -4,6 +4,9 @@
   "url": "/movies/boom-fox-empty-man/",
   "original_url": "http://spidermedia.ru/movies/boom-fox-empty-man",
   "archived": "https://web.archive.org/web/20260125063158/http://spidermedia.ru/movies/boom-fox-empty-man",
+  "tags": [
+    "boom-studios"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

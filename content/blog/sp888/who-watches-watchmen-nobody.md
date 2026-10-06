@@ -4,6 +4,12 @@
   "url": "/blog/sp888/who-watches-watchmen-nobody/",
   "original_url": "http://spidermedia.ru/blog/sp888/who-watches-watchmen-nobody",
   "archived": "https://web.archive.org/web/20111026110915/http://spidermedia.ru/blog/sp888/who-watches-watchmen-nobody",
+  "tags": [
+    "watchmen",
+    "kino",
+    "mnenie",
+    "recenziya"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

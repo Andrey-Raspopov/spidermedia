@@ -4,6 +4,17 @@
   "url": "/news/nycc10-ultimate-comics-captain-america/",
   "original_url": "http://spidermedia.ru/news/nycc10-ultimate-comics-captain-america",
   "archived": "https://web.archive.org/web/20251216114047/http://spidermedia.ru/news/nycc10-ultimate-comics-captain-america",
+  "tags": [
+    "ron-garni",
+    "preview",
+    "komik-kon-v-nyu-jorke",
+    "dzheyson-aaron",
+    "ultimate",
+    "nycc-2010",
+    "new-york-comic-con",
+    "marvel",
+    "captain-america"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

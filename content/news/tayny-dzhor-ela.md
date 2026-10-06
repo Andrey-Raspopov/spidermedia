@@ -4,6 +4,11 @@
   "url": "/news/tayny-dzhor-ela/",
   "original_url": "https://spidermedia.ru/news/tayny-dzhor-ela",
   "archived": "https://web.archive.org/web/20260116211905/https://spidermedia.ru/news/tayny-dzhor-ela",
+  "tags": [
+    "serialy",
+    "tajny-smollvillya",
+    "smallville"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/news/novye-tizer-treylery-marvel-ultimate-alliance-2/",
   "original_url": "http://spidermedia.ru/news/novye-tizer-treylery-marvel-ultimate-alliance-2",
   "archived": "https://web.archive.org/web/20171021215514/http://spidermedia.ru/news/novye-tizer-treylery-marvel-ultimate-alliance-2",
+  "tags": [
+    "igry",
+    "video",
+    "trejlery"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

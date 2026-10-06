@@ -4,6 +4,11 @@
   "url": "/news/novyy-poster-mstiteley-0/",
   "original_url": "https://spidermedia.ru/news/novyy-poster-mstiteley-0",
   "archived": "https://web.archive.org/web/20250709072132/https://spidermedia.ru/news/novyy-poster-mstiteley-0",
+  "tags": [
+    "avengers",
+    "marvel",
+    "postery"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/news/cw-zapustit-serial-o-personazhah-strely-i-flesha/",
   "original_url": "http://spidermedia.ru/news/cw-zapustit-serial-o-personazhah-strely-i-flesha",
   "archived": "https://web.archive.org/web/20260313103907/http://spidermedia.ru/news/cw-zapustit-serial-o-personazhah-strely-i-flesha",
+  "tags": [
+    "serialy",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

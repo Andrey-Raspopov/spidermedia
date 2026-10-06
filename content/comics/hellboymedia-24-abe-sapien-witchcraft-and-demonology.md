@@ -4,6 +4,10 @@
   "url": "/comics/hellboymedia-24-abe-sapien-witchcraft-and-demonology/",
   "original_url": "http://spidermedia.ru/comics/hellboymedia-24-abe-sapien-witchcraft-and-demonology",
   "archived": "https://web.archive.org/web/20250814211103/http://spidermedia.ru/comics/hellboymedia-24-abe-sapien-witchcraft-and-demonology",
+  "tags": [
+    "hellboymedia",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
@@ -12,7 +16,7 @@
 
 Думаю, что все читатели, кто до сих пор не забросили серию, больше всего ждали именно ориджина Штробла. И дождались. Создатели серии решили расщедриться и подарили нам сразу две истории, в прошлом и настоящем, полностью раскрывающие мотивацию и путь злодея.
 
-И если с рассмотрением уан-шота **The Black School** *(Abe Sapien #31)* я вполне мог справиться самостоятельно, то для обзора флэшбека **Witchcraft & Demonology** *(Abe Sapien #30)* мне потребовалась помощь. К счастью, мой зов не остался без ответа, и сегодня в рубрике у нас дебют — впервые в качестве автора в ней выступил **Андрей Смагин**, прекрасно знакомый вам по потрясающим [арт-трибьютам](https://web.archive.org/web/20260306001508/http://spidermedia.ru/tags/mike-mignola-russia) «России Майка Миньолы» и [заставкам](https://web.archive.org/web/20160611151931im_/http://spidermedia.ru/assets/images/roskomnadzor/2016/0502/0.png) [рубрики](https://web.archive.org/web/20160416132803im_/http://spidermedia.ru/assets/images/roskomnadzor/2016/0403/0.png) «РосКомНадзор». Выступил громко и запоминающе, уже поверьте. Поехали.
+И если с рассмотрением уан-шота **The Black School** *(Abe Sapien #31)* я вполне мог справиться самостоятельно, то для обзора флэшбека **Witchcraft & Demonology** *(Abe Sapien #30)* мне потребовалась помощь. К счастью, мой зов не остался без ответа, и сегодня в рубрике у нас дебют — впервые в качестве автора в ней выступил **Андрей Смагин**, прекрасно знакомый вам по потрясающим [арт-трибьютам](../../tags/mike-mignola-russia/) «России Майка Миньолы» и [заставкам](https://web.archive.org/web/20160611151931im_/http://spidermedia.ru/assets/images/roskomnadzor/2016/0502/0.png) [рубрики](https://web.archive.org/web/20160416132803im_/http://spidermedia.ru/assets/images/roskomnadzor/2016/0403/0.png) «РосКомНадзор». Выступил громко и запоминающе, уже поверьте. Поехали.
 
 [![](https://web.archive.org/web/20180202045106im_/http://spidermedia.ru/assets/cache/preview/101031/hellboymedia/regular/24-abe-sapien-witchcraft-and-demonology/622x353-00-header.ba5.jpg)](http://spidermedia.ru/assets/images/hellboymedia/regular/24-abe-sapien-witchcraft-and-demonology/00-header.jpg)
 

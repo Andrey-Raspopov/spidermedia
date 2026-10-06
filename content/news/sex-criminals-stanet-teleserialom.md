@@ -4,6 +4,13 @@
   "url": "/news/sex-criminals-stanet-teleserialom/",
   "original_url": "https://spidermedia.ru/news/sex-criminals-stanet-teleserialom",
   "archived": "https://web.archive.org/web/20241205102130/https://spidermedia.ru/news/sex-criminals-stanet-teleserialom",
+  "tags": [
+    "mett-frakshn",
+    "kelli-syu-dekonnik",
+    "chip-zdarski",
+    "sex-criminals",
+    "image-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

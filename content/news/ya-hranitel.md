@@ -4,6 +4,15 @@
   "url": "/news/ya-hranitel/",
   "original_url": "http://spidermedia.ru/news/ya-hranitel",
   "archived": "https://web.archive.org/web/20250620080306/http://spidermedia.ru/news/ya-hranitel",
+  "tags": [
+    "spawn",
+    "invincible",
+    "image-comics",
+    "robert-kirkman",
+    "hraniteli-planety",
+    "benito-sereno",
+    "rensom-getti"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

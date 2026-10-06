@@ -4,6 +4,11 @@
   "url": "/news/postery-filma-zheleznyy-chelovek-3/",
   "original_url": "http://spidermedia.ru/news/postery-filma-zheleznyy-chelovek-3",
   "archived": "https://web.archive.org/web/20251116072451/http://spidermedia.ru/news/postery-filma-zheleznyy-chelovek-3",
+  "tags": [
+    "postery",
+    "marvel",
+    "iron-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

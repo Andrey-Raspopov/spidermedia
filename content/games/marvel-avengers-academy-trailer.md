@@ -4,6 +4,10 @@
   "url": "/games/marvel-avengers-academy-trailer/",
   "original_url": "http://spidermedia.ru/games/marvel-avengers-academy-trailer",
   "archived": "https://web.archive.org/web/20260125112311/http://spidermedia.ru/games/marvel-avengers-academy-trailer",
+  "tags": [
+    "marvel",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/comics/pravyj-pereplet-02-chertovshhina/",
   "original_url": "http://spidermedia.ru/comics/pravyj-pereplet-02-chertovshhina",
   "archived": "https://web.archive.org/web/20251014032401/http://spidermedia.ru/comics/pravyj-pereplet-02-chertovshhina",
+  "tags": [
+    "manga",
+    "right-binding"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

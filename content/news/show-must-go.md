@@ -4,6 +4,12 @@
   "url": "/news/show-must-go/",
   "original_url": "https://spidermedia.ru/news/show-must-go",
   "archived": "https://web.archive.org/web/20250808213226/https://spidermedia.ru/news/show-must-go",
+  "tags": [
+    "myuzikl",
+    "spider-man-turn-off-the-dark",
+    "marvel",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

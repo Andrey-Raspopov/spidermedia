@@ -4,6 +4,11 @@
   "url": "/blog/alex/9-sezon-smollvillya/",
   "original_url": "https://spidermedia.ru/blog/alex/9-sezon-smollvillya",
   "archived": "https://web.archive.org/web/20251107034638/https://spidermedia.ru/blog/alex/9-sezon-smollvillya",
+  "tags": [
+    "serialy",
+    "tajny-smollvillya",
+    "smallville"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

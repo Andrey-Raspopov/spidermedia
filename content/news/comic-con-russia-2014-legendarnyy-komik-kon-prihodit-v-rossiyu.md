@@ -4,6 +4,9 @@
   "url": "/news/comic-con-russia-2014-legendarnyy-komik-kon-prihodit-v-rossiyu/",
   "original_url": "http://spidermedia.ru/news/comic-con-russia-2014-legendarnyy-komik-kon-prihodit-v-rossiyu",
   "archived": "https://web.archive.org/web/20250620075759/http://spidermedia.ru/news/comic-con-russia-2014-legendarnyy-komik-kon-prihodit-v-rossiyu",
+  "tags": [
+    "comic-con-russia"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

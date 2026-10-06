@@ -4,6 +4,12 @@
   "url": "/comics/podrobnosti-vtoroj-grazhdanskoj-vojny-marvel/",
   "original_url": "http://spidermedia.ru/comics/podrobnosti-vtoroj-grazhdanskoj-vojny-marvel",
   "archived": "https://web.archive.org/web/20251208072627/http://spidermedia.ru/comics/podrobnosti-vtoroj-grazhdanskoj-vojny-marvel",
+  "tags": [
+    "captain-marvel",
+    "marvel",
+    "iron-man",
+    "civil-war"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

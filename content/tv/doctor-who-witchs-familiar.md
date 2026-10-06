@@ -4,6 +4,9 @@
   "url": "/tv/doctor-who-witchs-familiar/",
   "original_url": "http://spidermedia.ru/tv/doctor-who-witchs-familiar",
   "archived": "https://web.archive.org/web/20260312022604/http://spidermedia.ru/tv/doctor-who-witchs-familiar",
+  "tags": [
+    "doctor-who"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

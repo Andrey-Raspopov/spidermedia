@@ -4,6 +4,12 @@
   "url": "/comics/dead-inside-novyj-komiks-dzhona-arkudi/",
   "original_url": "https://spidermedia.ru/comics/dead-inside-novyj-komiks-dzhona-arkudi",
   "archived": "https://web.archive.org/web/20260125125404/https://spidermedia.ru/comics/dead-inside-novyj-komiks-dzhona-arkudi",
+  "tags": [
+    "dark-horse",
+    "john-arcudi",
+    "dzhon-arkudi",
+    "san-diego-comic-con-international"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

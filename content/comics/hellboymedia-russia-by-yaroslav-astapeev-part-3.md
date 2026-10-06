@@ -4,6 +4,11 @@
   "url": "/comics/hellboymedia-russia-by-yaroslav-astapeev-part-3/",
   "original_url": "https://spidermedia.ru/comics/hellboymedia-russia-by-yaroslav-astapeev-part-3",
   "archived": "https://web.archive.org/web/20251209145641/https://spidermedia.ru/comics/hellboymedia-russia-by-yaroslav-astapeev-part-3",
+  "tags": [
+    "hellboymedia",
+    "art-tribyut",
+    "mike-mignola-russia"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

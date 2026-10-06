@@ -4,6 +4,19 @@
   "url": "/news/bolotnye-razboyniki-vselennoy/",
   "original_url": "http://spidermedia.ru/news/bolotnye-razboyniki-vselennoy",
   "archived": "https://web.archive.org/web/20260312015316/http://spidermedia.ru/news/bolotnye-razboyniki-vselennoy",
+  "tags": [
+    "dzhejms-tinion-iv",
+    "pop-mhan",
+    "charlz-soul",
+    "kano",
+    "miko-suajan",
+    "dc-comics",
+    "bolotnaya-tvar",
+    "krasnyj-kolpak",
+    "red-hood",
+    "hi-men",
+    "he-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

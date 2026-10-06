@@ -4,6 +4,16 @@
   "url": "/news/prevyu-kick-ass-6/",
   "original_url": "http://spidermedia.ru/news/prevyu-kick-ass-6",
   "archived": "https://web.archive.org/web/20120718091022/http://spidermedia.ru/news/prevyu-kick-ass-6",
+  "tags": [
+    "icon",
+    "kick-ass",
+    "art-0",
+    "dzhon-romita-ml",
+    "komiksy",
+    "mark-millar",
+    "oblozhki",
+    "preview-s"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

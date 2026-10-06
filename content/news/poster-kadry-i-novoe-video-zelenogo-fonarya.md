@@ -4,6 +4,11 @@
   "url": "/news/poster-kadry-i-novoe-video-zelenogo-fonarya/",
   "original_url": "https://spidermedia.ru/news/poster-kadry-i-novoe-video-zelenogo-fonarya",
   "archived": "https://web.archive.org/web/20260211181925/https://spidermedia.ru/news/poster-kadry-i-novoe-video-zelenogo-fonarya",
+  "tags": [
+    "green-lantern",
+    "dc-comics",
+    "postery"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

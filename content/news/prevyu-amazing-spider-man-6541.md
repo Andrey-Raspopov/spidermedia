@@ -4,6 +4,15 @@
   "url": "/news/prevyu-amazing-spider-man-6541/",
   "original_url": "http://spidermedia.ru/news/prevyu-amazing-spider-man-6541",
   "archived": "https://web.archive.org/web/20251216173319/http://spidermedia.ru/news/prevyu-amazing-spider-man-6541",
+  "tags": [
+    "umberto-ramos",
+    "preview",
+    "paulo-sikejra",
+    "den-slott",
+    "venom",
+    "art-0",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,22 @@
   "url": "/news/pervye-sredi-ravnyh/",
   "original_url": "http://spidermedia.ru/news/pervye-sredi-ravnyh",
   "archived": "https://web.archive.org/web/20260209110744/http://spidermedia.ru/news/pervye-sredi-ravnyh",
+  "tags": [
+    "fred-van-lente",
+    "trevor-hersin",
+    "roberto-de-la-torre",
+    "robert-gill",
+    "robert-venditti",
+    "mett-kindt",
+    "klejton-krejn",
+    "kano",
+    "joshua-dysart",
+    "dzho-harris",
+    "dzhen-van-meter",
+    "dzhejms-ezmus",
+    "dag-brejtvejt",
+    "valiant-entertainment"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

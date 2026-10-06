@@ -4,6 +4,15 @@
   "url": "/news/nycc10-marvel-television-presents-marvel-anime/",
   "original_url": "http://spidermedia.ru/news/nycc10-marvel-television-presents-marvel-anime",
   "archived": "https://web.archive.org/web/20260309182225/http://spidermedia.ru/news/nycc10-marvel-television-presents-marvel-anime",
+  "tags": [
+    "komik-kon-v-nyu-yorke",
+    "anime",
+    "animaciya",
+    "wolverine",
+    "nycc-2010",
+    "new-york-comic-con",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

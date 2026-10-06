@@ -4,6 +4,9 @@
   "url": "/news/den-novyh-komiksov-18-sentyabrya/",
   "original_url": "https://spidermedia.ru/news/den-novyh-komiksov-18-sentyabrya",
   "archived": "https://web.archive.org/web/20250717193558/https://spidermedia.ru/news/den-novyh-komiksov-18-sentyabrya",
+  "tags": [
+    "den-novyh-komiksov"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

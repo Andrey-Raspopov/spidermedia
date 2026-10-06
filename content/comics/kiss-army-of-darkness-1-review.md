@@ -4,6 +4,10 @@
   "url": "/comics/kiss-army-of-darkness-1-review/",
   "original_url": "https://spidermedia.ru/comics/kiss-army-of-darkness-1-review",
   "archived": "https://web.archive.org/web/20260208204037/https://spidermedia.ru/comics/kiss-army-of-darkness-1-review",
+  "tags": [
+    "dynamite-entertainment",
+    "army-of-darkness"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

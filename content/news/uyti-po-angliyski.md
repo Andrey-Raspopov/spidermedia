@@ -4,6 +4,12 @@
   "url": "/news/uyti-po-angliyski/",
   "original_url": "https://spidermedia.ru/news/uyti-po-angliyski",
   "archived": "https://web.archive.org/web/20260208211013/https://spidermedia.ru/news/uyti-po-angliyski",
+  "tags": [
+    "marvel",
+    "pol-kornell",
+    "captain-britain",
+    "kapitan-britaniya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

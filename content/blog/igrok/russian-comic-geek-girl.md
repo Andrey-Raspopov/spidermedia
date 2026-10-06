@@ -4,6 +4,10 @@
   "url": "/blog/igrok/russian-comic-geek-girl/",
   "original_url": "https://spidermedia.ru/blog/igrok/russian-comic-geek-girl",
   "archived": "https://web.archive.org/web/20250208104458/https://spidermedia.ru/blog/igrok/russian-comic-geek-girl",
+  "tags": [
+    "russian-comics",
+    "kosplej"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

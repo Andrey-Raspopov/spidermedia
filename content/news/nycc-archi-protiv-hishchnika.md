@@ -4,6 +4,11 @@
   "url": "/news/nycc-archi-protiv-hishchnika/",
   "original_url": "http://spidermedia.ru/news/nycc-archi-protiv-hishchnika",
   "archived": "https://web.archive.org/web/20260125122628/http://spidermedia.ru/news/nycc-archi-protiv-hishchnika",
+  "tags": [
+    "komik-kon-v-nyu-jorke",
+    "dark-horse",
+    "archie-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

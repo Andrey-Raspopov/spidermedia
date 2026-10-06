@@ -4,6 +4,12 @@
   "url": "/comics/thor-and-loki-blood-brothers-review/",
   "original_url": "http://spidermedia.ru/comics/thor-and-loki-blood-brothers-review",
   "archived": "https://web.archive.org/web/20251111080411/http://spidermedia.ru/comics/thor-and-loki-blood-brothers-review",
+  "tags": [
+    "marvel",
+    "parallel-comics",
+    "j-michael-straczynski",
+    "esad-ribich"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/news/dzhurdzhevichu-i-marvel-ne-po-puti/",
   "original_url": "https://spidermedia.ru/news/dzhurdzhevichu-i-marvel-ne-po-puti",
   "archived": "https://web.archive.org/web/20250806094922/https://spidermedia.ru/news/dzhurdzhevichu-i-marvel-ne-po-puti",
+  "tags": [
+    "marko-dzhurdzhevich",
+    "art-0",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

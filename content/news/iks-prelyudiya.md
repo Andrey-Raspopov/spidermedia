@@ -4,6 +4,14 @@
   "url": "/news/iks-prelyudiya/",
   "original_url": "http://spidermedia.ru/news/iks-prelyudiya",
   "archived": "https://web.archive.org/web/20130127034445/http://spidermedia.ru:80/news/iks-prelyudiya",
+  "tags": [
+    "x-men",
+    "x-universe",
+    "art-0",
+    "komiksy",
+    "lyudi-iks",
+    "pol-dzhenkins"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

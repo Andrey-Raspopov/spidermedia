@@ -4,6 +4,11 @@
   "url": "/blog/drgonzobear/panteon-nebolshaya-zaderzhka/",
   "original_url": "http://spidermedia.ru/blog/drgonzobear/panteon-nebolshaya-zaderzhka",
   "archived": "https://web.archive.org/web/20210125231137/http://spidermedia.ru/blog/drgonzobear/panteon-nebolshaya-zaderzhka",
+  "tags": [
+    "stimpank",
+    "russian-comics",
+    "kult-dvulichiya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

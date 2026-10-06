@@ -4,6 +4,11 @@
   "url": "/news/nil-geyman-predlozhil-vzyat-na-rol-morfeya-toma-hiddlstona/",
   "original_url": "http://spidermedia.ru/news/nil-geyman-predlozhil-vzyat-na-rol-morfeya-toma-hiddlstona",
   "archived": "https://web.archive.org/web/20260314082849/http://spidermedia.ru/news/nil-geyman-predlozhil-vzyat-na-rol-morfeya-toma-hiddlstona",
+  "tags": [
+    "neil-gaiman-sandman",
+    "neil-gaiman",
+    "vertigo"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

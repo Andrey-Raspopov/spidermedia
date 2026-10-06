@@ -4,6 +4,13 @@
   "url": "/news/sdcc10-komiksy-i-kino/",
   "original_url": "http://spidermedia.ru/news/sdcc10-komiksy-i-kino",
   "archived": "https://web.archive.org/web/20250425230302/http://spidermedia.ru/news/sdcc10-komiksy-i-kino",
+  "tags": [
+    "kurt-busiek",
+    "san-diego-comic-con-international",
+    "kovboi-i-prishelcy",
+    "dan-dare",
+    "astro-city"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

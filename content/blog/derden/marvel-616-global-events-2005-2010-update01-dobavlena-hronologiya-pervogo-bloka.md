@@ -4,6 +4,9 @@
   "url": "/blog/derden/marvel-616-global-events-2005-2010-update01-dobavlena-hronologiya-pervogo-bloka/",
   "original_url": "http://spidermedia.ru/blog/derden/marvel-616-global-events-2005-2010-update01-dobavlena-hronologiya-pervogo-bloka",
   "archived": "https://web.archive.org/web/20200130013749/http://spidermedia.ru:80/blog/derden/marvel-616-global-events-2005-2010-update01-dobavlena-hronologiya-pervogo-bloka",
+  "tags": [
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

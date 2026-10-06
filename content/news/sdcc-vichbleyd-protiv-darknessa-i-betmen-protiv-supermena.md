@@ -4,6 +4,15 @@
   "url": "/news/sdcc-vichbleyd-protiv-darknessa-i-betmen-protiv-supermena/",
   "original_url": "http://spidermedia.ru/news/sdcc-vichbleyd-protiv-darknessa-i-betmen-protiv-supermena",
   "archived": "https://web.archive.org/web/20260209113757/http://spidermedia.ru/news/sdcc-vichbleyd-protiv-darknessa-i-betmen-protiv-supermena",
+  "tags": [
+    "superman",
+    "san-diego-comic-con-international",
+    "batman",
+    "witchblade",
+    "top-cow",
+    "dc-comics",
+    "darkness"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

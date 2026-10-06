@@ -4,6 +4,9 @@
   "url": "/movies/batman-and-zamskiy/",
   "original_url": "http://spidermedia.ru/movies/batman-and-zamskiy",
   "archived": "https://web.archive.org/web/20260305231051/http://spidermedia.ru/movies/batman-and-zamskiy",
+  "tags": [
+    "batman-and-robin-day"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

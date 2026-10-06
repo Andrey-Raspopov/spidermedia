@@ -4,6 +4,12 @@
   "url": "/blog/x-boy/first-look-daredevil-noir-2/",
   "original_url": "http://spidermedia.ru/blog/x-boy/first-look-daredevil-noir-2",
   "archived": "https://web.archive.org/web/20260116222128/http://spidermedia.ru/blog/x-boy/first-look-daredevil-noir-2",
+  "tags": [
+    "marvel",
+    "daredevil",
+    "noirverse",
+    "dardevil"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,14 @@
   "url": "/news/otrazhenie-realnosti-cherez-komiksy/",
   "original_url": "https://spidermedia.ru/news/otrazhenie-realnosti-cherez-komiksy",
   "archived": "https://web.archive.org/web/20260307062734/https://spidermedia.ru/news/otrazhenie-realnosti-cherez-komiksy",
+  "tags": [
+    "mark-waid",
+    "image-comics",
+    "top-cow",
+    "hunter-killer",
+    "kennet-rokafort",
+    "cyberforce"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

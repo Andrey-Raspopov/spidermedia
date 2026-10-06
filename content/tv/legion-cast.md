@@ -4,6 +4,10 @@
   "url": "/tv/legion-cast/",
   "original_url": "http://spidermedia.ru/tv/legion-cast",
   "archived": "https://web.archive.org/web/20250617235059/http://spidermedia.ru/tv/legion-cast",
+  "tags": [
+    "marvel",
+    "x-men"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

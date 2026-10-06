@@ -4,6 +4,10 @@
   "url": "/comics/recenziya-avengers-halloween-special-1/",
   "original_url": "http://spidermedia.ru/comics/recenziya-avengers-halloween-special-1",
   "archived": "https://web.archive.org/web/20260307054126/http://spidermedia.ru/comics/recenziya-avengers-halloween-special-1",
+  "tags": [
+    "marvel",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

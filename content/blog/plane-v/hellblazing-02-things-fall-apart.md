@@ -4,6 +4,14 @@
   "url": "/blog/plane-v/hellblazing-02-things-fall-apart/",
   "original_url": "https://spidermedia.ru/blog/plane-v/hellblazing-02-things-fall-apart",
   "archived": "https://web.archive.org/web/20260211101852/https://spidermedia.ru/blog/plane-v/hellblazing-02-things-fall-apart",
+  "tags": [
+    "richard-pirs-rajner",
+    "dzhejmi-delano",
+    "brajan-telbot",
+    "vertigo",
+    "hellblazing",
+    "hellblazer"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

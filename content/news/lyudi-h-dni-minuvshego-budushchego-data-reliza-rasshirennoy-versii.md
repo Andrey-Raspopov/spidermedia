@@ -4,6 +4,10 @@
   "url": "/news/lyudi-h-dni-minuvshego-budushchego-data-reliza-rasshirennoy-versii/",
   "original_url": "https://spidermedia.ru/news/lyudi-h-dni-minuvshego-budushchego-data-reliza-rasshirennoy-versii",
   "archived": "https://web.archive.org/web/20251208075238/https://spidermedia.ru/news/lyudi-h-dni-minuvshego-budushchego-data-reliza-rasshirennoy-versii",
+  "tags": [
+    "marvel",
+    "x-men"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

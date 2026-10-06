@@ -4,6 +4,12 @@
   "url": "/news/never-stop-running/",
   "original_url": "https://spidermedia.ru/news/never-stop-running",
   "archived": "https://web.archive.org/web/20260125062911/https://spidermedia.ru/news/never-stop-running",
+  "tags": [
+    "marvel",
+    "muzyka",
+    "runaways",
+    "nik-lou"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

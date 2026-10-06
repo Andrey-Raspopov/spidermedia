@@ -4,6 +4,10 @@
   "url": "/blog/redson/mzhdz-its-about-breeding/",
   "original_url": "http://spidermedia.ru/blog/redson/mzhdz-its-about-breeding",
   "archived": "https://web.archive.org/web/20251208062322/http://spidermedia.ru/blog/redson/mzhdz-its-about-breeding",
+  "tags": [
+    "mnenie",
+    "mzhdz"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

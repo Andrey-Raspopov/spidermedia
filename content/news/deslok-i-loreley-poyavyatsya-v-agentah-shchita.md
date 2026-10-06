@@ -4,6 +4,11 @@
   "url": "/news/deslok-i-loreley-poyavyatsya-v-agentah-shchita/",
   "original_url": "http://spidermedia.ru/news/deslok-i-loreley-poyavyatsya-v-agentah-shchita",
   "archived": "https://web.archive.org/web/20260309190514/http://spidermedia.ru/news/deslok-i-loreley-poyavyatsya-v-agentah-shchita",
+  "tags": [
+    "marvel",
+    "s.h.i.e.l.d",
+    "deslok"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

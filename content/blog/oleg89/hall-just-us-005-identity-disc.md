@@ -4,6 +4,14 @@
   "url": "/blog/oleg89/hall-just-us-005-identity-disc/",
   "original_url": "http://spidermedia.ru/blog/oleg89/hall-just-us-005-identity-disc",
   "archived": "https://web.archive.org/web/20120608181525/http://spidermedia.ru/blog/oleg89/hall-just-us-005-identity-disc",
+  "tags": [
+    "hall-just-us",
+    "dzhon-higgins",
+    "komiksy",
+    "marvel",
+    "mnenie",
+    "robert-rodi"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

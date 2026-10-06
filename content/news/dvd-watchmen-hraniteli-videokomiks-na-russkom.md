@@ -4,6 +4,12 @@
   "url": "/news/dvd-watchmen-hraniteli-videokomiks-na-russkom/",
   "original_url": "https://spidermedia.ru/news/dvd-watchmen-hraniteli-videokomiks-na-russkom",
   "archived": "https://web.archive.org/web/20241205103938/https://spidermedia.ru/news/dvd-watchmen-hraniteli-videokomiks-na-russkom",
+  "tags": [
+    "animirovannye-komiksy",
+    "hraniteli",
+    "motion-comics",
+    "cifrovye-komiksy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

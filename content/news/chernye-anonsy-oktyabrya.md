@@ -4,6 +4,20 @@
   "url": "/news/chernye-anonsy-oktyabrya/",
   "original_url": "http://spidermedia.ru/news/chernye-anonsy-oktyabrya",
   "archived": "https://web.archive.org/web/20251216114249/http://spidermedia.ru/news/chernye-anonsy-oktyabrya",
+  "tags": [
+    "adam-kubert",
+    "batman",
+    "blackest-night",
+    "dc-comics",
+    "green-lantern",
+    "ivan-reis",
+    "shane-davis",
+    "ajvan-rejs",
+    "dag-manke",
+    "superman",
+    "temnejshaya-noch",
+    "solicitations"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,14 @@
   "url": "/blog/bastion7/recenziya-fear-agent/",
   "original_url": "http://spidermedia.ru/blog/bastion7/recenziya-fear-agent",
   "archived": "https://web.archive.org/web/20251216170033/http://spidermedia.ru/blog/bastion7/recenziya-fear-agent",
+  "tags": [
+    "dark-horse",
+    "recenziya",
+    "rik-remender",
+    "image-comics",
+    "toni-mur",
+    "dzherom-openya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

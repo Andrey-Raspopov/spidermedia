@@ -4,6 +4,10 @@
   "url": "/news/sorvigolova-prevyu-treylera-i-podrobnosti-ot-charli-koksa/",
   "original_url": "https://spidermedia.ru/news/sorvigolova-prevyu-treylera-i-podrobnosti-ot-charli-koksa",
   "archived": "https://web.archive.org/web/20240618003657/https://spidermedia.ru/news/sorvigolova-prevyu-treylera-i-podrobnosti-ot-charli-koksa",
+  "tags": [
+    "marvel",
+    "daredevil"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

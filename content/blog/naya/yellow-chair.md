@@ -4,6 +4,10 @@
   "url": "/blog/naya/yellow-chair/",
   "original_url": "http://spidermedia.ru/blog/naya/yellow-chair",
   "archived": "https://web.archive.org/web/20250807003014/http://spidermedia.ru/blog/naya/yellow-chair",
+  "tags": [
+    "one-shot",
+    "manga"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

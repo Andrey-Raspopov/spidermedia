@@ -4,6 +4,9 @@
   "url": "/blog/naya/apple/",
   "original_url": "http://spidermedia.ru/blog/naya/apple",
   "archived": "https://web.archive.org/web/20251208075633/http://spidermedia.ru/blog/naya/apple",
+  "tags": [
+    "manga"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

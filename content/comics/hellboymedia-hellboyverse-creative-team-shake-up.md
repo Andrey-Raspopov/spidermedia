@@ -4,6 +4,10 @@
   "url": "/comics/hellboymedia-hellboyverse-creative-team-shake-up/",
   "original_url": "http://spidermedia.ru/comics/hellboymedia-hellboyverse-creative-team-shake-up",
   "archived": "https://web.archive.org/web/20251206161842/http://spidermedia.ru/comics/hellboymedia-hellboyverse-creative-team-shake-up",
+  "tags": [
+    "hellboymedia",
+    "novosti"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

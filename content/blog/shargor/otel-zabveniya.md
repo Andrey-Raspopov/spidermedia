@@ -4,6 +4,13 @@
   "url": "/blog/shargor/otel-zabveniya/",
   "original_url": "http://spidermedia.ru/blog/shargor/otel-zabveniya",
   "archived": "https://web.archive.org/web/20190811011244/http://spidermedia.ru:80/blog/shargor/otel-zabveniya",
+  "tags": [
+    "dzherard-vej",
+    "gabriel-ba",
+    "umbrella-academy",
+    "san-diego-comic-con-international",
+    "dark-horse"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

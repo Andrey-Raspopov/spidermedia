@@ -4,6 +4,11 @@
   "url": "/blog/red-hulk/fables/",
   "original_url": "http://spidermedia.ru/blog/red-hulk/fables",
   "archived": "https://web.archive.org/web/20250808205404/http://spidermedia.ru/blog/red-hulk/fables",
+  "tags": [
+    "vertigo",
+    "fables",
+    "serialy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

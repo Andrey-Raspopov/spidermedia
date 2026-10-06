@@ -4,6 +4,11 @@
   "url": "/comics/roskomnadzor-luchshe-pozdno/",
   "original_url": "http://spidermedia.ru/comics/roskomnadzor-luchshe-pozdno",
   "archived": "https://web.archive.org/web/20250123091417/http://spidermedia.ru/comics/roskomnadzor-luchshe-pozdno",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "roskomnadzor",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

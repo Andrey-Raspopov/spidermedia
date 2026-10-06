@@ -4,6 +4,12 @@
   "url": "/news/sluhi-kolonka-1/",
   "original_url": "http://spidermedia.ru/news/sluhi-kolonka-1",
   "archived": "https://web.archive.org/web/20251211031601/http://spidermedia.ru/news/sluhi-kolonka-1",
+  "tags": [
+    "marvel",
+    "endi-diggl",
+    "sluhi",
+    "duejn-sverchinski"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/news/kapitan-sving-i-elektricheskie-piraty/",
   "original_url": "https://spidermedia.ru/news/kapitan-sving-i-elektricheskie-piraty",
   "archived": "https://web.archive.org/web/20251108025221/https://spidermedia.ru/news/kapitan-sving-i-elektricheskie-piraty",
+  "tags": [
+    "warren-ellis",
+    "art-0",
+    "avatar-press"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

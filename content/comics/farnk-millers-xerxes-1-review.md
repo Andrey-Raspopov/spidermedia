@@ -4,6 +4,10 @@
   "url": "/comics/farnk-millers-xerxes-1-review/",
   "original_url": "http://spidermedia.ru/comics/farnk-millers-xerxes-1-review",
   "archived": "https://web.archive.org/web/20250709060456/http://spidermedia.ru/comics/farnk-millers-xerxes-1-review",
+  "tags": [
+    "dark-horse",
+    "frenk-miller"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,15 @@
   "url": "/news/novyy-tor-v-novom-godu/",
   "original_url": "http://spidermedia.ru/news/novyy-tor-v-novom-godu",
   "archived": "https://web.archive.org/web/20260313113529/http://spidermedia.ru/news/novyy-tor-v-novom-godu",
+  "tags": [
+    "kiron-gillen",
+    "dzhon-romita-ml",
+    "j-michael-straczynski",
+    "billi-tan",
+    "thor",
+    "marvel",
+    "matt-fraction"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/blog/igrok/tv-na-lyubitelya-hannibal/",
   "original_url": "http://spidermedia.ru/blog/igrok/tv-na-lyubitelya-hannibal",
   "archived": "https://web.archive.org/web/20231202150343/http://spidermedia.ru/blog/igrok/tv-na-lyubitelya-hannibal",
+  "tags": [
+    "serialy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

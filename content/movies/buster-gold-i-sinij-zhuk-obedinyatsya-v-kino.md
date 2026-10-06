@@ -4,6 +4,11 @@
   "url": "/movies/buster-gold-i-sinij-zhuk-obedinyatsya-v-kino/",
   "original_url": "https://spidermedia.ru/movies/buster-gold-i-sinij-zhuk-obedinyatsya-v-kino",
   "archived": "https://web.archive.org/web/20260117224532/https://spidermedia.ru/movies/buster-gold-i-sinij-zhuk-obedinyatsya-v-kino",
+  "tags": [
+    "dc-comics",
+    "buster-gold",
+    "blue-beetle"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

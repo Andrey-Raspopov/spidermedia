@@ -4,6 +4,17 @@
   "url": "/news/starik-v-beshenstve/",
   "original_url": "http://spidermedia.ru/news/starik-v-beshenstve",
   "archived": "https://web.archive.org/web/20111018131206/http://spidermedia.ru/news/starik-v-beshenstve",
+  "tags": [
+    "logan",
+    "marvel",
+    "wolverine",
+    "art-0",
+    "komiksy",
+    "logan-0",
+    "oblozhki",
+    "preview-s",
+    "rosomaha"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

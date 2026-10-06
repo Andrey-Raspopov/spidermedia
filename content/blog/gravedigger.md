@@ -4,6 +4,11 @@
   "url": "/blog/gravedigger/",
   "original_url": "http://spidermedia.ru/blog/gravedigger",
   "archived": "https://web.archive.org/web/20120512081647/http://spidermedia.ru/blog/gravedigger",
+  "tags": [
+    "concerned",
+    "veb-komiksy",
+    "unreal-comics"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

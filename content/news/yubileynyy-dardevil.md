@@ -4,6 +4,11 @@
   "url": "/news/yubileynyy-dardevil/",
   "original_url": "http://spidermedia.ru/news/yubileynyy-dardevil",
   "archived": "https://web.archive.org/web/20250424190829/http://spidermedia.ru/news/yubileynyy-dardevil",
+  "tags": [
+    "marvel",
+    "daredevil",
+    "dardevil"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

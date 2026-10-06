@@ -4,6 +4,11 @@
   "url": "/news/mstiteli-vstrechayte-mariyu-hill/",
   "original_url": "http://spidermedia.ru/news/mstiteli-vstrechayte-mariyu-hill",
   "archived": "https://web.archive.org/web/20140417010758/http://spidermedia.ru:80/news/mstiteli-vstrechayte-mariyu-hill",
+  "tags": [
+    "movie",
+    "marvel",
+    "avengers"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

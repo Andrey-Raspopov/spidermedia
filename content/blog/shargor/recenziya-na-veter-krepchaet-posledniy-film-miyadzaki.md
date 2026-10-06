@@ -4,6 +4,11 @@
   "url": "/blog/shargor/recenziya-na-veter-krepchaet-posledniy-film-miyadzaki/",
   "original_url": "https://spidermedia.ru/blog/shargor/recenziya-na-veter-krepchaet-posledniy-film-miyadzaki",
   "archived": "https://web.archive.org/web/20260209120751/https://spidermedia.ru/blog/shargor/recenziya-na-veter-krepchaet-posledniy-film-miyadzaki",
+  "tags": [
+    "recenziya",
+    "anime",
+    "animaciya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

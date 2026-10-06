@@ -4,6 +4,11 @@
   "url": "/news/secret-service-trailer-mark-millar-matthew-vaughn-colin-firth/",
   "original_url": "http://spidermedia.ru/news/secret-service-trailer-mark-millar-matthew-vaughn-colin-firth",
   "archived": "https://web.archive.org/web/20260125114708/http://spidermedia.ru/news/secret-service-trailer-mark-millar-matthew-vaughn-colin-firth",
+  "tags": [
+    "trejlery",
+    "tajnaya-sluzhba",
+    "mark-millar"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,19 @@
   "url": "/news/greet-ladon-rukoyatka-katany-no-holod-v-dushe/",
   "original_url": "http://spidermedia.ru/news/greet-ladon-rukoyatka-katany-no-holod-v-dushe",
   "archived": "https://web.archive.org/web/20260214142218/http://spidermedia.ru/news/greet-ladon-rukoyatka-katany-no-holod-v-dushe",
+  "tags": [
+    "art-0",
+    "peter-milligan",
+    "dzhon-kessedej",
+    "devid-mek",
+    "dzhuzeppe-kamunkoli",
+    "psajlok",
+    "punisher",
+    "deadpool",
+    "hulk",
+    "wolverine",
+    "psylocke"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

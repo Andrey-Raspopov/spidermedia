@@ -4,6 +4,10 @@
   "url": "/comics/best-column-about-comics-38-bolivar/",
   "original_url": "http://spidermedia.ru/comics/best-column-about-comics-38-bolivar",
   "archived": "https://web.archive.org/web/20260312005511/http://spidermedia.ru/comics/best-column-about-comics-38-bolivar",
+  "tags": [
+    "best-column-about-comics",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/movies/krossovera-macho-i-botana-i-lyudej-v-chyornom-ne-za-gorami/",
   "original_url": "http://spidermedia.ru/movies/krossovera-macho-i-botana-i-lyudej-v-chyornom-ne-za-gorami",
   "archived": "https://web.archive.org/web/20201125110436/http://spidermedia.ru/movies/krossovera-macho-i-botana-i-lyudej-v-chyornom-ne-za-gorami",
+  "tags": [
+    "men-in-black"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

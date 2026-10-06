@@ -4,6 +4,13 @@
   "url": "/news/debora-enn-uoll-vozlyublennaya-sorvigolovy/",
   "original_url": "http://spidermedia.ru/news/debora-enn-uoll-vozlyublennaya-sorvigolovy",
   "archived": "https://web.archive.org/web/20250804004650/http://spidermedia.ru/news/debora-enn-uoll-vozlyublennaya-sorvigolovy",
+  "tags": [
+    "serialy",
+    "daredevil",
+    "marvel",
+    "kasting",
+    "debora-enn-uoll"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

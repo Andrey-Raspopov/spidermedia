@@ -4,6 +4,9 @@
   "url": "/comics/zena-koroleva-voinov-vozvrashhaetsya-v-aprele/",
   "original_url": "https://spidermedia.ru/comics/zena-koroleva-voinov-vozvrashhaetsya-v-aprele",
   "archived": "https://web.archive.org/web/20251115031938/https://spidermedia.ru/comics/zena-koroleva-voinov-vozvrashhaetsya-v-aprele",
+  "tags": [
+    "dynamite-entertainment"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,17 @@
   "url": "/news/x-men-legacy-novyy-start/",
   "original_url": "https://spidermedia.ru/news/x-men-legacy-novyy-start",
   "archived": "https://web.archive.org/web/20251205125133/https://spidermedia.ru/news/x-men-legacy-novyy-start",
+  "tags": [
+    "x-men",
+    "marvel",
+    "majk-keri",
+    "gambit",
+    "rogue",
+    "roug",
+    "shelma",
+    "denzher",
+    "legacy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

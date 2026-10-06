@@ -4,6 +4,13 @@
   "url": "/news/marvel-anime-blade/",
   "original_url": "http://spidermedia.ru/news/marvel-anime-blade",
   "archived": "https://web.archive.org/web/20251108181702/http://spidermedia.ru/news/marvel-anime-blade",
+  "tags": [
+    "blejd",
+    "anime",
+    "animaciya",
+    "marvel",
+    "blade"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/comics/jack-kirby-100-anniversary-part-15-finale/",
   "original_url": "https://spidermedia.ru/comics/jack-kirby-100-anniversary-part-15-finale",
   "archived": "https://web.archive.org/web/20210505222120/https://spidermedia.ru/comics/jack-kirby-100-anniversary-part-15-finale",
+  "tags": [
+    "jack-kirby",
+    "kirby100"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

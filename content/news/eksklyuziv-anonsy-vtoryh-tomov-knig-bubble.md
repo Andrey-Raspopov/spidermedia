@@ -4,6 +4,14 @@
   "url": "/news/eksklyuziv-anonsy-vtoryh-tomov-knig-bubble/",
   "original_url": "https://spidermedia.ru/news/eksklyuziv-anonsy-vtoryh-tomov-knig-bubble",
   "archived": "https://web.archive.org/web/20260214134215/https://spidermedia.ru/news/eksklyuziv-anonsy-vtoryh-tomov-knig-bubble",
+  "tags": [
+    "russian-comics",
+    "major-grom",
+    "krasnaya-furiya",
+    "inok",
+    "besoboj",
+    "bubble"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

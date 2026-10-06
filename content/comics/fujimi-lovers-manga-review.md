@@ -4,6 +4,9 @@
   "url": "/comics/fujimi-lovers-manga-review/",
   "original_url": "https://spidermedia.ru/comics/fujimi-lovers-manga-review",
   "archived": "https://web.archive.org/web/20251216122524/https://spidermedia.ru/comics/fujimi-lovers-manga-review",
+  "tags": [
+    "manga"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

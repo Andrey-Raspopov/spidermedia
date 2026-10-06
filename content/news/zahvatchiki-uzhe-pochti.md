@@ -4,6 +4,13 @@
   "url": "/news/zahvatchiki-uzhe-pochti/",
   "original_url": "https://spidermedia.ru/news/zahvatchiki-uzhe-pochti",
   "archived": "https://web.archive.org/web/20260206223514/https://spidermedia.ru/news/zahvatchiki-uzhe-pochti",
+  "tags": [
+    "kristos-gejdzh",
+    "zahvatchiki",
+    "alex-ross",
+    "marvel",
+    "invaders"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

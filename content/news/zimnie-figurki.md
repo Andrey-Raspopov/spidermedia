@@ -4,6 +4,11 @@
   "url": "/news/zimnie-figurki/",
   "original_url": "http://spidermedia.ru/news/zimnie-figurki",
   "archived": "https://web.archive.org/web/20260115055737/http://spidermedia.ru/news/zimnie-figurki",
+  "tags": [
+    "statui",
+    "figurki",
+    "byusty"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/blog/naya/detective-dance/",
   "original_url": "http://spidermedia.ru/blog/naya/detective-dance",
   "archived": "https://web.archive.org/web/20111018214148/http://spidermedia.ru/blog/naya/detective-dance",
+  "tags": [
+    "manga",
+    "one-shot",
+    "action",
+    "skachat"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

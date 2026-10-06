@@ -4,6 +4,9 @@
   "url": "/blog/aleksey-volkov/bob-vud-i-ubiystvo-v-nomere-91-chast-1-0/",
   "original_url": "http://spidermedia.ru/blog/aleksey-volkov/bob-vud-i-ubiystvo-v-nomere-91-chast-1-0",
   "archived": "https://web.archive.org/web/20240912044543/http://spidermedia.ru/blog/aleksey-volkov/bob-vud-i-ubiystvo-v-nomere-91-chast-1-0",
+  "tags": [
+    "istoriya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

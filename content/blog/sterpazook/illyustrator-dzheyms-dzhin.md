@@ -4,6 +4,12 @@
   "url": "/blog/sterpazook/illyustrator-dzheyms-dzhin/",
   "original_url": "https://spidermedia.ru/blog/sterpazook/illyustrator-dzheyms-dzhin",
   "archived": "https://web.archive.org/web/20240805040457/https://spidermedia.ru/blog/sterpazook/illyustrator-dzheyms-dzhin",
+  "tags": [
+    "art-0",
+    "fables",
+    "james-jean",
+    "dzhejms-dzhin"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

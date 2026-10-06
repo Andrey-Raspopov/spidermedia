@@ -4,6 +4,10 @@
   "url": "/comics/pravyj-pereplet-06-titany/",
   "original_url": "http://spidermedia.ru/comics/pravyj-pereplet-06-titany",
   "archived": "https://web.archive.org/web/20250116130106/http://spidermedia.ru/comics/pravyj-pereplet-06-titany",
+  "tags": [
+    "manga",
+    "right-binding"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/comics/dept-h-new-matt-kindt/",
   "original_url": "http://spidermedia.ru/comics/dept-h-new-matt-kindt",
   "archived": "https://web.archive.org/web/20241205033007/http://spidermedia.ru/comics/dept-h-new-matt-kindt",
+  "tags": [
+    "dark-horse",
+    "san-diego-comic-con-international",
+    "mett-kindt"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

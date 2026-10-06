@@ -4,6 +4,13 @@
   "url": "/news/dvoynaya-sila-dvoynaya-otvetstvennost/",
   "original_url": "http://spidermedia.ru/news/dvoynaya-sila-dvoynaya-otvetstvennost",
   "archived": "https://web.archive.org/web/20250318081852/http://spidermedia.ru/news/dvoynaya-sila-dvoynaya-otvetstvennost",
+  "tags": [
+    "brian-michael-bendis",
+    "ultimate-spider-man",
+    "spider-man",
+    "marvel",
+    "sara-pichelli"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

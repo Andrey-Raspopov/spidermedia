@@ -4,6 +4,13 @@
   "url": "/blog/naya/kimi-wo-omofu/",
   "original_url": "http://spidermedia.ru/blog/naya/kimi-wo-omofu",
   "archived": "https://web.archive.org/web/20120607131454/http://spidermedia.ru/blog/naya/kimi-wo-omofu",
+  "tags": [
+    "comedy",
+    "drama",
+    "manga",
+    "one-shot",
+    "skachat"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

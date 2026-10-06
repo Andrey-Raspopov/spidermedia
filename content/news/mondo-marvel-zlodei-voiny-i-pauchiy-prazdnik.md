@@ -4,6 +4,17 @@
   "url": "/news/mondo-marvel-zlodei-voiny-i-pauchiy-prazdnik/",
   "original_url": "https://spidermedia.ru/news/mondo-marvel-zlodei-voiny-i-pauchiy-prazdnik",
   "archived": "https://web.archive.org/web/20251213193421/https://spidermedia.ru/news/mondo-marvel-zlodei-voiny-i-pauchiy-prazdnik",
+  "tags": [
+    "sten-li",
+    "ketrin-immonen",
+    "kristos-gejdzh",
+    "den-slott",
+    "dzhon-romita-ml",
+    "amerikanskij-syn",
+    "marvel",
+    "house-of-m",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

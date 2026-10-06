@@ -4,6 +4,13 @@
   "url": "/blog/plane-v/milkshake-reviews-01-retro-gyorl-v-tvoroge-gipertayma/",
   "original_url": "https://spidermedia.ru/blog/plane-v/milkshake-reviews-01-retro-gyorl-v-tvoroge-gipertayma",
   "archived": "https://web.archive.org/web/20260117232751/https://spidermedia.ru/blog/plane-v/milkshake-reviews-01-retro-gyorl-v-tvoroge-gipertayma",
+  "tags": [
+    "vertigo",
+    "top-shelf-productions",
+    "milkshake-reviews",
+    "marvel",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

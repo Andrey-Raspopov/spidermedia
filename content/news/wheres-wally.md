@@ -4,6 +4,19 @@
   "url": "/news/wheres-wally/",
   "original_url": "https://spidermedia.ru/news/wheres-wally",
   "archived": "https://web.archive.org/web/20251208072130/https://spidermedia.ru/news/wheres-wally",
+  "tags": [
+    "the-flash",
+    "uill-konrad",
+    "toni-bedard",
+    "skott-iton",
+    "robert-venditti",
+    "piter-tomasi",
+    "paulo-sikejra",
+    "kajl-higgins",
+    "greg-pak",
+    "brett-but",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

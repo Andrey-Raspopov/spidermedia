@@ -4,6 +4,15 @@
   "url": "/news/x-men-vs-vampires/",
   "original_url": "http://spidermedia.ru/news/x-men-vs-vampires",
   "archived": "https://web.archive.org/web/20260206231452/http://spidermedia.ru/news/x-men-vs-vampires",
+  "tags": [
+    "era-geroev",
+    "pako-medina",
+    "viktor-gishler",
+    "vampiry",
+    "x-men",
+    "marvel",
+    "heroic-age"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

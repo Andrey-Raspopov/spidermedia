@@ -4,6 +4,11 @@
   "url": "/comics/battle-of-berlin-review/",
   "original_url": "https://spidermedia.ru/comics/battle-of-berlin-review",
   "archived": "https://web.archive.org/web/20260226175441/https://spidermedia.ru/comics/battle-of-berlin-review",
+  "tags": [
+    "bubble",
+    "andrej-vasin",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

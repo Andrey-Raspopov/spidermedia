@@ -4,6 +4,11 @@
   "url": "/blog/plane-v/hype-o-tron-3000/",
   "original_url": "http://spidermedia.ru/blog/plane-v/hype-o-tron-3000",
   "archived": "https://web.archive.org/web/20190929140059/http://spidermedia.ru:80/blog/plane-v/hype-o-tron-3000",
+  "tags": [
+    "scott-pilgrim",
+    "emma-frost",
+    "igry"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

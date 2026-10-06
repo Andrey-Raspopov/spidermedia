@@ -4,6 +4,9 @@
   "url": "/blog/ghost-knight/privetstvuyu/",
   "original_url": "http://spidermedia.ru/blog/ghost-knight/privetstvuyu",
   "archived": "https://web.archive.org/web/20120608195413/http://spidermedia.ru/blog/ghost-knight/privetstvuyu",
+  "tags": [
+    "vstuplenie"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

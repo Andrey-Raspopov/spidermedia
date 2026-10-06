@@ -4,6 +4,9 @@
   "url": "/comics/new-comics-day-september-30-2020/",
   "original_url": "https://spidermedia.ru/comics/new-comics-day-september-30-2020",
   "archived": "https://web.archive.org/web/20260125114742/https://spidermedia.ru/comics/new-comics-day-september-30-2020",
+  "tags": [
+    "den-novyh-komiksov"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

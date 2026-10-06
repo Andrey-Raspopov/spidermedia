@@ -4,6 +4,12 @@
   "url": "/news/hudozhnik-legendy/",
   "original_url": "http://spidermedia.ru/news/hudozhnik-legendy",
   "archived": "https://web.archive.org/web/20120607120715/http://spidermedia.ru/news/hudozhnik-legendy",
+  "tags": [
+    "marvelman",
+    "komiksy",
+    "marvel",
+    "mark-bakingem"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

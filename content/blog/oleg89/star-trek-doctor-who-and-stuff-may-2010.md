@@ -4,6 +4,21 @@
   "url": "/blog/oleg89/star-trek-doctor-who-and-stuff-may-2010/",
   "original_url": "http://spidermedia.ru/blog/oleg89/star-trek-doctor-who-and-stuff-may-2010",
   "archived": "https://web.archive.org/web/20260215091158/http://spidermedia.ru/blog/oleg89/star-trek-doctor-who-and-stuff-may-2010",
+  "tags": [
+    "robocop",
+    "idw-publishing",
+    "dynamite-entertainment",
+    "dark-horse",
+    "boom-studios",
+    "angel",
+    "baffi-istrebitelnica-vampirov",
+    "doctor-who",
+    "zvezdnye-vojny",
+    "zvezdnye-vrata",
+    "zvezdnyj-put",
+    "terminator",
+    "transformers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

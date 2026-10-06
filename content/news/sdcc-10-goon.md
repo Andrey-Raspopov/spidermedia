@@ -4,6 +4,12 @@
   "url": "/news/sdcc-10-goon/",
   "original_url": "http://spidermedia.ru/news/sdcc-10-goon",
   "archived": "https://web.archive.org/web/20210128041534/http://spidermedia.ru/news/sdcc-10-goon",
+  "tags": [
+    "erik-pauell",
+    "san-diego-comic-con-international",
+    "the-goon",
+    "dark-horse"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

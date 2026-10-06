@@ -4,6 +4,11 @@
   "url": "/blog/hella/roskomnadzor-vse-horosho-shato-margo-vse-horosho/",
   "original_url": "https://spidermedia.ru/blog/hella/roskomnadzor-vse-horosho-shato-margo-vse-horosho",
   "archived": "https://web.archive.org/web/20260214134338/https://spidermedia.ru/blog/hella/roskomnadzor-vse-horosho-shato-margo-vse-horosho",
+  "tags": [
+    "russian-comics",
+    "roskomnadzor",
+    "zarubezhnye-komiksy-na-russkom"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

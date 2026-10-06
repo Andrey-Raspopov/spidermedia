@@ -4,6 +4,12 @@
   "url": "/comics/dc-comics-podrobnosti-novyh-proektov-granta-morrisona/",
   "original_url": "https://spidermedia.ru/comics/dc-comics-podrobnosti-novyh-proektov-granta-morrisona",
   "archived": "https://web.archive.org/web/20260209105200/https://spidermedia.ru/comics/dc-comics-podrobnosti-novyh-proektov-granta-morrisona",
+  "tags": [
+    "dc-comics",
+    "batman",
+    "grant-morrison",
+    "the-flash"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

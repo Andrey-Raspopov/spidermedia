@@ -4,6 +4,10 @@
   "url": "/news/skrinshoty-igry-punisher-no-mercy/",
   "original_url": "http://spidermedia.ru/news/skrinshoty-igry-punisher-no-mercy",
   "archived": "https://web.archive.org/web/20260206230553/http://spidermedia.ru/news/skrinshoty-igry-punisher-no-mercy",
+  "tags": [
+    "punisher",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

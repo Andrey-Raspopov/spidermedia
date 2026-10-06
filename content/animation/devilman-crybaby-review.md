@@ -4,6 +4,10 @@
   "url": "/animation/devilman-crybaby-review/",
   "original_url": "http://spidermedia.ru/animation/devilman-crybaby-review",
   "archived": "https://web.archive.org/web/20251107011440/http://spidermedia.ru/animation/devilman-crybaby-review",
+  "tags": [
+    "netflix",
+    "anime"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

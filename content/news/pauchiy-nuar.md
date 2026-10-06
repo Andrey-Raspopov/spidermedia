@@ -4,6 +4,13 @@
   "url": "/news/pauchiy-nuar/",
   "original_url": "http://spidermedia.ru/news/pauchiy-nuar",
   "archived": "https://web.archive.org/web/20200217104546/http://spidermedia.ru:80/news/pauchiy-nuar",
+  "tags": [
+    "dennis-kalero",
+    "art-0",
+    "noirverse",
+    "marvel",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

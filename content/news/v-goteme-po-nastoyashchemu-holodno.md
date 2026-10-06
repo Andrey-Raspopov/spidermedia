@@ -4,6 +4,16 @@
   "url": "/news/v-goteme-po-nastoyashchemu-holodno/",
   "original_url": "https://spidermedia.ru/news/v-goteme-po-nastoyashchemu-holodno",
   "archived": "https://web.archive.org/web/20260214141502/https://spidermedia.ru/news/v-goteme-po-nastoyashchemu-holodno",
+  "tags": [
+    "dc-comics",
+    "batman",
+    "gotem",
+    "james-gordon",
+    "mister-freeze",
+    "gcpd",
+    "dzhejms-gordon",
+    "mister-friz"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

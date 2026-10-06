@@ -4,6 +4,10 @@
   "url": "/tv/supergerl-krasnyj-tornado-foto/",
   "original_url": "https://spidermedia.ru/tv/supergerl-krasnyj-tornado-foto",
   "archived": "https://web.archive.org/web/20250906185859/https://spidermedia.ru/tv/supergerl-krasnyj-tornado-foto",
+  "tags": [
+    "dc-comics",
+    "krasnyj-tornado"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

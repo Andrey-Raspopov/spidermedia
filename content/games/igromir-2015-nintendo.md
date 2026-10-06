@@ -4,6 +4,11 @@
   "url": "/games/igromir-2015-nintendo/",
   "original_url": "http://spidermedia.ru/games/igromir-2015-nintendo",
   "archived": "https://web.archive.org/web/20250906075905/http://spidermedia.ru/games/igromir-2015-nintendo",
+  "tags": [
+    "comic-con-russia",
+    "nintendo",
+    "igromir-2015"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/news/armiya-tmy-istoriya-zhivyh-mertvecov/",
   "original_url": "http://spidermedia.ru/news/armiya-tmy-istoriya-zhivyh-mertvecov",
   "archived": "https://web.archive.org/web/20231001044958/http://spidermedia.ru/news/armiya-tmy-istoriya-zhivyh-mertvecov",
+  "tags": [
+    "serialy",
+    "robert-kirkman",
+    "the-walking-dead",
+    "image-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

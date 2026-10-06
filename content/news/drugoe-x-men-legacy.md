@@ -4,6 +4,15 @@
   "url": "/news/drugoe-x-men-legacy/",
   "original_url": "https://spidermedia.ru/news/drugoe-x-men-legacy",
   "archived": "https://web.archive.org/web/20260215073644/https://spidermedia.ru/news/drugoe-x-men-legacy",
+  "tags": [
+    "rafa-sendoval",
+    "majk-suajan",
+    "majk-keri",
+    "art-0",
+    "x-men",
+    "mmxi",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

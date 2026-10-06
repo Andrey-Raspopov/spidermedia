@@ -4,6 +4,20 @@
   "url": "/news/surely-second-coming-hand/",
   "original_url": "http://spidermedia.ru/news/surely-second-coming-hand",
   "archived": "https://web.archive.org/web/20120512065030/http://spidermedia.ru/news/surely-second-coming-hand",
+  "tags": [
+    "kitty-pryde",
+    "matt-fraction",
+    "nation-x",
+    "second-coming",
+    "uncanny-x-men",
+    "x-men",
+    "x-universe",
+    "kitti-prayd",
+    "komiksy",
+    "lyudi-iks",
+    "marvel",
+    "mett-frakshen"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

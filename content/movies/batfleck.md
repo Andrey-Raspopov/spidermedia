@@ -4,6 +4,11 @@
   "url": "/movies/batfleck/",
   "original_url": "https://spidermedia.ru/movies/batfleck",
   "archived": "https://web.archive.org/web/20260313112218/https://spidermedia.ru/movies/batfleck",
+  "tags": [
+    "dc-comics",
+    "batman",
+    "san-diego-comic-con-international"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

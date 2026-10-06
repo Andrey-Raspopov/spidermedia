@@ -4,6 +4,25 @@
   "url": "/news/plotnaya-vzaimosvyaz/",
   "original_url": "https://spidermedia.ru/news/plotnaya-vzaimosvyaz",
   "archived": "https://web.archive.org/web/20251110232012/https://spidermedia.ru/news/plotnaya-vzaimosvyaz",
+  "tags": [
+    "dc-comics",
+    "j-michael-straczynski",
+    "hesus-sejz",
+    "dzhej-dzhi-dzhons",
+    "bill-sinkevich",
+    "tom-derenik",
+    "greg-skott",
+    "rodzher-robinson",
+    "hilari-bart",
+    "endi-ouens",
+    "skott-makdeniel",
+    "inferno",
+    "shhit",
+    "pautina",
+    "web",
+    "shield",
+    "hangman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

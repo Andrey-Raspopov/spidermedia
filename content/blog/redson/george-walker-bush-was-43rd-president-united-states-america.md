@@ -4,6 +4,13 @@
   "url": "/blog/redson/george-walker-bush-was-43rd-president-united-states-america/",
   "original_url": "https://spidermedia.ru/blog/redson/george-walker-bush-was-43rd-president-united-states-america",
   "archived": "https://web.archive.org/web/20250321102641/https://spidermedia.ru/blog/redson/george-walker-bush-was-43rd-president-united-states-america",
+  "tags": [
+    "warren-ellis",
+    "alan-mur",
+    "mark-millar",
+    "yumor",
+    "bluewater"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

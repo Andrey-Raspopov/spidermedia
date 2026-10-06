@@ -4,6 +4,15 @@
   "url": "/news/mertv-ili-zhiv/",
   "original_url": "http://spidermedia.ru/news/mertv-ili-zhiv",
   "archived": "https://web.archive.org/web/20120608224133/http://spidermedia.ru/news/mertv-ili-zhiv",
+  "tags": [
+    "deathlok",
+    "art-0",
+    "deslok",
+    "komiksy",
+    "marvel",
+    "oblozhki",
+    "sketch"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

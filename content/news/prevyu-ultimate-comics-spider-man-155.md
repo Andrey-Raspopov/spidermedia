@@ -4,6 +4,14 @@
   "url": "/news/prevyu-ultimate-comics-spider-man-155/",
   "original_url": "https://spidermedia.ru/news/prevyu-ultimate-comics-spider-man-155",
   "archived": "https://web.archive.org/web/20250422031520/https://spidermedia.ru/news/prevyu-ultimate-comics-spider-man-155",
+  "tags": [
+    "preview",
+    "olive-kojpel",
+    "chris-samnee",
+    "art-0",
+    "ultimate",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

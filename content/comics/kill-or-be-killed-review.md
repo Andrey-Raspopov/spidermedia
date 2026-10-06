@@ -4,6 +4,11 @@
   "url": "/comics/kill-or-be-killed-review/",
   "original_url": "http://spidermedia.ru/comics/kill-or-be-killed-review",
   "archived": "https://web.archive.org/web/20260313113329/http://spidermedia.ru/comics/kill-or-be-killed-review",
+  "tags": [
+    "shon-fillips",
+    "ed-brubaker",
+    "image-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

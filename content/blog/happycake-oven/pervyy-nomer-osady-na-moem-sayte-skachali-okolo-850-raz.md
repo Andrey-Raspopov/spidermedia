@@ -4,6 +4,9 @@
   "url": "/blog/happycake-oven/pervyy-nomer-osady-na-moem-sayte-skachali-okolo-850-raz/",
   "original_url": "http://spidermedia.ru/blog/happycake-oven/pervyy-nomer-osady-na-moem-sayte-skachali-okolo-850-raz",
   "archived": "https://web.archive.org/web/20120610083424/http://spidermedia.ru/blog/happycake-oven/pervyy-nomer-osady-na-moem-sayte-skachali-okolo-850-raz",
+  "tags": [
+    "perevody-komiksov"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

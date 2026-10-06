@@ -4,6 +4,11 @@
   "url": "/news/oktyabr-mertvyy-mesyac/",
   "original_url": "http://spidermedia.ru/news/oktyabr-mertvyy-mesyac",
   "archived": "https://web.archive.org/web/20230208162902/http://spidermedia.ru/news/oktyabr-mertvyy-mesyac",
+  "tags": [
+    "serialy",
+    "the-walking-dead",
+    "image-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

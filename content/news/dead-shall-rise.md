@@ -4,6 +4,20 @@
   "url": "/news/dead-shall-rise/",
   "original_url": "https://spidermedia.ru/news/dead-shall-rise",
   "archived": "https://web.archive.org/web/20260209113347/https://spidermedia.ru/news/dead-shall-rise",
+  "tags": [
+    "x-force",
+    "selene",
+    "san-diego-comic-con-international",
+    "necrosha",
+    "marvel",
+    "legacy",
+    "zeb-uells",
+    "krejg-kajl",
+    "kris-jost",
+    "x-men",
+    "majk-keri",
+    "new-mutants"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

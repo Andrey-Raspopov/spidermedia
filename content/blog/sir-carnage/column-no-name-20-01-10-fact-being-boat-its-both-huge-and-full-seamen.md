@@ -4,6 +4,11 @@
   "url": "/blog/sir-carnage/column-no-name-20-01-10-fact-being-boat-its-both-huge-and-full-seamen/",
   "original_url": "https://spidermedia.ru/blog/sir-carnage/column-no-name-20-01-10-fact-being-boat-its-both-huge-and-full-seamen",
   "archived": "https://web.archive.org/web/20250709070800/https://spidermedia.ru/blog/sir-carnage/column-no-name-20-01-10-fact-being-boat-its-both-huge-and-full-seamen",
+  "tags": [
+    "vertigo",
+    "marvel",
+    "the-column-with-no-name"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

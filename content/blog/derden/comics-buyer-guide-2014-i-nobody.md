@@ -4,6 +4,11 @@
   "url": "/blog/derden/comics-buyer-guide-2014-i-nobody/",
   "original_url": "https://spidermedia.ru/blog/derden/comics-buyer-guide-2014-i-nobody",
   "archived": "https://web.archive.org/web/20251110230403/https://spidermedia.ru/blog/derden/comics-buyer-guide-2014-i-nobody",
+  "tags": [
+    "vertigo",
+    "dc-comics",
+    "dark-horse"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

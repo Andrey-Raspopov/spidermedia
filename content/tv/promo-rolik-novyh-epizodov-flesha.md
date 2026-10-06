@@ -4,6 +4,10 @@
   "url": "/tv/promo-rolik-novyh-epizodov-flesha/",
   "original_url": "https://spidermedia.ru/tv/promo-rolik-novyh-epizodov-flesha",
   "archived": "https://web.archive.org/web/20260120153013/https://spidermedia.ru/tv/promo-rolik-novyh-epizodov-flesha",
+  "tags": [
+    "the-flash",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

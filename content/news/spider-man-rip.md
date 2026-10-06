@@ -4,6 +4,11 @@
   "url": "/news/spider-man-rip/",
   "original_url": "https://spidermedia.ru/news/spider-man-rip",
   "archived": "https://web.archive.org/web/20240720054755/https://spidermedia.ru/news/spider-man-rip",
+  "tags": [
+    "markos-martin",
+    "marvel",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

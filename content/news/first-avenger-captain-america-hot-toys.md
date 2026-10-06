@@ -4,6 +4,13 @@
   "url": "/news/first-avenger-captain-america-hot-toys/",
   "original_url": "https://spidermedia.ru/news/first-avenger-captain-america-hot-toys",
   "archived": "https://web.archive.org/web/20250913010056/https://spidermedia.ru/news/first-avenger-captain-america-hot-toys",
+  "tags": [
+    "figurki",
+    "marvel",
+    "captain-america",
+    "sideshow",
+    "hot-toys"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

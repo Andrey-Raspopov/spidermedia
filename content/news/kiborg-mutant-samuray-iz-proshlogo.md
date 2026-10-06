@@ -4,6 +4,11 @@
   "url": "/news/kiborg-mutant-samuray-iz-proshlogo/",
   "original_url": "http://spidermedia.ru/news/kiborg-mutant-samuray-iz-proshlogo",
   "archived": "https://web.archive.org/web/20200120103657/http://spidermedia.ru:80/news/kiborg-mutant-samuray-iz-proshlogo",
+  "tags": [
+    "frenk-miller",
+    "ronin",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,17 @@
   "url": "/blog/jean-grey/seks-i-nasilie/",
   "original_url": "http://spidermedia.ru/blog/jean-grey/seks-i-nasilie",
   "archived": "https://web.archive.org/web/20251108031256/http://spidermedia.ru/blog/jean-grey/seks-i-nasilie",
+  "tags": [
+    "x-men",
+    "marvel",
+    "wolverine",
+    "x-force",
+    "nycc-2009",
+    "domino",
+    "gabriele-dell-otto",
+    "krejg-kajl",
+    "kris-jost"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

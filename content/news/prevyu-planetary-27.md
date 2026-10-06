@@ -4,6 +4,15 @@
   "url": "/news/prevyu-planetary-27/",
   "original_url": "http://spidermedia.ru/news/prevyu-planetary-27",
   "archived": "https://web.archive.org/web/20160730063421/http://spidermedia.ru/news/prevyu-planetary-27",
+  "tags": [
+    "uorren-ellis",
+    "preview",
+    "planetarij",
+    "dzhon-kessedi",
+    "warren-ellis",
+    "planetary",
+    "john-cassaday"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/news/mstiteli-era-altrona-novyy-treyler-1/",
   "original_url": "https://spidermedia.ru/news/mstiteli-era-altrona-novyy-treyler-1",
   "archived": "https://web.archive.org/web/20250512121654/https://spidermedia.ru/news/mstiteli-era-altrona-novyy-treyler-1",
+  "tags": [
+    "avengers",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

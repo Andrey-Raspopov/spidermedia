@@ -4,6 +4,11 @@
   "url": "/news/lyudi-iks-dni-minuvshego-budushchego-pervye-oficialnye-postery/",
   "original_url": "https://spidermedia.ru/news/lyudi-iks-dni-minuvshego-budushchego-pervye-oficialnye-postery",
   "archived": "https://web.archive.org/web/20260117223922/https://spidermedia.ru/news/lyudi-iks-dni-minuvshego-budushchego-pervye-oficialnye-postery",
+  "tags": [
+    "postery",
+    "days-of-future-past",
+    "x-men"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

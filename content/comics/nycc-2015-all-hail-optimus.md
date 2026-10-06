@@ -4,6 +4,11 @@
   "url": "/comics/nycc-2015-all-hail-optimus/",
   "original_url": "http://spidermedia.ru/comics/nycc-2015-all-hail-optimus",
   "archived": "https://web.archive.org/web/20260313114148/http://spidermedia.ru/comics/nycc-2015-all-hail-optimus",
+  "tags": [
+    "idw-publishing",
+    "komik-kon-v-nyu-yorke",
+    "transformers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

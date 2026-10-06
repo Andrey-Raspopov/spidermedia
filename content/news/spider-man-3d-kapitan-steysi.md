@@ -4,6 +4,10 @@
   "url": "/news/spider-man-3d-kapitan-steysi/",
   "original_url": "https://spidermedia.ru/news/spider-man-3d-kapitan-steysi",
   "archived": "https://web.archive.org/web/20260117221435/https://spidermedia.ru/news/spider-man-3d-kapitan-steysi",
+  "tags": [
+    "marvel",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

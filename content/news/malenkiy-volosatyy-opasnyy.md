@@ -4,6 +4,16 @@
   "url": "/news/malenkiy-volosatyy-opasnyy/",
   "original_url": "http://spidermedia.ru/news/malenkiy-volosatyy-opasnyy",
   "archived": "https://web.archive.org/web/20251018225342/http://spidermedia.ru/news/malenkiy-volosatyy-opasnyy",
+  "tags": [
+    "frenk-cho",
+    "obezyana-naemnik",
+    "deniel-vej",
+    "dzhejson-pirson",
+    "dalibor-taladzhich",
+    "art-0",
+    "marvel",
+    "hitman-monkey"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

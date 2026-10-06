@@ -4,6 +4,12 @@
   "url": "/animation/recenziya-ubijstvennaya-shutka/",
   "original_url": "http://spidermedia.ru/animation/recenziya-ubijstvennaya-shutka",
   "archived": "https://web.archive.org/web/20251216181522/http://spidermedia.ru/animation/recenziya-ubijstvennaya-shutka",
+  "tags": [
+    "dc-comics",
+    "betgyorl",
+    "batman",
+    "joker"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/news/return-innocence/",
   "original_url": "https://spidermedia.ru/news/return-innocence",
   "archived": "https://web.archive.org/web/20251207000908/https://spidermedia.ru/news/return-innocence",
+  "tags": [
+    "spider-man",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

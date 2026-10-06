@@ -4,6 +4,12 @@
   "url": "/news/spider-man-tas-90s-vozvrashchenie/",
   "original_url": "http://spidermedia.ru/news/spider-man-tas-90s-vozvrashchenie",
   "archived": "https://web.archive.org/web/20241109062924/http://spidermedia.ru/news/spider-man-tas-90s-vozvrashchenie",
+  "tags": [
+    "serialy",
+    "animaciya",
+    "marvel",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/blog/gess/lyogkiy-hip-metaproza-i-horoshie-komiksy/",
   "original_url": "https://spidermedia.ru/blog/gess/lyogkiy-hip-metaproza-i-horoshie-komiksy",
   "archived": "https://web.archive.org/web/20260125061457/https://spidermedia.ru/blog/gess/lyogkiy-hip-metaproza-i-horoshie-komiksy",
+  "tags": [
+    "matt-fraction",
+    "muzyka",
+    "iron-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

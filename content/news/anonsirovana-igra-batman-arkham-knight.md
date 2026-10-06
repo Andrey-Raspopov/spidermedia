@@ -4,6 +4,12 @@
   "url": "/news/anonsirovana-igra-batman-arkham-knight/",
   "original_url": "https://spidermedia.ru/news/anonsirovana-igra-batman-arkham-knight",
   "archived": "https://web.archive.org/web/20251013191233/https://spidermedia.ru/news/anonsirovana-igra-batman-arkham-knight",
+  "tags": [
+    "igry",
+    "batman",
+    "dc-comics",
+    "arkham-asylum"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

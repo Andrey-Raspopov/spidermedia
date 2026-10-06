@@ -4,6 +4,11 @@
   "url": "/comics/recenziya-sorvigolova-strah/",
   "original_url": "http://spidermedia.ru/comics/recenziya-sorvigolova-strah",
   "archived": "https://web.archive.org/web/20260116222829/http://spidermedia.ru/comics/recenziya-sorvigolova-strah",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "parallel-comics",
+    "daredevil"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

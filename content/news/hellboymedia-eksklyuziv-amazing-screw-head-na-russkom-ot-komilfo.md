@@ -4,6 +4,11 @@
   "url": "/news/hellboymedia-eksklyuziv-amazing-screw-head-na-russkom-ot-komilfo/",
   "original_url": "https://spidermedia.ru/news/hellboymedia-eksklyuziv-amazing-screw-head-na-russkom-ot-komilfo",
   "archived": "https://web.archive.org/web/20260115055556/https://spidermedia.ru/news/hellboymedia-eksklyuziv-amazing-screw-head-na-russkom-ot-komilfo",
+  "tags": [
+    "hellboymedia",
+    "zarubezhnye-komiksy-na-russkom",
+    "eksklyuziv"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

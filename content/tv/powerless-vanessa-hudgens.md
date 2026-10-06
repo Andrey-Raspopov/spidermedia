@@ -4,6 +4,9 @@
   "url": "/tv/powerless-vanessa-hudgens/",
   "original_url": "https://spidermedia.ru/tv/powerless-vanessa-hudgens",
   "archived": "https://web.archive.org/web/20250806092353/https://spidermedia.ru/tv/powerless-vanessa-hudgens",
+  "tags": [
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

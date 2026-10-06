@@ -4,6 +4,12 @@
   "url": "/news/poster-filma-pervyy-mstitel-drugaya-voyna/",
   "original_url": "https://spidermedia.ru/news/poster-filma-pervyy-mstitel-drugaya-voyna",
   "archived": "https://web.archive.org/web/20250512112405/https://spidermedia.ru/news/poster-filma-pervyy-mstitel-drugaya-voyna",
+  "tags": [
+    "postery",
+    "marvel",
+    "captain-america",
+    "winter-soldier"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

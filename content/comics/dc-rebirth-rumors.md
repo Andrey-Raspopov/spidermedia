@@ -4,6 +4,11 @@
   "url": "/comics/dc-rebirth-rumors/",
   "original_url": "http://spidermedia.ru/comics/dc-rebirth-rumors",
   "archived": "https://web.archive.org/web/20260209114155/http://spidermedia.ru/comics/dc-rebirth-rumors",
+  "tags": [
+    "dc-comics",
+    "piter-tomasi",
+    "skott-snajder"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

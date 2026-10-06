@@ -4,6 +4,9 @@
   "url": "/podcast/silvers-talk-1-pyatnashki-baseball-i-rybalka/",
   "original_url": "http://spidermedia.ru/podcast/silvers-talk-1-pyatnashki-baseball-i-rybalka",
   "archived": "https://web.archive.org/web/20260312011714/http://spidermedia.ru/podcast/silvers-talk-1-pyatnashki-baseball-i-rybalka",
+  "tags": [
+    "spider-talk"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

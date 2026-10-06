@@ -4,6 +4,12 @@
   "url": "/blog/bastion7/bastions-7-astonishing-x-men/",
   "original_url": "http://spidermedia.ru/blog/bastion7/bastions-7-astonishing-x-men",
   "archived": "https://web.archive.org/web/20260214140649/http://spidermedia.ru/blog/bastion7/bastions-7-astonishing-x-men",
+  "tags": [
+    "x-men",
+    "dzhon-kessedej",
+    "mnenie",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

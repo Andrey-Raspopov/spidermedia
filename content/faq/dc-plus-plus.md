@@ -4,6 +4,10 @@
   "url": "/faq/dc-plus-plus/",
   "original_url": "http://spidermedia.ru/faq/dc-plus-plus",
   "archived": "https://web.archive.org/web/20250118032638/http://spidermedia.ru/faq/dc-plus-plus",
+  "tags": [
+    "cifrovye-komiksy",
+    "faq"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

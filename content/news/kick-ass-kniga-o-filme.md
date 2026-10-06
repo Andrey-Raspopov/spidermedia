@@ -4,6 +4,14 @@
   "url": "/news/kick-ass-kniga-o-filme/",
   "original_url": "https://spidermedia.ru/news/kick-ass-kniga-o-filme",
   "archived": "https://web.archive.org/web/20260120154957/https://spidermedia.ru/news/kick-ass-kniga-o-filme",
+  "tags": [
+    "marvel",
+    "mark-millar",
+    "icon-comics",
+    "kick-ass",
+    "mettyu-von",
+    "knigi"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

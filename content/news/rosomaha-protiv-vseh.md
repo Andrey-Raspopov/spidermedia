@@ -4,6 +4,12 @@
   "url": "/news/rosomaha-protiv-vseh/",
   "original_url": "http://spidermedia.ru/news/rosomaha-protiv-vseh",
   "archived": "https://web.archive.org/web/20251013185017/http://spidermedia.ru/news/rosomaha-protiv-vseh",
+  "tags": [
+    "lorens-kemrbell",
+    "dzhonatan-mejberri",
+    "wolverine",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

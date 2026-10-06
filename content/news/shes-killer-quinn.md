@@ -4,6 +4,12 @@
   "url": "/news/shes-killer-quinn/",
   "original_url": "http://spidermedia.ru/news/shes-killer-quinn",
   "archived": "https://web.archive.org/web/20250806052723/http://spidermedia.ru/news/shes-killer-quinn",
+  "tags": [
+    "dzhimmi-palmiotti",
+    "amnad-konner",
+    "dc-comics",
+    "san-diego-comic-con-international"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,16 @@
   "url": "/news/multfilm-gi-joe-resolute-upd-treyler/",
   "original_url": "http://spidermedia.ru/news/multfilm-gi-joe-resolute-upd-treyler",
   "archived": "https://web.archive.org/web/20260120145615/http://spidermedia.ru/news/multfilm-gi-joe-resolute-upd-treyler",
+  "tags": [
+    "gi-joe",
+    "figurki",
+    "animaciya",
+    "hasbro",
+    "trejlery",
+    "kartinki",
+    "warren-ellis",
+    "dzhi-aj-dzho"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/news/spidermedia-fan-art-challenge-5-kino-mstiteli/",
   "original_url": "http://spidermedia.ru/news/spidermedia-fan-art-challenge-5-kino-mstiteli",
   "archived": "https://web.archive.org/web/20250807223824/http://spidermedia.ru/news/spidermedia-fan-art-challenge-5-kino-mstiteli",
+  "tags": [
+    "fanart",
+    "konkurs",
+    "challenge",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

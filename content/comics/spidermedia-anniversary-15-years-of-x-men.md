@@ -4,6 +4,12 @@
   "url": "/comics/spidermedia-anniversary-15-years-of-x-men/",
   "original_url": "https://spidermedia.ru/comics/spidermedia-anniversary-15-years-of-x-men",
   "archived": "https://web.archive.org/web/20251207005302/https://spidermedia.ru/comics/spidermedia-anniversary-15-years-of-x-men",
+  "tags": [
+    "spidermedia-15th-anniversary",
+    "imho",
+    "marvel",
+    "x-men"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

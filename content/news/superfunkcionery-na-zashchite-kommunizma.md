@@ -4,6 +4,15 @@
   "url": "/news/superfunkcionery-na-zashchite-kommunizma/",
   "original_url": "http://spidermedia.ru/news/superfunkcionery-na-zashchite-kommunizma",
   "archived": "https://web.archive.org/web/20260209104756/http://spidermedia.ru/news/superfunkcionery-na-zashchite-kommunizma",
+  "tags": [
+    "dc-comics",
+    "art-0",
+    "skott-makdeniel",
+    "great-ten",
+    "velikaya-desyatka",
+    "stenli-lou",
+    "toni-bedard"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

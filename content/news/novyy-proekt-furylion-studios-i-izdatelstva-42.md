@@ -4,6 +4,10 @@
   "url": "/news/novyy-proekt-furylion-studios-i-izdatelstva-42/",
   "original_url": "http://spidermedia.ru/news/novyy-proekt-furylion-studios-i-izdatelstva-42",
   "archived": "https://web.archive.org/web/20260211193302/http://spidermedia.ru/news/novyy-proekt-furylion-studios-i-izdatelstva-42",
+  "tags": [
+    "novosti",
+    "industriya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/blog/oleg89/phonogram-neotkrytaya-strana/",
   "original_url": "http://spidermedia.ru/blog/oleg89/phonogram-neotkrytaya-strana",
   "archived": "https://web.archive.org/web/20260117230158/http://spidermedia.ru/blog/oleg89/phonogram-neotkrytaya-strana",
+  "tags": [
+    "kiron-gillen",
+    "dzheymi-makkelvi",
+    "image-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

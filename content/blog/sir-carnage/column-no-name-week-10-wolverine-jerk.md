@@ -4,6 +4,22 @@
   "url": "/blog/sir-carnage/column-no-name-week-10-wolverine-jerk/",
   "original_url": "http://spidermedia.ru/blog/sir-carnage/column-no-name-week-10-wolverine-jerk",
   "archived": "https://web.archive.org/web/20251211024332/http://spidermedia.ru/blog/sir-carnage/column-no-name-week-10-wolverine-jerk",
+  "tags": [
+    "vertigo",
+    "the-hood",
+    "the-column-with-no-name",
+    "norman-osborn",
+    "marvel",
+    "literals",
+    "jsa",
+    "hardball",
+    "green-lantern",
+    "prizrachnyj-gonshhik",
+    "fables",
+    "dc-comics",
+    "avengers",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

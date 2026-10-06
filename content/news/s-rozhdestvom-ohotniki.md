@@ -4,6 +4,9 @@
   "url": "/news/s-rozhdestvom-ohotniki/",
   "original_url": "http://spidermedia.ru/news/s-rozhdestvom-ohotniki",
   "archived": "https://web.archive.org/web/20250121020010/http://spidermedia.ru/news/s-rozhdestvom-ohotniki",
+  "tags": [
+    "ghostbusters"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

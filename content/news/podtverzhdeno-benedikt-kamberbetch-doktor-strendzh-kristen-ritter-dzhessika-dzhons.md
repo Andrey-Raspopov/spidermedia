@@ -4,6 +4,13 @@
   "url": "/news/podtverzhdeno-benedikt-kamberbetch-doktor-strendzh-kristen-ritter-dzhessika-dzhons/",
   "original_url": "https://spidermedia.ru/news/podtverzhdeno-benedikt-kamberbetch-doktor-strendzh-kristen-ritter-dzhessika-dzhons",
   "archived": "https://web.archive.org/web/20251211032807/https://spidermedia.ru/news/podtverzhdeno-benedikt-kamberbetch-doktor-strendzh-kristen-ritter-dzhessika-dzhons",
+  "tags": [
+    "serialy",
+    "marvel",
+    "deadpool",
+    "doctor-strange",
+    "jessica-jones-alias"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

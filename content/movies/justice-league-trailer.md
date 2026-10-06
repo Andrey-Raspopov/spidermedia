@@ -4,6 +4,11 @@
   "url": "/movies/justice-league-trailer/",
   "original_url": "https://spidermedia.ru/movies/justice-league-trailer",
   "archived": "https://web.archive.org/web/20251205114050/https://spidermedia.ru/movies/justice-league-trailer",
+  "tags": [
+    "dc-comics",
+    "zak-snajder",
+    "justice-league"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,18 @@
   "url": "/news/supermena-oy-kak-nehvataet/",
   "original_url": "https://spidermedia.ru/news/supermena-oy-kak-nehvataet",
   "archived": "https://web.archive.org/web/20260208211031/https://spidermedia.ru/news/supermena-oy-kak-nehvataet",
+  "tags": [
+    "dc-comics",
+    "greg-rakka",
+    "nightwing",
+    "dzhejms-robinson",
+    "new-krypton",
+    "superman",
+    "flamebird",
+    "supergirl",
+    "superwoman",
+    "zod"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

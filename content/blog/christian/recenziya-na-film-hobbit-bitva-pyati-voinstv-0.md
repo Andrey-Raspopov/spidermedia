@@ -4,6 +4,12 @@
   "url": "/blog/christian/recenziya-na-film-hobbit-bitva-pyati-voinstv-0/",
   "original_url": "https://spidermedia.ru/blog/christian/recenziya-na-film-hobbit-bitva-pyati-voinstv-0",
   "archived": "https://web.archive.org/web/20221204210305/https://spidermedia.ru/blog/christian/recenziya-na-film-hobbit-bitva-pyati-voinstv-0",
+  "tags": [
+    "hobbit",
+    "recenziya",
+    "piter-dzhekson",
+    "obzor"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/comics/kick-ass-2018-review/",
   "original_url": "http://spidermedia.ru/comics/kick-ass-2018-review",
   "archived": "https://web.archive.org/web/20251108195136/http://spidermedia.ru/comics/kick-ass-2018-review",
+  "tags": [
+    "kick-ass",
+    "dzhon-romita-ml",
+    "mark-millar"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

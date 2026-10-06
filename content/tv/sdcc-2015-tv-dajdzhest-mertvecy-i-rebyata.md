@@ -4,6 +4,9 @@
   "url": "/tv/sdcc-2015-tv-dajdzhest-mertvecy-i-rebyata/",
   "original_url": "http://spidermedia.ru/tv/sdcc-2015-tv-dajdzhest-mertvecy-i-rebyata",
   "archived": "https://web.archive.org/web/20160724082737/http://spidermedia.ru:80/tv/sdcc-2015-tv-dajdzhest-mertvecy-i-rebyata",
+  "tags": [
+    "komik-kon-v-san-diego"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

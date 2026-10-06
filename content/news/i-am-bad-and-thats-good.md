@@ -4,6 +4,9 @@
   "url": "/news/i-am-bad-and-thats-good/",
   "original_url": "http://spidermedia.ru/news/i-am-bad-and-thats-good",
   "archived": "https://web.archive.org/web/20150501153454/http://spidermedia.ru/news/i-am-bad-and-thats-good",
+  "tags": [
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

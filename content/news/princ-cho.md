@@ -4,6 +4,16 @@
   "url": "/news/princ-cho/",
   "original_url": "https://spidermedia.ru/news/princ-cho",
   "archived": "https://web.archive.org/web/20260305234543/https://spidermedia.ru/news/princ-cho",
+  "tags": [
+    "fred-van-lente",
+    "rajlli-braun",
+    "greg-pak",
+    "thor",
+    "prince-of-power",
+    "marvel",
+    "incredible-hercules",
+    "amadeus-cho"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

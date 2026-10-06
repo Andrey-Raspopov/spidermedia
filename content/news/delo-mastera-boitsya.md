@@ -4,6 +4,14 @@
   "url": "/news/delo-mastera-boitsya/",
   "original_url": "http://spidermedia.ru/news/delo-mastera-boitsya",
   "archived": "https://web.archive.org/web/20260121011726/http://spidermedia.ru/news/delo-mastera-boitsya",
+  "tags": [
+    "era-geroev",
+    "hefte-palo",
+    "fred-van-lente",
+    "taskmaster",
+    "marvel",
+    "heroic-age"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

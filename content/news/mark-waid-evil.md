@@ -4,6 +4,11 @@
   "url": "/news/mark-waid-evil/",
   "original_url": "http://spidermedia.ru/news/mark-waid-evil",
   "archived": "https://web.archive.org/web/20250512122036/http://spidermedia.ru/news/mark-waid-evil",
+  "tags": [
+    "mark-waid",
+    "boom-studios",
+    "irredeemable"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

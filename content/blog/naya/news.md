@@ -4,6 +4,9 @@
   "url": "/blog/naya/news/",
   "original_url": "http://spidermedia.ru/blog/naya/news",
   "archived": "https://web.archive.org/web/20120607150732/http://spidermedia.ru/blog/naya/news",
+  "tags": [
+    "novosti-0"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,14 @@
   "url": "/news/marvel-prevyu-filmov-vtoroy-i-tretey-fazy/",
   "original_url": "https://spidermedia.ru/news/marvel-prevyu-filmov-vtoroy-i-tretey-fazy",
   "archived": "https://web.archive.org/web/20240806235519/https://spidermedia.ru/news/marvel-prevyu-filmov-vtoroy-i-tretey-fazy",
+  "tags": [
+    "koncept-art",
+    "ant-man",
+    "thor",
+    "guardians-of-the-galaxy",
+    "marvel",
+    "winter-soldier"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/blog/plane-v/yay/",
   "original_url": "http://spidermedia.ru/blog/plane-v/yay",
   "archived": "https://web.archive.org/web/20120607104318/http://spidermedia.ru/blog/plane-v/yay",
+  "tags": [
+    "wildstorm"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

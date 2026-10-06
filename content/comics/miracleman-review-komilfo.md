@@ -4,6 +4,10 @@
   "url": "/comics/miracleman-review-komilfo/",
   "original_url": "http://spidermedia.ru/comics/miracleman-review-komilfo",
   "archived": "https://web.archive.org/web/20251206150830/http://spidermedia.ru/comics/miracleman-review-komilfo",
+  "tags": [
+    "alan-mur",
+    "komilfo"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

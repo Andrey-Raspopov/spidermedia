@@ -4,6 +4,9 @@
   "url": "/games/gamermedia-22-novosti-i-kubiki/",
   "original_url": "http://spidermedia.ru/games/gamermedia-22-novosti-i-kubiki",
   "archived": "https://web.archive.org/web/20260124044459/http://spidermedia.ru/games/gamermedia-22-novosti-i-kubiki",
+  "tags": [
+    "gamermedia"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

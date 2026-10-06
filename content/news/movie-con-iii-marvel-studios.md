@@ -4,6 +4,15 @@
   "url": "/news/movie-con-iii-marvel-studios/",
   "original_url": "http://spidermedia.ru/news/movie-con-iii-marvel-studios",
   "archived": "https://web.archive.org/web/20250616085719/http://spidermedia.ru/news/movie-con-iii-marvel-studios",
+  "tags": [
+    "kennet-brana",
+    "dzho-dzhonston",
+    "thor",
+    "marvel",
+    "joss-whedon",
+    "captain-america",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

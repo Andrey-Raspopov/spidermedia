@@ -4,6 +4,16 @@
   "url": "/news/fantasticheskaya-troyka/",
   "original_url": "http://spidermedia.ru/news/fantasticheskaya-troyka",
   "archived": "https://web.archive.org/web/20120608043157/http://spidermedia.ru/news/fantasticheskaya-troyka",
+  "tags": [
+    "fantastic-four",
+    "art-0",
+    "jonathan-hickman",
+    "komiksy",
+    "marvel",
+    "oblozhki",
+    "stiv-epting",
+    "fantasticheskaya-chetverka"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,13 @@
   "url": "/news/dark-x-men-relizy-sketchi-prevyu/",
   "original_url": "https://spidermedia.ru/news/dark-x-men-relizy-sketchi-prevyu",
   "archived": "https://web.archive.org/web/20251106232132/https://spidermedia.ru/news/dark-x-men-relizy-sketchi-prevyu",
+  "tags": [
+    "x-men",
+    "marvel",
+    "avengers",
+    "utopia",
+    "legacy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

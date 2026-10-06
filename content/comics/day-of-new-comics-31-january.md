@@ -4,6 +4,9 @@
   "url": "/comics/day-of-new-comics-31-january/",
   "original_url": "http://spidermedia.ru/comics/day-of-new-comics-31-january",
   "archived": "https://web.archive.org/web/20200127063855/http://spidermedia.ru:80/comics/day-of-new-comics-31-january",
+  "tags": [
+    "den-novyh-komiksov"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

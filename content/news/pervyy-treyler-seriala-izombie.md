@@ -4,6 +4,11 @@
   "url": "/news/pervyy-treyler-seriala-izombie/",
   "original_url": "http://spidermedia.ru/news/pervyy-treyler-seriala-izombie",
   "archived": "https://web.archive.org/web/20250906080400/http://spidermedia.ru/news/pervyy-treyler-seriala-izombie",
+  "tags": [
+    "serialy",
+    "vertigo",
+    "izombie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

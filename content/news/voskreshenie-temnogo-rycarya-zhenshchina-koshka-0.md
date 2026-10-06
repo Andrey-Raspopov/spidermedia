@@ -4,6 +4,10 @@
   "url": "/news/voskreshenie-temnogo-rycarya-zhenshchina-koshka-0/",
   "original_url": "https://spidermedia.ru/news/voskreshenie-temnogo-rycarya-zhenshchina-koshka-0",
   "archived": "https://web.archive.org/web/20260307055341/https://spidermedia.ru/news/voskreshenie-temnogo-rycarya-zhenshchina-koshka-0",
+  "tags": [
+    "zhenshhina-koshka",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/news/vyigray-bilet-v-kinoteatr-sinema-star-0/",
   "original_url": "http://spidermedia.ru/news/vyigray-bilet-v-kinoteatr-sinema-star-0",
   "archived": "https://web.archive.org/web/20260211181704/http://spidermedia.ru/news/vyigray-bilet-v-kinoteatr-sinema-star-0",
+  "tags": [
+    "konkurs"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

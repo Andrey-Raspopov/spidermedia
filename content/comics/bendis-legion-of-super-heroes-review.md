@@ -4,6 +4,12 @@
   "url": "/comics/bendis-legion-of-super-heroes-review/",
   "original_url": "http://spidermedia.ru/comics/bendis-legion-of-super-heroes-review",
   "archived": "https://web.archive.org/web/20260312022518/http://spidermedia.ru/comics/bendis-legion-of-super-heroes-review",
+  "tags": [
+    "dc-comics",
+    "brian-michael-bendis",
+    "legion-super-geroev",
+    "rajan-suk"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

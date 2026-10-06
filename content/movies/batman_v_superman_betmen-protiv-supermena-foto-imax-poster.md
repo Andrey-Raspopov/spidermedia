@@ -4,6 +4,10 @@
   "url": "/movies/batman_v_superman_betmen-protiv-supermena-foto-imax-poster/",
   "original_url": "https://spidermedia.ru/movies/batman_v_superman_betmen-protiv-supermena-foto-imax-poster",
   "archived": "https://web.archive.org/web/20251207094022/https://spidermedia.ru/movies/batman_v_superman_betmen-protiv-supermena-foto-imax-poster",
+  "tags": [
+    "batman",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

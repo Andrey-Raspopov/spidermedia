@@ -4,6 +4,11 @@
   "url": "/news/igra-prestolov-teper-komiks-teper-na-russkom-yazyke/",
   "original_url": "http://spidermedia.ru/news/igra-prestolov-teper-komiks-teper-na-russkom-yazyke",
   "archived": "https://web.archive.org/web/20160925121737/http://spidermedia.ru:80/news/igra-prestolov-teper-komiks-teper-na-russkom-yazyke",
+  "tags": [
+    "igra-prestolov",
+    "zarubezhnye-komiksy-na-russkom",
+    "ast"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

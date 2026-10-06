@@ -4,6 +4,9 @@
   "url": "/comics/all-things-valiant-week-27/",
   "original_url": "https://spidermedia.ru/comics/all-things-valiant-week-27",
   "archived": "https://web.archive.org/web/20260125052811/https://spidermedia.ru/comics/all-things-valiant-week-27",
+  "tags": [
+    "valiant-entertainment"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

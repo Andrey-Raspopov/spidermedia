@@ -4,6 +4,15 @@
   "url": "/news/prevyu-punishermax-12/",
   "original_url": "http://spidermedia.ru/news/prevyu-punishermax-12",
   "archived": "https://web.archive.org/web/20251211022641/http://spidermedia.ru/news/prevyu-punishermax-12",
+  "tags": [
+    "punisher",
+    "marvel",
+    "art-0",
+    "preview",
+    "dzheyson-aaron",
+    "steve-dillon",
+    "dejv-dzhonson"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

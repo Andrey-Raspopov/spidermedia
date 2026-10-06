@@ -4,6 +4,10 @@
   "url": "/podcast/panels-of-x-08-something-sinister/",
   "original_url": "http://spidermedia.ru/podcast/panels-of-x-08-something-sinister",
   "archived": "https://web.archive.org/web/20251206043425/http://spidermedia.ru/podcast/panels-of-x-08-something-sinister",
+  "tags": [
+    "panels-of-x",
+    "on-panels"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

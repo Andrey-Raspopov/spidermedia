@@ -4,6 +4,16 @@
   "url": "/news/fantasticheskiy-pauchiy-soyuz/",
   "original_url": "http://spidermedia.ru/news/fantasticheskiy-pauchiy-soyuz",
   "archived": "https://web.archive.org/web/20250422035347/http://spidermedia.ru/news/fantasticheskiy-pauchiy-soyuz",
+  "tags": [
+    "fantastic-four",
+    "nik-dragotta",
+    "markos-martin",
+    "den-slott",
+    "dzhonatan-hikman",
+    "art-0",
+    "marvel",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

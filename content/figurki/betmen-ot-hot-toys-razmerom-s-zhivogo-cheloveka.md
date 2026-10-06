@@ -4,6 +4,10 @@
   "url": "/figurki/betmen-ot-hot-toys-razmerom-s-zhivogo-cheloveka/",
   "original_url": "http://spidermedia.ru/figurki/betmen-ot-hot-toys-razmerom-s-zhivogo-cheloveka",
   "archived": "https://web.archive.org/web/20260309183905/http://spidermedia.ru/figurki/betmen-ot-hot-toys-razmerom-s-zhivogo-cheloveka",
+  "tags": [
+    "batman",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,13 @@
   "url": "/news/kneel-hiro-kala/",
   "original_url": "http://spidermedia.ru/news/kneel-hiro-kala",
   "archived": "https://web.archive.org/web/20170716015240/http://spidermedia.ru:80/news/kneel-hiro-kala",
+  "tags": [
+    "hiro-kala",
+    "syn-halka",
+    "skot-riid",
+    "son-of-hulk",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

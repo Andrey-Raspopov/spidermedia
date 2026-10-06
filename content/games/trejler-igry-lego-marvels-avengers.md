@@ -4,6 +4,11 @@
   "url": "/games/trejler-igry-lego-marvels-avengers/",
   "original_url": "http://spidermedia.ru/games/trejler-igry-lego-marvels-avengers",
   "archived": "https://web.archive.org/web/20260211185812/http://spidermedia.ru/games/trejler-igry-lego-marvels-avengers",
+  "tags": [
+    "avengers",
+    "komik-kon-v-nyu-yorke",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

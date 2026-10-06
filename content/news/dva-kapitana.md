@@ -4,6 +4,15 @@
   "url": "/news/dva-kapitana/",
   "original_url": "http://spidermedia.ru/news/dva-kapitana",
   "archived": "https://web.archive.org/web/20260305234748/http://spidermedia.ru/news/dva-kapitana",
+  "tags": [
+    "captain-america",
+    "ed-brubaker",
+    "bryan-hitch",
+    "devid-finch",
+    "marvel",
+    "art-0",
+    "preview"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

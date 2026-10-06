@@ -4,6 +4,14 @@
   "url": "/news/v-pautine-arta/",
   "original_url": "http://spidermedia.ru/news/v-pautine-arta",
   "archived": "https://web.archive.org/web/20120608032951/http://spidermedia.ru/news/v-pautine-arta",
+  "tags": [
+    "dc-comics",
+    "web",
+    "art-0",
+    "komiksy",
+    "pautina",
+    "rodzher-robinson"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

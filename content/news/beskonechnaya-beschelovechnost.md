@@ -4,6 +4,11 @@
   "url": "/news/beskonechnaya-beschelovechnost/",
   "original_url": "http://spidermedia.ru/news/beskonechnaya-beschelovechnost",
   "archived": "https://web.archive.org/web/20260308234943/http://spidermedia.ru/news/beskonechnaya-beschelovechnost",
+  "tags": [
+    "stiv-makniven",
+    "matt-fraction",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

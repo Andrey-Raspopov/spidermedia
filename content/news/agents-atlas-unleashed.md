@@ -4,6 +4,24 @@
   "url": "/news/agents-atlas-unleashed/",
   "original_url": "https://spidermedia.ru/news/agents-atlas-unleashed",
   "archived": "https://web.archive.org/web/20260308233709/https://spidermedia.ru/news/agents-atlas-unleashed",
+  "tags": [
+    "feliks-ruis",
+    "migel-sepulvida",
+    "chris-samnee",
+    "karlo-pagulayan",
+    "dzhef-parker",
+    "gabriel-hardmen",
+    "x-men",
+    "thunderbolts",
+    "miguel-sepulvida",
+    "marvel",
+    "jeff-parker",
+    "gabriel-hardman",
+    "felix-ruiz",
+    "carlo-pagulayan",
+    "avengers",
+    "agenty-atlasa"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

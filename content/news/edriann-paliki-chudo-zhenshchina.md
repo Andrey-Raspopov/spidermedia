@@ -4,6 +4,11 @@
   "url": "/news/edriann-paliki-chudo-zhenshchina/",
   "original_url": "http://spidermedia.ru/news/edriann-paliki-chudo-zhenshchina",
   "archived": "https://web.archive.org/web/20190918090009/http://spidermedia.ru/news/edriann-paliki-chudo-zhenshchina",
+  "tags": [
+    "wonder-woman",
+    "serialy",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

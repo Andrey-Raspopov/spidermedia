@@ -4,6 +4,9 @@
   "url": "/comics/unfair-reviews-frontier-2-buffalo-returns/",
   "original_url": "http://spidermedia.ru/comics/unfair-reviews-frontier-2-buffalo-returns",
   "archived": "https://web.archive.org/web/20220922003448/http://spidermedia.ru/comics/unfair-reviews-frontier-2-buffalo-returns",
+  "tags": [
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

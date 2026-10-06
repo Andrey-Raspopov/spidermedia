@@ -4,6 +4,10 @@
   "url": "/news/mstiteli-2-altron-na-oblozhke-entertainment-weekly/",
   "original_url": "https://spidermedia.ru/news/mstiteli-2-altron-na-oblozhke-entertainment-weekly",
   "archived": "https://web.archive.org/web/20251110232516/https://spidermedia.ru/news/mstiteli-2-altron-na-oblozhke-entertainment-weekly",
+  "tags": [
+    "avengers",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

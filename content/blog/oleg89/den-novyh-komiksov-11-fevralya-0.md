@@ -4,6 +4,9 @@
   "url": "/blog/oleg89/den-novyh-komiksov-11-fevralya-0/",
   "original_url": "http://spidermedia.ru/blog/oleg89/den-novyh-komiksov-11-fevralya-0",
   "archived": "https://web.archive.org/web/20200205094710/http://spidermedia.ru:80/blog/oleg89/den-novyh-komiksov-11-fevralya-0",
+  "tags": [
+    "den-novyh-komiksov"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

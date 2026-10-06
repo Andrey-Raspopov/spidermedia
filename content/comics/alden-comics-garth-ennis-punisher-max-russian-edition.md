@@ -4,6 +4,12 @@
   "url": "/comics/alden-comics-garth-ennis-punisher-max-russian-edition/",
   "original_url": "http://spidermedia.ru/comics/alden-comics-garth-ennis-punisher-max-russian-edition",
   "archived": "https://web.archive.org/web/20260115044522/http://spidermedia.ru/comics/alden-comics-garth-ennis-punisher-max-russian-edition",
+  "tags": [
+    "marvel",
+    "zarubezhnye-komiksy-na-russkom",
+    "punisher",
+    "alden-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

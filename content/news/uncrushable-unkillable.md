@@ -4,6 +4,12 @@
   "url": "/news/uncrushable-unkillable/",
   "original_url": "http://spidermedia.ru/news/uncrushable-unkillable",
   "archived": "https://web.archive.org/web/20260117222443/http://spidermedia.ru/news/uncrushable-unkillable",
+  "tags": [
+    "hulk",
+    "mark-waid",
+    "lejnil-frensis-yu",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

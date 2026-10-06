@@ -4,6 +4,9 @@
   "url": "/blog/redson/komiksy-vs-kino-vs-knigi/",
   "original_url": "https://spidermedia.ru/blog/redson/komiksy-vs-kino-vs-knigi",
   "archived": "https://web.archive.org/web/20260313103810/https://spidermedia.ru/blog/redson/komiksy-vs-kino-vs-knigi",
+  "tags": [
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

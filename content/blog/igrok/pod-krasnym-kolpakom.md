@@ -4,6 +4,15 @@
   "url": "/blog/igrok/pod-krasnym-kolpakom/",
   "original_url": "https://spidermedia.ru/blog/igrok/pod-krasnym-kolpakom",
   "archived": "https://web.archive.org/web/20260211193256/https://spidermedia.ru/blog/igrok/pod-krasnym-kolpakom",
+  "tags": [
+    "recenziya",
+    "dzhejson-todd",
+    "animaciya",
+    "red-hood",
+    "joker",
+    "jason-todd",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

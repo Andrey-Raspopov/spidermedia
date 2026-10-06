@@ -4,6 +4,11 @@
   "url": "/blog/naya/witch-flower-forest/",
   "original_url": "http://spidermedia.ru/blog/naya/witch-flower-forest",
   "archived": "https://web.archive.org/web/20260117231250/http://spidermedia.ru/blog/naya/witch-flower-forest",
+  "tags": [
+    "one-shot",
+    "manga",
+    "fantasy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

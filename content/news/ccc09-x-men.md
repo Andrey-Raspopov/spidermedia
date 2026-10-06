@@ -4,6 +4,20 @@
   "url": "/news/ccc09-x-men/",
   "original_url": "https://spidermedia.ru/news/ccc09-x-men",
   "archived": "https://web.archive.org/web/20260214135451/https://spidermedia.ru/news/ccc09-x-men",
+  "tags": [
+    "kris-jost",
+    "krejg-kajl",
+    "dzhim-makkenn",
+    "dzheyson-aaron",
+    "x-men",
+    "s.w.o.r.d",
+    "marvel",
+    "jim-mccann",
+    "jason-aaron",
+    "craig-kyle",
+    "chris-yost",
+    "komik-kon-v-chikago"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

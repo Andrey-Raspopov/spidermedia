@@ -4,6 +4,11 @@
   "url": "/news/hraniteli-istoriya-chernoy-shhuny-i-pod-maskoy/",
   "original_url": "http://spidermedia.ru/news/hraniteli-istoriya-chernoy-shhuny-i-pod-maskoy",
   "archived": "https://web.archive.org/web/20220820002612/http://spidermedia.ru/news/hraniteli-istoriya-chernoy-shhuny-i-pod-maskoy",
+  "tags": [
+    "hraniteli",
+    "animaciya",
+    "alan-mur"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

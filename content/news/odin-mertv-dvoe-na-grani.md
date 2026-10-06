@@ -4,6 +4,16 @@
   "url": "/news/odin-mertv-dvoe-na-grani/",
   "original_url": "http://spidermedia.ru/news/odin-mertv-dvoe-na-grani",
   "archived": "https://web.archive.org/web/20260115044912/http://spidermedia.ru/news/odin-mertv-dvoe-na-grani",
+  "tags": [
+    "marvel",
+    "sluhi",
+    "runaways",
+    "iron-fist",
+    "tom-brevot",
+    "beglecy",
+    "immortal-weapons",
+    "bessmertnye-oruzhiya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

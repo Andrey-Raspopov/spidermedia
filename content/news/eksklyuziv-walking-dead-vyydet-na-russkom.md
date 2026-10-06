@@ -4,6 +4,14 @@
   "url": "/news/eksklyuziv-walking-dead-vyydet-na-russkom/",
   "original_url": "http://spidermedia.ru/news/eksklyuziv-walking-dead-vyydet-na-russkom",
   "archived": "https://web.archive.org/web/20260211084359/http://spidermedia.ru/news/eksklyuziv-walking-dead-vyydet-na-russkom",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "izdatelstvo-42",
+    "robert-kirkman",
+    "image-comics",
+    "the-walking-dead",
+    "hodyachie-mertvecy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

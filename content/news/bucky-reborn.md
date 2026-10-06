@@ -4,6 +4,12 @@
   "url": "/news/bucky-reborn/",
   "original_url": "http://spidermedia.ru/news/bucky-reborn",
   "archived": "https://web.archive.org/web/20120607192940/http://spidermedia.ru/news/bucky-reborn",
+  "tags": [
+    "baki",
+    "komiksy",
+    "marvel",
+    "tizery"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

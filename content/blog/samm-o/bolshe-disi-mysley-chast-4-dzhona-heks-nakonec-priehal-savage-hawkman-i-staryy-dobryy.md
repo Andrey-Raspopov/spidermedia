@@ -4,6 +4,11 @@
   "url": "/blog/samm-o/bolshe-disi-mysley-chast-4-dzhona-heks-nakonec-priehal-savage-hawkman-i-staryy-dobryy/",
   "original_url": "http://spidermedia.ru/blog/samm-o/bolshe-disi-mysley-chast-4-dzhona-heks-nakonec-priehal-savage-hawkman-i-staryy-dobryy",
   "archived": "https://web.archive.org/web/20230203082745/http://spidermedia.ru/blog/samm-o/bolshe-disi-mysley-chast-4-dzhona-heks-nakonec-priehal-savage-hawkman-i-staryy-dobryy",
+  "tags": [
+    "dc-comics",
+    "bdsm",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

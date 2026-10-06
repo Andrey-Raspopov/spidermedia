@@ -4,6 +4,15 @@
   "url": "/news/ne-zhdali/",
   "original_url": "http://spidermedia.ru/news/ne-zhdali",
   "archived": "https://web.archive.org/web/20120718084512/http://spidermedia.ru/news/ne-zhdali",
+  "tags": [
+    "hulk",
+    "wolverine",
+    "komiksy",
+    "marvel",
+    "preview-s",
+    "rosomaha",
+    "halk"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

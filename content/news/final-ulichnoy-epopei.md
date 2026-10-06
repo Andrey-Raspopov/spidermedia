@@ -4,6 +4,14 @@
   "url": "/news/final-ulichnoy-epopei/",
   "original_url": "http://spidermedia.ru/news/final-ulichnoy-epopei",
   "archived": "https://web.archive.org/web/20250424193310/http://spidermedia.ru/news/final-ulichnoy-epopei",
+  "tags": [
+    "strana-tenej",
+    "dardevil",
+    "art-0",
+    "shadowland",
+    "marvel",
+    "daredevil"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

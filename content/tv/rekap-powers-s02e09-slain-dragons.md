@@ -4,6 +4,10 @@
   "url": "/tv/rekap-powers-s02e09-slain-dragons/",
   "original_url": "http://spidermedia.ru/tv/rekap-powers-s02e09-slain-dragons",
   "archived": "https://web.archive.org/web/20251014040446/http://spidermedia.ru/tv/rekap-powers-s02e09-slain-dragons",
+  "tags": [
+    "icon-comics",
+    "powers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/comics/all-things-valiant-25-week-48/",
   "original_url": "https://spidermedia.ru/comics/all-things-valiant-25-week-48",
   "archived": "https://web.archive.org/web/20260125065329/https://spidermedia.ru/comics/all-things-valiant-25-week-48",
+  "tags": [
+    "valiant-entertainment"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

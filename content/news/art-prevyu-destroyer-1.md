@@ -4,6 +4,13 @@
   "url": "/news/art-prevyu-destroyer-1/",
   "original_url": "http://spidermedia.ru/news/art-prevyu-destroyer-1",
   "archived": "https://web.archive.org/web/20120608223641/http://spidermedia.ru/news/art-prevyu-destroyer-1",
+  "tags": [
+    "destroyer",
+    "komiksy",
+    "kori-uolker",
+    "marvel",
+    "robert-kirkman"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

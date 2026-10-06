@@ -4,6 +4,12 @@
   "url": "/blog/alex/lyudi-iks-rosomaha-teper-i-na-kompyutere/",
   "original_url": "http://spidermedia.ru/blog/alex/lyudi-iks-rosomaha-teper-i-na-kompyutere",
   "archived": "https://web.archive.org/web/20260214131228/http://spidermedia.ru/blog/alex/lyudi-iks-rosomaha-teper-i-na-kompyutere",
+  "tags": [
+    "marvel",
+    "wolverine",
+    "igry",
+    "trejlery"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,20 @@
   "url": "/news/v-ozhidanii-sredy/",
   "original_url": "http://spidermedia.ru/news/v-ozhidanii-sredy",
   "archived": "https://web.archive.org/web/20171015072035/http://spidermedia.ru:80/news/v-ozhidanii-sredy",
+  "tags": [
+    "avengers",
+    "kapitan-britaniya",
+    "zhenshhina-halk",
+    "young-avengers",
+    "x-men",
+    "x-factor",
+    "ultimate",
+    "she-hulk",
+    "savage-she-hulk",
+    "marvel",
+    "captain-britain",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

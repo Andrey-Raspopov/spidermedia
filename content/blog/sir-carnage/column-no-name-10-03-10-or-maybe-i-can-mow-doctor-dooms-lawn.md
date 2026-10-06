@@ -4,6 +4,12 @@
   "url": "/blog/sir-carnage/column-no-name-10-03-10-or-maybe-i-can-mow-doctor-dooms-lawn/",
   "original_url": "http://spidermedia.ru/blog/sir-carnage/column-no-name-10-03-10-or-maybe-i-can-mow-doctor-dooms-lawn",
   "archived": "https://web.archive.org/web/20260123072950/http://spidermedia.ru/blog/sir-carnage/column-no-name-10-03-10-or-maybe-i-can-mow-doctor-dooms-lawn",
+  "tags": [
+    "vertigo",
+    "marvel",
+    "dc-comics",
+    "the-column-with-no-name"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

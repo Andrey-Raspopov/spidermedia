@@ -4,6 +4,13 @@
   "url": "/news/izdatelstvo-ramona-vypustit-na-russkom-yazyke-komiks-local/",
   "original_url": "http://spidermedia.ru/news/izdatelstvo-ramona-vypustit-na-russkom-yazyke-komiks-local",
   "archived": "https://web.archive.org/web/20250620074647/http://spidermedia.ru/news/izdatelstvo-ramona-vypustit-na-russkom-yazyke-komiks-local",
+  "tags": [
+    "ramona",
+    "zarubezhnye-komiksy-na-russkom",
+    "brian-wood",
+    "rajan-kelli",
+    "oni-press"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

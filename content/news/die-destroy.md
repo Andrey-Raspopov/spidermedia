@@ -4,6 +4,13 @@
   "url": "/news/die-destroy/",
   "original_url": "http://spidermedia.ru/news/die-destroy",
   "archived": "https://web.archive.org/web/20150426204342/http://spidermedia.ru/news/die-destroy",
+  "tags": [
+    "robert-kirkman",
+    "the-walking-dead",
+    "marvel-comics",
+    "image-comics",
+    "destroyer"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

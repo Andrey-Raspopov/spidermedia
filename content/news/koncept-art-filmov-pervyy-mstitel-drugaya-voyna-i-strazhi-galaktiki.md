@@ -4,6 +4,12 @@
   "url": "/news/koncept-art-filmov-pervyy-mstitel-drugaya-voyna-i-strazhi-galaktiki/",
   "original_url": "http://spidermedia.ru/news/koncept-art-filmov-pervyy-mstitel-drugaya-voyna-i-strazhi-galaktiki",
   "archived": "https://web.archive.org/web/20250422041031/http://spidermedia.ru/news/koncept-art-filmov-pervyy-mstitel-drugaya-voyna-i-strazhi-galaktiki",
+  "tags": [
+    "guardians-of-the-galaxy",
+    "marvel",
+    "koncept-art",
+    "captain-america"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/tv/rekap-powers-s02e06-requiem/",
   "original_url": "https://spidermedia.ru/tv/rekap-powers-s02e06-requiem",
   "archived": "https://web.archive.org/web/20251207010933/https://spidermedia.ru/tv/rekap-powers-s02e06-requiem",
+  "tags": [
+    "icon-comics",
+    "powers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

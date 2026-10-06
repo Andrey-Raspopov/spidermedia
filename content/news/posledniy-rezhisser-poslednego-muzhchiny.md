@@ -4,6 +4,10 @@
   "url": "/news/posledniy-rezhisser-poslednego-muzhchiny/",
   "original_url": "https://spidermedia.ru/news/posledniy-rezhisser-poslednego-muzhchiny",
   "archived": "https://web.archive.org/web/20260117225824/https://spidermedia.ru/news/posledniy-rezhisser-poslednego-muzhchiny",
+  "tags": [
+    "y-the-last-man",
+    "vertigo"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

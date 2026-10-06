@@ -4,6 +4,12 @@
   "url": "/news/brand-new-day-iyun-2010/",
   "original_url": "http://spidermedia.ru/news/brand-new-day-iyun-2010",
   "archived": "https://web.archive.org/web/20250906083114/http://spidermedia.ru/news/brand-new-day-iyun-2010",
+  "tags": [
+    "art-0",
+    "black-cat",
+    "spider-man",
+    "chernaya-koshka"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

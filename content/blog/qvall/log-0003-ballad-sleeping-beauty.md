@@ -4,6 +4,9 @@
   "url": "/blog/qvall/log-0003-ballad-sleeping-beauty/",
   "original_url": "http://spidermedia.ru/blog/qvall/log-0003-ballad-sleeping-beauty",
   "archived": "https://web.archive.org/web/20150430210903/http://spidermedia.ru/blog/qvall/log-0003-ballad-sleeping-beauty",
+  "tags": [
+    "skachat"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/news/vozvrashchenie-v-seruyu-zonu/",
   "original_url": "http://spidermedia.ru/news/vozvrashchenie-v-seruyu-zonu",
   "archived": "https://web.archive.org/web/20120610002053/http://spidermedia.ru/news/vozvrashchenie-v-seruyu-zonu",
+  "tags": [
+    "icon",
+    "dzhon-romita-ml",
+    "komiksy"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

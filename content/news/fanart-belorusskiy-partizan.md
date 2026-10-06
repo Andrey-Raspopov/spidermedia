@@ -4,6 +4,10 @@
   "url": "/news/fanart-belorusskiy-partizan/",
   "original_url": "http://spidermedia.ru/news/fanart-belorusskiy-partizan",
   "archived": "https://web.archive.org/web/20251014050111/http://spidermedia.ru/news/fanart-belorusskiy-partizan",
+  "tags": [
+    "fanart",
+    "challenge"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/blog/plane-v/do-hraniteley-vo-vremya-stydoby/",
   "original_url": "https://spidermedia.ru/blog/plane-v/do-hraniteley-vo-vremya-stydoby",
   "archived": "https://web.archive.org/web/20250807220154/https://spidermedia.ru/blog/plane-v/do-hraniteley-vo-vremya-stydoby",
+  "tags": [
+    "nu-hranitelej-to-vse-smotreli",
+    "gryazyuka",
+    "hraniteli",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

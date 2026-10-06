@@ -4,6 +4,11 @@
   "url": "/comics/that-brilliant-blinding-light/",
   "original_url": "http://spidermedia.ru/comics/that-brilliant-blinding-light",
   "archived": "https://web.archive.org/web/20250424193435/http://spidermedia.ru/comics/that-brilliant-blinding-light",
+  "tags": [
+    "marvel",
+    "dzhonatan-hikman",
+    "secret-wars"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

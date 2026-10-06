@@ -4,6 +4,11 @@
   "url": "/comics/snotgirl-vol-1-review/",
   "original_url": "https://spidermedia.ru/comics/snotgirl-vol-1-review",
   "archived": "https://web.archive.org/web/20251108183956/https://spidermedia.ru/comics/snotgirl-vol-1-review",
+  "tags": [
+    "bryan-lee-o-malley",
+    "zarubezhnye-komiksy-na-russkom",
+    "komilfo"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

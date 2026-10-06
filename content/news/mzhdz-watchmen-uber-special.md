@@ -4,11 +4,15 @@
   "url": "/news/mzhdz-watchmen-uber-special/",
   "original_url": "https://spidermedia.ru/news/mzhdz-watchmen-uber-special",
   "archived": "https://web.archive.org/web/20251115030438/https://spidermedia.ru/news/mzhdz-watchmen-uber-special",
+  "tags": [
+    "mnenie",
+    "mzhdz"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](https://web.archive.org/web/20251115030438im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz.png)](https://web.archive.org/web/20260206215846/http://spidermedia.ru/tags/mzhdz)![](https://web.archive.org/web/20251115030438im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/theworst.jpg)Лучшие сценаристы и художники современности
+[![](https://web.archive.org/web/20251115030438im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz.png)](../../tags/mzhdz/)![](https://web.archive.org/web/20251115030438im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/theworst.jpg)Лучшие сценаристы и художники современности
 
 **В этом выпуске:** я решил вернуться из добровольного изгнания на короткий миг, чтобы вы перестали нервничать и узнали, какова официальная позиция МЖДЗ по поводу нового, судя по всему очень красиво нарисованного комикса Дарвина Кука.
 

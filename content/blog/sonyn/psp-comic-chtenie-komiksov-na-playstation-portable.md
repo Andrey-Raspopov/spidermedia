@@ -4,6 +4,10 @@
   "url": "/blog/sonyn/psp-comic-chtenie-komiksov-na-playstation-portable/",
   "original_url": "http://spidermedia.ru/blog/sonyn/psp-comic-chtenie-komiksov-na-playstation-portable",
   "archived": "https://web.archive.org/web/20220825194201/http://spidermedia.ru/blog/sonyn/psp-comic-chtenie-komiksov-na-playstation-portable",
+  "tags": [
+    "psp-comic",
+    "cifrovye-komiksy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

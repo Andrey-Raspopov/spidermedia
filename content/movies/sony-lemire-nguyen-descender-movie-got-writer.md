@@ -4,6 +4,9 @@
   "url": "/movies/sony-lemire-nguyen-descender-movie-got-writer/",
   "original_url": "https://spidermedia.ru/movies/sony-lemire-nguyen-descender-movie-got-writer",
   "archived": "https://web.archive.org/web/20260309174338/https://spidermedia.ru/movies/sony-lemire-nguyen-descender-movie-got-writer",
+  "tags": [
+    "image-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

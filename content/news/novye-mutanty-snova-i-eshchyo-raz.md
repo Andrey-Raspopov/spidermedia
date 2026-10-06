@@ -4,6 +4,14 @@
   "url": "/news/novye-mutanty-snova-i-eshchyo-raz/",
   "original_url": "https://spidermedia.ru/news/novye-mutanty-snova-i-eshchyo-raz",
   "archived": "https://web.archive.org/web/20260120235725/https://spidermedia.ru/news/novye-mutanty-snova-i-eshchyo-raz",
+  "tags": [
+    "marvel",
+    "zeb-uells",
+    "diogenis-nivis",
+    "komik-kon-v-nyu-yorke",
+    "x-men",
+    "new-mutants"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

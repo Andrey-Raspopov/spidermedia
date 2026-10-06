@@ -4,6 +4,10 @@
   "url": "/comics/black-knight-poluchit-ongoing/",
   "original_url": "https://spidermedia.ru/comics/black-knight-poluchit-ongoing",
   "archived": "https://web.archive.org/web/20251115181334/https://spidermedia.ru/comics/black-knight-poluchit-ongoing",
+  "tags": [
+    "marvel",
+    "chernyj-rycar"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

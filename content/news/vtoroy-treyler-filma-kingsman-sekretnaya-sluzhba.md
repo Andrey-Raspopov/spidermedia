@@ -4,6 +4,10 @@
   "url": "/news/vtoroy-treyler-filma-kingsman-sekretnaya-sluzhba/",
   "original_url": "http://spidermedia.ru/news/vtoroy-treyler-filma-kingsman-sekretnaya-sluzhba",
   "archived": "https://web.archive.org/web/20260125122519/http://spidermedia.ru/news/vtoroy-treyler-filma-kingsman-sekretnaya-sluzhba",
+  "tags": [
+    "trejlery",
+    "mark-millar"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

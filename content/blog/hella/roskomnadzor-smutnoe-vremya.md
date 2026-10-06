@@ -4,6 +4,11 @@
   "url": "/blog/hella/roskomnadzor-smutnoe-vremya/",
   "original_url": "http://spidermedia.ru/blog/hella/roskomnadzor-smutnoe-vremya",
   "archived": "https://web.archive.org/web/20260125131813/http://spidermedia.ru/blog/hella/roskomnadzor-smutnoe-vremya",
+  "tags": [
+    "russian-comics",
+    "roskomnadzor",
+    "zarubezhnye-komiksy-na-russkom"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

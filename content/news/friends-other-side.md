@@ -4,6 +4,12 @@
   "url": "/news/friends-other-side/",
   "original_url": "https://spidermedia.ru/news/friends-other-side",
   "archived": "https://web.archive.org/web/20260125051949/https://spidermedia.ru/news/friends-other-side",
+  "tags": [
+    "peter-milligan",
+    "roberto-de-la-torre",
+    "valiant-entertainment",
+    "shedoumen"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/news/x-treme-exiles/",
   "original_url": "http://spidermedia.ru/news/x-treme-exiles",
   "archived": "https://web.archive.org/web/20250620070212/http://spidermedia.ru/news/x-treme-exiles",
+  "tags": [
+    "marvel",
+    "stiven-segoviya",
+    "greg-pak",
+    "x-men"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

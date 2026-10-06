@@ -4,6 +4,11 @@
   "url": "/news/eshchyo-odin-multfilm-o-zelenyh-fonaryah/",
   "original_url": "http://spidermedia.ru/news/eshchyo-odin-multfilm-o-zelenyh-fonaryah",
   "archived": "https://web.archive.org/web/20250320042343/http://spidermedia.ru/news/eshchyo-odin-multfilm-o-zelenyh-fonaryah",
+  "tags": [
+    "animaciya",
+    "green-lantern",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

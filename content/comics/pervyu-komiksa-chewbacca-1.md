@@ -4,6 +4,11 @@
   "url": "/comics/pervyu-komiksa-chewbacca-1/",
   "original_url": "https://spidermedia.ru/comics/pervyu-komiksa-chewbacca-1",
   "archived": "https://web.archive.org/web/20251115181144/https://spidermedia.ru/comics/pervyu-komiksa-chewbacca-1",
+  "tags": [
+    "marvel",
+    "zvezdnye-vojny",
+    "preview"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

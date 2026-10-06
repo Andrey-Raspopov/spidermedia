@@ -4,6 +4,11 @@
   "url": "/blog/plane-v/haha-they-actually-read-comics/",
   "original_url": "http://spidermedia.ru/blog/plane-v/haha-they-actually-read-comics",
   "archived": "https://web.archive.org/web/20140812062349/http://spidermedia.ru:80/blog/plane-v/haha-they-actually-read-comics",
+  "tags": [
+    "comics",
+    "kritika",
+    "ssylki"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

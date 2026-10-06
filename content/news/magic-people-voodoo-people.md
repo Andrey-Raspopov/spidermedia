@@ -4,6 +4,13 @@
   "url": "/news/magic-people-voodoo-people/",
   "original_url": "https://spidermedia.ru/news/magic-people-voodoo-people",
   "archived": "https://web.archive.org/web/20260313121146/https://spidermedia.ru/news/magic-people-voodoo-people",
+  "tags": [
+    "marvel",
+    "rik-remender",
+    "doctor-strange",
+    "billi-tan",
+    "doktor-vudu"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

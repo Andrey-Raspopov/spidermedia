@@ -4,6 +4,11 @@
   "url": "/comics/roskomnadzor-ne-vse-to-zoloto/",
   "original_url": "http://spidermedia.ru/comics/roskomnadzor-ne-vse-to-zoloto",
   "archived": "https://web.archive.org/web/20240226063521/http://spidermedia.ru/comics/roskomnadzor-ne-vse-to-zoloto",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "roskomnadzor",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

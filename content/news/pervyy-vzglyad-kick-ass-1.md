@@ -4,6 +4,12 @@
   "url": "/news/pervyy-vzglyad-kick-ass-1/",
   "original_url": "http://spidermedia.ru/news/pervyy-vzglyad-kick-ass-1",
   "archived": "https://web.archive.org/web/20260308230837/http://spidermedia.ru/news/pervyy-vzglyad-kick-ass-1",
+  "tags": [
+    "tommi-li-edvards",
+    "mark-millar",
+    "icon-comics",
+    "kick-ass"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

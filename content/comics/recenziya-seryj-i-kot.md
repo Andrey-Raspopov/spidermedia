@@ -4,6 +4,10 @@
   "url": "/comics/recenziya-seryj-i-kot/",
   "original_url": "http://spidermedia.ru/comics/recenziya-seryj-i-kot",
   "archived": "https://web.archive.org/web/20250807222424/http://spidermedia.ru/comics/recenziya-seryj-i-kot",
+  "tags": [
+    "komiksy",
+    "recenziya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

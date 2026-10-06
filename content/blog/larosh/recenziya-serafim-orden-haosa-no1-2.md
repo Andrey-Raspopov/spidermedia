@@ -4,6 +4,11 @@
   "url": "/blog/larosh/recenziya-serafim-orden-haosa-no1-2/",
   "original_url": "http://spidermedia.ru/blog/larosh/recenziya-serafim-orden-haosa-no1-2",
   "archived": "https://web.archive.org/web/20251111073433/http://spidermedia.ru/blog/larosh/recenziya-serafim-orden-haosa-no1-2",
+  "tags": [
+    "recenziya",
+    "russian-comics",
+    "obzor"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

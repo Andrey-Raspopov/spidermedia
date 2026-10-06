@@ -4,6 +4,12 @@
   "url": "/news/besstrashnyy-spenser/",
   "original_url": "https://spidermedia.ru/news/besstrashnyy-spenser",
   "archived": "https://web.archive.org/web/20251107011409/https://spidermedia.ru/news/besstrashnyy-spenser",
+  "tags": [
+    "secret-avengers",
+    "marvel",
+    "nik-spenser",
+    "skott-iton"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

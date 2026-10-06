@@ -4,6 +4,9 @@
   "url": "/comics/zal-slavy-ajsnera/",
   "original_url": "http://spidermedia.ru/comics/zal-slavy-ajsnera",
   "archived": "https://web.archive.org/web/20191228200149/http://spidermedia.ru:80/comics/zal-slavy-ajsnera",
+  "tags": [
+    "eisner-awards"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

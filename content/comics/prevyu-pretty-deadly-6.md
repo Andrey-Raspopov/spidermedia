@@ -4,6 +4,10 @@
   "url": "/comics/prevyu-pretty-deadly-6/",
   "original_url": "http://spidermedia.ru/comics/prevyu-pretty-deadly-6",
   "archived": "https://web.archive.org/web/20251206035608/http://spidermedia.ru/comics/prevyu-pretty-deadly-6",
+  "tags": [
+    "image-comics",
+    "pretty-deadly"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

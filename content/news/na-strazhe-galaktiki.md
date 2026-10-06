@@ -4,6 +4,14 @@
   "url": "/news/na-strazhe-galaktiki/",
   "original_url": "http://spidermedia.ru/news/na-strazhe-galaktiki",
   "archived": "https://web.archive.org/web/20260206225543/http://spidermedia.ru/news/na-strazhe-galaktiki",
+  "tags": [
+    "stiv-makniven",
+    "marvel",
+    "brian-michael-bendis",
+    "guardians-of-the-galaxy",
+    "komik-kon-v-nyu-yorke",
+    "new-york-comic-con"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

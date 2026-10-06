@@ -4,6 +4,13 @@
   "url": "/news/tizer-s-mertvechinkoy/",
   "original_url": "http://spidermedia.ru/news/tizer-s-mertvechinkoy",
   "archived": "https://web.archive.org/web/20120718070931/http://spidermedia.ru/news/tizer-s-mertvechinkoy",
+  "tags": [
+    "image-comics",
+    "walking-dead",
+    "art-0",
+    "komiksy",
+    "robert-kirkman"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

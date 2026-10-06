@@ -4,6 +4,9 @@
   "url": "/comics/recenziya-infinity-wars-1/",
   "original_url": "http://spidermedia.ru/comics/recenziya-infinity-wars-1",
   "archived": "https://web.archive.org/web/20251208075948/http://spidermedia.ru/comics/recenziya-infinity-wars-1",
+  "tags": [
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

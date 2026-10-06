@@ -4,6 +4,12 @@
   "url": "/news/neuyazvimyy-i-tochka/",
   "original_url": "http://spidermedia.ru/news/neuyazvimyy-i-tochka",
   "archived": "https://web.archive.org/web/20250116113840/http://spidermedia.ru/news/neuyazvimyy-i-tochka",
+  "tags": [
+    "kiron-gillen",
+    "greg-lend",
+    "iron-man",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

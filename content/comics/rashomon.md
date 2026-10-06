@@ -4,6 +4,9 @@
   "url": "/comics/rashomon/",
   "original_url": "http://spidermedia.ru/comics/rashomon",
   "archived": "https://web.archive.org/web/20250119063904/http://spidermedia.ru/comics/rashomon",
+  "tags": [
+    "dark-horse"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

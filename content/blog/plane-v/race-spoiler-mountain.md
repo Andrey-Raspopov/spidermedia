@@ -4,6 +4,10 @@
   "url": "/blog/plane-v/race-spoiler-mountain/",
   "original_url": "https://spidermedia.ru/blog/plane-v/race-spoiler-mountain",
   "archived": "https://web.archive.org/web/20250210070315/https://spidermedia.ru/blog/plane-v/race-spoiler-mountain",
+  "tags": [
+    "yumor",
+    "spojlery"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

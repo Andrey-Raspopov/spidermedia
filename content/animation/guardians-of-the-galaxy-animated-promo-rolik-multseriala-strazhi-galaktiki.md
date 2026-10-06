@@ -4,6 +4,10 @@
   "url": "/animation/guardians-of-the-galaxy-animated-promo-rolik-multseriala-strazhi-galaktiki/",
   "original_url": "http://spidermedia.ru/animation/guardians-of-the-galaxy-animated-promo-rolik-multseriala-strazhi-galaktiki",
   "archived": "https://web.archive.org/web/20251216173233/http://spidermedia.ru/animation/guardians-of-the-galaxy-animated-promo-rolik-multseriala-strazhi-galaktiki",
+  "tags": [
+    "marvel",
+    "guardians-of-the-galaxy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

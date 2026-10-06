@@ -4,6 +4,19 @@
   "url": "/news/world-war-hulks-aprel-iyun-2010/",
   "original_url": "http://spidermedia.ru/news/world-war-hulks-aprel-iyun-2010",
   "archived": "https://web.archive.org/web/20260214130138/http://spidermedia.ru/news/world-war-hulks-aprel-iyun-2010",
+  "tags": [
+    "ralk",
+    "krasnyj-halk",
+    "she-hulk",
+    "deadpool",
+    "dzheff-parker",
+    "dzhef-loeb",
+    "greg-pak",
+    "rulk",
+    "red-hulk",
+    "marvel",
+    "hulk"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

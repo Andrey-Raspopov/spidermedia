@@ -4,6 +4,15 @@
   "url": "/news/novyy-supermen-na-oblozhke-entertainment-weekly/",
   "original_url": "https://spidermedia.ru/news/novyy-supermen-na-oblozhke-entertainment-weekly",
   "archived": "https://web.archive.org/web/20260306001425/https://spidermedia.ru/news/novyy-supermen-na-oblozhke-entertainment-weekly",
+  "tags": [
+    "chelovek-iz-stali",
+    "superman",
+    "genri-kevill",
+    "zack-snyder",
+    "man-of-steel",
+    "henry-cavill",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

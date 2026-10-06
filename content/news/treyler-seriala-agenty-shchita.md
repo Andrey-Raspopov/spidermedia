@@ -4,6 +4,10 @@
   "url": "/news/treyler-seriala-agenty-shchita/",
   "original_url": "https://spidermedia.ru/news/treyler-seriala-agenty-shchita",
   "archived": "https://web.archive.org/web/20250717175912/https://spidermedia.ru/news/treyler-seriala-agenty-shchita",
+  "tags": [
+    "marvel",
+    "s.h.i.e.l.d"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

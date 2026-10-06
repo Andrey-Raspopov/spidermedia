@@ -4,6 +4,11 @@
   "url": "/news/novyy-chelovek-pauk-2-pervye-fotografii-elektro/",
   "original_url": "http://spidermedia.ru/news/novyy-chelovek-pauk-2-pervye-fotografii-elektro",
   "archived": "https://web.archive.org/web/20190806075619/http://spidermedia.ru:80/news/novyy-chelovek-pauk-2-pervye-fotografii-elektro",
+  "tags": [
+    "elektro",
+    "spider-man",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

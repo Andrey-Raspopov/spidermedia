@@ -4,6 +4,12 @@
   "url": "/news/haunt-novye-podrobnosti/",
   "original_url": "http://spidermedia.ru/news/haunt-novye-podrobnosti",
   "archived": "https://web.archive.org/web/20170718154426/http://spidermedia.ru:80/news/haunt-novye-podrobnosti",
+  "tags": [
+    "todd-makfarlejn",
+    "robert-kirkman",
+    "image-comics",
+    "haunt"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/news/v-seti-poyavilsya-predpolozhitelnyy-syuzhet-novoy-fantasticheskoy-chetverki/",
   "original_url": "https://spidermedia.ru/news/v-seti-poyavilsya-predpolozhitelnyy-syuzhet-novoy-fantasticheskoy-chetverki",
   "archived": "https://web.archive.org/web/20260121000115/https://spidermedia.ru/news/v-seti-poyavilsya-predpolozhitelnyy-syuzhet-novoy-fantasticheskoy-chetverki",
+  "tags": [
+    "fantastic-four",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

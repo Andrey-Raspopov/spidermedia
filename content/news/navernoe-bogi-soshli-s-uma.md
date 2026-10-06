@@ -4,6 +4,13 @@
   "url": "/news/navernoe-bogi-soshli-s-uma/",
   "original_url": "http://spidermedia.ru/news/navernoe-bogi-soshli-s-uma",
   "archived": "https://web.archive.org/web/20250425222949/http://spidermedia.ru/news/navernoe-bogi-soshli-s-uma",
+  "tags": [
+    "fiona-stejplz",
+    "rebeka-ajzeks",
+    "brian-wood",
+    "dv8-gods-and-monsters",
+    "dv8"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

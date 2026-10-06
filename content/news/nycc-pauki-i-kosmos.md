@@ -4,6 +4,22 @@
   "url": "/news/nycc-pauki-i-kosmos/",
   "original_url": "https://spidermedia.ru/news/nycc-pauki-i-kosmos",
   "archived": "https://web.archive.org/web/20260306001433/https://spidermedia.ru/news/nycc-pauki-i-kosmos",
+  "tags": [
+    "ed-makginness",
+    "sem-hampris",
+    "guardians-of-the-galaxy",
+    "pepe-larraz",
+    "marvel",
+    "x-men",
+    "ketrin-immonen",
+    "kelli-syu-dekonnik",
+    "zvezdnye-vojny",
+    "dzhi-uillou-uilson",
+    "dzherri-duggan",
+    "dzhejson-latur",
+    "gven-stejsi",
+    "brian-michael-bendis"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/comics/the-arctic-marauder-review/",
   "original_url": "http://spidermedia.ru/comics/the-arctic-marauder-review",
   "archived": "https://web.archive.org/web/20250324063117/http://spidermedia.ru/comics/the-arctic-marauder-review",
+  "tags": [
+    "bande-dessinée"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

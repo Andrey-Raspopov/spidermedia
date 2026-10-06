@@ -4,6 +4,16 @@
   "url": "/news/vozvrashchenie-korolya/",
   "original_url": "http://spidermedia.ru/news/vozvrashchenie-korolya",
   "archived": "https://web.archive.org/web/20251207100023/http://spidermedia.ru/news/vozvrashchenie-korolya",
+  "tags": [
+    "svetlejshij-den",
+    "geoff-johns",
+    "aquaman",
+    "outrageous",
+    "dc-comics",
+    "devid-finch",
+    "blackest-night",
+    "temnejshaya-noch"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

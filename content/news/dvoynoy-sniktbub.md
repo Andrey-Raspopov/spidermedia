@@ -4,6 +4,14 @@
   "url": "/news/dvoynoy-sniktbub/",
   "original_url": "https://spidermedia.ru/news/dvoynoy-sniktbub",
   "archived": "https://web.archive.org/web/20250420032200/https://spidermedia.ru/news/dvoynoy-sniktbub",
+  "tags": [
+    "charli-hyuston",
+    "huan-hose-rip",
+    "renato-guedes",
+    "dzheyson-aaron",
+    "art-0",
+    "wolverine"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

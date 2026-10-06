@@ -4,6 +4,20 @@
   "url": "/news/sluhi-ot-dena/",
   "original_url": "http://spidermedia.ru/news/sluhi-ot-dena",
   "archived": "https://web.archive.org/web/20111018131456/http://spidermedia.ru/news/sluhi-ot-dena",
+  "tags": [
+    "batman",
+    "battle-cowl",
+    "blackest-night",
+    "dan-didio",
+    "george-perez",
+    "bitva-za-plashch",
+    "betmen",
+    "dzhordzh-perez",
+    "den-didio",
+    "komiksy",
+    "sluhi",
+    "temneyshaya-noch"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

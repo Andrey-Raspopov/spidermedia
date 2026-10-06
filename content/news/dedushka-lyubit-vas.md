@@ -4,6 +4,13 @@
   "url": "/news/dedushka-lyubit-vas/",
   "original_url": "http://spidermedia.ru/news/dedushka-lyubit-vas",
   "archived": "https://web.archive.org/web/20190820205448/http://spidermedia.ru:80/news/dedushka-lyubit-vas",
+  "tags": [
+    "marvel",
+    "avengers",
+    "den-slott",
+    "mighty-avengers",
+    "g.r.a.m.p.a"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/comics/dissonans-review/",
   "original_url": "https://spidermedia.ru/comics/dissonans-review",
   "archived": "https://web.archive.org/web/20250419054827/https://spidermedia.ru/comics/dissonans-review",
+  "tags": [
+    "parallel-comics",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

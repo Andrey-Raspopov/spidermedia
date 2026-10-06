@@ -4,6 +4,13 @@
   "url": "/comics/sdcc-2017-captain-america-by-waid-and-samnee/",
   "original_url": "https://spidermedia.ru/comics/sdcc-2017-captain-america-by-waid-and-samnee",
   "archived": "https://web.archive.org/web/20260121005205/https://spidermedia.ru/comics/sdcc-2017-captain-america-by-waid-and-samnee",
+  "tags": [
+    "marvel",
+    "captain-america",
+    "san-diego-comic-con-international",
+    "chris-samnee",
+    "mark-waid"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

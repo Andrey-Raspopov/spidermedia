@@ -4,6 +4,19 @@
   "url": "/news/zheleznyy-pohod/",
   "original_url": "http://spidermedia.ru/news/zheleznyy-pohod",
   "archived": "https://web.archive.org/web/20120608005713/http://spidermedia.ru/news/zheleznyy-pohod",
+  "tags": [
+    "iron-man",
+    "iron-man-2",
+    "san-diego-comic-con-2009",
+    "sdcc-2009",
+    "dzhon-favro",
+    "zheleznyy-chelovek",
+    "zheleznyy-chelovek-2",
+    "kino",
+    "komik-kon-v-san-diego",
+    "komiksy",
+    "marvel"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

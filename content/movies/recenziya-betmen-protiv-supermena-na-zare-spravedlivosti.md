@@ -4,6 +4,14 @@
   "url": "/movies/recenziya-betmen-protiv-supermena-na-zare-spravedlivosti/",
   "original_url": "https://spidermedia.ru/movies/recenziya-betmen-protiv-supermena-na-zare-spravedlivosti",
   "archived": "https://web.archive.org/web/20251208075307/https://spidermedia.ru/movies/recenziya-betmen-protiv-supermena-na-zare-spravedlivosti",
+  "tags": [
+    "batman",
+    "lex-luthor",
+    "recenziya",
+    "superman",
+    "wonder-woman",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

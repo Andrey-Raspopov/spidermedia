@@ -4,6 +4,12 @@
   "url": "/news/sdcc10-pavilon-seriala-walking-dead/",
   "original_url": "https://spidermedia.ru/news/sdcc10-pavilon-seriala-walking-dead",
   "archived": "https://web.archive.org/web/20260211184123/https://spidermedia.ru/news/sdcc10-pavilon-seriala-walking-dead",
+  "tags": [
+    "serialy",
+    "san-diego-comic-con-international",
+    "zombi",
+    "the-walking-dead"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

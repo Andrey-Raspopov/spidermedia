@@ -4,6 +4,9 @@
   "url": "/blog/deadpoolic/vs-chew-1/",
   "original_url": "https://spidermedia.ru/blog/deadpoolic/vs-chew-1",
   "archived": "https://web.archive.org/web/20260307064034/https://spidermedia.ru/blog/deadpoolic/vs-chew-1",
+  "tags": [
+    "image-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,13 @@
   "url": "/news/nastoyashchie-zlodei/",
   "original_url": "http://spidermedia.ru/news/nastoyashchie-zlodei",
   "archived": "https://web.archive.org/web/20260211084645/http://spidermedia.ru/news/nastoyashchie-zlodei",
+  "tags": [
+    "marvel",
+    "art-0",
+    "dzho-kejsi",
+    "zodiac",
+    "natan-foks"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

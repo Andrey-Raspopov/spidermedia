@@ -4,6 +4,16 @@
   "url": "/news/bolshoy-badadum/",
   "original_url": "https://spidermedia.ru/news/bolshoy-badadum",
   "archived": "https://web.archive.org/web/20250617230025/https://spidermedia.ru/news/bolshoy-badadum",
+  "tags": [
+    "dzhonatan-mejberri",
+    "doktor-dum",
+    "doctor-doom",
+    "black-panther",
+    "deadpool",
+    "marvel",
+    "x-men",
+    "fantastic-four"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

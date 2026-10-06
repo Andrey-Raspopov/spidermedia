@@ -4,6 +4,10 @@
   "url": "/news/otchet-o-dne-strazhey-galaktiki-novyy-treyler/",
   "original_url": "https://spidermedia.ru/news/otchet-o-dne-strazhey-galaktiki-novyy-treyler",
   "archived": "https://web.archive.org/web/20251205112231/https://spidermedia.ru/news/otchet-o-dne-strazhey-galaktiki-novyy-treyler",
+  "tags": [
+    "guardians-of-the-galaxy",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/news/epoha-nuara-lyuk-keydzh/",
   "original_url": "http://spidermedia.ru/news/epoha-nuara-lyuk-keydzh",
   "archived": "https://web.archive.org/web/20200217105010/http://spidermedia.ru:80/news/epoha-nuara-lyuk-keydzh",
+  "tags": [
+    "noirverse",
+    "marvel",
+    "luke-cage"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

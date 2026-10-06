@@ -4,6 +4,18 @@
   "url": "/news/perevossoedinenie/",
   "original_url": "https://spidermedia.ru/news/perevossoedinenie",
   "archived": "https://web.archive.org/web/20251208080142/https://spidermedia.ru/news/perevossoedinenie",
+  "tags": [
+    "hawkeye",
+    "peresmeshnica",
+    "dzhim-makkenn",
+    "mockingbird",
+    "marvel",
+    "dominic-fortune",
+    "dominik-fortuna",
+    "heroic-age",
+    "era-geroev",
+    "devid-lopes"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

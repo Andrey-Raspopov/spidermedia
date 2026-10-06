@@ -4,6 +4,11 @@
   "url": "/news/avengers-assemble-part-i-dekabr-2009/",
   "original_url": "https://spidermedia.ru/news/avengers-assemble-part-i-dekabr-2009",
   "archived": "https://web.archive.org/web/20260117223416/https://spidermedia.ru/news/avengers-assemble-part-i-dekabr-2009",
+  "tags": [
+    "preview",
+    "marvel",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

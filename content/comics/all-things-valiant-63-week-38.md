@@ -4,6 +4,9 @@
   "url": "/comics/all-things-valiant-63-week-38/",
   "original_url": "http://spidermedia.ru/comics/all-things-valiant-63-week-38",
   "archived": "https://web.archive.org/web/20260208203040/http://spidermedia.ru/comics/all-things-valiant-63-week-38",
+  "tags": [
+    "valiant-entertainment"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

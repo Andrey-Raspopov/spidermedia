@@ -4,6 +4,9 @@
   "url": "/comics/necropolis-review/",
   "original_url": "http://spidermedia.ru/comics/necropolis-review",
   "archived": "https://web.archive.org/web/20210818150225/http://spidermedia.ru/comics/necropolis-review",
+  "tags": [
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

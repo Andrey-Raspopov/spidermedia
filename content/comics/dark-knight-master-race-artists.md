@@ -4,6 +4,12 @@
   "url": "/comics/dark-knight-master-race-artists/",
   "original_url": "http://spidermedia.ru/comics/dark-knight-master-race-artists",
   "archived": "https://web.archive.org/web/20251115190138/http://spidermedia.ru/comics/dark-knight-master-race-artists",
+  "tags": [
+    "dc-comics",
+    "batman",
+    "frenk-miller",
+    "san-diego-comic-con-international"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

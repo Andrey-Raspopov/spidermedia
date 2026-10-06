@@ -4,6 +4,9 @@
   "url": "/tv/wgn-america-jason-aaron-scalped-pilot/",
   "original_url": "https://spidermedia.ru/tv/wgn-america-jason-aaron-scalped-pilot",
   "archived": "https://web.archive.org/web/20240305025611/https://spidermedia.ru/tv/wgn-america-jason-aaron-scalped-pilot",
+  "tags": [
+    "vertigo"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

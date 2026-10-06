@@ -4,6 +4,14 @@
   "url": "/news/eksklyuziv-hulk-600/",
   "original_url": "http://spidermedia.ru/news/eksklyuziv-hulk-600",
   "archived": "https://web.archive.org/web/20120728112519/http://spidermedia.ru:80/news/eksklyuziv-hulk-600",
+  "tags": [
+    "hulk",
+    "aleks-ross",
+    "art-0",
+    "komiksy",
+    "marvel",
+    "oblozhki"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,13 @@
   "url": "/news/dc-somics-god-family/",
   "original_url": "http://spidermedia.ru/news/dc-somics-god-family",
   "archived": "https://web.archive.org/web/20120607175451/http://spidermedia.ru/news/dc-somics-god-family",
+  "tags": [
+    "dc-comics",
+    "art-0",
+    "dzho-bennet",
+    "komiksy",
+    "ugadayka"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

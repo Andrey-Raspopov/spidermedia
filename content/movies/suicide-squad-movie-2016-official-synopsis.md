@@ -4,6 +4,10 @@
   "url": "/movies/suicide-squad-movie-2016-official-synopsis/",
   "original_url": "http://spidermedia.ru/movies/suicide-squad-movie-2016-official-synopsis",
   "archived": "https://web.archive.org/web/20260313121016/http://spidermedia.ru/movies/suicide-squad-movie-2016-official-synopsis",
+  "tags": [
+    "dc-comics",
+    "suicide-squad"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

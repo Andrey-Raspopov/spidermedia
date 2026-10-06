@@ -4,6 +4,10 @@
   "url": "/news/guild-life-you-are-starting-character/",
   "original_url": "http://spidermedia.ru/news/guild-life-you-are-starting-character",
   "archived": "https://web.archive.org/web/20200130013423/http://spidermedia.ru:80/news/guild-life-you-are-starting-character",
+  "tags": [
+    "jim-rugg",
+    "dark-horse"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

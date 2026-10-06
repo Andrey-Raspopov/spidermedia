@@ -4,6 +4,14 @@
   "url": "/blog/derden/manga-na-russkom-izlom-istari-komiks-0/",
   "original_url": "https://spidermedia.ru/blog/derden/manga-na-russkom-izlom-istari-komiks-0",
   "archived": "https://web.archive.org/web/20251216122948/https://spidermedia.ru/blog/derden/manga-na-russkom-izlom-istari-komiks-0",
+  "tags": [
+    "manhva",
+    "manga",
+    "istari-komiks",
+    "izlom",
+    "shaman-warrior",
+    "dangu"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,18 @@
   "url": "/news/prevyu-punisher-annual-1/",
   "original_url": "http://spidermedia.ru/news/prevyu-punisher-annual-1",
   "archived": "https://web.archive.org/web/20120607154959/http://spidermedia.ru/news/prevyu-punisher-annual-1",
+  "tags": [
+    "punisher",
+    "spider-man",
+    "art-0",
+    "dzheyson-pirson",
+    "karatel",
+    "komiksy",
+    "marvel",
+    "oblozhki",
+    "rik-remender",
+    "chelovek-pauk"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

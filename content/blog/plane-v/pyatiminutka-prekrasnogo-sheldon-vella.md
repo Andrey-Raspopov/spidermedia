@@ -4,6 +4,10 @@
   "url": "/blog/plane-v/pyatiminutka-prekrasnogo-sheldon-vella/",
   "original_url": "https://spidermedia.ru/blog/plane-v/pyatiminutka-prekrasnogo-sheldon-vella",
   "archived": "https://web.archive.org/web/20251014031228/https://spidermedia.ru/blog/plane-v/pyatiminutka-prekrasnogo-sheldon-vella",
+  "tags": [
+    "pyatiminutka-prekrasnogo",
+    "sheldon-vella"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

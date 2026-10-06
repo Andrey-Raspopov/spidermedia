@@ -4,6 +4,11 @@
   "url": "/blog/deadpoolic/japanese-x-men-opening/",
   "original_url": "http://spidermedia.ru/blog/deadpoolic/japanese-x-men-opening",
   "archived": "https://web.archive.org/web/20111019053557/http://spidermedia.ru/blog/deadpoolic/japanese-x-men-opening",
+  "tags": [
+    "animation",
+    "crosspost",
+    "x-men"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

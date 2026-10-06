@@ -4,6 +4,13 @@
   "url": "/blog/sp888/ultimate-hawkeye-istorii-bezumiya-i-redizayna/",
   "original_url": "http://spidermedia.ru/blog/sp888/ultimate-hawkeye-istorii-bezumiya-i-redizayna",
   "archived": "https://web.archive.org/web/20111018104112/http://spidermedia.ru/blog/sp888/ultimate-hawkeye-istorii-bezumiya-i-redizayna",
+  "tags": [
+    "hawkeye",
+    "ultimate",
+    "dzhef-loeb",
+    "dzho-madureyra",
+    "mnenie"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

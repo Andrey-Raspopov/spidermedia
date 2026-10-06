@@ -4,6 +4,13 @@
   "url": "/news/spider-woman-v-pautine-animacii/",
   "original_url": "http://spidermedia.ru/news/spider-woman-v-pautine-animacii",
   "archived": "https://web.archive.org/web/20190820191508/http://spidermedia.ru:80/news/spider-woman-v-pautine-animacii",
+  "tags": [
+    "marvel",
+    "spider-woman",
+    "alex-maleev",
+    "brian-michael-bendis",
+    "art-0"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

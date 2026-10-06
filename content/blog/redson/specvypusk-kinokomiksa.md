@@ -4,6 +4,12 @@
   "url": "/blog/redson/specvypusk-kinokomiksa/",
   "original_url": "http://spidermedia.ru/blog/redson/specvypusk-kinokomiksa",
   "archived": "https://web.archive.org/web/20120512043326/http://spidermedia.ru/blog/redson/specvypusk-kinokomiksa",
+  "tags": [
+    "sabretooth",
+    "kino",
+    "komiksy",
+    "sablezubyy"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

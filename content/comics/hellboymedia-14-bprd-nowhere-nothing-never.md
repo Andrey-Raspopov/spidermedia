@@ -4,6 +4,10 @@
   "url": "/comics/hellboymedia-14-bprd-nowhere-nothing-never/",
   "original_url": "http://spidermedia.ru/comics/hellboymedia-14-bprd-nowhere-nothing-never",
   "archived": "https://web.archive.org/web/20260215084844/http://spidermedia.ru/comics/hellboymedia-14-bprd-nowhere-nothing-never",
+  "tags": [
+    "hellboymedia",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

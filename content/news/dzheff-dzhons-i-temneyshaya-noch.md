@@ -4,6 +4,15 @@
   "url": "/news/dzheff-dzhons-i-temneyshaya-noch/",
   "original_url": "http://spidermedia.ru/news/dzheff-dzhons-i-temneyshaya-noch",
   "archived": "https://web.archive.org/web/20250807215733/http://spidermedia.ru/news/dzheff-dzhons-i-temneyshaya-noch",
+  "tags": [
+    "dc-comics",
+    "green-lantern",
+    "blackest-night",
+    "temnejshaya-noch",
+    "geoff-johns",
+    "ethan-van-sciver",
+    "art-0"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

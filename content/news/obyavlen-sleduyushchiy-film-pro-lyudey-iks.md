@@ -4,6 +4,10 @@
   "url": "/news/obyavlen-sleduyushchiy-film-pro-lyudey-iks/",
   "original_url": "http://spidermedia.ru/news/obyavlen-sleduyushchiy-film-pro-lyudey-iks",
   "archived": "https://web.archive.org/web/20250717182434/http://spidermedia.ru/news/obyavlen-sleduyushchiy-film-pro-lyudey-iks",
+  "tags": [
+    "x-men",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

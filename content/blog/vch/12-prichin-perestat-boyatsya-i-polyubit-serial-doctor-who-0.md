@@ -4,6 +4,10 @@
   "url": "/blog/vch/12-prichin-perestat-boyatsya-i-polyubit-serial-doctor-who-0/",
   "original_url": "http://spidermedia.ru/blog/vch/12-prichin-perestat-boyatsya-i-polyubit-serial-doctor-who-0",
   "archived": "https://web.archive.org/web/20230430043307/http://spidermedia.ru/blog/vch/12-prichin-perestat-boyatsya-i-polyubit-serial-doctor-who-0",
+  "tags": [
+    "serialy",
+    "doctor-who"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

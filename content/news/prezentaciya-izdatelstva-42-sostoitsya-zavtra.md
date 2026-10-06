@@ -4,6 +4,11 @@
   "url": "/news/prezentaciya-izdatelstva-42-sostoitsya-zavtra/",
   "original_url": "http://spidermedia.ru/news/prezentaciya-izdatelstva-42-sostoitsya-zavtra",
   "archived": "https://web.archive.org/web/20260211183031/http://spidermedia.ru/news/prezentaciya-izdatelstva-42-sostoitsya-zavtra",
+  "tags": [
+    "industriya",
+    "izdatelstvo-42",
+    "zarubezhnye-komiksy-na-russkom"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

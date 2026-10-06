@@ -4,6 +4,11 @@
   "url": "/news/utopia-finalnyy-vzglyad/",
   "original_url": "http://spidermedia.ru/news/utopia-finalnyy-vzglyad",
   "archived": "https://web.archive.org/web/20200223223534/http://spidermedia.ru:80/news/utopia-finalnyy-vzglyad",
+  "tags": [
+    "x-men",
+    "marvel",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

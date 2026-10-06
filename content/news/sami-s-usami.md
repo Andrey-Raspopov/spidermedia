@@ -4,6 +4,17 @@
   "url": "/news/sami-s-usami/",
   "original_url": "http://spidermedia.ru/news/sami-s-usami",
   "archived": "https://web.archive.org/web/20260120152723/http://spidermedia.ru/news/sami-s-usami",
+  "tags": [
+    "endi-lenning",
+    "timoti-grin",
+    "majk-minola",
+    "den-ebnett",
+    "rocket-racoon",
+    "marvel",
+    "guardians-of-the-galaxy",
+    "groot",
+    "san-diego-comic-con-international"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,13 @@
   "url": "/news/ultimate-comics-dzhef-loeb/",
   "original_url": "http://spidermedia.ru/news/ultimate-comics-dzhef-loeb",
   "archived": "https://web.archive.org/web/20120512051328/http://spidermedia.ru/news/ultimate-comics-dzhef-loeb",
+  "tags": [
+    "ultimate",
+    "ultimates",
+    "dzhef-loeb",
+    "komiksy",
+    "marvel"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

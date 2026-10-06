@@ -4,6 +4,11 @@
   "url": "/comics/roskomnadzor-ataka/",
   "original_url": "http://spidermedia.ru/comics/roskomnadzor-ataka",
   "archived": "https://web.archive.org/web/20250425230409/http://spidermedia.ru/comics/roskomnadzor-ataka",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "roskomnadzor",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

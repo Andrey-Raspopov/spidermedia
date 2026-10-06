@@ -4,6 +4,10 @@
   "url": "/blog/naya/yubikiri-hime/",
   "original_url": "http://spidermedia.ru/blog/naya/yubikiri-hime",
   "archived": "https://web.archive.org/web/20250909134714/http://spidermedia.ru/blog/naya/yubikiri-hime",
+  "tags": [
+    "one-shot",
+    "manga"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/news/viola-devis-stanet-amandoy-uoller/",
   "original_url": "https://spidermedia.ru/news/viola-devis-stanet-amandoy-uoller",
   "archived": "https://web.archive.org/web/20251207103640/https://spidermedia.ru/news/viola-devis-stanet-amandoy-uoller",
+  "tags": [
+    "suicide-squad",
+    "kasting",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

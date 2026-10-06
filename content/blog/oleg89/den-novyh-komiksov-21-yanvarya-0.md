@@ -4,6 +4,9 @@
   "url": "/blog/oleg89/den-novyh-komiksov-21-yanvarya-0/",
   "original_url": "http://spidermedia.ru/blog/oleg89/den-novyh-komiksov-21-yanvarya-0",
   "archived": "https://web.archive.org/web/20260211190106/http://spidermedia.ru/blog/oleg89/den-novyh-komiksov-21-yanvarya-0",
+  "tags": [
+    "den-novyh-komiksov"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

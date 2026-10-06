@@ -4,6 +4,11 @@
   "url": "/comics/how-to-save-dc-comics/",
   "original_url": "https://spidermedia.ru/comics/how-to-save-dc-comics",
   "archived": "https://web.archive.org/web/20251117005326/https://spidermedia.ru/comics/how-to-save-dc-comics",
+  "tags": [
+    "dc-comics",
+    "imho",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

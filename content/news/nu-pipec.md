@@ -4,6 +4,11 @@
   "url": "/news/nu-pipec/",
   "original_url": "https://spidermedia.ru/news/nu-pipec",
   "archived": "https://web.archive.org/web/20250316152630/https://spidermedia.ru/news/nu-pipec",
+  "tags": [
+    "mettyu-von",
+    "mark-millar",
+    "kick-ass"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,15 @@
   "url": "/news/eshchyo-odin-zvyozdno-polosatyy-sem/",
   "original_url": "http://spidermedia.ru/news/eshchyo-odin-zvyozdno-polosatyy-sem",
   "archived": "https://web.archive.org/web/20250806060028/http://spidermedia.ru/news/eshchyo-odin-zvyozdno-polosatyy-sem",
+  "tags": [
+    "tom-tejlor",
+    "styuart-immonen",
+    "falcon",
+    "rik-remender",
+    "marvel",
+    "captain-america",
+    "jildiraj-chinar"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

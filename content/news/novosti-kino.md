@@ -4,6 +4,13 @@
   "url": "/news/novosti-kino/",
   "original_url": "http://spidermedia.ru/news/novosti-kino",
   "archived": "https://web.archive.org/web/20150320091821/http://spidermedia.ru/news/novosti-kino",
+  "tags": [
+    "kino",
+    "zelyonyj-fonar",
+    "mettyu-von",
+    "kick-ass",
+    "tor"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

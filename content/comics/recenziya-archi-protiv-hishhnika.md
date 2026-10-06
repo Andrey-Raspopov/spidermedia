@@ -4,6 +4,10 @@
   "url": "/comics/recenziya-archi-protiv-hishhnika/",
   "original_url": "http://spidermedia.ru/comics/recenziya-archi-protiv-hishhnika",
   "archived": "https://web.archive.org/web/20251108193540/http://spidermedia.ru/comics/recenziya-archi-protiv-hishhnika",
+  "tags": [
+    "komilfo",
+    "obzor"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

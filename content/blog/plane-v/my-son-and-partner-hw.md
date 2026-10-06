@@ -4,6 +4,18 @@
   "url": "/blog/plane-v/my-son-and-partner-hw/",
   "original_url": "http://spidermedia.ru/blog/plane-v/my-son-and-partner-hw",
   "archived": "https://web.archive.org/web/20251107005343/http://spidermedia.ru/blog/plane-v/my-son-and-partner-hw",
+  "tags": [
+    "marvel",
+    "mnenie",
+    "thunderbolts",
+    "avengers",
+    "iron-man",
+    "silver-surfer",
+    "thor",
+    "hercules",
+    "omega-the-unknown",
+    "wisdom"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

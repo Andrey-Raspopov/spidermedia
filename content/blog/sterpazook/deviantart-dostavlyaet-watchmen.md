@@ -4,6 +4,9 @@
   "url": "/blog/sterpazook/deviantart-dostavlyaet-watchmen/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/deviantart-dostavlyaet-watchmen",
   "archived": "https://web.archive.org/web/20200130013524/http://spidermedia.ru:80/blog/sterpazook/deviantart-dostavlyaet-watchmen",
+  "tags": [
+    "hraniteli"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

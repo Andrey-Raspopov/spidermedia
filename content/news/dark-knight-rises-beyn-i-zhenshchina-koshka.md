@@ -4,6 +4,11 @@
   "url": "/news/dark-knight-rises-beyn-i-zhenshchina-koshka/",
   "original_url": "https://spidermedia.ru/news/dark-knight-rises-beyn-i-zhenshchina-koshka",
   "archived": "https://web.archive.org/web/20250620075853/https://spidermedia.ru/news/dark-knight-rises-beyn-i-zhenshchina-koshka",
+  "tags": [
+    "batman",
+    "dc-comics",
+    "dark-knight-rises"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

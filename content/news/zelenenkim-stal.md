@@ -4,6 +4,15 @@
   "url": "/news/zelenenkim-stal/",
   "original_url": "https://spidermedia.ru/news/zelenenkim-stal",
   "archived": "https://web.archive.org/web/20251216174639/https://spidermedia.ru/news/zelenenkim-stal",
+  "tags": [
+    "norman-ozborn",
+    "nil-adams",
+    "brian-michael-bendis",
+    "art-0",
+    "norman-osborn",
+    "marvel",
+    "zelyonyj-goblin"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

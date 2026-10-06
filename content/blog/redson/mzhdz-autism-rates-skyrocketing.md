@@ -4,6 +4,10 @@
   "url": "/blog/redson/mzhdz-autism-rates-skyrocketing/",
   "original_url": "http://spidermedia.ru/blog/redson/mzhdz-autism-rates-skyrocketing",
   "archived": "https://web.archive.org/web/20251116061501/http://spidermedia.ru/blog/redson/mzhdz-autism-rates-skyrocketing",
+  "tags": [
+    "mnenie",
+    "mzhdz"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

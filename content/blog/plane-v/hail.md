@@ -4,6 +4,10 @@
   "url": "/blog/plane-v/hail/",
   "original_url": "http://spidermedia.ru/blog/plane-v/hail",
   "archived": "https://web.archive.org/web/20210303084042/http://spidermedia.ru/blog/plane-v/hail",
+  "tags": [
+    "jack-kirby",
+    "fourth-world"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

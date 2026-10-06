@@ -4,6 +4,10 @@
   "url": "/comics/nycc-2016-bennett-i-epting-zajmutsya-seriej-betvuman/",
   "original_url": "http://spidermedia.ru/comics/nycc-2016-bennett-i-epting-zajmutsya-seriej-betvuman",
   "archived": "https://web.archive.org/web/20250518141401/http://spidermedia.ru/comics/nycc-2016-bennett-i-epting-zajmutsya-seriej-betvuman",
+  "tags": [
+    "dc-comics",
+    "komik-kon-v-nyu-yorke"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/blog/naya/tekkon-kinkreet/",
   "original_url": "http://spidermedia.ru/blog/naya/tekkon-kinkreet",
   "archived": "https://web.archive.org/web/20251106234716/http://spidermedia.ru/blog/naya/tekkon-kinkreet",
+  "tags": [
+    "anime"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

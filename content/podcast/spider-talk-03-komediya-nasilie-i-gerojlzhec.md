@@ -4,6 +4,9 @@
   "url": "/podcast/spider-talk-03-komediya-nasilie-i-gerojlzhec/",
   "original_url": "http://spidermedia.ru/podcast/spider-talk-03-komediya-nasilie-i-gerojlzhec",
   "archived": "https://web.archive.org/web/20251216121257/http://spidermedia.ru/podcast/spider-talk-03-komediya-nasilie-i-gerojlzhec",
+  "tags": [
+    "spider-talk"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

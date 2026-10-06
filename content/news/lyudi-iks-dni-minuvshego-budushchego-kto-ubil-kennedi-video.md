@@ -4,6 +4,12 @@
   "url": "/news/lyudi-iks-dni-minuvshego-budushchego-kto-ubil-kennedi-video/",
   "original_url": "https://spidermedia.ru/news/lyudi-iks-dni-minuvshego-budushchego-kto-ubil-kennedi-video",
   "archived": "https://web.archive.org/web/20260125052058/https://spidermedia.ru/news/lyudi-iks-dni-minuvshego-budushchego-kto-ubil-kennedi-video",
+  "tags": [
+    "magneto",
+    "lyudi-iks-pervyj-klass",
+    "x-men",
+    "days-of-future-past"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

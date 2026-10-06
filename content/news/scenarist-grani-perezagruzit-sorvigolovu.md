@@ -4,6 +4,10 @@
   "url": "/news/scenarist-grani-perezagruzit-sorvigolovu/",
   "original_url": "https://spidermedia.ru/news/scenarist-grani-perezagruzit-sorvigolovu",
   "archived": "https://web.archive.org/web/20260305232859/https://spidermedia.ru/news/scenarist-grani-perezagruzit-sorvigolovu",
+  "tags": [
+    "daredevil",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

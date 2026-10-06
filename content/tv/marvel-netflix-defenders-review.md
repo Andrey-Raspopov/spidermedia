@@ -4,6 +4,9 @@
   "url": "/tv/marvel-netflix-defenders-review/",
   "original_url": "http://spidermedia.ru/tv/marvel-netflix-defenders-review",
   "archived": "https://web.archive.org/web/20250326012350/http://spidermedia.ru/tv/marvel-netflix-defenders-review",
+  "tags": [
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

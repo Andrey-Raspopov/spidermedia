@@ -4,6 +4,11 @@
   "url": "/news/aprel-10-x-men/",
   "original_url": "http://spidermedia.ru/news/aprel-10-x-men",
   "archived": "https://web.archive.org/web/20251106235750/http://spidermedia.ru/news/aprel-10-x-men",
+  "tags": [
+    "relizy",
+    "x-men",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/movies/mgm-ekraniziruet-rising-stars-strazhinski/",
   "original_url": "https://spidermedia.ru/movies/mgm-ekraniziruet-rising-stars-strazhinski",
   "archived": "https://web.archive.org/web/20260121002715/https://spidermedia.ru/movies/mgm-ekraniziruet-rising-stars-strazhinski",
+  "tags": [
+    "top-cow",
+    "j-michael-straczynski"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

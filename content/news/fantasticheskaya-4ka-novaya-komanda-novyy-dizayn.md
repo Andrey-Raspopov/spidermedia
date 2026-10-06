@@ -4,6 +4,13 @@
   "url": "/news/fantasticheskaya-4ka-novaya-komanda-novyy-dizayn/",
   "original_url": "http://spidermedia.ru/news/fantasticheskaya-4ka-novaya-komanda-novyy-dizayn",
   "archived": "https://web.archive.org/web/20150426185939/http://spidermedia.ru/news/fantasticheskaya-4ka-novaya-komanda-novyy-dizayn",
+  "tags": [
+    "dejl-iglshem",
+    "dzhonatan-hikman",
+    "mr-fantastic",
+    "marvel-comics",
+    "fantastic-four"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,13 @@
   "url": "/blog/bastion7/recenziya-transmetropolitan/",
   "original_url": "https://spidermedia.ru/blog/bastion7/recenziya-transmetropolitan",
   "archived": "https://web.archive.org/web/20250518130525/https://spidermedia.ru/blog/bastion7/recenziya-transmetropolitan",
+  "tags": [
+    "dc-comics",
+    "recenziya",
+    "vertigo",
+    "warren-ellis",
+    "derik-robertson"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

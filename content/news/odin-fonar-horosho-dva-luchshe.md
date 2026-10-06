@@ -4,6 +4,10 @@
   "url": "/news/odin-fonar-horosho-dva-luchshe/",
   "original_url": "http://spidermedia.ru/news/odin-fonar-horosho-dva-luchshe",
   "archived": "https://web.archive.org/web/20250324155242/http://spidermedia.ru/news/odin-fonar-horosho-dva-luchshe",
+  "tags": [
+    "green-lantern",
+    "the-flash"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

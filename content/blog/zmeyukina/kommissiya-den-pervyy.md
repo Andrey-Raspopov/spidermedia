@@ -4,6 +4,11 @@
   "url": "/blog/zmeyukina/kommissiya-den-pervyy/",
   "original_url": "https://spidermedia.ru/blog/zmeyukina/kommissiya-den-pervyy",
   "archived": "https://web.archive.org/web/20250425232109/https://spidermedia.ru/blog/zmeyukina/kommissiya-den-pervyy",
+  "tags": [
+    "russian-comics",
+    "kommissiya",
+    "vystavka"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

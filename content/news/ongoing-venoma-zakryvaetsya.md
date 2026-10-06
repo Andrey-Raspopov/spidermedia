@@ -4,6 +4,10 @@
   "url": "/news/ongoing-venoma-zakryvaetsya/",
   "original_url": "https://spidermedia.ru/news/ongoing-venoma-zakryvaetsya",
   "archived": "https://web.archive.org/web/20250424102746/https://spidermedia.ru/news/ongoing-venoma-zakryvaetsya",
+  "tags": [
+    "marvel",
+    "venom"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

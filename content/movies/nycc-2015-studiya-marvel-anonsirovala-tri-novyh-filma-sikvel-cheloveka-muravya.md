@@ -4,6 +4,9 @@
   "url": "/movies/nycc-2015-studiya-marvel-anonsirovala-tri-novyh-filma-sikvel-cheloveka-muravya/",
   "original_url": "http://spidermedia.ru/movies/nycc-2015-studiya-marvel-anonsirovala-tri-novyh-filma-sikvel-cheloveka-muravya",
   "archived": "https://web.archive.org/web/20210128062135/http://spidermedia.ru/movies/nycc-2015-studiya-marvel-anonsirovala-tri-novyh-filma-sikvel-cheloveka-muravya",
+  "tags": [
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

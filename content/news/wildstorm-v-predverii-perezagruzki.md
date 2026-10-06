@@ -4,6 +4,15 @@
   "url": "/news/wildstorm-v-predverii-perezagruzki/",
   "original_url": "http://spidermedia.ru/news/wildstorm-v-predverii-perezagruzki",
   "archived": "https://web.archive.org/web/20120607104041/http://spidermedia.ru/news/wildstorm-v-predverii-perezagruzki",
+  "tags": [
+    "dc-comics",
+    "team-7",
+    "wildcats",
+    "wildstorm",
+    "dikie-koty",
+    "komanda-7",
+    "komiksy"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

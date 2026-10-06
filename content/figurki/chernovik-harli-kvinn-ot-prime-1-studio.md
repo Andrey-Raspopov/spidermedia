@@ -4,6 +4,10 @@
   "url": "/figurki/chernovik-harli-kvinn-ot-prime-1-studio/",
   "original_url": "http://spidermedia.ru/figurki/chernovik-harli-kvinn-ot-prime-1-studio",
   "archived": "https://web.archive.org/web/20260117231953/http://spidermedia.ru/figurki/chernovik-harli-kvinn-ot-prime-1-studio",
+  "tags": [
+    "harli-kvin",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

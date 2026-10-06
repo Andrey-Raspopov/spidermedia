@@ -4,11 +4,15 @@
   "url": "/blog/redson/mzhdz-where-we-will-live/",
   "original_url": "https://spidermedia.ru/blog/redson/mzhdz-where-we-will-live",
   "archived": "https://web.archive.org/web/20240718173553/https://spidermedia.ru/blog/redson/mzhdz-where-we-will-live",
+  "tags": [
+    "mnenie",
+    "mzhdz"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](https://web.archive.org/web/20240718173553im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz516.png)](https://web.archive.org/web/20260206215846/http://spidermedia.ru/tags/mzhdz)
+[![](https://web.archive.org/web/20240718173553im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz516.png)](../../../tags/mzhdz/)
 ![](https://web.archive.org/web/20240718173553im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/tumblr_lntk5bOUM61qd3fj1o1_400.gif)
 Спасибо [Крису Симсу](http://www.the-isb.com/) за наше сейчас.
 **Еженедельные обзоры новых комиксов!**

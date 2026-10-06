@@ -4,6 +4,11 @@
   "url": "/blog/alex/geroi-heroes-s3-ep17-cold-wars-holodnye-voyny/",
   "original_url": "http://spidermedia.ru/blog/alex/geroi-heroes-s3-ep17-cold-wars-holodnye-voyny",
   "archived": "https://web.archive.org/web/20191216074037/http://spidermedia.ru/blog/alex/geroi-heroes-s3-ep17-cold-wars-holodnye-voyny",
+  "tags": [
+    "serialy",
+    "geroi",
+    "heroes"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

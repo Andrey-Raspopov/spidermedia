@@ -4,6 +4,10 @@
   "url": "/blog/yaetxiyat-suiyaattigas/neoficialnaya-poka-pesnya-brightest-day-k-gryadushchemu-filmu-zelyonyy/",
   "original_url": "https://spidermedia.ru/blog/yaetxiyat-suiyaattigas/neoficialnaya-poka-pesnya-brightest-day-k-gryadushchemu-filmu-zelyonyy",
   "archived": "https://web.archive.org/web/20260125064817/https://spidermedia.ru/blog/yaetxiyat-suiyaattigas/neoficialnaya-poka-pesnya-brightest-day-k-gryadushchemu-filmu-zelyonyy",
+  "tags": [
+    "green-lantern",
+    "muzyka"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

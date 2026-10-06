@@ -4,6 +4,13 @@
   "url": "/news/nazvan-rezhisser-filma-deadman/",
   "original_url": "http://spidermedia.ru/news/nazvan-rezhisser-filma-deadman",
   "archived": "https://web.archive.org/web/20120609161855/http://spidermedia.ru/news/nazvan-rezhisser-filma-deadman",
+  "tags": [
+    "dc-comics",
+    "deadman",
+    "dedmen",
+    "kino",
+    "komiksy"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

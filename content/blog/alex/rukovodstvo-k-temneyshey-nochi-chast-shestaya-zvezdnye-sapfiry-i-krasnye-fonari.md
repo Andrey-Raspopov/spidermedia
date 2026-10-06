@@ -4,6 +4,18 @@
   "url": "/blog/alex/rukovodstvo-k-temneyshey-nochi-chast-shestaya-zvezdnye-sapfiry-i-krasnye-fonari/",
   "original_url": "http://spidermedia.ru/blog/alex/rukovodstvo-k-temneyshey-nochi-chast-shestaya-zvezdnye-sapfiry-i-krasnye-fonari",
   "archived": "https://web.archive.org/web/20241110031621/http://spidermedia.ru/blog/alex/rukovodstvo-k-temneyshey-nochi-chast-shestaya-zvezdnye-sapfiry-i-krasnye-fonari",
+  "tags": [
+    "temnejshaya-noch",
+    "obzor",
+    "krasnye-fonari",
+    "zvezdnye-sapfiry",
+    "atrocitus",
+    "star-sapphires",
+    "red-lantern",
+    "green-lantern",
+    "dc-comics",
+    "blackest-night"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

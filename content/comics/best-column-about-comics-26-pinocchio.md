@@ -4,6 +4,10 @@
   "url": "/comics/best-column-about-comics-26-pinocchio/",
   "original_url": "https://spidermedia.ru/comics/best-column-about-comics-26-pinocchio",
   "archived": "https://web.archive.org/web/20260214133319/https://spidermedia.ru/comics/best-column-about-comics-26-pinocchio",
+  "tags": [
+    "best-column-about-comics",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

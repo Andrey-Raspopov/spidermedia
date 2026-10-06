@@ -4,6 +4,9 @@
   "url": "/games/witcher-3-hearts-of-stone/",
   "original_url": "http://spidermedia.ru/games/witcher-3-hearts-of-stone",
   "archived": "https://web.archive.org/web/20260120155747/http://spidermedia.ru/games/witcher-3-hearts-of-stone",
+  "tags": [
+    "vedmak"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

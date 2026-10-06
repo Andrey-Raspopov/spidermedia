@@ -4,6 +4,12 @@
   "url": "/blog/igrok/golosuy-za-novye-figurki/",
   "original_url": "https://spidermedia.ru/blog/igrok/golosuy-za-novye-figurki",
   "archived": "https://web.archive.org/web/20260305235232/https://spidermedia.ru/blog/igrok/golosuy-za-novye-figurki",
+  "tags": [
+    "marvel",
+    "figurki",
+    "hasbro",
+    "golosovanie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

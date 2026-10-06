@@ -4,6 +4,11 @@
   "url": "/news/pervyy-mstitel-drugaya-voyna-novye-promo-poster/",
   "original_url": "http://spidermedia.ru/news/pervyy-mstitel-drugaya-voyna-novye-promo-poster",
   "archived": "https://web.archive.org/web/20190915014450/http://spidermedia.ru:80/news/pervyy-mstitel-drugaya-voyna-novye-promo-poster",
+  "tags": [
+    "marvel",
+    "captain-america",
+    "winter-soldier"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/news/zakon-na-kolesah/",
   "original_url": "http://spidermedia.ru/news/zakon-na-kolesah",
   "archived": "https://web.archive.org/web/20260313104228/http://spidermedia.ru/news/zakon-na-kolesah",
+  "tags": [
+    "judge-dredd",
+    "2000-ad"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

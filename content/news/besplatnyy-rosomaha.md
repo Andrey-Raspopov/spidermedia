@@ -4,6 +4,13 @@
   "url": "/news/besplatnyy-rosomaha/",
   "original_url": "http://spidermedia.ru/news/besplatnyy-rosomaha",
   "archived": "https://web.archive.org/web/20120609181032/http://spidermedia.ru/news/besplatnyy-rosomaha",
+  "tags": [
+    "fcbd",
+    "wolverine",
+    "komiksy",
+    "marvel",
+    "rosomaha"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

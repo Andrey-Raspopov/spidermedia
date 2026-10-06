@@ -4,6 +4,9 @@
   "url": "/comics/day-of-new-comic-books-july-26/",
   "original_url": "http://spidermedia.ru/comics/day-of-new-comic-books-july-26",
   "archived": "https://web.archive.org/web/20171125235546/http://spidermedia.ru:80/comics/day-of-new-comic-books-july-26",
+  "tags": [
+    "den-novyh-komiksov"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

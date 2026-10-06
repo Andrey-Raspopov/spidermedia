@@ -4,6 +4,12 @@
   "url": "/news/yaponskie-kanikuly-0/",
   "original_url": "http://spidermedia.ru/news/yaponskie-kanikuly-0",
   "archived": "https://web.archive.org/web/20250717190932/http://spidermedia.ru/news/yaponskie-kanikuly-0",
+  "tags": [
+    "dzheyson-aaron",
+    "adam-kubert",
+    "wolverine",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

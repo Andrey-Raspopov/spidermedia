@@ -4,6 +4,21 @@
   "url": "/news/nycc-koe-chto-eshchyo/",
   "original_url": "http://spidermedia.ru/news/nycc-koe-chto-eshchyo",
   "archived": "https://web.archive.org/web/20260215081003/http://spidermedia.ru/news/nycc-koe-chto-eshchyo",
+  "tags": [
+    "wonder-woman",
+    "charlz-soul",
+    "tim-sili",
+    "rej-fouks",
+    "wolverine",
+    "nik-bredshou",
+    "mark-andrejko",
+    "marvel",
+    "kallen-bann",
+    "deadpool",
+    "gejl-simon",
+    "vertigo",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

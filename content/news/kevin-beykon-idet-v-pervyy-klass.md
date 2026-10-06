@@ -4,6 +4,11 @@
   "url": "/news/kevin-beykon-idet-v-pervyy-klass/",
   "original_url": "http://spidermedia.ru/news/kevin-beykon-idet-v-pervyy-klass",
   "archived": "https://web.archive.org/web/20260125062713/http://spidermedia.ru/news/kevin-beykon-idet-v-pervyy-klass",
+  "tags": [
+    "lyudi-iks-pervyj-klass",
+    "x-men-first-class",
+    "x-men"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

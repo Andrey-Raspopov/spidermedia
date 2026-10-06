@@ -4,6 +4,13 @@
   "url": "/blog/sterpazook/doghouse-britanskie-zombi-vozvrashchayutsya/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/doghouse-britanskie-zombi-vozvrashchayutsya",
   "archived": "https://web.archive.org/web/20140822170326/http://spidermedia.ru:80/blog/sterpazook/doghouse-britanskie-zombi-vozvrashchayutsya",
+  "tags": [
+    "doghouse",
+    "horror",
+    "zombies",
+    "zombi",
+    "movie"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

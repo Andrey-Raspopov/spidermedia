@@ -4,6 +4,15 @@
   "url": "/news/iz-nasekomyh-v-giganty/",
   "original_url": "http://spidermedia.ru/news/iz-nasekomyh-v-giganty",
   "archived": "https://web.archive.org/web/20251107001425/http://spidermedia.ru/news/iz-nasekomyh-v-giganty",
+  "tags": [
+    "ed-makginnes",
+    "majk-makkon",
+    "gigant",
+    "art-0",
+    "marvel",
+    "giant-man",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

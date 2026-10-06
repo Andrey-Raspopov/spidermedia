@@ -4,6 +4,9 @@
   "url": "/news/semki-fonarya-nachalis/",
   "original_url": "http://spidermedia.ru/news/semki-fonarya-nachalis",
   "archived": "https://web.archive.org/web/20250807214743/http://spidermedia.ru/news/semki-fonarya-nachalis",
+  "tags": [
+    "green-lantern"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

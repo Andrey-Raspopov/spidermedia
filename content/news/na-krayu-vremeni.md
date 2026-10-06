@@ -4,6 +4,12 @@
   "url": "/news/na-krayu-vremeni/",
   "original_url": "http://spidermedia.ru/news/na-krayu-vremeni",
   "archived": "https://web.archive.org/web/20260314083613/http://spidermedia.ru/news/na-krayu-vremeni",
+  "tags": [
+    "piter-devid",
+    "igry",
+    "spider-man",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

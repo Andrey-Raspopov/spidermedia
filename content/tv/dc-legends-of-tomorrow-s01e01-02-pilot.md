@@ -4,6 +4,9 @@
   "url": "/tv/dc-legends-of-tomorrow-s01e01-02-pilot/",
   "original_url": "http://spidermedia.ru/tv/dc-legends-of-tomorrow-s01e01-02-pilot",
   "archived": "https://web.archive.org/web/20250909134235/http://spidermedia.ru/tv/dc-legends-of-tomorrow-s01e01-02-pilot",
+  "tags": [
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

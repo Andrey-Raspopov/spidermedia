@@ -4,6 +4,11 @@
   "url": "/comics/eccc-2016-dc-imprint-dzherarda-ueya-vozrodit-doom-patrol-i-shade/",
   "original_url": "https://spidermedia.ru/comics/eccc-2016-dc-imprint-dzherarda-ueya-vozrodit-doom-patrol-i-shade",
   "archived": "https://web.archive.org/web/20260117215708/https://spidermedia.ru/comics/eccc-2016-dc-imprint-dzherarda-ueya-vozrodit-doom-patrol-i-shade",
+  "tags": [
+    "dc-comics",
+    "dzherard-vej",
+    "emerald-city-comicon"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

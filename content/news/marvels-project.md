@@ -4,6 +4,15 @@
   "url": "/news/marvels-project/",
   "original_url": "https://spidermedia.ru/news/marvels-project",
   "archived": "https://web.archive.org/web/20260121015102/https://spidermedia.ru/news/marvels-project",
+  "tags": [
+    "ed-brubaker",
+    "chelovek-fakel",
+    "stiv-epting",
+    "nemor",
+    "namor",
+    "marvel",
+    "human-torch"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

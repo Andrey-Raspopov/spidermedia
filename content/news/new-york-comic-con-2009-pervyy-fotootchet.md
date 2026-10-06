@@ -4,6 +4,10 @@
   "url": "/news/new-york-comic-con-2009-pervyy-fotootchet/",
   "original_url": "https://spidermedia.ru/news/new-york-comic-con-2009-pervyy-fotootchet",
   "archived": "https://web.archive.org/web/20240624131614/https://spidermedia.ru/news/new-york-comic-con-2009-pervyy-fotootchet",
+  "tags": [
+    "marvel",
+    "nycc-2009"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

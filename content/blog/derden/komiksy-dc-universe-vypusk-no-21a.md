@@ -4,6 +4,12 @@
   "url": "/blog/derden/komiksy-dc-universe-vypusk-no-21a/",
   "original_url": "http://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-21a",
   "archived": "https://web.archive.org/web/20260211190010/http://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-21a",
+  "tags": [
+    "pete-woods",
+    "dc-comics",
+    "batman",
+    "dc-universe-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

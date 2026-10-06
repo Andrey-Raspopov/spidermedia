@@ -4,6 +4,9 @@
   "url": "/movies/tom-hardy-produce-star-dc-vertigo-100-bullets-movie/",
   "original_url": "http://spidermedia.ru/movies/tom-hardy-produce-star-dc-vertigo-100-bullets-movie",
   "archived": "https://web.archive.org/web/20260314081436/http://spidermedia.ru/movies/tom-hardy-produce-star-dc-vertigo-100-bullets-movie",
+  "tags": [
+    "vertigo"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

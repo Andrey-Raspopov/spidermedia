@@ -4,6 +4,18 @@
   "url": "/news/thunderbolts-thunderbolts/",
   "original_url": "http://spidermedia.ru/news/thunderbolts-thunderbolts",
   "archived": "https://web.archive.org/web/20251116062200/http://spidermedia.ru/news/thunderbolts-thunderbolts",
+  "tags": [
+    "elektra",
+    "steve-dillon",
+    "krasnyj-halk",
+    "punisher",
+    "deniel-vej",
+    "deadpool",
+    "venom",
+    "thunderbolts",
+    "red-hulk",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

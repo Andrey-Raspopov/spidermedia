@@ -4,6 +4,14 @@
   "url": "/news/norman-ozborn-igraet-v-psihologa/",
   "original_url": "http://spidermedia.ru/news/norman-ozborn-igraet-v-psihologa",
   "archived": "https://web.archive.org/web/20120607120251/http://spidermedia.ru/news/norman-ozborn-igraet-v-psihologa",
+  "tags": [
+    "dark-avengers",
+    "brayan-maykl-bendis",
+    "komiksy",
+    "mayk-deodato",
+    "marvel",
+    "tyomnye-mstiteli"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

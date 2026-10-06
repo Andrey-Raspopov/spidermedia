@@ -4,6 +4,15 @@
   "url": "/news/kevinsmithed/",
   "original_url": "http://spidermedia.ru/news/kevinsmithed",
   "archived": "https://web.archive.org/web/20120607092454/http://spidermedia.ru/news/kevinsmithed",
+  "tags": [
+    "batman",
+    "bill-sienkiewicz",
+    "dc-comics",
+    "kevin-smith",
+    "bill-sinkevich",
+    "kevin-smit",
+    "komiksy"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

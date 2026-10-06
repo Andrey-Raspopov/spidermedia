@@ -4,6 +4,9 @@
   "url": "/news/svetleyshie-promo/",
   "original_url": "http://spidermedia.ru/news/svetleyshie-promo",
   "archived": "https://web.archive.org/web/20250618120210/http://spidermedia.ru/news/svetleyshie-promo",
+  "tags": [
+    "svetlejshij-den"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,13 @@
   "url": "/news/anonsy-marvel-andzhela-moguchie-mstiteli-chelovek-pauk/",
   "original_url": "https://spidermedia.ru/news/anonsy-marvel-andzhela-moguchie-mstiteli-chelovek-pauk",
   "archived": "https://web.archive.org/web/20260215082016/https://spidermedia.ru/news/anonsy-marvel-andzhela-moguchie-mstiteli-chelovek-pauk",
+  "tags": [
+    "spider-man",
+    "avengers",
+    "marvel",
+    "captain-america",
+    "angela"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

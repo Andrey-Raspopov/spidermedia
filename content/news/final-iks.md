@@ -4,6 +4,13 @@
   "url": "/news/final-iks/",
   "original_url": "http://spidermedia.ru/news/final-iks",
   "archived": "https://web.archive.org/web/20251207005847/http://spidermedia.ru/news/final-iks",
+  "tags": [
+    "x-men",
+    "marvel",
+    "ultimate",
+    "preview",
+    "mark-bruks"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

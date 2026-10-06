@@ -4,6 +4,10 @@
   "url": "/news/scenaristy-pily-adaptiruyut-stuff-legend/",
   "original_url": "http://spidermedia.ru/news/scenaristy-pily-adaptiruyut-stuff-legend",
   "archived": "https://web.archive.org/web/20200128044843/http://spidermedia.ru:80/news/scenaristy-pily-adaptiruyut-stuff-legend",
+  "tags": [
+    "th3rd-world",
+    "stuff-of-legend"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

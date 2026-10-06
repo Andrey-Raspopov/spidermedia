@@ -4,6 +4,17 @@
   "url": "/news/made-russia/",
   "original_url": "http://spidermedia.ru/news/made-russia",
   "archived": "https://web.archive.org/web/20120607133313/http://spidermedia.ru/news/made-russia",
+  "tags": [
+    "winter-guard",
+    "art-0",
+    "devid-gallaher",
+    "zimnyaya-strazha",
+    "kleyton-genri",
+    "komiksy",
+    "marvel",
+    "oblozhki",
+    "stiv-ellis"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

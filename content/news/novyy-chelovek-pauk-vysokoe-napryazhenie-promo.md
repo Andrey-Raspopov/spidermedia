@@ -4,6 +4,13 @@
   "url": "/news/novyy-chelovek-pauk-vysokoe-napryazhenie-promo/",
   "original_url": "http://spidermedia.ru/news/novyy-chelovek-pauk-vysokoe-napryazhenie-promo",
   "archived": "https://web.archive.org/web/20251216172809/http://spidermedia.ru/news/novyy-chelovek-pauk-vysokoe-napryazhenie-promo",
+  "tags": [
+    "endryu-garfild",
+    "emma-stoun",
+    "spider-man",
+    "mark-uebb",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

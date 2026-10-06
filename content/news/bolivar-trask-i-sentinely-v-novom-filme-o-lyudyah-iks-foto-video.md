@@ -4,6 +4,10 @@
   "url": "/news/bolivar-trask-i-sentinely-v-novom-filme-o-lyudyah-iks-foto-video/",
   "original_url": "http://spidermedia.ru/news/bolivar-trask-i-sentinely-v-novom-filme-o-lyudyah-iks-foto-video",
   "archived": "https://web.archive.org/web/20260309185634/http://spidermedia.ru/news/bolivar-trask-i-sentinely-v-novom-filme-o-lyudyah-iks-foto-video",
+  "tags": [
+    "x-men",
+    "days-of-future-past"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/news/dve-novye-serii-ot-izdatelstva-bubble-postupyat-v-prodazhu-etoy-osenyu/",
   "original_url": "http://spidermedia.ru/news/dve-novye-serii-ot-izdatelstva-bubble-postupyat-v-prodazhu-etoy-osenyu",
   "archived": "https://web.archive.org/web/20260312014459/http://spidermedia.ru/news/dve-novye-serii-ot-izdatelstva-bubble-postupyat-v-prodazhu-etoy-osenyu",
+  "tags": [
+    "russian-comics",
+    "babbl"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

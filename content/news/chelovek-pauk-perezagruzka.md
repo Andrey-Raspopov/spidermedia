@@ -4,6 +4,10 @@
   "url": "/news/chelovek-pauk-perezagruzka/",
   "original_url": "http://spidermedia.ru/news/chelovek-pauk-perezagruzka",
   "archived": "https://web.archive.org/web/20180524025421/http://spidermedia.ru:80/news/chelovek-pauk-perezagruzka",
+  "tags": [
+    "marvel",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

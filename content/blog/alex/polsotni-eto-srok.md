@@ -4,6 +4,13 @@
   "url": "/blog/alex/polsotni-eto-srok/",
   "original_url": "http://spidermedia.ru/blog/alex/polsotni-eto-srok",
   "archived": "https://web.archive.org/web/20260314080118/http://spidermedia.ru/blog/alex/polsotni-eto-srok",
+  "tags": [
+    "dc-comics",
+    "green-lantern",
+    "geoff-johns",
+    "hal-jordan",
+    "istoriya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

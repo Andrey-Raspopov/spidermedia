@@ -4,6 +4,15 @@
   "url": "/news/chelovek-nevidimka-v-goteme/",
   "original_url": "http://spidermedia.ru/news/chelovek-nevidimka-v-goteme",
   "archived": "https://web.archive.org/web/20200221074952/http://spidermedia.ru:80/news/chelovek-nevidimka-v-goteme",
+  "tags": [
+    "chelovek-nevidimka",
+    "kelli-dzhons",
+    "dag-mench",
+    "art-0",
+    "invisible-man",
+    "dc-comics",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

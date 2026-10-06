@@ -4,6 +4,20 @@
   "url": "/news/uan-shoty-osady/",
   "original_url": "https://spidermedia.ru/news/uan-shoty-osady",
   "archived": "https://web.archive.org/web/20250807224110/https://spidermedia.ru/news/uan-shoty-osady",
+  "tags": [
+    "shon-makkiver",
+    "preview",
+    "osada",
+    "marko-dzhurdzhevich",
+    "loki",
+    "kristos-gejdzh",
+    "kiron-gillen",
+    "dzhonatan-hikman",
+    "brajan-rid",
+    "siege",
+    "marvel",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

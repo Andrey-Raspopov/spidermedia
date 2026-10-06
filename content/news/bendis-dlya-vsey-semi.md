@@ -4,6 +4,16 @@
   "url": "/news/bendis-dlya-vsey-semi/",
   "original_url": "http://spidermedia.ru/news/bendis-dlya-vsey-semi",
   "archived": "https://web.archive.org/web/20251115033528/http://spidermedia.ru/news/bendis-dlya-vsey-semi",
+  "tags": [
+    "brian-michael-bendis",
+    "majkl-ejvon-oeming",
+    "icon-comics",
+    "marvel",
+    "nycc-2010",
+    "new-york-comic-con",
+    "komik-kon-v-nyu-yorke",
+    "takio"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

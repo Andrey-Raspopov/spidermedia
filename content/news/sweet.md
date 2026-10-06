@@ -4,6 +4,9 @@
   "url": "/news/sweet/",
   "original_url": "http://spidermedia.ru/news/sweet",
   "archived": "https://web.archive.org/web/20190811012500/http://spidermedia.ru:80/news/sweet",
+  "tags": [
+    "scott-pilgrim"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

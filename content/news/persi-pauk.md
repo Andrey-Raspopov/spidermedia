@@ -4,6 +4,9 @@
   "url": "/news/persi-pauk/",
   "original_url": "https://spidermedia.ru/news/persi-pauk",
   "archived": "https://web.archive.org/web/20250318073352/https://spidermedia.ru/news/persi-pauk",
+  "tags": [
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

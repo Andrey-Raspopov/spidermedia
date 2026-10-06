@@ -4,6 +4,11 @@
   "url": "/news/dc-zapustit-dva-novyh-bet-ongoinga-v-oktyabre/",
   "original_url": "https://spidermedia.ru/news/dc-zapustit-dva-novyh-bet-ongoinga-v-oktyabre",
   "archived": "https://web.archive.org/web/20260120150843/https://spidermedia.ru/news/dc-zapustit-dva-novyh-bet-ongoinga-v-oktyabre",
+  "tags": [
+    "batman",
+    "dc-comics",
+    "arkham-asylum"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

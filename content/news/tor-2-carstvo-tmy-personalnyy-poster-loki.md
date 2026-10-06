@@ -4,6 +4,12 @@
   "url": "/news/tor-2-carstvo-tmy-personalnyy-poster-loki/",
   "original_url": "https://spidermedia.ru/news/tor-2-carstvo-tmy-personalnyy-poster-loki",
   "archived": "https://web.archive.org/web/20250113163726/https://spidermedia.ru/news/tor-2-carstvo-tmy-personalnyy-poster-loki",
+  "tags": [
+    "thor",
+    "postery",
+    "marvel",
+    "loki"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

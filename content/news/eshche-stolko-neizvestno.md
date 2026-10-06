@@ -4,6 +4,14 @@
   "url": "/news/eshche-stolko-neizvestno/",
   "original_url": "https://spidermedia.ru/news/eshche-stolko-neizvestno",
   "archived": "https://web.archive.org/web/20230607024232/https://spidermedia.ru/news/eshche-stolko-neizvestno",
+  "tags": [
+    "mark-waid",
+    "boom-studios",
+    "bande-dessinée",
+    "preview",
+    "nycc-2009",
+    "irredeemable"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

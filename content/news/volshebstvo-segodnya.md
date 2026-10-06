@@ -4,6 +4,11 @@
   "url": "/news/volshebstvo-segodnya/",
   "original_url": "https://spidermedia.ru/news/volshebstvo-segodnya",
   "archived": "https://web.archive.org/web/20250906075247/https://spidermedia.ru/news/volshebstvo-segodnya",
+  "tags": [
+    "pol-dini",
+    "zatanna",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

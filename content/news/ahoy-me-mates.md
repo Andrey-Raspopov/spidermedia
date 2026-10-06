@@ -4,6 +4,14 @@
   "url": "/news/ahoy-me-mates/",
   "original_url": "http://spidermedia.ru/news/ahoy-me-mates",
   "archived": "https://web.archive.org/web/20251206155458/http://spidermedia.ru/news/ahoy-me-mates",
+  "tags": [
+    "marvel",
+    "norman-osborn",
+    "norman-ozborn",
+    "bullseye",
+    "deadpool",
+    "daniel-way"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

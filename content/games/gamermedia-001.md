@@ -4,6 +4,9 @@
   "url": "/games/gamermedia-001/",
   "original_url": "https://spidermedia.ru/games/gamermedia-001",
   "archived": "https://web.archive.org/web/20251216115436/https://spidermedia.ru/games/gamermedia-001",
+  "tags": [
+    "gamermedia"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

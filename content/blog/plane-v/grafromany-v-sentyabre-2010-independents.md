@@ -4,6 +4,18 @@
   "url": "/blog/plane-v/grafromany-v-sentyabre-2010-independents/",
   "original_url": "https://spidermedia.ru/blog/plane-v/grafromany-v-sentyabre-2010-independents",
   "archived": "https://web.archive.org/web/20260121000535/https://spidermedia.ru/blog/plane-v/grafromany-v-sentyabre-2010-independents",
+  "tags": [
+    "handnh",
+    "mnenie",
+    "top-shelf-productions",
+    "oni-press",
+    "image-comics",
+    "idw-publishing",
+    "fantagraphics",
+    "drawn-and-quarterly",
+    "dark-horse",
+    "boom-studios"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

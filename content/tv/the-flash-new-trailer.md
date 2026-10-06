@@ -4,6 +4,10 @@
   "url": "/tv/the-flash-new-trailer/",
   "original_url": "https://spidermedia.ru/tv/the-flash-new-trailer",
   "archived": "https://web.archive.org/web/20251216184241/https://spidermedia.ru/tv/the-flash-new-trailer",
+  "tags": [
+    "dc-comics",
+    "the-flash"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

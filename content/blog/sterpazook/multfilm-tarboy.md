@@ -4,6 +4,10 @@
   "url": "/blog/sterpazook/multfilm-tarboy/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/multfilm-tarboy",
   "archived": "https://web.archive.org/web/20251006014826/http://spidermedia.ru/blog/sterpazook/multfilm-tarboy",
+  "tags": [
+    "animaciya",
+    "tarboy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

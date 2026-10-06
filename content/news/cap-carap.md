@@ -4,6 +4,12 @@
   "url": "/news/cap-carap/",
   "original_url": "https://spidermedia.ru/news/cap-carap",
   "archived": "https://web.archive.org/web/20250806093313/https://spidermedia.ru/news/cap-carap",
+  "tags": [
+    "black-panther",
+    "dzhonatan-mejberri",
+    "dzhanluka-gulotta",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

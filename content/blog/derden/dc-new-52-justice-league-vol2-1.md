@@ -4,6 +4,13 @@
   "url": "/blog/derden/dc-new-52-justice-league-vol2-1/",
   "original_url": "https://spidermedia.ru/blog/derden/dc-new-52-justice-league-vol2-1",
   "archived": "https://web.archive.org/web/20251206160321/https://spidermedia.ru/blog/derden/dc-new-52-justice-league-vol2-1",
+  "tags": [
+    "superman",
+    "new-52",
+    "green-lantern",
+    "dc-comics",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

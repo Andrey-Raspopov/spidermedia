@@ -4,6 +4,11 @@
   "url": "/news/rosomaha-i-vse-vse-vse/",
   "original_url": "http://spidermedia.ru/news/rosomaha-i-vse-vse-vse",
   "archived": "https://web.archive.org/web/20250806054446/http://spidermedia.ru/news/rosomaha-i-vse-vse-vse",
+  "tags": [
+    "x-men",
+    "wolverine",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

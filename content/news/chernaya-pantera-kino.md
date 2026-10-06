@@ -4,6 +4,12 @@
   "url": "/news/chernaya-pantera-kino/",
   "original_url": "https://spidermedia.ru/news/chernaya-pantera-kino",
   "archived": "https://web.archive.org/web/20250512121121/https://spidermedia.ru/news/chernaya-pantera-kino",
+  "tags": [
+    "black-panther",
+    "san-diego-comic-con-international",
+    "san-diego-comic-con-2009",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

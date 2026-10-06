@@ -4,6 +4,10 @@
   "url": "/tv/preacher-s01e03-the-possibilities/",
   "original_url": "http://spidermedia.ru/tv/preacher-s01e03-the-possibilities",
   "archived": "https://web.archive.org/web/20251107004329/http://spidermedia.ru/tv/preacher-s01e03-the-possibilities",
+  "tags": [
+    "vertigo",
+    "preacher"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

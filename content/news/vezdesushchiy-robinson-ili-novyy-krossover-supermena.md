@@ -4,6 +4,19 @@
   "url": "/news/vezdesushchiy-robinson-ili-novyy-krossover-supermena/",
   "original_url": "http://spidermedia.ru/news/vezdesushchiy-robinson-ili-novyy-krossover-supermena",
   "archived": "https://web.archive.org/web/20260313111337/http://spidermedia.ru/news/vezdesushchiy-robinson-ili-novyy-krossover-supermena",
+  "tags": [
+    "dc-comics",
+    "greg-rakka",
+    "dzhejms-robinson",
+    "novyj-kripton",
+    "new-krypton",
+    "superman",
+    "captain-atom",
+    "james-robinson",
+    "greg-rucka",
+    "mon-el",
+    "kapitan-atom"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/news/komiksolodzhi-obyavlyaet-obshchiy-sbor/",
   "original_url": "http://spidermedia.ru/news/komiksolodzhi-obyavlyaet-obshchiy-sbor",
   "archived": "https://web.archive.org/web/20260211175458/http://spidermedia.ru/news/komiksolodzhi-obyavlyaet-obshchiy-sbor",
+  "tags": [
+    "cifrovye-komiksy",
+    "komik-kon-v-nyu-yorke",
+    "new-york-comic-con",
+    "comixology"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

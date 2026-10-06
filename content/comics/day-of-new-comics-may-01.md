@@ -4,6 +4,9 @@
   "url": "/comics/day-of-new-comics-may-01/",
   "original_url": "http://spidermedia.ru/comics/day-of-new-comics-may-01",
   "archived": "https://web.archive.org/web/20200216104511/http://spidermedia.ru:80/comics/day-of-new-comics-may-01",
+  "tags": [
+    "den-novyh-komiksov"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

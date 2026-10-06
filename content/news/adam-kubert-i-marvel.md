@@ -4,6 +4,13 @@
   "url": "/news/adam-kubert-i-marvel/",
   "original_url": "http://spidermedia.ru/news/adam-kubert-i-marvel",
   "archived": "https://web.archive.org/web/20150426192732/http://spidermedia.ru/news/adam-kubert-i-marvel",
+  "tags": [
+    "marvel-comics",
+    "halk",
+    "wolverine",
+    "ultimate",
+    "adam-kubert"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

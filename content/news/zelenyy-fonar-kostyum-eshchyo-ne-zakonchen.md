@@ -4,6 +4,12 @@
   "url": "/news/zelenyy-fonar-kostyum-eshchyo-ne-zakonchen/",
   "original_url": "http://spidermedia.ru/news/zelenyy-fonar-kostyum-eshchyo-ne-zakonchen",
   "archived": "https://web.archive.org/web/20120718093509/http://spidermedia.ru/news/zelenyy-fonar-kostyum-eshchyo-ne-zakonchen",
+  "tags": [
+    "dc-comics",
+    "green-lantern",
+    "zelenyy-fonar",
+    "kino"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

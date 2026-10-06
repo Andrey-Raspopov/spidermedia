@@ -4,6 +4,11 @@
   "url": "/news/polozhitelnyy-zaryad/",
   "original_url": "http://spidermedia.ru/news/polozhitelnyy-zaryad",
   "archived": "https://web.archive.org/web/20251206033040/http://spidermedia.ru/news/polozhitelnyy-zaryad",
+  "tags": [
+    "nik-pitarra",
+    "dzhonatan-hikman",
+    "image-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

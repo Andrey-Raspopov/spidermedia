@@ -4,6 +4,13 @@
   "url": "/news/magicheskoe-vozvrashchenie/",
   "original_url": "https://spidermedia.ru/news/magicheskoe-vozvrashchenie",
   "archived": "https://web.archive.org/web/20260211184839/https://spidermedia.ru/news/magicheskoe-vozvrashchenie",
+  "tags": [
+    "pol-devidson",
+    "zeb-uells",
+    "marvel",
+    "x-men",
+    "new-mutants"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

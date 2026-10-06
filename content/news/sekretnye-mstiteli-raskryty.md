@@ -4,6 +4,19 @@
   "url": "/news/sekretnye-mstiteli-raskryty/",
   "original_url": "http://spidermedia.ru/news/sekretnye-mstiteli-raskryty",
   "archived": "https://web.archive.org/web/20260313115757/http://spidermedia.ru/news/sekretnye-mstiteli-raskryty",
+  "tags": [
+    "ed-brubaker",
+    "secret-avengers",
+    "majk-deodato",
+    "moon-knight",
+    "zver",
+    "valkiriya",
+    "art-0",
+    "war-machine",
+    "valkyrie",
+    "marvel",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

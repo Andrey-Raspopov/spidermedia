@@ -4,6 +4,17 @@
   "url": "/news/podvodnaya-agentura-s-halkom/",
   "original_url": "https://spidermedia.ru/news/podvodnaya-agentura-s-halkom",
   "archived": "https://web.archive.org/web/20260206225124/https://spidermedia.ru/news/podvodnaya-agentura-s-halkom",
+  "tags": [
+    "nemor",
+    "lejnil-frensis-yu",
+    "dzheff-parker",
+    "gabriel-hardmen",
+    "billi-tan",
+    "namor",
+    "marvel",
+    "hulk",
+    "agenty-atlasa"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

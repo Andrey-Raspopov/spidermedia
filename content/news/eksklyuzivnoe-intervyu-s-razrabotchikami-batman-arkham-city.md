@@ -4,6 +4,13 @@
   "url": "/news/eksklyuzivnoe-intervyu-s-razrabotchikami-batman-arkham-city/",
   "original_url": "https://spidermedia.ru/news/eksklyuzivnoe-intervyu-s-razrabotchikami-batman-arkham-city",
   "archived": "https://web.archive.org/web/20260211192425/https://spidermedia.ru/news/eksklyuzivnoe-intervyu-s-razrabotchikami-batman-arkham-city",
+  "tags": [
+    "batman",
+    "arkham-asylum",
+    "igry",
+    "intervyu",
+    "eksklyuziv"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

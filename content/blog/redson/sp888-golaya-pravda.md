@@ -4,6 +4,12 @@
   "url": "/blog/redson/sp888-golaya-pravda/",
   "original_url": "http://spidermedia.ru/blog/redson/sp888-golaya-pravda",
   "archived": "https://web.archive.org/web/20120607115656/http://spidermedia.ru/blog/redson/sp888-golaya-pravda",
+  "tags": [
+    "intervyu",
+    "komiksy",
+    "mark-hemill",
+    "mnenie"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

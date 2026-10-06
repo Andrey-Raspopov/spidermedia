@@ -4,6 +4,10 @@
   "url": "/blog/vch/chego-hotyat-naryazhennye-zhenshchiny/",
   "original_url": "http://spidermedia.ru/blog/vch/chego-hotyat-naryazhennye-zhenshchiny",
   "archived": "https://web.archive.org/web/20241011021413/http://spidermedia.ru/blog/vch/chego-hotyat-naryazhennye-zhenshchiny",
+  "tags": [
+    "shovinizm",
+    "kosplej"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

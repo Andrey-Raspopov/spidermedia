@@ -4,6 +4,10 @@
   "url": "/movies/suicide-squad-reveal/",
   "original_url": "https://spidermedia.ru/movies/suicide-squad-reveal",
   "archived": "https://web.archive.org/web/20251206024720/https://spidermedia.ru/movies/suicide-squad-reveal",
+  "tags": [
+    "dc-comics",
+    "suicide-squad"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

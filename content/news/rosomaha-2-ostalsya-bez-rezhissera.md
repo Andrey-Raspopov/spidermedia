@@ -4,6 +4,10 @@
   "url": "/news/rosomaha-2-ostalsya-bez-rezhissera/",
   "original_url": "http://spidermedia.ru/news/rosomaha-2-ostalsya-bez-rezhissera",
   "archived": "https://web.archive.org/web/20250709064928/http://spidermedia.ru/news/rosomaha-2-ostalsya-bez-rezhissera",
+  "tags": [
+    "darren-aronofski",
+    "wolverine"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

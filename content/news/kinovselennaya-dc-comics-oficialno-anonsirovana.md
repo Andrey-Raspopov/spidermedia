@@ -4,6 +4,9 @@
   "url": "/news/kinovselennaya-dc-comics-oficialno-anonsirovana/",
   "original_url": "https://spidermedia.ru/news/kinovselennaya-dc-comics-oficialno-anonsirovana",
   "archived": "https://web.archive.org/web/20251211033023/https://spidermedia.ru/news/kinovselennaya-dc-comics-oficialno-anonsirovana",
+  "tags": [
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

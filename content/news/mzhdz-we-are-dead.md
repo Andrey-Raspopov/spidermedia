@@ -4,15 +4,19 @@
   "url": "/news/mzhdz-we-are-dead/",
   "original_url": "https://spidermedia.ru/news/mzhdz-we-are-dead",
   "archived": "https://web.archive.org/web/20230205163419/https://spidermedia.ru/news/mzhdz-we-are-dead",
+  "tags": [
+    "mnenie",
+    "mzhdz"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](https://web.archive.org/web/20230205163419im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz.png)](https://web.archive.org/web/20260206215846/http://spidermedia.ru/tags/mzhdz)
+[![](https://web.archive.org/web/20230205163419im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz.png)](../../tags/mzhdz/)
 ![](https://web.archive.org/web/20230205163419im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/atronaut.jpg)
 **Еженедельные обзоры новых комиксов!**
 **В этом выпуске:** только самые важные моменты прошедшей комиксной недели. Я впервые решил написать про Casanova: получилось невнятно, зато честно. plane_v спасает колонку, объясняя, почему надо читать Saga Брайана К. Воэна, и где наконец-то найти качественный хоррор в современных комиксах (слышали про Ричарда Корбена?). К нам с большим выпендрежем присоединяется Sir Carnage - человек, по которому я всерьез соскучился.
-**Внимание!** Если вам нравится МЖДЗ, то прямо тут же по соседству есть два ничуть не менее (а где-то и более) интересных проекта одного из его главных идеологов, plane_v - абсолютно безумный [**Hellblazing**](https://web.archive.org/web/20260312022533/http://spidermedia.ru/tags/hellblazing) и невероятно актуальный [**Number Ones**](../../blog/plane-v/number-ones-komiksy-pro-specnaz/). Очень рекомендую обратить на них ваше внимание.
+**Внимание!** Если вам нравится МЖДЗ, то прямо тут же по соседству есть два ничуть не менее (а где-то и более) интересных проекта одного из его главных идеологов, plane_v - абсолютно безумный [**Hellblazing**](../../tags/hellblazing/) и невероятно актуальный [**Number Ones**](../../blog/plane-v/number-ones-komiksy-pro-specnaz/). Очень рекомендую обратить на них ваше внимание.
 [**Расшифровка системы оценок**](../../blog/redson/mzhdz-odin-vy-kak-hotite-ya-kak-hochu/)
 [**Архив рецензий**](../../blog/redson/mzhdz-arhiv/)
 

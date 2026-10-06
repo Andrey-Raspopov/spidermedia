@@ -4,6 +4,12 @@
   "url": "/news/digl-gryadet/",
   "original_url": "https://spidermedia.ru/news/digl-gryadet",
   "archived": "https://web.archive.org/web/20251207002503/https://spidermedia.ru/news/digl-gryadet",
+  "tags": [
+    "marvel",
+    "endi-diggl",
+    "daredevil",
+    "dardevil"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

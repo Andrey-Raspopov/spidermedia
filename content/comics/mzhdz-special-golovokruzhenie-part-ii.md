@@ -4,6 +4,10 @@
   "url": "/comics/mzhdz-special-golovokruzhenie-part-ii/",
   "original_url": "http://spidermedia.ru/comics/mzhdz-special-golovokruzhenie-part-ii",
   "archived": "https://web.archive.org/web/20251216184333/http://spidermedia.ru/comics/mzhdz-special-golovokruzhenie-part-ii",
+  "tags": [
+    "vertigo",
+    "mzhdz"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

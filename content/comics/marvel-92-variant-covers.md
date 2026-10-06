@@ -4,6 +4,9 @@
   "url": "/comics/marvel-92-variant-covers/",
   "original_url": "https://spidermedia.ru/comics/marvel-92-variant-covers",
   "archived": "https://web.archive.org/web/20251110225212/https://spidermedia.ru/comics/marvel-92-variant-covers",
+  "tags": [
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,16 @@
   "url": "/news/smertelnoe-proishozhdenie/",
   "original_url": "http://spidermedia.ru/news/smertelnoe-proishozhdenie",
   "archived": "https://web.archive.org/web/20120607142402/http://spidermedia.ru/news/smertelnoe-proishozhdenie",
+  "tags": [
+    "black-widow",
+    "art-0",
+    "komiksy",
+    "marvel",
+    "oblozhki",
+    "pol-kornell",
+    "tom-reyni",
+    "chyornaya-vdova"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

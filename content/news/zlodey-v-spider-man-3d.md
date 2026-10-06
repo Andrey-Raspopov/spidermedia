@@ -4,6 +4,10 @@
   "url": "/news/zlodey-v-spider-man-3d/",
   "original_url": "http://spidermedia.ru/news/zlodey-v-spider-man-3d",
   "archived": "https://web.archive.org/web/20240720153542/http://spidermedia.ru/news/zlodey-v-spider-man-3d",
+  "tags": [
+    "ris-ivens",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/comics/hellboymedia-27-hellboy-and-the-bprd-1953-beyond-the-fences/",
   "original_url": "https://spidermedia.ru/comics/hellboymedia-27-hellboy-and-the-bprd-1953-beyond-the-fences",
   "archived": "https://web.archive.org/web/20260116224015/https://spidermedia.ru/comics/hellboymedia-27-hellboy-and-the-bprd-1953-beyond-the-fences",
+  "tags": [
+    "hellboymedia",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

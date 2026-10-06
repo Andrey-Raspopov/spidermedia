@@ -4,6 +4,13 @@
   "url": "/news/keysi-i-ego-mstiteli/",
   "original_url": "http://spidermedia.ru/news/keysi-i-ego-mstiteli",
   "archived": "https://web.archive.org/web/20251107001237/http://spidermedia.ru/news/keysi-i-ego-mstiteli",
+  "tags": [
+    "fil-noto",
+    "preview",
+    "dzho-kejsi",
+    "marvel",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

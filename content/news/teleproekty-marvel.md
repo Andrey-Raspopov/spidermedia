@@ -4,6 +4,10 @@
   "url": "/news/teleproekty-marvel/",
   "original_url": "https://spidermedia.ru/news/teleproekty-marvel",
   "archived": "https://web.archive.org/web/20250208085810/https://spidermedia.ru/news/teleproekty-marvel",
+  "tags": [
+    "serialy",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

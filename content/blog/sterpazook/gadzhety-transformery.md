@@ -4,6 +4,11 @@
   "url": "/blog/sterpazook/gadzhety-transformery/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/gadzhety-transformery",
   "archived": "https://web.archive.org/web/20190718072228/http://spidermedia.ru/blog/sterpazook/gadzhety-transformery",
+  "tags": [
+    "figurki",
+    "gadzhety",
+    "transformers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

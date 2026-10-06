@@ -4,6 +4,11 @@
   "url": "/news/tizer-art-multfilma-big-hero-6/",
   "original_url": "http://spidermedia.ru/news/tizer-art-multfilma-big-hero-6",
   "archived": "https://web.archive.org/web/20260120153255/http://spidermedia.ru/news/tizer-art-multfilma-big-hero-6",
+  "tags": [
+    "marvel",
+    "animaciya",
+    "big-hero-6"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

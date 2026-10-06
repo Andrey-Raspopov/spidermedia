@@ -4,6 +4,13 @@
   "url": "/news/leto-volshebstva-leto-idk/",
   "original_url": "https://spidermedia.ru/news/leto-volshebstva-leto-idk",
   "archived": "https://web.archive.org/web/20260123070559/https://spidermedia.ru/news/leto-volshebstva-leto-idk",
+  "tags": [
+    "lyudi-budushhego",
+    "captain-america",
+    "izdatelstvo-komiks",
+    "doctor-strange",
+    "altimejts"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

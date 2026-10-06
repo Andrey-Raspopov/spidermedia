@@ -4,6 +4,15 @@
   "url": "/blog/sterpazook/supergeroi-na-bigbordah-minsk/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/supergeroi-na-bigbordah-minsk",
   "archived": "https://web.archive.org/web/20120607120005/http://spidermedia.ru/blog/sterpazook/supergeroi-na-bigbordah-minsk",
+  "tags": [
+    "nightcrawler",
+    "belarus",
+    "bigbordy",
+    "naytkrouler",
+    "reklama",
+    "supergeroi",
+    "foto"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

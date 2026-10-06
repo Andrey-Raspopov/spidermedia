@@ -4,6 +4,14 @@
   "url": "/news/ultimate-comics-avengers/",
   "original_url": "http://spidermedia.ru/news/ultimate-comics-avengers",
   "archived": "https://web.archive.org/web/20120608203859/http://spidermedia.ru/news/ultimate-comics-avengers",
+  "tags": [
+    "ultimate",
+    "karlos-pacheko",
+    "komiksy",
+    "marvel",
+    "mark-millar",
+    "mstiteli"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

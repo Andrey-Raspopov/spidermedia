@@ -4,13 +4,18 @@
   "url": "/news/sinopsis-i-tv-rolik-novogo-seriala-marvel-agent-karter/",
   "original_url": "https://spidermedia.ru/news/sinopsis-i-tv-rolik-novogo-seriala-marvel-agent-karter",
   "archived": "https://web.archive.org/web/20260206221526/https://spidermedia.ru/news/sinopsis-i-tv-rolik-novogo-seriala-marvel-agent-karter",
+  "tags": [
+    "serialy",
+    "marvel",
+    "agent-karter"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
 ТВ: [Агент Картер](https://web.archive.org/web/20250518125525/http://spidermedia.ru/tv-index/marvel-comics/agent-carter-tv-series-2015)
 
-В следующем году на телеканале ABC состоится премьера второго по счету сериала Марвел **["Агент Картер"](https://web.archive.org/web/20250620074150/http://spidermedia.ru/tags/agent-karter)** *(Marvel's Agent Carter)*. ТВ-шоу расскажет о том, как сложилась судьба возлюбленной Капитана Америка, после событий фильма **"Первый мститель"** *(Captain America: The First Avengers)*.
+В следующем году на телеканале ABC состоится премьера второго по счету сериала Марвел **["Агент Картер"](../../tags/agent-karter/)** *(Marvel's Agent Carter)*. ТВ-шоу расскажет о том, как сложилась судьба возлюбленной Капитана Америка, после событий фильма **"Первый мститель"** *(Captain America: The First Avengers)*.
 
 [![](https://web.archive.org/web/20260206221526im_/http://i.imgur.com/HxlU4Gyl.jpg)](http://i.imgur.com/HxlU4Gy.jpg)
 

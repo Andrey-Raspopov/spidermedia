@@ -4,6 +4,10 @@
   "url": "/comics/paukomiksy-spider-gwen/",
   "original_url": "http://spidermedia.ru/comics/paukomiksy-spider-gwen",
   "archived": "https://web.archive.org/web/20251111072514/http://spidermedia.ru/comics/paukomiksy-spider-gwen",
+  "tags": [
+    "marvel",
+    "spider-week"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

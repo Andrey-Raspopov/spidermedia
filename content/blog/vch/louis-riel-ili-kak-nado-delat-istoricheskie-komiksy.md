@@ -4,6 +4,9 @@
   "url": "/blog/vch/louis-riel-ili-kak-nado-delat-istoricheskie-komiksy/",
   "original_url": "http://spidermedia.ru/blog/vch/louis-riel-ili-kak-nado-delat-istoricheskie-komiksy",
   "archived": "https://web.archive.org/web/20130619021605/http://spidermedia.ru/blog/vch/louis-riel-ili-kak-nado-delat-istoricheskie-komiksy",
+  "tags": [
+    "komiksy"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

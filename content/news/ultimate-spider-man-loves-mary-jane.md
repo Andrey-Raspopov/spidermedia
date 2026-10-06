@@ -4,6 +4,14 @@
   "url": "/news/ultimate-spider-man-loves-mary-jane/",
   "original_url": "http://spidermedia.ru/news/ultimate-spider-man-loves-mary-jane",
   "archived": "https://web.archive.org/web/20260215080540/http://spidermedia.ru/news/ultimate-spider-man-loves-mary-jane",
+  "tags": [
+    "takeshi-miyadzava",
+    "devid-lafuente",
+    "brian-michael-bendis",
+    "art-0",
+    "ultimate",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

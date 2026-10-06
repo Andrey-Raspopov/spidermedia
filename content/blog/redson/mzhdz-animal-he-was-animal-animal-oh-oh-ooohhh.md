@@ -4,11 +4,15 @@
   "url": "/blog/redson/mzhdz-animal-he-was-animal-animal-oh-oh-ooohhh/",
   "original_url": "http://spidermedia.ru/blog/redson/mzhdz-animal-he-was-animal-animal-oh-oh-ooohhh",
   "archived": "https://web.archive.org/web/20251117010924/http://spidermedia.ru/blog/redson/mzhdz-animal-he-was-animal-animal-oh-oh-ooohhh",
+  "tags": [
+    "mnenie",
+    "mzhdz"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](https://web.archive.org/web/20251117010924im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz400.png)](https://web.archive.org/web/20260206215846/http://spidermedia.ru/tags/mzhdz)
+[![](https://web.archive.org/web/20251117010924im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz400.png)](../../../tags/mzhdz/)
 ![](https://web.archive.org/web/20251117010924im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/i-can-see-you-animal-man.jpg)
 **Еженедельные обзоры новых комиксов!**
 **В этом выпуске:** Игрок совершает подвиг во имя Луны и обозревает все первые выпуски DC прошедшей недели (кроме тех, про которые уже были посты). Мы ему кое-где помогаем, но и долгожданный новый том Casanova тоже не остался в стороне. Что стало с главным комиксом Мэтта Фракшена?

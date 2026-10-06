@@ -4,6 +4,9 @@
   "url": "/comics/zenescope-gotovit-komiks-o-zlyh-supergeroyah/",
   "original_url": "http://spidermedia.ru/comics/zenescope-gotovit-komiks-o-zlyh-supergeroyah",
   "archived": "https://web.archive.org/web/20200508163526/http://spidermedia.ru:80/comics/zenescope-gotovit-komiks-o-zlyh-supergeroyah",
+  "tags": [
+    "zenescope-entertainment"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

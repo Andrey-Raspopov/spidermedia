@@ -4,6 +4,14 @@
   "url": "/news/temnye-chudesa/",
   "original_url": "http://spidermedia.ru/news/temnye-chudesa",
   "archived": "https://web.archive.org/web/20250524071258/http://spidermedia.ru/news/temnye-chudesa",
+  "tags": [
+    "frenk-miller",
+    "robin",
+    "jim-lee",
+    "art-0",
+    "dc-comics",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

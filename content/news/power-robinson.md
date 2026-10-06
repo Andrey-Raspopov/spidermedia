@@ -4,6 +4,13 @@
   "url": "/news/power-robinson/",
   "original_url": "https://spidermedia.ru/news/power-robinson",
   "archived": "https://web.archive.org/web/20260214135941/https://spidermedia.ru/news/power-robinson",
+  "tags": [
+    "hi-men",
+    "filip-tan",
+    "dzhejms-robinson",
+    "he-man",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

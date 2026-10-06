@@ -4,6 +4,11 @@
   "url": "/comics/roskomnadzor-breaking-news/",
   "original_url": "http://spidermedia.ru/comics/roskomnadzor-breaking-news",
   "archived": "https://web.archive.org/web/20251207003704/http://spidermedia.ru/comics/roskomnadzor-breaking-news",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "roskomnadzor",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

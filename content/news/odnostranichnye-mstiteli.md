@@ -4,6 +4,12 @@
   "url": "/news/odnostranichnye-mstiteli/",
   "original_url": "https://spidermedia.ru/news/odnostranichnye-mstiteli",
   "archived": "https://web.archive.org/web/20260123073918/https://spidermedia.ru/news/odnostranichnye-mstiteli",
+  "tags": [
+    "marvel",
+    "art-0",
+    "new-avengers",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

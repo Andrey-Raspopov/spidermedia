@@ -4,6 +4,10 @@
   "url": "/blog/ohotnig/nedelya-kazanovy-kvinna/",
   "original_url": "https://spidermedia.ru/blog/ohotnig/nedelya-kazanovy-kvinna",
   "archived": "https://web.archive.org/web/20260215085706/https://spidermedia.ru/blog/ohotnig/nedelya-kazanovy-kvinna",
+  "tags": [
+    "fanart",
+    "matt-fraction"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

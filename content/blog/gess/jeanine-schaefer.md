@@ -4,6 +4,10 @@
   "url": "/blog/gess/jeanine-schaefer/",
   "original_url": "http://spidermedia.ru/blog/gess/jeanine-schaefer",
   "archived": "https://web.archive.org/web/20120607055211/http://spidermedia.ru/blog/gess/jeanine-schaefer",
+  "tags": [
+    "muzyka",
+    "redaktory"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

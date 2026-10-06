@@ -4,6 +4,11 @@
   "url": "/news/hrononavty-vesyolaya-fantastika-ot-marka-millara-i-shona-gordona-merfi/",
   "original_url": "http://spidermedia.ru/news/hrononavty-vesyolaya-fantastika-ot-marka-millara-i-shona-gordona-merfi",
   "archived": "https://web.archive.org/web/20260307063817/http://spidermedia.ru/news/hrononavty-vesyolaya-fantastika-ot-marka-millara-i-shona-gordona-merfi",
+  "tags": [
+    "shon-gordon-merfi",
+    "mark-millar",
+    "image-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

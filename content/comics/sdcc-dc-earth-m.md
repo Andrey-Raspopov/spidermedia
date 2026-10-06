@@ -4,6 +4,10 @@
   "url": "/comics/sdcc-dc-earth-m/",
   "original_url": "https://spidermedia.ru/comics/sdcc-dc-earth-m",
   "archived": "https://web.archive.org/web/20250806093243/https://spidermedia.ru/comics/sdcc-dc-earth-m",
+  "tags": [
+    "dc-comics",
+    "san-diego-comic-con-international"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

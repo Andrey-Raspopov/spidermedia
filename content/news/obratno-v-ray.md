@@ -4,6 +4,10 @@
   "url": "/news/obratno-v-ray/",
   "original_url": "http://spidermedia.ru/news/obratno-v-ray",
   "archived": "https://web.archive.org/web/20200216104306/http://spidermedia.ru:80/news/obratno-v-ray",
+  "tags": [
+    "terri-mur",
+    "strangers-in-paradise"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

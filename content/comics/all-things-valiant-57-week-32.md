@@ -4,6 +4,9 @@
   "url": "/comics/all-things-valiant-57-week-32/",
   "original_url": "https://spidermedia.ru/comics/all-things-valiant-57-week-32",
   "archived": "https://web.archive.org/web/20251106235645/https://spidermedia.ru/comics/all-things-valiant-57-week-32",
+  "tags": [
+    "valiant-entertainment"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

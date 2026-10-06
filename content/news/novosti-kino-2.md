@@ -4,6 +4,14 @@
   "url": "/news/novosti-kino-2/",
   "original_url": "http://spidermedia.ru/news/novosti-kino-2",
   "archived": "https://web.archive.org/web/20260121000346/http://spidermedia.ru/news/novosti-kino-2",
+  "tags": [
+    "lyudi-iks-pervyj-klass",
+    "x-men-first-class",
+    "transformers",
+    "zelenyj-shershen",
+    "green-hornet",
+    "fantastic-four"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

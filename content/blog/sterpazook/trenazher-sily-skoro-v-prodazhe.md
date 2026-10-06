@@ -4,6 +4,13 @@
   "url": "/blog/sterpazook/trenazher-sily-skoro-v-prodazhe/",
   "original_url": "https://spidermedia.ru/blog/sterpazook/trenazher-sily-skoro-v-prodazhe",
   "archived": "https://web.archive.org/web/20251213191741/https://spidermedia.ru/blog/sterpazook/trenazher-sily-skoro-v-prodazhe",
+  "tags": [
+    "star-wars",
+    "gadzhety",
+    "science",
+    "zvezdnye-vojny",
+    "igrushki"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

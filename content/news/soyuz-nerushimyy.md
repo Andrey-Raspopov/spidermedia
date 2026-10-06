@@ -4,6 +4,16 @@
   "url": "/news/soyuz-nerushimyy/",
   "original_url": "https://spidermedia.ru/news/soyuz-nerushimyy",
   "archived": "https://web.archive.org/web/20260214133849/https://spidermedia.ru/news/soyuz-nerushimyy",
+  "tags": [
+    "marvel",
+    "captain-america",
+    "young-allies",
+    "molodye-soyuzniki",
+    "rodzher-stern",
+    "nik-dragotta",
+    "li-viks",
+    "marko-santuchchi"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

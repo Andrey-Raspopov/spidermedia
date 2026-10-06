@@ -4,6 +4,16 @@
   "url": "/news/gregori-i-ego-bronya/",
   "original_url": "http://spidermedia.ru/news/gregori-i-ego-bronya",
   "archived": "https://web.archive.org/web/20120608215031/http://spidermedia.ru/news/gregori-i-ego-bronya",
+  "tags": [
+    "iron-man",
+    "ultimate",
+    "zheleznyy-chelovek",
+    "komiksy",
+    "marvel",
+    "oblozhki",
+    "stiv-kurt",
+    "uorren-ellis"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

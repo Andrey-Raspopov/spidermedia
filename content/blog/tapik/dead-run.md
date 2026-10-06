@@ -4,6 +4,10 @@
   "url": "/blog/tapik/dead-run/",
   "original_url": "https://spidermedia.ru/blog/tapik/dead-run",
   "archived": "https://web.archive.org/web/20240614193933/https://spidermedia.ru/blog/tapik/dead-run",
+  "tags": [
+    "boom-studios",
+    "dead-run"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

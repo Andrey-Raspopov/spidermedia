@@ -4,6 +4,9 @@
   "url": "/comics/5-komiksov-finalistov-otkrytogo-otbora-oni-press/",
   "original_url": "https://spidermedia.ru/comics/5-komiksov-finalistov-otkrytogo-otbora-oni-press",
   "archived": "https://web.archive.org/web/20260125081619/https://spidermedia.ru/comics/5-komiksov-finalistov-otkrytogo-otbora-oni-press",
+  "tags": [
+    "oni-press"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

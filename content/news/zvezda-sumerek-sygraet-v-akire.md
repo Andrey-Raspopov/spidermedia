@@ -4,6 +4,9 @@
   "url": "/news/zvezda-sumerek-sygraet-v-akire/",
   "original_url": "http://spidermedia.ru/news/zvezda-sumerek-sygraet-v-akire",
   "archived": "https://web.archive.org/web/20190911051039/http://spidermedia.ru:80/news/zvezda-sumerek-sygraet-v-akire",
+  "tags": [
+    "akira"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/news/jl-crisis-two-earths-treyler/",
   "original_url": "https://spidermedia.ru/news/jl-crisis-two-earths-treyler",
   "archived": "https://web.archive.org/web/20250913015902/https://spidermedia.ru/news/jl-crisis-two-earths-treyler",
+  "tags": [
+    "dc-comics",
+    "animaciya",
+    "justice-league"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/news/syomki-filma-tor/",
   "original_url": "http://spidermedia.ru/news/syomki-filma-tor",
   "archived": "https://web.archive.org/web/20240624131602/http://spidermedia.ru/news/syomki-filma-tor",
+  "tags": [
+    "kennet-brana",
+    "thor",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,13 @@
   "url": "/news/avengers-chelovek-muravey-osa-i-voitel/",
   "original_url": "http://spidermedia.ru/news/avengers-chelovek-muravey-osa-i-voitel",
   "archived": "https://web.archive.org/web/20220813152616/http://spidermedia.ru/news/avengers-chelovek-muravey-osa-i-voitel",
+  "tags": [
+    "ant-man",
+    "avengers",
+    "the-avengers",
+    "marvel",
+    "war-machine"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

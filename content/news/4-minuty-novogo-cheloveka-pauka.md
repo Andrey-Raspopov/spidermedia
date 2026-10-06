@@ -4,6 +4,10 @@
   "url": "/news/4-minuty-novogo-cheloveka-pauka/",
   "original_url": "https://spidermedia.ru/news/4-minuty-novogo-cheloveka-pauka",
   "archived": "https://web.archive.org/web/20250424203607/https://spidermedia.ru/news/4-minuty-novogo-cheloveka-pauka",
+  "tags": [
+    "marvel",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

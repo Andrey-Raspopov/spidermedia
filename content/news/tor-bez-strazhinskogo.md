@@ -4,6 +4,11 @@
   "url": "/news/tor-bez-strazhinskogo/",
   "original_url": "http://spidermedia.ru/news/tor-bez-strazhinskogo",
   "archived": "https://web.archive.org/web/20251206030257/http://spidermedia.ru/news/tor-bez-strazhinskogo",
+  "tags": [
+    "marvel",
+    "thor",
+    "j-michael-straczynski"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

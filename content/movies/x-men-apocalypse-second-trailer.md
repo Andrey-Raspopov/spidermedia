@@ -4,6 +4,10 @@
   "url": "/movies/x-men-apocalypse-second-trailer/",
   "original_url": "https://spidermedia.ru/movies/x-men-apocalypse-second-trailer",
   "archived": "https://web.archive.org/web/20250715013932/https://spidermedia.ru/movies/x-men-apocalypse-second-trailer",
+  "tags": [
+    "marvel",
+    "x-men"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

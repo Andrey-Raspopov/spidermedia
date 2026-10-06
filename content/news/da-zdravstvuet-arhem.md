@@ -4,6 +4,13 @@
   "url": "/news/da-zdravstvuet-arhem/",
   "original_url": "http://spidermedia.ru/news/da-zdravstvuet-arhem",
   "archived": "https://web.archive.org/web/20260214133624/http://spidermedia.ru/news/da-zdravstvuet-arhem",
+  "tags": [
+    "frejzer-irving",
+    "devid-hajn",
+    "dzheremi-houn",
+    "art-0",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/news/risuem-oblozhki-rosomaha-tribyut/",
   "original_url": "http://spidermedia.ru/news/risuem-oblozhki-rosomaha-tribyut",
   "archived": "https://web.archive.org/web/20251216123519/http://spidermedia.ru/news/risuem-oblozhki-rosomaha-tribyut",
+  "tags": [
+    "fanart",
+    "art-0",
+    "wolverine",
+    "challenge"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

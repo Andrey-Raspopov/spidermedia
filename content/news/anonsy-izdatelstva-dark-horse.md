@@ -4,6 +4,10 @@
   "url": "/news/anonsy-izdatelstva-dark-horse/",
   "original_url": "http://spidermedia.ru/news/anonsy-izdatelstva-dark-horse",
   "archived": "https://web.archive.org/web/20250617233613/http://spidermedia.ru/news/anonsy-izdatelstva-dark-horse",
+  "tags": [
+    "san-diego-comic-con-international",
+    "dark-horse"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

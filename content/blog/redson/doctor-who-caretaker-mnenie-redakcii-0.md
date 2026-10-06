@@ -4,6 +4,11 @@
   "url": "/blog/redson/doctor-who-caretaker-mnenie-redakcii-0/",
   "original_url": "https://spidermedia.ru/blog/redson/doctor-who-caretaker-mnenie-redakcii-0",
   "archived": "https://web.archive.org/web/20250519175857/https://spidermedia.ru/blog/redson/doctor-who-caretaker-mnenie-redakcii-0",
+  "tags": [
+    "doctor-who",
+    "obzor",
+    "serialy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

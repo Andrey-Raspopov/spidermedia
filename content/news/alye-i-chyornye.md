@@ -4,6 +4,22 @@
   "url": "/news/alye-i-chyornye/",
   "original_url": "http://spidermedia.ru/news/alye-i-chyornye",
   "archived": "https://web.archive.org/web/20251206162608/http://spidermedia.ru/news/alye-i-chyornye",
+  "tags": [
+    "komik-kon-v-nyu-jorke",
+    "nycc-2011",
+    "spider-man",
+    "daredevil",
+    "den-slott",
+    "kris-jost",
+    "rajan-stegman",
+    "marvel",
+    "chernaya-koshka",
+    "black-cat",
+    "alyj-pauk",
+    "scarlet-spider",
+    "rik-remender",
+    "zeb-uells"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

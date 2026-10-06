@@ -4,6 +4,11 @@
   "url": "/news/avengers-koncept-art-avianosca/",
   "original_url": "https://spidermedia.ru/news/avengers-koncept-art-avianosca",
   "archived": "https://web.archive.org/web/20250429152209/https://spidermedia.ru/news/avengers-koncept-art-avianosca",
+  "tags": [
+    "koncept-art",
+    "marvel",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/comics/obzor-roman-pobeditel-lastochek/",
   "original_url": "http://spidermedia.ru/comics/obzor-roman-pobeditel-lastochek",
   "archived": "https://web.archive.org/web/20251216123258/http://spidermedia.ru/comics/obzor-roman-pobeditel-lastochek",
+  "tags": [
+    "komilfo",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

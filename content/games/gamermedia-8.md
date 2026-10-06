@@ -4,6 +4,9 @@
   "url": "/games/gamermedia-8/",
   "original_url": "http://spidermedia.ru/games/gamermedia-8",
   "archived": "https://web.archive.org/web/20240805025123/http://spidermedia.ru/games/gamermedia-8",
+  "tags": [
+    "gamermedia"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

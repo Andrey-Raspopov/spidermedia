@@ -4,6 +4,15 @@
   "url": "/news/spider-man-ugroza-detstvu/",
   "original_url": "http://spidermedia.ru/news/spider-man-ugroza-detstvu",
   "archived": "https://web.archive.org/web/20120608031800/http://spidermedia.ru/news/spider-man-ugroza-detstvu",
+  "tags": [
+    "amazing-spider-man",
+    "spider-man",
+    "komiksy",
+    "marvel",
+    "mark-ueyd",
+    "pol-azasita",
+    "chelovek-pauk"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

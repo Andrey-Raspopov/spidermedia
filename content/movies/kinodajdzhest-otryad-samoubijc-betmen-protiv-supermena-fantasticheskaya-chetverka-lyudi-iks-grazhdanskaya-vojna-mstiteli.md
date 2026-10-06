@@ -4,6 +4,14 @@
   "url": "/movies/kinodajdzhest-otryad-samoubijc-betmen-protiv-supermena-fantasticheskaya-chetverka-lyudi-iks-grazhdanskaya-vojna-mstiteli/",
   "original_url": "https://spidermedia.ru/movies/kinodajdzhest-otryad-samoubijc-betmen-protiv-supermena-fantasticheskaya-chetverka-lyudi-iks-grazhdanskaya-vojna-mstiteli",
   "archived": "https://web.archive.org/web/20260121012737/https://spidermedia.ru/movies/kinodajdzhest-otryad-samoubijc-betmen-protiv-supermena-fantasticheskaya-chetverka-lyudi-iks-grazhdanskaya-vojna-mstiteli",
+  "tags": [
+    "batman",
+    "digest",
+    "superman",
+    "fantastic-four",
+    "joker",
+    "x-men"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

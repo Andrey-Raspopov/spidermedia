@@ -4,6 +4,10 @@
   "url": "/news/i-eshchyo-mnogo-mnogo-raz/",
   "original_url": "http://spidermedia.ru/news/i-eshchyo-mnogo-mnogo-raz",
   "archived": "https://web.archive.org/web/20250709072312/http://spidermedia.ru/news/i-eshchyo-mnogo-mnogo-raz",
+  "tags": [
+    "dzheymi-makkelvi",
+    "kiron-gillen"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

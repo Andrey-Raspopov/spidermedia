@@ -4,6 +4,11 @@
   "url": "/comics/eccc-2016-tarzan-na-planete-obezyan/",
   "original_url": "http://spidermedia.ru/comics/eccc-2016-tarzan-na-planete-obezyan",
   "archived": "https://web.archive.org/web/20251115190949/http://spidermedia.ru/comics/eccc-2016-tarzan-na-planete-obezyan",
+  "tags": [
+    "dark-horse",
+    "emerald-city-comicon",
+    "idw-publishing"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

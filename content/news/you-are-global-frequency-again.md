@@ -4,6 +4,10 @@
   "url": "/news/you-are-global-frequency-again/",
   "original_url": "http://spidermedia.ru/news/you-are-global-frequency-again",
   "archived": "https://web.archive.org/web/20230604111015/http://spidermedia.ru/news/you-are-global-frequency-again",
+  "tags": [
+    "serialy",
+    "warren-ellis"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

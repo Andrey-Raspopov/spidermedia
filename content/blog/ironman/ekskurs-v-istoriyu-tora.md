@@ -4,6 +4,11 @@
   "url": "/blog/ironman/ekskurs-v-istoriyu-tora/",
   "original_url": "https://spidermedia.ru/blog/ironman/ekskurs-v-istoriyu-tora",
   "archived": "https://web.archive.org/web/20240624125911/https://spidermedia.ru/blog/ironman/ekskurs-v-istoriyu-tora",
+  "tags": [
+    "obzor",
+    "thor",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

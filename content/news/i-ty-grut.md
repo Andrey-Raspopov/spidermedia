@@ -4,6 +4,20 @@
   "url": "/news/i-ty-grut/",
   "original_url": "http://spidermedia.ru/news/i-ty-grut",
   "archived": "https://web.archive.org/web/20260314082703/http://spidermedia.ru/news/i-ty-grut",
+  "tags": [
+    "endi-lenning",
+    "timoti-grin",
+    "tan-eng-huat",
+    "kvazar",
+    "den-ebnett",
+    "gladiator",
+    "beta-rej-bill",
+    "silver-surfer",
+    "rocket-racoon",
+    "quasar",
+    "marvel",
+    "groot"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

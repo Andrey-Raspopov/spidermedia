@@ -4,6 +4,15 @@
   "url": "/blog/happycake-oven/chto-mogut-nanotehnologii/",
   "original_url": "http://spidermedia.ru/blog/happycake-oven/chto-mogut-nanotehnologii",
   "archived": "https://web.archive.org/web/20111018123151/http://spidermedia.ru/blog/happycake-oven/chto-mogut-nanotehnologii",
+  "tags": [
+    "authority",
+    "dc-comics",
+    "wildstorm",
+    "avtoritety",
+    "komiksy",
+    "mark-millar",
+    "frenk-kuaytli"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

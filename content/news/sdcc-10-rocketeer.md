@@ -4,6 +4,12 @@
   "url": "/news/sdcc-10-rocketeer/",
   "original_url": "http://spidermedia.ru/news/sdcc-10-rocketeer",
   "archived": "https://web.archive.org/web/20260125124450/http://spidermedia.ru/news/sdcc-10-rocketeer",
+  "tags": [
+    "raketchik",
+    "san-diego-comic-con-international",
+    "rocketeer",
+    "idw-publishing"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/news/den-novyh-komiksov-14-avgusta/",
   "original_url": "https://spidermedia.ru/news/den-novyh-komiksov-14-avgusta",
   "archived": "https://web.archive.org/web/20250518125949/https://spidermedia.ru/news/den-novyh-komiksov-14-avgusta",
+  "tags": [
+    "den-novyh-komiksov"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

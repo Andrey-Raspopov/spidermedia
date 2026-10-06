@@ -4,6 +4,10 @@
   "url": "/news/eksklyuziv-prevyu-udar-no1-i-obekt-13-no1-izdatelstva-doh-jones/",
   "original_url": "https://spidermedia.ru/news/eksklyuziv-prevyu-udar-no1-i-obekt-13-no1-izdatelstva-doh-jones",
   "archived": "https://web.archive.org/web/20250808041645/https://spidermedia.ru/news/eksklyuziv-prevyu-udar-no1-i-obekt-13-no1-izdatelstva-doh-jones",
+  "tags": [
+    "russian-comics",
+    "preview"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

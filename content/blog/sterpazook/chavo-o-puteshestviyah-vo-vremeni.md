@@ -4,6 +4,10 @@
   "url": "/blog/sterpazook/chavo-o-puteshestviyah-vo-vremeni/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/chavo-o-puteshestviyah-vo-vremeni",
   "archived": "https://web.archive.org/web/20220314040727/http://spidermedia.ru/blog/sterpazook/chavo-o-puteshestviyah-vo-vremeni",
+  "tags": [
+    "sci-fi",
+    "time-travel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/blog/derden/mastrid-mangi-ot-derdena-8-3-level-combination-ha-il-kvon-0/",
   "original_url": "http://spidermedia.ru/blog/derden/mastrid-mangi-ot-derdena-8-3-level-combination-ha-il-kvon-0",
   "archived": "https://web.archive.org/web/20260117224933/http://spidermedia.ru/blog/derden/mastrid-mangi-ot-derdena-8-3-level-combination-ha-il-kvon-0",
+  "tags": [
+    "ha-il-kvon",
+    "manga",
+    "ha-il-kwon",
+    "3-level-combination"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

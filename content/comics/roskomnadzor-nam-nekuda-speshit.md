@@ -4,6 +4,11 @@
   "url": "/comics/roskomnadzor-nam-nekuda-speshit/",
   "original_url": "https://spidermedia.ru/comics/roskomnadzor-nam-nekuda-speshit",
   "archived": "https://web.archive.org/web/20250118050514/https://spidermedia.ru/comics/roskomnadzor-nam-nekuda-speshit",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "roskomnadzor",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

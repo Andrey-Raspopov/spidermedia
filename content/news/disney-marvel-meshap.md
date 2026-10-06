@@ -4,6 +4,15 @@
   "url": "/news/disney-marvel-meshap/",
   "original_url": "https://spidermedia.ru/news/disney-marvel-meshap",
   "archived": "https://web.archive.org/web/20250807231037/https://spidermedia.ru/news/disney-marvel-meshap",
+  "tags": [
+    "fanart",
+    "meshap",
+    "disnej",
+    "mashup",
+    "marvel",
+    "disney",
+    "challenge"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

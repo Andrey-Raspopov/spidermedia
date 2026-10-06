@@ -4,6 +4,9 @@
   "url": "/news/treyler-filma-godzilla/",
   "original_url": "https://spidermedia.ru/news/treyler-filma-godzilla",
   "archived": "https://web.archive.org/web/20240618003632/https://spidermedia.ru/news/treyler-filma-godzilla",
+  "tags": [
+    "trejlery"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

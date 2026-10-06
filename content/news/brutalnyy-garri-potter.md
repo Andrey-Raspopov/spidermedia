@@ -4,6 +4,11 @@
   "url": "/news/brutalnyy-garri-potter/",
   "original_url": "http://spidermedia.ru/news/brutalnyy-garri-potter",
   "archived": "https://web.archive.org/web/20260308232747/http://spidermedia.ru/news/brutalnyy-garri-potter",
+  "tags": [
+    "avatar-press",
+    "warren-ellis",
+    "gravel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

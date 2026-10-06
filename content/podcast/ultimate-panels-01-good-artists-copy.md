@@ -4,6 +4,10 @@
   "url": "/podcast/ultimate-panels-01-good-artists-copy/",
   "original_url": "https://spidermedia.ru/podcast/ultimate-panels-01-good-artists-copy",
   "archived": "https://web.archive.org/web/20251115184914/https://spidermedia.ru/podcast/ultimate-panels-01-good-artists-copy",
+  "tags": [
+    "on-panels",
+    "ultimate-panels"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

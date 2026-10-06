@@ -4,6 +4,11 @@
   "url": "/comics/roskomnadzor-dont-stop-the-music/",
   "original_url": "https://spidermedia.ru/comics/roskomnadzor-dont-stop-the-music",
   "archived": "https://web.archive.org/web/20250909134117/https://spidermedia.ru/comics/roskomnadzor-dont-stop-the-music",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "roskomnadzor",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

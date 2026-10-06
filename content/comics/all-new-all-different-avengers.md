@@ -4,6 +4,12 @@
   "url": "/comics/all-new-all-different-avengers/",
   "original_url": "http://spidermedia.ru/comics/all-new-all-different-avengers",
   "archived": "https://web.archive.org/web/20260121002832/http://spidermedia.ru/comics/all-new-all-different-avengers",
+  "tags": [
+    "marvel",
+    "miss-marvel",
+    "avengers",
+    "thor"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,16 @@
   "url": "/news/monstry-marvela/",
   "original_url": "http://spidermedia.ru/news/monstry-marvela",
   "archived": "https://web.archive.org/web/20200216104716/http://spidermedia.ru:80/news/monstry-marvela",
+  "tags": [
+    "syn-satany",
+    "oboroten",
+    "leshij",
+    "art-0",
+    "werewolf-by-night",
+    "son-of-satan",
+    "marvel",
+    "man-thing"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

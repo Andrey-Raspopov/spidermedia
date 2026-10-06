@@ -4,6 +4,9 @@
   "url": "/games/battle-chasers-madurejry-vozrodyat-s-pomoshhyu-kickstarter/",
   "original_url": "https://spidermedia.ru/games/battle-chasers-madurejry-vozrodyat-s-pomoshhyu-kickstarter",
   "archived": "https://web.archive.org/web/20251108175203/https://spidermedia.ru/games/battle-chasers-madurejry-vozrodyat-s-pomoshhyu-kickstarter",
+  "tags": [
+    "image-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

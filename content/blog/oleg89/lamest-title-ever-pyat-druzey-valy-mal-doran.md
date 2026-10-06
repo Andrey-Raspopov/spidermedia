@@ -4,6 +4,15 @@
   "url": "/blog/oleg89/lamest-title-ever-pyat-druzey-valy-mal-doran/",
   "original_url": "http://spidermedia.ru/blog/oleg89/lamest-title-ever-pyat-druzey-valy-mal-doran",
   "archived": "https://web.archive.org/web/20250210064216/http://spidermedia.ru/blog/oleg89/lamest-title-ever-pyat-druzey-valy-mal-doran",
+  "tags": [
+    "chezar-razek",
+    "zvezdnye-vrata",
+    "brendon-dzhyorva",
+    "stargate",
+    "dynamite-entertainment",
+    "cezar-razek",
+    "brandon-jerwa"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

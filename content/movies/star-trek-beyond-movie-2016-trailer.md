@@ -4,6 +4,10 @@
   "url": "/movies/star-trek-beyond-movie-2016-trailer/",
   "original_url": "https://spidermedia.ru/movies/star-trek-beyond-movie-2016-trailer",
   "archived": "https://web.archive.org/web/20251112174016/https://spidermedia.ru/movies/star-trek-beyond-movie-2016-trailer",
+  "tags": [
+    "star-trek",
+    "zvezdnyj-put"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

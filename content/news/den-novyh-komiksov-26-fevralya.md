@@ -4,6 +4,9 @@
   "url": "/news/den-novyh-komiksov-26-fevralya/",
   "original_url": "https://spidermedia.ru/news/den-novyh-komiksov-26-fevralya",
   "archived": "https://web.archive.org/web/20250324224112/https://spidermedia.ru/news/den-novyh-komiksov-26-fevralya",
+  "tags": [
+    "den-novyh-komiksov"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

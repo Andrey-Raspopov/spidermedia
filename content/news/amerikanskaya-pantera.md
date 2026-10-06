@@ -4,6 +4,14 @@
   "url": "/news/amerikanskaya-pantera/",
   "original_url": "http://spidermedia.ru/news/amerikanskaya-pantera",
   "archived": "https://web.archive.org/web/20251108184324/http://spidermedia.ru/news/amerikanskaya-pantera",
+  "tags": [
+    "black-panther",
+    "franchesko-frankavilla",
+    "patrik-zircher",
+    "devid-liss",
+    "art-0",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

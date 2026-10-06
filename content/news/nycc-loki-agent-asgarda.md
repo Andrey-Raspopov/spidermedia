@@ -4,6 +4,11 @@
   "url": "/news/nycc-loki-agent-asgarda/",
   "original_url": "http://spidermedia.ru/news/nycc-loki-agent-asgarda",
   "archived": "https://web.archive.org/web/20250806055629/http://spidermedia.ru/news/nycc-loki-agent-asgarda",
+  "tags": [
+    "marvel",
+    "loki",
+    "new-york-comic-con"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

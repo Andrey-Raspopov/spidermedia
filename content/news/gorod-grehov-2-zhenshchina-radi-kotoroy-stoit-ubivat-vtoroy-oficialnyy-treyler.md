@@ -4,6 +4,11 @@
   "url": "/news/gorod-grehov-2-zhenshchina-radi-kotoroy-stoit-ubivat-vtoroy-oficialnyy-treyler/",
   "original_url": "http://spidermedia.ru/news/gorod-grehov-2-zhenshchina-radi-kotoroy-stoit-ubivat-vtoroy-oficialnyy-treyler",
   "archived": "https://web.archive.org/web/20260125122110/http://spidermedia.ru/news/gorod-grehov-2-zhenshchina-radi-kotoroy-stoit-ubivat-vtoroy-oficialnyy-treyler",
+  "tags": [
+    "frenk-miller",
+    "trejlery",
+    "sin-city"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

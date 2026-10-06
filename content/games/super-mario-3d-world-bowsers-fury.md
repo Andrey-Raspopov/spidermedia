@@ -4,6 +4,9 @@
   "url": "/games/super-mario-3d-world-bowsers-fury/",
   "original_url": "http://spidermedia.ru/games/super-mario-3d-world-bowsers-fury",
   "archived": "https://web.archive.org/web/20250325090742/http://spidermedia.ru/games/super-mario-3d-world-bowsers-fury",
+  "tags": [
+    "nintendo"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

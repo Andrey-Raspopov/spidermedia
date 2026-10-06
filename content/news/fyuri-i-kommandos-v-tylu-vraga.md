@@ -4,6 +4,16 @@
   "url": "/news/fyuri-i-kommandos-v-tylu-vraga/",
   "original_url": "http://spidermedia.ru/news/fyuri-i-kommandos-v-tylu-vraga",
   "archived": "https://web.archive.org/web/20120607055235/http://spidermedia.ru/news/fyuri-i-kommandos-v-tylu-vraga",
+  "tags": [
+    "nick-fury",
+    "art-0",
+    "dzhessi-aleksandr",
+    "komiksy",
+    "marvel",
+    "nik-fyuri",
+    "oblozhki",
+    "preview-s"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/comics/all-things-valiant-47-week-20/",
   "original_url": "http://spidermedia.ru/comics/all-things-valiant-47-week-20",
   "archived": "https://web.archive.org/web/20260125065125/http://spidermedia.ru/comics/all-things-valiant-47-week-20",
+  "tags": [
+    "valiant-entertainment"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

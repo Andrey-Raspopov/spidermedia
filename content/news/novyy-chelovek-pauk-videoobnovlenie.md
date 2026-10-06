@@ -4,6 +4,10 @@
   "url": "/news/novyy-chelovek-pauk-videoobnovlenie/",
   "original_url": "https://spidermedia.ru/news/novyy-chelovek-pauk-videoobnovlenie",
   "archived": "https://web.archive.org/web/20251207003612/https://spidermedia.ru/news/novyy-chelovek-pauk-videoobnovlenie",
+  "tags": [
+    "spider-man",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

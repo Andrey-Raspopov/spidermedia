@@ -4,6 +4,17 @@
   "url": "/news/zheleznyy-art/",
   "original_url": "http://spidermedia.ru/news/zheleznyy-art",
   "archived": "https://web.archive.org/web/20120608233046/http://spidermedia.ru/news/zheleznyy-art",
+  "tags": [
+    "iron-man",
+    "iron-man-2",
+    "dzhon-favro",
+    "zheleznyy-chelovek",
+    "zheleznyy-chelovek-2",
+    "kino",
+    "komiksy",
+    "marvel",
+    "robert-dauni-ml"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,13 @@
   "url": "/news/dzhons-uzhe-bezhit/",
   "original_url": "http://spidermedia.ru/news/dzhons-uzhe-bezhit",
   "archived": "https://web.archive.org/web/20241202114345/http://spidermedia.ru/news/dzhons-uzhe-bezhit",
+  "tags": [
+    "dc-comics",
+    "the-flash",
+    "preview",
+    "geoff-johns",
+    "ethan-van-sciver"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

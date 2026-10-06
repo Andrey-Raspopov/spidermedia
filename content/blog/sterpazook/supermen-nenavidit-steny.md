@@ -4,6 +4,11 @@
   "url": "/blog/sterpazook/supermen-nenavidit-steny/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/supermen-nenavidit-steny",
   "archived": "https://web.archive.org/web/20260307064012/http://spidermedia.ru/blog/sterpazook/supermen-nenavidit-steny",
+  "tags": [
+    "superman",
+    "serialy",
+    "yumor"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

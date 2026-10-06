@@ -4,6 +4,12 @@
   "url": "/blog/sterpazook/sherlok-holms-film-po-komiksu/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/sherlok-holms-film-po-komiksu",
   "archived": "https://web.archive.org/web/20120608012442/http://spidermedia.ru/blog/sterpazook/sherlok-holms-film-po-komiksu",
+  "tags": [
+    "sherlock-holmes",
+    "kino",
+    "komiksy",
+    "sherlok-holms"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/blog/redson/obzor-tvorchestva-brayana-azzarello/",
   "original_url": "https://spidermedia.ru/blog/redson/obzor-tvorchestva-brayana-azzarello",
   "archived": "https://web.archive.org/web/20251206153625/https://spidermedia.ru/blog/redson/obzor-tvorchestva-brayana-azzarello",
+  "tags": [
+    "brian-azzarello"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

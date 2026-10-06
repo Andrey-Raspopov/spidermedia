@@ -4,6 +4,12 @@
   "url": "/news/rosomaha-i-zver-v-x-men-days-future-past/",
   "original_url": "http://spidermedia.ru/news/rosomaha-i-zver-v-x-men-days-future-past",
   "archived": "https://web.archive.org/web/20250806051555/http://spidermedia.ru/news/rosomaha-i-zver-v-x-men-days-future-past",
+  "tags": [
+    "marvel",
+    "wolverine",
+    "days-of-future-past",
+    "x-men"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

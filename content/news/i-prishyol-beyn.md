@@ -4,6 +4,11 @@
   "url": "/news/i-prishyol-beyn/",
   "original_url": "https://spidermedia.ru/news/i-prishyol-beyn",
   "archived": "https://web.archive.org/web/20260209103507/https://spidermedia.ru/news/i-prishyol-beyn",
+  "tags": [
+    "bejn",
+    "dark-knight-rises",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/news/pipec-2-rossiya-matushka/",
   "original_url": "http://spidermedia.ru/news/pipec-2-rossiya-matushka",
   "archived": "https://web.archive.org/web/20251107034609/http://spidermedia.ru/news/pipec-2-rossiya-matushka",
+  "tags": [
+    "mark-millar",
+    "kick-ass",
+    "icon-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

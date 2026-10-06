@@ -4,6 +4,12 @@
   "url": "/news/mstitelyami-ne-rozhdayutsya/",
   "original_url": "https://spidermedia.ru/news/mstitelyami-ne-rozhdayutsya",
   "archived": "https://web.archive.org/web/20260211184627/https://spidermedia.ru/news/mstitelyami-ne-rozhdayutsya",
+  "tags": [
+    "mark-millar",
+    "lejnil-frensis-yu",
+    "ultimate",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

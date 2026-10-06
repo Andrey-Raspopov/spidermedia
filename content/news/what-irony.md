@@ -4,6 +4,14 @@
   "url": "/news/what-irony/",
   "original_url": "https://spidermedia.ru/news/what-irony",
   "archived": "https://web.archive.org/web/20251205121403/https://spidermedia.ru/news/what-irony",
+  "tags": [
+    "piter-devid",
+    "iks-faktor",
+    "bing-kansino",
+    "x-men",
+    "x-factor",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

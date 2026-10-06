@@ -4,6 +4,14 @@
   "url": "/blog/sterpazook/iron-sky-nacisty-iz-kosmosa/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/iron-sky-nacisty-iz-kosmosa",
   "archived": "https://web.archive.org/web/20241213224329/http://spidermedia.ru/blog/sterpazook/iron-sky-nacisty-iz-kosmosa",
+  "tags": [
+    "trejlery",
+    "sci-fi",
+    "spoof",
+    "kosmos",
+    "nacisty",
+    "nazis"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

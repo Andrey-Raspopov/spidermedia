@@ -4,6 +4,15 @@
   "url": "/blog/redson/u-supermena-klassnaya-zhopa-alternativnoe-mnenie-o-filme-chelovek-iz-stali/",
   "original_url": "https://spidermedia.ru/blog/redson/u-supermena-klassnaya-zhopa-alternativnoe-mnenie-o-filme-chelovek-iz-stali",
   "archived": "https://web.archive.org/web/20251116052533/https://spidermedia.ru/blog/redson/u-supermena-klassnaya-zhopa-alternativnoe-mnenie-o-filme-chelovek-iz-stali",
+  "tags": [
+    "superman",
+    "mnenie",
+    "devid-gojer",
+    "dc-comics",
+    "recenziya",
+    "chelovek-iz-stali",
+    "man-of-steel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

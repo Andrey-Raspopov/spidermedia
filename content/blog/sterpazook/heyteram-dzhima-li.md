@@ -4,6 +4,11 @@
   "url": "/blog/sterpazook/heyteram-dzhima-li/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/heyteram-dzhima-li",
   "archived": "https://web.archive.org/web/20260117213959/http://spidermedia.ru/blog/sterpazook/heyteram-dzhima-li",
+  "tags": [
+    "yumor",
+    "jim-lee",
+    "x-men"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

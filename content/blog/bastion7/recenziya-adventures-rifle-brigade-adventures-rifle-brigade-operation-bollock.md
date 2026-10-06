@@ -4,6 +4,12 @@
   "url": "/blog/bastion7/recenziya-adventures-rifle-brigade-adventures-rifle-brigade-operation-bollock/",
   "original_url": "http://spidermedia.ru/blog/bastion7/recenziya-adventures-rifle-brigade-adventures-rifle-brigade-operation-bollock",
   "archived": "https://web.archive.org/web/20260312015051/http://spidermedia.ru/blog/bastion7/recenziya-adventures-rifle-brigade-adventures-rifle-brigade-operation-bollock",
+  "tags": [
+    "dc-comics",
+    "garth-ennis",
+    "recenziya",
+    "vertigo"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

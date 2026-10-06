@@ -4,6 +4,10 @@
   "url": "/movies/icecube-jonah-jameson/",
   "original_url": "https://spidermedia.ru/movies/icecube-jonah-jameson",
   "archived": "https://web.archive.org/web/20251111082350/https://spidermedia.ru/movies/icecube-jonah-jameson",
+  "tags": [
+    "spider-man",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

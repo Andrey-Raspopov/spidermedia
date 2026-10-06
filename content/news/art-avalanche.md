@@ -4,6 +4,25 @@
   "url": "/news/art-avalanche/",
   "original_url": "http://spidermedia.ru/news/art-avalanche",
   "archived": "https://web.archive.org/web/20120607163959/http://spidermedia.ru/news/art-avalanche",
+  "tags": [
+    "captain-america",
+    "dark-reign",
+    "doctor-voodoo",
+    "dr-strange",
+    "fantastic-four",
+    "list",
+    "new-avengers",
+    "nomad-0",
+    "reborn",
+    "secret-warriors",
+    "spider-man",
+    "marvels-project",
+    "art-0",
+    "komiksy",
+    "marvel",
+    "preview-s",
+    "chelovek-pauk"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

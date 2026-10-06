@@ -4,6 +4,10 @@
   "url": "/news/grant-morrison-vnov-porabotaet-s-izdatelstvom-boom/",
   "original_url": "http://spidermedia.ru/news/grant-morrison-vnov-porabotaet-s-izdatelstvom-boom",
   "archived": "https://web.archive.org/web/20260125055544/http://spidermedia.ru/news/grant-morrison-vnov-porabotaet-s-izdatelstvom-boom",
+  "tags": [
+    "grant-morrison",
+    "boom-studios"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

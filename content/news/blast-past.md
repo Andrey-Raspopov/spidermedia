@@ -4,6 +4,13 @@
   "url": "/news/blast-past/",
   "original_url": "http://spidermedia.ru/news/blast-past",
   "archived": "https://web.archive.org/web/20251211035424/http://spidermedia.ru/news/blast-past",
+  "tags": [
+    "kris-ueston",
+    "j-michael-straczynski",
+    "the-twelve",
+    "marvel",
+    "chris-weston"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

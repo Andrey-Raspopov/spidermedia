@@ -4,6 +4,18 @@
   "url": "/news/razgovory-s-denom/",
   "original_url": "http://spidermedia.ru/news/razgovory-s-denom",
   "archived": "https://web.archive.org/web/20260123083334/http://spidermedia.ru/news/razgovory-s-denom",
+  "tags": [
+    "dc-comics",
+    "avtory",
+    "batman",
+    "the-flash",
+    "dan-didio",
+    "betvuman",
+    "geoff-johns",
+    "blackest-night",
+    "final-crisis",
+    "novosti"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

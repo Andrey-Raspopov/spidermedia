@@ -4,6 +4,11 @@
   "url": "/blog/silver/minimalizm-pod-maskoy/",
   "original_url": "http://spidermedia.ru/blog/silver/minimalizm-pod-maskoy",
   "archived": "https://web.archive.org/web/20120610044134/http://spidermedia.ru/blog/silver/minimalizm-pod-maskoy",
+  "tags": [
+    "art-0",
+    "kino",
+    "komiksy"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

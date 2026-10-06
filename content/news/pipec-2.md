@@ -4,6 +4,13 @@
   "url": "/news/pipec-2/",
   "original_url": "https://spidermedia.ru/news/pipec-2",
   "archived": "https://web.archive.org/web/20260215070849/https://spidermedia.ru/news/pipec-2",
+  "tags": [
+    "mark-millar",
+    "dzhon-romita-ml",
+    "marvel",
+    "kick-ass",
+    "icon-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

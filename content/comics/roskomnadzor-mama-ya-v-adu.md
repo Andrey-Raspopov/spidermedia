@@ -4,6 +4,11 @@
   "url": "/comics/roskomnadzor-mama-ya-v-adu/",
   "original_url": "http://spidermedia.ru/comics/roskomnadzor-mama-ya-v-adu",
   "archived": "https://web.archive.org/web/20220629004105/http://spidermedia.ru/comics/roskomnadzor-mama-ya-v-adu",
+  "tags": [
+    "russian-comics",
+    "roskomnadzor",
+    "zarubezhnye-komiksy-na-russkom"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

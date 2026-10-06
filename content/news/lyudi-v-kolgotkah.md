@@ -4,6 +4,13 @@
   "url": "/news/lyudi-v-kolgotkah/",
   "original_url": "https://spidermedia.ru/news/lyudi-v-kolgotkah",
   "archived": "https://web.archive.org/web/20260309181258/https://spidermedia.ru/news/lyudi-v-kolgotkah",
+  "tags": [
+    "pol-dini",
+    "zatanna",
+    "dzho-kinones",
+    "dc-comics",
+    "black-canary"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

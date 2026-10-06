@@ -4,6 +4,22 @@
   "url": "/movies/recenziya-pervyj-mstitel-protivostoyanie/",
   "original_url": "http://spidermedia.ru/movies/recenziya-pervyj-mstitel-protivostoyanie",
   "archived": "https://web.archive.org/web/20251216185246/http://spidermedia.ru/movies/recenziya-pervyj-mstitel-protivostoyanie",
+  "tags": [
+    "marvel",
+    "iron-man",
+    "winter-soldier",
+    "captain-america",
+    "black-panther",
+    "vision",
+    "war-machine",
+    "falcon",
+    "hawkeye",
+    "ant-man",
+    "black-widow",
+    "scarlet-witch",
+    "spider-man",
+    "civil-war"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/blog/baka-chan/zapiski-sumacshedshego/",
   "original_url": "http://spidermedia.ru/blog/baka-chan/zapiski-sumacshedshego",
   "archived": "https://web.archive.org/web/20111026060808/http://spidermedia.ru/blog/baka-chan/zapiski-sumacshedshego",
+  "tags": [
+    "vstuplenie"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

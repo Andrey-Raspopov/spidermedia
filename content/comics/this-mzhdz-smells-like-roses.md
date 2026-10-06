@@ -4,6 +4,9 @@
   "url": "/comics/this-mzhdz-smells-like-roses/",
   "original_url": "http://spidermedia.ru/comics/this-mzhdz-smells-like-roses",
   "archived": "https://web.archive.org/web/20161112214929/http://spidermedia.ru:80/comics/this-mzhdz-smells-like-roses",
+  "tags": [
+    "mzhdz"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

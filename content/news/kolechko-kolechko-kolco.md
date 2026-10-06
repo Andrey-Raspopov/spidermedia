@@ -4,6 +4,12 @@
   "url": "/news/kolechko-kolechko-kolco/",
   "original_url": "https://spidermedia.ru/news/kolechko-kolechko-kolco",
   "archived": "https://web.archive.org/web/20250419050019/https://spidermedia.ru/news/kolechko-kolechko-kolco",
+  "tags": [
+    "svetlejshij-den",
+    "dc-comics",
+    "figurki",
+    "akciya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

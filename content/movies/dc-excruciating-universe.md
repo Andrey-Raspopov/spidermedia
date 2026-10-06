@@ -4,6 +4,11 @@
   "url": "/movies/dc-excruciating-universe/",
   "original_url": "https://spidermedia.ru/movies/dc-excruciating-universe",
   "archived": "https://web.archive.org/web/20260123071738/https://spidermedia.ru/movies/dc-excruciating-universe",
+  "tags": [
+    "dc-comics",
+    "imho",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

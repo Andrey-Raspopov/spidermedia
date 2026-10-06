@@ -4,6 +4,11 @@
   "url": "/news/radi-nauki/",
   "original_url": "http://spidermedia.ru/news/radi-nauki",
   "archived": "https://web.archive.org/web/20251115032951/http://spidermedia.ru/news/radi-nauki",
+  "tags": [
+    "dzhonatan-hikman",
+    "nik-pitarra",
+    "image-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/comics/do-androids-dream-of-electric-sheep-translation-review/",
   "original_url": "http://spidermedia.ru/comics/do-androids-dream-of-electric-sheep-translation-review",
   "archived": "https://web.archive.org/web/20220703144335/http://spidermedia.ru/comics/do-androids-dream-of-electric-sheep-translation-review",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

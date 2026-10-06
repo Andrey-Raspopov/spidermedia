@@ -4,6 +4,16 @@
   "url": "/news/poster-tora-i-koncept-art-pervogo-mstitelya/",
   "original_url": "http://spidermedia.ru/news/poster-tora-i-koncept-art-pervogo-mstitelya",
   "archived": "https://web.archive.org/web/20120608144432/http://spidermedia.ru/news/poster-tora-i-koncept-art-pervogo-mstitelya",
+  "tags": [
+    "first-avenger-captain-america",
+    "thor",
+    "art-0",
+    "kino",
+    "komiksy",
+    "marvel",
+    "pervyy-mstitel-kapitan-amerika",
+    "tor"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

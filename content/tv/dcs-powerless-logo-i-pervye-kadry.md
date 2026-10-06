@@ -4,6 +4,9 @@
   "url": "/tv/dcs-powerless-logo-i-pervye-kadry/",
   "original_url": "https://spidermedia.ru/tv/dcs-powerless-logo-i-pervye-kadry",
   "archived": "https://web.archive.org/web/20250814200551/https://spidermedia.ru/tv/dcs-powerless-logo-i-pervye-kadry",
+  "tags": [
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

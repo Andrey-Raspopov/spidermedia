@@ -4,6 +4,12 @@
   "url": "/blog/silver/hall-just-us-002-doctor-thirteen-architecture-and-mortality/",
   "original_url": "http://spidermedia.ru/blog/silver/hall-just-us-002-doctor-thirteen-architecture-and-mortality",
   "archived": "https://web.archive.org/web/20120607184213/http://spidermedia.ru/blog/silver/hall-just-us-002-doctor-thirteen-architecture-and-mortality",
+  "tags": [
+    "doctor-thirteen",
+    "hall-just-us",
+    "komiksy",
+    "mnenie"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

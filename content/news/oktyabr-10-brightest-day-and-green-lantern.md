@@ -4,6 +4,12 @@
   "url": "/news/oktyabr-10-brightest-day-and-green-lantern/",
   "original_url": "https://spidermedia.ru/news/oktyabr-10-brightest-day-and-green-lantern",
   "archived": "https://web.archive.org/web/20251107001537/https://spidermedia.ru/news/oktyabr-10-brightest-day-and-green-lantern",
+  "tags": [
+    "svetlejshij-den",
+    "solicitations",
+    "green-lantern",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

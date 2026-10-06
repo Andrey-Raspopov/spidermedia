@@ -4,6 +4,11 @@
   "url": "/tv/vtoroj-sezon-agenta-karter-privyazhut-k-doktoru-strendzhu/",
   "original_url": "https://spidermedia.ru/tv/vtoroj-sezon-agenta-karter-privyazhut-k-doktoru-strendzhu",
   "archived": "https://web.archive.org/web/20250114023348/https://spidermedia.ru/tv/vtoroj-sezon-agenta-karter-privyazhut-k-doktoru-strendzhu",
+  "tags": [
+    "marvel",
+    "agent-karter",
+    "doctor-strange"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

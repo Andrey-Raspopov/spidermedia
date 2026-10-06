@@ -4,6 +4,9 @@
   "url": "/movies/attack-on-titan-ultraman-trailer/",
   "original_url": "http://spidermedia.ru/movies/attack-on-titan-ultraman-trailer",
   "archived": "https://web.archive.org/web/20210118131853/http://spidermedia.ru/movies/attack-on-titan-ultraman-trailer",
+  "tags": [
+    "manga"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

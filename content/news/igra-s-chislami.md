@@ -4,6 +4,12 @@
   "url": "/news/igra-s-chislami/",
   "original_url": "http://spidermedia.ru/news/igra-s-chislami",
   "archived": "https://web.archive.org/web/20251107010227/http://spidermedia.ru/news/igra-s-chislami",
+  "tags": [
+    "marvel",
+    "hulk",
+    "dzhef-loeb",
+    "ed-makginnes"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

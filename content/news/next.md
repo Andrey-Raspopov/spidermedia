@@ -4,6 +4,12 @@
   "url": "/news/next/",
   "original_url": "http://spidermedia.ru/news/next",
   "archived": "https://web.archive.org/web/20120609090421/http://spidermedia.ru/news/next",
+  "tags": [
+    "art-0",
+    "komiksy",
+    "marvel",
+    "tom-brevurt"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

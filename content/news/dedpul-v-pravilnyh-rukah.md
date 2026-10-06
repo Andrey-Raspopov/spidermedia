@@ -4,6 +4,12 @@
   "url": "/news/dedpul-v-pravilnyh-rukah/",
   "original_url": "http://spidermedia.ru/news/dedpul-v-pravilnyh-rukah",
   "archived": "https://web.archive.org/web/20200221175358/http://spidermedia.ru:80/news/dedpul-v-pravilnyh-rukah",
+  "tags": [
+    "rob-lajfeld",
+    "deadpool",
+    "joe-kelly",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

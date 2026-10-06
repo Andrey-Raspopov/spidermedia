@@ -4,6 +4,19 @@
   "url": "/news/ya-ubil-galaktusa/",
   "original_url": "http://spidermedia.ru/news/ya-ubil-galaktusa",
   "archived": "https://web.archive.org/web/20120607184458/http://spidermedia.ru/news/ya-ubil-galaktusa",
+  "tags": [
+    "fantastic-four",
+    "galactus",
+    "silver-surfer",
+    "art-0",
+    "galaktus",
+    "jonathan-hickman",
+    "deyl-iglshem",
+    "komiksy",
+    "marvel",
+    "serebryanyy-serfer",
+    "fantasticheskaya-chetverka"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/news/noyabr-i-dekabr-10-brightest-day-and-green-lantern/",
   "original_url": "http://spidermedia.ru/news/noyabr-i-dekabr-10-brightest-day-and-green-lantern",
   "archived": "https://web.archive.org/web/20260120164807/http://spidermedia.ru/news/noyabr-i-dekabr-10-brightest-day-and-green-lantern",
+  "tags": [
+    "svetlejshij-den",
+    "solicitations",
+    "green-lantern",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

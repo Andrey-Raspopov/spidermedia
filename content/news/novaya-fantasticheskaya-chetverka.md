@@ -4,6 +4,12 @@
   "url": "/news/novaya-fantasticheskaya-chetverka/",
   "original_url": "http://spidermedia.ru/news/novaya-fantasticheskaya-chetverka",
   "archived": "https://web.archive.org/web/20120608040703/http://spidermedia.ru/news/novaya-fantasticheskaya-chetverka",
+  "tags": [
+    "fantastic-four",
+    "kino",
+    "marvel",
+    "fantasticheskaya-chetverka"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

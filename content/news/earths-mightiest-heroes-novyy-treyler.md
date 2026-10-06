@@ -4,6 +4,12 @@
   "url": "/news/earths-mightiest-heroes-novyy-treyler/",
   "original_url": "http://spidermedia.ru/news/earths-mightiest-heroes-novyy-treyler",
   "archived": "https://web.archive.org/web/20251108193030/http://spidermedia.ru/news/earths-mightiest-heroes-novyy-treyler",
+  "tags": [
+    "avengers",
+    "marvel",
+    "animaciya",
+    "preview"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

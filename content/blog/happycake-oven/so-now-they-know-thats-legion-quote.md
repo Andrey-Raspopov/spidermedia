@@ -4,6 +4,12 @@
   "url": "/blog/happycake-oven/so-now-they-know-thats-legion-quote/",
   "original_url": "http://spidermedia.ru/blog/happycake-oven/so-now-they-know-thats-legion-quote",
   "archived": "https://web.archive.org/web/20111018031747/http://spidermedia.ru/blog/happycake-oven/so-now-they-know-thats-legion-quote",
+  "tags": [
+    "dc-comics",
+    "legion-super-heroes",
+    "paul-levitz",
+    "komiksy"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

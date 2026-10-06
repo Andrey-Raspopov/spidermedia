@@ -4,6 +4,9 @@
   "url": "/games/assassins-creed-chronicles-india/",
   "original_url": "https://spidermedia.ru/games/assassins-creed-chronicles-india",
   "archived": "https://web.archive.org/web/20251205122558/https://spidermedia.ru/games/assassins-creed-chronicles-india",
+  "tags": [
+    "recenziya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

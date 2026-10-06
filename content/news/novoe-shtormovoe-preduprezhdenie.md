@@ -4,6 +4,17 @@
   "url": "/news/novoe-shtormovoe-preduprezhdenie/",
   "original_url": "http://spidermedia.ru/news/novoe-shtormovoe-preduprezhdenie",
   "archived": "https://web.archive.org/web/20120607112433/http://spidermedia.ru/news/novoe-shtormovoe-preduprezhdenie",
+  "tags": [
+    "2099",
+    "spider-man",
+    "x-men",
+    "brayan-rid",
+    "komiksy",
+    "lyudi-iks",
+    "marvel",
+    "uesli-kreyg",
+    "chelovek-pauk"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

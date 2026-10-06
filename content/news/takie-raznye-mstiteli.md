@@ -4,6 +4,14 @@
   "url": "/news/takie-raznye-mstiteli/",
   "original_url": "http://spidermedia.ru/news/takie-raznye-mstiteli",
   "archived": "https://web.archive.org/web/20260308234135/http://spidermedia.ru/news/takie-raznye-mstiteli",
+  "tags": [
+    "avengers",
+    "preview",
+    "majk-deodato",
+    "brian-michael-bendis",
+    "art-0",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

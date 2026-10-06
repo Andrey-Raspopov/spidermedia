@@ -4,6 +4,9 @@
   "url": "/comics/day-of-new-comics-march-21/",
   "original_url": "http://spidermedia.ru/comics/day-of-new-comics-march-21",
   "archived": "https://web.archive.org/web/20200218020009/http://spidermedia.ru:80/comics/day-of-new-comics-march-21",
+  "tags": [
+    "den-novyh-komiksov"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

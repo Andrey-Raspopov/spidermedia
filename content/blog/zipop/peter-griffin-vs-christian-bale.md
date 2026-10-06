@@ -4,6 +4,12 @@
   "url": "/blog/zipop/peter-griffin-vs-christian-bale/",
   "original_url": "http://spidermedia.ru/blog/zipop/peter-griffin-vs-christian-bale",
   "archived": "https://web.archive.org/web/20200127102837/http://spidermedia.ru:80/blog/zipop/peter-griffin-vs-christian-bale",
+  "tags": [
+    "yumor",
+    "serialy",
+    "kristian-bejl",
+    "animaciya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

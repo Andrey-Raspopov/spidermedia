@@ -4,6 +4,9 @@
   "url": "/news/novogodniy-novostnoy-kinodaydzhest/",
   "original_url": "http://spidermedia.ru/news/novogodniy-novostnoy-kinodaydzhest",
   "archived": "https://web.archive.org/web/20231001052345/http://spidermedia.ru/news/novogodniy-novostnoy-kinodaydzhest",
+  "tags": [
+    "serialy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

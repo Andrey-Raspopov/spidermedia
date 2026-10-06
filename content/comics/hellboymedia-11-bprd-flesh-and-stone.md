@@ -4,6 +4,10 @@
   "url": "/comics/hellboymedia-11-bprd-flesh-and-stone/",
   "original_url": "http://spidermedia.ru/comics/hellboymedia-11-bprd-flesh-and-stone",
   "archived": "https://web.archive.org/web/20260206230418/http://spidermedia.ru/comics/hellboymedia-11-bprd-flesh-and-stone",
+  "tags": [
+    "hellboymedia",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

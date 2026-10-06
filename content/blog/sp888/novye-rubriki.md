@@ -4,6 +4,10 @@
   "url": "/blog/sp888/novye-rubriki/",
   "original_url": "http://spidermedia.ru/blog/sp888/novye-rubriki",
   "archived": "https://web.archive.org/web/20111026115228/http://spidermedia.ru/blog/sp888/novye-rubriki",
+  "tags": [
+    "komiksy",
+    "mnenie"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/comics/review-ivan-eshukov-borovickij-1-5/",
   "original_url": "https://spidermedia.ru/comics/review-ivan-eshukov-borovickij-1-5",
   "archived": "https://web.archive.org/web/20260312014820/https://spidermedia.ru/comics/review-ivan-eshukov-borovickij-1-5",
+  "tags": [
+    "recenziya",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

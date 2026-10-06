@@ -4,6 +4,10 @@
   "url": "/blog/bastion7/recenziya-scud-disposable-assassin/",
   "original_url": "http://spidermedia.ru/blog/bastion7/recenziya-scud-disposable-assassin",
   "archived": "https://web.archive.org/web/20120611025043/http://spidermedia.ru/blog/bastion7/recenziya-scud-disposable-assassin",
+  "tags": [
+    "komiksy",
+    "recenziya"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

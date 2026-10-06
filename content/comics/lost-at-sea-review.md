@@ -4,6 +4,9 @@
   "url": "/comics/lost-at-sea-review/",
   "original_url": "http://spidermedia.ru/comics/lost-at-sea-review",
   "archived": "https://web.archive.org/web/20200221075208/http://spidermedia.ru:80/comics/lost-at-sea-review",
+  "tags": [
+    "bryan-lee-o-malley"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

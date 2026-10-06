@@ -4,6 +4,11 @@
   "url": "/blog/ghost-knight/dcuc-dc-universe-classics-wave-7/",
   "original_url": "https://spidermedia.ru/blog/ghost-knight/dcuc-dc-universe-classics-wave-7",
   "archived": "https://web.archive.org/web/20260306001613/https://spidermedia.ru/blog/ghost-knight/dcuc-dc-universe-classics-wave-7",
+  "tags": [
+    "figurki",
+    "mattel",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

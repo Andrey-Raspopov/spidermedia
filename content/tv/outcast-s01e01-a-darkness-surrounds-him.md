@@ -4,6 +4,10 @@
   "url": "/tv/outcast-s01e01-a-darkness-surrounds-him/",
   "original_url": "http://spidermedia.ru/tv/outcast-s01e01-a-darkness-surrounds-him",
   "archived": "https://web.archive.org/web/20260209113624/http://spidermedia.ru/tv/outcast-s01e01-a-darkness-surrounds-him",
+  "tags": [
+    "image-comics",
+    "robert-kirkman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

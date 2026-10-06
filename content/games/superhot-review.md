@@ -4,6 +4,9 @@
   "url": "/games/superhot-review/",
   "original_url": "https://spidermedia.ru/games/superhot-review",
   "archived": "https://web.archive.org/web/20251206023609/https://spidermedia.ru/games/superhot-review",
+  "tags": [
+    "recenziya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

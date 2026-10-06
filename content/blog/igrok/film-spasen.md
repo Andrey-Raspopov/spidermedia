@@ -4,6 +4,11 @@
   "url": "/blog/igrok/film-spasen/",
   "original_url": "http://spidermedia.ru/blog/igrok/film-spasen",
   "archived": "https://web.archive.org/web/20251216120835/http://spidermedia.ru/blog/igrok/film-spasen",
+  "tags": [
+    "figurki",
+    "wolverine",
+    "hasbro"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

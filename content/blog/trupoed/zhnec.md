@@ -4,6 +4,9 @@
   "url": "/blog/trupoed/zhnec/",
   "original_url": "https://spidermedia.ru/blog/trupoed/zhnec",
   "archived": "https://web.archive.org/web/20240803161102/https://spidermedia.ru/blog/trupoed/zhnec",
+  "tags": [
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

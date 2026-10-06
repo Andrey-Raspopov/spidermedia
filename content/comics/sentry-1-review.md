@@ -4,6 +4,10 @@
   "url": "/comics/sentry-1-review/",
   "original_url": "http://spidermedia.ru/comics/sentry-1-review",
   "archived": "https://web.archive.org/web/20260123071613/http://spidermedia.ru/comics/sentry-1-review",
+  "tags": [
+    "marvel",
+    "dzheff-lemir"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

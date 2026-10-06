@@ -4,6 +4,10 @@
   "url": "/tv/gotem-vtoroj-sezon-nachalsya/",
   "original_url": "http://spidermedia.ru/tv/gotem-vtoroj-sezon-nachalsya",
   "archived": "https://web.archive.org/web/20260215091304/http://spidermedia.ru/tv/gotem-vtoroj-sezon-nachalsya",
+  "tags": [
+    "dc-comics",
+    "gotem"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

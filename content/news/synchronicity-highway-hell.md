@@ -4,6 +4,13 @@
   "url": "/news/synchronicity-highway-hell/",
   "original_url": "http://spidermedia.ru/news/synchronicity-highway-hell",
   "archived": "https://web.archive.org/web/20150501130826/http://spidermedia.ru/news/synchronicity-highway-hell",
+  "tags": [
+    "robert-venditti",
+    "renato-guedes",
+    "dzhon-konstantin",
+    "john-constantine",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

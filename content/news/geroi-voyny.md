@@ -4,6 +4,11 @@
   "url": "/news/geroi-voyny/",
   "original_url": "http://spidermedia.ru/news/geroi-voyny",
   "archived": "https://web.archive.org/web/20120609002123/http://spidermedia.ru/news/geroi-voyny",
+  "tags": [
+    "70th-anniversary-special",
+    "komiksy",
+    "marvel"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

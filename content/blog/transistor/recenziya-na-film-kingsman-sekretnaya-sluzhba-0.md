@@ -4,6 +4,12 @@
   "url": "/blog/transistor/recenziya-na-film-kingsman-sekretnaya-sluzhba-0/",
   "original_url": "http://spidermedia.ru/blog/transistor/recenziya-na-film-kingsman-sekretnaya-sluzhba-0",
   "archived": "https://web.archive.org/web/20260116224416/http://spidermedia.ru/blog/transistor/recenziya-na-film-kingsman-sekretnaya-sluzhba-0",
+  "tags": [
+    "recenziya",
+    "mettyu-von",
+    "mark-millar",
+    "bardak-obmana"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,13 @@
   "url": "/news/novoe-geympleynoe-video-batman-arkham-city/",
   "original_url": "https://spidermedia.ru/news/novoe-geympleynoe-video-batman-arkham-city",
   "archived": "https://web.archive.org/web/20260208203942/https://spidermedia.ru/news/novoe-geympleynoe-video-batman-arkham-city",
+  "tags": [
+    "trejlery",
+    "igry",
+    "dc-comics",
+    "batman",
+    "arkham-asylum"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,15 @@
   "url": "/news/blagorodnye-razboyniki/",
   "original_url": "http://spidermedia.ru/news/blagorodnye-razboyniki",
   "archived": "https://web.archive.org/web/20251012173732/http://spidermedia.ru/news/blagorodnye-razboyniki",
+  "tags": [
+    "salvador-larroka",
+    "kejbl",
+    "iks-fors",
+    "dennis-houpless",
+    "x-force",
+    "marvel",
+    "cable"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

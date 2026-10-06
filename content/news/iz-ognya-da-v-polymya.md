@@ -4,6 +4,20 @@
   "url": "/news/iz-ognya-da-v-polymya/",
   "original_url": "http://spidermedia.ru/news/iz-ognya-da-v-polymya",
   "archived": "https://web.archive.org/web/20260209114257/http://spidermedia.ru/news/iz-ognya-da-v-polymya",
+  "tags": [
+    "majk-keri",
+    "kris-jost",
+    "krejg-kajl",
+    "klejton-krejn",
+    "ibraim-roberson",
+    "zeb-uells",
+    "dastin-uiver",
+    "x-force",
+    "necrosha",
+    "marvel",
+    "legacy",
+    "x-men"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

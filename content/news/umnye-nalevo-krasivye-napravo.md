@@ -4,6 +4,12 @@
   "url": "/news/umnye-nalevo-krasivye-napravo/",
   "original_url": "http://spidermedia.ru/news/umnye-nalevo-krasivye-napravo",
   "archived": "https://web.archive.org/web/20250419045530/http://spidermedia.ru/news/umnye-nalevo-krasivye-napravo",
+  "tags": [
+    "x-men",
+    "wolverine",
+    "marvel",
+    "kris-bachalo"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

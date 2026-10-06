@@ -4,6 +4,11 @@
   "url": "/news/ti-reks-venom-protiv-somaliyskih-piratov/",
   "original_url": "http://spidermedia.ru/news/ti-reks-venom-protiv-somaliyskih-piratov",
   "archived": "https://web.archive.org/web/20251206160903/http://spidermedia.ru/news/ti-reks-venom-protiv-somaliyskih-piratov",
+  "tags": [
+    "stiv-makniven",
+    "mark-millar",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

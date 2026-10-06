@@ -4,6 +4,9 @@
   "url": "/comics/all-things-valiant-33-week-05/",
   "original_url": "http://spidermedia.ru/comics/all-things-valiant-33-week-05",
   "archived": "https://web.archive.org/web/20260208202040/http://spidermedia.ru/comics/all-things-valiant-33-week-05",
+  "tags": [
+    "valiant-entertainment"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

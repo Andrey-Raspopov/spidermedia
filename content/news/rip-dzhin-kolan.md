@@ -4,6 +4,9 @@
   "url": "/news/rip-dzhin-kolan/",
   "original_url": "https://spidermedia.ru/news/rip-dzhin-kolan",
   "archived": "https://web.archive.org/web/20260213064311/https://spidermedia.ru/news/rip-dzhin-kolan",
+  "tags": [
+    "dzhin-kolan"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

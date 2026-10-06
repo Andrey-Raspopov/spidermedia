@@ -4,6 +4,11 @@
   "url": "/blog/redson/chto-stoit-zhdat-29-sentyabrya-2010/",
   "original_url": "http://spidermedia.ru/blog/redson/chto-stoit-zhdat-29-sentyabrya-2010",
   "archived": "https://web.archive.org/web/20120608153254/http://spidermedia.ru/blog/redson/chto-stoit-zhdat-29-sentyabrya-2010",
+  "tags": [
+    "komiksy",
+    "mnenie",
+    "chto-stoit-zhdat"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

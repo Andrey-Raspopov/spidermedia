@@ -4,6 +4,9 @@
   "url": "/news/doh-jones-novoe-izdatelstvo-komiksov-v-rossii/",
   "original_url": "https://spidermedia.ru/news/doh-jones-novoe-izdatelstvo-komiksov-v-rossii",
   "archived": "https://web.archive.org/web/20260206220122/https://spidermedia.ru/news/doh-jones-novoe-izdatelstvo-komiksov-v-rossii",
+  "tags": [
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

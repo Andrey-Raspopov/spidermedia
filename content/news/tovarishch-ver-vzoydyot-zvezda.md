@@ -4,6 +4,10 @@
   "url": "/news/tovarishch-ver-vzoydyot-zvezda/",
   "original_url": "http://spidermedia.ru/news/tovarishch-ver-vzoydyot-zvezda",
   "archived": "https://web.archive.org/web/20260214132401/http://spidermedia.ru/news/tovarishch-ver-vzoydyot-zvezda",
+  "tags": [
+    "captain-marvel",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

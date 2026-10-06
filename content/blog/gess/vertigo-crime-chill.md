@@ -4,6 +4,12 @@
   "url": "/blog/gess/vertigo-crime-chill/",
   "original_url": "http://spidermedia.ru/blog/gess/vertigo-crime-chill",
   "archived": "https://web.archive.org/web/20260307064516/http://spidermedia.ru/blog/gess/vertigo-crime-chill",
+  "tags": [
+    "mishel-bertilorenci",
+    "dzhejson-starr",
+    "vertigo-crime",
+    "vertigo"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

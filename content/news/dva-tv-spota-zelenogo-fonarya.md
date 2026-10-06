@@ -4,6 +4,11 @@
   "url": "/news/dva-tv-spota-zelenogo-fonarya/",
   "original_url": "https://spidermedia.ru/news/dva-tv-spota-zelenogo-fonarya",
   "archived": "https://web.archive.org/web/20260211191304/https://spidermedia.ru/news/dva-tv-spota-zelenogo-fonarya",
+  "tags": [
+    "ssylki",
+    "dc-comics",
+    "green-lantern"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

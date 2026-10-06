@@ -4,6 +4,13 @@
   "url": "/news/ono-na-podhode/",
   "original_url": "http://spidermedia.ru/news/ono-na-podhode",
   "archived": "https://web.archive.org/web/20260117214231/http://spidermedia.ru/news/ono-na-podhode",
+  "tags": [
+    "batman",
+    "tony-daniel",
+    "dc-comics",
+    "toni-deniel",
+    "art-0"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/news/bratya-po-oruzhiyu/",
   "original_url": "http://spidermedia.ru/news/bratya-po-oruzhiyu",
   "archived": "https://web.archive.org/web/20140706033312/http://spidermedia.ru:80/news/bratya-po-oruzhiyu",
+  "tags": [
+    "comics",
+    "marvel",
+    "pol-dzhenkins"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

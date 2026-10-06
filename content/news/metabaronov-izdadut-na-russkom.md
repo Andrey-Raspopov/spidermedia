@@ -4,6 +4,11 @@
   "url": "/news/metabaronov-izdadut-na-russkom/",
   "original_url": "http://spidermedia.ru/news/metabaronov-izdadut-na-russkom",
   "archived": "https://web.archive.org/web/20250804011142/http://spidermedia.ru/news/metabaronov-izdadut-na-russkom",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "talking-head",
+    "metabarony"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/blog/hella/ya-shchit-kotoryy-ohranyaet-carstvo-lyudey/",
   "original_url": "http://spidermedia.ru/blog/hella/ya-shchit-kotoryy-ohranyaet-carstvo-lyudey",
   "archived": "https://web.archive.org/web/20250620074223/http://spidermedia.ru/blog/hella/ya-shchit-kotoryy-ohranyaet-carstvo-lyudey",
+  "tags": [
+    "mnenie",
+    "marvel",
+    "s.h.i.e.l.d"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

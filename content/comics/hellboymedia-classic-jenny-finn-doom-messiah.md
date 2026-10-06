@@ -4,6 +4,10 @@
   "url": "/comics/hellboymedia-classic-jenny-finn-doom-messiah/",
   "original_url": "https://spidermedia.ru/comics/hellboymedia-classic-jenny-finn-doom-messiah",
   "archived": "https://web.archive.org/web/20260209111156/https://spidermedia.ru/comics/hellboymedia-classic-jenny-finn-doom-messiah",
+  "tags": [
+    "hellboymedia",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

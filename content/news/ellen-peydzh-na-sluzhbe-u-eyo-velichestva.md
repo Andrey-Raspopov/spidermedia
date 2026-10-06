@@ -4,6 +4,12 @@
   "url": "/news/ellen-peydzh-na-sluzhbe-u-eyo-velichestva/",
   "original_url": "https://spidermedia.ru/news/ellen-peydzh-na-sluzhbe-u-eyo-velichestva",
   "archived": "https://web.archive.org/web/20260123092608/https://spidermedia.ru/news/ellen-peydzh-na-sluzhbe-u-eyo-velichestva",
+  "tags": [
+    "ellen-pejdzh",
+    "greg-rakka",
+    "queen-and-country",
+    "oni-press"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

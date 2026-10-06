@@ -4,6 +4,16 @@
   "url": "/news/tron-tor-i-pervyy-mstitel/",
   "original_url": "http://spidermedia.ru/news/tron-tor-i-pervyy-mstitel",
   "archived": "https://web.archive.org/web/20120607155202/http://spidermedia.ru/news/tron-tor-i-pervyy-mstitel",
+  "tags": [
+    "first-avenger-captain-america",
+    "thor",
+    "tron-legacy",
+    "kino",
+    "komiksy",
+    "marvel",
+    "pervyy-mstitel-kapitan-amerika",
+    "tor"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

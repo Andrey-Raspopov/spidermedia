@@ -4,6 +4,9 @@
   "url": "/comics/new-comics-day-july-14-2021/",
   "original_url": "https://spidermedia.ru/comics/new-comics-day-july-14-2021",
   "archived": "https://web.archive.org/web/20260307063555/https://spidermedia.ru/comics/new-comics-day-july-14-2021",
+  "tags": [
+    "den-novyh-komiksov"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

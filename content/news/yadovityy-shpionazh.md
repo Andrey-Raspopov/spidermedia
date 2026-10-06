@@ -4,6 +4,13 @@
   "url": "/news/yadovityy-shpionazh/",
   "original_url": "https://spidermedia.ru/news/yadovityy-shpionazh",
   "archived": "https://web.archive.org/web/20250806051016/https://spidermedia.ru/news/yadovityy-shpionazh",
+  "tags": [
+    "toni-mur",
+    "rik-remender",
+    "venom",
+    "art-0",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

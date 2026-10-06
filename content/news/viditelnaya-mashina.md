@@ -4,6 +4,12 @@
   "url": "/news/viditelnaya-mashina/",
   "original_url": "http://spidermedia.ru/news/viditelnaya-mashina",
   "archived": "https://web.archive.org/web/20260125115522/http://spidermedia.ru/news/viditelnaya-mashina",
+  "tags": [
+    "greg-pak",
+    "nycc-2010",
+    "komik-kon-v-nyu-jorke",
+    "r.b.-silva"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,17 @@
   "url": "/news/ultimate-comics-dekabr-2009/",
   "original_url": "http://spidermedia.ru/news/ultimate-comics-dekabr-2009",
   "archived": "https://web.archive.org/web/20250715003759/http://spidermedia.ru/news/ultimate-comics-dekabr-2009",
+  "tags": [
+    "ugadajka",
+    "nik-fyuri",
+    "avengers",
+    "mark-millar",
+    "brian-michael-bendis",
+    "ultimate",
+    "marvel",
+    "iron-man",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/comics/hellboymedia-mignola-spectrum-grand-master/",
   "original_url": "https://spidermedia.ru/comics/hellboymedia-mignola-spectrum-grand-master",
   "archived": "https://web.archive.org/web/20251207005434/https://spidermedia.ru/comics/hellboymedia-mignola-spectrum-grand-master",
+  "tags": [
+    "hellboymedia",
+    "novosti"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

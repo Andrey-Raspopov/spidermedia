@@ -4,6 +4,11 @@
   "url": "/comics/idw-budet-izdavat-mikki-mausa/",
   "original_url": "http://spidermedia.ru/comics/idw-budet-izdavat-mikki-mausa",
   "archived": "https://web.archive.org/web/20260215085757/http://spidermedia.ru/comics/idw-budet-izdavat-mikki-mausa",
+  "tags": [
+    "disney",
+    "idw-publishing",
+    "disnej"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

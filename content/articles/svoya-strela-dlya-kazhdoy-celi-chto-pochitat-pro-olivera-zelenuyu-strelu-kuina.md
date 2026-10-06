@@ -4,6 +4,10 @@
   "url": "/articles/svoya-strela-dlya-kazhdoy-celi-chto-pochitat-pro-olivera-zelenuyu-strelu-kuina/",
   "original_url": "http://spidermedia.ru/articles/svoya-strela-dlya-kazhdoy-celi-chto-pochitat-pro-olivera-zelenuyu-strelu-kuina",
   "archived": "https://web.archive.org/web/20251208070325/http://spidermedia.ru/articles/svoya-strela-dlya-kazhdoy-celi-chto-pochitat-pro-olivera-zelenuyu-strelu-kuina",
+  "tags": [
+    "green-arrow",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/blog/redson/mzhdz-some-kind-britches-holocaust/",
   "original_url": "http://spidermedia.ru/blog/redson/mzhdz-some-kind-britches-holocaust",
   "archived": "https://web.archive.org/web/20260206231533/http://spidermedia.ru/blog/redson/mzhdz-some-kind-britches-holocaust",
+  "tags": [
+    "mnenie",
+    "mzhdz"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

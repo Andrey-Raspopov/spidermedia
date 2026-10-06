@@ -4,6 +4,17 @@
   "url": "/news/vozvrashchenie-dzhedaya-ili-millar-nanosit-otvetnyy-udar/",
   "original_url": "http://spidermedia.ru/news/vozvrashchenie-dzhedaya-ili-millar-nanosit-otvetnyy-udar",
   "archived": "https://web.archive.org/web/20250803090335/http://spidermedia.ru/news/vozvrashchenie-dzhedaya-ili-millar-nanosit-otvetnyy-udar",
+  "tags": [
+    "avengers",
+    "mark-millar",
+    "lejnil-frensis-yu",
+    "karlos-pacheko",
+    "ultimate",
+    "nycc-2009",
+    "komik-kon-v-nyu-yorke",
+    "new-york-comic-con",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

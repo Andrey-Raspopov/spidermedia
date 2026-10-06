@@ -4,6 +4,11 @@
   "url": "/news/pervyy-vzglyad-na-kapitana-holoda/",
   "original_url": "http://spidermedia.ru/news/pervyy-vzglyad-na-kapitana-holoda",
   "archived": "https://web.archive.org/web/20251107025426/http://spidermedia.ru/news/pervyy-vzglyad-na-kapitana-holoda",
+  "tags": [
+    "the-flash",
+    "serialy",
+    "kapitan-holod"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

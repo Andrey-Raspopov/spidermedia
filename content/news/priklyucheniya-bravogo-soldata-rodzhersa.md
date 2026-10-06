@@ -4,6 +4,16 @@
   "url": "/news/priklyucheniya-bravogo-soldata-rodzhersa/",
   "original_url": "http://spidermedia.ru/news/priklyucheniya-bravogo-soldata-rodzhersa",
   "archived": "https://web.archive.org/web/20260211193217/http://spidermedia.ru/news/priklyucheniya-bravogo-soldata-rodzhersa",
+  "tags": [
+    "era-geroev",
+    "ed-brubaker",
+    "stiv-rodzhers",
+    "marko-dzhurdzhevich",
+    "dejl-iglshem",
+    "steve-rogers",
+    "marvel",
+    "heroic-age"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/games/mario-and-luigi-paper-jam-bros/",
   "original_url": "https://spidermedia.ru/games/mario-and-luigi-paper-jam-bros",
   "archived": "https://web.archive.org/web/20260120153400/https://spidermedia.ru/games/mario-and-luigi-paper-jam-bros",
+  "tags": [
+    "recenziya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

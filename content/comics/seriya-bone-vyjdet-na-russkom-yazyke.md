@@ -4,6 +4,9 @@
   "url": "/comics/seriya-bone-vyjdet-na-russkom-yazyke/",
   "original_url": "http://spidermedia.ru/comics/seriya-bone-vyjdet-na-russkom-yazyke",
   "archived": "https://web.archive.org/web/20150424003828/http://spidermedia.ru/comics/seriya-bone-vyjdet-na-russkom-yazyke",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

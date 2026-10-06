@@ -4,6 +4,9 @@
   "url": "/comics/new-doctor-strange-series/",
   "original_url": "http://spidermedia.ru/comics/new-doctor-strange-series",
   "archived": "https://web.archive.org/web/20260309003224/http://spidermedia.ru/comics/new-doctor-strange-series",
+  "tags": [
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/blog/sir-carnage/flash-rip/",
   "original_url": "http://spidermedia.ru/blog/sir-carnage/flash-rip",
   "archived": "https://web.archive.org/web/20250215000301/http://spidermedia.ru/blog/sir-carnage/flash-rip",
+  "tags": [
+    "yumor",
+    "fanfikshn",
+    "the-flash",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,16 @@
   "url": "/news/marvel-vypustit-tri-novyh-serii-komiksov-po-zvezdnym-voynam-0/",
   "original_url": "http://spidermedia.ru/news/marvel-vypustit-tri-novyh-serii-komiksov-po-zvezdnym-voynam-0",
   "archived": "https://web.archive.org/web/20251117011148/http://spidermedia.ru/news/marvel-vypustit-tri-novyh-serii-komiksov-po-zvezdnym-voynam-0",
+  "tags": [
+    "terri-dodson",
+    "salvador-larroka",
+    "mark-waid",
+    "marvel",
+    "kiron-gillen",
+    "zvezdnye-vojny",
+    "dzhon-kessedej",
+    "dzheyson-aaron"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

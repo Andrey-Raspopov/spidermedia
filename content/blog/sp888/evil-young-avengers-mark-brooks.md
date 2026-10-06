@@ -4,6 +4,15 @@
   "url": "/blog/sp888/evil-young-avengers-mark-brooks/",
   "original_url": "http://spidermedia.ru/blog/sp888/evil-young-avengers-mark-brooks",
   "archived": "https://web.archive.org/web/20111018080848/http://spidermedia.ru/blog/sp888/evil-young-avengers-mark-brooks",
+  "tags": [
+    "dark-reign",
+    "marvel",
+    "young-avengers",
+    "art-0",
+    "komiksy",
+    "mark-bruks",
+    "pol-kornell"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/news/tizer-poster-voskresheniya-temnogo-rycarya/",
   "original_url": "https://spidermedia.ru/news/tizer-poster-voskresheniya-temnogo-rycarya",
   "archived": "https://web.archive.org/web/20260120142859/https://spidermedia.ru/news/tizer-poster-voskresheniya-temnogo-rycarya",
+  "tags": [
+    "postery",
+    "dc-comics",
+    "dark-knight-rises",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

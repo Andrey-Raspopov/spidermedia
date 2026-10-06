@@ -4,6 +4,14 @@
   "url": "/news/deadpool-shou-prodolzhaetsya/",
   "original_url": "https://spidermedia.ru/news/deadpool-shou-prodolzhaetsya",
   "archived": "https://web.archive.org/web/20251108183452/https://spidermedia.ru/news/deadpool-shou-prodolzhaetsya",
+  "tags": [
+    "fred-van-lente",
+    "umberto-ramos",
+    "deadpool",
+    "dalibor-taladzhich",
+    "art-0",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

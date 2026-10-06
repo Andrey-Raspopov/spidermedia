@@ -4,6 +4,14 @@
   "url": "/news/spider-man-dekabr-2010/",
   "original_url": "http://spidermedia.ru/news/spider-man-dekabr-2010",
   "archived": "https://web.archive.org/web/20120610213906/http://spidermedia.ru/news/spider-man-dekabr-2010",
+  "tags": [
+    "amazing-spider-man",
+    "spider-man",
+    "art-0",
+    "komiksy",
+    "oblozhki",
+    "chelovek-pauk"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

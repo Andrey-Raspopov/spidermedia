@@ -4,6 +4,11 @@
   "url": "/tv/supergirl-s01e06-red-faced/",
   "original_url": "https://spidermedia.ru/tv/supergirl-s01e06-red-faced",
   "archived": "https://web.archive.org/web/20260116214635/https://spidermedia.ru/tv/supergirl-s01e06-red-faced",
+  "tags": [
+    "dc-comics",
+    "krasnyj-tornado",
+    "supergirl"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

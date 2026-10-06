@@ -4,6 +4,12 @@
   "url": "/news/kruto-svarennyy/",
   "original_url": "http://spidermedia.ru/news/kruto-svarennyy",
   "archived": "https://web.archive.org/web/20250923153444/http://spidermedia.ru/news/kruto-svarennyy",
+  "tags": [
+    "frenk-miller",
+    "zarubezhnye-komiksy-na-russkom",
+    "dark-horse",
+    "izdatelstvo-42"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

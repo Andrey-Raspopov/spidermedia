@@ -4,6 +4,15 @@
   "url": "/news/nycc10-astonishing-captain-america/",
   "original_url": "http://spidermedia.ru/news/nycc10-astonishing-captain-america",
   "archived": "https://web.archive.org/web/20251211020036/http://spidermedia.ru/news/nycc10-astonishing-captain-america",
+  "tags": [
+    "endi-diggl",
+    "adi-granov",
+    "new-york-comic-con",
+    "marvel",
+    "captain-america",
+    "komik-kon-v-nyu-yorke",
+    "nycc-2010"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/blog/zipop/i-bez-geympada/",
   "original_url": "http://spidermedia.ru/blog/zipop/i-bez-geympada",
   "archived": "https://web.archive.org/web/20260211183219/http://spidermedia.ru/blog/zipop/i-bez-geympada",
+  "tags": [
+    "igry",
+    "gadzhety",
+    "project-natal"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

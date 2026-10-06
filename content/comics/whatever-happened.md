@@ -4,6 +4,13 @@
   "url": "/comics/whatever-happened/",
   "original_url": "http://spidermedia.ru/comics/whatever-happened",
   "archived": "https://web.archive.org/web/20251208074403/http://spidermedia.ru/comics/whatever-happened",
+  "tags": [
+    "batman-week",
+    "dc-comics",
+    "batman",
+    "neil-gaiman",
+    "endi-kubert"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

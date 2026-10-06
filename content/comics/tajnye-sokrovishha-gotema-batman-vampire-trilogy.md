@@ -4,6 +4,11 @@
   "url": "/comics/tajnye-sokrovishha-gotema-batman-vampire-trilogy/",
   "original_url": "http://spidermedia.ru/comics/tajnye-sokrovishha-gotema-batman-vampire-trilogy",
   "archived": "https://web.archive.org/web/20251209135458/http://spidermedia.ru/comics/tajnye-sokrovishha-gotema-batman-vampire-trilogy",
+  "tags": [
+    "dc-comics",
+    "batman",
+    "batman-week"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

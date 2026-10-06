@@ -4,6 +4,12 @@
   "url": "/blog/krofes/rosomaha-i-lyudi-iks-14-seriy-iz-26-wolverine-and-x-men/",
   "original_url": "http://spidermedia.ru/blog/krofes/rosomaha-i-lyudi-iks-14-seriy-iz-26-wolverine-and-x-men",
   "archived": "https://web.archive.org/web/20220819224555/http://spidermedia.ru/blog/krofes/rosomaha-i-lyudi-iks-14-seriy-iz-26-wolverine-and-x-men",
+  "tags": [
+    "x-men",
+    "marvel",
+    "animaciya",
+    "wolverine"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

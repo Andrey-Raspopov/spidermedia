@@ -4,6 +4,13 @@
   "url": "/news/cable-voyna-zakonchena/",
   "original_url": "http://spidermedia.ru/news/cable-voyna-zakonchena",
   "archived": "https://web.archive.org/web/20260215084309/http://spidermedia.ru/news/cable-voyna-zakonchena",
+  "tags": [
+    "marvel",
+    "cable",
+    "hope",
+    "kejbl",
+    "nadezhda"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

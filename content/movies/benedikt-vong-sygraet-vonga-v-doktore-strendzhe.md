@@ -4,6 +4,10 @@
   "url": "/movies/benedikt-vong-sygraet-vonga-v-doktore-strendzhe/",
   "original_url": "http://spidermedia.ru/movies/benedikt-vong-sygraet-vonga-v-doktore-strendzhe",
   "archived": "https://web.archive.org/web/20260120145724/http://spidermedia.ru/movies/benedikt-vong-sygraet-vonga-v-doktore-strendzhe",
+  "tags": [
+    "marvel",
+    "doctor-strange"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

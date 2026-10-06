@@ -4,6 +4,11 @@
   "url": "/news/eksklyuziv-prevyu-chetvertogo-toma-temnoy-bashni/",
   "original_url": "http://spidermedia.ru/news/eksklyuziv-prevyu-chetvertogo-toma-temnoy-bashni",
   "archived": "https://web.archive.org/web/20220815202211/http://spidermedia.ru/news/eksklyuziv-prevyu-chetvertogo-toma-temnoy-bashni",
+  "tags": [
+    "tyomnaya-bashnya",
+    "izdatelstvo-ast",
+    "zarubezhnye-komiksy-na-russkom"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

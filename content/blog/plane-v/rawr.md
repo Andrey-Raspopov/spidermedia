@@ -4,6 +4,12 @@
   "url": "/blog/plane-v/rawr/",
   "original_url": "https://spidermedia.ru/blog/plane-v/rawr",
   "archived": "https://web.archive.org/web/20250324060521/https://spidermedia.ru/blog/plane-v/rawr",
+  "tags": [
+    "koncept-art",
+    "superman",
+    "development-hell",
+    "tim-berton"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

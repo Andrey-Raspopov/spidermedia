@@ -4,6 +4,11 @@
   "url": "/comics/roskomnadzor-special-comic-con-russia/",
   "original_url": "https://spidermedia.ru/comics/roskomnadzor-special-comic-con-russia",
   "archived": "https://web.archive.org/web/20260307071329/https://spidermedia.ru/comics/roskomnadzor-special-comic-con-russia",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "roskomnadzor",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

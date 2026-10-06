@@ -4,6 +4,12 @@
   "url": "/news/youre-under-arrest/",
   "original_url": "http://spidermedia.ru/news/youre-under-arrest",
   "archived": "https://web.archive.org/web/20260314083832/http://spidermedia.ru/news/youre-under-arrest",
+  "tags": [
+    "frenk-miller",
+    "rob-uillyams",
+    "robocop",
+    "dynamite-entertainment"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

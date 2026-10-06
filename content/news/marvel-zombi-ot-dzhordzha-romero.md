@@ -4,6 +4,10 @@
   "url": "/news/marvel-zombi-ot-dzhordzha-romero/",
   "original_url": "http://spidermedia.ru/news/marvel-zombi-ot-dzhordzha-romero",
   "archived": "https://web.archive.org/web/20150427190446/http://spidermedia.ru/news/marvel-zombi-ot-dzhordzha-romero",
+  "tags": [
+    "marvel-comics",
+    "zombi"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

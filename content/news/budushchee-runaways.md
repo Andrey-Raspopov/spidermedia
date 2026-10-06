@@ -4,6 +4,11 @@
   "url": "/news/budushchee-runaways/",
   "original_url": "https://spidermedia.ru/news/budushchee-runaways",
   "archived": "https://web.archive.org/web/20251216173618/https://spidermedia.ru/news/budushchee-runaways",
+  "tags": [
+    "beglecy",
+    "runaways",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

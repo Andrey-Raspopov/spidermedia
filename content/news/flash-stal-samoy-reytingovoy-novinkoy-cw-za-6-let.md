@@ -4,6 +4,10 @@
   "url": "/news/flash-stal-samoy-reytingovoy-novinkoy-cw-za-6-let/",
   "original_url": "https://spidermedia.ru/news/flash-stal-samoy-reytingovoy-novinkoy-cw-za-6-let",
   "archived": "https://web.archive.org/web/20250324063155/https://spidermedia.ru/news/flash-stal-samoy-reytingovoy-novinkoy-cw-za-6-let",
+  "tags": [
+    "the-flash",
+    "serialy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

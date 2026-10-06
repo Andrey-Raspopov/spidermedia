@@ -4,6 +4,12 @@
   "url": "/news/tor-2-carstvo-tmy-personalnyy-poster-odina-i-novyy-poster-s-loki/",
   "original_url": "https://spidermedia.ru/news/tor-2-carstvo-tmy-personalnyy-poster-odina-i-novyy-poster-s-loki",
   "archived": "https://web.archive.org/web/20240911141522/https://spidermedia.ru/news/tor-2-carstvo-tmy-personalnyy-poster-odina-i-novyy-poster-s-loki",
+  "tags": [
+    "entoni-hopkins",
+    "thor",
+    "postery",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

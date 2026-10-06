@@ -4,6 +4,9 @@
   "url": "/news/nil-geyman-priedet-v-moskvu/",
   "original_url": "http://spidermedia.ru/news/nil-geyman-priedet-v-moskvu",
   "archived": "https://web.archive.org/web/20251107005749/http://spidermedia.ru/news/nil-geyman-priedet-v-moskvu",
+  "tags": [
+    "neil-gaiman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

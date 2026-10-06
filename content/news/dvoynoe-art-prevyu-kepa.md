@@ -4,6 +4,18 @@
   "url": "/news/dvoynoe-art-prevyu-kepa/",
   "original_url": "http://spidermedia.ru/news/dvoynoe-art-prevyu-kepa",
   "archived": "https://web.archive.org/web/20260117225603/http://spidermedia.ru/news/dvoynoe-art-prevyu-kepa",
+  "tags": [
+    "marvel",
+    "mark-waid",
+    "preview",
+    "captain-america",
+    "dejl-iglshem",
+    "ed-brubaker",
+    "rodzher-stern",
+    "luke-ross",
+    "rikki-barnes",
+    "rikki-barns"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

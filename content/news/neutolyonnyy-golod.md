@@ -4,6 +4,12 @@
   "url": "/news/neutolyonnyy-golod/",
   "original_url": "http://spidermedia.ru/news/neutolyonnyy-golod",
   "archived": "https://web.archive.org/web/20260209115856/http://spidermedia.ru/news/neutolyonnyy-golod",
+  "tags": [
+    "galactus",
+    "ultimate",
+    "marvel",
+    "san-diego-comic-con-international"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

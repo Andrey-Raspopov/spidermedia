@@ -4,6 +4,14 @@
   "url": "/news/rukovodstvo-k-temneyshey-nochi/",
   "original_url": "https://spidermedia.ru/news/rukovodstvo-k-temneyshey-nochi",
   "archived": "https://web.archive.org/web/20251014040408/https://spidermedia.ru/news/rukovodstvo-k-temneyshey-nochi",
+  "tags": [
+    "chernaya-ruka",
+    "temnejshaya-noch",
+    "obzor",
+    "green-lantern",
+    "dc-comics",
+    "blackest-night"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

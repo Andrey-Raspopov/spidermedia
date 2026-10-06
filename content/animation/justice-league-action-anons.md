@@ -4,6 +4,10 @@
   "url": "/animation/justice-league-action-anons/",
   "original_url": "http://spidermedia.ru/animation/justice-league-action-anons",
   "archived": "https://web.archive.org/web/20251012182400/http://spidermedia.ru/animation/justice-league-action-anons",
+  "tags": [
+    "dc-comics",
+    "justice-league"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

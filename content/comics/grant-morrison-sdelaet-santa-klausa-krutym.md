@@ -4,6 +4,10 @@
   "url": "/comics/grant-morrison-sdelaet-santa-klausa-krutym/",
   "original_url": "http://spidermedia.ru/comics/grant-morrison-sdelaet-santa-klausa-krutym",
   "archived": "https://web.archive.org/web/20260312012813/http://spidermedia.ru/comics/grant-morrison-sdelaet-santa-klausa-krutym",
+  "tags": [
+    "boom-studios",
+    "grant-morrison"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

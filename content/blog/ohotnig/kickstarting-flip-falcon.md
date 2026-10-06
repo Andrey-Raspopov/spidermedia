@@ -4,6 +4,9 @@
   "url": "/blog/ohotnig/kickstarting-flip-falcon/",
   "original_url": "http://spidermedia.ru/blog/ohotnig/kickstarting-flip-falcon",
   "archived": "https://web.archive.org/web/20150320091258/http://spidermedia.ru/blog/ohotnig/kickstarting-flip-falcon",
+  "tags": [
+    "russkie-komiksy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

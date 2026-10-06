@@ -4,6 +4,10 @@
   "url": "/blog/sterpazook/avengers-v-reklame/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/avengers-v-reklame",
   "archived": "https://web.archive.org/web/20120608172200/http://spidermedia.ru/blog/sterpazook/avengers-v-reklame",
+  "tags": [
+    "avengers",
+    "reklama"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/comics/monsters-unleashed-chudishha-atakuyut-vselennuyu-marvel-v-novom-globalnom-sobytii/",
   "original_url": "http://spidermedia.ru/comics/monsters-unleashed-chudishha-atakuyut-vselennuyu-marvel-v-novom-globalnom-sobytii",
   "archived": "https://web.archive.org/web/20250620065106/http://spidermedia.ru/comics/monsters-unleashed-chudishha-atakuyut-vselennuyu-marvel-v-novom-globalnom-sobytii",
+  "tags": [
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

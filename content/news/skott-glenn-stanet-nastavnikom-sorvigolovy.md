@@ -4,6 +4,11 @@
   "url": "/news/skott-glenn-stanet-nastavnikom-sorvigolovy/",
   "original_url": "https://spidermedia.ru/news/skott-glenn-stanet-nastavnikom-sorvigolovy",
   "archived": "https://web.archive.org/web/20251216120636/https://spidermedia.ru/news/skott-glenn-stanet-nastavnikom-sorvigolovy",
+  "tags": [
+    "serialy",
+    "daredevil",
+    "kasting"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

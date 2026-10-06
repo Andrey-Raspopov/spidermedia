@@ -4,6 +4,10 @@
   "url": "/news/vyigray-bilet-v-kinoteatr-sinema-star-2/",
   "original_url": "http://spidermedia.ru/news/vyigray-bilet-v-kinoteatr-sinema-star-2",
   "archived": "https://web.archive.org/web/20150501124402/http://spidermedia.ru/news/vyigray-bilet-v-kinoteatr-sinema-star-2",
+  "tags": [
+    "konkurs",
+    "kino"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,14 @@
   "url": "/tv/sdcc-2016-prizrachnyj-gonshhik-poyavitsya-v-agentah-shhita/",
   "original_url": "https://spidermedia.ru/tv/sdcc-2016-prizrachnyj-gonshhik-poyavitsya-v-agentah-shhita",
   "archived": "https://web.archive.org/web/20260314082039/https://spidermedia.ru/tv/sdcc-2016-prizrachnyj-gonshhik-poyavitsya-v-agentah-shhita",
+  "tags": [
+    "marvel",
+    "s.h.i.e.l.d",
+    "agenty-shhita",
+    "prizrachnyj-gonshhik",
+    "shhit",
+    "san-diego-comic-con-international"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/news/fabrika-koshmarov-im-chaykina-predstavlyaet/",
   "original_url": "http://spidermedia.ru/news/fabrika-koshmarov-im-chaykina-predstavlyaet",
   "archived": "https://web.archive.org/web/20200224084830/http://spidermedia.ru:80/news/fabrika-koshmarov-im-chaykina-predstavlyaet",
+  "tags": [
+    "govard-chajkin",
+    "art-0",
+    "marvel",
+    "dominic-fortune"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

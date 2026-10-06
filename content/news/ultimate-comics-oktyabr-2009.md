@@ -4,6 +4,20 @@
   "url": "/news/ultimate-comics-oktyabr-2009/",
   "original_url": "http://spidermedia.ru/news/ultimate-comics-oktyabr-2009",
   "archived": "https://web.archive.org/web/20120607055053/http://spidermedia.ru/news/ultimate-comics-oktyabr-2009",
+  "tags": [
+    "iron-man",
+    "spider-man",
+    "ultimate",
+    "brayan-maykl-bendis",
+    "zheleznyy-chelovek",
+    "komiksy",
+    "marvel",
+    "mark-millar",
+    "mstiteli",
+    "nik-fyuri",
+    "ugadayka",
+    "chelovek-pauk"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/news/patrik-fyudzhit-sygraet-glavnuyu-rol-v-ekranizacii-outcast/",
   "original_url": "http://spidermedia.ru/news/patrik-fyudzhit-sygraet-glavnuyu-rol-v-ekranizacii-outcast",
   "archived": "https://web.archive.org/web/20250315181914/http://spidermedia.ru/news/patrik-fyudzhit-sygraet-glavnuyu-rol-v-ekranizacii-outcast",
+  "tags": [
+    "serialy",
+    "robert-kirkman",
+    "image-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,13 @@
   "url": "/news/days-second-coming-part-2/",
   "original_url": "https://spidermedia.ru/news/days-second-coming-part-2",
   "archived": "https://web.archive.org/web/20260314083441/https://spidermedia.ru/news/days-second-coming-part-2",
+  "tags": [
+    "iks-faktor",
+    "x-men",
+    "x-factor",
+    "second-coming",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

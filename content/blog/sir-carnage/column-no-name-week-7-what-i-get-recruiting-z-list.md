@@ -4,6 +4,18 @@
   "url": "/blog/sir-carnage/column-no-name-week-7-what-i-get-recruiting-z-list/",
   "original_url": "http://spidermedia.ru/blog/sir-carnage/column-no-name-week-7-what-i-get-recruiting-z-list",
   "archived": "https://web.archive.org/web/20251207101722/http://spidermedia.ru/blog/sir-carnage/column-no-name-week-7-what-i-get-recruiting-z-list",
+  "tags": [
+    "geoff-johns",
+    "galactus",
+    "vertigo",
+    "skaar",
+    "marvel",
+    "jsa",
+    "final-crisis",
+    "fables",
+    "dc-comics",
+    "the-column-with-no-name"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

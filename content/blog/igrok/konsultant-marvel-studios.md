@@ -4,6 +4,11 @@
   "url": "/blog/igrok/konsultant-marvel-studios/",
   "original_url": "http://spidermedia.ru/blog/igrok/konsultant-marvel-studios",
   "archived": "https://web.archive.org/web/20190719101417/http://spidermedia.ru/blog/igrok/konsultant-marvel-studios",
+  "tags": [
+    "avengers",
+    "hulk",
+    "toni-stark"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

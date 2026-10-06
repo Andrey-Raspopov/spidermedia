@@ -4,6 +4,11 @@
   "url": "/blog/igrok/obsuzhdaem-film-pervyy-mstitel-drugaya-voyna/",
   "original_url": "https://spidermedia.ru/blog/igrok/obsuzhdaem-film-pervyy-mstitel-drugaya-voyna",
   "archived": "https://web.archive.org/web/20250715221139/https://spidermedia.ru/blog/igrok/obsuzhdaem-film-pervyy-mstitel-drugaya-voyna",
+  "tags": [
+    "captain-america",
+    "winter-soldier",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

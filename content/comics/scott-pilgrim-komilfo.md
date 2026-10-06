@@ -4,6 +4,13 @@
   "url": "/comics/scott-pilgrim-komilfo/",
   "original_url": "http://spidermedia.ru/comics/scott-pilgrim-komilfo",
   "archived": "https://web.archive.org/web/20260208200628/http://spidermedia.ru/comics/scott-pilgrim-komilfo",
+  "tags": [
+    "bryan-lee-o-malley",
+    "zarubezhnye-komiksy-na-russkom",
+    "komilfo",
+    "scott-pilgrim",
+    "recenziya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

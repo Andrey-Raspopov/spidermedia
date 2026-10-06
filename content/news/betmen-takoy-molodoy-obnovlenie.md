@@ -4,6 +4,12 @@
   "url": "/news/betmen-takoy-molodoy-obnovlenie/",
   "original_url": "https://spidermedia.ru/news/betmen-takoy-molodoy-obnovlenie",
   "archived": "https://web.archive.org/web/20241104090240/https://spidermedia.ru/news/betmen-takoy-molodoy-obnovlenie",
+  "tags": [
+    "frenk-kuajtli",
+    "art-0",
+    "dc-comics",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

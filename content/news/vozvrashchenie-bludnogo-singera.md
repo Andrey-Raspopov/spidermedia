@@ -4,6 +4,9 @@
   "url": "/news/vozvrashchenie-bludnogo-singera/",
   "original_url": "http://spidermedia.ru/news/vozvrashchenie-bludnogo-singera",
   "archived": "https://web.archive.org/web/20170908231157/http://spidermedia.ru:80/news/vozvrashchenie-bludnogo-singera",
+  "tags": [
+    "x-men"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/comics/grazhdanskaya-vojna-ii-vybor-sdelan/",
   "original_url": "https://spidermedia.ru/comics/grazhdanskaya-vojna-ii-vybor-sdelan",
   "archived": "https://web.archive.org/web/20241106121144/https://spidermedia.ru/comics/grazhdanskaya-vojna-ii-vybor-sdelan",
+  "tags": [
+    "marvel",
+    "civil-war"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

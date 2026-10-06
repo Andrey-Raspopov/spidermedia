@@ -4,6 +4,11 @@
   "url": "/blog/sonyn/spidermedia-gameblog-1-batman-arkham-asylum/",
   "original_url": "https://spidermedia.ru/blog/sonyn/spidermedia-gameblog-1-batman-arkham-asylum",
   "archived": "https://web.archive.org/web/20260314082442/https://spidermedia.ru/blog/sonyn/spidermedia-gameblog-1-batman-arkham-asylum",
+  "tags": [
+    "batman",
+    "igry",
+    "arkham-asylum"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

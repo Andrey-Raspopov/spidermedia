@@ -4,6 +4,12 @@
   "url": "/news/ya-zombi/",
   "original_url": "http://spidermedia.ru/news/ya-zombi",
   "archived": "https://web.archive.org/web/20260313121024/http://spidermedia.ru/news/ya-zombi",
+  "tags": [
+    "vertigo",
+    "majk-ollred",
+    "izombie",
+    "kris-roberson"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

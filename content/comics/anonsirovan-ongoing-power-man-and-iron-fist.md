@@ -4,6 +4,11 @@
   "url": "/comics/anonsirovan-ongoing-power-man-and-iron-fist/",
   "original_url": "http://spidermedia.ru/comics/anonsirovan-ongoing-power-man-and-iron-fist",
   "archived": "https://web.archive.org/web/20251115190207/http://spidermedia.ru/comics/anonsirovan-ongoing-power-man-and-iron-fist",
+  "tags": [
+    "marvel",
+    "iron-fist",
+    "luke-cage"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

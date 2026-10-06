@@ -4,6 +4,11 @@
   "url": "/blog/fox1992/marvel-fest-2009/",
   "original_url": "https://spidermedia.ru/blog/fox1992/marvel-fest-2009",
   "archived": "https://web.archive.org/web/20240720155236/https://spidermedia.ru/blog/fox1992/marvel-fest-2009",
+  "tags": [
+    "motion-comics",
+    "marvel",
+    "x-men"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

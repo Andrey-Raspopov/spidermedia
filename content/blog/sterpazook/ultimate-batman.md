@@ -4,6 +4,15 @@
   "url": "/blog/sterpazook/ultimate-batman/",
   "original_url": "https://spidermedia.ru/blog/sterpazook/ultimate-batman",
   "archived": "https://web.archive.org/web/20250709062210/https://spidermedia.ru/blog/sterpazook/ultimate-batman",
+  "tags": [
+    "dc-comics",
+    "fanart",
+    "batman",
+    "art-0",
+    "deviantart",
+    "redizajn",
+    "ultimizing"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

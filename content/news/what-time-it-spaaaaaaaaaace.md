@@ -4,6 +4,9 @@
   "url": "/news/what-time-it-spaaaaaaaaaace/",
   "original_url": "http://spidermedia.ru/news/what-time-it-spaaaaaaaaaace",
   "archived": "https://web.archive.org/web/20251006140340/http://spidermedia.ru/news/what-time-it-spaaaaaaaaaace",
+  "tags": [
+    "animaciya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

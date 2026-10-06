@@ -4,6 +4,15 @@
   "url": "/news/dyavolskoe-prevyu-daredevil-501/",
   "original_url": "http://spidermedia.ru/news/dyavolskoe-prevyu-daredevil-501",
   "archived": "https://web.archive.org/web/20251206154430/http://spidermedia.ru/news/dyavolskoe-prevyu-daredevil-501",
+  "tags": [
+    "marvel",
+    "endi-diggl",
+    "preview",
+    "art-0",
+    "daredevil",
+    "dardevil",
+    "roberto-de-la-torre"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

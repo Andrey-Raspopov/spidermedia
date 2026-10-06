@@ -4,6 +4,11 @@
   "url": "/news/mstiteli-parochka-novyh-kadrov/",
   "original_url": "http://spidermedia.ru/news/mstiteli-parochka-novyh-kadrov",
   "archived": "https://web.archive.org/web/20260309175319/http://spidermedia.ru/news/mstiteli-parochka-novyh-kadrov",
+  "tags": [
+    "marvel",
+    "ultimate",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

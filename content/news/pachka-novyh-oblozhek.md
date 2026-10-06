@@ -4,6 +4,20 @@
   "url": "/news/pachka-novyh-oblozhek/",
   "original_url": "http://spidermedia.ru/news/pachka-novyh-oblozhek",
   "archived": "https://web.archive.org/web/20251115190920/http://spidermedia.ru/news/pachka-novyh-oblozhek",
+  "tags": [
+    "fil-noto",
+    "toni-deniel",
+    "betgyorl",
+    "betvuman",
+    "bill-sinkevich",
+    "tony-daniel",
+    "phil-noto",
+    "j.h.-williams",
+    "detective-comics",
+    "dc-comics",
+    "batman",
+    "endi-kubert"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

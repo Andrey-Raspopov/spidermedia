@@ -4,6 +4,13 @@
   "url": "/blog/bastion7/treylery-kotoryh-net-dopolnennye/",
   "original_url": "https://spidermedia.ru/blog/bastion7/treylery-kotoryh-net-dopolnennye",
   "archived": "https://web.archive.org/web/20250808200141/https://spidermedia.ru/blog/bastion7/treylery-kotoryh-net-dopolnennye",
+  "tags": [
+    "fanstaff",
+    "trejlery",
+    "green-lantern",
+    "dc-comics",
+    "justice-league"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

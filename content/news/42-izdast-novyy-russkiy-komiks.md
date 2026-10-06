@@ -4,6 +4,11 @@
   "url": "/news/42-izdast-novyy-russkiy-komiks/",
   "original_url": "http://spidermedia.ru/news/42-izdast-novyy-russkiy-komiks",
   "archived": "https://web.archive.org/web/20250717183238/http://spidermedia.ru/news/42-izdast-novyy-russkiy-komiks",
+  "tags": [
+    "russian-comics",
+    "izdatelstvo-42",
+    "vtoroj"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

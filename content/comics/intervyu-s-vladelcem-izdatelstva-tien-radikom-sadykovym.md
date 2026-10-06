@@ -4,6 +4,11 @@
   "url": "/comics/intervyu-s-vladelcem-izdatelstva-tien-radikom-sadykovym/",
   "original_url": "http://spidermedia.ru/comics/intervyu-s-vladelcem-izdatelstva-tien-radikom-sadykovym",
   "archived": "https://web.archive.org/web/20240720054930/http://spidermedia.ru/comics/intervyu-s-vladelcem-izdatelstva-tien-radikom-sadykovym",
+  "tags": [
+    "russian-comics",
+    "tien-print",
+    "intervyu"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,16 @@
   "url": "/news/komu-nuzhny-porno-zombi/",
   "original_url": "http://spidermedia.ru/news/komu-nuzhny-porno-zombi",
   "archived": "https://web.archive.org/web/20200127141510/http://spidermedia.ru:80/news/komu-nuzhny-porno-zombi",
+  "tags": [
+    "zombie",
+    "rik-remender",
+    "image-comics",
+    "zombi",
+    "xxxombies",
+    "rick-remender",
+    "kajron-duajer",
+    "kieron-dwyer"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

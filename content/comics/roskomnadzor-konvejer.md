@@ -4,6 +4,11 @@
   "url": "/comics/roskomnadzor-konvejer/",
   "original_url": "https://spidermedia.ru/comics/roskomnadzor-konvejer",
   "archived": "https://web.archive.org/web/20260307062759/https://spidermedia.ru/comics/roskomnadzor-konvejer",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "roskomnadzor",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,14 @@
   "url": "/news/dzhad-da-ya-bolvan-kotoryy-vernul-dzheysona-todda-vinik/",
   "original_url": "http://spidermedia.ru/news/dzhad-da-ya-bolvan-kotoryy-vernul-dzheysona-todda-vinik",
   "archived": "https://web.archive.org/web/20260121001945/http://spidermedia.ru/news/dzhad-da-ya-bolvan-kotoryy-vernul-dzheysona-todda-vinik",
+  "tags": [
+    "dc-comics",
+    "batman",
+    "dzhadd-vinik",
+    "intervyu",
+    "judd-winick",
+    "ed-benes"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

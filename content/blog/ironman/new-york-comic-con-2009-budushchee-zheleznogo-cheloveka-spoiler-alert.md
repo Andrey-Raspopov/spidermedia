@@ -4,6 +4,12 @@
   "url": "/blog/ironman/new-york-comic-con-2009-budushchee-zheleznogo-cheloveka-spoiler-alert/",
   "original_url": "http://spidermedia.ru/blog/ironman/new-york-comic-con-2009-budushchee-zheleznogo-cheloveka-spoiler-alert",
   "archived": "https://web.archive.org/web/20251014032448/http://spidermedia.ru/blog/ironman/new-york-comic-con-2009-budushchee-zheleznogo-cheloveka-spoiler-alert",
+  "tags": [
+    "marvel",
+    "iron-man",
+    "nycc-2009",
+    "matt-fraction"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

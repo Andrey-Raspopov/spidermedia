@@ -4,6 +4,9 @@
   "url": "/comics/all-things-valiant-46-week-19/",
   "original_url": "http://spidermedia.ru/comics/all-things-valiant-46-week-19",
   "archived": "https://web.archive.org/web/20260125063836/http://spidermedia.ru/comics/all-things-valiant-46-week-19",
+  "tags": [
+    "valiant-entertainment"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

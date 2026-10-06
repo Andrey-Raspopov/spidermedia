@@ -4,6 +4,13 @@
   "url": "/news/longshot-speshit-na-pomosh/",
   "original_url": "http://spidermedia.ru/news/longshot-speshit-na-pomosh",
   "archived": "https://web.archive.org/web/20250808212245/http://spidermedia.ru/news/longshot-speshit-na-pomosh",
+  "tags": [
+    "longshot",
+    "kristofer-hastings",
+    "dzhakopo-kamani",
+    "san-diego-comic-con-international",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/blog/plane-v/legacy/",
   "original_url": "http://spidermedia.ru/blog/plane-v/legacy",
   "archived": "https://web.archive.org/web/20250429003757/http://spidermedia.ru/blog/plane-v/legacy",
+  "tags": [
+    "obzory"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

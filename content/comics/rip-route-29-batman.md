@@ -4,6 +4,9 @@
   "url": "/comics/rip-route-29-batman/",
   "original_url": "https://spidermedia.ru/comics/rip-route-29-batman",
   "archived": "https://web.archive.org/web/20260117225142/https://spidermedia.ru/comics/rip-route-29-batman",
+  "tags": [
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/news/novyy-banner-flesha/",
   "original_url": "http://spidermedia.ru/news/novyy-banner-flesha",
   "archived": "https://web.archive.org/web/20230320155359/http://spidermedia.ru/news/novyy-banner-flesha",
+  "tags": [
+    "the-flash",
+    "serialy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

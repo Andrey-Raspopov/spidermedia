@@ -4,6 +4,10 @@
   "url": "/comics/dead-no-more-oficialnyj-anons/",
   "original_url": "http://spidermedia.ru/comics/dead-no-more-oficialnyj-anons",
   "archived": "https://web.archive.org/web/20250210025813/http://spidermedia.ru/comics/dead-no-more-oficialnyj-anons",
+  "tags": [
+    "marvel",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

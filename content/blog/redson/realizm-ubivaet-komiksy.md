@@ -4,6 +4,9 @@
   "url": "/blog/redson/realizm-ubivaet-komiksy/",
   "original_url": "http://spidermedia.ru/blog/redson/realizm-ubivaet-komiksy",
   "archived": "https://web.archive.org/web/20190915020150/http://spidermedia.ru:80/blog/redson/realizm-ubivaet-komiksy",
+  "tags": [
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

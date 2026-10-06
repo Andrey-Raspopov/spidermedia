@@ -4,6 +4,16 @@
   "url": "/news/entertainment-weekly-pervyy-vzglyad-na-pervogo-mstitelya/",
   "original_url": "http://spidermedia.ru/news/entertainment-weekly-pervyy-vzglyad-na-pervogo-mstitelya",
   "archived": "https://web.archive.org/web/20120607092558/http://spidermedia.ru/news/entertainment-weekly-pervyy-vzglyad-na-pervogo-mstitelya",
+  "tags": [
+    "captain-america",
+    "first-avenger-captain-america",
+    "kapitan-amerika",
+    "kino",
+    "komiksy",
+    "kris-evans",
+    "marvel",
+    "pervyy-mstitel-kapitan-amerika"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

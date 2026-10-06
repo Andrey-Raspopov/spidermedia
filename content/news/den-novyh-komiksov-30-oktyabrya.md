@@ -4,6 +4,9 @@
   "url": "/news/den-novyh-komiksov-30-oktyabrya/",
   "original_url": "https://spidermedia.ru/news/den-novyh-komiksov-30-oktyabrya",
   "archived": "https://web.archive.org/web/20250519183945/https://spidermedia.ru/news/den-novyh-komiksov-30-oktyabrya",
+  "tags": [
+    "den-novyh-komiksov"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

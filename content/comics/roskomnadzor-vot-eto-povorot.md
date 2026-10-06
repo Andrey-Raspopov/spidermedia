@@ -4,6 +4,11 @@
   "url": "/comics/roskomnadzor-vot-eto-povorot/",
   "original_url": "http://spidermedia.ru/comics/roskomnadzor-vot-eto-povorot",
   "archived": "https://web.archive.org/web/20230322230928/http://spidermedia.ru/comics/roskomnadzor-vot-eto-povorot",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "roskomnadzor",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

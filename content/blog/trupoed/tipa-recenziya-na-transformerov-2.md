@@ -4,6 +4,9 @@
   "url": "/blog/trupoed/tipa-recenziya-na-transformerov-2/",
   "original_url": "https://spidermedia.ru/blog/trupoed/tipa-recenziya-na-transformerov-2",
   "archived": "https://web.archive.org/web/20251013185204/https://spidermedia.ru/blog/trupoed/tipa-recenziya-na-transformerov-2",
+  "tags": [
+    "transformers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

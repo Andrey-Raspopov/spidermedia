@@ -4,6 +4,12 @@
   "url": "/news/eksklyuziv-komilfo-vypustit-undertow-na-russkom-0/",
   "original_url": "http://spidermedia.ru/news/eksklyuziv-komilfo-vypustit-undertow-na-russkom-0",
   "archived": "https://web.archive.org/web/20251012181239/http://spidermedia.ru/news/eksklyuziv-komilfo-vypustit-undertow-na-russkom-0",
+  "tags": [
+    "image-comics",
+    "artem-trahanov",
+    "zarubezhnye-komiksy-na-russkom",
+    "komilfo"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

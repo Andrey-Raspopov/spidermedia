@@ -4,6 +4,10 @@
   "url": "/news/syfy-ekraniziruet-pax-romana/",
   "original_url": "http://spidermedia.ru/news/syfy-ekraniziruet-pax-romana",
   "archived": "https://web.archive.org/web/20260309185205/http://spidermedia.ru/news/syfy-ekraniziruet-pax-romana",
+  "tags": [
+    "serialy",
+    "dzhonatan-hikman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

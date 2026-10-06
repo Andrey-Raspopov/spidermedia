@@ -4,6 +4,10 @@
   "url": "/news/imax-poster-hraniteley/",
   "original_url": "http://spidermedia.ru/news/imax-poster-hraniteley",
   "archived": "https://web.archive.org/web/20250715005527/http://spidermedia.ru/news/imax-poster-hraniteley",
+  "tags": [
+    "hraniteli",
+    "postery"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

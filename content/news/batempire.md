@@ -4,6 +4,11 @@
   "url": "/news/batempire/",
   "original_url": "http://spidermedia.ru/news/batempire",
   "archived": "https://web.archive.org/web/20250913023145/http://spidermedia.ru/news/batempire",
+  "tags": [
+    "temnyj-rycar",
+    "dark-knight-rises",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

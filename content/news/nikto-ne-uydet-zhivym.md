@@ -4,6 +4,12 @@
   "url": "/news/nikto-ne-uydet-zhivym/",
   "original_url": "http://spidermedia.ru/news/nikto-ne-uydet-zhivym",
   "archived": "https://web.archive.org/web/20251216122311/http://spidermedia.ru/news/nikto-ne-uydet-zhivym",
+  "tags": [
+    "marvel",
+    "kallen-bann",
+    "deadpool",
+    "dalibor-taladzhich"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

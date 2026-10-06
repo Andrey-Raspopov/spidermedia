@@ -4,6 +4,13 @@
   "url": "/news/vozvrashchenie-na-planetu-obezyan/",
   "original_url": "http://spidermedia.ru/news/vozvrashchenie-na-planetu-obezyan",
   "archived": "https://web.archive.org/web/20150426193836/http://spidermedia.ru/news/vozvrashchenie-na-planetu-obezyan",
+  "tags": [
+    "marvel-comics",
+    "halk",
+    "skaar",
+    "greg-pak",
+    "ron-lim"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

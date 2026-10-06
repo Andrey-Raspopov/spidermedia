@@ -4,6 +4,9 @@
   "url": "/podcast/spider-talk-1-harli-didio-i-ne-tolko-oni/",
   "original_url": "http://spidermedia.ru/podcast/spider-talk-1-harli-didio-i-ne-tolko-oni",
   "archived": "https://web.archive.org/web/20260121010507/http://spidermedia.ru/podcast/spider-talk-1-harli-didio-i-ne-tolko-oni",
+  "tags": [
+    "spider-talk"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/comics/spidermedia-anniversary-wonder-woman-beginning/",
   "original_url": "https://spidermedia.ru/comics/spidermedia-anniversary-wonder-woman-beginning",
   "archived": "https://web.archive.org/web/20260208211444/https://spidermedia.ru/comics/spidermedia-anniversary-wonder-woman-beginning",
+  "tags": [
+    "spidermedia-15th-anniversary",
+    "dc-comics",
+    "wonder-woman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

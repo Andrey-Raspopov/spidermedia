@@ -4,6 +4,13 @@
   "url": "/news/komiks-umbrella-academy-budet-izdan-na-russkom-yazyke/",
   "original_url": "http://spidermedia.ru/news/komiks-umbrella-academy-budet-izdan-na-russkom-yazyke",
   "archived": "https://web.archive.org/web/20250913013913/http://spidermedia.ru/news/komiks-umbrella-academy-budet-izdan-na-russkom-yazyke",
+  "tags": [
+    "komilfo",
+    "dzherard-vej",
+    "gabriel-ba",
+    "umbrella-academy",
+    "zarubezhnye-komiksy-na-russkom"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

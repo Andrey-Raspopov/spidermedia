@@ -4,6 +4,15 @@
   "url": "/news/art-prevyu-ultimate-comics-thor-1/",
   "original_url": "https://spidermedia.ru/news/art-prevyu-ultimate-comics-thor-1",
   "archived": "https://web.archive.org/web/20250325095004/https://spidermedia.ru/news/art-prevyu-ultimate-comics-thor-1",
+  "tags": [
+    "preview",
+    "karlos-pacheko",
+    "dzhonatan-hikman",
+    "art-0",
+    "ultimate",
+    "thor",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

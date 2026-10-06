@@ -4,6 +4,12 @@
   "url": "/blog/bastion7/eto-po-svoemu-prekrasno/",
   "original_url": "https://spidermedia.ru/blog/bastion7/eto-po-svoemu-prekrasno",
   "archived": "https://web.archive.org/web/20251108193852/https://spidermedia.ru/blog/bastion7/eto-po-svoemu-prekrasno",
+  "tags": [
+    "trejlery",
+    "parodii",
+    "hraniteli",
+    "animaciya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/movies/kameo-flesha-v-batman-v-superman-i-podrobnosti-vzrosloj-versii-filma/",
   "original_url": "https://spidermedia.ru/movies/kameo-flesha-v-batman-v-superman-i-podrobnosti-vzrosloj-versii-filma",
   "archived": "https://web.archive.org/web/20260121005734/https://spidermedia.ru/movies/kameo-flesha-v-batman-v-superman-i-podrobnosti-vzrosloj-versii-filma",
+  "tags": [
+    "dc-comics",
+    "batman",
+    "superman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

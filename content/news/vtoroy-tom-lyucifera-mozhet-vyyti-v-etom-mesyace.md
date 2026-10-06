@@ -4,6 +4,13 @@
   "url": "/news/vtoroy-tom-lyucifera-mozhet-vyyti-v-etom-mesyace/",
   "original_url": "https://spidermedia.ru/news/vtoroy-tom-lyucifera-mozhet-vyyti-v-etom-mesyace",
   "archived": "https://web.archive.org/web/20260313105851/https://spidermedia.ru/news/vtoroy-tom-lyucifera-mozhet-vyyti-v-etom-mesyace",
+  "tags": [
+    "lyucifer",
+    "zarubezhnye-komiksy-na-russkom",
+    "vertigo",
+    "komiks-art",
+    "eksmo"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/news/poslanniki-nebes-ili-temnaya-liga-spravedlivosti/",
   "original_url": "http://spidermedia.ru/news/poslanniki-nebes-ili-temnaya-liga-spravedlivosti",
   "archived": "https://web.archive.org/web/20260215073237/http://spidermedia.ru/news/poslanniki-nebes-ili-temnaya-liga-spravedlivosti",
+  "tags": [
+    "justice-league-dark",
+    "dc-comics",
+    "dzhon-konstantin"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

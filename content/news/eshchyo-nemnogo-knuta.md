@@ -4,6 +4,16 @@
   "url": "/news/eshchyo-nemnogo-knuta/",
   "original_url": "https://spidermedia.ru/news/eshchyo-nemnogo-knuta",
   "archived": "https://web.archive.org/web/20251115021909/https://spidermedia.ru/news/eshchyo-nemnogo-knuta",
+  "tags": [
+    "iron-man",
+    "marvel",
+    "whiplash",
+    "brendon-peterson",
+    "knut",
+    "mark-guggenhajm",
+    "marko-dzhurdzhevich",
+    "preview"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

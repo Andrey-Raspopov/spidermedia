@@ -4,6 +4,13 @@
   "url": "/blog/sterpazook/matthew-santoros-offline/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/matthew-santoros-offline",
   "archived": "https://web.archive.org/web/20120607143951/http://spidermedia.ru/blog/sterpazook/matthew-santoros-offline",
+  "tags": [
+    "science",
+    "video",
+    "kiberpank",
+    "kino",
+    "trailers"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

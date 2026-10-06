@@ -4,6 +4,15 @@
   "url": "/news/patriot/",
   "original_url": "http://spidermedia.ru/news/patriot",
   "archived": "https://web.archive.org/web/20140719010049/http://spidermedia.ru:80/news/patriot",
+  "tags": [
+    "art-0",
+    "captain-america",
+    "comics",
+    "marvel",
+    "pol-dzhenkins",
+    "preview-s",
+    "ed-brubeyker"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

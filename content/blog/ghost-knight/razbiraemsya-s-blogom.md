@@ -4,6 +4,9 @@
   "url": "/blog/ghost-knight/razbiraemsya-s-blogom/",
   "original_url": "http://spidermedia.ru/blog/ghost-knight/razbiraemsya-s-blogom",
   "archived": "https://web.archive.org/web/20120608195425/http://spidermedia.ru/blog/ghost-knight/razbiraemsya-s-blogom",
+  "tags": [
+    "vstuplenie"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

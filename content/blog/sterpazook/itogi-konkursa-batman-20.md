@@ -4,6 +4,13 @@
   "url": "/blog/sterpazook/itogi-konkursa-batman-20/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/itogi-konkursa-batman-20",
   "archived": "https://web.archive.org/web/20120608193338/http://spidermedia.ru/blog/sterpazook/itogi-konkursa-batman-20",
+  "tags": [
+    "batman",
+    "ultimizing",
+    "betmen",
+    "redizayn",
+    "fanart"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

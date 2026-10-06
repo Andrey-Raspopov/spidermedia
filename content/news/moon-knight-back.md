@@ -4,6 +4,14 @@
   "url": "/news/moon-knight-back/",
   "original_url": "http://spidermedia.ru/news/moon-knight-back",
   "archived": "https://web.archive.org/web/20260115061810/http://spidermedia.ru/news/moon-knight-back",
+  "tags": [
+    "moon-knight",
+    "devid-finch",
+    "dzherom-openya",
+    "greg-hurvitc",
+    "art-0",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

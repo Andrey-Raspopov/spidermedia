@@ -4,6 +4,12 @@
   "url": "/news/chego-zhdat-ot-new-ultimates/",
   "original_url": "https://spidermedia.ru/news/chego-zhdat-ot-new-ultimates",
   "archived": "https://web.archive.org/web/20250806050723/https://spidermedia.ru/news/chego-zhdat-ot-new-ultimates",
+  "tags": [
+    "frenk-cho",
+    "dzhef-loeb",
+    "ultimate",
+    "ultimates"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

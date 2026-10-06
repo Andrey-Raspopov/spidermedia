@@ -4,6 +4,13 @@
   "url": "/news/pauchiy-blokbaster/",
   "original_url": "https://spidermedia.ru/news/pauchiy-blokbaster",
   "archived": "https://web.archive.org/web/20260117230533/https://spidermedia.ru/news/pauchiy-blokbaster",
+  "tags": [
+    "zeb-uells",
+    "dzho-madurejra",
+    "art-0",
+    "spider-man",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

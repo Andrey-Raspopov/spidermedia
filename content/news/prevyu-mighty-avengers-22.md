@@ -4,6 +4,12 @@
   "url": "/news/prevyu-mighty-avengers-22/",
   "original_url": "http://spidermedia.ru/news/prevyu-mighty-avengers-22",
   "archived": "https://web.archive.org/web/20120718110431/http://spidermedia.ru/news/prevyu-mighty-avengers-22",
+  "tags": [
+    "den-slott",
+    "komiksy",
+    "marvel",
+    "preview-s"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

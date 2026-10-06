@@ -4,6 +4,10 @@
   "url": "/news/punisher-back/",
   "original_url": "http://spidermedia.ru/news/punisher-back",
   "archived": "https://web.archive.org/web/20250913015018/http://spidermedia.ru/news/punisher-back",
+  "tags": [
+    "punisher",
+    "adi-shankar"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

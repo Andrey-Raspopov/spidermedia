@@ -4,6 +4,12 @@
   "url": "/news/blame-canada/",
   "original_url": "http://spidermedia.ru/news/blame-canada",
   "archived": "https://web.archive.org/web/20251115184803/http://spidermedia.ru/news/blame-canada",
+  "tags": [
+    "majk-makkon",
+    "justice-league",
+    "dzheff-lemir",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

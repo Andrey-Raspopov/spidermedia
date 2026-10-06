@@ -4,6 +4,12 @@
   "url": "/news/bez-iks-23/",
   "original_url": "https://spidermedia.ru/news/bez-iks-23",
   "archived": "https://web.archive.org/web/20260215081706/https://spidermedia.ru/news/bez-iks-23",
+  "tags": [
+    "x-men",
+    "mardzhori-lyu",
+    "majk-perkins",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

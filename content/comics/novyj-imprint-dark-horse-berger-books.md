@@ -4,6 +4,9 @@
   "url": "/comics/novyj-imprint-dark-horse-berger-books/",
   "original_url": "https://spidermedia.ru/comics/novyj-imprint-dark-horse-berger-books",
   "archived": "https://web.archive.org/web/20260206220546/https://spidermedia.ru/comics/novyj-imprint-dark-horse-berger-books",
+  "tags": [
+    "dark-horse"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

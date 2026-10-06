@@ -4,6 +4,13 @@
   "url": "/news/mstiteli-protiv-gromoverzhcev/",
   "original_url": "http://spidermedia.ru/news/mstiteli-protiv-gromoverzhcev",
   "archived": "https://web.archive.org/web/20251107004127/http://spidermedia.ru/news/mstiteli-protiv-gromoverzhcev",
+  "tags": [
+    "greg-lend",
+    "preview",
+    "thunderbolts",
+    "marvel",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

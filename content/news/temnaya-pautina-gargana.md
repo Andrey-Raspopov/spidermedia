@@ -4,6 +4,17 @@
   "url": "/news/temnaya-pautina-gargana/",
   "original_url": "http://spidermedia.ru/news/temnaya-pautina-gargana",
   "archived": "https://web.archive.org/web/20120607120456/http://spidermedia.ru/news/temnaya-pautina-gargana",
+  "tags": [
+    "sinister-spider-man",
+    "spider-man",
+    "barri-kitson",
+    "brayan-rid",
+    "komiksy",
+    "mayk-deodato",
+    "marvel",
+    "oblozhki",
+    "chelovek-pauk"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/news/novaya-avtorskaya-komanda-ongoinga-superman/",
   "original_url": "https://spidermedia.ru/news/novaya-avtorskaya-komanda-ongoinga-superman",
   "archived": "https://web.archive.org/web/20260305234812/https://spidermedia.ru/news/novaya-avtorskaya-komanda-ongoinga-superman",
+  "tags": [
+    "superman",
+    "dzhon-romita-ml",
+    "geoff-johns",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

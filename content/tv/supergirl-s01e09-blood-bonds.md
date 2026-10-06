@@ -4,6 +4,10 @@
   "url": "/tv/supergirl-s01e09-blood-bonds/",
   "original_url": "http://spidermedia.ru/tv/supergirl-s01e09-blood-bonds",
   "archived": "https://web.archive.org/web/20251108030843/http://spidermedia.ru/tv/supergirl-s01e09-blood-bonds",
+  "tags": [
+    "dc-comics",
+    "supergirl"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

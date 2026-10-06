@@ -4,6 +4,11 @@
   "url": "/news/preview-marvel-one-shot-all-hail-the-king-tevor-slattery-mandarin/",
   "original_url": "https://spidermedia.ru/news/preview-marvel-one-shot-all-hail-the-king-tevor-slattery-mandarin",
   "archived": "https://web.archive.org/web/20250804003133/https://spidermedia.ru/news/preview-marvel-one-shot-all-hail-the-king-tevor-slattery-mandarin",
+  "tags": [
+    "marvel",
+    "mandarin",
+    "iron-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

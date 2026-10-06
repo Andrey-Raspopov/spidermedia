@@ -4,6 +4,16 @@
   "url": "/news/liga-ot-dvuh-legend/",
   "original_url": "http://spidermedia.ru/news/liga-ot-dvuh-legend",
   "archived": "https://web.archive.org/web/20120607145246/http://spidermedia.ru/news/liga-ot-dvuh-legend",
+  "tags": [
+    "cyborg",
+    "dc-comics",
+    "donna-troy",
+    "green-arrow",
+    "green-lantern",
+    "justice-league",
+    "mon-el-0",
+    "komiksy"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

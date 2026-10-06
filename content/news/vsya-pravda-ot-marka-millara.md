@@ -4,6 +4,17 @@
   "url": "/news/vsya-pravda-ot-marka-millara/",
   "original_url": "http://spidermedia.ru/news/vsya-pravda-ot-marka-millara",
   "archived": "https://web.archive.org/web/20120512062511/http://spidermedia.ru/news/vsya-pravda-ot-marka-millara",
+  "tags": [
+    "avengers",
+    "captain-america",
+    "ultimate",
+    "ultimates",
+    "kapitan-amerika",
+    "kino",
+    "komiksy",
+    "mark-millar",
+    "mstiteli"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

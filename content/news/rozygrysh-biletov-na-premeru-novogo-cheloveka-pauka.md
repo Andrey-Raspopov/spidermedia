@@ -4,6 +4,11 @@
   "url": "/news/rozygrysh-biletov-na-premeru-novogo-cheloveka-pauka/",
   "original_url": "https://spidermedia.ru/news/rozygrysh-biletov-na-premeru-novogo-cheloveka-pauka",
   "archived": "https://web.archive.org/web/20260116223951/https://spidermedia.ru/news/rozygrysh-biletov-na-premeru-novogo-cheloveka-pauka",
+  "tags": [
+    "marvel",
+    "spider-man",
+    "konkurs"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

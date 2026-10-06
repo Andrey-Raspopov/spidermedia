@@ -4,6 +4,14 @@
   "url": "/blog/igrok/otzyv-o-superman-batman-apocalypse/",
   "original_url": "http://spidermedia.ru/blog/igrok/otzyv-o-superman-batman-apocalypse",
   "archived": "https://web.archive.org/web/20251108034729/http://spidermedia.ru/blog/igrok/otzyv-o-superman-batman-apocalypse",
+  "tags": [
+    "recenziya",
+    "superman",
+    "darksajd",
+    "animaciya",
+    "darkseid",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

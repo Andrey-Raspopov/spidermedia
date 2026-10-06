@@ -4,6 +4,11 @@
   "url": "/comics/recenziya-what-if-2018-flash-spider-man-exe-men/",
   "original_url": "http://spidermedia.ru/comics/recenziya-what-if-2018-flash-spider-man-exe-men",
   "archived": "https://web.archive.org/web/20260305230424/http://spidermedia.ru/comics/recenziya-what-if-2018-flash-spider-man-exe-men",
+  "tags": [
+    "marvel",
+    "x-men",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,14 @@
   "url": "/news/rosomaha-kadry-iz-filma/",
   "original_url": "http://spidermedia.ru/news/rosomaha-kadry-iz-filma",
   "archived": "https://web.archive.org/web/20250512115538/http://spidermedia.ru/news/rosomaha-kadry-iz-filma",
+  "tags": [
+    "x-men",
+    "wolverine",
+    "sabretooth",
+    "deadpool",
+    "gambit",
+    "sablezubyj"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,14 @@
   "url": "/news/mett-frakshn-i-greg-pak-govoryat-o-tom-chto-ozhidaet-zheleznogo-cheloveka-i-voitelya-v/",
   "original_url": "http://spidermedia.ru/news/mett-frakshn-i-greg-pak-govoryat-o-tom-chto-ozhidaet-zheleznogo-cheloveka-i-voitelya-v",
   "archived": "https://web.archive.org/web/20120718083828/http://spidermedia.ru/news/mett-frakshn-i-greg-pak-govoryat-o-tom-chto-ozhidaet-zheleznogo-cheloveka-i-voitelya-v",
+  "tags": [
+    "iron-man",
+    "war-machine",
+    "greg-pak",
+    "komiksy",
+    "marvel",
+    "mett-frakshen"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

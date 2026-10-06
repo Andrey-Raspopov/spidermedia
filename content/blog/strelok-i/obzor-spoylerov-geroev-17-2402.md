@@ -4,6 +4,11 @@
   "url": "/blog/strelok-i/obzor-spoylerov-geroev-17-2402/",
   "original_url": "http://spidermedia.ru/blog/strelok-i/obzor-spoylerov-geroev-17-2402",
   "archived": "https://web.archive.org/web/20210420145902/http://spidermedia.ru/blog/strelok-i/obzor-spoylerov-geroev-17-2402",
+  "tags": [
+    "serialy",
+    "heroes-spoilers",
+    "heroes"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

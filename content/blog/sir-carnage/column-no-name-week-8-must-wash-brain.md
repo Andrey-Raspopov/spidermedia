@@ -4,6 +4,15 @@
   "url": "/blog/sir-carnage/column-no-name-week-8-must-wash-brain/",
   "original_url": "http://spidermedia.ru/blog/sir-carnage/column-no-name-week-8-must-wash-brain",
   "archived": "https://web.archive.org/web/20251211033847/http://spidermedia.ru/blog/sir-carnage/column-no-name-week-8-must-wash-brain",
+  "tags": [
+    "vertigo",
+    "seaguy",
+    "marvel",
+    "human-torch",
+    "human-flame",
+    "dc-comics",
+    "the-column-with-no-name"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

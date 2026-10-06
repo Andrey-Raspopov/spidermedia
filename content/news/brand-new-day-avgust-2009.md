@@ -4,6 +4,24 @@
   "url": "/news/brand-new-day-avgust-2009/",
   "original_url": "http://spidermedia.ru/news/brand-new-day-avgust-2009",
   "archived": "https://web.archive.org/web/20120607055414/http://spidermedia.ru/news/brand-new-day-avgust-2009",
+  "tags": [
+    "brand-new-day",
+    "chameleon",
+    "mary-jane-watson",
+    "spider-man",
+    "adi-granov",
+    "art-0",
+    "barri-kitson",
+    "komiksy",
+    "mario-alberti",
+    "mark-ueyd",
+    "meri-dzheyn-vatson",
+    "oblozhki",
+    "skott-kembell",
+    "fred-van-lente",
+    "hameleon",
+    "chelovek-pauk"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

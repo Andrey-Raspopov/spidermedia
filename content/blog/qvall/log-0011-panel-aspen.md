@@ -4,6 +4,16 @@
   "url": "/blog/qvall/log-0011-panel-aspen/",
   "original_url": "http://spidermedia.ru/blog/qvall/log-0011-panel-aspen",
   "archived": "https://web.archive.org/web/20230202182042/http://spidermedia.ru/blog/qvall/log-0011-panel-aspen",
+  "tags": [
+    "novosti",
+    "majkl-terner",
+    "geoff-johns",
+    "aspen",
+    "wondercon",
+    "soulfire",
+    "michael-turner",
+    "aspen-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/news/ot-ketrin-ne-ubezhish/",
   "original_url": "http://spidermedia.ru/news/ot-ketrin-ne-ubezhish",
   "archived": "https://web.archive.org/web/20260115050806/http://spidermedia.ru/news/ot-ketrin-ne-ubezhish",
+  "tags": [
+    "marvel",
+    "runaways",
+    "sara-pichelli",
+    "ketrin-immonen"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

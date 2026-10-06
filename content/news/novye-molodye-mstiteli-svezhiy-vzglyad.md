@@ -4,6 +4,13 @@
   "url": "/news/novye-molodye-mstiteli-svezhiy-vzglyad/",
   "original_url": "http://spidermedia.ru/news/novye-molodye-mstiteli-svezhiy-vzglyad",
   "archived": "https://web.archive.org/web/20171015071809/http://spidermedia.ru:80/news/novye-molodye-mstiteli-svezhiy-vzglyad",
+  "tags": [
+    "marvel",
+    "avengers",
+    "young-avengers",
+    "pol-kornell",
+    "mark-bruks"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

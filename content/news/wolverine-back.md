@@ -4,6 +4,13 @@
   "url": "/news/wolverine-back/",
   "original_url": "http://spidermedia.ru/news/wolverine-back",
   "archived": "https://web.archive.org/web/20120608160105/http://spidermedia.ru/news/wolverine-back",
+  "tags": [
+    "hugh-jackman",
+    "wolverine",
+    "kino",
+    "rosomaha",
+    "hyu-dzhekman"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,13 @@
   "url": "/news/chudo-park-marka-millara/",
   "original_url": "http://spidermedia.ru/news/chudo-park-marka-millara",
   "archived": "https://web.archive.org/web/20120607190440/http://spidermedia.ru/news/chudo-park-marka-millara",
+  "tags": [
+    "miracle-park",
+    "kino",
+    "komiksy",
+    "mark-millar",
+    "chudo-park"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

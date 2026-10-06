@@ -4,6 +4,12 @@
   "url": "/news/green-lantern-promo/",
   "original_url": "http://spidermedia.ru/news/green-lantern-promo",
   "archived": "https://web.archive.org/web/20251208070538/http://spidermedia.ru/news/green-lantern-promo",
+  "tags": [
+    "kilovog",
+    "animaciya",
+    "kilowog",
+    "green-lantern"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

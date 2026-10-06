@@ -4,6 +4,11 @@
   "url": "/news/dva-rosomahi/",
   "original_url": "http://spidermedia.ru/news/dva-rosomahi",
   "archived": "https://web.archive.org/web/20150423182003/http://spidermedia.ru/news/dva-rosomahi",
+  "tags": [
+    "kino",
+    "wolverine",
+    "marvel-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

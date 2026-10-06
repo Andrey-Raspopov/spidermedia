@@ -4,6 +4,15 @@
   "url": "/news/supergeroi-budushchego/",
   "original_url": "https://spidermedia.ru/news/supergeroi-budushchego",
   "archived": "https://web.archive.org/web/20250913005936/https://spidermedia.ru/news/supergeroi-budushchego",
+  "tags": [
+    "stefano-kaselli",
+    "organizaciya-budushhego",
+    "marko-dzhurdzhevich",
+    "den-slott",
+    "art-0",
+    "spider-man",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

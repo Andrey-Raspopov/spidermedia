@@ -4,6 +4,14 @@
   "url": "/news/prevyu-neuyazvimyy-no31-0/",
   "original_url": "http://spidermedia.ru/news/prevyu-neuyazvimyy-no31-0",
   "archived": "https://web.archive.org/web/20251108035904/http://spidermedia.ru/news/prevyu-neuyazvimyy-no31-0",
+  "tags": [
+    "robert-kirkman",
+    "ryan-ottley",
+    "invincible",
+    "izdatelstvo-42",
+    "zarubezhnye-komiksy-na-russkom",
+    "image-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

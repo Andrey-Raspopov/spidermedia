@@ -4,6 +4,10 @@
   "url": "/comics/what-is-dc-rebirth/",
   "original_url": "https://spidermedia.ru/comics/what-is-dc-rebirth",
   "archived": "https://web.archive.org/web/20260313112929/https://spidermedia.ru/comics/what-is-dc-rebirth",
+  "tags": [
+    "dc-comics",
+    "geoff-johns"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

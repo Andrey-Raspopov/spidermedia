@@ -4,6 +4,10 @@
   "url": "/news/tyuremnye-strasti/",
   "original_url": "http://spidermedia.ru/news/tyuremnye-strasti",
   "archived": "https://web.archive.org/web/20120608220543/http://spidermedia.ru/news/tyuremnye-strasti",
+  "tags": [
+    "nightfall",
+    "kino"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

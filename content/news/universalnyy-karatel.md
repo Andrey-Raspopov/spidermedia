@@ -4,6 +4,15 @@
   "url": "/news/universalnyy-karatel/",
   "original_url": "http://spidermedia.ru/news/universalnyy-karatel",
   "archived": "https://web.archive.org/web/20120607142902/http://spidermedia.ru/news/universalnyy-karatel",
+  "tags": [
+    "punisher",
+    "karatel",
+    "komiksy",
+    "marvel",
+    "oblozhki",
+    "tom-reyni",
+    "francesko-mattina"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

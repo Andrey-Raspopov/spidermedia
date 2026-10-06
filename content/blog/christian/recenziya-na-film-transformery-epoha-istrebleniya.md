@@ -4,6 +4,11 @@
   "url": "/blog/christian/recenziya-na-film-transformery-epoha-istrebleniya/",
   "original_url": "https://spidermedia.ru/blog/christian/recenziya-na-film-transformery-epoha-istrebleniya",
   "archived": "https://web.archive.org/web/20251108033354/https://spidermedia.ru/blog/christian/recenziya-na-film-transformery-epoha-istrebleniya",
+  "tags": [
+    "transformers",
+    "recenziya",
+    "hasbro"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

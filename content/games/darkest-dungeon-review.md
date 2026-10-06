@@ -4,6 +4,9 @@
   "url": "/games/darkest-dungeon-review/",
   "original_url": "https://spidermedia.ru/games/darkest-dungeon-review",
   "archived": "https://web.archive.org/web/20251115032630/https://spidermedia.ru/games/darkest-dungeon-review",
+  "tags": [
+    "recenziya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

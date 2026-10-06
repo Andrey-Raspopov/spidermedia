@@ -4,6 +4,10 @@
   "url": "/blog/shargor/recenziya-na-film-godzilla/",
   "original_url": "http://spidermedia.ru/blog/shargor/recenziya-na-film-godzilla",
   "archived": "https://web.archive.org/web/20220815202655/http://spidermedia.ru/blog/shargor/recenziya-na-film-godzilla",
+  "tags": [
+    "recenziya",
+    "godzilla"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

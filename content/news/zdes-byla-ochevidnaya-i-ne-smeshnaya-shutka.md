@@ -4,6 +4,11 @@
   "url": "/news/zdes-byla-ochevidnaya-i-ne-smeshnaya-shutka/",
   "original_url": "http://spidermedia.ru/news/zdes-byla-ochevidnaya-i-ne-smeshnaya-shutka",
   "archived": "https://web.archive.org/web/20260117214137/http://spidermedia.ru/news/zdes-byla-ochevidnaya-i-ne-smeshnaya-shutka",
+  "tags": [
+    "green-lantern",
+    "earth-2",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

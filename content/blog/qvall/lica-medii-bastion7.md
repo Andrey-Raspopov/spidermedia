@@ -4,6 +4,10 @@
   "url": "/blog/qvall/lica-medii-bastion7/",
   "original_url": "http://spidermedia.ru/blog/qvall/lica-medii-bastion7",
   "archived": "https://web.archive.org/web/20190731042831/http://spidermedia.ru:80/blog/qvall/lica-medii-bastion7",
+  "tags": [
+    "intervyu",
+    "spidermedia"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

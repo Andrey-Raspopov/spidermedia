@@ -4,6 +4,11 @@
   "url": "/blog/hella/roskomnadzor-soskuchilis-po-mne-0/",
   "original_url": "https://spidermedia.ru/blog/hella/roskomnadzor-soskuchilis-po-mne-0",
   "archived": "https://web.archive.org/web/20260208203244/https://spidermedia.ru/blog/hella/roskomnadzor-soskuchilis-po-mne-0",
+  "tags": [
+    "russian-comics",
+    "roskomnadzor",
+    "zarubezhnye-komiksy-na-russkom"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

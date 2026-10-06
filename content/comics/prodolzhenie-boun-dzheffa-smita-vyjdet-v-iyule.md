@@ -4,6 +4,11 @@
   "url": "/comics/prodolzhenie-boun-dzheffa-smita-vyjdet-v-iyule/",
   "original_url": "http://spidermedia.ru/comics/prodolzhenie-boun-dzheffa-smita-vyjdet-v-iyule",
   "archived": "https://web.archive.org/web/20161110200136/http://spidermedia.ru:80/comics/prodolzhenie-boun-dzheffa-smita-vyjdet-v-iyule",
+  "tags": [
+    "bone",
+    "jeff-smith",
+    "dzhef-smit"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

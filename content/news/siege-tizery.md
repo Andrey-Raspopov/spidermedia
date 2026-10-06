@@ -4,6 +4,15 @@
   "url": "/news/siege-tizery/",
   "original_url": "http://spidermedia.ru/news/siege-tizery",
   "archived": "https://web.archive.org/web/20260308230604/http://spidermedia.ru/news/siege-tizery",
+  "tags": [
+    "sajmon-byanchi",
+    "osada",
+    "brendon-peterson",
+    "billi-tan",
+    "art-0",
+    "siege",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

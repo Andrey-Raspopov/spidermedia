@@ -4,6 +4,11 @@
   "url": "/news/angelus-i-drugie-artefakty-top-cow-universe/",
   "original_url": "http://spidermedia.ru/news/angelus-i-drugie-artefakty-top-cow-universe",
   "archived": "https://web.archive.org/web/20200127141415/http://spidermedia.ru:80/news/angelus-i-drugie-artefakty-top-cow-universe",
+  "tags": [
+    "angelus",
+    "trinity",
+    "top-cow"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

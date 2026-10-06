@@ -4,6 +4,10 @@
   "url": "/tv/daredevil-season-1-review/",
   "original_url": "http://spidermedia.ru/tv/daredevil-season-1-review",
   "archived": "https://web.archive.org/web/20260309181635/http://spidermedia.ru/tv/daredevil-season-1-review",
+  "tags": [
+    "marvel",
+    "daredevil"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

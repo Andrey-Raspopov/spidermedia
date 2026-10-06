@@ -4,6 +4,12 @@
   "url": "/blog/derden/komiksy-dc-universe-vypusk-no-06a/",
   "original_url": "https://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-06a",
   "archived": "https://web.archive.org/web/20260117220846/https://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-06a",
+  "tags": [
+    "dc-comics",
+    "brian-azzarello",
+    "batman",
+    "dc-universe-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

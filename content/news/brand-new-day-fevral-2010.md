@@ -4,6 +4,28 @@
   "url": "/news/brand-new-day-fevral-2010/",
   "original_url": "https://spidermedia.ru/news/brand-new-day-fevral-2010",
   "archived": "https://web.archive.org/web/20260211174226/https://spidermedia.ru/news/brand-new-day-fevral-2010",
+  "tags": [
+    "fred-van-lente",
+    "misterio",
+    "mister-negativ",
+    "markos-martin",
+    "mark-guggenhajm",
+    "majkl-lark",
+    "zeb-uells",
+    "elena-dzhurdzhevich",
+    "den-slott",
+    "dzho-kvinons",
+    "dzhekpot",
+    "barri-kitson",
+    "art-0",
+    "adriana-melo",
+    "mysterio",
+    "mister-negative",
+    "jackpot",
+    "black-cat",
+    "spider-man",
+    "chernaya-koshka"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/news/terri-mur-sest-vashu-dushu/",
   "original_url": "http://spidermedia.ru/news/terri-mur-sest-vashu-dushu",
   "archived": "https://web.archive.org/web/20200216105013/http://spidermedia.ru:80/news/terri-mur-sest-vashu-dushu",
+  "tags": [
+    "terri-mur"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

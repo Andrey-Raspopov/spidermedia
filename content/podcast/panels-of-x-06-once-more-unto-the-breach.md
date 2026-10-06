@@ -4,6 +4,10 @@
   "url": "/podcast/panels-of-x-06-once-more-unto-the-breach/",
   "original_url": "https://spidermedia.ru/podcast/panels-of-x-06-once-more-unto-the-breach",
   "archived": "https://web.archive.org/web/20250804011021/https://spidermedia.ru/podcast/panels-of-x-06-once-more-unto-the-breach",
+  "tags": [
+    "panels-of-x",
+    "on-panels"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

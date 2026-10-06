@@ -4,6 +4,14 @@
   "url": "/news/dzhon-karpenter-ekraniziruet-darkchylde/",
   "original_url": "http://spidermedia.ru/news/dzhon-karpenter-ekraniziruet-darkchylde",
   "archived": "https://web.archive.org/web/20111018100041/http://spidermedia.ru/news/dzhon-karpenter-ekraniziruet-darkchylde",
+  "tags": [
+    "darkchylde",
+    "randy-queen",
+    "darkchayld",
+    "kino",
+    "komiksy",
+    "rendi-kvin"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/blog/gess/ollo-my-ne-ishchem-talanty/",
   "original_url": "http://spidermedia.ru/blog/gess/ollo-my-ne-ishchem-talanty",
   "archived": "https://web.archive.org/web/20120608214046/http://spidermedia.ru/blog/gess/ollo-my-ne-ishchem-talanty",
+  "tags": [
+    "industriya",
+    "marvel"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

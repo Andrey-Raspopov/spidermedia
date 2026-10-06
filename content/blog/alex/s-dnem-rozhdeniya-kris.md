@@ -4,6 +4,11 @@
   "url": "/blog/alex/s-dnem-rozhdeniya-kris/",
   "original_url": "https://spidermedia.ru/blog/alex/s-dnem-rozhdeniya-kris",
   "archived": "https://web.archive.org/web/20251216174741/https://spidermedia.ru/blog/alex/s-dnem-rozhdeniya-kris",
+  "tags": [
+    "kristofer-riv",
+    "superman",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

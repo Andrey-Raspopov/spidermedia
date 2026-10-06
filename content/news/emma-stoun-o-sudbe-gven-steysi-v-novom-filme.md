@@ -4,6 +4,10 @@
   "url": "/news/emma-stoun-o-sudbe-gven-steysi-v-novom-filme/",
   "original_url": "http://spidermedia.ru/news/emma-stoun-o-sudbe-gven-steysi-v-novom-filme",
   "archived": "https://web.archive.org/web/20251107024231/http://spidermedia.ru/news/emma-stoun-o-sudbe-gven-steysi-v-novom-filme",
+  "tags": [
+    "spider-man",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/podcast/podkast-den-novyh-komiksov-50/",
   "original_url": "http://spidermedia.ru/podcast/podkast-den-novyh-komiksov-50",
   "archived": "https://web.archive.org/web/20220814182024/http://spidermedia.ru/podcast/podkast-den-novyh-komiksov-50",
+  "tags": [
+    "den-novyh-komiksov"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

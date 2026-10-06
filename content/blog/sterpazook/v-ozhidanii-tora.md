@@ -4,6 +4,15 @@
   "url": "/blog/sterpazook/v-ozhidanii-tora/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/v-ozhidanii-tora",
   "archived": "https://web.archive.org/web/20120608140542/http://spidermedia.ru/blog/sterpazook/v-ozhidanii-tora",
+  "tags": [
+    "hulk",
+    "thor",
+    "video",
+    "kino",
+    "tv-0",
+    "tor",
+    "halk"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

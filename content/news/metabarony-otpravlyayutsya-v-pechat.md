@@ -4,6 +4,12 @@
   "url": "/news/metabarony-otpravlyayutsya-v-pechat/",
   "original_url": "https://spidermedia.ru/news/metabarony-otpravlyayutsya-v-pechat",
   "archived": "https://web.archive.org/web/20251208073049/https://spidermedia.ru/news/metabarony-otpravlyayutsya-v-pechat",
+  "tags": [
+    "preview",
+    "metabarony",
+    "zarubezhnye-komiksy-na-russkom",
+    "talking-head"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

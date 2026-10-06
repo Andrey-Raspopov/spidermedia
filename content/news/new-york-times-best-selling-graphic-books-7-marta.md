@@ -4,6 +4,9 @@
   "url": "/news/new-york-times-best-selling-graphic-books-7-marta/",
   "original_url": "http://spidermedia.ru/news/new-york-times-best-selling-graphic-books-7-marta",
   "archived": "https://web.archive.org/web/20170910211013/http://spidermedia.ru:80/news/new-york-times-best-selling-graphic-books-7-marta",
+  "tags": [
+    "rejtingi-prodazh"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

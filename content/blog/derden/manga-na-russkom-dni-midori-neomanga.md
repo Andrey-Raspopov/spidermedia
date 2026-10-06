@@ -4,6 +4,12 @@
   "url": "/blog/derden/manga-na-russkom-dni-midori-neomanga/",
   "original_url": "https://spidermedia.ru/blog/derden/manga-na-russkom-dni-midori-neomanga",
   "archived": "https://web.archive.org/web/20251211022512/https://spidermedia.ru/blog/derden/manga-na-russkom-dni-midori-neomanga",
+  "tags": [
+    "manga",
+    "inoue-kadzuro",
+    "dni-midori",
+    "midori-no-hibi"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

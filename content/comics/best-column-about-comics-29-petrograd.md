@@ -4,6 +4,10 @@
   "url": "/comics/best-column-about-comics-29-petrograd/",
   "original_url": "https://spidermedia.ru/comics/best-column-about-comics-29-petrograd",
   "archived": "https://web.archive.org/web/20260211184808/https://spidermedia.ru/comics/best-column-about-comics-29-petrograd",
+  "tags": [
+    "best-column-about-comics",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

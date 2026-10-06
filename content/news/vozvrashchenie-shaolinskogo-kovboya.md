@@ -4,6 +4,11 @@
   "url": "/news/vozvrashchenie-shaolinskogo-kovboya/",
   "original_url": "https://spidermedia.ru/news/vozvrashchenie-shaolinskogo-kovboya",
   "archived": "https://web.archive.org/web/20251107035505/https://spidermedia.ru/news/vozvrashchenie-shaolinskogo-kovboya",
+  "tags": [
+    "shaolinskij-kovboj",
+    "preview",
+    "dark-horse"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

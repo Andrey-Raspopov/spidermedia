@@ -4,6 +4,15 @@
   "url": "/news/vzlety-i-padeniya-zelenoy-strely/",
   "original_url": "http://spidermedia.ru/news/vzlety-i-padeniya-zelenoy-strely",
   "archived": "https://web.archive.org/web/20250424100026/http://spidermedia.ru/news/vzlety-i-padeniya-zelenoy-strely",
+  "tags": [
+    "justice-league",
+    "dzhejms-robinson",
+    "intervyu",
+    "dzhej-ti-kral",
+    "arsenal",
+    "green-arrow",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

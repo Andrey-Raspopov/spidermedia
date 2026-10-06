@@ -4,6 +4,14 @@
   "url": "/blog/alex/rukovodstvo-k-temneyshey-nochi-chast-pyataya-korpus-sinestro-prodolzhenie/",
   "original_url": "http://spidermedia.ru/blog/alex/rukovodstvo-k-temneyshey-nochi-chast-pyataya-korpus-sinestro-prodolzhenie",
   "archived": "https://web.archive.org/web/20250909141426/http://spidermedia.ru/blog/alex/rukovodstvo-k-temneyshey-nochi-chast-pyataya-korpus-sinestro-prodolzhenie",
+  "tags": [
+    "temnejshaya-noch",
+    "obzor",
+    "sinestro-corps",
+    "green-lantern",
+    "dc-comics",
+    "blackest-night"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

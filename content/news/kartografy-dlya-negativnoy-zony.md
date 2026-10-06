@@ -4,6 +4,18 @@
   "url": "/news/kartografy-dlya-negativnoy-zony/",
   "original_url": "http://spidermedia.ru/news/kartografy-dlya-negativnoy-zony",
   "archived": "https://web.archive.org/web/20260214140855/http://spidermedia.ru/news/kartografy-dlya-negativnoy-zony",
+  "tags": [
+    "marvel",
+    "doctor-doom",
+    "fantastic-four",
+    "nycc-2009",
+    "dzhonatan-hikman",
+    "dejl-iglshem",
+    "thing",
+    "human-torch",
+    "invisible-woman",
+    "mr-fantastic"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

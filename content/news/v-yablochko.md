@@ -4,6 +4,14 @@
   "url": "/news/v-yablochko/",
   "original_url": "http://spidermedia.ru/news/v-yablochko",
   "archived": "https://web.archive.org/web/20200224084257/http://spidermedia.ru:80/news/v-yablochko",
+  "tags": [
+    "shon-martinbrou",
+    "charli-hyuston",
+    "tim-bredstrit",
+    "art-0",
+    "marvel",
+    "bullseye"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,17 @@
   "url": "/news/no-victor-no/",
   "original_url": "http://spidermedia.ru/news/no-victor-no",
   "archived": "https://web.archive.org/web/20250512111701/http://spidermedia.ru/news/no-victor-no",
+  "tags": [
+    "temnoe-pravlenie",
+    "majkl-lark",
+    "zagovorshhiki",
+    "zheleznyj-patriot",
+    "brian-michael-bendis",
+    "the-cabal",
+    "siege",
+    "marvel",
+    "iron-patriot"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

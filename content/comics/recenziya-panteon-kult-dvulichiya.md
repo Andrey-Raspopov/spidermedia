@@ -4,6 +4,11 @@
   "url": "/comics/recenziya-panteon-kult-dvulichiya/",
   "original_url": "http://spidermedia.ru/comics/recenziya-panteon-kult-dvulichiya",
   "archived": "https://web.archive.org/web/20251115173436/http://spidermedia.ru/comics/recenziya-panteon-kult-dvulichiya",
+  "tags": [
+    "recenziya",
+    "russian-comics",
+    "filipp-sosedov"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

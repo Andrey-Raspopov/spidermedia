@@ -4,6 +4,11 @@
   "url": "/comics/aktrisa-i-episkop-brajana-bollanda/",
   "original_url": "https://spidermedia.ru/comics/aktrisa-i-episkop-brajana-bollanda",
   "archived": "https://web.archive.org/web/20250209114307/https://spidermedia.ru/comics/aktrisa-i-episkop-brajana-bollanda",
+  "tags": [
+    "brian-bolland",
+    "zarubezhnye-komiksy-na-russkom",
+    "kommissiya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/comics/return-of-wolverine-1-review/",
   "original_url": "http://spidermedia.ru/comics/return-of-wolverine-1-review",
   "archived": "https://web.archive.org/web/20250324171115/http://spidermedia.ru/comics/return-of-wolverine-1-review",
+  "tags": [
+    "marvel",
+    "wolverine",
+    "stiv-makniven",
+    "charlz-soul"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

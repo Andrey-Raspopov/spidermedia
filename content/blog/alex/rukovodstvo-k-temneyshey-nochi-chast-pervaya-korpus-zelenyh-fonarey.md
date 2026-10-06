@@ -4,6 +4,13 @@
   "url": "/blog/alex/rukovodstvo-k-temneyshey-nochi-chast-pervaya-korpus-zelenyh-fonarey/",
   "original_url": "https://spidermedia.ru/blog/alex/rukovodstvo-k-temneyshey-nochi-chast-pervaya-korpus-zelenyh-fonarey",
   "archived": "https://web.archive.org/web/20251014033842/https://spidermedia.ru/blog/alex/rukovodstvo-k-temneyshey-nochi-chast-pervaya-korpus-zelenyh-fonarey",
+  "tags": [
+    "obzor",
+    "hal-jordan",
+    "green-lantern",
+    "dc-comics",
+    "blackest-night"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/news/sinestro-nayden/",
   "original_url": "https://spidermedia.ru/news/sinestro-nayden",
   "archived": "https://web.archive.org/web/20251216181907/https://spidermedia.ru/news/sinestro-nayden",
+  "tags": [
+    "sinestro",
+    "green-lantern"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

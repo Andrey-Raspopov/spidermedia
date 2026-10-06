@@ -4,6 +4,14 @@
   "url": "/news/izmenilas-data-premery-novyh-lyudey-iks/",
   "original_url": "http://spidermedia.ru/news/izmenilas-data-premery-novyh-lyudey-iks",
   "archived": "https://web.archive.org/web/20131206194116/http://spidermedia.ru/news/izmenilas-data-premery-novyh-lyudey-iks",
+  "tags": [
+    "x-men",
+    "brayan-singer",
+    "days-of-future-past",
+    "movie",
+    "lyudi-iks",
+    "marvel"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

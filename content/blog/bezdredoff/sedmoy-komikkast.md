@@ -4,6 +4,10 @@
   "url": "/blog/bezdredoff/sedmoy-komikkast/",
   "original_url": "http://spidermedia.ru/blog/bezdredoff/sedmoy-komikkast",
   "archived": "https://web.archive.org/web/20150501125425/http://spidermedia.ru/blog/bezdredoff/sedmoy-komikkast",
+  "tags": [
+    "komiksy",
+    "komikkast"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

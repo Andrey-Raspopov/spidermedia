@@ -4,6 +4,9 @@
   "url": "/blog/alex/nashi-v-gorode/",
   "original_url": "http://spidermedia.ru/blog/alex/nashi-v-gorode",
   "archived": "https://web.archive.org/web/20230323053231/http://spidermedia.ru/blog/alex/nashi-v-gorode",
+  "tags": [
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/comics/dc-comics-novye-sdelki-s-avtorami/",
   "original_url": "http://spidermedia.ru/comics/dc-comics-novye-sdelki-s-avtorami",
   "archived": "https://web.archive.org/web/20251108030924/http://spidermedia.ru/comics/dc-comics-novye-sdelki-s-avtorami",
+  "tags": [
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

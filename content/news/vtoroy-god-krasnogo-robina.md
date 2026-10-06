@@ -4,6 +4,13 @@
   "url": "/news/vtoroy-god-krasnogo-robina/",
   "original_url": "http://spidermedia.ru/news/vtoroy-god-krasnogo-robina",
   "archived": "https://web.archive.org/web/20260214135628/http://spidermedia.ru/news/vtoroy-god-krasnogo-robina",
+  "tags": [
+    "fabian-nicieza",
+    "markus-to",
+    "krasnyj-robin",
+    "red-robin",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

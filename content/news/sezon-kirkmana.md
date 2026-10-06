@@ -4,6 +4,13 @@
   "url": "/news/sezon-kirkmana/",
   "original_url": "https://spidermedia.ru/news/sezon-kirkmana",
   "archived": "https://web.archive.org/web/20260307054853/https://spidermedia.ru/news/sezon-kirkmana",
+  "tags": [
+    "robert-kirkman",
+    "mark-silvestri",
+    "pilot-season",
+    "image-comics",
+    "top-cow"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

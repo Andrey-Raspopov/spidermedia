@@ -4,6 +4,21 @@
   "url": "/blog/red-hulk/respektabelnyy-bloger-vozvrashchaetsya/",
   "original_url": "https://spidermedia.ru/blog/red-hulk/respektabelnyy-bloger-vozvrashchaetsya",
   "archived": "https://web.archive.org/web/20260313114354/https://spidermedia.ru/blog/red-hulk/respektabelnyy-bloger-vozvrashchaetsya",
+  "tags": [
+    "fred-van-lente",
+    "matt-fraction",
+    "grant-morrison",
+    "x-men",
+    "utopia",
+    "thunderbolts",
+    "thor",
+    "oni-press",
+    "marvel",
+    "iron-man",
+    "avengers",
+    "daredevil",
+    "captain-america"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

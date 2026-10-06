@@ -4,6 +4,10 @@
   "url": "/tv/preacher-s02e10-11-dirty-little-secret-backdoors/",
   "original_url": "https://spidermedia.ru/tv/preacher-s02e10-11-dirty-little-secret-backdoors",
   "archived": "https://web.archive.org/web/20251206155750/https://spidermedia.ru/tv/preacher-s02e10-11-dirty-little-secret-backdoors",
+  "tags": [
+    "vertigo",
+    "preacher"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

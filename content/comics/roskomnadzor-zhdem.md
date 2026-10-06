@@ -4,6 +4,11 @@
   "url": "/comics/roskomnadzor-zhdem/",
   "original_url": "https://spidermedia.ru/comics/roskomnadzor-zhdem",
   "archived": "https://web.archive.org/web/20250518122721/https://spidermedia.ru/comics/roskomnadzor-zhdem",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "roskomnadzor",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

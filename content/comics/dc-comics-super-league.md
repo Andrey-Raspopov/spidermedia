@@ -4,6 +4,13 @@
   "url": "/comics/dc-comics-super-league/",
   "original_url": "https://spidermedia.ru/comics/dc-comics-super-league",
   "archived": "https://web.archive.org/web/20251216182330/https://spidermedia.ru/comics/dc-comics-super-league",
+  "tags": [
+    "dc-comics",
+    "batman",
+    "justice-league",
+    "superman",
+    "wonder-woman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

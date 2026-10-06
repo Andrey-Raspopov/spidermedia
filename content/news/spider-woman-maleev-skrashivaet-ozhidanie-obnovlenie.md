@@ -4,6 +4,17 @@
   "url": "/news/spider-woman-maleev-skrashivaet-ozhidanie-obnovlenie/",
   "original_url": "https://spidermedia.ru/news/spider-woman-maleev-skrashivaet-ozhidanie-obnovlenie",
   "archived": "https://web.archive.org/web/20251014050526/https://spidermedia.ru/news/spider-woman-maleev-skrashivaet-ozhidanie-obnovlenie",
+  "tags": [
+    "cifrovye-komiksy",
+    "zhenshhina-pauk",
+    "art-0",
+    "animirovannye-komiksy",
+    "alex-maleev",
+    "spider-woman",
+    "motion-comics",
+    "marvel",
+    "brian-michael-bendis"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

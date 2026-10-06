@@ -4,6 +4,11 @@
   "url": "/blog/derden/komiksy-dc-universe-vypusk-no-24/",
   "original_url": "http://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-24",
   "archived": "https://web.archive.org/web/20260211192511/http://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-24",
+  "tags": [
+    "dc-comics",
+    "aquaman",
+    "dc-universe-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

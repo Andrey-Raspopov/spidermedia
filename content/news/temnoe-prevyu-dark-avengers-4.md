@@ -4,6 +4,15 @@
   "url": "/news/temnoe-prevyu-dark-avengers-4/",
   "original_url": "http://spidermedia.ru/news/temnoe-prevyu-dark-avengers-4",
   "archived": "https://web.archive.org/web/20120607115904/http://spidermedia.ru/news/temnoe-prevyu-dark-avengers-4",
+  "tags": [
+    "dark-avengers",
+    "brayan-maykl-bendis",
+    "komiksy",
+    "mayk-deodato",
+    "marvel",
+    "preview-s",
+    "tyomnye-mstiteli"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

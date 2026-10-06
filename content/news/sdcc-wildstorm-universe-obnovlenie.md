@@ -4,6 +4,14 @@
   "url": "/news/sdcc-wildstorm-universe-obnovlenie/",
   "original_url": "http://spidermedia.ru/news/sdcc-wildstorm-universe-obnovlenie",
   "archived": "https://web.archive.org/web/20250620064222/http://spidermedia.ru/news/sdcc-wildstorm-universe-obnovlenie",
+  "tags": [
+    "dikie-koty",
+    "gen-13",
+    "avtoritety",
+    "wildcats",
+    "authority",
+    "wildstorm"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

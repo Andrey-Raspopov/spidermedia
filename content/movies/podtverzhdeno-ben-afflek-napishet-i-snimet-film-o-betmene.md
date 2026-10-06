@@ -4,6 +4,10 @@
   "url": "/movies/podtverzhdeno-ben-afflek-napishet-i-snimet-film-o-betmene/",
   "original_url": "https://spidermedia.ru/movies/podtverzhdeno-ben-afflek-napishet-i-snimet-film-o-betmene",
   "archived": "https://web.archive.org/web/20260116224610/https://spidermedia.ru/movies/podtverzhdeno-ben-afflek-napishet-i-snimet-film-o-betmene",
+  "tags": [
+    "dc-comics",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

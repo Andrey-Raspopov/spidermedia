@@ -4,6 +4,14 @@
   "url": "/news/dedpul-chelovek-pauk/",
   "original_url": "http://spidermedia.ru/news/dedpul-chelovek-pauk",
   "archived": "https://web.archive.org/web/20260121003947/http://spidermedia.ru/news/dedpul-chelovek-pauk",
+  "tags": [
+    "skotti-yang",
+    "deadpool",
+    "joe-kelly",
+    "marvel",
+    "spider-man",
+    "erik-kenet"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

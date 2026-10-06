@@ -4,6 +4,11 @@
   "url": "/blog/trupoed/eto-vam-ne-eto/",
   "original_url": "http://spidermedia.ru/blog/trupoed/eto-vam-ne-eto",
   "archived": "https://web.archive.org/web/20111018051751/http://spidermedia.ru/blog/trupoed/eto-vam-ne-eto",
+  "tags": [
+    "marvel",
+    "komiksy",
+    "perevody-komiksov"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

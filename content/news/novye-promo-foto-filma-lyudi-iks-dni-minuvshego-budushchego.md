@@ -4,6 +4,12 @@
   "url": "/news/novye-promo-foto-filma-lyudi-iks-dni-minuvshego-budushchego/",
   "original_url": "http://spidermedia.ru/news/novye-promo-foto-filma-lyudi-iks-dni-minuvshego-budushchego",
   "archived": "https://web.archive.org/web/20260208205143/http://spidermedia.ru/news/novye-promo-foto-filma-lyudi-iks-dni-minuvshego-budushchego",
+  "tags": [
+    "marvel",
+    "lyudi-iks-pervyj-klass",
+    "x-men",
+    "days-of-future-past"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

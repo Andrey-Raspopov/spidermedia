@@ -4,6 +4,10 @@
   "url": "/comics/mister-miracle-novyj-komiks-toma-kinga/",
   "original_url": "https://spidermedia.ru/comics/mister-miracle-novyj-komiks-toma-kinga",
   "archived": "https://web.archive.org/web/20250120011446/https://spidermedia.ru/comics/mister-miracle-novyj-komiks-toma-kinga",
+  "tags": [
+    "dc-comics",
+    "new-gods"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

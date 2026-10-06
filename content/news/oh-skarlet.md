@@ -4,6 +4,16 @@
   "url": "/news/oh-skarlet/",
   "original_url": "http://spidermedia.ru/news/oh-skarlet",
   "archived": "https://web.archive.org/web/20250429155350/http://spidermedia.ru/news/oh-skarlet",
+  "tags": [
+    "majkl-ejvon-oeming",
+    "devid-mek",
+    "devid-lafuente",
+    "brian-michael-bendis",
+    "alex-maleev",
+    "scarlet",
+    "marvel",
+    "icon-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

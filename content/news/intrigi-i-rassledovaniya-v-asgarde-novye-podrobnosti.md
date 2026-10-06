@@ -4,6 +4,13 @@
   "url": "/news/intrigi-i-rassledovaniya-v-asgarde-novye-podrobnosti/",
   "original_url": "http://spidermedia.ru/news/intrigi-i-rassledovaniya-v-asgarde-novye-podrobnosti",
   "archived": "https://web.archive.org/web/20251211035007/http://spidermedia.ru/news/intrigi-i-rassledovaniya-v-asgarde-novye-podrobnosti",
+  "tags": [
+    "marko-dzhurdzhevich",
+    "dzho-kesada",
+    "j-michael-straczynski",
+    "thor",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/podcast/inferno-panels-04-the-death-of-moira-x/",
   "original_url": "https://spidermedia.ru/podcast/inferno-panels-04-the-death-of-moira-x",
   "archived": "https://web.archive.org/web/20251117002507/https://spidermedia.ru/podcast/inferno-panels-04-the-death-of-moira-x",
+  "tags": [
+    "panels-of-x",
+    "on-panels"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

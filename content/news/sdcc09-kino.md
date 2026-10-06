@@ -4,6 +4,13 @@
   "url": "/news/sdcc09-kino/",
   "original_url": "http://spidermedia.ru/news/sdcc09-kino",
   "archived": "https://web.archive.org/web/20260121011307/http://spidermedia.ru/news/sdcc09-kino",
+  "tags": [
+    "san-diego-comic-con-international",
+    "zelenyj-shershen",
+    "dzhona-heks",
+    "jonah-hex",
+    "green-hornet"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

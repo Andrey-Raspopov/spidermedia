@@ -4,6 +4,9 @@
   "url": "/comics/new-comics-day-september-16-2020/",
   "original_url": "https://spidermedia.ru/comics/new-comics-day-september-16-2020",
   "archived": "https://web.archive.org/web/20260125111932/https://spidermedia.ru/comics/new-comics-day-september-16-2020",
+  "tags": [
+    "den-novyh-komiksov"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
@@ -14,4 +17,4 @@
 
 ![](http://spidermedia.ru/assets/images/dnk/2020-09/1497716889_img_0642.jpg)
 
-Также я не могу перестать записывать подкасты и видео-обзоры: вот уже и сам сходил к Сергею Мангасарову в [Spider Talk](https://web.archive.org/web/20251108194237/http://spidermedia.ru/tags/spider-talk). Мы поговорили много о чем, часто темы возникали очень неожиданно. Надеюсь на одну из двух или на обе вещи: что вам понравится мой поток сознания или что Серега его хорошо подрезал.
+Также я не могу перестать записывать подкасты и видео-обзоры: вот уже и сам сходил к Сергею Мангасарову в [Spider Talk](../../tags/spider-talk/). Мы поговорили много о чем, часто темы возникали очень неожиданно. Надеюсь на одну из двух или на обе вещи: что вам понравится мой поток сознания или что Серега его хорошо подрезал.

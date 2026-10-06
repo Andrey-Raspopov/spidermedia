@@ -4,6 +4,22 @@
   "url": "/news/sdcc-2009-dcu/",
   "original_url": "http://spidermedia.ru/news/sdcc-2009-dcu",
   "archived": "https://web.archive.org/web/20120607184755/http://spidermedia.ru/news/sdcc-2009-dcu",
+  "tags": [
+    "dc-comics",
+    "gail-simone",
+    "geoff-johns",
+    "james-robinson",
+    "jla",
+    "paul-dini",
+    "sdcc-2009",
+    "wonder-woman",
+    "geyl-simon",
+    "dzheyms-robinson",
+    "dzheff-dzhons",
+    "komik-kon-v-san-diego",
+    "komiksy",
+    "pol-dini"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

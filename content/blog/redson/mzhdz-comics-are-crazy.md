@@ -4,11 +4,15 @@
   "url": "/blog/redson/mzhdz-comics-are-crazy/",
   "original_url": "http://spidermedia.ru/blog/redson/mzhdz-comics-are-crazy",
   "archived": "https://web.archive.org/web/20260123075224/http://spidermedia.ru/blog/redson/mzhdz-comics-are-crazy",
+  "tags": [
+    "mnenie",
+    "mzhdz"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](https://web.archive.org/web/20260123075224im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz516.png)](https://web.archive.org/web/20260206215846/http://spidermedia.ru/tags/mzhdz)
+[![](https://web.archive.org/web/20260123075224im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz516.png)](../../../tags/mzhdz/)
 [![](https://web.archive.org/web/20260123075224im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/crazy.jpg)](http://www.topatoco.com/merchant.mvc?Screen=PROD&Store_Code=TO&Product_Code=BEAT-READING&Category_Code=BEAT)
 **Еженедельные обзоры новых комиксов!**
 В этом выпуске: Плутонец - псих, Лунный Рыцарь - идиот, Шейд - маньяк, Магнето - импотент.

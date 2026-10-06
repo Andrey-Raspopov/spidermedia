@@ -4,6 +4,13 @@
   "url": "/news/kornell-hochet-verit/",
   "original_url": "http://spidermedia.ru/news/kornell-hochet-verit",
   "archived": "https://web.archive.org/web/20260305233934/http://spidermedia.ru/news/kornell-hochet-verit",
+  "tags": [
+    "rajan-kelli",
+    "pol-kornell",
+    "komik-kon-v-nyu-jorke",
+    "vertigo",
+    "nycc-2011"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

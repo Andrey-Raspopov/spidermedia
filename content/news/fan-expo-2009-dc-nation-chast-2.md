@@ -4,6 +4,15 @@
   "url": "/news/fan-expo-2009-dc-nation-chast-2/",
   "original_url": "http://spidermedia.ru/news/fan-expo-2009-dc-nation-chast-2",
   "archived": "https://web.archive.org/web/20250715014430/http://spidermedia.ru/news/fan-expo-2009-dc-nation-chast-2",
+  "tags": [
+    "dc-comics",
+    "fan-expo-2009",
+    "dan-didio",
+    "sobytiya",
+    "wonder-woman",
+    "temnejshaya-noch",
+    "blackest-night"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

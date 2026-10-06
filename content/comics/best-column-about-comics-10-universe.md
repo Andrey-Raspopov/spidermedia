@@ -4,6 +4,10 @@
   "url": "/comics/best-column-about-comics-10-universe/",
   "original_url": "http://spidermedia.ru/comics/best-column-about-comics-10-universe",
   "archived": "https://web.archive.org/web/20260215072124/http://spidermedia.ru/comics/best-column-about-comics-10-universe",
+  "tags": [
+    "best-column-about-comics",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/blog/gess/hardy-i-nehardy-v-noyabre-2009-dc-comics/",
   "original_url": "http://spidermedia.ru/blog/gess/hardy-i-nehardy-v-noyabre-2009-dc-comics",
   "archived": "https://web.archive.org/web/20170926162203/http://spidermedia.ru:80/blog/gess/hardy-i-nehardy-v-noyabre-2009-dc-comics",
+  "tags": [
+    "handnh",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

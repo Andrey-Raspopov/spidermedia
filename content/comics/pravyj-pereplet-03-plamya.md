@@ -4,6 +4,10 @@
   "url": "/comics/pravyj-pereplet-03-plamya/",
   "original_url": "http://spidermedia.ru/comics/pravyj-pereplet-03-plamya",
   "archived": "https://web.archive.org/web/20250116105704/http://spidermedia.ru/comics/pravyj-pereplet-03-plamya",
+  "tags": [
+    "manga",
+    "right-binding"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

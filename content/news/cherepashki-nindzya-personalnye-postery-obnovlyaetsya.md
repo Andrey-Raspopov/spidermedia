@@ -4,6 +4,10 @@
   "url": "/news/cherepashki-nindzya-personalnye-postery-obnovlyaetsya/",
   "original_url": "https://spidermedia.ru/news/cherepashki-nindzya-personalnye-postery-obnovlyaetsya",
   "archived": "https://web.archive.org/web/20250617234422/https://spidermedia.ru/news/cherepashki-nindzya-personalnye-postery-obnovlyaetsya",
+  "tags": [
+    "ninja-turtles",
+    "postery"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,13 @@
   "url": "/news/zhdite-svet-fonarya-na-polgoda-pozzhe/",
   "original_url": "http://spidermedia.ru/news/zhdite-svet-fonarya-na-polgoda-pozzhe",
   "archived": "https://web.archive.org/web/20251207001318/http://spidermedia.ru/news/zhdite-svet-fonarya-na-polgoda-pozzhe",
+  "tags": [
+    "green-lantern",
+    "sluhi",
+    "hal-jordan",
+    "hel-dzhordan",
+    "mark-guggenhajm"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

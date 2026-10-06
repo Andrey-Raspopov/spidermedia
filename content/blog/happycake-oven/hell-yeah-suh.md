@@ -4,6 +4,10 @@
   "url": "/blog/happycake-oven/hell-yeah-suh/",
   "original_url": "http://spidermedia.ru/blog/happycake-oven/hell-yeah-suh",
   "archived": "https://web.archive.org/web/20111125191524/http://spidermedia.ru/blog/happycake-oven/hell-yeah-suh",
+  "tags": [
+    "blackest-night",
+    "dc-comics"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

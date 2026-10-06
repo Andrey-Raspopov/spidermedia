@@ -4,6 +4,16 @@
   "url": "/news/kino-i-komiksy/",
   "original_url": "https://spidermedia.ru/news/kino-i-komiksy",
   "archived": "https://web.archive.org/web/20260307064404/https://spidermedia.ru/news/kino-i-komiksy",
+  "tags": [
+    "superman",
+    "ris-ivens",
+    "darren-aronofski",
+    "wolverine",
+    "lizard",
+    "batman",
+    "spider-man",
+    "yashher"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/blog/deadpoolic/comic-con-san-diego09-ben-templesmith/",
   "original_url": "http://spidermedia.ru/blog/deadpoolic/comic-con-san-diego09-ben-templesmith",
   "archived": "https://web.archive.org/web/20200219064857/http://spidermedia.ru:80/blog/deadpoolic/comic-con-san-diego09-ben-templesmith",
+  "tags": [
+    "video-interview",
+    "san-diego-comic-con-2009",
+    "ben-templsmit"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

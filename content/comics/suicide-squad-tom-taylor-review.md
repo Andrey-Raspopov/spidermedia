@@ -4,6 +4,12 @@
   "url": "/comics/suicide-squad-tom-taylor-review/",
   "original_url": "https://spidermedia.ru/comics/suicide-squad-tom-taylor-review",
   "archived": "https://web.archive.org/web/20260313113418/https://spidermedia.ru/comics/suicide-squad-tom-taylor-review",
+  "tags": [
+    "dc-comics",
+    "suicide-squad",
+    "tom-tejlor",
+    "harli-kvin"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

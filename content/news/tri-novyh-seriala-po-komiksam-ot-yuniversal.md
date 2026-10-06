@@ -4,6 +4,11 @@
   "url": "/news/tri-novyh-seriala-po-komiksam-ot-yuniversal/",
   "original_url": "http://spidermedia.ru/news/tri-novyh-seriala-po-komiksam-ot-yuniversal",
   "archived": "https://web.archive.org/web/20250210075835/http://spidermedia.ru/news/tri-novyh-seriala-po-komiksam-ot-yuniversal",
+  "tags": [
+    "warren-ellis",
+    "serialy",
+    "rik-remender"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

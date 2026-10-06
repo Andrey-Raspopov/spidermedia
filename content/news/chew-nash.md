@@ -4,6 +4,13 @@
   "url": "/news/chew-nash/",
   "original_url": "http://spidermedia.ru/news/chew-nash",
   "archived": "https://web.archive.org/web/20260208194703/http://spidermedia.ru/news/chew-nash",
+  "tags": [
+    "xl-media",
+    "image-comics",
+    "dzhon-lejman",
+    "rob-guillory",
+    "zarubezhnye-komiksy-na-russkom"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

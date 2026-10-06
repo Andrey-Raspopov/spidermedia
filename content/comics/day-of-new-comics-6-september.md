@@ -4,6 +4,9 @@
   "url": "/comics/day-of-new-comics-6-september/",
   "original_url": "http://spidermedia.ru/comics/day-of-new-comics-6-september",
   "archived": "https://web.archive.org/web/20180130111042/http://spidermedia.ru:80/comics/day-of-new-comics-6-september",
+  "tags": [
+    "den-novyh-komiksov"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

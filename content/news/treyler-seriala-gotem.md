@@ -4,6 +4,13 @@
   "url": "/news/treyler-seriala-gotem/",
   "original_url": "http://spidermedia.ru/news/treyler-seriala-gotem",
   "archived": "https://web.archive.org/web/20260125120247/http://spidermedia.ru/news/treyler-seriala-gotem",
+  "tags": [
+    "dc-comics",
+    "trejlery",
+    "batman",
+    "gotem",
+    "serialy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

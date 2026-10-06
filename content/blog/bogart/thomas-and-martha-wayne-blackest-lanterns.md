@@ -4,6 +4,10 @@
   "url": "/blog/bogart/thomas-and-martha-wayne-blackest-lanterns/",
   "original_url": "http://spidermedia.ru/blog/bogart/thomas-and-martha-wayne-blackest-lanterns",
   "archived": "https://web.archive.org/web/20250425221209/http://spidermedia.ru/blog/bogart/thomas-and-martha-wayne-blackest-lanterns",
+  "tags": [
+    "bla-bla-bla",
+    "nycc-2009"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

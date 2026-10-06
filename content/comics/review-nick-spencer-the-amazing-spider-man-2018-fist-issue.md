@@ -4,6 +4,12 @@
   "url": "/comics/review-nick-spencer-the-amazing-spider-man-2018-fist-issue/",
   "original_url": "http://spidermedia.ru/comics/review-nick-spencer-the-amazing-spider-man-2018-fist-issue",
   "archived": "https://web.archive.org/web/20260314082121/http://spidermedia.ru/comics/review-nick-spencer-the-amazing-spider-man-2018-fist-issue",
+  "tags": [
+    "marvel",
+    "nik-spenser",
+    "ryan-ottley",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

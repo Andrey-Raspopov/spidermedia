@@ -4,6 +4,12 @@
   "url": "/news/fotootchet-s-premery-strazhey-galaktiki/",
   "original_url": "http://spidermedia.ru/news/fotootchet-s-premery-strazhey-galaktiki",
   "archived": "https://web.archive.org/web/20250119074229/http://spidermedia.ru/news/fotootchet-s-premery-strazhey-galaktiki",
+  "tags": [
+    "guardians-of-the-galaxy",
+    "marvel",
+    "disnej",
+    "aleksandr-nevskij"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

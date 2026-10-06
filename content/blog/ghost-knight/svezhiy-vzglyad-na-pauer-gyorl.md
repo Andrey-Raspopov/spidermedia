@@ -4,6 +4,14 @@
   "url": "/blog/ghost-knight/svezhiy-vzglyad-na-pauer-gyorl/",
   "original_url": "http://spidermedia.ru/blog/ghost-knight/svezhiy-vzglyad-na-pauer-gyorl",
   "archived": "https://web.archive.org/web/20260305230856/http://spidermedia.ru/blog/ghost-knight/svezhiy-vzglyad-na-pauer-gyorl",
+  "tags": [
+    "pauer-gyorl",
+    "dzhimmi-palmiotti",
+    "amanda-konner",
+    "power-girl",
+    "jimmy-palmiotti",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

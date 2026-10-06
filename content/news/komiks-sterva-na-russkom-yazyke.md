@@ -4,6 +4,9 @@
   "url": "/news/komiks-sterva-na-russkom-yazyke/",
   "original_url": "https://spidermedia.ru/news/komiks-sterva-na-russkom-yazyke",
   "archived": "https://web.archive.org/web/20240226070900/https://spidermedia.ru/news/komiks-sterva-na-russkom-yazyke",
+  "tags": [
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

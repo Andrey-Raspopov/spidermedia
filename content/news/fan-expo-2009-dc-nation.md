@@ -4,6 +4,12 @@
   "url": "/news/fan-expo-2009-dc-nation/",
   "original_url": "http://spidermedia.ru/news/fan-expo-2009-dc-nation",
   "archived": "https://web.archive.org/web/20230323055516/http://spidermedia.ru/news/fan-expo-2009-dc-nation",
+  "tags": [
+    "sobytiya",
+    "dan-didio",
+    "fan-expo-2009",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

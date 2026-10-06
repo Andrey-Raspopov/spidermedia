@@ -4,6 +4,11 @@
   "url": "/news/novye-postery-filma-tor-0/",
   "original_url": "https://spidermedia.ru/news/novye-postery-filma-tor-0",
   "archived": "https://web.archive.org/web/20250618000331/https://spidermedia.ru/news/novye-postery-filma-tor-0",
+  "tags": [
+    "postery",
+    "thor",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

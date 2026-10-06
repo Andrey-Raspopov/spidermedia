@@ -4,6 +4,10 @@
   "url": "/tv/vertigo-preacher-frirst-look-propovednik-pervoe-foto-dzhessi-kastera-i-zhopolicego/",
   "original_url": "http://spidermedia.ru/tv/vertigo-preacher-frirst-look-propovednik-pervoe-foto-dzhessi-kastera-i-zhopolicego",
   "archived": "https://web.archive.org/web/20250909140036/http://spidermedia.ru/tv/vertigo-preacher-frirst-look-propovednik-pervoe-foto-dzhessi-kastera-i-zhopolicego",
+  "tags": [
+    "vertigo",
+    "preacher"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

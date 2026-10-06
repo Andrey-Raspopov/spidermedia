@@ -4,6 +4,12 @@
   "url": "/news/vsegda-vooruzhyon/",
   "original_url": "http://spidermedia.ru/news/vsegda-vooruzhyon",
   "archived": "https://web.archive.org/web/20251110233428/http://spidermedia.ru/news/vsegda-vooruzhyon",
+  "tags": [
+    "dzhimmi-palmiotti",
+    "dzherri-ordvej",
+    "dzhastin-grej",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

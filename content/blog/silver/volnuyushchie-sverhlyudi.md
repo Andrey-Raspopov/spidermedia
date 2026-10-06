@@ -4,6 +4,13 @@
   "url": "/blog/silver/volnuyushchie-sverhlyudi/",
   "original_url": "http://spidermedia.ru/blog/silver/volnuyushchie-sverhlyudi",
   "archived": "https://web.archive.org/web/20250806091359/http://spidermedia.ru/blog/silver/volnuyushchie-sverhlyudi",
+  "tags": [
+    "marvel",
+    "dc-comics",
+    "avengers",
+    "mnenie",
+    "secret-six"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

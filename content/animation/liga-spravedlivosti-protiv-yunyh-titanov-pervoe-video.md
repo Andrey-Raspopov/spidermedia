@@ -4,6 +4,9 @@
   "url": "/animation/liga-spravedlivosti-protiv-yunyh-titanov-pervoe-video/",
   "original_url": "http://spidermedia.ru/animation/liga-spravedlivosti-protiv-yunyh-titanov-pervoe-video",
   "archived": "https://web.archive.org/web/20250806094207/http://spidermedia.ru/animation/liga-spravedlivosti-protiv-yunyh-titanov-pervoe-video",
+  "tags": [
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,17 @@
   "url": "/news/kruzhka-v-kotoroy-dzho/",
   "original_url": "https://spidermedia.ru/news/kruzhka-v-kotoroy-dzho",
   "archived": "https://web.archive.org/web/20260214133735/https://spidermedia.ru/news/kruzhka-v-kotoroy-dzho",
+  "tags": [
+    "hulk",
+    "kajl-bejker",
+    "dzho-kesada",
+    "skaar",
+    "greg-pak",
+    "deadpool",
+    "ariel-olivetti",
+    "dzhaggernaut",
+    "juggernaut"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

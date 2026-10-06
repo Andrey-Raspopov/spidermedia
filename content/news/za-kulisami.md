@@ -4,6 +4,11 @@
   "url": "/news/za-kulisami/",
   "original_url": "https://spidermedia.ru/news/za-kulisami",
   "archived": "https://web.archive.org/web/20240812080226/https://spidermedia.ru/news/za-kulisami",
+  "tags": [
+    "myuzikl",
+    "spider-man-turn-off-the-dark",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

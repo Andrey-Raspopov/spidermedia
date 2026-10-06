@@ -4,6 +4,11 @@
   "url": "/news/its-gonna-be-legen-wait-it/",
   "original_url": "http://spidermedia.ru/news/its-gonna-be-legen-wait-it",
   "archived": "https://web.archive.org/web/20260208195620/http://spidermedia.ru/news/its-gonna-be-legen-wait-it",
+  "tags": [
+    "sajmon-bizli",
+    "mett-vagner",
+    "legendary-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

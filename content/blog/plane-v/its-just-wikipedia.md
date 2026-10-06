@@ -4,6 +4,9 @@
   "url": "/blog/plane-v/its-just-wikipedia/",
   "original_url": "http://spidermedia.ru/blog/plane-v/its-just-wikipedia",
   "archived": "https://web.archive.org/web/20161112213143/http://spidermedia.ru:80/blog/plane-v/its-just-wikipedia",
+  "tags": [
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

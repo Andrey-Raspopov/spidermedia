@@ -4,6 +4,17 @@
   "url": "/blog/red-hulk/im-still-alive/",
   "original_url": "http://spidermedia.ru/blog/red-hulk/im-still-alive",
   "archived": "https://web.archive.org/web/20251208063439/http://spidermedia.ru/blog/red-hulk/im-still-alive",
+  "tags": [
+    "warren-ellis",
+    "redzhinald-hadlin",
+    "punisher",
+    "grant-morrison",
+    "garth-ennis",
+    "vertigo",
+    "ultimate",
+    "preacher",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

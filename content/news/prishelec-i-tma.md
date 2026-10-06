@@ -4,6 +4,14 @@
   "url": "/news/prishelec-i-tma/",
   "original_url": "http://spidermedia.ru/news/prishelec-i-tma",
   "archived": "https://web.archive.org/web/20160427024734/http://spidermedia.ru/news/prishelec-i-tma",
+  "tags": [
+    "darkness",
+    "top-cow",
+    "pol-dzhenkins",
+    "art-0",
+    "pitt",
+    "dejl-kejon"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

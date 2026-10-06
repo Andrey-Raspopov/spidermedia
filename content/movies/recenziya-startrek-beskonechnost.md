@@ -4,6 +4,10 @@
   "url": "/movies/recenziya-startrek-beskonechnost/",
   "original_url": "http://spidermedia.ru/movies/recenziya-startrek-beskonechnost",
   "archived": "https://web.archive.org/web/20260306001515/http://spidermedia.ru/movies/recenziya-startrek-beskonechnost",
+  "tags": [
+    "star-trek",
+    "zvezdnyj-put"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/blog/red-hulk/hroniki-chedrika/",
   "original_url": "https://spidermedia.ru/blog/red-hulk/hroniki-chedrika",
   "archived": "https://web.archive.org/web/20241106085211/https://spidermedia.ru/blog/red-hulk/hroniki-chedrika",
+  "tags": [
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

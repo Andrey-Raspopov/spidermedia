@@ -4,6 +4,10 @@
   "url": "/news/rayonnyy-otdel-upokoeniya/",
   "original_url": "https://spidermedia.ru/news/rayonnyy-otdel-upokoeniya",
   "archived": "https://web.archive.org/web/20260214143258/https://spidermedia.ru/news/rayonnyy-otdel-upokoeniya",
+  "tags": [
+    "r.i.p.d",
+    "dark-horse"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

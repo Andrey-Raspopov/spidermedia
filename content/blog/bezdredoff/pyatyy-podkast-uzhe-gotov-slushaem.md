@@ -4,6 +4,10 @@
   "url": "/blog/bezdredoff/pyatyy-podkast-uzhe-gotov-slushaem/",
   "original_url": "http://spidermedia.ru/blog/bezdredoff/pyatyy-podkast-uzhe-gotov-slushaem",
   "archived": "https://web.archive.org/web/20150501131502/http://spidermedia.ru/blog/bezdredoff/pyatyy-podkast-uzhe-gotov-slushaem",
+  "tags": [
+    "novosti",
+    "komikkast"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

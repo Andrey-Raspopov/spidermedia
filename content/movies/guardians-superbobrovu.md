@@ -4,6 +4,9 @@
   "url": "/movies/guardians-superbobrovu/",
   "original_url": "http://spidermedia.ru/movies/guardians-superbobrovu",
   "archived": "https://web.archive.org/web/20250424105335/http://spidermedia.ru/movies/guardians-superbobrovu",
+  "tags": [
+    "zashhitniki"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

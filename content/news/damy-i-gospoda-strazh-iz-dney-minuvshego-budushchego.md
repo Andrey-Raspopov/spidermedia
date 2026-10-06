@@ -4,6 +4,11 @@
   "url": "/news/damy-i-gospoda-strazh-iz-dney-minuvshego-budushchego/",
   "original_url": "https://spidermedia.ru/news/damy-i-gospoda-strazh-iz-dney-minuvshego-budushchego",
   "archived": "https://web.archive.org/web/20260123072017/https://spidermedia.ru/news/damy-i-gospoda-strazh-iz-dney-minuvshego-budushchego",
+  "tags": [
+    "x-men",
+    "days-of-future-past",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/news/sereznyy-biznes/",
   "original_url": "http://spidermedia.ru/news/sereznyy-biznes",
   "archived": "https://web.archive.org/web/20260121014213/http://spidermedia.ru/news/sereznyy-biznes",
+  "tags": [
+    "yanik-pekket",
+    "art-0",
+    "dc-comics",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

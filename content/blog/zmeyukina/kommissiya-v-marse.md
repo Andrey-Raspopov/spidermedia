@@ -4,6 +4,11 @@
   "url": "/blog/zmeyukina/kommissiya-v-marse/",
   "original_url": "https://spidermedia.ru/blog/zmeyukina/kommissiya-v-marse",
   "archived": "https://web.archive.org/web/20250804003859/https://spidermedia.ru/blog/zmeyukina/kommissiya-v-marse",
+  "tags": [
+    "russian-comics",
+    "kommissiya",
+    "festival"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

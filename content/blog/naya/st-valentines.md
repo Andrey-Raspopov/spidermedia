@@ -4,6 +4,11 @@
   "url": "/blog/naya/st-valentines/",
   "original_url": "http://spidermedia.ru/blog/naya/st-valentines",
   "archived": "https://web.archive.org/web/20120607110430/http://spidermedia.ru/blog/naya/st-valentines",
+  "tags": [
+    "art",
+    "manga",
+    "publishing"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

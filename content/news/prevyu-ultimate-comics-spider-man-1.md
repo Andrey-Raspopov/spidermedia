@@ -4,6 +4,13 @@
   "url": "/news/prevyu-ultimate-comics-spider-man-1/",
   "original_url": "http://spidermedia.ru/news/prevyu-ultimate-comics-spider-man-1",
   "archived": "https://web.archive.org/web/20260116220210/http://spidermedia.ru/news/prevyu-ultimate-comics-spider-man-1",
+  "tags": [
+    "devid-lafuente",
+    "brian-michael-bendis",
+    "ultimate",
+    "marvel",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

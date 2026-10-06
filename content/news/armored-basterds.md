@@ -4,6 +4,16 @@
   "url": "/news/armored-basterds/",
   "original_url": "http://spidermedia.ru/news/armored-basterds",
   "archived": "https://web.archive.org/web/20120608193610/http://spidermedia.ru/news/armored-basterds",
+  "tags": [
+    "iron-man",
+    "ultimate",
+    "zheleznyy-chelovek",
+    "komiksy",
+    "marvel",
+    "oblozhki",
+    "stiv-kurt",
+    "uorren-ellis"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

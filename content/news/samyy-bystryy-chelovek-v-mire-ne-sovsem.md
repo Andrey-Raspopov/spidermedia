@@ -4,6 +4,12 @@
   "url": "/news/samyy-bystryy-chelovek-v-mire-ne-sovsem/",
   "original_url": "http://spidermedia.ru/news/samyy-bystryy-chelovek-v-mire-ne-sovsem",
   "archived": "https://web.archive.org/web/20250620080707/http://spidermedia.ru/news/samyy-bystryy-chelovek-v-mire-ne-sovsem",
+  "tags": [
+    "ethan-van-sciver",
+    "geoff-johns",
+    "the-flash",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/blog/redson/doctor-who-kill-moon-mnenie-redakcii-0/",
   "original_url": "http://spidermedia.ru/blog/redson/doctor-who-kill-moon-mnenie-redakcii-0",
   "archived": "https://web.archive.org/web/20190924052357/http://spidermedia.ru:80/blog/redson/doctor-who-kill-moon-mnenie-redakcii-0",
+  "tags": [
+    "obzor",
+    "doctor-who"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

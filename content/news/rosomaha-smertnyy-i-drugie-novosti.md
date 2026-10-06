@@ -4,6 +4,20 @@
   "url": "/news/rosomaha-smertnyy-i-drugie-novosti/",
   "original_url": "http://spidermedia.ru/news/rosomaha-smertnyy-i-drugie-novosti",
   "archived": "https://web.archive.org/web/20251019000244/http://spidermedia.ru/news/rosomaha-smertnyy-i-drugie-novosti",
+  "tags": [
+    "thor",
+    "wolverine",
+    "ron-garni",
+    "pol-kornell",
+    "piter-devid",
+    "x-men",
+    "iks-faktor",
+    "dzheyson-aaron",
+    "brian-michael-bendis",
+    "brian-wood",
+    "alan-devis",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

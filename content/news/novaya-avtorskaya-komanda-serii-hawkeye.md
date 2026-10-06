@@ -4,6 +4,12 @@
   "url": "/news/novaya-avtorskaya-komanda-serii-hawkeye/",
   "original_url": "https://spidermedia.ru/news/novaya-avtorskaya-komanda-serii-hawkeye",
   "archived": "https://web.archive.org/web/20260120155442/https://spidermedia.ru/news/novaya-avtorskaya-komanda-serii-hawkeye",
+  "tags": [
+    "hawkeye",
+    "marvel",
+    "dzheff-lemir",
+    "ramon-perez"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

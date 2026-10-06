@@ -4,6 +4,10 @@
   "url": "/movies/pevica-zendaya-poluchila-rol-v-cheloveke-pauke/",
   "original_url": "http://spidermedia.ru/movies/pevica-zendaya-poluchila-rol-v-cheloveke-pauke",
   "archived": "https://web.archive.org/web/20250114021401/http://spidermedia.ru/movies/pevica-zendaya-poluchila-rol-v-cheloveke-pauke",
+  "tags": [
+    "spider-man",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

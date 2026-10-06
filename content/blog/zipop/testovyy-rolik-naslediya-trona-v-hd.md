@@ -4,6 +4,11 @@
   "url": "/blog/zipop/testovyy-rolik-naslediya-trona-v-hd/",
   "original_url": "https://spidermedia.ru/blog/zipop/testovyy-rolik-naslediya-trona-v-hd",
   "archived": "https://web.archive.org/web/20260208194109/https://spidermedia.ru/blog/zipop/testovyy-rolik-naslediya-trona-v-hd",
+  "tags": [
+    "trejlery",
+    "tron-legacy",
+    "nasledie-trona"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

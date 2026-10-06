@@ -4,6 +4,16 @@
   "url": "/news/zheleznyy-chelovek-2-pervaya-scena-i-bronya/",
   "original_url": "http://spidermedia.ru/news/zheleznyy-chelovek-2-pervaya-scena-i-bronya",
   "archived": "https://web.archive.org/web/20120608232826/http://spidermedia.ru/news/zheleznyy-chelovek-2-pervaya-scena-i-bronya",
+  "tags": [
+    "iron-man",
+    "iron-man-2",
+    "dzhon-favro",
+    "zheleznyy-chelovek",
+    "kino",
+    "komiksy",
+    "marvel",
+    "robert-dauni-ml"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

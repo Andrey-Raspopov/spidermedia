@@ -4,6 +4,13 @@
   "url": "/news/chto-luchshee-v-zhizni-konan-lyubov/",
   "original_url": "http://spidermedia.ru/news/chto-luchshee-v-zhizni-konan-lyubov",
   "archived": "https://web.archive.org/web/20250808211030/http://spidermedia.ru/news/chto-luchshee-v-zhizni-konan-lyubov",
+  "tags": [
+    "konan-varvar",
+    "dark-horse",
+    "conan-the-barbarian",
+    "brian-wood",
+    "bekki-klunan"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,16 @@
   "url": "/news/i-vsyo-eshchyo-ni-slova-o-spider-men/",
   "original_url": "http://spidermedia.ru/news/i-vsyo-eshchyo-ni-slova-o-spider-men",
   "archived": "https://web.archive.org/web/20251207000814/http://spidermedia.ru/news/i-vsyo-eshchyo-ni-slova-o-spider-men",
+  "tags": [
+    "mettyu-klark",
+    "taj-templton",
+    "marvel",
+    "spider-man",
+    "lizard",
+    "dzhuzeppe-kamunkoli",
+    "yashher",
+    "den-slott"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

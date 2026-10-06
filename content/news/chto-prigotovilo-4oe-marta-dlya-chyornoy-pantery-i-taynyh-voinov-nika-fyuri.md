@@ -4,6 +4,17 @@
   "url": "/news/chto-prigotovilo-4oe-marta-dlya-chyornoy-pantery-i-taynyh-voinov-nika-fyuri/",
   "original_url": "http://spidermedia.ru/news/chto-prigotovilo-4oe-marta-dlya-chyornoy-pantery-i-taynyh-voinov-nika-fyuri",
   "archived": "https://web.archive.org/web/20120607184158/http://spidermedia.ru/news/chto-prigotovilo-4oe-marta-dlya-chyornoy-pantery-i-taynyh-voinov-nika-fyuri",
+  "tags": [
+    "black-panther",
+    "dark-avengers",
+    "secret-warriors",
+    "komiksy",
+    "marvel",
+    "preview-s",
+    "taynye-voiny",
+    "tyomnye-mstiteli",
+    "chyornaya-pantera"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

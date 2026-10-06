@@ -4,6 +4,14 @@
   "url": "/news/syshchiki-i-vory/",
   "original_url": "https://spidermedia.ru/news/syshchiki-i-vory",
   "archived": "https://web.archive.org/web/20251117003200/https://spidermedia.ru/news/syshchiki-i-vory",
+  "tags": [
+    "enn-nosenti",
+    "dzhon-lejman",
+    "dzhejson-fabok",
+    "zhenshhina-koshka",
+    "detective-comics",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

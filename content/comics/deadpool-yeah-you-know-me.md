@@ -4,6 +4,10 @@
   "url": "/comics/deadpool-yeah-you-know-me/",
   "original_url": "https://spidermedia.ru/comics/deadpool-yeah-you-know-me",
   "archived": "https://web.archive.org/web/20260312022620/https://spidermedia.ru/comics/deadpool-yeah-you-know-me",
+  "tags": [
+    "marvel",
+    "deadpool"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

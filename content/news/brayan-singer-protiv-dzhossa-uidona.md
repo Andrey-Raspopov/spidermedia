@@ -4,6 +4,10 @@
   "url": "/news/brayan-singer-protiv-dzhossa-uidona/",
   "original_url": "http://spidermedia.ru/news/brayan-singer-protiv-dzhossa-uidona",
   "archived": "https://web.archive.org/web/20190914073503/http://spidermedia.ru:80/news/brayan-singer-protiv-dzhossa-uidona",
+  "tags": [
+    "x-men",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

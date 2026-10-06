@@ -4,6 +4,14 @@
   "url": "/news/oni-vse-zelenye-no-takie-raznye/",
   "original_url": "http://spidermedia.ru/news/oni-vse-zelenye-no-takie-raznye",
   "archived": "https://web.archive.org/web/20120608234653/http://spidermedia.ru/news/oni-vse-zelenye-no-takie-raznye",
+  "tags": [
+    "she-hulk",
+    "komiksy",
+    "marvel",
+    "oblozhki",
+    "skott-kempbell",
+    "fred-van-lente"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

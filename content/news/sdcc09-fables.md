@@ -4,6 +4,14 @@
   "url": "/news/sdcc09-fables/",
   "original_url": "http://spidermedia.ru/news/sdcc09-fables",
   "archived": "https://web.archive.org/web/20250913011846/http://spidermedia.ru/news/sdcc09-fables",
+  "tags": [
+    "mark-bakingem",
+    "vertigo",
+    "mark-buckingham",
+    "fables",
+    "bill-uillingem",
+    "san-diego-comic-con-international"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/news/otmorozhennyy-nayomnik/",
   "original_url": "http://spidermedia.ru/news/otmorozhennyy-nayomnik",
   "archived": "https://web.archive.org/web/20150428043545/http://spidermedia.ru/news/otmorozhennyy-nayomnik",
+  "tags": [
+    "marvel-comics",
+    "deadpool"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

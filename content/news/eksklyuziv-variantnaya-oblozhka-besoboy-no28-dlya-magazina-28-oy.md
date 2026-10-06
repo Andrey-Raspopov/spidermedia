@@ -4,6 +4,11 @@
   "url": "/news/eksklyuziv-variantnaya-oblozhka-besoboy-no28-dlya-magazina-28-oy/",
   "original_url": "https://spidermedia.ru/news/eksklyuziv-variantnaya-oblozhka-besoboy-no28-dlya-magazina-28-oy",
   "archived": "https://web.archive.org/web/20260214133549/https://spidermedia.ru/news/eksklyuziv-variantnaya-oblozhka-besoboy-no28-dlya-magazina-28-oy",
+  "tags": [
+    "russian-comics",
+    "besoboj",
+    "bubble"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/comics/nycc-2015-dark-horse-gotovit-rimejk-lone-wolf-2100/",
   "original_url": "http://spidermedia.ru/comics/nycc-2015-dark-horse-gotovit-rimejk-lone-wolf-2100",
   "archived": "https://web.archive.org/web/20260211182310/http://spidermedia.ru/comics/nycc-2015-dark-horse-gotovit-rimejk-lone-wolf-2100",
+  "tags": [
+    "dark-horse",
+    "komik-kon-v-nyu-yorke"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

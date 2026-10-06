@@ -4,6 +4,11 @@
   "url": "/blog/redson/otchet-o-vystavke-everycon-2014-0/",
   "original_url": "http://spidermedia.ru/blog/redson/otchet-o-vystavke-everycon-2014-0",
   "archived": "https://web.archive.org/web/20240712041734/http://spidermedia.ru/blog/redson/otchet-o-vystavke-everycon-2014-0",
+  "tags": [
+    "everycon",
+    "vystavka",
+    "evrikon"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

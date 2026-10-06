@@ -4,6 +4,10 @@
   "url": "/blog/sonyn/when-worlds-collide/",
   "original_url": "https://spidermedia.ru/blog/sonyn/when-worlds-collide",
   "archived": "https://web.archive.org/web/20251115033950/https://spidermedia.ru/blog/sonyn/when-worlds-collide",
+  "tags": [
+    "fanart",
+    "gainax"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,17 @@
   "url": "/news/hellion-requiem/",
   "original_url": "http://spidermedia.ru/news/hellion-requiem",
   "archived": "https://web.archive.org/web/20120607165957/http://spidermedia.ru/news/hellion-requiem",
+  "tags": [
+    "bastion",
+    "hellion",
+    "messiah-war",
+    "x-force",
+    "x-universe",
+    "bastion-0",
+    "gellion",
+    "komiksy",
+    "marvel"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

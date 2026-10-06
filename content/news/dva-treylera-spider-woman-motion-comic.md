@@ -4,6 +4,16 @@
   "url": "/news/dva-treylera-spider-woman-motion-comic/",
   "original_url": "https://spidermedia.ru/news/dva-treylera-spider-woman-motion-comic",
   "archived": "https://web.archive.org/web/20260116220427/https://spidermedia.ru/news/dva-treylera-spider-woman-motion-comic",
+  "tags": [
+    "zhenshhina-pauk",
+    "dzhessika-dryu",
+    "animirovannye-komiksy",
+    "alex-maleev",
+    "spider-woman",
+    "motion-comics",
+    "jessica-drew",
+    "brian-michael-bendis"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

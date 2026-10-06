@@ -4,6 +4,10 @@
   "url": "/news/vtoroy-zaezd-prizrachnogo-gonshchika/",
   "original_url": "http://spidermedia.ru/news/vtoroy-zaezd-prizrachnogo-gonshchika",
   "archived": "https://web.archive.org/web/20250116123412/http://spidermedia.ru/news/vtoroy-zaezd-prizrachnogo-gonshchika",
+  "tags": [
+    "marvel",
+    "prizrachnyj-gonshhik"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,15 @@
   "url": "/news/pozitivnyy-foto-reportazh-so-semok-mstiteley/",
   "original_url": "https://spidermedia.ru/news/pozitivnyy-foto-reportazh-so-semok-mstiteley",
   "archived": "https://web.archive.org/web/20251211033948/https://spidermedia.ru/news/pozitivnyy-foto-reportazh-so-semok-mstiteley",
+  "tags": [
+    "black-widow",
+    "marvel",
+    "loki",
+    "thor",
+    "hawkeye",
+    "captain-america",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

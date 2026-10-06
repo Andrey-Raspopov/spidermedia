@@ -4,6 +4,11 @@
   "url": "/blog/silver/nemnogo-fiziki/",
   "original_url": "http://spidermedia.ru/blog/silver/nemnogo-fiziki",
   "archived": "https://web.archive.org/web/20220815202115/http://spidermedia.ru/blog/silver/nemnogo-fiziki",
+  "tags": [
+    "marvel",
+    "thor",
+    "j-michael-straczynski"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

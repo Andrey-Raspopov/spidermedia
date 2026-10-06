@@ -4,6 +4,9 @@
   "url": "/news/dobavka-omelli/",
   "original_url": "http://spidermedia.ru/news/dobavka-omelli",
   "archived": "https://web.archive.org/web/20250920202418/http://spidermedia.ru/news/dobavka-omelli",
+  "tags": [
+    "bryan-lee-o-malley"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

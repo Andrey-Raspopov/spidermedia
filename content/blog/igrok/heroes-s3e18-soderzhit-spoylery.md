@@ -4,6 +4,12 @@
   "url": "/blog/igrok/heroes-s3e18-soderzhit-spoylery/",
   "original_url": "http://spidermedia.ru/blog/igrok/heroes-s3e18-soderzhit-spoylery",
   "archived": "https://web.archive.org/web/20150507133249/http://spidermedia.ru/blog/igrok/heroes-s3e18-soderzhit-spoylery",
+  "tags": [
+    "recenziya",
+    "heroes",
+    "serialy",
+    "geroi"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

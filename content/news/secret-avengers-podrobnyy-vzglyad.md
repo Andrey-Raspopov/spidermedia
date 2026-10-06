@@ -4,6 +4,13 @@
   "url": "/news/secret-avengers-podrobnyy-vzglyad/",
   "original_url": "http://spidermedia.ru/news/secret-avengers-podrobnyy-vzglyad",
   "archived": "https://web.archive.org/web/20260206214817/http://spidermedia.ru/news/secret-avengers-podrobnyy-vzglyad",
+  "tags": [
+    "ed-brubaker",
+    "secret-avengers",
+    "majk-deodato",
+    "marvel",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

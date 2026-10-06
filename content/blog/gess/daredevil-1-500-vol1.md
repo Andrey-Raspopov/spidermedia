@@ -4,6 +4,12 @@
   "url": "/blog/gess/daredevil-1-500-vol1/",
   "original_url": "http://spidermedia.ru/blog/gess/daredevil-1-500-vol1",
   "archived": "https://web.archive.org/web/20260115052247/http://spidermedia.ru/blog/gess/daredevil-1-500-vol1",
+  "tags": [
+    "mnenie",
+    "geek-stuff",
+    "daredevil",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

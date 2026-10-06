@@ -4,6 +4,15 @@
   "url": "/news/batman-beyond-v-polku-ongoingov-pribylo/",
   "original_url": "http://spidermedia.ru/news/batman-beyond-v-polku-ongoingov-pribylo",
   "archived": "https://web.archive.org/web/20120607112920/http://spidermedia.ru/news/batman-beyond-v-polku-ongoingov-pribylo",
+  "tags": [
+    "batman-beyond",
+    "dc-comics",
+    "dustin-nguyen",
+    "ryan-benjamin",
+    "betmen",
+    "komiksy",
+    "adam-beechen"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/blog/derden/chitaem-russkie-komiksy-besoboy-01-bubble-2012/",
   "original_url": "https://spidermedia.ru/blog/derden/chitaem-russkie-komiksy-besoboy-01-bubble-2012",
   "archived": "https://web.archive.org/web/20260206224633/https://spidermedia.ru/blog/derden/chitaem-russkie-komiksy-besoboy-01-bubble-2012",
+  "tags": [
+    "besoboj",
+    "bubble",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

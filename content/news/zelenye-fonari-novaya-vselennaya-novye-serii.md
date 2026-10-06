@@ -4,6 +4,21 @@
   "url": "/news/zelenye-fonari-novaya-vselennaya-novye-serii/",
   "original_url": "http://spidermedia.ru/news/zelenye-fonari-novaya-vselennaya-novye-serii",
   "archived": "https://web.archive.org/web/20260211191827/http://spidermedia.ru/news/zelenye-fonari-novaya-vselennaya-novye-serii",
+  "tags": [
+    "dag-manke",
+    "green-lantern",
+    "new-guardians",
+    "red-lantern",
+    "atrocitus",
+    "geoff-johns",
+    "toni-bedard",
+    "fernando-pasarin",
+    "peter-milligan",
+    "piter-tomasi",
+    "ed-benes",
+    "tajler-kirkham",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

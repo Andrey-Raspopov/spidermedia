@@ -4,6 +4,18 @@
   "url": "/news/prekrasnaya-polovina-marvel-kogo-stoit-ozhidat-na-ekranah-v-blizhayshem-budushchem/",
   "original_url": "https://spidermedia.ru/news/prekrasnaya-polovina-marvel-kogo-stoit-ozhidat-na-ekranah-v-blizhayshem-budushchem",
   "archived": "https://web.archive.org/web/20260125131715/https://spidermedia.ru/news/prekrasnaya-polovina-marvel-kogo-stoit-ozhidat-na-ekranah-v-blizhayshem-budushchem",
+  "tags": [
+    "elektra",
+    "black-widow",
+    "serialy",
+    "sif",
+    "peresmeshnica",
+    "miss-marvel",
+    "miss-amerika",
+    "she-hulk",
+    "dakota-nors",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

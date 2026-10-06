@@ -4,6 +4,17 @@
   "url": "/news/otomstit-za-vseh/",
   "original_url": "https://spidermedia.ru/news/otomstit-za-vseh",
   "archived": "https://web.archive.org/web/20260312022545/https://spidermedia.ru/news/otomstit-za-vseh",
+  "tags": [
+    "umberto-ramos",
+    "stiv-epting",
+    "rajan-stegman",
+    "avengers",
+    "den-slott",
+    "dzhuzeppe-kamunkoli",
+    "dzhonatan-hikman",
+    "new-avengers",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

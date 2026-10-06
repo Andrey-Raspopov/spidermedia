@@ -4,6 +4,12 @@
   "url": "/news/zf-v-3d/",
   "original_url": "http://spidermedia.ru/news/zf-v-3d",
   "archived": "https://web.archive.org/web/20120718061028/http://spidermedia.ru/news/zf-v-3d",
+  "tags": [
+    "dc-comics",
+    "green-lantern",
+    "zelenyy-fonar",
+    "kino"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

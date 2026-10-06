@@ -4,6 +4,11 @@
   "url": "/comics/wolf-1-advance-review/",
   "original_url": "http://spidermedia.ru/comics/wolf-1-advance-review",
   "archived": "https://web.archive.org/web/20260313114058/http://spidermedia.ru/comics/wolf-1-advance-review",
+  "tags": [
+    "image-comics",
+    "ales-kot",
+    "recenziya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

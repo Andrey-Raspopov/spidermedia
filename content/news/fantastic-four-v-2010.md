@@ -4,6 +4,15 @@
   "url": "/news/fantastic-four-v-2010/",
   "original_url": "http://spidermedia.ru/news/fantastic-four-v-2010",
   "archived": "https://web.archive.org/web/20120608033815/http://spidermedia.ru/news/fantastic-four-v-2010",
+  "tags": [
+    "fantastic-four",
+    "art-0",
+    "jonathan-hickman",
+    "deyl-iglshem",
+    "komiksy",
+    "marvel",
+    "fantasticheskaya-chetverka"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

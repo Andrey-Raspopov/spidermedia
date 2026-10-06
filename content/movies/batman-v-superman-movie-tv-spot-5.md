@@ -4,6 +4,11 @@
   "url": "/movies/batman-v-superman-movie-tv-spot-5/",
   "original_url": "https://spidermedia.ru/movies/batman-v-superman-movie-tv-spot-5",
   "archived": "https://web.archive.org/web/20260124055444/https://spidermedia.ru/movies/batman-v-superman-movie-tv-spot-5",
+  "tags": [
+    "dc-comics",
+    "batman",
+    "superman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

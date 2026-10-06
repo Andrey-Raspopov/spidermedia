@@ -4,6 +4,11 @@
   "url": "/news/treyler-i-postery-transformerov-4/",
   "original_url": "http://spidermedia.ru/news/treyler-i-postery-transformerov-4",
   "archived": "https://web.archive.org/web/20250617224947/http://spidermedia.ru/news/treyler-i-postery-transformerov-4",
+  "tags": [
+    "transformers",
+    "trejlery",
+    "postery"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

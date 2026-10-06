@@ -4,6 +4,13 @@
   "url": "/comics/ad-after-death-snyder-lemire-teaser/",
   "original_url": "http://spidermedia.ru/comics/ad-after-death-snyder-lemire-teaser",
   "archived": "https://web.archive.org/web/20260309185230/http://spidermedia.ru/comics/ad-after-death-snyder-lemire-teaser",
+  "tags": [
+    "image-comics",
+    "jeff-lemire",
+    "scott-snyder",
+    "dzheff-lemir",
+    "skott-snajder"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

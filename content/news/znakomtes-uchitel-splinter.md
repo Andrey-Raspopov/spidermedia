@@ -4,6 +4,11 @@
   "url": "/news/znakomtes-uchitel-splinter/",
   "original_url": "http://spidermedia.ru/news/znakomtes-uchitel-splinter",
   "archived": "https://web.archive.org/web/20130619064727/http://spidermedia.ru/news/znakomtes-uchitel-splinter",
+  "tags": [
+    "tmnt",
+    "kino",
+    "cherepashki-nindzya"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

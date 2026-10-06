@@ -1,0 +1,20 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+<link rel="stylesheet" href="{{ "pagefind/pagefind-ui.css" | relURL }}">
+<div id="search"></div>
+<noscript><p>Для поиска нужен JavaScript.</p></noscript>
+<script src="{{ "pagefind/pagefind-ui.js" | relURL }}"></script>
+<script>
+  window.addEventListener("DOMContentLoaded", function () {
+    var ui = new PagefindUI({
+      element: "#search",
+      showSubResults: true,
+      showImages: false,
+      resetStyles: false,
+      pageSize: 10
+    });
+    var q = new URLSearchParams(location.search).get("q");
+    if (q) ui.triggerSearch(q);
+  });
+</script>
+{{ end }}

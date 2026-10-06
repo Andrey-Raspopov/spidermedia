@@ -4,6 +4,18 @@
   "url": "/news/ultimate-comics-v-mae-prevyu-ucnu-1/",
   "original_url": "https://spidermedia.ru/news/ultimate-comics-v-mae-prevyu-ucnu-1",
   "archived": "https://web.archive.org/web/20260208191757/https://spidermedia.ru/news/ultimate-comics-v-mae-prevyu-ucnu-1",
+  "tags": [
+    "brian-michael-bendis",
+    "david-lafuente",
+    "frank-cho",
+    "jeph-loeb",
+    "ultimate",
+    "dzhef-loeb",
+    "devid-lafuente",
+    "lejnil-frensis-yu",
+    "frenk-cho",
+    "mark-millar"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

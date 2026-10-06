@@ -4,6 +4,10 @@
   "url": "/comics/steve-dillon-died/",
   "original_url": "http://spidermedia.ru/comics/steve-dillon-died",
   "archived": "https://web.archive.org/web/20220811234456/http://spidermedia.ru/comics/steve-dillon-died",
+  "tags": [
+    "rip",
+    "steve-dillon"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

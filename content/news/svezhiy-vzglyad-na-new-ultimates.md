@@ -4,6 +4,13 @@
   "url": "/news/svezhiy-vzglyad-na-new-ultimates/",
   "original_url": "http://spidermedia.ru/news/svezhiy-vzglyad-na-new-ultimates",
   "archived": "https://web.archive.org/web/20250803235541/http://spidermedia.ru/news/svezhiy-vzglyad-na-new-ultimates",
+  "tags": [
+    "frenk-cho",
+    "dzhef-loeb",
+    "ultimate",
+    "ultimates",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/news/detektiv-vsem-po-karmanu/",
   "original_url": "https://spidermedia.ru/news/detektiv-vsem-po-karmanu",
   "archived": "https://web.archive.org/web/20250424094639/https://spidermedia.ru/news/detektiv-vsem-po-karmanu",
+  "tags": [
+    "markos-martin",
+    "brian-k-vaughan"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

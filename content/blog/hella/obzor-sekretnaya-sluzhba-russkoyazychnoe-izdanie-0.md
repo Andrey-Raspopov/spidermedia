@@ -4,6 +4,13 @@
   "url": "/blog/hella/obzor-sekretnaya-sluzhba-russkoyazychnoe-izdanie-0/",
   "original_url": "http://spidermedia.ru/blog/hella/obzor-sekretnaya-sluzhba-russkoyazychnoe-izdanie-0",
   "archived": "https://web.archive.org/web/20260121002020/http://spidermedia.ru/blog/hella/obzor-sekretnaya-sluzhba-russkoyazychnoe-izdanie-0",
+  "tags": [
+    "dejv-gibbons",
+    "zarubezhnye-komiksy-na-russkom",
+    "komilfo",
+    "mark-millar",
+    "sekretnaya-sluzhba"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

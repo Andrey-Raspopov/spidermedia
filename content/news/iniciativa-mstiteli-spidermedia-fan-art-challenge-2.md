@@ -4,6 +4,12 @@
   "url": "/news/iniciativa-mstiteli-spidermedia-fan-art-challenge-2/",
   "original_url": "https://spidermedia.ru/news/iniciativa-mstiteli-spidermedia-fan-art-challenge-2",
   "archived": "https://web.archive.org/web/20251216120224/https://spidermedia.ru/news/iniciativa-mstiteli-spidermedia-fan-art-challenge-2",
+  "tags": [
+    "fanart",
+    "new-avengers",
+    "marvel",
+    "challenge"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/movies/10-cloverfield-lane-movie-2016-review/",
   "original_url": "http://spidermedia.ru/movies/10-cloverfield-lane-movie-2016-review",
   "archived": "https://web.archive.org/web/20250806051931/http://spidermedia.ru/movies/10-cloverfield-lane-movie-2016-review",
+  "tags": [
+    "recenziya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

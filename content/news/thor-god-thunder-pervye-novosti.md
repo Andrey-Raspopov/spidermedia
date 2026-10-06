@@ -4,6 +4,12 @@
   "url": "/news/thor-god-thunder-pervye-novosti/",
   "original_url": "http://spidermedia.ru/news/thor-god-thunder-pervye-novosti",
   "archived": "https://web.archive.org/web/20251019001120/http://spidermedia.ru/news/thor-god-thunder-pervye-novosti",
+  "tags": [
+    "loki",
+    "igry",
+    "thor",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

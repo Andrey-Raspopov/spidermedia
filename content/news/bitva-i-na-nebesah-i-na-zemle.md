@@ -4,6 +4,16 @@
   "url": "/news/bitva-i-na-nebesah-i-na-zemle/",
   "original_url": "http://spidermedia.ru/news/bitva-i-na-nebesah-i-na-zemle",
   "archived": "https://web.archive.org/web/20120608150010/http://spidermedia.ru/news/bitva-i-na-nebesah-i-na-zemle",
+  "tags": [
+    "ghost-rider",
+    "art-0",
+    "dzhey-li",
+    "dzheyson-aaron",
+    "komiksy",
+    "marvel",
+    "prizrachnyy-vsadnik",
+    "roland-boski"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

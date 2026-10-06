@@ -4,6 +4,10 @@
   "url": "/comics/horror-week-shiki/",
   "original_url": "http://spidermedia.ru/comics/horror-week-shiki",
   "archived": "https://web.archive.org/web/20250909141730/http://spidermedia.ru/comics/horror-week-shiki",
+  "tags": [
+    "manga",
+    "horror-week"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

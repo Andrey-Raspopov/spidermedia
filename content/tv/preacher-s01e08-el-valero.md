@@ -4,6 +4,10 @@
   "url": "/tv/preacher-s01e08-el-valero/",
   "original_url": "https://spidermedia.ru/tv/preacher-s01e08-el-valero",
   "archived": "https://web.archive.org/web/20251117005107/https://spidermedia.ru/tv/preacher-s01e08-el-valero",
+  "tags": [
+    "vertigo",
+    "preacher"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

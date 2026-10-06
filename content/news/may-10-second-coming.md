@@ -4,6 +4,12 @@
   "url": "/news/may-10-second-coming/",
   "original_url": "http://spidermedia.ru/news/may-10-second-coming",
   "archived": "https://web.archive.org/web/20251106233821/http://spidermedia.ru/news/may-10-second-coming",
+  "tags": [
+    "relizy",
+    "x-men",
+    "second-coming",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

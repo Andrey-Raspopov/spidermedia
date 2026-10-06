@@ -4,6 +4,10 @@
   "url": "/tv/finn-dzhons-sygraet-zheleznogo-kulaka/",
   "original_url": "https://spidermedia.ru/tv/finn-dzhons-sygraet-zheleznogo-kulaka",
   "archived": "https://web.archive.org/web/20250806091254/https://spidermedia.ru/tv/finn-dzhons-sygraet-zheleznogo-kulaka",
+  "tags": [
+    "marvel",
+    "iron-fist"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

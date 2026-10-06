@@ -4,6 +4,10 @@
   "url": "/news/virusnyy-rolik-novogo-robokopa/",
   "original_url": "http://spidermedia.ru/news/virusnyy-rolik-novogo-robokopa",
   "archived": "https://web.archive.org/web/20190823010114/http://spidermedia.ru:80/news/virusnyy-rolik-novogo-robokopa",
+  "tags": [
+    "robocop",
+    "viral"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

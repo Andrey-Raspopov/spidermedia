@@ -4,6 +4,10 @@
   "url": "/comics/recenziya-fantasticheskaya-chetvyorka-reshit-vsyo/",
   "original_url": "http://spidermedia.ru/comics/recenziya-fantasticheskaya-chetvyorka-reshit-vsyo",
   "archived": "https://web.archive.org/web/20260120145832/http://spidermedia.ru/comics/recenziya-fantasticheskaya-chetvyorka-reshit-vsyo",
+  "tags": [
+    "parallel-comics",
+    "obzor"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

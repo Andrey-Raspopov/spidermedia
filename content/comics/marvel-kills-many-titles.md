@@ -4,6 +4,10 @@
   "url": "/comics/marvel-kills-many-titles/",
   "original_url": "https://spidermedia.ru/comics/marvel-kills-many-titles",
   "archived": "https://web.archive.org/web/20251211030431/https://spidermedia.ru/comics/marvel-kills-many-titles",
+  "tags": [
+    "marvel",
+    "imho"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

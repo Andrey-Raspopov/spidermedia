@@ -4,6 +4,10 @@
   "url": "/comics/best-column-about-comics-09-last-look/",
   "original_url": "http://spidermedia.ru/comics/best-column-about-comics-09-last-look",
   "archived": "https://web.archive.org/web/20251209144656/http://spidermedia.ru/comics/best-column-about-comics-09-last-look",
+  "tags": [
+    "best-column-about-comics",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

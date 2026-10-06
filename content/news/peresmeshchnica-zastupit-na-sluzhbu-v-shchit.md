@@ -4,6 +4,11 @@
   "url": "/news/peresmeshchnica-zastupit-na-sluzhbu-v-shchit/",
   "original_url": "https://spidermedia.ru/news/peresmeshchnica-zastupit-na-sluzhbu-v-shchit",
   "archived": "https://web.archive.org/web/20251108194624/https://spidermedia.ru/news/peresmeshchnica-zastupit-na-sluzhbu-v-shchit",
+  "tags": [
+    "kasting",
+    "agenty-shhita",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

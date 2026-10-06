@@ -4,6 +4,11 @@
   "url": "/news/novoe-priobretenie-dc-comics/",
   "original_url": "http://spidermedia.ru/news/novoe-priobretenie-dc-comics",
   "archived": "https://web.archive.org/web/20260312022506/http://spidermedia.ru/news/novoe-priobretenie-dc-comics",
+  "tags": [
+    "devid-finch",
+    "art-0",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

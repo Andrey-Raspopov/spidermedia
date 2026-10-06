@@ -4,6 +4,12 @@
   "url": "/blog/sterpazook/agent-koulson-na-prezentacii-ekzoskeleta-xos-2/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/agent-koulson-na-prezentacii-ekzoskeleta-xos-2",
   "archived": "https://web.archive.org/web/20260117214047/http://spidermedia.ru/blog/sterpazook/agent-koulson-na-prezentacii-ekzoskeleta-xos-2",
+  "tags": [
+    "novye-tehnologii",
+    "nauka",
+    "science",
+    "iron-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

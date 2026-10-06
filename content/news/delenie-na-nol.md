@@ -4,6 +4,15 @@
   "url": "/news/delenie-na-nol/",
   "original_url": "https://spidermedia.ru/news/delenie-na-nol",
   "archived": "https://web.archive.org/web/20251216171835/https://spidermedia.ru/news/delenie-na-nol",
+  "tags": [
+    "skott-snajder",
+    "prizrachnyj-neznakomec",
+    "dan-didio",
+    "gillem-marsh",
+    "aaron-lopresti",
+    "phantom-stranger",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

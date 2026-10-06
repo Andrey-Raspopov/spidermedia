@@ -4,6 +4,10 @@
   "url": "/comics/pravyj-pereplet-05-back-to-school/",
   "original_url": "https://spidermedia.ru/comics/pravyj-pereplet-05-back-to-school",
   "archived": "https://web.archive.org/web/20250909142102/https://spidermedia.ru/comics/pravyj-pereplet-05-back-to-school",
+  "tags": [
+    "manga",
+    "right-binding"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

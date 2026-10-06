@@ -4,6 +4,12 @@
   "url": "/news/daredevil-proshchaetsya-s-vami/",
   "original_url": "http://spidermedia.ru/news/daredevil-proshchaetsya-s-vami",
   "archived": "https://web.archive.org/web/20251216113711/http://spidermedia.ru/news/daredevil-proshchaetsya-s-vami",
+  "tags": [
+    "daredevil",
+    "marvel",
+    "mark-waid",
+    "chris-samnee"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

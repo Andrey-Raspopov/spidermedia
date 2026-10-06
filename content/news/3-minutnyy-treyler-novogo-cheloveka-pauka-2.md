@@ -4,6 +4,11 @@
   "url": "/news/3-minutnyy-treyler-novogo-cheloveka-pauka-2/",
   "original_url": "http://spidermedia.ru/news/3-minutnyy-treyler-novogo-cheloveka-pauka-2",
   "archived": "https://web.archive.org/web/20250113160024/http://spidermedia.ru/news/3-minutnyy-treyler-novogo-cheloveka-pauka-2",
+  "tags": [
+    "trejlery",
+    "spider-man",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

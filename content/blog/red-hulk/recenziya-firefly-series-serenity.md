@@ -4,6 +4,14 @@
   "url": "/blog/red-hulk/recenziya-firefly-series-serenity/",
   "original_url": "http://spidermedia.ru/blog/red-hulk/recenziya-firefly-series-serenity",
   "archived": "https://web.archive.org/web/20200803172843/http://spidermedia.ru/blog/red-hulk/recenziya-firefly-series-serenity",
+  "tags": [
+    "mnenie",
+    "recenziya",
+    "serialy",
+    "svetlyachok",
+    "serenity",
+    "sereniti"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

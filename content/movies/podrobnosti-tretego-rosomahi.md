@@ -4,6 +4,12 @@
   "url": "/movies/podrobnosti-tretego-rosomahi/",
   "original_url": "http://spidermedia.ru/movies/podrobnosti-tretego-rosomahi",
   "archived": "https://web.archive.org/web/20260312012544/http://spidermedia.ru/movies/podrobnosti-tretego-rosomahi",
+  "tags": [
+    "marvel",
+    "wolverine",
+    "x-23",
+    "x-men"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

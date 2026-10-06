@@ -4,6 +4,10 @@
   "url": "/blog/happycake-oven/voprosik/",
   "original_url": "http://spidermedia.ru/blog/happycake-oven/voprosik",
   "archived": "https://web.archive.org/web/20111018211415/http://spidermedia.ru/blog/happycake-oven/voprosik",
+  "tags": [
+    "dc-comics",
+    "final-crisis"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

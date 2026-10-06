@@ -4,6 +4,14 @@
   "url": "/news/prevyu-new-avengers-52/",
   "original_url": "https://spidermedia.ru/news/prevyu-new-avengers-52",
   "archived": "https://web.archive.org/web/20260214135524/https://spidermedia.ru/news/prevyu-new-avengers-52",
+  "tags": [
+    "preview",
+    "kris-bachalo",
+    "brian-michael-bendis",
+    "billi-tan",
+    "marvel",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

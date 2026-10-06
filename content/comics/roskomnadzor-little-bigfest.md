@@ -4,6 +4,11 @@
   "url": "/comics/roskomnadzor-little-bigfest/",
   "original_url": "http://spidermedia.ru/comics/roskomnadzor-little-bigfest",
   "archived": "https://web.archive.org/web/20250524061756/http://spidermedia.ru/comics/roskomnadzor-little-bigfest",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "roskomnadzor",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

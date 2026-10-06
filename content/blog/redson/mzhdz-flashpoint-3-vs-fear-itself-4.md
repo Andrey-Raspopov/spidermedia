@@ -4,11 +4,15 @@
   "url": "/blog/redson/mzhdz-flashpoint-3-vs-fear-itself-4/",
   "original_url": "http://spidermedia.ru/blog/redson/mzhdz-flashpoint-3-vs-fear-itself-4",
   "archived": "https://web.archive.org/web/20251116072432/http://spidermedia.ru/blog/redson/mzhdz-flashpoint-3-vs-fear-itself-4",
+  "tags": [
+    "mnenie",
+    "mzhdz"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](https://web.archive.org/web/20251116072432im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz.png)](https://web.archive.org/web/20260206215846/http://spidermedia.ru/tags/mzhdz)
+[![](https://web.archive.org/web/20251116072432im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz.png)](../../../tags/mzhdz/)
 ![](https://web.archive.org/web/20251116072432im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/indignity.jpg)
 It's that time of the month again! Несколько пассивно-агрессивных читателей снова попробуют оценить выпуски двух событий независимо друг от друга! Приступим.
 [Расшифровка системы оценок](../mzhdz-odin-vy-kak-hotite-ya-kak-hochu/).

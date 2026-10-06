@@ -4,6 +4,9 @@
   "url": "/comics/all-things-valiant-44-week-17/",
   "original_url": "http://spidermedia.ru/comics/all-things-valiant-44-week-17",
   "archived": "https://web.archive.org/web/20260125063958/http://spidermedia.ru/comics/all-things-valiant-44-week-17",
+  "tags": [
+    "valiant-entertainment"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

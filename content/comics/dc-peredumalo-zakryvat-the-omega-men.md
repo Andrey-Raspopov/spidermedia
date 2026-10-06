@@ -4,6 +4,9 @@
   "url": "/comics/dc-peredumalo-zakryvat-the-omega-men/",
   "original_url": "http://spidermedia.ru/comics/dc-peredumalo-zakryvat-the-omega-men",
   "archived": "https://web.archive.org/web/20250327140324/http://spidermedia.ru/comics/dc-peredumalo-zakryvat-the-omega-men",
+  "tags": [
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

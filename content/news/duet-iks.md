@@ -4,6 +4,14 @@
   "url": "/news/duet-iks/",
   "original_url": "http://spidermedia.ru/news/duet-iks",
   "archived": "https://web.archive.org/web/20190806113902/http://spidermedia.ru:80/news/duet-iks",
+  "tags": [
+    "matt-fraction",
+    "kiron-gillen",
+    "greg-lend",
+    "art-0",
+    "x-men",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

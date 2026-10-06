@@ -4,6 +4,12 @@
   "url": "/blog/happycake-oven/so-cash/",
   "original_url": "http://spidermedia.ru/blog/happycake-oven/so-cash",
   "archived": "https://web.archive.org/web/20111018101434/http://spidermedia.ru/blog/happycake-oven/so-cash",
+  "tags": [
+    "dc-comics",
+    "legion-super-heroes",
+    "superman-batman",
+    "adventure-comics"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

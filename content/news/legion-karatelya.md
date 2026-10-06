@@ -4,6 +4,19 @@
   "url": "/news/legion-karatelya/",
   "original_url": "http://spidermedia.ru/news/legion-karatelya",
   "archived": "https://web.archive.org/web/20120608023133/http://spidermedia.ru/news/legion-karatelya",
+  "tags": [
+    "legion-monsters",
+    "punisher",
+    "art-0",
+    "karatel",
+    "komiksy",
+    "legion-monstrov",
+    "mayk-makkon",
+    "marvel",
+    "oblozhki",
+    "rik-remender",
+    "toni-mur"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

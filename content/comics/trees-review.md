@@ -4,6 +4,10 @@
   "url": "/comics/trees-review/",
   "original_url": "https://spidermedia.ru/comics/trees-review",
   "archived": "https://web.archive.org/web/20250518130730/https://spidermedia.ru/comics/trees-review",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "warren-ellis"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

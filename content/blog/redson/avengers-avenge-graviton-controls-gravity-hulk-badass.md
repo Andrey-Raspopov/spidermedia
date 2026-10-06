@@ -4,6 +4,12 @@
   "url": "/blog/redson/avengers-avenge-graviton-controls-gravity-hulk-badass/",
   "original_url": "https://spidermedia.ru/blog/redson/avengers-avenge-graviton-controls-gravity-hulk-badass",
   "archived": "https://web.archive.org/web/20251207100738/https://spidermedia.ru/blog/redson/avengers-avenge-graviton-controls-gravity-hulk-badass",
+  "tags": [
+    "avengers",
+    "marvel",
+    "animaciya",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

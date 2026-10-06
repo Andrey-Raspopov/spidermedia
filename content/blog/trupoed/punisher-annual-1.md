@@ -4,6 +4,15 @@
   "url": "/blog/trupoed/punisher-annual-1/",
   "original_url": "http://spidermedia.ru/blog/trupoed/punisher-annual-1",
   "archived": "https://web.archive.org/web/20111026115545/http://spidermedia.ru/blog/trupoed/punisher-annual-1",
+  "tags": [
+    "marvel",
+    "punisher",
+    "spider-man",
+    "karatel",
+    "komiksy",
+    "oblozhki",
+    "chelovek-pauk"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

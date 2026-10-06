@@ -4,6 +4,23 @@
   "url": "/news/trizhdy-iksy/",
   "original_url": "http://spidermedia.ru/news/trizhdy-iksy",
   "archived": "https://web.archive.org/web/20260313115453/http://spidermedia.ru/news/trizhdy-iksy",
+  "tags": [
+    "fil-himenez",
+    "warren-ellis",
+    "matt-fraction",
+    "kris-jost",
+    "krejg-kajl",
+    "greg-lend",
+    "bing-kansino",
+    "x-men",
+    "phil-jimenez",
+    "marvel",
+    "greg-land",
+    "craig-kyle",
+    "chris-yost",
+    "utopia",
+    "nation-x"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

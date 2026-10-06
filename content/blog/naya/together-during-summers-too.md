@@ -4,6 +4,12 @@
   "url": "/blog/naya/together-during-summers-too/",
   "original_url": "http://spidermedia.ru/blog/naya/together-during-summers-too",
   "archived": "https://web.archive.org/web/20120607132549/http://spidermedia.ru/blog/naya/together-during-summers-too",
+  "tags": [
+    "manhwa",
+    "one-shot",
+    "shoujo",
+    "skachat"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

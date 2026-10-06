@@ -4,6 +4,10 @@
   "url": "/comics/hellboymedia-hellboyverse-reading-order/",
   "original_url": "http://spidermedia.ru/comics/hellboymedia-hellboyverse-reading-order",
   "archived": "https://web.archive.org/web/20260211094627/http://spidermedia.ru/comics/hellboymedia-hellboyverse-reading-order",
+  "tags": [
+    "hellboymedia",
+    "reading-order"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

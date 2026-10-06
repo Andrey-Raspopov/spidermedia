@@ -4,6 +4,11 @@
   "url": "/news/dva-novyh-tv-spota-pervogo-mstitelya-kapitan-amerika/",
   "original_url": "https://spidermedia.ru/news/dva-novyh-tv-spota-pervogo-mstitelya-kapitan-amerika",
   "archived": "https://web.archive.org/web/20250512121409/https://spidermedia.ru/news/dva-novyh-tv-spota-pervogo-mstitelya-kapitan-amerika",
+  "tags": [
+    "trejlery",
+    "marvel",
+    "captain-america"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

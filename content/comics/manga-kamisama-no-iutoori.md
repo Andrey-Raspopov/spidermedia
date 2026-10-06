@@ -4,6 +4,9 @@
   "url": "/comics/manga-kamisama-no-iutoori/",
   "original_url": "https://spidermedia.ru/comics/manga-kamisama-no-iutoori",
   "archived": "https://web.archive.org/web/20251115031257/https://spidermedia.ru/comics/manga-kamisama-no-iutoori",
+  "tags": [
+    "manga"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

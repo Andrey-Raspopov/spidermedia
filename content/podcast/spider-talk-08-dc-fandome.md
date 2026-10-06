@@ -4,6 +4,9 @@
   "url": "/podcast/spider-talk-08-dc-fandome/",
   "original_url": "http://spidermedia.ru/podcast/spider-talk-08-dc-fandome",
   "archived": "https://web.archive.org/web/20251216121108/http://spidermedia.ru/podcast/spider-talk-08-dc-fandome",
+  "tags": [
+    "spider-talk"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

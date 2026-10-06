@@ -4,6 +4,12 @@
   "url": "/news/prevyu-rossiyskogo-izdaniya-hraniteley/",
   "original_url": "http://spidermedia.ru/news/prevyu-rossiyskogo-izdaniya-hraniteley",
   "archived": "https://web.archive.org/web/20250215013012/http://spidermedia.ru/news/prevyu-rossiyskogo-izdaniya-hraniteley",
+  "tags": [
+    "hraniteli",
+    "komiks-art",
+    "zarubezhnye-komiksy-na-russkom",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

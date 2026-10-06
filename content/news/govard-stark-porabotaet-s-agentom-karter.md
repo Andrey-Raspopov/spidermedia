@@ -4,6 +4,11 @@
   "url": "/news/govard-stark-porabotaet-s-agentom-karter/",
   "original_url": "http://spidermedia.ru/news/govard-stark-porabotaet-s-agentom-karter",
   "archived": "https://web.archive.org/web/20250618124423/http://spidermedia.ru/news/govard-stark-porabotaet-s-agentom-karter",
+  "tags": [
+    "agent-karter",
+    "serialy",
+    "kasting"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

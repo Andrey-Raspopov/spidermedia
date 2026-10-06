@@ -4,6 +4,10 @@
   "url": "/news/jennifers-body/",
   "original_url": "https://spidermedia.ru/news/jennifers-body",
   "archived": "https://web.archive.org/web/20230604093353/https://spidermedia.ru/news/jennifers-body",
+  "tags": [
+    "jennifers-body",
+    "boom-studios"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

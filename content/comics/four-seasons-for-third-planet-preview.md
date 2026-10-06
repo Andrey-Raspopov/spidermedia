@@ -4,6 +4,10 @@
   "url": "/comics/four-seasons-for-third-planet-preview/",
   "original_url": "https://spidermedia.ru/comics/four-seasons-for-third-planet-preview",
   "archived": "https://web.archive.org/web/20251108193136/https://spidermedia.ru/comics/four-seasons-for-third-planet-preview",
+  "tags": [
+    "belyj-edinorog",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

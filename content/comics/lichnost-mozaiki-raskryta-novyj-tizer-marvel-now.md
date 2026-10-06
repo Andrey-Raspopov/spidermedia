@@ -4,6 +4,9 @@
   "url": "/comics/lichnost-mozaiki-raskryta-novyj-tizer-marvel-now/",
   "original_url": "https://spidermedia.ru/comics/lichnost-mozaiki-raskryta-novyj-tizer-marvel-now",
   "archived": "https://web.archive.org/web/20240908074114/https://spidermedia.ru/comics/lichnost-mozaiki-raskryta-novyj-tizer-marvel-now",
+  "tags": [
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

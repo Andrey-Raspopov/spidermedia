@@ -4,6 +4,10 @@
   "url": "/comics/luchshaya-rubrika-o-komiksah-07-sabertooth-swordsman/",
   "original_url": "http://spidermedia.ru/comics/luchshaya-rubrika-o-komiksah-07-sabertooth-swordsman",
   "archived": "https://web.archive.org/web/20251206153313/http://spidermedia.ru/comics/luchshaya-rubrika-o-komiksah-07-sabertooth-swordsman",
+  "tags": [
+    "best-column-about-comics",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

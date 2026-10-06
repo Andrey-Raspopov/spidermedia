@@ -4,6 +4,17 @@
   "url": "/news/zheleznyy-chelovek-2-process-sozdaniya-kostyumov-i-speceffektov/",
   "original_url": "http://spidermedia.ru/news/zheleznyy-chelovek-2-process-sozdaniya-kostyumov-i-speceffektov",
   "archived": "https://web.archive.org/web/20120612195704/http://spidermedia.ru/news/zheleznyy-chelovek-2-process-sozdaniya-kostyumov-i-speceffektov",
+  "tags": [
+    "iron-man",
+    "iron-man-2",
+    "video",
+    "dzhon-favro",
+    "zheleznyy-chelovek",
+    "zheleznyy-chelovek-2",
+    "kino",
+    "komiksy",
+    "marvel"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

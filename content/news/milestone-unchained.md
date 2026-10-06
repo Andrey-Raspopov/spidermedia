@@ -4,6 +4,11 @@
   "url": "/news/milestone-unchained/",
   "original_url": "http://spidermedia.ru/news/milestone-unchained",
   "archived": "https://web.archive.org/web/20150320030003/http://spidermedia.ru/news/milestone-unchained",
+  "tags": [
+    "redzhinald-hadlin",
+    "denis-kovan",
+    "milestone"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

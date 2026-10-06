@@ -4,6 +4,12 @@
   "url": "/news/v-rossii-izdan-komiks-rafaelya-grampa-i-markusa-penna/",
   "original_url": "http://spidermedia.ru/news/v-rossii-izdan-komiks-rafaelya-grampa-i-markusa-penna",
   "archived": "https://web.archive.org/web/20250617234727/http://spidermedia.ru/news/v-rossii-izdan-komiks-rafaelya-grampa-i-markusa-penna",
+  "tags": [
+    "komilfo",
+    "rafael-grampa",
+    "zarubezhnye-komiksy-na-russkom",
+    "dark-horse"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/blog/samm-o/plohie-komiksy-inc-emo-akvamen-doktor-hu-komiksy-i-plohoy-ivent-ne-schism/",
   "original_url": "http://spidermedia.ru/blog/samm-o/plohie-komiksy-inc-emo-akvamen-doktor-hu-komiksy-i-plohoy-ivent-ne-schism",
   "archived": "https://web.archive.org/web/20260125062842/http://spidermedia.ru/blog/samm-o/plohie-komiksy-inc-emo-akvamen-doktor-hu-komiksy-i-plohoy-ivent-ne-schism",
+  "tags": [
+    "dc-comics",
+    "idw-publishing"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,13 @@
   "url": "/news/eksklyuziv-prevyu-neuyazvimogo-no21/",
   "original_url": "http://spidermedia.ru/news/eksklyuziv-prevyu-neuyazvimogo-no21",
   "archived": "https://web.archive.org/web/20250324154310/http://spidermedia.ru/news/eksklyuziv-prevyu-neuyazvimogo-no21",
+  "tags": [
+    "invincible",
+    "zarubezhnye-komiksy-na-russkom",
+    "izdatelstvo-42",
+    "robert-kirkman",
+    "ryan-ottley"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

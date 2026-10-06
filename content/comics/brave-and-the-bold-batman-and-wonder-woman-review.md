@@ -4,6 +4,11 @@
   "url": "/comics/brave-and-the-bold-batman-and-wonder-woman-review/",
   "original_url": "http://spidermedia.ru/comics/brave-and-the-bold-batman-and-wonder-woman-review",
   "archived": "https://web.archive.org/web/20260313121130/http://spidermedia.ru/comics/brave-and-the-bold-batman-and-wonder-woman-review",
+  "tags": [
+    "dc-comics",
+    "batman",
+    "wonder-woman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

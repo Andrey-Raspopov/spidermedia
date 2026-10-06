@@ -4,6 +4,10 @@
   "url": "/tv/finn-jones-danny-rand-iron-fist-netflix-series/",
   "original_url": "http://spidermedia.ru/tv/finn-jones-danny-rand-iron-fist-netflix-series",
   "archived": "https://web.archive.org/web/20250909143610/http://spidermedia.ru/tv/finn-jones-danny-rand-iron-fist-netflix-series",
+  "tags": [
+    "marvel",
+    "iron-fist"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

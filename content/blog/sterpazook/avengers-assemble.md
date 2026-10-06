@@ -4,6 +4,14 @@
   "url": "/blog/sterpazook/avengers-assemble/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/avengers-assemble",
   "archived": "https://web.archive.org/web/20190915014814/http://spidermedia.ru:80/blog/sterpazook/avengers-assemble",
+  "tags": [
+    "marvel",
+    "avengers",
+    "thor",
+    "industriya",
+    "captain-america",
+    "istoriya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,16 @@
   "url": "/blog/ironman/iron-man-vault-3-part-4-4/",
   "original_url": "http://spidermedia.ru/blog/ironman/iron-man-vault-3-part-4-4",
   "archived": "https://web.archive.org/web/20220808153444/http://spidermedia.ru/blog/ironman/iron-man-vault-3-part-4-4",
+  "tags": [
+    "tom-morgan",
+    "obzor",
+    "len-kaminski",
+    "kevin-hopgud",
+    "war-machine",
+    "marvel",
+    "iron-man",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

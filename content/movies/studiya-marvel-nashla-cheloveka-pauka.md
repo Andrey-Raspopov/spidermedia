@@ -4,6 +4,10 @@
   "url": "/movies/studiya-marvel-nashla-cheloveka-pauka/",
   "original_url": "https://spidermedia.ru/movies/studiya-marvel-nashla-cheloveka-pauka",
   "archived": "https://web.archive.org/web/20250709071012/https://spidermedia.ru/movies/studiya-marvel-nashla-cheloveka-pauka",
+  "tags": [
+    "marvel",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/news/bring-me-life/",
   "original_url": "http://spidermedia.ru/news/bring-me-life",
   "archived": "https://web.archive.org/web/20251115183257/http://spidermedia.ru/news/bring-me-life",
+  "tags": [
+    "dardevil"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

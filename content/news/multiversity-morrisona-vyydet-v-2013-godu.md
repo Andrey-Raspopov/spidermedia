@@ -4,6 +4,12 @@
   "url": "/news/multiversity-morrisona-vyydet-v-2013-godu/",
   "original_url": "https://spidermedia.ru/news/multiversity-morrisona-vyydet-v-2013-godu",
   "archived": "https://web.archive.org/web/20251208065231/https://spidermedia.ru/news/multiversity-morrisona-vyydet-v-2013-godu",
+  "tags": [
+    "frenk-kuajtli",
+    "preview",
+    "grant-morrison",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

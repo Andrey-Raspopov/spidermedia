@@ -4,6 +4,13 @@
   "url": "/news/prestupnyy-sindikat/",
   "original_url": "http://spidermedia.ru/news/prestupnyy-sindikat",
   "archived": "https://web.archive.org/web/20260215080145/http://spidermedia.ru/news/prestupnyy-sindikat",
+  "tags": [
+    "mark-millar",
+    "dzhon-romita-ml",
+    "art-0",
+    "kick-ass",
+    "icon-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

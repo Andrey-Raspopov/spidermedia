@@ -4,6 +4,11 @@
   "url": "/comics/sdcc-2015-star-wars-chewbacca/",
   "original_url": "https://spidermedia.ru/comics/sdcc-2015-star-wars-chewbacca",
   "archived": "https://web.archive.org/web/20251216123406/https://spidermedia.ru/comics/sdcc-2015-star-wars-chewbacca",
+  "tags": [
+    "marvel",
+    "san-diego-comic-con-international",
+    "star-wars"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

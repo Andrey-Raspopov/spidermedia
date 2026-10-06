@@ -4,6 +4,10 @@
   "url": "/movies/dmg-plus-valiant/",
   "original_url": "https://spidermedia.ru/movies/dmg-plus-valiant",
   "archived": "https://web.archive.org/web/20260125054952/https://spidermedia.ru/movies/dmg-plus-valiant",
+  "tags": [
+    "valiant-entertainment",
+    "j-michael-straczynski"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

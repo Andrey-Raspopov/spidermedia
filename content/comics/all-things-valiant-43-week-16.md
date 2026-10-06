@@ -4,6 +4,9 @@
   "url": "/comics/all-things-valiant-43-week-16/",
   "original_url": "http://spidermedia.ru/comics/all-things-valiant-43-week-16",
   "archived": "https://web.archive.org/web/20260312010447/http://spidermedia.ru/comics/all-things-valiant-43-week-16",
+  "tags": [
+    "valiant-entertainment"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

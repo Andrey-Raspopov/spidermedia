@@ -4,6 +4,18 @@
   "url": "/news/v-temnote-da-ne-v-obide/",
   "original_url": "https://spidermedia.ru/news/v-temnote-da-ne-v-obide",
   "archived": "https://web.archive.org/web/20260312011253/https://spidermedia.ru/news/v-temnote-da-ne-v-obide",
+  "tags": [
+    "thunderbolts",
+    "red-hulk",
+    "krasnyj-halk",
+    "avengers",
+    "alpha-flight",
+    "kev-uoker",
+    "deklan-shelvi",
+    "dejl-iglshem",
+    "dzheff-parker",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

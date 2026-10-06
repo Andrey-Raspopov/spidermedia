@@ -4,6 +4,10 @@
   "url": "/news/i-dushu-razorvav-napopolam-eyo-v-zabvene-brosil-ya-k-inym-miram-s/",
   "original_url": "http://spidermedia.ru/news/i-dushu-razorvav-napopolam-eyo-v-zabvene-brosil-ya-k-inym-miram-s",
   "archived": "https://web.archive.org/web/20251006132144/http://spidermedia.ru/news/i-dushu-razorvav-napopolam-eyo-v-zabvene-brosil-ya-k-inym-miram-s",
+  "tags": [
+    "kinokonkurs",
+    "enki-bilal"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/blog/derden/komiksy-dc-universe-vypusk-no-17/",
   "original_url": "http://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-17",
   "archived": "https://web.archive.org/web/20260211191820/http://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-17",
+  "tags": [
+    "dc-comics",
+    "teen-titans",
+    "dc-universe-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

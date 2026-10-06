@@ -4,6 +4,12 @@
   "url": "/news/smert-nashla-svoego-geroya-vnimanie-spoyler/",
   "original_url": "http://spidermedia.ru/news/smert-nashla-svoego-geroya-vnimanie-spoyler",
   "archived": "https://web.archive.org/web/20251012174544/http://spidermedia.ru/news/smert-nashla-svoego-geroya-vnimanie-spoyler",
+  "tags": [
+    "mark-bagli",
+    "ultimate",
+    "spider-man",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

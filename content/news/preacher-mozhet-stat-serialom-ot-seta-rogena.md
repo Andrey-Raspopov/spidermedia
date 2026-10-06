@@ -4,6 +4,12 @@
   "url": "/news/preacher-mozhet-stat-serialom-ot-seta-rogena/",
   "original_url": "https://spidermedia.ru/news/preacher-mozhet-stat-serialom-ot-seta-rogena",
   "archived": "https://web.archive.org/web/20260125125547/https://spidermedia.ru/news/preacher-mozhet-stat-serialom-ot-seta-rogena",
+  "tags": [
+    "garth-ennis",
+    "serialy",
+    "preacher",
+    "set-rogen"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

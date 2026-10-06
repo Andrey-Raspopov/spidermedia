@@ -4,6 +4,10 @@
   "url": "/blog/igrok/oh-my-zod/",
   "original_url": "https://spidermedia.ru/blog/igrok/oh-my-zod",
   "archived": "https://web.archive.org/web/20250806061516/https://spidermedia.ru/blog/igrok/oh-my-zod",
+  "tags": [
+    "figurki",
+    "pop-skulptura"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

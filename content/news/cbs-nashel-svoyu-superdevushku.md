@@ -4,6 +4,12 @@
   "url": "/news/cbs-nashel-svoyu-superdevushku/",
   "original_url": "https://spidermedia.ru/news/cbs-nashel-svoyu-superdevushku",
   "archived": "https://web.archive.org/web/20241202074044/https://spidermedia.ru/news/cbs-nashel-svoyu-superdevushku",
+  "tags": [
+    "serialy",
+    "kasting",
+    "supergirl",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

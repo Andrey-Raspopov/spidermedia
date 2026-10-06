@@ -4,6 +4,11 @@
   "url": "/blog/sterpazook/bat-sun/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/bat-sun",
   "archived": "https://web.archive.org/web/20250806233037/http://spidermedia.ru/blog/sterpazook/bat-sun",
+  "tags": [
+    "batman",
+    "wolverine",
+    "fanstaff"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

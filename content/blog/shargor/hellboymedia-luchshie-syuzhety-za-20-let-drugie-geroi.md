@@ -4,6 +4,11 @@
   "url": "/blog/shargor/hellboymedia-luchshie-syuzhety-za-20-let-drugie-geroi/",
   "original_url": "https://spidermedia.ru/blog/shargor/hellboymedia-luchshie-syuzhety-za-20-let-drugie-geroi",
   "archived": "https://web.archive.org/web/20260211085152/https://spidermedia.ru/blog/shargor/hellboymedia-luchshie-syuzhety-za-20-let-drugie-geroi",
+  "tags": [
+    "hellboymedia",
+    "20-let-hellboya",
+    "mustread"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

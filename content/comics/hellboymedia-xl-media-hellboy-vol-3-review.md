@@ -4,6 +4,11 @@
   "url": "/comics/hellboymedia-xl-media-hellboy-vol-3-review/",
   "original_url": "https://spidermedia.ru/comics/hellboymedia-xl-media-hellboy-vol-3-review",
   "archived": "https://web.archive.org/web/20251216114218/https://spidermedia.ru/comics/hellboymedia-xl-media-hellboy-vol-3-review",
+  "tags": [
+    "hellboymedia",
+    "zarubezhnye-komiksy-na-russkom",
+    "obzor"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

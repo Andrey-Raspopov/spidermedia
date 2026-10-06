@@ -4,6 +4,9 @@
   "url": "/comics/manga-oyasumi-punpun/",
   "original_url": "http://spidermedia.ru/comics/manga-oyasumi-punpun",
   "archived": "https://web.archive.org/web/20260125083250/http://spidermedia.ru/comics/manga-oyasumi-punpun",
+  "tags": [
+    "manga"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

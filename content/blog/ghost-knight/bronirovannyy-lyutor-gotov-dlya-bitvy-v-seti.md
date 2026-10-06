@@ -4,6 +4,10 @@
   "url": "/blog/ghost-knight/bronirovannyy-lyutor-gotov-dlya-bitvy-v-seti/",
   "original_url": "https://spidermedia.ru/blog/ghost-knight/bronirovannyy-lyutor-gotov-dlya-bitvy-v-seti",
   "archived": "https://web.archive.org/web/20250814204839/https://spidermedia.ru/blog/ghost-knight/bronirovannyy-lyutor-gotov-dlya-bitvy-v-seti",
+  "tags": [
+    "dc-comics",
+    "igry"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

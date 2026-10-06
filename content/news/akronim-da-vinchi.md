@@ -4,6 +4,13 @@
   "url": "/news/akronim-da-vinchi/",
   "original_url": "https://spidermedia.ru/news/akronim-da-vinchi",
   "archived": "https://web.archive.org/web/20240624131425/https://spidermedia.ru/news/akronim-da-vinchi",
+  "tags": [
+    "marvel",
+    "shhit",
+    "dzhonatan-hikman",
+    "dastin-uiver",
+    "s.h.i.e.l.d"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

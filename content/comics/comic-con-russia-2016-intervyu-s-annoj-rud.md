@@ -4,11 +4,14 @@
   "url": "/comics/comic-con-russia-2016-intervyu-s-annoj-rud/",
   "original_url": "http://spidermedia.ru/comics/comic-con-russia-2016-intervyu-s-annoj-rud",
   "archived": "https://web.archive.org/web/20250806055401/http://spidermedia.ru/comics/comic-con-russia-2016-intervyu-s-annoj-rud",
+  "tags": [
+    "bubble"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-*На прошедшем Comic Con Russia 2016 ведущим рубрики [All Things Valiant](https://web.archive.org/web/20260123081802/http://spidermedia.ru/tags/valiant-entertainment) Дмитрию Андрееву и Андрею Ложенко удалось пообщаться с авторами комиксов, выходящих в импринте издательства Bubble — Bubble Visions. И продолжает цикл статей интервью с создательницей манги «Клуб» и постоянным художником Bubble Анной Рудь.*
+*На прошедшем Comic Con Russia 2016 ведущим рубрики [All Things Valiant](../../tags/valiant-entertainment/) Дмитрию Андрееву и Андрею Ложенко удалось пообщаться с авторами комиксов, выходящих в импринте издательства Bubble — Bubble Visions. И продолжает цикл статей интервью с создательницей манги «Клуб» и постоянным художником Bubble Анной Рудь.*
 
 *[![](https://web.archive.org/web/20211107151406im_/http://spidermedia.ru/assets/cache/preview/101369/valiant/images/b-v/622x415-cover-2.b08.jpg)](https://web.archive.org/web/20211107065307im_/http://spidermedia.ru/assets/images/valiant/images/b-v/cover-2.jpg)*
 

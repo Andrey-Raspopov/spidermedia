@@ -4,6 +4,9 @@
   "url": "/blog/redson/den-novyh-komiksov-28-avgusta/",
   "original_url": "http://spidermedia.ru/blog/redson/den-novyh-komiksov-28-avgusta",
   "archived": "https://web.archive.org/web/20190914072350/http://spidermedia.ru:80/blog/redson/den-novyh-komiksov-28-avgusta",
+  "tags": [
+    "den-novyh-komiksov"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

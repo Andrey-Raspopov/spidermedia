@@ -4,6 +4,20 @@
   "url": "/news/vozrozhdenie/",
   "original_url": "http://spidermedia.ru/news/vozrozhdenie",
   "archived": "https://web.archive.org/web/20120607162807/http://spidermedia.ru/news/vozrozhdenie",
+  "tags": [
+    "bucky",
+    "captain-america",
+    "reborn",
+    "rikki-barnes",
+    "bakki",
+    "brayan-hitch",
+    "kapitan-amerika",
+    "komiksy",
+    "marvel",
+    "rikki-barns",
+    "ugadayka",
+    "ed-brubeyker"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/news/nash-otvet-chemberlenu/",
   "original_url": "http://spidermedia.ru/news/nash-otvet-chemberlenu",
   "archived": "https://web.archive.org/web/20241009222043/http://spidermedia.ru/news/nash-otvet-chemberlenu",
+  "tags": [
+    "spidermedia"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/news/shi-halk-i-tolpa-neizvestnyh/",
   "original_url": "http://spidermedia.ru/news/shi-halk-i-tolpa-neizvestnyh",
   "archived": "https://web.archive.org/web/20260214142617/http://spidermedia.ru/news/shi-halk-i-tolpa-neizvestnyh",
+  "tags": [
+    "charlz-soul",
+    "haver-pulido",
+    "marvel",
+    "she-hulk"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

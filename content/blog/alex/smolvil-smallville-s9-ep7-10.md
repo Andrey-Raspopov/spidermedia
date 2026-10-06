@@ -4,6 +4,13 @@
   "url": "/blog/alex/smolvil-smallville-s9-ep7-10/",
   "original_url": "http://spidermedia.ru/blog/alex/smolvil-smallville-s9-ep7-10",
   "archived": "https://web.archive.org/web/20251012182810/http://spidermedia.ru/blog/alex/smolvil-smallville-s9-ep7-10",
+  "tags": [
+    "smallville",
+    "smollvill",
+    "superman",
+    "tajny-smollvillya",
+    "serialy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

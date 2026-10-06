@@ -4,6 +4,11 @@
   "url": "/comics/eksklyuziv-intervyu-s-direktorom-festivalya-risovannyh-istorij-kommissiya-aleksandrom-kuninym/",
   "original_url": "https://spidermedia.ru/comics/eksklyuziv-intervyu-s-direktorom-festivalya-risovannyh-istorij-kommissiya-aleksandrom-kuninym",
   "archived": "https://web.archive.org/web/20260120142434/https://spidermedia.ru/comics/eksklyuziv-intervyu-s-direktorom-festivalya-risovannyh-istorij-kommissiya-aleksandrom-kuninym",
+  "tags": [
+    "intervyu",
+    "kommissiya",
+    "roskomnadzor"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

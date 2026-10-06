@@ -4,6 +4,10 @@
   "url": "/news/supreme-power-vozvrashchaetsya-pod-krylom-marvel-max/",
   "original_url": "http://spidermedia.ru/news/supreme-power-vozvrashchaetsya-pod-krylom-marvel-max",
   "archived": "https://web.archive.org/web/20190915021948/http://spidermedia.ru:80/news/supreme-power-vozvrashchaetsya-pod-krylom-marvel-max",
+  "tags": [
+    "supreme-power",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

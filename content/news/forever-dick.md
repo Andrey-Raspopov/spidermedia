@@ -4,6 +4,11 @@
   "url": "/news/forever-dick/",
   "original_url": "http://spidermedia.ru/news/forever-dick",
   "archived": "https://web.archive.org/web/20250807220851/http://spidermedia.ru/news/forever-dick",
+  "tags": [
+    "tim-sili",
+    "dik-grejson",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

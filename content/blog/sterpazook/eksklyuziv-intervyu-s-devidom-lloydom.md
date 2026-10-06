@@ -4,6 +4,11 @@
   "url": "/blog/sterpazook/eksklyuziv-intervyu-s-devidom-lloydom/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/eksklyuziv-intervyu-s-devidom-lloydom",
   "archived": "https://web.archive.org/web/20260314075716/http://spidermedia.ru/blog/sterpazook/eksklyuziv-intervyu-s-devidom-lloydom",
+  "tags": [
+    "v-for-vendetta",
+    "devid-llojd",
+    "intervyu"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

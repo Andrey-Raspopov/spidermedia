@@ -4,6 +4,11 @@
   "url": "/blog/derden/dc-new-52-vzglyad-nazad-chast-pervaya/",
   "original_url": "https://spidermedia.ru/blog/derden/dc-new-52-vzglyad-nazad-chast-pervaya",
   "archived": "https://web.archive.org/web/20250804002305/https://spidermedia.ru/blog/derden/dc-new-52-vzglyad-nazad-chast-pervaya",
+  "tags": [
+    "new-52",
+    "dc-comics",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

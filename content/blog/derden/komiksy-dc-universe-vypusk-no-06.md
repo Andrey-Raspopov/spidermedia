@@ -4,6 +4,12 @@
   "url": "/blog/derden/komiksy-dc-universe-vypusk-no-06/",
   "original_url": "http://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-06",
   "archived": "https://web.archive.org/web/20200216104035/http://spidermedia.ru:80/blog/derden/komiksy-dc-universe-vypusk-no-06",
+  "tags": [
+    "dc-comics",
+    "batman",
+    "hush",
+    "dc-universe-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

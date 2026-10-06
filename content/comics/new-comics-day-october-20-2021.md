@@ -4,6 +4,9 @@
   "url": "/comics/new-comics-day-october-20-2021/",
   "original_url": "http://spidermedia.ru/comics/new-comics-day-october-20-2021",
   "archived": "https://web.archive.org/web/20250208110149/http://spidermedia.ru/comics/new-comics-day-october-20-2021",
+  "tags": [
+    "den-novyh-komiksov"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/news/adskie-pyatnashki/",
   "original_url": "http://spidermedia.ru/news/adskie-pyatnashki",
   "archived": "https://web.archive.org/web/20260214141023/http://spidermedia.ru/news/adskie-pyatnashki",
+  "tags": [
+    "boom-studios"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

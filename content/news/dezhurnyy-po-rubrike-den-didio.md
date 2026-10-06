@@ -4,6 +4,18 @@
   "url": "/news/dezhurnyy-po-rubrike-den-didio/",
   "original_url": "https://spidermedia.ru/news/dezhurnyy-po-rubrike-den-didio",
   "archived": "https://web.archive.org/web/20251115031709/https://spidermedia.ru/news/dezhurnyy-po-rubrike-den-didio",
+  "tags": [
+    "dc-comics",
+    "batman",
+    "endi-kubert",
+    "dan-didio",
+    "blackest-night",
+    "mark-bagli",
+    "ajvan-rejs",
+    "betgyorl",
+    "dzhordzh-perez",
+    "darvin-kuk"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

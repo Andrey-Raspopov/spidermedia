@@ -4,6 +4,11 @@
   "url": "/movies/sdcc-2016-strazhi-galaktiki-2/",
   "original_url": "http://spidermedia.ru/movies/sdcc-2016-strazhi-galaktiki-2",
   "archived": "https://web.archive.org/web/20260211183601/http://spidermedia.ru/movies/sdcc-2016-strazhi-galaktiki-2",
+  "tags": [
+    "marvel",
+    "san-diego-comic-con-international",
+    "guardians-of-the-galaxy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

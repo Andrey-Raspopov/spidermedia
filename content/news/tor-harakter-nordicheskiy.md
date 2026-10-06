@@ -4,6 +4,10 @@
   "url": "/news/tor-harakter-nordicheskiy/",
   "original_url": "http://spidermedia.ru/news/tor-harakter-nordicheskiy",
   "archived": "https://web.archive.org/web/20190515193229/http://spidermedia.ru:80/news/tor-harakter-nordicheskiy",
+  "tags": [
+    "sluhi",
+    "thor"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

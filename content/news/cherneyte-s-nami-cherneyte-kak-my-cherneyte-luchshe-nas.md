@@ -4,6 +4,12 @@
   "url": "/news/cherneyte-s-nami-cherneyte-kak-my-cherneyte-luchshe-nas/",
   "original_url": "http://spidermedia.ru/news/cherneyte-s-nami-cherneyte-kak-my-cherneyte-luchshe-nas",
   "archived": "https://web.archive.org/web/20251115184049/http://spidermedia.ru/news/cherneyte-s-nami-cherneyte-kak-my-cherneyte-luchshe-nas",
+  "tags": [
+    "fanstaff",
+    "temnejshaya-noch",
+    "dc-comics",
+    "blackest-night"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

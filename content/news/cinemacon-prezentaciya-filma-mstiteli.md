@@ -4,6 +4,11 @@
   "url": "/news/cinemacon-prezentaciya-filma-mstiteli/",
   "original_url": "https://spidermedia.ru/news/cinemacon-prezentaciya-filma-mstiteli",
   "archived": "https://web.archive.org/web/20251115030916/https://spidermedia.ru/news/cinemacon-prezentaciya-filma-mstiteli",
+  "tags": [
+    "futazh",
+    "marvel",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

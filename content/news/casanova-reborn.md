@@ -4,6 +4,12 @@
   "url": "/news/casanova-reborn/",
   "original_url": "https://spidermedia.ru/news/casanova-reborn",
   "archived": "https://web.archive.org/web/20250715220649/https://spidermedia.ru/news/casanova-reborn",
+  "tags": [
+    "matt-fraction",
+    "fabio-mun",
+    "gabriel-ba",
+    "icon-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

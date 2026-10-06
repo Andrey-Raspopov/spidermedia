@@ -4,6 +4,10 @@
   "url": "/blog/gess/o-hai-lauren-sankovitch/",
   "original_url": "https://spidermedia.ru/blog/gess/o-hai-lauren-sankovitch",
   "archived": "https://web.archive.org/web/20260115061952/https://spidermedia.ru/blog/gess/o-hai-lauren-sankovitch",
+  "tags": [
+    "redaktory",
+    "mardzhori-lyu"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

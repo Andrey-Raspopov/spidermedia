@@ -4,6 +4,9 @@
   "url": "/games/gamermedia-13-nights-monstry-i-mechi/",
   "original_url": "http://spidermedia.ru/games/gamermedia-13-nights-monstry-i-mechi",
   "archived": "https://web.archive.org/web/20260309185346/http://spidermedia.ru/games/gamermedia-13-nights-monstry-i-mechi",
+  "tags": [
+    "gamermedia"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

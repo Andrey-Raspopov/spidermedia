@@ -4,6 +4,11 @@
   "url": "/comics/vor-dzhentlmen-i-ego-prizraki-bespodobnyj-mister-foks/",
   "original_url": "http://spidermedia.ru/comics/vor-dzhentlmen-i-ego-prizraki-bespodobnyj-mister-foks",
   "archived": "https://web.archive.org/web/20251213184755/http://spidermedia.ru/comics/vor-dzhentlmen-i-ego-prizraki-bespodobnyj-mister-foks",
+  "tags": [
+    "dc-comics",
+    "batman",
+    "batman-week"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/news/pervye-foto-charli-koksa-so-semok-sorvigolovy/",
   "original_url": "http://spidermedia.ru/news/pervye-foto-charli-koksa-so-semok-sorvigolovy",
   "archived": "https://web.archive.org/web/20260115055806/http://spidermedia.ru/news/pervye-foto-charli-koksa-so-semok-sorvigolovy",
+  "tags": [
+    "charli-koks",
+    "serialy",
+    "daredevil"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

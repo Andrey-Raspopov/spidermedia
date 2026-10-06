@@ -4,6 +4,17 @@
   "url": "/news/logan-protiv-t-reksa/",
   "original_url": "http://spidermedia.ru/news/logan-protiv-t-reksa",
   "archived": "https://web.archive.org/web/20111018131348/http://spidermedia.ru/news/logan-protiv-t-reksa",
+  "tags": [
+    "logan",
+    "marvel",
+    "wolverine",
+    "art-0",
+    "komiksy",
+    "logan-0",
+    "oblozhki",
+    "preview-s",
+    "rosomaha"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

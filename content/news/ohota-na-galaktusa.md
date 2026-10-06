@@ -4,6 +4,17 @@
   "url": "/news/ohota-na-galaktusa/",
   "original_url": "http://spidermedia.ru/news/ohota-na-galaktusa",
   "archived": "https://web.archive.org/web/20120512051841/http://spidermedia.ru/news/ohota-na-galaktusa",
+  "tags": [
+    "beta-ray-bill",
+    "galactus",
+    "beta-rey-bill",
+    "galaktus",
+    "kiron-gillen",
+    "komiksy",
+    "keno",
+    "marvel",
+    "oblozhki"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

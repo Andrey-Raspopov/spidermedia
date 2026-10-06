@@ -4,6 +4,13 @@
   "url": "/news/novaya-ogn-marvel-avengers-rage-ultron/",
   "original_url": "https://spidermedia.ru/news/novaya-ogn-marvel-avengers-rage-ultron",
   "archived": "https://web.archive.org/web/20260120234759/https://spidermedia.ru/news/novaya-ogn-marvel-avengers-rage-ultron",
+  "tags": [
+    "rik-remender",
+    "avengers",
+    "marvel",
+    "san-diego-comic-con-international",
+    "dzherom-openya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

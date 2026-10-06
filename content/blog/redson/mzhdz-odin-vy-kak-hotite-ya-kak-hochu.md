@@ -4,6 +4,10 @@
   "url": "/blog/redson/mzhdz-odin-vy-kak-hotite-ya-kak-hochu/",
   "original_url": "http://spidermedia.ru/blog/redson/mzhdz-odin-vy-kak-hotite-ya-kak-hochu",
   "archived": "https://web.archive.org/web/20260209104701/http://spidermedia.ru/blog/redson/mzhdz-odin-vy-kak-hotite-ya-kak-hochu",
+  "tags": [
+    "mnenie",
+    "mzhdz"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

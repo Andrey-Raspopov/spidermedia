@@ -4,6 +4,9 @@
   "url": "/news/novosti-so-semochnoy-ploshchadki-zelenogo-fonarya/",
   "original_url": "http://spidermedia.ru/news/novosti-so-semochnoy-ploshchadki-zelenogo-fonarya",
   "archived": "https://web.archive.org/web/20251110225742/http://spidermedia.ru/news/novosti-so-semochnoy-ploshchadki-zelenogo-fonarya",
+  "tags": [
+    "green-lantern"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,13 @@
   "url": "/blog/trupoed/hell-o/",
   "original_url": "http://spidermedia.ru/blog/trupoed/hell-o",
   "archived": "https://web.archive.org/web/20111018051355/http://spidermedia.ru/blog/trupoed/hell-o",
+  "tags": [
+    "preacher",
+    "vstuplenie",
+    "komiksy",
+    "perevody-komiksov",
+    "piar"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

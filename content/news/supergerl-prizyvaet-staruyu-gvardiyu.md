@@ -4,6 +4,12 @@
   "url": "/news/supergerl-prizyvaet-staruyu-gvardiyu/",
   "original_url": "http://spidermedia.ru/news/supergerl-prizyvaet-staruyu-gvardiyu",
   "archived": "https://web.archive.org/web/20251205111211/http://spidermedia.ru/news/supergerl-prizyvaet-staruyu-gvardiyu",
+  "tags": [
+    "serialy",
+    "kasting",
+    "dc-comics",
+    "supergirl"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/comics/mzhdz-dont-blame-canada/",
   "original_url": "https://spidermedia.ru/comics/mzhdz-dont-blame-canada",
   "archived": "https://web.archive.org/web/20260313105718/https://spidermedia.ru/comics/mzhdz-dont-blame-canada",
+  "tags": [
+    "mzhdz"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

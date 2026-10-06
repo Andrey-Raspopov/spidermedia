@@ -4,6 +4,11 @@
   "url": "/blog/silver/dzhey-li-ne-dostavlyaet/",
   "original_url": "http://spidermedia.ru/blog/silver/dzhey-li-ne-dostavlyaet",
   "archived": "https://web.archive.org/web/20131206153658/http://spidermedia.ru:80/blog/silver/dzhey-li-ne-dostavlyaet",
+  "tags": [
+    "art-0",
+    "dzhey-li",
+    "oblozhki"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

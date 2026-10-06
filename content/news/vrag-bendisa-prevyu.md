@@ -4,6 +4,17 @@
   "url": "/news/vrag-bendisa-prevyu/",
   "original_url": "https://spidermedia.ru/news/vrag-bendisa-prevyu",
   "archived": "https://web.archive.org/web/20260120155510/https://spidermedia.ru/news/vrag-bendisa-prevyu",
+  "tags": [
+    "ed-makginnes",
+    "rafa-sendoval",
+    "dzhejson-pirson",
+    "ultimate",
+    "rafael-sandoval",
+    "marvel",
+    "jason-pearson",
+    "ed-mcguinness",
+    "brian-michael-bendis"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

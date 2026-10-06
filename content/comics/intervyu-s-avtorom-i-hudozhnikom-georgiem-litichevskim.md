@@ -4,6 +4,11 @@
   "url": "/comics/intervyu-s-avtorom-i-hudozhnikom-georgiem-litichevskim/",
   "original_url": "https://spidermedia.ru/comics/intervyu-s-avtorom-i-hudozhnikom-georgiem-litichevskim",
   "archived": "https://web.archive.org/web/20250618120559/https://spidermedia.ru/comics/intervyu-s-avtorom-i-hudozhnikom-georgiem-litichevskim",
+  "tags": [
+    "intervyu",
+    "russian-comics",
+    "boomkniga"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

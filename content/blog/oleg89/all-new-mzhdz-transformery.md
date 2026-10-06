@@ -4,11 +4,17 @@
   "url": "/blog/oleg89/all-new-mzhdz-transformery/",
   "original_url": "http://spidermedia.ru/blog/oleg89/all-new-mzhdz-transformery",
   "archived": "https://web.archive.org/web/20260123083035/http://spidermedia.ru/blog/oleg89/all-new-mzhdz-transformery",
+  "tags": [
+    "transformers",
+    "mnenie",
+    "mzhdz",
+    "idw-publishing"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](https://web.archive.org/web/20260123083035im_/http://i.imgur.com/JCbv66a.jpg)](https://web.archive.org/web/20260206215846/http://spidermedia.ru/tags/mzhdz)![](https://web.archive.org/web/20260123083035im_/http://i.imgur.com/m6BJt63.jpg)
+[![](https://web.archive.org/web/20260123083035im_/http://i.imgur.com/JCbv66a.jpg)](../../../tags/mzhdz/)![](https://web.archive.org/web/20260123083035im_/http://i.imgur.com/m6BJt63.jpg)
 
 В прокат выходят очередные «Трансформеры» Майкла Бэя, и вероятность того, что этот фильм будет отличаться в лучшую сторону от предыдущих трех, практически нулевая. Но несмотря на состояние кинематографической части франчайза фанаты трансформеров (и потенциальные фанаты) находятся далеко не в безвыходном положении. Комиксы с самого начала были отличным источником новых историй о войне героических автоботов и злобных десептиконов, и в последнее время они особенно хороши. В МЖДЗ уже появлялась [серия More Than Meets the Eye](../../../news/all-new-mzhdz-godzilla-snova-napadaet/#tmtmte), а сейчас я и **Xentospot** расскажем вам о еще нескольких отличных предложениях от IDW Publishing.
 

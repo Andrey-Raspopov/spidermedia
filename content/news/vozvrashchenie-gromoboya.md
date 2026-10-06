@@ -4,6 +4,15 @@
   "url": "/news/vozvrashchenie-gromoboya/",
   "original_url": "http://spidermedia.ru/news/vozvrashchenie-gromoboya",
   "archived": "https://web.archive.org/web/20230320152414/http://spidermedia.ru/news/vozvrashchenie-gromoboya",
+  "tags": [
+    "tom-defalko",
+    "sel-busima",
+    "ron-frenc",
+    "preview",
+    "art-0",
+    "thunderstrike",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

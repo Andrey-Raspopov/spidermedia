@@ -4,6 +4,14 @@
   "url": "/blog/redson/bendis-uydet-s-dark-avengers/",
   "original_url": "http://spidermedia.ru/blog/redson/bendis-uydet-s-dark-avengers",
   "archived": "https://web.archive.org/web/20251106234817/http://spidermedia.ru/blog/redson/bendis-uydet-s-dark-avengers",
+  "tags": [
+    "avengers",
+    "temnoe-pravlenie",
+    "mysli",
+    "mnenie",
+    "marvel",
+    "brian-michael-bendis"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

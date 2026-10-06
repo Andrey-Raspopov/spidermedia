@@ -4,6 +4,13 @@
   "url": "/news/neustupchivyy-reymi/",
   "original_url": "http://spidermedia.ru/news/neustupchivyy-reymi",
   "archived": "https://web.archive.org/web/20120607155611/http://spidermedia.ru/news/neustupchivyy-reymi",
+  "tags": [
+    "sam-raimi",
+    "spider-man-4",
+    "kino",
+    "sem-reymi",
+    "chelovek-pauk-4"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

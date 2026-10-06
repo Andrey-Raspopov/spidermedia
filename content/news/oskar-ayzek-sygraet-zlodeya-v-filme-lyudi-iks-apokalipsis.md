@@ -4,6 +4,11 @@
   "url": "/news/oskar-ayzek-sygraet-zlodeya-v-filme-lyudi-iks-apokalipsis/",
   "original_url": "http://spidermedia.ru/news/oskar-ayzek-sygraet-zlodeya-v-filme-lyudi-iks-apokalipsis",
   "archived": "https://web.archive.org/web/20251206033433/http://spidermedia.ru/news/oskar-ayzek-sygraet-zlodeya-v-filme-lyudi-iks-apokalipsis",
+  "tags": [
+    "marvel",
+    "x-men",
+    "kasting"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

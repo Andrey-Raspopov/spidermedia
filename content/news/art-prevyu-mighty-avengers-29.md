@@ -4,6 +4,15 @@
   "url": "/news/art-prevyu-mighty-avengers-29/",
   "original_url": "http://spidermedia.ru/news/art-prevyu-mighty-avengers-29",
   "archived": "https://web.archive.org/web/20190820174521/http://spidermedia.ru:80/news/art-prevyu-mighty-avengers-29",
+  "tags": [
+    "mighty-avengers",
+    "avengers",
+    "den-slott",
+    "khoi-fam",
+    "marvel",
+    "preview",
+    "art-0"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

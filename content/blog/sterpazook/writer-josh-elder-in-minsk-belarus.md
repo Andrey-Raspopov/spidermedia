@@ -4,6 +4,10 @@
   "url": "/blog/sterpazook/writer-josh-elder-in-minsk-belarus/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/writer-josh-elder-in-minsk-belarus",
   "archived": "https://web.archive.org/web/20260211182119/http://spidermedia.ru/blog/sterpazook/writer-josh-elder-in-minsk-belarus",
+  "tags": [
+    "industriya",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

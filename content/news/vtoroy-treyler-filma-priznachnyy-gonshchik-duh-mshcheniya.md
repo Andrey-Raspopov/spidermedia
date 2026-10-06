@@ -4,6 +4,11 @@
   "url": "/news/vtoroy-treyler-filma-priznachnyy-gonshchik-duh-mshcheniya/",
   "original_url": "http://spidermedia.ru/news/vtoroy-treyler-filma-priznachnyy-gonshchik-duh-mshcheniya",
   "archived": "https://web.archive.org/web/20250803085838/http://spidermedia.ru/news/vtoroy-treyler-filma-priznachnyy-gonshchik-duh-mshcheniya",
+  "tags": [
+    "trejlery",
+    "prizrachnyj-gonshhik",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

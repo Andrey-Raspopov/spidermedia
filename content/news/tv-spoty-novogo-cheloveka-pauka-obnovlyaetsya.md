@@ -4,6 +4,11 @@
   "url": "/news/tv-spoty-novogo-cheloveka-pauka-obnovlyaetsya/",
   "original_url": "https://spidermedia.ru/news/tv-spoty-novogo-cheloveka-pauka-obnovlyaetsya",
   "archived": "https://web.archive.org/web/20250906083025/https://spidermedia.ru/news/tv-spoty-novogo-cheloveka-pauka-obnovlyaetsya",
+  "tags": [
+    "trejlery",
+    "spider-man",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/news/east-west-hikmana-izdadut-v-rossii/",
   "original_url": "https://spidermedia.ru/news/east-west-hikmana-izdadut-v-rossii",
   "archived": "https://web.archive.org/web/20260307063416/https://spidermedia.ru/news/east-west-hikmana-izdadut-v-rossii",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "viverra-publishing",
+    "image-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

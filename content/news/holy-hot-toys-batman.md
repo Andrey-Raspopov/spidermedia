@@ -4,6 +4,11 @@
   "url": "/news/holy-hot-toys-batman/",
   "original_url": "http://spidermedia.ru/news/holy-hot-toys-batman",
   "archived": "https://web.archive.org/web/20260117232534/http://spidermedia.ru/news/holy-hot-toys-batman",
+  "tags": [
+    "figurki",
+    "batman",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

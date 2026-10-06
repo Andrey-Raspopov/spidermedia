@@ -4,6 +4,13 @@
   "url": "/news/sdcc10-green-lantern-movie/",
   "original_url": "https://spidermedia.ru/news/sdcc10-green-lantern-movie",
   "archived": "https://web.archive.org/web/20251018223803/https://spidermedia.ru/news/sdcc10-green-lantern-movie",
+  "tags": [
+    "sinestro",
+    "san-diego-comic-con-international",
+    "igry",
+    "green-lantern",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

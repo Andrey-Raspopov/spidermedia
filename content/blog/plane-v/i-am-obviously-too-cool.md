@@ -4,6 +4,9 @@
   "url": "/blog/plane-v/i-am-obviously-too-cool/",
   "original_url": "http://spidermedia.ru/blog/plane-v/i-am-obviously-too-cool",
   "archived": "https://web.archive.org/web/20190316102533/http://spidermedia.ru:80/blog/plane-v/i-am-obviously-too-cool",
+  "tags": [
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

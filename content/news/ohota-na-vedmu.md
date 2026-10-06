@@ -4,6 +4,14 @@
   "url": "/news/ohota-na-vedmu/",
   "original_url": "http://spidermedia.ru/news/ohota-na-vedmu",
   "archived": "https://web.archive.org/web/20250913014031/http://spidermedia.ru/news/ohota-na-vedmu",
+  "tags": [
+    "young-avengers",
+    "dzhim-cheng",
+    "avengers",
+    "marvel",
+    "scarlet-witch",
+    "allan-hajnberg"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

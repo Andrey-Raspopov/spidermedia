@@ -4,6 +4,18 @@
   "url": "/news/videoreportazh-so-syomok-filma-zheleznyy-chelovek-2/",
   "original_url": "http://spidermedia.ru/news/videoreportazh-so-syomok-filma-zheleznyy-chelovek-2",
   "archived": "https://web.archive.org/web/20120608064330/http://spidermedia.ru/news/videoreportazh-so-syomok-filma-zheleznyy-chelovek-2",
+  "tags": [
+    "iron-man",
+    "iron-man-2",
+    "video",
+    "dzhon-favro",
+    "zheleznyy-chelovek",
+    "zheleznyy-chelovek-2",
+    "kino",
+    "komiksy",
+    "marvel",
+    "reportazh"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

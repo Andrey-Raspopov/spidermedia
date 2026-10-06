@@ -4,6 +4,9 @@
   "url": "/blog/bogart/velkam/",
   "original_url": "http://spidermedia.ru/blog/bogart/velkam",
   "archived": "https://web.archive.org/web/20120608195905/http://spidermedia.ru/blog/bogart/velkam",
+  "tags": [
+    "vstuplenie"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

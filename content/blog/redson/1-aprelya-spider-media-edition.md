@@ -4,6 +4,11 @@
   "url": "/blog/redson/1-aprelya-spider-media-edition/",
   "original_url": "http://spidermedia.ru/blog/redson/1-aprelya-spider-media-edition",
   "archived": "https://web.archive.org/web/20120614082732/http://spidermedia.ru/blog/redson/1-aprelya-spider-media-edition",
+  "tags": [
+    "komiksy",
+    "skachat",
+    "forum"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

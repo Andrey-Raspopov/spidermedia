@@ -4,6 +4,9 @@
   "url": "/news/hellboymedia-relizy-aprelya-15/",
   "original_url": "http://spidermedia.ru/news/hellboymedia-relizy-aprelya-15",
   "archived": "https://web.archive.org/web/20260117220347/http://spidermedia.ru/news/hellboymedia-relizy-aprelya-15",
+  "tags": [
+    "hellboymedia"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

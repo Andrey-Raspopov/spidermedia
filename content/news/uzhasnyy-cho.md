@@ -4,6 +4,13 @@
   "url": "/news/uzhasnyy-cho/",
   "original_url": "https://spidermedia.ru/news/uzhasnyy-cho",
   "archived": "https://web.archive.org/web/20251208073016/https://spidermedia.ru/news/uzhasnyy-cho",
+  "tags": [
+    "frenk-cho",
+    "dzhef-loeb",
+    "ultimate",
+    "ultimates",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

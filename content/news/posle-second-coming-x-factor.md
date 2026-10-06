@@ -4,6 +4,13 @@
   "url": "/news/posle-second-coming-x-factor/",
   "original_url": "http://spidermedia.ru/news/posle-second-coming-x-factor",
   "archived": "https://web.archive.org/web/20120607131826/http://spidermedia.ru/news/posle-second-coming-x-factor",
+  "tags": [
+    "x-factor",
+    "x-universe",
+    "iks-faktor",
+    "komiksy",
+    "marvel"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

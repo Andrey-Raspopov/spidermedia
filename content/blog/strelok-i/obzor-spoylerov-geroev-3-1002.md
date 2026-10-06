@@ -4,6 +4,11 @@
   "url": "/blog/strelok-i/obzor-spoylerov-geroev-3-1002/",
   "original_url": "http://spidermedia.ru/blog/strelok-i/obzor-spoylerov-geroev-3-1002",
   "archived": "https://web.archive.org/web/20230323044039/http://spidermedia.ru/blog/strelok-i/obzor-spoylerov-geroev-3-1002",
+  "tags": [
+    "serialy",
+    "heroes-spoilers",
+    "heroes"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

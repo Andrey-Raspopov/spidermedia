@@ -4,6 +4,15 @@
   "url": "/news/neobratimoe-razvitie/",
   "original_url": "https://spidermedia.ru/news/neobratimoe-razvitie",
   "archived": "https://web.archive.org/web/20240613045528/https://spidermedia.ru/news/neobratimoe-razvitie",
+  "tags": [
+    "emma-rios",
+    "pol-azasita",
+    "mark-waid",
+    "den-panosyan",
+    "govard-chajkin",
+    "irredeemable",
+    "boom-studios"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

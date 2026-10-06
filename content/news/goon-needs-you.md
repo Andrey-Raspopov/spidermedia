@@ -4,6 +4,12 @@
   "url": "/news/goon-needs-you/",
   "original_url": "http://spidermedia.ru/news/goon-needs-you",
   "archived": "https://web.archive.org/web/20250807011612/http://spidermedia.ru/news/goon-needs-you",
+  "tags": [
+    "erik-pauell",
+    "animaciya",
+    "the-goon",
+    "dark-horse"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

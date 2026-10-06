@@ -4,6 +4,13 @@
   "url": "/news/proof-tony-stark-has-heart/",
   "original_url": "https://spidermedia.ru/news/proof-tony-stark-has-heart",
   "archived": "https://web.archive.org/web/20250322053809/https://spidermedia.ru/news/proof-tony-stark-has-heart",
+  "tags": [
+    "salvador-larroka",
+    "preview",
+    "matt-fraction",
+    "marvel",
+    "iron-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

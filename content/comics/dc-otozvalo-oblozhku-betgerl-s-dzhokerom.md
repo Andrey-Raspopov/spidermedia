@@ -4,6 +4,10 @@
   "url": "/comics/dc-otozvalo-oblozhku-betgerl-s-dzhokerom/",
   "original_url": "https://spidermedia.ru/comics/dc-otozvalo-oblozhku-betgerl-s-dzhokerom",
   "archived": "https://web.archive.org/web/20260211193221/https://spidermedia.ru/comics/dc-otozvalo-oblozhku-betgerl-s-dzhokerom",
+  "tags": [
+    "dc-comics",
+    "joker"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

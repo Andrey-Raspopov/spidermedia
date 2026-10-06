@@ -4,6 +4,9 @@
   "url": "/comics/infidel-1-review/",
   "original_url": "http://spidermedia.ru/comics/infidel-1-review",
   "archived": "https://web.archive.org/web/20260209120832/http://spidermedia.ru/comics/infidel-1-review",
+  "tags": [
+    "image-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,13 @@
   "url": "/blog/sir-carnage/face-armageddon/",
   "original_url": "http://spidermedia.ru/blog/sir-carnage/face-armageddon",
   "archived": "https://web.archive.org/web/20120610052023/http://spidermedia.ru/blog/sir-carnage/face-armageddon",
+  "tags": [
+    "watchmen",
+    "alan-moore",
+    "kino",
+    "komiksy",
+    "mnenie"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/blog/hella/roskomnadzor-babah/",
   "original_url": "https://spidermedia.ru/blog/hella/roskomnadzor-babah",
   "archived": "https://web.archive.org/web/20260214132519/https://spidermedia.ru/blog/hella/roskomnadzor-babah",
+  "tags": [
+    "russian-comics",
+    "roskomnadzor",
+    "zarubezhnye-komiksy-na-russkom"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

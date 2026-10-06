@@ -4,6 +4,9 @@
   "url": "/comics/unicon-and-game-expo-minsk-2018/",
   "original_url": "http://spidermedia.ru/comics/unicon-and-game-expo-minsk-2018",
   "archived": "https://web.archive.org/web/20200219060816/http://spidermedia.ru:80/comics/unicon-and-game-expo-minsk-2018",
+  "tags": [
+    "unicon"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

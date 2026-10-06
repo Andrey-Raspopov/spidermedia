@@ -4,6 +4,10 @@
   "url": "/news/idw-publishing-priobrelo-top-shelf-productions/",
   "original_url": "http://spidermedia.ru/news/idw-publishing-priobrelo-top-shelf-productions",
   "archived": "https://web.archive.org/web/20260125065712/http://spidermedia.ru/news/idw-publishing-priobrelo-top-shelf-productions",
+  "tags": [
+    "industriya",
+    "idw-publishing"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

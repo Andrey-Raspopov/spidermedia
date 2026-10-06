@@ -4,6 +4,11 @@
   "url": "/news/vyberi-70-luchshih-komiksov-marvel/",
   "original_url": "http://spidermedia.ru/news/vyberi-70-luchshih-komiksov-marvel",
   "archived": "https://web.archive.org/web/20181213163019/http://spidermedia.ru:80/news/vyberi-70-luchshih-komiksov-marvel",
+  "tags": [
+    "industriya",
+    "golosovanie",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

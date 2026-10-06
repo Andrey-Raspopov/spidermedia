@@ -4,6 +4,11 @@
   "url": "/comics/all-new-roskomnadzor/",
   "original_url": "http://spidermedia.ru/comics/all-new-roskomnadzor",
   "archived": "https://web.archive.org/web/20250806083145/http://spidermedia.ru/comics/all-new-roskomnadzor",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "roskomnadzor",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

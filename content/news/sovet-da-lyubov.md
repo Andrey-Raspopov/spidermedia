@@ -4,6 +4,12 @@
   "url": "/news/sovet-da-lyubov/",
   "original_url": "https://spidermedia.ru/news/sovet-da-lyubov",
   "archived": "https://web.archive.org/web/20260120161028/https://spidermedia.ru/news/sovet-da-lyubov",
+  "tags": [
+    "mardzhori-lyu",
+    "majk-perkins",
+    "marvel",
+    "x-men"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

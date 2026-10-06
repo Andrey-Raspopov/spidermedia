@@ -4,6 +4,12 @@
   "url": "/news/starye-molnii-novyy-grom/",
   "original_url": "http://spidermedia.ru/news/starye-molnii-novyy-grom",
   "archived": "https://web.archive.org/web/20120607181905/http://spidermedia.ru/news/starye-molnii-novyy-grom",
+  "tags": [
+    "thunderbolts",
+    "gromoverzhcy",
+    "komiksy",
+    "marvel"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

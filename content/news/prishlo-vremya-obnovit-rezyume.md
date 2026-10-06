@@ -4,6 +4,11 @@
   "url": "/news/prishlo-vremya-obnovit-rezyume/",
   "original_url": "http://spidermedia.ru/news/prishlo-vremya-obnovit-rezyume",
   "archived": "https://web.archive.org/web/20120608214439/http://spidermedia.ru/news/prishlo-vremya-obnovit-rezyume",
+  "tags": [
+    "industriya",
+    "komiksy",
+    "marvel"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

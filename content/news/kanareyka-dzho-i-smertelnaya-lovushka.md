@@ -4,6 +4,16 @@
   "url": "/news/kanareyka-dzho-i-smertelnaya-lovushka/",
   "original_url": "https://spidermedia.ru/news/kanareyka-dzho-i-smertelnaya-lovushka",
   "archived": "https://web.archive.org/web/20260314081011/https://spidermedia.ru/news/kanareyka-dzho-i-smertelnaya-lovushka",
+  "tags": [
+    "gi-joe",
+    "dc-comics",
+    "idw-publishing",
+    "govard-chajkin",
+    "kristos-gejdzh",
+    "vigilante",
+    "black-canary",
+    "marv-vulfman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

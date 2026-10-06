@@ -4,6 +4,10 @@
   "url": "/comics/brian-k-vaughan-paper-girls-preview/",
   "original_url": "http://spidermedia.ru/comics/brian-k-vaughan-paper-girls-preview",
   "archived": "https://web.archive.org/web/20251211024744/http://spidermedia.ru/comics/brian-k-vaughan-paper-girls-preview",
+  "tags": [
+    "image-comics",
+    "brian-k-vaughan"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/comics/roskomnadzor-missiya-vypolnima/",
   "original_url": "http://spidermedia.ru/comics/roskomnadzor-missiya-vypolnima",
   "archived": "https://web.archive.org/web/20260125123538/http://spidermedia.ru/comics/roskomnadzor-missiya-vypolnima",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "roskomnadzor",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

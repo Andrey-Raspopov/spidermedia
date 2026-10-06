@@ -4,6 +4,15 @@
   "url": "/news/vezdesushchie-agenty/",
   "original_url": "http://spidermedia.ru/news/vezdesushchie-agenty",
   "archived": "https://web.archive.org/web/20260214142739/http://spidermedia.ru/news/vezdesushchie-agenty",
+  "tags": [
+    "dzheff-parker",
+    "gabriel-hardmen",
+    "marvel",
+    "jeff-parker",
+    "gabriel-hardman",
+    "avengers",
+    "agenty-atlasa"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

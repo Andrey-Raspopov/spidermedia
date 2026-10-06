@@ -4,6 +4,11 @@
   "url": "/news/eksklyuziv-prevyu-helllboya-no3/",
   "original_url": "http://spidermedia.ru/news/eksklyuziv-prevyu-helllboya-no3",
   "archived": "https://web.archive.org/web/20260215074602/http://spidermedia.ru/news/eksklyuziv-prevyu-helllboya-no3",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "hellboj",
+    "izdatelstvo-42"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

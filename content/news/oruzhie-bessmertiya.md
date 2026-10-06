@@ -4,6 +4,12 @@
   "url": "/news/oruzhie-bessmertiya/",
   "original_url": "http://spidermedia.ru/news/oruzhie-bessmertiya",
   "archived": "https://web.archive.org/web/20170425103750/http://spidermedia.ru:80/news/oruzhie-bessmertiya",
+  "tags": [
+    "iron-fist",
+    "bessmertnye-oruzhiya",
+    "marvel",
+    "immortal-weapons"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

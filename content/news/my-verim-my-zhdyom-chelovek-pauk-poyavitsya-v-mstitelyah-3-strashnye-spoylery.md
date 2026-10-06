@@ -4,6 +4,11 @@
   "url": "/news/my-verim-my-zhdyom-chelovek-pauk-poyavitsya-v-mstitelyah-3-strashnye-spoylery/",
   "original_url": "https://spidermedia.ru/news/my-verim-my-zhdyom-chelovek-pauk-poyavitsya-v-mstitelyah-3-strashnye-spoylery",
   "archived": "https://web.archive.org/web/20251006131206/https://spidermedia.ru/news/my-verim-my-zhdyom-chelovek-pauk-poyavitsya-v-mstitelyah-3-strashnye-spoylery",
+  "tags": [
+    "spider-man",
+    "avengers",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

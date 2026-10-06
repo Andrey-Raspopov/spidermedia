@@ -4,6 +4,12 @@
   "url": "/news/agent-carter-poster-i-kadry/",
   "original_url": "http://spidermedia.ru/news/agent-carter-poster-i-kadry",
   "archived": "https://web.archive.org/web/20260120164724/http://spidermedia.ru/news/agent-carter-poster-i-kadry",
+  "tags": [
+    "postery",
+    "marvel",
+    "captain-america",
+    "agent-karter"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

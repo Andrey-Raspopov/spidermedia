@@ -4,6 +4,21 @@
   "url": "/news/stairway-reunion/",
   "original_url": "http://spidermedia.ru/news/stairway-reunion",
   "archived": "https://web.archive.org/web/20251213191022/http://spidermedia.ru/news/stairway-reunion",
+  "tags": [
+    "era-geroev",
+    "preview",
+    "osada",
+    "brian-michael-bendis",
+    "art-0",
+    "alan-devis",
+    "thor",
+    "siege",
+    "marvel",
+    "iron-man",
+    "heroic-age",
+    "captain-america",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/blog/aleksey-volkov/old-komix-lets-get-dangerous-0/",
   "original_url": "http://spidermedia.ru/blog/aleksey-volkov/old-komix-lets-get-dangerous-0",
   "archived": "https://web.archive.org/web/20260312020844/http://spidermedia.ru/blog/aleksey-volkov/old-komix-lets-get-dangerous-0",
+  "tags": [
+    "chernyj-plashh",
+    "animaciya",
+    "disney"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

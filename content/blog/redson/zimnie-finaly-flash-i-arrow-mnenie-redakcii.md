@@ -4,6 +4,11 @@
   "url": "/blog/redson/zimnie-finaly-flash-i-arrow-mnenie-redakcii/",
   "original_url": "http://spidermedia.ru/blog/redson/zimnie-finaly-flash-i-arrow-mnenie-redakcii",
   "archived": "https://web.archive.org/web/20260115052644/http://spidermedia.ru/blog/redson/zimnie-finaly-flash-i-arrow-mnenie-redakcii",
+  "tags": [
+    "dc-comics",
+    "the-flash",
+    "green-arrow"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

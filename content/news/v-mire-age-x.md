@@ -4,6 +4,16 @@
   "url": "/news/v-mire-age-x/",
   "original_url": "http://spidermedia.ru/news/v-mire-age-x",
   "archived": "https://web.archive.org/web/20120607133427/http://spidermedia.ru/news/v-mire-age-x",
+  "tags": [
+    "x-men",
+    "art-0",
+    "komiksy",
+    "lyudi-iks",
+    "marvel",
+    "tizery",
+    "era-iks",
+    "age-x"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

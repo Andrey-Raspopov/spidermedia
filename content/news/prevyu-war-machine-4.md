@@ -4,6 +4,17 @@
   "url": "/news/prevyu-war-machine-4/",
   "original_url": "http://spidermedia.ru/news/prevyu-war-machine-4",
   "archived": "https://web.archive.org/web/20120607151223/http://spidermedia.ru/news/prevyu-war-machine-4",
+  "tags": [
+    "ares",
+    "war-machine",
+    "ares-0",
+    "voitel",
+    "greg-pak",
+    "komiksy",
+    "leonardo-manko",
+    "marvel",
+    "preview-s"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

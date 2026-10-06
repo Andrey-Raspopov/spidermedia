@@ -4,6 +4,13 @@
   "url": "/news/magicheskaya-lihoradka/",
   "original_url": "https://spidermedia.ru/news/magicheskaya-lihoradka",
   "archived": "https://web.archive.org/web/20250325094230/https://spidermedia.ru/news/magicheskaya-lihoradka",
+  "tags": [
+    "preview",
+    "doctor-strange",
+    "brendon-makkarti",
+    "marvel",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

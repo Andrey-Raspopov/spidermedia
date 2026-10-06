@@ -4,6 +4,17 @@
   "url": "/news/battle-cowl-nastoyashchee-budushchee-i-dalekoe-budushchee/",
   "original_url": "https://spidermedia.ru/news/battle-cowl-nastoyashchee-budushchee-i-dalekoe-budushchee",
   "archived": "https://web.archive.org/web/20250316171831/https://spidermedia.ru/news/battle-cowl-nastoyashchee-budushchee-i-dalekoe-budushchee",
+  "tags": [
+    "dc-comics",
+    "batman",
+    "grant-morrison",
+    "frenk-kuajtli",
+    "robin",
+    "nightwing",
+    "toni-deniel",
+    "jason-todd",
+    "spletni"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

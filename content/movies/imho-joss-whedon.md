@@ -4,6 +4,11 @@
   "url": "/movies/imho-joss-whedon/",
   "original_url": "https://spidermedia.ru/movies/imho-joss-whedon",
   "archived": "https://web.archive.org/web/20260309184301/https://spidermedia.ru/movies/imho-joss-whedon",
+  "tags": [
+    "marvel",
+    "joss-whedon",
+    "imho"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

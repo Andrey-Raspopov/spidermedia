@@ -4,6 +4,15 @@
   "url": "/news/nycc10-iron-man-20/",
   "original_url": "https://spidermedia.ru/news/nycc10-iron-man-20",
   "archived": "https://web.archive.org/web/20251216181314/https://spidermedia.ru/news/nycc10-iron-man-20",
+  "tags": [
+    "nik-spenser",
+    "barri-kitson",
+    "war-machine",
+    "new-york-comic-con",
+    "marvel",
+    "komik-kon-v-nyu-yorke",
+    "nycc-2010"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

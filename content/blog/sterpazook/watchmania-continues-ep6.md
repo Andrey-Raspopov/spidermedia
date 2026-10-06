@@ -4,6 +4,11 @@
   "url": "/blog/sterpazook/watchmania-continues-ep6/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/watchmania-continues-ep6",
   "archived": "https://web.archive.org/web/20260125070608/http://spidermedia.ru/blog/sterpazook/watchmania-continues-ep6",
+  "tags": [
+    "hraniteli",
+    "nite-owl",
+    "kartinki"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,14 @@
   "url": "/news/sdcc-2009-blackest-night-panel/",
   "original_url": "http://spidermedia.ru/news/sdcc-2009-blackest-night-panel",
   "archived": "https://web.archive.org/web/20250906070729/http://spidermedia.ru/news/sdcc-2009-blackest-night-panel",
+  "tags": [
+    "temnejshaya-noch",
+    "san-diego-comic-con-international",
+    "geoff-johns",
+    "green-lantern",
+    "dc-comics",
+    "blackest-night"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

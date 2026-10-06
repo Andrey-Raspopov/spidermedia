@@ -4,6 +4,15 @@
   "url": "/news/potomu-chto-my-banda/",
   "original_url": "http://spidermedia.ru/news/potomu-chto-my-banda",
   "archived": "https://web.archive.org/web/20120718215937/http://spidermedia.ru/news/potomu-chto-my-banda",
+  "tags": [
+    "icon",
+    "kick-ass",
+    "art-0",
+    "dzhon-romita-ml",
+    "komiksy",
+    "mark-millar",
+    "oblozhki"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

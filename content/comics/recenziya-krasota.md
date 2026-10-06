@@ -4,6 +4,11 @@
   "url": "/comics/recenziya-krasota/",
   "original_url": "http://spidermedia.ru/comics/recenziya-krasota",
   "archived": "https://web.archive.org/web/20251216185919/http://spidermedia.ru/comics/recenziya-krasota",
+  "tags": [
+    "komiksy",
+    "komilfo",
+    "recenziya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

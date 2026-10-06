@@ -4,6 +4,10 @@
   "url": "/news/dva-novyh-kadra-iz-seriala-walking-dead/",
   "original_url": "https://spidermedia.ru/news/dva-novyh-kadra-iz-seriala-walking-dead",
   "archived": "https://web.archive.org/web/20260211181419/https://spidermedia.ru/news/dva-novyh-kadra-iz-seriala-walking-dead",
+  "tags": [
+    "serialy",
+    "the-walking-dead"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

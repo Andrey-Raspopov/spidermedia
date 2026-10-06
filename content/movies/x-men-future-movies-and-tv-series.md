@@ -4,6 +4,11 @@
   "url": "/movies/x-men-future-movies-and-tv-series/",
   "original_url": "http://spidermedia.ru/movies/x-men-future-movies-and-tv-series",
   "archived": "https://web.archive.org/web/20251206043437/http://spidermedia.ru/movies/x-men-future-movies-and-tv-series",
+  "tags": [
+    "deadpool",
+    "x-men",
+    "new-mutants"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

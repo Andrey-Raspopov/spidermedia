@@ -4,6 +4,12 @@
   "url": "/news/vragi-pod-stat/",
   "original_url": "https://spidermedia.ru/news/vragi-pod-stat",
   "archived": "https://web.archive.org/web/20251216123159/https://spidermedia.ru/news/vragi-pod-stat",
+  "tags": [
+    "marvel",
+    "spider-man",
+    "stiv-liber",
+    "nik-spenser"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

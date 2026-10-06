@@ -4,6 +4,11 @@
   "url": "/blog/drgonzobear/panteon-nachalo/",
   "original_url": "http://spidermedia.ru/blog/drgonzobear/panteon-nachalo",
   "archived": "https://web.archive.org/web/20120512081723/http://spidermedia.ru/blog/drgonzobear/panteon-nachalo",
+  "tags": [
+    "alternativnaya-istoriya",
+    "pantheon",
+    "russkie-komiksy"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

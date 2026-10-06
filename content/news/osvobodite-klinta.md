@@ -4,6 +4,14 @@
   "url": "/news/osvobodite-klinta/",
   "original_url": "http://spidermedia.ru/news/osvobodite-klinta",
   "archived": "https://web.archive.org/web/20251108032040/http://spidermedia.ru/news/osvobodite-klinta",
+  "tags": [
+    "new-avengers",
+    "avengers",
+    "brian-michael-bendis",
+    "majk-mejhyu",
+    "marvel",
+    "preview"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

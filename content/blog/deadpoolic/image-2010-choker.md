@@ -4,6 +4,11 @@
   "url": "/blog/deadpoolic/image-2010-choker/",
   "original_url": "https://spidermedia.ru/blog/deadpoolic/image-2010-choker",
   "archived": "https://web.archive.org/web/20260307063353/https://spidermedia.ru/blog/deadpoolic/image-2010-choker",
+  "tags": [
+    "preview",
+    "image-comics",
+    "ben-templsmit"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

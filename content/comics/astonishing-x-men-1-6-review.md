@@ -4,6 +4,15 @@
   "url": "/comics/astonishing-x-men-1-6-review/",
   "original_url": "http://spidermedia.ru/comics/astonishing-x-men-1-6-review",
   "archived": "https://web.archive.org/web/20260305234724/http://spidermedia.ru/comics/astonishing-x-men-1-6-review",
+  "tags": [
+    "marvel",
+    "dzhim-cheng",
+    "karlos-pacheko",
+    "x-men",
+    "majk-deodato",
+    "charlz-soul",
+    "ed-makginness"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

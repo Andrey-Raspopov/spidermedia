@@ -4,6 +4,10 @@
   "url": "/news/konec-cheloveka-volka/",
   "original_url": "https://spidermedia.ru/news/konec-cheloveka-volka",
   "archived": "https://web.archive.org/web/20260307063136/https://spidermedia.ru/news/konec-cheloveka-volka",
+  "tags": [
+    "robert-kirkman",
+    "image-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/comics/superman-year-one-review/",
   "original_url": "https://spidermedia.ru/comics/superman-year-one-review",
   "archived": "https://web.archive.org/web/20251116060032/https://spidermedia.ru/comics/superman-year-one-review",
+  "tags": [
+    "dc-comics",
+    "dzhon-romita-ml",
+    "superman",
+    "frenk-miller"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

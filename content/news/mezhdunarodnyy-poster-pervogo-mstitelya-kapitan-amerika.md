@@ -4,6 +4,11 @@
   "url": "/news/mezhdunarodnyy-poster-pervogo-mstitelya-kapitan-amerika/",
   "original_url": "https://spidermedia.ru/news/mezhdunarodnyy-poster-pervogo-mstitelya-kapitan-amerika",
   "archived": "https://web.archive.org/web/20250906081659/https://spidermedia.ru/news/mezhdunarodnyy-poster-pervogo-mstitelya-kapitan-amerika",
+  "tags": [
+    "postery",
+    "captain-america",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

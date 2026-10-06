@@ -4,6 +4,11 @@
   "url": "/blog/bastion7/lazha-nedeli/",
   "original_url": "http://spidermedia.ru/blog/bastion7/lazha-nedeli",
   "archived": "https://web.archive.org/web/20120607150031/http://spidermedia.ru/blog/bastion7/lazha-nedeli",
+  "tags": [
+    "komiksy",
+    "mysli",
+    "futurama"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

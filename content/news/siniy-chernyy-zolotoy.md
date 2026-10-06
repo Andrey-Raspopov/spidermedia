@@ -4,6 +4,16 @@
   "url": "/news/siniy-chernyy-zolotoy/",
   "original_url": "https://spidermedia.ru/news/siniy-chernyy-zolotoy",
   "archived": "https://web.archive.org/web/20251110230904/https://spidermedia.ru/news/siniy-chernyy-zolotoy",
+  "tags": [
+    "temnejshaya-noch",
+    "blue-beetle",
+    "intervyu",
+    "den-yurgens",
+    "buster-gold",
+    "dc-comics",
+    "dan-jurgens",
+    "blackest-night"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

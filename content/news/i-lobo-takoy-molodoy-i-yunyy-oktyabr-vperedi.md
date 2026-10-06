@@ -4,6 +4,10 @@
   "url": "/news/i-lobo-takoy-molodoy-i-yunyy-oktyabr-vperedi/",
   "original_url": "http://spidermedia.ru/news/i-lobo-takoy-molodoy-i-yunyy-oktyabr-vperedi",
   "archived": "https://web.archive.org/web/20200221074316/http://spidermedia.ru:80/news/i-lobo-takoy-molodoy-i-yunyy-oktyabr-vperedi",
+  "tags": [
+    "lobo",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

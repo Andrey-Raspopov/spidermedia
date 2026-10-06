@@ -4,6 +4,11 @@
   "url": "/movies/spidermedia-avengers-age-of-ultron-cosplay/",
   "original_url": "https://spidermedia.ru/movies/spidermedia-avengers-age-of-ultron-cosplay",
   "archived": "https://web.archive.org/web/20251216174607/https://spidermedia.ru/movies/spidermedia-avengers-age-of-ultron-cosplay",
+  "tags": [
+    "marvel",
+    "kosplej",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

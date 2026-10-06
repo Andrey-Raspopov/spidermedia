@@ -4,6 +4,11 @@
   "url": "/blog/derden/komiksy-dc-universe-vypusk-no-16/",
   "original_url": "http://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-16",
   "archived": "https://web.archive.org/web/20260211182833/http://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-16",
+  "tags": [
+    "dc-comics",
+    "superman",
+    "dc-universe-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

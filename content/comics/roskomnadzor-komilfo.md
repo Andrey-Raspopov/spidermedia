@@ -4,6 +4,11 @@
   "url": "/comics/roskomnadzor-komilfo/",
   "original_url": "http://spidermedia.ru/comics/roskomnadzor-komilfo",
   "archived": "https://web.archive.org/web/20230322222105/http://spidermedia.ru/comics/roskomnadzor-komilfo",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "roskomnadzor",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

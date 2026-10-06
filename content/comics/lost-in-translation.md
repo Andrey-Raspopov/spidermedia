@@ -4,6 +4,9 @@
   "url": "/comics/lost-in-translation/",
   "original_url": "http://spidermedia.ru/comics/lost-in-translation",
   "archived": "https://web.archive.org/web/20251209133411/http://spidermedia.ru/comics/lost-in-translation",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

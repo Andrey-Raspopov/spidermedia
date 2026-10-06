@@ -4,6 +4,12 @@
   "url": "/news/beskonechnyy-rosomaha/",
   "original_url": "http://spidermedia.ru/news/beskonechnyy-rosomaha",
   "archived": "https://web.archive.org/web/20241211213905/http://spidermedia.ru/news/beskonechnyy-rosomaha",
+  "tags": [
+    "pako-dias",
+    "dzhejson-latur",
+    "dzheyson-aaron",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

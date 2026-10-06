@@ -4,6 +4,14 @@
   "url": "/news/prevyu-avengers-endless-wartime/",
   "original_url": "http://spidermedia.ru/news/prevyu-avengers-endless-wartime",
   "archived": "https://web.archive.org/web/20240305132935/http://spidermedia.ru/news/prevyu-avengers-endless-wartime",
+  "tags": [
+    "warren-ellis",
+    "thor",
+    "avengers",
+    "majk-makkon",
+    "captain-america",
+    "iron-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

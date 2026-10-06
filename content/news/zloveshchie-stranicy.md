@@ -4,6 +4,13 @@
   "url": "/news/zloveshchie-stranicy/",
   "original_url": "https://spidermedia.ru/news/zloveshchie-stranicy",
   "archived": "https://web.archive.org/web/20250620080131/https://spidermedia.ru/news/zloveshchie-stranicy",
+  "tags": [
+    "kris-bachalo",
+    "venom",
+    "brajan-rid",
+    "marvel",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

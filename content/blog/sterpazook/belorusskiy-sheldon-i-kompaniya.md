@@ -4,6 +4,9 @@
   "url": "/blog/sterpazook/belorusskiy-sheldon-i-kompaniya/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/belorusskiy-sheldon-i-kompaniya",
   "archived": "https://web.archive.org/web/20251110233002/http://spidermedia.ru/blog/sterpazook/belorusskiy-sheldon-i-kompaniya",
+  "tags": [
+    "teoriya-bolshogo-vzryva"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

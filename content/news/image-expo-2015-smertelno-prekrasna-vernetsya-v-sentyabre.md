@@ -4,6 +4,12 @@
   "url": "/news/image-expo-2015-smertelno-prekrasna-vernetsya-v-sentyabre/",
   "original_url": "https://spidermedia.ru/news/image-expo-2015-smertelno-prekrasna-vernetsya-v-sentyabre",
   "archived": "https://web.archive.org/web/20250324223859/https://spidermedia.ru/news/image-expo-2015-smertelno-prekrasna-vernetsya-v-sentyabre",
+  "tags": [
+    "kelli-syu-dekonnik",
+    "pretty-deadly",
+    "image-comics",
+    "image-expo"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

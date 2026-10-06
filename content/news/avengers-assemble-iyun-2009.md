@@ -4,6 +4,17 @@
   "url": "/news/avengers-assemble-iyun-2009/",
   "original_url": "http://spidermedia.ru/news/avengers-assemble-iyun-2009",
   "archived": "https://web.archive.org/web/20260121002500/http://spidermedia.ru/news/avengers-assemble-iyun-2009",
+  "tags": [
+    "marvel",
+    "iron-man",
+    "avengers",
+    "thunderbolts",
+    "preview",
+    "captain-america",
+    "war-machine",
+    "black-panther",
+    "miss-marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

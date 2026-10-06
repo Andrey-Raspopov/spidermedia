@@ -4,6 +4,10 @@
   "url": "/news/cbs-zakazal-serial-o-supergerl/",
   "original_url": "http://spidermedia.ru/news/cbs-zakazal-serial-o-supergerl",
   "archived": "https://web.archive.org/web/20250120015601/http://spidermedia.ru/news/cbs-zakazal-serial-o-supergerl",
+  "tags": [
+    "dc-comics",
+    "supergirl"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

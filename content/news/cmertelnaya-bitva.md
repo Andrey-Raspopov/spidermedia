@@ -4,6 +4,14 @@
   "url": "/news/cmertelnaya-bitva/",
   "original_url": "http://spidermedia.ru/news/cmertelnaya-bitva",
   "archived": "https://web.archive.org/web/20251211024155/http://spidermedia.ru/news/cmertelnaya-bitva",
+  "tags": [
+    "marvel",
+    "endi-diggl",
+    "thunderbolts",
+    "preview",
+    "deadpool",
+    "magnum-opus"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

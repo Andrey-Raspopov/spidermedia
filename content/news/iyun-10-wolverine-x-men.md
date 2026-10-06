@@ -4,6 +4,13 @@
   "url": "/news/iyun-10-wolverine-x-men/",
   "original_url": "http://spidermedia.ru/news/iyun-10-wolverine-x-men",
   "archived": "https://web.archive.org/web/20260206225529/http://spidermedia.ru/news/iyun-10-wolverine-x-men",
+  "tags": [
+    "relizy",
+    "daken",
+    "x-men",
+    "wolverine",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

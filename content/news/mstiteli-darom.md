@@ -4,6 +4,18 @@
   "url": "/news/mstiteli-darom/",
   "original_url": "http://spidermedia.ru/news/mstiteli-darom",
   "archived": "https://web.archive.org/web/20120607094657/http://spidermedia.ru/news/mstiteli-darom",
+  "tags": [
+    "dark-avengers",
+    "new-avengers",
+    "thor",
+    "brayan-maykl-bendis",
+    "komiksy",
+    "marvel",
+    "novye-mstiteli",
+    "preview-s",
+    "tyomnye-mstiteli",
+    "tor"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

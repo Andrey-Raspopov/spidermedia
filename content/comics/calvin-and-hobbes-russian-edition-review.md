@@ -4,6 +4,12 @@
   "url": "/comics/calvin-and-hobbes-russian-edition-review/",
   "original_url": "http://spidermedia.ru/comics/calvin-and-hobbes-russian-edition-review",
   "archived": "https://web.archive.org/web/20230609211722/http://spidermedia.ru/comics/calvin-and-hobbes-russian-edition-review",
+  "tags": [
+    "zangavar",
+    "bill-uotterson",
+    "kalvin-i-hobbs",
+    "zarubezhnye-komiksy-na-russkom"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

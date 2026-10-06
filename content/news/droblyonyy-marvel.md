@@ -4,6 +4,14 @@
   "url": "/news/droblyonyy-marvel/",
   "original_url": "http://spidermedia.ru/news/droblyonyy-marvel",
   "archived": "https://web.archive.org/web/20260206220442/http://spidermedia.ru/news/droblyonyy-marvel",
+  "tags": [
+    "venom",
+    "wolverine",
+    "marvel",
+    "iron-man",
+    "captain-america",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

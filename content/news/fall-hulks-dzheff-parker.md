@@ -4,6 +4,18 @@
   "url": "/news/fall-hulks-dzheff-parker/",
   "original_url": "http://spidermedia.ru/news/fall-hulks-dzheff-parker",
   "archived": "https://web.archive.org/web/20260214132949/http://spidermedia.ru/news/fall-hulks-dzheff-parker",
+  "tags": [
+    "ralk",
+    "krasnyj-halk",
+    "she-hulk",
+    "dzheff-parker",
+    "dzhef-loeb",
+    "greg-pak",
+    "rulk",
+    "red-hulk",
+    "marvel",
+    "hulk"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

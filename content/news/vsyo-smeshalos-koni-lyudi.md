@@ -4,6 +4,16 @@
   "url": "/news/vsyo-smeshalos-koni-lyudi/",
   "original_url": "http://spidermedia.ru/news/vsyo-smeshalos-koni-lyudi",
   "archived": "https://web.archive.org/web/20120607112758/http://spidermedia.ru/news/vsyo-smeshalos-koni-lyudi",
+  "tags": [
+    "2099",
+    "art-0",
+    "brayan-rid",
+    "komiksy",
+    "marvel",
+    "oblozhki",
+    "preview-s",
+    "erik-batl"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

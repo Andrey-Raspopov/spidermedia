@@ -4,6 +4,9 @@
   "url": "/blog/plane-v/actually-happened/",
   "original_url": "https://spidermedia.ru/blog/plane-v/actually-happened",
   "archived": "https://web.archive.org/web/20250210075831/https://spidermedia.ru/blog/plane-v/actually-happened",
+  "tags": [
+    "huan-hose-rip"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

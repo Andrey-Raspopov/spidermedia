@@ -4,6 +4,19 @@
   "url": "/news/udivitelnye-peremeny/",
   "original_url": "http://spidermedia.ru/news/udivitelnye-peremeny",
   "archived": "https://web.archive.org/web/20120607055837/http://spidermedia.ru/news/udivitelnye-peremeny",
+  "tags": [
+    "brand-new-day",
+    "chameleon",
+    "mary-jane-watson",
+    "spider-man",
+    "art-0",
+    "mark-ueyd",
+    "meri-dzheyn-vatson",
+    "oblozhki",
+    "fred-van-lente",
+    "hameleon",
+    "chelovek-pauk"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

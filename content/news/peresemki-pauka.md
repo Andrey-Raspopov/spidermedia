@@ -4,6 +4,10 @@
   "url": "/news/peresemki-pauka/",
   "original_url": "http://spidermedia.ru/news/peresemki-pauka",
   "archived": "https://web.archive.org/web/20241104091410/http://spidermedia.ru/news/peresemki-pauka",
+  "tags": [
+    "marvel",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

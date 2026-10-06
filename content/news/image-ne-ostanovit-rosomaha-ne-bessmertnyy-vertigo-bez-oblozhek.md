@@ -4,6 +4,13 @@
   "url": "/news/image-ne-ostanovit-rosomaha-ne-bessmertnyy-vertigo-bez-oblozhek/",
   "original_url": "https://spidermedia.ru/news/image-ne-ostanovit-rosomaha-ne-bessmertnyy-vertigo-bez-oblozhek",
   "archived": "https://web.archive.org/web/20260307054457/https://spidermedia.ru/news/image-ne-ostanovit-rosomaha-ne-bessmertnyy-vertigo-bez-oblozhek",
+  "tags": [
+    "wolverine",
+    "marvel",
+    "industriya",
+    "vertigo",
+    "image-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

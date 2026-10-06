@@ -4,6 +4,13 @@
   "url": "/news/exiles-skechbuk-i-prevyu/",
   "original_url": "https://spidermedia.ru/news/exiles-skechbuk-i-prevyu",
   "archived": "https://web.archive.org/web/20251107004942/https://spidermedia.ru/news/exiles-skechbuk-i-prevyu",
+  "tags": [
+    "salvador-espin",
+    "izgnanniki",
+    "dzheff-parker",
+    "marvel",
+    "exiles"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

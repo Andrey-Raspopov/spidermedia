@@ -4,6 +4,12 @@
   "url": "/blog/larosh/recenziya-na-pilot-seriala-constantine-0/",
   "original_url": "https://spidermedia.ru/blog/larosh/recenziya-na-pilot-seriala-constantine-0",
   "archived": "https://web.archive.org/web/20241106115425/https://spidermedia.ru/blog/larosh/recenziya-na-pilot-seriala-constantine-0",
+  "tags": [
+    "serialy",
+    "dzhon-konstantin",
+    "dc-comics",
+    "obzor"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

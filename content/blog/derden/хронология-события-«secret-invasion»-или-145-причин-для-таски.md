@@ -4,6 +4,15 @@
   "url": "/blog/derden/хронология-события-«secret-invasion»-или-145-причин-для-таски/",
   "original_url": "http://www.spidermedia.ru/blog/derden/%D1%85%D1%80%D0%BE%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F-%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F-%C2%ABsecret-invasion%C2%BB-%D0%B8%D0%BB%D0%B8-145-%D0%BF%D1%80%D0%B8%D1%87%D0%B8%D0%BD-%D0%B4%D0%BB%D1%8F-%D1%82%D0%B0%D1%81%D0%BA%D0%B8",
   "archived": "https://web.archive.org/web/20110128035745/http://www.spidermedia.ru:80/blog/derden/%D1%85%D1%80%D0%BE%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F-%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F-%C2%ABsecret-invasion%C2%BB-%D0%B8%D0%BB%D0%B8-145-%D0%BF%D1%80%D0%B8%D1%87%D0%B8%D0%BD-%D0%B4%D0%BB%D1%8F-%D1%82%D0%B0%D1%81%D0%BA%D0%B8",
+  "tags": [
+    "marvel",
+    "secret-invasion",
+    "skrull",
+    "skrulls",
+    "секретное-вторжение",
+    "скрулл",
+    "скруллы"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

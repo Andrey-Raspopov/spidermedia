@@ -4,6 +4,13 @@
   "url": "/blog/drgonzobear/panteon-oficialno-v-prodazhe/",
   "original_url": "http://spidermedia.ru/blog/drgonzobear/panteon-oficialno-v-prodazhe",
   "archived": "https://web.archive.org/web/20210118123416/http://spidermedia.ru/blog/drgonzobear/panteon-oficialno-v-prodazhe",
+  "tags": [
+    "starkon-2012",
+    "russian-comics",
+    "boevik",
+    "starcon-2012",
+    "miscreant"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

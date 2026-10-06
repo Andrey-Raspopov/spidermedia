@@ -4,6 +4,18 @@
   "url": "/news/moguchiy-tor-tainstvennyy-loki/",
   "original_url": "http://spidermedia.ru/news/moguchiy-tor-tainstvennyy-loki",
   "archived": "https://web.archive.org/web/20260313121138/http://spidermedia.ru/news/moguchiy-tor-tainstvennyy-loki",
+  "tags": [
+    "paskal-ferri",
+    "olive-kojpel",
+    "matt-fraction",
+    "loki",
+    "kiron-gillen",
+    "dag-brejtvejt",
+    "galactus",
+    "thor",
+    "marvel",
+    "journey-into-mystery"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

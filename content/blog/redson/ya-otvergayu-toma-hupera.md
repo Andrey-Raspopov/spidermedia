@@ -4,6 +4,10 @@
   "url": "/blog/redson/ya-otvergayu-toma-hupera/",
   "original_url": "http://spidermedia.ru/blog/redson/ya-otvergayu-toma-hupera",
   "archived": "https://web.archive.org/web/20130619080659/http://spidermedia.ru/blog/redson/ya-otvergayu-toma-hupera",
+  "tags": [
+    "kino",
+    "mnenie"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

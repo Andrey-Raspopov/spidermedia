@@ -4,6 +4,11 @@
   "url": "/news/dedshot-protiv-strely/",
   "original_url": "http://spidermedia.ru/news/dedshot-protiv-strely",
   "archived": "https://web.archive.org/web/20250422025826/http://spidermedia.ru/news/dedshot-protiv-strely",
+  "tags": [
+    "dedshot",
+    "dc-comics",
+    "green-arrow"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

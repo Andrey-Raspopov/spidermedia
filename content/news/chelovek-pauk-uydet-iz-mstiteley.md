@@ -4,6 +4,12 @@
   "url": "/news/chelovek-pauk-uydet-iz-mstiteley/",
   "original_url": "https://spidermedia.ru/news/chelovek-pauk-uydet-iz-mstiteley",
   "archived": "https://web.archive.org/web/20260313105135/https://spidermedia.ru/news/chelovek-pauk-uydet-iz-mstiteley",
+  "tags": [
+    "spider-man",
+    "avengers",
+    "marvel",
+    "den-slott"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

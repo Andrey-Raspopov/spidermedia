@@ -4,6 +4,15 @@
   "url": "/news/ganstery-keydzh-i-dzhaz/",
   "original_url": "http://spidermedia.ru/news/ganstery-keydzh-i-dzhaz",
   "archived": "https://web.archive.org/web/20200217105021/http://spidermedia.ru:80/news/ganstery-keydzh-i-dzhaz",
+  "tags": [
+    "shon-martinbrou",
+    "tim-bredstrit",
+    "majk-benson",
+    "adam-glass",
+    "noirverse",
+    "marvel",
+    "luke-cage"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

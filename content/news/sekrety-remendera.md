@@ -4,6 +4,15 @@
   "url": "/news/sekrety-remendera/",
   "original_url": "https://spidermedia.ru/news/sekrety-remendera",
   "archived": "https://web.archive.org/web/20260309000422/https://spidermedia.ru/news/sekrety-remendera",
+  "tags": [
+    "secret-avengers",
+    "rik-remender",
+    "patrik-zircher",
+    "komik-kon-v-nyu-jorke",
+    "gabriel-hardman",
+    "nycc-2011",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

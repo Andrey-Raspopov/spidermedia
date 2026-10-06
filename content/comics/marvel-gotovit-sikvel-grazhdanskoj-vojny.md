@@ -4,6 +4,12 @@
   "url": "/comics/marvel-gotovit-sikvel-grazhdanskoj-vojny/",
   "original_url": "https://spidermedia.ru/comics/marvel-gotovit-sikvel-grazhdanskoj-vojny",
   "archived": "https://web.archive.org/web/20251111065745/https://spidermedia.ru/comics/marvel-gotovit-sikvel-grazhdanskoj-vojny",
+  "tags": [
+    "marvel",
+    "iron-man",
+    "captain-america",
+    "civil-war"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

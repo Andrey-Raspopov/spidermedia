@@ -4,6 +4,10 @@
   "url": "/news/popadi-na-premeru-strazhey-galaktiki-osobennokospley/",
   "original_url": "https://spidermedia.ru/news/popadi-na-premeru-strazhey-galaktiki-osobennokospley",
   "archived": "https://web.archive.org/web/20260215082337/https://spidermedia.ru/news/popadi-na-premeru-strazhey-galaktiki-osobennokospley",
+  "tags": [
+    "guardians-of-the-galaxy",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

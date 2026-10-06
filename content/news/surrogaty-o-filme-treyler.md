@@ -4,6 +4,12 @@
   "url": "/news/surrogaty-o-filme-treyler/",
   "original_url": "https://spidermedia.ru/news/surrogaty-o-filme-treyler",
   "archived": "https://web.archive.org/web/20231201062123/https://spidermedia.ru/news/surrogaty-o-filme-treyler",
+  "tags": [
+    "trejlery",
+    "surrogaty",
+    "surrogates",
+    "top-shelf-productions"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

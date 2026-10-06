@@ -4,6 +4,10 @@
   "url": "/news/volshebstvo-oficialno-nachinaetsya/",
   "original_url": "http://spidermedia.ru/news/volshebstvo-oficialno-nachinaetsya",
   "archived": "https://web.archive.org/web/20111026062535/http://spidermedia.ru/news/volshebstvo-oficialno-nachinaetsya",
+  "tags": [
+    "zenescope-entertainment",
+    "komiksy"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

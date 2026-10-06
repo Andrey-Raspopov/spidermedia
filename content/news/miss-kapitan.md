@@ -4,6 +4,13 @@
   "url": "/news/miss-kapitan/",
   "original_url": "http://spidermedia.ru/news/miss-kapitan",
   "archived": "https://web.archive.org/web/20251216122710/http://spidermedia.ru/news/miss-kapitan",
+  "tags": [
+    "kelli-syu-dekonnik",
+    "dzheymi-makkelvi",
+    "dekster-soj",
+    "marvel",
+    "captain-marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

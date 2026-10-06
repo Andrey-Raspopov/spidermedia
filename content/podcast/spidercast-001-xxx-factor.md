@@ -4,6 +4,9 @@
   "url": "/podcast/spidercast-001-xxx-factor/",
   "original_url": "https://spidermedia.ru/podcast/spidercast-001-xxx-factor",
   "archived": "https://web.archive.org/web/20260208202754/https://spidermedia.ru/podcast/spidercast-001-xxx-factor",
+  "tags": [
+    "spidercast"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

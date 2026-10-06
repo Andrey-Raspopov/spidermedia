@@ -4,6 +4,10 @@
   "url": "/news/hodyachih-mertvecov-prodlili-na-shestoy-sezon/",
   "original_url": "http://spidermedia.ru/news/hodyachih-mertvecov-prodlili-na-shestoy-sezon",
   "archived": "https://web.archive.org/web/20260121002304/http://spidermedia.ru/news/hodyachih-mertvecov-prodlili-na-shestoy-sezon",
+  "tags": [
+    "hodyachie-mertvecy",
+    "serialy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

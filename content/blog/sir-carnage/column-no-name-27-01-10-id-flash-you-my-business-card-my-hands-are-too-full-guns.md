@@ -4,6 +4,11 @@
   "url": "/blog/sir-carnage/column-no-name-27-01-10-id-flash-you-my-business-card-my-hands-are-too-full-guns/",
   "original_url": "http://spidermedia.ru/blog/sir-carnage/column-no-name-27-01-10-id-flash-you-my-business-card-my-hands-are-too-full-guns",
   "archived": "https://web.archive.org/web/20190907232244/http://spidermedia.ru:80/blog/sir-carnage/column-no-name-27-01-10-id-flash-you-my-business-card-my-hands-are-too-full-guns",
+  "tags": [
+    "marvel",
+    "dc-comics",
+    "the-column-with-no-name"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

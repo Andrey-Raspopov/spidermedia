@@ -4,6 +4,9 @@
   "url": "/comics/dc-june-2015-solicitations/",
   "original_url": "http://spidermedia.ru/comics/dc-june-2015-solicitations",
   "archived": "https://web.archive.org/web/20240518141117/http://spidermedia.ru/comics/dc-june-2015-solicitations",
+  "tags": [
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/blog/naya/drifters/",
   "original_url": "http://spidermedia.ru/blog/naya/drifters",
   "archived": "https://web.archive.org/web/20120608225851/http://spidermedia.ru/blog/naya/drifters",
+  "tags": [
+    "manga",
+    "seinen",
+    "action-0"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

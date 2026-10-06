@@ -4,6 +4,10 @@
   "url": "/news/wel-izdast-komiksy-pro-cherepashek-nindzya-na-russkom/",
   "original_url": "http://spidermedia.ru/news/wel-izdast-komiksy-pro-cherepashek-nindzya-na-russkom",
   "archived": "https://web.archive.org/web/20220815202025/http://spidermedia.ru/news/wel-izdast-komiksy-pro-cherepashek-nindzya-na-russkom",
+  "tags": [
+    "ninja-turtles",
+    "zarubezhnye-komiksy-na-russkom"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

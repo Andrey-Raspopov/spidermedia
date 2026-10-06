@@ -4,6 +4,10 @@
   "url": "/comics/dreddoverse-01/",
   "original_url": "http://spidermedia.ru/comics/dreddoverse-01",
   "archived": "https://web.archive.org/web/20251207095557/http://spidermedia.ru/comics/dreddoverse-01",
+  "tags": [
+    "judge-dredd",
+    "2000-ad"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

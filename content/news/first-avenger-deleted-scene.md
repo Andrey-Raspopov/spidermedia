@@ -4,6 +4,11 @@
   "url": "/news/first-avenger-deleted-scene/",
   "original_url": "https://spidermedia.ru/news/first-avenger-deleted-scene",
   "archived": "https://web.archive.org/web/20250617233814/https://spidermedia.ru/news/first-avenger-deleted-scene",
+  "tags": [
+    "marvel",
+    "howl",
+    "captain-america"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

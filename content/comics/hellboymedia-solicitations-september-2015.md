@@ -4,6 +4,9 @@
   "url": "/comics/hellboymedia-solicitations-september-2015/",
   "original_url": "http://spidermedia.ru/comics/hellboymedia-solicitations-september-2015",
   "archived": "https://web.archive.org/web/20251207101340/http://spidermedia.ru/comics/hellboymedia-solicitations-september-2015",
+  "tags": [
+    "hellboymedia"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

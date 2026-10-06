@@ -4,6 +4,14 @@
   "url": "/news/guggenhaym-i-vanko/",
   "original_url": "http://spidermedia.ru/news/guggenhaym-i-vanko",
   "archived": "https://web.archive.org/web/20251013182708/http://spidermedia.ru/news/guggenhaym-i-vanko",
+  "tags": [
+    "iron-man",
+    "whiplash",
+    "knut",
+    "mark-guggenhajm",
+    "marvel",
+    "preview"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

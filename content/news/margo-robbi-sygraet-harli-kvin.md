@@ -4,6 +4,12 @@
   "url": "/news/margo-robbi-sygraet-harli-kvin/",
   "original_url": "https://spidermedia.ru/news/margo-robbi-sygraet-harli-kvin",
   "archived": "https://web.archive.org/web/20251211034612/https://spidermedia.ru/news/margo-robbi-sygraet-harli-kvin",
+  "tags": [
+    "harli-kvin",
+    "suicide-squad",
+    "kasting",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

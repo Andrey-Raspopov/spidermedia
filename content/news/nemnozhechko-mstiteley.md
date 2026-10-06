@@ -4,6 +4,17 @@
   "url": "/news/nemnozhechko-mstiteley/",
   "original_url": "http://spidermedia.ru/news/nemnozhechko-mstiteley",
   "archived": "https://web.archive.org/web/20250807004648/http://spidermedia.ru/news/nemnozhechko-mstiteley",
+  "tags": [
+    "captain-america",
+    "reborn",
+    "young-avengers",
+    "iron-man",
+    "piter-devid",
+    "shon-chen",
+    "dzhim-cheng",
+    "marvel",
+    "preview"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

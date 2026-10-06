@@ -4,6 +4,11 @@
   "url": "/blog/redson/zebraman-zebramen/",
   "original_url": "http://spidermedia.ru/blog/redson/zebraman-zebramen",
   "archived": "https://web.archive.org/web/20190907234207/http://spidermedia.ru:80/blog/redson/zebraman-zebramen",
+  "tags": [
+    "recenziya",
+    "supergeroi",
+    "takashi-miike"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

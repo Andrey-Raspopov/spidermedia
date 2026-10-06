@@ -4,6 +4,11 @@
   "url": "/movies/mnenie-tor-ragnaryok/",
   "original_url": "http://spidermedia.ru/movies/mnenie-tor-ragnaryok",
   "archived": "https://web.archive.org/web/20260116215314/http://spidermedia.ru/movies/mnenie-tor-ragnaryok",
+  "tags": [
+    "marvel",
+    "thor",
+    "hulk"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

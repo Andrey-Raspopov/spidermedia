@@ -4,6 +4,9 @@
   "url": "/blog/red-hulk/dzhoss-uedon-oblazhalsya-ili-net/",
   "original_url": "http://spidermedia.ru/blog/red-hulk/dzhoss-uedon-oblazhalsya-ili-net",
   "archived": "https://web.archive.org/web/20120608213853/http://spidermedia.ru/blog/red-hulk/dzhoss-uedon-oblazhalsya-ili-net",
+  "tags": [
+    "dzhoss-uedon"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

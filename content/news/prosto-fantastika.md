@@ -4,6 +4,13 @@
   "url": "/news/prosto-fantastika/",
   "original_url": "http://spidermedia.ru/news/prosto-fantastika",
   "archived": "https://web.archive.org/web/20120611044759/http://spidermedia.ru/news/prosto-fantastika",
+  "tags": [
+    "dark-horse",
+    "fear-agent",
+    "kino",
+    "komiksy",
+    "rik-remender"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

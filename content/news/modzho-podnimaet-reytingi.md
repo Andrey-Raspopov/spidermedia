@@ -4,6 +4,21 @@
   "url": "/news/modzho-podnimaet-reytingi/",
   "original_url": "http://spidermedia.ru/news/modzho-podnimaet-reytingi",
   "archived": "https://web.archive.org/web/20111018092314/http://spidermedia.ru/news/modzho-podnimaet-reytingi",
+  "tags": [
+    "cannonball",
+    "civil-war",
+    "digital-comics",
+    "marvel",
+    "modjoworld",
+    "sunspot",
+    "grazhdanskaya-voyna",
+    "dzhessika-dryu",
+    "dzhonatan-hikman",
+    "komiksy",
+    "modzho",
+    "sanspot",
+    "yadro"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

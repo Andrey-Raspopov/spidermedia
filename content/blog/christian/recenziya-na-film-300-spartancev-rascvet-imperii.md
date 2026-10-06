@@ -4,6 +4,10 @@
   "url": "/blog/christian/recenziya-na-film-300-spartancev-rascvet-imperii/",
   "original_url": "https://spidermedia.ru/blog/christian/recenziya-na-film-300-spartancev-rascvet-imperii",
   "archived": "https://web.archive.org/web/20260214144146/https://spidermedia.ru/blog/christian/recenziya-na-film-300-spartancev-rascvet-imperii",
+  "tags": [
+    "recenziya",
+    "dark-horse"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/news/mstiteli-i-lyudi-iks-protiv-krasnogo-cherepa-i-ko/",
   "original_url": "https://spidermedia.ru/news/mstiteli-i-lyudi-iks-protiv-krasnogo-cherepa-i-ko",
   "archived": "https://web.archive.org/web/20251107173808/https://spidermedia.ru/news/mstiteli-i-lyudi-iks-protiv-krasnogo-cherepa-i-ko",
+  "tags": [
+    "avengers",
+    "marvel",
+    "x-men",
+    "krasnyj-cherep"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,15 @@
   "url": "/news/mesto-vstrechi-izmenit-nelzya/",
   "original_url": "http://spidermedia.ru/news/mesto-vstrechi-izmenit-nelzya",
   "archived": "https://web.archive.org/web/20130619052723/http://spidermedia.ru/news/mesto-vstrechi-izmenit-nelzya",
+  "tags": [
+    "spider-man",
+    "ultimate",
+    "art-0",
+    "dzho-kesada",
+    "komiksy",
+    "marvel",
+    "chelovek-pauk"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

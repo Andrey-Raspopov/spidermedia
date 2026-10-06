@@ -4,6 +4,9 @@
   "url": "/blog/igrok/otzyv-na-film-pyataya-vlast/",
   "original_url": "http://spidermedia.ru/blog/igrok/otzyv-na-film-pyataya-vlast",
   "archived": "https://web.archive.org/web/20220814053836/http://spidermedia.ru/blog/igrok/otzyv-na-film-pyataya-vlast",
+  "tags": [
+    "recenziya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

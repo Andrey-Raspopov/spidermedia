@@ -4,6 +4,10 @@
   "url": "/movies/strazhi-galaktiki-2-trejler/",
   "original_url": "http://spidermedia.ru/movies/strazhi-galaktiki-2-trejler",
   "archived": "https://web.archive.org/web/20260211185718/http://spidermedia.ru/movies/strazhi-galaktiki-2-trejler",
+  "tags": [
+    "marvel",
+    "guardians-of-the-galaxy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/blog/sterpazook/brosok-kobry-po-belaruski/",
   "original_url": "https://spidermedia.ru/blog/sterpazook/brosok-kobry-po-belaruski",
   "archived": "https://web.archive.org/web/20250814213945/https://spidermedia.ru/blog/sterpazook/brosok-kobry-po-belaruski",
+  "tags": [
+    "gi-joe",
+    "belarus",
+    "dzhi-aj-dzho",
+    "brosok-kobry"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

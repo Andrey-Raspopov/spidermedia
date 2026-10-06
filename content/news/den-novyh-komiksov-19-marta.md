@@ -4,6 +4,9 @@
   "url": "/news/den-novyh-komiksov-19-marta/",
   "original_url": "https://spidermedia.ru/news/den-novyh-komiksov-19-marta",
   "archived": "https://web.archive.org/web/20250519174535/https://spidermedia.ru/news/den-novyh-komiksov-19-marta",
+  "tags": [
+    "den-novyh-komiksov"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/tv/agent-carter-season-2-review/",
   "original_url": "http://spidermedia.ru/tv/agent-carter-season-2-review",
   "archived": "https://web.archive.org/web/20260313121126/http://spidermedia.ru/tv/agent-carter-season-2-review",
+  "tags": [
+    "agent-carter",
+    "marvel",
+    "agent-karter"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

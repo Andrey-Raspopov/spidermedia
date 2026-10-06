@@ -4,6 +4,9 @@
   "url": "/podcast/razbor-polyotov-vypusk-3-novogodniy/",
   "original_url": "http://spidermedia.ru/podcast/razbor-polyotov-vypusk-3-novogodniy",
   "archived": "https://web.archive.org/web/20250424191850/http://spidermedia.ru/podcast/razbor-polyotov-vypusk-3-novogodniy",
+  "tags": [
+    "spidercast"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/blog/oleg89/den-novyh-komiksov-25-fevralya-0/",
   "original_url": "https://spidermedia.ru/blog/oleg89/den-novyh-komiksov-25-fevralya-0",
   "archived": "https://web.archive.org/web/20251116072442/https://spidermedia.ru/blog/oleg89/den-novyh-komiksov-25-fevralya-0",
+  "tags": [
+    "den-novyh-komiksov"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

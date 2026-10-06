@@ -4,6 +4,11 @@
   "url": "/blog/gess/komiksyyy/",
   "original_url": "http://spidermedia.ru/blog/gess/komiksyyy",
   "archived": "https://web.archive.org/web/20120607135823/http://spidermedia.ru/blog/gess/komiksyyy",
+  "tags": [
+    "girls-comics",
+    "elitnyy-blogging",
+    "stripy"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

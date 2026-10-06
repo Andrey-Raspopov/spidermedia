@@ -4,6 +4,10 @@
   "url": "/news/sluh-warner-bros-snova-hochet-ekranizirovat-legion-supergeroev/",
   "original_url": "https://spidermedia.ru/news/sluh-warner-bros-snova-hochet-ekranizirovat-legion-supergeroev",
   "archived": "https://web.archive.org/web/20250518141321/https://spidermedia.ru/news/sluh-warner-bros-snova-hochet-ekranizirovat-legion-supergeroev",
+  "tags": [
+    "legion-of-super-heroes",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

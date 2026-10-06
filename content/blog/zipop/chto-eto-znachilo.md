@@ -4,6 +4,9 @@
   "url": "/blog/zipop/chto-eto-znachilo/",
   "original_url": "http://spidermedia.ru/blog/zipop/chto-eto-znachilo",
   "archived": "https://web.archive.org/web/20120718101417/http://spidermedia.ru/blog/zipop/chto-eto-znachilo",
+  "tags": [
+    "dc-comics"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,14 @@
   "url": "/news/tretiy-tom-sendmena-vyydet-v-aprele/",
   "original_url": "https://spidermedia.ru/news/tretiy-tom-sendmena-vyydet-v-aprele",
   "archived": "https://web.archive.org/web/20251013193415/https://spidermedia.ru/news/tretiy-tom-sendmena-vyydet-v-aprele",
+  "tags": [
+    "eksmo",
+    "neil-gaiman-sandman",
+    "neil-gaiman",
+    "kelli-dzhons",
+    "zarubezhnye-komiksy-na-russkom",
+    "komiks-art"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

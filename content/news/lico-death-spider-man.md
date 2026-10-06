@@ -4,6 +4,14 @@
   "url": "/news/lico-death-spider-man/",
   "original_url": "https://spidermedia.ru/news/lico-death-spider-man",
   "archived": "https://web.archive.org/web/20260215074227/https://spidermedia.ru/news/lico-death-spider-man",
+  "tags": [
+    "sara-pichelli",
+    "lejnil-frensis-yu",
+    "art-0",
+    "ultimate",
+    "marvel",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

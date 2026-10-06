@@ -4,6 +4,10 @@
   "url": "/tv/supergerl-novoe-promo-video/",
   "original_url": "https://spidermedia.ru/tv/supergerl-novoe-promo-video",
   "archived": "https://web.archive.org/web/20250806092907/https://spidermedia.ru/tv/supergerl-novoe-promo-video",
+  "tags": [
+    "dc-comics",
+    "supergirl"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

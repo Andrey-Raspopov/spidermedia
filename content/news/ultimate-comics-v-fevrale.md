@@ -4,6 +4,21 @@
   "url": "/news/ultimate-comics-v-fevrale/",
   "original_url": "https://spidermedia.ru/news/ultimate-comics-v-fevrale",
   "archived": "https://web.archive.org/web/20260116212733/https://spidermedia.ru/news/ultimate-comics-v-fevrale",
+  "tags": [
+    "ed-makginnes",
+    "rafa-sendoval",
+    "mark-millar",
+    "devid-lafuente",
+    "dzhef-loeb",
+    "artur-adams",
+    "ultimate",
+    "rafael-sandoval",
+    "marvel",
+    "jeph-loeb",
+    "ed-mcguinness",
+    "david-lafuente",
+    "brian-michael-bendis"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

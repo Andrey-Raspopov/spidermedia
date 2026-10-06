@@ -4,6 +4,12 @@
   "url": "/news/obzor-igry-injustice-gods-among-us/",
   "original_url": "http://spidermedia.ru/news/obzor-igry-injustice-gods-among-us",
   "archived": "https://web.archive.org/web/20260309181508/http://spidermedia.ru/news/obzor-igry-injustice-gods-among-us",
+  "tags": [
+    "obzory",
+    "igry",
+    "injustice",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

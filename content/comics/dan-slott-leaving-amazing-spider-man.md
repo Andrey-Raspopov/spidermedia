@@ -4,6 +4,11 @@
   "url": "/comics/dan-slott-leaving-amazing-spider-man/",
   "original_url": "http://spidermedia.ru/comics/dan-slott-leaving-amazing-spider-man",
   "archived": "https://web.archive.org/web/20250806235933/http://spidermedia.ru/comics/dan-slott-leaving-amazing-spider-man",
+  "tags": [
+    "marvel",
+    "den-slott",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

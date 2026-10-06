@@ -4,6 +4,15 @@
   "url": "/news/sluhi-kolonka-12/",
   "original_url": "http://spidermedia.ru/news/sluhi-kolonka-12",
   "archived": "https://web.archive.org/web/20260125055128/http://spidermedia.ru/news/sluhi-kolonka-12",
+  "tags": [
+    "era-geroev",
+    "sluhi",
+    "x-men",
+    "noirverse",
+    "heroic-age",
+    "captain-america",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

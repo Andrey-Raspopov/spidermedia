@@ -4,6 +4,10 @@
   "url": "/news/kris-prett-stanet-kovboem-nindzya-i-vikingom/",
   "original_url": "https://spidermedia.ru/news/kris-prett-stanet-kovboem-nindzya-i-vikingom",
   "archived": "https://web.archive.org/web/20260305225733/https://spidermedia.ru/news/kris-prett-stanet-kovboem-nindzya-i-vikingom",
+  "tags": [
+    "kasting",
+    "image-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/blog/sterpazook/matershchina-beyla-v-stile-tehno/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/matershchina-beyla-v-stile-tehno",
   "archived": "https://web.archive.org/web/20120607055133/http://spidermedia.ru/blog/sterpazook/matershchina-beyla-v-stile-tehno",
+  "tags": [
+    "video",
+    "kristian-beyl",
+    "muzyka",
+    "yumor"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

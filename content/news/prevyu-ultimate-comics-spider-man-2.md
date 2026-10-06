@@ -4,6 +4,14 @@
   "url": "/news/prevyu-ultimate-comics-spider-man-2/",
   "original_url": "http://spidermedia.ru/news/prevyu-ultimate-comics-spider-man-2",
   "archived": "https://web.archive.org/web/20260308232225/http://spidermedia.ru/news/prevyu-ultimate-comics-spider-man-2",
+  "tags": [
+    "spider-man",
+    "sara-pichelli",
+    "preview",
+    "kaare-endryus",
+    "brian-michael-bendis",
+    "ultimate"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

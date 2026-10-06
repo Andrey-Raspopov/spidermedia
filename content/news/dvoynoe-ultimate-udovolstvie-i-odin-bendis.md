@@ -4,6 +4,15 @@
   "url": "/news/dvoynoe-ultimate-udovolstvie-i-odin-bendis/",
   "original_url": "http://spidermedia.ru/news/dvoynoe-ultimate-udovolstvie-i-odin-bendis",
   "archived": "https://web.archive.org/web/20120610055832/http://spidermedia.ru/news/dvoynoe-ultimate-udovolstvie-i-odin-bendis",
+  "tags": [
+    "iron-man",
+    "spider-man",
+    "ultimate",
+    "zheleznyy-chelovek",
+    "komiksy",
+    "mstiteli",
+    "chelovek-pauk"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

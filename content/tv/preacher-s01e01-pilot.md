@@ -4,6 +4,10 @@
   "url": "/tv/preacher-s01e01-pilot/",
   "original_url": "https://spidermedia.ru/tv/preacher-s01e01-pilot",
   "archived": "https://web.archive.org/web/20251216110016/https://spidermedia.ru/tv/preacher-s01e01-pilot",
+  "tags": [
+    "vertigo",
+    "preacher"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

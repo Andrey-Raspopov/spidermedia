@@ -4,6 +4,15 @@
   "url": "/news/epilog-planetarnogo-masshtaba/",
   "original_url": "http://spidermedia.ru/news/epilog-planetarnogo-masshtaba",
   "archived": "https://web.archive.org/web/20160730054225/http://spidermedia.ru/news/epilog-planetarnogo-masshtaba",
+  "tags": [
+    "dc-comics",
+    "uorren-ellis",
+    "dzhon-kessedi",
+    "warren-ellis",
+    "planetary",
+    "john-cassaday",
+    "planetarij"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

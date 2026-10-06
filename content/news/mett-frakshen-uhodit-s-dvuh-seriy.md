@@ -4,6 +4,13 @@
   "url": "/news/mett-frakshen-uhodit-s-dvuh-seriy/",
   "original_url": "https://spidermedia.ru/news/mett-frakshen-uhodit-s-dvuh-seriy",
   "archived": "https://web.archive.org/web/20260208193546/https://spidermedia.ru/news/mett-frakshen-uhodit-s-dvuh-seriy",
+  "tags": [
+    "fantastic-four",
+    "matt-fraction",
+    "marvel",
+    "li-ollred",
+    "karl-kesel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

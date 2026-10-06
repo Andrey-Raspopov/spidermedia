@@ -4,6 +4,9 @@
   "url": "/comics/all-things-valiant-april-2015/",
   "original_url": "https://spidermedia.ru/comics/all-things-valiant-april-2015",
   "archived": "https://web.archive.org/web/20260125061127/https://spidermedia.ru/comics/all-things-valiant-april-2015",
+  "tags": [
+    "valiant-entertainment"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,14 @@
   "url": "/news/benesa-ne-uznat/",
   "original_url": "http://spidermedia.ru/news/benesa-ne-uznat",
   "archived": "https://web.archive.org/web/20260120233919/http://spidermedia.ru/news/benesa-ne-uznat",
+  "tags": [
+    "dc-comics",
+    "batman",
+    "art-0",
+    "dzhadd-vinik",
+    "judd-winick",
+    "ed-benes"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

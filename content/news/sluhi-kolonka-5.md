@@ -4,6 +4,15 @@
   "url": "/news/sluhi-kolonka-5/",
   "original_url": "http://spidermedia.ru/news/sluhi-kolonka-5",
   "archived": "https://web.archive.org/web/20251012180312/http://spidermedia.ru/news/sluhi-kolonka-5",
+  "tags": [
+    "x-men",
+    "marvel",
+    "sluhi",
+    "captain-america",
+    "dzhonatan-hikman",
+    "joe-kelly",
+    "reborn"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

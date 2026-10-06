@@ -4,6 +4,11 @@
   "url": "/blog/zipop/padshiy/",
   "original_url": "http://spidermedia.ru/blog/zipop/padshiy",
   "archived": "https://web.archive.org/web/20150501190325/http://spidermedia.ru/blog/zipop/padshiy",
+  "tags": [
+    "figurki",
+    "transformers",
+    "hasbro"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

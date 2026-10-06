@@ -4,6 +4,9 @@
   "url": "/comics/recenziya-godzilla-poluvekovaya-vojna/",
   "original_url": "http://spidermedia.ru/comics/recenziya-godzilla-poluvekovaya-vojna",
   "archived": "https://web.archive.org/web/20251111082929/http://spidermedia.ru/comics/recenziya-godzilla-poluvekovaya-vojna",
+  "tags": [
+    "obzor"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

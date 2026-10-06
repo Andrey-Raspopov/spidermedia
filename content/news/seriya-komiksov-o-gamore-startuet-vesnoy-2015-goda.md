@@ -4,6 +4,11 @@
   "url": "/news/seriya-komiksov-o-gamore-startuet-vesnoy-2015-goda/",
   "original_url": "http://spidermedia.ru/news/seriya-komiksov-o-gamore-startuet-vesnoy-2015-goda",
   "archived": "https://web.archive.org/web/20250717184848/http://spidermedia.ru/news/seriya-komiksov-o-gamore-startuet-vesnoy-2015-goda",
+  "tags": [
+    "marvel",
+    "guardians-of-the-galaxy",
+    "gamora"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,21 @@
   "url": "/news/brand-new-day-amazing-future-iii/",
   "original_url": "https://spidermedia.ru/news/brand-new-day-amazing-future-iii",
   "archived": "https://web.archive.org/web/20260211090604/https://spidermedia.ru/news/brand-new-day-amazing-future-iii",
+  "tags": [
+    "nosorog",
+    "kris-bachalo",
+    "karnejdzh",
+    "zeb-uells",
+    "elena-dzhurdzhevich",
+    "den-slott",
+    "adam-kubert",
+    "rhino",
+    "lizard",
+    "list",
+    "karnazh",
+    "spider-man",
+    "yashher"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

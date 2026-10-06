@@ -4,6 +4,12 @@
   "url": "/movies/avengers-week-and-a-contest/",
   "original_url": "http://spidermedia.ru/movies/avengers-week-and-a-contest",
   "archived": "https://web.archive.org/web/20260208210609/http://spidermedia.ru/movies/avengers-week-and-a-contest",
+  "tags": [
+    "marvel",
+    "konkurs",
+    "avengers",
+    "tanos"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

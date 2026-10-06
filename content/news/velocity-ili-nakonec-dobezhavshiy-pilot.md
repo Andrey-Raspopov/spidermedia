@@ -4,6 +4,18 @@
   "url": "/news/velocity-ili-nakonec-dobezhavshiy-pilot/",
   "original_url": "http://spidermedia.ru/news/velocity-ili-nakonec-dobezhavshiy-pilot",
   "archived": "https://web.archive.org/web/20251107011533/http://spidermedia.ru/news/velocity-ili-nakonec-dobezhavshiy-pilot",
+  "tags": [
+    "image-comics",
+    "top-cow",
+    "ron-marc",
+    "kennet-rokafort",
+    "dzho-kejsi",
+    "pilot-season",
+    "cyberforce",
+    "velocity",
+    "kriskross",
+    "kiberfors"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

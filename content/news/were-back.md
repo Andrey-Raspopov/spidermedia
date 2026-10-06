@@ -4,6 +4,11 @@
   "url": "/news/were-back/",
   "original_url": "http://spidermedia.ru/news/were-back",
   "archived": "https://web.archive.org/web/20150428054735/http://spidermedia.ru/news/were-back",
+  "tags": [
+    "sajt",
+    "obyavlenie",
+    "spidermedia"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

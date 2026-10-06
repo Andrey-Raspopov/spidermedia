@@ -4,6 +4,12 @@
   "url": "/news/shoot-iron-thrill/",
   "original_url": "https://spidermedia.ru/news/shoot-iron-thrill",
   "archived": "https://web.archive.org/web/20260120150430/https://spidermedia.ru/news/shoot-iron-thrill",
+  "tags": [
+    "muzyka",
+    "dzhon-favro",
+    "marvel",
+    "iron-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

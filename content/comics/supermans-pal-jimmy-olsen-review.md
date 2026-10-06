@@ -4,6 +4,12 @@
   "url": "/comics/supermans-pal-jimmy-olsen-review/",
   "original_url": "http://spidermedia.ru/comics/supermans-pal-jimmy-olsen-review",
   "archived": "https://web.archive.org/web/20260312010332/http://spidermedia.ru/comics/supermans-pal-jimmy-olsen-review",
+  "tags": [
+    "dc-comics",
+    "mett-frakshn",
+    "stiv-liber",
+    "superman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

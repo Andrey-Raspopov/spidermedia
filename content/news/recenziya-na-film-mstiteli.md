@@ -4,6 +4,12 @@
   "url": "/news/recenziya-na-film-mstiteli/",
   "original_url": "http://spidermedia.ru/news/recenziya-na-film-mstiteli",
   "archived": "https://web.archive.org/web/20140417041119/http://spidermedia.ru:80/news/recenziya-na-film-mstiteli",
+  "tags": [
+    "movie",
+    "marvel",
+    "avengers",
+    "recenziya"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/blog/shargor/hellboymedia-art-tribyut-k-yubileyu-hellboya-ot-andreya-vasina/",
   "original_url": "https://spidermedia.ru/blog/shargor/hellboymedia-art-tribyut-k-yubileyu-hellboya-ot-andreya-vasina",
   "archived": "https://web.archive.org/web/20251209144628/https://spidermedia.ru/blog/shargor/hellboymedia-art-tribyut-k-yubileyu-hellboya-ot-andreya-vasina",
+  "tags": [
+    "20-let-hellboya",
+    "hellboymedia",
+    "art-tribyut"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

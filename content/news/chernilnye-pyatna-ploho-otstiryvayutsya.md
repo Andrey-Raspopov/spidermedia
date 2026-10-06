@@ -4,6 +4,12 @@
   "url": "/news/chernilnye-pyatna-ploho-otstiryvayutsya/",
   "original_url": "https://spidermedia.ru/news/chernilnye-pyatna-ploho-otstiryvayutsya",
   "archived": "https://web.archive.org/web/20260215072158/https://spidermedia.ru/news/chernilnye-pyatna-ploho-otstiryvayutsya",
+  "tags": [
+    "preview",
+    "tattooed-man",
+    "final-crisis",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

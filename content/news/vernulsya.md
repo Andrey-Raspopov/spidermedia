@@ -4,6 +4,14 @@
   "url": "/news/vernulsya/",
   "original_url": "https://spidermedia.ru/news/vernulsya",
   "archived": "https://web.archive.org/web/20230607015018/https://spidermedia.ru/news/vernulsya",
+  "tags": [
+    "dc-comics",
+    "the-flash",
+    "preview",
+    "nycc-2009",
+    "geoff-johns",
+    "ethan-van-sciver"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,13 @@
   "url": "/news/pod-znakom-luny/",
   "original_url": "http://spidermedia.ru/news/pod-znakom-luny",
   "archived": "https://web.archive.org/web/20251108032245/http://spidermedia.ru/news/pod-znakom-luny",
+  "tags": [
+    "moon-knight",
+    "brian-michael-bendis",
+    "art-0",
+    "alex-maleev",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

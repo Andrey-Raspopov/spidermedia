@@ -4,6 +4,11 @@
   "url": "/news/bendis-ushel-iz-marvel/",
   "original_url": "https://spidermedia.ru/news/bendis-ushel-iz-marvel",
   "archived": "https://web.archive.org/web/20251012170533/https://spidermedia.ru/news/bendis-ushel-iz-marvel",
+  "tags": [
+    "brian-michael-bendis",
+    "marvel",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

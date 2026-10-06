@@ -4,6 +4,11 @@
   "url": "/news/eksklyuziv-dyavolik-sam-sebe-hozyain-na-russkom-yazyke/",
   "original_url": "http://spidermedia.ru/news/eksklyuziv-dyavolik-sam-sebe-hozyain-na-russkom-yazyke",
   "archived": "https://web.archive.org/web/20260309003453/http://spidermedia.ru/news/eksklyuziv-dyavolik-sam-sebe-hozyain-na-russkom-yazyke",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "dyavolik",
+    "smart-owl"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

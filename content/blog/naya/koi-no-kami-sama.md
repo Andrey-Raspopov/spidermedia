@@ -4,6 +4,13 @@
   "url": "/blog/naya/koi-no-kami-sama/",
   "original_url": "http://spidermedia.ru/blog/naya/koi-no-kami-sama",
   "archived": "https://web.archive.org/web/20120607131537/http://spidermedia.ru/blog/naya/koi-no-kami-sama",
+  "tags": [
+    "comedy",
+    "manga",
+    "one-shot",
+    "romance",
+    "skachat"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/blog/sterpazook/treyler-i-poster-filma-luna/",
   "original_url": "https://spidermedia.ru/blog/sterpazook/treyler-i-poster-filma-luna",
   "archived": "https://web.archive.org/web/20240807184618/https://spidermedia.ru/blog/sterpazook/treyler-i-poster-filma-luna",
+  "tags": [
+    "trejlery",
+    "postery",
+    "moon"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

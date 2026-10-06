@@ -4,6 +4,9 @@
   "url": "/blog/gess/hardy-i-nehardy-v-yanvare-2010-marvel/",
   "original_url": "http://spidermedia.ru/blog/gess/hardy-i-nehardy-v-yanvare-2010-marvel",
   "archived": "https://web.archive.org/web/20120512081320/http://spidermedia.ru/blog/gess/hardy-i-nehardy-v-yanvare-2010-marvel",
+  "tags": [
+    "hnh"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

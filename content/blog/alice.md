@@ -4,6 +4,10 @@
   "url": "/blog/alice/",
   "original_url": "http://spidermedia.ru/blog/alice",
   "archived": "https://web.archive.org/web/20120614103651/http://spidermedia.ru/blog/alice",
+  "tags": [
+    "runaways",
+    "marvel"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

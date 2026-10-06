@@ -4,6 +4,10 @@
   "url": "/news/spin-hellboya-bring-it/",
   "original_url": "http://spidermedia.ru/news/spin-hellboya-bring-it",
   "archived": "https://web.archive.org/web/20260313105109/http://spidermedia.ru/news/spin-hellboya-bring-it",
+  "tags": [
+    "hellboy",
+    "dark-horse"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

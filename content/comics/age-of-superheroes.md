@@ -4,6 +4,10 @@
   "url": "/comics/age-of-superheroes/",
   "original_url": "https://spidermedia.ru/comics/age-of-superheroes",
   "archived": "https://web.archive.org/web/20260115043315/https://spidermedia.ru/comics/age-of-superheroes",
+  "tags": [
+    "knigi",
+    "recenziya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

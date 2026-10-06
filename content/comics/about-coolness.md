@@ -4,6 +4,10 @@
   "url": "/comics/about-coolness/",
   "original_url": "http://spidermedia.ru/comics/about-coolness",
   "archived": "https://web.archive.org/web/20220819233238/http://spidermedia.ru/comics/about-coolness",
+  "tags": [
+    "mnenie",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

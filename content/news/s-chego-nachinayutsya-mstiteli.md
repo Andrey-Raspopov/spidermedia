@@ -4,6 +4,21 @@
   "url": "/news/s-chego-nachinayutsya-mstiteli/",
   "original_url": "http://spidermedia.ru/news/s-chego-nachinayutsya-mstiteli",
   "archived": "https://web.archive.org/web/20250913010846/http://spidermedia.ru/news/s-chego-nachinayutsya-mstiteli",
+  "tags": [
+    "avengers",
+    "luke-cage",
+    "ketrin-immonen",
+    "majk-benson",
+    "adam-glass",
+    "dalibor-taladzhich",
+    "roberto-agirre-sakasa",
+    "thor",
+    "san-diego-comic-con-international",
+    "stefani-hans",
+    "shon-makkiver",
+    "kajl-higgins",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

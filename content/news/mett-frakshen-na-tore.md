@@ -4,6 +4,13 @@
   "url": "/news/mett-frakshen-na-tore/",
   "original_url": "http://spidermedia.ru/news/mett-frakshen-na-tore",
   "archived": "https://web.archive.org/web/20120512065142/http://spidermedia.ru/news/mett-frakshen-na-tore",
+  "tags": [
+    "komiksy",
+    "marvel",
+    "mett-frakshen",
+    "paskal-ferri-0",
+    "tor"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

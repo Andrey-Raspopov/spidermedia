@@ -4,6 +4,10 @@
   "url": "/animation/lego-film-betmen-trejler-i-poster/",
   "original_url": "https://spidermedia.ru/animation/lego-film-betmen-trejler-i-poster",
   "archived": "https://web.archive.org/web/20251013183659/https://spidermedia.ru/animation/lego-film-betmen-trejler-i-poster",
+  "tags": [
+    "dc-comics",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/news/prevyu-shafirovskiy-prospekt-ot-komilfo/",
   "original_url": "http://spidermedia.ru/news/prevyu-shafirovskiy-prospekt-ot-komilfo",
   "archived": "https://web.archive.org/web/20251115185926/http://spidermedia.ru/news/prevyu-shafirovskiy-prospekt-ot-komilfo",
+  "tags": [
+    "russian-comics",
+    "komilfo"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

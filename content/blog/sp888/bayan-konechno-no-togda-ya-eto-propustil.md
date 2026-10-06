@@ -4,6 +4,11 @@
   "url": "/blog/sp888/bayan-konechno-no-togda-ya-eto-propustil/",
   "original_url": "http://spidermedia.ru/blog/sp888/bayan-konechno-no-togda-ya-eto-propustil",
   "archived": "https://web.archive.org/web/20111026065507/http://spidermedia.ru/blog/sp888/bayan-konechno-no-togda-ya-eto-propustil",
+  "tags": [
+    "newuniversal",
+    "komiksy",
+    "uorren-ellis"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/blog/plane-v/so-last-season/",
   "original_url": "http://spidermedia.ru/blog/plane-v/so-last-season",
   "archived": "https://web.archive.org/web/20250906080545/http://spidermedia.ru/blog/plane-v/so-last-season",
+  "tags": [
+    "kostyumy-tred",
+    "dzheymi-makkelvi"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

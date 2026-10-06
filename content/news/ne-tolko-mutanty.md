@@ -4,6 +4,14 @@
   "url": "/news/ne-tolko-mutanty/",
   "original_url": "http://spidermedia.ru/news/ne-tolko-mutanty",
   "archived": "https://web.archive.org/web/20260314084136/http://spidermedia.ru/news/ne-tolko-mutanty",
+  "tags": [
+    "sajmon-spure",
+    "era-iks",
+    "khoj-fam",
+    "art-0",
+    "x-men",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/news/cho/",
   "original_url": "https://spidermedia.ru/news/cho",
   "archived": "https://web.archive.org/web/20250327235941/https://spidermedia.ru/news/cho",
+  "tags": [
+    "frenk-cho",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

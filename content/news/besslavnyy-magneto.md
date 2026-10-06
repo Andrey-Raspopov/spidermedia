@@ -4,6 +4,12 @@
   "url": "/news/besslavnyy-magneto/",
   "original_url": "https://spidermedia.ru/news/besslavnyy-magneto",
   "archived": "https://web.archive.org/web/20260314082757/https://spidermedia.ru/news/besslavnyy-magneto",
+  "tags": [
+    "magneto",
+    "marvel",
+    "skotti-yang",
+    "klej-mann"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

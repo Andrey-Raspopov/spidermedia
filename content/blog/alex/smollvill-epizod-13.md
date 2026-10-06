@@ -4,6 +4,11 @@
   "url": "/blog/alex/smollvill-epizod-13/",
   "original_url": "http://spidermedia.ru/blog/alex/smollvill-epizod-13",
   "archived": "https://web.archive.org/web/20250913020258/http://spidermedia.ru/blog/alex/smollvill-epizod-13",
+  "tags": [
+    "serialy",
+    "superman",
+    "smallville"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

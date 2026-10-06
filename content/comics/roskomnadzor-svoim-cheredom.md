@@ -4,6 +4,11 @@
   "url": "/comics/roskomnadzor-svoim-cheredom/",
   "original_url": "http://spidermedia.ru/comics/roskomnadzor-svoim-cheredom",
   "archived": "https://web.archive.org/web/20230322223318/http://spidermedia.ru/comics/roskomnadzor-svoim-cheredom",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "roskomnadzor",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

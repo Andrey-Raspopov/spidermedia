@@ -4,6 +4,10 @@
   "url": "/podcast/x-of-panels-01-creation/",
   "original_url": "https://spidermedia.ru/podcast/x-of-panels-01-creation",
   "archived": "https://web.archive.org/web/20251107030257/https://spidermedia.ru/podcast/x-of-panels-01-creation",
+  "tags": [
+    "panels-of-x",
+    "on-panels"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

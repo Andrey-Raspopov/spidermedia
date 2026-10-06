@@ -4,6 +4,14 @@
   "url": "/blog/hella/obzor-smertelno-prekrasna-russkoyazychnoe-izdanie/",
   "original_url": "https://spidermedia.ru/blog/hella/obzor-smertelno-prekrasna-russkoyazychnoe-izdanie",
   "archived": "https://web.archive.org/web/20260312020932/https://spidermedia.ru/blog/hella/obzor-smertelno-prekrasna-russkoyazychnoe-izdanie",
+  "tags": [
+    "emma-rios",
+    "kelli-syu-dekonnik",
+    "zarubezhnye-komiksy-na-russkom",
+    "xl-media",
+    "pretty-deadly",
+    "image-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

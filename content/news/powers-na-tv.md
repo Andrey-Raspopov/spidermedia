@@ -4,6 +4,14 @@
   "url": "/news/powers-na-tv/",
   "original_url": "https://spidermedia.ru/news/powers-na-tv",
   "archived": "https://web.archive.org/web/20241205035413/https://spidermedia.ru/news/powers-na-tv",
+  "tags": [
+    "icon-comics",
+    "brian-michael-bendis",
+    "image-comics",
+    "majkl-ejvon-oeming",
+    "powers",
+    "serialy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

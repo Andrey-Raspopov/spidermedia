@@ -4,6 +4,15 @@
   "url": "/news/spider-man-noir-snova-v-dele/",
   "original_url": "http://spidermedia.ru/news/spider-man-noir-snova-v-dele",
   "archived": "https://web.archive.org/web/20230329032123/http://spidermedia.ru/news/spider-man-noir-snova-v-dele",
+  "tags": [
+    "fabris-sapolski",
+    "karmin-di-dzhyandomeniko",
+    "devid-hajn",
+    "art-0",
+    "noirverse",
+    "marvel",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

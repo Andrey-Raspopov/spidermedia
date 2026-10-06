@@ -4,6 +4,9 @@
   "url": "/comics/hacker-review/",
   "original_url": "http://spidermedia.ru/comics/hacker-review",
   "archived": "https://web.archive.org/web/20250620075007/http://spidermedia.ru/comics/hacker-review",
+  "tags": [
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

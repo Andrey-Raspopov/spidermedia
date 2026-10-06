@@ -4,6 +4,10 @@
   "url": "/tv/zheleznyj-kulak-trejler/",
   "original_url": "https://spidermedia.ru/tv/zheleznyj-kulak-trejler",
   "archived": "https://web.archive.org/web/20260309174242/https://spidermedia.ru/tv/zheleznyj-kulak-trejler",
+  "tags": [
+    "iron-fist",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,13 @@
   "url": "/news/itogo-100/",
   "original_url": "http://spidermedia.ru/news/itogo-100",
   "archived": "https://web.archive.org/web/20251216185339/http://spidermedia.ru/news/itogo-100",
+  "tags": [
+    "freddi-vilyams-ii",
+    "ig-guara",
+    "gejl-simon",
+    "art-baltazar",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

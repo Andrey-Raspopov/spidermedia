@@ -4,6 +4,11 @@
   "url": "/movies/sdcc-2015-tizer-otryada-samoubijc/",
   "original_url": "https://spidermedia.ru/movies/sdcc-2015-tizer-otryada-samoubijc",
   "archived": "https://web.archive.org/web/20260121013631/https://spidermedia.ru/movies/sdcc-2015-tizer-otryada-samoubijc",
+  "tags": [
+    "dc-comics",
+    "san-diego-comic-con-international",
+    "suicide-squad"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

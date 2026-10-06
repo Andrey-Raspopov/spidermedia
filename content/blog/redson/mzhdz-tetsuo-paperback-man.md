@@ -4,11 +4,15 @@
   "url": "/blog/redson/mzhdz-tetsuo-paperback-man/",
   "original_url": "http://spidermedia.ru/blog/redson/mzhdz-tetsuo-paperback-man",
   "archived": "https://web.archive.org/web/20251107175737/http://spidermedia.ru/blog/redson/mzhdz-tetsuo-paperback-man",
+  "tags": [
+    "mnenie",
+    "mzhdz"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](https://web.archive.org/web/20251107175737im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz516.png)](https://web.archive.org/web/20260206215846/http://spidermedia.ru/tags/mzhdz)
+[![](https://web.archive.org/web/20251107175737im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz516.png)](../../../tags/mzhdz/)
 ![](https://web.archive.org/web/20251107175737im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mustreturn.jpg)
 **Еженедельные обзоры новых комиксов!**
 Старая власть вернулась. Репрессии последуют. А пока – маленький, уютненький, раслабленный выпуск.

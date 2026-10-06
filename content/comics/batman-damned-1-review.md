@@ -4,6 +4,12 @@
   "url": "/comics/batman-damned-1-review/",
   "original_url": "https://spidermedia.ru/comics/batman-damned-1-review",
   "archived": "https://web.archive.org/web/20260312014528/https://spidermedia.ru/comics/batman-damned-1-review",
+  "tags": [
+    "dc-comics",
+    "brian-azzarello",
+    "batman",
+    "li-bermeho"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

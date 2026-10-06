@@ -4,6 +4,22 @@
   "url": "/news/zheleznyy-fevral/",
   "original_url": "http://spidermedia.ru/news/zheleznyy-fevral",
   "archived": "https://web.archive.org/web/20260314082626/http://spidermedia.ru/news/zheleznyy-fevral",
+  "tags": [
+    "shon-chen",
+    "salvador-larroka",
+    "preview",
+    "pol-kornell",
+    "piter-devid",
+    "matt-fraction",
+    "mark-guggenhajm",
+    "luchio-parrilo",
+    "knut",
+    "govard-chajkin",
+    "brendon-peterson",
+    "whiplash",
+    "marvel",
+    "iron-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/news/otryvok-iz-multfilma-superman-unbound/",
   "original_url": "http://spidermedia.ru/news/otryvok-iz-multfilma-superman-unbound",
   "archived": "https://web.archive.org/web/20260117230904/http://spidermedia.ru/news/otryvok-iz-multfilma-superman-unbound",
+  "tags": [
+    "superman",
+    "brejniak",
+    "animaciya",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/news/istina-gde-tam/",
   "original_url": "http://spidermedia.ru/news/istina-gde-tam",
   "archived": "https://web.archive.org/web/20251213192612/http://spidermedia.ru/news/istina-gde-tam",
+  "tags": [
+    "dzhonatan-hikman",
+    "rajan-bodenhajm",
+    "image-comics",
+    "trejlery"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

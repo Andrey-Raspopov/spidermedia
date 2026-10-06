@@ -4,6 +4,11 @@
   "url": "/blog/sterpazook/treyler-komiksa-legends-enchanted-oooh-edgy/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/treyler-komiksa-legends-enchanted-oooh-edgy",
   "archived": "https://web.archive.org/web/20250119065456/http://spidermedia.ru/blog/sterpazook/treyler-komiksa-legends-enchanted-oooh-edgy",
+  "tags": [
+    "trejlery",
+    "radical-publishing",
+    "legends-the-enchanted"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/blog/sterpazook/recenziya-na-film-pervyy-mstitel-drugaya-voyna/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/recenziya-na-film-pervyy-mstitel-drugaya-voyna",
   "archived": "https://web.archive.org/web/20240303065514/http://spidermedia.ru/blog/sterpazook/recenziya-na-film-pervyy-mstitel-drugaya-voyna",
+  "tags": [
+    "recenziya",
+    "marvel",
+    "captain-america",
+    "winter-soldier"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

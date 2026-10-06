@@ -4,6 +4,10 @@
   "url": "/movies/majkl-kiton-mozhet-sygrat-zlodeya-v-cheloveke-pauke/",
   "original_url": "http://spidermedia.ru/movies/majkl-kiton-mozhet-sygrat-zlodeya-v-cheloveke-pauke",
   "archived": "https://web.archive.org/web/20260211184911/http://spidermedia.ru/movies/majkl-kiton-mozhet-sygrat-zlodeya-v-cheloveke-pauke",
+  "tags": [
+    "marvel",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

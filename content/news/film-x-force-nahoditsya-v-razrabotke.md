@@ -4,6 +4,11 @@
   "url": "/news/film-x-force-nahoditsya-v-razrabotke/",
   "original_url": "http://spidermedia.ru/news/film-x-force-nahoditsya-v-razrabotke",
   "archived": "https://web.archive.org/web/20260211185011/http://spidermedia.ru/news/film-x-force-nahoditsya-v-razrabotke",
+  "tags": [
+    "rob-lajfeld",
+    "x-men",
+    "x-force"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

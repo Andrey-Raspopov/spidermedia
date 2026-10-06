@@ -4,6 +4,9 @@
   "url": "/podcast/spider-talk-05-star-wars/",
   "original_url": "http://spidermedia.ru/podcast/spider-talk-05-star-wars",
   "archived": "https://web.archive.org/web/20251206154713/http://spidermedia.ru/podcast/spider-talk-05-star-wars",
+  "tags": [
+    "spider-talk"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

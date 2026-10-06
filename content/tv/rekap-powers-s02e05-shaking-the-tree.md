@@ -4,6 +4,10 @@
   "url": "/tv/rekap-powers-s02e05-shaking-the-tree/",
   "original_url": "https://spidermedia.ru/tv/rekap-powers-s02e05-shaking-the-tree",
   "archived": "https://web.archive.org/web/20251107034444/https://spidermedia.ru/tv/rekap-powers-s02e05-shaking-the-tree",
+  "tags": [
+    "icon-comics",
+    "powers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

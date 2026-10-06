@@ -4,6 +4,12 @@
   "url": "/blog/sterpazook/halk-protiv-tora/",
   "original_url": "https://spidermedia.ru/blog/sterpazook/halk-protiv-tora",
   "archived": "https://web.archive.org/web/20250207164712/https://spidermedia.ru/blog/sterpazook/halk-protiv-tora",
+  "tags": [
+    "marvel",
+    "animaciya",
+    "hulk",
+    "thor"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

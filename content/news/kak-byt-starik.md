@@ -4,6 +4,16 @@
   "url": "/news/kak-byt-starik/",
   "original_url": "https://spidermedia.ru/news/kak-byt-starik",
   "archived": "https://web.archive.org/web/20250617234225/https://spidermedia.ru/news/kak-byt-starik",
+  "tags": [
+    "marvel",
+    "mark-millar",
+    "wolverine",
+    "hawkeye",
+    "preview",
+    "old-man-logan",
+    "stiv-makniven",
+    "steve-mcniven"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

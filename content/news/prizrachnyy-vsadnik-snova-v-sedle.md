@@ -4,6 +4,12 @@
   "url": "/news/prizrachnyy-vsadnik-snova-v-sedle/",
   "original_url": "http://spidermedia.ru/news/prizrachnyy-vsadnik-snova-v-sedle",
   "archived": "https://web.archive.org/web/20250913021554/http://spidermedia.ru/news/prizrachnyy-vsadnik-snova-v-sedle",
+  "tags": [
+    "rob-uilyams",
+    "mettyu-klark",
+    "marvel",
+    "prizrachnyj-gonshhik"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

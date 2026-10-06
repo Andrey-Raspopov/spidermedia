@@ -4,6 +4,9 @@
   "url": "/blog/oleg89/den-novyh-komiksov-4-marta-0/",
   "original_url": "http://spidermedia.ru/blog/oleg89/den-novyh-komiksov-4-marta-0",
   "archived": "https://web.archive.org/web/20200216142259/http://spidermedia.ru:80/blog/oleg89/den-novyh-komiksov-4-marta-0",
+  "tags": [
+    "den-novyh-komiksov"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

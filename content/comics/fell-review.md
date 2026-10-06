@@ -4,6 +4,12 @@
   "url": "/comics/fell-review/",
   "original_url": "https://spidermedia.ru/comics/fell-review",
   "archived": "https://web.archive.org/web/20251206023040/https://spidermedia.ru/comics/fell-review",
+  "tags": [
+    "xl-media",
+    "ben-templsmit",
+    "zarubezhnye-komiksy-na-russkom",
+    "warren-ellis"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/blog/alex/rok-volna-rosomahi/",
   "original_url": "http://spidermedia.ru/blog/alex/rok-volna-rosomahi",
   "archived": "https://web.archive.org/web/20120718211448/http://spidermedia.ru/blog/alex/rok-volna-rosomahi",
+  "tags": [
+    "wolverine",
+    "kino",
+    "rosomaha"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

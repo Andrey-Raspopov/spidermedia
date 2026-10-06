@@ -4,6 +4,13 @@
   "url": "/news/dolgozhdannoe-vozvrashchenie/",
   "original_url": "http://spidermedia.ru/news/dolgozhdannoe-vozvrashchenie",
   "archived": "https://web.archive.org/web/20111018110112/http://spidermedia.ru/news/dolgozhdannoe-vozvrashchenie",
+  "tags": [
+    "marvel",
+    "scarlet-spider",
+    "alyy-pauk",
+    "komiksy",
+    "preview-s"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

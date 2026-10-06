@@ -4,6 +4,10 @@
   "url": "/news/prevyu-panteon-no3/",
   "original_url": "https://spidermedia.ru/news/prevyu-panteon-no3",
   "archived": "https://web.archive.org/web/20260116224749/https://spidermedia.ru/news/prevyu-panteon-no3",
+  "tags": [
+    "russian-comics",
+    "belyj-edinorog"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

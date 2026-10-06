@@ -4,6 +4,11 @@
   "url": "/news/oficialno-dzhon-favro-proshchaetsya-s-zheleznym-chelovekom/",
   "original_url": "http://spidermedia.ru/news/oficialno-dzhon-favro-proshchaetsya-s-zheleznym-chelovekom",
   "archived": "https://web.archive.org/web/20250906185113/http://spidermedia.ru/news/oficialno-dzhon-favro-proshchaetsya-s-zheleznym-chelovekom",
+  "tags": [
+    "dzhon-favro",
+    "marvel",
+    "iron-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

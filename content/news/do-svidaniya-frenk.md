@@ -4,6 +4,12 @@
   "url": "/news/do-svidaniya-frenk/",
   "original_url": "http://spidermedia.ru/news/do-svidaniya-frenk",
   "archived": "https://web.archive.org/web/20250419054956/http://spidermedia.ru/news/do-svidaniya-frenk",
+  "tags": [
+    "steve-dillon",
+    "punisher",
+    "dzheyson-aaron",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

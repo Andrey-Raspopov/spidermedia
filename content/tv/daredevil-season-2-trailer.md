@@ -4,6 +4,11 @@
   "url": "/tv/daredevil-season-2-trailer/",
   "original_url": "http://spidermedia.ru/tv/daredevil-season-2-trailer",
   "archived": "https://web.archive.org/web/20251115025428/http://spidermedia.ru/tv/daredevil-season-2-trailer",
+  "tags": [
+    "marvel",
+    "daredevil",
+    "serialy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

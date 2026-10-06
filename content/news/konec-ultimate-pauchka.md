@@ -4,6 +4,11 @@
   "url": "/news/konec-ultimate-pauchka/",
   "original_url": "http://spidermedia.ru/news/konec-ultimate-pauchka",
   "archived": "https://web.archive.org/web/20251117005202/http://spidermedia.ru/news/konec-ultimate-pauchka",
+  "tags": [
+    "dzhef-loeb",
+    "ultimate",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

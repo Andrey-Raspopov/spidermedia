@@ -4,6 +4,10 @@
   "url": "/movies/chelovek-muravej-postery/",
   "original_url": "https://spidermedia.ru/movies/chelovek-muravej-postery",
   "archived": "https://web.archive.org/web/20251018233443/https://spidermedia.ru/movies/chelovek-muravej-postery",
+  "tags": [
+    "marvel",
+    "ant-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

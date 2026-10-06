@@ -4,6 +4,10 @@
   "url": "/news/sluhi-gay-gardner/",
   "original_url": "http://spidermedia.ru/news/sluhi-gay-gardner",
   "archived": "https://web.archive.org/web/20260125053008/http://spidermedia.ru/news/sluhi-gay-gardner",
+  "tags": [
+    "sluhi",
+    "green-lantern"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/blog/sonyn/lolshit/",
   "original_url": "http://spidermedia.ru/blog/sonyn/lolshit",
   "archived": "https://web.archive.org/web/20140418061326/http://spidermedia.ru:80/blog/sonyn/lolshit",
+  "tags": [
+    "casting-call",
+    "friends",
+    "starman"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

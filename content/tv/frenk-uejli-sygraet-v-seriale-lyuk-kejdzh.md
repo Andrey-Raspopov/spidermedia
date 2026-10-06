@@ -4,6 +4,11 @@
   "url": "/tv/frenk-uejli-sygraet-v-seriale-lyuk-kejdzh/",
   "original_url": "http://spidermedia.ru/tv/frenk-uejli-sygraet-v-seriale-lyuk-kejdzh",
   "archived": "https://web.archive.org/web/20260307063926/http://spidermedia.ru/tv/frenk-uejli-sygraet-v-seriale-lyuk-kejdzh",
+  "tags": [
+    "luke-cage",
+    "marvel",
+    "kasting"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

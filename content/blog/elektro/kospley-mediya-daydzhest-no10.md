@@ -4,6 +4,9 @@
   "url": "/blog/elektro/kospley-mediya-daydzhest-no10/",
   "original_url": "http://spidermedia.ru/blog/elektro/kospley-mediya-daydzhest-no10",
   "archived": "https://web.archive.org/web/20170829014413/http://spidermedia.ru:80/blog/elektro/kospley-mediya-daydzhest-no10",
+  "tags": [
+    "kosplej"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,15 @@
   "url": "/news/messiah-war/",
   "original_url": "http://spidermedia.ru/news/messiah-war",
   "archived": "https://web.archive.org/web/20250519171557/http://spidermedia.ru/news/messiah-war",
+  "tags": [
+    "x-men",
+    "marvel",
+    "wolverine",
+    "x-force",
+    "nycc-2009",
+    "cable",
+    "strife"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

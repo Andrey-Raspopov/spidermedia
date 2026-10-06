@@ -4,6 +4,14 @@
   "url": "/news/pauki-tysyachi-ih/",
   "original_url": "http://spidermedia.ru/news/pauki-tysyachi-ih",
   "archived": "https://web.archive.org/web/20260214132756/http://spidermedia.ru/news/pauki-tysyachi-ih",
+  "tags": [
+    "umberto-ramos",
+    "den-slott",
+    "art-0",
+    "spider-man",
+    "spider-island",
+    "ostrov-pauka"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

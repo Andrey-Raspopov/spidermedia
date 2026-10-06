@@ -4,6 +4,10 @@
   "url": "/comics/aliens-dead-orbit-review/",
   "original_url": "http://spidermedia.ru/comics/aliens-dead-orbit-review",
   "archived": "https://web.archive.org/web/20260307061259/http://spidermedia.ru/comics/aliens-dead-orbit-review",
+  "tags": [
+    "dark-horse",
+    "dzhejms-stokou"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,13 @@
   "url": "/news/sekretnye-voyny-epizod-beskonechnost/",
   "original_url": "http://spidermedia.ru/news/sekretnye-voyny-epizod-beskonechnost",
   "archived": "https://web.archive.org/web/20251207011029/http://spidermedia.ru/news/sekretnye-voyny-epizod-beskonechnost",
+  "tags": [
+    "esad-ribich",
+    "erika-henderson",
+    "rajan-nort",
+    "marvel",
+    "dzhonatan-hikman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

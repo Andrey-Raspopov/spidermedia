@@ -4,6 +4,11 @@
   "url": "/comics/batman-white-knight-complete-series-review/",
   "original_url": "https://spidermedia.ru/comics/batman-white-knight-complete-series-review",
   "archived": "https://web.archive.org/web/20251216184816/https://spidermedia.ru/comics/batman-white-knight-complete-series-review",
+  "tags": [
+    "dc-comics",
+    "batman",
+    "shon-merfi"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

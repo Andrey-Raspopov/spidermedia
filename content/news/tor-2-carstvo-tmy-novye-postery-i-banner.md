@@ -4,6 +4,11 @@
   "url": "/news/tor-2-carstvo-tmy-novye-postery-i-banner/",
   "original_url": "https://spidermedia.ru/news/tor-2-carstvo-tmy-novye-postery-i-banner",
   "archived": "https://web.archive.org/web/20241205043509/https://spidermedia.ru/news/tor-2-carstvo-tmy-novye-postery-i-banner",
+  "tags": [
+    "thor",
+    "postery",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

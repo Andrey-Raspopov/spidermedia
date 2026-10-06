@@ -4,6 +4,12 @@
   "url": "/news/sisterhood-poslednyaya-x-ideya-brubeykera/",
   "original_url": "http://spidermedia.ru/news/sisterhood-poslednyaya-x-ideya-brubeykera",
   "archived": "https://web.archive.org/web/20120611043622/http://spidermedia.ru/news/sisterhood-poslednyaya-x-ideya-brubeykera",
+  "tags": [
+    "x-universe",
+    "komiksy",
+    "marvel",
+    "mett-frakshen"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/news/vozrozhdenie-0/",
   "original_url": "http://spidermedia.ru/news/vozrozhdenie-0",
   "archived": "https://web.archive.org/web/20260116214936/http://spidermedia.ru/news/vozrozhdenie-0",
+  "tags": [
+    "dzhef-loeb",
+    "ed-makginnes",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

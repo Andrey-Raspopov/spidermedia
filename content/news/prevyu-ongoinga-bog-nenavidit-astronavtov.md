@@ -4,6 +4,9 @@
   "url": "/news/prevyu-ongoinga-bog-nenavidit-astronavtov/",
   "original_url": "http://spidermedia.ru/news/prevyu-ongoinga-bog-nenavidit-astronavtov",
   "archived": "https://web.archive.org/web/20150423180214/http://spidermedia.ru/news/prevyu-ongoinga-bog-nenavidit-astronavtov",
+  "tags": [
+    "image-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

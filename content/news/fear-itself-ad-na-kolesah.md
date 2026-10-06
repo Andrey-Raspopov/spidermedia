@@ -4,6 +4,12 @@
   "url": "/news/fear-itself-ad-na-kolesah/",
   "original_url": "http://spidermedia.ru/news/fear-itself-ad-na-kolesah",
   "archived": "https://web.archive.org/web/20250217084010/http://spidermedia.ru/news/fear-itself-ad-na-kolesah",
+  "tags": [
+    "voploshhenie-straha",
+    "art-0",
+    "marvel",
+    "prizrachnyj-gonshhik"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

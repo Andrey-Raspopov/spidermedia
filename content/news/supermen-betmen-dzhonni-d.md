@@ -4,6 +4,12 @@
   "url": "/news/supermen-betmen-dzhonni-d/",
   "original_url": "http://spidermedia.ru/news/supermen-betmen-dzhonni-d",
   "archived": "https://web.archive.org/web/20241110021152/http://spidermedia.ru/news/supermen-betmen-dzhonni-d",
+  "tags": [
+    "animaciya",
+    "public-enemies",
+    "batman",
+    "superman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

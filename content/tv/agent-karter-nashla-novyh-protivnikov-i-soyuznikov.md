@@ -4,6 +4,11 @@
   "url": "/tv/agent-karter-nashla-novyh-protivnikov-i-soyuznikov/",
   "original_url": "http://spidermedia.ru/tv/agent-karter-nashla-novyh-protivnikov-i-soyuznikov",
   "archived": "https://web.archive.org/web/20260211194050/http://spidermedia.ru/tv/agent-karter-nashla-novyh-protivnikov-i-soyuznikov",
+  "tags": [
+    "marvel",
+    "agent-karter",
+    "komik-kon-v-nyu-yorke"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

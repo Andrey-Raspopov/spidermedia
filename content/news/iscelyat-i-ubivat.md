@@ -4,6 +4,14 @@
   "url": "/news/iscelyat-i-ubivat/",
   "original_url": "http://spidermedia.ru/news/iscelyat-i-ubivat",
   "archived": "https://web.archive.org/web/20250717193657/http://spidermedia.ru/news/iscelyat-i-ubivat",
+  "tags": [
+    "charli-hyuston",
+    "huan-hose-rip",
+    "art-0",
+    "wolverine",
+    "marvel",
+    "juan-jose-ryp"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

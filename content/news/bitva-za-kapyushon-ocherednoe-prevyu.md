@@ -4,6 +4,13 @@
   "url": "/news/bitva-za-kapyushon-ocherednoe-prevyu/",
   "original_url": "https://spidermedia.ru/news/bitva-za-kapyushon-ocherednoe-prevyu",
   "archived": "https://web.archive.org/web/20251014041905/https://spidermedia.ru/news/bitva-za-kapyushon-ocherednoe-prevyu",
+  "tags": [
+    "dc-comics",
+    "batman",
+    "nightwing",
+    "toni-deniel",
+    "najtving"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

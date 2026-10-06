@@ -4,6 +4,10 @@
   "url": "/animation/batman-vs-robin-review/",
   "original_url": "http://spidermedia.ru/animation/batman-vs-robin-review",
   "archived": "https://web.archive.org/web/20251216174300/http://spidermedia.ru/animation/batman-vs-robin-review",
+  "tags": [
+    "dc-comics",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

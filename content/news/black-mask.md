@@ -4,6 +4,9 @@
   "url": "/news/black-mask/",
   "original_url": "http://spidermedia.ru/news/black-mask",
   "archived": "https://web.archive.org/web/20260307061325/http://spidermedia.ru/news/black-mask",
+  "tags": [
+    "grant-morrison"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

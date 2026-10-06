@@ -4,6 +4,11 @@
   "url": "/blog/gess/hardy-i-nehardy-v-dekabre-2009-dc-speed-version/",
   "original_url": "http://spidermedia.ru/blog/gess/hardy-i-nehardy-v-dekabre-2009-dc-speed-version",
   "archived": "https://web.archive.org/web/20120512081029/http://spidermedia.ru/blog/gess/hardy-i-nehardy-v-dekabre-2009-dc-speed-version",
+  "tags": [
+    "dc-comics",
+    "komiksy",
+    "hnh"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,19 @@
   "url": "/blog/sir-carnage/column-no-name-week-13-sledi-za-bazarom/",
   "original_url": "https://spidermedia.ru/blog/sir-carnage/column-no-name-week-13-sledi-za-bazarom",
   "archived": "https://web.archive.org/web/20260305231233/https://spidermedia.ru/blog/sir-carnage/column-no-name-week-13-sledi-za-bazarom",
+  "tags": [
+    "x-factor",
+    "wolverine",
+    "thunderbolts",
+    "thor",
+    "marvel",
+    "invaders",
+    "doctor-nemesis",
+    "detective-comics",
+    "dc-comics",
+    "avengers",
+    "the-column-with-no-name"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/blog/samm-o/superior-ne-smeyte-obizhat-marka-millara/",
   "original_url": "https://spidermedia.ru/blog/samm-o/superior-ne-smeyte-obizhat-marka-millara",
   "archived": "https://web.archive.org/web/20260314082926/https://spidermedia.ru/blog/samm-o/superior-ne-smeyte-obizhat-marka-millara",
+  "tags": [
+    "superior",
+    "icon-comics",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/news/znakomtes-reaktivnyy-enot/",
   "original_url": "http://spidermedia.ru/news/znakomtes-reaktivnyy-enot",
   "archived": "https://web.archive.org/web/20240806233936/http://spidermedia.ru/news/znakomtes-reaktivnyy-enot",
+  "tags": [
+    "guardians-of-the-galaxy",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/news/dikiy-geroy-na-dikoy-zemle/",
   "original_url": "https://spidermedia.ru/news/dikiy-geroy-na-dikoy-zemle",
   "archived": "https://web.archive.org/web/20251208075011/https://spidermedia.ru/news/dikiy-geroy-na-dikoy-zemle",
+  "tags": [
+    "frenk-cho",
+    "wolverine",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

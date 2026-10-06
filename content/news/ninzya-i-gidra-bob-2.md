@@ -4,6 +4,14 @@
   "url": "/news/ninzya-i-gidra-bob-2/",
   "original_url": "http://spidermedia.ru/news/ninzya-i-gidra-bob-2",
   "archived": "https://web.archive.org/web/20251006143048/http://spidermedia.ru/news/ninzya-i-gidra-bob-2",
+  "tags": [
+    "shon-kristal",
+    "kajl-bejker",
+    "deadpool",
+    "devid-lafem",
+    "art-0",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

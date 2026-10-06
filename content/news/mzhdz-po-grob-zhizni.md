@@ -4,11 +4,15 @@
   "url": "/news/mzhdz-po-grob-zhizni/",
   "original_url": "http://spidermedia.ru/news/mzhdz-po-grob-zhizni",
   "archived": "https://web.archive.org/web/20240720080714/http://spidermedia.ru/news/mzhdz-po-grob-zhizni",
+  "tags": [
+    "mzhdz",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](https://web.archive.org/web/20240720080714im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz400.png)](https://web.archive.org/web/20260206215846/http://spidermedia.ru/tags/mzhdz)
+[![](https://web.archive.org/web/20240720080714im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz400.png)](../../tags/mzhdz/)
 ![](https://web.archive.org/web/20240720080714im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/priot.jpg)
 Крупнейшие комиксные издательства Америки, как правило, выпускают одновременно лучшие и худшие образчики формы, часто на одной и той же неделе. Соотношение внутри каждой компании варьируется, но суть не меняется. Самые плохие комиксы Image плохи по своим, уникальным для них причинам, но при этом самые лучшие их комиксы всегда лучше самых лучших комиксов конкурентов. На прошлой неделе вышли важнейшие выпуски тех двух серий Image, которые я не побоялся бы назвать основополагающими и центральными для понимания рабочего кредо издательства в XXI веке - **The Walking Dead** и **Bulletproof Coffin: Disinterred**.
 [**Расшифровка системы оценок**](../../blog/redson/mzhdz-odin-vy-kak-hotite-ya-kak-hochu/)

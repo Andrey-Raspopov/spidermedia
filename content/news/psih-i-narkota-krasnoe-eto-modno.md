@@ -4,6 +4,14 @@
   "url": "/news/psih-i-narkota-krasnoe-eto-modno/",
   "original_url": "http://spidermedia.ru/news/psih-i-narkota-krasnoe-eto-modno",
   "archived": "https://web.archive.org/web/20251117005733/http://spidermedia.ru/news/psih-i-narkota-krasnoe-eto-modno",
+  "tags": [
+    "marvel",
+    "hulk",
+    "punisher",
+    "daredevil",
+    "deadpool",
+    "dardevil"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

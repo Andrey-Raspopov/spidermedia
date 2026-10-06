@@ -4,6 +4,16 @@
   "url": "/news/couple-books/",
   "original_url": "http://spidermedia.ru/news/couple-books",
   "archived": "https://web.archive.org/web/20260305234234/http://spidermedia.ru/news/couple-books",
+  "tags": [
+    "dc-comics",
+    "avtory",
+    "batman",
+    "dynamite-entertainment",
+    "zelenyj-shershen",
+    "kevin-smit",
+    "green-hornet",
+    "uolt-flenagan"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

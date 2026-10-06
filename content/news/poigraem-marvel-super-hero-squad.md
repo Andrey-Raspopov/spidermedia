@@ -4,6 +4,11 @@
   "url": "/news/poigraem-marvel-super-hero-squad/",
   "original_url": "http://spidermedia.ru/news/poigraem-marvel-super-hero-squad",
   "archived": "https://web.archive.org/web/20260211191141/http://spidermedia.ru/news/poigraem-marvel-super-hero-squad",
+  "tags": [
+    "marvel",
+    "igry",
+    "trejlery"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

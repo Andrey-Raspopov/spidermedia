@@ -4,6 +4,12 @@
   "url": "/news/2-novyh-kadra-zelenogo-fonarya/",
   "original_url": "http://spidermedia.ru/news/2-novyh-kadra-zelenogo-fonarya",
   "archived": "https://web.archive.org/web/20260305231024/http://spidermedia.ru/news/2-novyh-kadra-zelenogo-fonarya",
+  "tags": [
+    "green-lantern",
+    "dc-comics",
+    "ajvan-rejs",
+    "geoff-johns"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/blog/igrok/obzor-i-nemnozhko-soka-vtoroy-vypusk-skeleta-inspektora-0/",
   "original_url": "http://spidermedia.ru/blog/igrok/obzor-i-nemnozhko-soka-vtoroy-vypusk-skeleta-inspektora-0",
   "archived": "https://web.archive.org/web/20251216122238/http://spidermedia.ru/blog/igrok/obzor-i-nemnozhko-soka-vtoroy-vypusk-skeleta-inspektora-0",
+  "tags": [
+    "russian-comics",
+    "obzor",
+    "komilfo"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

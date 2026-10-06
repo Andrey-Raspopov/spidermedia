@@ -4,6 +4,13 @@
   "url": "/blog/alex/smollvill-smallville-s8-ep21-injustice-nespravedlivost/",
   "original_url": "https://spidermedia.ru/blog/alex/smollvill-smallville-s8-ep21-injustice-nespravedlivost",
   "archived": "https://web.archive.org/web/20260116221711/https://spidermedia.ru/blog/alex/smollvill-smallville-s8-ep21-injustice-nespravedlivost",
+  "tags": [
+    "smallville",
+    "serialy",
+    "superman",
+    "smollvill",
+    "tajny-smollvillya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

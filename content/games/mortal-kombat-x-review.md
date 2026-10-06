@@ -4,6 +4,9 @@
   "url": "/games/mortal-kombat-x-review/",
   "original_url": "http://spidermedia.ru/games/mortal-kombat-x-review",
   "archived": "https://web.archive.org/web/20221128123727/http://spidermedia.ru/games/mortal-kombat-x-review",
+  "tags": [
+    "mortal-kombat"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

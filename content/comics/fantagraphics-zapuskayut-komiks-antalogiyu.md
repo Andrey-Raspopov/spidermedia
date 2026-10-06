@@ -4,6 +4,9 @@
   "url": "/comics/fantagraphics-zapuskayut-komiks-antalogiyu/",
   "original_url": "http://spidermedia.ru/comics/fantagraphics-zapuskayut-komiks-antalogiyu",
   "archived": "https://web.archive.org/web/20260121013239/http://spidermedia.ru/comics/fantagraphics-zapuskayut-komiks-antalogiyu",
+  "tags": [
+    "fantagraphics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

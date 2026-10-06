@@ -4,6 +4,10 @@
   "url": "/comics/chto-zhdet-bustera-golda/",
   "original_url": "http://spidermedia.ru/comics/chto-zhdet-bustera-golda",
   "archived": "https://web.archive.org/web/20241113120942/http://spidermedia.ru/comics/chto-zhdet-bustera-golda",
+  "tags": [
+    "dc-comics",
+    "buster-gold"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

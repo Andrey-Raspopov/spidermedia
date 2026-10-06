@@ -4,6 +4,10 @@
   "url": "/movies/deadpool-2-movie-review/",
   "original_url": "http://spidermedia.ru/movies/deadpool-2-movie-review",
   "archived": "https://web.archive.org/web/20251208070149/http://spidermedia.ru/movies/deadpool-2-movie-review",
+  "tags": [
+    "marvel",
+    "deadpool"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

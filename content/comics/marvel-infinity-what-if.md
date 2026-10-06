@@ -4,6 +4,9 @@
   "url": "/comics/marvel-infinity-what-if/",
   "original_url": "https://spidermedia.ru/comics/marvel-infinity-what-if",
   "archived": "https://web.archive.org/web/20260309183955/https://spidermedia.ru/comics/marvel-infinity-what-if",
+  "tags": [
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

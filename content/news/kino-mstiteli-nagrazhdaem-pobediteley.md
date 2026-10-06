@@ -4,6 +4,12 @@
   "url": "/news/kino-mstiteli-nagrazhdaem-pobediteley/",
   "original_url": "http://spidermedia.ru/news/kino-mstiteli-nagrazhdaem-pobediteley",
   "archived": "https://web.archive.org/web/20251117002236/http://spidermedia.ru/news/kino-mstiteli-nagrazhdaem-pobediteley",
+  "tags": [
+    "fanart",
+    "konkurs",
+    "challenge",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

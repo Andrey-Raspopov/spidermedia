@@ -4,6 +4,9 @@
   "url": "/podcast/spidercast-004-my-s-rostova/",
   "original_url": "http://spidermedia.ru/podcast/spidercast-004-my-s-rostova",
   "archived": "https://web.archive.org/web/20260208204313/http://spidermedia.ru/podcast/spidercast-004-my-s-rostova",
+  "tags": [
+    "spidercast"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

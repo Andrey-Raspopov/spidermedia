@@ -4,6 +4,19 @@
   "url": "/news/haos-povsyudu/",
   "original_url": "https://spidermedia.ru/news/haos-povsyudu",
   "archived": "https://web.archive.org/web/20251216173708/https://spidermedia.ru/news/haos-povsyudu",
+  "tags": [
+    "fred-van-lente",
+    "majkl-ejvon-oeming",
+    "dzhim-makkenn",
+    "dzhej-em-demattej",
+    "greg-pak",
+    "ares",
+    "thor",
+    "marvel",
+    "hulk",
+    "avengers",
+    "alpha-flight"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

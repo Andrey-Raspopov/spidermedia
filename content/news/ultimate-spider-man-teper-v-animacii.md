@@ -4,6 +4,18 @@
   "url": "/news/ultimate-spider-man-teper-v-animacii/",
   "original_url": "https://spidermedia.ru/news/ultimate-spider-man-teper-v-animacii",
   "archived": "https://web.archive.org/web/20251110221343/https://spidermedia.ru/news/ultimate-spider-man-teper-v-animacii",
+  "tags": [
+    "preview",
+    "pol-dini",
+    "joe-kelly",
+    "dzho-kejsi",
+    "dzhef-loeb",
+    "brian-michael-bendis",
+    "animaciya",
+    "ultimate",
+    "marvel",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/news/hellboymedia-news-itty-bitty-hellboy-vernyotsya-v-2015-godu/",
   "original_url": "http://spidermedia.ru/news/hellboymedia-news-itty-bitty-hellboy-vernyotsya-v-2015-godu",
   "archived": "https://web.archive.org/web/20260209105652/http://spidermedia.ru/news/hellboymedia-news-itty-bitty-hellboy-vernyotsya-v-2015-godu",
+  "tags": [
+    "novosti",
+    "hellboymedia"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

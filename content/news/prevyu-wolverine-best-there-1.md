@@ -4,6 +4,17 @@
   "url": "/news/prevyu-wolverine-best-there-1/",
   "original_url": "https://spidermedia.ru/news/prevyu-wolverine-best-there-1",
   "archived": "https://web.archive.org/web/20251110220450/https://spidermedia.ru/news/prevyu-wolverine-best-there-1",
+  "tags": [
+    "charli-hyuston",
+    "huan-hose-rip",
+    "fil-himenez",
+    "marko-dzhurdzhevich",
+    "gabriele-dell-otto",
+    "bryan-hitch",
+    "art-0",
+    "wolverine",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/news/komiks-maus-vyhodit-v-rossii/",
   "original_url": "http://spidermedia.ru/news/komiks-maus-vyhodit-v-rossii",
   "archived": "https://web.archive.org/web/20170609210828/http://spidermedia.ru:80/news/komiks-maus-vyhodit-v-rossii",
+  "tags": [
+    "novosti",
+    "zarubezhnye-komiksy-na-russkom"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

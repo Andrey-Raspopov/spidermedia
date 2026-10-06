@@ -4,6 +4,12 @@
   "url": "/news/starlight-novyy-komiks-marka-millara-i-gorana-parlova/",
   "original_url": "https://spidermedia.ru/news/starlight-novyy-komiks-marka-millara-i-gorana-parlova",
   "archived": "https://web.archive.org/web/20260307071356/https://spidermedia.ru/news/starlight-novyy-komiks-marka-millara-i-gorana-parlova",
+  "tags": [
+    "mark-millar",
+    "goran-parlov",
+    "starlight",
+    "image-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

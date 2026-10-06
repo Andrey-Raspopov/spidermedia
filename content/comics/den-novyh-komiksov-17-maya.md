@@ -4,6 +4,9 @@
   "url": "/comics/den-novyh-komiksov-17-maya/",
   "original_url": "https://spidermedia.ru/comics/den-novyh-komiksov-17-maya",
   "archived": "https://web.archive.org/web/20251209145328/https://spidermedia.ru/comics/den-novyh-komiksov-17-maya",
+  "tags": [
+    "den-novyh-komiksov"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

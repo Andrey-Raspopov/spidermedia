@@ -4,6 +4,12 @@
   "url": "/news/proshloe-i-nastoyashchee-versiya-legionerov/",
   "original_url": "http://spidermedia.ru/news/proshloe-i-nastoyashchee-versiya-legionerov",
   "archived": "https://web.archive.org/web/20260215081640/http://spidermedia.ru/news/proshloe-i-nastoyashchee-versiya-legionerov",
+  "tags": [
+    "paul-levitz",
+    "jildiraj-chinar",
+    "legion-of-super-heroes",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

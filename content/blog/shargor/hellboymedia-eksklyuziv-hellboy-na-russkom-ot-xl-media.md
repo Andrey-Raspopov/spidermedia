@@ -4,6 +4,11 @@
   "url": "/blog/shargor/hellboymedia-eksklyuziv-hellboy-na-russkom-ot-xl-media/",
   "original_url": "http://spidermedia.ru/blog/shargor/hellboymedia-eksklyuziv-hellboy-na-russkom-ot-xl-media",
   "archived": "https://web.archive.org/web/20260206215348/http://spidermedia.ru/blog/shargor/hellboymedia-eksklyuziv-hellboy-na-russkom-ot-xl-media",
+  "tags": [
+    "eksklyuziv",
+    "zarubezhnye-komiksy-na-russkom",
+    "hellboymedia"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
@@ -21,7 +26,7 @@
 
 ---
 
-Хэллбой, главное детище гениального американского картуниста Майка Миньолы, впервые появился в августе 1993 года в короткой истории, опубликованной в сборнике, раздаваемом на Комик Коне в Сан Диего. Полноценный же дебют персонажа состоялся в марте 1994 года, когда вышел первый номер мини-серии **Hellboy: Seed of Destruction** (издательство — **Dark Horse**). C тех пор комикс о красном чёрте породил огромное количество спин-офф серий (самая знаменитая из которых — **B.P.R.D.**), был дважды экранизирован мексиканским режиссёром Гильермо Дель Торо, на его основе создано огромное количество мерчендайза, а сам герой плотно вошёл в современную масс-культуру. В прошлом году франчайз отпраздновал 20 лет — этому событию мы даже уделили [«немножко» внимания](https://web.archive.org/web/20260206220348/http://spidermedia.ru/tags/20-let-hellboya).
+Хэллбой, главное детище гениального американского картуниста Майка Миньолы, впервые появился в августе 1993 года в короткой истории, опубликованной в сборнике, раздаваемом на Комик Коне в Сан Диего. Полноценный же дебют персонажа состоялся в марте 1994 года, когда вышел первый номер мини-серии **Hellboy: Seed of Destruction** (издательство — **Dark Horse**). C тех пор комикс о красном чёрте породил огромное количество спин-офф серий (самая знаменитая из которых — **B.P.R.D.**), был дважды экранизирован мексиканским режиссёром Гильермо Дель Торо, на его основе создано огромное количество мерчендайза, а сам герой плотно вошёл в современную масс-культуру. В прошлом году франчайз отпраздновал 20 лет — этому событию мы даже уделили [«немножко» внимания](../../../tags/20-let-hellboya/).
 
 [![](https://web.archive.org/web/20250923060419im_/http://spidermedia.ru/assets/cache/preview/8458/hellboymedia/local/announcement-hellboy/350x523-01-hellboy.1f9.jpg)](https://web.archive.org/web/20160316062656im_/http://spidermedia.ru/assets/images/hellboymedia/local/announcement-hellboy/01-hellboy.jpeg)
 

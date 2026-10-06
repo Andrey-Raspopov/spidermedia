@@ -1,0 +1,9 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+<p class="intro">{{ len .Data.Terms }} тегов, от самых частых к редким.</p>
+<ul class="tags-all">
+  {{ range .Data.Terms.ByCount }}
+  <li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a> <span>{{ .Count }}</span></li>
+  {{ end }}
+</ul>
+{{ end }}

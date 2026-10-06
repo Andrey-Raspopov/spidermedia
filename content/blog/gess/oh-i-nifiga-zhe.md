@@ -4,6 +4,10 @@
   "url": "/blog/gess/oh-i-nifiga-zhe/",
   "original_url": "http://spidermedia.ru/blog/gess/oh-i-nifiga-zhe",
   "archived": "https://web.archive.org/web/20240305044455/http://spidermedia.ru/blog/gess/oh-i-nifiga-zhe",
+  "tags": [
+    "geoff-johns",
+    "the-flash"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

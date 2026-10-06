@@ -4,6 +4,11 @@
   "url": "/blog/derden/komiksy-dc-universe-vypusk-no-03/",
   "original_url": "http://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-03",
   "archived": "https://web.archive.org/web/20190914072450/http://spidermedia.ru:80/blog/derden/komiksy-dc-universe-vypusk-no-03",
+  "tags": [
+    "jsa",
+    "dc-comics",
+    "dc-universe-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

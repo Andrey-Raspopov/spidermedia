@@ -4,6 +4,17 @@
   "url": "/news/priklyucheniya-superboya/",
   "original_url": "https://spidermedia.ru/news/priklyucheniya-superboya",
   "archived": "https://web.archive.org/web/20251207100606/https://spidermedia.ru/news/priklyucheniya-superboya",
+  "tags": [
+    "dc-comics",
+    "geoff-johns",
+    "frensis-manapul",
+    "francis-manapul",
+    "superboj",
+    "legion-super-geroev",
+    "superboj-prajm",
+    "legion-of-super-heroes",
+    "legion-of-3-worlds"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

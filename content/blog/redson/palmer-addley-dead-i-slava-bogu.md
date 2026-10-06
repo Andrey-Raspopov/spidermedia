@@ -4,6 +4,11 @@
   "url": "/blog/redson/palmer-addley-dead-i-slava-bogu/",
   "original_url": "https://spidermedia.ru/blog/redson/palmer-addley-dead-i-slava-bogu",
   "archived": "https://web.archive.org/web/20260214132542/https://spidermedia.ru/blog/redson/palmer-addley-dead-i-slava-bogu",
+  "tags": [
+    "marvel",
+    "art-0",
+    "ariel-olivetti"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

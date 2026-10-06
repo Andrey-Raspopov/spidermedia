@@ -4,6 +4,10 @@
   "url": "/podcast/gol-d-panels-saga-08-part-3-dressrosa-act-ii/",
   "original_url": "http://spidermedia.ru/podcast/gol-d-panels-saga-08-part-3-dressrosa-act-ii",
   "archived": "https://web.archive.org/web/20260120235404/http://spidermedia.ru/podcast/gol-d-panels-saga-08-part-3-dressrosa-act-ii",
+  "tags": [
+    "gold-panels",
+    "on-panels"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

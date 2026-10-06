@@ -4,6 +4,11 @@
   "url": "/blog/igrok/obzor-doktor-lyucid-no1-0/",
   "original_url": "https://spidermedia.ru/blog/igrok/obzor-doktor-lyucid-no1-0",
   "archived": "https://web.archive.org/web/20260117214530/https://spidermedia.ru/blog/igrok/obzor-doktor-lyucid-no1-0",
+  "tags": [
+    "russian-comics",
+    "obzor",
+    "doktor-lyucid"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

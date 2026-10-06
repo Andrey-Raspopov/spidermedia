@@ -4,6 +4,13 @@
   "url": "/news/begi-barri-begi/",
   "original_url": "https://spidermedia.ru/news/begi-barri-begi",
   "archived": "https://web.archive.org/web/20260209104237/https://spidermedia.ru/news/begi-barri-begi",
+  "tags": [
+    "frensis-manapul",
+    "geoff-johns",
+    "dc-comics",
+    "the-flash",
+    "francis-manapul"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

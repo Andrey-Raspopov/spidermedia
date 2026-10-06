@@ -4,6 +4,9 @@
   "url": "/content/kakoy-programmoy-otkryvat-fayly-cbr-i-cbz/",
   "original_url": "http://spidermedia.ru/content/kakoy-programmoy-otkryvat-fayly-cbr-i-cbz",
   "archived": "https://web.archive.org/web/20250325001205/http://spidermedia.ru/content/kakoy-programmoy-otkryvat-fayly-cbr-i-cbz",
+  "tags": [
+    "faq"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

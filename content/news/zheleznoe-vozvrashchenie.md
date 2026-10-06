@@ -4,6 +4,19 @@
   "url": "/news/zheleznoe-vozvrashchenie/",
   "original_url": "http://spidermedia.ru/news/zheleznoe-vozvrashchenie",
   "archived": "https://web.archive.org/web/20120607184358/http://spidermedia.ru/news/zheleznoe-vozvrashchenie",
+  "tags": [
+    "black-widow",
+    "iron-man",
+    "pepper-potts",
+    "dzhon-favro",
+    "zheleznyy-chelovek",
+    "kino",
+    "komiksy",
+    "marvel",
+    "pepper-potts-0",
+    "robert-dauni-ml",
+    "chyornaya-vdova"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

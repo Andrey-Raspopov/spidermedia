@@ -4,6 +4,15 @@
   "url": "/news/dobro-pozhalovat-na-zemlyu-odin/",
   "original_url": "http://spidermedia.ru/news/dobro-pozhalovat-na-zemlyu-odin",
   "archived": "https://web.archive.org/web/20251206034229/http://spidermedia.ru/news/dobro-pozhalovat-na-zemlyu-odin",
+  "tags": [
+    "shejn-devis",
+    "superman",
+    "geoff-johns",
+    "geri-frenk",
+    "j-michael-straczynski",
+    "dc-comics",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

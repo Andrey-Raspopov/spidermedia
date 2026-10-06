@@ -4,6 +4,15 @@
   "url": "/news/sdcc10-spider-man/",
   "original_url": "http://spidermedia.ru/news/sdcc10-spider-man",
   "archived": "https://web.archive.org/web/20251110220704/http://spidermedia.ru/news/sdcc10-spider-man",
+  "tags": [
+    "umberto-ramos",
+    "stefano-kaselli",
+    "markos-martin",
+    "san-diego-comic-con-international",
+    "den-slott",
+    "spider-man",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

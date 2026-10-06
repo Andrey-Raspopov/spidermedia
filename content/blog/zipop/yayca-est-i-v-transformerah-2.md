@@ -4,6 +4,12 @@
   "url": "/blog/zipop/yayca-est-i-v-transformerah-2/",
   "original_url": "http://spidermedia.ru/blog/zipop/yayca-est-i-v-transformerah-2",
   "archived": "https://web.archive.org/web/20120607134855/http://spidermedia.ru/blog/zipop/yayca-est-i-v-transformerah-2",
+  "tags": [
+    "transformers-revenge-fallen",
+    "kino",
+    "pashalki",
+    "transformery-mest-padshih"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

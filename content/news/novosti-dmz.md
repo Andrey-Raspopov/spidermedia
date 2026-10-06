@@ -4,6 +4,13 @@
   "url": "/news/novosti-dmz/",
   "original_url": "http://spidermedia.ru/news/novosti-dmz",
   "archived": "https://web.archive.org/web/20260307064713/http://spidermedia.ru/news/novosti-dmz",
+  "tags": [
+    "vertigo",
+    "brian-wood",
+    "rajan-kelli",
+    "dmz",
+    "rikardo-burchielli"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

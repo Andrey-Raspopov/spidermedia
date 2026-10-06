@@ -4,6 +4,13 @@
   "url": "/news/pervaya-oficialnaya-fotografiya-so-semok-mstiteley/",
   "original_url": "http://spidermedia.ru/news/pervaya-oficialnaya-fotografiya-so-semok-mstiteley",
   "archived": "https://web.archive.org/web/20120608170949/http://spidermedia.ru/news/pervaya-oficialnaya-fotografiya-so-semok-mstiteley",
+  "tags": [
+    "avengers",
+    "kadry",
+    "kino",
+    "marvel",
+    "mstiteli"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/news/novaya-betgyorl-stilno-modno-molodzheno/",
   "original_url": "http://spidermedia.ru/news/novaya-betgyorl-stilno-modno-molodzheno",
   "archived": "https://web.archive.org/web/20200218015241/http://spidermedia.ru:80/news/novaya-betgyorl-stilno-modno-molodzheno",
+  "tags": [
+    "betgyorl",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

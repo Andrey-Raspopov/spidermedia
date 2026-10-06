@@ -4,6 +4,16 @@
   "url": "/news/evropeyskie-kanikuly/",
   "original_url": "https://spidermedia.ru/news/evropeyskie-kanikuly",
   "archived": "https://web.archive.org/web/20251216124508/https://spidermedia.ru/news/evropeyskie-kanikuly",
+  "tags": [
+    "diego-latorre",
+    "dzhuzeppe-kamunkoli",
+    "dzhok",
+    "jim-lee",
+    "brian-azzarello",
+    "art-0",
+    "dc-comics",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

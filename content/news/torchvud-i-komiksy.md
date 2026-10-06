@@ -4,6 +4,13 @@
   "url": "/news/torchvud-i-komiksy/",
   "original_url": "http://spidermedia.ru/news/torchvud-i-komiksy",
   "archived": "https://web.archive.org/web/20120607143657/http://spidermedia.ru/news/torchvud-i-komiksy",
+  "tags": [
+    "bbc",
+    "torchwood",
+    "komiksy",
+    "stripy",
+    "torchvud"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/comics/dead-no-more-osennij-pauchij-ivent/",
   "original_url": "http://spidermedia.ru/comics/dead-no-more-osennij-pauchij-ivent",
   "archived": "https://web.archive.org/web/20250208103923/http://spidermedia.ru/comics/dead-no-more-osennij-pauchij-ivent",
+  "tags": [
+    "marvel",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/news/vstrechayte-edu/",
   "original_url": "http://spidermedia.ru/news/vstrechayte-edu",
   "archived": "https://web.archive.org/web/20260314080901/http://spidermedia.ru/news/vstrechayte-edu",
+  "tags": [
+    "postery",
+    "marvel",
+    "prizrachnyj-gonshhik"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

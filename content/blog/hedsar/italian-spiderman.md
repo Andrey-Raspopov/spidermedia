@@ -4,6 +4,9 @@
   "url": "/blog/hedsar/italian-spiderman/",
   "original_url": "https://spidermedia.ru/blog/hedsar/italian-spiderman",
   "archived": "https://web.archive.org/web/20251205114741/https://spidermedia.ru/blog/hedsar/italian-spiderman",
+  "tags": [
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

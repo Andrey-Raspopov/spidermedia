@@ -4,6 +4,17 @@
   "url": "/news/puteshestvie-v-zonu-51/",
   "original_url": "http://spidermedia.ru/news/puteshestvie-v-zonu-51",
   "archived": "https://web.archive.org/web/20260214142557/http://spidermedia.ru/news/puteshestvie-v-zonu-51",
+  "tags": [
+    "set-rogen",
+    "seth-rogen",
+    "prishelcy",
+    "simon-pegg",
+    "nick-frost",
+    "sajmon-pegg",
+    "nik-frost",
+    "giki",
+    "geeks"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,11 +4,21 @@
   "url": "/news/mzhdz-uncanny-avengers-1/",
   "original_url": "http://spidermedia.ru/news/mzhdz-uncanny-avengers-1",
   "archived": "https://web.archive.org/web/20260306001416/http://spidermedia.ru/news/mzhdz-uncanny-avengers-1",
+  "tags": [
+    "rik-remender",
+    "mnenie",
+    "mzhdz",
+    "dzhon-kessedej",
+    "x-men",
+    "marvel",
+    "rick-remender",
+    "john-cassaday"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](https://web.archive.org/web/20260306001416im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz.png)](https://web.archive.org/web/20260206215846/http://spidermedia.ru/tags/mzhdz)
+[![](https://web.archive.org/web/20260306001416im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz.png)](../../tags/mzhdz/)
 ![](https://web.archive.org/web/20260306001416im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/latte.jpg)
 Долго ждать не пришлось: инициатива **Marvel NOW!** уже здесь, прямо в вашей комнате. Она перепутала все диски в вашей музыкальной коллекции, допила остатки апельсинового сока и без спроса трогает ваши фигурки. Прогнать ее уже не получится, поэтому надо научиться с ней жить.
 Начинается все с серии с громким названием **Uncanny Avengers**. Не обольщайтесь, упор там идет на слово Uncanny, поэтому затяните пояса и готовьтесь к новому витку драмы о мутантах. Вы все равно будете это читать, потому что рисует Джон Кэсседей.

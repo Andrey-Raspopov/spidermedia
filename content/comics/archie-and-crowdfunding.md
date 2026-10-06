@@ -4,6 +4,9 @@
   "url": "/comics/archie-and-crowdfunding/",
   "original_url": "http://spidermedia.ru/comics/archie-and-crowdfunding",
   "archived": "https://web.archive.org/web/20260214134700/http://spidermedia.ru/comics/archie-and-crowdfunding",
+  "tags": [
+    "archie-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/comics/nycc-2015-idw-vozrozhdaet-mikronavtov-kosmicheskogo-rycarya-i-30-dnej-nochi/",
   "original_url": "http://spidermedia.ru/comics/nycc-2015-idw-vozrozhdaet-mikronavtov-kosmicheskogo-rycarya-i-30-dnej-nochi",
   "archived": "https://web.archive.org/web/20260208202653/http://spidermedia.ru/comics/nycc-2015-idw-vozrozhdaet-mikronavtov-kosmicheskogo-rycarya-i-30-dnej-nochi",
+  "tags": [
+    "idw-publishing",
+    "komik-kon-v-nyu-yorke"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

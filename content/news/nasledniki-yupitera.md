@@ -4,6 +4,11 @@
   "url": "/news/nasledniki-yupitera/",
   "original_url": "https://spidermedia.ru/news/nasledniki-yupitera",
   "archived": "https://web.archive.org/web/20260215085753/https://spidermedia.ru/news/nasledniki-yupitera",
+  "tags": [
+    "frenk-kuajtli",
+    "preview",
+    "mark-millar"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

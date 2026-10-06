@@ -4,6 +4,10 @@
   "url": "/movies/lyudi-iks-apokalipsis-finalnyj-trejler/",
   "original_url": "http://spidermedia.ru/movies/lyudi-iks-apokalipsis-finalnyj-trejler",
   "archived": "https://web.archive.org/web/20260313115736/http://spidermedia.ru/movies/lyudi-iks-apokalipsis-finalnyj-trejler",
+  "tags": [
+    "marvel",
+    "x-men"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

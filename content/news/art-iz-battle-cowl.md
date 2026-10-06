@@ -4,6 +4,12 @@
   "url": "/news/art-iz-battle-cowl/",
   "original_url": "https://spidermedia.ru/news/art-iz-battle-cowl",
   "archived": "https://web.archive.org/web/20260211095139/https://spidermedia.ru/news/art-iz-battle-cowl",
+  "tags": [
+    "dc-comics",
+    "batman",
+    "nightwing",
+    "toni-deniel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

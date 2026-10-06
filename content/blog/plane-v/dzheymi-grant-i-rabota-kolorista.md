@@ -4,6 +4,11 @@
   "url": "/blog/plane-v/dzheymi-grant-i-rabota-kolorista/",
   "original_url": "http://spidermedia.ru/blog/plane-v/dzheymi-grant-i-rabota-kolorista",
   "archived": "https://web.archive.org/web/20120610103944/http://spidermedia.ru/blog/plane-v/dzheymi-grant-i-rabota-kolorista",
+  "tags": [
+    "video",
+    "koloristy",
+    "komiksy"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

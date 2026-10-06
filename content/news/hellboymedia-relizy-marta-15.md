@@ -4,11 +4,14 @@
   "url": "/news/hellboymedia-relizy-marta-15/",
   "original_url": "https://spidermedia.ru/news/hellboymedia-relizy-marta-15",
   "archived": "https://web.archive.org/web/20250324173559/https://spidermedia.ru/news/hellboymedia-relizy-marta-15",
+  "tags": [
+    "hellboymedia"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-Пришло время для небольшого перерыва в нашем [праздновании юбилея Хэллбоя](https://web.archive.org/web/20260206220348/http://spidermedia.ru/tags/20-let-hellboya), чтобы сделать скачок на три месяца вперёд и узнать, что ждёт франчайз в марте.
+Пришло время для небольшого перерыва в нашем [праздновании юбилея Хэллбоя](../../tags/20-let-hellboya/), чтобы сделать скачок на три месяца вперёд и узнать, что ждёт франчайз в марте.
 
 Крупные сюжеты основных серий (**Abe Sapien**, **B.P.R.D. Hell on Earth** и **Hellboy and the B.P.R.D.**) подходят к завершению: у «Хэллбоя» и «Эйба» предпоследние номера, у «БПРД» — гранд финал. Но всё это отходит на второй план, потому что в первый месяц весны дебютирует долгожданная мини-серия **[Frankenstein Underground](../hellboymedia-news-novaya-seriya-frankenstein-underground/)**, один из главных релизов Миньолавёрса в следующем году.
 

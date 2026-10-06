@@ -4,6 +4,11 @@
   "url": "/news/guardians-of-the-galaxy-trailer-2014-marvel-studios/",
   "original_url": "https://spidermedia.ru/news/guardians-of-the-galaxy-trailer-2014-marvel-studios",
   "archived": "https://web.archive.org/web/20240419000504/https://spidermedia.ru/news/guardians-of-the-galaxy-trailer-2014-marvel-studios",
+  "tags": [
+    "trejlery",
+    "guardians-of-the-galaxy",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

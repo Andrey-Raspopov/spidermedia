@@ -4,6 +4,12 @@
   "url": "/news/watch-conquest/",
   "original_url": "http://spidermedia.ru/news/watch-conquest",
   "archived": "https://web.archive.org/web/20250717191254/http://spidermedia.ru/news/watch-conquest",
+  "tags": [
+    "robert-kirkman",
+    "the-walking-dead",
+    "invincible",
+    "image-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,13 @@
   "url": "/news/ne-sovsem-geroi/",
   "original_url": "https://spidermedia.ru/news/ne-sovsem-geroi",
   "archived": "https://web.archive.org/web/20260312022510/https://spidermedia.ru/news/ne-sovsem-geroi",
+  "tags": [
+    "era-geroev",
+    "dzheff-parker",
+    "thunderbolts",
+    "marvel",
+    "luke-cage"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

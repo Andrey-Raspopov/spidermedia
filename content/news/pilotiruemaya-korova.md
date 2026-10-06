@@ -4,6 +4,12 @@
   "url": "/news/pilotiruemaya-korova/",
   "original_url": "http://spidermedia.ru/news/pilotiruemaya-korova",
   "archived": "https://web.archive.org/web/20160426212636/http://spidermedia.ru/news/pilotiruemaya-korova",
+  "tags": [
+    "top-cow",
+    "robert-kirkman",
+    "mark-silvestri",
+    "pilot-season"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/news/sdcc09-uillinghem-na-angele/",
   "original_url": "http://spidermedia.ru/news/sdcc09-uillinghem-na-angele",
   "archived": "https://web.archive.org/web/20260125052608/http://spidermedia.ru/news/sdcc09-uillinghem-na-angele",
+  "tags": [
+    "angel",
+    "san-diego-comic-con-international",
+    "idw-publishing",
+    "bill-uillingem"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

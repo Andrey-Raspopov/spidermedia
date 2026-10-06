@@ -4,6 +4,11 @@
   "url": "/news/staraya-liga-snova-v-stroyu/",
   "original_url": "http://spidermedia.ru/news/staraya-liga-snova-v-stroyu",
   "archived": "https://web.archive.org/web/20251115030756/http://spidermedia.ru/news/staraya-liga-snova-v-stroyu",
+  "tags": [
+    "justice-league",
+    "animaciya",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

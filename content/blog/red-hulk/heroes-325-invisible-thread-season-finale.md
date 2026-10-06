@@ -4,6 +4,12 @@
   "url": "/blog/red-hulk/heroes-325-invisible-thread-season-finale/",
   "original_url": "http://spidermedia.ru/blog/red-hulk/heroes-325-invisible-thread-season-finale",
   "archived": "https://web.archive.org/web/20150508010002/http://spidermedia.ru/blog/red-hulk/heroes-325-invisible-thread-season-finale",
+  "tags": [
+    "mnenie",
+    "heroes",
+    "serialy",
+    "geroi"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

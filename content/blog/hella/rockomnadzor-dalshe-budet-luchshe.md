@@ -4,6 +4,11 @@
   "url": "/blog/hella/rockomnadzor-dalshe-budet-luchshe/",
   "original_url": "http://spidermedia.ru/blog/hella/rockomnadzor-dalshe-budet-luchshe",
   "archived": "https://web.archive.org/web/20260125111016/http://spidermedia.ru/blog/hella/rockomnadzor-dalshe-budet-luchshe",
+  "tags": [
+    "russian-comics",
+    "roskomnadzor",
+    "zarubezhnye-komiksy-na-russkom"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

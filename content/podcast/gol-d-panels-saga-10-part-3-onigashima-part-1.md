@@ -4,6 +4,10 @@
   "url": "/podcast/gol-d-panels-saga-10-part-3-onigashima-part-1/",
   "original_url": "https://spidermedia.ru/podcast/gol-d-panels-saga-10-part-3-onigashima-part-1",
   "archived": "https://web.archive.org/web/20260217211334/https://spidermedia.ru/podcast/gol-d-panels-saga-10-part-3-onigashima-part-1",
+  "tags": [
+    "gold-panels",
+    "on-panels"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

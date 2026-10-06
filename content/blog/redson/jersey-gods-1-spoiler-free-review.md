@@ -4,6 +4,10 @@
   "url": "/blog/redson/jersey-gods-1-spoiler-free-review/",
   "original_url": "http://spidermedia.ru/blog/redson/jersey-gods-1-spoiler-free-review",
   "archived": "https://web.archive.org/web/20120718110838/http://spidermedia.ru/blog/redson/jersey-gods-1-spoiler-free-review",
+  "tags": [
+    "image-comics",
+    "recenziya"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

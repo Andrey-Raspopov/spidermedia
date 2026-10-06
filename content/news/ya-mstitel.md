@@ -4,6 +4,15 @@
   "url": "/news/ya-mstitel/",
   "original_url": "https://spidermedia.ru/news/ya-mstitel",
   "archived": "https://web.archive.org/web/20250804013653/https://spidermedia.ru/news/ya-mstitel",
+  "tags": [
+    "dzhon-romita-ml",
+    "brian-michael-bendis",
+    "art-0",
+    "captain-america",
+    "avengers",
+    "era-geroev",
+    "heroic-age"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

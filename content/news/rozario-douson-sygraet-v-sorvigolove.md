@@ -4,6 +4,11 @@
   "url": "/news/rozario-douson-sygraet-v-sorvigolove/",
   "original_url": "https://spidermedia.ru/news/rozario-douson-sygraet-v-sorvigolove",
   "archived": "https://web.archive.org/web/20260209110235/https://spidermedia.ru/news/rozario-douson-sygraet-v-sorvigolove",
+  "tags": [
+    "serialy",
+    "daredevil",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

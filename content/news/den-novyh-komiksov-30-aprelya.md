@@ -4,6 +4,9 @@
   "url": "/news/den-novyh-komiksov-30-aprelya/",
   "original_url": "http://spidermedia.ru/news/den-novyh-komiksov-30-aprelya",
   "archived": "https://web.archive.org/web/20241104202648/http://spidermedia.ru/news/den-novyh-komiksov-30-aprelya",
+  "tags": [
+    "den-novyh-komiksov"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

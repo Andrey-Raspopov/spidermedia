@@ -4,6 +4,16 @@
   "url": "/news/knights-tale/",
   "original_url": "http://spidermedia.ru/news/knights-tale",
   "archived": "https://web.archive.org/web/20120608173622/http://spidermedia.ru/news/knights-tale",
+  "tags": [
+    "black-knight",
+    "art-0",
+    "komiksy",
+    "marvel",
+    "oblozhki",
+    "ron-frenc",
+    "tom-defalko",
+    "chernyy-rycar"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

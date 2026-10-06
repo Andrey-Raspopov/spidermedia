@@ -4,6 +4,14 @@
   "url": "/news/korpusa-somknut-ryady/",
   "original_url": "http://spidermedia.ru/news/korpusa-somknut-ryady",
   "archived": "https://web.archive.org/web/20260125123321/http://spidermedia.ru/news/korpusa-somknut-ryady",
+  "tags": [
+    "dc-comics",
+    "green-lantern",
+    "blackest-night",
+    "temnejshaya-noch",
+    "dag-manke",
+    "doug-mahnke"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

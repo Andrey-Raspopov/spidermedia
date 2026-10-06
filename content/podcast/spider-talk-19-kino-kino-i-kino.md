@@ -4,6 +4,9 @@
   "url": "/podcast/spider-talk-19-kino-kino-i-kino/",
   "original_url": "http://spidermedia.ru/podcast/spider-talk-19-kino-kino-i-kino",
   "archived": "https://web.archive.org/web/20260124050928/http://spidermedia.ru/podcast/spider-talk-19-kino-kino-i-kino",
+  "tags": [
+    "spider-talk"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/movies/prevyu-trejlera-zashhitnikov-sarika-andreasyana/",
   "original_url": "http://spidermedia.ru/movies/prevyu-trejlera-zashhitnikov-sarika-andreasyana",
   "archived": "https://web.archive.org/web/20250715223930/http://spidermedia.ru/movies/prevyu-trejlera-zashhitnikov-sarika-andreasyana",
+  "tags": [
+    "zashhitniki"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

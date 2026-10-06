@@ -4,6 +4,9 @@
   "url": "/news/cherepashki-nindzya-still-so-shredderom/",
   "original_url": "http://spidermedia.ru/news/cherepashki-nindzya-still-so-shredderom",
   "archived": "https://web.archive.org/web/20160630072602/http://spidermedia.ru/news/cherepashki-nindzya-still-so-shredderom",
+  "tags": [
+    "ninja-turtles"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

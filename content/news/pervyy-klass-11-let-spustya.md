@@ -4,6 +4,12 @@
   "url": "/news/pervyy-klass-11-let-spustya/",
   "original_url": "https://spidermedia.ru/news/pervyy-klass-11-let-spustya",
   "archived": "https://web.archive.org/web/20260125071005/https://spidermedia.ru/news/pervyy-klass-11-let-spustya",
+  "tags": [
+    "days-of-future-past",
+    "lyudi-iks-pervyj-klass",
+    "marvel",
+    "x-men"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

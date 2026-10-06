@@ -4,6 +4,11 @@
   "url": "/news/panel-sorvigolovy-na-nycc-2014-pervye-kadry-novosti-kastinga/",
   "original_url": "https://spidermedia.ru/news/panel-sorvigolovy-na-nycc-2014-pervye-kadry-novosti-kastinga",
   "archived": "https://web.archive.org/web/20251115032446/https://spidermedia.ru/news/panel-sorvigolovy-na-nycc-2014-pervye-kadry-novosti-kastinga",
+  "tags": [
+    "serialy",
+    "daredevil",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

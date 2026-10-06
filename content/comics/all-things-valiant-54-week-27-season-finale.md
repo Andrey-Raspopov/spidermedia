@@ -4,6 +4,9 @@
   "url": "/comics/all-things-valiant-54-week-27-season-finale/",
   "original_url": "https://spidermedia.ru/comics/all-things-valiant-54-week-27-season-finale",
   "archived": "https://web.archive.org/web/20260215090032/https://spidermedia.ru/comics/all-things-valiant-54-week-27-season-finale",
+  "tags": [
+    "valiant-entertainment"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

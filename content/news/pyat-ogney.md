@@ -4,6 +4,10 @@
   "url": "/news/pyat-ogney/",
   "original_url": "http://spidermedia.ru/news/pyat-ogney",
   "archived": "https://web.archive.org/web/20171015071815/http://spidermedia.ru:80/news/pyat-ogney",
+  "tags": [
+    "young-avengers",
+    "x-men"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

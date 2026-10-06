@@ -4,6 +4,10 @@
   "url": "/news/idw-budet-izdavat-disneevskie-komiksy/",
   "original_url": "http://spidermedia.ru/news/idw-budet-izdavat-disneevskie-komiksy",
   "archived": "https://web.archive.org/web/20260125053126/http://spidermedia.ru/news/idw-budet-izdavat-disneevskie-komiksy",
+  "tags": [
+    "disnej",
+    "idw-publishing"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

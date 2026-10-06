@@ -4,6 +4,10 @@
   "url": "/tv/dzhessika-dzhons-tizer-5-komiks-prikvel-koncept-poster-i-virusnoe-graffiti/",
   "original_url": "https://spidermedia.ru/tv/dzhessika-dzhons-tizer-5-komiks-prikvel-koncept-poster-i-virusnoe-graffiti",
   "archived": "https://web.archive.org/web/20251211022121/https://spidermedia.ru/tv/dzhessika-dzhons-tizer-5-komiks-prikvel-koncept-poster-i-virusnoe-graffiti",
+  "tags": [
+    "marvel",
+    "jessica-jones-alias"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

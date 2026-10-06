@@ -4,6 +4,10 @@
   "url": "/blog/el-qwanto/image-united-these-pages-are-awesome/",
   "original_url": "https://spidermedia.ru/blog/el-qwanto/image-united-these-pages-are-awesome",
   "archived": "https://web.archive.org/web/20250210142700/https://spidermedia.ru/blog/el-qwanto/image-united-these-pages-are-awesome",
+  "tags": [
+    "video-comic-book-review",
+    "image-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

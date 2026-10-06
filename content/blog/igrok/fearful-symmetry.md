@@ -4,6 +4,11 @@
   "url": "/blog/igrok/fearful-symmetry/",
   "original_url": "http://spidermedia.ru/blog/igrok/fearful-symmetry",
   "archived": "https://web.archive.org/web/20251209152143/http://spidermedia.ru/blog/igrok/fearful-symmetry",
+  "tags": [
+    "spider-man",
+    "mnenie",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

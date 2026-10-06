@@ -4,6 +4,16 @@
   "url": "/news/kosmicheskiy-morales/",
   "original_url": "https://spidermedia.ru/news/kosmicheskiy-morales",
   "archived": "https://web.archive.org/web/20260312004246/https://spidermedia.ru/news/kosmicheskiy-morales",
+  "tags": [
+    "dc-comics",
+    "green-lantern",
+    "preview",
+    "geoff-johns",
+    "blackest-night",
+    "temnejshaya-noch",
+    "justice-league",
+    "rags-morales"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

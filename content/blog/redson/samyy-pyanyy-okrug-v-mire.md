@@ -4,6 +4,9 @@
   "url": "/blog/redson/samyy-pyanyy-okrug-v-mire/",
   "original_url": "http://spidermedia.ru/blog/redson/samyy-pyanyy-okrug-v-mire",
   "archived": "https://web.archive.org/web/20200131025900/http://spidermedia.ru:80/blog/redson/samyy-pyanyy-okrug-v-mire",
+  "tags": [
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

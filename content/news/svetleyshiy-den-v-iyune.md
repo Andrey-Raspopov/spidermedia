@@ -4,6 +4,13 @@
   "url": "/news/svetleyshiy-den-v-iyune/",
   "original_url": "http://spidermedia.ru/news/svetleyshiy-den-v-iyune",
   "archived": "https://web.archive.org/web/20251108042037/http://spidermedia.ru/news/svetleyshiy-den-v-iyune",
+  "tags": [
+    "svetlejshij-den",
+    "relizy",
+    "solicitations",
+    "dc-comics",
+    "hishchnye-pticy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

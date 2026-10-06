@@ -4,6 +4,11 @@
   "url": "/news/krylya-nogi-i-hvosty/",
   "original_url": "https://spidermedia.ru/news/krylya-nogi-i-hvosty",
   "archived": "https://web.archive.org/web/20251014044122/https://spidermedia.ru/news/krylya-nogi-i-hvosty",
+  "tags": [
+    "kajl-bejker",
+    "hawkman",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

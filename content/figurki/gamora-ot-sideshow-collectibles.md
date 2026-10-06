@@ -4,6 +4,10 @@
   "url": "/figurki/gamora-ot-sideshow-collectibles/",
   "original_url": "https://spidermedia.ru/figurki/gamora-ot-sideshow-collectibles",
   "archived": "https://web.archive.org/web/20251205122205/https://spidermedia.ru/figurki/gamora-ot-sideshow-collectibles",
+  "tags": [
+    "sideshow",
+    "gamora"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

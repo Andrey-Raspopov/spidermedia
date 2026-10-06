@@ -4,6 +4,10 @@
   "url": "/comics/best-column-about-comics-11-house-of-penance/",
   "original_url": "http://spidermedia.ru/comics/best-column-about-comics-11-house-of-penance",
   "archived": "https://web.archive.org/web/20251209145420/http://spidermedia.ru/comics/best-column-about-comics-11-house-of-penance",
+  "tags": [
+    "best-column-about-comics",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

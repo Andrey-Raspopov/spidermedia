@@ -4,6 +4,17 @@
   "url": "/news/get-castle/",
   "original_url": "http://spidermedia.ru/news/get-castle",
   "archived": "https://web.archive.org/web/20130101005816/http://spidermedia.ru:80/news/get-castle",
+  "tags": [
+    "marvel-max",
+    "punisher",
+    "art-0",
+    "karatel",
+    "komiksy",
+    "lourens-kembell",
+    "oblozhki",
+    "rob-uillyams",
+    "tim-bredstrit"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/blog/plane-v/attrakcion-nevidannoy-shchedrosti/",
   "original_url": "http://spidermedia.ru/blog/plane-v/attrakcion-nevidannoy-shchedrosti",
   "archived": "https://web.archive.org/web/20120607120907/http://spidermedia.ru/blog/plane-v/attrakcion-nevidannoy-shchedrosti",
+  "tags": [
+    "dzheyms-stokoi",
+    "komiksy",
+    "halyava"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

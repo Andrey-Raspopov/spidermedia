@@ -4,6 +4,12 @@
   "url": "/blog/sterpazook/kak-my-prodavali-komiksy-upd-foto/",
   "original_url": "https://spidermedia.ru/blog/sterpazook/kak-my-prodavali-komiksy-upd-foto",
   "archived": "https://web.archive.org/web/20250512120510/https://spidermedia.ru/blog/sterpazook/kak-my-prodavali-komiksy-upd-foto",
+  "tags": [
+    "russian-comics",
+    "spidermedia",
+    "kommissiya",
+    "moskva"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

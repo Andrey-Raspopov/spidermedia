@@ -4,6 +4,11 @@
   "url": "/news/devon-aoki-poyavitsya-v-tretem-sezone-strely/",
   "original_url": "http://spidermedia.ru/news/devon-aoki-poyavitsya-v-tretem-sezone-strely",
   "archived": "https://web.archive.org/web/20240807182149/http://spidermedia.ru/news/devon-aoki-poyavitsya-v-tretem-sezone-strely",
+  "tags": [
+    "kasting",
+    "green-arrow",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

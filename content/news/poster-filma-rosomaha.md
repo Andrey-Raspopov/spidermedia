@@ -4,6 +4,11 @@
   "url": "/news/poster-filma-rosomaha/",
   "original_url": "https://spidermedia.ru/news/poster-filma-rosomaha",
   "archived": "https://web.archive.org/web/20251205105754/https://spidermedia.ru/news/poster-filma-rosomaha",
+  "tags": [
+    "wolverine",
+    "postery",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

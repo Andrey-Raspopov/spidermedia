@@ -4,6 +4,12 @@
   "url": "/comics/batman-day-detective-comics-paul-dini/",
   "original_url": "https://spidermedia.ru/comics/batman-day-detective-comics-paul-dini",
   "archived": "https://web.archive.org/web/20250806061150/https://spidermedia.ru/comics/batman-day-detective-comics-paul-dini",
+  "tags": [
+    "dc-comics",
+    "batman",
+    "pol-dini",
+    "batman-week"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

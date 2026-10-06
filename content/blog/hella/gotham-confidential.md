@@ -4,6 +4,11 @@
   "url": "/blog/hella/gotham-confidential/",
   "original_url": "https://spidermedia.ru/blog/hella/gotham-confidential",
   "archived": "https://web.archive.org/web/20260214141448/https://spidermedia.ru/blog/hella/gotham-confidential",
+  "tags": [
+    "serialy",
+    "mnenie",
+    "gotem"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

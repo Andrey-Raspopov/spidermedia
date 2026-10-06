@@ -4,6 +4,13 @@
   "url": "/blog/alex/temneyshaya-noch-cheklist/",
   "original_url": "http://spidermedia.ru/blog/alex/temneyshaya-noch-cheklist",
   "archived": "https://web.archive.org/web/20250807005129/http://spidermedia.ru/blog/alex/temneyshaya-noch-cheklist",
+  "tags": [
+    "cheklist",
+    "temnejshaya-noch",
+    "green-lantern",
+    "dc-comics",
+    "blackest-night"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

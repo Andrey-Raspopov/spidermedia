@@ -4,6 +4,9 @@
   "url": "/podcast/podkast-razbor-polyotov-vypusk-6-god-v-komiksah/",
   "original_url": "https://spidermedia.ru/podcast/podkast-razbor-polyotov-vypusk-6-god-v-komiksah",
   "archived": "https://web.archive.org/web/20260211182338/https://spidermedia.ru/podcast/podkast-razbor-polyotov-vypusk-6-god-v-komiksah",
+  "tags": [
+    "spidercast"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

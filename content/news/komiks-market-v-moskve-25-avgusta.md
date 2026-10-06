@@ -4,6 +4,9 @@
   "url": "/news/komiks-market-v-moskve-25-avgusta/",
   "original_url": "http://spidermedia.ru/news/komiks-market-v-moskve-25-avgusta",
   "archived": "https://web.archive.org/web/20130110091818/http://spidermedia.ru:80/news/komiks-market-v-moskve-25-avgusta",
+  "tags": [
+    "magazin"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

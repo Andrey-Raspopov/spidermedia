@@ -4,6 +4,10 @@
   "url": "/news/spider-man-back-black/",
   "original_url": "http://spidermedia.ru/news/spider-man-back-black",
   "archived": "https://web.archive.org/web/20260125064130/http://spidermedia.ru/news/spider-man-back-black",
+  "tags": [
+    "sluhi",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

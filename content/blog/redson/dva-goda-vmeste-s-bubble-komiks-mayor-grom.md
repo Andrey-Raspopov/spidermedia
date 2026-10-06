@@ -4,6 +4,12 @@
   "url": "/blog/redson/dva-goda-vmeste-s-bubble-komiks-mayor-grom/",
   "original_url": "http://spidermedia.ru/blog/redson/dva-goda-vmeste-s-bubble-komiks-mayor-grom",
   "archived": "https://web.archive.org/web/20251206030212/http://spidermedia.ru/blog/redson/dva-goda-vmeste-s-bubble-komiks-mayor-grom",
+  "tags": [
+    "bubble",
+    "major-grom",
+    "obzor",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

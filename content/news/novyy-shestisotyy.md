@@ -4,6 +4,14 @@
   "url": "/news/novyy-shestisotyy/",
   "original_url": "http://spidermedia.ru/news/novyy-shestisotyy",
   "archived": "https://web.archive.org/web/20190515194655/http://spidermedia.ru:80/news/novyy-shestisotyy",
+  "tags": [
+    "marvel",
+    "thor",
+    "j-michael-straczynski",
+    "kris-dzhiarusso",
+    "preview",
+    "sten-li"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

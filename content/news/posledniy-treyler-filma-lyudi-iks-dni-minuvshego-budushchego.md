@@ -4,6 +4,13 @@
   "url": "/news/posledniy-treyler-filma-lyudi-iks-dni-minuvshego-budushchego/",
   "original_url": "http://spidermedia.ru/news/posledniy-treyler-filma-lyudi-iks-dni-minuvshego-budushchego",
   "archived": "https://web.archive.org/web/20260312003541/http://spidermedia.ru/news/posledniy-treyler-filma-lyudi-iks-dni-minuvshego-budushchego",
+  "tags": [
+    "days-of-future-past",
+    "trejlery",
+    "marvel",
+    "lyudi-iks-pervyj-klass",
+    "x-men"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

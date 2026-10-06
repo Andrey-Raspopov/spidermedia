@@ -4,6 +4,15 @@
   "url": "/news/supermen-budushchego/",
   "original_url": "https://spidermedia.ru/news/supermen-budushchego",
   "archived": "https://web.archive.org/web/20260314081121/https://spidermedia.ru/news/supermen-budushchego",
+  "tags": [
+    "dastin-nguen",
+    "ron-frenc",
+    "ron-frenz",
+    "dc-comics",
+    "tom-defalco",
+    "tom-defalko",
+    "superman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

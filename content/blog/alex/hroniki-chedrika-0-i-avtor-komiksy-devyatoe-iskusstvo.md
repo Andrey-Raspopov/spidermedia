@@ -4,6 +4,9 @@
   "url": "/blog/alex/hroniki-chedrika-0-i-avtor-komiksy-devyatoe-iskusstvo/",
   "original_url": "http://spidermedia.ru/blog/alex/hroniki-chedrika-0-i-avtor-komiksy-devyatoe-iskusstvo",
   "archived": "https://web.archive.org/web/20190907233721/http://spidermedia.ru:80/blog/alex/hroniki-chedrika-0-i-avtor-komiksy-devyatoe-iskusstvo",
+  "tags": [
+    "obzor"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

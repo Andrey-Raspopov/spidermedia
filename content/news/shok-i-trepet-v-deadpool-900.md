@@ -4,6 +4,13 @@
   "url": "/news/shok-i-trepet-v-deadpool-900/",
   "original_url": "http://spidermedia.ru/news/shok-i-trepet-v-deadpool-900",
   "archived": "https://web.archive.org/web/20200221175333/http://spidermedia.ru:80/news/shok-i-trepet-v-deadpool-900",
+  "tags": [
+    "rob-lajfeld",
+    "joe-kelly",
+    "deadpool",
+    "marvel",
+    "art-0"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

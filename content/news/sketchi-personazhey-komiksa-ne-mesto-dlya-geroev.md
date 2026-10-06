@@ -4,6 +4,11 @@
   "url": "/news/sketchi-personazhey-komiksa-ne-mesto-dlya-geroev/",
   "original_url": "http://spidermedia.ru/news/sketchi-personazhey-komiksa-ne-mesto-dlya-geroev",
   "archived": "https://web.archive.org/web/20260211184940/http://spidermedia.ru/news/sketchi-personazhey-komiksa-ne-mesto-dlya-geroev",
+  "tags": [
+    "russian-comics",
+    "ne-mesto-dlya-geroev",
+    "industriya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/blog/redson/vozvrashchenie-supermena-odin-iz-luchshih-kinokomiksov-v-istorii/",
   "original_url": "https://spidermedia.ru/blog/redson/vozvrashchenie-supermena-odin-iz-luchshih-kinokomiksov-v-istorii",
   "archived": "https://web.archive.org/web/20260117215234/https://spidermedia.ru/blog/redson/vozvrashchenie-supermena-odin-iz-luchshih-kinokomiksov-v-istorii",
+  "tags": [
+    "superman",
+    "mnenie",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

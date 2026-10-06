@@ -4,6 +4,10 @@
   "url": "/blog/laughing-magician/plugging-holes-chego-pochitat-o-strazhah-galaktiki/",
   "original_url": "https://spidermedia.ru/blog/laughing-magician/plugging-holes-chego-pochitat-o-strazhah-galaktiki",
   "archived": "https://web.archive.org/web/20241211210322/https://spidermedia.ru/blog/laughing-magician/plugging-holes-chego-pochitat-o-strazhah-galaktiki",
+  "tags": [
+    "guardians-of-the-galaxy",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

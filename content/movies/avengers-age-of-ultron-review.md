@@ -4,6 +4,11 @@
   "url": "/movies/avengers-age-of-ultron-review/",
   "original_url": "https://spidermedia.ru/movies/avengers-age-of-ultron-review",
   "archived": "https://web.archive.org/web/20251116052311/https://spidermedia.ru/movies/avengers-age-of-ultron-review",
+  "tags": [
+    "marvel",
+    "joss-whedon",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/blog/plane-v/magic/",
   "original_url": "http://spidermedia.ru/blog/plane-v/magic",
   "archived": "https://web.archive.org/web/20210128052240/http://spidermedia.ru/blog/plane-v/magic",
+  "tags": [
+    "shon-fillips",
+    "dark-horse"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

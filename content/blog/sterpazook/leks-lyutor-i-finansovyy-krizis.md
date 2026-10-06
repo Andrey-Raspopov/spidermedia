@@ -4,6 +4,12 @@
   "url": "/blog/sterpazook/leks-lyutor-i-finansovyy-krizis/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/leks-lyutor-i-finansovyy-krizis",
   "archived": "https://web.archive.org/web/20250909143835/http://spidermedia.ru/blog/sterpazook/leks-lyutor-i-finansovyy-krizis",
+  "tags": [
+    "dc-comics",
+    "yumor",
+    "spoof",
+    "lex-luthor"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/comics/15-let-spajdermedii-vse-budet-horosho/",
   "original_url": "http://spidermedia.ru/comics/15-let-spajdermedii-vse-budet-horosho",
   "archived": "https://web.archive.org/web/20181213102353/http://spidermedia.ru:80/comics/15-let-spajdermedii-vse-budet-horosho",
+  "tags": [
+    "spidermedia-15th-anniversary"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

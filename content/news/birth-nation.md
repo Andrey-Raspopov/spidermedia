@@ -4,6 +4,19 @@
   "url": "/news/birth-nation/",
   "original_url": "http://spidermedia.ru/news/birth-nation",
   "archived": "https://web.archive.org/web/20260117231610/http://spidermedia.ru/news/birth-nation",
+  "tags": [
+    "skott-snajder",
+    "sajmon-cparrier",
+    "kris-jost",
+    "dzhejms-ezmus",
+    "x-men",
+    "simon-spurrier",
+    "scott-snyder",
+    "nation-x",
+    "marvel",
+    "james-asmus",
+    "chris-yost"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

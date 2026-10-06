@@ -4,6 +4,9 @@
   "url": "/comics/marvel-goes-hip-hop/",
   "original_url": "https://spidermedia.ru/comics/marvel-goes-hip-hop",
   "archived": "https://web.archive.org/web/20251111043123/https://spidermedia.ru/comics/marvel-goes-hip-hop",
+  "tags": [
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

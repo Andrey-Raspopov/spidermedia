@@ -4,6 +4,14 @@
   "url": "/news/we-have-astonish-them/",
   "original_url": "http://spidermedia.ru/news/we-have-astonish-them",
   "archived": "https://web.archive.org/web/20251213194816/http://spidermedia.ru/news/we-have-astonish-them",
+  "tags": [
+    "dzhon-kessedej",
+    "motion-comics",
+    "marvel",
+    "joss-whedon",
+    "john-cassaday",
+    "x-men"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

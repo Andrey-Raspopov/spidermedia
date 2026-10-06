@@ -4,6 +4,13 @@
   "url": "/news/ataka-elfiyskih-zhyon-iz-ada/",
   "original_url": "https://spidermedia.ru/news/ataka-elfiyskih-zhyon-iz-ada",
   "archived": "https://web.archive.org/web/20260215082508/https://spidermedia.ru/news/ataka-elfiyskih-zhyon-iz-ada",
+  "tags": [
+    "marvel",
+    "pol-kornell",
+    "captain-britain",
+    "kapitan-britaniya",
+    "majkl-kollins"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,13 @@
   "url": "/blog/dzhedis/starye-parodii-superduperman-mad-comics-4-aprel-may-1953/",
   "original_url": "http://spidermedia.ru/blog/dzhedis/starye-parodii-superduperman-mad-comics-4-aprel-may-1953",
   "archived": "https://web.archive.org/web/20250806060428/http://spidermedia.ru/blog/dzhedis/starye-parodii-superduperman-mad-comics-4-aprel-may-1953",
+  "tags": [
+    "ec-comics",
+    "harvey-kurtzman",
+    "wally-wood",
+    "mad",
+    "superman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

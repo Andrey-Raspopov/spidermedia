@@ -4,6 +4,11 @@
   "url": "/blog/deadpoolic/vs-noir/",
   "original_url": "https://spidermedia.ru/blog/deadpoolic/vs-noir",
   "archived": "https://web.archive.org/web/20251216175151/https://spidermedia.ru/blog/deadpoolic/vs-noir",
+  "tags": [
+    "noir",
+    "dark-horse",
+    "brian-azzarello"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

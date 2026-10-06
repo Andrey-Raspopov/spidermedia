@@ -4,6 +4,11 @@
   "url": "/news/amerikanskaya-gotika/",
   "original_url": "https://spidermedia.ru/news/amerikanskaya-gotika",
   "archived": "https://web.archive.org/web/20251213184136/https://spidermedia.ru/news/amerikanskaya-gotika",
+  "tags": [
+    "skott-snajder",
+    "rafael-albukerke",
+    "vertigo"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

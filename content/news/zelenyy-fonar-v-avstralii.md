@@ -4,6 +4,10 @@
   "url": "/news/zelenyy-fonar-v-avstralii/",
   "original_url": "http://spidermedia.ru/news/zelenyy-fonar-v-avstralii",
   "archived": "https://web.archive.org/web/20260125122259/http://spidermedia.ru/news/zelenyy-fonar-v-avstralii",
+  "tags": [
+    "dc-comics",
+    "green-lantern"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

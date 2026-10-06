@@ -4,6 +4,13 @@
   "url": "/news/zhirnyy-sluh-dzhozef-gordon-levitt-novyy-betmen/",
   "original_url": "http://spidermedia.ru/news/zhirnyy-sluh-dzhozef-gordon-levitt-novyy-betmen",
   "archived": "https://web.archive.org/web/20260215080738/http://spidermedia.ru/news/zhirnyy-sluh-dzhozef-gordon-levitt-novyy-betmen",
+  "tags": [
+    "temnyj-rycar",
+    "justice-league",
+    "batman",
+    "dc-comics",
+    "dark-knight"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

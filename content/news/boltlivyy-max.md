@@ -4,6 +4,13 @@
   "url": "/news/boltlivyy-max/",
   "original_url": "http://spidermedia.ru/news/boltlivyy-max",
   "archived": "https://web.archive.org/web/20220813155848/http://spidermedia.ru/news/boltlivyy-max",
+  "tags": [
+    "kajl-bejker",
+    "deadpool",
+    "devid-lafem",
+    "art-0",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

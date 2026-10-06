@@ -4,6 +4,10 @@
   "url": "/comics/hellboymedia-26-lobster-johnson-the-forgotten-man/",
   "original_url": "https://spidermedia.ru/comics/hellboymedia-26-lobster-johnson-the-forgotten-man",
   "archived": "https://web.archive.org/web/20260309190235/https://spidermedia.ru/comics/hellboymedia-26-lobster-johnson-the-forgotten-man",
+  "tags": [
+    "hellboymedia",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/news/komilfo-vypustit-yubileynuyu-antologiyu-cherepashek-nindzya/",
   "original_url": "http://spidermedia.ru/news/komilfo-vypustit-yubileynuyu-antologiyu-cherepashek-nindzya",
   "archived": "https://web.archive.org/web/20250618113036/http://spidermedia.ru/news/komilfo-vypustit-yubileynuyu-antologiyu-cherepashek-nindzya",
+  "tags": [
+    "ninja-turtles",
+    "komilfo",
+    "zarubezhnye-komiksy-na-russkom"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

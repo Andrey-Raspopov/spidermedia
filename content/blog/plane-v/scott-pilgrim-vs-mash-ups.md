@@ -4,6 +4,10 @@
   "url": "/blog/plane-v/scott-pilgrim-vs-mash-ups/",
   "original_url": "https://spidermedia.ru/blog/plane-v/scott-pilgrim-vs-mash-ups",
   "archived": "https://web.archive.org/web/20251110232936/https://spidermedia.ru/blog/plane-v/scott-pilgrim-vs-mash-ups",
+  "tags": [
+    "meshap",
+    "scott-pilgrim"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

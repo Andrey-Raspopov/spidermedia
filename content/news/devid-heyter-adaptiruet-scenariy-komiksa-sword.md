@@ -4,6 +4,12 @@
   "url": "/news/devid-heyter-adaptiruet-scenariy-komiksa-sword/",
   "original_url": "http://spidermedia.ru/news/devid-heyter-adaptiruet-scenariy-komiksa-sword",
   "archived": "https://web.archive.org/web/20260314081232/http://spidermedia.ru/news/devid-heyter-adaptiruet-scenariy-komiksa-sword",
+  "tags": [
+    "devid-hejter",
+    "luna-brothers",
+    "the-sword",
+    "image-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

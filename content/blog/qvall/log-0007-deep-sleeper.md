@@ -4,6 +4,10 @@
   "url": "/blog/qvall/log-0007-deep-sleeper/",
   "original_url": "http://spidermedia.ru/blog/qvall/log-0007-deep-sleeper",
   "archived": "https://web.archive.org/web/20160427032934/http://spidermedia.ru/blog/qvall/log-0007-deep-sleeper",
+  "tags": [
+    "mnenie",
+    "oni-press"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,15 @@
   "url": "/news/punisher-rip-obnovlenie/",
   "original_url": "http://spidermedia.ru/news/punisher-rip-obnovlenie",
   "archived": "https://web.archive.org/web/20120607140153/http://spidermedia.ru/news/punisher-rip-obnovlenie",
+  "tags": [
+    "punisher",
+    "karatel",
+    "komiksy",
+    "marvel",
+    "oblozhki",
+    "rik-remender",
+    "tom-reyni"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,16 @@
   "url": "/blog/redson/pervyy-post-v-2011-godu/",
   "original_url": "http://spidermedia.ru/blog/redson/pervyy-post-v-2011-godu",
   "archived": "https://web.archive.org/web/20251207093230/http://spidermedia.ru/blog/redson/pervyy-post-v-2011-godu",
+  "tags": [
+    "yanik-pekket",
+    "ryan-ottley",
+    "dzhok",
+    "dzherom-openya",
+    "butch-gajs",
+    "art-0",
+    "marvel",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

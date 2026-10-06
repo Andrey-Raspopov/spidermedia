@@ -4,6 +4,11 @@
   "url": "/blog/naya/boiling-head/",
   "original_url": "http://spidermedia.ru/blog/naya/boiling-head",
   "archived": "https://web.archive.org/web/20251216185041/http://spidermedia.ru/blog/naya/boiling-head",
+  "tags": [
+    "sci-fi",
+    "one-shot",
+    "manga"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

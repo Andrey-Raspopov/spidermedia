@@ -4,6 +4,11 @@
   "url": "/news/dzhoker-v-betmene-protiv-supermena/",
   "original_url": "https://spidermedia.ru/news/dzhoker-v-betmene-protiv-supermena",
   "archived": "https://web.archive.org/web/20260211101826/https://spidermedia.ru/news/dzhoker-v-betmene-protiv-supermena",
+  "tags": [
+    "superman",
+    "batman",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

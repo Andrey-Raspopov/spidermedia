@@ -4,6 +4,12 @@
   "url": "/news/sandman-i-drugie/",
   "original_url": "http://spidermedia.ru/news/sandman-i-drugie",
   "archived": "https://web.archive.org/web/20251205113102/http://spidermedia.ru/news/sandman-i-drugie",
+  "tags": [
+    "neil-gaiman-sandman",
+    "neil-gaiman",
+    "vertigo",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

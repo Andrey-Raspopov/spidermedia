@@ -4,6 +4,10 @@
   "url": "/comics/pervye-izobrazheniya-iz-novogo-komiksa-legendarnogo-dejva-makkina/",
   "original_url": "http://spidermedia.ru/comics/pervye-izobrazheniya-iz-novogo-komiksa-legendarnogo-dejva-makkina",
   "archived": "https://web.archive.org/web/20241202115533/http://spidermedia.ru/comics/pervye-izobrazheniya-iz-novogo-komiksa-legendarnogo-dejva-makkina",
+  "tags": [
+    "dark-horse",
+    "dejv-makkin"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

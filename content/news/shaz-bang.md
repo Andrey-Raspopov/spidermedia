@@ -4,6 +4,11 @@
   "url": "/news/shaz-bang/",
   "original_url": "https://spidermedia.ru/news/shaz-bang",
   "archived": "https://web.archive.org/web/20240806231643/https://spidermedia.ru/news/shaz-bang",
+  "tags": [
+    "steve-dillon",
+    "deniel-vej",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

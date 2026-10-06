@@ -4,6 +4,11 @@
   "url": "/news/spidermedia-vs-inspector-spacetime/",
   "original_url": "http://spidermedia.ru/news/spidermedia-vs-inspector-spacetime",
   "archived": "https://web.archive.org/web/20150428053634/http://spidermedia.ru/news/spidermedia-vs-inspector-spacetime",
+  "tags": [
+    "kino",
+    "iron-man",
+    "marvel-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

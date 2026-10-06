@@ -4,6 +4,13 @@
   "url": "/news/chyornye-voyny-novaya-nadezhda/",
   "original_url": "http://spidermedia.ru/news/chyornye-voyny-novaya-nadezhda",
   "archived": "https://web.archive.org/web/20170506190735/http://spidermedia.ru:80/news/chyornye-voyny-novaya-nadezhda",
+  "tags": [
+    "black-panther",
+    "uill-konrad",
+    "redzhi-hadlin",
+    "dzhonatan-mejberri",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

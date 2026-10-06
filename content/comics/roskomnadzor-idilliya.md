@@ -4,6 +4,11 @@
   "url": "/comics/roskomnadzor-idilliya/",
   "original_url": "http://spidermedia.ru/comics/roskomnadzor-idilliya",
   "archived": "https://web.archive.org/web/20250807224210/http://spidermedia.ru/comics/roskomnadzor-idilliya",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "roskomnadzor",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

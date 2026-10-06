@@ -4,6 +4,9 @@
   "url": "/news/den-novyh-komiksov-15-yanvarya/",
   "original_url": "https://spidermedia.ru/news/den-novyh-komiksov-15-yanvarya",
   "archived": "https://web.archive.org/web/20250429012246/https://spidermedia.ru/news/den-novyh-komiksov-15-yanvarya",
+  "tags": [
+    "den-novyh-komiksov"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

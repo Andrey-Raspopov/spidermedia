@@ -4,6 +4,12 @@
   "url": "/news/kick-ass-v-massy/",
   "original_url": "http://spidermedia.ru/news/kick-ass-v-massy",
   "archived": "https://web.archive.org/web/20150427023450/http://spidermedia.ru/news/kick-ass-v-massy",
+  "tags": [
+    "marvel-comics",
+    "mark-millar",
+    "kick-ass",
+    "kartinki"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

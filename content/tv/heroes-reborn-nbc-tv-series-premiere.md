@@ -4,6 +4,9 @@
   "url": "/tv/heroes-reborn-nbc-tv-series-premiere/",
   "original_url": "https://spidermedia.ru/tv/heroes-reborn-nbc-tv-series-premiere",
   "archived": "https://web.archive.org/web/20241205093226/https://spidermedia.ru/tv/heroes-reborn-nbc-tv-series-premiere",
+  "tags": [
+    "geroi"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/blog/alex/izumrudnyy-rassvet/",
   "original_url": "https://spidermedia.ru/blog/alex/izumrudnyy-rassvet",
   "archived": "https://web.archive.org/web/20251110221956/https://spidermedia.ru/blog/alex/izumrudnyy-rassvet",
+  "tags": [
+    "dc-comics",
+    "recenziya",
+    "green-lantern"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

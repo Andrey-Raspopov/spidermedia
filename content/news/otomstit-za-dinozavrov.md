@@ -4,6 +4,11 @@
   "url": "/news/otomstit-za-dinozavrov/",
   "original_url": "https://spidermedia.ru/news/otomstit-za-dinozavrov",
   "archived": "https://web.archive.org/web/20260313114738/https://spidermedia.ru/news/otomstit-za-dinozavrov",
+  "tags": [
+    "fred-van-lente",
+    "kajl-hotc",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

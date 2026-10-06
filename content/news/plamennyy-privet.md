@@ -4,6 +4,14 @@
   "url": "/news/plamennyy-privet/",
   "original_url": "http://spidermedia.ru/news/plamennyy-privet",
   "archived": "https://web.archive.org/web/20260312022522/http://spidermedia.ru/news/plamennyy-privet",
+  "tags": [
+    "marvel",
+    "human-torch",
+    "majk-keri",
+    "art-0",
+    "alex-ross",
+    "chelovek-fakel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

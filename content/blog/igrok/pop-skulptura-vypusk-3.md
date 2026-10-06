@@ -4,6 +4,11 @@
   "url": "/blog/igrok/pop-skulptura-vypusk-3/",
   "original_url": "https://spidermedia.ru/blog/igrok/pop-skulptura-vypusk-3",
   "archived": "https://web.archive.org/web/20250806054808/https://spidermedia.ru/blog/igrok/pop-skulptura-vypusk-3",
+  "tags": [
+    "figurki",
+    "pop-skulptura",
+    "san-diego-comic-con-international"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

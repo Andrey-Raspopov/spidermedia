@@ -4,6 +4,10 @@
   "url": "/blog/shargor/hellboymedia-05-lobster-johnson-get-lobster/",
   "original_url": "https://spidermedia.ru/blog/shargor/hellboymedia-05-lobster-johnson-get-lobster",
   "archived": "https://web.archive.org/web/20251115025556/https://spidermedia.ru/blog/shargor/hellboymedia-05-lobster-johnson-get-lobster",
+  "tags": [
+    "hellboymedia",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

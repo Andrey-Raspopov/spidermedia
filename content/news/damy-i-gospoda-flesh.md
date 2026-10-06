@@ -4,6 +4,10 @@
   "url": "/news/damy-i-gospoda-flesh/",
   "original_url": "https://spidermedia.ru/news/damy-i-gospoda-flesh",
   "archived": "https://web.archive.org/web/20260125131808/https://spidermedia.ru/news/damy-i-gospoda-flesh",
+  "tags": [
+    "the-flash",
+    "serialy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/blog/sir-carnage/extra-extra/",
   "original_url": "https://spidermedia.ru/blog/sir-carnage/extra-extra",
   "archived": "https://web.archive.org/web/20251117011211/https://spidermedia.ru/blog/sir-carnage/extra-extra",
+  "tags": [
+    "yumor",
+    "blackest-night"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

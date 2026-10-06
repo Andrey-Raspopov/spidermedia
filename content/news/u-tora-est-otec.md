@@ -4,6 +4,11 @@
   "url": "/news/u-tora-est-otec/",
   "original_url": "http://spidermedia.ru/news/u-tora-est-otec",
   "archived": "https://web.archive.org/web/20250909124339/http://spidermedia.ru/news/u-tora-est-otec",
+  "tags": [
+    "marvel",
+    "thor",
+    "odin"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/movies/12-dnej-dedpula-obnovlyaetsya/",
   "original_url": "https://spidermedia.ru/movies/12-dnej-dedpula-obnovlyaetsya",
   "archived": "https://web.archive.org/web/20250906202553/https://spidermedia.ru/movies/12-dnej-dedpula-obnovlyaetsya",
+  "tags": [
+    "marvel",
+    "deadpool"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

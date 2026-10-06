@@ -4,6 +4,12 @@
   "url": "/blog/trupoed/dark-avengers-no2-ostorozhno-vozmozhen-spoyler/",
   "original_url": "http://spidermedia.ru/blog/trupoed/dark-avengers-no2-ostorozhno-vozmozhen-spoyler",
   "archived": "https://web.archive.org/web/20250717193752/http://spidermedia.ru/blog/trupoed/dark-avengers-no2-ostorozhno-vozmozhen-spoyler",
+  "tags": [
+    "ultimate",
+    "old-man-logan",
+    "marvel",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/news/dc-i-warner-planov-gromadyo/",
   "original_url": "https://spidermedia.ru/news/dc-i-warner-planov-gromadyo",
   "archived": "https://web.archive.org/web/20260307063505/https://spidermedia.ru/news/dc-i-warner-planov-gromadyo",
+  "tags": [
+    "justice-league",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

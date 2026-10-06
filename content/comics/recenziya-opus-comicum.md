@@ -4,6 +4,11 @@
   "url": "/comics/recenziya-opus-comicum/",
   "original_url": "http://spidermedia.ru/comics/recenziya-opus-comicum",
   "archived": "https://web.archive.org/web/20250806061447/http://spidermedia.ru/comics/recenziya-opus-comicum",
+  "tags": [
+    "boomkniga",
+    "recenziya",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

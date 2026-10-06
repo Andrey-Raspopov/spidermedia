@@ -4,6 +4,12 @@
   "url": "/news/opisanie-prologa/",
   "original_url": "https://spidermedia.ru/news/opisanie-prologa",
   "archived": "https://web.archive.org/web/20260214133118/https://spidermedia.ru/news/opisanie-prologa",
+  "tags": [
+    "batman",
+    "dark-knight-rises",
+    "dc-comics",
+    "temnyj-rycar"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

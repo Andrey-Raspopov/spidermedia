@@ -4,6 +4,11 @@
   "url": "/blog/gess/hardy-i-nehardy-v-fevrale-2010-dc/",
   "original_url": "https://spidermedia.ru/blog/gess/hardy-i-nehardy-v-fevrale-2010-dc",
   "archived": "https://web.archive.org/web/20250116125607/https://spidermedia.ru/blog/gess/hardy-i-nehardy-v-fevrale-2010-dc",
+  "tags": [
+    "handnh",
+    "dc-comics",
+    "vertigo"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

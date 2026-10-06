@@ -4,6 +4,11 @@
   "url": "/news/srochno-v-pechat/",
   "original_url": "http://spidermedia.ru/news/srochno-v-pechat",
   "archived": "https://web.archive.org/web/20200221153204/http://spidermedia.ru:80/news/srochno-v-pechat",
+  "tags": [
+    "marvel",
+    "majka-mejhyu",
+    "dejli-byugl"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

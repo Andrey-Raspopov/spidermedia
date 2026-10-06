@@ -4,6 +4,11 @@
   "url": "/news/lyudi-iks-apokalipsis-nashel-molodyh-dzhin-ciklopa-i-shtorm/",
   "original_url": "http://spidermedia.ru/news/lyudi-iks-apokalipsis-nashel-molodyh-dzhin-ciklopa-i-shtorm",
   "archived": "https://web.archive.org/web/20260125123712/http://spidermedia.ru/news/lyudi-iks-apokalipsis-nashel-molodyh-dzhin-ciklopa-i-shtorm",
+  "tags": [
+    "marvel",
+    "x-men",
+    "kasting"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

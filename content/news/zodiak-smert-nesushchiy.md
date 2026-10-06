@@ -4,6 +4,11 @@
   "url": "/news/zodiak-smert-nesushchiy/",
   "original_url": "http://spidermedia.ru/news/zodiak-smert-nesushchiy",
   "archived": "https://web.archive.org/web/20200218015437/http://spidermedia.ru:80/news/zodiak-smert-nesushchiy",
+  "tags": [
+    "art-0",
+    "zodiac",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

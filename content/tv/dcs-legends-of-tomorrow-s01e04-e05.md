@@ -4,13 +4,16 @@
   "url": "/tv/dcs-legends-of-tomorrow-s01e04-e05/",
   "original_url": "https://spidermedia.ru/tv/dcs-legends-of-tomorrow-s01e04-e05",
   "archived": "https://web.archive.org/web/20250717182654/https://spidermedia.ru/tv/dcs-legends-of-tomorrow-s01e04-e05",
+  "tags": [
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
 ТВ: [Легенды завтрашнего дня](https://web.archive.org/web/20260120151247/http://spidermedia.ru/tv-index/dc-comics/legends-of-tomorrow-tv-series-2016)
 
-После перерыва обзоры эпизодов «Легенд завтрашнего дня» возвращаются. Мы придержали обсуждение прошлой серии в надежде увидеть законченные сюжетные линии, а получили залп клюквенных пирогов во все части тела, после чего нашу специальную команду в лице эксперта по [играм](https://web.archive.org/web/20260312021155/https://spidermedia.ru/games) **Сергея Мангасарова** и ведущего рубрики [All Things Valiant](https://web.archive.org/web/20260115053230/http://spidermedia.ru/comics?tag=All-Things-Valiant) **Дмитрия Андреева** упрятали в место под названием «Кошмар Тюрьма». К счастью, на помощь им пришли почетный [Суперрекапер](https://web.archive.org/web/20260312005123/http://spidermedia.ru/tags/supergirl) сайта **Александр Тарасов** и вновь присоединившаяся к обзору **Ольга Щербинина**.
+После перерыва обзоры эпизодов «Легенд завтрашнего дня» возвращаются. Мы придержали обсуждение прошлой серии в надежде увидеть законченные сюжетные линии, а получили залп клюквенных пирогов во все части тела, после чего нашу специальную команду в лице эксперта по [играм](https://web.archive.org/web/20260312021155/https://spidermedia.ru/games) **Сергея Мангасарова** и ведущего рубрики [All Things Valiant](https://web.archive.org/web/20260115053230/http://spidermedia.ru/comics?tag=All-Things-Valiant) **Дмитрия Андреева** упрятали в место под названием «Кошмар Тюрьма». К счастью, на помощь им пришли почетный [Суперрекапер](../../tags/supergirl/) сайта **Александр Тарасов** и вновь присоединившаяся к обзору **Ольга Щербинина**.
 
 ## ВНИМАНИЕ! ПРИСУТСТВУЮТ СПОЙЛЕРЫ!
 

@@ -4,6 +4,11 @@
   "url": "/news/slyuni-mozhno-ne-podbirat/",
   "original_url": "http://spidermedia.ru/news/slyuni-mozhno-ne-podbirat",
   "archived": "https://web.archive.org/web/20260121001239/http://spidermedia.ru/news/slyuni-mozhno-ne-podbirat",
+  "tags": [
+    "mark-millar",
+    "dejv-gibbons",
+    "dave-gibbons"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

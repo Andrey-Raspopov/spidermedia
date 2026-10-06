@@ -4,6 +4,15 @@
   "url": "/blog/fox1992/vey-i-lyu-o-rosomahe-ego-syne-dakene-dedpule-i-romuluse/",
   "original_url": "http://spidermedia.ru/blog/fox1992/vey-i-lyu-o-rosomahe-ego-syne-dakene-dedpule-i-romuluse",
   "archived": "https://web.archive.org/web/20260312010303/http://spidermedia.ru/blog/fox1992/vey-i-lyu-o-rosomahe-ego-syne-dakene-dedpule-i-romuluse",
+  "tags": [
+    "mardzhori-lyu",
+    "deniel-vej",
+    "daken",
+    "wolverine",
+    "romulus",
+    "marjorie-liu",
+    "daniel-way"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/blog/ghost-knight/s-geroyami-dc-po-seti/",
   "original_url": "https://spidermedia.ru/blog/ghost-knight/s-geroyami-dc-po-seti",
   "archived": "https://web.archive.org/web/20251006141723/https://spidermedia.ru/blog/ghost-knight/s-geroyami-dc-po-seti",
+  "tags": [
+    "dc-comics",
+    "igry"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

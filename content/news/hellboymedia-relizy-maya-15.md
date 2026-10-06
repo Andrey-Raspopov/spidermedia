@@ -4,6 +4,9 @@
   "url": "/news/hellboymedia-relizy-maya-15/",
   "original_url": "https://spidermedia.ru/news/hellboymedia-relizy-maya-15",
   "archived": "https://web.archive.org/web/20251209135816/https://spidermedia.ru/news/hellboymedia-relizy-maya-15",
+  "tags": [
+    "hellboymedia"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

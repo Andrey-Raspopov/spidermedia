@@ -4,6 +4,15 @@
   "url": "/news/snaypery-marvel/",
   "original_url": "https://spidermedia.ru/news/snaypery-marvel",
   "archived": "https://web.archive.org/web/20260121014407/https://spidermedia.ru/news/snaypery-marvel",
+  "tags": [
+    "marvel",
+    "endi-diggl",
+    "thunderbolts",
+    "hawkeye",
+    "avengers",
+    "bullseye",
+    "deadpool"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,13 @@
   "url": "/news/efir-ne-dlya-narkoza/",
   "original_url": "http://spidermedia.ru/news/efir-ne-dlya-narkoza",
   "archived": "https://web.archive.org/web/20120607175744/http://spidermedia.ru/news/efir-ne-dlya-narkoza",
+  "tags": [
+    "crossgen",
+    "dzhi-uillou-uilson",
+    "devid-lopes",
+    "komiksy",
+    "marvel"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

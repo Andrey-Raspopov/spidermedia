@@ -4,6 +4,12 @@
   "url": "/news/v-moskve-proydet-festival-yaponskoy-sovremennoy-kultury/",
   "original_url": "http://spidermedia.ru/news/v-moskve-proydet-festival-yaponskoy-sovremennoy-kultury",
   "archived": "https://web.archive.org/web/20260313121040/http://spidermedia.ru/news/v-moskve-proydet-festival-yaponskoy-sovremennoy-kultury",
+  "tags": [
+    "sobytiya",
+    "manga",
+    "kultura",
+    "igry"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

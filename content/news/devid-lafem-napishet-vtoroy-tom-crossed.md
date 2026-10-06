@@ -4,6 +4,18 @@
   "url": "/news/devid-lafem-napishet-vtoroy-tom-crossed/",
   "original_url": "https://spidermedia.ru/news/devid-lafem-napishet-vtoroy-tom-crossed",
   "archived": "https://web.archive.org/web/20251115035330/https://spidermedia.ru/news/devid-lafem-napishet-vtoroy-tom-crossed",
+  "tags": [
+    "haver-barreno",
+    "zombi",
+    "devid-lafem",
+    "dzhejsen-berrouz",
+    "garth-ennis",
+    "zombie",
+    "javier-barreno",
+    "jacen-burrows",
+    "david-lapham",
+    "avatar-press"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

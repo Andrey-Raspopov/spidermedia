@@ -4,6 +4,10 @@
   "url": "/comics/ta-nehisi-coates-to-write-black-panther-comic-for-marvel/",
   "original_url": "https://spidermedia.ru/comics/ta-nehisi-coates-to-write-black-panther-comic-for-marvel",
   "archived": "https://web.archive.org/web/20260120160330/https://spidermedia.ru/comics/ta-nehisi-coates-to-write-black-panther-comic-for-marvel",
+  "tags": [
+    "marvel",
+    "black-panther"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

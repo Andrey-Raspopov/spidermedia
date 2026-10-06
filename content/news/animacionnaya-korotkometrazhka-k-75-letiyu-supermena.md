@@ -4,6 +4,11 @@
   "url": "/news/animacionnaya-korotkometrazhka-k-75-letiyu-supermena/",
   "original_url": "https://spidermedia.ru/news/animacionnaya-korotkometrazhka-k-75-letiyu-supermena",
   "archived": "https://web.archive.org/web/20251211034946/https://spidermedia.ru/news/animacionnaya-korotkometrazhka-k-75-letiyu-supermena",
+  "tags": [
+    "superman",
+    "animaciya",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

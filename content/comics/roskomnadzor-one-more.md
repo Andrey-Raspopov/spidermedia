@@ -4,6 +4,9 @@
   "url": "/comics/roskomnadzor-one-more/",
   "original_url": "http://spidermedia.ru/comics/roskomnadzor-one-more",
   "archived": "https://web.archive.org/web/20241009213035/http://spidermedia.ru/comics/roskomnadzor-one-more",
+  "tags": [
+    "roskomnadzor"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/tv/lyuk-kejdzh-foto-so-syomok/",
   "original_url": "https://spidermedia.ru/tv/lyuk-kejdzh-foto-so-syomok",
   "archived": "https://web.archive.org/web/20250512120545/https://spidermedia.ru/tv/lyuk-kejdzh-foto-so-syomok",
+  "tags": [
+    "marvel",
+    "luke-cage"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

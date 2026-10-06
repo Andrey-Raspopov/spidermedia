@@ -4,6 +4,13 @@
   "url": "/news/mezhdu-nebom-i-zemley/",
   "original_url": "http://spidermedia.ru/news/mezhdu-nebom-i-zemley",
   "archived": "https://web.archive.org/web/20250814204319/http://spidermedia.ru/news/mezhdu-nebom-i-zemley",
+  "tags": [
+    "preview",
+    "pol-dzhenkins",
+    "art-0",
+    "thor",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/news/spidermedia-game-reload/",
   "original_url": "http://spidermedia.ru/news/spidermedia-game-reload",
   "archived": "https://web.archive.org/web/20150428111044/http://spidermedia.ru/news/spidermedia-game-reload",
+  "tags": [
+    "reklama",
+    "igry",
+    "spidermedia"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

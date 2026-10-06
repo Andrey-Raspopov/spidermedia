@@ -4,6 +4,11 @@
   "url": "/comics/ghostbusters-international/",
   "original_url": "http://spidermedia.ru/comics/ghostbusters-international",
   "archived": "https://web.archive.org/web/20260313113024/http://spidermedia.ru/comics/ghostbusters-international",
+  "tags": [
+    "idw-publishing",
+    "komik-kon-v-nyu-yorke",
+    "ghostbusters"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

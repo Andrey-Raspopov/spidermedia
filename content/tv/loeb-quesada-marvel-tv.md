@@ -4,6 +4,9 @@
   "url": "/tv/loeb-quesada-marvel-tv/",
   "original_url": "https://spidermedia.ru/tv/loeb-quesada-marvel-tv",
   "archived": "https://web.archive.org/web/20250429015100/https://spidermedia.ru/tv/loeb-quesada-marvel-tv",
+  "tags": [
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

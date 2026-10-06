@@ -4,6 +4,13 @@
   "url": "/news/how-i-met-your-batman/",
   "original_url": "https://spidermedia.ru/news/how-i-met-your-batman",
   "archived": "https://web.archive.org/web/20250814201634/https://spidermedia.ru/news/how-i-met-your-batman",
+  "tags": [
+    "superman",
+    "dzhey-li",
+    "greg-pak",
+    "dc-comics",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

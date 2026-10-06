@@ -4,6 +4,11 @@
   "url": "/news/dzho-karnahan-vzyalsya-za-nemesis/",
   "original_url": "https://spidermedia.ru/news/dzho-karnahan-vzyalsya-za-nemesis",
   "archived": "https://web.archive.org/web/20250807010316/https://spidermedia.ru/news/dzho-karnahan-vzyalsya-za-nemesis",
+  "tags": [
+    "mark-millar",
+    "nemesis",
+    "icon-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

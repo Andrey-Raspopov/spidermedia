@@ -4,6 +4,12 @@
   "url": "/blog/ironman/ultimate-avengers-next-generation/",
   "original_url": "http://spidermedia.ru/blog/ironman/ultimate-avengers-next-generation",
   "archived": "https://web.archive.org/web/20240720161404/http://spidermedia.ru/blog/ironman/ultimate-avengers-next-generation",
+  "tags": [
+    "marvel",
+    "avengers",
+    "mark-millar",
+    "ultimate"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

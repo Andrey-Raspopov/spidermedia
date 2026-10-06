@@ -4,6 +4,10 @@
   "url": "/podcast/ultimate-panels-05-the-world-remade/",
   "original_url": "http://spidermedia.ru/podcast/ultimate-panels-05-the-world-remade",
   "archived": "https://web.archive.org/web/20251108191936/http://spidermedia.ru/podcast/ultimate-panels-05-the-world-remade",
+  "tags": [
+    "ultimate-panels",
+    "on-panels"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

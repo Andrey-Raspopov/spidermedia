@@ -4,6 +4,12 @@
   "url": "/news/zombi-betmen-i-vse-vse-vse/",
   "original_url": "https://spidermedia.ru/news/zombi-betmen-i-vse-vse-vse",
   "archived": "https://web.archive.org/web/20250318072051/https://spidermedia.ru/news/zombi-betmen-i-vse-vse-vse",
+  "tags": [
+    "dc-comics",
+    "preview",
+    "batman",
+    "green-lantern"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

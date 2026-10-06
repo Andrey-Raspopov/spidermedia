@@ -4,6 +4,10 @@
   "url": "/news/v-sleduyushchem-godu-v-pervyy-klass/",
   "original_url": "http://spidermedia.ru/news/v-sleduyushchem-godu-v-pervyy-klass",
   "archived": "https://web.archive.org/web/20170908224024/http://spidermedia.ru:80/news/v-sleduyushchem-godu-v-pervyy-klass",
+  "tags": [
+    "x-men-first-class",
+    "lyudi-iks-pervyj-klass"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/news/v-rossii-vyydet-komiks-pro-lyutera-strouda/",
   "original_url": "https://spidermedia.ru/news/v-rossii-vyydet-komiks-pro-lyutera-strouda",
   "archived": "https://web.archive.org/web/20260307064428/https://spidermedia.ru/news/v-rossii-vyydet-komiks-pro-lyutera-strouda",
+  "tags": [
+    "tradd-moore",
+    "izdatelstvo-vd",
+    "zarubezhnye-komiksy-na-russkom",
+    "image-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/news/radost-radost-schaste-schaste/",
   "original_url": "http://spidermedia.ru/news/radost-radost-schaste-schaste",
   "archived": "https://web.archive.org/web/20251107010901/http://spidermedia.ru/news/radost-radost-schaste-schaste",
+  "tags": [
+    "image-comics",
+    "derik-robertson",
+    "grant-morrison"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

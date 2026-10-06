@@ -4,6 +4,12 @@
   "url": "/blog/sir-carnage/column-no-name-31-03-10-your-mother-so-fat-when-she-steps-scale-it-reads-be/",
   "original_url": "http://spidermedia.ru/blog/sir-carnage/column-no-name-31-03-10-your-mother-so-fat-when-she-steps-scale-it-reads-be",
   "archived": "https://web.archive.org/web/20250804002436/http://spidermedia.ru/blog/sir-carnage/column-no-name-31-03-10-your-mother-so-fat-when-she-steps-scale-it-reads-be",
+  "tags": [
+    "the-column-with-no-name",
+    "marvel",
+    "dc-comics",
+    "blackest-night"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

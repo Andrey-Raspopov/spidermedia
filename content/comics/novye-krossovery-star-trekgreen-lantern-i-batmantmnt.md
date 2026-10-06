@@ -4,6 +4,16 @@
   "url": "/comics/novye-krossovery-star-trekgreen-lantern-i-batmantmnt/",
   "original_url": "http://spidermedia.ru/comics/novye-krossovery-star-trekgreen-lantern-i-batmantmnt",
   "archived": "https://web.archive.org/web/20260312010517/http://spidermedia.ru/comics/novye-krossovery-star-trekgreen-lantern-i-batmantmnt",
+  "tags": [
+    "star-trek",
+    "batman",
+    "zvezdnyj-put",
+    "green-lantern",
+    "ninja-turtles",
+    "dc-comics",
+    "idw-publishing",
+    "san-diego-comic-con-international"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

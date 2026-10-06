@@ -4,6 +4,13 @@
   "url": "/blog/alex/rukovodstvo-k-temneyshey-nochi-chast-chetvertaya-korpus-sinestro/",
   "original_url": "http://spidermedia.ru/blog/alex/rukovodstvo-k-temneyshey-nochi-chast-chetvertaya-korpus-sinestro",
   "archived": "https://web.archive.org/web/20251115190530/http://spidermedia.ru/blog/alex/rukovodstvo-k-temneyshey-nochi-chast-chetvertaya-korpus-sinestro",
+  "tags": [
+    "obzor",
+    "sinestro-corps",
+    "green-lantern",
+    "dc-comics",
+    "blackest-night"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

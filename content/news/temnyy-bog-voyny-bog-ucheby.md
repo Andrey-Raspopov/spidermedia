@@ -4,6 +4,15 @@
   "url": "/news/temnyy-bog-voyny-bog-ucheby/",
   "original_url": "http://spidermedia.ru/news/temnyy-bog-voyny-bog-ucheby",
   "archived": "https://web.archive.org/web/20120512052239/http://spidermedia.ru/news/temnyy-bog-voyny-bog-ucheby",
+  "tags": [
+    "ares",
+    "ares-0",
+    "art-0",
+    "kiron-gillen",
+    "komiksy",
+    "keri-nord",
+    "marvel"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,18 @@
   "url": "/news/kino-zombi-massovogo-unichtozheniyai-i-youngblood/",
   "original_url": "http://spidermedia.ru/news/kino-zombi-massovogo-unichtozheniyai-i-youngblood",
   "archived": "https://web.archive.org/web/20120607095247/http://spidermedia.ru/news/kino-zombi-massovogo-unichtozheniyai-i-youngblood",
+  "tags": [
+    "image-comics",
+    "red-5-comics",
+    "youngblood",
+    "zmd",
+    "zombie",
+    "zombies-mass-destruction",
+    "zombi",
+    "zombi-massovogo-unichtozheniya",
+    "kino",
+    "komiksy"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

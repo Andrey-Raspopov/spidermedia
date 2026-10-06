@@ -4,6 +4,12 @@
   "url": "/news/fox-snimet-serial-o-policii-gotema/",
   "original_url": "https://spidermedia.ru/news/fox-snimet-serial-o-policii-gotema",
   "archived": "https://web.archive.org/web/20260125130341/https://spidermedia.ru/news/fox-snimet-serial-o-policii-gotema",
+  "tags": [
+    "serialy",
+    "gotem",
+    "batman",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

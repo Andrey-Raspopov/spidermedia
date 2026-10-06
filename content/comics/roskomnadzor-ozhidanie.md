@@ -4,6 +4,11 @@
   "url": "/comics/roskomnadzor-ozhidanie/",
   "original_url": "http://spidermedia.ru/comics/roskomnadzor-ozhidanie",
   "archived": "https://web.archive.org/web/20230322223735/http://spidermedia.ru/comics/roskomnadzor-ozhidanie",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "roskomnadzor",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,18 @@
   "url": "/blog/derden/dc-comics-limit-series-vypusk-1/",
   "original_url": "https://spidermedia.ru/blog/derden/dc-comics-limit-series-vypusk-1",
   "archived": "https://web.archive.org/web/20241106090116/https://spidermedia.ru/blog/derden/dc-comics-limit-series-vypusk-1",
+  "tags": [
+    "tim-sale",
+    "rose-and-thorn",
+    "richard-dragon",
+    "mini-series",
+    "lobo",
+    "limits-stories",
+    "jeph-loeb",
+    "dc-comics",
+    "zhenshhina-koshka",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

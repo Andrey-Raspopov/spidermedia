@@ -4,6 +4,12 @@
   "url": "/news/izumrudnye-rycari-v-izumrudnom-gorode/",
   "original_url": "http://spidermedia.ru/news/izumrudnye-rycari-v-izumrudnom-gorode",
   "archived": "https://web.archive.org/web/20250519175011/http://spidermedia.ru/news/izumrudnye-rycari-v-izumrudnom-gorode",
+  "tags": [
+    "piter-tomasi",
+    "geoff-johns",
+    "peter-j.-tomasi",
+    "green-lantern"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

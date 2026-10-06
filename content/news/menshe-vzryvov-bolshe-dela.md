@@ -4,6 +4,10 @@
   "url": "/news/menshe-vzryvov-bolshe-dela/",
   "original_url": "https://spidermedia.ru/news/menshe-vzryvov-bolshe-dela",
   "archived": "https://web.archive.org/web/20260117231555/https://spidermedia.ru/news/menshe-vzryvov-bolshe-dela",
+  "tags": [
+    "transformers",
+    "majkl-bej"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

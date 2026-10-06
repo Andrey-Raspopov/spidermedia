@@ -4,6 +4,11 @@
   "url": "/comics/roskomnadzor-bon-appetit/",
   "original_url": "https://spidermedia.ru/comics/roskomnadzor-bon-appetit",
   "archived": "https://web.archive.org/web/20260305235144/https://spidermedia.ru/comics/roskomnadzor-bon-appetit",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "roskomnadzor",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

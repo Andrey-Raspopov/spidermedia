@@ -4,6 +4,11 @@
   "url": "/news/dyavolik-vyydet-na-russkom-yazyke/",
   "original_url": "https://spidermedia.ru/news/dyavolik-vyydet-na-russkom-yazyke",
   "archived": "https://web.archive.org/web/20250425224137/https://spidermedia.ru/news/dyavolik-vyydet-na-russkom-yazyke",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "dyavolik",
+    "smart-owl"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

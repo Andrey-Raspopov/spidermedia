@@ -4,6 +4,16 @@
   "url": "/news/naydi-mstitelya/",
   "original_url": "http://spidermedia.ru/news/naydi-mstitelya",
   "archived": "https://web.archive.org/web/20120613030756/http://spidermedia.ru/news/naydi-mstitelya",
+  "tags": [
+    "avengers",
+    "marvelman",
+    "sdcc-2010",
+    "komiksy",
+    "marvel",
+    "marvelmen",
+    "mstiteli",
+    "tizery"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

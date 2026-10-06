@@ -4,6 +4,9 @@
   "url": "/comics/all-things-valiant-24-week-47/",
   "original_url": "https://spidermedia.ru/comics/all-things-valiant-24-week-47",
   "archived": "https://web.archive.org/web/20260125062257/https://spidermedia.ru/comics/all-things-valiant-24-week-47",
+  "tags": [
+    "valiant-entertainment"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

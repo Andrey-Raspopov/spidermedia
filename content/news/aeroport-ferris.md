@@ -4,6 +4,9 @@
   "url": "/news/aeroport-ferris/",
   "original_url": "http://spidermedia.ru/news/aeroport-ferris",
   "archived": "https://web.archive.org/web/20250909133251/http://spidermedia.ru/news/aeroport-ferris",
+  "tags": [
+    "green-lantern"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

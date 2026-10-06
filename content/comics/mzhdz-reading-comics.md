@@ -4,6 +4,9 @@
   "url": "/comics/mzhdz-reading-comics/",
   "original_url": "http://spidermedia.ru/comics/mzhdz-reading-comics",
   "archived": "https://web.archive.org/web/20251107031009/http://spidermedia.ru/comics/mzhdz-reading-comics",
+  "tags": [
+    "mzhdz"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

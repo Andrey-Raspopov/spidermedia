@@ -4,6 +4,9 @@
   "url": "/comics/best-of-2017-comics/",
   "original_url": "http://spidermedia.ru/comics/best-of-2017-comics",
   "archived": "https://web.archive.org/web/20200218020249/http://spidermedia.ru:80/comics/best-of-2017-comics",
+  "tags": [
+    "itogi-goda"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

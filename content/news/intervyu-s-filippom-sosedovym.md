@@ -4,6 +4,12 @@
   "url": "/news/intervyu-s-filippom-sosedovym/",
   "original_url": "https://spidermedia.ru/news/intervyu-s-filippom-sosedovym",
   "archived": "https://web.archive.org/web/20251107031854/https://spidermedia.ru/news/intervyu-s-filippom-sosedovym",
+  "tags": [
+    "filipp-sosedov",
+    "russian-comics",
+    "intervyu",
+    "belyj-edinorog"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

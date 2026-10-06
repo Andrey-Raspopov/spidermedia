@@ -4,6 +4,14 @@
   "url": "/blog/larosh/constantine-s01e03-feast-friends-mnenie-redakcii/",
   "original_url": "http://spidermedia.ru/blog/larosh/constantine-s01e03-feast-friends-mnenie-redakcii",
   "archived": "https://web.archive.org/web/20260214141441/http://spidermedia.ru/blog/larosh/constantine-s01e03-feast-friends-mnenie-redakcii",
+  "tags": [
+    "serialy",
+    "obzor",
+    "dzhon-konstantin",
+    "vertigo",
+    "dc-comics",
+    "constantine"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

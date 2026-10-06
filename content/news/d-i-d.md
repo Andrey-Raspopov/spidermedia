@@ -4,6 +4,18 @@
   "url": "/news/d-i-d/",
   "original_url": "https://spidermedia.ru/news/d-i-d",
   "archived": "https://web.archive.org/web/20260313101253/https://spidermedia.ru/news/d-i-d",
+  "tags": [
+    "fabio-mun",
+    "rajan-kelli",
+    "dejv-gibbons",
+    "jim-lee",
+    "bekki-klunan",
+    "brian-wood",
+    "dmz",
+    "demo",
+    "rebeka-ajzeks",
+    "vertigo"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

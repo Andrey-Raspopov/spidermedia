@@ -4,6 +4,11 @@
   "url": "/blog/igrok/priehal-est-moy-mozg/",
   "original_url": "https://spidermedia.ru/blog/igrok/priehal-est-moy-mozg",
   "archived": "https://web.archive.org/web/20230922082411/https://spidermedia.ru/blog/igrok/priehal-est-moy-mozg",
+  "tags": [
+    "figurki",
+    "heroes",
+    "serialy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

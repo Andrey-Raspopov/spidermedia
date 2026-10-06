@@ -4,6 +4,10 @@
   "url": "/blog/derden/dc-new-52-nemnogo-suhoy-matematiki/",
   "original_url": "https://spidermedia.ru/blog/derden/dc-new-52-nemnogo-suhoy-matematiki",
   "archived": "https://web.archive.org/web/20240911132856/https://spidermedia.ru/blog/derden/dc-new-52-nemnogo-suhoy-matematiki",
+  "tags": [
+    "new-52",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

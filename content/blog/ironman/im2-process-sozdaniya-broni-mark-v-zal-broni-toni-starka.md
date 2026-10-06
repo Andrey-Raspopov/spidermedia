@@ -4,6 +4,11 @@
   "url": "/blog/ironman/im2-process-sozdaniya-broni-mark-v-zal-broni-toni-starka/",
   "original_url": "http://spidermedia.ru/blog/ironman/im2-process-sozdaniya-broni-mark-v-zal-broni-toni-starka",
   "archived": "https://web.archive.org/web/20260210171633/http://spidermedia.ru/blog/ironman/im2-process-sozdaniya-broni-mark-v-zal-broni-toni-starka",
+  "tags": [
+    "dzhon-favro",
+    "marvel",
+    "iron-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

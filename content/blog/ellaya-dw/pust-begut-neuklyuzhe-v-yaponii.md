@@ -4,6 +4,9 @@
   "url": "/blog/ellaya-dw/pust-begut-neuklyuzhe-v-yaponii/",
   "original_url": "http://spidermedia.ru/blog/ellaya-dw/pust-begut-neuklyuzhe-v-yaponii",
   "archived": "https://web.archive.org/web/20251107010401/http://spidermedia.ru/blog/ellaya-dw/pust-begut-neuklyuzhe-v-yaponii",
+  "tags": [
+    "anime"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

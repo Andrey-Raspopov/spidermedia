@@ -4,6 +4,18 @@
   "url": "/blog/sonyn/ed-brubakers-captain-america/",
   "original_url": "http://spidermedia.ru/blog/sonyn/ed-brubakers-captain-america",
   "archived": "https://web.archive.org/web/20111018091359/http://spidermedia.ru/blog/sonyn/ed-brubakers-captain-america",
+  "tags": [
+    "captain-america",
+    "marvel",
+    "red-skull",
+    "winter-soldier",
+    "zimniy-soldat",
+    "kapitan-amerika",
+    "komiksy",
+    "krasnyy-cherep",
+    "recenziya",
+    "ed-brubeyker"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

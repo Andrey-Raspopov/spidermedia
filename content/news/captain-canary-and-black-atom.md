@@ -4,6 +4,13 @@
   "url": "/news/captain-canary-and-black-atom/",
   "original_url": "http://spidermedia.ru/news/captain-canary-and-black-atom",
   "archived": "https://web.archive.org/web/20120607180952/http://spidermedia.ru/news/captain-canary-and-black-atom",
+  "tags": [
+    "black-canary",
+    "captain-atom",
+    "dc-comics",
+    "komiksy",
+    "personazhi-komiksov"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

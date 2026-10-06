@@ -4,6 +4,13 @@
   "url": "/news/proshchay-naytkauler/",
   "original_url": "http://spidermedia.ru/news/proshchay-naytkauler",
   "archived": "https://web.archive.org/web/20250913010730/http://spidermedia.ru/news/proshchay-naytkauler",
+  "tags": [
+    "x-men",
+    "marvel",
+    "nightcrawler",
+    "dzhejms-ezmus",
+    "dzhordzh-molina"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

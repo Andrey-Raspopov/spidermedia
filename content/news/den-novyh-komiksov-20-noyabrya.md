@@ -4,6 +4,9 @@
   "url": "/news/den-novyh-komiksov-20-noyabrya/",
   "original_url": "https://spidermedia.ru/news/den-novyh-komiksov-20-noyabrya",
   "archived": "https://web.archive.org/web/20250814203812/https://spidermedia.ru/news/den-novyh-komiksov-20-noyabrya",
+  "tags": [
+    "den-novyh-komiksov"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

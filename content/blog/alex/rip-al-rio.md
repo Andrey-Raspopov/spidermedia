@@ -4,6 +4,10 @@
   "url": "/blog/alex/rip-al-rio/",
   "original_url": "http://spidermedia.ru/blog/alex/rip-al-rio",
   "archived": "https://web.archive.org/web/20120607133135/http://spidermedia.ru/blog/alex/rip-al-rio",
+  "tags": [
+    "al-rio",
+    "rip"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

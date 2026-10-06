@@ -4,6 +4,14 @@
   "url": "/news/supermen-zdes-bolshe-ne-zhivet/",
   "original_url": "http://spidermedia.ru/news/supermen-zdes-bolshe-ne-zhivet",
   "archived": "https://web.archive.org/web/20260305234209/http://spidermedia.ru/news/supermen-zdes-bolshe-ne-zhivet",
+  "tags": [
+    "novyj-kripton",
+    "dzhejms-robinson",
+    "greg-rakka",
+    "superman",
+    "new-krypton",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,14 @@
   "url": "/news/obzor-igry-green-lantern-rise-manhunters/",
   "original_url": "https://spidermedia.ru/news/obzor-igry-green-lantern-rise-manhunters",
   "archived": "https://web.archive.org/web/20251209140024/https://spidermedia.ru/news/obzor-igry-green-lantern-rise-manhunters",
+  "tags": [
+    "hel-dzhordan",
+    "sinestro",
+    "obzory",
+    "igry",
+    "manhunters",
+    "green-lantern"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/blog/derden/hronologiya-dc-era-nulevogo-chasa-1989-god-1b-vesna/",
   "original_url": "https://spidermedia.ru/blog/derden/hronologiya-dc-era-nulevogo-chasa-1989-god-1b-vesna",
   "archived": "https://web.archive.org/web/20251208074229/https://spidermedia.ru/blog/derden/hronologiya-dc-era-nulevogo-chasa-1989-god-1b-vesna",
+  "tags": [
+    "batman",
+    "dc-comics",
+    "hronologiya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

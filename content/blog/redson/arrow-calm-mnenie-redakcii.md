@@ -4,6 +4,10 @@
   "url": "/blog/redson/arrow-calm-mnenie-redakcii/",
   "original_url": "https://spidermedia.ru/blog/redson/arrow-calm-mnenie-redakcii",
   "archived": "https://web.archive.org/web/20260116211130/https://spidermedia.ru/blog/redson/arrow-calm-mnenie-redakcii",
+  "tags": [
+    "dc-comics",
+    "green-arrow"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/news/forsazh-7-prizrachnyy-avtogonshchik/",
   "original_url": "http://spidermedia.ru/news/forsazh-7-prizrachnyy-avtogonshchik",
   "archived": "https://web.archive.org/web/20251019000622/http://spidermedia.ru/news/forsazh-7-prizrachnyy-avtogonshchik",
+  "tags": [
+    "tradd-moore",
+    "prizrachnyj-gonshhik",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

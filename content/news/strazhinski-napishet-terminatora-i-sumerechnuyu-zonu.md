@@ -4,6 +4,12 @@
   "url": "/news/strazhinski-napishet-terminatora-i-sumerechnuyu-zonu/",
   "original_url": "http://spidermedia.ru/news/strazhinski-napishet-terminatora-i-sumerechnuyu-zonu",
   "archived": "https://web.archive.org/web/20251206234520/http://spidermedia.ru/news/strazhinski-napishet-terminatora-i-sumerechnuyu-zonu",
+  "tags": [
+    "terminator",
+    "j-michael-straczynski",
+    "dark-horse",
+    "dynamite-entertainment"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/news/odnoy-strokoy/",
   "original_url": "https://spidermedia.ru/news/odnoy-strokoy",
   "archived": "https://web.archive.org/web/20260125061310/https://spidermedia.ru/news/odnoy-strokoy",
+  "tags": [
+    "sluhi",
+    "superman",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

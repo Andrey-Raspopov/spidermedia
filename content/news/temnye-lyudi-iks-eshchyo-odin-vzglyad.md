@@ -4,6 +4,19 @@
   "url": "/news/temnye-lyudi-iks-eshchyo-odin-vzglyad/",
   "original_url": "http://spidermedia.ru/news/temnye-lyudi-iks-eshchyo-odin-vzglyad",
   "archived": "https://web.archive.org/web/20120607175558/http://spidermedia.ru/news/temnye-lyudi-iks-eshchyo-odin-vzglyad",
+  "tags": [
+    "avengers",
+    "dark-avengers",
+    "dark-x-men",
+    "utopia",
+    "x-universe",
+    "komiksy",
+    "lyudi-iks",
+    "marvel",
+    "mstiteli",
+    "tyomnye-mstiteli",
+    "ugadayka"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

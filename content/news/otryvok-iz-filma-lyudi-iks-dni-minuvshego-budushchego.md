@@ -4,6 +4,11 @@
   "url": "/news/otryvok-iz-filma-lyudi-iks-dni-minuvshego-budushchego/",
   "original_url": "https://spidermedia.ru/news/otryvok-iz-filma-lyudi-iks-dni-minuvshego-budushchego",
   "archived": "https://web.archive.org/web/20260125070835/https://spidermedia.ru/news/otryvok-iz-filma-lyudi-iks-dni-minuvshego-budushchego",
+  "tags": [
+    "x-men",
+    "lyudi-iks-pervyj-klass",
+    "days-of-future-past"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

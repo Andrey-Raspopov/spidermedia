@@ -4,6 +4,11 @@
   "url": "/blog/plane-v/number-ones-ivanych-novye-komiksy-privezli/",
   "original_url": "http://spidermedia.ru/blog/plane-v/number-ones-ivanych-novye-komiksy-privezli",
   "archived": "https://web.archive.org/web/20241202114704/http://spidermedia.ru/blog/plane-v/number-ones-ivanych-novye-komiksy-privezli",
+  "tags": [
+    "marvel",
+    "image-comics",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

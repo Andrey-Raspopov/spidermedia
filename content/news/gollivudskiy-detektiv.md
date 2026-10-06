@@ -4,6 +4,16 @@
   "url": "/news/gollivudskiy-detektiv/",
   "original_url": "http://spidermedia.ru/news/gollivudskiy-detektiv",
   "archived": "https://web.archive.org/web/20120607094111/http://spidermedia.ru/news/gollivudskiy-detektiv",
+  "tags": [
+    "dominic-fortune",
+    "art-0",
+    "greg-skott",
+    "din-motter",
+    "dominik-fortuna",
+    "komiksy",
+    "marvel",
+    "oblozhki"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

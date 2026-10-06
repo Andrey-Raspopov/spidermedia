@@ -4,6 +4,10 @@
   "url": "/news/rik-grayms-nayden/",
   "original_url": "http://spidermedia.ru/news/rik-grayms-nayden",
   "archived": "https://web.archive.org/web/20230320154529/http://spidermedia.ru/news/rik-grayms-nayden",
+  "tags": [
+    "serialy",
+    "the-walking-dead"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

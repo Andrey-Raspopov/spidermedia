@@ -4,6 +4,11 @@
   "url": "/news/laureaty-harvey-awards-10/",
   "original_url": "http://spidermedia.ru/news/laureaty-harvey-awards-10",
   "archived": "https://web.archive.org/web/20170715132949/http://spidermedia.ru:80/news/laureaty-harvey-awards-10",
+  "tags": [
+    "nagrady",
+    "industriya",
+    "harvey-awards"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

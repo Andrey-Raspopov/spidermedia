@@ -4,6 +4,15 @@
   "url": "/blog/ironman/kto-stoit-za-dizaynom-zheleznogo-patriota/",
   "original_url": "https://spidermedia.ru/blog/ironman/kto-stoit-za-dizaynom-zheleznogo-patriota",
   "archived": "https://web.archive.org/web/20250717181604/https://spidermedia.ru/blog/ironman/kto-stoit-za-dizaynom-zheleznogo-patriota",
+  "tags": [
+    "marvel",
+    "iron-man",
+    "iron-patriot",
+    "captain-america",
+    "art-0",
+    "zheleznyj-patriot",
+    "temnoe-pravlenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/comics/odna-iz-dvuh-devic-na-meli-napisala-komiks-dlya-podrostkov/",
   "original_url": "http://spidermedia.ru/comics/odna-iz-dvuh-devic-na-meli-napisala-komiks-dlya-podrostkov",
   "archived": "https://web.archive.org/web/20190923020125/http://spidermedia.ru:80/comics/odna-iz-dvuh-devic-na-meli-napisala-komiks-dlya-podrostkov",
+  "tags": [
+    "cifrovye-komiksy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

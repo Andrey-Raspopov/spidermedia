@@ -4,6 +4,22 @@
   "url": "/news/galaktus-gou-houm-updated/",
   "original_url": "http://spidermedia.ru/news/galaktus-gou-houm-updated",
   "archived": "https://web.archive.org/web/20120607033004/http://spidermedia.ru/news/galaktus-gou-houm-updated",
+  "tags": [
+    "celestials",
+    "celestialy",
+    "eternal-dynamo",
+    "galactus",
+    "shield-0",
+    "night-machine",
+    "vechnoe-dinamo",
+    "galaktus",
+    "dastin-uiver",
+    "jonathan-hickman",
+    "komiksy",
+    "marvel",
+    "mashina-nochi",
+    "shchit"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

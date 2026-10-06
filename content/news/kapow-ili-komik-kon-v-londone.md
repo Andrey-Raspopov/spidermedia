@@ -4,6 +4,13 @@
   "url": "/news/kapow-ili-komik-kon-v-londone/",
   "original_url": "http://www.spidermedia.ru/news/kapow-ili-komik-kon-v-londone",
   "archived": "https://web.archive.org/web/20120608131701/http://www.spidermedia.ru/news/kapow-ili-komik-kon-v-londone",
+  "tags": [
+    "kino",
+    "komiksy",
+    "konvencii",
+    "mark-millar",
+    "hudozhniki"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

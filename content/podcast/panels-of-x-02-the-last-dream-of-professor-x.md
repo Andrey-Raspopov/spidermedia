@@ -4,6 +4,10 @@
   "url": "/podcast/panels-of-x-02-the-last-dream-of-professor-x/",
   "original_url": "https://spidermedia.ru/podcast/panels-of-x-02-the-last-dream-of-professor-x",
   "archived": "https://web.archive.org/web/20250618112133/https://spidermedia.ru/podcast/panels-of-x-02-the-last-dream-of-professor-x",
+  "tags": [
+    "panels-of-x",
+    "on-panels"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

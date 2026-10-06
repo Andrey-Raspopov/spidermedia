@@ -4,6 +4,10 @@
   "url": "/news/nastoyashchie-amerikanskie-komiksy-na-spidermediaru/",
   "original_url": "http://spidermedia.ru/news/nastoyashchie-amerikanskie-komiksy-na-spidermediaru",
   "archived": "https://web.archive.org/web/20120610051050/http://spidermedia.ru/news/nastoyashchie-amerikanskie-komiksy-na-spidermediaru",
+  "tags": [
+    "komiksy",
+    "magazin"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

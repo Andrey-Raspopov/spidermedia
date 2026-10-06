@@ -4,6 +4,11 @@
   "url": "/movies/the-batman-son-of-the-pat/",
   "original_url": "https://spidermedia.ru/movies/the-batman-son-of-the-pat",
   "archived": "https://web.archive.org/web/20260209115445/https://spidermedia.ru/movies/the-batman-son-of-the-pat",
+  "tags": [
+    "dc-comics",
+    "batman",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

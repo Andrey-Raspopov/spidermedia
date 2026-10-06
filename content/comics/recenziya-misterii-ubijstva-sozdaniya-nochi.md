@@ -4,6 +4,11 @@
   "url": "/comics/recenziya-misterii-ubijstva-sozdaniya-nochi/",
   "original_url": "https://spidermedia.ru/comics/recenziya-misterii-ubijstva-sozdaniya-nochi",
   "archived": "https://web.archive.org/web/20251006144637/https://spidermedia.ru/comics/recenziya-misterii-ubijstva-sozdaniya-nochi",
+  "tags": [
+    "xl-media",
+    "neil-gaiman",
+    "zarubezhnye-komiksy-na-russkom"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

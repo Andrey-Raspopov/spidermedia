@@ -4,6 +4,15 @@
   "url": "/news/bulvarnyy-dedpul/",
   "original_url": "http://spidermedia.ru/news/bulvarnyy-dedpul",
   "archived": "https://web.archive.org/web/20220813150657/http://spidermedia.ru/news/bulvarnyy-dedpul",
+  "tags": [
+    "majk-benson",
+    "lourens-kembell",
+    "deadpool",
+    "dzhey-li",
+    "art-0",
+    "adam-glass",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

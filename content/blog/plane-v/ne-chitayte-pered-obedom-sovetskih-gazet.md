@@ -4,6 +4,11 @@
   "url": "/blog/plane-v/ne-chitayte-pered-obedom-sovetskih-gazet/",
   "original_url": "https://spidermedia.ru/blog/plane-v/ne-chitayte-pered-obedom-sovetskih-gazet",
   "archived": "https://web.archive.org/web/20251006135141/https://spidermedia.ru/blog/plane-v/ne-chitayte-pered-obedom-sovetskih-gazet",
+  "tags": [
+    "mark-millar",
+    "ilya-stogov",
+    "alan-mur"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

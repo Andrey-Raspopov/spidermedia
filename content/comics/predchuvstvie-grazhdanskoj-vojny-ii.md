@@ -4,6 +4,10 @@
   "url": "/comics/predchuvstvie-grazhdanskoj-vojny-ii/",
   "original_url": "http://spidermedia.ru/comics/predchuvstvie-grazhdanskoj-vojny-ii",
   "archived": "https://web.archive.org/web/20250419045013/http://spidermedia.ru/comics/predchuvstvie-grazhdanskoj-vojny-ii",
+  "tags": [
+    "marvel",
+    "civil-war"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

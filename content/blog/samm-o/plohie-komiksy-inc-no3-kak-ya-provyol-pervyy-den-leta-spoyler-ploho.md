@@ -4,6 +4,11 @@
   "url": "/blog/samm-o/plohie-komiksy-inc-no3-kak-ya-provyol-pervyy-den-leta-spoyler-ploho/",
   "original_url": "http://spidermedia.ru/blog/samm-o/plohie-komiksy-inc-no3-kak-ya-provyol-pervyy-den-leta-spoyler-ploho",
   "archived": "https://web.archive.org/web/20120610054212/http://spidermedia.ru/blog/samm-o/plohie-komiksy-inc-no3-kak-ya-provyol-pervyy-den-leta-spoyler-ploho",
+  "tags": [
+    "komiksy",
+    "marvel",
+    "plohie-komiksy-inc"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

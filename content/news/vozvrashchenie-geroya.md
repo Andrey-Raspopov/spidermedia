@@ -4,6 +4,10 @@
   "url": "/news/vozvrashchenie-geroya/",
   "original_url": "http://spidermedia.ru/news/vozvrashchenie-geroya",
   "archived": "https://web.archive.org/web/20181112153022/http://spidermedia.ru:80/news/vozvrashchenie-geroya",
+  "tags": [
+    "recenziya",
+    "geroi"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

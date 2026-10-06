@@ -4,6 +4,13 @@
   "url": "/tv/sdcc-2015-tv-dajdzhest-flesh-strela-i-supergerl/",
   "original_url": "https://spidermedia.ru/tv/sdcc-2015-tv-dajdzhest-flesh-strela-i-supergerl",
   "archived": "https://web.archive.org/web/20250620062848/https://spidermedia.ru/tv/sdcc-2015-tv-dajdzhest-flesh-strela-i-supergerl",
+  "tags": [
+    "dc-comics",
+    "san-diego-comic-con-international",
+    "green-arrow",
+    "the-flash",
+    "supergirl"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

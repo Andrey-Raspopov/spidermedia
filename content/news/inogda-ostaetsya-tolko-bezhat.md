@@ -4,6 +4,12 @@
   "url": "/news/inogda-ostaetsya-tolko-bezhat/",
   "original_url": "https://spidermedia.ru/news/inogda-ostaetsya-tolko-bezhat",
   "archived": "https://web.archive.org/web/20251006145758/https://spidermedia.ru/news/inogda-ostaetsya-tolko-bezhat",
+  "tags": [
+    "mett-styurdzhes",
+    "human-flame",
+    "final-crisis",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

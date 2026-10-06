@@ -4,6 +4,9 @@
   "url": "/podcast/spider-talk-07-eisner-king-i-hamilton/",
   "original_url": "http://spidermedia.ru/podcast/spider-talk-07-eisner-king-i-hamilton",
   "archived": "https://web.archive.org/web/20251206153950/http://spidermedia.ru/podcast/spider-talk-07-eisner-king-i-hamilton",
+  "tags": [
+    "spider-talk"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

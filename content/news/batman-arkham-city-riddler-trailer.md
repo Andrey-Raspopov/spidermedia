@@ -4,6 +4,13 @@
   "url": "/news/batman-arkham-city-riddler-trailer/",
   "original_url": "https://spidermedia.ru/news/batman-arkham-city-riddler-trailer",
   "archived": "https://web.archive.org/web/20260211185416/https://spidermedia.ru/news/batman-arkham-city-riddler-trailer",
+  "tags": [
+    "trejlery",
+    "igry",
+    "dc-comics",
+    "batman",
+    "arkham-asylum"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

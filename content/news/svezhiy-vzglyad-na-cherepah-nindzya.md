@@ -4,6 +4,10 @@
   "url": "/news/svezhiy-vzglyad-na-cherepah-nindzya/",
   "original_url": "http://spidermedia.ru/news/svezhiy-vzglyad-na-cherepah-nindzya",
   "archived": "https://web.archive.org/web/20191229110844/http://spidermedia.ru:80/news/svezhiy-vzglyad-na-cherepah-nindzya",
+  "tags": [
+    "ninja-turtles",
+    "mirage-studios"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

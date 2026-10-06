@@ -4,6 +4,11 @@
   "url": "/news/oficialno-maykl-duglas-sygraet-v-cheloveke-murave/",
   "original_url": "http://spidermedia.ru/news/oficialno-maykl-duglas-sygraet-v-cheloveke-murave",
   "archived": "https://web.archive.org/web/20230128190306/http://spidermedia.ru/news/oficialno-maykl-duglas-sygraet-v-cheloveke-murave",
+  "tags": [
+    "edgar-rajt",
+    "ant-man",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

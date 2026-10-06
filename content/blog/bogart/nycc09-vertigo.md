@@ -4,6 +4,26 @@
   "url": "/blog/bogart/nycc09-vertigo/",
   "original_url": "https://spidermedia.ru/blog/bogart/nycc09-vertigo",
   "archived": "https://web.archive.org/web/20260215084002/https://spidermedia.ru/blog/bogart/nycc09-vertigo",
+  "tags": [
+    "fabio-mun",
+    "peter-milligan",
+    "piter-gross",
+    "nil-adams",
+    "niki-kuk",
+    "majk-keri",
+    "majk-kaluta",
+    "kollin-doran",
+    "dejv-dzhonson",
+    "din-haspiel",
+    "dzheyson-aaron",
+    "derek-makkallok",
+    "gabriel-ba",
+    "brian-wood",
+    "bill-uillingem",
+    "avtory",
+    "vertigo",
+    "nycc-2009"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

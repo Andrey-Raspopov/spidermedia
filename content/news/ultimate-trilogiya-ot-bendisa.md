@@ -4,6 +4,12 @@
   "url": "/news/ultimate-trilogiya-ot-bendisa/",
   "original_url": "https://spidermedia.ru/news/ultimate-trilogiya-ot-bendisa",
   "archived": "https://web.archive.org/web/20260206222733/https://spidermedia.ru/news/ultimate-trilogiya-ot-bendisa",
+  "tags": [
+    "rafa-sendoval",
+    "ultimate",
+    "rafael-sandoval",
+    "brian-michael-bendis"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

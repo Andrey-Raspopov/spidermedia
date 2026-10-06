@@ -4,6 +4,13 @@
   "url": "/news/osobo-opasny/",
   "original_url": "http://spidermedia.ru/news/osobo-opasny",
   "archived": "https://web.archive.org/web/20251205122057/http://spidermedia.ru/news/osobo-opasny",
+  "tags": [
+    "dennis-houpless",
+    "salvador-larroka",
+    "ron-garni",
+    "sem-hampris",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

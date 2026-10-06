@@ -4,6 +4,10 @@
   "url": "/tv/the-flash-new-developments/",
   "original_url": "https://spidermedia.ru/tv/the-flash-new-developments",
   "archived": "https://web.archive.org/web/20260116215620/https://spidermedia.ru/tv/the-flash-new-developments",
+  "tags": [
+    "dc-comics",
+    "the-flash"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

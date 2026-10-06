@@ -4,6 +4,17 @@
   "url": "/news/vzryvnoy-sten/",
   "original_url": "https://spidermedia.ru/news/vzryvnoy-sten",
   "archived": "https://web.archive.org/web/20240624142939/https://spidermedia.ru/news/vzryvnoy-sten",
+  "tags": [
+    "sten-li",
+    "pol-kornell",
+    "mark-waid",
+    "kris-roberson",
+    "san-diego-comic-con-international",
+    "the-traveler",
+    "starborn",
+    "soldier-zero",
+    "boom-studios"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

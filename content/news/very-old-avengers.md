@@ -4,6 +4,13 @@
   "url": "/news/very-old-avengers/",
   "original_url": "http://spidermedia.ru/news/very-old-avengers",
   "archived": "https://web.archive.org/web/20200224084235/http://spidermedia.ru:80/news/very-old-avengers",
+  "tags": [
+    "govard-chajkin",
+    "avengers",
+    "nik-fyuri",
+    "nick-fury",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

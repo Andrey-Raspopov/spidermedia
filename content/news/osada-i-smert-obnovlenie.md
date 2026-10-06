@@ -4,6 +4,19 @@
   "url": "/news/osada-i-smert-obnovlenie/",
   "original_url": "http://spidermedia.ru/news/osada-i-smert-obnovlenie",
   "archived": "https://web.archive.org/web/20251205124943/http://spidermedia.ru/news/osada-i-smert-obnovlenie",
+  "tags": [
+    "era-geroev",
+    "sluhi",
+    "preview",
+    "osada",
+    "loki",
+    "thor",
+    "siege",
+    "marvel",
+    "iron-man",
+    "heroic-age",
+    "captain-america"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

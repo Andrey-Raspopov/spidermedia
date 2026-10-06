@@ -4,6 +4,14 @@
   "url": "/blog/drgonzobear/panteon-yubiley-i-nemnogo-mifologii/",
   "original_url": "http://spidermedia.ru/blog/drgonzobear/panteon-yubiley-i-nemnogo-mifologii",
   "archived": "https://web.archive.org/web/20210118144249/http://spidermedia.ru/blog/drgonzobear/panteon-yubiley-i-nemnogo-mifologii",
+  "tags": [
+    "miscreant",
+    "kult-dvulichiya",
+    "russian-comics",
+    "religioznaya-satira",
+    "stimpank",
+    "boevik"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

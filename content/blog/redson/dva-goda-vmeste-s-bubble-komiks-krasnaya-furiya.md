@@ -4,6 +4,10 @@
   "url": "/blog/redson/dva-goda-vmeste-s-bubble-komiks-krasnaya-furiya/",
   "original_url": "http://spidermedia.ru/blog/redson/dva-goda-vmeste-s-bubble-komiks-krasnaya-furiya",
   "archived": "https://web.archive.org/web/20260313121059/http://spidermedia.ru/blog/redson/dva-goda-vmeste-s-bubble-komiks-krasnaya-furiya",
+  "tags": [
+    "bubble",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

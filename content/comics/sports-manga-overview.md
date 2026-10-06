@@ -4,6 +4,9 @@
   "url": "/comics/sports-manga-overview/",
   "original_url": "https://spidermedia.ru/comics/sports-manga-overview",
   "archived": "https://web.archive.org/web/20251206162232/https://spidermedia.ru/comics/sports-manga-overview",
+  "tags": [
+    "manga"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/comics/legend-of-korra-comics/",
   "original_url": "https://spidermedia.ru/comics/legend-of-korra-comics",
   "archived": "https://web.archive.org/web/20250424093150/https://spidermedia.ru/comics/legend-of-korra-comics",
+  "tags": [
+    "dark-horse",
+    "san-diego-comic-con-international"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,13 @@
   "url": "/news/joining-d-list/",
   "original_url": "http://spidermedia.ru/news/joining-d-list",
   "archived": "https://web.archive.org/web/20250906072731/http://spidermedia.ru/news/joining-d-list",
+  "tags": [
+    "toni-mur",
+    "deadpool",
+    "dzherri-duggan",
+    "brajan-posejn",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/blog/el-qwanto/novyy-vid-peara/",
   "original_url": "https://spidermedia.ru/blog/el-qwanto/novyy-vid-peara",
   "archived": "https://web.archive.org/web/20240518194225/https://spidermedia.ru/blog/el-qwanto/novyy-vid-peara",
+  "tags": [
+    "yumor",
+    "dzhim-belent",
+    "nycc-2009"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

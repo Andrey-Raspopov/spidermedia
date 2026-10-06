@@ -4,6 +4,9 @@
   "url": "/comics/nominanty-premii-ajznera-2015/",
   "original_url": "http://spidermedia.ru/comics/nominanty-premii-ajznera-2015",
   "archived": "https://web.archive.org/web/20191228200725/http://spidermedia.ru:80/comics/nominanty-premii-ajznera-2015",
+  "tags": [
+    "eisner-awards"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

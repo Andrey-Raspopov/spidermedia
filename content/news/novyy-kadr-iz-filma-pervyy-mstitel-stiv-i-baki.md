@@ -4,6 +4,9 @@
   "url": "/news/novyy-kadr-iz-filma-pervyy-mstitel-stiv-i-baki/",
   "original_url": "http://spidermedia.ru/news/novyy-kadr-iz-filma-pervyy-mstitel-stiv-i-baki",
   "archived": "https://web.archive.org/web/20231001053104/http://spidermedia.ru/news/novyy-kadr-iz-filma-pervyy-mstitel-stiv-i-baki",
+  "tags": [
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

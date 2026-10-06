@@ -4,6 +4,12 @@
   "url": "/news/sdcc10-dzhoss-uidon-o-filme-mstiteli/",
   "original_url": "http://spidermedia.ru/news/sdcc10-dzhoss-uidon-o-filme-mstiteli",
   "archived": "https://web.archive.org/web/20260121013607/http://spidermedia.ru/news/sdcc10-dzhoss-uidon-o-filme-mstiteli",
+  "tags": [
+    "san-diego-comic-con-international",
+    "marvel",
+    "joss-whedon",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

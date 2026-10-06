@@ -4,6 +4,9 @@
   "url": "/games/best-of-2017-games/",
   "original_url": "https://spidermedia.ru/games/best-of-2017-games",
   "archived": "https://web.archive.org/web/20241104070750/https://spidermedia.ru/games/best-of-2017-games",
+  "tags": [
+    "itogi-goda"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

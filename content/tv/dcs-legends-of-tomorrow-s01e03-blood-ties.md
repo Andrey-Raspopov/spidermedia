@@ -4,6 +4,9 @@
   "url": "/tv/dcs-legends-of-tomorrow-s01e03-blood-ties/",
   "original_url": "https://spidermedia.ru/tv/dcs-legends-of-tomorrow-s01e03-blood-ties",
   "archived": "https://web.archive.org/web/20250806045448/https://spidermedia.ru/tv/dcs-legends-of-tomorrow-s01e03-blood-ties",
+  "tags": [
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

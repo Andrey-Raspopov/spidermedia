@@ -4,6 +4,12 @@
   "url": "/blog/plane-v/vstrechaem-po-oblozhke/",
   "original_url": "http://spidermedia.ru/blog/plane-v/vstrechaem-po-oblozhke",
   "archived": "https://web.archive.org/web/20230323045500/http://spidermedia.ru/blog/plane-v/vstrechaem-po-oblozhke",
+  "tags": [
+    "dejv-dzhonson",
+    "dzhok",
+    "marvel",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

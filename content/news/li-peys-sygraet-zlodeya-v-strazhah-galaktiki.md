@@ -4,6 +4,10 @@
   "url": "/news/li-peys-sygraet-zlodeya-v-strazhah-galaktiki/",
   "original_url": "http://spidermedia.ru/news/li-peys-sygraet-zlodeya-v-strazhah-galaktiki",
   "archived": "https://web.archive.org/web/20240807182117/http://spidermedia.ru/news/li-peys-sygraet-zlodeya-v-strazhah-galaktiki",
+  "tags": [
+    "guardians-of-the-galaxy",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

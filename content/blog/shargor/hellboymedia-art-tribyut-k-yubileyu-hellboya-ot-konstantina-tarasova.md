@@ -4,6 +4,11 @@
   "url": "/blog/shargor/hellboymedia-art-tribyut-k-yubileyu-hellboya-ot-konstantina-tarasova/",
   "original_url": "http://spidermedia.ru/blog/shargor/hellboymedia-art-tribyut-k-yubileyu-hellboya-ot-konstantina-tarasova",
   "archived": "https://web.archive.org/web/20260312010637/http://spidermedia.ru/blog/shargor/hellboymedia-art-tribyut-k-yubileyu-hellboya-ot-konstantina-tarasova",
+  "tags": [
+    "art-tribyut",
+    "hellboymedia",
+    "20-let-hellboya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

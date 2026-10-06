@@ -4,6 +4,10 @@
   "url": "/comics/x-o-manowar-vol-1-review/",
   "original_url": "https://spidermedia.ru/comics/x-o-manowar-vol-1-review",
   "archived": "https://web.archive.org/web/20260115045504/https://spidermedia.ru/comics/x-o-manowar-vol-1-review",
+  "tags": [
+    "valiant-entertainment",
+    "sokol"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

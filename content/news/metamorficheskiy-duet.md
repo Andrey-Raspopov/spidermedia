@@ -4,6 +4,11 @@
   "url": "/news/metamorficheskiy-duet/",
   "original_url": "https://spidermedia.ru/news/metamorficheskiy-duet",
   "archived": "https://web.archive.org/web/20260309191411/https://spidermedia.ru/news/metamorficheskiy-duet",
+  "tags": [
+    "dc-comics",
+    "neil-gaiman",
+    "majk-ollred"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

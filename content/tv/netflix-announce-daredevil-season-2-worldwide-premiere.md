@@ -4,6 +4,10 @@
   "url": "/tv/netflix-announce-daredevil-season-2-worldwide-premiere/",
   "original_url": "http://spidermedia.ru/tv/netflix-announce-daredevil-season-2-worldwide-premiere",
   "archived": "https://web.archive.org/web/20250324060029/http://spidermedia.ru/tv/netflix-announce-daredevil-season-2-worldwide-premiere",
+  "tags": [
+    "marvel",
+    "daredevil"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

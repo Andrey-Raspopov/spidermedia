@@ -4,6 +4,12 @@
   "url": "/news/prevyu-azrael-deaths-dark-knight-1/",
   "original_url": "http://spidermedia.ru/news/prevyu-azrael-deaths-dark-knight-1",
   "archived": "https://web.archive.org/web/20260214130348/http://spidermedia.ru/news/prevyu-azrael-deaths-dark-knight-1",
+  "tags": [
+    "fabian-nicieza",
+    "azrail",
+    "dc-comics",
+    "azrael"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/blog/zipop/stan-zheleznym-chelovekom/",
   "original_url": "http://spidermedia.ru/blog/zipop/stan-zheleznym-chelovekom",
   "archived": "https://web.archive.org/web/20250913005501/http://spidermedia.ru/blog/zipop/stan-zheleznym-chelovekom",
+  "tags": [
+    "iron-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

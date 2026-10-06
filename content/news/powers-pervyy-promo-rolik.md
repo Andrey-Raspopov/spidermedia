@@ -4,6 +4,12 @@
   "url": "/news/powers-pervyy-promo-rolik/",
   "original_url": "http://spidermedia.ru/news/powers-pervyy-promo-rolik",
   "archived": "https://web.archive.org/web/20251117002846/http://spidermedia.ru/news/powers-pervyy-promo-rolik",
+  "tags": [
+    "serialy",
+    "majkl-ejvon-oeming",
+    "brian-michael-bendis",
+    "powers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

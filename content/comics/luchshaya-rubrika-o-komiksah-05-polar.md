@@ -4,6 +4,10 @@
   "url": "/comics/luchshaya-rubrika-o-komiksah-05-polar/",
   "original_url": "http://spidermedia.ru/comics/luchshaya-rubrika-o-komiksah-05-polar",
   "archived": "https://web.archive.org/web/20251208073446/http://spidermedia.ru/comics/luchshaya-rubrika-o-komiksah-05-polar",
+  "tags": [
+    "best-column-about-comics",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

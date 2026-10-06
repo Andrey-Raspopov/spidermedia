@@ -4,6 +4,9 @@
   "url": "/news/and-its-so-easy-when-youre-evil/",
   "original_url": "http://spidermedia.ru/news/and-its-so-easy-when-youre-evil",
   "archived": "https://web.archive.org/web/20170715123905/http://spidermedia.ru:80/news/and-its-so-easy-when-youre-evil",
+  "tags": [
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

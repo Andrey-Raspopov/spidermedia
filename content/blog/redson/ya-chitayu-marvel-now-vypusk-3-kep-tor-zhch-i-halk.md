@@ -4,6 +4,18 @@
   "url": "/blog/redson/ya-chitayu-marvel-now-vypusk-3-kep-tor-zhch-i-halk/",
   "original_url": "http://spidermedia.ru/blog/redson/ya-chitayu-marvel-now-vypusk-3-kep-tor-zhch-i-halk",
   "archived": "https://web.archive.org/web/20260120160133/http://spidermedia.ru/blog/redson/ya-chitayu-marvel-now-vypusk-3-kep-tor-zhch-i-halk",
+  "tags": [
+    "hulk",
+    "thor",
+    "rik-remender",
+    "mnenie",
+    "mark-waid",
+    "kiron-gillen",
+    "captain-america",
+    "iron-man",
+    "dzheyson-aaron",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

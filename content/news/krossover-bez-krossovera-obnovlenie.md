@@ -4,6 +4,12 @@
   "url": "/news/krossover-bez-krossovera-obnovlenie/",
   "original_url": "http://spidermedia.ru/news/krossover-bez-krossovera-obnovlenie",
   "archived": "https://web.archive.org/web/20260208201020/http://spidermedia.ru/news/krossover-bez-krossovera-obnovlenie",
+  "tags": [
+    "dzheff-parker",
+    "thunderbolts",
+    "marvel",
+    "agenty-atlasa"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

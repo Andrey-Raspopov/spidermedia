@@ -4,6 +4,15 @@
   "url": "/news/novyy-tizer-600-nomera-kapitana-ameriki/",
   "original_url": "http://spidermedia.ru/news/novyy-tizer-600-nomera-kapitana-ameriki",
   "archived": "https://web.archive.org/web/20120608044715/http://spidermedia.ru/news/novyy-tizer-600-nomera-kapitana-ameriki",
+  "tags": [
+    "bucky",
+    "captain-america",
+    "rikki-barnes",
+    "bakki",
+    "kapitan-amerika",
+    "rikki-barns",
+    "ed-brubeyker"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

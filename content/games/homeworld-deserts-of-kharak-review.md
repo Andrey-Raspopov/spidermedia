@@ -4,6 +4,9 @@
   "url": "/games/homeworld-deserts-of-kharak-review/",
   "original_url": "https://spidermedia.ru/games/homeworld-deserts-of-kharak-review",
   "archived": "https://web.archive.org/web/20250322062323/https://spidermedia.ru/games/homeworld-deserts-of-kharak-review",
+  "tags": [
+    "recenziya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

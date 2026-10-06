@@ -4,6 +4,11 @@
   "url": "/news/flesh-4-2/",
   "original_url": "http://spidermedia.ru/news/flesh-4-2",
   "archived": "https://web.archive.org/web/20241106112159/http://spidermedia.ru/news/flesh-4-2",
+  "tags": [
+    "dc-comics",
+    "the-flash",
+    "ethan-van-sciver"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

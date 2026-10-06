@@ -4,6 +4,20 @@
   "url": "/blog/alex/rukovodstvo-k-temneyshey-nochi-chast-sedmaya-golubye-fonari-agent-orandzh-plemya-indigo-i/",
   "original_url": "https://spidermedia.ru/blog/alex/rukovodstvo-k-temneyshey-nochi-chast-sedmaya-golubye-fonari-agent-orandzh-plemya-indigo-i",
   "archived": "https://web.archive.org/web/20251115190935/https://spidermedia.ru/blog/alex/rukovodstvo-k-temneyshey-nochi-chast-sedmaya-golubye-fonari-agent-orandzh-plemya-indigo-i",
+  "tags": [
+    "chernye-fonari",
+    "chernaya-ruka",
+    "temnejshaya-noch",
+    "obzor",
+    "larfliz",
+    "klan-indigo",
+    "golubye-fonari",
+    "larfleeze",
+    "indigo-tribe",
+    "green-lantern",
+    "dc-comics",
+    "blackest-night"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

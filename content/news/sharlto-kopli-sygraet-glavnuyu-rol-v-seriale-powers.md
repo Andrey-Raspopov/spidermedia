@@ -4,6 +4,12 @@
   "url": "/news/sharlto-kopli-sygraet-glavnuyu-rol-v-seriale-powers/",
   "original_url": "http://spidermedia.ru/news/sharlto-kopli-sygraet-glavnuyu-rol-v-seriale-powers",
   "archived": "https://web.archive.org/web/20250814215701/http://spidermedia.ru/news/sharlto-kopli-sygraet-glavnuyu-rol-v-seriale-powers",
+  "tags": [
+    "majkl-ejvon-oeming",
+    "kasting",
+    "brian-michael-bendis",
+    "powers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/blog/gess/precious-little-review/",
   "original_url": "http://spidermedia.ru/blog/gess/precious-little-review",
   "archived": "https://web.archive.org/web/20190806220657/http://spidermedia.ru:80/blog/gess/precious-little-review",
+  "tags": [
+    "scott-pilgrim"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

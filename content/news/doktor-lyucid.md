@@ -4,6 +4,11 @@
   "url": "/news/doktor-lyucid/",
   "original_url": "https://spidermedia.ru/news/doktor-lyucid",
   "archived": "https://web.archive.org/web/20260215083638/https://spidermedia.ru/news/doktor-lyucid",
+  "tags": [
+    "russian-comics",
+    "doktor-lyucid",
+    "old-komix"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

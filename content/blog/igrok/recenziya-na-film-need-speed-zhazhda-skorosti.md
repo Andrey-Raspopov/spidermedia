@@ -4,6 +4,9 @@
   "url": "/blog/igrok/recenziya-na-film-need-speed-zhazhda-skorosti/",
   "original_url": "http://spidermedia.ru/blog/igrok/recenziya-na-film-need-speed-zhazhda-skorosti",
   "archived": "https://web.archive.org/web/20200127174629/http://spidermedia.ru:80/blog/igrok/recenziya-na-film-need-speed-zhazhda-skorosti",
+  "tags": [
+    "recenziya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

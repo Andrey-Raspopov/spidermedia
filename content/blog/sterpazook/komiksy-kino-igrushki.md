@@ -4,6 +4,12 @@
   "url": "/blog/sterpazook/komiksy-kino-igrushki/",
   "original_url": "https://spidermedia.ru/blog/sterpazook/komiksy-kino-igrushki",
   "archived": "https://web.archive.org/web/20250321093424/https://spidermedia.ru/blog/sterpazook/komiksy-kino-igrushki",
+  "tags": [
+    "iron-man",
+    "gi-joe",
+    "wolverine",
+    "transformers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

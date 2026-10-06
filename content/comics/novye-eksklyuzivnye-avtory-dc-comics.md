@@ -4,6 +4,9 @@
   "url": "/comics/novye-eksklyuzivnye-avtory-dc-comics/",
   "original_url": "https://spidermedia.ru/comics/novye-eksklyuzivnye-avtory-dc-comics",
   "archived": "https://web.archive.org/web/20210117003350/https://spidermedia.ru/comics/novye-eksklyuzivnye-avtory-dc-comics",
+  "tags": [
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

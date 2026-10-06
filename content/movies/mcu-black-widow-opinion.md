@@ -4,6 +4,10 @@
   "url": "/movies/mcu-black-widow-opinion/",
   "original_url": "https://spidermedia.ru/movies/mcu-black-widow-opinion",
   "archived": "https://web.archive.org/web/20260206214235/https://spidermedia.ru/movies/mcu-black-widow-opinion",
+  "tags": [
+    "marvel",
+    "black-widow"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

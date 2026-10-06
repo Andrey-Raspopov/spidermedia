@@ -4,6 +4,15 @@
   "url": "/news/horoshego-cheloveka-dolzhno-byt-mnogo/",
   "original_url": "http://spidermedia.ru/news/horoshego-cheloveka-dolzhno-byt-mnogo",
   "archived": "https://web.archive.org/web/20251207001056/http://spidermedia.ru/news/horoshego-cheloveka-dolzhno-byt-mnogo",
+  "tags": [
+    "hel-dzhordan",
+    "figurki",
+    "konvencii",
+    "san-diego-comic-con-2009",
+    "hal-jordan",
+    "green-lantern",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

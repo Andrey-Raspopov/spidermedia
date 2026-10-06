@@ -4,6 +4,16 @@
   "url": "/news/ognennyy-sentyabr/",
   "original_url": "http://spidermedia.ru/news/ognennyy-sentyabr",
   "archived": "https://web.archive.org/web/20260208195010/http://spidermedia.ru/news/ognennyy-sentyabr",
+  "tags": [
+    "marvel",
+    "human-torch",
+    "majk-keri",
+    "art-0",
+    "alex-ross",
+    "doktor-nemezis",
+    "chelovek-fakel",
+    "patrik-berkenkotter"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

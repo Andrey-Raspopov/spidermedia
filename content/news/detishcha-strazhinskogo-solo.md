@@ -4,6 +4,25 @@
   "url": "/news/detishcha-strazhinskogo-solo/",
   "original_url": "http://spidermedia.ru/news/detishcha-strazhinskogo-solo",
   "archived": "https://web.archive.org/web/20190924050336/http://spidermedia.ru:80/news/detishcha-strazhinskogo-solo",
+  "tags": [
+    "dc-comics",
+    "art-0",
+    "erik-trautman",
+    "bill-sinkevich",
+    "greg-skott",
+    "rodzher-robinson",
+    "hilari-bart",
+    "inferno",
+    "shhit",
+    "pautina",
+    "web",
+    "shield",
+    "hangman",
+    "frensis-manapul",
+    "mik-grej",
+    "brendon-dzhyorva",
+    "marko-rudi"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

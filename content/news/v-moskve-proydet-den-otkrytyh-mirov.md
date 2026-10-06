@@ -4,6 +4,11 @@
   "url": "/news/v-moskve-proydet-den-otkrytyh-mirov/",
   "original_url": "http://spidermedia.ru/news/v-moskve-proydet-den-otkrytyh-mirov",
   "archived": "https://web.archive.org/web/20251115181826/http://spidermedia.ru/news/v-moskve-proydet-den-otkrytyh-mirov",
+  "tags": [
+    "festival",
+    "russian-comics",
+    "kommissiya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/blog/oleg89/buy-book-or/",
   "original_url": "http://spidermedia.ru/blog/oleg89/buy-book-or",
   "archived": "https://web.archive.org/web/20251205120326/http://spidermedia.ru/blog/oleg89/buy-book-or",
+  "tags": [
+    "marvel",
+    "star-trek"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

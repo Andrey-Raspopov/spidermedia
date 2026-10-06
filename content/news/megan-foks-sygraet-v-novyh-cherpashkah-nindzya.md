@@ -4,6 +4,10 @@
   "url": "/news/megan-foks-sygraet-v-novyh-cherpashkah-nindzya/",
   "original_url": "http://spidermedia.ru/news/megan-foks-sygraet-v-novyh-cherpashkah-nindzya",
   "archived": "https://web.archive.org/web/20251018234224/http://spidermedia.ru/news/megan-foks-sygraet-v-novyh-cherpashkah-nindzya",
+  "tags": [
+    "ninja-turtles",
+    "mirage-studios"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

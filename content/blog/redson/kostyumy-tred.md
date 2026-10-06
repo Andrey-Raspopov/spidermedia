@@ -4,6 +4,10 @@
   "url": "/blog/redson/kostyumy-tred/",
   "original_url": "http://spidermedia.ru/blog/redson/kostyumy-tred",
   "archived": "https://web.archive.org/web/20200130013754/http://spidermedia.ru:80/blog/redson/kostyumy-tred",
+  "tags": [
+    "kostyumy",
+    "art-0"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

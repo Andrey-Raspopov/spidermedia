@@ -4,6 +4,15 @@
   "url": "/news/shot-through-hard/",
   "original_url": "https://spidermedia.ru/news/shot-through-hard",
   "archived": "https://web.archive.org/web/20260125063358/https://spidermedia.ru/news/shot-through-hard",
+  "tags": [
+    "emanuela-lupakchino",
+    "mett-kindt",
+    "kristos-gejdzh",
+    "krisskross",
+    "joshua-dysart",
+    "bladshot",
+    "valiant-entertainment"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

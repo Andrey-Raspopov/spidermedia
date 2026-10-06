@@ -4,6 +4,11 @@
   "url": "/news/its-me-and-my-bitches/",
   "original_url": "http://spidermedia.ru/news/its-me-and-my-bitches",
   "archived": "https://web.archive.org/web/20241213211759/http://spidermedia.ru/news/its-me-and-my-bitches",
+  "tags": [
+    "deadpool",
+    "siege",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

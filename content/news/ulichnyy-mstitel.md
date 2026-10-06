@@ -4,6 +4,12 @@
   "url": "/news/ulichnyy-mstitel/",
   "original_url": "https://spidermedia.ru/news/ulichnyy-mstitel",
   "archived": "https://web.archive.org/web/20260209105801/https://spidermedia.ru/news/ulichnyy-mstitel",
+  "tags": [
+    "matt-fraction",
+    "devid-aha",
+    "marvel",
+    "hawkeye"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/comics/get-ready-for-doomsday-clock/",
   "original_url": "http://spidermedia.ru/comics/get-ready-for-doomsday-clock",
   "archived": "https://web.archive.org/web/20260313104706/http://spidermedia.ru/comics/get-ready-for-doomsday-clock",
+  "tags": [
+    "dc-comics",
+    "geoff-johns",
+    "hronologiya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

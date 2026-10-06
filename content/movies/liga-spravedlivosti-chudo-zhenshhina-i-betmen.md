@@ -4,6 +4,17 @@
   "url": "/movies/liga-spravedlivosti-chudo-zhenshhina-i-betmen/",
   "original_url": "https://spidermedia.ru/movies/liga-spravedlivosti-chudo-zhenshhina-i-betmen",
   "archived": "https://web.archive.org/web/20260208210544/https://spidermedia.ru/movies/liga-spravedlivosti-chudo-zhenshhina-i-betmen",
+  "tags": [
+    "aquaman",
+    "batman",
+    "green-lantern",
+    "cyborg",
+    "justice-league",
+    "superman",
+    "the-flash",
+    "wonder-woman",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

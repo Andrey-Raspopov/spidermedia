@@ -4,6 +4,11 @@
   "url": "/blog/sir-carnage/column-no-name-3-02-10-you-cant-undo-internet-frank/",
   "original_url": "http://spidermedia.ru/blog/sir-carnage/column-no-name-3-02-10-you-cant-undo-internet-frank",
   "archived": "https://web.archive.org/web/20200130013519/http://spidermedia.ru:80/blog/sir-carnage/column-no-name-3-02-10-you-cant-undo-internet-frank",
+  "tags": [
+    "marvel",
+    "dc-comics",
+    "the-column-with-no-name"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

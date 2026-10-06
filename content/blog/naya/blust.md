@@ -4,6 +4,13 @@
   "url": "/blog/naya/blust/",
   "original_url": "http://spidermedia.ru/blog/naya/blust",
   "archived": "https://web.archive.org/web/20120607125404/http://spidermedia.ru/blog/naya/blust",
+  "tags": [
+    "comedy",
+    "manga",
+    "one-shot",
+    "skachat",
+    "action-0"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

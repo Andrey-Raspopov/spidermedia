@@ -4,11 +4,17 @@
   "url": "/blog/redson/all-new-mzhdz-undertow-0/",
   "original_url": "https://spidermedia.ru/blog/redson/all-new-mzhdz-undertow-0",
   "archived": "https://web.archive.org/web/20260307071325/https://spidermedia.ru/blog/redson/all-new-mzhdz-undertow-0",
+  "tags": [
+    "mnenie",
+    "mzhdz",
+    "artem-trahanov",
+    "image-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](https://web.archive.org/web/20260307071325im_/http://i.imgur.com/4BmTmOM.jpg)](https://web.archive.org/web/20260206215846/http://spidermedia.ru/tags/mzhdz)
+[![](https://web.archive.org/web/20260307071325im_/http://i.imgur.com/4BmTmOM.jpg)](../../../tags/mzhdz/)
 Завершилась первая мини-серия из цикла **Undertow** от **Стива Орландо** и **Артема Траханова**. Естественно, мы не смогли обойти это событие стороной и подготовили, пожалуй, самый масштабный спецвыпуск в истории МЖДЗ: своими мнениями по поводу комикса решили поделиться сразу 6 человек, причем для одного из них это стал дебют на нашем сайте. В чем-то мы сошлись, в чем-то друг с другом категорически не согласны. Но всем есть, что сказать.
 Особую благодарность хочется выразить самому художнику Ubndertow и восходящей звезде американской индустрии Артему Траханову, который любезно согласился нарисовать с**вою версию логотипа МЖДЗ** специально для этого поста! Спасибо, Артем! Мы продолжим тебя хвалить, критиковать и покупать твои комиксы. Главное, рисуй!
 [**Расшифровка системы оценок**](../mzhdz-odin-vy-kak-hotite-ya-kak-hochu/)

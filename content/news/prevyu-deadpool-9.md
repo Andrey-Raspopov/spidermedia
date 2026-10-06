@@ -4,6 +4,14 @@
   "url": "/news/prevyu-deadpool-9/",
   "original_url": "https://spidermedia.ru/news/prevyu-deadpool-9",
   "archived": "https://web.archive.org/web/20230323052434/https://spidermedia.ru/news/prevyu-deadpool-9",
+  "tags": [
+    "marvel",
+    "thunderbolts",
+    "preview",
+    "deadpool",
+    "taskmaster",
+    "deniel-vej"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

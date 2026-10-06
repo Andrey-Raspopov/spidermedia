@@ -4,6 +4,15 @@
   "url": "/blog/baka-chan/novaya-porciya-nochnyh-tayn-inov/",
   "original_url": "http://spidermedia.ru/blog/baka-chan/novaya-porciya-nochnyh-tayn-inov",
   "archived": "https://web.archive.org/web/20260308235047/http://spidermedia.ru/blog/baka-chan/novaya-porciya-nochnyh-tayn-inov",
+  "tags": [
+    "shazam",
+    "question",
+    "phantom-stranger",
+    "green-lantern",
+    "dc-comics",
+    "blackest-night",
+    "geoff-johns"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

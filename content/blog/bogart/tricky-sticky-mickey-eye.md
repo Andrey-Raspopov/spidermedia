@@ -4,6 +4,11 @@
   "url": "/blog/bogart/tricky-sticky-mickey-eye/",
   "original_url": "http://spidermedia.ru/blog/bogart/tricky-sticky-mickey-eye",
   "archived": "https://web.archive.org/web/20251216182152/http://spidermedia.ru/blog/bogart/tricky-sticky-mickey-eye",
+  "tags": [
+    "grant-morrison",
+    "vertigo",
+    "kemeron-styuart"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

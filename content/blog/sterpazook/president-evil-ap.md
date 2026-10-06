@@ -4,6 +4,15 @@
   "url": "/blog/sterpazook/president-evil-ap/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/president-evil-ap",
   "archived": "https://web.archive.org/web/20120607103515/http://spidermedia.ru/blog/sterpazook/president-evil-ap",
+  "tags": [
+    "antarctic-press",
+    "obama",
+    "president-evil",
+    "zombie",
+    "zombi",
+    "komiksy",
+    "politika"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/blog/alex/geroi-heroes-s3-ep22-25/",
   "original_url": "http://spidermedia.ru/blog/alex/geroi-heroes-s3-ep22-25",
   "archived": "https://web.archive.org/web/20150507123053/http://spidermedia.ru/blog/alex/geroi-heroes-s3-ep22-25",
+  "tags": [
+    "heroes",
+    "serialy",
+    "geroi"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

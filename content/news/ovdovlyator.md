@@ -4,6 +4,16 @@
   "url": "/news/ovdovlyator/",
   "original_url": "https://spidermedia.ru/news/ovdovlyator",
   "archived": "https://web.archive.org/web/20251211032456/https://spidermedia.ru/news/ovdovlyator",
+  "tags": [
+    "black-widow",
+    "ronin",
+    "peresmeshnica",
+    "duejn-sverchinski",
+    "dzhim-makkenn",
+    "mockingbird",
+    "marvel",
+    "hawkeye"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

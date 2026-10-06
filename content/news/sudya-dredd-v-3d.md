@@ -4,6 +4,10 @@
   "url": "/news/sudya-dredd-v-3d/",
   "original_url": "http://spidermedia.ru/news/sudya-dredd-v-3d",
   "archived": "https://web.archive.org/web/20260313114712/http://spidermedia.ru/news/sudya-dredd-v-3d",
+  "tags": [
+    "judge-dredd",
+    "2000-ad"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

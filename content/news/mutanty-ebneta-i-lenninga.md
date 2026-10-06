@@ -4,6 +4,14 @@
   "url": "/news/mutanty-ebneta-i-lenninga/",
   "original_url": "https://spidermedia.ru/news/mutanty-ebneta-i-lenninga",
   "archived": "https://web.archive.org/web/20251207010741/https://spidermedia.ru/news/mutanty-ebneta-i-lenninga",
+  "tags": [
+    "endi-lenning",
+    "marko-dzhurdzhevich",
+    "den-ebnett",
+    "marvel",
+    "x-men",
+    "new-mutants"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

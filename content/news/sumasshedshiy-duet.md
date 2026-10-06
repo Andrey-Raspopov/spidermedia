@@ -4,6 +4,12 @@
   "url": "/news/sumasshedshiy-duet/",
   "original_url": "http://spidermedia.ru/news/sumasshedshiy-duet",
   "archived": "https://web.archive.org/web/20170718154524/http://spidermedia.ru:80/news/sumasshedshiy-duet",
+  "tags": [
+    "todd-makfarlejn",
+    "robert-kirkman",
+    "image-comics",
+    "haunt"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/blog/redson/chto-stoit-zhdat-3-marta-2010-goda/",
   "original_url": "http://spidermedia.ru/blog/redson/chto-stoit-zhdat-3-marta-2010-goda",
   "archived": "https://web.archive.org/web/20190630070325/http://spidermedia.ru:80/blog/redson/chto-stoit-zhdat-3-marta-2010-goda",
+  "tags": [
+    "chto-stoit-zhdat",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

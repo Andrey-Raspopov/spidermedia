@@ -4,6 +4,10 @@
   "url": "/news/punisher-kills-marvel-universe-again/",
   "original_url": "http://spidermedia.ru/news/punisher-kills-marvel-universe-again",
   "archived": "https://web.archive.org/web/20250618121709/http://spidermedia.ru/news/punisher-kills-marvel-universe-again",
+  "tags": [
+    "punisher",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

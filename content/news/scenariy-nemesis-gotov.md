@@ -4,6 +4,11 @@
   "url": "/news/scenariy-nemesis-gotov/",
   "original_url": "http://spidermedia.ru/news/scenariy-nemesis-gotov",
   "archived": "https://web.archive.org/web/20251108193410/http://spidermedia.ru/news/scenariy-nemesis-gotov",
+  "tags": [
+    "mark-millar",
+    "nemesis",
+    "icon-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

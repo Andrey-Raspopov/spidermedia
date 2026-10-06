@@ -4,6 +4,13 @@
   "url": "/news/sdcc10-green-lanten-promo/",
   "original_url": "http://spidermedia.ru/news/sdcc10-green-lanten-promo",
   "archived": "https://web.archive.org/web/20120718080531/http://spidermedia.ru/news/sdcc10-green-lanten-promo",
+  "tags": [
+    "dc-comics",
+    "green-lantern",
+    "zelenyy-fonar",
+    "kino",
+    "postery"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

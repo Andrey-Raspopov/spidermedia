@@ -4,6 +4,10 @@
   "url": "/comics/frankenstein-underground-guide/",
   "original_url": "http://spidermedia.ru/comics/frankenstein-underground-guide",
   "archived": "https://web.archive.org/web/20250906192514/http://spidermedia.ru/comics/frankenstein-underground-guide",
+  "tags": [
+    "hellboymedia",
+    "guide"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/news/izdatelstvo-42-razdaet-komiksy-darom/",
   "original_url": "http://spidermedia.ru/news/izdatelstvo-42-razdaet-komiksy-darom",
   "archived": "https://web.archive.org/web/20240911140338/http://spidermedia.ru/news/izdatelstvo-42-razdaet-komiksy-darom",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "izdatelstvo-42"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

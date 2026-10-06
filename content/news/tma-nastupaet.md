@@ -4,6 +4,16 @@
   "url": "/news/tma-nastupaet/",
   "original_url": "http://spidermedia.ru/news/tma-nastupaet",
   "archived": "https://web.archive.org/web/20251208072252/http://spidermedia.ru/news/tma-nastupaet",
+  "tags": [
+    "temnejshaya-noch",
+    "preview",
+    "geoff-johns",
+    "ajvan-rejs",
+    "ivan-reis",
+    "green-lantern",
+    "dc-comics",
+    "blackest-night"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

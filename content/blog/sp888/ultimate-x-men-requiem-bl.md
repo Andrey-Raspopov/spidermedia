@@ -4,6 +4,14 @@
   "url": "/blog/sp888/ultimate-x-men-requiem-bl/",
   "original_url": "http://spidermedia.ru/blog/sp888/ultimate-x-men-requiem-bl",
   "archived": "https://web.archive.org/web/20111020065009/http://spidermedia.ru/blog/sp888/ultimate-x-men-requiem-bl",
+  "tags": [
+    "marvel",
+    "ultimate",
+    "ultimate-x-men",
+    "komiksy",
+    "lyudi-iks",
+    "marazm"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

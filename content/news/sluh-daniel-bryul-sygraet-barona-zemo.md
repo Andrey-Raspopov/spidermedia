@@ -4,6 +4,11 @@
   "url": "/news/sluh-daniel-bryul-sygraet-barona-zemo/",
   "original_url": "http://spidermedia.ru/news/sluh-daniel-bryul-sygraet-barona-zemo",
   "archived": "https://web.archive.org/web/20260313105520/http://spidermedia.ru/news/sluh-daniel-bryul-sygraet-barona-zemo",
+  "tags": [
+    "avengers",
+    "captain-america",
+    "civil-war"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

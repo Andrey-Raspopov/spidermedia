@@ -4,6 +4,10 @@
   "url": "/blog/plane-v/ashes-o-dark-knight-rises/",
   "original_url": "https://spidermedia.ru/blog/plane-v/ashes-o-dark-knight-rises",
   "archived": "https://web.archive.org/web/20251115024019/https://spidermedia.ru/blog/plane-v/ashes-o-dark-knight-rises",
+  "tags": [
+    "batman",
+    "dark-knight-rises"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

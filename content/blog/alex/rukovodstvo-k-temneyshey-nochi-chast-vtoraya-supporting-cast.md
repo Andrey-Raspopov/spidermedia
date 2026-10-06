@@ -4,6 +4,12 @@
   "url": "/blog/alex/rukovodstvo-k-temneyshey-nochi-chast-vtoraya-supporting-cast/",
   "original_url": "http://spidermedia.ru/blog/alex/rukovodstvo-k-temneyshey-nochi-chast-vtoraya-supporting-cast",
   "archived": "https://web.archive.org/web/20251207101839/http://spidermedia.ru/blog/alex/rukovodstvo-k-temneyshey-nochi-chast-vtoraya-supporting-cast",
+  "tags": [
+    "obzor",
+    "green-lantern",
+    "dc-comics",
+    "blackest-night"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

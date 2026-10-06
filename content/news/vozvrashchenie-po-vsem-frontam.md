@@ -4,6 +4,21 @@
   "url": "/news/vozvrashchenie-po-vsem-frontam/",
   "original_url": "http://spidermedia.ru/news/vozvrashchenie-po-vsem-frontam",
   "archived": "https://web.archive.org/web/20251111072628/http://spidermedia.ru/news/vozvrashchenie-po-vsem-frontam",
+  "tags": [
+    "yanik-pekket",
+    "endi-kubert",
+    "frenk-kuajtli",
+    "frejzer-irving",
+    "rajan-suk",
+    "li-garbett",
+    "kemeron-styuart",
+    "kris-sprauz",
+    "devid-finch",
+    "grant-morrison",
+    "return-of-bruce-wayne",
+    "dc-comics",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

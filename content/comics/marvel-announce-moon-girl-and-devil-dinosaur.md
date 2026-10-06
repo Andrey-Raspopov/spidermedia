@@ -4,6 +4,9 @@
   "url": "/comics/marvel-announce-moon-girl-and-devil-dinosaur/",
   "original_url": "https://spidermedia.ru/comics/marvel-announce-moon-girl-and-devil-dinosaur",
   "archived": "https://web.archive.org/web/20260206212318/https://spidermedia.ru/comics/marvel-announce-moon-girl-and-devil-dinosaur",
+  "tags": [
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

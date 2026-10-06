@@ -4,6 +4,9 @@
   "url": "/comics/new-comics-day-july-6-2022/",
   "original_url": "http://spidermedia.ru/comics/new-comics-day-july-6-2022",
   "archived": "https://web.archive.org/web/20251207103014/http://spidermedia.ru/comics/new-comics-day-july-6-2022",
+  "tags": [
+    "den-novyh-komiksov"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/comics/all-things-valiant-65-week-42/",
   "original_url": "http://spidermedia.ru/comics/all-things-valiant-65-week-42",
   "archived": "https://web.archive.org/web/20260208195453/http://spidermedia.ru/comics/all-things-valiant-65-week-42",
+  "tags": [
+    "valiant-entertainment"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

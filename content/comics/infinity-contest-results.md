@@ -4,6 +4,10 @@
   "url": "/comics/infinity-contest-results/",
   "original_url": "http://spidermedia.ru/comics/infinity-contest-results",
   "archived": "https://web.archive.org/web/20260211181523/http://spidermedia.ru/comics/infinity-contest-results",
+  "tags": [
+    "konkurs",
+    "avengers-week"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

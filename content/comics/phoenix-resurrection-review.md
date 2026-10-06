@@ -4,6 +4,10 @@
   "url": "/comics/phoenix-resurrection-review/",
   "original_url": "http://spidermedia.ru/comics/phoenix-resurrection-review",
   "archived": "https://web.archive.org/web/20260312004745/http://spidermedia.ru/comics/phoenix-resurrection-review",
+  "tags": [
+    "marvel",
+    "x-men"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

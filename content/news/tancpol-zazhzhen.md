@@ -4,6 +4,15 @@
   "url": "/news/tancpol-zazhzhen/",
   "original_url": "https://spidermedia.ru/news/tancpol-zazhzhen",
   "archived": "https://web.archive.org/web/20251013180048/https://spidermedia.ru/news/tancpol-zazhzhen",
+  "tags": [
+    "marvel",
+    "mark-millar",
+    "image-comics",
+    "ultimate",
+    "stiv-makniven",
+    "steve-mcniven",
+    "tony-harris"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

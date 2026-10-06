@@ -4,6 +4,13 @@
   "url": "/news/zheleznoe-trio/",
   "original_url": "https://spidermedia.ru/news/zheleznoe-trio",
   "archived": "https://web.archive.org/web/20251107030830/https://spidermedia.ru/news/zheleznoe-trio",
+  "tags": [
+    "marvel",
+    "iron-man",
+    "pepper-potts",
+    "war-machine",
+    "rescue"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

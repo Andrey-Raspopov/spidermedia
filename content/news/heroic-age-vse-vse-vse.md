@@ -4,6 +4,14 @@
   "url": "/news/heroic-age-vse-vse-vse/",
   "original_url": "http://spidermedia.ru/news/heroic-age-vse-vse-vse",
   "archived": "https://web.archive.org/web/20260312011318/http://spidermedia.ru/news/heroic-age-vse-vse-vse",
+  "tags": [
+    "secret-avengers",
+    "avengers",
+    "akademiya-mstitelej",
+    "young-avengers",
+    "new-avengers",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

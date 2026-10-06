@@ -4,6 +4,10 @@
   "url": "/blog/redson/ispoved/",
   "original_url": "http://spidermedia.ru/blog/redson/ispoved",
   "archived": "https://web.archive.org/web/20120611192359/http://spidermedia.ru/blog/redson/ispoved",
+  "tags": [
+    "komiksy",
+    "fanstaff"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

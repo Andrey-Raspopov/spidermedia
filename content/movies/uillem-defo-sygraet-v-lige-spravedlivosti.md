@@ -4,6 +4,10 @@
   "url": "/movies/uillem-defo-sygraet-v-lige-spravedlivosti/",
   "original_url": "https://spidermedia.ru/movies/uillem-defo-sygraet-v-lige-spravedlivosti",
   "archived": "https://web.archive.org/web/20251208064840/https://spidermedia.ru/movies/uillem-defo-sygraet-v-lige-spravedlivosti",
+  "tags": [
+    "dc-comics",
+    "justice-league"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

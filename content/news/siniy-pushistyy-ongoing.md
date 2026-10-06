@@ -4,6 +4,12 @@
   "url": "/news/siniy-pushistyy-ongoing/",
   "original_url": "http://spidermedia.ru/news/siniy-pushistyy-ongoing",
   "archived": "https://web.archive.org/web/20190925022015/http://spidermedia.ru:80/news/siniy-pushistyy-ongoing",
+  "tags": [
+    "todd-nauk",
+    "najtkrouler",
+    "marvel",
+    "kris-klermont"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

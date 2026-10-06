@@ -4,6 +4,10 @@
   "url": "/blog/redson/amazing-adventures-little-batman/",
   "original_url": "http://spidermedia.ru/blog/redson/amazing-adventures-little-batman",
   "archived": "https://web.archive.org/web/20251115175629/http://spidermedia.ru/blog/redson/amazing-adventures-little-batman",
+  "tags": [
+    "batman",
+    "yumor"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

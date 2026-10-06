@@ -4,6 +4,17 @@
   "url": "/news/stervyatniku-byt/",
   "original_url": "http://spidermedia.ru/news/stervyatniku-byt",
   "archived": "https://web.archive.org/web/20120607121537/http://spidermedia.ru/news/stervyatniku-byt",
+  "tags": [
+    "sam-raimi",
+    "spider-man",
+    "spider-man-4",
+    "vulture",
+    "kino",
+    "komiksy",
+    "stervyatnik",
+    "sem-reymi",
+    "chelovek-pauk"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

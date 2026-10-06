@@ -4,6 +4,9 @@
   "url": "/podcast/spider-talk-13-jokery-pauki-schenki/",
   "original_url": "http://spidermedia.ru/podcast/spider-talk-13-jokery-pauki-schenki",
   "archived": "https://web.archive.org/web/20251115172000/http://spidermedia.ru/podcast/spider-talk-13-jokery-pauki-schenki",
+  "tags": [
+    "spider-talk"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

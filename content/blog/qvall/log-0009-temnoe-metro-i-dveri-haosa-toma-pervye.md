@@ -4,6 +4,11 @@
   "url": "/blog/qvall/log-0009-temnoe-metro-i-dveri-haosa-toma-pervye/",
   "original_url": "http://spidermedia.ru/blog/qvall/log-0009-temnoe-metro-i-dveri-haosa-toma-pervye",
   "archived": "https://web.archive.org/web/20251006140537/http://spidermedia.ru/blog/qvall/log-0009-temnoe-metro-i-dveri-haosa-toma-pervye",
+  "tags": [
+    "mnenie",
+    "manga",
+    "bla-bla-bla"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

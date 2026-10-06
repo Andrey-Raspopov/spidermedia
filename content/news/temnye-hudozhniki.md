@@ -4,6 +4,14 @@
   "url": "/news/temnye-hudozhniki/",
   "original_url": "http://spidermedia.ru/news/temnye-hudozhniki",
   "archived": "https://web.archive.org/web/20250116130931/http://spidermedia.ru/news/temnye-hudozhniki",
+  "tags": [
+    "marvel",
+    "thunderbolts",
+    "avengers",
+    "preview",
+    "rafa-sendoval",
+    "migel-sepulvida"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

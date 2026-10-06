@@ -4,6 +4,11 @@
   "url": "/comics/gentleman-thief-and-bill-finger/",
   "original_url": "http://spidermedia.ru/comics/gentleman-thief-and-bill-finger",
   "archived": "https://web.archive.org/web/20250318075724/http://spidermedia.ru/comics/gentleman-thief-and-bill-finger",
+  "tags": [
+    "dc-comics",
+    "batman",
+    "batman-week"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

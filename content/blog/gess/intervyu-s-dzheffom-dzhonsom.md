@@ -4,6 +4,9 @@
   "url": "/blog/gess/intervyu-s-dzheffom-dzhonsom/",
   "original_url": "http://spidermedia.ru/blog/gess/intervyu-s-dzheffom-dzhonsom",
   "archived": "https://web.archive.org/web/20120718064859/http://spidermedia.ru/blog/gess/intervyu-s-dzheffom-dzhonsom",
+  "tags": [
+    "dzheff-dzhons"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/comics/nedelya-betmena-batman-gates-of-gotham/",
   "original_url": "https://spidermedia.ru/comics/nedelya-betmena-batman-gates-of-gotham",
   "archived": "https://web.archive.org/web/20260309180939/https://spidermedia.ru/comics/nedelya-betmena-batman-gates-of-gotham",
+  "tags": [
+    "dc-comics",
+    "batman",
+    "batman-week"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

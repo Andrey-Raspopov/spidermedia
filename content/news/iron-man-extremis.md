@@ -4,6 +4,14 @@
   "url": "/news/iron-man-extremis/",
   "original_url": "http://spidermedia.ru/news/iron-man-extremis",
   "archived": "https://web.archive.org/web/20251206031815/http://spidermedia.ru/news/iron-man-extremis",
+  "tags": [
+    "iron-man",
+    "warren-ellis",
+    "adi-granov",
+    "marvel",
+    "animirovannye-komiksy",
+    "motion-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

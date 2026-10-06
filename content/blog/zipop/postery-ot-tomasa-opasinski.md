@@ -4,6 +4,11 @@
   "url": "/blog/zipop/postery-ot-tomasa-opasinski/",
   "original_url": "http://spidermedia.ru/blog/zipop/postery-ot-tomasa-opasinski",
   "archived": "https://web.archive.org/web/20120608224917/http://spidermedia.ru/blog/zipop/postery-ot-tomasa-opasinski",
+  "tags": [
+    "dizayn",
+    "kino",
+    "postery"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

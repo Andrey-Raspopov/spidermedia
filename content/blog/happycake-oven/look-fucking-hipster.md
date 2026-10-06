@@ -4,6 +4,9 @@
   "url": "/blog/happycake-oven/look-fucking-hipster/",
   "original_url": "http://spidermedia.ru/blog/happycake-oven/look-fucking-hipster",
   "archived": "https://web.archive.org/web/20120610083801/http://spidermedia.ru/blog/happycake-oven/look-fucking-hipster",
+  "tags": [
+    "moon-knight"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

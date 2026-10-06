@@ -4,6 +4,11 @@
   "url": "/blog/alex/geroi-heroes-s3-ep19-shades-gray-ottenki-serogo/",
   "original_url": "http://spidermedia.ru/blog/alex/geroi-heroes-s3-ep19-shades-gray-ottenki-serogo",
   "archived": "https://web.archive.org/web/20150507182256/http://spidermedia.ru/blog/alex/geroi-heroes-s3-ep19-shades-gray-ottenki-serogo",
+  "tags": [
+    "serialy",
+    "geroi",
+    "heroes"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

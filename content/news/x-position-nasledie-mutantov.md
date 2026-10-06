@@ -4,6 +4,15 @@
   "url": "/news/x-position-nasledie-mutantov/",
   "original_url": "http://spidermedia.ru/news/x-position-nasledie-mutantov",
   "archived": "https://web.archive.org/web/20251115185455/http://spidermedia.ru/news/x-position-nasledie-mutantov",
+  "tags": [
+    "matt-fraction",
+    "majk-keri",
+    "x-men",
+    "necrosha",
+    "mike-carey",
+    "marvel",
+    "legacy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

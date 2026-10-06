@@ -4,6 +4,9 @@
   "url": "/blog/zipop/s-prazdnikom-druzya/",
   "original_url": "http://spidermedia.ru/blog/zipop/s-prazdnikom-druzya",
   "archived": "https://web.archive.org/web/20120608195852/http://spidermedia.ru/blog/zipop/s-prazdnikom-druzya",
+  "tags": [
+    "vstuplenie"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

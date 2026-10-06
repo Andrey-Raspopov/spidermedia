@@ -4,6 +4,11 @@
   "url": "/blog/transistor/obzor-komiksa-moy-seks/",
   "original_url": "http://spidermedia.ru/blog/transistor/obzor-komiksa-moy-seks",
   "archived": "https://web.archive.org/web/20250424100833/http://spidermedia.ru/blog/transistor/obzor-komiksa-moy-seks",
+  "tags": [
+    "russian-comics",
+    "obzor",
+    "boomkniga"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,15 @@
   "url": "/news/zheleznyy-chelovek-v-nuare/",
   "original_url": "https://spidermedia.ru/news/zheleznyy-chelovek-v-nuare",
   "archived": "https://web.archive.org/web/20251108042753/https://spidermedia.ru/news/zheleznyy-chelovek-v-nuare",
+  "tags": [
+    "skott-snajder",
+    "manuel-garsiya",
+    "majk-fajlas",
+    "art-0",
+    "noirverse",
+    "marvel",
+    "iron-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

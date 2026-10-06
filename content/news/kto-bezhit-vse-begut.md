@@ -4,6 +4,13 @@
   "url": "/news/kto-bezhit-vse-begut/",
   "original_url": "https://spidermedia.ru/news/kto-bezhit-vse-begut",
   "archived": "https://web.archive.org/web/20250324222716/https://spidermedia.ru/news/kto-bezhit-vse-begut",
+  "tags": [
+    "sterling-gejts",
+    "geoff-johns",
+    "sterling-gates",
+    "the-flash",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

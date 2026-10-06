@@ -4,6 +4,9 @@
   "url": "/movies/martin-freeman-everett-ross/",
   "original_url": "https://spidermedia.ru/movies/martin-freeman-everett-ross",
   "archived": "https://web.archive.org/web/20250519171109/https://spidermedia.ru/movies/martin-freeman-everett-ross",
+  "tags": [
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/comics/eccc-2016-idw-rasskazhet-kto-ubil-kurta-kobejna/",
   "original_url": "http://spidermedia.ru/comics/eccc-2016-idw-rasskazhet-kto-ubil-kurta-kobejna",
   "archived": "https://web.archive.org/web/20251206163609/http://spidermedia.ru/comics/eccc-2016-idw-rasskazhet-kto-ubil-kurta-kobejna",
+  "tags": [
+    "emerald-city-comicon",
+    "idw-publishing"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

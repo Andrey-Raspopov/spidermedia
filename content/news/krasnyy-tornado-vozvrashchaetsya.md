@@ -4,6 +4,13 @@
   "url": "/news/krasnyy-tornado-vozvrashchaetsya/",
   "original_url": "http://spidermedia.ru/news/krasnyy-tornado-vozvrashchaetsya",
   "archived": "https://web.archive.org/web/20120607162101/http://spidermedia.ru/news/krasnyy-tornado-vozvrashchaetsya",
+  "tags": [
+    "dc-comics",
+    "ed-benes-0",
+    "red-tornado",
+    "komiksy",
+    "krasnyy-tornado"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

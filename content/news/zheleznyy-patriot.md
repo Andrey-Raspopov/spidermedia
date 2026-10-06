@@ -4,6 +4,12 @@
   "url": "/news/zheleznyy-patriot/",
   "original_url": "http://spidermedia.ru/news/zheleznyy-patriot",
   "archived": "https://web.archive.org/web/20260116215052/http://spidermedia.ru/news/zheleznyy-patriot",
+  "tags": [
+    "marvel",
+    "zheleznyj-patriot",
+    "iron-patriot",
+    "iron-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

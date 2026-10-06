@@ -4,6 +4,10 @@
   "url": "/news/fucking-internet-messiah/",
   "original_url": "http://spidermedia.ru/news/fucking-internet-messiah",
   "archived": "https://web.archive.org/web/20240624135047/http://spidermedia.ru/news/fucking-internet-messiah",
+  "tags": [
+    "warren-ellis",
+    "captured-ghosts"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

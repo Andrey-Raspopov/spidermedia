@@ -4,6 +4,11 @@
   "url": "/news/potomu-chto-v-strahe-est-muchenie/",
   "original_url": "http://spidermedia.ru/news/potomu-chto-v-strahe-est-muchenie",
   "archived": "https://web.archive.org/web/20120608235324/http://spidermedia.ru/news/potomu-chto-v-strahe-est-muchenie",
+  "tags": [
+    "komiksy",
+    "marvel",
+    "frenk-tieri-0"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

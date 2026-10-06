@@ -4,6 +4,12 @@
   "url": "/blog/redson/trololo/",
   "original_url": "http://spidermedia.ru/blog/redson/trololo",
   "archived": "https://web.archive.org/web/20120718062435/http://spidermedia.ru/blog/redson/trololo",
+  "tags": [
+    "dc-comics",
+    "dzheff-dzhons",
+    "komiksy",
+    "mnenie"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

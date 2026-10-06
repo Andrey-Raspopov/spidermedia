@@ -4,6 +4,9 @@
   "url": "/games/batman-and-mangasarov/",
   "original_url": "http://spidermedia.ru/games/batman-and-mangasarov",
   "archived": "https://web.archive.org/web/20260307064840/http://spidermedia.ru/games/batman-and-mangasarov",
+  "tags": [
+    "batman-and-robin-day"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/news/vstrechayte-leksa-lyutora-i-alfreda-iz-betmen-supermen/",
   "original_url": "https://spidermedia.ru/news/vstrechayte-leksa-lyutora-i-alfreda-iz-betmen-supermen",
   "archived": "https://web.archive.org/web/20260211092508/https://spidermedia.ru/news/vstrechayte-leksa-lyutora-i-alfreda-iz-betmen-supermen",
+  "tags": [
+    "dc-comics",
+    "superman",
+    "devid-gojer",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

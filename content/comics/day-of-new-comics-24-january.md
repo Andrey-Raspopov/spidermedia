@@ -4,6 +4,9 @@
   "url": "/comics/day-of-new-comics-24-january/",
   "original_url": "http://spidermedia.ru/comics/day-of-new-comics-24-january",
   "archived": "https://web.archive.org/web/20200219022408/http://spidermedia.ru:80/comics/day-of-new-comics-24-january",
+  "tags": [
+    "den-novyh-komiksov"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

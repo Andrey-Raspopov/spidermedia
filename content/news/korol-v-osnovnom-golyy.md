@@ -4,6 +4,18 @@
   "url": "/news/korol-v-osnovnom-golyy/",
   "original_url": "http://spidermedia.ru/news/korol-v-osnovnom-golyy",
   "archived": "https://web.archive.org/web/20120608160213/http://spidermedia.ru/news/korol-v-osnovnom-golyy",
+  "tags": [
+    "ka-zar-0",
+    "savage-land",
+    "skaar",
+    "brayan-ching",
+    "dikaya-zemlya",
+    "ka-zar",
+    "komiksy",
+    "marvel",
+    "rob-uillyams",
+    "skaar-0"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

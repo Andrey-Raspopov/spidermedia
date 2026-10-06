@@ -4,6 +4,9 @@
   "url": "/comics/all-things-valiant-12-week-35/",
   "original_url": "https://spidermedia.ru/comics/all-things-valiant-12-week-35",
   "archived": "https://web.archive.org/web/20260125060212/https://spidermedia.ru/comics/all-things-valiant-12-week-35",
+  "tags": [
+    "valiant-entertainment"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

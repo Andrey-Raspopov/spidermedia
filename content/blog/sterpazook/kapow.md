@@ -4,6 +4,12 @@
   "url": "/blog/sterpazook/kapow/",
   "original_url": "https://spidermedia.ru/blog/sterpazook/kapow",
   "archived": "https://web.archive.org/web/20260214143316/https://spidermedia.ru/blog/sterpazook/kapow",
+  "tags": [
+    "mark-millar",
+    "komik-kon-v-londone",
+    "industriya",
+    "kapow-comic-con"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

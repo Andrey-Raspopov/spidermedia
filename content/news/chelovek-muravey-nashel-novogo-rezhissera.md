@@ -4,6 +4,14 @@
   "url": "/news/chelovek-muravey-nashel-novogo-rezhissera/",
   "original_url": "http://spidermedia.ru/news/chelovek-muravey-nashel-novogo-rezhissera",
   "archived": "https://web.archive.org/web/20260314083142/http://spidermedia.ru/news/chelovek-muravey-nashel-novogo-rezhissera",
+  "tags": [
+    "edgar-rajt",
+    "ant-man",
+    "rezhisser",
+    "pejton-rid",
+    "adam-makkej",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

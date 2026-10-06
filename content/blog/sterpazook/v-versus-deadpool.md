@@ -4,6 +4,17 @@
   "url": "/blog/sterpazook/v-versus-deadpool/",
   "original_url": "https://spidermedia.ru/blog/sterpazook/v-versus-deadpool",
   "archived": "https://web.archive.org/web/20240524163803/https://spidermedia.ru/blog/sterpazook/v-versus-deadpool",
+  "tags": [
+    "marvel",
+    "norman-osborn",
+    "norman-ozborn",
+    "serialy",
+    "deadpool",
+    "v-the-series",
+    "morena-bakkarin",
+    "morena-baccarin",
+    "versus"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

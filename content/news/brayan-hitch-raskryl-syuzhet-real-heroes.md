@@ -4,6 +4,10 @@
   "url": "/news/brayan-hitch-raskryl-syuzhet-real-heroes/",
   "original_url": "https://spidermedia.ru/news/brayan-hitch-raskryl-syuzhet-real-heroes",
   "archived": "https://web.archive.org/web/20260307071404/https://spidermedia.ru/news/brayan-hitch-raskryl-syuzhet-real-heroes",
+  "tags": [
+    "bryan-hitch",
+    "image-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

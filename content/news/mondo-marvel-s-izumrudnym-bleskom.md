@@ -4,6 +4,14 @@
   "url": "/news/mondo-marvel-s-izumrudnym-bleskom/",
   "original_url": "http://spidermedia.ru/news/mondo-marvel-s-izumrudnym-bleskom",
   "archived": "https://web.archive.org/web/20220813162331/http://spidermedia.ru/news/mondo-marvel-s-izumrudnym-bleskom",
+  "tags": [
+    "marvel",
+    "brian-michael-bendis",
+    "matt-fraction",
+    "deadpool",
+    "x-men",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

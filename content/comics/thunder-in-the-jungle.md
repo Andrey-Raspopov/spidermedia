@@ -4,6 +4,9 @@
   "url": "/comics/thunder-in-the-jungle/",
   "original_url": "http://spidermedia.ru/comics/thunder-in-the-jungle",
   "archived": "https://web.archive.org/web/20220808161240/http://spidermedia.ru/comics/thunder-in-the-jungle",
+  "tags": [
+    "bubble"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

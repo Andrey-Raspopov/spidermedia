@@ -4,6 +4,10 @@
   "url": "/tv/lyucifer-pervyj-trejler/",
   "original_url": "http://spidermedia.ru/tv/lyucifer-pervyj-trejler",
   "archived": "https://web.archive.org/web/20260117224402/http://spidermedia.ru/tv/lyucifer-pervyj-trejler",
+  "tags": [
+    "vertigo",
+    "lyucifer"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

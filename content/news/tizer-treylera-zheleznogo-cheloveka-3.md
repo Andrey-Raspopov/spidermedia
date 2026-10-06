@@ -4,6 +4,11 @@
   "url": "/news/tizer-treylera-zheleznogo-cheloveka-3/",
   "original_url": "http://spidermedia.ru/news/tizer-treylera-zheleznogo-cheloveka-3",
   "archived": "https://web.archive.org/web/20250324225004/http://spidermedia.ru/news/tizer-treylera-zheleznogo-cheloveka-3",
+  "tags": [
+    "trejlery",
+    "marvel",
+    "iron-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

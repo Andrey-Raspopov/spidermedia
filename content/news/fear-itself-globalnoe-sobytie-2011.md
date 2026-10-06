@@ -4,6 +4,13 @@
   "url": "/news/fear-itself-globalnoe-sobytie-2011/",
   "original_url": "http://spidermedia.ru/news/fear-itself-globalnoe-sobytie-2011",
   "archived": "https://web.archive.org/web/20250709053456/http://spidermedia.ru/news/fear-itself-globalnoe-sobytie-2011",
+  "tags": [
+    "styuart-immonen",
+    "matt-fraction",
+    "voploshhenie-straha",
+    "art-0",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

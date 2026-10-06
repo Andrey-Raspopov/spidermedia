@@ -4,6 +4,12 @@
   "url": "/news/dedlayn-prevyshe-vsego/",
   "original_url": "http://spidermedia.ru/news/dedlayn-prevyshe-vsego",
   "archived": "https://web.archive.org/web/20251014033552/http://spidermedia.ru/news/dedlayn-prevyshe-vsego",
+  "tags": [
+    "dzhimmi-palmiotti",
+    "amanda-konner",
+    "power-girl",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

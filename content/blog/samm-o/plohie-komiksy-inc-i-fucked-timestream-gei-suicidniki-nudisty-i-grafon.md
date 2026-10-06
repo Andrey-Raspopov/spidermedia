@@ -4,6 +4,11 @@
   "url": "/blog/samm-o/plohie-komiksy-inc-i-fucked-timestream-gei-suicidniki-nudisty-i-grafon/",
   "original_url": "http://spidermedia.ru/blog/samm-o/plohie-komiksy-inc-i-fucked-timestream-gei-suicidniki-nudisty-i-grafon",
   "archived": "https://web.archive.org/web/20260125063052/http://spidermedia.ru/blog/samm-o/plohie-komiksy-inc-i-fucked-timestream-gei-suicidniki-nudisty-i-grafon",
+  "tags": [
+    "zenescope-entertainment",
+    "idw-publishing",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

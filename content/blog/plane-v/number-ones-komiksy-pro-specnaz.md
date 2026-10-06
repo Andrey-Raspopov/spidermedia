@@ -4,6 +4,11 @@
   "url": "/blog/plane-v/number-ones-komiksy-pro-specnaz/",
   "original_url": "http://spidermedia.ru/blog/plane-v/number-ones-komiksy-pro-specnaz",
   "archived": "https://web.archive.org/web/20250914001126/http://spidermedia.ru/blog/plane-v/number-ones-komiksy-pro-specnaz",
+  "tags": [
+    "mark-millar",
+    "garth-ennis",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,21 @@
   "url": "/news/smena-avtorskih-sostavov-v-dc/",
   "original_url": "http://spidermedia.ru/news/smena-avtorskih-sostavov-v-dc",
   "archived": "https://web.archive.org/web/20260313110601/http://spidermedia.ru/news/smena-avtorskih-sostavov-v-dc",
+  "tags": [
+    "frensis-manapul",
+    "the-flash",
+    "nil-gudzh",
+    "mark-andrejko",
+    "kristos-gejdzh",
+    "dzheff-parker",
+    "dzheff-lemir",
+    "geoff-johns",
+    "dzheremi-houn",
+    "dzhej-m.-demattej",
+    "brian-buccellato",
+    "aquaman",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/comics/best-column-about-comics-35-fantasy-sports/",
   "original_url": "https://spidermedia.ru/comics/best-column-about-comics-35-fantasy-sports",
   "archived": "https://web.archive.org/web/20260313102942/https://spidermedia.ru/comics/best-column-about-comics-35-fantasy-sports",
+  "tags": [
+    "best-column-about-comics",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

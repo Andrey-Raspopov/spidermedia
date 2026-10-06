@@ -4,6 +4,12 @@
   "url": "/news/kostyumy-dlya-myuzikla-chelovek-pauk-pogasit-tmu/",
   "original_url": "https://spidermedia.ru/news/kostyumy-dlya-myuzikla-chelovek-pauk-pogasit-tmu",
   "archived": "https://web.archive.org/web/20250806044153/https://spidermedia.ru/news/kostyumy-dlya-myuzikla-chelovek-pauk-pogasit-tmu",
+  "tags": [
+    "myuzikl",
+    "spider-man-turn-off-the-dark",
+    "marvel",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

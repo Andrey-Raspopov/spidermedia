@@ -4,6 +4,12 @@
   "url": "/tv/sorvigolova-kadry-iz-vtorogo-sezona/",
   "original_url": "https://spidermedia.ru/tv/sorvigolova-kadry-iz-vtorogo-sezona",
   "archived": "https://web.archive.org/web/20260214142315/https://spidermedia.ru/tv/sorvigolova-kadry-iz-vtorogo-sezona",
+  "tags": [
+    "punisher",
+    "daredevil",
+    "elektra",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

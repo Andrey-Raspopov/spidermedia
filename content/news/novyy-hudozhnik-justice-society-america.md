@@ -4,6 +4,13 @@
   "url": "/news/novyy-hudozhnik-justice-society-america/",
   "original_url": "https://spidermedia.ru/news/novyy-hudozhnik-justice-society-america",
   "archived": "https://web.archive.org/web/20241202071735/https://spidermedia.ru/news/novyy-hudozhnik-justice-society-america",
+  "tags": [
+    "dc-comics",
+    "art-0",
+    "jsa",
+    "obshhestvo-spravedlivosti-ameriki",
+    "hesus-merino"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

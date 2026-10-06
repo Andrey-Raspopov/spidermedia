@@ -4,6 +4,13 @@
   "url": "/news/recenziya-na-film-temnyy-rycar-vozrozhdenie-legendy/",
   "original_url": "http://spidermedia.ru/news/recenziya-na-film-temnyy-rycar-vozrozhdenie-legendy",
   "archived": "https://web.archive.org/web/20260209110711/http://spidermedia.ru/news/recenziya-na-film-temnyy-rycar-vozrozhdenie-legendy",
+  "tags": [
+    "temnyj-rycar",
+    "recenziya",
+    "dc-comics",
+    "dark-knight-rises",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/blog/naya/obata-takeshi/",
   "original_url": "http://spidermedia.ru/blog/naya/obata-takeshi",
   "archived": "https://web.archive.org/web/20170827214125/http://spidermedia.ru:80/blog/naya/obata-takeshi",
+  "tags": [
+    "person",
+    "manga",
+    "art-0"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

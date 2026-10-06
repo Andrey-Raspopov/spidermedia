@@ -4,6 +4,10 @@
   "url": "/tv/preacher-first-trailer/",
   "original_url": "http://spidermedia.ru/tv/preacher-first-trailer",
   "archived": "https://web.archive.org/web/20250909125441/http://spidermedia.ru/tv/preacher-first-trailer",
+  "tags": [
+    "vertigo",
+    "preacher"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

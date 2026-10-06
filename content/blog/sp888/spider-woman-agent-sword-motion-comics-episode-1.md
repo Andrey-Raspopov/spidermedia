@@ -4,6 +4,16 @@
   "url": "/blog/sp888/spider-woman-agent-sword-motion-comics-episode-1/",
   "original_url": "http://spidermedia.ru/blog/sp888/spider-woman-agent-sword-motion-comics-episode-1",
   "archived": "https://web.archive.org/web/20111019031716/http://spidermedia.ru/blog/sp888/spider-woman-agent-sword-motion-comics-episode-1",
+  "tags": [
+    "marvel",
+    "motion-comics",
+    "spider-woman",
+    "aleks-maleev",
+    "animirovannye-komiksy",
+    "brayan-maykl-bendis",
+    "komiksy",
+    "recenziya"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

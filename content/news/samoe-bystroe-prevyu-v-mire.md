@@ -4,6 +4,13 @@
   "url": "/news/samoe-bystroe-prevyu-v-mire/",
   "original_url": "http://spidermedia.ru/news/samoe-bystroe-prevyu-v-mire",
   "archived": "https://web.archive.org/web/20240911135520/http://spidermedia.ru/news/samoe-bystroe-prevyu-v-mire",
+  "tags": [
+    "dc-comics",
+    "the-flash",
+    "preview",
+    "geoff-johns",
+    "ethan-van-sciver"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

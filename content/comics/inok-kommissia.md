@@ -4,6 +4,12 @@
   "url": "/comics/inok-kommissia/",
   "original_url": "https://spidermedia.ru/comics/inok-kommissia",
   "archived": "https://web.archive.org/web/20250518133913/https://spidermedia.ru/comics/inok-kommissia",
+  "tags": [
+    "bubble",
+    "inok",
+    "kommissiya",
+    "andrej-vasin"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

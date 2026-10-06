@@ -4,6 +4,13 @@
   "url": "/news/gorod-arkhem-teper-i-na-bumage/",
   "original_url": "https://spidermedia.ru/news/gorod-arkhem-teper-i-na-bumage",
   "archived": "https://web.archive.org/web/20260309190211/https://spidermedia.ru/news/gorod-arkhem-teper-i-na-bumage",
+  "tags": [
+    "batman",
+    "arkham-asylum",
+    "pol-dini",
+    "karlos-danda",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

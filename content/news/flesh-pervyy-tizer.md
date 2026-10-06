@@ -4,6 +4,12 @@
   "url": "/news/flesh-pervyy-tizer/",
   "original_url": "http://spidermedia.ru/news/flesh-pervyy-tizer",
   "archived": "https://web.archive.org/web/20260125113623/http://spidermedia.ru/news/flesh-pervyy-tizer",
+  "tags": [
+    "the-flash",
+    "trejlery",
+    "serialy",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

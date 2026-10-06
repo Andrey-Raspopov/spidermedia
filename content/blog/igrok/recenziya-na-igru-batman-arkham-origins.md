@@ -4,6 +4,12 @@
   "url": "/blog/igrok/recenziya-na-igru-batman-arkham-origins/",
   "original_url": "http://spidermedia.ru/blog/igrok/recenziya-na-igru-batman-arkham-origins",
   "archived": "https://web.archive.org/web/20260209120841/http://spidermedia.ru/blog/igrok/recenziya-na-igru-batman-arkham-origins",
+  "tags": [
+    "igry",
+    "arkham-asylum",
+    "batman",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

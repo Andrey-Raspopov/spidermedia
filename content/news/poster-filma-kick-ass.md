@@ -4,6 +4,22 @@
   "url": "/news/poster-filma-kick-ass/",
   "original_url": "http://spidermedia.ru/news/poster-filma-kick-ass",
   "archived": "https://web.archive.org/web/20120608005450/http://spidermedia.ru/news/poster-filma-kick-ass",
+  "tags": [
+    "icon",
+    "john-romita-jr",
+    "kick-ass",
+    "san-diego-comic-con-2009",
+    "sdcc-2009",
+    "art-0",
+    "dzhon-romita-ml",
+    "kino",
+    "komik-kon-v-san-diego",
+    "komiksy",
+    "marvel",
+    "mark-millar",
+    "mettyu-von",
+    "postery"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

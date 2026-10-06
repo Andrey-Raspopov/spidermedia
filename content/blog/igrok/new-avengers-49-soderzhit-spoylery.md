@@ -4,6 +4,13 @@
   "url": "/blog/igrok/new-avengers-49-soderzhit-spoylery/",
   "original_url": "http://spidermedia.ru/blog/igrok/new-avengers-49-soderzhit-spoylery",
   "archived": "https://web.archive.org/web/20241202101602/http://spidermedia.ru/blog/igrok/new-avengers-49-soderzhit-spoylery",
+  "tags": [
+    "marvel",
+    "avengers",
+    "mnenie",
+    "recenziya",
+    "brian-michael-bendis"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

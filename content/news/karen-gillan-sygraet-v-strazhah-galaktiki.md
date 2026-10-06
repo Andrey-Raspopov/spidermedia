@@ -4,6 +4,10 @@
   "url": "/news/karen-gillan-sygraet-v-strazhah-galaktiki/",
   "original_url": "http://spidermedia.ru/news/karen-gillan-sygraet-v-strazhah-galaktiki",
   "archived": "https://web.archive.org/web/20241004032348/http://spidermedia.ru/news/karen-gillan-sygraet-v-strazhah-galaktiki",
+  "tags": [
+    "marvel",
+    "guardians-of-the-galaxy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

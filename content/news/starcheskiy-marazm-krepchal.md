@@ -4,6 +4,14 @@
   "url": "/news/starcheskiy-marazm-krepchal/",
   "original_url": "https://spidermedia.ru/news/starcheskiy-marazm-krepchal",
   "archived": "https://web.archive.org/web/20260314081255/https://spidermedia.ru/news/starcheskiy-marazm-krepchal",
+  "tags": [
+    "krasnyj-halk",
+    "dzhef-loeb",
+    "x-force",
+    "wolverine",
+    "red-hulk",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

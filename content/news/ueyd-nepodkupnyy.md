@@ -4,6 +4,14 @@
   "url": "/news/ueyd-nepodkupnyy/",
   "original_url": "http://spidermedia.ru/news/ueyd-nepodkupnyy",
   "archived": "https://web.archive.org/web/20260214133415/http://spidermedia.ru/news/ueyd-nepodkupnyy",
+  "tags": [
+    "nil-edvards",
+    "mark-waid",
+    "dzhon-kessedej",
+    "dzhefri-spouks",
+    "art-0",
+    "boom-studios"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

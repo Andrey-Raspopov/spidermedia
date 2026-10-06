@@ -4,13 +4,18 @@
   "url": "/comics/broken-frontier/",
   "original_url": "http://spidermedia.ru/comics/broken-frontier",
   "archived": "https://web.archive.org/web/20250215011429/http://spidermedia.ru/comics/broken-frontier",
+  "tags": [
+    "independent-comics",
+    "stiv-orlando",
+    "yaroslav-astapeev"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
 [![](http://spidermedia.ru/assets/cache/preview/100632/news/broken-frontier/170x250-bfanthology_cover.e48.jpg)](http://spidermedia.ru/assets/images/news/broken-frontier/bfanthology_cover.jpg)Состоялся цифровой релиз 250-страничной антологии авторских комиксов **Broken Frontier**, создание которой было профинансировано посредством Kickstarter. Сборник можно приобрести на [ComiXology](https://www.comixology.com/Broken-Frontier-Anthology/digital-comic/338602?ref=c2l0ZS9pbmRleC9kZXNrdG9wL3NsaWRlckxpc3QvNDMy) за **20 долларов**.
 
-Данная антология примечательна тем, что помимо работ весьма известных в индустрии личностей — таких, как Фред Ван Ленте, Каллен Банн, Том Рэйни, Грег Пак, Райан Келли и др. — в ней присутствует комикс, нарисованный 20-летним краснодарским художником **Ярославом Астапеевым**. Тем самым Ярославом, который является давним другом Спайдермедии и рисует российский комикс-долгострой [«Не место для героев»](https://web.archive.org/web/20200109204400/http://spidermedia.ru:80/tags/ne-mesto-dlya-geroev).
+Данная антология примечательна тем, что помимо работ весьма известных в индустрии личностей — таких, как Фред Ван Ленте, Каллен Банн, Том Рэйни, Грег Пак, Райан Келли и др. — в ней присутствует комикс, нарисованный 20-летним краснодарским художником **Ярославом Астапеевым**. Тем самым Ярославом, который является давним другом Спайдермедии и рисует российский комикс-долгострой [«Не место для героев»](../../tags/ne-mesto-dlya-geroev/).
 
 Для сборника **Broken Frontier** Ярослав нарисовал 8-страничный сегмент **The Wreck of the Vesalius** по сценарию американца **Стива Орландо**, с которым Астапеев ранее работал над [эпилогом](../../news/nashi-lyudi-v-gollivude/) серии [Undertow](../../blog/redson/all-new-mzhdz-undertow-0/) (в России издана под названием «Прибой: Зов лодочника»).
 

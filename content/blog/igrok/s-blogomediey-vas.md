@@ -4,6 +4,9 @@
   "url": "/blog/igrok/s-blogomediey-vas/",
   "original_url": "http://spidermedia.ru/blog/igrok/s-blogomediey-vas",
   "archived": "https://web.archive.org/web/20120608200319/http://spidermedia.ru/blog/igrok/s-blogomediey-vas",
+  "tags": [
+    "vstuplenie"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

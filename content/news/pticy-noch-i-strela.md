@@ -4,6 +4,21 @@
   "url": "/news/pticy-noch-i-strela/",
   "original_url": "http://spidermedia.ru/news/pticy-noch-i-strela",
   "archived": "https://web.archive.org/web/20260312015225/http://spidermedia.ru/news/pticy-noch-i-strela",
+  "tags": [
+    "ed-benes",
+    "hishchnye-pticy",
+    "temnejshaya-noch",
+    "svetlejshij-den",
+    "devid-finch",
+    "geoff-johns",
+    "gejl-simon",
+    "gail-simone",
+    "dc-comics",
+    "david-finch",
+    "blackest-night",
+    "birds-of-prey",
+    "green-arrow"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,13 @@
   "url": "/news/hot-toys-dadut-nam-hraniteley/",
   "original_url": "https://spidermedia.ru/news/hot-toys-dadut-nam-hraniteley",
   "archived": "https://web.archive.org/web/20250715225411/https://spidermedia.ru/news/hot-toys-dadut-nam-hraniteley",
+  "tags": [
+    "hraniteli",
+    "figurki",
+    "silk-spectre",
+    "hot-toys",
+    "shelkovyj-prizrak"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

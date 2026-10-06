@@ -4,6 +4,14 @@
   "url": "/news/ruka-zagrebushchaya/",
   "original_url": "http://spidermedia.ru/news/ruka-zagrebushchaya",
   "archived": "https://web.archive.org/web/20260313121157/http://spidermedia.ru/news/ruka-zagrebushchaya",
+  "tags": [
+    "elektra",
+    "zeb-uells",
+    "dzho-madurejra",
+    "wolverine",
+    "spider-man",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

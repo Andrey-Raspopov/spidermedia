@@ -4,6 +4,14 @@
   "url": "/blog/sterpazook/reportazh-2-tizer/",
   "original_url": "https://spidermedia.ru/blog/sterpazook/reportazh-2-tizer",
   "archived": "https://web.archive.org/web/20250420023353/https://spidermedia.ru/blog/sterpazook/reportazh-2-tizer",
+  "tags": [
+    "zombi",
+    "zombie",
+    "trejlery",
+    "rec",
+    "rec-2",
+    "reportazh"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

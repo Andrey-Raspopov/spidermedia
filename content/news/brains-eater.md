@@ -4,6 +4,12 @@
   "url": "/news/brains-eater/",
   "original_url": "https://spidermedia.ru/news/brains-eater",
   "archived": "https://web.archive.org/web/20260117223020/https://spidermedia.ru/news/brains-eater",
+  "tags": [
+    "kris-roberson",
+    "majk-ollred",
+    "vertigo",
+    "izombie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

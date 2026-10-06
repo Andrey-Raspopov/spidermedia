@@ -4,6 +4,12 @@
   "url": "/news/sovremenniki/",
   "original_url": "http://spidermedia.ru/news/sovremenniki",
   "archived": "https://web.archive.org/web/20150424090906/http://spidermedia.ru/news/sovremenniki",
+  "tags": [
+    "dc-comics",
+    "dzhej-majkl-strazhinski",
+    "hesus-sejz",
+    "dzhej-dzhi-dzhons"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

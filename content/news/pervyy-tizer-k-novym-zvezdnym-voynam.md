@@ -4,6 +4,9 @@
   "url": "/news/pervyy-tizer-k-novym-zvezdnym-voynam/",
   "original_url": "https://spidermedia.ru/news/pervyy-tizer-k-novym-zvezdnym-voynam",
   "archived": "https://web.archive.org/web/20250424104820/https://spidermedia.ru/news/pervyy-tizer-k-novym-zvezdnym-voynam",
+  "tags": [
+    "zvezdnye-vojny"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

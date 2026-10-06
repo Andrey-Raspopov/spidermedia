@@ -4,6 +4,13 @@
   "url": "/news/drugie-uncanny-x-men/",
   "original_url": "https://spidermedia.ru/news/drugie-uncanny-x-men",
   "archived": "https://web.archive.org/web/20260214130900/https://spidermedia.ru/news/drugie-uncanny-x-men",
+  "tags": [
+    "kiron-gillen",
+    "art-0",
+    "x-men",
+    "mmxi",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

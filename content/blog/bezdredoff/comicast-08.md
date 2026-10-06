@@ -4,6 +4,9 @@
   "url": "/blog/bezdredoff/comicast-08/",
   "original_url": "http://spidermedia.ru/blog/bezdredoff/comicast-08",
   "archived": "https://web.archive.org/web/20150320080145/http://spidermedia.ru/blog/bezdredoff/comicast-08",
+  "tags": [
+    "komikkast"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

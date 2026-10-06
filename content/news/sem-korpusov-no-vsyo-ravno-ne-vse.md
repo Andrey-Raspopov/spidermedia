@@ -4,6 +4,11 @@
   "url": "/news/sem-korpusov-no-vsyo-ravno-ne-vse/",
   "original_url": "https://spidermedia.ru/news/sem-korpusov-no-vsyo-ravno-ne-vse",
   "archived": "https://web.archive.org/web/20251216113040/https://spidermedia.ru/news/sem-korpusov-no-vsyo-ravno-ne-vse",
+  "tags": [
+    "dc-comics",
+    "blackest-night",
+    "temnejshaya-noch"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

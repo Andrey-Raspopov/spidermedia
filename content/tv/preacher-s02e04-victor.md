@@ -4,6 +4,10 @@
   "url": "/tv/preacher-s02e04-victor/",
   "original_url": "http://spidermedia.ru/tv/preacher-s02e04-victor",
   "archived": "https://web.archive.org/web/20260115043054/http://spidermedia.ru/tv/preacher-s02e04-victor",
+  "tags": [
+    "vertigo",
+    "preacher"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

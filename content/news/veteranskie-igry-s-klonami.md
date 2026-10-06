@@ -4,6 +4,15 @@
   "url": "/news/veteranskie-igry-s-klonami/",
   "original_url": "http://spidermedia.ru/news/veteranskie-igry-s-klonami",
   "archived": "https://web.archive.org/web/20120512064412/http://spidermedia.ru/news/veteranskie-igry-s-klonami",
+  "tags": [
+    "spider-man",
+    "govard-meki",
+    "komiksy",
+    "marvel",
+    "todd-nauk",
+    "tom-defalko",
+    "chelovek-pauk"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

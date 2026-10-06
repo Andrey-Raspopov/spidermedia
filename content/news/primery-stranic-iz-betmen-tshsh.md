@@ -4,6 +4,13 @@
   "url": "/news/primery-stranic-iz-betmen-tshsh/",
   "original_url": "http://spidermedia.ru/news/primery-stranic-iz-betmen-tshsh",
   "archived": "https://web.archive.org/web/20260123072349/http://spidermedia.ru/news/primery-stranic-iz-betmen-tshsh",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "batman",
+    "komiks-art",
+    "dc-comics",
+    "dzhef-loeb"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/tv/doctor-who-before-the-flood/",
   "original_url": "http://spidermedia.ru/tv/doctor-who-before-the-flood",
   "archived": "https://web.archive.org/web/20251216124320/http://spidermedia.ru/tv/doctor-who-before-the-flood",
+  "tags": [
+    "doctor-who"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

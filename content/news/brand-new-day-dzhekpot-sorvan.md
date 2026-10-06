@@ -4,6 +4,21 @@
   "url": "/news/brand-new-day-dzhekpot-sorvan/",
   "original_url": "https://spidermedia.ru/news/brand-new-day-dzhekpot-sorvan",
   "archived": "https://web.archive.org/web/20260312013707/https://spidermedia.ru/news/brand-new-day-dzhekpot-sorvan",
+  "tags": [
+    "haver-pulido",
+    "rodzher-stern",
+    "paulo-sikejra",
+    "mirko-perfederichi",
+    "li-viks",
+    "zeb-uells",
+    "dzhekpot",
+    "barri-kitson",
+    "art-0",
+    "anti-venom",
+    "jackpot",
+    "spider-man",
+    "yanik-pekket"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

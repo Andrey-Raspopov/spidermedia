@@ -4,6 +4,10 @@
   "url": "/news/dzheyk-dzhillenhol-otkazalsya-ot-roli-v-otryade-samoubiyc/",
   "original_url": "https://spidermedia.ru/news/dzheyk-dzhillenhol-otkazalsya-ot-roli-v-otryade-samoubiyc",
   "archived": "https://web.archive.org/web/20251211032009/https://spidermedia.ru/news/dzheyk-dzhillenhol-otkazalsya-ot-roli-v-otryade-samoubiyc",
+  "tags": [
+    "suicide-squad",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

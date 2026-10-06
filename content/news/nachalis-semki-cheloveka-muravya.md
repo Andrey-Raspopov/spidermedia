@@ -4,6 +4,11 @@
   "url": "/news/nachalis-semki-cheloveka-muravya/",
   "original_url": "https://spidermedia.ru/news/nachalis-semki-cheloveka-muravya",
   "archived": "https://web.archive.org/web/20260211173555/https://spidermedia.ru/news/nachalis-semki-cheloveka-muravya",
+  "tags": [
+    "ant-man",
+    "kasting",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

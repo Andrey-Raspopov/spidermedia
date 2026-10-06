@@ -4,6 +4,10 @@
   "url": "/comics/recenziya-omon-ra/",
   "original_url": "https://spidermedia.ru/comics/recenziya-omon-ra",
   "archived": "https://web.archive.org/web/20251018224850/https://spidermedia.ru/comics/recenziya-omon-ra",
+  "tags": [
+    "komilfo",
+    "obzor"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

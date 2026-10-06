@@ -4,6 +4,10 @@
   "url": "/news/cherepashki-nindzya-tizer-postery/",
   "original_url": "https://spidermedia.ru/news/cherepashki-nindzya-tizer-postery",
   "archived": "https://web.archive.org/web/20250210030858/https://spidermedia.ru/news/cherepashki-nindzya-tizer-postery",
+  "tags": [
+    "ninja-turtles",
+    "postery"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

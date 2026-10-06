@@ -4,6 +4,12 @@
   "url": "/news/novaya-bronya-toni-starka-v-mstitelyah/",
   "original_url": "http://spidermedia.ru/news/novaya-bronya-toni-starka-v-mstitelyah",
   "archived": "https://web.archive.org/web/20260206230331/http://spidermedia.ru/news/novaya-bronya-toni-starka-v-mstitelyah",
+  "tags": [
+    "figurki",
+    "iron-man",
+    "avengers",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

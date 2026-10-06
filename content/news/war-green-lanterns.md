@@ -4,6 +4,11 @@
   "url": "/news/war-green-lanterns/",
   "original_url": "http://spidermedia.ru/news/war-green-lanterns",
   "archived": "https://web.archive.org/web/20260305232755/http://spidermedia.ru/news/war-green-lanterns",
+  "tags": [
+    "dc-comics",
+    "green-lantern",
+    "art-0"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

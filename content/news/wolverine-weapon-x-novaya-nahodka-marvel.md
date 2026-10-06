@@ -4,6 +4,16 @@
   "url": "/news/wolverine-weapon-x-novaya-nahodka-marvel/",
   "original_url": "http://spidermedia.ru/news/wolverine-weapon-x-novaya-nahodka-marvel",
   "archived": "https://web.archive.org/web/20120607190012/http://spidermedia.ru/news/wolverine-weapon-x-novaya-nahodka-marvel",
+  "tags": [
+    "maverick",
+    "wolverine",
+    "x-universe",
+    "dzheyson-aaron",
+    "komiksy",
+    "marvel",
+    "meverik",
+    "rosomaha"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

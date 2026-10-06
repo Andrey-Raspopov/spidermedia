@@ -4,6 +4,9 @@
   "url": "/podcast/spider-talk-17-pilgrim-avatar-i-hellfire/",
   "original_url": "http://spidermedia.ru/podcast/spider-talk-17-pilgrim-avatar-i-hellfire",
   "archived": "https://web.archive.org/web/20251108192349/http://spidermedia.ru/podcast/spider-talk-17-pilgrim-avatar-i-hellfire",
+  "tags": [
+    "spider-talk"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

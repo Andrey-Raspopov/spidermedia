@@ -4,6 +4,11 @@
   "url": "/news/oblozhka-pervogo-nomera-inhuman/",
   "original_url": "https://spidermedia.ru/news/oblozhka-pervogo-nomera-inhuman",
   "archived": "https://web.archive.org/web/20260209110638/https://spidermedia.ru/news/oblozhka-pervogo-nomera-inhuman",
+  "tags": [
+    "matt-fraction",
+    "dzho-madurejra",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

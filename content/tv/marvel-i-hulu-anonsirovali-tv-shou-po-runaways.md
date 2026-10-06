@@ -4,6 +4,11 @@
   "url": "/tv/marvel-i-hulu-anonsirovali-tv-shou-po-runaways/",
   "original_url": "https://spidermedia.ru/tv/marvel-i-hulu-anonsirovali-tv-shou-po-runaways",
   "archived": "https://web.archive.org/web/20260115064519/https://spidermedia.ru/tv/marvel-i-hulu-anonsirovali-tv-shou-po-runaways",
+  "tags": [
+    "marvel",
+    "runaways",
+    "beglecy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

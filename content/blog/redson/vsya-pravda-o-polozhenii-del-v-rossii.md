@@ -4,6 +4,11 @@
   "url": "/blog/redson/vsya-pravda-o-polozhenii-del-v-rossii/",
   "original_url": "http://spidermedia.ru/blog/redson/vsya-pravda-o-polozhenii-del-v-rossii",
   "archived": "https://web.archive.org/web/20120608224840/http://spidermedia.ru/blog/redson/vsya-pravda-o-polozhenii-del-v-rossii",
+  "tags": [
+    "dizayn",
+    "kapitan-amerika",
+    "komiksy"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

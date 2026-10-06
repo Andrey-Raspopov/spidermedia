@@ -4,6 +4,11 @@
   "url": "/figurki/betmen-wonder-woman-play-arts-kai/",
   "original_url": "https://spidermedia.ru/figurki/betmen-wonder-woman-play-arts-kai",
   "archived": "https://web.archive.org/web/20251115031220/https://spidermedia.ru/figurki/betmen-wonder-woman-play-arts-kai",
+  "tags": [
+    "dc-comics",
+    "batman",
+    "wonder-woman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

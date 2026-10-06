@@ -4,6 +4,11 @@
   "url": "/comics/recenziya-sem-smertnyh-grehov-tom-1/",
   "original_url": "https://spidermedia.ru/comics/recenziya-sem-smertnyh-grehov-tom-1",
   "archived": "https://web.archive.org/web/20251216175823/https://spidermedia.ru/comics/recenziya-sem-smertnyh-grehov-tom-1",
+  "tags": [
+    "xl-media",
+    "komiksy",
+    "manga"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

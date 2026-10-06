@@ -4,6 +4,12 @@
   "url": "/news/britanskie-betmen-i-robin/",
   "original_url": "http://spidermedia.ru/news/britanskie-betmen-i-robin",
   "archived": "https://web.archive.org/web/20260214143202/http://spidermedia.ru/news/britanskie-betmen-i-robin",
+  "tags": [
+    "yanik-pekket",
+    "pol-kornell",
+    "paul-cornell",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

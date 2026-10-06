@@ -4,6 +4,9 @@
   "url": "/comics/den-novyh-komiksov-19-aprelya/",
   "original_url": "http://spidermedia.ru/comics/den-novyh-komiksov-19-aprelya",
   "archived": "https://web.archive.org/web/20200127175335/http://spidermedia.ru:80/comics/den-novyh-komiksov-19-aprelya",
+  "tags": [
+    "den-novyh-komiksov"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/news/podrobnosti-fleshpoynta/",
   "original_url": "http://spidermedia.ru/news/podrobnosti-fleshpoynta",
   "archived": "https://web.archive.org/web/20251211021408/http://spidermedia.ru/news/podrobnosti-fleshpoynta",
+  "tags": [
+    "geoff-johns",
+    "the-flash",
+    "dc-comics",
+    "endi-kubert"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

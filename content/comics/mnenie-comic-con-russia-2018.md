@@ -4,6 +4,11 @@
   "url": "/comics/mnenie-comic-con-russia-2018/",
   "original_url": "http://spidermedia.ru/comics/mnenie-comic-con-russia-2018",
   "archived": "https://web.archive.org/web/20250808211430/http://spidermedia.ru/comics/mnenie-comic-con-russia-2018",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "roskomnadzor",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

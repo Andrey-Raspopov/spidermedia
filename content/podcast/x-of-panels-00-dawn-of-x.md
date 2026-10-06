@@ -4,6 +4,10 @@
   "url": "/podcast/x-of-panels-00-dawn-of-x/",
   "original_url": "http://spidermedia.ru/podcast/x-of-panels-00-dawn-of-x",
   "archived": "https://web.archive.org/web/20251209134947/http://spidermedia.ru/podcast/x-of-panels-00-dawn-of-x",
+  "tags": [
+    "panels-of-x",
+    "on-panels"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

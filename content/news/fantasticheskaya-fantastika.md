@@ -4,6 +4,14 @@
   "url": "/news/fantasticheskaya-fantastika/",
   "original_url": "http://spidermedia.ru/news/fantasticheskaya-fantastika",
   "archived": "https://web.archive.org/web/20250715225220/http://spidermedia.ru/news/fantasticheskaya-fantastika",
+  "tags": [
+    "marvel",
+    "mark-millar",
+    "bryan-hitch",
+    "fantastic-four",
+    "dzho-ehirn",
+    "styuart-immonen"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

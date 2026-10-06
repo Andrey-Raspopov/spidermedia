@@ -4,6 +4,13 @@
   "url": "/news/watchmen-10-otryvkov/",
   "original_url": "http://spidermedia.ru/news/watchmen-10-otryvkov",
   "archived": "https://web.archive.org/web/20120608172448/http://spidermedia.ru/news/watchmen-10-otryvkov",
+  "tags": [
+    "watchmen",
+    "video",
+    "zak-snayder",
+    "kino",
+    "skachat"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

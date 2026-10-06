@@ -4,6 +4,15 @@
   "url": "/news/novyy-kadr-iz-filma-pervyy-mstitel-0/",
   "original_url": "http://www.spidermedia.ru/news/novyy-kadr-iz-filma-pervyy-mstitel-0",
   "archived": "https://web.archive.org/web/20111105175240/http://www.spidermedia.ru/news/novyy-kadr-iz-filma-pervyy-mstitel-0",
+  "tags": [
+    "captain-america",
+    "marvel",
+    "kadry",
+    "kapitan-amerika",
+    "kino",
+    "marvel-0",
+    "pervyy-mstitel-kapitan-amerika"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,14 @@
   "url": "/news/crossgen-zhiv/",
   "original_url": "https://spidermedia.ru/news/crossgen-zhiv",
   "archived": "https://web.archive.org/web/20260206214001/https://spidermedia.ru/news/crossgen-zhiv",
+  "tags": [
+    "mark-waid",
+    "komik-kon-v-nyu-yorke",
+    "nycc-2010",
+    "marvel",
+    "crossgen",
+    "new-york-comic-con"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,13 @@
   "url": "/news/vozrozhdenie-ultimate-x-men/",
   "original_url": "http://spidermedia.ru/news/vozrozhdenie-ultimate-x-men",
   "archived": "https://web.archive.org/web/20260312005938/http://spidermedia.ru/news/vozrozhdenie-ultimate-x-men",
+  "tags": [
+    "pako-medina",
+    "nik-spenser",
+    "x-men",
+    "ultimate",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

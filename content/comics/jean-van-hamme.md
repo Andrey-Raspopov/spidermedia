@@ -4,6 +4,9 @@
   "url": "/comics/jean-van-hamme/",
   "original_url": "http://spidermedia.ru/comics/jean-van-hamme",
   "archived": "https://web.archive.org/web/20200127103431/http://spidermedia.ru:80/comics/jean-van-hamme",
+  "tags": [
+    "bande-dessinée"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

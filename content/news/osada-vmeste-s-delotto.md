@@ -4,6 +4,16 @@
   "url": "/news/osada-vmeste-s-delotto/",
   "original_url": "https://spidermedia.ru/news/osada-vmeste-s-delotto",
   "archived": "https://web.archive.org/web/20260209105352/https://spidermedia.ru/news/osada-vmeste-s-delotto",
+  "tags": [
+    "sobytiya",
+    "preview",
+    "olive-kojpel",
+    "gabriele-dell-otto",
+    "brian-michael-bendis",
+    "art-0",
+    "marvel",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

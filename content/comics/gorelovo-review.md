@@ -4,6 +4,10 @@
   "url": "/comics/gorelovo-review/",
   "original_url": "https://spidermedia.ru/comics/gorelovo-review",
   "archived": "https://web.archive.org/web/20260313113648/https://spidermedia.ru/comics/gorelovo-review",
+  "tags": [
+    "komilfo",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

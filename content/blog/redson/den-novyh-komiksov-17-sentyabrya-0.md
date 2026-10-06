@@ -4,6 +4,9 @@
   "url": "/blog/redson/den-novyh-komiksov-17-sentyabrya-0/",
   "original_url": "http://spidermedia.ru/blog/redson/den-novyh-komiksov-17-sentyabrya-0",
   "archived": "https://web.archive.org/web/20260211182741/http://spidermedia.ru/blog/redson/den-novyh-komiksov-17-sentyabrya-0",
+  "tags": [
+    "den-novyh-komiksov"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

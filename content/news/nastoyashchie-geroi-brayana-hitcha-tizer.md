@@ -4,6 +4,10 @@
   "url": "/news/nastoyashchie-geroi-brayana-hitcha-tizer/",
   "original_url": "https://spidermedia.ru/news/nastoyashchie-geroi-brayana-hitcha-tizer",
   "archived": "https://web.archive.org/web/20260307053818/https://spidermedia.ru/news/nastoyashchie-geroi-brayana-hitcha-tizer",
+  "tags": [
+    "image-comics",
+    "bryan-hitch"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

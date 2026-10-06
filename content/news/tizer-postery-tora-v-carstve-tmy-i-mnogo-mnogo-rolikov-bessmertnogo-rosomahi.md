@@ -4,6 +4,11 @@
   "url": "/news/tizer-postery-tora-v-carstve-tmy-i-mnogo-mnogo-rolikov-bessmertnogo-rosomahi/",
   "original_url": "https://spidermedia.ru/news/tizer-postery-tora-v-carstve-tmy-i-mnogo-mnogo-rolikov-bessmertnogo-rosomahi",
   "archived": "https://web.archive.org/web/20260121004607/https://spidermedia.ru/news/tizer-postery-tora-v-carstve-tmy-i-mnogo-mnogo-rolikov-bessmertnogo-rosomahi",
+  "tags": [
+    "thor",
+    "wolverine",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

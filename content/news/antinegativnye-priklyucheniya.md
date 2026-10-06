@@ -4,6 +4,15 @@
   "url": "/news/antinegativnye-priklyucheniya/",
   "original_url": "http://spidermedia.ru/news/antinegativnye-priklyucheniya",
   "archived": "https://web.archive.org/web/20260313110134/http://spidermedia.ru/news/antinegativnye-priklyucheniya",
+  "tags": [
+    "marvel",
+    "spider-island",
+    "spider-man",
+    "ostrov-pauka",
+    "frenk-cho",
+    "dzhuzeppe-kamunkoli",
+    "den-slott"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

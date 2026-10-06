@@ -4,6 +4,9 @@
   "url": "/movies/zashhitniki-tizer-trejler/",
   "original_url": "http://spidermedia.ru/movies/zashhitniki-tizer-trejler",
   "archived": "https://web.archive.org/web/20250617225712/http://spidermedia.ru/movies/zashhitniki-tizer-trejler",
+  "tags": [
+    "zashhitniki"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

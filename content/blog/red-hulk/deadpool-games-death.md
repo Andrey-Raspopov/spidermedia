@@ -4,6 +4,13 @@
   "url": "/blog/red-hulk/deadpool-games-death/",
   "original_url": "http://spidermedia.ru/blog/red-hulk/deadpool-games-death",
   "archived": "https://web.archive.org/web/20190929141046/http://spidermedia.ru:80/blog/red-hulk/deadpool-games-death",
+  "tags": [
+    "marvel",
+    "mnenie",
+    "recenziya",
+    "greg-lend",
+    "majk-benson"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

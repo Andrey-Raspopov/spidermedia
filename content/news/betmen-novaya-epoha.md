@@ -4,6 +4,12 @@
   "url": "/news/betmen-novaya-epoha/",
   "original_url": "http://spidermedia.ru/news/betmen-novaya-epoha",
   "archived": "https://web.archive.org/web/20251107001946/http://spidermedia.ru/news/betmen-novaya-epoha",
+  "tags": [
+    "dc-comics",
+    "batman",
+    "neil-gaiman",
+    "endi-kubert"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

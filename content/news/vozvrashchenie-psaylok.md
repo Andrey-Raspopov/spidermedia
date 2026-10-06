@@ -4,6 +4,14 @@
   "url": "/news/vozvrashchenie-psaylok/",
   "original_url": "http://spidermedia.ru/news/vozvrashchenie-psaylok",
   "archived": "https://web.archive.org/web/20120607192714/http://spidermedia.ru/news/vozvrashchenie-psaylok",
+  "tags": [
+    "psylocke",
+    "uncanny-x-men",
+    "x-men",
+    "x-universe",
+    "komiksy",
+    "marvel"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,14 @@
   "url": "/news/meri-dzheyn-naydena/",
   "original_url": "http://spidermedia.ru/news/meri-dzheyn-naydena",
   "archived": "https://web.archive.org/web/20131206204044/http://spidermedia.ru/news/meri-dzheyn-naydena",
+  "tags": [
+    "amazing-spider-man",
+    "movie",
+    "marvel",
+    "mark-uebb",
+    "novyy-chelovek-pauk",
+    "chelovek-pauk"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

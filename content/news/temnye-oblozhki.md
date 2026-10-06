@@ -4,6 +4,13 @@
   "url": "/news/temnye-oblozhki/",
   "original_url": "https://spidermedia.ru/news/temnye-oblozhki",
   "archived": "https://web.archive.org/web/20251006142311/https://spidermedia.ru/news/temnye-oblozhki",
+  "tags": [
+    "marvel",
+    "kris-bachalo",
+    "avengers",
+    "new-avengers",
+    "stefano-kaselli"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/news/cifrovye-komiksy-dlya-psp/",
   "original_url": "http://spidermedia.ru/news/cifrovye-komiksy-dlya-psp",
   "archived": "https://web.archive.org/web/20190811012449/http://spidermedia.ru:80/news/cifrovye-komiksy-dlya-psp",
+  "tags": [
+    "cifrovye-komiksy",
+    "psp-comic",
+    "psp",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

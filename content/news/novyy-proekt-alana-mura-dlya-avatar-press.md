@@ -4,6 +4,11 @@
   "url": "/news/novyy-proekt-alana-mura-dlya-avatar-press/",
   "original_url": "https://spidermedia.ru/news/novyy-proekt-alana-mura-dlya-avatar-press",
   "archived": "https://web.archive.org/web/20251108041539/https://spidermedia.ru/news/novyy-proekt-alana-mura-dlya-avatar-press",
+  "tags": [
+    "gabriel-andrade",
+    "alan-mur",
+    "avatar-press"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

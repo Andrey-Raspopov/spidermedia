@@ -4,6 +4,14 @@
   "url": "/news/mobilnyy-temnyy-rycar/",
   "original_url": "https://spidermedia.ru/news/mobilnyy-temnyy-rycar",
   "archived": "https://web.archive.org/web/20260209114524/https://spidermedia.ru/news/mobilnyy-temnyy-rycar",
+  "tags": [
+    "batman",
+    "temnyj-rycar",
+    "igry",
+    "gameloft",
+    "dc-comics",
+    "dark-knight-rises"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

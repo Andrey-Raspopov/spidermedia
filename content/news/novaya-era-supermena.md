@@ -4,6 +4,26 @@
   "url": "/news/novaya-era-supermena/",
   "original_url": "http://spidermedia.ru/news/novaya-era-supermena",
   "archived": "https://web.archive.org/web/20260313102729/http://spidermedia.ru/news/novaya-era-supermena",
+  "tags": [
+    "hesus-merino",
+    "superman",
+    "superboj",
+    "skott-lobdell",
+    "rags-morales",
+    "r.b.-silva",
+    "mahmud-asrar",
+    "majkl-grin",
+    "majk-dzhonson",
+    "dzhordzh-perez",
+    "grant-morrison",
+    "supergirl",
+    "superboy",
+    "scott-lobdell",
+    "mike-johnson",
+    "jesus-merino",
+    "george-perez",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

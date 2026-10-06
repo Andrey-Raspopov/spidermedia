@@ -4,6 +4,11 @@
   "url": "/comics/deadpool-vs-old-man-logan/",
   "original_url": "http://spidermedia.ru/comics/deadpool-vs-old-man-logan",
   "archived": "https://web.archive.org/web/20250807223024/http://spidermedia.ru/comics/deadpool-vs-old-man-logan",
+  "tags": [
+    "marvel",
+    "deadpool",
+    "wolverine"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

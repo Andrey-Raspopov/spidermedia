@@ -4,6 +4,9 @@
   "url": "/podcast/spider-talk-06-piraty-samurai-i-mutanty/",
   "original_url": "https://spidermedia.ru/podcast/spider-talk-06-piraty-samurai-i-mutanty",
   "archived": "https://web.archive.org/web/20260115053617/https://spidermedia.ru/podcast/spider-talk-06-piraty-samurai-i-mutanty",
+  "tags": [
+    "spider-talk"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

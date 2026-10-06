@@ -4,6 +4,10 @@
   "url": "/blog/samm-o/dekompress-my-ass/",
   "original_url": "https://spidermedia.ru/blog/samm-o/dekompress-my-ass",
   "archived": "https://web.archive.org/web/20260125121334/https://spidermedia.ru/blog/samm-o/dekompress-my-ass",
+  "tags": [
+    "the-walking-dead",
+    "image-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

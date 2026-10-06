@@ -4,6 +4,11 @@
   "url": "/comics/roskomnadzor-beresh-i-chitaesh/",
   "original_url": "https://spidermedia.ru/comics/roskomnadzor-beresh-i-chitaesh",
   "archived": "https://web.archive.org/web/20260307064818/https://spidermedia.ru/comics/roskomnadzor-beresh-i-chitaesh",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "roskomnadzor",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

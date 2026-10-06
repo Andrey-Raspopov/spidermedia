@@ -4,6 +4,9 @@
   "url": "/news/30-novyh-kadrov-hraniteley/",
   "original_url": "http://spidermedia.ru/news/30-novyh-kadrov-hraniteley",
   "archived": "https://web.archive.org/web/20191205180220/http://spidermedia.ru/news/30-novyh-kadrov-hraniteley",
+  "tags": [
+    "hraniteli"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

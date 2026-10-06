@@ -4,6 +4,18 @@
   "url": "/news/betmen-vinik-bagliuzhasayushchee-trio/",
   "original_url": "https://spidermedia.ru/news/betmen-vinik-bagliuzhasayushchee-trio",
   "archived": "https://web.archive.org/web/20260314074742/https://spidermedia.ru/news/betmen-vinik-bagliuzhasayushchee-trio",
+  "tags": [
+    "dc-comics",
+    "batman",
+    "dastin-nguen",
+    "mark-bagli",
+    "endi-kubert",
+    "dvulikij",
+    "two-face",
+    "mark-bagley",
+    "dustin-nguyen",
+    "penguin"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

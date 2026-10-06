@@ -4,6 +4,15 @@
   "url": "/news/wildstorm-chego-zhdat/",
   "original_url": "http://spidermedia.ru/news/wildstorm-chego-zhdat",
   "archived": "https://web.archive.org/web/20190924045916/http://spidermedia.ru:80/news/wildstorm-chego-zhdat",
+  "tags": [
+    "wildcats",
+    "stormwatch",
+    "authority",
+    "avtoritety",
+    "stormvotch",
+    "dikie-koty",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/blog/shargor/hellboymedia-chronicles-chronology/",
   "original_url": "https://spidermedia.ru/blog/shargor/hellboymedia-chronicles-chronology",
   "archived": "https://web.archive.org/web/20260313121153/https://spidermedia.ru/blog/shargor/hellboymedia-chronicles-chronology",
+  "tags": [
+    "hronologiya",
+    "hellboymedia"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

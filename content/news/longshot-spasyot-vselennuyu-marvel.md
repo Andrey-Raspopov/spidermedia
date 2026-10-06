@@ -4,6 +4,11 @@
   "url": "/news/longshot-spasyot-vselennuyu-marvel/",
   "original_url": "http://spidermedia.ru/news/longshot-spasyot-vselennuyu-marvel",
   "archived": "https://web.archive.org/web/20251014050707/http://spidermedia.ru/news/longshot-spasyot-vselennuyu-marvel",
+  "tags": [
+    "marvel",
+    "longshot",
+    "deadpool"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

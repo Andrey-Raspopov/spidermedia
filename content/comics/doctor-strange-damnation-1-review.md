@@ -4,6 +4,11 @@
   "url": "/comics/doctor-strange-damnation-1-review/",
   "original_url": "http://spidermedia.ru/comics/doctor-strange-damnation-1-review",
   "archived": "https://web.archive.org/web/20260314083929/http://spidermedia.ru/comics/doctor-strange-damnation-1-review",
+  "tags": [
+    "marvel",
+    "doctor-strange",
+    "nik-spenser"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

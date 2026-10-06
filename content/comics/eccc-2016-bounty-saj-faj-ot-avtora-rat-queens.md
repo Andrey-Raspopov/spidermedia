@@ -4,6 +4,10 @@
   "url": "/comics/eccc-2016-bounty-saj-faj-ot-avtora-rat-queens/",
   "original_url": "https://spidermedia.ru/comics/eccc-2016-bounty-saj-faj-ot-avtora-rat-queens",
   "archived": "https://web.archive.org/web/20251208075407/https://spidermedia.ru/comics/eccc-2016-bounty-saj-faj-ot-avtora-rat-queens",
+  "tags": [
+    "dark-horse",
+    "emerald-city-comicon"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

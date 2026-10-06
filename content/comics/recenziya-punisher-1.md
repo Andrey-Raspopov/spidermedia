@@ -4,6 +4,10 @@
   "url": "/comics/recenziya-punisher-1/",
   "original_url": "http://spidermedia.ru/comics/recenziya-punisher-1",
   "archived": "https://web.archive.org/web/20251207001556/http://spidermedia.ru/comics/recenziya-punisher-1",
+  "tags": [
+    "marvel",
+    "punisher"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

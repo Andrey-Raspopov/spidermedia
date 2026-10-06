@@ -4,6 +4,15 @@
   "url": "/news/all-new-52/",
   "original_url": "http://spidermedia.ru/news/all-new-52",
   "archived": "https://web.archive.org/web/20250209110144/http://spidermedia.ru/news/all-new-52",
+  "tags": [
+    "shon-rajan",
+    "uill-pfajfer",
+    "suicide-squad",
+    "kennet-rokafort",
+    "dzheremi-roberts",
+    "teen-titans",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

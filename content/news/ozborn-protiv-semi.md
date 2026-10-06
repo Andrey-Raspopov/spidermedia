@@ -4,6 +4,15 @@
   "url": "/news/ozborn-protiv-semi/",
   "original_url": "http://spidermedia.ru/news/ozborn-protiv-semi",
   "archived": "https://web.archive.org/web/20120607164501/http://spidermedia.ru/news/ozborn-protiv-semi",
+  "tags": [
+    "dark-reign",
+    "fantastic-four",
+    "art-0",
+    "komiksy",
+    "marvel",
+    "paskal-ferri",
+    "fantasticheskaya-chetverka"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

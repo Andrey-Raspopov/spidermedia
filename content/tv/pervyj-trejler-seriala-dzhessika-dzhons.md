@@ -4,6 +4,10 @@
   "url": "/tv/pervyj-trejler-seriala-dzhessika-dzhons/",
   "original_url": "http://spidermedia.ru/tv/pervyj-trejler-seriala-dzhessika-dzhons",
   "archived": "https://web.archive.org/web/20260312014220/http://spidermedia.ru/tv/pervyj-trejler-seriala-dzhessika-dzhons",
+  "tags": [
+    "marvel",
+    "jessica-jones-alias"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/news/sdcc10-dc-universe-online/",
   "original_url": "https://spidermedia.ru/news/sdcc10-dc-universe-online",
   "archived": "https://web.archive.org/web/20250327223626/https://spidermedia.ru/news/sdcc10-dc-universe-online",
+  "tags": [
+    "san-diego-comic-con-international",
+    "igry",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

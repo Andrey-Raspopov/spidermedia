@@ -4,6 +4,14 @@
   "url": "/news/flagi-nashih-otcov/",
   "original_url": "https://spidermedia.ru/news/flagi-nashih-otcov",
   "archived": "https://web.archive.org/web/20250429011759/https://spidermedia.ru/news/flagi-nashih-otcov",
+  "tags": [
+    "black-panther",
+    "redzhinald-hadlin",
+    "deni-kouejn",
+    "art-0",
+    "marvel",
+    "captain-america"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

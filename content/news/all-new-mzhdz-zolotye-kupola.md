@@ -4,11 +4,15 @@
   "url": "/news/all-new-mzhdz-zolotye-kupola/",
   "original_url": "http://spidermedia.ru/news/all-new-mzhdz-zolotye-kupola",
   "archived": "https://web.archive.org/web/20260209112953/http://spidermedia.ru/news/all-new-mzhdz-zolotye-kupola",
+  "tags": [
+    "mnenie",
+    "mzhdz"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](https://web.archive.org/web/20260209112953im_/http://i.imgur.com/JCbv66a.jpg)](https://web.archive.org/web/20260206215846/http://spidermedia.ru/tags/mzhdz)
+[![](https://web.archive.org/web/20260209112953im_/http://i.imgur.com/JCbv66a.jpg)](../../tags/mzhdz/)
 ![](https://web.archive.org/web/20260209112953im_/http://i.imgur.com/DAFpUv5.jpg)
 То ли нашим авторам нравится все, что они читают, то ли они читают только то, что им нравится, но я уже начинаю скучать по мусору. Где элитизм? Спайдермедия стала слишком позитивной!
 На этой неделе сразу несколько дебютов и расширение зоны охвата МЖДЗ: **Anticvariat** открывает двери для манги и пишет про безумно популярную и популярную благодаря своему безумству серию **Dorohedoro**, **Xentospot** приводит на наш сайт **Судью Дредда** и пытается разобраться, подойдет ли комикс **Year One** для знакомства с персонажем, а **Змеюкина** делится собственным мнением о **Batman Eternal**. А также: **Sterpazook** хвалит **The Midas Flesh** уже не только в комментариях, помогает ему **Oleg89**, который в свою очередь пишет про **Secret Avengers** и **The New 52 Futures End**; **Offeye** и **ВЧ** вновь берутся за один комикс, на сей раз это **Revival**; **UndeadGroom** хочет обратить ваше внимание на недавно завершившийся сюжет **Ричарда Исанова** в рамках серии **Savage Wolverine**, ну а **я** выполняю обещание и рассказываю про **Green Arrow**.

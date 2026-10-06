@@ -4,6 +4,12 @@
   "url": "/news/ozborny-vnuk-ili-vnuchka/",
   "original_url": "http://spidermedia.ru/news/ozborny-vnuk-ili-vnuchka",
   "archived": "https://web.archive.org/web/20251205113849/http://spidermedia.ru/news/ozborny-vnuk-ili-vnuchka",
+  "tags": [
+    "mark-guggenhajm",
+    "dzhon-romita-ml",
+    "marvel",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

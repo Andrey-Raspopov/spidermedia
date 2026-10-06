@@ -4,6 +4,9 @@
   "url": "/comics/house-of-penance-anons/",
   "original_url": "http://spidermedia.ru/comics/house-of-penance-anons",
   "archived": "https://web.archive.org/web/20250324234015/http://spidermedia.ru/comics/house-of-penance-anons",
+  "tags": [
+    "dark-horse"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

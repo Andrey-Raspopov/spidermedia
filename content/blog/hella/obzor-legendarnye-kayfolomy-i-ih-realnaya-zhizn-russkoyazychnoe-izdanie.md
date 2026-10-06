@@ -4,6 +4,10 @@
   "url": "/blog/hella/obzor-legendarnye-kayfolomy-i-ih-realnaya-zhizn-russkoyazychnoe-izdanie/",
   "original_url": "http://spidermedia.ru/blog/hella/obzor-legendarnye-kayfolomy-i-ih-realnaya-zhizn-russkoyazychnoe-izdanie",
   "archived": "https://web.archive.org/web/20251108040554/http://spidermedia.ru/blog/hella/obzor-legendarnye-kayfolomy-i-ih-realnaya-zhizn-russkoyazychnoe-izdanie",
+  "tags": [
+    "komilfo",
+    "zarubezhnye-komiksy-na-russkom"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

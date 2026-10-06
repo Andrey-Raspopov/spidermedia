@@ -4,6 +4,13 @@
   "url": "/news/temnaya-iniciativa/",
   "original_url": "http://spidermedia.ru/news/temnaya-iniciativa",
   "archived": "https://web.archive.org/web/20251117012031/http://spidermedia.ru/news/temnaya-iniciativa",
+  "tags": [
+    "marvel",
+    "kristos-gejdzh",
+    "the-initiative",
+    "iniciativa",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

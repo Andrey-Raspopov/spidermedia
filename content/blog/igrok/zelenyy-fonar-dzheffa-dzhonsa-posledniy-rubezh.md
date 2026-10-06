@@ -4,6 +4,12 @@
   "url": "/blog/igrok/zelenyy-fonar-dzheffa-dzhonsa-posledniy-rubezh/",
   "original_url": "http://spidermedia.ru/blog/igrok/zelenyy-fonar-dzheffa-dzhonsa-posledniy-rubezh",
   "archived": "https://web.archive.org/web/20260120235917/http://spidermedia.ru/blog/igrok/zelenyy-fonar-dzheffa-dzhonsa-posledniy-rubezh",
+  "tags": [
+    "mnenie",
+    "geoff-johns",
+    "green-lantern",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,22 @@
   "url": "/news/knutom-po-degradacii/",
   "original_url": "http://spidermedia.ru/news/knutom-po-degradacii",
   "archived": "https://web.archive.org/web/20120607121643/http://spidermedia.ru/news/knutom-po-degradacii",
+  "tags": [
+    "doctor-strange",
+    "invincible-iron-man",
+    "iron-man",
+    "whiplash",
+    "brendon-peterson",
+    "doktor-strendzh",
+    "zheleznyy-chelovek",
+    "knut",
+    "komiksy",
+    "marvel",
+    "mark-guggenhaym",
+    "mett-frakshen",
+    "preview-s",
+    "salvador-larroka"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

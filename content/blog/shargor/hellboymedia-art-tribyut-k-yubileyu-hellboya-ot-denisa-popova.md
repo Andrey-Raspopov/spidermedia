@@ -4,6 +4,11 @@
   "url": "/blog/shargor/hellboymedia-art-tribyut-k-yubileyu-hellboya-ot-denisa-popova/",
   "original_url": "https://spidermedia.ru/blog/shargor/hellboymedia-art-tribyut-k-yubileyu-hellboya-ot-denisa-popova",
   "archived": "https://web.archive.org/web/20251209144952/https://spidermedia.ru/blog/shargor/hellboymedia-art-tribyut-k-yubileyu-hellboya-ot-denisa-popova",
+  "tags": [
+    "art-tribyut",
+    "hellboymedia",
+    "20-let-hellboya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

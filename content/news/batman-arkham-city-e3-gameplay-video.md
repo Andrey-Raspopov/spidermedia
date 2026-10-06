@@ -4,6 +4,13 @@
   "url": "/news/batman-arkham-city-e3-gameplay-video/",
   "original_url": "https://spidermedia.ru/news/batman-arkham-city-e3-gameplay-video",
   "archived": "https://web.archive.org/web/20260211185651/https://spidermedia.ru/news/batman-arkham-city-e3-gameplay-video",
+  "tags": [
+    "trejlery",
+    "igry",
+    "dc-comics",
+    "batman",
+    "arkham-asylum"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

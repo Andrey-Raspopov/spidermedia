@@ -4,6 +4,13 @@
   "url": "/news/house-stolen-ideas/",
   "original_url": "https://spidermedia.ru/news/house-stolen-ideas",
   "archived": "https://web.archive.org/web/20241205043549/https://spidermedia.ru/news/house-stolen-ideas",
+  "tags": [
+    "marvel",
+    "norman-osborn",
+    "avengers",
+    "norman-ozborn",
+    "lethal-legion"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

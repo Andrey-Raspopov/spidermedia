@@ -4,6 +4,18 @@
   "url": "/news/voyna-koroley-komik-kon-2009/",
   "original_url": "https://spidermedia.ru/news/voyna-koroley-komik-kon-2009",
   "archived": "https://web.archive.org/web/20230607013042/https://spidermedia.ru/news/voyna-koroley-komik-kon-2009",
+  "tags": [
+    "marvel",
+    "black-bolt",
+    "inhumans",
+    "vulcan",
+    "nycc-2009",
+    "crystal",
+    "lilandra",
+    "blastaar",
+    "gladiator",
+    "kristos-gejdzh"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

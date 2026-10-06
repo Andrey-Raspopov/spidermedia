@@ -4,6 +4,9 @@
   "url": "/news/oficialnyy-sinopsis-k-filmu-mstiteli-era-altrona/",
   "original_url": "https://spidermedia.ru/news/oficialnyy-sinopsis-k-filmu-mstiteli-era-altrona",
   "archived": "https://web.archive.org/web/20240618002401/https://spidermedia.ru/news/oficialnyy-sinopsis-k-filmu-mstiteli-era-altrona",
+  "tags": [
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

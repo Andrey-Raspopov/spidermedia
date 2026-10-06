@@ -4,6 +4,11 @@
   "url": "/news/inferno-shchit/",
   "original_url": "http://spidermedia.ru/news/inferno-shchit",
   "archived": "https://web.archive.org/web/20190918102021/http://spidermedia.ru/news/inferno-shchit",
+  "tags": [
+    "dc-comics",
+    "j-michael-straczynski",
+    "hesus-sejz"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

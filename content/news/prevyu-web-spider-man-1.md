@@ -4,6 +4,16 @@
   "url": "/news/prevyu-web-spider-man-1/",
   "original_url": "http://spidermedia.ru/news/prevyu-web-spider-man-1",
   "archived": "https://web.archive.org/web/20250316161422/http://spidermedia.ru/news/prevyu-web-spider-man-1",
+  "tags": [
+    "tom-defalko",
+    "stefaniya-bushema",
+    "ron-frenc",
+    "dzhej-em-demattej",
+    "vel-semejks",
+    "marvel",
+    "spider-man",
+    "shon-makkiver"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

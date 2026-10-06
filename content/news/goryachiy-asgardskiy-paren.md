@@ -4,6 +4,11 @@
   "url": "/news/goryachiy-asgardskiy-paren/",
   "original_url": "http://spidermedia.ru/news/goryachiy-asgardskiy-paren",
   "archived": "https://web.archive.org/web/20260215085809/http://spidermedia.ru/news/goryachiy-asgardskiy-paren",
+  "tags": [
+    "figurki",
+    "thor",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

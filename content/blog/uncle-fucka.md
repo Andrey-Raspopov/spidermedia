@@ -4,6 +4,12 @@
   "url": "/blog/uncle-fucka/",
   "original_url": "http://spidermedia.ru/blog/uncle-fucka",
   "archived": "https://web.archive.org/web/20120512081711/http://spidermedia.ru/blog/uncle-fucka",
+  "tags": [
+    "amc",
+    "comic-book-men",
+    "tv",
+    "kevin-smit"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/tv/dcs-legends-of-tomorrow-pervyj-trejler/",
   "original_url": "http://spidermedia.ru/tv/dcs-legends-of-tomorrow-pervyj-trejler",
   "archived": "https://web.archive.org/web/20251213191437/http://spidermedia.ru/tv/dcs-legends-of-tomorrow-pervyj-trejler",
+  "tags": [
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

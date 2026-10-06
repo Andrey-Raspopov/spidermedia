@@ -4,6 +4,10 @@
   "url": "/comics/detskaya-bolezn-izdaniya-komiksov-v-rossii-na-odnom-konkretnom-primere/",
   "original_url": "https://spidermedia.ru/comics/detskaya-bolezn-izdaniya-komiksov-v-rossii-na-odnom-konkretnom-primere",
   "archived": "https://web.archive.org/web/20260309185828/https://spidermedia.ru/comics/detskaya-bolezn-izdaniya-komiksov-v-rossii-na-odnom-konkretnom-primere",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "imho"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

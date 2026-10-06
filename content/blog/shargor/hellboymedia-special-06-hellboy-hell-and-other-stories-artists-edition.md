@@ -4,6 +4,10 @@
   "url": "/blog/shargor/hellboymedia-special-06-hellboy-hell-and-other-stories-artists-edition/",
   "original_url": "http://spidermedia.ru/blog/shargor/hellboymedia-special-06-hellboy-hell-and-other-stories-artists-edition",
   "archived": "https://web.archive.org/web/20260116214554/http://spidermedia.ru/blog/shargor/hellboymedia-special-06-hellboy-hell-and-other-stories-artists-edition",
+  "tags": [
+    "obzor",
+    "hellboymedia"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/news/novyy-rolik-konstantina-pervyy-vzglyad-na-zed/",
   "original_url": "http://spidermedia.ru/news/novyy-rolik-konstantina-pervyy-vzglyad-na-zed",
   "archived": "https://web.archive.org/web/20250807220651/http://spidermedia.ru/news/novyy-rolik-konstantina-pervyy-vzglyad-na-zed",
+  "tags": [
+    "serialy",
+    "dzhon-konstantin",
+    "vertigo"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

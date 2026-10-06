@@ -4,6 +4,21 @@
   "url": "/news/zheleznaya-troica/",
   "original_url": "http://spidermedia.ru/news/zheleznaya-troica",
   "archived": "https://web.archive.org/web/20120607184545/http://spidermedia.ru/news/zheleznaya-troica",
+  "tags": [
+    "black-widow",
+    "iron-man",
+    "iron-man-2",
+    "san-diego-comic-con-2009",
+    "sdcc-2009",
+    "whiplash",
+    "dzhon-favro",
+    "zheleznyy-chelovek",
+    "zheleznyy-chelovek-2",
+    "kino",
+    "knut",
+    "marvel",
+    "chyornaya-vdova"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

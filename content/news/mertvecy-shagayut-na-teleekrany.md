@@ -4,6 +4,13 @@
   "url": "/news/mertvecy-shagayut-na-teleekrany/",
   "original_url": "http://spidermedia.ru/news/mertvecy-shagayut-na-teleekrany",
   "archived": "https://web.archive.org/web/20120610035932/http://spidermedia.ru/news/mertvecy-shagayut-na-teleekrany",
+  "tags": [
+    "walking-dead",
+    "kino",
+    "komiksy",
+    "robert-kirkman",
+    "serialy"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

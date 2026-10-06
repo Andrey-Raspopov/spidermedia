@@ -4,6 +4,19 @@
   "url": "/news/bolshoy-sekret-dlya-malenkoy-kompanii/",
   "original_url": "http://spidermedia.ru/news/bolshoy-sekret-dlya-malenkoy-kompanii",
   "archived": "https://web.archive.org/web/20251207094259/http://spidermedia.ru/news/bolshoy-sekret-dlya-malenkoy-kompanii",
+  "tags": [
+    "zashhitniki",
+    "doctor-strange",
+    "iron-fist",
+    "nemor",
+    "namor",
+    "terri-dodson",
+    "marvel",
+    "san-diego-comic-con-international",
+    "she-hulk",
+    "matt-fraction",
+    "silver-surfer"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

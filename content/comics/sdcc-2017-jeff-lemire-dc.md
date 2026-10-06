@@ -4,6 +4,12 @@
   "url": "/comics/sdcc-2017-jeff-lemire-dc/",
   "original_url": "https://spidermedia.ru/comics/sdcc-2017-jeff-lemire-dc",
   "archived": "https://web.archive.org/web/20260125112840/https://spidermedia.ru/comics/sdcc-2017-jeff-lemire-dc",
+  "tags": [
+    "dc-comics",
+    "hawkman",
+    "jeff-lemire",
+    "san-diego-comic-con-international"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

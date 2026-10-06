@@ -4,6 +4,9 @@
   "url": "/podcast/spider-talk-09-the-new-mutants/",
   "original_url": "http://spidermedia.ru/podcast/spider-talk-09-the-new-mutants",
   "archived": "https://web.archive.org/web/20251216183845/http://spidermedia.ru/podcast/spider-talk-09-the-new-mutants",
+  "tags": [
+    "spider-talk"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

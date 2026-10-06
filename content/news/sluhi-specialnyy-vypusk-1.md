@@ -4,6 +4,14 @@
   "url": "/news/sluhi-specialnyy-vypusk-1/",
   "original_url": "http://spidermedia.ru/news/sluhi-specialnyy-vypusk-1",
   "archived": "https://web.archive.org/web/20260125052850/http://spidermedia.ru/news/sluhi-specialnyy-vypusk-1",
+  "tags": [
+    "tom-brevot",
+    "sluhi",
+    "x-men",
+    "ultimate",
+    "marvel",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

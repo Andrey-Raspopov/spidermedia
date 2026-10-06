@@ -4,6 +4,10 @@
   "url": "/comics/best-column-about-comics-15-tale-of-sand/",
   "original_url": "http://spidermedia.ru/comics/best-column-about-comics-15-tale-of-sand",
   "archived": "https://web.archive.org/web/20260306001609/http://spidermedia.ru/comics/best-column-about-comics-15-tale-of-sand",
+  "tags": [
+    "best-column-about-comics",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

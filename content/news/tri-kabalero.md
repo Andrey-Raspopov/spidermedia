@@ -4,6 +4,10 @@
   "url": "/news/tri-kabalero/",
   "original_url": "http://spidermedia.ru/news/tri-kabalero",
   "archived": "https://web.archive.org/web/20251026234923/http://spidermedia.ru/news/tri-kabalero",
+  "tags": [
+    "thor",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/blog/shargor/hellboymedia-art-tribyut-k-yubileyu-hellboya-ot-artyoma-trahanova/",
   "original_url": "https://spidermedia.ru/blog/shargor/hellboymedia-art-tribyut-k-yubileyu-hellboya-ot-artyoma-trahanova",
   "archived": "https://web.archive.org/web/20251216182918/https://spidermedia.ru/blog/shargor/hellboymedia-art-tribyut-k-yubileyu-hellboya-ot-artyoma-trahanova",
+  "tags": [
+    "art-tribyut",
+    "hellboymedia",
+    "20-let-hellboya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

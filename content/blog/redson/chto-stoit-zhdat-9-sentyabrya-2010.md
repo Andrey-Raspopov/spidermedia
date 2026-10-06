@@ -4,6 +4,10 @@
   "url": "/blog/redson/chto-stoit-zhdat-9-sentyabrya-2010/",
   "original_url": "http://spidermedia.ru/blog/redson/chto-stoit-zhdat-9-sentyabrya-2010",
   "archived": "https://web.archive.org/web/20190907234142/http://spidermedia.ru:80/blog/redson/chto-stoit-zhdat-9-sentyabrya-2010",
+  "tags": [
+    "chto-stoit-zhdat",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

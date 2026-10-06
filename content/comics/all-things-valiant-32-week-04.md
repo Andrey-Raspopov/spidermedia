@@ -4,6 +4,9 @@
   "url": "/comics/all-things-valiant-32-week-04/",
   "original_url": "http://spidermedia.ru/comics/all-things-valiant-32-week-04",
   "archived": "https://web.archive.org/web/20260309191415/http://spidermedia.ru/comics/all-things-valiant-32-week-04",
+  "tags": [
+    "valiant-entertainment"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

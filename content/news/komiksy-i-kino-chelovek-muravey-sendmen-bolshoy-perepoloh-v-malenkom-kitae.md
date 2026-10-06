@@ -4,6 +4,14 @@
   "url": "/news/komiksy-i-kino-chelovek-muravey-sendmen-bolshoy-perepoloh-v-malenkom-kitae/",
   "original_url": "http://spidermedia.ru/news/komiksy-i-kino-chelovek-muravey-sendmen-bolshoy-perepoloh-v-malenkom-kitae",
   "archived": "https://web.archive.org/web/20260115044305/http://spidermedia.ru/news/komiksy-i-kino-chelovek-muravey-sendmen-bolshoy-perepoloh-v-malenkom-kitae",
+  "tags": [
+    "ant-man",
+    "neil-gaiman-sandman",
+    "marvel",
+    "vertigo",
+    "boom-studios",
+    "digest"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

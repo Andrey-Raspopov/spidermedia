@@ -4,6 +4,18 @@
   "url": "/news/deadpool-universe/",
   "original_url": "http://spidermedia.ru/news/deadpool-universe",
   "archived": "https://web.archive.org/web/20251209143353/http://spidermedia.ru/news/deadpool-universe",
+  "tags": [
+    "umberto-ramos",
+    "rik-remender",
+    "majk-choi",
+    "moon-knight",
+    "kejbl",
+    "punisher",
+    "deadpool",
+    "art-0",
+    "marvel",
+    "cable"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,14 @@
   "url": "/news/neglobalnoe-sobytie/",
   "original_url": "https://spidermedia.ru/news/neglobalnoe-sobytie",
   "archived": "https://web.archive.org/web/20260125070807/https://spidermedia.ru/news/neglobalnoe-sobytie",
+  "tags": [
+    "joshua-dysart",
+    "duejn-sverchinski",
+    "klejton-genri",
+    "valiant-entertainment",
+    "barri-kitson",
+    "hari-evans"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

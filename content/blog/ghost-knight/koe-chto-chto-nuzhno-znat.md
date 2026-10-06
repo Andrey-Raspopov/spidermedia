@@ -4,6 +4,11 @@
   "url": "/blog/ghost-knight/koe-chto-chto-nuzhno-znat/",
   "original_url": "http://spidermedia.ru/blog/ghost-knight/koe-chto-chto-nuzhno-znat",
   "archived": "https://web.archive.org/web/20251116060925/http://spidermedia.ru/blog/ghost-knight/koe-chto-chto-nuzhno-znat",
+  "tags": [
+    "dc-comics",
+    "the-flash",
+    "bart-allen"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

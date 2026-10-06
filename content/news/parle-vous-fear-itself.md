@@ -4,6 +4,12 @@
   "url": "/news/parle-vous-fear-itself/",
   "original_url": "https://spidermedia.ru/news/parle-vous-fear-itself",
   "archived": "https://web.archive.org/web/20251211034923/https://spidermedia.ru/news/parle-vous-fear-itself",
+  "tags": [
+    "black-widow",
+    "kallen-bann",
+    "piter-nguen",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

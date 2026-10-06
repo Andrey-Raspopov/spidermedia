@@ -4,6 +4,12 @@
   "url": "/news/avengers-rdj-o-scenarii-filma/",
   "original_url": "https://spidermedia.ru/news/avengers-rdj-o-scenarii-filma",
   "archived": "https://web.archive.org/web/20251205113348/https://spidermedia.ru/news/avengers-rdj-o-scenarii-filma",
+  "tags": [
+    "robert-dauni-ml",
+    "marvel",
+    "joss-whedon",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

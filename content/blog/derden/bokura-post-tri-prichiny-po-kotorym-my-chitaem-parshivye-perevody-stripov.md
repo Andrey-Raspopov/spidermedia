@@ -4,6 +4,10 @@
   "url": "/blog/derden/bokura-post-tri-prichiny-po-kotorym-my-chitaem-parshivye-perevody-stripov/",
   "original_url": "http://spidermedia.ru/blog/derden/bokura-post-tri-prichiny-po-kotorym-my-chitaem-parshivye-perevody-stripov",
   "archived": "https://web.archive.org/web/20120607082350/http://spidermedia.ru/blog/derden/bokura-post-tri-prichiny-po-kotorym-my-chitaem-parshivye-perevody-stripov",
+  "tags": [
+    "perevod",
+    "stripy"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

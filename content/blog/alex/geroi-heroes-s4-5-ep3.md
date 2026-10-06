@@ -4,6 +4,12 @@
   "url": "/blog/alex/geroi-heroes-s4-5-ep3/",
   "original_url": "http://spidermedia.ru/blog/alex/geroi-heroes-s4-5-ep3",
   "archived": "https://web.archive.org/web/20120608231610/http://spidermedia.ru/blog/alex/geroi-heroes-s4-5-ep3",
+  "tags": [
+    "heroes",
+    "geroi",
+    "serialy",
+    "tv-0"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,17 @@
   "url": "/news/where-were-you/",
   "original_url": "http://spidermedia.ru/news/where-were-you",
   "archived": "https://web.archive.org/web/20251208072519/http://spidermedia.ru/news/where-were-you",
+  "tags": [
+    "styuart-immonen",
+    "majk-keri",
+    "devid-finch",
+    "x-men",
+    "stuart-immonen",
+    "second-coming",
+    "mike-carey",
+    "marvel",
+    "david-finch"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

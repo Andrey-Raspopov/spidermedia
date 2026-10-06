@@ -4,6 +4,10 @@
   "url": "/blog/igrok/you-will-neverrr-see-him-coming/",
   "original_url": "http://spidermedia.ru/blog/igrok/you-will-neverrr-see-him-coming",
   "archived": "https://web.archive.org/web/20251216184547/http://spidermedia.ru/blog/igrok/you-will-neverrr-see-him-coming",
+  "tags": [
+    "figurki",
+    "pop-skulptura"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

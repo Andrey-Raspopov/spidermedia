@@ -4,6 +4,10 @@
   "url": "/comics/hellboy-and-the-bprd-1952/",
   "original_url": "https://spidermedia.ru/comics/hellboy-and-the-bprd-1952",
   "archived": "https://web.archive.org/web/20251209134641/https://spidermedia.ru/comics/hellboy-and-the-bprd-1952",
+  "tags": [
+    "hellboymedia",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

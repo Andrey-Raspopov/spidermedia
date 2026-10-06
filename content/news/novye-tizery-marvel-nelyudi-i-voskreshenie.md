@@ -4,6 +4,10 @@
   "url": "/news/novye-tizery-marvel-nelyudi-i-voskreshenie/",
   "original_url": "http://spidermedia.ru/news/novye-tizery-marvel-nelyudi-i-voskreshenie",
   "archived": "https://web.archive.org/web/20250806051446/http://spidermedia.ru/news/novye-tizery-marvel-nelyudi-i-voskreshenie",
+  "tags": [
+    "nelyudi",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

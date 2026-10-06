@@ -4,6 +4,9 @@
   "url": "/comics/all-things-valiant-special-poryadok-chteniya-valiant-entertainment/",
   "original_url": "http://spidermedia.ru/comics/all-things-valiant-special-poryadok-chteniya-valiant-entertainment",
   "archived": "https://web.archive.org/web/20260206214448/http://spidermedia.ru/comics/all-things-valiant-special-poryadok-chteniya-valiant-entertainment",
+  "tags": [
+    "valiant-entertainment"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

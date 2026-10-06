@@ -4,11 +4,15 @@
   "url": "/blog/redson/mzhdz-gomoseks-gorilly-i-geopolitika/",
   "original_url": "http://spidermedia.ru/blog/redson/mzhdz-gomoseks-gorilly-i-geopolitika",
   "archived": "https://web.archive.org/web/20251116062047/http://spidermedia.ru/blog/redson/mzhdz-gomoseks-gorilly-i-geopolitika",
+  "tags": [
+    "mnenie",
+    "mzhdz"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](https://web.archive.org/web/20251116062047im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz.png)](https://web.archive.org/web/20260206215846/http://spidermedia.ru/tags/mzhdz)
+[![](https://web.archive.org/web/20251116062047im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz.png)](../../../tags/mzhdz/)
 ![](https://web.archive.org/web/20251116062047im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/nointegrity.jpg)
 **Еженедельные обзоры новых комиксов!** Теперь с логотипом (все дружно скажем спасибо визарду plane_v)!
 В этом выпуске: все, что в названии, плюс Бендисом овладевает Красный Халк, Аквамен любит Чудо-Женщину, а в Афганистане по-прежнему неспокойно.

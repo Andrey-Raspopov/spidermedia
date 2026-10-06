@@ -4,6 +4,12 @@
   "url": "/blog/deadpoolic/superheroes-made-lego/",
   "original_url": "http://spidermedia.ru/blog/deadpoolic/superheroes-made-lego",
   "archived": "https://web.archive.org/web/20111019003055/http://spidermedia.ru/blog/deadpoolic/superheroes-made-lego",
+  "tags": [
+    "captain-hammer",
+    "crosspost",
+    "dr-horrible",
+    "marvel"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

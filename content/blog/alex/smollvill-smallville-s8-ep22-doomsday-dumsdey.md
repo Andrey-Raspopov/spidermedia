@@ -4,6 +4,13 @@
   "url": "/blog/alex/smollvill-smallville-s8-ep22-doomsday-dumsdey/",
   "original_url": "https://spidermedia.ru/blog/alex/smollvill-smallville-s8-ep22-doomsday-dumsdey",
   "archived": "https://web.archive.org/web/20260305225402/https://spidermedia.ru/blog/alex/smollvill-smallville-s8-ep22-doomsday-dumsdey",
+  "tags": [
+    "smallville",
+    "serialy",
+    "superman",
+    "smollvill",
+    "tajny-smollvillya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

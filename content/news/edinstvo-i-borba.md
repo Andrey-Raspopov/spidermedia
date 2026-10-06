@@ -4,6 +4,12 @@
   "url": "/news/edinstvo-i-borba/",
   "original_url": "https://spidermedia.ru/news/edinstvo-i-borba",
   "archived": "https://web.archive.org/web/20260116205121/https://spidermedia.ru/news/edinstvo-i-borba",
+  "tags": [
+    "dag-brejtvejt",
+    "vechnyj-voin",
+    "valiant-entertainment",
+    "mett-kindt"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

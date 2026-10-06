@@ -4,6 +4,9 @@
   "url": "/tv/superrekap-motaj-na-us/",
   "original_url": "https://spidermedia.ru/tv/superrekap-motaj-na-us",
   "archived": "https://web.archive.org/web/20250422041829/https://spidermedia.ru/tv/superrekap-motaj-na-us",
+  "tags": [
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

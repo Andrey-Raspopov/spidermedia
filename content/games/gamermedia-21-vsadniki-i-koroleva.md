@@ -4,6 +4,9 @@
   "url": "/games/gamermedia-21-vsadniki-i-koroleva/",
   "original_url": "https://spidermedia.ru/games/gamermedia-21-vsadniki-i-koroleva",
   "archived": "https://web.archive.org/web/20260214140818/https://spidermedia.ru/games/gamermedia-21-vsadniki-i-koroleva",
+  "tags": [
+    "gamermedia"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

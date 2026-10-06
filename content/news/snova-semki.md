@@ -4,6 +4,9 @@
   "url": "/news/snova-semki/",
   "original_url": "https://spidermedia.ru/news/snova-semki",
   "archived": "https://web.archive.org/web/20241010054340/https://spidermedia.ru/news/snova-semki",
+  "tags": [
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

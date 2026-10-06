@@ -4,6 +4,15 @@
   "url": "/news/mstiteli-pod-sekretom/",
   "original_url": "https://spidermedia.ru/news/mstiteli-pod-sekretom",
   "archived": "https://web.archive.org/web/20260309183001/https://spidermedia.ru/news/mstiteli-pod-sekretom",
+  "tags": [
+    "era-geroev",
+    "ed-brubaker",
+    "secret-avengers",
+    "majk-deodato",
+    "art-0",
+    "marvel",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

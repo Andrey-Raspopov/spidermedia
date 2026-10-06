@@ -4,6 +4,15 @@
   "url": "/news/era-geroev/",
   "original_url": "https://spidermedia.ru/news/era-geroev",
   "archived": "https://web.archive.org/web/20260115061857/https://spidermedia.ru/news/era-geroev",
+  "tags": [
+    "era-geroev",
+    "preview",
+    "dzhim-cheng",
+    "brian-michael-bendis",
+    "art-0",
+    "marvel",
+    "heroic-age"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

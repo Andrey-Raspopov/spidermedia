@@ -4,6 +4,11 @@
   "url": "/news/oni-begut-begut-begut/",
   "original_url": "http://spidermedia.ru/news/oni-begut-begut-begut",
   "archived": "https://web.archive.org/web/20260214143029/http://spidermedia.ru/news/oni-begut-begut-begut",
+  "tags": [
+    "francis-manapul",
+    "the-flash",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

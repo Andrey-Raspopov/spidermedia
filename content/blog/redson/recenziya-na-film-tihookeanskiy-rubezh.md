@@ -4,6 +4,11 @@
   "url": "/blog/redson/recenziya-na-film-tihookeanskiy-rubezh/",
   "original_url": "http://spidermedia.ru/blog/redson/recenziya-na-film-tihookeanskiy-rubezh",
   "archived": "https://web.archive.org/web/20140824020313/http://spidermedia.ru:80/blog/redson/recenziya-na-film-tihookeanskiy-rubezh",
+  "tags": [
+    "gilermo-del-toro",
+    "movie",
+    "mnenie"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

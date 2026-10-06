@@ -4,6 +4,10 @@
   "url": "/comics/25-jokers/",
   "original_url": "https://spidermedia.ru/comics/25-jokers",
   "archived": "https://web.archive.org/web/20260211175417/https://spidermedia.ru/comics/25-jokers",
+  "tags": [
+    "dc-comics",
+    "joker"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/tv/rekap-powers-s02e08-chasing-ghosts/",
   "original_url": "https://spidermedia.ru/tv/rekap-powers-s02e08-chasing-ghosts",
   "archived": "https://web.archive.org/web/20250906193822/https://spidermedia.ru/tv/rekap-powers-s02e08-chasing-ghosts",
+  "tags": [
+    "icon-comics",
+    "powers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,11 +4,15 @@
   "url": "/blog/redson/mzhdz-ot-zhizhi-dobra-ne-ishchut/",
   "original_url": "http://spidermedia.ru/blog/redson/mzhdz-ot-zhizhi-dobra-ne-ishchut",
   "archived": "https://web.archive.org/web/20251117010602/http://spidermedia.ru/blog/redson/mzhdz-ot-zhizhi-dobra-ne-ishchut",
+  "tags": [
+    "mnenie",
+    "mzhdz"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](https://web.archive.org/web/20251117010602im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz.png)](https://web.archive.org/web/20260206215846/http://spidermedia.ru/tags/mzhdz)
+[![](https://web.archive.org/web/20251117010602im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz.png)](../../../tags/mzhdz/)
 [![](https://web.archive.org/web/20251117010602im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/tumblr_ls0k9fPE901qhyhwto1_500.jpg)](http://philnoto.tumblr.com/post/10588631551/the-true-end-of-catwoman-1)
 [ALL PHIL NOTO ALL THE TIME](http://philnoto.tumblr.com/)
 **Еженедельные обзоры новых комиксов!**

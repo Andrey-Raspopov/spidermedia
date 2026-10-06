@@ -4,6 +4,15 @@
   "url": "/news/fan-art-challenge-4-neil-gaiman-lucifer-sandman-death/",
   "original_url": "http://spidermedia.ru/news/fan-art-challenge-4-neil-gaiman-lucifer-sandman-death",
   "archived": "https://web.archive.org/web/20251115033102/http://spidermedia.ru/news/fan-art-challenge-4-neil-gaiman-lucifer-sandman-death",
+  "tags": [
+    "eksmo",
+    "fanart",
+    "neil-gaiman",
+    "konkurs",
+    "zarubezhnye-komiksy-na-russkom",
+    "komiks-art",
+    "challenge"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/blog/sir-carnage/darkest-hour/",
   "original_url": "http://spidermedia.ru/blog/sir-carnage/darkest-hour",
   "archived": "https://web.archive.org/web/20120610214200/http://spidermedia.ru/blog/sir-carnage/darkest-hour",
+  "tags": [
+    "blackest-night",
+    "marvel",
+    "fanfikshn"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

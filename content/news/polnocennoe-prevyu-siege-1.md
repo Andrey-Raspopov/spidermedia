@@ -4,6 +4,17 @@
   "url": "/news/polnocennoe-prevyu-siege-1/",
   "original_url": "http://spidermedia.ru/news/polnocennoe-prevyu-siege-1",
   "archived": "https://web.archive.org/web/20251207004026/http://spidermedia.ru/news/polnocennoe-prevyu-siege-1",
+  "tags": [
+    "marvel",
+    "siege",
+    "art-0",
+    "brian-michael-bendis",
+    "olive-kojpel",
+    "osada",
+    "preview",
+    "dzho-kesada",
+    "iron-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

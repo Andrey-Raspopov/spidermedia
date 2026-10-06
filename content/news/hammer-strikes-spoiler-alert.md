@@ -4,6 +4,18 @@
   "url": "/news/hammer-strikes-spoiler-alert/",
   "original_url": "http://spidermedia.ru/news/hammer-strikes-spoiler-alert",
   "archived": "https://web.archive.org/web/20120611045939/http://spidermedia.ru/news/hammer-strikes-spoiler-alert",
+  "tags": [
+    "iron-man",
+    "iron-man-2",
+    "dzhon-favro",
+    "zheleznyy-chelovek",
+    "zheleznyy-chelovek-2",
+    "kino",
+    "komiksy",
+    "marvel",
+    "preview-s",
+    "spoylery"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

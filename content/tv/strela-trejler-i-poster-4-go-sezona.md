@@ -4,6 +4,10 @@
   "url": "/tv/strela-trejler-i-poster-4-go-sezona/",
   "original_url": "https://spidermedia.ru/tv/strela-trejler-i-poster-4-go-sezona",
   "archived": "https://web.archive.org/web/20250906074354/https://spidermedia.ru/tv/strela-trejler-i-poster-4-go-sezona",
+  "tags": [
+    "dc-comics",
+    "green-arrow"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

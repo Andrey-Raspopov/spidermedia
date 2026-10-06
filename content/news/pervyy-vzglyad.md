@@ -4,6 +4,10 @@
   "url": "/news/pervyy-vzglyad/",
   "original_url": "https://spidermedia.ru/news/pervyy-vzglyad",
   "archived": "https://web.archive.org/web/20250429021737/https://spidermedia.ru/news/pervyy-vzglyad",
+  "tags": [
+    "dzhona-heks",
+    "jonah-hex"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

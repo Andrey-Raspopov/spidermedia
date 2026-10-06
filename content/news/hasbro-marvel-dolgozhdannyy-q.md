@@ -4,6 +4,16 @@
   "url": "/news/hasbro-marvel-dolgozhdannyy-q/",
   "original_url": "https://spidermedia.ru/news/hasbro-marvel-dolgozhdannyy-q",
   "archived": "https://web.archive.org/web/20251110232134/https://spidermedia.ru/news/hasbro-marvel-dolgozhdannyy-q",
+  "tags": [
+    "marvel",
+    "iron-man",
+    "figurki",
+    "hasbro",
+    "daredevil",
+    "silver-surfer",
+    "deadpool",
+    "dardevil"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

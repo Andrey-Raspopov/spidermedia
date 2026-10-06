@@ -4,6 +4,13 @@
   "url": "/movies/betmen-protiv-supermena-na-zare-spravedlivosti-novye-postery-sinopsis-i-foto-leksa-lyutora/",
   "original_url": "https://spidermedia.ru/movies/betmen-protiv-supermena-na-zare-spravedlivosti-novye-postery-sinopsis-i-foto-leksa-lyutora",
   "archived": "https://web.archive.org/web/20260214143434/https://spidermedia.ru/movies/betmen-protiv-supermena-na-zare-spravedlivosti-novye-postery-sinopsis-i-foto-leksa-lyutora",
+  "tags": [
+    "batman",
+    "lex-luthor",
+    "superman",
+    "wonder-woman",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

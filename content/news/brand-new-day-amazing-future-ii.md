@@ -4,6 +4,16 @@
   "url": "/news/brand-new-day-amazing-future-ii/",
   "original_url": "https://spidermedia.ru/news/brand-new-day-amazing-future-ii",
   "archived": "https://web.archive.org/web/20260211194216/https://spidermedia.ru/news/brand-new-day-amazing-future-ii",
+  "tags": [
+    "kris-bachalo",
+    "zeb-uells",
+    "dzho-kesada",
+    "brian-michael-bendis",
+    "art-0",
+    "lizard",
+    "spider-man",
+    "yashher"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

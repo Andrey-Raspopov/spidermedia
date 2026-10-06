@@ -4,6 +4,13 @@
   "url": "/news/gerkules-smert-geroya/",
   "original_url": "http://spidermedia.ru/news/gerkules-smert-geroya",
   "archived": "https://web.archive.org/web/20120608014913/http://spidermedia.ru/news/gerkules-smert-geroya",
+  "tags": [
+    "hercules",
+    "incredible-hercules",
+    "gerkules",
+    "komiksy",
+    "marvel"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

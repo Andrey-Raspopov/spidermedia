@@ -4,6 +4,10 @@
   "url": "/games/naruto-4-review/",
   "original_url": "http://spidermedia.ru/games/naruto-4-review",
   "archived": "https://web.archive.org/web/20230209063949/http://spidermedia.ru/games/naruto-4-review",
+  "tags": [
+    "manga",
+    "recenziya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

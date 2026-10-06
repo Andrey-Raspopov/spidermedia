@@ -4,6 +4,11 @@
   "url": "/blog/samm-o/plohie-komiksy-inc-morzhi-myortvye-nevesty-i-socially-awkward-iks-23/",
   "original_url": "http://spidermedia.ru/blog/samm-o/plohie-komiksy-inc-morzhi-myortvye-nevesty-i-socially-awkward-iks-23",
   "archived": "https://web.archive.org/web/20120610055035/http://spidermedia.ru/blog/samm-o/plohie-komiksy-inc-morzhi-myortvye-nevesty-i-socially-awkward-iks-23",
+  "tags": [
+    "komiksy",
+    "mnenie",
+    "plohie-komiksy-inc"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

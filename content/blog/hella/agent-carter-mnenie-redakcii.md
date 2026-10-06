@@ -4,6 +4,12 @@
   "url": "/blog/hella/agent-carter-mnenie-redakcii/",
   "original_url": "https://spidermedia.ru/blog/hella/agent-carter-mnenie-redakcii",
   "archived": "https://web.archive.org/web/20250119053508/https://spidermedia.ru/blog/hella/agent-carter-mnenie-redakcii",
+  "tags": [
+    "serialy",
+    "obzor",
+    "marvel",
+    "agent-carter"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

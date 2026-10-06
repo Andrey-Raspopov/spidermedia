@@ -4,6 +4,9 @@
   "url": "/blog/naya/vtoroy-vseukrainskiy-festival-yaponskoy-animacii-kiev-2009-den-pervyy/",
   "original_url": "http://spidermedia.ru/blog/naya/vtoroy-vseukrainskiy-festival-yaponskoy-animacii-kiev-2009-den-pervyy",
   "archived": "https://web.archive.org/web/20111018123056/http://spidermedia.ru/blog/naya/vtoroy-vseukrainskiy-festival-yaponskoy-animacii-kiev-2009-den-pervyy",
+  "tags": [
+    "festival-0"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

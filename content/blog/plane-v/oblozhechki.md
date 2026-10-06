@@ -4,6 +4,9 @@
   "url": "/blog/plane-v/oblozhechki/",
   "original_url": "http://spidermedia.ru/blog/plane-v/oblozhechki",
   "archived": "https://web.archive.org/web/20200127175024/http://spidermedia.ru:80/blog/plane-v/oblozhechki",
+  "tags": [
+    "majk-minyola"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

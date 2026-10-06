@@ -4,6 +4,13 @@
   "url": "/blog/plane-v/music-meister/",
   "original_url": "https://spidermedia.ru/blog/plane-v/music-meister",
   "archived": "https://web.archive.org/web/20260125061607/https://spidermedia.ru/blog/plane-v/music-meister",
+  "tags": [
+    "nil-patrik-harris",
+    "muzyka",
+    "animaciya",
+    "outrageous",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/comics/space-dumplins-russian-edition-review/",
   "original_url": "http://spidermedia.ru/comics/space-dumplins-russian-edition-review",
   "archived": "https://web.archive.org/web/20220703150704/http://spidermedia.ru/comics/space-dumplins-russian-edition-review",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

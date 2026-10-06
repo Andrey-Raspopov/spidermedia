@@ -4,6 +4,11 @@
   "url": "/news/angela-ili-andzhela/",
   "original_url": "https://spidermedia.ru/news/angela-ili-andzhela",
   "archived": "https://web.archive.org/web/20251110223042/https://spidermedia.ru/news/angela-ili-andzhela",
+  "tags": [
+    "neil-gaiman",
+    "marvel",
+    "angela"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

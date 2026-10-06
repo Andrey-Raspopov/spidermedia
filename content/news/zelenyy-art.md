@@ -4,6 +4,11 @@
   "url": "/news/zelenyy-art/",
   "original_url": "https://spidermedia.ru/news/zelenyy-art",
   "archived": "https://web.archive.org/web/20240524165534/https://spidermedia.ru/news/zelenyy-art",
+  "tags": [
+    "koncept-art",
+    "art-0",
+    "green-lantern"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

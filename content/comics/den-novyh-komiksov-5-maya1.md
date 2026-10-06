@@ -4,6 +4,9 @@
   "url": "/comics/den-novyh-komiksov-5-maya1/",
   "original_url": "http://spidermedia.ru/comics/den-novyh-komiksov-5-maya1",
   "archived": "https://web.archive.org/web/20200221074145/http://spidermedia.ru:80/comics/den-novyh-komiksov-5-maya1",
+  "tags": [
+    "den-novyh-komiksov"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

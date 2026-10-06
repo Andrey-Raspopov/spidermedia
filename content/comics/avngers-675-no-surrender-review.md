@@ -4,6 +4,12 @@
   "url": "/comics/avngers-675-no-surrender-review/",
   "original_url": "http://spidermedia.ru/comics/avngers-675-no-surrender-review",
   "archived": "https://web.archive.org/web/20250909133630/http://spidermedia.ru/comics/avngers-675-no-surrender-review",
+  "tags": [
+    "marvel",
+    "mark-waid",
+    "avengers",
+    "el-yuing"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

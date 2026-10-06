@@ -4,6 +4,10 @@
   "url": "/comics/vklyuchaya-ee-imya-i-lico/",
   "original_url": "https://spidermedia.ru/comics/vklyuchaya-ee-imya-i-lico",
   "archived": "https://web.archive.org/web/20251209133639/https://spidermedia.ru/comics/vklyuchaya-ee-imya-i-lico",
+  "tags": [
+    "boomkniga",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

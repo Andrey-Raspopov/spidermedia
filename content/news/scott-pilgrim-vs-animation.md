@@ -4,6 +4,11 @@
   "url": "/news/scott-pilgrim-vs-animation/",
   "original_url": "http://spidermedia.ru/news/scott-pilgrim-vs-animation",
   "archived": "https://web.archive.org/web/20251108032351/http://spidermedia.ru/news/scott-pilgrim-vs-animation",
+  "tags": [
+    "scott-pilgrim",
+    "animaciya",
+    "oni-press"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

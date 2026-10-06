@@ -4,6 +4,12 @@
   "url": "/news/captain-america-super-soldier/",
   "original_url": "http://spidermedia.ru/news/captain-america-super-soldier",
   "archived": "https://web.archive.org/web/20260116222154/http://spidermedia.ru/news/captain-america-super-soldier",
+  "tags": [
+    "kristos-gejdzh",
+    "igry",
+    "marvel",
+    "captain-america"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

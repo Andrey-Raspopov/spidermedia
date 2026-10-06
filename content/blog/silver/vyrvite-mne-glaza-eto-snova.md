@@ -4,6 +4,11 @@
   "url": "/blog/silver/vyrvite-mne-glaza-eto-snova/",
   "original_url": "http://spidermedia.ru/blog/silver/vyrvite-mne-glaza-eto-snova",
   "archived": "https://web.archive.org/web/20220814180951/http://spidermedia.ru/blog/silver/vyrvite-mne-glaza-eto-snova",
+  "tags": [
+    "mnenie",
+    "marvel",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/news/eksklyuziv-na-comic-con-russia/",
   "original_url": "http://spidermedia.ru/news/eksklyuziv-na-comic-con-russia",
   "archived": "https://web.archive.org/web/20251216113527/http://spidermedia.ru/news/eksklyuziv-na-comic-con-russia",
+  "tags": [
+    "supernatural",
+    "comic-con-russia"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

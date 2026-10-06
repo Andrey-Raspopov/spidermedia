@@ -4,6 +4,9 @@
   "url": "/blog/alex/skuns-i-ocelot/",
   "original_url": "https://spidermedia.ru/blog/alex/skuns-i-ocelot",
   "archived": "https://web.archive.org/web/20250429145116/https://spidermedia.ru/blog/alex/skuns-i-ocelot",
+  "tags": [
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/tv/supergirl-s01e10-childish-things/",
   "original_url": "http://spidermedia.ru/tv/supergirl-s01e10-childish-things",
   "archived": "https://web.archive.org/web/20260305232046/http://spidermedia.ru/tv/supergirl-s01e10-childish-things",
+  "tags": [
+    "dc-comics",
+    "supergirl"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

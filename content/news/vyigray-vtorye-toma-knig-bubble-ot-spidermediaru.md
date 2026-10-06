@@ -4,6 +4,11 @@
   "url": "/news/vyigray-vtorye-toma-knig-bubble-ot-spidermediaru/",
   "original_url": "http://spidermedia.ru/news/vyigray-vtorye-toma-knig-bubble-ot-spidermediaru",
   "archived": "https://web.archive.org/web/20260211184410/http://spidermedia.ru/news/vyigray-vtorye-toma-knig-bubble-ot-spidermediaru",
+  "tags": [
+    "russian-comics",
+    "konkurs",
+    "bubble"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

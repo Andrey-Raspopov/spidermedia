@@ -4,6 +4,13 @@
   "url": "/blog/igrok/spider-foes-spider-foes/",
   "original_url": "http://spidermedia.ru/blog/igrok/spider-foes-spider-foes",
   "archived": "https://web.archive.org/web/20120607150137/http://spidermedia.ru/blog/igrok/spider-foes-spider-foes",
+  "tags": [
+    "amazing-spider-man",
+    "spider-man",
+    "zloveshchie-ublyudki",
+    "mysli",
+    "chelovek-pauk"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

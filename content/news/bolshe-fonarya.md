@@ -4,6 +4,13 @@
   "url": "/news/bolshe-fonarya/",
   "original_url": "http://spidermedia.ru/news/bolshe-fonarya",
   "archived": "https://web.archive.org/web/20120607175758/http://spidermedia.ru/news/bolshe-fonarya",
+  "tags": [
+    "dc-comics",
+    "green-lantern",
+    "zelenyy-fonar",
+    "kino",
+    "foto"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

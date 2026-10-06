@@ -4,6 +4,12 @@
   "url": "/news/apple-zapretila-komiks-brayna-vona-iz-za-sceny-geys-seksa/",
   "original_url": "http://spidermedia.ru/news/apple-zapretila-komiks-brayna-vona-iz-za-sceny-geys-seksa",
   "archived": "https://web.archive.org/web/20260211184305/http://spidermedia.ru/news/apple-zapretila-komiks-brayna-vona-iz-za-sceny-geys-seksa",
+  "tags": [
+    "industriya",
+    "brian-k-vaughan",
+    "saga",
+    "image-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,22 @@
   "url": "/news/kto-bystree/",
   "original_url": "http://spidermedia.ru/news/kto-bystree",
   "archived": "https://web.archive.org/web/20251208070908/http://spidermedia.ru/news/kto-bystree",
+  "tags": [
+    "marvel",
+    "mark-millar",
+    "wolverine",
+    "dzheyson-aaron",
+    "old-man-logan",
+    "deniel-vej",
+    "stiv-makniven",
+    "steve-mcniven",
+    "tommi-li-edvards",
+    "dejken",
+    "daniel-way",
+    "jason-aaron",
+    "adam-kubert",
+    "tommy-lee-edwards"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

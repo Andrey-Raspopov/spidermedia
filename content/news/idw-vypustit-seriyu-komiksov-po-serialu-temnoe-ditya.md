@@ -4,6 +4,9 @@
   "url": "/news/idw-vypustit-seriyu-komiksov-po-serialu-temnoe-ditya/",
   "original_url": "https://spidermedia.ru/news/idw-vypustit-seriyu-komiksov-po-serialu-temnoe-ditya",
   "archived": "https://web.archive.org/web/20260208203710/https://spidermedia.ru/news/idw-vypustit-seriyu-komiksov-po-serialu-temnoe-ditya",
+  "tags": [
+    "idw-publishing"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

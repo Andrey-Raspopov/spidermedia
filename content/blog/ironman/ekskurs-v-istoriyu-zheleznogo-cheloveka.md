@@ -4,6 +4,11 @@
   "url": "/blog/ironman/ekskurs-v-istoriyu-zheleznogo-cheloveka/",
   "original_url": "http://spidermedia.ru/blog/ironman/ekskurs-v-istoriyu-zheleznogo-cheloveka",
   "archived": "https://web.archive.org/web/20260206225414/http://spidermedia.ru/blog/ironman/ekskurs-v-istoriyu-zheleznogo-cheloveka",
+  "tags": [
+    "obzor",
+    "marvel",
+    "iron-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/blog/redson/feels-bit-beethoven-chto-ya-slushal-v-yanvare/",
   "original_url": "https://spidermedia.ru/blog/redson/feels-bit-beethoven-chto-ya-slushal-v-yanvare",
   "archived": "https://web.archive.org/web/20260125063259/https://spidermedia.ru/blog/redson/feels-bit-beethoven-chto-ya-slushal-v-yanvare",
+  "tags": [
+    "muzyka",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

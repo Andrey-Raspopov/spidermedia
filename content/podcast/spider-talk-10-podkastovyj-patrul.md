@@ -4,6 +4,9 @@
   "url": "/podcast/spider-talk-10-podkastovyj-patrul/",
   "original_url": "http://spidermedia.ru/podcast/spider-talk-10-podkastovyj-patrul",
   "archived": "https://web.archive.org/web/20251206150240/http://spidermedia.ru/podcast/spider-talk-10-podkastovyj-patrul",
+  "tags": [
+    "spider-talk"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

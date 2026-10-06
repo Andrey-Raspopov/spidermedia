@@ -4,6 +4,14 @@
   "url": "/news/sdcc10-panel-metta-frakshena/",
   "original_url": "http://spidermedia.ru/news/sdcc10-panel-metta-frakshena",
   "archived": "https://web.archive.org/web/20120512064930/http://spidermedia.ru/news/sdcc10-panel-metta-frakshena",
+  "tags": [
+    "dc-comics",
+    "sdcc-2010",
+    "video",
+    "komik-kon-v-san-diego",
+    "marvel",
+    "mett-frakshen"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

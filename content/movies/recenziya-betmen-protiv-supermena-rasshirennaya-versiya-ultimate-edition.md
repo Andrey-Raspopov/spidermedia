@@ -4,6 +4,11 @@
   "url": "/movies/recenziya-betmen-protiv-supermena-rasshirennaya-versiya-ultimate-edition/",
   "original_url": "https://spidermedia.ru/movies/recenziya-betmen-protiv-supermena-rasshirennaya-versiya-ultimate-edition",
   "archived": "https://web.archive.org/web/20260123090103/https://spidermedia.ru/movies/recenziya-betmen-protiv-supermena-rasshirennaya-versiya-ultimate-edition",
+  "tags": [
+    "dc-comics",
+    "batman",
+    "superman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

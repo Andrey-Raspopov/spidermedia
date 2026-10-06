@@ -4,6 +4,10 @@
   "url": "/blog/sterpazook/watchmen-neudachnaya-ekranizaciya/",
   "original_url": "https://spidermedia.ru/blog/sterpazook/watchmen-neudachnaya-ekranizaciya",
   "archived": "https://web.archive.org/web/20260125053352/https://spidermedia.ru/blog/sterpazook/watchmen-neudachnaya-ekranizaciya",
+  "tags": [
+    "hraniteli",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,14 @@
   "url": "/blog/alex/batman-arkham-asylum/",
   "original_url": "https://spidermedia.ru/blog/alex/batman-arkham-asylum",
   "archived": "https://web.archive.org/web/20260115053424/https://spidermedia.ru/blog/alex/batman-arkham-asylum",
+  "tags": [
+    "dc-comics",
+    "batman",
+    "igry",
+    "joker",
+    "trejlery",
+    "skrinshoty"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

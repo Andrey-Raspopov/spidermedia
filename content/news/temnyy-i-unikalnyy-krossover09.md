@@ -4,6 +4,19 @@
   "url": "/news/temnyy-i-unikalnyy-krossover09/",
   "original_url": "http://spidermedia.ru/news/temnyy-i-unikalnyy-krossover09",
   "archived": "https://web.archive.org/web/20120611042006/http://spidermedia.ru/news/temnyy-i-unikalnyy-krossover09",
+  "tags": [
+    "dark-avengers",
+    "uncanny-x-men",
+    "utopia",
+    "x-universe",
+    "art-0",
+    "brayan-maykl-bendis",
+    "komiksy",
+    "marvel",
+    "mett-frakshen",
+    "oblozhki",
+    "tyomnye-mstiteli"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

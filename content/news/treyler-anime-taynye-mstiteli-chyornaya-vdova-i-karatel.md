@@ -4,6 +4,15 @@
   "url": "/news/treyler-anime-taynye-mstiteli-chyornaya-vdova-i-karatel/",
   "original_url": "https://spidermedia.ru/news/treyler-anime-taynye-mstiteli-chyornaya-vdova-i-karatel",
   "archived": "https://web.archive.org/web/20251207100409/https://spidermedia.ru/news/treyler-anime-taynye-mstiteli-chyornaya-vdova-i-karatel",
+  "tags": [
+    "black-widow",
+    "trejlery",
+    "nik-fyuri",
+    "avengers",
+    "marvel",
+    "punisher",
+    "animaciya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

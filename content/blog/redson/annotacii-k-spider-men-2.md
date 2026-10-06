@@ -4,6 +4,12 @@
   "url": "/blog/redson/annotacii-k-spider-men-2/",
   "original_url": "https://spidermedia.ru/blog/redson/annotacii-k-spider-men-2",
   "archived": "https://web.archive.org/web/20251108183416/https://spidermedia.ru/blog/redson/annotacii-k-spider-men-2",
+  "tags": [
+    "mnenie",
+    "spider-man",
+    "marvel",
+    "brian-michael-bendis"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

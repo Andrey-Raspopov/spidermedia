@@ -4,6 +4,12 @@
   "url": "/blog/red-hulk/smallville-startuet-v-konce-sentyabrya/",
   "original_url": "http://spidermedia.ru/blog/red-hulk/smallville-startuet-v-konce-sentyabrya",
   "archived": "https://web.archive.org/web/20120608182756/http://spidermedia.ru/blog/red-hulk/smallville-startuet-v-konce-sentyabrya",
+  "tags": [
+    "serialy",
+    "smollvill",
+    "tayny-smollvillya",
+    "tv-0"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

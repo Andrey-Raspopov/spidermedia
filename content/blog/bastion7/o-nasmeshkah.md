@@ -4,6 +4,11 @@
   "url": "/blog/bastion7/o-nasmeshkah/",
   "original_url": "http://spidermedia.ru/blog/bastion7/o-nasmeshkah",
   "archived": "https://web.archive.org/web/20120607150203/http://spidermedia.ru/blog/bastion7/o-nasmeshkah",
+  "tags": [
+    "kino",
+    "komiksy",
+    "mysli"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

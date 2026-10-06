@@ -4,6 +4,10 @@
   "url": "/comics/hellboymedia-special-09-hellboy-crossovers/",
   "original_url": "https://spidermedia.ru/comics/hellboymedia-special-09-hellboy-crossovers",
   "archived": "https://web.archive.org/web/20251206152641/https://spidermedia.ru/comics/hellboymedia-special-09-hellboy-crossovers",
+  "tags": [
+    "hellboymedia",
+    "obzor"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

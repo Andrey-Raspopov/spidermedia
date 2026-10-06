@@ -4,6 +4,10 @@
   "url": "/blog/oleg89/whatever-happened-kevin-smiths-superman/",
   "original_url": "http://spidermedia.ru/blog/oleg89/whatever-happened-kevin-smiths-superman",
   "archived": "https://web.archive.org/web/20240720170404/http://spidermedia.ru/blog/oleg89/whatever-happened-kevin-smiths-superman",
+  "tags": [
+    "superman",
+    "kevin-smit"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

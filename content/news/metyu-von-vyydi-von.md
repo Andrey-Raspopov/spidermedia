@@ -4,6 +4,12 @@
   "url": "/news/metyu-von-vyydi-von/",
   "original_url": "https://spidermedia.ru/news/metyu-von-vyydi-von",
   "archived": "https://web.archive.org/web/20260124044056/https://spidermedia.ru/news/metyu-von-vyydi-von",
+  "tags": [
+    "days-of-future-past",
+    "lyudi-iks-pervyj-klass",
+    "marvel",
+    "x-men"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/movies/chudo-zhenshhina-novosti-kastinga/",
   "original_url": "http://spidermedia.ru/movies/chudo-zhenshhina-novosti-kastinga",
   "archived": "https://web.archive.org/web/20260215074809/http://spidermedia.ru/movies/chudo-zhenshhina-novosti-kastinga",
+  "tags": [
+    "dc-comics",
+    "wonder-woman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

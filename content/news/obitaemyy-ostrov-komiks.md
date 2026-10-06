@@ -4,6 +4,10 @@
   "url": "/news/obitaemyy-ostrov-komiks/",
   "original_url": "https://spidermedia.ru/news/obitaemyy-ostrov-komiks",
   "archived": "https://web.archive.org/web/20250210035224/https://spidermedia.ru/news/obitaemyy-ostrov-komiks",
+  "tags": [
+    "russian-comics",
+    "obitaemyj-ostrov"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/comics/hellboymedia-the-hellboy-100-project-covers/",
   "original_url": "https://spidermedia.ru/comics/hellboymedia-the-hellboy-100-project-covers",
   "archived": "https://web.archive.org/web/20260206230424/https://spidermedia.ru/comics/hellboymedia-the-hellboy-100-project-covers",
+  "tags": [
+    "hellboymedia",
+    "novosti"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

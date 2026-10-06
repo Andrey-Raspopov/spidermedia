@@ -4,6 +4,11 @@
   "url": "/blog/shargor/hellboymedia-special-05-art-tribyuty-k-yubileyu-hellboya/",
   "original_url": "http://spidermedia.ru/blog/shargor/hellboymedia-special-05-art-tribyuty-k-yubileyu-hellboya",
   "archived": "https://web.archive.org/web/20260305231520/http://spidermedia.ru/blog/shargor/hellboymedia-special-05-art-tribyuty-k-yubileyu-hellboya",
+  "tags": [
+    "hellboymedia",
+    "20-let-hellboya",
+    "obzor"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

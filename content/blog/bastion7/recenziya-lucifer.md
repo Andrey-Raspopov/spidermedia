@@ -4,6 +4,14 @@
   "url": "/blog/bastion7/recenziya-lucifer/",
   "original_url": "https://spidermedia.ru/blog/bastion7/recenziya-lucifer",
   "archived": "https://web.archive.org/web/20260314081654/https://spidermedia.ru/blog/bastion7/recenziya-lucifer",
+  "tags": [
+    "dc-comics",
+    "recenziya",
+    "vertigo",
+    "majk-keri",
+    "piter-gross",
+    "lyucifer"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

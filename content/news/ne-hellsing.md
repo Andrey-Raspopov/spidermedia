@@ -4,6 +4,15 @@
   "url": "/news/ne-hellsing/",
   "original_url": "http://spidermedia.ru/news/ne-hellsing",
   "archived": "https://web.archive.org/web/20120608173323/http://spidermedia.ru/news/ne-hellsing",
+  "tags": [
+    "manhwa",
+    "priest",
+    "tokyopop",
+    "kino",
+    "komiksy",
+    "manhva",
+    "svyashchennik"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

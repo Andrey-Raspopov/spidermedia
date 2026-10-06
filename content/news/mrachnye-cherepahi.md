@@ -4,6 +4,12 @@
   "url": "/news/mrachnye-cherepahi/",
   "original_url": "http://spidermedia.ru/news/mrachnye-cherepahi",
   "archived": "https://web.archive.org/web/20120607174758/http://spidermedia.ru/news/mrachnye-cherepahi",
+  "tags": [
+    "ninja-turtles",
+    "tmnt",
+    "kino",
+    "cherepashki-nindzya"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

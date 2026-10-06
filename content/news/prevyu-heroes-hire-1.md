@@ -4,6 +4,14 @@
   "url": "/news/prevyu-heroes-hire-1/",
   "original_url": "http://spidermedia.ru/news/prevyu-heroes-hire-1",
   "archived": "https://web.archive.org/web/20250804012723/http://spidermedia.ru/news/prevyu-heroes-hire-1",
+  "tags": [
+    "endi-lenning",
+    "preview",
+    "den-ebnett",
+    "geroi-po-najmu",
+    "heroes-for-hire",
+    "brad-walker"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

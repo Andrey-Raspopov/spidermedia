@@ -4,6 +4,11 @@
   "url": "/news/unwritten/",
   "original_url": "http://spidermedia.ru/news/unwritten",
   "archived": "https://web.archive.org/web/20250814203534/http://spidermedia.ru/news/unwritten",
+  "tags": [
+    "piter-gross",
+    "majk-keri",
+    "vertigo"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

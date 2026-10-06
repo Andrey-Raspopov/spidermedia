@@ -4,6 +4,11 @@
   "url": "/blog/deadpoolic/vs-killer-demons/",
   "original_url": "http://spidermedia.ru/blog/deadpoolic/vs-killer-demons",
   "archived": "https://web.archive.org/web/20190718094333/http://spidermedia.ru/blog/deadpoolic/vs-killer-demons",
+  "tags": [
+    "image-comics",
+    "kris-jost",
+    "x-men"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

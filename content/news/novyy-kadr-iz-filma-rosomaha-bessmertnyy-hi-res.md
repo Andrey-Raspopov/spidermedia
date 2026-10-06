@@ -4,6 +4,10 @@
   "url": "/news/novyy-kadr-iz-filma-rosomaha-bessmertnyy-hi-res/",
   "original_url": "http://spidermedia.ru/news/novyy-kadr-iz-filma-rosomaha-bessmertnyy-hi-res",
   "archived": "https://web.archive.org/web/20251206035320/http://spidermedia.ru/news/novyy-kadr-iz-filma-rosomaha-bessmertnyy-hi-res",
+  "tags": [
+    "wolverine",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,13 @@
   "url": "/news/ultimate-x-chetvertyy-ultimate-ongoing/",
   "original_url": "https://spidermedia.ru/news/ultimate-x-chetvertyy-ultimate-ongoing",
   "archived": "https://web.archive.org/web/20250208091322/https://spidermedia.ru/news/ultimate-x-chetvertyy-ultimate-ongoing",
+  "tags": [
+    "ultimate",
+    "x-men",
+    "marvel",
+    "dzhef-loeb",
+    "artur-adams"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

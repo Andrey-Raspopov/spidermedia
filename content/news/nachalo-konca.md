@@ -4,6 +4,14 @@
   "url": "/news/nachalo-konca/",
   "original_url": "https://spidermedia.ru/news/nachalo-konca",
   "archived": "https://web.archive.org/web/20260115055703/https://spidermedia.ru/news/nachalo-konca",
+  "tags": [
+    "franchesko-mattina",
+    "roland-boshi",
+    "rik-remender",
+    "punisher",
+    "art-0",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

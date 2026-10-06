@@ -4,6 +4,13 @@
   "url": "/news/bitva-za-samocvety-beskonechnosti/",
   "original_url": "https://spidermedia.ru/news/bitva-za-samocvety-beskonechnosti",
   "archived": "https://web.archive.org/web/20251014042127/https://spidermedia.ru/news/bitva-za-samocvety-beskonechnosti",
+  "tags": [
+    "preview",
+    "brian-michael-bendis",
+    "marvel",
+    "avengers",
+    "dzhon-romita-ml"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

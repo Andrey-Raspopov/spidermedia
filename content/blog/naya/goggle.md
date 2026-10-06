@@ -4,6 +4,11 @@
   "url": "/blog/naya/goggle/",
   "original_url": "http://spidermedia.ru/blog/naya/goggle",
   "archived": "https://web.archive.org/web/20251216125648/http://spidermedia.ru/blog/naya/goggle",
+  "tags": [
+    "slice-of-life",
+    "one-shot",
+    "manga"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

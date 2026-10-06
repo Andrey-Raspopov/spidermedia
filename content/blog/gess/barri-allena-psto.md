@@ -4,6 +4,10 @@
   "url": "/blog/gess/barri-allena-psto/",
   "original_url": "http://spidermedia.ru/blog/gess/barri-allena-psto",
   "archived": "https://web.archive.org/web/20111025114511/http://spidermedia.ru/blog/gess/barri-allena-psto",
+  "tags": [
+    "flash",
+    "muzyka"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

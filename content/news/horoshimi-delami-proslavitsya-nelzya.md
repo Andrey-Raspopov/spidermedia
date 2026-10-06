@@ -4,6 +4,17 @@
   "url": "/news/horoshimi-delami-proslavitsya-nelzya/",
   "original_url": "http://spidermedia.ru/news/horoshimi-delami-proslavitsya-nelzya",
   "archived": "https://web.archive.org/web/20120607112811/http://spidermedia.ru/news/horoshimi-delami-proslavitsya-nelzya",
+  "tags": [
+    "heroes-hire",
+    "sdcc-2011",
+    "geroi-po-naymu",
+    "den-ebnett",
+    "komik-kon-v-san-diego",
+    "komiksy",
+    "marvel",
+    "renato-arlem",
+    "endi-lenning"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

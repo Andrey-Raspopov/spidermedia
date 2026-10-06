@@ -4,6 +4,9 @@
   "url": "/comics/blast-review/",
   "original_url": "http://spidermedia.ru/comics/blast-review",
   "archived": "https://web.archive.org/web/20251013175156/http://spidermedia.ru/comics/blast-review",
+  "tags": [
+    "bande-dessinée"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

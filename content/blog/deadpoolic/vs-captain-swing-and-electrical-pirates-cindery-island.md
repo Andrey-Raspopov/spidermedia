@@ -4,6 +4,10 @@
   "url": "/blog/deadpoolic/vs-captain-swing-and-electrical-pirates-cindery-island/",
   "original_url": "https://spidermedia.ru/blog/deadpoolic/vs-captain-swing-and-electrical-pirates-cindery-island",
   "archived": "https://web.archive.org/web/20260312021218/https://spidermedia.ru/blog/deadpoolic/vs-captain-swing-and-electrical-pirates-cindery-island",
+  "tags": [
+    "avatar-press",
+    "warren-ellis"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

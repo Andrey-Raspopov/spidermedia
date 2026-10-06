@@ -4,6 +4,11 @@
   "url": "/blog/x-boy/exclusive-marvel-preview-dark-reign-elektra-2/",
   "original_url": "http://spidermedia.ru/blog/x-boy/exclusive-marvel-preview-dark-reign-elektra-2",
   "archived": "https://web.archive.org/web/20120512062459/http://spidermedia.ru/blog/x-boy/exclusive-marvel-preview-dark-reign-elektra-2",
+  "tags": [
+    "dark-reign",
+    "elektra",
+    "hawkeye"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

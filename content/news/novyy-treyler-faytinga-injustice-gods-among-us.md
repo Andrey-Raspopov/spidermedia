@@ -4,6 +4,12 @@
   "url": "/news/novyy-treyler-faytinga-injustice-gods-among-us/",
   "original_url": "http://spidermedia.ru/news/novyy-treyler-faytinga-injustice-gods-among-us",
   "archived": "https://web.archive.org/web/20260215085722/http://spidermedia.ru/news/novyy-treyler-faytinga-injustice-gods-among-us",
+  "tags": [
+    "injustice",
+    "igry",
+    "justice-league",
+    "trejlery"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

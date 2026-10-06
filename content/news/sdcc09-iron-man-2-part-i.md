@@ -4,6 +4,21 @@
   "url": "/news/sdcc09-iron-man-2-part-i/",
   "original_url": "http://spidermedia.ru/news/sdcc09-iron-man-2-part-i",
   "archived": "https://web.archive.org/web/20120607184743/http://spidermedia.ru/news/sdcc09-iron-man-2-part-i",
+  "tags": [
+    "black-widow",
+    "iron-man",
+    "iron-man-2",
+    "san-diego-comic-con-2009",
+    "sdcc-2009",
+    "whiplash",
+    "dzhon-favro",
+    "zheleznyy-chelovek",
+    "zheleznyy-chelovek-2",
+    "kino",
+    "knut",
+    "marvel",
+    "chyornaya-vdova"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

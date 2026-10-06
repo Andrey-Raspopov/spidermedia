@@ -4,6 +4,15 @@
   "url": "/news/hunter-killer-back-action/",
   "original_url": "http://spidermedia.ru/news/hunter-killer-back-action",
   "archived": "https://web.archive.org/web/20160426204020/http://spidermedia.ru/news/hunter-killer-back-action",
+  "tags": [
+    "mark-waid",
+    "image-comics",
+    "top-cow",
+    "art-0",
+    "hunter-killer",
+    "kennet-rokafort",
+    "cyberforce"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

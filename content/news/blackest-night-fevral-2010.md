@@ -4,6 +4,12 @@
   "url": "/news/blackest-night-fevral-2010/",
   "original_url": "https://spidermedia.ru/news/blackest-night-fevral-2010",
   "archived": "https://web.archive.org/web/20251106235500/https://spidermedia.ru/news/blackest-night-fevral-2010",
+  "tags": [
+    "temnejshaya-noch",
+    "solicitations",
+    "dc-comics",
+    "blackest-night"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

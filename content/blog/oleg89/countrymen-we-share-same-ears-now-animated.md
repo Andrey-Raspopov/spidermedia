@@ -4,6 +4,17 @@
   "url": "/blog/oleg89/countrymen-we-share-same-ears-now-animated/",
   "original_url": "http://spidermedia.ru/blog/oleg89/countrymen-we-share-same-ears-now-animated",
   "archived": "https://web.archive.org/web/20260115062025/http://spidermedia.ru/blog/oleg89/countrymen-we-share-same-ears-now-animated",
+  "tags": [
+    "animirovannye-komiksy",
+    "star-trek",
+    "zvezdnyj-put",
+    "motion-comics",
+    "devid-messina",
+    "roberto-orchi",
+    "aleks-kurtcman",
+    "tim-dzhons",
+    "majk-dzhonson"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

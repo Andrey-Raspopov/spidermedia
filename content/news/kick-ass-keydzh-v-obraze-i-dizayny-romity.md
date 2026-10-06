@@ -4,6 +4,13 @@
   "url": "/news/kick-ass-keydzh-v-obraze-i-dizayny-romity/",
   "original_url": "http://spidermedia.ru/news/kick-ass-keydzh-v-obraze-i-dizayny-romity",
   "archived": "https://web.archive.org/web/20120608140434/http://spidermedia.ru/news/kick-ass-keydzh-v-obraze-i-dizayny-romity",
+  "tags": [
+    "kick-ass",
+    "kino",
+    "mark-millar",
+    "mettyu-von",
+    "postery"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

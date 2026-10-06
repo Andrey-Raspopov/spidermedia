@@ -4,6 +4,15 @@
   "url": "/movies/pervyj-mstitel-protivostoyanie-koncept-poster-3-v-1-i-drugie-promo-materialy/",
   "original_url": "https://spidermedia.ru/movies/pervyj-mstitel-protivostoyanie-koncept-poster-3-v-1-i-drugie-promo-materialy",
   "archived": "https://web.archive.org/web/20251014051002/https://spidermedia.ru/movies/pervyj-mstitel-protivostoyanie-koncept-poster-3-v-1-i-drugie-promo-materialy",
+  "tags": [
+    "marvel",
+    "iron-man",
+    "winter-soldier",
+    "captain-america",
+    "avengers",
+    "black-widow",
+    "black-panther"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

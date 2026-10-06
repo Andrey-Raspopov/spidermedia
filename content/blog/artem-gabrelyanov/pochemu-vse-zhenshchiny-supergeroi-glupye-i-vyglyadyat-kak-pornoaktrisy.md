@@ -4,6 +4,10 @@
   "url": "/blog/artem-gabrelyanov/pochemu-vse-zhenshchiny-supergeroi-glupye-i-vyglyadyat-kak-pornoaktrisy/",
   "original_url": "http://spidermedia.ru/blog/artem-gabrelyanov/pochemu-vse-zhenshchiny-supergeroi-glupye-i-vyglyadyat-kak-pornoaktrisy",
   "archived": "https://web.archive.org/web/20260206223110/http://spidermedia.ru/blog/artem-gabrelyanov/pochemu-vse-zhenshchiny-supergeroi-glupye-i-vyglyadyat-kak-pornoaktrisy",
+  "tags": [
+    "supergeroi",
+    "industriya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

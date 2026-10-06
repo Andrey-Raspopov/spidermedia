@@ -4,6 +4,10 @@
   "url": "/tv/chto-vnutri-u-sorvigolovy-serii-9-11/",
   "original_url": "http://spidermedia.ru/tv/chto-vnutri-u-sorvigolovy-serii-9-11",
   "archived": "https://web.archive.org/web/20250315180349/http://spidermedia.ru/tv/chto-vnutri-u-sorvigolovy-serii-9-11",
+  "tags": [
+    "marvel",
+    "daredevil"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

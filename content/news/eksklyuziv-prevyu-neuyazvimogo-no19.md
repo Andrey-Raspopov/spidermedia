@@ -4,6 +4,14 @@
   "url": "/news/eksklyuziv-prevyu-neuyazvimogo-no19/",
   "original_url": "https://spidermedia.ru/news/eksklyuziv-prevyu-neuyazvimogo-no19",
   "archived": "https://web.archive.org/web/20260314083001/https://spidermedia.ru/news/eksklyuziv-prevyu-neuyazvimogo-no19",
+  "tags": [
+    "ryan-ottley",
+    "robert-kirkman",
+    "image-comics",
+    "invincible",
+    "izdatelstvo-42",
+    "zarubezhnye-komiksy-na-russkom"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

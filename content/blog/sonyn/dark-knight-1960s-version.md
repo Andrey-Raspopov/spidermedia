@@ -4,6 +4,9 @@
   "url": "/blog/sonyn/dark-knight-1960s-version/",
   "original_url": "http://spidermedia.ru/blog/sonyn/dark-knight-1960s-version",
   "archived": "https://web.archive.org/web/20120718103410/http://spidermedia.ru/blog/sonyn/dark-knight-1960s-version",
+  "tags": [
+    "batman"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

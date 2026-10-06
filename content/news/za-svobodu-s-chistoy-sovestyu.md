@@ -4,6 +4,21 @@
   "url": "/news/za-svobodu-s-chistoy-sovestyu/",
   "original_url": "https://spidermedia.ru/news/za-svobodu-s-chistoy-sovestyu",
   "archived": "https://web.archive.org/web/20260307055142/https://spidermedia.ru/news/za-svobodu-s-chistoy-sovestyu",
+  "tags": [
+    "majk-ollred",
+    "tim-sejl",
+    "pol-poup",
+    "neil-gaiman",
+    "san-diego-comic-con-international",
+    "dzhon-romita-ml",
+    "dzhimmi-palmiotti",
+    "jim-lee",
+    "dzheyson-aaron",
+    "gejl-simon",
+    "painkiller-jane",
+    "liberty-comics",
+    "image-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

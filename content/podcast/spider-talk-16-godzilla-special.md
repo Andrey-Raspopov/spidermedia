@@ -4,6 +4,9 @@
   "url": "/podcast/spider-talk-16-godzilla-special/",
   "original_url": "http://spidermedia.ru/podcast/spider-talk-16-godzilla-special",
   "archived": "https://web.archive.org/web/20251216182849/http://spidermedia.ru/podcast/spider-talk-16-godzilla-special",
+  "tags": [
+    "spider-talk"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

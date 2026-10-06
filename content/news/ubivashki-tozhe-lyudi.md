@@ -4,6 +4,15 @@
   "url": "/news/ubivashki-tozhe-lyudi/",
   "original_url": "http://spidermedia.ru/news/ubivashki-tozhe-lyudi",
   "archived": "https://web.archive.org/web/20260115052605/http://spidermedia.ru/news/ubivashki-tozhe-lyudi",
+  "tags": [
+    "ubivashka",
+    "mark-millar",
+    "leandro-fernandez",
+    "art-0",
+    "marvel",
+    "icon-comics",
+    "hit-girl"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

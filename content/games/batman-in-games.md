@@ -4,6 +4,11 @@
   "url": "/games/batman-in-games/",
   "original_url": "https://spidermedia.ru/games/batman-in-games",
   "archived": "https://web.archive.org/web/20260123083618/https://spidermedia.ru/games/batman-in-games",
+  "tags": [
+    "dc-comics",
+    "batman",
+    "batman-week"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

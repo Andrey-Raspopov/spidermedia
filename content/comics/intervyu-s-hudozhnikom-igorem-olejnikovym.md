@@ -4,6 +4,10 @@
   "url": "/comics/intervyu-s-hudozhnikom-igorem-olejnikovym/",
   "original_url": "https://spidermedia.ru/comics/intervyu-s-hudozhnikom-igorem-olejnikovym",
   "archived": "https://web.archive.org/web/20260217211120/https://spidermedia.ru/comics/intervyu-s-hudozhnikom-igorem-olejnikovym",
+  "tags": [
+    "intervyu",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

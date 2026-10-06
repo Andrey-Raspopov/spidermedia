@@ -4,6 +4,14 @@
   "url": "/news/udivitelnaya-era-ekstremalnogo-apokalipsisa/",
   "original_url": "http://spidermedia.ru/news/udivitelnaya-era-ekstremalnogo-apokalipsisa",
   "archived": "https://web.archive.org/web/20260314082606/http://spidermedia.ru/news/udivitelnaya-era-ekstremalnogo-apokalipsisa",
+  "tags": [
+    "matteo-buffani",
+    "mardzhori-lyu",
+    "devid-lafem",
+    "greg-pak",
+    "x-men",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

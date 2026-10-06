@@ -4,6 +4,13 @@
   "url": "/news/krepche-za-baranku-derzhis-fonar/",
   "original_url": "https://spidermedia.ru/news/krepche-za-baranku-derzhis-fonar",
   "archived": "https://web.archive.org/web/20251206160659/https://spidermedia.ru/news/krepche-za-baranku-derzhis-fonar",
+  "tags": [
+    "temnejshaya-noch",
+    "ajvan-rejs",
+    "ivan-reis",
+    "green-lantern",
+    "blackest-night"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

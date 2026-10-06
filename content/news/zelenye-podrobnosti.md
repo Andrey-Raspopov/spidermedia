@@ -4,6 +4,11 @@
   "url": "/news/zelenye-podrobnosti/",
   "original_url": "http://spidermedia.ru/news/zelenye-podrobnosti",
   "archived": "https://web.archive.org/web/20250620075559/http://spidermedia.ru/news/zelenye-podrobnosti",
+  "tags": [
+    "geoff-johns",
+    "hal-jordan",
+    "green-lantern"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

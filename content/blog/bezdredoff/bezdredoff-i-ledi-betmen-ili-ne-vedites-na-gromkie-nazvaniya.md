@@ -4,6 +4,11 @@
   "url": "/blog/bezdredoff/bezdredoff-i-ledi-betmen-ili-ne-vedites-na-gromkie-nazvaniya/",
   "original_url": "http://spidermedia.ru/blog/bezdredoff/bezdredoff-i-ledi-betmen-ili-ne-vedites-na-gromkie-nazvaniya",
   "archived": "https://web.archive.org/web/20120607092115/http://spidermedia.ru/blog/bezdredoff/bezdredoff-i-ledi-betmen-ili-ne-vedites-na-gromkie-nazvaniya",
+  "tags": [
+    "videoblog",
+    "videoobzor",
+    "ledi-betmen"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

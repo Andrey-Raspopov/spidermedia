@@ -4,6 +4,14 @@
   "url": "/news/prevyu-new-avengers-reunion-3/",
   "original_url": "http://spidermedia.ru/news/prevyu-new-avengers-reunion-3",
   "archived": "https://web.archive.org/web/20250318063754/http://spidermedia.ru/news/prevyu-new-avengers-reunion-3",
+  "tags": [
+    "marvel",
+    "preview",
+    "ronin",
+    "mockingbird",
+    "peresmeshnica",
+    "dzhim-makkenn"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

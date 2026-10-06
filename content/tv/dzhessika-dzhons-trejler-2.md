@@ -4,6 +4,10 @@
   "url": "/tv/dzhessika-dzhons-trejler-2/",
   "original_url": "http://spidermedia.ru/tv/dzhessika-dzhons-trejler-2",
   "archived": "https://web.archive.org/web/20260117212547/http://spidermedia.ru/tv/dzhessika-dzhons-trejler-2",
+  "tags": [
+    "jessica-jones-alias",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

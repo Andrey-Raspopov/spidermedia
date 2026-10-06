@@ -4,6 +4,10 @@
   "url": "/movies/u-filma-pro-lobo-poyavilsya-scenarist/",
   "original_url": "https://spidermedia.ru/movies/u-filma-pro-lobo-poyavilsya-scenarist",
   "archived": "https://web.archive.org/web/20260121004108/https://spidermedia.ru/movies/u-filma-pro-lobo-poyavilsya-scenarist",
+  "tags": [
+    "dc-comics",
+    "lobo"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

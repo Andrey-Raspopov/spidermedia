@@ -4,6 +4,13 @@
   "url": "/blog/zipop/sovremennye-tendencii-v-dizayne-2/",
   "original_url": "http://spidermedia.ru/blog/zipop/sovremennye-tendencii-v-dizayne-2",
   "archived": "https://web.archive.org/web/20120607124804/http://spidermedia.ru/blog/zipop/sovremennye-tendencii-v-dizayne-2",
+  "tags": [
+    "design",
+    "future",
+    "gadzhety",
+    "dizayn",
+    "koncepty"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

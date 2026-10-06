@@ -4,6 +4,13 @@
   "url": "/blog/silver/frenk-i-tak-mozhet/",
   "original_url": "http://spidermedia.ru/blog/silver/frenk-i-tak-mozhet",
   "archived": "https://web.archive.org/web/20120612001245/http://spidermedia.ru/blog/silver/frenk-i-tak-mozhet",
+  "tags": [
+    "punisher",
+    "art-0",
+    "komiksy",
+    "marvel",
+    "paolo-rivera"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

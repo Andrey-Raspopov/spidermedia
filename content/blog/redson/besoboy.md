@@ -4,6 +4,12 @@
   "url": "/blog/redson/besoboy/",
   "original_url": "https://spidermedia.ru/blog/redson/besoboy",
   "archived": "https://web.archive.org/web/20260215075603/https://spidermedia.ru/blog/redson/besoboy",
+  "tags": [
+    "russian-comics",
+    "mnenie",
+    "besoboj",
+    "bubble"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

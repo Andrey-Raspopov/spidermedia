@@ -4,6 +4,12 @@
   "url": "/blog/gess/rob-pattinson-kak-absolyutnoe-vpoloshchenie-lyutogo-ada-i-uzhasa/",
   "original_url": "http://spidermedia.ru/blog/gess/rob-pattinson-kak-absolyutnoe-vpoloshchenie-lyutogo-ada-i-uzhasa",
   "archived": "https://web.archive.org/web/20120607134438/http://spidermedia.ru/blog/gess/rob-pattinson-kak-absolyutnoe-vpoloshchenie-lyutogo-ada-i-uzhasa",
+  "tags": [
+    "i-shit-you-not",
+    "youngblood",
+    "kino",
+    "rob-pattinson"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

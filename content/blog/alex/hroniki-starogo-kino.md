@@ -4,6 +4,10 @@
   "url": "/blog/alex/hroniki-starogo-kino/",
   "original_url": "https://spidermedia.ru/blog/alex/hroniki-starogo-kino",
   "archived": "https://web.archive.org/web/20251115024215/https://spidermedia.ru/blog/alex/hroniki-starogo-kino",
+  "tags": [
+    "dc-comics",
+    "the-flash"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

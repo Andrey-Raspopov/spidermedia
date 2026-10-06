@@ -4,6 +4,10 @@
   "url": "/tv/preacher-s02e07-08-pig-holes/",
   "original_url": "https://spidermedia.ru/tv/preacher-s02e07-08-pig-holes",
   "archived": "https://web.archive.org/web/20251206144847/https://spidermedia.ru/tv/preacher-s02e07-08-pig-holes",
+  "tags": [
+    "vertigo",
+    "preacher"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

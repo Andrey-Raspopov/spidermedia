@@ -4,6 +4,12 @@
   "url": "/blog/bastion7/recenziya-transhuman/",
   "original_url": "http://spidermedia.ru/blog/bastion7/recenziya-transhuman",
   "archived": "https://web.archive.org/web/20120718084545/http://spidermedia.ru/blog/bastion7/recenziya-transhuman",
+  "tags": [
+    "image-comics",
+    "jonathan-hickman",
+    "komiksy",
+    "recenziya"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,21 @@
   "url": "/news/amazing-future/",
   "original_url": "http://spidermedia.ru/news/amazing-future",
   "archived": "https://web.archive.org/web/20250717193457/http://spidermedia.ru/news/amazing-future",
+  "tags": [
+    "sten-li",
+    "matt-fraction",
+    "mitch-brejtvejshher",
+    "markos-martin",
+    "mario-alberti",
+    "maks-fiumara",
+    "majk-makkon",
+    "kollin-doran",
+    "den-slott",
+    "dzhon-romita-ml",
+    "dzhef-loeb",
+    "art-0",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

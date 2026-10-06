@@ -4,6 +4,9 @@
   "url": "/comics/all-things-valiant-61-week-36/",
   "original_url": "http://spidermedia.ru/comics/all-things-valiant-61-week-36",
   "archived": "https://web.archive.org/web/20260124055741/http://spidermedia.ru/comics/all-things-valiant-61-week-36",
+  "tags": [
+    "valiant-entertainment"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

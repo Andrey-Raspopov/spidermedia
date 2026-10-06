@@ -4,6 +4,13 @@
   "url": "/news/sandman/",
   "original_url": "http://spidermedia.ru/news/sandman",
   "archived": "https://web.archive.org/web/20260309180550/http://spidermedia.ru/news/sandman",
+  "tags": [
+    "neil-gaiman-sandman",
+    "neil-gaiman",
+    "dzhej-ejch-uilyams-iii",
+    "vertigo",
+    "san-diego-comic-con-international"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/news/vmesto-tanosa/",
   "original_url": "http://spidermedia.ru/news/vmesto-tanosa",
   "archived": "https://web.archive.org/web/20150320031241/http://spidermedia.ru/news/vmesto-tanosa",
+  "tags": [
+    "morbius",
+    "dzho-kiting",
+    "rich-elson",
+    "marvel-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

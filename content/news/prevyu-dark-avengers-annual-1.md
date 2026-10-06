@@ -4,6 +4,13 @@
   "url": "/news/prevyu-dark-avengers-annual-1/",
   "original_url": "https://spidermedia.ru/news/prevyu-dark-avengers-annual-1",
   "archived": "https://web.archive.org/web/20250114040429/https://spidermedia.ru/news/prevyu-dark-avengers-annual-1",
+  "tags": [
+    "brian-michael-bendis",
+    "kris-bachalo",
+    "art-0",
+    "marvel",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

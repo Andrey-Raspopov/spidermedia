@@ -4,6 +4,18 @@
   "url": "/news/utopiya-tretiy-krug/",
   "original_url": "http://spidermedia.ru/news/utopiya-tretiy-krug",
   "archived": "https://web.archive.org/web/20120607074243/http://spidermedia.ru/news/utopiya-tretiy-krug",
+  "tags": [
+    "dark-avengers",
+    "dark-x-men",
+    "uncanny-x-men",
+    "utopia",
+    "x-universe",
+    "komiksy",
+    "lyudi-iks",
+    "marvel",
+    "mstiteli",
+    "tyomnye-lyudi-iks"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

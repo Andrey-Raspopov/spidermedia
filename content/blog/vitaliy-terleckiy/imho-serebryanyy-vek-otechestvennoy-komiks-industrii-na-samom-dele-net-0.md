@@ -4,6 +4,10 @@
   "url": "/blog/vitaliy-terleckiy/imho-serebryanyy-vek-otechestvennoy-komiks-industrii-na-samom-dele-net-0/",
   "original_url": "https://spidermedia.ru/blog/vitaliy-terleckiy/imho-serebryanyy-vek-otechestvennoy-komiks-industrii-na-samom-dele-net-0",
   "archived": "https://web.archive.org/web/20251207095346/https://spidermedia.ru/blog/vitaliy-terleckiy/imho-serebryanyy-vek-otechestvennoy-komiks-industrii-na-samom-dele-net-0",
+  "tags": [
+    "russian-comics",
+    "imho"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

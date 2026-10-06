@@ -4,6 +4,12 @@
   "url": "/news/pozdravlyaem-pobediteley-konkursa-gorod-geroev/",
   "original_url": "https://spidermedia.ru/news/pozdravlyaem-pobediteley-konkursa-gorod-geroev",
   "archived": "https://web.archive.org/web/20251209142654/https://spidermedia.ru/news/pozdravlyaem-pobediteley-konkursa-gorod-geroev",
+  "tags": [
+    "konkurs",
+    "big-hero-6",
+    "marvel",
+    "disnej"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

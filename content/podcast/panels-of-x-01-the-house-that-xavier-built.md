@@ -4,6 +4,10 @@
   "url": "/podcast/panels-of-x-01-the-house-that-xavier-built/",
   "original_url": "https://spidermedia.ru/podcast/panels-of-x-01-the-house-that-xavier-built",
   "archived": "https://web.archive.org/web/20251207002754/https://spidermedia.ru/podcast/panels-of-x-01-the-house-that-xavier-built",
+  "tags": [
+    "panels-of-x",
+    "on-panels"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

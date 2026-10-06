@@ -4,6 +4,17 @@
   "url": "/news/sdcc10-marvel/",
   "original_url": "https://spidermedia.ru/news/sdcc10-marvel",
   "archived": "https://web.archive.org/web/20260312015116/https://spidermedia.ru/news/sdcc10-marvel",
+  "tags": [
+    "sluhi",
+    "ralk",
+    "krasnyj-halk",
+    "san-diego-comic-con-international",
+    "art-0",
+    "rulk",
+    "red-hulk",
+    "marvel",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

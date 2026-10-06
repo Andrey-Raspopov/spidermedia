@@ -4,6 +4,16 @@
   "url": "/news/troica-pod-osadoy/",
   "original_url": "https://spidermedia.ru/news/troica-pod-osadoy",
   "archived": "https://web.archive.org/web/20251206234840/https://spidermedia.ru/news/troica-pod-osadoy",
+  "tags": [
+    "avengers",
+    "temnoe-pravlenie",
+    "brian-michael-bendis",
+    "olive-kojpel",
+    "ed-brubaker",
+    "bryan-hitch",
+    "marvel",
+    "preview"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

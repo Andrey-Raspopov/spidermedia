@@ -4,6 +4,11 @@
   "url": "/comics/homyakon-2016-otchet/",
   "original_url": "http://spidermedia.ru/comics/homyakon-2016-otchet",
   "archived": "https://web.archive.org/web/20251012172731/http://spidermedia.ru/comics/homyakon-2016-otchet",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "russian-comics",
+    "konvencii"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

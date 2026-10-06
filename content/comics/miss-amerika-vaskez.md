@@ -4,6 +4,14 @@
   "url": "/comics/miss-amerika-vaskez/",
   "original_url": "https://spidermedia.ru/comics/miss-amerika-vaskez",
   "archived": "https://web.archive.org/web/20260206223822/https://spidermedia.ru/comics/miss-amerika-vaskez",
+  "tags": [
+    "image-comics",
+    "joe-casey",
+    "miss-america",
+    "dzho-kejsi",
+    "miss-amerika",
+    "nik-dragotta"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

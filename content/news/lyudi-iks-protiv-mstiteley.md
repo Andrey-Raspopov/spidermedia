@@ -4,6 +4,11 @@
   "url": "/news/lyudi-iks-protiv-mstiteley/",
   "original_url": "http://spidermedia.ru/news/lyudi-iks-protiv-mstiteley",
   "archived": "https://web.archive.org/web/20260314080729/http://spidermedia.ru/news/lyudi-iks-protiv-mstiteley",
+  "tags": [
+    "x-men",
+    "marvel",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

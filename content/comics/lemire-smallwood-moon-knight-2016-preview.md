@@ -4,6 +4,10 @@
   "url": "/comics/lemire-smallwood-moon-knight-2016-preview/",
   "original_url": "http://spidermedia.ru/comics/lemire-smallwood-moon-knight-2016-preview",
   "archived": "https://web.archive.org/web/20250709065822/http://spidermedia.ru/comics/lemire-smallwood-moon-knight-2016-preview",
+  "tags": [
+    "marvel",
+    "moon-knight"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

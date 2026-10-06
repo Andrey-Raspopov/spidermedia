@@ -4,6 +4,15 @@
   "url": "/news/smertelnaya-lovushka/",
   "original_url": "http://spidermedia.ru/news/smertelnaya-lovushka",
   "archived": "https://web.archive.org/web/20250618115606/http://spidermedia.ru/news/smertelnaya-lovushka",
+  "tags": [
+    "dc-comics",
+    "dzhadd-vinik",
+    "teen-titans",
+    "shon-makkiver",
+    "titans",
+    "vigilante",
+    "marv-vulfman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

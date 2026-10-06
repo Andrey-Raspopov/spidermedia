@@ -4,6 +4,12 @@
   "url": "/news/geympley-treyler-igry-batman-arkham-knight/",
   "original_url": "https://spidermedia.ru/news/geympley-treyler-igry-batman-arkham-knight",
   "archived": "https://web.archive.org/web/20260208211042/https://spidermedia.ru/news/geympley-treyler-igry-batman-arkham-knight",
+  "tags": [
+    "trejlery",
+    "batman",
+    "arkham-asylum",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

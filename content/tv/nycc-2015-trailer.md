@@ -4,6 +4,10 @@
   "url": "/tv/nycc-2015-trailer/",
   "original_url": "https://spidermedia.ru/tv/nycc-2015-trailer",
   "archived": "https://web.archive.org/web/20260211092244/https://spidermedia.ru/tv/nycc-2015-trailer",
+  "tags": [
+    "dc-comics",
+    "komik-kon-v-nyu-yorke"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/news/treyler-multfilma-axe-cop/",
   "original_url": "http://spidermedia.ru/news/treyler-multfilma-axe-cop",
   "archived": "https://web.archive.org/web/20250709071513/http://spidermedia.ru/news/treyler-multfilma-axe-cop",
+  "tags": [
+    "trejlery",
+    "animaciya",
+    "wondercon"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,19 @@
   "url": "/news/x-position-obo-vsyom-po-nemnogu/",
   "original_url": "http://spidermedia.ru/news/x-position-obo-vsyom-po-nemnogu",
   "archived": "https://web.archive.org/web/20260215074127/http://spidermedia.ru/news/x-position-obo-vsyom-po-nemnogu",
+  "tags": [
+    "sara-pichelli",
+    "ketrin-immonen",
+    "aksel-alonso",
+    "x-men",
+    "x-force",
+    "x-babies",
+    "sarah-pichelli",
+    "pixie",
+    "necrosha",
+    "marvel",
+    "kathryn-immonen"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

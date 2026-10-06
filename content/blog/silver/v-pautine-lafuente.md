@@ -4,6 +4,13 @@
   "url": "/blog/silver/v-pautine-lafuente/",
   "original_url": "http://spidermedia.ru/blog/silver/v-pautine-lafuente",
   "archived": "https://web.archive.org/web/20250807010248/http://spidermedia.ru/blog/silver/v-pautine-lafuente",
+  "tags": [
+    "devid-lafuente",
+    "art-0",
+    "ultimate",
+    "marvel",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

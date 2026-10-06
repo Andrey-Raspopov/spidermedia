@@ -4,6 +4,14 @@
   "url": "/comics/post-secret-wars-marvel-8-months-later/",
   "original_url": "http://spidermedia.ru/comics/post-secret-wars-marvel-8-months-later",
   "archived": "https://web.archive.org/web/20260309185054/http://spidermedia.ru/comics/post-secret-wars-marvel-8-months-later",
+  "tags": [
+    "marvel",
+    "squadron-supreme",
+    "x-men",
+    "avengers",
+    "nelyudi",
+    "ant-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

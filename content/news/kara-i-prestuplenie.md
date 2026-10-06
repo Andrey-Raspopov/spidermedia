@@ -4,6 +4,19 @@
   "url": "/news/kara-i-prestuplenie/",
   "original_url": "http://spidermedia.ru/news/kara-i-prestuplenie",
   "archived": "https://web.archive.org/web/20130101005341/http://spidermedia.ru:80/news/kara-i-prestuplenie",
+  "tags": [
+    "marvel-max",
+    "punisher",
+    "thor",
+    "art-0",
+    "karatel",
+    "komiksy",
+    "keri-nord",
+    "lourens-kembell",
+    "marvel",
+    "oblozhki",
+    "tor"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

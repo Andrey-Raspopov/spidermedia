@@ -4,6 +4,9 @@
   "url": "/news/skott-pilgrim-pervye-oficialnye-kadry/",
   "original_url": "http://spidermedia.ru/news/skott-pilgrim-pervye-oficialnye-kadry",
   "archived": "https://web.archive.org/web/20190820181217/http://spidermedia.ru:80/news/skott-pilgrim-pervye-oficialnye-kadry",
+  "tags": [
+    "scott-pilgrim"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

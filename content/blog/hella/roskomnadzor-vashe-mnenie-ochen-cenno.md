@@ -4,6 +4,11 @@
   "url": "/blog/hella/roskomnadzor-vashe-mnenie-ochen-cenno/",
   "original_url": "https://spidermedia.ru/blog/hella/roskomnadzor-vashe-mnenie-ochen-cenno",
   "archived": "https://web.archive.org/web/20260313105433/https://spidermedia.ru/blog/hella/roskomnadzor-vashe-mnenie-ochen-cenno",
+  "tags": [
+    "russian-comics",
+    "roskomnadzor",
+    "zarubezhnye-komiksy-na-russkom"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

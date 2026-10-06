@@ -4,6 +4,15 @@
   "url": "/news/tor-2-carstvo-tmy-eshche-postery/",
   "original_url": "http://spidermedia.ru/news/tor-2-carstvo-tmy-eshche-postery",
   "archived": "https://web.archive.org/web/20251108195741/http://spidermedia.ru/news/tor-2-carstvo-tmy-eshche-postery",
+  "tags": [
+    "marvel",
+    "thor",
+    "postery",
+    "sif",
+    "loki",
+    "dzhejn-foster",
+    "dzhejmi-aleksandr"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

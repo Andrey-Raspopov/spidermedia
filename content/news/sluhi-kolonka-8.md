@@ -4,6 +4,15 @@
   "url": "/news/sluhi-kolonka-8/",
   "original_url": "http://spidermedia.ru/news/sluhi-kolonka-8",
   "archived": "https://web.archive.org/web/20260125065345/http://spidermedia.ru/news/sluhi-kolonka-8",
+  "tags": [
+    "endi-diggl",
+    "warren-ellis",
+    "trevis-charest",
+    "sluhi",
+    "x-men",
+    "thunderbolts",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

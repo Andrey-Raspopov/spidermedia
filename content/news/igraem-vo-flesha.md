@@ -4,6 +4,11 @@
   "url": "/news/igraem-vo-flesha/",
   "original_url": "http://spidermedia.ru/news/igraem-vo-flesha",
   "archived": "https://web.archive.org/web/20260211182215/http://spidermedia.ru/news/igraem-vo-flesha",
+  "tags": [
+    "the-flash",
+    "igry",
+    "art-0"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

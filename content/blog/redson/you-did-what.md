@@ -4,6 +4,11 @@
   "url": "/blog/redson/you-did-what/",
   "original_url": "http://spidermedia.ru/blog/redson/you-did-what",
   "archived": "https://web.archive.org/web/20230320164549/http://spidermedia.ru/blog/redson/you-did-what",
+  "tags": [
+    "animaciya",
+    "serialy",
+    "wtf"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

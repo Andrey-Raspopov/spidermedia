@@ -4,6 +4,13 @@
   "url": "/blog/silver/ob-ekranizacii-komiksa-fell/",
   "original_url": "http://spidermedia.ru/blog/silver/ob-ekranizacii-komiksa-fell",
   "archived": "https://web.archive.org/web/20200219065041/http://spidermedia.ru:80/blog/silver/ob-ekranizacii-komiksa-fell",
+  "tags": [
+    "ekranizacii",
+    "warren-ellis",
+    "mnenie",
+    "ben-templsmit",
+    "fell"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/news/krov-seks-i-nemnogo-metalla/",
   "original_url": "http://spidermedia.ru/news/krov-seks-i-nemnogo-metalla",
   "archived": "https://web.archive.org/web/20251117011958/http://spidermedia.ru/news/krov-seks-i-nemnogo-metalla",
+  "tags": [
+    "animaciya",
+    "heavy-metal",
+    "tyazhelyj-metall"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/news/treyler-filma-defendor/",
   "original_url": "https://spidermedia.ru/news/treyler-filma-defendor",
   "archived": "https://web.archive.org/web/20250512111305/https://spidermedia.ru/news/treyler-filma-defendor",
+  "tags": [
+    "vudi-harrelson",
+    "defendor",
+    "trejlery"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

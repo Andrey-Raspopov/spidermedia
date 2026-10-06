@@ -4,6 +4,17 @@
   "url": "/news/chudo-zhenshchina-v-nochi/",
   "original_url": "http://spidermedia.ru/news/chudo-zhenshchina-v-nochi",
   "archived": "https://web.archive.org/web/20120607131549/http://spidermedia.ru/news/chudo-zhenshchina-v-nochi",
+  "tags": [
+    "blackest-night",
+    "dc-comics",
+    "nicola-scott",
+    "wonder-woman",
+    "art-0",
+    "komiksy",
+    "nikolya-skott",
+    "temneyshaya-noch",
+    "chudo-zhenshchina"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

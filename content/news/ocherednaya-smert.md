@@ -4,6 +4,11 @@
   "url": "/news/ocherednaya-smert/",
   "original_url": "http://spidermedia.ru/news/ocherednaya-smert",
   "archived": "https://web.archive.org/web/20120607090145/http://spidermedia.ru/news/ocherednaya-smert",
+  "tags": [
+    "dc-comics",
+    "teen-titans",
+    "art-0"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

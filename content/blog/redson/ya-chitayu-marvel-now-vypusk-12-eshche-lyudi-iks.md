@@ -4,6 +4,11 @@
   "url": "/blog/redson/ya-chitayu-marvel-now-vypusk-12-eshche-lyudi-iks/",
   "original_url": "http://spidermedia.ru/blog/redson/ya-chitayu-marvel-now-vypusk-12-eshche-lyudi-iks",
   "archived": "https://web.archive.org/web/20200127175424/http://spidermedia.ru:80/blog/redson/ya-chitayu-marvel-now-vypusk-12-eshche-lyudi-iks",
+  "tags": [
+    "mnenie",
+    "x-men",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

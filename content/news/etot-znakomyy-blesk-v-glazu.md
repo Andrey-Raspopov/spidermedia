@@ -4,6 +4,14 @@
   "url": "/news/etot-znakomyy-blesk-v-glazu/",
   "original_url": "http://spidermedia.ru/news/etot-znakomyy-blesk-v-glazu",
   "archived": "https://web.archive.org/web/20260116223956/http://spidermedia.ru/news/etot-znakomyy-blesk-v-glazu",
+  "tags": [
+    "dzhef-loeb",
+    "ed-makginnes",
+    "kejbl",
+    "cable",
+    "san-diego-comic-con-international",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

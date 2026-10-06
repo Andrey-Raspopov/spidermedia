@@ -4,6 +4,12 @@
   "url": "/news/drugaya-drugaya-voyna/",
   "original_url": "http://spidermedia.ru/news/drugaya-drugaya-voyna",
   "archived": "https://web.archive.org/web/20190216232857/http://spidermedia.ru:80/news/drugaya-drugaya-voyna",
+  "tags": [
+    "roland-boshi",
+    "rik-remender",
+    "winter-soldier",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

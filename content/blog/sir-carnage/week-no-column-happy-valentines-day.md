@@ -4,6 +4,10 @@
   "url": "/blog/sir-carnage/week-no-column-happy-valentines-day/",
   "original_url": "http://spidermedia.ru/blog/sir-carnage/week-no-column-happy-valentines-day",
   "archived": "https://web.archive.org/web/20120608145945/http://spidermedia.ru/blog/sir-carnage/week-no-column-happy-valentines-day",
+  "tags": [
+    "column-no-name",
+    "prazdnik"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

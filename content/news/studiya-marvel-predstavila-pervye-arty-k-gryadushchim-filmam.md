@@ -4,6 +4,12 @@
   "url": "/news/studiya-marvel-predstavila-pervye-arty-k-gryadushchim-filmam/",
   "original_url": "https://spidermedia.ru/news/studiya-marvel-predstavila-pervye-arty-k-gryadushchim-filmam",
   "archived": "https://web.archive.org/web/20251107033723/https://spidermedia.ru/news/studiya-marvel-predstavila-pervye-arty-k-gryadushchim-filmam",
+  "tags": [
+    "ant-man",
+    "avengers",
+    "san-diego-comic-con-international",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

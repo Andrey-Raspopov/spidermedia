@@ -4,6 +4,13 @@
   "url": "/news/proletaya-nad-gnezdom-starka/",
   "original_url": "https://spidermedia.ru/news/proletaya-nad-gnezdom-starka",
   "archived": "https://web.archive.org/web/20250806094743/https://spidermedia.ru/news/proletaya-nad-gnezdom-starka",
+  "tags": [
+    "salvador-larroka",
+    "preview",
+    "matt-fraction",
+    "marvel",
+    "iron-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/news/my-ne-zhalkie-bukashki/",
   "original_url": "http://spidermedia.ru/news/my-ne-zhalkie-bukashki",
   "archived": "https://web.archive.org/web/20190915020947/http://spidermedia.ru:80/news/my-ne-zhalkie-bukashki",
+  "tags": [
+    "ninja-turtles",
+    "majkl-bej"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

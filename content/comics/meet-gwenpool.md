@@ -4,6 +4,9 @@
   "url": "/comics/meet-gwenpool/",
   "original_url": "https://spidermedia.ru/comics/meet-gwenpool",
   "archived": "https://web.archive.org/web/20251107040740/https://spidermedia.ru/comics/meet-gwenpool",
+  "tags": [
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

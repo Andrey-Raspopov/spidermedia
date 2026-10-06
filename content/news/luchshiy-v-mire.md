@@ -4,6 +4,13 @@
   "url": "/news/luchshiy-v-mire/",
   "original_url": "http://spidermedia.ru/news/luchshiy-v-mire",
   "archived": "https://web.archive.org/web/20260314081208/http://spidermedia.ru/news/luchshiy-v-mire",
+  "tags": [
+    "nightwing",
+    "red-robin",
+    "dc-comics",
+    "najtving",
+    "krasnyj-robin"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

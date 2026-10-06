@@ -4,6 +4,10 @@
   "url": "/blog/qvall/log-0008-its-bird/",
   "original_url": "http://spidermedia.ru/blog/qvall/log-0008-its-bird",
   "archived": "https://web.archive.org/web/20250808203704/http://spidermedia.ru/blog/qvall/log-0008-its-bird",
+  "tags": [
+    "mnenie",
+    "vertigo"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

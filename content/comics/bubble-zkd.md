@@ -4,6 +4,9 @@
   "url": "/comics/bubble-zkd/",
   "original_url": "http://spidermedia.ru/comics/bubble-zkd",
   "archived": "https://web.archive.org/web/20241127125238/http://spidermedia.ru/comics/bubble-zkd",
+  "tags": [
+    "bubble"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,16 @@
   "url": "/blog/jean-grey/dark-reign-review/",
   "original_url": "http://spidermedia.ru/blog/jean-grey/dark-reign-review",
   "archived": "https://web.archive.org/web/20220814192607/http://spidermedia.ru/blog/jean-grey/dark-reign-review",
+  "tags": [
+    "marvel",
+    "recenziya",
+    "emma-frost",
+    "doctor-doom",
+    "namor",
+    "loki",
+    "hood",
+    "norman-osborn"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

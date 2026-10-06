@@ -4,6 +4,12 @@
   "url": "/comics/esad-ribich-narisuet-final-sikvela-metabaronov/",
   "original_url": "https://spidermedia.ru/comics/esad-ribich-narisuet-final-sikvela-metabaronov",
   "archived": "https://web.archive.org/web/20251013175840/https://spidermedia.ru/comics/esad-ribich-narisuet-final-sikvela-metabaronov",
+  "tags": [
+    "esad-ribic",
+    "zarubezhnye-komiksy-na-russkom",
+    "metabarony",
+    "esad-ribich"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

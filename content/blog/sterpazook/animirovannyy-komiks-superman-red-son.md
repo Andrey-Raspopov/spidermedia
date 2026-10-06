@@ -4,6 +4,11 @@
   "url": "/blog/sterpazook/animirovannyy-komiks-superman-red-son/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/animirovannyy-komiks-superman-red-son",
   "archived": "https://web.archive.org/web/20250324165154/http://spidermedia.ru/blog/sterpazook/animirovannyy-komiks-superman-red-son",
+  "tags": [
+    "superman",
+    "animirovannye-komiksy",
+    "motion-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

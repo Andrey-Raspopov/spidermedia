@@ -4,6 +4,13 @@
   "url": "/news/novyy-scenarist-dark-wolverine/",
   "original_url": "http://spidermedia.ru/news/novyy-scenarist-dark-wolverine",
   "archived": "https://web.archive.org/web/20251207092007/http://spidermedia.ru/news/novyy-scenarist-dark-wolverine",
+  "tags": [
+    "rob-uillyams",
+    "dzhuzeppe-kamunkoli",
+    "daken",
+    "art-0",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

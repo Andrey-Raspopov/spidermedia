@@ -4,6 +4,13 @@
   "url": "/blog/sterpazook/delat-bylo-nechego/",
   "original_url": "https://spidermedia.ru/blog/sterpazook/delat-bylo-nechego",
   "archived": "https://web.archive.org/web/20241104082134/https://spidermedia.ru/blog/sterpazook/delat-bylo-nechego",
+  "tags": [
+    "marvel",
+    "spider-man",
+    "venom",
+    "zarubezhnye-komiksy-na-russkom",
+    "karnazh"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

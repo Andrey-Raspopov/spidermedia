@@ -4,6 +4,9 @@
   "url": "/blog/deirdre/",
   "original_url": "http://spidermedia.ru/blog/deirdre",
   "archived": "https://web.archive.org/web/20120608200133/http://spidermedia.ru/blog/deirdre",
+  "tags": [
+    "vstuplenie"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/blog/transistor/recenziya-na-film-snayper-0/",
   "original_url": "https://spidermedia.ru/blog/transistor/recenziya-na-film-snayper-0",
   "archived": "https://web.archive.org/web/20230327140614/https://spidermedia.ru/blog/transistor/recenziya-na-film-snayper-0",
+  "tags": [
+    "recenziya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/news/pochti-preacher-movie/",
   "original_url": "http://spidermedia.ru/news/pochti-preacher-movie",
   "archived": "https://web.archive.org/web/20260312022455/http://spidermedia.ru/news/pochti-preacher-movie",
+  "tags": [
+    "garth-ennis",
+    "stitched",
+    "avatar-press"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

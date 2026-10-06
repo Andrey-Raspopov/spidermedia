@@ -4,6 +4,10 @@
   "url": "/movies/ant-man-review/",
   "original_url": "http://spidermedia.ru/movies/ant-man-review",
   "archived": "https://web.archive.org/web/20260312014554/http://spidermedia.ru/movies/ant-man-review",
+  "tags": [
+    "marvel",
+    "ant-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

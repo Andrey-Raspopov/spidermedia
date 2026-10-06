@@ -4,6 +4,11 @@
   "url": "/comics/2000ad-history-part-3/",
   "original_url": "http://spidermedia.ru/comics/2000ad-history-part-3",
   "archived": "https://web.archive.org/web/20250906201133/http://spidermedia.ru/comics/2000ad-history-part-3",
+  "tags": [
+    "2000-ad",
+    "old-komix",
+    "istoriya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

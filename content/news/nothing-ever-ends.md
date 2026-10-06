@@ -4,6 +4,18 @@
   "url": "/news/nothing-ever-ends/",
   "original_url": "https://spidermedia.ru/news/nothing-ever-ends",
   "archived": "https://web.archive.org/web/20251216121411/https://spidermedia.ru/news/nothing-ever-ends",
+  "tags": [
+    "li-bermeho",
+    "len-uin",
+    "j-michael-straczynski",
+    "dzhey-li",
+    "dzhej-dzhi-dzhons",
+    "darvin-kuk",
+    "brian-azzarello",
+    "amanda-konner",
+    "hraniteli",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

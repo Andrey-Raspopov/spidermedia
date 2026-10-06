@@ -4,6 +4,10 @@
   "url": "/blog/redson/srochno-v-pechat/",
   "original_url": "http://spidermedia.ru/blog/redson/srochno-v-pechat",
   "archived": "https://web.archive.org/web/20150427035059/http://spidermedia.ru/blog/redson/srochno-v-pechat",
+  "tags": [
+    "yumor",
+    "marvel-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

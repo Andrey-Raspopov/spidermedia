@@ -4,6 +4,11 @@
   "url": "/blog/baka-chan/skvoz-veka-supermen-v-multivselennoy/",
   "original_url": "https://spidermedia.ru/blog/baka-chan/skvoz-veka-supermen-v-multivselennoy",
   "archived": "https://web.archive.org/web/20240623022230/https://spidermedia.ru/blog/baka-chan/skvoz-veka-supermen-v-multivselennoy",
+  "tags": [
+    "rubriki",
+    "superman",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

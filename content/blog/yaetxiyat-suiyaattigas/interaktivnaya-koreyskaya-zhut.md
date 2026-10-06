@@ -4,6 +4,10 @@
   "url": "/blog/yaetxiyat-suiyaattigas/interaktivnaya-koreyskaya-zhut/",
   "original_url": "http://spidermedia.ru/blog/yaetxiyat-suiyaattigas/interaktivnaya-koreyskaya-zhut",
   "archived": "https://web.archive.org/web/20120609071049/http://spidermedia.ru/blog/yaetxiyat-suiyaattigas/interaktivnaya-koreyskaya-zhut",
+  "tags": [
+    "manhva",
+    "horror-0"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

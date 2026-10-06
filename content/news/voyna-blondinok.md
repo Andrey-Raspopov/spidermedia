@@ -4,6 +4,13 @@
   "url": "/news/voyna-blondinok/",
   "original_url": "https://spidermedia.ru/news/voyna-blondinok",
   "archived": "https://web.archive.org/web/20260214131921/https://spidermedia.ru/news/voyna-blondinok",
+  "tags": [
+    "marvel",
+    "moonstone",
+    "brajan-rid",
+    "miss-marvel",
+    "munstoun"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

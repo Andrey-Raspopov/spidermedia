@@ -4,6 +4,9 @@
   "url": "/blog/oleg89/poehali/",
   "original_url": "http://spidermedia.ru/blog/oleg89/poehali",
   "archived": "https://web.archive.org/web/20120608195816/http://spidermedia.ru/blog/oleg89/poehali",
+  "tags": [
+    "vstuplenie"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

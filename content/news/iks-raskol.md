@@ -4,6 +4,14 @@
   "url": "/news/iks-raskol/",
   "original_url": "http://spidermedia.ru/news/iks-raskol",
   "archived": "https://web.archive.org/web/20190929135135/http://spidermedia.ru:80/news/iks-raskol",
+  "tags": [
+    "raskol",
+    "greg-lend",
+    "art-0",
+    "x-men",
+    "schism",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

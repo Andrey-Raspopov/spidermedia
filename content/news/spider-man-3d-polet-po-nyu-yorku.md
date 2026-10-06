@@ -4,6 +4,14 @@
   "url": "/news/spider-man-3d-polet-po-nyu-yorku/",
   "original_url": "http://spidermedia.ru/news/spider-man-3d-polet-po-nyu-yorku",
   "archived": "https://web.archive.org/web/20110207064430/http://spidermedia.ru:80/news/spider-man-3d-polet-po-nyu-yorku",
+  "tags": [
+    "marvel",
+    "spider-man",
+    "spider-man-3d",
+    "kino",
+    "komiksy",
+    "chelovek-pauk"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

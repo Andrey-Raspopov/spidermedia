@@ -4,6 +4,10 @@
   "url": "/comics/hellboymedia-19-hellboy-the-hounds-of-pluto/",
   "original_url": "https://spidermedia.ru/comics/hellboymedia-19-hellboy-the-hounds-of-pluto",
   "archived": "https://web.archive.org/web/20251206033146/https://spidermedia.ru/comics/hellboymedia-19-hellboy-the-hounds-of-pluto",
+  "tags": [
+    "hellboymedia",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/blog/naya/iwd/",
   "original_url": "http://spidermedia.ru/blog/naya/iwd",
   "archived": "https://web.archive.org/web/20120607111111/http://spidermedia.ru/blog/naya/iwd",
+  "tags": [
+    "art"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

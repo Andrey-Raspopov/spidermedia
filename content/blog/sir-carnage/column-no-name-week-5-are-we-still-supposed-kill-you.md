@@ -4,6 +4,18 @@
   "url": "/blog/sir-carnage/column-no-name-week-5-are-we-still-supposed-kill-you/",
   "original_url": "http://spidermedia.ru/blog/sir-carnage/column-no-name-week-5-are-we-still-supposed-kill-you",
   "archived": "https://web.archive.org/web/20240613051643/http://spidermedia.ru/blog/sir-carnage/column-no-name-week-5-are-we-still-supposed-kill-you",
+  "tags": [
+    "redzhinald-hadlin",
+    "mnenie",
+    "dzhonatan-hikman",
+    "secret-warriors",
+    "marvel",
+    "hydra",
+    "echo",
+    "daredevil",
+    "cable",
+    "the-column-with-no-name"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/news/pacanam-ot-li/",
   "original_url": "https://spidermedia.ru/news/pacanam-ot-li",
   "archived": "https://web.archive.org/web/20251216123128/https://spidermedia.ru/news/pacanam-ot-li",
+  "tags": [
+    "derik-robertson",
+    "jim-lee",
+    "the-boys",
+    "dynamite-entertainment"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/tv/powers-s02e01-03-rekap-i-recenziya/",
   "original_url": "https://spidermedia.ru/tv/powers-s02e01-03-rekap-i-recenziya",
   "archived": "https://web.archive.org/web/20250906200757/https://spidermedia.ru/tv/powers-s02e01-03-rekap-i-recenziya",
+  "tags": [
+    "icon-comics",
+    "powers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

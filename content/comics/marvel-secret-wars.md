@@ -4,6 +4,10 @@
   "url": "/comics/marvel-secret-wars/",
   "original_url": "http://spidermedia.ru/comics/marvel-secret-wars",
   "archived": "https://web.archive.org/web/20210118145342/http://spidermedia.ru/comics/marvel-secret-wars",
+  "tags": [
+    "marvel",
+    "secret-wars"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

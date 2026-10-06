@@ -4,6 +4,11 @@
   "url": "/news/battle-cowl-bitva-prodolzhaetsya/",
   "original_url": "http://spidermedia.ru/news/battle-cowl-bitva-prodolzhaetsya",
   "archived": "https://web.archive.org/web/20190916040746/http://spidermedia.ru/news/battle-cowl-bitva-prodolzhaetsya",
+  "tags": [
+    "dc-comics",
+    "batman",
+    "art-0"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

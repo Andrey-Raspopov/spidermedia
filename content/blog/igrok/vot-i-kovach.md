@@ -4,6 +4,12 @@
   "url": "/blog/igrok/vot-i-kovach/",
   "original_url": "http://spidermedia.ru/blog/igrok/vot-i-kovach",
   "archived": "https://web.archive.org/web/20250119125630/http://spidermedia.ru/blog/igrok/vot-i-kovach",
+  "tags": [
+    "hraniteli",
+    "figurki",
+    "rorschach",
+    "rorshah"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

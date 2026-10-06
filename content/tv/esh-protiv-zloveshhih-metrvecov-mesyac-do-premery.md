@@ -4,6 +4,9 @@
   "url": "/tv/esh-protiv-zloveshhih-metrvecov-mesyac-do-premery/",
   "original_url": "http://spidermedia.ru/tv/esh-protiv-zloveshhih-metrvecov-mesyac-do-premery",
   "archived": "https://web.archive.org/web/20260121013757/http://spidermedia.ru/tv/esh-protiv-zloveshhih-metrvecov-mesyac-do-premery",
+  "tags": [
+    "army-of-darkness"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

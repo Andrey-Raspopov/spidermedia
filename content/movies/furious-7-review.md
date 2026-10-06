@@ -4,6 +4,9 @@
   "url": "/movies/furious-7-review/",
   "original_url": "https://spidermedia.ru/movies/furious-7-review",
   "archived": "https://web.archive.org/web/20251115040518/https://spidermedia.ru/movies/furious-7-review",
+  "tags": [
+    "recenziya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

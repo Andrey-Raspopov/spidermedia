@@ -4,6 +4,10 @@
   "url": "/news/eshche-odna-smertelnaya-zapis/",
   "original_url": "https://spidermedia.ru/news/eshche-odna-smertelnaya-zapis",
   "archived": "https://web.archive.org/web/20240418232830/https://spidermedia.ru/news/eshche-odna-smertelnaya-zapis",
+  "tags": [
+    "trejlery",
+    "manga"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

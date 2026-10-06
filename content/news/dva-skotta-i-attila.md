@@ -4,6 +4,10 @@
   "url": "/news/dva-skotta-i-attila/",
   "original_url": "https://spidermedia.ru/news/dva-skotta-i-attila",
   "archived": "https://web.archive.org/web/20260215075725/https://spidermedia.ru/news/dva-skotta-i-attila",
+  "tags": [
+    "skott-snajder",
+    "image-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

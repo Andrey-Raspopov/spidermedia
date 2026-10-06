@@ -4,6 +4,12 @@
   "url": "/news/prevyu-invincible-iron-man-11/",
   "original_url": "https://spidermedia.ru/news/prevyu-invincible-iron-man-11",
   "archived": "https://web.archive.org/web/20260314083654/https://spidermedia.ru/news/prevyu-invincible-iron-man-11",
+  "tags": [
+    "marvel",
+    "iron-man",
+    "iron-woman",
+    "zheleznaya-deva"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

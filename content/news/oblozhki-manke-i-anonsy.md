@@ -4,6 +4,15 @@
   "url": "/news/oblozhki-manke-i-anonsy/",
   "original_url": "http://spidermedia.ru/news/oblozhki-manke-i-anonsy",
   "archived": "https://web.archive.org/web/20251207102741/http://spidermedia.ru/news/oblozhki-manke-i-anonsy",
+  "tags": [
+    "temnejshaya-noch",
+    "jim-lee",
+    "dag-manke",
+    "solicitations",
+    "doug-mahnke",
+    "dc-comics",
+    "blackest-night"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

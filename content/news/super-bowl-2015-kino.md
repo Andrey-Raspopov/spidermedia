@@ -4,6 +4,9 @@
   "url": "/news/super-bowl-2015-kino/",
   "original_url": "http://spidermedia.ru/news/super-bowl-2015-kino",
   "archived": "https://web.archive.org/web/20150320070837/http://spidermedia.ru/news/super-bowl-2015-kino",
+  "tags": [
+    "kino"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

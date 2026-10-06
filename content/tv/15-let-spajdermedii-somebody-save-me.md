@@ -4,6 +4,10 @@
   "url": "/tv/15-let-spajdermedii-somebody-save-me/",
   "original_url": "https://spidermedia.ru/tv/15-let-spajdermedii-somebody-save-me",
   "archived": "https://web.archive.org/web/20250429011712/https://spidermedia.ru/tv/15-let-spajdermedii-somebody-save-me",
+  "tags": [
+    "dc-comics",
+    "spidermedia-15th-anniversary"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

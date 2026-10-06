@@ -4,6 +4,15 @@
   "url": "/news/fastest-starro-alive-and-other-action/",
   "original_url": "https://spidermedia.ru/news/fastest-starro-alive-and-other-action",
   "archived": "https://web.archive.org/web/20250715223608/https://spidermedia.ru/news/fastest-starro-alive-and-other-action",
+  "tags": [
+    "dc-comics",
+    "the-flash",
+    "dzhej-dzhi-dzhons",
+    "wednesday-comics",
+    "starro",
+    "karl-kershel",
+    "hulian-lopes"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

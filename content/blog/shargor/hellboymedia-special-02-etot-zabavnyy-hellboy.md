@@ -4,6 +4,10 @@
   "url": "/blog/shargor/hellboymedia-special-02-etot-zabavnyy-hellboy/",
   "original_url": "http://spidermedia.ru/blog/shargor/hellboymedia-special-02-etot-zabavnyy-hellboy",
   "archived": "https://web.archive.org/web/20260306001421/http://spidermedia.ru/blog/shargor/hellboymedia-special-02-etot-zabavnyy-hellboy",
+  "tags": [
+    "hellboymedia",
+    "obzor"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

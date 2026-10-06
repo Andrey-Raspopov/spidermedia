@@ -4,6 +4,12 @@
   "url": "/news/25-oblozhek-empire-s-lyudmi-iks/",
   "original_url": "https://spidermedia.ru/news/25-oblozhek-empire-s-lyudmi-iks",
   "archived": "https://web.archive.org/web/20260121015402/https://spidermedia.ru/news/25-oblozhek-empire-s-lyudmi-iks",
+  "tags": [
+    "marvel",
+    "lyudi-iks-pervyj-klass",
+    "x-men",
+    "days-of-future-past"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

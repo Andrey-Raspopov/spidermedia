@@ -4,6 +4,17 @@
   "url": "/news/morgan-frimen-uorren-ellis/",
   "original_url": "http://spidermedia.ru/news/morgan-frimen-uorren-ellis",
   "archived": "https://web.archive.org/web/20111018212122/http://spidermedia.ru/news/morgan-frimen-uorren-ellis",
+  "tags": [
+    "dc-comics",
+    "morgan-freeman",
+    "red",
+    "warren-ellis",
+    "wildstorm",
+    "kino",
+    "komiksy",
+    "morgan-frimen",
+    "uorren-ellis"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

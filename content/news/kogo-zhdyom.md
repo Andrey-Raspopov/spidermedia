@@ -4,6 +4,11 @@
   "url": "/news/kogo-zhdyom/",
   "original_url": "http://spidermedia.ru/news/kogo-zhdyom",
   "archived": "https://web.archive.org/web/20241205030742/http://spidermedia.ru/news/kogo-zhdyom",
+  "tags": [
+    "sajmon-byanchi",
+    "dzheyson-aaron",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

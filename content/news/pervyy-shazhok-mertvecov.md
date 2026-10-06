@@ -4,6 +4,13 @@
   "url": "/news/pervyy-shazhok-mertvecov/",
   "original_url": "http://spidermedia.ru/news/pervyy-shazhok-mertvecov",
   "archived": "https://web.archive.org/web/20120608172749/http://spidermedia.ru/news/pervyy-shazhok-mertvecov",
+  "tags": [
+    "walking-dead",
+    "kino",
+    "komiksy",
+    "robert-kirkman",
+    "serialy"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

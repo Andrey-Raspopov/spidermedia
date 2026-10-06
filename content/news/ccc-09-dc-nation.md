@@ -4,6 +4,14 @@
   "url": "/news/ccc-09-dc-nation/",
   "original_url": "http://spidermedia.ru/news/ccc-09-dc-nation",
   "archived": "https://web.archive.org/web/20251207092127/http://spidermedia.ru/news/ccc-09-dc-nation",
+  "tags": [
+    "komik-kon-v-chikago",
+    "dc-comics",
+    "brian-azzarello",
+    "batman",
+    "legion-of-super-heroes",
+    "tiny-titans"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

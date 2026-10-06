@@ -4,6 +4,11 @@
   "url": "/news/kto-sygraet-ciklopa-dzhinu-grey-i-shtorm-v-novyh-lyudyah-iks/",
   "original_url": "https://spidermedia.ru/news/kto-sygraet-ciklopa-dzhinu-grey-i-shtorm-v-novyh-lyudyah-iks",
   "archived": "https://web.archive.org/web/20260309190532/https://spidermedia.ru/news/kto-sygraet-ciklopa-dzhinu-grey-i-shtorm-v-novyh-lyudyah-iks",
+  "tags": [
+    "marvel",
+    "x-men",
+    "kasting"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

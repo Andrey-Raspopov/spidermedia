@@ -4,6 +4,16 @@
   "url": "/news/vozvrashchenie-k-rabote/",
   "original_url": "http://spidermedia.ru/news/vozvrashchenie-k-rabote",
   "archived": "https://web.archive.org/web/20260116224533/http://spidermedia.ru/news/vozvrashchenie-k-rabote",
+  "tags": [
+    "greg-rakka",
+    "art-0",
+    "marko-chekchetto",
+    "nil-adams",
+    "sel-busima",
+    "bryan-hitch",
+    "punisher",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

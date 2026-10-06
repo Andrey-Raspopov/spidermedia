@@ -4,6 +4,14 @@
   "url": "/news/evolyuciya-v-oblozhkah/",
   "original_url": "http://spidermedia.ru/news/evolyuciya-v-oblozhkah",
   "archived": "https://web.archive.org/web/20130619063639/http://spidermedia.ru/news/evolyuciya-v-oblozhkah",
+  "tags": [
+    "x-men",
+    "art-0",
+    "komiksy",
+    "lyudi-iks",
+    "marvel",
+    "oblozhki"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

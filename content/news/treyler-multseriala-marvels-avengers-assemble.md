@@ -4,6 +4,11 @@
   "url": "/news/treyler-multseriala-marvels-avengers-assemble/",
   "original_url": "http://spidermedia.ru/news/treyler-multseriala-marvels-avengers-assemble",
   "archived": "https://web.archive.org/web/20251107031341/http://spidermedia.ru/news/treyler-multseriala-marvels-avengers-assemble",
+  "tags": [
+    "trejlery",
+    "avengers",
+    "animaciya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

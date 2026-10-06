@@ -4,6 +4,13 @@
   "url": "/news/dd-nuar-drugie-vremena-privychnye-metody/",
   "original_url": "http://spidermedia.ru/news/dd-nuar-drugie-vremena-privychnye-metody",
   "archived": "https://web.archive.org/web/20200217104713/http://spidermedia.ru:80/news/dd-nuar-drugie-vremena-privychnye-metody",
+  "tags": [
+    "dardevil",
+    "art-0",
+    "noirverse",
+    "marvel",
+    "daredevil"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

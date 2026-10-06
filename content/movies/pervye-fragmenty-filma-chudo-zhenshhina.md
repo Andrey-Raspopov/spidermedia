@@ -4,6 +4,10 @@
   "url": "/movies/pervye-fragmenty-filma-chudo-zhenshhina/",
   "original_url": "https://spidermedia.ru/movies/pervye-fragmenty-filma-chudo-zhenshhina",
   "archived": "https://web.archive.org/web/20260124044552/https://spidermedia.ru/movies/pervye-fragmenty-filma-chudo-zhenshhina",
+  "tags": [
+    "dc-comics",
+    "wonder-woman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

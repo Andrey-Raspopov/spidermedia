@@ -4,6 +4,15 @@
   "url": "/news/vse-protiv-vseh/",
   "original_url": "https://spidermedia.ru/news/vse-protiv-vseh",
   "archived": "https://web.archive.org/web/20260309181025/https://spidermedia.ru/news/vse-protiv-vseh",
+  "tags": [
+    "styuart-immonen",
+    "ketrin-immonen",
+    "dzheyson-aaron",
+    "adam-kubert",
+    "x-men",
+    "marvel",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,15 @@
   "url": "/news/mest-pri-svete-luny/",
   "original_url": "http://spidermedia.ru/news/mest-pri-svete-luny",
   "archived": "https://web.archive.org/web/20251207101310/http://spidermedia.ru/news/mest-pri-svete-luny",
+  "tags": [
+    "marvel",
+    "lejnil-frensis-yu",
+    "art-0",
+    "dzherom-openya",
+    "alex-ross",
+    "moon-knight",
+    "greg-hurvitc"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

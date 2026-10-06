@@ -4,6 +4,10 @@
   "url": "/comics/kejdzh-gennadiya-tartakovskogo-vyjdet-osenyu/",
   "original_url": "https://spidermedia.ru/comics/kejdzh-gennadiya-tartakovskogo-vyjdet-osenyu",
   "archived": "https://web.archive.org/web/20240913061426/https://spidermedia.ru/comics/kejdzh-gennadiya-tartakovskogo-vyjdet-osenyu",
+  "tags": [
+    "marvel",
+    "luke-cage"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

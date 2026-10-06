@@ -4,6 +4,9 @@
   "url": "/movies/terminator-genysis-review/",
   "original_url": "http://spidermedia.ru/movies/terminator-genysis-review",
   "archived": "https://web.archive.org/web/20240617223132/http://spidermedia.ru/movies/terminator-genysis-review",
+  "tags": [
+    "terminator"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

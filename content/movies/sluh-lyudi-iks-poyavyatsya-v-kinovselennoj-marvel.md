@@ -4,6 +4,10 @@
   "url": "/movies/sluh-lyudi-iks-poyavyatsya-v-kinovselennoj-marvel/",
   "original_url": "http://spidermedia.ru/movies/sluh-lyudi-iks-poyavyatsya-v-kinovselennoj-marvel",
   "archived": "https://web.archive.org/web/20260120144843/http://spidermedia.ru/movies/sluh-lyudi-iks-poyavyatsya-v-kinovselennoj-marvel",
+  "tags": [
+    "marvel",
+    "x-men"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

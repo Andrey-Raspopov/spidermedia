@@ -4,6 +4,11 @@
   "url": "/blog/derden/mastrid-mangi-ot-derdena-2-hideout-green-blood-kakidzaki-masasumi-0/",
   "original_url": "https://spidermedia.ru/blog/derden/mastrid-mangi-ot-derdena-2-hideout-green-blood-kakidzaki-masasumi-0",
   "archived": "https://web.archive.org/web/20251211032117/https://spidermedia.ru/blog/derden/mastrid-mangi-ot-derdena-2-hideout-green-blood-kakidzaki-masasumi-0",
+  "tags": [
+    "obzor",
+    "manga",
+    "kakidzaki-masasumi"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

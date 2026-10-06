@@ -4,6 +4,10 @@
   "url": "/blog/igrok/flash-going-rogue-mnenie-redakcii/",
   "original_url": "http://spidermedia.ru/blog/igrok/flash-going-rogue-mnenie-redakcii",
   "archived": "https://web.archive.org/web/20250420030009/http://spidermedia.ru/blog/igrok/flash-going-rogue-mnenie-redakcii",
+  "tags": [
+    "the-flash",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

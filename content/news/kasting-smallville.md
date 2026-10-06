@@ -4,6 +4,14 @@
   "url": "/news/kasting-smallville/",
   "original_url": "https://spidermedia.ru/news/kasting-smallville",
   "archived": "https://web.archive.org/web/20250709055729/https://spidermedia.ru/news/kasting-smallville",
+  "tags": [
+    "serialy",
+    "tajny-smollvillya",
+    "smollvill",
+    "obshhestvo-spravedlivosti-ameriki",
+    "smallville",
+    "jsa"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

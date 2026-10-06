@@ -4,6 +4,9 @@
   "url": "/news/we-want-you/",
   "original_url": "http://spidermedia.ru/news/we-want-you",
   "archived": "https://web.archive.org/web/20210126000953/http://spidermedia.ru/news/we-want-you",
+  "tags": [
+    "dorogaya-redakciya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

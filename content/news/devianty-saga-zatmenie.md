@@ -4,6 +4,12 @@
   "url": "/news/devianty-saga-zatmenie/",
   "original_url": "http://spidermedia.ru/news/devianty-saga-zatmenie",
   "archived": "https://web.archive.org/web/20220819230933/http://spidermedia.ru/news/devianty-saga-zatmenie",
+  "tags": [
+    "thor",
+    "robert-rodi",
+    "stiven-segoviya",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

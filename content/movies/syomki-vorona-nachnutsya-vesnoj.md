@@ -4,6 +4,10 @@
   "url": "/movies/syomki-vorona-nachnutsya-vesnoj/",
   "original_url": "http://spidermedia.ru/movies/syomki-vorona-nachnutsya-vesnoj",
   "archived": "https://web.archive.org/web/20251108200028/http://spidermedia.ru/movies/syomki-vorona-nachnutsya-vesnoj",
+  "tags": [
+    "the-crow",
+    "kitchen-sink-press"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

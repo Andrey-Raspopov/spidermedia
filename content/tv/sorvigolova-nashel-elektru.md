@@ -4,6 +4,11 @@
   "url": "/tv/sorvigolova-nashel-elektru/",
   "original_url": "https://spidermedia.ru/tv/sorvigolova-nashel-elektru",
   "archived": "https://web.archive.org/web/20260214131822/https://spidermedia.ru/tv/sorvigolova-nashel-elektru",
+  "tags": [
+    "marvel",
+    "daredevil",
+    "elektra"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/news/temnyy-rycar-vozrozhdenie-legendy-video-so-semok/",
   "original_url": "https://spidermedia.ru/news/temnyy-rycar-vozrozhdenie-legendy-video-so-semok",
   "archived": "https://web.archive.org/web/20241110024833/https://spidermedia.ru/news/temnyy-rycar-vozrozhdenie-legendy-video-so-semok",
+  "tags": [
+    "temnyj-rycar",
+    "batman",
+    "dark-knight-rises"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

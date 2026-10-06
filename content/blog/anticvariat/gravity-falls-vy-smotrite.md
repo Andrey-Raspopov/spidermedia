@@ -4,6 +4,11 @@
   "url": "/blog/anticvariat/gravity-falls-vy-smotrite/",
   "original_url": "http://spidermedia.ru/blog/anticvariat/gravity-falls-vy-smotrite",
   "archived": "https://web.archive.org/web/20260206224451/http://spidermedia.ru/blog/anticvariat/gravity-falls-vy-smotrite",
+  "tags": [
+    "serialy",
+    "obzor",
+    "gravity-falls"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/blog/lady-charles/uzhasy-nashego-gorodka/",
   "original_url": "http://spidermedia.ru/blog/lady-charles/uzhasy-nashego-gorodka",
   "archived": "https://web.archive.org/web/20190819223133/http://spidermedia.ru/blog/lady-charles/uzhasy-nashego-gorodka",
+  "tags": [
+    "zhenshhiny-v-komiksah",
+    "dan-didio",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/news/planiruetsya-novaya-ekranizaciya-ligi-vydayushchihsya-dzhentlmenov/",
   "original_url": "https://spidermedia.ru/news/planiruetsya-novaya-ekranizaciya-ligi-vydayushchihsya-dzhentlmenov",
   "archived": "https://web.archive.org/web/20250909131628/https://spidermedia.ru/news/planiruetsya-novaya-ekranizaciya-ligi-vydayushchihsya-dzhentlmenov",
+  "tags": [
+    "alan-mur"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

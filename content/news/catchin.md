@@ -4,6 +4,25 @@
   "url": "/news/catchin/",
   "original_url": "http://spidermedia.ru/news/catchin",
   "archived": "https://web.archive.org/web/20260313110424/http://spidermedia.ru/news/catchin",
+  "tags": [
+    "spider-man",
+    "umberto-ramos",
+    "mishel-fiff",
+    "mario-gevara",
+    "marvel",
+    "majk-deodato",
+    "kallen-bann",
+    "kaare-endryus",
+    "den-slott",
+    "dejl-iglshem",
+    "devid-markes",
+    "joshua-hale-fialkov",
+    "dzheyson-aaron",
+    "brian-michael-bendis",
+    "amilkar-pinna",
+    "ultimate",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

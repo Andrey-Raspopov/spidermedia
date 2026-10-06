@@ -4,6 +4,13 @@
   "url": "/news/prevyu-incognito-bad-influences-1/",
   "original_url": "http://spidermedia.ru/news/prevyu-incognito-bad-influences-1",
   "archived": "https://web.archive.org/web/20260215073851/http://spidermedia.ru/news/prevyu-incognito-bad-influences-1",
+  "tags": [
+    "ed-brubaker",
+    "shon-fillips",
+    "art-0",
+    "incognito",
+    "icon-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

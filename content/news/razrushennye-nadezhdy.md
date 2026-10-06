@@ -4,6 +4,13 @@
   "url": "/news/razrushennye-nadezhdy/",
   "original_url": "http://spidermedia.ru/news/razrushennye-nadezhdy",
   "archived": "https://web.archive.org/web/20250424192416/http://spidermedia.ru/news/razrushennye-nadezhdy",
+  "tags": [
+    "marvel",
+    "bryan-hitch",
+    "ed-brubaker",
+    "captain-america",
+    "reborn"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/blog/derden/komiksy-dc-universe-vypusk-no-01-vnimanie-spoylery/",
   "original_url": "http://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-01-vnimanie-spoylery",
   "archived": "https://web.archive.org/web/20220528191238/http://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-01-vnimanie-spoylery",
+  "tags": [
+    "dc-comics",
+    "batman",
+    "hush",
+    "dc-universe-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

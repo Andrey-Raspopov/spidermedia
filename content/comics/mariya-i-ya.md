@@ -4,6 +4,11 @@
   "url": "/comics/mariya-i-ya/",
   "original_url": "http://spidermedia.ru/comics/mariya-i-ya",
   "archived": "https://web.archive.org/web/20260115064742/http://spidermedia.ru/comics/mariya-i-ya",
+  "tags": [
+    "boomkniga",
+    "recenziya",
+    "zarubezhnye-komiksy-na-russkom"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

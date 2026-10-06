@@ -4,6 +4,12 @@
   "url": "/news/nycc-prizrachnyy-gonshchik-poluchit-uskorenie/",
   "original_url": "http://spidermedia.ru/news/nycc-prizrachnyy-gonshchik-poluchit-uskorenie",
   "archived": "https://web.archive.org/web/20251013185740/http://spidermedia.ru/news/nycc-prizrachnyy-gonshchik-poluchit-uskorenie",
+  "tags": [
+    "tradd-moore",
+    "prizrachnyj-gonshhik",
+    "marvel",
+    "new-york-comic-con"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

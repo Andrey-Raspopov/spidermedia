@@ -4,6 +4,11 @@
   "url": "/movies/bratya-russo-snimut-trikvel-mstitelej/",
   "original_url": "https://spidermedia.ru/movies/bratya-russo-snimut-trikvel-mstitelej",
   "archived": "https://web.archive.org/web/20251006144459/https://spidermedia.ru/movies/bratya-russo-snimut-trikvel-mstitelej",
+  "tags": [
+    "avengers",
+    "captain-america",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

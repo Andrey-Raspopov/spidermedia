@@ -4,6 +4,10 @@
   "url": "/news/novyy-robokop/",
   "original_url": "http://spidermedia.ru/news/novyy-robokop",
   "archived": "https://web.archive.org/web/20150320064825/http://spidermedia.ru/news/novyy-robokop",
+  "tags": [
+    "robot-policejskij",
+    "kino"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

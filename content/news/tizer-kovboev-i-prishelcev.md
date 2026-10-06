@@ -4,6 +4,20 @@
   "url": "/news/tizer-kovboev-i-prishelcev/",
   "original_url": "http://spidermedia.ru/news/tizer-kovboev-i-prishelcev",
   "archived": "https://web.archive.org/web/20120607113243/http://spidermedia.ru/news/tizer-kovboev-i-prishelcev",
+  "tags": [
+    "cowboys-and-aliens",
+    "jon-favreau",
+    "video",
+    "dzhon-favro",
+    "deniel-kreyg",
+    "kino",
+    "kovboi-i-prishelcy",
+    "komiksy",
+    "krutota",
+    "oliviya-uayld",
+    "tizery",
+    "harrison-ford"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

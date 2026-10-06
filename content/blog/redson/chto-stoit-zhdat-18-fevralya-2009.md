@@ -4,6 +4,11 @@
   "url": "/blog/redson/chto-stoit-zhdat-18-fevralya-2009/",
   "original_url": "http://spidermedia.ru/blog/redson/chto-stoit-zhdat-18-fevralya-2009",
   "archived": "https://web.archive.org/web/20120608154104/http://spidermedia.ru/blog/redson/chto-stoit-zhdat-18-fevralya-2009",
+  "tags": [
+    "komiksy",
+    "mnenie",
+    "chto-stoit-zhdat"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

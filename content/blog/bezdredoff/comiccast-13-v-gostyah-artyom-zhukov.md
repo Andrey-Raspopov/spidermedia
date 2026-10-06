@@ -4,6 +4,9 @@
   "url": "/blog/bezdredoff/comiccast-13-v-gostyah-artyom-zhukov/",
   "original_url": "http://spidermedia.ru/blog/bezdredoff/comiccast-13-v-gostyah-artyom-zhukov",
   "archived": "https://web.archive.org/web/20150320081850/http://spidermedia.ru/blog/bezdredoff/comiccast-13-v-gostyah-artyom-zhukov",
+  "tags": [
+    "komikkast"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

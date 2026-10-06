@@ -4,6 +4,11 @@
   "url": "/news/prevyu-komiksa-mph-1/",
   "original_url": "https://spidermedia.ru/news/prevyu-komiksa-mph-1",
   "archived": "https://web.archive.org/web/20260307052756/https://spidermedia.ru/news/prevyu-komiksa-mph-1",
+  "tags": [
+    "mark-millar",
+    "mph",
+    "image-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,15 @@
   "url": "/news/chto-eto-za-devushka-i-gde-ona-zhivyot/",
   "original_url": "http://spidermedia.ru/news/chto-eto-za-devushka-i-gde-ona-zhivyot",
   "archived": "https://web.archive.org/web/20120608135239/http://spidermedia.ru/news/chto-eto-za-devushka-i-gde-ona-zhivyot",
+  "tags": [
+    "captain-america",
+    "nomad-0",
+    "kapitan-amerika",
+    "komiksy",
+    "marvel",
+    "nomad",
+    "shon-makkiver"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

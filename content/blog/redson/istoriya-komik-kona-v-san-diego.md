@@ -4,6 +4,11 @@
   "url": "/blog/redson/istoriya-komik-kona-v-san-diego/",
   "original_url": "http://spidermedia.ru/blog/redson/istoriya-komik-kona-v-san-diego",
   "archived": "https://web.archive.org/web/20111126083805/http://spidermedia.ru/blog/redson/istoriya-komik-kona-v-san-diego",
+  "tags": [
+    "kino",
+    "komik-kon-v-san-diego",
+    "komiksy"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

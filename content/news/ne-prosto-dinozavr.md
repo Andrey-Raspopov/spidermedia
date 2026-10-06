@@ -4,6 +4,12 @@
   "url": "/news/ne-prosto-dinozavr/",
   "original_url": "http://spidermedia.ru/news/ne-prosto-dinozavr",
   "archived": "https://web.archive.org/web/20251206033007/http://spidermedia.ru/news/ne-prosto-dinozavr",
+  "tags": [
+    "robert-kirkman",
+    "image-comics",
+    "dzhejson-hovard",
+    "super-dinosaur"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

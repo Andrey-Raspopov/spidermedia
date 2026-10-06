@@ -4,6 +4,10 @@
   "url": "/comics/metabarons-by-fanzon-review/",
   "original_url": "http://spidermedia.ru/comics/metabarons-by-fanzon-review",
   "archived": "https://web.archive.org/web/20220703144454/http://spidermedia.ru/comics/metabarons-by-fanzon-review",
+  "tags": [
+    "bande-dessinée",
+    "zarubezhnye-komiksy-na-russkom"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

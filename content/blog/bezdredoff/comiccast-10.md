@@ -4,6 +4,9 @@
   "url": "/blog/bezdredoff/comiccast-10/",
   "original_url": "http://spidermedia.ru/blog/bezdredoff/comiccast-10",
   "archived": "https://web.archive.org/web/20150320080859/http://spidermedia.ru/blog/bezdredoff/comiccast-10",
+  "tags": [
+    "komikkast"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/blog/strelok-i/vmesto-vstupleniya/",
   "original_url": "http://spidermedia.ru/blog/strelok-i/vmesto-vstupleniya",
   "archived": "https://web.archive.org/web/20230323045812/http://spidermedia.ru/blog/strelok-i/vmesto-vstupleniya",
+  "tags": [
+    "serialy",
+    "heroes"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/news/treyler-gorod-grehov-2-zhenshchina-radi-kotoroy-stoit-ubivat/",
   "original_url": "http://spidermedia.ru/news/treyler-gorod-grehov-2-zhenshchina-radi-kotoroy-stoit-ubivat",
   "archived": "https://web.archive.org/web/20260125121914/http://spidermedia.ru/news/treyler-gorod-grehov-2-zhenshchina-radi-kotoroy-stoit-ubivat",
+  "tags": [
+    "frenk-miller",
+    "trejlery",
+    "sin-city"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

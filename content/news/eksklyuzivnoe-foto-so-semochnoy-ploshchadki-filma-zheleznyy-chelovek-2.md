@@ -4,6 +4,12 @@
   "url": "/news/eksklyuzivnoe-foto-so-semochnoy-ploshchadki-filma-zheleznyy-chelovek-2/",
   "original_url": "https://spidermedia.ru/news/eksklyuzivnoe-foto-so-semochnoy-ploshchadki-filma-zheleznyy-chelovek-2",
   "archived": "https://web.archive.org/web/20251112174124/https://spidermedia.ru/news/eksklyuzivnoe-foto-so-semochnoy-ploshchadki-filma-zheleznyy-chelovek-2",
+  "tags": [
+    "preview",
+    "dzhon-favro",
+    "marvel",
+    "iron-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

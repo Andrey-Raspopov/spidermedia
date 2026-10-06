@@ -4,6 +4,11 @@
   "url": "/blog/naya/slice-black-chocolate/",
   "original_url": "http://spidermedia.ru/blog/naya/slice-black-chocolate",
   "archived": "https://web.archive.org/web/20250116125354/http://spidermedia.ru/blog/naya/slice-black-chocolate",
+  "tags": [
+    "one-shot",
+    "manga",
+    "fantasy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

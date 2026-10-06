@@ -4,6 +4,28 @@
   "url": "/blog/oleg89/nycc10-infestation-ot-idw-publishing/",
   "original_url": "http://spidermedia.ru/blog/oleg89/nycc10-infestation-ot-idw-publishing",
   "archived": "https://web.archive.org/web/20251115182623/http://spidermedia.ru/blog/oleg89/nycc10-infestation-ot-idw-publishing",
+  "tags": [
+    "erik-bernhem",
+    "endi-lenning",
+    "skott-tipton",
+    "nik-rosh",
+    "majk-rajht",
+    "kajl-hotc",
+    "zombi",
+    "den-ebnett",
+    "devid-tipton",
+    "devid-messina",
+    "dzhovanni-timpano",
+    "star-trek",
+    "infestation",
+    "idw-publishing",
+    "gi-joe",
+    "new-york-comic-con",
+    "nycc-2010",
+    "komik-kon-v-nyu-yorke",
+    "ghostbusters",
+    "transformers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

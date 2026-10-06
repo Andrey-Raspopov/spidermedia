@@ -4,6 +4,11 @@
   "url": "/blog/oleg89/doktorskiy-shepot/",
   "original_url": "http://spidermedia.ru/blog/oleg89/doktorskiy-shepot",
   "archived": "https://web.archive.org/web/20260120234625/http://spidermedia.ru/blog/oleg89/doktorskiy-shepot",
+  "tags": [
+    "ben-templsmit",
+    "idw-publishing",
+    "doctor-who"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

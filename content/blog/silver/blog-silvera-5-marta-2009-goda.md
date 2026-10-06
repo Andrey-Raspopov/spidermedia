@@ -4,6 +4,12 @@
   "url": "/blog/silver/blog-silvera-5-marta-2009-goda/",
   "original_url": "http://spidermedia.ru/blog/silver/blog-silvera-5-marta-2009-goda",
   "archived": "https://web.archive.org/web/20120607145916/http://spidermedia.ru/blog/silver/blog-silvera-5-marta-2009-goda",
+  "tags": [
+    "watchmen",
+    "alan-moore",
+    "komiksy",
+    "mysli"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

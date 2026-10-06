@@ -4,6 +4,9 @@
   "url": "/news/polnocennyy-treyler-losers/",
   "original_url": "http://spidermedia.ru/news/polnocennyy-treyler-losers",
   "archived": "https://web.archive.org/web/20250620081817/http://spidermedia.ru/news/polnocennyy-treyler-losers",
+  "tags": [
+    "trejlery"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

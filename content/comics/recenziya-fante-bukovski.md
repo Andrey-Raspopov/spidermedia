@@ -4,6 +4,10 @@
   "url": "/comics/recenziya-fante-bukovski/",
   "original_url": "http://spidermedia.ru/comics/recenziya-fante-bukovski",
   "archived": "https://web.archive.org/web/20251110225947/http://spidermedia.ru/comics/recenziya-fante-bukovski",
+  "tags": [
+    "komiksy",
+    "recenziya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

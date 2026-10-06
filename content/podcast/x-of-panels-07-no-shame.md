@@ -4,6 +4,10 @@
   "url": "/podcast/x-of-panels-07-no-shame/",
   "original_url": "https://spidermedia.ru/podcast/x-of-panels-07-no-shame",
   "archived": "https://web.archive.org/web/20250422040416/https://spidermedia.ru/podcast/x-of-panels-07-no-shame",
+  "tags": [
+    "panels-of-x",
+    "on-panels"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

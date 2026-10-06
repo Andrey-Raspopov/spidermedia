@@ -4,6 +4,11 @@
   "url": "/news/sluh-dnya-marvel-gotovit-ekranizaciyu-inhumans/",
   "original_url": "http://spidermedia.ru/news/sluh-dnya-marvel-gotovit-ekranizaciyu-inhumans",
   "archived": "https://web.archive.org/web/20251207012048/http://spidermedia.ru/news/sluh-dnya-marvel-gotovit-ekranizaciyu-inhumans",
+  "tags": [
+    "inhumans",
+    "marvel",
+    "nelyudi"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

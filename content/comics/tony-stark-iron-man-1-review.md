@@ -4,6 +4,11 @@
   "url": "/comics/tony-stark-iron-man-1-review/",
   "original_url": "https://spidermedia.ru/comics/tony-stark-iron-man-1-review",
   "archived": "https://web.archive.org/web/20250518134454/https://spidermedia.ru/comics/tony-stark-iron-man-1-review",
+  "tags": [
+    "marvel",
+    "den-slott",
+    "iron-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

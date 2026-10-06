@@ -4,6 +4,10 @@
   "url": "/blog/qvall/rr-vertigo-jam-1/",
   "original_url": "http://spidermedia.ru/blog/qvall/rr-vertigo-jam-1",
   "archived": "https://web.archive.org/web/20120609123420/http://spidermedia.ru/blog/qvall/rr-vertigo-jam-1",
+  "tags": [
+    "picspam",
+    "vertigo"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/comics/the-dollhouse-family-review/",
   "original_url": "http://spidermedia.ru/comics/the-dollhouse-family-review",
   "archived": "https://web.archive.org/web/20260313115749/http://spidermedia.ru/comics/the-dollhouse-family-review",
+  "tags": [
+    "dc-comics",
+    "joe-hill",
+    "majk-keri",
+    "piter-gross"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

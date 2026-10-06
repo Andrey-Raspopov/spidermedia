@@ -4,6 +4,18 @@
   "url": "/news/krik-spravedlivostiuzhe-skoro/",
   "original_url": "http://spidermedia.ru/news/krik-spravedlivostiuzhe-skoro",
   "archived": "https://web.archive.org/web/20260125132044/http://spidermedia.ru/news/krik-spravedlivostiuzhe-skoro",
+  "tags": [
+    "dc-comics",
+    "green-lantern",
+    "preview",
+    "dzhejms-robinson",
+    "superman",
+    "james-robinson",
+    "mauro-cascioli",
+    "mauro-kascioli",
+    "justice-league",
+    "green-arrow"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

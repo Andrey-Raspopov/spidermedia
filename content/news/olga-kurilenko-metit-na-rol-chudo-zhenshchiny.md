@@ -4,6 +4,13 @@
   "url": "/news/olga-kurilenko-metit-na-rol-chudo-zhenshchiny/",
   "original_url": "https://spidermedia.ru/news/olga-kurilenko-metit-na-rol-chudo-zhenshchiny",
   "archived": "https://web.archive.org/web/20260123083007/https://spidermedia.ru/news/olga-kurilenko-metit-na-rol-chudo-zhenshchiny",
+  "tags": [
+    "wonder-woman",
+    "chelovek-iz-stali",
+    "superman",
+    "batman",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

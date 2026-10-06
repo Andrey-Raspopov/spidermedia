@@ -4,6 +4,14 @@
   "url": "/news/triller-obedinenie-bez-straha/",
   "original_url": "http://spidermedia.ru/news/triller-obedinenie-bez-straha",
   "archived": "https://web.archive.org/web/20251216190315/http://spidermedia.ru/news/triller-obedinenie-bez-straha",
+  "tags": [
+    "marvel",
+    "endi-diggl",
+    "image-comics",
+    "daredevil",
+    "dardevil",
+    "dzhok"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

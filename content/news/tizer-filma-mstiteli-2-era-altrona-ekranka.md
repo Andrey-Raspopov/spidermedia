@@ -4,6 +4,12 @@
   "url": "/news/tizer-filma-mstiteli-2-era-altrona-ekranka/",
   "original_url": "https://spidermedia.ru/news/tizer-filma-mstiteli-2-era-altrona-ekranka",
   "archived": "https://web.archive.org/web/20251205121612/https://spidermedia.ru/news/tizer-filma-mstiteli-2-era-altrona-ekranka",
+  "tags": [
+    "avengers",
+    "marvel",
+    "iron-man",
+    "san-diego-comic-con-international"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

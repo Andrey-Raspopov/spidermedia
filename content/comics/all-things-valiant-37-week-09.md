@@ -4,6 +4,9 @@
   "url": "/comics/all-things-valiant-37-week-09/",
   "original_url": "http://spidermedia.ru/comics/all-things-valiant-37-week-09",
   "archived": "https://web.archive.org/web/20260125062020/http://spidermedia.ru/comics/all-things-valiant-37-week-09",
+  "tags": [
+    "valiant-entertainment"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

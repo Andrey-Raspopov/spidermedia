@@ -4,6 +4,10 @@
   "url": "/comics/hellboymedia-13-abe-sapien-a-darkness-so-great/",
   "original_url": "https://spidermedia.ru/comics/hellboymedia-13-abe-sapien-a-darkness-so-great",
   "archived": "https://web.archive.org/web/20251209142949/https://spidermedia.ru/comics/hellboymedia-13-abe-sapien-a-darkness-so-great",
+  "tags": [
+    "hellboymedia",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

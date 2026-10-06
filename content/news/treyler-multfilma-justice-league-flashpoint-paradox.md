@@ -4,6 +4,12 @@
   "url": "/news/treyler-multfilma-justice-league-flashpoint-paradox/",
   "original_url": "https://spidermedia.ru/news/treyler-multfilma-justice-league-flashpoint-paradox",
   "archived": "https://web.archive.org/web/20251108184734/https://spidermedia.ru/news/treyler-multfilma-justice-league-flashpoint-paradox",
+  "tags": [
+    "the-flash",
+    "trejlery",
+    "animaciya",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

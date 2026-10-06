@@ -4,6 +4,10 @@
   "url": "/news/otryvok-filma-zelyonyy-fonar-parallaks/",
   "original_url": "https://spidermedia.ru/news/otryvok-filma-zelyonyy-fonar-parallaks",
   "archived": "https://web.archive.org/web/20260125124414/https://spidermedia.ru/news/otryvok-filma-zelyonyy-fonar-parallaks",
+  "tags": [
+    "dc-comics",
+    "green-lantern"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

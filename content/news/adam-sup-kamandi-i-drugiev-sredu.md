@@ -4,6 +4,18 @@
   "url": "/news/adam-sup-kamandi-i-drugiev-sredu/",
   "original_url": "http://spidermedia.ru/news/adam-sup-kamandi-i-drugiev-sredu",
   "archived": "https://web.archive.org/web/20260125113751/http://spidermedia.ru/news/adam-sup-kamandi-i-drugiev-sredu",
+  "tags": [
+    "dc-comics",
+    "green-lantern",
+    "dan-didio",
+    "preview",
+    "li-bermeho",
+    "superman",
+    "dejv-gibbons",
+    "lee-bermejo",
+    "dave-gibbons",
+    "wednesday-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

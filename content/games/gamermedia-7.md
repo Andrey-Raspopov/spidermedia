@@ -4,6 +4,10 @@
   "url": "/games/gamermedia-7/",
   "original_url": "http://spidermedia.ru/games/gamermedia-7",
   "archived": "https://web.archive.org/web/20250806062116/http://spidermedia.ru/games/gamermedia-7",
+  "tags": [
+    "gamermedia",
+    "zvezdnye-vojny"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

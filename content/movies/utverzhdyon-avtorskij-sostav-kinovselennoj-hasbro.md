@@ -4,6 +4,9 @@
   "url": "/movies/utverzhdyon-avtorskij-sostav-kinovselennoj-hasbro/",
   "original_url": "https://spidermedia.ru/movies/utverzhdyon-avtorskij-sostav-kinovselennoj-hasbro",
   "archived": "https://web.archive.org/web/20251108192013/https://spidermedia.ru/movies/utverzhdyon-avtorskij-sostav-kinovselennoj-hasbro",
+  "tags": [
+    "hasbro"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

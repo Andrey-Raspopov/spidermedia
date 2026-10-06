@@ -4,6 +4,10 @@
   "url": "/news/otchyot-o-zakrytom-pokaze-20-minut-zheleznogo-cheloveka-3/",
   "original_url": "http://spidermedia.ru/news/otchyot-o-zakrytom-pokaze-20-minut-zheleznogo-cheloveka-3",
   "archived": "https://web.archive.org/web/20190719095403/http://spidermedia.ru/news/otchyot-o-zakrytom-pokaze-20-minut-zheleznogo-cheloveka-3",
+  "tags": [
+    "marvel",
+    "iron-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

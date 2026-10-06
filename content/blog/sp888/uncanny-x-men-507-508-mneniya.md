@@ -4,6 +4,14 @@
   "url": "/blog/sp888/uncanny-x-men-507-508-mneniya/",
   "original_url": "http://spidermedia.ru/blog/sp888/uncanny-x-men-507-508-mneniya",
   "archived": "https://web.archive.org/web/20111026114303/http://spidermedia.ru/blog/sp888/uncanny-x-men-507-508-mneniya",
+  "tags": [
+    "marvel",
+    "x-universe",
+    "komiksy",
+    "mnenie",
+    "mett-frakshen",
+    "preview-s"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

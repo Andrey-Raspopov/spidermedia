@@ -4,6 +4,10 @@
   "url": "/tv/supergirl-s01e05-livewire/",
   "original_url": "https://spidermedia.ru/tv/supergirl-s01e05-livewire",
   "archived": "https://web.archive.org/web/20251205122700/https://spidermedia.ru/tv/supergirl-s01e05-livewire",
+  "tags": [
+    "dc-comics",
+    "supergirl"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

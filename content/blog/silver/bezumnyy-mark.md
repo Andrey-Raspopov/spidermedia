@@ -4,6 +4,11 @@
   "url": "/blog/silver/bezumnyy-mark/",
   "original_url": "http://spidermedia.ru/blog/silver/bezumnyy-mark",
   "archived": "https://web.archive.org/web/20250814213428/http://spidermedia.ru/blog/silver/bezumnyy-mark",
+  "tags": [
+    "mark-millar",
+    "marvel",
+    "icon-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

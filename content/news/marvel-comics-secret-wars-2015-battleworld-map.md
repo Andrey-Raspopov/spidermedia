@@ -4,6 +4,10 @@
   "url": "/news/marvel-comics-secret-wars-2015-battleworld-map/",
   "original_url": "http://spidermedia.ru/news/marvel-comics-secret-wars-2015-battleworld-map",
   "archived": "https://web.archive.org/web/20210118145804/http://spidermedia.ru/news/marvel-comics-secret-wars-2015-battleworld-map",
+  "tags": [
+    "secret-wars",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

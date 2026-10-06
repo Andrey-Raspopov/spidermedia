@@ -4,6 +4,9 @@
   "url": "/blog/gess/idealnoe-kun-fu-dlya-lyubogo-sluchaya/",
   "original_url": "http://spidermedia.ru/blog/gess/idealnoe-kun-fu-dlya-lyubogo-sluchaya",
   "archived": "https://web.archive.org/web/20120608191650/http://spidermedia.ru/blog/gess/idealnoe-kun-fu-dlya-lyubogo-sluchaya",
+  "tags": [
+    "dueyn-sverchinski"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

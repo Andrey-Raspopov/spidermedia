@@ -4,6 +4,9 @@
   "url": "/blog/naya/white-day/",
   "original_url": "http://spidermedia.ru/blog/naya/white-day",
   "archived": "https://web.archive.org/web/20250806052002/http://spidermedia.ru/blog/naya/white-day",
+  "tags": [
+    "manga"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

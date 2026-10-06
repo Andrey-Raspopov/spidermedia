@@ -4,6 +4,11 @@
   "url": "/blog/strelok-i/oops-i-did-it-again/",
   "original_url": "http://spidermedia.ru/blog/strelok-i/oops-i-did-it-again",
   "archived": "https://web.archive.org/web/20191216083323/http://spidermedia.ru/blog/strelok-i/oops-i-did-it-again",
+  "tags": [
+    "serialy",
+    "spojlery",
+    "heroes"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

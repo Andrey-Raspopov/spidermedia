@@ -4,6 +4,14 @@
   "url": "/blog/larosh/obzor-ray-russkoyazychnoe-izdanie-0/",
   "original_url": "https://spidermedia.ru/blog/larosh/obzor-ray-russkoyazychnoe-izdanie-0",
   "archived": "https://web.archive.org/web/20260117232503/https://spidermedia.ru/blog/larosh/obzor-ray-russkoyazychnoe-izdanie-0",
+  "tags": [
+    "obzor",
+    "mett-kindt",
+    "klejton-krejn",
+    "zarubezhnye-komiksy-na-russkom",
+    "viverra-publishing",
+    "valiant-entertainment"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

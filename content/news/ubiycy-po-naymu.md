@@ -4,6 +4,17 @@
   "url": "/news/ubiycy-po-naymu/",
   "original_url": "http://spidermedia.ru/news/ubiycy-po-naymu",
   "archived": "https://web.archive.org/web/20120607153024/http://spidermedia.ru/news/ubiycy-po-naymu",
+  "tags": [
+    "iron-fist",
+    "luke-cage",
+    "thunderbolts",
+    "gromoverzhcy",
+    "zheleznyy-kulak",
+    "komiksy",
+    "lyuk-keydzh",
+    "marvel",
+    "rik-remender"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

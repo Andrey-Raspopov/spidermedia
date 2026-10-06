@@ -4,6 +4,10 @@
   "url": "/movies/spidermedia-anniversary-ghost-world/",
   "original_url": "http://spidermedia.ru/movies/spidermedia-anniversary-ghost-world",
   "archived": "https://web.archive.org/web/20251207011740/http://spidermedia.ru/movies/spidermedia-anniversary-ghost-world",
+  "tags": [
+    "spidermedia-15th-anniversary",
+    "obzor"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

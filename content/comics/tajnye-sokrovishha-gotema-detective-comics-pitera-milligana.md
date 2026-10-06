@@ -4,6 +4,12 @@
   "url": "/comics/tajnye-sokrovishha-gotema-detective-comics-pitera-milligana/",
   "original_url": "https://spidermedia.ru/comics/tajnye-sokrovishha-gotema-detective-comics-pitera-milligana",
   "archived": "https://web.archive.org/web/20260312022616/https://spidermedia.ru/comics/tajnye-sokrovishha-gotema-detective-comics-pitera-milligana",
+  "tags": [
+    "dc-comics",
+    "batman",
+    "peter-milligan",
+    "batman-week"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

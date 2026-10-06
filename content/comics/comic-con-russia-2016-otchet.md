@@ -4,6 +4,11 @@
   "url": "/comics/comic-con-russia-2016-otchet/",
   "original_url": "http://spidermedia.ru/comics/comic-con-russia-2016-otchet",
   "archived": "https://web.archive.org/web/20251208073552/http://spidermedia.ru/comics/comic-con-russia-2016-otchet",
+  "tags": [
+    "comic-con-russia",
+    "zarubezhnye-komiksy-na-russkom",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

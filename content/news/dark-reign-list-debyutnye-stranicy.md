@@ -4,6 +4,15 @@
   "url": "/news/dark-reign-list-debyutnye-stranicy/",
   "original_url": "https://spidermedia.ru/news/dark-reign-list-debyutnye-stranicy",
   "archived": "https://web.archive.org/web/20260305230543/https://spidermedia.ru/news/dark-reign-list-debyutnye-stranicy",
+  "tags": [
+    "avengers",
+    "temnoe-pravlenie",
+    "marko-dzhurdzhevich",
+    "brian-michael-bendis",
+    "new-avengers",
+    "marvel",
+    "list"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

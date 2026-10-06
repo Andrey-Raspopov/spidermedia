@@ -4,6 +4,17 @@
   "url": "/news/geroi-geymana-nagrazhdaem-pobediteley/",
   "original_url": "https://spidermedia.ru/news/geroi-geymana-nagrazhdaem-pobediteley",
   "archived": "https://web.archive.org/web/20260306000309/https://spidermedia.ru/news/geroi-geymana-nagrazhdaem-pobediteley",
+  "tags": [
+    "eksmo",
+    "fanart",
+    "neil-gaiman",
+    "konkurs",
+    "zarubezhnye-komiksy-na-russkom",
+    "komiks-art",
+    "challenge",
+    "lyucifer",
+    "neil-gaiman-sandman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

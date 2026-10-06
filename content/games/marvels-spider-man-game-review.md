@@ -4,6 +4,11 @@
   "url": "/games/marvels-spider-man-game-review/",
   "original_url": "https://spidermedia.ru/games/marvels-spider-man-game-review",
   "archived": "https://web.archive.org/web/20251216125529/https://spidermedia.ru/games/marvels-spider-man-game-review",
+  "tags": [
+    "marvel",
+    "spider-man",
+    "spider-week"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

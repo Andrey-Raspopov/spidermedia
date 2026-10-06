@@ -4,6 +4,12 @@
   "url": "/blog/colossus05/dzho-hill-i-ego-klyuchi-obzor-komiksa-locke-key/",
   "original_url": "https://spidermedia.ru/blog/colossus05/dzho-hill-i-ego-klyuchi-obzor-komiksa-locke-key",
   "archived": "https://web.archive.org/web/20260123083451/https://spidermedia.ru/blog/colossus05/dzho-hill-i-ego-klyuchi-obzor-komiksa-locke-key",
+  "tags": [
+    "mnenie",
+    "idw-publishing",
+    "gabriel-rodriguez",
+    "joe-hill"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/news/earths-mightiest-villains/",
   "original_url": "http://spidermedia.ru/news/earths-mightiest-villains",
   "archived": "https://web.archive.org/web/20251108040852/http://spidermedia.ru/news/earths-mightiest-villains",
+  "tags": [
+    "preview",
+    "animaciya",
+    "marvel",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

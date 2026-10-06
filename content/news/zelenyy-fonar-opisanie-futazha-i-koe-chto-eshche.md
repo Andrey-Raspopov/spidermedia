@@ -4,6 +4,12 @@
   "url": "/news/zelenyy-fonar-opisanie-futazha-i-koe-chto-eshche/",
   "original_url": "https://spidermedia.ru/news/zelenyy-fonar-opisanie-futazha-i-koe-chto-eshche",
   "archived": "https://web.archive.org/web/20260211184233/https://spidermedia.ru/news/zelenyy-fonar-opisanie-futazha-i-koe-chto-eshche",
+  "tags": [
+    "postery",
+    "wondercon",
+    "green-lantern",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

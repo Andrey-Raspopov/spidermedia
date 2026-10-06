@@ -4,6 +4,20 @@
   "url": "/news/samye-temnye-novosti-s-komik-kona-2009/",
   "original_url": "http://spidermedia.ru/news/samye-temnye-novosti-s-komik-kona-2009",
   "archived": "https://web.archive.org/web/20260214141559/http://spidermedia.ru/news/samye-temnye-novosti-s-komik-kona-2009",
+  "tags": [
+    "anti-venom",
+    "thor",
+    "nycc-2009",
+    "mr.-negative",
+    "marvel",
+    "iron-patriot",
+    "iron-man",
+    "hood",
+    "avengers",
+    "bullseye",
+    "spider-man",
+    "agenty-atlasa"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

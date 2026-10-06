@@ -4,6 +4,9 @@
   "url": "/movies/kinodajdzhest-gambit-chudo-zhenshhina-fantasticheskaya-chetvyorka-dedpul-betmen-protiv-supermena-lyudi-iks-rosomaha-chelovek-muravej/",
   "original_url": "https://spidermedia.ru/movies/kinodajdzhest-gambit-chudo-zhenshhina-fantasticheskaya-chetvyorka-dedpul-betmen-protiv-supermena-lyudi-iks-rosomaha-chelovek-muravej",
   "archived": "https://web.archive.org/web/20251013184247/https://spidermedia.ru/movies/kinodajdzhest-gambit-chudo-zhenshhina-fantasticheskaya-chetvyorka-dedpul-betmen-protiv-supermena-lyudi-iks-rosomaha-chelovek-muravej",
+  "tags": [
+    "digest"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

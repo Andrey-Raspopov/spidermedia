@@ -4,6 +4,13 @@
   "url": "/news/dva-britanca-i-kanadec/",
   "original_url": "http://spidermedia.ru/news/dva-britanca-i-kanadec",
   "archived": "https://web.archive.org/web/20150428110926/http://spidermedia.ru/news/dva-britanca-i-kanadec",
+  "tags": [
+    "tizer",
+    "pol-kornell",
+    "alan-devis",
+    "marvel-now",
+    "marvel-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

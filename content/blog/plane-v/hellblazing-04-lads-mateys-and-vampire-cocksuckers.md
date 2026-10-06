@@ -4,6 +4,11 @@
   "url": "/blog/plane-v/hellblazing-04-lads-mateys-and-vampire-cocksuckers/",
   "original_url": "http://spidermedia.ru/blog/plane-v/hellblazing-04-lads-mateys-and-vampire-cocksuckers",
   "archived": "https://web.archive.org/web/20260206224920/http://spidermedia.ru/blog/plane-v/hellblazing-04-lads-mateys-and-vampire-cocksuckers",
+  "tags": [
+    "vertigo",
+    "hellblazing",
+    "hellblazer"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

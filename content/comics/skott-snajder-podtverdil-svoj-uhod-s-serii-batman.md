@@ -4,6 +4,13 @@
   "url": "/comics/skott-snajder-podtverdil-svoj-uhod-s-serii-batman/",
   "original_url": "https://spidermedia.ru/comics/skott-snajder-podtverdil-svoj-uhod-s-serii-batman",
   "archived": "https://web.archive.org/web/20251108041607/https://spidermedia.ru/comics/skott-snajder-podtverdil-svoj-uhod-s-serii-batman",
+  "tags": [
+    "dc-comics",
+    "detective-comics",
+    "batman",
+    "greg-capullo",
+    "skott-snajder"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

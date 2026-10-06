@@ -4,6 +4,14 @@
   "url": "/news/sdcc10-marvel-anime-iron-man/",
   "original_url": "http://spidermedia.ru/news/sdcc10-marvel-anime-iron-man",
   "archived": "https://web.archive.org/web/20260115041757/http://spidermedia.ru/news/sdcc10-marvel-anime-iron-man",
+  "tags": [
+    "warren-ellis",
+    "san-diego-comic-con-international",
+    "anime",
+    "animaciya",
+    "marvel",
+    "iron-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

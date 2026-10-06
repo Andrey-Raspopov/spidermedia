@@ -4,6 +4,12 @@
   "url": "/news/sdcc09-kino-0/",
   "original_url": "https://spidermedia.ru/news/sdcc09-kino-0",
   "archived": "https://web.archive.org/web/20250429133657/https://spidermedia.ru/news/sdcc09-kino-0",
+  "tags": [
+    "san-diego-comic-con-international",
+    "dzhona-heks",
+    "dzhok",
+    "the-goon"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

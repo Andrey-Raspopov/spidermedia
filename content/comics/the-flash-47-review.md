@@ -4,6 +4,9 @@
   "url": "/comics/the-flash-47-review/",
   "original_url": "http://spidermedia.ru/comics/the-flash-47-review",
   "archived": "https://web.archive.org/web/20250512114550/http://spidermedia.ru/comics/the-flash-47-review",
+  "tags": [
+    "the-flash"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

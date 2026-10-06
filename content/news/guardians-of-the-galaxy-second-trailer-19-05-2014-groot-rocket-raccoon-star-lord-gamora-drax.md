@@ -4,6 +4,11 @@
   "url": "/news/guardians-of-the-galaxy-second-trailer-19-05-2014-groot-rocket-raccoon-star-lord-gamora-drax/",
   "original_url": "http://spidermedia.ru/news/guardians-of-the-galaxy-second-trailer-19-05-2014-groot-rocket-raccoon-star-lord-gamora-drax",
   "archived": "https://web.archive.org/web/20260125124831/http://spidermedia.ru/news/guardians-of-the-galaxy-second-trailer-19-05-2014-groot-rocket-raccoon-star-lord-gamora-drax",
+  "tags": [
+    "trejlery",
+    "guardians-of-the-galaxy",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

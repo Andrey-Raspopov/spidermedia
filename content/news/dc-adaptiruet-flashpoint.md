@@ -4,6 +4,11 @@
   "url": "/news/dc-adaptiruet-flashpoint/",
   "original_url": "http://spidermedia.ru/news/dc-adaptiruet-flashpoint",
   "archived": "https://web.archive.org/web/20250804010124/http://spidermedia.ru/news/dc-adaptiruet-flashpoint",
+  "tags": [
+    "the-flash",
+    "animaciya",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

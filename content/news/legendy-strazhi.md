@@ -4,6 +4,14 @@
   "url": "/news/legendy-strazhi/",
   "original_url": "http://spidermedia.ru/news/legendy-strazhi",
   "archived": "https://web.archive.org/web/20120607162011/http://spidermedia.ru/news/legendy-strazhi",
+  "tags": [
+    "archaia",
+    "david-petersen",
+    "diamond-summit-09",
+    "mouse-guard",
+    "devid-petersen",
+    "komiksy"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

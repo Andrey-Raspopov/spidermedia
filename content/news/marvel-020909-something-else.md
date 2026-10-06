@@ -4,6 +4,22 @@
   "url": "/news/marvel-020909-something-else/",
   "original_url": "http://spidermedia.ru/news/marvel-020909-something-else",
   "archived": "https://web.archive.org/web/20260215073714/http://spidermedia.ru/news/marvel-020909-something-else",
+  "tags": [
+    "preview",
+    "ultimate",
+    "reborn",
+    "old-man-logan",
+    "noir",
+    "marvel",
+    "luke-cage",
+    "iron-man",
+    "human-torch",
+    "house-of-m",
+    "prizrachnyj-gonshhik",
+    "captain-america",
+    "cable",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

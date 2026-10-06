@@ -4,6 +4,14 @@
   "url": "/movies/recut-the-snyder-cut/",
   "original_url": "https://spidermedia.ru/movies/recut-the-snyder-cut",
   "archived": "https://web.archive.org/web/20251117012101/https://spidermedia.ru/movies/recut-the-snyder-cut",
+  "tags": [
+    "dc-comics",
+    "batman",
+    "zak-snajder",
+    "imho",
+    "justice-league",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

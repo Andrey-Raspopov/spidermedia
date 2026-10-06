@@ -4,6 +4,11 @@
   "url": "/news/supertrash/",
   "original_url": "https://spidermedia.ru/news/supertrash",
   "archived": "https://web.archive.org/web/20251207002002/https://spidermedia.ru/news/supertrash",
+  "tags": [
+    "garth-ennis",
+    "stitched",
+    "avatar-press"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

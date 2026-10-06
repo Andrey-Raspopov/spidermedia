@@ -4,6 +4,13 @@
   "url": "/news/eshche-odna-istoriya-iz-adskoy-kuhni/",
   "original_url": "http://spidermedia.ru/news/eshche-odna-istoriya-iz-adskoy-kuhni",
   "archived": "https://web.archive.org/web/20200127064118/http://spidermedia.ru:80/news/eshche-odna-istoriya-iz-adskoy-kuhni",
+  "tags": [
+    "marvel",
+    "preview",
+    "art-0",
+    "daredevil",
+    "dardevil"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

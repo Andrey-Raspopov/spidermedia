@@ -4,6 +4,10 @@
   "url": "/tv/jessica-jones-tv-series-motion-poster-killgrave/",
   "original_url": "http://spidermedia.ru/tv/jessica-jones-tv-series-motion-poster-killgrave",
   "archived": "https://web.archive.org/web/20260116215727/http://spidermedia.ru/tv/jessica-jones-tv-series-motion-poster-killgrave",
+  "tags": [
+    "marvel",
+    "jessica-jones-alias"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

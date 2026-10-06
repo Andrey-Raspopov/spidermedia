@@ -4,6 +4,9 @@
   "url": "/blog/deadpoolic/unemployed-sidekick/",
   "original_url": "http://spidermedia.ru/blog/deadpoolic/unemployed-sidekick",
   "archived": "https://web.archive.org/web/20111018065017/http://spidermedia.ru/blog/deadpoolic/unemployed-sidekick",
+  "tags": [
+    "video-0"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/blog/el-qwanto/wathcmen-byut-vse-rekordy/",
   "original_url": "http://spidermedia.ru/blog/el-qwanto/wathcmen-byut-vse-rekordy",
   "archived": "https://web.archive.org/web/20120613055021/http://spidermedia.ru/blog/el-qwanto/wathcmen-byut-vse-rekordy",
+  "tags": [
+    "watchmen"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,16 @@
   "url": "/news/bogi-mutanty-i-ne-tolko/",
   "original_url": "http://spidermedia.ru/news/bogi-mutanty-i-ne-tolko",
   "archived": "https://web.archive.org/web/20170908231348/http://spidermedia.ru:80/news/bogi-mutanty-i-ne-tolko",
+  "tags": [
+    "prizrachnyj-gonshhik",
+    "daredevil",
+    "deadpool",
+    "serebryanyj-serfer",
+    "marvel",
+    "fantastic-four",
+    "thor",
+    "x-men"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/blog/vch/prevyu-igry-marvel-vs-capcom-3-fate-two-worlds/",
   "original_url": "http://spidermedia.ru/blog/vch/prevyu-igry-marvel-vs-capcom-3-fate-two-worlds",
   "archived": "https://web.archive.org/web/20260214133034/http://spidermedia.ru/blog/vch/prevyu-igry-marvel-vs-capcom-3-fate-two-worlds",
+  "tags": [
+    "igry",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

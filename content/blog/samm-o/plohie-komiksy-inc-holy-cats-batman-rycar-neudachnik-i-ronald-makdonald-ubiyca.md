@@ -4,6 +4,11 @@
   "url": "/blog/samm-o/plohie-komiksy-inc-holy-cats-batman-rycar-neudachnik-i-ronald-makdonald-ubiyca/",
   "original_url": "http://spidermedia.ru/blog/samm-o/plohie-komiksy-inc-holy-cats-batman-rycar-neudachnik-i-ronald-makdonald-ubiyca",
   "archived": "https://web.archive.org/web/20120610055407/http://spidermedia.ru/blog/samm-o/plohie-komiksy-inc-holy-cats-batman-rycar-neudachnik-i-ronald-makdonald-ubiyca",
+  "tags": [
+    "komiksy",
+    "mnenie",
+    "plohie-komiksy-inc"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

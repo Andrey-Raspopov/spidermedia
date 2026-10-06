@@ -4,6 +4,14 @@
   "url": "/news/robin-v-gorode-arkhema/",
   "original_url": "http://spidermedia.ru/news/robin-v-gorode-arkhema",
   "archived": "https://web.archive.org/web/20260307062823/http://spidermedia.ru/news/robin-v-gorode-arkhema",
+  "tags": [
+    "tim-drejk",
+    "robin",
+    "krasnyj-robin",
+    "igry",
+    "dc-comics",
+    "arkham-asylum"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/blog/igrok/pop-skulptura-vypusk-4/",
   "original_url": "http://spidermedia.ru/blog/igrok/pop-skulptura-vypusk-4",
   "archived": "https://web.archive.org/web/20251208075141/http://spidermedia.ru/blog/igrok/pop-skulptura-vypusk-4",
+  "tags": [
+    "figurki",
+    "pop-skulptura"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

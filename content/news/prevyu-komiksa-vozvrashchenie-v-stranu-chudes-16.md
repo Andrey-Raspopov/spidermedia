@@ -4,6 +4,11 @@
   "url": "/news/prevyu-komiksa-vozvrashchenie-v-stranu-chudes-16/",
   "original_url": "http://spidermedia.ru/news/prevyu-komiksa-vozvrashchenie-v-stranu-chudes-16",
   "archived": "https://web.archive.org/web/20190907233504/http://spidermedia.ru:80/news/prevyu-komiksa-vozvrashchenie-v-stranu-chudes-16",
+  "tags": [
+    "lavka-komiksov-apelsin",
+    "zenescope-entertainment",
+    "zarubezhnye-komiksy-na-russkom"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

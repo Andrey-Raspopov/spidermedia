@@ -4,6 +4,11 @@
   "url": "/news/morena-bakkarin-stanet-vozlyublennoy-dedpula/",
   "original_url": "http://spidermedia.ru/news/morena-bakkarin-stanet-vozlyublennoy-dedpula",
   "archived": "https://web.archive.org/web/20260124044326/http://spidermedia.ru/news/morena-bakkarin-stanet-vozlyublennoy-dedpula",
+  "tags": [
+    "marvel",
+    "kasting",
+    "deadpool"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

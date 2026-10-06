@@ -4,6 +4,11 @@
   "url": "/blog/qvall/log-0012-panel-slg/",
   "original_url": "https://spidermedia.ru/blog/qvall/log-0012-panel-slg",
   "archived": "https://web.archive.org/web/20240720072854/https://spidermedia.ru/blog/qvall/log-0012-panel-slg",
+  "tags": [
+    "novosti",
+    "wondercon",
+    "slg-publishing"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

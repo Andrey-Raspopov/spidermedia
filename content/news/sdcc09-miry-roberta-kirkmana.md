@@ -4,6 +4,11 @@
   "url": "/news/sdcc09-miry-roberta-kirkmana/",
   "original_url": "http://spidermedia.ru/news/sdcc09-miry-roberta-kirkmana",
   "archived": "https://web.archive.org/web/20161112213647/http://spidermedia.ru:80/news/sdcc09-miry-roberta-kirkmana",
+  "tags": [
+    "robert-kirkman",
+    "komik-kon-v-san-diego",
+    "image-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

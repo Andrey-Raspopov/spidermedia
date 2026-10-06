@@ -4,6 +4,11 @@
   "url": "/blog/ironman/hi-everyone/",
   "original_url": "https://spidermedia.ru/blog/ironman/hi-everyone",
   "archived": "https://web.archive.org/web/20250618124302/https://spidermedia.ru/blog/ironman/hi-everyone",
+  "tags": [
+    "iron-man",
+    "reportazh",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

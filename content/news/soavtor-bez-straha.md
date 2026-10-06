@@ -4,6 +4,16 @@
   "url": "/news/soavtor-bez-straha/",
   "original_url": "http://spidermedia.ru/news/soavtor-bez-straha",
   "archived": "https://web.archive.org/web/20251209144532/http://spidermedia.ru/news/soavtor-bez-straha",
+  "tags": [
+    "entoni-dzhonston",
+    "endi-diggl",
+    "paolo-rivera",
+    "marko-chekchetto",
+    "dardevil",
+    "art-0",
+    "marvel",
+    "daredevil"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

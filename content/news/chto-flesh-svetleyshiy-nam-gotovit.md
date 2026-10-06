@@ -4,6 +4,16 @@
   "url": "/news/chto-flesh-svetleyshiy-nam-gotovit/",
   "original_url": "https://spidermedia.ru/news/chto-flesh-svetleyshiy-nam-gotovit",
   "archived": "https://web.archive.org/web/20250807225640/https://spidermedia.ru/news/chto-flesh-svetleyshiy-nam-gotovit",
+  "tags": [
+    "frensis-manapul",
+    "skott-kolins",
+    "svetlejshij-den",
+    "negodyai",
+    "rogues",
+    "the-flash",
+    "dc-comics",
+    "geoff-johns"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

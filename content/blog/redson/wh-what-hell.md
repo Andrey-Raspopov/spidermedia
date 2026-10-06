@@ -4,6 +4,11 @@
   "url": "/blog/redson/wh-what-hell/",
   "original_url": "http://spidermedia.ru/blog/redson/wh-what-hell",
   "archived": "https://web.archive.org/web/20251111083522/http://spidermedia.ru/blog/redson/wh-what-hell",
+  "tags": [
+    "manga",
+    "dzheyson-aaron",
+    "nsfw"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

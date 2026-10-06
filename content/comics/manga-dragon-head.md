@@ -4,6 +4,9 @@
   "url": "/comics/manga-dragon-head/",
   "original_url": "http://spidermedia.ru/comics/manga-dragon-head",
   "archived": "https://web.archive.org/web/20260116204349/http://spidermedia.ru/comics/manga-dragon-head",
+  "tags": [
+    "manga"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

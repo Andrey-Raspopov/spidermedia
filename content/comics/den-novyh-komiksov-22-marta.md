@@ -4,6 +4,9 @@
   "url": "/comics/den-novyh-komiksov-22-marta/",
   "original_url": "http://spidermedia.ru/comics/den-novyh-komiksov-22-marta",
   "archived": "https://web.archive.org/web/20190915014318/http://spidermedia.ru:80/comics/den-novyh-komiksov-22-marta",
+  "tags": [
+    "den-novyh-komiksov"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

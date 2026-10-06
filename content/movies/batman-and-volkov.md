@@ -4,6 +4,9 @@
   "url": "/movies/batman-and-volkov/",
   "original_url": "https://spidermedia.ru/movies/batman-and-volkov",
   "archived": "https://web.archive.org/web/20251108040623/https://spidermedia.ru/movies/batman-and-volkov",
+  "tags": [
+    "batman-and-robin-day"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

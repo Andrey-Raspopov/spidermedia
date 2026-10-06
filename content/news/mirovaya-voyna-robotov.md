@@ -4,6 +4,12 @@
   "url": "/news/mirovaya-voyna-robotov/",
   "original_url": "http://spidermedia.ru/news/mirovaya-voyna-robotov",
   "archived": "https://web.archive.org/web/20260125064656/http://spidermedia.ru/news/mirovaya-voyna-robotov",
+  "tags": [
+    "eshli-vud",
+    "robots",
+    "idw-publishing",
+    "ashley-wood"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

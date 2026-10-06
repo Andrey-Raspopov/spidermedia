@@ -4,6 +4,11 @@
   "url": "/blog/alex/v-visitors/",
   "original_url": "https://spidermedia.ru/blog/alex/v-visitors",
   "archived": "https://web.archive.org/web/20260305234010/https://spidermedia.ru/blog/alex/v-visitors",
+  "tags": [
+    "v-for-vendetta",
+    "v",
+    "v-znachit-vendetta"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/comics/green-lantern-earth-one/",
   "original_url": "https://spidermedia.ru/comics/green-lantern-earth-one",
   "archived": "https://web.archive.org/web/20251206025902/https://spidermedia.ru/comics/green-lantern-earth-one",
+  "tags": [
+    "dc-comics",
+    "green-lantern"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/news/posledniy-koncert-skotta-piligrima/",
   "original_url": "http://spidermedia.ru/news/posledniy-koncert-skotta-piligrima",
   "archived": "https://web.archive.org/web/20190924022614/http://spidermedia.ru:80/news/posledniy-koncert-skotta-piligrima",
+  "tags": [
+    "scott-pilgrim",
+    "bryan-lee-o-malley",
+    "oni-press"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

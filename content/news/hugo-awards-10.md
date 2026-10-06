@@ -4,6 +4,20 @@
   "url": "/news/hugo-awards-10/",
   "original_url": "https://spidermedia.ru/news/hugo-awards-10",
   "archived": "https://web.archive.org/web/20260206214524/https://spidermedia.ru/news/hugo-awards-10",
+  "tags": [
+    "endi-kubert",
+    "pol-kornell",
+    "neil-gaiman",
+    "nagrady",
+    "bill-uillingem",
+    "whatever-happened",
+    "vertigo",
+    "marvel",
+    "hugo-awards",
+    "fables",
+    "dc-comics",
+    "captain-britain"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

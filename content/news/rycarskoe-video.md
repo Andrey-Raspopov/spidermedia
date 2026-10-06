@@ -4,6 +4,11 @@
   "url": "/news/rycarskoe-video/",
   "original_url": "https://spidermedia.ru/news/rycarskoe-video",
   "archived": "https://web.archive.org/web/20260307055810/https://spidermedia.ru/news/rycarskoe-video",
+  "tags": [
+    "temnyj-rycar",
+    "dark-knight-rises",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

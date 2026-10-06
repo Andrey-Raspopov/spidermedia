@@ -4,6 +4,14 @@
   "url": "/news/fantasticheskaya-nadezhda-chelovechestva/",
   "original_url": "http://spidermedia.ru/news/fantasticheskaya-nadezhda-chelovechestva",
   "archived": "https://web.archive.org/web/20260116220845/http://spidermedia.ru/news/fantasticheskaya-nadezhda-chelovechestva",
+  "tags": [
+    "stiv-epting",
+    "organizaciya-budushhego",
+    "dzhonatan-hikman",
+    "daniel-akunya",
+    "art-0",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

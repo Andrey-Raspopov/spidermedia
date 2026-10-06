@@ -4,6 +4,11 @@
   "url": "/blog/sterpazook/kung-fu-kiborg-tehnologii-protiv-tradiciy/",
   "original_url": "https://spidermedia.ru/blog/sterpazook/kung-fu-kiborg-tehnologii-protiv-tradiciy",
   "archived": "https://web.archive.org/web/20240718172919/https://spidermedia.ru/blog/sterpazook/kung-fu-kiborg-tehnologii-protiv-tradiciy",
+  "tags": [
+    "trejlery",
+    "kung-fu",
+    "cyborg"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

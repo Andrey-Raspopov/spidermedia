@@ -4,6 +4,12 @@
   "url": "/news/agent-karter-mozhet-vernutsya/",
   "original_url": "https://spidermedia.ru/news/agent-karter-mozhet-vernutsya",
   "archived": "https://web.archive.org/web/20260125112614/https://spidermedia.ru/news/agent-karter-mozhet-vernutsya",
+  "tags": [
+    "serialy",
+    "marvel",
+    "agent-karter",
+    "fantastic-four"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

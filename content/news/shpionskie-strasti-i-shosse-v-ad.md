@@ -4,6 +4,14 @@
   "url": "/news/shpionskie-strasti-i-shosse-v-ad/",
   "original_url": "https://spidermedia.ru/news/shpionskie-strasti-i-shosse-v-ad",
   "archived": "https://web.archive.org/web/20210119173510/https://spidermedia.ru/news/shpionskie-strasti-i-shosse-v-ad",
+  "tags": [
+    "roman-rosanas",
+    "roberto-agirre-sakasa",
+    "piter-nguen",
+    "peter-milligan",
+    "marvel",
+    "crossgen"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

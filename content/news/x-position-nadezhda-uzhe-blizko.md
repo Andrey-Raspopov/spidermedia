@@ -4,6 +4,17 @@
   "url": "/news/x-position-nadezhda-uzhe-blizko/",
   "original_url": "http://spidermedia.ru/news/x-position-nadezhda-uzhe-blizko",
   "archived": "https://web.archive.org/web/20251207093555/http://spidermedia.ru/news/x-position-nadezhda-uzhe-blizko",
+  "tags": [
+    "nik-lou",
+    "duejn-sverchinski",
+    "x-men",
+    "nick-lowe",
+    "marvel",
+    "hope",
+    "duane-swierczynski",
+    "cable",
+    "nation-x"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

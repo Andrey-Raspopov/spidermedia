@@ -4,6 +4,13 @@
   "url": "/news/logan-logan/",
   "original_url": "https://spidermedia.ru/news/logan-logan",
   "archived": "https://web.archive.org/web/20240419093240/https://spidermedia.ru/news/logan-logan",
+  "tags": [
+    "marvel",
+    "wolverine",
+    "noirverse",
+    "styuart-mur",
+    "si-pi-smit"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

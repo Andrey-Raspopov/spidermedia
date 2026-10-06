@@ -4,6 +4,11 @@
   "url": "/blog/derden/mastrid-mangi-ot-derdena-6-uncivilized-planet-dziro-macumoto-0/",
   "original_url": "http://spidermedia.ru/blog/derden/mastrid-mangi-ot-derdena-6-uncivilized-planet-dziro-macumoto-0",
   "archived": "https://web.archive.org/web/20250620070629/http://spidermedia.ru/blog/derden/mastrid-mangi-ot-derdena-6-uncivilized-planet-dziro-macumoto-0",
+  "tags": [
+    "matsumoto-jiro",
+    "dziro-macumoto",
+    "manga"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

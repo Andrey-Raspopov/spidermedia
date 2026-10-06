@@ -4,6 +4,15 @@
   "url": "/articles/lyucifer/",
   "original_url": "http://spidermedia.ru/articles/lyucifer",
   "archived": "https://web.archive.org/web/20260209105432/http://spidermedia.ru/articles/lyucifer",
+  "tags": [
+    "eksmo",
+    "recenziya",
+    "neil-gaiman",
+    "lyucifer",
+    "zarubezhnye-komiksy-na-russkom",
+    "vertigo",
+    "komiks-art"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

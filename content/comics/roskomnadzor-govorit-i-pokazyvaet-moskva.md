@@ -4,6 +4,11 @@
   "url": "/comics/roskomnadzor-govorit-i-pokazyvaet-moskva/",
   "original_url": "http://spidermedia.ru/comics/roskomnadzor-govorit-i-pokazyvaet-moskva",
   "archived": "https://web.archive.org/web/20260125112202/http://spidermedia.ru/comics/roskomnadzor-govorit-i-pokazyvaet-moskva",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "roskomnadzor",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

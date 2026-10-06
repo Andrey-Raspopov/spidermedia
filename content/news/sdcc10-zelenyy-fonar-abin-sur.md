@@ -4,6 +4,13 @@
   "url": "/news/sdcc10-zelenyy-fonar-abin-sur/",
   "original_url": "http://spidermedia.ru/news/sdcc10-zelenyy-fonar-abin-sur",
   "archived": "https://web.archive.org/web/20120718220021/http://spidermedia.ru/news/sdcc10-zelenyy-fonar-abin-sur",
+  "tags": [
+    "green-lantern",
+    "sdcc-2010",
+    "zelenyy-fonar",
+    "kino",
+    "komik-kon-v-san-diego"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

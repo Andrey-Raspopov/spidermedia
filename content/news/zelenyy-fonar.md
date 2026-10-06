@@ -4,6 +4,12 @@
   "url": "/news/zelenyy-fonar/",
   "original_url": "http://spidermedia.ru/news/zelenyy-fonar",
   "archived": "https://web.archive.org/web/20260125120332/http://spidermedia.ru/news/zelenyy-fonar",
+  "tags": [
+    "dc-comics",
+    "green-lantern",
+    "hal-jordan",
+    "hel-dzhordan"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

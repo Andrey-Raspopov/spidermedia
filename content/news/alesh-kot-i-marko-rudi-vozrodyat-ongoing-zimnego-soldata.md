@@ -4,6 +4,12 @@
   "url": "/news/alesh-kot-i-marko-rudi-vozrodyat-ongoing-zimnego-soldata/",
   "original_url": "http://spidermedia.ru/news/alesh-kot-i-marko-rudi-vozrodyat-ongoing-zimnego-soldata",
   "archived": "https://web.archive.org/web/20190917002605/http://spidermedia.ru:80/news/alesh-kot-i-marko-rudi-vozrodyat-ongoing-zimnego-soldata",
+  "tags": [
+    "marko-rudi",
+    "marvel",
+    "winter-soldier",
+    "ales-kot"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

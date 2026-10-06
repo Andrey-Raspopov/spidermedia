@@ -4,6 +4,16 @@
   "url": "/news/i-prishel-romita/",
   "original_url": "https://spidermedia.ru/news/i-prishel-romita",
   "archived": "https://web.archive.org/web/20260211094243/https://spidermedia.ru/news/i-prishel-romita",
+  "tags": [
+    "era-geroev",
+    "preview",
+    "dzhon-romita-ml",
+    "brian-michael-bendis",
+    "art-0",
+    "marvel",
+    "heroic-age",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

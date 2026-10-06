@@ -4,6 +4,12 @@
   "url": "/blog/el-qwanto/not-sparta/",
   "original_url": "https://spidermedia.ru/blog/el-qwanto/not-sparta",
   "archived": "https://web.archive.org/web/20260120164732/https://spidermedia.ru/blog/el-qwanto/not-sparta",
+  "tags": [
+    "dc-comics",
+    "yumor",
+    "greg-rakka",
+    "emerald-city-comicon"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

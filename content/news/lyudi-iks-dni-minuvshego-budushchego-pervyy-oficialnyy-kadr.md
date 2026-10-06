@@ -4,6 +4,12 @@
   "url": "/news/lyudi-iks-dni-minuvshego-budushchego-pervyy-oficialnyy-kadr/",
   "original_url": "http://spidermedia.ru/news/lyudi-iks-dni-minuvshego-budushchego-pervyy-oficialnyy-kadr",
   "archived": "https://web.archive.org/web/20260309003540/http://spidermedia.ru/news/lyudi-iks-dni-minuvshego-budushchego-pervyy-oficialnyy-kadr",
+  "tags": [
+    "wolverine",
+    "x-men",
+    "zver",
+    "days-of-future-past"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

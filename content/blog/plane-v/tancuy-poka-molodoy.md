@@ -4,6 +4,11 @@
   "url": "/blog/plane-v/tancuy-poka-molodoy/",
   "original_url": "https://spidermedia.ru/blog/plane-v/tancuy-poka-molodoy",
   "archived": "https://web.archive.org/web/20260313105250/https://spidermedia.ru/blog/plane-v/tancuy-poka-molodoy",
+  "tags": [
+    "manga",
+    "avtory",
+    "kazuo-umezu"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/blog/redson/prona-post/",
   "original_url": "http://spidermedia.ru/blog/redson/prona-post",
   "archived": "https://web.archive.org/web/20120611012109/http://spidermedia.ru/blog/redson/prona-post",
+  "tags": [
+    "bred",
+    "komiksy"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

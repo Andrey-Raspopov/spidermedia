@@ -4,6 +4,12 @@
   "url": "/news/peace-was-never-option/",
   "original_url": "http://spidermedia.ru/news/peace-was-never-option",
   "archived": "https://web.archive.org/web/20250909124431/http://spidermedia.ru/news/peace-was-never-option",
+  "tags": [
+    "magneto",
+    "kallen-bann",
+    "gabriel-ernandes-valta",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

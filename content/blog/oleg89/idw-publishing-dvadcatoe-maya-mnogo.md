@@ -4,6 +4,9 @@
   "url": "/blog/oleg89/idw-publishing-dvadcatoe-maya-mnogo/",
   "original_url": "http://spidermedia.ru/blog/oleg89/idw-publishing-dvadcatoe-maya-mnogo",
   "archived": "https://web.archive.org/web/20260121013252/http://spidermedia.ru/blog/oleg89/idw-publishing-dvadcatoe-maya-mnogo",
+  "tags": [
+    "idw-publishing"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

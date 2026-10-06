@@ -4,6 +4,13 @@
   "url": "/news/zhenshchina-pauk-uzhe-blizko/",
   "original_url": "http://spidermedia.ru/news/zhenshchina-pauk-uzhe-blizko",
   "archived": "https://web.archive.org/web/20190924060858/http://spidermedia.ru:80/news/zhenshchina-pauk-uzhe-blizko",
+  "tags": [
+    "brian-michael-bendis",
+    "art-0",
+    "alex-maleev",
+    "spider-woman",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

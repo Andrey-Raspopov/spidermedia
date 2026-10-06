@@ -4,6 +4,11 @@
   "url": "/comics/roskomnadzor-syurpriz/",
   "original_url": "https://spidermedia.ru/comics/roskomnadzor-syurpriz",
   "archived": "https://web.archive.org/web/20260125083844/https://spidermedia.ru/comics/roskomnadzor-syurpriz",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "roskomnadzor",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

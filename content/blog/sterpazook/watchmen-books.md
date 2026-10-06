@@ -4,6 +4,20 @@
   "url": "/blog/sterpazook/watchmen-books/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/watchmen-books",
   "archived": "https://web.archive.org/web/20260208200413/http://spidermedia.ru/blog/sterpazook/watchmen-books",
+  "tags": [
+    "hraniteli",
+    "rorschach",
+    "nite-owl",
+    "silk-spectre",
+    "doktor-manhetten",
+    "ozimandias",
+    "rorshah",
+    "art-0",
+    "nochnoj-filin",
+    "dr.-manhattan",
+    "knigi",
+    "shelkovyj-prizrak"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

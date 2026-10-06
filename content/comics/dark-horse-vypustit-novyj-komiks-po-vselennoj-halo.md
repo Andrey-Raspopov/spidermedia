@@ -4,6 +4,9 @@
   "url": "/comics/dark-horse-vypustit-novyj-komiks-po-vselennoj-halo/",
   "original_url": "https://spidermedia.ru/comics/dark-horse-vypustit-novyj-komiks-po-vselennoj-halo",
   "archived": "https://web.archive.org/web/20240913061439/https://spidermedia.ru/comics/dark-horse-vypustit-novyj-komiks-po-vselennoj-halo",
+  "tags": [
+    "dark-horse"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/news/preacher-novosti-ekranizacii/",
   "original_url": "http://spidermedia.ru/news/preacher-novosti-ekranizacii",
   "archived": "https://web.archive.org/web/20251014032534/http://spidermedia.ru/news/preacher-novosti-ekranizacii",
+  "tags": [
+    "vertigo",
+    "preacher",
+    "garth-ennis",
+    "steve-dillon"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

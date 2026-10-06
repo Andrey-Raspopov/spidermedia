@@ -4,6 +4,18 @@
   "url": "/blog/oleg89/star-trek-doctor-who-and-stuff-yanvar-mart-2010/",
   "original_url": "https://spidermedia.ru/blog/oleg89/star-trek-doctor-who-and-stuff-yanvar-mart-2010",
   "archived": "https://web.archive.org/web/20260206214633/https://spidermedia.ru/blog/oleg89/star-trek-doctor-who-and-stuff-yanvar-mart-2010",
+  "tags": [
+    "robocop",
+    "idw-publishing",
+    "dynamite-entertainment",
+    "dark-horse",
+    "angel",
+    "doctor-who",
+    "zvezdnye-vojny",
+    "zvezdnyj-put",
+    "ghostbusters",
+    "terminator"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

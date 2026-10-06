@@ -4,6 +4,11 @@
   "url": "/news/neulovimyy-mstitel/",
   "original_url": "http://spidermedia.ru/news/neulovimyy-mstitel",
   "archived": "https://web.archive.org/web/20250524053318/http://spidermedia.ru/news/neulovimyy-mstitel",
+  "tags": [
+    "avengers",
+    "marvel",
+    "x-men"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,18 @@
   "url": "/news/bardak-v-chaynataune/",
   "original_url": "http://spidermedia.ru/news/bardak-v-chaynataune",
   "archived": "https://web.archive.org/web/20200216194937/http://spidermedia.ru:80/news/bardak-v-chaynataune",
+  "tags": [
+    "fred-van-lente",
+    "mister-negativ",
+    "kapyushon",
+    "dzhey-li",
+    "dzhanluka-gulotta",
+    "art-0",
+    "mr.-negative",
+    "marvel",
+    "hood",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

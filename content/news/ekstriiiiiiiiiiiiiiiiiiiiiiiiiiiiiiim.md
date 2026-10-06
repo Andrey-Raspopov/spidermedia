@@ -4,6 +4,17 @@
   "url": "/news/ekstriiiiiiiiiiiiiiiiiiiiiiiiiiiiiiim/",
   "original_url": "http://spidermedia.ru/news/ekstriiiiiiiiiiiiiiiiiiiiiiiiiiiiiiim",
   "archived": "https://web.archive.org/web/20251206031527/http://spidermedia.ru/news/ekstriiiiiiiiiiiiiiiiiiiiiiiiiiiiiiim",
+  "tags": [
+    "rob-lajfeld",
+    "image-comics",
+    "youngblood",
+    "alan-mur",
+    "supreme",
+    "tim-sili",
+    "komik-kon-v-nyu-jorke",
+    "nycc-2011",
+    "brendon-grem"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

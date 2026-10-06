@@ -4,6 +4,11 @@
   "url": "/news/recenziya-na-film-novyy-chelovek-pauk/",
   "original_url": "https://spidermedia.ru/news/recenziya-na-film-novyy-chelovek-pauk",
   "archived": "https://web.archive.org/web/20260309003427/https://spidermedia.ru/news/recenziya-na-film-novyy-chelovek-pauk",
+  "tags": [
+    "recenziya",
+    "mnenie",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

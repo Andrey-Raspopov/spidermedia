@@ -4,6 +4,14 @@
   "url": "/news/intervyu-so-scenaristami-filma-tor/",
   "original_url": "http://spidermedia.ru/news/intervyu-so-scenaristami-filma-tor",
   "archived": "https://web.archive.org/web/20120608205937/http://spidermedia.ru/news/intervyu-so-scenaristami-filma-tor",
+  "tags": [
+    "thor",
+    "video",
+    "kino",
+    "komiksy",
+    "marvel",
+    "tor"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

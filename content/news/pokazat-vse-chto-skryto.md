@@ -4,6 +4,9 @@
   "url": "/news/pokazat-vse-chto-skryto/",
   "original_url": "http://spidermedia.ru/news/pokazat-vse-chto-skryto",
   "archived": "https://web.archive.org/web/20260125131903/http://spidermedia.ru/news/pokazat-vse-chto-skryto",
+  "tags": [
+    "idw-publishing"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/movies/foto-so-semok-filma-zvezdnye-vojny-probuzhdenie-sily/",
   "original_url": "https://spidermedia.ru/movies/foto-so-semok-filma-zvezdnye-vojny-probuzhdenie-sily",
   "archived": "https://web.archive.org/web/20260312010423/https://spidermedia.ru/movies/foto-so-semok-filma-zvezdnye-vojny-probuzhdenie-sily",
+  "tags": [
+    "zvezdnye-vojny"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,13 @@
   "url": "/blog/ghost-knight/pervoe-prevyu-cry-justice/",
   "original_url": "https://spidermedia.ru/blog/ghost-knight/pervoe-prevyu-cry-justice",
   "archived": "https://web.archive.org/web/20251107035142/https://spidermedia.ru/blog/ghost-knight/pervoe-prevyu-cry-justice",
+  "tags": [
+    "dc-comics",
+    "art-0",
+    "dzhejms-robinson",
+    "james-robinson",
+    "justice-league"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

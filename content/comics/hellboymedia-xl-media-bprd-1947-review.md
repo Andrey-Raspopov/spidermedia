@@ -4,6 +4,11 @@
   "url": "/comics/hellboymedia-xl-media-bprd-1947-review/",
   "original_url": "http://spidermedia.ru/comics/hellboymedia-xl-media-bprd-1947-review",
   "archived": "https://web.archive.org/web/20251216115008/http://spidermedia.ru/comics/hellboymedia-xl-media-bprd-1947-review",
+  "tags": [
+    "hellboymedia",
+    "obzor",
+    "zarubezhnye-komiksy-na-russkom"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

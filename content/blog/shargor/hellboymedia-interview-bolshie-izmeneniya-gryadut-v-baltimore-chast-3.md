@@ -4,6 +4,10 @@
   "url": "/blog/shargor/hellboymedia-interview-bolshie-izmeneniya-gryadut-v-baltimore-chast-3/",
   "original_url": "https://spidermedia.ru/blog/shargor/hellboymedia-interview-bolshie-izmeneniya-gryadut-v-baltimore-chast-3",
   "archived": "https://web.archive.org/web/20251209132352/https://spidermedia.ru/blog/shargor/hellboymedia-interview-bolshie-izmeneniya-gryadut-v-baltimore-chast-3",
+  "tags": [
+    "intervyu",
+    "hellboymedia"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

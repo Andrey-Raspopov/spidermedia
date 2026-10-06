@@ -4,6 +4,10 @@
   "url": "/comics/dc-rebirth-lois-lejn-superzhenshhina/",
   "original_url": "http://spidermedia.ru/comics/dc-rebirth-lois-lejn-superzhenshhina",
   "archived": "https://web.archive.org/web/20250913004458/http://spidermedia.ru/comics/dc-rebirth-lois-lejn-superzhenshhina",
+  "tags": [
+    "dc-comics",
+    "superwoman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

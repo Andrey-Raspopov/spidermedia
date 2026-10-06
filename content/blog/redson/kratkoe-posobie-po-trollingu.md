@@ -4,6 +4,10 @@
   "url": "/blog/redson/kratkoe-posobie-po-trollingu/",
   "original_url": "http://spidermedia.ru/blog/redson/kratkoe-posobie-po-trollingu",
   "archived": "https://web.archive.org/web/20190915022054/http://spidermedia.ru:80/blog/redson/kratkoe-posobie-po-trollingu",
+  "tags": [
+    "trolling",
+    "someone-is-wrong-on-the-internet"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

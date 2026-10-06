@@ -4,6 +4,18 @@
   "url": "/news/vopros-i-eshche-odin-komiks-v-sredu/",
   "original_url": "https://spidermedia.ru/news/vopros-i-eshche-odin-komiks-v-sredu",
   "archived": "https://web.archive.org/web/20251206161526/https://spidermedia.ru/news/vopros-i-eshche-odin-komiks-v-sredu",
+  "tags": [
+    "dc-comics",
+    "batman",
+    "neil-gaiman",
+    "brian-azzarello",
+    "li-bermeho",
+    "superman",
+    "dejv-gibbons",
+    "lee-bermejo",
+    "dave-gibbons",
+    "wednesday-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

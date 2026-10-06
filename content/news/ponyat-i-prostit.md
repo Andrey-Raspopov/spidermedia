@@ -4,6 +4,11 @@
   "url": "/news/ponyat-i-prostit/",
   "original_url": "http://spidermedia.ru/news/ponyat-i-prostit",
   "archived": "https://web.archive.org/web/20241205105233/http://spidermedia.ru/news/ponyat-i-prostit",
+  "tags": [
+    "vampiry",
+    "art-0",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

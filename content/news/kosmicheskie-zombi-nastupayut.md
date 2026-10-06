@@ -4,6 +4,18 @@
   "url": "/news/kosmicheskie-zombi-nastupayut/",
   "original_url": "http://spidermedia.ru/news/kosmicheskie-zombi-nastupayut",
   "archived": "https://web.archive.org/web/20260309185501/http://spidermedia.ru/news/kosmicheskie-zombi-nastupayut",
+  "tags": [
+    "dc-comics",
+    "batman",
+    "blackest-night",
+    "ajvan-rejs",
+    "superman",
+    "temnejshaya-noch",
+    "adam-kubert",
+    "ivan-reis",
+    "shejn-devis",
+    "shane-davis"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

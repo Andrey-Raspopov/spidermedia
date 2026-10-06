@@ -4,13 +4,16 @@
   "url": "/comics/all-things-valiant-week-31/",
   "original_url": "http://spidermedia.ru/comics/all-things-valiant-week-31",
   "archived": "https://web.archive.org/web/20260309181048/http://spidermedia.ru/comics/all-things-valiant-week-31",
+  "tags": [
+    "valiant-entertainment"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
 [![](http://spidermedia.ru/assets/cache/preview/100435/valiant/all-things-valiant-08-week-31/622x415-all-things-valiant-08-cover-horizontal.b08.jpg)](http://spidermedia.ru/assets/images/valiant/all-things-valiant-08-week-31/all-things-valiant-08-cover-horizontal.jpg)
 
-[Антураж](../../movies/entourage-review/) Spidermedia изменился, теперь это не только сайт о комиксах, но и о [смежных медиа](https://web.archive.org/web/20260214142139/https://spidermedia.ru/tags/gamermedia). Как [пленительных](../../games/protomen-saga/), так и [отталкивающих](../eti-strannye-yaponcy-2-krovavye-hroniki-kago-sintaro/). И, конечно, отважных! Кто-то храбро [спорит об основах обзора манги](https://web.archive.org/web/20260213064339id_/https://spidermedia.ru/comics/obzory-mangi-d.gray-man-hosino-kacura), в комментариях на отличный обзор чудесной манги. А другие доблестно ведут ликбез о [забытых фантастических сериалах](../../tv/forgotten-sci-fi/). В конце концов, не одними комиксами едины!
+[Антураж](../../movies/entourage-review/) Spidermedia изменился, теперь это не только сайт о комиксах, но и о [смежных медиа](../../tags/gamermedia/). Как [пленительных](../../games/protomen-saga/), так и [отталкивающих](../eti-strannye-yaponcy-2-krovavye-hroniki-kago-sintaro/). И, конечно, отважных! Кто-то храбро [спорит об основах обзора манги](https://web.archive.org/web/20260213064339id_/https://spidermedia.ru/comics/obzory-mangi-d.gray-man-hosino-kacura), в комментариях на отличный обзор чудесной манги. А другие доблестно ведут ликбез о [забытых фантастических сериалах](../../tv/forgotten-sci-fi/). В конце концов, не одними комиксами едины!
 
 **[Новости](./#news) **•** [Рецензии](./#reviews)**
 

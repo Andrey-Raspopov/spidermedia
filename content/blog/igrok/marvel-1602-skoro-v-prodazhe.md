@@ -4,6 +4,12 @@
   "url": "/blog/igrok/marvel-1602-skoro-v-prodazhe/",
   "original_url": "http://spidermedia.ru/blog/igrok/marvel-1602-skoro-v-prodazhe",
   "archived": "https://web.archive.org/web/20260214135139/http://spidermedia.ru/blog/igrok/marvel-1602-skoro-v-prodazhe",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "neil-gaiman",
+    "izdatelstvo-komiks",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

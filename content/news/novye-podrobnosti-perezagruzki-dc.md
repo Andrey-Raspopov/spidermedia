@@ -4,6 +4,18 @@
   "url": "/news/novye-podrobnosti-perezagruzki-dc/",
   "original_url": "http://spidermedia.ru/news/novye-podrobnosti-perezagruzki-dc",
   "archived": "https://web.archive.org/web/20260115054301/http://spidermedia.ru/news/novye-podrobnosti-perezagruzki-dc",
+  "tags": [
+    "wonder-woman",
+    "houkmen",
+    "fajrshtorm",
+    "mister-potryasayushhij",
+    "kapitan-atom",
+    "aquaman",
+    "the-flash",
+    "dc-comics",
+    "green-arrow",
+    "justice-league"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

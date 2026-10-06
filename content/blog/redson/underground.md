@@ -4,6 +4,14 @@
   "url": "/blog/redson/underground/",
   "original_url": "https://spidermedia.ru/blog/redson/underground",
   "archived": "https://web.archive.org/web/20251206143519/https://spidermedia.ru/blog/redson/underground",
+  "tags": [
+    "dzheff-parker",
+    "image-comics",
+    "jeff-parker",
+    "mnenie",
+    "stiv-liber",
+    "steve-lieber"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

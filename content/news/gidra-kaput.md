@@ -4,6 +4,19 @@
   "url": "/news/gidra-kaput/",
   "original_url": "http://spidermedia.ru/news/gidra-kaput",
   "archived": "https://web.archive.org/web/20190811011844/http://spidermedia.ru:80/news/gidra-kaput",
+  "tags": [
+    "fil-vinslejd",
+    "tom-sajoli",
+    "stiv-rodzhers",
+    "serdzhio-kariello",
+    "kajl-hotc",
+    "dzhonatan-mejberri",
+    "gidra",
+    "steve-rogers",
+    "marvel",
+    "hydra",
+    "captain-america"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

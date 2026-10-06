@@ -4,6 +4,10 @@
   "url": "/comics/klaus-by-grant-morrison/",
   "original_url": "http://spidermedia.ru/comics/klaus-by-grant-morrison",
   "archived": "https://web.archive.org/web/20260125063426/http://spidermedia.ru/comics/klaus-by-grant-morrison",
+  "tags": [
+    "boom-studios",
+    "grant-morrison"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

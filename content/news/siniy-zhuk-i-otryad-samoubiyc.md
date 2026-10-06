@@ -4,6 +4,15 @@
   "url": "/news/siniy-zhuk-i-otryad-samoubiyc/",
   "original_url": "http://spidermedia.ru/news/siniy-zhuk-i-otryad-samoubiyc",
   "archived": "https://web.archive.org/web/20241113214536/http://spidermedia.ru/news/siniy-zhuk-i-otryad-samoubiyc",
+  "tags": [
+    "toni-bedard",
+    "marko-rudi",
+    "ig-guara",
+    "adam-glass",
+    "dc-comics",
+    "blue-beetle",
+    "suicide-squad"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

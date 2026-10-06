@@ -4,6 +4,10 @@
   "url": "/comics/frank-miller-dark-knight-3-retail-cover/",
   "original_url": "https://spidermedia.ru/comics/frank-miller-dark-knight-3-retail-cover",
   "archived": "https://web.archive.org/web/20251207010315/https://spidermedia.ru/comics/frank-miller-dark-knight-3-retail-cover",
+  "tags": [
+    "dc-comics",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

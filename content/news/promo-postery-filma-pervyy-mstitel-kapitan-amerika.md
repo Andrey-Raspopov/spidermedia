@@ -4,6 +4,11 @@
   "url": "/news/promo-postery-filma-pervyy-mstitel-kapitan-amerika/",
   "original_url": "https://spidermedia.ru/news/promo-postery-filma-pervyy-mstitel-kapitan-amerika",
   "archived": "https://web.archive.org/web/20240714170150/https://spidermedia.ru/news/promo-postery-filma-pervyy-mstitel-kapitan-amerika",
+  "tags": [
+    "postery",
+    "marvel",
+    "captain-america"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

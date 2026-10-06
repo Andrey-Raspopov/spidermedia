@@ -4,6 +4,10 @@
   "url": "/blog/redson/vyigray-bilet-na-comic-con-russia/",
   "original_url": "http://spidermedia.ru/blog/redson/vyigray-bilet-na-comic-con-russia",
   "archived": "https://web.archive.org/web/20260215081832/http://spidermedia.ru/blog/redson/vyigray-bilet-na-comic-con-russia",
+  "tags": [
+    "konkurs",
+    "comic-con-russia"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

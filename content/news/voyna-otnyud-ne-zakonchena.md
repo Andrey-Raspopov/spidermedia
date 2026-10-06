@@ -4,6 +4,12 @@
   "url": "/news/voyna-otnyud-ne-zakonchena/",
   "original_url": "http://spidermedia.ru/news/voyna-otnyud-ne-zakonchena",
   "archived": "https://web.archive.org/web/20250909135355/http://spidermedia.ru/news/voyna-otnyud-ne-zakonchena",
+  "tags": [
+    "robert-kirkman",
+    "ryan-ottley",
+    "invincible",
+    "image-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

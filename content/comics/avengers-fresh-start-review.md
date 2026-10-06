@@ -4,6 +4,12 @@
   "url": "/comics/avengers-fresh-start-review/",
   "original_url": "http://spidermedia.ru/comics/avengers-fresh-start-review",
   "archived": "https://web.archive.org/web/20250715221328/http://spidermedia.ru/comics/avengers-fresh-start-review",
+  "tags": [
+    "marvel",
+    "dzheyson-aaron",
+    "avengers",
+    "ed-makginness"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

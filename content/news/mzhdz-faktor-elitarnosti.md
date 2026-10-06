@@ -4,11 +4,15 @@
   "url": "/news/mzhdz-faktor-elitarnosti/",
   "original_url": "http://spidermedia.ru/news/mzhdz-faktor-elitarnosti",
   "archived": "https://web.archive.org/web/20251107174016/http://spidermedia.ru/news/mzhdz-faktor-elitarnosti",
+  "tags": [
+    "mnenie",
+    "mzhdz"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](https://web.archive.org/web/20251107174016im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz.png)](https://web.archive.org/web/20260206215846/http://spidermedia.ru/tags/mzhdz)
+[![](https://web.archive.org/web/20251107174016im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz.png)](../../tags/mzhdz/)
 [![](https://web.archive.org/web/20251107174016im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/pants-1.jpg)](http://www.threewordphrase.com/)
 [Хорошее место в Интернете](http://www.threewordphrase.com/)
 **Еженедельные обзоры новых комиксов!**

@@ -4,6 +4,9 @@
   "url": "/comics/den-novyh-komiksov-10-maya/",
   "original_url": "http://spidermedia.ru/comics/den-novyh-komiksov-10-maya",
   "archived": "https://web.archive.org/web/20170928202139/http://spidermedia.ru:80/comics/den-novyh-komiksov-10-maya",
+  "tags": [
+    "den-novyh-komiksov"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

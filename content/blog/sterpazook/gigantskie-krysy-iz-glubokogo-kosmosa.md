@@ -4,6 +4,11 @@
   "url": "/blog/sterpazook/gigantskie-krysy-iz-glubokogo-kosmosa/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/gigantskie-krysy-iz-glubokogo-kosmosa",
   "archived": "https://web.archive.org/web/20250620072620/http://spidermedia.ru/blog/sterpazook/gigantskie-krysy-iz-glubokogo-kosmosa",
+  "tags": [
+    "trejlery",
+    "giant-rats",
+    "spoof"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

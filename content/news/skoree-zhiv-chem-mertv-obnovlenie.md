@@ -4,6 +4,15 @@
   "url": "/news/skoree-zhiv-chem-mertv-obnovlenie/",
   "original_url": "http://spidermedia.ru/news/skoree-zhiv-chem-mertv-obnovlenie",
   "archived": "https://web.archive.org/web/20200224123729/http://spidermedia.ru:80/news/skoree-zhiv-chem-mertv-obnovlenie",
+  "tags": [
+    "charli-hyuston",
+    "lan-medina",
+    "deslok",
+    "brendon-peterson",
+    "art-0",
+    "marvel",
+    "deathlok"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

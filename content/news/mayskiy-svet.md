@@ -4,6 +4,12 @@
   "url": "/news/mayskiy-svet/",
   "original_url": "http://spidermedia.ru/news/mayskiy-svet",
   "archived": "https://web.archive.org/web/20260305230030/http://spidermedia.ru/news/mayskiy-svet",
+  "tags": [
+    "svetlejshij-den",
+    "relizy",
+    "solicitations",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

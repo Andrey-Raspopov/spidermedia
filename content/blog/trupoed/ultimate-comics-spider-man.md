@@ -4,6 +4,11 @@
   "url": "/blog/trupoed/ultimate-comics-spider-man/",
   "original_url": "https://spidermedia.ru/blog/trupoed/ultimate-comics-spider-man",
   "archived": "https://web.archive.org/web/20251115175756/https://spidermedia.ru/blog/trupoed/ultimate-comics-spider-man",
+  "tags": [
+    "brian-michael-bendis",
+    "ultimate",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

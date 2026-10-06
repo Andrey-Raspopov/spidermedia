@@ -4,6 +4,12 @@
   "url": "/news/osobo-opasnye/",
   "original_url": "https://spidermedia.ru/news/osobo-opasnye",
   "archived": "https://web.archive.org/web/20260123073253/https://spidermedia.ru/news/osobo-opasnye",
+  "tags": [
+    "animaciya",
+    "dc-comics",
+    "superman",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

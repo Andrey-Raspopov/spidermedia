@@ -4,6 +4,17 @@
   "url": "/news/list-otschet-poshel/",
   "original_url": "http://spidermedia.ru/news/list-otschet-poshel",
   "archived": "https://web.archive.org/web/20251213195700/http://spidermedia.ru/news/list-otschet-poshel",
+  "tags": [
+    "avengers",
+    "sekretnye-voiny",
+    "punisher",
+    "dardevil",
+    "x-men",
+    "secret-warriors",
+    "marvel",
+    "list",
+    "daredevil"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

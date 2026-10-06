@@ -4,6 +4,11 @@
   "url": "/animation/batman-the-killing-joke-pervyj-trejler/",
   "original_url": "https://spidermedia.ru/animation/batman-the-killing-joke-pervyj-trejler",
   "archived": "https://web.archive.org/web/20260208211131/https://spidermedia.ru/animation/batman-the-killing-joke-pervyj-trejler",
+  "tags": [
+    "dc-comics",
+    "joker",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

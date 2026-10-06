@@ -4,6 +4,11 @@
   "url": "/news/nichto-ne-istinno/",
   "original_url": "https://spidermedia.ru/news/nichto-ne-istinno",
   "archived": "https://web.archive.org/web/20251018222619/https://spidermedia.ru/news/nichto-ne-istinno",
+  "tags": [
+    "dc-comics",
+    "karl-kershel",
+    "kemeron-styuart"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

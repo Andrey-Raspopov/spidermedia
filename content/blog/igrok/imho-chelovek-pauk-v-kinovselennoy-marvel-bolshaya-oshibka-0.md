@@ -4,6 +4,12 @@
   "url": "/blog/igrok/imho-chelovek-pauk-v-kinovselennoy-marvel-bolshaya-oshibka-0/",
   "original_url": "https://spidermedia.ru/blog/igrok/imho-chelovek-pauk-v-kinovselennoy-marvel-bolshaya-oshibka-0",
   "archived": "https://web.archive.org/web/20260312025030/https://spidermedia.ru/blog/igrok/imho-chelovek-pauk-v-kinovselennoy-marvel-bolshaya-oshibka-0",
+  "tags": [
+    "spider-man",
+    "marvel",
+    "imho",
+    "disney"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

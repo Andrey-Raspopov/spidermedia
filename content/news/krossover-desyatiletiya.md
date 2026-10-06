@@ -4,6 +4,12 @@
   "url": "/news/krossover-desyatiletiya/",
   "original_url": "https://spidermedia.ru/news/krossover-desyatiletiya",
   "archived": "https://web.archive.org/web/20250616094656/https://spidermedia.ru/news/krossover-desyatiletiya",
+  "tags": [
+    "robert-kirkman",
+    "image-comics",
+    "invincible",
+    "ryan-ottley"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

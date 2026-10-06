@@ -4,6 +4,10 @@
   "url": "/movies/pervoe-foto-dedpula/",
   "original_url": "https://spidermedia.ru/movies/pervoe-foto-dedpula",
   "archived": "https://web.archive.org/web/20250807230712/https://spidermedia.ru/movies/pervoe-foto-dedpula",
+  "tags": [
+    "deadpool",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

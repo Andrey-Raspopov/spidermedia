@@ -4,6 +4,10 @@
   "url": "/blog/trupoed/zashchitneg/",
   "original_url": "https://spidermedia.ru/blog/trupoed/zashchitneg",
   "archived": "https://web.archive.org/web/20250913003806/https://spidermedia.ru/blog/trupoed/zashchitneg",
+  "tags": [
+    "yumor",
+    "defendor"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

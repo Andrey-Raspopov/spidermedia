@@ -4,6 +4,14 @@
   "url": "/news/novye-proekty-marvel/",
   "original_url": "http://spidermedia.ru/news/novye-proekty-marvel",
   "archived": "https://web.archive.org/web/20251211030016/http://spidermedia.ru/news/novye-proekty-marvel",
+  "tags": [
+    "fantastic-four",
+    "punisher",
+    "drakula",
+    "art-0",
+    "marvel",
+    "dracula"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

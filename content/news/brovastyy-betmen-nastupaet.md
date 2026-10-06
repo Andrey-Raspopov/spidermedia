@@ -4,6 +4,13 @@
   "url": "/news/brovastyy-betmen-nastupaet/",
   "original_url": "http://spidermedia.ru/news/brovastyy-betmen-nastupaet",
   "archived": "https://web.archive.org/web/20251207004608/http://spidermedia.ru/news/brovastyy-betmen-nastupaet",
+  "tags": [
+    "toni-deniel",
+    "preview",
+    "tony-daniel",
+    "dc-comics",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

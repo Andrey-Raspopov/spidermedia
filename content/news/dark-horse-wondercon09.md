@@ -4,6 +4,17 @@
   "url": "/news/dark-horse-wondercon09/",
   "original_url": "https://spidermedia.ru/news/dark-horse-wondercon09",
   "archived": "https://web.archive.org/web/20260306000335/https://spidermedia.ru/news/dark-horse-wondercon09",
+  "tags": [
+    "erik-pauell",
+    "fabio-mun",
+    "gabriel-ba",
+    "wondercon",
+    "usagi-yojimbo",
+    "the-goon",
+    "star-wars",
+    "hellboy",
+    "dark-horse"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

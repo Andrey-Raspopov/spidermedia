@@ -4,6 +4,10 @@
   "url": "/comics/luchshaya-rubrika-o-komiksah-06-hildafolk/",
   "original_url": "http://spidermedia.ru/comics/luchshaya-rubrika-o-komiksah-06-hildafolk",
   "archived": "https://web.archive.org/web/20260211085635/http://spidermedia.ru/comics/luchshaya-rubrika-o-komiksah-06-hildafolk",
+  "tags": [
+    "best-column-about-comics",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

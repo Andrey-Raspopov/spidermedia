@@ -4,6 +4,14 @@
   "url": "/blog/undead-groom/recenziya-na-multfilm-batman-assault-arkham-0/",
   "original_url": "https://spidermedia.ru/blog/undead-groom/recenziya-na-multfilm-batman-assault-arkham-0",
   "archived": "https://web.archive.org/web/20251115182433/https://spidermedia.ru/blog/undead-groom/recenziya-na-multfilm-batman-assault-arkham-0",
+  "tags": [
+    "dedshot",
+    "recenziya",
+    "mnenie",
+    "batman",
+    "animaciya",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

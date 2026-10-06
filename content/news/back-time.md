@@ -4,6 +4,21 @@
   "url": "/news/back-time/",
   "original_url": "http://spidermedia.ru/news/back-time",
   "archived": "https://web.archive.org/web/20251207001425/http://spidermedia.ru/news/back-time",
+  "tags": [
+    "ron-marc",
+    "marv-vulfman",
+    "kit-giffen",
+    "dzhej-em-demattej",
+    "dennis-onil",
+    "wondercon",
+    "ron-marz",
+    "marv-wolfman",
+    "len-wein",
+    "keith-giffen",
+    "dennis-oneil",
+    "dc-comics",
+    "len-uin"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

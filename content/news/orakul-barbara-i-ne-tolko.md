@@ -4,6 +4,13 @@
   "url": "/news/orakul-barbara-i-ne-tolko/",
   "original_url": "http://spidermedia.ru/news/orakul-barbara-i-ne-tolko",
   "archived": "https://web.archive.org/web/20120607145112/http://spidermedia.ru/news/orakul-barbara-i-ne-tolko",
+  "tags": [
+    "battle-cowl",
+    "dc-comics",
+    "oracle",
+    "komiksy",
+    "toni-deniel"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

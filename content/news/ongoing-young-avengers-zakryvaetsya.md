@@ -4,6 +4,11 @@
   "url": "/news/ongoing-young-avengers-zakryvaetsya/",
   "original_url": "http://spidermedia.ru/news/ongoing-young-avengers-zakryvaetsya",
   "archived": "https://web.archive.org/web/20251108032600/http://spidermedia.ru/news/ongoing-young-avengers-zakryvaetsya",
+  "tags": [
+    "young-avengers",
+    "marvel",
+    "kiron-gillen"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,16 @@
   "url": "/news/deti-millara/",
   "original_url": "http://spidermedia.ru/news/deti-millara",
   "archived": "https://web.archive.org/web/20251216173934/http://spidermedia.ru/news/deti-millara",
+  "tags": [
+    "mark-millar",
+    "frenk-kuajtli",
+    "stiv-makniven",
+    "hit-girl",
+    "nemesis",
+    "image-comics",
+    "icon-comics",
+    "dzhon-romita-ml"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

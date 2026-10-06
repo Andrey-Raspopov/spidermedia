@@ -4,6 +4,13 @@
   "url": "/comics/mateus-santolouco-big-fest/",
   "original_url": "http://spidermedia.ru/comics/mateus-santolouco-big-fest",
   "archived": "https://web.archive.org/web/20251216111420/http://spidermedia.ru/comics/mateus-santolouco-big-fest",
+  "tags": [
+    "idw-publishing",
+    "zarubezhnye-komiksy-na-russkom",
+    "komilfo",
+    "festival",
+    "ninja-turtles"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

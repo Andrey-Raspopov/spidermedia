@@ -4,6 +4,10 @@
   "url": "/faq/cdisplay/",
   "original_url": "http://spidermedia.ru/faq/cdisplay",
   "archived": "https://web.archive.org/web/20250804002601/http://spidermedia.ru/faq/cdisplay",
+  "tags": [
+    "cifrovye-komiksy",
+    "faq"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

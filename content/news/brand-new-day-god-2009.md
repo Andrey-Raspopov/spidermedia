@@ -4,6 +4,11 @@
   "url": "/news/brand-new-day-god-2009/",
   "original_url": "http://spidermedia.ru/news/brand-new-day-god-2009",
   "archived": "https://web.archive.org/web/20250617235236/http://spidermedia.ru/news/brand-new-day-god-2009",
+  "tags": [
+    "nycc-2009",
+    "norman-osborn",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

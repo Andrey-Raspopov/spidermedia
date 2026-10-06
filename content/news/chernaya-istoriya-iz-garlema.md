@@ -4,6 +4,15 @@
   "url": "/news/chernaya-istoriya-iz-garlema/",
   "original_url": "http://spidermedia.ru/news/chernaya-istoriya-iz-garlema",
   "archived": "https://web.archive.org/web/20200217104851/http://spidermedia.ru:80/news/chernaya-istoriya-iz-garlema",
+  "tags": [
+    "shon-martinbrou",
+    "tim-bredstrit",
+    "majk-benson",
+    "adam-glass",
+    "noirverse",
+    "marvel",
+    "luke-cage"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/news/serial-po-komiksu-izombie-vyydet-v-2015/",
   "original_url": "https://spidermedia.ru/news/serial-po-komiksu-izombie-vyydet-v-2015",
   "archived": "https://web.archive.org/web/20250425232117/https://spidermedia.ru/news/serial-po-komiksu-izombie-vyydet-v-2015",
+  "tags": [
+    "izombie",
+    "vertigo"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

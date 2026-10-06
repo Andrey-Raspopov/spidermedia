@@ -4,6 +4,14 @@
   "url": "/news/tretiy-ongoing-pro-supermena-startuet-v-2013-godu/",
   "original_url": "https://spidermedia.ru/news/tretiy-ongoing-pro-supermena-startuet-v-2013-godu",
   "archived": "https://web.archive.org/web/20251207011058/https://spidermedia.ru/news/tretiy-ongoing-pro-supermena-startuet-v-2013-godu",
+  "tags": [
+    "chelovek-iz-stali",
+    "superman",
+    "skott-snajder",
+    "jim-lee",
+    "man-of-steel",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/comics/anons-raskraska-dlya-vzroslyh-ot-chaka-palanika/",
   "original_url": "https://spidermedia.ru/comics/anons-raskraska-dlya-vzroslyh-ot-chaka-palanika",
   "archived": "https://web.archive.org/web/20240908054748/https://spidermedia.ru/comics/anons-raskraska-dlya-vzroslyh-ot-chaka-palanika",
+  "tags": [
+    "dark-horse"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/comics/best-column-about-comics-31-three-shadows/",
   "original_url": "https://spidermedia.ru/comics/best-column-about-comics-31-three-shadows",
   "archived": "https://web.archive.org/web/20260215073746/https://spidermedia.ru/comics/best-column-about-comics-31-three-shadows",
+  "tags": [
+    "best-column-about-comics",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

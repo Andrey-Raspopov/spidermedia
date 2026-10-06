@@ -4,6 +4,14 @@
   "url": "/blog/larosh/constantine-s01e10-quid-pro-quo-mnenie-redakcii/",
   "original_url": "http://spidermedia.ru/blog/larosh/constantine-s01e10-quid-pro-quo-mnenie-redakcii",
   "archived": "https://web.archive.org/web/20260215080018/http://spidermedia.ru/blog/larosh/constantine-s01e10-quid-pro-quo-mnenie-redakcii",
+  "tags": [
+    "serialy",
+    "obzor",
+    "dzhon-konstantin",
+    "vertigo",
+    "dc-comics",
+    "constantine"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

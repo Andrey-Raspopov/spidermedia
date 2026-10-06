@@ -4,6 +4,19 @@
   "url": "/news/rainbow-connection/",
   "original_url": "https://spidermedia.ru/news/rainbow-connection",
   "archived": "https://web.archive.org/web/20260313111247/https://spidermedia.ru/news/rainbow-connection",
+  "tags": [
+    "green-lantern",
+    "robert-venditti",
+    "billi-tan",
+    "dc-comics",
+    "joshua-hale-fialkov",
+    "bernard-chang",
+    "kit-giffen",
+    "skott-kolins",
+    "dzhastin-dzhordan",
+    "brad-walker",
+    "alessandro-vitti"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

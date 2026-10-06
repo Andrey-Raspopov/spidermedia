@@ -4,6 +4,10 @@
   "url": "/tv/runaways-ep-1-4-review/",
   "original_url": "http://spidermedia.ru/tv/runaways-ep-1-4-review",
   "archived": "https://web.archive.org/web/20251006145059/http://spidermedia.ru/tv/runaways-ep-1-4-review",
+  "tags": [
+    "marvel",
+    "runaways"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

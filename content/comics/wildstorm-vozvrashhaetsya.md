@@ -4,6 +4,10 @@
   "url": "/comics/wildstorm-vozvrashhaetsya/",
   "original_url": "http://spidermedia.ru/comics/wildstorm-vozvrashhaetsya",
   "archived": "https://web.archive.org/web/20250429012403/http://spidermedia.ru/comics/wildstorm-vozvrashhaetsya",
+  "tags": [
+    "dc-comics",
+    "wildstorm"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,20 @@
   "url": "/news/iron-man-new-beginning/",
   "original_url": "http://spidermedia.ru/news/iron-man-new-beginning",
   "archived": "https://web.archive.org/web/20251216184953/http://spidermedia.ru/news/iron-man-new-beginning",
+  "tags": [
+    "era-geroev",
+    "skotti-yang",
+    "salvador-larroka",
+    "preview",
+    "matt-fraction",
+    "marko-dzhurdzhevich",
+    "mandarin",
+    "devid-aha",
+    "greg-horn",
+    "gabriele-dell-otto",
+    "marvel",
+    "iron-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

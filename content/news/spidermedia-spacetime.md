@@ -4,6 +4,9 @@
   "url": "/news/spidermedia-spacetime/",
   "original_url": "http://spidermedia.ru/news/spidermedia-spacetime",
   "archived": "https://web.archive.org/web/20251115180053/http://spidermedia.ru/news/spidermedia-spacetime",
+  "tags": [
+    "zvezdnyj-put"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

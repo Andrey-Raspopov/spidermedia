@@ -4,6 +4,11 @@
   "url": "/news/prevyu-komiksa-alex-ada/",
   "original_url": "https://spidermedia.ru/news/prevyu-komiksa-alex-ada",
   "archived": "https://web.archive.org/web/20260117231824/https://spidermedia.ru/news/prevyu-komiksa-alex-ada",
+  "tags": [
+    "preview",
+    "luna-brothers",
+    "image-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

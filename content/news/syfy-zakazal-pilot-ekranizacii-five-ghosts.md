@@ -4,6 +4,9 @@
   "url": "/news/syfy-zakazal-pilot-ekranizacii-five-ghosts/",
   "original_url": "https://spidermedia.ru/news/syfy-zakazal-pilot-ekranizacii-five-ghosts",
   "archived": "https://web.archive.org/web/20250618114846/https://spidermedia.ru/news/syfy-zakazal-pilot-ekranizacii-five-ghosts",
+  "tags": [
+    "serialy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

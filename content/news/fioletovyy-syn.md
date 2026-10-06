@@ -4,6 +4,13 @@
   "url": "/news/fioletovyy-syn/",
   "original_url": "https://spidermedia.ru/news/fioletovyy-syn",
   "archived": "https://web.archive.org/web/20260313121051/https://spidermedia.ru/news/fioletovyy-syn",
+  "tags": [
+    "thanos",
+    "tanos",
+    "marvel",
+    "richard-elson",
+    "dzho-kiting"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/podcast/podkast-razbor-polyotov-vypusk-4-komiksy-v-bolshom-gorode/",
   "original_url": "http://spidermedia.ru/podcast/podkast-razbor-polyotov-vypusk-4-komiksy-v-bolshom-gorode",
   "archived": "https://web.archive.org/web/20260209114024/http://spidermedia.ru/podcast/podkast-razbor-polyotov-vypusk-4-komiksy-v-bolshom-gorode",
+  "tags": [
+    "spidercast"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

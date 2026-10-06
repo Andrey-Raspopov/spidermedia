@@ -4,6 +4,11 @@
   "url": "/blog/samm-o/plohie-komiksy-inc-no2-i-dont-mutants-i-have-my-reasons/",
   "original_url": "http://spidermedia.ru/blog/samm-o/plohie-komiksy-inc-no2-i-dont-mutants-i-have-my-reasons",
   "archived": "https://web.archive.org/web/20120610051723/http://spidermedia.ru/blog/samm-o/plohie-komiksy-inc-no2-i-dont-mutants-i-have-my-reasons",
+  "tags": [
+    "komiksy",
+    "marvel",
+    "plohie-komiksy-inc"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

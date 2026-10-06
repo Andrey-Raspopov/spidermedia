@@ -4,6 +4,13 @@
   "url": "/news/korolevskie-shahmaty/",
   "original_url": "http://spidermedia.ru/news/korolevskie-shahmaty",
   "archived": "https://web.archive.org/web/20180124020102/http://spidermedia.ru/news/korolevskie-shahmaty",
+  "tags": [
+    "marvel",
+    "black-bolt",
+    "inhumans",
+    "vulcan",
+    "medusa"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

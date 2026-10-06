@@ -4,6 +4,10 @@
   "url": "/news/spider-man-3d-bez-dzhony/",
   "original_url": "http://spidermedia.ru/news/spider-man-3d-bez-dzhony",
   "archived": "https://web.archive.org/web/20241211211057/http://spidermedia.ru/news/spider-man-3d-bez-dzhony",
+  "tags": [
+    "marvel",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

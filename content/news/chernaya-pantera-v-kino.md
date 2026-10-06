@@ -4,6 +4,10 @@
   "url": "/news/chernaya-pantera-v-kino/",
   "original_url": "https://spidermedia.ru/news/chernaya-pantera-v-kino",
   "archived": "https://web.archive.org/web/20250425223801/https://spidermedia.ru/news/chernaya-pantera-v-kino",
+  "tags": [
+    "black-panther",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

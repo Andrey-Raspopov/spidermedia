@@ -4,6 +4,20 @@
   "url": "/news/da-budet-svet/",
   "original_url": "https://spidermedia.ru/news/da-budet-svet",
   "archived": "https://web.archive.org/web/20251013190646/https://spidermedia.ru/news/da-budet-svet",
+  "tags": [
+    "frensis-manapul",
+    "fernando-pasarin",
+    "temnejshaya-noch",
+    "svetlejshij-den",
+    "piter-tomasi",
+    "geoff-johns",
+    "peter-j.-tomasi",
+    "green-lantern",
+    "francis-manapul",
+    "the-flash",
+    "dc-comics",
+    "blackest-night"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

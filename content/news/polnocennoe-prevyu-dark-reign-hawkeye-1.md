@@ -4,6 +4,15 @@
   "url": "/news/polnocennoe-prevyu-dark-reign-hawkeye-1/",
   "original_url": "https://spidermedia.ru/news/polnocennoe-prevyu-dark-reign-hawkeye-1",
   "archived": "https://web.archive.org/web/20260121005413/https://spidermedia.ru/news/polnocennoe-prevyu-dark-reign-hawkeye-1",
+  "tags": [
+    "endi-diggl",
+    "avengers",
+    "preview",
+    "art-0",
+    "marvel",
+    "hawkeye",
+    "bullseye"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

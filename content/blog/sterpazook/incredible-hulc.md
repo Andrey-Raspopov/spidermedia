@@ -4,6 +4,12 @@
   "url": "/blog/sterpazook/incredible-hulc/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/incredible-hulc",
   "archived": "https://web.archive.org/web/20120607143608/http://spidermedia.ru/blog/sterpazook/incredible-hulc",
+  "tags": [
+    "science",
+    "video",
+    "nauka",
+    "novye-tehnologii"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

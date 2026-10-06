@@ -4,6 +4,13 @@
   "url": "/news/novosti-kino-1/",
   "original_url": "http://spidermedia.ru/news/novosti-kino-1",
   "archived": "https://web.archive.org/web/20251012175508/http://spidermedia.ru/news/novosti-kino-1",
+  "tags": [
+    "transformers",
+    "s.h.i.e.l.d",
+    "avengers",
+    "spider-man",
+    "shhit"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

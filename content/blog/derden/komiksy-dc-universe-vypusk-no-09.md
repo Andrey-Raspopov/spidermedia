@@ -4,6 +4,11 @@
   "url": "/blog/derden/komiksy-dc-universe-vypusk-no-09/",
   "original_url": "http://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-09",
   "archived": "https://web.archive.org/web/20190929135057/http://spidermedia.ru:80/blog/derden/komiksy-dc-universe-vypusk-no-09",
+  "tags": [
+    "wonder-woman",
+    "dc-comics",
+    "dc-universe-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

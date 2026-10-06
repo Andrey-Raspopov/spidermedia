@@ -4,6 +4,11 @@
   "url": "/news/sdcc09-super-hero-squad-show/",
   "original_url": "http://spidermedia.ru/news/sdcc09-super-hero-squad-show",
   "archived": "https://web.archive.org/web/20251108193959/http://spidermedia.ru/news/sdcc09-super-hero-squad-show",
+  "tags": [
+    "animaciya",
+    "san-diego-comic-con-international",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

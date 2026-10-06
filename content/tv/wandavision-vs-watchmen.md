@@ -4,6 +4,14 @@
   "url": "/tv/wandavision-vs-watchmen/",
   "original_url": "http://spidermedia.ru/tv/wandavision-vs-watchmen",
   "archived": "https://web.archive.org/web/20260117233119/http://spidermedia.ru/tv/wandavision-vs-watchmen",
+  "tags": [
+    "dc-comics",
+    "marvel",
+    "scarlet-witch",
+    "vision",
+    "dejmon-lindelof",
+    "nu-hranitelej-to-vse-smotreli"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

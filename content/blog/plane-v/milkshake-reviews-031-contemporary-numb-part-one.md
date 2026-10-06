@@ -4,6 +4,11 @@
   "url": "/blog/plane-v/milkshake-reviews-031-contemporary-numb-part-one/",
   "original_url": "http://spidermedia.ru/blog/plane-v/milkshake-reviews-031-contemporary-numb-part-one",
   "archived": "https://web.archive.org/web/20120608195713/http://spidermedia.ru/blog/plane-v/milkshake-reviews-031-contemporary-numb-part-one",
+  "tags": [
+    "milkshake-reviews",
+    "komiksy",
+    "marvel"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/comics/anonsirovan-dzhejms-bond-endi-diggla/",
   "original_url": "http://spidermedia.ru/comics/anonsirovan-dzhejms-bond-endi-diggla",
   "archived": "https://web.archive.org/web/20251211021502/http://spidermedia.ru/comics/anonsirovan-dzhejms-bond-endi-diggla",
+  "tags": [
+    "dynamite-entertainment",
+    "endi-diggl"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

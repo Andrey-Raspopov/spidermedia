@@ -4,6 +4,15 @@
   "url": "/blog/sp888/cheloveke-pauk-istoriya-neschastnoy-zhizni-supergeroya/",
   "original_url": "http://spidermedia.ru/blog/sp888/cheloveke-pauk-istoriya-neschastnoy-zhizni-supergeroya",
   "archived": "https://web.archive.org/web/20111026044931/http://spidermedia.ru/blog/sp888/cheloveke-pauk-istoriya-neschastnoy-zhizni-supergeroya",
+  "tags": [
+    "marvel",
+    "spider-man",
+    "dzhey-maykl-strazhinskiy",
+    "mark-millar",
+    "mnenie",
+    "ron-garni",
+    "chelovek-pauk"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

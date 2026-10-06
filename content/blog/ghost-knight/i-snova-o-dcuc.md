@@ -4,6 +4,11 @@
   "url": "/blog/ghost-knight/i-snova-o-dcuc/",
   "original_url": "http://spidermedia.ru/blog/ghost-knight/i-snova-o-dcuc",
   "archived": "https://web.archive.org/web/20260120235214/http://spidermedia.ru/blog/ghost-knight/i-snova-o-dcuc",
+  "tags": [
+    "figurki",
+    "mattel",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

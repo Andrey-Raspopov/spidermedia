@@ -4,6 +4,9 @@
   "url": "/blog/derden/hronologiya-dc-universe/",
   "original_url": "http://spidermedia.ru/blog/derden/hronologiya-dc-universe",
   "archived": "https://web.archive.org/web/20190915011740/http://spidermedia.ru:80/blog/derden/hronologiya-dc-universe",
+  "tags": [
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

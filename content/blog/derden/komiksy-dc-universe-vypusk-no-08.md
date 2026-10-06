@@ -4,6 +4,12 @@
   "url": "/blog/derden/komiksy-dc-universe-vypusk-no-08/",
   "original_url": "http://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-08",
   "archived": "https://web.archive.org/web/20190923014002/http://spidermedia.ru:80/blog/derden/komiksy-dc-universe-vypusk-no-08",
+  "tags": [
+    "dc-comics",
+    "superman",
+    "batman",
+    "dc-universe-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

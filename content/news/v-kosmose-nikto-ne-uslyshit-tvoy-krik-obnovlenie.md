@@ -4,6 +4,14 @@
   "url": "/news/v-kosmose-nikto-ne-uslyshit-tvoy-krik-obnovlenie/",
   "original_url": "http://spidermedia.ru/news/v-kosmose-nikto-ne-uslyshit-tvoy-krik-obnovlenie",
   "archived": "https://web.archive.org/web/20260115062048/http://spidermedia.ru/news/v-kosmose-nikto-ne-uslyshit-tvoy-krik-obnovlenie",
+  "tags": [
+    "nadezhda",
+    "kejbl",
+    "duejn-sverchinski",
+    "marvel",
+    "hope",
+    "cable"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

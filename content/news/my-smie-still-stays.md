@@ -4,6 +4,13 @@
   "url": "/news/my-smie-still-stays/",
   "original_url": "https://spidermedia.ru/news/my-smie-still-stays",
   "archived": "https://web.archive.org/web/20260215081059/https://spidermedia.ru/news/my-smie-still-stays",
+  "tags": [
+    "skott-snajder",
+    "greg-capullo",
+    "joker",
+    "dc-comics",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,15 @@
   "url": "/news/genii-ot-azzarello/",
   "original_url": "https://spidermedia.ru/news/genii-ot-azzarello",
   "archived": "https://web.archive.org/web/20251111042158/https://spidermedia.ru/news/genii-ot-azzarello",
+  "tags": [
+    "fil-noto",
+    "dok-sevidzh",
+    "dzhej-dzhi-dzhons",
+    "brian-azzarello",
+    "doc-savage",
+    "dc-comics",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

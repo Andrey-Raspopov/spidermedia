@@ -4,6 +4,10 @@
   "url": "/blog/redson/mzhdz-bring-it-down/",
   "original_url": "http://spidermedia.ru/blog/redson/mzhdz-bring-it-down",
   "archived": "https://web.archive.org/web/20240720190000/http://spidermedia.ru/blog/redson/mzhdz-bring-it-down",
+  "tags": [
+    "mnenie",
+    "mzhdz"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

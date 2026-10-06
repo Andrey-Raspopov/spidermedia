@@ -4,6 +4,14 @@
   "url": "/news/prevyu-komiksa-supergod-1/",
   "original_url": "http://spidermedia.ru/news/prevyu-komiksa-supergod-1",
   "archived": "https://web.archive.org/web/20251110222707/http://spidermedia.ru/news/prevyu-komiksa-supergod-1",
+  "tags": [
+    "avatar-press",
+    "supergod",
+    "superbog",
+    "warren-ellis",
+    "garrie-gastonny",
+    "gerri-gestonni"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

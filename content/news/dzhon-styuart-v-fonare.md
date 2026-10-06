@@ -4,6 +4,9 @@
   "url": "/news/dzhon-styuart-v-fonare/",
   "original_url": "http://spidermedia.ru/news/dzhon-styuart-v-fonare",
   "archived": "https://web.archive.org/web/20250419042600/http://spidermedia.ru/news/dzhon-styuart-v-fonare",
+  "tags": [
+    "green-lantern"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

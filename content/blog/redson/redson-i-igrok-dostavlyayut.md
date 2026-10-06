@@ -4,6 +4,13 @@
   "url": "/blog/redson/redson-i-igrok-dostavlyayut/",
   "original_url": "http://spidermedia.ru/blog/redson/redson-i-igrok-dostavlyayut",
   "archived": "https://web.archive.org/web/20120613014639/http://spidermedia.ru/blog/redson/redson-i-igrok-dostavlyayut",
+  "tags": [
+    "wolverine",
+    "kino",
+    "komiksy",
+    "rosomaha",
+    "hyu-dzhekman"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

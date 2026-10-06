@@ -4,6 +4,13 @@
   "url": "/comics/chernyj-molot/",
   "original_url": "https://spidermedia.ru/comics/chernyj-molot",
   "archived": "https://web.archive.org/web/20260215082043/https://spidermedia.ru/comics/chernyj-molot",
+  "tags": [
+    "dark-horse",
+    "jeff-lemire",
+    "dzheff-lemajr",
+    "dzheff-lemir",
+    "emerald-city-comicon"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

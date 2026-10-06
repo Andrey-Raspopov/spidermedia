@@ -4,6 +4,10 @@
   "url": "/news/z-znachit-zorro/",
   "original_url": "https://spidermedia.ru/news/z-znachit-zorro",
   "archived": "https://web.archive.org/web/20251117004246/https://spidermedia.ru/news/z-znachit-zorro",
+  "tags": [
+    "serialy",
+    "zorro"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

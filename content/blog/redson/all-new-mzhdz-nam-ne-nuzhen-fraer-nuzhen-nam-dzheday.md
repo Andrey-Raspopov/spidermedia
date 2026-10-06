@@ -4,11 +4,14 @@
   "url": "/blog/redson/all-new-mzhdz-nam-ne-nuzhen-fraer-nuzhen-nam-dzheday/",
   "original_url": "http://spidermedia.ru/blog/redson/all-new-mzhdz-nam-ne-nuzhen-fraer-nuzhen-nam-dzheday",
   "archived": "https://web.archive.org/web/20260308232407/http://spidermedia.ru/blog/redson/all-new-mzhdz-nam-ne-nuzhen-fraer-nuzhen-nam-dzheday",
+  "tags": [
+    "mzhdz"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](https://web.archive.org/web/20260308232407im_/http://i.imgur.com/0zaHqKf.jpg "Автор логотипа - Ярослав Астапеев")](https://web.archive.org/web/20260206215846/http://spidermedia.ru/tags/mzhdz) [Колебания в силе, а может это глюк?
+[![](https://web.archive.org/web/20260308232407im_/http://i.imgur.com/0zaHqKf.jpg "Автор логотипа - Ярослав Астапеев")](../../../tags/mzhdz/) [Колебания в силе, а может это глюк?
 Ты прав мой милый Вейдер, это — Скайуокер Люк.](https://vk.com/wall151698305_5912)
 Если вы почувствовали a disturbance in the Force, то вселенная скорее всего пыталась предупредить вас о появлении нового МЖДЗ. Конечно, мы не прошли мимо **Star Wars #1**, как вы только могли подумать. Но по дороге к вам захватили еще несколько не менее достойных экспонатов: **All-New Captain America** явно украл приставку у нашей рубрики, но тут же заслужил прощение; **The Death-Defying Doctor Mirage** словно бы пришел к нам из лучших времен, когда от слова Vertigo дрожали коленки; **Grayson** оказался чуть ли не лучшим комиксом про героя, ранее известного как Найтвинг; **Nightcrawler** оказался комиксом Криса Клэрмонта; а **Wayward** напомнил, что и Image не без греха.
 

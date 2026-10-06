@@ -4,6 +4,12 @@
   "url": "/news/he-man-superman-action/",
   "original_url": "https://spidermedia.ru/news/he-man-superman-action",
   "archived": "https://web.archive.org/web/20260214125713/https://spidermedia.ru/news/he-man-superman-action",
+  "tags": [
+    "hi-men",
+    "dc-comics",
+    "kit-giffen",
+    "dekster-soj"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

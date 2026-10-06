@@ -4,6 +4,10 @@
   "url": "/news/ih-bylo-semero/",
   "original_url": "https://spidermedia.ru/news/ih-bylo-semero",
   "archived": "https://web.archive.org/web/20240912045236/https://spidermedia.ru/news/ih-bylo-semero",
+  "tags": [
+    "dc-comics",
+    "brian-wood"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

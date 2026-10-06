@@ -4,6 +4,12 @@
   "url": "/news/rest-pieces-iii/",
   "original_url": "http://spidermedia.ru/news/rest-pieces-iii",
   "archived": "https://web.archive.org/web/20120607180254/http://spidermedia.ru/news/rest-pieces-iii",
+  "tags": [
+    "punisher",
+    "karatel",
+    "komiksy",
+    "tom-reyni"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

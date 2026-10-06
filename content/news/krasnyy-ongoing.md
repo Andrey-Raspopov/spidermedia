@@ -4,6 +4,14 @@
   "url": "/news/krasnyy-ongoing/",
   "original_url": "https://spidermedia.ru/news/krasnyy-ongoing",
   "archived": "https://web.archive.org/web/20210119174556/https://spidermedia.ru/news/krasnyy-ongoing",
+  "tags": [
+    "peter-milligan",
+    "krasnye-fonari",
+    "atrocitus",
+    "red-lantern-corps",
+    "red-lantern",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

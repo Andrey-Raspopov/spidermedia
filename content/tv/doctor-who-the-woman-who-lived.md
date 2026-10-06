@@ -4,6 +4,9 @@
   "url": "/tv/doctor-who-the-woman-who-lived/",
   "original_url": "http://spidermedia.ru/tv/doctor-who-the-woman-who-lived",
   "archived": "https://web.archive.org/web/20260314081558/http://spidermedia.ru/tv/doctor-who-the-woman-who-lived",
+  "tags": [
+    "doctor-who"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

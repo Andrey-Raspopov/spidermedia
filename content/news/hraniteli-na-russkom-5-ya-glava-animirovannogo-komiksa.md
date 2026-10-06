@@ -4,6 +4,14 @@
   "url": "/news/hraniteli-na-russkom-5-ya-glava-animirovannogo-komiksa/",
   "original_url": "https://spidermedia.ru/news/hraniteli-na-russkom-5-ya-glava-animirovannogo-komiksa",
   "archived": "https://web.archive.org/web/20250325094304/https://spidermedia.ru/news/hraniteli-na-russkom-5-ya-glava-animirovannogo-komiksa",
+  "tags": [
+    "hraniteli",
+    "animaciya",
+    "cifrovye-komiksy",
+    "animirovannye-komiksy",
+    "motion-comics",
+    "zarubezhnye-komiksy-na-russkom"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

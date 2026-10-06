@@ -4,6 +4,12 @@
   "url": "/blog/transistor/recenziya-na-film-rosomaha-bessmertnyy/",
   "original_url": "http://spidermedia.ru/blog/transistor/recenziya-na-film-rosomaha-bessmertnyy",
   "archived": "https://web.archive.org/web/20251013181708/http://spidermedia.ru/blog/transistor/recenziya-na-film-rosomaha-bessmertnyy",
+  "tags": [
+    "mnenie",
+    "marvel",
+    "wolverine",
+    "x-men"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

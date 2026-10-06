@@ -4,6 +4,10 @@
   "url": "/comics/ninja-turtles-konkurs/",
   "original_url": "https://spidermedia.ru/comics/ninja-turtles-konkurs",
   "archived": "https://web.archive.org/web/20250906074621/https://spidermedia.ru/comics/ninja-turtles-konkurs",
+  "tags": [
+    "viktorina",
+    "ninja-turtles"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

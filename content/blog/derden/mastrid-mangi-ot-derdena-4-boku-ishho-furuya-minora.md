@@ -4,6 +4,11 @@
   "url": "/blog/derden/mastrid-mangi-ot-derdena-4-boku-ishho-furuya-minora/",
   "original_url": "https://spidermedia.ru/blog/derden/mastrid-mangi-ot-derdena-4-boku-ishho-furuya-minora",
   "archived": "https://web.archive.org/web/20251211035124/https://spidermedia.ru/blog/derden/mastrid-mangi-ot-derdena-4-boku-ishho-furuya-minora",
+  "tags": [
+    "furuya-minora",
+    "manga",
+    "bokku-to-issho"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

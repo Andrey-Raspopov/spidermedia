@@ -4,6 +4,10 @@
   "url": "/blog/red-hulk/mw/",
   "original_url": "https://spidermedia.ru/blog/red-hulk/mw",
   "archived": "https://web.archive.org/web/20251211030658/https://spidermedia.ru/blog/red-hulk/mw",
+  "tags": [
+    "osamu-tedzuka",
+    "manga"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

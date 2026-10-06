@@ -4,6 +4,15 @@
   "url": "/blog/oleg89/well-wish-around-world/",
   "original_url": "http://spidermedia.ru/blog/oleg89/well-wish-around-world",
   "archived": "https://web.archive.org/web/20160730085234/http://spidermedia.ru/blog/oleg89/well-wish-around-world",
+  "tags": [
+    "dc-comics",
+    "uorren-ellis",
+    "dzhon-kessedi",
+    "warren-ellis",
+    "planetary",
+    "john-cassaday",
+    "planetarij"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

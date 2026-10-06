@@ -4,6 +4,9 @@
   "url": "/movies/marisa-tomej-stanet-tetej-pitera-parkera/",
   "original_url": "https://spidermedia.ru/movies/marisa-tomej-stanet-tetej-pitera-parkera",
   "archived": "https://web.archive.org/web/20250715002305/https://spidermedia.ru/movies/marisa-tomej-stanet-tetej-pitera-parkera",
+  "tags": [
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/comics/sdcc-2016-anonsy-boom-studios/",
   "original_url": "https://spidermedia.ru/comics/sdcc-2016-anonsy-boom-studios",
   "archived": "https://web.archive.org/web/20260312020713/https://spidermedia.ru/comics/sdcc-2016-anonsy-boom-studios",
+  "tags": [
+    "boom-studios"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

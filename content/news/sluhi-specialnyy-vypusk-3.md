@@ -4,6 +4,15 @@
   "url": "/news/sluhi-specialnyy-vypusk-3/",
   "original_url": "http://spidermedia.ru/news/sluhi-specialnyy-vypusk-3",
   "archived": "https://web.archive.org/web/20260117223233/http://spidermedia.ru/news/sluhi-specialnyy-vypusk-3",
+  "tags": [
+    "thor",
+    "sluhi",
+    "ultimate",
+    "san-diego-comic-con-international",
+    "marvel",
+    "avatar-press",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

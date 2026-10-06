@@ -4,6 +4,13 @@
   "url": "/news/voyna-koroley-vzglyad-na-pervyy-nomer/",
   "original_url": "http://spidermedia.ru/news/voyna-koroley-vzglyad-na-pervyy-nomer",
   "archived": "https://web.archive.org/web/20120607111913/http://spidermedia.ru/news/voyna-koroley-vzglyad-na-pervyy-nomer",
+  "tags": [
+    "war-kings",
+    "den-ebnett",
+    "komiksy",
+    "marvel",
+    "endi-lenning"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

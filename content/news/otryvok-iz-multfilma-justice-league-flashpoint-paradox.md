@@ -4,6 +4,11 @@
   "url": "/news/otryvok-iz-multfilma-justice-league-flashpoint-paradox/",
   "original_url": "https://spidermedia.ru/news/otryvok-iz-multfilma-justice-league-flashpoint-paradox",
   "archived": "https://web.archive.org/web/20251206145249/https://spidermedia.ru/news/otryvok-iz-multfilma-justice-league-flashpoint-paradox",
+  "tags": [
+    "dc-comics",
+    "the-flash",
+    "animaciya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

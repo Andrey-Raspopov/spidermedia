@@ -4,6 +4,10 @@
   "url": "/comics/bubble-gum-10/",
   "original_url": "http://spidermedia.ru/comics/bubble-gum-10",
   "archived": "https://web.archive.org/web/20250810150503/http://spidermedia.ru/comics/bubble-gum-10",
+  "tags": [
+    "bubble",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/tv/doctor-who-heaven-sent/",
   "original_url": "http://spidermedia.ru/tv/doctor-who-heaven-sent",
   "archived": "https://web.archive.org/web/20260314081849/http://spidermedia.ru/tv/doctor-who-heaven-sent",
+  "tags": [
+    "doctor-who"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/games/igromir-2018-games/",
   "original_url": "http://spidermedia.ru/games/igromir-2018-games",
   "archived": "https://web.archive.org/web/20260215073400/http://spidermedia.ru/games/igromir-2018-games",
+  "tags": [
+    "gamermedia"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

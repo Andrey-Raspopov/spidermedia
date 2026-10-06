@@ -4,6 +4,10 @@
   "url": "/podcast/hellfire-panels-02-the-beginning/",
   "original_url": "https://spidermedia.ru/podcast/hellfire-panels-02-the-beginning",
   "archived": "https://web.archive.org/web/20260116223047/https://spidermedia.ru/podcast/hellfire-panels-02-the-beginning",
+  "tags": [
+    "panels-of-x",
+    "on-panels"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

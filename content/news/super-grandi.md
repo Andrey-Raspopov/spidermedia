@@ -4,6 +4,17 @@
   "url": "/news/super-grandi/",
   "original_url": "http://spidermedia.ru/news/super-grandi",
   "archived": "https://web.archive.org/web/20120607090935/http://spidermedia.ru/news/super-grandi",
+  "tags": [
+    "dc-comics",
+    "preview",
+    "solomon-grundy",
+    "superman",
+    "komiksy",
+    "preview-s",
+    "solomon-grandi",
+    "supermen",
+    "temneyshaya-noch"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

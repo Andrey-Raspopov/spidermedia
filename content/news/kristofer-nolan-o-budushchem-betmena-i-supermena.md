@@ -4,6 +4,11 @@
   "url": "/news/kristofer-nolan-o-budushchem-betmena-i-supermena/",
   "original_url": "http://spidermedia.ru/news/kristofer-nolan-o-budushchem-betmena-i-supermena",
   "archived": "https://web.archive.org/web/20240911125750/http://spidermedia.ru/news/kristofer-nolan-o-budushchem-betmena-i-supermena",
+  "tags": [
+    "superman",
+    "dc-comics",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

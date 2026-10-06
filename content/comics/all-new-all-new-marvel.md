@@ -4,6 +4,9 @@
   "url": "/comics/all-new-all-new-marvel/",
   "original_url": "http://spidermedia.ru/comics/all-new-all-new-marvel",
   "archived": "https://web.archive.org/web/20260305224948/http://spidermedia.ru/comics/all-new-all-new-marvel",
+  "tags": [
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

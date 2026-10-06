@@ -4,6 +4,10 @@
   "url": "/news/avtor-komiksa-v-vendetta-posetit-rossiyskiy-komik-kon/",
   "original_url": "http://spidermedia.ru/news/avtor-komiksa-v-vendetta-posetit-rossiyskiy-komik-kon",
   "archived": "https://web.archive.org/web/20260123073143/http://spidermedia.ru/news/avtor-komiksa-v-vendetta-posetit-rossiyskiy-komik-kon",
+  "tags": [
+    "comic-con-russia",
+    "devid-llojd"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

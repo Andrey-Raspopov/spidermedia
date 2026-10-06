@@ -4,6 +4,10 @@
   "url": "/comics/best-column-about-comics-24-copra/",
   "original_url": "https://spidermedia.ru/comics/best-column-about-comics-24-copra",
   "archived": "https://web.archive.org/web/20260215073444/https://spidermedia.ru/comics/best-column-about-comics-24-copra",
+  "tags": [
+    "best-column-about-comics",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

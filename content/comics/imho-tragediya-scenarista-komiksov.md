@@ -4,6 +4,9 @@
   "url": "/comics/imho-tragediya-scenarista-komiksov/",
   "original_url": "https://spidermedia.ru/comics/imho-tragediya-scenarista-komiksov",
   "archived": "https://web.archive.org/web/20251211032357/https://spidermedia.ru/comics/imho-tragediya-scenarista-komiksov",
+  "tags": [
+    "imho"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

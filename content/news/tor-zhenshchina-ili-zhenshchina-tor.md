@@ -4,6 +4,10 @@
   "url": "/news/tor-zhenshchina-ili-zhenshchina-tor/",
   "original_url": "http://spidermedia.ru/news/tor-zhenshchina-ili-zhenshchina-tor",
   "archived": "https://web.archive.org/web/20250909141539/http://spidermedia.ru/news/tor-zhenshchina-ili-zhenshchina-tor",
+  "tags": [
+    "marvel",
+    "thor"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

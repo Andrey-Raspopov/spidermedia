@@ -4,6 +4,11 @@
   "url": "/comics/anonsirovan-krossover-dedpula-i-gambita/",
   "original_url": "http://spidermedia.ru/comics/anonsirovan-krossover-dedpula-i-gambita",
   "archived": "https://web.archive.org/web/20250422021658/http://spidermedia.ru/comics/anonsirovan-krossover-dedpula-i-gambita",
+  "tags": [
+    "gambit",
+    "deadpool",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

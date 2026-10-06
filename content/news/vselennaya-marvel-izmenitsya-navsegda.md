@@ -4,6 +4,11 @@
   "url": "/news/vselennaya-marvel-izmenitsya-navsegda/",
   "original_url": "http://spidermedia.ru/news/vselennaya-marvel-izmenitsya-navsegda",
   "archived": "https://web.archive.org/web/20251115024552/http://spidermedia.ru/news/vselennaya-marvel-izmenitsya-navsegda",
+  "tags": [
+    "secret-wars",
+    "marvel",
+    "dzhonatan-hikman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

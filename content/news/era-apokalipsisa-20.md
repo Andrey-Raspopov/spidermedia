@@ -4,6 +4,13 @@
   "url": "/news/era-apokalipsisa-20/",
   "original_url": "http://spidermedia.ru/news/era-apokalipsisa-20",
   "archived": "https://web.archive.org/web/20260309173212/http://spidermedia.ru/news/era-apokalipsisa-20",
+  "tags": [
+    "era-iks",
+    "majk-keri",
+    "art-0",
+    "x-men",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

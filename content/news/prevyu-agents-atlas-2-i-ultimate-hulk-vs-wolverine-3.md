@@ -4,6 +4,14 @@
   "url": "/news/prevyu-agents-atlas-2-i-ultimate-hulk-vs-wolverine-3/",
   "original_url": "http://spidermedia.ru/news/prevyu-agents-atlas-2-i-ultimate-hulk-vs-wolverine-3",
   "archived": "https://web.archive.org/web/20260214143627/http://spidermedia.ru/news/prevyu-agents-atlas-2-i-ultimate-hulk-vs-wolverine-3",
+  "tags": [
+    "marvel",
+    "hulk",
+    "wolverine",
+    "ultimate",
+    "agenty-atlasa",
+    "preview"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

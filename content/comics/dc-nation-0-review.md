@@ -4,6 +4,15 @@
   "url": "/comics/dc-nation-0-review/",
   "original_url": "https://spidermedia.ru/comics/dc-nation-0-review",
   "archived": "https://web.archive.org/web/20260116215430/https://spidermedia.ru/comics/dc-nation-0-review",
+  "tags": [
+    "dc-comics",
+    "batman",
+    "joker",
+    "justice-league",
+    "skott-snajder",
+    "superman",
+    "tom-king"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

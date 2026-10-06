@@ -4,11 +4,20 @@
   "url": "/news/mzhdz-love-and-rockets/",
   "original_url": "http://spidermedia.ru/news/mzhdz-love-and-rockets",
   "archived": "https://web.archive.org/web/20251106235317/http://spidermedia.ru/news/mzhdz-love-and-rockets",
+  "tags": [
+    "hajme-ernandez",
+    "mnenie",
+    "mzhdz",
+    "gilbert-ernandez",
+    "jaime-hernandez",
+    "gilbert-hernandez",
+    "fantagraphics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](https://web.archive.org/web/20251106235317im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz450.png)](https://web.archive.org/web/20260206215846/http://spidermedia.ru/tags/mzhdz)
+[![](https://web.archive.org/web/20251106235317im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz450.png)](../../tags/mzhdz/)
 ![](https://web.archive.org/web/20251106235317im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/loveandrockets.jpg)
 Про авторов МЖДЗ часто говорят, что они не любят комиксы. Это, конечно, гнусная ложь, комиксы они любят. И вот один из них, из тех, что отдают в музей эталонов, и по которым меряют остальные.
 Братья Хайме и Гилберт Эрнандез (LOS BROS HERNANDEZ) занимаются антологией Love and Rockets уже битых тридцать лет. И все эти годы серия остается одной из лучших и важнейших за всю историю индустрии. Гилберт и Хайме прошли через массу жанров и эпох, не расставаясь со своими вселенными и персонажами, и до сих пор делают самые актуальные комиксы.

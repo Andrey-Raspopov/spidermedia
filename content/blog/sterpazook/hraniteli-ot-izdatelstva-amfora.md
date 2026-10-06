@@ -4,6 +4,10 @@
   "url": "/blog/sterpazook/hraniteli-ot-izdatelstva-amfora/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/hraniteli-ot-izdatelstva-amfora",
   "archived": "https://web.archive.org/web/20220627181718/http://spidermedia.ru/blog/sterpazook/hraniteli-ot-izdatelstva-amfora",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "hraniteli"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

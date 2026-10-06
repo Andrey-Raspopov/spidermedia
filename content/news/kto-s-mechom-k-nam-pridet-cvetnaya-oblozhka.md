@@ -4,6 +4,19 @@
   "url": "/news/kto-s-mechom-k-nam-pridet-cvetnaya-oblozhka/",
   "original_url": "http://spidermedia.ru/news/kto-s-mechom-k-nam-pridet-cvetnaya-oblozhka",
   "archived": "https://web.archive.org/web/20260214142548/http://spidermedia.ru/news/kto-s-mechom-k-nam-pridet-cvetnaya-oblozhka",
+  "tags": [
+    "stiven-sanders",
+    "m.e.ch",
+    "lokhid",
+    "kiron-gillen",
+    "zver",
+    "dzhon-kessedej",
+    "art-0",
+    "abigejl-brend",
+    "s.w.o.r.d",
+    "marvel",
+    "lockheed"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

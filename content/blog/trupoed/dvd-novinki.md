@@ -4,6 +4,10 @@
   "url": "/blog/trupoed/dvd-novinki/",
   "original_url": "http://spidermedia.ru/blog/trupoed/dvd-novinki",
   "archived": "https://web.archive.org/web/20220820000836/http://spidermedia.ru/blog/trupoed/dvd-novinki",
+  "tags": [
+    "animaciya",
+    "dvd"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

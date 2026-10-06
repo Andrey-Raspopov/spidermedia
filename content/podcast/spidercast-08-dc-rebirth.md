@@ -4,6 +4,10 @@
   "url": "/podcast/spidercast-08-dc-rebirth/",
   "original_url": "http://spidermedia.ru/podcast/spidercast-08-dc-rebirth",
   "archived": "https://web.archive.org/web/20260215081900/http://spidermedia.ru/podcast/spidercast-08-dc-rebirth",
+  "tags": [
+    "dc-comics",
+    "spidercast"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

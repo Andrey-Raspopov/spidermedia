@@ -4,6 +4,19 @@
   "url": "/news/prevyu-thor-601/",
   "original_url": "http://spidermedia.ru/news/prevyu-thor-601",
   "archived": "https://web.archive.org/web/20120512073722/http://spidermedia.ru/news/prevyu-thor-601",
+  "tags": [
+    "doctor-doom",
+    "loki",
+    "thor",
+    "dzhey-maykl-strazhinskiy",
+    "doktor-dum",
+    "komiksy",
+    "loki-0",
+    "marvel",
+    "marko-dzhurdzhevich",
+    "preview-s",
+    "tor"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

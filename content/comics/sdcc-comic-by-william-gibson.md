@@ -4,6 +4,10 @@
   "url": "/comics/sdcc-comic-by-william-gibson/",
   "original_url": "http://spidermedia.ru/comics/sdcc-comic-by-william-gibson",
   "archived": "https://web.archive.org/web/20260125061837/http://spidermedia.ru/comics/sdcc-comic-by-william-gibson",
+  "tags": [
+    "idw-publishing",
+    "san-diego-comic-con-international"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

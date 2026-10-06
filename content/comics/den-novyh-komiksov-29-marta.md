@@ -4,6 +4,9 @@
   "url": "/comics/den-novyh-komiksov-29-marta/",
   "original_url": "http://spidermedia.ru/comics/den-novyh-komiksov-29-marta",
   "archived": "https://web.archive.org/web/20251012193831/http://spidermedia.ru/comics/den-novyh-komiksov-29-marta",
+  "tags": [
+    "den-novyh-komiksov"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

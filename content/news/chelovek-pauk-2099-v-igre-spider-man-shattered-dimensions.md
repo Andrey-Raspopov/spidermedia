@@ -4,6 +4,11 @@
   "url": "/news/chelovek-pauk-2099-v-igre-spider-man-shattered-dimensions/",
   "original_url": "http://spidermedia.ru/news/chelovek-pauk-2099-v-igre-spider-man-shattered-dimensions",
   "archived": "https://web.archive.org/web/20260313102234/http://spidermedia.ru/news/chelovek-pauk-2099-v-igre-spider-man-shattered-dimensions",
+  "tags": [
+    "igry",
+    "spider-man-shattered-dimensions",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

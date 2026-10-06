@@ -4,6 +4,14 @@
   "url": "/news/animaciya-planeta-halk/",
   "original_url": "http://spidermedia.ru/news/animaciya-planeta-halk",
   "archived": "https://web.archive.org/web/20260117232019/http://spidermedia.ru/news/animaciya-planeta-halk",
+  "tags": [
+    "animaciya",
+    "hulk",
+    "marvel",
+    "trejlery",
+    "greg-pak",
+    "lionsgate"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

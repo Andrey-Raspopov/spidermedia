@@ -4,6 +4,11 @@
   "url": "/blog/silver/diskoteka-80-yh/",
   "original_url": "http://spidermedia.ru/blog/silver/diskoteka-80-yh",
   "archived": "https://web.archive.org/web/20120610051258/http://spidermedia.ru/blog/silver/diskoteka-80-yh",
+  "tags": [
+    "art-0",
+    "komiksy",
+    "oblozhki"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

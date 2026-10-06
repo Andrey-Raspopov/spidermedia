@@ -4,6 +4,20 @@
   "url": "/news/bryus-ueyn-i-dolgaya-doroga-domoy/",
   "original_url": "http://spidermedia.ru/news/bryus-ueyn-i-dolgaya-doroga-domoy",
   "archived": "https://web.archive.org/web/20260209113654/http://spidermedia.ru/news/bryus-ueyn-i-dolgaya-doroga-domoy",
+  "tags": [
+    "fabian-nicieza",
+    "toni-deniel",
+    "peter-milligan",
+    "devid-finch",
+    "grant-morrison",
+    "tony-daniel",
+    "shane-davis",
+    "return-of-bruce-wayne",
+    "dc-comics",
+    "david-finch",
+    "batman",
+    "shejn-devis"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

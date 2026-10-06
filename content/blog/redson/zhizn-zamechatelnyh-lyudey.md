@@ -4,6 +4,10 @@
   "url": "/blog/redson/zhizn-zamechatelnyh-lyudey/",
   "original_url": "https://spidermedia.ru/blog/redson/zhizn-zamechatelnyh-lyudey",
   "archived": "https://web.archive.org/web/20260125065651/https://spidermedia.ru/blog/redson/zhizn-zamechatelnyh-lyudey",
+  "tags": [
+    "muzyka",
+    "majk-patton"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

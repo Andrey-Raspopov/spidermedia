@@ -4,11 +4,16 @@
   "url": "/blog/redson/all-new-mzhdz-pretty-deadly-0/",
   "original_url": "https://spidermedia.ru/blog/redson/all-new-mzhdz-pretty-deadly-0",
   "archived": "https://web.archive.org/web/20251206153039/https://spidermedia.ru/blog/redson/all-new-mzhdz-pretty-deadly-0",
+  "tags": [
+    "obzor",
+    "mzhdz",
+    "image-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](https://web.archive.org/web/20251206153039im_/http://i.imgur.com/0zaHqKf.jpg "Автор логотипа - Ярослав Астапеев")](https://web.archive.org/web/20260206215846/http://spidermedia.ru/tags/mzhdz)Уже завтра выйдет российское издание комикса [**Pretty Deadly**](https://web.archive.org/web/20251208074609/https://spidermedia.ru/tags/pretty-deadly) от **XL Media**. Мы попытались ответить, почему из всего многообразия интересных современных комиксов выбор издательства пал именно на работу Келли Сью Деконник и Эммы Риос. Комикс для вас прочитали redson, Змеюкина, Undead Groom и Ларош. Мнения слегка разделились.
+[![](https://web.archive.org/web/20251206153039im_/http://i.imgur.com/0zaHqKf.jpg "Автор логотипа - Ярослав Астапеев")](../../../tags/mzhdz/)Уже завтра выйдет российское издание комикса [**Pretty Deadly**](../../../tags/pretty-deadly/) от **XL Media**. Мы попытались ответить, почему из всего многообразия интересных современных комиксов выбор издательства пал именно на работу Келли Сью Деконник и Эммы Риос. Комикс для вас прочитали redson, Змеюкина, Undead Groom и Ларош. Мнения слегка разделились.
 
 ![](https://web.archive.org/web/20251206153039im_/http://i.imgur.com/Z2gKbk8.jpg)
 

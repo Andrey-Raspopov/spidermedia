@@ -4,6 +4,10 @@
   "url": "/blog/redson/free-comic-book-day-kratkiy-obzor/",
   "original_url": "http://spidermedia.ru/blog/redson/free-comic-book-day-kratkiy-obzor",
   "archived": "https://web.archive.org/web/20120718110027/http://spidermedia.ru/blog/redson/free-comic-book-day-kratkiy-obzor",
+  "tags": [
+    "komiksy",
+    "mnenie"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

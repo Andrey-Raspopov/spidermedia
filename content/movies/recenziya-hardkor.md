@@ -4,6 +4,9 @@
   "url": "/movies/recenziya-hardkor/",
   "original_url": "http://spidermedia.ru/movies/recenziya-hardkor",
   "archived": "https://web.archive.org/web/20250120000311/http://spidermedia.ru/movies/recenziya-hardkor",
+  "tags": [
+    "recenziya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

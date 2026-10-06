@@ -4,6 +4,21 @@
   "url": "/movies/captain-america-civil-war-movie-trailer-10-03-2016/",
   "original_url": "http://spidermedia.ru/movies/captain-america-civil-war-movie-trailer-10-03-2016",
   "archived": "https://web.archive.org/web/20260309174715/http://spidermedia.ru/movies/captain-america-civil-war-movie-trailer-10-03-2016",
+  "tags": [
+    "hawkeye",
+    "war-machine",
+    "scarlet-witch",
+    "iron-man",
+    "winter-soldier",
+    "captain-america",
+    "falcon",
+    "ant-man",
+    "black-widow",
+    "black-panther",
+    "marvel",
+    "spider-man",
+    "civil-war"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

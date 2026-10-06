@@ -4,6 +4,12 @@
   "url": "/blog/larosh/obzor-neuyazvimyy-tom-1-0/",
   "original_url": "https://spidermedia.ru/blog/larosh/obzor-neuyazvimyy-tom-1-0",
   "archived": "https://web.archive.org/web/20250717191509/https://spidermedia.ru/blog/larosh/obzor-neuyazvimyy-tom-1-0",
+  "tags": [
+    "izdatelstvo-42",
+    "image-comics",
+    "invincible",
+    "obzor"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

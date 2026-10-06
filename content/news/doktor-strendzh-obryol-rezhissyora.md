@@ -4,6 +4,10 @@
   "url": "/news/doktor-strendzh-obryol-rezhissyora/",
   "original_url": "https://spidermedia.ru/news/doktor-strendzh-obryol-rezhissyora",
   "archived": "https://web.archive.org/web/20241113223411/https://spidermedia.ru/news/doktor-strendzh-obryol-rezhissyora",
+  "tags": [
+    "marvel",
+    "doctor-strange"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

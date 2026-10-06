@@ -4,6 +4,18 @@
   "url": "/news/fall-hulks-fevral-i-mart-2010/",
   "original_url": "https://spidermedia.ru/news/fall-hulks-fevral-i-mart-2010",
   "archived": "https://web.archive.org/web/20260305233447/https://spidermedia.ru/news/fall-hulks-fevral-i-mart-2010",
+  "tags": [
+    "hulk",
+    "marvel",
+    "red-hulk",
+    "rulk",
+    "greg-pak",
+    "dzhef-loeb",
+    "dzheff-parker",
+    "she-hulk",
+    "krasnyj-halk",
+    "ralk"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

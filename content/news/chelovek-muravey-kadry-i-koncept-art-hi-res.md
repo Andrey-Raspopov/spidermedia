@@ -4,6 +4,10 @@
   "url": "/news/chelovek-muravey-kadry-i-koncept-art-hi-res/",
   "original_url": "https://spidermedia.ru/news/chelovek-muravey-kadry-i-koncept-art-hi-res",
   "archived": "https://web.archive.org/web/20260211193122/https://spidermedia.ru/news/chelovek-muravey-kadry-i-koncept-art-hi-res",
+  "tags": [
+    "ant-man",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

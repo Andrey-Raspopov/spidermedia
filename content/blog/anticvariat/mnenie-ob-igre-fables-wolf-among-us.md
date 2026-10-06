@@ -4,6 +4,13 @@
   "url": "/blog/anticvariat/mnenie-ob-igre-fables-wolf-among-us/",
   "original_url": "https://spidermedia.ru/blog/anticvariat/mnenie-ob-igre-fables-wolf-among-us",
   "archived": "https://web.archive.org/web/20260206215240/https://spidermedia.ru/blog/anticvariat/mnenie-ob-igre-fables-wolf-among-us",
+  "tags": [
+    "mnenie",
+    "igry",
+    "vertigo",
+    "fables",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

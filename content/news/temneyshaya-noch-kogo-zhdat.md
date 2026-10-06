@@ -4,6 +4,20 @@
   "url": "/news/temneyshaya-noch-kogo-zhdat/",
   "original_url": "http://spidermedia.ru/news/temneyshaya-noch-kogo-zhdat",
   "archived": "https://web.archive.org/web/20260120150545/http://spidermedia.ru/news/temneyshaya-noch-kogo-zhdat",
+  "tags": [
+    "temnejshaya-noch",
+    "superman",
+    "dag-manke",
+    "ajvan-rejs",
+    "shane-davis",
+    "ivan-reis",
+    "green-lantern",
+    "dc-comics",
+    "blackest-night",
+    "batman",
+    "adam-kubert",
+    "solicitations"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

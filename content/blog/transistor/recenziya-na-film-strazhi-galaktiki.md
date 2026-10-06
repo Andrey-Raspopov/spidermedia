@@ -4,6 +4,11 @@
   "url": "/blog/transistor/recenziya-na-film-strazhi-galaktiki/",
   "original_url": "http://spidermedia.ru/blog/transistor/recenziya-na-film-strazhi-galaktiki",
   "archived": "https://web.archive.org/web/20260314081317/http://spidermedia.ru/blog/transistor/recenziya-na-film-strazhi-galaktiki",
+  "tags": [
+    "guardians-of-the-galaxy",
+    "recenziya",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

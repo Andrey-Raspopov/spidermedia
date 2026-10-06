@@ -4,6 +4,11 @@
   "url": "/blog/saramaga/gumbert-li/",
   "original_url": "http://spidermedia.ru/blog/saramaga/gumbert-li",
   "archived": "https://web.archive.org/web/20251107002404/http://spidermedia.ru/blog/saramaga/gumbert-li",
+  "tags": [
+    "sten-li",
+    "manga",
+    "stan-lee"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/movies/chelovek-muravej-pervyj-trejler-marvel-ant-man-movie-first-trailer/",
   "original_url": "https://spidermedia.ru/movies/chelovek-muravej-pervyj-trejler-marvel-ant-man-movie-first-trailer",
   "archived": "https://web.archive.org/web/20260215082551/https://spidermedia.ru/movies/chelovek-muravej-pervyj-trejler-marvel-ant-man-movie-first-trailer",
+  "tags": [
+    "marvel",
+    "ant-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

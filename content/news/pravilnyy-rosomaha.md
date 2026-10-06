@@ -4,6 +4,10 @@
   "url": "/news/pravilnyy-rosomaha/",
   "original_url": "http://spidermedia.ru/news/pravilnyy-rosomaha",
   "archived": "https://web.archive.org/web/20250804010551/http://spidermedia.ru/news/pravilnyy-rosomaha",
+  "tags": [
+    "wolverine",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

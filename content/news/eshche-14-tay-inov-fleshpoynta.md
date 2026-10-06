@@ -4,6 +4,10 @@
   "url": "/news/eshche-14-tay-inov-fleshpoynta/",
   "original_url": "http://spidermedia.ru/news/eshche-14-tay-inov-fleshpoynta",
   "archived": "https://web.archive.org/web/20240805043114/http://spidermedia.ru/news/eshche-14-tay-inov-fleshpoynta",
+  "tags": [
+    "the-flash",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

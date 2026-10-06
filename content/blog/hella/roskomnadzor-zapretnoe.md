@@ -4,6 +4,11 @@
   "url": "/blog/hella/roskomnadzor-zapretnoe/",
   "original_url": "http://spidermedia.ru/blog/hella/roskomnadzor-zapretnoe",
   "archived": "https://web.archive.org/web/20260123082326/http://spidermedia.ru/blog/hella/roskomnadzor-zapretnoe",
+  "tags": [
+    "russian-comics",
+    "roskomnadzor",
+    "zarubezhnye-komiksy-na-russkom"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

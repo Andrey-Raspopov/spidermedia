@@ -4,6 +4,16 @@
   "url": "/news/avtorskie-komandy-punisher-i-daredevil/",
   "original_url": "https://spidermedia.ru/news/avtorskie-komandy-punisher-i-daredevil",
   "archived": "https://web.archive.org/web/20260309191419/https://spidermedia.ru/news/avtorskie-komandy-punisher-i-daredevil",
+  "tags": [
+    "paolo-rivera",
+    "marko-chekchetto",
+    "daredevil",
+    "greg-rakka",
+    "marvel",
+    "marco-checchetto",
+    "greg-rucka",
+    "punisher"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/movies/civil-war-trailer/",
   "original_url": "http://spidermedia.ru/movies/civil-war-trailer",
   "archived": "https://web.archive.org/web/20250620081529/http://spidermedia.ru/movies/civil-war-trailer",
+  "tags": [
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/news/fox-ekraniziruet-superior-marka-millara/",
   "original_url": "https://spidermedia.ru/news/fox-ekraniziruet-superior-marka-millara",
   "archived": "https://web.archive.org/web/20260211193812/https://spidermedia.ru/news/fox-ekraniziruet-superior-marka-millara",
+  "tags": [
+    "mark-millar",
+    "lejnil-frensis-yu",
+    "superior",
+    "icon-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

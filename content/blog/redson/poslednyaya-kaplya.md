@@ -4,6 +4,11 @@
   "url": "/blog/redson/poslednyaya-kaplya/",
   "original_url": "http://spidermedia.ru/blog/redson/poslednyaya-kaplya",
   "archived": "https://web.archive.org/web/20120607135648/http://spidermedia.ru/blog/redson/poslednyaya-kaplya",
+  "tags": [
+    "bollocks",
+    "komiksy",
+    "marvel"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,16 @@
   "url": "/news/chernoe-prevyu/",
   "original_url": "http://spidermedia.ru/news/chernoe-prevyu",
   "archived": "https://web.archive.org/web/20251116062846/http://spidermedia.ru/news/chernoe-prevyu",
+  "tags": [
+    "blackest-night",
+    "dc-comics",
+    "preview",
+    "temnejshaya-noch",
+    "batman",
+    "peter-j.-tomasi",
+    "piter-tomasi",
+    "green-lantern"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

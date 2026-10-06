@@ -4,6 +4,15 @@
   "url": "/news/voyna-koroli-geroi/",
   "original_url": "http://spidermedia.ru/news/voyna-koroli-geroi",
   "archived": "https://web.archive.org/web/20120607192223/http://spidermedia.ru/news/voyna-koroli-geroi",
+  "tags": [
+    "darkhawk",
+    "war-kings",
+    "art-0",
+    "komiksy",
+    "marvel",
+    "oblozhki",
+    "temnyy-yastreb"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

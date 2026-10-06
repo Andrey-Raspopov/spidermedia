@@ -4,11 +4,16 @@
   "url": "/blog/plane-v/mzhdz-special-daring-one/",
   "original_url": "http://spidermedia.ru/blog/plane-v/mzhdz-special-daring-one",
   "archived": "https://web.archive.org/web/20251117012016/http://spidermedia.ru/blog/plane-v/mzhdz-special-daring-one",
+  "tags": [
+    "mnenie",
+    "mzhdz",
+    "daredevil"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](https://web.archive.org/web/20251117012016im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz516.png)](https://web.archive.org/web/20260206215846/http://spidermedia.ru/tags/mzhdz)
+[![](https://web.archive.org/web/20251117012016im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz516.png)](../../../tags/mzhdz/)
 ![dd](https://web.archive.org/web/20251117012016im_/http://img.photobucket.com/albums/v497/spidermedia/plane_blog/ddaa.jpg)
 Несмотря на то, что неделя комиксов вышла тихая, её сильно украсил **Daredevil #1** – перезапуск прославленной серии от Марка Уэйда и художников Паоло Риверы и Маркоса Мартина. Событие мы сочли столь знаменательным, что решили сделать special treatment: обычные лица плюс специально приглашенная звезда, наш друг из магазина “Чук и Гик” ВЧ, вспоминают былое из истории Сорвиголовы и говорят про новое начало для слепого супергероя.
 

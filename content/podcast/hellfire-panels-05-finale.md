@@ -4,6 +4,10 @@
   "url": "/podcast/hellfire-panels-05-finale/",
   "original_url": "https://spidermedia.ru/podcast/hellfire-panels-05-finale",
   "archived": "https://web.archive.org/web/20251207013007/https://spidermedia.ru/podcast/hellfire-panels-05-finale",
+  "tags": [
+    "panels-of-x",
+    "on-panels"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

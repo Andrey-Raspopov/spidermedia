@@ -4,6 +4,12 @@
   "url": "/news/marvel-stole-mah-book/",
   "original_url": "http://spidermedia.ru/news/marvel-stole-mah-book",
   "archived": "https://web.archive.org/web/20251211022358/http://spidermedia.ru/news/marvel-stole-mah-book",
+  "tags": [
+    "mark-millar",
+    "punisher",
+    "ultimate",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

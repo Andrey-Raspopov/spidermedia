@@ -4,6 +4,14 @@
   "url": "/news/pervyy-treyler-multfilma-son-batman/",
   "original_url": "https://spidermedia.ru/news/pervyy-treyler-multfilma-son-batman",
   "archived": "https://web.archive.org/web/20251206035540/https://spidermedia.ru/news/pervyy-treyler-multfilma-son-batman",
+  "tags": [
+    "desstrouk",
+    "grant-morrison",
+    "animaciya",
+    "deathstroke",
+    "dc-comics",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/blog/sterpazook/set-rogen-zelenyy-kto/",
   "original_url": "https://spidermedia.ru/blog/sterpazook/set-rogen-zelenyy-kto",
   "archived": "https://web.archive.org/web/20250709071119/https://spidermedia.ru/blog/sterpazook/set-rogen-zelenyy-kto",
+  "tags": [
+    "green-lantern",
+    "zelenyj-shershen",
+    "set-rogen",
+    "seth-rogen"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

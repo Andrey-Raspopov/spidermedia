@@ -4,6 +4,10 @@
   "url": "/movies/deadpool-movie-trailer/",
   "original_url": "http://spidermedia.ru/movies/deadpool-movie-trailer",
   "archived": "https://web.archive.org/web/20250208085946/http://spidermedia.ru/movies/deadpool-movie-trailer",
+  "tags": [
+    "marvel",
+    "deadpool"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

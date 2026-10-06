@@ -4,6 +4,10 @@
   "url": "/comics/imaginary-fiends-review/",
   "original_url": "http://spidermedia.ru/comics/imaginary-fiends-review",
   "archived": "https://web.archive.org/web/20260208205551/http://spidermedia.ru/comics/imaginary-fiends-review",
+  "tags": [
+    "vertigo",
+    "tim-sili"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

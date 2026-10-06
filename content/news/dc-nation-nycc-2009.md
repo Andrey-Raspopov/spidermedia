@@ -4,6 +4,20 @@
   "url": "/news/dc-nation-nycc-2009/",
   "original_url": "http://spidermedia.ru/news/dc-nation-nycc-2009",
   "archived": "https://web.archive.org/web/20260125125522/http://spidermedia.ru/news/dc-nation-nycc-2009",
+  "tags": [
+    "dc-comics",
+    "batman",
+    "the-flash",
+    "grant-morrison",
+    "green-lantern",
+    "hawkman",
+    "dan-didio",
+    "geoff-johns",
+    "hal-jordan",
+    "blackest-night",
+    "greg-rakka",
+    "komik-kon-v-nyu-jorke"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

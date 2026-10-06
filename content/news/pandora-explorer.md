@@ -4,6 +4,11 @@
   "url": "/news/pandora-explorer/",
   "original_url": "http://spidermedia.ru/news/pandora-explorer",
   "archived": "https://web.archive.org/web/20240908053816/http://spidermedia.ru/news/pandora-explorer",
+  "tags": [
+    "dc-comics",
+    "rej-fouks",
+    "deniel-sampir"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,15 @@
   "url": "/news/ultimate-universe-konec/",
   "original_url": "http://spidermedia.ru/news/ultimate-universe-konec",
   "archived": "https://web.archive.org/web/20120512062800/http://spidermedia.ru/news/ultimate-universe-konec",
+  "tags": [
+    "ultimate",
+    "ultimate-x-men",
+    "ultimates",
+    "dzhef-loeb",
+    "komiksy",
+    "marvel",
+    "ugadayka"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

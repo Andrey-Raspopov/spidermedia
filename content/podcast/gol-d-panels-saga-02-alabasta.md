@@ -4,6 +4,10 @@
   "url": "/podcast/gol-d-panels-saga-02-alabasta/",
   "original_url": "https://spidermedia.ru/podcast/gol-d-panels-saga-02-alabasta",
   "archived": "https://web.archive.org/web/20260117221137/https://spidermedia.ru/podcast/gol-d-panels-saga-02-alabasta",
+  "tags": [
+    "gold-panels",
+    "on-panels"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/blog/ohotnig/pervyy-eksklyuziv-dlya-blogomedii/",
   "original_url": "http://spidermedia.ru/blog/ohotnig/pervyy-eksklyuziv-dlya-blogomedii",
   "archived": "https://web.archive.org/web/20260125065249/http://spidermedia.ru/blog/ohotnig/pervyy-eksklyuziv-dlya-blogomedii",
+  "tags": [
+    "kartinki",
+    "mad-blade"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

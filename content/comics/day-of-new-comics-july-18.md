@@ -4,6 +4,9 @@
   "url": "/comics/day-of-new-comics-july-18/",
   "original_url": "http://spidermedia.ru/comics/day-of-new-comics-july-18",
   "archived": "https://web.archive.org/web/20200408114649/http://spidermedia.ru:80/comics/day-of-new-comics-july-18",
+  "tags": [
+    "den-novyh-komiksov"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

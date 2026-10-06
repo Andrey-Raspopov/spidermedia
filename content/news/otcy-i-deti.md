@@ -4,6 +4,19 @@
   "url": "/news/otcy-i-deti/",
   "original_url": "https://spidermedia.ru/news/otcy-i-deti",
   "archived": "https://web.archive.org/web/20250121023342/https://spidermedia.ru/news/otcy-i-deti",
+  "tags": [
+    "marvel",
+    "norman-osborn",
+    "avengers",
+    "brian-michael-bendis",
+    "norman-ozborn",
+    "secret-warriors",
+    "phobos",
+    "art-0",
+    "ares",
+    "fobos",
+    "sekretnye-voiny"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

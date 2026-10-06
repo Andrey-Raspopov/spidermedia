@@ -4,6 +4,11 @@
   "url": "/news/hoakin-feniks-na-finalnoy-stadii-peregovorov-s-marvel/",
   "original_url": "http://spidermedia.ru/news/hoakin-feniks-na-finalnoy-stadii-peregovorov-s-marvel",
   "archived": "https://web.archive.org/web/20260313103937/http://spidermedia.ru/news/hoakin-feniks-na-finalnoy-stadii-peregovorov-s-marvel",
+  "tags": [
+    "kasting",
+    "doctor-strange",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

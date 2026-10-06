@@ -4,6 +4,10 @@
   "url": "/movies/fantastic-what/",
   "original_url": "http://spidermedia.ru/movies/fantastic-what",
   "archived": "https://web.archive.org/web/20250717184123/http://spidermedia.ru/movies/fantastic-what",
+  "tags": [
+    "marvel",
+    "fantastic-four"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

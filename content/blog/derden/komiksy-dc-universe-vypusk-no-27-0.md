@@ -4,6 +4,11 @@
   "url": "/blog/derden/komiksy-dc-universe-vypusk-no-27-0/",
   "original_url": "http://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-27-0",
   "archived": "https://web.archive.org/web/20260211180409/http://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-27-0",
+  "tags": [
+    "manhunter",
+    "dc-comics",
+    "dc-universe-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

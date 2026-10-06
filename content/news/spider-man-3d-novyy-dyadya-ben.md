@@ -4,6 +4,10 @@
   "url": "/news/spider-man-3d-novyy-dyadya-ben/",
   "original_url": "http://spidermedia.ru/news/spider-man-3d-novyy-dyadya-ben",
   "archived": "https://web.archive.org/web/20231001064734/http://spidermedia.ru/news/spider-man-3d-novyy-dyadya-ben",
+  "tags": [
+    "marvel",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

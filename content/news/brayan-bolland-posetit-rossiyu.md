@@ -4,6 +4,12 @@
   "url": "/news/brayan-bolland-posetit-rossiyu/",
   "original_url": "https://spidermedia.ru/news/brayan-bolland-posetit-rossiyu",
   "archived": "https://web.archive.org/web/20250121023009/https://spidermedia.ru/news/brayan-bolland-posetit-rossiyu",
+  "tags": [
+    "kommissiya",
+    "brian-bolland",
+    "gorod-grehov",
+    "thor"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

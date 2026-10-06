@@ -4,6 +4,10 @@
   "url": "/news/otryvok-iz-filma-prizrachnyy-gonshchik-duh-mshcheniya/",
   "original_url": "http://spidermedia.ru/news/otryvok-iz-filma-prizrachnyy-gonshchik-duh-mshcheniya",
   "archived": "https://web.archive.org/web/20241205094457/http://spidermedia.ru/news/otryvok-iz-filma-prizrachnyy-gonshchik-duh-mshcheniya",
+  "tags": [
+    "marvel",
+    "prizrachnyj-gonshhik"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

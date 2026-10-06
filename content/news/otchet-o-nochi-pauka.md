@@ -4,6 +4,10 @@
   "url": "/news/otchet-o-nochi-pauka/",
   "original_url": "https://spidermedia.ru/news/otchet-o-nochi-pauka",
   "archived": "https://web.archive.org/web/20250118035854/https://spidermedia.ru/news/otchet-o-nochi-pauka",
+  "tags": [
+    "spider-man",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

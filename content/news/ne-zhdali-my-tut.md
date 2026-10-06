@@ -4,6 +4,13 @@
   "url": "/news/ne-zhdali-my-tut/",
   "original_url": "http://spidermedia.ru/news/ne-zhdali-my-tut",
   "archived": "https://web.archive.org/web/20251115174137/http://spidermedia.ru/news/ne-zhdali-my-tut",
+  "tags": [
+    "marvel",
+    "avengers",
+    "mark-millar",
+    "ultimate",
+    "karlos-pacheko"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

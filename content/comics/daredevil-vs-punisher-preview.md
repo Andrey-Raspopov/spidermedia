@@ -4,6 +4,11 @@
   "url": "/comics/daredevil-vs-punisher-preview/",
   "original_url": "https://spidermedia.ru/comics/daredevil-vs-punisher-preview",
   "archived": "https://web.archive.org/web/20250808200837/https://spidermedia.ru/comics/daredevil-vs-punisher-preview",
+  "tags": [
+    "marvel",
+    "punisher",
+    "daredevil"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/news/den-novyh-komiksov-2-aprelya/",
   "original_url": "http://spidermedia.ru/news/den-novyh-komiksov-2-aprelya",
   "archived": "https://web.archive.org/web/20250121003206/http://spidermedia.ru/news/den-novyh-komiksov-2-aprelya",
+  "tags": [
+    "den-novyh-komiksov"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

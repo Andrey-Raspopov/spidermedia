@@ -4,6 +4,15 @@
   "url": "/news/korotkoy-strokoy/",
   "original_url": "http://spidermedia.ru/news/korotkoy-strokoy",
   "archived": "https://web.archive.org/web/20260309184834/http://spidermedia.ru/news/korotkoy-strokoy",
+  "tags": [
+    "nik-spenser",
+    "mark-millar",
+    "lejnil-frensis-yu",
+    "dzhon-romita-ml",
+    "greg-lend",
+    "art-0",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

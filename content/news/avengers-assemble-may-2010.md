@@ -4,6 +4,12 @@
   "url": "/news/avengers-assemble-may-2010/",
   "original_url": "http://spidermedia.ru/news/avengers-assemble-may-2010",
   "archived": "https://web.archive.org/web/20190515192758/http://spidermedia.ru:80/news/avengers-assemble-may-2010",
+  "tags": [
+    "preview",
+    "marvel",
+    "heroic-age",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

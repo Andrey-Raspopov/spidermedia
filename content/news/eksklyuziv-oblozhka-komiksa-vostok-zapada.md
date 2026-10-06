@@ -4,6 +4,13 @@
   "url": "/news/eksklyuziv-oblozhka-komiksa-vostok-zapada/",
   "original_url": "http://spidermedia.ru/news/eksklyuziv-oblozhka-komiksa-vostok-zapada",
   "archived": "https://web.archive.org/web/20251115183034/http://spidermedia.ru/news/eksklyuziv-oblozhka-komiksa-vostok-zapada",
+  "tags": [
+    "image-comics",
+    "viverra-publishing",
+    "dzhonatan-hikman",
+    "zarubezhnye-komiksy-na-russkom",
+    "nik-dragotta"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

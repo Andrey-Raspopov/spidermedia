@@ -4,6 +4,13 @@
   "url": "/news/ya-ustal-ya-uhozhu/",
   "original_url": "http://spidermedia.ru/news/ya-ustal-ya-uhozhu",
   "archived": "https://web.archive.org/web/20251206031603/http://spidermedia.ru/news/ya-ustal-ya-uhozhu",
+  "tags": [
+    "wonder-woman",
+    "fil-hester",
+    "superman",
+    "kris-roberson",
+    "j-michael-straczynski"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,16 @@
   "url": "/news/super-prostitutka/",
   "original_url": "http://spidermedia.ru/news/super-prostitutka",
   "archived": "https://web.archive.org/web/20260117225716/http://spidermedia.ru/news/super-prostitutka",
+  "tags": [
+    "dzhimmi-palmiotti",
+    "garth-ennis",
+    "animirovannye-komiksy",
+    "animaciya",
+    "the-pro",
+    "motion-comics",
+    "jimmy-palmiotti",
+    "amanda-konner"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

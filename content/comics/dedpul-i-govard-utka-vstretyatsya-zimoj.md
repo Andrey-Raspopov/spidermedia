@@ -4,6 +4,11 @@
   "url": "/comics/dedpul-i-govard-utka-vstretyatsya-zimoj/",
   "original_url": "http://spidermedia.ru/comics/dedpul-i-govard-utka-vstretyatsya-zimoj",
   "archived": "https://web.archive.org/web/20250806052857/http://spidermedia.ru/comics/dedpul-i-govard-utka-vstretyatsya-zimoj",
+  "tags": [
+    "marvel",
+    "deadpool",
+    "utka-govard"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

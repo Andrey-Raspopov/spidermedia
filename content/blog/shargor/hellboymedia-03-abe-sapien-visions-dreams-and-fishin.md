@@ -4,6 +4,10 @@
   "url": "/blog/shargor/hellboymedia-03-abe-sapien-visions-dreams-and-fishin/",
   "original_url": "http://spidermedia.ru/blog/shargor/hellboymedia-03-abe-sapien-visions-dreams-and-fishin",
   "archived": "https://web.archive.org/web/20260115043733/http://spidermedia.ru/blog/shargor/hellboymedia-03-abe-sapien-visions-dreams-and-fishin",
+  "tags": [
+    "hellboymedia",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

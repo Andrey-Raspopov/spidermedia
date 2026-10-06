@@ -4,6 +4,18 @@
   "url": "/news/sdcc10-dc-universe-dc-nation/",
   "original_url": "http://spidermedia.ru/news/sdcc10-dc-universe-dc-nation",
   "archived": "https://web.archive.org/web/20251207001526/http://spidermedia.ru/news/sdcc10-dc-universe-dc-nation",
+  "tags": [
+    "geoff-johns",
+    "grant-morrison",
+    "gejl-simon",
+    "jimmy-olsen",
+    "green-lantern",
+    "gail-simone",
+    "the-flash",
+    "dc-comics",
+    "birds-of-prey",
+    "san-diego-comic-con-international"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

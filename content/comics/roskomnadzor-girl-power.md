@@ -4,6 +4,11 @@
   "url": "/comics/roskomnadzor-girl-power/",
   "original_url": "http://spidermedia.ru/comics/roskomnadzor-girl-power",
   "archived": "https://web.archive.org/web/20251015003655/http://spidermedia.ru/comics/roskomnadzor-girl-power",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "roskomnadzor",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

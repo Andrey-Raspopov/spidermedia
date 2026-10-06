@@ -4,6 +4,12 @@
   "url": "/blog/redson/ya-chitayu-marvel-now-vypusk-4-chelovek-pauk-vysshego-kachestva/",
   "original_url": "https://spidermedia.ru/blog/redson/ya-chitayu-marvel-now-vypusk-4-chelovek-pauk-vysshego-kachestva",
   "archived": "https://web.archive.org/web/20251110224254/https://spidermedia.ru/blog/redson/ya-chitayu-marvel-now-vypusk-4-chelovek-pauk-vysshego-kachestva",
+  "tags": [
+    "mnenie",
+    "marvel",
+    "spider-man",
+    "den-slott"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

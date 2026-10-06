@@ -4,6 +4,11 @@
   "url": "/news/no-one-comic-should-have-all-those-teasers/",
   "original_url": "http://spidermedia.ru/news/no-one-comic-should-have-all-those-teasers",
   "archived": "https://web.archive.org/web/20251006140810/http://spidermedia.ru/news/no-one-comic-should-have-all-those-teasers",
+  "tags": [
+    "kiron-gillen",
+    "dzheymi-makkelvi",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

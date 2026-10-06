@@ -4,6 +4,12 @@
   "url": "/news/liga-blagotvoritelnosti/",
   "original_url": "http://spidermedia.ru/news/liga-blagotvoritelnosti",
   "archived": "https://web.archive.org/web/20251012174618/http://spidermedia.ru/news/liga-blagotvoritelnosti",
+  "tags": [
+    "justice-league",
+    "the-hero-initiative",
+    "100-project",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

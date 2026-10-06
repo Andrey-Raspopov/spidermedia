@@ -4,11 +4,15 @@
   "url": "/blog/redson/all-new-mzhdz-bozhe-blagoslovi-ameriku-0/",
   "original_url": "http://spidermedia.ru/blog/redson/all-new-mzhdz-bozhe-blagoslovi-ameriku-0",
   "archived": "https://web.archive.org/web/20161112213323/http://spidermedia.ru:80/blog/redson/all-new-mzhdz-bozhe-blagoslovi-ameriku-0",
+  "tags": [
+    "mzhdz",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](https://web.archive.org/web/20161112213323im_/http://i.imgur.com/0zaHqKf.jpg "Автор логотипа - Ярослав Астапеев")](https://web.archive.org/web/20260206215846/http://spidermedia.ru/tags/mzhdz)А вот и мы! Я все еще довольно ленив, но собранный мною коллектив продолжает блистать: на этой неделе вы узнаете, имеет ли смысл читать постапокалиптическую мангу **Ibara no Ou**, познакомитесь с весьма самобытным произведением **Britten and Brulightly**, поймете наконец, о чем комикс **Elektra**, увидите степень падения серии **Origin II** и получите еще один важный пункт в списке мастрида по Судье Дредду - **Judge Dredd: America**.
+[![](https://web.archive.org/web/20161112213323im_/http://i.imgur.com/0zaHqKf.jpg "Автор логотипа - Ярослав Астапеев")](../../../tags/mzhdz/)А вот и мы! Я все еще довольно ленив, но собранный мною коллектив продолжает блистать: на этой неделе вы узнаете, имеет ли смысл читать постапокалиптическую мангу **Ibara no Ou**, познакомитесь с весьма самобытным произведением **Britten and Brulightly**, поймете наконец, о чем комикс **Elektra**, увидите степень падения серии **Origin II** и получите еще один важный пункт в списке мастрида по Судье Дредду - **Judge Dredd: America**.
 [![](https://web.archive.org/web/20161112213323im_/http://i.imgur.com/zXrD6pj.jpg)](http://i.imgur.com/zXrD6pj.jpg)
 
 [**Расшифровка системы оценок**](../mzhdz-odin-vy-kak-hotite-ya-kak-hochu/)

@@ -4,6 +4,9 @@
   "url": "/comics/day-of-new-comics-13-dekabrya/",
   "original_url": "http://spidermedia.ru/comics/day-of-new-comics-13-dekabrya",
   "archived": "https://web.archive.org/web/20200130013529/http://spidermedia.ru:80/comics/day-of-new-comics-13-dekabrya",
+  "tags": [
+    "den-novyh-komiksov"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

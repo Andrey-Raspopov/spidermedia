@@ -4,6 +4,9 @@
   "url": "/comics/dc-rebirth-novye-avtorskie-sostavy/",
   "original_url": "http://spidermedia.ru/comics/dc-rebirth-novye-avtorskie-sostavy",
   "archived": "https://web.archive.org/web/20260115052118/http://spidermedia.ru/comics/dc-rebirth-novye-avtorskie-sostavy",
+  "tags": [
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

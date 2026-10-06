@@ -4,6 +4,13 @@
   "url": "/news/dvigateli-very/",
   "original_url": "http://spidermedia.ru/news/dvigateli-very",
   "archived": "https://web.archive.org/web/20190907232042/http://spidermedia.ru:80/news/dvigateli-very",
+  "tags": [
+    "dc-comics",
+    "jsa",
+    "kobra",
+    "erik-trautman",
+    "obshhestvo-spravedlivosti-ameriki"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

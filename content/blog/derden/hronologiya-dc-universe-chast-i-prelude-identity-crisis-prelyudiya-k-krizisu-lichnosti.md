@@ -4,6 +4,9 @@
   "url": "/blog/derden/hronologiya-dc-universe-chast-i-prelude-identity-crisis-prelyudiya-k-krizisu-lichnosti/",
   "original_url": "http://spidermedia.ru/blog/derden/hronologiya-dc-universe-chast-i-prelude-identity-crisis-prelyudiya-k-krizisu-lichnosti",
   "archived": "https://web.archive.org/web/20190915022154/http://spidermedia.ru:80/blog/derden/hronologiya-dc-universe-chast-i-prelude-identity-crisis-prelyudiya-k-krizisu-lichnosti",
+  "tags": [
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

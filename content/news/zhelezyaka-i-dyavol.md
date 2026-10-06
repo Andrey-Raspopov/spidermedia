@@ -4,6 +4,15 @@
   "url": "/news/zhelezyaka-i-dyavol/",
   "original_url": "http://spidermedia.ru/news/zhelezyaka-i-dyavol",
   "archived": "https://web.archive.org/web/20120608010520/http://spidermedia.ru/news/zhelezyaka-i-dyavol",
+  "tags": [
+    "daredevil",
+    "iron-man",
+    "dardevil",
+    "zheleznyy-chelovek",
+    "komiksy",
+    "marvel",
+    "preview-s"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

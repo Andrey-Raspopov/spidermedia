@@ -4,6 +4,10 @@
   "url": "/blog/plane-v/you-magnificent-prophetic-bastard/",
   "original_url": "https://spidermedia.ru/blog/plane-v/you-magnificent-prophetic-bastard",
   "archived": "https://web.archive.org/web/20250806061545/https://spidermedia.ru/blog/plane-v/you-magnificent-prophetic-bastard",
+  "tags": [
+    "alan-mur",
+    "promethea"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

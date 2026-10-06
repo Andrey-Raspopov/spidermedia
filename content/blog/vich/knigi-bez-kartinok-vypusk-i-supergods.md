@@ -4,6 +4,11 @@
   "url": "/blog/vich/knigi-bez-kartinok-vypusk-i-supergods/",
   "original_url": "http://spidermedia.ru/blog/vich/knigi-bez-kartinok-vypusk-i-supergods",
   "archived": "https://web.archive.org/web/20251116072422/http://spidermedia.ru/blog/vich/knigi-bez-kartinok-vypusk-i-supergods",
+  "tags": [
+    "knigi",
+    "grant-morrison",
+    "supergods"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

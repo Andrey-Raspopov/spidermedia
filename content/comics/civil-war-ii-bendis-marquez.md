@@ -4,6 +4,12 @@
   "url": "/comics/civil-war-ii-bendis-marquez/",
   "original_url": "https://spidermedia.ru/comics/civil-war-ii-bendis-marquez",
   "archived": "https://web.archive.org/web/20260120155836/https://spidermedia.ru/comics/civil-war-ii-bendis-marquez",
+  "tags": [
+    "marvel",
+    "iron-man",
+    "captain-america",
+    "civil-war"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

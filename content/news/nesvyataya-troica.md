@@ -4,6 +4,17 @@
   "url": "/news/nesvyataya-troica/",
   "original_url": "http://spidermedia.ru/news/nesvyataya-troica",
   "archived": "https://web.archive.org/web/20260309183406/http://spidermedia.ru/news/nesvyataya-troica",
+  "tags": [
+    "mikel-dzhanin",
+    "justice-league",
+    "dzho-prado",
+    "dzheff-lemir",
+    "geoff-johns",
+    "dag-manke",
+    "ajvan-rejs",
+    "justice-league-dark",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

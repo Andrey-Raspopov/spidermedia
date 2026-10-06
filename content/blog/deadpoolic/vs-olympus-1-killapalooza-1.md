@@ -4,6 +4,9 @@
   "url": "/blog/deadpoolic/vs-olympus-1-killapalooza-1/",
   "original_url": "http://spidermedia.ru/blog/deadpoolic/vs-olympus-1-killapalooza-1",
   "archived": "https://web.archive.org/web/20190718073342/http://spidermedia.ru/blog/deadpoolic/vs-olympus-1-killapalooza-1",
+  "tags": [
+    "image-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

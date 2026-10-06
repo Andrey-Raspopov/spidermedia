@@ -4,6 +4,15 @@
   "url": "/news/zlodeev-boyatsya-v-raft-ne-hodit/",
   "original_url": "https://spidermedia.ru/news/zlodeev-boyatsya-v-raft-ne-hodit",
   "archived": "https://web.archive.org/web/20260123084852/https://spidermedia.ru/news/zlodeev-boyatsya-v-raft-ne-hodit",
+  "tags": [
+    "kristos-gejdzh",
+    "kriskross",
+    "dzheff-parker",
+    "akademiya-mstitelej",
+    "thunderbolts",
+    "marvel",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

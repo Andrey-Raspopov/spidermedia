@@ -4,6 +4,13 @@
   "url": "/news/sdcc-10-gi-joe/",
   "original_url": "http://spidermedia.ru/news/sdcc-10-gi-joe",
   "archived": "https://web.archive.org/web/20260125120034/http://spidermedia.ru/news/sdcc-10-gi-joe",
+  "tags": [
+    "larri-hama",
+    "san-diego-comic-con-international",
+    "devid-lafem",
+    "idw-publishing",
+    "gi-joe"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

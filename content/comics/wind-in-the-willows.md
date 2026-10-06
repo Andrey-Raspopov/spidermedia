@@ -4,6 +4,9 @@
   "url": "/comics/wind-in-the-willows/",
   "original_url": "http://spidermedia.ru/comics/wind-in-the-willows",
   "archived": "https://web.archive.org/web/20200224033007/http://spidermedia.ru:80/comics/wind-in-the-willows",
+  "tags": [
+    "bande-dessinée"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

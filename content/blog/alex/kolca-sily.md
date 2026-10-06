@@ -4,6 +4,13 @@
   "url": "/blog/alex/kolca-sily/",
   "original_url": "https://spidermedia.ru/blog/alex/kolca-sily",
   "archived": "https://web.archive.org/web/20250807214945/https://spidermedia.ru/blog/alex/kolca-sily",
+  "tags": [
+    "dc-comics",
+    "figurki",
+    "green-lantern",
+    "nycc-2009",
+    "blackest-night"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

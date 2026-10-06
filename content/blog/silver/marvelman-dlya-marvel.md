@@ -4,6 +4,15 @@
   "url": "/blog/silver/marvelman-dlya-marvel/",
   "original_url": "http://spidermedia.ru/blog/silver/marvelman-dlya-marvel",
   "archived": "https://web.archive.org/web/20251107032833/http://spidermedia.ru/blog/silver/marvelman-dlya-marvel",
+  "tags": [
+    "neil-gaiman",
+    "marvel",
+    "dzho-kesada",
+    "art-0",
+    "alan-mur",
+    "san-diego-comic-con-international",
+    "marvelman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

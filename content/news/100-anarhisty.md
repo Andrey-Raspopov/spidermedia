@@ -4,6 +4,13 @@
   "url": "/news/100-anarhisty/",
   "original_url": "http://spidermedia.ru/news/100-anarhisty",
   "archived": "https://web.archive.org/web/20260312015431/http://spidermedia.ru/news/100-anarhisty",
+  "tags": [
+    "marvel",
+    "art-0",
+    "dzho-kejsi",
+    "zodiac",
+    "natan-foks"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

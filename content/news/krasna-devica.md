@@ -4,6 +4,13 @@
   "url": "/news/krasna-devica/",
   "original_url": "https://spidermedia.ru/news/krasna-devica",
   "archived": "https://web.archive.org/web/20251208070116/https://spidermedia.ru/news/krasna-devica",
+  "tags": [
+    "san-diego-comic-con-international",
+    "karlo-pagulayan",
+    "dzheff-parker",
+    "vellington-alves",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

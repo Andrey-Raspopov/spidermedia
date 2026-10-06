@@ -4,6 +4,21 @@
   "url": "/news/brand-new-day-may-2010/",
   "original_url": "http://spidermedia.ru/news/brand-new-day-may-2010",
   "archived": "https://web.archive.org/web/20260312015027/http://spidermedia.ru/news/brand-new-day-may-2010",
+  "tags": [
+    "fred-van-lente",
+    "patrik-ollife",
+    "kurt-busiek",
+    "kris-bachalo",
+    "karl-kesel",
+    "zeb-uells",
+    "elena-dzhurdzhevich",
+    "dzhejson-liveskyu",
+    "dzhej-em-demattej",
+    "dag-brejtvejt",
+    "art-0",
+    "marvel",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

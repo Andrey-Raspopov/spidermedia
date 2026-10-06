@@ -4,6 +4,10 @@
   "url": "/blog/naya/evangelion-10-you-are-not-alone/",
   "original_url": "http://spidermedia.ru/blog/naya/evangelion-10-you-are-not-alone",
   "archived": "https://web.archive.org/web/20251107001800/http://spidermedia.ru/blog/naya/evangelion-10-you-are-not-alone",
+  "tags": [
+    "sci-fi",
+    "anime"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

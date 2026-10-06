@@ -4,6 +4,9 @@
   "url": "/movies/cherepashki-nindzya-2-trejler/",
   "original_url": "https://spidermedia.ru/movies/cherepashki-nindzya-2-trejler",
   "archived": "https://web.archive.org/web/20251013191437/https://spidermedia.ru/movies/cherepashki-nindzya-2-trejler",
+  "tags": [
+    "ninja-turtles"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

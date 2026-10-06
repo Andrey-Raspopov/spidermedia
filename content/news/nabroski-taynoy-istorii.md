@@ -4,6 +4,12 @@
   "url": "/news/nabroski-taynoy-istorii/",
   "original_url": "https://spidermedia.ru/news/nabroski-taynoy-istorii",
   "archived": "https://web.archive.org/web/20241011015744/https://spidermedia.ru/news/nabroski-taynoy-istorii",
+  "tags": [
+    "dzhonatan-hikman",
+    "dastin-uiver",
+    "s.h.i.e.l.d",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

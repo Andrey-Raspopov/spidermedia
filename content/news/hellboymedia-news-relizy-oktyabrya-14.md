@@ -4,6 +4,9 @@
   "url": "/news/hellboymedia-news-relizy-oktyabrya-14/",
   "original_url": "http://spidermedia.ru/news/hellboymedia-news-relizy-oktyabrya-14",
   "archived": "https://web.archive.org/web/20260124051802/http://spidermedia.ru/news/hellboymedia-news-relizy-oktyabrya-14",
+  "tags": [
+    "hellboymedia"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

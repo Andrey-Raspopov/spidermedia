@@ -4,6 +4,11 @@
   "url": "/comics/roskomnadzor-summertime-madness/",
   "original_url": "https://spidermedia.ru/comics/roskomnadzor-summertime-madness",
   "archived": "https://web.archive.org/web/20250804011100/https://spidermedia.ru/comics/roskomnadzor-summertime-madness",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "roskomnadzor",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

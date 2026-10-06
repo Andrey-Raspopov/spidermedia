@@ -4,6 +4,11 @@
   "url": "/blog/red-hulk/sandman-popytka-recenzii/",
   "original_url": "http://spidermedia.ru/blog/red-hulk/sandman-popytka-recenzii",
   "archived": "https://web.archive.org/web/20260211084303/http://spidermedia.ru/blog/red-hulk/sandman-popytka-recenzii",
+  "tags": [
+    "neil-gaiman",
+    "vertigo",
+    "neil-gaiman-sandman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

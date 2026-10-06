@@ -4,6 +4,11 @@
   "url": "/news/testovyy-futazh-cheloveka-muravya-ekranka/",
   "original_url": "http://spidermedia.ru/news/testovyy-futazh-cheloveka-muravya-ekranka",
   "archived": "https://web.archive.org/web/20240805032020/http://spidermedia.ru/news/testovyy-futazh-cheloveka-muravya-ekranka",
+  "tags": [
+    "ant-man",
+    "marvel",
+    "fantastic-four"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,14 @@
   "url": "/comics/batman-hush-annotations/",
   "original_url": "http://spidermedia.ru/comics/batman-hush-annotations",
   "archived": "https://web.archive.org/web/20260209110402/http://spidermedia.ru/comics/batman-hush-annotations",
+  "tags": [
+    "dc-comics",
+    "batman",
+    "dzhef-loeb",
+    "jim-lee",
+    "batman-week",
+    "hush"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

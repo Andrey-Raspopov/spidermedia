@@ -4,6 +4,11 @@
   "url": "/news/prevyu-smertelno-prekrasna/",
   "original_url": "https://spidermedia.ru/news/prevyu-smertelno-prekrasna",
   "archived": "https://web.archive.org/web/20251211021006/https://spidermedia.ru/news/prevyu-smertelno-prekrasna",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "xl-media",
+    "pretty-deadly"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

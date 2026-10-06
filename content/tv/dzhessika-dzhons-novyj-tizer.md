@@ -4,6 +4,10 @@
   "url": "/tv/dzhessika-dzhons-novyj-tizer/",
   "original_url": "https://spidermedia.ru/tv/dzhessika-dzhons-novyj-tizer",
   "archived": "https://web.archive.org/web/20251211021637/https://spidermedia.ru/tv/dzhessika-dzhons-novyj-tizer",
+  "tags": [
+    "marvel",
+    "jessica-jones-alias"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

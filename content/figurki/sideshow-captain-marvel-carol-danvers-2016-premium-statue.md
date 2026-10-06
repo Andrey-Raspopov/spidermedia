@@ -4,6 +4,10 @@
   "url": "/figurki/sideshow-captain-marvel-carol-danvers-2016-premium-statue/",
   "original_url": "http://spidermedia.ru/figurki/sideshow-captain-marvel-carol-danvers-2016-premium-statue",
   "archived": "https://web.archive.org/web/20260209123348/http://spidermedia.ru/figurki/sideshow-captain-marvel-carol-danvers-2016-premium-statue",
+  "tags": [
+    "marvel",
+    "captain-marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

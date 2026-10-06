@@ -4,6 +4,13 @@
   "url": "/news/iyul-10-second-coming-x-men/",
   "original_url": "http://spidermedia.ru/news/iyul-10-second-coming-x-men",
   "archived": "https://web.archive.org/web/20251107003317/http://spidermedia.ru/news/iyul-10-second-coming-x-men",
+  "tags": [
+    "relizy",
+    "vampiry",
+    "x-men",
+    "second-coming",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

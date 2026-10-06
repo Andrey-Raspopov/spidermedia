@@ -4,6 +4,11 @@
   "url": "/news/novyy-tv-spot-pervogo-mstitelya-video/",
   "original_url": "http://spidermedia.ru/news/novyy-tv-spot-pervogo-mstitelya-video",
   "archived": "https://web.archive.org/web/20250325091059/http://spidermedia.ru/news/novyy-tv-spot-pervogo-mstitelya-video",
+  "tags": [
+    "trejlery",
+    "marvel",
+    "captain-america"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

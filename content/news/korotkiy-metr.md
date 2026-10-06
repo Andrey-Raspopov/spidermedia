@@ -4,6 +4,9 @@
   "url": "/news/korotkiy-metr/",
   "original_url": "http://spidermedia.ru/news/korotkiy-metr",
   "archived": "https://web.archive.org/web/20240720055729/http://spidermedia.ru/news/korotkiy-metr",
+  "tags": [
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

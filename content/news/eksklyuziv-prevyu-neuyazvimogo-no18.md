@@ -4,6 +4,13 @@
   "url": "/news/eksklyuziv-prevyu-neuyazvimogo-no18/",
   "original_url": "http://spidermedia.ru/news/eksklyuziv-prevyu-neuyazvimogo-no18",
   "archived": "https://web.archive.org/web/20251110225355/http://spidermedia.ru/news/eksklyuziv-prevyu-neuyazvimogo-no18",
+  "tags": [
+    "image-comics",
+    "izdatelstvo-42",
+    "invincible",
+    "preview",
+    "zarubezhnye-komiksy-na-russkom"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/news/epik-epichnyh-epichnostey/",
   "original_url": "http://spidermedia.ru/news/epik-epichnyh-epichnostey",
   "archived": "https://web.archive.org/web/20190929131152/http://spidermedia.ru:80/news/epik-epichnyh-epichnostey",
+  "tags": [
+    "scott-pilgrim"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

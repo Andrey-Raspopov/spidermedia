@@ -4,6 +4,11 @@
   "url": "/comics/paukomiksy-spectacular-spider-man/",
   "original_url": "http://spidermedia.ru/comics/paukomiksy-spectacular-spider-man",
   "archived": "https://web.archive.org/web/20251110224342/http://spidermedia.ru/comics/paukomiksy-spectacular-spider-man",
+  "tags": [
+    "marvel",
+    "spider-week",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

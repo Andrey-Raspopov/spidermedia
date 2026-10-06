@@ -4,6 +4,10 @@
   "url": "/podcast/panels-of-x-07-it-will-be-done/",
   "original_url": "https://spidermedia.ru/podcast/panels-of-x-07-it-will-be-done",
   "archived": "https://web.archive.org/web/20260313112313/https://spidermedia.ru/podcast/panels-of-x-07-it-will-be-done",
+  "tags": [
+    "panels-of-x",
+    "on-panels"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/news/novaya-avtorskaya-komanda-catwoman/",
   "original_url": "https://spidermedia.ru/news/novaya-avtorskaya-komanda-catwoman",
   "archived": "https://web.archive.org/web/20241104201722/https://spidermedia.ru/news/novaya-avtorskaya-komanda-catwoman",
+  "tags": [
+    "zhenshhina-koshka",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

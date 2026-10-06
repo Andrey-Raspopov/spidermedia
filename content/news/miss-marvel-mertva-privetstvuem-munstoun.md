@@ -4,6 +4,13 @@
   "url": "/news/miss-marvel-mertva-privetstvuem-munstoun/",
   "original_url": "http://spidermedia.ru/news/miss-marvel-mertva-privetstvuem-munstoun",
   "archived": "https://web.archive.org/web/20260121010539/http://spidermedia.ru/news/miss-marvel-mertva-privetstvuem-munstoun",
+  "tags": [
+    "marvel",
+    "moonstone",
+    "brajan-rid",
+    "miss-marvel",
+    "munstoun"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

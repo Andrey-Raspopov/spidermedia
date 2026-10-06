@@ -4,6 +4,19 @@
   "url": "/news/vot-teper-betmenu-hana/",
   "original_url": "http://spidermedia.ru/news/vot-teper-betmenu-hana",
   "archived": "https://web.archive.org/web/20260121004750/http://spidermedia.ru/news/vot-teper-betmenu-hana",
+  "tags": [
+    "fil-noto",
+    "toni-deniel",
+    "pingvin",
+    "dvulikij",
+    "betgyorl",
+    "two-face",
+    "tony-daniel",
+    "phil-noto",
+    "penguin",
+    "dc-comics",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

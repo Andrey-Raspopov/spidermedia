@@ -4,6 +4,11 @@
   "url": "/blog/alex/geroi-heroes-s3-ep21-asylum-v-ubezhishche/",
   "original_url": "http://spidermedia.ru/blog/alex/geroi-heroes-s3-ep21-asylum-v-ubezhishche",
   "archived": "https://web.archive.org/web/20150507211942/http://spidermedia.ru/blog/alex/geroi-heroes-s3-ep21-asylum-v-ubezhishche",
+  "tags": [
+    "heroes",
+    "serialy",
+    "geroi"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

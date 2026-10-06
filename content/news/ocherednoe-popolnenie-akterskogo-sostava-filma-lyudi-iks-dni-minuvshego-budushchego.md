@@ -4,6 +4,11 @@
   "url": "/news/ocherednoe-popolnenie-akterskogo-sostava-filma-lyudi-iks-dni-minuvshego-budushchego/",
   "original_url": "http://spidermedia.ru/news/ocherednoe-popolnenie-akterskogo-sostava-filma-lyudi-iks-dni-minuvshego-budushchego",
   "archived": "https://web.archive.org/web/20200119142933/http://spidermedia.ru:80/news/ocherednoe-popolnenie-akterskogo-sostava-filma-lyudi-iks-dni-minuvshego-budushchego",
+  "tags": [
+    "x-men",
+    "days-of-future-past",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

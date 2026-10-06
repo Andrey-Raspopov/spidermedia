@@ -4,6 +4,13 @@
   "url": "/news/treyler-filma-lyudi-iks-dni-minuvshego-budushchego/",
   "original_url": "https://spidermedia.ru/news/treyler-filma-lyudi-iks-dni-minuvshego-budushchego",
   "archived": "https://web.archive.org/web/20251116060458/https://spidermedia.ru/news/treyler-filma-lyudi-iks-dni-minuvshego-budushchego",
+  "tags": [
+    "trejlery",
+    "wolverine",
+    "marvel",
+    "x-men",
+    "days-of-future-past"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

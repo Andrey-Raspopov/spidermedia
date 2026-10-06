@@ -4,6 +4,13 @@
   "url": "/news/betmen-protiv-supermena-pervoe-foto-chudo-zhenshchiy/",
   "original_url": "https://spidermedia.ru/news/betmen-protiv-supermena-pervoe-foto-chudo-zhenshchiy",
   "archived": "https://web.archive.org/web/20251216110946/https://spidermedia.ru/news/betmen-protiv-supermena-pervoe-foto-chudo-zhenshchiy",
+  "tags": [
+    "wonder-woman",
+    "superman",
+    "san-diego-comic-con-international",
+    "batman",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

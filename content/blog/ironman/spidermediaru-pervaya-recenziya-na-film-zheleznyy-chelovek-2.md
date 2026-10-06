@@ -4,6 +4,13 @@
   "url": "/blog/ironman/spidermediaru-pervaya-recenziya-na-film-zheleznyy-chelovek-2/",
   "original_url": "http://spidermedia.ru/blog/ironman/spidermediaru-pervaya-recenziya-na-film-zheleznyy-chelovek-2",
   "archived": "https://web.archive.org/web/20250906073719/http://spidermedia.ru/blog/ironman/spidermediaru-pervaya-recenziya-na-film-zheleznyy-chelovek-2",
+  "tags": [
+    "robert-dauni-ml",
+    "recenziya",
+    "dzhon-favro",
+    "marvel",
+    "iron-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

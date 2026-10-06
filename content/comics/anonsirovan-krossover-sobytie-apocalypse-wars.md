@@ -4,6 +4,11 @@
   "url": "/comics/anonsirovan-krossover-sobytie-apocalypse-wars/",
   "original_url": "http://spidermedia.ru/comics/anonsirovan-krossover-sobytie-apocalypse-wars",
   "archived": "https://web.archive.org/web/20260215081951/http://spidermedia.ru/comics/anonsirovan-krossover-sobytie-apocalypse-wars",
+  "tags": [
+    "marvel",
+    "apokalipsis",
+    "x-men"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

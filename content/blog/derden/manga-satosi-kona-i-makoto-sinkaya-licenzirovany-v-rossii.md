@@ -4,6 +4,12 @@
   "url": "/blog/derden/manga-satosi-kona-i-makoto-sinkaya-licenzirovany-v-rossii/",
   "original_url": "https://spidermedia.ru/blog/derden/manga-satosi-kona-i-makoto-sinkaya-licenzirovany-v-rossii",
   "archived": "https://web.archive.org/web/20251019001157/https://spidermedia.ru/blog/derden/manga-satosi-kona-i-makoto-sinkaya-licenzirovany-v-rossii",
+  "tags": [
+    "satosi-kon",
+    "manga",
+    "makot-sinkaj",
+    "istari-komiks"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

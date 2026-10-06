@@ -4,6 +4,13 @@
   "url": "/news/dve-zheleznye-novinki/",
   "original_url": "https://spidermedia.ru/news/dve-zheleznye-novinki",
   "archived": "https://web.archive.org/web/20260309174748/https://spidermedia.ru/news/dve-zheleznye-novinki",
+  "tags": [
+    "salvador-larroka",
+    "preview",
+    "matt-fraction",
+    "marvel",
+    "iron-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

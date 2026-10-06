@@ -4,6 +4,10 @@
   "url": "/blog/happycake-oven/tragedy/",
   "original_url": "http://spidermedia.ru/blog/happycake-oven/tragedy",
   "archived": "https://web.archive.org/web/20111025192334/http://spidermedia.ru/blog/happycake-oven/tragedy",
+  "tags": [
+    "dc-comics",
+    "judd-winick"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

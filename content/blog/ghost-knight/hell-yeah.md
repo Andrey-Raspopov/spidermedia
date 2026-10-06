@@ -4,6 +4,10 @@
   "url": "/blog/ghost-knight/hell-yeah/",
   "original_url": "http://spidermedia.ru/blog/ghost-knight/hell-yeah",
   "archived": "https://web.archive.org/web/20190918100208/http://spidermedia.ru/blog/ghost-knight/hell-yeah",
+  "tags": [
+    "dc-comics",
+    "blackest-night"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,15 @@
   "url": "/blog/derden/komiksy-dc-universe-vypusk-no-12/",
   "original_url": "http://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-12",
   "archived": "https://web.archive.org/web/20230202183806/http://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-12",
+  "tags": [
+    "dc-universe-comics",
+    "superman",
+    "supergirl",
+    "michael-turner",
+    "jeph-loeb",
+    "dc-comics",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

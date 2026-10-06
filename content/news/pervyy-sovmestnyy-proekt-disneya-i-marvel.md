@@ -4,6 +4,12 @@
   "url": "/news/pervyy-sovmestnyy-proekt-disneya-i-marvel/",
   "original_url": "http://spidermedia.ru/news/pervyy-sovmestnyy-proekt-disneya-i-marvel",
   "archived": "https://web.archive.org/web/20260117214803/http://spidermedia.ru/news/pervyy-sovmestnyy-proekt-disneya-i-marvel",
+  "tags": [
+    "marvel",
+    "animaciya",
+    "big-hero-6",
+    "disnej"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

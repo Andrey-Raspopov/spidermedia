@@ -4,6 +4,10 @@
   "url": "/news/zelenaya-strela/",
   "original_url": "http://spidermedia.ru/news/zelenaya-strela",
   "archived": "https://web.archive.org/web/20260309183341/http://spidermedia.ru/news/zelenaya-strela",
+  "tags": [
+    "dc-comics",
+    "green-arrow"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

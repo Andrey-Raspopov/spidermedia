@@ -4,6 +4,12 @@
   "url": "/blog/igrok/recenziya-na-pilot-seriala-flash/",
   "original_url": "https://spidermedia.ru/blog/igrok/recenziya-na-pilot-seriala-flash",
   "archived": "https://web.archive.org/web/20260305233532/https://spidermedia.ru/blog/igrok/recenziya-na-pilot-seriala-flash",
+  "tags": [
+    "the-flash",
+    "serialy",
+    "mnenie",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

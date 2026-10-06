@@ -4,6 +4,12 @@
   "url": "/blog/oleg89/blogging-fantastic/",
   "original_url": "http://spidermedia.ru/blog/oleg89/blogging-fantastic",
   "archived": "https://web.archive.org/web/20150427040723/http://spidermedia.ru/blog/oleg89/blogging-fantastic",
+  "tags": [
+    "mark-millar",
+    "bryan-hitch",
+    "marvel-comics",
+    "fantastic-four"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

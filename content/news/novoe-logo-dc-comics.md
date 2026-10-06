@@ -4,6 +4,9 @@
   "url": "/news/novoe-logo-dc-comics/",
   "original_url": "http://spidermedia.ru/news/novoe-logo-dc-comics",
   "archived": "https://web.archive.org/web/20150501190129/http://spidermedia.ru/news/novoe-logo-dc-comics",
+  "tags": [
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

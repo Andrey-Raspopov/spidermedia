@@ -4,6 +4,9 @@
   "url": "/comics/manga-review-mujirushi/",
   "original_url": "https://spidermedia.ru/comics/manga-review-mujirushi",
   "archived": "https://web.archive.org/web/20251216114151/https://spidermedia.ru/comics/manga-review-mujirushi",
+  "tags": [
+    "manga"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,15 @@
   "url": "/news/shest-novyh-kadrov-iz-filma-zheleznyy-chelovek-2-bonus/",
   "original_url": "http://spidermedia.ru/news/shest-novyh-kadrov-iz-filma-zheleznyy-chelovek-2-bonus",
   "archived": "https://web.archive.org/web/20140819223730/http://spidermedia.ru:80/news/shest-novyh-kadrov-iz-filma-zheleznyy-chelovek-2-bonus",
+  "tags": [
+    "aleks-ross",
+    "art-0",
+    "dzhon-favro",
+    "iron-man",
+    "movie",
+    "comics",
+    "marvel"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

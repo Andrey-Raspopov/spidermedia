@@ -4,6 +4,10 @@
   "url": "/blog/plane-v/best-2010-3-smotrim-v-budushchee/",
   "original_url": "https://spidermedia.ru/blog/plane-v/best-2010-3-smotrim-v-budushchee",
   "archived": "https://web.archive.org/web/20251115031555/https://spidermedia.ru/blog/plane-v/best-2010-3-smotrim-v-budushchee",
+  "tags": [
+    "kurt-busiek",
+    "brian-azzarello"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

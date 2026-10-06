@@ -4,6 +4,10 @@
   "url": "/blog/redson/chto-stoit-zhdat-4-fevralya-2009-goda/",
   "original_url": "http://spidermedia.ru/blog/redson/chto-stoit-zhdat-4-fevralya-2009-goda",
   "archived": "https://web.archive.org/web/20170827214131/http://spidermedia.ru:80/blog/redson/chto-stoit-zhdat-4-fevralya-2009-goda",
+  "tags": [
+    "mnenie",
+    "chto-stoit-zhdat"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

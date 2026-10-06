@@ -4,6 +4,12 @@
   "url": "/news/millar-trebuet-prodolzheniya/",
   "original_url": "http://spidermedia.ru/news/millar-trebuet-prodolzheniya",
   "archived": "https://web.archive.org/web/20120608170324/http://spidermedia.ru/news/millar-trebuet-prodolzheniya",
+  "tags": [
+    "kick-ass",
+    "kino",
+    "mark-millar",
+    "mettyu-von"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

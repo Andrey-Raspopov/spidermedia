@@ -4,6 +4,10 @@
   "url": "/movies/pervyj-mstitel-protivostoyanie-promo-arty-personazhej-hi-res/",
   "original_url": "https://spidermedia.ru/movies/pervyj-mstitel-protivostoyanie-promo-arty-personazhej-hi-res",
   "archived": "https://web.archive.org/web/20260305225255/https://spidermedia.ru/movies/pervyj-mstitel-protivostoyanie-promo-arty-personazhej-hi-res",
+  "tags": [
+    "marvel",
+    "captain-america"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

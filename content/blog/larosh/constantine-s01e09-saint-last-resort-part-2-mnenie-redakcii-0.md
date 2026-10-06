@@ -4,6 +4,14 @@
   "url": "/blog/larosh/constantine-s01e09-saint-last-resort-part-2-mnenie-redakcii-0/",
   "original_url": "http://spidermedia.ru/blog/larosh/constantine-s01e09-saint-last-resort-part-2-mnenie-redakcii-0",
   "archived": "https://web.archive.org/web/20251206163225/http://spidermedia.ru/blog/larosh/constantine-s01e09-saint-last-resort-part-2-mnenie-redakcii-0",
+  "tags": [
+    "constantine",
+    "dc-comics",
+    "vertigo",
+    "dzhon-konstantin",
+    "obzor",
+    "serialy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

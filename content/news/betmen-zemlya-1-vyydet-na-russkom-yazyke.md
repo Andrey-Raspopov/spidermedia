@@ -4,6 +4,11 @@
   "url": "/news/betmen-zemlya-1-vyydet-na-russkom-yazyke/",
   "original_url": "https://spidermedia.ru/news/betmen-zemlya-1-vyydet-na-russkom-yazyke",
   "archived": "https://web.archive.org/web/20260309184208/https://spidermedia.ru/news/betmen-zemlya-1-vyydet-na-russkom-yazyke",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "batman",
+    "azbuka"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

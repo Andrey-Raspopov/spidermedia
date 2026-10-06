@@ -4,16 +4,20 @@
   "url": "/news/mzhdz-chto-my-prochitali/",
   "original_url": "https://spidermedia.ru/news/mzhdz-chto-my-prochitali",
   "archived": "https://web.archive.org/web/20211017073812/https://spidermedia.ru/news/mzhdz-chto-my-prochitali",
+  "tags": [
+    "mnenie",
+    "mzhdz"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](https://web.archive.org/web/20211017073812im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz.png)](https://web.archive.org/web/20260206215846/http://spidermedia.ru/tags/mzhdz)
+[![](https://web.archive.org/web/20211017073812im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz.png)](../../tags/mzhdz/)
 ![](https://web.archive.org/web/20211017073812im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/louis-ck-pain-chart.jpg)
 via [Vulture](http://www.vulture.com/2012/06/louis-ck-pain-chart.html)
 **Еженедельные обзоры новых комиксов!**
 **В этом выпуске:** Игрок решил посмотреть, как дела у пары понравившихся ему из перезапуска DC серий - **The Flash** и **Aquaman**. Заодно он заметил, что в комиксах про **Человека-Паука** вернулся (кто бы вы подумали) Ящер. Братюня Сонин, как оказалось, тоже читает комиксы, и хочет порекомендовать серию про **Джону Хекса**. Ну а нам с plane_v остались такие неприметные вещи, как **B.P.R.D.**, **Fatale**, **Prophet** и **Scalped**.
-**Внимание!** Если вам нравится МЖДЗ, то прямо тут же по соседству есть два ничуть не менее (а где-то и более) интересных проекта одного из его главных идеологов, plane_v - абсолютно безумный [**Hellblazing**](https://web.archive.org/web/20260312022533/http://spidermedia.ru/tags/hellblazing) и невероятно актуальный [**Number Ones**](../../blog/plane-v/number-ones-komiksy-pro-specnaz/). Очень рекомендую обратить на них ваше внимание.
+**Внимание!** Если вам нравится МЖДЗ, то прямо тут же по соседству есть два ничуть не менее (а где-то и более) интересных проекта одного из его главных идеологов, plane_v - абсолютно безумный [**Hellblazing**](../../tags/hellblazing/) и невероятно актуальный [**Number Ones**](../../blog/plane-v/number-ones-komiksy-pro-specnaz/). Очень рекомендую обратить на них ваше внимание.
 [**Расшифровка системы оценок**](../../blog/redson/mzhdz-odin-vy-kak-hotite-ya-kak-hochu/)
 [**Архив рецензий**](../../blog/redson/mzhdz-arhiv/)
 

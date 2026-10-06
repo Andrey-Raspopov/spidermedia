@@ -4,6 +4,11 @@
   "url": "/comics/tajnye-sokrovishha-gotema-the-hill/",
   "original_url": "http://spidermedia.ru/comics/tajnye-sokrovishha-gotema-the-hill",
   "archived": "https://web.archive.org/web/20251209135052/http://spidermedia.ru/comics/tajnye-sokrovishha-gotema-the-hill",
+  "tags": [
+    "dc-comics",
+    "batman",
+    "batman-week"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

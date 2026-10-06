@@ -4,6 +4,14 @@
   "url": "/blog/silver/retrospektiva-1/",
   "original_url": "http://spidermedia.ru/blog/silver/retrospektiva-1",
   "archived": "https://web.archive.org/web/20220814180405/http://spidermedia.ru/blog/silver/retrospektiva-1",
+  "tags": [
+    "mark-millar",
+    "kris-bachalo",
+    "adam-kubert",
+    "ultimate",
+    "marvel",
+    "colossus"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/comics/marvel-two-in-one-review/",
   "original_url": "http://spidermedia.ru/comics/marvel-two-in-one-review",
   "archived": "https://web.archive.org/web/20250618113442/http://spidermedia.ru/comics/marvel-two-in-one-review",
+  "tags": [
+    "marvel",
+    "dzhim-cheng",
+    "fantastic-four",
+    "chip-zdarski"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

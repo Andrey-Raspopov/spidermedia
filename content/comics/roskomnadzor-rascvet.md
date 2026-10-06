@@ -4,6 +4,11 @@
   "url": "/comics/roskomnadzor-rascvet/",
   "original_url": "https://spidermedia.ru/comics/roskomnadzor-rascvet",
   "archived": "https://web.archive.org/web/20251013183004/https://spidermedia.ru/comics/roskomnadzor-rascvet",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "roskomnadzor",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

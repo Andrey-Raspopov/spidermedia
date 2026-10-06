@@ -4,6 +4,13 @@
   "url": "/news/ultimate-comics-v-iyule-sentyabrya-2010/",
   "original_url": "http://spidermedia.ru/news/ultimate-comics-v-iyule-sentyabrya-2010",
   "archived": "https://web.archive.org/web/20190907234520/http://spidermedia.ru:80/news/ultimate-comics-v-iyule-sentyabrya-2010",
+  "tags": [
+    "ultimates",
+    "avengers",
+    "ultimate",
+    "spider-man",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

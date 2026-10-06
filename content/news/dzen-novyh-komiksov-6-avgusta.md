@@ -4,6 +4,9 @@
   "url": "/news/dzen-novyh-komiksov-6-avgusta/",
   "original_url": "http://spidermedia.ru/news/dzen-novyh-komiksov-6-avgusta",
   "archived": "https://web.archive.org/web/20200127211321/http://spidermedia.ru:80/news/dzen-novyh-komiksov-6-avgusta",
+  "tags": [
+    "den-novyh-komiksov"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

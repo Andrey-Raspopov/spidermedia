@@ -4,6 +4,13 @@
   "url": "/news/rosomaha-i-ego-komandy/",
   "original_url": "http://spidermedia.ru/news/rosomaha-i-ego-komandy",
   "archived": "https://web.archive.org/web/20251108182224/http://spidermedia.ru/news/rosomaha-i-ego-komandy",
+  "tags": [
+    "nik-bredshou",
+    "art-0",
+    "x-men",
+    "marvel",
+    "dejl-kejon"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

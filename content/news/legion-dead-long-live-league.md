@@ -4,6 +4,12 @@
   "url": "/news/legion-dead-long-live-league/",
   "original_url": "http://spidermedia.ru/news/legion-dead-long-live-league",
   "archived": "https://web.archive.org/web/20251012180057/http://spidermedia.ru/news/legion-dead-long-live-league",
+  "tags": [
+    "kit-giffen",
+    "dzhej-em-demattej",
+    "kevin-maguajr",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

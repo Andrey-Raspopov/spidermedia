@@ -4,6 +4,12 @@
   "url": "/blog/gess/what-total-awesomeness/",
   "original_url": "http://spidermedia.ru/blog/gess/what-total-awesomeness",
   "archived": "https://web.archive.org/web/20190820211608/http://spidermedia.ru:80/blog/gess/what-total-awesomeness",
+  "tags": [
+    "recenziya",
+    "bryan-lee-o-malley",
+    "oni-press",
+    "scott-pilgrim"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

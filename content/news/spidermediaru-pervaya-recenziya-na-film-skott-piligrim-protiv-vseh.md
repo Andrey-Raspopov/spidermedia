@@ -4,6 +4,11 @@
   "url": "/news/spidermediaru-pervaya-recenziya-na-film-skott-piligrim-protiv-vseh/",
   "original_url": "http://spidermedia.ru/news/spidermediaru-pervaya-recenziya-na-film-skott-piligrim-protiv-vseh",
   "archived": "https://web.archive.org/web/20190907234117/http://spidermedia.ru:80/news/spidermediaru-pervaya-recenziya-na-film-skott-piligrim-protiv-vseh",
+  "tags": [
+    "scott-pilgrim",
+    "recenziya",
+    "oni-press"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

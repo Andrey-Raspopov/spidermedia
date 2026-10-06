@@ -4,6 +4,10 @@
   "url": "/blog/gess/sale-april/",
   "original_url": "http://spidermedia.ru/blog/gess/sale-april",
   "archived": "https://web.archive.org/web/20190212203105/http://spidermedia.ru:80/blog/gess/sale-april",
+  "tags": [
+    "mnenie",
+    "on-sale-this-week"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/movies/star-wars-quiz/",
   "original_url": "http://spidermedia.ru/movies/star-wars-quiz",
   "archived": "https://web.archive.org/web/20250717180238/http://spidermedia.ru/movies/star-wars-quiz",
+  "tags": [
+    "disney",
+    "zvezdnye-vojny"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

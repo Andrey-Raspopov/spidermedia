@@ -4,6 +4,13 @@
   "url": "/news/prevyu-skrull-kill-krew-1/",
   "original_url": "http://spidermedia.ru/news/prevyu-skrull-kill-krew-1",
   "archived": "https://web.archive.org/web/20120608195933/http://spidermedia.ru/news/prevyu-skrull-kill-krew-1",
+  "tags": [
+    "skrull-kill-krew",
+    "adam-felber",
+    "art-0",
+    "komiksy",
+    "oblozhki"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

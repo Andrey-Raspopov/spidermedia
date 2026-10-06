@@ -4,6 +4,11 @@
   "url": "/news/strazhinski-i-deniels-ekraniziruyut-shedoumena/",
   "original_url": "https://spidermedia.ru/news/strazhinski-i-deniels-ekraniziruyut-shedoumena",
   "archived": "https://web.archive.org/web/20260125060940/https://spidermedia.ru/news/strazhinski-i-deniels-ekraniziruyut-shedoumena",
+  "tags": [
+    "j-michael-straczynski",
+    "valiant-entertainment",
+    "shadowman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

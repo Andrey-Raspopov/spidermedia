@@ -4,6 +4,9 @@
   "url": "/news/shtorm-vo-vremeni/",
   "original_url": "http://spidermedia.ru/news/shtorm-vo-vremeni",
   "archived": "https://web.archive.org/web/20250422035721/http://spidermedia.ru/news/shtorm-vo-vremeni",
+  "tags": [
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

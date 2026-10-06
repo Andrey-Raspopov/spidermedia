@@ -4,6 +4,11 @@
   "url": "/news/wildstorm-universe-authority-v-2010-obnovlenie/",
   "original_url": "http://spidermedia.ru/news/wildstorm-universe-authority-v-2010-obnovlenie",
   "archived": "https://web.archive.org/web/20190923054057/http://spidermedia.ru:80/news/wildstorm-universe-authority-v-2010-obnovlenie",
+  "tags": [
+    "avtoritety",
+    "dc-comics",
+    "authority"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

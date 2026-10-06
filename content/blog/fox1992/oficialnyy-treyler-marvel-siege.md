@@ -4,6 +4,15 @@
   "url": "/blog/fox1992/oficialnyy-treyler-marvel-siege/",
   "original_url": "https://spidermedia.ru/blog/fox1992/oficialnyy-treyler-marvel-siege",
   "archived": "https://web.archive.org/web/20260215083730/https://spidermedia.ru/blog/fox1992/oficialnyy-treyler-marvel-siege",
+  "tags": [
+    "olive-kojpel",
+    "trejlery",
+    "trailer",
+    "siege",
+    "olivier-coipel",
+    "brian-michael-bendis",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

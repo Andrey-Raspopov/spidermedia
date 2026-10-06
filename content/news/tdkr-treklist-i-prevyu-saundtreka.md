@@ -4,6 +4,12 @@
   "url": "/news/tdkr-treklist-i-prevyu-saundtreka/",
   "original_url": "http://spidermedia.ru/news/tdkr-treklist-i-prevyu-saundtreka",
   "archived": "https://web.archive.org/web/20260125121534/http://spidermedia.ru/news/tdkr-treklist-i-prevyu-saundtreka",
+  "tags": [
+    "batman",
+    "dark-knight-rises",
+    "dc-comics",
+    "temnyj-rycar"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

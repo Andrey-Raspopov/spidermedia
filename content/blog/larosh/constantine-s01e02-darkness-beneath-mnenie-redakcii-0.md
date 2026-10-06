@@ -4,6 +4,14 @@
   "url": "/blog/larosh/constantine-s01e02-darkness-beneath-mnenie-redakcii-0/",
   "original_url": "http://spidermedia.ru/blog/larosh/constantine-s01e02-darkness-beneath-mnenie-redakcii-0",
   "archived": "https://web.archive.org/web/20260214135348/http://spidermedia.ru/blog/larosh/constantine-s01e02-darkness-beneath-mnenie-redakcii-0",
+  "tags": [
+    "constantine",
+    "dc-comics",
+    "vertigo",
+    "dzhon-konstantin",
+    "obzor",
+    "serialy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

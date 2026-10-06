@@ -4,6 +4,10 @@
   "url": "/comics/recenziya-dedpul-max/",
   "original_url": "http://spidermedia.ru/comics/recenziya-dedpul-max",
   "archived": "https://web.archive.org/web/20260115044100/http://spidermedia.ru/comics/recenziya-dedpul-max",
+  "tags": [
+    "komilfo",
+    "obzor"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

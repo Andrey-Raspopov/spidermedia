@@ -4,6 +4,9 @@
   "url": "/podcast/spider-talk-18-marvel-hickman-knights/",
   "original_url": "http://spidermedia.ru/podcast/spider-talk-18-marvel-hickman-knights",
   "archived": "https://web.archive.org/web/20251216125252/http://spidermedia.ru/podcast/spider-talk-18-marvel-hickman-knights",
+  "tags": [
+    "spider-talk"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/news/neveroyatnoe-zakrytie/",
   "original_url": "http://spidermedia.ru/news/neveroyatnoe-zakrytie",
   "archived": "https://web.archive.org/web/20250519180220/http://spidermedia.ru/news/neveroyatnoe-zakrytie",
+  "tags": [
+    "pol-pellete",
+    "greg-pak",
+    "marvel",
+    "hulk"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

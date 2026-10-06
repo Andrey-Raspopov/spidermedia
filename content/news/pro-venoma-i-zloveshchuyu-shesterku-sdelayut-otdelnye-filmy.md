@@ -4,6 +4,11 @@
   "url": "/news/pro-venoma-i-zloveshchuyu-shesterku-sdelayut-otdelnye-filmy/",
   "original_url": "https://spidermedia.ru/news/pro-venoma-i-zloveshchuyu-shesterku-sdelayut-otdelnye-filmy",
   "archived": "https://web.archive.org/web/20250715225931/https://spidermedia.ru/news/pro-venoma-i-zloveshchuyu-shesterku-sdelayut-otdelnye-filmy",
+  "tags": [
+    "spider-man",
+    "marvel",
+    "venom"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

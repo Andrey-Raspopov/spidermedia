@@ -4,6 +4,10 @@
   "url": "/comics/sdcc-top-cow/",
   "original_url": "http://spidermedia.ru/comics/sdcc-top-cow",
   "archived": "https://web.archive.org/web/20160426212605/http://spidermedia.ru/comics/sdcc-top-cow",
+  "tags": [
+    "komik-kon-v-san-diego",
+    "top-cow"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

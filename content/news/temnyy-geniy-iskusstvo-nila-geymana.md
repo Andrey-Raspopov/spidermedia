@@ -4,6 +4,9 @@
   "url": "/news/temnyy-geniy-iskusstvo-nila-geymana/",
   "original_url": "https://spidermedia.ru/news/temnyy-geniy-iskusstvo-nila-geymana",
   "archived": "https://web.archive.org/web/20260312005718/https://spidermedia.ru/news/temnyy-geniy-iskusstvo-nila-geymana",
+  "tags": [
+    "neil-gaiman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

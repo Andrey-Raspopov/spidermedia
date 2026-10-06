@@ -4,6 +4,13 @@
   "url": "/news/vtoroy-treyler-novogo-cheloveka-pauka/",
   "original_url": "http://spidermedia.ru/news/vtoroy-treyler-novogo-cheloveka-pauka",
   "archived": "https://web.archive.org/web/20250425230937/http://spidermedia.ru/news/vtoroy-treyler-novogo-cheloveka-pauka",
+  "tags": [
+    "yashher",
+    "trejlery",
+    "spider-man",
+    "marvel",
+    "lizard"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

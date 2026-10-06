@@ -4,6 +4,10 @@
   "url": "/news/iks-23-teper-i-u-vas-doma/",
   "original_url": "https://spidermedia.ru/news/iks-23-teper-i-u-vas-doma",
   "archived": "https://web.archive.org/web/20250906072238/https://spidermedia.ru/news/iks-23-teper-i-u-vas-doma",
+  "tags": [
+    "marvel",
+    "x-23"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

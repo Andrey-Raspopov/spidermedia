@@ -4,6 +4,11 @@
   "url": "/blog/derden/hronologiya-dc-po-versii-krisa-millera-iii-era-nulevogo-chasa-1988-god-0/",
   "original_url": "http://spidermedia.ru/blog/derden/hronologiya-dc-po-versii-krisa-millera-iii-era-nulevogo-chasa-1988-god-0",
   "archived": "https://web.archive.org/web/20241211230427/http://spidermedia.ru/blog/derden/hronologiya-dc-po-versii-krisa-millera-iii-era-nulevogo-chasa-1988-god-0",
+  "tags": [
+    "superman",
+    "dc-comics",
+    "green-arrow"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

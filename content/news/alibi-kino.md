@@ -4,6 +4,9 @@
   "url": "/news/alibi-kino/",
   "original_url": "https://spidermedia.ru/news/alibi-kino",
   "archived": "https://web.archive.org/web/20260121014155/https://spidermedia.ru/news/alibi-kino",
+  "tags": [
+    "top-cow"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

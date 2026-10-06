@@ -4,6 +4,13 @@
   "url": "/news/pervyy-vzglyad-na-komiks-fantomex-max/",
   "original_url": "http://spidermedia.ru/news/pervyy-vzglyad-na-komiks-fantomex-max",
   "archived": "https://web.archive.org/web/20150427195455/http://spidermedia.ru/news/pervyy-vzglyad-na-komiks-fantomex-max",
+  "tags": [
+    "endryu-houp",
+    "shon-kristal",
+    "franchesko-frankavilla",
+    "fantomeks",
+    "marvel-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

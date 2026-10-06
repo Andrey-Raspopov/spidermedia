@@ -4,6 +4,10 @@
   "url": "/news/rosomaha-vse-blizhe-i-blizhe/",
   "original_url": "http://spidermedia.ru/news/rosomaha-vse-blizhe-i-blizhe",
   "archived": "https://web.archive.org/web/20191205174213/http://spidermedia.ru/news/rosomaha-vse-blizhe-i-blizhe",
+  "tags": [
+    "wolverine",
+    "sabretooth"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

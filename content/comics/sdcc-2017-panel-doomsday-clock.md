@@ -4,6 +4,14 @@
   "url": "/comics/sdcc-2017-panel-doomsday-clock/",
   "original_url": "https://spidermedia.ru/comics/sdcc-2017-panel-doomsday-clock",
   "archived": "https://web.archive.org/web/20260214140236/https://spidermedia.ru/comics/sdcc-2017-panel-doomsday-clock",
+  "tags": [
+    "dc-comics",
+    "geoff-johns",
+    "san-diego-comic-con-international",
+    "lex-luthor",
+    "superman",
+    "hraniteli"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

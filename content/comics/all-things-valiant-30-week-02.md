@@ -4,6 +4,9 @@
   "url": "/comics/all-things-valiant-30-week-02/",
   "original_url": "http://spidermedia.ru/comics/all-things-valiant-30-week-02",
   "archived": "https://web.archive.org/web/20260209123608/http://spidermedia.ru/comics/all-things-valiant-30-week-02",
+  "tags": [
+    "valiant-entertainment"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

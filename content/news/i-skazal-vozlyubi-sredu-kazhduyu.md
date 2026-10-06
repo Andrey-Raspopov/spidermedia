@@ -4,6 +4,27 @@
   "url": "/news/i-skazal-vozlyubi-sredu-kazhduyu/",
   "original_url": "http://spidermedia.ru/news/i-skazal-vozlyubi-sredu-kazhduyu",
   "archived": "https://web.archive.org/web/20260313104944/http://spidermedia.ru/news/i-skazal-vozlyubi-sredu-kazhduyu",
+  "tags": [
+    "kurt-byusik",
+    "eduardo-risso",
+    "superman",
+    "rajan-suk",
+    "neil-gaiman",
+    "kajl-bejker",
+    "green-lantern",
+    "zhenshhina-koshka",
+    "dzho-kubert",
+    "dzhimmi-palmiotti",
+    "dejv-bullok",
+    "brian-azzarello",
+    "amanda-konner",
+    "adam-kubert",
+    "metamorpho",
+    "hawkman",
+    "demon",
+    "deadman",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

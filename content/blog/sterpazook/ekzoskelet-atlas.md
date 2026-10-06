@@ -4,6 +4,12 @@
   "url": "/blog/sterpazook/ekzoskelet-atlas/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/ekzoskelet-atlas",
   "archived": "https://web.archive.org/web/20120607124908/http://spidermedia.ru/blog/sterpazook/ekzoskelet-atlas",
+  "tags": [
+    "future",
+    "science",
+    "gadzhety",
+    "nauka"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

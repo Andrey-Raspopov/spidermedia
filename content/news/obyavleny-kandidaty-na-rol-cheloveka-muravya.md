@@ -4,6 +4,11 @@
   "url": "/news/obyavleny-kandidaty-na-rol-cheloveka-muravya/",
   "original_url": "http://spidermedia.ru/news/obyavleny-kandidaty-na-rol-cheloveka-muravya",
   "archived": "https://web.archive.org/web/20150423204428/http://spidermedia.ru/news/obyavleny-kandidaty-na-rol-cheloveka-muravya",
+  "tags": [
+    "chelovek-muravej",
+    "marvel-comics",
+    "kino"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

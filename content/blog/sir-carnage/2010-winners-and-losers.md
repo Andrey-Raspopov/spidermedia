@@ -4,6 +4,9 @@
   "url": "/blog/sir-carnage/2010-winners-and-losers/",
   "original_url": "https://spidermedia.ru/blog/sir-carnage/2010-winners-and-losers",
   "archived": "https://web.archive.org/web/20250217073444/https://spidermedia.ru/blog/sir-carnage/2010-winners-and-losers",
+  "tags": [
+    "itogi-goda"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

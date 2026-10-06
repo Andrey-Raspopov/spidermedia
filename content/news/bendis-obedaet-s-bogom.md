@@ -4,6 +4,15 @@
   "url": "/news/bendis-obedaet-s-bogom/",
   "original_url": "http://spidermedia.ru/news/bendis-obedaet-s-bogom",
   "archived": "https://web.archive.org/web/20260313103612/http://spidermedia.ru/news/bendis-obedaet-s-bogom",
+  "tags": [
+    "ultimate",
+    "stan-lee",
+    "new-avengers",
+    "marvel",
+    "howard-chaykin",
+    "daredevil",
+    "brian-michael-bendis"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

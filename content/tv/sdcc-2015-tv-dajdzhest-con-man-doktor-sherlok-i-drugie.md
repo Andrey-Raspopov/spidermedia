@@ -4,6 +4,10 @@
   "url": "/tv/sdcc-2015-tv-dajdzhest-con-man-doktor-sherlok-i-drugie/",
   "original_url": "http://spidermedia.ru/tv/sdcc-2015-tv-dajdzhest-con-man-doktor-sherlok-i-drugie",
   "archived": "https://web.archive.org/web/20260309184235/http://spidermedia.ru/tv/sdcc-2015-tv-dajdzhest-con-man-doktor-sherlok-i-drugie",
+  "tags": [
+    "doctor-who",
+    "san-diego-comic-con-international"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

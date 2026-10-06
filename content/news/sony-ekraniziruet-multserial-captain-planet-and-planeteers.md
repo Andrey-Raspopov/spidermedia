@@ -4,6 +4,10 @@
   "url": "/news/sony-ekraniziruet-multserial-captain-planet-and-planeteers/",
   "original_url": "http://spidermedia.ru/news/sony-ekraniziruet-multserial-captain-planet-and-planeteers",
   "archived": "https://web.archive.org/web/20200223125833/http://spidermedia.ru:80/news/sony-ekraniziruet-multserial-captain-planet-and-planeteers",
+  "tags": [
+    "supergeroi",
+    "kapitan-planeta"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

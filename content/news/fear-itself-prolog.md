@@ -4,6 +4,19 @@
   "url": "/news/fear-itself-prolog/",
   "original_url": "http://spidermedia.ru/news/fear-itself-prolog",
   "archived": "https://web.archive.org/web/20260313105631/http://spidermedia.ru/news/fear-itself-prolog",
+  "tags": [
+    "ed-brubaker",
+    "skott-iton",
+    "nemor",
+    "marko-dzhurdzhevich",
+    "krasnyj-cherep",
+    "voploshhenie-straha",
+    "art-0",
+    "red-skull",
+    "namor",
+    "marvel",
+    "captain-america"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

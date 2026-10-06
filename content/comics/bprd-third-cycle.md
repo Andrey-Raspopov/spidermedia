@@ -4,6 +4,10 @@
   "url": "/comics/bprd-third-cycle/",
   "original_url": "http://spidermedia.ru/comics/bprd-third-cycle",
   "archived": "https://web.archive.org/web/20260121014854/http://spidermedia.ru/comics/bprd-third-cycle",
+  "tags": [
+    "hellboymedia",
+    "novosti"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

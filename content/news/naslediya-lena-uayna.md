@@ -4,6 +4,18 @@
   "url": "/news/naslediya-lena-uayna/",
   "original_url": "http://spidermedia.ru/news/naslediya-lena-uayna",
   "archived": "https://web.archive.org/web/20251211030246/http://spidermedia.ru/news/naslediya-lena-uayna",
+  "tags": [
+    "len-uin",
+    "intervyu",
+    "dan-didio",
+    "dzho-kubert",
+    "dzhej-dzhi-dzhons",
+    "len-wein",
+    "joe-kubert",
+    "j.-g.-jones",
+    "dc-comics",
+    "endi-kubert"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

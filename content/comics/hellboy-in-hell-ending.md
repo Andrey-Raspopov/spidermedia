@@ -4,11 +4,15 @@
   "url": "/comics/hellboy-in-hell-ending/",
   "original_url": "http://spidermedia.ru/comics/hellboy-in-hell-ending",
   "archived": "https://web.archive.org/web/20250518141252/http://spidermedia.ru/comics/hellboy-in-hell-ending",
+  "tags": [
+    "hellboymedia",
+    "novosti"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-Впервые в рубрике я настолько затягиваю с новостями, но, честно, совсем не хотелось портить праздничное настроение, особенно после завершения [нашего проекта](https://web.archive.org/web/20260306001508/http://spidermedia.ru/tags/mike-mignola-russia). А портить было чем. Например, тем фактом, что серия **Hellboy in Hell** вопреки изначальным планам завершится уже в этом году — последним станет десятый выпуск. А теперь давайте подробнее.
+Впервые в рубрике я настолько затягиваю с новостями, но, честно, совсем не хотелось портить праздничное настроение, особенно после завершения [нашего проекта](../../tags/mike-mignola-russia/). А портить было чем. Например, тем фактом, что серия **Hellboy in Hell** вопреки изначальным планам завершится уже в этом году — последним станет десятый выпуск. А теперь давайте подробнее.
 
 [![](https://web.archive.org/web/20160611203403im_/http://spidermedia.ru/assets/cache/preview/100813/hellboymedia/news/hellboy-in-hell-ending/622x428-00-header.3c1.jpg)](https://spidermedia.ru/assets/images/hellboymedia/news/hellboy-in-hell-ending/00-header.jpg)
 

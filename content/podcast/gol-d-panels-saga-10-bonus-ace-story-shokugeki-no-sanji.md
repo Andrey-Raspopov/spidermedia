@@ -4,6 +4,10 @@
   "url": "/podcast/gol-d-panels-saga-10-bonus-ace-story-shokugeki-no-sanji/",
   "original_url": "https://spidermedia.ru/podcast/gol-d-panels-saga-10-bonus-ace-story-shokugeki-no-sanji",
   "archived": "https://web.archive.org/web/20260305235121/https://spidermedia.ru/podcast/gol-d-panels-saga-10-bonus-ace-story-shokugeki-no-sanji",
+  "tags": [
+    "gold-panels",
+    "on-panels"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

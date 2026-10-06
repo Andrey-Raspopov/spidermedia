@@ -4,6 +4,12 @@
   "url": "/news/lico-vozrozhdeniya-ultimate/",
   "original_url": "http://spidermedia.ru/news/lico-vozrozhdeniya-ultimate",
   "archived": "https://web.archive.org/web/20260313121044/http://spidermedia.ru/news/lico-vozrozhdeniya-ultimate",
+  "tags": [
+    "kaare-endryus",
+    "art-0",
+    "ultimate",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

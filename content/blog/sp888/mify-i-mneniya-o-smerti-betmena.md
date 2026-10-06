@@ -4,6 +4,15 @@
   "url": "/blog/sp888/mify-i-mneniya-o-smerti-betmena/",
   "original_url": "http://spidermedia.ru/blog/sp888/mify-i-mneniya-o-smerti-betmena",
   "archived": "https://web.archive.org/web/20111019063001/http://spidermedia.ru/blog/sp888/mify-i-mneniya-o-smerti-betmena",
+  "tags": [
+    "batman",
+    "battle-cowl",
+    "dc-comics",
+    "jason-todd",
+    "nightwing",
+    "robin",
+    "sluhi"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

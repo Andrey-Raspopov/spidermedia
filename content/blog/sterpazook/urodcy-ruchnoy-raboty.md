@@ -4,6 +4,11 @@
   "url": "/blog/sterpazook/urodcy-ruchnoy-raboty/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/urodcy-ruchnoy-raboty",
   "archived": "https://web.archive.org/web/20210122023358/http://spidermedia.ru/blog/sterpazook/urodcy-ruchnoy-raboty",
+  "tags": [
+    "figurki",
+    "monstry",
+    "monsters"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

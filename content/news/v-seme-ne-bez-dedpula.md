@@ -4,6 +4,12 @@
   "url": "/news/v-seme-ne-bez-dedpula/",
   "original_url": "http://spidermedia.ru/news/v-seme-ne-bez-dedpula",
   "archived": "https://web.archive.org/web/20220813152857/http://spidermedia.ru/news/v-seme-ne-bez-dedpula",
+  "tags": [
+    "deadpool",
+    "dzhejson-pirson",
+    "art-0",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

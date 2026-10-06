@@ -4,6 +4,13 @@
   "url": "/blog/alex/smolvil-smallville-s9-ep1-savior-spasitel/",
   "original_url": "https://spidermedia.ru/blog/alex/smolvil-smallville-s9-ep1-savior-spasitel",
   "archived": "https://web.archive.org/web/20251207005158/https://spidermedia.ru/blog/alex/smolvil-smallville-s9-ep1-savior-spasitel",
+  "tags": [
+    "smallville",
+    "superman",
+    "serialy",
+    "tajny-smollvillya",
+    "smollvill"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

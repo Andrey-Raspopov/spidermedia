@@ -4,6 +4,10 @@
   "url": "/comics/hellboymedia-15-frankenstein-underground/",
   "original_url": "https://spidermedia.ru/comics/hellboymedia-15-frankenstein-underground",
   "archived": "https://web.archive.org/web/20251216120258/https://spidermedia.ru/comics/hellboymedia-15-frankenstein-underground",
+  "tags": [
+    "hellboymedia",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

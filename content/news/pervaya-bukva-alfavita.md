@@ -4,6 +4,10 @@
   "url": "/news/pervaya-bukva-alfavita/",
   "original_url": "http://spidermedia.ru/news/pervaya-bukva-alfavita",
   "archived": "https://web.archive.org/web/20251107002921/http://spidermedia.ru/news/pervaya-bukva-alfavita",
+  "tags": [
+    "marvel",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

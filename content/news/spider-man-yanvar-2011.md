@@ -4,6 +4,10 @@
   "url": "/news/spider-man-yanvar-2011/",
   "original_url": "http://spidermedia.ru/news/spider-man-yanvar-2011",
   "archived": "https://web.archive.org/web/20240416034149/http://spidermedia.ru/news/spider-man-yanvar-2011",
+  "tags": [
+    "art-0",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

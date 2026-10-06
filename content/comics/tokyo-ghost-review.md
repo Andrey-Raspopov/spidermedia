@@ -4,6 +4,11 @@
   "url": "/comics/tokyo-ghost-review/",
   "original_url": "http://spidermedia.ru/comics/tokyo-ghost-review",
   "archived": "https://web.archive.org/web/20220703143423/http://spidermedia.ru/comics/tokyo-ghost-review",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "rik-remender",
+    "shon-gordon-merfi"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

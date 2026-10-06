@@ -4,6 +4,14 @@
   "url": "/news/seryoznyy-skandal/",
   "original_url": "http://spidermedia.ru/news/seryoznyy-skandal",
   "archived": "https://web.archive.org/web/20250519173846/http://spidermedia.ru/news/seryoznyy-skandal",
+  "tags": [
+    "stiv-makniven",
+    "mark-millar",
+    "nemesis",
+    "marvel",
+    "icon-comics",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

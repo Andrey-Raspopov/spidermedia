@@ -4,6 +4,12 @@
   "url": "/blog/bogart/azzquaman/",
   "original_url": "https://spidermedia.ru/blog/bogart/azzquaman",
   "archived": "https://web.archive.org/web/20251216122031/https://spidermedia.ru/blog/bogart/azzquaman",
+  "tags": [
+    "mnenie",
+    "brian-azzarello",
+    "wondercon",
+    "aquaman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

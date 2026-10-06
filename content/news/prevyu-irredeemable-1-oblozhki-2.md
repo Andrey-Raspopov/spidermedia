@@ -4,6 +4,13 @@
   "url": "/news/prevyu-irredeemable-1-oblozhki-2/",
   "original_url": "http://spidermedia.ru/news/prevyu-irredeemable-1-oblozhki-2",
   "archived": "https://web.archive.org/web/20161117183641/http://spidermedia.ru:80/news/prevyu-irredeemable-1-oblozhki-2",
+  "tags": [
+    "mark-waid",
+    "boom-studios",
+    "preview",
+    "art-0",
+    "irredeemable"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

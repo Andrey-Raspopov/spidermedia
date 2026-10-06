@@ -4,6 +4,9 @@
   "url": "/blog/gess/kopy-na-betmobilyah/",
   "original_url": "http://spidermedia.ru/blog/gess/kopy-na-betmobilyah",
   "archived": "https://web.archive.org/web/20111025044840/http://spidermedia.ru/blog/gess/kopy-na-betmobilyah",
+  "tags": [
+    "vneshniy-mir"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

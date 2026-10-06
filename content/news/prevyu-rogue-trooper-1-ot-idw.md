@@ -4,6 +4,12 @@
   "url": "/news/prevyu-rogue-trooper-1-ot-idw/",
   "original_url": "http://spidermedia.ru/news/prevyu-rogue-trooper-1-ot-idw",
   "archived": "https://web.archive.org/web/20260125054920/http://spidermedia.ru/news/prevyu-rogue-trooper-1-ot-idw",
+  "tags": [
+    "preview",
+    "rogue-trooper",
+    "idw-publishing",
+    "2000-ad"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

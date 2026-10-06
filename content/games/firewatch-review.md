@@ -4,6 +4,9 @@
   "url": "/games/firewatch-review/",
   "original_url": "http://spidermedia.ru/games/firewatch-review",
   "archived": "https://web.archive.org/web/20251108185506/http://spidermedia.ru/games/firewatch-review",
+  "tags": [
+    "recenziya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,14 @@
   "url": "/news/prevyu-x-men-origins-wolverine-1/",
   "original_url": "http://spidermedia.ru/news/prevyu-x-men-origins-wolverine-1",
   "archived": "https://web.archive.org/web/20230329040537/http://spidermedia.ru/news/prevyu-x-men-origins-wolverine-1",
+  "tags": [
+    "marvel",
+    "wolverine",
+    "kristofer-jost",
+    "christopher-yost",
+    "mark-teksera",
+    "mark-texiera"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

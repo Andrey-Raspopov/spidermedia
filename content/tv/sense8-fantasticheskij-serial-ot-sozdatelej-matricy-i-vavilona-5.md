@@ -4,6 +4,9 @@
   "url": "/tv/sense8-fantasticheskij-serial-ot-sozdatelej-matricy-i-vavilona-5/",
   "original_url": "http://spidermedia.ru/tv/sense8-fantasticheskij-serial-ot-sozdatelej-matricy-i-vavilona-5",
   "archived": "https://web.archive.org/web/20251209145205/http://spidermedia.ru/tv/sense8-fantasticheskij-serial-ot-sozdatelej-matricy-i-vavilona-5",
+  "tags": [
+    "j-michael-straczynski"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

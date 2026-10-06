@@ -4,6 +4,15 @@
   "url": "/news/r-r-rosomahi/",
   "original_url": "http://spidermedia.ru/news/r-r-rosomahi",
   "archived": "https://web.archive.org/web/20120607153942/http://spidermedia.ru/news/r-r-rosomahi",
+  "tags": [
+    "skrull-kill-krew",
+    "wolverine",
+    "art-0",
+    "komiksy",
+    "oblozhki",
+    "rosomaha",
+    "skrull-kil-kryu"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

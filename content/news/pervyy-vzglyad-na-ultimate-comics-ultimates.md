@@ -4,6 +4,14 @@
   "url": "/news/pervyy-vzglyad-na-ultimate-comics-ultimates/",
   "original_url": "https://spidermedia.ru/news/pervyy-vzglyad-na-ultimate-comics-ultimates",
   "archived": "https://web.archive.org/web/20260313105343/https://spidermedia.ru/news/pervyy-vzglyad-na-ultimate-comics-ultimates",
+  "tags": [
+    "esad-ribich",
+    "kaare-endryus",
+    "dzhonatan-hikman",
+    "ultimates",
+    "ultimate",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

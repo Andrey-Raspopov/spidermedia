@@ -4,6 +4,14 @@
   "url": "/news/treyler-zelenogo-fonarya/",
   "original_url": "https://spidermedia.ru/news/treyler-zelenogo-fonarya",
   "archived": "https://web.archive.org/web/20260211182625/https://spidermedia.ru/news/treyler-zelenogo-fonarya",
+  "tags": [
+    "trejlery",
+    "skrinshoty",
+    "postery",
+    "art-0",
+    "green-lantern",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

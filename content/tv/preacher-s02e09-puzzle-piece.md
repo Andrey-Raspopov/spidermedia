@@ -4,6 +4,10 @@
   "url": "/tv/preacher-s02e09-puzzle-piece/",
   "original_url": "https://spidermedia.ru/tv/preacher-s02e09-puzzle-piece",
   "archived": "https://web.archive.org/web/20251205123304/https://spidermedia.ru/tv/preacher-s02e09-puzzle-piece",
+  "tags": [
+    "vertigo",
+    "preacher"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/news/strazhi-galaktiki-poster-s-gamoroy/",
   "original_url": "https://spidermedia.ru/news/strazhi-galaktiki-poster-s-gamoroy",
   "archived": "https://web.archive.org/web/20251110225321/https://spidermedia.ru/news/strazhi-galaktiki-poster-s-gamoroy",
+  "tags": [
+    "guardians-of-the-galaxy",
+    "postery",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

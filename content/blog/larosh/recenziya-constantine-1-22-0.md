@@ -4,6 +4,15 @@
   "url": "/blog/larosh/recenziya-constantine-1-22-0/",
   "original_url": "http://spidermedia.ru/blog/larosh/recenziya-constantine-1-22-0",
   "archived": "https://web.archive.org/web/20260214131950/http://spidermedia.ru/blog/larosh/recenziya-constantine-1-22-0",
+  "tags": [
+    "rej-fouks",
+    "recenziya",
+    "peter-milligan",
+    "dzhon-konstantin",
+    "dzheff-lemir",
+    "dc-comics",
+    "constantine"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

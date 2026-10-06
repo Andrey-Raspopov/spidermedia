@@ -4,6 +4,14 @@
   "url": "/news/prevyu-avengers-initiative-23/",
   "original_url": "http://spidermedia.ru/news/prevyu-avengers-initiative-23",
   "archived": "https://web.archive.org/web/20251208080441/http://spidermedia.ru/news/prevyu-avengers-initiative-23",
+  "tags": [
+    "marvel",
+    "umberto-ramos",
+    "preview",
+    "kristos-gejdzh",
+    "the-initiative",
+    "iniciativa"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/blog/silver/luchshiy-biznesss-plan/",
   "original_url": "http://spidermedia.ru/blog/silver/luchshiy-biznesss-plan",
   "archived": "https://web.archive.org/web/20120611011908/http://spidermedia.ru/blog/silver/luchshiy-biznesss-plan",
+  "tags": [
+    "bred",
+    "komiksy"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

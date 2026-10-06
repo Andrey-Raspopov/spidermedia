@@ -4,6 +4,10 @@
   "url": "/blog/alex/geroi-heroes-s3-ep16-zdanie-26-building-26/",
   "original_url": "http://spidermedia.ru/blog/alex/geroi-heroes-s3-ep16-zdanie-26-building-26",
   "archived": "https://web.archive.org/web/20201028171126/http://spidermedia.ru/blog/alex/geroi-heroes-s3-ep16-zdanie-26-building-26",
+  "tags": [
+    "serialy",
+    "heroes"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

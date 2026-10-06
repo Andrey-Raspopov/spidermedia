@@ -4,6 +4,15 @@
   "url": "/news/novosti-marvel-fevral/",
   "original_url": "https://spidermedia.ru/news/novosti-marvel-fevral",
   "archived": "https://web.archive.org/web/20250217072641/https://spidermedia.ru/news/novosti-marvel-fevral",
+  "tags": [
+    "erik-nguen",
+    "fred-van-lente",
+    "piter-devid",
+    "spider-woman",
+    "marvel",
+    "iron-man",
+    "halo"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

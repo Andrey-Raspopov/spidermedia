@@ -4,6 +4,17 @@
   "url": "/news/pervyy-big-shot/",
   "original_url": "http://spidermedia.ru/news/pervyy-big-shot",
   "archived": "https://web.archive.org/web/20251205123533/http://spidermedia.ru/news/pervyy-big-shot",
+  "tags": [
+    "umberto-ramos",
+    "preview",
+    "mark-teksejra",
+    "moon-knight",
+    "bryan-hitch",
+    "brian-michael-bendis",
+    "art-0",
+    "alex-maleev",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

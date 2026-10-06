@@ -4,6 +4,10 @@
   "url": "/podcast/x-of-panels-09-last-stand/",
   "original_url": "https://spidermedia.ru/podcast/x-of-panels-09-last-stand",
   "archived": "https://web.archive.org/web/20260312005847/https://spidermedia.ru/podcast/x-of-panels-09-last-stand",
+  "tags": [
+    "panels-of-x",
+    "on-panels"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

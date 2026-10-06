@@ -4,6 +4,13 @@
   "url": "/blog/baka-chan/long-live-legion/",
   "original_url": "http://spidermedia.ru/blog/baka-chan/long-live-legion",
   "archived": "https://web.archive.org/web/20260306001538/http://spidermedia.ru/blog/baka-chan/long-live-legion",
+  "tags": [
+    "dc-comics",
+    "legion-super-geroev",
+    "superboj",
+    "paul-levitz",
+    "geoff-johns"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/comics/sdcc-2015-krossover-betmena-i-mstitelej-i-drugie-anonsy-dc-comics/",
   "original_url": "https://spidermedia.ru/comics/sdcc-2015-krossover-betmena-i-mstitelej-i-drugie-anonsy-dc-comics",
   "archived": "https://web.archive.org/web/20260308235127/https://spidermedia.ru/comics/sdcc-2015-krossover-betmena-i-mstitelej-i-drugie-anonsy-dc-comics",
+  "tags": [
+    "dc-comics",
+    "aquaman",
+    "the-flash",
+    "san-diego-comic-con-international"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

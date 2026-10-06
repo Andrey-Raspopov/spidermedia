@@ -4,6 +4,9 @@
   "url": "/movies/ninja-turtles-out-of-the-shadows-review/",
   "original_url": "https://spidermedia.ru/movies/ninja-turtles-out-of-the-shadows-review",
   "archived": "https://web.archive.org/web/20260309175910/https://spidermedia.ru/movies/ninja-turtles-out-of-the-shadows-review",
+  "tags": [
+    "ninja-turtles"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

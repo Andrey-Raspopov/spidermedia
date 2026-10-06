@@ -4,6 +4,12 @@
   "url": "/news/zagadka-bendisa/",
   "original_url": "https://spidermedia.ru/news/zagadka-bendisa",
   "archived": "https://web.archive.org/web/20251206162137/https://spidermedia.ru/news/zagadka-bendisa",
+  "tags": [
+    "rafa-sendoval",
+    "brian-michael-bendis",
+    "ultimate",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

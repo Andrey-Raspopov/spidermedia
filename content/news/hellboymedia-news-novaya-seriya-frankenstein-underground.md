@@ -4,6 +4,10 @@
   "url": "/news/hellboymedia-news-novaya-seriya-frankenstein-underground/",
   "original_url": "https://spidermedia.ru/news/hellboymedia-news-novaya-seriya-frankenstein-underground",
   "archived": "https://web.archive.org/web/20260313121020/https://spidermedia.ru/news/hellboymedia-news-novaya-seriya-frankenstein-underground",
+  "tags": [
+    "novosti",
+    "hellboymedia"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

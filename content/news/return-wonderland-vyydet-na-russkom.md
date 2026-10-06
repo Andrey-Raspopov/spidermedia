@@ -4,6 +4,11 @@
   "url": "/news/return-wonderland-vyydet-na-russkom/",
   "original_url": "http://spidermedia.ru/news/return-wonderland-vyydet-na-russkom",
   "archived": "https://web.archive.org/web/20191018131638/http://spidermedia.ru/news/return-wonderland-vyydet-na-russkom",
+  "tags": [
+    "lavka-komiksov-apelsin",
+    "zarubezhnye-komiksy-na-russkom",
+    "zenescope-entertainment"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

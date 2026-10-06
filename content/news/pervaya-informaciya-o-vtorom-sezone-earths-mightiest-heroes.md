@@ -4,6 +4,11 @@
   "url": "/news/pervaya-informaciya-o-vtorom-sezone-earths-mightiest-heroes/",
   "original_url": "http://spidermedia.ru/news/pervaya-informaciya-o-vtorom-sezone-earths-mightiest-heroes",
   "archived": "https://web.archive.org/web/20260124051231/http://spidermedia.ru/news/pervaya-informaciya-o-vtorom-sezone-earths-mightiest-heroes",
+  "tags": [
+    "animaciya",
+    "marvel",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

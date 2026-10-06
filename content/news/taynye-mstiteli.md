@@ -4,6 +4,11 @@
   "url": "/news/taynye-mstiteli/",
   "original_url": "http://spidermedia.ru/news/taynye-mstiteli",
   "archived": "https://web.archive.org/web/20170923191435/http://spidermedia.ru:80/news/taynye-mstiteli",
+  "tags": [
+    "marvel",
+    "avengers",
+    "dzhim-cheng"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/news/edvin-dzharvis-poyavitsya-v-agente-karter/",
   "original_url": "http://spidermedia.ru/news/edvin-dzharvis-poyavitsya-v-agente-karter",
   "archived": "https://web.archive.org/web/20250519172907/http://spidermedia.ru/news/edvin-dzharvis-poyavitsya-v-agente-karter",
+  "tags": [
+    "agent-karter",
+    "kasting",
+    "serialy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

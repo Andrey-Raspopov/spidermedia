@@ -4,6 +4,12 @@
   "url": "/blog/gess/derdevil-alana-mura/",
   "original_url": "https://spidermedia.ru/blog/gess/derdevil-alana-mura",
   "archived": "https://web.archive.org/web/20250424091326/https://spidermedia.ru/blog/gess/derdevil-alana-mura",
+  "tags": [
+    "yumor",
+    "frenk-miller",
+    "alan-mur",
+    "daredevil"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

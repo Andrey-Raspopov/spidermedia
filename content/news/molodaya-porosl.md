@@ -4,6 +4,12 @@
   "url": "/news/molodaya-porosl/",
   "original_url": "https://spidermedia.ru/news/molodaya-porosl",
   "archived": "https://web.archive.org/web/20250210034546/https://spidermedia.ru/news/molodaya-porosl",
+  "tags": [
+    "robert-kirkman",
+    "image-comics",
+    "skybound",
+    "witch-doctor"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

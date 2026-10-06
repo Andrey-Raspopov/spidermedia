@@ -4,6 +4,11 @@
   "url": "/news/v-rossii-izdadut-komiks-izdatelstva-valiant-rai/",
   "original_url": "https://spidermedia.ru/news/v-rossii-izdadut-komiks-izdatelstva-valiant-rai",
   "archived": "https://web.archive.org/web/20260125063330/https://spidermedia.ru/news/v-rossii-izdadut-komiks-izdatelstva-valiant-rai",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "viverra-publishing",
+    "valiant-entertainment"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

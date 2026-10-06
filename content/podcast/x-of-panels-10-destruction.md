@@ -4,6 +4,10 @@
   "url": "/podcast/x-of-panels-10-destruction/",
   "original_url": "http://spidermedia.ru/podcast/x-of-panels-10-destruction",
   "archived": "https://web.archive.org/web/20260211183301/http://spidermedia.ru/podcast/x-of-panels-10-destruction",
+  "tags": [
+    "panels-of-x",
+    "on-panels"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

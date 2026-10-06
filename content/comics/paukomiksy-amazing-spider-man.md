@@ -4,6 +4,11 @@
   "url": "/comics/paukomiksy-amazing-spider-man/",
   "original_url": "http://spidermedia.ru/comics/paukomiksy-amazing-spider-man",
   "archived": "https://web.archive.org/web/20260206223840/http://spidermedia.ru/comics/paukomiksy-amazing-spider-man",
+  "tags": [
+    "marvel",
+    "spider-week",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

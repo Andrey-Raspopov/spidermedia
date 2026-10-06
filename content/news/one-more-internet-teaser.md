@@ -4,6 +4,11 @@
   "url": "/news/one-more-internet-teaser/",
   "original_url": "https://spidermedia.ru/news/one-more-internet-teaser",
   "archived": "https://web.archive.org/web/20260215071740/https://spidermedia.ru/news/one-more-internet-teaser",
+  "tags": [
+    "paolo-rivera",
+    "marvel",
+    "dzho-kesada"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

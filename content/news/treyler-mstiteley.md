@@ -4,6 +4,18 @@
   "url": "/news/treyler-mstiteley/",
   "original_url": "https://spidermedia.ru/news/treyler-mstiteley",
   "archived": "https://web.archive.org/web/20260312022537/https://spidermedia.ru/news/treyler-mstiteley",
+  "tags": [
+    "black-widow",
+    "thor",
+    "marvel",
+    "ultimate",
+    "nick-fury",
+    "iron-man",
+    "hulk",
+    "hawkeye",
+    "captain-america",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

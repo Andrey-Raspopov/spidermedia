@@ -4,6 +4,12 @@
   "url": "/comics/sdcc-2017-young-animal-dc/",
   "original_url": "https://spidermedia.ru/comics/sdcc-2017-young-animal-dc",
   "archived": "https://web.archive.org/web/20260117232638/https://spidermedia.ru/comics/sdcc-2017-young-animal-dc",
+  "tags": [
+    "dc-comics",
+    "dzherard-vej",
+    "san-diego-comic-con-international",
+    "justice-league"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

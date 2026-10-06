@@ -4,6 +4,17 @@
   "url": "/news/kuem-zhelezo/",
   "original_url": "http://spidermedia.ru/news/kuem-zhelezo",
   "archived": "https://web.archive.org/web/20251207093622/http://spidermedia.ru/news/kuem-zhelezo",
+  "tags": [
+    "zheleznyj-patriot",
+    "marvel",
+    "art-0",
+    "devid-finch",
+    "brian-michael-bendis",
+    "iron-patriot",
+    "doctor-doom",
+    "doktor-dum",
+    "majkl-lark"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

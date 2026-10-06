@@ -4,6 +4,15 @@
   "url": "/news/troynoy-effekt/",
   "original_url": "http://spidermedia.ru/news/troynoy-effekt",
   "archived": "https://web.archive.org/web/20251207002031/http://spidermedia.ru/news/troynoy-effekt",
+  "tags": [
+    "punisher",
+    "daredevil",
+    "spider-man",
+    "mark-waid",
+    "greg-rakka",
+    "marko-chekchetto",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/movies/goddamn-deadpool-movie-review/",
   "original_url": "https://spidermedia.ru/movies/goddamn-deadpool-movie-review",
   "archived": "https://web.archive.org/web/20260309180825/https://spidermedia.ru/movies/goddamn-deadpool-movie-review",
+  "tags": [
+    "marvel",
+    "deadpool",
+    "recenziya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

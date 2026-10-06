@@ -4,6 +4,10 @@
   "url": "/blog/vch/o-tom-chto-pishut-o-komiksah-v-runete-ili-zachem-tebe-spaydermediya/",
   "original_url": "http://spidermedia.ru/blog/vch/o-tom-chto-pishut-o-komiksah-v-runete-ili-zachem-tebe-spaydermediya",
   "archived": "https://web.archive.org/web/20160305222335/http://spidermedia.ru/blog/vch/o-tom-chto-pishut-o-komiksah-v-runete-ili-zachem-tebe-spaydermediya",
+  "tags": [
+    "internety",
+    "analitika"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

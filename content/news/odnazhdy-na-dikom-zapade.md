@@ -4,6 +4,12 @@
   "url": "/news/odnazhdy-na-dikom-zapade/",
   "original_url": "http://spidermedia.ru/news/odnazhdy-na-dikom-zapade",
   "archived": "https://web.archive.org/web/20251211031936/http://spidermedia.ru/news/odnazhdy-na-dikom-zapade",
+  "tags": [
+    "endi-diggl",
+    "david-zhanfeliche",
+    "six-guns",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

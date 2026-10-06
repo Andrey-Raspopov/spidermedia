@@ -4,6 +4,10 @@
   "url": "/blog/tanya-chirsex/",
   "original_url": "http://spidermedia.ru/blog/tanya-chirsex",
   "archived": "https://web.archive.org/web/20130619122608/http://spidermedia.ru/blog/tanya-chirsex",
+  "tags": [
+    "kino",
+    "recenziya"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/movies/filmu-pro-venoma-byt/",
   "original_url": "https://spidermedia.ru/movies/filmu-pro-venoma-byt",
   "archived": "https://web.archive.org/web/20241106115237/https://spidermedia.ru/movies/filmu-pro-venoma-byt",
+  "tags": [
+    "marvel",
+    "venom"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

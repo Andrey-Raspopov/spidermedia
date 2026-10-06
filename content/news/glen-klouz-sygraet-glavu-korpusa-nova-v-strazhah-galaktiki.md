@@ -4,6 +4,10 @@
   "url": "/news/glen-klouz-sygraet-glavu-korpusa-nova-v-strazhah-galaktiki/",
   "original_url": "http://spidermedia.ru/news/glen-klouz-sygraet-glavu-korpusa-nova-v-strazhah-galaktiki",
   "archived": "https://web.archive.org/web/20241011020708/http://spidermedia.ru/news/glen-klouz-sygraet-glavu-korpusa-nova-v-strazhah-galaktiki",
+  "tags": [
+    "marvel",
+    "guardians-of-the-galaxy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

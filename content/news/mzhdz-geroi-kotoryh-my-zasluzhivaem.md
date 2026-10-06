@@ -4,16 +4,20 @@
   "url": "/news/mzhdz-geroi-kotoryh-my-zasluzhivaem/",
   "original_url": "http://spidermedia.ru/news/mzhdz-geroi-kotoryh-my-zasluzhivaem",
   "archived": "https://web.archive.org/web/20251107175904/http://spidermedia.ru/news/mzhdz-geroi-kotoryh-my-zasluzhivaem",
+  "tags": [
+    "mzhdz",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](https://web.archive.org/web/20251107175904im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz.png)](https://web.archive.org/web/20260206215846/http://spidermedia.ru/tags/mzhdz)
+[![](https://web.archive.org/web/20251107175904im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz.png)](../../tags/mzhdz/)
 ![](https://web.archive.org/web/20251107175904im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/batman_law_order_desktop_1280x800_hd-wallpaper-522314.jpg)
 (да, я знаю, что баян, но почему нет)
 **Еженедельные обзоры новых комиксов!**
 **В этом выпуске:** Batman: Earth One будет разобран по косточкам, комикс Чайны Мьевиля наконец попадет и в МЖДЗ, будет вообще много комиксов с ну очень хорошим рисунком, а ради текста про AVX придется нарушить вечную традицию, когда все по алфавиту, потому что таким только заканчивать. Ради животворящего эффекта, который он оказывает, даже было сделано исключение, и весь мат остался нетронутым. Вас предупредили.
-**Внимание!** Если вам нравится МЖДЗ, то прямо тут же по соседству есть два ничуть не менее (а где-то и более) интересных проекта одного из его главных идеологов, plane_v - абсолютно безумный [**Hellblazing**](https://web.archive.org/web/20260312022533/http://spidermedia.ru/tags/hellblazing) и невероятно актуальный [**Number Ones**](../../blog/plane-v/number-ones-komiksy-pro-specnaz/). Очень рекомендую обратить на них ваше внимание.
+**Внимание!** Если вам нравится МЖДЗ, то прямо тут же по соседству есть два ничуть не менее (а где-то и более) интересных проекта одного из его главных идеологов, plane_v - абсолютно безумный [**Hellblazing**](../../tags/hellblazing/) и невероятно актуальный [**Number Ones**](../../blog/plane-v/number-ones-komiksy-pro-specnaz/). Очень рекомендую обратить на них ваше внимание.
 [**Расшифровка системы оценок**](../../blog/redson/mzhdz-odin-vy-kak-hotite-ya-kak-hochu/)
 [**Архив рецензий**](../../blog/redson/mzhdz-arhiv/)
 

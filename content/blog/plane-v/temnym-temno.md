@@ -4,6 +4,9 @@
   "url": "/blog/plane-v/temnym-temno/",
   "original_url": "http://spidermedia.ru/blog/plane-v/temnym-temno",
   "archived": "https://web.archive.org/web/20190811011704/http://spidermedia.ru:80/blog/plane-v/temnym-temno",
+  "tags": [
+    "bande-dessinée"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

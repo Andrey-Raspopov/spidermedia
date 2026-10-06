@@ -4,6 +4,15 @@
   "url": "/news/hulk-oktyabr-2009-promo-postery-sdcc-09/",
   "original_url": "http://spidermedia.ru/news/hulk-oktyabr-2009-promo-postery-sdcc-09",
   "archived": "https://web.archive.org/web/20170424074009/http://spidermedia.ru:80/news/hulk-oktyabr-2009-promo-postery-sdcc-09",
+  "tags": [
+    "syn-halka",
+    "skaar",
+    "bryus-benner",
+    "son-of-hulk",
+    "komik-kon-v-san-diego",
+    "marvel",
+    "halk"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

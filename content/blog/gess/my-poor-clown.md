@@ -4,6 +4,11 @@
   "url": "/blog/gess/my-poor-clown/",
   "original_url": "https://spidermedia.ru/blog/gess/my-poor-clown",
   "archived": "https://web.archive.org/web/20241202070306/https://spidermedia.ru/blog/gess/my-poor-clown",
+  "tags": [
+    "motion-comics",
+    "marvel",
+    "man-thing"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

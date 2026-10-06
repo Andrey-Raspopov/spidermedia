@@ -4,6 +4,11 @@
   "url": "/games/batman-arkham-knight-review/",
   "original_url": "https://spidermedia.ru/games/batman-arkham-knight-review",
   "archived": "https://web.archive.org/web/20260123074915/https://spidermedia.ru/games/batman-arkham-knight-review",
+  "tags": [
+    "batman",
+    "arkham-asylum",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

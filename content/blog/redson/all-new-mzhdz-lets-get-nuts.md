@@ -4,6 +4,10 @@
   "url": "/blog/redson/all-new-mzhdz-lets-get-nuts/",
   "original_url": "http://spidermedia.ru/blog/redson/all-new-mzhdz-lets-get-nuts",
   "archived": "https://web.archive.org/web/20260305233129/http://spidermedia.ru/blog/redson/all-new-mzhdz-lets-get-nuts",
+  "tags": [
+    "mzhdz",
+    "obzor"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

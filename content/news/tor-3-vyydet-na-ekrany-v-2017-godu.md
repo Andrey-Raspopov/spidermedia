@@ -4,6 +4,10 @@
   "url": "/news/tor-3-vyydet-na-ekrany-v-2017-godu/",
   "original_url": "http://spidermedia.ru/news/tor-3-vyydet-na-ekrany-v-2017-godu",
   "archived": "https://web.archive.org/web/20251206043445/http://spidermedia.ru/news/tor-3-vyydet-na-ekrany-v-2017-godu",
+  "tags": [
+    "thor",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

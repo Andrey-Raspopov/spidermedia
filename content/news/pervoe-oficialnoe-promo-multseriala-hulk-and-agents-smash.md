@@ -4,6 +4,13 @@
   "url": "/news/pervoe-oficialnoe-promo-multseriala-hulk-and-agents-smash/",
   "original_url": "https://spidermedia.ru/news/pervoe-oficialnoe-promo-multseriala-hulk-and-agents-smash",
   "archived": "https://web.archive.org/web/20251206163255/https://spidermedia.ru/news/pervoe-oficialnoe-promo-multseriala-hulk-and-agents-smash",
+  "tags": [
+    "hulk",
+    "pol-dini",
+    "dzhef-loeb",
+    "animaciya",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

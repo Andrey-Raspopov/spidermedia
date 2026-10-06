@@ -4,6 +4,11 @@
   "url": "/news/video-so-semochnoy-ploshchadki-walking-dead/",
   "original_url": "https://spidermedia.ru/news/video-so-semochnoy-ploshchadki-walking-dead",
   "archived": "https://web.archive.org/web/20260211191247/https://spidermedia.ru/news/video-so-semochnoy-ploshchadki-walking-dead",
+  "tags": [
+    "serialy",
+    "robert-kirkman",
+    "the-walking-dead"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/news/perezapusk-cherepah-nindzya/",
   "original_url": "http://spidermedia.ru/news/perezapusk-cherepah-nindzya",
   "archived": "https://web.archive.org/web/20191228062745/http://spidermedia.ru:80/news/perezapusk-cherepah-nindzya",
+  "tags": [
+    "ninja-turtles",
+    "mirage-studios"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

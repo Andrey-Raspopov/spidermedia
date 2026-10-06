@@ -4,6 +4,13 @@
   "url": "/blog/redson/tsundere-comic-reviewer-episode-1-youngblood/",
   "original_url": "http://spidermedia.ru/blog/redson/tsundere-comic-reviewer-episode-1-youngblood",
   "archived": "https://web.archive.org/web/20200221175458/http://spidermedia.ru:80/blog/redson/tsundere-comic-reviewer-episode-1-youngblood",
+  "tags": [
+    "recenziya",
+    "image-comics",
+    "youngblood",
+    "rob-lajfeld",
+    "tsundere-comic-reviewer"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

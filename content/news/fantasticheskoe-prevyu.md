@@ -4,6 +4,16 @@
   "url": "/news/fantasticheskoe-prevyu/",
   "original_url": "http://spidermedia.ru/news/fantasticheskoe-prevyu",
   "archived": "https://web.archive.org/web/20120718085634/http://spidermedia.ru/news/fantasticheskoe-prevyu",
+  "tags": [
+    "fantastic-four",
+    "art-0",
+    "jonathan-hickman",
+    "deyl-iglshem",
+    "komiksy",
+    "oblozhki",
+    "preview-s",
+    "fantasticheskaya-chetverka"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/comics/tatsumi/",
   "original_url": "http://spidermedia.ru/comics/tatsumi",
   "archived": "https://web.archive.org/web/20251216180548/http://spidermedia.ru/comics/tatsumi",
+  "tags": [
+    "manga"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

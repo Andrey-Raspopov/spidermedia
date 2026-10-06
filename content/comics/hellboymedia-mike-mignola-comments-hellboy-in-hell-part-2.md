@@ -4,6 +4,10 @@
   "url": "/comics/hellboymedia-mike-mignola-comments-hellboy-in-hell-part-2/",
   "original_url": "http://spidermedia.ru/comics/hellboymedia-mike-mignola-comments-hellboy-in-hell-part-2",
   "archived": "https://web.archive.org/web/20251207093812/http://spidermedia.ru/comics/hellboymedia-mike-mignola-comments-hellboy-in-hell-part-2",
+  "tags": [
+    "hellboymedia",
+    "intervyu"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

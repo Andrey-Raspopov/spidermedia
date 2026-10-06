@@ -4,6 +4,12 @@
   "url": "/news/nasledie-gudmana/",
   "original_url": "http://spidermedia.ru/news/nasledie-gudmana",
   "archived": "https://web.archive.org/web/20260215090329/http://spidermedia.ru/news/nasledie-gudmana",
+  "tags": [
+    "komik-kon-v-nyu-jorke",
+    "dzhej-em-demattej",
+    "nycc-2010",
+    "atlas-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

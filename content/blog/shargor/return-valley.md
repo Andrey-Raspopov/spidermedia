@@ -4,6 +4,15 @@
   "url": "/blog/shargor/return-valley/",
   "original_url": "http://spidermedia.ru/blog/shargor/return-valley",
   "archived": "https://web.archive.org/web/20120607054835/http://spidermedia.ru/blog/shargor/return-valley",
+  "tags": [
+    "bone",
+    "jeff-smith",
+    "scholastic",
+    "tom-sniegoski",
+    "dzhef-smit",
+    "komiksy",
+    "tom-snigoski"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

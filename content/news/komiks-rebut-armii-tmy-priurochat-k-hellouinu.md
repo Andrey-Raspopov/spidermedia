@@ -4,6 +4,11 @@
   "url": "/news/komiks-rebut-armii-tmy-priurochat-k-hellouinu/",
   "original_url": "https://spidermedia.ru/news/komiks-rebut-armii-tmy-priurochat-k-hellouinu",
   "archived": "https://web.archive.org/web/20260208205238/https://spidermedia.ru/news/komiks-rebut-armii-tmy-priurochat-k-hellouinu",
+  "tags": [
+    "steve-niles",
+    "dynamite-entertainment",
+    "army-of-darkness"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

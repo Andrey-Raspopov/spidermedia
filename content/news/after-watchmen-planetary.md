@@ -4,6 +4,16 @@
   "url": "/news/after-watchmen-planetary/",
   "original_url": "http://spidermedia.ru/news/after-watchmen-planetary",
   "archived": "https://web.archive.org/web/20160730063425/http://spidermedia.ru/news/after-watchmen-planetary",
+  "tags": [
+    "dc-comics",
+    "uorren-ellis",
+    "industriya",
+    "dzhon-kessedi",
+    "warren-ellis",
+    "planetary",
+    "john-cassaday",
+    "planetarij"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

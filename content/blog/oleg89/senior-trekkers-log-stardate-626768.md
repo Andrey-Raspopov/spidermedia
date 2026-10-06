@@ -4,6 +4,20 @@
   "url": "/blog/oleg89/senior-trekkers-log-stardate-626768/",
   "original_url": "https://spidermedia.ru/blog/oleg89/senior-trekkers-log-stardate-626768",
   "archived": "https://web.archive.org/web/20251107011510/https://spidermedia.ru/blog/oleg89/senior-trekkers-log-stardate-626768",
+  "tags": [
+    "piter-devid",
+    "marvel",
+    "dc-comics",
+    "recenziya",
+    "star-trek",
+    "den-ebnett",
+    "senior-trekkers-log",
+    "majkl-martin",
+    "endi-mangels",
+    "lori-satton",
+    "patrik-zircher",
+    "jen-edzhinton"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

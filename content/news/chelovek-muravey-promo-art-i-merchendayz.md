@@ -4,6 +4,10 @@
   "url": "/news/chelovek-muravey-promo-art-i-merchendayz/",
   "original_url": "https://spidermedia.ru/news/chelovek-muravey-promo-art-i-merchendayz",
   "archived": "https://web.archive.org/web/20260211180033/https://spidermedia.ru/news/chelovek-muravey-promo-art-i-merchendayz",
+  "tags": [
+    "ant-man",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/news/sdcc09-vertigo/",
   "original_url": "http://spidermedia.ru/news/sdcc09-vertigo",
   "archived": "https://web.archive.org/web/20251211022858/http://spidermedia.ru/news/sdcc09-vertigo",
+  "tags": [
+    "vertigo",
+    "san-diego-comic-con-international"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

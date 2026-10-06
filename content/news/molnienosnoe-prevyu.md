@@ -4,6 +4,16 @@
   "url": "/news/molnienosnoe-prevyu/",
   "original_url": "https://spidermedia.ru/news/molnienosnoe-prevyu",
   "archived": "https://web.archive.org/web/20251205114935/https://spidermedia.ru/news/molnienosnoe-prevyu",
+  "tags": [
+    "frensis-manapul",
+    "preview",
+    "negodyai",
+    "geoff-johns",
+    "rogues",
+    "francis-manapul",
+    "the-flash",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

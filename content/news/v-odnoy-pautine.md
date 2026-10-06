@@ -4,6 +4,18 @@
   "url": "/news/v-odnoy-pautine/",
   "original_url": "http://spidermedia.ru/news/v-odnoy-pautine",
   "archived": "https://web.archive.org/web/20260214132332/http://spidermedia.ru/news/v-odnoy-pautine",
+  "tags": [
+    "emma-rios",
+    "pol-tobin",
+    "plashh-i-kinzhal",
+    "pepe-larraz",
+    "nik-spenser",
+    "devushka-pauk",
+    "spider-girl",
+    "spider-island",
+    "marvel",
+    "cloak-and-dagger"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

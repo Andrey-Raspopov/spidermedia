@@ -4,6 +4,11 @@
   "url": "/news/toni-stark-v-moskve-press-konferenciya-roberta-dauni-ml-i-bena-kingsli/",
   "original_url": "http://spidermedia.ru/news/toni-stark-v-moskve-press-konferenciya-roberta-dauni-ml-i-bena-kingsli",
   "archived": "https://web.archive.org/web/20130619035846/http://spidermedia.ru/news/toni-stark-v-moskve-press-konferenciya-roberta-dauni-ml-i-bena-kingsli",
+  "tags": [
+    "zheleznyy-chelovek",
+    "kino",
+    "marvel"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

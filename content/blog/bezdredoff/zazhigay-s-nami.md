@@ -4,6 +4,9 @@
   "url": "/blog/bezdredoff/zazhigay-s-nami/",
   "original_url": "http://spidermedia.ru/blog/bezdredoff/zazhigay-s-nami",
   "archived": "https://web.archive.org/web/20190907234702/http://spidermedia.ru:80/blog/bezdredoff/zazhigay-s-nami",
+  "tags": [
+    "zazhigaj"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

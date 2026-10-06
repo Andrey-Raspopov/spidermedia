@@ -4,6 +4,15 @@
   "url": "/news/besstrashnye-i-razbitye/",
   "original_url": "https://spidermedia.ru/news/besstrashnye-i-razbitye",
   "archived": "https://web.archive.org/web/20260313110858/https://spidermedia.ru/news/besstrashnye-i-razbitye",
+  "tags": [
+    "pol-pellete",
+    "matt-fraction",
+    "mark-bagli",
+    "kris-jost",
+    "san-diego-comic-con-international",
+    "kallen-bann",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

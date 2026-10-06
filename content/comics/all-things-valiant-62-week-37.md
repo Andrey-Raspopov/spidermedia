@@ -4,6 +4,9 @@
   "url": "/comics/all-things-valiant-62-week-37/",
   "original_url": "http://spidermedia.ru/comics/all-things-valiant-62-week-37",
   "archived": "https://web.archive.org/web/20260308231752/http://spidermedia.ru/comics/all-things-valiant-62-week-37",
+  "tags": [
+    "valiant-entertainment"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

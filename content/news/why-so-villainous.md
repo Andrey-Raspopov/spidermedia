@@ -4,6 +4,14 @@
   "url": "/news/why-so-villainous/",
   "original_url": "https://spidermedia.ru/news/why-so-villainous",
   "archived": "https://web.archive.org/web/20250324061138/https://spidermedia.ru/news/why-so-villainous",
+  "tags": [
+    "stiv-makniven",
+    "nemezis",
+    "mark-millar",
+    "nemesis",
+    "marvel",
+    "icon-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

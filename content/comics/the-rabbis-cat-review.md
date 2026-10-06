@@ -4,6 +4,9 @@
   "url": "/comics/the-rabbis-cat-review/",
   "original_url": "https://spidermedia.ru/comics/the-rabbis-cat-review",
   "archived": "https://web.archive.org/web/20251216112106/https://spidermedia.ru/comics/the-rabbis-cat-review",
+  "tags": [
+    "boomkniga"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

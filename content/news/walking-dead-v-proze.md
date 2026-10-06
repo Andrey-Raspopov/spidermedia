@@ -4,6 +4,11 @@
   "url": "/news/walking-dead-v-proze/",
   "original_url": "https://spidermedia.ru/news/walking-dead-v-proze",
   "archived": "https://web.archive.org/web/20260116222409/https://spidermedia.ru/news/walking-dead-v-proze",
+  "tags": [
+    "robert-kirkman",
+    "knigi",
+    "the-walking-dead"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

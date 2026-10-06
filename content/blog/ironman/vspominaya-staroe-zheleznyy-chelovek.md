@@ -4,6 +4,16 @@
   "url": "/blog/ironman/vspominaya-staroe-zheleznyy-chelovek/",
   "original_url": "http://spidermedia.ru/blog/ironman/vspominaya-staroe-zheleznyy-chelovek",
   "archived": "https://web.archive.org/web/20120608070604/http://spidermedia.ru/blog/ironman/vspominaya-staroe-zheleznyy-chelovek",
+  "tags": [
+    "iron-man",
+    "video",
+    "dzhon-favro",
+    "zheleznyy-chelovek",
+    "kino",
+    "komiksy",
+    "marvel",
+    "reportazh"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

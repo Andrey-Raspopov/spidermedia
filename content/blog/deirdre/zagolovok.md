@@ -4,6 +4,9 @@
   "url": "/blog/deirdre/zagolovok/",
   "original_url": "http://spidermedia.ru/blog/deirdre/zagolovok",
   "archived": "https://web.archive.org/web/20120608195603/http://spidermedia.ru/blog/deirdre/zagolovok",
+  "tags": [
+    "vstuplenie"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

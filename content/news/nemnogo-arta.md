@@ -4,6 +4,18 @@
   "url": "/news/nemnogo-arta/",
   "original_url": "http://spidermedia.ru/news/nemnogo-arta",
   "archived": "https://web.archive.org/web/20250424193349/http://spidermedia.ru/news/nemnogo-arta",
+  "tags": [
+    "preview",
+    "art-0",
+    "zodiac",
+    "reborn",
+    "nomad",
+    "mighty-avengers",
+    "marvel",
+    "fantastic-four",
+    "captain-america",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

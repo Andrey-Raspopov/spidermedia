@@ -4,6 +4,22 @@
   "url": "/news/you-wanna-see-some-magic/",
   "original_url": "http://spidermedia.ru/news/you-wanna-see-some-magic",
   "archived": "https://web.archive.org/web/20260313121036/http://spidermedia.ru/news/you-wanna-see-some-magic",
+  "tags": [
+    "yanick-paquette",
+    "vodoo",
+    "bolotnaya-tvar",
+    "scott-snyder",
+    "ressurection-man",
+    "paul-cornell",
+    "justice-league-dark",
+    "hellblazer",
+    "frankenstein-agent-of-shade",
+    "demon-knights",
+    "dc-comics",
+    "animal-man",
+    "vampire",
+    "peter-milligan"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

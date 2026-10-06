@@ -4,6 +4,10 @@
   "url": "/comics/gentleman-thief-and-shelly-jerry-dick/",
   "original_url": "https://spidermedia.ru/comics/gentleman-thief-and-shelly-jerry-dick",
   "archived": "https://web.archive.org/web/20251206034752/https://spidermedia.ru/comics/gentleman-thief-and-shelly-jerry-dick",
+  "tags": [
+    "dc-comics",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

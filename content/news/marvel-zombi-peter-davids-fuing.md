@@ -4,6 +4,11 @@
   "url": "/news/marvel-zombi-peter-davids-fuing/",
   "original_url": "https://spidermedia.ru/news/marvel-zombi-peter-davids-fuing",
   "archived": "https://web.archive.org/web/20250321103148/https://spidermedia.ru/news/marvel-zombi-peter-davids-fuing",
+  "tags": [
+    "piter-devid",
+    "marvel-zombies",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

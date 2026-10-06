@@ -4,6 +4,12 @@
   "url": "/blog/plane-v/they-see-me-trollin-they-hatin/",
   "original_url": "http://spidermedia.ru/blog/plane-v/they-see-me-trollin-they-hatin",
   "archived": "https://web.archive.org/web/20251207103508/http://spidermedia.ru/blog/plane-v/they-see-me-trollin-they-hatin",
+  "tags": [
+    "trolling",
+    "rob-lajfeld",
+    "anatomicheskij-teatr",
+    "komik-kon-v-chikago"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/comics/recenziya-dyavolik-sam-sebe-hozyain/",
   "original_url": "https://spidermedia.ru/comics/recenziya-dyavolik-sam-sebe-hozyain",
   "archived": "https://web.archive.org/web/20260123090126/https://spidermedia.ru/comics/recenziya-dyavolik-sam-sebe-hozyain",
+  "tags": [
+    "dyavolik"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

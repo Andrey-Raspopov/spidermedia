@@ -4,6 +4,12 @@
   "url": "/comics/tmnt-ghostbusters-ii/",
   "original_url": "https://spidermedia.ru/comics/tmnt-ghostbusters-ii",
   "archived": "https://web.archive.org/web/20260125125337/https://spidermedia.ru/comics/tmnt-ghostbusters-ii",
+  "tags": [
+    "idw-publishing",
+    "ghostbusters",
+    "ninja-turtles",
+    "san-diego-comic-con-international"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

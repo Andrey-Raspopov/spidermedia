@@ -4,6 +4,16 @@
   "url": "/news/art-prevyu-timestorm-2009-2099-1/",
   "original_url": "http://spidermedia.ru/news/art-prevyu-timestorm-2009-2099-1",
   "archived": "https://web.archive.org/web/20120607111833/http://spidermedia.ru/news/art-prevyu-timestorm-2009-2099-1",
+  "tags": [
+    "2099",
+    "art-0",
+    "brayan-rid",
+    "komiksy",
+    "marvel",
+    "oblozhki",
+    "preview-s",
+    "erik-batl"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

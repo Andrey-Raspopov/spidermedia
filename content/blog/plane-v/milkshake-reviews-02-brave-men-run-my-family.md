@@ -4,6 +4,15 @@
   "url": "/blog/plane-v/milkshake-reviews-02-brave-men-run-my-family/",
   "original_url": "http://spidermedia.ru/blog/plane-v/milkshake-reviews-02-brave-men-run-my-family",
   "archived": "https://web.archive.org/web/20251108185558/http://spidermedia.ru/blog/plane-v/milkshake-reviews-02-brave-men-run-my-family",
+  "tags": [
+    "hilbert-hernandez",
+    "pol-poup",
+    "matt-fraction",
+    "manga",
+    "milkshake-reviews",
+    "fantagraphics",
+    "dark-horse"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

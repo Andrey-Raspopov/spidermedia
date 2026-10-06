@@ -4,6 +4,13 @@
   "url": "/news/utrennik-s-betmenom/",
   "original_url": "http://spidermedia.ru/news/utrennik-s-betmenom",
   "archived": "https://web.archive.org/web/20120608132412/http://spidermedia.ru/news/utrennik-s-betmenom",
+  "tags": [
+    "batman",
+    "dc-comics",
+    "betmen",
+    "komiksy",
+    "teatr"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

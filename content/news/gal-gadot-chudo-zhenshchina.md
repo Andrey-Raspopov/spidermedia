@@ -4,6 +4,12 @@
   "url": "/news/gal-gadot-chudo-zhenshchina/",
   "original_url": "http://spidermedia.ru/news/gal-gadot-chudo-zhenshchina",
   "archived": "https://web.archive.org/web/20250324061621/http://spidermedia.ru/news/gal-gadot-chudo-zhenshchina",
+  "tags": [
+    "wonder-woman",
+    "superman",
+    "batman",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

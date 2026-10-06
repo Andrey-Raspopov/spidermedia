@@ -4,6 +4,9 @@
   "url": "/blog/happycake-oven/jla-vol-1/",
   "original_url": "http://spidermedia.ru/blog/happycake-oven/jla-vol-1",
   "archived": "https://web.archive.org/web/20111125203024/http://spidermedia.ru/blog/happycake-oven/jla-vol-1",
+  "tags": [
+    "dc-comics"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

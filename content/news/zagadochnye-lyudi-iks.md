@@ -4,6 +4,11 @@
   "url": "/news/zagadochnye-lyudi-iks/",
   "original_url": "https://spidermedia.ru/news/zagadochnye-lyudi-iks",
   "archived": "https://web.archive.org/web/20250419045931/https://spidermedia.ru/news/zagadochnye-lyudi-iks",
+  "tags": [
+    "igry",
+    "x-men",
+    "trejlery"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

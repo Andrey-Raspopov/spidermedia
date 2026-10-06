@@ -4,6 +4,11 @@
   "url": "/news/v-multseriale-ultimate-spider-man-poyavitsya-maylz-morales/",
   "original_url": "http://spidermedia.ru/news/v-multseriale-ultimate-spider-man-poyavitsya-maylz-morales",
   "archived": "https://web.archive.org/web/20260123090138/http://spidermedia.ru/news/v-multseriale-ultimate-spider-man-poyavitsya-maylz-morales",
+  "tags": [
+    "spider-man",
+    "marvel",
+    "animaciya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

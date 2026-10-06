@@ -4,11 +4,15 @@
   "url": "/news/mzhdz-thor-dies/",
   "original_url": "http://spidermedia.ru/news/mzhdz-thor-dies",
   "archived": "https://web.archive.org/web/20250913002852/http://spidermedia.ru/news/mzhdz-thor-dies",
+  "tags": [
+    "mzhdz",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](https://web.archive.org/web/20250913002852im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz.png)](https://web.archive.org/web/20260206215846/http://spidermedia.ru/tags/mzhdz)
+[![](https://web.archive.org/web/20250913002852im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz.png)](../../tags/mzhdz/)
 ![](https://web.archive.org/web/20250913002852im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/greglandbrain.jpg)
 Загляните внутрь мозга Грега Лэнда
 **Еженедельные обзоры новых комиксов!**

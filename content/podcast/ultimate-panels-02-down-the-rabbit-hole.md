@@ -4,6 +4,10 @@
   "url": "/podcast/ultimate-panels-02-down-the-rabbit-hole/",
   "original_url": "http://spidermedia.ru/podcast/ultimate-panels-02-down-the-rabbit-hole",
   "archived": "https://web.archive.org/web/20251107023730/http://spidermedia.ru/podcast/ultimate-panels-02-down-the-rabbit-hole",
+  "tags": [
+    "on-panels",
+    "ultimate-panels"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

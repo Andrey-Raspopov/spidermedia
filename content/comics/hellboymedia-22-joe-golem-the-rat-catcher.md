@@ -4,6 +4,10 @@
   "url": "/comics/hellboymedia-22-joe-golem-the-rat-catcher/",
   "original_url": "https://spidermedia.ru/comics/hellboymedia-22-joe-golem-the-rat-catcher",
   "archived": "https://web.archive.org/web/20251209131401/https://spidermedia.ru/comics/hellboymedia-22-joe-golem-the-rat-catcher",
+  "tags": [
+    "hellboymedia",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

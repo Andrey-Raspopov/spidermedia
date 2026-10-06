@@ -4,6 +4,14 @@
   "url": "/news/frakshen-i-oblozhki/",
   "original_url": "https://spidermedia.ru/news/frakshen-i-oblozhki",
   "archived": "https://web.archive.org/web/20251013192239/https://spidermedia.ru/news/frakshen-i-oblozhki",
+  "tags": [
+    "salvador-larroka",
+    "matt-fraction",
+    "marko-dzhurdzhevich",
+    "art-0",
+    "marvel",
+    "iron-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

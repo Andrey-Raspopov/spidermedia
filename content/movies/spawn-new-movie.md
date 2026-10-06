@@ -4,6 +4,11 @@
   "url": "/movies/spawn-new-movie/",
   "original_url": "https://spidermedia.ru/movies/spawn-new-movie",
   "archived": "https://web.archive.org/web/20260121014718/https://spidermedia.ru/movies/spawn-new-movie",
+  "tags": [
+    "spawn",
+    "top-cow",
+    "spaun"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/movies/logan-vtoroj-trejler/",
   "original_url": "http://spidermedia.ru/movies/logan-vtoroj-trejler",
   "archived": "https://web.archive.org/web/20260209120642/http://spidermedia.ru/movies/logan-vtoroj-trejler",
+  "tags": [
+    "marvel",
+    "x-23",
+    "x-men",
+    "wolverine"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

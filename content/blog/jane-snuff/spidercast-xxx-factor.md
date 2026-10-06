@@ -4,6 +4,11 @@
   "url": "/blog/jane-snuff/spidercast-xxx-factor/",
   "original_url": "http://spidermedia.ru/blog/jane-snuff/spidercast-xxx-factor",
   "archived": "https://web.archive.org/web/20120315155419/http://spidermedia.ru:80/blog/jane-snuff/spidercast-xxx-factor",
+  "tags": [
+    "spidercast",
+    "spidermedia",
+    "podcast"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

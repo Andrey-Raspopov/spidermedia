@@ -4,6 +4,11 @@
   "url": "/blog/drgonzobear/panteon-nemnogo-arta/",
   "original_url": "http://spidermedia.ru/blog/drgonzobear/panteon-nemnogo-arta",
   "archived": "https://web.archive.org/web/20210118135644/http://spidermedia.ru/blog/drgonzobear/panteon-nemnogo-arta",
+  "tags": [
+    "stimpank",
+    "russian-comics",
+    "miscreant"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

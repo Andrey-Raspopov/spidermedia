@@ -4,6 +4,15 @@
   "url": "/news/incognito-teper-bolshe-upd/",
   "original_url": "http://spidermedia.ru/news/incognito-teper-bolshe-upd",
   "archived": "https://web.archive.org/web/20160504031738/http://spidermedia.ru/news/incognito-teper-bolshe-upd",
+  "tags": [
+    "marvel",
+    "icon-comics",
+    "art-0",
+    "ed-brubejker",
+    "incognito",
+    "shon-fillips",
+    "inkognito"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

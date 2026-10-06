@@ -4,6 +4,11 @@
   "url": "/blog/derden/dc-new-52-vzglyad-nazad-chast-vtoraya/",
   "original_url": "https://spidermedia.ru/blog/derden/dc-new-52-vzglyad-nazad-chast-vtoraya",
   "archived": "https://web.archive.org/web/20240712231024/https://spidermedia.ru/blog/derden/dc-new-52-vzglyad-nazad-chast-vtoraya",
+  "tags": [
+    "peter-milligan",
+    "new-52",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

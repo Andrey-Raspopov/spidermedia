@@ -4,6 +4,10 @@
   "url": "/tv/preacher-s02e05-dallas/",
   "original_url": "https://spidermedia.ru/tv/preacher-s02e05-dallas",
   "archived": "https://web.archive.org/web/20251206155534/https://spidermedia.ru/tv/preacher-s02e05-dallas",
+  "tags": [
+    "vertigo",
+    "preacher"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

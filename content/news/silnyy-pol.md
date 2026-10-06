@@ -4,6 +4,14 @@
   "url": "/news/silnyy-pol/",
   "original_url": "http://spidermedia.ru/news/silnyy-pol",
   "archived": "https://web.archive.org/web/20251216122848/http://spidermedia.ru/news/silnyy-pol",
+  "tags": [
+    "uill-slajni",
+    "kris-bachalo",
+    "kallen-bann",
+    "brian-michael-bendis",
+    "x-men",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

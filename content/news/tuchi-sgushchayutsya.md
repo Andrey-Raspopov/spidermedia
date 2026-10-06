@@ -4,6 +4,15 @@
   "url": "/news/tuchi-sgushchayutsya/",
   "original_url": "http://spidermedia.ru/news/tuchi-sgushchayutsya",
   "archived": "https://web.archive.org/web/20260125123206/http://spidermedia.ru/news/tuchi-sgushchayutsya",
+  "tags": [
+    "dc-comics",
+    "the-flash",
+    "green-lantern",
+    "blackest-night",
+    "temnejshaya-noch",
+    "dag-manke",
+    "doug-mahnke"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,0 +1,19 @@
+{{ define "main" }}
+<article data-pagefind-body>
+  <h1>{{ .Title }}</h1>
+  <p class="meta" data-pagefind-ignore>
+    {{ if not .Date.IsZero }}<time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "02.01.2006" }}</time> · {{ end }}
+    {{ with .CurrentSection }}{{ if not .IsHome }}<a href="{{ .RelPermalink }}">{{ .Title }}</a> · {{ end }}{{ end }}
+    {{ with .Params.original_url }}<a href="{{ . }}">оригинал</a>{{ end }}
+    {{ with .Params.archived }} · <a href="{{ . }}">снимок в архиве</a>{{ end }}
+  </p>
+  {{ with .CurrentSection }}{{ if not .IsHome }}<span hidden data-pagefind-filter="Раздел">{{ .Title }}</span>{{ end }}{{ end }}
+  {{ if not .Date.IsZero }}<span hidden data-pagefind-filter="Год">{{ .Date.Year }}</span>{{ end }}
+  <div class="body">{{ .Content }}</div>
+  {{ with .GetTerms "tags" }}
+  <p class="tags" data-pagefind-ignore>Теги:
+    {{ range . }}<a href="{{ .RelPermalink }}">{{ .Title }}</a>{{ end }}
+  </p>
+  {{ end }}
+</article>
+{{ end }}

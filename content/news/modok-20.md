@@ -4,6 +4,13 @@
   "url": "/news/modok-20/",
   "original_url": "http://spidermedia.ru/news/modok-20",
   "archived": "https://web.archive.org/web/20251207091715/http://spidermedia.ru/news/modok-20",
+  "tags": [
+    "m.o.d.o.k",
+    "dzheff-parker",
+    "gabriel-hardman",
+    "art-0",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

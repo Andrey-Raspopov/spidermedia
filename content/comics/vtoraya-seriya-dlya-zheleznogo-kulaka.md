@@ -4,6 +4,10 @@
   "url": "/comics/vtoraya-seriya-dlya-zheleznogo-kulaka/",
   "original_url": "https://spidermedia.ru/comics/vtoraya-seriya-dlya-zheleznogo-kulaka",
   "archived": "https://web.archive.org/web/20260123080329/https://spidermedia.ru/comics/vtoraya-seriya-dlya-zheleznogo-kulaka",
+  "tags": [
+    "marvel",
+    "iron-fist"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

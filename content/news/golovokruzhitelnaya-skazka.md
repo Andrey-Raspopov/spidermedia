@@ -4,6 +4,13 @@
   "url": "/news/golovokruzhitelnaya-skazka/",
   "original_url": "http://spidermedia.ru/news/golovokruzhitelnaya-skazka",
   "archived": "https://web.archive.org/web/20260313113849/http://spidermedia.ru/news/golovokruzhitelnaya-skazka",
+  "tags": [
+    "shon-gordon-merfi",
+    "grant-morrison",
+    "art-0",
+    "vertigo",
+    "joe-the-barbarian"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

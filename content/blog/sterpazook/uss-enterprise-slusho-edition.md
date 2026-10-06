@@ -4,6 +4,13 @@
   "url": "/blog/sterpazook/uss-enterprise-slusho-edition/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/uss-enterprise-slusho-edition",
   "archived": "https://web.archive.org/web/20250804000149/http://spidermedia.ru/blog/sterpazook/uss-enterprise-slusho-edition",
+  "tags": [
+    "figurki",
+    "star-trek",
+    "dzhej-dzhej-abrams",
+    "j.-j.-abrams",
+    "zvezdnyj-put"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

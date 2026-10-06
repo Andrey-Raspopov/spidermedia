@@ -4,6 +4,10 @@
   "url": "/news/lico-so-shramom-istoriya-dzhony-heksa/",
   "original_url": "https://spidermedia.ru/news/lico-so-shramom-istoriya-dzhony-heksa",
   "archived": "https://web.archive.org/web/20250321093621/https://spidermedia.ru/news/lico-so-shramom-istoriya-dzhony-heksa",
+  "tags": [
+    "dzhona-heks",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

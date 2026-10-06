@@ -4,6 +4,10 @@
   "url": "/news/new-york-times-kapituliruyut/",
   "original_url": "http://spidermedia.ru/news/new-york-times-kapituliruyut",
   "archived": "https://web.archive.org/web/20251108192714/http://spidermedia.ru/news/new-york-times-kapituliruyut",
+  "tags": [
+    "rejtingi-prodazh",
+    "manga"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

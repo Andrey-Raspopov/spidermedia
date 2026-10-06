@@ -4,6 +4,9 @@
   "url": "/comics/all-things-valiant-48-week-21/",
   "original_url": "http://spidermedia.ru/comics/all-things-valiant-48-week-21",
   "archived": "https://web.archive.org/web/20260209111329/http://spidermedia.ru/comics/all-things-valiant-48-week-21",
+  "tags": [
+    "valiant-entertainment"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

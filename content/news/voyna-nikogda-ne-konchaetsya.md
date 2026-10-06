@@ -4,6 +4,12 @@
   "url": "/news/voyna-nikogda-ne-konchaetsya/",
   "original_url": "http://spidermedia.ru/news/voyna-nikogda-ne-konchaetsya",
   "archived": "https://web.archive.org/web/20240518133450/http://spidermedia.ru/news/voyna-nikogda-ne-konchaetsya",
+  "tags": [
+    "avengers",
+    "warren-ellis",
+    "marvel",
+    "majk-makkon"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

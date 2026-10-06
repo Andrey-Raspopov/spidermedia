@@ -4,6 +4,13 @@
   "url": "/news/iniciativa-perezagruzka/",
   "original_url": "http://spidermedia.ru/news/iniciativa-perezagruzka",
   "archived": "https://web.archive.org/web/20120607164901/http://spidermedia.ru/news/iniciativa-perezagruzka",
+  "tags": [
+    "avengers-initiative",
+    "iniciativa",
+    "komiksy",
+    "marvel",
+    "rafa-sendoval"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

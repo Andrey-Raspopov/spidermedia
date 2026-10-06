@@ -4,6 +4,9 @@
   "url": "/news/proishozhdeniya-i-predznamenovaniya/",
   "original_url": "https://spidermedia.ru/news/proishozhdeniya-i-predznamenovaniya",
   "archived": "https://web.archive.org/web/20251107034416/https://spidermedia.ru/news/proishozhdeniya-i-predznamenovaniya",
+  "tags": [
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

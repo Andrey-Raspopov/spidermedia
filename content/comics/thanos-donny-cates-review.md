@@ -4,6 +4,10 @@
   "url": "/comics/thanos-donny-cates-review/",
   "original_url": "https://spidermedia.ru/comics/thanos-donny-cates-review",
   "archived": "https://web.archive.org/web/20251207002603/https://spidermedia.ru/comics/thanos-donny-cates-review",
+  "tags": [
+    "marvel",
+    "tanos"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

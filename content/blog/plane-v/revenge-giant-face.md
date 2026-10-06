@@ -4,6 +4,10 @@
   "url": "/blog/plane-v/revenge-giant-face/",
   "original_url": "https://spidermedia.ru/blog/plane-v/revenge-giant-face",
   "archived": "https://web.archive.org/web/20250324230829/https://spidermedia.ru/blog/plane-v/revenge-giant-face",
+  "tags": [
+    "frenk-miller",
+    "holy-terror"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

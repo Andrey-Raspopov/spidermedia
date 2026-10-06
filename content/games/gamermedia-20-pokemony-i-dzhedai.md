@@ -4,6 +4,9 @@
   "url": "/games/gamermedia-20-pokemony-i-dzhedai/",
   "original_url": "http://spidermedia.ru/games/gamermedia-20-pokemony-i-dzhedai",
   "archived": "https://web.archive.org/web/20260124052034/http://spidermedia.ru/games/gamermedia-20-pokemony-i-dzhedai",
+  "tags": [
+    "gamermedia"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

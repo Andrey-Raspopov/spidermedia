@@ -4,6 +4,10 @@
   "url": "/movies/bri-larson-glavnyj-kandidat-na-rol-kapitana-marvel/",
   "original_url": "http://spidermedia.ru/movies/bri-larson-glavnyj-kandidat-na-rol-kapitana-marvel",
   "archived": "https://web.archive.org/web/20260312011407/http://spidermedia.ru/movies/bri-larson-glavnyj-kandidat-na-rol-kapitana-marvel",
+  "tags": [
+    "captain-marvel",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

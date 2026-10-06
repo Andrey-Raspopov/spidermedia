@@ -4,6 +4,11 @@
   "url": "/comics/battle-chasers-comics-v-game/",
   "original_url": "http://spidermedia.ru/comics/battle-chasers-comics-v-game",
   "archived": "https://web.archive.org/web/20260309185612/http://spidermedia.ru/comics/battle-chasers-comics-v-game",
+  "tags": [
+    "image-comics",
+    "dzho-madurejra",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

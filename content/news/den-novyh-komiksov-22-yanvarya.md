@@ -4,6 +4,10 @@
   "url": "/news/den-novyh-komiksov-22-yanvarya/",
   "original_url": "https://spidermedia.ru/news/den-novyh-komiksov-22-yanvarya",
   "archived": "https://web.archive.org/web/20250709064247/https://spidermedia.ru/news/den-novyh-komiksov-22-yanvarya",
+  "tags": [
+    "den-novyh-komiksov",
+    "ben-afflek"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

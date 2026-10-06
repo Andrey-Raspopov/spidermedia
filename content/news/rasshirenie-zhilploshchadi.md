@@ -4,6 +4,13 @@
   "url": "/news/rasshirenie-zhilploshchadi/",
   "original_url": "https://spidermedia.ru/news/rasshirenie-zhilploshchadi",
   "archived": "https://web.archive.org/web/20260314075821/https://spidermedia.ru/news/rasshirenie-zhilploshchadi",
+  "tags": [
+    "trejlery",
+    "igry",
+    "dc-comics",
+    "batman",
+    "arkham-asylum"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

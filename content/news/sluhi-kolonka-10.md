@@ -4,6 +4,14 @@
   "url": "/news/sluhi-kolonka-10/",
   "original_url": "http://spidermedia.ru/news/sluhi-kolonka-10",
   "archived": "https://web.archive.org/web/20260125062050/http://spidermedia.ru/news/sluhi-kolonka-10",
+  "tags": [
+    "sluhi",
+    "ultimate",
+    "marvel",
+    "captain-america",
+    "brian-michael-bendis",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,17 @@
   "url": "/news/vtoroy-eshche-i-variantnyy/",
   "original_url": "http://spidermedia.ru/news/vtoroy-eshche-i-variantnyy",
   "archived": "https://web.archive.org/web/20120607174119/http://spidermedia.ru/news/vtoroy-eshche-i-variantnyy",
+  "tags": [
+    "wolverine",
+    "art-0",
+    "dzheyson-aaron",
+    "komiksy",
+    "marvel",
+    "marko-dzhurdzhevich",
+    "oblozhki",
+    "ron-garni",
+    "rosomaha"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/blog/naya/art-thor-movie-artbook/",
   "original_url": "http://spidermedia.ru/blog/naya/art-thor-movie-artbook",
   "archived": "https://web.archive.org/web/20260117215833/http://spidermedia.ru/blog/naya/art-thor-movie-artbook",
+  "tags": [
+    "art-0",
+    "thor"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

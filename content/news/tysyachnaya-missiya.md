@@ -4,6 +4,14 @@
   "url": "/news/tysyachnaya-missiya/",
   "original_url": "https://spidermedia.ru/news/tysyachnaya-missiya",
   "archived": "https://web.archive.org/web/20260206230510/https://spidermedia.ru/news/tysyachnaya-missiya",
+  "tags": [
+    "paolo-rivera",
+    "majkl-rajan",
+    "punisher",
+    "dzhon-ostrander",
+    "marvel",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

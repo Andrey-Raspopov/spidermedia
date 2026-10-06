@@ -4,6 +4,11 @@
   "url": "/news/green-lantern-animated-series/",
   "original_url": "http://spidermedia.ru/news/green-lantern-animated-series",
   "archived": "https://web.archive.org/web/20250217074744/http://spidermedia.ru/news/green-lantern-animated-series",
+  "tags": [
+    "green-lantern",
+    "animaciya",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

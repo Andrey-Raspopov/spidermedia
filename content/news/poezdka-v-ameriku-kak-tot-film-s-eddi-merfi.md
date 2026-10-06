@@ -4,6 +4,13 @@
   "url": "/news/poezdka-v-ameriku-kak-tot-film-s-eddi-merfi/",
   "original_url": "https://spidermedia.ru/news/poezdka-v-ameriku-kak-tot-film-s-eddi-merfi",
   "archived": "https://web.archive.org/web/20250804010941/https://spidermedia.ru/news/poezdka-v-ameriku-kak-tot-film-s-eddi-merfi",
+  "tags": [
+    "black-panther",
+    "franchesko-frankavilla",
+    "daredevil",
+    "devid-liss",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

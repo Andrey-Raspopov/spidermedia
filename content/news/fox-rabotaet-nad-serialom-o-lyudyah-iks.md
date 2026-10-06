@@ -4,6 +4,11 @@
   "url": "/news/fox-rabotaet-nad-serialom-o-lyudyah-iks/",
   "original_url": "http://spidermedia.ru/news/fox-rabotaet-nad-serialom-o-lyudyah-iks",
   "archived": "https://web.archive.org/web/20251206144734/http://spidermedia.ru/news/fox-rabotaet-nad-serialom-o-lyudyah-iks",
+  "tags": [
+    "serialy",
+    "marvel",
+    "x-men"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

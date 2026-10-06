@@ -4,6 +4,11 @@
   "url": "/news/some-say-he-khyber-pass/",
   "original_url": "http://spidermedia.ru/news/some-say-he-khyber-pass",
   "archived": "https://web.archive.org/web/20251018235131/http://spidermedia.ru/news/some-say-he-khyber-pass",
+  "tags": [
+    "frenk-miller",
+    "legendary-comics",
+    "holy-terror"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/news/zaday-vopros-loki/",
   "original_url": "http://spidermedia.ru/news/zaday-vopros-loki",
   "archived": "https://web.archive.org/web/20250215011951/http://spidermedia.ru/news/zaday-vopros-loki",
+  "tags": [
+    "avengers",
+    "marvel",
+    "loki",
+    "thor"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

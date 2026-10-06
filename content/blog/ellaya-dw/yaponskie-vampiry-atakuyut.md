@@ -4,6 +4,9 @@
   "url": "/blog/ellaya-dw/yaponskie-vampiry-atakuyut/",
   "original_url": "http://spidermedia.ru/blog/ellaya-dw/yaponskie-vampiry-atakuyut",
   "archived": "https://web.archive.org/web/20260117230722/http://spidermedia.ru/blog/ellaya-dw/yaponskie-vampiry-atakuyut",
+  "tags": [
+    "manga"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

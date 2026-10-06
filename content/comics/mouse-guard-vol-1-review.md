@@ -4,6 +4,9 @@
   "url": "/comics/mouse-guard-vol-1-review/",
   "original_url": "https://spidermedia.ru/comics/mouse-guard-vol-1-review",
   "archived": "https://web.archive.org/web/20230930003259/https://spidermedia.ru/comics/mouse-guard-vol-1-review",
+  "tags": [
+    "jellyfish-jam"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

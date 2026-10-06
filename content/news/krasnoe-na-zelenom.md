@@ -4,6 +4,17 @@
   "url": "/news/krasnoe-na-zelenom/",
   "original_url": "https://spidermedia.ru/news/krasnoe-na-zelenom",
   "archived": "https://web.archive.org/web/20250424101912/https://spidermedia.ru/news/krasnoe-na-zelenom",
+  "tags": [
+    "temnejshaya-noch",
+    "patrik-glison",
+    "zhenshhina-koshka",
+    "gaj-gardner",
+    "adam-hyuz",
+    "patrick-gleason",
+    "guy-gardner",
+    "dc-comics",
+    "blackest-night"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

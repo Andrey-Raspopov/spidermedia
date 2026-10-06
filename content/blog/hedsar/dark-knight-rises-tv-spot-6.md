@@ -4,6 +4,12 @@
   "url": "/blog/hedsar/dark-knight-rises-tv-spot-6/",
   "original_url": "http://spidermedia.ru/blog/hedsar/dark-knight-rises-tv-spot-6",
   "archived": "https://web.archive.org/web/20260125131934/http://spidermedia.ru/blog/hedsar/dark-knight-rises-tv-spot-6",
+  "tags": [
+    "temnyj-rycar",
+    "dc-comics",
+    "dark-knight-rises",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

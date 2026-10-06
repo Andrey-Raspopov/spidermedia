@@ -4,6 +4,12 @@
   "url": "/blog/redson/ya-chitayu-marvel-now-vypusk-7-brayan-ty-prosto-kosmos/",
   "original_url": "https://spidermedia.ru/blog/redson/ya-chitayu-marvel-now-vypusk-7-brayan-ty-prosto-kosmos",
   "archived": "https://web.archive.org/web/20251006003922/https://spidermedia.ru/blog/redson/ya-chitayu-marvel-now-vypusk-7-brayan-ty-prosto-kosmos",
+  "tags": [
+    "marvel",
+    "mnenie",
+    "brian-michael-bendis",
+    "dzhef-loeb"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

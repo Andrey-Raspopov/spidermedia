@@ -4,6 +4,16 @@
   "url": "/news/tayny-i-simvoly/",
   "original_url": "http://spidermedia.ru/news/tayny-i-simvoly",
   "archived": "https://web.archive.org/web/20251216174039/http://spidermedia.ru/news/tayny-i-simvoly",
+  "tags": [
+    "mirko-perfederichi",
+    "mark-waid",
+    "majk-keri",
+    "leonard-kirk",
+    "sigil",
+    "ruse",
+    "marvel",
+    "crossgen"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

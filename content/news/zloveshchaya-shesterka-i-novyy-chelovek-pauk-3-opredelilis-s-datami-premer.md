@@ -4,6 +4,10 @@
   "url": "/news/zloveshchaya-shesterka-i-novyy-chelovek-pauk-3-opredelilis-s-datami-premer/",
   "original_url": "http://spidermedia.ru/news/zloveshchaya-shesterka-i-novyy-chelovek-pauk-3-opredelilis-s-datami-premer",
   "archived": "https://web.archive.org/web/20251012173405/http://spidermedia.ru/news/zloveshchaya-shesterka-i-novyy-chelovek-pauk-3-opredelilis-s-datami-premer",
+  "tags": [
+    "zloveshhaya-shesterka",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

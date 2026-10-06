@@ -4,6 +4,13 @@
   "url": "/news/robinkrasnyy-robin/",
   "original_url": "https://spidermedia.ru/news/robinkrasnyy-robin",
   "archived": "https://web.archive.org/web/20251207001732/https://spidermedia.ru/news/robinkrasnyy-robin",
+  "tags": [
+    "dc-comics",
+    "krasnyj-robin",
+    "red-robin",
+    "kris-jost",
+    "chris-yost"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,11 +4,15 @@
   "url": "/blog/redson/all-new-mzhdz-rekviem-po-mechte/",
   "original_url": "http://spidermedia.ru/blog/redson/all-new-mzhdz-rekviem-po-mechte",
   "archived": "https://web.archive.org/web/20251013192858/http://spidermedia.ru/blog/redson/all-new-mzhdz-rekviem-po-mechte",
+  "tags": [
+    "mnenie",
+    "mzhdz"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](https://web.archive.org/web/20251013192858im_/http://i.imgur.com/0zaHqKf.jpg "Автор логотипа - Ярослав Астапеев")](https://web.archive.org/web/20260206215846/http://spidermedia.ru/tags/mzhdz)Наши авторы подготовили для вас чуть ли не **самый яркий и нестандартный набор тайтлов за всю историю МЖДЗ**. В этой статье вы найдете целых три комикса Бэтсемьи: еще одно мнение о **Batman Eternal**, подведение промежуточных итогов **Detective Comics** и попытку понять цель серии **Grayson**; у нас есть рецензии на две принципиально разные по настроению манги: безгранично отвязный **Gantz** и невозмутимо спокойный **The Walking Man**; вас ждет подробнейший разбор европейского сериала **Requiem Chevalier Vampire**; мы не забыли кислотный уан-шот **That’s Because You’re A Robot** и новый дебют от Image - **Spread**, а завершит этот эпик критический взгляд на один из ключевых сюжетов бендисовской икс-эпохи **X-Men: Battle of the Atom**. Приготовьтесь отправиться в удивительное путешествие!
+[![](https://web.archive.org/web/20251013192858im_/http://i.imgur.com/0zaHqKf.jpg "Автор логотипа - Ярослав Астапеев")](../../../tags/mzhdz/)Наши авторы подготовили для вас чуть ли не **самый яркий и нестандартный набор тайтлов за всю историю МЖДЗ**. В этой статье вы найдете целых три комикса Бэтсемьи: еще одно мнение о **Batman Eternal**, подведение промежуточных итогов **Detective Comics** и попытку понять цель серии **Grayson**; у нас есть рецензии на две принципиально разные по настроению манги: безгранично отвязный **Gantz** и невозмутимо спокойный **The Walking Man**; вас ждет подробнейший разбор европейского сериала **Requiem Chevalier Vampire**; мы не забыли кислотный уан-шот **That’s Because You’re A Robot** и новый дебют от Image - **Spread**, а завершит этот эпик критический взгляд на один из ключевых сюжетов бендисовской икс-эпохи **X-Men: Battle of the Atom**. Приготовьтесь отправиться в удивительное путешествие!
 
 [![](https://web.archive.org/web/20251013192858im_/http://i.imgur.com/FWabIO5.jpg)](http://i.imgur.com/FWabIO5.jpg)
 

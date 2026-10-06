@@ -4,6 +4,10 @@
   "url": "/news/novyy-kadr-iz-filma-zelenyy-fonar/",
   "original_url": "https://spidermedia.ru/news/novyy-kadr-iz-filma-zelenyy-fonar",
   "archived": "https://web.archive.org/web/20260211182405/https://spidermedia.ru/news/novyy-kadr-iz-filma-zelenyy-fonar",
+  "tags": [
+    "green-lantern",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

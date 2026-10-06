@@ -4,6 +4,9 @@
   "url": "/comics/recenziya-pearl-1/",
   "original_url": "https://spidermedia.ru/comics/recenziya-pearl-1",
   "archived": "https://web.archive.org/web/20250803233756/https://spidermedia.ru/comics/recenziya-pearl-1",
+  "tags": [
+    "brian-michael-bendis"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

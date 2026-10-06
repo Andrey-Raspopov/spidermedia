@@ -4,6 +4,11 @@
   "url": "/news/v-rossii-izdadut-komiks-adaptaciyu-tyomnoy-bashni/",
   "original_url": "http://spidermedia.ru/news/v-rossii-izdadut-komiks-adaptaciyu-tyomnoy-bashni",
   "archived": "https://web.archive.org/web/20191229111134/http://spidermedia.ru:80/news/v-rossii-izdadut-komiks-adaptaciyu-tyomnoy-bashni",
+  "tags": [
+    "tyomnaya-bashnya",
+    "marvel",
+    "izdatelstvo-ast"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

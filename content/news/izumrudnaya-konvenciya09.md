@@ -4,6 +4,12 @@
   "url": "/news/izumrudnaya-konvenciya09/",
   "original_url": "https://spidermedia.ru/news/izumrudnaya-konvenciya09",
   "archived": "https://web.archive.org/web/20251205121924/https://spidermedia.ru/news/izumrudnaya-konvenciya09",
+  "tags": [
+    "boom-studios",
+    "art-0",
+    "konvencii",
+    "emerald-city-comicon"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

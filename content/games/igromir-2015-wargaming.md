@@ -4,6 +4,9 @@
   "url": "/games/igromir-2015-wargaming/",
   "original_url": "http://spidermedia.ru/games/igromir-2015-wargaming",
   "archived": "https://web.archive.org/web/20260305230804/http://spidermedia.ru/games/igromir-2015-wargaming",
+  "tags": [
+    "igromir-2015"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

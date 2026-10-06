@@ -4,6 +4,10 @@
   "url": "/tv/arrow-season-3-review/",
   "original_url": "http://spidermedia.ru/tv/arrow-season-3-review",
   "archived": "https://web.archive.org/web/20260206220608/http://spidermedia.ru/tv/arrow-season-3-review",
+  "tags": [
+    "green-arrow",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

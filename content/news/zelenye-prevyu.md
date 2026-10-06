@@ -4,6 +4,11 @@
   "url": "/news/zelenye-prevyu/",
   "original_url": "http://spidermedia.ru/news/zelenye-prevyu",
   "archived": "https://web.archive.org/web/20251115182357/http://spidermedia.ru/news/zelenye-prevyu",
+  "tags": [
+    "preview",
+    "green-lantern",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

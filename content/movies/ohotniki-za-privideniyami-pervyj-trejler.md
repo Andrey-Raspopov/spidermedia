@@ -4,6 +4,9 @@
   "url": "/movies/ohotniki-za-privideniyami-pervyj-trejler/",
   "original_url": "http://spidermedia.ru/movies/ohotniki-za-privideniyami-pervyj-trejler",
   "archived": "https://web.archive.org/web/20240803174618/http://spidermedia.ru/movies/ohotniki-za-privideniyami-pervyj-trejler",
+  "tags": [
+    "ghostbusters"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

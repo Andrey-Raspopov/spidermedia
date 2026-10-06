@@ -4,6 +4,12 @@
   "url": "/news/no-i-dont-need-be-saved-devil-i-aint-afraid/",
   "original_url": "http://spidermedia.ru/news/no-i-dont-need-be-saved-devil-i-aint-afraid",
   "archived": "https://web.archive.org/web/20250808202731/http://spidermedia.ru/news/no-i-dont-need-be-saved-devil-i-aint-afraid",
+  "tags": [
+    "hellboy",
+    "dark-horse",
+    "hellboj",
+    "majk-minola"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

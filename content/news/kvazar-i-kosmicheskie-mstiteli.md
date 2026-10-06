@@ -4,6 +4,16 @@
   "url": "/news/kvazar-i-kosmicheskie-mstiteli/",
   "original_url": "http://spidermedia.ru/news/kvazar-i-kosmicheskie-mstiteli",
   "archived": "https://web.archive.org/web/20120607152631/http://spidermedia.ru/news/kvazar-i-kosmicheskie-mstiteli",
+  "tags": [
+    "avengers",
+    "quasar",
+    "realm-kings",
+    "war-kings",
+    "kvazar",
+    "komiksy",
+    "marvel",
+    "mstiteli"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,14 @@
   "url": "/news/nycc10-avengers-assemble/",
   "original_url": "http://spidermedia.ru/news/nycc10-avengers-assemble",
   "archived": "https://web.archive.org/web/20251018224808/http://spidermedia.ru/news/nycc10-avengers-assemble",
+  "tags": [
+    "preview",
+    "komik-kon-v-nyu-yorke",
+    "nycc-2010",
+    "new-york-comic-con",
+    "marvel",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/news/vampiry-v-gollivude/",
   "original_url": "https://spidermedia.ru/news/vampiry-v-gollivude",
   "archived": "https://web.archive.org/web/20260308234312/https://spidermedia.ru/news/vampiry-v-gollivude",
+  "tags": [
+    "skott-snajder",
+    "rafael-albukerke",
+    "vertigo"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

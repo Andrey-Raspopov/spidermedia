@@ -4,6 +4,13 @@
   "url": "/news/posle-second-coming-x-universe/",
   "original_url": "http://spidermedia.ru/news/posle-second-coming-x-universe",
   "archived": "https://web.archive.org/web/20251205124413/http://spidermedia.ru/news/posle-second-coming-x-universe",
+  "tags": [
+    "x-23",
+    "daken",
+    "x-men",
+    "new-mutants-forever",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

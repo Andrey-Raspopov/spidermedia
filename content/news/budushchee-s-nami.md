@@ -4,6 +4,16 @@
   "url": "/news/budushchee-s-nami/",
   "original_url": "http://spidermedia.ru/news/budushchee-s-nami",
   "archived": "https://web.archive.org/web/20120607045625/http://spidermedia.ru/news/budushchee-s-nami",
+  "tags": [
+    "ff",
+    "jonathan-hickman",
+    "komiksy",
+    "marvel",
+    "organizaciya-budushchego",
+    "stiv-epting",
+    "fantasticheskaya-chetverka",
+    "huan-bobillo"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

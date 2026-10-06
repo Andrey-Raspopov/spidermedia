@@ -4,6 +4,12 @@
   "url": "/news/celnometallicheskaya-obolochka/",
   "original_url": "http://spidermedia.ru/news/celnometallicheskaya-obolochka",
   "archived": "https://web.archive.org/web/20120608221125/http://spidermedia.ru/news/celnometallicheskaya-obolochka",
+  "tags": [
+    "dc-comics",
+    "metal-men",
+    "art-0",
+    "kit-giffen-0"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

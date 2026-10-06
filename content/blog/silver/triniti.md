@@ -4,6 +4,10 @@
   "url": "/blog/silver/triniti/",
   "original_url": "http://spidermedia.ru/blog/silver/triniti",
   "archived": "https://web.archive.org/web/20240718180057/http://spidermedia.ru/blog/silver/triniti",
+  "tags": [
+    "grant-morrison",
+    "frenk-kuajtli"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

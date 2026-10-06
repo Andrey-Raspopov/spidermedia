@@ -4,6 +4,10 @@
   "url": "/news/kupi-slona/",
   "original_url": "http://spidermedia.ru/news/kupi-slona",
   "archived": "https://web.archive.org/web/20230208173101/http://spidermedia.ru/news/kupi-slona",
+  "tags": [
+    "image-comics",
+    "elephantmen"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

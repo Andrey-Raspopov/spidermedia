@@ -4,6 +4,10 @@
   "url": "/news/oni-vozvrashchayutsya/",
   "original_url": "http://spidermedia.ru/news/oni-vozvrashchayutsya",
   "archived": "https://web.archive.org/web/20111026061652/http://spidermedia.ru/news/oni-vozvrashchayutsya",
+  "tags": [
+    "zenescope-entertainment",
+    "komiksy"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

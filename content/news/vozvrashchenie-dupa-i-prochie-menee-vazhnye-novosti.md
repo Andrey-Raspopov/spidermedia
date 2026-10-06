@@ -4,6 +4,16 @@
   "url": "/news/vozvrashchenie-dupa-i-prochie-menee-vazhnye-novosti/",
   "original_url": "http://spidermedia.ru/news/vozvrashchenie-dupa-i-prochie-menee-vazhnye-novosti",
   "archived": "https://web.archive.org/web/20260124062223/http://spidermedia.ru/news/vozvrashchenie-dupa-i-prochie-menee-vazhnye-novosti",
+  "tags": [
+    "kristos-gejdzh",
+    "komik-kon-v-nyu-jorke",
+    "deadpool",
+    "devid-boldion",
+    "x-men",
+    "wolverine",
+    "nycc-2011",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

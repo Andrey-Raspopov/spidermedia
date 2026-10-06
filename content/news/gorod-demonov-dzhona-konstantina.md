@@ -4,6 +4,14 @@
   "url": "/news/gorod-demonov-dzhona-konstantina/",
   "original_url": "https://spidermedia.ru/news/gorod-demonov-dzhona-konstantina",
   "archived": "https://web.archive.org/web/20251211024024/https://spidermedia.ru/news/gorod-demonov-dzhona-konstantina",
+  "tags": [
+    "si-spenser",
+    "vertigo",
+    "si-spencer",
+    "sean-murphy",
+    "hellblazer",
+    "shon-merfi"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

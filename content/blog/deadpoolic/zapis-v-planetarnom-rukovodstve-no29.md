@@ -4,6 +4,12 @@
   "url": "/blog/deadpoolic/zapis-v-planetarnom-rukovodstve-no29/",
   "original_url": "http://spidermedia.ru/blog/deadpoolic/zapis-v-planetarnom-rukovodstve-no29",
   "archived": "https://web.archive.org/web/20111019011839/http://spidermedia.ru/blog/deadpoolic/zapis-v-planetarnom-rukovodstve-no29",
+  "tags": [
+    "geargrinders",
+    "x-post",
+    "kino",
+    "komiksy"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

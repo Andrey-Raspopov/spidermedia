@@ -4,6 +4,10 @@
   "url": "/news/ongoing-fantastic-four-perezapustyat-v-fevrale/",
   "original_url": "https://spidermedia.ru/news/ongoing-fantastic-four-perezapustyat-v-fevrale",
   "archived": "https://web.archive.org/web/20250420033241/https://spidermedia.ru/news/ongoing-fantastic-four-perezapustyat-v-fevrale",
+  "tags": [
+    "marvel",
+    "fantastic-four"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

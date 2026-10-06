@@ -4,6 +4,15 @@
   "url": "/news/ubiycy-negodyaev/",
   "original_url": "https://spidermedia.ru/news/ubiycy-negodyaev",
   "archived": "https://web.archive.org/web/20250328000752/https://spidermedia.ru/news/ubiycy-negodyaev",
+  "tags": [
+    "frensis-manapul",
+    "negodyai",
+    "geoff-johns",
+    "rogues",
+    "francis-manapul",
+    "the-flash",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

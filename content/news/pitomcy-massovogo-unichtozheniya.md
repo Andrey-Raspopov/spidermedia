@@ -4,6 +4,11 @@
   "url": "/news/pitomcy-massovogo-unichtozheniya/",
   "original_url": "http://spidermedia.ru/news/pitomcy-massovogo-unichtozheniya",
   "archived": "https://web.archive.org/web/20260314080839/http://spidermedia.ru/news/pitomcy-massovogo-unichtozheniya",
+  "tags": [
+    "grant-morrison",
+    "vertigo",
+    "we3"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

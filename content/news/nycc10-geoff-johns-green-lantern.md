@@ -4,6 +4,18 @@
   "url": "/news/nycc10-geoff-johns-green-lantern/",
   "original_url": "http://spidermedia.ru/news/nycc10-geoff-johns-green-lantern",
   "archived": "https://web.archive.org/web/20260309183152/http://spidermedia.ru/news/nycc10-geoff-johns-green-lantern",
+  "tags": [
+    "larfliz",
+    "komik-kon-v-nyu-jorke",
+    "ethan-van-sciver",
+    "geoff-johns",
+    "aquaman",
+    "nycc-2010",
+    "new-york-comic-con",
+    "green-lantern",
+    "the-flash",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

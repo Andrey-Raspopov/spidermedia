@@ -4,6 +4,10 @@
   "url": "/tv/supergirl-s01e04-how-does-she-do-it/",
   "original_url": "https://spidermedia.ru/tv/supergirl-s01e04-how-does-she-do-it",
   "archived": "https://web.archive.org/web/20260210171251/https://spidermedia.ru/tv/supergirl-s01e04-how-does-she-do-it",
+  "tags": [
+    "dc-comics",
+    "supergirl"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

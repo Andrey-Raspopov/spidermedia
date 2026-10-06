@@ -4,6 +4,12 @@
   "url": "/news/gnizama-amazing/",
   "original_url": "https://spidermedia.ru/news/gnizama-amazing",
   "archived": "https://web.archive.org/web/20260215083044/https://spidermedia.ru/news/gnizama-amazing",
+  "tags": [
+    "pol-dini",
+    "zatanna",
+    "dan-didio",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

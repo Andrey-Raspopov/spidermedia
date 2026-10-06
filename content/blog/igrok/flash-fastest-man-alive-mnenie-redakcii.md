@@ -4,6 +4,12 @@
   "url": "/blog/igrok/flash-fastest-man-alive-mnenie-redakcii/",
   "original_url": "http://spidermedia.ru/blog/igrok/flash-fastest-man-alive-mnenie-redakcii",
   "archived": "https://web.archive.org/web/20250717194517/http://spidermedia.ru/blog/igrok/flash-fastest-man-alive-mnenie-redakcii",
+  "tags": [
+    "the-flash",
+    "serialy",
+    "mnenie",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/comics/legend-of-korra-artist/",
   "original_url": "http://spidermedia.ru/comics/legend-of-korra-artist",
   "archived": "https://web.archive.org/web/20260211190453/http://spidermedia.ru/comics/legend-of-korra-artist",
+  "tags": [
+    "komik-kon-v-nyu-yorke",
+    "dark-horse"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

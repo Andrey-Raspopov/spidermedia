@@ -4,6 +4,10 @@
   "url": "/news/chernoe-leto/",
   "original_url": "https://spidermedia.ru/news/chernoe-leto",
   "archived": "https://web.archive.org/web/20251107004401/https://spidermedia.ru/news/chernoe-leto",
+  "tags": [
+    "avatar-press",
+    "warren-ellis"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/blog/drgonzobear/panteon-kult-dvulichiya2-uzhe-v-prodazhe/",
   "original_url": "http://spidermedia.ru/blog/drgonzobear/panteon-kult-dvulichiya2-uzhe-v-prodazhe",
   "archived": "https://web.archive.org/web/20210118150152/http://spidermedia.ru/blog/drgonzobear/panteon-kult-dvulichiya2-uzhe-v-prodazhe",
+  "tags": [
+    "stimpank",
+    "russian-comics",
+    "kult-dvulichiya",
+    "miscreant"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

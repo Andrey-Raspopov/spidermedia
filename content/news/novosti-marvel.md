@@ -4,6 +4,9 @@
   "url": "/news/novosti-marvel/",
   "original_url": "http://spidermedia.ru/news/novosti-marvel",
   "archived": "https://web.archive.org/web/20251115180531/http://spidermedia.ru/news/novosti-marvel",
+  "tags": [
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

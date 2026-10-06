@@ -4,6 +4,18 @@
   "url": "/news/usatyy-muzhchina-otvechaet-na-vashi-voprosy/",
   "original_url": "http://spidermedia.ru/news/usatyy-muzhchina-otvechaet-na-vashi-voprosy",
   "archived": "https://web.archive.org/web/20240305133247/http://spidermedia.ru/news/usatyy-muzhchina-otvechaet-na-vashi-voprosy",
+  "tags": [
+    "titans",
+    "teen-titans",
+    "human-flame",
+    "dc-comics",
+    "black-canary",
+    "dan-didio",
+    "green-arrow",
+    "wonder-woman",
+    "grant-morrison",
+    "geoff-johns"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

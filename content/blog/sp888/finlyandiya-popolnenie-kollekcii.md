@@ -4,6 +4,15 @@
   "url": "/blog/sp888/finlyandiya-popolnenie-kollekcii/",
   "original_url": "http://spidermedia.ru/blog/sp888/finlyandiya-popolnenie-kollekcii",
   "archived": "https://web.archive.org/web/20111018235721/http://spidermedia.ru/blog/sp888/finlyandiya-popolnenie-kollekcii",
+  "tags": [
+    "dark-tower",
+    "marvel",
+    "marvel-max",
+    "supreme-power",
+    "ultimates",
+    "komiksy",
+    "moyo"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

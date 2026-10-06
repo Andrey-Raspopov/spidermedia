@@ -4,6 +4,13 @@
   "url": "/news/ultimate-dolgostroy-chast-2/",
   "original_url": "http://spidermedia.ru/news/ultimate-dolgostroy-chast-2",
   "archived": "https://web.archive.org/web/20150427032107/http://spidermedia.ru/news/ultimate-dolgostroy-chast-2",
+  "tags": [
+    "marvel-comics",
+    "halk",
+    "wolverine",
+    "ultimate",
+    "lejnil-frensis-yu"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

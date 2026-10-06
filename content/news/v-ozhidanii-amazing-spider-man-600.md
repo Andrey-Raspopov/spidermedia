@@ -4,6 +4,15 @@
   "url": "/news/v-ozhidanii-amazing-spider-man-600/",
   "original_url": "http://spidermedia.ru/news/v-ozhidanii-amazing-spider-man-600",
   "archived": "https://web.archive.org/web/20120607154316/http://spidermedia.ru/news/v-ozhidanii-amazing-spider-man-600",
+  "tags": [
+    "brand-new-day",
+    "spider-man",
+    "dzhon-romita-ml",
+    "den-slott",
+    "komiksy",
+    "marvel",
+    "chelovek-pauk"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

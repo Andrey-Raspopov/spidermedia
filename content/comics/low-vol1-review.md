@@ -4,6 +4,11 @@
   "url": "/comics/low-vol1-review/",
   "original_url": "https://spidermedia.ru/comics/low-vol1-review",
   "archived": "https://web.archive.org/web/20251211034304/https://spidermedia.ru/comics/low-vol1-review",
+  "tags": [
+    "xl-media",
+    "greg-tochchini",
+    "rik-remender"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

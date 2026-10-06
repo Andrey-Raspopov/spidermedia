@@ -4,6 +4,13 @@
   "url": "/news/oficialnaya-bet-hronologiya/",
   "original_url": "https://spidermedia.ru/news/oficialnaya-bet-hronologiya",
   "archived": "https://web.archive.org/web/20251115034836/https://spidermedia.ru/news/oficialnaya-bet-hronologiya",
+  "tags": [
+    "dc-comics",
+    "batman",
+    "dan-didio",
+    "nycc-2009",
+    "final-crisis"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

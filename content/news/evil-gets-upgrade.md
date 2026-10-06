@@ -4,6 +4,13 @@
   "url": "/news/evil-gets-upgrade/",
   "original_url": "http://spidermedia.ru/news/evil-gets-upgrade",
   "archived": "https://web.archive.org/web/20150423205017/http://spidermedia.ru/news/evil-gets-upgrade",
+  "tags": [
+    "stiven-segoviya",
+    "kevin-shinik",
+    "karnejdzh",
+    "marvel-comics",
+    "karnazh"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

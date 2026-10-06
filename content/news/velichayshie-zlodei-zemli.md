@@ -4,6 +4,12 @@
   "url": "/news/velichayshie-zlodei-zemli/",
   "original_url": "http://spidermedia.ru/news/velichayshie-zlodei-zemli",
   "archived": "https://web.archive.org/web/20230323051052/http://spidermedia.ru/news/velichayshie-zlodei-zemli",
+  "tags": [
+    "zlodei",
+    "gabriele-dell-otto",
+    "art-0",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

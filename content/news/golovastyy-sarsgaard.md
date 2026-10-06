@@ -4,6 +4,9 @@
   "url": "/news/golovastyy-sarsgaard/",
   "original_url": "http://spidermedia.ru/news/golovastyy-sarsgaard",
   "archived": "https://web.archive.org/web/20250909132709/http://spidermedia.ru/news/golovastyy-sarsgaard",
+  "tags": [
+    "green-lantern"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

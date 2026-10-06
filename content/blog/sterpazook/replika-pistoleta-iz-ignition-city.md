@@ -4,6 +4,11 @@
   "url": "/blog/sterpazook/replika-pistoleta-iz-ignition-city/",
   "original_url": "https://spidermedia.ru/blog/sterpazook/replika-pistoleta-iz-ignition-city",
   "archived": "https://web.archive.org/web/20260121004224/https://spidermedia.ru/blog/sterpazook/replika-pistoleta-iz-ignition-city",
+  "tags": [
+    "figurki",
+    "warren-ellis",
+    "avatar-press"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

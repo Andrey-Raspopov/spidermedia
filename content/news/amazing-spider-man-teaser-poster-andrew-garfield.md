@@ -4,6 +4,10 @@
   "url": "/news/amazing-spider-man-teaser-poster-andrew-garfield/",
   "original_url": "https://spidermedia.ru/news/amazing-spider-man-teaser-poster-andrew-garfield",
   "archived": "https://web.archive.org/web/20240226085724/https://spidermedia.ru/news/amazing-spider-man-teaser-poster-andrew-garfield",
+  "tags": [
+    "marvel",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

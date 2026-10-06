@@ -4,6 +4,14 @@
   "url": "/blog/larosh/constantine-s01e03-devils-vinyl-mnenie-redakcii-0/",
   "original_url": "http://spidermedia.ru/blog/larosh/constantine-s01e03-devils-vinyl-mnenie-redakcii-0",
   "archived": "https://web.archive.org/web/20260214140212/http://spidermedia.ru/blog/larosh/constantine-s01e03-devils-vinyl-mnenie-redakcii-0",
+  "tags": [
+    "serialy",
+    "obzor",
+    "dzhon-konstantin",
+    "vertigo",
+    "dc-comics",
+    "constantine"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

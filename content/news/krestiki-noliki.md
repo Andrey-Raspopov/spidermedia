@@ -4,6 +4,11 @@
   "url": "/news/krestiki-noliki/",
   "original_url": "https://spidermedia.ru/news/krestiki-noliki",
   "archived": "https://web.archive.org/web/20250422030201/https://spidermedia.ru/news/krestiki-noliki",
+  "tags": [
+    "brian-michael-bendis",
+    "alex-maleev",
+    "ox"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

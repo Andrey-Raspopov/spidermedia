@@ -4,6 +4,16 @@
   "url": "/blog/derden/dc-comics-limited-series-vypusk-2/",
   "original_url": "http://spidermedia.ru/blog/derden/dc-comics-limited-series-vypusk-2",
   "archived": "https://web.archive.org/web/20200224084728/http://spidermedia.ru:80/blog/derden/dc-comics-limited-series-vypusk-2",
+  "tags": [
+    "alex-ross",
+    "plastic-man",
+    "mini-series",
+    "limited-series",
+    "justice",
+    "dr.-fate",
+    "dc-comics",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

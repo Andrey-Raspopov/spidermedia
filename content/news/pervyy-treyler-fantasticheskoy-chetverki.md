@@ -4,6 +4,10 @@
   "url": "/news/pervyy-treyler-fantasticheskoy-chetverki/",
   "original_url": "http://spidermedia.ru/news/pervyy-treyler-fantasticheskoy-chetverki",
   "archived": "https://web.archive.org/web/20260125114851/http://spidermedia.ru/news/pervyy-treyler-fantasticheskoy-chetverki",
+  "tags": [
+    "fantastic-four",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

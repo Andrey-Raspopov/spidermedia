@@ -4,6 +4,17 @@
   "url": "/news/pervyy-vzglyad-na-daredevil-reborn-obnovlenie/",
   "original_url": "https://spidermedia.ru/news/pervyy-vzglyad-na-daredevil-reborn-obnovlenie",
   "archived": "https://web.archive.org/web/20250620073205/https://spidermedia.ru/news/pervyy-vzglyad-na-daredevil-reborn-obnovlenie",
+  "tags": [
+    "entoni-dzhonston",
+    "strana-tenej",
+    "dzhok",
+    "dardevil",
+    "art-0",
+    "shadowland",
+    "marvel",
+    "jock",
+    "daredevil"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

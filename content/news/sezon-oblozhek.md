@@ -4,6 +4,15 @@
   "url": "/news/sezon-oblozhek/",
   "original_url": "https://spidermedia.ru/news/sezon-oblozhek",
   "archived": "https://web.archive.org/web/20250807230140/https://spidermedia.ru/news/sezon-oblozhek",
+  "tags": [
+    "art-0",
+    "x-men",
+    "spider-man",
+    "fantastic-four",
+    "daredevil",
+    "marvel",
+    "dzhulian-totino"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

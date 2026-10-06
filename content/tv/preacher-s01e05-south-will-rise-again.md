@@ -4,6 +4,10 @@
   "url": "/tv/preacher-s01e05-south-will-rise-again/",
   "original_url": "http://spidermedia.ru/tv/preacher-s01e05-south-will-rise-again",
   "archived": "https://web.archive.org/web/20251107000114/http://spidermedia.ru/tv/preacher-s01e05-south-will-rise-again",
+  "tags": [
+    "vertigo",
+    "preacher"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

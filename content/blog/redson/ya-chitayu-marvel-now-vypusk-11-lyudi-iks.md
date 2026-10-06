@@ -4,6 +4,11 @@
   "url": "/blog/redson/ya-chitayu-marvel-now-vypusk-11-lyudi-iks/",
   "original_url": "http://spidermedia.ru/blog/redson/ya-chitayu-marvel-now-vypusk-11-lyudi-iks",
   "archived": "https://web.archive.org/web/20200127064444/http://spidermedia.ru:80/blog/redson/ya-chitayu-marvel-now-vypusk-11-lyudi-iks",
+  "tags": [
+    "mnenie",
+    "marvel",
+    "x-men"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

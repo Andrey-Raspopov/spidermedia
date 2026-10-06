@@ -4,6 +4,10 @@
   "url": "/comics/pravyj-pereplet-07-golosa/",
   "original_url": "http://spidermedia.ru/comics/pravyj-pereplet-07-golosa",
   "archived": "https://web.archive.org/web/20251207010247/http://spidermedia.ru/comics/pravyj-pereplet-07-golosa",
+  "tags": [
+    "manga",
+    "right-binding"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

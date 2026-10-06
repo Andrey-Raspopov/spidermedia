@@ -4,6 +4,10 @@
   "url": "/news/ne-sudi-da-ne-sudim-budesh/",
   "original_url": "http://spidermedia.ru/news/ne-sudi-da-ne-sudim-budesh",
   "archived": "https://web.archive.org/web/20251207092416/http://spidermedia.ru/news/ne-sudi-da-ne-sudim-budesh",
+  "tags": [
+    "2000-ad",
+    "judge-dredd"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

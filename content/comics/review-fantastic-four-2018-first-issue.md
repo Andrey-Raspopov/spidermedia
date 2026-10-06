@@ -4,6 +4,10 @@
   "url": "/comics/review-fantastic-four-2018-first-issue/",
   "original_url": "http://spidermedia.ru/comics/review-fantastic-four-2018-first-issue",
   "archived": "https://web.archive.org/web/20260115064646/http://spidermedia.ru/comics/review-fantastic-four-2018-first-issue",
+  "tags": [
+    "marvel",
+    "fantastic-four"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

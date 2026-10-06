@@ -4,6 +4,10 @@
   "url": "/news/opros-molniya/",
   "original_url": "http://spidermedia.ru/news/opros-molniya",
   "archived": "https://web.archive.org/web/20251107001722/http://spidermedia.ru/news/opros-molniya",
+  "tags": [
+    "marvel",
+    "thunderbolts"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

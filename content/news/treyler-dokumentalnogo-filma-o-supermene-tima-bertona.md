@@ -4,6 +4,10 @@
   "url": "/news/treyler-dokumentalnogo-filma-o-supermene-tima-bertona/",
   "original_url": "https://spidermedia.ru/news/treyler-dokumentalnogo-filma-o-supermene-tima-bertona",
   "archived": "https://web.archive.org/web/20260309003248/https://spidermedia.ru/news/treyler-dokumentalnogo-filma-o-supermene-tima-bertona",
+  "tags": [
+    "superman",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

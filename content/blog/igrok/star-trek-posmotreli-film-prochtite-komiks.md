@@ -4,6 +4,12 @@
   "url": "/blog/igrok/star-trek-posmotreli-film-prochtite-komiks/",
   "original_url": "http://spidermedia.ru/blog/igrok/star-trek-posmotreli-film-prochtite-komiks",
   "archived": "https://web.archive.org/web/20251014042908/http://spidermedia.ru/blog/igrok/star-trek-posmotreli-film-prochtite-komiks",
+  "tags": [
+    "star-trek",
+    "ssylki",
+    "j.-j.-abrams",
+    "zvezdnyj-put"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

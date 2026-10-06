@@ -4,6 +4,14 @@
   "url": "/news/comic-con-russia-eksklyuziv-intervyu-s-konstantinom-tarasovym-i-somik-iz-art-gruppy-fsd-works-0/",
   "original_url": "https://spidermedia.ru/news/comic-con-russia-eksklyuziv-intervyu-s-konstantinom-tarasovym-i-somik-iz-art-gruppy-fsd-works-0",
   "archived": "https://web.archive.org/web/20251110230739/https://spidermedia.ru/news/comic-con-russia-eksklyuziv-intervyu-s-konstantinom-tarasovym-i-somik-iz-art-gruppy-fsd-works-0",
+  "tags": [
+    "russian-comics",
+    "konstantin-tarasov",
+    "intervyu",
+    "somik",
+    "fsd",
+    "bubble"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/comics/manga-inuyashiki/",
   "original_url": "https://spidermedia.ru/comics/manga-inuyashiki",
   "archived": "https://web.archive.org/web/20251209152120/https://spidermedia.ru/comics/manga-inuyashiki",
+  "tags": [
+    "manga"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

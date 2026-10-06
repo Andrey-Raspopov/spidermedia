@@ -4,6 +4,9 @@
   "url": "/comics/kommissia-second-weekend/",
   "original_url": "https://spidermedia.ru/comics/kommissia-second-weekend",
   "archived": "https://web.archive.org/web/20250717191824/https://spidermedia.ru/comics/kommissia-second-weekend",
+  "tags": [
+    "kommissiya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

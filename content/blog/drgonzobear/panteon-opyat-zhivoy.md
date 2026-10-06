@@ -4,6 +4,11 @@
   "url": "/blog/drgonzobear/panteon-opyat-zhivoy/",
   "original_url": "http://spidermedia.ru/blog/drgonzobear/panteon-opyat-zhivoy",
   "archived": "https://web.archive.org/web/20210118141021/http://spidermedia.ru/blog/drgonzobear/panteon-opyat-zhivoy",
+  "tags": [
+    "stimpank",
+    "russian-comics",
+    "miscreant"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

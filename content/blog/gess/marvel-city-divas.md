@@ -4,6 +4,12 @@
   "url": "/blog/gess/marvel-city-divas/",
   "original_url": "http://spidermedia.ru/blog/gess/marvel-city-divas",
   "archived": "https://web.archive.org/web/20190918093728/http://spidermedia.ru/blog/gess/marvel-city-divas",
+  "tags": [
+    "roberto-agirre-sakasa",
+    "palevo",
+    "marvel",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

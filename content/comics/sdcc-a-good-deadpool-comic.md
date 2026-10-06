@@ -4,6 +4,11 @@
   "url": "/comics/sdcc-a-good-deadpool-comic/",
   "original_url": "https://spidermedia.ru/comics/sdcc-a-good-deadpool-comic",
   "archived": "https://web.archive.org/web/20250424195429/https://spidermedia.ru/comics/sdcc-a-good-deadpool-comic",
+  "tags": [
+    "marvel",
+    "san-diego-comic-con-international",
+    "deadpool"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

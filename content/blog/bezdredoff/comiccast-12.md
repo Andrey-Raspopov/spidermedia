@@ -4,6 +4,9 @@
   "url": "/blog/bezdredoff/comiccast-12/",
   "original_url": "http://spidermedia.ru/blog/bezdredoff/comiccast-12",
   "archived": "https://web.archive.org/web/20150320085642/http://spidermedia.ru/blog/bezdredoff/comiccast-12",
+  "tags": [
+    "komikkast"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/comics/manga-hitman/",
   "original_url": "https://spidermedia.ru/comics/manga-hitman",
   "archived": "https://web.archive.org/web/20251110225639/https://spidermedia.ru/comics/manga-hitman",
+  "tags": [
+    "manga"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

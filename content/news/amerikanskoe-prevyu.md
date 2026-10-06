@@ -4,6 +4,18 @@
   "url": "/news/amerikanskoe-prevyu/",
   "original_url": "http://spidermedia.ru/news/amerikanskoe-prevyu",
   "archived": "https://web.archive.org/web/20260314083730/http://spidermedia.ru/news/amerikanskoe-prevyu",
+  "tags": [
+    "fil-himenez",
+    "paulo-sikejra",
+    "norman-ozborn",
+    "marko-chekchetto",
+    "zheleznyj-patriot",
+    "joe-kelly",
+    "garri-ozborn",
+    "norman-osborn",
+    "iron-patriot",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

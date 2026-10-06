@@ -4,11 +4,15 @@
   "url": "/blog/redson/mzhdz-i-give-you-superman-also-batman/",
   "original_url": "http://spidermedia.ru/blog/redson/mzhdz-i-give-you-superman-also-batman",
   "archived": "https://web.archive.org/web/20251115034023/http://spidermedia.ru/blog/redson/mzhdz-i-give-you-superman-also-batman",
+  "tags": [
+    "mnenie",
+    "mzhdz"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](https://web.archive.org/web/20251115034023im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz.png)](https://web.archive.org/web/20260206215846/http://spidermedia.ru/tags/mzhdz)
+[![](https://web.archive.org/web/20251115034023im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz.png)](../../../tags/mzhdz/)
 ![](https://web.archive.org/web/20251115034023im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/nope.jpg)
 Action Comics и Detective Comics стояли монументом на фоне закрытий, открытий и перетасовок, уверенно двигаясь к 1000-м выпускам. Казалось, уж им-то ничто не угрожает, они всегда будут выходить без трюков. Это было негласным правилом индустрии, вроде "у Watchmen никогда не будет сиквела", "Баки умер во Вторую Мировую" и "Человек-Паук - белый". Но DC его нарушило, чтобы доказать серьезность намерений. "Экшен" и "Тек" прожили всю историю вселенной от самого ее рождения, отсчитывая... что-то, но пришло время сбросить цифры и начать сначала. В новую эпоху нас ведут Грант Моррисон и Тони Дэниел, каждый по-своему. У кого получилось лучше? И получилось ли вообще?
 [Расшифровка системы оценок](../mzhdz-odin-vy-kak-hotite-ya-kak-hochu/).

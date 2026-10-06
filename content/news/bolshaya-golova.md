@@ -4,6 +4,11 @@
   "url": "/news/bolshaya-golova/",
   "original_url": "http://spidermedia.ru/news/bolshaya-golova",
   "archived": "https://web.archive.org/web/20120718105533/http://spidermedia.ru/news/bolshaya-golova",
+  "tags": [
+    "green-lantern",
+    "zelenyy-fonar",
+    "kino"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

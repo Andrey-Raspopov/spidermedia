@@ -4,6 +4,12 @@
   "url": "/blog/transistor/recenziya-na-film-chem-dalshe-v-les-0/",
   "original_url": "https://spidermedia.ru/blog/transistor/recenziya-na-film-chem-dalshe-v-les-0",
   "archived": "https://web.archive.org/web/20251116054056/https://spidermedia.ru/blog/transistor/recenziya-na-film-chem-dalshe-v-les-0",
+  "tags": [
+    "disney",
+    "myuzikl",
+    "obzor",
+    "recenziya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

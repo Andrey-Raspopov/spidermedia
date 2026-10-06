@@ -4,6 +4,11 @@
   "url": "/news/anonsy-rossiyskih-izdateley-na-2014-god/",
   "original_url": "http://spidermedia.ru/news/anonsy-rossiyskih-izdateley-na-2014-god",
   "archived": "https://web.archive.org/web/20251107023044/http://spidermedia.ru/news/anonsy-rossiyskih-izdateley-na-2014-god",
+  "tags": [
+    "panini",
+    "komiks-art",
+    "zarubezhnye-komiksy-na-russkom"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

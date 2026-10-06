@@ -4,6 +4,19 @@
   "url": "/news/cry-july/",
   "original_url": "http://spidermedia.ru/news/cry-july",
   "archived": "https://web.archive.org/web/20260125131939/http://spidermedia.ru/news/cry-july",
+  "tags": [
+    "dc-comics",
+    "green-lantern",
+    "dzhejms-robinson",
+    "betvuman",
+    "james-robinson",
+    "justice-league",
+    "shejd",
+    "kongorilla",
+    "starmen",
+    "atom",
+    "green-arrow"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

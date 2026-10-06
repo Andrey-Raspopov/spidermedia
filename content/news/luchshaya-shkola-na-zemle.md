@@ -4,6 +4,12 @@
   "url": "/news/luchshaya-shkola-na-zemle/",
   "original_url": "https://spidermedia.ru/news/luchshaya-shkola-na-zemle",
   "archived": "https://web.archive.org/web/20251107004158/https://spidermedia.ru/news/luchshaya-shkola-na-zemle",
+  "tags": [
+    "kris-bachalo",
+    "dzheyson-aaron",
+    "x-men",
+    "wolverine"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

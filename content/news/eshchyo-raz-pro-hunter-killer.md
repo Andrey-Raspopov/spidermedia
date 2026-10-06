@@ -4,6 +4,14 @@
   "url": "/news/eshchyo-raz-pro-hunter-killer/",
   "original_url": "http://spidermedia.ru/news/eshchyo-raz-pro-hunter-killer",
   "archived": "https://web.archive.org/web/20160426212642/http://spidermedia.ru/news/eshchyo-raz-pro-hunter-killer",
+  "tags": [
+    "mark-waid",
+    "image-comics",
+    "top-cow",
+    "hunter-killer",
+    "kennet-rokafort",
+    "cyberforce"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

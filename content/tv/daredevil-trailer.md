@@ -4,6 +4,10 @@
   "url": "/tv/daredevil-trailer/",
   "original_url": "http://spidermedia.ru/tv/daredevil-trailer",
   "archived": "https://web.archive.org/web/20250620073603/http://spidermedia.ru/tv/daredevil-trailer",
+  "tags": [
+    "marvel",
+    "daredevil"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

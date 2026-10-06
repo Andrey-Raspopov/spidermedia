@@ -4,6 +4,10 @@
   "url": "/news/dorvalsya/",
   "original_url": "http://spidermedia.ru/news/dorvalsya",
   "archived": "https://web.archive.org/web/20121118103024/http://spidermedia.ru/news/dorvalsya",
+  "tags": [
+    "kino",
+    "mark-millar"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

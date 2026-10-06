@@ -4,6 +4,15 @@
   "url": "/news/temnoe-pravlenie-bez-legiona/",
   "original_url": "http://spidermedia.ru/news/temnoe-pravlenie-bez-legiona",
   "archived": "https://web.archive.org/web/20120608233135/http://spidermedia.ru/news/temnoe-pravlenie-bez-legiona",
+  "tags": [
+    "dark-reign",
+    "lethal-legion",
+    "art-0",
+    "komiksy",
+    "marvel",
+    "oblozhki",
+    "frenk-tieri-0"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

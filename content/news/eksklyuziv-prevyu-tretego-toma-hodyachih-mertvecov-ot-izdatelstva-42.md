@@ -4,6 +4,12 @@
   "url": "/news/eksklyuziv-prevyu-tretego-toma-hodyachih-mertvecov-ot-izdatelstva-42/",
   "original_url": "https://spidermedia.ru/news/eksklyuziv-prevyu-tretego-toma-hodyachih-mertvecov-ot-izdatelstva-42",
   "archived": "https://web.archive.org/web/20251216121925/https://spidermedia.ru/news/eksklyuziv-prevyu-tretego-toma-hodyachih-mertvecov-ot-izdatelstva-42",
+  "tags": [
+    "the-walking-dead",
+    "image-comics",
+    "izdatelstvo-42",
+    "zarubezhnye-komiksy-na-russkom"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

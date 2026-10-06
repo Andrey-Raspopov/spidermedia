@@ -4,6 +4,16 @@
   "url": "/blog/sterpazook/betmen-protiv-dzhokera-breykdens-bitva/",
   "original_url": "https://spidermedia.ru/blog/sterpazook/betmen-protiv-dzhokera-breykdens-bitva",
   "archived": "https://web.archive.org/web/20260211174914/https://spidermedia.ru/blog/sterpazook/betmen-protiv-dzhokera-breykdens-bitva",
+  "tags": [
+    "yumor",
+    "figurki",
+    "igry",
+    "animaciya",
+    "stop-motion",
+    "joker",
+    "dark-knight",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

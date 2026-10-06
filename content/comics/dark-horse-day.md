@@ -4,6 +4,9 @@
   "url": "/comics/dark-horse-day/",
   "original_url": "http://spidermedia.ru/comics/dark-horse-day",
   "archived": "https://web.archive.org/web/20241010053748/http://spidermedia.ru/comics/dark-horse-day",
+  "tags": [
+    "dark-horse"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

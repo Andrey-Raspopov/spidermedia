@@ -4,6 +4,17 @@
   "url": "/news/greg-rakka-uhodit-iz-dc/",
   "original_url": "https://spidermedia.ru/news/greg-rakka-uhodit-iz-dc",
   "archived": "https://web.archive.org/web/20260116222637/https://spidermedia.ru/news/greg-rakka-uhodit-iz-dc",
+  "tags": [
+    "erik-trautman",
+    "uilyams-iii",
+    "nikolya-skott",
+    "greg-rakka",
+    "betvuman",
+    "stumptown",
+    "queen-and-country",
+    "oni-press",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

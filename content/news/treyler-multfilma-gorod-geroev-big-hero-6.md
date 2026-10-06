@@ -4,6 +4,11 @@
   "url": "/news/treyler-multfilma-gorod-geroev-big-hero-6/",
   "original_url": "http://spidermedia.ru/news/treyler-multfilma-gorod-geroev-big-hero-6",
   "archived": "https://web.archive.org/web/20260120144323/http://spidermedia.ru/news/treyler-multfilma-gorod-geroev-big-hero-6",
+  "tags": [
+    "marvel",
+    "disnej",
+    "big-hero-6"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

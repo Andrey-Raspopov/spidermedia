@@ -4,6 +4,9 @@
   "url": "/blog/larosh/istoriya-vedmaka-v-komiksah-0/",
   "original_url": "https://spidermedia.ru/blog/larosh/istoriya-vedmaka-v-komiksah-0",
   "archived": "https://web.archive.org/web/20260214130534/https://spidermedia.ru/blog/larosh/istoriya-vedmaka-v-komiksah-0",
+  "tags": [
+    "vedmak"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

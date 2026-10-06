@@ -4,6 +4,11 @@
   "url": "/blog/hella/roskomnadzor-sila-prosypaetsya/",
   "original_url": "https://spidermedia.ru/blog/hella/roskomnadzor-sila-prosypaetsya",
   "archived": "https://web.archive.org/web/20260214141741/https://spidermedia.ru/blog/hella/roskomnadzor-sila-prosypaetsya",
+  "tags": [
+    "russian-comics",
+    "roskomnadzor",
+    "zarubezhnye-komiksy-na-russkom"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

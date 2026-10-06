@@ -4,6 +4,14 @@
   "url": "/news/here-comes-daredevil/",
   "original_url": "https://spidermedia.ru/news/here-comes-daredevil",
   "archived": "https://web.archive.org/web/20260215083923/https://spidermedia.ru/news/here-comes-daredevil",
+  "tags": [
+    "paolo-rivera",
+    "markos-martin",
+    "mark-waid",
+    "daredevil",
+    "marvel",
+    "marcos-martin"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

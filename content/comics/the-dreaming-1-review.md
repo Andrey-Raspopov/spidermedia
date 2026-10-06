@@ -4,6 +4,11 @@
   "url": "/comics/the-dreaming-1-review/",
   "original_url": "https://spidermedia.ru/comics/the-dreaming-1-review",
   "archived": "https://web.archive.org/web/20260308231103/https://spidermedia.ru/comics/the-dreaming-1-review",
+  "tags": [
+    "vertigo",
+    "neil-gaiman-sandman",
+    "sajmon-spurrier"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

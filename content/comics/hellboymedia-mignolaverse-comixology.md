@@ -4,6 +4,10 @@
   "url": "/comics/hellboymedia-mignolaverse-comixology/",
   "original_url": "https://spidermedia.ru/comics/hellboymedia-mignolaverse-comixology",
   "archived": "https://web.archive.org/web/20251209134609/https://spidermedia.ru/comics/hellboymedia-mignolaverse-comixology",
+  "tags": [
+    "hellboymedia",
+    "novosti"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/comics/eti-strannye-yaponcy-2-krovavye-hroniki-kago-sintaro/",
   "original_url": "http://spidermedia.ru/comics/eti-strannye-yaponcy-2-krovavye-hroniki-kago-sintaro",
   "archived": "https://web.archive.org/web/20250715013245/http://spidermedia.ru/comics/eti-strannye-yaponcy-2-krovavye-hroniki-kago-sintaro",
+  "tags": [
+    "manga"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

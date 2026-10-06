@@ -4,6 +4,11 @@
   "url": "/news/semki-mstiteley-2-nachnutsya-v-yuar-v-fevrale/",
   "original_url": "https://spidermedia.ru/news/semki-mstiteley-2-nachnutsya-v-yuar-v-fevrale",
   "archived": "https://web.archive.org/web/20250617230739/https://spidermedia.ru/news/semki-mstiteley-2-nachnutsya-v-yuar-v-fevrale",
+  "tags": [
+    "black-panther",
+    "avengers",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

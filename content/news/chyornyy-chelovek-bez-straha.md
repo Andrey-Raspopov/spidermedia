@@ -4,6 +4,15 @@
   "url": "/news/chyornyy-chelovek-bez-straha/",
   "original_url": "https://spidermedia.ru/news/chyornyy-chelovek-bez-straha",
   "archived": "https://web.archive.org/web/20250814212905/https://spidermedia.ru/news/chyornyy-chelovek-bez-straha",
+  "tags": [
+    "black-panther",
+    "franchesko-frankavilla",
+    "strana-tenej",
+    "daredevil",
+    "devid-liss",
+    "shadowland",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

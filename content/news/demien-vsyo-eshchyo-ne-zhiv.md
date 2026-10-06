@@ -4,6 +4,11 @@
   "url": "/news/demien-vsyo-eshchyo-ne-zhiv/",
   "original_url": "http://spidermedia.ru/news/demien-vsyo-eshchyo-ne-zhiv",
   "archived": "https://web.archive.org/web/20251207095311/http://spidermedia.ru/news/demien-vsyo-eshchyo-ne-zhiv",
+  "tags": [
+    "dc-comics",
+    "endi-kubert",
+    "robin"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

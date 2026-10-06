@@ -4,6 +4,13 @@
   "url": "/blog/igrok/kstati-o-ptichkah/",
   "original_url": "http://spidermedia.ru/blog/igrok/kstati-o-ptichkah",
   "archived": "https://web.archive.org/web/20251207095735/http://spidermedia.ru/blog/igrok/kstati-o-ptichkah",
+  "tags": [
+    "batman",
+    "joker",
+    "birds-of-prey",
+    "mark-hemill",
+    "serialy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

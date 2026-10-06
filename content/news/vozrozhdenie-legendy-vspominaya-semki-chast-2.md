@@ -4,6 +4,12 @@
   "url": "/news/vozrozhdenie-legendy-vspominaya-semki-chast-2/",
   "original_url": "https://spidermedia.ru/news/vozrozhdenie-legendy-vspominaya-semki-chast-2",
   "archived": "https://web.archive.org/web/20260125113914/https://spidermedia.ru/news/vozrozhdenie-legendy-vspominaya-semki-chast-2",
+  "tags": [
+    "temnyj-rycar",
+    "dc-comics",
+    "dark-knight-rises",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

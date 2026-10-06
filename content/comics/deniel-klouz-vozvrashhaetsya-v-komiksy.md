@@ -4,6 +4,10 @@
   "url": "/comics/deniel-klouz-vozvrashhaetsya-v-komiksy/",
   "original_url": "http://spidermedia.ru/comics/deniel-klouz-vozvrashhaetsya-v-komiksy",
   "archived": "https://web.archive.org/web/20260121013118/http://spidermedia.ru/comics/deniel-klouz-vozvrashhaetsya-v-komiksy",
+  "tags": [
+    "fantagraphics",
+    "daniel-clowes"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/blog/saramaga/",
   "original_url": "http://spidermedia.ru/blog/saramaga",
   "archived": "https://web.archive.org/web/20111018232820/http://spidermedia.ru/blog/saramaga",
+  "tags": [
+    "manga",
+    "stan-lee",
+    "manga-0",
+    "sten-li"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/blog/redson/mzhdz-flashpoint-2-vs-fear-itself-3/",
   "original_url": "http://spidermedia.ru/blog/redson/mzhdz-flashpoint-2-vs-fear-itself-3",
   "archived": "https://web.archive.org/web/20251116072232/http://spidermedia.ru/blog/redson/mzhdz-flashpoint-2-vs-fear-itself-3",
+  "tags": [
+    "mzhdz",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

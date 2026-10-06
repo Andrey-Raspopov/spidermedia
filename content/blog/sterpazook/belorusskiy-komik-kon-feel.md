@@ -4,6 +4,10 @@
   "url": "/blog/sterpazook/belorusskiy-komik-kon-feel/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/belorusskiy-komik-kon-feel",
   "archived": "https://web.archive.org/web/20260312014433/http://spidermedia.ru/blog/sterpazook/belorusskiy-komik-kon-feel",
+  "tags": [
+    "komik-kon-v-minske",
+    "unicon"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

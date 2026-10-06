@@ -4,6 +4,15 @@
   "url": "/news/frekshen-brubeyker-i-zheltaya-sobaka-nominanty-na-ayzner-2013/",
   "original_url": "http://spidermedia.ru/news/frekshen-brubeyker-i-zheltaya-sobaka-nominanty-na-ayzner-2013",
   "archived": "https://web.archive.org/web/20260211185554/http://spidermedia.ru/news/frekshen-brubeyker-i-zheltaya-sobaka-nominanty-na-ayzner-2013",
+  "tags": [
+    "eisner-awards",
+    "saga",
+    "prophet",
+    "matt-fraction",
+    "hawkeye",
+    "fatale",
+    "ed-brubaker"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

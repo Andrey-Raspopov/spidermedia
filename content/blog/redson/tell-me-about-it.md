@@ -4,6 +4,9 @@
   "url": "/blog/redson/tell-me-about-it/",
   "original_url": "http://spidermedia.ru/blog/redson/tell-me-about-it",
   "archived": "https://web.archive.org/web/20111126085501/http://spidermedia.ru/blog/redson/tell-me-about-it",
+  "tags": [
+    "komiksy"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

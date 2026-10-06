@@ -4,6 +4,17 @@
   "url": "/news/vremya-dlya-zhestkih-metodov/",
   "original_url": "https://spidermedia.ru/news/vremya-dlya-zhestkih-metodov",
   "archived": "https://web.archive.org/web/20260215084753/https://spidermedia.ru/news/vremya-dlya-zhestkih-metodov",
+  "tags": [
+    "preview",
+    "supergirl",
+    "shazam",
+    "james-robinson",
+    "green-lantern",
+    "the-flash",
+    "dc-comics",
+    "green-arrow",
+    "justice-league"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/comics/hellboymedia-happy-birthday-mike-mignola/",
   "original_url": "https://spidermedia.ru/comics/hellboymedia-happy-birthday-mike-mignola",
   "archived": "https://web.archive.org/web/20251209152134/https://spidermedia.ru/comics/hellboymedia-happy-birthday-mike-mignola",
+  "tags": [
+    "hellboymedia",
+    "novosti"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

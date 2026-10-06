@@ -4,6 +4,10 @@
   "url": "/news/stan-odnim-iz-agentov-nika-fyuri/",
   "original_url": "http://spidermedia.ru/news/stan-odnim-iz-agentov-nika-fyuri",
   "archived": "https://web.archive.org/web/20220820000042/http://spidermedia.ru/news/stan-odnim-iz-agentov-nika-fyuri",
+  "tags": [
+    "thor",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

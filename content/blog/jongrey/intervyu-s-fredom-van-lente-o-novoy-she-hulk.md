@@ -4,6 +4,12 @@
   "url": "/blog/jongrey/intervyu-s-fredom-van-lente-o-novoy-she-hulk/",
   "original_url": "https://spidermedia.ru/blog/jongrey/intervyu-s-fredom-van-lente-o-novoy-she-hulk",
   "archived": "https://web.archive.org/web/20251006132930/https://spidermedia.ru/blog/jongrey/intervyu-s-fredom-van-lente-o-novoy-she-hulk",
+  "tags": [
+    "marvel",
+    "fred-van-lente",
+    "intervyu",
+    "she-hulk"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

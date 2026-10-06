@@ -4,6 +4,17 @@
   "url": "/news/ne-prosto-boevoe-iskusstvo/",
   "original_url": "http://spidermedia.ru/news/ne-prosto-boevoe-iskusstvo",
   "archived": "https://web.archive.org/web/20220814174714/http://spidermedia.ru/news/ne-prosto-boevoe-iskusstvo",
+  "tags": [
+    "dzhonatan-hikman",
+    "art-0",
+    "deadpool",
+    "majk-benson",
+    "shang-chi",
+    "charli-hyuston",
+    "kodi-chemberlen",
+    "nelson",
+    "luchio-parrilo"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

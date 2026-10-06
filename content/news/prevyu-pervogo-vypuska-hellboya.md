@@ -4,6 +4,13 @@
   "url": "/news/prevyu-pervogo-vypuska-hellboya/",
   "original_url": "http://spidermedia.ru/news/prevyu-pervogo-vypuska-hellboya",
   "archived": "https://web.archive.org/web/20250808194818/http://spidermedia.ru/news/prevyu-pervogo-vypuska-hellboya",
+  "tags": [
+    "hellboj",
+    "izdatelstvo-42",
+    "zarubezhnye-komiksy-na-russkom",
+    "hellboy",
+    "dark-horse"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

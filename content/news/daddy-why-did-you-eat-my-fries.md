@@ -4,6 +4,9 @@
   "url": "/news/daddy-why-did-you-eat-my-fries/",
   "original_url": "https://spidermedia.ru/news/daddy-why-did-you-eat-my-fries",
   "archived": "https://web.archive.org/web/20240520083052/https://spidermedia.ru/news/daddy-why-did-you-eat-my-fries",
+  "tags": [
+    "boom-studios"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

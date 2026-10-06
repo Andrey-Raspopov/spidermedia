@@ -4,6 +4,12 @@
   "url": "/news/hellboya-vnov-izdadut-na-russkom/",
   "original_url": "http://spidermedia.ru/news/hellboya-vnov-izdadut-na-russkom",
   "archived": "https://web.archive.org/web/20251216180458/http://spidermedia.ru/news/hellboya-vnov-izdadut-na-russkom",
+  "tags": [
+    "hellboj",
+    "zarubezhnye-komiksy-na-russkom",
+    "belyj-edinorog",
+    "dark-horse"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

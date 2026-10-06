@@ -4,6 +4,11 @@
   "url": "/news/living-next-door-ellis/",
   "original_url": "http://spidermedia.ru/news/living-next-door-ellis",
   "archived": "https://web.archive.org/web/20230604104802/http://spidermedia.ru/news/living-next-door-ellis",
+  "tags": [
+    "avengers",
+    "marvel",
+    "warren-ellis"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

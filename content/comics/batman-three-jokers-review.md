@@ -4,6 +4,13 @@
   "url": "/comics/batman-three-jokers-review/",
   "original_url": "https://spidermedia.ru/comics/batman-three-jokers-review",
   "archived": "https://web.archive.org/web/20260209111903/https://spidermedia.ru/comics/batman-three-jokers-review",
+  "tags": [
+    "dc-comics",
+    "batman",
+    "dzhejson-fabok",
+    "geoff-johns",
+    "joker"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/comics/all-things-valiant-11-week-34/",
   "original_url": "http://spidermedia.ru/comics/all-things-valiant-11-week-34",
   "archived": "https://web.archive.org/web/20260215080104/http://spidermedia.ru/comics/all-things-valiant-11-week-34",
+  "tags": [
+    "valiant-entertainment"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

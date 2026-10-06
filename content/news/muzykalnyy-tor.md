@@ -4,6 +4,12 @@
   "url": "/news/muzykalnyy-tor/",
   "original_url": "http://spidermedia.ru/news/muzykalnyy-tor",
   "archived": "https://web.archive.org/web/20150426205642/http://spidermedia.ru/news/muzykalnyy-tor",
+  "tags": [
+    "marvel-comics",
+    "thor",
+    "dzhej-majkl-strazhinski",
+    "marko-dzhurdzhevich"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

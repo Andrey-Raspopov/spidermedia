@@ -4,6 +4,10 @@
   "url": "/comics/best-column-about-comics-17-safari-honeymoon/",
   "original_url": "http://spidermedia.ru/comics/best-column-about-comics-17-safari-honeymoon",
   "archived": "https://web.archive.org/web/20251117010444/http://spidermedia.ru/comics/best-column-about-comics-17-safari-honeymoon",
+  "tags": [
+    "best-column-about-comics",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

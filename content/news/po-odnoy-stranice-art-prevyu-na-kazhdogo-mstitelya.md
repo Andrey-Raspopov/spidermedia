@@ -4,6 +4,16 @@
   "url": "/news/po-odnoy-stranice-art-prevyu-na-kazhdogo-mstitelya/",
   "original_url": "http://spidermedia.ru/news/po-odnoy-stranice-art-prevyu-na-kazhdogo-mstitelya",
   "archived": "https://web.archive.org/web/20190820204851/http://spidermedia.ru:80/news/po-odnoy-stranice-art-prevyu-na-kazhdogo-mstitelya",
+  "tags": [
+    "marvel",
+    "avengers",
+    "fantastic-four",
+    "captain-america",
+    "invaders",
+    "new-avengers",
+    "mighty-avengers",
+    "zahvatchiki"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

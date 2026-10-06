@@ -4,6 +4,12 @@
   "url": "/news/x-force-svezhie-novosti/",
   "original_url": "http://spidermedia.ru/news/x-force-svezhie-novosti",
   "archived": "https://web.archive.org/web/20120608205400/http://spidermedia.ru/news/x-force-svezhie-novosti",
+  "tags": [
+    "x-force",
+    "x-universe",
+    "komiksy",
+    "marvel"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

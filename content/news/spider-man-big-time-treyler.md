@@ -4,6 +4,13 @@
   "url": "/news/spider-man-big-time-treyler/",
   "original_url": "https://spidermedia.ru/news/spider-man-big-time-treyler",
   "archived": "https://web.archive.org/web/20251108025504/https://spidermedia.ru/news/spider-man-big-time-treyler",
+  "tags": [
+    "umberto-ramos",
+    "preview",
+    "den-slott",
+    "marvel",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/comics/bronzovaya-statuya-kapitana-ameriki-v-brukline/",
   "original_url": "https://spidermedia.ru/comics/bronzovaya-statuya-kapitana-ameriki-v-brukline",
   "archived": "https://web.archive.org/web/20241205102059/https://spidermedia.ru/comics/bronzovaya-statuya-kapitana-ameriki-v-brukline",
+  "tags": [
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

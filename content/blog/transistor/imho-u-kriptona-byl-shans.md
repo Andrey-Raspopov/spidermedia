@@ -4,6 +4,14 @@
   "url": "/blog/transistor/imho-u-kriptona-byl-shans/",
   "original_url": "https://spidermedia.ru/blog/transistor/imho-u-kriptona-byl-shans",
   "archived": "https://web.archive.org/web/20260313115542/https://spidermedia.ru/blog/transistor/imho-u-kriptona-byl-shans",
+  "tags": [
+    "dc-comics",
+    "devid-gojer",
+    "devid-ejer",
+    "zak-snajder",
+    "imho",
+    "rob-zombi"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/news/krepkiy-oreshek-nachalo/",
   "original_url": "http://spidermedia.ru/news/krepkiy-oreshek-nachalo",
   "archived": "https://web.archive.org/web/20150427053248/http://spidermedia.ru/news/krepkiy-oreshek-nachalo",
+  "tags": [
+    "kino",
+    "boom-studios",
+    "die-hard",
+    "krepkij-oreshek"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

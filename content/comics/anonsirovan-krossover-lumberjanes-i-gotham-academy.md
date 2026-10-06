@@ -4,6 +4,10 @@
   "url": "/comics/anonsirovan-krossover-lumberjanes-i-gotham-academy/",
   "original_url": "http://spidermedia.ru/comics/anonsirovan-krossover-lumberjanes-i-gotham-academy",
   "archived": "https://web.archive.org/web/20260125061800/http://spidermedia.ru/comics/anonsirovan-krossover-lumberjanes-i-gotham-academy",
+  "tags": [
+    "boom-studios",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

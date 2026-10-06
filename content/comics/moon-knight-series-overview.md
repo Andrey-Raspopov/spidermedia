@@ -4,6 +4,15 @@
   "url": "/comics/moon-knight-series-overview/",
   "original_url": "https://spidermedia.ru/comics/moon-knight-series-overview",
   "archived": "https://web.archive.org/web/20251115040738/https://spidermedia.ru/comics/moon-knight-series-overview",
+  "tags": [
+    "marvel",
+    "deklan-shelvi",
+    "dzhejms-stokou",
+    "dzheff-lemir",
+    "moon-knight",
+    "warren-ellis",
+    "franchesko-frankavilla"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/comics/aliens-dead-orbit/",
   "original_url": "http://spidermedia.ru/comics/aliens-dead-orbit",
   "archived": "https://web.archive.org/web/20250217082002/http://spidermedia.ru/comics/aliens-dead-orbit",
+  "tags": [
+    "dark-horse"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,13 @@
   "url": "/news/inok-poydet-na-berlin-eksklyuzivnye-podrobnosti-0/",
   "original_url": "https://spidermedia.ru/news/inok-poydet-na-berlin-eksklyuzivnye-podrobnosti-0",
   "archived": "https://web.archive.org/web/20250808205438/https://spidermedia.ru/news/inok-poydet-na-berlin-eksklyuzivnye-podrobnosti-0",
+  "tags": [
+    "bubble",
+    "andrej-vasin",
+    "artem-gabrelyanov",
+    "inok",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

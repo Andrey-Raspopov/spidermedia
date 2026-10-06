@@ -4,6 +4,10 @@
   "url": "/comics/sdcc-2016-novosti-komiksov-idw/",
   "original_url": "http://spidermedia.ru/comics/sdcc-2016-novosti-komiksov-idw",
   "archived": "https://web.archive.org/web/20260308232000/http://spidermedia.ru/comics/sdcc-2016-novosti-komiksov-idw",
+  "tags": [
+    "idw-publishing",
+    "san-diego-comic-con-international"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

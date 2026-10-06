@@ -4,6 +4,9 @@
   "url": "/games/pervyj-podrobnosti-injustice-2/",
   "original_url": "http://spidermedia.ru/games/pervyj-podrobnosti-injustice-2",
   "archived": "https://web.archive.org/web/20251208081457/http://spidermedia.ru/games/pervyj-podrobnosti-injustice-2",
+  "tags": [
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

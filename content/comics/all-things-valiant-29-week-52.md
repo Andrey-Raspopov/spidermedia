@@ -4,6 +4,9 @@
   "url": "/comics/all-things-valiant-29-week-52/",
   "original_url": "https://spidermedia.ru/comics/all-things-valiant-29-week-52",
   "archived": "https://web.archive.org/web/20260125051311/https://spidermedia.ru/comics/all-things-valiant-29-week-52",
+  "tags": [
+    "valiant-entertainment"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

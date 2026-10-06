@@ -4,6 +4,12 @@
   "url": "/news/dzheremi-renner-o-svoey-roli-v-filme-mstiteli/",
   "original_url": "https://spidermedia.ru/news/dzheremi-renner-o-svoey-roli-v-filme-mstiteli",
   "archived": "https://web.archive.org/web/20241106090402/https://spidermedia.ru/news/dzheremi-renner-o-svoey-roli-v-filme-mstiteli",
+  "tags": [
+    "marvel",
+    "jeremy-renner",
+    "hawkeye",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

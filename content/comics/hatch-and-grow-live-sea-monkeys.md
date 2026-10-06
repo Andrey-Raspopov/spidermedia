@@ -4,6 +4,9 @@
   "url": "/comics/hatch-and-grow-live-sea-monkeys/",
   "original_url": "https://spidermedia.ru/comics/hatch-and-grow-live-sea-monkeys",
   "archived": "https://web.archive.org/web/20251014041343/https://spidermedia.ru/comics/hatch-and-grow-live-sea-monkeys",
+  "tags": [
+    "old-komix"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

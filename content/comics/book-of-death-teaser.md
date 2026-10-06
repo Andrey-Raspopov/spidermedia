@@ -4,6 +4,10 @@
   "url": "/comics/book-of-death-teaser/",
   "original_url": "https://spidermedia.ru/comics/book-of-death-teaser",
   "archived": "https://web.archive.org/web/20260125061234/https://spidermedia.ru/comics/book-of-death-teaser",
+  "tags": [
+    "valiant-entertainment",
+    "novosti"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

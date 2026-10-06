@@ -4,6 +4,13 @@
   "url": "/news/zelenyy-fonar-spoylery/",
   "original_url": "http://spidermedia.ru/news/zelenyy-fonar-spoylery",
   "archived": "https://web.archive.org/web/20120611051156/http://spidermedia.ru/news/zelenyy-fonar-spoylery",
+  "tags": [
+    "dc-comics",
+    "green-lantern",
+    "zelenyy-fonar",
+    "kino",
+    "spoylery"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

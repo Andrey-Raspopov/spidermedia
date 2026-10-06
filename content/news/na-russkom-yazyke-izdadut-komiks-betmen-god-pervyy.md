@@ -4,6 +4,12 @@
   "url": "/news/na-russkom-yazyke-izdadut-komiks-betmen-god-pervyy/",
   "original_url": "https://spidermedia.ru/news/na-russkom-yazyke-izdadut-komiks-betmen-god-pervyy",
   "archived": "https://web.archive.org/web/20251115180149/https://spidermedia.ru/news/na-russkom-yazyke-izdadut-komiks-betmen-god-pervyy",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "batman",
+    "azbuka",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

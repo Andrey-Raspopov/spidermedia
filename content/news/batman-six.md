@@ -4,6 +4,14 @@
   "url": "/news/batman-six/",
   "original_url": "http://spidermedia.ru/news/batman-six",
   "archived": "https://web.archive.org/web/20251110230931/http://spidermedia.ru/news/batman-six",
+  "tags": [
+    "dc-comics",
+    "batman",
+    "secret-six",
+    "superman",
+    "sekretnaya-shesterka",
+    "wonder-woman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

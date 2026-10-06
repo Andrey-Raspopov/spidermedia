@@ -4,6 +4,18 @@
   "url": "/news/dzheyms-bond-v-hrustalnyh-tufelkah/",
   "original_url": "http://spidermedia.ru/news/dzheyms-bond-v-hrustalnyh-tufelkah",
   "archived": "https://web.archive.org/web/20250620071223/http://spidermedia.ru/news/dzheyms-bond-v-hrustalnyh-tufelkah",
+  "tags": [
+    "shon-makmenus",
+    "mark-bakingem",
+    "kris-roberson",
+    "zolushka",
+    "vertigo",
+    "shawn-mcmanus",
+    "mark-buckingham",
+    "fables",
+    "chris-roberson",
+    "bill-uillingem"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

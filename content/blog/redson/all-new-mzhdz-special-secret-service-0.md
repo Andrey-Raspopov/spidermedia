@@ -4,11 +4,17 @@
   "url": "/blog/redson/all-new-mzhdz-special-secret-service-0/",
   "original_url": "https://spidermedia.ru/blog/redson/all-new-mzhdz-special-secret-service-0",
   "archived": "https://web.archive.org/web/20251207101409/https://spidermedia.ru/blog/redson/all-new-mzhdz-special-secret-service-0",
+  "tags": [
+    "dejv-gibbons",
+    "mark-millar",
+    "mzhdz",
+    "recenziya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](https://web.archive.org/web/20251207101409im_/http://i.imgur.com/0zaHqKf.jpg "Автор логотипа - Ярослав Астапеев")](https://web.archive.org/web/20260206215846/http://spidermedia.ru/tags/mzhdz) В прокат вышел фильм «Kingsman: Секретная служба», основанный на комиксе Марка Миллара и Дэйва Гибонса. Издательство «Комильфо» подсуетилось и выпустило первоисточник на русском. Мы уже [написали про фильм](../../transistor/recenziya-na-film-kingsman-sekretnaya-sluzhba-0/), а вскоре оценим и российское издание комикса, но сейчас предлагаем поговорить о самой мини-серии Миллара и Гиббонса. Стоит ли она чьего-то внимания? Потеряла ли история о шпионах свой неповторимый шарм при переносе на экран, или же лучше наоборот сделать вид, что никакого комикса не существует?
+[![](https://web.archive.org/web/20251207101409im_/http://i.imgur.com/0zaHqKf.jpg "Автор логотипа - Ярослав Астапеев")](../../../tags/mzhdz/) В прокат вышел фильм «Kingsman: Секретная служба», основанный на комиксе Марка Миллара и Дэйва Гибонса. Издательство «Комильфо» подсуетилось и выпустило первоисточник на русском. Мы уже [написали про фильм](../../transistor/recenziya-na-film-kingsman-sekretnaya-sluzhba-0/), а вскоре оценим и российское издание комикса, но сейчас предлагаем поговорить о самой мини-серии Миллара и Гиббонса. Стоит ли она чьего-то внимания? Потеряла ли история о шпионах свой неповторимый шарм при переносе на экран, или же лучше наоборот сделать вид, что никакого комикса не существует?
 
 ![](https://web.archive.org/web/20251207101409im_/http://i.imgur.com/BVC4I8g.jpg)[**Расшифровка системы оценок**](../mzhdz-odin-vy-kak-hotite-ya-kak-hochu/) [**Архив рецензий**](../mzhdz-arhiv/)
 

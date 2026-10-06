@@ -4,6 +4,13 @@
   "url": "/blog/sir-carnage/column-no-name-24-02-10-stepping-gasoline-was-your-biggest-mistake/",
   "original_url": "http://spidermedia.ru/blog/sir-carnage/column-no-name-24-02-10-stepping-gasoline-was-your-biggest-mistake",
   "archived": "https://web.archive.org/web/20260211095306/http://spidermedia.ru/blog/sir-carnage/column-no-name-24-02-10-stepping-gasoline-was-your-biggest-mistake",
+  "tags": [
+    "marvel",
+    "image-comics",
+    "dc-comics",
+    "avatar-press",
+    "the-column-with-no-name"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

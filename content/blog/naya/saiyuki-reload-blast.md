@@ -4,6 +4,9 @@
   "url": "/blog/naya/saiyuki-reload-blast/",
   "original_url": "http://spidermedia.ru/blog/naya/saiyuki-reload-blast",
   "archived": "https://web.archive.org/web/20120607111058/http://spidermedia.ru/blog/naya/saiyuki-reload-blast",
+  "tags": [
+    "art"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

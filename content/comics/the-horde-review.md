@@ -4,6 +4,10 @@
   "url": "/comics/the-horde-review/",
   "original_url": "http://spidermedia.ru/comics/the-horde-review",
   "archived": "https://web.archive.org/web/20260206230931/http://spidermedia.ru/comics/the-horde-review",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "komilfo"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

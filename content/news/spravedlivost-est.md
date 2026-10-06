@@ -4,6 +4,13 @@
   "url": "/news/spravedlivost-est/",
   "original_url": "http://spidermedia.ru/news/spravedlivost-est",
   "archived": "https://web.archive.org/web/20250709053624/http://spidermedia.ru/news/spravedlivost-est",
+  "tags": [
+    "geoff-johns",
+    "superman",
+    "smallville",
+    "justice-society-of-america",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

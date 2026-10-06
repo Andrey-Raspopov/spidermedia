@@ -4,6 +4,9 @@
   "url": "/blog/sterpazook/dozhdalis/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/dozhdalis",
   "archived": "https://web.archive.org/web/20250215011753/http://spidermedia.ru/blog/sterpazook/dozhdalis",
+  "tags": [
+    "trejlery"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

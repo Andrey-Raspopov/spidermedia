@@ -4,6 +4,12 @@
   "url": "/comics/sdcc-2016-frontier-novyj-komiks-dzhonatana-hikmana/",
   "original_url": "http://spidermedia.ru/comics/sdcc-2016-frontier-novyj-komiks-dzhonatana-hikmana",
   "archived": "https://web.archive.org/web/20251206151535/http://spidermedia.ru/comics/sdcc-2016-frontier-novyj-komiks-dzhonatana-hikmana",
+  "tags": [
+    "image-comics",
+    "jonathan-hickman",
+    "dzhonatan-hikman",
+    "san-diego-comic-con-international"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

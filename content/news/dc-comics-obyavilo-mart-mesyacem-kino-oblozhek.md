@@ -4,6 +4,9 @@
   "url": "/news/dc-comics-obyavilo-mart-mesyacem-kino-oblozhek/",
   "original_url": "http://spidermedia.ru/news/dc-comics-obyavilo-mart-mesyacem-kino-oblozhek",
   "archived": "https://web.archive.org/web/20190923105439/http://spidermedia.ru/news/dc-comics-obyavilo-mart-mesyacem-kino-oblozhek",
+  "tags": [
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

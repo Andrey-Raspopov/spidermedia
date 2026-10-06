@@ -4,6 +4,10 @@
   "url": "/news/hellboymedia-news-novaya-mini-seriya-baltimore-cult-red-king/",
   "original_url": "http://spidermedia.ru/news/hellboymedia-news-novaya-mini-seriya-baltimore-cult-red-king",
   "archived": "https://web.archive.org/web/20260125114545/http://spidermedia.ru/news/hellboymedia-news-novaya-mini-seriya-baltimore-cult-red-king",
+  "tags": [
+    "novosti",
+    "hellboymedia"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,19 @@
   "url": "/news/intervyu-so-scenaristom-captain-america-600-prevyu-50/",
   "original_url": "http://spidermedia.ru/news/intervyu-so-scenaristom-captain-america-600-prevyu-50",
   "archived": "https://web.archive.org/web/20260116210656/http://spidermedia.ru/news/intervyu-so-scenaristom-captain-america-600-prevyu-50",
+  "tags": [
+    "marvel",
+    "captain-america",
+    "ed-brubaker",
+    "rodzher-stern",
+    "luke-ross",
+    "roger-stern",
+    "kalman-androsofszky",
+    "tom-brevoort",
+    "kelman-androsofski",
+    "tom-brevot",
+    "winter-soldier"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

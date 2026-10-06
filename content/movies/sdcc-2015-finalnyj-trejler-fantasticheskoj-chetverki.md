@@ -4,6 +4,11 @@
   "url": "/movies/sdcc-2015-finalnyj-trejler-fantasticheskoj-chetverki/",
   "original_url": "https://spidermedia.ru/movies/sdcc-2015-finalnyj-trejler-fantasticheskoj-chetverki",
   "archived": "https://web.archive.org/web/20251110233514/https://spidermedia.ru/movies/sdcc-2015-finalnyj-trejler-fantasticheskoj-chetverki",
+  "tags": [
+    "marvel",
+    "san-diego-comic-con-international",
+    "fantastic-four"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

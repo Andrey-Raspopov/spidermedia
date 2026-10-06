@@ -4,6 +4,11 @@
   "url": "/news/26-hr-kadrov-iz-filma-lyudi-iks-pervyy-klass/",
   "original_url": "http://spidermedia.ru/news/26-hr-kadrov-iz-filma-lyudi-iks-pervyy-klass",
   "archived": "https://web.archive.org/web/20260125064421/http://spidermedia.ru/news/26-hr-kadrov-iz-filma-lyudi-iks-pervyy-klass",
+  "tags": [
+    "marvel",
+    "lyudi-iks-pervyj-klass",
+    "x-men-first-class"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

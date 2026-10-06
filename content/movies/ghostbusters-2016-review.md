@@ -4,6 +4,9 @@
   "url": "/movies/ghostbusters-2016-review/",
   "original_url": "http://spidermedia.ru/movies/ghostbusters-2016-review",
   "archived": "https://web.archive.org/web/20260313113620/http://spidermedia.ru/movies/ghostbusters-2016-review",
+  "tags": [
+    "ghostbusters"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

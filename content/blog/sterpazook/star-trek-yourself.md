@@ -4,6 +4,12 @@
   "url": "/blog/sterpazook/star-trek-yourself/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/star-trek-yourself",
   "archived": "https://web.archive.org/web/20260123082727/http://spidermedia.ru/blog/sterpazook/star-trek-yourself",
+  "tags": [
+    "yumor",
+    "star-trek",
+    "zvezdnyj-put",
+    "konstruktor"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

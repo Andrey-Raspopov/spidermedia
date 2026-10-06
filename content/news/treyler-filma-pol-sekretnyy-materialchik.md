@@ -4,6 +4,17 @@
   "url": "/news/treyler-filma-pol-sekretnyy-materialchik/",
   "original_url": "http://spidermedia.ru/news/treyler-filma-pol-sekretnyy-materialchik",
   "archived": "https://web.archive.org/web/20260214142544/http://spidermedia.ru/news/treyler-filma-pol-sekretnyy-materialchik",
+  "tags": [
+    "set-rogen",
+    "sajmon-pegg",
+    "prishelcy",
+    "nik-frost",
+    "giki",
+    "simon-pegg",
+    "seth-rogen",
+    "nick-frost",
+    "geeks"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

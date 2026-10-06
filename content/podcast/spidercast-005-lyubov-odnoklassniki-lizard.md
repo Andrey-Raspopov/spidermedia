@@ -4,6 +4,9 @@
   "url": "/podcast/spidercast-005-lyubov-odnoklassniki-lizard/",
   "original_url": "http://spidermedia.ru/podcast/spidercast-005-lyubov-odnoklassniki-lizard",
   "archived": "https://web.archive.org/web/20250424204811/http://spidermedia.ru/podcast/spidercast-005-lyubov-odnoklassniki-lizard",
+  "tags": [
+    "spidercast"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

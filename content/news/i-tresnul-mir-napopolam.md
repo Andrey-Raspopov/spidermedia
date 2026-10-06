@@ -4,6 +4,17 @@
   "url": "/news/i-tresnul-mir-napopolam/",
   "original_url": "http://spidermedia.ru/news/i-tresnul-mir-napopolam",
   "archived": "https://web.archive.org/web/20250807004437/http://spidermedia.ru/news/i-tresnul-mir-napopolam",
+  "tags": [
+    "frenk-cho",
+    "karlos-pacheko",
+    "dzheyson-aaron",
+    "daniel-akunya",
+    "alan-devis",
+    "adam-kubert",
+    "wolverine",
+    "marvel",
+    "x-men"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

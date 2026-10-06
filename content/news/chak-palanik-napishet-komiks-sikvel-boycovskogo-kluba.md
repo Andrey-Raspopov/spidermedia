@@ -4,6 +4,9 @@
   "url": "/news/chak-palanik-napishet-komiks-sikvel-boycovskogo-kluba/",
   "original_url": "http://spidermedia.ru/news/chak-palanik-napishet-komiks-sikvel-boycovskogo-kluba",
   "archived": "https://web.archive.org/web/20251006140617/http://spidermedia.ru/news/chak-palanik-napishet-komiks-sikvel-boycovskogo-kluba",
+  "tags": [
+    "dark-horse"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

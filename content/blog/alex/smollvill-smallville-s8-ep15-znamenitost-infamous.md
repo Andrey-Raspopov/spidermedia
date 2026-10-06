@@ -4,6 +4,13 @@
   "url": "/blog/alex/smollvill-smallville-s8-ep15-znamenitost-infamous/",
   "original_url": "http://spidermedia.ru/blog/alex/smollvill-smallville-s8-ep15-znamenitost-infamous",
   "archived": "https://web.archive.org/web/20250803081752/http://spidermedia.ru/blog/alex/smollvill-smallville-s8-ep15-znamenitost-infamous",
+  "tags": [
+    "smallville",
+    "serialy",
+    "superman",
+    "smollvill",
+    "tajny-smollvillya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

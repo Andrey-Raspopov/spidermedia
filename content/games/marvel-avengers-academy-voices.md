@@ -4,6 +4,9 @@
   "url": "/games/marvel-avengers-academy-voices/",
   "original_url": "http://spidermedia.ru/games/marvel-avengers-academy-voices",
   "archived": "https://web.archive.org/web/20260314082525/http://spidermedia.ru/games/marvel-avengers-academy-voices",
+  "tags": [
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/news/novyy-chelovek-pauk-dlya-ios-i-android-vyydet-v-konce-iyunya/",
   "original_url": "http://spidermedia.ru/news/novyy-chelovek-pauk-dlya-ios-i-android-vyydet-v-konce-iyunya",
   "archived": "https://web.archive.org/web/20260208203914/http://spidermedia.ru/news/novyy-chelovek-pauk-dlya-ios-i-android-vyydet-v-konce-iyunya",
+  "tags": [
+    "spider-man",
+    "igry",
+    "gameloft",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

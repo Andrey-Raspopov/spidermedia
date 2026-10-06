@@ -4,6 +4,10 @@
   "url": "/news/charli-koks-sygraet-sorvigolovu-v-seriale-marvel/",
   "original_url": "http://spidermedia.ru/news/charli-koks-sygraet-sorvigolovu-v-seriale-marvel",
   "archived": "https://web.archive.org/web/20251108042639/http://spidermedia.ru/news/charli-koks-sygraet-sorvigolovu-v-seriale-marvel",
+  "tags": [
+    "marvel",
+    "daredevil"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

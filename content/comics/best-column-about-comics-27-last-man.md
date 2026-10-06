@@ -4,6 +4,10 @@
   "url": "/comics/best-column-about-comics-27-last-man/",
   "original_url": "https://spidermedia.ru/comics/best-column-about-comics-27-last-man",
   "archived": "https://web.archive.org/web/20260215071909/https://spidermedia.ru/comics/best-column-about-comics-27-last-man",
+  "tags": [
+    "best-column-about-comics",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

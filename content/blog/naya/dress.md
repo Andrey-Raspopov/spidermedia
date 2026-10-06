@@ -4,6 +4,12 @@
   "url": "/blog/naya/dress/",
   "original_url": "http://spidermedia.ru/blog/naya/dress",
   "archived": "https://web.archive.org/web/20140707003815/http://spidermedia.ru:80/blog/naya/dress",
+  "tags": [
+    "horror",
+    "manhwa",
+    "one-shot",
+    "skachat"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

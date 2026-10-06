@@ -4,6 +4,11 @@
   "url": "/movies/major-grom-mnenie-redakcii/",
   "original_url": "http://spidermedia.ru/movies/major-grom-mnenie-redakcii",
   "archived": "https://web.archive.org/web/20251021212847/http://spidermedia.ru/movies/major-grom-mnenie-redakcii",
+  "tags": [
+    "bubble",
+    "major-grom",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

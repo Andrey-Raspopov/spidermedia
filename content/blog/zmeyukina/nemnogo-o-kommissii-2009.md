@@ -4,6 +4,12 @@
   "url": "/blog/zmeyukina/nemnogo-o-kommissii-2009/",
   "original_url": "https://spidermedia.ru/blog/zmeyukina/nemnogo-o-kommissii-2009",
   "archived": "https://web.archive.org/web/20250909133955/https://spidermedia.ru/blog/zmeyukina/nemnogo-o-kommissii-2009",
+  "tags": [
+    "russian-comics",
+    "kommissiya",
+    "festival",
+    "sobytiya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

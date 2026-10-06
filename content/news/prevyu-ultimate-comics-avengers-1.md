@@ -4,6 +4,15 @@
   "url": "/news/prevyu-ultimate-comics-avengers-1/",
   "original_url": "http://spidermedia.ru/news/prevyu-ultimate-comics-avengers-1",
   "archived": "https://web.archive.org/web/20120608203631/http://spidermedia.ru/news/prevyu-ultimate-comics-avengers-1",
+  "tags": [
+    "ultimate",
+    "karlos-pacheko",
+    "komiksy",
+    "marvel",
+    "mark-millar",
+    "mstiteli",
+    "preview-s"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

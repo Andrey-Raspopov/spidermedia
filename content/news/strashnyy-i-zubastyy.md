@@ -4,6 +4,13 @@
   "url": "/news/strashnyy-i-zubastyy/",
   "original_url": "https://spidermedia.ru/news/strashnyy-i-zubastyy",
   "archived": "https://web.archive.org/web/20260116221221/https://spidermedia.ru/news/strashnyy-i-zubastyy",
+  "tags": [
+    "marvel",
+    "figurki",
+    "sabretooth",
+    "hasbro",
+    "toy-fair-2009"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,15 @@
   "url": "/news/novye-mutanty-v-polnom-sostave/",
   "original_url": "http://spidermedia.ru/news/novye-mutanty-v-polnom-sostave",
   "archived": "https://web.archive.org/web/20120608051106/http://spidermedia.ru/news/novye-mutanty-v-polnom-sostave",
+  "tags": [
+    "legion-0",
+    "new-mutants",
+    "x-universe",
+    "adam-kubert",
+    "legion",
+    "marvel",
+    "novye-mutanty"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

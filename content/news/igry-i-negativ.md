@@ -4,6 +4,26 @@
   "url": "/news/igry-i-negativ/",
   "original_url": "http://spidermedia.ru/news/igry-i-negativ",
   "archived": "https://web.archive.org/web/20251216171458/http://spidermedia.ru/news/igry-i-negativ",
+  "tags": [
+    "stiv-rodzhers",
+    "pol-tobin",
+    "nemor",
+    "nik-bredshou",
+    "molodye-soyuzniki",
+    "kajl-higgins",
+    "ibraim-roberson",
+    "dzhejms-ezmus",
+    "devushka-pauk",
+    "aleks-sigel",
+    "akademiya-mstitelej",
+    "young-allies",
+    "x-men",
+    "steve-rogers",
+    "spider-girl",
+    "namor",
+    "marvel",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

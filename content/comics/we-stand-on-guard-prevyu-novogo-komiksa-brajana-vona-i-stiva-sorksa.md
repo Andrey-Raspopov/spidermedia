@@ -4,6 +4,10 @@
   "url": "/comics/we-stand-on-guard-prevyu-novogo-komiksa-brajana-vona-i-stiva-sorksa/",
   "original_url": "http://spidermedia.ru/comics/we-stand-on-guard-prevyu-novogo-komiksa-brajana-vona-i-stiva-sorksa",
   "archived": "https://web.archive.org/web/20251206043412/http://spidermedia.ru/comics/we-stand-on-guard-prevyu-novogo-komiksa-brajana-vona-i-stiva-sorksa",
+  "tags": [
+    "image-comics",
+    "brian-k-vaughan"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

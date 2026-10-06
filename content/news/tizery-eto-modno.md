@@ -4,6 +4,11 @@
   "url": "/news/tizery-eto-modno/",
   "original_url": "http://spidermedia.ru/news/tizery-eto-modno",
   "archived": "https://web.archive.org/web/20260121010910/http://spidermedia.ru/news/tizery-eto-modno",
+  "tags": [
+    "nik-spenser",
+    "nick-spencer",
+    "image-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

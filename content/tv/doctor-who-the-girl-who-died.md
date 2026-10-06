@@ -4,6 +4,9 @@
   "url": "/tv/doctor-who-the-girl-who-died/",
   "original_url": "http://spidermedia.ru/tv/doctor-who-the-girl-who-died",
   "archived": "https://web.archive.org/web/20250806085818/http://spidermedia.ru/tv/doctor-who-the-girl-who-died",
+  "tags": [
+    "doctor-who"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

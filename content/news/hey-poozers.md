@@ -4,6 +4,13 @@
   "url": "/news/hey-poozers/",
   "original_url": "http://spidermedia.ru/news/hey-poozers",
   "archived": "https://web.archive.org/web/20120718092518/http://spidermedia.ru/news/hey-poozers",
+  "tags": [
+    "dc-comics",
+    "green-lantern",
+    "art-0",
+    "zelenyy-fonar",
+    "kino"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

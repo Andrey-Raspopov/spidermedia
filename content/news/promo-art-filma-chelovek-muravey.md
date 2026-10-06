@@ -4,6 +4,10 @@
   "url": "/news/promo-art-filma-chelovek-muravey/",
   "original_url": "https://spidermedia.ru/news/promo-art-filma-chelovek-muravey",
   "archived": "https://web.archive.org/web/20260211182433/https://spidermedia.ru/news/promo-art-filma-chelovek-muravey",
+  "tags": [
+    "ant-man",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/blog/derden/komiksy-dc-universe-vypusk-no-02/",
   "original_url": "http://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-02",
   "archived": "https://web.archive.org/web/20190806132728/http://spidermedia.ru:80/blog/derden/komiksy-dc-universe-vypusk-no-02",
+  "tags": [
+    "teen-titans",
+    "donna-troy",
+    "dc-comics",
+    "dc-universe-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

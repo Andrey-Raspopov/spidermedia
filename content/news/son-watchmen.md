@@ -4,6 +4,12 @@
   "url": "/news/son-watchmen/",
   "original_url": "https://spidermedia.ru/news/son-watchmen",
   "archived": "https://web.archive.org/web/20250325091606/https://spidermedia.ru/news/son-watchmen",
+  "tags": [
+    "dan-didio",
+    "alan-mur",
+    "hraniteli",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

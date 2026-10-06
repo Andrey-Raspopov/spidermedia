@@ -4,6 +4,10 @@
   "url": "/news/obzor-image-expo-v-preddverii-komik-kona/",
   "original_url": "http://spidermedia.ru/news/obzor-image-expo-v-preddverii-komik-kona",
   "archived": "https://web.archive.org/web/20250618124323/http://spidermedia.ru/news/obzor-image-expo-v-preddverii-komik-kona",
+  "tags": [
+    "image-comics",
+    "image-expo"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
@@ -36,7 +40,7 @@
 
 ---
 
-Get ready to RRRRUUUUUUMMMBBBBLE! Новый комикс **Джона Аркуди** и **Джеймса Харрена** (привет от них [Хэллбоймедии](https://web.archive.org/web/20260309184857/http://spidermedia.ru/tags/hellboymedia)) выйдет в конце текущего года и описывается как **"снятое Дэвидом Финчером тв-шоу, в котором пугало-Конан дерется с Луи СиКеем"**, а в качествен группы поддержки - какие-то мутные типы, большинство из которых вообще не люди.
+Get ready to RRRRUUUUUUMMMBBBBLE! Новый комикс **Джона Аркуди** и **Джеймса Харрена** (привет от них [Хэллбоймедии](../../tags/hellboymedia/)) выйдет в конце текущего года и описывается как **"снятое Дэвидом Финчером тв-шоу, в котором пугало-Конан дерется с Луи СиКеем"**, а в качествен группы поддержки - какие-то мутные типы, большинство из которых вообще не люди.
 
 [![](https://web.archive.org/web/20250618124323im_/http://i.imgur.com/2CEc3amm.jpg)](http://i.imgur.com/2CEc3am.jpg)
 

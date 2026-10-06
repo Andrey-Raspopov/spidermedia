@@ -4,6 +4,11 @@
   "url": "/blog/derden/komiksy-dc-universe-vypusk-no-21s/",
   "original_url": "http://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-21s",
   "archived": "https://web.archive.org/web/20260211175650/http://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-21s",
+  "tags": [
+    "dc-comics",
+    "batman",
+    "dc-universe-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/movies/roug-versiyu-filma-lyudi-iks-dni-minuvshego-budushhego-pokazhut-v-kinoteatrah/",
   "original_url": "http://spidermedia.ru/movies/roug-versiyu-filma-lyudi-iks-dni-minuvshego-budushhego-pokazhut-v-kinoteatrah",
   "archived": "https://web.archive.org/web/20251116054909/http://spidermedia.ru/movies/roug-versiyu-filma-lyudi-iks-dni-minuvshego-budushhego-pokazhut-v-kinoteatrah",
+  "tags": [
+    "marvel",
+    "x-men"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

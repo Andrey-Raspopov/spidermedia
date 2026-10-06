@@ -4,6 +4,16 @@
   "url": "/news/nycc-09-x-men-panel/",
   "original_url": "https://spidermedia.ru/news/nycc-09-x-men-panel",
   "archived": "https://web.archive.org/web/20260314080442/https://spidermedia.ru/news/nycc-09-x-men-panel",
+  "tags": [
+    "x-factor",
+    "x-force",
+    "nycc-2009",
+    "layla-miller",
+    "exiles",
+    "marvel",
+    "x-men",
+    "new-mutants"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/news/bprd-fevral-iyun-2012/",
   "original_url": "http://spidermedia.ru/news/bprd-fevral-iyun-2012",
   "archived": "https://web.archive.org/web/20210128054022/http://spidermedia.ru/news/bprd-fevral-iyun-2012",
+  "tags": [
+    "majk-minyola",
+    "dark-horse",
+    "bprd"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

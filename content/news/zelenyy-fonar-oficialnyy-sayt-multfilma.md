@@ -4,6 +4,11 @@
   "url": "/news/zelenyy-fonar-oficialnyy-sayt-multfilma/",
   "original_url": "https://spidermedia.ru/news/zelenyy-fonar-oficialnyy-sayt-multfilma",
   "archived": "https://web.archive.org/web/20250324160729/https://spidermedia.ru/news/zelenyy-fonar-oficialnyy-sayt-multfilma",
+  "tags": [
+    "dc-comics",
+    "animaciya",
+    "green-lantern"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/blog/sterpazook/ne-pro-komiksy/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/ne-pro-komiksy",
   "archived": "https://web.archive.org/web/20240614194326/http://spidermedia.ru/blog/sterpazook/ne-pro-komiksy",
+  "tags": [
+    "art-0",
+    "literatura"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/blog/gess/2011-v-komiksah-pt-one-familii-i-trendy/",
   "original_url": "http://spidermedia.ru/blog/gess/2011-v-komiksah-pt-one-familii-i-trendy",
   "archived": "https://web.archive.org/web/20251216181414/http://spidermedia.ru/blog/gess/2011-v-komiksah-pt-one-familii-i-trendy",
+  "tags": [
+    "itogi-goda"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

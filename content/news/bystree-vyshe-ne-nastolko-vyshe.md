@@ -4,6 +4,11 @@
   "url": "/news/bystree-vyshe-ne-nastolko-vyshe/",
   "original_url": "http://spidermedia.ru/news/bystree-vyshe-ne-nastolko-vyshe",
   "archived": "https://web.archive.org/web/20250920202407/http://spidermedia.ru/news/bystree-vyshe-ne-nastolko-vyshe",
+  "tags": [
+    "image-comics",
+    "ming-dojl",
+    "brian-wood"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

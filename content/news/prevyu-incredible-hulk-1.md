@@ -4,6 +4,14 @@
   "url": "/news/prevyu-incredible-hulk-1/",
   "original_url": "https://spidermedia.ru/news/prevyu-incredible-hulk-1",
   "archived": "https://web.archive.org/web/20251213184242/https://spidermedia.ru/news/prevyu-incredible-hulk-1",
+  "tags": [
+    "hulk",
+    "marvel",
+    "art-0",
+    "preview",
+    "dzheyson-aaron",
+    "mark-silvestri"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,13 @@
   "url": "/news/amazing-spider-man-2-ostalsya-bez-meri-dzheyn/",
   "original_url": "http://spidermedia.ru/news/amazing-spider-man-2-ostalsya-bez-meri-dzheyn",
   "archived": "https://web.archive.org/web/20250324072830/http://spidermedia.ru/news/amazing-spider-man-2-ostalsya-bez-meri-dzheyn",
+  "tags": [
+    "endryu-garfild",
+    "emma-stoun",
+    "spider-man",
+    "mark-uebb",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

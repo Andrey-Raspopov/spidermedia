@@ -4,6 +4,10 @@
   "url": "/podcast/panels-of-x-00-highs-and-lows/",
   "original_url": "https://spidermedia.ru/podcast/panels-of-x-00-highs-and-lows",
   "archived": "https://web.archive.org/web/20251107033444/https://spidermedia.ru/podcast/panels-of-x-00-highs-and-lows",
+  "tags": [
+    "panels-of-x",
+    "on-panels"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

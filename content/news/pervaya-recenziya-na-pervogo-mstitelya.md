@@ -4,6 +4,11 @@
   "url": "/news/pervaya-recenziya-na-pervogo-mstitelya/",
   "original_url": "https://spidermedia.ru/news/pervaya-recenziya-na-pervogo-mstitelya",
   "archived": "https://web.archive.org/web/20250906065729/https://spidermedia.ru/news/pervaya-recenziya-na-pervogo-mstitelya",
+  "tags": [
+    "recenziya",
+    "krasnyj-cherep",
+    "captain-america"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

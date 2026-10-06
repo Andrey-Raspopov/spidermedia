@@ -4,6 +4,18 @@
   "url": "/news/season-one-2-electric-boogaloo/",
   "original_url": "https://spidermedia.ru/news/season-one-2-electric-boogaloo",
   "archived": "https://web.archive.org/web/20260313114557/https://spidermedia.ru/news/season-one-2-electric-boogaloo",
+  "tags": [
+    "emma-rios",
+    "ant-man",
+    "fred-van-lente",
+    "tom-fauler",
+    "tom-defalko",
+    "doctor-strange",
+    "greg-pak",
+    "goracio-dominges",
+    "marvel",
+    "hulk"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

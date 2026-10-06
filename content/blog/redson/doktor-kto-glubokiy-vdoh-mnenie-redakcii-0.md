@@ -4,6 +4,11 @@
   "url": "/blog/redson/doktor-kto-glubokiy-vdoh-mnenie-redakcii-0/",
   "original_url": "https://spidermedia.ru/blog/redson/doktor-kto-glubokiy-vdoh-mnenie-redakcii-0",
   "archived": "https://web.archive.org/web/20241211214755/https://spidermedia.ru/blog/redson/doktor-kto-glubokiy-vdoh-mnenie-redakcii-0",
+  "tags": [
+    "doctor-who",
+    "mnenie",
+    "serialy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/news/preview-first-avenger-winter-soldier-quiz/",
   "original_url": "http://spidermedia.ru/news/preview-first-avenger-winter-soldier-quiz",
   "archived": "https://web.archive.org/web/20230608110641/http://spidermedia.ru/news/preview-first-avenger-winter-soldier-quiz",
+  "tags": [
+    "marvel",
+    "captain-america",
+    "winter-soldier"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

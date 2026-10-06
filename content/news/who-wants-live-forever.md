@@ -4,6 +4,12 @@
   "url": "/news/who-wants-live-forever/",
   "original_url": "https://spidermedia.ru/news/who-wants-live-forever",
   "archived": "https://web.archive.org/web/20260125060627/https://spidermedia.ru/news/who-wants-live-forever",
+  "tags": [
+    "trevor-hersin",
+    "greg-pak",
+    "vechnyj-voin",
+    "valiant-entertainment"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

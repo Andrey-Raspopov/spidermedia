@@ -4,6 +4,10 @@
   "url": "/comics/marvel-new-editor-in-chief/",
   "original_url": "http://spidermedia.ru/comics/marvel-new-editor-in-chief",
   "archived": "https://web.archive.org/web/20250429012004/http://spidermedia.ru/comics/marvel-new-editor-in-chief",
+  "tags": [
+    "marvel",
+    "aksel-alonso"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

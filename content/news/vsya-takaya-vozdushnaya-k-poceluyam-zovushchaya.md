@@ -4,6 +4,12 @@
   "url": "/news/vsya-takaya-vozdushnaya-k-poceluyam-zovushchaya/",
   "original_url": "https://spidermedia.ru/news/vsya-takaya-vozdushnaya-k-poceluyam-zovushchaya",
   "archived": "https://web.archive.org/web/20251213202308/https://spidermedia.ru/news/vsya-takaya-vozdushnaya-k-poceluyam-zovushchaya",
+  "tags": [
+    "black-widow",
+    "figurki",
+    "hot-toys",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

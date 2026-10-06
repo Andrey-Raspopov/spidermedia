@@ -4,6 +4,9 @@
   "url": "/comics/judas-review/",
   "original_url": "http://spidermedia.ru/comics/judas-review",
   "archived": "https://web.archive.org/web/20260125055740/http://spidermedia.ru/comics/judas-review",
+  "tags": [
+    "boom-studios"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

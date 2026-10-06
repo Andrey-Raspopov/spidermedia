@@ -4,6 +4,10 @@
   "url": "/news/tizer-treyler-seriala-sorvigolova/",
   "original_url": "https://spidermedia.ru/news/tizer-treyler-seriala-sorvigolova",
   "archived": "https://web.archive.org/web/20250327223709/https://spidermedia.ru/news/tizer-treyler-seriala-sorvigolova",
+  "tags": [
+    "marvel",
+    "daredevil"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,13 @@
   "url": "/comics/intervyu-s-evgeniem-kolchuginym-iz-istari-komiks/",
   "original_url": "https://spidermedia.ru/comics/intervyu-s-evgeniem-kolchuginym-iz-istari-komiks",
   "archived": "https://web.archive.org/web/20260115062000/https://spidermedia.ru/comics/intervyu-s-evgeniem-kolchuginym-iz-istari-komiks",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "intervyu",
+    "istari-komiks",
+    "manga",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

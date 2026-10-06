@@ -4,6 +4,13 @@
   "url": "/news/vrag-moego-vraga/",
   "original_url": "http://spidermedia.ru/news/vrag-moego-vraga",
   "archived": "https://web.archive.org/web/20260214125503/http://spidermedia.ru/news/vrag-moego-vraga",
+  "tags": [
+    "krasnyj-halk",
+    "art-0",
+    "red-hulk",
+    "marvel",
+    "hulk"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

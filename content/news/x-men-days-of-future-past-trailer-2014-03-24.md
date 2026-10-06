@@ -4,6 +4,13 @@
   "url": "/news/x-men-days-of-future-past-trailer-2014-03-24/",
   "original_url": "https://spidermedia.ru/news/x-men-days-of-future-past-trailer-2014-03-24",
   "archived": "https://web.archive.org/web/20260125061531/https://spidermedia.ru/news/x-men-days-of-future-past-trailer-2014-03-24",
+  "tags": [
+    "trejlery",
+    "marvel",
+    "lyudi-iks-pervyj-klass",
+    "x-men",
+    "days-of-future-past"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

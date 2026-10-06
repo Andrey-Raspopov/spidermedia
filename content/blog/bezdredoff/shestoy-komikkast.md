@@ -4,6 +4,11 @@
   "url": "/blog/bezdredoff/shestoy-komikkast/",
   "original_url": "http://spidermedia.ru/blog/bezdredoff/shestoy-komikkast",
   "archived": "https://web.archive.org/web/20120607031040/http://spidermedia.ru/blog/bezdredoff/shestoy-komikkast",
+  "tags": [
+    "comics",
+    "comiccast",
+    "podcast"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

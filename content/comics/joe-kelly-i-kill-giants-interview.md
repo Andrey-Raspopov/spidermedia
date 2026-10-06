@@ -4,6 +4,10 @@
   "url": "/comics/joe-kelly-i-kill-giants-interview/",
   "original_url": "http://spidermedia.ru/comics/joe-kelly-i-kill-giants-interview",
   "archived": "https://web.archive.org/web/20241104221817/http://spidermedia.ru/comics/joe-kelly-i-kill-giants-interview",
+  "tags": [
+    "intervyu",
+    "joe-kelly"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

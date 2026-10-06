@@ -4,6 +4,12 @@
   "url": "/news/miss-han/",
   "original_url": "https://spidermedia.ru/news/miss-han",
   "archived": "https://web.archive.org/web/20260214132018/https://spidermedia.ru/news/miss-han",
+  "tags": [
+    "edrian-alfona",
+    "miss-marvel",
+    "dzhi-uillou-uilson",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/blog/el-qwanto/blackest-night-cast/",
   "original_url": "http://spidermedia.ru/blog/el-qwanto/blackest-night-cast",
   "archived": "https://web.archive.org/web/20250324161839/http://spidermedia.ru/blog/el-qwanto/blackest-night-cast",
+  "tags": [
+    "temnejshaya-noch",
+    "green-lantern",
+    "dc-comics",
+    "blackest-night"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

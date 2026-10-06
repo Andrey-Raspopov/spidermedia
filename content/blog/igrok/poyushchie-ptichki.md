@@ -4,6 +4,12 @@
   "url": "/blog/igrok/poyushchie-ptichki/",
   "original_url": "http://spidermedia.ru/blog/igrok/poyushchie-ptichki",
   "archived": "https://web.archive.org/web/20260208204732/http://spidermedia.ru/blog/igrok/poyushchie-ptichki",
+  "tags": [
+    "animaciya",
+    "birds-of-prey",
+    "hishchnye-pticy",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

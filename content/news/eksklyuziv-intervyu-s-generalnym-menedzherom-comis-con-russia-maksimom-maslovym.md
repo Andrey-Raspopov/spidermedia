@@ -4,6 +4,10 @@
   "url": "/news/eksklyuziv-intervyu-s-generalnym-menedzherom-comis-con-russia-maksimom-maslovym/",
   "original_url": "http://spidermedia.ru/news/eksklyuziv-intervyu-s-generalnym-menedzherom-comis-con-russia-maksimom-maslovym",
   "archived": "https://web.archive.org/web/20251116065704/http://spidermedia.ru/news/eksklyuziv-intervyu-s-generalnym-menedzherom-comis-con-russia-maksimom-maslovym",
+  "tags": [
+    "intervyu",
+    "comic-con-russia"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

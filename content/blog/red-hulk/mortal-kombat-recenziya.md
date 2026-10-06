@@ -4,6 +4,10 @@
   "url": "/blog/red-hulk/mortal-kombat-recenziya/",
   "original_url": "http://spidermedia.ru/blog/red-hulk/mortal-kombat-recenziya",
   "archived": "https://web.archive.org/web/20190907234536/http://spidermedia.ru:80/blog/red-hulk/mortal-kombat-recenziya",
+  "tags": [
+    "recenziya",
+    "mortal-kombat"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

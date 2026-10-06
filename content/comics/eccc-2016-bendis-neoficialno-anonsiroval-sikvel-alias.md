@@ -4,6 +4,12 @@
   "url": "/comics/eccc-2016-bendis-neoficialno-anonsiroval-sikvel-alias/",
   "original_url": "http://spidermedia.ru/comics/eccc-2016-bendis-neoficialno-anonsiroval-sikvel-alias",
   "archived": "https://web.archive.org/web/20251108194933/http://spidermedia.ru/comics/eccc-2016-bendis-neoficialno-anonsiroval-sikvel-alias",
+  "tags": [
+    "marvel",
+    "brian-michael-bendis",
+    "jessica-jones-alias",
+    "emerald-city-comicon"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

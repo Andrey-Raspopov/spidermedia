@@ -4,6 +4,11 @@
   "url": "/news/sotnya-rosomah-obnovlenie/",
   "original_url": "http://spidermedia.ru/news/sotnya-rosomah-obnovlenie",
   "archived": "https://web.archive.org/web/20260120153151/http://spidermedia.ru/news/sotnya-rosomah-obnovlenie",
+  "tags": [
+    "wolverine",
+    "art-0",
+    "100-project"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

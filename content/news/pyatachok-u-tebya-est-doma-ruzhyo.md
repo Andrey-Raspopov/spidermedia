@@ -4,6 +4,10 @@
   "url": "/news/pyatachok-u-tebya-est-doma-ruzhyo/",
   "original_url": "https://spidermedia.ru/news/pyatachok-u-tebya-est-doma-ruzhyo",
   "archived": "https://web.archive.org/web/20260312014706/https://spidermedia.ru/news/pyatachok-u-tebya-est-doma-ruzhyo",
+  "tags": [
+    "den-ebnett",
+    "boom-studios"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

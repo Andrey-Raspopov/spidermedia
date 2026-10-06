@@ -4,6 +4,11 @@
   "url": "/comics/pervyj-mstitel-protivostoyanie-vyigrajte-nastolnuyu-igru/",
   "original_url": "http://spidermedia.ru/comics/pervyj-mstitel-protivostoyanie-vyigrajte-nastolnuyu-igru",
   "archived": "https://web.archive.org/web/20260209121054/http://spidermedia.ru/comics/pervyj-mstitel-protivostoyanie-vyigrajte-nastolnuyu-igru",
+  "tags": [
+    "marvel",
+    "viktorina",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

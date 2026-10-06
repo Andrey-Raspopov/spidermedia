@@ -4,6 +4,13 @@
   "url": "/news/pervyy-tizer-ultimate-avengers/",
   "original_url": "http://spidermedia.ru/news/pervyy-tizer-ultimate-avengers",
   "archived": "https://web.archive.org/web/20250906070051/http://spidermedia.ru/news/pervyy-tizer-ultimate-avengers",
+  "tags": [
+    "marvel",
+    "avengers",
+    "mark-millar",
+    "ultimate",
+    "karlos-pacheko"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

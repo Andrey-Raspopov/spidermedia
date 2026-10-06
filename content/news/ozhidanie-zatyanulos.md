@@ -4,6 +4,12 @@
   "url": "/news/ozhidanie-zatyanulos/",
   "original_url": "http://spidermedia.ru/news/ozhidanie-zatyanulos",
   "archived": "https://web.archive.org/web/20260211191450/http://spidermedia.ru/news/ozhidanie-zatyanulos",
+  "tags": [
+    "preview",
+    "gabriele-dell-otto",
+    "x-force",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

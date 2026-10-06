@@ -4,6 +4,11 @@
   "url": "/comics/bubble-i-istari-izdadut-yakutiyu/",
   "original_url": "https://spidermedia.ru/comics/bubble-i-istari-izdadut-yakutiyu",
   "archived": "https://web.archive.org/web/20251012171053/https://spidermedia.ru/comics/bubble-i-istari-izdadut-yakutiyu",
+  "tags": [
+    "bubble",
+    "istari-komiks",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

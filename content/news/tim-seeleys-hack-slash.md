@@ -4,6 +4,12 @@
   "url": "/news/tim-seeleys-hack-slash/",
   "original_url": "http://spidermedia.ru/news/tim-seeleys-hack-slash",
   "archived": "https://web.archive.org/web/20250210073307/http://spidermedia.ru/news/tim-seeleys-hack-slash",
+  "tags": [
+    "art-0",
+    "tim-sili",
+    "devils-due-publishing",
+    "emili-stoun"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,13 @@
   "url": "/news/dzhef-loeb-idet/",
   "original_url": "http://spidermedia.ru/news/dzhef-loeb-idet",
   "archived": "https://web.archive.org/web/20160809174548/http://spidermedia.ru/news/dzhef-loeb-idet",
+  "tags": [
+    "dzhef-loeb",
+    "altimejts",
+    "ultimates",
+    "ultimate",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

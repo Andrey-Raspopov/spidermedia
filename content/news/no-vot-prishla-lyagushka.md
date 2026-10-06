@@ -4,6 +4,15 @@
   "url": "/news/no-vot-prishla-lyagushka/",
   "original_url": "https://spidermedia.ru/news/no-vot-prishla-lyagushka",
   "archived": "https://web.archive.org/web/20260214140735/https://spidermedia.ru/news/no-vot-prishla-lyagushka",
+  "tags": [
+    "miss-marvel",
+    "majk-makkon",
+    "spider-man",
+    "spider-island",
+    "marvel",
+    "hawkeye",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

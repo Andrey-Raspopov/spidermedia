@@ -4,6 +4,11 @@
   "url": "/news/set-grin-o-multseriale-halk-i-agenty-smesha-video/",
   "original_url": "http://spidermedia.ru/news/set-grin-o-multseriale-halk-i-agenty-smesha-video",
   "archived": "https://web.archive.org/web/20260206225949/http://spidermedia.ru/news/set-grin-o-multseriale-halk-i-agenty-smesha-video",
+  "tags": [
+    "hulk",
+    "marvel",
+    "animaciya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

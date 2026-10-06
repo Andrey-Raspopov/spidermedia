@@ -4,6 +4,10 @@
   "url": "/comics/v-iyune-bibop-i-rokstedi-unichtozhat-vsyo/",
   "original_url": "http://spidermedia.ru/comics/v-iyune-bibop-i-rokstedi-unichtozhat-vsyo",
   "archived": "https://web.archive.org/web/20251208065602/http://spidermedia.ru/comics/v-iyune-bibop-i-rokstedi-unichtozhat-vsyo",
+  "tags": [
+    "idw-publishing",
+    "ninja-turtles"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

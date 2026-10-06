@@ -4,11 +4,16 @@
   "url": "/blog/redson/all-new-mzhdz-agenty-spaydermedii/",
   "original_url": "https://spidermedia.ru/blog/redson/all-new-mzhdz-agenty-spaydermedii",
   "archived": "https://web.archive.org/web/20260123072133/https://spidermedia.ru/blog/redson/all-new-mzhdz-agenty-spaydermedii",
+  "tags": [
+    "mnenie",
+    "recenziya",
+    "mzhdz"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](https://web.archive.org/web/20260123072133im_/http://i.imgur.com/JCbv66a.jpg)](https://web.archive.org/web/20260206215846/http://spidermedia.ru/tags/mzhdz)
+[![](https://web.archive.org/web/20260123072133im_/http://i.imgur.com/JCbv66a.jpg)](../../../tags/mzhdz/)
 ![](https://web.archive.org/web/20260123072133im_/http://i.imgur.com/LRMjBth.gif)
 Пока **главный редактор "Bubble"** [пишет аналитические посты](../../artem-gabrelyanov/pochemu-vse-zhenshchiny-supergeroi-glupye-i-vyglyadyat-kak-pornoaktrisy/), **главный редактор "Панини РУС"** помогает нам пополнять библиотеку, заглядывая в неизведанные доселе миры: **Змеюкина** подготовила обзор красивейшей серии **Sang Royal**, а **UndeadGroom**, не сговариваясь с ней, тоже решил выйти за привычные рамки и написал о грандиозном произведении **Asgard**. Да, теперь SpiderMedia пишет еще и про **европейские комиксы**.
 Другие новые темы, конечно, тоже получили свое развитие. **Anticvariat** расскажет о комедийной манге **Angel Densetsu**, а **Xentospot** покажет нам необычный, но хороший комикс про Судью Дредда **Judge Dredd: Mega-City Two**, устроит экскурс в историю борца с преступностью по прозвищу Тень и объяснит, почему **Shadow: Year One** - лучшее, что случалось с персонажем за долгое время. Также **Offeye** расскажет про другой Асгард, представленный в серии **Loki: Agent of Asgard**, а **Oleg89** ответит, стоит ли вашего внимания **Shutter**. Я же вновь исполню роль вечно недовольного, сомневающегося, мнительного и вообще глубоко несчастного человека - на этой неделе я прочитал **Avengers Undercover** и **God Is Dead**.

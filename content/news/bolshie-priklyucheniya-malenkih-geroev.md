@@ -4,6 +4,14 @@
   "url": "/news/bolshie-priklyucheniya-malenkih-geroev/",
   "original_url": "https://spidermedia.ru/news/bolshie-priklyucheniya-malenkih-geroev",
   "archived": "https://web.archive.org/web/20250524070638/https://spidermedia.ru/news/bolshie-priklyucheniya-malenkih-geroev",
+  "tags": [
+    "shershen",
+    "ant-man",
+    "tim-sili",
+    "art-0",
+    "wasp",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

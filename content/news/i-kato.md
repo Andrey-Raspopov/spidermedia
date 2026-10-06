@@ -4,6 +4,12 @@
   "url": "/news/i-kato/",
   "original_url": "http://spidermedia.ru/news/i-kato",
   "archived": "https://web.archive.org/web/20260116213622/http://spidermedia.ru/news/i-kato",
+  "tags": [
+    "mark-waid",
+    "dynamite-entertainment",
+    "zelenyj-shershen",
+    "green-hornet"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

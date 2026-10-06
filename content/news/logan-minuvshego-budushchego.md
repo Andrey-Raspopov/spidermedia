@@ -4,6 +4,13 @@
   "url": "/news/logan-minuvshego-budushchego/",
   "original_url": "http://spidermedia.ru/news/logan-minuvshego-budushchego",
   "archived": "https://web.archive.org/web/20251207012345/http://spidermedia.ru/news/logan-minuvshego-budushchego",
+  "tags": [
+    "marvel",
+    "hot-toys",
+    "x-men",
+    "wolverine",
+    "figurki"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

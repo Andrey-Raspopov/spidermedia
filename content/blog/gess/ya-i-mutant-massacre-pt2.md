@@ -4,6 +4,16 @@
   "url": "/blog/gess/ya-i-mutant-massacre-pt2/",
   "original_url": "http://spidermedia.ru/blog/gess/ya-i-mutant-massacre-pt2",
   "archived": "https://web.archive.org/web/20120512080451/http://spidermedia.ru/blog/gess/ya-i-mutant-massacre-pt2",
+  "tags": [
+    "mutant-massacre",
+    "x-factor",
+    "x-men",
+    "x-universe",
+    "vsluh",
+    "komiksy",
+    "marvel",
+    "mnenie"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,14 @@
   "url": "/news/promo-art-film-tor/",
   "original_url": "http://spidermedia.ru/news/promo-art-film-tor",
   "archived": "https://web.archive.org/web/20110225213814/http://spidermedia.ru:80/news/promo-art-film-tor",
+  "tags": [
+    "marvel",
+    "thor",
+    "kennet-brana",
+    "kino",
+    "komiksy",
+    "tor"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

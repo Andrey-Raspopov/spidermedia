@@ -4,6 +4,10 @@
   "url": "/blog/deadpoolic/vs-paul-moves-out/",
   "original_url": "http://spidermedia.ru/blog/deadpoolic/vs-paul-moves-out",
   "archived": "https://web.archive.org/web/20111025180219/http://spidermedia.ru/blog/deadpoolic/vs-paul-moves-out",
+  "tags": [
+    "michel-rabagliati",
+    "komiksy"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

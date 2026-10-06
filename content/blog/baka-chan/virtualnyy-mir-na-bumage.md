@@ -4,6 +4,16 @@
   "url": "/blog/baka-chan/virtualnyy-mir-na-bumage/",
   "original_url": "https://spidermedia.ru/blog/baka-chan/virtualnyy-mir-na-bumage",
   "archived": "https://web.archive.org/web/20250717185641/https://spidermedia.ru/blog/baka-chan/virtualnyy-mir-na-bumage",
+  "tags": [
+    "toni-bedard",
+    "den-yurgens",
+    "dan-didio",
+    "tiny-bedard",
+    "sony",
+    "mmo",
+    "dc-comics",
+    "dan-jurgens"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,15 @@
   "url": "/news/kinomaniya/",
   "original_url": "https://spidermedia.ru/news/kinomaniya",
   "archived": "https://web.archive.org/web/20260116224950/https://spidermedia.ru/news/kinomaniya",
+  "tags": [
+    "hraniteli",
+    "marvel",
+    "iron-man",
+    "gi-joe",
+    "dc-comics",
+    "dark-horse",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/movies/foto-so-syomok-filma-lyudi-iks-apokalipsis/",
   "original_url": "https://spidermedia.ru/movies/foto-so-syomok-filma-lyudi-iks-apokalipsis",
   "archived": "https://web.archive.org/web/20260313113943/https://spidermedia.ru/movies/foto-so-syomok-filma-lyudi-iks-apokalipsis",
+  "tags": [
+    "apokalipsis",
+    "x-men",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,16 @@
   "url": "/news/x-men-legacy-vs-new-x-men-vol-2-prevyu/",
   "original_url": "http://spidermedia.ru/news/x-men-legacy-vs-new-x-men-vol-2-prevyu",
   "archived": "https://web.archive.org/web/20260117221307/http://spidermedia.ru/news/x-men-legacy-vs-new-x-men-vol-2-prevyu",
+  "tags": [
+    "roug",
+    "majk-keri",
+    "gellion",
+    "x-men",
+    "rogue",
+    "marvel",
+    "legacy",
+    "hellion"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

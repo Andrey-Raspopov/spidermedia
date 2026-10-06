@@ -4,6 +4,14 @@
   "url": "/news/ms-marvel-rip/",
   "original_url": "http://spidermedia.ru/news/ms-marvel-rip",
   "archived": "https://web.archive.org/web/20120608031624/http://spidermedia.ru/news/ms-marvel-rip",
+  "tags": [
+    "carol-danvers",
+    "moonstone",
+    "ms-marvel",
+    "brayan-rid",
+    "komiksy",
+    "marvel"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

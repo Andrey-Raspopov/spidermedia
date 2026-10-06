@@ -4,6 +4,14 @@
   "url": "/blog/redson/othodnyak/",
   "original_url": "http://spidermedia.ru/blog/redson/othodnyak",
   "archived": "https://web.archive.org/web/20251207100707/http://spidermedia.ru/blog/redson/othodnyak",
+  "tags": [
+    "dc-comics",
+    "avtory",
+    "batman",
+    "grant-morrison",
+    "final-crisis",
+    "new-gods"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

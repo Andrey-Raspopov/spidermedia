@@ -4,6 +4,25 @@
   "url": "/blog/sir-carnage/rubrika-bez-imeni/",
   "original_url": "https://spidermedia.ru/blog/sir-carnage/rubrika-bez-imeni",
   "archived": "https://web.archive.org/web/20260123084831/https://spidermedia.ru/blog/sir-carnage/rubrika-bez-imeni",
+  "tags": [
+    "mnenie",
+    "dzhonatan-hikman",
+    "joe-kelly",
+    "barak-obama",
+    "secret-warriors",
+    "secret-six",
+    "phobos",
+    "nick-fury",
+    "marvel",
+    "iron-woman",
+    "iron-man",
+    "image-comics",
+    "idw-publishing",
+    "final-crisis",
+    "deadshot",
+    "dc-comics",
+    "the-column-with-no-name"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

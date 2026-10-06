@@ -4,6 +4,13 @@
   "url": "/pages/magazin/",
   "original_url": "http://spidermedia.ru/pages/magazin",
   "archived": "https://web.archive.org/web/20110202123520/http://spidermedia.ru:80/pages/magazin",
+  "tags": [
+    "spidermedia",
+    "komiksy",
+    "magazin",
+    "sayt",
+    "skany"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

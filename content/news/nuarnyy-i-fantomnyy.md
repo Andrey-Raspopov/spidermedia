@@ -4,6 +4,12 @@
   "url": "/news/nuarnyy-i-fantomnyy/",
   "original_url": "https://spidermedia.ru/news/nuarnyy-i-fantomnyy",
   "archived": "https://web.archive.org/web/20250906081736/https://spidermedia.ru/news/nuarnyy-i-fantomnyy",
+  "tags": [
+    "marvel",
+    "art-0",
+    "devid-liss",
+    "dzhejson-armstrong"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/comics/doggie-by-nixelpixel-review/",
   "original_url": "http://spidermedia.ru/comics/doggie-by-nixelpixel-review",
   "archived": "https://web.archive.org/web/20240920062556/http://spidermedia.ru/comics/doggie-by-nixelpixel-review",
+  "tags": [
+    "mnenie",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

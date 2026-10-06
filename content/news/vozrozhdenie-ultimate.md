@@ -4,6 +4,13 @@
   "url": "/news/vozrozhdenie-ultimate/",
   "original_url": "http://spidermedia.ru/news/vozrozhdenie-ultimate",
   "archived": "https://web.archive.org/web/20260309000448/http://spidermedia.ru/news/vozrozhdenie-ultimate",
+  "tags": [
+    "esad-ribich",
+    "dzhonatan-hikman",
+    "ultimates",
+    "ultimate",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

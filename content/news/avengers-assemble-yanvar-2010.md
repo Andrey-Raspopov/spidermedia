@@ -4,6 +4,12 @@
   "url": "/news/avengers-assemble-yanvar-2010/",
   "original_url": "http://spidermedia.ru/news/avengers-assemble-yanvar-2010",
   "archived": "https://web.archive.org/web/20260208192959/http://spidermedia.ru/news/avengers-assemble-yanvar-2010",
+  "tags": [
+    "preview",
+    "marvel",
+    "avengers",
+    "siege"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

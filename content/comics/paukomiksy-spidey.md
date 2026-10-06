@@ -4,6 +4,11 @@
   "url": "/comics/paukomiksy-spidey/",
   "original_url": "http://spidermedia.ru/comics/paukomiksy-spidey",
   "archived": "https://web.archive.org/web/20251108191021/http://spidermedia.ru/comics/paukomiksy-spidey",
+  "tags": [
+    "marvel",
+    "spider-week",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

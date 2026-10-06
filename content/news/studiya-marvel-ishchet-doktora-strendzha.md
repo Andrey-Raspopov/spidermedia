@@ -4,6 +4,11 @@
   "url": "/news/studiya-marvel-ishchet-doktora-strendzha/",
   "original_url": "https://spidermedia.ru/news/studiya-marvel-ishchet-doktora-strendzha",
   "archived": "https://web.archive.org/web/20250422032721/https://spidermedia.ru/news/studiya-marvel-ishchet-doktora-strendzha",
+  "tags": [
+    "kasting",
+    "doctor-strange",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

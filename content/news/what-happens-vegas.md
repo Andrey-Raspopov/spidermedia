@@ -4,6 +4,18 @@
   "url": "/news/what-happens-vegas/",
   "original_url": "http://spidermedia.ru/news/what-happens-vegas",
   "archived": "https://web.archive.org/web/20260214133251/http://spidermedia.ru/news/what-happens-vegas",
+  "tags": [
+    "toni-mur",
+    "rob-uilyams",
+    "rik-remender",
+    "krasnyj-halk",
+    "x-23",
+    "dzheff-parker",
+    "venom",
+    "red-hulk",
+    "marvel",
+    "prizrachnyj-gonshhik"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

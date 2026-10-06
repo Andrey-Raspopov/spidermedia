@@ -4,6 +4,13 @@
   "url": "/news/treyler-multfilma-iron-man-hulk-heroes-united/",
   "original_url": "http://spidermedia.ru/news/treyler-multfilma-iron-man-hulk-heroes-united",
   "archived": "https://web.archive.org/web/20260120152451/http://spidermedia.ru/news/treyler-multfilma-iron-man-hulk-heroes-united",
+  "tags": [
+    "hulk",
+    "marvel",
+    "iron-man",
+    "animaciya",
+    "trejlery"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/news/rosomaha-dzhurdzhevicha/",
   "original_url": "https://spidermedia.ru/news/rosomaha-dzhurdzhevicha",
   "archived": "https://web.archive.org/web/20251013192316/https://spidermedia.ru/news/rosomaha-dzhurdzhevicha",
+  "tags": [
+    "marko-dzhurdzhevich",
+    "art-0",
+    "wolverine",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

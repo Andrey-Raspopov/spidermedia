@@ -4,6 +4,9 @@
   "url": "/games/idw-games-boardgame-tmnt/",
   "original_url": "http://spidermedia.ru/games/idw-games-boardgame-tmnt",
   "archived": "https://web.archive.org/web/20250804004842/http://spidermedia.ru/games/idw-games-boardgame-tmnt",
+  "tags": [
+    "idw-publishing"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

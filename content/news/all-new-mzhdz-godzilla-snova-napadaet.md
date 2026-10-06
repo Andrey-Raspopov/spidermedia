@@ -4,11 +4,15 @@
   "url": "/news/all-new-mzhdz-godzilla-snova-napadaet/",
   "original_url": "http://spidermedia.ru/news/all-new-mzhdz-godzilla-snova-napadaet",
   "archived": "https://web.archive.org/web/20250210070351/http://spidermedia.ru/news/all-new-mzhdz-godzilla-snova-napadaet",
+  "tags": [
+    "mnenie",
+    "mzhdz"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](https://web.archive.org/web/20250210070351im_/http://i.imgur.com/JCbv66a.jpg)](https://web.archive.org/web/20260206215846/http://spidermedia.ru/tags/mzhdz)
+[![](https://web.archive.org/web/20250210070351im_/http://i.imgur.com/JCbv66a.jpg)](../../tags/mzhdz/)
 ![](https://web.archive.org/web/20250210070351im_/http://i.imgur.com/vQrywgj.jpg)
 Пока еще не вышел новый трейлер "Стражей Галактики", за ваше внимание готов побороться новый выпуск МЖДЗ. Мы продолжаем расширять охват: **offeye** и **Derden** пытаются понять, если ли смысл читать дисишные серии **Superman-Wonder Woman** и **Batman: Eternal**; **Oleg89** делится свежим мнением о нынешнем состоянии **Мстителей Джонатана Хикмана** и объясняет, почему **Transformers: More Than Meets The Eye** - один из лучших современных онгоингов; **ВЧ** трезво подходит к **All-New Ghost Rider**, напоминает читателям Спайдермедии о существовании комикса **Astro City** и на примере **Starlight** выясняет, пропал ли Марк Миллар с концами, или у его комиксов еще есть шанс быть хорошими комиксами; и, наконец, **Shargor** не только расширяет, но и углубляет, проводя детальный анализ редакторского и бендисовского беспредела на страницах **All-New X-Men** и устраивая экскурс в комиксную историю великого монстра Годзиллы, заодно советуя всем прочитать **Godzilla: Half-Century War**.
 Погрузившись в этот пост, легко утонуть. Но я уверен, вскоре вы выберетесь на поверхность с новыми силами. Прямо как ну вы поняли.

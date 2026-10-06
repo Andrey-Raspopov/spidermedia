@@ -4,6 +4,9 @@
   "url": "/tv/tom-kruz-kameo-preacher/",
   "original_url": "https://spidermedia.ru/tv/tom-kruz-kameo-preacher",
   "archived": "https://web.archive.org/web/20240229151751/https://spidermedia.ru/tv/tom-kruz-kameo-preacher",
+  "tags": [
+    "vertigo"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/blog/ohotnig/takoy-raznyy-konstantin/",
   "original_url": "http://spidermedia.ru/blog/ohotnig/takoy-raznyy-konstantin",
   "archived": "https://web.archive.org/web/20260121005308/http://spidermedia.ru/blog/ohotnig/takoy-raznyy-konstantin",
+  "tags": [
+    "fanart",
+    "hellblazer"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

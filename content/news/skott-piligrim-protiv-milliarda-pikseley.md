@@ -4,6 +4,10 @@
   "url": "/news/skott-piligrim-protiv-milliarda-pikseley/",
   "original_url": "http://spidermedia.ru/news/skott-piligrim-protiv-milliarda-pikseley",
   "archived": "https://web.archive.org/web/20190924022619/http://spidermedia.ru:80/news/skott-piligrim-protiv-milliarda-pikseley",
+  "tags": [
+    "scott-pilgrim",
+    "igry"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

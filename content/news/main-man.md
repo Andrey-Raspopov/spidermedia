@@ -4,6 +4,10 @@
   "url": "/news/main-man/",
   "original_url": "http://spidermedia.ru/news/main-man",
   "archived": "https://web.archive.org/web/20220810213532/http://spidermedia.ru/news/main-man",
+  "tags": [
+    "lobo",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

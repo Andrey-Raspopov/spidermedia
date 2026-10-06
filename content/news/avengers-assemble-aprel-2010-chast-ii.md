@@ -4,6 +4,12 @@
   "url": "/news/avengers-assemble-aprel-2010-chast-ii/",
   "original_url": "http://spidermedia.ru/news/avengers-assemble-aprel-2010-chast-ii",
   "archived": "https://web.archive.org/web/20250709065107/http://spidermedia.ru/news/avengers-assemble-aprel-2010-chast-ii",
+  "tags": [
+    "preview",
+    "siege",
+    "marvel",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

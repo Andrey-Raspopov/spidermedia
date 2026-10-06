@@ -4,6 +4,12 @@
   "url": "/news/bogohulstvo-ot-fangorii/",
   "original_url": "http://spidermedia.ru/news/bogohulstvo-ot-fangorii",
   "archived": "https://web.archive.org/web/20120914232836/http://spidermedia.ru:80/news/bogohulstvo-ot-fangorii",
+  "tags": [
+    "fangoria",
+    "jesus",
+    "kino",
+    "komiksy"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

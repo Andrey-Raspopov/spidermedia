@@ -4,6 +4,13 @@
   "url": "/comics/stiv-rodzhers-vernetsya-k-obyazannostyam-kapitana-amerika/",
   "original_url": "http://spidermedia.ru/comics/stiv-rodzhers-vernetsya-k-obyazannostyam-kapitana-amerika",
   "archived": "https://web.archive.org/web/20260306001519/http://spidermedia.ru/comics/stiv-rodzhers-vernetsya-k-obyazannostyam-kapitana-amerika",
+  "tags": [
+    "marvel",
+    "captain-america",
+    "nik-spenser",
+    "stiv-rodzhers",
+    "hesus-sajz"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

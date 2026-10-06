@@ -4,6 +4,10 @@
   "url": "/blog/shargor/hellboymedia-07-bprd-broken-equation/",
   "original_url": "http://spidermedia.ru/blog/shargor/hellboymedia-07-bprd-broken-equation",
   "archived": "https://web.archive.org/web/20260214141320/http://spidermedia.ru/blog/shargor/hellboymedia-07-bprd-broken-equation",
+  "tags": [
+    "hellboymedia",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

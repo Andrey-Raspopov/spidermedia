@@ -4,6 +4,9 @@
   "url": "/blog/derden/bringing-home-sushi/",
   "original_url": "https://spidermedia.ru/blog/derden/bringing-home-sushi",
   "archived": "https://web.archive.org/web/20251211033549/https://spidermedia.ru/blog/derden/bringing-home-sushi",
+  "tags": [
+    "manga"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

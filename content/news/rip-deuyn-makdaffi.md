@@ -4,6 +4,10 @@
   "url": "/news/rip-deuyn-makdaffi/",
   "original_url": "https://spidermedia.ru/news/rip-deuyn-makdaffi",
   "archived": "https://web.archive.org/web/20250429012047/https://spidermedia.ru/news/rip-deuyn-makdaffi",
+  "tags": [
+    "industriya",
+    "duejn-makdaffi"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

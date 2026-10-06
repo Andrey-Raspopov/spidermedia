@@ -4,6 +4,11 @@
   "url": "/news/piar-bronirovannyh-priklyucheniy-prodolzhaetsya/",
   "original_url": "http://spidermedia.ru/news/piar-bronirovannyh-priklyucheniy-prodolzhaetsya",
   "archived": "https://web.archive.org/web/20251014042505/http://spidermedia.ru/news/piar-bronirovannyh-priklyucheniy-prodolzhaetsya",
+  "tags": [
+    "marvel",
+    "iron-man",
+    "animaciya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

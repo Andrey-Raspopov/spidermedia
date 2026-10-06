@@ -4,6 +4,20 @@
   "url": "/news/grant-morrison-priglashaet-vas-v-puteshestvie-po-multivselennoy/",
   "original_url": "http://spidermedia.ru/news/grant-morrison-priglashaet-vas-v-puteshestvie-po-multivselennoy",
   "archived": "https://web.archive.org/web/20260305234141/http://spidermedia.ru/news/grant-morrison-priglashaet-vas-v-puteshestvie-po-multivselennoy",
+  "tags": [
+    "shazam",
+    "frenk-kuajtli",
+    "superman",
+    "kemeron-styuart",
+    "kris-spraus",
+    "kapitan-morkovka",
+    "green-lantern",
+    "grant-morrison",
+    "batman",
+    "ajvan-rejs",
+    "multiversity",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

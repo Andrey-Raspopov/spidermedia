@@ -4,6 +4,13 @@
   "url": "/news/captain-america-winter-soldier-superbowl-teaser-trailer/",
   "original_url": "https://spidermedia.ru/news/captain-america-winter-soldier-superbowl-teaser-trailer",
   "archived": "https://web.archive.org/web/20251211034547/https://spidermedia.ru/news/captain-america-winter-soldier-superbowl-teaser-trailer",
+  "tags": [
+    "captain-america",
+    "winter-soldier",
+    "marvel",
+    "nik-fyuri",
+    "black-widow"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

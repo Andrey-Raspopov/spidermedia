@@ -4,6 +4,12 @@
   "url": "/news/yubileynyy-mesyac-zelenyy-bonus/",
   "original_url": "http://spidermedia.ru/news/yubileynyy-mesyac-zelenyy-bonus",
   "archived": "https://web.archive.org/web/20190816183919/http://spidermedia.ru:80/news/yubileynyy-mesyac-zelenyy-bonus",
+  "tags": [
+    "marvel",
+    "art-0",
+    "dzhim-cheng",
+    "steve-dillon"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

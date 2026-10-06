@@ -4,6 +4,12 @@
   "url": "/comics/podrobnosti-all-star-batman-skotta-snajdera/",
   "original_url": "http://spidermedia.ru/comics/podrobnosti-all-star-batman-skotta-snajdera",
   "archived": "https://web.archive.org/web/20260115045139/http://spidermedia.ru/comics/podrobnosti-all-star-batman-skotta-snajdera",
+  "tags": [
+    "dc-comics",
+    "batman",
+    "dzhon-romita-ml",
+    "skott-snajder"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

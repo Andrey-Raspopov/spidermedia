@@ -4,6 +4,16 @@
   "url": "/news/leto-s-rosomahoy-i-izdatelstvom-komiks/",
   "original_url": "http://spidermedia.ru/news/leto-s-rosomahoy-i-izdatelstvom-komiks",
   "archived": "https://web.archive.org/web/20260124045704/http://spidermedia.ru/news/leto-s-rosomahoy-i-izdatelstvom-komiks",
+  "tags": [
+    "lyudi-iks-pervyj-klass",
+    "izdatelstvo-komiks",
+    "zarubezhnye-komiksy-na-russkom",
+    "x-men-first-class",
+    "wolverine",
+    "ultimate",
+    "thor",
+    "captain-america"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

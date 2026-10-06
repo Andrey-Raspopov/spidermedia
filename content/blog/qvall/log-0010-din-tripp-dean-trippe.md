@@ -4,6 +4,10 @@
   "url": "/blog/qvall/log-0010-din-tripp-dean-trippe/",
   "original_url": "http://spidermedia.ru/blog/qvall/log-0010-din-tripp-dean-trippe",
   "archived": "https://web.archive.org/web/20120609003011/http://spidermedia.ru/blog/qvall/log-0010-din-tripp-dean-trippe",
+  "tags": [
+    "veb-komiksy",
+    "din-tripp"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

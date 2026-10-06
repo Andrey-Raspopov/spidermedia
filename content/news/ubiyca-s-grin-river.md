@@ -4,6 +4,10 @@
   "url": "/news/ubiyca-s-grin-river/",
   "original_url": "http://spidermedia.ru/news/ubiyca-s-grin-river",
   "archived": "https://web.archive.org/web/20161109000906/http://spidermedia.ru:80/news/ubiyca-s-grin-river",
+  "tags": [
+    "dark-horse",
+    "green-river-killer"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

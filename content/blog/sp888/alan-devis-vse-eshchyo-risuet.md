@@ -4,6 +4,18 @@
   "url": "/blog/sp888/alan-devis-vse-eshchyo-risuet/",
   "original_url": "http://spidermedia.ru/blog/sp888/alan-devis-vse-eshchyo-risuet",
   "archived": "https://web.archive.org/web/20111018025352/http://spidermedia.ru/blog/sp888/alan-devis-vse-eshchyo-risuet",
+  "tags": [
+    "marvel",
+    "weapon-x",
+    "wolverine",
+    "x-universe",
+    "alan-devis",
+    "dzheyson-aaron",
+    "komiksy",
+    "orizhie-iks",
+    "ron-garni",
+    "rosomaha"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

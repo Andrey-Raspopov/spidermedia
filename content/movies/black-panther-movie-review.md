@@ -4,6 +4,10 @@
   "url": "/movies/black-panther-movie-review/",
   "original_url": "http://spidermedia.ru/movies/black-panther-movie-review",
   "archived": "https://web.archive.org/web/20260206221436/http://spidermedia.ru/movies/black-panther-movie-review",
+  "tags": [
+    "marvel",
+    "black-panther"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

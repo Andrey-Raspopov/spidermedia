@@ -4,6 +4,11 @@
   "url": "/news/mesyac-tora/",
   "original_url": "http://spidermedia.ru/news/mesyac-tora",
   "archived": "https://web.archive.org/web/20260206214318/http://spidermedia.ru/news/mesyac-tora",
+  "tags": [
+    "figurki",
+    "thor",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

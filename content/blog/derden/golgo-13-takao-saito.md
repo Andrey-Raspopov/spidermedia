@@ -4,6 +4,13 @@
   "url": "/blog/derden/golgo-13-takao-saito/",
   "original_url": "https://spidermedia.ru/blog/derden/golgo-13-takao-saito",
   "archived": "https://web.archive.org/web/20251211032526/https://spidermedia.ru/blog/derden/golgo-13-takao-saito",
+  "tags": [
+    "takao-saito",
+    "manga",
+    "yosihiro-tacumi",
+    "golgo-13",
+    "viz"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

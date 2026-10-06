@@ -4,6 +4,16 @@
   "url": "/news/toni-stark-i-imax/",
   "original_url": "http://spidermedia.ru/news/toni-stark-i-imax",
   "archived": "https://web.archive.org/web/20120718214004/http://spidermedia.ru/news/toni-stark-i-imax",
+  "tags": [
+    "iron-man",
+    "iron-man-2",
+    "dzhon-favro",
+    "zheleznyy-chelovek",
+    "zheleznyy-chelovek-2",
+    "kino",
+    "komiksy",
+    "marvel"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

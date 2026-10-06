@@ -4,6 +4,9 @@
   "url": "/blog/oleg89/den-novyh-komiksov-3-dekabrya/",
   "original_url": "http://spidermedia.ru/blog/oleg89/den-novyh-komiksov-3-dekabrya",
   "archived": "https://web.archive.org/web/20260211183136/http://spidermedia.ru/blog/oleg89/den-novyh-komiksov-3-dekabrya",
+  "tags": [
+    "den-novyh-komiksov"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

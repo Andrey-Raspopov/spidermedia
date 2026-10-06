@@ -4,6 +4,10 @@
   "url": "/blog/christian/obzor-30-ti-minut-novogo-cheloveka-pauka-vysokoe-napryazhenie/",
   "original_url": "http://spidermedia.ru/blog/christian/obzor-30-ti-minut-novogo-cheloveka-pauka-vysokoe-napryazhenie",
   "archived": "https://web.archive.org/web/20251117002551/http://spidermedia.ru/blog/christian/obzor-30-ti-minut-novogo-cheloveka-pauka-vysokoe-napryazhenie",
+  "tags": [
+    "spider-man",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

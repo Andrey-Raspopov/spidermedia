@@ -4,6 +4,11 @@
   "url": "/blog/sterpazook/televizionnaya-reklama-komiksa-fables/",
   "original_url": "https://spidermedia.ru/blog/sterpazook/televizionnaya-reklama-komiksa-fables",
   "archived": "https://web.archive.org/web/20250324064406/https://spidermedia.ru/blog/sterpazook/televizionnaya-reklama-komiksa-fables",
+  "tags": [
+    "vertigo",
+    "fables",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

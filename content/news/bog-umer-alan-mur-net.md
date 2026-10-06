@@ -4,6 +4,9 @@
   "url": "/news/bog-umer-alan-mur-net/",
   "original_url": "https://spidermedia.ru/news/bog-umer-alan-mur-net",
   "archived": "https://web.archive.org/web/20251117000851/https://spidermedia.ru/news/bog-umer-alan-mur-net",
+  "tags": [
+    "avatar-press"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/news/fear-itself-oblozhka-i-tizer/",
   "original_url": "http://spidermedia.ru/news/fear-itself-oblozhka-i-tizer",
   "archived": "https://web.archive.org/web/20251206162844/http://spidermedia.ru/news/fear-itself-oblozhka-i-tizer",
+  "tags": [
+    "art-0",
+    "stiv-makniven",
+    "voploshhenie-straha",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

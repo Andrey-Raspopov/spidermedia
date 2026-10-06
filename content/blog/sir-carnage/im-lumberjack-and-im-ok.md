@@ -4,6 +4,9 @@
   "url": "/blog/sir-carnage/im-lumberjack-and-im-ok/",
   "original_url": "http://spidermedia.ru/blog/sir-carnage/im-lumberjack-and-im-ok",
   "archived": "https://web.archive.org/web/20120608195621/http://spidermedia.ru/blog/sir-carnage/im-lumberjack-and-im-ok",
+  "tags": [
+    "vstuplenie"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,16 @@
   "url": "/news/moguchee-art-prevyu/",
   "original_url": "http://spidermedia.ru/news/moguchee-art-prevyu",
   "archived": "https://web.archive.org/web/20260312012352/http://spidermedia.ru/news/moguchee-art-prevyu",
+  "tags": [
+    "journey-into-mystery",
+    "loki",
+    "marvel",
+    "thor",
+    "dag-brejtvejt",
+    "kiron-gillen",
+    "matt-fraction",
+    "paskal-ferri"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

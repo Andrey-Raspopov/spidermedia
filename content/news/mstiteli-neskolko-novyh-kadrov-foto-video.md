@@ -4,6 +4,18 @@
   "url": "/news/mstiteli-neskolko-novyh-kadrov-foto-video/",
   "original_url": "http://spidermedia.ru/news/mstiteli-neskolko-novyh-kadrov-foto-video",
   "archived": "https://web.archive.org/web/20120608171731/http://spidermedia.ru/news/mstiteli-neskolko-novyh-kadrov-foto-video",
+  "tags": [
+    "avengers",
+    "first-avenger-captain-america",
+    "video",
+    "dzhoss-uedon",
+    "kadry",
+    "kapitan-amerika",
+    "kino",
+    "marvel",
+    "mstiteli",
+    "pervyy-mstitel-kapitan-amerika"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

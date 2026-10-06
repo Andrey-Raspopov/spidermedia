@@ -4,6 +4,12 @@
   "url": "/news/zasvetim-v-aprele/",
   "original_url": "https://spidermedia.ru/news/zasvetim-v-aprele",
   "archived": "https://web.archive.org/web/20251107010154/https://spidermedia.ru/news/zasvetim-v-aprele",
+  "tags": [
+    "svetlejshij-den",
+    "relizy",
+    "solicitations",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

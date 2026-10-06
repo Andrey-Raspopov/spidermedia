@@ -4,6 +4,11 @@
   "url": "/comics/roskomnadzor-04-08-2017/",
   "original_url": "https://spidermedia.ru/comics/roskomnadzor-04-08-2017",
   "archived": "https://web.archive.org/web/20260313104132/https://spidermedia.ru/comics/roskomnadzor-04-08-2017",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "roskomnadzor",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/news/vozvrashchenie-toksichnogo-mstitelya/",
   "original_url": "https://spidermedia.ru/news/vozvrashchenie-toksichnogo-mstitelya",
   "archived": "https://web.archive.org/web/20251013182150/https://spidermedia.ru/news/vozvrashchenie-toksichnogo-mstitelya",
+  "tags": [
+    "tresh",
+    "troma",
+    "toxic-avenger",
+    "trash"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

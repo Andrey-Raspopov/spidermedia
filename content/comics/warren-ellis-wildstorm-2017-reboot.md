@@ -4,6 +4,10 @@
   "url": "/comics/warren-ellis-wildstorm-2017-reboot/",
   "original_url": "http://spidermedia.ru/comics/warren-ellis-wildstorm-2017-reboot",
   "archived": "https://web.archive.org/web/20250808202212/http://spidermedia.ru/comics/warren-ellis-wildstorm-2017-reboot",
+  "tags": [
+    "wildstorm",
+    "warren-ellis"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/blog/transistor/hellboymedia-special-03-film-hellboy-geroy-iz-pekla/",
   "original_url": "http://spidermedia.ru/blog/transistor/hellboymedia-special-03-film-hellboy-geroy-iz-pekla",
   "archived": "https://web.archive.org/web/20260117225958/http://spidermedia.ru/blog/transistor/hellboymedia-special-03-film-hellboy-geroy-iz-pekla",
+  "tags": [
+    "recenziya",
+    "hellboymedia"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

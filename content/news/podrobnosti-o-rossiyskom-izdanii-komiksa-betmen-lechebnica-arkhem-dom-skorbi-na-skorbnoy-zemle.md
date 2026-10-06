@@ -4,6 +4,11 @@
   "url": "/news/podrobnosti-o-rossiyskom-izdanii-komiksa-betmen-lechebnica-arkhem-dom-skorbi-na-skorbnoy-zemle/",
   "original_url": "http://spidermedia.ru/news/podrobnosti-o-rossiyskom-izdanii-komiksa-betmen-lechebnica-arkhem-dom-skorbi-na-skorbnoy-zemle",
   "archived": "https://web.archive.org/web/20240908053659/http://spidermedia.ru/news/podrobnosti-o-rossiyskom-izdanii-komiksa-betmen-lechebnica-arkhem-dom-skorbi-na-skorbnoy-zemle",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "batman",
+    "art-0"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/news/temnye-mutanty-uzhe-blizko/",
   "original_url": "http://spidermedia.ru/news/temnye-mutanty-uzhe-blizko",
   "archived": "https://web.archive.org/web/20200115072600/http://spidermedia.ru:80/news/temnye-mutanty-uzhe-blizko",
+  "tags": [
+    "x-men",
+    "marvel",
+    "terri-dodson"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,13 @@
   "url": "/news/green-lantern-quiz-winners/",
   "original_url": "http://spidermedia.ru/news/green-lantern-quiz-winners",
   "archived": "https://web.archive.org/web/20251116063857/http://spidermedia.ru/news/green-lantern-quiz-winners",
+  "tags": [
+    "igry",
+    "viktorina",
+    "manhunters",
+    "green-lantern",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

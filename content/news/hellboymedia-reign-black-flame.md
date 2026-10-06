@@ -4,6 +4,10 @@
   "url": "/news/hellboymedia-reign-black-flame/",
   "original_url": "http://spidermedia.ru/news/hellboymedia-reign-black-flame",
   "archived": "https://web.archive.org/web/20260123092556/http://spidermedia.ru/news/hellboymedia-reign-black-flame",
+  "tags": [
+    "hellboymedia",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

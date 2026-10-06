@@ -4,6 +4,11 @@
   "url": "/comics/roskomnadzor-christmas-is-all-around/",
   "original_url": "http://spidermedia.ru/comics/roskomnadzor-christmas-is-all-around",
   "archived": "https://web.archive.org/web/20250709071723/http://spidermedia.ru/comics/roskomnadzor-christmas-is-all-around",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "roskomnadzor",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

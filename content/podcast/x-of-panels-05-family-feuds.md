@@ -4,6 +4,10 @@
   "url": "/podcast/x-of-panels-05-family-feuds/",
   "original_url": "http://spidermedia.ru/podcast/x-of-panels-05-family-feuds",
   "archived": "https://web.archive.org/web/20260211182900/http://spidermedia.ru/podcast/x-of-panels-05-family-feuds",
+  "tags": [
+    "panels-of-x",
+    "on-panels"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

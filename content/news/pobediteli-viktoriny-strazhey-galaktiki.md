@@ -4,6 +4,11 @@
   "url": "/news/pobediteli-viktoriny-strazhey-galaktiki/",
   "original_url": "https://spidermedia.ru/news/pobediteli-viktoriny-strazhey-galaktiki",
   "archived": "https://web.archive.org/web/20260308235107/https://spidermedia.ru/news/pobediteli-viktoriny-strazhey-galaktiki",
+  "tags": [
+    "guardians-of-the-galaxy",
+    "marvel",
+    "viktorina"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

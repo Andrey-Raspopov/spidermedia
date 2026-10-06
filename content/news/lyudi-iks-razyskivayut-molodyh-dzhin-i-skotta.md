@@ -4,6 +4,10 @@
   "url": "/news/lyudi-iks-razyskivayut-molodyh-dzhin-i-skotta/",
   "original_url": "https://spidermedia.ru/news/lyudi-iks-razyskivayut-molodyh-dzhin-i-skotta",
   "archived": "https://web.archive.org/web/20241104084419/https://spidermedia.ru/news/lyudi-iks-razyskivayut-molodyh-dzhin-i-skotta",
+  "tags": [
+    "x-men",
+    "kasting"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/comics/marvel-cb-cebulski-scandal/",
   "original_url": "http://spidermedia.ru/comics/marvel-cb-cebulski-scandal",
   "archived": "https://web.archive.org/web/20260313115605/http://spidermedia.ru/comics/marvel-cb-cebulski-scandal",
+  "tags": [
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

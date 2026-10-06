@@ -4,6 +4,12 @@
   "url": "/news/i-gryanul-grom/",
   "original_url": "https://spidermedia.ru/news/i-gryanul-grom",
   "archived": "https://web.archive.org/web/20251205104914/https://spidermedia.ru/news/i-gryanul-grom",
+  "tags": [
+    "thor",
+    "marvel",
+    "matt-fraction",
+    "paskal-ferri"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

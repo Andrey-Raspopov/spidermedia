@@ -4,6 +4,16 @@
   "url": "/news/dayosh-molodyozh/",
   "original_url": "http://spidermedia.ru/news/dayosh-molodyozh",
   "archived": "https://web.archive.org/web/20251018233246/http://spidermedia.ru/news/dayosh-molodyozh",
+  "tags": [
+    "shon-makkiver",
+    "molodye-soyuzniki",
+    "zloveshhie-ublyudki",
+    "devid-lafuente",
+    "devid-boldion",
+    "art-0",
+    "young-allies",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

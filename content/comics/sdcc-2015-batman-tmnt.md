@@ -4,6 +4,12 @@
   "url": "/comics/sdcc-2015-batman-tmnt/",
   "original_url": "http://spidermedia.ru/comics/sdcc-2015-batman-tmnt",
   "archived": "https://web.archive.org/web/20260125052528/http://spidermedia.ru/comics/sdcc-2015-batman-tmnt",
+  "tags": [
+    "dc-comics",
+    "idw-publishing",
+    "san-diego-comic-con-international",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,15 @@
   "url": "/news/top-cow-kratko/",
   "original_url": "http://spidermedia.ru/news/top-cow-kratko",
   "archived": "https://web.archive.org/web/20160427003207/http://spidermedia.ru/news/top-cow-kratko",
+  "tags": [
+    "avengers",
+    "darkness",
+    "top-cow",
+    "hunter-killer",
+    "kennet-rokafort",
+    "majk-choi",
+    "hanter-killer"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

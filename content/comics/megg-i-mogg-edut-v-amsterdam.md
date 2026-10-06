@@ -4,6 +4,9 @@
   "url": "/comics/megg-i-mogg-edut-v-amsterdam/",
   "original_url": "http://spidermedia.ru/comics/megg-i-mogg-edut-v-amsterdam",
   "archived": "https://web.archive.org/web/20260121013310/http://spidermedia.ru/comics/megg-i-mogg-edut-v-amsterdam",
+  "tags": [
+    "fantagraphics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

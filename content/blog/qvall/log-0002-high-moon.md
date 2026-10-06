@@ -4,6 +4,9 @@
   "url": "/blog/qvall/log-0002-high-moon/",
   "original_url": "http://spidermedia.ru/blog/qvall/log-0002-high-moon",
   "archived": "https://web.archive.org/web/20150430212536/http://spidermedia.ru/blog/qvall/log-0002-high-moon",
+  "tags": [
+    "veb-komiksy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

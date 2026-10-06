@@ -4,6 +4,22 @@
   "url": "/news/gotemskie-prevyu/",
   "original_url": "https://spidermedia.ru/news/gotemskie-prevyu",
   "archived": "https://web.archive.org/web/20260115050426/https://spidermedia.ru/news/gotemskie-prevyu",
+  "tags": [
+    "dc-comics",
+    "batman",
+    "dastin-nguen",
+    "preview",
+    "art-0",
+    "robin",
+    "pol-dini",
+    "dustin-nguyen",
+    "paul-dini",
+    "poison-ivy",
+    "harley-quinn",
+    "guillem-march",
+    "harli-kvin",
+    "zhenshhina-koshka"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

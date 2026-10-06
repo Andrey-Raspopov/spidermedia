@@ -4,6 +4,12 @@
   "url": "/comics/review-bendis-superman-2018-first-issue/",
   "original_url": "http://spidermedia.ru/comics/review-bendis-superman-2018-first-issue",
   "archived": "https://web.archive.org/web/20260312013525/http://spidermedia.ru/comics/review-bendis-superman-2018-first-issue",
+  "tags": [
+    "dc-comics",
+    "brian-michael-bendis",
+    "superman",
+    "ajvan-rejs"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

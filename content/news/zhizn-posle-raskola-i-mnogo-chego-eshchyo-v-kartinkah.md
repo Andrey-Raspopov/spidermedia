@@ -4,6 +4,11 @@
   "url": "/news/zhizn-posle-raskola-i-mnogo-chego-eshchyo-v-kartinkah/",
   "original_url": "http://spidermedia.ru/news/zhizn-posle-raskola-i-mnogo-chego-eshchyo-v-kartinkah",
   "archived": "https://web.archive.org/web/20250808202504/http://spidermedia.ru/news/zhizn-posle-raskola-i-mnogo-chego-eshchyo-v-kartinkah",
+  "tags": [
+    "san-diego-comic-con-international",
+    "x-men",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

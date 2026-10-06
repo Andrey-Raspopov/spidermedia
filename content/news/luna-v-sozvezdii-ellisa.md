@@ -4,6 +4,12 @@
   "url": "/news/luna-v-sozvezdii-ellisa/",
   "original_url": "https://spidermedia.ru/news/luna-v-sozvezdii-ellisa",
   "archived": "https://web.archive.org/web/20251110214912/https://spidermedia.ru/news/luna-v-sozvezdii-ellisa",
+  "tags": [
+    "warren-ellis",
+    "moon-knight",
+    "deklan-shelvi",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

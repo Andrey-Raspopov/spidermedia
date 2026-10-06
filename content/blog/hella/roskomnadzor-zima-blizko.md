@@ -4,6 +4,11 @@
   "url": "/blog/hella/roskomnadzor-zima-blizko/",
   "original_url": "https://spidermedia.ru/blog/hella/roskomnadzor-zima-blizko",
   "archived": "https://web.archive.org/web/20260214133813/https://spidermedia.ru/blog/hella/roskomnadzor-zima-blizko",
+  "tags": [
+    "russian-comics",
+    "roskomnadzor",
+    "zarubezhnye-komiksy-na-russkom"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/blog/alex/smollvill-smallville-s8-ep14-rekviem-requiem/",
   "original_url": "https://spidermedia.ru/blog/alex/smollvill-smallville-s8-ep14-rekviem-requiem",
   "archived": "https://web.archive.org/web/20240809130758/https://spidermedia.ru/blog/alex/smollvill-smallville-s8-ep14-rekviem-requiem",
+  "tags": [
+    "serialy",
+    "superman",
+    "smallville"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

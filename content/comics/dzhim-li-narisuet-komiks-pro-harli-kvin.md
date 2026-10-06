@@ -4,6 +4,11 @@
   "url": "/comics/dzhim-li-narisuet-komiks-pro-harli-kvin/",
   "original_url": "http://spidermedia.ru/comics/dzhim-li-narisuet-komiks-pro-harli-kvin",
   "archived": "https://web.archive.org/web/20260209115712/http://spidermedia.ru/comics/dzhim-li-narisuet-komiks-pro-harli-kvin",
+  "tags": [
+    "dc-comics",
+    "jim-lee",
+    "harli-kvin"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

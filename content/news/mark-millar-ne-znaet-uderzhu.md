@@ -4,6 +4,9 @@
   "url": "/news/mark-millar-ne-znaet-uderzhu/",
   "original_url": "http://spidermedia.ru/news/mark-millar-ne-znaet-uderzhu",
   "archived": "https://web.archive.org/web/20250620073026/http://spidermedia.ru/news/mark-millar-ne-znaet-uderzhu",
+  "tags": [
+    "mark-millar"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

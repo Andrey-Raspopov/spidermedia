@@ -4,6 +4,11 @@
   "url": "/podcast/spidercast-09-image-expo-2016/",
   "original_url": "https://spidermedia.ru/podcast/spidercast-09-image-expo-2016",
   "archived": "https://web.archive.org/web/20260313110452/https://spidermedia.ru/podcast/spidercast-09-image-expo-2016",
+  "tags": [
+    "image-comics",
+    "image-expo",
+    "spidercast"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

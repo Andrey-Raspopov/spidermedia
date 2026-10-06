@@ -4,6 +4,10 @@
   "url": "/blog/alex/zakurit-ne-naydetsya/",
   "original_url": "http://spidermedia.ru/blog/alex/zakurit-ne-naydetsya",
   "archived": "https://web.archive.org/web/20260121003718/http://spidermedia.ru/blog/alex/zakurit-ne-naydetsya",
+  "tags": [
+    "hellblazer",
+    "fanart"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

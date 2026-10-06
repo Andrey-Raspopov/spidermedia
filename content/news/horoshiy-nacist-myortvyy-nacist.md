@@ -4,6 +4,13 @@
   "url": "/news/horoshiy-nacist-myortvyy-nacist/",
   "original_url": "http://spidermedia.ru/news/horoshiy-nacist-myortvyy-nacist",
   "archived": "https://web.archive.org/web/20250920202409/http://spidermedia.ru/news/horoshiy-nacist-myortvyy-nacist",
+  "tags": [
+    "marvel-zombies",
+    "utka-govard",
+    "frenk-marraffino",
+    "mirko-perfederichi",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

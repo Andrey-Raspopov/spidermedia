@@ -4,6 +4,11 @@
   "url": "/news/oficialno-dzheyson-momoa-akvamen/",
   "original_url": "https://spidermedia.ru/news/oficialno-dzheyson-momoa-akvamen",
   "archived": "https://web.archive.org/web/20250214233102/https://spidermedia.ru/news/oficialno-dzheyson-momoa-akvamen",
+  "tags": [
+    "kasting",
+    "aquaman",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

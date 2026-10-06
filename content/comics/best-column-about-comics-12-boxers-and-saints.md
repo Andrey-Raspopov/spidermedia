@@ -4,6 +4,10 @@
   "url": "/comics/best-column-about-comics-12-boxers-and-saints/",
   "original_url": "https://spidermedia.ru/comics/best-column-about-comics-12-boxers-and-saints",
   "archived": "https://web.archive.org/web/20260116220531/https://spidermedia.ru/comics/best-column-about-comics-12-boxers-and-saints",
+  "tags": [
+    "best-column-about-comics",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

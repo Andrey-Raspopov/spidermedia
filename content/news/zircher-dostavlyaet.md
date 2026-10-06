@@ -4,6 +4,14 @@
   "url": "/news/zircher-dostavlyaet/",
   "original_url": "https://spidermedia.ru/news/zircher-dostavlyaet",
   "archived": "https://web.archive.org/web/20260115061906/https://spidermedia.ru/news/zircher-dostavlyaet",
+  "tags": [
+    "iron-man",
+    "marvel",
+    "matt-fraction",
+    "preview",
+    "salvador-larroka",
+    "patrik-zircher"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

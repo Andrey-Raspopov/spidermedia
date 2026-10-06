@@ -4,6 +4,13 @@
   "url": "/news/treyler-i-poster-multfilma-big-hero-6/",
   "original_url": "https://spidermedia.ru/news/treyler-i-poster-multfilma-big-hero-6",
   "archived": "https://web.archive.org/web/20260312011859/https://spidermedia.ru/news/treyler-i-poster-multfilma-big-hero-6",
+  "tags": [
+    "trejlery",
+    "postery",
+    "marvel",
+    "disnej",
+    "big-hero-6"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

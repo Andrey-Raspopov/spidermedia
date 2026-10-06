@@ -4,6 +4,10 @@
   "url": "/blog/redson/bollocks-episode-2-boy-s-anatomiey-i-zdravym-smyslom/",
   "original_url": "http://spidermedia.ru/blog/redson/bollocks-episode-2-boy-s-anatomiey-i-zdravym-smyslom",
   "archived": "https://web.archive.org/web/20260125065103/http://spidermedia.ru/blog/redson/bollocks-episode-2-boy-s-anatomiey-i-zdravym-smyslom",
+  "tags": [
+    "kartinki",
+    "art-0"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

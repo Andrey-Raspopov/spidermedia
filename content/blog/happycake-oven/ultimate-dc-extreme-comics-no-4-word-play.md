@@ -4,6 +4,9 @@
   "url": "/blog/happycake-oven/ultimate-dc-extreme-comics-no-4-word-play/",
   "original_url": "http://spidermedia.ru/blog/happycake-oven/ultimate-dc-extreme-comics-no-4-word-play",
   "archived": "https://web.archive.org/web/20120610082714/http://spidermedia.ru/blog/happycake-oven/ultimate-dc-extreme-comics-no-4-word-play",
+  "tags": [
+    "dc-comics"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

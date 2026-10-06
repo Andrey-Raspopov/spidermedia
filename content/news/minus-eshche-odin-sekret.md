@@ -4,6 +4,16 @@
   "url": "/news/minus-eshche-odin-sekret/",
   "original_url": "https://spidermedia.ru/news/minus-eshche-odin-sekret",
   "archived": "https://web.archive.org/web/20251115172911/https://spidermedia.ru/news/minus-eshche-odin-sekret",
+  "tags": [
+    "era-geroev",
+    "black-widow",
+    "ant-man",
+    "secret-avengers",
+    "marko-dzhurdzhevich",
+    "marvel",
+    "heroic-age",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

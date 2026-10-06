@@ -4,6 +4,9 @@
   "url": "/movies/medison-vulf-i-zoi-saldana-sygrayut-v-filme-ya-ubivayu-velikanov/",
   "original_url": "https://spidermedia.ru/movies/medison-vulf-i-zoi-saldana-sygrayut-v-filme-ya-ubivayu-velikanov",
   "archived": "https://web.archive.org/web/20260120162255/https://spidermedia.ru/movies/medison-vulf-i-zoi-saldana-sygrayut-v-filme-ya-ubivayu-velikanov",
+  "tags": [
+    "image-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

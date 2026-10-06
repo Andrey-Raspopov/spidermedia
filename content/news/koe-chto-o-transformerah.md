@@ -4,6 +4,11 @@
   "url": "/news/koe-chto-o-transformerah/",
   "original_url": "http://spidermedia.ru/news/koe-chto-o-transformerah",
   "archived": "https://web.archive.org/web/20150501184719/http://spidermedia.ru/news/koe-chto-o-transformerah",
+  "tags": [
+    "majkl-bej",
+    "kino",
+    "transformers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

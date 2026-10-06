@@ -4,6 +4,10 @@
   "url": "/news/obzor-image-expo-2015/",
   "original_url": "http://spidermedia.ru/news/obzor-image-expo-2015",
   "archived": "https://web.archive.org/web/20251117000754/http://spidermedia.ru/news/obzor-image-expo-2015",
+  "tags": [
+    "image-comics",
+    "image-expo"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

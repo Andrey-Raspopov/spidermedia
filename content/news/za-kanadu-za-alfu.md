@@ -4,6 +4,12 @@
   "url": "/news/za-kanadu-za-alfu/",
   "original_url": "https://spidermedia.ru/news/za-kanadu-za-alfu",
   "archived": "https://web.archive.org/web/20251211034700/https://spidermedia.ru/news/za-kanadu-za-alfu",
+  "tags": [
+    "alpha-flight",
+    "fred-van-lente",
+    "dejl-iglshem",
+    "greg-pak"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

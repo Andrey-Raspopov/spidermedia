@@ -4,6 +4,19 @@
   "url": "/news/prostye-geroyskie-budni/",
   "original_url": "https://spidermedia.ru/news/prostye-geroyskie-budni",
   "archived": "https://web.archive.org/web/20260305225149/https://spidermedia.ru/news/prostye-geroyskie-budni",
+  "tags": [
+    "rik-remender",
+    "pol-kornell",
+    "marko-dzhurdzhevich",
+    "kurt-busiek",
+    "kapitan-britaniya",
+    "den-slott",
+    "doktor-vudu",
+    "art-0",
+    "marvel",
+    "spider-man",
+    "era-geroev"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

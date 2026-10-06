@@ -4,6 +4,10 @@
   "url": "/news/poster-filma-chronicle/",
   "original_url": "http://spidermedia.ru/news/poster-filma-chronicle",
   "archived": "https://web.archive.org/web/20260314080543/http://spidermedia.ru/news/poster-filma-chronicle",
+  "tags": [
+    "trejlery",
+    "postery"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

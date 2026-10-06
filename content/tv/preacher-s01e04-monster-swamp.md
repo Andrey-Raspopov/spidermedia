@@ -4,6 +4,10 @@
   "url": "/tv/preacher-s01e04-monster-swamp/",
   "original_url": "http://spidermedia.ru/tv/preacher-s01e04-monster-swamp",
   "archived": "https://web.archive.org/web/20260210192942/http://spidermedia.ru/tv/preacher-s01e04-monster-swamp",
+  "tags": [
+    "vertigo",
+    "preacher"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

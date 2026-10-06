@@ -4,6 +4,11 @@
   "url": "/news/constructing-green-lantern-page-screen/",
   "original_url": "http://spidermedia.ru/news/constructing-green-lantern-page-screen",
   "archived": "https://web.archive.org/web/20260121011457/http://spidermedia.ru/news/constructing-green-lantern-page-screen",
+  "tags": [
+    "green-lantern",
+    "dc-comics",
+    "knigi"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

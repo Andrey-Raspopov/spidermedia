@@ -4,6 +4,10 @@
   "url": "/comics/ccr-2015-panel-bubble/",
   "original_url": "http://spidermedia.ru/comics/ccr-2015-panel-bubble",
   "archived": "https://web.archive.org/web/20251216190331/http://spidermedia.ru/comics/ccr-2015-panel-bubble",
+  "tags": [
+    "bubble",
+    "comic-con-russia"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

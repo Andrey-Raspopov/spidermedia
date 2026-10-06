@@ -4,6 +4,11 @@
   "url": "/news/komiks-metta-kindta-o-puteshestveniikah-vo-vremeni-vyydet-v-2015/",
   "original_url": "https://spidermedia.ru/news/komiks-metta-kindta-o-puteshestveniikah-vo-vremeni-vyydet-v-2015",
   "archived": "https://web.archive.org/web/20251111073723/https://spidermedia.ru/news/komiks-metta-kindta-o-puteshestveniikah-vo-vremeni-vyydet-v-2015",
+  "tags": [
+    "skott-kolins",
+    "mett-kindt",
+    "dark-horse"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/news/legendarnyy-zvyozdnyy-lord/",
   "original_url": "https://spidermedia.ru/news/legendarnyy-zvyozdnyy-lord",
   "archived": "https://web.archive.org/web/20241010041826/https://spidermedia.ru/news/legendarnyy-zvyozdnyy-lord",
+  "tags": [
+    "guardians-of-the-galaxy",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

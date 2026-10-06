@@ -4,6 +4,11 @@
   "url": "/comics/tizer-marvel-vozvrashhenie-geroya/",
   "original_url": "http://spidermedia.ru/comics/tizer-marvel-vozvrashhenie-geroya",
   "archived": "https://web.archive.org/web/20250616085631/http://spidermedia.ru/comics/tizer-marvel-vozvrashhenie-geroya",
+  "tags": [
+    "marvel",
+    "nova",
+    "kvazar"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

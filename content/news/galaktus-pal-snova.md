@@ -4,6 +4,16 @@
   "url": "/news/galaktus-pal-snova/",
   "original_url": "http://spidermedia.ru/news/galaktus-pal-snova",
   "archived": "https://web.archive.org/web/20200216104301/http://spidermedia.ru:80/news/galaktus-pal-snova",
+  "tags": [
+    "chelovek-krot",
+    "fantastic-four",
+    "dejl-iglshem",
+    "dzhonatan-hikman",
+    "galactus",
+    "art-0",
+    "mole-man",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

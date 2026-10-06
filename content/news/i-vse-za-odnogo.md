@@ -4,6 +4,13 @@
   "url": "/news/i-vse-za-odnogo/",
   "original_url": "http://spidermedia.ru/news/i-vse-za-odnogo",
   "archived": "https://web.archive.org/web/20251207091526/http://spidermedia.ru/news/i-vse-za-odnogo",
+  "tags": [
+    "den-slott",
+    "dzhuzeppe-kamunkoli",
+    "spider-man",
+    "marvel",
+    "olive-kojpel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

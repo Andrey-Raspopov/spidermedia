@@ -4,6 +4,11 @@
   "url": "/blog/sp888/heroes-season-3-vol-4-ep-25-ili-istoriya-o-tom-kak-menya-dostali-fanaty-seriala/",
   "original_url": "http://spidermedia.ru/blog/sp888/heroes-season-3-vol-4-ep-25-ili-istoriya-o-tom-kak-menya-dostali-fanaty-seriala",
   "archived": "https://web.archive.org/web/20111019010029/http://spidermedia.ru/blog/sp888/heroes-season-3-vol-4-ep-25-ili-istoriya-o-tom-kak-menya-dostali-fanaty-seriala",
+  "tags": [
+    "heroes",
+    "geroi",
+    "mnenie"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

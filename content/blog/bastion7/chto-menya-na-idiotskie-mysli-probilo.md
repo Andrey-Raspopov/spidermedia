@@ -4,6 +4,10 @@
   "url": "/blog/bastion7/chto-menya-na-idiotskie-mysli-probilo/",
   "original_url": "https://spidermedia.ru/blog/bastion7/chto-menya-na-idiotskie-mysli-probilo",
   "archived": "https://web.archive.org/web/20250217064605/https://spidermedia.ru/blog/bastion7/chto-menya-na-idiotskie-mysli-probilo",
+  "tags": [
+    "mysli",
+    "garth-ennis"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

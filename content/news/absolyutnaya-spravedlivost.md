@@ -4,6 +4,13 @@
   "url": "/news/absolyutnaya-spravedlivost/",
   "original_url": "http://spidermedia.ru/news/absolyutnaya-spravedlivost",
   "archived": "https://web.archive.org/web/20200223125612/http://spidermedia.ru:80/news/absolyutnaya-spravedlivost",
+  "tags": [
+    "justice",
+    "jim-krueger",
+    "doug-braithwaite",
+    "alex-ross",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

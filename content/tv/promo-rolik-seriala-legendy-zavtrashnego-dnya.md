@@ -4,6 +4,11 @@
   "url": "/tv/promo-rolik-seriala-legendy-zavtrashnego-dnya/",
   "original_url": "http://spidermedia.ru/tv/promo-rolik-seriala-legendy-zavtrashnego-dnya",
   "archived": "https://web.archive.org/web/20250519173512/http://spidermedia.ru/tv/promo-rolik-seriala-legendy-zavtrashnego-dnya",
+  "tags": [
+    "dc-comics",
+    "green-arrow",
+    "the-flash"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

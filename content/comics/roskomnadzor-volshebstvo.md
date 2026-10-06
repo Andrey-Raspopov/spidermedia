@@ -4,6 +4,11 @@
   "url": "/comics/roskomnadzor-volshebstvo/",
   "original_url": "https://spidermedia.ru/comics/roskomnadzor-volshebstvo",
   "archived": "https://web.archive.org/web/20260307055033/https://spidermedia.ru/comics/roskomnadzor-volshebstvo",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "roskomnadzor",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

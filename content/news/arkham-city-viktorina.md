@@ -4,6 +4,13 @@
   "url": "/news/arkham-city-viktorina/",
   "original_url": "https://spidermedia.ru/news/arkham-city-viktorina",
   "archived": "https://web.archive.org/web/20260120153327/https://spidermedia.ru/news/arkham-city-viktorina",
+  "tags": [
+    "igry",
+    "viktorina",
+    "dc-comics",
+    "batman",
+    "arkham-asylum"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

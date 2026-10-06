@@ -4,6 +4,14 @@
   "url": "/news/desyat-let-horoshih-komiksov/",
   "original_url": "https://spidermedia.ru/news/desyat-let-horoshih-komiksov",
   "archived": "https://web.archive.org/web/20260215081547/https://spidermedia.ru/news/desyat-let-horoshih-komiksov",
+  "tags": [
+    "paolo-rivera",
+    "markos-martin",
+    "mark-waid",
+    "daredevil",
+    "marvel",
+    "marcos-martin"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,15 @@
   "url": "/news/amerikanskoe-prevyu-amazing-spider-man-597/",
   "original_url": "https://spidermedia.ru/news/amerikanskoe-prevyu-amazing-spider-man-597",
   "archived": "https://web.archive.org/web/20250209114343/https://spidermedia.ru/news/amerikanskoe-prevyu-amazing-spider-man-597",
+  "tags": [
+    "avengers",
+    "norman-ozborn",
+    "marko-chekchetto",
+    "joe-kelly",
+    "garri-ozborn",
+    "norman-osborn",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/blog/silver/ultimate-nya/",
   "original_url": "http://spidermedia.ru/blog/silver/ultimate-nya",
   "archived": "https://web.archive.org/web/20251012181916/http://spidermedia.ru/blog/silver/ultimate-nya",
+  "tags": [
+    "devid-lafuente",
+    "art-0",
+    "ultimate",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

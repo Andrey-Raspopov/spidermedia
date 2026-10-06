@@ -4,6 +4,11 @@
   "url": "/blog/sir-carnage/roots-coincidence/",
   "original_url": "https://spidermedia.ru/blog/sir-carnage/roots-coincidence",
   "archived": "https://web.archive.org/web/20251211022734/https://spidermedia.ru/blog/sir-carnage/roots-coincidence",
+  "tags": [
+    "darkwing-duck",
+    "hellblazer",
+    "krossover"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

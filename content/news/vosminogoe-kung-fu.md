@@ -4,6 +4,14 @@
   "url": "/news/vosminogoe-kung-fu/",
   "original_url": "http://spidermedia.ru/news/vosminogoe-kung-fu",
   "archived": "https://web.archive.org/web/20260214133944/http://spidermedia.ru/news/vosminogoe-kung-fu",
+  "tags": [
+    "entoni-dzhonston",
+    "shang-chi",
+    "sebastyan-fiumara",
+    "iron-fist",
+    "spider-island",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/news/oblozhki-kotorye-zavorazhivayut/",
   "original_url": "https://spidermedia.ru/news/oblozhki-kotorye-zavorazhivayut",
   "archived": "https://web.archive.org/web/20260120154928/https://spidermedia.ru/news/oblozhki-kotorye-zavorazhivayut",
+  "tags": [
+    "dc-comics",
+    "power-girl",
+    "pauer-gyorl",
+    "gillem-marsh"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

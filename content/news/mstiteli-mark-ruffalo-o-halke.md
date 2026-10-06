@@ -4,6 +4,16 @@
   "url": "/news/mstiteli-mark-ruffalo-o-halke/",
   "original_url": "http://spidermedia.ru/news/mstiteli-mark-ruffalo-o-halke",
   "archived": "https://web.archive.org/web/20120608140944/http://spidermedia.ru/news/mstiteli-mark-ruffalo-o-halke",
+  "tags": [
+    "avengers",
+    "hulk",
+    "kino",
+    "komiksy",
+    "marvel",
+    "mark-ruffalo",
+    "mstiteli",
+    "halk"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

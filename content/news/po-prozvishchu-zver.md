@@ -4,6 +4,12 @@
   "url": "/news/po-prozvishchu-zver/",
   "original_url": "https://spidermedia.ru/news/po-prozvishchu-zver",
   "archived": "https://web.archive.org/web/20250422031602/https://spidermedia.ru/news/po-prozvishchu-zver",
+  "tags": [
+    "marvel",
+    "x-men",
+    "koncept-art",
+    "days-of-future-past"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

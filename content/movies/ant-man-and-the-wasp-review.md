@@ -4,6 +4,10 @@
   "url": "/movies/ant-man-and-the-wasp-review/",
   "original_url": "https://spidermedia.ru/movies/ant-man-and-the-wasp-review",
   "archived": "https://web.archive.org/web/20260211192541/https://spidermedia.ru/movies/ant-man-and-the-wasp-review",
+  "tags": [
+    "marvel",
+    "ant-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

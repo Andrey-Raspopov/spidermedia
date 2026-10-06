@@ -4,6 +4,12 @@
   "url": "/blog/sir-carnage/column-no-name-17-02-10-imagine-leaving-hell-only-come-back-time-disco/",
   "original_url": "http://spidermedia.ru/blog/sir-carnage/column-no-name-17-02-10-imagine-leaving-hell-only-come-back-time-disco",
   "archived": "https://web.archive.org/web/20260125070554/http://spidermedia.ru/blog/sir-carnage/column-no-name-17-02-10-imagine-leaving-hell-only-come-back-time-disco",
+  "tags": [
+    "vertigo",
+    "marvel",
+    "idw-publishing",
+    "the-column-with-no-name"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

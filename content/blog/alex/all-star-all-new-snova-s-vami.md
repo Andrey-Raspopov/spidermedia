@@ -4,6 +4,9 @@
   "url": "/blog/alex/all-star-all-new-snova-s-vami/",
   "original_url": "http://spidermedia.ru/blog/alex/all-star-all-new-snova-s-vami",
   "archived": "https://web.archive.org/web/20120608195635/http://spidermedia.ru/blog/alex/all-star-all-new-snova-s-vami",
+  "tags": [
+    "vstuplenie"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,20 @@
   "url": "/news/novaya-smert/",
   "original_url": "http://spidermedia.ru/news/novaya-smert",
   "archived": "https://web.archive.org/web/20260214132453/http://spidermedia.ru/news/novaya-smert",
+  "tags": [
+    "endi-lenning",
+    "ugadajka",
+    "lunnyj-drakon",
+    "kvazar",
+    "den-ebnett",
+    "draks",
+    "quasar",
+    "moondragon",
+    "marvel",
+    "guardians-of-the-galaxy",
+    "drax",
+    "captain-marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

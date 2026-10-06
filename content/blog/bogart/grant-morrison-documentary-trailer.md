@@ -4,6 +4,11 @@
   "url": "/blog/bogart/grant-morrison-documentary-trailer/",
   "original_url": "https://spidermedia.ru/blog/bogart/grant-morrison-documentary-trailer",
   "archived": "https://web.archive.org/web/20260214142154/https://spidermedia.ru/blog/bogart/grant-morrison-documentary-trailer",
+  "tags": [
+    "avtory",
+    "grant-morrison",
+    "trejlery"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

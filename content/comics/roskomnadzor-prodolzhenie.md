@@ -4,6 +4,11 @@
   "url": "/comics/roskomnadzor-prodolzhenie/",
   "original_url": "http://spidermedia.ru/comics/roskomnadzor-prodolzhenie",
   "archived": "https://web.archive.org/web/20240416042026/http://spidermedia.ru/comics/roskomnadzor-prodolzhenie",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "roskomnadzor",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/games/gamermedia-e3-microsoft/",
   "original_url": "http://spidermedia.ru/games/gamermedia-e3-microsoft",
   "archived": "https://web.archive.org/web/20260115044741/http://spidermedia.ru/games/gamermedia-e3-microsoft",
+  "tags": [
+    "gamermedia"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

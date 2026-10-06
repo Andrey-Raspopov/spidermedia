@@ -4,6 +4,15 @@
   "url": "/news/anti-venom-mezhdu-tmoy-i-svetom/",
   "original_url": "https://spidermedia.ru/news/anti-venom-mezhdu-tmoy-i-svetom",
   "archived": "https://web.archive.org/web/20260121011952/https://spidermedia.ru/news/anti-venom-mezhdu-tmoy-i-svetom",
+  "tags": [
+    "paulo-sikejra",
+    "punisher",
+    "zeb-uells",
+    "art-0",
+    "anti-venom",
+    "marvel",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

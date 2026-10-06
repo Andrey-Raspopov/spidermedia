@@ -4,6 +4,13 @@
   "url": "/comics/mister-gaiman/",
   "original_url": "http://spidermedia.ru/comics/mister-gaiman",
   "archived": "https://web.archive.org/web/20260116220641/http://spidermedia.ru/comics/mister-gaiman",
+  "tags": [
+    "dc-comics",
+    "vertigo",
+    "azbuka",
+    "neil-gaiman",
+    "neil-gaiman-sandman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

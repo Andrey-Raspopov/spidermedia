@@ -4,6 +4,12 @@
   "url": "/blog/redson/recenziya-na-film-startrek-vozmezdie/",
   "original_url": "https://spidermedia.ru/blog/redson/recenziya-na-film-startrek-vozmezdie",
   "archived": "https://web.archive.org/web/20260313113916/https://spidermedia.ru/blog/redson/recenziya-na-film-startrek-vozmezdie",
+  "tags": [
+    "mnenie",
+    "zvezdnyj-put",
+    "star-trek",
+    "recenziya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

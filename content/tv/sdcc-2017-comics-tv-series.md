@@ -4,6 +4,13 @@
   "url": "/tv/sdcc-2017-comics-tv-series/",
   "original_url": "https://spidermedia.ru/tv/sdcc-2017-comics-tv-series",
   "archived": "https://web.archive.org/web/20260313114647/https://spidermedia.ru/tv/sdcc-2017-comics-tv-series",
+  "tags": [
+    "dc-comics",
+    "marvel",
+    "netflix",
+    "vertigo",
+    "san-diego-comic-con-international"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

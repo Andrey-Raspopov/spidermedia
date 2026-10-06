@@ -4,6 +4,9 @@
   "url": "/comics/day-of-new-comics-15-november/",
   "original_url": "http://spidermedia.ru/comics/day-of-new-comics-15-november",
   "archived": "https://web.archive.org/web/20200127141540/http://spidermedia.ru:80/comics/day-of-new-comics-15-november",
+  "tags": [
+    "den-novyh-komiksov"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

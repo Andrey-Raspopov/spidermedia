@@ -4,6 +4,10 @@
   "url": "/news/pol-radd-utverzhdyon-na-rol-cheloveka-muravya/",
   "original_url": "http://spidermedia.ru/news/pol-radd-utverzhdyon-na-rol-cheloveka-muravya",
   "archived": "https://web.archive.org/web/20170520174037/http://spidermedia.ru:80/news/pol-radd-utverzhdyon-na-rol-cheloveka-muravya",
+  "tags": [
+    "ant-man",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

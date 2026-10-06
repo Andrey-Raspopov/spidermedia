@@ -4,6 +4,10 @@
   "url": "/news/my-vision/",
   "original_url": "https://spidermedia.ru/news/my-vision",
   "archived": "https://web.archive.org/web/20240807002300/https://spidermedia.ru/news/my-vision",
+  "tags": [
+    "avengers",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

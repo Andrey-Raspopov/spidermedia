@@ -4,6 +4,11 @@
   "url": "/news/poznakomtes-so-zverem/",
   "original_url": "http://spidermedia.ru/news/poznakomtes-so-zverem",
   "archived": "https://web.archive.org/web/20260305230939/http://spidermedia.ru/news/poznakomtes-so-zverem",
+  "tags": [
+    "x-men-first-class",
+    "lyudi-iks-pervyj-klass",
+    "zver"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

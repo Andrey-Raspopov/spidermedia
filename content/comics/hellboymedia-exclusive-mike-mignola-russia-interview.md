@@ -4,6 +4,12 @@
   "url": "/comics/hellboymedia-exclusive-mike-mignola-russia-interview/",
   "original_url": "http://spidermedia.ru/comics/hellboymedia-exclusive-mike-mignola-russia-interview",
   "archived": "https://web.archive.org/web/20260115064539/http://spidermedia.ru/comics/hellboymedia-exclusive-mike-mignola-russia-interview",
+  "tags": [
+    "hellboymedia",
+    "intervyu",
+    "mike-mignola-russia",
+    "eksklyuziv"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

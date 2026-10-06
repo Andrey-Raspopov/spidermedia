@@ -4,6 +4,11 @@
   "url": "/comics/roskomnadzor-vesennee-obostrenie/",
   "original_url": "http://spidermedia.ru/comics/roskomnadzor-vesennee-obostrenie",
   "archived": "https://web.archive.org/web/20250913023038/http://spidermedia.ru/comics/roskomnadzor-vesennee-obostrenie",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "roskomnadzor",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

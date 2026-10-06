@@ -4,6 +4,11 @@
   "url": "/news/zimniy-latur/",
   "original_url": "http://spidermedia.ru/news/zimniy-latur",
   "archived": "https://web.archive.org/web/20150320092037/http://spidermedia.ru/news/zimniy-latur",
+  "tags": [
+    "dzhejson-latur",
+    "zimnij-soldat",
+    "marvel-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

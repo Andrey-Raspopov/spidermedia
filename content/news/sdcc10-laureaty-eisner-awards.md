@@ -4,6 +4,10 @@
   "url": "/news/sdcc10-laureaty-eisner-awards/",
   "original_url": "http://spidermedia.ru/news/sdcc10-laureaty-eisner-awards",
   "archived": "https://web.archive.org/web/20191228195924/http://spidermedia.ru:80/news/sdcc10-laureaty-eisner-awards",
+  "tags": [
+    "eisner-awards",
+    "san-diego-comic-con-international"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

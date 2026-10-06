@@ -4,6 +4,9 @@
   "url": "/games/gamermedia-e3-ea-i-bethesda/",
   "original_url": "http://spidermedia.ru/games/gamermedia-e3-ea-i-bethesda",
   "archived": "https://web.archive.org/web/20251207011652/http://spidermedia.ru/games/gamermedia-e3-ea-i-bethesda",
+  "tags": [
+    "gamermedia"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

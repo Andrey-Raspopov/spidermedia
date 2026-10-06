@@ -4,6 +4,15 @@
   "url": "/news/spider-man-3d-vzglyad-na-kostyum-i-komiksy/",
   "original_url": "http://spidermedia.ru/news/spider-man-3d-vzglyad-na-kostyum-i-komiksy",
   "archived": "https://web.archive.org/web/20110205174831/http://spidermedia.ru:80/news/spider-man-3d-vzglyad-na-kostyum-i-komiksy",
+  "tags": [
+    "marvel",
+    "spider-man",
+    "spider-man-3d",
+    "kino",
+    "komiksy",
+    "foto",
+    "chelovek-pauk"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

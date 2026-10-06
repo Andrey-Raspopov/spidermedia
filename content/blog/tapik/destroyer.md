@@ -4,6 +4,12 @@
   "url": "/blog/tapik/destroyer/",
   "original_url": "http://spidermedia.ru/blog/tapik/destroyer",
   "archived": "https://web.archive.org/web/20111020005959/http://spidermedia.ru/blog/tapik/destroyer",
+  "tags": [
+    "destroyer",
+    "marvel",
+    "kori-uolker",
+    "robert-kirkman"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

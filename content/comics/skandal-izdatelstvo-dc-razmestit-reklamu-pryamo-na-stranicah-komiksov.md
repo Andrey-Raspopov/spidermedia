@@ -4,6 +4,10 @@
   "url": "/comics/skandal-izdatelstvo-dc-razmestit-reklamu-pryamo-na-stranicah-komiksov/",
   "original_url": "http://spidermedia.ru/comics/skandal-izdatelstvo-dc-razmestit-reklamu-pryamo-na-stranicah-komiksov",
   "archived": "https://web.archive.org/web/20260211191618/http://spidermedia.ru/comics/skandal-izdatelstvo-dc-razmestit-reklamu-pryamo-na-stranicah-komiksov",
+  "tags": [
+    "dc-comics",
+    "industriya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/news/princ-veliant-hela-fostera-vyshel-na-russkom/",
   "original_url": "http://spidermedia.ru/news/princ-veliant-hela-fostera-vyshel-na-russkom",
   "archived": "https://web.archive.org/web/20240224100604/http://spidermedia.ru/news/princ-veliant-hela-fostera-vyshel-na-russkom",
+  "tags": [
+    "zangavar",
+    "zarubezhnye-komiksy-na-russkom"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

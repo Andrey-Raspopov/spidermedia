@@ -4,6 +4,13 @@
   "url": "/news/blackest-night-dekabr/",
   "original_url": "http://spidermedia.ru/news/blackest-night-dekabr",
   "archived": "https://web.archive.org/web/20260314082546/http://spidermedia.ru/news/blackest-night-dekabr",
+  "tags": [
+    "temnejshaya-noch",
+    "preview",
+    "superman",
+    "dc-comics",
+    "solicitations"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

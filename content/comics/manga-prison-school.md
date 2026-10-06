@@ -4,6 +4,9 @@
   "url": "/comics/manga-prison-school/",
   "original_url": "https://spidermedia.ru/comics/manga-prison-school",
   "archived": "https://web.archive.org/web/20251216120446/https://spidermedia.ru/comics/manga-prison-school",
+  "tags": [
+    "manga"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

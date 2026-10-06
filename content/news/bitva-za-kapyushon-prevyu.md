@@ -4,6 +4,13 @@
   "url": "/news/bitva-za-kapyushon-prevyu/",
   "original_url": "http://spidermedia.ru/news/bitva-za-kapyushon-prevyu",
   "archived": "https://web.archive.org/web/20251216174151/http://spidermedia.ru/news/bitva-za-kapyushon-prevyu",
+  "tags": [
+    "dc-comics",
+    "batman",
+    "preview",
+    "toni-deniel",
+    "tony-daniel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

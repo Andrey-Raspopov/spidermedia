@@ -4,6 +4,18 @@
   "url": "/news/zombi-na-planete-obezyan/",
   "original_url": "http://spidermedia.ru/news/zombi-na-planete-obezyan",
   "archived": "https://web.archive.org/web/20120607105917/http://spidermedia.ru/news/zombi-na-planete-obezyan",
+  "tags": [
+    "marvel-apes",
+    "marvel-zombies",
+    "andrea-muti",
+    "devid-velington",
+    "karl-kessel",
+    "komiksy",
+    "marvel-zombi",
+    "marvel-obezyany",
+    "oblozhki",
+    "rob-disalvo"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

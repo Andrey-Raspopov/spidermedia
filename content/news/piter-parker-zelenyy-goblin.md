@@ -4,6 +4,11 @@
   "url": "/news/piter-parker-zelenyy-goblin/",
   "original_url": "http://spidermedia.ru/news/piter-parker-zelenyy-goblin",
   "archived": "https://web.archive.org/web/20200130013438/http://spidermedia.ru:80/news/piter-parker-zelenyy-goblin",
+  "tags": [
+    "marvel",
+    "spider-man",
+    "zelyonyj-goblin"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/news/den-novyh-komiksov-31-iyulya/",
   "original_url": "https://spidermedia.ru/news/den-novyh-komiksov-31-iyulya",
   "archived": "https://web.archive.org/web/20260214134124/https://spidermedia.ru/news/den-novyh-komiksov-31-iyulya",
+  "tags": [
+    "den-novyh-komiksov"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

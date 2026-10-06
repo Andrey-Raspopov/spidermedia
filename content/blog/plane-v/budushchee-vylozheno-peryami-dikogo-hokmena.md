@@ -4,6 +4,11 @@
   "url": "/blog/plane-v/budushchee-vylozheno-peryami-dikogo-hokmena/",
   "original_url": "http://spidermedia.ru/blog/plane-v/budushchee-vylozheno-peryami-dikogo-hokmena",
   "archived": "https://web.archive.org/web/20120718062000/http://spidermedia.ru/blog/plane-v/budushchee-vylozheno-peryami-dikogo-hokmena",
+  "tags": [
+    "dc-comics",
+    "komiksy",
+    "mnenie"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

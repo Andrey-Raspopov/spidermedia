@@ -4,6 +4,12 @@
   "url": "/news/no-time-losers/",
   "original_url": "http://spidermedia.ru/news/no-time-losers",
   "archived": "https://web.archive.org/web/20250519182932/http://spidermedia.ru/news/no-time-losers",
+  "tags": [
+    "mett-kindt",
+    "infinity",
+    "marvel",
+    "stiven-sanders"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

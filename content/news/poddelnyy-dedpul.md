@@ -4,6 +4,10 @@
   "url": "/news/poddelnyy-dedpul/",
   "original_url": "http://spidermedia.ru/news/poddelnyy-dedpul",
   "archived": "https://web.archive.org/web/20220813145350/http://spidermedia.ru/news/poddelnyy-dedpul",
+  "tags": [
+    "deadpool",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

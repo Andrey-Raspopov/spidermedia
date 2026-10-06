@@ -4,6 +4,11 @@
   "url": "/news/eksklyuziv-russkiy-treyler-tor-2-carstvo-tmy-s-kommentariyami-akterov/",
   "original_url": "http://spidermedia.ru/news/eksklyuziv-russkiy-treyler-tor-2-carstvo-tmy-s-kommentariyami-akterov",
   "archived": "https://web.archive.org/web/20250114015540/http://spidermedia.ru/news/eksklyuziv-russkiy-treyler-tor-2-carstvo-tmy-s-kommentariyami-akterov",
+  "tags": [
+    "thor",
+    "marvel",
+    "loki"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

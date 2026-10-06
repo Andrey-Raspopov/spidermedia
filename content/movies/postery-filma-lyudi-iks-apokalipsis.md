@@ -4,6 +4,11 @@
   "url": "/movies/postery-filma-lyudi-iks-apokalipsis/",
   "original_url": "http://spidermedia.ru/movies/postery-filma-lyudi-iks-apokalipsis",
   "archived": "https://web.archive.org/web/20250715233746/http://spidermedia.ru/movies/postery-filma-lyudi-iks-apokalipsis",
+  "tags": [
+    "marvel",
+    "apokalipsis",
+    "x-men"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

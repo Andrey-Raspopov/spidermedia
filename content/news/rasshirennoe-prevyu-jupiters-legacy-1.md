@@ -4,6 +4,12 @@
   "url": "/news/rasshirennoe-prevyu-jupiters-legacy-1/",
   "original_url": "https://spidermedia.ru/news/rasshirennoe-prevyu-jupiters-legacy-1",
   "archived": "https://web.archive.org/web/20251107040928/https://spidermedia.ru/news/rasshirennoe-prevyu-jupiters-legacy-1",
+  "tags": [
+    "mark-millar",
+    "frenk-kuajtli",
+    "image-comics",
+    "preview"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

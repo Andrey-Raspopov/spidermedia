@@ -4,6 +4,13 @@
   "url": "/news/starr-max/",
   "original_url": "https://spidermedia.ru/news/starr-max",
   "archived": "https://web.archive.org/web/20230323045850/https://spidermedia.ru/news/starr-max",
+  "tags": [
+    "art-0",
+    "deniel-vej",
+    "marvel",
+    "starr-ubijca",
+    "richard-kobren"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

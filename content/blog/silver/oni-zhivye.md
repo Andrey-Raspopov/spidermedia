@@ -4,6 +4,13 @@
   "url": "/blog/silver/oni-zhivye/",
   "original_url": "http://spidermedia.ru/blog/silver/oni-zhivye",
   "archived": "https://web.archive.org/web/20241211224650/http://spidermedia.ru/blog/silver/oni-zhivye",
+  "tags": [
+    "marvel",
+    "avengers",
+    "mnenie",
+    "kartinki",
+    "artur-sajdam"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

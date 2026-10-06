@@ -4,6 +4,9 @@
   "url": "/blog/plane-v/maybe-we-dont-do-hits/",
   "original_url": "http://spidermedia.ru/blog/plane-v/maybe-we-dont-do-hits",
   "archived": "https://web.archive.org/web/20190924044049/http://spidermedia.ru:80/blog/plane-v/maybe-we-dont-do-hits",
+  "tags": [
+    "scott-pilgrim"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

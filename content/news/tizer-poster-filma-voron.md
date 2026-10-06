@@ -4,6 +4,11 @@
   "url": "/news/tizer-poster-filma-voron/",
   "original_url": "http://spidermedia.ru/news/tizer-poster-filma-voron",
   "archived": "https://web.archive.org/web/20250913020911/http://spidermedia.ru/news/tizer-poster-filma-voron",
+  "tags": [
+    "dzhejms-obarr",
+    "the-crow",
+    "kitchen-sink-press"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/comics/eisner-award-nominees-2018/",
   "original_url": "http://spidermedia.ru/comics/eisner-award-nominees-2018",
   "archived": "https://web.archive.org/web/20200128044718/http://spidermedia.ru:80/comics/eisner-award-nominees-2018",
+  "tags": [
+    "eisner-awards"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

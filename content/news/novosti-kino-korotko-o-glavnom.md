@@ -4,6 +4,11 @@
   "url": "/news/novosti-kino-korotko-o-glavnom/",
   "original_url": "http://spidermedia.ru/news/novosti-kino-korotko-o-glavnom",
   "archived": "https://web.archive.org/web/20251006133236/http://spidermedia.ru/news/novosti-kino-korotko-o-glavnom",
+  "tags": [
+    "wolverine",
+    "green-lantern",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

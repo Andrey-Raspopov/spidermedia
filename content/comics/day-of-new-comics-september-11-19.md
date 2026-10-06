@@ -4,6 +4,9 @@
   "url": "/comics/day-of-new-comics-september-11-19/",
   "original_url": "http://spidermedia.ru/comics/day-of-new-comics-september-11-19",
   "archived": "https://web.archive.org/web/20260123073108/http://spidermedia.ru/comics/day-of-new-comics-september-11-19",
+  "tags": [
+    "den-novyh-komiksov"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

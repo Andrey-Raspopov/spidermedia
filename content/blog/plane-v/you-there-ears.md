@@ -4,6 +4,10 @@
   "url": "/blog/plane-v/you-there-ears/",
   "original_url": "https://spidermedia.ru/blog/plane-v/you-there-ears",
   "archived": "https://web.archive.org/web/20260125070917/https://spidermedia.ru/blog/plane-v/you-there-ears",
+  "tags": [
+    "muzyka",
+    "art-0"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

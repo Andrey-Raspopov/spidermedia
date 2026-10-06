@@ -4,6 +4,18 @@
   "url": "/news/semeynye-uzy/",
   "original_url": "https://spidermedia.ru/news/semeynye-uzy",
   "archived": "https://web.archive.org/web/20250519184013/https://spidermedia.ru/news/semeynye-uzy",
+  "tags": [
+    "hulk",
+    "marvel",
+    "greg-pak",
+    "she-hulk",
+    "skaar",
+    "bryus-benner",
+    "hiro-kala",
+    "rik-dzhons",
+    "korg",
+    "a-bomb"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/comics/hellboymedia-23-bprd-end-of-days/",
   "original_url": "http://spidermedia.ru/comics/hellboymedia-23-bprd-end-of-days",
   "archived": "https://web.archive.org/web/20251208081347/http://spidermedia.ru/comics/hellboymedia-23-bprd-end-of-days",
+  "tags": [
+    "hellboymedia",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

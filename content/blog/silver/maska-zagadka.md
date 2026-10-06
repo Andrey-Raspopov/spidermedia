@@ -4,6 +4,12 @@
   "url": "/blog/silver/maska-zagadka/",
   "original_url": "http://spidermedia.ru/blog/silver/maska-zagadka",
   "archived": "https://web.archive.org/web/20260214132428/http://spidermedia.ru/blog/silver/maska-zagadka",
+  "tags": [
+    "marvel",
+    "endi-diggl",
+    "ugadajka",
+    "thunderbolts"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

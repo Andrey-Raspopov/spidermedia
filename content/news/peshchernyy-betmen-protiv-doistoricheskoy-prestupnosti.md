@@ -4,6 +4,13 @@
   "url": "/news/peshchernyy-betmen-protiv-doistoricheskoy-prestupnosti/",
   "original_url": "https://spidermedia.ru/news/peshchernyy-betmen-protiv-doistoricheskoy-prestupnosti",
   "archived": "https://web.archive.org/web/20260120151146/https://spidermedia.ru/news/peshchernyy-betmen-protiv-doistoricheskoy-prestupnosti",
+  "tags": [
+    "grant-morrison",
+    "return-of-bruce-wayne",
+    "dc-comics",
+    "batman",
+    "endi-kubert"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

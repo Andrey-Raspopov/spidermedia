@@ -4,6 +4,11 @@
   "url": "/movies/spider-man-homecoming-review/",
   "original_url": "http://spidermedia.ru/movies/spider-man-homecoming-review",
   "archived": "https://web.archive.org/web/20251111081052/http://spidermedia.ru/movies/spider-man-homecoming-review",
+  "tags": [
+    "marvel",
+    "mnenie",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

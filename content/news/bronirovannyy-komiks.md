@@ -4,6 +4,12 @@
   "url": "/news/bronirovannyy-komiks/",
   "original_url": "http://spidermedia.ru/news/bronirovannyy-komiks",
   "archived": "https://web.archive.org/web/20220820002034/http://spidermedia.ru/news/bronirovannyy-komiks",
+  "tags": [
+    "marvel",
+    "iron-man",
+    "animaciya",
+    "war-machine"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

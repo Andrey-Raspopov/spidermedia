@@ -4,6 +4,13 @@
   "url": "/news/zelenyy-fonar-pervyy-polet/",
   "original_url": "https://spidermedia.ru/news/zelenyy-fonar-pervyy-polet",
   "archived": "https://web.archive.org/web/20251012164016/https://spidermedia.ru/news/zelenyy-fonar-pervyy-polet",
+  "tags": [
+    "dc-comics",
+    "animaciya",
+    "green-lantern",
+    "hal-jordan",
+    "sinestro"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

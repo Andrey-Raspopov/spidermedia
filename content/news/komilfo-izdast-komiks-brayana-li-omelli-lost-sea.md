@@ -4,6 +4,11 @@
   "url": "/news/komilfo-izdast-komiks-brayana-li-omelli-lost-sea/",
   "original_url": "http://spidermedia.ru/news/komilfo-izdast-komiks-brayana-li-omelli-lost-sea",
   "archived": "https://web.archive.org/web/20250913021336/http://spidermedia.ru/news/komilfo-izdast-komiks-brayana-li-omelli-lost-sea",
+  "tags": [
+    "komilfo",
+    "zarubezhnye-komiksy-na-russkom",
+    "oni-press"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

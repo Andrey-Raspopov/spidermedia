@@ -4,6 +4,16 @@
   "url": "/news/art-prevyu-iron-man-vs-whiplash-1/",
   "original_url": "http://spidermedia.ru/news/art-prevyu-iron-man-vs-whiplash-1",
   "archived": "https://web.archive.org/web/20260120145311/http://spidermedia.ru/news/art-prevyu-iron-man-vs-whiplash-1",
+  "tags": [
+    "iron-man",
+    "marvel",
+    "whiplash",
+    "brendon-peterson",
+    "knut",
+    "mark-guggenhajm",
+    "marko-dzhurdzhevich",
+    "preview"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

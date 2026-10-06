@@ -4,6 +4,11 @@
   "url": "/comics/roskomnadzor-plany-na-leto/",
   "original_url": "http://spidermedia.ru/comics/roskomnadzor-plany-na-leto",
   "archived": "https://web.archive.org/web/20240303085435/http://spidermedia.ru/comics/roskomnadzor-plany-na-leto",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "roskomnadzor",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

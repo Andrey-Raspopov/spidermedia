@@ -4,6 +4,12 @@
   "url": "/blog/larosh/recenziya-les-0/",
   "original_url": "https://spidermedia.ru/blog/larosh/recenziya-les-0",
   "archived": "https://web.archive.org/web/20250909135000/https://spidermedia.ru/blog/larosh/recenziya-les-0",
+  "tags": [
+    "askold-akishin",
+    "boomkniga",
+    "recenziya",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

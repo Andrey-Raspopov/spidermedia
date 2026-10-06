@@ -4,6 +4,11 @@
   "url": "/news/obyavili-akterskiy-sostav-filma-otryad-samoubiyc/",
   "original_url": "http://spidermedia.ru/news/obyavili-akterskiy-sostav-filma-otryad-samoubiyc",
   "archived": "https://web.archive.org/web/20251115180345/http://spidermedia.ru/news/obyavili-akterskiy-sostav-filma-otryad-samoubiyc",
+  "tags": [
+    "suicide-squad",
+    "kasting",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

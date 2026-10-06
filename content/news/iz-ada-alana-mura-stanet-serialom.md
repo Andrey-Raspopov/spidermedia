@@ -4,6 +4,10 @@
   "url": "/news/iz-ada-alana-mura-stanet-serialom/",
   "original_url": "http://spidermedia.ru/news/iz-ada-alana-mura-stanet-serialom",
   "archived": "https://web.archive.org/web/20250210023702/http://spidermedia.ru/news/iz-ada-alana-mura-stanet-serialom",
+  "tags": [
+    "alan-mur",
+    "top-shelf-productions"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

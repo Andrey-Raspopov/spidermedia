@@ -4,6 +4,13 @@
   "url": "/news/novye-moguchie/",
   "original_url": "http://spidermedia.ru/news/novye-moguchie",
   "archived": "https://web.archive.org/web/20250422042028/http://spidermedia.ru/news/novye-moguchie",
+  "tags": [
+    "el-yuing",
+    "greg-lend",
+    "avengers",
+    "marvel",
+    "infinity"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

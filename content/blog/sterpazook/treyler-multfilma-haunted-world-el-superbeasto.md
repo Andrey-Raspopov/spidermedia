@@ -4,6 +4,13 @@
   "url": "/blog/sterpazook/treyler-multfilma-haunted-world-el-superbeasto/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/treyler-multfilma-haunted-world-el-superbeasto",
   "archived": "https://web.archive.org/web/20250519183218/http://spidermedia.ru/blog/sterpazook/treyler-multfilma-haunted-world-el-superbeasto",
+  "tags": [
+    "animaciya",
+    "trejlery",
+    "rob-zombie",
+    "rob-zombi",
+    "el-superbeasto"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

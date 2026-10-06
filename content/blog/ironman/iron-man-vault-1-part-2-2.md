@@ -4,6 +4,13 @@
   "url": "/blog/ironman/iron-man-vault-1-part-2-2/",
   "original_url": "http://spidermedia.ru/blog/ironman/iron-man-vault-1-part-2-2",
   "archived": "https://web.archive.org/web/20220813151221/http://spidermedia.ru/blog/ironman/iron-man-vault-1-part-2-2",
+  "tags": [
+    "obzor",
+    "war-machine",
+    "marvel",
+    "iron-man",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

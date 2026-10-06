@@ -4,6 +4,14 @@
   "url": "/news/keybl-vs-mstiteli/",
   "original_url": "http://spidermedia.ru/news/keybl-vs-mstiteli",
   "archived": "https://web.archive.org/web/20260116205739/http://spidermedia.ru/news/keybl-vs-mstiteli",
+  "tags": [
+    "kejbl",
+    "cable",
+    "avengers",
+    "dzhef-loeb",
+    "ed-makginnes",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

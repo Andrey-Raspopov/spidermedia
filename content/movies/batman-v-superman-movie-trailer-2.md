@@ -4,6 +4,12 @@
   "url": "/movies/batman-v-superman-movie-trailer-2/",
   "original_url": "https://spidermedia.ru/movies/batman-v-superman-movie-trailer-2",
   "archived": "https://web.archive.org/web/20251216184841/https://spidermedia.ru/movies/batman-v-superman-movie-trailer-2",
+  "tags": [
+    "batman",
+    "superman",
+    "wonder-woman",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

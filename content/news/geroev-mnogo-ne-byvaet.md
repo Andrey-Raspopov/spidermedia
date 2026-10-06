@@ -4,6 +4,19 @@
   "url": "/news/geroev-mnogo-ne-byvaet/",
   "original_url": "https://spidermedia.ru/news/geroev-mnogo-ne-byvaet",
   "archived": "https://web.archive.org/web/20260313121032/https://spidermedia.ru/news/geroev-mnogo-ne-byvaet",
+  "tags": [
+    "frenk-barberi",
+    "freddi-vilyams-ii",
+    "fred-van-lente",
+    "franchesko-frankavilla",
+    "fil-noto",
+    "majkl-ejvon-oeming",
+    "kelli-syu-dekonnik",
+    "duejn-sverchinski",
+    "dzhoshua-uilyamson",
+    "dzho-kejsi",
+    "dark-horse"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

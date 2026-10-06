@@ -4,6 +4,9 @@
   "url": "/comics/anonsirovana-novaya-seriya-komiksov-pro-laru-kroft/",
   "original_url": "http://spidermedia.ru/comics/anonsirovana-novaya-seriya-komiksov-pro-laru-kroft",
   "archived": "https://web.archive.org/web/20250512122134/http://spidermedia.ru/comics/anonsirovana-novaya-seriya-komiksov-pro-laru-kroft",
+  "tags": [
+    "komik-kon-v-nyu-yorke"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

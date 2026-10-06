@@ -4,6 +4,9 @@
   "url": "/blog/redson/mission-statement/",
   "original_url": "http://spidermedia.ru/blog/redson/mission-statement",
   "archived": "https://web.archive.org/web/20120718060814/http://spidermedia.ru/blog/redson/mission-statement",
+  "tags": [
+    "vstuplenie"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

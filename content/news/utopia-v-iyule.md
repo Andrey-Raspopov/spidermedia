@@ -4,6 +4,18 @@
   "url": "/news/utopia-v-iyule/",
   "original_url": "http://spidermedia.ru/news/utopia-v-iyule",
   "archived": "https://web.archive.org/web/20120609022148/http://spidermedia.ru/news/utopia-v-iyule",
+  "tags": [
+    "avengers",
+    "dark-avengers",
+    "dark-x-men",
+    "uncanny-x-men",
+    "utopia",
+    "x-men",
+    "x-universe",
+    "komiksy",
+    "marvel",
+    "mett-frakshen"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

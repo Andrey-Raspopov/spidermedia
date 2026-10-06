@@ -4,6 +4,10 @@
   "url": "/comics/best-column-about-comics-20-kaijumax/",
   "original_url": "http://spidermedia.ru/comics/best-column-about-comics-20-kaijumax",
   "archived": "https://web.archive.org/web/20251110230808/http://spidermedia.ru/comics/best-column-about-comics-20-kaijumax",
+  "tags": [
+    "best-column-about-comics",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

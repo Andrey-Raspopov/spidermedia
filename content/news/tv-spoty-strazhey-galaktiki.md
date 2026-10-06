@@ -4,6 +4,11 @@
   "url": "/news/tv-spoty-strazhey-galaktiki/",
   "original_url": "http://spidermedia.ru/news/tv-spoty-strazhey-galaktiki",
   "archived": "https://web.archive.org/web/20260313103744/http://spidermedia.ru/news/tv-spoty-strazhey-galaktiki",
+  "tags": [
+    "trejlery",
+    "guardians-of-the-galaxy",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

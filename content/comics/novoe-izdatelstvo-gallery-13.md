@@ -4,6 +4,11 @@
   "url": "/comics/novoe-izdatelstvo-gallery-13/",
   "original_url": "http://spidermedia.ru/comics/novoe-izdatelstvo-gallery-13",
   "archived": "https://web.archive.org/web/20251207101104/http://spidermedia.ru/comics/novoe-izdatelstvo-gallery-13",
+  "tags": [
+    "jeff-lemire",
+    "dzheff-lemir",
+    "san-diego-comic-con-international"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

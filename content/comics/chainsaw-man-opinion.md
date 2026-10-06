@@ -4,6 +4,9 @@
   "url": "/comics/chainsaw-man-opinion/",
   "original_url": "https://spidermedia.ru/comics/chainsaw-man-opinion",
   "archived": "https://web.archive.org/web/20251216174115/https://spidermedia.ru/comics/chainsaw-man-opinion",
+  "tags": [
+    "manga"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

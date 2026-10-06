@@ -4,6 +4,10 @@
   "url": "/tv/jessica-jones-motion-poster/",
   "original_url": "http://spidermedia.ru/tv/jessica-jones-motion-poster",
   "archived": "https://web.archive.org/web/20260206225730/http://spidermedia.ru/tv/jessica-jones-motion-poster",
+  "tags": [
+    "marvel",
+    "jessica-jones-alias"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

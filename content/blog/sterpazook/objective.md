@@ -4,6 +4,9 @@
   "url": "/blog/sterpazook/objective/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/objective",
   "archived": "https://web.archive.org/web/20251013193128/http://spidermedia.ru/blog/sterpazook/objective",
+  "tags": [
+    "trejlery"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

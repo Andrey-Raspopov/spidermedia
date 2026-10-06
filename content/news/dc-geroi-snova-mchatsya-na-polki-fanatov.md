@@ -4,6 +4,14 @@
   "url": "/news/dc-geroi-snova-mchatsya-na-polki-fanatov/",
   "original_url": "http://spidermedia.ru/news/dc-geroi-snova-mchatsya-na-polki-fanatov",
   "archived": "https://web.archive.org/web/20260312012056/http://spidermedia.ru/news/dc-geroi-snova-mchatsya-na-polki-fanatov",
+  "tags": [
+    "dc-comics",
+    "statui",
+    "batman",
+    "superman",
+    "aquaman",
+    "wonder-woman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

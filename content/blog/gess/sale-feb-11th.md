@@ -4,6 +4,11 @@
   "url": "/blog/gess/sale-feb-11th/",
   "original_url": "http://spidermedia.ru/blog/gess/sale-feb-11th",
   "archived": "https://web.archive.org/web/20120609051814/http://spidermedia.ru/blog/gess/sale-feb-11th",
+  "tags": [
+    "sale-week",
+    "komiksy",
+    "mnenie"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

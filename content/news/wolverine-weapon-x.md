@@ -4,6 +4,15 @@
   "url": "/news/wolverine-weapon-x/",
   "original_url": "https://spidermedia.ru/news/wolverine-weapon-x",
   "archived": "https://web.archive.org/web/20260214142228/https://spidermedia.ru/news/wolverine-weapon-x",
+  "tags": [
+    "x-men",
+    "marvel",
+    "wolverine",
+    "dzheyson-aaron",
+    "nycc-2009",
+    "weapon-x",
+    "ron-garni"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

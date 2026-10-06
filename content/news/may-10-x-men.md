@@ -4,6 +4,14 @@
   "url": "/news/may-10-x-men/",
   "original_url": "http://spidermedia.ru/news/may-10-x-men",
   "archived": "https://web.archive.org/web/20120608123956/http://spidermedia.ru/news/may-10-x-men",
+  "tags": [
+    "x-men",
+    "x-universe",
+    "komiksy",
+    "lyudi-iks",
+    "marvel",
+    "relizy"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

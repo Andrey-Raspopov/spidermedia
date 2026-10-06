@@ -4,6 +4,16 @@
   "url": "/news/its-boomerang-mates/",
   "original_url": "https://spidermedia.ru/news/its-boomerang-mates",
   "archived": "https://web.archive.org/web/20251108034122/https://spidermedia.ru/news/its-boomerang-mates",
+  "tags": [
+    "frensis-manapul",
+    "svetlejshij-den",
+    "negodyai",
+    "geoff-johns",
+    "rogues",
+    "francis-manapul",
+    "the-flash",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

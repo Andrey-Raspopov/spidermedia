@@ -4,6 +4,11 @@
   "url": "/news/moya-prelessst/",
   "original_url": "https://spidermedia.ru/news/moya-prelessst",
   "archived": "https://web.archive.org/web/20250616091319/https://spidermedia.ru/news/moya-prelessst",
+  "tags": [
+    "svetlejshij-den",
+    "green-lantern",
+    "the-flash"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

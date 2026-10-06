@@ -4,6 +4,11 @@
   "url": "/news/pokazat-vse-chto-skryto-0/",
   "original_url": "http://spidermedia.ru/news/pokazat-vse-chto-skryto-0",
   "archived": "https://web.archive.org/web/20260120155628/http://spidermedia.ru/news/pokazat-vse-chto-skryto-0",
+  "tags": [
+    "art-0",
+    "ultimate",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

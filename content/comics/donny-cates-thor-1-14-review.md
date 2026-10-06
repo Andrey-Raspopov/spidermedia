@@ -4,6 +4,10 @@
   "url": "/comics/donny-cates-thor-1-14-review/",
   "original_url": "http://spidermedia.ru/comics/donny-cates-thor-1-14-review",
   "archived": "https://web.archive.org/web/20250807225112/http://spidermedia.ru/comics/donny-cates-thor-1-14-review",
+  "tags": [
+    "marvel",
+    "thor"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

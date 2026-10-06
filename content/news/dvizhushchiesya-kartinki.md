@@ -4,6 +4,15 @@
   "url": "/news/dvizhushchiesya-kartinki/",
   "original_url": "http://spidermedia.ru/news/dvizhushchiesya-kartinki",
   "archived": "https://web.archive.org/web/20241007014937/http://spidermedia.ru/news/dvizhushchiesya-kartinki",
+  "tags": [
+    "chelovek-iz-stali",
+    "warren-ellis",
+    "superman",
+    "mark-millar",
+    "man-of-steel",
+    "batman",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

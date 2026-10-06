@@ -4,6 +4,11 @@
   "url": "/news/amfora-izdast-komiks-frenka-millera-300/",
   "original_url": "http://spidermedia.ru/news/amfora-izdast-komiks-frenka-millera-300",
   "archived": "https://web.archive.org/web/20251006014137/http://spidermedia.ru/news/amfora-izdast-komiks-frenka-millera-300",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "amfora",
+    "frenk-miller"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

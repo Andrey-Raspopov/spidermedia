@@ -4,6 +4,13 @@
   "url": "/news/sireny-krizisa-na-ulicah/",
   "original_url": "https://spidermedia.ru/news/sireny-krizisa-na-ulicah",
   "archived": "https://web.archive.org/web/20260215084300/https://spidermedia.ru/news/sireny-krizisa-na-ulicah",
+  "tags": [
+    "dc-comics",
+    "batman",
+    "dastin-nguen",
+    "final-crisis",
+    "gillem-marsh"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

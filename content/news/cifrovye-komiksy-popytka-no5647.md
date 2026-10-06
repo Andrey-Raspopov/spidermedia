@@ -4,6 +4,13 @@
   "url": "/news/cifrovye-komiksy-popytka-no5647/",
   "original_url": "http://spidermedia.ru/news/cifrovye-komiksy-popytka-no5647",
   "archived": "https://web.archive.org/web/20251107034154/http://spidermedia.ru/news/cifrovye-komiksy-popytka-no5647",
+  "tags": [
+    "marvel",
+    "alex-maleev",
+    "brian-michael-bendis",
+    "nycc-2009",
+    "cifrovye-komiksy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

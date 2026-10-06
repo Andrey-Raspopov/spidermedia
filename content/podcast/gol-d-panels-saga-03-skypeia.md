@@ -4,6 +4,10 @@
   "url": "/podcast/gol-d-panels-saga-03-skypeia/",
   "original_url": "http://spidermedia.ru/podcast/gol-d-panels-saga-03-skypeia",
   "archived": "https://web.archive.org/web/20260125114927/http://spidermedia.ru/podcast/gol-d-panels-saga-03-skypeia",
+  "tags": [
+    "gold-panels",
+    "on-panels"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

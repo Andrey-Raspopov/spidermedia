@@ -4,6 +4,12 @@
   "url": "/blog/ironman/titry-k-filmam-tor-i-zelenyy-fonar/",
   "original_url": "http://spidermedia.ru/blog/ironman/titry-k-filmam-tor-i-zelenyy-fonar",
   "archived": "https://web.archive.org/web/20250321100048/http://spidermedia.ru/blog/ironman/titry-k-filmam-tor-i-zelenyy-fonar",
+  "tags": [
+    "thor",
+    "green-lantern",
+    "marvel",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

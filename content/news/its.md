@@ -4,6 +4,10 @@
   "url": "/news/its/",
   "original_url": "http://spidermedia.ru/news/its",
   "archived": "https://web.archive.org/web/20250325091413/http://spidermedia.ru/news/its",
+  "tags": [
+    "trejlery",
+    "scott-pilgrim"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

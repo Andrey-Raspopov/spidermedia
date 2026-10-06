@@ -4,6 +4,16 @@
   "url": "/news/sdcc10-marvel-studios/",
   "original_url": "http://spidermedia.ru/news/sdcc10-marvel-studios",
   "archived": "https://web.archive.org/web/20250617233514/http://spidermedia.ru/news/sdcc10-marvel-studios",
+  "tags": [
+    "san-diego-comic-con-international",
+    "kennet-brana",
+    "dzho-dzhonston",
+    "thor",
+    "marvel",
+    "joss-whedon",
+    "captain-america",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

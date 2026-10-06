@@ -4,6 +4,9 @@
   "url": "/games/arkham-knight-stream/",
   "original_url": "http://spidermedia.ru/games/arkham-knight-stream",
   "archived": "https://web.archive.org/web/20251206153118/http://spidermedia.ru/games/arkham-knight-stream",
+  "tags": [
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

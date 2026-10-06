@@ -4,6 +4,11 @@
   "url": "/blog/sonyn/dzhim-li-risuet-gambita-za-8-minut/",
   "original_url": "http://spidermedia.ru/blog/sonyn/dzhim-li-risuet-gambita-za-8-minut",
   "archived": "https://web.archive.org/web/20251108030216/http://spidermedia.ru/blog/sonyn/dzhim-li-risuet-gambita-za-8-minut",
+  "tags": [
+    "art-0",
+    "jim-lee",
+    "gambit"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

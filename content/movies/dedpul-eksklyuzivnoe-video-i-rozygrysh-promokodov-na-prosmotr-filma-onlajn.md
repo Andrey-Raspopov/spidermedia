@@ -4,6 +4,10 @@
   "url": "/movies/dedpul-eksklyuzivnoe-video-i-rozygrysh-promokodov-na-prosmotr-filma-onlajn/",
   "original_url": "http://spidermedia.ru/movies/dedpul-eksklyuzivnoe-video-i-rozygrysh-promokodov-na-prosmotr-filma-onlajn",
   "archived": "https://web.archive.org/web/20260211185144/http://spidermedia.ru/movies/dedpul-eksklyuzivnoe-video-i-rozygrysh-promokodov-na-prosmotr-filma-onlajn",
+  "tags": [
+    "marvel",
+    "deadpool"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

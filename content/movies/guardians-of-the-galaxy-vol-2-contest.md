@@ -4,6 +4,11 @@
   "url": "/movies/guardians-of-the-galaxy-vol-2-contest/",
   "original_url": "https://spidermedia.ru/movies/guardians-of-the-galaxy-vol-2-contest",
   "archived": "https://web.archive.org/web/20250808212530/https://spidermedia.ru/movies/guardians-of-the-galaxy-vol-2-contest",
+  "tags": [
+    "marvel",
+    "viktorina",
+    "guardians-of-the-galaxy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

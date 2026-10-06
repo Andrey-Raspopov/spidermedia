@@ -4,6 +4,10 @@
   "url": "/comics/old-man-hawkeye-review/",
   "original_url": "http://spidermedia.ru/comics/old-man-hawkeye-review",
   "archived": "https://web.archive.org/web/20251006145555/http://spidermedia.ru/comics/old-man-hawkeye-review",
+  "tags": [
+    "marvel",
+    "hawkeye"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

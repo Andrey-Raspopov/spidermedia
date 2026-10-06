@@ -4,6 +4,10 @@
   "url": "/comics/sdcc-oni-press/",
   "original_url": "https://spidermedia.ru/comics/sdcc-oni-press",
   "archived": "https://web.archive.org/web/20250315170800/https://spidermedia.ru/comics/sdcc-oni-press",
+  "tags": [
+    "oni-press",
+    "san-diego-comic-con-international"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

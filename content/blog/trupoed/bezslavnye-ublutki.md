@@ -4,6 +4,13 @@
   "url": "/blog/trupoed/bezslavnye-ublutki/",
   "original_url": "http://spidermedia.ru/blog/trupoed/bezslavnye-ublutki",
   "archived": "https://web.archive.org/web/20111020135353/http://spidermedia.ru/blog/trupoed/bezslavnye-ublutki",
+  "tags": [
+    "inglourious-basterds",
+    "graficheskiy-roman",
+    "kventin-tarantino",
+    "kino",
+    "komiksy"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

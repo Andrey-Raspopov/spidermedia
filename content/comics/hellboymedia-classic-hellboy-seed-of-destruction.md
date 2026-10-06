@@ -4,6 +4,10 @@
   "url": "/comics/hellboymedia-classic-hellboy-seed-of-destruction/",
   "original_url": "http://spidermedia.ru/comics/hellboymedia-classic-hellboy-seed-of-destruction",
   "archived": "https://web.archive.org/web/20260313121115/http://spidermedia.ru/comics/hellboymedia-classic-hellboy-seed-of-destruction",
+  "tags": [
+    "hellboymedia",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,15 @@
   "url": "/blog/redson/ya-chitayu-marvel-now-vypusk-22-mstiteley-mnogo-ne-byvaet-naverno/",
   "original_url": "https://spidermedia.ru/blog/redson/ya-chitayu-marvel-now-vypusk-22-mstiteley-mnogo-ne-byvaet-naverno",
   "archived": "https://web.archive.org/web/20251211025758/https://spidermedia.ru/blog/redson/ya-chitayu-marvel-now-vypusk-22-mstiteley-mnogo-ne-byvaet-naverno",
+  "tags": [
+    "nik-spenser",
+    "mnenie",
+    "kiron-gillen",
+    "dzheymi-makkelvi",
+    "dennis-houpless",
+    "avengers",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

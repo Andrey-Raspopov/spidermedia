@@ -4,11 +4,15 @@
   "url": "/blog/redson/all-new-mzhdz-moy-milyy-hipster/",
   "original_url": "http://spidermedia.ru/blog/redson/all-new-mzhdz-moy-milyy-hipster",
   "archived": "https://web.archive.org/web/20251209145046/http://spidermedia.ru/blog/redson/all-new-mzhdz-moy-milyy-hipster",
+  "tags": [
+    "obzor",
+    "mzhdz"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](https://web.archive.org/web/20251209145046im_/http://i.imgur.com/0zaHqKf.jpg "Автор логотипа - Ярослав Астапеев")](https://web.archive.org/web/20260206215846/http://spidermedia.ru/tags/mzhdz) После недели соскребания с себя остатков фанаток Миши Коллинза МЖДЗ возвращается на ваши мониторы! В этом злободневном выпуске Undead Groom вынесет вердикт старту новой эпохи серии **Batgirl**, Ларош угорит по Marvel и прочитает **Superior Spider-Man** и **Edge of Spider-Verse**, а Oleg89 поговорит с вами о прекрасном - серии Уоррена Эллиса **Trees** и ядерном комиксе **Transformers VS G.I. Joe**, который вы, сами о том не подозревая, безумно хотите прочитать прямо сейчас.
+[![](https://web.archive.org/web/20251209145046im_/http://i.imgur.com/0zaHqKf.jpg "Автор логотипа - Ярослав Астапеев")](../../../tags/mzhdz/) После недели соскребания с себя остатков фанаток Миши Коллинза МЖДЗ возвращается на ваши мониторы! В этом злободневном выпуске Undead Groom вынесет вердикт старту новой эпохи серии **Batgirl**, Ларош угорит по Marvel и прочитает **Superior Spider-Man** и **Edge of Spider-Verse**, а Oleg89 поговорит с вами о прекрасном - серии Уоррена Эллиса **Trees** и ядерном комиксе **Transformers VS G.I. Joe**, который вы, сами о том не подозревая, безумно хотите прочитать прямо сейчас.
 
 ![](https://web.archive.org/web/20251209145046im_/http://i.imgur.com/s64P1As.jpg)
 

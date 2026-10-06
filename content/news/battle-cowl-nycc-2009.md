@@ -4,6 +4,16 @@
   "url": "/news/battle-cowl-nycc-2009/",
   "original_url": "http://spidermedia.ru/news/battle-cowl-nycc-2009",
   "archived": "https://web.archive.org/web/20251110224553/http://spidermedia.ru/news/battle-cowl-nycc-2009",
+  "tags": [
+    "toni-deniel",
+    "greg-rakka",
+    "robin",
+    "nycc-2009",
+    "nightwing",
+    "dc-comics",
+    "betvuman",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

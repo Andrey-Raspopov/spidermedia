@@ -4,6 +4,12 @@
   "url": "/news/walking-dead-v-cvete-novyy-promo-kadr-k-serialu/",
   "original_url": "https://spidermedia.ru/news/walking-dead-v-cvete-novyy-promo-kadr-k-serialu",
   "archived": "https://web.archive.org/web/20260211192229/https://spidermedia.ru/news/walking-dead-v-cvete-novyy-promo-kadr-k-serialu",
+  "tags": [
+    "serialy",
+    "robert-kirkman",
+    "the-walking-dead",
+    "ryan-ottley"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

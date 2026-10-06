@@ -4,6 +4,9 @@
   "url": "/blog/sp888/dobro-pozhalovat/",
   "original_url": "http://spidermedia.ru/blog/sp888/dobro-pozhalovat",
   "archived": "https://web.archive.org/web/20111026051421/http://spidermedia.ru/blog/sp888/dobro-pozhalovat",
+  "tags": [
+    "vstuplenie"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

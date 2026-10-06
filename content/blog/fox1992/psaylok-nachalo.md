@@ -4,6 +4,14 @@
   "url": "/blog/fox1992/psaylok-nachalo/",
   "original_url": "http://spidermedia.ru/blog/fox1992/psaylok-nachalo",
   "archived": "https://web.archive.org/web/20111019071017/http://spidermedia.ru/blog/fox1992/psaylok-nachalo",
+  "tags": [
+    "christopher-yost",
+    "harvey-tolibao",
+    "psylocke",
+    "kristofer-yost",
+    "psaylok",
+    "harvi-tolibao"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

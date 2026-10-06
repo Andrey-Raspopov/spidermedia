@@ -4,6 +4,11 @@
   "url": "/news/dzhina-karano-prisoedinilas-k-akterskomu-sostavu-filma-dedpul/",
   "original_url": "https://spidermedia.ru/news/dzhina-karano-prisoedinilas-k-akterskomu-sostavu-filma-dedpul",
   "archived": "https://web.archive.org/web/20260309180710/https://spidermedia.ru/news/dzhina-karano-prisoedinilas-k-akterskomu-sostavu-filma-dedpul",
+  "tags": [
+    "marvel",
+    "kasting",
+    "deadpool"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

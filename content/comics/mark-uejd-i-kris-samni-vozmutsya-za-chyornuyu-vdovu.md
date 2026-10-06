@@ -4,6 +4,12 @@
   "url": "/comics/mark-uejd-i-kris-samni-vozmutsya-za-chyornuyu-vdovu/",
   "original_url": "https://spidermedia.ru/comics/mark-uejd-i-kris-samni-vozmutsya-za-chyornuyu-vdovu",
   "archived": "https://web.archive.org/web/20260305225328/https://spidermedia.ru/comics/mark-uejd-i-kris-samni-vozmutsya-za-chyornuyu-vdovu",
+  "tags": [
+    "marvel",
+    "chris-samnee",
+    "mark-waid",
+    "black-widow"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

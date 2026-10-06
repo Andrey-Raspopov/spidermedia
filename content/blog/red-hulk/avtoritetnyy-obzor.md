@@ -4,6 +4,27 @@
   "url": "/blog/red-hulk/avtoritetnyy-obzor/",
   "original_url": "https://spidermedia.ru/blog/red-hulk/avtoritetnyy-obzor",
   "archived": "https://web.archive.org/web/20260206230615/https://spidermedia.ru/blog/red-hulk/avtoritetnyy-obzor",
+  "tags": [
+    "frenk-miller",
+    "warren-ellis",
+    "superman",
+    "robert-kirkman",
+    "neil-gaiman",
+    "mark-millar",
+    "dzhef-loeb",
+    "grant-morrison",
+    "the-walking-dead",
+    "vertigo",
+    "ultimate",
+    "marvel",
+    "joker",
+    "jeph-loeb",
+    "image-comics",
+    "dc-comics",
+    "dark-horse",
+    "batman",
+    "neil-gaiman-sandman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

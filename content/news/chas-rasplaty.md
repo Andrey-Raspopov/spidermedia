@@ -4,6 +4,18 @@
   "url": "/news/chas-rasplaty/",
   "original_url": "http://spidermedia.ru/news/chas-rasplaty",
   "archived": "https://web.archive.org/web/20260209112052/http://spidermedia.ru/news/chas-rasplaty",
+  "tags": [
+    "rasplata",
+    "marzhori-lyu",
+    "deniel-vej",
+    "daken",
+    "x-men",
+    "wolverine",
+    "reckoning",
+    "marvel",
+    "marjorie-liu",
+    "daniel-way"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

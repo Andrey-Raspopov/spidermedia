@@ -4,6 +4,11 @@
   "url": "/news/geek-idol-x2/",
   "original_url": "https://spidermedia.ru/news/geek-idol-x2",
   "archived": "https://web.archive.org/web/20250215012212/https://spidermedia.ru/news/geek-idol-x2",
+  "tags": [
+    "megan-foks",
+    "jonah-hex",
+    "fathom"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

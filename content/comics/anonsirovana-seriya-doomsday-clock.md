@@ -4,6 +4,14 @@
   "url": "/comics/anonsirovana-seriya-doomsday-clock/",
   "original_url": "http://spidermedia.ru/comics/anonsirovana-seriya-doomsday-clock",
   "archived": "https://web.archive.org/web/20260211194156/http://spidermedia.ru/comics/anonsirovana-seriya-doomsday-clock",
+  "tags": [
+    "dc-comics",
+    "geoff-johns",
+    "doktor-manhetten",
+    "dumsdej",
+    "superman",
+    "hraniteli"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

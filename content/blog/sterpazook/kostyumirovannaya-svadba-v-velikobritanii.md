@@ -4,6 +4,10 @@
   "url": "/blog/sterpazook/kostyumirovannaya-svadba-v-velikobritanii/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/kostyumirovannaya-svadba-v-velikobritanii",
   "archived": "https://web.archive.org/web/20231205090007/http://spidermedia.ru/blog/sterpazook/kostyumirovannaya-svadba-v-velikobritanii",
+  "tags": [
+    "kosplej",
+    "sobytiya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/comics/manga-my-hero-academia/",
   "original_url": "https://spidermedia.ru/comics/manga-my-hero-academia",
   "archived": "https://web.archive.org/web/20251208070507/https://spidermedia.ru/comics/manga-my-hero-academia",
+  "tags": [
+    "manga"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

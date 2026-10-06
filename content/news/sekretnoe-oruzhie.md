@@ -4,6 +4,14 @@
   "url": "/news/sekretnoe-oruzhie/",
   "original_url": "http://spidermedia.ru/news/sekretnoe-oruzhie",
   "archived": "https://web.archive.org/web/20250807225906/http://spidermedia.ru/news/sekretnoe-oruzhie",
+  "tags": [
+    "osada",
+    "norman-ozborn",
+    "art-0",
+    "siege",
+    "norman-osborn",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

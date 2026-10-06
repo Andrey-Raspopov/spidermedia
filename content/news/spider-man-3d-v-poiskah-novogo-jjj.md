@@ -4,6 +4,10 @@
   "url": "/news/spider-man-3d-v-poiskah-novogo-jjj/",
   "original_url": "http://spidermedia.ru/news/spider-man-3d-v-poiskah-novogo-jjj",
   "archived": "https://web.archive.org/web/20240614193139/http://spidermedia.ru/news/spider-man-3d-v-poiskah-novogo-jjj",
+  "tags": [
+    "marvel",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

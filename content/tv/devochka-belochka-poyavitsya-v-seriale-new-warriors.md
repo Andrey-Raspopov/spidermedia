@@ -4,6 +4,10 @@
   "url": "/tv/devochka-belochka-poyavitsya-v-seriale-new-warriors/",
   "original_url": "http://spidermedia.ru/tv/devochka-belochka-poyavitsya-v-seriale-new-warriors",
   "archived": "https://web.archive.org/web/20250512105324/http://spidermedia.ru/tv/devochka-belochka-poyavitsya-v-seriale-new-warriors",
+  "tags": [
+    "marvel",
+    "squirrel-girl"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,13 @@
   "url": "/blog/sterpazook/only-true-captain-america/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/only-true-captain-america",
   "archived": "https://web.archive.org/web/20120607162214/http://spidermedia.ru/blog/sterpazook/only-true-captain-america",
+  "tags": [
+    "captain-america",
+    "casting-call",
+    "kapitan-amerika",
+    "kino",
+    "fanstaff"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

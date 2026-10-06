@@ -4,6 +4,12 @@
   "url": "/comics/justice-league-no-justice-1-review/",
   "original_url": "https://spidermedia.ru/comics/justice-league-no-justice-1-review",
   "archived": "https://web.archive.org/web/20251206151752/https://spidermedia.ru/comics/justice-league-no-justice-1-review",
+  "tags": [
+    "dc-comics",
+    "justice-league",
+    "skott-snajder",
+    "frensis-manapul"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

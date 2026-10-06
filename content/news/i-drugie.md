@@ -4,6 +4,20 @@
   "url": "/news/i-drugie/",
   "original_url": "https://spidermedia.ru/news/i-drugie",
   "archived": "https://web.archive.org/web/20250618124406/https://spidermedia.ru/news/i-drugie",
+  "tags": [
+    "ed-tadeo",
+    "spider-man",
+    "huan-bobillo",
+    "todd-nauk",
+    "marvel",
+    "lan-medina",
+    "kris-klermont",
+    "den-yurgens",
+    "den-slott",
+    "joshua-hale-fialkov",
+    "vertigo",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

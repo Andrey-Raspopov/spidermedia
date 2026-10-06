@@ -4,6 +4,11 @@
   "url": "/news/konstantin-pervoe-promo/",
   "original_url": "https://spidermedia.ru/news/konstantin-pervoe-promo",
   "archived": "https://web.archive.org/web/20260125130457/https://spidermedia.ru/news/konstantin-pervoe-promo",
+  "tags": [
+    "serialy",
+    "dzhon-konstantin",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

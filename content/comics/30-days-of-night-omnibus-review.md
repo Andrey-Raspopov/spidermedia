@@ -4,6 +4,12 @@
   "url": "/comics/30-days-of-night-omnibus-review/",
   "original_url": "https://spidermedia.ru/comics/30-days-of-night-omnibus-review",
   "archived": "https://web.archive.org/web/20251207090137/https://spidermedia.ru/comics/30-days-of-night-omnibus-review",
+  "tags": [
+    "xl-media",
+    "ben-templsmit",
+    "zarubezhnye-komiksy-na-russkom",
+    "steve-niles"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

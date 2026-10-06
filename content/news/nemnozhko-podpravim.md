@@ -4,6 +4,11 @@
   "url": "/news/nemnozhko-podpravim/",
   "original_url": "http://spidermedia.ru/news/nemnozhko-podpravim",
   "archived": "https://web.archive.org/web/20260117224018/http://spidermedia.ru/news/nemnozhko-podpravim",
+  "tags": [
+    "lyudi-iks-pervyj-klass",
+    "x-men",
+    "x-men-first-class"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

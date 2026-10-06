@@ -4,6 +4,10 @@
   "url": "/blog/shargor/hellboymedia-06-baltimore-witch-harju/",
   "original_url": "http://spidermedia.ru/blog/shargor/hellboymedia-06-baltimore-witch-harju",
   "archived": "https://web.archive.org/web/20260117223821/http://spidermedia.ru/blog/shargor/hellboymedia-06-baltimore-witch-harju",
+  "tags": [
+    "hellboymedia",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

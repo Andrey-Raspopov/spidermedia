@@ -4,6 +4,10 @@
   "url": "/comics/recenziya-zhuj-kniga-o-vkusnoj-i-zdorovoj-pishhe/",
   "original_url": "https://spidermedia.ru/comics/recenziya-zhuj-kniga-o-vkusnoj-i-zdorovoj-pishhe",
   "archived": "https://web.archive.org/web/20251213194301/https://spidermedia.ru/comics/recenziya-zhuj-kniga-o-vkusnoj-i-zdorovoj-pishhe",
+  "tags": [
+    "xl-media",
+    "zarubezhnye-komiksy-na-russkom"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

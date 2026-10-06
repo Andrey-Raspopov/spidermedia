@@ -4,6 +4,16 @@
   "url": "/news/v-osnovnom-bezvredna/",
   "original_url": "http://spidermedia.ru/news/v-osnovnom-bezvredna",
   "archived": "https://web.archive.org/web/20260314083323/http://spidermedia.ru/news/v-osnovnom-bezvredna",
+  "tags": [
+    "annigilyatory",
+    "den-ebnett",
+    "end-lenning",
+    "tan-eng-huat",
+    "timoti-grin",
+    "rocket-racoon",
+    "groot",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

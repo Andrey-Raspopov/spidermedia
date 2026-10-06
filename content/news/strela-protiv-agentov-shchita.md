@@ -4,6 +4,11 @@
   "url": "/news/strela-protiv-agentov-shchita/",
   "original_url": "http://spidermedia.ru/news/strela-protiv-agentov-shchita",
   "archived": "https://web.archive.org/web/20251115034502/http://spidermedia.ru/news/strela-protiv-agentov-shchita",
+  "tags": [
+    "agenty-shhita",
+    "s.h.i.e.l.d",
+    "green-arrow"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

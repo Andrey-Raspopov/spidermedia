@@ -4,6 +4,19 @@
   "url": "/news/second-coming-chto-dalshe/",
   "original_url": "http://spidermedia.ru/news/second-coming-chto-dalshe",
   "archived": "https://web.archive.org/web/20251115033639/http://spidermedia.ru/news/second-coming-chto-dalshe",
+  "tags": [
+    "psajlok",
+    "nadezhda",
+    "magneto",
+    "she-hulk",
+    "blejd",
+    "x-men",
+    "psylocke",
+    "marvel",
+    "hope",
+    "blade",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

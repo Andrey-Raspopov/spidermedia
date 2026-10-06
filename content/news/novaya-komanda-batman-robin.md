@@ -4,6 +4,13 @@
   "url": "/news/novaya-komanda-batman-robin/",
   "original_url": "https://spidermedia.ru/news/novaya-komanda-batman-robin",
   "archived": "https://web.archive.org/web/20250806062245/https://spidermedia.ru/news/novaya-komanda-batman-robin",
+  "tags": [
+    "piter-tomasi",
+    "patrik-glison",
+    "art-0",
+    "dc-comics",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/news/vot-i-skazochke-konec/",
   "original_url": "https://spidermedia.ru/news/vot-i-skazochke-konec",
   "archived": "https://web.archive.org/web/20250806053618/https://spidermedia.ru/news/vot-i-skazochke-konec",
+  "tags": [
+    "bill-uillingem",
+    "vertigo",
+    "fables"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

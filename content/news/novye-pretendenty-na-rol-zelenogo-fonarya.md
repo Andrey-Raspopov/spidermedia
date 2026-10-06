@@ -4,6 +4,9 @@
   "url": "/news/novye-pretendenty-na-rol-zelenogo-fonarya/",
   "original_url": "http://spidermedia.ru/news/novye-pretendenty-na-rol-zelenogo-fonarya",
   "archived": "https://web.archive.org/web/20250806051303/http://spidermedia.ru/news/novye-pretendenty-na-rol-zelenogo-fonarya",
+  "tags": [
+    "green-lantern"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

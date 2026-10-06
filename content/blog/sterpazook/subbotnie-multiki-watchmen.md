@@ -4,6 +4,12 @@
   "url": "/blog/sterpazook/subbotnie-multiki-watchmen/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/subbotnie-multiki-watchmen",
   "archived": "https://web.archive.org/web/20250717181526/http://spidermedia.ru/blog/sterpazook/subbotnie-multiki-watchmen",
+  "tags": [
+    "yumor",
+    "animaciya",
+    "hraniteli",
+    "spoof"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

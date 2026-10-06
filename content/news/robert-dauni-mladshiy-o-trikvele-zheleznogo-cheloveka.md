@@ -4,6 +4,11 @@
   "url": "/news/robert-dauni-mladshiy-o-trikvele-zheleznogo-cheloveka/",
   "original_url": "http://spidermedia.ru/news/robert-dauni-mladshiy-o-trikvele-zheleznogo-cheloveka",
   "archived": "https://web.archive.org/web/20251208073230/http://spidermedia.ru/news/robert-dauni-mladshiy-o-trikvele-zheleznogo-cheloveka",
+  "tags": [
+    "robert-dauni-ml",
+    "marvel",
+    "iron-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

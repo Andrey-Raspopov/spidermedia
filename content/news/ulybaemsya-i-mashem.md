@@ -4,6 +4,13 @@
   "url": "/news/ulybaemsya-i-mashem/",
   "original_url": "http://spidermedia.ru/news/ulybaemsya-i-mashem",
   "archived": "https://web.archive.org/web/20260121004336/http://spidermedia.ru/news/ulybaemsya-i-mashem",
+  "tags": [
+    "daredevil",
+    "mark-waid",
+    "paolo-rivera",
+    "markos-martin",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

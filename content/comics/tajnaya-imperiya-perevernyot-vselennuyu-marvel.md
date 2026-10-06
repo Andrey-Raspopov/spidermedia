@@ -4,6 +4,10 @@
   "url": "/comics/tajnaya-imperiya-perevernyot-vselennuyu-marvel/",
   "original_url": "https://spidermedia.ru/comics/tajnaya-imperiya-perevernyot-vselennuyu-marvel",
   "archived": "https://web.archive.org/web/20260308232813/https://spidermedia.ru/comics/tajnaya-imperiya-perevernyot-vselennuyu-marvel",
+  "tags": [
+    "marvel",
+    "captain-america"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,23 @@
   "url": "/news/zheleznyy-tandem/",
   "original_url": "http://spidermedia.ru/news/zheleznyy-tandem",
   "archived": "https://web.archive.org/web/20120607151958/http://spidermedia.ru/news/zheleznyy-tandem",
+  "tags": [
+    "iron-man",
+    "iron-man-2",
+    "justin-hammer",
+    "war-machine",
+    "whiplash",
+    "voitel",
+    "dzhastin-hemmer",
+    "dzhon-favro",
+    "zheleznyy-chelovek",
+    "zheleznyy-chelovek-2",
+    "kino",
+    "knut",
+    "komiksy",
+    "marvel",
+    "mikki-rurk"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

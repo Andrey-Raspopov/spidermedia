@@ -4,6 +4,10 @@
   "url": "/blog/derden/kak-v-seule-prodayutsya-komiksy-0/",
   "original_url": "https://spidermedia.ru/blog/derden/kak-v-seule-prodayutsya-komiksy-0",
   "archived": "https://web.archive.org/web/20251211024056/https://spidermedia.ru/blog/derden/kak-v-seule-prodayutsya-komiksy-0",
+  "tags": [
+    "manga",
+    "manhva"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

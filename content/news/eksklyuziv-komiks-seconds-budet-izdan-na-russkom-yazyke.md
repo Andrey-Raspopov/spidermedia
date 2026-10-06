@@ -4,6 +4,10 @@
   "url": "/news/eksklyuziv-komiks-seconds-budet-izdan-na-russkom-yazyke/",
   "original_url": "http://spidermedia.ru/news/eksklyuziv-komiks-seconds-budet-izdan-na-russkom-yazyke",
   "archived": "https://web.archive.org/web/20200221074626/http://spidermedia.ru:80/news/eksklyuziv-komiks-seconds-budet-izdan-na-russkom-yazyke",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "bryan-lee-o-malley"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

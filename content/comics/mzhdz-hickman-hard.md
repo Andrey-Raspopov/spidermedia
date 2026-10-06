@@ -4,6 +4,11 @@
   "url": "/comics/mzhdz-hickman-hard/",
   "original_url": "https://spidermedia.ru/comics/mzhdz-hickman-hard",
   "archived": "https://web.archive.org/web/20251117000722/https://spidermedia.ru/comics/mzhdz-hickman-hard",
+  "tags": [
+    "image-comics",
+    "dzhonatan-hikman",
+    "mzhdz"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

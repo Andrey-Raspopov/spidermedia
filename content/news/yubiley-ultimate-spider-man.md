@@ -4,6 +4,14 @@
   "url": "/news/yubiley-ultimate-spider-man/",
   "original_url": "http://spidermedia.ru/news/yubiley-ultimate-spider-man",
   "archived": "https://web.archive.org/web/20120610180933/http://spidermedia.ru/news/yubiley-ultimate-spider-man",
+  "tags": [
+    "spider-man",
+    "ultimate",
+    "art-0",
+    "komiksy",
+    "oblozhki",
+    "chelovek-pauk"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

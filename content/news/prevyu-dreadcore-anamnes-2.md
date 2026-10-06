@@ -4,6 +4,9 @@
   "url": "/news/prevyu-dreadcore-anamnes-2/",
   "original_url": "http://spidermedia.ru/news/prevyu-dreadcore-anamnes-2",
   "archived": "https://web.archive.org/web/20190917031252/http://spidermedia.ru:80/news/prevyu-dreadcore-anamnes-2",
+  "tags": [
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

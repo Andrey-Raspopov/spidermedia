@@ -4,6 +4,9 @@
   "url": "/comics/motor-girl-terry-moore-review/",
   "original_url": "http://spidermedia.ru/comics/motor-girl-terry-moore-review",
   "archived": "https://web.archive.org/web/20200221074842/http://spidermedia.ru:80/comics/motor-girl-terry-moore-review",
+  "tags": [
+    "terri-mur"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

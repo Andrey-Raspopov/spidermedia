@@ -4,6 +4,21 @@
   "url": "/news/ultimate-universe-konec-i-novoe-nachalo/",
   "original_url": "https://spidermedia.ru/news/ultimate-universe-konec-i-novoe-nachalo",
   "archived": "https://web.archive.org/web/20251115190240/https://spidermedia.ru/news/ultimate-universe-konec-i-novoe-nachalo",
+  "tags": [
+    "fantastic-four",
+    "ugadajka",
+    "rik-dzhons",
+    "dzhef-loeb",
+    "artur-adams",
+    "x-men",
+    "wondercon",
+    "ultimate",
+    "rick-jones",
+    "nycc-2009",
+    "marvel",
+    "komik-kon-v-nyu-yorke",
+    "new-york-comic-con"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

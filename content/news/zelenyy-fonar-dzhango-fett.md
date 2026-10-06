@@ -4,6 +4,9 @@
   "url": "/news/zelenyy-fonar-dzhango-fett/",
   "original_url": "http://spidermedia.ru/news/zelenyy-fonar-dzhango-fett",
   "archived": "https://web.archive.org/web/20250909130749/http://spidermedia.ru/news/zelenyy-fonar-dzhango-fett",
+  "tags": [
+    "green-lantern"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

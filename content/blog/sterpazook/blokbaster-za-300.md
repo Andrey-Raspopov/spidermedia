@@ -4,6 +4,11 @@
   "url": "/blog/sterpazook/blokbaster-za-300/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/blokbaster-za-300",
   "archived": "https://web.archive.org/web/20120607193319/http://spidermedia.ru/blog/sterpazook/blokbaster-za-300",
+  "tags": [
+    "video",
+    "kino",
+    "roboty"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

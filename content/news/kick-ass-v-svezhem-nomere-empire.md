@@ -4,6 +4,10 @@
   "url": "/news/kick-ass-v-svezhem-nomere-empire/",
   "original_url": "https://spidermedia.ru/news/kick-ass-v-svezhem-nomere-empire",
   "archived": "https://web.archive.org/web/20250316154324/https://spidermedia.ru/news/kick-ass-v-svezhem-nomere-empire",
+  "tags": [
+    "kick-ass",
+    "mettyu-von"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

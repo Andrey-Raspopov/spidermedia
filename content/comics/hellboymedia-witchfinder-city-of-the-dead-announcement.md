@@ -4,6 +4,10 @@
   "url": "/comics/hellboymedia-witchfinder-city-of-the-dead-announcement/",
   "original_url": "http://spidermedia.ru/comics/hellboymedia-witchfinder-city-of-the-dead-announcement",
   "archived": "https://web.archive.org/web/20251115190559/http://spidermedia.ru/comics/hellboymedia-witchfinder-city-of-the-dead-announcement",
+  "tags": [
+    "hellboymedia",
+    "novosti"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

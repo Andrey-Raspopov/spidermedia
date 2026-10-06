@@ -4,6 +4,10 @@
   "url": "/news/dueyn-skala-dzhonson-chyornyy-adam/",
   "original_url": "http://spidermedia.ru/news/dueyn-skala-dzhonson-chyornyy-adam",
   "archived": "https://web.archive.org/web/20260121013613/http://spidermedia.ru/news/dueyn-skala-dzhonson-chyornyy-adam",
+  "tags": [
+    "shazam",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/tv/preacher-s01e10-call-and-response-season-finale/",
   "original_url": "http://spidermedia.ru/tv/preacher-s01e10-call-and-response-season-finale",
   "archived": "https://web.archive.org/web/20260312013803/http://spidermedia.ru/tv/preacher-s01e10-call-and-response-season-finale",
+  "tags": [
+    "vertigo",
+    "preacher"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

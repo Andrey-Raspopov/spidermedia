@@ -4,6 +4,9 @@
   "url": "/games/gamermedia-15-shinobi-i-piraty/",
   "original_url": "http://spidermedia.ru/games/gamermedia-15-shinobi-i-piraty",
   "archived": "https://web.archive.org/web/20260215072959/http://spidermedia.ru/games/gamermedia-15-shinobi-i-piraty",
+  "tags": [
+    "gamermedia"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

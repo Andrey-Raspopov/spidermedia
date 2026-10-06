@@ -4,6 +4,12 @@
   "url": "/blog/derden/dc-new-52-swamp-thing-vol5-no1/",
   "original_url": "https://spidermedia.ru/blog/derden/dc-new-52-swamp-thing-vol5-no1",
   "archived": "https://web.archive.org/web/20260313121103/https://spidermedia.ru/blog/derden/dc-new-52-swamp-thing-vol5-no1",
+  "tags": [
+    "bolotnaya-tvar",
+    "scott-snyder",
+    "new-52",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

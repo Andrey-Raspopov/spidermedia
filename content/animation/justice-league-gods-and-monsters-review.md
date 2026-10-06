@@ -4,6 +4,10 @@
   "url": "/animation/justice-league-gods-and-monsters-review/",
   "original_url": "https://spidermedia.ru/animation/justice-league-gods-and-monsters-review",
   "archived": "https://web.archive.org/web/20260123065932/https://spidermedia.ru/animation/justice-league-gods-and-monsters-review",
+  "tags": [
+    "dc-comics",
+    "justice-league"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

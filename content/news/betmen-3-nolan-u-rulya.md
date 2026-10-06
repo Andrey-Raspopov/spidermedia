@@ -4,6 +4,14 @@
   "url": "/news/betmen-3-nolan-u-rulya/",
   "original_url": "http://spidermedia.ru/news/betmen-3-nolan-u-rulya",
   "archived": "https://web.archive.org/web/20120609022110/http://spidermedia.ru/news/betmen-3-nolan-u-rulya",
+  "tags": [
+    "batman",
+    "batman-3",
+    "betmen",
+    "kino",
+    "komiksy",
+    "kristofer-nolan"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

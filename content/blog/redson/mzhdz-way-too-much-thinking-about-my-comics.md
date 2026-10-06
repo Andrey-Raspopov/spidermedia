@@ -4,11 +4,15 @@
   "url": "/blog/redson/mzhdz-way-too-much-thinking-about-my-comics/",
   "original_url": "http://spidermedia.ru/blog/redson/mzhdz-way-too-much-thinking-about-my-comics",
   "archived": "https://web.archive.org/web/20251108032112/http://spidermedia.ru/blog/redson/mzhdz-way-too-much-thinking-about-my-comics",
+  "tags": [
+    "mnenie",
+    "mzhdz"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](https://web.archive.org/web/20251108032112im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz516.png)](https://web.archive.org/web/20260206215846/http://spidermedia.ru/tags/mzhdz)
+[![](https://web.archive.org/web/20251108032112im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz516.png)](../../../tags/mzhdz/)
 ![](https://web.archive.org/web/20251108032112im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/spidermedia.jpg)
 **Еженедельные обзоры новых комиксов! Юбилейный 10-й выпуск!**
 Еще одно важное нововведение: кликнув на логотип, вы сможете увидеть все посты с тегом «мждз». Теперь для этого не надо спускаться в конец поста!

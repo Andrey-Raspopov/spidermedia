@@ -4,6 +4,11 @@
   "url": "/comics/roskomnadzor-show-must-go-on/",
   "original_url": "http://spidermedia.ru/comics/roskomnadzor-show-must-go-on",
   "archived": "https://web.archive.org/web/20251110221747/http://spidermedia.ru/comics/roskomnadzor-show-must-go-on",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "roskomnadzor",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

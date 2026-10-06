@@ -4,6 +4,17 @@
   "url": "/news/proshchay-iniciativa-zdravstvuy-akademiya-mstiteley/",
   "original_url": "http://spidermedia.ru/news/proshchay-iniciativa-zdravstvuy-akademiya-mstiteley",
   "archived": "https://web.archive.org/web/20120607134643/http://spidermedia.ru/news/proshchay-iniciativa-zdravstvuy-akademiya-mstiteley",
+  "tags": [
+    "avengers",
+    "avengers-academy",
+    "avengers-initiative",
+    "initiative",
+    "akademiya-mstiteley",
+    "iniciativa",
+    "komiksy",
+    "marvel",
+    "mstiteli"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

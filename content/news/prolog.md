@@ -4,6 +4,12 @@
   "url": "/news/prolog/",
   "original_url": "https://spidermedia.ru/news/prolog",
   "archived": "https://web.archive.org/web/20260125115743/https://spidermedia.ru/news/prolog",
+  "tags": [
+    "temnyj-rycar",
+    "dc-comics",
+    "dark-knight-rises",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/comics/hellboymedia-the-impossible-will-happen/",
   "original_url": "http://spidermedia.ru/comics/hellboymedia-the-impossible-will-happen",
   "archived": "https://web.archive.org/web/20260124051504/http://spidermedia.ru/comics/hellboymedia-the-impossible-will-happen",
+  "tags": [
+    "hellboymedia",
+    "novosti"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

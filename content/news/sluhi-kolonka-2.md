@@ -4,6 +4,18 @@
   "url": "/news/sluhi-kolonka-2/",
   "original_url": "http://spidermedia.ru/news/sluhi-kolonka-2",
   "archived": "https://web.archive.org/web/20191226060626/http://spidermedia.ru:80/news/sluhi-kolonka-2",
+  "tags": [
+    "x-men",
+    "marvel",
+    "dc-comics",
+    "prizrachnyj-gonshhik",
+    "grant-morrison",
+    "dzheyson-aaron",
+    "sluhi",
+    "betgyorl",
+    "helstorm",
+    "hellstorm"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

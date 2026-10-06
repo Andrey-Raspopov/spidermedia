@@ -4,6 +4,12 @@
   "url": "/news/imported-gotham-city/",
   "original_url": "http://spidermedia.ru/news/imported-gotham-city",
   "archived": "https://web.archive.org/web/20260125124307/http://spidermedia.ru/news/imported-gotham-city",
+  "tags": [
+    "batman",
+    "dark-knight-rises",
+    "dc-comics",
+    "temnyj-rycar"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

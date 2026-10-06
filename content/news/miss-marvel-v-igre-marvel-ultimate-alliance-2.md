@@ -4,6 +4,13 @@
   "url": "/news/miss-marvel-v-igre-marvel-ultimate-alliance-2/",
   "original_url": "http://spidermedia.ru/news/miss-marvel-v-igre-marvel-ultimate-alliance-2",
   "archived": "https://web.archive.org/web/20251107010432/http://spidermedia.ru/news/miss-marvel-v-igre-marvel-ultimate-alliance-2",
+  "tags": [
+    "trejlery",
+    "sten-li",
+    "miss-marvel",
+    "igry",
+    "stan-lee"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

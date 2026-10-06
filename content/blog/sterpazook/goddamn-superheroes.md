@@ -4,6 +4,12 @@
   "url": "/blog/sterpazook/goddamn-superheroes/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/goddamn-superheroes",
   "archived": "https://web.archive.org/web/20120608214248/http://spidermedia.ru/blog/sterpazook/goddamn-superheroes",
+  "tags": [
+    "industriya",
+    "komiksy",
+    "marazm",
+    "supergeroi"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

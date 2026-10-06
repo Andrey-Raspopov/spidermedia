@@ -4,6 +4,12 @@
   "url": "/news/rosomaha-finalnyy-treyler/",
   "original_url": "http://spidermedia.ru/news/rosomaha-finalnyy-treyler",
   "archived": "https://web.archive.org/web/20120718060009/http://spidermedia.ru/news/rosomaha-finalnyy-treyler",
+  "tags": [
+    "wolverine",
+    "kino",
+    "rosomaha",
+    "trailers"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

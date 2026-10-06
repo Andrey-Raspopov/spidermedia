@@ -4,6 +4,11 @@
   "url": "/news/novyy-tizer-poster-i-kadry-iz-filma-lyudi-iks-pervyy-klass/",
   "original_url": "https://spidermedia.ru/news/novyy-tizer-poster-i-kadry-iz-filma-lyudi-iks-pervyy-klass",
   "archived": "https://web.archive.org/web/20260313114622/https://spidermedia.ru/news/novyy-tizer-poster-i-kadry-iz-filma-lyudi-iks-pervyy-klass",
+  "tags": [
+    "lyudi-iks-pervyj-klass",
+    "x-men-first-class",
+    "x-men"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

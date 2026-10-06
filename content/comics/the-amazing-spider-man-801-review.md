@@ -4,6 +4,13 @@
   "url": "/comics/the-amazing-spider-man-801-review/",
   "original_url": "http://spidermedia.ru/comics/the-amazing-spider-man-801-review",
   "archived": "https://web.archive.org/web/20251216120407/http://spidermedia.ru/comics/the-amazing-spider-man-801-review",
+  "tags": [
+    "marvel",
+    "den-slott",
+    "markos-martin",
+    "mnenie",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/blog/bogart/nycc09-flash-batwoman/",
   "original_url": "https://spidermedia.ru/blog/bogart/nycc09-flash-batwoman",
   "archived": "https://web.archive.org/web/20260117224149/https://spidermedia.ru/blog/bogart/nycc09-flash-batwoman",
+  "tags": [
+    "dc-comics",
+    "the-flash",
+    "preview",
+    "betvuman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

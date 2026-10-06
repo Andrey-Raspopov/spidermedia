@@ -4,6 +4,13 @@
   "url": "/blog/sp888/ron-limes-skaar/",
   "original_url": "http://spidermedia.ru/blog/sp888/ron-limes-skaar",
   "archived": "https://web.archive.org/web/20111019005041/http://spidermedia.ru/blog/sp888/ron-limes-skaar",
+  "tags": [
+    "hulk",
+    "marvel",
+    "skaar",
+    "komiksy",
+    "ron-lim"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

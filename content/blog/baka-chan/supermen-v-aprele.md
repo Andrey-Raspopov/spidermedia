@@ -4,6 +4,18 @@
   "url": "/blog/baka-chan/supermen-v-aprele/",
   "original_url": "https://spidermedia.ru/blog/baka-chan/supermen-v-aprele",
   "archived": "https://web.archive.org/web/20251208070709/https://spidermedia.ru/blog/baka-chan/supermen-v-aprele",
+  "tags": [
+    "superman",
+    "superboj",
+    "legion-super-geroev",
+    "superboy",
+    "sterling-gates",
+    "legion-of-super-heroes",
+    "joe-casey",
+    "james-robinson",
+    "greg-rucka",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

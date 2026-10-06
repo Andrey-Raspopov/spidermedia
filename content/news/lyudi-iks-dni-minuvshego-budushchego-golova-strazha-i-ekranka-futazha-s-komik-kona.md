@@ -4,6 +4,11 @@
   "url": "/news/lyudi-iks-dni-minuvshego-budushchego-golova-strazha-i-ekranka-futazha-s-komik-kona/",
   "original_url": "http://spidermedia.ru/news/lyudi-iks-dni-minuvshego-budushchego-golova-strazha-i-ekranka-futazha-s-komik-kona",
   "archived": "https://web.archive.org/web/20250806235902/http://spidermedia.ru/news/lyudi-iks-dni-minuvshego-budushchego-golova-strazha-i-ekranka-futazha-s-komik-kona",
+  "tags": [
+    "marvel",
+    "x-men",
+    "days-of-future-past"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

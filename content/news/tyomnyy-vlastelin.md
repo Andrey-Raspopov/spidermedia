@@ -4,6 +4,10 @@
   "url": "/news/tyomnyy-vlastelin/",
   "original_url": "http://spidermedia.ru/news/tyomnyy-vlastelin",
   "archived": "https://web.archive.org/web/20220820002222/http://spidermedia.ru/news/tyomnyy-vlastelin",
+  "tags": [
+    "marvel",
+    "thor"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

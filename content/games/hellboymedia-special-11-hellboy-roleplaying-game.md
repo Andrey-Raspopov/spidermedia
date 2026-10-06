@@ -4,6 +4,10 @@
   "url": "/games/hellboymedia-special-11-hellboy-roleplaying-game/",
   "original_url": "https://spidermedia.ru/games/hellboymedia-special-11-hellboy-roleplaying-game",
   "archived": "https://web.archive.org/web/20251206144617/https://spidermedia.ru/games/hellboymedia-special-11-hellboy-roleplaying-game",
+  "tags": [
+    "hellboymedia",
+    "obzor"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

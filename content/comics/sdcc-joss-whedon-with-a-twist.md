@@ -4,6 +4,11 @@
   "url": "/comics/sdcc-joss-whedon-with-a-twist/",
   "original_url": "https://spidermedia.ru/comics/sdcc-joss-whedon-with-a-twist",
   "archived": "https://web.archive.org/web/20250315164454/https://spidermedia.ru/comics/sdcc-joss-whedon-with-a-twist",
+  "tags": [
+    "dark-horse",
+    "san-diego-comic-con-international",
+    "joss-whedon"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

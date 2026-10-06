@@ -4,6 +4,13 @@
   "url": "/news/sdcc10-kamrip-treylera-walking-dead/",
   "original_url": "https://spidermedia.ru/news/sdcc10-kamrip-treylera-walking-dead",
   "archived": "https://web.archive.org/web/20260211185941/https://spidermedia.ru/news/sdcc10-kamrip-treylera-walking-dead",
+  "tags": [
+    "trejlery",
+    "serialy",
+    "san-diego-comic-con-international",
+    "the-walking-dead",
+    "futazh"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

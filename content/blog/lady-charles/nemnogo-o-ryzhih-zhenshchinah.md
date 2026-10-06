@@ -4,6 +4,11 @@
   "url": "/blog/lady-charles/nemnogo-o-ryzhih-zhenshchinah/",
   "original_url": "http://spidermedia.ru/blog/lady-charles/nemnogo-o-ryzhih-zhenshchinah",
   "archived": "https://web.archive.org/web/20111019063024/http://spidermedia.ru/blog/lady-charles/nemnogo-o-ryzhih-zhenshchinah",
+  "tags": [
+    "dc-comics",
+    "zhenshchiny-v-komiksah",
+    "personazhi-komiksov"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

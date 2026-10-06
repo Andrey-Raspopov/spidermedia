@@ -4,6 +4,10 @@
   "url": "/comics/zimnij-soldat-vozglavit-gromoverzhcev/",
   "original_url": "http://spidermedia.ru/comics/zimnij-soldat-vozglavit-gromoverzhcev",
   "archived": "https://web.archive.org/web/20251107001029/http://spidermedia.ru/comics/zimnij-soldat-vozglavit-gromoverzhcev",
+  "tags": [
+    "marvel",
+    "thunderbolts"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

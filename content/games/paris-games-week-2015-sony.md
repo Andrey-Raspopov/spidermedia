@@ -4,6 +4,9 @@
   "url": "/games/paris-games-week-2015-sony/",
   "original_url": "http://spidermedia.ru/games/paris-games-week-2015-sony",
   "archived": "https://web.archive.org/web/20251216185744/http://spidermedia.ru/games/paris-games-week-2015-sony",
+  "tags": [
+    "sony"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

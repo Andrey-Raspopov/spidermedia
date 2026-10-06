@@ -4,6 +4,9 @@
   "url": "/comics/all-things-valiant-69-flashpoint/",
   "original_url": "https://spidermedia.ru/comics/all-things-valiant-69-flashpoint",
   "archived": "https://web.archive.org/web/20251207002135/https://spidermedia.ru/comics/all-things-valiant-69-flashpoint",
+  "tags": [
+    "valiant-entertainment"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

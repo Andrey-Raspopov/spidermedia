@@ -4,6 +4,10 @@
   "url": "/blog/lady-charles/otel-miledi-sharl/",
   "original_url": "http://spidermedia.ru/blog/lady-charles/otel-miledi-sharl",
   "archived": "https://web.archive.org/web/20111020085358/http://spidermedia.ru/blog/lady-charles/otel-miledi-sharl",
+  "tags": [
+    "boltovnya",
+    "vstuplenie"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

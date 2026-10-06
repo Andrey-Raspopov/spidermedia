@@ -4,6 +4,9 @@
   "url": "/news/you-may-have-defeat-my-seven-evil-remixes/",
   "original_url": "http://spidermedia.ru/news/you-may-have-defeat-my-seven-evil-remixes",
   "archived": "https://web.archive.org/web/20190820210110/http://spidermedia.ru:80/news/you-may-have-defeat-my-seven-evil-remixes",
+  "tags": [
+    "scott-pilgrim"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

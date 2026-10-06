@@ -4,6 +4,12 @@
   "url": "/news/millar-narkotiki-ultimate-avengers/",
   "original_url": "http://spidermedia.ru/news/millar-narkotiki-ultimate-avengers",
   "archived": "https://web.archive.org/web/20120718085433/http://spidermedia.ru/news/millar-narkotiki-ultimate-avengers",
+  "tags": [
+    "ultimate",
+    "komiksy",
+    "marvel",
+    "mark-millar"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

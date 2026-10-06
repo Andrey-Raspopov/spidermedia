@@ -4,6 +4,25 @@
   "url": "/news/prevyu-dark-reign-cabal-1/",
   "original_url": "http://spidermedia.ru/news/prevyu-dark-reign-cabal-1",
   "archived": "https://web.archive.org/web/20250324170846/http://spidermedia.ru/news/prevyu-dark-reign-cabal-1",
+  "tags": [
+    "marvel",
+    "emma-frost",
+    "doctor-doom",
+    "namor",
+    "norman-osborn",
+    "norman-ozborn",
+    "preview",
+    "matt-fraction",
+    "dzhonatan-hikman",
+    "peter-milligan",
+    "the-hood",
+    "doktor-dum",
+    "nemor",
+    "the-cabal",
+    "zagovorshhiki",
+    "adi-granov",
+    "kajl-hotz"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

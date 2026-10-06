@@ -4,6 +4,13 @@
   "url": "/news/zamki-i-klyuchi/",
   "original_url": "https://spidermedia.ru/news/zamki-i-klyuchi",
   "archived": "https://web.archive.org/web/20260306001456/https://spidermedia.ru/news/zamki-i-klyuchi",
+  "tags": [
+    "joe-hill",
+    "gabriel-rodriguez",
+    "idw-publishing",
+    "horns",
+    "san-diego-comic-con-international"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

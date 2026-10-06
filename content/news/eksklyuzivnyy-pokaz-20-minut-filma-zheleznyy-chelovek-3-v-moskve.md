@@ -4,6 +4,10 @@
   "url": "/news/eksklyuzivnyy-pokaz-20-minut-filma-zheleznyy-chelovek-3-v-moskve/",
   "original_url": "https://spidermedia.ru/news/eksklyuzivnyy-pokaz-20-minut-filma-zheleznyy-chelovek-3-v-moskve",
   "archived": "https://web.archive.org/web/20251116062915/https://spidermedia.ru/news/eksklyuzivnyy-pokaz-20-minut-filma-zheleznyy-chelovek-3-v-moskve",
+  "tags": [
+    "marvel",
+    "iron-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

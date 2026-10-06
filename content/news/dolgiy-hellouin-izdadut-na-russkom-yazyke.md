@@ -4,6 +4,11 @@
   "url": "/news/dolgiy-hellouin-izdadut-na-russkom-yazyke/",
   "original_url": "https://spidermedia.ru/news/dolgiy-hellouin-izdadut-na-russkom-yazyke",
   "archived": "https://web.archive.org/web/20251207011445/https://spidermedia.ru/news/dolgiy-hellouin-izdadut-na-russkom-yazyke",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "batman",
+    "azbuka"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

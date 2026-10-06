@@ -4,6 +4,10 @@
   "url": "/comics/hellboymedia-25-joe-golem-the-sunken-dead/",
   "original_url": "https://spidermedia.ru/comics/hellboymedia-25-joe-golem-the-sunken-dead",
   "archived": "https://web.archive.org/web/20251206155224/https://spidermedia.ru/comics/hellboymedia-25-joe-golem-the-sunken-dead",
+  "tags": [
+    "hellboymedia",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

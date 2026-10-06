@@ -4,6 +4,11 @@
   "url": "/news/fox-zakazal-pilot-lyucifera/",
   "original_url": "https://spidermedia.ru/news/fox-zakazal-pilot-lyucifera",
   "archived": "https://web.archive.org/web/20260314082722/https://spidermedia.ru/news/fox-zakazal-pilot-lyucifera",
+  "tags": [
+    "serialy",
+    "lyucifer",
+    "vertigo"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

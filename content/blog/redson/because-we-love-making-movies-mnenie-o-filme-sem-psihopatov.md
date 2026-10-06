@@ -4,6 +4,10 @@
   "url": "/blog/redson/because-we-love-making-movies-mnenie-o-filme-sem-psihopatov/",
   "original_url": "http://spidermedia.ru/blog/redson/because-we-love-making-movies-mnenie-o-filme-sem-psihopatov",
   "archived": "https://web.archive.org/web/20150428045429/http://spidermedia.ru/blog/redson/because-we-love-making-movies-mnenie-o-filme-sem-psihopatov",
+  "tags": [
+    "kino",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

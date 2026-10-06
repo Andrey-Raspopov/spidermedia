@@ -4,6 +4,10 @@
   "url": "/blog/vch/bendis-protiv-bendisa/",
   "original_url": "https://spidermedia.ru/blog/vch/bendis-protiv-bendisa",
   "archived": "https://web.archive.org/web/20251107025529/https://spidermedia.ru/blog/vch/bendis-protiv-bendisa",
+  "tags": [
+    "brian-michael-bendis",
+    "daredevil"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

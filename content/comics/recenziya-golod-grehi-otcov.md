@@ -4,6 +4,9 @@
   "url": "/comics/recenziya-golod-grehi-otcov/",
   "original_url": "http://spidermedia.ru/comics/recenziya-golod-grehi-otcov",
   "archived": "https://web.archive.org/web/20251107035040/http://spidermedia.ru/comics/recenziya-golod-grehi-otcov",
+  "tags": [
+    "obzor"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

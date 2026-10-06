@@ -4,6 +4,14 @@
   "url": "/news/neonovyy-marvel/",
   "original_url": "http://spidermedia.ru/news/neonovyy-marvel",
   "archived": "https://web.archive.org/web/20120607194751/http://spidermedia.ru/news/neonovyy-marvel",
+  "tags": [
+    "art-0",
+    "brendon-peterson",
+    "komiksy",
+    "marvel",
+    "mark-bruks",
+    "oblozhki"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

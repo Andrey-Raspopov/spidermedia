@@ -4,6 +4,10 @@
   "url": "/comics/best-of-2017-russian-comics/",
   "original_url": "http://spidermedia.ru/comics/best-of-2017-russian-comics",
   "archived": "https://web.archive.org/web/20250512124827/http://spidermedia.ru/comics/best-of-2017-russian-comics",
+  "tags": [
+    "itogi-goda",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

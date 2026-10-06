@@ -4,6 +4,16 @@
   "url": "/news/multyashnye-fonari/",
   "original_url": "http://spidermedia.ru/news/multyashnye-fonari",
   "archived": "https://web.archive.org/web/20251116072247/http://spidermedia.ru/news/multyashnye-fonari",
+  "tags": [
+    "animaciya",
+    "krasnye-fonari",
+    "komik-kon-v-nyu-yorke",
+    "atrocitus",
+    "red-lantern",
+    "nycc-2010",
+    "new-york-comic-con",
+    "green-lantern"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

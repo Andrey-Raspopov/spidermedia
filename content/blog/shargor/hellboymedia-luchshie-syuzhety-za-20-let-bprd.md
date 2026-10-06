@@ -4,6 +4,11 @@
   "url": "/blog/shargor/hellboymedia-luchshie-syuzhety-za-20-let-bprd/",
   "original_url": "http://spidermedia.ru/blog/shargor/hellboymedia-luchshie-syuzhety-za-20-let-bprd",
   "archived": "https://web.archive.org/web/20260312013236/http://spidermedia.ru/blog/shargor/hellboymedia-luchshie-syuzhety-za-20-let-bprd",
+  "tags": [
+    "20-let-hellboya",
+    "hellboymedia",
+    "mustread"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -5,7 +5,10 @@ title = "SpiderMedia.ru — архив"
 # keep original URL paths exactly (GitHub Pages is case-sensitive)
 disablePathToLower = true
 enableRobotsTXT = true
-disableKinds = ["taxonomy", "term", "RSS"]
+disableKinds = ["RSS"]
+
+[taxonomies]
+  tag = "tags"
 
 [pagination]
   pagerSize = 50

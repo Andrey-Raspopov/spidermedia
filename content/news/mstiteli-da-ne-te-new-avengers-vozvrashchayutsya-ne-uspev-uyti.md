@@ -4,6 +4,15 @@
   "url": "/news/mstiteli-da-ne-te-new-avengers-vozvrashchayutsya-ne-uspev-uyti/",
   "original_url": "https://spidermedia.ru/news/mstiteli-da-ne-te-new-avengers-vozvrashchayutsya-ne-uspev-uyti",
   "archived": "https://web.archive.org/web/20251012170644/https://spidermedia.ru/news/mstiteli-da-ne-te-new-avengers-vozvrashchayutsya-ne-uspev-uyti",
+  "tags": [
+    "era-geroev",
+    "styuart-immonen",
+    "avengers",
+    "brian-michael-bendis",
+    "new-avengers",
+    "marvel",
+    "heroic-age"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

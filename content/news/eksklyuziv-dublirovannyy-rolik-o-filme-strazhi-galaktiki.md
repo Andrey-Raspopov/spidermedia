@@ -4,6 +4,10 @@
   "url": "/news/eksklyuziv-dublirovannyy-rolik-o-filme-strazhi-galaktiki/",
   "original_url": "https://spidermedia.ru/news/eksklyuziv-dublirovannyy-rolik-o-filme-strazhi-galaktiki",
   "archived": "https://web.archive.org/web/20250315163912/https://spidermedia.ru/news/eksklyuziv-dublirovannyy-rolik-o-filme-strazhi-galaktiki",
+  "tags": [
+    "guardians-of-the-galaxy",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

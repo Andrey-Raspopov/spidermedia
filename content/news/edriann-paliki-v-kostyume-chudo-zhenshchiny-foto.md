@@ -4,6 +4,11 @@
   "url": "/news/edriann-paliki-v-kostyume-chudo-zhenshchiny-foto/",
   "original_url": "http://spidermedia.ru/news/edriann-paliki-v-kostyume-chudo-zhenshchiny-foto",
   "archived": "https://web.archive.org/web/20200219021530/http://spidermedia.ru:80/news/edriann-paliki-v-kostyume-chudo-zhenshchiny-foto",
+  "tags": [
+    "wonder-woman",
+    "serialy",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,19 @@
   "url": "/news/klon-saga-20/",
   "original_url": "http://spidermedia.ru/news/klon-saga-20",
   "archived": "https://web.archive.org/web/20120512064400/http://spidermedia.ru/news/klon-saga-20",
+  "tags": [
+    "scarlet-spider",
+    "spider-man",
+    "alyy-pauk",
+    "art-0",
+    "govard-meki",
+    "komiksy",
+    "oblozhki",
+    "paskal-ferri",
+    "todd-nauk",
+    "tom-defalko",
+    "chelovek-pauk"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

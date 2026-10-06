@@ -4,11 +4,15 @@
   "url": "/news/mzhdz-i-got-wood/",
   "original_url": "http://spidermedia.ru/news/mzhdz-i-got-wood",
   "archived": "https://web.archive.org/web/20251107182249/http://spidermedia.ru/news/mzhdz-i-got-wood",
+  "tags": [
+    "mnenie",
+    "mzhdz"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](https://web.archive.org/web/20251107182249im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz450.png)](https://web.archive.org/web/20260206215846/http://spidermedia.ru/tags/mzhdz)
+[![](https://web.archive.org/web/20251107182249im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz450.png)](../../tags/mzhdz/)
 [![](https://web.archive.org/web/20251107182249im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/D71ps.jpg)](http://www.threewordphrase.com/)
 КОМИКСЫ. С вашими новостями, перверсиями, перипетиями. Как вас можно терпеть? Что вы нам даете такого, чтобы можно было игнорировать весь негатив, который вы привносите в нашу и без того неспокойную жизнь? Почему я, 24-летний гражданин России, захожу в рунет и публикую жирный пост только про вас? Почему я до сих пор не превратился в дебила с нулевым IQ, хотя читаю комиксы уже почти десять лет? Ведь умные взрослые люди давно нас об этом предупреждали.
 **Еженедельные обзоры новых комиксов!**

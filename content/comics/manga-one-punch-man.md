@@ -4,6 +4,9 @@
   "url": "/comics/manga-one-punch-man/",
   "original_url": "https://spidermedia.ru/comics/manga-one-punch-man",
   "archived": "https://web.archive.org/web/20251207102953/https://spidermedia.ru/comics/manga-one-punch-man",
+  "tags": [
+    "manga"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

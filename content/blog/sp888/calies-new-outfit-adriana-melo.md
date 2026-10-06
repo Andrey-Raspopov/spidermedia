@@ -4,6 +4,13 @@
   "url": "/blog/sp888/calies-new-outfit-adriana-melo/",
   "original_url": "http://spidermedia.ru/blog/sp888/calies-new-outfit-adriana-melo",
   "archived": "https://web.archive.org/web/20111020110213/http://spidermedia.ru/blog/sp888/calies-new-outfit-adriana-melo",
+  "tags": [
+    "calie",
+    "wonderland",
+    "zenescope-entertainment",
+    "komiksy",
+    "strana-chudes"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,16 @@
   "url": "/blog/bastion7/recenzii-darkness-elephantmen/",
   "original_url": "https://spidermedia.ru/blog/bastion7/recenzii-darkness-elephantmen",
   "archived": "https://web.archive.org/web/20250324170230/https://spidermedia.ru/blog/bastion7/recenzii-darkness-elephantmen",
+  "tags": [
+    "garth-ennis",
+    "recenziya",
+    "image-comics",
+    "darkness",
+    "top-cow",
+    "pol-dzhenkins",
+    "mark-silvestri",
+    "ron-marc"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

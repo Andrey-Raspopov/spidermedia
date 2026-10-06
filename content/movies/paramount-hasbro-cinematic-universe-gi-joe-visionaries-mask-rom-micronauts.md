@@ -4,6 +4,9 @@
   "url": "/movies/paramount-hasbro-cinematic-universe-gi-joe-visionaries-mask-rom-micronauts/",
   "original_url": "https://spidermedia.ru/movies/paramount-hasbro-cinematic-universe-gi-joe-visionaries-mask-rom-micronauts",
   "archived": "https://web.archive.org/web/20251108200100/https://spidermedia.ru/movies/paramount-hasbro-cinematic-universe-gi-joe-visionaries-mask-rom-micronauts",
+  "tags": [
+    "hasbro"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

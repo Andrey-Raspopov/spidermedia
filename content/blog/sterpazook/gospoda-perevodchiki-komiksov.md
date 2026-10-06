@@ -4,6 +4,9 @@
   "url": "/blog/sterpazook/gospoda-perevodchiki-komiksov/",
   "original_url": "https://spidermedia.ru/blog/sterpazook/gospoda-perevodchiki-komiksov",
   "archived": "https://web.archive.org/web/20220626085033/https://spidermedia.ru/blog/sterpazook/gospoda-perevodchiki-komiksov",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

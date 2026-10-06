@@ -4,6 +4,10 @@
   "url": "/comics/cemetery-beach-1-review/",
   "original_url": "http://spidermedia.ru/comics/cemetery-beach-1-review",
   "archived": "https://web.archive.org/web/20251111082141/http://spidermedia.ru/comics/cemetery-beach-1-review",
+  "tags": [
+    "image-comics",
+    "warren-ellis"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

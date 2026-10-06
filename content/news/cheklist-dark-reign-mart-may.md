@@ -4,6 +4,11 @@
   "url": "/news/cheklist-dark-reign-mart-may/",
   "original_url": "http://spidermedia.ru/news/cheklist-dark-reign-mart-may",
   "archived": "https://web.archive.org/web/20150426205216/http://spidermedia.ru/news/cheklist-dark-reign-mart-may",
+  "tags": [
+    "cheklist",
+    "marvel-comics",
+    "dark-reign"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

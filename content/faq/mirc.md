@@ -4,6 +4,9 @@
   "url": "/faq/mirc/",
   "original_url": "http://spidermedia.ru/faq/mirc",
   "archived": "https://web.archive.org/web/20200803161000/http://spidermedia.ru:80/faq/mirc",
+  "tags": [
+    "faq"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

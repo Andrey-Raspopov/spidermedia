@@ -4,6 +4,13 @@
   "url": "/news/lyuboy-geroy-za-vashi-dengi/",
   "original_url": "https://spidermedia.ru/news/lyuboy-geroy-za-vashi-dengi",
   "archived": "https://web.archive.org/web/20260214130042/https://spidermedia.ru/news/lyuboy-geroy-za-vashi-dengi",
+  "tags": [
+    "elektra",
+    "strana-tenej",
+    "art-0",
+    "shadowland",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

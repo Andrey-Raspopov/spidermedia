@@ -4,6 +4,13 @@
   "url": "/news/kapitan-i-bakki-naydeny/",
   "original_url": "http://spidermedia.ru/news/kapitan-i-bakki-naydeny",
   "archived": "https://web.archive.org/web/20200218015236/http://spidermedia.ru:80/news/kapitan-i-bakki-naydeny",
+  "tags": [
+    "krasnyj-cherep",
+    "red-skull",
+    "marvel",
+    "captain-america",
+    "winter-soldier"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

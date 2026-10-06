@@ -4,6 +4,11 @@
   "url": "/comics/hellboymedia-iconic-russian-scene-4/",
   "original_url": "http://spidermedia.ru/comics/hellboymedia-iconic-russian-scene-4",
   "archived": "https://web.archive.org/web/20250814202627/http://spidermedia.ru/comics/hellboymedia-iconic-russian-scene-4",
+  "tags": [
+    "hellboymedia",
+    "art-tribyut",
+    "mike-mignola-russia"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

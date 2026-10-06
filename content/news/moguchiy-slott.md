@@ -4,6 +4,15 @@
   "url": "/news/moguchiy-slott/",
   "original_url": "http://spidermedia.ru/news/moguchiy-slott",
   "archived": "https://web.archive.org/web/20260211085026/http://spidermedia.ru/news/moguchiy-slott",
+  "tags": [
+    "mighty-avengers",
+    "avengers",
+    "den-slott",
+    "shon-chen",
+    "khoi-fam",
+    "marvel",
+    "preview"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,14 @@
   "url": "/news/ostroumnyy-zagolovok-na-temu-bega/",
   "original_url": "https://spidermedia.ru/news/ostroumnyy-zagolovok-na-temu-bega",
   "archived": "https://web.archive.org/web/20260120155941/https://spidermedia.ru/news/ostroumnyy-zagolovok-na-temu-bega",
+  "tags": [
+    "marvel",
+    "devid-lafuente",
+    "runaways",
+    "sara-pichelli",
+    "ketrin-immonen",
+    "beglecy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

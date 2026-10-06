@@ -4,6 +4,10 @@
   "url": "/tv/supergril-s01e08-hostile-takeover/",
   "original_url": "http://spidermedia.ru/tv/supergril-s01e08-hostile-takeover",
   "archived": "https://web.archive.org/web/20251205123407/http://spidermedia.ru/tv/supergril-s01e08-hostile-takeover",
+  "tags": [
+    "dc-comics",
+    "supergirl"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

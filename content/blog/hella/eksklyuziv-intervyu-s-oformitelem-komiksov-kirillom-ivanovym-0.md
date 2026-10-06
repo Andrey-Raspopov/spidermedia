@@ -4,6 +4,15 @@
   "url": "/blog/hella/eksklyuziv-intervyu-s-oformitelem-komiksov-kirillom-ivanovym-0/",
   "original_url": "http://spidermedia.ru/blog/hella/eksklyuziv-intervyu-s-oformitelem-komiksov-kirillom-ivanovym-0",
   "archived": "https://web.archive.org/web/20260125115112/http://spidermedia.ru/blog/hella/eksklyuziv-intervyu-s-oformitelem-komiksov-kirillom-ivanovym-0",
+  "tags": [
+    "viverra-publishing",
+    "xl-media",
+    "zarubezhnye-komiksy-na-russkom",
+    "intervyu",
+    "kirill-ivanov",
+    "komilfo",
+    "roskomnadzor"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

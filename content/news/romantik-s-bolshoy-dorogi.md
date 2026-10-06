@@ -4,6 +4,14 @@
   "url": "/news/romantik-s-bolshoy-dorogi/",
   "original_url": "http://spidermedia.ru/news/romantik-s-bolshoy-dorogi",
   "archived": "https://web.archive.org/web/20120608222206/http://spidermedia.ru/news/romantik-s-bolshoy-dorogi",
+  "tags": [
+    "ghost-rider",
+    "art-0",
+    "dzheyson-aaron",
+    "komiksy",
+    "marvel",
+    "toni-mur"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,19 @@
   "url": "/news/zelenye-protiv-oranzhevogo/",
   "original_url": "http://spidermedia.ru/news/zelenye-protiv-oranzhevogo",
   "archived": "https://web.archive.org/web/20260123074959/http://spidermedia.ru/news/zelenye-protiv-oranzhevogo",
+  "tags": [
+    "dc-comics",
+    "green-lantern",
+    "geoff-johns",
+    "hal-jordan",
+    "blackest-night",
+    "ajvan-rejs",
+    "hel-dzhordan",
+    "temnejshaya-noch",
+    "filip-tan",
+    "ivan-reis",
+    "philip-tan"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

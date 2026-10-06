@@ -4,6 +4,12 @@
   "url": "/news/odisseya-kapitana-ueyna/",
   "original_url": "http://spidermedia.ru/news/odisseya-kapitana-ueyna",
   "archived": "https://web.archive.org/web/20240807195328/http://spidermedia.ru/news/odisseya-kapitana-ueyna",
+  "tags": [
+    "frenk-miller",
+    "nil-adams",
+    "dc-comics",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

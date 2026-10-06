@@ -4,6 +4,11 @@
   "url": "/news/robokop-2-y-treyler-i-novyy-poster/",
   "original_url": "https://spidermedia.ru/news/robokop-2-y-treyler-i-novyy-poster",
   "archived": "https://web.archive.org/web/20250617232720/https://spidermedia.ru/news/robokop-2-y-treyler-i-novyy-poster",
+  "tags": [
+    "trejlery",
+    "robocop",
+    "postery"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

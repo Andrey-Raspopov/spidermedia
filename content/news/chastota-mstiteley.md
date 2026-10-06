@@ -4,6 +4,12 @@
   "url": "/news/chastota-mstiteley/",
   "original_url": "http://spidermedia.ru/news/chastota-mstiteley",
   "archived": "https://web.archive.org/web/20251115182020/http://spidermedia.ru/news/chastota-mstiteley",
+  "tags": [
+    "warren-ellis",
+    "dzheymi-makkelvi",
+    "secret-avengers",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

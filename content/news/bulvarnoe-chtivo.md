@@ -4,6 +4,13 @@
   "url": "/news/bulvarnoe-chtivo/",
   "original_url": "http://spidermedia.ru/news/bulvarnoe-chtivo",
   "archived": "https://web.archive.org/web/20260206222410/http://spidermedia.ru/news/bulvarnoe-chtivo",
+  "tags": [
+    "shon-fillips",
+    "marvel",
+    "incognito",
+    "icon-comics",
+    "ed-brubaker"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

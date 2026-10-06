@@ -4,6 +4,12 @@
   "url": "/blog/naya/fairy-and-hunter/",
   "original_url": "http://spidermedia.ru/blog/naya/fairy-and-hunter",
   "archived": "https://web.archive.org/web/20120607132443/http://spidermedia.ru/blog/naya/fairy-and-hunter",
+  "tags": [
+    "manhwa",
+    "one-shot",
+    "shoujo",
+    "skachat"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

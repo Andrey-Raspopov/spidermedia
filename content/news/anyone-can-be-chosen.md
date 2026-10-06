@@ -4,6 +4,13 @@
   "url": "/news/anyone-can-be-chosen/",
   "original_url": "http://spidermedia.ru/news/anyone-can-be-chosen",
   "archived": "https://web.archive.org/web/20120607111227/http://spidermedia.ru/news/anyone-can-be-chosen",
+  "tags": [
+    "art",
+    "green-lantern",
+    "warner-bros",
+    "art-0",
+    "zelenyy-fonar"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

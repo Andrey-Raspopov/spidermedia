@@ -4,6 +4,11 @@
   "url": "/comics/the-man-of-steel-1-6-review/",
   "original_url": "http://spidermedia.ru/comics/the-man-of-steel-1-6-review",
   "archived": "https://web.archive.org/web/20260306001409/http://spidermedia.ru/comics/the-man-of-steel-1-6-review",
+  "tags": [
+    "dc-comics",
+    "brian-michael-bendis",
+    "superman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

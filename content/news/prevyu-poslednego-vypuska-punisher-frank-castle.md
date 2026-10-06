@@ -4,6 +4,19 @@
   "url": "/news/prevyu-poslednego-vypuska-punisher-frank-castle/",
   "original_url": "http://spidermedia.ru/news/prevyu-poslednego-vypuska-punisher-frank-castle",
   "archived": "https://web.archive.org/web/20260214125315/http://spidermedia.ru/news/prevyu-poslednego-vypuska-punisher-frank-castle",
+  "tags": [
+    "charli-hyuston",
+    "hulio-perez",
+    "tomas-pichchirilli",
+    "tom-koker",
+    "peter-milligan",
+    "lourens-kembell",
+    "ken-leshli",
+    "punisher",
+    "greg-hurvitc",
+    "art-0",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

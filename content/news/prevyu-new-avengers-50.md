@@ -4,6 +4,12 @@
   "url": "/news/prevyu-new-avengers-50/",
   "original_url": "http://spidermedia.ru/news/prevyu-new-avengers-50",
   "archived": "https://web.archive.org/web/20120718070127/http://spidermedia.ru/news/prevyu-new-avengers-50",
+  "tags": [
+    "brayan-maykl-bendis",
+    "komiksy",
+    "marvel",
+    "preview-s"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

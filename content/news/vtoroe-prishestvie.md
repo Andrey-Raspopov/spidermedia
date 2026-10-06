@@ -4,6 +4,12 @@
   "url": "/news/vtoroe-prishestvie/",
   "original_url": "http://spidermedia.ru/news/vtoroe-prishestvie",
   "archived": "https://web.archive.org/web/20260211192416/http://spidermedia.ru/news/vtoroe-prishestvie",
+  "tags": [
+    "x-force",
+    "marvel",
+    "x-men",
+    "new-mutants"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

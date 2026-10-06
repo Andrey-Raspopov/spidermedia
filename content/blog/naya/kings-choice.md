@@ -4,6 +4,9 @@
   "url": "/blog/naya/kings-choice/",
   "original_url": "http://spidermedia.ru/blog/naya/kings-choice",
   "archived": "https://web.archive.org/web/20251206145205/http://spidermedia.ru/blog/naya/kings-choice",
+  "tags": [
+    "manga"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

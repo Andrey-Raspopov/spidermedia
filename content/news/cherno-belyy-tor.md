@@ -4,6 +4,19 @@
   "url": "/news/cherno-belyy-tor/",
   "original_url": "http://spidermedia.ru/news/cherno-belyy-tor",
   "archived": "https://web.archive.org/web/20120512073850/http://spidermedia.ru/news/cherno-belyy-tor",
+  "tags": [
+    "doctor-doom",
+    "loki",
+    "thor",
+    "dzhey-maykl-strazhinskiy",
+    "doktor-dum",
+    "komiksy",
+    "loki-0",
+    "marvel",
+    "marko-dzhurdzhevich",
+    "preview-s",
+    "tor"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

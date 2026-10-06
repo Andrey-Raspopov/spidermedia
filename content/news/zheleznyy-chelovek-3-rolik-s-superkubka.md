@@ -4,6 +4,11 @@
   "url": "/news/zheleznyy-chelovek-3-rolik-s-superkubka/",
   "original_url": "https://spidermedia.ru/news/zheleznyy-chelovek-3-rolik-s-superkubka",
   "archived": "https://web.archive.org/web/20260209115200/https://spidermedia.ru/news/zheleznyy-chelovek-3-rolik-s-superkubka",
+  "tags": [
+    "trejlery",
+    "marvel",
+    "iron-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

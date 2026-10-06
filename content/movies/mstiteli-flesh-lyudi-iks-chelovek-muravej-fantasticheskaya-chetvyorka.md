@@ -4,6 +4,9 @@
   "url": "/movies/mstiteli-flesh-lyudi-iks-chelovek-muravej-fantasticheskaya-chetvyorka/",
   "original_url": "https://spidermedia.ru/movies/mstiteli-flesh-lyudi-iks-chelovek-muravej-fantasticheskaya-chetvyorka",
   "archived": "https://web.archive.org/web/20220630013026/https://spidermedia.ru/movies/mstiteli-flesh-lyudi-iks-chelovek-muravej-fantasticheskaya-chetvyorka",
+  "tags": [
+    "digest"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

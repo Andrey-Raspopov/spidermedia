@@ -4,6 +4,9 @@
   "url": "/comics/dark-horse-comicspro-announcements/",
   "original_url": "http://spidermedia.ru/comics/dark-horse-comicspro-announcements",
   "archived": "https://web.archive.org/web/20241205092511/http://spidermedia.ru/comics/dark-horse-comicspro-announcements",
+  "tags": [
+    "dark-horse"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

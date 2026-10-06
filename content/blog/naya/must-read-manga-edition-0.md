@@ -4,6 +4,10 @@
   "url": "/blog/naya/must-read-manga-edition-0/",
   "original_url": "https://spidermedia.ru/blog/naya/must-read-manga-edition-0",
   "archived": "https://web.archive.org/web/20251211022942/https://spidermedia.ru/blog/naya/must-read-manga-edition-0",
+  "tags": [
+    "mustread",
+    "manga"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

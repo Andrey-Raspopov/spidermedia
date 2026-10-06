@@ -4,6 +4,10 @@
   "url": "/blog/sterpazook/zvezdnyy-put-v-moskve-foto-otchet/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/zvezdnyy-put-v-moskve-foto-otchet",
   "archived": "https://web.archive.org/web/20250906190357/http://spidermedia.ru/blog/sterpazook/zvezdnyy-put-v-moskve-foto-otchet",
+  "tags": [
+    "star-trek",
+    "zvezdnyj-put"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

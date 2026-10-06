@@ -4,6 +4,11 @@
   "url": "/news/pohodi-vmeste-s-mertvecami/",
   "original_url": "http://spidermedia.ru/news/pohodi-vmeste-s-mertvecami",
   "archived": "https://web.archive.org/web/20260121013043/http://spidermedia.ru/news/pohodi-vmeste-s-mertvecami",
+  "tags": [
+    "hodyachie-mertvecy",
+    "the-walking-dead",
+    "igry"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

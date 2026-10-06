@@ -4,6 +4,15 @@
   "url": "/news/prevyu-i-oblozhki-smerti-cheloveka-pauka/",
   "original_url": "https://spidermedia.ru/news/prevyu-i-oblozhki-smerti-cheloveka-pauka",
   "archived": "https://web.archive.org/web/20260211185745/https://spidermedia.ru/news/prevyu-i-oblozhki-smerti-cheloveka-pauka",
+  "tags": [
+    "stiv-makniven",
+    "preview",
+    "lejnil-frensis-yu",
+    "art-0",
+    "ultimate",
+    "spider-man",
+    "ed-makgines"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

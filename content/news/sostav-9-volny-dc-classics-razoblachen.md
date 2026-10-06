@@ -4,6 +4,11 @@
   "url": "/news/sostav-9-volny-dc-classics-razoblachen/",
   "original_url": "https://spidermedia.ru/news/sostav-9-volny-dc-classics-razoblachen",
   "archived": "https://web.archive.org/web/20260206223440/https://spidermedia.ru/news/sostav-9-volny-dc-classics-razoblachen",
+  "tags": [
+    "figurki",
+    "mattel",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

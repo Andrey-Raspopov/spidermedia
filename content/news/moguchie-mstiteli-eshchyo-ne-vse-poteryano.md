@@ -4,6 +4,13 @@
   "url": "/news/moguchie-mstiteli-eshchyo-ne-vse-poteryano/",
   "original_url": "http://spidermedia.ru/news/moguchie-mstiteli-eshchyo-ne-vse-poteryano",
   "archived": "https://web.archive.org/web/20190820205758/http://spidermedia.ru:80/news/moguchie-mstiteli-eshchyo-ne-vse-poteryano",
+  "tags": [
+    "marvel",
+    "avengers",
+    "den-slott",
+    "mighty-avengers",
+    "mistiteli"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/news/metallo-v-taynah-smolvilya/",
   "original_url": "https://spidermedia.ru/news/metallo-v-taynah-smolvilya",
   "archived": "https://web.archive.org/web/20251110223345/https://spidermedia.ru/news/metallo-v-taynah-smolvilya",
+  "tags": [
+    "smallville",
+    "serialy",
+    "metallo"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

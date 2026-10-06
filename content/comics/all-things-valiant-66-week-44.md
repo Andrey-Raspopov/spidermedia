@@ -4,6 +4,9 @@
   "url": "/comics/all-things-valiant-66-week-44/",
   "original_url": "http://spidermedia.ru/comics/all-things-valiant-66-week-44",
   "archived": "https://web.archive.org/web/20260308234536/http://spidermedia.ru/comics/all-things-valiant-66-week-44",
+  "tags": [
+    "valiant-entertainment"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

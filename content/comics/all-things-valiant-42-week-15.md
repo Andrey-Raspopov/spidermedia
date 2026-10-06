@@ -4,6 +4,9 @@
   "url": "/comics/all-things-valiant-42-week-15/",
   "original_url": "http://spidermedia.ru/comics/all-things-valiant-42-week-15",
   "archived": "https://web.archive.org/web/20260125064058/http://spidermedia.ru/comics/all-things-valiant-42-week-15",
+  "tags": [
+    "valiant-entertainment"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

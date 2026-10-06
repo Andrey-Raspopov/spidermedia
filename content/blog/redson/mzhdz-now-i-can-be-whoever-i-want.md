@@ -4,11 +4,15 @@
   "url": "/blog/redson/mzhdz-now-i-can-be-whoever-i-want/",
   "original_url": "https://spidermedia.ru/blog/redson/mzhdz-now-i-can-be-whoever-i-want",
   "archived": "https://web.archive.org/web/20251106234415/https://spidermedia.ru/blog/redson/mzhdz-now-i-can-be-whoever-i-want",
+  "tags": [
+    "mnenie",
+    "mzhdz"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](https://web.archive.org/web/20251106234415im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz450.png)](https://web.archive.org/web/20260206215846/http://spidermedia.ru/tags/mzhdz)
+[![](https://web.archive.org/web/20251106234415im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz450.png)](../../../tags/mzhdz/)
 ![](https://web.archive.org/web/20251106234415im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/sj1.gif)
 **Еженедельные обзоры новых комиксов!**
 **В этом выпуске:** Игрок мужественно продолжает обзор 52 новых серий DC. Вышла ли вторая неделя лучше первой? **А также:** финал лучшего комикса Эда Брубейкера, мысли про последний Fear Itself, возвращение легенды инди-небосклона Optic Nerve, новая угроза американской демократии в Pigs и великий комикс Uncanny X-Force.

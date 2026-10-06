@@ -4,6 +4,12 @@
   "url": "/news/spawn-vozvrashchenie-staryh-druzey/",
   "original_url": "https://spidermedia.ru/news/spawn-vozvrashchenie-staryh-druzey",
   "archived": "https://web.archive.org/web/20260307053731/https://spidermedia.ru/news/spawn-vozvrashchenie-staryh-druzey",
+  "tags": [
+    "todd-makfarlejn",
+    "image-comics",
+    "spawn",
+    "spaun"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

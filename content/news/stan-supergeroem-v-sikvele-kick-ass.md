@@ -4,6 +4,12 @@
   "url": "/news/stan-supergeroem-v-sikvele-kick-ass/",
   "original_url": "https://spidermedia.ru/news/stan-supergeroem-v-sikvele-kick-ass",
   "archived": "https://web.archive.org/web/20251213190156/https://spidermedia.ru/news/stan-supergeroem-v-sikvele-kick-ass",
+  "tags": [
+    "kick-ass",
+    "mark-millar",
+    "dzhon-romita-ml",
+    "john-romita-jr"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

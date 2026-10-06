@@ -4,6 +4,10 @@
   "url": "/blog/larosh/imho-editorial-control-its-meds/",
   "original_url": "http://spidermedia.ru/blog/larosh/imho-editorial-control-its-meds",
   "archived": "https://web.archive.org/web/20260121005050/http://spidermedia.ru/blog/larosh/imho-editorial-control-its-meds",
+  "tags": [
+    "dc-comics",
+    "imho"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

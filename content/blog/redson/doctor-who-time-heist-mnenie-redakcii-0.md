@@ -4,6 +4,11 @@
   "url": "/blog/redson/doctor-who-time-heist-mnenie-redakcii-0/",
   "original_url": "http://spidermedia.ru/blog/redson/doctor-who-time-heist-mnenie-redakcii-0",
   "archived": "https://web.archive.org/web/20251110230957/http://spidermedia.ru/blog/redson/doctor-who-time-heist-mnenie-redakcii-0",
+  "tags": [
+    "doctor-who",
+    "mnenie",
+    "serialy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

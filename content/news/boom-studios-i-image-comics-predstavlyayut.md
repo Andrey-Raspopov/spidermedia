@@ -4,6 +4,17 @@
   "url": "/news/boom-studios-i-image-comics-predstavlyayut/",
   "original_url": "https://spidermedia.ru/news/boom-studios-i-image-comics-predstavlyayut",
   "archived": "https://web.archive.org/web/20260307052833/https://spidermedia.ru/news/boom-studios-i-image-comics-predstavlyayut",
+  "tags": [
+    "boom-studios",
+    "the-walking-dead",
+    "image-comics",
+    "preview",
+    "unknown",
+    "unthinkable",
+    "elephantmen",
+    "lillim",
+    "soul-kiss"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

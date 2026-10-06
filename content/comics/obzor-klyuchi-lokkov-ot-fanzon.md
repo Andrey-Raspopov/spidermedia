@@ -4,6 +4,11 @@
   "url": "/comics/obzor-klyuchi-lokkov-ot-fanzon/",
   "original_url": "https://spidermedia.ru/comics/obzor-klyuchi-lokkov-ot-fanzon",
   "archived": "https://web.archive.org/web/20260211094445/https://spidermedia.ru/comics/obzor-klyuchi-lokkov-ot-fanzon",
+  "tags": [
+    "fanzon",
+    "gabriel-rodriguez",
+    "joe-hill"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

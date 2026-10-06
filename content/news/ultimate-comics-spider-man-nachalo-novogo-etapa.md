@@ -4,6 +4,14 @@
   "url": "/news/ultimate-comics-spider-man-nachalo-novogo-etapa/",
   "original_url": "http://spidermedia.ru/news/ultimate-comics-spider-man-nachalo-novogo-etapa",
   "archived": "https://web.archive.org/web/20260115064746/http://spidermedia.ru/news/ultimate-comics-spider-man-nachalo-novogo-etapa",
+  "tags": [
+    "devid-lafuente",
+    "brian-michael-bendis",
+    "ultimate",
+    "spider-woman",
+    "spider-man",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

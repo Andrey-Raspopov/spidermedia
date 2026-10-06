@@ -4,6 +4,9 @@
   "url": "/blog/alex/sniktbub/",
   "original_url": "http://spidermedia.ru/blog/alex/sniktbub",
   "archived": "https://web.archive.org/web/20260120235000/http://spidermedia.ru/blog/alex/sniktbub",
+  "tags": [
+    "wolverine"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/news/holy-terror-continues/",
   "original_url": "https://spidermedia.ru/news/holy-terror-continues",
   "archived": "https://web.archive.org/web/20250913022530/https://spidermedia.ru/news/holy-terror-continues",
+  "tags": [
+    "frenk-miller",
+    "legendary-comics",
+    "holy-terror"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

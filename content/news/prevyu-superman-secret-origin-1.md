@@ -4,6 +4,15 @@
   "url": "/news/prevyu-superman-secret-origin-1/",
   "original_url": "http://spidermedia.ru/news/prevyu-superman-secret-origin-1",
   "archived": "https://web.archive.org/web/20120608122647/http://spidermedia.ru/news/prevyu-superman-secret-origin-1",
+  "tags": [
+    "dc-comics",
+    "superman-secret-origin",
+    "geri-frenk",
+    "dzhef-dzhons",
+    "komiksy",
+    "preview-s",
+    "supermen"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

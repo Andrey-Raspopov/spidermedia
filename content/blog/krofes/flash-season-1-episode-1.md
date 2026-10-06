@@ -4,6 +4,11 @@
   "url": "/blog/krofes/flash-season-1-episode-1/",
   "original_url": "https://spidermedia.ru/blog/krofes/flash-season-1-episode-1",
   "archived": "https://web.archive.org/web/20251115034701/https://spidermedia.ru/blog/krofes/flash-season-1-episode-1",
+  "tags": [
+    "dc-comics",
+    "the-flash",
+    "serialy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/news/blokbastery-vesna-leto/",
   "original_url": "http://spidermedia.ru/news/blokbastery-vesna-leto",
   "archived": "https://web.archive.org/web/20251207091751/http://spidermedia.ru/news/blokbastery-vesna-leto",
+  "tags": [
+    "punisher",
+    "daredevil",
+    "art-0",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

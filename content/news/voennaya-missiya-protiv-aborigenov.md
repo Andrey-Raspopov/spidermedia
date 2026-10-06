@@ -4,6 +4,13 @@
   "url": "/news/voennaya-missiya-protiv-aborigenov/",
   "original_url": "http://spidermedia.ru/news/voennaya-missiya-protiv-aborigenov",
   "archived": "https://web.archive.org/web/20260215075448/http://spidermedia.ru/news/voennaya-missiya-protiv-aborigenov",
+  "tags": [
+    "marvel",
+    "hulk",
+    "kristos-gejdzh",
+    "skaar",
+    "klejton-genri"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

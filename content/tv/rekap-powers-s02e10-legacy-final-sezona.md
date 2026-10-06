@@ -4,6 +4,10 @@
   "url": "/tv/rekap-powers-s02e10-legacy-final-sezona/",
   "original_url": "https://spidermedia.ru/tv/rekap-powers-s02e10-legacy-final-sezona",
   "archived": "https://web.archive.org/web/20251206235122/https://spidermedia.ru/tv/rekap-powers-s02e10-legacy-final-sezona",
+  "tags": [
+    "icon-comics",
+    "powers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

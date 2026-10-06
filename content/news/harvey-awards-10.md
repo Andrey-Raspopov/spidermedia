@@ -4,6 +4,11 @@
   "url": "/news/harvey-awards-10/",
   "original_url": "http://spidermedia.ru/news/harvey-awards-10",
   "archived": "https://web.archive.org/web/20150428045738/http://spidermedia.ru/news/harvey-awards-10",
+  "tags": [
+    "nagrady",
+    "industriya",
+    "harvey-awards"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

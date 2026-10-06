@@ -4,6 +4,12 @@
   "url": "/blog/vich/",
   "original_url": "http://spidermedia.ru/blog/vich",
   "archived": "https://web.archive.org/web/20130619115625/http://spidermedia.ru/blog/vich",
+  "tags": [
+    "grant-morrison-0",
+    "supergods",
+    "grant-morrison",
+    "knigi"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

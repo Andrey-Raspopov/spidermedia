@@ -4,6 +4,10 @@
   "url": "/blog/sterpazook/winnie-fckin-pooh/",
   "original_url": "https://spidermedia.ru/blog/sterpazook/winnie-fckin-pooh",
   "archived": "https://web.archive.org/web/20251207005612/https://spidermedia.ru/blog/sterpazook/winnie-fckin-pooh",
+  "tags": [
+    "yumor",
+    "animaciya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

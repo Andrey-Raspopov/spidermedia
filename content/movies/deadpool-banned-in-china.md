@@ -4,6 +4,10 @@
   "url": "/movies/deadpool-banned-in-china/",
   "original_url": "https://spidermedia.ru/movies/deadpool-banned-in-china",
   "archived": "https://web.archive.org/web/20250618122025/https://spidermedia.ru/movies/deadpool-banned-in-china",
+  "tags": [
+    "marvel",
+    "deadpool"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

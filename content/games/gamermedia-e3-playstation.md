@@ -4,6 +4,10 @@
   "url": "/games/gamermedia-e3-playstation/",
   "original_url": "http://spidermedia.ru/games/gamermedia-e3-playstation",
   "archived": "https://web.archive.org/web/20240422200217/http://spidermedia.ru/games/gamermedia-e3-playstation",
+  "tags": [
+    "gamermedia",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

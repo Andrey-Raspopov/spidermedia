@@ -4,6 +4,17 @@
   "url": "/news/zheleznoe-budushchee/",
   "original_url": "http://spidermedia.ru/news/zheleznoe-budushchee",
   "archived": "https://web.archive.org/web/20120608141919/http://spidermedia.ru/news/zheleznoe-budushchee",
+  "tags": [
+    "dark-reign",
+    "iron-man",
+    "norman-osborn",
+    "zheleznyy-chelovek",
+    "komiksy",
+    "marvel",
+    "mett-frakshen",
+    "norman-osborn-0",
+    "preview-s"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

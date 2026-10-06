@@ -4,6 +4,11 @@
   "url": "/comics/tales-from-the-dark-side-by-joe-hill-gabriel-rodriguez/",
   "original_url": "http://spidermedia.ru/comics/tales-from-the-dark-side-by-joe-hill-gabriel-rodriguez",
   "archived": "https://web.archive.org/web/20260115050500/http://spidermedia.ru/comics/tales-from-the-dark-side-by-joe-hill-gabriel-rodriguez",
+  "tags": [
+    "idw-publishing",
+    "gabriel-rodriguez",
+    "joe-hill"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

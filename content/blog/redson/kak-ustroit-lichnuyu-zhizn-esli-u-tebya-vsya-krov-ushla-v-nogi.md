@@ -4,6 +4,10 @@
   "url": "/blog/redson/kak-ustroit-lichnuyu-zhizn-esli-u-tebya-vsya-krov-ushla-v-nogi/",
   "original_url": "http://spidermedia.ru/blog/redson/kak-ustroit-lichnuyu-zhizn-esli-u-tebya-vsya-krov-ushla-v-nogi",
   "archived": "https://web.archive.org/web/20130619062439/http://spidermedia.ru/blog/redson/kak-ustroit-lichnuyu-zhizn-esli-u-tebya-vsya-krov-ushla-v-nogi",
+  "tags": [
+    "kino",
+    "mnenie"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

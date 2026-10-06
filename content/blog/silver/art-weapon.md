@@ -4,6 +4,10 @@
   "url": "/blog/silver/art-weapon/",
   "original_url": "http://spidermedia.ru/blog/silver/art-weapon",
   "archived": "https://web.archive.org/web/20190811010744/http://spidermedia.ru:80/blog/silver/art-weapon",
+  "tags": [
+    "dzherard-vej",
+    "grant-morrison"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

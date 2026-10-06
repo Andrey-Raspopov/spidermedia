@@ -4,6 +4,12 @@
   "url": "/news/baki-zhil-baki-zhiv-baki-budet-zhit/",
   "original_url": "http://spidermedia.ru/news/baki-zhil-baki-zhiv-baki-budet-zhit",
   "archived": "https://web.archive.org/web/20260211190838/http://spidermedia.ru/news/baki-zhil-baki-zhiv-baki-budet-zhit",
+  "tags": [
+    "ed-brubaker",
+    "butch-gajs",
+    "winter-soldier",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

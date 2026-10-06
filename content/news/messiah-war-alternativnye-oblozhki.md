@@ -4,6 +4,16 @@
   "url": "/news/messiah-war-alternativnye-oblozhki/",
   "original_url": "https://spidermedia.ru/news/messiah-war-alternativnye-oblozhki",
   "archived": "https://web.archive.org/web/20260314080817/https://spidermedia.ru/news/messiah-war-alternativnye-oblozhki",
+  "tags": [
+    "x-men",
+    "marvel",
+    "x-force",
+    "cable",
+    "deadpool",
+    "strajf",
+    "kejbl",
+    "stryfe"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

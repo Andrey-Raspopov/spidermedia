@@ -4,6 +4,11 @@
   "url": "/news/zabytyy/",
   "original_url": "http://spidermedia.ru/news/zabytyy",
   "archived": "https://web.archive.org/web/20190822000753/http://spidermedia.ru:80/news/zabytyy",
+  "tags": [
+    "zabytyj",
+    "independent-comics",
+    "indi"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

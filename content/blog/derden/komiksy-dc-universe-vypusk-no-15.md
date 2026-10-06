@@ -4,6 +4,12 @@
   "url": "/blog/derden/komiksy-dc-universe-vypusk-no-15/",
   "original_url": "http://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-15",
   "archived": "https://web.archive.org/web/20260215091050/http://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-15",
+  "tags": [
+    "superman",
+    "michael-turner",
+    "dc-comics",
+    "dc-universe-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

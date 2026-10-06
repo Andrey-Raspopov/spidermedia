@@ -4,6 +4,17 @@
   "url": "/news/sluhi-kolonka-7/",
   "original_url": "http://spidermedia.ru/news/sluhi-kolonka-7",
   "archived": "https://web.archive.org/web/20260116222551/http://spidermedia.ru/news/sluhi-kolonka-7",
+  "tags": [
+    "wolverine",
+    "ugadajka",
+    "sluhi",
+    "gabriele-dell-otto",
+    "pol-azasita",
+    "dzhimmi-palmiotti",
+    "black-widow",
+    "fil-noto",
+    "brendon-peterson"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

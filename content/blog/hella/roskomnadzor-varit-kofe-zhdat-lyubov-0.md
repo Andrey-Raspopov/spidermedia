@@ -4,6 +4,11 @@
   "url": "/blog/hella/roskomnadzor-varit-kofe-zhdat-lyubov-0/",
   "original_url": "https://spidermedia.ru/blog/hella/roskomnadzor-varit-kofe-zhdat-lyubov-0",
   "archived": "https://web.archive.org/web/20260214135913/https://spidermedia.ru/blog/hella/roskomnadzor-varit-kofe-zhdat-lyubov-0",
+  "tags": [
+    "russian-comics",
+    "zarubezhnye-komiksy-na-russkom",
+    "roskomnadzor"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

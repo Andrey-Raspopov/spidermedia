@@ -4,6 +4,12 @@
   "url": "/news/halk-podrobnosti-perezapuska/",
   "original_url": "https://spidermedia.ru/news/halk-podrobnosti-perezapuska",
   "archived": "https://web.archive.org/web/20250806050329/https://spidermedia.ru/news/halk-podrobnosti-perezapuska",
+  "tags": [
+    "hulk",
+    "dzhef-loeb",
+    "greg-pak",
+    "she-hulk"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

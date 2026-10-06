@@ -4,6 +4,14 @@
   "url": "/news/eksklyuziv-14-stranichnoe-prevyu-komiksa-hodyachie-mertvecy-tom-1-predislovie-roberta-kirkmana/",
   "original_url": "http://spidermedia.ru/news/eksklyuziv-14-stranichnoe-prevyu-komiksa-hodyachie-mertvecy-tom-1-predislovie-roberta-kirkmana",
   "archived": "https://web.archive.org/web/20260306001429/http://spidermedia.ru/news/eksklyuziv-14-stranichnoe-prevyu-komiksa-hodyachie-mertvecy-tom-1-predislovie-roberta-kirkmana",
+  "tags": [
+    "hodyachie-mertvecy",
+    "robert-kirkman",
+    "izdatelstvo-42",
+    "zarubezhnye-komiksy-na-russkom",
+    "the-walking-dead",
+    "image-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

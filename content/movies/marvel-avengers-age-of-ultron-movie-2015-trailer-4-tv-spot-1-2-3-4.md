@@ -4,6 +4,10 @@
   "url": "/movies/marvel-avengers-age-of-ultron-movie-2015-trailer-4-tv-spot-1-2-3-4/",
   "original_url": "https://spidermedia.ru/movies/marvel-avengers-age-of-ultron-movie-2015-trailer-4-tv-spot-1-2-3-4",
   "archived": "https://web.archive.org/web/20251013193250/https://spidermedia.ru/movies/marvel-avengers-age-of-ultron-movie-2015-trailer-4-tv-spot-1-2-3-4",
+  "tags": [
+    "marvel",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

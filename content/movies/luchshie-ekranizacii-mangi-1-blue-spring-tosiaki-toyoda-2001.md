@@ -4,6 +4,9 @@
   "url": "/movies/luchshie-ekranizacii-mangi-1-blue-spring-tosiaki-toyoda-2001/",
   "original_url": "http://spidermedia.ru/movies/luchshie-ekranizacii-mangi-1-blue-spring-tosiaki-toyoda-2001",
   "archived": "https://web.archive.org/web/20211028172055/http://spidermedia.ru/movies/luchshie-ekranizacii-mangi-1-blue-spring-tosiaki-toyoda-2001",
+  "tags": [
+    "manga"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

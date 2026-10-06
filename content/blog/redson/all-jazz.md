@@ -4,6 +4,11 @@
   "url": "/blog/redson/all-jazz/",
   "original_url": "https://spidermedia.ru/blog/redson/all-jazz",
   "archived": "https://web.archive.org/web/20250814203144/https://spidermedia.ru/blog/redson/all-jazz",
+  "tags": [
+    "dc-comics",
+    "recenziya",
+    "grant-morrison"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

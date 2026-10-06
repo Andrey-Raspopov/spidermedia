@@ -4,11 +4,20 @@
   "url": "/blog/derden/all-new-mzhdz-vostok-zapada-0/",
   "original_url": "http://spidermedia.ru/blog/derden/all-new-mzhdz-vostok-zapada-0",
   "archived": "https://web.archive.org/web/20251115182209/http://spidermedia.ru/blog/derden/all-new-mzhdz-vostok-zapada-0",
+  "tags": [
+    "recenziya",
+    "nik-dragotta",
+    "mzhdz",
+    "zarubezhnye-komiksy-na-russkom",
+    "dzhonatan-hikman",
+    "viverra-publishing",
+    "image-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](https://web.archive.org/web/20251115182209im_/http://i.imgur.com/0zaHqKf.jpg "Автор логотипа - Ярослав Астапеев")](https://web.archive.org/web/20260206215846/http://spidermedia.ru/tags/mzhdz)Уже сейчас вы можете приобрести первый том комикса **«Восток Запада»** — русскоязычное издание грандиозной научно-фантастической серии **Джонатана Хикмана** и **Ника Драготты**, выполненное молодым, но набирающим обороты издательством **Viverra Publishing**. Мы считаем выход East of West на русском одним из важнейших событий года, поэтому для обсуждения комикса и его отечественного издания организовали большой и красивый спецвыпуск МЖДЗ. Своими мнениями поделятся Derden, Shargor и Hella.
+[![](https://web.archive.org/web/20251115182209im_/http://i.imgur.com/0zaHqKf.jpg "Автор логотипа - Ярослав Астапеев")](../../../tags/mzhdz/)Уже сейчас вы можете приобрести первый том комикса **«Восток Запада»** — русскоязычное издание грандиозной научно-фантастической серии **Джонатана Хикмана** и **Ника Драготты**, выполненное молодым, но набирающим обороты издательством **Viverra Publishing**. Мы считаем выход East of West на русском одним из важнейших событий года, поэтому для обсуждения комикса и его отечественного издания организовали большой и красивый спецвыпуск МЖДЗ. Своими мнениями поделятся Derden, Shargor и Hella.
 
 [![](https://web.archive.org/web/20251115182209im_/http://i.imgur.com/OqqUt3s.jpg)](http://i.imgur.com/OqqUt3s.jpg)[**Расшифровка системы оценок**](../../redson/mzhdz-odin-vy-kak-hotite-ya-kak-hochu/) [**Архив рецензий**](../../redson/mzhdz-arhiv/)
 

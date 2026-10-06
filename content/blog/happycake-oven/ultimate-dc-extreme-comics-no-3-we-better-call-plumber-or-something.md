@@ -4,6 +4,9 @@
   "url": "/blog/happycake-oven/ultimate-dc-extreme-comics-no-3-we-better-call-plumber-or-something/",
   "original_url": "http://spidermedia.ru/blog/happycake-oven/ultimate-dc-extreme-comics-no-3-we-better-call-plumber-or-something",
   "archived": "https://web.archive.org/web/20120610085025/http://spidermedia.ru/blog/happycake-oven/ultimate-dc-extreme-comics-no-3-we-better-call-plumber-or-something",
+  "tags": [
+    "dc-comics"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

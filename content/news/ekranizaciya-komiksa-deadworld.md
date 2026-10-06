@@ -4,6 +4,15 @@
   "url": "/news/ekranizaciya-komiksa-deadworld/",
   "original_url": "http://spidermedia.ru/news/ekranizaciya-komiksa-deadworld",
   "archived": "https://web.archive.org/web/20120607133414/http://spidermedia.ru/news/ekranizaciya-komiksa-deadworld",
+  "tags": [
+    "david-hayter",
+    "deadworld",
+    "image-comics",
+    "devid-heyter",
+    "kino",
+    "komiksy",
+    "mertvyy-mir"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

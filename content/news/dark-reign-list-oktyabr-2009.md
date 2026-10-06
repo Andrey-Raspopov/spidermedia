@@ -4,6 +4,17 @@
   "url": "/news/dark-reign-list-oktyabr-2009/",
   "original_url": "http://spidermedia.ru/news/dark-reign-list-oktyabr-2009",
   "archived": "https://web.archive.org/web/20260121012730/http://spidermedia.ru/news/dark-reign-list-oktyabr-2009",
+  "tags": [
+    "skaar",
+    "sekretnye-voiny",
+    "nik-fyuri",
+    "punisher",
+    "wolverine",
+    "secret-warriors",
+    "marvel",
+    "list",
+    "hulk"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

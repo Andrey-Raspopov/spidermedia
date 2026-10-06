@@ -4,6 +4,10 @@
   "url": "/news/kachestvennye-izobrazheniya-zelenogo-fonarya/",
   "original_url": "https://spidermedia.ru/news/kachestvennye-izobrazheniya-zelenogo-fonarya",
   "archived": "https://web.archive.org/web/20260121004301/https://spidermedia.ru/news/kachestvennye-izobrazheniya-zelenogo-fonarya",
+  "tags": [
+    "green-lantern",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

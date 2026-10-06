@@ -4,6 +4,13 @@
   "url": "/news/animacionnyy-tintin/",
   "original_url": "http://spidermedia.ru/news/animacionnyy-tintin",
   "archived": "https://web.archive.org/web/20120608180321/http://spidermedia.ru/news/animacionnyy-tintin",
+  "tags": [
+    "adventures-tintin-secret-unicorn",
+    "kino",
+    "komiksy",
+    "priklyucheniya-tintina-tayna-edinoroga",
+    "tintin"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

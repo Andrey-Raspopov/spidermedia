@@ -4,6 +4,10 @@
   "url": "/blog/igrok/robocop-2014-movie-review/",
   "original_url": "http://spidermedia.ru/blog/igrok/robocop-2014-movie-review",
   "archived": "https://web.archive.org/web/20220815202502/http://spidermedia.ru/blog/igrok/robocop-2014-movie-review",
+  "tags": [
+    "robocop",
+    "recenziya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

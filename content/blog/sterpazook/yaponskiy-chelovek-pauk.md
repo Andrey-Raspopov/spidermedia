@@ -4,6 +4,11 @@
   "url": "/blog/sterpazook/yaponskiy-chelovek-pauk/",
   "original_url": "https://spidermedia.ru/blog/sterpazook/yaponskiy-chelovek-pauk",
   "archived": "https://web.archive.org/web/20260209110920/https://spidermedia.ru/blog/sterpazook/yaponskiy-chelovek-pauk",
+  "tags": [
+    "serialy",
+    "spider-man",
+    "japanese-spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

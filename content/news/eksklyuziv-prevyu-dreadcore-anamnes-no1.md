@@ -4,6 +4,11 @@
   "url": "/news/eksklyuziv-prevyu-dreadcore-anamnes-no1/",
   "original_url": "https://spidermedia.ru/news/eksklyuziv-prevyu-dreadcore-anamnes-no1",
   "archived": "https://web.archive.org/web/20250913020546/https://spidermedia.ru/news/eksklyuziv-prevyu-dreadcore-anamnes-no1",
+  "tags": [
+    "izdatelstvo-42",
+    "preview",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/movies/batman-and-kotkov/",
   "original_url": "http://spidermedia.ru/movies/batman-and-kotkov",
   "archived": "https://web.archive.org/web/20260308232533/http://spidermedia.ru/movies/batman-and-kotkov",
+  "tags": [
+    "batman-and-robin-day"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,13 @@
   "url": "/news/deti-polnochi-eshchyo-odin-vzglyad/",
   "original_url": "http://spidermedia.ru/news/deti-polnochi-eshchyo-odin-vzglyad",
   "archived": "https://web.archive.org/web/20200127103215/http://spidermedia.ru:80/news/deti-polnochi-eshchyo-odin-vzglyad",
+  "tags": [
+    "marvel",
+    "preview",
+    "marvel-zombies",
+    "deti-polnochi",
+    "midnight-sons"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

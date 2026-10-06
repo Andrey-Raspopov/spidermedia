@@ -4,6 +4,12 @@
   "url": "/blog/red-hulk/moy-vzglyad-na-watchmen-1/",
   "original_url": "http://spidermedia.ru/blog/red-hulk/moy-vzglyad-na-watchmen-1",
   "archived": "https://web.archive.org/web/20120613055110/http://spidermedia.ru/blog/red-hulk/moy-vzglyad-na-watchmen-1",
+  "tags": [
+    "watchmen",
+    "kino",
+    "mnenie",
+    "recenziya"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/news/v-rossii-izdadut-komiks-spawn/",
   "original_url": "http://spidermedia.ru/news/v-rossii-izdadut-komiks-spawn",
   "archived": "https://web.archive.org/web/20251213190008/http://spidermedia.ru/news/v-rossii-izdadut-komiks-spawn",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "xl-media",
+    "spawn",
+    "image-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/news/5-tv-spotov-filma-lyudi-iks-pervyy-klass/",
   "original_url": "http://spidermedia.ru/news/5-tv-spotov-filma-lyudi-iks-pervyy-klass",
   "archived": "https://web.archive.org/web/20260117222358/http://spidermedia.ru/news/5-tv-spotov-filma-lyudi-iks-pervyy-klass",
+  "tags": [
+    "trejlery",
+    "marvel",
+    "lyudi-iks-pervyj-klass",
+    "x-men-first-class"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

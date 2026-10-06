@@ -4,6 +4,12 @@
   "url": "/blog/oleg89/o-o/",
   "original_url": "https://spidermedia.ru/blog/oleg89/o-o",
   "archived": "https://web.archive.org/web/20260208211629/https://spidermedia.ru/blog/oleg89/o-o",
+  "tags": [
+    "dc-comics",
+    "mnenie",
+    "grant-morrison",
+    "vertigo"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

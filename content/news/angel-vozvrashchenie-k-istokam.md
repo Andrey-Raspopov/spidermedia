@@ -4,6 +4,10 @@
   "url": "/news/angel-vozvrashchenie-k-istokam/",
   "original_url": "http://spidermedia.ru/news/angel-vozvrashchenie-k-istokam",
   "archived": "https://web.archive.org/web/20260125131731/http://spidermedia.ru/news/angel-vozvrashchenie-k-istokam",
+  "tags": [
+    "idw-publishing",
+    "angel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

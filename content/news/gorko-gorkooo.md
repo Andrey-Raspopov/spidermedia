@@ -4,6 +4,18 @@
   "url": "/news/gorko-gorkooo/",
   "original_url": "http://spidermedia.ru/news/gorko-gorkooo",
   "archived": "https://web.archive.org/web/20120608123237/http://spidermedia.ru/news/gorko-gorkooo",
+  "tags": [
+    "brand-new-day",
+    "doc-ock",
+    "spider-man",
+    "art-0",
+    "dzhon-romita-ml",
+    "doktor-osminog",
+    "den-slott",
+    "komiksy",
+    "oblozhki",
+    "chelovek-pauk"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

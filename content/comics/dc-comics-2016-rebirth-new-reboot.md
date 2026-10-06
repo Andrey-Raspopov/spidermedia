@@ -4,6 +4,9 @@
   "url": "/comics/dc-comics-2016-rebirth-new-reboot/",
   "original_url": "https://spidermedia.ru/comics/dc-comics-2016-rebirth-new-reboot",
   "archived": "https://web.archive.org/web/20250118034113/https://spidermedia.ru/comics/dc-comics-2016-rebirth-new-reboot",
+  "tags": [
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

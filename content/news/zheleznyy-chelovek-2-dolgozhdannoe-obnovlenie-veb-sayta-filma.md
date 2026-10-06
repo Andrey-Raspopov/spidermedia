@@ -4,6 +4,13 @@
   "url": "/news/zheleznyy-chelovek-2-dolgozhdannoe-obnovlenie-veb-sayta-filma/",
   "original_url": "http://spidermedia.ru/news/zheleznyy-chelovek-2-dolgozhdannoe-obnovlenie-veb-sayta-filma",
   "archived": "https://web.archive.org/web/20251206031253/http://spidermedia.ru/news/zheleznyy-chelovek-2-dolgozhdannoe-obnovlenie-veb-sayta-filma",
+  "tags": [
+    "iron-man",
+    "marvel",
+    "art-0",
+    "dzhon-favro",
+    "postery"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

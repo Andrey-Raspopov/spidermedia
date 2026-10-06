@@ -4,6 +4,11 @@
   "url": "/blog/sir-carnage/obshchestvo-myortvyh-hudozhnikov/",
   "original_url": "https://spidermedia.ru/blog/sir-carnage/obshchestvo-myortvyh-hudozhnikov",
   "archived": "https://web.archive.org/web/20260115051056/https://spidermedia.ru/blog/sir-carnage/obshchestvo-myortvyh-hudozhnikov",
+  "tags": [
+    "vertigo",
+    "neil-gaiman",
+    "death"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

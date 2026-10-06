@@ -4,6 +4,10 @@
   "url": "/comics/goodbye-and-welcome-bendis/",
   "original_url": "https://spidermedia.ru/comics/goodbye-and-welcome-bendis",
   "archived": "https://web.archive.org/web/20251211020824/https://spidermedia.ru/comics/goodbye-and-welcome-bendis",
+  "tags": [
+    "brian-michael-bendis",
+    "imho"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

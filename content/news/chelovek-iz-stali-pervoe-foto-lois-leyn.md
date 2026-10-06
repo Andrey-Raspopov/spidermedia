@@ -4,6 +4,12 @@
   "url": "/news/chelovek-iz-stali-pervoe-foto-lois-leyn/",
   "original_url": "https://spidermedia.ru/news/chelovek-iz-stali-pervoe-foto-lois-leyn",
   "archived": "https://web.archive.org/web/20260125113706/https://spidermedia.ru/news/chelovek-iz-stali-pervoe-foto-lois-leyn",
+  "tags": [
+    "chelovek-iz-stali",
+    "superman",
+    "man-of-steel",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

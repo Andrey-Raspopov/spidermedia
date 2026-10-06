@@ -4,6 +4,12 @@
   "url": "/news/polnyy-treyler-filma-pervyy-mstitel-drugaya-voyna-hd-0/",
   "original_url": "https://spidermedia.ru/news/polnyy-treyler-filma-pervyy-mstitel-drugaya-voyna-hd-0",
   "archived": "https://web.archive.org/web/20240807000047/https://spidermedia.ru/news/polnyy-treyler-filma-pervyy-mstitel-drugaya-voyna-hd-0",
+  "tags": [
+    "trejlery",
+    "marvel",
+    "captain-america",
+    "winter-soldier"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

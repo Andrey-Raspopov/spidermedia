@@ -4,6 +4,9 @@
   "url": "/comics/all-things-valiant-38-week-11/",
   "original_url": "http://spidermedia.ru/comics/all-things-valiant-38-week-11",
   "archived": "https://web.archive.org/web/20260120144544/http://spidermedia.ru/comics/all-things-valiant-38-week-11",
+  "tags": [
+    "valiant-entertainment"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/news/krizis-s-beskonechnymi-karmashkami/",
   "original_url": "http://spidermedia.ru/news/krizis-s-beskonechnymi-karmashkami",
   "archived": "https://web.archive.org/web/20251206024046/http://spidermedia.ru/news/krizis-s-beskonechnymi-karmashkami",
+  "tags": [
+    "robert-kirkman",
+    "rob-lajfeld",
+    "image-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

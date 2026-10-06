@@ -4,6 +4,10 @@
   "url": "/blog/larosh/obzor-i-nemnozhko-roka-no1/",
   "original_url": "http://spidermedia.ru/blog/larosh/obzor-i-nemnozhko-roka-no1",
   "archived": "https://web.archive.org/web/20260206215946/http://spidermedia.ru/blog/larosh/obzor-i-nemnozhko-roka-no1",
+  "tags": [
+    "izdatelstvo-42",
+    "i-nemnozhko-roka"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

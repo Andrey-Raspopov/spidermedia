@@ -4,6 +4,14 @@
   "url": "/news/dve-bolshie-dve-zelenye/",
   "original_url": "http://spidermedia.ru/news/dve-bolshie-dve-zelenye",
   "archived": "https://web.archive.org/web/20120608213600/http://spidermedia.ru/news/dve-bolshie-dve-zelenye",
+  "tags": [
+    "she-hulk",
+    "komiksy",
+    "marvel",
+    "piter-veyl",
+    "preview-s",
+    "fred-van-lente"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

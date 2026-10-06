@@ -4,6 +4,11 @@
   "url": "/blog/hella/roskomnadzor-zatishe-pered-burey/",
   "original_url": "https://spidermedia.ru/blog/hella/roskomnadzor-zatishe-pered-burey",
   "archived": "https://web.archive.org/web/20260214125549/https://spidermedia.ru/blog/hella/roskomnadzor-zatishe-pered-burey",
+  "tags": [
+    "russian-comics",
+    "roskomnadzor",
+    "zarubezhnye-komiksy-na-russkom"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

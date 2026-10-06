@@ -4,6 +4,12 @@
   "url": "/news/norman-znaet-gde-vy-zhivyote/",
   "original_url": "http://spidermedia.ru/news/norman-znaet-gde-vy-zhivyote",
   "archived": "https://web.archive.org/web/20260314081726/http://spidermedia.ru/news/norman-znaet-gde-vy-zhivyote",
+  "tags": [
+    "marvel",
+    "norman-osborn",
+    "iron-patriot",
+    "zheleznyj-patriot"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/news/ongoing-uncanny-inhumans-startuet-v-aprele/",
   "original_url": "http://spidermedia.ru/news/ongoing-uncanny-inhumans-startuet-v-aprele",
   "archived": "https://web.archive.org/web/20190113034312/http://spidermedia.ru:80/news/ongoing-uncanny-inhumans-startuet-v-aprele",
+  "tags": [
+    "inhumans",
+    "marvel",
+    "nelyudi"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

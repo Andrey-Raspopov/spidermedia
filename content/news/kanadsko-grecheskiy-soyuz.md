@@ -4,6 +4,15 @@
   "url": "/news/kanadsko-grecheskiy-soyuz/",
   "original_url": "https://spidermedia.ru/news/kanadsko-grecheskiy-soyuz",
   "archived": "https://web.archive.org/web/20251206023325/https://spidermedia.ru/news/kanadsko-grecheskiy-soyuz",
+  "tags": [
+    "frenk-tieri",
+    "dzho-dzhusko",
+    "gerkules",
+    "art-0",
+    "wolverine",
+    "marvel",
+    "hercules"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

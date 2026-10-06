@@ -4,11 +4,15 @@
   "url": "/blog/plane-v/mzhdz-get-back-work/",
   "original_url": "http://spidermedia.ru/blog/plane-v/mzhdz-get-back-work",
   "archived": "https://web.archive.org/web/20240805024406/http://spidermedia.ru/blog/plane-v/mzhdz-get-back-work",
+  "tags": [
+    "mnenie",
+    "mzhdz"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](https://web.archive.org/web/20240805024406im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz516.png)](https://web.archive.org/web/20260206215846/http://spidermedia.ru/tags/mzhdz)
+[![](https://web.archive.org/web/20240805024406im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz516.png)](../../../tags/mzhdz/)
 ![](https://web.archive.org/web/20240805024406im_/http://img.photobucket.com/albums/v497/spidermedia/plane_blog/BBAD.jpg)
 **Еженедельные обзоры новых комиксов!**
 Команданте редсон отправлен раньше времени жарится на горящие пески за свои грехи, временным редактором на два регулярных выпуска буду еще более религиозно нетерпимый я. В этом выпуске: пилоты во времени, пираты в море, пауки в гробу.

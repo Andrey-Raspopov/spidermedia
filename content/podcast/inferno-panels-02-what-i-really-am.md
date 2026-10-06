@@ -4,6 +4,10 @@
   "url": "/podcast/inferno-panels-02-what-i-really-am/",
   "original_url": "https://spidermedia.ru/podcast/inferno-panels-02-what-i-really-am",
   "archived": "https://web.archive.org/web/20251213185037/https://spidermedia.ru/podcast/inferno-panels-02-what-i-really-am",
+  "tags": [
+    "panels-of-x",
+    "on-panels"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

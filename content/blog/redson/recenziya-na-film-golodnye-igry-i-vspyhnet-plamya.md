@@ -4,6 +4,13 @@
   "url": "/blog/redson/recenziya-na-film-golodnye-igry-i-vspyhnet-plamya/",
   "original_url": "http://spidermedia.ru/blog/redson/recenziya-na-film-golodnye-igry-i-vspyhnet-plamya",
   "archived": "https://web.archive.org/web/20150319205301/http://spidermedia.ru/blog/redson/recenziya-na-film-golodnye-igry-i-vspyhnet-plamya",
+  "tags": [
+    "mnenie",
+    "kino",
+    "dzhennifer-lourens",
+    "golodnye-igry",
+    "team-gale"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

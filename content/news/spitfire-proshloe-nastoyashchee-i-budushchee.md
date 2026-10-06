@@ -4,6 +4,16 @@
   "url": "/news/spitfire-proshloe-nastoyashchee-i-budushchee/",
   "original_url": "http://spidermedia.ru/news/spitfire-proshloe-nastoyashchee-i-budushchee",
   "archived": "https://web.archive.org/web/20120607170101/http://spidermedia.ru/news/spitfire-proshloe-nastoyashchee-i-budushchee",
+  "tags": [
+    "blade",
+    "spitfire",
+    "bleyd",
+    "vampiry",
+    "komiksy",
+    "marvel",
+    "pol-kornell",
+    "spitfayr"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

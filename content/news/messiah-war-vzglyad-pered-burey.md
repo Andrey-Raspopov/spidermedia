@@ -4,6 +4,20 @@
   "url": "/news/messiah-war-vzglyad-pered-burey/",
   "original_url": "https://spidermedia.ru/news/messiah-war-vzglyad-pered-burey",
   "archived": "https://web.archive.org/web/20260314074311/https://spidermedia.ru/news/messiah-war-vzglyad-pered-burey",
+  "tags": [
+    "strajf",
+    "nadezhda",
+    "krejg-kajl",
+    "kejbl",
+    "kris-jost",
+    "duejn-sverchinski",
+    "x-men",
+    "x-force",
+    "stryfe",
+    "marvel",
+    "hope",
+    "cable"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

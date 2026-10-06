@@ -4,6 +4,15 @@
   "url": "/news/x-men-sbornaya-solyanka/",
   "original_url": "http://spidermedia.ru/news/x-men-sbornaya-solyanka",
   "archived": "https://web.archive.org/web/20120611043606/http://spidermedia.ru/news/x-men-sbornaya-solyanka",
+  "tags": [
+    "uncanny-x-men",
+    "x-men",
+    "x-universe",
+    "komiksy",
+    "lyudi-iks",
+    "marvel",
+    "mett-frakshen"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

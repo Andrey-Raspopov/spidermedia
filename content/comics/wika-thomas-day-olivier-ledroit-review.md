@@ -4,6 +4,9 @@
   "url": "/comics/wika-thomas-day-olivier-ledroit-review/",
   "original_url": "http://spidermedia.ru/comics/wika-thomas-day-olivier-ledroit-review",
   "archived": "https://web.archive.org/web/20200807003338/http://spidermedia.ru:80/comics/wika-thomas-day-olivier-ledroit-review",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/blog/bastion7/recenziya-pax-romana/",
   "original_url": "http://spidermedia.ru/blog/bastion7/recenziya-pax-romana",
   "archived": "https://web.archive.org/web/20120718085422/http://spidermedia.ru/blog/bastion7/recenziya-pax-romana",
+  "tags": [
+    "image-comics",
+    "jonathan-hickman",
+    "komiksy",
+    "recenziya"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

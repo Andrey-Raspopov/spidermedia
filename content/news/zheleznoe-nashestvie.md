@@ -4,6 +4,11 @@
   "url": "/news/zheleznoe-nashestvie/",
   "original_url": "http://spidermedia.ru/news/zheleznoe-nashestvie",
   "archived": "https://web.archive.org/web/20251211031051/http://spidermedia.ru/news/zheleznoe-nashestvie",
+  "tags": [
+    "art-0",
+    "marvel",
+    "iron-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

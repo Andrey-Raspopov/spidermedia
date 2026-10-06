@@ -4,6 +4,10 @@
   "url": "/games/novaya-seriya-igr-o-betmene-startuet-v-2016/",
   "original_url": "https://spidermedia.ru/games/novaya-seriya-igr-o-betmene-startuet-v-2016",
   "archived": "https://web.archive.org/web/20251117005544/https://spidermedia.ru/games/novaya-seriya-igr-o-betmene-startuet-v-2016",
+  "tags": [
+    "dc-comics",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

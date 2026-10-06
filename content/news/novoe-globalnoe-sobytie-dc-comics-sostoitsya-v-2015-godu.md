@@ -4,6 +4,11 @@
   "url": "/news/novoe-globalnoe-sobytie-dc-comics-sostoitsya-v-2015-godu/",
   "original_url": "https://spidermedia.ru/news/novoe-globalnoe-sobytie-dc-comics-sostoitsya-v-2015-godu",
   "archived": "https://web.archive.org/web/20251205110101/https://spidermedia.ru/news/novoe-globalnoe-sobytie-dc-comics-sostoitsya-v-2015-godu",
+  "tags": [
+    "brejniak",
+    "multiversity",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

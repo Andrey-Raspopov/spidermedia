@@ -4,6 +4,9 @@
   "url": "/tv/hbo-vypustit-serial-pro-supergeroev-v-duhe-watchmen/",
   "original_url": "http://spidermedia.ru/tv/hbo-vypustit-serial-pro-supergeroev-v-duhe-watchmen",
   "archived": "https://web.archive.org/web/20240908061454/http://spidermedia.ru/tv/hbo-vypustit-serial-pro-supergeroev-v-duhe-watchmen",
+  "tags": [
+    "adi-shankar"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

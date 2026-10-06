@@ -4,6 +4,10 @@
   "url": "/news/strannyh-priklyucheniy-psto/",
   "original_url": "https://spidermedia.ru/news/strannyh-priklyucheniy-psto",
   "archived": "https://web.archive.org/web/20260312022549/https://spidermedia.ru/news/strannyh-priklyucheniy-psto",
+  "tags": [
+    "vertigo",
+    "strange-adventures"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/blog/redson/graficheskiy-roman-azart/",
   "original_url": "http://spidermedia.ru/blog/redson/graficheskiy-roman-azart",
   "archived": "https://web.archive.org/web/20240422185716/http://spidermedia.ru/blog/redson/graficheskiy-roman-azart",
+  "tags": [
+    "russian-comics",
+    "roman-surzhenko",
+    "recenziya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

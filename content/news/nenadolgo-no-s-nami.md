@@ -4,6 +4,14 @@
   "url": "/news/nenadolgo-no-s-nami/",
   "original_url": "http://spidermedia.ru/news/nenadolgo-no-s-nami",
   "archived": "https://web.archive.org/web/20190415014021/http://spidermedia.ru:80/news/nenadolgo-no-s-nami",
+  "tags": [
+    "marvel",
+    "mark-millar",
+    "fantastic-four",
+    "fantastic-force",
+    "stiv-kurt",
+    "dzho-ehirn"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

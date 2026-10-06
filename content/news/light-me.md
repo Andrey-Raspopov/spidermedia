@@ -4,6 +4,17 @@
   "url": "/news/light-me/",
   "original_url": "http://spidermedia.ru/news/light-me",
   "archived": "https://web.archive.org/web/20120607152037/http://spidermedia.ru/news/light-me",
+  "tags": [
+    "dazzler",
+    "jim-mccann",
+    "kalman-andrasofszky",
+    "women-marvel",
+    "x-universe",
+    "dzhim-makkenn",
+    "kalman-andrasovski",
+    "komiksy",
+    "marvel"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

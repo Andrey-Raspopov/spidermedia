@@ -4,6 +4,10 @@
   "url": "/blog/plane-v/can-you-dig-it/",
   "original_url": "http://spidermedia.ru/blog/plane-v/can-you-dig-it",
   "archived": "https://web.archive.org/web/20200127141646/http://spidermedia.ru:80/blog/plane-v/can-you-dig-it",
+  "tags": [
+    "halyava",
+    "dzhim-ragg"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

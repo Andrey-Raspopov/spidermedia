@@ -4,6 +4,12 @@
   "url": "/news/freakangels-uorrena-ellisa-vyydut-na-russkom-yazyke/",
   "original_url": "http://spidermedia.ru/news/freakangels-uorrena-ellisa-vyydut-na-russkom-yazyke",
   "archived": "https://web.archive.org/web/20260309180850/http://spidermedia.ru/news/freakangels-uorrena-ellisa-vyydut-na-russkom-yazyke",
+  "tags": [
+    "xl-media",
+    "freakangels",
+    "avatar-press",
+    "zarubezhnye-komiksy-na-russkom"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/blog/ironman/kapow-comic-con/",
   "original_url": "https://spidermedia.ru/blog/ironman/kapow-comic-con",
   "archived": "https://web.archive.org/web/20260214143510/https://spidermedia.ru/blog/ironman/kapow-comic-con",
+  "tags": [
+    "mark-millar",
+    "komik-kon-v-londone",
+    "kapow-comic-con"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

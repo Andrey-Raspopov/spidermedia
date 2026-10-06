@@ -4,6 +4,12 @@
   "url": "/news/marvel-anime-x-men/",
   "original_url": "http://spidermedia.ru/news/marvel-anime-x-men",
   "archived": "https://web.archive.org/web/20260312011107/http://spidermedia.ru/news/marvel-anime-x-men",
+  "tags": [
+    "anime",
+    "animaciya",
+    "x-men",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

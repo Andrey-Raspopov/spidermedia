@@ -4,6 +4,11 @@
   "url": "/blog/derden/komiksy-dc-universe-vypusk-no-05/",
   "original_url": "http://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-05",
   "archived": "https://web.archive.org/web/20190811002347/http://spidermedia.ru:80/blog/derden/komiksy-dc-universe-vypusk-no-05",
+  "tags": [
+    "dc-comics",
+    "outsiders",
+    "dc-universe-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

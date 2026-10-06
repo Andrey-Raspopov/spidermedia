@@ -4,6 +4,11 @@
   "url": "/news/sinopsis-i-pervyy-kadr-filma-pervyy-mstitel-drugaya-voyna/",
   "original_url": "http://spidermedia.ru/news/sinopsis-i-pervyy-kadr-filma-pervyy-mstitel-drugaya-voyna",
   "archived": "https://web.archive.org/web/20250807230740/http://spidermedia.ru/news/sinopsis-i-pervyy-kadr-filma-pervyy-mstitel-drugaya-voyna",
+  "tags": [
+    "marvel",
+    "winter-soldier",
+    "s.h.i.e.l.d"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

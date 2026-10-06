@@ -4,6 +4,14 @@
   "url": "/news/return-streets/",
   "original_url": "https://spidermedia.ru/news/return-streets",
   "archived": "https://web.archive.org/web/20260208204010/https://spidermedia.ru/news/return-streets",
+  "tags": [
+    "mardzhori-lyu",
+    "x-23",
+    "alina-urusov",
+    "x-men",
+    "marvel",
+    "marjorie-liu"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

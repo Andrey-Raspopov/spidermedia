@@ -4,6 +4,9 @@
   "url": "/news/den-novyh-komiksov-4-sentyabrya/",
   "original_url": "http://spidermedia.ru/news/den-novyh-komiksov-4-sentyabrya",
   "archived": "https://web.archive.org/web/20260307071348/http://spidermedia.ru/news/den-novyh-komiksov-4-sentyabrya",
+  "tags": [
+    "den-novyh-komiksov"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

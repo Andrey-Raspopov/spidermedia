@@ -4,6 +4,10 @@
   "url": "/news/dc-vypustit-multfilmy-po-motivam-igrushek/",
   "original_url": "https://spidermedia.ru/news/dc-vypustit-multfilmy-po-motivam-igrushek",
   "archived": "https://web.archive.org/web/20251206022129/https://spidermedia.ru/news/dc-vypustit-multfilmy-po-motivam-igrushek",
+  "tags": [
+    "animaciya",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

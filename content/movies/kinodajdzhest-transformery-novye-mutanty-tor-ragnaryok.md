@@ -4,6 +4,12 @@
   "url": "/movies/kinodajdzhest-transformery-novye-mutanty-tor-ragnaryok/",
   "original_url": "https://spidermedia.ru/movies/kinodajdzhest-transformery-novye-mutanty-tor-ragnaryok",
   "archived": "https://web.archive.org/web/20251208072330/https://spidermedia.ru/movies/kinodajdzhest-transformery-novye-mutanty-tor-ragnaryok",
+  "tags": [
+    "digest",
+    "thor",
+    "transformers",
+    "new-mutants"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

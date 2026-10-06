@@ -4,6 +4,12 @@
   "url": "/news/pobediteli-spidermedia-fan-art-challenge-3/",
   "original_url": "https://spidermedia.ru/news/pobediteli-spidermedia-fan-art-challenge-3",
   "archived": "https://web.archive.org/web/20260123090122/https://spidermedia.ru/news/pobediteli-spidermedia-fan-art-challenge-3",
+  "tags": [
+    "fanart",
+    "art-0",
+    "miles-morales",
+    "challenge"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
@@ -21,7 +27,7 @@
 
 ---
 
-*Книги [Издательства "КОМИКС ЛТД."](https://web.archive.org/web/20260117225234/http://spidermedia.ru/tags/izdatelstvo-komiks) достаются следующим участникам:
+*Книги [Издательства "КОМИКС ЛТД."](../../tags/izdatelstvo-komiks/) достаются следующим участникам:
 
 - **ILLanthan** за сказочной красоты полотно **"Доктор Стрэндж: Восточные мотивы"** получает комикс ["СТРЭНДЖ"](http://smg.photobucket.com/albums/v497/spidermedia/alex_nexs/c793b54cc656.jpg)*
 [![](https://web.archive.org/web/20260123090122im_/http://img.photobucket.com/albums/v497/spidermedia/Fan-Art%20Challenge/strange_th.jpg)](http://img.photobucket.com/albums/v497/spidermedia/Fan-Art%20Challenge/ILLanthan-.jpg)- ***Komuri** за восхитительную русскую версию Чудо-Женщины (с "коромыслом правды") получает комикс ["РОСОМАХА ПРОТИВ ХАЛКА"](http://img.photobucket.com/albums/v497/spidermedia/alex_nexs/UHW.jpg)*

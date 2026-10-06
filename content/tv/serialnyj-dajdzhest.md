@@ -4,6 +4,10 @@
   "url": "/tv/serialnyj-dajdzhest/",
   "original_url": "http://spidermedia.ru/tv/serialnyj-dajdzhest",
   "archived": "https://web.archive.org/web/20260307071415/http://spidermedia.ru/tv/serialnyj-dajdzhest",
+  "tags": [
+    "dc-comics",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/news/komiks-lil-depressed-boy-izdadut-v-rossii/",
   "original_url": "https://spidermedia.ru/news/komiks-lil-depressed-boy-izdadut-v-rossii",
   "archived": "https://web.archive.org/web/20260307064452/https://spidermedia.ru/news/komiks-lil-depressed-boy-izdadut-v-rossii",
+  "tags": [
+    "image-comics",
+    "zarubezhnye-komiksy-na-russkom"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

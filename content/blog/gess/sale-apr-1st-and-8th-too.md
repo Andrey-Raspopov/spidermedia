@@ -4,6 +4,10 @@
   "url": "/blog/gess/sale-apr-1st-and-8th-too/",
   "original_url": "http://spidermedia.ru/blog/gess/sale-apr-1st-and-8th-too",
   "archived": "https://web.archive.org/web/20170609203958/http://spidermedia.ru:80/blog/gess/sale-apr-1st-and-8th-too",
+  "tags": [
+    "mnenie",
+    "on-sale-this-week"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

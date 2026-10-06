@@ -4,6 +4,12 @@
   "url": "/blog/transistor/u-nas-v-kvartire-gaz-u-vas-u-nas-halk/",
   "original_url": "http://spidermedia.ru/blog/transistor/u-nas-v-kvartire-gaz-u-vas-u-nas-halk",
   "archived": "https://web.archive.org/web/20140819042408/http://spidermedia.ru:80/blog/transistor/u-nas-v-kvartire-gaz-u-vas-u-nas-halk",
+  "tags": [
+    "movie",
+    "marvel",
+    "avengers",
+    "recenziya"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

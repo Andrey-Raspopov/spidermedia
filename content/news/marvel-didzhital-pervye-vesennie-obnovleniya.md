@@ -4,6 +4,16 @@
   "url": "/news/marvel-didzhital-pervye-vesennie-obnovleniya/",
   "original_url": "http://spidermedia.ru/news/marvel-didzhital-pervye-vesennie-obnovleniya",
   "archived": "https://web.archive.org/web/20120607133046/http://spidermedia.ru/news/marvel-didzhital-pervye-vesennie-obnovleniya",
+  "tags": [
+    "iron-man-2020",
+    "kid-colt",
+    "zheleznyy-chelovek-2020",
+    "komiksy",
+    "malysh-kolt",
+    "marvel",
+    "oblozhki",
+    "preview-s"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

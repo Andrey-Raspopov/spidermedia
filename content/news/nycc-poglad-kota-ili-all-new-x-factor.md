@@ -4,6 +4,11 @@
   "url": "/news/nycc-poglad-kota-ili-all-new-x-factor/",
   "original_url": "https://spidermedia.ru/news/nycc-poglad-kota-ili-all-new-x-factor",
   "archived": "https://web.archive.org/web/20260314083802/https://spidermedia.ru/news/nycc-poglad-kota-ili-all-new-x-factor",
+  "tags": [
+    "marvel",
+    "x-factor",
+    "new-york-comic-con"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

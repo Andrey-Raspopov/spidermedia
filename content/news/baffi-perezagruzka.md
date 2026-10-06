@@ -4,6 +4,10 @@
   "url": "/news/baffi-perezagruzka/",
   "original_url": "http://spidermedia.ru/news/baffi-perezagruzka",
   "archived": "https://web.archive.org/web/20200128045003/http://spidermedia.ru:80/news/baffi-perezagruzka",
+  "tags": [
+    "perezapusk",
+    "baffi-istrebitelnica-vampirov"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

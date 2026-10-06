@@ -4,6 +4,13 @@
   "url": "/news/vseh-izlechit-iscelit/",
   "original_url": "http://spidermedia.ru/news/vseh-izlechit-iscelit",
   "archived": "https://web.archive.org/web/20250717191934/http://spidermedia.ru/news/vseh-izlechit-iscelit",
+  "tags": [
+    "majk-minola",
+    "kristofer-golden",
+    "ben-stenbeck",
+    "lord-baltimore",
+    "dark-horse"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

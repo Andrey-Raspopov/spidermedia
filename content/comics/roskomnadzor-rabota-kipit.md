@@ -4,6 +4,11 @@
   "url": "/comics/roskomnadzor-rabota-kipit/",
   "original_url": "http://spidermedia.ru/comics/roskomnadzor-rabota-kipit",
   "archived": "https://web.archive.org/web/20230322214144/http://spidermedia.ru/comics/roskomnadzor-rabota-kipit",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "roskomnadzor",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

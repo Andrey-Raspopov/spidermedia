@@ -4,6 +4,10 @@
   "url": "/news/sony-planiruet-vypustit-zhenskiy-spin-cheloveka-pauka-v-2017godu/",
   "original_url": "https://spidermedia.ru/news/sony-planiruet-vypustit-zhenskiy-spin-cheloveka-pauka-v-2017godu",
   "archived": "https://web.archive.org/web/20230930104817/https://spidermedia.ru/news/sony-planiruet-vypustit-zhenskiy-spin-cheloveka-pauka-v-2017godu",
+  "tags": [
+    "chernaya-koshka",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

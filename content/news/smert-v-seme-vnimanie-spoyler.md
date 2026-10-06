@@ -4,6 +4,13 @@
   "url": "/news/smert-v-seme-vnimanie-spoyler/",
   "original_url": "http://spidermedia.ru/news/smert-v-seme-vnimanie-spoyler",
   "archived": "https://web.archive.org/web/20191216222749/http://spidermedia.ru:80/news/smert-v-seme-vnimanie-spoyler",
+  "tags": [
+    "fantastic-four",
+    "stiv-epting",
+    "dzhonatan-hikman",
+    "art-0",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

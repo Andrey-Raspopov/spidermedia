@@ -4,6 +4,15 @@
   "url": "/news/ultimate-comics-noyabr-2009/",
   "original_url": "http://spidermedia.ru/news/ultimate-comics-noyabr-2009",
   "archived": "https://web.archive.org/web/20120610180856/http://spidermedia.ru/news/ultimate-comics-noyabr-2009",
+  "tags": [
+    "iron-man",
+    "spider-man",
+    "ultimate",
+    "zheleznyy-chelovek",
+    "komiksy",
+    "mstiteli",
+    "chelovek-pauk"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

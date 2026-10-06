@@ -4,6 +4,12 @@
   "url": "/news/novosti-studii-marvel-chelovek-muravey-mstiteli-era-altrona-strazhi-galaktiki-2/",
   "original_url": "http://spidermedia.ru/news/novosti-studii-marvel-chelovek-muravey-mstiteli-era-altrona-strazhi-galaktiki-2",
   "archived": "https://web.archive.org/web/20260314081035/http://spidermedia.ru/news/novosti-studii-marvel-chelovek-muravey-mstiteli-era-altrona-strazhi-galaktiki-2",
+  "tags": [
+    "ant-man",
+    "avengers",
+    "marvel",
+    "san-diego-comic-con-international"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

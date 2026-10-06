@@ -4,6 +4,11 @@
   "url": "/blog/derden/dc-new-52-action-comics-vol2-1/",
   "original_url": "https://spidermedia.ru/blog/derden/dc-new-52-action-comics-vol2-1",
   "archived": "https://web.archive.org/web/20250113170024/https://spidermedia.ru/blog/derden/dc-new-52-action-comics-vol2-1",
+  "tags": [
+    "superman",
+    "new-52",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

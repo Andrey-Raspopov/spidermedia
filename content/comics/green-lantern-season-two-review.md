@@ -4,6 +4,12 @@
   "url": "/comics/green-lantern-season-two-review/",
   "original_url": "https://spidermedia.ru/comics/green-lantern-season-two-review",
   "archived": "https://web.archive.org/web/20260123084846/https://spidermedia.ru/comics/green-lantern-season-two-review",
+  "tags": [
+    "dc-comics",
+    "grant-morrison",
+    "green-lantern",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

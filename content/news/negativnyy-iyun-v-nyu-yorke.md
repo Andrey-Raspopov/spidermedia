@@ -4,6 +4,14 @@
   "url": "/news/negativnyy-iyun-v-nyu-yorke/",
   "original_url": "http://spidermedia.ru/news/negativnyy-iyun-v-nyu-yorke",
   "archived": "https://web.archive.org/web/20200216104441/http://spidermedia.ru:80/news/negativnyy-iyun-v-nyu-yorke",
+  "tags": [
+    "mister-negativ",
+    "kapyushon",
+    "the-hood",
+    "mr.-negative",
+    "marvel",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,13 @@
   "url": "/news/eksklyuziv-prevyu-neuyazvimogo-no12/",
   "original_url": "http://spidermedia.ru/news/eksklyuziv-prevyu-neuyazvimogo-no12",
   "archived": "https://web.archive.org/web/20250618124427/http://spidermedia.ru/news/eksklyuziv-prevyu-neuyazvimogo-no12",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "izdatelstvo-42",
+    "invincible",
+    "robert-kirkman",
+    "image-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

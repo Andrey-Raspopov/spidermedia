@@ -4,6 +4,11 @@
   "url": "/news/bez-straha-i-upryoka/",
   "original_url": "http://spidermedia.ru/news/bez-straha-i-upryoka",
   "archived": "https://web.archive.org/web/20250806045135/http://spidermedia.ru/news/bez-straha-i-upryoka",
+  "tags": [
+    "marvel",
+    "kallen-bann",
+    "uill-slajni"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

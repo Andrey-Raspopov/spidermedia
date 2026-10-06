@@ -4,6 +4,14 @@
   "url": "/blog/hella/obzor-frikangely-tom-1-russkoyazychnoe-izdanie-0/",
   "original_url": "http://spidermedia.ru/blog/hella/obzor-frikangely-tom-1-russkoyazychnoe-izdanie-0",
   "archived": "https://web.archive.org/web/20260308231902/http://spidermedia.ru/blog/hella/obzor-frikangely-tom-1-russkoyazychnoe-izdanie-0",
+  "tags": [
+    "warren-ellis",
+    "pol-daffild",
+    "zarubezhnye-komiksy-na-russkom",
+    "xl-media",
+    "freakangels",
+    "avatar-press"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

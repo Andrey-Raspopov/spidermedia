@@ -4,6 +4,12 @@
   "url": "/news/veroyatno-luchshiy-supergeroyskiy-komiks-na-russkom-yazyke/",
   "original_url": "https://spidermedia.ru/news/veroyatno-luchshiy-supergeroyskiy-komiks-na-russkom-yazyke",
   "archived": "https://web.archive.org/web/20260312004914/https://spidermedia.ru/news/veroyatno-luchshiy-supergeroyskiy-komiks-na-russkom-yazyke",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "invincible",
+    "image-comics",
+    "izdatelstvo-42"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

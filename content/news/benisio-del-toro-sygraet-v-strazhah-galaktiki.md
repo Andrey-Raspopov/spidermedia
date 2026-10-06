@@ -4,6 +4,10 @@
   "url": "/news/benisio-del-toro-sygraet-v-strazhah-galaktiki/",
   "original_url": "https://spidermedia.ru/news/benisio-del-toro-sygraet-v-strazhah-galaktiki",
   "archived": "https://web.archive.org/web/20260116214517/https://spidermedia.ru/news/benisio-del-toro-sygraet-v-strazhah-galaktiki",
+  "tags": [
+    "marvel",
+    "guardians-of-the-galaxy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

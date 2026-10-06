@@ -4,6 +4,9 @@
   "url": "/podcast/spider-talk-12-manga-anime-assasiny/",
   "original_url": "http://spidermedia.ru/podcast/spider-talk-12-manga-anime-assasiny",
   "archived": "https://web.archive.org/web/20251018222810/http://spidermedia.ru/podcast/spider-talk-12-manga-anime-assasiny",
+  "tags": [
+    "spider-talk"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

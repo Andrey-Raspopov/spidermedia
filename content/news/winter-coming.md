@@ -4,6 +4,12 @@
   "url": "/news/winter-coming/",
   "original_url": "http://spidermedia.ru/news/winter-coming",
   "archived": "https://web.archive.org/web/20260214132236/http://spidermedia.ru/news/winter-coming",
+  "tags": [
+    "ed-brubaker",
+    "butch-gajs",
+    "winter-soldier",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/news/fragment-korotkometrazhki-marvel-agent-karter/",
   "original_url": "http://spidermedia.ru/news/fragment-korotkometrazhki-marvel-agent-karter",
   "archived": "https://web.archive.org/web/20250617230655/http://spidermedia.ru/news/fragment-korotkometrazhki-marvel-agent-karter",
+  "tags": [
+    "marvel",
+    "san-diego-comic-con-international",
+    "captain-america",
+    "agent-karter"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

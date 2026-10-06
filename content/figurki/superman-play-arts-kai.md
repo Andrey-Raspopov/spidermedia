@@ -4,6 +4,10 @@
   "url": "/figurki/superman-play-arts-kai/",
   "original_url": "https://spidermedia.ru/figurki/superman-play-arts-kai",
   "archived": "https://web.archive.org/web/20250425232113/https://spidermedia.ru/figurki/superman-play-arts-kai",
+  "tags": [
+    "dc-comics",
+    "superman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

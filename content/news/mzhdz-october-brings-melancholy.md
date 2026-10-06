@@ -4,11 +4,15 @@
   "url": "/news/mzhdz-october-brings-melancholy/",
   "original_url": "http://spidermedia.ru/news/mzhdz-october-brings-melancholy",
   "archived": "https://web.archive.org/web/20251108033119/http://spidermedia.ru/news/mzhdz-october-brings-melancholy",
+  "tags": [
+    "mnenie",
+    "mzhdz"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](https://web.archive.org/web/20251108033119im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz.png)](https://web.archive.org/web/20260206215846/http://spidermedia.ru/tags/mzhdz)
+[![](https://web.archive.org/web/20251108033119im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz.png)](../../tags/mzhdz/)
 ![](https://web.archive.org/web/20251108033119im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/lafffs.jpg)
 Меня постоянно преследует мысль, что нет смысла писать о комиксах, ведь все главные слова уже были сказаны более умными и начитанными людьми. Но потом я понимаю, что сказано-то оно было, да только не на нашем языке и не для этой аудитории. Ведь пишут же спокойно об одних и тех же фильмах на разных языках, не боясь за кем-то повторить. Так чего я себе вечно вбиваю в голову, что рунету не нужна комиксная критика при богатом разнообразии англоязычной? Один аргумент кажется справедливым: для чтения комиксов все равно необходимо знать английский язык, значит и чтение статей не должно стать проблемой. Но с каждым годом это утверждение становится все менее правдивым. Если официальные переводы классических произведений издаются крайне редко, то доступ к новым и актуальным книжкам у людей уже появился.
 Переводы, профессиональные и любительские, изменили комиксный микроклимат в нашей стране и создали новое поколение читателей. Наша задача – всего лишь не дать ему преждевременно скончаться.

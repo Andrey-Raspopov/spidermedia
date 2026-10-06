@@ -4,6 +4,9 @@
   "url": "/blog/igrok/rassel-krou-v-moskve/",
   "original_url": "http://spidermedia.ru/blog/igrok/rassel-krou-v-moskve",
   "archived": "https://web.archive.org/web/20190825023518/http://spidermedia.ru/blog/igrok/rassel-krou-v-moskve",
+  "tags": [
+    "rassel-krou"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

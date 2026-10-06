@@ -4,6 +4,12 @@
   "url": "/news/betmen-tshsh-vyydet-v-sentyabre/",
   "original_url": "https://spidermedia.ru/news/betmen-tshsh-vyydet-v-sentyabre",
   "archived": "https://web.archive.org/web/20251014043453/https://spidermedia.ru/news/betmen-tshsh-vyydet-v-sentyabre",
+  "tags": [
+    "komiks-art",
+    "zarubezhnye-komiksy-na-russkom",
+    "batman",
+    "hush"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

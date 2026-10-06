@@ -4,6 +4,9 @@
   "url": "/news/marvel-universe-gigantic-battles/",
   "original_url": "https://spidermedia.ru/news/marvel-universe-gigantic-battles",
   "archived": "https://web.archive.org/web/20250807000420/https://spidermedia.ru/news/marvel-universe-gigantic-battles",
+  "tags": [
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

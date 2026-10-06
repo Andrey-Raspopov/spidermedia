@@ -4,6 +4,11 @@
   "url": "/news/vyigray-prizy-ot-strazhey-galaktiki/",
   "original_url": "http://spidermedia.ru/news/vyigray-prizy-ot-strazhey-galaktiki",
   "archived": "https://web.archive.org/web/20260211175336/http://spidermedia.ru/news/vyigray-prizy-ot-strazhey-galaktiki",
+  "tags": [
+    "guardians-of-the-galaxy",
+    "marvel",
+    "konkurs"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

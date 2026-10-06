@@ -4,6 +4,13 @@
   "url": "/news/novyy-chelovek-pauk-2-maks-dillon-i-garri-ozborn-foto/",
   "original_url": "http://spidermedia.ru/news/novyy-chelovek-pauk-2-maks-dillon-i-garri-ozborn-foto",
   "archived": "https://web.archive.org/web/20130619034903/http://spidermedia.ru/news/novyy-chelovek-pauk-2-maks-dillon-i-garri-ozborn-foto",
+  "tags": [
+    "kadry",
+    "kino",
+    "marvel",
+    "novyy-chelovek-pauk",
+    "chelovek-pauk"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

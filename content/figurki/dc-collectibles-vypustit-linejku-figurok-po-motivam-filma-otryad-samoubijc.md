@@ -4,6 +4,10 @@
   "url": "/figurki/dc-collectibles-vypustit-linejku-figurok-po-motivam-filma-otryad-samoubijc/",
   "original_url": "http://spidermedia.ru/figurki/dc-collectibles-vypustit-linejku-figurok-po-motivam-filma-otryad-samoubijc",
   "archived": "https://web.archive.org/web/20260117224330/http://spidermedia.ru/figurki/dc-collectibles-vypustit-linejku-figurok-po-motivam-filma-otryad-samoubijc",
+  "tags": [
+    "dc-comics",
+    "suicide-squad"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

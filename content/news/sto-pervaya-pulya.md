@@ -4,6 +4,11 @@
   "url": "/news/sto-pervaya-pulya/",
   "original_url": "https://spidermedia.ru/news/sto-pervaya-pulya",
   "archived": "https://web.archive.org/web/20251108184454/https://spidermedia.ru/news/sto-pervaya-pulya",
+  "tags": [
+    "eduardo-risso",
+    "brian-azzarello",
+    "vertigo"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

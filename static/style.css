@@ -29,3 +29,16 @@ ul.sections { columns: 2 14rem; padding-left: 1.1rem; }
   font-family: system-ui, sans-serif; font-size: 0.9rem; }
 .pagination .active a { font-weight: 700; color: var(--fg); }
 footer.site { padding-block: 2rem; border-top: 1px solid var(--line); }
+header.site .top { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 0.6rem; }
+header.site .find input { font: inherit; padding: 0.3rem 0.6rem; width: 14rem; max-width: 100%;
+  border: 1px solid var(--line); border-radius: 6px; background: transparent; color: var(--fg); }
+p.tags { margin-top: 2rem; font-family: system-ui, sans-serif; font-size: 0.9rem; color: var(--muted); }
+p.tags a { display: inline-block; margin: 0 0.5rem 0.3rem 0; padding: 0.05rem 0.5rem;
+  border: 1px solid var(--line); border-radius: 999px; text-decoration: none; }
+.crumb { margin: 0; font-family: system-ui, sans-serif; font-size: 0.85rem; }
+ul.tags-all { columns: 3 11rem; padding: 0; list-style: none; font-family: system-ui, sans-serif; font-size: 0.9rem; }
+ul.tags-all li { break-inside: avoid; padding: 0.1rem 0; }
+ul.tags-all span { color: var(--muted); font-size: 0.8rem; }
+#search { --pagefind-ui-primary: var(--accent); --pagefind-ui-text: var(--fg);
+  --pagefind-ui-background: var(--bg); --pagefind-ui-border: var(--line); --pagefind-ui-tag: var(--line);
+  --pagefind-ui-font: system-ui, sans-serif; }

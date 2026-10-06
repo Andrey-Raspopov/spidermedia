@@ -4,6 +4,11 @@
   "url": "/blog/bastion7/recenziya-ronin/",
   "original_url": "http://spidermedia.ru/blog/bastion7/recenziya-ronin",
   "archived": "https://web.archive.org/web/20200223125527/http://spidermedia.ru:80/blog/bastion7/recenziya-ronin",
+  "tags": [
+    "dc-comics",
+    "recenziya",
+    "frenk-miller"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

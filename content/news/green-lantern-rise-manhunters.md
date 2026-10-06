@@ -4,6 +4,13 @@
   "url": "/news/green-lantern-rise-manhunters/",
   "original_url": "http://spidermedia.ru/news/green-lantern-rise-manhunters",
   "archived": "https://web.archive.org/web/20250424092005/http://spidermedia.ru/news/green-lantern-rise-manhunters",
+  "tags": [
+    "skrinshoty",
+    "igry",
+    "manhunters",
+    "green-lantern",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

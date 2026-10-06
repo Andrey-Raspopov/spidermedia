@@ -4,6 +4,13 @@
   "url": "/news/marvel-priotkryvaet-zavesu-tayny-pervorodnogo-greha/",
   "original_url": "http://spidermedia.ru/news/marvel-priotkryvaet-zavesu-tayny-pervorodnogo-greha",
   "archived": "https://web.archive.org/web/20250814213533/http://spidermedia.ru/news/marvel-priotkryvaet-zavesu-tayny-pervorodnogo-greha",
+  "tags": [
+    "spider-man",
+    "pervorodnyj-greh",
+    "marvel",
+    "captain-america",
+    "blejd"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

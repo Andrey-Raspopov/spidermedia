@@ -4,6 +4,9 @@
   "url": "/tv/requiem-for-a-doctor/",
   "original_url": "http://spidermedia.ru/tv/requiem-for-a-doctor",
   "archived": "https://web.archive.org/web/20250806234743/http://spidermedia.ru/tv/requiem-for-a-doctor",
+  "tags": [
+    "doctor-who"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

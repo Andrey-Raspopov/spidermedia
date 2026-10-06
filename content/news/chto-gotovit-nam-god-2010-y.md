@@ -4,6 +4,12 @@
   "url": "/news/chto-gotovit-nam-god-2010-y/",
   "original_url": "http://spidermedia.ru/news/chto-gotovit-nam-god-2010-y",
   "archived": "https://web.archive.org/web/20260208194910/http://spidermedia.ru/news/chto-gotovit-nam-god-2010-y",
+  "tags": [
+    "thor",
+    "jonah-hex",
+    "iron-man",
+    "green-lantern"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

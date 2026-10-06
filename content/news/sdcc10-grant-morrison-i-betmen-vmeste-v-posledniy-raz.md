@@ -4,6 +4,15 @@
   "url": "/news/sdcc10-grant-morrison-i-betmen-vmeste-v-posledniy-raz/",
   "original_url": "https://spidermedia.ru/news/sdcc10-grant-morrison-i-betmen-vmeste-v-posledniy-raz",
   "archived": "https://web.archive.org/web/20251206151320/https://spidermedia.ru/news/sdcc10-grant-morrison-i-betmen-vmeste-v-posledniy-raz",
+  "tags": [
+    "yanik-pekket",
+    "frejzer-irving",
+    "san-diego-comic-con-international",
+    "intervyu",
+    "grant-morrison",
+    "dc-comics",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

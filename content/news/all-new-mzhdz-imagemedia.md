@@ -4,11 +4,15 @@
   "url": "/news/all-new-mzhdz-imagemedia/",
   "original_url": "http://spidermedia.ru/news/all-new-mzhdz-imagemedia",
   "archived": "https://web.archive.org/web/20251116062647/http://spidermedia.ru/news/all-new-mzhdz-imagemedia",
+  "tags": [
+    "mnenie",
+    "mzhdz"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](https://web.archive.org/web/20251116062647im_/http://i.imgur.com/JCbv66a.jpg)](https://web.archive.org/web/20260206215846/http://spidermedia.ru/tags/mzhdz)
+[![](https://web.archive.org/web/20251116062647im_/http://i.imgur.com/JCbv66a.jpg)](../../tags/mzhdz/)
 ![](https://web.archive.org/web/20251116062647im_/http://i.imgur.com/eAycmxn.jpg)
 Так уж вышло, что многим нашим авторам захотелось написать про комиксы издательства Image. Поэтому на этой неделе вы узнаете о **Dead Body Road**, **Deadly Class**, **Manifest Destiny** и **Southern Bastards**. Но Marvel и DC все же не остались в стороне: за ваше внимание поборются две прекрасные девушки - **Harley Quinn** и **Ms. Marvel**.
 **Автор логотипа - Ярослав Астапеев.**

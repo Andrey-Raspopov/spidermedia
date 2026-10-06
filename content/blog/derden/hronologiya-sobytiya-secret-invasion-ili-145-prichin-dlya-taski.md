@@ -4,6 +4,14 @@
   "url": "/blog/derden/hronologiya-sobytiya-secret-invasion-ili-145-prichin-dlya-taski/",
   "original_url": "http://spidermedia.ru/blog/derden/hronologiya-sobytiya-secret-invasion-ili-145-prichin-dlya-taski",
   "archived": "https://web.archive.org/web/20241205093435/http://spidermedia.ru/blog/derden/hronologiya-sobytiya-secret-invasion-ili-145-prichin-dlya-taski",
+  "tags": [
+    "skrully",
+    "skrull",
+    "sekretnoe-vtorzhenie",
+    "skrulls",
+    "secret-invasion",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

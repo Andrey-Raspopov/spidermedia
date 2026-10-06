@@ -4,6 +4,11 @@
   "url": "/comics/roskomnadzor-ku-ku/",
   "original_url": "http://spidermedia.ru/comics/roskomnadzor-ku-ku",
   "archived": "https://web.archive.org/web/20250807002205/http://spidermedia.ru/comics/roskomnadzor-ku-ku",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "roskomnadzor",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

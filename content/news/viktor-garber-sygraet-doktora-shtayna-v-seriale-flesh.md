@@ -4,6 +4,12 @@
   "url": "/news/viktor-garber-sygraet-doktora-shtayna-v-seriale-flesh/",
   "original_url": "https://spidermedia.ru/news/viktor-garber-sygraet-doktora-shtayna-v-seriale-flesh",
   "archived": "https://web.archive.org/web/20250324222847/https://spidermedia.ru/news/viktor-garber-sygraet-doktora-shtayna-v-seriale-flesh",
+  "tags": [
+    "the-flash",
+    "fajrshtorm",
+    "serialy",
+    "kasting"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

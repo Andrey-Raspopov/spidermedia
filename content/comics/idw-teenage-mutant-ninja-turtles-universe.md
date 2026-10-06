@@ -4,6 +4,10 @@
   "url": "/comics/idw-teenage-mutant-ninja-turtles-universe/",
   "original_url": "https://spidermedia.ru/comics/idw-teenage-mutant-ninja-turtles-universe",
   "archived": "https://web.archive.org/web/20251014041630/https://spidermedia.ru/comics/idw-teenage-mutant-ninja-turtles-universe",
+  "tags": [
+    "idw-publishing",
+    "ninja-turtles"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

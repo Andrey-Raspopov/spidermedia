@@ -4,6 +4,11 @@
   "url": "/news/i-po-raduge-promchatsya-na-kone/",
   "original_url": "https://spidermedia.ru/news/i-po-raduge-promchatsya-na-kone",
   "archived": "https://web.archive.org/web/20240916015304/https://spidermedia.ru/news/i-po-raduge-promchatsya-na-kone",
+  "tags": [
+    "trejlery",
+    "thor",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

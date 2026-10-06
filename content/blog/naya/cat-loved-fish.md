@@ -4,6 +4,12 @@
   "url": "/blog/naya/cat-loved-fish/",
   "original_url": "http://spidermedia.ru/blog/naya/cat-loved-fish",
   "archived": "https://web.archive.org/web/20120607131441/http://spidermedia.ru/blog/naya/cat-loved-fish",
+  "tags": [
+    "manhwa",
+    "one-shot",
+    "shoujo",
+    "skachat"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

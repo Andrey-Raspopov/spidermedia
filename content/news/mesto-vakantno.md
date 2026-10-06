@@ -4,6 +4,13 @@
   "url": "/news/mesto-vakantno/",
   "original_url": "http://spidermedia.ru/news/mesto-vakantno",
   "archived": "https://web.archive.org/web/20260125070750/http://spidermedia.ru/news/mesto-vakantno",
+  "tags": [
+    "strana-tenej",
+    "sluhi",
+    "art-0",
+    "shadowland",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

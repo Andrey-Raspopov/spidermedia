@@ -4,6 +4,12 @@
   "url": "/blog/bastion7/ya-govoril-chto-frenk-miller-80-h-frenk-miller-90-h-i-2000-h/",
   "original_url": "http://spidermedia.ru/blog/bastion7/ya-govoril-chto-frenk-miller-80-h-frenk-miller-90-h-i-2000-h",
   "archived": "https://web.archive.org/web/20120611025438/http://spidermedia.ru/blog/bastion7/ya-govoril-chto-frenk-miller-80-h-frenk-miller-90-h-i-2000-h",
+  "tags": [
+    "daredevil",
+    "marvel",
+    "mnenie",
+    "frenk-miller"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

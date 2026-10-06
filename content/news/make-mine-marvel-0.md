@@ -4,6 +4,9 @@
   "url": "/news/make-mine-marvel-0/",
   "original_url": "http://spidermedia.ru/news/make-mine-marvel-0",
   "archived": "https://web.archive.org/web/20251211023814/http://spidermedia.ru/news/make-mine-marvel-0",
+  "tags": [
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

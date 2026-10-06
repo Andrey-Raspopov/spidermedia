@@ -4,6 +4,12 @@
   "url": "/comics/prevyu-komiksa-doctor-strange-1/",
   "original_url": "https://spidermedia.ru/comics/prevyu-komiksa-doctor-strange-1",
   "archived": "https://web.archive.org/web/20251108185807/https://spidermedia.ru/comics/prevyu-komiksa-doctor-strange-1",
+  "tags": [
+    "marvel",
+    "doctor-strange",
+    "dzheyson-aaron",
+    "kris-bachalo"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

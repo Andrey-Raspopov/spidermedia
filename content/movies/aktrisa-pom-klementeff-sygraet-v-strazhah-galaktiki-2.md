@@ -4,6 +4,10 @@
   "url": "/movies/aktrisa-pom-klementeff-sygraet-v-strazhah-galaktiki-2/",
   "original_url": "https://spidermedia.ru/movies/aktrisa-pom-klementeff-sygraet-v-strazhah-galaktiki-2",
   "archived": "https://web.archive.org/web/20250217064955/https://spidermedia.ru/movies/aktrisa-pom-klementeff-sygraet-v-strazhah-galaktiki-2",
+  "tags": [
+    "marvel",
+    "guardians-of-the-galaxy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

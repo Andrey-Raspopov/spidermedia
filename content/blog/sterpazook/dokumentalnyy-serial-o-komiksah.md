@@ -4,6 +4,10 @@
   "url": "/blog/sterpazook/dokumentalnyy-serial-o-komiksah/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/dokumentalnyy-serial-o-komiksah",
   "archived": "https://web.archive.org/web/20230320163032/http://spidermedia.ru/blog/sterpazook/dokumentalnyy-serial-o-komiksah",
+  "tags": [
+    "serialy",
+    "industriya"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

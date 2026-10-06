@@ -4,6 +4,12 @@
   "url": "/news/hudozhnik-sverhestestvennogo/",
   "original_url": "http://spidermedia.ru/news/hudozhnik-sverhestestvennogo",
   "archived": "https://web.archive.org/web/20250617230823/http://spidermedia.ru/news/hudozhnik-sverhestestvennogo",
+  "tags": [
+    "hefte-palo",
+    "doktor-vudu",
+    "marvel",
+    "doctor-voodoo"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

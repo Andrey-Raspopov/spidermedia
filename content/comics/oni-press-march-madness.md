@@ -4,6 +4,9 @@
   "url": "/comics/oni-press-march-madness/",
   "original_url": "http://spidermedia.ru/comics/oni-press-march-madness",
   "archived": "https://web.archive.org/web/20160426171712/http://spidermedia.ru/comics/oni-press-march-madness",
+  "tags": [
+    "oni-press"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,18 @@
   "url": "/news/norman-i-ego-komanda/",
   "original_url": "http://spidermedia.ru/news/norman-i-ego-komanda",
   "archived": "https://web.archive.org/web/20251013191509/http://spidermedia.ru/news/norman-i-ego-komanda",
+  "tags": [
+    "emma-rios",
+    "preview",
+    "norman-ozborn",
+    "kelli-syu-dekonnik",
+    "dzheymi-makkelvi",
+    "ben-oliver",
+    "art-0",
+    "norman-osborn",
+    "marvel",
+    "warren-ellis"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

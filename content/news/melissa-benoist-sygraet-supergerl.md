@@ -4,6 +4,12 @@
   "url": "/news/melissa-benoist-sygraet-supergerl/",
   "original_url": "http://spidermedia.ru/news/melissa-benoist-sygraet-supergerl",
   "archived": "https://web.archive.org/web/20251216182048/http://spidermedia.ru/news/melissa-benoist-sygraet-supergerl",
+  "tags": [
+    "serialy",
+    "kasting",
+    "dc-comics",
+    "supergirl"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/news/mark-bagli-snova-v-marvel/",
   "original_url": "http://spidermedia.ru/news/mark-bagli-snova-v-marvel",
   "archived": "https://web.archive.org/web/20251206154637/http://spidermedia.ru/news/mark-bagli-snova-v-marvel",
+  "tags": [
+    "mark-bagli",
+    "ultimate",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

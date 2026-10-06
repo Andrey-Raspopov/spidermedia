@@ -4,6 +4,11 @@
   "url": "/news/komilfo-izdast-ongoing-cherepashek-nindzya-ot-idw/",
   "original_url": "https://spidermedia.ru/news/komilfo-izdast-ongoing-cherepashek-nindzya-ot-idw",
   "archived": "https://web.archive.org/web/20260215080641/https://spidermedia.ru/news/komilfo-izdast-ongoing-cherepashek-nindzya-ot-idw",
+  "tags": [
+    "ninja-turtles",
+    "komilfo",
+    "idw-publishing"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

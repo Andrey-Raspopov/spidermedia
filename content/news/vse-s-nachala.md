@@ -4,6 +4,19 @@
   "url": "/news/vse-s-nachala/",
   "original_url": "http://spidermedia.ru/news/vse-s-nachala",
   "archived": "https://web.archive.org/web/20260116223329/http://spidermedia.ru/news/vse-s-nachala",
+  "tags": [
+    "superman",
+    "wonder-woman",
+    "geoff-johns",
+    "jim-lee",
+    "justice-league",
+    "dc-comics",
+    "green-lantern",
+    "aquaman",
+    "batman",
+    "cyborg",
+    "the-flash"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

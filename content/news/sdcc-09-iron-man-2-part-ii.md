@@ -4,6 +4,17 @@
   "url": "/news/sdcc-09-iron-man-2-part-ii/",
   "original_url": "http://spidermedia.ru/news/sdcc-09-iron-man-2-part-ii",
   "archived": "https://web.archive.org/web/20120607140333/http://spidermedia.ru/news/sdcc-09-iron-man-2-part-ii",
+  "tags": [
+    "iron-man",
+    "iron-man-2",
+    "sdcc-2009",
+    "zheleznyy-chelovek",
+    "zheleznyy-chelovek-2",
+    "kino",
+    "komiksy",
+    "marvel",
+    "figurki"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

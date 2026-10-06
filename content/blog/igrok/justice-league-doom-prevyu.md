@@ -4,6 +4,12 @@
   "url": "/blog/igrok/justice-league-doom-prevyu/",
   "original_url": "https://spidermedia.ru/blog/igrok/justice-league-doom-prevyu",
   "archived": "https://web.archive.org/web/20260211090153/https://spidermedia.ru/blog/igrok/justice-league-doom-prevyu",
+  "tags": [
+    "animaciya",
+    "legion-of-doom",
+    "natan-fillion",
+    "justice-league"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

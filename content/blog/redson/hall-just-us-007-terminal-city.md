@@ -4,6 +4,14 @@
   "url": "/blog/redson/hall-just-us-007-terminal-city/",
   "original_url": "https://spidermedia.ru/blog/redson/hall-just-us-007-terminal-city",
   "archived": "https://web.archive.org/web/20260206223210/https://spidermedia.ru/blog/redson/hall-just-us-007-terminal-city",
+  "tags": [
+    "majkl-lark",
+    "din-motter",
+    "vertigo",
+    "michael-lark",
+    "hall-of-just-us",
+    "dean-motter"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

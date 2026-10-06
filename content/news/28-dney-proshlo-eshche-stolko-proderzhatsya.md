@@ -4,6 +4,10 @@
   "url": "/news/28-dney-proshlo-eshche-stolko-proderzhatsya/",
   "original_url": "http://spidermedia.ru/news/28-dney-proshlo-eshche-stolko-proderzhatsya",
   "archived": "https://web.archive.org/web/20150427073743/http://spidermedia.ru/news/28-dney-proshlo-eshche-stolko-proderzhatsya",
+  "tags": [
+    "art-0",
+    "boom-studios"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

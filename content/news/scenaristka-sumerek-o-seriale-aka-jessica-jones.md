@@ -4,6 +4,11 @@
   "url": "/news/scenaristka-sumerek-o-seriale-aka-jessica-jones/",
   "original_url": "https://spidermedia.ru/news/scenaristka-sumerek-o-seriale-aka-jessica-jones",
   "archived": "https://web.archive.org/web/20260214131046/https://spidermedia.ru/news/scenaristka-sumerek-o-seriale-aka-jessica-jones",
+  "tags": [
+    "marvel",
+    "brian-michael-bendis",
+    "jessica-jones-alias"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

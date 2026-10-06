@@ -4,6 +4,17 @@
   "url": "/news/you-cant-touch/",
   "original_url": "https://spidermedia.ru/news/you-cant-touch",
   "archived": "https://web.archive.org/web/20250709064959/https://spidermedia.ru/news/you-cant-touch",
+  "tags": [
+    "utka-govard",
+    "rajan-bodenhajm",
+    "majkl-uilyam-kaluta",
+    "kristofer-hastings",
+    "she-hulk",
+    "deadpool",
+    "brendon-monkler",
+    "bong-dazo",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

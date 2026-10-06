@@ -4,6 +4,15 @@
   "url": "/news/days-second-coming-konec-i-novoe-nachalo/",
   "original_url": "http://spidermedia.ru/news/days-second-coming-konec-i-novoe-nachalo",
   "archived": "https://web.archive.org/web/20120512020335/http://spidermedia.ru/news/days-second-coming-konec-i-novoe-nachalo",
+  "tags": [
+    "heroic-age",
+    "second-coming",
+    "x-men",
+    "x-universe",
+    "komiksy",
+    "lyudi-iks",
+    "marvel"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

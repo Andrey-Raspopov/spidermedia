@@ -4,11 +4,16 @@
   "url": "/news/umbrella-academy-vmeste-pomozhem-delu/",
   "original_url": "http://spidermedia.ru/news/umbrella-academy-vmeste-pomozhem-delu",
   "archived": "https://web.archive.org/web/20250803233051/http://spidermedia.ru/news/umbrella-academy-vmeste-pomozhem-delu",
+  "tags": [
+    "komilfo",
+    "zarubezhnye-komiksy-na-russkom",
+    "umbrella-academy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-Анонсированный [ранее](https://web.archive.org/web/20250512115614/http://spidermedia.ru/tags/umbrella-academy) выход на русском языке комикса **Umbrella Academy** обрастает подробностями: издательство **«Комильфо»**, как и планировалось, создало на краудфандинговой платформе boomstarter проект по сбору средств на издание книги.
+Анонсированный [ранее](../../tags/umbrella-academy/) выход на русском языке комикса **Umbrella Academy** обрастает подробностями: издательство **«Комильфо»**, как и планировалось, создало на краудфандинговой платформе boomstarter проект по сбору средств на издание книги.
 
 [![](https://web.archive.org/web/20250803233051im_/http://i.imgur.com/WR4ZjBc.jpg "Hosted by imgur.com")](http://imgur.com/WR4ZjBc)
 

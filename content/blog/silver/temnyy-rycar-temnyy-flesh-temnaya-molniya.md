@@ -4,6 +4,10 @@
   "url": "/blog/silver/temnyy-rycar-temnyy-flesh-temnaya-molniya/",
   "original_url": "http://spidermedia.ru/blog/silver/temnyy-rycar-temnyy-flesh-temnaya-molniya",
   "archived": "https://web.archive.org/web/20120607120351/http://spidermedia.ru/blog/silver/temnyy-rycar-temnyy-flesh-temnaya-molniya",
+  "tags": [
+    "kino",
+    "shok11"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

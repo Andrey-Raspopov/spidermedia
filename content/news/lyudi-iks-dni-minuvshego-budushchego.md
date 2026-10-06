@@ -4,6 +4,11 @@
   "url": "/news/lyudi-iks-dni-minuvshego-budushchego/",
   "original_url": "http://spidermedia.ru/news/lyudi-iks-dni-minuvshego-budushchego",
   "archived": "https://web.archive.org/web/20250923040701/http://spidermedia.ru/news/lyudi-iks-dni-minuvshego-budushchego",
+  "tags": [
+    "days-of-future-past",
+    "marvel",
+    "x-men"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

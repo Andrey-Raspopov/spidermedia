@@ -4,6 +4,12 @@
   "url": "/news/raskryta-vneshnost-superior/",
   "original_url": "https://spidermedia.ru/news/raskryta-vneshnost-superior",
   "archived": "https://web.archive.org/web/20260211194118/https://spidermedia.ru/news/raskryta-vneshnost-superior",
+  "tags": [
+    "mark-millar",
+    "lejnil-frensis-yu",
+    "wizard-magazine",
+    "superior"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

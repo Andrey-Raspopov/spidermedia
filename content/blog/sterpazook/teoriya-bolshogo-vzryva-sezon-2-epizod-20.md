@@ -4,6 +4,12 @@
   "url": "/blog/sterpazook/teoriya-bolshogo-vzryva-sezon-2-epizod-20/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/teoriya-bolshogo-vzryva-sezon-2-epizod-20",
   "archived": "https://web.archive.org/web/20251216114844/http://spidermedia.ru/blog/sterpazook/teoriya-bolshogo-vzryva-sezon-2-epizod-20",
+  "tags": [
+    "dc-comics",
+    "batman",
+    "serialy",
+    "teoriya-bolshogo-vzryva"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

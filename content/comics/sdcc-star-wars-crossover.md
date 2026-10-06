@@ -4,6 +4,11 @@
   "url": "/comics/sdcc-star-wars-crossover/",
   "original_url": "https://spidermedia.ru/comics/sdcc-star-wars-crossover",
   "archived": "https://web.archive.org/web/20251107033621/https://spidermedia.ru/comics/sdcc-star-wars-crossover",
+  "tags": [
+    "marvel",
+    "san-diego-comic-con-international",
+    "zvezdnye-vojny"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

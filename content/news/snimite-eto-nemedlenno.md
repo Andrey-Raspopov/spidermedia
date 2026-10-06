@@ -4,6 +4,11 @@
   "url": "/news/snimite-eto-nemedlenno/",
   "original_url": "https://spidermedia.ru/news/snimite-eto-nemedlenno",
   "archived": "https://web.archive.org/web/20250422031758/https://spidermedia.ru/news/snimite-eto-nemedlenno",
+  "tags": [
+    "figurki",
+    "konkurs",
+    "igrushki"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/news/treylery-gi-joe-retaliation-i-men-black-iii/",
   "original_url": "https://spidermedia.ru/news/treylery-gi-joe-retaliation-i-men-black-iii",
   "archived": "https://web.archive.org/web/20250717193628/https://spidermedia.ru/news/treylery-gi-joe-retaliation-i-men-black-iii",
+  "tags": [
+    "trejlery",
+    "men-in-black",
+    "gi-joe"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

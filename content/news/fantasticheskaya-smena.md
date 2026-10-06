@@ -4,6 +4,15 @@
   "url": "/news/fantasticheskaya-smena/",
   "original_url": "http://spidermedia.ru/news/fantasticheskaya-smena",
   "archived": "https://web.archive.org/web/20251108032858/http://spidermedia.ru/news/fantasticheskaya-smena",
+  "tags": [
+    "marvel",
+    "mark-millar",
+    "bryan-hitch",
+    "fantastic-four",
+    "dzhonatan-hikman",
+    "dejl-iglshem",
+    "styuart-immonen"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

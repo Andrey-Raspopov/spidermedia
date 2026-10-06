@@ -4,6 +4,14 @@
   "url": "/blog/fox1992/prevyu-na-11-noyabrya/",
   "original_url": "http://spidermedia.ru/blog/fox1992/prevyu-na-11-noyabrya",
   "archived": "https://web.archive.org/web/20260208211450/http://spidermedia.ru/blog/fox1992/prevyu-na-11-noyabrya",
+  "tags": [
+    "x-men",
+    "x-force",
+    "x-babies",
+    "preview",
+    "marvel",
+    "cable"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

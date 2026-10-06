@@ -4,6 +4,11 @@
   "url": "/blog/derden/komiksy-dc-universe-vypusk-no-06c/",
   "original_url": "http://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-06c",
   "archived": "https://web.archive.org/web/20190929140643/http://spidermedia.ru:80/blog/derden/komiksy-dc-universe-vypusk-no-06c",
+  "tags": [
+    "dc-comics",
+    "batman",
+    "dc-universe-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

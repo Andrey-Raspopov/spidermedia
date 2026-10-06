@@ -4,6 +4,9 @@
   "url": "/blog/happycake-oven/transformers-are-gift-god/",
   "original_url": "http://spidermedia.ru/blog/happycake-oven/transformers-are-gift-god",
   "archived": "https://web.archive.org/web/20111026111959/http://spidermedia.ru/blog/happycake-oven/transformers-are-gift-god",
+  "tags": [
+    "mnenie"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

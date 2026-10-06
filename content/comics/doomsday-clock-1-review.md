@@ -4,6 +4,12 @@
   "url": "/comics/doomsday-clock-1-review/",
   "original_url": "http://spidermedia.ru/comics/doomsday-clock-1-review",
   "archived": "https://web.archive.org/web/20251206034159/http://spidermedia.ru/comics/doomsday-clock-1-review",
+  "tags": [
+    "dc-comics",
+    "geri-frenk",
+    "geoff-johns",
+    "hraniteli"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

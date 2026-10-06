@@ -4,6 +4,13 @@
   "url": "/news/recenziya-na-film-lyudi-iks-pervyy-klass/",
   "original_url": "http://spidermedia.ru/news/recenziya-na-film-lyudi-iks-pervyy-klass",
   "archived": "https://web.archive.org/web/20260125070200/http://spidermedia.ru/news/recenziya-na-film-lyudi-iks-pervyy-klass",
+  "tags": [
+    "recenziya",
+    "mettyu-von",
+    "magneto",
+    "lyudi-iks-pervyj-klass",
+    "x-men-first-class"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

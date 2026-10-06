@@ -4,6 +4,13 @@
   "url": "/news/mark-millar-takoy-mark-millar/",
   "original_url": "http://spidermedia.ru/news/mark-millar-takoy-mark-millar",
   "archived": "https://web.archive.org/web/20120608201012/http://spidermedia.ru/news/mark-millar-takoy-mark-millar",
+  "tags": [
+    "american-jesus",
+    "chosen",
+    "supercrooks",
+    "kino",
+    "mark-millar"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

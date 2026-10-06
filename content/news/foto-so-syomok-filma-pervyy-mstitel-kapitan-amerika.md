@@ -4,6 +4,12 @@
   "url": "/news/foto-so-syomok-filma-pervyy-mstitel-kapitan-amerika/",
   "original_url": "http://spidermedia.ru/news/foto-so-syomok-filma-pervyy-mstitel-kapitan-amerika",
   "archived": "https://web.archive.org/web/20240623023412/http://spidermedia.ru/news/foto-so-syomok-filma-pervyy-mstitel-kapitan-amerika",
+  "tags": [
+    "gidra",
+    "marvel",
+    "hydra",
+    "captain-america"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

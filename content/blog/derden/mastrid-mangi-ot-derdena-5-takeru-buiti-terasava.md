@@ -4,6 +4,15 @@
   "url": "/blog/derden/mastrid-mangi-ot-derdena-5-takeru-buiti-terasava/",
   "original_url": "http://spidermedia.ru/blog/derden/mastrid-mangi-ot-derdena-5-takeru-buiti-terasava",
   "archived": "https://web.archive.org/web/20251012182123/http://spidermedia.ru/blog/derden/mastrid-mangi-ot-derdena-5-takeru-buiti-terasava",
+  "tags": [
+    "takeru",
+    "manga",
+    "kobra",
+    "buiti-terasava",
+    "space-adventure-cobra",
+    "cobra",
+    "buichi-terasawa"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

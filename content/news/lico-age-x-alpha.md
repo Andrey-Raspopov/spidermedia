@@ -4,6 +4,12 @@
   "url": "/news/lico-age-x-alpha/",
   "original_url": "http://spidermedia.ru/news/lico-age-x-alpha",
   "archived": "https://web.archive.org/web/20190820200448/http://spidermedia.ru:80/news/lico-age-x-alpha",
+  "tags": [
+    "olive-kojpel",
+    "kris-bachalo",
+    "art-0",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/blog/ellaya-dw/novaya-manga-s-2007-po-1608/",
   "original_url": "http://spidermedia.ru/blog/ellaya-dw/novaya-manga-s-2007-po-1608",
   "archived": "https://web.archive.org/web/20251018225850/http://spidermedia.ru/blog/ellaya-dw/novaya-manga-s-2007-po-1608",
+  "tags": [
+    "manga"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

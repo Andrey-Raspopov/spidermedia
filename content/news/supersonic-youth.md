@@ -4,6 +4,13 @@
   "url": "/news/supersonic-youth/",
   "original_url": "http://spidermedia.ru/news/supersonic-youth",
   "archived": "https://web.archive.org/web/20260209121122/http://spidermedia.ru/news/supersonic-youth",
+  "tags": [
+    "majk-norton",
+    "kiron-gillen",
+    "dzheymi-makkelvi",
+    "young-avengers",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

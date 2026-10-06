@@ -4,6 +4,12 @@
   "url": "/news/uzhasy-pg-13/",
   "original_url": "http://spidermedia.ru/news/uzhasy-pg-13",
   "archived": "https://web.archive.org/web/20160917071537/http://spidermedia.ru:80/news/uzhasy-pg-13",
+  "tags": [
+    "shon-makkiver",
+    "majk-norton",
+    "fear-itself",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

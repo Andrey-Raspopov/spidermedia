@@ -4,6 +4,15 @@
   "url": "/news/married-without-children/",
   "original_url": "https://spidermedia.ru/news/married-without-children",
   "archived": "https://web.archive.org/web/20260309173807/https://spidermedia.ru/news/married-without-children",
+  "tags": [
+    "peter-milligan",
+    "vertigo",
+    "stefano-landini",
+    "simon-bisley",
+    "shade-the-changing-man",
+    "radical-comics",
+    "hellblazer"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

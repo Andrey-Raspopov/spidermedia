@@ -4,6 +4,11 @@
   "url": "/blog/redson/obzor-shansy-russkoyazychnoe-izdanie-0/",
   "original_url": "http://spidermedia.ru/blog/redson/obzor-shansy-russkoyazychnoe-izdanie-0",
   "archived": "https://web.archive.org/web/20260312004556/http://spidermedia.ru/blog/redson/obzor-shansy-russkoyazychnoe-izdanie-0",
+  "tags": [
+    "bryan-lee-o-malley",
+    "zarubezhnye-komiksy-na-russkom",
+    "komilfo"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

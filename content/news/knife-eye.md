@@ -4,6 +4,12 @@
   "url": "/news/knife-eye/",
   "original_url": "http://spidermedia.ru/news/knife-eye",
   "archived": "https://web.archive.org/web/20210128044104/http://spidermedia.ru/news/knife-eye",
+  "tags": [
+    "erik-pauell",
+    "the-goon",
+    "san-diego-comic-con-international",
+    "dark-horse"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

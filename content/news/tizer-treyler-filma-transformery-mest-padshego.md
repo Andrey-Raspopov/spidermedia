@@ -4,6 +4,12 @@
   "url": "/news/tizer-treyler-filma-transformery-mest-padshego/",
   "original_url": "http://spidermedia.ru/news/tizer-treyler-filma-transformery-mest-padshego",
   "archived": "https://web.archive.org/web/20150501190320/http://spidermedia.ru/news/tizer-treyler-filma-transformery-mest-padshego",
+  "tags": [
+    "kino",
+    "transformers",
+    "majkl-bej",
+    "trejlery"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

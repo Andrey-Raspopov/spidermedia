@@ -4,6 +4,11 @@
   "url": "/comics/judge-dredd-year-one-review/",
   "original_url": "http://spidermedia.ru/comics/judge-dredd-year-one-review",
   "archived": "https://web.archive.org/web/20260312012849/http://spidermedia.ru/comics/judge-dredd-year-one-review",
+  "tags": [
+    "xl-media",
+    "zarubezhnye-komiksy-na-russkom",
+    "judge-dredd"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

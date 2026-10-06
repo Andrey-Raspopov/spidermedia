@@ -4,6 +4,27 @@
   "url": "/news/praktika-haosa/",
   "original_url": "http://spidermedia.ru/news/praktika-haosa",
   "archived": "https://web.archive.org/web/20260214130501/http://spidermedia.ru/news/praktika-haosa",
+  "tags": [
+    "fred-van-lente",
+    "skott-rid",
+    "skaar",
+    "sersi",
+    "khoj-fam",
+    "she-hulk",
+    "greg-pak",
+    "gerkules",
+    "galactus",
+    "venera",
+    "x-men",
+    "venus",
+    "thor",
+    "silver-surfer",
+    "marvel",
+    "hulk",
+    "hercules",
+    "avengers",
+    "amadeus-cho"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

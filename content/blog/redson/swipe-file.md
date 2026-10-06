@@ -4,6 +4,10 @@
   "url": "/blog/redson/swipe-file/",
   "original_url": "http://spidermedia.ru/blog/redson/swipe-file",
   "archived": "https://web.archive.org/web/20111126101732/http://spidermedia.ru/blog/redson/swipe-file",
+  "tags": [
+    "art-0",
+    "marko-dzhurdzhevich"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

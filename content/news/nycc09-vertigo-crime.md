@@ -4,6 +4,16 @@
   "url": "/news/nycc09-vertigo-crime/",
   "original_url": "http://spidermedia.ru/news/nycc09-vertigo-crime",
   "archived": "https://web.archive.org/web/20260312014152/http://spidermedia.ru/news/nycc09-vertigo-crime",
+  "tags": [
+    "peter-milligan",
+    "li-bermeho",
+    "kristos-gejdzh",
+    "bande-dessinée",
+    "brian-azzarello",
+    "vertigo",
+    "nycc-2009",
+    "vertigo-crime"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

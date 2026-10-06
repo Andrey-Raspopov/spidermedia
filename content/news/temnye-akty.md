@@ -4,6 +4,13 @@
   "url": "/news/temnye-akty/",
   "original_url": "http://spidermedia.ru/news/temnye-akty",
   "archived": "https://web.archive.org/web/20250320050522/http://spidermedia.ru/news/temnye-akty",
+  "tags": [
+    "temnoe-pravlenie",
+    "norman-ozborn",
+    "art-0",
+    "list",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

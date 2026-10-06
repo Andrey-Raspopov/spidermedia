@@ -4,6 +4,10 @@
   "url": "/comics/luchshaya-rubrika-o-komiksah-03-supertron/",
   "original_url": "https://spidermedia.ru/comics/luchshaya-rubrika-o-komiksah-03-supertron",
   "archived": "https://web.archive.org/web/20260211094731/https://spidermedia.ru/comics/luchshaya-rubrika-o-komiksah-03-supertron",
+  "tags": [
+    "best-column-about-comics",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

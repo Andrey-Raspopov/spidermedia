@@ -4,6 +4,16 @@
   "url": "/blog/silver/totemnye-napasti/",
   "original_url": "http://spidermedia.ru/blog/silver/totemnye-napasti",
   "archived": "https://web.archive.org/web/20120607115014/http://spidermedia.ru/blog/silver/totemnye-napasti",
+  "tags": [
+    "black-panther",
+    "morlun",
+    "komiksy",
+    "marvel",
+    "morlan",
+    "mysli",
+    "chyornaya-pantera",
+    "shok11"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

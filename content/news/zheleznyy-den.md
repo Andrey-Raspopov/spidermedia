@@ -4,6 +4,18 @@
   "url": "/news/zheleznyy-den/",
   "original_url": "http://spidermedia.ru/news/zheleznyy-den",
   "archived": "https://web.archive.org/web/20120608232850/http://spidermedia.ru/news/zheleznyy-den",
+  "tags": [
+    "iron-man",
+    "iron-man-2",
+    "dzhon-favro",
+    "zheleznyy-chelovek",
+    "zheleznyy-chelovek-2",
+    "kino",
+    "komiksy",
+    "marvel",
+    "preview-s",
+    "robert-dauni-ml"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

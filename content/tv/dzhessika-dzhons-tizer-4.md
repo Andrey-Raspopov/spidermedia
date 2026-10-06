@@ -4,6 +4,10 @@
   "url": "/tv/dzhessika-dzhons-tizer-4/",
   "original_url": "http://spidermedia.ru/tv/dzhessika-dzhons-tizer-4",
   "archived": "https://web.archive.org/web/20260215080610/http://spidermedia.ru/tv/dzhessika-dzhons-tizer-4",
+  "tags": [
+    "marvel",
+    "jessica-jones-alias"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

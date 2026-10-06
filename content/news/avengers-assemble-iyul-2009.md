@@ -4,6 +4,12 @@
   "url": "/news/avengers-assemble-iyul-2009/",
   "original_url": "http://spidermedia.ru/news/avengers-assemble-iyul-2009",
   "archived": "https://web.archive.org/web/20140820092448/http://spidermedia.ru:80/news/avengers-assemble-iyul-2009",
+  "tags": [
+    "comics",
+    "marvel",
+    "avengers",
+    "preview-s"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

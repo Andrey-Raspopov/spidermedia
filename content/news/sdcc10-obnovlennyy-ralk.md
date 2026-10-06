@@ -4,6 +4,18 @@
   "url": "/news/sdcc10-obnovlennyy-ralk/",
   "original_url": "http://spidermedia.ru/news/sdcc10-obnovlennyy-ralk",
   "archived": "https://web.archive.org/web/20260214130427/http://spidermedia.ru/news/sdcc10-obnovlennyy-ralk",
+  "tags": [
+    "rik-dzhons",
+    "ralk",
+    "krasnyj-halk",
+    "san-diego-comic-con-international",
+    "dzheff-parker",
+    "a-bomb",
+    "rulk",
+    "red-hulk",
+    "marvel",
+    "hulk"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

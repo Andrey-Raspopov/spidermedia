@@ -4,6 +4,14 @@
   "url": "/blog/silver/ultimate-dolgostroy/",
   "original_url": "http://spidermedia.ru/blog/silver/ultimate-dolgostroy",
   "archived": "https://web.archive.org/web/20150427041621/http://spidermedia.ru/blog/silver/ultimate-dolgostroy",
+  "tags": [
+    "marvel-comics",
+    "mnenie",
+    "halk",
+    "wolverine",
+    "ultimate",
+    "lejnil-frensis-yu"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

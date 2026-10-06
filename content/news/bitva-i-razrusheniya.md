@@ -4,6 +4,16 @@
   "url": "/news/bitva-i-razrusheniya/",
   "original_url": "http://spidermedia.ru/news/bitva-i-razrusheniya",
   "archived": "https://web.archive.org/web/20120608220708/http://spidermedia.ru/news/bitva-i-razrusheniya",
+  "tags": [
+    "battle-cowl",
+    "dc-comics",
+    "destroyer",
+    "man-bat",
+    "komiksy",
+    "kori-uolker",
+    "marvel",
+    "robert-kirkman"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

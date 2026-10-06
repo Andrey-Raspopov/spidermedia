@@ -4,6 +4,16 @@
   "url": "/news/dc-animated-universe-chto-dalshe/",
   "original_url": "https://spidermedia.ru/news/dc-animated-universe-chto-dalshe",
   "archived": "https://web.archive.org/web/20241004014639/https://spidermedia.ru/news/dc-animated-universe-chto-dalshe",
+  "tags": [
+    "justice-league",
+    "duejn-makdaffi",
+    "dvd",
+    "animaciya",
+    "dwayne-mcduffie",
+    "dc-comics",
+    "superman",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

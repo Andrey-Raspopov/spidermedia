@@ -4,6 +4,11 @@
   "url": "/blog/samm-o/bolshe-disi-mysley-chast-3-softkor-rasputnicy-i-albert-albertson/",
   "original_url": "http://spidermedia.ru/blog/samm-o/bolshe-disi-mysley-chast-3-softkor-rasputnicy-i-albert-albertson",
   "archived": "https://web.archive.org/web/20150501155221/http://spidermedia.ru/blog/samm-o/bolshe-disi-mysley-chast-3-softkor-rasputnicy-i-albert-albertson",
+  "tags": [
+    "dc-comics",
+    "bdsm",
+    "mnenie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/movies/gambit-ostalsya-bez-rezhissyora/",
   "original_url": "http://spidermedia.ru/movies/gambit-ostalsya-bez-rezhissyora",
   "archived": "https://web.archive.org/web/20250717192414/http://spidermedia.ru/movies/gambit-ostalsya-bez-rezhissyora",
+  "tags": [
+    "marvel",
+    "gambit",
+    "x-men"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

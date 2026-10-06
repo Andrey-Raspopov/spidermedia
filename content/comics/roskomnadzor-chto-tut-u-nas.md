@@ -4,6 +4,11 @@
   "url": "/comics/roskomnadzor-chto-tut-u-nas/",
   "original_url": "http://spidermedia.ru/comics/roskomnadzor-chto-tut-u-nas",
   "archived": "https://web.archive.org/web/20251216181201/http://spidermedia.ru/comics/roskomnadzor-chto-tut-u-nas",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "roskomnadzor",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

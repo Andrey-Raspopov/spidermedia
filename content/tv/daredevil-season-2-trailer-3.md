@@ -4,6 +4,11 @@
   "url": "/tv/daredevil-season-2-trailer-3/",
   "original_url": "https://spidermedia.ru/tv/daredevil-season-2-trailer-3",
   "archived": "https://web.archive.org/web/20260313113303/https://spidermedia.ru/tv/daredevil-season-2-trailer-3",
+  "tags": [
+    "marvel",
+    "daredevil",
+    "elektra"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/blog/redson/mzhdz-going-take-all-us/",
   "original_url": "http://spidermedia.ru/blog/redson/mzhdz-going-take-all-us",
   "archived": "https://web.archive.org/web/20240222105700/http://spidermedia.ru/blog/redson/mzhdz-going-take-all-us",
+  "tags": [
+    "mnenie",
+    "mzhdz",
+    "fcbd"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

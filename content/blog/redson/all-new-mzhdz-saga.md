@@ -4,11 +4,17 @@
   "url": "/blog/redson/all-new-mzhdz-saga/",
   "original_url": "https://spidermedia.ru/blog/redson/all-new-mzhdz-saga",
   "archived": "https://web.archive.org/web/20260307063839/https://spidermedia.ru/blog/redson/all-new-mzhdz-saga",
+  "tags": [
+    "mnenie",
+    "mzhdz",
+    "xl-media",
+    "image-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](https://web.archive.org/web/20260307063839im_/http://i.imgur.com/JCbv66a.jpg)](https://web.archive.org/web/20260206215846/http://spidermedia.ru/tags/mzhdz)
+[![](https://web.archive.org/web/20260307063839im_/http://i.imgur.com/JCbv66a.jpg)](../../../tags/mzhdz/)
 ![](https://web.archive.org/web/20260307063839im_/http://i.imgur.com/C69NRO1.jpg)
 В честь скорого (будем надеяться, уже до конца недели) выхода первого тома комикса **Saga** на русском языке от **XL Media** мы решили подготовить спецвыпуск, посвященный этой популярнейшей серии комиксов Брайана К. Вона и Фионы Стейплс. Участие приняли **ВЧ** (Иван Чернявский), **Змеюкина** (Наталия Нестерова) и **redson** (Евгений Еронин). Возможно (будем надеяться, уже до конца недели), этот выпуск МЖДЗ побудит вас пойти в магазин и приобрести "Сагу", даже если вы уже являетесь ее читателем.
 **Автор логотипа - Ярослав Астапеев.**

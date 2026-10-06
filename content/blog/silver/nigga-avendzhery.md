@@ -4,6 +4,12 @@
   "url": "/blog/silver/nigga-avendzhery/",
   "original_url": "http://spidermedia.ru/blog/silver/nigga-avendzhery",
   "archived": "https://web.archive.org/web/20120610051119/http://spidermedia.ru/blog/silver/nigga-avendzhery",
+  "tags": [
+    "avengers",
+    "komiksy",
+    "marvel",
+    "mstiteli"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

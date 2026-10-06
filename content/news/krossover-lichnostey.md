@@ -4,6 +4,13 @@
   "url": "/news/krossover-lichnostey/",
   "original_url": "http://spidermedia.ru/news/krossover-lichnostey",
   "archived": "https://web.archive.org/web/20251111050531/http://spidermedia.ru/news/krossover-lichnostey",
+  "tags": [
+    "stiv-makniven",
+    "li-garbett",
+    "dzhon-lejman",
+    "art-0",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

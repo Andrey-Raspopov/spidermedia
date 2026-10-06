@@ -4,6 +4,11 @@
   "url": "/comics/anonsy-novyh-serij-marvel/",
   "original_url": "https://spidermedia.ru/comics/anonsy-novyh-serij-marvel",
   "archived": "https://web.archive.org/web/20260305230238/https://spidermedia.ru/comics/anonsy-novyh-serij-marvel",
+  "tags": [
+    "marvel",
+    "iron-man",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

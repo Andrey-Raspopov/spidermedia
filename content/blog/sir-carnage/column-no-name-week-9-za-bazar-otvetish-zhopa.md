@@ -4,6 +4,20 @@
   "url": "/blog/sir-carnage/column-no-name-week-9-za-bazar-otvetish-zhopa/",
   "original_url": "https://spidermedia.ru/blog/sir-carnage/column-no-name-week-9-za-bazar-otvetish-zhopa",
   "archived": "https://web.archive.org/web/20260309181225/https://spidermedia.ru/blog/sir-carnage/column-no-name-week-9-za-bazar-otvetish-zhopa",
+  "tags": [
+    "venera",
+    "brian-k-vaughan",
+    "venus",
+    "thunderbolts",
+    "marvel",
+    "idw-publishing",
+    "hellblazer",
+    "gigantic",
+    "dark-horse",
+    "batman",
+    "agenty-atlasa",
+    "the-column-with-no-name"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,13 @@
   "url": "/blog/sterpazook/v-ozhidanii-marvel-vs-capcom-2/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/v-ozhidanii-marvel-vs-capcom-2",
   "archived": "https://web.archive.org/web/20260121000903/http://spidermedia.ru/blog/sterpazook/v-ozhidanii-marvel-vs-capcom-2",
+  "tags": [
+    "ulichnyj-boec",
+    "igry",
+    "wolverine",
+    "street-fighter",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

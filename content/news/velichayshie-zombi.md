@@ -4,6 +4,18 @@
   "url": "/news/velichayshie-zombi/",
   "original_url": "http://spidermedia.ru/news/velichayshie-zombi",
   "archived": "https://web.archive.org/web/20120607185319/http://spidermedia.ru/news/velichayshie-zombi",
+  "tags": [
+    "marvel-zombies",
+    "squadron-supreme",
+    "art-0",
+    "komiksy",
+    "maykl-komark",
+    "marvel",
+    "marvel-zombi-0",
+    "oblozhki",
+    "fernando-blanko",
+    "frenk-morraffino"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

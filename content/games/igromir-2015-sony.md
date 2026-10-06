@@ -4,6 +4,9 @@
   "url": "/games/igromir-2015-sony/",
   "original_url": "http://spidermedia.ru/games/igromir-2015-sony",
   "archived": "https://web.archive.org/web/20251006145450/http://spidermedia.ru/games/igromir-2015-sony",
+  "tags": [
+    "igromir-2015"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

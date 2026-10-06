@@ -4,6 +4,13 @@
   "url": "/news/amazing-spider-man-3-i-4-oficialno-anonsirovany/",
   "original_url": "http://spidermedia.ru/news/amazing-spider-man-3-i-4-oficialno-anonsirovany",
   "archived": "https://web.archive.org/web/20251117005005/http://spidermedia.ru/news/amazing-spider-man-3-i-4-oficialno-anonsirovany",
+  "tags": [
+    "endryu-garfild",
+    "emma-stoun",
+    "mark-uebb",
+    "marvel",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

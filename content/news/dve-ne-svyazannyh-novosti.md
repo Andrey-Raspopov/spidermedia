@@ -4,6 +4,16 @@
   "url": "/news/dve-ne-svyazannyh-novosti/",
   "original_url": "https://spidermedia.ru/news/dve-ne-svyazannyh-novosti",
   "archived": "https://web.archive.org/web/20251108034339/https://spidermedia.ru/news/dve-ne-svyazannyh-novosti",
+  "tags": [
+    "tom-strong",
+    "piter-hogan",
+    "kris-sprauz",
+    "kris-jost",
+    "devid-lopes",
+    "vertigo",
+    "spider-man",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

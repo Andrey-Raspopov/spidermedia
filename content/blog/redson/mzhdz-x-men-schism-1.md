@@ -4,11 +4,16 @@
   "url": "/blog/redson/mzhdz-x-men-schism-1/",
   "original_url": "http://spidermedia.ru/blog/redson/mzhdz-x-men-schism-1",
   "archived": "https://web.archive.org/web/20251116060554/http://spidermedia.ru/blog/redson/mzhdz-x-men-schism-1",
+  "tags": [
+    "mnenie",
+    "mzhdz",
+    "x-men"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](https://web.archive.org/web/20251116060554im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz.png)](https://web.archive.org/web/20260206215846/http://spidermedia.ru/tags/mzhdz)
+[![](https://web.archive.org/web/20251116060554im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz.png)](../../../tags/mzhdz/)
 ![](https://web.archive.org/web/20251116060554im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/yeah.jpg)
 Мы прочли ради вас (ради вас?) первый выпуск самого важного комикса о Людях Икс 2011-го года. В этом году не было важнее комикса о Людях Икс! Если вам кто-то скажет, что был – не верьте, этот важнее всех. И мы его прочли. Ради вас.
 [Расшифровка системы оценок](../mzhdz-odin-vy-kak-hotite-ya-kak-hochu/).

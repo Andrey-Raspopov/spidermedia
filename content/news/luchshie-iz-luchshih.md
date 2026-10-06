@@ -4,6 +4,13 @@
   "url": "/news/luchshie-iz-luchshih/",
   "original_url": "http://spidermedia.ru/news/luchshie-iz-luchshih",
   "archived": "https://web.archive.org/web/20160917071245/http://spidermedia.ru:80/news/luchshie-iz-luchshih",
+  "tags": [
+    "tizery",
+    "voploshhenie-straha",
+    "art-0",
+    "marvel",
+    "fear-itself"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

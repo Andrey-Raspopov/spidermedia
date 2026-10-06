@@ -4,6 +4,11 @@
   "url": "/news/dedpulomaniya/",
   "original_url": "http://spidermedia.ru/news/dedpulomaniya",
   "archived": "https://web.archive.org/web/20220813143132/http://spidermedia.ru/news/dedpulomaniya",
+  "tags": [
+    "deadpool",
+    "x-men",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

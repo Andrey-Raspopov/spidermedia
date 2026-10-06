@@ -4,6 +4,13 @@
   "url": "/news/im-bloody-ninja/",
   "original_url": "http://spidermedia.ru/news/im-bloody-ninja",
   "archived": "https://web.archive.org/web/20251207102652/http://spidermedia.ru/news/im-bloody-ninja",
+  "tags": [
+    "sem-hampris",
+    "ron-garni",
+    "iks-fors",
+    "x-force",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

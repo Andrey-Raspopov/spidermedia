@@ -4,6 +4,10 @@
   "url": "/comics/red-stallion-review/",
   "original_url": "https://spidermedia.ru/comics/red-stallion-review",
   "archived": "https://web.archive.org/web/20260116222436/https://spidermedia.ru/comics/red-stallion-review",
+  "tags": [
+    "izdatelstvo-42",
+    "russian-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/comics/mzhdz-time-and-space/",
   "original_url": "http://spidermedia.ru/comics/mzhdz-time-and-space",
   "archived": "https://web.archive.org/web/20160924010910/http://spidermedia.ru:80/comics/mzhdz-time-and-space",
+  "tags": [
+    "mzhdz"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

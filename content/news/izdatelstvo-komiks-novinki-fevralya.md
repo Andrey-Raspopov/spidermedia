@@ -4,6 +4,14 @@
   "url": "/news/izdatelstvo-komiks-novinki-fevralya/",
   "original_url": "http://spidermedia.ru/news/izdatelstvo-komiks-novinki-fevralya",
   "archived": "https://web.archive.org/web/20260125055626/http://spidermedia.ru/news/izdatelstvo-komiks-novinki-fevralya",
+  "tags": [
+    "lyudi-iks-pervyj-klass",
+    "izdatelstvo-komiks",
+    "zarubezhnye-komiksy-na-russkom",
+    "x-men-first-class",
+    "spider-man",
+    "avengers"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

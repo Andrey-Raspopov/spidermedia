@@ -4,6 +4,13 @@
   "url": "/news/shoot-thrill/",
   "original_url": "http://spidermedia.ru/news/shoot-thrill",
   "archived": "https://web.archive.org/web/20250909132626/http://spidermedia.ru/news/shoot-thrill",
+  "tags": [
+    "thrillbent",
+    "cifrovye-komiksy",
+    "piter-krauze",
+    "dzhon-rodzhers",
+    "mark-waid"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

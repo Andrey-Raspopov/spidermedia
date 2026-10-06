@@ -4,6 +4,17 @@
   "url": "/news/dazhe-u-bakki-dolzhen-byt-bakki/",
   "original_url": "http://spidermedia.ru/news/dazhe-u-bakki-dolzhen-byt-bakki",
   "archived": "https://web.archive.org/web/20120607175438/http://spidermedia.ru/news/dazhe-u-bakki-dolzhen-byt-bakki",
+  "tags": [
+    "bucky",
+    "captain-america",
+    "rikki-barnes",
+    "bakki",
+    "kapitan-amerika",
+    "komiksy",
+    "marvel",
+    "rikki-barns",
+    "ugadayka"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

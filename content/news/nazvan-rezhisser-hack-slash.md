@@ -4,6 +4,10 @@
   "url": "/news/nazvan-rezhisser-hack-slash/",
   "original_url": "https://spidermedia.ru/news/nazvan-rezhisser-hack-slash",
   "archived": "https://web.archive.org/web/20250419042327/https://spidermedia.ru/news/nazvan-rezhisser-hack-slash",
+  "tags": [
+    "hackslash",
+    "devils-due-publishing"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

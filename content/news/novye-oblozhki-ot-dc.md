@@ -4,6 +4,20 @@
   "url": "/news/novye-oblozhki-ot-dc/",
   "original_url": "http://spidermedia.ru/news/novye-oblozhki-ot-dc",
   "archived": "https://web.archive.org/web/20260116224638/http://spidermedia.ru/news/novye-oblozhki-ot-dc",
+  "tags": [
+    "dc-comics",
+    "batman",
+    "the-flash",
+    "dastin-nguen",
+    "ethan-van-sciver",
+    "krasnyj-robin",
+    "red-robin",
+    "justice-league",
+    "francis-manapul",
+    "tony-daniel",
+    "dustin-nguyen",
+    "frensis-manapul"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/figurki/hot-toys-winter-cap/",
   "original_url": "http://spidermedia.ru/figurki/hot-toys-winter-cap",
   "archived": "https://web.archive.org/web/20251213183745/http://spidermedia.ru/figurki/hot-toys-winter-cap",
+  "tags": [
+    "marvel",
+    "winter-soldier",
+    "captain-america"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

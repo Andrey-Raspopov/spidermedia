@@ -4,6 +4,11 @@
   "url": "/comics/jessica-jones-bendis-finale-review/",
   "original_url": "http://spidermedia.ru/comics/jessica-jones-bendis-finale-review",
   "archived": "https://web.archive.org/web/20251108194449/http://spidermedia.ru/comics/jessica-jones-bendis-finale-review",
+  "tags": [
+    "marvel",
+    "brian-michael-bendis",
+    "jessica-jones-alias"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

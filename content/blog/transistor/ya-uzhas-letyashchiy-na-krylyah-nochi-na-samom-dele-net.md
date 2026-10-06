@@ -4,6 +4,9 @@
   "url": "/blog/transistor/ya-uzhas-letyashchiy-na-krylyah-nochi-na-samom-dele-net/",
   "original_url": "https://spidermedia.ru/blog/transistor/ya-uzhas-letyashchiy-na-krylyah-nochi-na-samom-dele-net",
   "archived": "https://web.archive.org/web/20250814210137/https://spidermedia.ru/blog/transistor/ya-uzhas-letyashchiy-na-krylyah-nochi-na-samom-dele-net",
+  "tags": [
+    "temnyj-rycar"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,13 @@
   "url": "/news/zaraza-k-zaraze/",
   "original_url": "http://spidermedia.ru/news/zaraza-k-zaraze",
   "archived": "https://web.archive.org/web/20260214135842/http://spidermedia.ru/news/zaraza-k-zaraze",
+  "tags": [
+    "tom-fauler",
+    "rik-remender",
+    "venom",
+    "spider-island",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

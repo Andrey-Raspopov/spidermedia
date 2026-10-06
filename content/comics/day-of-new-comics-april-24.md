@@ -4,6 +4,9 @@
   "url": "/comics/day-of-new-comics-april-24/",
   "original_url": "http://spidermedia.ru/comics/day-of-new-comics-april-24",
   "archived": "https://web.archive.org/web/20190917185450/http://spidermedia.ru/comics/day-of-new-comics-april-24",
+  "tags": [
+    "den-novyh-komiksov"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,15 @@
   "url": "/news/alfa-i-omega/",
   "original_url": "http://spidermedia.ru/news/alfa-i-omega",
   "archived": "https://web.archive.org/web/20241105154244/http://spidermedia.ru/news/alfa-i-omega",
+  "tags": [
+    "wolverine",
+    "roland-boski",
+    "mark-bruks",
+    "kventin-kvajer",
+    "brian-wood",
+    "x-men",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

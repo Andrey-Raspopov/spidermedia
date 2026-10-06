@@ -4,6 +4,13 @@
   "url": "/news/yadovitaya-zhenshchina/",
   "original_url": "http://spidermedia.ru/news/yadovitaya-zhenshchina",
   "archived": "https://web.archive.org/web/20260209123340/http://spidermedia.ru/news/yadovitaya-zhenshchina",
+  "tags": [
+    "dc-comics",
+    "batman",
+    "igry",
+    "arkham-asylum",
+    "poison-ivy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

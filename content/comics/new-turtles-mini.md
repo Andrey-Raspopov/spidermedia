@@ -4,6 +4,10 @@
   "url": "/comics/new-turtles-mini/",
   "original_url": "http://spidermedia.ru/comics/new-turtles-mini",
   "archived": "https://web.archive.org/web/20260125053603/http://spidermedia.ru/comics/new-turtles-mini",
+  "tags": [
+    "idw-publishing",
+    "ninja-turtles"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

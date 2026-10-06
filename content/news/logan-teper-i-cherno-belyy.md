@@ -4,6 +4,15 @@
   "url": "/news/logan-teper-i-cherno-belyy/",
   "original_url": "http://spidermedia.ru/news/logan-teper-i-cherno-belyy",
   "archived": "https://web.archive.org/web/20120608032252/http://spidermedia.ru/news/logan-teper-i-cherno-belyy",
+  "tags": [
+    "wolverine",
+    "art-0",
+    "komiksy",
+    "kris-yost",
+    "marvel",
+    "oblozhki",
+    "rosomaha"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

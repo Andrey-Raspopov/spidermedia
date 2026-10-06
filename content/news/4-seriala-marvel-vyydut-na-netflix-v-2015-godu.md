@@ -4,6 +4,13 @@
   "url": "/news/4-seriala-marvel-vyydut-na-netflix-v-2015-godu/",
   "original_url": "http://spidermedia.ru/news/4-seriala-marvel-vyydut-na-netflix-v-2015-godu",
   "archived": "https://web.archive.org/web/20260115064750/http://spidermedia.ru/news/4-seriala-marvel-vyydut-na-netflix-v-2015-godu",
+  "tags": [
+    "marvel",
+    "iron-fist",
+    "jessica-jones-alias",
+    "luke-cage",
+    "daredevil"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

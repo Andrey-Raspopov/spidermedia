@@ -4,6 +4,12 @@
   "url": "/blog/naya/i-am-piano/",
   "original_url": "http://spidermedia.ru/blog/naya/i-am-piano",
   "archived": "https://web.archive.org/web/20120607132326/http://spidermedia.ru/blog/naya/i-am-piano",
+  "tags": [
+    "manga",
+    "one-shot",
+    "slice-life",
+    "skachat"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

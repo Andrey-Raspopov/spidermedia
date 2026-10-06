@@ -4,6 +4,11 @@
   "url": "/news/dedpul-vyydet-na-ekrany-v-2016-godu/",
   "original_url": "http://spidermedia.ru/news/dedpul-vyydet-na-ekrany-v-2016-godu",
   "archived": "https://web.archive.org/web/20260211091228/http://spidermedia.ru/news/dedpul-vyydet-na-ekrany-v-2016-godu",
+  "tags": [
+    "marvel",
+    "x-men",
+    "deadpool"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

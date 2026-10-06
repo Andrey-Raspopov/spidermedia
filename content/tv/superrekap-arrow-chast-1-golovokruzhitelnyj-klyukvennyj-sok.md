@@ -4,6 +4,9 @@
   "url": "/tv/superrekap-arrow-chast-1-golovokruzhitelnyj-klyukvennyj-sok/",
   "original_url": "http://spidermedia.ru/tv/superrekap-arrow-chast-1-golovokruzhitelnyj-klyukvennyj-sok",
   "archived": "https://web.archive.org/web/20260211090946/http://spidermedia.ru/tv/superrekap-arrow-chast-1-golovokruzhitelnyj-klyukvennyj-sok",
+  "tags": [
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

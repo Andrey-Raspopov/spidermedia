@@ -4,6 +4,14 @@
   "url": "/news/pervyy-kadr-iz-filma-mstiteli/",
   "original_url": "http://spidermedia.ru/news/pervyy-kadr-iz-filma-mstiteli",
   "archived": "https://web.archive.org/web/20120607114711/http://spidermedia.ru/news/pervyy-kadr-iz-filma-mstiteli",
+  "tags": [
+    "avengers",
+    "bruce-banner",
+    "bryus-benner",
+    "kino",
+    "marvel",
+    "mstiteli"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

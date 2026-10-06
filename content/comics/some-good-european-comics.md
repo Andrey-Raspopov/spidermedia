@@ -4,6 +4,9 @@
   "url": "/comics/some-good-european-comics/",
   "original_url": "http://spidermedia.ru/comics/some-good-european-comics",
   "archived": "https://web.archive.org/web/20210920042058/http://spidermedia.ru/comics/some-good-european-comics",
+  "tags": [
+    "bande-dessinée"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/news/originalnyy-kvazar-vozvrashchaetsya-otchasti/",
   "original_url": "http://spidermedia.ru/news/originalnyy-kvazar-vozvrashchaetsya-otchasti",
   "archived": "https://web.archive.org/web/20250709071436/http://spidermedia.ru/news/originalnyy-kvazar-vozvrashchaetsya-otchasti",
+  "tags": [
+    "nova",
+    "kvazar",
+    "quasar",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

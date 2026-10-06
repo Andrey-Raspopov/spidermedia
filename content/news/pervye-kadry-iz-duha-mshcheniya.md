@@ -4,6 +4,10 @@
   "url": "/news/pervye-kadry-iz-duha-mshcheniya/",
   "original_url": "https://spidermedia.ru/news/pervye-kadry-iz-duha-mshcheniya",
   "archived": "https://web.archive.org/web/20251108195634/https://spidermedia.ru/news/pervye-kadry-iz-duha-mshcheniya",
+  "tags": [
+    "marvel",
+    "prizrachnyj-gonshhik"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

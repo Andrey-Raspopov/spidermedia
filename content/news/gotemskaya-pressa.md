@@ -4,6 +4,13 @@
   "url": "/news/gotemskaya-pressa/",
   "original_url": "http://spidermedia.ru/news/gotemskaya-pressa",
   "archived": "https://web.archive.org/web/20120718082017/http://spidermedia.ru/news/gotemskaya-pressa",
+  "tags": [
+    "batman",
+    "dc-comics",
+    "art-0",
+    "komiksy",
+    "preview-s"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

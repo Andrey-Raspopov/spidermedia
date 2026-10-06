@@ -4,6 +4,10 @@
   "url": "/movies/chelovek-pauk-vozvrashhenie-domoj-vtoroj-trejler/",
   "original_url": "https://spidermedia.ru/movies/chelovek-pauk-vozvrashhenie-domoj-vtoroj-trejler",
   "archived": "https://web.archive.org/web/20251115035131/https://spidermedia.ru/movies/chelovek-pauk-vozvrashhenie-domoj-vtoroj-trejler",
+  "tags": [
+    "marvel",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/blog/sir-carnage/column-no-name-7-04-10-not-how-world-ends/",
   "original_url": "http://spidermedia.ru/blog/sir-carnage/column-no-name-7-04-10-not-how-world-ends",
   "archived": "https://web.archive.org/web/20240416052939/http://spidermedia.ru/blog/sir-carnage/column-no-name-7-04-10-not-how-world-ends",
+  "tags": [
+    "marvel",
+    "image-comics",
+    "dc-comics",
+    "the-column-with-no-name"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

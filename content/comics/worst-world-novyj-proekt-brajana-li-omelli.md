@@ -4,6 +4,9 @@
   "url": "/comics/worst-world-novyj-proekt-brajana-li-omelli/",
   "original_url": "http://spidermedia.ru/comics/worst-world-novyj-proekt-brajana-li-omelli",
   "archived": "https://web.archive.org/web/20200218015813/http://spidermedia.ru:80/comics/worst-world-novyj-proekt-brajana-li-omelli",
+  "tags": [
+    "bryan-lee-o-malley"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

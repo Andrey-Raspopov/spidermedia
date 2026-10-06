@@ -4,6 +4,11 @@
   "url": "/news/eksklyuziv-prevyu-neuyazvimogo-no16/",
   "original_url": "https://spidermedia.ru/news/eksklyuziv-prevyu-neuyazvimogo-no16",
   "archived": "https://web.archive.org/web/20250808212934/https://spidermedia.ru/news/eksklyuziv-prevyu-neuyazvimogo-no16",
+  "tags": [
+    "invincible",
+    "izdatelstvo-42",
+    "zarubezhnye-komiksy-na-russkom"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,10 @@
   "url": "/comics/through-the-woods-by-jj-review/",
   "original_url": "http://spidermedia.ru/comics/through-the-woods-by-jj-review",
   "archived": "https://web.archive.org/web/20220703150557/http://spidermedia.ru/comics/through-the-woods-by-jj-review",
+  "tags": [
+    "jellyfish-jam",
+    "zarubezhnye-komiksy-na-russkom"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

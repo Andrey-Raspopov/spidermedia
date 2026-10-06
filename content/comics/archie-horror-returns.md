@@ -4,6 +4,11 @@
   "url": "/comics/archie-horror-returns/",
   "original_url": "http://spidermedia.ru/comics/archie-horror-returns",
   "archived": "https://web.archive.org/web/20260214142233/http://spidermedia.ru/comics/archie-horror-returns",
+  "tags": [
+    "archie-comics",
+    "roberto-agirre-sakasa",
+    "franchesko-frankavilla"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/blog/sterpazook/battletoads-i-drugie-zhivotnye/",
   "original_url": "https://spidermedia.ru/blog/sterpazook/battletoads-i-drugie-zhivotnye",
   "archived": "https://web.archive.org/web/20250807011411/https://spidermedia.ru/blog/sterpazook/battletoads-i-drugie-zhivotnye",
+  "tags": [
+    "igry",
+    "animaciya",
+    "nintendo"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

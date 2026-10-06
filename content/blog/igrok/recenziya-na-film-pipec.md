@@ -4,6 +4,12 @@
   "url": "/blog/igrok/recenziya-na-film-pipec/",
   "original_url": "https://spidermedia.ru/blog/igrok/recenziya-na-film-pipec",
   "archived": "https://web.archive.org/web/20260309180500/https://spidermedia.ru/blog/igrok/recenziya-na-film-pipec",
+  "tags": [
+    "recenziya",
+    "mettyu-von",
+    "mark-millar",
+    "kick-ass"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

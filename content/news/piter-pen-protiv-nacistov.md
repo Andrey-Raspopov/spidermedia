@@ -4,6 +4,12 @@
   "url": "/news/piter-pen-protiv-nacistov/",
   "original_url": "http://spidermedia.ru/news/piter-pen-protiv-nacistov",
   "archived": "https://web.archive.org/web/20260116221534/http://spidermedia.ru/news/piter-pen-protiv-nacistov",
+  "tags": [
+    "serialy",
+    "peter-panzerfaust",
+    "motion-comics",
+    "image-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

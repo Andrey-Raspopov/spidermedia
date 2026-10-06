@@ -4,6 +4,10 @@
   "url": "/news/dzheyms-speyder-sygraet-altrona/",
   "original_url": "http://spidermedia.ru/news/dzheyms-speyder-sygraet-altrona",
   "archived": "https://web.archive.org/web/20230922091239/http://spidermedia.ru/news/dzheyms-speyder-sygraet-altrona",
+  "tags": [
+    "avengers",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

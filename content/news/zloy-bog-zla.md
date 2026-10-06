@@ -4,6 +4,12 @@
   "url": "/news/zloy-bog-zla/",
   "original_url": "http://spidermedia.ru/news/zloy-bog-zla",
   "archived": "https://web.archive.org/web/20200131103439/http://spidermedia.ru:80/news/zloy-bog-zla",
+  "tags": [
+    "marvel",
+    "roberto-agirre-sakasa",
+    "loki",
+    "sebastyan-fiumara"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

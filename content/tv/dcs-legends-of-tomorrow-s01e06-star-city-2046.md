@@ -4,13 +4,16 @@
   "url": "/tv/dcs-legends-of-tomorrow-s01e06-star-city-2046/",
   "original_url": "http://spidermedia.ru/tv/dcs-legends-of-tomorrow-s01e06-star-city-2046",
   "archived": "https://web.archive.org/web/20250717194448/http://spidermedia.ru/tv/dcs-legends-of-tomorrow-s01e06-star-city-2046",
+  "tags": [
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
 ТВ: [Легенды завтрашнего дня](https://web.archive.org/web/20260120151247/http://spidermedia.ru/tv-index/dc-comics/legends-of-tomorrow-tv-series-2016)
 
-«Легенды завтрашнего постапокалиптического дня» снова с вами. В этот раз наша специальная команда в лице эксперта по [играм](https://web.archive.org/web/20260312021155/https://spidermedia.ru/games) Сергея Мангасарова, ведущего рубрики [All Things Valiant](https://web.archive.org/web/20260123081802/http://spidermedia.ru/tags/valiant-entertainment) Дмитрия Андреев и [Суперрекапера](https://web.archive.org/web/20260312005123/http://spidermedia.ru/tags/supergirl) Александра Тарасова наблюдает за одноруким бандитом, Diversity-Зеленой-стрелой и малобюджетным Ману Беннеттом. Мы раскроем для вас все тайны сериала: от «Болезни Стрелы» до «Метода Штайна».
+«Легенды завтрашнего постапокалиптического дня» снова с вами. В этот раз наша специальная команда в лице эксперта по [играм](https://web.archive.org/web/20260312021155/https://spidermedia.ru/games) Сергея Мангасарова, ведущего рубрики [All Things Valiant](../../tags/valiant-entertainment/) Дмитрия Андреев и [Суперрекапера](../../tags/supergirl/) Александра Тарасова наблюдает за одноруким бандитом, Diversity-Зеленой-стрелой и малобюджетным Ману Беннеттом. Мы раскроем для вас все тайны сериала: от «Болезни Стрелы» до «Метода Штайна».
 
 ## ВНИМАНИЕ! ПРИСУТСТВУЮТ СПОЙЛЕРЫ!
 

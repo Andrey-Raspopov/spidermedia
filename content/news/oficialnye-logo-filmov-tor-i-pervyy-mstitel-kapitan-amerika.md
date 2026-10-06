@@ -4,6 +4,11 @@
   "url": "/news/oficialnye-logo-filmov-tor-i-pervyy-mstitel-kapitan-amerika/",
   "original_url": "http://spidermedia.ru/news/oficialnye-logo-filmov-tor-i-pervyy-mstitel-kapitan-amerika",
   "archived": "https://web.archive.org/web/20241004025627/http://spidermedia.ru/news/oficialnye-logo-filmov-tor-i-pervyy-mstitel-kapitan-amerika",
+  "tags": [
+    "thor",
+    "marvel",
+    "captain-america"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

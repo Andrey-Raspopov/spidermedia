@@ -4,6 +4,12 @@
   "url": "/news/plohoy-god-dlya-rasistov/",
   "original_url": "https://spidermedia.ru/news/plohoy-god-dlya-rasistov",
   "archived": "https://web.archive.org/web/20260116221151/https://spidermedia.ru/news/plohoy-god-dlya-rasistov",
+  "tags": [
+    "invincible",
+    "image-comics",
+    "robert-kirkman",
+    "ryan-ottley"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

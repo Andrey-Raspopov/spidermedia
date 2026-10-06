@@ -4,6 +4,15 @@
   "url": "/news/zatimapimsya/",
   "original_url": "http://spidermedia.ru/news/zatimapimsya",
   "archived": "https://web.archive.org/web/20251207093838/http://spidermedia.ru/news/zatimapimsya",
+  "tags": [
+    "fred-van-lente",
+    "umberto-ramos",
+    "deadpool",
+    "gerkules",
+    "art-0",
+    "marvel",
+    "hercules"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

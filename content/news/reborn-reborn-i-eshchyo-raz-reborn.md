@@ -4,6 +4,17 @@
   "url": "/news/reborn-reborn-i-eshchyo-raz-reborn/",
   "original_url": "http://spidermedia.ru/news/reborn-reborn-i-eshchyo-raz-reborn",
   "archived": "https://web.archive.org/web/20260309190733/http://spidermedia.ru/news/reborn-reborn-i-eshchyo-raz-reborn",
+  "tags": [
+    "ed-brubaker",
+    "tom-brevot",
+    "norman-osborn",
+    "krasnyj-cherep",
+    "bryan-hitch",
+    "red-skull",
+    "reborn",
+    "marvel",
+    "captain-america"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

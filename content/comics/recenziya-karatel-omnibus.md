@@ -4,6 +4,10 @@
   "url": "/comics/recenziya-karatel-omnibus/",
   "original_url": "https://spidermedia.ru/comics/recenziya-karatel-omnibus",
   "archived": "https://web.archive.org/web/20251216125828/https://spidermedia.ru/comics/recenziya-karatel-omnibus",
+  "tags": [
+    "fanzon",
+    "zarubezhnye-komiksy-na-russkom"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

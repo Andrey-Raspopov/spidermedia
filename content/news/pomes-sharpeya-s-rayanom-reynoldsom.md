@@ -4,6 +4,9 @@
   "url": "/news/pomes-sharpeya-s-rayanom-reynoldsom/",
   "original_url": "http://spidermedia.ru/news/pomes-sharpeya-s-rayanom-reynoldsom",
   "archived": "https://web.archive.org/web/20190216233514/http://spidermedia.ru:80/news/pomes-sharpeya-s-rayanom-reynoldsom",
+  "tags": [
+    "deadpool"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

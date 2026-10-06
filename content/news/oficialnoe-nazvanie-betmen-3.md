@@ -4,6 +4,10 @@
   "url": "/news/oficialnoe-nazvanie-betmen-3/",
   "original_url": "https://spidermedia.ru/news/oficialnoe-nazvanie-betmen-3",
   "archived": "https://web.archive.org/web/20250518130449/https://spidermedia.ru/news/oficialnoe-nazvanie-betmen-3",
+  "tags": [
+    "dark-knight-rises",
+    "batman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

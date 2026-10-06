@@ -4,6 +4,10 @@
   "url": "/comics/sdcc-2015-vertigo-comics-fall-announcements/",
   "original_url": "http://spidermedia.ru/comics/sdcc-2015-vertigo-comics-fall-announcements",
   "archived": "https://web.archive.org/web/20251207013104/http://spidermedia.ru/comics/sdcc-2015-vertigo-comics-fall-announcements",
+  "tags": [
+    "vertigo",
+    "san-diego-comic-con-international"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/news/vragi-gosudarstva/",
   "original_url": "http://spidermedia.ru/news/vragi-gosudarstva",
   "archived": "https://web.archive.org/web/20250807010118/http://spidermedia.ru/news/vragi-gosudarstva",
+  "tags": [
+    "dc-comics",
+    "animaciya",
+    "batman",
+    "superman"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,14 @@
   "url": "/news/novyy-kostyum-magneto-v-filme-lyudi-iks-dni-minuvshego-budushchego/",
   "original_url": "http://spidermedia.ru/news/novyy-kostyum-magneto-v-filme-lyudi-iks-dni-minuvshego-budushchego",
   "archived": "https://web.archive.org/web/20260309003402/http://spidermedia.ru/news/novyy-kostyum-magneto-v-filme-lyudi-iks-dni-minuvshego-budushchego",
+  "tags": [
+    "x-men",
+    "lyudi-iks-pervyj-klass",
+    "days-of-future-past",
+    "magneto",
+    "zver",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

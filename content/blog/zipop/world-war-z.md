@@ -4,6 +4,10 @@
   "url": "/blog/zipop/world-war-z/",
   "original_url": "http://spidermedia.ru/blog/zipop/world-war-z",
   "archived": "https://web.archive.org/web/20251206162328/http://spidermedia.ru/blog/zipop/world-war-z",
+  "tags": [
+    "maks-bruks",
+    "zombie"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

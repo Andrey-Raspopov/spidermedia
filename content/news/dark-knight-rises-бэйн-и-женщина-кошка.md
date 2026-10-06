@@ -4,6 +4,15 @@
   "url": "/news/dark-knight-rises-бэйн-и-женщина-кошка/",
   "original_url": "http://www.spidermedia.ru/news/dark-knight-rises-%D0%B1%D1%8D%D0%B9%D0%BD-%D0%B8-%D0%B6%D0%B5%D0%BD%D1%89%D0%B8%D0%BD%D0%B0-%D0%BA%D0%BE%D1%88%D0%BA%D0%B0",
   "archived": "https://web.archive.org/web/20110124135137/http://www.spidermedia.ru:80/news/dark-knight-rises-%D0%B1%D1%8D%D0%B9%D0%BD-%D0%B8-%D0%B6%D0%B5%D0%BD%D1%89%D0%B8%D0%BD%D0%B0-%D0%BA%D0%BE%D1%88%D0%BA%D0%B0",
+  "tags": [
+    "dark-knight-rises",
+    "dc-0",
+    "бэтмен",
+    "женщина-кошка",
+    "кино",
+    "комиксы",
+    "кристофер-нолан"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

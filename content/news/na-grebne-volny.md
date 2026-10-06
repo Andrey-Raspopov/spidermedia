@@ -4,6 +4,12 @@
   "url": "/news/na-grebne-volny/",
   "original_url": "http://spidermedia.ru/news/na-grebne-volny",
   "archived": "https://web.archive.org/web/20250320042115/http://spidermedia.ru/news/na-grebne-volny",
+  "tags": [
+    "karlo-pagulayan",
+    "greg-pak",
+    "stiven-segoviya",
+    "silver-surfer"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/news/zelenyy-reys/",
   "original_url": "https://spidermedia.ru/news/zelenyy-reys",
   "archived": "https://web.archive.org/web/20260206215626/https://spidermedia.ru/news/zelenyy-reys",
+  "tags": [
+    "ajvan-rejs",
+    "green-lantern",
+    "dc-comics",
+    "blackest-night"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

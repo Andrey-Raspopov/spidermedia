@@ -4,6 +4,12 @@
   "url": "/comics/sdcc-2015-larry-hama-g-i-joe-cobra-world-order/",
   "original_url": "http://spidermedia.ru/comics/sdcc-2015-larry-hama-g-i-joe-cobra-world-order",
   "archived": "https://web.archive.org/web/20260125070021/http://spidermedia.ru/comics/sdcc-2015-larry-hama-g-i-joe-cobra-world-order",
+  "tags": [
+    "gi-joe",
+    "larri-hama",
+    "san-diego-comic-con-international",
+    "idw-publishing"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

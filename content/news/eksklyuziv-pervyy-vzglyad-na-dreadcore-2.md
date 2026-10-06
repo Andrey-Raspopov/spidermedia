@@ -4,6 +4,10 @@
   "url": "/news/eksklyuziv-pervyy-vzglyad-na-dreadcore-2/",
   "original_url": "https://spidermedia.ru/news/eksklyuziv-pervyy-vzglyad-na-dreadcore-2",
   "archived": "https://web.archive.org/web/20251018223546/https://spidermedia.ru/news/eksklyuziv-pervyy-vzglyad-na-dreadcore-2",
+  "tags": [
+    "preview",
+    "izdatelstvo-42"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

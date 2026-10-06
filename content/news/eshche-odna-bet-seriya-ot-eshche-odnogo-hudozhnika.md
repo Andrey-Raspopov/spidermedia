@@ -4,6 +4,11 @@
   "url": "/news/eshche-odna-bet-seriya-ot-eshche-odnogo-hudozhnika/",
   "original_url": "https://spidermedia.ru/news/eshche-odna-bet-seriya-ot-eshche-odnogo-hudozhnika",
   "archived": "https://web.archive.org/web/20250425210730/https://spidermedia.ru/news/eshche-odna-bet-seriya-ot-eshche-odnogo-hudozhnika",
+  "tags": [
+    "betvuman",
+    "dc-comics",
+    "j.h.-williams"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

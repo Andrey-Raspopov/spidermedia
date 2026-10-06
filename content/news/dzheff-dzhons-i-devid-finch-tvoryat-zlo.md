@@ -4,6 +4,16 @@
   "url": "/news/dzheff-dzhons-i-devid-finch-tvoryat-zlo/",
   "original_url": "http://spidermedia.ru/news/dzheff-dzhons-i-devid-finch-tvoryat-zlo",
   "archived": "https://web.archive.org/web/20251207101208/http://spidermedia.ru/news/dzheff-dzhons-i-devid-finch-tvoryat-zlo",
+  "tags": [
+    "skott-iton",
+    "piter-tomasi",
+    "patrik-zircher",
+    "mett-kindt",
+    "devid-finch",
+    "geoff-johns",
+    "brian-buccellato",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

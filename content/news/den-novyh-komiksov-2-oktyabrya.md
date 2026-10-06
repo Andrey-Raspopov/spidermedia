@@ -4,6 +4,9 @@
   "url": "/news/den-novyh-komiksov-2-oktyabrya/",
   "original_url": "http://spidermedia.ru/news/den-novyh-komiksov-2-oktyabrya",
   "archived": "https://web.archive.org/web/20250214232953/http://spidermedia.ru/news/den-novyh-komiksov-2-oktyabrya",
+  "tags": [
+    "den-novyh-komiksov"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

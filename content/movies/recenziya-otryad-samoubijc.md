@@ -4,6 +4,12 @@
   "url": "/movies/recenziya-otryad-samoubijc/",
   "original_url": "https://spidermedia.ru/movies/recenziya-otryad-samoubijc",
   "archived": "https://web.archive.org/web/20260306001500/https://spidermedia.ru/movies/recenziya-otryad-samoubijc",
+  "tags": [
+    "dc-comics",
+    "joker",
+    "suicide-squad",
+    "harli-kvin"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/news/risuem-komiksy-so-stenom-li-teper-i-v-rossii/",
   "original_url": "http://spidermedia.ru/news/risuem-komiksy-so-stenom-li-teper-i-v-rossii",
   "archived": "https://web.archive.org/web/20260211180742/http://spidermedia.ru/news/risuem-komiksy-so-stenom-li-teper-i-v-rossii",
+  "tags": [
+    "eksmo",
+    "industriya",
+    "zarubezhnye-komiksy-na-russkom"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

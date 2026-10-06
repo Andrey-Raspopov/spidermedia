@@ -4,6 +4,13 @@
   "url": "/blog/alex/smolvil-smallville-s9-ep6-perekryostnyy-ogon-crossfire/",
   "original_url": "https://spidermedia.ru/blog/alex/smolvil-smallville-s9-ep6-perekryostnyy-ogon-crossfire",
   "archived": "https://web.archive.org/web/20251006142159/https://spidermedia.ru/blog/alex/smolvil-smallville-s9-ep6-perekryostnyy-ogon-crossfire",
+  "tags": [
+    "smallville",
+    "smollvill",
+    "superman",
+    "tajny-smollvillya",
+    "serialy"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

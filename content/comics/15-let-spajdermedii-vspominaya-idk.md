@@ -4,6 +4,11 @@
   "url": "/comics/15-let-spajdermedii-vspominaya-idk/",
   "original_url": "http://spidermedia.ru/comics/15-let-spajdermedii-vspominaya-idk",
   "archived": "https://web.archive.org/web/20260123075947/http://spidermedia.ru/comics/15-let-spajdermedii-vspominaya-idk",
+  "tags": [
+    "spidermedia-15th-anniversary",
+    "zarubezhnye-komiksy-na-russkom",
+    "izdatelstvo-komiks"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

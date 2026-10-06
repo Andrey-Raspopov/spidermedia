@@ -4,6 +4,12 @@
   "url": "/news/301-drug-oushena/",
   "original_url": "http://spidermedia.ru/news/301-drug-oushena",
   "archived": "https://web.archive.org/web/20120608171600/http://spidermedia.ru/news/301-drug-oushena",
+  "tags": [
+    "300",
+    "zak-snayder",
+    "komiksy",
+    "frenk-miller"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

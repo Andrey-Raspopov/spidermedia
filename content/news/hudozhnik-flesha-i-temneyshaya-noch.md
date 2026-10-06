@@ -4,6 +4,16 @@
   "url": "/news/hudozhnik-flesha-i-temneyshaya-noch/",
   "original_url": "https://spidermedia.ru/news/hudozhnik-flesha-i-temneyshaya-noch",
   "archived": "https://web.archive.org/web/20251216183617/https://spidermedia.ru/news/hudozhnik-flesha-i-temneyshaya-noch",
+  "tags": [
+    "frensis-manapul",
+    "temnejshaya-noch",
+    "geoff-johns",
+    "preview",
+    "francis-manapul",
+    "the-flash",
+    "batman",
+    "green-lantern"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

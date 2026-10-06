@@ -4,6 +4,15 @@
   "url": "/news/maksimalnaya-reznya/",
   "original_url": "https://spidermedia.ru/news/maksimalnaya-reznya",
   "archived": "https://web.archive.org/web/20260121012224/https://spidermedia.ru/news/maksimalnaya-reznya",
+  "tags": [
+    "klejton-krejn",
+    "karnejdzh",
+    "zeb-uells",
+    "art-0",
+    "marvel",
+    "karnazh",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

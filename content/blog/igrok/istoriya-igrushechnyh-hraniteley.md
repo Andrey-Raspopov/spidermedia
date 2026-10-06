@@ -4,6 +4,11 @@
   "url": "/blog/igrok/istoriya-igrushechnyh-hraniteley/",
   "original_url": "http://spidermedia.ru/blog/igrok/istoriya-igrushechnyh-hraniteley",
   "archived": "https://web.archive.org/web/20240422181448/http://spidermedia.ru/blog/igrok/istoriya-igrushechnyh-hraniteley",
+  "tags": [
+    "hraniteli",
+    "figurki",
+    "alan-mur"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

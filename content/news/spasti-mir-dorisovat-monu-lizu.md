@@ -4,6 +4,12 @@
   "url": "/news/spasti-mir-dorisovat-monu-lizu/",
   "original_url": "https://spidermedia.ru/news/spasti-mir-dorisovat-monu-lizu",
   "archived": "https://web.archive.org/web/20240720191200/https://spidermedia.ru/news/spasti-mir-dorisovat-monu-lizu",
+  "tags": [
+    "dzhonatan-hikman",
+    "dastin-uiver",
+    "s.h.i.e.l.d",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

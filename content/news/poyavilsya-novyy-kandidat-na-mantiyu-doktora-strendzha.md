@@ -4,6 +4,11 @@
   "url": "/news/poyavilsya-novyy-kandidat-na-mantiyu-doktora-strendzha/",
   "original_url": "https://spidermedia.ru/news/poyavilsya-novyy-kandidat-na-mantiyu-doktora-strendzha",
   "archived": "https://web.archive.org/web/20260121010841/https://spidermedia.ru/news/poyavilsya-novyy-kandidat-na-mantiyu-doktora-strendzha",
+  "tags": [
+    "marvel",
+    "kasting",
+    "doctor-strange"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

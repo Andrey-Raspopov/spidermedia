@@ -4,6 +4,14 @@
   "url": "/news/temneyshaya-noch-uzhe-zdespochti/",
   "original_url": "http://spidermedia.ru/news/temneyshaya-noch-uzhe-zdespochti",
   "archived": "https://web.archive.org/web/20260312012010/http://spidermedia.ru/news/temneyshaya-noch-uzhe-zdespochti",
+  "tags": [
+    "dc-comics",
+    "geoff-johns",
+    "hal-jordan",
+    "blackest-night",
+    "ajvan-rejs",
+    "hel-dzhordan"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/blog/sterpazook/istoriya-izdatelstva-dc-comics-film/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/istoriya-izdatelstva-dc-comics-film",
   "archived": "https://web.archive.org/web/20260208203212/http://spidermedia.ru/blog/sterpazook/istoriya-izdatelstva-dc-comics-film",
+  "tags": [
+    "industriya",
+    "dokumentalnoe-kino",
+    "dc-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

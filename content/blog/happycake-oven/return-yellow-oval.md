@@ -4,6 +4,12 @@
   "url": "/blog/happycake-oven/return-yellow-oval/",
   "original_url": "http://spidermedia.ru/blog/happycake-oven/return-yellow-oval",
   "archived": "https://web.archive.org/web/20120608151541/http://spidermedia.ru/blog/happycake-oven/return-yellow-oval",
+  "tags": [
+    "batman",
+    "batman-inc",
+    "dc-comics",
+    "grant-morrison-0"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

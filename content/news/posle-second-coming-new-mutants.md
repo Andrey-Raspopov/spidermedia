@@ -4,6 +4,11 @@
   "url": "/news/posle-second-coming-new-mutants/",
   "original_url": "http://spidermedia.ru/news/posle-second-coming-new-mutants",
   "archived": "https://web.archive.org/web/20260214132304/http://spidermedia.ru/news/posle-second-coming-new-mutants",
+  "tags": [
+    "leonard-kirk",
+    "marvel",
+    "x-men"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

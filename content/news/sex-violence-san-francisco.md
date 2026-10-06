@@ -4,6 +4,14 @@
   "url": "/news/sex-violence-san-francisco/",
   "original_url": "http://spidermedia.ru/news/sex-violence-san-francisco",
   "archived": "https://web.archive.org/web/20250117124913/http://spidermedia.ru/news/sex-violence-san-francisco",
+  "tags": [
+    "ted-makkiver",
+    "peter-milligan",
+    "vertigo-resurrected",
+    "vertigo",
+    "the-extremist",
+    "ted-mckeever"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

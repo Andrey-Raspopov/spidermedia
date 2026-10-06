@@ -4,6 +4,10 @@
   "url": "/blog/sterpazook/bolshoy-kusok-komiksa-obitaemyy-ostrov-obnovleno/",
   "original_url": "https://spidermedia.ru/blog/sterpazook/bolshoy-kusok-komiksa-obitaemyy-ostrov-obnovleno",
   "archived": "https://web.archive.org/web/20240920183106/https://spidermedia.ru/blog/sterpazook/bolshoy-kusok-komiksa-obitaemyy-ostrov-obnovleno",
+  "tags": [
+    "russian-comics",
+    "obitaemyj-ostrov"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

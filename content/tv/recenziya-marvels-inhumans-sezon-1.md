@@ -4,6 +4,11 @@
   "url": "/tv/recenziya-marvels-inhumans-sezon-1/",
   "original_url": "http://spidermedia.ru/tv/recenziya-marvels-inhumans-sezon-1",
   "archived": "https://web.archive.org/web/20250429015718/http://spidermedia.ru/tv/recenziya-marvels-inhumans-sezon-1",
+  "tags": [
+    "inhumans",
+    "marvel",
+    "nelyudi"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,13 @@
   "url": "/news/vybor-kapitana-ameriki/",
   "original_url": "https://spidermedia.ru/news/vybor-kapitana-ameriki",
   "archived": "https://web.archive.org/web/20260215073615/https://spidermedia.ru/news/vybor-kapitana-ameriki",
+  "tags": [
+    "ultimate-spider-man",
+    "x-men",
+    "ultimates",
+    "billi-tan",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

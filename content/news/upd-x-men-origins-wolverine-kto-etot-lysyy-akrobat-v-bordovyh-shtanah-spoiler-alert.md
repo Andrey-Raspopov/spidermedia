@@ -4,6 +4,10 @@
   "url": "/news/upd-x-men-origins-wolverine-kto-etot-lysyy-akrobat-v-bordovyh-shtanah-spoiler-alert/",
   "original_url": "https://spidermedia.ru/news/upd-x-men-origins-wolverine-kto-etot-lysyy-akrobat-v-bordovyh-shtanah-spoiler-alert",
   "archived": "https://web.archive.org/web/20240614184830/https://spidermedia.ru/news/upd-x-men-origins-wolverine-kto-etot-lysyy-akrobat-v-bordovyh-shtanah-spoiler-alert",
+  "tags": [
+    "figurki",
+    "wolverine"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

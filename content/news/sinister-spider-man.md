@@ -4,6 +4,11 @@
   "url": "/news/sinister-spider-man/",
   "original_url": "http://spidermedia.ru/news/sinister-spider-man",
   "archived": "https://web.archive.org/web/20250906082427/http://spidermedia.ru/news/sinister-spider-man",
+  "tags": [
+    "venom",
+    "marvel",
+    "spider-man"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

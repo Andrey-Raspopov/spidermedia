@@ -4,6 +4,10 @@
   "url": "/comics/eccc-2016-obyavlen-turnir-kamandi/",
   "original_url": "https://spidermedia.ru/comics/eccc-2016-obyavlen-turnir-kamandi",
   "archived": "https://web.archive.org/web/20251108194553/https://spidermedia.ru/comics/eccc-2016-obyavlen-turnir-kamandi",
+  "tags": [
+    "dc-comics",
+    "emerald-city-comicon"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

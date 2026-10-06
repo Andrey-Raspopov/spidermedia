@@ -4,6 +4,14 @@
   "url": "/news/mstiteley-mnogo-ne-byvaet/",
   "original_url": "http://spidermedia.ru/news/mstiteley-mnogo-ne-byvaet",
   "archived": "https://web.archive.org/web/20260125120627/http://spidermedia.ru/news/mstiteley-mnogo-ne-byvaet",
+  "tags": [
+    "avengers",
+    "nycc-2011",
+    "komik-kon-v-nyu-jorke",
+    "brian-michael-bendis",
+    "mark-bagli",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

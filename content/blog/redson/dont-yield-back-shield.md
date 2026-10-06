@@ -4,6 +4,13 @@
   "url": "/blog/redson/dont-yield-back-shield/",
   "original_url": "http://spidermedia.ru/blog/redson/dont-yield-back-shield",
   "archived": "https://web.archive.org/web/20120607055745/http://spidermedia.ru/blog/redson/dont-yield-back-shield",
+  "tags": [
+    "nick-fury",
+    "dzhim-steranko",
+    "komiksy",
+    "marvel",
+    "nik-fyuri"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

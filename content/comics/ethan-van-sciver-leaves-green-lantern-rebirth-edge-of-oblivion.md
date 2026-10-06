@@ -4,6 +4,11 @@
   "url": "/comics/ethan-van-sciver-leaves-green-lantern-rebirth-edge-of-oblivion/",
   "original_url": "https://spidermedia.ru/comics/ethan-van-sciver-leaves-green-lantern-rebirth-edge-of-oblivion",
   "archived": "https://web.archive.org/web/20250717194220/https://spidermedia.ru/comics/ethan-van-sciver-leaves-green-lantern-rebirth-edge-of-oblivion",
+  "tags": [
+    "dc-comics",
+    "green-lantern",
+    "ethan-van-sciver"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

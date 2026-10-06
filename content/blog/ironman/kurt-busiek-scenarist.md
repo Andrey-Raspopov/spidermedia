@@ -4,6 +4,12 @@
   "url": "/blog/ironman/kurt-busiek-scenarist/",
   "original_url": "http://spidermedia.ru/blog/ironman/kurt-busiek-scenarist",
   "archived": "https://web.archive.org/web/20120608180235/http://spidermedia.ru/blog/ironman/kurt-busiek-scenarist",
+  "tags": [
+    "dc-comics",
+    "komiksy",
+    "kurt-busiek",
+    "marvel"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

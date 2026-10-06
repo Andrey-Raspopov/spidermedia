@@ -4,6 +4,13 @@
   "url": "/news/sireny-i-ulicy-bez-betmena/",
   "original_url": "https://spidermedia.ru/news/sireny-i-ulicy-bez-betmena",
   "archived": "https://web.archive.org/web/20260214141339/https://spidermedia.ru/news/sireny-i-ulicy-bez-betmena",
+  "tags": [
+    "dc-comics",
+    "dastin-nguen",
+    "pol-dini",
+    "gotem",
+    "gillem-marsh"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

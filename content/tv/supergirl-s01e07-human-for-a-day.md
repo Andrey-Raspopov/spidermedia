@@ -4,6 +4,10 @@
   "url": "/tv/supergirl-s01e07-human-for-a-day/",
   "original_url": "http://spidermedia.ru/tv/supergirl-s01e07-human-for-a-day",
   "archived": "https://web.archive.org/web/20251111072437/http://spidermedia.ru/tv/supergirl-s01e07-human-for-a-day",
+  "tags": [
+    "dc-comics",
+    "supergirl"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,14 @@
   "url": "/news/sluzhili-dva-tovarishcha/",
   "original_url": "http://spidermedia.ru/news/sluzhili-dva-tovarishcha",
   "archived": "https://web.archive.org/web/20260214132608/http://spidermedia.ru/news/sluzhili-dva-tovarishcha",
+  "tags": [
+    "captain-america",
+    "ed-brubaker",
+    "mark-andrejko",
+    "chris-samnee",
+    "marvel",
+    "winter-soldier"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

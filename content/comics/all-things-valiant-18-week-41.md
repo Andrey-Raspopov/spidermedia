@@ -4,6 +4,9 @@
   "url": "/comics/all-things-valiant-18-week-41/",
   "original_url": "https://spidermedia.ru/comics/all-things-valiant-18-week-41",
   "archived": "https://web.archive.org/web/20260125054812/https://spidermedia.ru/comics/all-things-valiant-18-week-41",
+  "tags": [
+    "valiant-entertainment"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

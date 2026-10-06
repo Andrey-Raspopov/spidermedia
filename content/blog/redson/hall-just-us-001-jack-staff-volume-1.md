@@ -4,6 +4,13 @@
   "url": "/blog/redson/hall-just-us-001-jack-staff-volume-1/",
   "original_url": "http://spidermedia.ru/blog/redson/hall-just-us-001-jack-staff-volume-1",
   "archived": "https://web.archive.org/web/20170619230406/http://spidermedia.ru:80/blog/redson/hall-just-us-001-jack-staff-volume-1",
+  "tags": [
+    "pol-grist",
+    "hall-of-just-us",
+    "jack-staff",
+    "paul-grist",
+    "dzhek-staff"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

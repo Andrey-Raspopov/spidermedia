@@ -4,6 +4,10 @@
   "url": "/news/konkurent-skvirel-gerl-ili-vozvrashchenie-galakty/",
   "original_url": "http://spidermedia.ru/news/konkurent-skvirel-gerl-ili-vozvrashchenie-galakty",
   "archived": "https://web.archive.org/web/20200218015643/http://spidermedia.ru:80/news/konkurent-skvirel-gerl-ili-vozvrashchenie-galakty",
+  "tags": [
+    "adam-uorren",
+    "marvel"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

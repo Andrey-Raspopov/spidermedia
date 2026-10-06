@@ -4,6 +4,15 @@
   "url": "/news/pervaya-volna/",
   "original_url": "https://spidermedia.ru/news/pervaya-volna",
   "archived": "https://web.archive.org/web/20251206144527/https://spidermedia.ru/news/pervaya-volna",
+  "tags": [
+    "dc-comics",
+    "spirit",
+    "dan-didio",
+    "brian-azzarello",
+    "dok-sevidzh",
+    "doc-savage",
+    "rags-morales"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,11 @@
   "url": "/news/prevyu-dilan-dog-9-alfa-i-omega/",
   "original_url": "http://spidermedia.ru/news/prevyu-dilan-dog-9-alfa-i-omega",
   "archived": "https://web.archive.org/web/20220815181628/http://spidermedia.ru/news/prevyu-dilan-dog-9-alfa-i-omega",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "dilan-dog",
+    "smart-owl"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

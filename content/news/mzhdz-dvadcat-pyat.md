@@ -4,11 +4,15 @@
   "url": "/news/mzhdz-dvadcat-pyat/",
   "original_url": "https://spidermedia.ru/news/mzhdz-dvadcat-pyat",
   "archived": "https://web.archive.org/web/20251207101004/https://spidermedia.ru/news/mzhdz-dvadcat-pyat",
+  "tags": [
+    "mnenie",
+    "mzhdz"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](https://web.archive.org/web/20251207101004im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz.png)](https://web.archive.org/web/20260206215846/http://spidermedia.ru/tags/mzhdz)
+[![](https://web.archive.org/web/20251207101004im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz.png)](../../tags/mzhdz/)
 [![](https://web.archive.org/web/20251207101004im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/comeangetit_thumb.jpg)](http://img.photobucket.com/albums/v497/spidermedia/redson_News/comeangetit.jpg)
 **Еженедельные обзоры новых комиксов!**
 Жаль, только Квентины Тарантино нашего мира могут встать посреди съемочной площадки и заорать «Because we love making movies!» У создателей комиксов такой возможности нет, слишком уж интимный это процесс. Если Джейсон Аарон, закрыв вордовский файл со сценарием нового выпуска Scalped, встанет и воскликнет «I love making comics», то разбудит ребенка и поругается с женой.

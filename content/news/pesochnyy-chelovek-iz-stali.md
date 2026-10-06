@@ -4,6 +4,12 @@
   "url": "/news/pesochnyy-chelovek-iz-stali/",
   "original_url": "http://spidermedia.ru/news/pesochnyy-chelovek-iz-stali",
   "archived": "https://web.archive.org/web/20260314082503/http://spidermedia.ru/news/pesochnyy-chelovek-iz-stali",
+  "tags": [
+    "neil-gaiman-sandman",
+    "neil-gaiman",
+    "devid-gojer",
+    "vertigo"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

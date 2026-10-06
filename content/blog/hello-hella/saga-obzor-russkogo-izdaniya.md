@@ -4,6 +4,15 @@
   "url": "/blog/hello-hella/saga-obzor-russkogo-izdaniya/",
   "original_url": "https://spidermedia.ru/blog/hello-hella/saga-obzor-russkogo-izdaniya",
   "archived": "https://web.archive.org/web/20251216180243/https://spidermedia.ru/blog/hello-hella/saga-obzor-russkogo-izdaniya",
+  "tags": [
+    "fiona-stejplz",
+    "saga",
+    "mnenie",
+    "zarubezhnye-komiksy-na-russkom",
+    "brian-k-vaughan",
+    "xl-media",
+    "image-comics"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

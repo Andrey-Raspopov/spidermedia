@@ -4,6 +4,12 @@
   "url": "/blog/red-hulk/heroes-324-i-am-sylar/",
   "original_url": "http://spidermedia.ru/blog/red-hulk/heroes-324-i-am-sylar",
   "archived": "https://web.archive.org/web/20150507200315/http://spidermedia.ru/blog/red-hulk/heroes-324-i-am-sylar",
+  "tags": [
+    "mnenie",
+    "heroes",
+    "serialy",
+    "geroi"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
