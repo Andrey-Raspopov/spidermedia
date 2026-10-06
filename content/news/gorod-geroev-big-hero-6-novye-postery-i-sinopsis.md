@@ -1,6 +1,6 @@
 {
   "title": "\"ГОРОД ГЕРОЕВ\" (BIG HERO 6): Новые постеры и синопсис",
-  "date": "2014-06-10T15:10:00+03:00",
+  "date": "2014-06-10T14:10:39+03:00",
   "url": "/news/gorod-geroev-big-hero-6-novye-postery-i-sinopsis/",
   "original_url": "http://spidermedia.ru/news/gorod-geroev-big-hero-6-novye-postery-i-sinopsis",
   "archived": "https://web.archive.org/web/20260115060329/http://spidermedia.ru/news/gorod-geroev-big-hero-6-novye-postery-i-sinopsis",
@@ -10,6 +10,12 @@
     "disnej",
     "animaciya",
     "big-hero-6"
+  ],
+  "cover": "https://web.archive.org/web/20150326220603im_/http://spidermedia.ru/assets/images/import_image/7792.jpg",
+  "modx_id": 7792,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

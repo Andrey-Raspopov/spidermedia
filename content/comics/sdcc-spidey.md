@@ -7,7 +7,14 @@
   "tags": [
     "marvel",
     "san-diego-comic-con-international",
-    "spider-man"
+    "spider-man",
+    "sdcc2015"
+  ],
+  "cover": "https://web.archive.org/web/20160622151849im_/http://spidermedia.ru/assets/images/news/sdcc/2015/marvel/spidey-3eac1.jpg",
+  "modx_id": 100371,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

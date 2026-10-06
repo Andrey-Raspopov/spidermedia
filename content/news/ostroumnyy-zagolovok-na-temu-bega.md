@@ -1,7 +1,10 @@
 {
   "title": "<Остроумный заголовок на тему бега>",
-  "date": "2009-04-01T12:41:00+03:00",
+  "date": "2009-04-01T11:41:38+03:00",
   "url": "/news/ostroumnyy-zagolovok-na-temu-bega/",
+  "aliases": [
+    "/node/827/"
+  ],
   "original_url": "https://spidermedia.ru/news/ostroumnyy-zagolovok-na-temu-bega",
   "archived": "https://web.archive.org/web/20260120155941/https://spidermedia.ru/news/ostroumnyy-zagolovok-na-temu-bega",
   "tags": [
@@ -11,6 +14,12 @@
     "sara-pichelli",
     "ketrin-immonen",
     "beglecy"
+  ],
+  "cover": "https://web.archive.org/web/20260120155941im_/http://spidermedia.ru/assets/images/import_image/827.jpg",
+  "modx_id": 827,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

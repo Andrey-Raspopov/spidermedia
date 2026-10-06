@@ -8,7 +8,14 @@
     "dc-comics",
     "batman",
     "superman",
-    "san-diego-comic-con-international"
+    "san-diego-comic-con-international",
+    "sdcc2015"
+  ],
+  "cover": "https://web.archive.org/web/20160611122902im_/http://spidermedia.ru/assets/images/movies/dc/batman-v-superman-dawn-of-justice-2016/q_hnhrnlzik.jpg",
+  "modx_id": 100357,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

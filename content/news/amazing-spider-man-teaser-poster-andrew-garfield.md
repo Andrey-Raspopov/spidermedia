@@ -1,12 +1,18 @@
 {
   "title": "Тизер-постер \"Нового Человека-Паука\"",
-  "date": "2011-12-10T10:49:00+03:00",
+  "date": "2011-12-10T09:49:06+03:00",
   "url": "/news/amazing-spider-man-teaser-poster-andrew-garfield/",
   "original_url": "https://spidermedia.ru/news/amazing-spider-man-teaser-poster-andrew-garfield",
   "archived": "https://web.archive.org/web/20240226085724/https://spidermedia.ru/news/amazing-spider-man-teaser-poster-andrew-garfield",
   "tags": [
     "marvel",
     "spider-man"
+  ],
+  "cover": "https://web.archive.org/web/20240226085724im_/http://spidermedia.ru/assets/images/import_image/6728.jpg",
+  "modx_id": 6728,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

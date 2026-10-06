@@ -1,12 +1,18 @@
 {
   "title": "ALL-NEW МЖДЗ: МОЙ МИЛЫЙ ХИПСТЕР",
-  "date": "2014-10-14T12:55:00+03:00",
+  "date": "2014-10-14T11:55:48+03:00",
   "url": "/blog/redson/all-new-mzhdz-moy-milyy-hipster/",
   "original_url": "http://spidermedia.ru/blog/redson/all-new-mzhdz-moy-milyy-hipster",
   "archived": "https://web.archive.org/web/20251209145046/http://spidermedia.ru/blog/redson/all-new-mzhdz-moy-milyy-hipster",
   "tags": [
     "obzor",
     "mzhdz"
+  ],
+  "cover": "https://web.archive.org/web/20251209145046im_/http://spidermedia.ru/assets/images/import_image/8183.jpg",
+  "modx_id": 8183,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

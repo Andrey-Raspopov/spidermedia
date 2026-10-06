@@ -1,7 +1,10 @@
 {
   "title": "Супер-Проститутка",
-  "date": "2010-07-09T12:07:00+03:00",
+  "date": "2010-07-09T11:07:50+03:00",
   "url": "/news/super-prostitutka/",
+  "aliases": [
+    "/node/2712/"
+  ],
   "original_url": "http://spidermedia.ru/news/super-prostitutka",
   "archived": "https://web.archive.org/web/20260117225716/http://spidermedia.ru/news/super-prostitutka",
   "tags": [
@@ -13,6 +16,12 @@
     "motion-comics",
     "jimmy-palmiotti",
     "amanda-konner"
+  ],
+  "cover": "https://web.archive.org/web/20150502012229im_/http://spidermedia.ru/assets/images/import_image/2712.gif",
+  "modx_id": 2712,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

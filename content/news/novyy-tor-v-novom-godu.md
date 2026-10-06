@@ -1,7 +1,10 @@
 {
   "title": "Новый Тор в Новом Году!",
-  "date": "2009-12-15T09:28:00+03:00",
+  "date": "2009-12-15T09:28:14+03:00",
   "url": "/news/novyy-tor-v-novom-godu/",
+  "aliases": [
+    "/node/2173/"
+  ],
   "original_url": "http://spidermedia.ru/news/novyy-tor-v-novom-godu",
   "archived": "https://web.archive.org/web/20260313113529/http://spidermedia.ru/news/novyy-tor-v-novom-godu",
   "tags": [
@@ -11,7 +14,15 @@
     "billi-tan",
     "thor",
     "marvel",
-    "matt-fraction"
+    "matt-fraction",
+    "dzhej-majkl-strazhinski",
+    "tor",
+    "mett-frakshen"
+  ],
+  "modx_id": 2173,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

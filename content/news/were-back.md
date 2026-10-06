@@ -1,6 +1,6 @@
 {
   "title": "We're back!",
-  "date": "2009-07-06T11:12:00+03:00",
+  "date": "2009-07-06T10:12:46+03:00",
   "url": "/news/were-back/",
   "original_url": "http://spidermedia.ru/news/were-back",
   "archived": "https://web.archive.org/web/20150428054735/http://spidermedia.ru/news/were-back",
@@ -8,6 +8,12 @@
     "sajt",
     "obyavlenie",
     "spidermedia"
+  ],
+  "cover": "https://web.archive.org/web/20150428054735im_/http://spidermedia.ru/assets/images/import_image/1489.jpg",
+  "modx_id": 1489,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

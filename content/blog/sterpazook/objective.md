@@ -1,11 +1,17 @@
 {
   "title": "The Objective",
-  "date": "2009-02-02T12:17:00+03:00",
+  "date": "2009-02-02T12:17:08+03:00",
   "url": "/blog/sterpazook/objective/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/objective",
   "archived": "https://web.archive.org/web/20251013193128/http://spidermedia.ru/blog/sterpazook/objective",
   "tags": [
     "trejlery"
+  ],
+  "cover": "https://web.archive.org/web/20251013193128im_/http://spidermedia.ru/assets/images/import_image/98.jpg",
+  "modx_id": 98,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

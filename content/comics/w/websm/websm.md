@@ -4,6 +4,9 @@
   "url": "/comics/w/websm/websm/",
   "original_url": "http://www.spidermedia.ru/comics/w/websm/websm.html",
   "archived": "https://web.archive.org/web/20050307082304/http://www.spidermedia.ru:80/comics/w/websm/websm.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

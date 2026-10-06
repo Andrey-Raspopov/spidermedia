@@ -1,6 +1,6 @@
 {
   "title": "РосКомНадзор: обзор новостей российской комикс-индустрии",
-  "date": "2014-10-24T09:53:00+03:00",
+  "date": "2014-10-24T08:53:33+03:00",
   "url": "/blog/hella/roskomnadzor/",
   "original_url": "https://spidermedia.ru/blog/hella/roskomnadzor",
   "archived": "https://web.archive.org/web/20260214142204/https://spidermedia.ru/blog/hella/roskomnadzor",
@@ -8,6 +8,12 @@
     "russian-comics",
     "zarubezhnye-komiksy-na-russkom",
     "roskomnadzor"
+  ],
+  "cover": "https://web.archive.org/web/20150424062949im_/http://spidermedia.ru/assets/images/import_image/8216.jpg",
+  "modx_id": 8216,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

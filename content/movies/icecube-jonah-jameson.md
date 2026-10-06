@@ -8,6 +8,12 @@
     "spider-man",
     "marvel"
   ],
+  "cover": "https://web.archive.org/web/20160611082115im_/http://spidermedia.ru/assets/images/news/images/2_movies/marvel/spider-man/wait-fans-want-him-to-play-j-jonah-jameson-in-the-next-spider-man-that-could-actuall-869394.jpg",
+  "modx_id": 100976,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

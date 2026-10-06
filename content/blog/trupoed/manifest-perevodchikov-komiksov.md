@@ -1,11 +1,20 @@
 {
   "title": "Манифест Переводчиков Комиксов",
-  "date": "2009-02-21T10:24:00+03:00",
+  "date": "2009-02-21T10:24:32+03:00",
   "url": "/blog/trupoed/manifest-perevodchikov-komiksov/",
+  "aliases": [
+    "/node/471/"
+  ],
   "original_url": "http://spidermedia.ru/blog/trupoed/manifest-perevodchikov-komiksov",
   "archived": "https://web.archive.org/web/20220627181136/http://spidermedia.ru/blog/trupoed/manifest-perevodchikov-komiksov",
   "tags": [
     "zarubezhnye-komiksy-na-russkom"
+  ],
+  "cover": "https://web.archive.org/web/20150315210246im_/http://spidermedia.ru/assets/images/ecahznqzhc4.jpg",
+  "modx_id": 471,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

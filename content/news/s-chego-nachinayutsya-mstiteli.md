@@ -1,6 +1,6 @@
 {
   "title": "С чего начинаются Мстители",
-  "date": "2011-07-24T08:44:00+03:00",
+  "date": "2011-07-24T07:44:06+03:00",
   "url": "/news/s-chego-nachinayutsya-mstiteli/",
   "original_url": "http://spidermedia.ru/news/s-chego-nachinayutsya-mstiteli",
   "archived": "https://web.archive.org/web/20250913010846/http://spidermedia.ru/news/s-chego-nachinayutsya-mstiteli",
@@ -17,7 +17,14 @@
     "stefani-hans",
     "shon-makkiver",
     "kajl-higgins",
-    "marvel"
+    "marvel",
+    "tor"
+  ],
+  "cover": "https://web.archive.org/web/20250913010846im_/http://spidermedia.ru/assets/images/import_image/6526.jpg",
+  "modx_id": 6526,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "Чёрные силы добра",
-  "date": "2009-09-19T13:44:00+03:00",
+  "date": "2009-09-19T12:44:46+03:00",
   "url": "/news/chyornye-sily-dobra/",
+  "aliases": [
+    "/node/1912/"
+  ],
   "original_url": "https://spidermedia.ru/news/chyornye-sily-dobra",
   "archived": "https://web.archive.org/web/20251117003706/https://spidermedia.ru/news/chyornye-sily-dobra",
   "tags": [
@@ -11,6 +14,12 @@
     "doktor-dum",
     "doktor-vudu",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20251117003706im_/http://spidermedia.ru/assets/images/import_image/1912.jpg",
+  "modx_id": 1912,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

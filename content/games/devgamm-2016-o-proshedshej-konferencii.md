@@ -4,6 +4,12 @@
   "url": "/games/devgamm-2016-o-proshedshej-konferencii/",
   "original_url": "http://spidermedia.ru/games/devgamm-2016-o-proshedshej-konferencii",
   "archived": "https://web.archive.org/web/20200810080559/http://spidermedia.ru/games/devgamm-2016-o-proshedshej-konferencii",
+  "cover": "https://web.archive.org/web/20190402104137im_/http://spidermedia.ru/assets/images/games/devgamm/devgamm_moscow_2016_logo.png",
+  "modx_id": 101154,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
@@ -71,7 +77,7 @@
 **DevGAMM: Пара слов и Одно спасибо**
 
 [![](https://web.archive.org/web/20190402104136im_/http://spidermedia.ru/assets/cache/preview/101154/games/devgamm/824x520-13178888_10154160350129042_5470584241834389497_n.64c.jpg)](http://spidermedia.ru/assets/images/games/devgamm/13178888_10154160350129042_5470584241834389497_n.jpg)
-**DevGAMM -** важная для индустрии конференция. В первую очередь тем, что дает возможности. Возможность показать, возможность увидеть, возможность поговорить и возможность научится. В прошлом 2015 году конференция вышла на три мероприятия в год. В Москве, Гамбурге и Минске. Расширяя охват и не теряя качества, а только повышая его, **DevGAMM** дает простор для всех своих участников. Как неоднократно я повторяю, игры в России и в СНГ живы, их делают. А благодаря таким мероприятиям, это не только match-3 и F2P, но цельные и хорошие, пусть и нелишенные недостатков, проекты как [Message Quest](https://web.archive.org/web/20250412015008/http://spidermedia.ru/games/message-quest-review) и [Punch Clu](../punch-club-preview/)b.
+**DevGAMM -** важная для индустрии конференция. В первую очередь тем, что дает возможности. Возможность показать, возможность увидеть, возможность поговорить и возможность научится. В прошлом 2015 году конференция вышла на три мероприятия в год. В Москве, Гамбурге и Минске. Расширяя охват и не теряя качества, а только повышая его, **DevGAMM** дает простор для всех своих участников. Как неоднократно я повторяю, игры в России и в СНГ живы, их делают. А благодаря таким мероприятиям, это не только match-3 и F2P, но цельные и хорошие, пусть и нелишенные недостатков, проекты как [Message Quest](../message-quest-review/) и [Punch Clu](../punch-club-preview/)b.
 
 Как разработчик и как журналист я очень рад наличию подобного мероприятия. И воспользуюсь возможностью сказать Валерии Малаевой и всей ее команде спасибо за **DevGAMM**.
 

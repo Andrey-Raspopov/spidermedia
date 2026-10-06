@@ -1,11 +1,19 @@
 {
   "title": "Типа Рецензия на Трансформеров 2",
-  "date": "2009-06-26T17:43:00+03:00",
+  "date": "2009-06-26T16:43:23+03:00",
   "url": "/blog/trupoed/tipa-recenziya-na-transformerov-2/",
+  "aliases": [
+    "/node/1485/"
+  ],
   "original_url": "https://spidermedia.ru/blog/trupoed/tipa-recenziya-na-transformerov-2",
   "archived": "https://web.archive.org/web/20251013185204/https://spidermedia.ru/blog/trupoed/tipa-recenziya-na-transformerov-2",
   "tags": [
     "transformers"
+  ],
+  "modx_id": 1485,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

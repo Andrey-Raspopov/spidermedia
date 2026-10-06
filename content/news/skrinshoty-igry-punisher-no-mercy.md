@@ -1,12 +1,18 @@
 {
   "title": "Скриншоты игры Punisher: No Mercy",
-  "date": "2009-02-04T12:30:00+03:00",
+  "date": "2009-02-04T12:30:25+03:00",
   "url": "/news/skrinshoty-igry-punisher-no-mercy/",
   "original_url": "http://spidermedia.ru/news/skrinshoty-igry-punisher-no-mercy",
   "archived": "https://web.archive.org/web/20260206230553/http://spidermedia.ru/news/skrinshoty-igry-punisher-no-mercy",
   "tags": [
     "punisher",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20260206230553im_/http://spidermedia.ru/assets/images/import_image/172.jpg",
+  "modx_id": 172,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "Первый взгляд: Kick-Ass #1",
-  "date": "2010-09-30T20:41:00+03:00",
+  "date": "2010-09-30T19:41:54+03:00",
   "url": "/news/pervyy-vzglyad-kick-ass-1/",
+  "aliases": [
+    "/node/2958/"
+  ],
   "original_url": "http://spidermedia.ru/news/pervyy-vzglyad-kick-ass-1",
   "archived": "https://web.archive.org/web/20260308230837/http://spidermedia.ru/news/pervyy-vzglyad-kick-ass-1",
   "tags": [
@@ -9,6 +12,12 @@
     "mark-millar",
     "icon-comics",
     "kick-ass"
+  ],
+  "cover": "https://web.archive.org/web/20160629085649im_/http://spidermedia.ru/assets/images/import_image/2958.jpg",
+  "modx_id": 2958,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

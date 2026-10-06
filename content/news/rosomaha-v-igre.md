@@ -1,13 +1,22 @@
 {
   "title": "Росомаха в игре!",
-  "date": "2009-03-27T15:37:00+03:00",
+  "date": "2009-03-27T15:37:54+03:00",
   "url": "/news/rosomaha-v-igre/",
+  "aliases": [
+    "/node/790/"
+  ],
   "original_url": "http://spidermedia.ru/news/rosomaha-v-igre",
   "archived": "https://web.archive.org/web/20260211180521/http://spidermedia.ru/news/rosomaha-v-igre",
   "tags": [
     "wolverine",
     "igry",
     "intervyu"
+  ],
+  "cover": "https://web.archive.org/web/20150326053755im_/http://spidermedia.ru/assets/images/import_image/790.jpg",
+  "modx_id": 790,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

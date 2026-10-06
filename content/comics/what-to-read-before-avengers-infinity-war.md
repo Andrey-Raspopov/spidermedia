@@ -12,6 +12,12 @@
     "tanos",
     "avengers-week"
   ],
+  "cover": "https://web.archive.org/web/20260307064146im_/http://spidermedia.ru/assets/images/articles/avengers-week/what-to-read/str-0.jpg",
+  "modx_id": 101899,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -8,6 +8,12 @@
     "rip",
     "steve-dillon"
   ],
+  "cover": "https://web.archive.org/web/20220811234456im_/http://spidermedia.ru/assets/images/news/_rip/dillon/cover.jpg",
+  "modx_id": 101386,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

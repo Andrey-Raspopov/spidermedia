@@ -1,6 +1,6 @@
 {
   "title": "Студия Marvel ищет Доктора Стрэнджа",
-  "date": "2014-06-07T14:46:00+03:00",
+  "date": "2014-06-07T13:46:22+03:00",
   "url": "/news/studiya-marvel-ishchet-doktora-strendzha/",
   "original_url": "https://spidermedia.ru/news/studiya-marvel-ishchet-doktora-strendzha",
   "archived": "https://web.archive.org/web/20250422032721/https://spidermedia.ru/news/studiya-marvel-ishchet-doktora-strendzha",
@@ -8,6 +8,12 @@
     "kasting",
     "doctor-strange",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20250422032721im_/http://spidermedia.ru/assets/images/import_image/7774.jpg",
+  "modx_id": 7774,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,13 +1,22 @@
 {
   "title": "Брутальный \"Гарри Поттер\"",
-  "date": "2009-10-11T20:07:00+03:00",
+  "date": "2009-10-11T19:07:18+03:00",
   "url": "/news/brutalnyy-garri-potter/",
+  "aliases": [
+    "/node/1979/"
+  ],
   "original_url": "http://spidermedia.ru/news/brutalnyy-garri-potter",
   "archived": "https://web.archive.org/web/20260308232747/http://spidermedia.ru/news/brutalnyy-garri-potter",
   "tags": [
     "avatar-press",
     "warren-ellis",
     "gravel"
+  ],
+  "cover": "https://web.archive.org/web/20260308232747im_/http://spidermedia.ru/assets/images/import_image/1979.jpg",
+  "modx_id": 1979,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

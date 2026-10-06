@@ -4,6 +4,12 @@
   "url": "/games/marvel-spider-man-game-collectors-edition-unpacking-video/",
   "original_url": "http://spidermedia.ru/games/marvel-spider-man-game-collectors-edition-unpacking-video",
   "archived": "https://web.archive.org/web/20260307064233/http://spidermedia.ru/games/marvel-spider-man-game-collectors-edition-unpacking-video",
+  "cover": "https://web.archive.org/web/20260307064233im_/http://spidermedia.ru/assets/images/games/qo3fhgf839c.jpg",
+  "modx_id": 102015,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

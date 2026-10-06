@@ -1,7 +1,10 @@
 {
   "title": "Powers на ТВ",
-  "date": "2009-02-07T23:02:00+03:00",
+  "date": "2009-02-07T23:02:01+03:00",
   "url": "/news/powers-na-tv/",
+  "aliases": [
+    "/node/262/"
+  ],
   "original_url": "https://spidermedia.ru/news/powers-na-tv",
   "archived": "https://web.archive.org/web/20241205035413/https://spidermedia.ru/news/powers-na-tv",
   "tags": [
@@ -10,7 +13,14 @@
     "image-comics",
     "majkl-ejvon-oeming",
     "powers",
-    "serialy"
+    "serialy",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20241205035413im_/http://spidermedia.ru/assets/images/import_image/262.jpg",
+  "modx_id": 262,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

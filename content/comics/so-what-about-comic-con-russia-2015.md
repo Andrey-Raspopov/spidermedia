@@ -4,6 +4,12 @@
   "url": "/comics/so-what-about-comic-con-russia-2015/",
   "original_url": "http://spidermedia.ru/comics/so-what-about-comic-con-russia-2015",
   "archived": "https://web.archive.org/web/20210920044427/http://spidermedia.ru/comics/so-what-about-comic-con-russia-2015",
+  "cover": "https://web.archive.org/web/20210920044427im_/http://spidermedia.ru/assets/images/comic-con/2015/russia/iqqrn82.jpg",
+  "modx_id": 100506,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

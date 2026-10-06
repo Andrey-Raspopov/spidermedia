@@ -1,7 +1,10 @@
 {
   "title": "Кто стоит за дизайном Железного Патриота?",
-  "date": "2009-02-02T01:01:00+03:00",
+  "date": "2009-02-02T01:01:29+03:00",
   "url": "/blog/ironman/kto-stoit-za-dizaynom-zheleznogo-patriota/",
+  "aliases": [
+    "/node/91/"
+  ],
   "original_url": "https://spidermedia.ru/blog/ironman/kto-stoit-za-dizaynom-zheleznogo-patriota",
   "archived": "https://web.archive.org/web/20250717181604/https://spidermedia.ru/blog/ironman/kto-stoit-za-dizaynom-zheleznogo-patriota",
   "tags": [
@@ -11,7 +14,14 @@
     "captain-america",
     "art-0",
     "zheleznyj-patriot",
-    "temnoe-pravlenie"
+    "temnoe-pravlenie",
+    "zheleznyy-chelovek",
+    "art"
+  ],
+  "modx_id": 91,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

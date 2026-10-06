@@ -4,6 +4,9 @@
   "url": "/comics/a/ass/ass/",
   "original_url": "http://www.spidermedia.ru/comics/a/ass/ass.html",
   "archived": "https://web.archive.org/web/20050307111232/http://www.spidermedia.ru:80/comics/a/ass/ass.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

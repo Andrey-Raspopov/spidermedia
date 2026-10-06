@@ -1,6 +1,6 @@
 {
   "title": "Рисуем комиксы со Стэном Ли. Теперь и в России!",
-  "date": "2012-07-12T12:17:00+03:00",
+  "date": "2012-07-12T11:17:05+03:00",
   "url": "/news/risuem-komiksy-so-stenom-li-teper-i-v-rossii/",
   "original_url": "http://spidermedia.ru/news/risuem-komiksy-so-stenom-li-teper-i-v-rossii",
   "archived": "https://web.archive.org/web/20260211180742/http://spidermedia.ru/news/risuem-komiksy-so-stenom-li-teper-i-v-rossii",
@@ -8,6 +8,12 @@
     "eksmo",
     "industriya",
     "zarubezhnye-komiksy-na-russkom"
+  ],
+  "cover": "https://web.archive.org/web/20260211180742im_/http://spidermedia.ru/assets/images/import_image/6968.jpg",
+  "modx_id": 6968,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,11 +1,17 @@
 {
   "title": "История Ведьмака в комиксах",
-  "date": "2014-09-30T12:08:00+03:00",
+  "date": "2014-09-30T11:08:58+03:00",
   "url": "/blog/larosh/istoriya-vedmaka-v-komiksah-0/",
   "original_url": "https://spidermedia.ru/blog/larosh/istoriya-vedmaka-v-komiksah-0",
   "archived": "https://web.archive.org/web/20260214130534/https://spidermedia.ru/blog/larosh/istoriya-vedmaka-v-komiksah-0",
   "tags": [
     "vedmak"
+  ],
+  "cover": "https://web.archive.org/web/20260214130534im_/http://spidermedia.ru/assets/images/import_image/8115.jpg",
+  "modx_id": 8115,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

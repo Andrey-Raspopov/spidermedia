@@ -8,6 +8,12 @@
     "marvel",
     "runaways"
   ],
+  "cover": "https://web.archive.org/web/20251006145059im_/http://spidermedia.ru/assets/images/tv/runaways/1-4/runaways-trailer-header-1-970.jpg",
+  "modx_id": 101744,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,12 +1,18 @@
 {
   "title": "\"Черепашки Ниндзя\": Постер и баннер",
-  "date": "2014-06-09T09:57:00+03:00",
+  "date": "2014-06-09T08:57:22+03:00",
   "url": "/news/cherepashki-nidzya-poster-i-banner/",
   "original_url": "https://spidermedia.ru/news/cherepashki-nidzya-poster-i-banner",
   "archived": "https://web.archive.org/web/20241011033941/https://spidermedia.ru/news/cherepashki-nidzya-poster-i-banner",
   "tags": [
     "ninja-turtles",
     "postery"
+  ],
+  "cover": "https://web.archive.org/web/20241011033941im_/http://spidermedia.ru/assets/images/import_image/7777.jpg",
+  "modx_id": 7777,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "Убивец Томаси",
-  "date": "2009-11-17T11:48:00+03:00",
+  "date": "2009-11-17T11:48:44+03:00",
   "url": "/news/ubivec-tomasi/",
+  "aliases": [
+    "/node/2108/"
+  ],
   "original_url": "https://spidermedia.ru/news/ubivec-tomasi",
   "archived": "https://web.archive.org/web/20250807221935/https://spidermedia.ru/news/ubivec-tomasi",
   "tags": [
@@ -12,6 +15,12 @@
     "temnejshaya-noch",
     "piter-tomasi",
     "green-lantern"
+  ],
+  "cover": "https://web.archive.org/web/20250807221935im_/http://spidermedia.ru/assets/images/import_image/2108.jpg",
+  "modx_id": 2108,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

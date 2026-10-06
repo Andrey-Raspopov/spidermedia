@@ -1,7 +1,10 @@
 {
   "title": "Из насекомых в гиганты",
-  "date": "2010-09-02T22:44:00+03:00",
+  "date": "2010-09-02T21:44:25+03:00",
   "url": "/news/iz-nasekomyh-v-giganty/",
+  "aliases": [
+    "/node/2886/"
+  ],
   "original_url": "http://spidermedia.ru/news/iz-nasekomyh-v-giganty",
   "archived": "https://web.archive.org/web/20251107001425/http://spidermedia.ru/news/iz-nasekomyh-v-giganty",
   "tags": [
@@ -11,7 +14,14 @@
     "art-0",
     "marvel",
     "giant-man",
-    "avengers"
+    "avengers",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20251107001425im_/http://spidermedia.ru/assets/images/import_image/2886.jpg",
+  "modx_id": 2886,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

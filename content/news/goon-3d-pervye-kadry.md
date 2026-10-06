@@ -1,7 +1,10 @@
 {
   "title": "The GOON (3D): Первые кадры!",
-  "date": "2009-03-14T20:12:00+03:00",
+  "date": "2009-03-14T20:12:08+03:00",
   "url": "/news/goon-3d-pervye-kadry/",
+  "aliases": [
+    "/node/679/"
+  ],
   "original_url": "http://spidermedia.ru/news/goon-3d-pervye-kadry",
   "archived": "https://web.archive.org/web/20220819234642/http://spidermedia.ru/news/goon-3d-pervye-kadry",
   "tags": [
@@ -9,6 +12,12 @@
     "animaciya",
     "the-goon",
     "dark-horse"
+  ],
+  "cover": "https://web.archive.org/web/20220819234642im_/http://spidermedia.ru/assets/images/import_image/679.jpg",
+  "modx_id": 679,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

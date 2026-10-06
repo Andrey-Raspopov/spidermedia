@@ -1,3 +1,3 @@
 {
-  "title": "mandarin"
+  "title": "мандарин"
 }

@@ -1,12 +1,18 @@
 {
   "title": "РЕЦЕНЗИЯ: Justice League: Throne of Atlantis",
-  "date": "2015-02-06T16:59:00+03:00",
+  "date": "2015-02-06T16:59:02+03:00",
   "url": "/blog/igrok/recenziya-justice-league-throne-atlantis/",
   "original_url": "http://spidermedia.ru/blog/igrok/recenziya-justice-league-throne-atlantis",
   "archived": "https://web.archive.org/web/20250906074240/http://spidermedia.ru/blog/igrok/recenziya-justice-league-throne-atlantis",
   "tags": [
     "recenziya",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150326160805im_/http://spidermedia.ru/assets/images/import_image/8592.jpg",
+  "modx_id": 8592,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -13,6 +13,12 @@
     "tanos",
     "thor"
   ],
+  "cover": "https://web.archive.org/web/20260215082823im_/http://spidermedia.ru/assets/images/news/marvel/new/marvel-now-2016-2.jpg",
+  "modx_id": 101258,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

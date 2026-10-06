@@ -7,6 +7,12 @@
   "tags": [
     "itogi-goda"
   ],
+  "cover": "https://web.archive.org/web/20250909140442im_/http://spidermedia.ru/assets/images/articles/2020-in-comics/mosaic.jpg",
+  "modx_id": 102336,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

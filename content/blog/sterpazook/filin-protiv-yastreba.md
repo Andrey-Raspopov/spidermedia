@@ -2,6 +2,9 @@
   "title": "Филин против Ястреба",
   "date": "2009-02-01T22:27:00+03:00",
   "url": "/blog/sterpazook/filin-protiv-yastreba/",
+  "aliases": [
+    "/node/83/"
+  ],
   "original_url": "http://spidermedia.ru/blog/sterpazook/filin-protiv-yastreba",
   "archived": "https://web.archive.org/web/20260214134731/http://spidermedia.ru/blog/sterpazook/filin-protiv-yastreba",
   "tags": [
@@ -10,6 +13,12 @@
     "dc-comics",
     "mark-millar",
     "ultimate"
+  ],
+  "cover": "https://web.archive.org/web/20260214134731im_/http://spidermedia.ru/assets/images/import_image/83.jpg",
+  "modx_id": 83,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

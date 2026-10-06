@@ -1,7 +1,10 @@
 {
   "title": "Кейси и его Мстители",
-  "date": "2010-03-13T15:14:00+03:00",
+  "date": "2010-03-13T15:14:18+03:00",
   "url": "/news/keysi-i-ego-mstiteli/",
+  "aliases": [
+    "/node/2265/"
+  ],
   "original_url": "http://spidermedia.ru/news/keysi-i-ego-mstiteli",
   "archived": "https://web.archive.org/web/20251107001237/http://spidermedia.ru/news/keysi-i-ego-mstiteli",
   "tags": [
@@ -9,7 +12,14 @@
     "preview",
     "dzho-kejsi",
     "marvel",
-    "avengers"
+    "avengers",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20150502192346im_/http://spidermedia.ru/assets/images/import_image/2265.jpg",
+  "modx_id": 2265,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

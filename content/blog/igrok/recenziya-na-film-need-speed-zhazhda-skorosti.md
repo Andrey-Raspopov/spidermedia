@@ -1,11 +1,17 @@
 {
   "title": "Рецензия на фильм \"Need for speed: Жажда скорости\"",
-  "date": "2014-03-11T15:45:00+03:00",
+  "date": "2014-03-11T14:45:12+03:00",
   "url": "/blog/igrok/recenziya-na-film-need-speed-zhazhda-skorosti/",
   "original_url": "http://spidermedia.ru/blog/igrok/recenziya-na-film-need-speed-zhazhda-skorosti",
   "archived": "https://web.archive.org/web/20200127174629/http://spidermedia.ru:80/blog/igrok/recenziya-na-film-need-speed-zhazhda-skorosti",
   "tags": [
     "recenziya"
+  ],
+  "cover": "https://web.archive.org/web/20200127174629im_/http://spidermedia.ru/assets/images/import_image/7678.jpg",
+  "modx_id": 7678,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

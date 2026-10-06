@@ -5,17 +5,22 @@
   "original_url": "http://spidermedia.ru/comics/all-things-valiant-39-week-12",
   "archived": "https://web.archive.org/web/20260125063615/http://spidermedia.ru/comics/all-things-valiant-39-week-12",
   "tags": [
-    "valiant-entertainment"
+    "valiant-entertainment",
+    "all-things-valiant"
+  ],
+  "cover": "https://web.archive.org/web/20260125063615im_/http://spidermedia.ru/assets/images/valiant/images/atv39/atv-39-12.jpg",
+  "modx_id": 101014,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](http://spidermedia.ru/assets/cache/images/valiant/images/atv39/622x-atv-39-12.2e9.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv39/atv-39-12.jpg)
-
 Как говорится, обещанного три года ждут. К счастью, заявленного возвращения Арчера и Армстронга пришлось ожидать целый всего лишь год с небольшим. И вот наш любимый дуэт снова с нами! Конечно, внешне ребята сильно изменились, но внутри они остались такими же веселыми и бесшабашными, как раньше.
 
-**[Новости](./#news) **• [Рецензии](./#reviews)****
+**[Новости](#news) **• [Рецензии](#reviews)****
 
 В этом выпуске: проблемы, с которыми сталкиваются бессмертные. А также неблагодарная ученица, самая желанная в мире сумка и новая спутница Бладшота для поездки на тропический остров.
 
@@ -28,10 +33,7 @@
 #### Подробности Bloodshot Island
 [В прошлом выпуске](../all-things-valiant-38-week-11/) мы писали про загадочный тизер Deathmate. Как оказалось, это никакой не ивент, кроссовер или серия, это новый враг Bloodshot’a. Deathmate — это оригинальный персонаж, придуманный Джеффом Лемиром совместно с Мико Суаяном и Дэвидом Бароном специально для следующего сюжета Bloodshot Island, который стартует в июне с четырнадцатым номером серии, где и состоится дебют злодейки.
 
-[![Томас Джиорелло](http://spidermedia.ru/assets/images/valiant/images/atv39/bsrb_014_cover-a_giorello.jpg)](./ "Томас Джиорелло")
-[![Бен Оливер](http://spidermedia.ru/assets/images/valiant/images/atv39/bsrb_014_cover-b_oliver.jpg)](./ "Бен Оливер")
-[![Кано](http://spidermedia.ru/assets/images/valiant/images/atv39/bsrb_014_cover-c_kano.jpg)](./ "Кано")
-[![Стивен Сеговия](http://spidermedia.ru/assets/images/valiant/images/atv39/bsrb_014_cover-d_segovia.jpg)](./ "Стивен Сеговия")
+![](https://web.archive.org/web/20260125063615im_/http://spidermedia.ru/assets/images/valiant/images/atv39/bsrb_014_cover-a_giorello.jpg)![](https://web.archive.org/web/20260125063615im_/http://spidermedia.ru/assets/images/valiant/images/atv39/bsrb_014_cover-b_oliver.jpg)![](https://web.archive.org/web/20260125063615im_/http://spidermedia.ru/assets/images/valiant/images/atv39/bsrb_014_cover-c_kano.jpg)![](https://web.archive.org/web/20260125063615im_/http://spidermedia.ru/assets/images/valiant/images/atv39/bsrb_014_cover-d_segovia.jpg)
 
 Сценарий: Джефф Лемир
 Рисунок: Мико Суаян
@@ -41,40 +43,82 @@
 #### Новые эксклюзивные контракты Valiant
 На прошедшем в Чикаго С2Е2 2016 издательство Valiant Entertainment объявило о заключении (и продлении) эксклюзивных контрактов с 15 художниками и колористами. Тем самым теперь Valiant является лидером в индустрии комиксов по числу подобных соглашений. Итак, свою работу с компанией продолжат Рауль Аллен, Дэвид Барон, Диего Бернард, Дуг Брэйтвэйт, КАФУ, Кари Эванс, Роберт Джилл, Трэвор Хэйрсин, Клэйтон Хенри, Дэвид Лафуэнте, Левис ЛаРоса, Пере Перез, Брайан Рибер, Хуан Хосе Рип и Мико Суаян.
 
-- [![](http://spidermedia.ru/assets/images/valiant/images/atv39/valiant-exc_001_raul-allen.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv39/valiant-exc_001_raul-allen.jpg)
-- [![](http://spidermedia.ru/assets/images/valiant/images/atv39/valiant-exc_002_david-baron.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv39/valiant-exc_002_david-baron.jpg)
-- [![](http://spidermedia.ru/assets/images/valiant/images/atv39/valiant-exc_003_diego-bernard.jpg.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv39/valiant-exc_003_diego-bernard.jpg.jpg)
-- [![](http://spidermedia.ru/assets/images/valiant/images/atv39/valiant-exc_004_doug-braithwaite.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv39/valiant-exc_004_doug-braithwaite.jpg)
-- [![](http://spidermedia.ru/assets/images/valiant/images/atv39/valiant-exc_005_cafu.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv39/valiant-exc_005_cafu.jpg)
-- [![](http://spidermedia.ru/assets/images/valiant/images/atv39/valiant-exc_006_khari-evans.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv39/valiant-exc_006_khari-evans.jpg)
-- [![](http://spidermedia.ru/assets/images/valiant/images/atv39/valiant-exc_007_robert-gill.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv39/valiant-exc_007_robert-gill.jpg)
-- [![](http://spidermedia.ru/assets/images/valiant/images/atv39/valiant-exc_008_trevor-hairsine.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv39/valiant-exc_008_trevor-hairsine.jpg)
-- [![](http://spidermedia.ru/assets/images/valiant/images/atv39/valiant-exc_009_clayton-henry.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv39/valiant-exc_009_clayton-henry.jpg)
-- [![](http://spidermedia.ru/assets/images/valiant/images/atv39/valiant-exc_010_david-lafuente.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv39/valiant-exc_010_david-lafuente.jpg)
-- [![](http://spidermedia.ru/assets/images/valiant/images/atv39/valiant-exc_011_lewis-larosa.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv39/valiant-exc_011_lewis-larosa.jpg)
-- [![](http://spidermedia.ru/assets/images/valiant/images/atv39/valiant-exc_012_pere-perez.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv39/valiant-exc_012_pere-perez.jpg)
-- [![](http://spidermedia.ru/assets/images/valiant/images/atv39/valiant-exc_013_brian-reber.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv39/valiant-exc_013_brian-reber.jpg)
-- [![](http://spidermedia.ru/assets/images/valiant/images/atv39/valiant-exc_014_juan-jose-ryp.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv39/valiant-exc_014_juan-jose-ryp.jpg)
-- [![](http://spidermedia.ru/assets/images/valiant/images/atv39/valiant-exc_015_mico-suayan.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv39/valiant-exc_015_mico-suayan.jpg)
-
-- ![](http://spidermedia.ru/assets/cache/images/valiant/images/atv39/78x50-valiant-exc_001_raul-allen.a86.jpg)
-- ![](http://spidermedia.ru/assets/cache/images/valiant/images/atv39/78x50-valiant-exc_002_david-baron.a86.jpg)
-- ![](http://spidermedia.ru/assets/cache/images/valiant/images/atv39/78x50-valiant-exc_003_diego-bernard.jpg.a86.jpg)
-- ![](http://spidermedia.ru/assets/cache/images/valiant/images/atv39/78x50-valiant-exc_004_doug-braithwaite.a86.jpg)
-- ![](http://spidermedia.ru/assets/cache/images/valiant/images/atv39/78x50-valiant-exc_005_cafu.a86.jpg)
-- ![](http://spidermedia.ru/assets/cache/images/valiant/images/atv39/78x50-valiant-exc_006_khari-evans.a86.jpg)
-- ![](http://spidermedia.ru/assets/cache/images/valiant/images/atv39/78x50-valiant-exc_007_robert-gill.a86.jpg)
-- ![](http://spidermedia.ru/assets/cache/images/valiant/images/atv39/78x50-valiant-exc_008_trevor-hairsine.a86.jpg)
-- ![](http://spidermedia.ru/assets/cache/images/valiant/images/atv39/78x50-valiant-exc_009_clayton-henry.a86.jpg)
-- ![](http://spidermedia.ru/assets/cache/images/valiant/images/atv39/78x50-valiant-exc_010_david-lafuente.a86.jpg)
-- ![](http://spidermedia.ru/assets/cache/images/valiant/images/atv39/78x50-valiant-exc_011_lewis-larosa.a86.jpg)
-- ![](http://spidermedia.ru/assets/cache/images/valiant/images/atv39/78x50-valiant-exc_012_pere-perez.a86.jpg)
-- ![](http://spidermedia.ru/assets/cache/images/valiant/images/atv39/78x50-valiant-exc_013_brian-reber.a86.jpg)
-- ![](http://spidermedia.ru/assets/cache/images/valiant/images/atv39/78x50-valiant-exc_014_juan-jose-ryp.a86.jpg)
-- ![](http://spidermedia.ru/assets/cache/images/valiant/images/atv39/78x50-valiant-exc_015_mico-suayan.a86.jpg)
+![](https://web.archive.org/web/20260125063615im_/http://spidermedia.ru/assets/images/valiant/images/atv39/valiant-exc_001_raul-allen.jpg)![](https://web.archive.org/web/20260125063615im_/http://spidermedia.ru/assets/images/valiant/images/atv39/valiant-exc_002_david-baron.jpg)![](https://web.archive.org/web/20260125063615im_/http://spidermedia.ru/assets/images/valiant/images/atv39/valiant-exc_003_diego-bernard.jpg.jpg)![](https://web.archive.org/web/20260125063615im_/http://spidermedia.ru/assets/images/valiant/images/atv39/valiant-exc_004_doug-braithwaite.jpg)![](https://web.archive.org/web/20260125063615im_/http://spidermedia.ru/assets/images/valiant/images/atv39/valiant-exc_005_cafu.jpg)![](https://web.archive.org/web/20260125063615im_/http://spidermedia.ru/assets/images/valiant/images/atv39/valiant-exc_006_khari-evans.jpg)![](https://web.archive.org/web/20260125063615im_/http://spidermedia.ru/assets/images/valiant/images/atv39/valiant-exc_007_robert-gill.jpg)![](https://web.archive.org/web/20260125063615im_/http://spidermedia.ru/assets/images/valiant/images/atv39/valiant-exc_008_trevor-hairsine.jpg)![](https://web.archive.org/web/20260125063615im_/http://spidermedia.ru/assets/images/valiant/images/atv39/valiant-exc_009_clayton-henry.jpg)![](https://web.archive.org/web/20260125063615im_/http://spidermedia.ru/assets/images/valiant/images/atv39/valiant-exc_010_david-lafuente.jpg)![](https://web.archive.org/web/20260125063615im_/http://spidermedia.ru/assets/images/valiant/images/atv39/valiant-exc_011_lewis-larosa.jpg)![](https://web.archive.org/web/20260125063615im_/http://spidermedia.ru/assets/images/valiant/images/atv39/valiant-exc_012_pere-perez.jpg)![](https://web.archive.org/web/20260125063615im_/http://spidermedia.ru/assets/images/valiant/images/atv39/valiant-exc_013_brian-reber.jpg)![](https://web.archive.org/web/20260125063615im_/http://spidermedia.ru/assets/images/valiant/images/atv39/valiant-exc_014_juan-jose-ryp.jpg)![](https://web.archive.org/web/20260125063615im_/http://spidermedia.ru/assets/images/valiant/images/atv39/valiant-exc_015_mico-suayan.jpg)
 
 ---
 
 **ЧТО МЫ ПРОЧИТАЛИ**
 
 ---
+
+a:3:{i:1;a:7:{s:5:"autor";a:3:{i:1;a:2:{i:0;s:16:"Сценарий";i:1;s:25:"Рафер Робертс";}i:3;a:2:{i:0;s:14:"Рисунок";i:1;s:27:"Дэвид Лафуэнте";}i:5;a:2:{i:0;s:8:"Цвет";i:1;s:23:"Брайан Рибер";}}s:4:"name";s:40:"A&A:The Adventures of Archer & Armstrong";s:7:"edition";s:2:"#1";s:5:"cover";s:52:"assets/images/valiant/images/atv39/aanda-1-cover.jpg";s:9:"publisher";s:4:"1249";s:4:"year";s:4:"2016";s:8:"comments";a:1:{i:1;a:4:{s:5:"autor";s:6:"183751";s:4:"text";s:8726:"
+
+Новый том приключения Арчера и Амрстронга, конечно, не главное комикс-событие месяца, основные претенденты на этот титул — это второй сезон Сорвиголовы и «Бэтмен против Супермена». Но порадоваться возвращению отличного комикса однозначно стоит. Поэтому мы решили немного поэкспериментировать и сделать рецензию в необычном формате — в виде диалога.
+
+[[gallery? &id=`639` &type=`1` &rowHeight=`150` &maxRowHeight=`100%` &captions=`false` &fixedHeight=`false` &lastRow=`justify` &margins=`2`]]
+
+**Андрей:** Дима, я знаю твое теплое отношением к серии 2013 года (лично мне больше импонируют отвязные Quantum and Woody), поэтому расскажи, пожалуйста, чего ты ожидал от перезапуска.
+
+**Дмитрий:** Честно, я ждал просто хорошего комедийного приключенческого комикса. И я его получил. Правда, серия сильно отличается от того тона, который задал в свое время Фред Ван Ленте. Юмор здесь другой. Он грубый, более карикатурный (к чему располагает стиль Лафуэнте) и ситуативный. Местами мне не хватает концептуального юмора Ван Ленте. Там, где Робертс шутит про [вонючие руки](http://spidermedia.ru/assets/images/valiant/files/atv39/aanda-1-example-01.jpg), Фред развлекал меня [сатирой на сектантов](http://spidermedia.ru/assets/images/valiant/files/atv39/aanda-1-example-02.jpg) и будущее человечества во всех [оттенках](http://spidermedia.ru/assets/images/valiant/files/atv39/aanda-1-example-03.jpg) [серого](http://spidermedia.ru/assets/images/valiant/files/atv39/aanda-1-example-04.jpg).
+
+**Андрей:** Согласен. Комедия строится здесь совершенно по другому принципу, но должен признать, что мне нравится чувство юмора сценариста, например, гэг про бабушку-гоблина просто шикарный.
+
+Робертс проделал замечательную работу. Первый выпуск серии вышел очень ладно скроенным. Каждый эпизод на своем месте, герои представлены хорошо и их мотивация прекрасно понятна читателю. Ему удалось сохранить тот дух слегка безумных приключений, что были у Ван Ленте.
+
+**Дмитрий:** Да, очень качественное начало: четкий ритм, ясная мотивация персонажей, разнообразие действующих лиц. Сразу желаешь узнать, что будет дальше. Приключения безумны, но их пока мало. Кроме фееричного знакомства Арчера с гоблинами как таковых авантюр было меньше, чем раскладывания сюжетного пасьянса. После прочтения номера четко понимаешь, куда двинется онгоинг. Вот у нас основная сюжетная линя про Вакха, а вот второстепенная с Мари-Марией. Есть и побочная линия про прошлое Армстронга. Все ясно и понятно.
+
+**Андрей:** Кстати, про Вакха — отличная идея сделать главным противником бессмертного выпивохи бога виноделия. Такой комичный злодей прекрасно вписывается в общую атмосферу комикса. И я хочу поскорее увидеть флэшбек, где прояснят как Армстронг заарканил его в свой мешок, думаю, будет что-то уморительное.
+
+[[gallery? &id=`640` &type=`1` &rowHeight=`150` &maxRowHeight=`100%` &captions=`false` &fixedHeight=`false` &lastRow=`justify` &margins=`2`]]
+
+**Дмитрий:** Раз речь зашла об уморительном. Стиль Лафуэнте отлично подходит настроению комикса. Экспрессивный, излишне мультяшный, он наполняет страницы дополнительным пластом юмора. А простота линей, пластика тел и выразительная мимика часто говорят о внутреннем мире персонажей больше, чем самый проработанный диалог.
+
+**Андрей:** Художника серии подобрали превосходного, видимо, Дэвид Лафуэнте продержится на ней долго, раз у него теперь эксклюзивный контракт с издательством. Я до этого видел Дэвида только в All-New X-men Бэндиса, и там он меня не зацепил. Но в A&A его стиль сильно изменился: рисунок стал более угловатым и нарочито мультяшным, что, как ни странно, сделало его намного живее и энергичнее. А что Лафуэнте творит с раскадровкой: легко играет с размерами и расстановкой кадров, может «нарезать» страницу на целую кучу окошек и не боится вывести персонажа за границы фрейма. В общем, художественное исполнение комикса приносит не меньшее удовольствие, чем его сюжетная часть.
+
+**Дмитрий:** Да, рисунок гармонирует с текстом. И в итоге сам комикс — это очень качественное возвращение персонажей с новой авторской командой. Valiant правильно поступило, вернув серию только через год. Впечатления от предыдущего онгоинга уже не такие свежие, а ностальгия еще не выветрилась. Поэтому серия воспринимается как визит старого знакомого в новом прикиде: на вид, вроде, многое изменилось, но нутро подсказыает, что это он — милый сердцу друг.
+
+";s:8:"mjdzText";s:0:"";s:10:"conclusion";s:10:"ДОБРО";}}}i:2;a:7:{s:5:"autor";a:3:{i:1;a:2:{i:0;s:16:"Сценарий";i:1;s:27:"Джошуа Дайсарт";}i:3;a:2:{i:0;s:14:"Рисунок";i:1;s:19:"Кари Эванс";}i:5;a:2:{i:0;s:8:"Цвет";i:1;s:25:"Улисес Ареола";}}s:4:"name";s:8:"Imperium";s:7:"edition";s:5:"№14";s:5:"cover";s:56:"assets/images/valiant/images/atv39/imperium-14-cover.jpg";s:9:"publisher";s:4:"1249";s:4:"year";s:4:"2016";s:8:"comments";a:1:{i:1;a:4:{s:5:"autor";s:6:"183732";s:4:"text";s:6926:"
+
+Все-таки люди, работающие в издательстве Valiant, — мастера маркетинга. Новость о сюжете Stormbreak была громко озаглавлена «Долгожданное возвращение команды, известной по комиксу Harbinger», естественно, я ожидал появления в Империуме Ренегатов (надежду подпитывал скорый выход A&A). Но радость была преждевременной, ведь речь шла всего лишь о воссоединении Дайсарта и Эванса — авторов, вместе трудившихся над Предвестниками. К сожалению, в этот раз их сотрудничество не достигло былых высот.
+
+Столкновение с Харадой на орбите Земли подходит к концу, Аманда совместно с H.A.R.D. corps берется за новое задание: перехватить корабли, направляющиеся в Foundation Zone.
+
+Мне кто-нибудь может объяснить, почему в Империуме даже неплохим художникам запрещают красиво рисовать? Вот и Кари Эванс, который был хорош (а местами очень хорош) в серии Harbinger, в этом комиксе выглядит как минимум слабо. [Дима уже говорил](../all-things-valiant-36-week-08/#item1) о странностях форм людских фигур и упоминал о проблемах с обводкой: герои обведены четкой линией, а фоны — более размытой, из-за чего создается впечатление, будто бы персонажи [наклеены](http://spidermedia.ru/assets/images/valiant/files/atv39/imperium-14-image-a01.jpg) поверх отфотошопленых задников. Все эти недочеты никуда не делись, а глянцевый стиль покраски Улисеса Ареолы их только усиливает.
+
+Я заострю ваше внимание только на [этом кадре](http://spidermedia.ru/assets/images/valiant/files/atv39/imperium-14-image-a02.jpg). Блин, даже Дуг Брэйтвэйт в свое время так нагло не использовал фотографии для своих работ.
+
+[[gallery? &id=`633` &type=`1` &rowHeight=`150` &maxRowHeight=`100%` &captions=`false` &fixedHeight=`false` &lastRow=`justify` &margins=`2`]]
+
+[*Haters gonna hate**, hate, hate, hate, hate...*](https://youtu.be/nfWlot6h_JM?t=105)
+
+С сюжетом тоже не все гладко. Для меня главная проблема данного арка (и серии в целом) — это отсутствие масштабности. В первых номерах это было объяснимо: Тойо только начинал собирать команду, поэтому все миссии были точечными — захват конкретной цели, затем отступление.
+
+Сюжет же Stormbreak, если судить по анонсам, должен рассказывать об ответной реакции лидеров мировых держав на агрессию Харады. Но вместо массивных военных ударов по территории Foundation Zone мы получаем Аманду с группой оперативников, действия которых скорее напоминают легкий саботаж, чем серьезные атаки. И эти камерные сражения не дают прочувствовать глобальность происходящих в комиксе событий, не дают оценить масштаб угрозы, что несет Тойо Харада, и постоянные новостные врезки делу не помогают.
+
+Что удивительно, несмотря на наличие в комиксе двух крупных экшен-сцен, самого экшна в выпуске крайне мало. Герои предпочитают говорить о боях, а не участвовать в них. И ладно бы эти разговоры использовались для раскрытия персонажей, так нет — по большей части это просто описания текущей битвы или ее последствий.
+
+Но есть в комиксе по-настоящему замечательный эпизод, пусть он и занимает всего [две](http://spidermedia.ru/assets/images/valiant/files/atv39/imperium-14-image-a03.jpg) [страницы](http://spidermedia.ru/assets/images/valiant/files/atv39/imperium-14-image-a04.jpg). В нем Тойо показан в момент слабости. Потрясенный «предательством» Livewire Харада полностью опустошен (даже его маскировка спадает) и начинает сомневаться в своих действиях, ощущать все то сопротивление, что оказывает ему мир. Но через мгновение он вновь собран и готов на все ради своей цели. Эта очень сильная сцена, которое многое говорит нам о персонаже и его внутреннем конфликте. Во всем выпуске только она и достойна прочтения.
+
+Imperium #14 идет по стопам предыдущего номера — меньше действия, больше разговоров ни о чем. И одного отличного эпизода маловато, чтобы спасти читателей от скуки.
+
+";s:8:"mjdzText";s:0:"";s:10:"conclusion";s:8:"ЖИЖА";}}}i:3;a:7:{s:5:"autor";a:3:{i:1;a:2:{i:0;s:16:"Сценарий";i:1;s:29:"Роберт Вендитти";}i:3;a:2:{i:0;s:14:"Рисунок";i:1;s:24:"Хуан Хосе Рип";}i:5;a:2:{i:0;s:8:"Цвет";i:1;s:27:"Джорди Беллэйр";}}s:4:"name";s:29:"Wrath of the Eternal Warrior ";s:7:"edition";s:2:"#5";s:5:"cover";s:75:"assets/images/valiant/images/atv39/wrath-of-the-eternal-warrior-5-cover.jpg";s:9:"publisher";s:4:"1249";s:4:"year";s:4:"2016";s:8:"comments";a:1:{i:1;a:4:{s:5:"autor";s:6:"183731";s:4:"text";s:5982:"
+
+Все, пора прекратить рассматривать Wrath of the Eternal Warrior в качестве полноценного комикса и называть вещи своими именами. Перед нами ежемесячный артбук выдающихся художников издательства, в качестве бонуса предлагающий незатейливый сюжет. Вот только в этот раз, история хороша.
+
+Обретя бессмертие, Гилад утратил возможность вести нормальную жизнь. Все его жены старели и умерли. А сама мысль о детях, которых он переживет, останавливала Анни-Падду от любых попыток завести семью. Но у бойкой дикарки Джанны были другие планы. Она подарила Гиладу первого сына и настоящее семейное счастье. Но как долго в жестокий век Вечный воин сможет наслаждаться покоем?
+
+[[gallery? &id=`641` &type=`1` &rowHeight=`150` &maxRowHeight=`100%` &captions=`false` &fixedHeight=`false` &lastRow=`justify` &margins=`2`]]
+
+Недолго. Спойлер, Джанна умирает. Вот только смерть жены Вечного воина связана не столько с теорией «[женщин в холодильнике](https://en.wikipedia.org/wiki/Women_in_Refrigerators)», сколько с сутью персонажа, которую открыл Мэтт Киндт в [Unity #16](../all-things-valiant-march-2015/#item3). Гилад – идеальный герой трагедии, из-за внешних обстоятельств постоянно теряющий счастье и отправляющийся за возмездием. В эту схему укладывается и предыдущий арк (работа защитника Земли зовет) и текущий выпуск (отмщение убийцам любимой). Подобная история стара как мир, а Вечному воину к лицу вечные сюжеты.
+
+Кстати, о сюжете. В этом номере Роберт Вендитти приятно удивил. Комикс рассказывает законченную историю за выпуск, что для нашего времени редкость. Нам предложили трагедию, которая повествует о начале семейной жизни, о смерти родных и поиске обидчиков. Чтобы читатель не заскучал, сюжет аккуратно нарезали на кусочки и часть сервируют флэшбеками, что создает дополнительную динамику в истории и служит для придания глубины персонажам. А как мастерски передает настроение и переживания Гилада Хуан Хосе Рип посредством мимики. Вот у нас улыбающийся [счастливчик Анни-Падда](http://spidermedia.ru/assets/images/valiant/files/atv39/wrath-of-the-eternal-warrior-5-example-1.jpg), а вот [хмурый Вечной воин](http://spidermedia.ru/assets/images/valiant/files/atv39/wrath-of-the-eternal-warrior-5-example-2.jpg).
+
+[[gallery? &id=`642` &type=`1` &rowHeight=`150` &maxRowHeight=`100%` &captions=`false` &fixedHeight=`false` &lastRow=`justify` &margins=`2`]]
+
+Рисунок в этой серии все еще [за главного](../all-things-valiant-24-week-47/#item3). Но там, где Рауль Аллен налегал на повторяющиеся кадры, изображая экшен схематически, Хуан Хосе Рип рисует своих любимых потных косматых дикарей, выпускающих кишки друг другу и прорабатывает каждую [гальку](http://spidermedia.ru/assets/images/valiant/files/atv39/wrath-of-the-eternal-warrior-5-example-3.jpg) у ног левого трупа сбоку. Отдельно стоит отметить сцены следопытства, которые могут как [раскрывать сюжет](http://spidermedia.ru/assets/images/valiant/files/atv39/wrath-of-the-eternal-warrior-5-example-4.jpg), так и [смешить](http://spidermedia.ru/assets/images/valiant/files/atv39/wrath-of-the-eternal-warrior-5-example-5.jpg) нас.
+
+Но больше на тон истории влияет Джорди Беллэйр своей элегантной заливкой. Её мастерство позволяет справиться с настоящим цветовым адом. Для сахарных флэшбеков она использует розовый цвет, а следопытство красит пожухлой листвой. Браво!
+
+В очередной раз работает система Valiant. Если вы не знакомы с персонажем, первый номер свежего арка идеальное начало. Детализированный рисунок не оставит равнодушным, а примитивный сюжет пленит своей простотой и глубиной проработки персонажей. Остальные получат просто крепкий комикс.
+
+";s:8:"mjdzText";s:0:"";s:10:"conclusion";s:10:"ДОБРО";}}}}

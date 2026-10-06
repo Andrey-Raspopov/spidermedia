@@ -4,6 +4,12 @@
   "url": "/comics/enter-the-void-001/",
   "original_url": "http://spidermedia.ru/comics/enter-the-void-001",
   "archived": "https://web.archive.org/web/20251107025352/http://spidermedia.ru/comics/enter-the-void-001",
+  "cover": "https://web.archive.org/web/20251107025352im_/http://spidermedia.ru/assets/images/manga/ev/ev_001.jpg",
+  "modx_id": 101804,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

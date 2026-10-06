@@ -1,6 +1,6 @@
 {
   "title": "Прощай Найткаулер",
-  "date": "2009-02-26T17:17:00+03:00",
+  "date": "2009-02-26T17:17:57+03:00",
   "url": "/news/proshchay-naytkauler/",
   "original_url": "http://spidermedia.ru/news/proshchay-naytkauler",
   "archived": "https://web.archive.org/web/20250913010730/http://spidermedia.ru/news/proshchay-naytkauler",
@@ -9,7 +9,13 @@
     "marvel",
     "nightcrawler",
     "dzhejms-ezmus",
-    "dzhordzh-molina"
+    "dzhordzh-molina",
+    "lyudi-iks"
+  ],
+  "modx_id": 522,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -8,6 +8,12 @@
     "netflix",
     "anime"
   ],
+  "cover": "https://web.archive.org/web/20251107011440im_/http://spidermedia.ru/assets/images/animation/devilman-crybaby/14492_eyecatch.jpg",
+  "modx_id": 101792,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

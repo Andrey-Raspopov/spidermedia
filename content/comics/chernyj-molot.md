@@ -11,6 +11,12 @@
     "dzheff-lemir",
     "emerald-city-comicon"
   ],
+  "cover": "https://web.archive.org/web/20260215082043im_/http://spidermedia.ru/assets/images/newgallery/gallery771/BKHMR-1-CVR-b68c3.jpg",
+  "modx_id": 101068,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

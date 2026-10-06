@@ -1,6 +1,6 @@
 {
   "title": "Дорогу королю",
-  "date": "2011-04-14T19:34:00+03:00",
+  "date": "2011-04-14T18:34:10+03:00",
   "url": "/news/dorogu-korolyu/",
   "original_url": "http://spidermedia.ru/news/dorogu-korolyu",
   "archived": "https://web.archive.org/web/20190924063536/http://spidermedia.ru:80/news/dorogu-korolyu",
@@ -12,7 +12,14 @@
     "barri-kitson",
     "art-0",
     "marvel",
-    "black-bolt"
+    "black-bolt",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20190924063536im_/http://spidermedia.ru/assets/images/import_image/4967.jpg",
+  "modx_id": 4967,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,11 +1,17 @@
 {
   "title": "День новых комиксов: 18 сентября",
-  "date": "2013-09-18T16:04:00+03:00",
+  "date": "2013-09-18T15:04:58+03:00",
   "url": "/news/den-novyh-komiksov-18-sentyabrya/",
   "original_url": "https://spidermedia.ru/news/den-novyh-komiksov-18-sentyabrya",
   "archived": "https://web.archive.org/web/20250717193558/https://spidermedia.ru/news/den-novyh-komiksov-18-sentyabrya",
   "tags": [
     "den-novyh-komiksov"
+  ],
+  "cover": "https://web.archive.org/web/20150428175130im_/http://spidermedia.ru/assets/images/import_image/7471.jpg",
+  "modx_id": 7471,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

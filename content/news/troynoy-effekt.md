@@ -1,6 +1,6 @@
 {
   "title": "Тройной эффект",
-  "date": "2012-01-13T06:14:00+03:00",
+  "date": "2012-01-13T05:14:16+03:00",
   "url": "/news/troynoy-effekt/",
   "original_url": "http://spidermedia.ru/news/troynoy-effekt",
   "archived": "https://web.archive.org/web/20251207002031/http://spidermedia.ru/news/troynoy-effekt",
@@ -11,7 +11,14 @@
     "mark-waid",
     "greg-rakka",
     "marko-chekchetto",
-    "marvel"
+    "marvel",
+    "derdevil"
+  ],
+  "cover": "https://web.archive.org/web/20251207002031im_/http://spidermedia.ru/assets/images/import_image/6755.jpg",
+  "modx_id": 6755,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

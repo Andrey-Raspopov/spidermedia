@@ -10,6 +10,12 @@
     "kalvin-i-hobbs",
     "zarubezhnye-komiksy-na-russkom"
   ],
+  "cover": "https://web.archive.org/web/20230609211722im_/http://spidermedia.ru/assets/images/newgallery/gallery1107/005-1.jpg",
+  "modx_id": 101264,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

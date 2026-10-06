@@ -1,7 +1,10 @@
 {
   "title": "Даже у Бакки должен быть... Бакки?",
-  "date": "2009-04-09T15:02:00+03:00",
+  "date": "2009-04-09T14:02:09+03:00",
   "url": "/news/dazhe-u-bakki-dolzhen-byt-bakki/",
+  "aliases": [
+    "/node/897/"
+  ],
   "original_url": "http://spidermedia.ru/news/dazhe-u-bakki-dolzhen-byt-bakki",
   "archived": "https://web.archive.org/web/20120607175438/http://spidermedia.ru/news/dazhe-u-bakki-dolzhen-byt-bakki",
   "tags": [
@@ -13,7 +16,14 @@
     "komiksy",
     "marvel",
     "rikki-barns",
-    "ugadayka"
+    "ugadayka",
+    "winter-soldier"
+  ],
+  "cover": "https://web.archive.org/web/20120607175438im_/http://spidermedia.ru/assets/images/import_image/897.jpg",
+  "modx_id": 897,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"
@@ -21,7 +31,7 @@
 
 ]]>[![](https://web.archive.org/web/20120607175438im_/http://creative.myspacecdn.com/groups/_mcb/mycupojoe/week1309/CAPA600_COVross.sm.jpg)](http://creative.myspacecdn.com/groups/_mcb/mycupojoe/week1309/CAPA600_COVross.jpg)]]>]]>[![](https://web.archive.org/web/20120607175438im_/http://th02.deviantart.com/fs45/300W/f/2009/096/1/2/Rikki_Barnes_by_rafaelalbuquerqueart.jpg)](http://fc12.deviantart.com/fs45/f/2009/096/1/2/Rikki_Barnes_by_rafaelalbuquerqueart.jpg)]]>Немножко истории - во время **Второй Мировой Войны** был такой герой - **Капитан Америка** *(Captain America, Steve Rogers)*. И был у **Капитана** сайдкик - **Джеймс Барнс** *(James Barnes)*, так же известный в народе как **Бакки**. Имено он и занял пост **Капитана**, после смерти последнего, сразу после окончания **Civil War**. Собственно его вы и видите слева на обложке **Captain America #600**.
 
-И не успели мы ]]>[**написать**](../../node/885/)]]> о том, что в **июле** нам обещают что-то интересное в жизни **Капитана Америки**, как в комментариях к новости проскочила любопытная картинка работы художника **Рафаэля Альбукерке** *(Rafael Albuquerque)* для **Captain America #600**. Её, к слову, вы видите справа.
+И не успели мы ]]>[**написать**](../kapitan-amerika-v-iyule/)]]> о том, что в **июле** нам обещают что-то интересное в жизни **Капитана Америки**, как в комментариях к новости проскочила любопытная картинка работы художника **Рафаэля Альбукерке** *(Rafael Albuquerque)* для **Captain America #600**. Её, к слову, вы видите справа.
 
 Встает закономерный вопрос, кто же находится на картинке? Ответ прост - на ней **Рикки Барнс** *(Rikki Barnes)* - **Бакки** из вселенной **Heroes Reborn**. Только это не параллельный мир, а карманная вселенная, созданная **Франклином Ричардсом** *(Franklin Richards)* во время кроссовера **Onslaught**.
 

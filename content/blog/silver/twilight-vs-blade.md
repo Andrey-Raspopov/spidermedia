@@ -1,7 +1,10 @@
 {
   "title": "Twilight vs Blade",
-  "date": "2009-07-28T18:05:00+03:00",
+  "date": "2009-07-28T17:05:53+03:00",
   "url": "/blog/silver/twilight-vs-blade/",
+  "aliases": [
+    "/node/1681/"
+  ],
   "original_url": "http://spidermedia.ru/blog/silver/twilight-vs-blade",
   "archived": "https://web.archive.org/web/20120607171538/http://spidermedia.ru/blog/silver/twilight-vs-blade",
   "tags": [
@@ -9,7 +12,14 @@
     "bleyd",
     "kino",
     "komiksy",
-    "marvel"
+    "marvel",
+    "blejd"
+  ],
+  "cover": "https://web.archive.org/web/20120607171538im_/http://spidermedia.ru/assets/images/import_image/1681.jpg",
+  "modx_id": 1681,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

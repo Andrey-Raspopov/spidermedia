@@ -1,7 +1,10 @@
 {
   "title": "Черное превью",
-  "date": "2009-08-10T14:01:00+03:00",
+  "date": "2009-08-10T13:01:01+03:00",
   "url": "/news/chernoe-prevyu/",
+  "aliases": [
+    "/node/1759/"
+  ],
   "original_url": "http://spidermedia.ru/news/chernoe-prevyu",
   "archived": "https://web.archive.org/web/20251116062846/http://spidermedia.ru/news/chernoe-prevyu",
   "tags": [
@@ -12,7 +15,14 @@
     "batman",
     "peter-j.-tomasi",
     "piter-tomasi",
-    "green-lantern"
+    "green-lantern",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20251116062846im_/http://spidermedia.ru/assets/images/import_image/1759.jpg",
+  "modx_id": 1759,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

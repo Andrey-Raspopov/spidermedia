@@ -1,12 +1,21 @@
 {
   "title": "А помнишь, как все начиналось...",
-  "date": "2009-07-28T21:57:00+03:00",
+  "date": "2009-07-28T20:57:36+03:00",
   "url": "/blog/sterpazook/pomnish-kak-vse-nachinalos/",
+  "aliases": [
+    "/node/1684/"
+  ],
   "original_url": "https://spidermedia.ru/blog/sterpazook/pomnish-kak-vse-nachinalos",
   "archived": "https://web.archive.org/web/20220626074019/https://spidermedia.ru/blog/sterpazook/pomnish-kak-vse-nachinalos",
   "tags": [
     "zarubezhnye-komiksy-na-russkom",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20220626074019im_/http://spidermedia.ru/assets/images/import_image/1684.jpg",
+  "modx_id": 1684,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

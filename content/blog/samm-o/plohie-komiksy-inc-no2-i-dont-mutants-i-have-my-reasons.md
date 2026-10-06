@@ -1,6 +1,6 @@
 {
   "title": "плохие комиксы Inc. №2: i don't like mutants. i have my reasons.",
-  "date": "2011-05-29T01:41:00+03:00",
+  "date": "2011-05-29T00:41:26+03:00",
   "url": "/blog/samm-o/plohie-komiksy-inc-no2-i-dont-mutants-i-have-my-reasons/",
   "original_url": "http://spidermedia.ru/blog/samm-o/plohie-komiksy-inc-no2-i-dont-mutants-i-have-my-reasons",
   "archived": "https://web.archive.org/web/20120610051723/http://spidermedia.ru/blog/samm-o/plohie-komiksy-inc-no2-i-dont-mutants-i-have-my-reasons",
@@ -8,6 +8,12 @@
     "komiksy",
     "marvel",
     "plohie-komiksy-inc"
+  ],
+  "cover": "https://web.archive.org/web/20120610051723im_/http://spidermedia.ru/assets/images/import_image/6097.png",
+  "modx_id": 6097,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

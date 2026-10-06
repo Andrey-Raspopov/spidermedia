@@ -1,12 +1,18 @@
 {
   "title": "Еще 14 тай-инов Флэшпойнта",
-  "date": "2011-03-13T12:20:00+03:00",
+  "date": "2011-03-13T12:20:12+03:00",
   "url": "/news/eshche-14-tay-inov-fleshpoynta/",
   "original_url": "http://spidermedia.ru/news/eshche-14-tay-inov-fleshpoynta",
   "archived": "https://web.archive.org/web/20240805043114/http://spidermedia.ru/news/eshche-14-tay-inov-fleshpoynta",
   "tags": [
     "the-flash",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20240805043114im_/http://spidermedia.ru/assets/images/import_image/4112.jpg",
+  "modx_id": 4112,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

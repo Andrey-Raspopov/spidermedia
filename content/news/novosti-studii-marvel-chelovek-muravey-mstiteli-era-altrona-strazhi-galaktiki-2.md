@@ -1,6 +1,6 @@
 {
   "title": "Новости Студии Марвел: Человек-Муравей, Мстители: Эра Альтрона, Стражи Галактики 2",
-  "date": "2014-07-27T11:33:00+03:00",
+  "date": "2014-07-27T10:33:48+03:00",
   "url": "/news/novosti-studii-marvel-chelovek-muravey-mstiteli-era-altrona-strazhi-galaktiki-2/",
   "original_url": "http://spidermedia.ru/news/novosti-studii-marvel-chelovek-muravey-mstiteli-era-altrona-strazhi-galaktiki-2",
   "archived": "https://web.archive.org/web/20260314081035/http://spidermedia.ru/news/novosti-studii-marvel-chelovek-muravey-mstiteli-era-altrona-strazhi-galaktiki-2",
@@ -9,6 +9,12 @@
     "avengers",
     "marvel",
     "san-diego-comic-con-international"
+  ],
+  "cover": "https://web.archive.org/web/20150422213536im_/http://spidermedia.ru/assets/images/import_image/7938.jpg",
+  "modx_id": 7938,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

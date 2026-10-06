@@ -10,6 +10,12 @@
     "legion",
     "new-mutants"
   ],
+  "cover": "https://web.archive.org/web/20170616043659im_/http://spidermedia.ru/assets/images/news/x-men-future-movies-and-tv-series-2/00-cover.jpg",
+  "modx_id": 101568,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

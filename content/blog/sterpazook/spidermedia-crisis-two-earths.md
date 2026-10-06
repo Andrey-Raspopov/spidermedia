@@ -1,12 +1,21 @@
 {
   "title": "SpiderMedia & Crisis on Two Earths",
-  "date": "2010-02-16T13:42:00+03:00",
+  "date": "2010-02-16T13:42:15+03:00",
   "url": "/blog/sterpazook/spidermedia-crisis-two-earths/",
+  "aliases": [
+    "/node/2378/"
+  ],
   "original_url": "http://spidermedia.ru/blog/sterpazook/spidermedia-crisis-two-earths",
   "archived": "https://web.archive.org/web/20190514012624/http://spidermedia.ru:80/blog/sterpazook/spidermedia-crisis-two-earths",
   "tags": [
     "spidermedia",
     "justice-league"
+  ],
+  "cover": "https://web.archive.org/web/20150428174736im_/http://spidermedia.ru/assets/images/import_image/2378.jpg",
+  "modx_id": 2378,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

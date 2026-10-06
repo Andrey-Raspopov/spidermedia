@@ -8,6 +8,12 @@
     "dc-comics",
     "superwoman"
   ],
+  "cover": "https://web.archive.org/web/20250913004458im_/http://spidermedia.ru/assets/images/news/dc/superwoman.jpg",
+  "modx_id": 101085,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

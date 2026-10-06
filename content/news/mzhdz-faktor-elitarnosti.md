@@ -1,12 +1,18 @@
 {
   "title": "МЖДЗ: ФАКТОР ЭЛИТАРНОСТИ",
-  "date": "2012-04-18T23:04:00+03:00",
+  "date": "2012-04-18T22:04:29+03:00",
   "url": "/news/mzhdz-faktor-elitarnosti/",
   "original_url": "http://spidermedia.ru/news/mzhdz-faktor-elitarnosti",
   "archived": "https://web.archive.org/web/20251107174016/http://spidermedia.ru/news/mzhdz-faktor-elitarnosti",
   "tags": [
     "mnenie",
     "mzhdz"
+  ],
+  "cover": "https://web.archive.org/web/20160318010230im_/http://spidermedia.ru/assets/images/import_image/6881.png",
+  "modx_id": 6881,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

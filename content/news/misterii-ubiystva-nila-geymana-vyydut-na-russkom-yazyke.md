@@ -1,6 +1,6 @@
 {
   "title": "«Мистерии убийства» Нила Геймана выйдут на русском языке UPD.",
-  "date": "2014-09-25T18:28:00+03:00",
+  "date": "2014-09-25T17:28:44+03:00",
   "url": "/news/misterii-ubiystva-nila-geymana-vyydut-na-russkom-yazyke/",
   "original_url": "https://spidermedia.ru/news/misterii-ubiystva-nila-geymana-vyydut-na-russkom-yazyke",
   "archived": "https://web.archive.org/web/20251014040122/https://spidermedia.ru/news/misterii-ubiystva-nila-geymana-vyydut-na-russkom-yazyke",
@@ -9,6 +9,12 @@
     "zarubezhnye-komiksy-na-russkom",
     "xl-media",
     "dark-horse"
+  ],
+  "cover": "https://web.archive.org/web/20160611142649im_/http://spidermedia.ru/assets/images/import_image/7962.jpg",
+  "modx_id": 7962,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

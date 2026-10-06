@@ -1,7 +1,10 @@
 {
   "title": "DCU Online - Зеленый Фонарь",
-  "date": "2009-08-29T15:20:00+03:00",
+  "date": "2009-08-29T14:20:10+03:00",
   "url": "/news/dcu-online-zelenyy-fonar/",
+  "aliases": [
+    "/node/1843/"
+  ],
   "original_url": "http://spidermedia.ru/news/dcu-online-zelenyy-fonar",
   "archived": "https://web.archive.org/web/20260121012405/http://spidermedia.ru/news/dcu-online-zelenyy-fonar",
   "tags": [
@@ -9,6 +12,12 @@
     "lex-luthor",
     "solomon-grundy",
     "green-lantern"
+  ],
+  "cover": "https://web.archive.org/web/20150315210246im_/http://spidermedia.ru/assets/images/ecahznqzhc4.jpg",
+  "modx_id": 1843,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

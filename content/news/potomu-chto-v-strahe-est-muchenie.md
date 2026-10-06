@@ -1,13 +1,20 @@
 {
   "title": "...Потому что в страхе есть мучение.",
-  "date": "2009-04-09T03:10:00+03:00",
+  "date": "2009-04-09T02:10:46+03:00",
   "url": "/news/potomu-chto-v-strahe-est-muchenie/",
   "original_url": "http://spidermedia.ru/news/potomu-chto-v-strahe-est-muchenie",
   "archived": "https://web.archive.org/web/20120608235324/http://spidermedia.ru/news/potomu-chto-v-strahe-est-muchenie",
   "tags": [
     "komiksy",
     "marvel",
-    "frenk-tieri-0"
+    "frenk-tieri-0",
+    "frenk-tieri"
+  ],
+  "cover": "https://web.archive.org/web/20120608235324im_/http://spidermedia.ru/assets/images/import_image/895.jpg",
+  "modx_id": 895,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

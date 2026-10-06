@@ -1,6 +1,6 @@
 {
   "title": "Комикс-Арт издаст \"Абсолюты\" DC Comics!",
-  "date": "2012-12-07T16:09:00+03:00",
+  "date": "2012-12-07T15:09:03+03:00",
   "url": "/news/komiks-art-izdast-absolyuty-dc-comics/",
   "original_url": "http://spidermedia.ru/news/komiks-art-izdast-absolyuty-dc-comics",
   "archived": "https://web.archive.org/web/20260120164748/http://spidermedia.ru/news/komiks-art-izdast-absolyuty-dc-comics",
@@ -15,6 +15,12 @@
     "v-for-vendetta",
     "death",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20160611014250im_/http://spidermedia.ru/assets/images/import_image/7099.jpg",
+  "modx_id": 7099,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

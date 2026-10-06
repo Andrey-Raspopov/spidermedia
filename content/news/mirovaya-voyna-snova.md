@@ -1,7 +1,10 @@
 {
   "title": "Мировая Война. Снова.",
-  "date": "2009-07-25T06:28:00+03:00",
+  "date": "2009-07-25T05:28:37+03:00",
   "url": "/news/mirovaya-voyna-snova/",
+  "aliases": [
+    "/node/1652/"
+  ],
   "original_url": "http://spidermedia.ru/news/mirovaya-voyna-snova",
   "archived": "https://web.archive.org/web/20260214135209/http://spidermedia.ru/news/mirovaya-voyna-snova",
   "tags": [
@@ -12,7 +15,13 @@
     "art-0",
     "san-diego-comic-con-international",
     "red-hulk",
-    "hulk"
+    "hulk",
+    "art"
+  ],
+  "modx_id": 1652,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

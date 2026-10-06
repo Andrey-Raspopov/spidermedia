@@ -1,7 +1,10 @@
 {
   "title": "Дело мастера боится",
-  "date": "2010-07-31T09:30:00+03:00",
+  "date": "2010-07-31T08:30:08+03:00",
   "url": "/news/delo-mastera-boitsya/",
+  "aliases": [
+    "/node/2826/"
+  ],
   "original_url": "http://spidermedia.ru/news/delo-mastera-boitsya",
   "archived": "https://web.archive.org/web/20260121011726/http://spidermedia.ru/news/delo-mastera-boitsya",
   "tags": [
@@ -11,6 +14,12 @@
     "taskmaster",
     "marvel",
     "heroic-age"
+  ],
+  "cover": "https://web.archive.org/web/20260121011726im_/http://spidermedia.ru/assets/images/import_image/2826.jpg",
+  "modx_id": 2826,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

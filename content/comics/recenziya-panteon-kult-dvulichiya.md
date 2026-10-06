@@ -9,6 +9,12 @@
     "russian-comics",
     "filipp-sosedov"
   ],
+  "cover": "https://web.archive.org/web/20251115173436im_/http://spidermedia.ru/assets/images/reviews/42/panteon/image02.jpg.jpg",
+  "modx_id": 101243,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

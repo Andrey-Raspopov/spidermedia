@@ -1,7 +1,10 @@
 {
   "title": "Разъединение",
-  "date": "2010-08-27T01:28:00+03:00",
+  "date": "2010-08-27T00:28:56+03:00",
   "url": "/news/razedinenie/",
+  "aliases": [
+    "/node/2874/"
+  ],
   "original_url": "http://spidermedia.ru/news/razedinenie",
   "archived": "https://web.archive.org/web/20120512064652/http://spidermedia.ru/news/razedinenie",
   "tags": [
@@ -13,7 +16,15 @@
     "marvel",
     "oblozhki",
     "stiv-epting",
-    "fantasticheskaya-chetverka"
+    "fantasticheskaya-chetverka",
+    "dzhonatan-hikman",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20120512064652im_/http://spidermedia.ru/assets/images/import_image/2874.jpg",
+  "modx_id": 2874,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"
@@ -22,7 +33,7 @@
 ]]>[![](https://web.archive.org/web/20120512064652im_/http://img.photobucket.com/albums/v497/spidermedia/12828557862.jpg?t=1282857590)](http://smg.photobucket.com/albums/v497/spidermedia/1282855786.jpg)]]>
 Обложка от **#583** **Алана Дэвиса** *(Alan Davis)*
 
-**Фантастическую Четверку** *(Fantastic Four)* по окончанию сюжета [**Three**](../../node/2671/) ждут еще одни крупные потрясения. История, рассказанная в **Fantastic Four #583-588**, станет последним арком серии вообще, по крайней мере для тайтла под названием **Fantastic Four**. Тем не менее, команда вовсе не собирается исчезать из комиксов и нам обещают наоборот больше взаимодействия со вселенной **Marvel** в будущем.
+**Фантастическую Четверку** *(Fantastic Four)* по окончанию сюжета [**Three**](../fantasticheskaya-troyka/) ждут еще одни крупные потрясения. История, рассказанная в **Fantastic Four #583-588**, станет последним арком серии вообще, по крайней мере для тайтла под названием **Fantastic Four**. Тем не менее, команда вовсе не собирается исчезать из комиксов и нам обещают наоборот больше взаимодействия со вселенной **Marvel** в будущем.
 
 Также в сети появились страницы из сентябрьского **Fantastic Four #583**  от **Джонатана Хикмана** *(Jonatahan Hickman)* и **Стива Эптинга** *(Steve Epting)*:
 

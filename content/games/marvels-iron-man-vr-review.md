@@ -4,6 +4,12 @@
   "url": "/games/marvels-iron-man-vr-review/",
   "original_url": "http://spidermedia.ru/games/marvels-iron-man-vr-review",
   "archived": "https://web.archive.org/web/20250424102202/http://spidermedia.ru/games/marvels-iron-man-vr-review",
+  "cover": "https://web.archive.org/web/20250424102202im_/http://spidermedia.ru/assets/images/games/1592962305_352.jpg",
+  "modx_id": 102250,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

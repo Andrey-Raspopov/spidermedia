@@ -1,7 +1,10 @@
 {
   "title": "Юбилей Ultimate Spider-Man",
-  "date": "2010-08-27T00:40:00+03:00",
+  "date": "2010-08-26T23:40:40+03:00",
   "url": "/news/yubiley-ultimate-spider-man/",
+  "aliases": [
+    "/node/2873/"
+  ],
   "original_url": "http://spidermedia.ru/news/yubiley-ultimate-spider-man",
   "archived": "https://web.archive.org/web/20120610180933/http://spidermedia.ru/news/yubiley-ultimate-spider-man",
   "tags": [
@@ -10,7 +13,14 @@
     "art-0",
     "komiksy",
     "oblozhki",
-    "chelovek-pauk"
+    "chelovek-pauk",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20120610180933im_/http://spidermedia.ru/assets/images/import_image/2873.jpg",
+  "modx_id": 2873,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

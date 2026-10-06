@@ -1,7 +1,10 @@
 {
   "title": "Дорогу молодым + Обновление",
-  "date": "2009-12-18T02:55:00+03:00",
+  "date": "2009-12-18T02:55:39+03:00",
   "url": "/news/dorogu-molodym-obnovlenie/",
+  "aliases": [
+    "/node/2181/"
+  ],
   "original_url": "https://spidermedia.ru/news/dorogu-molodym-obnovlenie",
   "archived": "https://web.archive.org/web/20251115024330/https://spidermedia.ru/news/dorogu-molodym-obnovlenie",
   "tags": [
@@ -13,6 +16,12 @@
     "brajan-linch",
     "young-guns",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20251115024330im_/http://spidermedia.ru/assets/images/import_image/2181.jpg",
+  "modx_id": 2181,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

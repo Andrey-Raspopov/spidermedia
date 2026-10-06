@@ -1,12 +1,20 @@
 {
   "title": "It's on",
-  "date": "2010-05-31T22:31:00+03:00",
+  "date": "2010-05-31T21:31:55+03:00",
   "url": "/news/its/",
+  "aliases": [
+    "/node/2646/"
+  ],
   "original_url": "http://spidermedia.ru/news/its",
   "archived": "https://web.archive.org/web/20250325091413/http://spidermedia.ru/news/its",
   "tags": [
     "trejlery",
     "scott-pilgrim"
+  ],
+  "modx_id": 2646,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

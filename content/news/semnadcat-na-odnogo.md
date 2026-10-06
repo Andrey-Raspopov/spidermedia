@@ -1,7 +1,10 @@
 {
   "title": "Семнадцать на одного",
-  "date": "2009-06-05T16:20:00+03:00",
+  "date": "2009-06-05T15:20:20+03:00",
   "url": "/news/semnadcat-na-odnogo/",
+  "aliases": [
+    "/node/1322/"
+  ],
   "original_url": "http://spidermedia.ru/news/semnadcat-na-odnogo",
   "archived": "https://web.archive.org/web/20251108031414/http://spidermedia.ru/news/semnadcat-na-odnogo",
   "tags": [
@@ -9,7 +12,13 @@
     "punisher",
     "rik-remender",
     "art-0",
-    "tan-eng-huat"
+    "tan-eng-huat",
+    "art"
+  ],
+  "modx_id": 1322,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

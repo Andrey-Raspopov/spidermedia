@@ -1,7 +1,10 @@
 {
   "title": "Даёшь молодёжь",
-  "date": "2010-03-10T00:34:00+03:00",
+  "date": "2010-03-10T00:34:19+03:00",
   "url": "/news/dayosh-molodyozh/",
+  "aliases": [
+    "/node/2428/"
+  ],
   "original_url": "http://spidermedia.ru/news/dayosh-molodyozh",
   "archived": "https://web.archive.org/web/20251018233246/http://spidermedia.ru/news/dayosh-molodyozh",
   "tags": [
@@ -12,7 +15,14 @@
     "devid-boldion",
     "art-0",
     "young-allies",
-    "marvel"
+    "marvel",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20220714200437im_/https://spidermedia.ru/assets/images/import_image/2428.jpg",
+  "modx_id": 2428,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

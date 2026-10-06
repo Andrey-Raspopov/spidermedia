@@ -1,6 +1,6 @@
 {
   "title": "Чиветел Эджиофор рассматривается на «ключевую» роль в «Докторе Стрэндже»",
-  "date": "2015-01-23T08:21:00+03:00",
+  "date": "2015-01-23T08:21:48+03:00",
   "url": "/news/chivetel-edzhiofor-rassmatrivaetsya-na-klyuchevuyu-rol-v-doktore-strendzhe/",
   "original_url": "http://spidermedia.ru/news/chivetel-edzhiofor-rassmatrivaetsya-na-klyuchevuyu-rol-v-doktore-strendzhe",
   "archived": "https://web.archive.org/web/20251216120332/http://spidermedia.ru/news/chivetel-edzhiofor-rassmatrivaetsya-na-klyuchevuyu-rol-v-doktore-strendzhe",
@@ -8,6 +8,12 @@
     "marvel",
     "kasting",
     "doctor-strange"
+  ],
+  "cover": "https://web.archive.org/web/20150326095442im_/http://spidermedia.ru/assets/images/import_image/8535.jpg",
+  "modx_id": 8535,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

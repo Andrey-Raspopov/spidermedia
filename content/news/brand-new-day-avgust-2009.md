@@ -1,7 +1,10 @@
 {
   "title": "Brand New Day: Август 2009",
-  "date": "2009-05-15T21:23:00+03:00",
+  "date": "2009-05-15T20:23:11+03:00",
   "url": "/news/brand-new-day-avgust-2009/",
+  "aliases": [
+    "/node/1200/"
+  ],
   "original_url": "http://spidermedia.ru/news/brand-new-day-avgust-2009",
   "archived": "https://web.archive.org/web/20120607055414/http://spidermedia.ru/news/brand-new-day-avgust-2009",
   "tags": [
@@ -20,7 +23,16 @@
     "skott-kembell",
     "fred-van-lente",
     "hameleon",
-    "chelovek-pauk"
+    "chelovek-pauk",
+    "skott-kempbell",
+    "meri-dzhejn-vatson",
+    "mark-waid",
+    "art"
+  ],
+  "modx_id": 1200,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

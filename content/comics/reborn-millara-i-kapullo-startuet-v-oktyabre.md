@@ -8,6 +8,12 @@
     "greg-capullo",
     "mark-millar"
   ],
+  "cover": "https://web.archive.org/web/20250214235223im_/http://spidermedia.ru/assets/images/news/reborncover-62375.jpg",
+  "modx_id": 101190,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

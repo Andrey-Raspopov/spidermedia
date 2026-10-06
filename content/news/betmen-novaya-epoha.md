@@ -1,7 +1,10 @@
 {
   "title": "Бэтмен - новая эпоха",
-  "date": "2009-02-03T12:13:00+03:00",
+  "date": "2009-02-03T12:13:34+03:00",
   "url": "/news/betmen-novaya-epoha/",
+  "aliases": [
+    "/node/139/"
+  ],
   "original_url": "http://spidermedia.ru/news/betmen-novaya-epoha",
   "archived": "https://web.archive.org/web/20251107001946/http://spidermedia.ru/news/betmen-novaya-epoha",
   "tags": [
@@ -9,6 +12,12 @@
     "batman",
     "neil-gaiman",
     "endi-kubert"
+  ],
+  "cover": "https://web.archive.org/web/20150428180708im_/http://spidermedia.ru/assets/images/import_image/139.jpg",
+  "modx_id": 139,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

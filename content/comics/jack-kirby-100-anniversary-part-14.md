@@ -8,6 +8,12 @@
     "jack-kirby",
     "kirby100"
   ],
+  "cover": "https://web.archive.org/web/20210505221218im_/http://spidermedia.ru/assets/images/articles/kirby-100/14/pic5.jpg",
+  "modx_id": 101681,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

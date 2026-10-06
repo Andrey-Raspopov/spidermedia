@@ -8,6 +8,12 @@
     "dc-comics",
     "the-flash"
   ],
+  "cover": "https://web.archive.org/web/20160611203846im_/http://spidermedia.ru/assets/images/tv/flash/cold-600x400.jpg",
+  "modx_id": 100111,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

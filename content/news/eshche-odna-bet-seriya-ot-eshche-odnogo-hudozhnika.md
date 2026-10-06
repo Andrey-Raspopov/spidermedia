@@ -1,13 +1,22 @@
 {
   "title": "Еще одна бэт-серия от еще одного художника",
-  "date": "2010-07-22T19:48:00+03:00",
+  "date": "2010-07-22T18:48:13+03:00",
   "url": "/news/eshche-odna-bet-seriya-ot-eshche-odnogo-hudozhnika/",
+  "aliases": [
+    "/node/2769/"
+  ],
   "original_url": "https://spidermedia.ru/news/eshche-odna-bet-seriya-ot-eshche-odnogo-hudozhnika",
   "archived": "https://web.archive.org/web/20250425210730/https://spidermedia.ru/news/eshche-odna-bet-seriya-ot-eshche-odnogo-hudozhnika",
   "tags": [
     "betvuman",
     "dc-comics",
     "j.h.-williams"
+  ],
+  "cover": "https://web.archive.org/web/20250425210730im_/http://spidermedia.ru/assets/images/import_image/2769.jpg",
+  "modx_id": 2769,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

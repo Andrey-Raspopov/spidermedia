@@ -1,6 +1,6 @@
 {
   "title": "Превью \"Мстителей 2: Эра Альтрона\": Халкбастер! Ртуть! Алая Ведьма!",
-  "date": "2014-03-19T09:03:00+03:00",
+  "date": "2014-03-19T08:03:49+03:00",
   "url": "/news/prevyu-mstiteley-2-era-altrona-halkbaster-rtut-alaya-vedma/",
   "original_url": "https://spidermedia.ru/news/prevyu-mstiteley-2-era-altrona-halkbaster-rtut-alaya-vedma",
   "archived": "https://web.archive.org/web/20251211021809/https://spidermedia.ru/news/prevyu-mstiteley-2-era-altrona-halkbaster-rtut-alaya-vedma",
@@ -11,6 +11,12 @@
     "avengers",
     "marvel",
     "scarlet-witch"
+  ],
+  "cover": "https://web.archive.org/web/20150326194351im_/http://spidermedia.ru/assets/images/import_image/7687.jpg",
+  "modx_id": 7687,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

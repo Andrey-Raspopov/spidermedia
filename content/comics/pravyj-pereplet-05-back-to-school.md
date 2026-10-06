@@ -8,13 +8,17 @@
     "manga",
     "right-binding"
   ],
+  "cover": "https://web.archive.org/web/20250909142102im_/http://spidermedia.ru/assets/images/manga/pp-05/000.jpg",
+  "modx_id": 101535,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](https://spidermedia.ru/assets/cache/images/manga/pp-05/622x-000.2e9.jpg)](https://spidermedia.ru/assets/images/manga/pp-05/000.jpg)
-
-За этот выпуск я переживал больше всего. В смысле, как же сложно было заставить себя оторваться от прохождения [*Mass* *Effect:* *Andromeda*](https://web.archive.org/web/20251006010950/https://spidermedia.ru/games/mass-effect-andromeda) (который, конечно, больше напоминает мой любимый *Dragon* *Age:* *Inquisition*, чем предыдущие части франшизы), чтобы писать рубрику. И, несмотря на то, что я согласен с большинством обзоров относительно минусов этой игры, это все равно не мешает мне наслаждаться ею. Хотя, возможно, я просто слишком очарован этой вселенной и не могу быть объективным.
+За этот выпуск я переживал больше всего. В смысле, как же сложно было заставить себя оторваться от прохождения [*Mass* *Effect:* *Andromeda*](../../games/mass-effect-andromeda/) (который, конечно, больше напоминает мой любимый *Dragon* *Age:* *Inquisition*, чем предыдущие части франшизы), чтобы писать рубрику. И, несмотря на то, что я согласен с большинством обзоров относительно минусов этой игры, это все равно не мешает мне наслаждаться ею. Хотя, возможно, я просто слишком очарован этой вселенной и не могу быть объективным.
 
 А еще, на волне возросшего интереса определенного отечественного издателя к работам Цутому Нихэя Олег Лыфарь подготовил рецензию на его свежую серию — *APOSIMZ*.
 
@@ -28,117 +32,51 @@
 
 **Alt Graph**продолжает знакомить нас с творчеством Хироаки Самуры, издательство приобрело права на его однотомную историю **«С**негурочка на весеннем ветру**»**. Действие манги разворачивается в Советском Союзе 30-ых годов, девушка по прозвищу Белка и юноша по прозвищу Щенок пытаются ускользнуть от тайной полиции и попасть в загадочный особняк, в котором находится то, что они так отчаянно ищут. Книгу толщиной в 250 страниц планируется выпустить до конца весны. И специально для читателей рубрики ребята из **Alt Graph**поделились эксклюзивным превью (спасибо Анатолию Дунаеву).
 
-[![](https://spidermedia.ru/assets/images/manga/pp-05/snegurochka_cover.jpg)](https://spidermedia.ru/assets/images/manga/pp-05/snegurochka_cover.jpg)
-
-[![](https://spidermedia.ru/assets/images/manga/pp-05/snegurochka1.jpg)](https://spidermedia.ru/assets/images/manga/pp-05/snegurochka1.jpg)
-
-[![](https://spidermedia.ru/assets/images/manga/pp-05/snegurochka2.jpg)](https://spidermedia.ru/assets/images/manga/pp-05/snegurochka2.jpg)
-
-[![](https://spidermedia.ru/assets/images/manga/pp-05/snegurochka3.jpg)](https://spidermedia.ru/assets/images/manga/pp-05/snegurochka3.jpg)
-
-[![](https://spidermedia.ru/assets/images/manga/pp-05/snegurochka4.jpg)](https://spidermedia.ru/assets/images/manga/pp-05/snegurochka4.jpg)
-
-[![](https://spidermedia.ru/assets/images/manga/pp-05/snegurochka5.jpg)](https://spidermedia.ru/assets/images/manga/pp-05/snegurochka5.jpg)
-
-[![](https://spidermedia.ru/assets/images/manga/pp-05/snegurochka6.jpg)](https://spidermedia.ru/assets/images/manga/pp-05/snegurochka6.jpg)
-
-[![](https://spidermedia.ru/assets/images/manga/pp-05/snegurochka7.jpg)](https://spidermedia.ru/assets/images/manga/pp-05/snegurochka7.jpg)
-
-[![](https://spidermedia.ru/assets/images/manga/pp-05/snegurochka8.jpg)](https://spidermedia.ru/assets/images/manga/pp-05/snegurochka8.jpg)
-
-[![](https://spidermedia.ru/assets/images/manga/pp-05/snegurochka9.jpg)](https://spidermedia.ru/assets/images/manga/pp-05/snegurochka9.jpg)
-
-[![](https://spidermedia.ru/assets/images/manga/pp-05/snegurochka10.jpg)](https://spidermedia.ru/assets/images/manga/pp-05/snegurochka10.jpg)
-
-[![](https://spidermedia.ru/assets/images/manga/pp-05/snegurochka11.jpg)](https://spidermedia.ru/assets/images/manga/pp-05/snegurochka11.jpg)
+![](https://web.archive.org/web/20250909142102im_/http://spidermedia.ru/assets/images/manga/pp-05/snegurochka_cover.jpg)![](https://web.archive.org/web/20250909142102im_/http://spidermedia.ru/assets/images/manga/pp-05/snegurochka1.jpg)![](https://web.archive.org/web/20250909142102im_/http://spidermedia.ru/assets/images/manga/pp-05/snegurochka2.jpg)![](https://web.archive.org/web/20250909142102im_/http://spidermedia.ru/assets/images/manga/pp-05/snegurochka3.jpg)![](https://web.archive.org/web/20250909142102im_/http://spidermedia.ru/assets/images/manga/pp-05/snegurochka4.jpg)![](https://web.archive.org/web/20250909142102im_/http://spidermedia.ru/assets/images/manga/pp-05/snegurochka5.jpg)![](https://web.archive.org/web/20250909142102im_/http://spidermedia.ru/assets/images/manga/pp-05/snegurochka6.jpg)![](https://web.archive.org/web/20250909142102im_/http://spidermedia.ru/assets/images/manga/pp-05/snegurochka7.jpg)![](https://web.archive.org/web/20250909142102im_/http://spidermedia.ru/assets/images/manga/pp-05/snegurochka8.jpg)![](https://web.archive.org/web/20250909142102im_/http://spidermedia.ru/assets/images/manga/pp-05/snegurochka9.jpg)![](https://web.archive.org/web/20250909142102im_/http://spidermedia.ru/assets/images/manga/pp-05/snegurochka10.jpg)![](https://web.archive.org/web/20250909142102im_/http://spidermedia.ru/assets/images/manga/pp-05/snegurochka11.jpg)
 
 На улице фанатов Цутому Нихэя снова праздник: издательство **XL****Media** лицензировало его главную работу — научно-фантастическую мангу **Blame****!** Главный герой истории Килли скитается по миру, называемому Город — невероятному по размерам нагромождению высокотехнологичных построек, чьи уровни ограждает Мегаструктура (практически неразрушимое сооружение из металла, бетона и полимеров). Юноша ищет Сетевые терминальные гены, с помощью которых можно подключиться к Сетевой сфере, способной теоретически остановить бесконтрольное разрастание Мегаструктуры. В своем странствии по Городу он встретит различных его обитателей как частично, так и полностью небиологического происхождения.
 
-[![](https://spidermedia.ru/assets/images/manga/pp-05/01-1.jpg)](./)
-[![](https://spidermedia.ru/assets/images/manga/pp-05/01-2.jpg)](./)
+![](https://web.archive.org/web/20250909142102im_/http://spidermedia.ru/assets/images/manga/pp-05/01-1.jpg)![](https://web.archive.org/web/20250909142102im_/http://spidermedia.ru/assets/images/manga/pp-05/01-2.jpg)
 
 Помимо обычного десятитомного издания (первый том планируется напечатать летом), **XL Media** выпустит второй вариант (из 6 книг), аналогичный японскому/американскому *Master’s edition* — увеличенного объема и формата, в твердом переплете с суперобложкой. Но эта версия поступит в продажу только после завершения «стандартной». А для тех, кто не знал (или забыл) 20 мая выходит новая аниме-экранизация *Blame!*, которая будет распространяться, в том числе и через *Netflix*.
 
-![](https://spidermedia.ru/assets/cache/images/youtube/622x350-bGGN8n5rQJY.3e9.jpg)
-
-[劇場アニメ『BLAME!（ブラム）』本予告② BLAME! The Movie Trailer②](./) 00:01:45
+<iframe allowfullscreen="" frameborder="0" height="360" src="http://www.youtube.com/embed/bGGN8n5rQJY?wmode=transparent" style="display: block; margin-left: auto; margin-right: auto;" width="640"></iframe>
 
 Пока сотрудники **ЭксЭл** вовсю работают над *No**Game* *No**Life* другое их ранобэ — **«****Девочка, которая любила макарони и прожила тысячу лет»**— стало доступно для предзаказа. По этому случаю — небольшое превью.
 
-[![](https://web.archive.org/web/20170608052406im_/https://spidermedia.ru/assets/images/manga/pp-05/02-1.jpg)](https://web.archive.org/web/20170608052406im_/https://spidermedia.ru/assets/images/manga/pp-05/02-1.jpg)
-
-[![](https://spidermedia.ru/assets/images/manga/pp-05/02-2.jpg)](https://spidermedia.ru/assets/images/manga/pp-05/02-2.jpg)
-
-[![](https://spidermedia.ru/assets/images/manga/pp-05/02-3.jpg)](https://spidermedia.ru/assets/images/manga/pp-05/02-3.jpg)
-
-[![](https://spidermedia.ru/assets/images/manga/pp-05/02-4.jpg)](https://spidermedia.ru/assets/images/manga/pp-05/02-4.jpg)
-
-[![](https://spidermedia.ru/assets/images/manga/pp-05/02-5.jpg)](https://spidermedia.ru/assets/images/manga/pp-05/02-5.jpg)
-
-[![](https://spidermedia.ru/assets/images/manga/pp-05/02-6.jpg)](https://spidermedia.ru/assets/images/manga/pp-05/02-6.jpg)
-
-[![](https://spidermedia.ru/assets/images/manga/pp-05/02-7.jpg)](https://spidermedia.ru/assets/images/manga/pp-05/02-7.jpg)
-
-[![](https://spidermedia.ru/assets/images/manga/pp-05/02-8.jpg)](https://spidermedia.ru/assets/images/manga/pp-05/02-8.jpg)
-
-[![](https://spidermedia.ru/assets/images/manga/pp-05/02-9.jpg)](https://spidermedia.ru/assets/images/manga/pp-05/02-9.jpg)
+![](https://web.archive.org/web/20170608052406im_/https://spidermedia.ru/assets/images/manga/pp-05/02-1.jpg)![](https://web.archive.org/web/20250909142102im_/http://spidermedia.ru/assets/images/manga/pp-05/02-2.jpg)![](https://web.archive.org/web/20250909142102im_/http://spidermedia.ru/assets/images/manga/pp-05/02-3.jpg)![](https://web.archive.org/web/20250909142102im_/http://spidermedia.ru/assets/images/manga/pp-05/02-4.jpg)![](https://web.archive.org/web/20250909142102im_/http://spidermedia.ru/assets/images/manga/pp-05/02-5.jpg)![](https://web.archive.org/web/20250909142102im_/http://spidermedia.ru/assets/images/manga/pp-05/02-6.jpg)![](https://web.archive.org/web/20250909142102im_/http://spidermedia.ru/assets/images/manga/pp-05/02-7.jpg)![](https://web.archive.org/web/20250909142102im_/http://spidermedia.ru/assets/images/manga/pp-05/02-8.jpg)![](https://web.archive.org/web/20250909142102im_/http://spidermedia.ru/assets/images/manga/pp-05/02-9.jpg)
 
 До экватора добирается **«****Я —** **Сакамото, а что?»**: второй том из четырех уходит в типографию.
 
-[![](https://web.archive.org/web/20170607220654im_/https://spidermedia.ru/assets/images/manga/pp-05/03-1.jpg)](https://web.archive.org/web/20170607220654im_/https://spidermedia.ru/assets/images/manga/pp-05/03-1.jpg)
-
-[![](https://spidermedia.ru/assets/images/manga/pp-05/03-2.jpg)](https://spidermedia.ru/assets/images/manga/pp-05/03-2.jpg)
-
-[![](https://spidermedia.ru/assets/images/manga/pp-05/03-3.jpg)](https://spidermedia.ru/assets/images/manga/pp-05/03-3.jpg)
-
-[![](https://spidermedia.ru/assets/images/manga/pp-05/03-4.jpg)](https://spidermedia.ru/assets/images/manga/pp-05/03-4.jpg)
-
-[![](https://spidermedia.ru/assets/images/manga/pp-05/03-5.jpg)](https://spidermedia.ru/assets/images/manga/pp-05/03-5.jpg)
-
-[![](https://spidermedia.ru/assets/images/manga/pp-05/03-6.jpg)](https://spidermedia.ru/assets/images/manga/pp-05/03-6.jpg)
+![](https://web.archive.org/web/20170607220654im_/https://spidermedia.ru/assets/images/manga/pp-05/03-1.jpg)![](https://web.archive.org/web/20250909142102im_/http://spidermedia.ru/assets/images/manga/pp-05/03-2.jpg)![](https://web.archive.org/web/20250909142102im_/http://spidermedia.ru/assets/images/manga/pp-05/03-3.jpg)![](https://web.archive.org/web/20250909142102im_/http://spidermedia.ru/assets/images/manga/pp-05/03-4.jpg)![](https://web.archive.org/web/20250909142102im_/http://spidermedia.ru/assets/images/manga/pp-05/03-5.jpg)![](https://web.archive.org/web/20250909142102im_/http://spidermedia.ru/assets/images/manga/pp-05/03-6.jpg)
 
 Не сбавляет обороты и **«Бездомный бог»**: пятая часть уже на прилавках.
 
-[![](https://spidermedia.ru/assets/images/manga/pp-05/04-1.jpg)](https://spidermedia.ru/assets/images/manga/pp-05/04-1.jpg)
-
-[![](https://spidermedia.ru/assets/images/manga/pp-05/04-2.jpg)](https://spidermedia.ru/assets/images/manga/pp-05/04-2.jpg)
-
-[![](https://spidermedia.ru/assets/images/manga/pp-05/04-3.jpg)](https://spidermedia.ru/assets/images/manga/pp-05/04-3.jpg)
-
-[![](https://spidermedia.ru/assets/images/manga/pp-05/04-4.jpg)](https://spidermedia.ru/assets/images/manga/pp-05/04-4.jpg)
-
-[![](https://spidermedia.ru/assets/images/manga/pp-05/04-5.jpg)](https://spidermedia.ru/assets/images/manga/pp-05/04-5.jpg)
-
-[![](https://spidermedia.ru/assets/images/manga/pp-05/04-6.jpg)](https://spidermedia.ru/assets/images/manga/pp-05/04-6.jpg)
+![](https://web.archive.org/web/20250909142102im_/http://spidermedia.ru/assets/images/manga/pp-05/04-1.jpg)![](https://web.archive.org/web/20250909142102im_/http://spidermedia.ru/assets/images/manga/pp-05/04-2.jpg)![](https://web.archive.org/web/20250909142102im_/http://spidermedia.ru/assets/images/manga/pp-05/04-3.jpg)![](https://web.archive.org/web/20250909142102im_/http://spidermedia.ru/assets/images/manga/pp-05/04-4.jpg)![](https://web.archive.org/web/20250909142102im_/http://spidermedia.ru/assets/images/manga/pp-05/04-5.jpg)![](https://web.archive.org/web/20250909142102im_/http://spidermedia.ru/assets/images/manga/pp-05/04-6.jpg)
 
 Немного подзадержавшиеся пятый и шестой тома **Sword** **Art** **Online** наконец добрались до магазинов. И это последние книги серии, чей перевод подготавливал *Ushwood* (подробнее читай [здесь](https://vk.com/ushwood?w=wall-39461767_9642)), так что далее **«Истари комикс»** будет справляться собственными силами.
 
-[![](https://spidermedia.ru/assets/images/manga/pp-05/06-1.jpg)](./)
-[![](https://spidermedia.ru/assets/images/manga/pp-05/06-2.jpg)](./)
+![](https://web.archive.org/web/20250909142102im_/http://spidermedia.ru/assets/images/manga/pp-05/06-1.jpg)![](https://web.archive.org/web/20250909142102im_/http://spidermedia.ru/assets/images/manga/pp-05/06-2.jpg)
 
 Также издательство продемонстрировало обложки томов, участвующих в новом предзаказе (он как раз формируется и будет готов 10-15 апреля). Среди них: первый том не нуждающегося в представлении ранобэ **«Волчица и пряности»** и однотомники **«Волколуние»** (о девушке, повстречавшей грозного демона Фенрира, заточенного в тело обычного щенка) и **«Двойняшки Фуро»** (про близнецов, в которых постоянно пытаются вселиться различные духи).
 
-[![](https://web.archive.org/web/20170630215807im_/https://spidermedia.ru/assets/images/manga/pp-05/07-1.jpg)](./)
-[![](https://web.archive.org/web/20170630152403im_/https://spidermedia.ru/assets/images/manga/pp-05/07-2.jpg)](./)
-[![](https://web.archive.org/web/20170630162132im_/https://spidermedia.ru/assets/images/manga/pp-05/07-3.jpg)](./)
+![](https://web.archive.org/web/20170630215807im_/https://spidermedia.ru/assets/images/manga/pp-05/07-1.jpg)![](https://web.archive.org/web/20170630152403im_/https://spidermedia.ru/assets/images/manga/pp-05/07-2.jpg)![](https://web.archive.org/web/20170630162132im_/https://spidermedia.ru/assets/images/manga/pp-05/07-3.jpg)
 
 И, чтобы отмести последние сомнения относительно покупки **«Гигантомахии»**, в группе **«Истари»** выложили вот такой бодрый трейлер.
 
-![](https://spidermedia.ru/assets/cache/images/youtube/622x350-fzt3qUfYCtg.3e9.jpg)
+<iframe allowfullscreen="" frameborder="0" height="360" src="http://www.youtube.com/embed/fzt3qUfYCtg?wmode=transparent" style="display: block; margin-left: auto; margin-right: auto;" width="640"></iframe>
 
 ****«**Азбука**»**** атакует поклонников «Титанов» сразу двумя новинками: **«Атакой на Титанов»** (пятый омнибус), где появляется главная звезда второго сезона (уже смотрите?) — Звероподобный титан, и **«Атакой на титанов. Выбор без сожалений»** —о юности капрала Ливая (или Леви, по официальной версии).
 
-[![](https://spidermedia.ru/assets/images/manga/pp-05/08-1.jpg)](./)
-[![](https://web.archive.org/web/20170630171154im_/https://spidermedia.ru/assets/images/manga/pp-05/08-2.jpg)](./)
+![](https://web.archive.org/web/20250909142102im_/http://spidermedia.ru/assets/images/manga/pp-05/08-1.jpg)![](https://web.archive.org/web/20170630171154im_/https://spidermedia.ru/assets/images/manga/pp-05/08-2.jpg)
 
 **«Фабрика комиксов»** в честь своего одиннадцатилетия очень символично представила обложку одиннадцатого тома **«Номера один»**. И обложку второй части **«Призрака в ночи»**, что уже не так символично (правда, нумерация книги выполнена римскими цифрами и слегка напоминает одиннадцать).
 
-[![](https://web.archive.org/web/20170630171601im_/https://spidermedia.ru/assets/images/manga/pp-05/09-1.jpg)](./)
-[![](https://web.archive.org/web/20170630195614im_/https://spidermedia.ru/assets/images/manga/pp-05/09-2.jpg)](./)
+![](https://web.archive.org/web/20170630171601im_/https://spidermedia.ru/assets/images/manga/pp-05/09-1.jpg)![](https://web.archive.org/web/20170630195614im_/https://spidermedia.ru/assets/images/manga/pp-05/09-2.jpg)
 
 У **АСТ** вышел **«Механический ангел»** — это адаптация первой книги трилогии Кассандры Клэр «Адские механизмы», являющейся приквелом основной серии о похождениях Сумеречных охотников — «Орудия смерти». В «Механизмах» история вращается вокруг Тессы Грей, которая приезжает в викторианский Лондон, чтобы разыскать своего брата, и оказывается втянута в мир Сумеречных охотников, защищающих людей от демонов, вампиров и других мистических угроз.
 
-[![](https://spidermedia.ru/assets/images/manga/pp-05/10-1.jpg)](./)
+![](https://web.archive.org/web/20250909142102im_/http://spidermedia.ru/assets/images/manga/pp-05/10-1.jpg)
 
 ---
 
@@ -148,9 +86,7 @@
 
 #### ACCA — 13-ku Kansatsu-ka
 
-![](https://spidermedia.ru/assets/cache/images/youtube/622x350-WX6jNy0gFME.3e9.jpg)
-
-[ACCA 13-ku Kansatsu-ka op / opening](./) 00:01:30
+<iframe allowfullscreen="" frameborder="0" height="360" src="http://www.youtube.com/embed/WX6jNy0gFME?wmode=transparent" style="display: block; margin-left: auto; margin-right: auto;" width="640"></iframe>
 
 Жанр: приключения
 Число эпизодов: 12
@@ -163,3 +99,48 @@
 **ЧИТАЕМ**
 
 ---
+
+a:2:{i:1;a:7:{s:5:"autor";a:3:{i:1;a:2:{i:0;s:12:"[Автор]";i:1;s:12:"Робико";}i:3;a:2:{i:0;s:51:"[Оригинальное издательство]";i:1;s:8:"Kodansha";}i:5;a:2:{i:0;s:33:"[Количество томов]";i:1;s:2:"13";}}s:4:"name";s:51:"Чудовище за соседней партой";s:7:"edition";s:10:"Том 1-4";s:5:"cover";s:40:"assets/images/manga/pp-05/tnkk-cover.jpg";s:9:"publisher";s:4:"1323";s:4:"year";s:5:"2016-";s:8:"comments";a:1:{i:1;a:4:{s:5:"autor";s:6:"183732";s:4:"text";s:6119:"
+
+Знаете же, как это часто бывает, что аниме-экранизация получается скорее расширенной рекламой манги, чем цельным произведением? С «Чудовищем за соседей партой» произошла ровно такая ситуация. Сериал 2012 лишь знакомил нас с главными героями и намечал основные сюжетные линии, так и не доведя ни одну из них до конца. А закончилось аниме как раз на четвертом томе. Отсюда резонный вопрос: стоит ли читать дальше?
+
+*Шестнадцатилетняя Сидзуку Мидзутани полностью посвятила себя учебе и не стремится заводить друзей среди одноклассников. Но однажды девушку просят занести домашнее задание ее часто прогуливающему соседу по парте Хару Ёсиде, который устроил драку в первый же учебный день и заработал репутацию хулигана. На деле же оказывается, что Хару просто большой ребенок, страстно желающий с кем-нибудь подружиться. После разговора с Мидзутани парень решает вернуться в школу, и первое, что он делает по возвращении, это признается Сидзуку в любви.*
+
+[[gallery? &id=`1785` &type=`1` &rowHeight=`150` &maxRowHeight=`100%` &captions=`false` &fixedHeight=`false` &lastRow=`justify` &margins=`2`]]
+
+Проблема романтических историй кроется в том, что за ними неинтересно наблюдать, когда у пары все хорошо, для продвижения истории необходим конфликт. И длинным сериям (13 томов тоже не мало) приходится постоянно что-то выдумывать, чтобы продолжаться. Обычно это достигается посредством ссор влюбленных или появлением соперника/соперницы. В «Чудовище» же отношения Сидзуку и Хару «развиваются» так: сначала Сидзуку не любит Хару, а он ее добивается, затем уже Хару остывает к девушке, и Сидзуку старается привлечь его внимание. Этот механизм в манге повторяется так часто, что становится тошно. А главным героям не достает харизмы, чтобы отвлечь внимание от одинаковых сюжетных поворотов.
+
+Но и про ход с третьими лишними мангака не забывает. Претендентки на сердце Хару особого упоминания не заслуживают (девушки быстро сливаются), а вот другой парень (Кэндзи Ямагути), влюбленный в Сидзуку, — чуть ли не лучшее, что есть в «Чудовище». Сцены, в которых он начинает осознавать свои чувства или пытается бороться с ними, прописаны просто восхитительно. Да и сам Ямакэн вышел занимательным.
+
+Еще одним плюсом, несомненно, является эпилог, занимающий весь тринадцатый том. Он станет настоящей наградой для тех, кому хватит сил дочитать серию до конца. В основном, конечно же, благодаря короткой и невероятно милой истории о зарождающихся отношениях Такаи (младшего брата Сидзуку) и Тидзуру (подруги Хару и Сидзуку).
+
+Стиль у Робико простенький: персонажи нарисованы приятно, но без изысков, в раскадровке есть интересные решения, хотя в целом все выполнено стандартно. Плохо, что автор совершенно не хочет уделять внимание проработке фонов, предпочитая использовать (практически всегда) спасительные скрин-тона.
+
+«Чудовищем за соседей партой» — самый что ни на есть банальный школьный ромком с обязательными культурными фестивалями, поездками к морю и наряжаниями в юкаты. Но паре неплохих моментов (есть несколько удачных эпизодов и отличных второстепенных персонажей) не придать яркости его обычности.
+
+";s:8:"mjdzText";s:0:"";s:10:"conclusion";s:0:"";}}}i:2;a:7:{s:5:"autor";a:3:{i:1;a:2:{i:0;s:12:"[Автор]";i:1;s:23:"Цутому Нихэй";}i:3;a:2:{i:0;s:26:"[Издательство]";i:1;s:8:"Kodansha";}i:5;a:2:{i:0;s:33:"[Количество томов]";i:1;s:12:"2 главы";}}s:4:"name";s:7:"APOSIMZ";s:7:"edition";s:0:"";s:5:"cover";s:43:"assets/images/manga/pp-05/aposimz-cover.jpg";s:9:"publisher";s:0:"";s:4:"year";s:5:"2017-";s:8:"comments";a:1:{i:1;a:4:{s:5:"autor";s:6:"183753";s:4:"text";s:4149:"
+
+Не так давно начался выпуск новой манги Цутому Нихэя под названием APOSIMZ, и я из большой любви к мангаке, не смог пройти мимо. Серия является спин-оффом «Рыцарей Сидонии», которую я не читал (фанат он Нихэя, ага), поэтому что-то важное мог проморгать.
+
+Завязка сюжета моментально узнается любым человеком, читавшим хотя бы одно из его произведений, — поселенцы, выживающие на искусственной планете, представляющей собой сверхструктуру, населённую агрессивными человекоподобными роботами. Главное отличие заключается лишь в том, что люди проиграли в борьбе и вынуждены жить на поверхности планеты, отличающейся чрезвычайным холодом. Также кроме вражды с самой планетой нас ожидает противоборство с силами некой империи Ребедоа, из главы не совсем понятно, что она из себя представляют, но некоторые намёки само собой имеются.
+
+Первая глава вышла в увеличенном формате, что позволяет познакомиться с главными героями, миром, намекнуть на потенциальные конфликты и даже нашлось место для неожиданного поворота. Со своей целью зацепить нового читателя или уже следящего за автором она справляется с невероятной лёгкостью.
+
+[[gallery? &id=`1786` &type=`1` &rowHeight=`150` &maxRowHeight=`100%` &captions=`false` &fixedHeight=`false` &lastRow=`justify` &margins=`2`]]
+
+Рисунок у Нихэя, как всегда на высочайшем уровне — ему одинаково хорошо даются как статичные кадры бесед/путешествий, так и сверхдинамичные экшен-сцены. Что радует, мангака стабильно работает над собой, при этом его стиль остаётся легко опознаваемым. Также это будет плюсом для тех, кому его стиль не нравится, так как можно легко пропускать все его работы, ведь изменять себя автор явно не планирует.
+
+В сумме мы получаем невероятно насыщенную первую главу (и всё равно мало), которая не пытается переливать из пустого в порожнее, ей будут рады и любители миростроения, и любители экшена. Я остался невероятно доволен и в очередной раз обвёл жирным фломастером пометку о необходимости прочитать «Рыцарей Сидонии». Кстати, читавшие обе манги, расскажите в комментариях, насколько важно для восприятия знать о событиях Сидонии, так как я не почувствовал ни малейшего дискомфорта?
+
+";s:8:"mjdzText";s:507:"
+
+---
+
+**つづく...**
+
+---
+
+В следующем выпуске: новинки апреля. А также «Атака на титанов», «Берсерк», «Моя геройская академия» и др.
+«Правый переплет #06: титаны».
+
+";s:10:"conclusion";s:0:"";}}}}

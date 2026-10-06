@@ -1,6 +1,6 @@
 {
   "title": "bezdredoff и Леди Бэтмен, или не ведитесь на громкие названия))",
-  "date": "2011-10-12T22:23:00+03:00",
+  "date": "2011-10-12T21:23:27+03:00",
   "url": "/blog/bezdredoff/bezdredoff-i-ledi-betmen-ili-ne-vedites-na-gromkie-nazvaniya/",
   "original_url": "http://spidermedia.ru/blog/bezdredoff/bezdredoff-i-ledi-betmen-ili-ne-vedites-na-gromkie-nazvaniya",
   "archived": "https://web.archive.org/web/20120607092115/http://spidermedia.ru/blog/bezdredoff/bezdredoff-i-ledi-betmen-ili-ne-vedites-na-gromkie-nazvaniya",
@@ -8,6 +8,11 @@
     "videoblog",
     "videoobzor",
     "ledi-betmen"
+  ],
+  "modx_id": 6642,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

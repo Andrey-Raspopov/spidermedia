@@ -1,13 +1,24 @@
 {
   "title": "Тор без Стражинского",
-  "date": "2009-06-25T21:24:00+03:00",
+  "date": "2009-06-25T20:24:00+03:00",
   "url": "/news/tor-bez-strazhinskogo/",
+  "aliases": [
+    "/node/1479/"
+  ],
   "original_url": "http://spidermedia.ru/news/tor-bez-strazhinskogo",
   "archived": "https://web.archive.org/web/20251206030257/http://spidermedia.ru/news/tor-bez-strazhinskogo",
   "tags": [
     "marvel",
     "thor",
-    "j-michael-straczynski"
+    "j-michael-straczynski",
+    "tor",
+    "dzhej-majkl-strazhinski"
+  ],
+  "cover": "https://web.archive.org/web/20150424161755im_/http://spidermedia.ru/assets/images/import_image/1479.jpg",
+  "modx_id": 1479,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

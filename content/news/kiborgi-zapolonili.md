@@ -1,6 +1,6 @@
 {
   "title": "Киборги заполонили",
-  "date": "2013-03-30T12:07:00+03:00",
+  "date": "2013-03-30T11:07:05+03:00",
   "url": "/news/kiborgi-zapolonili/",
   "original_url": "https://spidermedia.ru/news/kiborgi-zapolonili",
   "archived": "https://web.archive.org/web/20260208200813/https://spidermedia.ru/news/kiborgi-zapolonili",
@@ -14,6 +14,12 @@
     "thunderbolts",
     "marvel",
     "avengers"
+  ],
+  "cover": "https://web.archive.org/web/20150424114207im_/http://spidermedia.ru/assets/images/import_image/7173.jpg",
+  "modx_id": 7173,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

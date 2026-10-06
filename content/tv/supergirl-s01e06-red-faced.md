@@ -9,6 +9,12 @@
     "krasnyj-tornado",
     "supergirl"
   ],
+  "cover": "https://web.archive.org/web/20260116214635im_/http://spidermedia.ru/assets/images/tv/supergirl/06-red-faced/supergirl-s01e06-screencaps-05.jpg",
+  "modx_id": 100811,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

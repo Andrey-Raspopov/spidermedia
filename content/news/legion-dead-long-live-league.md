@@ -1,6 +1,6 @@
 {
   "title": "Legion is Dead, Long Live the League!",
-  "date": "2013-06-18T02:42:00+03:00",
+  "date": "2013-06-18T01:42:44+03:00",
   "url": "/news/legion-dead-long-live-league/",
   "original_url": "http://spidermedia.ru/news/legion-dead-long-live-league",
   "archived": "https://web.archive.org/web/20251012180057/http://spidermedia.ru/news/legion-dead-long-live-league",
@@ -9,6 +9,12 @@
     "dzhej-em-demattej",
     "kevin-maguajr",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150502111558im_/http://spidermedia.ru/assets/images/import_image/7282.jpg",
+  "modx_id": 7282,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

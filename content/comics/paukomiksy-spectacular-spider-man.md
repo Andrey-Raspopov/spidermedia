@@ -9,6 +9,12 @@
     "spider-week",
     "spider-man"
   ],
+  "cover": "https://web.archive.org/web/20251110224342im_/http://spidermedia.ru/assets/images/spiderweek/spectacular-spider-man/cover.jpg",
+  "modx_id": 101997,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

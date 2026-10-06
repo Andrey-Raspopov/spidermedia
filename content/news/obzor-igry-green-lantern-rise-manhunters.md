@@ -1,6 +1,6 @@
 {
   "title": "Обзор игры Green Lantern: Rise of the Manhunters",
-  "date": "2011-07-07T13:58:00+03:00",
+  "date": "2011-07-07T12:58:01+03:00",
   "url": "/news/obzor-igry-green-lantern-rise-manhunters/",
   "original_url": "https://spidermedia.ru/news/obzor-igry-green-lantern-rise-manhunters",
   "archived": "https://web.archive.org/web/20251209140024/https://spidermedia.ru/news/obzor-igry-green-lantern-rise-manhunters",
@@ -11,6 +11,12 @@
     "igry",
     "manhunters",
     "green-lantern"
+  ],
+  "cover": "https://web.archive.org/web/20251209140024im_/http://spidermedia.ru/assets/images/import_image/6484.jpg",
+  "modx_id": 6484,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,11 +1,17 @@
 {
   "title": "D'Oh Jones - новое издательство комиксов в России",
-  "date": "2013-07-01T14:16:00+03:00",
+  "date": "2013-07-01T13:16:49+03:00",
   "url": "/news/doh-jones-novoe-izdatelstvo-komiksov-v-rossii/",
   "original_url": "https://spidermedia.ru/news/doh-jones-novoe-izdatelstvo-komiksov-v-rossii",
   "archived": "https://web.archive.org/web/20260206220122/https://spidermedia.ru/news/doh-jones-novoe-izdatelstvo-komiksov-v-rossii",
   "tags": [
     "russian-comics"
+  ],
+  "cover": "https://web.archive.org/web/20160504222813im_/http://spidermedia.ru/assets/images/import_image/7309.jpg",
+  "modx_id": 7309,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

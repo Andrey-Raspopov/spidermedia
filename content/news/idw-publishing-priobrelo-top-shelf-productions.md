@@ -1,12 +1,18 @@
 {
   "title": "IDW Publishing купило Top Shelf Productions",
-  "date": "2015-01-07T14:00:00+03:00",
+  "date": "2015-01-07T14:00:03+03:00",
   "url": "/news/idw-publishing-priobrelo-top-shelf-productions/",
   "original_url": "http://spidermedia.ru/news/idw-publishing-priobrelo-top-shelf-productions",
   "archived": "https://web.archive.org/web/20260125065712/http://spidermedia.ru/news/idw-publishing-priobrelo-top-shelf-productions",
   "tags": [
     "industriya",
     "idw-publishing"
+  ],
+  "cover": "https://web.archive.org/web/20150326004130im_/http://spidermedia.ru/assets/images/import_image/8465.jpg",
+  "modx_id": 8465,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,11 +1,19 @@
 {
   "title": "SPIDERCAST 005: ЛЕТО ОДНОКЛАССНИКИ ЛИЗАРД",
-  "date": "2012-07-15T21:31:00+03:00",
+  "date": "2012-07-15T20:31:59+03:00",
   "url": "/podcast/spidercast-005-lyubov-odnoklassniki-lizard/",
   "original_url": "http://spidermedia.ru/podcast/spidercast-005-lyubov-odnoklassniki-lizard",
   "archived": "https://web.archive.org/web/20250424204811/http://spidermedia.ru/podcast/spidercast-005-lyubov-odnoklassniki-lizard",
   "tags": [
     "spidercast"
+  ],
+  "cover": "https://web.archive.org/web/20150315213330im_/http://spidermedia.ru/misc/files/podcast/covers/emma-stone-pm.jpg",
+  "podcast_audio": "https://spidermedia.podster.fm/21/download/audio.mp3",
+  "podcast_length": "1:07:16",
+  "modx_id": 6977,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

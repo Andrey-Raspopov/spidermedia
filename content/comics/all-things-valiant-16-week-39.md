@@ -5,7 +5,14 @@
   "original_url": "https://spidermedia.ru/comics/all-things-valiant-16-week-39",
   "archived": "https://web.archive.org/web/20260125063646/https://spidermedia.ru/comics/all-things-valiant-16-week-39",
   "tags": [
-    "valiant-entertainment"
+    "valiant-entertainment",
+    "all-things-valiant"
+  ],
+  "cover": "https://web.archive.org/web/20260125063646im_/http://spidermedia.ru/assets/images/valiant/images/atv16/cover-16a.jpg",
+  "modx_id": 100604,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

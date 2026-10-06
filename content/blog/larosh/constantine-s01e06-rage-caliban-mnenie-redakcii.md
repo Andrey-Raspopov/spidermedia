@@ -1,6 +1,6 @@
 {
   "title": "Constantine s01e06 \"Rage of Caliban\": мнение редакции",
-  "date": "2014-12-01T16:04:00+03:00",
+  "date": "2014-12-01T16:04:09+03:00",
   "url": "/blog/larosh/constantine-s01e06-rage-caliban-mnenie-redakcii/",
   "original_url": "http://spidermedia.ru/blog/larosh/constantine-s01e06-rage-caliban-mnenie-redakcii",
   "archived": "https://web.archive.org/web/20260214130935/http://spidermedia.ru/blog/larosh/constantine-s01e06-rage-caliban-mnenie-redakcii",
@@ -10,7 +10,14 @@
     "dzhon-konstantin",
     "vertigo",
     "dc-comics",
-    "constantine"
+    "constantine",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20260214130935im_/http://spidermedia.ru/assets/images/import_image/8329.jpg",
+  "modx_id": 8329,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

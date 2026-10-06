@@ -1,6 +1,6 @@
 {
   "title": "Сизые головы авантюрного фэнтези",
-  "date": "2011-06-07T15:50:00+03:00",
+  "date": "2011-06-07T14:50:05+03:00",
   "url": "/news/sizye-golovy-avantyurnogo-fentezi/",
   "original_url": "https://spidermedia.ru/news/sizye-golovy-avantyurnogo-fentezi",
   "archived": "https://web.archive.org/web/20260115061819/https://spidermedia.ru/news/sizye-golovy-avantyurnogo-fentezi",
@@ -8,7 +8,14 @@
     "orc-stain",
     "dzhejms-stokou",
     "image-comics",
-    "preview"
+    "preview",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20260115061819im_/http://spidermedia.ru/assets/images/import_image/6345.jpg",
+  "modx_id": 6345,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Новый костюм Капитана Америка: Концепт-арт к фильму \"Первый Мститель: Другая война\"",
-  "date": "2013-04-12T13:39:00+03:00",
+  "date": "2013-04-12T12:39:59+03:00",
   "url": "/news/novyy-kostyum-kapitana-amerika-koncept-art-k-filmu-pervyy-mstitel-drugaya-voyna/",
   "original_url": "http://spidermedia.ru/news/novyy-kostyum-kapitana-amerika-koncept-art-k-filmu-pervyy-mstitel-drugaya-voyna",
   "archived": "https://web.archive.org/web/20251116072325/http://spidermedia.ru/news/novyy-kostyum-kapitana-amerika-koncept-art-k-filmu-pervyy-mstitel-drugaya-voyna",
@@ -8,6 +8,12 @@
     "marvel",
     "koncept-art",
     "winter-soldier"
+  ],
+  "cover": "https://web.archive.org/web/20251116072325im_/http://spidermedia.ru/assets/images/import_image/7198.jpg",
+  "modx_id": 7198,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

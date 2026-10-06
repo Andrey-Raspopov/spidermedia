@@ -4,6 +4,9 @@
   "url": "/docs/cartoon/xmen/",
   "original_url": "http://spidermedia.ru/docs/cartoon/xmen.html",
   "archived": "https://web.archive.org/web/20051202074053/http://spidermedia.ru:80/docs/cartoon/xmen.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

@@ -1,6 +1,6 @@
 {
   "title": "Heroes s3e14 - содержит спойлеры!",
-  "date": "2009-02-03T23:12:00+03:00",
+  "date": "2009-02-03T23:12:40+03:00",
   "url": "/blog/igrok/heroes-s3e14-soderzhit-spoylery/",
   "original_url": "https://spidermedia.ru/blog/igrok/heroes-s3e14-soderzhit-spoylery",
   "archived": "https://web.archive.org/web/20241205035613/https://spidermedia.ru/blog/igrok/heroes-s3e14-soderzhit-spoylery",
@@ -8,7 +8,13 @@
     "mnenie",
     "recenziya",
     "heroes",
-    "serialy"
+    "serialy",
+    "tv"
+  ],
+  "modx_id": 166,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Holy Terror continues!",
-  "date": "2011-07-22T01:16:00+03:00",
+  "date": "2011-07-22T00:16:54+03:00",
   "url": "/news/holy-terror-continues/",
   "original_url": "https://spidermedia.ru/news/holy-terror-continues",
   "archived": "https://web.archive.org/web/20250913022530/https://spidermedia.ru/news/holy-terror-continues",
@@ -8,6 +8,12 @@
     "frenk-miller",
     "legendary-comics",
     "holy-terror"
+  ],
+  "cover": "https://web.archive.org/web/20250913022530im_/http://spidermedia.ru/assets/images/import_image/6510.jpg",
+  "modx_id": 6510,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

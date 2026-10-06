@@ -1,6 +1,6 @@
 {
   "title": "Я читаю Marvel NOW! Выпуск 7: Брайан, ты просто космос",
-  "date": "2013-08-06T13:24:00+03:00",
+  "date": "2013-08-06T12:24:39+03:00",
   "url": "/blog/redson/ya-chitayu-marvel-now-vypusk-7-brayan-ty-prosto-kosmos/",
   "original_url": "https://spidermedia.ru/blog/redson/ya-chitayu-marvel-now-vypusk-7-brayan-ty-prosto-kosmos",
   "archived": "https://web.archive.org/web/20251006003922/https://spidermedia.ru/blog/redson/ya-chitayu-marvel-now-vypusk-7-brayan-ty-prosto-kosmos",
@@ -9,6 +9,12 @@
     "mnenie",
     "brian-michael-bendis",
     "dzhef-loeb"
+  ],
+  "cover": "https://web.archive.org/web/20251006003922im_/http://spidermedia.ru/assets/images/import_image/7405.jpg",
+  "modx_id": 7405,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

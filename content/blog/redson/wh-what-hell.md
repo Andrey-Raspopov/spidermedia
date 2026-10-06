@@ -1,13 +1,19 @@
 {
   "title": "Wh... What the hell...?",
-  "date": "2009-02-17T15:02:00+03:00",
+  "date": "2009-02-17T15:02:37+03:00",
   "url": "/blog/redson/wh-what-hell/",
   "original_url": "http://spidermedia.ru/blog/redson/wh-what-hell",
   "archived": "https://web.archive.org/web/20251111083522/http://spidermedia.ru/blog/redson/wh-what-hell",
   "tags": [
     "manga",
     "dzheyson-aaron",
-    "nsfw"
+    "nsfw",
+    "manga-2"
+  ],
+  "modx_id": 407,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,12 +1,20 @@
 {
   "title": "Well Hello, Mr. Hugh Jackman!",
-  "date": "2009-04-13T15:37:00+03:00",
+  "date": "2009-04-13T14:37:47+03:00",
   "url": "/blog/ironman/well-hello-mr-hugh-jackman/",
+  "aliases": [
+    "/node/925/"
+  ],
   "original_url": "http://spidermedia.ru/blog/ironman/well-hello-mr-hugh-jackman",
   "archived": "https://web.archive.org/web/20200127103541/http://spidermedia.ru:80/blog/ironman/well-hello-mr-hugh-jackman",
   "tags": [
     "marvel",
     "wolverine"
+  ],
+  "modx_id": 925,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

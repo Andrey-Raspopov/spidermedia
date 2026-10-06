@@ -1,6 +1,6 @@
 {
   "title": "Второй трейлер \"Первого мстителя\" (Капитан Америка)",
-  "date": "2011-06-24T11:32:00+03:00",
+  "date": "2011-06-24T10:32:24+03:00",
   "url": "/news/vtoroy-treyler-pervogo-mstitelya/",
   "original_url": "http://spidermedia.ru/news/vtoroy-treyler-pervogo-mstitelya",
   "archived": "https://web.archive.org/web/20241106114329/http://spidermedia.ru/news/vtoroy-treyler-pervogo-mstitelya",
@@ -8,6 +8,12 @@
     "trejlery",
     "marvel",
     "captain-america"
+  ],
+  "cover": "https://web.archive.org/web/20241106114329im_/http://spidermedia.ru/assets/images/import_image/6469.jpg",
+  "modx_id": 6469,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

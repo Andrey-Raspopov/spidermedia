@@ -1,7 +1,10 @@
 {
   "title": "Самое быстрое превью в мире...",
-  "date": "2009-04-29T20:06:00+03:00",
+  "date": "2009-04-29T19:06:14+03:00",
   "url": "/news/samoe-bystroe-prevyu-v-mire/",
+  "aliases": [
+    "/node/1069/"
+  ],
   "original_url": "http://spidermedia.ru/news/samoe-bystroe-prevyu-v-mire",
   "archived": "https://web.archive.org/web/20240911135520/http://spidermedia.ru/news/samoe-bystroe-prevyu-v-mire",
   "tags": [
@@ -9,7 +12,14 @@
     "the-flash",
     "preview",
     "geoff-johns",
-    "ethan-van-sciver"
+    "ethan-van-sciver",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20150502161214im_/http://spidermedia.ru/assets/images/import_image/1069.jpg",
+  "modx_id": 1069,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

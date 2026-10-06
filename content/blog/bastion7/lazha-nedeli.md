@@ -1,6 +1,6 @@
 {
   "title": "Лажа недели",
-  "date": "2009-02-09T19:59:00+03:00",
+  "date": "2009-02-09T18:59:31+03:00",
   "url": "/blog/bastion7/lazha-nedeli/",
   "original_url": "http://spidermedia.ru/blog/bastion7/lazha-nedeli",
   "archived": "https://web.archive.org/web/20120607150031/http://spidermedia.ru/blog/bastion7/lazha-nedeli",
@@ -8,6 +8,11 @@
     "komiksy",
     "mysli",
     "futurama"
+  ],
+  "modx_id": 287,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

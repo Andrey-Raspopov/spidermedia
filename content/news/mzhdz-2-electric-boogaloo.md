@@ -1,12 +1,18 @@
 {
   "title": "МЖДЗ-2: ELECTRIC BOOGALOO",
-  "date": "2012-04-12T00:22:00+03:00",
+  "date": "2012-04-11T23:22:16+03:00",
   "url": "/news/mzhdz-2-electric-boogaloo/",
   "original_url": "http://spidermedia.ru/news/mzhdz-2-electric-boogaloo",
   "archived": "https://web.archive.org/web/20241202085214/http://spidermedia.ru/news/mzhdz-2-electric-boogaloo",
   "tags": [
     "mnenie",
     "mzhdz"
+  ],
+  "cover": "https://web.archive.org/web/20160729173733im_/http://spidermedia.ru/assets/images/import_image/6864.png",
+  "modx_id": 6864,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

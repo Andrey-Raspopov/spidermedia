@@ -1,7 +1,10 @@
 {
   "title": "Когтистый Апрель",
-  "date": "2009-03-11T17:50:00+03:00",
+  "date": "2009-03-11T16:50:00+03:00",
   "url": "/news/kogtistyy-aprel/",
+  "aliases": [
+    "/node/646/"
+  ],
   "original_url": "http://spidermedia.ru/news/kogtistyy-aprel",
   "archived": "https://web.archive.org/web/20120607172211/http://spidermedia.ru/news/kogtistyy-aprel",
   "tags": [
@@ -13,7 +16,15 @@
     "oblozhki",
     "preview-s",
     "ron-garni",
-    "rosomaha"
+    "rosomaha",
+    "prevyu",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20120607172211im_/http://spidermedia.ru/assets/images/import_image/646.jpg",
+  "modx_id": 646,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

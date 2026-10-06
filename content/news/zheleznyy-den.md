@@ -1,7 +1,10 @@
 {
   "title": "Железный день!",
-  "date": "2009-05-01T09:05:00+03:00",
+  "date": "2009-05-01T08:05:45+03:00",
   "url": "/news/zheleznyy-den/",
+  "aliases": [
+    "/node/1076/"
+  ],
   "original_url": "http://spidermedia.ru/news/zheleznyy-den",
   "archived": "https://web.archive.org/web/20120608232850/http://spidermedia.ru/news/zheleznyy-den",
   "tags": [
@@ -14,7 +17,13 @@
     "komiksy",
     "marvel",
     "preview-s",
-    "robert-dauni-ml"
+    "robert-dauni-ml",
+    "prevyu"
+  ],
+  "modx_id": 1076,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

@@ -1,13 +1,22 @@
 {
   "title": "Киборг-мутант-самурай из прошлого",
-  "date": "2009-09-16T23:14:00+03:00",
+  "date": "2009-09-16T22:14:55+03:00",
   "url": "/news/kiborg-mutant-samuray-iz-proshlogo/",
+  "aliases": [
+    "/node/1904/"
+  ],
   "original_url": "http://spidermedia.ru/news/kiborg-mutant-samuray-iz-proshlogo",
   "archived": "https://web.archive.org/web/20200120103657/http://spidermedia.ru:80/news/kiborg-mutant-samuray-iz-proshlogo",
   "tags": [
     "frenk-miller",
     "ronin",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20200120103657im_/http://spidermedia.ru/assets/images/import_image/1904.jpg",
+  "modx_id": 1904,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

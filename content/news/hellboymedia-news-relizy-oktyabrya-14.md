@@ -1,11 +1,17 @@
 {
   "title": "Hellboymedia: Анонсы на Октябрь ’14",
-  "date": "2014-07-16T21:11:00+03:00",
+  "date": "2014-07-16T20:11:00+03:00",
   "url": "/news/hellboymedia-news-relizy-oktyabrya-14/",
   "original_url": "http://spidermedia.ru/news/hellboymedia-news-relizy-oktyabrya-14",
   "archived": "https://web.archive.org/web/20260124051802/http://spidermedia.ru/news/hellboymedia-news-relizy-oktyabrya-14",
   "tags": [
     "hellboymedia"
+  ],
+  "cover": "https://web.archive.org/web/20160611224415im_/http://spidermedia.ru/assets/images/hellboymedia/solicitations/14-10-october/october-14-solicitations-cover.jpg",
+  "modx_id": 7898,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

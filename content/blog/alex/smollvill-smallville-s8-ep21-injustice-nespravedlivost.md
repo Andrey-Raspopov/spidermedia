@@ -1,6 +1,6 @@
 {
   "title": "Смоллвилль\\Smallville s8 ep.21 - \"Injustice\"\\\"Несправедливость\"",
-  "date": "2009-05-10T15:08:00+03:00",
+  "date": "2009-05-10T14:08:13+03:00",
   "url": "/blog/alex/smollvill-smallville-s8-ep21-injustice-nespravedlivost/",
   "original_url": "https://spidermedia.ru/blog/alex/smollvill-smallville-s8-ep21-injustice-nespravedlivost",
   "archived": "https://web.archive.org/web/20260116221711/https://spidermedia.ru/blog/alex/smollvill-smallville-s8-ep21-injustice-nespravedlivost",
@@ -9,7 +9,14 @@
     "serialy",
     "superman",
     "smollvill",
-    "tajny-smollvillya"
+    "tajny-smollvillya",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20260116221711im_/http://spidermedia.ru/assets/images/import_image/1143.png",
+  "modx_id": 1143,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

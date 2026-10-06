@@ -1,6 +1,6 @@
 {
   "title": "\"Мстители\" в Москве",
-  "date": "2012-04-19T10:41:00+03:00",
+  "date": "2012-04-19T09:41:45+03:00",
   "url": "/news/mstiteli-v-moskve/",
   "original_url": "http://spidermedia.ru/news/mstiteli-v-moskve",
   "archived": "https://web.archive.org/web/20130619044354/http://spidermedia.ru/news/mstiteli-v-moskve",
@@ -9,6 +9,12 @@
     "kino",
     "marvel",
     "mstiteli"
+  ],
+  "cover": "https://web.archive.org/web/20130619044354im_/http://spidermedia.ru/assets/images/import_image/6882.jpg",
+  "modx_id": 6882,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

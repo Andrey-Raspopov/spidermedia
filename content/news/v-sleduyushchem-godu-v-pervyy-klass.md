@@ -1,12 +1,18 @@
 {
   "title": "В следующем году в первый класс",
-  "date": "2010-03-27T18:39:00+03:00",
+  "date": "2010-03-27T18:39:57+03:00",
   "url": "/news/v-sleduyushchem-godu-v-pervyy-klass/",
   "original_url": "http://spidermedia.ru/news/v-sleduyushchem-godu-v-pervyy-klass",
   "archived": "https://web.archive.org/web/20170908224024/http://spidermedia.ru:80/news/v-sleduyushchem-godu-v-pervyy-klass",
   "tags": [
     "x-men-first-class",
     "lyudi-iks-pervyj-klass"
+  ],
+  "cover": "https://web.archive.org/web/20170908224024im_/http://spidermedia.ru/assets/images/import_image/2482.jpg",
+  "modx_id": 2482,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

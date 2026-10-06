@@ -1,6 +1,6 @@
 {
   "title": "Batman: Arkham City Riddler Trailer",
-  "date": "2011-07-14T22:25:00+03:00",
+  "date": "2011-07-14T21:25:00+03:00",
   "url": "/news/batman-arkham-city-riddler-trailer/",
   "original_url": "https://spidermedia.ru/news/batman-arkham-city-riddler-trailer",
   "archived": "https://web.archive.org/web/20260211185416/https://spidermedia.ru/news/batman-arkham-city-riddler-trailer",
@@ -10,6 +10,12 @@
     "dc-comics",
     "batman",
     "arkham-asylum"
+  ],
+  "cover": "https://web.archive.org/web/20150424081725im_/http://spidermedia.ru/assets/images/import_image/6498.png",
+  "modx_id": 6498,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

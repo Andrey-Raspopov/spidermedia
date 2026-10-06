@@ -1,6 +1,6 @@
 {
   "title": "The fastest starro alive and other action",
-  "date": "2009-05-05T20:18:00+03:00",
+  "date": "2009-05-05T19:18:33+03:00",
   "url": "/news/fastest-starro-alive-and-other-action/",
   "original_url": "https://spidermedia.ru/news/fastest-starro-alive-and-other-action",
   "archived": "https://web.archive.org/web/20250715223608/https://spidermedia.ru/news/fastest-starro-alive-and-other-action",
@@ -12,6 +12,12 @@
     "starro",
     "karl-kershel",
     "hulian-lopes"
+  ],
+  "cover": "https://web.archive.org/web/20250715223608im_/http://spidermedia.ru/assets/images/import_image/1106.jpg",
+  "modx_id": 1106,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
@@ -25,7 +31,7 @@
 
 [![Photobucket](https://web.archive.org/web/20250715223608im_/http://i305.photobucket.com/albums/nn228/Crackity_Jones_0/th_lane__hollisterblog.jpg)](http://s305.photobucket.com/albums/nn228/Crackity_Jones_0/?action=view¤t=lane__hollisterblog.jpg) [![Photobucket](https://web.archive.org/web/20250715223608im_/http://i305.photobucket.com/albums/nn228/Crackity_Jones_0/th_nw__fbblog.jpg)](http://s305.photobucket.com/albums/nn228/Crackity_Jones_0/?action=view¤t=nw__fbblog.jpg) [![Photobucket](https://web.archive.org/web/20250715223608im_/http://i305.photobucket.com/albums/nn228/Crackity_Jones_0/th_atlasblog.jpg)](http://s305.photobucket.com/albums/nn228/Crackity_Jones_0/?action=view¤t=atlasblog.jpg)
 
-Ну и напоследок часть страницы **Флэша** *(Flash)* из [регулярно](../../node/994/#comments) упоминаемой в нашей новостной ленте серии **Wednesday Comics**:
+Ну и напоследок часть страницы **Флэша** *(Flash)* из [регулярно](../vopros-i-eshche-odin-komiks-v-sredu/#comments) упоминаемой в нашей новостной ленте серии **Wednesday Comics**:
 
 [![Photobucket](https://web.archive.org/web/20250715223608im_/http://i305.photobucket.com/albums/nn228/Crackity_Jones_0/th_WednesdayFlash01.jpg)](http://s305.photobucket.com/albums/nn228/Crackity_Jones_0/?action=view¤t=WednesdayFlash01.jpg)
 

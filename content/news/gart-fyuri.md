@@ -1,6 +1,6 @@
 {
   "title": "Гарт Фьюри",
-  "date": "2011-03-20T22:51:00+03:00",
+  "date": "2011-03-20T22:51:10+03:00",
   "url": "/news/gart-fyuri/",
   "original_url": "https://spidermedia.ru/news/gart-fyuri",
   "archived": "https://web.archive.org/web/20250318072254/https://spidermedia.ru/news/gart-fyuri",
@@ -10,6 +10,12 @@
     "garth-ennis",
     "nick-fury",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20250318072254im_/http://spidermedia.ru/assets/images/import_image/4311.jpg",
+  "modx_id": 4311,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

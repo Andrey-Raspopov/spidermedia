@@ -1,6 +1,6 @@
 {
   "title": "Трейлер фильма \"Новый Человек-Паук: Высокое напряжение\"",
-  "date": "2013-12-05T17:31:00+03:00",
+  "date": "2013-12-05T16:31:32+03:00",
   "url": "/news/amazing-spider-man-2-rise-of-electro-official-trailer-2013/",
   "original_url": "https://spidermedia.ru/news/amazing-spider-man-2-rise-of-electro-official-trailer-2013",
   "archived": "https://web.archive.org/web/20240807003858/https://spidermedia.ru/news/amazing-spider-man-2-rise-of-electro-official-trailer-2013",
@@ -8,6 +8,12 @@
     "spider-man",
     "trejlery",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150326221248im_/http://spidermedia.ru/assets/images/import_image/7567.jpg",
+  "modx_id": 7567,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

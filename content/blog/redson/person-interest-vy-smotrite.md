@@ -1,12 +1,19 @@
 {
   "title": "Person of Interest: вы смотрите?",
-  "date": "2014-12-22T14:42:00+03:00",
+  "date": "2014-12-22T14:42:15+03:00",
   "url": "/blog/redson/person-interest-vy-smotrite/",
   "original_url": "http://spidermedia.ru/blog/redson/person-interest-vy-smotrite",
   "archived": "https://web.archive.org/web/20230323035438/http://spidermedia.ru/blog/redson/person-interest-vy-smotrite",
   "tags": [
     "obzor",
-    "serialy"
+    "serialy",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20230323035438im_/http://spidermedia.ru/assets/images/import_image/8410.jpg",
+  "modx_id": 8410,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

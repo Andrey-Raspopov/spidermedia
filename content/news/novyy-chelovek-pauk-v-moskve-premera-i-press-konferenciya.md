@@ -1,12 +1,18 @@
 {
   "title": "Московская премьера \"Нового Человека-Паука\"",
-  "date": "2012-06-20T17:27:00+03:00",
+  "date": "2012-06-20T16:27:58+03:00",
   "url": "/news/novyy-chelovek-pauk-v-moskve-premera-i-press-konferenciya/",
   "original_url": "https://spidermedia.ru/news/novyy-chelovek-pauk-v-moskve-premera-i-press-konferenciya",
   "archived": "https://web.archive.org/web/20250424203754/https://spidermedia.ru/news/novyy-chelovek-pauk-v-moskve-premera-i-press-konferenciya",
   "tags": [
     "spider-man",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20250424203754im_/http://spidermedia.ru/assets/images/import_image/6944.jpg",
+  "modx_id": 6944,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

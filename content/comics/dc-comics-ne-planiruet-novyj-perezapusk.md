@@ -10,6 +10,12 @@
     "dan-didio",
     "ethan-van-sciver"
   ],
+  "cover": "https://web.archive.org/web/20160611141504im_/http://spidermedia.ru/assets/images/news/dc/didio-suka.jpg",
+  "modx_id": 100847,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

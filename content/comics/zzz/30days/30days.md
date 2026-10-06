@@ -4,6 +4,9 @@
   "url": "/comics/zzz/30days/30days/",
   "original_url": "http://www.spidermedia.ru/comics/zzz/30days/30days.html",
   "archived": "https://web.archive.org/web/20050310005049/http://www.spidermedia.ru:80/comics/zzz/30days/30days.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "cp1251 (guessed)"
 }

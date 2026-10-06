@@ -1,7 +1,10 @@
 {
   "title": "Движущиеся картинки",
-  "date": "2010-03-10T22:28:00+03:00",
+  "date": "2010-03-10T22:28:13+03:00",
   "url": "/news/dvizhushchiesya-kartinki/",
+  "aliases": [
+    "/node/2430/"
+  ],
   "original_url": "http://spidermedia.ru/news/dvizhushchiesya-kartinki",
   "archived": "https://web.archive.org/web/20241007014937/http://spidermedia.ru/news/dvizhushchiesya-kartinki",
   "tags": [
@@ -12,6 +15,12 @@
     "man-of-steel",
     "batman",
     "spider-man"
+  ],
+  "cover": "https://web.archive.org/web/20241007014937im_/http://spidermedia.ru/assets/images/import_image/2430.jpg",
+  "modx_id": 2430,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

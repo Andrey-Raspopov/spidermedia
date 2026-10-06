@@ -4,6 +4,12 @@
   "url": "/games/ruined-king-a-league-of-legends-story-opinion/",
   "original_url": "https://spidermedia.ru/games/ruined-king-a-league-of-legends-story-opinion",
   "archived": "https://web.archive.org/web/20251205105455/https://spidermedia.ru/games/ruined-king-a-league-of-legends-story-opinion",
+  "cover": "https://web.archive.org/web/20251205105455im_/http://spidermedia.ru/assets/images/games/screenshot-28.png",
+  "modx_id": 102472,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

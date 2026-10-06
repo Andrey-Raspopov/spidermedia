@@ -7,6 +7,12 @@
   "tags": [
     "image-comics"
   ],
+  "cover": "https://web.archive.org/web/20180201021500im_/http://spidermedia.ru/assets/images/games/battle-chasers/battle-chasers.jpg",
+  "modx_id": 100528,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

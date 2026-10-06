@@ -1,11 +1,17 @@
 {
   "title": "Лауреаты премии Айзнера 2013",
-  "date": "2013-07-20T12:51:00+03:00",
+  "date": "2013-07-20T11:51:29+03:00",
   "url": "/news/laureaty-premii-aznera-2013/",
   "original_url": "http://spidermedia.ru/news/laureaty-premii-aznera-2013",
   "archived": "https://web.archive.org/web/20191228200925/http://spidermedia.ru:80/news/laureaty-premii-aznera-2013",
   "tags": [
     "eisner-awards"
+  ],
+  "cover": "https://web.archive.org/web/20191228200925im_/http://spidermedia.ru/assets/images/import_image/7364.jpg",
+  "modx_id": 7364,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

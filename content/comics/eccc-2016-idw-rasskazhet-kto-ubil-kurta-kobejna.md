@@ -8,6 +8,12 @@
     "emerald-city-comicon",
     "idw-publishing"
   ],
+  "cover": "https://web.archive.org/web/20180205114121im_/http://spidermedia.ru/assets/images/news/idw/who-killed-kurt-cobain_.jpg",
+  "modx_id": 101074,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

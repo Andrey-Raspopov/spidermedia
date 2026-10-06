@@ -1,6 +1,6 @@
 {
   "title": "YOU WANNA SEE SOME MAGIC?",
-  "date": "2011-06-07T19:58:00+03:00",
+  "date": "2011-06-07T18:58:34+03:00",
   "url": "/news/you-wanna-see-some-magic/",
   "original_url": "http://spidermedia.ru/news/you-wanna-see-some-magic",
   "archived": "https://web.archive.org/web/20260313121036/http://spidermedia.ru/news/you-wanna-see-some-magic",
@@ -19,6 +19,12 @@
     "animal-man",
     "vampire",
     "peter-milligan"
+  ],
+  "cover": "https://web.archive.org/web/20260313121036im_/http://spidermedia.ru/assets/images/import_image/6350.jpg",
+  "modx_id": 6350,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

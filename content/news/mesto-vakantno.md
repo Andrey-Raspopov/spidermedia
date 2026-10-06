@@ -1,7 +1,10 @@
 {
   "title": "Место вакантно",
-  "date": "2010-08-06T23:23:00+03:00",
+  "date": "2010-08-06T22:23:52+03:00",
   "url": "/news/mesto-vakantno/",
+  "aliases": [
+    "/node/2829/"
+  ],
   "original_url": "http://spidermedia.ru/news/mesto-vakantno",
   "archived": "https://web.archive.org/web/20260125070750/http://spidermedia.ru/news/mesto-vakantno",
   "tags": [
@@ -9,7 +12,14 @@
     "sluhi",
     "art-0",
     "shadowland",
-    "marvel"
+    "marvel",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20260125070750im_/http://spidermedia.ru/assets/images/import_image/2829.jpg",
+  "modx_id": 2829,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
@@ -18,5 +28,5 @@
 Издательство **Marvel** начинает знакомить читателей с тизерами на тему **"Кто станет новым Человеком Без Страха** *(Man Without Fear)***?"** по окончанию **Страны Теней** *(Shadowland)*, акцию открывает космический защитник **Нова** *(Nova)*:
 [![](https://web.archive.org/web/20260125070750im_/http://img.photobucket.com/albums/v497/spidermedia/13462791882_full0768911.jpg?t=1280777208)](http://smg.photobucket.com/albums/v497/spidermedia/13462791882_full0768911-1.jpg) [![](https://web.archive.org/web/20260125070750im_/http://img.photobucket.com/albums/v497/spidermedia/13462storystory_full-08625772.jpg?t=1280864024)](http://smg.photobucket.com/albums/v497/spidermedia/13462storystory_full-0862577.jpg) [![](https://web.archive.org/web/20260125070750im_/http://img.photobucket.com/albums/v497/spidermedia/13462storystory222_full-0948328.jpg?t=1280949589)](http://smg.photobucket.com/albums/v497/spidermedia/13462storystory_full-0948328.jpg) [![](https://web.archive.org/web/20260125070750im_/http://img.photobucket.com/albums/v497/spidermedia/13462storystory_full-0949652-1.jpg?t=1280950397)](http://smg.photobucket.com/albums/v497/spidermedia/13462storystory_full-0949652.jpg)
 [![](https://web.archive.org/web/20260125070750im_/http://img.photobucket.com/albums/v497/spidermedia/WhoWillBeTheNewManWithoutFear-052.jpg?t=1281122610)](http://smg.photobucket.com/albums/v497/spidermedia/WhoWillBeTheNewManWithoutFear-05.jpg)
-На недавнем **Комик-Коне в Сан-Диего** *(San Diego Comic-Con)* уже [анонсировали](../../node/2780/) других кандидатов на место супергероя плюс к ним добавится **Черная Пантера** *(Black Panther)* с **Крейвеном-Охотником** *(Kraven the Hunter)*. Вероятней всего, именно их нам и покажут в течение недели.
+На недавнем **Комик-Коне в Сан-Диего** *(San Diego Comic-Con)* уже [анонсировали](../sdcc10-marvel/) других кандидатов на место супергероя плюс к ним добавится **Черная Пантера** *(Black Panther)* с **Крейвеном-Охотником** *(Kraven the Hunter)*. Вероятней всего, именно их нам и покажут в течение недели.
 **UPD:** Добавлен **Гамбит** *(Gambit)*, **Сокол** *(Falcon)*, **Черная Пантера** и **Крейвен**.

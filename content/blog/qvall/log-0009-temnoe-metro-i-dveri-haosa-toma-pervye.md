@@ -1,6 +1,6 @@
 {
   "title": "Log #0009 - \"Темное метро\" и \"Двери хаоса\", тома первые",
-  "date": "2009-02-17T16:59:00+03:00",
+  "date": "2009-02-17T16:59:21+03:00",
   "url": "/blog/qvall/log-0009-temnoe-metro-i-dveri-haosa-toma-pervye/",
   "original_url": "http://spidermedia.ru/blog/qvall/log-0009-temnoe-metro-i-dveri-haosa-toma-pervye",
   "archived": "https://web.archive.org/web/20251006140537/http://spidermedia.ru/blog/qvall/log-0009-temnoe-metro-i-dveri-haosa-toma-pervye",
@@ -8,6 +8,12 @@
     "mnenie",
     "manga",
     "bla-bla-bla"
+  ],
+  "cover": "https://web.archive.org/web/20251006140537im_/http://spidermedia.ru/assets/images/import_image/411.jpg",
+  "modx_id": 411,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -9,6 +9,12 @@
     "batman",
     "batman-week"
   ],
+  "cover": "https://web.archive.org/web/20251216122208im_/http://spidermedia.ru/assets/images/games/batman-the-brave-and-the-bold/q23.png",
+  "modx_id": 101340,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

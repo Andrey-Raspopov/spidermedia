@@ -1,6 +1,6 @@
 {
   "title": "Последний концерт Скотта Пилигрима",
-  "date": "2010-03-19T20:06:00+03:00",
+  "date": "2010-03-19T20:06:45+03:00",
   "url": "/news/posledniy-koncert-skotta-piligrima/",
   "original_url": "http://spidermedia.ru/news/posledniy-koncert-skotta-piligrima",
   "archived": "https://web.archive.org/web/20190924022614/http://spidermedia.ru:80/news/posledniy-koncert-skotta-piligrima",
@@ -8,6 +8,12 @@
     "scott-pilgrim",
     "bryan-lee-o-malley",
     "oni-press"
+  ],
+  "cover": "https://web.archive.org/web/20190924022614im_/http://spidermedia.ru/assets/images/import_image/2463.jpg",
+  "modx_id": 2463,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

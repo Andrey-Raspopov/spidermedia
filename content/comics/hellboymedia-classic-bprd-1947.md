@@ -8,6 +8,12 @@
     "hellboymedia",
     "mnenie"
   ],
+  "cover": "https://web.archive.org/web/20260312010933im_/http://spidermedia.ru/assets/images/hellboymedia/classic/bprd-1947/bprd-1947-cover.jpg",
+  "modx_id": 101100,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

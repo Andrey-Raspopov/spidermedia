@@ -1,7 +1,10 @@
 {
   "title": "Фигурка без страха",
-  "date": "2009-04-23T00:40:00+03:00",
+  "date": "2009-04-22T23:40:01+03:00",
   "url": "/news/figurka-bez-straha/",
+  "aliases": [
+    "/node/989/"
+  ],
   "original_url": "https://spidermedia.ru/news/figurka-bez-straha",
   "archived": "https://web.archive.org/web/20260120150119/https://spidermedia.ru/news/figurka-bez-straha",
   "tags": [
@@ -10,6 +13,11 @@
     "daredevil",
     "dardevil",
     "diamond-select"
+  ],
+  "modx_id": 989,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

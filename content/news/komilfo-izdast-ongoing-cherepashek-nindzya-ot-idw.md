@@ -1,6 +1,6 @@
 {
   "title": "UPD.! \"Комильфо\" издаст онгоинг \"Черепашек-Ниндзя\" от IDW",
-  "date": "2014-07-13T10:00:00+03:00",
+  "date": "2014-07-13T09:00:32+03:00",
   "url": "/news/komilfo-izdast-ongoing-cherepashek-nindzya-ot-idw/",
   "original_url": "https://spidermedia.ru/news/komilfo-izdast-ongoing-cherepashek-nindzya-ot-idw",
   "archived": "https://web.archive.org/web/20260215080641/https://spidermedia.ru/news/komilfo-izdast-ongoing-cherepashek-nindzya-ot-idw",
@@ -8,6 +8,12 @@
     "ninja-turtles",
     "komilfo",
     "idw-publishing"
+  ],
+  "cover": "https://web.archive.org/web/20150326171900im_/http://spidermedia.ru/assets/images/import_image/7883.jpg",
+  "modx_id": 7883,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "Кольца Силы",
-  "date": "2009-02-08T15:44:00+03:00",
+  "date": "2009-02-08T15:44:53+03:00",
   "url": "/blog/alex/kolca-sily/",
+  "aliases": [
+    "/node/272/"
+  ],
   "original_url": "https://spidermedia.ru/blog/alex/kolca-sily",
   "archived": "https://web.archive.org/web/20250807214945/https://spidermedia.ru/blog/alex/kolca-sily",
   "tags": [
@@ -10,6 +13,12 @@
     "green-lantern",
     "nycc-2009",
     "blackest-night"
+  ],
+  "cover": "https://web.archive.org/web/20150326220832im_/http://spidermedia.ru/assets/images/import_image/272.jpg",
+  "modx_id": 272,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

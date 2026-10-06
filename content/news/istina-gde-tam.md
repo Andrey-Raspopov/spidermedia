@@ -1,6 +1,6 @@
 {
   "title": "Истина где-то там",
-  "date": "2012-03-14T16:04:00+03:00",
+  "date": "2012-03-14T15:04:20+03:00",
   "url": "/news/istina-gde-tam/",
   "original_url": "http://spidermedia.ru/news/istina-gde-tam",
   "archived": "https://web.archive.org/web/20251213192612/http://spidermedia.ru/news/istina-gde-tam",
@@ -9,6 +9,11 @@
     "rajan-bodenhajm",
     "image-comics",
     "trejlery"
+  ],
+  "modx_id": 6830,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -7,6 +7,12 @@
   "tags": [
     "boom-studios"
   ],
+  "cover": "https://web.archive.org/web/20180205070026im_/http://spidermedia.ru/assets/images/news/boom/broken-world/broken-world-1.jpg",
+  "modx_id": 100198,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

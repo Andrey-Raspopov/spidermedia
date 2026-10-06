@@ -1,7 +1,10 @@
 {
   "title": "Возвращение Короля",
-  "date": "2010-02-12T04:09:00+03:00",
+  "date": "2010-02-12T04:09:45+03:00",
   "url": "/news/vozvrashchenie-korolya/",
+  "aliases": [
+    "/node/2361/"
+  ],
   "original_url": "http://spidermedia.ru/news/vozvrashchenie-korolya",
   "archived": "https://web.archive.org/web/20251207100023/http://spidermedia.ru/news/vozvrashchenie-korolya",
   "tags": [
@@ -13,6 +16,12 @@
     "devid-finch",
     "blackest-night",
     "temnejshaya-noch"
+  ],
+  "cover": "https://web.archive.org/web/20251207100023im_/http://spidermedia.ru/assets/images/import_image/2361.jpg",
+  "modx_id": 2361,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -4,6 +4,12 @@
   "url": "/comics/enter-the-void-004-kogda-smolkayut-kolybelnye/",
   "original_url": "http://spidermedia.ru/comics/enter-the-void-004-kogda-smolkayut-kolybelnye?",
   "archived": "https://web.archive.org/web/20200131103655/http://spidermedia.ru:80/comics/enter-the-void-004-kogda-smolkayut-kolybelnye?",
+  "cover": "https://web.archive.org/web/20200131103655im_/http://spidermedia.ru/assets/images/manga/ev/ev_004.jpg",
+  "modx_id": 101843,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

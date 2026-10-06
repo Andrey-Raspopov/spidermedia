@@ -1,6 +1,6 @@
 {
   "title": "М.О.Д.О.К. рвется к власти",
-  "date": "2009-06-11T22:10:00+03:00",
+  "date": "2009-06-11T21:10:00+03:00",
   "url": "/news/modok-rvetsya-k-vlasti/",
   "original_url": "https://spidermedia.ru/news/modok-rvetsya-k-vlasti",
   "archived": "https://web.archive.org/web/20241202083522/https://spidermedia.ru/news/modok-rvetsya-k-vlasti",
@@ -10,7 +10,13 @@
     "fred-van-lente",
     "m.o.d.o.k",
     "rajan-danlevi",
-    "temnoe-pravlenie"
+    "temnoe-pravlenie",
+    "art"
+  ],
+  "modx_id": 1307,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

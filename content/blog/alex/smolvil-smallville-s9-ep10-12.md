@@ -1,6 +1,6 @@
 {
   "title": "Смолвиль/Smallville s9 ep.10-12",
-  "date": "2010-02-07T19:23:00+03:00",
+  "date": "2010-02-07T19:23:42+03:00",
   "url": "/blog/alex/smolvil-smallville-s9-ep10-12/",
   "original_url": "https://spidermedia.ru/blog/alex/smolvil-smallville-s9-ep10-12",
   "archived": "https://web.archive.org/web/20250424101706/https://spidermedia.ru/blog/alex/smolvil-smallville-s9-ep10-12",
@@ -9,7 +9,13 @@
     "tajny-smollvillya",
     "superman",
     "smollvill",
-    "smallville"
+    "smallville",
+    "tv"
+  ],
+  "modx_id": 2347,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

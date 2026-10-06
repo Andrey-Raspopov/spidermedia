@@ -1,7 +1,10 @@
 {
   "title": "Этот Безумный Мир",
-  "date": "2009-02-06T01:54:00+03:00",
+  "date": "2009-02-06T01:54:03+03:00",
   "url": "/blog/silver/etot-bezumnyy-mir/",
+  "aliases": [
+    "/node/221/"
+  ],
   "original_url": "http://spidermedia.ru/blog/silver/etot-bezumnyy-mir",
   "archived": "https://web.archive.org/web/20161029033410/http://spidermedia.ru:80/blog/silver/etot-bezumnyy-mir",
   "tags": [
@@ -9,7 +12,15 @@
     "matt-fraction",
     "mnenie",
     "marvel",
-    "iron-man"
+    "iron-man",
+    "mett-frakshen",
+    "zheleznyy-chelovek"
+  ],
+  "cover": "https://web.archive.org/web/20161029033410im_/http://spidermedia.ru/assets/images/import_image/221.jpg",
+  "modx_id": 221,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

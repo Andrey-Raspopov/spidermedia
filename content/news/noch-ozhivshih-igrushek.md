@@ -1,11 +1,20 @@
 {
   "title": "Ночь оживших игрушек",
-  "date": "2009-04-20T11:29:00+03:00",
+  "date": "2009-04-20T10:29:55+03:00",
   "url": "/news/noch-ozhivshih-igrushek/",
+  "aliases": [
+    "/node/997/"
+  ],
   "original_url": "http://spidermedia.ru/news/noch-ozhivshih-igrushek",
   "archived": "https://web.archive.org/web/20260125131850/http://spidermedia.ru/news/noch-ozhivshih-igrushek",
   "tags": [
     "image-comics"
+  ],
+  "cover": "https://web.archive.org/web/20260125131850im_/http://spidermedia.ru/assets/images/import_image/997.jpg",
+  "modx_id": 997,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

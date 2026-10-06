@@ -1,7 +1,10 @@
 {
   "title": "SDCC'09 - Кино",
-  "date": "2009-07-24T02:01:00+03:00",
+  "date": "2009-07-24T01:01:55+03:00",
   "url": "/news/sdcc09-kino/",
+  "aliases": [
+    "/node/1631/"
+  ],
   "original_url": "http://spidermedia.ru/news/sdcc09-kino",
   "archived": "https://web.archive.org/web/20260121011307/http://spidermedia.ru/news/sdcc09-kino",
   "tags": [
@@ -10,6 +13,12 @@
     "dzhona-heks",
     "jonah-hex",
     "green-hornet"
+  ],
+  "cover": "https://web.archive.org/web/20260121011307im_/http://spidermedia.ru/assets/images/import_image/1631.jpg",
+  "modx_id": 1631,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

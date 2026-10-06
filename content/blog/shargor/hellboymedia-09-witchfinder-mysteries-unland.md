@@ -1,12 +1,18 @@
 {
   "title": "Hellboymedia #09: Witchfinder — The Mysteries of Unland",
-  "date": "2014-11-20T13:40:00+03:00",
+  "date": "2014-11-20T13:40:29+03:00",
   "url": "/blog/shargor/hellboymedia-09-witchfinder-mysteries-unland/",
   "original_url": "https://spidermedia.ru/blog/shargor/hellboymedia-09-witchfinder-mysteries-unland",
   "archived": "https://web.archive.org/web/20251209144825/https://spidermedia.ru/blog/shargor/hellboymedia-09-witchfinder-mysteries-unland",
   "tags": [
     "hellboymedia",
     "mnenie"
+  ],
+  "cover": "https://web.archive.org/web/20160611144000im_/http://spidermedia.ru/assets/images/hellboymedia/regular/09-witchfinder-the-mysteries-of-unland/witchfinder-the-mysteries-of-unland-cover.jpg",
+  "modx_id": 8308,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

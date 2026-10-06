@@ -10,6 +10,12 @@
     "superman",
     "ajvan-rejs"
   ],
+  "cover": "https://web.archive.org/web/20260312013525im_/http://spidermedia.ru/assets/images/reviews/dc/superman/superman-2018/1.jpg",
+  "modx_id": 101970,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,12 +1,18 @@
 {
   "title": "Харви Пикар, 1939-2010",
-  "date": "2010-07-13T02:43:00+03:00",
+  "date": "2010-07-13T01:43:47+03:00",
   "url": "/news/harvi-pikar-1939-2010/",
   "original_url": "http://spidermedia.ru/news/harvi-pikar-1939-2010",
   "archived": "https://web.archive.org/web/20120608152347/http://spidermedia.ru/news/harvi-pikar-1939-2010",
   "tags": [
     "komiksy",
     "harvi-pikar"
+  ],
+  "cover": "https://web.archive.org/web/20120608152347im_/http://spidermedia.ru/assets/images/import_image/2716.jpg",
+  "modx_id": 2716,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

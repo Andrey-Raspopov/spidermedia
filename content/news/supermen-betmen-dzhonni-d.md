@@ -1,7 +1,10 @@
 {
   "title": "Супермен/Бэтмен: Джонни Д",
-  "date": "2009-09-07T00:22:00+03:00",
+  "date": "2009-09-06T23:22:44+03:00",
   "url": "/news/supermen-betmen-dzhonni-d/",
+  "aliases": [
+    "/node/1881/"
+  ],
   "original_url": "http://spidermedia.ru/news/supermen-betmen-dzhonni-d",
   "archived": "https://web.archive.org/web/20241110021152/http://spidermedia.ru/news/supermen-betmen-dzhonni-d",
   "tags": [
@@ -9,6 +12,12 @@
     "public-enemies",
     "batman",
     "superman"
+  ],
+  "cover": "https://web.archive.org/web/20150428120900im_/http://spidermedia.ru/assets/images/import_image/1881.jpg",
+  "modx_id": 1881,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

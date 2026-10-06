@@ -1,6 +1,6 @@
 {
   "title": "Пипец 2: Россия-матушка",
-  "date": "2012-09-06T15:36:00+03:00",
+  "date": "2012-09-06T14:36:29+03:00",
   "url": "/news/pipec-2-rossiya-matushka/",
   "original_url": "http://spidermedia.ru/news/pipec-2-rossiya-matushka",
   "archived": "https://web.archive.org/web/20251107034609/http://spidermedia.ru/news/pipec-2-rossiya-matushka",
@@ -8,6 +8,12 @@
     "mark-millar",
     "kick-ass",
     "icon-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150326160858im_/http://spidermedia.ru/assets/images/import_image/7013.jpg",
+  "modx_id": 7013,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

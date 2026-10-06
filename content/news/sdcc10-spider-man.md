@@ -1,7 +1,10 @@
 {
   "title": "SDCC'10: Spider-Man",
-  "date": "2010-07-26T03:09:00+03:00",
+  "date": "2010-07-26T02:09:43+03:00",
   "url": "/news/sdcc10-spider-man/",
+  "aliases": [
+    "/node/2803/"
+  ],
   "original_url": "http://spidermedia.ru/news/sdcc10-spider-man",
   "archived": "https://web.archive.org/web/20251110220704/http://spidermedia.ru/news/sdcc10-spider-man",
   "tags": [
@@ -12,6 +15,12 @@
     "den-slott",
     "spider-man",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20251110220704im_/http://spidermedia.ru/assets/images/import_image/2803.jpg",
+  "modx_id": 2803,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
@@ -46,5 +55,5 @@
 
 [![](https://web.archive.org/web/20251110220704im_/http://img.photobucket.com/albums/v497/spidermedia/spider-man-big-time-Martin-PromoSpiderman_col-1.jpg?t=1280096366)](http://smg.photobucket.com/albums/v497/spidermedia/spider-man-big-time-Martin-PromoSpiderman_col.jpg)
 
-- Слотт и Маркос Мартин намекают, что Паук может стать [новым членом](../../node/2671/) **Фантастической Четверки** *(Fantastic Four)* в связи с изменениями, совершающимся **Джонатаном Хикманом** *(Jonatahan Hickman)*. В любом случае, до открытии истины осталось ждать не долго.
+- Слотт и Маркос Мартин намекают, что Паук может стать [новым членом](../fantasticheskaya-troyka/) **Фантастической Четверки** *(Fantastic Four)* в связи с изменениями, совершающимся **Джонатаном Хикманом** *(Jonatahan Hickman)*. В любом случае, до открытии истины осталось ждать не долго.
 - **Зловещая Шестерка** *(Sinister Six)* обязательно появится и ничто не способно повлиять на воссоединение суперзлодейской команды. Не исключено, что речь идет о **Amazing Spider-Man #666**.

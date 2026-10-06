@@ -1,6 +1,6 @@
 {
   "title": "Вот и сказочке конец",
-  "date": "2013-11-04T22:22:00+03:00",
+  "date": "2013-11-04T21:22:06+03:00",
   "url": "/news/vot-i-skazochke-konec/",
   "original_url": "https://spidermedia.ru/news/vot-i-skazochke-konec",
   "archived": "https://web.archive.org/web/20250806053618/https://spidermedia.ru/news/vot-i-skazochke-konec",
@@ -8,6 +8,12 @@
     "bill-uillingem",
     "vertigo",
     "fables"
+  ],
+  "cover": "https://web.archive.org/web/20150423103054im_/http://spidermedia.ru/assets/images/import_image/7528.jpg",
+  "modx_id": 7528,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -12,6 +12,12 @@
     "batman-week",
     "hush"
   ],
+  "cover": "https://web.archive.org/web/20160611145335im_/http://spidermedia.ru/assets/images/articles/hush/001/1614133-batman__1940__608a.png",
+  "modx_id": 100583,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

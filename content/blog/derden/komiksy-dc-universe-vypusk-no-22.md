@@ -1,7 +1,10 @@
 {
   "title": "Комиксы DC Universe. Выпуск № 22",
-  "date": "2010-02-08T05:05:00+03:00",
+  "date": "2010-02-08T05:05:09+03:00",
   "url": "/blog/derden/komiksy-dc-universe-vypusk-no-22/",
+  "aliases": [
+    "/node/2348/"
+  ],
   "original_url": "http://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-22",
   "archived": "https://web.archive.org/web/20260312004826/http://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-22",
   "tags": [
@@ -11,6 +14,12 @@
     "black-canary",
     "birds-of-prey",
     "dc-universe-comics"
+  ],
+  "cover": "https://web.archive.org/web/20260312004826im_/http://spidermedia.ru/assets/images/import_image/2348.jpg",
+  "modx_id": 2348,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

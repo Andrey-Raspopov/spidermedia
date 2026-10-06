@@ -4,6 +4,12 @@
   "url": "/animation/samurai-jack-is-back/",
   "original_url": "http://spidermedia.ru/animation/samurai-jack-is-back",
   "archived": "https://web.archive.org/web/20250709064139/http://spidermedia.ru/animation/samurai-jack-is-back",
+  "cover": "https://web.archive.org/web/20160611121311im_/http://spidermedia.ru/assets/images/news/tv/samuraijack-2016teaserposter.jpg",
+  "modx_id": 100740,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

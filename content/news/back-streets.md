@@ -1,7 +1,10 @@
 {
   "title": "Back to the Streets",
-  "date": "2010-01-15T20:55:00+03:00",
+  "date": "2010-01-15T20:55:19+03:00",
   "url": "/news/back-streets/",
+  "aliases": [
+    "/node/2266/"
+  ],
   "original_url": "http://spidermedia.ru/news/back-streets",
   "archived": "https://web.archive.org/web/20250519182514/http://spidermedia.ru/news/back-streets",
   "tags": [
@@ -9,7 +12,14 @@
     "dzhon-arkudi",
     "art-0",
     "marvel",
-    "luke-cage"
+    "luke-cage",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20250519182514im_/http://spidermedia.ru/assets/images/import_image/2266.jpg",
+  "modx_id": 2266,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -8,6 +8,12 @@
     "marvel",
     "captain-america"
   ],
+  "cover": "https://web.archive.org/web/20171018174922im_/http://spidermedia.ru/assets/images/news/marvel/secret-empire/secret-empire-tumb.jpg",
+  "modx_id": 101496,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

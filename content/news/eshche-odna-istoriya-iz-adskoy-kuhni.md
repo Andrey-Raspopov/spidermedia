@@ -1,7 +1,10 @@
 {
   "title": "Еще одна история из Адской Кухни",
-  "date": "2009-03-20T01:03:00+03:00",
+  "date": "2009-03-20T01:03:48+03:00",
   "url": "/news/eshche-odna-istoriya-iz-adskoy-kuhni/",
+  "aliases": [
+    "/node/726/"
+  ],
   "original_url": "http://spidermedia.ru/news/eshche-odna-istoriya-iz-adskoy-kuhni",
   "archived": "https://web.archive.org/web/20200127064118/http://spidermedia.ru:80/news/eshche-odna-istoriya-iz-adskoy-kuhni",
   "tags": [
@@ -9,7 +12,15 @@
     "preview",
     "art-0",
     "daredevil",
-    "dardevil"
+    "dardevil",
+    "prevyu",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20200127064118im_/http://spidermedia.ru/assets/images/import_image/726.jpg",
+  "modx_id": 726,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

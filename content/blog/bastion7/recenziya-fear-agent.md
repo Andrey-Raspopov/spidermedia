@@ -1,7 +1,10 @@
 {
   "title": "рецензия - Fear Agent",
-  "date": "2009-02-13T20:51:00+03:00",
+  "date": "2009-02-13T20:51:01+03:00",
   "url": "/blog/bastion7/recenziya-fear-agent/",
+  "aliases": [
+    "/node/348/"
+  ],
   "original_url": "http://spidermedia.ru/blog/bastion7/recenziya-fear-agent",
   "archived": "https://web.archive.org/web/20251216170033/http://spidermedia.ru/blog/bastion7/recenziya-fear-agent",
   "tags": [
@@ -11,6 +14,12 @@
     "image-comics",
     "toni-mur",
     "dzherom-openya"
+  ],
+  "cover": "https://web.archive.org/web/20251216170033im_/http://spidermedia.ru/assets/images/import_image/348.jpg",
+  "modx_id": 348,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

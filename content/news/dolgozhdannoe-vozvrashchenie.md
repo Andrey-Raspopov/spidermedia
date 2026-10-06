@@ -1,7 +1,10 @@
 {
   "title": "Долгожданное возвращение!",
-  "date": "2009-05-19T23:33:00+03:00",
+  "date": "2009-05-19T22:33:22+03:00",
   "url": "/news/dolgozhdannoe-vozvrashchenie/",
+  "aliases": [
+    "/node/1244/"
+  ],
   "original_url": "http://spidermedia.ru/news/dolgozhdannoe-vozvrashchenie",
   "archived": "https://web.archive.org/web/20111018110112/http://spidermedia.ru/news/dolgozhdannoe-vozvrashchenie",
   "tags": [
@@ -9,7 +12,14 @@
     "scarlet-spider",
     "alyy-pauk",
     "komiksy",
-    "preview-s"
+    "preview-s",
+    "prevyu",
+    "alyj-pauk"
+  ],
+  "modx_id": 1244,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

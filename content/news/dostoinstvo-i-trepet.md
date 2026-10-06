@@ -1,13 +1,20 @@
 {
   "title": "Достоинство и уважение",
-  "date": "2011-04-20T16:21:00+03:00",
+  "date": "2011-04-20T15:21:58+03:00",
   "url": "/news/dostoinstvo-i-trepet/",
   "original_url": "https://spidermedia.ru/news/dostoinstvo-i-trepet",
   "archived": "https://web.archive.org/web/20251014051045/https://spidermedia.ru/news/dostoinstvo-i-trepet",
   "tags": [
     "marko-dzhurdzhevich",
     "art-0",
-    "marvel"
+    "marvel",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20251014051045im_/http://spidermedia.ru/assets/images/import_image/5112.jpg",
+  "modx_id": 5112,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

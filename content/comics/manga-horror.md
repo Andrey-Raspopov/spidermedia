@@ -7,6 +7,12 @@
   "tags": [
     "manga"
   ],
+  "cover": "https://web.archive.org/web/20260102055818im_/https://spidermedia.ru/assets/images/manga/others/horror-2018/risunok-17.jpg",
+  "modx_id": 102042,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

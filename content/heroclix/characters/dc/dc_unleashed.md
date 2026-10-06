@@ -4,6 +4,9 @@
   "url": "/heroclix/characters/dc/dc_unleashed/",
   "original_url": "http://www.spidermedia.ru/heroclix/characters/dc/dc_unleashed.html",
   "archived": "https://web.archive.org/web/20050310004237/http://www.spidermedia.ru:80/heroclix/characters/dc/dc_unleashed.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

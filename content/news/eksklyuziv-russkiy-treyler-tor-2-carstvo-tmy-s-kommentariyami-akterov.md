@@ -1,13 +1,20 @@
 {
   "title": "ЭКСКЛЮЗИВ: Русский трейлер \"Тор 2: Царство тьмы\" с комментариями актеров!",
-  "date": "2013-10-09T09:18:00+03:00",
+  "date": "2013-10-09T08:18:13+03:00",
   "url": "/news/eksklyuziv-russkiy-treyler-tor-2-carstvo-tmy-s-kommentariyami-akterov/",
   "original_url": "http://spidermedia.ru/news/eksklyuziv-russkiy-treyler-tor-2-carstvo-tmy-s-kommentariyami-akterov",
   "archived": "https://web.archive.org/web/20250114015540/http://spidermedia.ru/news/eksklyuziv-russkiy-treyler-tor-2-carstvo-tmy-s-kommentariyami-akterov",
   "tags": [
     "thor",
     "marvel",
-    "loki"
+    "loki",
+    "tor"
+  ],
+  "cover": "https://web.archive.org/web/20150424123306im_/http://spidermedia.ru/assets/images/import_image/7495.jpg",
+  "modx_id": 7495,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

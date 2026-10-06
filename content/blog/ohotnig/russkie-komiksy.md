@@ -4,6 +4,9 @@
   "url": "/blog/ohotnig/russkie-komiksy/",
   "original_url": "http://spidermedia.ru/blog/ohotnig/russkie-komiksy",
   "archived": "https://web.archive.org/web/20110529040229/http://spidermedia.ru:80/blog/ohotnig/russkie-komiksy",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "utf-8"
 }
@@ -13,7 +16,7 @@
 - [Главная](https://web.archive.org/web/20260314084335/https://spidermedia.ru/ "Главная страница сайта - Лента новостей")
 - [Комиксы](https://web.archive.org/web/20160705113334/http://spidermedia.ru/phpbb/viewforum.php?f=60 "Здесь можно бесплатно скачать комиксы")
 - [Статьи](https://web.archive.org/web/20150227111618/http://spidermedia.ru:80/articles "Эксклюзивные материалы о комиксах и комикс-индустрии")
-- [Форум](https://web.archive.org/web/20180610152150/http://spidermedia.ru:80/phpbb "Форум")
+- [Форум](https://web.archive.org/web/20220416112927/http://spidermedia.ru/phpbb/ "Форум")
 - [Игра](https://web.archive.org/web/20220430145742/http://www.spidermedia.ru/rpg "Ролевая игра")
 - [FAQ](https://web.archive.org/web/20150227111504/http://spidermedia.ru:80/faq)
 
@@ -57,7 +60,7 @@
 [человек-паук](../../../tags/chelovek-pauk/)
 [юмор](../../../tags/yumor/)
 
-[...остальные тэги](https://web.archive.org/web/20141013210339/http://spidermedia.ru/tags)
+[...остальные тэги](https://web.archive.org/web/20150319184843/http://spidermedia.ru/tags/)
 
 ## Последние записи в блогах
 
@@ -90,11 +93,11 @@
 
 - [100 Рекомендуемых Комиксов](https://web.archive.org/web/20260312005210/http://spidermedia.ru/mustread)
 - [Росомаха в игре!](../../../news/rosomaha-v-igre/)
-- [MustRead 2.0 New & Improved](https://web.archive.org/web/20220627094055/http://spidermedia.ru/news/mustread-20-new-improved)
+- [MustRead 2.0 New & Improved](../../../comics/mustread-20-new-improved/)
 - [Магазин](https://web.archive.org/web/20150423204612/http://spidermedia.ru/smshop)
 - [Surely the Second Coming is at hand](../../../news/surely-second-coming-hand/)
 - [FAQ: DC++: Инструкция к применению](../../../faq/dc-plus-plus/)
-- [Промо-арт к фильму "Тор"](https://web.archive.org/web/20250210040610/http://spidermedia.ru/news/novye-promo-po-filmu-tor)
+- [Промо-арт к фильму "Тор"](../../../comics/novye-promo-po-filmu-tor/)
 
 ## Друзья
 

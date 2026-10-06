@@ -1,7 +1,10 @@
 {
   "title": "Джефф Джонс и Темнейшая Ночь",
-  "date": "2009-07-18T10:11:00+03:00",
+  "date": "2009-07-18T09:11:33+03:00",
   "url": "/news/dzheff-dzhons-i-temneyshaya-noch/",
+  "aliases": [
+    "/node/1583/"
+  ],
   "original_url": "http://spidermedia.ru/news/dzheff-dzhons-i-temneyshaya-noch",
   "archived": "https://web.archive.org/web/20250807215733/http://spidermedia.ru/news/dzheff-dzhons-i-temneyshaya-noch",
   "tags": [
@@ -11,7 +14,14 @@
     "temnejshaya-noch",
     "geoff-johns",
     "ethan-van-sciver",
-    "art-0"
+    "art-0",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20250807215733im_/http://spidermedia.ru/assets/images/import_image/1583.png",
+  "modx_id": 1583,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

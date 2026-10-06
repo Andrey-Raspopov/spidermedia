@@ -1,7 +1,10 @@
 {
   "title": "Темные Акты",
-  "date": "2009-06-20T18:26:00+03:00",
+  "date": "2009-06-20T17:26:10+03:00",
   "url": "/news/temnye-akty/",
+  "aliases": [
+    "/node/1453/"
+  ],
   "original_url": "http://spidermedia.ru/news/temnye-akty",
   "archived": "https://web.archive.org/web/20250320050522/http://spidermedia.ru/news/temnye-akty",
   "tags": [
@@ -9,14 +12,21 @@
     "norman-ozborn",
     "art-0",
     "list",
-    "marvel"
+    "marvel",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20250320050522im_/http://spidermedia.ru/assets/images/import_image/1453.jpg",
+  "modx_id": 1453,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
 ![](https://web.archive.org/web/20250320050522im_/http://www.picamatic.com/show/2009/06/20/06/21/4063651_400x150.jpg)
-На сентябрь страшные люди из **Marvel** готовили некое событие, кое можно было лаконично охарактеризовать как [The Iron Patriot Acts](../../node/1335/). Но с запуском проекта произошли некоторые перемены, которые, тем не менее, не повлияли на факт его существования. Заправьтесь чем-нибудь покрепче и пристегните ремни.
+На сентябрь страшные люди из **Marvel** готовили некое событие, кое можно было лаконично охарактеризовать как [The Iron Patriot Acts](../norman-znaet-gde-vy-zhivyote/). Но с запуском проекта произошли некоторые перемены, которые, тем не менее, не повлияли на факт его существования. Заправьтесь чем-нибудь покрепче и пристегните ремни.
 Осенью нас ждет мини-событие в рамках **Темного Правления** *(Dark Reign)* - **Dark Reign: The List**, символизирующее собой жесткие намерения всея начальника **Нормана Озборна** *(Norman Osborn)*. Забудьте прошлые акции Нормана и его **Темных Мстителей** *(Dark Avengers)*, в этот раз все гораздо серьезней и масштабней: все, кто против Нормана, против **М.О.Л.О.Т.а** *(H.A.M.M.E.R.)* и просто недовольны нынешним режимом - бегите из страны пока не поздно, прихватив с собой заодно и паспорт. Уж не знаем, изменится ли, в который раз, мир, но список выпусков серии впечатляет:
 **Сентябрь:**
   [![](https://web.archive.org/web/20250320050522im_/http://i.newsarama.com/preview_images/wiz-philly-09/drlistdd001_cvr-col-01.jpg)](http://i.newsarama.com/preview_images/wiz-philly-09/drlistdd001_cvr-col.jpg) [![](https://web.archive.org/web/20250320050522im_/http://i.newsarama.com/preview_images/heroes09/drlistdrkav001_cov-01.jpg)](http://i.newsarama.com/preview_images/heroes09/drlistdrkav001_cov.jpg) [![](https://web.archive.org/web/20250320050522im_/http://i.newsarama.com/preview_images/heroes09/drlistxmen001cov_col-01.jpg)](http://i.newsarama.com/preview_images/heroes09/drlistxmen001cov_col.jpg)

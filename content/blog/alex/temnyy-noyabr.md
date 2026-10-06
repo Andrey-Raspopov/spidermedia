@@ -1,13 +1,22 @@
 {
   "title": "Темный ноябрь",
-  "date": "2009-08-13T11:31:00+03:00",
+  "date": "2009-08-13T10:31:25+03:00",
   "url": "/blog/alex/temnyy-noyabr/",
+  "aliases": [
+    "/node/1776/"
+  ],
   "original_url": "http://spidermedia.ru/blog/alex/temnyy-noyabr",
   "archived": "https://web.archive.org/web/20250913004320/http://spidermedia.ru/blog/alex/temnyy-noyabr",
   "tags": [
     "temnejshaya-noch",
     "dc-comics",
     "blackest-night"
+  ],
+  "cover": "https://web.archive.org/web/20250913004320im_/http://spidermedia.ru/assets/images/import_image/1776.png",
+  "modx_id": 1776,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

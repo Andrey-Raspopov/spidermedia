@@ -1,6 +1,6 @@
 {
   "title": "Эксклюзивное интервью с разработчиками Batman: Arkham City",
-  "date": "2011-10-09T14:41:00+03:00",
+  "date": "2011-10-09T13:41:28+03:00",
   "url": "/news/eksklyuzivnoe-intervyu-s-razrabotchikami-batman-arkham-city/",
   "original_url": "https://spidermedia.ru/news/eksklyuzivnoe-intervyu-s-razrabotchikami-batman-arkham-city",
   "archived": "https://web.archive.org/web/20260211192425/https://spidermedia.ru/news/eksklyuzivnoe-intervyu-s-razrabotchikami-batman-arkham-city",
@@ -10,6 +10,12 @@
     "igry",
     "intervyu",
     "eksklyuziv"
+  ],
+  "cover": "https://web.archive.org/web/20150325234519im_/http://spidermedia.ru/assets/images/import_image/6637.png",
+  "modx_id": 6637,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,12 +1,18 @@
 {
   "title": "Я читаю Marvel NOW! Выпуск 6: Безысходность",
-  "date": "2013-07-09T12:03:00+03:00",
+  "date": "2013-07-09T11:03:58+03:00",
   "url": "/blog/redson/ya-chitayu-marvel-now-vypusk-6-bezyshodnost/",
   "original_url": "http://spidermedia.ru/blog/redson/ya-chitayu-marvel-now-vypusk-6-bezyshodnost",
   "archived": "https://web.archive.org/web/20200218020239/http://spidermedia.ru:80/blog/redson/ya-chitayu-marvel-now-vypusk-6-bezyshodnost",
   "tags": [
     "mnenie",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20200218020239im_/http://spidermedia.ru/assets/images/import_image/7320.jpg",
+  "modx_id": 7320,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Блокбастеры: Весна-Лето",
-  "date": "2011-02-17T20:40:00+03:00",
+  "date": "2011-02-17T20:40:28+03:00",
   "url": "/news/blokbastery-vesna-leto/",
   "original_url": "http://spidermedia.ru/news/blokbastery-vesna-leto",
   "archived": "https://web.archive.org/web/20251207091751/http://spidermedia.ru/news/blokbastery-vesna-leto",
@@ -8,7 +8,15 @@
     "punisher",
     "daredevil",
     "art-0",
-    "marvel"
+    "marvel",
+    "derdevil",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20251207091751im_/http://spidermedia.ru/assets/images/import_image/3494.jpg",
+  "modx_id": 3494,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

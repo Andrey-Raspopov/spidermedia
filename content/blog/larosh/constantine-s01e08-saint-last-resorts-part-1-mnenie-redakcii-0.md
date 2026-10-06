@@ -1,6 +1,6 @@
 {
   "title": "Constantine s01e08 «The Saint of Last Resorts: Part 1»: мнение редакции",
-  "date": "2014-12-15T12:46:00+03:00",
+  "date": "2014-12-15T12:46:19+03:00",
   "url": "/blog/larosh/constantine-s01e08-saint-last-resorts-part-1-mnenie-redakcii-0/",
   "original_url": "http://spidermedia.ru/blog/larosh/constantine-s01e08-saint-last-resorts-part-1-mnenie-redakcii-0",
   "archived": "https://web.archive.org/web/20260214142037/http://spidermedia.ru/blog/larosh/constantine-s01e08-saint-last-resorts-part-1-mnenie-redakcii-0",
@@ -10,7 +10,14 @@
     "vertigo",
     "dzhon-konstantin",
     "obzor",
-    "serialy"
+    "serialy",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20150326155438im_/http://spidermedia.ru/assets/images/import_image/8378.jpg",
+  "modx_id": 8378,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

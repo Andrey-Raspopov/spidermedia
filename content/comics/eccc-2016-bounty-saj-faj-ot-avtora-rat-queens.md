@@ -8,6 +8,12 @@
     "dark-horse",
     "emerald-city-comicon"
   ],
+  "cover": "https://web.archive.org/web/20200524144045im_/https://spidermedia.ru/assets/images/news/dark-horse/bountyv1-cvr-mockup-165102-23f8b.jpg",
+  "modx_id": 101075,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

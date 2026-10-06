@@ -1,6 +1,6 @@
 {
   "title": "Свершилось!",
-  "date": "2009-05-21T22:44:00+03:00",
+  "date": "2009-05-21T21:44:00+03:00",
   "url": "/blog/sterpazook/svershilos/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/svershilos",
   "archived": "https://web.archive.org/web/20260115064514/http://spidermedia.ru/blog/sterpazook/svershilos",
@@ -8,7 +8,13 @@
     "kartinki",
     "brian-k-vaughan",
     "klyukva",
-    "russkie-v-zarubezhnyh-komiksah"
+    "russkie-v-zarubezhnyh-komiksah",
+    "brajan-k.-von"
+  ],
+  "modx_id": 1256,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

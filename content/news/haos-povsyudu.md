@@ -1,7 +1,10 @@
 {
   "title": "Хаос повсюду!",
-  "date": "2010-08-23T10:35:00+03:00",
+  "date": "2010-08-23T09:35:27+03:00",
   "url": "/news/haos-povsyudu/",
+  "aliases": [
+    "/node/2868/"
+  ],
   "original_url": "https://spidermedia.ru/news/haos-povsyudu",
   "archived": "https://web.archive.org/web/20251216173708/https://spidermedia.ru/news/haos-povsyudu",
   "tags": [
@@ -15,7 +18,14 @@
     "marvel",
     "hulk",
     "avengers",
-    "alpha-flight"
+    "alpha-flight",
+    "tor"
+  ],
+  "cover": "https://web.archive.org/web/20251216173708im_/http://spidermedia.ru/assets/images/import_image/2868.jpg",
+  "modx_id": 2868,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

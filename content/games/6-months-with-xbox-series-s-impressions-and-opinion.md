@@ -4,6 +4,12 @@
   "url": "/games/6-months-with-xbox-series-s-impressions-and-opinion/",
   "original_url": "http://spidermedia.ru/games/6-months-with-xbox-series-s-impressions-and-opinion",
   "archived": "https://web.archive.org/web/20250906075940/http://spidermedia.ru/games/6-months-with-xbox-series-s-impressions-and-opinion",
+  "cover": "https://web.archive.org/web/20250906075940im_/http://spidermedia.ru/assets/images/games/xbox1/j-k.jpg",
+  "modx_id": 102424,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

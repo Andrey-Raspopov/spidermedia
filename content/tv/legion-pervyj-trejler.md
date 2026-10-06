@@ -8,6 +8,12 @@
     "marvel",
     "legion"
   ],
+  "cover": "https://web.archive.org/web/20250807005458im_/http://spidermedia.ru/assets/images/tv/marvel/legion/screen-shot-2016-07-24-at-10.07.38-am-590x308.png",
+  "modx_id": 101287,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

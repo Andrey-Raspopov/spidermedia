@@ -1,12 +1,18 @@
 {
   "title": "Онгоинг Венома закрывается",
-  "date": "2013-08-23T12:57:00+03:00",
+  "date": "2013-08-23T11:57:16+03:00",
   "url": "/news/ongoing-venoma-zakryvaetsya/",
   "original_url": "https://spidermedia.ru/news/ongoing-venoma-zakryvaetsya",
   "archived": "https://web.archive.org/web/20250424102746/https://spidermedia.ru/news/ongoing-venoma-zakryvaetsya",
   "tags": [
     "marvel",
     "venom"
+  ],
+  "cover": "https://web.archive.org/web/20250424102746im_/http://spidermedia.ru/assets/images/import_image/7432.jpg",
+  "modx_id": 7432,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

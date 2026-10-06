@@ -1,6 +1,6 @@
 {
   "title": "ALL-NEW МЖДЗ: «ВОСТОК ЗАПАДА»",
-  "date": "2015-02-17T16:38:00+03:00",
+  "date": "2015-02-17T16:38:38+03:00",
   "url": "/blog/derden/all-new-mzhdz-vostok-zapada-0/",
   "original_url": "http://spidermedia.ru/blog/derden/all-new-mzhdz-vostok-zapada-0",
   "archived": "https://web.archive.org/web/20251115182209/http://spidermedia.ru/blog/derden/all-new-mzhdz-vostok-zapada-0",
@@ -12,6 +12,12 @@
     "dzhonatan-hikman",
     "viverra-publishing",
     "image-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150326052150im_/http://spidermedia.ru/assets/images/import_image/8624.jpg",
+  "modx_id": 8624,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

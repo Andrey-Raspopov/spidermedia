@@ -1,11 +1,17 @@
 {
   "title": "День новых комиксов: 10 сентября",
-  "date": "2014-09-10T12:02:00+03:00",
+  "date": "2014-09-10T11:02:34+03:00",
   "url": "/blog/redson/den-novyh-komiksov-10-sentyabrya/",
   "original_url": "http://spidermedia.ru/blog/redson/den-novyh-komiksov-10-sentyabrya",
   "archived": "https://web.archive.org/web/20200221074747/http://spidermedia.ru:80/blog/redson/den-novyh-komiksov-10-sentyabrya",
   "tags": [
     "den-novyh-komiksov"
+  ],
+  "cover": "https://web.archive.org/web/20150425041421im_/http://spidermedia.ru/assets/images/import_image/8049.jpg",
+  "modx_id": 8049,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

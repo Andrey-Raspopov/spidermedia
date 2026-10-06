@@ -4,6 +4,12 @@
   "url": "/comics/tintin-and-the-secret-of-literature/",
   "original_url": "http://spidermedia.ru/comics/tintin-and-the-secret-of-literature",
   "archived": "https://web.archive.org/web/20220314072253/http://spidermedia.ru/comics/tintin-and-the-secret-of-literature",
+  "cover": "https://web.archive.org/web/20220314072253im_/http://spidermedia.ru/assets/images/articles/tintin/4.jpg",
+  "modx_id": 100534,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

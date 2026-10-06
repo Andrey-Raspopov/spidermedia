@@ -1,6 +1,6 @@
 {
   "title": "Удар Террора",
-  "date": "2009-02-16T18:47:00+03:00",
+  "date": "2009-02-16T17:47:50+03:00",
   "url": "/news/udar-terrora/",
   "original_url": "http://spidermedia.ru/news/udar-terrora",
   "archived": "https://web.archive.org/web/20120607193121/http://spidermedia.ru/news/udar-terrora",
@@ -9,6 +9,11 @@
     "devid-lafem",
     "komiksy",
     "marvel"
+  ],
+  "modx_id": 392,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

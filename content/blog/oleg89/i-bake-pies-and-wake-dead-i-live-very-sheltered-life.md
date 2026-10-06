@@ -1,6 +1,6 @@
 {
   "title": "I bake pies and wake the dead. I live a very sheltered life",
-  "date": "2010-01-17T01:30:00+03:00",
+  "date": "2010-01-17T01:30:36+03:00",
   "url": "/blog/oleg89/i-bake-pies-and-wake-dead-i-live-very-sheltered-life/",
   "original_url": "http://spidermedia.ru/blog/oleg89/i-bake-pies-and-wake-dead-i-live-very-sheltered-life",
   "archived": "https://web.archive.org/web/20240623232834/http://spidermedia.ru/blog/oleg89/i-bake-pies-and-wake-dead-i-live-very-sheltered-life",
@@ -8,7 +8,14 @@
     "serialy",
     "brajan-fuller",
     "pushing-daisies",
-    "dc-comics"
+    "dc-comics",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20240623232834im_/http://spidermedia.ru/assets/images/import_image/2275.jpg",
+  "modx_id": 2275,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

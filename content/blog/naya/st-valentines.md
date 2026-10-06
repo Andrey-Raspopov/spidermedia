@@ -1,13 +1,20 @@
 {
   "title": "St. Valentine's",
-  "date": "2009-02-07T00:34:00+03:00",
+  "date": "2009-02-06T23:34:59+03:00",
   "url": "/blog/naya/st-valentines/",
   "original_url": "http://spidermedia.ru/blog/naya/st-valentines",
   "archived": "https://web.archive.org/web/20120607110430/http://spidermedia.ru/blog/naya/st-valentines",
   "tags": [
     "art",
     "manga",
-    "publishing"
+    "publishing",
+    "manga-2"
+  ],
+  "cover": "https://web.archive.org/web/20120607110430im_/http://spidermedia.ru/assets/images/import_image/238.jpg",
+  "modx_id": 238,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

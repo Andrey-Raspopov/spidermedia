@@ -1,7 +1,10 @@
 {
   "title": "Паучий Нуар",
-  "date": "2009-02-25T17:07:00+03:00",
+  "date": "2009-02-25T17:07:43+03:00",
   "url": "/news/pauchiy-nuar/",
+  "aliases": [
+    "/node/512/"
+  ],
   "original_url": "http://spidermedia.ru/news/pauchiy-nuar",
   "archived": "https://web.archive.org/web/20200217104546/http://spidermedia.ru:80/news/pauchiy-nuar",
   "tags": [
@@ -9,7 +12,14 @@
     "art-0",
     "noirverse",
     "marvel",
-    "spider-man"
+    "spider-man",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20200217104546im_/http://spidermedia.ru/assets/images/import_image/512.jpg",
+  "modx_id": 512,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

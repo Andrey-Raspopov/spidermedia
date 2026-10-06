@@ -1,12 +1,18 @@
 {
   "title": "Diagram for Delinquents",
-  "date": "2011-01-25T21:48:00+03:00",
+  "date": "2011-01-25T20:48:24+03:00",
   "url": "/blog/sonyn/diagram-delinquents/",
   "original_url": "http://spidermedia.ru/blog/sonyn/diagram-delinquents",
   "archived": "https://web.archive.org/web/20120607154934/http://spidermedia.ru/blog/sonyn/diagram-delinquents",
   "tags": [
     "diagram-delinquents",
-    "fredric-wertham"
+    "fredric-wertham",
+    "diagram-for-delinquents"
+  ],
+  "modx_id": 3191,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

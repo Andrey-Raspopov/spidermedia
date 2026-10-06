@@ -1,6 +1,6 @@
 {
   "title": "Hellboymedia: Арт-трибьют к юбилею Хэллбоя от Александра «Экс» Макарова",
-  "date": "2014-12-31T14:05:00+03:00",
+  "date": "2014-12-31T14:05:37+03:00",
   "url": "/blog/shargor/hellboymedia-art-tribyut-k-yubileyu-hellboya-ot-aleksandra-eks-makarova/",
   "original_url": "https://spidermedia.ru/blog/shargor/hellboymedia-art-tribyut-k-yubileyu-hellboya-ot-aleksandra-eks-makarova",
   "archived": "https://web.archive.org/web/20251209130906/https://spidermedia.ru/blog/shargor/hellboymedia-art-tribyut-k-yubileyu-hellboya-ot-aleksandra-eks-makarova",
@@ -8,6 +8,12 @@
     "art-tribyut",
     "hellboymedia",
     "20-let-hellboya"
+  ],
+  "cover": "https://web.archive.org/web/20160611210713im_/http://spidermedia.ru/assets/images/hellboymedia/project-01-anniversary/art-trubites-other/aleksandr-ex-makarov-cover.jpg",
+  "modx_id": 8451,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

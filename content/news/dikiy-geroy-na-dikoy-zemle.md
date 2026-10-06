@@ -1,6 +1,6 @@
 {
   "title": "Дикий герой на Дикой Земле",
-  "date": "2012-10-09T04:26:00+03:00",
+  "date": "2012-10-09T03:26:11+03:00",
   "url": "/news/dikiy-geroy-na-dikoy-zemle/",
   "original_url": "https://spidermedia.ru/news/dikiy-geroy-na-dikoy-zemle",
   "archived": "https://web.archive.org/web/20251208075011/https://spidermedia.ru/news/dikiy-geroy-na-dikoy-zemle",
@@ -8,6 +8,12 @@
     "frenk-cho",
     "wolverine",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20251208075011im_/http://spidermedia.ru/assets/images/import_image/7049.jpg",
+  "modx_id": 7049,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -7,6 +7,12 @@
   "tags": [
     "manga"
   ],
+  "cover": "https://web.archive.org/web/20251110225639im_/http://spidermedia.ru/assets/images/manga/hitman/screenshot-98.png",
+  "modx_id": 102340,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

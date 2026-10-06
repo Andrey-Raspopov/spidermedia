@@ -1,7 +1,10 @@
 {
   "title": "Wonderful Wizard of Oz #5: Превью",
-  "date": "2009-04-08T21:40:00+03:00",
+  "date": "2009-04-08T20:40:17+03:00",
   "url": "/news/wonderful-wizard-oz-5-prevyu/",
+  "aliases": [
+    "/node/889/"
+  ],
   "original_url": "https://spidermedia.ru/news/wonderful-wizard-oz-5-prevyu",
   "archived": "https://web.archive.org/web/20260208194633/https://spidermedia.ru/news/wonderful-wizard-oz-5-prevyu",
   "tags": [
@@ -10,7 +13,13 @@
     "preview",
     "skottie-young",
     "marvel",
-    "eric-shanower"
+    "eric-shanower",
+    "prevyu"
+  ],
+  "modx_id": 889,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

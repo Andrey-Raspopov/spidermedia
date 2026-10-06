@@ -8,6 +8,12 @@
     "vertigo",
     "preacher"
   ],
+  "cover": "https://web.archive.org/web/20251216110016im_/http://spidermedia.ru/assets/images/tv/dc/preacher-amc-tv-series/s01/e01-pilot/0_1.jpg",
+  "modx_id": 101177,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

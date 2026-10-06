@@ -1,11 +1,16 @@
 {
   "title": "Log #0006 - Bears Nuts",
-  "date": "2009-02-02T23:42:00+03:00",
+  "date": "2009-02-02T23:42:38+03:00",
   "url": "/blog/qvall/log-0006-bears-nuts/",
   "original_url": "http://spidermedia.ru/blog/qvall/log-0006-bears-nuts",
   "archived": "https://web.archive.org/web/20150428110104/http://spidermedia.ru/blog/qvall/log-0006-bears-nuts",
   "tags": [
     "veb-komiksy"
+  ],
+  "modx_id": 124,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

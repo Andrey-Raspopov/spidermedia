@@ -1,11 +1,17 @@
 {
   "title": "Зеленый Фонарь Джанго Фетт",
-  "date": "2010-03-15T12:26:00+03:00",
+  "date": "2010-03-15T12:26:30+03:00",
   "url": "/news/zelenyy-fonar-dzhango-fett/",
   "original_url": "http://spidermedia.ru/news/zelenyy-fonar-dzhango-fett",
   "archived": "https://web.archive.org/web/20250909130749/http://spidermedia.ru/news/zelenyy-fonar-dzhango-fett",
   "tags": [
     "green-lantern"
+  ],
+  "cover": "https://web.archive.org/web/20250909130749im_/http://spidermedia.ru/assets/images/import_image/2441.jpg",
+  "modx_id": 2441,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

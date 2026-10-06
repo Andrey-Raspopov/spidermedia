@@ -1,14 +1,24 @@
 {
   "title": "Ultimate Nya",
-  "date": "2009-08-13T14:45:00+03:00",
+  "date": "2009-08-13T13:45:23+03:00",
   "url": "/blog/silver/ultimate-nya/",
+  "aliases": [
+    "/node/1777/"
+  ],
   "original_url": "http://spidermedia.ru/blog/silver/ultimate-nya",
   "archived": "https://web.archive.org/web/20251012181916/http://spidermedia.ru/blog/silver/ultimate-nya",
   "tags": [
     "devid-lafuente",
     "art-0",
     "ultimate",
-    "spider-man"
+    "spider-man",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20251012181916im_/http://spidermedia.ru/assets/images/import_image/1777.jpg",
+  "modx_id": 1777,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

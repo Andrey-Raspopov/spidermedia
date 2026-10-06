@@ -1,7 +1,10 @@
 {
   "title": "Слияние",
-  "date": "2009-02-22T20:45:00+03:00",
+  "date": "2009-02-22T20:45:54+03:00",
   "url": "/news/sliyanie/",
+  "aliases": [
+    "/node/480/"
+  ],
   "original_url": "http://spidermedia.ru/news/sliyanie",
   "archived": "https://web.archive.org/web/20230329030828/http://spidermedia.ru/news/sliyanie",
   "tags": [
@@ -15,6 +18,12 @@
     "endi-lenning",
     "majk-choi",
     "tajler-kirkham"
+  ],
+  "cover": "https://web.archive.org/web/20160629040347im_/http://spidermedia.ru/assets/images/import_image/480.jpg",
+  "modx_id": 480,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

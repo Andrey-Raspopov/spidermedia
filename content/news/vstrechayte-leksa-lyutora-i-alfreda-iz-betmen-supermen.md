@@ -1,6 +1,6 @@
 {
   "title": "Встречайте Лекса Лютора и Альфреда из \"Бэтмен/Супермен\"",
-  "date": "2014-01-31T22:36:00+03:00",
+  "date": "2014-01-31T21:36:01+03:00",
   "url": "/news/vstrechayte-leksa-lyutora-i-alfreda-iz-betmen-supermen/",
   "original_url": "https://spidermedia.ru/news/vstrechayte-leksa-lyutora-i-alfreda-iz-betmen-supermen",
   "archived": "https://web.archive.org/web/20260211092508/https://spidermedia.ru/news/vstrechayte-leksa-lyutora-i-alfreda-iz-betmen-supermen",
@@ -9,6 +9,12 @@
     "superman",
     "devid-gojer",
     "batman"
+  ],
+  "cover": "https://web.archive.org/web/20260211092508im_/http://spidermedia.ru/assets/images/import_image/7620.jpg",
+  "modx_id": 7620,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,12 +1,18 @@
 {
   "title": "Рецензия на фильм \"РОБОКОП\"",
-  "date": "2014-02-11T11:34:00+03:00",
+  "date": "2014-02-11T10:34:04+03:00",
   "url": "/blog/igrok/robocop-2014-movie-review/",
   "original_url": "http://spidermedia.ru/blog/igrok/robocop-2014-movie-review",
   "archived": "https://web.archive.org/web/20220815202502/http://spidermedia.ru/blog/igrok/robocop-2014-movie-review",
   "tags": [
     "robocop",
     "recenziya"
+  ],
+  "cover": "https://web.archive.org/web/20220815202502im_/http://spidermedia.ru/assets/images/import_image/7635.jpg",
+  "modx_id": 7635,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

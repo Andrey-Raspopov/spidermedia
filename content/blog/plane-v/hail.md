@@ -1,12 +1,18 @@
 {
   "title": "Hail",
-  "date": "2011-08-29T00:05:00+03:00",
+  "date": "2011-08-28T23:05:55+03:00",
   "url": "/blog/plane-v/hail/",
   "original_url": "http://spidermedia.ru/blog/plane-v/hail",
   "archived": "https://web.archive.org/web/20210303084042/http://spidermedia.ru/blog/plane-v/hail",
   "tags": [
     "jack-kirby",
     "fourth-world"
+  ],
+  "cover": "https://web.archive.org/web/20210303084042im_/http://spidermedia.ru/assets/images/import_image/6583.jpg",
+  "modx_id": 6583,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

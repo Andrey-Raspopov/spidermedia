@@ -12,11 +12,14 @@
     "oblozhki",
     "songbyord"
   ],
+  "sources": [
+    "archive"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }
 
-]]>[![TMSTRM001_cov.jpg - image uploaded to Picamatic](https://web.archive.org/web/20120607182123im_/http://www.picamatic.com/show/2009/04/17/09/48/3301122_bigthumb.jpg)](http://creative.myspacecdn.com/groups/_mcb/mycupojoe/week1509/TBOLTS134_cov.jpg)]]> Еще в [июньском анонсе](../../node/757/) нам ясно дали понять, что стычка нового состава **Громовержцев** *(Thunderbolts)* с бывшим участником **Сонгберд** *(Songbird)* - это реальность.
+]]>[![TMSTRM001_cov.jpg - image uploaded to Picamatic](https://web.archive.org/web/20120607182123im_/http://www.picamatic.com/show/2009/04/17/09/48/3301122_bigthumb.jpg)](http://creative.myspacecdn.com/groups/_mcb/mycupojoe/week1509/TBOLTS134_cov.jpg)]]> Еще в [июньском анонсе](../avengers-assemble-iyun-2009/) нам ясно дали понять, что стычка нового состава **Громовержцев** *(Thunderbolts)* с бывшим участником **Сонгберд** *(Songbird)* - это реальность.
 
 Она готова отомстить за все то, что сделал **Норман Озборн** *(Norman Osborn)*, и будет использовать против него его же приемы.
 

@@ -1,12 +1,19 @@
 {
   "title": "Два икса",
-  "date": "2012-03-15T03:48:00+03:00",
+  "date": "2012-03-15T02:48:19+03:00",
   "url": "/news/dva-iksa/",
   "original_url": "http://spidermedia.ru/news/dva-iksa",
   "archived": "https://web.archive.org/web/20251207085654/http://spidermedia.ru/news/dva-iksa",
   "tags": [
     "marvel",
-    "x-men"
+    "x-men",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20251207085654im_/http://spidermedia.ru/assets/images/import_image/6832.jpg",
+  "modx_id": 6832,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

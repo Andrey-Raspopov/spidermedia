@@ -1,12 +1,18 @@
 {
   "title": "Hellboymedia Special #04: «Хеллбой II — Золотая армия»",
-  "date": "2014-09-12T14:28:00+03:00",
+  "date": "2014-09-12T13:28:00+03:00",
   "url": "/articles/hellboymedia-special-04-film-hellboy-ii-zolotaya-armiya/",
   "original_url": "http://spidermedia.ru/articles/hellboymedia-special-04-film-hellboy-ii-zolotaya-armiya",
   "archived": "https://web.archive.org/web/20260117225326/http://spidermedia.ru/articles/hellboymedia-special-04-film-hellboy-ii-zolotaya-armiya",
   "tags": [
     "recenziya",
     "hellboymedia"
+  ],
+  "cover": "https://web.archive.org/web/20160611145543im_/http://spidermedia.ru/assets/images/hellboymedia/special/04-hellboy-ii-the-golden-army/hellboy-ii-the-golden-army-cover.jpg",
+  "modx_id": 8055,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

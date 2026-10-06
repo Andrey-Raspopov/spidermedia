@@ -1,6 +1,6 @@
 {
   "title": "РосКомНадзор: быстрее, выше, сильнее! Итоги 2014 года",
-  "date": "2014-12-30T10:45:00+03:00",
+  "date": "2014-12-30T10:45:38+03:00",
   "url": "/blog/hella/roskomnadzor-bystree-vyshe-silnee-itogi-2014-goda/",
   "original_url": "https://spidermedia.ru/blog/hella/roskomnadzor-bystree-vyshe-silnee-itogi-2014-goda",
   "archived": "https://web.archive.org/web/20260115051015/https://spidermedia.ru/blog/hella/roskomnadzor-bystree-vyshe-silnee-itogi-2014-goda",
@@ -17,6 +17,12 @@
     "xl-media",
     "viverra-publishing",
     "bubble"
+  ],
+  "cover": "https://web.archive.org/web/20150326221338im_/http://spidermedia.ru/assets/images/import_image/8434.jpg",
+  "modx_id": 8434,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

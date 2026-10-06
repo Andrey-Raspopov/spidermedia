@@ -1,6 +1,6 @@
 {
   "title": "Логан Минувшего Будущего",
-  "date": "2014-10-17T11:19:00+03:00",
+  "date": "2014-10-17T10:19:36+03:00",
   "url": "/news/logan-minuvshego-budushchego/",
   "original_url": "http://spidermedia.ru/news/logan-minuvshego-budushchego",
   "archived": "https://web.archive.org/web/20251207012345/http://spidermedia.ru/news/logan-minuvshego-budushchego",
@@ -9,7 +9,14 @@
     "hot-toys",
     "x-men",
     "wolverine",
-    "figurki"
+    "figurki",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20160611144320im_/http://spidermedia.ru/assets/images/import_image/8196.jpg",
+  "modx_id": 8196,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

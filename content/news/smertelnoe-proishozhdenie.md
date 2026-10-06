@@ -1,7 +1,10 @@
 {
   "title": "Смертельное Происхождение",
-  "date": "2009-07-17T23:45:00+03:00",
+  "date": "2009-07-17T22:45:13+03:00",
   "url": "/news/smertelnoe-proishozhdenie/",
+  "aliases": [
+    "/node/1582/"
+  ],
   "original_url": "http://spidermedia.ru/news/smertelnoe-proishozhdenie",
   "archived": "https://web.archive.org/web/20120607142402/http://spidermedia.ru/news/smertelnoe-proishozhdenie",
   "tags": [
@@ -12,13 +15,21 @@
     "oblozhki",
     "pol-kornell",
     "tom-reyni",
-    "chyornaya-vdova"
+    "chyornaya-vdova",
+    "tom-rejni",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20120607142402im_/http://spidermedia.ru/assets/images/import_image/1582.jpg",
+  "modx_id": 1582,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }
 
-Не секрет, что [**Черная Вдова** *(Black Widow)*](../../node/1575/) появится в грядущем кинокомиксе **Железный Человек 2** *(Iron Man 2)*. Как и подабает в таких случаях, это событие будет сопровождаться выходом комиксов с участие данного персонажа:
+Не секрет, что [**Черная Вдова** *(Black Widow)*](../zheleznaya-troica/) появится в грядущем кинокомиксе **Железный Человек 2** *(Iron Man 2)*. Как и подабает в таких случаях, это событие будет сопровождаться выходом комиксов с участие данного персонажа:
 
 ]]>[![](https://web.archive.org/web/20120607142402im_/http://www.picamatic.com/show/2009/07/17/11/25/4478804_bigthumb.jpg)](http://robot6.comicbookresources.com/wp-content/uploads/2009/07/black-widow-year-one.jpg)]]>
 

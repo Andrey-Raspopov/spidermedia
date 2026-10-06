@@ -1,12 +1,21 @@
 {
   "title": "God: talking with Grant Morrison",
-  "date": "2010-07-06T23:52:00+03:00",
+  "date": "2010-07-06T22:52:27+03:00",
   "url": "/blog/sonyn/god-talking-grant-morrison/",
+  "aliases": [
+    "/node/2708/"
+  ],
   "original_url": "http://spidermedia.ru/blog/sonyn/god-talking-grant-morrison",
   "archived": "https://web.archive.org/web/20120608160821/http://spidermedia.ru/blog/sonyn/god-talking-grant-morrison",
   "tags": [
     "grant-morrison-talking-gods",
     "grant-morrison"
+  ],
+  "cover": "https://web.archive.org/web/20120608160821im_/http://spidermedia.ru/assets/images/import_image/2708.jpg",
+  "modx_id": 2708,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

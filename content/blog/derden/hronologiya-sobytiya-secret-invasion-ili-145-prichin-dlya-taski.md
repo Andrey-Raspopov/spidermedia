@@ -1,7 +1,10 @@
 {
   "title": "Хронология события «Secret Invasion» или 145 причин для таски",
-  "date": "2009-07-23T12:02:00+03:00",
+  "date": "2009-07-23T11:02:00+03:00",
   "url": "/blog/derden/hronologiya-sobytiya-secret-invasion-ili-145-prichin-dlya-taski/",
+  "aliases": [
+    "/node/1624/"
+  ],
   "original_url": "http://spidermedia.ru/blog/derden/hronologiya-sobytiya-secret-invasion-ili-145-prichin-dlya-taski",
   "archived": "https://web.archive.org/web/20241205093435/http://spidermedia.ru/blog/derden/hronologiya-sobytiya-secret-invasion-ili-145-prichin-dlya-taski",
   "tags": [
@@ -11,6 +14,12 @@
     "skrulls",
     "secret-invasion",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20241205093435im_/http://spidermedia.ru/assets/images/import_image/1624.jpg",
+  "modx_id": 1624,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

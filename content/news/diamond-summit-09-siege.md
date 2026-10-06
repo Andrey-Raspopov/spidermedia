@@ -1,7 +1,10 @@
 {
   "title": "Diamond Summit '09 - Siege",
-  "date": "2009-10-15T18:01:00+03:00",
+  "date": "2009-10-15T17:01:59+03:00",
   "url": "/news/diamond-summit-09-siege/",
+  "aliases": [
+    "/node/1999/"
+  ],
   "original_url": "https://spidermedia.ru/news/diamond-summit-09-siege",
   "archived": "https://web.archive.org/web/20251115185559/https://spidermedia.ru/news/diamond-summit-09-siege",
   "tags": [
@@ -13,17 +16,24 @@
     "marvel",
     "preview",
     "art-0",
-    "sobytiya"
+    "sobytiya",
+    "prevyu",
+    "art"
+  ],
+  "modx_id": 1999,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-На прошлой неделе [мы рассказали](../../node/1973/) вам о некоторых подробностях, связанных с новым ивентом Marvel Comics - Siege. На недавнем **Diamond Summit** сценарист **Брайан Майкл Бендис** *(Brian Michael Bendis)* порадовал фанатов очень интересной информацией, затрагивающей новое глобальное событие.![Diamond Summit '09: Siege](https://web.archive.org/web/20251115185559im_/http://marvel.com/i/content/st/9872header_banner5118064.jpg)
+На прошлой неделе [мы рассказали](../troica-pod-osadoy/) вам о некоторых подробностях, связанных с новым ивентом Marvel Comics - Siege. На недавнем **Diamond Summit** сценарист **Брайан Майкл Бендис** *(Brian Michael Bendis)* порадовал фанатов очень интересной информацией, затрагивающей новое глобальное событие.![Diamond Summit '09: Siege](https://web.archive.org/web/20251115185559im_/http://marvel.com/i/content/st/9872header_banner5118064.jpg)
 
 - По словам Бендиса, мы лицезреем распад Заговорщиков (the Cabal). Причиной распада является Норман Осборн (Norman Osborn/Iron Patriot), который планирует завоевать Асгард (Asgard).
 - Локи (Loki) будет играть очень важную роль в походе Нормана, а также в принятых им решениях.
-- Мы знаем, что после событий, произошедших в Утопии (Utopia), Нэмор (Namor) и Эмма Фрост (Emma Frost) покинули Заговорщиков. Но не стоит волноваться по этому поводу, ибо уже в [Siege: The Cabal](../../node/1940/), мы увидим им замену.
+- Мы знаем, что после событий, произошедших в Утопии (Utopia), Нэмор (Namor) и Эмма Фрост (Emma Frost) покинули Заговорщиков. Но не стоит волноваться по этому поводу, ибо уже в [Siege: The Cabal](../avengers-assemble-part-i-dekabr-2009/), мы увидим им замену.
 - В новом ивенте примут участие такие команды, как: Тайные Воины (Secret Warriors), Юные Мстители (Young Avengers), Инициатива (the Initiative), Темные Мстители (Dark Avengers), Новые Мстители (New Avengers) и Могучие Мстители (Mighty Avengers).
 
 [![9872new_storyimage-25118064.jpg - Picamatic - upload your images](https://web.archive.org/web/20251115185559im_/http://www.picamatic.com/show/2009/10/13/08/40/5534876_bigthumb.jpg "9872new_storyimage-25118064.jpg")](http://www.picamatic.com/view/5534876_9872new_storyimage-25118064/) [![avst.jpg - image uploaded to Picamatic](https://web.archive.org/web/20251115185559im_/http://www.picamatic.com/show/2009/10/15/05/53/5559151_bigthumb.jpg "avst.jpg")](http://www.picamatic.com/view/5559151_avst/)
@@ -34,5 +44,5 @@
 - Все тайны будут раскрыты на протяжении всего ивента. Мы наконец-таки узнаем, кто, всё-таки, был за дверью в уан-шоте Secret Invasion: Dark Reign.
 - Перед началом первого выпуска Siege, нас ждёт 8-страничный пролог в digital формате. Художником будет Луцио Парайлло (Lucio Parillo). Пролог появится 29 декабря на сайте Marvel.
 - Нас также ждут: новая мини - Siege: Embedded и уан-шот Fallen. О чём они будут пока неизвестно.
-В заключении, мы приготовили для вас немного эксклюзивного арта из ролика (его удалили с Youtube), показанного на **Саммите**:[![ssm.jpg - image uploaded to Picamatic](https://web.archive.org/web/20251115185559im_/http://www.picamatic.com/show/2009/10/13/08/41/5534891_bigthumb.jpg "ssm.jpg")](http://www.picamatic.com/view/5534891_ssm/) [![swv.jpg - Picamatic - upload your images](https://web.archive.org/web/20251115185559im_/http://www.picamatic.com/show/2009/10/13/08/41/5534895_bigthumb.jpg "swv.jpg")](http://www.picamatic.com/view/5534895_swv/) [![sss.jpg - Picamatic - upload your images](https://web.archive.org/web/20251115185559im_/http://www.picamatic.com/show/2009/10/13/08/41/5534901_bigthumb.jpg "sss.jpg")](http://www.picamatic.com/view/5534901_sss/) [![sdd.jpg - image uploaded to Picamatic](https://web.archive.org/web/20251115185559im_/http://www.picamatic.com/show/2009/10/13/08/41/5534894_bigthumb.jpg "sdd.jpg")](http://www.picamatic.com/view/5534894_sdd/) [![sdd2.jpg - image uploaded to Picamatic](https://web.archive.org/web/20251115185559im_/http://www.picamatic.com/show/2009/10/13/08/40/5534879_bigthumb.jpg "sdd2.jpg")](http://www.picamatic.com/view/5534879_sdd2/)На кадрах запечатлены Человек-Паук (Spider-Man), Логан (Logan/Wolverine), Дакен (Daken/Dark Wolverine), Тор (Thor), Веном (Mac Gargan/Venom) и **Железный Патриот**. Большого внимания достойны 2 последних кадра, на которых мы можем видеть статую [оригинальной мстительской Троицы](../../node/1973/). Что это означает? Выживет ли эта Троица или падёт под давлением последних шагов Темного Правления (Dark Reign)? Время покажет.
+В заключении, мы приготовили для вас немного эксклюзивного арта из ролика (его удалили с Youtube), показанного на **Саммите**:[![ssm.jpg - image uploaded to Picamatic](https://web.archive.org/web/20251115185559im_/http://www.picamatic.com/show/2009/10/13/08/41/5534891_bigthumb.jpg "ssm.jpg")](http://www.picamatic.com/view/5534891_ssm/) [![swv.jpg - Picamatic - upload your images](https://web.archive.org/web/20251115185559im_/http://www.picamatic.com/show/2009/10/13/08/41/5534895_bigthumb.jpg "swv.jpg")](http://www.picamatic.com/view/5534895_swv/) [![sss.jpg - Picamatic - upload your images](https://web.archive.org/web/20251115185559im_/http://www.picamatic.com/show/2009/10/13/08/41/5534901_bigthumb.jpg "sss.jpg")](http://www.picamatic.com/view/5534901_sss/) [![sdd.jpg - image uploaded to Picamatic](https://web.archive.org/web/20251115185559im_/http://www.picamatic.com/show/2009/10/13/08/41/5534894_bigthumb.jpg "sdd.jpg")](http://www.picamatic.com/view/5534894_sdd/) [![sdd2.jpg - image uploaded to Picamatic](https://web.archive.org/web/20251115185559im_/http://www.picamatic.com/show/2009/10/13/08/40/5534879_bigthumb.jpg "sdd2.jpg")](http://www.picamatic.com/view/5534879_sdd2/)На кадрах запечатлены Человек-Паук (Spider-Man), Логан (Logan/Wolverine), Дакен (Daken/Dark Wolverine), Тор (Thor), Веном (Mac Gargan/Venom) и **Железный Патриот**. Большого внимания достойны 2 последних кадра, на которых мы можем видеть статую [оригинальной мстительской Троицы](../troica-pod-osadoy/). Что это означает? Выживет ли эта Троица или падёт под давлением последних шагов Темного Правления (Dark Reign)? Время покажет.
 В завершении данной новости, мы напоминаем вам, что Siege стартует уже в декабре этого года. Сценаристом мини будет Брайан Майкл Бендис, а художником - Оливер Койпель.

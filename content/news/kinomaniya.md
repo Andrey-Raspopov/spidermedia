@@ -1,7 +1,10 @@
 {
   "title": "Киномания",
-  "date": "2009-01-29T16:22:00+03:00",
+  "date": "2009-01-29T16:22:09+03:00",
   "url": "/news/kinomaniya/",
+  "aliases": [
+    "/node/8/"
+  ],
   "original_url": "https://spidermedia.ru/news/kinomaniya",
   "archived": "https://web.archive.org/web/20260116224950/https://spidermedia.ru/news/kinomaniya",
   "tags": [
@@ -11,7 +14,14 @@
     "gi-joe",
     "dc-comics",
     "dark-horse",
-    "spider-man"
+    "spider-man",
+    "zheleznyy-chelovek"
+  ],
+  "cover": "https://web.archive.org/web/20150424123316im_/http://spidermedia.ru/assets/images/import_image/8.jpg",
+  "modx_id": 8,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

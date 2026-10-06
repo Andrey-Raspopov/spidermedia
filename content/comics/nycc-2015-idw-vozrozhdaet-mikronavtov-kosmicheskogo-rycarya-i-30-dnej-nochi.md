@@ -6,7 +6,14 @@
   "archived": "https://web.archive.org/web/20260208202653/http://spidermedia.ru/comics/nycc-2015-idw-vozrozhdaet-mikronavtov-kosmicheskogo-rycarya-i-30-dnej-nochi",
   "tags": [
     "idw-publishing",
-    "komik-kon-v-nyu-yorke"
+    "komik-kon-v-nyu-yorke",
+    "nycc-2015"
+  ],
+  "cover": "https://web.archive.org/web/20180205111310im_/http://spidermedia.ru/assets/images/comic-con/2015/nycc/idw/rom-micronauts.jpg",
+  "modx_id": 100646,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

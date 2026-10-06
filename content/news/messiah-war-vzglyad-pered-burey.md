@@ -1,7 +1,10 @@
 {
   "title": "Messiah War: Взгляд перед бурей",
-  "date": "2009-03-22T16:43:00+03:00",
+  "date": "2009-03-22T16:43:08+03:00",
   "url": "/news/messiah-war-vzglyad-pered-burey/",
+  "aliases": [
+    "/node/745/"
+  ],
   "original_url": "https://spidermedia.ru/news/messiah-war-vzglyad-pered-burey",
   "archived": "https://web.archive.org/web/20260314074311/https://spidermedia.ru/news/messiah-war-vzglyad-pered-burey",
   "tags": [
@@ -16,7 +19,14 @@
     "stryfe",
     "marvel",
     "hope",
-    "cable"
+    "cable",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20260314074311im_/http://spidermedia.ru/assets/images/import_image/745.jpg",
+  "modx_id": 745,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

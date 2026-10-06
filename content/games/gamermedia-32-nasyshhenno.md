@@ -4,6 +4,12 @@
   "url": "/games/gamermedia-32-nasyshhenno/",
   "original_url": "http://spidermedia.ru/games/gamermedia-32-nasyshhenno",
   "archived": "https://web.archive.org/web/20251108040923/http://spidermedia.ru/games/gamermedia-32-nasyshhenno",
+  "cover": "https://web.archive.org/web/20251108040923im_/http://spidermedia.ru/assets/images/games/obl32.jpg",
+  "modx_id": 102431,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

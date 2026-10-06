@@ -1,6 +1,6 @@
 {
   "title": "Основные супер-способности в комиксах Марвел",
-  "date": "2009-02-04T19:35:00+03:00",
+  "date": "2009-02-04T19:35:18+03:00",
   "url": "/blog/jean-grey/osnovnye-super-sposobnosti-v-komiksah-marvel/",
   "original_url": "http://spidermedia.ru/blog/jean-grey/osnovnye-super-sposobnosti-v-komiksah-marvel",
   "archived": "https://web.archive.org/web/20190916235600/http://spidermedia.ru:80/blog/jean-grey/osnovnye-super-sposobnosti-v-komiksah-marvel",
@@ -8,6 +8,12 @@
     "sposobnosti",
     "obzor",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20190916235600im_/http://spidermedia.ru/assets/images/import_image/183.jpg",
+  "modx_id": 183,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,9 +1,15 @@
 {
   "title": "Отряд самоубийц",
-  "date": "2015-04-28T00:00:00+00:00",
+  "date": "2016-05-04T13:33:00+03:00",
   "url": "/movies-index/dc-comics-suicide-squad-movie-2016/",
   "original_url": "http://spidermedia.ru/movies-index/dc-comics-suicide-squad-movie-2016",
   "archived": "https://web.archive.org/web/20150428053333/http://spidermedia.ru/movies-index/dc-comics-suicide-squad-movie-2016",
+  "cover": "https://web.archive.org/web/20170423085726im_/http://spidermedia.ru/assets/images/movies/dc/suicide-squad-2016/ceheju3waaa5h0s.jpg",
+  "modx_id": 100033,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,6 +1,6 @@
 {
   "title": "NYCC'10: Hasbro - \"Тор\" и \"Первый Мститель\"",
-  "date": "2010-10-11T12:15:00+03:00",
+  "date": "2010-10-11T11:15:02+03:00",
   "url": "/news/nycc10-hasbro-tor-i-pervyy-mstitel-kapitan-amerika/",
   "original_url": "http://spidermedia.ru/news/nycc10-hasbro-tor-i-pervyy-mstitel-kapitan-amerika",
   "archived": "https://web.archive.org/web/20251205111129/http://spidermedia.ru/news/nycc10-hasbro-tor-i-pervyy-mstitel-kapitan-amerika",
@@ -12,7 +12,15 @@
     "marvel",
     "gorod-grehov",
     "brian-bolland",
-    "captain-america"
+    "captain-america",
+    "tor",
+    "brajan-bolland"
+  ],
+  "cover": "https://web.archive.org/web/20251205111129im_/http://spidermedia.ru/assets/images/import_image/2996.jpg",
+  "modx_id": 2996,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

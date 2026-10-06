@@ -1,6 +1,6 @@
 {
   "title": "Полсотни это срок",
-  "date": "2009-02-13T10:37:00+03:00",
+  "date": "2009-02-13T10:37:48+03:00",
   "url": "/blog/alex/polsotni-eto-srok/",
   "original_url": "http://spidermedia.ru/blog/alex/polsotni-eto-srok",
   "archived": "https://web.archive.org/web/20260314080118/http://spidermedia.ru/blog/alex/polsotni-eto-srok",
@@ -10,6 +10,12 @@
     "geoff-johns",
     "hal-jordan",
     "istoriya"
+  ],
+  "cover": "https://web.archive.org/web/20260314080118im_/http://spidermedia.ru/assets/images/import_image/342.gif",
+  "modx_id": 342,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

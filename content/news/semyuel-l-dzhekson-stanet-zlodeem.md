@@ -1,6 +1,6 @@
 {
   "title": "Сэмюэль Л. Джексон станет злодеем",
-  "date": "2013-08-02T10:35:00+03:00",
+  "date": "2013-08-02T09:35:00+03:00",
   "url": "/news/semyuel-l-dzhekson-stanet-zlodeem/",
   "original_url": "http://spidermedia.ru/news/semyuel-l-dzhekson-stanet-zlodeem",
   "archived": "https://web.archive.org/web/20250715003345/http://spidermedia.ru/news/semyuel-l-dzhekson-stanet-zlodeem",
@@ -9,6 +9,12 @@
     "mark-millar",
     "tajnaya-sluzhba",
     "icon-comics"
+  ],
+  "cover": "https://web.archive.org/web/20230705100744im_/http://spidermedia.ru/assets/images/import_image/7396.jpg",
+  "modx_id": 7396,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

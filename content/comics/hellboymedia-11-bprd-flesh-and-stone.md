@@ -8,6 +8,12 @@
     "hellboymedia",
     "mnenie"
   ],
+  "cover": "https://web.archive.org/web/20160611144848im_/http://spidermedia.ru/assets/images/hellboymedia/regular/11-bprd-flesh-and-stone/bprd-flesh-and-stone-cover.jpg",
+  "modx_id": 100149,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

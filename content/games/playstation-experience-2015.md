@@ -4,6 +4,12 @@
   "url": "/games/playstation-experience-2015/",
   "original_url": "http://spidermedia.ru/games/playstation-experience-2015",
   "archived": "https://web.archive.org/web/20200927195941/http://spidermedia.ru/games/playstation-experience-2015",
+  "cover": "https://web.archive.org/web/20180131235753im_/http://spidermedia.ru/assets/images/games/pse.jpg",
+  "modx_id": 100751,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

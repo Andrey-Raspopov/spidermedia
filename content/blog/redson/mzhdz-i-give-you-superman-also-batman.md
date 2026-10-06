@@ -1,12 +1,18 @@
 {
   "title": "МЖДЗ: I GIVE YOU SUPERMAN. ALSO BATMAN",
-  "date": "2011-09-09T01:58:00+03:00",
+  "date": "2011-09-09T00:58:26+03:00",
   "url": "/blog/redson/mzhdz-i-give-you-superman-also-batman/",
   "original_url": "http://spidermedia.ru/blog/redson/mzhdz-i-give-you-superman-also-batman",
   "archived": "https://web.archive.org/web/20251115034023/http://spidermedia.ru/blog/redson/mzhdz-i-give-you-superman-also-batman",
   "tags": [
     "mnenie",
     "mzhdz"
+  ],
+  "cover": "https://web.archive.org/web/20251115034023im_/http://spidermedia.ru/assets/images/import_image/6597.png",
+  "modx_id": 6597,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

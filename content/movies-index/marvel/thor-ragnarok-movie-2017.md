@@ -4,6 +4,9 @@
   "url": "/movies-index/marvel/thor-ragnarok-movie-2017/",
   "original_url": "http://spidermedia.ru/movies-index/marvel/thor-ragnarok-movie-2017",
   "archived": "https://web.archive.org/web/20260209120740/http://spidermedia.ru/movies-index/marvel/thor-ragnarok-movie-2017",
+  "sources": [
+    "archive"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

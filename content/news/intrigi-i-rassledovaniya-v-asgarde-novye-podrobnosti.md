@@ -1,7 +1,10 @@
 {
   "title": "Интриги и расследования в Асгарде + новые подробности",
-  "date": "2009-07-23T03:09:00+03:00",
+  "date": "2009-07-23T02:09:25+03:00",
   "url": "/news/intrigi-i-rassledovaniya-v-asgarde-novye-podrobnosti/",
+  "aliases": [
+    "/node/1564/"
+  ],
   "original_url": "http://spidermedia.ru/news/intrigi-i-rassledovaniya-v-asgarde-novye-podrobnosti",
   "archived": "https://web.archive.org/web/20251211035007/http://spidermedia.ru/news/intrigi-i-rassledovaniya-v-asgarde-novye-podrobnosti",
   "tags": [
@@ -9,14 +12,21 @@
     "dzho-kesada",
     "j-michael-straczynski",
     "thor",
-    "marvel"
+    "marvel",
+    "dzhej-majkl-strazhinski",
+    "tor"
+  ],
+  "modx_id": 1564,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
 ![](https://web.archive.org/web/20251211035007im_/http://www.picamatic.com/show/2009/07/15/02/26/4442036_550x193.jpg)
-Не так давно было [объявлено](../../node/1479/), что **Джей Майкл Стражинский** *(J. Michael Straczynski)* покидает пост сценариста онгоинга **Thor**. Пришло время вернуться не только к этой теме, но и взглянуть на предстоящие события в жизни Бога Грома:
+Не так давно было [объявлено](../tor-bez-strazhinskogo/), что **Джей Майкл Стражинский** *(J. Michael Straczynski)* покидает пост сценариста онгоинга **Thor**. Пришло время вернуться не только к этой теме, но и взглянуть на предстоящие события в жизни Бога Грома:
 Ситуация с уходом все больше и больше проясняется, не обошлось без главного редактора **Джо Кесады** *(Joe Quesada)* и предстоящего кроссовера. Как удалось узнать, на этот раз причиной ухода с поста послужил ожидающий нас в будущем кроссовер **Siege of Asgard**, в котором сценарист не пожелал участвовать, поскольку подобные вещи не позволяют ему делать то, что он хочет, т.е. развивать и прорабатывать персонажей, всячески обустраивать и создавать мир, в общем - всячески мешают реализации авторских задумок. Джо же, в свою очередь, оправдывается тем, что Джею и без того дали больше номеров, чем планировалось, при этом делалось все так, чтобы Тор не перегружался связями с остальными тайтлами, и жил, хоть и в 616, довольно обособленно. Теперь, по мнению редактора, пора снова возвращаться во вселенную, кроссовер и станет примером подобных изменений.
 [![](https://web.archive.org/web/20251211035007im_/http://www.picamatic.com/show/2009/07/15/02/43/4447096_bigthumb.jpg)](http://www.picamatic.com/view/4447096_26690new_storyimage9894756/) [![](https://web.archive.org/web/20251211035007im_/http://www.picamatic.com/show/2009/07/15/02/42/4447091_bigthumb.jpg)](http://www.picamatic.com/view/4447091_1246398927/)
 Обложка **Thor #603** и **Giant-Size Thor: Defining Moments** от **Марко Джурджевича** *(Marko Djurdjevic)*

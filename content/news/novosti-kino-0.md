@@ -1,12 +1,21 @@
 {
   "title": "Новости кино",
-  "date": "2010-04-24T17:51:00+03:00",
+  "date": "2010-04-24T16:51:12+03:00",
   "url": "/news/novosti-kino-0/",
+  "aliases": [
+    "/node/2578/"
+  ],
   "original_url": "https://spidermedia.ru/news/novosti-kino-0",
   "archived": "https://web.archive.org/web/20250807225537/https://spidermedia.ru/news/novosti-kino-0",
   "tags": [
     "ant-man",
     "prizrachnyj-gonshhik"
+  ],
+  "cover": "https://web.archive.org/web/20250807225537im_/http://spidermedia.ru/assets/images/import_image/2578.jpg",
+  "modx_id": 2578,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,12 +1,21 @@
 {
   "title": "Смена поколений в Marvel",
-  "date": "2010-09-07T03:54:00+03:00",
+  "date": "2010-09-07T02:54:59+03:00",
   "url": "/blog/silver/smena-pokoleniy-v-marvel/",
+  "aliases": [
+    "/node/2892/"
+  ],
   "original_url": "http://spidermedia.ru/blog/silver/smena-pokoleniy-v-marvel",
   "archived": "https://web.archive.org/web/20140824032709/http://spidermedia.ru:80/blog/silver/smena-pokoleniy-v-marvel",
   "tags": [
     "comics",
     "mnenie"
+  ],
+  "cover": "https://web.archive.org/web/20140824032709im_/http://spidermedia.ru/assets/images/import_image/2892.jpg",
+  "modx_id": 2892,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

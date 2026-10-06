@@ -9,6 +9,12 @@
     "batman",
     "shon-merfi"
   ],
+  "cover": "https://web.archive.org/web/20260313104533im_/http://spidermedia.ru/assets/images/reviews/dc/batman/white-knight/1/cvr.jpg",
+  "modx_id": 101704,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

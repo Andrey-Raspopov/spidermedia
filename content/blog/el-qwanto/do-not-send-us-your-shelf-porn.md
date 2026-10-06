@@ -1,11 +1,20 @@
 {
   "title": "Do NOT Send Us Your Shelf Porn",
-  "date": "2009-12-13T20:04:00+03:00",
+  "date": "2009-12-13T20:04:14+03:00",
   "url": "/blog/el-qwanto/do-not-send-us-your-shelf-porn/",
+  "aliases": [
+    "/node/2171/"
+  ],
   "original_url": "http://spidermedia.ru/blog/el-qwanto/do-not-send-us-your-shelf-porn",
   "archived": "https://web.archive.org/web/20200221074055/http://spidermedia.ru:80/blog/el-qwanto/do-not-send-us-your-shelf-porn",
   "tags": [
     "shelf-porn"
+  ],
+  "cover": "https://web.archive.org/web/20200221074055im_/http://spidermedia.ru/assets/images/import_image/2171.jpg",
+  "modx_id": 2171,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

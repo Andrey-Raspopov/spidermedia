@@ -1,6 +1,6 @@
 {
   "title": "МАРВЕЛ: Превью фильмов Второй и Третьей Фазы!",
-  "date": "2013-04-05T15:23:00+03:00",
+  "date": "2013-04-05T14:23:11+03:00",
   "url": "/news/marvel-prevyu-filmov-vtoroy-i-tretey-fazy/",
   "original_url": "https://spidermedia.ru/news/marvel-prevyu-filmov-vtoroy-i-tretey-fazy",
   "archived": "https://web.archive.org/web/20240806235519/https://spidermedia.ru/news/marvel-prevyu-filmov-vtoroy-i-tretey-fazy",
@@ -10,7 +10,14 @@
     "thor",
     "guardians-of-the-galaxy",
     "marvel",
-    "winter-soldier"
+    "winter-soldier",
+    "tor"
+  ],
+  "cover": "https://web.archive.org/web/20160708191409im_/http://spidermedia.ru/assets/images/import_image/7182.jpg",
+  "modx_id": 7182,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

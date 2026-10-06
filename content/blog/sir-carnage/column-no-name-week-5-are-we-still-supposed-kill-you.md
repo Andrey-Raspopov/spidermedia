@@ -1,7 +1,10 @@
 {
   "title": "The Column With No Name - Week #5: Are we still supposed to kill you?",
-  "date": "2009-03-09T02:27:00+03:00",
+  "date": "2009-03-09T02:27:43+03:00",
   "url": "/blog/sir-carnage/column-no-name-week-5-are-we-still-supposed-kill-you/",
+  "aliases": [
+    "/node/630/"
+  ],
   "original_url": "http://spidermedia.ru/blog/sir-carnage/column-no-name-week-5-are-we-still-supposed-kill-you",
   "archived": "https://web.archive.org/web/20240613051643/http://spidermedia.ru/blog/sir-carnage/column-no-name-week-5-are-we-still-supposed-kill-you",
   "tags": [
@@ -15,6 +18,12 @@
     "daredevil",
     "cable",
     "the-column-with-no-name"
+  ],
+  "cover": "https://web.archive.org/web/20240613051643im_/http://spidermedia.ru/assets/images/import_image/630.jpg",
+  "modx_id": 630,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

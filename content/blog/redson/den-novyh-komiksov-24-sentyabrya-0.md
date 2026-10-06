@@ -1,11 +1,17 @@
 {
   "title": "День новых комиксов: 24 сентября",
-  "date": "2014-09-24T14:10:00+03:00",
+  "date": "2014-09-24T13:10:21+03:00",
   "url": "/blog/redson/den-novyh-komiksov-24-sentyabrya-0/",
   "original_url": "http://spidermedia.ru/blog/redson/den-novyh-komiksov-24-sentyabrya-0",
   "archived": "https://web.archive.org/web/20260211194257/http://spidermedia.ru/blog/redson/den-novyh-komiksov-24-sentyabrya-0",
   "tags": [
     "den-novyh-komiksov"
+  ],
+  "cover": "https://web.archive.org/web/20150425004251im_/http://spidermedia.ru/assets/images/import_image/8100.jpg",
+  "modx_id": 8100,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

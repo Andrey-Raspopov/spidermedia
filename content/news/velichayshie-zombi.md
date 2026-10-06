@@ -1,7 +1,10 @@
 {
   "title": "Величайшие Зомби",
-  "date": "2010-10-28T00:17:00+03:00",
+  "date": "2010-10-27T23:17:01+03:00",
   "url": "/news/velichayshie-zombi/",
+  "aliases": [
+    "/node/3035/"
+  ],
   "original_url": "http://spidermedia.ru/news/velichayshie-zombi",
   "archived": "https://web.archive.org/web/20120607185319/http://spidermedia.ru/news/velichayshie-zombi",
   "tags": [
@@ -14,7 +17,16 @@
     "marvel-zombi-0",
     "oblozhki",
     "fernando-blanko",
-    "frenk-morraffino"
+    "frenk-morraffino",
+    "marvel-zombi2",
+    "art",
+    "majkl-komark"
+  ],
+  "cover": "https://web.archive.org/web/20120607185319im_/http://spidermedia.ru/assets/images/import_image/3035.jpg",
+  "modx_id": 3035,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

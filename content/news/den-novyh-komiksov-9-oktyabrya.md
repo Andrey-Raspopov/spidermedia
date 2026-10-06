@@ -1,12 +1,18 @@
 {
   "title": "День новых комиксов: 9 октября",
-  "date": "2013-10-09T11:50:00+03:00",
+  "date": "2013-10-09T10:50:46+03:00",
   "url": "/news/den-novyh-komiksov-9-oktyabrya/",
   "original_url": "https://spidermedia.ru/news/den-novyh-komiksov-9-oktyabrya",
   "archived": "https://web.archive.org/web/20250807001721/https://spidermedia.ru/news/den-novyh-komiksov-9-oktyabrya",
   "tags": [
     "den-novyh-komiksov",
     "mnenie"
+  ],
+  "cover": "https://web.archive.org/web/20150428231418im_/http://spidermedia.ru/assets/images/import_image/7496.jpg",
+  "modx_id": 7496,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

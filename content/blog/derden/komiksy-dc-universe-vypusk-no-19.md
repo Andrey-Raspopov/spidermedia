@@ -1,13 +1,22 @@
 {
   "title": "Комиксы DC Universe. Выпуск № 19",
-  "date": "2009-08-04T23:59:00+03:00",
+  "date": "2009-08-04T22:59:02+03:00",
   "url": "/blog/derden/komiksy-dc-universe-vypusk-no-19/",
+  "aliases": [
+    "/node/1722/"
+  ],
   "original_url": "http://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-19",
   "archived": "https://web.archive.org/web/20260211185913/http://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-19",
   "tags": [
     "robin",
     "dc-comics",
     "dc-universe-comics"
+  ],
+  "cover": "https://web.archive.org/web/20260211185913im_/http://spidermedia.ru/assets/images/import_image/1722.jpg",
+  "modx_id": 1722,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

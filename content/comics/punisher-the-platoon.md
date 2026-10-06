@@ -10,6 +10,12 @@
     "goran-parlov",
     "punisher"
   ],
+  "cover": "https://web.archive.org/web/20250318075157im_/http://spidermedia.ru/assets/images/news/castle/cover.jpg",
+  "modx_id": 101617,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

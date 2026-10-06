@@ -6,7 +6,14 @@
   "archived": "https://web.archive.org/web/20260214133011/http://spidermedia.ru/comics/sdcc-2015-archi-vstretit-pank-gruppu-ramones",
   "tags": [
     "archie-comics",
-    "san-diego-comic-con-international"
+    "san-diego-comic-con-international",
+    "sdcc2015"
+  ],
+  "cover": "https://web.archive.org/web/20260214133011im_/http://spidermedia.ru/assets/images/news/archie/archie-meets-ramones.jpg",
+  "modx_id": 100364,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

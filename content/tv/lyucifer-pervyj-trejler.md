@@ -8,6 +8,12 @@
     "vertigo",
     "lyucifer"
   ],
+  "cover": "https://web.archive.org/web/20160611081943im_/http://spidermedia.ru/assets/images/news/tv/vertigo/anbaxj23tsw.jpg",
+  "modx_id": 100218,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

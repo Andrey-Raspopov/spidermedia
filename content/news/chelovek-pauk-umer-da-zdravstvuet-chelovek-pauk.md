@@ -1,6 +1,6 @@
 {
   "title": "Человек-Паук умер, да здравствует Человек-Паук!",
-  "date": "2011-08-02T10:41:00+03:00",
+  "date": "2011-08-02T09:41:04+03:00",
   "url": "/news/chelovek-pauk-umer-da-zdravstvuet-chelovek-pauk/",
   "original_url": "http://spidermedia.ru/news/chelovek-pauk-umer-da-zdravstvuet-chelovek-pauk",
   "archived": "https://web.archive.org/web/20250715215647/http://spidermedia.ru/news/chelovek-pauk-umer-da-zdravstvuet-chelovek-pauk",
@@ -8,6 +8,12 @@
     "marvel",
     "spider-man",
     "ultimate"
+  ],
+  "cover": "https://web.archive.org/web/20250715215647im_/http://spidermedia.ru/assets/images/import_image/6541.jpg",
+  "modx_id": 6541,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

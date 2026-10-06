@@ -1,6 +1,6 @@
 {
   "title": "Американская Пантера",
-  "date": "2011-04-12T21:58:00+03:00",
+  "date": "2011-04-12T20:58:54+03:00",
   "url": "/news/amerikanskaya-pantera/",
   "original_url": "http://spidermedia.ru/news/amerikanskaya-pantera",
   "archived": "https://web.archive.org/web/20251108184324/http://spidermedia.ru/news/amerikanskaya-pantera",
@@ -10,7 +10,14 @@
     "patrik-zircher",
     "devid-liss",
     "art-0",
-    "marvel"
+    "marvel",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20251108184324im_/http://spidermedia.ru/assets/images/import_image/4920.jpg",
+  "modx_id": 4920,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

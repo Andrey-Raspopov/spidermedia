@@ -1,7 +1,10 @@
 {
   "title": "New Ultimates: отсчет пошел...",
-  "date": "2009-10-14T09:36:00+03:00",
+  "date": "2009-10-14T08:36:11+03:00",
   "url": "/news/new-ultimates-otschet-poshel/",
+  "aliases": [
+    "/node/1996/"
+  ],
   "original_url": "https://spidermedia.ru/news/new-ultimates-otschet-poshel",
   "archived": "https://web.archive.org/web/20260115053653/https://spidermedia.ru/news/new-ultimates-otschet-poshel",
   "tags": [
@@ -10,6 +13,11 @@
     "ultimates",
     "ultimate",
     "marvel"
+  ],
+  "modx_id": 1996,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

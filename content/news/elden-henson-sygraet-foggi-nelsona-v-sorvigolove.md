@@ -1,6 +1,6 @@
 {
   "title": "Элден Хенсон сыграет Фогги Нельсона в «Сорвиголове»",
-  "date": "2014-06-26T22:25:00+03:00",
+  "date": "2014-06-26T21:25:16+03:00",
   "url": "/news/elden-henson-sygraet-foggi-nelsona-v-sorvigolove/",
   "original_url": "http://spidermedia.ru/news/elden-henson-sygraet-foggi-nelsona-v-sorvigolove",
   "archived": "https://web.archive.org/web/20251111082829/http://spidermedia.ru/news/elden-henson-sygraet-foggi-nelsona-v-sorvigolove",
@@ -8,6 +8,12 @@
     "kasting",
     "marvel",
     "daredevil"
+  ],
+  "cover": "https://web.archive.org/web/20160611151009im_/http://spidermedia.ru/assets/images/import_image/7846.jpg",
+  "modx_id": 7846,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

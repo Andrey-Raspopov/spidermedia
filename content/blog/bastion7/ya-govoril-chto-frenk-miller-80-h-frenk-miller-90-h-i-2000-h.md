@@ -1,7 +1,10 @@
 {
   "title": "Я говорил, что Фрэнк Миллер 80-х > Фрэнк Миллер 90-х и 2000-х?",
-  "date": "2009-05-09T22:51:00+03:00",
+  "date": "2009-05-09T21:51:59+03:00",
   "url": "/blog/bastion7/ya-govoril-chto-frenk-miller-80-h-frenk-miller-90-h-i-2000-h/",
+  "aliases": [
+    "/node/1138/"
+  ],
   "original_url": "http://spidermedia.ru/blog/bastion7/ya-govoril-chto-frenk-miller-80-h-frenk-miller-90-h-i-2000-h",
   "archived": "https://web.archive.org/web/20120611025438/http://spidermedia.ru/blog/bastion7/ya-govoril-chto-frenk-miller-80-h-frenk-miller-90-h-i-2000-h",
   "tags": [
@@ -9,6 +12,11 @@
     "marvel",
     "mnenie",
     "frenk-miller"
+  ],
+  "modx_id": 1138,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

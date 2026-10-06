@@ -1,6 +1,6 @@
 {
   "title": "Рецензия на фильм \"Люди Икс: Первый Класс\"",
-  "date": "2011-05-26T23:46:00+03:00",
+  "date": "2011-05-26T22:46:31+03:00",
   "url": "/news/recenziya-na-film-lyudi-iks-pervyy-klass/",
   "original_url": "http://spidermedia.ru/news/recenziya-na-film-lyudi-iks-pervyy-klass",
   "archived": "https://web.archive.org/web/20260125070200/http://spidermedia.ru/news/recenziya-na-film-lyudi-iks-pervyy-klass",
@@ -10,6 +10,12 @@
     "magneto",
     "lyudi-iks-pervyj-klass",
     "x-men-first-class"
+  ],
+  "cover": "https://web.archive.org/web/20260125070200im_/http://spidermedia.ru/assets/images/import_image/6044.jpg",
+  "modx_id": 6044,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

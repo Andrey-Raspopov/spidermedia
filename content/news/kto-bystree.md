@@ -1,7 +1,10 @@
 {
   "title": "Кто быстрее?",
-  "date": "2009-04-24T17:32:00+03:00",
+  "date": "2009-04-24T16:32:34+03:00",
   "url": "/news/kto-bystree/",
+  "aliases": [
+    "/node/1046/"
+  ],
   "original_url": "http://spidermedia.ru/news/kto-bystree",
   "archived": "https://web.archive.org/web/20251208070908/http://spidermedia.ru/news/kto-bystree",
   "tags": [
@@ -19,6 +22,12 @@
     "jason-aaron",
     "adam-kubert",
     "tommy-lee-edwards"
+  ],
+  "cover": "https://web.archive.org/web/20251208070908im_/http://spidermedia.ru/assets/images/import_image/1046.jpg",
+  "modx_id": 1046,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

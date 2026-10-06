@@ -4,6 +4,12 @@
   "url": "/games/ratchet-and-clank-rift-apart-review/",
   "original_url": "https://spidermedia.ru/games/ratchet-and-clank-rift-apart-review",
   "archived": "https://web.archive.org/web/20240920173322/https://spidermedia.ru/games/ratchet-and-clank-rift-apart-review",
+  "cover": "https://web.archive.org/web/20240920173322im_/http://spidermedia.ru/assets/images/games/riftapart1000_d_850.jpg",
+  "modx_id": 102406,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

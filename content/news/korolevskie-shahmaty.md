@@ -1,7 +1,10 @@
 {
   "title": "Королевские Шахматы",
-  "date": "2009-02-03T22:25:00+03:00",
+  "date": "2009-02-03T22:25:49+03:00",
   "url": "/news/korolevskie-shahmaty/",
+  "aliases": [
+    "/node/163/"
+  ],
   "original_url": "http://spidermedia.ru/news/korolevskie-shahmaty",
   "archived": "https://web.archive.org/web/20180124020102/http://spidermedia.ru/news/korolevskie-shahmaty",
   "tags": [
@@ -10,6 +13,12 @@
     "inhumans",
     "vulcan",
     "medusa"
+  ],
+  "cover": "https://web.archive.org/web/20180315045328im_/http://spidermedia.ru/assets/images/import_image/163.jpg",
+  "modx_id": 163,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

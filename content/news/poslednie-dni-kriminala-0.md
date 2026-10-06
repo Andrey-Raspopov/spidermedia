@@ -1,12 +1,21 @@
 {
   "title": "Последние Дни Криминала",
-  "date": "2009-11-19T13:23:00+03:00",
+  "date": "2009-11-19T13:23:09+03:00",
   "url": "/news/poslednie-dni-kriminala-0/",
+  "aliases": [
+    "/node/2116/"
+  ],
   "original_url": "https://spidermedia.ru/news/poslednie-dni-kriminala-0",
   "archived": "https://web.archive.org/web/20260117221336/https://spidermedia.ru/news/poslednie-dni-kriminala-0",
   "tags": [
     "rik-remender",
     "radical-publishing"
+  ],
+  "cover": "https://web.archive.org/web/20260117221336im_/http://spidermedia.ru/assets/images/import_image/2116.jpg",
+  "modx_id": 2116,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

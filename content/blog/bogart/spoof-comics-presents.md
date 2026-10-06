@@ -1,6 +1,6 @@
 {
   "title": "Spoof Comics Presents",
-  "date": "2009-02-04T20:45:00+03:00",
+  "date": "2009-02-04T20:45:09+03:00",
   "url": "/blog/bogart/spoof-comics-presents/",
   "original_url": "http://spidermedia.ru/blog/bogart/spoof-comics-presents",
   "archived": "https://web.archive.org/web/20190914072425/http://spidermedia.ru:80/blog/bogart/spoof-comics-presents",
@@ -8,6 +8,12 @@
     "adam-hyuz",
     "parodii",
     "dzhim-belent"
+  ],
+  "cover": "https://web.archive.org/web/20190914072425im_/http://spidermedia.ru/assets/images/import_image/188.jpg",
+  "modx_id": 188,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "От слов к картинкам",
-  "date": "2012-08-10T18:07:00+03:00",
+  "date": "2012-08-10T17:07:49+03:00",
   "url": "/news/ot-slov-k-kartinkam/",
   "original_url": "https://spidermedia.ru/news/ot-slov-k-kartinkam",
   "archived": "https://web.archive.org/web/20260206223706/https://spidermedia.ru/news/ot-slov-k-kartinkam",
@@ -26,7 +26,17 @@
     "rik-remender",
     "dzhon-romita-ml",
     "tan-eng-huat",
-    "sajmon-spurrier"
+    "sajmon-spurrier",
+    "mett-frakshen",
+    "tor",
+    "zheleznyy-chelovek",
+    "fantasticheskaya-chetverka"
+  ],
+  "cover": "https://web.archive.org/web/20150326145310im_/http://spidermedia.ru/assets/images/import_image/7002.jpg",
+  "modx_id": 7002,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

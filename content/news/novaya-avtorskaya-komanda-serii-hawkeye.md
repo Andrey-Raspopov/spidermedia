@@ -1,6 +1,6 @@
 {
   "title": "Новая авторская команда серии Hawkeye",
-  "date": "2014-10-12T20:56:00+03:00",
+  "date": "2014-10-12T19:56:54+03:00",
   "url": "/news/novaya-avtorskaya-komanda-serii-hawkeye/",
   "original_url": "https://spidermedia.ru/news/novaya-avtorskaya-komanda-serii-hawkeye",
   "archived": "https://web.archive.org/web/20260120155442/https://spidermedia.ru/news/novaya-avtorskaya-komanda-serii-hawkeye",
@@ -9,6 +9,12 @@
     "marvel",
     "dzheff-lemir",
     "ramon-perez"
+  ],
+  "cover": "https://web.archive.org/web/20150326160700im_/http://spidermedia.ru/assets/images/import_image/8168.jpg",
+  "modx_id": 8168,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

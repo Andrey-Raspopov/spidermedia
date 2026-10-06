@@ -1,12 +1,18 @@
 {
   "title": "Рецензия: «Бёрдмен»",
-  "date": "2014-11-18T13:46:00+03:00",
+  "date": "2014-11-18T13:46:01+03:00",
   "url": "/blog/transistor/recenziya-na-film-byordmen-0/",
   "original_url": "http://spidermedia.ru/blog/transistor/recenziya-na-film-byordmen-0",
   "archived": "https://web.archive.org/web/20220815202733/http://spidermedia.ru/blog/transistor/recenziya-na-film-byordmen-0",
   "tags": [
     "byordmen",
     "recenziya"
+  ],
+  "cover": "https://web.archive.org/web/20150326100249im_/http://spidermedia.ru/assets/images/import_image/8297.jpg",
+  "modx_id": 8297,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

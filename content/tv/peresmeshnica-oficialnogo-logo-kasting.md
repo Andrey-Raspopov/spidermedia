@@ -10,6 +10,12 @@
     "peresmeshnica",
     "marvel"
   ],
+  "cover": "https://web.archive.org/web/20250119220014im_/http://spidermedia.ru/assets/images/tv/marvel/most-wanted/mostwanted-1.jpg",
+  "modx_id": 101026,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

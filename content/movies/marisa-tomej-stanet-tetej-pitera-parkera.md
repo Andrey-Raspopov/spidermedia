@@ -7,6 +7,12 @@
   "tags": [
     "marvel"
   ],
+  "cover": "https://web.archive.org/web/20250715002305im_/http://spidermedia.ru/assets/images/news/movies/spider-man/marisa_tomei.jpg",
+  "modx_id": 100331,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

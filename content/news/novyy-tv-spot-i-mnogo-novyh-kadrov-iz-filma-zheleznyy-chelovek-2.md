@@ -1,7 +1,10 @@
 {
   "title": "Новый тв-спот и много новых кадров из фильма \"Железный Человек 2\"",
-  "date": "2010-04-20T01:21:00+03:00",
+  "date": "2010-04-20T00:21:42+03:00",
   "url": "/news/novyy-tv-spot-i-mnogo-novyh-kadrov-iz-filma-zheleznyy-chelovek-2/",
+  "aliases": [
+    "/node/2562/"
+  ],
   "original_url": "http://spidermedia.ru/news/novyy-tv-spot-i-mnogo-novyh-kadrov-iz-filma-zheleznyy-chelovek-2",
   "archived": "https://web.archive.org/web/20120607164613/http://spidermedia.ru/news/novyy-tv-spot-i-mnogo-novyh-kadrov-iz-filma-zheleznyy-chelovek-2",
   "tags": [
@@ -13,7 +16,13 @@
     "zheleznyy-chelovek-2",
     "kino",
     "komiksy",
-    "marvel"
+    "marvel",
+    "art"
+  ],
+  "modx_id": 2562,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

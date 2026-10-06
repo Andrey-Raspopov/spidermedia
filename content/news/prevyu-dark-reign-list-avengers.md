@@ -1,7 +1,10 @@
 {
   "title": "Превью Dark Reign: The List - Avengers",
-  "date": "2009-08-12T23:09:00+03:00",
+  "date": "2009-08-12T22:09:33+03:00",
   "url": "/news/prevyu-dark-reign-list-avengers/",
+  "aliases": [
+    "/node/1771/"
+  ],
   "original_url": "https://spidermedia.ru/news/prevyu-dark-reign-list-avengers",
   "archived": "https://web.archive.org/web/20260312022514/https://spidermedia.ru/news/prevyu-dark-reign-list-avengers",
   "tags": [
@@ -13,7 +16,15 @@
     "brian-michael-bendis",
     "new-avengers",
     "marvel",
-    "list"
+    "list",
+    "prevyu",
+    "novye-mstiteli",
+    "dark-avengers"
+  ],
+  "modx_id": 1771,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

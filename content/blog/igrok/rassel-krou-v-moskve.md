@@ -1,11 +1,17 @@
 {
   "title": "Рассел Кроу в Москве!",
-  "date": "2014-03-21T11:01:00+03:00",
+  "date": "2014-03-21T10:01:55+03:00",
   "url": "/blog/igrok/rassel-krou-v-moskve/",
   "original_url": "http://spidermedia.ru/blog/igrok/rassel-krou-v-moskve",
   "archived": "https://web.archive.org/web/20190825023518/http://spidermedia.ru/blog/igrok/rassel-krou-v-moskve",
   "tags": [
     "rassel-krou"
+  ],
+  "cover": "https://web.archive.org/web/20190825023518im_/http://spidermedia.ru/assets/images/import_image/7691.jpg",
+  "modx_id": 7691,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

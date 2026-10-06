@@ -1,7 +1,10 @@
 {
   "title": "Железный январь",
-  "date": "2009-10-28T17:32:00+03:00",
+  "date": "2009-10-28T17:32:47+03:00",
   "url": "/news/zheleznyy-yanvar/",
+  "aliases": [
+    "/node/2030/"
+  ],
   "original_url": "https://spidermedia.ru/news/zheleznyy-yanvar",
   "archived": "https://web.archive.org/web/20251019001655/https://spidermedia.ru/news/zheleznyy-yanvar",
   "tags": [
@@ -15,7 +18,17 @@
     "mark-guggenhajm",
     "brendon-peterson",
     "marvel",
-    "preview"
+    "preview",
+    "invincible-iron-man",
+    "zheleznyy-chelovek",
+    "mett-frakshen",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20251019001655im_/http://spidermedia.ru/assets/images/import_image/2030.jpg",
+  "modx_id": 2030,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "Brand New Day: Май 2010",
-  "date": "2010-02-19T21:48:00+03:00",
+  "date": "2010-02-19T21:48:21+03:00",
   "url": "/news/brand-new-day-may-2010/",
+  "aliases": [
+    "/node/2385/"
+  ],
   "original_url": "http://spidermedia.ru/news/brand-new-day-may-2010",
   "archived": "https://web.archive.org/web/20260312015027/http://spidermedia.ru/news/brand-new-day-may-2010",
   "tags": [
@@ -17,7 +20,14 @@
     "dag-brejtvejt",
     "art-0",
     "marvel",
-    "spider-man"
+    "spider-man",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20260312015027im_/http://spidermedia.ru/assets/images/import_image/2385.png",
+  "modx_id": 2385,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
@@ -31,7 +41,7 @@
 - **#631-#633** - Смертельная битва **Ящера** *(Lizard)* и Человека-Паука от сценариста **Зеба Уэллса** *(Zeb Wells)* и художника **Криса Бачало** *(Chris Bachalo)* продолжается, на кону которой жизнь обоих противников, их семьи, а также жуткая перспектива для **Курта Коннорса** *(Curt Connors)* - потерять окончательно человеческую сущность. На фоне жестокой битвы Крейвены приводят свою задумку в действие, теперь их остановить просто невозможно.
 - **Amazing Spider-Man Annual #37** - неожиданно, но именно **Курт Бусиек** *(Kurt Busiek)*, вместе с другим сценаристом - **Карлом Кеселем** *(Karl Kesel)* - поведают в традиционном Ежегоднике о том, как и почему впервые встретились две легенды - **Капитан Америка** *(Captain America)* и, собственно, сам Паук. Освещать белые пятна истории намерены два человека: художники **Пауло Сикейра** *(Paulo Siqueira)* и **Патрик Оллифе** *(Patrick Olliffe)* .
 [![](https://web.archive.org/web/20260312015027im_/http://i691.photobucket.com/albums/vv276/Silvernoir/th_11309storystory_full-5995743.jpg)](http://s691.photobucket.com/albums/vv276/Silvernoir/11309storystory_full-5995743.jpg) [![](https://web.archive.org/web/20260312015027im_/http://i691.photobucket.com/albums/vv276/Silvernoir/th_11309storystory_full-5995758.jpg)](http://s691.photobucket.com/albums/vv276/Silvernoir/11309storystory_full-5995758.jpg) [![](https://web.archive.org/web/20260312015027im_/http://i691.photobucket.com/albums/vv276/Silvernoir/th_11309storystory_full-5995748.jpg)](http://s691.photobucket.com/albums/vv276/Silvernoir/11309storystory_full-5995748.jpg) [![](https://web.archive.org/web/20260312015027im_/http://i691.photobucket.com/albums/vv276/Silvernoir/th_11309storystory_full-5995762.jpg)](http://s691.photobucket.com/albums/vv276/Silvernoir/11309storystory_full-5995762.jpg)
-Обложка **ASM Presents: American Son** от **Марко Джурджевича** *(Marko Djurdjevic)*, **The Many Loves of the Amazing Spider-Man #1** от **Джейсона Ливескью** *(Jason Levesque)* **Peter Parker #3** авторства **Дага Брейтвейта** *(Doug Braithwaite)*, **WoS #8** от **Елены Джурджевич** *(Jelena Djurdjevic)*- **Amazing Spider-Man Presents: American Son #1** - К ранее [опубликованной](../../node/2352/) информации добавляются занятный нюанс: кроме самого Озборна мл. обнаружится другой подзабытый отпрыск - **Габриэль Стейси** *(Gabriel Stacy)*, дебютировавший в **Amazing Spider-Man #509** и более известный как **Серый Гоблин** *(Gray Goblin)*. Авторский дуэт из **Брайана Рида** *(Brian Reed)* и **Фила Брайонеса** *(Phil Briones)* попытается разобраться не только в этих хитросплетениях, но и рассказать, что такое быть сыном **Нормана Озборна** *(Norman Osborn)*.
+Обложка **ASM Presents: American Son** от **Марко Джурджевича** *(Marko Djurdjevic)*, **The Many Loves of the Amazing Spider-Man #1** от **Джейсона Ливескью** *(Jason Levesque)* **Peter Parker #3** авторства **Дага Брейтвейта** *(Doug Braithwaite)*, **WoS #8** от **Елены Джурджевич** *(Jelena Djurdjevic)*- **Amazing Spider-Man Presents: American Son #1** - К ранее [опубликованной](../zhizn-po-amerikanski/) информации добавляются занятный нюанс: кроме самого Озборна мл. обнаружится другой подзабытый отпрыск - **Габриэль Стейси** *(Gabriel Stacy)*, дебютировавший в **Amazing Spider-Man #509** и более известный как **Серый Гоблин** *(Gray Goblin)*. Авторский дуэт из **Брайана Рида** *(Brian Reed)* и **Фила Брайонеса** *(Phil Briones)* попытается разобраться не только в этих хитросплетениях, но и рассказать, что такое быть сыном **Нормана Озборна** *(Norman Osborn)*.
 - **The Many Loves of the Amazing Spider-Man #1** - если Паркеру и можно на что-то жаловаться, то только не на личную жизнь. Целая команда из сценаристов и художников приготовит три комикса о самых ярких и самых любимых женщинах Человека-Паука: **Гвен Стейси** *(Gwen Stacy)*, **Мэри Джейн Ватсон** *(Mary Jane Watson)*, **Черная Кошка** *(Black Cat)*, **Карли Купер** *(Carlie Cooper)* и другие откровения на страницах ван-шота.
 - **Peter Parker #3** - эпопея **Боба Гейла** *(Bob Gale)* и **Патрика Оллифе** *(Patrick Olliffe)*, в которой главные роли отведены мэру **Джей Джоне Джеймсоне** *(J. Jonah Jameson)* и полюбившимся публике группе **Девушек-Пауков** *(Spider-Girls)*, все еще происходит на страницах свежей серии. Джона по-прежнему пытается прикрыть деятельность команды, команда по-прежнему противостоит мэру и пропагандирует паучьи ценности, а сам Питер отправляется на свидание.
 - **Web of Spider-Man #8** - Пока Джона охотится за нарушителями спокойствия, на него самого идет охота. За головой мэра отправлен некий сверхкиллер, являющийся лишь частичкой мозайки по уничтожению Джеймсона. С исчезновением лишних историй онгоинг способен представлять полноценные арки, череду которых и открывает **The Extremist**. В мае часть первая. Над серией работают те же сценаристы - **Фред Ван Ленте** *(Fred Van Lente)*, **Джон Марк Дематтей** *(J.M. DeMatteis)*, рисует на этот раз **Пол Азасита** *(Paul Azaceta)* и **Вэл Семейкс** *(Val Semeiks)*.

@@ -4,6 +4,9 @@
   "url": "/comics/d/devils_reign/devils_reign/",
   "original_url": "http://www.spidermedia.ru/comics/d/devils_reign/devils_reign.html",
   "archived": "https://web.archive.org/web/20050307035938/http://www.spidermedia.ru:80/comics/d/devils_reign/devils_reign.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

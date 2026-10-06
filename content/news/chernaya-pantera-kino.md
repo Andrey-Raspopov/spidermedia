@@ -1,7 +1,10 @@
 {
   "title": "Черная Пантера: Кино",
-  "date": "2009-07-27T11:32:00+03:00",
+  "date": "2009-07-27T10:32:57+03:00",
   "url": "/news/chernaya-pantera-kino/",
+  "aliases": [
+    "/node/1676/"
+  ],
   "original_url": "https://spidermedia.ru/news/chernaya-pantera-kino",
   "archived": "https://web.archive.org/web/20250512121121/https://spidermedia.ru/news/chernaya-pantera-kino",
   "tags": [
@@ -9,6 +12,12 @@
     "san-diego-comic-con-international",
     "san-diego-comic-con-2009",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20250512121121im_/http://spidermedia.ru/assets/images/import_image/1676.jpg",
+  "modx_id": 1676,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,12 +1,18 @@
 {
   "title": "Российский медиапроект \"Versum\" стартует в октябре",
-  "date": "2013-07-18T15:06:00+03:00",
+  "date": "2013-07-18T14:06:58+03:00",
   "url": "/news/mediaproekt-versum-startuet-v-oktyabre/",
   "original_url": "https://spidermedia.ru/news/mediaproekt-versum-startuet-v-oktyabre",
   "archived": "https://web.archive.org/web/20250322054300/https://spidermedia.ru/news/mediaproekt-versum-startuet-v-oktyabre",
   "tags": [
     "russian-comics",
     "versum"
+  ],
+  "cover": "https://web.archive.org/web/20250322054300im_/http://spidermedia.ru/assets/images/import_image/7355.jpg",
+  "modx_id": 7355,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

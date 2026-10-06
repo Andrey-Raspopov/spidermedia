@@ -1,12 +1,18 @@
 {
   "title": "Календарь выхода комиксов на русском языке",
-  "date": "2014-10-21T17:57:00+03:00",
+  "date": "2014-10-21T16:57:59+03:00",
   "url": "/blog/hella/kalendar-vyhoda-komiksov-na-russkom-yazyke/",
   "original_url": "http://spidermedia.ru/blog/hella/kalendar-vyhoda-komiksov-na-russkom-yazyke",
   "archived": "https://web.archive.org/web/20251209144854/http://spidermedia.ru/blog/hella/kalendar-vyhoda-komiksov-na-russkom-yazyke",
   "tags": [
     "zarubezhnye-komiksy-na-russkom",
     "panini"
+  ],
+  "cover": "https://web.archive.org/web/20150326221420im_/http://spidermedia.ru/assets/images/import_image/8209.jpg",
+  "modx_id": 8209,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

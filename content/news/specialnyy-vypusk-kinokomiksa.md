@@ -2,11 +2,20 @@
   "title": "Специальный выпуск КиноКомикса",
   "date": "2009-11-27T22:49:00+03:00",
   "url": "/news/specialnyy-vypusk-kinokomiksa/",
+  "aliases": [
+    "/node/2137/"
+  ],
   "original_url": "http://spidermedia.ru/news/specialnyy-vypusk-kinokomiksa",
   "archived": "https://web.archive.org/web/20190810123922/http://spidermedia.ru:80/news/specialnyy-vypusk-kinokomiksa",
   "tags": [
     "obitaemyj-ostrov",
     "mnenie"
+  ],
+  "cover": "https://web.archive.org/web/20190810123922im_/http://spidermedia.ru/assets/images/import_image/2137.gif",
+  "modx_id": 2137,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

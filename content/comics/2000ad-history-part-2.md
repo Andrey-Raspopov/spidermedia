@@ -9,6 +9,12 @@
     "old-komix",
     "istoriya"
   ],
+  "cover": "https://web.archive.org/web/20230726173454im_/http://spidermedia.ru/assets/images/articles/2000ad/02/mzk.jpg",
+  "modx_id": 101840,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

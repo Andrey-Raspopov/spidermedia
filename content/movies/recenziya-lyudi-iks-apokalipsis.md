@@ -9,6 +9,12 @@
     "apokalipsis",
     "x-men"
   ],
+  "cover": "https://web.archive.org/web/20170911191128im_/http://spidermedia.ru/assets/images/movies/marvel/x-men-apocalypse-movie-2016/apoc-cover.jpg",
+  "modx_id": 101159,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

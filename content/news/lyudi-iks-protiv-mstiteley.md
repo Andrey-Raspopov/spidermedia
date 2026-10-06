@@ -1,13 +1,20 @@
 {
   "title": "Люди Икс против Мстителей",
-  "date": "2011-12-10T00:50:00+03:00",
+  "date": "2011-12-09T23:50:55+03:00",
   "url": "/news/lyudi-iks-protiv-mstiteley/",
   "original_url": "http://spidermedia.ru/news/lyudi-iks-protiv-mstiteley",
   "archived": "https://web.archive.org/web/20260314080729/http://spidermedia.ru/news/lyudi-iks-protiv-mstiteley",
   "tags": [
     "x-men",
     "marvel",
-    "avengers"
+    "avengers",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20260314080729im_/http://spidermedia.ru/assets/images/import_image/6727.jpg",
+  "modx_id": 6727,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

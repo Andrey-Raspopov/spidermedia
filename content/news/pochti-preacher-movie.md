@@ -1,6 +1,6 @@
 {
   "title": "Почти Preacher Movie",
-  "date": "2011-07-01T21:12:00+03:00",
+  "date": "2011-07-01T20:12:48+03:00",
   "url": "/news/pochti-preacher-movie/",
   "original_url": "http://spidermedia.ru/news/pochti-preacher-movie",
   "archived": "https://web.archive.org/web/20260312022455/http://spidermedia.ru/news/pochti-preacher-movie",
@@ -8,6 +8,12 @@
     "garth-ennis",
     "stitched",
     "avatar-press"
+  ],
+  "cover": "https://web.archive.org/web/20260312022455im_/http://spidermedia.ru/assets/images/import_image/6478.jpg",
+  "modx_id": 6478,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

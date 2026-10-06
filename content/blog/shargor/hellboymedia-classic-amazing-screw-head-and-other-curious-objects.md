@@ -1,12 +1,18 @@
 {
   "title": "Hellboymedia Classic: The Amazing Screw-On Head and Other Curious Objects",
-  "date": "2014-10-07T13:58:00+03:00",
+  "date": "2014-10-07T12:58:14+03:00",
   "url": "/blog/shargor/hellboymedia-classic-amazing-screw-head-and-other-curious-objects/",
   "original_url": "https://spidermedia.ru/blog/shargor/hellboymedia-classic-amazing-screw-head-and-other-curious-objects",
   "archived": "https://web.archive.org/web/20251207093359/https://spidermedia.ru/blog/shargor/hellboymedia-classic-amazing-screw-head-and-other-curious-objects",
   "tags": [
     "hellboymedia",
     "mnenie"
+  ],
+  "cover": "https://web.archive.org/web/20160611202658im_/http://spidermedia.ru/assets/images/hellboymedia/classic/amazing-screw-on-head-and-other-curious-objects/the-amazing-screw-on-head-cover.jpg",
+  "modx_id": 8140,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

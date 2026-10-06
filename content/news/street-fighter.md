@@ -1,6 +1,6 @@
 {
   "title": "Street Fighter",
-  "date": "2010-02-16T00:17:00+03:00",
+  "date": "2010-02-16T00:17:21+03:00",
   "url": "/news/street-fighter/",
   "original_url": "https://spidermedia.ru/news/street-fighter",
   "archived": "https://web.archive.org/web/20260120153505/https://spidermedia.ru/news/street-fighter",
@@ -13,7 +13,14 @@
     "art-0",
     "marvel",
     "luke-cage",
-    "daredevil"
+    "daredevil",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20260120153505im_/http://spidermedia.ru/assets/images/import_image/2375.jpg",
+  "modx_id": 2375,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

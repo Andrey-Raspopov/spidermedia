@@ -4,6 +4,9 @@
   "url": "/movies-index/dc-comics/aquaman-movie-2018/",
   "original_url": "http://spidermedia.ru/movies-index/dc-comics/aquaman-movie-2018",
   "archived": "https://web.archive.org/web/20251207091602/http://spidermedia.ru/movies-index/dc-comics/aquaman-movie-2018",
+  "sources": [
+    "archive"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

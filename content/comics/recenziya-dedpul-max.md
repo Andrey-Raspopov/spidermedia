@@ -8,6 +8,12 @@
     "komilfo",
     "obzor"
   ],
+  "cover": "https://web.archive.org/web/20260115044100im_/http://spidermedia.ru/assets/images/news/images/oleg-lyfar/review/deadpool-max/mini.jpg",
+  "modx_id": 102245,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,3 +1,3 @@
 {
-  "title": "magneto"
+  "title": "магнето"
 }

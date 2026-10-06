@@ -1,7 +1,10 @@
 {
   "title": "Tsundere Comic Reviewer Episode 2: Supremo - Adventures of Amitabh Bachchan",
-  "date": "2009-04-18T15:39:00+03:00",
+  "date": "2009-04-18T14:39:44+03:00",
   "url": "/blog/redson/tsundere-comic-reviewer-episode-2-supremo-adventures-amitabh-bachchan/",
+  "aliases": [
+    "/node/987/"
+  ],
   "original_url": "http://spidermedia.ru/blog/redson/tsundere-comic-reviewer-episode-2-supremo-adventures-amitabh-bachchan",
   "archived": "https://web.archive.org/web/20120607194347/http://spidermedia.ru/blog/redson/tsundere-comic-reviewer-episode-2-supremo-adventures-amitabh-bachchan",
   "tags": [
@@ -9,6 +12,12 @@
     "komiksy",
     "recenziya",
     "skachat"
+  ],
+  "cover": "https://web.archive.org/web/20120607194347im_/http://spidermedia.ru/assets/images/import_image/987.jpg",
+  "modx_id": 987,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"
@@ -66,7 +75,7 @@ I give you ]]>[TSUNDERE](http://lurkmore.ru/%D0%A6%D1%83%D0%BD%D0%B4%D0%B5%D1%80
 
 Но идиллии быстро приходит конец - прилетает бешеная птица, чтобы поправить освещение, и срывает съемку.
 
-[Она просто хотела поправить свет.](../../../node/143/)
+[Она просто хотела поправить свет.](../../zipop/spasitel-ne-tolko-spasaet-no-i-rugaet/)
 
 ]]>[![](https://web.archive.org/web/20120607194347im_/http://pic.ipicture.ru/uploads/090418/thumbs/T7W5L7Za41.jpg)](http://ipicture.ru/Gallery/Viewfull/17527824.html)]]>
 

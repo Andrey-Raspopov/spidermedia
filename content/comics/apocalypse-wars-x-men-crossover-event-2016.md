@@ -9,6 +9,12 @@
     "apokalipsis",
     "x-men"
   ],
+  "cover": "https://web.archive.org/web/20160611144459im_/http://spidermedia.ru/assets/images/newgallery/gallery54/apocalypse-wars-extraordinary-x-men-8.jpg",
+  "modx_id": 100768,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

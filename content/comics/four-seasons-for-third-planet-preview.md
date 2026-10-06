@@ -8,6 +8,12 @@
     "belyj-edinorog",
     "russian-comics"
   ],
+  "cover": "https://web.archive.org/web/20220314093726im_/http://spidermedia.ru/assets/images/articles/chetyre-sezona-dlya-tretej-planety/00000000.png",
+  "modx_id": 102482,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

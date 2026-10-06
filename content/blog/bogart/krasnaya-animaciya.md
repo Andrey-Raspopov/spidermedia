@@ -1,6 +1,6 @@
 {
   "title": "Красная анимация",
-  "date": "2009-08-09T17:06:00+03:00",
+  "date": "2009-08-09T16:06:21+03:00",
   "url": "/blog/bogart/krasnaya-animaciya/",
   "original_url": "http://spidermedia.ru/blog/bogart/krasnaya-animaciya",
   "archived": "https://web.archive.org/web/20250420042054/http://spidermedia.ru/blog/bogart/krasnaya-animaciya",
@@ -14,6 +14,11 @@
     "motion-comics",
     "elseworlds",
     "dave-johnson"
+  ],
+  "modx_id": 1751,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

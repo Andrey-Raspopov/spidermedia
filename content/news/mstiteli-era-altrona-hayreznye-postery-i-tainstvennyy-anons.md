@@ -1,13 +1,20 @@
 {
   "title": "«Мстители: Эра Альтрона»: хайрезные постеры и таинственный анонс",
-  "date": "2015-02-26T11:13:00+03:00",
+  "date": "2015-02-26T11:13:42+03:00",
   "url": "/news/mstiteli-era-altrona-hayreznye-postery-i-tainstvennyy-anons/",
   "original_url": "http://spidermedia.ru/news/mstiteli-era-altrona-hayreznye-postery-i-tainstvennyy-anons",
   "archived": "https://web.archive.org/web/20260117222311/http://spidermedia.ru/news/mstiteli-era-altrona-hayreznye-postery-i-tainstvennyy-anons",
   "tags": [
     "avengers",
     "marvel",
-    "iron-man"
+    "iron-man",
+    "zheleznyy-chelovek"
+  ],
+  "cover": "https://web.archive.org/web/20150326095952im_/http://spidermedia.ru/assets/images/import_image/8651.jpg",
+  "modx_id": 8651,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

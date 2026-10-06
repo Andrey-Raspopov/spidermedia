@@ -1,12 +1,18 @@
 {
   "title": "ОБНОВЛЕНО: Электро, Носорог и Зеленый Гоблин на постере \"Нового Человека-Паука 2\"",
-  "date": "2013-11-29T12:08:00+03:00",
+  "date": "2013-11-29T11:08:04+03:00",
   "url": "/news/elektro-nosorog-i-zelenyy-goblin-na-postere-novogo-cheloveka-pauka-2/",
   "original_url": "http://spidermedia.ru/news/elektro-nosorog-i-zelenyy-goblin-na-postere-novogo-cheloveka-pauka-2",
   "archived": "https://web.archive.org/web/20170609204212/http://spidermedia.ru:80/news/elektro-nosorog-i-zelenyy-goblin-na-postere-novogo-cheloveka-pauka-2",
   "tags": [
     "spider-man",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150424122926im_/http://spidermedia.ru/assets/images/import_image/7559.jpg",
+  "modx_id": 7559,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

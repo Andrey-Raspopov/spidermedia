@@ -1,7 +1,10 @@
 {
   "title": "Ultimate Comics в мае + превью UCNU #1",
-  "date": "2010-02-15T14:35:00+03:00",
+  "date": "2010-02-15T14:35:31+03:00",
   "url": "/news/ultimate-comics-v-mae-prevyu-ucnu-1/",
+  "aliases": [
+    "/node/2373/"
+  ],
   "original_url": "https://spidermedia.ru/news/ultimate-comics-v-mae-prevyu-ucnu-1",
   "archived": "https://web.archive.org/web/20260208191757/https://spidermedia.ru/news/ultimate-comics-v-mae-prevyu-ucnu-1",
   "tags": [
@@ -15,6 +18,12 @@
     "lejnil-frensis-yu",
     "frenk-cho",
     "mark-millar"
+  ],
+  "cover": "https://web.archive.org/web/20260208191757im_/http://spidermedia.ru/assets/images/import_image/2373.png",
+  "modx_id": 2373,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "Брутальные 30-ые: Череп, Дьявол, Когти",
-  "date": "2009-02-17T14:27:00+03:00",
+  "date": "2009-02-17T14:27:39+03:00",
   "url": "/news/brutalnye-30-ye-cherep-dyavol-kogti/",
+  "aliases": [
+    "/node/406/"
+  ],
   "original_url": "http://spidermedia.ru/news/brutalnye-30-ye-cherep-dyavol-kogti",
   "archived": "https://web.archive.org/web/20251106235352/http://spidermedia.ru/news/brutalnye-30-ye-cherep-dyavol-kogti",
   "tags": [
@@ -16,6 +19,12 @@
     "tom-koker",
     "pol-azasita",
     "punisher"
+  ],
+  "cover": "https://web.archive.org/web/20150315210246im_/http://spidermedia.ru/assets/images/ecahznqzhc4.jpg",
+  "modx_id": 406,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

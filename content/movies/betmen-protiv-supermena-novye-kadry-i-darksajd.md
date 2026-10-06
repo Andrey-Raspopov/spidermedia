@@ -10,6 +10,12 @@
     "darksajd",
     "superman"
   ],
+  "cover": "https://web.archive.org/web/20160618233315im_/http://spidermedia.ru/assets/images/movies/dc/batman-v-superman-dawn-of-justice-2016/empire/batman-v-superman-empire-13.jpg",
+  "modx_id": 100852,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

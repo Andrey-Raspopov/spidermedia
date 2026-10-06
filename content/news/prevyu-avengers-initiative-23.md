@@ -1,7 +1,10 @@
 {
   "title": "Превью Avengers: The Initiative #23",
-  "date": "2009-04-18T13:04:00+03:00",
+  "date": "2009-04-18T12:04:24+03:00",
   "url": "/news/prevyu-avengers-initiative-23/",
+  "aliases": [
+    "/node/984/"
+  ],
   "original_url": "http://spidermedia.ru/news/prevyu-avengers-initiative-23",
   "archived": "https://web.archive.org/web/20251208080441/http://spidermedia.ru/news/prevyu-avengers-initiative-23",
   "tags": [
@@ -10,7 +13,13 @@
     "preview",
     "kristos-gejdzh",
     "the-initiative",
-    "iniciativa"
+    "iniciativa",
+    "prevyu"
+  ],
+  "modx_id": 984,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

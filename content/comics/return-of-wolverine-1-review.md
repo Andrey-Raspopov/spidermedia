@@ -10,6 +10,12 @@
     "stiv-makniven",
     "charlz-soul"
   ],
+  "cover": "https://web.archive.org/web/20250324171115im_/http://spidermedia.ru/assets/images/reviews/marvel/x-men/return-of-wolverine/1/mzk.jpg",
+  "modx_id": 102021,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

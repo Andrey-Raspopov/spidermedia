@@ -1,7 +1,10 @@
 {
   "title": "Чёрный Человек Без Страха",
-  "date": "2010-09-15T07:03:00+03:00",
+  "date": "2010-09-15T06:03:40+03:00",
   "url": "/news/chyornyy-chelovek-bez-straha/",
+  "aliases": [
+    "/node/2913/"
+  ],
   "original_url": "https://spidermedia.ru/news/chyornyy-chelovek-bez-straha",
   "archived": "https://web.archive.org/web/20250814212905/https://spidermedia.ru/news/chyornyy-chelovek-bez-straha",
   "tags": [
@@ -11,13 +14,20 @@
     "daredevil",
     "devid-liss",
     "shadowland",
-    "marvel"
+    "marvel",
+    "derdevil"
+  ],
+  "cover": "https://web.archive.org/web/20250814212905im_/http://spidermedia.ru/assets/images/import_image/2913.jpg",
+  "modx_id": 2913,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-Вы ещё не забыли про те [тизеры](../../node/2829/), предлагавшие нам погадать, кто подберёт за **Дэрдевилом** (*Daredevil*) звание Человека Без Страха? Ну так можно уже не гадать (ну если только над [новым набором тизеров](../../node/2911/)), поскольку стало достоверно известно, что всё-таки не совсем закрывшаяся серия **Daredevil** с 513-го номера будет называться **Black Panther: The Man Without Fear**.
+Вы ещё не забыли про те [тизеры](../mesto-vakantno/), предлагавшие нам погадать, кто подберёт за **Дэрдевилом** (*Daredevil*) звание Человека Без Страха? Ну так можно уже не гадать (ну если только над [новым набором тизеров](../lyuboy-geroy-za-vashi-dengi/)), поскольку стало достоверно известно, что всё-таки не совсем закрывшаяся серия **Daredevil** с 513-го номера будет называться **Black Panther: The Man Without Fear**.
 [![](https://web.archive.org/web/20250814212905im_/http://img.photobucket.com/albums/v497/spidermedia/13462storystory_full-0949652-1.jpg)](http://img.photobucket.com/albums/v497/spidermedia/13462storystory_full-0949652.jpg)
 В принципе такой ход можно понять: большинство из нас, будучи поставленными перед выбором бить нью-йоркских бандитов или пытаться поднимать разваленную нами же вакандскую экономику, тоже вряд ли предпочли бы второй вариант. Хотя и большого успеха с первым едва ли бы добились, но то мы.
 Сценаристом уличных похождений африканской коронованной особы будет **Дэвид Лисс** (*David Liss*), в чьей библиографии пока больше книжек с одними только буквами, а художником - автор тизеров **Франческо Франкавилла** (*Francesco Francavilla*).

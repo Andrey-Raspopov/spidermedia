@@ -1,11 +1,17 @@
 {
   "title": "ИгроМир 2014 и Comic Con Russia 2014: Началась продажа билетов!",
-  "date": "2014-06-05T21:02:00+03:00",
+  "date": "2014-06-05T20:02:43+03:00",
   "url": "/news/igromir-2014-i-comic-con-russia-2014-nachalas-prodazha-biletov/",
   "original_url": "http://spidermedia.ru/news/igromir-2014-i-comic-con-russia-2014-nachalas-prodazha-biletov",
   "archived": "https://web.archive.org/web/20251117010510/http://spidermedia.ru/news/igromir-2014-i-comic-con-russia-2014-nachalas-prodazha-biletov",
   "tags": [
     "comic-con-russia"
+  ],
+  "cover": "https://web.archive.org/web/20251117010510im_/http://spidermedia.ru/assets/images/import_image/7771.jpg",
+  "modx_id": 7771,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

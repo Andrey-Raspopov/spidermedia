@@ -9,6 +9,12 @@
     "nintendo",
     "igromir-2015"
   ],
+  "cover": "https://web.archive.org/web/20180201164514im_/http://spidermedia.ru/assets/images/games/igromir2015/nintendo/001.jpg",
+  "modx_id": 100658,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

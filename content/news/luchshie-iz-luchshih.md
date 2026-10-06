@@ -1,6 +1,6 @@
 {
   "title": "Лучшие из лучших",
-  "date": "2011-02-19T00:21:00+03:00",
+  "date": "2011-02-19T00:21:45+03:00",
   "url": "/news/luchshie-iz-luchshih/",
   "original_url": "http://spidermedia.ru/news/luchshie-iz-luchshih",
   "archived": "https://web.archive.org/web/20160917071245/http://spidermedia.ru:80/news/luchshie-iz-luchshih",
@@ -9,7 +9,14 @@
     "voploshhenie-straha",
     "art-0",
     "marvel",
-    "fear-itself"
+    "fear-itself",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20160917071245im_/http://spidermedia.ru/assets/images/import_image/3525.jpg",
+  "modx_id": 3525,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

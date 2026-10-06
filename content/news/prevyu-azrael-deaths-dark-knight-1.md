@@ -1,6 +1,6 @@
 {
   "title": "Превью Azrael: Death's Dark Knight #1",
-  "date": "2009-03-05T04:41:00+03:00",
+  "date": "2009-03-05T04:41:45+03:00",
   "url": "/news/prevyu-azrael-deaths-dark-knight-1/",
   "original_url": "http://spidermedia.ru/news/prevyu-azrael-deaths-dark-knight-1",
   "archived": "https://web.archive.org/web/20260214130348/http://spidermedia.ru/news/prevyu-azrael-deaths-dark-knight-1",
@@ -9,6 +9,12 @@
     "azrail",
     "dc-comics",
     "azrael"
+  ],
+  "cover": "https://web.archive.org/web/20260214130348im_/http://spidermedia.ru/assets/images/import_image/595.jpg",
+  "modx_id": 595,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

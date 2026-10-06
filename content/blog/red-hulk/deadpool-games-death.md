@@ -1,7 +1,10 @@
 {
   "title": "Deadpool: Games of Death",
-  "date": "2009-06-16T21:26:00+03:00",
+  "date": "2009-06-16T20:26:56+03:00",
   "url": "/blog/red-hulk/deadpool-games-death/",
+  "aliases": [
+    "/node/1429/"
+  ],
   "original_url": "http://spidermedia.ru/blog/red-hulk/deadpool-games-death",
   "archived": "https://web.archive.org/web/20190929141046/http://spidermedia.ru:80/blog/red-hulk/deadpool-games-death",
   "tags": [
@@ -10,6 +13,12 @@
     "recenziya",
     "greg-lend",
     "majk-benson"
+  ],
+  "cover": "https://web.archive.org/web/20190929141046im_/http://spidermedia.ru/assets/images/import_image/1429.jpg",
+  "modx_id": 1429,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

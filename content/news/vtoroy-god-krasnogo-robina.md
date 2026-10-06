@@ -1,7 +1,10 @@
 {
   "title": "Второй год Красного Робина",
-  "date": "2010-06-02T23:29:00+03:00",
+  "date": "2010-06-02T22:29:25+03:00",
   "url": "/news/vtoroy-god-krasnogo-robina/",
+  "aliases": [
+    "/node/2651/"
+  ],
   "original_url": "http://spidermedia.ru/news/vtoroy-god-krasnogo-robina",
   "archived": "https://web.archive.org/web/20260214135628/http://spidermedia.ru/news/vtoroy-god-krasnogo-robina",
   "tags": [
@@ -10,6 +13,12 @@
     "krasnyj-robin",
     "red-robin",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20260214135628im_/http://spidermedia.ru/assets/images/import_image/2651.jpg",
+  "modx_id": 2651,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

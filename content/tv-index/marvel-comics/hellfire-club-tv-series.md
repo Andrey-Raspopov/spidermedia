@@ -4,6 +4,9 @@
   "url": "/tv-index/marvel-comics/hellfire-club-tv-series/",
   "original_url": "http://spidermedia.ru/tv-index/marvel-comics/hellfire-club-tv-series",
   "archived": "https://web.archive.org/web/20260314081912/http://spidermedia.ru/tv-index/marvel-comics/hellfire-club-tv-series",
+  "sources": [
+    "archive"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

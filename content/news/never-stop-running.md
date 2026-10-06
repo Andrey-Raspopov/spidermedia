@@ -1,7 +1,10 @@
 {
   "title": "Never stop running",
-  "date": "2009-06-27T07:32:00+03:00",
+  "date": "2009-06-27T06:32:12+03:00",
   "url": "/news/never-stop-running/",
+  "aliases": [
+    "/node/1481/"
+  ],
   "original_url": "https://spidermedia.ru/news/never-stop-running",
   "archived": "https://web.archive.org/web/20260125062911/https://spidermedia.ru/news/never-stop-running",
   "tags": [
@@ -9,6 +12,11 @@
     "muzyka",
     "runaways",
     "nik-lou"
+  ],
+  "modx_id": 1481,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

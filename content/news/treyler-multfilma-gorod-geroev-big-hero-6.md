@@ -1,6 +1,6 @@
 {
   "title": "Трейлер и постеры мультфильма \"Город героев\" (Big Hero 6)",
-  "date": "2014-07-16T13:38:00+03:00",
+  "date": "2014-07-16T12:38:31+03:00",
   "url": "/news/treyler-multfilma-gorod-geroev-big-hero-6/",
   "original_url": "http://spidermedia.ru/news/treyler-multfilma-gorod-geroev-big-hero-6",
   "archived": "https://web.archive.org/web/20260120144323/http://spidermedia.ru/news/treyler-multfilma-gorod-geroev-big-hero-6",
@@ -8,6 +8,12 @@
     "marvel",
     "disnej",
     "big-hero-6"
+  ],
+  "cover": "https://web.archive.org/web/20260120144323im_/http://spidermedia.ru/assets/images/import_image/7891.png",
+  "modx_id": 7891,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

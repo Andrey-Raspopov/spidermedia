@@ -1,7 +1,10 @@
 {
   "title": "Арт-превью New Avengers #51",
-  "date": "2009-03-03T23:56:00+03:00",
+  "date": "2009-03-03T23:56:50+03:00",
   "url": "/news/art-prevyu-new-avengers-51/",
+  "aliases": [
+    "/node/577/"
+  ],
   "original_url": "https://spidermedia.ru/news/art-prevyu-new-avengers-51",
   "archived": "https://web.archive.org/web/20250422034717/https://spidermedia.ru/news/art-prevyu-new-avengers-51",
   "tags": [
@@ -11,7 +14,14 @@
     "brian-michael-bendis",
     "billi-tan",
     "marvel",
-    "avengers"
+    "avengers",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20250422034717im_/http://spidermedia.ru/assets/images/import_image/577.jpg",
+  "modx_id": 577,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Бен Аффлек сыграет Бэтмена в сиквеле \"Человека из стали\"",
-  "date": "2013-08-23T05:49:00+03:00",
+  "date": "2013-08-23T04:49:19+03:00",
   "url": "/news/ben-afflek-sygraet-betmena-v-sikvele-cheloveka-iz-stali/",
   "original_url": "http://spidermedia.ru/news/ben-afflek-sygraet-betmena-v-sikvele-cheloveka-iz-stali",
   "archived": "https://web.archive.org/web/20130828040843/http://spidermedia.ru:80/news/ben-afflek-sygraet-betmena-v-sikvele-cheloveka-iz-stali",
@@ -9,7 +9,15 @@
     "betmen",
     "zak-snayder",
     "kino",
-    "supermen"
+    "supermen",
+    "batman",
+    "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20130828040843im_/http://spidermedia.ru/assets/images/import_image/7431.jpg",
+  "modx_id": 7431,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

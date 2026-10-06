@@ -6,7 +6,14 @@
   "archived": "https://web.archive.org/web/20240908073746/https://spidermedia.ru/tv/heroes-reborn-tv-series-trailer",
   "tags": [
     "geroi",
-    "san-diego-comic-con-international"
+    "san-diego-comic-con-international",
+    "sdcc2015"
+  ],
+  "cover": "https://web.archive.org/web/20240908073746im_/http://spidermedia.ru/assets/images/youtube/4FLHB2zB_cA.jpg",
+  "modx_id": 100370,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

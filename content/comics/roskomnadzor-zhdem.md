@@ -9,6 +9,12 @@
     "roskomnadzor",
     "russian-comics"
   ],
+  "cover": "https://web.archive.org/web/20250518122721im_/http://spidermedia.ru/assets/images/roskomnadzor/2016/0212/rachel-rising-cover.jpg",
+  "modx_id": 101427,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

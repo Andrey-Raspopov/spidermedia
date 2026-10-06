@@ -1,7 +1,10 @@
 {
   "title": "Рамоссс",
-  "date": "2009-02-01T01:07:00+03:00",
+  "date": "2009-02-01T01:07:32+03:00",
   "url": "/blog/silver/ramosss/",
+  "aliases": [
+    "/node/53/"
+  ],
   "original_url": "https://spidermedia.ru/blog/silver/ramosss",
   "archived": "https://web.archive.org/web/20251117002722/https://spidermedia.ru/blog/silver/ramosss",
   "tags": [
@@ -9,6 +12,11 @@
     "marvel",
     "avengers",
     "spider-man"
+  ],
+  "modx_id": 53,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

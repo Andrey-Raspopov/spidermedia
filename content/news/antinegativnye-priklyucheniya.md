@@ -1,6 +1,6 @@
 {
   "title": "Антинегативные приключения",
-  "date": "2011-03-22T19:51:00+03:00",
+  "date": "2011-03-22T19:51:58+03:00",
   "url": "/news/antinegativnye-priklyucheniya/",
   "original_url": "http://spidermedia.ru/news/antinegativnye-priklyucheniya",
   "archived": "https://web.archive.org/web/20260313110134/http://spidermedia.ru/news/antinegativnye-priklyucheniya",
@@ -12,6 +12,12 @@
     "frenk-cho",
     "dzhuzeppe-kamunkoli",
     "den-slott"
+  ],
+  "cover": "https://web.archive.org/web/20260313110134im_/http://spidermedia.ru/assets/images/import_image/4362.jpg",
+  "modx_id": 4362,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Вышла игра DEADPOOL",
-  "date": "2013-06-26T11:22:00+03:00",
+  "date": "2013-06-26T10:22:34+03:00",
   "url": "/news/vyshla-igra-deadpool/",
   "original_url": "https://spidermedia.ru/news/vyshla-igra-deadpool",
   "archived": "https://web.archive.org/web/20251206162519/https://spidermedia.ru/news/vyshla-igra-deadpool",
@@ -9,6 +9,12 @@
     "marvel",
     "igry",
     "deadpool"
+  ],
+  "cover": "https://web.archive.org/web/20150326100202im_/http://spidermedia.ru/assets/images/import_image/7305.jpg",
+  "modx_id": 7305,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

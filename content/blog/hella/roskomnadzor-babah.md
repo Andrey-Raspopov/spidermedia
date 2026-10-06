@@ -1,6 +1,6 @@
 {
   "title": "РоскомНадзор: бабах!",
-  "date": "2014-12-05T11:11:00+03:00",
+  "date": "2014-12-05T11:11:33+03:00",
   "url": "/blog/hella/roskomnadzor-babah/",
   "original_url": "https://spidermedia.ru/blog/hella/roskomnadzor-babah",
   "archived": "https://web.archive.org/web/20260214132519/https://spidermedia.ru/blog/hella/roskomnadzor-babah",
@@ -8,6 +8,12 @@
     "russian-comics",
     "roskomnadzor",
     "zarubezhnye-komiksy-na-russkom"
+  ],
+  "cover": "https://web.archive.org/web/20150424061908im_/http://spidermedia.ru/assets/images/import_image/8345.jpg",
+  "modx_id": 8345,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "Комиксы DC Universe. Выпуск № 02",
-  "date": "2009-07-10T00:35:00+03:00",
+  "date": "2009-07-09T23:35:06+03:00",
   "url": "/blog/derden/komiksy-dc-universe-vypusk-no-02/",
+  "aliases": [
+    "/node/1519/"
+  ],
   "original_url": "http://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-02",
   "archived": "https://web.archive.org/web/20190806132728/http://spidermedia.ru:80/blog/derden/komiksy-dc-universe-vypusk-no-02",
   "tags": [
@@ -9,6 +12,12 @@
     "donna-troy",
     "dc-comics",
     "dc-universe-comics"
+  ],
+  "cover": "https://web.archive.org/web/20190806132728im_/http://spidermedia.ru/assets/images/import_image/1519.gif",
+  "modx_id": 1519,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

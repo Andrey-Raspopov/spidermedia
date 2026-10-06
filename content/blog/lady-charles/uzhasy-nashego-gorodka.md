@@ -1,13 +1,21 @@
 {
   "title": "Ужасы нашего городка",
-  "date": "2009-02-10T09:46:00+03:00",
+  "date": "2009-02-10T09:46:40+03:00",
   "url": "/blog/lady-charles/uzhasy-nashego-gorodka/",
+  "aliases": [
+    "/node/293/"
+  ],
   "original_url": "http://spidermedia.ru/blog/lady-charles/uzhasy-nashego-gorodka",
   "archived": "https://web.archive.org/web/20190819223133/http://spidermedia.ru/blog/lady-charles/uzhasy-nashego-gorodka",
   "tags": [
     "zhenshhiny-v-komiksah",
     "dan-didio",
     "dc-comics"
+  ],
+  "modx_id": 293,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

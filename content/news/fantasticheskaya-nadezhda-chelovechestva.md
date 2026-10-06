@@ -1,6 +1,6 @@
 {
   "title": "Фантастическая надежда человечества",
-  "date": "2011-02-09T22:25:00+03:00",
+  "date": "2011-02-09T22:25:49+03:00",
   "url": "/news/fantasticheskaya-nadezhda-chelovechestva/",
   "original_url": "http://spidermedia.ru/news/fantasticheskaya-nadezhda-chelovechestva",
   "archived": "https://web.archive.org/web/20260116220845/http://spidermedia.ru/news/fantasticheskaya-nadezhda-chelovechestva",
@@ -10,7 +10,14 @@
     "dzhonatan-hikman",
     "daniel-akunya",
     "art-0",
-    "marvel"
+    "marvel",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20260116220845im_/http://spidermedia.ru/assets/images/import_image/3281.jpg",
+  "modx_id": 3281,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -8,6 +8,12 @@
     "marvel",
     "punisher"
   ],
+  "cover": "https://web.archive.org/web/20250524072108im_/http://spidermedia.ru/assets/images/tv/marvel/punisher/rs_punisher_series_coming_rab_02a.png.jpeg",
+  "modx_id": 101124,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

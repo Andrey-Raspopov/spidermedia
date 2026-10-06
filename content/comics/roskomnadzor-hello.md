@@ -9,6 +9,12 @@
     "roskomnadzor",
     "russian-comics"
   ],
+  "cover": "https://web.archive.org/web/20241102113545im_/http://spidermedia.ru/assets/images/roskomnadzor/2016/2207/tumblr_mm66i06k8y1s647g6o2_1280.png",
+  "modx_id": 101261,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
@@ -26,7 +32,7 @@
 
 **«Книжный Клуб Фантастика»** берется за **«Венома»** Рика Ремендера. 320 страниц, твердая обложка, в первом томе Venom #1-12 и Venom/Deadpool: What If? #1.
 
-**«Фабрика комиксов»** немногословно объявила о издании комикса **Jem and the Holograms**. А вот у нас есть [материал](https://web.archive.org/web/20260116221906/http://spidermedia.ru/comics/mzhdz-jem-and-the-holograms) Жени Еронина про эту серию.
+**«Фабрика комиксов»** немногословно объявила о издании комикса **Jem and the Holograms**. А вот у нас есть [материал](../mzhdz-jem-and-the-holograms/) Жени Еронина про эту серию.
 
 [![](http://spidermedia.ru/assets/images/roskomnadzor/2016/2207/24.jpg)](./)
 [![](http://spidermedia.ru/assets/images/roskomnadzor/2016/2207/39.jpg)](./)

@@ -1,6 +1,6 @@
 {
   "title": "Киновселенная Марвел: Фаза Третья",
-  "date": "2013-01-28T22:10:00+03:00",
+  "date": "2013-01-28T21:10:46+03:00",
   "url": "/news/kinovselennaya-marvel-faza-tretya/",
   "original_url": "https://spidermedia.ru/news/kinovselennaya-marvel-faza-tretya",
   "archived": "https://web.archive.org/web/20250324170453/https://spidermedia.ru/news/kinovselennaya-marvel-faza-tretya",
@@ -8,6 +8,12 @@
     "ant-man",
     "marvel",
     "doctor-strange"
+  ],
+  "cover": "https://web.archive.org/web/20160504232251im_/http://spidermedia.ru/assets/images/import_image/7123.jpg",
+  "modx_id": 7123,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

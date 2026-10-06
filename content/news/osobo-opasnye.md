@@ -1,7 +1,10 @@
 {
   "title": "Особо опасные",
-  "date": "2009-03-15T15:42:00+03:00",
+  "date": "2009-03-15T15:42:12+03:00",
   "url": "/news/osobo-opasnye/",
+  "aliases": [
+    "/node/690/"
+  ],
   "original_url": "https://spidermedia.ru/news/osobo-opasnye",
   "archived": "https://web.archive.org/web/20260123073253/https://spidermedia.ru/news/osobo-opasnye",
   "tags": [
@@ -9,6 +12,12 @@
     "dc-comics",
     "superman",
     "batman"
+  ],
+  "cover": "https://web.archive.org/web/20150502193815im_/http://spidermedia.ru/assets/images/import_image/690.jpg",
+  "modx_id": 690,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

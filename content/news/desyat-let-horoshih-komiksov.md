@@ -1,6 +1,6 @@
 {
   "title": "Десять лет хороших комиксов",
-  "date": "2011-05-16T22:01:00+03:00",
+  "date": "2011-05-16T21:01:09+03:00",
   "url": "/news/desyat-let-horoshih-komiksov/",
   "original_url": "https://spidermedia.ru/news/desyat-let-horoshih-komiksov",
   "archived": "https://web.archive.org/web/20260215081547/https://spidermedia.ru/news/desyat-let-horoshih-komiksov",
@@ -10,7 +10,14 @@
     "mark-waid",
     "daredevil",
     "marvel",
-    "marcos-martin"
+    "marcos-martin",
+    "derdevil"
+  ],
+  "cover": "https://web.archive.org/web/20260215081547im_/http://spidermedia.ru/assets/images/import_image/5783.jpg",
+  "modx_id": 5783,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

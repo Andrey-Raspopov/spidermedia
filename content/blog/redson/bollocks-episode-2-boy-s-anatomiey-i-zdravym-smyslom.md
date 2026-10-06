@@ -1,12 +1,19 @@
 {
   "title": "Bollocks Episode 2: Бой с анатомией и здравым смыслом",
-  "date": "2009-02-14T18:41:00+03:00",
+  "date": "2009-02-14T18:41:46+03:00",
   "url": "/blog/redson/bollocks-episode-2-boy-s-anatomiey-i-zdravym-smyslom/",
   "original_url": "http://spidermedia.ru/blog/redson/bollocks-episode-2-boy-s-anatomiey-i-zdravym-smyslom",
   "archived": "https://web.archive.org/web/20260125065103/http://spidermedia.ru/blog/redson/bollocks-episode-2-boy-s-anatomiey-i-zdravym-smyslom",
   "tags": [
     "kartinki",
-    "art-0"
+    "art-0",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20260125065103im_/http://spidermedia.ru/assets/images/import_image/361.jpg",
+  "modx_id": 361,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
@@ -18,7 +25,7 @@
 
 Если вы читаете этот пост через френдленту, то с этого места идет подкат. Преимущество подката и ф-ленты в том, что вместе они создают саспенс. По сути, единственный стопроцентный саспенс, который можно выжать из печатного текста, потому что ваш взгляд не зацепится случайно за более поздние абзацы. Ладно, подкат или нет, но на дворе суббота, за окном белым-бело, а на Спайдер-Медии СИСЬКИ!
 
-Посмотрите только на [эту херотень](http://spidermedia.ru/node/359):
+Посмотрите только на [эту херотень](../../../news/tim-seeleys-hack-slash/):
 
 [![Photobucket](https://web.archive.org/web/20260125065103im_/http://i305.photobucket.com/albums/nn228/Crackity_Jones_0/th_HackSlash23.jpg)](http://s305.photobucket.com/albums/nn228/Crackity_Jones_0/?action=view¤t=HackSlash23.jpg) 
 

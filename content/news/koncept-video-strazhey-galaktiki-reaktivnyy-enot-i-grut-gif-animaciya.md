@@ -1,12 +1,18 @@
 {
   "title": "Концепт-видео \"СТРАЖЕЙ ГАЛАКТИКИ\": Реактивный Енот и Грут (GIF-анимация)",
-  "date": "2014-02-13T11:10:00+03:00",
+  "date": "2014-02-13T10:10:04+03:00",
   "url": "/news/koncept-video-strazhey-galaktiki-reaktivnyy-enot-i-grut-gif-animaciya/",
   "original_url": "http://spidermedia.ru/news/koncept-video-strazhey-galaktiki-reaktivnyy-enot-i-grut-gif-animaciya",
   "archived": "https://web.archive.org/web/20241009223318/http://spidermedia.ru/news/koncept-video-strazhey-galaktiki-reaktivnyy-enot-i-grut-gif-animaciya",
   "tags": [
     "guardians-of-the-galaxy",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150424062836im_/http://spidermedia.ru/assets/images/import_image/7640.png",
+  "modx_id": 7640,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

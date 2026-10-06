@@ -1,6 +1,6 @@
 {
   "title": "Возрождение легенды: Вспоминая съемки - Часть 2",
-  "date": "2011-11-27T16:49:00+03:00",
+  "date": "2011-11-27T15:49:23+03:00",
   "url": "/news/vozrozhdenie-legendy-vspominaya-semki-chast-2/",
   "original_url": "https://spidermedia.ru/news/vozrozhdenie-legendy-vspominaya-semki-chast-2",
   "archived": "https://web.archive.org/web/20260125113914/https://spidermedia.ru/news/vozrozhdenie-legendy-vspominaya-semki-chast-2",
@@ -9,6 +9,12 @@
     "dc-comics",
     "dark-knight-rises",
     "batman"
+  ],
+  "cover": "https://web.archive.org/web/20260125113914im_/http://spidermedia.ru/assets/images/import_image/6716.jpg",
+  "modx_id": 6716,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

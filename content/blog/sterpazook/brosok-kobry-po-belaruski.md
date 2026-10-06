@@ -1,7 +1,10 @@
 {
   "title": "Бросок Кобры по-беларуски",
-  "date": "2009-04-29T14:45:00+03:00",
+  "date": "2009-04-29T13:45:37+03:00",
   "url": "/blog/sterpazook/brosok-kobry-po-belaruski/",
+  "aliases": [
+    "/node/1067/"
+  ],
   "original_url": "https://spidermedia.ru/blog/sterpazook/brosok-kobry-po-belaruski",
   "archived": "https://web.archive.org/web/20250814213945/https://spidermedia.ru/blog/sterpazook/brosok-kobry-po-belaruski",
   "tags": [
@@ -9,6 +12,12 @@
     "belarus",
     "dzhi-aj-dzho",
     "brosok-kobry"
+  ],
+  "cover": "https://web.archive.org/web/20250814213945im_/http://spidermedia.ru/assets/images/import_image/1067.jpg",
+  "modx_id": 1067,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

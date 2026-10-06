@@ -8,7 +8,14 @@
     "captain-marvel",
     "marvel",
     "iron-man",
-    "civil-war"
+    "civil-war",
+    "zheleznyy-chelovek"
+  ],
+  "cover": "https://web.archive.org/web/20160611165145im_/http://spidermedia.ru/assets/images/news/marvel/civil-war-ii/ciil-war-ii.jpg",
+  "modx_id": 100810,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

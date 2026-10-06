@@ -1,7 +1,10 @@
 {
   "title": "Мэтт Фракшн и Грег Пак говорят о том, что ожидает Железного Человека и Воителя в будущем - SPOILER ALERT!",
-  "date": "2009-02-19T22:33:00+03:00",
+  "date": "2009-02-19T21:33:13+03:00",
   "url": "/news/mett-frakshn-i-greg-pak-govoryat-o-tom-chto-ozhidaet-zheleznogo-cheloveka-i-voitelya-v/",
+  "aliases": [
+    "/node/444/"
+  ],
   "original_url": "http://spidermedia.ru/news/mett-frakshn-i-greg-pak-govoryat-o-tom-chto-ozhidaet-zheleznogo-cheloveka-i-voitelya-v",
   "archived": "https://web.archive.org/web/20120718083828/http://spidermedia.ru/news/mett-frakshn-i-greg-pak-govoryat-o-tom-chto-ozhidaet-zheleznogo-cheloveka-i-voitelya-v",
   "tags": [
@@ -10,7 +13,13 @@
     "greg-pak",
     "komiksy",
     "marvel",
-    "mett-frakshen"
+    "mett-frakshen",
+    "zheleznyy-chelovek"
+  ],
+  "modx_id": 444,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

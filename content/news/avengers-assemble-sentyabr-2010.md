@@ -1,7 +1,10 @@
 {
   "title": "Avengers Assemble! - Сентябрь 2010",
-  "date": "2010-07-22T19:10:00+03:00",
+  "date": "2010-07-22T18:10:48+03:00",
   "url": "/news/avengers-assemble-sentyabr-2010/",
+  "aliases": [
+    "/node/2768/"
+  ],
   "original_url": "https://spidermedia.ru/news/avengers-assemble-sentyabr-2010",
   "archived": "https://web.archive.org/web/20250424204201/https://spidermedia.ru/news/avengers-assemble-sentyabr-2010",
   "tags": [
@@ -9,7 +12,14 @@
     "preview",
     "marvel",
     "heroic-age",
-    "avengers"
+    "avengers",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20250424204201im_/http://spidermedia.ru/assets/images/import_image/2768.gif",
+  "modx_id": 2768,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
@@ -23,7 +33,7 @@
 |  | **I Am An Avenger #1** Сценаристы: **Джим МакКен** *(Jim McCan)*, **Дуэйн Сверчински** *(Duane Swierczynski)*, **Алекс Зельбен** *(Alex Zalben)* и другие Художники: **Крис Самни** *(Chris Samnee)*, **Джейсон Лэтур** *(Jason Latour)*, **Том Фаулер** *(Tom Fowler)* и другие Обложка: **Лейнил Фрэнсис Ю** *(Leinil Francis Yu)* Начало новой мини (**5 выпусков**), задача которой ответить на один вопрос: что делает настоящего героя Мстителем? Вас ожидает путешествие по многолетней истории Мстителей вместе со многими известными героями. |
 |  | **Avengers v4 #5** Сценарист: **Брайан Майкл Бендис** *(Brian Michael Bendis)* Художник: **Джон Ромита Младший** *(John Romita Jr.)* Обложка: **Джон Ромита Младший** *(John Romita Jr.)* Вариант обложка: **Джон Ромита Младший** *(John Romita Jr.)* Мстители пытаются предотвратить разрушение таймстрима, но, похоже, что без серьезных последствий и изменений в мире не обойдется. И, как вы уже могли догадаться, вас ждёт очередная часть бэк-апа **The Oral History of the Avengers** от Брайана Майкла Бендиса. |
 |  | **Secret Avengers #5** Сценарист: **Эд Брубейкер** *(Ed Brubaker)* Художник: **???** Обложка: **Марко Джурджевич** *(Marko Djurdjevic)* Вариант обложка: [**Майк Деодато** *(Mike Deodato)*](http://img.photobucket.com/albums/v497/spidermedia/98_SECRET_AVENGERS_5_SHS_VARIANT_.jpg) Тайного врага разоблачили, а, возможно, и нет. Узнайте всё самое важное о том, что касается **другого Ника Фьюри** *(Nick Fury)*. |
-|  | **Avengers Academy #4** Сценарист: **Кристос Гейдж** *(Christos Gage)* Художник: **Майк Маккон** *(Mike McKone)* Обложка: **Майк Маккон** *(Mike McKone)* Вариант обложка: [**Майк Маккон** *(Mike McKone)*](http://img.photobucket.com/albums/v497/spidermedia/14_AVENGERS_ACADEMY_4_MCKONE_VARIAN.jpg) Продолжение кроссовера (**Avengers Academ**y/**Thunderbolts**) [**"Scared Straight"**](../../node/2660/). Перед нашими юными героями стоит тяжелый выбор: помочь остановить побег заключенных **Рафта** (Raft) или же согласиться на предложение **Нормана Осборна** *(Norman Osborn)*, от которого они не смогут отказаться. Помимо этого, вас ждет происхождение **Храбреца** *(Mettle)*. |
+|  | **Avengers Academy #4** Сценарист: **Кристос Гейдж** *(Christos Gage)* Художник: **Майк Маккон** *(Mike McKone)* Обложка: **Майк Маккон** *(Mike McKone)* Вариант обложка: [**Майк Маккон** *(Mike McKone)*](http://img.photobucket.com/albums/v497/spidermedia/14_AVENGERS_ACADEMY_4_MCKONE_VARIAN.jpg) Продолжение кроссовера (**Avengers Academ**y/**Thunderbolts**) [**"Scared Straight"**](../zlodeev-boyatsya-v-raft-ne-hodit/). Перед нашими юными героями стоит тяжелый выбор: помочь остановить побег заключенных **Рафта** (Raft) или же согласиться на предложение **Нормана Осборна** *(Norman Osborn)*, от которого они не смогут отказаться. Помимо этого, вас ждет происхождение **Храбреца** *(Mettle)*. |
 |  | **New Avengers v2 #4** Сценарист: **Брайан Майкл Бендис** *(Brian Michael Bendis)* Художник: **Стюарт Иммонен** *(Stuart Immonen)* Обложка: **Стюарт Иммонен** *(Stuart Immonen)* Вариант обложка: **Стюарт Иммонен** *(Stuart Immonen)* **Новые Мстители** *(New Avengers)* должны остановить мощную и таинственную силу, которая угрожает всей Земле, пока не слишком поздно. Да, да, и тут вас снова ждёт очередная часть бэк-апа **The Oral History of the Avengers** от Брайана Майкла Бендиса. |
 |  | **Avengers: The Children's Crusade #2** Сценарист: **Аллан Хайнберг** *(Allan Heinberg)* Художник: **Джим Ченг** *(Jim Cheung)* Обложка: **Джим Ченг** *(Jim Cheung)* Вариант обложка: **Трэвис Чарест** *(Travis Charest)* Все Мстители, **Юные Мстители** *(Young Avengers)* и **Люди Икс** *(X-Men)*, хотят найти **Алую Ведьму** *(Wanda Maximoff/Scarlet Witch)* первыми. Но именно Юные Мстители раскрывают тайну, стоящую за исчезновением **Ванды Максимофф**. Тем временем, Мстители пытаются обезвредить Ванду до того, как юные герои сумеют её обнаружить. В конечном итоге, их попытки приведут к войне между Мстителями и Людьми Икс, которую будут в силах остановить только Юные Мстители. |
 |  | **Avengers Prime #3** Сценарист: **Брайан Майкл Бендис** *(Brian Michael Bendis)* Художник: **Алан Дэвис** *(Alan Davis)* Обложка: **Алан Дэвис** *(Alan Davis)* **Стив Роджерс** *(Steve Rogers)* и **Тони Старк** *(Tony Stark/Iron Man)* сражаются бок о бок за собственные жизни, а так же за жизнь **Тора** *(Thor)*. Но будет ли этого достаточно, чтобы примирить Стива и Тони? И какова же тайна кошмара, уничтожающего **Девять Королевств** *(Nine Realms)*? |

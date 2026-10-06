@@ -13,6 +13,12 @@
     "superman",
     "tom-king"
   ],
+  "cover": "https://web.archive.org/web/20260116215430im_/http://spidermedia.ru/assets/images/reviews/dc/dcu/dc-nation-0/mzk.jpg",
+  "modx_id": 101907,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

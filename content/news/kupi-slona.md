@@ -1,12 +1,21 @@
 {
   "title": "Купи слона",
-  "date": "2010-04-12T23:59:00+03:00",
+  "date": "2010-04-12T22:59:12+03:00",
   "url": "/news/kupi-slona/",
+  "aliases": [
+    "/node/2538/"
+  ],
   "original_url": "http://spidermedia.ru/news/kupi-slona",
   "archived": "https://web.archive.org/web/20230208173101/http://spidermedia.ru/news/kupi-slona",
   "tags": [
     "image-comics",
     "elephantmen"
+  ],
+  "cover": "https://web.archive.org/web/20230208173101im_/http://spidermedia.ru/assets/images/import_image/2538.jpg",
+  "modx_id": 2538,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

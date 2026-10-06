@@ -1,12 +1,17 @@
 {
   "title": "Scott Pilgrim vs Superman and Captain America",
-  "date": "2010-03-25T20:03:00+03:00",
+  "date": "2010-03-25T20:03:08+03:00",
   "url": "/news/scott-pilgrim-vs-superman-and-captain-america/",
   "original_url": "http://spidermedia.ru/news/scott-pilgrim-vs-superman-and-captain-america",
   "archived": "https://web.archive.org/web/20240720194706/http://spidermedia.ru/news/scott-pilgrim-vs-superman-and-captain-america",
   "tags": [
     "trejlery",
     "scott-pilgrim"
+  ],
+  "modx_id": 2477,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

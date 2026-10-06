@@ -1,7 +1,10 @@
 {
   "title": "Spider-Man: Угроза детству",
-  "date": "2010-06-21T14:58:00+03:00",
+  "date": "2010-06-21T13:58:59+03:00",
   "url": "/news/spider-man-ugroza-detstvu/",
+  "aliases": [
+    "/node/2682/"
+  ],
   "original_url": "http://spidermedia.ru/news/spider-man-ugroza-detstvu",
   "archived": "https://web.archive.org/web/20120608031800/http://spidermedia.ru/news/spider-man-ugroza-detstvu",
   "tags": [
@@ -11,13 +14,20 @@
     "marvel",
     "mark-ueyd",
     "pol-azasita",
-    "chelovek-pauk"
+    "chelovek-pauk",
+    "mark-waid"
+  ],
+  "cover": "https://web.archive.org/web/20120608031800im_/http://spidermedia.ru/assets/images/import_image/2682.jpg",
+  "modx_id": 2682,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }
 
-По завершению арка ]]>[**One Moment In Time**](../../node/2556/)]]> на тайтл **Amazing Spider-Man** вернется проверенный дуэт из **Марка Уэйда** *(Mark Waid)* и **Пола Азаситы** *(Paul Azaceta)*, чья цель - рассказать о последствиях столкновения с **Крейвенами** *(Kraven)* и вернуть несколько позабытого персонажа - **Лили Холлистер** *(Lily Hollister)*, более известная как **Угроза** *(Menace)*.
+По завершению арка ]]>[**One Moment In Time**](../istina-gde-ryadom/)]]> на тайтл **Amazing Spider-Man** вернется проверенный дуэт из **Марка Уэйда** *(Mark Waid)* и **Пола Азаситы** *(Paul Azaceta)*, чья цель - рассказать о последствиях столкновения с **Крейвенами** *(Kraven)* и вернуть несколько позабытого персонажа - **Лили Холлистер** *(Lily Hollister)*, более известная как **Угроза** *(Menace)*.
 
 ]]>[![](https://web.archive.org/web/20120608031800im_/http://img.photobucket.com/albums/v497/spidermedia/th_799758951.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/799758951.jpg)]]> ]]>[![](https://web.archive.org/web/20120608031800im_/http://img.photobucket.com/albums/v497/spidermedia/th_ASM642012scol.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/ASM642012scol.jpg)]]> ]]>[![](https://web.archive.org/web/20120608031800im_/http://img.photobucket.com/albums/v497/spidermedia/th_ASM642017_col1.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/ASM642017_col1.jpg)]]> ]]>[![](https://web.archive.org/web/20120608031800im_/http://img.photobucket.com/albums/v497/spidermedia/th_ASM642019_col.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/ASM642019_col.jpg)]]>
 

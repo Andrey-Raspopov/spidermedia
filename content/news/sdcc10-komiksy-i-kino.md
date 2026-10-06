@@ -1,7 +1,10 @@
 {
   "title": "SDCC'10: Комиксы и кино",
-  "date": "2010-07-25T20:37:00+03:00",
+  "date": "2010-07-25T19:37:11+03:00",
   "url": "/news/sdcc10-komiksy-i-kino/",
+  "aliases": [
+    "/node/2797/"
+  ],
   "original_url": "http://spidermedia.ru/news/sdcc10-komiksy-i-kino",
   "archived": "https://web.archive.org/web/20250425230302/http://spidermedia.ru/news/sdcc10-komiksy-i-kino",
   "tags": [
@@ -10,6 +13,12 @@
     "kovboi-i-prishelcy",
     "dan-dare",
     "astro-city"
+  ],
+  "cover": "https://web.archive.org/web/20250425230302im_/http://spidermedia.ru/assets/images/import_image/2797.jpg",
+  "modx_id": 2797,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

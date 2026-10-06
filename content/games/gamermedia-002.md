@@ -8,6 +8,12 @@
     "videoigry",
     "gamermedia"
   ],
+  "cover": "https://web.archive.org/web/20250316160416im_/http://spidermedia.ru/assets/images/games/gamermedia/002/temboxocov.jpg",
+  "modx_id": 100421,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

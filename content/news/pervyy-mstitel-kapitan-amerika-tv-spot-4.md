@@ -1,6 +1,6 @@
 {
   "title": "\"Первый мститель\" (Капитан Америка): ТВ-спот #4",
-  "date": "2011-06-10T11:19:00+03:00",
+  "date": "2011-06-10T10:19:44+03:00",
   "url": "/news/pervyy-mstitel-kapitan-amerika-tv-spot-4/",
   "original_url": "http://spidermedia.ru/news/pervyy-mstitel-kapitan-amerika-tv-spot-4",
   "archived": "https://web.archive.org/web/20241010053358/http://spidermedia.ru/news/pervyy-mstitel-kapitan-amerika-tv-spot-4",
@@ -8,6 +8,12 @@
     "trejlery",
     "marvel",
     "captain-america"
+  ],
+  "cover": "https://web.archive.org/web/20241010053358im_/http://spidermedia.ru/assets/images/import_image/6426.jpg",
+  "modx_id": 6426,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -13,6 +13,9 @@
     "mark-bruks",
     "pol-kornell"
   ],
+  "sources": [
+    "archive"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

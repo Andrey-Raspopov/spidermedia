@@ -6,7 +6,14 @@
   "archived": "https://web.archive.org/web/20191228135557/http://spidermedia.ru:80/comics/eisner-awards-2015-winners",
   "tags": [
     "san-diego-comic-con-international",
-    "eisner-awards"
+    "eisner-awards",
+    "sdcc2015"
+  ],
+  "cover": "https://web.archive.org/web/20191228135557im_/http://spidermedia.ru/assets/images/news/nemo_frontcover.jpg",
+  "modx_id": 100350,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,11 +1,20 @@
 {
   "title": "Дух мщения",
-  "date": "2010-01-08T14:08:00+03:00",
+  "date": "2010-01-08T14:08:29+03:00",
   "url": "/news/duh-mshcheniya/",
+  "aliases": [
+    "/node/2233/"
+  ],
   "original_url": "http://spidermedia.ru/news/duh-mshcheniya",
   "archived": "https://web.archive.org/web/20250429012526/http://spidermedia.ru/news/duh-mshcheniya",
   "tags": [
     "prizrachnyj-gonshhik"
+  ],
+  "cover": "https://web.archive.org/web/20250429012526im_/http://spidermedia.ru/assets/images/import_image/2233.jpg",
+  "modx_id": 2233,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

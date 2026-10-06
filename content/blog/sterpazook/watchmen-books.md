@@ -1,7 +1,10 @@
 {
   "title": "Watchmen Books",
-  "date": "2009-05-16T14:46:00+03:00",
+  "date": "2009-05-16T13:46:46+03:00",
   "url": "/blog/sterpazook/watchmen-books/",
+  "aliases": [
+    "/node/1210/"
+  ],
   "original_url": "http://spidermedia.ru/blog/sterpazook/watchmen-books",
   "archived": "https://web.archive.org/web/20260208200413/http://spidermedia.ru/blog/sterpazook/watchmen-books",
   "tags": [
@@ -16,7 +19,14 @@
     "nochnoj-filin",
     "dr.-manhattan",
     "knigi",
-    "shelkovyj-prizrak"
+    "shelkovyj-prizrak",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20260208200413im_/http://spidermedia.ru/assets/images/import_image/1210.jpg",
+  "modx_id": 1210,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

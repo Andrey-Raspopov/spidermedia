@@ -1,12 +1,17 @@
 {
   "title": "Jersey Gods #1 (Spoiler-free review)",
-  "date": "2009-02-08T18:57:00+03:00",
+  "date": "2009-02-08T17:57:23+03:00",
   "url": "/blog/redson/jersey-gods-1-spoiler-free-review/",
   "original_url": "http://spidermedia.ru/blog/redson/jersey-gods-1-spoiler-free-review",
   "archived": "https://web.archive.org/web/20120718110838/http://spidermedia.ru/blog/redson/jersey-gods-1-spoiler-free-review",
   "tags": [
     "image-comics",
     "recenziya"
+  ],
+  "modx_id": 274,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

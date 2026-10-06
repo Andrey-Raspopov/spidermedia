@@ -1,7 +1,10 @@
 {
   "title": "Поэзия Детектива",
-  "date": "2009-03-20T02:35:00+03:00",
+  "date": "2009-03-20T02:35:16+03:00",
   "url": "/news/poeziya-detektiva/",
+  "aliases": [
+    "/node/727/"
+  ],
   "original_url": "http://spidermedia.ru/news/poeziya-detektiva",
   "archived": "https://web.archive.org/web/20260116221050/http://spidermedia.ru/news/poeziya-detektiva",
   "tags": [
@@ -10,7 +13,15 @@
     "greg-rakka",
     "art-0",
     "betvuman",
-    "uilyams-iii"
+    "uilyams-iii",
+    "prevyu",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20260116221050im_/http://spidermedia.ru/assets/images/import_image/727.jpg",
+  "modx_id": 727,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

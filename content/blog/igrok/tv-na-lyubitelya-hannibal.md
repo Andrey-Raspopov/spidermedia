@@ -1,11 +1,18 @@
 {
   "title": "TV на любителя: Hannibal",
-  "date": "2013-04-16T17:20:00+03:00",
+  "date": "2013-04-16T16:20:29+03:00",
   "url": "/blog/igrok/tv-na-lyubitelya-hannibal/",
   "original_url": "http://spidermedia.ru/blog/igrok/tv-na-lyubitelya-hannibal",
   "archived": "https://web.archive.org/web/20231202150343/http://spidermedia.ru/blog/igrok/tv-na-lyubitelya-hannibal",
   "tags": [
-    "serialy"
+    "serialy",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20150503102906im_/http://spidermedia.ru/assets/images/import_image/7202.jpg",
+  "modx_id": 7202,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

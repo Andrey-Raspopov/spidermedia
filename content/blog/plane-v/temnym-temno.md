@@ -1,11 +1,17 @@
 {
   "title": "Темным-темно",
-  "date": "2012-02-03T15:54:00+03:00",
+  "date": "2012-02-03T14:54:24+03:00",
   "url": "/blog/plane-v/temnym-temno/",
   "original_url": "http://spidermedia.ru/blog/plane-v/temnym-temno",
   "archived": "https://web.archive.org/web/20190811011704/http://spidermedia.ru:80/blog/plane-v/temnym-temno",
   "tags": [
     "bande-dessinée"
+  ],
+  "cover": "https://web.archive.org/web/20190811011704im_/http://spidermedia.ru/assets/images/import_image/6770.png",
+  "modx_id": 6770,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

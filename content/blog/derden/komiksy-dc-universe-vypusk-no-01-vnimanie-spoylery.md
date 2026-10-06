@@ -1,7 +1,10 @@
 {
   "title": "Комиксы DC Universe. Выпуск № 01 (внимание! спойлеры!)",
-  "date": "2009-07-09T21:29:00+03:00",
+  "date": "2009-07-09T20:29:33+03:00",
   "url": "/blog/derden/komiksy-dc-universe-vypusk-no-01-vnimanie-spoylery/",
+  "aliases": [
+    "/node/1518/"
+  ],
   "original_url": "http://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-01-vnimanie-spoylery",
   "archived": "https://web.archive.org/web/20220528191238/http://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-01-vnimanie-spoylery",
   "tags": [
@@ -9,6 +12,12 @@
     "batman",
     "hush",
     "dc-universe-comics"
+  ],
+  "cover": "https://web.archive.org/web/20220528191238im_/http://spidermedia.ru/assets/images/import_image/1518.jpg",
+  "modx_id": 1518,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

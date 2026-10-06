@@ -1,6 +1,6 @@
 {
   "title": "ALL-NEW МЖДЗ: AMAZING SPIDER-MAN #1",
-  "date": "2014-05-01T19:26:00+03:00",
+  "date": "2014-05-01T18:26:39+03:00",
   "url": "/news/all-new-mzhdz-amazing-spider-man-1/",
   "original_url": "http://spidermedia.ru/news/all-new-mzhdz-amazing-spider-man-1",
   "archived": "https://web.archive.org/web/20251111082423/http://spidermedia.ru/news/all-new-mzhdz-amazing-spider-man-1",
@@ -10,6 +10,12 @@
     "spider-man",
     "mnenie",
     "mzhdz"
+  ],
+  "cover": "https://web.archive.org/web/20251111082423im_/http://spidermedia.ru/assets/images/import_image/7727.jpg",
+  "modx_id": 7727,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -4,6 +4,9 @@
   "url": "/docs/review/marvel/excalibur3/excalibur3/",
   "original_url": "http://www.spidermedia.ru/docs/review/marvel/excalibur3/excalibur3.html",
   "archived": "https://web.archive.org/web/20050310011046/http://www.spidermedia.ru:80/docs/review/marvel/excalibur3/excalibur3.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

@@ -1,19 +1,28 @@
 {
   "title": "Дэдпуломания",
-  "date": "2010-01-28T01:26:00+03:00",
+  "date": "2010-01-28T01:26:34+03:00",
   "url": "/news/dedpulomaniya/",
+  "aliases": [
+    "/node/2312/"
+  ],
   "original_url": "http://spidermedia.ru/news/dedpulomaniya",
   "archived": "https://web.archive.org/web/20220813143132/http://spidermedia.ru/news/dedpulomaniya",
   "tags": [
     "deadpool",
     "x-men",
-    "marvel"
+    "marvel",
+    "lyudi-iks"
+  ],
+  "modx_id": 2312,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-После фильма **X-Men Origins: Wolverine** на **Дэдпула** *(Deadpool)* свалилась невиданная популярность. Издательство **Марвел** *(Marvel)* стало использовать персонажа по-максимуму, создавая новые серии одну за другой и придумывая различные акции. Для того, чтобы понять масштаб его популярности, достаточно посмотреть на [последние иксовские релизы](../../node/2287/), либо глянуть новости с тегом **[deadpool](https://web.archive.org/web/20111020083549/http://spidermedia.ru/taxonomy/term/48)**. Очередным проявлением насыщения персонажем стал целый месяц (февраль) вариантных обложек с ним к огромному количеству тайтлов. О части из них мы [уже писали ранее](../../node/2218/), теперь же были представлены все обложки (~~хотя Марвел утверждает, что есть ещё **X-Men Legacy #233**~~ правильно утверждает, добавил) с **Болтливым Наёмником** *(Merc with a Mouth)*. И даже если этого вам будет недостаточно, в качестве бонуса превью **Deadpool #20** (хотя даже **19-ый** номер ещё не вышел) с участием нового персонажа, которого уже успели переименовать, **Обезьяной-Убивашкой** *(Hit-Monkey)*.
+После фильма **X-Men Origins: Wolverine** на **Дэдпула** *(Deadpool)* свалилась невиданная популярность. Издательство **Марвел** *(Marvel)* стало использовать персонажа по-максимуму, создавая новые серии одну за другой и придумывая различные акции. Для того, чтобы понять масштаб его популярности, достаточно посмотреть на [последние иксовские релизы](../aprel-10-x-men/), либо глянуть новости с тегом **[deadpool](https://web.archive.org/web/20111020083549/http://spidermedia.ru/taxonomy/term/48)**. Очередным проявлением насыщения персонажем стал целый месяц (февраль) вариантных обложек с ним к огромному количеству тайтлов. О части из них мы [уже писали ранее](../multidedpul/), теперь же были представлены все обложки (~~хотя Марвел утверждает, что есть ещё **X-Men Legacy #233**~~ правильно утверждает, добавил) с **Болтливым Наёмником** *(Merc with a Mouth)*. И даже если этого вам будет недостаточно, в качестве бонуса превью **Deadpool #20** (хотя даже **19-ый** номер ещё не вышел) с участием нового персонажа, которого уже успели переименовать, **Обезьяной-Убивашкой** *(Hit-Monkey)*.
 ![](https://web.archive.org/web/20220813143132im_/http://img163.imageshack.us/img163/2966/secretwarriors13.jpg)
 
 [![](https://web.archive.org/web/20220813143132im_/http://img33.imageshack.us/img33/5748/amazing620.jpg)](http://i.newsarama.com/images/amazing620.jpg) [![](https://web.archive.org/web/20220813143132im_/http://img15.imageshack.us/img15/2492/astonishing34.jpg)](http://i.newsarama.com/images/astonishing34.jpg) [![](https://web.archive.org/web/20220813143132im_/http://img402.imageshack.us/img402/9703/avengerstheinitiative33.jpg)](http://i.newsarama.com/images/initiative33.jpg) [![](https://web.archive.org/web/20220813143132im_/http://img504.imageshack.us/img504/3521/cap603.jpg)](http://i.newsarama.com/images/cap_603.jpg)

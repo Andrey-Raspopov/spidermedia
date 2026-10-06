@@ -1,12 +1,18 @@
 {
   "title": "МЖДЗ: THIS WORLD IS NOW OURS",
-  "date": "2011-10-06T00:41:00+03:00",
+  "date": "2011-10-05T23:41:08+03:00",
   "url": "/blog/redson/mzhdz-world-now-ours/",
   "original_url": "http://spidermedia.ru/blog/redson/mzhdz-world-now-ours",
   "archived": "https://web.archive.org/web/20251207002838/http://spidermedia.ru/blog/redson/mzhdz-world-now-ours",
   "tags": [
     "mnenie",
     "mzhdz"
+  ],
+  "cover": "https://web.archive.org/web/20160716001434im_/http://spidermedia.ru/assets/images/import_image/6634.png",
+  "modx_id": 6634,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

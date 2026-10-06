@@ -1,7 +1,10 @@
 {
   "title": "Новая веха для Ангелус",
-  "date": "2009-09-30T04:32:00+03:00",
+  "date": "2009-09-30T03:32:43+03:00",
   "url": "/news/novaya-veha-dlya-angelus/",
+  "aliases": [
+    "/node/1945/"
+  ],
   "original_url": "https://spidermedia.ru/news/novaya-veha-dlya-angelus",
   "archived": "https://web.archive.org/web/20260307060850/https://spidermedia.ru/news/novaya-veha-dlya-angelus",
   "tags": [
@@ -9,11 +12,17 @@
     "top-cow",
     "image-comics"
   ],
+  "cover": "https://web.archive.org/web/20260307060850im_/http://spidermedia.ru/assets/images/import_image/1945.jpg",
+  "modx_id": 1945,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-Возможно вы помните новость в котором вам предлагалось [угадать, кто же станет новой **Ангелус** *(Angelus)*](../../node/1423/). Что ж, гадать больше не надо - ей стала **Даниэль Баптист** *(Danielle Baptiste)*, бывшая носительница **Клинка Ведьм** *(Witchblade)*. Преображение героини случилось в **Witchblade #130**, где сразу и была анонсирована минисерия из 6 номеров, посвященная **Ангелус**.
+Возможно вы помните новость в котором вам предлагалось [угадать, кто же станет новой **Ангелус** *(Angelus)*](../angelus-dorogoy-chernoy-pantery/). Что ж, гадать больше не надо - ей стала **Даниэль Баптист** *(Danielle Baptiste)*, бывшая носительница **Клинка Ведьм** *(Witchblade)*. Преображение героини случилось в **Witchblade #130**, где сразу и была анонсирована минисерия из 6 номеров, посвященная **Ангелус**.
 [![](https://web.archive.org/web/20260307060850im_/http://img.photobucket.com/albums/v499/sp888/130_01.jpg)](http://img.photobucket.com/albums/v499/sp888/witchblade_130_011.jpg) [![](https://web.archive.org/web/20260307060850im_/http://comicsmedia.ign.com/comics/image/article/102/1025947/top-cow-announces-angelus-artist-20090917015354032-000.jpg)](http://comicsmedia.ign.com/comics/image/article/102/1025947/top-cow-announces-angelus-artist-20090917015354032.jpg) [![](https://web.archive.org/web/20260307060850im_/http://comicsmedia.ign.com/comics/image/article/102/1025947/top-cow-announces-angelus-artist-20090917015340814-000.jpg)](http://comicsmedia.ign.com/comics/image/article/102/1025947/top-cow-announces-angelus-artist-20090917015340814.jpg)
 Дизайн **Ангелус** для [**Witchblade #130**](https://web.archive.org/web/20111018040012/http://spidermedia.ru/taxonomy/term/1890) и редизайн для минисерии, работы **Степана Сейича** *(Stjepan Sejic)*
 

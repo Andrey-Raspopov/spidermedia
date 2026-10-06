@@ -8,6 +8,12 @@
     "the-flash",
     "dc-comics"
   ],
+  "cover": "https://web.archive.org/web/20260120153013im_/http://spidermedia.ru/assets/images/youtube/m3YTFMxK3kU.jpg",
+  "modx_id": 100786,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

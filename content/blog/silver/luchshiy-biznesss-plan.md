@@ -1,12 +1,17 @@
 {
   "title": "Лучший бизнессс-план",
-  "date": "2009-02-05T01:12:00+03:00",
+  "date": "2009-02-05T00:12:58+03:00",
   "url": "/blog/silver/luchshiy-biznesss-plan/",
   "original_url": "http://spidermedia.ru/blog/silver/luchshiy-biznesss-plan",
   "archived": "https://web.archive.org/web/20120611011908/http://spidermedia.ru/blog/silver/luchshiy-biznesss-plan",
   "tags": [
     "bred",
     "komiksy"
+  ],
+  "modx_id": 198,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

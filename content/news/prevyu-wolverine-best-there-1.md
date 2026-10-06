@@ -1,7 +1,10 @@
 {
   "title": "Превью Wolverine: The Best There Is #1",
-  "date": "2010-11-27T20:06:00+03:00",
+  "date": "2010-11-27T20:06:54+03:00",
   "url": "/news/prevyu-wolverine-best-there-1/",
+  "aliases": [
+    "/node/3084/"
+  ],
   "original_url": "https://spidermedia.ru/news/prevyu-wolverine-best-there-1",
   "archived": "https://web.archive.org/web/20251110220450/https://spidermedia.ru/news/prevyu-wolverine-best-there-1",
   "tags": [
@@ -13,13 +16,21 @@
     "bryan-hitch",
     "art-0",
     "wolverine",
-    "marvel"
+    "marvel",
+    "brayan-hitch",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20251110220450im_/http://spidermedia.ru/assets/images/import_image/3084.jpg",
+  "modx_id": 3084,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
 [![](https://web.archive.org/web/20251110220450im_/http://img.photobucket.com/albums/v497/spidermedia/silver_news/010fu1.jpg?t=1290877254)](http://smg.photobucket.com/albums/v497/spidermedia/silver_news/010fu.jpg)
-Совсем недавно грядущий онгоинг **Wolverine: The Best There Is** обзавелся полной превью-версией, взамен [старой с цензурой](../../node/2876/). Традиционная пачка вариант-обложек прилагается: верхняя и основная от **Брайана Хитча** *(Bryan Hitch)*, далее **Фил Хименез** *(Phil Jimenez)*, **Габриель Дель'Отто** *(Gabriele Dell'Otto)* и **Марко Джурджевич** *(Marko Djurdjevic)*. Сам же комикс, в котором обещают не скупиться на жестокости и представить абсолютно нового злодея, пишет **Чарли Хьюстон** *(Charlie Huston)*, а рисует **Хуан Хосе Рип** *(Juan Jose Ryp)*. Первый номер первого декабря. И не забудьте: parental advisory! Not for kids!
+Совсем недавно грядущий онгоинг **Wolverine: The Best There Is** обзавелся полной превью-версией, взамен [старой с цензурой](../dvoynoy-sniktbub/). Традиционная пачка вариант-обложек прилагается: верхняя и основная от **Брайана Хитча** *(Bryan Hitch)*, далее **Фил Хименез** *(Phil Jimenez)*, **Габриель Дель'Отто** *(Gabriele Dell'Otto)* и **Марко Джурджевич** *(Marko Djurdjevic)*. Сам же комикс, в котором обещают не скупиться на жестокости и представить абсолютно нового злодея, пишет **Чарли Хьюстон** *(Charlie Huston)*, а рисует **Хуан Хосе Рип** *(Juan Jose Ryp)*. Первый номер первого декабря. И не забудьте: parental advisory! Not for kids!
 [![](https://web.archive.org/web/20251110220450im_/http://img.photobucket.com/albums/v497/spidermedia/silver_news/th_011txm.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/silver_news/011txm.jpg) [![](https://web.archive.org/web/20251110220450im_/http://img.photobucket.com/albums/v497/spidermedia/silver_news/th_012rix.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/silver_news/012rix.jpg) [![](https://web.archive.org/web/20251110220450im_/http://img.photobucket.com/albums/v497/spidermedia/silver_news/th_013zn.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/silver_news/013zn.jpg) [![](https://web.archive.org/web/20251110220450im_/http://img.photobucket.com/albums/v497/spidermedia/silver_news/th_014ya.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/silver_news/014ya.jpg)
 [![](https://web.archive.org/web/20251110220450im_/http://img.photobucket.com/albums/v497/spidermedia/silver_news/th_015iz.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/silver_news/015iz.jpg) [![](https://web.archive.org/web/20251110220450im_/http://img.photobucket.com/albums/v497/spidermedia/silver_news/th_016cg.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/silver_news/016cg.jpg) [![](https://web.archive.org/web/20251110220450im_/http://img.photobucket.com/albums/v497/spidermedia/silver_news/th_01701.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/silver_news/01701.jpg) [![](https://web.archive.org/web/20251110220450im_/http://img.photobucket.com/albums/v497/spidermedia/silver_news/th_018fd.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/silver_news/018fd.jpg) [![](https://web.archive.org/web/20251110220450im_/http://img.photobucket.com/albums/v497/spidermedia/silver_news/th_019g0.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/silver_news/019g0.jpg) [![](https://web.archive.org/web/20251110220450im_/http://img.photobucket.com/albums/v497/spidermedia/silver_news/th_020pc0.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/silver_news/020pc0.jpg)

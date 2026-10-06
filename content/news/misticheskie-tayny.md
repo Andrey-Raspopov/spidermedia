@@ -1,6 +1,6 @@
 {
   "title": "Мистические тайны",
-  "date": "2011-02-01T22:55:00+03:00",
+  "date": "2011-02-01T21:55:14+03:00",
   "url": "/news/misticheskie-tayny/",
   "original_url": "http://spidermedia.ru/news/misticheskie-tayny",
   "archived": "https://web.archive.org/web/20120608214326/http://spidermedia.ru/news/misticheskie-tayny",
@@ -9,7 +9,14 @@
     "komiksy",
     "marvel",
     "patrik-zircher",
-    "tizery"
+    "tizery",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20120608214326im_/http://spidermedia.ru/assets/images/import_image/3204.jpg",
+  "modx_id": 3204,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

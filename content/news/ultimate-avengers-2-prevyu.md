@@ -1,7 +1,10 @@
 {
   "title": "Ultimate Avengers #2, превью!",
-  "date": "2009-09-04T02:33:00+03:00",
+  "date": "2009-09-04T01:33:23+03:00",
   "url": "/news/ultimate-avengers-2-prevyu/",
+  "aliases": [
+    "/node/1874/"
+  ],
   "original_url": "http://spidermedia.ru/news/ultimate-avengers-2-prevyu",
   "archived": "https://web.archive.org/web/20120718083058/http://spidermedia.ru/news/ultimate-avengers-2-prevyu",
   "tags": [
@@ -9,7 +12,14 @@
     "komiksy",
     "marvel",
     "mark-millar",
-    "mstiteli"
+    "mstiteli",
+    "avengers"
+  ],
+  "cover": "https://web.archive.org/web/20120718083058im_/http://spidermedia.ru/assets/images/import_image/1874.jpg",
+  "modx_id": 1874,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

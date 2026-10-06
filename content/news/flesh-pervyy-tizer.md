@@ -1,6 +1,6 @@
 {
   "title": "\"Флэш\": Первый тизер (UPD.: Добавлен 5-ти минутный трейлер)",
-  "date": "2014-05-15T05:16:00+03:00",
+  "date": "2014-05-15T04:16:43+03:00",
   "url": "/news/flesh-pervyy-tizer/",
   "original_url": "http://spidermedia.ru/news/flesh-pervyy-tizer",
   "archived": "https://web.archive.org/web/20260125113623/http://spidermedia.ru/news/flesh-pervyy-tizer",
@@ -8,7 +8,14 @@
     "the-flash",
     "trejlery",
     "serialy",
-    "dc-comics"
+    "dc-comics",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20150428180924im_/http://spidermedia.ru/assets/images/import_image/7740.png",
+  "modx_id": 7740,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

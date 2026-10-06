@@ -1,13 +1,21 @@
 {
   "title": "Панель «Сорвиголовы» на NYCC 2014: первые кадры, новости кастинга",
-  "date": "2014-10-12T03:31:00+03:00",
+  "date": "2014-10-12T02:31:15+03:00",
   "url": "/news/panel-sorvigolovy-na-nycc-2014-pervye-kadry-novosti-kastinga/",
   "original_url": "https://spidermedia.ru/news/panel-sorvigolovy-na-nycc-2014-pervye-kadry-novosti-kastinga",
   "archived": "https://web.archive.org/web/20251115032446/https://spidermedia.ru/news/panel-sorvigolovy-na-nycc-2014-pervye-kadry-novosti-kastinga",
   "tags": [
     "serialy",
     "daredevil",
-    "marvel"
+    "marvel",
+    "tv",
+    "sorvigolova"
+  ],
+  "cover": "https://web.archive.org/web/20251115032446im_/http://i.imgur.com/T3sj3ksl.jpg",
+  "modx_id": 8167,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

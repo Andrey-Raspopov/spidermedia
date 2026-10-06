@@ -1,7 +1,10 @@
 {
   "title": "Messiah War",
-  "date": "2009-02-09T11:02:00+03:00",
+  "date": "2009-02-09T11:02:26+03:00",
   "url": "/news/messiah-war/",
+  "aliases": [
+    "/node/283/"
+  ],
   "original_url": "http://spidermedia.ru/news/messiah-war",
   "archived": "https://web.archive.org/web/20250519171557/http://spidermedia.ru/news/messiah-war",
   "tags": [
@@ -11,13 +14,20 @@
     "x-force",
     "nycc-2009",
     "cable",
-    "strife"
+    "strife",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20250519171557im_/http://spidermedia.ru/assets/images/import_image/283.jpg",
+  "modx_id": 283,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-Поговорим ещё раз о **Messiah War**, про который мы уже писали в общем [Икс-обзоре](../../node/266/) с Комикона. Да, если говорить откровенно, то данных о событии немного, поэтому позвольте просто-нарпосто объединить их в одну новость. Кроме этого мы предоставим вам ряд весьма неплохих обложек из грядущего кроссовера. И вот что - не удивляйтесь тому, что там так много **Росомахи** *(Wolverine)*, поговаривают, что в свете грядущего фильма главным героем MW будет именно он. Впрочем, глупо было бы удивлятья этому. Что ж, приступим!
+Поговорим ещё раз о **Messiah War**, про который мы уже писали в общем [Икс-обзоре](../nycc-09-x-men-panel/) с Комикона. Да, если говорить откровенно, то данных о событии немного, поэтому позвольте просто-нарпосто объединить их в одну новость. Кроме этого мы предоставим вам ряд весьма неплохих обложек из грядущего кроссовера. И вот что - не удивляйтесь тому, что там так много **Росомахи** *(Wolverine)*, поговаривают, что в свете грядущего фильма главным героем MW будет именно он. Впрочем, глупо было бы удивлятья этому. Что ж, приступим!
 
 [![](https://web.archive.org/web/20250519171557im_/http://images.comicbookresources.com/cons/nycc2009/XMen/sm/MESSIAHWAR-choi.jpg)](http://images.comicbookresources.com/cons/nycc2009/XMen/MESSIAHWAR-choi.jpg) [![](https://web.archive.org/web/20250519171557im_/http://images.comicbookresources.com/cons/nycc2009/XMen/sm/MESSIAHWAR-liefeld.jpg)](http://images.comicbookresources.com/cons/nycc2009/XMen/MESSIAHWAR-liefeld.jpg) [![](https://web.archive.org/web/20250519171557im_/http://images.comicbookresources.com/cons/nycc2009/XMen/sm/CABLE014_Cov_col.jpg)](http://images.comicbookresources.com/cons/nycc2009/XMen/CABLE014_Cov_col.jpg) [![](https://web.archive.org/web/20250519171557im_/http://images.comicbookresources.com/cons/nycc2009/XMen/sm/XFORCE015000col(72).jpg)](http://images.comicbookresources.com/cons/nycc2009/XMen/XFORCE015000col(72).jpg)
 

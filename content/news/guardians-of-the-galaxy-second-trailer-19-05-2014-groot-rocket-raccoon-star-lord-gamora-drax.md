@@ -1,6 +1,6 @@
 {
   "title": "Новый трейлер \"СТРАЖЕЙ ГАЛАКТИКИ\"",
-  "date": "2014-05-19T21:40:00+03:00",
+  "date": "2014-05-19T20:40:53+03:00",
   "url": "/news/guardians-of-the-galaxy-second-trailer-19-05-2014-groot-rocket-raccoon-star-lord-gamora-drax/",
   "original_url": "http://spidermedia.ru/news/guardians-of-the-galaxy-second-trailer-19-05-2014-groot-rocket-raccoon-star-lord-gamora-drax",
   "archived": "https://web.archive.org/web/20260125124831/http://spidermedia.ru/news/guardians-of-the-galaxy-second-trailer-19-05-2014-groot-rocket-raccoon-star-lord-gamora-drax",
@@ -8,6 +8,12 @@
     "trejlery",
     "guardians-of-the-galaxy",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20260125124831im_/http://spidermedia.ru/assets/images/import_image/7744.jpg",
+  "modx_id": 7744,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

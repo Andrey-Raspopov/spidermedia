@@ -4,6 +4,12 @@
   "url": "/games/recenziya-no-mans-sky/",
   "original_url": "http://spidermedia.ru/games/recenziya-no-mans-sky",
   "archived": "https://web.archive.org/web/20260209114423/http://spidermedia.ru/games/recenziya-no-mans-sky",
+  "cover": "https://web.archive.org/web/20260209114423im_/http://spidermedia.ru/assets/images/games/no-mans-sky/screenshot.png",
+  "modx_id": 101317,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

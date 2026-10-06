@@ -1,7 +1,10 @@
 {
   "title": "All hail Black Axe!",
-  "date": "2009-07-29T23:17:00+03:00",
+  "date": "2009-07-29T22:17:33+03:00",
   "url": "/news/all-hail-black-axe/",
+  "aliases": [
+    "/node/1690/"
+  ],
   "original_url": "http://spidermedia.ru/news/all-hail-black-axe",
   "archived": "https://web.archive.org/web/20120607162139/http://spidermedia.ru/news/all-hail-black-axe",
   "tags": [
@@ -10,7 +13,15 @@
     "mouse-guard",
     "sdcc-2009",
     "devid-petersen",
-    "komiksy"
+    "komiksy",
+    "san-diego-comic-con-international",
+    "archaia-comics"
+  ],
+  "cover": "https://web.archive.org/web/20120607162139im_/http://spidermedia.ru/assets/images/import_image/1690.jpg",
+  "modx_id": 1690,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

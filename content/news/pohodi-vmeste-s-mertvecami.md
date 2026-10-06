@@ -1,6 +1,6 @@
 {
   "title": "Походи вместе с мертвецами",
-  "date": "2011-01-22T23:30:00+03:00",
+  "date": "2011-01-22T23:30:45+03:00",
   "url": "/news/pohodi-vmeste-s-mertvecami/",
   "original_url": "http://spidermedia.ru/news/pohodi-vmeste-s-mertvecami",
   "archived": "https://web.archive.org/web/20260121013043/http://spidermedia.ru/news/pohodi-vmeste-s-mertvecami",
@@ -8,6 +8,12 @@
     "hodyachie-mertvecy",
     "the-walking-dead",
     "igry"
+  ],
+  "cover": "https://web.archive.org/web/20260121013043im_/http://spidermedia.ru/assets/images/import_image/3187.jpg",
+  "modx_id": 3187,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

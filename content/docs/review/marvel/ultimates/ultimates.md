@@ -4,6 +4,9 @@
   "url": "/docs/review/marvel/ultimates/ultimates/",
   "original_url": "http://www.spidermedia.ru/docs/review/marvel/ultimates/ultimates.html",
   "archived": "https://web.archive.org/web/20050310011540/http://www.spidermedia.ru:80/docs/review/marvel/ultimates/ultimates.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

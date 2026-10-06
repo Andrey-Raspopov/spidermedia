@@ -1,12 +1,18 @@
 {
   "title": "Не суди, да не судим будешь",
-  "date": "2012-02-07T09:32:00+03:00",
+  "date": "2012-02-07T08:32:10+03:00",
   "url": "/news/ne-sudi-da-ne-sudim-budesh/",
   "original_url": "http://spidermedia.ru/news/ne-sudi-da-ne-sudim-budesh",
   "archived": "https://web.archive.org/web/20251207092416/http://spidermedia.ru/news/ne-sudi-da-ne-sudim-budesh",
   "tags": [
     "2000-ad",
     "judge-dredd"
+  ],
+  "cover": "https://web.archive.org/web/20251207092416im_/http://spidermedia.ru/assets/images/import_image/6774.jpg",
+  "modx_id": 6774,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

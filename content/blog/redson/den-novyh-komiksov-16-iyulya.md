@@ -1,11 +1,17 @@
 {
   "title": "День новых комиксов: 16 июля",
-  "date": "2014-07-16T16:00:00+03:00",
+  "date": "2014-07-16T15:00:04+03:00",
   "url": "/blog/redson/den-novyh-komiksov-16-iyulya/",
   "original_url": "http://spidermedia.ru/blog/redson/den-novyh-komiksov-16-iyulya",
   "archived": "https://web.archive.org/web/20190915020851/http://spidermedia.ru:80/blog/redson/den-novyh-komiksov-16-iyulya",
   "tags": [
     "den-novyh-komiksov"
+  ],
+  "cover": "https://web.archive.org/web/20150425032606im_/http://spidermedia.ru/assets/images/import_image/7895.jpg",
+  "modx_id": 7895,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

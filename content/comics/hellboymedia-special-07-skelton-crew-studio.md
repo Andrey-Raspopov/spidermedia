@@ -8,6 +8,12 @@
     "hellboymedia",
     "obzor"
   ],
+  "cover": "https://web.archive.org/web/20160316002507im_/http://spidermedia.ru/assets/images/hellboymedia/special/07-skelton-crew-studio/skelton-crew-studio-cover.jpg",
+  "modx_id": 100253,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

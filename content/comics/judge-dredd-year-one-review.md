@@ -9,6 +9,12 @@
     "zarubezhnye-komiksy-na-russkom",
     "judge-dredd"
   ],
+  "cover": "https://web.archive.org/web/20260312012849im_/http://spidermedia.ru/assets/images/reviews/xl-media/dredd/year-one/mzk.jpg",
+  "modx_id": 101820,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

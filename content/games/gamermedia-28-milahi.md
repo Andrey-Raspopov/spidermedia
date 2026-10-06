@@ -4,6 +4,12 @@
   "url": "/games/gamermedia-28-milahi/",
   "original_url": "https://spidermedia.ru/games/gamermedia-28-milahi",
   "archived": "https://web.archive.org/web/20250717192924/https://spidermedia.ru/games/gamermedia-28-milahi",
+  "cover": "https://web.archive.org/web/20250717192924im_/http://spidermedia.ru/assets/images/games/gm28/p28.jpg",
+  "modx_id": 102398,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

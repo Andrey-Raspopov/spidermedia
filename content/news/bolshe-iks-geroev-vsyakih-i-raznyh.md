@@ -1,13 +1,21 @@
 {
   "title": "Больше икс-героев, всяких и разных",
-  "date": "2011-09-02T21:30:00+03:00",
+  "date": "2011-09-02T20:30:34+03:00",
   "url": "/news/bolshe-iks-geroev-vsyakih-i-raznyh/",
   "original_url": "http://spidermedia.ru/news/bolshe-iks-geroev-vsyakih-i-raznyh",
   "archived": "https://web.archive.org/web/20251012171401/http://spidermedia.ru/news/bolshe-iks-geroev-vsyakih-i-raznyh",
   "tags": [
     "art-0",
     "marvel",
-    "x-men"
+    "x-men",
+    "art",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20251012171401im_/http://spidermedia.ru/assets/images/import_image/6591.jpg",
+  "modx_id": 6591,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

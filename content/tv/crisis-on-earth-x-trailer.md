@@ -10,6 +10,12 @@
     "the-flash",
     "dc-comics"
   ],
+  "cover": "https://web.archive.org/web/20251216190615im_/http://spidermedia.ru/assets/images/tv/dc/dc-tv-crisis-on-earth-x.jpg",
+  "modx_id": 101729,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,12 +1,18 @@
 {
   "title": "R.I.P. Дуэйн МакДаффи",
-  "date": "2011-02-23T06:31:00+03:00",
+  "date": "2011-02-23T06:31:40+03:00",
   "url": "/news/rip-deuyn-makdaffi/",
   "original_url": "https://spidermedia.ru/news/rip-deuyn-makdaffi",
   "archived": "https://web.archive.org/web/20250429012047/https://spidermedia.ru/news/rip-deuyn-makdaffi",
   "tags": [
     "industriya",
     "duejn-makdaffi"
+  ],
+  "cover": "https://web.archive.org/web/20250429012047im_/http://spidermedia.ru/assets/images/import_image/3638.jpg",
+  "modx_id": 3638,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

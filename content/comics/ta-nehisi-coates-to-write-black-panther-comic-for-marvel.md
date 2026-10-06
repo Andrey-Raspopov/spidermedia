@@ -8,6 +8,12 @@
     "marvel",
     "black-panther"
   ],
+  "cover": "https://web.archive.org/web/20180315015106im_/http://spidermedia.ru/assets/images/news/marvel/all-new-all-different/black-panther/black-panther-01.jpg",
+  "modx_id": 100587,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

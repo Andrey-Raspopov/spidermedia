@@ -1,6 +1,6 @@
 {
   "title": "Каст Фонаря",
-  "date": "2010-03-25T10:07:00+03:00",
+  "date": "2010-03-25T09:07:42+03:00",
   "url": "/news/kast-fonarya/",
   "original_url": "http://spidermedia.ru/news/kast-fonarya",
   "archived": "https://web.archive.org/web/20120607140139/http://spidermedia.ru/news/kast-fonarya",
@@ -9,6 +9,12 @@
     "zelenyy-fonar",
     "kino",
     "foto"
+  ],
+  "cover": "https://web.archive.org/web/20120607140139im_/http://spidermedia.ru/assets/images/import_image/2476.jpg",
+  "modx_id": 2476,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

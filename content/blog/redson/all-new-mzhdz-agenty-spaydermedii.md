@@ -1,6 +1,6 @@
 {
   "title": "ALL-NEW МЖДЗ: АГЕНТЫ СПАЙДЕРМЕДИИ",
-  "date": "2014-06-17T12:17:00+03:00",
+  "date": "2014-06-17T11:17:48+03:00",
   "url": "/blog/redson/all-new-mzhdz-agenty-spaydermedii/",
   "original_url": "https://spidermedia.ru/blog/redson/all-new-mzhdz-agenty-spaydermedii",
   "archived": "https://web.archive.org/web/20260123072133/https://spidermedia.ru/blog/redson/all-new-mzhdz-agenty-spaydermedii",
@@ -8,6 +8,12 @@
     "mnenie",
     "recenziya",
     "mzhdz"
+  ],
+  "cover": "https://web.archive.org/web/20160611214122im_/http://spidermedia.ru/assets/images/import_image/7819.jpg",
+  "modx_id": 7819,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

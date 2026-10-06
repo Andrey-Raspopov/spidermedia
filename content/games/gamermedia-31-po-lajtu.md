@@ -4,6 +4,12 @@
   "url": "/games/gamermedia-31-po-lajtu/",
   "original_url": "http://spidermedia.ru/games/gamermedia-31-po-lajtu",
   "archived": "https://web.archive.org/web/20250419051239/http://spidermedia.ru/games/gamermedia-31-po-lajtu",
+  "cover": "https://web.archive.org/web/20250419051239im_/http://spidermedia.ru/assets/images/games/gm31/oblozhgm31.jpg",
+  "modx_id": 102427,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

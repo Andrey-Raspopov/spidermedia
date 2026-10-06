@@ -1,6 +1,6 @@
 {
   "title": "Комикс Брайана Вона SAGA издадут в России",
-  "date": "2014-03-27T12:01:00+03:00",
+  "date": "2014-03-27T11:01:38+03:00",
   "url": "/news/komik-brayana-vona-saga-izdadut-v-rossii/",
   "original_url": "https://spidermedia.ru/news/komik-brayana-vona-saga-izdadut-v-rossii",
   "archived": "https://web.archive.org/web/20260308234200/https://spidermedia.ru/news/komik-brayana-vona-saga-izdadut-v-rossii",
@@ -8,7 +8,14 @@
     "zarubezhnye-komiksy-na-russkom",
     "brian-k-vaughan",
     "saga",
-    "image-comics"
+    "image-comics",
+    "brajan-k.-von"
+  ],
+  "cover": "https://web.archive.org/web/20260308234200im_/http://spidermedia.ru/assets/images/import_image/7698.jpg",
+  "modx_id": 7698,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

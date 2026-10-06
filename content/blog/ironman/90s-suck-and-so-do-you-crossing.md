@@ -1,14 +1,24 @@
 {
   "title": "The '90s Suck and So Do You - The Crossing",
-  "date": "2009-10-30T02:15:00+03:00",
+  "date": "2009-10-30T02:15:50+03:00",
   "url": "/blog/ironman/90s-suck-and-so-do-you-crossing/",
+  "aliases": [
+    "/node/2035/"
+  ],
   "original_url": "http://spidermedia.ru/blog/ironman/90s-suck-and-so-do-you-crossing",
   "archived": "https://web.archive.org/web/20251207094351/http://spidermedia.ru/blog/ironman/90s-suck-and-so-do-you-crossing",
   "tags": [
     "avengers",
     "iron-man",
     "marvel",
-    "preview"
+    "preview",
+    "zheleznyy-chelovek",
+    "prevyu"
+  ],
+  "modx_id": 2035,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

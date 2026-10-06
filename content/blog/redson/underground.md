@@ -1,7 +1,10 @@
 {
   "title": "Underground",
-  "date": "2010-06-23T19:32:00+03:00",
+  "date": "2010-06-23T18:32:57+03:00",
   "url": "/blog/redson/underground/",
+  "aliases": [
+    "/node/2686/"
+  ],
   "original_url": "https://spidermedia.ru/blog/redson/underground",
   "archived": "https://web.archive.org/web/20251206143519/https://spidermedia.ru/blog/redson/underground",
   "tags": [
@@ -11,6 +14,12 @@
     "mnenie",
     "stiv-liber",
     "steve-lieber"
+  ],
+  "cover": "https://web.archive.org/web/20251206143519im_/http://spidermedia.ru/assets/images/import_image/2686.jpg",
+  "modx_id": 2686,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

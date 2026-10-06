@@ -1,7 +1,10 @@
 {
   "title": "Ultimate Comics в Апреле",
-  "date": "2010-01-17T23:23:00+03:00",
+  "date": "2010-01-17T23:23:07+03:00",
   "url": "/news/ultimate-comics-v-aprele/",
+  "aliases": [
+    "/node/2280/"
+  ],
   "original_url": "http://spidermedia.ru/news/ultimate-comics-v-aprele",
   "archived": "https://web.archive.org/web/20251211030940/http://spidermedia.ru/news/ultimate-comics-v-aprele",
   "tags": [
@@ -16,6 +19,12 @@
     "david-lafuente",
     "brian-michael-bendis",
     "punisher"
+  ],
+  "cover": "https://web.archive.org/web/20251211030940im_/http://spidermedia.ru/assets/images/import_image/2280.jpg",
+  "modx_id": 2280,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

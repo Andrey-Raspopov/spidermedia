@@ -1,7 +1,10 @@
 {
   "title": "SDCC'09 - Iron Man 2 (Part I)",
-  "date": "2009-07-24T12:13:00+03:00",
+  "date": "2009-07-24T11:13:53+03:00",
   "url": "/news/sdcc09-iron-man-2-part-i/",
+  "aliases": [
+    "/node/1636/"
+  ],
   "original_url": "http://spidermedia.ru/news/sdcc09-iron-man-2-part-i",
   "archived": "https://web.archive.org/web/20120607184743/http://spidermedia.ru/news/sdcc09-iron-man-2-part-i",
   "tags": [
@@ -17,7 +20,14 @@
     "kino",
     "knut",
     "marvel",
-    "chyornaya-vdova"
+    "chyornaya-vdova",
+    "san-diego-comic-con-international"
+  ],
+  "cover": "https://web.archive.org/web/20120607184743im_/http://spidermedia.ru/assets/images/import_image/1636.jpg",
+  "modx_id": 1636,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

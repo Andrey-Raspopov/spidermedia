@@ -1,11 +1,17 @@
 {
   "title": "Адские пятнашки",
-  "date": "2009-02-02T12:59:00+03:00",
+  "date": "2009-02-02T12:59:54+03:00",
   "url": "/news/adskie-pyatnashki/",
   "original_url": "http://spidermedia.ru/news/adskie-pyatnashki",
   "archived": "https://web.archive.org/web/20260214141023/http://spidermedia.ru/news/adskie-pyatnashki",
   "tags": [
     "boom-studios"
+  ],
+  "cover": "https://web.archive.org/web/20150502191809im_/http://spidermedia.ru/assets/images/import_image/100.jpg",
+  "modx_id": 100,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

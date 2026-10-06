@@ -1,6 +1,6 @@
 {
   "title": "Трейлер фильма \"АЛЬТЕР ЭГО\"",
-  "date": "2012-10-16T21:29:00+03:00",
+  "date": "2012-10-16T20:29:21+03:00",
   "url": "/news/treyler-filma-alter-ego/",
   "original_url": "http://spidermedia.ru/news/treyler-filma-alter-ego",
   "archived": "https://web.archive.org/web/20241104203609/http://spidermedia.ru/news/treyler-filma-alter-ego",
@@ -8,6 +8,12 @@
     "trejlery",
     "supergeroi",
     "kevin-smit"
+  ],
+  "cover": "https://web.archive.org/web/20150428170909im_/http://spidermedia.ru/assets/images/import_image/7068.jpg",
+  "modx_id": 7068,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

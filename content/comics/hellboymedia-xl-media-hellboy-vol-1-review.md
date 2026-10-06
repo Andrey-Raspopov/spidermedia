@@ -9,6 +9,12 @@
     "zarubezhnye-komiksy-na-russkom",
     "obzor"
   ],
+  "cover": "https://web.archive.org/web/20160611092026im_/http://spidermedia.ru/assets/images/hellboymedia/local/review-hellboy-vol-01/hellboy-seed-of-destruction-russian-edition-cover.jpg",
+  "modx_id": 100330,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

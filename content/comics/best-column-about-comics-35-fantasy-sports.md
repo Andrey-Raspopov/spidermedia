@@ -8,6 +8,12 @@
     "best-column-about-comics",
     "mnenie"
   ],
+  "cover": "https://web.archive.org/web/20260313102942im_/http://spidermedia.ru/assets/images/best-column-about-comics/35-fantasy-sports/fantasy-sports-cover.jpg",
+  "modx_id": 101880,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

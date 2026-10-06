@@ -1,12 +1,18 @@
 {
   "title": "Hellboymedia: Хэллбой обзаведётся собственной маркой пива",
-  "date": "2015-02-18T16:47:00+03:00",
+  "date": "2015-02-18T16:47:24+03:00",
   "url": "/news/hellboymedia-hellboy-obzavedyotsya-svoey-markoy-piva/",
   "original_url": "http://spidermedia.ru/news/hellboymedia-hellboy-obzavedyotsya-svoey-markoy-piva",
   "archived": "https://web.archive.org/web/20260117223522/http://spidermedia.ru/news/hellboymedia-hellboy-obzavedyotsya-svoey-markoy-piva",
   "tags": [
     "hellboymedia",
     "novosti"
+  ],
+  "cover": "https://web.archive.org/web/20160611215701im_/http://spidermedia.ru/assets/images/hellboymedia/news/hellboy-rogue-ale/hellboy-rogue-ale-cover.jpg",
+  "modx_id": 8630,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

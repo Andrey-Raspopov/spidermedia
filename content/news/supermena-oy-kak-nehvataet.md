@@ -1,7 +1,10 @@
 {
   "title": "А Супермена ой как нехватает...",
-  "date": "2009-03-22T00:21:00+03:00",
+  "date": "2009-03-22T00:21:11+03:00",
   "url": "/news/supermena-oy-kak-nehvataet/",
+  "aliases": [
+    "/node/741/"
+  ],
   "original_url": "https://spidermedia.ru/news/supermena-oy-kak-nehvataet",
   "archived": "https://web.archive.org/web/20260208211031/https://spidermedia.ru/news/supermena-oy-kak-nehvataet",
   "tags": [
@@ -15,6 +18,12 @@
     "supergirl",
     "superwoman",
     "zod"
+  ],
+  "cover": "https://web.archive.org/web/20260208211031im_/http://spidermedia.ru/assets/images/import_image/741.jpg",
+  "modx_id": 741,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

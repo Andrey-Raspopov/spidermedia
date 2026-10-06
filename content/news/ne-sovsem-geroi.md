@@ -1,7 +1,10 @@
 {
   "title": "Не совсем герои",
-  "date": "2010-02-09T23:36:00+03:00",
+  "date": "2010-02-09T23:36:33+03:00",
   "url": "/news/ne-sovsem-geroi/",
+  "aliases": [
+    "/node/2354/"
+  ],
   "original_url": "https://spidermedia.ru/news/ne-sovsem-geroi",
   "archived": "https://web.archive.org/web/20260312022510/https://spidermedia.ru/news/ne-sovsem-geroi",
   "tags": [
@@ -10,6 +13,11 @@
     "thunderbolts",
     "marvel",
     "luke-cage"
+  ],
+  "modx_id": 2354,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

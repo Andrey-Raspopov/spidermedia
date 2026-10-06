@@ -1,7 +1,10 @@
 {
   "title": "Под Капюшоном",
-  "date": "2009-04-17T21:10:00+03:00",
+  "date": "2009-04-17T20:10:32+03:00",
   "url": "/news/pod-kapyushonom/",
+  "aliases": [
+    "/node/973/"
+  ],
   "original_url": "https://spidermedia.ru/news/pod-kapyushonom",
   "archived": "https://web.archive.org/web/20260312010204/https://spidermedia.ru/news/pod-kapyushonom",
   "tags": [
@@ -10,7 +13,13 @@
     "dzheff-parker",
     "art-0",
     "kapyushon",
-    "kajl-hotc"
+    "kajl-hotc",
+    "art"
+  ],
+  "modx_id": 973,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

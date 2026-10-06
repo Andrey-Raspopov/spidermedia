@@ -1,13 +1,22 @@
 {
   "title": "Бронированные войны",
-  "date": "2009-05-21T02:15:00+03:00",
+  "date": "2009-05-21T01:15:24+03:00",
   "url": "/news/bronirovannye-voyny/",
+  "aliases": [
+    "/node/1243/"
+  ],
   "original_url": "http://spidermedia.ru/news/bronirovannye-voyny",
   "archived": "https://web.archive.org/web/20260121000754/http://spidermedia.ru/news/bronirovannye-voyny",
   "tags": [
     "marvel",
     "iron-man",
-    "skotti-yang"
+    "skotti-yang",
+    "zheleznyy-chelovek"
+  ],
+  "modx_id": 1243,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

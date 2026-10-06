@@ -6,7 +6,14 @@
   "archived": "https://web.archive.org/web/20260125054952/https://spidermedia.ru/movies/dmg-plus-valiant",
   "tags": [
     "valiant-entertainment",
-    "j-michael-straczynski"
+    "j-michael-straczynski",
+    "dzhej-majkl-strazhinski"
+  ],
+  "cover": "https://web.archive.org/web/20150315171728im_/http://spidermedia.ru/assets/images/news/valiantu1-bc0cd.jpg",
+  "modx_id": 100055,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "NYCC'10: Iron Man 2.0",
-  "date": "2010-10-10T13:38:00+03:00",
+  "date": "2010-10-10T12:38:14+03:00",
   "url": "/news/nycc10-iron-man-20/",
   "original_url": "https://spidermedia.ru/news/nycc10-iron-man-20",
   "archived": "https://web.archive.org/web/20251216181314/https://spidermedia.ru/news/nycc10-iron-man-20",
@@ -12,6 +12,12 @@
     "marvel",
     "komik-kon-v-nyu-yorke",
     "nycc-2010"
+  ],
+  "cover": "https://web.archive.org/web/20251216181314im_/http://spidermedia.ru/assets/images/import_image/2989.jpg",
+  "modx_id": 2989,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

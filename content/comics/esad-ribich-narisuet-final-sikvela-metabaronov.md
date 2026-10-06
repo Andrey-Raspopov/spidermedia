@@ -10,6 +10,12 @@
     "metabarony",
     "esad-ribich"
   ],
+  "cover": "https://web.archive.org/web/20251013175840im_/http://spidermedia.ru/assets/images/news/humanoids/metabaron/metabaron-esad-ribic-small.jpg",
+  "modx_id": 100675,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -11,6 +11,12 @@
     "x-men",
     "nelyudi"
   ],
+  "cover": "https://web.archive.org/web/20220714191408im_/https://spidermedia.ru/assets/images/newgallery/gallery1152/2ew9D.jpg",
+  "modx_id": 101285,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,6 +1,6 @@
 {
   "title": "Brains eater",
-  "date": "2010-04-28T20:48:00+03:00",
+  "date": "2010-04-28T19:48:15+03:00",
   "url": "/news/brains-eater/",
   "original_url": "https://spidermedia.ru/news/brains-eater",
   "archived": "https://web.archive.org/web/20260117223020/https://spidermedia.ru/news/brains-eater",
@@ -9,6 +9,12 @@
     "majk-ollred",
     "vertigo",
     "izombie"
+  ],
+  "cover": "https://web.archive.org/web/20260117223020im_/http://spidermedia.ru/assets/images/import_image/2589.jpg",
+  "modx_id": 2589,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -4,6 +4,12 @@
   "url": "/games/playstation-5-zametka-ii-dva-mesyaca-ispolzovaniya/",
   "original_url": "http://spidermedia.ru/games/playstation-5-zametka-ii-dva-mesyaca-ispolzovaniya",
   "archived": "https://web.archive.org/web/20250512121620/http://spidermedia.ru/games/playstation-5-zametka-ii-dva-mesyaca-ispolzovaniya",
+  "cover": "https://web.archive.org/web/20250512121620im_/http://spidermedia.ru/assets/images/games/oblploj2(1).jpg",
+  "modx_id": 102337,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

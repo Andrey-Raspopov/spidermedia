@@ -1,13 +1,22 @@
 {
   "title": "Трио",
-  "date": "2010-12-20T21:41:00+03:00",
+  "date": "2010-12-20T21:41:44+03:00",
   "url": "/news/trio-0/",
+  "aliases": [
+    "/node/3128/"
+  ],
   "original_url": "http://spidermedia.ru/news/trio-0",
   "archived": "https://web.archive.org/web/20250807001918/http://spidermedia.ru/news/trio-0",
   "tags": [
     "dzhonatan-hikman",
     "stiv-epting",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20250807001918im_/http://spidermedia.ru/assets/images/import_image/3128.jpg",
+  "modx_id": 3128,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

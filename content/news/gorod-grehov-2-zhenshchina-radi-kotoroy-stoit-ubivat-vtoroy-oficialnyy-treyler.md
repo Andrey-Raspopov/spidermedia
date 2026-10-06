@@ -1,6 +1,6 @@
 {
   "title": "«Город грехов 2»: Второй трейлер",
-  "date": "2014-06-11T22:45:00+03:00",
+  "date": "2014-06-11T21:45:47+03:00",
   "url": "/news/gorod-grehov-2-zhenshchina-radi-kotoroy-stoit-ubivat-vtoroy-oficialnyy-treyler/",
   "original_url": "http://spidermedia.ru/news/gorod-grehov-2-zhenshchina-radi-kotoroy-stoit-ubivat-vtoroy-oficialnyy-treyler",
   "archived": "https://web.archive.org/web/20260125122110/http://spidermedia.ru/news/gorod-grehov-2-zhenshchina-radi-kotoroy-stoit-ubivat-vtoroy-oficialnyy-treyler",
@@ -8,6 +8,12 @@
     "frenk-miller",
     "trejlery",
     "sin-city"
+  ],
+  "cover": "https://web.archive.org/web/20150315210246im_/http://spidermedia.ru/assets/images/ecahznqzhc4.jpg",
+  "modx_id": 7810,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,13 +1,20 @@
 {
   "title": "Шестой комиккаст!",
-  "date": "2011-08-28T16:33:00+03:00",
+  "date": "2011-08-28T15:33:23+03:00",
   "url": "/blog/bezdredoff/shestoy-komikkast/",
   "original_url": "http://spidermedia.ru/blog/bezdredoff/shestoy-komikkast",
   "archived": "https://web.archive.org/web/20120607031040/http://spidermedia.ru/blog/bezdredoff/shestoy-komikkast",
   "tags": [
     "comics",
     "comiccast",
-    "podcast"
+    "podcast",
+    "komikkast"
+  ],
+  "cover": "https://web.archive.org/web/20120607031040im_/http://spidermedia.ru/assets/images/import_image/6582.jpg",
+  "modx_id": 6582,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

@@ -4,6 +4,9 @@
   "url": "/characters/dc/caitlin_fairchild/",
   "original_url": "http://spidermedia.ru/characters/dc/caitlin_fairchild.html",
   "archived": "https://web.archive.org/web/20040718124139/http://spidermedia.ru:80/characters/dc/caitlin_fairchild.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

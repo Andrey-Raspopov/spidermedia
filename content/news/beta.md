@@ -1,6 +1,6 @@
 {
   "title": "Бета",
-  "date": "2012-11-02T03:53:00+03:00",
+  "date": "2012-11-02T02:53:08+03:00",
   "url": "/news/beta/",
   "original_url": "http://spidermedia.ru/news/beta",
   "archived": "https://web.archive.org/web/20121121035852/http://spidermedia.ru:80/news/beta",
@@ -8,7 +8,14 @@
     "alpha",
     "alfa",
     "dzhoshua-heyl-fialkov",
-    "nuno-plati"
+    "nuno-plati",
+    "joshua-hale-fialkov"
+  ],
+  "cover": "https://web.archive.org/web/20121121035852im_/http://spidermedia.ru/assets/images/import_image/7080.jpg",
+  "modx_id": 7080,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

@@ -9,6 +9,12 @@
     "zarubezhnye-komiksy-na-russkom",
     "izdatelstvo-komiks"
   ],
+  "cover": "https://web.archive.org/web/20170912011002im_/http://spidermedia.ru/assets/images/spidermedia-anniversary/09-idk/wp_20161223_002.jpg",
+  "modx_id": 101460,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

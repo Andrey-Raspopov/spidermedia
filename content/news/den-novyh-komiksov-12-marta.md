@@ -1,11 +1,17 @@
 {
   "title": "День новых комиксов: 12 марта",
-  "date": "2014-03-12T12:08:00+03:00",
+  "date": "2014-03-12T11:08:05+03:00",
   "url": "/news/den-novyh-komiksov-12-marta/",
   "original_url": "http://spidermedia.ru/news/den-novyh-komiksov-12-marta",
   "archived": "https://web.archive.org/web/20250617230055/http://spidermedia.ru/news/den-novyh-komiksov-12-marta",
   "tags": [
     "den-novyh-komiksov"
+  ],
+  "cover": "https://web.archive.org/web/20250617230055im_/http://spidermedia.ru/assets/images/import_image/7684.jpg",
+  "modx_id": 7684,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

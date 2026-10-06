@@ -1,6 +1,6 @@
 {
   "title": "плохие комиксы Inc. #i fucked up the timestream: Геи, суицидники, нудисты и графон",
-  "date": "2011-06-15T15:13:00+03:00",
+  "date": "2011-06-15T14:13:21+03:00",
   "url": "/blog/samm-o/plohie-komiksy-inc-i-fucked-timestream-gei-suicidniki-nudisty-i-grafon/",
   "original_url": "http://spidermedia.ru/blog/samm-o/plohie-komiksy-inc-i-fucked-timestream-gei-suicidniki-nudisty-i-grafon",
   "archived": "https://web.archive.org/web/20260125063052/http://spidermedia.ru/blog/samm-o/plohie-komiksy-inc-i-fucked-timestream-gei-suicidniki-nudisty-i-grafon",
@@ -8,6 +8,12 @@
     "zenescope-entertainment",
     "idw-publishing",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150424140750im_/http://spidermedia.ru/assets/images/import_image/6450.png",
+  "modx_id": 6450,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

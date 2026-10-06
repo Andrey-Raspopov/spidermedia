@@ -1,13 +1,20 @@
 {
   "title": "Doctor Who \"Listen\": Мнение редакции",
-  "date": "2014-09-15T12:00:00+03:00",
+  "date": "2014-09-15T11:00:00+03:00",
   "url": "/blog/hella/doctor-who-listen-mnenie-redakcii-0/",
   "original_url": "http://spidermedia.ru/blog/hella/doctor-who-listen-mnenie-redakcii-0",
   "archived": "https://web.archive.org/web/20230320152000/http://spidermedia.ru/blog/hella/doctor-who-listen-mnenie-redakcii-0",
   "tags": [
     "serialy",
     "mnenie",
-    "doctor-who"
+    "doctor-who",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20230320152000im_/http://spidermedia.ru/assets/images/import_image/8059.jpg",
+  "modx_id": 8059,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Страшный и зубастый",
-  "date": "2009-02-15T00:44:00+03:00",
+  "date": "2009-02-15T00:44:54+03:00",
   "url": "/news/strashnyy-i-zubastyy/",
   "original_url": "https://spidermedia.ru/news/strashnyy-i-zubastyy",
   "archived": "https://web.archive.org/web/20260116221221/https://spidermedia.ru/news/strashnyy-i-zubastyy",
@@ -10,6 +10,11 @@
     "sabretooth",
     "hasbro",
     "toy-fair-2009"
+  ],
+  "modx_id": 365,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

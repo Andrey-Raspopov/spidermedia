@@ -1,6 +1,6 @@
 {
   "title": "МЖДЗ: И СНОВА ЗДРАВСТВУЙТЕ",
-  "date": "2012-10-10T22:31:00+03:00",
+  "date": "2012-10-10T21:31:59+03:00",
   "url": "/news/mzhdz-i-snova-zdravstvuyte/",
   "original_url": "https://spidermedia.ru/news/mzhdz-i-snova-zdravstvuyte",
   "archived": "https://web.archive.org/web/20260208193906/https://spidermedia.ru/news/mzhdz-i-snova-zdravstvuyte",
@@ -20,7 +20,16 @@
     "majk-ollred",
     "image-comics",
     "grant-morrison",
-    "matt-fraction"
+    "matt-fraction",
+    "lyudi-iks",
+    "zheleznyy-chelovek",
+    "mett-frakshen"
+  ],
+  "cover": "https://web.archive.org/web/20150428175647im_/http://spidermedia.ru/assets/images/import_image/7052.png",
+  "modx_id": 7052,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

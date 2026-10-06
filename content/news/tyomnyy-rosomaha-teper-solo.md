@@ -1,7 +1,10 @@
 {
   "title": "Тёмный Росомаха - теперь соло!",
-  "date": "2009-05-05T17:27:00+03:00",
+  "date": "2009-05-05T16:27:29+03:00",
   "url": "/news/tyomnyy-rosomaha-teper-solo/",
+  "aliases": [
+    "/node/1104/"
+  ],
   "original_url": "http://spidermedia.ru/news/tyomnyy-rosomaha-teper-solo",
   "archived": "https://web.archive.org/web/20260214130309/http://spidermedia.ru/news/tyomnyy-rosomaha-teper-solo",
   "tags": [
@@ -9,6 +12,11 @@
     "avengers",
     "wolverine",
     "daken"
+  ],
+  "modx_id": 1104,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

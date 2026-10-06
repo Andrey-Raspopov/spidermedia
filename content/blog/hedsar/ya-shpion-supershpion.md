@@ -1,12 +1,18 @@
 {
   "title": "I'm a spy. Super spy",
-  "date": "2013-03-28T23:07:00+03:00",
+  "date": "2013-03-28T22:07:33+03:00",
   "url": "/blog/hedsar/ya-shpion-supershpion/",
   "original_url": "https://spidermedia.ru/blog/hedsar/ya-shpion-supershpion",
   "archived": "https://web.archive.org/web/20230607031941/https://spidermedia.ru/blog/hedsar/ya-shpion-supershpion",
   "tags": [
     "mark-millar",
     "tajnaya-sluzhba"
+  ],
+  "cover": "https://web.archive.org/web/20230607031941im_/http://spidermedia.ru/assets/images/import_image/7171.jpg",
+  "modx_id": 7171,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

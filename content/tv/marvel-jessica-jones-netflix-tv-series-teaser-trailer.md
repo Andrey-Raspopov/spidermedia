@@ -8,6 +8,12 @@
     "marvel",
     "jessica-jones-alias"
   ],
+  "cover": "https://web.archive.org/web/20251211024542im_/http://spidermedia.ru/assets/images/youtube/ywZE-NEJ2Ik.jpg",
+  "modx_id": 100524,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

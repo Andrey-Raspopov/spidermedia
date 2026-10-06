@@ -1,7 +1,10 @@
 {
   "title": "The Column With No Name: 24/02/10 - Stepping in gasoline was your biggest mistake.",
-  "date": "2010-02-28T13:28:00+03:00",
+  "date": "2010-02-28T13:28:03+03:00",
   "url": "/blog/sir-carnage/column-no-name-24-02-10-stepping-gasoline-was-your-biggest-mistake/",
+  "aliases": [
+    "/node/2403/"
+  ],
   "original_url": "http://spidermedia.ru/blog/sir-carnage/column-no-name-24-02-10-stepping-gasoline-was-your-biggest-mistake",
   "archived": "https://web.archive.org/web/20260211095306/http://spidermedia.ru/blog/sir-carnage/column-no-name-24-02-10-stepping-gasoline-was-your-biggest-mistake",
   "tags": [
@@ -10,6 +13,12 @@
     "dc-comics",
     "avatar-press",
     "the-column-with-no-name"
+  ],
+  "cover": "https://web.archive.org/web/20260211095306im_/http://spidermedia.ru/assets/images/import_image/2403.jpg",
+  "modx_id": 2403,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

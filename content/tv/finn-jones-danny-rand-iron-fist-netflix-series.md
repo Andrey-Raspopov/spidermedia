@@ -8,6 +8,12 @@
     "marvel",
     "iron-fist"
   ],
+  "cover": "https://web.archive.org/web/20250909143610im_/http://spidermedia.ru/assets/images/tv/marvel/ironfist/fist.jpg",
+  "modx_id": 101097,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

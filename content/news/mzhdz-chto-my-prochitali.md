@@ -1,12 +1,18 @@
 {
   "title": "МЖДЗ: ЧТО МЫ ПРОЧИТАЛИ?",
-  "date": "2012-07-05T00:28:00+03:00",
+  "date": "2012-07-04T23:28:44+03:00",
   "url": "/news/mzhdz-chto-my-prochitali/",
   "original_url": "https://spidermedia.ru/news/mzhdz-chto-my-prochitali",
   "archived": "https://web.archive.org/web/20211017073812/https://spidermedia.ru/news/mzhdz-chto-my-prochitali",
   "tags": [
     "mnenie",
     "mzhdz"
+  ],
+  "cover": "https://web.archive.org/web/20160318082047im_/http://spidermedia.ru/assets/images/import_image/6958.png",
+  "modx_id": 6958,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

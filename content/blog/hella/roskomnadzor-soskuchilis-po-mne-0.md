@@ -1,6 +1,6 @@
 {
   "title": "РоскомНадзор: соскучились по мне?",
-  "date": "2015-01-16T11:20:00+03:00",
+  "date": "2015-01-16T11:20:02+03:00",
   "url": "/blog/hella/roskomnadzor-soskuchilis-po-mne-0/",
   "original_url": "https://spidermedia.ru/blog/hella/roskomnadzor-soskuchilis-po-mne-0",
   "archived": "https://web.archive.org/web/20260208203244/https://spidermedia.ru/blog/hella/roskomnadzor-soskuchilis-po-mne-0",
@@ -8,6 +8,12 @@
     "russian-comics",
     "roskomnadzor",
     "zarubezhnye-komiksy-na-russkom"
+  ],
+  "cover": "https://web.archive.org/web/20150327041812im_/http://spidermedia.ru/assets/images/import_image/8511.jpg",
+  "modx_id": 8511,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

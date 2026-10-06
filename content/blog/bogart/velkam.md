@@ -1,11 +1,20 @@
 {
   "title": "Велкам!",
-  "date": "2009-02-01T11:57:00+03:00",
+  "date": "2009-02-01T10:57:16+03:00",
   "url": "/blog/bogart/velkam/",
+  "aliases": [
+    "/node/65/"
+  ],
   "original_url": "http://spidermedia.ru/blog/bogart/velkam",
   "archived": "https://web.archive.org/web/20120608195905/http://spidermedia.ru/blog/bogart/velkam",
   "tags": [
     "vstuplenie"
+  ],
+  "cover": "https://web.archive.org/web/20120608195905im_/http://spidermedia.ru/assets/images/import_image/65.jpg",
+  "modx_id": 65,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

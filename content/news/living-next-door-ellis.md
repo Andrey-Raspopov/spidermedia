@@ -1,6 +1,6 @@
 {
   "title": "Living next door to Ellis",
-  "date": "2013-09-12T14:45:00+03:00",
+  "date": "2013-09-12T13:45:37+03:00",
   "url": "/news/living-next-door-ellis/",
   "original_url": "http://spidermedia.ru/news/living-next-door-ellis",
   "archived": "https://web.archive.org/web/20230604104802/http://spidermedia.ru/news/living-next-door-ellis",
@@ -8,6 +8,12 @@
     "avengers",
     "marvel",
     "warren-ellis"
+  ],
+  "cover": "https://web.archive.org/web/20230604104802im_/http://spidermedia.ru/assets/images/import_image/7464.jpg",
+  "modx_id": 7464,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

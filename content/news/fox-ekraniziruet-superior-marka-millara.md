@@ -1,6 +1,6 @@
 {
   "title": "FOX экранизирует SUPERIOR Марка Миллара",
-  "date": "2014-04-16T12:53:00+03:00",
+  "date": "2014-04-16T11:53:05+03:00",
   "url": "/news/fox-ekraniziruet-superior-marka-millara/",
   "original_url": "https://spidermedia.ru/news/fox-ekraniziruet-superior-marka-millara",
   "archived": "https://web.archive.org/web/20260211193812/https://spidermedia.ru/news/fox-ekraniziruet-superior-marka-millara",
@@ -9,6 +9,12 @@
     "lejnil-frensis-yu",
     "superior",
     "icon-comics"
+  ],
+  "cover": "https://web.archive.org/web/20260211193812im_/http://spidermedia.ru/assets/images/import_image/7716.jpg",
+  "modx_id": 7716,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

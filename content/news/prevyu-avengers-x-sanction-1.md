@@ -1,6 +1,6 @@
 {
   "title": "Превью Avengers: X-Sanction #1",
-  "date": "2011-10-10T23:35:00+03:00",
+  "date": "2011-10-10T22:35:08+03:00",
   "url": "/news/prevyu-avengers-x-sanction-1/",
   "original_url": "https://spidermedia.ru/news/prevyu-avengers-x-sanction-1",
   "archived": "https://web.archive.org/web/20251206151427/https://spidermedia.ru/news/prevyu-avengers-x-sanction-1",
@@ -10,7 +10,14 @@
     "dzhef-loeb",
     "x-men",
     "marvel",
-    "avengers"
+    "avengers",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20160323014302im_/http://spidermedia.ru/assets/images/import_image/6640.jpg",
+  "modx_id": 6640,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -10,6 +10,12 @@
     "majk-keri",
     "piter-gross"
   ],
+  "cover": "https://web.archive.org/web/20260311144439im_/https://spidermedia.ru/assets/images/reviews/dc/hill-house/the-dollhouse-family-1-6/81rtayakkrl.jpg",
+  "modx_id": 102296,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

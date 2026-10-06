@@ -4,6 +4,12 @@
   "url": "/movies/whoami-review/",
   "original_url": "http://spidermedia.ru/movies/whoami-review",
   "archived": "https://web.archive.org/web/20211028185421/http://spidermedia.ru/movies/whoami-review",
+  "cover": "https://web.archive.org/web/20211028185421im_/http://spidermedia.ru/assets/images/movies/other/maxresdefault.jpg",
+  "modx_id": 100460,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

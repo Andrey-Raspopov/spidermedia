@@ -1,7 +1,10 @@
 {
   "title": "Aoi Bungaku Series",
-  "date": "2010-01-02T18:40:00+03:00",
+  "date": "2010-01-02T18:40:14+03:00",
   "url": "/blog/naya/aoi-bungaku-series/",
+  "aliases": [
+    "/node/2213/"
+  ],
   "original_url": "http://spidermedia.ru/blog/naya/aoi-bungaku-series",
   "archived": "https://web.archive.org/web/20251112165027/http://spidermedia.ru/blog/naya/aoi-bungaku-series",
   "tags": [
@@ -9,6 +12,12 @@
     "historical",
     "drama",
     "anime"
+  ],
+  "cover": "https://web.archive.org/web/20251112165027im_/http://spidermedia.ru/assets/images/import_image/2213.jpg",
+  "modx_id": 2213,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

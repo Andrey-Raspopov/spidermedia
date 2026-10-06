@@ -1,7 +1,10 @@
 {
   "title": "Финал Икс",
-  "date": "2009-02-17T20:59:00+03:00",
+  "date": "2009-02-17T20:59:27+03:00",
   "url": "/news/final-iks/",
+  "aliases": [
+    "/node/413/"
+  ],
   "original_url": "http://spidermedia.ru/news/final-iks",
   "archived": "https://web.archive.org/web/20251207005847/http://spidermedia.ru/news/final-iks",
   "tags": [
@@ -9,7 +12,14 @@
     "marvel",
     "ultimate",
     "preview",
-    "mark-bruks"
+    "mark-bruks",
+    "lyudi-iks",
+    "prevyu"
+  ],
+  "modx_id": 413,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

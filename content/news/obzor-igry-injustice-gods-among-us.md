@@ -1,6 +1,6 @@
 {
   "title": "Обзор игры \"Injustice: Gods Among Us\"",
-  "date": "2013-04-22T11:44:00+03:00",
+  "date": "2013-04-22T10:44:46+03:00",
   "url": "/news/obzor-igry-injustice-gods-among-us/",
   "original_url": "http://spidermedia.ru/news/obzor-igry-injustice-gods-among-us",
   "archived": "https://web.archive.org/web/20260309181508/http://spidermedia.ru/news/obzor-igry-injustice-gods-among-us",
@@ -9,6 +9,12 @@
     "igry",
     "injustice",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150326100356im_/http://spidermedia.ru/assets/images/import_image/7219.jpg",
+  "modx_id": 7219,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

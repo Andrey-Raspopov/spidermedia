@@ -1,6 +1,6 @@
 {
   "title": "РоcКомНадзор: дальше будет лучше",
-  "date": "2015-02-07T14:14:00+03:00",
+  "date": "2015-02-07T14:14:10+03:00",
   "url": "/blog/hella/rockomnadzor-dalshe-budet-luchshe/",
   "original_url": "http://spidermedia.ru/blog/hella/rockomnadzor-dalshe-budet-luchshe",
   "archived": "https://web.archive.org/web/20260125111016/http://spidermedia.ru/blog/hella/rockomnadzor-dalshe-budet-luchshe",
@@ -8,6 +8,12 @@
     "russian-comics",
     "roskomnadzor",
     "zarubezhnye-komiksy-na-russkom"
+  ],
+  "cover": "https://web.archive.org/web/20150327041841im_/http://spidermedia.ru/assets/images/import_image/8594.jpg",
+  "modx_id": 8594,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

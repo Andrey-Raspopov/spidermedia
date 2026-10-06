@@ -1,13 +1,23 @@
 {
   "title": "На съёмочной площадке фильма \"Тор\"",
-  "date": "2010-12-10T21:19:00+03:00",
+  "date": "2010-12-10T21:19:40+03:00",
   "url": "/news/na-syomochnoy-ploshchadke-filma-tor/",
+  "aliases": [
+    "/node/3108/"
+  ],
   "original_url": "http://spidermedia.ru/news/na-syomochnoy-ploshchadke-filma-tor",
   "archived": "https://web.archive.org/web/20260206230926/http://spidermedia.ru/news/na-syomochnoy-ploshchadke-filma-tor",
   "tags": [
     "preview",
     "thor",
-    "marvel"
+    "marvel",
+    "prevyu",
+    "tor"
+  ],
+  "modx_id": 3108,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "Ultimate Comics, Декабрь 2009",
-  "date": "2009-10-12T02:21:00+03:00",
+  "date": "2009-10-12T01:21:00+03:00",
   "url": "/news/ultimate-comics-dekabr-2009/",
+  "aliases": [
+    "/node/1984/"
+  ],
   "original_url": "http://spidermedia.ru/news/ultimate-comics-dekabr-2009",
   "archived": "https://web.archive.org/web/20250715003759/http://spidermedia.ru/news/ultimate-comics-dekabr-2009",
   "tags": [
@@ -13,7 +16,14 @@
     "ultimate",
     "marvel",
     "iron-man",
-    "spider-man"
+    "spider-man",
+    "zheleznyy-chelovek"
+  ],
+  "cover": "https://web.archive.org/web/20250715003759im_/http://spidermedia.ru/assets/images/import_image/1984.jpg",
+  "modx_id": 1984,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

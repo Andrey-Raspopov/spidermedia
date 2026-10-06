@@ -7,6 +7,12 @@
   "tags": [
     "dc-comics"
   ],
+  "cover": "https://web.archive.org/web/20160611153024im_/http://spidermedia.ru/assets/images/news/images/1_comics/dc/hanna-barbera/123.jpg",
+  "modx_id": 100858,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

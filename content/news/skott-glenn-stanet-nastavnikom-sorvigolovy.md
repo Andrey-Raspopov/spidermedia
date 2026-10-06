@@ -1,13 +1,21 @@
 {
   "title": "Скотт Гленн станет наставником Сорвиголовы",
-  "date": "2014-09-16T11:37:00+03:00",
+  "date": "2014-09-16T10:37:24+03:00",
   "url": "/news/skott-glenn-stanet-nastavnikom-sorvigolovy/",
   "original_url": "https://spidermedia.ru/news/skott-glenn-stanet-nastavnikom-sorvigolovy",
   "archived": "https://web.archive.org/web/20251216120636/https://spidermedia.ru/news/skott-glenn-stanet-nastavnikom-sorvigolovy",
   "tags": [
     "serialy",
     "daredevil",
-    "kasting"
+    "kasting",
+    "tv",
+    "sorvigolova"
+  ],
+  "cover": "https://web.archive.org/web/20251216120636im_/http://spidermedia.ru/assets/images/import_image/8065.jpg",
+  "modx_id": 8065,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

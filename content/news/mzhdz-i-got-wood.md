@@ -1,12 +1,18 @@
 {
   "title": "МЖДЗ: I GOT WOOD",
-  "date": "2012-06-20T01:02:00+03:00",
+  "date": "2012-06-20T00:02:41+03:00",
   "url": "/news/mzhdz-i-got-wood/",
   "original_url": "http://spidermedia.ru/news/mzhdz-i-got-wood",
   "archived": "https://web.archive.org/web/20251107182249/http://spidermedia.ru/news/mzhdz-i-got-wood",
   "tags": [
     "mnenie",
     "mzhdz"
+  ],
+  "cover": "https://web.archive.org/web/20160321030321im_/http://spidermedia.ru/assets/images/import_image/6942.png",
+  "modx_id": 6942,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

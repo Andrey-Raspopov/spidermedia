@@ -1,6 +1,6 @@
 {
   "title": "Большой секрет для маленькой компании",
-  "date": "2011-07-25T03:01:00+03:00",
+  "date": "2011-07-25T02:01:42+03:00",
   "url": "/news/bolshoy-sekret-dlya-malenkoy-kompanii/",
   "original_url": "http://spidermedia.ru/news/bolshoy-sekret-dlya-malenkoy-kompanii",
   "archived": "https://web.archive.org/web/20251207094259/http://spidermedia.ru/news/bolshoy-sekret-dlya-malenkoy-kompanii",
@@ -16,6 +16,12 @@
     "she-hulk",
     "matt-fraction",
     "silver-surfer"
+  ],
+  "cover": "https://web.archive.org/web/20251207094259im_/http://spidermedia.ru/assets/images/import_image/6530.jpg",
+  "modx_id": 6530,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

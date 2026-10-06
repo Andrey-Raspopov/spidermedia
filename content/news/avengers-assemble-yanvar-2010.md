@@ -1,14 +1,24 @@
 {
   "title": "Avengers Assemble! - январь 2010",
-  "date": "2009-10-28T17:54:00+03:00",
+  "date": "2009-10-28T17:54:08+03:00",
   "url": "/news/avengers-assemble-yanvar-2010/",
+  "aliases": [
+    "/node/2031/"
+  ],
   "original_url": "http://spidermedia.ru/news/avengers-assemble-yanvar-2010",
   "archived": "https://web.archive.org/web/20260208192959/http://spidermedia.ru/news/avengers-assemble-yanvar-2010",
   "tags": [
     "preview",
     "marvel",
     "avengers",
-    "siege"
+    "siege",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20260208192959im_/http://spidermedia.ru/assets/images/import_image/2031.jpg",
+  "modx_id": 2031,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
@@ -27,4 +37,4 @@
 |  | Avengers: The Initiative #32 Сценарист: **Кристос Гейдж** *(Christos Gage)* Художник: **Рафа Сэндовал** *(Rafa Sandoval)* Обложка: Давид Ярдин (David Yardin) После завершения Гражданской Войны (Civil War), членам Инициативы (the Initiative) обещали славу, известность и богатство, но всему есть своя цена. Теперь вся Инициатива борется за свои жизни, вступая в битву против Тора (Thor) и всего Асгарда (Asgardians) на стороне Темных Мстителей и их союзников, в лице бессмертных богов. Самое кровавое событие в истории Marvel начинается. К сожалению, для некоторых Мстителей, оказавшихся в центре событий - эта битва станет последней. |
 |  | New Avengers #61 Сценарист: **Брайан Майкл Бендис** *(Brian Michael Bendis)* Художник: **Стюарт Иммонен** (Stuart Immonen) Обложка: Стюарт Иммонен (Stuart Immonen) Стив Роджерс (Steve Rogers/Captain America) возвращается в ряды Мстителей (Avengers), но не слишком ли поздно? Осада на Асгард началась, а это означает, что Кэп должен действовать быстро! Но кому он может довериться в мире, в котором правит Норман Осборн? Если даже боги пали, то каковы шансы на выживание у нашего Супер Солдата? |
 
-И напоследок, мы хотели бы показать немного арта с [**Diamond Summit' 09**](../../node/1999/), но в лучшем качестве:[![_mg_5175_(2).jpg - upload images with Picamatic](https://web.archive.org/web/20260208192959im_/http://www.picamatic.com/show/2009/10/24/08/18/5695790_bigthumb.jpg "_mg_5175_(2).jpg")](http://www.picamatic.com/view/5695790__mg_5175_(2)/) [![s1.jpg - image uploaded to Picamatic](https://web.archive.org/web/20260208192959im_/http://www.picamatic.com/show/2009/10/24/08/20/5695803_bigthumb.jpg "s1.jpg")](http://www.picamatic.com/view/5695803_s1/) [![s2.jpg - upload images with Picamatic](https://web.archive.org/web/20260208192959im_/http://www.picamatic.com/show/2009/10/24/08/20/5695805_bigthumb.jpg "s2.jpg")](http://www.picamatic.com/view/5695805_s2/)Напоминаем вам, что Siege стартует уже в декабре этого года. Сценаристом мини будет Брайан Майкл Бендис, а художником - Оливер Койпель.
+И напоследок, мы хотели бы показать немного арта с [**Diamond Summit' 09**](../diamond-summit-09-siege/), но в лучшем качестве:[![_mg_5175_(2).jpg - upload images with Picamatic](https://web.archive.org/web/20260208192959im_/http://www.picamatic.com/show/2009/10/24/08/18/5695790_bigthumb.jpg "_mg_5175_(2).jpg")](http://www.picamatic.com/view/5695790__mg_5175_(2)/) [![s1.jpg - image uploaded to Picamatic](https://web.archive.org/web/20260208192959im_/http://www.picamatic.com/show/2009/10/24/08/20/5695803_bigthumb.jpg "s1.jpg")](http://www.picamatic.com/view/5695803_s1/) [![s2.jpg - upload images with Picamatic](https://web.archive.org/web/20260208192959im_/http://www.picamatic.com/show/2009/10/24/08/20/5695805_bigthumb.jpg "s2.jpg")](http://www.picamatic.com/view/5695805_s2/)Напоминаем вам, что Siege стартует уже в декабре этого года. Сценаристом мини будет Брайан Майкл Бендис, а художником - Оливер Койпель.

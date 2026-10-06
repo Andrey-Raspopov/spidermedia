@@ -1,13 +1,22 @@
 {
   "title": "Гумберт Ли",
-  "date": "2009-08-25T09:13:00+03:00",
+  "date": "2009-08-25T08:13:41+03:00",
   "url": "/blog/saramaga/gumbert-li/",
+  "aliases": [
+    "/node/1820/"
+  ],
   "original_url": "http://spidermedia.ru/blog/saramaga/gumbert-li",
   "archived": "https://web.archive.org/web/20251107002404/http://spidermedia.ru/blog/saramaga/gumbert-li",
   "tags": [
     "sten-li",
     "manga",
-    "stan-lee"
+    "stan-lee",
+    "manga-2"
+  ],
+  "modx_id": 1820,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

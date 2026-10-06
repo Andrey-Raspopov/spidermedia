@@ -1,6 +1,6 @@
 {
   "title": "\"Первый Мститель: Другая Война\": 4-х минутный трейлер",
-  "date": "2014-03-07T02:19:00+03:00",
+  "date": "2014-03-07T01:19:09+03:00",
   "url": "/news/pervyy-mstitel-drugaya-voyna-4-h-minutnyy-treyler/",
   "original_url": "http://spidermedia.ru/news/pervyy-mstitel-drugaya-voyna-4-h-minutnyy-treyler",
   "archived": "https://web.archive.org/web/20260125124958/http://spidermedia.ru/news/pervyy-mstitel-drugaya-voyna-4-h-minutnyy-treyler",
@@ -9,6 +9,12 @@
     "marvel",
     "captain-america",
     "winter-soldier"
+  ],
+  "cover": "https://web.archive.org/web/20260125124958im_/http://spidermedia.ru/assets/images/import_image/7674.jpg",
+  "modx_id": 7674,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

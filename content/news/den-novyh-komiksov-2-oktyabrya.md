@@ -1,11 +1,17 @@
 {
   "title": "День новых комиксов: 2 октября",
-  "date": "2013-10-02T15:01:00+03:00",
+  "date": "2013-10-02T14:01:19+03:00",
   "url": "/news/den-novyh-komiksov-2-oktyabrya/",
   "original_url": "http://spidermedia.ru/news/den-novyh-komiksov-2-oktyabrya",
   "archived": "https://web.archive.org/web/20250214232953/http://spidermedia.ru/news/den-novyh-komiksov-2-oktyabrya",
   "tags": [
     "den-novyh-komiksov"
+  ],
+  "cover": "https://web.archive.org/web/20150428170814im_/http://spidermedia.ru/assets/images/import_image/7489.jpg",
+  "modx_id": 7489,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

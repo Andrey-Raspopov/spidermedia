@@ -1,12 +1,21 @@
 {
   "title": "Слухи: Специальный выпуск #2",
-  "date": "2010-03-15T20:21:00+03:00",
+  "date": "2010-03-15T20:21:01+03:00",
   "url": "/news/sluhi-specialnyy-vypusk-2/",
+  "aliases": [
+    "/node/2444/"
+  ],
   "original_url": "http://spidermedia.ru/news/sluhi-specialnyy-vypusk-2",
   "archived": "https://web.archive.org/web/20260125055055/http://spidermedia.ru/news/sluhi-specialnyy-vypusk-2",
   "tags": [
     "sluhi",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20260125055055im_/http://spidermedia.ru/assets/images/import_image/2444.jpg",
+  "modx_id": 2444,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
@@ -22,7 +31,7 @@
 - Шансов на возвращение **Саблезубого** *(Sabretooth)* нет никаких, по крайней мере в ближайшем будущем.
 - **Чудо-Человек** *(Wonder Man)* появится в Мстителях, в каким именно - секрет.
 - **Black Panther and Storm** - маловероятное переименование онгоинга Пантеры, но идея была воспринята тепло.
-- У все еще никак официально не представленной мини [**Wolverine & Hercules**](../../node/1602/) обнаружилась обложка второго номера:
+- У все еще никак официально не представленной мини [**Wolverine & Hercules**](../kanadsko-grecheskiy-soyuz/) обнаружилась обложка второго номера:
   [![](https://web.archive.org/web/20260125055055im_/http://i691.photobucket.com/albums/vv276/Silvernoir/th_WOLVERINE_HERCULES_No__2_Cover_by_J.jpg)](http://s691.photobucket.com/albums/vv276/Silvernoir/WOLVERINE_HERCULES_No__2_Cover_by_J.jpg)
   Автор все тот же - **Джо Джуско** *(Joe Jusko)*.
 - Новый комикс, посвященный **Защитникам** *(The Defenders)*, ближе чем кажется. А что касается многострадальных **Альфа Флайт** *(Alpha Flight)* и **Омега Флайт** *(Omega Flight)* - ни о каких перезагрузках, обновлениях или о чем-либо еще пока и речи идти не может.

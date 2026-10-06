@@ -1,6 +1,6 @@
 {
   "title": "Да здравствует Архэм!",
-  "date": "2009-07-09T20:17:00+03:00",
+  "date": "2009-07-09T19:17:49+03:00",
   "url": "/news/da-zdravstvuet-arhem/",
   "original_url": "http://spidermedia.ru/news/da-zdravstvuet-arhem",
   "archived": "https://web.archive.org/web/20260214133624/http://spidermedia.ru/news/da-zdravstvuet-arhem",
@@ -9,7 +9,13 @@
     "devid-hajn",
     "dzheremi-houn",
     "art-0",
-    "dc-comics"
+    "dc-comics",
+    "art"
+  ],
+  "modx_id": 1516,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

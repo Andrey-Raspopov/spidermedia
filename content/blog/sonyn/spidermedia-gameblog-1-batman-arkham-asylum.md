@@ -1,13 +1,21 @@
 {
   "title": "Spidermedia Gameblog #1: Batman - Arkham Asylum",
-  "date": "2009-05-16T18:55:00+03:00",
+  "date": "2009-05-16T17:55:56+03:00",
   "url": "/blog/sonyn/spidermedia-gameblog-1-batman-arkham-asylum/",
+  "aliases": [
+    "/node/1213/"
+  ],
   "original_url": "https://spidermedia.ru/blog/sonyn/spidermedia-gameblog-1-batman-arkham-asylum",
   "archived": "https://web.archive.org/web/20260314082442/https://spidermedia.ru/blog/sonyn/spidermedia-gameblog-1-batman-arkham-asylum",
   "tags": [
     "batman",
     "igry",
     "arkham-asylum"
+  ],
+  "modx_id": 1213,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

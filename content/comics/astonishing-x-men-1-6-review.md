@@ -13,6 +13,12 @@
     "charlz-soul",
     "ed-makginness"
   ],
+  "cover": "https://web.archive.org/web/20260305234724im_/http://spidermedia.ru/assets/images/reviews/marvel/x-men/astonishing/1-6/astonishing-x-men-2017-001-000.jpg",
+  "modx_id": 101761,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,7 +1,10 @@
 {
   "title": "We have to Astonish them",
-  "date": "2009-11-02T02:56:00+03:00",
+  "date": "2009-11-02T02:56:39+03:00",
   "url": "/news/we-have-astonish-them/",
+  "aliases": [
+    "/node/1859/"
+  ],
   "original_url": "http://spidermedia.ru/news/we-have-astonish-them",
   "archived": "https://web.archive.org/web/20251213194816/http://spidermedia.ru/news/we-have-astonish-them",
   "tags": [
@@ -11,6 +14,11 @@
     "joss-whedon",
     "john-cassaday",
     "x-men"
+  ],
+  "modx_id": 1859,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

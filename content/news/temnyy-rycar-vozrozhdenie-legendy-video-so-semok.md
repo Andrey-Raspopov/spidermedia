@@ -1,6 +1,6 @@
 {
   "title": "Темный Рыцарь: Возрождение Легенды: видео со съемок",
-  "date": "2011-10-29T18:45:00+03:00",
+  "date": "2011-10-29T17:45:21+03:00",
   "url": "/news/temnyy-rycar-vozrozhdenie-legendy-video-so-semok/",
   "original_url": "https://spidermedia.ru/news/temnyy-rycar-vozrozhdenie-legendy-video-so-semok",
   "archived": "https://web.archive.org/web/20241110024833/https://spidermedia.ru/news/temnyy-rycar-vozrozhdenie-legendy-video-so-semok",
@@ -8,6 +8,12 @@
     "temnyj-rycar",
     "batman",
     "dark-knight-rises"
+  ],
+  "cover": "https://web.archive.org/web/20241110024833im_/http://spidermedia.ru/assets/images/import_image/6672.jpg",
+  "modx_id": 6672,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

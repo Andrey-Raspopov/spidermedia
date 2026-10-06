@@ -1,12 +1,18 @@
 {
   "title": "Новая авторская команда \"Catwoman\"",
-  "date": "2014-07-08T22:38:00+03:00",
+  "date": "2014-07-08T21:38:59+03:00",
   "url": "/news/novaya-avtorskaya-komanda-catwoman/",
   "original_url": "https://spidermedia.ru/news/novaya-avtorskaya-komanda-catwoman",
   "archived": "https://web.archive.org/web/20241104201722/https://spidermedia.ru/news/novaya-avtorskaya-komanda-catwoman",
   "tags": [
     "zhenshhina-koshka",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150326202252im_/http://spidermedia.ru/assets/images/import_image/7870.jpg",
+  "modx_id": 7870,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

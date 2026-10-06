@@ -1,6 +1,6 @@
 {
   "title": "Девианты. Сага. Затмение",
-  "date": "2011-08-13T05:13:00+03:00",
+  "date": "2011-08-13T04:13:21+03:00",
   "url": "/news/devianty-saga-zatmenie/",
   "original_url": "http://spidermedia.ru/news/devianty-saga-zatmenie",
   "archived": "https://web.archive.org/web/20220819230933/http://spidermedia.ru/news/devianty-saga-zatmenie",
@@ -8,7 +8,14 @@
     "thor",
     "robert-rodi",
     "stiven-segoviya",
-    "marvel"
+    "marvel",
+    "tor"
+  ],
+  "cover": "https://web.archive.org/web/20220819230933im_/http://spidermedia.ru/assets/images/import_image/6563.jpg",
+  "modx_id": 6563,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

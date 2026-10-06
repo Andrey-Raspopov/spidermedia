@@ -1,12 +1,18 @@
 {
   "title": "«Чудо-Женщину» снимет женщина",
-  "date": "2014-11-13T07:07:00+03:00",
+  "date": "2014-11-13T07:07:22+03:00",
   "url": "/news/chudo-zhenshchinu-snimet-zhenshchina/",
   "original_url": "http://spidermedia.ru/news/chudo-zhenshchinu-snimet-zhenshchina",
   "archived": "https://web.archive.org/web/20260121004145/http://spidermedia.ru/news/chudo-zhenshchinu-snimet-zhenshchina",
   "tags": [
     "wonder-woman",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150424150736im_/http://spidermedia.ru/assets/images/import_image/8284.jpg",
+  "modx_id": 8284,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

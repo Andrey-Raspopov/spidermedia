@@ -1,7 +1,10 @@
 {
   "title": "Художник Флэша и Темнейшая Ночь",
-  "date": "2009-09-09T07:58:00+03:00",
+  "date": "2009-09-09T06:58:25+03:00",
   "url": "/news/hudozhnik-flesha-i-temneyshaya-noch/",
+  "aliases": [
+    "/node/1884/"
+  ],
   "original_url": "https://spidermedia.ru/news/hudozhnik-flesha-i-temneyshaya-noch",
   "archived": "https://web.archive.org/web/20251216183617/https://spidermedia.ru/news/hudozhnik-flesha-i-temneyshaya-noch",
   "tags": [
@@ -12,13 +15,20 @@
     "francis-manapul",
     "the-flash",
     "batman",
-    "green-lantern"
+    "green-lantern",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20251216183617im_/http://spidermedia.ru/assets/images/import_image/1884.jpg",
+  "modx_id": 1884,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](https://web.archive.org/web/20251216183617im_/http://i707.photobucket.com/albums/ww79/Alex_spidermedia/media/th_the_flash_by_MBirkhofer.jpg)](http://i707.photobucket.com/albums/ww79/Alex_spidermedia/media/the_flash_by_MBirkhofer.jpg) Не так давно, [в конце июля](../../node/1692/), мы обрадовали фанатов алого спидстера тем, что **Джефф Джонс** *(Geoff Johns)* останется на серии и после окончания **"Возрождения"** *(Flash: Rebirth)*, и после **"Темнейшей Ночи"** *(BN: Flash)*? Нет, ничего не изменилось, напротив - стало известно имя художника первого арка **“The Dastardly Death of the Rogues!”** - им станет **Фрэнсис Манапуль** *(Francis Manapul)*. В январе они с Джонсом уйдут с серии **Adventures Comics** после 6 номеров из-под их пера и пересядут на сверхзвуковой поезд по имени "Флэш". Пока нет ни артов, ни обложек (то что вы видите, лишь старый скетч Фрэнсиса с фанатской покраской с девианта), но мы, разумеется, будем держать вас в курсе событий. И, раз уж вы здесь, то пользуясь случаем представляем вам два превью под грифом "Темнейшая Ночь" - 2 номер мини-серии **BN: Batman** и 40 выпуск серии **Green Lantern Corps**. Оба они появятся в продаже уже завтра - 10 сентября.
+[![](https://web.archive.org/web/20251216183617im_/http://i707.photobucket.com/albums/ww79/Alex_spidermedia/media/th_the_flash_by_MBirkhofer.jpg)](http://i707.photobucket.com/albums/ww79/Alex_spidermedia/media/the_flash_by_MBirkhofer.jpg) Не так давно, [в конце июля](../kto-bezhit-vse-begut/), мы обрадовали фанатов алого спидстера тем, что **Джефф Джонс** *(Geoff Johns)* останется на серии и после окончания **"Возрождения"** *(Flash: Rebirth)*, и после **"Темнейшей Ночи"** *(BN: Flash)*? Нет, ничего не изменилось, напротив - стало известно имя художника первого арка **“The Dastardly Death of the Rogues!”** - им станет **Фрэнсис Манапуль** *(Francis Manapul)*. В январе они с Джонсом уйдут с серии **Adventures Comics** после 6 номеров из-под их пера и пересядут на сверхзвуковой поезд по имени "Флэш". Пока нет ни артов, ни обложек (то что вы видите, лишь старый скетч Фрэнсиса с фанатской покраской с девианта), но мы, разумеется, будем держать вас в курсе событий. И, раз уж вы здесь, то пользуясь случаем представляем вам два превью под грифом "Темнейшая Ночь" - 2 номер мини-серии **BN: Batman** и 40 выпуск серии **Green Lantern Corps**. Оба они появятся в продаже уже завтра - 10 сентября.
 
 [![Photobucket](https://web.archive.org/web/20251216183617im_/http://i707.photobucket.com/albums/ww79/Alex_spidermedia/media/th_blackest-night-batman-2009090801-5.jpg)](http://s707.photobucket.com/albums/ww79/Alex_spidermedia/media/blackest-night-batman-2009090801-5.jpg) [![Photobucket](https://web.archive.org/web/20251216183617im_/http://i707.photobucket.com/albums/ww79/Alex_spidermedia/media/th_blackest-night-batman-2009090801-4.jpg)](http://s707.photobucket.com/albums/ww79/Alex_spidermedia/media/blackest-night-batman-2009090801-4.jpg) [![Photobucket](https://web.archive.org/web/20251216183617im_/http://i707.photobucket.com/albums/ww79/Alex_spidermedia/media/th_green-lantern-corps-vol-2-200909-1.jpg)](http://s707.photobucket.com/albums/ww79/Alex_spidermedia/media/green-lantern-corps-vol-2-200909-1.jpg) [![Photobucket](https://web.archive.org/web/20251216183617im_/http://i707.photobucket.com/albums/ww79/Alex_spidermedia/media/th_green-lantern-corps-vol-2-200909080.jpg)](http://s707.photobucket.com/albums/ww79/Alex_spidermedia/media/green-lantern-corps-vol-2-200909080.jpg)
 

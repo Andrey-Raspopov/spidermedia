@@ -1,7 +1,10 @@
 {
   "title": "They lost. He won.",
-  "date": "2009-02-21T11:31:00+03:00",
+  "date": "2009-02-21T11:31:27+03:00",
   "url": "/news/they-lost-he-won/",
+  "aliases": [
+    "/node/472/"
+  ],
   "original_url": "http://spidermedia.ru/news/they-lost-he-won",
   "archived": "https://web.archive.org/web/20260117224256/http://spidermedia.ru/news/they-lost-he-won",
   "tags": [
@@ -19,7 +22,17 @@
     "zelyonyj-goblin",
     "emma-frost",
     "captain-america",
-    "spider-man"
+    "spider-man",
+    "art",
+    "lyudi-iks",
+    "tor",
+    "zheleznyy-chelovek"
+  ],
+  "cover": "https://web.archive.org/web/20260117224256im_/http://spidermedia.ru/assets/images/import_image/472.jpg",
+  "modx_id": 472,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

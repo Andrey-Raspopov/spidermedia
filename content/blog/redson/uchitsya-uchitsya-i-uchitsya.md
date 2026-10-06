@@ -1,12 +1,22 @@
 {
   "title": "Учиться, учиться и учиться",
-  "date": "2009-09-14T16:02:00+03:00",
+  "date": "2009-09-14T15:02:36+03:00",
   "url": "/blog/redson/uchitsya-uchitsya-i-uchitsya/",
+  "aliases": [
+    "/node/1890/"
+  ],
   "original_url": "http://spidermedia.ru/blog/redson/uchitsya-uchitsya-i-uchitsya",
   "archived": "https://web.archive.org/web/20120607154806/http://spidermedia.ru/blog/redson/uchitsya-uchitsya-i-uchitsya",
   "tags": [
     "vneshniy-mir",
-    "komiksy"
+    "komiksy",
+    "vneshnij-mir"
+  ],
+  "cover": "https://web.archive.org/web/20120607154806im_/http://spidermedia.ru/assets/images/import_image/1890.jpg",
+  "modx_id": 1890,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

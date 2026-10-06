@@ -1,7 +1,10 @@
 {
   "title": "Dark X-men: Релизы, скетчи, превью",
-  "date": "2009-06-08T10:44:00+03:00",
+  "date": "2009-06-08T09:44:13+03:00",
   "url": "/news/dark-x-men-relizy-sketchi-prevyu/",
+  "aliases": [
+    "/node/1316/"
+  ],
   "original_url": "https://spidermedia.ru/news/dark-x-men-relizy-sketchi-prevyu",
   "archived": "https://web.archive.org/web/20251106232132/https://spidermedia.ru/news/dark-x-men-relizy-sketchi-prevyu",
   "tags": [
@@ -9,7 +12,16 @@
     "marvel",
     "avengers",
     "utopia",
-    "legacy"
+    "legacy",
+    "lyudi-iks",
+    "dark-avengers",
+    "uncanny-x-men",
+    "tyomnye-lyudi-iks"
+  ],
+  "modx_id": 1316,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

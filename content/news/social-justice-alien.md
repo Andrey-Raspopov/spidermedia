@@ -1,9 +1,14 @@
 {
   "title": "Нил Бломкамп снимет нового \"Чужого\"",
-  "date": "2015-02-19T08:35:00+03:00",
+  "date": "2015-02-19T08:35:07+03:00",
   "url": "/news/social-justice-alien/",
   "original_url": "http://spidermedia.ru/news/social-justice-alien",
   "archived": "https://web.archive.org/web/20260208211119/http://spidermedia.ru/news/social-justice-alien",
+  "modx_id": 8634,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

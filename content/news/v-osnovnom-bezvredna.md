@@ -1,6 +1,6 @@
 {
   "title": "В основном безвредна",
-  "date": "2011-06-11T13:28:00+03:00",
+  "date": "2011-06-11T12:28:43+03:00",
   "url": "/news/v-osnovnom-bezvredna/",
   "original_url": "http://spidermedia.ru/news/v-osnovnom-bezvredna",
   "archived": "https://web.archive.org/web/20260314083323/http://spidermedia.ru/news/v-osnovnom-bezvredna",
@@ -13,6 +13,12 @@
     "rocket-racoon",
     "groot",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20260314083323im_/http://spidermedia.ru/assets/images/import_image/6442.jpg",
+  "modx_id": 6442,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

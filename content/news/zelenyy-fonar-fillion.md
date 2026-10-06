@@ -1,6 +1,6 @@
 {
   "title": "Зеленый Фонарь Филлион",
-  "date": "2011-02-08T19:08:00+03:00",
+  "date": "2011-02-08T19:08:01+03:00",
   "url": "/news/zelenyy-fonar-fillion/",
   "original_url": "http://spidermedia.ru/news/zelenyy-fonar-fillion",
   "archived": "https://web.archive.org/web/20251108041755/http://spidermedia.ru/news/zelenyy-fonar-fillion",
@@ -10,6 +10,12 @@
     "animaciya",
     "dc-comics",
     "green-lantern"
+  ],
+  "cover": "https://web.archive.org/web/20251108041755im_/http://spidermedia.ru/assets/images/import_image/3253.jpg",
+  "modx_id": 3253,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

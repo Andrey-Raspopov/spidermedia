@@ -1,13 +1,24 @@
 {
   "title": "Кевин Файги отвечает",
-  "date": "2010-01-27T18:06:00+03:00",
+  "date": "2010-01-27T18:06:12+03:00",
   "url": "/news/kevin-faygi-otvechaet/",
+  "aliases": [
+    "/node/2310/"
+  ],
   "original_url": "https://spidermedia.ru/news/kevin-faygi-otvechaet",
   "archived": "https://web.archive.org/web/20251112161733/https://spidermedia.ru/news/kevin-faygi-otvechaet",
   "tags": [
     "thor",
     "iron-man",
-    "avengers"
+    "avengers",
+    "tor",
+    "zheleznyy-chelovek"
+  ],
+  "cover": "https://web.archive.org/web/20251112161733im_/http://spidermedia.ru/assets/images/import_image/2310.jpg",
+  "modx_id": 2310,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

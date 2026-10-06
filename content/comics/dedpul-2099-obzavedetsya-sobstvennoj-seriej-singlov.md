@@ -8,6 +8,12 @@
     "marvel",
     "deadpool"
   ],
+  "cover": "https://web.archive.org/web/20160611142206im_/http://spidermedia.ru/assets/images/news/images/1_comics/marvel/deadpool-2099/dp-6-7b1da.jpg",
+  "modx_id": 100856,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

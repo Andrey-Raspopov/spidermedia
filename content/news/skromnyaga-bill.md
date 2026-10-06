@@ -1,14 +1,24 @@
 {
   "title": "Скромняга Билл",
-  "date": "2009-03-26T14:58:00+03:00",
+  "date": "2009-03-26T13:58:44+03:00",
   "url": "/news/skromnyaga-bill/",
+  "aliases": [
+    "/node/775/"
+  ],
   "original_url": "http://spidermedia.ru/news/skromnyaga-bill",
   "archived": "https://web.archive.org/web/20120512051907/http://spidermedia.ru/news/skromnyaga-bill",
   "tags": [
     "beta-ray-bill",
     "kiron-gillen",
     "komiksy",
-    "marvel"
+    "marvel",
+    "beta-rej-bill"
+  ],
+  "cover": "https://web.archive.org/web/20120512051907im_/http://spidermedia.ru/assets/images/import_image/775.jpg",
+  "modx_id": 775,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

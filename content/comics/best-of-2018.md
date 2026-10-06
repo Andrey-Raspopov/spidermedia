@@ -4,6 +4,12 @@
   "url": "/comics/best-of-2018/",
   "original_url": "http://spidermedia.ru/comics/best-of-2018",
   "archived": "https://web.archive.org/web/20200125222300/http://spidermedia.ru:80/comics/best-of-2018",
+  "cover": "https://web.archive.org/web/20200125222300im_/http://spidermedia.ru/assets/images/itogi2018/itogi-godaoblo.jpg",
+  "modx_id": 102066,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

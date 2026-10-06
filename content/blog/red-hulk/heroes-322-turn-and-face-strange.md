@@ -1,13 +1,22 @@
 {
   "title": "Heroes 3.22 Turn and Face the Strange",
-  "date": "2009-04-14T03:21:00+03:00",
+  "date": "2009-04-14T02:21:56+03:00",
   "url": "/blog/red-hulk/heroes-322-turn-and-face-strange/",
+  "aliases": [
+    "/node/928/"
+  ],
   "original_url": "http://spidermedia.ru/blog/red-hulk/heroes-322-turn-and-face-strange",
   "archived": "https://web.archive.org/web/20150507231410/http://spidermedia.ru/blog/red-hulk/heroes-322-turn-and-face-strange",
   "tags": [
     "mnenie",
     "heroes",
-    "serialy"
+    "serialy",
+    "tv"
+  ],
+  "modx_id": 928,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

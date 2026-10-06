@@ -1,6 +1,6 @@
 {
   "title": "haha they actually read comics",
-  "date": "2011-02-27T18:36:00+03:00",
+  "date": "2011-02-27T17:36:53+03:00",
   "url": "/blog/plane-v/haha-they-actually-read-comics/",
   "original_url": "http://spidermedia.ru/blog/plane-v/haha-they-actually-read-comics",
   "archived": "https://web.archive.org/web/20140812062349/http://spidermedia.ru:80/blog/plane-v/haha-they-actually-read-comics",
@@ -8,6 +8,12 @@
     "comics",
     "kritika",
     "ssylki"
+  ],
+  "cover": "https://web.archive.org/web/20140812062349im_/http://spidermedia.ru/assets/images/import_image/3756.jpg",
+  "modx_id": 3756,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

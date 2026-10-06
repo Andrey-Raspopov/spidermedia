@@ -1,6 +1,6 @@
 {
   "title": "МЖДЗ SPECIAL: A DARING ONE",
-  "date": "2011-07-24T19:08:00+03:00",
+  "date": "2011-07-24T18:08:20+03:00",
   "url": "/blog/plane-v/mzhdz-special-daring-one/",
   "original_url": "http://spidermedia.ru/blog/plane-v/mzhdz-special-daring-one",
   "archived": "https://web.archive.org/web/20251117012016/http://spidermedia.ru/blog/plane-v/mzhdz-special-daring-one",
@@ -8,6 +8,12 @@
     "mnenie",
     "mzhdz",
     "daredevil"
+  ],
+  "cover": "https://web.archive.org/web/20160716032630im_/http://spidermedia.ru/assets/images/import_image/6528.png",
+  "modx_id": 6528,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

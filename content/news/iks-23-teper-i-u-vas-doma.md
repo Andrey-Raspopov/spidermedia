@@ -1,12 +1,21 @@
 {
   "title": "Икс-23 - теперь и у вас дома",
-  "date": "2009-01-31T15:48:00+03:00",
+  "date": "2009-01-31T15:48:39+03:00",
   "url": "/news/iks-23-teper-i-u-vas-doma/",
+  "aliases": [
+    "/node/37/"
+  ],
   "original_url": "https://spidermedia.ru/news/iks-23-teper-i-u-vas-doma",
   "archived": "https://web.archive.org/web/20250906072238/https://spidermedia.ru/news/iks-23-teper-i-u-vas-doma",
   "tags": [
     "marvel",
     "x-23"
+  ],
+  "cover": "https://web.archive.org/web/20221016173548im_/http://spidermedia.ru/assets/images/toys/sideshow/x23.jpg",
+  "modx_id": 37,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

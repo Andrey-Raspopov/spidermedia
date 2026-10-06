@@ -1,6 +1,6 @@
 {
   "title": "26 HR-кадров из фильма \"Люди Икс: Первый класс\"",
-  "date": "2011-05-20T22:22:00+03:00",
+  "date": "2011-05-20T21:22:27+03:00",
   "url": "/news/26-hr-kadrov-iz-filma-lyudi-iks-pervyy-klass/",
   "original_url": "http://spidermedia.ru/news/26-hr-kadrov-iz-filma-lyudi-iks-pervyy-klass",
   "archived": "https://web.archive.org/web/20260125064421/http://spidermedia.ru/news/26-hr-kadrov-iz-filma-lyudi-iks-pervyy-klass",
@@ -8,6 +8,12 @@
     "marvel",
     "lyudi-iks-pervyj-klass",
     "x-men-first-class"
+  ],
+  "cover": "https://web.archive.org/web/20260125064421im_/http://spidermedia.ru/assets/images/import_image/5887.jpg",
+  "modx_id": 5887,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

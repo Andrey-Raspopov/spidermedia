@@ -1,7 +1,10 @@
 {
   "title": "Самые Темные новости с Комик Кона 2009",
-  "date": "2009-02-07T06:21:00+03:00",
+  "date": "2009-02-07T06:21:59+03:00",
   "url": "/news/samye-temnye-novosti-s-komik-kona-2009/",
+  "aliases": [
+    "/node/248/"
+  ],
   "original_url": "http://spidermedia.ru/news/samye-temnye-novosti-s-komik-kona-2009",
   "archived": "https://web.archive.org/web/20260214141559/http://spidermedia.ru/news/samye-temnye-novosti-s-komik-kona-2009",
   "tags": [
@@ -16,7 +19,14 @@
     "avengers",
     "bullseye",
     "spider-man",
-    "agenty-atlasa"
+    "agenty-atlasa",
+    "tor",
+    "zheleznyy-chelovek"
+  ],
+  "modx_id": 248,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

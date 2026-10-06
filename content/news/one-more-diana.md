@@ -1,14 +1,24 @@
 {
   "title": "One More Diana",
-  "date": "2010-06-30T10:26:00+03:00",
+  "date": "2010-06-30T09:26:46+03:00",
   "url": "/news/one-more-diana/",
+  "aliases": [
+    "/node/2700/"
+  ],
   "original_url": "http://spidermedia.ru/news/one-more-diana",
   "archived": "https://web.archive.org/web/20251208063207/http://spidermedia.ru/news/one-more-diana",
   "tags": [
     "wonder-woman",
     "don-kramer",
     "jim-lee",
-    "j-michael-straczynski"
+    "j-michael-straczynski",
+    "dzhej-majkl-strazhinski"
+  ],
+  "cover": "https://web.archive.org/web/20150424175148im_/http://spidermedia.ru/assets/images/import_image/2700.jpg",
+  "modx_id": 2700,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

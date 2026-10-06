@@ -1,12 +1,18 @@
 {
   "title": "Hellboymedia #03: Abe Sapien — Visions, Dreams, and Fishin’",
-  "date": "2014-07-14T16:47:00+03:00",
+  "date": "2014-07-14T15:47:49+03:00",
   "url": "/blog/shargor/hellboymedia-03-abe-sapien-visions-dreams-and-fishin/",
   "original_url": "http://spidermedia.ru/blog/shargor/hellboymedia-03-abe-sapien-visions-dreams-and-fishin",
   "archived": "https://web.archive.org/web/20260115043733/http://spidermedia.ru/blog/shargor/hellboymedia-03-abe-sapien-visions-dreams-and-fishin",
   "tags": [
     "hellboymedia",
     "mnenie"
+  ],
+  "cover": "https://web.archive.org/web/20160611150332im_/http://spidermedia.ru/assets/images/hellboymedia/regular/03-abe-sapien-visions-dreams-and-fishin/abe-sapien-visions-dreams-and-fishin-cover.jpg",
+  "modx_id": 7884,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

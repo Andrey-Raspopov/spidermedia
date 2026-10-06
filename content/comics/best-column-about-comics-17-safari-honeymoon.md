@@ -8,6 +8,12 @@
     "best-column-about-comics",
     "mnenie"
   ],
+  "cover": "https://web.archive.org/web/20170725122104im_/http://spidermedia.ru/assets/images/best-column-about-comics/17-safari-honeymoon/safari-honeymoon-cover.jpg",
+  "modx_id": 101551,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

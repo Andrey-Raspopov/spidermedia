@@ -1,6 +1,6 @@
 {
   "title": "Daredevil прощается с вами",
-  "date": "2013-10-26T12:18:00+03:00",
+  "date": "2013-10-26T11:18:09+03:00",
   "url": "/news/daredevil-proshchaetsya-s-vami/",
   "original_url": "http://spidermedia.ru/news/daredevil-proshchaetsya-s-vami",
   "archived": "https://web.archive.org/web/20251216113711/http://spidermedia.ru/news/daredevil-proshchaetsya-s-vami",
@@ -9,6 +9,12 @@
     "marvel",
     "mark-waid",
     "chris-samnee"
+  ],
+  "cover": "https://web.archive.org/web/20150428232549im_/http://spidermedia.ru/assets/images/import_image/7514.jpeg",
+  "modx_id": 7514,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

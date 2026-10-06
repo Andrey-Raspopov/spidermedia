@@ -1,6 +1,6 @@
 {
   "title": "SDCC'10: Green Lantern",
-  "date": "2010-07-25T10:00:00+03:00",
+  "date": "2010-07-25T09:00:46+03:00",
   "url": "/news/sdcc10-green-lantern/",
   "original_url": "http://spidermedia.ru/news/sdcc10-green-lantern",
   "archived": "https://web.archive.org/web/20120607123709/http://spidermedia.ru/news/sdcc10-green-lantern",
@@ -14,7 +14,14 @@
     "zelenyy-fonar",
     "komik-kon-v-san-diego",
     "komiksy",
-    "korpus-zelenyh-fonarey"
+    "korpus-zelenyh-fonarey",
+    "san-diego-comic-con-international"
+  ],
+  "cover": "https://web.archive.org/web/20120607123709im_/http://spidermedia.ru/assets/images/import_image/2794.png",
+  "modx_id": 2794,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

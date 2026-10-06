@@ -1,7 +1,10 @@
 {
   "title": "Мстители против Громовержцев",
-  "date": "2010-08-04T19:37:00+03:00",
+  "date": "2010-08-04T18:37:09+03:00",
   "url": "/news/mstiteli-protiv-gromoverzhcev/",
+  "aliases": [
+    "/node/2832/"
+  ],
   "original_url": "http://spidermedia.ru/news/mstiteli-protiv-gromoverzhcev",
   "archived": "https://web.archive.org/web/20251107004127/http://spidermedia.ru/news/mstiteli-protiv-gromoverzhcev",
   "tags": [
@@ -9,7 +12,14 @@
     "preview",
     "thunderbolts",
     "marvel",
-    "avengers"
+    "avengers",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20251107004127im_/http://spidermedia.ru/assets/images/import_image/2832.jpg",
+  "modx_id": 2832,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

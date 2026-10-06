@@ -1,13 +1,21 @@
 {
   "title": "...LET'S EAT!1",
-  "date": "2009-04-16T02:10:00+03:00",
+  "date": "2009-04-16T01:10:27+03:00",
   "url": "/blog/silver/lets-eat1/",
+  "aliases": [
+    "/node/948/"
+  ],
   "original_url": "http://spidermedia.ru/blog/silver/lets-eat1",
   "archived": "https://web.archive.org/web/20120608025908/http://spidermedia.ru/blog/silver/lets-eat1",
   "tags": [
     "marvel-zombies",
     "komiksy",
     "marvel"
+  ],
+  "modx_id": 948,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

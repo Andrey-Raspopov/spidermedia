@@ -1,11 +1,20 @@
 {
   "title": "Стань Железным Человеком",
-  "date": "2010-05-12T19:36:00+03:00",
+  "date": "2010-05-12T18:36:36+03:00",
   "url": "/blog/zipop/stan-zheleznym-chelovekom/",
+  "aliases": [
+    "/node/2621/"
+  ],
   "original_url": "http://spidermedia.ru/blog/zipop/stan-zheleznym-chelovekom",
   "archived": "https://web.archive.org/web/20250913005501/http://spidermedia.ru/blog/zipop/stan-zheleznym-chelovekom",
   "tags": [
-    "iron-man"
+    "iron-man",
+    "zheleznyy-chelovek"
+  ],
+  "modx_id": 2621,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

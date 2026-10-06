@@ -9,6 +9,9 @@
     "komiksy",
     "uorren-ellis"
   ],
+  "sources": [
+    "archive"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

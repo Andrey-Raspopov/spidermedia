@@ -8,7 +8,14 @@
     "dc-comics",
     "idw-publishing",
     "san-diego-comic-con-international",
-    "batman"
+    "batman",
+    "sdcc2015"
+  ],
+  "cover": "https://web.archive.org/web/20180205115128im_/http://spidermedia.ru/assets/images/news/sdcc/2015/idw/batman-tmnt-01.jpg",
+  "modx_id": 100352,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

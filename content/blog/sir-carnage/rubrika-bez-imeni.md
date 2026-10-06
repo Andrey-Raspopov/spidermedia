@@ -1,7 +1,10 @@
 {
   "title": "Рубрика без имени",
-  "date": "2009-02-08T07:42:00+03:00",
+  "date": "2009-02-08T07:42:51+03:00",
   "url": "/blog/sir-carnage/rubrika-bez-imeni/",
+  "aliases": [
+    "/node/269/"
+  ],
   "original_url": "https://spidermedia.ru/blog/sir-carnage/rubrika-bez-imeni",
   "archived": "https://web.archive.org/web/20260123084831/https://spidermedia.ru/blog/sir-carnage/rubrika-bez-imeni",
   "tags": [
@@ -21,7 +24,14 @@
     "final-crisis",
     "deadshot",
     "dc-comics",
-    "the-column-with-no-name"
+    "the-column-with-no-name",
+    "zheleznyy-chelovek"
+  ],
+  "cover": "https://web.archive.org/web/20260123084831im_/http://spidermedia.ru/assets/images/import_image/269.jpg",
+  "modx_id": 269,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

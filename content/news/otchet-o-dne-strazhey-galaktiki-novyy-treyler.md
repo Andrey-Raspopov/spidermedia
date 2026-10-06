@@ -1,12 +1,18 @@
 {
   "title": "Отчет о дне \"Стражей галактики\" + Новый трейлер",
-  "date": "2014-07-08T17:26:00+03:00",
+  "date": "2014-07-08T16:26:38+03:00",
   "url": "/news/otchet-o-dne-strazhey-galaktiki-novyy-treyler/",
   "original_url": "https://spidermedia.ru/news/otchet-o-dne-strazhey-galaktiki-novyy-treyler",
   "archived": "https://web.archive.org/web/20251205112231/https://spidermedia.ru/news/otchet-o-dne-strazhey-galaktiki-novyy-treyler",
   "tags": [
     "guardians-of-the-galaxy",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20251205112231im_/http://spidermedia.ru/assets/images/import_image/7864.jpg",
+  "modx_id": 7864,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

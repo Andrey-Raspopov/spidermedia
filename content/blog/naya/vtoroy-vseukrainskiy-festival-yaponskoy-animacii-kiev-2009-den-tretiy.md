@@ -1,11 +1,16 @@
 {
   "title": "Второй всеукраинский фестиваль японской анимации Киев 2009: День третий",
-  "date": "2009-10-05T00:01:00+03:00",
+  "date": "2009-10-04T23:01:41+03:00",
   "url": "/blog/naya/vtoroy-vseukrainskiy-festival-yaponskoy-animacii-kiev-2009-den-tretiy/",
   "original_url": "http://spidermedia.ru/blog/naya/vtoroy-vseukrainskiy-festival-yaponskoy-animacii-kiev-2009-den-tretiy",
   "archived": "https://web.archive.org/web/20111018122936/http://spidermedia.ru/blog/naya/vtoroy-vseukrainskiy-festival-yaponskoy-animacii-kiev-2009-den-tretiy",
   "tags": [
     "festival-0"
+  ],
+  "modx_id": 1969,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

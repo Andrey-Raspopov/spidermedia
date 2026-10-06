@@ -1,7 +1,10 @@
 {
   "title": "Немного Смоллвиля",
-  "date": "2009-10-31T19:56:00+03:00",
+  "date": "2009-10-31T19:56:27+03:00",
   "url": "/blog/alex/nemnogo-smollvilya/",
+  "aliases": [
+    "/node/2044/"
+  ],
   "original_url": "https://spidermedia.ru/blog/alex/nemnogo-smollvilya",
   "archived": "https://web.archive.org/web/20260120164759/https://spidermedia.ru/blog/alex/nemnogo-smollvilya",
   "tags": [
@@ -9,7 +12,14 @@
     "smollvill",
     "superman",
     "tajny-smollvillya",
-    "serialy"
+    "serialy",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20260120164759im_/http://spidermedia.ru/assets/images/import_image/2044.jpg",
+  "modx_id": 2044,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

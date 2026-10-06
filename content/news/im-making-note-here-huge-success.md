@@ -1,6 +1,6 @@
 {
   "title": "I'm making a note here: \"Huge success\"",
-  "date": "2013-04-17T06:09:00+03:00",
+  "date": "2013-04-17T05:09:03+03:00",
   "url": "/news/im-making-note-here-huge-success/",
   "original_url": "https://spidermedia.ru/news/im-making-note-here-huge-success",
   "archived": "https://web.archive.org/web/20260313121142/https://spidermedia.ru/news/im-making-note-here-huge-success",
@@ -8,6 +8,12 @@
     "greg-pak",
     "takeshi-miyadzava",
     "dzhonatan-kolton"
+  ],
+  "cover": "https://web.archive.org/web/20260313121142im_/http://spidermedia.ru/assets/images/import_image/7207.jpg",
+  "modx_id": 7207,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

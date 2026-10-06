@@ -1,12 +1,18 @@
 {
   "title": "Отрывок + Трейлер сериала \"Стрела\" (обновлено)",
-  "date": "2012-05-18T10:01:00+03:00",
+  "date": "2012-05-18T09:01:02+03:00",
   "url": "/news/novyy-kadr-iz-seriala-strela/",
   "original_url": "http://spidermedia.ru/news/novyy-kadr-iz-seriala-strela",
   "archived": "https://web.archive.org/web/20250920200844/http://spidermedia.ru/news/novyy-kadr-iz-seriala-strela",
   "tags": [
     "dc-comics",
     "green-arrow"
+  ],
+  "cover": "https://web.archive.org/web/20150503095821im_/http://spidermedia.ru/assets/images/import_image/6900.jpg",
+  "modx_id": 6900,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

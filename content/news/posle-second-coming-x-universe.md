@@ -1,7 +1,10 @@
 {
   "title": "После Second Coming: X-Universe",
-  "date": "2010-05-18T11:41:00+03:00",
+  "date": "2010-05-18T10:41:35+03:00",
   "url": "/news/posle-second-coming-x-universe/",
+  "aliases": [
+    "/node/2625/"
+  ],
   "original_url": "http://spidermedia.ru/news/posle-second-coming-x-universe",
   "archived": "https://web.archive.org/web/20251205124413/http://spidermedia.ru/news/posle-second-coming-x-universe",
   "tags": [
@@ -9,7 +12,14 @@
     "daken",
     "x-men",
     "new-mutants-forever",
-    "marvel"
+    "marvel",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20251205124413im_/http://spidermedia.ru/assets/images/import_image/2625.jpg",
+  "modx_id": 2625,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
@@ -25,7 +35,7 @@
 - После **SC** состав основных героев **Uncanny X-Men** сократится и комикс будет более командно-ориентированным, в противовес тому, чем он был до начала **Второго Пришествия**. Кроме того, в серии появятся новые герои, чей статус будет ключевым – их стоит ждать в районе **Uncanny #530**.
 - Первый арк **Uncanny** после окончания **SC** будет называться **The Five Lights**. Кроме кругосветного путешествия, он будет сконцентрирован на **Китти Прайд** *(Kitty Pryde )*, **Себастьяне Шоу** *(Sebastian Shaw)*, а так же должен повлиять на отношения **Эммы Фрост** *(Emma Frost)* и **Нэмора** *(Namor)*.
 [![](https://web.archive.org/web/20251205124413im_/http://img.photobucket.com/albums/v499/sp888/138_X_MEN_LEGACY_238.jpg)](http://www.comicbookresources.com/images/solicits/marvelcomics/201007/138_X_MEN_LEGACY_238.jpg) [![](https://web.archive.org/web/20251205124413im_/http://www.comicbookresources.com/assets/thumbnail.php?file=/assets/images/articles/1272918882.jpg&w=200)](http://www.comicbookresources.com/assets/images/articles/1272918882.jpg) [![](https://web.archive.org/web/20251205124413im_/http://img.photobucket.com/albums/v499/sp888/118_UNCANNY_X_MEN_526.jpg)](http://www.comicbookresources.com/images/solicits/marvelcomics/201007/118_UNCANNY_X_MEN_526.jpg) [![](https://web.archive.org/web/20251205124413im_/http://img.photobucket.com/albums/v499/sp888/116_UNCANNY_X_MEN_527.jpg)](http://www.comicbookresources.com/images/solicits/marvelcomics/201008-advance/116_UNCANNY_X_MEN_527.jpg)
-Обложка и страница превью для **X-Men Legacy #238**, а так же обложка **Uncanny X-Men #526 & #527**- После событий **Second Coming** команда **Людей Икс** *(X-Men)* будет куда больше, нежели ранее интегрирована в общую **Вселенную Marvel**. Кстати именно с этим связаны [недавние тизеры](../../node/2545/).
+Обложка и страница превью для **X-Men Legacy #238**, а так же обложка **Uncanny X-Men #526 & #527**- После событий **Second Coming** команда **Людей Икс** *(X-Men)* будет куда больше, нежели ранее интегрирована в общую **Вселенную Marvel**. Кстати именно с этим связаны [недавние тизеры](../second-coming-chto-dalshe/).
 - Когда начнется **Эра Героев** *(Heroic Age)*, сообщество мутантов получит сразу две базы, так как несмотря на то, что герои вернутся в **Греймалкин Индастриз** *(Greymalkin Industries)*, **Утопия** *(Utopia)* продолжит существовать и так же будет выступать как база операций. Кстати стоит ждать уан-шот, посвященный **Эре Героев** и реакции мутантов на окончание **Темного Правления** *(Dark Reign)*. В нем мы увидим **Фантастическую Четверку** *(Fantastic Four)*, **Молли** *(Molly)* из **Беглецов** *(Runaways)*, **Капитана Америку** *(Captain America)*, а в **Uncanny #527** появится **железный Человек** *(Iron Man)*.
 - Обновление роли **Псайлок** *(Psylocke)* на страницах в комиксах о **Людях Икс**, которому **Мэтт Фракшен** *(Matt Fraction)* положил начало в арке **Sisterhood** продолжится.
 - Смерть **Найткраулера** *(Nightcrawler)* окажет неизгладимое влияние на **Надежду** *(Hope)* и на то, как её будут воспринимать другие персонажи комиксов о **Людях Икс**, даже после окончания **Second Coming**.

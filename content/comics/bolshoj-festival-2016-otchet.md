@@ -4,6 +4,12 @@
   "url": "/comics/bolshoj-festival-2016-otchet/",
   "original_url": "http://spidermedia.ru/comics/bolshoj-festival-2016-otchet",
   "archived": "https://web.archive.org/web/20250123214901/http://spidermedia.ru/comics/bolshoj-festival-2016-otchet",
+  "cover": "https://web.archive.org/web/20201026072735im_/http://spidermedia.ru/assets/images/bigfest/2016/otchet/1.jpg",
+  "modx_id": 101101,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

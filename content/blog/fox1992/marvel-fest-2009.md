@@ -1,13 +1,21 @@
 {
   "title": "Marvel Fest 2009",
-  "date": "2009-11-02T19:16:00+03:00",
+  "date": "2009-11-02T19:16:31+03:00",
   "url": "/blog/fox1992/marvel-fest-2009/",
+  "aliases": [
+    "/node/2051/"
+  ],
   "original_url": "https://spidermedia.ru/blog/fox1992/marvel-fest-2009",
   "archived": "https://web.archive.org/web/20240720155236/https://spidermedia.ru/blog/fox1992/marvel-fest-2009",
   "tags": [
     "motion-comics",
     "marvel",
     "x-men"
+  ],
+  "modx_id": 2051,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

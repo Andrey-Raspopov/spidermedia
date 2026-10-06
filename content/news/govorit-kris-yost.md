@@ -1,7 +1,10 @@
 {
   "title": "Говорит Крис Йост...",
-  "date": "2009-04-17T00:34:00+03:00",
+  "date": "2009-04-16T23:34:25+03:00",
   "url": "/news/govorit-kris-yost/",
+  "aliases": [
+    "/node/968/"
+  ],
   "original_url": "http://spidermedia.ru/news/govorit-kris-yost",
   "archived": "https://web.archive.org/web/20260314082017/http://spidermedia.ru/news/govorit-kris-yost",
   "tags": [
@@ -11,6 +14,12 @@
     "intervyu",
     "chris-yost",
     "kristofer-jost"
+  ],
+  "cover": "https://web.archive.org/web/20260314082017im_/http://spidermedia.ru/assets/images/import_image/968.jpg",
+  "modx_id": 968,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
@@ -29,4 +38,4 @@
 - В серии появятся, как старые враги Бэтмена, так и новые враги Красного Робина.
 - Серия будет непосредственно связана с онгоингом **Бэтмен и Робин** (*Batman & Robin*)
 
-На этом и окончим наш парад новостей. Напомним, что **1** номер серии Красный Робин выходит **10 июня** с обложкой от **Френсиса Манапуля** (*Francis Manapul*) и альтернативной обложкой от **Джей Джи Джонса** (*J. G. Johns*). Вы также можете посмотреть [превью](../../node/941/), которое мы выкладывали ранее.
+На этом и окончим наш парад новостей. Напомним, что **1** номер серии Красный Робин выходит **10 июня** с обложкой от **Френсиса Манапуля** (*Francis Manapul*) и альтернативной обложкой от **Джей Джи Джонса** (*J. G. Johns*). Вы также можете посмотреть [превью](../krasnyy-robin-i-drugie/), которое мы выкладывали ранее.

@@ -1,7 +1,10 @@
 {
   "title": "Больше Фонаря",
-  "date": "2010-07-16T10:03:00+03:00",
+  "date": "2010-07-16T09:03:04+03:00",
   "url": "/news/bolshe-fonarya/",
+  "aliases": [
+    "/node/2737/"
+  ],
   "original_url": "http://spidermedia.ru/news/bolshe-fonarya",
   "archived": "https://web.archive.org/web/20120607175758/http://spidermedia.ru/news/bolshe-fonarya",
   "tags": [
@@ -10,6 +13,12 @@
     "zelenyy-fonar",
     "kino",
     "foto"
+  ],
+  "cover": "https://web.archive.org/web/20120607175758im_/http://spidermedia.ru/assets/images/import_image/2737.jpg",
+  "modx_id": 2737,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

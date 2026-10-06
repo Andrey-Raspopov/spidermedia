@@ -1,6 +1,6 @@
 {
   "title": "there is a fetish scene out there",
-  "date": "2011-11-03T19:19:00+03:00",
+  "date": "2011-11-03T18:19:15+03:00",
   "url": "/blog/plane-v/there-fetish-scene-out-there/",
   "original_url": "http://spidermedia.ru/blog/plane-v/there-fetish-scene-out-there",
   "archived": "https://web.archive.org/web/20130619061257/http://spidermedia.ru/blog/plane-v/there-fetish-scene-out-there",
@@ -9,6 +9,12 @@
     "glory",
     "komiksy",
     "ross-kempbell"
+  ],
+  "cover": "https://web.archive.org/web/20130619061257im_/http://spidermedia.ru/assets/images/import_image/6684.jpg",
+  "modx_id": 6684,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

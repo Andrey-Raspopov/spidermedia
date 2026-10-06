@@ -1,6 +1,6 @@
 {
   "title": "NYCC'10: Geoff Johns+Green Lantern",
-  "date": "2010-10-10T16:14:00+03:00",
+  "date": "2010-10-10T15:14:48+03:00",
   "url": "/news/nycc10-geoff-johns-green-lantern/",
   "original_url": "http://spidermedia.ru/news/nycc10-geoff-johns-green-lantern",
   "archived": "https://web.archive.org/web/20260309183152/http://spidermedia.ru/news/nycc10-geoff-johns-green-lantern",
@@ -15,6 +15,12 @@
     "green-lantern",
     "the-flash",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20260309183152im_/http://spidermedia.ru/assets/images/import_image/2990.png",
+  "modx_id": 2990,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

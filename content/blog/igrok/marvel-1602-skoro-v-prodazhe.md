@@ -1,7 +1,10 @@
 {
   "title": "\"Marvel 1602\" скоро в продаже!",
-  "date": "2010-09-17T11:51:00+03:00",
+  "date": "2010-09-17T10:51:28+03:00",
   "url": "/blog/igrok/marvel-1602-skoro-v-prodazhe/",
+  "aliases": [
+    "/node/2922/"
+  ],
   "original_url": "http://spidermedia.ru/blog/igrok/marvel-1602-skoro-v-prodazhe",
   "archived": "https://web.archive.org/web/20260214135139/http://spidermedia.ru/blog/igrok/marvel-1602-skoro-v-prodazhe",
   "tags": [
@@ -9,6 +12,12 @@
     "neil-gaiman",
     "izdatelstvo-komiks",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20160611113921im_/http://spidermedia.ru/assets/images/import_image/2922.jpg",
+  "modx_id": 2922,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

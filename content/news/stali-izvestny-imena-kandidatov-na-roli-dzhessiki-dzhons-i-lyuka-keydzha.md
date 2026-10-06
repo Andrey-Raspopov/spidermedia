@@ -1,6 +1,6 @@
 {
   "title": "Стали известны имена кандидатов на роли Джессики Джонс и Люка Кейджа",
-  "date": "2014-11-20T08:43:00+03:00",
+  "date": "2014-11-20T08:43:51+03:00",
   "url": "/news/stali-izvestny-imena-kandidatov-na-roli-dzhessiki-dzhons-i-lyuka-keydzha/",
   "original_url": "https://spidermedia.ru/news/stali-izvestny-imena-kandidatov-na-roli-dzhessiki-dzhons-i-lyuka-keydzha",
   "archived": "https://web.archive.org/web/20251211032557/https://spidermedia.ru/news/stali-izvestny-imena-kandidatov-na-roli-dzhessiki-dzhons-i-lyuka-keydzha",
@@ -9,6 +9,12 @@
     "kasting",
     "jessica-jones-alias",
     "luke-cage"
+  ],
+  "cover": "https://web.archive.org/web/20150326202142im_/http://spidermedia.ru/assets/images/import_image/8306.jpg",
+  "modx_id": 8306,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

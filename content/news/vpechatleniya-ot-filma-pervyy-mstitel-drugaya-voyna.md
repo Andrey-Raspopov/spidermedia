@@ -1,6 +1,6 @@
 {
   "title": "Впечатления от фильма \"Первый мститель: Другая война\" + ФОТООТЧЕТ",
-  "date": "2014-03-20T21:11:00+03:00",
+  "date": "2014-03-20T20:11:48+03:00",
   "url": "/news/vpechatleniya-ot-filma-pervyy-mstitel-drugaya-voyna/",
   "original_url": "http://spidermedia.ru/news/vpechatleniya-ot-filma-pervyy-mstitel-drugaya-voyna",
   "archived": "https://web.archive.org/web/20200222012738/http://spidermedia.ru:80/news/vpechatleniya-ot-filma-pervyy-mstitel-drugaya-voyna",
@@ -8,6 +8,12 @@
     "marvel",
     "captain-america",
     "winter-soldier"
+  ],
+  "cover": "https://web.archive.org/web/20150424024807im_/http://spidermedia.ru/assets/images/import_image/7689.jpg",
+  "modx_id": 7689,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

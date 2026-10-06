@@ -5,7 +5,14 @@
   "original_url": "http://spidermedia.ru/comics/all-things-valiant-special-poryadok-chteniya-valiant-entertainment",
   "archived": "https://web.archive.org/web/20260206214448/http://spidermedia.ru/comics/all-things-valiant-special-poryadok-chteniya-valiant-entertainment",
   "tags": [
-    "valiant-entertainment"
+    "valiant-entertainment",
+    "all-things-valiant"
+  ],
+  "cover": "https://web.archive.org/web/20260206214448im_/http://spidermedia.ru/assets/images/valiant/images/00-reading-order-header.jpg",
+  "modx_id": 100468,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

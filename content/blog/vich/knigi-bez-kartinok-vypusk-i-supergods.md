@@ -1,6 +1,6 @@
 {
   "title": "Книги без картинок. Выпуск I. Supergods",
-  "date": "2013-04-18T15:59:00+03:00",
+  "date": "2013-04-18T14:59:15+03:00",
   "url": "/blog/vich/knigi-bez-kartinok-vypusk-i-supergods/",
   "original_url": "http://spidermedia.ru/blog/vich/knigi-bez-kartinok-vypusk-i-supergods",
   "archived": "https://web.archive.org/web/20251116072422/http://spidermedia.ru/blog/vich/knigi-bez-kartinok-vypusk-i-supergods",
@@ -8,6 +8,12 @@
     "knigi",
     "grant-morrison",
     "supergods"
+  ],
+  "cover": "https://web.archive.org/web/20251116072422im_/http://spidermedia.ru/assets/images/import_image/7211.jpg",
+  "modx_id": 7211,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

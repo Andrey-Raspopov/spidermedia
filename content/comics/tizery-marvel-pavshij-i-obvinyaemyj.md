@@ -8,6 +8,12 @@
     "marvel",
     "civil-war"
   ],
+  "cover": "https://web.archive.org/web/20180315134229im_/http://spidermedia.ru/assets/images/newgallery/gallery891/Civil-War-II-The-Accused-1-8733e.jpg",
+  "modx_id": 101128,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -7,6 +7,12 @@
   "tags": [
     "doctor-who"
   ],
+  "cover": "https://web.archive.org/web/20251013191100im_/http://spidermedia.ru/assets/images/tv/doctor-who/maxresdefault.jpg",
+  "modx_id": 100722,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

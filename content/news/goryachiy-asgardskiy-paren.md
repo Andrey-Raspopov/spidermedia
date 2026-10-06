@@ -1,13 +1,20 @@
 {
   "title": "Горячий асгардский парень",
-  "date": "2013-10-31T08:35:00+03:00",
+  "date": "2013-10-31T07:35:24+03:00",
   "url": "/news/goryachiy-asgardskiy-paren/",
   "original_url": "http://spidermedia.ru/news/goryachiy-asgardskiy-paren",
   "archived": "https://web.archive.org/web/20260215085809/http://spidermedia.ru/news/goryachiy-asgardskiy-paren",
   "tags": [
     "figurki",
     "thor",
-    "marvel"
+    "marvel",
+    "tor"
+  ],
+  "cover": "https://web.archive.org/web/20150326220419im_/http://spidermedia.ru/assets/images/import_image/7523.jpg",
+  "modx_id": 7523,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

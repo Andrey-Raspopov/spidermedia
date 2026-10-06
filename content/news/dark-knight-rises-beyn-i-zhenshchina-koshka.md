@@ -1,6 +1,6 @@
 {
   "title": "The Dark Knight Rises: Бэйн и Женщина-Кошка",
-  "date": "2011-01-19T20:59:00+03:00",
+  "date": "2011-01-19T20:59:45+03:00",
   "url": "/news/dark-knight-rises-beyn-i-zhenshchina-koshka/",
   "original_url": "https://spidermedia.ru/news/dark-knight-rises-beyn-i-zhenshchina-koshka",
   "archived": "https://web.archive.org/web/20250620075853/https://spidermedia.ru/news/dark-knight-rises-beyn-i-zhenshchina-koshka",
@@ -8,6 +8,12 @@
     "batman",
     "dc-comics",
     "dark-knight-rises"
+  ],
+  "cover": "https://web.archive.org/web/20250620075853im_/http://spidermedia.ru/assets/images/import_image/3178.jpg",
+  "modx_id": 3178,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

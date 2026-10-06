@@ -8,6 +8,12 @@
     "andrea-sorrentino",
     "dzheff-lemir"
   ],
+  "cover": "https://web.archive.org/web/20251213192525im_/http://spidermedia.ru/assets/images/reviews/image/gideon-falls/1/open-uri20180301-4-x03f0c.jpg",
+  "modx_id": 101860,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

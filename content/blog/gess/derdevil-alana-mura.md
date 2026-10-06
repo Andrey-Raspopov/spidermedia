@@ -1,7 +1,10 @@
 {
   "title": "Дэрдевил Алана Мура",
-  "date": "2009-07-26T14:25:00+03:00",
+  "date": "2009-07-26T13:25:51+03:00",
   "url": "/blog/gess/derdevil-alana-mura/",
+  "aliases": [
+    "/node/1669/"
+  ],
   "original_url": "https://spidermedia.ru/blog/gess/derdevil-alana-mura",
   "archived": "https://web.archive.org/web/20250424091326/https://spidermedia.ru/blog/gess/derdevil-alana-mura",
   "tags": [
@@ -9,6 +12,11 @@
     "frenk-miller",
     "alan-mur",
     "daredevil"
+  ],
+  "modx_id": 1669,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

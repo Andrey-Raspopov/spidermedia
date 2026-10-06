@@ -1,11 +1,20 @@
 {
   "title": "С Блогомедией вас!",
-  "date": "2009-01-29T16:46:00+03:00",
+  "date": "2009-01-29T15:46:42+03:00",
   "url": "/blog/igrok/s-blogomediey-vas/",
+  "aliases": [
+    "/node/6/"
+  ],
   "original_url": "http://spidermedia.ru/blog/igrok/s-blogomediey-vas",
   "archived": "https://web.archive.org/web/20120608200319/http://spidermedia.ru/blog/igrok/s-blogomediey-vas",
   "tags": [
     "vstuplenie"
+  ],
+  "cover": "https://web.archive.org/web/20120608200319im_/http://spidermedia.ru/assets/images/import_image/6.jpg",
+  "modx_id": 6,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

@@ -8,6 +8,12 @@
     "hellboymedia",
     "novosti"
   ],
+  "cover": "https://web.archive.org/web/20160611205215im_/http://spidermedia.ru/assets/images/hellboymedia/news/hellboy-dinosaur/hellboy-dinosaur-cover.jpg",
+  "modx_id": 100281,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,12 +1,18 @@
 {
   "title": "Everything burns, everyone cries",
-  "date": "2012-05-09T01:14:00+03:00",
+  "date": "2012-05-09T00:14:24+03:00",
   "url": "/blog/hedsar/everything-burns-everyone-cries/",
   "original_url": "http://spidermedia.ru/blog/hedsar/everything-burns-everyone-cries",
   "archived": "https://web.archive.org/web/20260116212918/http://spidermedia.ru/blog/hedsar/everything-burns-everyone-cries",
   "tags": [
     "manga",
     "apokalipsis"
+  ],
+  "cover": "https://web.archive.org/web/20260116212918im_/http://spidermedia.ru/assets/images/import_image/6891.jpg",
+  "modx_id": 6891,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

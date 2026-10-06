@@ -14,6 +14,12 @@
     "idw-publishing",
     "san-diego-comic-con-international"
   ],
+  "cover": "https://web.archive.org/web/20260312010517im_/http://spidermedia.ru/assets/images/newgallery/gallery1150/star-trek-gl-7285f.jpg",
+  "modx_id": 101282,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,7 +1,10 @@
 {
   "title": "Лауреаты Harvey Awards '10",
-  "date": "2010-08-31T20:44:00+03:00",
+  "date": "2010-08-31T19:44:18+03:00",
   "url": "/news/laureaty-harvey-awards-10/",
+  "aliases": [
+    "/node/2883/"
+  ],
   "original_url": "http://spidermedia.ru/news/laureaty-harvey-awards-10",
   "archived": "https://web.archive.org/web/20170715132949/http://spidermedia.ru:80/news/laureaty-harvey-awards-10",
   "tags": [
@@ -9,13 +12,19 @@
     "industriya",
     "harvey-awards"
   ],
+  "cover": "https://web.archive.org/web/20150428172229im_/http://spidermedia.ru/assets/images/import_image/2883.jpg",
+  "modx_id": 2883,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
 ![](https://web.archive.org/web/20170715132949im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/harvey-award_statue.jpg)Стали известны имена лауреатов премии **Harvey**. Вручали ее на только что прошедшем Комик-Коне в Балтиморе.
 На список победителей будет особенно интересно взглянуть тем, кого не устроили результаты айзнеровской церемонии, здесь расстановка сил заметно отличается.
-Полный список номинантов можно найти [здесь](../../node/2745/).
+Полный список номинантов можно найти [здесь](../harvey-awards-10/).
 Награды в этом году распределились следующим образом:
 **Лучший Сценарист**
 

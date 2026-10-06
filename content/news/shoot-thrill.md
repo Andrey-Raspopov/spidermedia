@@ -1,6 +1,6 @@
 {
   "title": "Shoot to thrill",
-  "date": "2012-04-14T05:17:00+03:00",
+  "date": "2012-04-14T04:17:20+03:00",
   "url": "/news/shoot-thrill/",
   "original_url": "http://spidermedia.ru/news/shoot-thrill",
   "archived": "https://web.archive.org/web/20250909132626/http://spidermedia.ru/news/shoot-thrill",
@@ -10,6 +10,12 @@
     "piter-krauze",
     "dzhon-rodzhers",
     "mark-waid"
+  ],
+  "cover": "https://web.archive.org/web/20250909132626im_/http://spidermedia.ru/assets/images/import_image/6869.jpg",
+  "modx_id": 6869,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

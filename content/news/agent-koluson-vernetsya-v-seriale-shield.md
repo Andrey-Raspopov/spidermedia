@@ -1,6 +1,6 @@
 {
   "title": "Агент Коулсон вернется в сериале S.H.I.E.L.D.",
-  "date": "2012-10-14T18:42:00+03:00",
+  "date": "2012-10-14T17:42:50+03:00",
   "url": "/news/agent-koluson-vernetsya-v-seriale-shield/",
   "original_url": "http://spidermedia.ru/news/agent-koluson-vernetsya-v-seriale-shield",
   "archived": "https://web.archive.org/web/20260117221843/http://spidermedia.ru/news/agent-koluson-vernetsya-v-seriale-shield",
@@ -8,7 +8,14 @@
     "serialy",
     "avengers",
     "marvel",
-    "s.h.i.e.l.d"
+    "s.h.i.e.l.d",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20150428170839im_/http://spidermedia.ru/assets/images/import_image/7064.jpg",
+  "modx_id": 7064,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

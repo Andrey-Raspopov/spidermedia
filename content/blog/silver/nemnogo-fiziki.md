@@ -1,13 +1,20 @@
 {
   "title": "Немного физики",
-  "date": "2009-02-01T17:52:00+03:00",
+  "date": "2009-02-01T17:52:47+03:00",
   "url": "/blog/silver/nemnogo-fiziki/",
   "original_url": "http://spidermedia.ru/blog/silver/nemnogo-fiziki",
   "archived": "https://web.archive.org/web/20220815202115/http://spidermedia.ru/blog/silver/nemnogo-fiziki",
   "tags": [
     "marvel",
     "thor",
-    "j-michael-straczynski"
+    "j-michael-straczynski",
+    "tor",
+    "dzhej-majkl-strazhinski"
+  ],
+  "modx_id": 77,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

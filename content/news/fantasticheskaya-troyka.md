@@ -1,7 +1,10 @@
 {
   "title": "Фантастическая Тройка",
-  "date": "2010-06-13T16:31:00+03:00",
+  "date": "2010-06-13T15:31:20+03:00",
   "url": "/news/fantasticheskaya-troyka/",
+  "aliases": [
+    "/node/2671/"
+  ],
   "original_url": "http://spidermedia.ru/news/fantasticheskaya-troyka",
   "archived": "https://web.archive.org/web/20120608043157/http://spidermedia.ru/news/fantasticheskaya-troyka",
   "tags": [
@@ -12,13 +15,21 @@
     "marvel",
     "oblozhki",
     "stiv-epting",
-    "fantasticheskaya-chetverka"
+    "fantasticheskaya-chetverka",
+    "dzhonatan-hikman",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20120608043157im_/http://spidermedia.ru/assets/images/import_image/2671.jpg",
+  "modx_id": 2671,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }
 
-[**Апрельский тизер**](../../node/2550/) - посвященный комиксу **Fantastic Four** **Джонатана Хикмана** *(Jonatahan Hickman)* - лишь намекал на грядущие изменения в серии, но совсем недавно появились новые подробности относительно загадочной тройки:
+[**Апрельский тизер**](../novye-proekty-marvel/) - посвященный комиксу **Fantastic Four** **Джонатана Хикмана** *(Jonatahan Hickman)* - лишь намекал на грядущие изменения в серии, но совсем недавно появились новые подробности относительно загадочной тройки:
 
 ]]>[![](https://web.archive.org/web/20120608043157im_/http://img.photobucket.com/albums/v497/spidermedia/th_1275914335.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/1275914335.jpg)]]> ]]>[![](https://web.archive.org/web/20120608043157im_/http://img.photobucket.com/albums/v497/spidermedia/th_ff3promosrama02-1.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/ff3promosrama02-1.jpg)]]> ]]>[![](https://web.archive.org/web/20120608043157im_/http://img.photobucket.com/albums/v497/spidermedia/th_ff3_promo_ign_02.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/ff3_promo_ign_02.jpg)]]>
 

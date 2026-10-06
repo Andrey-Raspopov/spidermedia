@@ -1,7 +1,10 @@
 {
   "title": "Матч-реванш",
-  "date": "2010-04-13T16:58:00+03:00",
+  "date": "2010-04-13T15:58:56+03:00",
   "url": "/news/match-revansh/",
+  "aliases": [
+    "/node/2541/"
+  ],
   "original_url": "https://spidermedia.ru/news/match-revansh",
   "archived": "https://web.archive.org/web/20260116224616/https://spidermedia.ru/news/match-revansh",
   "tags": [
@@ -11,7 +14,14 @@
     "punisher",
     "daken",
     "art-0",
-    "marvel"
+    "marvel",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20260116224616im_/http://spidermedia.ru/assets/images/import_image/2541.jpg",
+  "modx_id": 2541,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

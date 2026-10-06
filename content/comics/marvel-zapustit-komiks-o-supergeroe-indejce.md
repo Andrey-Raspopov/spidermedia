@@ -7,6 +7,12 @@
   "tags": [
     "marvel"
   ],
+  "cover": "https://web.archive.org/web/20251112174048im_/http://spidermedia.ru/assets/images/news/marvel/all-new-all-different/red-wolf/red-wolf-bd23d.jpg",
+  "modx_id": 100545,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

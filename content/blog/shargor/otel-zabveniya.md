@@ -1,6 +1,6 @@
 {
   "title": "Отель забвения",
-  "date": "2009-07-24T14:57:00+03:00",
+  "date": "2009-07-24T13:57:40+03:00",
   "url": "/blog/shargor/otel-zabveniya/",
   "original_url": "http://spidermedia.ru/blog/shargor/otel-zabveniya",
   "archived": "https://web.archive.org/web/20190811011244/http://spidermedia.ru:80/blog/shargor/otel-zabveniya",
@@ -10,6 +10,12 @@
     "umbrella-academy",
     "san-diego-comic-con-international",
     "dark-horse"
+  ],
+  "cover": "https://web.archive.org/web/20190811011244im_/http://spidermedia.ru/assets/images/news/sdcc/2017/hotel-oblivion-cover.jpg",
+  "modx_id": 1639,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

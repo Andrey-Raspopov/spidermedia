@@ -1,7 +1,10 @@
 {
   "title": "Неоновый Marvel",
-  "date": "2010-10-19T02:38:00+03:00",
+  "date": "2010-10-19T01:38:03+03:00",
   "url": "/news/neonovyy-marvel/",
+  "aliases": [
+    "/node/3021/"
+  ],
   "original_url": "http://spidermedia.ru/news/neonovyy-marvel",
   "archived": "https://web.archive.org/web/20120607194751/http://spidermedia.ru/news/neonovyy-marvel",
   "tags": [
@@ -10,7 +13,14 @@
     "komiksy",
     "marvel",
     "mark-bruks",
-    "oblozhki"
+    "oblozhki",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20120607194751im_/http://spidermedia.ru/assets/images/import_image/3021.jpg",
+  "modx_id": 3021,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "SUPERTRASH",
-  "date": "2011-07-24T00:33:00+03:00",
+  "date": "2011-07-23T23:33:12+03:00",
   "url": "/news/supertrash/",
   "original_url": "https://spidermedia.ru/news/supertrash",
   "archived": "https://web.archive.org/web/20251207002002/https://spidermedia.ru/news/supertrash",
@@ -8,6 +8,12 @@
     "garth-ennis",
     "stitched",
     "avatar-press"
+  ],
+  "cover": "https://web.archive.org/web/20251207002002im_/http://spidermedia.ru/assets/images/import_image/6521.png",
+  "modx_id": 6521,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "ЭКСКЛЮЗИВ: «Дьяволик: Сам себе хозяин» на русском языке",
-  "date": "2015-01-12T15:59:00+03:00",
+  "date": "2015-01-12T15:59:58+03:00",
   "url": "/news/eksklyuziv-dyavolik-sam-sebe-hozyain-na-russkom-yazyke/",
   "original_url": "http://spidermedia.ru/news/eksklyuziv-dyavolik-sam-sebe-hozyain-na-russkom-yazyke",
   "archived": "https://web.archive.org/web/20260309003453/http://spidermedia.ru/news/eksklyuziv-dyavolik-sam-sebe-hozyain-na-russkom-yazyke",
@@ -8,6 +8,12 @@
     "zarubezhnye-komiksy-na-russkom",
     "dyavolik",
     "smart-owl"
+  ],
+  "cover": "https://web.archive.org/web/20150328213416im_/http://spidermedia.ru/assets/images/import_image/8489.jpg",
+  "modx_id": 8489,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

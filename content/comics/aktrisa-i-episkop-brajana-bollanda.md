@@ -7,7 +7,14 @@
   "tags": [
     "brian-bolland",
     "zarubezhnye-komiksy-na-russkom",
-    "kommissiya"
+    "kommissiya",
+    "brajan-bolland"
+  ],
+  "cover": "https://web.archive.org/web/20250209114307im_/http://spidermedia.ru/assets/images/news/rus/bolland/bollandactress1.jpg",
+  "modx_id": 100197,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "Stark: Сonfession",
-  "date": "2009-08-22T01:55:00+03:00",
+  "date": "2009-08-22T00:55:12+03:00",
   "url": "/news/stark-sonfession/",
+  "aliases": [
+    "/node/1812/"
+  ],
   "original_url": "http://spidermedia.ru/news/stark-sonfession",
   "archived": "https://web.archive.org/web/20120608140804/http://spidermedia.ru/news/stark-sonfession",
   "tags": [
@@ -15,13 +18,20 @@
     "patrik-zircher",
     "preview-s",
     "salvador-larroka",
-    "tor"
+    "tor",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20120608140804im_/http://spidermedia.ru/assets/images/import_image/1812.jpg",
+  "modx_id": 1812,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }
 
-Конец арка "World's Most Wanted" близится к завершению. Мы ]]>[уже писали](../../node/1747/)]]> о дальнейшей судьбе Тони Старка (Tony Stark/Iron Man) и о ]]>[новой "ноябрьской" мини](../../node/1787/)]]>. Сегодня мы хотим представить вам вариант обложку Invincible Iron Man #20 от Патрика Зирчера (Patrick Zircher).
+Конец арка "World's Most Wanted" близится к завершению. Мы ]]>[уже писали](../ccc09-invincible-iron-man/)]]> о дальнейшей судьбе Тони Старка (Tony Stark/Iron Man) и о ]]>[новой "ноябрьской" мини](../stark-knut-i-noyabr/)]]>. Сегодня мы хотим представить вам вариант обложку Invincible Iron Man #20 от Патрика Зирчера (Patrick Zircher).
 
 ![9265header_banner0785981.jpg - image uploaded to Picamatic](https://web.archive.org/web/20120608140804im_/http://www.picamatic.com/show/2009/08/22/03/34/4814599_bigthumb.jpg "9265header_banner0785981.jpg")
 

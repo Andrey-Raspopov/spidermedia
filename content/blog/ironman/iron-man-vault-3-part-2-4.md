@@ -1,7 +1,10 @@
 {
   "title": "Iron Man Vault #3 (Part 2 of 4)",
-  "date": "2009-10-02T22:42:00+03:00",
+  "date": "2009-10-02T21:42:00+03:00",
   "url": "/blog/ironman/iron-man-vault-3-part-2-4/",
+  "aliases": [
+    "/node/1959/"
+  ],
   "original_url": "http://spidermedia.ru/blog/ironman/iron-man-vault-3-part-2-4",
   "archived": "https://web.archive.org/web/20220813161757/http://spidermedia.ru/blog/ironman/iron-man-vault-3-part-2-4",
   "tags": [
@@ -12,7 +15,14 @@
     "war-machine",
     "marvel",
     "iron-man",
-    "avengers"
+    "avengers",
+    "zheleznyy-chelovek"
+  ],
+  "cover": "https://web.archive.org/web/20220813161757im_/http://spidermedia.ru/assets/images/import_image/1959.jpg",
+  "modx_id": 1959,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
@@ -22,10 +32,10 @@
 **Автор статьи: IrOnMaN**
 
 Первый выпуск колонки:
-([Part 1](../../../node/1500/) - [Part 2](../../../node/1512/))
+([Part 1](../iron-man-vault-1-part-1-2/) - [Part 2](../iron-man-vault-1-part-2-2/))
 Второй выпуск колонки:
-([Part 1](../../../node/1532/) - [Part 2](../../../node/1556/))Третий выпуск колонки:
-([Part 1](../../../node/1781/))**Iron Man #300** - Железный Человек делает шаг вперёд, после которого он (снова) получает узнаваемость, внимание и уважение среди всех комикс фэнов. Сценарист **Лен Камински** откроет для всех совершенно новый мир Тони Старка, который будет сильно отличаться от того, что предлагали другие сценаристы. Осуществить эту задачу мистеру Камински помогут такие талантливые художкники, как **Кевин Хопгуд** и **Том Морган**. Перейдём от слов к делу!
+([Part 1](../iron-man-vault-2-part-1-2/) - [Part 2](../iron-man-vault-2-part-2-2/))Третий выпуск колонки:
+([Part 1](../iron-man-vault-3-part-1-4/))**Iron Man #300** - Железный Человек делает шаг вперёд, после которого он (снова) получает узнаваемость, внимание и уважение среди всех комикс фэнов. Сценарист **Лен Камински** откроет для всех совершенно новый мир Тони Старка, который будет сильно отличаться от того, что предлагали другие сценаристы. Осуществить эту задачу мистеру Камински помогут такие талантливые художкники, как **Кевин Хопгуд** и **Том Морган**. Перейдём от слов к делу!
 Железный Легион:
 [![](https://web.archive.org/web/20220813161757im_/http://img.photobucket.com/albums/v497/spidermedia/Iron_News/th_2-11.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/Iron_News/2-11.jpg) [![](https://web.archive.org/web/20220813161757im_/http://img.photobucket.com/albums/v497/spidermedia/Iron_News/th_3-10.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/Iron_News/3-10.jpg) [![](https://web.archive.org/web/20220813161757im_/http://img.photobucket.com/albums/v497/spidermedia/Iron_News/th_5-10.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/Iron_News/5-10.jpg) [![](https://web.archive.org/web/20220813161757im_/http://img.photobucket.com/albums/v497/spidermedia/Iron_News/th_7-8.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/Iron_News/7-8.jpg)Ультимо продолжает уничтожать всё на своём пути, а тем временем Воитель собирает самых преданных друзей Тони Старка: Хэппи Хогана, Эдди Марча, Бетани Кейб, Майкла О'Брайана, Клейтона Уилсона и объясняет им всё происходящее. Джим предлагает команде (Железный Легион) использовать старые модели брони Железного Человека из архива Тони Старка, чтобы попытаться всем вместе победить Ультимо. Поначалу всем казалось, что одолеть гиганта будет просто, но всё пошло совсем не так, как планировалось.[![](https://web.archive.org/web/20220813161757im_/http://img.photobucket.com/albums/v497/spidermedia/Iron_News/th_4-10.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/Iron_News/4-10.jpg) [![](https://web.archive.org/web/20220813161757im_/http://img.photobucket.com/albums/v497/spidermedia/Iron_News/th_6-9.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/Iron_News/6-9.jpg)Ультимо быстро расправился с тремя членами Легиона. Роуди приказал Хэппи и Бетани срочно забрать Эдди и Карла в ближайшую больницу, пока не поздно, но Бетани решила остаться и помочь Джиму в этой нелёгкой битве. Железный Легион разбит, хаос продолжается, надежды на спасение практически не осталось.
 Возвращение:

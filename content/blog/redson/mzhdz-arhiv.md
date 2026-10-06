@@ -1,11 +1,17 @@
 {
   "title": "МЖДЗ: АРХИВ",
-  "date": "2011-08-17T14:36:00+03:00",
+  "date": "2011-08-17T13:36:01+03:00",
   "url": "/blog/redson/mzhdz-arhiv/",
   "original_url": "https://spidermedia.ru/blog/redson/mzhdz-arhiv",
   "archived": "https://web.archive.org/web/20260120145649/https://spidermedia.ru/blog/redson/mzhdz-arhiv",
   "tags": [
     "mzhdz"
+  ],
+  "cover": "https://web.archive.org/web/20260120145649im_/http://spidermedia.ru/assets/images/import_image/6568.png",
+  "modx_id": 6568,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

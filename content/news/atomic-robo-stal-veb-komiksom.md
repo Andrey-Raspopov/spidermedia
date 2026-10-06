@@ -1,11 +1,17 @@
 {
   "title": "Atomic Robo стал веб-комиксом",
-  "date": "2015-01-27T13:43:00+03:00",
+  "date": "2015-01-27T13:43:41+03:00",
   "url": "/news/atomic-robo-stal-veb-komiksom/",
   "original_url": "http://spidermedia.ru/news/atomic-robo-stal-veb-komiksom",
   "archived": "https://web.archive.org/web/20191103144642/http://spidermedia.ru:80/news/atomic-robo-stal-veb-komiksom",
   "tags": [
     "atomic-robo"
+  ],
+  "cover": "https://web.archive.org/web/20150326221120im_/http://spidermedia.ru/assets/images/import_image/8553.jpg",
+  "modx_id": 8553,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

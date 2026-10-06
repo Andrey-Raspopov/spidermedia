@@ -1,11 +1,20 @@
 {
   "title": "Перси-Паук",
-  "date": "2010-04-11T14:07:00+03:00",
+  "date": "2010-04-11T13:07:02+03:00",
   "url": "/news/persi-pauk/",
+  "aliases": [
+    "/node/2530/"
+  ],
   "original_url": "https://spidermedia.ru/news/persi-pauk",
   "archived": "https://web.archive.org/web/20250318073352/https://spidermedia.ru/news/persi-pauk",
   "tags": [
     "spider-man"
+  ],
+  "cover": "https://web.archive.org/web/20250318073352im_/http://spidermedia.ru/assets/images/import_image/2530.jpg",
+  "modx_id": 2530,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

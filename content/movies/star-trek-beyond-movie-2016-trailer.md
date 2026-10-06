@@ -8,6 +8,12 @@
     "star-trek",
     "zvezdnyj-put"
   ],
+  "cover": "https://web.archive.org/web/20160512160133im_/http://spidermedia.ru/assets/images/youtube/XRVD32rnzOw.jpg",
+  "modx_id": 100767,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

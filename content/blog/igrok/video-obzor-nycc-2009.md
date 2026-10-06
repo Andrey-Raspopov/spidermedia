@@ -1,13 +1,21 @@
 {
   "title": "Видео-обзор NYCC 2009",
-  "date": "2009-02-08T23:44:00+03:00",
+  "date": "2009-02-08T23:44:46+03:00",
   "url": "/blog/igrok/video-obzor-nycc-2009/",
+  "aliases": [
+    "/node/280/"
+  ],
   "original_url": "http://spidermedia.ru/blog/igrok/video-obzor-nycc-2009",
   "archived": "https://web.archive.org/web/20260121001651/http://spidermedia.ru/blog/igrok/video-obzor-nycc-2009",
   "tags": [
     "mattel",
     "figurki",
     "nycc-2009"
+  ],
+  "modx_id": 280,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

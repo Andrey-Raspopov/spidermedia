@@ -1,6 +1,6 @@
 {
   "title": "«Могучие Рейнджеры»: такими вы их еще не видели",
-  "date": "2015-02-24T22:49:00+03:00",
+  "date": "2015-02-24T22:49:57+03:00",
   "url": "/news/moguchie-reyndzhery-takimi-vy-ih-eshche-ne-videli/",
   "original_url": "http://spidermedia.ru/news/moguchie-reyndzhery-takimi-vy-ih-eshche-ne-videli",
   "archived": "https://web.archive.org/web/20240809120505/http://spidermedia.ru/news/moguchie-reyndzhery-takimi-vy-ih-eshche-ne-videli",
@@ -8,6 +8,12 @@
     "fanfilmy",
     "moguchie-rejndzhery",
     "adi-shankar"
+  ],
+  "cover": "https://web.archive.org/web/20150326032936im_/http://spidermedia.ru/assets/images/news/image.jpg",
+  "modx_id": 8646,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

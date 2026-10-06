@@ -1,7 +1,10 @@
 {
   "title": "DC Сomics: The God Family",
-  "date": "2009-02-28T21:32:00+03:00",
+  "date": "2009-02-28T20:32:42+03:00",
   "url": "/news/dc-somics-god-family/",
+  "aliases": [
+    "/node/552/"
+  ],
   "original_url": "http://spidermedia.ru/news/dc-somics-god-family",
   "archived": "https://web.archive.org/web/20120607175451/http://spidermedia.ru/news/dc-somics-god-family",
   "tags": [
@@ -9,7 +12,15 @@
     "art-0",
     "dzho-bennet",
     "komiksy",
-    "ugadayka"
+    "ugadayka",
+    "ugadajka",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20120607175451im_/http://spidermedia.ru/assets/images/import_image/552.jpg",
+  "modx_id": 552,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

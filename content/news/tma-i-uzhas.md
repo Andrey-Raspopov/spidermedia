@@ -1,6 +1,6 @@
 {
   "title": "Тьма и ужас",
-  "date": "2013-01-09T05:05:00+03:00",
+  "date": "2013-01-09T04:05:38+03:00",
   "url": "/news/tma-i-uzhas/",
   "original_url": "http://spidermedia.ru/news/tma-i-uzhas",
   "archived": "https://web.archive.org/web/20250806085049/http://spidermedia.ru/news/tma-i-uzhas",
@@ -10,6 +10,12 @@
     "sebastyan-fiumara",
     "majk-minola",
     "dark-horse"
+  ],
+  "cover": "https://web.archive.org/web/20250806085049im_/http://spidermedia.ru/assets/images/import_image/7111.jpg",
+  "modx_id": 7111,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

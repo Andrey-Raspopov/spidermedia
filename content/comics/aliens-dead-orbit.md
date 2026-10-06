@@ -7,6 +7,12 @@
   "tags": [
     "dark-horse"
   ],
+  "cover": "https://web.archive.org/web/20170306122641im_/http://spidermedia.ru/assets/images/news/dark-horse/aliens/aldo-cover.jpg",
+  "modx_id": 101364,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

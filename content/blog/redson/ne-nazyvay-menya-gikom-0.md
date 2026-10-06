@@ -1,11 +1,17 @@
 {
   "title": "Не называй меня гиком",
-  "date": "2014-08-26T15:22:00+03:00",
+  "date": "2014-08-26T14:22:34+03:00",
   "url": "/blog/redson/ne-nazyvay-menya-gikom-0/",
   "original_url": "http://spidermedia.ru/blog/redson/ne-nazyvay-menya-gikom-0",
   "archived": "https://web.archive.org/web/20250220051812/http://spidermedia.ru/blog/redson/ne-nazyvay-menya-gikom-0",
   "tags": [
     "mnenie"
+  ],
+  "cover": "https://web.archive.org/web/20150721001154im_/http://spidermedia.ru/assets/images/import_image/8019.jpg",
+  "modx_id": 8019,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

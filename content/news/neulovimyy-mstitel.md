@@ -1,13 +1,20 @@
 {
   "title": "Неуловимый Мститель",
-  "date": "2013-10-31T11:37:00+03:00",
+  "date": "2013-10-31T10:37:21+03:00",
   "url": "/news/neulovimyy-mstitel/",
   "original_url": "http://spidermedia.ru/news/neulovimyy-mstitel",
   "archived": "https://web.archive.org/web/20250524053318/http://spidermedia.ru/news/neulovimyy-mstitel",
   "tags": [
     "avengers",
     "marvel",
-    "x-men"
+    "x-men",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20150424090342im_/http://spidermedia.ru/assets/images/import_image/7525.jpg",
+  "modx_id": 7525,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

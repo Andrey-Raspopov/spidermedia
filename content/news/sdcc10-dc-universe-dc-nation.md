@@ -1,6 +1,6 @@
 {
   "title": "SDCC'10: DC Universe + DC Nation",
-  "date": "2010-07-25T09:41:00+03:00",
+  "date": "2010-07-25T08:41:38+03:00",
   "url": "/news/sdcc10-dc-universe-dc-nation/",
   "original_url": "http://spidermedia.ru/news/sdcc10-dc-universe-dc-nation",
   "archived": "https://web.archive.org/web/20251207001526/http://spidermedia.ru/news/sdcc10-dc-universe-dc-nation",
@@ -15,6 +15,12 @@
     "dc-comics",
     "birds-of-prey",
     "san-diego-comic-con-international"
+  ],
+  "cover": "https://web.archive.org/web/20251207001526im_/http://spidermedia.ru/assets/images/import_image/2793.png",
+  "modx_id": 2793,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,13 +1,23 @@
 {
   "title": "Немного о рыжих женщинах",
-  "date": "2009-02-20T16:38:00+03:00",
+  "date": "2009-02-20T15:38:11+03:00",
   "url": "/blog/lady-charles/nemnogo-o-ryzhih-zhenshchinah/",
+  "aliases": [
+    "/node/457/"
+  ],
   "original_url": "http://spidermedia.ru/blog/lady-charles/nemnogo-o-ryzhih-zhenshchinah",
   "archived": "https://web.archive.org/web/20111019063024/http://spidermedia.ru/blog/lady-charles/nemnogo-o-ryzhih-zhenshchinah",
   "tags": [
     "dc-comics",
     "zhenshchiny-v-komiksah",
-    "personazhi-komiksov"
+    "personazhi-komiksov",
+    "zhenshhiny-v-komiksah"
+  ],
+  "cover": "https://web.archive.org/web/20111019063024im_/http://spidermedia.ru/assets/images/import_image/457.jpg",
+  "modx_id": 457,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

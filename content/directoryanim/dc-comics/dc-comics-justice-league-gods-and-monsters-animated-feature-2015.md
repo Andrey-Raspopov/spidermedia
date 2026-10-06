@@ -4,6 +4,9 @@
   "url": "/directoryanim/dc-comics/dc-comics-justice-league-gods-and-monsters-animated-feature-2015/",
   "original_url": "http://spidermedia.ru/directoryanim/dc-comics/dc-comics-justice-league-gods-and-monsters-animated-feature-2015",
   "archived": "https://web.archive.org/web/20250806085745/http://spidermedia.ru/directoryanim/dc-comics/dc-comics-justice-league-gods-and-monsters-animated-feature-2015",
+  "sources": [
+    "archive"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,7 +1,10 @@
 {
   "title": "Превью Fantastic Four #566 и Uncanny X-men #510",
-  "date": "2009-05-15T00:01:00+03:00",
+  "date": "2009-05-14T23:01:38+03:00",
   "url": "/news/prevyu-fantastic-four-566-i-uncanny-x-men-510/",
+  "aliases": [
+    "/node/1188/"
+  ],
   "original_url": "https://spidermedia.ru/news/prevyu-fantastic-four-566-i-uncanny-x-men-510",
   "archived": "https://web.archive.org/web/20241113215004/https://spidermedia.ru/news/prevyu-fantastic-four-566-i-uncanny-x-men-510",
   "tags": [
@@ -12,7 +15,16 @@
     "fantastic-four",
     "matt-fraction",
     "greg-land",
-    "greg-lend"
+    "greg-lend",
+    "lyudi-iks",
+    "brayan-hitch",
+    "fantasticheskaya-chetverka"
+  ],
+  "cover": "https://web.archive.org/web/20241113215004im_/http://spidermedia.ru/assets/images/import_image/1188.jpg",
+  "modx_id": 1188,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "\"Каста Мета-Баронов\" отправляется в печать + ПРЕВЬЮ",
-  "date": "2013-08-22T14:03:00+03:00",
+  "date": "2013-08-22T13:03:29+03:00",
   "url": "/news/metabarony-otpravlyayutsya-v-pechat/",
   "original_url": "https://spidermedia.ru/news/metabarony-otpravlyayutsya-v-pechat",
   "archived": "https://web.archive.org/web/20251208073049/https://spidermedia.ru/news/metabarony-otpravlyayutsya-v-pechat",
@@ -8,7 +8,14 @@
     "preview",
     "metabarony",
     "zarubezhnye-komiksy-na-russkom",
-    "talking-head"
+    "talking-head",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20251208073049im_/http://spidermedia.ru/assets/images/import_image/7425.jpg",
+  "modx_id": 7425,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

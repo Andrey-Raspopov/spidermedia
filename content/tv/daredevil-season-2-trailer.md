@@ -7,7 +7,14 @@
   "tags": [
     "marvel",
     "daredevil",
-    "serialy"
+    "serialy",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20251115025428im_/http://spidermedia.ru/assets/images/tv/marvel/daredevil/125846.jpg",
+  "modx_id": 100654,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

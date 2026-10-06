@@ -1,6 +1,6 @@
 {
   "title": "Зеленая Лига",
-  "date": "2010-04-12T20:29:00+03:00",
+  "date": "2010-04-12T19:29:41+03:00",
   "url": "/news/zelenaya-liga/",
   "original_url": "https://spidermedia.ru/news/zelenaya-liga",
   "archived": "https://web.archive.org/web/20250518133315/https://spidermedia.ru/news/zelenaya-liga",
@@ -12,7 +12,14 @@
     "patrik-glison",
     "devid-mek",
     "art-0",
-    "green-lantern"
+    "green-lantern",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20250518133315im_/http://spidermedia.ru/assets/images/import_image/2536.jpg",
+  "modx_id": 2536,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,12 +1,18 @@
 {
   "title": "МЖДЗ: HOW TO EAT A DRAGON",
-  "date": "2011-11-16T16:58:00+03:00",
+  "date": "2011-11-16T15:58:03+03:00",
   "url": "/news/mzhdz-how-eat-dragon/",
   "original_url": "http://spidermedia.ru/news/mzhdz-how-eat-dragon",
   "archived": "https://web.archive.org/web/20251112165958/http://spidermedia.ru/news/mzhdz-how-eat-dragon",
   "tags": [
     "mzhdz",
     "mnenie"
+  ],
+  "cover": "https://web.archive.org/web/20160428114136im_/http://spidermedia.ru/assets/images/import_image/6698.png",
+  "modx_id": 6698,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

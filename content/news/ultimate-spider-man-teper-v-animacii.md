@@ -1,7 +1,10 @@
 {
   "title": "Ultimate Spider-Man теперь в анимации",
-  "date": "2010-08-10T00:43:00+03:00",
+  "date": "2010-08-09T23:43:09+03:00",
   "url": "/news/ultimate-spider-man-teper-v-animacii/",
+  "aliases": [
+    "/node/2844/"
+  ],
   "original_url": "https://spidermedia.ru/news/ultimate-spider-man-teper-v-animacii",
   "archived": "https://web.archive.org/web/20251110221343/https://spidermedia.ru/news/ultimate-spider-man-teper-v-animacii",
   "tags": [
@@ -14,7 +17,14 @@
     "animaciya",
     "ultimate",
     "marvel",
-    "spider-man"
+    "spider-man",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20150501233727im_/http://spidermedia.ru/assets/images/import_image/2844.jpg",
+  "modx_id": 2844,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

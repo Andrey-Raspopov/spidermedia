@@ -1,6 +1,6 @@
 {
   "title": "Крылья, ноги и хвосты",
-  "date": "2009-02-03T16:09:00+03:00",
+  "date": "2009-02-03T16:09:16+03:00",
   "url": "/news/krylya-nogi-i-hvosty/",
   "original_url": "https://spidermedia.ru/news/krylya-nogi-i-hvosty",
   "archived": "https://web.archive.org/web/20251014044122/https://spidermedia.ru/news/krylya-nogi-i-hvosty",
@@ -8,6 +8,12 @@
     "kajl-bejker",
     "hawkman",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20251014044122im_/http://spidermedia.ru/assets/images/import_image/147.jpg",
+  "modx_id": 147,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

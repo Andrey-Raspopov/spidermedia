@@ -8,6 +8,12 @@
     "hellboymedia",
     "mnenie"
   ],
+  "cover": "https://web.archive.org/web/20250412060321im_/https://spidermedia.ru/assets/images/hellboymedia/classic/jenny-finn-doom-messiah/jenny-finn-doom-messiah-cover.jpg",
+  "modx_id": 101176,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

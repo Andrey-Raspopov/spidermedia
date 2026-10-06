@@ -1,12 +1,19 @@
 {
   "title": "Must? Read! - Manga Edition",
-  "date": "2010-03-16T23:52:00+03:00",
+  "date": "2010-03-16T23:52:40+03:00",
   "url": "/blog/naya/must-read-manga-edition/",
   "original_url": "http://spidermedia.ru/blog/naya/must-read-manga-edition",
   "archived": "https://web.archive.org/web/20251216124253/http://spidermedia.ru/blog/naya/must-read-manga-edition",
   "tags": [
     "mustread",
-    "manga"
+    "manga",
+    "manga-2"
+  ],
+  "cover": "https://web.archive.org/web/20251216124253im_/http://spidermedia.ru/assets/images/import_image/2450.gif",
+  "modx_id": 2450,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

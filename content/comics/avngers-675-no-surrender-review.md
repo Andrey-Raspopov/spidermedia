@@ -10,6 +10,12 @@
     "avengers",
     "el-yuing"
   ],
+  "cover": "https://web.archive.org/web/20250909133630im_/http://spidermedia.ru/assets/images/reviews/marvel/avengers/no-surrender-1/1.jpg",
+  "modx_id": 101798,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

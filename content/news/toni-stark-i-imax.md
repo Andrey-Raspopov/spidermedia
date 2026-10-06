@@ -1,7 +1,10 @@
 {
   "title": "Тони Старк и IMAX",
-  "date": "2010-01-14T23:45:00+03:00",
+  "date": "2010-01-14T22:45:46+03:00",
   "url": "/news/toni-stark-i-imax/",
+  "aliases": [
+    "/node/2258/"
+  ],
   "original_url": "http://spidermedia.ru/news/toni-stark-i-imax",
   "archived": "https://web.archive.org/web/20120718214004/http://spidermedia.ru/news/toni-stark-i-imax",
   "tags": [
@@ -13,6 +16,12 @@
     "kino",
     "komiksy",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20120718214004im_/http://spidermedia.ru/assets/images/import_image/2258.jpg",
+  "modx_id": 2258,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

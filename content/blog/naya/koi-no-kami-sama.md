@@ -1,6 +1,6 @@
 {
   "title": "Koi no Kami-sama",
-  "date": "2009-03-31T20:45:00+03:00",
+  "date": "2009-03-31T19:45:55+03:00",
   "url": "/blog/naya/koi-no-kami-sama/",
   "original_url": "http://spidermedia.ru/blog/naya/koi-no-kami-sama",
   "archived": "https://web.archive.org/web/20120607131537/http://spidermedia.ru/blog/naya/koi-no-kami-sama",
@@ -9,7 +9,14 @@
     "manga",
     "one-shot",
     "romance",
-    "skachat"
+    "skachat",
+    "manga-2"
+  ],
+  "cover": "https://web.archive.org/web/20120607131537im_/http://spidermedia.ru/assets/images/import_image/816.jpg",
+  "modx_id": 816,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

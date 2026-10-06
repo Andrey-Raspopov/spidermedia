@@ -1,14 +1,24 @@
 {
   "title": "SDCC 09 - Iron Man 2: The Video Game",
-  "date": "2009-07-24T10:43:00+03:00",
+  "date": "2009-07-24T09:43:17+03:00",
   "url": "/news/sdcc-09-iron-man-2-video-game/",
+  "aliases": [
+    "/node/1635/"
+  ],
   "original_url": "http://spidermedia.ru/news/sdcc-09-iron-man-2-video-game",
   "archived": "https://web.archive.org/web/20260211182929/http://spidermedia.ru/news/sdcc-09-iron-man-2-video-game",
   "tags": [
     "preview",
     "igry",
     "san-diego-comic-con-2009",
-    "iron-man"
+    "iron-man",
+    "prevyu",
+    "zheleznyy-chelovek"
+  ],
+  "modx_id": 1635,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,11 +1,19 @@
 {
   "title": "«Разбор полётов». Выпуск 5: Смехопанорама",
-  "date": "2014-12-29T08:14:00+03:00",
+  "date": "2014-12-29T08:14:31+03:00",
   "url": "/podcast/podkast-razbor-polyotov-vypusk-5-smehopanorama/",
   "original_url": "https://spidermedia.ru/podcast/podkast-razbor-polyotov-vypusk-5-smehopanorama",
   "archived": "https://web.archive.org/web/20260211192316/https://spidermedia.ru/podcast/podkast-razbor-polyotov-vypusk-5-smehopanorama",
   "tags": [
     "spidercast"
+  ],
+  "cover": "https://web.archive.org/web/20150315213610im_/http://spidermedia.ru/misc/files/podcast/covers/tumblr_nghwys28jc1qabyxlo1_1280.jpg",
+  "podcast_audio": "https://spidermedia.podster.fm/31/download/audio.mp3",
+  "podcast_length": "2:05:28",
+  "modx_id": 8435,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

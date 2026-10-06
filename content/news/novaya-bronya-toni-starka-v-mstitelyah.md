@@ -1,6 +1,6 @@
 {
   "title": "Новая броня Тони Старка в \"Мстителях\"",
-  "date": "2012-01-27T12:01:00+03:00",
+  "date": "2012-01-27T11:01:43+03:00",
   "url": "/news/novaya-bronya-toni-starka-v-mstitelyah/",
   "original_url": "http://spidermedia.ru/news/novaya-bronya-toni-starka-v-mstitelyah",
   "archived": "https://web.archive.org/web/20260206230331/http://spidermedia.ru/news/novaya-bronya-toni-starka-v-mstitelyah",
@@ -8,7 +8,14 @@
     "figurki",
     "iron-man",
     "avengers",
-    "marvel"
+    "marvel",
+    "zheleznyy-chelovek"
+  ],
+  "cover": "https://web.archive.org/web/20260206230331im_/http://spidermedia.ru/assets/images/import_image/6765.jpg",
+  "modx_id": 6765,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

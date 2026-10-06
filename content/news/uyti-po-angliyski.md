@@ -1,7 +1,10 @@
 {
   "title": "Уйти по-английски",
-  "date": "2009-05-22T04:48:00+03:00",
+  "date": "2009-05-22T03:48:50+03:00",
   "url": "/news/uyti-po-angliyski/",
+  "aliases": [
+    "/node/1259/"
+  ],
   "original_url": "https://spidermedia.ru/news/uyti-po-angliyski",
   "archived": "https://web.archive.org/web/20260208211013/https://spidermedia.ru/news/uyti-po-angliyski",
   "tags": [
@@ -9,6 +12,12 @@
     "pol-kornell",
     "captain-britain",
     "kapitan-britaniya"
+  ],
+  "cover": "https://web.archive.org/web/20260208211013im_/http://spidermedia.ru/assets/images/import_image/1259.jpg",
+  "modx_id": 1259,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

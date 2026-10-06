@@ -8,6 +8,12 @@
     "dc-comics",
     "supergirl"
   ],
+  "cover": "https://web.archive.org/web/20160611153650im_/http://spidermedia.ru/assets/images/tv/supergirl/01-02/13.jpg",
+  "modx_id": 100711,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

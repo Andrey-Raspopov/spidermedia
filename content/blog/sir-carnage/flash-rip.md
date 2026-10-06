@@ -1,6 +1,6 @@
 {
   "title": "Flash: RIP",
-  "date": "2009-02-07T16:11:00+03:00",
+  "date": "2009-02-07T16:11:21+03:00",
   "url": "/blog/sir-carnage/flash-rip/",
   "original_url": "http://spidermedia.ru/blog/sir-carnage/flash-rip",
   "archived": "https://web.archive.org/web/20250215000301/http://spidermedia.ru/blog/sir-carnage/flash-rip",
@@ -9,6 +9,11 @@
     "fanfikshn",
     "the-flash",
     "dc-comics"
+  ],
+  "modx_id": 253,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

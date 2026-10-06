@@ -1,7 +1,10 @@
 {
   "title": "Старик в бешенстве",
-  "date": "2009-06-15T23:29:00+03:00",
+  "date": "2009-06-15T22:29:19+03:00",
   "url": "/news/starik-v-beshenstve/",
+  "aliases": [
+    "/node/1427/"
+  ],
   "original_url": "http://spidermedia.ru/news/starik-v-beshenstve",
   "archived": "https://web.archive.org/web/20111018131206/http://spidermedia.ru/news/starik-v-beshenstve",
   "tags": [
@@ -13,7 +16,15 @@
     "logan-0",
     "oblozhki",
     "preview-s",
-    "rosomaha"
+    "rosomaha",
+    "prevyu",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20111018131206im_/http://spidermedia.ru/assets/images/import_image/1427.jpg",
+  "modx_id": 1427,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

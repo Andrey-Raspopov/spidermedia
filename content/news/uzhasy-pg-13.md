@@ -1,6 +1,6 @@
 {
   "title": "Ужасы PG-13",
-  "date": "2011-02-12T04:49:00+03:00",
+  "date": "2011-02-12T04:49:31+03:00",
   "url": "/news/uzhasy-pg-13/",
   "original_url": "http://spidermedia.ru/news/uzhasy-pg-13",
   "archived": "https://web.archive.org/web/20160917071537/http://spidermedia.ru:80/news/uzhasy-pg-13",
@@ -9,6 +9,12 @@
     "majk-norton",
     "fear-itself",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20160917071537im_/http://spidermedia.ru/assets/images/import_image/3351.jpg",
+  "modx_id": 3351,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

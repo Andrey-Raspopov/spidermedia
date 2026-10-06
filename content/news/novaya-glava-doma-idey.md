@@ -1,12 +1,21 @@
 {
   "title": "Новая глава Дома Идей",
-  "date": "2011-01-04T21:38:00+03:00",
+  "date": "2011-01-04T21:38:53+03:00",
   "url": "/news/novaya-glava-doma-idey/",
+  "aliases": [
+    "/node/3144/"
+  ],
   "original_url": "http://spidermedia.ru/news/novaya-glava-doma-idey",
   "archived": "https://web.archive.org/web/20251117003931/http://spidermedia.ru/news/novaya-glava-doma-idey",
   "tags": [
     "aksel-alonso",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20251117003931im_/http://spidermedia.ru/assets/images/import_image/3144.jpg",
+  "modx_id": 3144,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

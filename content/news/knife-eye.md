@@ -1,7 +1,10 @@
 {
   "title": "Knife to the eye!",
-  "date": "2010-07-20T02:43:00+03:00",
+  "date": "2010-07-20T01:43:57+03:00",
   "url": "/news/knife-eye/",
+  "aliases": [
+    "/node/2750/"
+  ],
   "original_url": "http://spidermedia.ru/news/knife-eye",
   "archived": "https://web.archive.org/web/20210128044104/http://spidermedia.ru/news/knife-eye",
   "tags": [
@@ -9,6 +12,11 @@
     "the-goon",
     "san-diego-comic-con-international",
     "dark-horse"
+  ],
+  "modx_id": 2750,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

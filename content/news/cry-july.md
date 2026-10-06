@@ -1,7 +1,10 @@
 {
   "title": "Cry for July",
-  "date": "2009-05-16T19:29:00+03:00",
+  "date": "2009-05-16T18:29:36+03:00",
   "url": "/news/cry-july/",
+  "aliases": [
+    "/node/1214/"
+  ],
   "original_url": "http://spidermedia.ru/news/cry-july",
   "archived": "https://web.archive.org/web/20260125131939/http://spidermedia.ru/news/cry-july",
   "tags": [
@@ -16,6 +19,12 @@
     "starmen",
     "atom",
     "green-arrow"
+  ],
+  "cover": "https://web.archive.org/web/20260125131939im_/http://spidermedia.ru/assets/images/import_image/1214.jpg",
+  "modx_id": 1214,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
@@ -39,4 +48,4 @@
 
 - Финал **Cry for Justice** окажет серьезное влияние на ближайшее будущее не только Лиги, но и Вселенной ДиСи в целом.
 
-Робинсон также обронил, что в перерывах от [Супермена](../../node/1201/) он работает над историей об **Обществе Справедливости** *(Justice Society)* и мини-серией о происхождении **Шейда** *(Shade)*. Ни тот, ни другой проект, к сожалению, в ближайшее время ждать не стоит.
+Робинсон также обронил, что в перерывах от [Супермена](../vezdesushchiy-robinson-ili-novyy-krossover-supermena/) он работает над историей об **Обществе Справедливости** *(Justice Society)* и мини-серией о происхождении **Шейда** *(Shade)*. Ни тот, ни другой проект, к сожалению, в ближайшее время ждать не стоит.

@@ -1,7 +1,10 @@
 {
   "title": "Сирены Кризиса на улицах",
-  "date": "2009-04-09T01:55:00+03:00",
+  "date": "2009-04-09T00:55:46+03:00",
   "url": "/news/sireny-krizisa-na-ulicah/",
+  "aliases": [
+    "/node/893/"
+  ],
   "original_url": "https://spidermedia.ru/news/sireny-krizisa-na-ulicah",
   "archived": "https://web.archive.org/web/20260215084300/https://spidermedia.ru/news/sireny-krizisa-na-ulicah",
   "tags": [
@@ -10,6 +13,12 @@
     "dastin-nguen",
     "final-crisis",
     "gillem-marsh"
+  ],
+  "cover": "https://web.archive.org/web/20260215084300im_/http://spidermedia.ru/assets/images/import_image/893.jpg",
+  "modx_id": 893,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

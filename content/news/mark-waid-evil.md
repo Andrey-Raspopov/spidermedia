@@ -1,13 +1,22 @@
 {
   "title": "Mark Waid is Evil",
-  "date": "2009-01-30T11:10:00+03:00",
+  "date": "2009-01-30T11:10:26+03:00",
   "url": "/news/mark-waid-evil/",
+  "aliases": [
+    "/node/22/"
+  ],
   "original_url": "http://spidermedia.ru/news/mark-waid-evil",
   "archived": "https://web.archive.org/web/20250512122036/http://spidermedia.ru/news/mark-waid-evil",
   "tags": [
     "mark-waid",
     "boom-studios",
     "irredeemable"
+  ],
+  "cover": "https://web.archive.org/web/20180125030620im_/http://spidermedia.ru/assets/images/import_image/22.jpg",
+  "modx_id": 22,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

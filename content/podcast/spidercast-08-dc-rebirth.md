@@ -8,6 +8,14 @@
     "dc-comics",
     "spidercast"
   ],
+  "cover": "https://web.archive.org/web/20260215081900im_/http://spidermedia.ru/assets/images/podcast/jim-lee-dan-didio-dc-rebirth.jpg",
+  "podcast_audio": "https://spidermedia.podster.fm/34/download/audio.mp3",
+  "podcast_length": "59:56",
+  "modx_id": 101045,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

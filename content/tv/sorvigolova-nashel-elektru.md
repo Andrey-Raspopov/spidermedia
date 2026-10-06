@@ -9,6 +9,12 @@
     "daredevil",
     "elektra"
   ],
+  "cover": "https://web.archive.org/web/20260214131822im_/http://spidermedia.ru/assets/images/news/tv/marvel/gq2cbtozg6i.jpg",
+  "modx_id": 100325,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

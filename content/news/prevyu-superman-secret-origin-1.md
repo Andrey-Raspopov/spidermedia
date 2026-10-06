@@ -1,7 +1,10 @@
 {
   "title": "Превью Superman - Secret Origin #1",
-  "date": "2009-08-13T00:16:00+03:00",
+  "date": "2009-08-12T23:16:16+03:00",
   "url": "/news/prevyu-superman-secret-origin-1/",
+  "aliases": [
+    "/node/1773/"
+  ],
   "original_url": "http://spidermedia.ru/news/prevyu-superman-secret-origin-1",
   "archived": "https://web.archive.org/web/20120608122647/http://spidermedia.ru/news/prevyu-superman-secret-origin-1",
   "tags": [
@@ -11,7 +14,16 @@
     "dzhef-dzhons",
     "komiksy",
     "preview-s",
-    "supermen"
+    "supermen",
+    "superman",
+    "prevyu",
+    "geoff-johns"
+  ],
+  "cover": "https://web.archive.org/web/20120608122647im_/http://spidermedia.ru/assets/images/import_image/1773.jpg",
+  "modx_id": 1773,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

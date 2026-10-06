@@ -1,7 +1,10 @@
 {
   "title": "\"Враг\" Бендиса + превью",
-  "date": "2010-01-26T21:47:00+03:00",
+  "date": "2010-01-26T21:47:25+03:00",
   "url": "/news/vrag-bendisa-prevyu/",
+  "aliases": [
+    "/node/2014/"
+  ],
   "original_url": "https://spidermedia.ru/news/vrag-bendisa-prevyu",
   "archived": "https://web.archive.org/web/20260120155510/https://spidermedia.ru/news/vrag-bendisa-prevyu",
   "tags": [
@@ -15,13 +18,19 @@
     "ed-mcguinness",
     "brian-michael-bendis"
   ],
+  "cover": "https://web.archive.org/web/20260120155510im_/http://spidermedia.ru/assets/images/import_image/2014.jpg",
+  "modx_id": 2014,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
 ![](https://web.archive.org/web/20260120155510im_/http://i365.photobucket.com/albums/oo93/Ellaya_dw/Spidermedia/_1255729429.jpg)
 
-Давно уже известно, что онгоингов Ultimate-линейки будет всего четыре (лишь недавно стало известно [название четвёртого](../../node/2000/)), однако вселенная не маленькая и столько (учитывая, что две из них мстительские тайтлы) серий явно не достаточно. Тут на помощь приходят мини-серии. Одна из них - **Ultimate Comics Armor Wars** **-** уже выходит, другую же ждать только в январе. О ней и пойдёт речь.
+Давно уже известно, что онгоингов Ultimate-линейки будет всего четыре (лишь недавно стало известно [название четвёртого](../ultimate-x-chetvertyy-ultimate-ongoing/)), однако вселенная не маленькая и столько (учитывая, что две из них мстительские тайтлы) серий явно не достаточно. Тут на помощь приходят мини-серии. Одна из них - **Ultimate Comics Armor Wars** **-** уже выходит, другую же ждать только в январе. О ней и пойдёт речь.
 [![Photobucket](https://web.archive.org/web/20260120155510im_/http://i365.photobucket.com/albums/oo93/Ellaya_dw/Spidermedia/th_1255729429.jpg)](http://s365.photobucket.com/albums/oo93/Ellaya_dw/Spidermedia/?action=view¤t=1255729429.jpg)Название мини: **Ultimate Comics Enemy**, состоять она будет из четырёх номеров. Сценаристом сего творения выступит неоднозначный **Брайан Майкл Бендис** (*Brian Michael Bendis*), художником же будет **Рафа Сэндовал** (*Rafael Sandoval*), а обложками (ну хотя бы первой, которую вы можете видеть слева) заведует  **Эд МакГиннес** (*Ed McGuinness*).
 
 О "внутренностях" комикса пока мало что известно, поэтому приведу синопсис:

@@ -1,6 +1,6 @@
 {
   "title": "ОБЗОР: «Супермен: Красный сын», русскоязычное издание",
-  "date": "2014-12-04T11:11:00+03:00",
+  "date": "2014-12-04T11:11:03+03:00",
   "url": "/blog/hella/obzor-supermen-krasnyy-syn-russkoyazychnoe-izdanie/",
   "original_url": "http://spidermedia.ru/blog/hella/obzor-supermen-krasnyy-syn-russkoyazychnoe-izdanie",
   "archived": "https://web.archive.org/web/20260307054943/http://spidermedia.ru/blog/hella/obzor-supermen-krasnyy-syn-russkoyazychnoe-izdanie",
@@ -12,6 +12,12 @@
     "dejv-dzhonson",
     "azbuka",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150325232553im_/http://spidermedia.ru/assets/images/import_image/8333.jpg",
+  "modx_id": 8333,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

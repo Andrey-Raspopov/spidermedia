@@ -1,12 +1,18 @@
 {
   "title": "ALL-NEW МЖДЗ: РЕКВИЕМ ПО МЕЧТЕ",
-  "date": "2014-07-15T14:20:00+03:00",
+  "date": "2014-07-15T13:20:24+03:00",
   "url": "/blog/redson/all-new-mzhdz-rekviem-po-mechte/",
   "original_url": "http://spidermedia.ru/blog/redson/all-new-mzhdz-rekviem-po-mechte",
   "archived": "https://web.archive.org/web/20251013192858/http://spidermedia.ru/blog/redson/all-new-mzhdz-rekviem-po-mechte",
   "tags": [
     "mnenie",
     "mzhdz"
+  ],
+  "cover": "https://web.archive.org/web/20251013192858im_/http://spidermedia.ru/assets/images/import_image/7887.jpg",
+  "modx_id": 7887,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

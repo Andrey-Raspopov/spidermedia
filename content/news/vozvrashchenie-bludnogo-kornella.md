@@ -1,6 +1,6 @@
 {
   "title": "Возвращение блудного Корнелла",
-  "date": "2012-11-16T05:20:00+03:00",
+  "date": "2012-11-16T04:20:26+03:00",
   "url": "/news/vozvrashchenie-bludnogo-kornella/",
   "original_url": "http://spidermedia.ru/news/vozvrashchenie-bludnogo-kornella",
   "archived": "https://web.archive.org/web/20150428052657/http://spidermedia.ru/news/vozvrashchenie-bludnogo-kornella",
@@ -9,7 +9,14 @@
     "alan-devis",
     "marvel-now",
     "marvel-comics",
-    "tizer"
+    "tizer",
+    "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150428052657im_/http://spidermedia.ru/assets/images/import_image/7087.jpg",
+  "modx_id": 7087,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

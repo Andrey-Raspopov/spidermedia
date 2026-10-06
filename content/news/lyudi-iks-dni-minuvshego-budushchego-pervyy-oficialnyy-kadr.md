@@ -1,6 +1,6 @@
 {
   "title": "\"Люди Икс: Дни минувшего будущего\": Первый официальный кадр",
-  "date": "2013-08-18T22:46:00+03:00",
+  "date": "2013-08-18T21:46:07+03:00",
   "url": "/news/lyudi-iks-dni-minuvshego-budushchego-pervyy-oficialnyy-kadr/",
   "original_url": "http://spidermedia.ru/news/lyudi-iks-dni-minuvshego-budushchego-pervyy-oficialnyy-kadr",
   "archived": "https://web.archive.org/web/20260309003540/http://spidermedia.ru/news/lyudi-iks-dni-minuvshego-budushchego-pervyy-oficialnyy-kadr",
@@ -8,7 +8,15 @@
     "wolverine",
     "x-men",
     "zver",
-    "days-of-future-past"
+    "days-of-future-past",
+    "lyudi-iks",
+    "dni-minuvshego-budushhego"
+  ],
+  "cover": "https://web.archive.org/web/20260309003540im_/http://spidermedia.ru/assets/images/import_image/7424.jpg",
+  "modx_id": 7424,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

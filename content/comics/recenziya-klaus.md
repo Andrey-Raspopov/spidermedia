@@ -8,6 +8,12 @@
     "fanzon",
     "zarubezhnye-komiksy-na-russkom"
   ],
+  "cover": "https://web.archive.org/web/20251207094630im_/http://spidermedia.ru/assets/images/news/images/oleg-lyfar/review/klaus/0.jpg",
+  "modx_id": 102084,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

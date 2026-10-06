@@ -1,6 +1,6 @@
 {
   "title": "Shot through the heart",
-  "date": "2009-05-25T14:54:00+03:00",
+  "date": "2009-05-25T13:54:32+03:00",
   "url": "/blog/sterpazook/shot-through-heart/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/shot-through-heart",
   "archived": "https://web.archive.org/web/20120607054823/http://spidermedia.ru/blog/sterpazook/shot-through-heart",
@@ -10,6 +10,12 @@
     "dedpul",
     "komiksy",
     "muzyka"
+  ],
+  "cover": "https://web.archive.org/web/20120607054823im_/http://spidermedia.ru/assets/images/import_image/1274.jpg",
+  "modx_id": 1274,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

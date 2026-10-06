@@ -7,6 +7,12 @@
   "tags": [
     "manga"
   ],
+  "cover": "https://web.archive.org/web/20251216120446im_/http://spidermedia.ru/assets/images/manga/others/prison-school/mzk.jpg",
+  "modx_id": 101883,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

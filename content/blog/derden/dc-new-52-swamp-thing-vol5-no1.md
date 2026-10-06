@@ -1,6 +1,6 @@
 {
   "title": "DC New 52: Swamp Thing vol.5 №1",
-  "date": "2011-09-27T02:33:00+03:00",
+  "date": "2011-09-27T01:33:43+03:00",
   "url": "/blog/derden/dc-new-52-swamp-thing-vol5-no1/",
   "original_url": "https://spidermedia.ru/blog/derden/dc-new-52-swamp-thing-vol5-no1",
   "archived": "https://web.archive.org/web/20260313121103/https://spidermedia.ru/blog/derden/dc-new-52-swamp-thing-vol5-no1",
@@ -9,6 +9,12 @@
     "scott-snyder",
     "new-52",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150326221510im_/http://spidermedia.ru/assets/images/import_image/6623.jpg",
+  "modx_id": 6623,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

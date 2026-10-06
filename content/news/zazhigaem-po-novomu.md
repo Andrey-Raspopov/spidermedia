@@ -1,6 +1,6 @@
 {
   "title": "Зажигаем по-новому!",
-  "date": "2011-05-25T17:26:00+03:00",
+  "date": "2011-05-25T16:26:04+03:00",
   "url": "/news/zazhigaem-po-novomu/",
   "original_url": "http://spidermedia.ru/news/zazhigaem-po-novomu",
   "archived": "https://web.archive.org/web/20230209070242/http://spidermedia.ru/news/zazhigaem-po-novomu",
@@ -10,6 +10,12 @@
     "zarubezhnye-komiksy-na-russkom",
     "soulfire",
     "michael-turner"
+  ],
+  "cover": "https://web.archive.org/web/20230209070242im_/http://spidermedia.ru/assets/images/import_image/6010.jpg",
+  "modx_id": 6010,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

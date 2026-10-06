@@ -1,7 +1,10 @@
 {
   "title": "Незванный гость",
-  "date": "2009-08-15T15:20:00+03:00",
+  "date": "2009-08-15T14:20:22+03:00",
   "url": "/news/nezvannyy-gost/",
+  "aliases": [
+    "/node/1791/"
+  ],
   "original_url": "http://spidermedia.ru/news/nezvannyy-gost",
   "archived": "https://web.archive.org/web/20251108034858/http://spidermedia.ru/news/nezvannyy-gost",
   "tags": [
@@ -12,7 +15,14 @@
     "james-robinson",
     "eddy-barrows",
     "dc-comics",
-    "blackest-night"
+    "blackest-night",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20251108034858im_/http://spidermedia.ru/assets/images/import_image/1791.jpg",
+  "modx_id": 1791,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

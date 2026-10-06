@@ -8,6 +8,12 @@
     "dc-comics",
     "superman"
   ],
+  "cover": "https://web.archive.org/web/20260313111800im_/http://spidermedia.ru/assets/images/news/dc/rebirth-2016/new-super-man.jpg",
+  "modx_id": 101098,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

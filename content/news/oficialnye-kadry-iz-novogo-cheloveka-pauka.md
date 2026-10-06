@@ -1,12 +1,18 @@
 {
   "title": "Официальные кадры из \"Нового Человека-Паука\"",
-  "date": "2011-12-15T13:03:00+03:00",
+  "date": "2011-12-15T12:03:00+03:00",
   "url": "/news/oficialnye-kadry-iz-novogo-cheloveka-pauka/",
   "original_url": "http://spidermedia.ru/news/oficialnye-kadry-iz-novogo-cheloveka-pauka",
   "archived": "https://web.archive.org/web/20251014043415/http://spidermedia.ru/news/oficialnye-kadry-iz-novogo-cheloveka-pauka",
   "tags": [
     "spider-man",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20251014043415im_/http://spidermedia.ru/assets/images/import_image/6737.jpg",
+  "modx_id": 6737,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

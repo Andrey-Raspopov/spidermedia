@@ -1,11 +1,17 @@
 {
   "title": "Выиграй билет в кинотеатр \"Синема Стар\"!",
-  "date": "2014-09-12T18:13:00+03:00",
+  "date": "2014-09-12T17:13:01+03:00",
   "url": "/news/vyigray-bilet-v-kinoteatr-sinema-star-0/",
   "original_url": "http://spidermedia.ru/news/vyigray-bilet-v-kinoteatr-sinema-star-0",
   "archived": "https://web.archive.org/web/20260211181704/http://spidermedia.ru/news/vyigray-bilet-v-kinoteatr-sinema-star-0",
   "tags": [
     "konkurs"
+  ],
+  "cover": "https://web.archive.org/web/20260211181704im_/http://spidermedia.ru/assets/images/import_image/8056.png",
+  "modx_id": 8056,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -4,6 +4,9 @@
   "url": "/comics2movie/c/clerks/clerks/",
   "original_url": "http://spidermedia.ru/comics2movie/c/clerks/clerks.html",
   "archived": "https://web.archive.org/web/20050505154633/http://spidermedia.ru:80/comics2movie/c/clerks/clerks.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

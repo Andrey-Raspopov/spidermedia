@@ -1,12 +1,22 @@
 {
   "title": "Не про комиксы",
-  "date": "2010-05-05T10:52:00+03:00",
+  "date": "2010-05-05T09:52:29+03:00",
   "url": "/blog/sterpazook/ne-pro-komiksy/",
+  "aliases": [
+    "/node/2600/"
+  ],
   "original_url": "http://spidermedia.ru/blog/sterpazook/ne-pro-komiksy",
   "archived": "https://web.archive.org/web/20240614194326/http://spidermedia.ru/blog/sterpazook/ne-pro-komiksy",
   "tags": [
     "art-0",
-    "literatura"
+    "literatura",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20240614194326im_/http://spidermedia.ru/assets/images/import_image/2600.jpg",
+  "modx_id": 2600,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "Двойное Ultimate-удовольствие и один Бендис",
-  "date": "2009-06-15T05:33:00+03:00",
+  "date": "2009-06-15T04:33:25+03:00",
   "url": "/news/dvoynoe-ultimate-udovolstvie-i-odin-bendis/",
+  "aliases": [
+    "/node/1424/"
+  ],
   "original_url": "http://spidermedia.ru/news/dvoynoe-ultimate-udovolstvie-i-odin-bendis",
   "archived": "https://web.archive.org/web/20120610055832/http://spidermedia.ru/news/dvoynoe-ultimate-udovolstvie-i-odin-bendis",
   "tags": [
@@ -11,7 +14,14 @@
     "zheleznyy-chelovek",
     "komiksy",
     "mstiteli",
-    "chelovek-pauk"
+    "chelovek-pauk",
+    "avengers"
+  ],
+  "cover": "https://web.archive.org/web/20120610055832im_/http://spidermedia.ru/assets/images/import_image/1424.jpg",
+  "modx_id": 1424,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

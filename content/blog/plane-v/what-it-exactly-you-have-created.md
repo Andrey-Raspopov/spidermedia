@@ -1,11 +1,20 @@
 {
   "title": "What is it, exactly, that you have created?",
-  "date": "2009-12-27T19:58:00+03:00",
+  "date": "2009-12-27T19:58:14+03:00",
   "url": "/blog/plane-v/what-it-exactly-you-have-created/",
+  "aliases": [
+    "/node/2200/"
+  ],
   "original_url": "http://spidermedia.ru/blog/plane-v/what-it-exactly-you-have-created",
   "archived": "https://web.archive.org/web/20161112212843/http://spidermedia.ru:80/blog/plane-v/what-it-exactly-you-have-created",
   "tags": [
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20161112212843im_/http://spidermedia.ru/assets/images/import_image/2200.jpg",
+  "modx_id": 2200,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

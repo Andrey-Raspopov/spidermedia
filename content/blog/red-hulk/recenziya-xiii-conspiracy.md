@@ -1,7 +1,10 @@
 {
   "title": "рецензия - XIII the Conspiracy",
-  "date": "2009-02-28T02:36:00+03:00",
+  "date": "2009-02-28T02:36:19+03:00",
   "url": "/blog/red-hulk/recenziya-xiii-conspiracy/",
+  "aliases": [
+    "/node/540/"
+  ],
   "original_url": "http://spidermedia.ru/blog/red-hulk/recenziya-xiii-conspiracy",
   "archived": "https://web.archive.org/web/20191216074128/http://spidermedia.ru/blog/red-hulk/recenziya-xiii-conspiracy",
   "tags": [
@@ -9,7 +12,14 @@
     "recenziya",
     "serialy",
     "xiii",
-    "trinadcat"
+    "trinadcat",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20191216074128im_/http://spidermedia.ru/assets/images/import_image/540.jpg",
+  "modx_id": 540,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "JL: Crisis on Two Earths - Трейлер",
-  "date": "2009-11-12T15:12:00+03:00",
+  "date": "2009-11-12T15:12:43+03:00",
   "url": "/news/jl-crisis-two-earths-treyler/",
   "original_url": "https://spidermedia.ru/news/jl-crisis-two-earths-treyler",
   "archived": "https://web.archive.org/web/20250913015902/https://spidermedia.ru/news/jl-crisis-two-earths-treyler",
@@ -8,6 +8,11 @@
     "dc-comics",
     "animaciya",
     "justice-league"
+  ],
+  "modx_id": 2085,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

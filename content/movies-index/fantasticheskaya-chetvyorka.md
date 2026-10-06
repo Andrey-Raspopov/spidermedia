@@ -1,9 +1,15 @@
 {
   "title": "Фантастическая Четвёрка",
-  "date": "2015-05-07T00:00:00+00:00",
+  "date": "2015-07-16T14:38:00+03:00",
   "url": "/movies-index/fantasticheskaya-chetvyorka/",
   "original_url": "http://spidermedia.ru/movies-index/fantasticheskaya-chetvyorka",
   "archived": "https://web.archive.org/web/20150507041545/http://spidermedia.ru:80/movies-index/fantasticheskaya-chetvyorka",
+  "cover": "https://web.archive.org/web/20150507041545im_/http://spidermedia.ru/assets/images/movies/marvel/fantastic-four-movie-2015/marvel-comics-fantastic-four-movie-2015-poster.jpg",
+  "modx_id": 100114,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,12 +1,18 @@
 {
   "title": "Я отвергаю Тома Хупера",
-  "date": "2013-02-09T14:48:00+03:00",
+  "date": "2013-02-09T13:48:58+03:00",
   "url": "/blog/redson/ya-otvergayu-toma-hupera/",
   "original_url": "http://spidermedia.ru/blog/redson/ya-otvergayu-toma-hupera",
   "archived": "https://web.archive.org/web/20130619080659/http://spidermedia.ru/blog/redson/ya-otvergayu-toma-hupera",
   "tags": [
     "kino",
     "mnenie"
+  ],
+  "cover": "https://web.archive.org/web/20130619080659im_/http://spidermedia.ru/assets/images/import_image/7142.jpg",
+  "modx_id": 7142,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

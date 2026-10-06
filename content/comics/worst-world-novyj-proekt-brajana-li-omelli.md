@@ -7,6 +7,12 @@
   "tags": [
     "bryan-lee-o-malley"
   ],
+  "cover": "https://web.archive.org/web/20200218015813im_/http://spidermedia.ru/assets/images/news/stuff/worst-world-1-190876.jpg",
+  "modx_id": 101268,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

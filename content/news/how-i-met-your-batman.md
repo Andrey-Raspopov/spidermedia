@@ -1,6 +1,6 @@
 {
   "title": "How I Met Your Batman",
-  "date": "2013-02-22T05:05:00+03:00",
+  "date": "2013-02-22T04:05:33+03:00",
   "url": "/news/how-i-met-your-batman/",
   "original_url": "https://spidermedia.ru/news/how-i-met-your-batman",
   "archived": "https://web.archive.org/web/20250814201634/https://spidermedia.ru/news/how-i-met-your-batman",
@@ -10,6 +10,12 @@
     "greg-pak",
     "dc-comics",
     "batman"
+  ],
+  "cover": "https://web.archive.org/web/20150503070944im_/http://spidermedia.ru/assets/images/import_image/7148.jpg",
+  "modx_id": 7148,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

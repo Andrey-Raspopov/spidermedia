@@ -1,12 +1,18 @@
 {
   "title": "Рецензия на фильм \"ГОДЗИЛЛА\"",
-  "date": "2014-05-17T16:04:00+03:00",
+  "date": "2014-05-17T15:04:39+03:00",
   "url": "/blog/shargor/recenziya-na-film-godzilla/",
   "original_url": "http://spidermedia.ru/blog/shargor/recenziya-na-film-godzilla",
   "archived": "https://web.archive.org/web/20220815202655/http://spidermedia.ru/blog/shargor/recenziya-na-film-godzilla",
   "tags": [
     "recenziya",
     "godzilla"
+  ],
+  "cover": "https://web.archive.org/web/20220815202655im_/http://spidermedia.ru/assets/images/import_image/7736.png",
+  "modx_id": 7736,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

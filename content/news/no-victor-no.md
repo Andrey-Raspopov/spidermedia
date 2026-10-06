@@ -1,7 +1,10 @@
 {
   "title": "NO, VICTOR, NO!!",
-  "date": "2009-11-04T01:14:00+03:00",
+  "date": "2009-11-04T01:14:55+03:00",
   "url": "/news/no-victor-no/",
+  "aliases": [
+    "/node/2058/"
+  ],
   "original_url": "http://spidermedia.ru/news/no-victor-no",
   "archived": "https://web.archive.org/web/20250512111701/http://spidermedia.ru/news/no-victor-no",
   "tags": [
@@ -14,6 +17,12 @@
     "siege",
     "marvel",
     "iron-patriot"
+  ],
+  "cover": "https://web.archive.org/web/20250512111701im_/http://spidermedia.ru/assets/images/import_image/2058.jpg",
+  "modx_id": 2058,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

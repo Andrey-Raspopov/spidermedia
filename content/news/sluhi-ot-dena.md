@@ -1,7 +1,10 @@
 {
   "title": "Слухи от Дэна",
-  "date": "2009-05-18T21:28:00+03:00",
+  "date": "2009-05-18T20:28:03+03:00",
   "url": "/news/sluhi-ot-dena/",
+  "aliases": [
+    "/node/1231/"
+  ],
   "original_url": "http://spidermedia.ru/news/sluhi-ot-dena",
   "archived": "https://web.archive.org/web/20111018131456/http://spidermedia.ru/news/sluhi-ot-dena",
   "tags": [
@@ -16,7 +19,14 @@
     "den-didio",
     "komiksy",
     "sluhi",
-    "temneyshaya-noch"
+    "temneyshaya-noch",
+    "temnejshaya-noch"
+  ],
+  "cover": "https://web.archive.org/web/20111018131456im_/http://spidermedia.ru/assets/images/import_image/1231.jpg",
+  "modx_id": 1231,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

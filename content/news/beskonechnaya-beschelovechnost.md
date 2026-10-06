@@ -1,13 +1,20 @@
 {
   "title": "Бесконечная бесчеловечность",
-  "date": "2013-07-11T18:21:00+03:00",
+  "date": "2013-07-11T17:21:51+03:00",
   "url": "/news/beskonechnaya-beschelovechnost/",
   "original_url": "http://spidermedia.ru/news/beskonechnaya-beschelovechnost",
   "archived": "https://web.archive.org/web/20260308234943/http://spidermedia.ru/news/beskonechnaya-beschelovechnost",
   "tags": [
     "stiv-makniven",
     "matt-fraction",
-    "marvel"
+    "marvel",
+    "mett-frakshen"
+  ],
+  "cover": "https://web.archive.org/web/20260308234943im_/http://spidermedia.ru/assets/images/import_image/7335.jpg",
+  "modx_id": 7335,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,14 +1,23 @@
 {
   "title": "Бронированный комикс",
-  "date": "2009-04-23T01:59:00+03:00",
+  "date": "2009-04-23T00:59:51+03:00",
   "url": "/news/bronirovannyy-komiks/",
+  "aliases": [
+    "/node/1024/"
+  ],
   "original_url": "http://spidermedia.ru/news/bronirovannyy-komiks",
   "archived": "https://web.archive.org/web/20220820002034/http://spidermedia.ru/news/bronirovannyy-komiks",
   "tags": [
     "marvel",
     "iron-man",
     "animaciya",
-    "war-machine"
+    "war-machine",
+    "zheleznyy-chelovek"
+  ],
+  "modx_id": 1024,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

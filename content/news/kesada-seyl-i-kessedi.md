@@ -1,7 +1,10 @@
 {
   "title": "Кесада, Сэйл и Кэссэди",
-  "date": "2009-07-16T16:29:00+03:00",
+  "date": "2009-07-16T15:29:27+03:00",
   "url": "/news/kesada-seyl-i-kessedi/",
+  "aliases": [
+    "/node/1569/"
+  ],
   "original_url": "http://spidermedia.ru/news/kesada-seyl-i-kessedi",
   "archived": "https://web.archive.org/web/20260313121134/http://spidermedia.ru/news/kesada-seyl-i-kessedi",
   "tags": [
@@ -13,7 +16,15 @@
     "reborn",
     "marvel",
     "iron-man",
-    "captain-america"
+    "captain-america",
+    "brayan-hitch",
+    "art",
+    "zheleznyy-chelovek"
+  ],
+  "modx_id": 1569,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

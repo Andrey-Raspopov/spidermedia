@@ -1,6 +1,6 @@
 {
   "title": "Вселенная Marvel изменится навсегда",
-  "date": "2015-01-21T00:10:00+03:00",
+  "date": "2015-01-21T00:10:34+03:00",
   "url": "/news/vselennaya-marvel-izmenitsya-navsegda/",
   "original_url": "http://spidermedia.ru/news/vselennaya-marvel-izmenitsya-navsegda",
   "archived": "https://web.archive.org/web/20251115024552/http://spidermedia.ru/news/vselennaya-marvel-izmenitsya-navsegda",
@@ -8,6 +8,12 @@
     "secret-wars",
     "marvel",
     "dzhonatan-hikman"
+  ],
+  "cover": "https://web.archive.org/web/20150326122730im_/http://spidermedia.ru/assets/images/import_image/8525.jpg",
+  "modx_id": 8525,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "Watchmensch",
-  "date": "2009-03-18T23:01:00+03:00",
+  "date": "2009-03-18T23:01:04+03:00",
   "url": "/news/watchmensch/",
+  "aliases": [
+    "/node/710/"
+  ],
   "original_url": "http://spidermedia.ru/news/watchmensch",
   "archived": "https://web.archive.org/web/20251013193446/http://spidermedia.ru/news/watchmensch",
   "tags": [
@@ -9,7 +12,14 @@
     "preview",
     "spoof",
     "watchmensch",
-    "parodiya"
+    "parodiya",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20251013193446im_/http://spidermedia.ru/assets/images/import_image/710.jpg",
+  "modx_id": 710,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

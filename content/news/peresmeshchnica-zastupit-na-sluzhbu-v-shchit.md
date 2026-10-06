@@ -1,6 +1,6 @@
 {
   "title": "Пересмешница заступит на службу в Щ.И.Т.",
-  "date": "2014-08-19T21:12:00+03:00",
+  "date": "2014-08-19T20:12:06+03:00",
   "url": "/news/peresmeshchnica-zastupit-na-sluzhbu-v-shchit/",
   "original_url": "https://spidermedia.ru/news/peresmeshchnica-zastupit-na-sluzhbu-v-shchit",
   "archived": "https://web.archive.org/web/20251108194624/https://spidermedia.ru/news/peresmeshchnica-zastupit-na-sluzhbu-v-shchit",
@@ -8,6 +8,12 @@
     "kasting",
     "agenty-shhita",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20251108194624im_/http://spidermedia.ru/assets/images/import_image/8007.jpg",
+  "modx_id": 8007,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

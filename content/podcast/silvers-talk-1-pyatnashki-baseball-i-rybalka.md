@@ -7,6 +7,13 @@
   "tags": [
     "spider-talk"
   ],
+  "cover": "https://web.archive.org/web/20260312011714im_/http://spidermedia.ru/assets/images/podcast/spt/silvers-1/silvers_1.jpg",
+  "podcast_audio": "https://podster.fm/episodes/bc5572b4-0792-44d0-aee5-6196d3d3df72/audio.mp3",
+  "modx_id": 102525,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

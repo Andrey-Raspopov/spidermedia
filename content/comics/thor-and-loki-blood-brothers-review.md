@@ -10,6 +10,12 @@
     "j-michael-straczynski",
     "esad-ribich"
   ],
+  "cover": "https://web.archive.org/web/20251111080411im_/http://spidermedia.ru/assets/images/reviews/parallel/thor-loki/mzk.jpg",
+  "modx_id": 101813,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

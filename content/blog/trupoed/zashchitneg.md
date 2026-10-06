@@ -1,12 +1,20 @@
 {
   "title": "Защитнег",
-  "date": "2009-09-03T12:17:00+03:00",
+  "date": "2009-09-03T11:17:50+03:00",
   "url": "/blog/trupoed/zashchitneg/",
+  "aliases": [
+    "/node/1870/"
+  ],
   "original_url": "https://spidermedia.ru/blog/trupoed/zashchitneg",
   "archived": "https://web.archive.org/web/20250913003806/https://spidermedia.ru/blog/trupoed/zashchitneg",
   "tags": [
     "yumor",
     "defendor"
+  ],
+  "modx_id": 1870,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

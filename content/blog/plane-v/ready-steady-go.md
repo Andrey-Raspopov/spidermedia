@@ -1,11 +1,16 @@
 {
   "title": "Ready steady go",
-  "date": "2010-06-13T20:28:00+03:00",
+  "date": "2010-06-13T19:28:34+03:00",
   "url": "/blog/plane-v/ready-steady-go/",
   "original_url": "http://spidermedia.ru/blog/plane-v/ready-steady-go",
   "archived": "https://web.archive.org/web/20251107000003/http://spidermedia.ru/blog/plane-v/ready-steady-go",
   "tags": [
     "anime"
+  ],
+  "modx_id": 2672,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

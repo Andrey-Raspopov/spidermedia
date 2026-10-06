@@ -1,6 +1,6 @@
 {
   "title": "Концепт-арт фильмов \"Первый мститель: Другая война\" и \"Стражи Галактики\"",
-  "date": "2013-04-02T21:37:00+03:00",
+  "date": "2013-04-02T20:37:36+03:00",
   "url": "/news/koncept-art-filmov-pervyy-mstitel-drugaya-voyna-i-strazhi-galaktiki/",
   "original_url": "http://spidermedia.ru/news/koncept-art-filmov-pervyy-mstitel-drugaya-voyna-i-strazhi-galaktiki",
   "archived": "https://web.archive.org/web/20250422041031/http://spidermedia.ru/news/koncept-art-filmov-pervyy-mstitel-drugaya-voyna-i-strazhi-galaktiki",
@@ -9,6 +9,12 @@
     "marvel",
     "koncept-art",
     "captain-america"
+  ],
+  "cover": "https://web.archive.org/web/20250422041031im_/http://spidermedia.ru/assets/images/import_image/7176.jpg",
+  "modx_id": 7176,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

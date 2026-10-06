@@ -1,12 +1,18 @@
 {
   "title": "Пятачок, у тебя есть дома ружьё?",
-  "date": "2014-06-13T13:41:00+03:00",
+  "date": "2014-06-13T12:41:03+03:00",
   "url": "/news/pyatachok-u-tebya-est-doma-ruzhyo/",
   "original_url": "https://spidermedia.ru/news/pyatachok-u-tebya-est-doma-ruzhyo",
   "archived": "https://web.archive.org/web/20260312014706/https://spidermedia.ru/news/pyatachok-u-tebya-est-doma-ruzhyo",
   "tags": [
     "den-ebnett",
     "boom-studios"
+  ],
+  "cover": "https://web.archive.org/web/20180205065008im_/http://spidermedia.ru/assets/images/import_image/7815.jpg",
+  "modx_id": 7815,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

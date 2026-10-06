@@ -10,6 +10,12 @@
     "dzheyson-aaron",
     "kris-bachalo"
   ],
+  "cover": "https://web.archive.org/web/20180315072925im_/http://spidermedia.ru/assets/images/news/marvel/all-new-all-different/dr-strange/doctor-strange-1-preview-1.jpg",
+  "modx_id": 100525,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

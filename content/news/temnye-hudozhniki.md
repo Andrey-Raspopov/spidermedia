@@ -1,7 +1,10 @@
 {
   "title": "Темные художники",
-  "date": "2009-05-05T23:17:00+03:00",
+  "date": "2009-05-05T22:17:23+03:00",
   "url": "/news/temnye-hudozhniki/",
+  "aliases": [
+    "/node/1110/"
+  ],
   "original_url": "http://spidermedia.ru/news/temnye-hudozhniki",
   "archived": "https://web.archive.org/web/20250116130931/http://spidermedia.ru/news/temnye-hudozhniki",
   "tags": [
@@ -10,7 +13,15 @@
     "avengers",
     "preview",
     "rafa-sendoval",
-    "migel-sepulvida"
+    "migel-sepulvida",
+    "prevyu",
+    "dark-avengers"
+  ],
+  "cover": "https://web.archive.org/web/20250116130931im_/http://spidermedia.ru/assets/images/import_image/1110.jpg",
+  "modx_id": 1110,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,13 +1,20 @@
 {
   "title": "Постеры фильма \"Железный Человек 3\" UPD.4",
-  "date": "2013-02-28T08:45:00+03:00",
+  "date": "2013-02-28T07:45:31+03:00",
   "url": "/news/postery-filma-zheleznyy-chelovek-3/",
   "original_url": "http://spidermedia.ru/news/postery-filma-zheleznyy-chelovek-3",
   "archived": "https://web.archive.org/web/20251116072451/http://spidermedia.ru/news/postery-filma-zheleznyy-chelovek-3",
   "tags": [
     "postery",
     "marvel",
-    "iron-man"
+    "iron-man",
+    "zheleznyy-chelovek"
+  ],
+  "cover": "https://web.archive.org/web/20251116072451im_/http://spidermedia.ru/assets/images/import_image/7146.jpg",
+  "modx_id": 7146,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

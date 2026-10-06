@@ -9,6 +9,12 @@
     "roskomnadzor",
     "russian-comics"
   ],
+  "cover": "https://web.archive.org/web/20260125131950im_/http://spidermedia.ru/assets/images/roskomnadzor/20032015/breaking-news1.png",
+  "modx_id": 100098,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

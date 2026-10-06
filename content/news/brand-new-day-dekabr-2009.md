@@ -1,7 +1,10 @@
 {
   "title": "Brand New Day: Декабрь 2009",
-  "date": "2009-09-25T23:31:00+03:00",
+  "date": "2009-09-25T22:31:11+03:00",
   "url": "/news/brand-new-day-dekabr-2009/",
+  "aliases": [
+    "/node/1933/"
+  ],
   "original_url": "http://spidermedia.ru/news/brand-new-day-dekabr-2009",
   "archived": "https://web.archive.org/web/20260215082445/http://spidermedia.ru/news/brand-new-day-dekabr-2009",
   "tags": [
@@ -20,6 +23,12 @@
     "spider-man",
     "elektro"
   ],
+  "cover": "https://web.archive.org/web/20260215082445im_/http://spidermedia.ru/assets/images/import_image/1933.png",
+  "modx_id": 1933,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
@@ -30,7 +39,7 @@
 
 [![](https://web.archive.org/web/20260215082445im_/http://marvel.com/i/content/st/9529new_storyimage3112660_thumb.jpg)](http://marvel.com/i/content/st/9529new_storyimage3112660.jpg) [![](https://web.archive.org/web/20260215082445im_/http://marvel.com/i/content/st/9529new_storyimage3112684_thumb.jpg)](http://marvel.com/i/content/st/9529new_storyimage3112684.jpg) [![](https://web.archive.org/web/20260215082445im_/http://marvel.com/i/content/st/9529new_storyimage3112708_thumb.jpg)](http://marvel.com/i/content/st/9529new_storyimage3112708.jpg) [![](https://web.archive.org/web/20260215082445im_/http://marvel.com/i/content/st/9529new_storyimage3112872_thumb.jpg)](http://marvel.com/i/content/st/9529new_storyimage3112872.jpg) Обложка **#614** от **Марко Джурджевича** *(Marko Djurdjevic)*, каверы **#615-616** авторства **Паоло Ривьеры** *(Paolo Rivera)*, и обложка **WoS #3** от **Елены Джурджевич** *(Jelena Djurdjevic)*
 
-- История [**Power To The People**](../../node/1786/) (#612-614) не просто продолжается, это ее финал! Против безумного разряда Электро можно выстоять только при условии объединения: мэр **Джей Джона Джеймсон** *(J. Jonah Jameson)* и **Человек-Паук** *(Spider-Man)* должны отбросить на время свои противоречия, и встать плечом к плечу перед общим врагом. Сценарий: **Марк Уэйд** *(Mark Waid)*, художественная часть за **Полом Азаситой** *(Paul Azaceta)*, чей черно-белый арт из будущих номеров ниже:
+- История [**Power To The People**](../brand-new-day-noyabr-2009/) (#612-614) не просто продолжается, это ее финал! Против безумного разряда Электро можно выстоять только при условии объединения: мэр **Джей Джона Джеймсон** *(J. Jonah Jameson)* и **Человек-Паук** *(Spider-Man)* должны отбросить на время свои противоречия, и встать плечом к плечу перед общим врагом. Сценарий: **Марк Уэйд** *(Mark Waid)*, художественная часть за **Полом Азаситой** *(Paul Azaceta)*, чей черно-белый арт из будущих номеров ниже:
 
 [![spidey_x-men_p32.jpg - Picamatic - upload your images](https://web.archive.org/web/20260215082445im_/http://www.picamatic.com/show/2009/09/25/10/57/5197297_bigthumb.jpg "spidey_x-men_p32.jpg")](http://www.picamatic.com/view/5197297_spidey_x-men_p32/)
 

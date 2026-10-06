@@ -1,6 +1,6 @@
 {
   "title": "Первые среди равных",
-  "date": "2014-02-12T05:25:00+03:00",
+  "date": "2014-02-12T04:25:05+03:00",
   "url": "/news/pervye-sredi-ravnyh/",
   "original_url": "http://spidermedia.ru/news/pervye-sredi-ravnyh",
   "archived": "https://web.archive.org/web/20260209110744/http://spidermedia.ru/news/pervye-sredi-ravnyh",
@@ -19,6 +19,12 @@
     "dzhejms-ezmus",
     "dag-brejtvejt",
     "valiant-entertainment"
+  ],
+  "cover": "https://web.archive.org/web/20150327080931im_/http://spidermedia.ru/assets/images/import_image/7638.jpg",
+  "modx_id": 7638,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

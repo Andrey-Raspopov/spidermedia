@@ -1,7 +1,10 @@
 {
   "title": "Добро пожаловать на Землю-1",
-  "date": "2009-12-07T20:28:00+03:00",
+  "date": "2009-12-07T20:28:29+03:00",
   "url": "/news/dobro-pozhalovat-na-zemlyu-odin/",
+  "aliases": [
+    "/node/2155/"
+  ],
   "original_url": "http://spidermedia.ru/news/dobro-pozhalovat-na-zemlyu-odin",
   "archived": "https://web.archive.org/web/20251206034229/http://spidermedia.ru/news/dobro-pozhalovat-na-zemlyu-odin",
   "tags": [
@@ -12,6 +15,12 @@
     "j-michael-straczynski",
     "dc-comics",
     "batman"
+  ],
+  "cover": "https://web.archive.org/web/20170312111709im_/http://spidermedia.ru/assets/images/batman-logo.jpg",
+  "modx_id": 2155,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Ещё один звёздно-полосатый Сэм",
-  "date": "2014-07-17T08:30:00+03:00",
+  "date": "2014-07-17T07:30:59+03:00",
   "url": "/news/eshchyo-odin-zvyozdno-polosatyy-sem/",
   "original_url": "http://spidermedia.ru/news/eshchyo-odin-zvyozdno-polosatyy-sem",
   "archived": "https://web.archive.org/web/20250806060028/http://spidermedia.ru/news/eshchyo-odin-zvyozdno-polosatyy-sem",
@@ -12,6 +12,12 @@
     "marvel",
     "captain-america",
     "jildiraj-chinar"
+  ],
+  "cover": "https://web.archive.org/web/20250806060028im_/http://spidermedia.ru/assets/images/import_image/7899.jpg",
+  "modx_id": 7899,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

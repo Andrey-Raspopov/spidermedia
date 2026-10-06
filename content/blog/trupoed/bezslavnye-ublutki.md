@@ -1,7 +1,10 @@
 {
   "title": "Безславные Ублутки",
-  "date": "2009-08-14T05:05:00+03:00",
+  "date": "2009-08-14T04:05:31+03:00",
   "url": "/blog/trupoed/bezslavnye-ublutki/",
+  "aliases": [
+    "/node/1782/"
+  ],
   "original_url": "http://spidermedia.ru/blog/trupoed/bezslavnye-ublutki",
   "archived": "https://web.archive.org/web/20111020135353/http://spidermedia.ru/blog/trupoed/bezslavnye-ublutki",
   "tags": [
@@ -9,7 +12,13 @@
     "graficheskiy-roman",
     "kventin-tarantino",
     "kino",
-    "komiksy"
+    "komiksy",
+    "graficheskij-roman"
+  ],
+  "modx_id": 1782,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

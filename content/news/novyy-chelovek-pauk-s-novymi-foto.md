@@ -1,6 +1,6 @@
 {
   "title": "\"Новый Человек-Паук\" с новыми фото",
-  "date": "2011-07-15T01:03:00+03:00",
+  "date": "2011-07-15T00:03:59+03:00",
   "url": "/news/novyy-chelovek-pauk-s-novymi-foto/",
   "original_url": "http://spidermedia.ru/news/novyy-chelovek-pauk-s-novymi-foto",
   "archived": "https://web.archive.org/web/20251116072222/http://spidermedia.ru/news/novyy-chelovek-pauk-s-novymi-foto",
@@ -10,6 +10,12 @@
     "mark-uebb",
     "spider-man",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20251116072222im_/http://spidermedia.ru/assets/images/import_image/6499.jpg",
+  "modx_id": 6499,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

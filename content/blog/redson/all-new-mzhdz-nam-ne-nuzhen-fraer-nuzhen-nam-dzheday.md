@@ -1,11 +1,17 @@
 {
   "title": "ALL-NEW МЖДЗ: НАМ НЕ НУЖЕН ФРАЕР, НУЖЕН НАМ ДЖЕДАЙ",
-  "date": "2015-01-20T15:36:00+03:00",
+  "date": "2015-01-20T15:36:21+03:00",
   "url": "/blog/redson/all-new-mzhdz-nam-ne-nuzhen-fraer-nuzhen-nam-dzheday/",
   "original_url": "http://spidermedia.ru/blog/redson/all-new-mzhdz-nam-ne-nuzhen-fraer-nuzhen-nam-dzheday",
   "archived": "https://web.archive.org/web/20260308232407/http://spidermedia.ru/blog/redson/all-new-mzhdz-nam-ne-nuzhen-fraer-nuzhen-nam-dzheday",
   "tags": [
     "mzhdz"
+  ],
+  "cover": "https://web.archive.org/web/20150326153424im_/http://spidermedia.ru/assets/images/import_image/8524.jpg",
+  "modx_id": 8524,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

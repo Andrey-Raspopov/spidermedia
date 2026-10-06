@@ -1,12 +1,18 @@
 {
   "title": "Я прочитал Marvel NOW! А вы?",
-  "date": "2013-08-08T12:24:00+03:00",
+  "date": "2013-08-08T11:24:38+03:00",
   "url": "/blog/redson/ya-prochital-marvel-now-vy/",
   "original_url": "http://spidermedia.ru/blog/redson/ya-prochital-marvel-now-vy",
   "archived": "https://web.archive.org/web/20200131103650/http://spidermedia.ru:80/blog/redson/ya-prochital-marvel-now-vy",
   "tags": [
     "mnenie",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20200131103650im_/http://spidermedia.ru/assets/images/import_image/7409.jpeg",
+  "modx_id": 7409,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

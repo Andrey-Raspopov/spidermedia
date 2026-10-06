@@ -1,7 +1,10 @@
 {
   "title": "Когти захватывают мир",
-  "date": "2009-03-17T22:44:00+03:00",
+  "date": "2009-03-17T21:44:18+03:00",
   "url": "/news/kogti-zahvatyvayut-mir/",
+  "aliases": [
+    "/node/698/"
+  ],
   "original_url": "http://spidermedia.ru/news/kogti-zahvatyvayut-mir",
   "archived": "https://web.archive.org/web/20120718073719/http://spidermedia.ru/news/kogti-zahvatyvayut-mir",
   "tags": [
@@ -10,7 +13,14 @@
     "komiksy",
     "marvel",
     "oblozhki",
-    "rosomaha"
+    "rosomaha",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20120718073719im_/http://spidermedia.ru/assets/images/import_image/698.jpg",
+  "modx_id": 698,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

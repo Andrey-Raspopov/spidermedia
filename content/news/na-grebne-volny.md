@@ -1,7 +1,10 @@
 {
   "title": "На гребне волны",
-  "date": "2010-11-20T01:04:00+03:00",
+  "date": "2010-11-20T01:04:35+03:00",
   "url": "/news/na-grebne-volny/",
+  "aliases": [
+    "/node/3076/"
+  ],
   "original_url": "http://spidermedia.ru/news/na-grebne-volny",
   "archived": "https://web.archive.org/web/20250320042115/http://spidermedia.ru/news/na-grebne-volny",
   "tags": [
@@ -9,6 +12,12 @@
     "greg-pak",
     "stiven-segoviya",
     "silver-surfer"
+  ],
+  "cover": "https://web.archive.org/web/20250320042115im_/http://spidermedia.ru/assets/images/import_image/3076.jpg",
+  "modx_id": 3076,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

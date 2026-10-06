@@ -1,7 +1,10 @@
 {
   "title": "Воины и Громовержцы",
-  "date": "2009-08-07T00:40:00+03:00",
+  "date": "2009-08-06T23:40:56+03:00",
   "url": "/news/voiny-i-gromoverzhcy/",
+  "aliases": [
+    "/node/1732/"
+  ],
   "original_url": "http://spidermedia.ru/news/voiny-i-gromoverzhcy",
   "archived": "https://web.archive.org/web/20260120154759/http://spidermedia.ru/news/voiny-i-gromoverzhcy",
   "tags": [
@@ -12,7 +15,14 @@
     "art-0",
     "thunderbolts",
     "secret-warriors",
-    "marvel"
+    "marvel",
+    "prevyu",
+    "art"
+  ],
+  "modx_id": 1732,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -7,6 +7,12 @@
   "tags": [
     "gamermedia"
   ],
+  "cover": "https://web.archive.org/web/20160611143228im_/http://spidermedia.ru/assets/images/games/gamermedia/mapepcw_nta.jpg",
+  "modx_id": 100405,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

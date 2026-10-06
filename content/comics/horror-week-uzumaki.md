@@ -8,6 +8,12 @@
     "manga",
     "horror-week"
   ],
+  "cover": "https://web.archive.org/web/20220714184127im_/https://spidermedia.ru/assets/images/articles/horror-week/uzumaki/0.jpg",
+  "modx_id": 100686,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

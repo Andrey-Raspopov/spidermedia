@@ -1,13 +1,20 @@
 {
   "title": "Тизер-постеры Тора в Царстве тьмы и много-много роликов бессмертного Росомахи",
-  "date": "2013-07-12T12:22:00+03:00",
+  "date": "2013-07-12T11:22:03+03:00",
   "url": "/news/tizer-postery-tora-v-carstve-tmy-i-mnogo-mnogo-rolikov-bessmertnogo-rosomahi/",
   "original_url": "https://spidermedia.ru/news/tizer-postery-tora-v-carstve-tmy-i-mnogo-mnogo-rolikov-bessmertnogo-rosomahi",
   "archived": "https://web.archive.org/web/20260121004607/https://spidermedia.ru/news/tizer-postery-tora-v-carstve-tmy-i-mnogo-mnogo-rolikov-bessmertnogo-rosomahi",
   "tags": [
     "thor",
     "wolverine",
-    "marvel"
+    "marvel",
+    "tor"
+  ],
+  "cover": "https://web.archive.org/web/20260121004607im_/http://spidermedia.ru/assets/images/import_image/7339.jpg",
+  "modx_id": 7339,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

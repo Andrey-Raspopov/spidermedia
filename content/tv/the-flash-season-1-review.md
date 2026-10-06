@@ -9,6 +9,12 @@
     "the-flash",
     "dc-comics"
   ],
+  "cover": "https://web.archive.org/web/20160611113025im_/http://spidermedia.ru/assets/images/tv/flash/s1-review/skachannye-fajly.jpg",
+  "modx_id": 100255,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

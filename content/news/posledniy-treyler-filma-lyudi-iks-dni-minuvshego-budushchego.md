@@ -1,6 +1,6 @@
 {
   "title": "Последний трейлер фильма \"Люди Икс: Дни минувшего будущего\"",
-  "date": "2014-04-16T08:10:00+03:00",
+  "date": "2014-04-16T07:10:48+03:00",
   "url": "/news/posledniy-treyler-filma-lyudi-iks-dni-minuvshego-budushchego/",
   "original_url": "http://spidermedia.ru/news/posledniy-treyler-filma-lyudi-iks-dni-minuvshego-budushchego",
   "archived": "https://web.archive.org/web/20260312003541/http://spidermedia.ru/news/posledniy-treyler-filma-lyudi-iks-dni-minuvshego-budushchego",
@@ -9,7 +9,15 @@
     "trejlery",
     "marvel",
     "lyudi-iks-pervyj-klass",
-    "x-men"
+    "x-men",
+    "dni-minuvshego-budushhego",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20150424061814im_/http://spidermedia.ru/assets/images/import_image/7714.png",
+  "modx_id": 7714,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

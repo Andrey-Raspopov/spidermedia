@@ -4,6 +4,9 @@
   "url": "/comics/a/asm/v2/asm2/",
   "original_url": "http://www.spidermedia.ru/comics/a/asm/v2/asm2.html",
   "archived": "https://web.archive.org/web/20050307083240/http://www.spidermedia.ru:80/comics/a/asm/v2/asm2.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

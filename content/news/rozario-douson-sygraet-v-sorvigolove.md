@@ -1,13 +1,21 @@
 {
   "title": "Розарио Доусон сыграет в \"Сорвиголове\"",
-  "date": "2014-06-20T23:33:00+03:00",
+  "date": "2014-06-20T22:33:59+03:00",
   "url": "/news/rozario-douson-sygraet-v-sorvigolove/",
   "original_url": "https://spidermedia.ru/news/rozario-douson-sygraet-v-sorvigolove",
   "archived": "https://web.archive.org/web/20260209110235/https://spidermedia.ru/news/rozario-douson-sygraet-v-sorvigolove",
   "tags": [
     "serialy",
     "daredevil",
-    "marvel"
+    "marvel",
+    "tv",
+    "sorvigolova"
+  ],
+  "cover": "https://web.archive.org/web/20150327024236im_/http://spidermedia.ru/assets/images/import_image/7831.jpg",
+  "modx_id": 7831,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

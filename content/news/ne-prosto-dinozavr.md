@@ -1,7 +1,10 @@
 {
   "title": "Не просто динозавр",
-  "date": "2010-12-11T08:36:00+03:00",
+  "date": "2010-12-11T08:36:30+03:00",
   "url": "/news/ne-prosto-dinozavr/",
+  "aliases": [
+    "/node/3113/"
+  ],
   "original_url": "http://spidermedia.ru/news/ne-prosto-dinozavr",
   "archived": "https://web.archive.org/web/20251206033007/http://spidermedia.ru/news/ne-prosto-dinozavr",
   "tags": [
@@ -9,6 +12,12 @@
     "image-comics",
     "dzhejson-hovard",
     "super-dinosaur"
+  ],
+  "cover": "https://web.archive.org/web/20251206033007im_/http://spidermedia.ru/assets/images/import_image/3113.jpg",
+  "modx_id": 3113,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

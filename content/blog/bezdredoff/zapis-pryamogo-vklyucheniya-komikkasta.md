@@ -1,13 +1,20 @@
 {
   "title": "Запись прямого включения комиккаста",
-  "date": "2011-09-08T01:13:00+03:00",
+  "date": "2011-09-08T00:13:36+03:00",
   "url": "/blog/bezdredoff/zapis-pryamogo-vklyucheniya-komikkasta/",
   "original_url": "http://spidermedia.ru/blog/bezdredoff/zapis-pryamogo-vklyucheniya-komikkasta",
   "archived": "https://web.archive.org/web/20120607031144/http://spidermedia.ru/blog/bezdredoff/zapis-pryamogo-vklyucheniya-komikkasta",
   "tags": [
     "comics",
     "comiccast",
-    "podcast"
+    "podcast",
+    "komikkast"
+  ],
+  "cover": "https://web.archive.org/web/20120607031144im_/http://spidermedia.ru/assets/images/import_image/6596.jpg",
+  "modx_id": 6596,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

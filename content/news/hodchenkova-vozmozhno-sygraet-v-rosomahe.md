@@ -1,12 +1,18 @@
 {
   "title": "Ходченкова возможно сыграет в \"Росомахе\"",
-  "date": "2012-07-20T13:29:00+03:00",
+  "date": "2012-07-20T12:29:49+03:00",
   "url": "/news/hodchenkova-vozmozhno-sygraet-v-rosomahe/",
   "original_url": "http://spidermedia.ru/news/hodchenkova-vozmozhno-sygraet-v-rosomahe",
   "archived": "https://web.archive.org/web/20251012173840/http://spidermedia.ru/news/hodchenkova-vozmozhno-sygraet-v-rosomahe",
   "tags": [
     "wolverine",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150502190002im_/http://spidermedia.ru/assets/images/import_image/6985.jpg",
+  "modx_id": 6985,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

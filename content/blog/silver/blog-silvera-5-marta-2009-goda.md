@@ -1,6 +1,6 @@
 {
   "title": "Блог Сильвера, 5 марта 2009 года ...",
-  "date": "2009-03-05T22:14:00+03:00",
+  "date": "2009-03-05T21:14:31+03:00",
   "url": "/blog/silver/blog-silvera-5-marta-2009-goda/",
   "original_url": "http://spidermedia.ru/blog/silver/blog-silvera-5-marta-2009-goda",
   "archived": "https://web.archive.org/web/20120607145916/http://spidermedia.ru/blog/silver/blog-silvera-5-marta-2009-goda",
@@ -8,7 +8,15 @@
     "watchmen",
     "alan-moore",
     "komiksy",
-    "mysli"
+    "mysli",
+    "alan-mur",
+    "hraniteli"
+  ],
+  "cover": "https://web.archive.org/web/20120607145916im_/http://spidermedia.ru/assets/images/import_image/600.jpg",
+  "modx_id": 600,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

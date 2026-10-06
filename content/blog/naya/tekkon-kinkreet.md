@@ -1,11 +1,20 @@
 {
   "title": "Tekkon Kinkreet",
-  "date": "2010-01-07T17:14:00+03:00",
+  "date": "2010-01-07T17:14:19+03:00",
   "url": "/blog/naya/tekkon-kinkreet/",
+  "aliases": [
+    "/node/2228/"
+  ],
   "original_url": "http://spidermedia.ru/blog/naya/tekkon-kinkreet",
   "archived": "https://web.archive.org/web/20251106234716/http://spidermedia.ru/blog/naya/tekkon-kinkreet",
   "tags": [
     "anime"
+  ],
+  "cover": "https://web.archive.org/web/20251106234716im_/http://spidermedia.ru/assets/images/import_image/2228.jpg",
+  "modx_id": 2228,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

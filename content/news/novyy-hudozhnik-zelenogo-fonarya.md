@@ -1,7 +1,10 @@
 {
   "title": "Новый художник Зеленого Фонаря",
-  "date": "2009-03-18T20:59:00+03:00",
+  "date": "2009-03-18T20:59:01+03:00",
   "url": "/news/novyy-hudozhnik-zelenogo-fonarya/",
+  "aliases": [
+    "/node/706/"
+  ],
   "original_url": "https://spidermedia.ru/news/novyy-hudozhnik-zelenogo-fonarya",
   "archived": "https://web.archive.org/web/20251216172732/https://spidermedia.ru/news/novyy-hudozhnik-zelenogo-fonarya",
   "tags": [
@@ -10,6 +13,12 @@
     "blackest-night",
     "temnejshaya-noch",
     "dag-manke"
+  ],
+  "cover": "https://web.archive.org/web/20251216172732im_/http://spidermedia.ru/assets/images/import_image/706.jpg",
+  "modx_id": 706,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

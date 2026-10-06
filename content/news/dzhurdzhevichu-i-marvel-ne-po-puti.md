@@ -1,13 +1,20 @@
 {
   "title": "Джурджевичу и Marvel не по пути",
-  "date": "2011-08-26T23:51:00+03:00",
+  "date": "2011-08-26T22:51:23+03:00",
   "url": "/news/dzhurdzhevichu-i-marvel-ne-po-puti/",
   "original_url": "https://spidermedia.ru/news/dzhurdzhevichu-i-marvel-ne-po-puti",
   "archived": "https://web.archive.org/web/20250806094922/https://spidermedia.ru/news/dzhurdzhevichu-i-marvel-ne-po-puti",
   "tags": [
     "marko-dzhurdzhevich",
     "art-0",
-    "marvel"
+    "marvel",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20250806094922im_/http://spidermedia.ru/assets/images/import_image/6579.jpg",
+  "modx_id": 6579,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

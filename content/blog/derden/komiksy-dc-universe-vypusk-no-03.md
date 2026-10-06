@@ -1,6 +1,6 @@
 {
   "title": "Комиксы DC Universe. Выпуск № 03",
-  "date": "2009-07-10T01:07:00+03:00",
+  "date": "2009-07-10T00:07:34+03:00",
   "url": "/blog/derden/komiksy-dc-universe-vypusk-no-03/",
   "original_url": "http://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-03",
   "archived": "https://web.archive.org/web/20190914072450/http://spidermedia.ru:80/blog/derden/komiksy-dc-universe-vypusk-no-03",
@@ -8,6 +8,12 @@
     "jsa",
     "dc-comics",
     "dc-universe-comics"
+  ],
+  "cover": "https://web.archive.org/web/20190914072450im_/http://spidermedia.ru/assets/images/import_image/1520.gif",
+  "modx_id": 1520,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Дедушка любит вас!",
-  "date": "2009-05-15T16:29:00+03:00",
+  "date": "2009-05-15T15:29:54+03:00",
   "url": "/news/dedushka-lyubit-vas/",
   "original_url": "http://spidermedia.ru/news/dedushka-lyubit-vas",
   "archived": "https://web.archive.org/web/20190820205448/http://spidermedia.ru:80/news/dedushka-lyubit-vas",
@@ -10,6 +10,11 @@
     "den-slott",
     "mighty-avengers",
     "g.r.a.m.p.a"
+  ],
+  "modx_id": 1196,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

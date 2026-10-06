@@ -1,6 +1,6 @@
 {
   "title": "Daredevil: End of Days",
-  "date": "2009-02-11T14:17:00+03:00",
+  "date": "2009-02-11T14:17:31+03:00",
   "url": "/blog/x-boy/daredevil-end-days/",
   "original_url": "http://spidermedia.ru/blog/x-boy/daredevil-end-days",
   "archived": "https://web.archive.org/web/20251014035331/http://spidermedia.ru/blog/x-boy/daredevil-end-days",
@@ -11,6 +11,11 @@
     "alex-maleev",
     "marvel",
     "daredevil"
+  ],
+  "modx_id": 309,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

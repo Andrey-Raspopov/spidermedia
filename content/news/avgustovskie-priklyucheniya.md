@@ -1,7 +1,10 @@
 {
   "title": "Августовские приключения",
-  "date": "2009-05-01T19:34:00+03:00",
+  "date": "2009-05-01T18:34:56+03:00",
   "url": "/news/avgustovskie-priklyucheniya/",
+  "aliases": [
+    "/node/1077/"
+  ],
   "original_url": "https://spidermedia.ru/news/avgustovskie-priklyucheniya",
   "archived": "https://web.archive.org/web/20251216113638/https://spidermedia.ru/news/avgustovskie-priklyucheniya",
   "tags": [
@@ -11,6 +14,12 @@
     "frensis-manapul",
     "george-perez",
     "francis-manapul"
+  ],
+  "cover": "https://web.archive.org/web/20150502190633im_/http://spidermedia.ru/assets/images/import_image/1077.png",
+  "modx_id": 1077,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

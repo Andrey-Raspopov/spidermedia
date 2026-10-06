@@ -4,6 +4,9 @@
   "url": "/docs/humor/george_lockhard/superhero_diary/",
   "original_url": "http://spidermedia.ru/docs/humor/george_lockhard/superhero_diary.html",
   "archived": "https://web.archive.org/web/20051202072917/http://spidermedia.ru:80/docs/humor/george_lockhard/superhero_diary.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

@@ -1,6 +1,6 @@
 {
   "title": "Таинственные и мистические",
-  "date": "2011-03-20T23:48:00+03:00",
+  "date": "2011-03-20T23:48:10+03:00",
   "url": "/news/tainstvennye-i-misticheskie/",
   "original_url": "https://spidermedia.ru/news/tainstvennye-i-misticheskie",
   "archived": "https://web.archive.org/web/20250217063609/https://spidermedia.ru/news/tainstvennye-i-misticheskie",
@@ -9,7 +9,14 @@
     "patrik-zircher",
     "art-0",
     "marvel",
-    "mystery-man"
+    "mystery-man",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20250217063609im_/http://spidermedia.ru/assets/images/import_image/4313.jpg",
+  "modx_id": 4313,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -9,6 +9,12 @@
     "roskomnadzor",
     "russian-comics"
   ],
+  "cover": "https://web.archive.org/web/20250804011100im_/http://spidermedia.ru/assets/images/roskomnadzor/2016/2406/6807326-rainbow.jpg",
+  "modx_id": 101239,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

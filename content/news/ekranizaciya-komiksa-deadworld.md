@@ -1,7 +1,10 @@
 {
   "title": "Экранизация комикса \"DeadWorld\"",
-  "date": "2009-06-11T11:26:00+03:00",
+  "date": "2009-06-11T10:26:40+03:00",
   "url": "/news/ekranizaciya-komiksa-deadworld/",
+  "aliases": [
+    "/node/1397/"
+  ],
   "original_url": "http://spidermedia.ru/news/ekranizaciya-komiksa-deadworld",
   "archived": "https://web.archive.org/web/20120607133414/http://spidermedia.ru/news/ekranizaciya-komiksa-deadworld",
   "tags": [
@@ -11,7 +14,15 @@
     "devid-heyter",
     "kino",
     "komiksy",
-    "mertvyy-mir"
+    "mertvyy-mir",
+    "devid-hejter",
+    "mertvyj-mir"
+  ],
+  "cover": "https://web.archive.org/web/20120607133414im_/http://spidermedia.ru/assets/images/import_image/1397.jpg",
+  "modx_id": 1397,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

@@ -8,6 +8,12 @@
     "komilfo",
     "obzor"
   ],
+  "cover": "https://web.archive.org/web/20251116052814im_/http://spidermedia.ru/assets/images/news/images/oleg-lyfar/review/darth-vader/cover-mini.jpg",
+  "modx_id": 102150,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

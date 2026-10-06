@@ -1,12 +1,18 @@
 {
   "title": "«Сорвиголова»: превью трейлера и подробности от Чарли Кокса",
-  "date": "2015-02-04T10:40:00+03:00",
+  "date": "2015-02-04T10:40:14+03:00",
   "url": "/news/sorvigolova-prevyu-treylera-i-podrobnosti-ot-charli-koksa/",
   "original_url": "https://spidermedia.ru/news/sorvigolova-prevyu-treylera-i-podrobnosti-ot-charli-koksa",
   "archived": "https://web.archive.org/web/20240618003657/https://spidermedia.ru/news/sorvigolova-prevyu-treylera-i-podrobnosti-ot-charli-koksa",
   "tags": [
     "marvel",
     "daredevil"
+  ],
+  "cover": "https://web.archive.org/web/20240618003657im_/http://spidermedia.ru/assets/images/gallery/100144/original_capture_04062015_224551.jpg",
+  "modx_id": 8581,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

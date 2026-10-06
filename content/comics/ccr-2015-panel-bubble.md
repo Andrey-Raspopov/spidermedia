@@ -8,6 +8,12 @@
     "bubble",
     "comic-con-russia"
   ],
+  "cover": "https://web.archive.org/web/20210729160230im_/http://spidermedia.ru/assets/images/comic-con/2015/russia/_dsc0701.jpg",
+  "modx_id": 100614,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

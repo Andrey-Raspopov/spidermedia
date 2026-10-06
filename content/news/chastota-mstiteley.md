@@ -1,6 +1,6 @@
 {
   "title": "Частота Мстителей",
-  "date": "2011-04-03T07:41:00+03:00",
+  "date": "2011-04-03T06:41:49+03:00",
   "url": "/news/chastota-mstiteley/",
   "original_url": "http://spidermedia.ru/news/chastota-mstiteley",
   "archived": "https://web.archive.org/web/20251115182020/http://spidermedia.ru/news/chastota-mstiteley",
@@ -9,6 +9,12 @@
     "dzheymi-makkelvi",
     "secret-avengers",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20251115182020im_/http://spidermedia.ru/assets/images/import_image/4669.jpg",
+  "modx_id": 4669,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

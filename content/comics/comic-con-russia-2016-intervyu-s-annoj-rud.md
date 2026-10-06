@@ -7,6 +7,12 @@
   "tags": [
     "bubble"
   ],
+  "cover": "https://web.archive.org/web/20211107065307im_/http://spidermedia.ru/assets/images/valiant/images/b-v/cover-2.jpg",
+  "modx_id": 101369,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

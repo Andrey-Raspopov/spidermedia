@@ -1,6 +1,6 @@
 {
   "title": "Братья по оружию",
-  "date": "2009-08-13T20:45:00+03:00",
+  "date": "2009-08-13T19:45:22+03:00",
   "url": "/news/bratya-po-oruzhiyu/",
   "original_url": "http://spidermedia.ru/news/bratya-po-oruzhiyu",
   "archived": "https://web.archive.org/web/20140706033312/http://spidermedia.ru:80/news/bratya-po-oruzhiyu",
@@ -8,6 +8,12 @@
     "comics",
     "marvel",
     "pol-dzhenkins"
+  ],
+  "cover": "https://web.archive.org/web/20140706033312im_/http://spidermedia.ru/assets/images/import_image/1780.png",
+  "modx_id": 1780,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

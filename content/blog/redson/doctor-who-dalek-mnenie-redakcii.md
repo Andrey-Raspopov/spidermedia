@@ -1,13 +1,20 @@
 {
   "title": "Doctor Who \"Into the Dalek\": Мнение редакции",
-  "date": "2014-09-01T12:00:00+03:00",
+  "date": "2014-09-01T11:00:46+03:00",
   "url": "/blog/redson/doctor-who-dalek-mnenie-redakcii/",
   "original_url": "http://spidermedia.ru/blog/redson/doctor-who-dalek-mnenie-redakcii",
   "archived": "https://web.archive.org/web/20230320164221/http://spidermedia.ru/blog/redson/doctor-who-dalek-mnenie-redakcii",
   "tags": [
     "doctor-who",
     "mnenie",
-    "serialy"
+    "serialy",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20150326220737im_/http://spidermedia.ru/assets/images/import_image/8031.jpg",
+  "modx_id": 8031,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

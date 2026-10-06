@@ -4,6 +4,12 @@
   "url": "/games/deaths-door-opinion/",
   "original_url": "http://spidermedia.ru/games/deaths-door-opinion",
   "archived": "https://web.archive.org/web/20250119152838/http://spidermedia.ru/games/deaths-door-opinion",
+  "cover": "https://web.archive.org/web/20250119152838im_/http://spidermedia.ru/assets/images/games/capsule_616x353-1.jpg",
+  "modx_id": 102420,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

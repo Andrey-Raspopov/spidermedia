@@ -7,6 +7,12 @@
   "tags": [
     "archie-comics"
   ],
+  "cover": "https://web.archive.org/web/20260214125801im_/http://spidermedia.ru/assets/images/newgallery/gallery783/04-betty-and-veronica-veronica-fish.nocrop.w574.h883.jpg",
+  "modx_id": 101088,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,12 +1,18 @@
 {
   "title": "ALL-NEW МЖДЗ: ГОДЗИЛЛА СНОВА НАПАДАЕТ",
-  "date": "2014-05-19T20:56:00+03:00",
+  "date": "2014-05-19T19:56:38+03:00",
   "url": "/news/all-new-mzhdz-godzilla-snova-napadaet/",
   "original_url": "http://spidermedia.ru/news/all-new-mzhdz-godzilla-snova-napadaet",
   "archived": "https://web.archive.org/web/20250210070351/http://spidermedia.ru/news/all-new-mzhdz-godzilla-snova-napadaet",
   "tags": [
     "mnenie",
     "mzhdz"
+  ],
+  "cover": "https://web.archive.org/web/20250210070351im_/http://spidermedia.ru/assets/images/import_image/7746.jpg",
+  "modx_id": 7746,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

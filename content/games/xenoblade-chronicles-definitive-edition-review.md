@@ -4,6 +4,12 @@
   "url": "/games/xenoblade-chronicles-definitive-edition-review/",
   "original_url": "http://spidermedia.ru/games/xenoblade-chronicles-definitive-edition-review",
   "archived": "https://web.archive.org/web/20260125131959/http://spidermedia.ru/games/xenoblade-chronicles-definitive-edition-review",
+  "cover": "https://web.archive.org/web/20260125131959im_/http://spidermedia.ru/assets/images/games/xeno/h2x1_nswitch_xenobladechroniclesdefinitiveedition.jpg",
+  "modx_id": 102240,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

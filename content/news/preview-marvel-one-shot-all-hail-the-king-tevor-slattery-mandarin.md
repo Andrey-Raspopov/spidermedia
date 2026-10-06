@@ -1,13 +1,20 @@
 {
   "title": "Превью короткометражки Марвел \"ALL HAIL THE KING\"",
-  "date": "2014-01-19T18:08:00+03:00",
+  "date": "2014-01-19T17:08:30+03:00",
   "url": "/news/preview-marvel-one-shot-all-hail-the-king-tevor-slattery-mandarin/",
   "original_url": "https://spidermedia.ru/news/preview-marvel-one-shot-all-hail-the-king-tevor-slattery-mandarin",
   "archived": "https://web.archive.org/web/20250804003133/https://spidermedia.ru/news/preview-marvel-one-shot-all-hail-the-king-tevor-slattery-mandarin",
   "tags": [
     "marvel",
     "mandarin",
-    "iron-man"
+    "iron-man",
+    "zheleznyy-chelovek"
+  ],
+  "cover": "https://web.archive.org/web/20150424184127im_/http://spidermedia.ru/assets/images/import_image/7606.jpg",
+  "modx_id": 7606,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

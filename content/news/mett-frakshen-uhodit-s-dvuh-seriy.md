@@ -1,6 +1,6 @@
 {
   "title": "Мэтт Фракшен уходит с двух серий",
-  "date": "2013-08-16T14:02:00+03:00",
+  "date": "2013-08-16T13:02:02+03:00",
   "url": "/news/mett-frakshen-uhodit-s-dvuh-seriy/",
   "original_url": "https://spidermedia.ru/news/mett-frakshen-uhodit-s-dvuh-seriy",
   "archived": "https://web.archive.org/web/20260208193546/https://spidermedia.ru/news/mett-frakshen-uhodit-s-dvuh-seriy",
@@ -9,7 +9,14 @@
     "matt-fraction",
     "marvel",
     "li-ollred",
-    "karl-kesel"
+    "karl-kesel",
+    "mett-frakshen"
+  ],
+  "cover": "https://web.archive.org/web/20260208193546im_/http://spidermedia.ru/assets/images/import_image/7423.jpg",
+  "modx_id": 7423,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

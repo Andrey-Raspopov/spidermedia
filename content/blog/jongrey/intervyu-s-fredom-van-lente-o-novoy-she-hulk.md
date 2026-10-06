@@ -1,7 +1,10 @@
 {
   "title": "Интервью с Фредом Ван ленте о новой She-Hulk",
-  "date": "2009-03-18T16:22:00+03:00",
+  "date": "2009-03-18T16:22:57+03:00",
   "url": "/blog/jongrey/intervyu-s-fredom-van-lente-o-novoy-she-hulk/",
+  "aliases": [
+    "/node/702/"
+  ],
   "original_url": "https://spidermedia.ru/blog/jongrey/intervyu-s-fredom-van-lente-o-novoy-she-hulk",
   "archived": "https://web.archive.org/web/20251006132930/https://spidermedia.ru/blog/jongrey/intervyu-s-fredom-van-lente-o-novoy-she-hulk",
   "tags": [
@@ -9,6 +12,12 @@
     "fred-van-lente",
     "intervyu",
     "she-hulk"
+  ],
+  "cover": "https://web.archive.org/web/20251006132930im_/http://spidermedia.ru/assets/images/marvel.png",
+  "modx_id": 702,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

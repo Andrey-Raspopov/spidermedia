@@ -1,6 +1,6 @@
 {
   "title": "ЭКСКЛЮЗИВ: Превью \"Неуязвимого\" №14 + Важный вопрос",
-  "date": "2013-07-25T22:50:00+03:00",
+  "date": "2013-07-25T21:50:39+03:00",
   "url": "/news/eksklyuziv-prevyu-neuyazvimogo-no14-vazhnyy-vopros/",
   "original_url": "https://spidermedia.ru/news/eksklyuziv-prevyu-neuyazvimogo-no14-vazhnyy-vopros",
   "archived": "https://web.archive.org/web/20250121014356/https://spidermedia.ru/news/eksklyuziv-prevyu-neuyazvimogo-no14-vazhnyy-vopros",
@@ -8,6 +8,12 @@
     "invincible",
     "izdatelstvo-42",
     "zarubezhnye-komiksy-na-russkom"
+  ],
+  "cover": "https://web.archive.org/web/20250121014356im_/http://spidermedia.ru/assets/images/import_image/7381.jpg",
+  "modx_id": 7381,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

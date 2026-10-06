@@ -1,7 +1,10 @@
 {
   "title": "Обложки NOLA",
-  "date": "2009-10-09T14:24:00+03:00",
+  "date": "2009-10-09T13:24:50+03:00",
   "url": "/news/oblozhki-nola/",
+  "aliases": [
+    "/node/1975/"
+  ],
   "original_url": "https://spidermedia.ru/news/oblozhki-nola",
   "archived": "https://web.archive.org/web/20240520101449/https://spidermedia.ru/news/oblozhki-nola",
   "tags": [
@@ -9,6 +12,12 @@
     "nola",
     "erik-jones",
     "boom-studios"
+  ],
+  "cover": "https://web.archive.org/web/20240520101449im_/http://spidermedia.ru/assets/images/import_image/1975.jpg",
+  "modx_id": 1975,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

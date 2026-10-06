@@ -1,6 +1,6 @@
 {
   "title": "ОБЗОР: «ElfQuest: Сага о лесных всадниках». Книга 1",
-  "date": "2014-11-17T13:53:00+03:00",
+  "date": "2014-11-17T13:53:41+03:00",
   "url": "/blog/larosh/obzor-elfquest-saga-o-lesnyh-vsadnikah-kniga-1/",
   "original_url": "http://spidermedia.ru/blog/larosh/obzor-elfquest-saga-o-lesnyh-vsadnikah-kniga-1",
   "archived": "https://web.archive.org/web/20221130042847/http://spidermedia.ru/blog/larosh/obzor-elfquest-saga-o-lesnyh-vsadnikah-kniga-1",
@@ -8,6 +8,12 @@
     "elfquest",
     "zarubezhnye-komiksy-na-russkom",
     "obzor"
+  ],
+  "cover": "https://web.archive.org/web/20221130042847im_/http://spidermedia.ru/assets/images/import_image/8292.jpg",
+  "modx_id": 8292,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

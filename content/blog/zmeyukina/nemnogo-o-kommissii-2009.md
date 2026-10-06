@@ -1,7 +1,10 @@
 {
   "title": "Немного о Коммиссии-2009",
-  "date": "2009-04-21T21:27:00+03:00",
+  "date": "2009-04-21T20:27:59+03:00",
   "url": "/blog/zmeyukina/nemnogo-o-kommissii-2009/",
+  "aliases": [
+    "/node/1016/"
+  ],
   "original_url": "https://spidermedia.ru/blog/zmeyukina/nemnogo-o-kommissii-2009",
   "archived": "https://web.archive.org/web/20250909133955/https://spidermedia.ru/blog/zmeyukina/nemnogo-o-kommissii-2009",
   "tags": [
@@ -9,6 +12,12 @@
     "kommissiya",
     "festival",
     "sobytiya"
+  ],
+  "cover": "https://web.archive.org/web/20250909133955im_/http://spidermedia.ru/assets/images/import_image/1016.gif",
+  "modx_id": 1016,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

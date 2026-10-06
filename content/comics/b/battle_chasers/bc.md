@@ -4,6 +4,9 @@
   "url": "/comics/b/battle_chasers/bc/",
   "original_url": "http://www.spidermedia.ru/comics/b/battle_chasers/bc.html",
   "archived": "https://web.archive.org/web/20050307112128/http://www.spidermedia.ru:80/comics/b/battle_chasers/bc.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

@@ -9,6 +9,12 @@
     "mark-waid",
     "piter-krauze"
   ],
+  "cover": "https://web.archive.org/web/20260120145040im_/http://spidermedia.ru/assets/images/movies/other/irredeemable/irredeemable.jpg",
+  "modx_id": 101135,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

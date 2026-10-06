@@ -1,12 +1,18 @@
 {
   "title": "Рекомендации: Боевики",
-  "date": "2011-07-11T02:12:00+03:00",
+  "date": "2011-07-11T01:12:59+03:00",
   "url": "/blog/plane-v/rekomendacii-boeviki/",
   "original_url": "https://spidermedia.ru/blog/plane-v/rekomendacii-boeviki",
   "archived": "https://web.archive.org/web/20260313121111/https://spidermedia.ru/blog/plane-v/rekomendacii-boeviki",
   "tags": [
     "punisher",
     "mustread"
+  ],
+  "cover": "https://web.archive.org/web/20160417211155im_/http://spidermedia.ru/assets/images/import_image/6488.jpg",
+  "modx_id": 6488,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

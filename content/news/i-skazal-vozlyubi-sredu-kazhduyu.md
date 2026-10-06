@@ -1,7 +1,10 @@
 {
   "title": "...и сказал он: Возлюби среду каждую",
-  "date": "2009-03-20T19:07:00+03:00",
+  "date": "2009-03-20T19:07:20+03:00",
   "url": "/news/i-skazal-vozlyubi-sredu-kazhduyu/",
+  "aliases": [
+    "/node/729/"
+  ],
   "original_url": "http://spidermedia.ru/news/i-skazal-vozlyubi-sredu-kazhduyu",
   "archived": "https://web.archive.org/web/20260313104944/http://spidermedia.ru/news/i-skazal-vozlyubi-sredu-kazhduyu",
   "tags": [
@@ -24,6 +27,12 @@
     "demon",
     "deadman",
     "batman"
+  ],
+  "cover": "https://web.archive.org/web/20260313104944im_/http://spidermedia.ru/assets/images/import_image/729.jpg",
+  "modx_id": 729,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

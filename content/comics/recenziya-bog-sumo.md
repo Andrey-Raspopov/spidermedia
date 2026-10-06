@@ -8,6 +8,12 @@
     "obzor",
     "russian-comics"
   ],
+  "cover": "https://web.archive.org/web/20251012180529im_/http://spidermedia.ru/assets/images/news/images/oleg-lyfar/review/bog-sumo/00.jpg",
+  "modx_id": 102106,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

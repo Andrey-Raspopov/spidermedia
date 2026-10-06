@@ -1,11 +1,20 @@
 {
   "title": "Brave New World Reloaded Extreme ZZ Evolution",
-  "date": "2009-01-29T23:47:00+03:00",
+  "date": "2009-01-29T22:47:19+03:00",
   "url": "/blog/plane-v/brave-new-world-reloaded-extreme-zz-evolution/",
+  "aliases": [
+    "/node/16/"
+  ],
   "original_url": "http://spidermedia.ru/blog/plane-v/brave-new-world-reloaded-extreme-zz-evolution",
   "archived": "https://web.archive.org/web/20120608195751/http://spidermedia.ru/blog/plane-v/brave-new-world-reloaded-extreme-zz-evolution",
   "tags": [
     "vstuplenie"
+  ],
+  "cover": "https://web.archive.org/web/20120608195751im_/http://spidermedia.ru/assets/images/import_image/16.jpg",
+  "modx_id": 16,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

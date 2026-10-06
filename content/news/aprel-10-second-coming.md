@@ -1,7 +1,10 @@
 {
   "title": "Апрель '10: Second Coming",
-  "date": "2010-02-01T23:12:00+03:00",
+  "date": "2010-02-01T23:12:14+03:00",
   "url": "/news/aprel-10-second-coming/",
+  "aliases": [
+    "/node/2286/"
+  ],
   "original_url": "http://spidermedia.ru/news/aprel-10-second-coming",
   "archived": "https://web.archive.org/web/20251106232513/http://spidermedia.ru/news/aprel-10-second-coming",
   "tags": [
@@ -10,11 +13,17 @@
     "x-men",
     "new-mutants"
   ],
+  "cover": "https://web.archive.org/web/20251106232513im_/http://spidermedia.ru/assets/images/x-men-logo.jpg",
+  "modx_id": 2286,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-**Второе Пришествие** *(Second Coming)* началось, и пока оно будет идти, привычные икс-релизы будут разбиты на две части: первая посвящена эвенту, вторая - [остальным Дэдпул икс-тайтлам](../../node/2287/). Под катом последние сводки с места сражения за выживание расы мутантов, а также первый тизер к эвенту.
+**Второе Пришествие** *(Second Coming)* началось, и пока оно будет идти, привычные икс-релизы будут разбиты на две части: первая посвящена эвенту, вторая - [остальным Дэдпул икс-тайтлам](../aprel-10-x-men/). Под катом последние сводки с места сражения за выживание расы мутантов, а также первый тизер к эвенту.
 
 ![](https://web.archive.org/web/20251106232513im_/http://img683.imageshack.us/img683/2600/136xmenlegacy235finchva.jpg)
 

@@ -1,6 +1,6 @@
 {
   "title": "Волнующие сверхлюди",
-  "date": "2009-02-03T12:32:00+03:00",
+  "date": "2009-02-03T12:32:52+03:00",
   "url": "/blog/silver/volnuyushchie-sverhlyudi/",
   "original_url": "http://spidermedia.ru/blog/silver/volnuyushchie-sverhlyudi",
   "archived": "https://web.archive.org/web/20250806091359/http://spidermedia.ru/blog/silver/volnuyushchie-sverhlyudi",
@@ -10,6 +10,12 @@
     "avengers",
     "mnenie",
     "secret-six"
+  ],
+  "cover": "https://web.archive.org/web/20180315055309im_/http://spidermedia.ru/assets/images/import_image/141.jpg",
+  "modx_id": 141,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "Наследия Лена Уайна",
-  "date": "2009-12-12T21:23:00+03:00",
+  "date": "2009-12-12T21:23:50+03:00",
   "url": "/news/naslediya-lena-uayna/",
+  "aliases": [
+    "/node/2167/"
+  ],
   "original_url": "http://spidermedia.ru/news/naslediya-lena-uayna",
   "archived": "https://web.archive.org/web/20251211030246/http://spidermedia.ru/news/naslediya-lena-uayna",
   "tags": [
@@ -15,6 +18,11 @@
     "j.-g.-jones",
     "dc-comics",
     "endi-kubert"
+  ],
+  "modx_id": 2167,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

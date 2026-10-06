@@ -1,13 +1,23 @@
 {
   "title": "Аттракцион невиданной щедрости",
-  "date": "2010-11-30T03:30:00+03:00",
+  "date": "2010-11-30T02:30:39+03:00",
   "url": "/blog/plane-v/attrakcion-nevidannoy-shchedrosti/",
+  "aliases": [
+    "/node/3090/"
+  ],
   "original_url": "http://spidermedia.ru/blog/plane-v/attrakcion-nevidannoy-shchedrosti",
   "archived": "https://web.archive.org/web/20120607120907/http://spidermedia.ru/blog/plane-v/attrakcion-nevidannoy-shchedrosti",
   "tags": [
     "dzheyms-stokoi",
     "komiksy",
-    "halyava"
+    "halyava",
+    "dzhejms-stokoi"
+  ],
+  "cover": "https://web.archive.org/web/20120607120907im_/http://spidermedia.ru/assets/images/import_image/3090.jpg",
+  "modx_id": 3090,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "Hasbro (Marvel) - Долгожданный Q/A",
-  "date": "2009-05-03T22:27:00+03:00",
+  "date": "2009-05-03T21:27:15+03:00",
   "url": "/news/hasbro-marvel-dolgozhdannyy-q/",
+  "aliases": [
+    "/node/1088/"
+  ],
   "original_url": "https://spidermedia.ru/news/hasbro-marvel-dolgozhdannyy-q",
   "archived": "https://web.archive.org/web/20251110232134/https://spidermedia.ru/news/hasbro-marvel-dolgozhdannyy-q",
   "tags": [
@@ -12,7 +15,14 @@
     "daredevil",
     "silver-surfer",
     "deadpool",
-    "dardevil"
+    "dardevil",
+    "zheleznyy-chelovek"
+  ],
+  "cover": "https://web.archive.org/web/20150502200236im_/http://spidermedia.ru/assets/images/import_image/1088.jpg",
+  "modx_id": 1088,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

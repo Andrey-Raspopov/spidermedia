@@ -7,7 +7,14 @@
   "tags": [
     "marvel",
     "zvezdnye-vojny",
-    "preview"
+    "preview",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20180315042018im_/http://spidermedia.ru/assets/images/news/marvel/star-wars/chewbacca/chewbacca_plashka.jpg",
+  "modx_id": 100564,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

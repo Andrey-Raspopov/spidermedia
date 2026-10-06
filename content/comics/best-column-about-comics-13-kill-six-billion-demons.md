@@ -8,6 +8,12 @@
     "best-column-about-comics",
     "mnenie"
   ],
+  "cover": "https://web.archive.org/web/20251206160631im_/http://spidermedia.ru/assets/images/best-column-about-comics/13-kill-six-billion-demons/kill-six-billion-demons-cover.jpg",
+  "modx_id": 101508,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

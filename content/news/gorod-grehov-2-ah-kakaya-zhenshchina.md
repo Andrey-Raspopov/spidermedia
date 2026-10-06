@@ -1,6 +1,6 @@
 {
   "title": "Город Грехов 2: Ах, какая женщина!",
-  "date": "2013-01-19T00:54:00+03:00",
+  "date": "2013-01-18T23:54:32+03:00",
   "url": "/news/gorod-grehov-2-ah-kakaya-zhenshchina/",
   "original_url": "https://spidermedia.ru/news/gorod-grehov-2-ah-kakaya-zhenshchina",
   "archived": "https://web.archive.org/web/20260214140327/https://spidermedia.ru/news/gorod-grehov-2-ah-kakaya-zhenshchina",
@@ -8,6 +8,12 @@
     "sin-city",
     "gorod-grehov",
     "dark-horse"
+  ],
+  "cover": "https://web.archive.org/web/20260214140327im_/http://spidermedia.ru/assets/images/import_image/7121.jpg",
+  "modx_id": 7121,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

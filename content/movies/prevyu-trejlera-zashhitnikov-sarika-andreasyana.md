@@ -7,6 +7,12 @@
   "tags": [
     "zashhitniki"
   ],
+  "cover": "https://web.archive.org/web/20250715223930im_/http://spidermedia.ru/assets/images/youtube/GB5knZrUAfg.jpg",
+  "modx_id": 101007,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

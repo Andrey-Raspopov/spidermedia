@@ -10,6 +10,12 @@
     "legion-super-geroev",
     "rajan-suk"
   ],
+  "cover": "https://web.archive.org/web/20230313080928im_/http://spidermedia.ru/assets/images/reviews/dc/legion-of-superheroes/1-9/001.png",
+  "modx_id": 102288,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,6 +1,6 @@
 {
   "title": "Превью Ms.Marvel #39",
-  "date": "2009-05-13T21:05:00+03:00",
+  "date": "2009-05-13T20:05:16+03:00",
   "url": "/news/prevyu-msmarvel-39/",
   "original_url": "http://spidermedia.ru/news/prevyu-msmarvel-39",
   "archived": "https://web.archive.org/web/20260121011549/http://spidermedia.ru/news/prevyu-msmarvel-39",
@@ -9,7 +9,13 @@
     "preview",
     "brajan-rid",
     "miss-marvel",
-    "sana-takeda"
+    "sana-takeda",
+    "prevyu"
+  ],
+  "modx_id": 1172,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

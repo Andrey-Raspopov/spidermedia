@@ -1,6 +1,6 @@
 {
   "title": "SDCC'10: Грант Моррисон и Бэтмен. Вместе в последний раз",
-  "date": "2010-07-25T22:25:00+03:00",
+  "date": "2010-07-25T21:25:01+03:00",
   "url": "/news/sdcc10-grant-morrison-i-betmen-vmeste-v-posledniy-raz/",
   "original_url": "https://spidermedia.ru/news/sdcc10-grant-morrison-i-betmen-vmeste-v-posledniy-raz",
   "archived": "https://web.archive.org/web/20251206151320/https://spidermedia.ru/news/sdcc10-grant-morrison-i-betmen-vmeste-v-posledniy-raz",
@@ -12,6 +12,12 @@
     "grant-morrison",
     "dc-comics",
     "batman"
+  ],
+  "cover": "https://web.archive.org/web/20251206151320im_/http://spidermedia.ru/assets/images/import_image/2801.jpg",
+  "modx_id": 2801,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

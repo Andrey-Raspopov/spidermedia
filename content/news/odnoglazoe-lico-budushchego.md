@@ -1,6 +1,6 @@
 {
   "title": "Одноглазое лицо будущего",
-  "date": "2012-07-21T10:37:00+03:00",
+  "date": "2012-07-21T09:37:31+03:00",
   "url": "/news/odnoglazoe-lico-budushchego/",
   "original_url": "https://spidermedia.ru/news/odnoglazoe-lico-budushchego",
   "archived": "https://web.archive.org/web/20260208194424/https://spidermedia.ru/news/odnoglazoe-lico-budushchego",
@@ -23,7 +23,14 @@
     "brian-michael-bendis",
     "nick-fury-jr",
     "marvel",
-    "cable"
+    "cable",
+    "mett-frakshen"
+  ],
+  "cover": "https://web.archive.org/web/20150428172233im_/http://spidermedia.ru/assets/images/import_image/6987.jpg",
+  "modx_id": 6987,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

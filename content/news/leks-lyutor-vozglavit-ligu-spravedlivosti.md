@@ -1,6 +1,6 @@
 {
   "title": "Лекс Лютор возглавит Лигу Справедливости",
-  "date": "2014-01-17T11:27:00+03:00",
+  "date": "2014-01-17T10:27:03+03:00",
   "url": "/news/leks-lyutor-vozglavit-ligu-spravedlivosti/",
   "original_url": "http://spidermedia.ru/news/leks-lyutor-vozglavit-ligu-spravedlivosti",
   "archived": "https://web.archive.org/web/20260116221504/http://spidermedia.ru/news/leks-lyutor-vozglavit-ligu-spravedlivosti",
@@ -9,6 +9,12 @@
     "lex-luthor",
     "justice-league",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150502195317im_/http://spidermedia.ru/assets/images/import_image/7600.jpg",
+  "modx_id": 7600,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

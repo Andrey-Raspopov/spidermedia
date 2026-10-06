@@ -1,6 +1,6 @@
 {
   "title": "Новый проект Алана Мура для Avatar Press",
-  "date": "2014-09-15T22:27:00+03:00",
+  "date": "2014-09-15T21:27:05+03:00",
   "url": "/news/novyy-proekt-alana-mura-dlya-avatar-press/",
   "original_url": "https://spidermedia.ru/news/novyy-proekt-alana-mura-dlya-avatar-press",
   "archived": "https://web.archive.org/web/20251108041539/https://spidermedia.ru/news/novyy-proekt-alana-mura-dlya-avatar-press",
@@ -8,6 +8,12 @@
     "gabriel-andrade",
     "alan-mur",
     "avatar-press"
+  ],
+  "cover": "https://web.archive.org/web/20251108041539im_/http://spidermedia.ru/assets/images/import_image/8063.jpg",
+  "modx_id": 8063,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

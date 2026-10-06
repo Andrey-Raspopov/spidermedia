@@ -10,6 +10,12 @@
     "batman",
     "joker"
   ],
+  "cover": "https://web.archive.org/web/20220314051533im_/http://spidermedia.ru/assets/images/reviews/animation/killing-joke/kartinka-1.jpg",
+  "modx_id": 101310,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

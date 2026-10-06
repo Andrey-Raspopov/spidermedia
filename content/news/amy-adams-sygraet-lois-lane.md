@@ -1,6 +1,6 @@
 {
   "title": "Эми Адамс сыграет Лоис Лэйн",
-  "date": "2011-03-28T12:20:00+03:00",
+  "date": "2011-03-28T11:20:45+03:00",
   "url": "/news/amy-adams-sygraet-lois-lane/",
   "original_url": "https://spidermedia.ru/news/amy-adams-sygraet-lois-lane",
   "archived": "https://web.archive.org/web/20260211185448/https://spidermedia.ru/news/amy-adams-sygraet-lois-lane",
@@ -9,6 +9,12 @@
     "superman",
     "man-of-steel",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20260211185448im_/http://spidermedia.ru/assets/images/import_image/4506.jpg",
+  "modx_id": 4506,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

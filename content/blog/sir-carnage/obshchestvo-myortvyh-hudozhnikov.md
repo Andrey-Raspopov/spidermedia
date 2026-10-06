@@ -1,13 +1,22 @@
 {
   "title": "Общество мёртвых художников",
-  "date": "2009-02-01T11:56:00+03:00",
+  "date": "2009-02-01T11:56:30+03:00",
   "url": "/blog/sir-carnage/obshchestvo-myortvyh-hudozhnikov/",
+  "aliases": [
+    "/node/69/"
+  ],
   "original_url": "https://spidermedia.ru/blog/sir-carnage/obshchestvo-myortvyh-hudozhnikov",
   "archived": "https://web.archive.org/web/20260115051056/https://spidermedia.ru/blog/sir-carnage/obshchestvo-myortvyh-hudozhnikov",
   "tags": [
     "vertigo",
     "neil-gaiman",
     "death"
+  ],
+  "cover": "https://web.archive.org/web/20260115051056im_/http://spidermedia.ru/assets/images/import_image/69.jpg",
+  "modx_id": 69,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

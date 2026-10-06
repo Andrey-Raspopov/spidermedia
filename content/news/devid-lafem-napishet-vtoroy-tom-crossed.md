@@ -1,7 +1,10 @@
 {
   "title": "Дэвид Лафем напишет второй том \"Crossed\"",
-  "date": "2010-02-17T00:15:00+03:00",
+  "date": "2010-02-17T00:15:37+03:00",
   "url": "/news/devid-lafem-napishet-vtoroy-tom-crossed/",
+  "aliases": [
+    "/node/2381/"
+  ],
   "original_url": "https://spidermedia.ru/news/devid-lafem-napishet-vtoroy-tom-crossed",
   "archived": "https://web.archive.org/web/20251115035330/https://spidermedia.ru/news/devid-lafem-napishet-vtoroy-tom-crossed",
   "tags": [
@@ -15,6 +18,12 @@
     "jacen-burrows",
     "david-lapham",
     "avatar-press"
+  ],
+  "cover": "https://web.archive.org/web/20251115035330im_/http://spidermedia.ru/assets/images/import_image/2381.jpg",
+  "modx_id": 2381,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

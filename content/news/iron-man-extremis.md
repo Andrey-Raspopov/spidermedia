@@ -1,6 +1,6 @@
 {
   "title": "Iron Man: Extremis",
-  "date": "2010-03-25T21:41:00+03:00",
+  "date": "2010-03-25T21:41:45+03:00",
   "url": "/news/iron-man-extremis/",
   "original_url": "http://spidermedia.ru/news/iron-man-extremis",
   "archived": "https://web.archive.org/web/20251206031815/http://spidermedia.ru/news/iron-man-extremis",
@@ -10,7 +10,13 @@
     "adi-granov",
     "marvel",
     "animirovannye-komiksy",
-    "motion-comics"
+    "motion-comics",
+    "zheleznyy-chelovek"
+  ],
+  "modx_id": 2478,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

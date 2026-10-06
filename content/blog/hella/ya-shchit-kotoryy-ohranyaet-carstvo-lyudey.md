@@ -1,6 +1,6 @@
 {
   "title": "Я — щит, который охраняет царство людей",
-  "date": "2014-09-25T19:30:00+03:00",
+  "date": "2014-09-25T18:30:33+03:00",
   "url": "/blog/hella/ya-shchit-kotoryy-ohranyaet-carstvo-lyudey/",
   "original_url": "http://spidermedia.ru/blog/hella/ya-shchit-kotoryy-ohranyaet-carstvo-lyudey",
   "archived": "https://web.archive.org/web/20250620074223/http://spidermedia.ru/blog/hella/ya-shchit-kotoryy-ohranyaet-carstvo-lyudey",
@@ -8,6 +8,12 @@
     "mnenie",
     "marvel",
     "s.h.i.e.l.d"
+  ],
+  "cover": "https://web.archive.org/web/20250620074223im_/http://spidermedia.ru/assets/images/import_image/8104.jpg",
+  "modx_id": 8104,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

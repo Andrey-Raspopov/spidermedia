@@ -1,6 +1,6 @@
 {
   "title": "Spitfire: Прошлое, настоящее и будущее",
-  "date": "2010-08-05T00:50:00+03:00",
+  "date": "2010-08-04T23:50:24+03:00",
   "url": "/news/spitfire-proshloe-nastoyashchee-i-budushchee/",
   "original_url": "http://spidermedia.ru/news/spitfire-proshloe-nastoyashchee-i-budushchee",
   "archived": "https://web.archive.org/web/20120607170101/http://spidermedia.ru/news/spitfire-proshloe-nastoyashchee-i-budushchee",
@@ -12,7 +12,15 @@
     "komiksy",
     "marvel",
     "pol-kornell",
-    "spitfayr"
+    "spitfayr",
+    "spitfajr",
+    "blejd"
+  ],
+  "cover": "https://web.archive.org/web/20120607170101im_/http://spidermedia.ru/assets/images/import_image/2835.jpg",
+  "modx_id": 2835,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"
@@ -29,6 +37,6 @@
 **Пол** обещает рассказать о том, как женщина до сих пор учится уживаться со своей темной половиной, благодаря помощи **Блейда**, и куда это её может привести. Он так же обещает углубиться в отношения героев и показать как те сближаются с каждым днем и какое будущее ждет их.]]>[![](https://web.archive.org/web/20120607170101im_/http://img.photobucket.com/albums/v497/spidermedia/sp888_News/th_prv5939_pg2.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/sp888_News/prv5939_pg2.jpg)]]> ]]>[![](https://web.archive.org/web/20120607170101im_/http://img.photobucket.com/albums/v497/spidermedia/sp888_News/th_prv5939_pg3.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/sp888_News/prv5939_pg3.jpg)]]> ]]>[![](https://web.archive.org/web/20120607170101im_/http://img.photobucket.com/albums/v497/spidermedia/sp888_News/th_prv5939_pg4.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/sp888_News/prv5939_pg4.jpg)]]> ]]>[![](https://web.archive.org/web/20120607170101im_/http://img.photobucket.com/albums/v497/spidermedia/sp888_News/th_prv5939_pg5.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/sp888_News/prv5939_pg5.jpg)]]> ]]>[![](https://web.archive.org/web/20120607170101im_/http://img.photobucket.com/albums/v497/spidermedia/sp888_News/th_prv5939_pg6.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/sp888_News/prv5939_pg6.jpg)]]>
 Сама история уан-шота будет происходить параллельно истории **Корнелла** из **Age of Heroes #1** В комиксе герои будут выполнять секретное задание под прикрытием: найти и уничтожить одну из британских вампиров, которая пусть и не приняла сторону **Дракулы** во время недавней войны, но все-таки перешла черту дозволенного.]]>[![](https://web.archive.org/web/20120607170101im_/http://img.photobucket.com/albums/v497/spidermedia/th_63_INVADERS_1.jpg)](http://img.photobucket.com/albums/v497/spidermedia/63_INVADERS_1.jpg)]]> ]]>[![](https://web.archive.org/web/20120607170101im_/http://img.photobucket.com/albums/v497/spidermedia/th_25-2.jpg)](http://img.photobucket.com/albums/v497/spidermedia/25-2.jpg)]]>
 Обложки мини-серии **Invaders Now!**  работы **Алекса Росса** **(Alex Ross)**
-Комикс не будет иметь прямых связей с событиями, начало которым положил уан-шот **Death of Dracula**, но должен заложить глубокую основу для этой пары на многие годы. По-крайней мере так нам обещают. Тем не менее, доподлинно известно, что для **Блейда** уже заготовлено место в серии **X-Men**, а именно в арке [**Curse of Mutants**](../../node/2690/), а **Спитфайр** получит место в команде **Захватчиков** **(Invaders)** - [в минисерии **Invaders Now! #2**](../../node/2768/).
+Комикс не будет иметь прямых связей с событиями, начало которым положил уан-шот **Death of Dracula**, но должен заложить глубокую основу для этой пары на многие годы. По-крайней мере так нам обещают. Тем не менее, доподлинно известно, что для **Блейда** уже заготовлено место в серии **X-Men**, а именно в арке [**Curse of Mutants**](../x-men-vs-vampires/), а **Спитфайр** получит место в команде **Захватчиков** **(Invaders)** - [в минисерии **Invaders Now! #2**](../avengers-assemble-sentyabr-2010/).
 
 Поделиться:

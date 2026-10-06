@@ -1,6 +1,6 @@
 {
   "title": "ОБЗОР: «Шафировский проспект»",
-  "date": "2014-12-13T12:05:00+03:00",
+  "date": "2014-12-13T12:05:19+03:00",
   "url": "/blog/larosh/obzor-shafirovskiy-prospekt-1/",
   "original_url": "http://spidermedia.ru/blog/larosh/obzor-shafirovskiy-prospekt-1",
   "archived": "https://web.archive.org/web/20260209112659/http://spidermedia.ru/blog/larosh/obzor-shafirovskiy-prospekt-1",
@@ -8,6 +8,12 @@
     "russian-comics",
     "obzor",
     "komilfo"
+  ],
+  "cover": "https://web.archive.org/web/20150326220326im_/http://spidermedia.ru/assets/images/import_image/8373.jpg",
+  "modx_id": 8373,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

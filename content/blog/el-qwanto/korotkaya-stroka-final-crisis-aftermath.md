@@ -1,12 +1,20 @@
 {
   "title": "Короткая строка - Final Crisis Aftermath",
-  "date": "2009-02-12T01:27:00+03:00",
+  "date": "2009-02-12T01:27:12+03:00",
   "url": "/blog/el-qwanto/korotkaya-stroka-final-crisis-aftermath/",
+  "aliases": [
+    "/node/320/"
+  ],
   "original_url": "https://spidermedia.ru/blog/el-qwanto/korotkaya-stroka-final-crisis-aftermath",
   "archived": "https://web.archive.org/web/20260215072925/https://spidermedia.ru/blog/el-qwanto/korotkaya-stroka-final-crisis-aftermath",
   "tags": [
     "final-crisis",
     "dc-comics"
+  ],
+  "modx_id": 320,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

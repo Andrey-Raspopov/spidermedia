@@ -1,12 +1,18 @@
 {
   "title": "Hellboymedia #05: Lobster Johnson — Get the Lobster",
-  "date": "2014-08-28T17:07:00+03:00",
+  "date": "2014-08-28T16:07:36+03:00",
   "url": "/blog/shargor/hellboymedia-05-lobster-johnson-get-lobster/",
   "original_url": "https://spidermedia.ru/blog/shargor/hellboymedia-05-lobster-johnson-get-lobster",
   "archived": "https://web.archive.org/web/20251115025556/https://spidermedia.ru/blog/shargor/hellboymedia-05-lobster-johnson-get-lobster",
   "tags": [
     "hellboymedia",
     "mnenie"
+  ],
+  "cover": "https://web.archive.org/web/20160611140506im_/http://spidermedia.ru/assets/images/hellboymedia/regular/05-lobster-johnson-get-the-lobster/lobster-johnson-get-the-lobster-cover.jpg",
+  "modx_id": 8025,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

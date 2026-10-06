@@ -8,7 +8,14 @@
     "dc-comics",
     "san-diego-comic-con-international",
     "batman",
-    "grant-morrison"
+    "grant-morrison",
+    "sdcc2015"
+  ],
+  "cover": "https://web.archive.org/web/20260314075437im_/http://spidermedia.ru/assets/images/news/sdcc/2015/dc/multi-social-dbf49.jpg",
+  "modx_id": 100360,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

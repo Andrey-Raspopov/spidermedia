@@ -1,6 +1,6 @@
 {
   "title": "ЭКСКЛЮЗИВ: Превью \"Хеллбой №4\"",
-  "date": "2013-08-02T23:30:00+03:00",
+  "date": "2013-08-02T22:30:37+03:00",
   "url": "/news/eksklyuziv-prevyu-hellboy-no4/",
   "original_url": "http://spidermedia.ru/news/eksklyuziv-prevyu-hellboy-no4",
   "archived": "https://web.archive.org/web/20250814212531/http://spidermedia.ru/news/eksklyuziv-prevyu-hellboy-no4",
@@ -11,6 +11,12 @@
     "zarubezhnye-komiksy-na-russkom",
     "hellboy",
     "dark-horse"
+  ],
+  "cover": "https://web.archive.org/web/20250814212531im_/http://spidermedia.ru/assets/images/import_image/7398.png",
+  "modx_id": 7398,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

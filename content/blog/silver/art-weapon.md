@@ -1,12 +1,21 @@
 {
   "title": "Art Is The Weapon",
-  "date": "2010-09-18T05:09:00+03:00",
+  "date": "2010-09-18T04:09:23+03:00",
   "url": "/blog/silver/art-weapon/",
+  "aliases": [
+    "/node/2924/"
+  ],
   "original_url": "http://spidermedia.ru/blog/silver/art-weapon",
   "archived": "https://web.archive.org/web/20190811010744/http://spidermedia.ru:80/blog/silver/art-weapon",
   "tags": [
     "dzherard-vej",
     "grant-morrison"
+  ],
+  "cover": "https://web.archive.org/web/20190811010744im_/http://spidermedia.ru/assets/images/import_image/2924.jpg",
+  "modx_id": 2924,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

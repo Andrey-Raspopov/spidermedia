@@ -1,9 +1,15 @@
 {
   "title": "Мстители: Эра Альтрона",
-  "date": "2015-03-20T00:00:00+00:00",
+  "date": "2015-04-23T13:32:00+03:00",
   "url": "/movies-index/mstiteli-era-altrona/",
   "original_url": "http://spidermedia.ru/movies-index/mstiteli-era-altrona",
   "archived": "https://web.archive.org/web/20150320030816/http://spidermedia.ru/movies-index/mstiteli-era-altrona",
+  "cover": "https://web.archive.org/web/20160408013301im_/http://spidermedia.ru/assets/images/movies/marvel/avengers-age-of-ultron-2015/marvel-avengers-age-of-ultron-2015-team-poster.jpg",
+  "modx_id": 100034,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,11 +1,20 @@
 {
   "title": "KYON-KUN DENWA",
-  "date": "2010-02-05T23:22:00+03:00",
+  "date": "2010-02-05T23:22:44+03:00",
   "url": "/blog/plane-v/kyon-kun-denwa/",
+  "aliases": [
+    "/node/2342/"
+  ],
   "original_url": "http://spidermedia.ru/blog/plane-v/kyon-kun-denwa",
   "archived": "https://web.archive.org/web/20161112213311/http://spidermedia.ru:80/blog/plane-v/kyon-kun-denwa",
   "tags": [
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20161112213311im_/http://spidermedia.ru/assets/images/import_image/2342.jpg",
+  "modx_id": 2342,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
@@ -14,15 +23,15 @@
 ![111](https://web.archive.org/web/20161112213311im_/http://i563.photobucket.com/albums/ss77/vi_spidermedia/Marvel%20in%2000s/head.jpg)
 ооооооооооок, наконец-то небольшое исследование продукции славного издательства Marvel Comics за прошедшее десятилетие подошло к концу и под катом можно ознакомится с моим взглядом на teh best of '09 от Джо Кезады и его друзей. Дисклэймер: я не читал Marvels Project, Dark X-Men, Deathlok The Demolisher, Strange и S.W.O.R.D. (после первого номера), так как жду пока закончатся, и Vengeance of Moon Knight - пока не наберется побольше номеров. По поводу остальных комиксов, в том числе и прошлых лет, можете смело пытать меня в комментариях, может быть сделаю еще один пост.
 **Рекап:**
-**[2000](../../../node/2182/) - Punisher: Welcome Back, Frank**
+**[2000](../i-am-obviously-too-cool/) - Punisher: Welcome Back, Frank**
 **2001 - New X-Men**
-**[2002](../../../node/2191/) - X-Statix**
+**[2002](../darts-pleasure/) - X-Statix**
 **2003 - Supreme Power**
-**[2004](../../../node/2200/) - Captain America v5**
+**[2004](../what-it-exactly-you-have-created/) - Captain America v5**
 **2005 - X-Factor (errr)**
-**[2006](../../../node/2207/) - Nextwave: Agents of H.A.T.E.** и **Criminal**
-**[2007](../../../node/2230/) - Omega The Unknown**
-**[2008](../../../node/2279/) - Ghost Rider Джейсона Аарона**
+**[2006](../i-think-i-crashed-your-plane/) - Nextwave: Agents of H.A.T.E.** и **Criminal**
+**[2007](../my-son-and-partner-hw/) - Omega The Unknown**
+**[2008](../its-just-wikipedia/) - Ghost Rider Джейсона Аарона**
 
 **2009 - Secret Warriors**; *авторы - Брайан Майкл Бендис, Джонатан Хикман, Стефано Каселли*
 

@@ -1,6 +1,6 @@
 {
   "title": "(здесь была очевидная и не смешная шутка)",
-  "date": "2012-06-01T14:35:00+03:00",
+  "date": "2012-06-01T13:35:04+03:00",
   "url": "/news/zdes-byla-ochevidnaya-i-ne-smeshnaya-shutka/",
   "original_url": "http://spidermedia.ru/news/zdes-byla-ochevidnaya-i-ne-smeshnaya-shutka",
   "archived": "https://web.archive.org/web/20260117214137/http://spidermedia.ru/news/zdes-byla-ochevidnaya-i-ne-smeshnaya-shutka",
@@ -8,6 +8,12 @@
     "green-lantern",
     "earth-2",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20260117214137im_/http://spidermedia.ru/assets/images/import_image/6916.jpg",
+  "modx_id": 6916,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -4,6 +4,12 @@
   "url": "/comics/resurrxion-i-ego-posledstviya/",
   "original_url": "http://spidermedia.ru/comics/resurrxion-i-ego-posledstviya",
   "archived": "https://web.archive.org/web/20200218015603/http://spidermedia.ru:80/comics/resurrxion-i-ego-posledstviya",
+  "cover": "https://web.archive.org/web/20200218015603im_/http://spidermedia.ru/assets/images/news/marvel/2ixmh.jpg",
+  "modx_id": 101384,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

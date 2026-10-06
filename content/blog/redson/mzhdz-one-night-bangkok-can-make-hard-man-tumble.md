@@ -1,12 +1,18 @@
 {
   "title": "МЖДЗ: ONE NIGHT IN BANGKOK CAN MAKE A HARD MAN TUMBLE",
-  "date": "2011-05-23T21:20:00+03:00",
+  "date": "2011-05-23T20:20:14+03:00",
   "url": "/blog/redson/mzhdz-one-night-bangkok-can-make-hard-man-tumble/",
   "original_url": "http://spidermedia.ru/blog/redson/mzhdz-one-night-bangkok-can-make-hard-man-tumble",
   "archived": "https://web.archive.org/web/20260313110337/http://spidermedia.ru/blog/redson/mzhdz-one-night-bangkok-can-make-hard-man-tumble",
   "tags": [
     "mnenie",
     "mzhdz"
+  ],
+  "cover": "https://web.archive.org/web/20160716220730im_/http://spidermedia.ru/assets/images/import_image/5964.jpg",
+  "modx_id": 5964,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

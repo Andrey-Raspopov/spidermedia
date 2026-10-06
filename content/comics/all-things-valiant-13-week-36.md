@@ -5,17 +5,22 @@
   "original_url": "https://spidermedia.ru/comics/all-things-valiant-13-week-36",
   "archived": "https://web.archive.org/web/20260125063741/https://spidermedia.ru/comics/all-things-valiant-13-week-36",
   "tags": [
-    "valiant-entertainment"
+    "valiant-entertainment",
+    "all-things-valiant"
+  ],
+  "cover": "https://web.archive.org/web/20260125063741im_/http://spidermedia.ru/assets/images/valiant/images/atv-13/atv-13-cover.jpg.jpg",
+  "modx_id": 100515,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](http://spidermedia.ru/assets/cache/images/valiant/images/atv-13/622x-atv-13-cover.jpg.2e9.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv-13/atv-13-cover.jpg.jpg)
-
 Глядя на все увеличивающийся список новых лицензий комиксов от DC, Marvel и Image, хочется спросить: А как же Valiant? [Единственный поставщик](http://vk.com/viverrapublishing) Valiant Entertainment на русском языке сохраняет молчание. Но мы верим, что когда-нибудь в нашей рубрике будет отечественная новость (или даже рецензия). Ну а пока, все только из-за рубежа (и ни слова о санкциях).
 
-**[Новости](./#news) **•** [Рецензии](./#reviews)**
+**[Новости](#news) **•** [Рецензии](#reviews)**
 
 В этом выпуске Shadowman возвращается назад в комиксы, Тойо Харада возвращается назад во времени, а X-O Manowar возвращается назад в прошлый номер. Также пара советов о том, как создавать комиксы и выгодно их покупать.
 
@@ -28,12 +33,12 @@
 #### Первый бандл комиксов Valiant
 Valiant Entertainment при помощи сайта groupees.com [организовали свой первый бандл](https://groupees.com/valiant), продажу комплекта электронных комиксов (синглов и ТПБ). Акция продлится еще 2 дня, и во время ее проведения вы можете купить продукцию Valiant по очень низкой цене. А заплатив 50 долларов, получите физические копии некоторых ТПБ и синглов. Но если вы предложите сумму больше всех остальных участников, то приобретете целый набор омнибусов, делюксов, тпб, синглов и различного мерчандайза (доставка в цену не входит).
 
-[![](http://spidermedia.ru/assets/cache/preview/100515/valiant/images/atv-13/622x145-atv-13-news-bundle.4c0.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv-13/atv-13-news-bundle.jpg)
+![](https://web.archive.org/web/20260125063741im_/http://spidermedia.ru/assets/images/valiant/images/atv-13/atv-13-news-bundle.jpg)
 
 #### Курс лекций «Искусство комиксов» от сценариста и художников Valiant
 Valiant Entertainment совместно с торговой фирмой Hastings проведет курс лекций «Искусство комиксов». В рамках этих встреч авторы издательства Valiant в деталях расскажут о практике и основных правилах создания комикса в каждой из четырех ключевых дисциплин: сценарии, карандашном рисунке, работе с тушью и работе с цветом. Лекции будут транслироваться каждую субботу в прямом эфире по всей сети магазинов Hastings в США с 19 сентября по 10 октября. Каждый посетитель Hastings получит бесплатное учебное пособие «Искусства комикса» для развития своих умений. В ходе работы курса, посетители магазинов смогут поучаствовать в конкурсе «Создания комиксов», а работу победителя опубликуют в одном из комиксов издательства Valiant.
 
-[![](http://spidermedia.ru/assets/cache/preview/100515/valiant/images/atv-13/309x476-atv-13-news-the-craft-of-comics-1.05a.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv-13/atv-13-news-the-craft-of-comics-1.jpg) [![](http://spidermedia.ru/assets/cache/preview/100515/valiant/images/atv-13/309x477-atv-13-news-the-craft-of-comics-2.f67.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv-13/atv-13-news-the-craft-of-comics-2.jpg)
+![](https://web.archive.org/web/20260125063741im_/http://spidermedia.ru/assets/images/valiant/images/atv-13/atv-13-news-the-craft-of-comics-1.jpg) ![](https://web.archive.org/web/20260125063741im_/http://spidermedia.ru/assets/images/valiant/images/atv-13/atv-13-news-the-craft-of-comics-2.jpg)
 
 Расписание трансляций лекций:
 
@@ -57,16 +62,58 @@ Valiant Entertainment совместно с торговой фирмой Hasti
 
 К сожалению, это произойдет не в новом томе приключений Джэка Бонифэйса, а в очередной истории про Ниндзяка. В Ninjak #10, выходящем в декабре, стартует новый сюжет из четырех частей «Operation: DEADSIDE». За сценарий по-прежнему отвечает Мэтт Киндт, а за рисунок на сей раз — Дуг Брэйтвэйт. В качестве особого бонуса, каждый из номеров данного арка будет выходить с особой обложкой, светящейся в темноте!
 
-[![](http://spidermedia.ru/assets/cache/preview/100515/valiant/images/203x312-ninjak_010_cover-a_braithwaite-640x984.6c8.jpg)](http://spidermedia.ru/assets/images/valiant/images/ninjak_010_cover-a_braithwaite-640x984.jpg) [![](http://spidermedia.ru/assets/cache/preview/100515/valiant/images/203x312-ninjak_010_cover-b_muller-640x984.6c8.jpg)](http://spidermedia.ru/assets/images/valiant/images/ninjak_010_cover-b_muller-640x984.jpg) [![](http://spidermedia.ru/assets/cache/preview/100515/valiant/images/203x312-ninjak_010_cover-c_hairsine-640x984.6c8.jpg)](http://spidermedia.ru/assets/images/valiant/images/ninjak_010_cover-c_hairsine-640x984.jpg)Дуг Брэйтвэйт **•** Том Мюллер **•** Трэвор Хэйрсин
+![](https://web.archive.org/web/20260125063741im_/http://spidermedia.ru/assets/images/valiant/images/ninjak_010_cover-a_braithwaite-640x984.jpg) ![](https://web.archive.org/web/20260125063741im_/http://spidermedia.ru/assets/images/valiant/images/ninjak_010_cover-b_muller-640x984.jpg) ![](https://web.archive.org/web/20260125063741im_/http://spidermedia.ru/assets/images/valiant/images/ninjak_010_cover-c_hairsine-640x984.jpg)Дуг Брэйтвэйт **•** Том Мюллер **•** Трэвор Хэйрсин
 
 В 2015 году тайная разведывательная команда из 20 агентов (и одного особого оперативника) была отправлена в параллельное измерение. И только один человек вернулся.
 
 Цель их миссии была засекречена. Теперь, исчерпав все варианты, МИ-6 отправляет своего самого элитного агента — Ниндзяка — вместе с единственной свидетельницей тех роковых событий — Punk Mambo, специалистом в области оккультизма — в измерение под названием Deadside... чтобы вернуть пропавших товарищей.
 
-[![](http://spidermedia.ru/assets/cache/preview/100515/valiant/images/304x417-ninjak_010_character-design-ninjak-deadside-armor-by-trevor-hairsine-640x879.8b2.jpg)](http://spidermedia.ru/assets/images/valiant/images/ninjak_010_character-design-ninjak-deadside-armor-by-trevor-hairsine-640x879.jpg) [![](http://spidermedia.ru/assets/cache/preview/100515/valiant/images/309x417-ninjak_010_character-design-punk-mambo-shadow-version-by-trevor-hairsine-640x863.868.jpg)](http://spidermedia.ru/assets/images/valiant/images/ninjak_010_character-design-punk-mambo-shadow-version-by-trevor-hairsine-640x863.jpg)
+![](https://web.archive.org/web/20260125063741im_/http://spidermedia.ru/assets/images/valiant/images/ninjak_010_character-design-ninjak-deadside-armor-by-trevor-hairsine-640x879.jpg) ![](https://web.archive.org/web/20260125063741im_/http://spidermedia.ru/assets/images/valiant/images/ninjak_010_character-design-punk-mambo-shadow-version-by-trevor-hairsine-640x863.jpg)
 
 ---
 
 **ЧТО МЫ ПРОЧИТАЛИ**
 
 ---
+
+a:2:{i:1;a:7:{s:5:"autor";a:3:{i:1;a:2:{i:0;s:16:"Сценарий";i:1;s:25:"Джошуа Дизарт";}i:3;a:2:{i:0;s:14:"Рисунок";i:1;s:27:"Скот Итон, КАФУ";}i:5;a:2:{i:0;s:8:"Цвет";i:1;s:23:"Брайан Рибер";}}s:4:"name";s:8:"Imperium";s:7:"edition";s:2:"#8";s:5:"cover";s:70:"assets/images/valiant/images/atv-13/atv-13-imperium-review-8-cover.jpg";s:9:"publisher";s:4:"1249";s:4:"year";s:4:"2015";s:8:"comments";a:1:{i:1;a:4:{s:5:"autor";s:6:"183731";s:4:"text";s:5146:"
+
+Второй арк Imperium выстроен как классическая супергероика: команда врывается на базу секретной организации, выносит пачками миньонов, а затем вступает в бой с суперзлодеем. И, по законам жанра, героям проигрывать не полагается. Но Imperium рассказывает о суперзлодеях и их попытке мирового господства, а таким господам на роду написано уступать добру с кулаками. Поэтому 8 номер повествует о поражении Тойо Харады, смирении воли Divinity – силе большей, чем сама жизнь. Но проигрыш Тойо – его собственный выбор, мотивированный безграничной эгоистичностью и бэдассностью персонажа.
+
+![](https://web.archive.org/web/20260125063741im_/http://spidermedia.ru/assets/images/valiant/images/atv-13/imperium-review-8-image-1.jpg)
+
+И да, за ширмой высокобюджетных взрывов, пафосных речей, сражений, искажающих время и пространство, лежит серьезный подтекст – нерациональное использование ресурсов и возможностей человечества. И тут проявляется разница между мастерством Алеша Кота и Джошуа Дизарта. Алеш [неделю назад](../all-things-valiant-12-week-35/#item3) вместо комикса выдал манифест борьбы гения с корпоративными интересами, начисто позабыв о сюжете и развитии персонажей. А Джошуа в комикс, полный экшена, тонкой проработки персонажей и логичного завершения сложных сюжетных линий, умудряется вплести актуальный вопрос и не навязывает читателям свою точку зрения. И на это у него уходит 6 интереснейших страниц 8 номера. Страниц, полных «молитв» супербогам и обвинений оных в трусости.
+
+![](https://web.archive.org/web/20260125063741im_/http://spidermedia.ru/assets/images/valiant/images/atv-13/imperium-review-8-image-2.jpg)
+
+Скот Итон как художник не совсем подходит данному арку, т.к. сценарий просит богатую мимику персонажей и безупречную актерскую игру, что Итону дается слабо. Художник выдает качественную картинку там, где требуется рисовать психоделику, играть с размерами фигур или раскадровкой страницы, изобразить что-то мозговзрывающее или нарисовать чудищ (ЛВ-99). Но в остальных случаях качество рисунка сильно скачет. Возможно, вину за искривлённые лица, лишние мускулы Грейвдога и проблемы с анатомией несут инкеры, т.к. [в прошлых работах](http://spidermedia.ru/assets/images/valiant/files/atv-13/atv-13-imperium-review-8-eaton-example-x-o-manowar-7-1997.jpg) [Итон такими проблемами](http://spidermedia.ru/assets/images/valiant/files/atv-13/atv-13-imperium-review-8-eaton-example-detective-comics-21-2011.jpg) [не страдал](http://spidermedia.ru/assets/images/valiant/files/atv-13/atv-13-imperium-review-8-eaton-example-ultimate-comics-ultimates-19-2013.jpg).
+
+Тусклые цвета Брайана Рибера не мешают ему выдавать в этом номере целое буйство красок: будь то глубина океана, цветущая зелень или пылающий огонь. Колорист в каждом случае подберет нужный оттенок таким образом, чтобы страница осталась цельной и не развалилась на отдельные цветовые пятна.
+
+Imperium #5-8 предлагает нам экзотическое блюдо – классическую супергероику с обратными ролями. Спешите, пока не остыло. Что, вы все еще не читаете Imperium?
+
+![](https://web.archive.org/web/20260125063741im_/http://spidermedia.ru/assets/images/valiant/images/atv-13/atv-13-imperium-review-8-we-are-coming.jpg)
+
+*Тогда мы идем к вам!*
+
+";s:8:"mjdzText";s:0:"";s:10:"conclusion";s:10:"ДОБРО";}}}i:2;a:7:{s:5:"autor";a:3:{i:1;a:2:{i:0;s:16:"Сценарий";i:1;s:29:"Роберт Вендитти";}i:3;a:2:{i:0;s:14:"Рисунок";i:1;s:25:"Рафа Сандовал";}i:5;a:2:{i:0;s:8:"Цвет";i:1;s:27:"Улесес Арреола";}}s:4:"name";s:11:"X-O Manowar";s:7:"edition";s:3:"#40";s:5:"cover";s:54:"assets/images/valiant/images/x-o-manowar-040-cover.jpg";s:9:"publisher";s:4:"1249";s:4:"year";s:4:"2015";s:8:"comments";a:1:{i:1;a:4:{s:5:"autor";s:6:"183732";s:4:"text";s:5204:"
+
+Удивительная вещь комиксы. За один небольшой выпуск в 32 (в среднем) страницы может быть рассказана целая история, или сюжет в несколько номеров получает немалое развитие. А иногда в комиксе совершенно ничего не происходит. Угадайте, какой вариант выбрал Роберт Вендитти? Правильно, третий.
+
+![](https://web.archive.org/web/20260125063741im_/http://spidermedia.ru/assets/images/valiant/images/x-o-manowar-040-image-01.jpg)
+
+*Previously on X-O Manowar...* *Ой, это уже не страничка рекапа*
+
+На обложке нового номера X-O Manowar красуется цифра 40, хотя, на самом деле, стоило оставить 39, ведь сюжет практически не продвинулся. А некоторые персонажи буквально остались на том же месте. Из нового было: Арик [своим огромным авторитетом](http://spidermedia.ru/assets/images/valiant/files/x-o-manowar-040-image-02.jpg) останавливает разгорающийся конфликт между солдатами G.A.T.E. и войсками Vine, а Саана ухаживает за ранеными. Вот, собственно, и все. А! Еще же показали главного злодея текущего арка. Им оказался командор Трилл — противник настолько старый, что уже успел позабыться всеми, кроме сценариста. Но в начале выпуска нам любезно о нем напомнят. Также Трилл является «родителем» клиффхэнгера данного номера. Который вновь заставляет вспомнить X-O Manowar #39. Вендитти, по сути, «стреляет» из того же самого ружья (ок, в прошлый раз был истребитель) — опять «простой американский солдат» является инструментом разжигания вражды между расами. Еще одно подтверждение тому, что Роберт мастер продавать один и тот же комикс [дважды](../all-things-valiant-week-27/#item3).
+
+![](https://web.archive.org/web/20260125063741im_/http://spidermedia.ru/assets/images/valiant/images/x-o-manowar-040-image-03.jpg)
+
+*Постигнет ли Арика судьба Кайла Рэйнера?*
+
+Художников комиксов можно хвалить за неповторимый стиль, за интересную композицию, за умение «рассказывать» историю или просто за красивый рисунок. Рафа Сандовал как раз относится к последнему типу. У него действительно красивый рисунок, чем-то напоминает те серии Marvel, которые не стремятся копировать визуальный стиль Image. Хотя и со всем остальным (кроме изображения волос) у него нет проблем. Персонажи приятны на вид, боевые сцены удачны, а ракурсы выбраны интересно. Цвета Улисса Арреолы добавляют лоска и блокбастерности (есть же такое слово?) рисунку Сандовала.
+
+В общем, с визуальной точки зрения «Исход» удался, однако со сценарной составляющей все не так однозначно. Потенциал у заглавного конфликта есть, и большой, но реализован он пока очень слабо. Вернее, не реализован совсем, только обозначен. Видимо, самые интересные моменты противостояния людей и Vine будут происходить в новом арке Империума, стартующем в девятом выпуске.
+
+ P.S. Но X-O Manowar у Вендитти все равно написан лучше Зеленого Фонаря.
+
+";s:8:"mjdzText";s:0:"";s:10:"conclusion";s:8:"ЖИЖА";}}}}

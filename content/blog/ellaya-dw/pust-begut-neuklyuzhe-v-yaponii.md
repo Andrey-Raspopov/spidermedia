@@ -1,11 +1,20 @@
 {
   "title": "Пусть бегут неуклюже... в Японии",
-  "date": "2009-09-04T16:21:00+03:00",
+  "date": "2009-09-04T15:21:02+03:00",
   "url": "/blog/ellaya-dw/pust-begut-neuklyuzhe-v-yaponii/",
+  "aliases": [
+    "/node/1876/"
+  ],
   "original_url": "http://spidermedia.ru/blog/ellaya-dw/pust-begut-neuklyuzhe-v-yaponii",
   "archived": "https://web.archive.org/web/20251107010401/http://spidermedia.ru/blog/ellaya-dw/pust-begut-neuklyuzhe-v-yaponii",
   "tags": [
     "anime"
+  ],
+  "cover": "https://web.archive.org/web/20251107010401im_/http://spidermedia.ru/assets/images/import_image/1876.png",
+  "modx_id": 1876,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

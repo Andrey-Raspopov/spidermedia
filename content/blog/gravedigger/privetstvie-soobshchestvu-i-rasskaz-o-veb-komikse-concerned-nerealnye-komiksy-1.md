@@ -1,11 +1,17 @@
 {
   "title": "Приветствие сообществу и рассказ о веб-комиксе Concerned [Нереальные комиксы #1]",
-  "date": "2012-02-13T11:44:00+03:00",
+  "date": "2012-02-13T10:44:54+03:00",
   "url": "/blog/gravedigger/privetstvie-soobshchestvu-i-rasskaz-o-veb-komikse-concerned-nerealnye-komiksy-1/",
   "original_url": "http://spidermedia.ru/blog/gravedigger/privetstvie-soobshchestvu-i-rasskaz-o-veb-komikse-concerned-nerealnye-komiksy-1",
   "archived": "https://web.archive.org/web/20260213031913/http://spidermedia.ru/blog/gravedigger/privetstvie-soobshchestvu-i-rasskaz-o-veb-komikse-concerned-nerealnye-komiksy-1",
   "tags": [
     "veb-komiksy"
+  ],
+  "cover": "https://web.archive.org/web/20220813171134im_/http://spidermedia.ru/assets/images/import_image/6780.gif",
+  "modx_id": 6780,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

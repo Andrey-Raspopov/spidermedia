@@ -1,7 +1,10 @@
 {
   "title": "Крепкий орешек: Начало",
-  "date": "2009-05-29T12:05:00+03:00",
+  "date": "2009-05-29T11:05:30+03:00",
   "url": "/news/krepkiy-oreshek-nachalo/",
+  "aliases": [
+    "/node/1299/"
+  ],
   "original_url": "http://spidermedia.ru/news/krepkiy-oreshek-nachalo",
   "archived": "https://web.archive.org/web/20150427053248/http://spidermedia.ru/news/krepkiy-oreshek-nachalo",
   "tags": [
@@ -9,6 +12,12 @@
     "boom-studios",
     "die-hard",
     "krepkij-oreshek"
+  ],
+  "cover": "https://web.archive.org/web/20150427053248im_/http://spidermedia.ru/assets/images/import_image/1299.jpg",
+  "modx_id": 1299,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

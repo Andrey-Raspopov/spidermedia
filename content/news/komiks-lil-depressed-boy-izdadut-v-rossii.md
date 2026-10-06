@@ -1,12 +1,18 @@
 {
   "title": "Комикс “The Li’l Depressed Boy” издадут в России",
-  "date": "2014-02-11T16:41:00+03:00",
+  "date": "2014-02-11T15:41:11+03:00",
   "url": "/news/komiks-lil-depressed-boy-izdadut-v-rossii/",
   "original_url": "https://spidermedia.ru/news/komiks-lil-depressed-boy-izdadut-v-rossii",
   "archived": "https://web.archive.org/web/20260307064452/https://spidermedia.ru/news/komiks-lil-depressed-boy-izdadut-v-rossii",
   "tags": [
     "image-comics",
     "zarubezhnye-komiksy-na-russkom"
+  ],
+  "cover": "https://web.archive.org/web/20260307064452im_/http://spidermedia.ru/assets/images/import_image/7637.jpg",
+  "modx_id": 7637,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

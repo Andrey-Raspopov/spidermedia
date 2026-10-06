@@ -1,6 +1,6 @@
 {
   "title": "Синий пушистый онгоинг",
-  "date": "2014-01-16T10:33:00+03:00",
+  "date": "2014-01-16T09:33:56+03:00",
   "url": "/news/siniy-pushistyy-ongoing/",
   "original_url": "http://spidermedia.ru/news/siniy-pushistyy-ongoing",
   "archived": "https://web.archive.org/web/20190925022015/http://spidermedia.ru:80/news/siniy-pushistyy-ongoing",
@@ -9,6 +9,12 @@
     "najtkrouler",
     "marvel",
     "kris-klermont"
+  ],
+  "cover": "https://web.archive.org/web/20190925022015im_/http://spidermedia.ru/assets/images/import_image/7599.jpg",
+  "modx_id": 7599,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

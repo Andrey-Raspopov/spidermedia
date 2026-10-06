@@ -8,6 +8,12 @@
     "zarubezhnye-komiksy-na-russkom",
     "ast"
   ],
+  "cover": "https://web.archive.org/web/20200205210406im_/http://spidermedia.ru/assets/images/reviews/ast/giant-days/cover.jpg",
+  "modx_id": 102188,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

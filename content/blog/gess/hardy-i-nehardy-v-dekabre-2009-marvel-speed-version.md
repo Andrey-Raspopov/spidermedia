@@ -1,7 +1,10 @@
 {
   "title": "Харды и нехарды в декабре 2009 - Marvel (speed version)",
-  "date": "2009-12-24T11:08:00+03:00",
+  "date": "2009-12-24T11:08:53+03:00",
   "url": "/blog/gess/hardy-i-nehardy-v-dekabre-2009-marvel-speed-version/",
+  "aliases": [
+    "/node/2193/"
+  ],
   "original_url": "http://spidermedia.ru/blog/gess/hardy-i-nehardy-v-dekabre-2009-marvel-speed-version",
   "archived": "https://web.archive.org/web/20161105081825/http://spidermedia.ru:80/blog/gess/hardy-i-nehardy-v-dekabre-2009-marvel-speed-version",
   "tags": [
@@ -10,6 +13,12 @@
     "mnenie",
     "hc",
     "tpb"
+  ],
+  "cover": "https://web.archive.org/web/20161105081825im_/http://spidermedia.ru/assets/images/import_image/2193.gif",
+  "modx_id": 2193,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

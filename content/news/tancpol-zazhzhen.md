@@ -1,7 +1,10 @@
 {
   "title": "Танцпол зажжен",
-  "date": "2009-06-06T23:18:00+03:00",
+  "date": "2009-06-06T22:18:36+03:00",
   "url": "/news/tancpol-zazhzhen/",
+  "aliases": [
+    "/node/1368/"
+  ],
   "original_url": "https://spidermedia.ru/news/tancpol-zazhzhen",
   "archived": "https://web.archive.org/web/20251013180048/https://spidermedia.ru/news/tancpol-zazhzhen",
   "tags": [
@@ -12,6 +15,12 @@
     "stiv-makniven",
     "steve-mcniven",
     "tony-harris"
+  ],
+  "cover": "https://web.archive.org/web/20251013180048im_/http://spidermedia.ru/assets/images/import_image/1368.jpg",
+  "modx_id": 1368,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

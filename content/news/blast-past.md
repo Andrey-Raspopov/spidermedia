@@ -1,7 +1,10 @@
 {
   "title": "Blast from the past",
-  "date": "2009-11-24T18:51:00+03:00",
+  "date": "2009-11-24T18:51:56+03:00",
   "url": "/news/blast-past/",
+  "aliases": [
+    "/node/2130/"
+  ],
   "original_url": "http://spidermedia.ru/news/blast-past",
   "archived": "https://web.archive.org/web/20251211035424/http://spidermedia.ru/news/blast-past",
   "tags": [
@@ -9,7 +12,14 @@
     "j-michael-straczynski",
     "the-twelve",
     "marvel",
-    "chris-weston"
+    "chris-weston",
+    "dzhej-majkl-strazhinski"
+  ],
+  "cover": "https://web.archive.org/web/20150424165421im_/http://spidermedia.ru/assets/images/import_image/2130.jpg",
+  "modx_id": 2130,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

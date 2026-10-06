@@ -1,12 +1,21 @@
 {
   "title": "Олло, мы не ищем таланты",
-  "date": "2009-02-28T01:50:00+03:00",
+  "date": "2009-02-28T00:50:48+03:00",
   "url": "/blog/gess/ollo-my-ne-ishchem-talanty/",
+  "aliases": [
+    "/node/537/"
+  ],
   "original_url": "http://spidermedia.ru/blog/gess/ollo-my-ne-ishchem-talanty",
   "archived": "https://web.archive.org/web/20120608214046/http://spidermedia.ru/blog/gess/ollo-my-ne-ishchem-talanty",
   "tags": [
     "industriya",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20120608214046im_/http://spidermedia.ru/assets/images/import_image/537.jpg",
+  "modx_id": 537,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

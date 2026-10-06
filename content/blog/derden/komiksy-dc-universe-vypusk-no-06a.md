@@ -1,7 +1,10 @@
 {
   "title": "Комиксы DC Universe. Выпуск № 06a",
-  "date": "2009-07-12T01:15:00+03:00",
+  "date": "2009-07-12T00:15:46+03:00",
   "url": "/blog/derden/komiksy-dc-universe-vypusk-no-06a/",
+  "aliases": [
+    "/node/1539/"
+  ],
   "original_url": "https://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-06a",
   "archived": "https://web.archive.org/web/20260117220846/https://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-06a",
   "tags": [
@@ -9,6 +12,12 @@
     "brian-azzarello",
     "batman",
     "dc-universe-comics"
+  ],
+  "cover": "https://web.archive.org/web/20260117220846im_/http://spidermedia.ru/assets/images/import_image/1539.gif",
+  "modx_id": 1539,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

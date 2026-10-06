@@ -1,12 +1,18 @@
 {
   "title": "Странных приключений псто",
-  "date": "2011-04-29T01:31:00+03:00",
+  "date": "2011-04-29T00:31:19+03:00",
   "url": "/news/strannyh-priklyucheniy-psto/",
   "original_url": "https://spidermedia.ru/news/strannyh-priklyucheniy-psto",
   "archived": "https://web.archive.org/web/20260312022549/https://spidermedia.ru/news/strannyh-priklyucheniy-psto",
   "tags": [
     "vertigo",
     "strange-adventures"
+  ],
+  "cover": "https://web.archive.org/web/20260312022549im_/http://spidermedia.ru/assets/images/import_image/5327.jpg",
+  "modx_id": 5327,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

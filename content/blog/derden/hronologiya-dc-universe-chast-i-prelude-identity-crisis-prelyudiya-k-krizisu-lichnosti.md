@@ -1,11 +1,17 @@
 {
   "title": "Хронология DC Universe: Часть I: Прелюдия к Кризису Личности",
-  "date": "2010-08-28T00:00:00+03:00",
+  "date": "2010-08-27T23:00:51+03:00",
   "url": "/blog/derden/hronologiya-dc-universe-chast-i-prelude-identity-crisis-prelyudiya-k-krizisu-lichnosti/",
   "original_url": "http://spidermedia.ru/blog/derden/hronologiya-dc-universe-chast-i-prelude-identity-crisis-prelyudiya-k-krizisu-lichnosti",
   "archived": "https://web.archive.org/web/20190915022154/http://spidermedia.ru:80/blog/derden/hronologiya-dc-universe-chast-i-prelude-identity-crisis-prelyudiya-k-krizisu-lichnosti",
   "tags": [
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150502200609im_/http://spidermedia.ru/assets/images/import_image/2877.jpg",
+  "modx_id": 2877,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

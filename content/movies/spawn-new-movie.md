@@ -9,6 +9,12 @@
     "top-cow",
     "spaun"
   ],
+  "cover": "https://web.archive.org/web/20160611162635im_/http://spidermedia.ru/assets/images/news/images/2_movies/marvel/spawn/4318206-spawn-250-cvr-greg-todd-color-1d7e8.jpg",
+  "modx_id": 100918,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

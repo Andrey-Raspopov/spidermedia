@@ -4,6 +4,12 @@
   "url": "/games/pokemon-legends-arceus-opinion/",
   "original_url": "http://spidermedia.ru/games/pokemon-legends-arceus-opinion",
   "archived": "https://web.archive.org/web/20251115021627/http://spidermedia.ru/games/pokemon-legends-arceus-opinion",
+  "cover": "https://web.archive.org/web/20220314023657im_/http://spidermedia.ru/assets/images/games/h2x1_nswitch_pokemonlegendsarceus_en_image1600w.jpg",
+  "modx_id": 102493,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,12 +1,18 @@
 {
   "title": "The Untold Story",
-  "date": "2012-01-29T20:37:00+03:00",
+  "date": "2012-01-29T19:37:42+03:00",
   "url": "/news/untold-story/",
   "original_url": "http://spidermedia.ru/news/untold-story",
   "archived": "https://web.archive.org/web/20251206152057/http://spidermedia.ru/news/untold-story",
   "tags": [
     "marvel",
     "spider-man"
+  ],
+  "cover": "https://web.archive.org/web/20251206152057im_/http://spidermedia.ru/assets/images/import_image/6766.jpg",
+  "modx_id": 6766,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -8,6 +8,12 @@
     "boom-studios",
     "moguchie-rejndzhery"
   ],
+  "cover": "https://web.archive.org/web/20180205063813im_/http://spidermedia.ru/assets/images/news/boom/mmpr-sdcc-red-ranger-e215e-6aae7.jpg",
+  "modx_id": 100602,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

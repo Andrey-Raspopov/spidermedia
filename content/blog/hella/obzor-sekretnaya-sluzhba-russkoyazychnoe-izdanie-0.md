@@ -1,6 +1,6 @@
 {
   "title": "ОБЗОР: «Секретная служба», русскоязычное издание",
-  "date": "2015-03-04T19:41:00+03:00",
+  "date": "2015-03-04T19:41:47+03:00",
   "url": "/blog/hella/obzor-sekretnaya-sluzhba-russkoyazychnoe-izdanie-0/",
   "original_url": "http://spidermedia.ru/blog/hella/obzor-sekretnaya-sluzhba-russkoyazychnoe-izdanie-0",
   "archived": "https://web.archive.org/web/20260121002020/http://spidermedia.ru/blog/hella/obzor-sekretnaya-sluzhba-russkoyazychnoe-izdanie-0",
@@ -10,6 +10,12 @@
     "komilfo",
     "mark-millar",
     "sekretnaya-sluzhba"
+  ],
+  "cover": "https://web.archive.org/web/20150315173553im_/http://spidermedia.ru/assets/images/import_image/8670.jpg",
+  "modx_id": 8670,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

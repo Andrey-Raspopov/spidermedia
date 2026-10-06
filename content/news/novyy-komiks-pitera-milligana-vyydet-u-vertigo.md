@@ -1,12 +1,18 @@
 {
   "title": "Новый комикс Питера Миллигана выйдет у Vertigo",
-  "date": "2014-06-12T15:02:00+03:00",
+  "date": "2014-06-12T14:02:09+03:00",
   "url": "/news/novyy-komiks-pitera-milligana-vyydet-u-vertigo/",
   "original_url": "https://spidermedia.ru/news/novyy-komiks-pitera-milligana-vyydet-u-vertigo",
   "archived": "https://web.archive.org/web/20251209140155/https://spidermedia.ru/news/novyy-komiks-pitera-milligana-vyydet-u-vertigo",
   "tags": [
     "peter-milligan",
     "vertigo"
+  ],
+  "cover": "https://web.archive.org/web/20160611150344im_/http://spidermedia.ru/assets/images/import_image/7812.jpg",
+  "modx_id": 7812,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

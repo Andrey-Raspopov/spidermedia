@@ -1,20 +1,30 @@
 {
   "title": "Spider-Man: Июль-Август 2010",
-  "date": "2010-06-03T21:36:00+03:00",
+  "date": "2010-06-03T20:36:34+03:00",
   "url": "/news/spider-man-iyul-avgust-2010/",
+  "aliases": [
+    "/node/2654/"
+  ],
   "original_url": "https://spidermedia.ru/news/spider-man-iyul-avgust-2010",
   "archived": "https://web.archive.org/web/20250214235953/https://spidermedia.ru/news/spider-man-iyul-avgust-2010",
   "tags": [
     "art-0",
     "marvel",
-    "spider-man"
+    "spider-man",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20250214235953im_/http://spidermedia.ru/assets/images/import_image/2654.png",
+  "modx_id": 2654,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
 ![](https://web.archive.org/web/20250214235953im_/http://img.photobucket.com/albums/v497/spidermedia/amazing-spider-man-logo-brand-ne-2.png?t=1275507499)
-В предпоследний летний месяц, как только отгремит [**Беспощадная Охота**](../../node/2421/) *(Grim Hunt)* - один из главных этапов текущего направления вообще - читателей ждет переключение приоритетов: [удивительное путешествие в прошлое и настоящее](../../node/2556/) **Человека-Паука** *(Spider-Man)* начинается уже в июле и на этот раз равнодушным не останется никто:
+В предпоследний летний месяц, как только отгремит [**Беспощадная Охота**](../ohota-dlinoyu-v-zhizn/) *(Grim Hunt)* - один из главных этапов текущего направления вообще - читателей ждет переключение приоритетов: [удивительное путешествие в прошлое и настоящее](../istina-gde-ryadom/) **Человека-Паука** *(Spider-Man)* начинается уже в июле и на этот раз равнодушным не останется никто:
 [![](https://web.archive.org/web/20250214235953im_/http://img.photobucket.com/albums/v497/spidermedia/th_69450comic_storystory_full-1257223.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/69450comic_storystory_full-1257223.jpg) [![](https://web.archive.org/web/20250214235953im_/http://img.photobucket.com/albums/v497/spidermedia/th_12613storystory_full-4464494.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/12613storystory_full-4464494.jpg) [![](https://web.archive.org/web/20250214235953im_/http://img.photobucket.com/albums/v497/spidermedia/th_5_AMAZING_SPIDER_MAN_639.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/5_AMAZING_SPIDER_MAN_639.jpg) [![](https://web.archive.org/web/20250214235953im_/http://img.photobucket.com/albums/v497/spidermedia/th_2_AMAZING_SPIDER_MAN_640.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/2_AMAZING_SPIDER_MAN_640.jpg) [![](https://web.archive.org/web/20250214235953im_/http://img.photobucket.com/albums/v497/spidermedia/th_69458comic_storystory_full-3683091.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/69458comic_storystory_full-3683091.jpg)
 Обложка **#637** от **Майка Файласа** *(Mike Fyles)* , **#638-641** от **Паоло Ривьеры** *(Paolo Rivera)*
 

@@ -1,6 +1,6 @@
 {
   "title": "Брайан Болланд посетит Россию",
-  "date": "2015-01-27T16:22:00+03:00",
+  "date": "2015-01-27T16:22:13+03:00",
   "url": "/news/brayan-bolland-posetit-rossiyu/",
   "original_url": "https://spidermedia.ru/news/brayan-bolland-posetit-rossiyu",
   "archived": "https://web.archive.org/web/20250121023009/https://spidermedia.ru/news/brayan-bolland-posetit-rossiyu",
@@ -8,7 +8,15 @@
     "kommissiya",
     "brian-bolland",
     "gorod-grehov",
-    "thor"
+    "thor",
+    "brajan-bolland",
+    "tor"
+  ],
+  "cover": "https://web.archive.org/web/20250121023009im_/http://spidermedia.ru/assets/images/import_image/8554.jpg",
+  "modx_id": 8554,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

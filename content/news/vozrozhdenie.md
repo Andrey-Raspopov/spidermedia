@@ -1,7 +1,10 @@
 {
   "title": "Возрождение...!",
-  "date": "2009-04-18T15:34:00+03:00",
+  "date": "2009-04-18T14:34:46+03:00",
   "url": "/news/vozrozhdenie/",
+  "aliases": [
+    "/node/986/"
+  ],
   "original_url": "http://spidermedia.ru/news/vozrozhdenie",
   "archived": "https://web.archive.org/web/20120607162807/http://spidermedia.ru/news/vozrozhdenie",
   "tags": [
@@ -16,7 +19,16 @@
     "marvel",
     "rikki-barns",
     "ugadayka",
-    "ed-brubeyker"
+    "ed-brubeyker",
+    "ed-brubaker",
+    "bryan-hitch",
+    "winter-soldier"
+  ],
+  "cover": "https://web.archive.org/web/20150315210246im_/http://spidermedia.ru/assets/images/ecahznqzhc4.jpg",
+  "modx_id": 986,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

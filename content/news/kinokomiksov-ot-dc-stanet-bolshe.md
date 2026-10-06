@@ -1,6 +1,6 @@
 {
   "title": "Кинокомиксов от DC станет больше",
-  "date": "2010-03-19T16:15:00+03:00",
+  "date": "2010-03-19T15:15:33+03:00",
   "url": "/news/kinokomiksov-ot-dc-stanet-bolshe/",
   "original_url": "http://spidermedia.ru/news/kinokomiksov-ot-dc-stanet-bolshe",
   "archived": "https://web.archive.org/web/20120613000436/http://spidermedia.ru/news/kinokomiksov-ot-dc-stanet-bolshe",
@@ -8,6 +8,12 @@
     "dc-comics",
     "warner-bros",
     "kino"
+  ],
+  "cover": "https://web.archive.org/web/20120613000436im_/http://spidermedia.ru/assets/images/import_image/2460.jpg",
+  "modx_id": 2460,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

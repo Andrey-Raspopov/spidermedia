@@ -10,6 +10,12 @@
     "zarubezhnye-komiksy-na-russkom",
     "recenziya"
   ],
+  "cover": "https://web.archive.org/web/20251108035728im_/http://spidermedia.ru/assets/images/reviews/azbuka/fables-vol2/fables2.jpg",
+  "modx_id": 101339,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

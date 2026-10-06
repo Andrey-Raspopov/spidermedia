@@ -1,7 +1,10 @@
 {
   "title": "X Men Noir: Все дороги ведут в Мадрипур",
-  "date": "2009-07-24T02:50:00+03:00",
+  "date": "2009-07-24T01:50:46+03:00",
   "url": "/news/x-men-noir-vse-dorogi-vedut-v-madripur/",
+  "aliases": [
+    "/node/1632/"
+  ],
   "original_url": "http://spidermedia.ru/news/x-men-noir-vse-dorogi-vedut-v-madripur",
   "archived": "https://web.archive.org/web/20200218020134/http://spidermedia.ru:80/news/x-men-noir-vse-dorogi-vedut-v-madripur",
   "tags": [
@@ -10,7 +13,14 @@
     "art-0",
     "x-men",
     "noirverse",
-    "marvel"
+    "marvel",
+    "art",
+    "lyudi-iks"
+  ],
+  "modx_id": 1632,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

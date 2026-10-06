@@ -7,6 +7,12 @@
   "tags": [
     "gamermedia"
   ],
+  "cover": "https://web.archive.org/web/20180201081333im_/http://spidermedia.ru/assets/images/games/gamermedia/gamedian1.jpg",
+  "modx_id": 101235,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

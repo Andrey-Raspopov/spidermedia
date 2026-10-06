@@ -8,6 +8,13 @@
     "panels-of-x",
     "on-panels"
   ],
+  "cover": "https://web.archive.org/web/20250618112133im_/http://spidermedia.ru/assets/images/podcast/panels-of-x/02/00-cover.jpg",
+  "podcast_audio": "https://spidermedia.podster.fm/78/download/audio.mp3",
+  "modx_id": 102141,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

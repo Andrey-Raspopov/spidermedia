@@ -1,11 +1,20 @@
 {
   "title": "Белорусский Шелдон и компания",
-  "date": "2009-12-03T14:46:00+03:00",
+  "date": "2009-12-03T14:46:48+03:00",
   "url": "/blog/sterpazook/belorusskiy-sheldon-i-kompaniya/",
+  "aliases": [
+    "/node/2148/"
+  ],
   "original_url": "http://spidermedia.ru/blog/sterpazook/belorusskiy-sheldon-i-kompaniya",
   "archived": "https://web.archive.org/web/20251110233002/http://spidermedia.ru/blog/sterpazook/belorusskiy-sheldon-i-kompaniya",
   "tags": [
     "teoriya-bolshogo-vzryva"
+  ],
+  "cover": "https://web.archive.org/web/20251110233002im_/http://spidermedia.ru/assets/images/import_image/2148.jpg",
+  "modx_id": 2148,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

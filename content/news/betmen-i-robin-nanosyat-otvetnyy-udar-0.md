@@ -1,7 +1,10 @@
 {
   "title": "Бэтмен и Робин наносят ответный удар!",
-  "date": "2009-06-06T15:07:00+03:00",
+  "date": "2009-06-06T14:07:10+03:00",
   "url": "/news/betmen-i-robin-nanosyat-otvetnyy-udar-0/",
+  "aliases": [
+    "/node/1365/"
+  ],
   "original_url": "http://spidermedia.ru/news/betmen-i-robin-nanosyat-otvetnyy-udar-0",
   "archived": "https://web.archive.org/web/20250814215502/http://spidermedia.ru/news/betmen-i-robin-nanosyat-otvetnyy-udar-0",
   "tags": [
@@ -13,6 +16,12 @@
     "frank-quitely",
     "dc-comics",
     "batman"
+  ],
+  "cover": "https://web.archive.org/web/20250814215502im_/http://spidermedia.ru/assets/images/import_image/1365.jpg",
+  "modx_id": 1365,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

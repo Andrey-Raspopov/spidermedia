@@ -1,11 +1,19 @@
 {
   "title": "Mission Statement",
-  "date": "2009-01-29T16:40:00+03:00",
+  "date": "2009-01-29T15:40:30+03:00",
   "url": "/blog/redson/mission-statement/",
+  "aliases": [
+    "/node/5/"
+  ],
   "original_url": "http://spidermedia.ru/blog/redson/mission-statement",
   "archived": "https://web.archive.org/web/20120718060814/http://spidermedia.ru/blog/redson/mission-statement",
   "tags": [
     "vstuplenie"
+  ],
+  "modx_id": 5,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

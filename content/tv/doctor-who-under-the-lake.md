@@ -7,6 +7,12 @@
   "tags": [
     "doctor-who"
   ],
+  "cover": "https://web.archive.org/web/20260117214925im_/http://spidermedia.ru/assets/images/tv/doctor-who/doctor-who-under-the-lake-6.jpg",
+  "modx_id": 100624,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

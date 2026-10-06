@@ -7,6 +7,12 @@
   "tags": [
     "imho"
   ],
+  "cover": "https://web.archive.org/web/20251211023739im_/http://spidermedia.ru/assets/images/imho/massart/9503f4216e85.jpg",
+  "modx_id": 100804,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

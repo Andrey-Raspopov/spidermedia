@@ -1,7 +1,10 @@
 {
   "title": "Осада началась!",
-  "date": "2010-01-10T15:52:00+03:00",
+  "date": "2010-01-10T15:52:40+03:00",
   "url": "/news/osada-nachalas/",
+  "aliases": [
+    "/node/2240/"
+  ],
   "original_url": "https://spidermedia.ru/news/osada-nachalas",
   "archived": "https://web.archive.org/web/20251013184521/https://spidermedia.ru/news/osada-nachalas",
   "tags": [
@@ -13,7 +16,17 @@
     "new-avengers",
     "marvel",
     "iron-man",
-    "captain-america"
+    "captain-america",
+    "dark-avengers",
+    "novye-mstiteli",
+    "tor",
+    "zheleznyy-chelovek"
+  ],
+  "cover": "https://web.archive.org/web/20251013184521im_/http://spidermedia.ru/assets/images/import_image/2240.jpg",
+  "modx_id": 2240,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

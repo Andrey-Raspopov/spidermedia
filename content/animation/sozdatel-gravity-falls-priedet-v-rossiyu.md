@@ -4,6 +4,12 @@
   "url": "/animation/sozdatel-gravity-falls-priedet-v-rossiyu/",
   "original_url": "http://spidermedia.ru/animation/sozdatel-gravity-falls-priedet-v-rossiyu",
   "archived": "https://web.archive.org/web/20250906185248/http://spidermedia.ru/animation/sozdatel-gravity-falls-priedet-v-rossiyu",
+  "cover": "https://web.archive.org/web/20250906185248im_/http://spidermedia.ru/assets/images/bigfest/2016/anons/iqajssrqto8.jpg",
+  "modx_id": 101033,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

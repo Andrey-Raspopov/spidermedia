@@ -1,11 +1,19 @@
 {
   "title": "A Classic Run",
-  "date": "2010-11-14T01:24:00+03:00",
+  "date": "2010-11-14T01:24:54+03:00",
   "url": "/blog/redson/classic-run/",
+  "aliases": [
+    "/node/3064/"
+  ],
   "original_url": "http://spidermedia.ru/blog/redson/classic-run",
   "archived": "https://web.archive.org/web/20190907233602/http://spidermedia.ru:80/blog/redson/classic-run",
   "tags": [
     "strana-igr"
+  ],
+  "modx_id": 3064,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

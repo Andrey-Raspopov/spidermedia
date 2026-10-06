@@ -6,7 +6,12 @@
     {{ with .CurrentSection }}{{ if not .IsHome }}<a href="{{ .RelPermalink }}">{{ .Title }}</a> · {{ end }}{{ end }}
     {{ with .Params.original_url }}<a href="{{ . }}">оригинал</a>{{ end }}
     {{ with .Params.archived }} · <a href="{{ . }}">снимок в архиве</a>{{ end }}
+    {{ if not .Params.archived }}{{ if in .Params.sources "database" }} · восстановлено из базы данных сайта{{ end }}{{ end }}
   </p>
+  {{ with .Params.podcast_audio }}{{ if not (in $.Content "<audio") }}
+  <p data-pagefind-ignore><audio controls preload="none" src="{{ . }}"></audio>
+    {{ with $.Params.podcast_length }}<span class="meta">{{ . }}</span>{{ end }} <a href="{{ . }}">скачать</a></p>
+  {{ end }}{{ end }}
   {{ with .CurrentSection }}{{ if not .IsHome }}<span hidden data-pagefind-filter="Раздел">{{ .Title }}</span>{{ end }}{{ end }}
   {{ if not .Date.IsZero }}<span hidden data-pagefind-filter="Год">{{ .Date.Year }}</span>{{ end }}
   <div class="body">{{ .Content }}</div>

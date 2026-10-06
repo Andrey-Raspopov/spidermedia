@@ -1,6 +1,6 @@
 {
   "title": "Зеленый Фонарь Джеффа Джонса: последний рубеж",
-  "date": "2013-05-24T12:33:00+03:00",
+  "date": "2013-05-24T11:33:25+03:00",
   "url": "/blog/igrok/zelenyy-fonar-dzheffa-dzhonsa-posledniy-rubezh/",
   "original_url": "http://spidermedia.ru/blog/igrok/zelenyy-fonar-dzheffa-dzhonsa-posledniy-rubezh",
   "archived": "https://web.archive.org/web/20260120235917/http://spidermedia.ru/blog/igrok/zelenyy-fonar-dzheffa-dzhonsa-posledniy-rubezh",
@@ -9,6 +9,12 @@
     "geoff-johns",
     "green-lantern",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150502185416im_/http://spidermedia.ru/assets/images/import_image/7252.jpg",
+  "modx_id": 7252,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

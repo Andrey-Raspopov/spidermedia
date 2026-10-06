@@ -1,13 +1,22 @@
 {
   "title": "GYAKUSHU! vol3",
-  "date": "2010-10-02T14:50:00+03:00",
+  "date": "2010-10-02T13:50:32+03:00",
   "url": "/blog/ohotnig/gyakushu-vol3/",
+  "aliases": [
+    "/node/2963/"
+  ],
   "original_url": "http://spidermedia.ru/blog/ohotnig/gyakushu-vol3",
   "archived": "https://web.archive.org/web/20190715185249/http://spidermedia.ru:80/blog/ohotnig/gyakushu-vol3",
   "tags": [
     "den-hipp",
     "gyakushu",
     "dan-hipp"
+  ],
+  "cover": "https://web.archive.org/web/20190715185249im_/http://spidermedia.ru/assets/images/import_image/2963.png",
+  "modx_id": 2963,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -4,6 +4,12 @@
   "url": "/games/mnenie-o-switch-lite/",
   "original_url": "http://spidermedia.ru/games/mnenie-o-switch-lite",
   "archived": "https://web.archive.org/web/20260116213355/http://spidermedia.ru/games/mnenie-o-switch-lite",
+  "cover": "https://web.archive.org/web/20260116213355im_/http://spidermedia.ru/assets/images/games/switch-lite/1562907901_668326_1562908408_noticia_normal.jpg",
+  "modx_id": 102168,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

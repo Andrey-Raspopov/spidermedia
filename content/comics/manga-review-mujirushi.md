@@ -7,6 +7,12 @@
   "tags": [
     "manga"
   ],
+  "cover": "https://web.archive.org/web/20251216114151im_/http://spidermedia.ru/assets/images/manga/others/mujirushi/szk.jpg",
+  "modx_id": 101818,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,11 +1,17 @@
 {
   "title": "Добавка О'Мэлли",
-  "date": "2012-08-24T03:44:00+03:00",
+  "date": "2012-08-24T02:44:09+03:00",
   "url": "/news/dobavka-omelli/",
   "original_url": "http://spidermedia.ru/news/dobavka-omelli",
   "archived": "https://web.archive.org/web/20250920202418/http://spidermedia.ru/news/dobavka-omelli",
   "tags": [
     "bryan-lee-o-malley"
+  ],
+  "cover": "https://web.archive.org/web/20150326123547im_/http://spidermedia.ru/assets/images/import_image/7007.jpg",
+  "modx_id": 7007,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

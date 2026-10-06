@@ -1,12 +1,17 @@
 {
   "title": "Персональные постеры \"The Losers\"",
-  "date": "2010-03-25T22:32:00+03:00",
+  "date": "2010-03-25T22:32:27+03:00",
   "url": "/news/personalnye-postery-losers/",
   "original_url": "http://spidermedia.ru/news/personalnye-postery-losers",
   "archived": "https://web.archive.org/web/20260314082335/http://spidermedia.ru/news/personalnye-postery-losers",
   "tags": [
     "neudachniki",
     "vertigo"
+  ],
+  "modx_id": 2479,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

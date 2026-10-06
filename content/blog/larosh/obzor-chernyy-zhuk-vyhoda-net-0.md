@@ -1,6 +1,6 @@
 {
   "title": "ОБЗОР: \"Черный Жук: Выхода нет\"",
-  "date": "2014-10-06T15:42:00+03:00",
+  "date": "2014-10-06T14:42:11+03:00",
   "url": "/blog/larosh/obzor-chernyy-zhuk-vyhoda-net-0/",
   "original_url": "http://spidermedia.ru/blog/larosh/obzor-chernyy-zhuk-vyhoda-net-0",
   "archived": "https://web.archive.org/web/20260206224359/http://spidermedia.ru/blog/larosh/obzor-chernyy-zhuk-vyhoda-net-0",
@@ -10,6 +10,12 @@
     "zarubezhnye-komiksy-na-russkom",
     "belyj-edinorog",
     "dark-horse"
+  ],
+  "cover": "https://web.archive.org/web/20160611163445im_/http://spidermedia.ru/assets/images/import_image/8138.jpg",
+  "modx_id": 8138,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

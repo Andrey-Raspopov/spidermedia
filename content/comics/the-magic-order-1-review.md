@@ -9,6 +9,12 @@
     "mark-millar",
     "olive-kojpel"
   ],
+  "cover": "https://web.archive.org/web/20260307054524im_/http://spidermedia.ru/assets/images/reviews/image/millarworld/the-magic-order/1/mzk.jpg",
+  "modx_id": 101948,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -9,6 +9,12 @@
     "star-wars",
     "san-diego-comic-con-international"
   ],
+  "cover": "https://web.archive.org/web/20260117232425im_/http://spidermedia.ru/assets/images/news/sdcc/2017/thrawn-cover.jpg",
+  "modx_id": 101630,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

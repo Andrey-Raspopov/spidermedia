@@ -1,6 +1,6 @@
 {
   "title": "Blame Canada",
-  "date": "2013-08-24T04:32:00+03:00",
+  "date": "2013-08-24T03:32:33+03:00",
   "url": "/news/blame-canada/",
   "original_url": "http://spidermedia.ru/news/blame-canada",
   "archived": "https://web.archive.org/web/20251115184803/http://spidermedia.ru/news/blame-canada",
@@ -9,6 +9,12 @@
     "justice-league",
     "dzheff-lemir",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150502174413im_/http://spidermedia.ru/assets/images/import_image/7434.jpg",
+  "modx_id": 7434,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -7,7 +7,14 @@
   "tags": [
     "dc-comics",
     "batman",
-    "san-diego-comic-con-international"
+    "san-diego-comic-con-international",
+    "sdcc2015"
+  ],
+  "cover": "https://web.archive.org/web/20160619162359im_/http://spidermedia.ru/assets/images/news/movies/batman/55318f086f26d9cb486a900d_batman-v-superman.jpg",
+  "modx_id": 100337,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,11 +1,17 @@
 {
   "title": "Log #0002 - High Moon",
-  "date": "2009-02-02T01:27:00+03:00",
+  "date": "2009-02-02T01:27:41+03:00",
   "url": "/blog/qvall/log-0002-high-moon/",
   "original_url": "http://spidermedia.ru/blog/qvall/log-0002-high-moon",
   "archived": "https://web.archive.org/web/20150430212536/http://spidermedia.ru/blog/qvall/log-0002-high-moon",
   "tags": [
     "veb-komiksy"
+  ],
+  "cover": "https://web.archive.org/web/20150430212536im_/http://spidermedia.ru/assets/images/import_image/95.jpg",
+  "modx_id": 95,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

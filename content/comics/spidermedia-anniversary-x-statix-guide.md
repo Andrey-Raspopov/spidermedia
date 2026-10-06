@@ -9,6 +9,12 @@
     "guide",
     "marvel"
   ],
+  "cover": "https://web.archive.org/web/20170912020918im_/http://spidermedia.ru/assets/images/spidermedia-anniversary/10-x-statix/x-statix-cover-horizontal.jpg",
+  "modx_id": 101465,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

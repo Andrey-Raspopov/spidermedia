@@ -1,7 +1,10 @@
 {
   "title": "Превью Ultimate Comics SPIDER-MAN #2 + обновление",
-  "date": "2009-08-18T03:00:00+03:00",
+  "date": "2009-08-18T02:00:53+03:00",
   "url": "/news/prevyu-ultimate-comics-spider-man-2-obnovlenie/",
+  "aliases": [
+    "/node/1779/"
+  ],
   "original_url": "http://spidermedia.ru/news/prevyu-ultimate-comics-spider-man-2-obnovlenie",
   "archived": "https://web.archive.org/web/20260313111046/http://spidermedia.ru/news/prevyu-ultimate-comics-spider-man-2-obnovlenie",
   "tags": [
@@ -9,7 +12,13 @@
     "brian-michael-bendis",
     "ultimate",
     "iron-man",
-    "spider-man"
+    "spider-man",
+    "zheleznyy-chelovek"
+  ],
+  "modx_id": 1779,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

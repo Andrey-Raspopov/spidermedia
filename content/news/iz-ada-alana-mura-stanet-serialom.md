@@ -1,12 +1,18 @@
 {
   "title": "«Из ада» Алана Мура станет сериалом",
-  "date": "2014-11-18T20:19:00+03:00",
+  "date": "2014-11-18T20:19:30+03:00",
   "url": "/news/iz-ada-alana-mura-stanet-serialom/",
   "original_url": "http://spidermedia.ru/news/iz-ada-alana-mura-stanet-serialom",
   "archived": "https://web.archive.org/web/20250210023702/http://spidermedia.ru/news/iz-ada-alana-mura-stanet-serialom",
   "tags": [
     "alan-mur",
     "top-shelf-productions"
+  ],
+  "cover": "https://web.archive.org/web/20250210023702im_/http://spidermedia.ru/assets/images/import_image/8299.jpg",
+  "modx_id": 8299,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

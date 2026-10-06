@@ -1,7 +1,10 @@
 {
   "title": "Человек-Невидимка в Готэме",
-  "date": "2009-07-21T01:52:00+03:00",
+  "date": "2009-07-21T00:52:55+03:00",
   "url": "/news/chelovek-nevidimka-v-goteme/",
+  "aliases": [
+    "/node/1612/"
+  ],
   "original_url": "http://spidermedia.ru/news/chelovek-nevidimka-v-goteme",
   "archived": "https://web.archive.org/web/20200221074952/http://spidermedia.ru:80/news/chelovek-nevidimka-v-goteme",
   "tags": [
@@ -11,7 +14,13 @@
     "art-0",
     "invisible-man",
     "dc-comics",
-    "batman"
+    "batman",
+    "art"
+  ],
+  "modx_id": 1612,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

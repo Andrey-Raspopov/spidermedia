@@ -1,6 +1,6 @@
 {
   "title": "Бесконечный Росомаха",
-  "date": "2013-03-11T06:33:00+03:00",
+  "date": "2013-03-11T05:33:44+03:00",
   "url": "/news/beskonechnyy-rosomaha/",
   "original_url": "http://spidermedia.ru/news/beskonechnyy-rosomaha",
   "archived": "https://web.archive.org/web/20241211213905/http://spidermedia.ru/news/beskonechnyy-rosomaha",
@@ -9,6 +9,12 @@
     "dzhejson-latur",
     "dzheyson-aaron",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20241211213905im_/http://spidermedia.ru/assets/images/import_image/7161.jpg",
+  "modx_id": 7161,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

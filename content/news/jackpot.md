@@ -1,7 +1,10 @@
 {
   "title": "Jackpot!",
-  "date": "2009-09-01T23:07:00+03:00",
+  "date": "2009-09-01T22:07:27+03:00",
   "url": "/news/jackpot/",
+  "aliases": [
+    "/node/1858/"
+  ],
   "original_url": "https://spidermedia.ru/news/jackpot",
   "archived": "https://web.archive.org/web/20250807231006/https://spidermedia.ru/news/jackpot",
   "tags": [
@@ -11,13 +14,19 @@
     "adriana-melo",
     "marvel",
     "jackpot",
-    "spider-man"
+    "spider-man",
+    "art"
+  ],
+  "modx_id": 1858,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-Уже не секрет, что в 2010 году [планируется](../../node/1792/) выпустить новую лимитку, посвященную довольно свежему персонажу - **Джекпот** *(Jackpot)*. Как и в случае с **Amazing Spider-Man Presents: Anti-Venom - New Ways To Live**, серия появится на свет с приставкой - **Amazing Spider-Man Presents: Jackpot**:
+Уже не секрет, что в 2010 году [планируется](../brand-new-day-dzhekpot-sorvan/) выпустить новую лимитку, посвященную довольно свежему персонажу - **Джекпот** *(Jackpot)*. Как и в случае с **Amazing Spider-Man Presents: Anti-Venom - New Ways To Live**, серия появится на свет с приставкой - **Amazing Spider-Man Presents: Jackpot**:
 [![](https://web.archive.org/web/20250807231006im_/http://www.comicbookresources.com/assets/phpThumb/phpThumb.php?src=/assets/images/articles/1251505103.jpg&h=300)](http://www.comicbookresources.com/assets/images/articles/1251505103.jpg)
 
 Обложка **Amazing Spider-Man Presents: Jackpot #1** от **Дэвида Ярдина** *(David Yardin)*

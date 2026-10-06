@@ -1,6 +1,6 @@
 {
   "title": "Артем Габрелянов - о русских супергероях, \"Пантеоне\", и недостатках \"Хранителей\"",
-  "date": "2012-11-26T17:18:00+03:00",
+  "date": "2012-11-26T16:18:49+03:00",
   "url": "/blog/vch/artem-gabrelyanov-glavnyy-redaktor-izdatelstva-bubble-o-russkih-supergeroyah-panteone-i/",
   "original_url": "http://spidermedia.ru/blog/vch/artem-gabrelyanov-glavnyy-redaktor-izdatelstva-bubble-o-russkih-supergeroyah-panteone-i",
   "archived": "https://web.archive.org/web/20260211181953/http://spidermedia.ru/blog/vch/artem-gabrelyanov-glavnyy-redaktor-izdatelstva-bubble-o-russkih-supergeroyah-panteone-i",
@@ -9,6 +9,12 @@
     "intervyu",
     "industriya",
     "bubble"
+  ],
+  "cover": "https://web.archive.org/web/20150502185525im_/http://spidermedia.ru/assets/images/import_image/7093.jpg",
+  "modx_id": 7093,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

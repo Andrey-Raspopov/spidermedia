@@ -1,6 +1,6 @@
 {
   "title": "Constantine s01e09 «The Saint of Last Resort: Part 2»: мнение редакции",
-  "date": "2015-01-19T11:08:00+03:00",
+  "date": "2015-01-19T11:08:33+03:00",
   "url": "/blog/larosh/constantine-s01e09-saint-last-resort-part-2-mnenie-redakcii-0/",
   "original_url": "http://spidermedia.ru/blog/larosh/constantine-s01e09-saint-last-resort-part-2-mnenie-redakcii-0",
   "archived": "https://web.archive.org/web/20251206163225/http://spidermedia.ru/blog/larosh/constantine-s01e09-saint-last-resort-part-2-mnenie-redakcii-0",
@@ -10,7 +10,14 @@
     "vertigo",
     "dzhon-konstantin",
     "obzor",
-    "serialy"
+    "serialy",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20150326061051im_/http://spidermedia.ru/assets/images/import_image/8518.jpg",
+  "modx_id": 8518,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

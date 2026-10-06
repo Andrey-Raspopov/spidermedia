@@ -1,13 +1,20 @@
 {
   "title": "Экскурс в историю Тора",
-  "date": "2011-05-02T14:58:00+03:00",
+  "date": "2011-05-02T13:58:40+03:00",
   "url": "/blog/ironman/ekskurs-v-istoriyu-tora/",
   "original_url": "https://spidermedia.ru/blog/ironman/ekskurs-v-istoriyu-tora",
   "archived": "https://web.archive.org/web/20240624125911/https://spidermedia.ru/blog/ironman/ekskurs-v-istoriyu-tora",
   "tags": [
     "obzor",
     "thor",
-    "marvel"
+    "marvel",
+    "tor"
+  ],
+  "cover": "https://web.archive.org/web/20240624125911im_/http://spidermedia.ru/assets/images/import_image/5415.png",
+  "modx_id": 5415,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

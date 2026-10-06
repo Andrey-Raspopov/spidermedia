@@ -1,7 +1,10 @@
 {
   "title": "World's finest godfather",
-  "date": "2010-02-13T11:27:00+03:00",
+  "date": "2010-02-13T11:27:33+03:00",
   "url": "/news/worlds-finest-godfather/",
+  "aliases": [
+    "/node/2365/"
+  ],
   "original_url": "https://spidermedia.ru/news/worlds-finest-godfather",
   "archived": "https://web.archive.org/web/20250215010129/https://spidermedia.ru/news/worlds-finest-godfather",
   "tags": [
@@ -11,6 +14,12 @@
     "spider-man",
     "batman",
     "digest"
+  ],
+  "cover": "https://web.archive.org/web/20250215010129im_/http://spidermedia.ru/assets/images/import_image/2365.jpg",
+  "modx_id": 2365,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

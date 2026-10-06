@@ -1,6 +1,6 @@
 {
   "title": "Анимационные планы Марвел и немножко DC",
-  "date": "2014-07-27T01:01:00+03:00",
+  "date": "2014-07-27T00:01:29+03:00",
   "url": "/news/animacionnye-plany-marvel-i-nemnozhko-dc/",
   "original_url": "https://spidermedia.ru/news/animacionnye-plany-marvel-i-nemnozhko-dc",
   "archived": "https://web.archive.org/web/20251216112453/https://spidermedia.ru/news/animacionnye-plany-marvel-i-nemnozhko-dc",
@@ -14,6 +14,12 @@
     "batman",
     "animaciya",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150326160437im_/http://spidermedia.ru/assets/images/import_image/7936.jpg",
+  "modx_id": 7936,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

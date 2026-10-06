@@ -8,6 +8,12 @@
     "dark-horse",
     "dzhejms-stokou"
   ],
+  "cover": "https://web.archive.org/web/20260307061259im_/http://spidermedia.ru/assets/images/reviews/dark-horse/aliens/dead-orbit/1.jpg",
+  "modx_id": 101767,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

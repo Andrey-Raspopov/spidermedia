@@ -1,13 +1,23 @@
 {
   "title": "Герои\\Heroes s3 ep.19 - \"Shades of Gray\"\\\"Оттенки Серого\"",
-  "date": "2009-03-12T12:50:00+03:00",
+  "date": "2009-03-12T12:50:46+03:00",
   "url": "/blog/alex/geroi-heroes-s3-ep19-shades-gray-ottenki-serogo/",
+  "aliases": [
+    "/node/653/"
+  ],
   "original_url": "http://spidermedia.ru/blog/alex/geroi-heroes-s3-ep19-shades-gray-ottenki-serogo",
   "archived": "https://web.archive.org/web/20150507182256/http://spidermedia.ru/blog/alex/geroi-heroes-s3-ep19-shades-gray-ottenki-serogo",
   "tags": [
     "serialy",
     "geroi",
-    "heroes"
+    "heroes",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20150507182256im_/http://spidermedia.ru/assets/images/import_image/653.gif",
+  "modx_id": 653,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

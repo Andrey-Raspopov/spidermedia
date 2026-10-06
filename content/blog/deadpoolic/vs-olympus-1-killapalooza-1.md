@@ -1,11 +1,20 @@
 {
   "title": "...Vs Olympus #1 & Killapalooza #1",
-  "date": "2009-05-24T15:49:00+03:00",
+  "date": "2009-05-24T14:49:33+03:00",
   "url": "/blog/deadpoolic/vs-olympus-1-killapalooza-1/",
+  "aliases": [
+    "/node/1269/"
+  ],
   "original_url": "http://spidermedia.ru/blog/deadpoolic/vs-olympus-1-killapalooza-1",
   "archived": "https://web.archive.org/web/20190718073342/http://spidermedia.ru/blog/deadpoolic/vs-olympus-1-killapalooza-1",
   "tags": [
     "image-comics"
+  ],
+  "cover": "https://web.archive.org/web/20190718073342im_/http://spidermedia.ru/assets/images/import_image/1269.jpg",
+  "modx_id": 1269,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

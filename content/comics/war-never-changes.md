@@ -9,6 +9,12 @@
     "dzhonatan-hikman",
     "secret-wars"
   ],
+  "cover": "https://web.archive.org/web/20160611133533im_/http://spidermedia.ru/assets/images/articles/evon-wars/_-_11.jpg",
+  "modx_id": 100240,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

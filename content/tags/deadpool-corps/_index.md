@@ -1,3 +1,3 @@
 {
-  "title": "deadpool corps"
+  "title": "Корпус Дэдпула"
 }

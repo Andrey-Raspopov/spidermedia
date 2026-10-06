@@ -1,7 +1,10 @@
 {
   "title": "Время для жестких методов",
-  "date": "2009-10-01T18:00:00+03:00",
+  "date": "2009-10-01T17:00:26+03:00",
   "url": "/news/vremya-dlya-zhestkih-metodov/",
+  "aliases": [
+    "/node/1954/"
+  ],
   "original_url": "https://spidermedia.ru/news/vremya-dlya-zhestkih-metodov",
   "archived": "https://web.archive.org/web/20260215084753/https://spidermedia.ru/news/vremya-dlya-zhestkih-metodov",
   "tags": [
@@ -13,7 +16,14 @@
     "the-flash",
     "dc-comics",
     "green-arrow",
-    "justice-league"
+    "justice-league",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20260215084753im_/http://spidermedia.ru/assets/images/import_image/1954.jpg",
+  "modx_id": 1954,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

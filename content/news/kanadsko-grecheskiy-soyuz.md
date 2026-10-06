@@ -1,7 +1,10 @@
 {
   "title": "Канадско-греческий союз",
-  "date": "2009-07-19T23:40:00+03:00",
+  "date": "2009-07-19T22:40:34+03:00",
   "url": "/news/kanadsko-grecheskiy-soyuz/",
+  "aliases": [
+    "/node/1602/"
+  ],
   "original_url": "https://spidermedia.ru/news/kanadsko-grecheskiy-soyuz",
   "archived": "https://web.archive.org/web/20251206023325/https://spidermedia.ru/news/kanadsko-grecheskiy-soyuz",
   "tags": [
@@ -11,7 +14,14 @@
     "art-0",
     "wolverine",
     "marvel",
-    "hercules"
+    "hercules",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20251206023325im_/http://spidermedia.ru/assets/images/import_image/1602.jpg",
+  "modx_id": 1602,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Machine Man: Agent of A.R.M.O.R.",
-  "date": "2010-01-16T20:24:00+03:00",
+  "date": "2010-01-16T20:24:54+03:00",
   "url": "/news/machine-man-agent-armor/",
   "original_url": "https://spidermedia.ru/news/machine-man-agent-armor",
   "archived": "https://web.archive.org/web/20260312010036/https://spidermedia.ru/news/machine-man-agent-armor",
@@ -11,7 +11,15 @@
     "keno",
     "art-0",
     "marvel",
-    "machine-man"
+    "machine-man",
+    "marvel-zombi2",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20260312010036im_/http://spidermedia.ru/assets/images/import_image/2273.jpg",
+  "modx_id": 2273,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

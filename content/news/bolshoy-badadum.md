@@ -1,7 +1,10 @@
 {
   "title": "Большой БадаДум",
-  "date": "2009-10-17T08:40:00+03:00",
+  "date": "2009-10-17T07:40:32+03:00",
   "url": "/news/bolshoy-badadum/",
+  "aliases": [
+    "/node/2002/"
+  ],
   "original_url": "https://spidermedia.ru/news/bolshoy-badadum",
   "archived": "https://web.archive.org/web/20250617230025/https://spidermedia.ru/news/bolshoy-badadum",
   "tags": [
@@ -12,7 +15,15 @@
     "deadpool",
     "marvel",
     "x-men",
-    "fantastic-four"
+    "fantastic-four",
+    "lyudi-iks",
+    "fantasticheskaya-chetverka"
+  ],
+  "cover": "https://web.archive.org/web/20250617230025im_/http://spidermedia.ru/assets/images/import_image/2002.jpg",
+  "modx_id": 2002,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

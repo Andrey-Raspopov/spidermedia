@@ -1,7 +1,10 @@
 {
   "title": "Avengers Assemble! - июнь 2009",
-  "date": "2009-03-24T13:24:00+03:00",
+  "date": "2009-03-24T13:24:22+03:00",
   "url": "/news/avengers-assemble-iyun-2009/",
+  "aliases": [
+    "/node/757/"
+  ],
   "original_url": "http://spidermedia.ru/news/avengers-assemble-iyun-2009",
   "archived": "https://web.archive.org/web/20260121002500/http://spidermedia.ru/news/avengers-assemble-iyun-2009",
   "tags": [
@@ -13,7 +16,15 @@
     "captain-america",
     "war-machine",
     "black-panther",
-    "miss-marvel"
+    "miss-marvel",
+    "zheleznyy-chelovek",
+    "prevyu",
+    "dark-avengers"
+  ],
+  "modx_id": 757,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

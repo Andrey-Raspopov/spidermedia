@@ -1,12 +1,20 @@
 {
   "title": "ЧАВо о путешествиях во времени",
-  "date": "2009-04-16T15:51:00+03:00",
+  "date": "2009-04-16T14:51:43+03:00",
   "url": "/blog/sterpazook/chavo-o-puteshestviyah-vo-vremeni/",
+  "aliases": [
+    "/node/955/"
+  ],
   "original_url": "http://spidermedia.ru/blog/sterpazook/chavo-o-puteshestviyah-vo-vremeni",
   "archived": "https://web.archive.org/web/20220314040727/http://spidermedia.ru/blog/sterpazook/chavo-o-puteshestviyah-vo-vremeni",
   "tags": [
     "sci-fi",
     "time-travel"
+  ],
+  "modx_id": 955,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

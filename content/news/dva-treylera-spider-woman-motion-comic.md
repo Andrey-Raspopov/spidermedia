@@ -1,7 +1,10 @@
 {
   "title": "Два трейлера Spider-Woman Motion Comic",
-  "date": "2009-09-02T13:11:00+03:00",
+  "date": "2009-09-02T12:11:29+03:00",
   "url": "/news/dva-treylera-spider-woman-motion-comic/",
+  "aliases": [
+    "/node/1861/"
+  ],
   "original_url": "https://spidermedia.ru/news/dva-treylera-spider-woman-motion-comic",
   "archived": "https://web.archive.org/web/20260116220427/https://spidermedia.ru/news/dva-treylera-spider-woman-motion-comic",
   "tags": [
@@ -13,6 +16,11 @@
     "motion-comics",
     "jessica-drew",
     "brian-michael-bendis"
+  ],
+  "modx_id": 1861,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

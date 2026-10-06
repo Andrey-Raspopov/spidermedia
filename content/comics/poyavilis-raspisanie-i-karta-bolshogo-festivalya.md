@@ -4,6 +4,12 @@
   "url": "/comics/poyavilis-raspisanie-i-karta-bolshogo-festivalya/",
   "original_url": "http://spidermedia.ru/comics/poyavilis-raspisanie-i-karta-bolshogo-festivalya",
   "archived": "https://web.archive.org/web/20200127174829/http://spidermedia.ru:80/comics/poyavilis-raspisanie-i-karta-bolshogo-festivalya",
+  "cover": "https://web.archive.org/web/20200127174829im_/http://spidermedia.ru/assets/images/bigfest/2016/anons/1111.jpg",
+  "modx_id": 101083,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

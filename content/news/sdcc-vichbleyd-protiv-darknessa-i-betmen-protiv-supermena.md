@@ -1,6 +1,6 @@
 {
   "title": "SDCC: Вичблейд против Даркнесса и UPD.: Бэтмен против Супермена",
-  "date": "2013-07-21T00:26:00+03:00",
+  "date": "2013-07-20T23:26:42+03:00",
   "url": "/news/sdcc-vichbleyd-protiv-darknessa-i-betmen-protiv-supermena/",
   "original_url": "http://spidermedia.ru/news/sdcc-vichbleyd-protiv-darknessa-i-betmen-protiv-supermena",
   "archived": "https://web.archive.org/web/20260209113757/http://spidermedia.ru/news/sdcc-vichbleyd-protiv-darknessa-i-betmen-protiv-supermena",
@@ -12,6 +12,12 @@
     "top-cow",
     "dc-comics",
     "darkness"
+  ],
+  "cover": "https://web.archive.org/web/20260209113757im_/http://spidermedia.ru/assets/images/import_image/7366.jpg",
+  "modx_id": 7366,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

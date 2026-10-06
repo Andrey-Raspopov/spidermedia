@@ -1,6 +1,6 @@
 {
   "title": "TDKR – треклист и превью саундтрека",
-  "date": "2012-06-16T15:39:00+03:00",
+  "date": "2012-06-16T14:39:12+03:00",
   "url": "/news/tdkr-treklist-i-prevyu-saundtreka/",
   "original_url": "http://spidermedia.ru/news/tdkr-treklist-i-prevyu-saundtreka",
   "archived": "https://web.archive.org/web/20260125121534/http://spidermedia.ru/news/tdkr-treklist-i-prevyu-saundtreka",
@@ -9,6 +9,12 @@
     "dark-knight-rises",
     "dc-comics",
     "temnyj-rycar"
+  ],
+  "cover": "https://web.archive.org/web/20260125121534im_/http://spidermedia.ru/assets/images/import_image/6935.jpg",
+  "modx_id": 6935,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

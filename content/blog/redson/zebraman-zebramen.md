@@ -1,13 +1,22 @@
 {
   "title": "Zebraman / Зебрамен",
-  "date": "2009-06-01T18:24:00+03:00",
+  "date": "2009-06-01T17:24:21+03:00",
   "url": "/blog/redson/zebraman-zebramen/",
+  "aliases": [
+    "/node/1318/"
+  ],
   "original_url": "http://spidermedia.ru/blog/redson/zebraman-zebramen",
   "archived": "https://web.archive.org/web/20190907234207/http://spidermedia.ru:80/blog/redson/zebraman-zebramen",
   "tags": [
     "recenziya",
     "supergeroi",
     "takashi-miike"
+  ],
+  "cover": "https://web.archive.org/web/20190907234207im_/http://spidermedia.ru/assets/images/import_image/1318.jpg",
+  "modx_id": 1318,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

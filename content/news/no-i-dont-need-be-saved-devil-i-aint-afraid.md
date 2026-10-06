@@ -1,6 +1,6 @@
 {
   "title": "No I don't need to be saved, of the devil I ain't afraid.",
-  "date": "2012-07-12T07:21:00+03:00",
+  "date": "2012-07-12T06:21:30+03:00",
   "url": "/news/no-i-dont-need-be-saved-devil-i-aint-afraid/",
   "original_url": "http://spidermedia.ru/news/no-i-dont-need-be-saved-devil-i-aint-afraid",
   "archived": "https://web.archive.org/web/20250808202731/http://spidermedia.ru/news/no-i-dont-need-be-saved-devil-i-aint-afraid",
@@ -9,6 +9,12 @@
     "dark-horse",
     "hellboj",
     "majk-minola"
+  ],
+  "cover": "https://web.archive.org/web/20250808202731im_/http://spidermedia.ru/assets/images/import_image/6966.jpg",
+  "modx_id": 6966,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

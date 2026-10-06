@@ -1,6 +1,6 @@
 {
   "title": "Превью War Machine #4",
-  "date": "2009-03-20T00:59:00+03:00",
+  "date": "2009-03-19T23:59:20+03:00",
   "url": "/news/prevyu-war-machine-4/",
   "original_url": "http://spidermedia.ru/news/prevyu-war-machine-4",
   "archived": "https://web.archive.org/web/20120607151223/http://spidermedia.ru/news/prevyu-war-machine-4",
@@ -13,7 +13,13 @@
     "komiksy",
     "leonardo-manko",
     "marvel",
-    "preview-s"
+    "preview-s",
+    "prevyu"
+  ],
+  "modx_id": 724,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

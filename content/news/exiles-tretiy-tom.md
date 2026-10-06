@@ -1,7 +1,10 @@
 {
   "title": "Exiles: Третий том!",
-  "date": "2009-02-24T17:24:00+03:00",
+  "date": "2009-02-24T17:24:35+03:00",
   "url": "/news/exiles-tretiy-tom/",
+  "aliases": [
+    "/node/497/"
+  ],
   "original_url": "https://spidermedia.ru/news/exiles-tretiy-tom",
   "archived": "https://web.archive.org/web/20260309173556/https://spidermedia.ru/news/exiles-tretiy-tom",
   "tags": [
@@ -10,6 +13,12 @@
     "dejv-bullok",
     "marvel",
     "exiles"
+  ],
+  "cover": "https://web.archive.org/web/20260309173556im_/http://spidermedia.ru/assets/images/import_image/497.jpg",
+  "modx_id": 497,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

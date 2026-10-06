@@ -1,13 +1,23 @@
 {
   "title": "Tengen Toppa Gurren Lagann: Gurren Gakuen-Hen",
-  "date": "2009-04-08T23:51:00+03:00",
+  "date": "2009-04-08T22:51:39+03:00",
   "url": "/blog/naya/tengen-toppa-gurren-lagann-gurren-gakuen-hen/",
+  "aliases": [
+    "/node/892/"
+  ],
   "original_url": "http://spidermedia.ru/blog/naya/tengen-toppa-gurren-lagann-gurren-gakuen-hen",
   "archived": "https://web.archive.org/web/20120607145007/http://spidermedia.ru/blog/naya/tengen-toppa-gurren-lagann-gurren-gakuen-hen",
   "tags": [
     "comedy",
     "manga",
-    "skachat"
+    "skachat",
+    "manga-2"
+  ],
+  "cover": "https://web.archive.org/web/20120607145007im_/http://spidermedia.ru/assets/images/import_image/892.gif",
+  "modx_id": 892,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

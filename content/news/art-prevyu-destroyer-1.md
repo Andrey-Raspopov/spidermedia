@@ -1,7 +1,10 @@
 {
   "title": "Арт-превью The Destroyer #1",
-  "date": "2009-03-10T23:04:00+03:00",
+  "date": "2009-03-10T22:04:00+03:00",
   "url": "/news/art-prevyu-destroyer-1/",
+  "aliases": [
+    "/node/638/"
+  ],
   "original_url": "http://spidermedia.ru/news/art-prevyu-destroyer-1",
   "archived": "https://web.archive.org/web/20120608223641/http://spidermedia.ru/news/art-prevyu-destroyer-1",
   "tags": [
@@ -10,6 +13,12 @@
     "kori-uolker",
     "marvel",
     "robert-kirkman"
+  ],
+  "cover": "https://web.archive.org/web/20120608223641im_/http://spidermedia.ru/assets/images/import_image/638.jpg",
+  "modx_id": 638,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

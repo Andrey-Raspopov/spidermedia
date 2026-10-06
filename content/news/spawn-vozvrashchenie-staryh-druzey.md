@@ -1,7 +1,10 @@
 {
   "title": "Spawn: Возвращение старых друзей",
-  "date": "2009-06-11T16:08:00+03:00",
+  "date": "2009-06-11T15:08:00+03:00",
   "url": "/news/spawn-vozvrashchenie-staryh-druzey/",
+  "aliases": [
+    "/node/1401/"
+  ],
   "original_url": "https://spidermedia.ru/news/spawn-vozvrashchenie-staryh-druzey",
   "archived": "https://web.archive.org/web/20260307053731/https://spidermedia.ru/news/spawn-vozvrashchenie-staryh-druzey",
   "tags": [
@@ -9,6 +12,12 @@
     "image-comics",
     "spawn",
     "spaun"
+  ],
+  "cover": "https://web.archive.org/web/20260307053731im_/http://spidermedia.ru/assets/images/import_image/1401.jpg",
+  "modx_id": 1401,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

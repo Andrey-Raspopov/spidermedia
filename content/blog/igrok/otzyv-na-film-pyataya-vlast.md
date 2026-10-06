@@ -1,11 +1,17 @@
 {
   "title": "Отзыв на фильм «Пятая власть»",
-  "date": "2013-10-18T23:25:00+03:00",
+  "date": "2013-10-18T22:25:08+03:00",
   "url": "/blog/igrok/otzyv-na-film-pyataya-vlast/",
   "original_url": "http://spidermedia.ru/blog/igrok/otzyv-na-film-pyataya-vlast",
   "archived": "https://web.archive.org/web/20220814053836/http://spidermedia.ru/blog/igrok/otzyv-na-film-pyataya-vlast",
   "tags": [
     "recenziya"
+  ],
+  "cover": "https://web.archive.org/web/20220814053836im_/http://spidermedia.ru/assets/images/import_image/7505.jpg",
+  "modx_id": 7505,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

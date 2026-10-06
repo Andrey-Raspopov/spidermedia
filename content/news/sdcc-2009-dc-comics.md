@@ -1,7 +1,10 @@
 {
   "title": "SDCC 2009 - DC Comics",
-  "date": "2009-07-25T16:44:00+03:00",
+  "date": "2009-07-25T15:44:43+03:00",
   "url": "/news/sdcc-2009-dc-comics/",
+  "aliases": [
+    "/node/1659/"
+  ],
   "original_url": "http://spidermedia.ru/news/sdcc-2009-dc-comics",
   "archived": "https://web.archive.org/web/20250906200650/http://spidermedia.ru/news/sdcc-2009-dc-comics",
   "tags": [
@@ -14,6 +17,12 @@
     "san-diego-comic-con-2009",
     "dc-comics",
     "scott-kolins"
+  ],
+  "cover": "https://web.archive.org/web/20250906200650im_/http://spidermedia.ru/assets/images/import_image/1659.jpg",
+  "modx_id": 1659,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

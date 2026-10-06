@@ -7,6 +7,12 @@
   "tags": [
     "dc-comics"
   ],
+  "cover": "https://web.archive.org/web/20160611204537im_/http://spidermedia.ru/assets/images/tv/dc/powerless/vanessa_web.png",
+  "modx_id": 100944,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

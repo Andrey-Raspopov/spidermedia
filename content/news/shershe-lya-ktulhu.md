@@ -1,6 +1,6 @@
 {
   "title": "Шерше ля Ктулху",
-  "date": "2011-10-15T10:02:00+03:00",
+  "date": "2011-10-15T09:02:51+03:00",
   "url": "/news/shershe-lya-ktulhu/",
   "original_url": "http://spidermedia.ru/news/shershe-lya-ktulhu",
   "archived": "https://web.archive.org/web/20251206144002/http://spidermedia.ru/news/shershe-lya-ktulhu",
@@ -10,6 +10,12 @@
     "ed-brubaker",
     "shon-fillips",
     "image-comics"
+  ],
+  "cover": "https://web.archive.org/web/20251206144002im_/http://spidermedia.ru/assets/images/import_image/6648.jpg",
+  "modx_id": 6648,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

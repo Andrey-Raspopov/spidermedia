@@ -1,13 +1,23 @@
 {
   "title": "Drifters",
-  "date": "2009-08-25T21:24:00+03:00",
+  "date": "2009-08-25T20:24:51+03:00",
   "url": "/blog/naya/drifters/",
+  "aliases": [
+    "/node/1824/"
+  ],
   "original_url": "http://spidermedia.ru/blog/naya/drifters",
   "archived": "https://web.archive.org/web/20120608225851/http://spidermedia.ru/blog/naya/drifters",
   "tags": [
     "manga",
     "seinen",
-    "action-0"
+    "action-0",
+    "manga-2"
+  ],
+  "cover": "https://web.archive.org/web/20120608225851im_/http://spidermedia.ru/assets/images/import_image/1824.jpg",
+  "modx_id": 1824,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

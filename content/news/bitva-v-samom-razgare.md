@@ -1,7 +1,10 @@
 {
   "title": "Битва в самом разгаре!",
-  "date": "2009-03-31T05:38:00+03:00",
+  "date": "2009-03-31T04:38:24+03:00",
   "url": "/news/bitva-v-samom-razgare/",
+  "aliases": [
+    "/node/813/"
+  ],
   "original_url": "https://spidermedia.ru/news/bitva-v-samom-razgare",
   "archived": "https://web.archive.org/web/20260313121119/https://spidermedia.ru/news/bitva-v-samom-razgare",
   "tags": [
@@ -11,6 +14,12 @@
     "nightwing",
     "toni-deniel",
     "najtving"
+  ],
+  "cover": "https://web.archive.org/web/20260313121119im_/http://spidermedia.ru/assets/images/import_image/813.jpg",
+  "modx_id": 813,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

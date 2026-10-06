@@ -4,6 +4,12 @@
   "url": "/games/most-important-games-of-2015/",
   "original_url": "http://spidermedia.ru/games/most-important-games-of-2015",
   "archived": "https://web.archive.org/web/20260312012640/http://spidermedia.ru/games/most-important-games-of-2015",
+  "cover": "https://web.archive.org/web/20160611084408im_/http://spidermedia.ru/assets/images/games/itogi2015/00.jpg",
+  "modx_id": 100796,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
@@ -90,7 +96,7 @@
 
 [![](https://web.archive.org/web/20160611142754im_/http://spidermedia.ru/assets/cache/preview/100796/games/itogi2015/622x350-06.ff4.jpg)](https://web.archive.org/web/20171022195842im_/http://spidermedia.ru/assets/images/games/itogi2015/06.jpg)
 
-Я наверное просто оставлю ссылку на [рецензию](https://web.archive.org/web/20251206043458/https://spidermedia.ru/games/fallout-4-review), чтобы не повторяться.
+Я наверное просто оставлю ссылку на [рецензию](../fallout-4-review/), чтобы не повторяться.
 
 Да, это другой Fallout, даже по сравнению с третей частью. Да, в игре совершенно другие акценты. Да, можно играть, как в шутер и построить свой дом. Да, это все еще великая ролевая игра, которая дает тебе отыгрывать ту роль, которую ты хочешь, исследовать мир так, как ты хочешь, и главное, дарит абсолютно разнообразный спектр эмоций.
 

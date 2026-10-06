@@ -1,6 +1,6 @@
 {
   "title": "DC адаптирует FLASHPOINT",
-  "date": "2013-04-06T17:28:00+03:00",
+  "date": "2013-04-06T16:28:41+03:00",
   "url": "/news/dc-adaptiruet-flashpoint/",
   "original_url": "http://spidermedia.ru/news/dc-adaptiruet-flashpoint",
   "archived": "https://web.archive.org/web/20250804010124/http://spidermedia.ru/news/dc-adaptiruet-flashpoint",
@@ -8,6 +8,12 @@
     "the-flash",
     "animaciya",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20250804010124im_/http://spidermedia.ru/assets/images/import_image/7184.jpg",
+  "modx_id": 7184,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

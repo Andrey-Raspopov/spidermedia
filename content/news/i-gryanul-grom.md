@@ -1,6 +1,6 @@
 {
   "title": "И грянул гром",
-  "date": "2011-08-12T03:39:00+03:00",
+  "date": "2011-08-12T02:39:01+03:00",
   "url": "/news/i-gryanul-grom/",
   "original_url": "https://spidermedia.ru/news/i-gryanul-grom",
   "archived": "https://web.archive.org/web/20251205104914/https://spidermedia.ru/news/i-gryanul-grom",
@@ -8,7 +8,15 @@
     "thor",
     "marvel",
     "matt-fraction",
-    "paskal-ferri"
+    "paskal-ferri",
+    "tor",
+    "mett-frakshen"
+  ],
+  "cover": "https://web.archive.org/web/20251205104914im_/http://spidermedia.ru/assets/images/import_image/6559.jpg",
+  "modx_id": 6559,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

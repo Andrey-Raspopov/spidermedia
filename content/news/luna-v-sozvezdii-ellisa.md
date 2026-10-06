@@ -1,6 +1,6 @@
 {
   "title": "Луна в созвездии Эллиса",
-  "date": "2013-11-23T04:27:00+03:00",
+  "date": "2013-11-23T03:27:39+03:00",
   "url": "/news/luna-v-sozvezdii-ellisa/",
   "original_url": "https://spidermedia.ru/news/luna-v-sozvezdii-ellisa",
   "archived": "https://web.archive.org/web/20251110214912/https://spidermedia.ru/news/luna-v-sozvezdii-ellisa",
@@ -9,6 +9,12 @@
     "moon-knight",
     "deklan-shelvi",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20251110214912im_/http://spidermedia.ru/assets/images/import_image/7555.jpg",
+  "modx_id": 7555,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

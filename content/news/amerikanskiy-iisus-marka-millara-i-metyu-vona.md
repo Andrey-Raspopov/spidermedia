@@ -1,6 +1,6 @@
 {
   "title": "\"Американский Иисус\" Марка Миллара и Мэтью Вона",
-  "date": "2009-03-26T14:43:00+03:00",
+  "date": "2009-03-26T13:43:49+03:00",
   "url": "/news/amerikanskiy-iisus-marka-millara-i-metyu-vona/",
   "original_url": "http://spidermedia.ru/news/amerikanskiy-iisus-marka-millara-i-metyu-vona",
   "archived": "https://web.archive.org/web/20120608210942/http://spidermedia.ru/news/amerikanskiy-iisus-marka-millara-i-metyu-vona",
@@ -12,6 +12,12 @@
     "komiksy",
     "mark-millar",
     "mettyu-von"
+  ],
+  "cover": "https://web.archive.org/web/20120608210942im_/http://spidermedia.ru/assets/images/import_image/774.jpg",
+  "modx_id": 774,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

@@ -7,6 +7,12 @@
   "tags": [
     "batman-and-robin-day"
   ],
+  "cover": "https://web.archive.org/web/20210825033041im_/http://spidermedia.ru/assets/images/birday/mangasarov1.jpg",
+  "modx_id": 102010,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

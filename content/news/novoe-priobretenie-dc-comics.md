@@ -1,13 +1,23 @@
 {
   "title": "Новое приобретение DC Comics",
-  "date": "2010-01-05T19:28:00+03:00",
+  "date": "2010-01-05T19:28:07+03:00",
   "url": "/news/novoe-priobretenie-dc-comics/",
+  "aliases": [
+    "/node/2217/"
+  ],
   "original_url": "http://spidermedia.ru/news/novoe-priobretenie-dc-comics",
   "archived": "https://web.archive.org/web/20260312022506/http://spidermedia.ru/news/novoe-priobretenie-dc-comics",
   "tags": [
     "devid-finch",
     "art-0",
-    "dc-comics"
+    "dc-comics",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20260312022506im_/http://spidermedia.ru/assets/images/import_image/2217.jpg",
+  "modx_id": 2217,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

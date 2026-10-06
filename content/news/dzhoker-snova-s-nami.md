@@ -1,6 +1,6 @@
 {
   "title": "Джокер снова с нами",
-  "date": "2009-03-27T01:59:00+03:00",
+  "date": "2009-03-27T01:59:43+03:00",
   "url": "/news/dzhoker-snova-s-nami/",
   "original_url": "http://spidermedia.ru/news/dzhoker-snova-s-nami",
   "archived": "https://web.archive.org/web/20250208091702/http://spidermedia.ru/news/dzhoker-snova-s-nami",
@@ -9,6 +9,12 @@
     "joker",
     "hot-toys",
     "dark-knight"
+  ],
+  "cover": "https://web.archive.org/web/20250208091702im_/http://spidermedia.ru/assets/images/import_image/777.jpg",
+  "modx_id": 777,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

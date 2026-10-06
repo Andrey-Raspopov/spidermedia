@@ -1,6 +1,6 @@
 {
   "title": "Превью Amazing Spider-Man #593",
-  "date": "2009-05-02T21:31:00+03:00",
+  "date": "2009-05-02T20:31:21+03:00",
   "url": "/news/prevyu-amazing-spider-man-593/",
   "original_url": "http://spidermedia.ru/news/prevyu-amazing-spider-man-593",
   "archived": "https://web.archive.org/web/20120718055332/http://spidermedia.ru/news/prevyu-amazing-spider-man-593",
@@ -10,7 +10,15 @@
     "marvel",
     "mark-ueyd",
     "preview-s",
-    "chelovek-pauk"
+    "chelovek-pauk",
+    "prevyu",
+    "mark-waid"
+  ],
+  "cover": "https://web.archive.org/web/20120718055332im_/http://spidermedia.ru/assets/images/import_image/1084.jpg",
+  "modx_id": 1084,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

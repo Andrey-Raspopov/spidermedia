@@ -1,13 +1,20 @@
 {
   "title": "Марвел Зомби: Peter David's fu**ing in!",
-  "date": "2012-03-14T16:06:00+03:00",
+  "date": "2012-03-14T15:06:44+03:00",
   "url": "/news/marvel-zombi-peter-davids-fuing/",
   "original_url": "https://spidermedia.ru/news/marvel-zombi-peter-davids-fuing",
   "archived": "https://web.archive.org/web/20250321103148/https://spidermedia.ru/news/marvel-zombi-peter-davids-fuing",
   "tags": [
     "piter-devid",
     "marvel-zombies",
-    "marvel"
+    "marvel",
+    "marvel-zombi"
+  ],
+  "cover": "https://web.archive.org/web/20250321103148im_/http://spidermedia.ru/assets/images/import_image/6831.jpg",
+  "modx_id": 6831,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

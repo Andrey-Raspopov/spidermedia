@@ -1,6 +1,6 @@
 {
   "title": "ОБНОВЛЕНИЕ: Новое геймплейное видео Batman: Arkham City",
-  "date": "2011-07-01T23:22:00+03:00",
+  "date": "2011-07-01T22:22:05+03:00",
   "url": "/news/novoe-geympleynoe-video-batman-arkham-city/",
   "original_url": "https://spidermedia.ru/news/novoe-geympleynoe-video-batman-arkham-city",
   "archived": "https://web.archive.org/web/20260208203942/https://spidermedia.ru/news/novoe-geympleynoe-video-batman-arkham-city",
@@ -10,6 +10,12 @@
     "dc-comics",
     "batman",
     "arkham-asylum"
+  ],
+  "cover": "https://web.archive.org/web/20260208203942im_/http://spidermedia.ru/assets/images/import_image/6479.png",
+  "modx_id": 6479,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

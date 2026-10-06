@@ -1,6 +1,6 @@
 {
   "title": "«Дьяволик» выйдет на русском языке",
-  "date": "2014-07-22T08:51:00+03:00",
+  "date": "2014-07-22T07:51:33+03:00",
   "url": "/news/dyavolik-vyydet-na-russkom-yazyke/",
   "original_url": "https://spidermedia.ru/news/dyavolik-vyydet-na-russkom-yazyke",
   "archived": "https://web.archive.org/web/20250425224137/https://spidermedia.ru/news/dyavolik-vyydet-na-russkom-yazyke",
@@ -8,6 +8,12 @@
     "zarubezhnye-komiksy-na-russkom",
     "dyavolik",
     "smart-owl"
+  ],
+  "cover": "https://web.archive.org/web/20150725165733im_/http://spidermedia.ru/assets/images/import_image/7907.jpg",
+  "modx_id": 7907,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

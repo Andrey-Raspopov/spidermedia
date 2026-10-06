@@ -1,12 +1,21 @@
 {
   "title": "Первый взгляд на нового Судью Дредда",
-  "date": "2010-11-19T20:59:00+03:00",
+  "date": "2010-11-19T20:59:33+03:00",
   "url": "/news/pervyy-vzglyad-na-novogo-sudyu-dredda/",
+  "aliases": [
+    "/node/3074/"
+  ],
   "original_url": "http://spidermedia.ru/news/pervyy-vzglyad-na-novogo-sudyu-dredda",
   "archived": "https://web.archive.org/web/20260313103716/http://spidermedia.ru/news/pervyy-vzglyad-na-novogo-sudyu-dredda",
   "tags": [
     "judge-dredd",
     "2000-ad"
+  ],
+  "cover": "https://web.archive.org/web/20260313103716im_/http://spidermedia.ru/assets/images/import_image/3074.jpg",
+  "modx_id": 3074,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

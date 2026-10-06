@@ -4,6 +4,12 @@
   "url": "/comics/mnenie-attack-on-titan/",
   "original_url": "http://spidermedia.ru/comics/mnenie-attack-on-titan",
   "archived": "https://web.archive.org/web/20260117215314/http://spidermedia.ru/comics/mnenie-attack-on-titan",
+  "cover": "https://web.archive.org/web/20260117215314im_/http://spidermedia.ru/assets/images/manga/attack-on-titan/00.png",
+  "modx_id": 102387,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

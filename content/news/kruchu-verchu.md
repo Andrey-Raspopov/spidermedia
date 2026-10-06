@@ -1,13 +1,22 @@
 {
   "title": "Кручу-Верчу!",
-  "date": "2009-04-03T15:00:00+03:00",
+  "date": "2009-04-03T14:00:39+03:00",
   "url": "/news/kruchu-verchu/",
+  "aliases": [
+    "/node/842/"
+  ],
   "original_url": "http://spidermedia.ru/news/kruchu-verchu",
   "archived": "https://web.archive.org/web/20120608172423/http://spidermedia.ru/news/kruchu-verchu",
   "tags": [
     "dc-comics",
     "dzhey-maykl-strazhinskiy",
-    "komiksy"
+    "komiksy",
+    "dzhej-majkl-strazhinski"
+  ],
+  "modx_id": 842,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

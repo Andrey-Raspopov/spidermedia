@@ -1,7 +1,10 @@
 {
   "title": "Превью Deadpool #9",
-  "date": "2009-03-27T13:34:00+03:00",
+  "date": "2009-03-27T13:34:58+03:00",
   "url": "/news/prevyu-deadpool-9/",
+  "aliases": [
+    "/node/787/"
+  ],
   "original_url": "https://spidermedia.ru/news/prevyu-deadpool-9",
   "archived": "https://web.archive.org/web/20230323052434/https://spidermedia.ru/news/prevyu-deadpool-9",
   "tags": [
@@ -10,7 +13,13 @@
     "preview",
     "deadpool",
     "taskmaster",
-    "deniel-vej"
+    "deniel-vej",
+    "prevyu"
+  ],
+  "modx_id": 787,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Международный постер \"Первого Мстителя\" (Капитан Америка)",
-  "date": "2011-07-04T12:04:00+03:00",
+  "date": "2011-07-04T11:04:01+03:00",
   "url": "/news/mezhdunarodnyy-poster-pervogo-mstitelya-kapitan-amerika/",
   "original_url": "https://spidermedia.ru/news/mezhdunarodnyy-poster-pervogo-mstitelya-kapitan-amerika",
   "archived": "https://web.archive.org/web/20250906081659/https://spidermedia.ru/news/mezhdunarodnyy-poster-pervogo-mstitelya-kapitan-amerika",
@@ -8,6 +8,12 @@
     "postery",
     "captain-america",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20250906081659im_/http://spidermedia.ru/assets/images/import_image/6480.jpg",
+  "modx_id": 6480,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,12 +1,18 @@
 {
   "title": "Doctor Who \"Flatline\": Мнение редакции",
-  "date": "2014-10-20T16:03:00+03:00",
+  "date": "2014-10-20T15:03:08+03:00",
   "url": "/blog/redson/doctor-who-flatline-mnenie-redakcii/",
   "original_url": "http://spidermedia.ru/blog/redson/doctor-who-flatline-mnenie-redakcii",
   "archived": "https://web.archive.org/web/20260314084246/http://spidermedia.ru/blog/redson/doctor-who-flatline-mnenie-redakcii",
   "tags": [
     "doctor-who",
     "obzor"
+  ],
+  "cover": "https://web.archive.org/web/20260314084246im_/http://spidermedia.ru/assets/images/import_image/8203.jpg",
+  "modx_id": 8203,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

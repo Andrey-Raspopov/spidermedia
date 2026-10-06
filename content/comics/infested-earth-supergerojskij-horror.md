@@ -7,6 +7,12 @@
   "tags": [
     "independent-comics"
   ],
+  "cover": "https://web.archive.org/web/20211208134235im_/http://spidermedia.ru/assets/images/gallery/100529/original_17d61b4cd11af0f50708dca9a1efc542_original.jpg",
+  "modx_id": 100529,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

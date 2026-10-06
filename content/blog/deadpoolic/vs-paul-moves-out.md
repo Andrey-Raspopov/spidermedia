@@ -1,12 +1,21 @@
 {
   "title": "...Vs Paul Moves Out",
-  "date": "2009-08-24T20:31:00+03:00",
+  "date": "2009-08-24T19:31:14+03:00",
   "url": "/blog/deadpoolic/vs-paul-moves-out/",
+  "aliases": [
+    "/node/1818/"
+  ],
   "original_url": "http://spidermedia.ru/blog/deadpoolic/vs-paul-moves-out",
   "archived": "https://web.archive.org/web/20111025180219/http://spidermedia.ru/blog/deadpoolic/vs-paul-moves-out",
   "tags": [
     "michel-rabagliati",
     "komiksy"
+  ],
+  "cover": "https://web.archive.org/web/20111025180219im_/http://spidermedia.ru/assets/images/import_image/1818.png",
+  "modx_id": 1818,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

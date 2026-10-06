@@ -1,6 +1,6 @@
 {
   "title": "Хороший нацист - мёртвый нацист",
-  "date": "2012-02-17T09:49:00+03:00",
+  "date": "2012-02-17T08:49:45+03:00",
   "url": "/news/horoshiy-nacist-myortvyy-nacist/",
   "original_url": "http://spidermedia.ru/news/horoshiy-nacist-myortvyy-nacist",
   "archived": "https://web.archive.org/web/20250920202409/http://spidermedia.ru/news/horoshiy-nacist-myortvyy-nacist",
@@ -9,7 +9,14 @@
     "utka-govard",
     "frenk-marraffino",
     "mirko-perfederichi",
-    "marvel"
+    "marvel",
+    "marvel-zombi"
+  ],
+  "cover": "https://web.archive.org/web/20250920202409im_/http://spidermedia.ru/assets/images/import_image/6787.jpg",
+  "modx_id": 6787,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

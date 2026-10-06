@@ -1,11 +1,17 @@
 {
   "title": "Black Mask Studios адаптирует кино-сценарий Гранта Моррисона",
-  "date": "2014-10-12T23:23:00+03:00",
+  "date": "2014-10-12T22:23:06+03:00",
   "url": "/news/black-mask/",
   "original_url": "http://spidermedia.ru/news/black-mask",
   "archived": "https://web.archive.org/web/20260307061325/http://spidermedia.ru/news/black-mask",
   "tags": [
     "grant-morrison"
+  ],
+  "cover": "https://web.archive.org/web/20260307061325im_/http://spidermedia.ru/assets/images/import_image/8165.jpg",
+  "modx_id": 8165,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,12 +1,18 @@
 {
   "title": "ALL-NEW МЖДЗ: ГОРДОСТЬ И ПРЕДУБЕЖДЕНИЕ",
-  "date": "2014-07-08T12:35:00+03:00",
+  "date": "2014-07-08T11:35:33+03:00",
   "url": "/blog/redson/all-new-mzhdz/",
   "original_url": "http://spidermedia.ru/blog/redson/all-new-mzhdz",
   "archived": "https://web.archive.org/web/20251108183721/http://spidermedia.ru/blog/redson/all-new-mzhdz",
   "tags": [
     "mnenie",
     "mzhdz"
+  ],
+  "cover": "https://web.archive.org/web/20251108183721im_/http://spidermedia.ru/assets/images/import_image/7865.jpg",
+  "modx_id": 7865,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Призрачный Всадник снова в седле!",
-  "date": "2011-03-20T04:37:00+03:00",
+  "date": "2011-03-20T04:37:33+03:00",
   "url": "/news/prizrachnyy-vsadnik-snova-v-sedle/",
   "original_url": "http://spidermedia.ru/news/prizrachnyy-vsadnik-snova-v-sedle",
   "archived": "https://web.archive.org/web/20250913021554/http://spidermedia.ru/news/prizrachnyy-vsadnik-snova-v-sedle",
@@ -9,6 +9,12 @@
     "mettyu-klark",
     "marvel",
     "prizrachnyj-gonshhik"
+  ],
+  "cover": "https://web.archive.org/web/20250913021554im_/http://spidermedia.ru/assets/images/import_image/4289.jpg",
+  "modx_id": 4289,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

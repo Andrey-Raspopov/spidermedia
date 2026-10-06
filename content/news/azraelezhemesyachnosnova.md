@@ -1,7 +1,10 @@
 {
   "title": "Азраэль...ежемесячно...снова",
-  "date": "2009-05-13T22:45:00+03:00",
+  "date": "2009-05-13T21:45:17+03:00",
   "url": "/news/azraelezhemesyachnosnova/",
+  "aliases": [
+    "/node/1176/"
+  ],
   "original_url": "http://spidermedia.ru/news/azraelezhemesyachnosnova",
   "archived": "https://web.archive.org/web/20150501190041/http://spidermedia.ru/news/azraelezhemesyachnosnova",
   "tags": [
@@ -9,6 +12,11 @@
     "batman",
     "bitva-za-plashh",
     "azrael"
+  ],
+  "modx_id": 1176,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -8,6 +8,12 @@
     "dc-comics",
     "batman"
   ],
+  "cover": "https://web.archive.org/web/20251206034752im_/http://spidermedia.ru/assets/images/articles/batman-week/bob-kane/03/mosaic.jpg",
+  "modx_id": 101685,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

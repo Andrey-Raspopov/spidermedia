@@ -7,6 +7,12 @@
   "tags": [
     "hellboymedia"
   ],
+  "cover": "https://web.archive.org/web/20160612021211im_/http://spidermedia.ru/assets/images/hellboymedia/solicitations/15-08-august/august-15-solicitations-cover.jpg",
+  "modx_id": 100234,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

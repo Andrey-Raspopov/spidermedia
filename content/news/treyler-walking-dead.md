@@ -1,19 +1,28 @@
 {
   "title": "Трейлер \"The Walking Dead\"",
-  "date": "2010-08-25T02:30:00+03:00",
+  "date": "2010-08-25T01:30:54+03:00",
   "url": "/news/treyler-walking-dead/",
+  "aliases": [
+    "/node/2870/"
+  ],
   "original_url": "https://spidermedia.ru/news/treyler-walking-dead",
   "archived": "https://web.archive.org/web/20260211180444/https://spidermedia.ru/news/treyler-walking-dead",
   "tags": [
     "trejlery",
     "serialy",
-    "the-walking-dead"
+    "the-walking-dead",
+    "tv"
+  ],
+  "modx_id": 2870,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-Это все тот же [ролик](http://spidermedia.ru/node/2799) сериала **"The Walking Dead"** с **Комик-Кона в Сан-Диего** *(San Diego Comic-Con 2010)*, но уже представленный самим телеканалом **AMC** и в приемлемом качестве:
+Это все тот же [ролик](../sdcc10-kamrip-treylera-walking-dead/) сериала **"The Walking Dead"** с **Комик-Кона в Сан-Диего** *(San Diego Comic-Con 2010)*, но уже представленный самим телеканалом **AMC** и в приемлемом качестве:
 
 ![](https://spidermedia.ru/assets/cache/images/youtube/622x350-yg46DWI_fCE.3e9.jpg)
 

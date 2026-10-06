@@ -4,6 +4,12 @@
   "url": "/games/recenziya-deus-ex-mankind-divided-i-mnenie-o-serii/",
   "original_url": "http://spidermedia.ru/games/recenziya-deus-ex-mankind-divided-i-mnenie-o-serii",
   "archived": "https://web.archive.org/web/20250116182538/http://spidermedia.ru/games/recenziya-deus-ex-mankind-divided-i-mnenie-o-serii",
+  "cover": "https://web.archive.org/web/20250116182538im_/http://spidermedia.ru/assets/images/games/deus-ex-mankind-divided/deus-ex_-mankind-divided_20160823205900.jpg",
+  "modx_id": 101327,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

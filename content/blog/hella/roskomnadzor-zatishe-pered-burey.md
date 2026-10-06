@@ -1,6 +1,6 @@
 {
   "title": "РосКомНадзор: затишье",
-  "date": "2014-11-07T11:27:00+03:00",
+  "date": "2014-11-07T11:27:23+03:00",
   "url": "/blog/hella/roskomnadzor-zatishe-pered-burey/",
   "original_url": "https://spidermedia.ru/blog/hella/roskomnadzor-zatishe-pered-burey",
   "archived": "https://web.archive.org/web/20260214125549/https://spidermedia.ru/blog/hella/roskomnadzor-zatishe-pered-burey",
@@ -8,6 +8,12 @@
     "russian-comics",
     "roskomnadzor",
     "zarubezhnye-komiksy-na-russkom"
+  ],
+  "cover": "https://web.archive.org/web/20150424025211im_/http://spidermedia.ru/assets/images/import_image/8267.jpg",
+  "modx_id": 8267,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

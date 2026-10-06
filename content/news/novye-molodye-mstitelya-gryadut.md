@@ -1,7 +1,10 @@
 {
   "title": "Новые Молодые Мстителя грядут!",
-  "date": "2009-02-16T16:29:00+03:00",
+  "date": "2009-02-16T16:29:52+03:00",
   "url": "/news/novye-molodye-mstitelya-gryadut/",
+  "aliases": [
+    "/node/388/"
+  ],
   "original_url": "http://spidermedia.ru/news/novye-molodye-mstitelya-gryadut",
   "archived": "https://web.archive.org/web/20171015071940/http://spidermedia.ru:80/news/novye-molodye-mstitelya-gryadut",
   "tags": [
@@ -11,11 +14,16 @@
     "pol-kornell",
     "mark-bruks"
   ],
+  "modx_id": 388,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](https://web.archive.org/web/20171015071940im_/http://www.comicbookresources.com/assets/phpThumb/phpThumb.php?src=/assets/images/articles/1233892129.jpg&h=300)](http://www.comicbookresources.com/assets/images/articles/1233892129.jpg)Во время Комикона, мы [писали](../../node/248/) о выходе минисерии **Dark Reign: Young Avengers**. Расскажем о ней поподробней: Серия будет состоять из 5-ти выпусков. Автором выступит **Пол Корнелл** *(Paul Cornell)*, а художником **Марк Брукс** *(Mark Brooks)*. Первый номер комикса дебютирует в **мае**. Что до вопроса о том, почему мы снова получаем лимитку - ответ прост: **Аллан Хейнберг** *(Allan Heinberg)* так и не нашел времени, чтобы написать второй волюм **YA**.
+[![](https://web.archive.org/web/20171015071940im_/http://www.comicbookresources.com/assets/phpThumb/phpThumb.php?src=/assets/images/articles/1233892129.jpg&h=300)](http://www.comicbookresources.com/assets/images/articles/1233892129.jpg)Во время Комикона, мы [писали](../samye-temnye-novosti-s-komik-kona-2009/) о выходе минисерии **Dark Reign: Young Avengers**. Расскажем о ней поподробней: Серия будет состоять из 5-ти выпусков. Автором выступит **Пол Корнелл** *(Paul Cornell)*, а художником **Марк Брукс** *(Mark Brooks)*. Первый номер комикса дебютирует в **мае**. Что до вопроса о том, почему мы снова получаем лимитку - ответ прост: **Аллан Хейнберг** *(Allan Heinberg)* так и не нашел времени, чтобы написать второй волюм **YA**.
 
 О сюжете известно не много: Появится новая команда **Молодых Мстителей**, в абсолютно новом составе, вдохновленные образом **Тёмных Мстителей** *(Dark Avengers)* Нормана Озборна. Тем временем, наконец-то со времен **Гражданской Войны**, героям полностью воссоединившейся оригинальной команде придется столкнуться с тем, что их имя использует совершенно новая группа подростков, чьи действия далеки от понятия "героизм".
 

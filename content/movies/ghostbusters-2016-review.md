@@ -7,6 +7,12 @@
   "tags": [
     "ghostbusters"
   ],
+  "cover": "https://web.archive.org/web/20260313113620im_/http://spidermedia.ru/assets/images/reviews/movies/ghostbusters-2016/gb1.jpg",
+  "modx_id": 101293,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,6 +1,6 @@
 {
   "title": "Двойной Клейтон от VALIANT",
-  "date": "2013-02-22T14:56:00+03:00",
+  "date": "2013-02-22T13:56:08+03:00",
   "url": "/news/dvoynoy-kleyton-ot-valiant/",
   "original_url": "https://spidermedia.ru/news/dvoynoy-kleyton-ot-valiant",
   "archived": "https://web.archive.org/web/20260125064330/https://spidermedia.ru/news/dvoynoy-kleyton-ot-valiant",
@@ -8,6 +8,12 @@
     "klejton-krejn",
     "klejton-genri",
     "valiant-entertainment"
+  ],
+  "cover": "https://web.archive.org/web/20150327031723im_/http://spidermedia.ru/assets/images/import_image/7150.jpg",
+  "modx_id": 7150,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

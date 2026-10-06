@@ -1,12 +1,21 @@
 {
   "title": "Лауреаты премии Айзнера-2009",
-  "date": "2009-07-25T13:55:00+03:00",
+  "date": "2009-07-25T12:55:38+03:00",
   "url": "/news/laureaty-premii-ayznera-2009/",
+  "aliases": [
+    "/node/1655/"
+  ],
   "original_url": "http://spidermedia.ru/news/laureaty-premii-ayznera-2009",
   "archived": "https://web.archive.org/web/20191228200819/http://spidermedia.ru:80/news/laureaty-premii-ayznera-2009",
   "tags": [
     "eisner-awards",
     "san-diego-comic-con-international"
+  ],
+  "cover": "https://web.archive.org/web/20191228200819im_/http://spidermedia.ru/assets/images/import_image/1655.jpg",
+  "modx_id": 1655,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "Обложки, которые завораживают...",
-  "date": "2009-04-29T20:26:00+03:00",
+  "date": "2009-04-29T19:26:18+03:00",
   "url": "/news/oblozhki-kotorye-zavorazhivayut/",
+  "aliases": [
+    "/node/1070/"
+  ],
   "original_url": "https://spidermedia.ru/news/oblozhki-kotorye-zavorazhivayut",
   "archived": "https://web.archive.org/web/20260120154928/https://spidermedia.ru/news/oblozhki-kotorye-zavorazhivayut",
   "tags": [
@@ -10,11 +13,17 @@
     "pauer-gyorl",
     "gillem-marsh"
   ],
+  "cover": "https://web.archive.org/web/20260120154928im_/http://spidermedia.ru/assets/images/import_image/1070.jpg",
+  "modx_id": 1070,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-Не так давно, мы уже [писали](../../node/909/) о новой онгоинг-серии про **Пауэр Гёрл** (*Power Girl*), а также выкладывали альтернативные обложки. Теперь пришло время увидеть новые обложки для номеров **3** и **4**, и на этот раз от художника **Гиллема Марша** (*Guillem March*). Смотрим и любуемся, а также не забываем, что **1** номер появится на прилавках уже **6 мая**.
+Не так давно, мы уже [писали](../../blog/ghost-knight/svezhiy-vzglyad-na-pauer-gyorl/) о новой онгоинг-серии про **Пауэр Гёрл** (*Power Girl*), а также выкладывали альтернативные обложки. Теперь пришло время увидеть новые обложки для номеров **3** и **4**, и на этот раз от художника **Гиллема Марша** (*Guillem March*). Смотрим и любуемся, а также не забываем, что **1** номер появится на прилавках уже **6 мая**.
 [![](https://web.archive.org/web/20260120154928im_/http://i007.radikal.ru/0904/9b/07d13a230d49t.jpg)](http://radikal.ru/F/i007.radikal.ru/0904/9b/07d13a230d49.jpg.html) [![](https://web.archive.org/web/20260120154928im_/http://i062.radikal.ru/0904/84/c829083dd595t.jpg)](http://radikal.ru/F/i062.radikal.ru/0904/84/c829083dd595.jpg.html)
 **UPD:** Не прошло и суток, а уже к обозрению стало доступно полноценное превью 1 номера, смотрим:
 

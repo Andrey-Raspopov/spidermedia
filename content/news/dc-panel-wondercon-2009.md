@@ -1,7 +1,10 @@
 {
   "title": "DC Panel @ WonderCon 2009",
-  "date": "2009-02-28T19:40:00+03:00",
+  "date": "2009-02-28T19:40:06+03:00",
   "url": "/news/dc-panel-wondercon-2009/",
+  "aliases": [
+    "/node/551/"
+  ],
   "original_url": "http://spidermedia.ru/news/dc-panel-wondercon-2009",
   "archived": "https://web.archive.org/web/20250913004556/http://spidermedia.ru/news/dc-panel-wondercon-2009",
   "tags": [
@@ -17,6 +20,12 @@
     "dc-comics",
     "blackest-night",
     "batman"
+  ],
+  "cover": "https://web.archive.org/web/20250913004556im_/http://spidermedia.ru/assets/images/import_image/551.jpg",
+  "modx_id": 551,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

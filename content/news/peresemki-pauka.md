@@ -1,12 +1,18 @@
 {
   "title": "Пересъемки Паука",
-  "date": "2011-12-09T18:20:00+03:00",
+  "date": "2011-12-09T17:20:33+03:00",
   "url": "/news/peresemki-pauka/",
   "original_url": "http://spidermedia.ru/news/peresemki-pauka",
   "archived": "https://web.archive.org/web/20241104091410/http://spidermedia.ru/news/peresemki-pauka",
   "tags": [
     "marvel",
     "spider-man"
+  ],
+  "cover": "https://web.archive.org/web/20241104091410im_/http://spidermedia.ru/assets/images/import_image/6724.jpg",
+  "modx_id": 6724,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

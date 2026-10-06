@@ -8,6 +8,9 @@
     "dark-hose",
     "hellboy-1"
   ],
+  "sources": [
+    "archive"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

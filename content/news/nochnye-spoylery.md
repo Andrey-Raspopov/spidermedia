@@ -1,7 +1,10 @@
 {
   "title": "Ночные спойлеры",
-  "date": "2010-02-25T19:34:00+03:00",
+  "date": "2010-02-25T19:34:09+03:00",
   "url": "/news/nochnye-spoylery/",
+  "aliases": [
+    "/node/2399/"
+  ],
   "original_url": "https://spidermedia.ru/news/nochnye-spoylery",
   "archived": "https://web.archive.org/web/20260115044606/https://spidermedia.ru/news/nochnye-spoylery",
   "tags": [
@@ -16,6 +19,12 @@
     "spojlery",
     "temnejshaya-noch",
     "blackest-night"
+  ],
+  "cover": "https://web.archive.org/web/20260115044606im_/http://spidermedia.ru/assets/images/import_image/2399.jpg",
+  "modx_id": 2399,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

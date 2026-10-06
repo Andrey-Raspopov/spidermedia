@@ -1,13 +1,22 @@
 {
   "title": "Гаджеты-Трансформеры",
-  "date": "2009-05-21T15:03:00+03:00",
+  "date": "2009-05-21T14:03:46+03:00",
   "url": "/blog/sterpazook/gadzhety-transformery/",
+  "aliases": [
+    "/node/1250/"
+  ],
   "original_url": "http://spidermedia.ru/blog/sterpazook/gadzhety-transformery",
   "archived": "https://web.archive.org/web/20190718072228/http://spidermedia.ru/blog/sterpazook/gadzhety-transformery",
   "tags": [
     "figurki",
     "gadzhety",
     "transformers"
+  ],
+  "cover": "https://web.archive.org/web/20150326221404im_/http://spidermedia.ru/assets/images/import_image/1250.jpg",
+  "modx_id": 1250,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

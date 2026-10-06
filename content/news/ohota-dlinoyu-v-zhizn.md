@@ -1,7 +1,10 @@
 {
   "title": "Охота длиною в жизнь",
-  "date": "2010-03-06T01:07:00+03:00",
+  "date": "2010-03-06T01:07:30+03:00",
   "url": "/news/ohota-dlinoyu-v-zhizn/",
+  "aliases": [
+    "/node/2421/"
+  ],
   "original_url": "https://spidermedia.ru/news/ohota-dlinoyu-v-zhizn",
   "archived": "https://web.archive.org/web/20260211190231/https://spidermedia.ru/news/ohota-dlinoyu-v-zhizn",
   "tags": [
@@ -16,7 +19,13 @@
     "art-0",
     "marvel",
     "kraven",
-    "spider-man"
+    "spider-man",
+    "art"
+  ],
+  "modx_id": 2421,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

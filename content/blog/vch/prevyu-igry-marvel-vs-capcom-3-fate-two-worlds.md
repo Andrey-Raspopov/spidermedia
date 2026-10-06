@@ -1,12 +1,18 @@
 {
   "title": "Превью игры Marvel vs. Capcom 3: Fate of Two Worlds",
-  "date": "2011-02-10T16:19:00+03:00",
+  "date": "2011-02-10T16:19:42+03:00",
   "url": "/blog/vch/prevyu-igry-marvel-vs-capcom-3-fate-two-worlds/",
   "original_url": "http://spidermedia.ru/blog/vch/prevyu-igry-marvel-vs-capcom-3-fate-two-worlds",
   "archived": "https://web.archive.org/web/20260214133034/http://spidermedia.ru/blog/vch/prevyu-igry-marvel-vs-capcom-3-fate-two-worlds",
   "tags": [
     "igry",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150326061804im_/http://spidermedia.ru/assets/images/import_image/3300.jpg",
+  "modx_id": 3300,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

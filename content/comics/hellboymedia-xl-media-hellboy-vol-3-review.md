@@ -9,6 +9,12 @@
     "zarubezhnye-komiksy-na-russkom",
     "obzor"
   ],
+  "cover": "https://web.archive.org/web/20180202050157im_/http://spidermedia.ru/assets/images/hellboymedia/local/review-hellboy-vol-03/hellboy-the-chained-coffin-russian-edition-cover.jpg",
+  "modx_id": 101063,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

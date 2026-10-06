@@ -1,7 +1,10 @@
 {
   "title": "Озборн против семьи",
-  "date": "2009-03-14T22:18:00+03:00",
+  "date": "2009-03-14T21:18:23+03:00",
   "url": "/news/ozborn-protiv-semi/",
+  "aliases": [
+    "/node/684/"
+  ],
   "original_url": "http://spidermedia.ru/news/ozborn-protiv-semi",
   "archived": "https://web.archive.org/web/20120607164501/http://spidermedia.ru/news/ozborn-protiv-semi",
   "tags": [
@@ -11,7 +14,13 @@
     "komiksy",
     "marvel",
     "paskal-ferri",
-    "fantasticheskaya-chetverka"
+    "fantasticheskaya-chetverka",
+    "art"
+  ],
+  "modx_id": 684,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

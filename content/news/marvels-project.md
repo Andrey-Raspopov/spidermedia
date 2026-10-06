@@ -1,7 +1,10 @@
 {
   "title": "The Marvels Project",
-  "date": "2009-05-24T01:06:00+03:00",
+  "date": "2009-05-24T00:06:09+03:00",
   "url": "/news/marvels-project/",
+  "aliases": [
+    "/node/1267/"
+  ],
   "original_url": "https://spidermedia.ru/news/marvels-project",
   "archived": "https://web.archive.org/web/20260121015102/https://spidermedia.ru/news/marvels-project",
   "tags": [
@@ -12,6 +15,12 @@
     "namor",
     "marvel",
     "human-torch"
+  ],
+  "cover": "https://web.archive.org/web/20260121015102im_/http://spidermedia.ru/assets/images/import_image/1267.jpg",
+  "modx_id": 1267,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

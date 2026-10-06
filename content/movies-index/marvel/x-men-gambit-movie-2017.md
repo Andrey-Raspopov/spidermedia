@@ -4,6 +4,9 @@
   "url": "/movies-index/marvel/x-men-gambit-movie-2017/",
   "original_url": "https://spidermedia.ru/movies-index/marvel/x-men-gambit-movie-2017",
   "archived": "https://web.archive.org/web/20250906065025/https://spidermedia.ru/movies-index/marvel/x-men-gambit-movie-2017",
+  "sources": [
+    "archive"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

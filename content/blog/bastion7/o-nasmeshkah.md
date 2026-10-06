@@ -1,6 +1,6 @@
 {
   "title": "О насмешках",
-  "date": "2009-02-08T23:13:00+03:00",
+  "date": "2009-02-08T22:13:32+03:00",
   "url": "/blog/bastion7/o-nasmeshkah/",
   "original_url": "http://spidermedia.ru/blog/bastion7/o-nasmeshkah",
   "archived": "https://web.archive.org/web/20120607150203/http://spidermedia.ru/blog/bastion7/o-nasmeshkah",
@@ -8,6 +8,11 @@
     "kino",
     "komiksy",
     "mysli"
+  ],
+  "modx_id": 277,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

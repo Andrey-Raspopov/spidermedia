@@ -7,6 +7,12 @@
   "tags": [
     "gamermedia"
   ],
+  "cover": "https://web.archive.org/web/20180201131937im_/http://spidermedia.ru/assets/images/games/igromir2016/zastakigrom.jpg",
+  "modx_id": 101357,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

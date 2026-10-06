@@ -1,7 +1,10 @@
 {
   "title": "Star Trek: посмотрели фильм - прочтите комикс!",
-  "date": "2009-05-12T21:58:00+03:00",
+  "date": "2009-05-12T20:58:26+03:00",
   "url": "/blog/igrok/star-trek-posmotreli-film-prochtite-komiks/",
+  "aliases": [
+    "/node/1167/"
+  ],
   "original_url": "http://spidermedia.ru/blog/igrok/star-trek-posmotreli-film-prochtite-komiks",
   "archived": "https://web.archive.org/web/20251014042908/http://spidermedia.ru/blog/igrok/star-trek-posmotreli-film-prochtite-komiks",
   "tags": [
@@ -9,6 +12,12 @@
     "ssylki",
     "j.-j.-abrams",
     "zvezdnyj-put"
+  ],
+  "cover": "https://web.archive.org/web/20251014042908im_/http://spidermedia.ru/assets/images/import_image/1167.jpg",
+  "modx_id": 1167,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

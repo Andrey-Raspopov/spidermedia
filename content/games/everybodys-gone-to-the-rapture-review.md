@@ -4,6 +4,12 @@
   "url": "/games/everybodys-gone-to-the-rapture-review/",
   "original_url": "http://spidermedia.ru/games/everybodys-gone-to-the-rapture-review",
   "archived": "https://web.archive.org/web/20260124062300/http://spidermedia.ru/games/everybodys-gone-to-the-rapture-review",
+  "cover": "https://web.archive.org/web/20160611150103im_/http://spidermedia.ru/assets/images/games/rapture/rapture1.jpg",
+  "modx_id": 100470,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

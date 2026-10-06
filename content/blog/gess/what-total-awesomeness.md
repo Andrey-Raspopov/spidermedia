@@ -1,7 +1,10 @@
 {
   "title": "What is total awesomeness?",
-  "date": "2009-02-01T23:57:00+03:00",
+  "date": "2009-02-01T23:57:07+03:00",
   "url": "/blog/gess/what-total-awesomeness/",
+  "aliases": [
+    "/node/88/"
+  ],
   "original_url": "http://spidermedia.ru/blog/gess/what-total-awesomeness",
   "archived": "https://web.archive.org/web/20190820211608/http://spidermedia.ru:80/blog/gess/what-total-awesomeness",
   "tags": [
@@ -9,6 +12,12 @@
     "bryan-lee-o-malley",
     "oni-press",
     "scott-pilgrim"
+  ],
+  "cover": "https://web.archive.org/web/20150428180306im_/http://spidermedia.ru/assets/images/import_image/88.jpg",
+  "modx_id": 88,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -4,6 +4,12 @@
   "url": "/comics/happy-holidays/",
   "original_url": "http://spidermedia.ru/comics/happy-holidays",
   "archived": "https://web.archive.org/web/20200221075157/http://spidermedia.ru:80/comics/happy-holidays",
+  "cover": "https://web.archive.org/web/20200221075157im_/http://spidermedia.ru/assets/images/nuehiy5mecm.jpg",
+  "modx_id": 101786,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

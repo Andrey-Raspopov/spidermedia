@@ -8,6 +8,12 @@
     "dc-comics",
     "spidermedia-15th-anniversary"
   ],
+  "cover": "https://web.archive.org/web/20170910015738im_/http://spidermedia.ru/assets/images/tv/smallville/smallville_logo.png",
+  "modx_id": 101457,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

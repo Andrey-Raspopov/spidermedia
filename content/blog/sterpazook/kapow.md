@@ -1,6 +1,6 @@
 {
   "title": "Комик Кон в Лондоне: Взгляд изнутри",
-  "date": "2011-04-11T02:16:00+03:00",
+  "date": "2011-04-11T01:16:05+03:00",
   "url": "/blog/sterpazook/kapow/",
   "original_url": "https://spidermedia.ru/blog/sterpazook/kapow",
   "archived": "https://web.archive.org/web/20260214143316/https://spidermedia.ru/blog/sterpazook/kapow",
@@ -9,6 +9,12 @@
     "komik-kon-v-londone",
     "industriya",
     "kapow-comic-con"
+  ],
+  "cover": "https://web.archive.org/web/20260214143316im_/http://spidermedia.ru/assets/images/import_image/4869.jpg",
+  "modx_id": 4869,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

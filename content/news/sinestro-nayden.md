@@ -1,12 +1,18 @@
 {
   "title": "Синестро найден?",
-  "date": "2010-01-16T14:11:00+03:00",
+  "date": "2010-01-16T14:11:54+03:00",
   "url": "/news/sinestro-nayden/",
   "original_url": "https://spidermedia.ru/news/sinestro-nayden",
   "archived": "https://web.archive.org/web/20251216181907/https://spidermedia.ru/news/sinestro-nayden",
   "tags": [
     "sinestro",
     "green-lantern"
+  ],
+  "cover": "https://web.archive.org/web/20251216181907im_/http://spidermedia.ru/assets/images/import_image/2270.jpg",
+  "modx_id": 2270,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

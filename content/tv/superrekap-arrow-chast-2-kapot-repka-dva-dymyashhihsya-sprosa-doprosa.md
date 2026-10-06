@@ -7,6 +7,12 @@
   "tags": [
     "dc-comics"
   ],
+  "cover": "https://web.archive.org/web/20170801193001im_/http://spidermedia.ru/assets/images/superrekap/arrow-20-04-2017/arrow-20-04-2017-cover-03.jpg",
+  "modx_id": 101546,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

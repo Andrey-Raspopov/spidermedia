@@ -1,6 +1,6 @@
 {
   "title": "Выбери 70 лучших комиксов Марвел",
-  "date": "2009-02-04T12:51:00+03:00",
+  "date": "2009-02-04T12:51:40+03:00",
   "url": "/news/vyberi-70-luchshih-komiksov-marvel/",
   "original_url": "http://spidermedia.ru/news/vyberi-70-luchshih-komiksov-marvel",
   "archived": "https://web.archive.org/web/20181213163019/http://spidermedia.ru:80/news/vyberi-70-luchshih-komiksov-marvel",
@@ -8,6 +8,12 @@
     "industriya",
     "golosovanie",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20180315050804im_/http://spidermedia.ru/assets/images/import_image/173.gif",
+  "modx_id": 173,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

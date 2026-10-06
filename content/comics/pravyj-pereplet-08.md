@@ -8,11 +8,15 @@
     "manga",
     "right-binding"
   ],
+  "cover": "https://web.archive.org/web/20250116124245im_/http://spidermedia.ru/assets/images/manga/pp-08/000.jpg",
+  "modx_id": 101645,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
-
-[![](https://spidermedia.ru/assets/cache/images/manga/pp-08/622x-000.2e9.jpg)](https://spidermedia.ru/assets/images/manga/pp-08/000.jpg)
 
 Пусть я не считаю нетфликсовскую [«Кастлванию»](../../animation/review-castlevania/) особо удачным сериалом, этот проект оказался для компании успешным (плюс, *Blame!* сыграл свою роль), и аниме-направление, судя по недавним новостям, будет все крепчать и шириться. Так что в скором времени на *Netflix,* помимо японских новинок, появятся и полностью оригинальные работы — [Devilman сrybaby](https://www.youtube.com/watch?v=b9-CbhrXy7I) и [A.I.C.O. -Incarnation-](https://www.youtube.com/watch?v=CCfYQnOLHV0). Конечно, это все замечательно, но почему в русском сегменте сервиса до сих пор нет «Вольтрона»? Что опять искать новые серии где попало?
 
@@ -28,70 +32,37 @@
 
 **Икс Эл** планирует выпустить девять томов истории (относительно продолжения *Gunnm: Last Order* пока ничего не известно) в увеличенном формате и с цветными вклейками. Остается надеяться, что отечественное издание не станут откладывать до премьеры фильма Кэмерона.
 
-[![](https://spidermedia.ru/assets/images/manga/pp-08/xl-01.jpg)](./)
-[![](https://spidermedia.ru/assets/images/manga/pp-08/xl-02.jpg)](./)
-[![](https://spidermedia.ru/assets/images/manga/pp-08/xl-03.jpg)](./)
+![](https://web.archive.org/web/20250116124245im_/http://spidermedia.ru/assets/images/manga/pp-08/xl-01.jpg)![](https://web.archive.org/web/20250116124245im_/http://spidermedia.ru/assets/images/manga/pp-08/xl-02.jpg)![](https://web.archive.org/web/20250116124245im_/http://spidermedia.ru/assets/images/manga/pp-08/xl-03.jpg)
 
 Также **XL****Media** во всю работает над другой своей НФ-серий: **«Рыцари Сидонии»** вот-вот уйдут в печать, а пока смотрим на отечественную локализацию обложек первых трех книг (меня одного напрягают кавычки в названии?).
 
-[![](https://spidermedia.ru/assets/images/manga/pp-08/xl-04.jpg)](https://spidermedia.ru/assets/images/manga/pp-08/xl-04.jpg)
-
-[![](https://spidermedia.ru/assets/images/manga/pp-08/xl-05.jpg)](https://spidermedia.ru/assets/images/manga/pp-08/xl-05.jpg)
-
-[![](https://spidermedia.ru/assets/images/manga/pp-08/xl-06.jpg)](https://spidermedia.ru/assets/images/manga/pp-08/xl-06.jpg)
+![](https://web.archive.org/web/20250116124245im_/http://spidermedia.ru/assets/images/manga/pp-08/xl-04.jpg)![](https://web.archive.org/web/20250116124245im_/http://spidermedia.ru/assets/images/manga/pp-08/xl-05.jpg)![](https://web.archive.org/web/20250116124245im_/http://spidermedia.ru/assets/images/manga/pp-08/xl-06.jpg)
 
 Злой рок по-прежнему преследует ранобэ **«Без игры жизни нет»**: весь тираж оказался с браком (выпадают страницы) и отправился на перепечатку. По новому плану книга должна выйти 10 августа. А вот третьему **«Я — Сакамото, а что?»** и четырнадцатому **«У меня мало друзей»** повезло больше — эти томики можно смело спрашивать в магазинах.
 
-[![](https://spidermedia.ru/assets/images/manga/pp-08/xl-07.jpg)](./)
-[![](https://spidermedia.ru/assets/images/manga/pp-08/xl-08.jpg)](./)
+![](https://web.archive.org/web/20250116124245im_/http://spidermedia.ru/assets/images/manga/pp-08/xl-07.jpg)![](https://web.archive.org/web/20250116124245im_/http://spidermedia.ru/assets/images/manga/pp-08/xl-08.jpg)
 
 **«Истари комикс»** в дополнение к фильму Макото Синкая **«Твое имя»**, который 7 сентября стартует в российском прокате, издаст одноименные ранобэ («секретная» позиция текущего предзаказа) и мангу (ее релиз намечен на середину октября, всего в серии 3 тома). Плюс, из типографии потихоньку начинают выбираться новые книжки: первые два тома **«Девочки из Чужеземья»** приехали на склад издательства.
 
-[![](https://spidermedia.ru/assets/images/manga/pp-08/ic-01.jpg)](./)
-[![](https://spidermedia.ru/assets/images/manga/pp-07/05-7.jpg)](./)
-[![](https://spidermedia.ru/assets/images/manga/pp-07/05-8.jpg)](./)
+![](https://web.archive.org/web/20250116124245im_/http://spidermedia.ru/assets/images/manga/pp-08/ic-01.jpg)![](https://web.archive.org/web/20250116124245im_/http://spidermedia.ru/assets/images/manga/pp-07/05-7.jpg)![](https://web.archive.org/web/20250116124245im_/http://spidermedia.ru/assets/images/manga/pp-07/05-8.jpg)
 
 **Alt Graph** стоически продолжает выпускать произведения, за которые бы вряд ли взялся кто другой. **«Жертвы чёрного дождя»** Кэйдзи Накадзавы вновь поднимают тему бомбардировки Хиросимы, сборник рассказывает о жертвах катастрофы, о том, как даже спустя десятилетия они так и не смогли вернуться к нормальной жизни. Том уже в продаже. По сложившейся традиции, русская обложка выполнена Николаем Писаревым.
 
-[![](https://spidermedia.ru/assets/images/manga/pp-08/alt-01.jpg)](https://spidermedia.ru/assets/images/manga/pp-08/alt-01.jpg)
-
-[![](https://spidermedia.ru/assets/images/manga/pp-08/alt-02.jpg)](https://spidermedia.ru/assets/images/manga/pp-08/alt-02.jpg)
-
-[![](https://spidermedia.ru/assets/images/manga/pp-08/alt-03.jpg)](https://spidermedia.ru/assets/images/manga/pp-08/alt-03.jpg)
-
-[![](https://spidermedia.ru/assets/images/manga/pp-08/alt-04.jpg)](https://spidermedia.ru/assets/images/manga/pp-08/alt-04.jpg)
-
-[![](https://spidermedia.ru/assets/images/manga/pp-08/alt-05.jpg)](https://spidermedia.ru/assets/images/manga/pp-08/alt-05.jpg)
-
-[![](https://spidermedia.ru/assets/images/manga/pp-08/alt-06.jpg)](https://spidermedia.ru/assets/images/manga/pp-08/alt-06.jpg)
+![](https://web.archive.org/web/20250116124245im_/http://spidermedia.ru/assets/images/manga/pp-08/alt-01.jpg)![](https://web.archive.org/web/20250116124245im_/http://spidermedia.ru/assets/images/manga/pp-08/alt-02.jpg)![](https://web.archive.org/web/20250116124245im_/http://spidermedia.ru/assets/images/manga/pp-08/alt-03.jpg)![](https://web.archive.org/web/20250116124245im_/http://spidermedia.ru/assets/images/manga/pp-08/alt-04.jpg)![](https://web.archive.org/web/20250116124245im_/http://spidermedia.ru/assets/images/manga/pp-08/alt-05.jpg)![](https://web.archive.org/web/20250116124245im_/http://spidermedia.ru/assets/images/manga/pp-08/alt-06.jpg)
 
 В суровом производственном графике **«Азбуки»** хватило немного места и для манги — 7-ой омнибус **«Атаки на титанов»** отправляется в печать. События книги переваливают за второй сезон аниме-экранизации, двигаясь прямиком к моей любимой арке о происхождении Хистории и королевском роде Рейссов.
 
-[![](https://web.archive.org/web/20241201175712im_/http://spidermedia.ru/assets/images/manga/pp-08/az-01.jpg)](https://web.archive.org/web/20241201175712im_/http://spidermedia.ru/assets/images/manga/pp-08/az-01.jpg)
-
-[![](https://web.archive.org/web/20241201182040im_/http://spidermedia.ru/assets/images/manga/pp-08/az-02.jpg)](https://web.archive.org/web/20241201182040im_/http://spidermedia.ru/assets/images/manga/pp-08/az-02.jpg)
-
-[![](https://web.archive.org/web/20241201180910im_/http://spidermedia.ru/assets/images/manga/pp-08/az-03.jpg)](https://web.archive.org/web/20241201180910im_/http://spidermedia.ru/assets/images/manga/pp-08/az-03.jpg)
+![](https://web.archive.org/web/20241201175712im_/http://spidermedia.ru/assets/images/manga/pp-08/az-01.jpg)![](https://web.archive.org/web/20241201182040im_/http://spidermedia.ru/assets/images/manga/pp-08/az-02.jpg)![](https://web.archive.org/web/20241201180910im_/http://spidermedia.ru/assets/images/manga/pp-08/az-03.jpg)
 
 **«Фабрика комиксов»** тожеслегка оторвалась от комиксов разной степени детскости/взрослости и вспомнила про свои старые лицензии. В типографию уходят 5-ый и 6-ой тома **«Нелюбимого»** (спустякаких-то три года после релиза 4-ого) и **«Железный миротворец»** за номером 5.
 
-[![](https://web.archive.org/web/20250611062301im_/http://spidermedia.ru/assets/images/manga/pp-08/fc-01.jpg)](./)
-[![](https://spidermedia.ru/assets/images/manga/pp-08/fc-02.jpg)](./)
-[![](https://web.archive.org/web/20241201180432im_/http://spidermedia.ru/assets/images/manga/pp-08/fc-03.jpg)](./)
+![](https://web.archive.org/web/20250611062301im_/http://spidermedia.ru/assets/images/manga/pp-08/fc-01.jpg)![](https://web.archive.org/web/20250116124245im_/http://spidermedia.ru/assets/images/manga/pp-08/fc-02.jpg)![](https://web.archive.org/web/20241201180432im_/http://spidermedia.ru/assets/images/manga/pp-08/fc-03.jpg)
 
 Фабричная манхва **«Джек Фрост»** стала еще на один шаг ближе к финалу — предпоследний десятый томик вышел в свет. Еще (правда, непонятно для кого) издательствовыпустило целых три (со 2-ой по 4-ую) книги из серии **«Бейблэйд. Горячий металл»**.
 
 Ну, и не отходя от тайтлов, которых никто мало кто не ждет, **АСТ** представило обложку адаптации **«Механической принцессы»**, завершающей трилогию **«Адские** **механизмы****»**.
 
-[![](https://spidermedia.ru/assets/images/manga/pp-07/03-1.jpg)](https://spidermedia.ru/assets/images/manga/pp-07/03-1.jpg)
-
-[![](https://spidermedia.ru/assets/images/manga/pp-08/fc-05.jpg)](https://spidermedia.ru/assets/images/manga/pp-08/fc-05.jpg)
-
-[![](https://spidermedia.ru/assets/images/manga/pp-08/fc-06.jpg)](https://spidermedia.ru/assets/images/manga/pp-08/fc-06.jpg)
-
-[![](https://spidermedia.ru/assets/images/manga/pp-08/fc-07.jpg)](https://spidermedia.ru/assets/images/manga/pp-08/fc-07.jpg)
-
-[![](https://spidermedia.ru/assets/images/manga/pp-08/fc-08.jpg)](https://spidermedia.ru/assets/images/manga/pp-08/fc-08.jpg)
+![](https://web.archive.org/web/20250116124245im_/http://spidermedia.ru/assets/images/manga/pp-07/03-1.jpg)![](https://web.archive.org/web/20250116124245im_/http://spidermedia.ru/assets/images/manga/pp-08/fc-05.jpg)![](https://web.archive.org/web/20250116124245im_/http://spidermedia.ru/assets/images/manga/pp-08/fc-06.jpg)![](https://web.archive.org/web/20250116124245im_/http://spidermedia.ru/assets/images/manga/pp-08/fc-07.jpg)![](https://web.archive.org/web/20250116124245im_/http://spidermedia.ru/assets/images/manga/pp-08/fc-08.jpg)
 
 ---
 
@@ -101,7 +72,7 @@
 
 #### Fate/Apocrypha
 
-![](https://spidermedia.ru/assets/cache/images/youtube/622x350-YEK3gVRtG3I.3e9.jpg)
+<iframe allowfullscreen="" frameborder="0" height="360" src="http://www.youtube.com/embed/YEK3gVRtG3I?wmode=transparent" width="640"></iframe>
 
 Жанр: приключения, фэнтези
 Число эпизодов: 25
@@ -134,3 +105,48 @@
 **ЧИТАЕМ**
 
 ---
+
+a:2:{i:1;a:7:{s:5:"autor";a:3:{i:1;a:2:{i:0;s:12:"[Автор]";i:1;s:15:"Ли Сонён";}i:3;a:2:{i:0;s:51:"[Оригинальное издательство]";i:1;s:6:"Haksan";}i:5;a:2:{i:0;s:33:"[Количество томов]";i:1;s:1:"5";}}s:4:"name";s:22:"Песня куклы ";s:7:"edition";s:10:"Том 1-5";s:5:"cover";s:34:"assets/images/manga/pp-08/ds-c.jpg";s:9:"publisher";s:4:"3134";s:4:"year";s:9:"2011-2013";s:8:"comments";a:1:{i:1;a:4:{s:5:"autor";s:6:"183732";s:4:"text";s:6697:"
+
+Изначально у этого выпуска ПП должна была быть совсем другая «центральная» тема (т.е. планировались совершенно другие вещи в разделе рецензий), но в последний момент я решил все поменять и поговорить о манхве, тем более у «Истари» тогда как раз вышла «Библиотека вампиров». И вот почему: на мой взгляд, корейские серии незаслуженно обделяют вниманием, конечно, если это не веб-комиксы. Например, [«Егрина»](../carnivorous-princess-yegrinna-review/) или [«Излом»](../../blog/derden/manga-na-russkom-izlom-istari-komiks-0/) — приятные во многих смыслах истории (каждая по-своему, разумеется) не вызвали отклик у основной массы читателей и теперь не известно когда очень не скоро получат продолжение. И не хотелось бы, чтобы ту же «Библиотеку» (ну, и другую хорошую манхву) постигла подобная судьба. Но о ней чуть позже, сначала «Песня куклы», ведь она была раньше.
+
+*Существует давнее сказание о прекрасной кукле, которую дух сливового дерева создал из собственной ветви. В конце концов, она стала ему настолько дорога, что их судьбы сплелись воедино. Но однажды кукла покинула своего хозяина, чтобы жить среди людей.*
+
+Обычно писать краткий синопсис серии — это самая простая часть в рецензии, но с «Песней куклы» другой случай (по ряду причин). Тут сложно одновременно описать происходящее, при этом не выдав слишком много, и передать суть самой истории. И все-таки в качестве рекапа я выбрал легенду о духе и его кукле, проходящую лейтмотивом через всю манхву. Пусть она не дает четкого представления о событиях «Песни» (особенно первых томов), но она лучше отражает то, о чем произведение на самом деле.
+
+![](https://web.archive.org/web/20250116124245im_/http://spidermedia.ru/assets/images/manga/pp-08/ds-01.jpg)
+
+А оно целиком и полностью о чувствах, вернее, как заметила сама создательница, об отношения. Вообще, Ли Сонён в своих предисловиях/послесловиях крайне трезво оценивает свою работу: она подмечает моменты, которые не особо удались, и четно признается, что хотела писать не про людей (отсюда и недостаточная проработка персонажей), а об их отношения. И это ей удалось, сложное переплетение любви, предательства, вины и сожаления, что связывает главных героев (духа сливового дерева Кихёна, созданную им куклу Ухи и человека Сину, влюбившегося в нее и похитившего ее у хозяина) перетягивает на себя все внимание. Причем не только читательское. Автор так сосредоточенна на выражении чувств тройки, что забывает и про то, что должна куда-то двигать сюжет, и о том, что нужно раскрывать других персонажей и их линии (например, история Нари и ее наставника так и осталась висеть в воздухе). Нет, она лучше еще раз нарисует обнимающихся Кихёна и Ухи, говорящих о своих трагично-романтичных взаимоотношениях.
+
+Но стоит признать, смотреть на эти сцены одно удовольствие. Рисунок у Ли Сонён чертовски соблазнительный, все ее герои (кроме статистов) до невозможного прекрасны. Художница тратит огромное количество сил на прорисовку глаз и ресниц, из-за чего взгляды персонажей на некоторых кадрах просто приковывают к себе. Плюс, антураж средневековой Кореи дает где разгуляться в плане костюмов и причесок. Многослойные ткани, роскошная вышивка, цветочные заколки и водопады длинных волос — загляденье.
+
+В «Песне куклы» главенствуют чувства, и они заслоняют собой все: сюжет, стройность повествования и работу над персонажами. Хотя нужен ли арт-буку сценарий?
+
+";s:8:"mjdzText";s:0:"";s:10:"conclusion";s:0:"";}}}i:2;a:7:{s:5:"autor";a:3:{i:1;a:2:{i:0;s:12:"[Автор]";i:1;s:15:"Ли Сонён";}i:3;a:2:{i:0;s:51:"[Оригинальное издательство]";i:1;s:6:"Haksan";}i:5;a:2:{i:0;s:34:"[Количество томов ]";i:1;s:2:"7+";}}s:4:"name";s:37:"Библиотека вампиров";s:7:"edition";s:8:"Том 1";s:5:"cover";s:34:"assets/images/manga/pp-06/02-6.jpg";s:9:"publisher";s:4:"3134";s:4:"year";s:5:"2017-";s:8:"comments";a:1:{i:1;a:4:{s:5:"autor";s:6:"183732";s:4:"text";s:3738:"
+
+Ну, а теперь о более свежей и актуальной серии Ли Сонён.
+
+*Ю Мано, страдающий от насмешек из-за необычной внешности, устраивается на полставки в библиотеку, где собрана впечатляющая коллекция книг о вампирах, а все остальные сотрудники помешаны на вампирской тематике. И юноша бы с радостью уволился, если бы не укус в шею, который меняет все.*
+
+![](https://web.archive.org/web/20250116124245im_/http://spidermedia.ru/assets/images/manga/pp-08/vl-01.jpg)
+
+По «Библиотеке» сразу видно, как автор выросла профессионально. Первый том показывает образцово-показательный старт: не тратя время на лишние сцены, нас знакомят со всеми персонажами, четко обрисовывая их типажи (правда, это сделано не лучшим образом — через их бзики), представляют мир и объясняют «правила игры». Не забывают и про интригу, в самом конце засвечивают главного злодея. Все элементы сценария удачно подогнаны друг к другу, в результате чего, томик читается очень легко и без спотыканий.
+
+Еще мне понравилось, что для своей новой работы Ли Сонён выбрала направление, отличное от предыдущей (как по содержанию, так и по тону). «Песня куклы» была трагичной и камерной, «Библиотека вампиров», наоборот, более юморная и имеет потенциально больший размах. Кстати, о комедийной составляющей: она стала даваться автору проще. Да, смешные моменты были и в «Песне», но там они были вплетены не так органично. В «Библиотеке» же они все на своих местах.
+
+А вот с рисунком произошла интересная трансформация. Перенос места действия в условную современность лишил героев шикарных нарядов и ресницы прорисованы уже не столь пышно, но постановка кадра стала разнообразней, как и расположение самих фреймов на странице. Дизайн персонажей пострадал в угоду сторителлингу.
+
+«Библиотека вампиров» — легкая комедия с приятными персонажами и рисунком. Серия абсолютно ни на что не претендует, а просто дарит хорошее времяпровождение.
+
+";s:8:"mjdzText";s:366:"
+
+---
+
+**つづく...**
+
+---
+
+В следующем выпуске: спортивные аниме, августовские новинки и однотомники.
+«Правый переплет #09: займемся спортом».
+
+";s:10:"conclusion";s:0:"";}}}}

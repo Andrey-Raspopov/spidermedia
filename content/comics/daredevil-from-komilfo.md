@@ -9,6 +9,12 @@
     "komilfo",
     "daredevil"
   ],
+  "cover": "https://web.archive.org/web/20160611142821im_/http://spidermedia.ru/assets/images/news/komilfo/dd000.jpg",
+  "modx_id": 100150,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

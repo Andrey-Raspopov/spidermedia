@@ -1,6 +1,6 @@
 {
   "title": "Фильм \"Капитан Америка 3\" станет экранизацией \"Гражданской войны\"",
-  "date": "2014-10-14T22:08:00+03:00",
+  "date": "2014-10-14T21:08:13+03:00",
   "url": "/news/film-kapitan-amerika-3-stanet-ekranizaciey-grazhdanskoy-voyny/",
   "original_url": "http://spidermedia.ru/news/film-kapitan-amerika-3-stanet-ekranizaciey-grazhdanskoy-voyny",
   "archived": "https://web.archive.org/web/20251207005024/http://spidermedia.ru/news/film-kapitan-amerika-3-stanet-ekranizaciey-grazhdanskoy-voyny",
@@ -8,7 +8,14 @@
     "marvel",
     "captain-america",
     "iron-man",
-    "civil-war"
+    "civil-war",
+    "zheleznyy-chelovek"
+  ],
+  "cover": "https://web.archive.org/web/20251207005024im_/http://spidermedia.ru/assets/images/import_image/8184.jpg",
+  "modx_id": 8184,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

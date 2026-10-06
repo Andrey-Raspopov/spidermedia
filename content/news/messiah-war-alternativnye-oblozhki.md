@@ -1,7 +1,10 @@
 {
   "title": "Messiah War: Альтернативные обложки",
-  "date": "2009-03-06T03:01:00+03:00",
+  "date": "2009-03-06T03:01:04+03:00",
   "url": "/news/messiah-war-alternativnye-oblozhki/",
+  "aliases": [
+    "/node/603/"
+  ],
   "original_url": "https://spidermedia.ru/news/messiah-war-alternativnye-oblozhki",
   "archived": "https://web.archive.org/web/20260314080817/https://spidermedia.ru/news/messiah-war-alternativnye-oblozhki",
   "tags": [
@@ -12,7 +15,14 @@
     "deadpool",
     "strajf",
     "kejbl",
-    "stryfe"
+    "stryfe",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20260314080817im_/http://spidermedia.ru/assets/images/import_image/603.jpg",
+  "modx_id": 603,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

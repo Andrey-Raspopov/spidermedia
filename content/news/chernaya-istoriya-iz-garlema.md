@@ -1,7 +1,10 @@
 {
   "title": "Черная история из Гарлема",
-  "date": "2009-05-17T22:28:00+03:00",
+  "date": "2009-05-17T21:28:50+03:00",
   "url": "/news/chernaya-istoriya-iz-garlema/",
+  "aliases": [
+    "/node/1223/"
+  ],
   "original_url": "http://spidermedia.ru/news/chernaya-istoriya-iz-garlema",
   "archived": "https://web.archive.org/web/20200217104851/http://spidermedia.ru:80/news/chernaya-istoriya-iz-garlema",
   "tags": [
@@ -12,6 +15,11 @@
     "noirverse",
     "marvel",
     "luke-cage"
+  ],
+  "modx_id": 1223,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

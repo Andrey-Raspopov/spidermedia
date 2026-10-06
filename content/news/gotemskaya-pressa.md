@@ -1,7 +1,10 @@
 {
   "title": "Готэмская пресса",
-  "date": "2009-02-28T14:55:00+03:00",
+  "date": "2009-02-28T13:55:27+03:00",
   "url": "/news/gotemskaya-pressa/",
+  "aliases": [
+    "/node/542/"
+  ],
   "original_url": "http://spidermedia.ru/news/gotemskaya-pressa",
   "archived": "https://web.archive.org/web/20120718082017/http://spidermedia.ru/news/gotemskaya-pressa",
   "tags": [
@@ -9,7 +12,15 @@
     "dc-comics",
     "art-0",
     "komiksy",
-    "preview-s"
+    "preview-s",
+    "prevyu",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20120718082017im_/http://spidermedia.ru/assets/images/import_image/542.jpg",
+  "modx_id": 542,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

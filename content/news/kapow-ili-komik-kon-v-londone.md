@@ -1,7 +1,10 @@
 {
   "title": "Kapow! или Комик Кон в Лондоне",
-  "date": "2010-11-30T00:19:00+03:00",
+  "date": "2010-11-29T23:19:18+03:00",
   "url": "/news/kapow-ili-komik-kon-v-londone/",
+  "aliases": [
+    "/node/3088/"
+  ],
   "original_url": "http://www.spidermedia.ru/news/kapow-ili-komik-kon-v-londone",
   "archived": "https://web.archive.org/web/20120608131701/http://www.spidermedia.ru/news/kapow-ili-komik-kon-v-londone",
   "tags": [
@@ -10,6 +13,11 @@
     "konvencii",
     "mark-millar",
     "hudozhniki"
+  ],
+  "modx_id": 3088,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Игра Престолов. Теперь комикс. Теперь на русском языке",
-  "date": "2014-07-31T00:06:00+03:00",
+  "date": "2014-07-30T23:06:33+03:00",
   "url": "/news/igra-prestolov-teper-komiks-teper-na-russkom-yazyke/",
   "original_url": "http://spidermedia.ru/news/igra-prestolov-teper-komiks-teper-na-russkom-yazyke",
   "archived": "https://web.archive.org/web/20160925121737/http://spidermedia.ru:80/news/igra-prestolov-teper-komiks-teper-na-russkom-yazyke",
@@ -8,6 +8,12 @@
     "igra-prestolov",
     "zarubezhnye-komiksy-na-russkom",
     "ast"
+  ],
+  "cover": "https://web.archive.org/web/20160925121737im_/http://spidermedia.ru/assets/images/import_image/7951.jpg",
+  "modx_id": 7951,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

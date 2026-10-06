@@ -1,7 +1,10 @@
 {
   "title": "А Бенеса не узнать...",
-  "date": "2009-05-21T23:43:00+03:00",
+  "date": "2009-05-21T22:43:07+03:00",
   "url": "/news/benesa-ne-uznat/",
+  "aliases": [
+    "/node/1257/"
+  ],
   "original_url": "http://spidermedia.ru/news/benesa-ne-uznat",
   "archived": "https://web.archive.org/web/20260120233919/http://spidermedia.ru/news/benesa-ne-uznat",
   "tags": [
@@ -10,7 +13,14 @@
     "art-0",
     "dzhadd-vinik",
     "judd-winick",
-    "ed-benes"
+    "ed-benes",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20260120233919im_/http://spidermedia.ru/assets/images/import_image/1257.png",
+  "modx_id": 1257,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

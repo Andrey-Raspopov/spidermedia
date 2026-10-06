@@ -1,7 +1,10 @@
 {
   "title": "Постер \"Тора\" и концепт-арт \"Первого Мстителя\"",
-  "date": "2010-12-17T08:24:00+03:00",
+  "date": "2010-12-17T07:24:02+03:00",
   "url": "/news/poster-tora-i-koncept-art-pervogo-mstitelya/",
+  "aliases": [
+    "/node/3123/"
+  ],
   "original_url": "http://spidermedia.ru/news/poster-tora-i-koncept-art-pervogo-mstitelya",
   "archived": "https://web.archive.org/web/20120608144432/http://spidermedia.ru/news/poster-tora-i-koncept-art-pervogo-mstitelya",
   "tags": [
@@ -12,7 +15,14 @@
     "komiksy",
     "marvel",
     "pervyy-mstitel-kapitan-amerika",
-    "tor"
+    "tor",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20120608144432im_/http://spidermedia.ru/assets/images/import_image/3123.jpg",
+  "modx_id": 3123,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

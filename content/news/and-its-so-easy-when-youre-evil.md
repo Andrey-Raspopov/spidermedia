@@ -1,11 +1,17 @@
 {
   "title": "And it's so easy when you're evil (UPD: Ещё немного 3D-обложек)",
-  "date": "2013-06-03T18:46:00+03:00",
+  "date": "2013-06-03T17:46:20+03:00",
   "url": "/news/and-its-so-easy-when-youre-evil/",
   "original_url": "http://spidermedia.ru/news/and-its-so-easy-when-youre-evil",
   "archived": "https://web.archive.org/web/20170715123905/http://spidermedia.ru:80/news/and-its-so-easy-when-youre-evil",
   "tags": [
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150502174535im_/http://spidermedia.ru/assets/images/import_image/7263.gif",
+  "modx_id": 7263,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

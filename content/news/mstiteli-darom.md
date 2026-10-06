@@ -1,7 +1,10 @@
 {
   "title": "Мстители даром",
-  "date": "2009-03-28T03:56:00+03:00",
+  "date": "2009-03-28T02:56:34+03:00",
   "url": "/news/mstiteli-darom/",
+  "aliases": [
+    "/node/797/"
+  ],
   "original_url": "http://spidermedia.ru/news/mstiteli-darom",
   "archived": "https://web.archive.org/web/20120607094657/http://spidermedia.ru/news/mstiteli-darom",
   "tags": [
@@ -14,7 +17,15 @@
     "novye-mstiteli",
     "preview-s",
     "tyomnye-mstiteli",
-    "tor"
+    "tor",
+    "avengers",
+    "brian-michael-bendis",
+    "prevyu"
+  ],
+  "modx_id": 797,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

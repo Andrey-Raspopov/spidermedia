@@ -1,6 +1,6 @@
 {
   "title": "Мастрид манги от Дердена #2: Hideout, Green Blood, Какидзаки Масасуми",
-  "date": "2014-10-23T12:43:00+03:00",
+  "date": "2014-10-23T11:43:24+03:00",
   "url": "/blog/derden/mastrid-mangi-ot-derdena-2-hideout-green-blood-kakidzaki-masasumi-0/",
   "original_url": "https://spidermedia.ru/blog/derden/mastrid-mangi-ot-derdena-2-hideout-green-blood-kakidzaki-masasumi-0",
   "archived": "https://web.archive.org/web/20251211032117/https://spidermedia.ru/blog/derden/mastrid-mangi-ot-derdena-2-hideout-green-blood-kakidzaki-masasumi-0",
@@ -8,6 +8,12 @@
     "obzor",
     "manga",
     "kakidzaki-masasumi"
+  ],
+  "cover": "https://web.archive.org/web/20251211032117im_/http://spidermedia.ru/assets/images/import_image/8215.jpg",
+  "modx_id": 8215,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

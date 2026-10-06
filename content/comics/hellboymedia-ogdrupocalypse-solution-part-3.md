@@ -7,6 +7,12 @@
   "tags": [
     "hellboymedia"
   ],
+  "cover": "https://web.archive.org/web/20160611203521im_/http://spidermedia.ru/assets/images/hellboymedia/notes/ogdrupocalypse-solution/part-3/ogdrupocalypse-solution-part-3-cover.jpg",
+  "modx_id": 100594,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

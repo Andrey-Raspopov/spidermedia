@@ -1,14 +1,24 @@
 {
   "title": "Detective Dance",
-  "date": "2009-04-06T23:49:00+03:00",
+  "date": "2009-04-06T22:49:28+03:00",
   "url": "/blog/naya/detective-dance/",
+  "aliases": [
+    "/node/874/"
+  ],
   "original_url": "http://spidermedia.ru/blog/naya/detective-dance",
   "archived": "https://web.archive.org/web/20111018214148/http://spidermedia.ru/blog/naya/detective-dance",
   "tags": [
     "manga",
     "one-shot",
     "action",
-    "skachat"
+    "skachat",
+    "manga-2"
+  ],
+  "cover": "https://web.archive.org/web/20111018214148im_/http://spidermedia.ru/assets/images/import_image/874.gif",
+  "modx_id": 874,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

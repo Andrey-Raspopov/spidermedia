@@ -1,12 +1,19 @@
 {
   "title": "4 сериала Марвел находятся в разработке",
-  "date": "2013-10-15T13:01:00+03:00",
+  "date": "2013-10-15T12:01:03+03:00",
   "url": "/news/4-seriala-marvel-nahodyatsya-v-razrabotke/",
   "original_url": "http://spidermedia.ru/news/4-seriala-marvel-nahodyatsya-v-razrabotke",
   "archived": "https://web.archive.org/web/20260213063332/http://spidermedia.ru/news/4-seriala-marvel-nahodyatsya-v-razrabotke",
   "tags": [
     "serialy",
-    "marvel"
+    "marvel",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20260213063332im_/http://spidermedia.ru/assets/images/import_image/7504.jpeg",
+  "modx_id": 7504,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -4,6 +4,12 @@
   "url": "/games/itogi-2020-videoigry/",
   "original_url": "http://spidermedia.ru/games/itogi-2020-videoigry",
   "archived": "https://web.archive.org/web/20250120034515/http://spidermedia.ru/games/itogi-2020-videoigry",
+  "cover": "https://web.archive.org/web/20250120034515im_/http://spidermedia.ru/assets/images/games/itogiigr2020/itog2020.jpg",
+  "modx_id": 102332,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

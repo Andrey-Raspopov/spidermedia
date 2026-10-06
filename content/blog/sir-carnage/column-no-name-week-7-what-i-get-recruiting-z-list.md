@@ -1,7 +1,10 @@
 {
   "title": "The Column With No Name - Week #7: This is what I get for recruiting from the Z-list.",
-  "date": "2009-05-03T04:18:00+03:00",
+  "date": "2009-05-03T03:18:31+03:00",
   "url": "/blog/sir-carnage/column-no-name-week-7-what-i-get-recruiting-z-list/",
+  "aliases": [
+    "/node/1085/"
+  ],
   "original_url": "http://spidermedia.ru/blog/sir-carnage/column-no-name-week-7-what-i-get-recruiting-z-list",
   "archived": "https://web.archive.org/web/20251207101722/http://spidermedia.ru/blog/sir-carnage/column-no-name-week-7-what-i-get-recruiting-z-list",
   "tags": [
@@ -15,6 +18,12 @@
     "fables",
     "dc-comics",
     "the-column-with-no-name"
+  ],
+  "cover": "https://web.archive.org/web/20150502175022im_/http://spidermedia.ru/assets/images/import_image/1085.jpg",
+  "modx_id": 1085,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

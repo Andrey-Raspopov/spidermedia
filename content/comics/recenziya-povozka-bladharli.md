@@ -7,6 +7,12 @@
   "tags": [
     "manga"
   ],
+  "cover": "https://web.archive.org/web/20251107035906im_/http://spidermedia.ru/assets/images/manga/povozka/image056.jpg",
+  "modx_id": 101507,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

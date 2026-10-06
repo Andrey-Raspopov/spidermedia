@@ -7,6 +7,12 @@
   "tags": [
     "marvel"
   ],
+  "cover": "https://web.archive.org/web/20171018034730im_/http://spidermedia.ru/assets/images/news/marvel/monsters-unleashed/monstersunleashed_promo.jpg",
+  "modx_id": 101406,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

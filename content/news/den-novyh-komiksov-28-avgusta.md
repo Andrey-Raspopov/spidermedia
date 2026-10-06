@@ -1,11 +1,20 @@
 {
   "title": "День новых комиксов: 28 августа",
-  "date": "2013-08-28T15:34:00+03:00",
+  "date": "2013-08-28T14:34:05+03:00",
   "url": "/news/den-novyh-komiksov-28-avgusta/",
+  "aliases": [
+    "/blog/redson/den-novyh-komiksov-28-avgusta/"
+  ],
   "original_url": "https://spidermedia.ru/news/den-novyh-komiksov-28-avgusta",
   "archived": "https://web.archive.org/web/20250804005240/https://spidermedia.ru/news/den-novyh-komiksov-28-avgusta",
   "tags": [
     "den-novyh-komiksov"
+  ],
+  "cover": "https://web.archive.org/web/20250804005240im_/http://spidermedia.ru/assets/images/import_image/7441.jpg",
+  "modx_id": 7441,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

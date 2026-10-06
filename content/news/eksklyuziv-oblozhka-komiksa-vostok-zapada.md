@@ -1,6 +1,6 @@
 {
   "title": "ЭКСКЛЮЗИВ: обложка комикса «ВОСТОК ЗАПАДА»",
-  "date": "2014-11-27T09:52:00+03:00",
+  "date": "2014-11-27T09:52:48+03:00",
   "url": "/news/eksklyuziv-oblozhka-komiksa-vostok-zapada/",
   "original_url": "http://spidermedia.ru/news/eksklyuziv-oblozhka-komiksa-vostok-zapada",
   "archived": "https://web.archive.org/web/20251115183034/http://spidermedia.ru/news/eksklyuziv-oblozhka-komiksa-vostok-zapada",
@@ -10,6 +10,12 @@
     "dzhonatan-hikman",
     "zarubezhnye-komiksy-na-russkom",
     "nik-dragotta"
+  ],
+  "cover": "https://web.archive.org/web/20251115183034im_/http://spidermedia.ru/assets/images/import_image/8323.jpg",
+  "modx_id": 8323,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

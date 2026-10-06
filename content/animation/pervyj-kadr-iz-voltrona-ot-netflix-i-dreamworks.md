@@ -4,6 +4,12 @@
   "url": "/animation/pervyj-kadr-iz-voltrona-ot-netflix-i-dreamworks/",
   "original_url": "http://spidermedia.ru/animation/pervyj-kadr-iz-voltrona-ot-netflix-i-dreamworks",
   "archived": "https://web.archive.org/web/20251206152324/http://spidermedia.ru/animation/pervyj-kadr-iz-voltrona-ot-netflix-i-dreamworks",
+  "cover": "https://web.archive.org/web/20220314071843im_/http://spidermedia.ru/assets/images/animation/misc/voltron/voltron-netflix-1.jpg",
+  "modx_id": 101030,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

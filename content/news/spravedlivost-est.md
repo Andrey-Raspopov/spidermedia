@@ -1,7 +1,10 @@
 {
   "title": "Справедливость есть",
-  "date": "2010-02-02T15:49:00+03:00",
+  "date": "2010-02-02T15:49:59+03:00",
   "url": "/news/spravedlivost-est/",
+  "aliases": [
+    "/node/2331/"
+  ],
   "original_url": "http://spidermedia.ru/news/spravedlivost-est",
   "archived": "https://web.archive.org/web/20250709053624/http://spidermedia.ru/news/spravedlivost-est",
   "tags": [
@@ -10,6 +13,12 @@
     "smallville",
     "justice-society-of-america",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20250709053624im_/http://spidermedia.ru/assets/images/import_image/2331.jpg",
+  "modx_id": 2331,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

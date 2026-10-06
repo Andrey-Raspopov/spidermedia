@@ -1,7 +1,10 @@
 {
   "title": "Две железные новинки",
-  "date": "2009-11-27T22:34:00+03:00",
+  "date": "2009-11-27T22:34:22+03:00",
   "url": "/news/dve-zheleznye-novinki/",
+  "aliases": [
+    "/node/2136/"
+  ],
   "original_url": "https://spidermedia.ru/news/dve-zheleznye-novinki",
   "archived": "https://web.archive.org/web/20260309174748/https://spidermedia.ru/news/dve-zheleznye-novinki",
   "tags": [
@@ -9,7 +12,17 @@
     "preview",
     "matt-fraction",
     "marvel",
-    "iron-man"
+    "iron-man",
+    "prevyu",
+    "mett-frakshen",
+    "zheleznyy-chelovek",
+    "invincible-iron-man"
+  ],
+  "cover": "https://web.archive.org/web/20260309174748im_/http://spidermedia.ru/assets/images/import_image/2136.jpg",
+  "modx_id": 2136,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

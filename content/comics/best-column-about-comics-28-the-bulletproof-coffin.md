@@ -8,6 +8,12 @@
     "best-column-about-comics",
     "mnenie"
   ],
+  "cover": "https://web.archive.org/web/20260211180708im_/http://spidermedia.ru/assets/images/best-column-about-comics/28-the-bulletproof-coffin/the-bulletproof-coffin-cover.jpg",
+  "modx_id": 101694,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

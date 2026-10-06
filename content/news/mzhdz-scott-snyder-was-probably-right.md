@@ -1,6 +1,6 @@
 {
   "title": "МЖДЗ: SCOTT (SNYDER) WAS (PROBABLY) RIGHT",
-  "date": "2012-10-18T23:49:00+03:00",
+  "date": "2012-10-18T22:49:38+03:00",
   "url": "/news/mzhdz-scott-snyder-was-probably-right/",
   "original_url": "https://spidermedia.ru/news/mzhdz-scott-snyder-was-probably-right",
   "archived": "https://web.archive.org/web/20260208204402/https://spidermedia.ru/news/mzhdz-scott-snyder-was-probably-right",
@@ -20,7 +20,15 @@
     "dzhonatan-hikman",
     "kiron-gillen",
     "dejl-iglshem",
-    "greg-capullo"
+    "greg-capullo",
+    "lyudi-iks",
+    "fantasticheskaya-chetverka"
+  ],
+  "cover": "https://web.archive.org/web/20260208204402im_/http://spidermedia.ru/assets/images/import_image/7069.png",
+  "modx_id": 7069,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

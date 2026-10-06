@@ -1,6 +1,6 @@
 {
   "title": "Number ones. Комиксы про спецназ.",
-  "date": "2012-06-17T16:54:00+03:00",
+  "date": "2012-06-17T15:54:37+03:00",
   "url": "/blog/plane-v/number-ones-komiksy-pro-specnaz/",
   "original_url": "http://spidermedia.ru/blog/plane-v/number-ones-komiksy-pro-specnaz",
   "archived": "https://web.archive.org/web/20250914001126/http://spidermedia.ru/blog/plane-v/number-ones-komiksy-pro-specnaz",
@@ -8,6 +8,12 @@
     "mark-millar",
     "garth-ennis",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150428172823im_/http://spidermedia.ru/assets/images/import_image/6936.jpg",
+  "modx_id": 6936,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

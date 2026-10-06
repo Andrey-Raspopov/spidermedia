@@ -1,6 +1,6 @@
 {
   "title": "Большие ДиСи Мысли. Часть 1. Скорость, цветы, электричество, юность",
-  "date": "2011-09-09T22:21:00+03:00",
+  "date": "2011-09-09T21:21:15+03:00",
   "url": "/blog/samm-o/bolshie-disi-mysli-chast-1-skorost-cvety-elektrichestvo-yunost/",
   "original_url": "http://spidermedia.ru/blog/samm-o/bolshie-disi-mysli-chast-1-skorost-cvety-elektrichestvo-yunost",
   "archived": "https://web.archive.org/web/20190915012939/http://spidermedia.ru:80/blog/samm-o/bolshie-disi-mysli-chast-1-skorost-cvety-elektrichestvo-yunost",
@@ -8,6 +8,12 @@
     "bdsm",
     "dc-comics",
     "mnenie"
+  ],
+  "cover": "https://web.archive.org/web/20190915012939im_/http://spidermedia.ru/assets/images/import_image/6601.jpg",
+  "modx_id": 6601,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

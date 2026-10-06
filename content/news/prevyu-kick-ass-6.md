@@ -1,7 +1,10 @@
 {
   "title": "Превью Kick-Ass #6",
-  "date": "2009-04-16T22:09:00+03:00",
+  "date": "2009-04-16T21:09:37+03:00",
   "url": "/news/prevyu-kick-ass-6/",
+  "aliases": [
+    "/node/964/"
+  ],
   "original_url": "http://spidermedia.ru/news/prevyu-kick-ass-6",
   "archived": "https://web.archive.org/web/20120718091022/http://spidermedia.ru/news/prevyu-kick-ass-6",
   "tags": [
@@ -12,13 +15,21 @@
     "komiksy",
     "mark-millar",
     "oblozhki",
-    "preview-s"
+    "preview-s",
+    "icon-comics",
+    "prevyu",
+    "art"
+  ],
+  "modx_id": 964,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }
 
-]]>[![TMSTRM001_cov.jpg - image uploaded to Picamatic](https://web.archive.org/web/20120718091022im_/http://comicbookresources.com/assets/phpThumb/phpThumb.php?src=/assets/images/preview/2422/prv2422_cov.jpg&w=150 "TMSTRM001_cov.jpg")](http://comicbookresources.com/?page=preview&id=2422&disp=table)]]> [Помните](../../node/795/) милую обложку шестого номера?
+]]>[![TMSTRM001_cov.jpg - image uploaded to Picamatic](https://web.archive.org/web/20120718091022im_/http://comicbookresources.com/assets/phpThumb/phpThumb.php?src=/assets/images/preview/2422/prv2422_cov.jpg&w=150 "TMSTRM001_cov.jpg")](http://comicbookresources.com/?page=preview&id=2422&disp=table)]]> [Помните](../potomu-chto-my-banda/) милую обложку шестого номера?
 
 Спешим обрадовать аж 6 страницами превью от **Марка Миллaра** *(Mark Millar)* и **Джона Ромиты Мл.** *(John Romita, Jr.)* - стоит только кликнуть на кавер слева. Развязка первого тома уже совсем близко!
 

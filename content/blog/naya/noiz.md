@@ -1,13 +1,20 @@
 {
   "title": "NOIZ",
-  "date": "2009-02-03T00:17:00+03:00",
+  "date": "2009-02-03T00:17:31+03:00",
   "url": "/blog/naya/noiz/",
   "original_url": "https://spidermedia.ru/blog/naya/noiz",
   "archived": "https://web.archive.org/web/20251107005717/https://spidermedia.ru/blog/naya/noiz",
   "tags": [
     "supernatural",
     "one-shot",
-    "manga"
+    "manga",
+    "manga-2"
+  ],
+  "cover": "https://web.archive.org/web/20251107005717im_/http://spidermedia.ru/assets/images/import_image/125.gif",
+  "modx_id": 125,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

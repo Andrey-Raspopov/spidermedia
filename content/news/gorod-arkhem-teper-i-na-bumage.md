@@ -1,6 +1,6 @@
 {
   "title": "Город Аркхэм - теперь и на бумаге",
-  "date": "2011-02-11T00:11:00+03:00",
+  "date": "2011-02-11T00:11:50+03:00",
   "url": "/news/gorod-arkhem-teper-i-na-bumage/",
   "original_url": "https://spidermedia.ru/news/gorod-arkhem-teper-i-na-bumage",
   "archived": "https://web.archive.org/web/20260309190211/https://spidermedia.ru/news/gorod-arkhem-teper-i-na-bumage",
@@ -10,6 +10,12 @@
     "pol-dini",
     "karlos-danda",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20260309190211im_/http://spidermedia.ru/assets/images/import_image/3310.jpg",
+  "modx_id": 3310,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

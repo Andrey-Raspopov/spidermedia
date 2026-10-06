@@ -1,6 +1,6 @@
 {
   "title": "Новости Marvel",
-  "date": "2013-07-12T02:17:00+03:00",
+  "date": "2013-07-12T01:17:12+03:00",
   "url": "/news/novosti-marvel-0/",
   "original_url": "https://spidermedia.ru/news/novosti-marvel-0",
   "archived": "https://web.archive.org/web/20260124052250/https://spidermedia.ru/news/novosti-marvel-0",
@@ -13,7 +13,14 @@
     "dzho-kiting",
     "adi-granov",
     "x-men",
-    "marvel"
+    "marvel",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20260124052250im_/http://spidermedia.ru/assets/images/import_image/7337.gif",
+  "modx_id": 7337,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

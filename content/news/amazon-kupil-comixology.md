@@ -1,12 +1,18 @@
 {
   "title": "Амазон купил ComiXology",
-  "date": "2014-04-27T23:27:00+03:00",
+  "date": "2014-04-27T22:27:38+03:00",
   "url": "/news/amazon-kupil-comixology/",
   "original_url": "http://spidermedia.ru/news/amazon-kupil-comixology",
   "archived": "https://web.archive.org/web/20260308234000/http://spidermedia.ru/news/amazon-kupil-comixology",
   "tags": [
     "cifrovye-komiksy",
     "comixology"
+  ],
+  "cover": "https://web.archive.org/web/20150327121620im_/http://spidermedia.ru/assets/images/import_image/7723.png",
+  "modx_id": 7723,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

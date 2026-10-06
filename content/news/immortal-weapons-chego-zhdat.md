@@ -1,6 +1,6 @@
 {
   "title": "Immortal Weapons: Чего ждать?",
-  "date": "2009-07-15T17:37:00+03:00",
+  "date": "2009-07-15T16:37:49+03:00",
   "url": "/news/immortal-weapons-chego-zhdat/",
   "original_url": "http://spidermedia.ru/news/immortal-weapons-chego-zhdat",
   "archived": "https://web.archive.org/web/20170425103706/http://spidermedia.ru:80/news/immortal-weapons-chego-zhdat",
@@ -9,6 +9,12 @@
     "bessmertnye-oruzhiya",
     "iron-fist",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20170425103706im_/http://spidermedia.ru/assets/images/import_image/1566.jpg",
+  "modx_id": 1566,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

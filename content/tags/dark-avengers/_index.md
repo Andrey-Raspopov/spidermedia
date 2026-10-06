@@ -1,3 +1,3 @@
 {
-  "title": "dark avengers"
+  "title": "Тёмные Мстители"
 }

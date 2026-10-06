@@ -1,7 +1,10 @@
 {
   "title": "NYCC'10: Ultimate Comics Captain America",
-  "date": "2010-10-10T23:46:00+03:00",
+  "date": "2010-10-10T22:46:19+03:00",
   "url": "/news/nycc10-ultimate-comics-captain-america/",
+  "aliases": [
+    "/node/2993/"
+  ],
   "original_url": "http://spidermedia.ru/news/nycc10-ultimate-comics-captain-america",
   "archived": "https://web.archive.org/web/20251216114047/http://spidermedia.ru/news/nycc10-ultimate-comics-captain-america",
   "tags": [
@@ -13,7 +16,14 @@
     "nycc-2010",
     "new-york-comic-con",
     "marvel",
-    "captain-america"
+    "captain-america",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20251216114047im_/http://spidermedia.ru/assets/images/import_image/2993.jpg",
+  "modx_id": 2993,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

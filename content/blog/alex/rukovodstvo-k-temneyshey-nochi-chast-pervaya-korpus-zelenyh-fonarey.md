@@ -1,7 +1,10 @@
 {
   "title": "Руководство к \"Темнейшей Ночи\" - Часть первая - Корпус Зеленых Фонарей",
-  "date": "2009-02-11T21:16:00+03:00",
+  "date": "2009-02-11T21:16:01+03:00",
   "url": "/blog/alex/rukovodstvo-k-temneyshey-nochi-chast-pervaya-korpus-zelenyh-fonarey/",
+  "aliases": [
+    "/node/316/"
+  ],
   "original_url": "https://spidermedia.ru/blog/alex/rukovodstvo-k-temneyshey-nochi-chast-pervaya-korpus-zelenyh-fonarey",
   "archived": "https://web.archive.org/web/20251014033842/https://spidermedia.ru/blog/alex/rukovodstvo-k-temneyshey-nochi-chast-pervaya-korpus-zelenyh-fonarey",
   "tags": [
@@ -10,6 +13,12 @@
     "green-lantern",
     "dc-comics",
     "blackest-night"
+  ],
+  "cover": "https://web.archive.org/web/20251014033842im_/http://spidermedia.ru/assets/images/import_image/316.png",
+  "modx_id": 316,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
@@ -20,12 +29,12 @@
 Предыдущие части:
 
 - **Часть первая - Корпус Зеленых Фонарей**
-- [Часть вторая - Supporting cast](../../../node/428/)
-- [Часть третья - Корпус Зеленых Фонарей (дополнение)](../../../node/1465/)
-- [Часть четвертая - Корпус Синестро](../../../node/1477/)
-- [Часть пятая - Корпус Синестро (продолжение)](../../../node/1490/)
-- [Часть шестая - Звездные Сапфиры и Красные Фонари](../../../node/1499/)
-- [Часть седьмая - Голубые Фонари, Агент Орандж, Племя Индиго и Черные Фонари](../../../node/1507/)
+- [Часть вторая - Supporting cast](../rukovodstvo-k-temneyshey-nochi-chast-vtoraya-supporting-cast/)
+- [Часть третья - Корпус Зеленых Фонарей (дополнение)](../rukovodstvo-k-temneyshey-nochi-chast-tretya-korpus-zelenyh-fonarey-dopolnenie/)
+- [Часть четвертая - Корпус Синестро](../rukovodstvo-k-temneyshey-nochi-chast-chetvertaya-korpus-sinestro/)
+- [Часть пятая - Корпус Синестро (продолжение)](../rukovodstvo-k-temneyshey-nochi-chast-pyataya-korpus-sinestro-prodolzhenie/)
+- [Часть шестая - Звездные Сапфиры и Красные Фонари](../rukovodstvo-k-temneyshey-nochi-chast-shestaya-zvezdnye-sapfiry-i-krasnye-fonari/)
+- [Часть седьмая - Голубые Фонари, Агент Орандж, Племя Индиго и Черные Фонари](../rukovodstvo-k-temneyshey-nochi-chast-sedmaya-golubye-fonari-agent-orandzh-plemya-indigo-i/)
 
 Гид будет состоять из двух частей – Персонажи и События. Все охватить я просто не в состоянии, да и вряд ли у вас хватит терпения все это изучить, так что обойдемся кратким описанием, тем более что к этому призывает как логика (наличием большого числа персонажей), так и формат (краткость – сестра таланта). В первой, настоящей, части мы, а вернее вы, познакомитесь с главными действующими лицами и определенными объектами истории. Т.к. все-таки данный обзор направлен на подготовку к «Темнейшей Ночи», поэтому людям собирающимся прочитать «Войну Синестро» советуется или воздержаться от прочтения, или читать на свой страх и риск. Естественно, я попытаюсь обойти это минимальной кровью, но все равно без освещения «ВС» не получится. Итак, идите на свет Зеленого Фонаря
 

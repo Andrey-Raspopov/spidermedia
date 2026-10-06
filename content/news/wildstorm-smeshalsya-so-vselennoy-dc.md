@@ -1,6 +1,6 @@
 {
   "title": "Wildstorm смешался со вселенной DC",
-  "date": "2011-06-09T19:58:00+03:00",
+  "date": "2011-06-09T18:58:26+03:00",
   "url": "/news/wildstorm-smeshalsya-so-vselennoy-dc/",
   "original_url": "http://spidermedia.ru/news/wildstorm-smeshalsya-so-vselennoy-dc",
   "archived": "https://web.archive.org/web/20251107032904/http://spidermedia.ru/news/wildstorm-smeshalsya-so-vselennoy-dc",
@@ -31,6 +31,12 @@
     "jimmy-palmiotti",
     "deathstroke",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20251107032904im_/http://spidermedia.ru/assets/images/import_image/6408.jpg",
+  "modx_id": 6408,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

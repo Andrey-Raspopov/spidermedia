@@ -1,7 +1,10 @@
 {
   "title": "Son of the Watchmen",
-  "date": "2010-07-22T21:20:00+03:00",
+  "date": "2010-07-22T20:20:28+03:00",
   "url": "/news/son-watchmen/",
+  "aliases": [
+    "/node/2770/"
+  ],
   "original_url": "https://spidermedia.ru/news/son-watchmen",
   "archived": "https://web.archive.org/web/20250325091606/https://spidermedia.ru/news/son-watchmen",
   "tags": [
@@ -9,6 +12,12 @@
     "alan-mur",
     "hraniteli",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20250325091606im_/http://spidermedia.ru/assets/images/import_image/2770.jpg",
+  "modx_id": 2770,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

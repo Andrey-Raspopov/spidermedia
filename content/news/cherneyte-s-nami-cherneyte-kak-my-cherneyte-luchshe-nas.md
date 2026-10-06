@@ -1,7 +1,10 @@
 {
   "title": "Чернейте с нами, чернейте как мы, чернейте лучше нас!",
-  "date": "2009-07-13T14:49:00+03:00",
+  "date": "2009-07-13T13:49:25+03:00",
   "url": "/news/cherneyte-s-nami-cherneyte-kak-my-cherneyte-luchshe-nas/",
+  "aliases": [
+    "/node/1550/"
+  ],
   "original_url": "http://spidermedia.ru/news/cherneyte-s-nami-cherneyte-kak-my-cherneyte-luchshe-nas",
   "archived": "https://web.archive.org/web/20251115184049/http://spidermedia.ru/news/cherneyte-s-nami-cherneyte-kak-my-cherneyte-luchshe-nas",
   "tags": [
@@ -9,6 +12,12 @@
     "temnejshaya-noch",
     "dc-comics",
     "blackest-night"
+  ],
+  "cover": "https://web.archive.org/web/20251115184049im_/http://spidermedia.ru/assets/images/import_image/1550.jpg",
+  "modx_id": 1550,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

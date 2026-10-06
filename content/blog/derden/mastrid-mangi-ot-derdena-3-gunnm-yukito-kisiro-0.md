@@ -1,6 +1,6 @@
 {
   "title": "Мастрид манги от Дердена #3: GUNNM, Юкито Кисиро",
-  "date": "2014-10-30T11:25:00+03:00",
+  "date": "2014-10-30T11:25:25+03:00",
   "url": "/blog/derden/mastrid-mangi-ot-derdena-3-gunnm-yukito-kisiro-0/",
   "original_url": "https://spidermedia.ru/blog/derden/mastrid-mangi-ot-derdena-3-gunnm-yukito-kisiro-0",
   "archived": "https://web.archive.org/web/20251211022156/https://spidermedia.ru/blog/derden/mastrid-mangi-ot-derdena-3-gunnm-yukito-kisiro-0",
@@ -8,6 +8,12 @@
     "yukito-kisiro",
     "manga",
     "gunnm"
+  ],
+  "cover": "https://web.archive.org/web/20151010124443im_/http://spidermedia.ru/assets/images/import_image/8241.jpg",
+  "modx_id": 8241,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

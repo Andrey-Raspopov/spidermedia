@@ -1,7 +1,10 @@
 {
   "title": "График выхода Смерти Человека-Паука",
-  "date": "2011-01-14T21:14:00+03:00",
+  "date": "2011-01-14T21:14:12+03:00",
   "url": "/news/grafik-vyhoda-smerti-cheloveka-pauka/",
+  "aliases": [
+    "/node/3162/"
+  ],
   "original_url": "https://spidermedia.ru/news/grafik-vyhoda-smerti-cheloveka-pauka",
   "archived": "https://web.archive.org/web/20260211181632/https://spidermedia.ru/news/grafik-vyhoda-smerti-cheloveka-pauka",
   "tags": [
@@ -11,10 +14,16 @@
     "marvel",
     "spider-man"
   ],
+  "cover": "https://web.archive.org/web/20260211181632im_/http://spidermedia.ru/assets/images/import_image/3162.jpg",
+  "modx_id": 3162,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-Вслед за [превью](../../node/3147/), в сети появились новые материалы относительно грядущего события **Смерть Человека-Паука** *(Death of Spider-Man)*, плюс обнародован чеклист ивента:
+Вслед за [превью](../prevyu-i-oblozhki-smerti-cheloveka-pauka/), в сети появились новые материалы относительно грядущего события **Смерть Человека-Паука** *(Death of Spider-Man)*, плюс обнародован чеклист ивента:
 [![](https://web.archive.org/web/20260211181632im_/http://img.photobucket.com/albums/v497/spidermedia/1295025933-1.jpg?t=1295028370)](http://smg.photobucket.com/albums/v497/spidermedia/1295025933.jpg) [![](https://web.archive.org/web/20260211181632im_/http://img.photobucket.com/albums/v497/spidermedia/12950259352.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/1295025935.jpg) [![](https://web.archive.org/web/20260211181632im_/http://img.photobucket.com/albums/v497/spidermedia/img_0331.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/img_033.jpg)
 Первый рисунок - работа вернувшегося в родные пенаты **Марка Багли** *(Mark Bagley)* к **Ultimate Comics Spider-Man #157**, далее кавер к **Ultimate Avengers vs New Ultimates #3** от **Лейнила Фрэнсиса Ю** *(Leinil Francis Yu)*. Оба комикса выйдут в апреле.

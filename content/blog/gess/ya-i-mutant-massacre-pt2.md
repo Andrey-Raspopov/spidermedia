@@ -1,7 +1,10 @@
 {
   "title": "Я и Mutant Massacre pt.2",
-  "date": "2010-01-07T01:07:00+03:00",
+  "date": "2010-01-07T00:07:16+03:00",
   "url": "/blog/gess/ya-i-mutant-massacre-pt2/",
+  "aliases": [
+    "/node/2226/"
+  ],
   "original_url": "http://spidermedia.ru/blog/gess/ya-i-mutant-massacre-pt2",
   "archived": "https://web.archive.org/web/20120512080451/http://spidermedia.ru/blog/gess/ya-i-mutant-massacre-pt2",
   "tags": [
@@ -12,7 +15,14 @@
     "vsluh",
     "komiksy",
     "marvel",
-    "mnenie"
+    "mnenie",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20120512080451im_/http://spidermedia.ru/assets/images/import_image/2226.jpg",
+  "modx_id": 2226,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Супермен Будущего",
-  "date": "2011-05-12T18:22:00+03:00",
+  "date": "2011-05-12T17:22:18+03:00",
   "url": "/news/supermen-budushchego/",
   "original_url": "https://spidermedia.ru/news/supermen-budushchego",
   "archived": "https://web.archive.org/web/20260314081121/https://spidermedia.ru/news/supermen-budushchego",
@@ -12,6 +12,12 @@
     "tom-defalco",
     "tom-defalko",
     "superman"
+  ],
+  "cover": "https://web.archive.org/web/20260314081121im_/http://spidermedia.ru/assets/images/import_image/5679.jpg",
+  "modx_id": 5679,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,12 +1,18 @@
 {
   "title": "DC выпустит мультфильмы по мотивам игрушек",
-  "date": "2015-01-30T15:58:00+03:00",
+  "date": "2015-01-30T15:58:09+03:00",
   "url": "/news/dc-vypustit-multfilmy-po-motivam-igrushek/",
   "original_url": "https://spidermedia.ru/news/dc-vypustit-multfilmy-po-motivam-igrushek",
   "archived": "https://web.archive.org/web/20251206022129/https://spidermedia.ru/news/dc-vypustit-multfilmy-po-motivam-igrushek",
   "tags": [
     "animaciya",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150326142707im_/http://spidermedia.ru/assets/images/import_image/8569.jpg",
+  "modx_id": 8569,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

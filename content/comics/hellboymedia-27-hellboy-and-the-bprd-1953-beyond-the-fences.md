@@ -8,6 +8,12 @@
     "hellboymedia",
     "mnenie"
   ],
+  "cover": "https://web.archive.org/web/20260116224015im_/http://spidermedia.ru/assets/images/hellboymedia/regular/27-hellboy-and-the-bprd-1953-beyond-the-fences/hellboy-and-the-b.p.r.d.-1953-beyond-the-fences.jpg",
+  "modx_id": 101171,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

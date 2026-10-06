@@ -1,6 +1,6 @@
 {
   "title": "Объявлено официальное название фильма \"Бэтмен против Супермена\"",
-  "date": "2014-05-21T23:20:00+03:00",
+  "date": "2014-05-21T22:20:44+03:00",
   "url": "/news/obyavleno-oficialnoe-nazvanie-filma-betmen-protiv-supermena/",
   "original_url": "http://spidermedia.ru/news/obyavleno-oficialnoe-nazvanie-filma-betmen-protiv-supermena",
   "archived": "https://web.archive.org/web/20250512121549/http://spidermedia.ru/news/obyavleno-oficialnoe-nazvanie-filma-betmen-protiv-supermena",
@@ -8,6 +8,12 @@
     "superman",
     "batman",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150503092237im_/http://spidermedia.ru/assets/images/import_image/7751.jpg",
+  "modx_id": 7751,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

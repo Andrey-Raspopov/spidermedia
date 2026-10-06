@@ -1,11 +1,18 @@
 {
   "title": "CW создаст анимационный сериал в мире «Стрелы» и «Флэша»",
-  "date": "2015-01-11T21:22:00+03:00",
+  "date": "2015-01-11T21:22:13+03:00",
   "url": "/news/cw-sozdast-animacionnyy-serial-v-mire-strely-i-flesha/",
   "original_url": "http://spidermedia.ru/news/cw-sozdast-animacionnyy-serial-v-mire-strely-i-flesha",
   "archived": "https://web.archive.org/web/20150501135442/http://spidermedia.ru/news/cw-sozdast-animacionnyy-serial-v-mire-strely-i-flesha",
   "tags": [
-    "serialy"
+    "serialy",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20150502154441im_/http://spidermedia.ru/assets/images/import_image/8486.jpg",
+  "modx_id": 8486,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

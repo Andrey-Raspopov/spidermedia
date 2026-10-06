@@ -8,6 +8,12 @@
     "dark-horse",
     "emerald-city-comicon"
   ],
+  "cover": "https://web.archive.org/web/20251216180824im_/http://spidermedia.ru/assets/images/news/dark-horse/groo-fray-of-the-gods.jpg",
+  "modx_id": 101073,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

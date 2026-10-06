@@ -9,6 +9,12 @@
     "avengers-week",
     "marvel"
   ],
+  "cover": "https://web.archive.org/web/20260305234300im_/http://spidermedia.ru/assets/images/movies/marvel/avengers-3-infinity-war-part-1-2018/7wsychqleftfidovtgkv3hfpyyt-810x1215.jpg",
+  "modx_id": 101902,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

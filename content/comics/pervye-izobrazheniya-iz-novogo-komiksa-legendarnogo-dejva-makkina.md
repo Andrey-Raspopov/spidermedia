@@ -8,6 +8,12 @@
     "dark-horse",
     "dejv-makkin"
   ],
+  "cover": "https://web.archive.org/web/20160611124220im_/http://spidermedia.ru/assets/images/news/images/1_comics/dark-horse/black-dog/black-dog-10-mckean.jpg",
+  "modx_id": 100986,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

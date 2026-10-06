@@ -1,6 +1,6 @@
 {
   "title": "Галь Гадот - Чудо-Женщина!",
-  "date": "2013-12-04T22:22:00+03:00",
+  "date": "2013-12-04T21:22:09+03:00",
   "url": "/news/gal-gadot-chudo-zhenshchina/",
   "original_url": "http://spidermedia.ru/news/gal-gadot-chudo-zhenshchina",
   "archived": "https://web.archive.org/web/20250324061621/http://spidermedia.ru/news/gal-gadot-chudo-zhenshchina",
@@ -9,6 +9,12 @@
     "superman",
     "batman",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20210917101134im_/http://spidermedia.ru/assets/images/import_image/7566.jpg",
+  "modx_id": 7566,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

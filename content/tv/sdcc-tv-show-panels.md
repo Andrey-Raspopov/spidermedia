@@ -9,7 +9,14 @@
     "san-diego-comic-con-international",
     "gotem",
     "supergirl",
-    "the-flash"
+    "the-flash",
+    "sdcc2015"
+  ],
+  "cover": "https://web.archive.org/web/20260115050352im_/http://spidermedia.ru/assets/images/news/sdcc/2015/tv/stephen-amell-green-arrow-sdcc2015-143828-640x320.jpg",
+  "modx_id": 100374,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

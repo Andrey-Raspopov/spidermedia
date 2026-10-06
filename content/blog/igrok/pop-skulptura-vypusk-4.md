@@ -1,12 +1,18 @@
 {
   "title": "Поп-скульптура. Выпуск 4",
-  "date": "2013-08-30T11:53:00+03:00",
+  "date": "2013-08-30T10:53:44+03:00",
   "url": "/blog/igrok/pop-skulptura-vypusk-4/",
   "original_url": "http://spidermedia.ru/blog/igrok/pop-skulptura-vypusk-4",
   "archived": "https://web.archive.org/web/20251208075141/http://spidermedia.ru/blog/igrok/pop-skulptura-vypusk-4",
   "tags": [
     "figurki",
     "pop-skulptura"
+  ],
+  "cover": "https://web.archive.org/web/20150326221643im_/http://spidermedia.ru/assets/images/import_image/7446.jpg",
+  "modx_id": 7446,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

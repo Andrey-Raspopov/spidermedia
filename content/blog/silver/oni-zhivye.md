@@ -1,6 +1,6 @@
 {
   "title": "Они живые!",
-  "date": "2009-02-03T18:52:00+03:00",
+  "date": "2009-02-03T18:52:06+03:00",
   "url": "/blog/silver/oni-zhivye/",
   "original_url": "http://spidermedia.ru/blog/silver/oni-zhivye",
   "archived": "https://web.archive.org/web/20241211224650/http://spidermedia.ru/blog/silver/oni-zhivye",
@@ -10,6 +10,12 @@
     "mnenie",
     "kartinki",
     "artur-sajdam"
+  ],
+  "cover": "https://web.archive.org/web/20150428174119im_/http://spidermedia.ru/assets/images/import_image/155.jpg",
+  "modx_id": 155,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

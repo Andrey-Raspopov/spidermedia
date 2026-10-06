@@ -8,6 +8,12 @@
     "hellboymedia",
     "mnenie"
   ],
+  "cover": "https://web.archive.org/web/20160611125707im_/http://spidermedia.ru/assets/images/hellboymedia/regular/19-hellboy-the-hounds-of-pluto/hellboy-the-hounds-of-pluto-cover.jpg",
+  "modx_id": 100734,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

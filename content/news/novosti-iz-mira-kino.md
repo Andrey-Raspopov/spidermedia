@@ -1,7 +1,10 @@
 {
   "title": "Новости из мира кино",
-  "date": "2009-02-27T20:21:00+03:00",
+  "date": "2009-02-27T20:21:09+03:00",
   "url": "/news/novosti-iz-mira-kino/",
+  "aliases": [
+    "/node/533/"
+  ],
   "original_url": "https://spidermedia.ru/news/novosti-iz-mira-kino",
   "archived": "https://web.archive.org/web/20241102084750/https://spidermedia.ru/news/novosti-iz-mira-kino",
   "tags": [
@@ -16,7 +19,16 @@
     "suicide-squad",
     "gorod-grehov",
     "brian-bolland",
-    "x-men"
+    "x-men",
+    "zheleznyy-chelovek",
+    "tor",
+    "brajan-bolland"
+  ],
+  "cover": "https://web.archive.org/web/20241102084750im_/http://spidermedia.ru/assets/images/import_image/533.jpg",
+  "modx_id": 533,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

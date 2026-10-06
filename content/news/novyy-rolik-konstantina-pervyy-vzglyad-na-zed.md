@@ -1,13 +1,19 @@
 {
   "title": "Новый ролик «Константина»: первый взгляд на Зед",
-  "date": "2014-10-11T12:44:00+03:00",
+  "date": "2014-10-11T11:44:04+03:00",
   "url": "/news/novyy-rolik-konstantina-pervyy-vzglyad-na-zed/",
   "original_url": "http://spidermedia.ru/news/novyy-rolik-konstantina-pervyy-vzglyad-na-zed",
   "archived": "https://web.archive.org/web/20250807220651/http://spidermedia.ru/news/novyy-rolik-konstantina-pervyy-vzglyad-na-zed",
   "tags": [
     "serialy",
     "dzhon-konstantin",
-    "vertigo"
+    "vertigo",
+    "tv"
+  ],
+  "modx_id": 8166,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

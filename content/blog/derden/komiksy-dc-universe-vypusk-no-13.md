@@ -1,13 +1,22 @@
 {
   "title": "Комиксы DC Universe. Выпуск № 13",
-  "date": "2009-07-19T02:40:00+03:00",
+  "date": "2009-07-19T01:40:46+03:00",
   "url": "/blog/derden/komiksy-dc-universe-vypusk-no-13/",
+  "aliases": [
+    "/node/1589/"
+  ],
   "original_url": "http://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-13",
   "archived": "https://web.archive.org/web/20190806123957/http://spidermedia.ru:80/blog/derden/komiksy-dc-universe-vypusk-no-13",
   "tags": [
     "dc-universe-comics",
     "dc-comics",
     "batman"
+  ],
+  "cover": "https://web.archive.org/web/20190806123957im_/http://spidermedia.ru/assets/images/import_image/1589.jpg",
+  "modx_id": 1589,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

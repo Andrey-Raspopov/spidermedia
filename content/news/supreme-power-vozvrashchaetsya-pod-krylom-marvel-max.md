@@ -1,12 +1,18 @@
 {
   "title": "Supreme Power возвращается (под крылом Marvel MAX)!",
-  "date": "2011-04-20T10:57:00+03:00",
+  "date": "2011-04-20T09:57:28+03:00",
   "url": "/news/supreme-power-vozvrashchaetsya-pod-krylom-marvel-max/",
   "original_url": "http://spidermedia.ru/news/supreme-power-vozvrashchaetsya-pod-krylom-marvel-max",
   "archived": "https://web.archive.org/web/20190915021948/http://spidermedia.ru:80/news/supreme-power-vozvrashchaetsya-pod-krylom-marvel-max",
   "tags": [
     "supreme-power",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20190915021948im_/http://spidermedia.ru/assets/images/import_image/5106.jpg",
+  "modx_id": 5106,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

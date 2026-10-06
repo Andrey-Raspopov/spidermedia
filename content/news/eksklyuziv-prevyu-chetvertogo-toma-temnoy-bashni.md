@@ -1,6 +1,6 @@
 {
   "title": "ЭКСКЛЮЗИВ: Превью четвертого тома «Темной башни» от АСТ",
-  "date": "2014-11-06T12:12:00+03:00",
+  "date": "2014-11-06T12:12:58+03:00",
   "url": "/news/eksklyuziv-prevyu-chetvertogo-toma-temnoy-bashni/",
   "original_url": "http://spidermedia.ru/news/eksklyuziv-prevyu-chetvertogo-toma-temnoy-bashni",
   "archived": "https://web.archive.org/web/20220815202211/http://spidermedia.ru/news/eksklyuziv-prevyu-chetvertogo-toma-temnoy-bashni",
@@ -8,6 +8,12 @@
     "tyomnaya-bashnya",
     "izdatelstvo-ast",
     "zarubezhnye-komiksy-na-russkom"
+  ],
+  "cover": "https://web.archive.org/web/20220815202211im_/http://spidermedia.ru/assets/images/import_image/8263.jpg",
+  "modx_id": 8263,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

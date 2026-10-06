@@ -1,11 +1,18 @@
 {
   "title": "News",
-  "date": "2009-02-12T21:18:00+03:00",
+  "date": "2009-02-12T20:18:19+03:00",
   "url": "/blog/naya/news/",
   "original_url": "http://spidermedia.ru/blog/naya/news",
   "archived": "https://web.archive.org/web/20120607150732/http://spidermedia.ru/blog/naya/news",
   "tags": [
-    "novosti-0"
+    "novosti-0",
+    "novosti"
+  ],
+  "cover": "https://web.archive.org/web/20120607150732im_/http://spidermedia.ru/assets/images/import_image/331.gif",
+  "modx_id": 331,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

@@ -4,6 +4,12 @@
   "url": "/games/kings-bounty-ii-preview/",
   "original_url": "http://spidermedia.ru/games/kings-bounty-ii-preview",
   "archived": "https://web.archive.org/web/20240620114948/http://spidermedia.ru/games/kings-bounty-ii-preview",
+  "cover": "https://web.archive.org/web/20240620114948im_/http://spidermedia.ru/assets/images/games/kgb2/screenshot-81.png",
+  "modx_id": 102316,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

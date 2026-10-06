@@ -4,6 +4,9 @@
   "url": "/games/pc/pcgame_list/",
   "original_url": "http://spidermedia.ru/games/pc/pcgame_list.html",
   "archived": "https://web.archive.org/web/20041211040541/http://spidermedia.ru:80/games/pc/pcgame_list.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

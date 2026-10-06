@@ -1,6 +1,6 @@
 {
   "title": "Не ждали?",
-  "date": "2009-03-19T03:15:00+03:00",
+  "date": "2009-03-19T02:15:42+03:00",
   "url": "/news/ne-zhdali/",
   "original_url": "http://spidermedia.ru/news/ne-zhdali",
   "archived": "https://web.archive.org/web/20120718084512/http://spidermedia.ru/news/ne-zhdali",
@@ -11,7 +11,13 @@
     "marvel",
     "preview-s",
     "rosomaha",
-    "halk"
+    "halk",
+    "prevyu"
+  ],
+  "modx_id": 714,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

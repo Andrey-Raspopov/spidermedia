@@ -1,6 +1,6 @@
 {
   "title": "Итого 100%",
-  "date": "2013-02-09T07:01:00+03:00",
+  "date": "2013-02-09T06:01:04+03:00",
   "url": "/news/itogo-100/",
   "original_url": "http://spidermedia.ru/news/itogo-100",
   "archived": "https://web.archive.org/web/20251216185339/http://spidermedia.ru/news/itogo-100",
@@ -10,6 +10,12 @@
     "gejl-simon",
     "art-baltazar",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20251216185339im_/http://spidermedia.ru/assets/images/import_image/7141.jpg",
+  "modx_id": 7141,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

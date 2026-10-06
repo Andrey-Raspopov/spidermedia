@@ -1,6 +1,6 @@
 {
   "title": "5 ТВ-спотов фильма \"Люди Икс: Первый класс\"",
-  "date": "2011-05-19T13:39:00+03:00",
+  "date": "2011-05-19T12:39:52+03:00",
   "url": "/news/5-tv-spotov-filma-lyudi-iks-pervyy-klass/",
   "original_url": "http://spidermedia.ru/news/5-tv-spotov-filma-lyudi-iks-pervyy-klass",
   "archived": "https://web.archive.org/web/20260117222358/http://spidermedia.ru/news/5-tv-spotov-filma-lyudi-iks-pervyy-klass",
@@ -9,6 +9,12 @@
     "marvel",
     "lyudi-iks-pervyj-klass",
     "x-men-first-class"
+  ],
+  "cover": "https://web.archive.org/web/20260117222358im_/http://spidermedia.ru/assets/images/import_image/5850.jpg",
+  "modx_id": 5850,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

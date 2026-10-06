@@ -1,12 +1,21 @@
 {
   "title": "Злодей в Spider-Man 3D",
-  "date": "2010-10-11T23:31:00+03:00",
+  "date": "2010-10-11T22:31:43+03:00",
   "url": "/news/zlodey-v-spider-man-3d/",
+  "aliases": [
+    "/node/3001/"
+  ],
   "original_url": "http://spidermedia.ru/news/zlodey-v-spider-man-3d",
   "archived": "https://web.archive.org/web/20240720153542/http://spidermedia.ru/news/zlodey-v-spider-man-3d",
   "tags": [
     "ris-ivens",
     "spider-man"
+  ],
+  "cover": "https://web.archive.org/web/20240720153542im_/http://spidermedia.ru/assets/images/import_image/3001.jpg",
+  "modx_id": 3001,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "Превью Thor #601",
-  "date": "2009-04-17T15:18:00+03:00",
+  "date": "2009-04-17T14:18:54+03:00",
   "url": "/news/prevyu-thor-601/",
+  "aliases": [
+    "/node/971/"
+  ],
   "original_url": "http://spidermedia.ru/news/prevyu-thor-601",
   "archived": "https://web.archive.org/web/20120512073722/http://spidermedia.ru/news/prevyu-thor-601",
   "tags": [
@@ -15,7 +18,14 @@
     "marvel",
     "marko-dzhurdzhevich",
     "preview-s",
-    "tor"
+    "tor",
+    "dzhej-majkl-strazhinski",
+    "prevyu"
+  ],
+  "modx_id": 971,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

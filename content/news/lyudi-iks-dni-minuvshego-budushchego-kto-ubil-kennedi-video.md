@@ -1,6 +1,6 @@
 {
   "title": "\"Люди Икс: Дни минувшего будущего\": Кто убил Кеннеди? (ВИДЕО)",
-  "date": "2013-11-26T12:16:00+03:00",
+  "date": "2013-11-26T11:16:22+03:00",
   "url": "/news/lyudi-iks-dni-minuvshego-budushchego-kto-ubil-kennedi-video/",
   "original_url": "https://spidermedia.ru/news/lyudi-iks-dni-minuvshego-budushchego-kto-ubil-kennedi-video",
   "archived": "https://web.archive.org/web/20260125052058/https://spidermedia.ru/news/lyudi-iks-dni-minuvshego-budushchego-kto-ubil-kennedi-video",
@@ -8,7 +8,15 @@
     "magneto",
     "lyudi-iks-pervyj-klass",
     "x-men",
-    "days-of-future-past"
+    "days-of-future-past",
+    "lyudi-iks",
+    "dni-minuvshego-budushhego"
+  ],
+  "cover": "https://web.archive.org/web/20180211082722im_/http://spidermedia.ru/assets/images/import_image/7557.jpg",
+  "modx_id": 7557,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

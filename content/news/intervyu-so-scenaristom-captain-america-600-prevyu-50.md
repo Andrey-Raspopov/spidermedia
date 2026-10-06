@@ -1,7 +1,10 @@
 {
   "title": "Интервью со сценаристом Captain America #600, превью #50",
-  "date": "2009-05-13T22:58:00+03:00",
+  "date": "2009-05-13T21:58:08+03:00",
   "url": "/news/intervyu-so-scenaristom-captain-america-600-prevyu-50/",
+  "aliases": [
+    "/node/1177/"
+  ],
   "original_url": "http://spidermedia.ru/news/intervyu-so-scenaristom-captain-america-600-prevyu-50",
   "archived": "https://web.archive.org/web/20260116210656/http://spidermedia.ru/news/intervyu-so-scenaristom-captain-america-600-prevyu-50",
   "tags": [
@@ -16,6 +19,12 @@
     "kelman-androsofski",
     "tom-brevot",
     "winter-soldier"
+  ],
+  "cover": "https://web.archive.org/web/20150315210246im_/http://spidermedia.ru/assets/images/ecahznqzhc4.jpg",
+  "modx_id": 1177,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

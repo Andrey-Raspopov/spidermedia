@@ -1,11 +1,20 @@
 {
   "title": "С наступающим!",
-  "date": "2009-12-30T22:59:00+03:00",
+  "date": "2009-12-30T21:59:23+03:00",
   "url": "/blog/qvall/s-nastupayushchim/",
+  "aliases": [
+    "/node/2208/"
+  ],
   "original_url": "http://spidermedia.ru/blog/qvall/s-nastupayushchim",
   "archived": "https://web.archive.org/web/20120613062813/http://spidermedia.ru/blog/qvall/s-nastupayushchim",
   "tags": [
     "prazdnik"
+  ],
+  "cover": "https://web.archive.org/web/20120613062813im_/http://spidermedia.ru/assets/images/import_image/2208.jpg",
+  "modx_id": 2208,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

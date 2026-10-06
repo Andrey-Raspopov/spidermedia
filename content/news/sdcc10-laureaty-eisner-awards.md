@@ -1,12 +1,21 @@
 {
   "title": "SDCC'10: Лауреаты Eisner Awards",
-  "date": "2010-07-25T15:35:00+03:00",
+  "date": "2010-07-25T14:35:24+03:00",
   "url": "/news/sdcc10-laureaty-eisner-awards/",
+  "aliases": [
+    "/node/2795/"
+  ],
   "original_url": "http://spidermedia.ru/news/sdcc10-laureaty-eisner-awards",
   "archived": "https://web.archive.org/web/20191228195924/http://spidermedia.ru:80/news/sdcc10-laureaty-eisner-awards",
   "tags": [
     "eisner-awards",
     "san-diego-comic-con-international"
+  ],
+  "cover": "https://web.archive.org/web/20191228195924im_/http://spidermedia.ru/assets/images/import_image/2795.jpg",
+  "modx_id": 2795,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
@@ -14,7 +23,7 @@
 
 ![](https://web.archive.org/web/20191228195924im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/eisner.jpg)
 В самый разгар праздника жизни, творящегося сейчас в Сан-Диего, состоялась 22-я по счету церемония вручения **Премий Айзнера** (*Eisner Award*).
-Полный список номинантов можно найти [здесь](../../node/2532/). А победителями в этом году оказались:
+Полный список номинантов можно найти [здесь](../eisner-awards-10/). А победителями в этом году оказались:
 **Лучшая Короткая История** (*Best Short Story*)
 
 - **"Urgent Request,"** Джин Льюн Янь (Gene Luen Yang) и Дерек Кёрк Ким (Derek Kirk Kim), из сборника The Eternal Smile (First Second)

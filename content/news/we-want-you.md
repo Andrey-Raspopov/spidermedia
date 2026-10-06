@@ -1,11 +1,17 @@
 {
   "title": "We want you!",
-  "date": "2014-08-07T19:50:00+03:00",
+  "date": "2014-08-07T18:50:10+03:00",
   "url": "/news/we-want-you/",
   "original_url": "http://spidermedia.ru/news/we-want-you",
   "archived": "https://web.archive.org/web/20210126000953/http://spidermedia.ru/news/we-want-you",
   "tags": [
     "dorogaya-redakciya"
+  ],
+  "cover": "https://web.archive.org/web/20210126000953im_/http://spidermedia.ru/assets/images/import_image/7972.jpg",
+  "modx_id": 7972,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

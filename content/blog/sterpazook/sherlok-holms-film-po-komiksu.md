@@ -1,7 +1,10 @@
 {
   "title": "\"Шерлок Холмс\" - фильм по комиксу?",
-  "date": "2009-05-09T01:27:00+03:00",
+  "date": "2009-05-09T00:27:59+03:00",
   "url": "/blog/sterpazook/sherlok-holms-film-po-komiksu/",
+  "aliases": [
+    "/node/1131/"
+  ],
   "original_url": "http://spidermedia.ru/blog/sterpazook/sherlok-holms-film-po-komiksu",
   "archived": "https://web.archive.org/web/20120608012442/http://spidermedia.ru/blog/sterpazook/sherlok-holms-film-po-komiksu",
   "tags": [
@@ -9,6 +12,11 @@
     "kino",
     "komiksy",
     "sherlok-holms"
+  ],
+  "modx_id": 1131,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Спайдер капут",
-  "date": "2011-04-12T21:02:00+03:00",
+  "date": "2011-04-12T20:02:59+03:00",
   "url": "/news/spayder-kaput/",
   "original_url": "https://spidermedia.ru/news/spayder-kaput",
   "archived": "https://web.archive.org/web/20260208193126/https://spidermedia.ru/news/spayder-kaput",
@@ -13,6 +13,12 @@
     "nik-spenser",
     "dzhonatan-hikman",
     "sara-pichelli"
+  ],
+  "cover": "https://web.archive.org/web/20260208193126im_/http://spidermedia.ru/assets/images/import_image/4918.jpg",
+  "modx_id": 4918,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

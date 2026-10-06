@@ -1,12 +1,18 @@
 {
   "title": "WEL издаст комиксы про \"Черепашек-Ниндзя\" на русском?",
-  "date": "2014-02-11T14:32:00+03:00",
+  "date": "2014-02-11T13:32:04+03:00",
   "url": "/news/wel-izdast-komiksy-pro-cherepashek-nindzya-na-russkom/",
   "original_url": "http://spidermedia.ru/news/wel-izdast-komiksy-pro-cherepashek-nindzya-na-russkom",
   "archived": "https://web.archive.org/web/20220815202025/http://spidermedia.ru/news/wel-izdast-komiksy-pro-cherepashek-nindzya-na-russkom",
   "tags": [
     "ninja-turtles",
     "zarubezhnye-komiksy-na-russkom"
+  ],
+  "cover": "https://web.archive.org/web/20220815202025im_/http://spidermedia.ru/assets/images/import_image/7636.jpg",
+  "modx_id": 7636,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

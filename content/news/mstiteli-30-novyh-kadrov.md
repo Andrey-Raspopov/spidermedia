@@ -1,6 +1,6 @@
 {
   "title": "МСТИТЕЛИ: 30+ новых кадров",
-  "date": "2012-04-13T17:02:00+03:00",
+  "date": "2012-04-13T16:02:48+03:00",
   "url": "/news/mstiteli-30-novyh-kadrov/",
   "original_url": "http://spidermedia.ru/news/mstiteli-30-novyh-kadrov",
   "archived": "https://web.archive.org/web/20130619120507/http://spidermedia.ru/news/mstiteli-30-novyh-kadrov",
@@ -10,6 +10,12 @@
     "kino",
     "marvel",
     "mstiteli"
+  ],
+  "cover": "https://web.archive.org/web/20130619120507im_/http://spidermedia.ru/assets/images/import_image/6866.jpg",
+  "modx_id": 6866,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

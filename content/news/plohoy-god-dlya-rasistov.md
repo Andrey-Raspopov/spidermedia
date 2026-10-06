@@ -1,6 +1,6 @@
 {
   "title": "Плохой год для расистов",
-  "date": "2011-04-02T13:43:00+03:00",
+  "date": "2011-04-02T12:43:35+03:00",
   "url": "/news/plohoy-god-dlya-rasistov/",
   "original_url": "https://spidermedia.ru/news/plohoy-god-dlya-rasistov",
   "archived": "https://web.archive.org/web/20260116221151/https://spidermedia.ru/news/plohoy-god-dlya-rasistov",
@@ -9,6 +9,12 @@
     "image-comics",
     "robert-kirkman",
     "ryan-ottley"
+  ],
+  "cover": "https://web.archive.org/web/20260116221151im_/http://spidermedia.ru/assets/images/import_image/4648.jpg",
+  "modx_id": 4648,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

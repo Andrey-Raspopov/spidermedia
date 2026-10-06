@@ -1,6 +1,6 @@
 {
   "title": "Алеш Кот покидает Suicide Squad",
-  "date": "2013-07-10T17:41:00+03:00",
+  "date": "2013-07-10T16:41:28+03:00",
   "url": "/news/alesh-kot-pokidaet-suicide-squad/",
   "original_url": "http://spidermedia.ru/news/alesh-kot-pokidaet-suicide-squad",
   "archived": "https://web.archive.org/web/20250519175115/http://spidermedia.ru/news/alesh-kot-pokidaet-suicide-squad",
@@ -8,6 +8,12 @@
     "dc-comics",
     "ales-kot",
     "suicide-squad"
+  ],
+  "cover": "https://web.archive.org/web/20150502162434im_/http://spidermedia.ru/assets/images/import_image/7329.jpg",
+  "modx_id": 7329,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

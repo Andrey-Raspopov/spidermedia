@@ -1,6 +1,6 @@
 {
   "title": "Рецензия на \"Ветер Крепчает\" - последний фильм Миядзаки",
-  "date": "2014-02-18T11:29:00+03:00",
+  "date": "2014-02-18T10:29:15+03:00",
   "url": "/blog/shargor/recenziya-na-veter-krepchaet-posledniy-film-miyadzaki/",
   "original_url": "https://spidermedia.ru/blog/shargor/recenziya-na-veter-krepchaet-posledniy-film-miyadzaki",
   "archived": "https://web.archive.org/web/20260209120751/https://spidermedia.ru/blog/shargor/recenziya-na-veter-krepchaet-posledniy-film-miyadzaki",
@@ -8,6 +8,12 @@
     "recenziya",
     "anime",
     "animaciya"
+  ],
+  "cover": "https://web.archive.org/web/20150326160833im_/http://spidermedia.ru/assets/images/import_image/7647.jpg",
+  "modx_id": 7647,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

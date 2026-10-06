@@ -9,6 +9,12 @@
     "batman",
     "batman-week"
   ],
+  "cover": "https://web.archive.org/web/20251209135458im_/http://spidermedia.ru/assets/images/articles/zamsky-gotham/004-vampire/cover2.jpg",
+  "modx_id": 101391,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

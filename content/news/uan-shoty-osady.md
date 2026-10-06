@@ -1,7 +1,10 @@
 {
   "title": "Уан-шоты Осады",
-  "date": "2010-02-07T03:09:00+03:00",
+  "date": "2010-02-07T03:09:56+03:00",
   "url": "/news/uan-shoty-osady/",
+  "aliases": [
+    "/node/2345/"
+  ],
   "original_url": "https://spidermedia.ru/news/uan-shoty-osady",
   "archived": "https://web.archive.org/web/20250807224110/https://spidermedia.ru/news/uan-shoty-osady",
   "tags": [
@@ -16,13 +19,20 @@
     "brajan-rid",
     "siege",
     "marvel",
-    "avengers"
+    "avengers",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20250807224110im_/http://spidermedia.ru/assets/images/import_image/2345.jpg",
+  "modx_id": 2345,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-Помните ли вы, что в [апрельских релизах, посвященных **Мстителям** *(Avengers)*](../../node/2276/), мы говорили об определенных уан-шотах, которые ожидаются по окончанию Осады (Siege)? Сегодня мы раскроем вам имена сценаристов и художников, которые будут заниматься этим делом.[![](https://web.archive.org/web/20250807224110im_/http://comicsmedia.ign.com/comics/image/article/106/1067141/siege-event-20100205022813956-000.jpg)](http://comicsmedia.ign.com/comics/image/article/106/1067141/siege-event-20100205022813956.jpg)Обложки к уан-шотам, объединяющиеся в одну целую картину, созданы рукой Марко Джурджевича (Marko Djurdjevic).
+Помните ли вы, что в [апрельских релизах, посвященных **Мстителям** *(Avengers)*](../avengers-assemble-aprel-2010/), мы говорили об определенных уан-шотах, которые ожидаются по окончанию Осады (Siege)? Сегодня мы раскроем вам имена сценаристов и художников, которые будут заниматься этим делом.[![](https://web.archive.org/web/20250807224110im_/http://comicsmedia.ign.com/comics/image/article/106/1067141/siege-event-20100205022813956-000.jpg)](http://comicsmedia.ign.com/comics/image/article/106/1067141/siege-event-20100205022813956.jpg)Обложки к уан-шотам, объединяющиеся в одну целую картину, созданы рукой Марко Джурджевича (Marko Djurdjevic).
 
 - Siege: Captain America расскажет про отношения Стива Роджерса (Steve Rogers/Captain America) и Бакки (Bucky Barnes/Captain America), а также про роль каждого из Капитанов в мире без Темного Правления (Dark Reign). Сценаристом будет Кристос Гейдж (Christos Gage), а художником - Федерико Деллочио (Federico Dallocchio).
 - Siege: Spider-Man расскажет о Человеке-Пауке (Spider-Man), Веноме (Venom) и Мисс Марвел (Ms Marvel). Сценаристом будет Брайан Рид (Brian Reed), а художником - Марко Сантуччи (Marco Santucci).

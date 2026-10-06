@@ -1,6 +1,6 @@
 {
   "title": "\"Новый Человек-Паук\" для iOS и Android выйдет в конце июня",
-  "date": "2012-06-19T10:29:00+03:00",
+  "date": "2012-06-19T09:29:26+03:00",
   "url": "/news/novyy-chelovek-pauk-dlya-ios-i-android-vyydet-v-konce-iyunya/",
   "original_url": "http://spidermedia.ru/news/novyy-chelovek-pauk-dlya-ios-i-android-vyydet-v-konce-iyunya",
   "archived": "https://web.archive.org/web/20260208203914/http://spidermedia.ru/news/novyy-chelovek-pauk-dlya-ios-i-android-vyydet-v-konce-iyunya",
@@ -9,6 +9,12 @@
     "igry",
     "gameloft",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150325225319im_/http://spidermedia.ru/assets/images/import_image/6940.jpg",
+  "modx_id": 6940,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

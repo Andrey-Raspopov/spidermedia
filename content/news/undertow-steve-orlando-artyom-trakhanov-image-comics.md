@@ -1,12 +1,18 @@
 {
   "title": "\"UNDERTOW\" Стива Орландо и Артёма Траханова выйдет в феврале",
-  "date": "2013-11-14T12:38:00+03:00",
+  "date": "2013-11-14T11:38:24+03:00",
   "url": "/news/undertow-steve-orlando-artyom-trakhanov-image-comics/",
   "original_url": "https://spidermedia.ru/news/undertow-steve-orlando-artyom-trakhanov-image-comics",
   "archived": "https://web.archive.org/web/20260307064654/https://spidermedia.ru/news/undertow-steve-orlando-artyom-trakhanov-image-comics",
   "tags": [
     "undertow",
     "image-comics"
+  ],
+  "cover": "https://web.archive.org/web/20260307064654im_/http://spidermedia.ru/assets/images/import_image/7545.jpg",
+  "modx_id": 7545,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

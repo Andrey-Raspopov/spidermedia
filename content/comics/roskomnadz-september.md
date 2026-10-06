@@ -9,6 +9,12 @@
     "roskomnadzor",
     "russian-comics"
   ],
+  "cover": "https://web.archive.org/web/20241213062955im_/http://spidermedia.ru/assets/images/roskomnadzor/2016/0909/enemy-villeneuve-critique.jpg",
+  "modx_id": 101334,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

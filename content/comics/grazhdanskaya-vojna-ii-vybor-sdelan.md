@@ -8,6 +8,12 @@
     "marvel",
     "civil-war"
   ],
+  "cover": "https://web.archive.org/web/20160611165145im_/http://spidermedia.ru/assets/images/news/marvel/civil-war-ii/ciil-war-ii.jpg",
+  "modx_id": 101010,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

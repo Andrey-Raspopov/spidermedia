@@ -9,6 +9,12 @@
     "roskomnadzor",
     "russian-comics"
   ],
+  "cover": "https://web.archive.org/web/20260314081406im_/http://spidermedia.ru/assets/images/roskomnadzor/2016/2005/20.jpg",
+  "modx_id": 101157,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
@@ -65,7 +71,7 @@
 [![](http://spidermedia.ru/assets/images/roskomnadzor/2016/2005/22.jpg)](./)
 [![](http://spidermedia.ru/assets/images/roskomnadzor/2016/2005/23.jpg)](./)
 
-До того, как Нил Гейман стал тем кем, кто он сейчас, он написал пару нехудожественных книг. В том числе и историю создания культовой книги **«Автостопом по Галактике»** Дугласа Адамса. И вишенка на торте — новенький артбук от XL Media **«Uncharted 4: Путь вора»** по свежевышедшей одноименной игре, от которой наш Сергей остался [в восторге](https://web.archive.org/web/20260117215350/https://spidermedia.ru/games/recenziya-uncharted-4-a-thiefs-end).
+До того, как Нил Гейман стал тем кем, кто он сейчас, он написал пару нехудожественных книг. В том числе и историю создания культовой книги **«Автостопом по Галактике»** Дугласа Адамса. И вишенка на торте — новенький артбук от XL Media **«Uncharted 4: Путь вора»** по свежевышедшей одноименной игре, от которой наш Сергей остался [в восторге](../../games/recenziya-uncharted-4-a-thiefs-end/).
 
 [![](http://spidermedia.ru/assets/images/roskomnadzor/2016/2005/10.jpg)](./)
 [![](http://spidermedia.ru/assets/images/roskomnadzor/2016/2005/16.jpg)](./)

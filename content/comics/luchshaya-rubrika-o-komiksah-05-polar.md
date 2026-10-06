@@ -8,6 +8,12 @@
     "best-column-about-comics",
     "mnenie"
   ],
+  "cover": "https://web.archive.org/web/20251208073446im_/http://spidermedia.ru/assets/images/best-column-about-comics/05-polar/polar-cover.jpg",
+  "modx_id": 101395,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

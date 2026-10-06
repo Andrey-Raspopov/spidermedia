@@ -4,6 +4,12 @@
   "url": "/games/gamescom-microsoft-and-ea/",
   "original_url": "http://spidermedia.ru/games/gamescom-microsoft-and-ea",
   "archived": "https://web.archive.org/web/20171020191214/http://spidermedia.ru/games/gamescom-microsoft-and-ea",
+  "cover": "https://web.archive.org/web/20160611142907im_/http://spidermedia.ru/assets/images/games/gamescom_header.jpg",
+  "modx_id": 100441,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

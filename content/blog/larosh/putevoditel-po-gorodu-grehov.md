@@ -1,6 +1,6 @@
 {
   "title": "Город грехов: Путеводитель по комиксам",
-  "date": "2014-08-22T14:37:00+03:00",
+  "date": "2014-08-22T13:37:36+03:00",
   "url": "/blog/larosh/putevoditel-po-gorodu-grehov/",
   "original_url": "https://spidermedia.ru/blog/larosh/putevoditel-po-gorodu-grehov",
   "archived": "https://web.archive.org/web/20260209105542/https://spidermedia.ru/blog/larosh/putevoditel-po-gorodu-grehov",
@@ -9,6 +9,12 @@
     "mnenie",
     "sin-city",
     "dark-horse"
+  ],
+  "cover": "https://web.archive.org/web/20150326095141im_/http://spidermedia.ru/assets/images/import_image/8012.jpg",
+  "modx_id": 8012,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,13 +1,20 @@
 {
   "title": "Первый трейлер сериала iZombie",
-  "date": "2015-01-11T20:46:00+03:00",
+  "date": "2015-01-11T20:46:44+03:00",
   "url": "/news/pervyy-treyler-seriala-izombie/",
   "original_url": "http://spidermedia.ru/news/pervyy-treyler-seriala-izombie",
   "archived": "https://web.archive.org/web/20250906080400/http://spidermedia.ru/news/pervyy-treyler-seriala-izombie",
   "tags": [
     "serialy",
     "vertigo",
-    "izombie"
+    "izombie",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20250906080400im_/http://spidermedia.ru/assets/images/youtube/orDkJesqvec.jpg",
+  "modx_id": 8485,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

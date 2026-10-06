@@ -1,7 +1,10 @@
 {
   "title": "Суперсилы и многое другое",
-  "date": "2009-04-03T14:36:00+03:00",
+  "date": "2009-04-03T13:36:29+03:00",
   "url": "/news/supersily-i-mnogoe-drugoe/",
+  "aliases": [
+    "/node/837/"
+  ],
   "original_url": "https://spidermedia.ru/news/supersily-i-mnogoe-drugoe",
   "archived": "https://web.archive.org/web/20251108042431/https://spidermedia.ru/news/supersily-i-mnogoe-drugoe",
   "tags": [
@@ -19,6 +22,12 @@
     "skott-kolins",
     "bizarro",
     "solomon-grundy"
+  ],
+  "cover": "https://web.archive.org/web/20251108042431im_/http://spidermedia.ru/assets/images/import_image/837.jpg",
+  "modx_id": 837,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

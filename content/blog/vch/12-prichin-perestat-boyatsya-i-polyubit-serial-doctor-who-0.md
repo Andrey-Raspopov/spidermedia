@@ -1,12 +1,19 @@
 {
   "title": "12 причин перестать бояться и полюбить сериал Doctor Who",
-  "date": "2014-08-18T12:00:00+03:00",
+  "date": "2014-08-18T11:00:31+03:00",
   "url": "/blog/vch/12-prichin-perestat-boyatsya-i-polyubit-serial-doctor-who-0/",
   "original_url": "http://spidermedia.ru/blog/vch/12-prichin-perestat-boyatsya-i-polyubit-serial-doctor-who-0",
   "archived": "https://web.archive.org/web/20230430043307/http://spidermedia.ru/blog/vch/12-prichin-perestat-boyatsya-i-polyubit-serial-doctor-who-0",
   "tags": [
     "serialy",
-    "doctor-who"
+    "doctor-who",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20150502151934im_/http://spidermedia.ru/assets/images/import_image/7999.jpg",
+  "modx_id": 7999,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

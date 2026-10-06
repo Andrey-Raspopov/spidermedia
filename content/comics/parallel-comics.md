@@ -7,6 +7,12 @@
   "tags": [
     "zarubezhnye-komiksy-na-russkom"
   ],
+  "cover": "https://web.archive.org/web/20160611151819im_/http://spidermedia.ru/assets/images/roskomnadzor/10122015/28.png",
+  "modx_id": 100766,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

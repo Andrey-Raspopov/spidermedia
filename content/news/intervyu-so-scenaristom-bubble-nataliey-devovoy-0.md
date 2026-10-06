@@ -1,6 +1,6 @@
 {
   "title": "Интервью со сценаристом Bubble Наталией Девовой",
-  "date": "2014-10-20T12:23:00+03:00",
+  "date": "2014-10-20T11:23:50+03:00",
   "url": "/news/intervyu-so-scenaristom-bubble-nataliey-devovoy-0/",
   "original_url": "http://spidermedia.ru/news/intervyu-so-scenaristom-bubble-nataliey-devovoy-0",
   "archived": "https://web.archive.org/web/20260217035832/http://spidermedia.ru/news/intervyu-so-scenaristom-bubble-nataliey-devovoy-0",
@@ -9,6 +9,12 @@
     "russian-comics",
     "intervyu",
     "bubble"
+  ],
+  "cover": "https://web.archive.org/web/20180125015454im_/http://spidermedia.ru/assets/images/import_image/8202.jpg",
+  "modx_id": 8202,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,12 +1,18 @@
 {
   "title": "Меня зовут Стрела. Зеленая Стрела.",
-  "date": "2012-01-26T12:30:00+03:00",
+  "date": "2012-01-26T11:30:32+03:00",
   "url": "/news/zelenaya-strela/",
   "original_url": "http://spidermedia.ru/news/zelenaya-strela",
   "archived": "https://web.archive.org/web/20260309183341/http://spidermedia.ru/news/zelenaya-strela",
   "tags": [
     "dc-comics",
     "green-arrow"
+  ],
+  "cover": "https://web.archive.org/web/20260309183341im_/http://spidermedia.ru/assets/images/import_image/6763.jpg",
+  "modx_id": 6763,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

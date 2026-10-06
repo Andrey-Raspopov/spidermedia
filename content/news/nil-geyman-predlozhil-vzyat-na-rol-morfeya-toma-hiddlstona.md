@@ -1,6 +1,6 @@
 {
   "title": "Нил Гейман предложил взять на роль Морфея Тома Хиддлстона",
-  "date": "2014-12-16T21:53:00+03:00",
+  "date": "2014-12-16T21:53:42+03:00",
   "url": "/news/nil-geyman-predlozhil-vzyat-na-rol-morfeya-toma-hiddlstona/",
   "original_url": "http://spidermedia.ru/news/nil-geyman-predlozhil-vzyat-na-rol-morfeya-toma-hiddlstona",
   "archived": "https://web.archive.org/web/20260314082849/http://spidermedia.ru/news/nil-geyman-predlozhil-vzyat-na-rol-morfeya-toma-hiddlstona",
@@ -8,6 +8,12 @@
     "neil-gaiman-sandman",
     "neil-gaiman",
     "vertigo"
+  ],
+  "cover": "https://web.archive.org/web/20150424211452im_/http://spidermedia.ru/assets/images/import_image/8389.jpg",
+  "modx_id": 8389,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

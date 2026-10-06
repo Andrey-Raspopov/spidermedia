@@ -1,6 +1,6 @@
 {
   "title": "«Долгий Хэллоуин» издадут на русском языке",
-  "date": "2014-10-06T12:26:00+03:00",
+  "date": "2014-10-06T11:26:11+03:00",
   "url": "/news/dolgiy-hellouin-izdadut-na-russkom-yazyke/",
   "original_url": "https://spidermedia.ru/news/dolgiy-hellouin-izdadut-na-russkom-yazyke",
   "archived": "https://web.archive.org/web/20251207011445/https://spidermedia.ru/news/dolgiy-hellouin-izdadut-na-russkom-yazyke",
@@ -8,6 +8,12 @@
     "zarubezhnye-komiksy-na-russkom",
     "batman",
     "azbuka"
+  ],
+  "cover": "https://web.archive.org/web/20160611211410im_/http://spidermedia.ru/assets/images/import_image/8135.jpg",
+  "modx_id": 8135,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

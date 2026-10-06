@@ -7,6 +7,12 @@
   "tags": [
     "marvel"
   ],
+  "cover": "https://web.archive.org/web/20251111043123im_/http://spidermedia.ru/assets/images/news/marvel/hippity-hop/spider-man-deadpool-2d7cb.jpg",
+  "modx_id": 100382,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

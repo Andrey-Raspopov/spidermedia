@@ -1,13 +1,23 @@
 {
   "title": "Тайны Джор-Эла",
-  "date": "2009-09-14T17:33:00+03:00",
+  "date": "2009-09-14T16:33:11+03:00",
   "url": "/news/tayny-dzhor-ela/",
+  "aliases": [
+    "/node/1891/"
+  ],
   "original_url": "https://spidermedia.ru/news/tayny-dzhor-ela",
   "archived": "https://web.archive.org/web/20260116211905/https://spidermedia.ru/news/tayny-dzhor-ela",
   "tags": [
     "serialy",
     "tajny-smollvillya",
-    "smallville"
+    "smallville",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20260116211905im_/http://spidermedia.ru/assets/images/import_image/1891.jpg",
+  "modx_id": 1891,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

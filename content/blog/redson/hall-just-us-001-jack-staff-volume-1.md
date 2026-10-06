@@ -1,7 +1,10 @@
 {
   "title": "Hall of Just Us 001: Jack Staff Volume 1",
-  "date": "2010-09-18T14:39:00+03:00",
+  "date": "2010-09-18T13:39:07+03:00",
   "url": "/blog/redson/hall-just-us-001-jack-staff-volume-1/",
+  "aliases": [
+    "/node/2925/"
+  ],
   "original_url": "http://spidermedia.ru/blog/redson/hall-just-us-001-jack-staff-volume-1",
   "archived": "https://web.archive.org/web/20170619230406/http://spidermedia.ru:80/blog/redson/hall-just-us-001-jack-staff-volume-1",
   "tags": [
@@ -10,6 +13,12 @@
     "jack-staff",
     "paul-grist",
     "dzhek-staff"
+  ],
+  "cover": "https://web.archive.org/web/20170619230406im_/http://spidermedia.ru/assets/images/import_image/2925.jpg",
+  "modx_id": 2925,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

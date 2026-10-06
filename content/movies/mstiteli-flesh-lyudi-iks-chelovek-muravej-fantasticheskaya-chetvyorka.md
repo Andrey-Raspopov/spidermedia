@@ -7,6 +7,12 @@
   "tags": [
     "digest"
   ],
+  "cover": "https://web.archive.org/web/20220630013026im_/http://spidermedia.ru/assets/images/news/movies/cinema-digest2.jpg",
+  "modx_id": 100152,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

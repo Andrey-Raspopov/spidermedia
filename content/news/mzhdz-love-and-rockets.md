@@ -1,6 +1,6 @@
 {
   "title": "МЖДЗ: LOVE AND ROCKETS",
-  "date": "2011-10-14T20:43:00+03:00",
+  "date": "2011-10-14T19:43:25+03:00",
   "url": "/news/mzhdz-love-and-rockets/",
   "original_url": "http://spidermedia.ru/news/mzhdz-love-and-rockets",
   "archived": "https://web.archive.org/web/20251106235317/http://spidermedia.ru/news/mzhdz-love-and-rockets",
@@ -12,6 +12,12 @@
     "jaime-hernandez",
     "gilbert-hernandez",
     "fantagraphics"
+  ],
+  "cover": "https://web.archive.org/web/20251106235317im_/http://spidermedia.ru/assets/images/import_image/6644.png",
+  "modx_id": 6644,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

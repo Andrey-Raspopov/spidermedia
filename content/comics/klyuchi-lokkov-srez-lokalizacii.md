@@ -9,6 +9,12 @@
     "gabriel-rodriguez",
     "joe-hill"
   ],
+  "cover": "https://web.archive.org/web/20220930141314im_/http://spidermedia.ru/assets/images/reviews/vd-publishing/locke-and-key/locke-and-key.jpg",
+  "modx_id": 101120,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

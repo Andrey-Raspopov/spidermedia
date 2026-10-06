@@ -1,13 +1,20 @@
 {
   "title": "Возвращение Шаолиньского Ковбоя",
-  "date": "2013-09-12T14:10:00+03:00",
+  "date": "2013-09-12T13:10:42+03:00",
   "url": "/news/vozvrashchenie-shaolinskogo-kovboya/",
   "original_url": "https://spidermedia.ru/news/vozvrashchenie-shaolinskogo-kovboya",
   "archived": "https://web.archive.org/web/20251107035505/https://spidermedia.ru/news/vozvrashchenie-shaolinskogo-kovboya",
   "tags": [
     "shaolinskij-kovboj",
     "preview",
-    "dark-horse"
+    "dark-horse",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20251107035505im_/http://spidermedia.ru/assets/images/import_image/7463.jpg",
+  "modx_id": 7463,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

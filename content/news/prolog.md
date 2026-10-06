@@ -1,6 +1,6 @@
 {
   "title": "Пролог",
-  "date": "2011-12-09T19:51:00+03:00",
+  "date": "2011-12-09T18:51:41+03:00",
   "url": "/news/prolog/",
   "original_url": "https://spidermedia.ru/news/prolog",
   "archived": "https://web.archive.org/web/20260125115743/https://spidermedia.ru/news/prolog",
@@ -9,6 +9,12 @@
     "dc-comics",
     "dark-knight-rises",
     "batman"
+  ],
+  "cover": "https://web.archive.org/web/20260125115743im_/http://spidermedia.ru/assets/images/import_image/6725.jpg",
+  "modx_id": 6725,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

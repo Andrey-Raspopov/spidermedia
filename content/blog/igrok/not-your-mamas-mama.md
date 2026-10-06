@@ -1,11 +1,17 @@
 {
   "title": "Not Your Mama's Mama",
-  "date": "2013-02-11T14:32:00+03:00",
+  "date": "2013-02-11T13:32:21+03:00",
   "url": "/blog/igrok/not-your-mamas-mama/",
   "original_url": "http://spidermedia.ru/blog/igrok/not-your-mamas-mama",
   "archived": "https://web.archive.org/web/20170710051341/http://spidermedia.ru:80/blog/igrok/not-your-mamas-mama",
   "tags": [
     "recenziya"
+  ],
+  "cover": "https://web.archive.org/web/20170710051341im_/http://spidermedia.ru/assets/images/import_image/7144.jpg",
+  "modx_id": 7144,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

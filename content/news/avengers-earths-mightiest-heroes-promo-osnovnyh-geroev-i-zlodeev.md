@@ -1,6 +1,6 @@
 {
   "title": "The Avengers: Earth's Mightiest Heroes - Промо основных героев и злодеев",
-  "date": "2010-09-23T12:29:00+03:00",
+  "date": "2010-09-23T11:29:37+03:00",
   "url": "/news/avengers-earths-mightiest-heroes-promo-osnovnyh-geroev-i-zlodeev/",
   "original_url": "http://spidermedia.ru/news/avengers-earths-mightiest-heroes-promo-osnovnyh-geroev-i-zlodeev",
   "archived": "https://web.archive.org/web/20260116210413/http://spidermedia.ru/news/avengers-earths-mightiest-heroes-promo-osnovnyh-geroev-i-zlodeev",
@@ -8,6 +8,11 @@
     "animaciya",
     "marvel",
     "avengers"
+  ],
+  "modx_id": 2936,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

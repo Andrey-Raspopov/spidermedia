@@ -1,14 +1,24 @@
 {
   "title": "Армия Тьмы, история «Живых мертвецов»",
-  "date": "2010-03-06T17:46:00+03:00",
+  "date": "2010-03-06T17:46:45+03:00",
   "url": "/news/armiya-tmy-istoriya-zhivyh-mertvecov/",
+  "aliases": [
+    "/node/2422/"
+  ],
   "original_url": "http://spidermedia.ru/news/armiya-tmy-istoriya-zhivyh-mertvecov",
   "archived": "https://web.archive.org/web/20231001044958/http://spidermedia.ru/news/armiya-tmy-istoriya-zhivyh-mertvecov",
   "tags": [
     "serialy",
     "robert-kirkman",
     "the-walking-dead",
-    "image-comics"
+    "image-comics",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20231001044958im_/http://spidermedia.ru/assets/images/import_image/2422.gif",
+  "modx_id": 2422,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

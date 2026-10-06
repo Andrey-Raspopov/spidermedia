@@ -1,7 +1,10 @@
 {
   "title": "Exiles: Скечбук и Превью",
-  "date": "2009-02-27T15:01:00+03:00",
+  "date": "2009-02-27T15:01:39+03:00",
   "url": "/news/exiles-skechbuk-i-prevyu/",
+  "aliases": [
+    "/node/532/"
+  ],
   "original_url": "https://spidermedia.ru/news/exiles-skechbuk-i-prevyu",
   "archived": "https://web.archive.org/web/20251107004942/https://spidermedia.ru/news/exiles-skechbuk-i-prevyu",
   "tags": [
@@ -10,6 +13,12 @@
     "dzheff-parker",
     "marvel",
     "exiles"
+  ],
+  "cover": "https://web.archive.org/web/20251107004942im_/http://spidermedia.ru/assets/images/import_image/532.jpg",
+  "modx_id": 532,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

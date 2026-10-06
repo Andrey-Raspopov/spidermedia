@@ -7,6 +7,12 @@
   "tags": [
     "army-of-darkness"
   ],
+  "cover": "https://web.archive.org/web/20260121013757im_/http://spidermedia.ru/assets/images/tv/ash-vs-evil-dead/ash-vs-evil-dead-nycc.jpg",
+  "modx_id": 100600,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

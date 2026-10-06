@@ -1,13 +1,20 @@
 {
   "title": "On sale Mar. 4th",
-  "date": "2009-03-19T06:47:00+03:00",
+  "date": "2009-03-19T05:47:51+03:00",
   "url": "/blog/gess/sale-mar-4th/",
   "original_url": "http://spidermedia.ru/blog/gess/sale-mar-4th",
   "archived": "https://web.archive.org/web/20120609070816/http://spidermedia.ru/blog/gess/sale-mar-4th",
   "tags": [
     "sale-week",
     "komiksy",
-    "mnenie"
+    "mnenie",
+    "on-sale-this-week"
+  ],
+  "cover": "https://web.archive.org/web/20120609070816im_/http://spidermedia.ru/assets/images/import_image/717.jpg",
+  "modx_id": 717,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "SDCC'09 - Кино",
-  "date": "2009-07-26T00:32:00+03:00",
+  "date": "2009-07-25T23:32:55+03:00",
   "url": "/news/sdcc09-kino-0/",
+  "aliases": [
+    "/node/1662/"
+  ],
   "original_url": "https://spidermedia.ru/news/sdcc09-kino-0",
   "archived": "https://web.archive.org/web/20250429133657/https://spidermedia.ru/news/sdcc09-kino-0",
   "tags": [
@@ -9,6 +12,12 @@
     "dzhona-heks",
     "dzhok",
     "the-goon"
+  ],
+  "cover": "https://web.archive.org/web/20250429133657im_/http://spidermedia.ru/assets/images/import_image/1662.jpg",
+  "modx_id": 1662,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

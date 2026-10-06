@@ -1,7 +1,10 @@
 {
   "title": "Птицы, Ночь и Стрела",
-  "date": "2010-01-13T21:01:00+03:00",
+  "date": "2010-01-13T21:01:52+03:00",
   "url": "/news/pticy-noch-i-strela/",
+  "aliases": [
+    "/node/2254/"
+  ],
   "original_url": "http://spidermedia.ru/news/pticy-noch-i-strela",
   "archived": "https://web.archive.org/web/20260312015225/http://spidermedia.ru/news/pticy-noch-i-strela",
   "tags": [
@@ -19,6 +22,12 @@
     "birds-of-prey",
     "green-arrow"
   ],
+  "cover": "https://web.archive.org/web/20260312015225im_/http://spidermedia.ru/assets/images/green-lantern-logo.jpg",
+  "modx_id": 2254,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
@@ -27,4 +36,4 @@
 
 [![](https://web.archive.org/web/20260312015225im_/http://dcu.blog.dccomics.com/files/2010/01/jl-rf_covers1-4_colorartre1-300x117.jpg)](http://dcu.blog.dccomics.com/files/2010/01/jl-rf_covers1-4_colorartre1.jpg)
 
-Ну и не относящаяся к этой новости, но тоже довольно примечательная вещь. Не так давно [мы писали](../../node/2165/) о серьезном изменении в жизни **Зеленого Стрелы** *(Green Arrow)*. И вот вашему вниманию предоставляется одна большая обложка от **Майка Мэйхью** *(Mike Mayhew)*. Обложка составляется из четырех выпусков - **Justice League: Rise and Fall, Green Arrow #31, Justice League: The Rise of Arsenal #1** и **Justice League of America #43**
+Ну и не относящаяся к этой новости, но тоже довольно примечательная вещь. Не так давно [мы писали](../vzlety-i-padeniya-zelenoy-strely/) о серьезном изменении в жизни **Зеленого Стрелы** *(Green Arrow)*. И вот вашему вниманию предоставляется одна большая обложка от **Майка Мэйхью** *(Mike Mayhew)*. Обложка составляется из четырех выпусков - **Justice League: Rise and Fall, Green Arrow #31, Justice League: The Rise of Arsenal #1** и **Justice League of America #43**

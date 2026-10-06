@@ -1,13 +1,20 @@
 {
   "title": "Показать все, что скрыто",
-  "date": "2011-07-29T11:41:00+03:00",
+  "date": "2011-07-29T10:41:22+03:00",
   "url": "/news/pokazat-vse-chto-skryto-0/",
   "original_url": "http://spidermedia.ru/news/pokazat-vse-chto-skryto-0",
   "archived": "https://web.archive.org/web/20260120155628/http://spidermedia.ru/news/pokazat-vse-chto-skryto-0",
   "tags": [
     "art-0",
     "ultimate",
-    "spider-man"
+    "spider-man",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20260120155628im_/http://spidermedia.ru/assets/images/import_image/6534.jpg",
+  "modx_id": 6534,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

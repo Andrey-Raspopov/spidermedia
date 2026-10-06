@@ -1,7 +1,10 @@
 {
   "title": "Сэр Паук, сэр + обновление",
-  "date": "2009-08-19T16:49:00+03:00",
+  "date": "2009-08-19T15:49:54+03:00",
   "url": "/news/ser-pauk-ser-obnovlenie/",
+  "aliases": [
+    "/node/1586/"
+  ],
   "original_url": "https://spidermedia.ru/news/ser-pauk-ser-obnovlenie",
   "archived": "https://web.archive.org/web/20260312005819/https://spidermedia.ru/news/ser-pauk-ser-obnovlenie",
   "tags": [
@@ -10,7 +13,13 @@
     "dzheff-parker",
     "art-0",
     "marvel",
-    "spider-man"
+    "spider-man",
+    "art"
+  ],
+  "modx_id": 1586,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

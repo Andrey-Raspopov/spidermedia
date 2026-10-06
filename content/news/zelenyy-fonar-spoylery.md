@@ -1,7 +1,10 @@
 {
   "title": "Зеленый Фонарь - спойлеры",
-  "date": "2010-08-13T10:02:00+03:00",
+  "date": "2010-08-13T09:02:40+03:00",
   "url": "/news/zelenyy-fonar-spoylery/",
+  "aliases": [
+    "/node/2855/"
+  ],
   "original_url": "http://spidermedia.ru/news/zelenyy-fonar-spoylery",
   "archived": "https://web.archive.org/web/20120611051156/http://spidermedia.ru/news/zelenyy-fonar-spoylery",
   "tags": [
@@ -9,7 +12,14 @@
     "green-lantern",
     "zelenyy-fonar",
     "kino",
-    "spoylery"
+    "spoylery",
+    "spojlery"
+  ],
+  "cover": "https://web.archive.org/web/20120611051156im_/http://spidermedia.ru/assets/images/import_image/2855.png",
+  "modx_id": 2855,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

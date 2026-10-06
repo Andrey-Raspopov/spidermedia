@@ -1,11 +1,17 @@
 {
   "title": "Crisis of Infinite Comics: Часть 5",
-  "date": "2014-09-18T12:55:00+03:00",
+  "date": "2014-09-18T11:55:05+03:00",
   "url": "/blog/aleksey-volkov/crisis-infinite-comics-chast-5-0/",
   "original_url": "http://spidermedia.ru/blog/aleksey-volkov/crisis-infinite-comics-chast-5-0",
   "archived": "https://web.archive.org/web/20210303074359/http://spidermedia.ru/blog/aleksey-volkov/crisis-infinite-comics-chast-5-0",
   "tags": [
     "istoriya"
+  ],
+  "cover": "https://web.archive.org/web/20210303074359im_/http://spidermedia.ru/assets/images/import_image/8074.jpg",
+  "modx_id": 8074,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

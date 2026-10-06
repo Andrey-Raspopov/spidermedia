@@ -1,7 +1,10 @@
 {
   "title": "Темнейшая Ночь (чеклист)",
-  "date": "2009-07-16T12:51:00+03:00",
+  "date": "2009-07-16T11:51:56+03:00",
   "url": "/blog/alex/temneyshaya-noch-cheklist/",
+  "aliases": [
+    "/node/1574/"
+  ],
   "original_url": "http://spidermedia.ru/blog/alex/temneyshaya-noch-cheklist",
   "archived": "https://web.archive.org/web/20250807005129/http://spidermedia.ru/blog/alex/temneyshaya-noch-cheklist",
   "tags": [
@@ -10,6 +13,12 @@
     "green-lantern",
     "dc-comics",
     "blackest-night"
+  ],
+  "cover": "https://web.archive.org/web/20250807005129im_/http://spidermedia.ru/assets/images/import_image/1574.png",
+  "modx_id": 1574,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

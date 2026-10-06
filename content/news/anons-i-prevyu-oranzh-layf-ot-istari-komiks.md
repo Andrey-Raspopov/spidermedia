@@ -1,6 +1,6 @@
 {
   "title": "Анонс и превью: «Оранж лайф» от «Истари комикс»",
-  "date": "2014-12-22T11:08:00+03:00",
+  "date": "2014-12-22T11:08:06+03:00",
   "url": "/news/anons-i-prevyu-oranzh-layf-ot-istari-komiks/",
   "original_url": "http://spidermedia.ru/news/anons-i-prevyu-oranzh-layf-ot-istari-komiks",
   "archived": "https://web.archive.org/web/20260211090529/http://spidermedia.ru/news/anons-i-prevyu-oranzh-layf-ot-istari-komiks",
@@ -10,6 +10,12 @@
     "istari-komiks",
     "oranzh-lajf",
     "russian-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150424081745im_/http://spidermedia.ru/assets/images/import_image/8408.jpg",
+  "modx_id": 8408,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,12 +1,19 @@
 {
   "title": "R.I.P. Al Rio",
-  "date": "2012-02-01T16:44:00+03:00",
+  "date": "2012-02-01T15:44:09+03:00",
   "url": "/blog/alex/rip-al-rio/",
   "original_url": "http://spidermedia.ru/blog/alex/rip-al-rio",
   "archived": "https://web.archive.org/web/20120607133135/http://spidermedia.ru/blog/alex/rip-al-rio",
   "tags": [
     "al-rio",
-    "rip"
+    "rip",
+    "el-rio"
+  ],
+  "cover": "https://web.archive.org/web/20120607133135im_/http://spidermedia.ru/assets/images/import_image/6768.jpg",
+  "modx_id": 6768,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

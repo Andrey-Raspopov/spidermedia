@@ -1,6 +1,6 @@
 {
   "title": "И козёл",
-  "date": "2013-03-27T05:15:00+03:00",
+  "date": "2013-03-27T04:15:54+03:00",
   "url": "/news/i-kozyol/",
   "original_url": "http://spidermedia.ru/news/i-kozyol",
   "archived": "https://web.archive.org/web/20260208204649/http://spidermedia.ru/news/i-kozyol",
@@ -8,6 +8,12 @@
     "tom-fauler",
     "dzhejms-ezmus",
     "valiant-entertainment"
+  ],
+  "cover": "https://web.archive.org/web/20150328214800im_/http://spidermedia.ru/assets/images/import_image/7169.jpg",
+  "modx_id": 7169,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

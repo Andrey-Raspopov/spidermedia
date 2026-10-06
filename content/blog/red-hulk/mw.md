@@ -1,12 +1,18 @@
 {
   "title": "MW",
-  "date": "2011-07-22T01:26:00+03:00",
+  "date": "2011-07-22T00:26:59+03:00",
   "url": "/blog/red-hulk/mw/",
   "original_url": "https://spidermedia.ru/blog/red-hulk/mw",
   "archived": "https://web.archive.org/web/20251211030658/https://spidermedia.ru/blog/red-hulk/mw",
   "tags": [
     "osamu-tedzuka",
     "manga"
+  ],
+  "cover": "https://web.archive.org/web/20251211030658im_/http://spidermedia.ru/assets/images/import_image/6511.jpg",
+  "modx_id": 6511,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

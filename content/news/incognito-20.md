@@ -1,7 +1,10 @@
 {
   "title": "Incognito 2.0",
-  "date": "2010-05-13T17:13:00+03:00",
+  "date": "2010-05-13T16:13:40+03:00",
   "url": "/news/incognito-20/",
+  "aliases": [
+    "/node/2622/"
+  ],
   "original_url": "http://spidermedia.ru/news/incognito-20",
   "archived": "https://web.archive.org/web/20260309190419/http://spidermedia.ru/news/incognito-20",
   "tags": [
@@ -10,6 +13,12 @@
     "sean-phillips",
     "incognito",
     "icon-comics"
+  ],
+  "cover": "https://web.archive.org/web/20260309190419im_/http://spidermedia.ru/assets/images/import_image/2622.jpg",
+  "modx_id": 2622,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

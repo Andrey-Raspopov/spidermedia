@@ -10,6 +10,12 @@
     "dzhim-starlin",
     "peresmeshnica"
   ],
+  "cover": "https://web.archive.org/web/20180314223233im_/http://spidermedia.ru/assets/images/news/marvel/mockbird2015001-cov-fb0e0-0889d.jpg",
+  "modx_id": 100603,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,6 +1,6 @@
 {
   "title": "SDCC'10: DC Universe Online",
-  "date": "2010-07-27T13:14:00+03:00",
+  "date": "2010-07-27T12:14:05+03:00",
   "url": "/news/sdcc10-dc-universe-online/",
   "original_url": "https://spidermedia.ru/news/sdcc10-dc-universe-online",
   "archived": "https://web.archive.org/web/20250327223626/https://spidermedia.ru/news/sdcc10-dc-universe-online",
@@ -8,6 +8,12 @@
     "san-diego-comic-con-international",
     "igry",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20250327223626im_/http://spidermedia.ru/assets/images/import_image/2814.png",
+  "modx_id": 2814,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

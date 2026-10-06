@@ -1,12 +1,17 @@
 {
   "title": "Неофициальная (ПОКА) песня \"In Brightest Day\" к грядущему фильму \"Зелёный Фонарь\".",
-  "date": "2010-07-18T21:37:00+03:00",
+  "date": "2010-07-18T20:37:01+03:00",
   "url": "/blog/yaetxiyat-suiyaattigas/neoficialnaya-poka-pesnya-brightest-day-k-gryadushchemu-filmu-zelyonyy/",
   "original_url": "https://spidermedia.ru/blog/yaetxiyat-suiyaattigas/neoficialnaya-poka-pesnya-brightest-day-k-gryadushchemu-filmu-zelyonyy",
   "archived": "https://web.archive.org/web/20260125064817/https://spidermedia.ru/blog/yaetxiyat-suiyaattigas/neoficialnaya-poka-pesnya-brightest-day-k-gryadushchemu-filmu-zelyonyy",
   "tags": [
     "green-lantern",
     "muzyka"
+  ],
+  "modx_id": 2746,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

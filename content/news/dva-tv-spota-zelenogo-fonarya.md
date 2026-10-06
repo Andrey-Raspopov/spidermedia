@@ -1,6 +1,6 @@
 {
   "title": "Два ТВ Спота Зеленого Фонаря",
-  "date": "2011-04-03T20:39:00+03:00",
+  "date": "2011-04-03T19:39:02+03:00",
   "url": "/news/dva-tv-spota-zelenogo-fonarya/",
   "original_url": "https://spidermedia.ru/news/dva-tv-spota-zelenogo-fonarya",
   "archived": "https://web.archive.org/web/20260211191304/https://spidermedia.ru/news/dva-tv-spota-zelenogo-fonarya",
@@ -8,6 +8,12 @@
     "ssylki",
     "dc-comics",
     "green-lantern"
+  ],
+  "cover": "https://web.archive.org/web/20260211191304im_/http://spidermedia.ru/assets/images/import_image/4685.jpg",
+  "modx_id": 4685,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

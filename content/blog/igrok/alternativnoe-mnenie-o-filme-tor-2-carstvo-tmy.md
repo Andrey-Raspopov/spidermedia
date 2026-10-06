@@ -1,6 +1,6 @@
 {
   "title": "Альтернативное мнение о фильме \"Тор 2: Царство тьмы\"",
-  "date": "2013-11-01T11:57:00+03:00",
+  "date": "2013-11-01T10:57:41+03:00",
   "url": "/blog/igrok/alternativnoe-mnenie-o-filme-tor-2-carstvo-tmy/",
   "original_url": "http://spidermedia.ru/blog/igrok/alternativnoe-mnenie-o-filme-tor-2-carstvo-tmy",
   "archived": "https://web.archive.org/web/20250807004303/http://spidermedia.ru/blog/igrok/alternativnoe-mnenie-o-filme-tor-2-carstvo-tmy",
@@ -9,7 +9,14 @@
     "thor",
     "mnenie",
     "marvel",
-    "loki"
+    "loki",
+    "tor"
+  ],
+  "cover": "https://web.archive.org/web/20150424150711im_/http://spidermedia.ru/assets/images/import_image/7527.jpg",
+  "modx_id": 7527,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

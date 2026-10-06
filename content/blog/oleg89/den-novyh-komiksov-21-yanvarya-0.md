@@ -1,11 +1,17 @@
 {
   "title": "День новых комиксов: 21 января",
-  "date": "2015-01-21T12:39:00+03:00",
+  "date": "2015-01-21T12:39:35+03:00",
   "url": "/blog/oleg89/den-novyh-komiksov-21-yanvarya-0/",
   "original_url": "http://spidermedia.ru/blog/oleg89/den-novyh-komiksov-21-yanvarya-0",
   "archived": "https://web.archive.org/web/20260211190106/http://spidermedia.ru/blog/oleg89/den-novyh-komiksov-21-yanvarya-0",
   "tags": [
     "den-novyh-komiksov"
+  ],
+  "cover": "https://web.archive.org/web/20150326050831im_/http://spidermedia.ru/assets/images/import_image/8526.jpg",
+  "modx_id": 8526,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

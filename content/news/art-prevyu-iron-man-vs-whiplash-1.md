@@ -1,7 +1,10 @@
 {
   "title": "Арт-превью Iron Man vs. Whiplash #1",
-  "date": "2009-09-28T22:31:00+03:00",
+  "date": "2009-09-28T21:31:51+03:00",
   "url": "/news/art-prevyu-iron-man-vs-whiplash-1/",
+  "aliases": [
+    "/node/1938/"
+  ],
   "original_url": "http://spidermedia.ru/news/art-prevyu-iron-man-vs-whiplash-1",
   "archived": "https://web.archive.org/web/20260120145311/http://spidermedia.ru/news/art-prevyu-iron-man-vs-whiplash-1",
   "tags": [
@@ -12,7 +15,14 @@
     "knut",
     "mark-guggenhajm",
     "marko-dzhurdzhevich",
-    "preview"
+    "preview",
+    "zheleznyy-chelovek",
+    "prevyu"
+  ],
+  "modx_id": 1938,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

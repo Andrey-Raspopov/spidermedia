@@ -1,6 +1,6 @@
 {
   "title": "Golgo 13, Такао Саито",
-  "date": "2012-03-13T13:16:00+03:00",
+  "date": "2012-03-13T12:16:36+03:00",
   "url": "/blog/derden/golgo-13-takao-saito/",
   "original_url": "https://spidermedia.ru/blog/derden/golgo-13-takao-saito",
   "archived": "https://web.archive.org/web/20251211032526/https://spidermedia.ru/blog/derden/golgo-13-takao-saito",
@@ -10,6 +10,12 @@
     "yosihiro-tacumi",
     "golgo-13",
     "viz"
+  ],
+  "cover": "https://web.archive.org/web/20251211032526im_/http://spidermedia.ru/assets/images/import_image/6829.jpg",
+  "modx_id": 6829,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

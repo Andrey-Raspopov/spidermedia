@@ -1,6 +1,6 @@
 {
   "title": "Blackest Night #1",
-  "date": "2009-04-09T17:34:00+03:00",
+  "date": "2009-04-09T16:34:59+03:00",
   "url": "/news/blackest-night-1/",
   "original_url": "http://spidermedia.ru/news/blackest-night-1",
   "archived": "https://web.archive.org/web/20260309190639/http://spidermedia.ru/news/blackest-night-1",
@@ -9,6 +9,12 @@
     "blackest-night",
     "ajvan-rejs",
     "temnejshaya-noch"
+  ],
+  "cover": "https://web.archive.org/web/20260309190639im_/http://spidermedia.ru/assets/images/import_image/872.jpg",
+  "modx_id": 872,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

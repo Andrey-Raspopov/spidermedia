@@ -1,7 +1,10 @@
 {
   "title": "Порция DC обложек",
-  "date": "2009-08-05T22:59:00+03:00",
+  "date": "2009-08-05T21:59:38+03:00",
   "url": "/news/porciya-dc-oblozhek/",
+  "aliases": [
+    "/node/1723/"
+  ],
   "original_url": "http://spidermedia.ru/news/porciya-dc-oblozhek",
   "archived": "https://web.archive.org/web/20251205120104/http://spidermedia.ru/news/porciya-dc-oblozhek",
   "tags": [
@@ -14,6 +17,11 @@
     "deadshot",
     "dc-comics",
     "blackest-night"
+  ],
+  "modx_id": 1723,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

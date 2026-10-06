@@ -1,6 +1,6 @@
 {
   "title": "МЖДЗ:  THIS IS GOING TO TAKE ALL OF US",
-  "date": "2011-05-09T19:44:00+03:00",
+  "date": "2011-05-09T18:44:46+03:00",
   "url": "/blog/redson/mzhdz-going-take-all-us/",
   "original_url": "http://spidermedia.ru/blog/redson/mzhdz-going-take-all-us",
   "archived": "https://web.archive.org/web/20240222105700/http://spidermedia.ru/blog/redson/mzhdz-going-take-all-us",
@@ -8,6 +8,12 @@
     "mnenie",
     "mzhdz",
     "fcbd"
+  ],
+  "cover": "https://web.archive.org/web/20160715180658im_/http://spidermedia.ru/assets/images/import_image/5599.jpg",
+  "modx_id": 5599,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

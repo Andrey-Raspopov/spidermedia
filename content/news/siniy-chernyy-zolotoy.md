@@ -1,7 +1,10 @@
 {
   "title": "Синий, Черный, Золотой",
-  "date": "2009-11-13T10:03:00+03:00",
+  "date": "2009-11-13T10:03:31+03:00",
   "url": "/news/siniy-chernyy-zolotoy/",
+  "aliases": [
+    "/node/2090/"
+  ],
   "original_url": "https://spidermedia.ru/news/siniy-chernyy-zolotoy",
   "archived": "https://web.archive.org/web/20251110230904/https://spidermedia.ru/news/siniy-chernyy-zolotoy",
   "tags": [
@@ -13,6 +16,11 @@
     "dc-comics",
     "dan-jurgens",
     "blackest-night"
+  ],
+  "modx_id": 2090,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

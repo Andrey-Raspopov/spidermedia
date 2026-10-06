@@ -1,12 +1,21 @@
 {
   "title": "Отель Миледи Шарль",
-  "date": "2009-02-02T13:37:00+03:00",
+  "date": "2009-02-02T12:37:33+03:00",
   "url": "/blog/lady-charles/otel-miledi-sharl/",
+  "aliases": [
+    "/node/99/"
+  ],
   "original_url": "http://spidermedia.ru/blog/lady-charles/otel-miledi-sharl",
   "archived": "https://web.archive.org/web/20111020085358/http://spidermedia.ru/blog/lady-charles/otel-miledi-sharl",
   "tags": [
     "boltovnya",
     "vstuplenie"
+  ],
+  "cover": "https://web.archive.org/web/20111020085358im_/http://spidermedia.ru/assets/images/import_image/99.jpg",
+  "modx_id": 99,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

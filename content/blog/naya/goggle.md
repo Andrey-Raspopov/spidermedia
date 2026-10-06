@@ -1,13 +1,22 @@
 {
   "title": "GOGGLE",
-  "date": "2009-04-07T22:25:00+03:00",
+  "date": "2009-04-07T21:25:00+03:00",
   "url": "/blog/naya/goggle/",
+  "aliases": [
+    "/node/880/"
+  ],
   "original_url": "http://spidermedia.ru/blog/naya/goggle",
   "archived": "https://web.archive.org/web/20251216125648/http://spidermedia.ru/blog/naya/goggle",
   "tags": [
     "slice-of-life",
     "one-shot",
     "manga"
+  ],
+  "cover": "https://web.archive.org/web/20251216125648im_/http://spidermedia.ru/assets/images/import_image/880.gif",
+  "modx_id": 880,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

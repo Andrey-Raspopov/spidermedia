@@ -1,6 +1,6 @@
 {
   "title": "Dracula SMASH!",
-  "date": "2011-04-03T09:36:00+03:00",
+  "date": "2011-04-03T08:36:11+03:00",
   "url": "/news/dracula-smash/",
   "original_url": "https://spidermedia.ru/news/dracula-smash",
   "archived": "https://web.archive.org/web/20260117221504/https://spidermedia.ru/news/dracula-smash",
@@ -11,6 +11,12 @@
     "marvel",
     "hulk",
     "dracula"
+  ],
+  "cover": "https://web.archive.org/web/20260117221504im_/http://spidermedia.ru/assets/images/import_image/4673.jpg",
+  "modx_id": 4673,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

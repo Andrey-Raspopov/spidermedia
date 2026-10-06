@@ -7,6 +7,12 @@
   "tags": [
     "manga"
   ],
+  "cover": "https://web.archive.org/web/20250215002543im_/http://spidermedia.ru/assets/images/movies/manga/gits/cover-gits.jpg",
+  "modx_id": 101529,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -7,6 +7,12 @@
   "tags": [
     "hellboymedia"
   ],
+  "cover": "https://web.archive.org/web/20180203233735im_/http://spidermedia.ru/assets/images/hellboymedia/solicitations/15-09-september/september-15-solicitations-cover.jpg",
+  "modx_id": 100283,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

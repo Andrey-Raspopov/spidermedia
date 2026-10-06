@@ -1,6 +1,6 @@
 {
   "title": "Первые кадры из мультфильма \"BIG HERO 6\"",
-  "date": "2014-05-21T10:58:00+03:00",
+  "date": "2014-05-21T09:58:56+03:00",
   "url": "/news/pervye-kadry-iz-multfilma-big-hero-6/",
   "original_url": "http://spidermedia.ru/news/pervye-kadry-iz-multfilma-big-hero-6",
   "archived": "https://web.archive.org/web/20251213184324/http://spidermedia.ru/news/pervye-kadry-iz-multfilma-big-hero-6",
@@ -9,6 +9,12 @@
     "disnej",
     "animaciya",
     "big-hero-6"
+  ],
+  "cover": "https://web.archive.org/web/20150326220828im_/http://spidermedia.ru/assets/images/import_image/7749.jpg",
+  "modx_id": 7749,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

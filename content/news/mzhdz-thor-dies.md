@@ -1,12 +1,18 @@
 {
   "title": "МЖДЗ: THOR DIES",
-  "date": "2011-10-26T18:13:00+03:00",
+  "date": "2011-10-26T17:13:26+03:00",
   "url": "/news/mzhdz-thor-dies/",
   "original_url": "http://spidermedia.ru/news/mzhdz-thor-dies",
   "archived": "https://web.archive.org/web/20250913002852/http://spidermedia.ru/news/mzhdz-thor-dies",
   "tags": [
     "mzhdz",
     "mnenie"
+  ],
+  "cover": "https://web.archive.org/web/20250913002852im_/http://spidermedia.ru/assets/images/import_image/6669.png",
+  "modx_id": 6669,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

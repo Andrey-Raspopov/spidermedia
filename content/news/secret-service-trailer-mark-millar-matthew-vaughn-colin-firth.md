@@ -1,6 +1,6 @@
 {
   "title": "Трейлер фильма \"Тайная служба\"",
-  "date": "2014-05-20T21:29:00+03:00",
+  "date": "2014-05-20T20:29:28+03:00",
   "url": "/news/secret-service-trailer-mark-millar-matthew-vaughn-colin-firth/",
   "original_url": "http://spidermedia.ru/news/secret-service-trailer-mark-millar-matthew-vaughn-colin-firth",
   "archived": "https://web.archive.org/web/20260125114708/http://spidermedia.ru/news/secret-service-trailer-mark-millar-matthew-vaughn-colin-firth",
@@ -8,6 +8,12 @@
     "trejlery",
     "tajnaya-sluzhba",
     "mark-millar"
+  ],
+  "cover": "https://web.archive.org/web/20260125114708im_/http://spidermedia.ru/assets/images/import_image/7748.jpg",
+  "modx_id": 7748,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

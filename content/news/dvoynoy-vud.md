@@ -1,6 +1,6 @@
 {
   "title": "Двойной Вуд",
-  "date": "2012-03-19T09:36:00+03:00",
+  "date": "2012-03-19T08:36:11+03:00",
   "url": "/news/dvoynoy-vud/",
   "original_url": "https://spidermedia.ru/news/dvoynoy-vud",
   "archived": "https://web.archive.org/web/20251115034532/https://spidermedia.ru/news/dvoynoy-vud",
@@ -9,7 +9,15 @@
     "devid-lopes",
     "x-men",
     "pako-medina",
-    "brian-wood"
+    "brian-wood",
+    "ultimate-x-men",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20251115034532im_/http://spidermedia.ru/assets/images/import_image/6842.jpg",
+  "modx_id": 6842,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

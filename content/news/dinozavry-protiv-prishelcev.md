@@ -1,12 +1,18 @@
 {
   "title": "Динозавры против пришельцев",
-  "date": "2011-05-12T13:24:00+03:00",
+  "date": "2011-05-12T12:24:42+03:00",
   "url": "/news/dinozavry-protiv-prishelcev/",
   "original_url": "http://spidermedia.ru/news/dinozavry-protiv-prishelcev",
   "archived": "https://web.archive.org/web/20170626183258/http://spidermedia.ru:80/news/dinozavry-protiv-prishelcev",
   "tags": [
     "dinozavry-protiv-prishelcev",
     "grant-morrison"
+  ],
+  "cover": "https://web.archive.org/web/20170626183258im_/http://spidermedia.ru/assets/images/import_image/5672.jpg",
+  "modx_id": 5672,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

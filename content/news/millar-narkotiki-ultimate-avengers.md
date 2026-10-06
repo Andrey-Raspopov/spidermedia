@@ -1,7 +1,10 @@
 {
   "title": "Миллар, наркотики, Ultimate Avengers",
-  "date": "2009-10-31T02:17:00+03:00",
+  "date": "2009-10-31T01:17:55+03:00",
   "url": "/news/millar-narkotiki-ultimate-avengers/",
+  "aliases": [
+    "/node/2037/"
+  ],
   "original_url": "http://spidermedia.ru/news/millar-narkotiki-ultimate-avengers",
   "archived": "https://web.archive.org/web/20120718085433/http://spidermedia.ru/news/millar-narkotiki-ultimate-avengers",
   "tags": [
@@ -9,6 +12,12 @@
     "komiksy",
     "marvel",
     "mark-millar"
+  ],
+  "cover": "https://web.archive.org/web/20120718085433im_/http://spidermedia.ru/assets/images/import_image/2037.jpg",
+  "modx_id": 2037,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

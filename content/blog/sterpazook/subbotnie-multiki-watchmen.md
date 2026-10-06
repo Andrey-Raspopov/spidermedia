@@ -1,7 +1,10 @@
 {
   "title": "Субботние мультики \"Watchmen\"",
-  "date": "2009-03-06T13:57:00+03:00",
+  "date": "2009-03-06T13:57:16+03:00",
   "url": "/blog/sterpazook/subbotnie-multiki-watchmen/",
+  "aliases": [
+    "/node/607/"
+  ],
   "original_url": "http://spidermedia.ru/blog/sterpazook/subbotnie-multiki-watchmen",
   "archived": "https://web.archive.org/web/20250717181526/http://spidermedia.ru/blog/sterpazook/subbotnie-multiki-watchmen",
   "tags": [
@@ -9,6 +12,11 @@
     "animaciya",
     "hraniteli",
     "spoof"
+  ],
+  "modx_id": 607,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

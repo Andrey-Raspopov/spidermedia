@@ -7,6 +7,12 @@
   "tags": [
     "manga"
   ],
+  "cover": "https://web.archive.org/web/20251207102124im_/http://spidermedia.ru/assets/images/manga/others/kimi-no-iru-machi-ge-good-ending/mzk.jpg",
+  "modx_id": 101850,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

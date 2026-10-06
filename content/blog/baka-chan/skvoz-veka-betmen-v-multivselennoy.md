@@ -1,13 +1,21 @@
 {
   "title": "Сквозь века: Бэтмен в мультивселенной",
-  "date": "2009-02-02T21:17:00+03:00",
+  "date": "2009-02-02T21:17:31+03:00",
   "url": "/blog/baka-chan/skvoz-veka-betmen-v-multivselennoy/",
+  "aliases": [
+    "/node/118/"
+  ],
   "original_url": "https://spidermedia.ru/blog/baka-chan/skvoz-veka-betmen-v-multivselennoy",
   "archived": "https://web.archive.org/web/20260208195931/https://spidermedia.ru/blog/baka-chan/skvoz-veka-betmen-v-multivselennoy",
   "tags": [
     "mnenie",
     "dc-comics",
     "batman"
+  ],
+  "modx_id": 118,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

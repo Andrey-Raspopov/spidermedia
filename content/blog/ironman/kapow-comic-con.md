@@ -1,6 +1,6 @@
 {
   "title": "Kapow Comic Con",
-  "date": "2011-04-11T04:36:00+03:00",
+  "date": "2011-04-11T03:36:24+03:00",
   "url": "/blog/ironman/kapow-comic-con/",
   "original_url": "https://spidermedia.ru/blog/ironman/kapow-comic-con",
   "archived": "https://web.archive.org/web/20260214143510/https://spidermedia.ru/blog/ironman/kapow-comic-con",
@@ -8,6 +8,12 @@
     "mark-millar",
     "komik-kon-v-londone",
     "kapow-comic-con"
+  ],
+  "cover": "https://web.archive.org/web/20260214143510im_/http://spidermedia.ru/assets/images/import_image/4872.jpg",
+  "modx_id": 4872,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
@@ -24,7 +30,7 @@
 [![](https://web.archive.org/web/20260214143510im_/http://img.photobucket.com/albums/v497/spidermedia/Iron_News/th_Sean.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/Iron_News/Sean.jpg) [![](https://web.archive.org/web/20260214143510im_/http://img.photobucket.com/albums/v497/spidermedia/Iron_News/th_1A.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/Iron_News/1A.jpg) [![](https://web.archive.org/web/20260214143510im_/http://img.photobucket.com/albums/v497/spidermedia/Iron_News/th_1C.png)](http://smg.photobucket.com/albums/v497/spidermedia/Iron_News/1C.png) [![](https://web.archive.org/web/20260214143510im_/http://img.photobucket.com/albums/v497/spidermedia/Iron_News/th_1B.png)](http://smg.photobucket.com/albums/v497/spidermedia/Iron_News/1B.png)
 К счастью, так как большинство панелей были мне не по вкусу, я спокойно отправился на встречу с такими талантливыми джентельменами, как: **Джон Ромита Младший** *(John Romita Jr)*, **Брайан Болланд** *(Brian Bolland)*, **Ади Гранов** *(Adi Granov)*, **Шон Филлипс** *(Sean Phillips)*, **Лейнил Ю** *(Leinil Yu)*, **Даг Брэйтвейт** *(Doug Braithwaite)* и **Стив Диллон** *(Steve Dillon)*.
 С некоторыми столкнулся совсем случайно, некоторых пришлось ждать в очереди, но оно того стоило. Своим волшебным появлением зрителей также обрадовали **Данкан Джонс** (*Duncan Jones)* - режиссер фильмов **"Луна 2112"** *(Moon)* и **"Исходный Код"** *(Source Code)* и британский телеведущий, а также сценарист комикса **Turf**, **Джонатан Росс** *(Jonathan Ross)*. Все вышеперечисленные личности были очень дружелюбными и приятными в общении. У кое-кого даже посчастливилось взять интервью, о котором мы расскажем ближе к **маю** или **июню**.
-После долгожданной встречи с мастерами своего дела, я отправился прямиком на панель, посвященную **"Зеленому Фонарю"** *(Green Lantern)* (другие панели по типу **Stan Lee Awards** и **Doctor Who Surprise Panel** посетили от силы человек 20, если не меньше). Зрителям показали [**трейлер игры "Green Lantern: Rise of the Manhunters"**](https://web.archive.org/web/20260123083308/http://spidermedia.ru/news/treyler-igry-green-lantern-rise-manhunters), весь полнометражный мультфильм **"Green Lantern: Emerald Knights"** (отличный проект, который должен понравится не только почитателям персонажа, но и обычным людям) и [**полноценный футадж фильма с WonderCon 2011**](../../../news/zelenyy-fonar-opisanie-futazha-i-koe-chto-eshche/) (спецэффекты выглядели намного лучше, чем в [**недавней нарезке из футаджа**](https://web.archive.org/web/20260120150723/https://spidermedia.ru/news/futazh-zelenogo-fonarya)).
+После долгожданной встречи с мастерами своего дела, я отправился прямиком на панель, посвященную **"Зеленому Фонарю"** *(Green Lantern)* (другие панели по типу **Stan Lee Awards** и **Doctor Who Surprise Panel** посетили от силы человек 20, если не меньше). Зрителям показали [**трейлер игры "Green Lantern: Rise of the Manhunters"**](../../../games/treyler-igry-green-lantern-rise-manhunters/), весь полнометражный мультфильм **"Green Lantern: Emerald Knights"** (отличный проект, который должен понравится не только почитателям персонажа, но и обычным людям) и [**полноценный футадж фильма с WonderCon 2011**](../../../news/zelenyy-fonar-opisanie-futazha-i-koe-chto-eshche/) (спецэффекты выглядели намного лучше, чем в [**недавней нарезке из футаджа**](../../../movies/futazh-zelenogo-fonarya/)).
 [![](https://web.archive.org/web/20260214143510im_/http://img.photobucket.com/albums/v497/spidermedia/Iron_News/th_1F.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/Iron_News/1F.jpg)
 По окончанию панели, я совсем случайно встретился с виновником торжества - **Марком Милларом**. Отлично поговорили, Марку интересно было услышать моё мнение по поводу всего происходящего, на что я дал позитивный ответ, ибо меня абсолютно всё устраивало (за исключением некоторых мелочей в форме плохой связи).
 [![](https://web.archive.org/web/20260214143510im_/http://img.photobucket.com/albums/v497/spidermedia/Iron_News/th_LokiThor.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/Iron_News/LokiThor.jpg)

@@ -10,6 +10,12 @@
     "artem-gabrelyanov",
     "russian-comics"
   ],
+  "cover": "https://web.archive.org/web/20160611161322im_/http://spidermedia.ru/assets/images/imho/civil-war-punch-which-side-of-marvel-s-civil-war-would-you-be-on.jpeg",
+  "modx_id": 100100,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

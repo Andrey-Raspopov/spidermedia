@@ -8,6 +8,12 @@
     "jellyfish-jam",
     "marvel"
   ],
+  "cover": "https://web.archive.org/web/20250715013025im_/http://spidermedia.ru/assets/images/reviews/jellyfish/loki-agent-of-asgard-vol-1/mosaic.jpg",
+  "modx_id": 101706,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

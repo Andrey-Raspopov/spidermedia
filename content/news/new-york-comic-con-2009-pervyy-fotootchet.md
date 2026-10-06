@@ -1,12 +1,20 @@
 {
   "title": "New York Comic Con 2009 - Первый Фотоотчет",
-  "date": "2009-02-06T04:29:00+03:00",
+  "date": "2009-02-06T04:29:38+03:00",
   "url": "/news/new-york-comic-con-2009-pervyy-fotootchet/",
+  "aliases": [
+    "/node/224/"
+  ],
   "original_url": "https://spidermedia.ru/news/new-york-comic-con-2009-pervyy-fotootchet",
   "archived": "https://web.archive.org/web/20240624131614/https://spidermedia.ru/news/new-york-comic-con-2009-pervyy-fotootchet",
   "tags": [
     "marvel",
     "nycc-2009"
+  ],
+  "modx_id": 224,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

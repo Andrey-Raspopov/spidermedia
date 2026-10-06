@@ -1,7 +1,10 @@
 {
   "title": "Sweet, sweet Christmas",
-  "date": "2010-07-16T03:37:00+03:00",
+  "date": "2010-07-16T02:37:36+03:00",
   "url": "/news/sweet-sweet-christmas/",
+  "aliases": [
+    "/node/2734/"
+  ],
   "original_url": "http://spidermedia.ru/news/sweet-sweet-christmas",
   "archived": "https://web.archive.org/web/20200929214033/http://spidermedia.ru/news/sweet-sweet-christmas",
   "tags": [
@@ -9,6 +12,12 @@
     "iron-fist",
     "luke-cage",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20200929214033im_/http://spidermedia.ru/assets/images/import_image/2734.jpg",
+  "modx_id": 2734,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

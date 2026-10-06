@@ -8,6 +8,12 @@
     "marvel",
     "daredevil"
   ],
+  "cover": "https://web.archive.org/web/20250315180349im_/http://spidermedia.ru/assets/images/tv/daredevil/dd4.jpg",
+  "modx_id": 100272,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

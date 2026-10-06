@@ -1,7 +1,10 @@
 {
   "title": "Раскрыта внешность Superior",
-  "date": "2010-07-01T21:12:00+03:00",
+  "date": "2010-07-01T20:12:50+03:00",
   "url": "/news/raskryta-vneshnost-superior/",
+  "aliases": [
+    "/node/2703/"
+  ],
   "original_url": "https://spidermedia.ru/news/raskryta-vneshnost-superior",
   "archived": "https://web.archive.org/web/20260211194118/https://spidermedia.ru/news/raskryta-vneshnost-superior",
   "tags": [
@@ -10,11 +13,17 @@
     "wizard-magazine",
     "superior"
   ],
+  "cover": "https://web.archive.org/web/20260211194118im_/http://spidermedia.ru/assets/images/import_image/2703.jpg",
+  "modx_id": 2703,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](https://web.archive.org/web/20260211194118im_/http://img.photobucket.com/albums/v497/spidermedia/th_931629.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/931629.jpg) На аукционе [ebay](http://cgi.ebay.com/WIZARD-228-SECRET-JAM-COVER-/400132981647?cmd=ViewItem&pt=UK_Books_Comics_Magazines_US_Comics_ET&hash=item5d29c8c38f#ht_2131wt_913) обнаружена обложка свежего журнала **Wizard #228** с изображением главного героя грядущего проекта **Марка Миллара** *(Mark Millar)* и **Лейнила Фрэнсиса Ю** *(Leinil Francis Yu)* **["Superior"](../../node/2649/ "superior")**.
+[![](https://web.archive.org/web/20260211194118im_/http://img.photobucket.com/albums/v497/spidermedia/th_931629.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/931629.jpg) На аукционе [ebay](http://cgi.ebay.com/WIZARD-228-SECRET-JAM-COVER-/400132981647?cmd=ViewItem&pt=UK_Books_Comics_Magazines_US_Comics_ET&hash=item5d29c8c38f#ht_2131wt_913) обнаружена обложка свежего журнала **Wizard #228** с изображением главного героя грядущего проекта **Марка Миллара** *(Mark Millar)* и **Лейнила Фрэнсиса Ю** *(Leinil Francis Yu)* **["Superior"](../novyy-proekt-marka-millara-i-leynila-frensisa-yu/ "superior")**.
 Разрешение обложки оставляет желать лучшего, но и по нему ясно, что ничего революционного в облике персонажа нет.
 **Обновление:** Начинают поступать подробности о сюжете комикса. Главный герой - 13-летний мальчик, страдающий рассеянным склерозом, превращающийся во взрослого сверхрсильного супергероя. Пока непонятно, нужно ли ему для этого что-то произносить или принимать какую-нибудь гадость. Зато известно, что во врагах у него будет некто **Абраксас** *(Abraxas)*, которого Миллар описывает как нечто среднее между Дарксайдом, Брейньяком и Дартом Вейдером. Лицезреть его можно пока лишь в виде фотки страницы Wizard:
 [![](https://web.archive.org/web/20260211194118im_/http://i937.photobucket.com/albums/ad214/redsonue/th_su2.jpg?t=1278004132)](http://i937.photobucket.com/albums/ad214/redsonue/su2.jpg)

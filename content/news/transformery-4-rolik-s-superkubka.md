@@ -1,12 +1,18 @@
 {
   "title": "ТРАНСФОРМЕРЫ 4: Ролик с Суперкубка",
-  "date": "2014-02-03T08:42:00+03:00",
+  "date": "2014-02-03T07:42:32+03:00",
   "url": "/news/transformery-4-rolik-s-superkubka/",
   "original_url": "https://spidermedia.ru/news/transformery-4-rolik-s-superkubka",
   "archived": "https://web.archive.org/web/20251014050916/https://spidermedia.ru/news/transformery-4-rolik-s-superkubka",
   "tags": [
     "trejlery",
     "transformers"
+  ],
+  "cover": "https://web.archive.org/web/20251014050916im_/http://spidermedia.ru/assets/images/import_image/7626.png",
+  "modx_id": 7626,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

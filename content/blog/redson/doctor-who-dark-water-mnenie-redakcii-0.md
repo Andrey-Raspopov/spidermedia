@@ -1,12 +1,18 @@
 {
   "title": "Doctor Who \"Dark Water\": Мнение редакции",
-  "date": "2014-11-03T12:08:00+03:00",
+  "date": "2014-11-03T12:08:50+03:00",
   "url": "/blog/redson/doctor-who-dark-water-mnenie-redakcii-0/",
   "original_url": "http://spidermedia.ru/blog/redson/doctor-who-dark-water-mnenie-redakcii-0",
   "archived": "https://web.archive.org/web/20250715015905/http://spidermedia.ru/blog/redson/doctor-who-dark-water-mnenie-redakcii-0",
   "tags": [
     "doctor-who",
     "obzor"
+  ],
+  "cover": "https://web.archive.org/web/20250715015905im_/http://spidermedia.ru/assets/images/import_image/8252.jpg",
+  "modx_id": 8252,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -8,6 +8,12 @@
     "boom-studios",
     "grant-morrison"
   ],
+  "cover": "https://web.archive.org/web/20260312012813im_/http://spidermedia.ru/assets/images/news/boom/klaus/klaus-morrison-mora.jpg",
+  "modx_id": 100309,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

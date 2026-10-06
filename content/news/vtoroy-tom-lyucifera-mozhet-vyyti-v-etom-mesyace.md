@@ -1,6 +1,6 @@
 {
   "title": "Второй том \"Люцифера\" может выйти в этом месяце",
-  "date": "2011-11-17T10:43:00+03:00",
+  "date": "2011-11-17T09:43:02+03:00",
   "url": "/news/vtoroy-tom-lyucifera-mozhet-vyyti-v-etom-mesyace/",
   "original_url": "https://spidermedia.ru/news/vtoroy-tom-lyucifera-mozhet-vyyti-v-etom-mesyace",
   "archived": "https://web.archive.org/web/20260313105851/https://spidermedia.ru/news/vtoroy-tom-lyucifera-mozhet-vyyti-v-etom-mesyace",
@@ -10,6 +10,12 @@
     "vertigo",
     "komiks-art",
     "eksmo"
+  ],
+  "cover": "https://web.archive.org/web/20260313105851im_/http://spidermedia.ru/assets/images/import_image/6699.jpg",
+  "modx_id": 6699,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

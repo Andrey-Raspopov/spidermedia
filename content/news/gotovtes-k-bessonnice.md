@@ -1,13 +1,20 @@
 {
   "title": "Готовьтесь к бессоннице",
-  "date": "2009-09-13T21:59:00+03:00",
+  "date": "2009-09-13T20:59:26+03:00",
   "url": "/news/gotovtes-k-bessonnice/",
   "original_url": "http://spidermedia.ru/news/gotovtes-k-bessonnice",
   "archived": "https://web.archive.org/web/20120608233825/http://spidermedia.ru/news/gotovtes-k-bessonnice",
   "tags": [
     "dark-horse",
     "graphic-novel",
-    "mk-perker"
+    "mk-perker",
+    "m.k.-perker"
+  ],
+  "cover": "https://web.archive.org/web/20120608233825im_/http://spidermedia.ru/assets/images/import_image/1889.jpg",
+  "modx_id": 1889,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

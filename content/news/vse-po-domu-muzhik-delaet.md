@@ -1,14 +1,24 @@
 {
   "title": "Все по дому мужик делает",
-  "date": "2009-05-21T22:36:00+03:00",
+  "date": "2009-05-21T21:36:38+03:00",
   "url": "/news/vse-po-domu-muzhik-delaet/",
+  "aliases": [
+    "/node/1255/"
+  ],
   "original_url": "http://spidermedia.ru/news/vse-po-domu-muzhik-delaet",
   "archived": "https://web.archive.org/web/20120609051608/http://spidermedia.ru/news/vse-po-domu-muzhik-delaet",
   "tags": [
     "dc-comics",
     "jim-starlin",
     "strange-adventures",
-    "art-0"
+    "art-0",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20120609051608im_/http://spidermedia.ru/assets/images/import_image/1255.jpg",
+  "modx_id": 1255,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

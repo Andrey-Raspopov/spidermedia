@@ -1,9 +1,15 @@
 {
   "title": "Best of 2011. Лучше бы кричали на драконов",
-  "date": "2012-01-09T12:55:00+03:00",
+  "date": "2012-01-09T11:55:32+03:00",
   "url": "/blog/plane-v/best-2011-luchshe-krichali-na-drakonov/",
   "original_url": "http://spidermedia.ru/blog/plane-v/best-2011-luchshe-krichali-na-drakonov",
   "archived": "https://web.archive.org/web/20200219022248/http://spidermedia.ru:80/blog/plane-v/best-2011-luchshe-krichali-na-drakonov",
+  "cover": "https://web.archive.org/web/20200219022248im_/http://spidermedia.ru/assets/images/import_image/6751.jpg",
+  "modx_id": 6751,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

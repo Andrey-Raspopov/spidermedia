@@ -4,6 +4,12 @@
   "url": "/games/devgamm-online-retrospektivno/",
   "original_url": "http://spidermedia.ru/games/devgamm-online-retrospektivno",
   "archived": "https://web.archive.org/web/20221128123008/http://spidermedia.ru/games/devgamm-online-retrospektivno",
+  "cover": "https://web.archive.org/web/20221128123008im_/http://spidermedia.ru/assets/images/games/devgamretro/devgammj-k.jpg",
+  "modx_id": 102433,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -12,13 +12,16 @@
     "komiksy",
     "tor"
   ],
+  "sources": [
+    "archive"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }
 
 ## Промо-арт к фильму "Тор"
 
-К сожалению, после выхода [**второго трейлера**](http://spidermedia.ru/news/novyy-treyler-filma-tor/), **Marvel** и **Paramount** не решились выпустить **новые постеры** по **"Тору"** *(Thor)*.
+К сожалению, после выхода [**второго трейлера**](../../comics/novyy-treyler-filma-tor/), **Marvel** и **Paramount** не решились выпустить **новые постеры** по **"Тору"** *(Thor)*.
 
 ]]>[![Photobucket](https://web.archive.org/web/20110225213814im_/http://img.photobucket.com/albums/v497/spidermedia/212.jpg)](http://img.photobucket.com/albums/v497/spidermedia/21-23.jpg)]]>
 Остается только гадать, когда состоится релиз постеров, а пока предлагаем всем взглянуть на неплохой набор промо с участием основных героев и злодеев фильма:]]>[![Photobucket](https://web.archive.org/web/20110225213814im_/http://img.photobucket.com/albums/v497/spidermedia/18-7.jpg)](http://img.photobucket.com/albums/v497/spidermedia/10-10.png)]]> ]]>[![Photobucket](https://web.archive.org/web/20110225213814im_/http://img.photobucket.com/albums/v497/spidermedia/17-9.jpg)](http://img.photobucket.com/albums/v497/spidermedia/8-11.png)]]> ]]>[![Photobucket](https://web.archive.org/web/20110225213814im_/http://img.photobucket.com/albums/v497/spidermedia/16-11.jpg)](http://img.photobucket.com/albums/v497/spidermedia/9-10.png)]]> ]]>[![Photobucket](https://web.archive.org/web/20110225213814im_/http://img.photobucket.com/albums/v497/spidermedia/15-16.jpg)](http://img.photobucket.com/albums/v497/spidermedia/7-12.png)]]>

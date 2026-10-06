@@ -1,6 +1,6 @@
 {
   "title": "«Стрела»: Официальное фото Рэя Палмера в костюме Атома",
-  "date": "2015-02-04T10:57:00+03:00",
+  "date": "2015-02-04T10:57:26+03:00",
   "url": "/news/strela-oficialnoe-foto-reya-palmera-v-kostyume-atoma/",
   "original_url": "http://spidermedia.ru/news/strela-oficialnoe-foto-reya-palmera-v-kostyume-atoma",
   "archived": "https://web.archive.org/web/20251111083832/http://spidermedia.ru/news/strela-oficialnoe-foto-reya-palmera-v-kostyume-atoma",
@@ -8,6 +8,12 @@
     "dc-comics",
     "atom",
     "green-arrow"
+  ],
+  "cover": "https://web.archive.org/web/20150326043002im_/http://spidermedia.ru/assets/images/import_image/8582.jpg",
+  "modx_id": 8582,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

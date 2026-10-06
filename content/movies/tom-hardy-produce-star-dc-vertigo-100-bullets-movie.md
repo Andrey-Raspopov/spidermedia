@@ -7,6 +7,12 @@
   "tags": [
     "vertigo"
   ],
+  "cover": "https://web.archive.org/web/20210820023601im_/http://spidermedia.ru/assets/images/movies/vertigo/100-bullets/100bullets.jpg",
+  "modx_id": 100458,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

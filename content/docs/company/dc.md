@@ -4,6 +4,9 @@
   "url": "/docs/company/dc/",
   "original_url": "http://spidermedia.ru/docs/company/dc.html",
   "archived": "https://web.archive.org/web/20051204105539/http://spidermedia.ru:80/docs/company/dc.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

@@ -1,7 +1,10 @@
 {
   "title": "The Column With No Name - Week #4: Are you ready to get infamous--?",
-  "date": "2009-03-01T02:18:00+03:00",
+  "date": "2009-03-01T02:18:30+03:00",
   "url": "/blog/sir-carnage/column-no-name-week-4-are-you-ready-get-infamous/",
+  "aliases": [
+    "/node/553/"
+  ],
   "original_url": "http://spidermedia.ru/blog/sir-carnage/column-no-name-week-4-are-you-ready-get-infamous",
   "archived": "https://web.archive.org/web/20250419043412/http://spidermedia.ru/blog/sir-carnage/column-no-name-week-4-are-you-ready-get-infamous",
   "tags": [
@@ -15,6 +18,12 @@
     "hulk",
     "dark-horse",
     "the-column-with-no-name"
+  ],
+  "cover": "https://web.archive.org/web/20250419043412im_/http://spidermedia.ru/assets/images/import_image/553.jpg",
+  "modx_id": 553,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

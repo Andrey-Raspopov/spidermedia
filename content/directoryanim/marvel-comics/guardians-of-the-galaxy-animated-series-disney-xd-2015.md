@@ -4,6 +4,9 @@
   "url": "/directoryanim/marvel-comics/guardians-of-the-galaxy-animated-series-disney-xd-2015/",
   "original_url": "https://spidermedia.ru/directoryanim/marvel-comics/guardians-of-the-galaxy-animated-series-disney-xd-2015",
   "archived": "https://web.archive.org/web/20251117010720/https://spidermedia.ru/directoryanim/marvel-comics/guardians-of-the-galaxy-animated-series-disney-xd-2015",
+  "sources": [
+    "archive"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

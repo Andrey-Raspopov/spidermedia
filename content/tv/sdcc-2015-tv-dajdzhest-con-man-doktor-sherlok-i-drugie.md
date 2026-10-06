@@ -6,7 +6,14 @@
   "archived": "https://web.archive.org/web/20260309184235/http://spidermedia.ru/tv/sdcc-2015-tv-dajdzhest-con-man-doktor-sherlok-i-drugie",
   "tags": [
     "doctor-who",
-    "san-diego-comic-con-international"
+    "san-diego-comic-con-international",
+    "sdcc2015"
+  ],
+  "cover": "https://web.archive.org/web/20260309184235im_/http://spidermedia.ru/assets/images/news/sdcc/2015/tv/fillion-tudyk-con-man.jpg",
+  "modx_id": 100343,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

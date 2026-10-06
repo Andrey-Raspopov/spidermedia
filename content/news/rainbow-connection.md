@@ -1,6 +1,6 @@
 {
   "title": "Rainbow Connection",
-  "date": "2013-02-20T19:43:00+03:00",
+  "date": "2013-02-20T18:43:28+03:00",
   "url": "/news/rainbow-connection/",
   "original_url": "https://spidermedia.ru/news/rainbow-connection",
   "archived": "https://web.archive.org/web/20260313111247/https://spidermedia.ru/news/rainbow-connection",
@@ -16,6 +16,12 @@
     "dzhastin-dzhordan",
     "brad-walker",
     "alessandro-vitti"
+  ],
+  "cover": "https://web.archive.org/web/20260313111247im_/http://spidermedia.ru/assets/images/import_image/7147.jpg",
+  "modx_id": 7147,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

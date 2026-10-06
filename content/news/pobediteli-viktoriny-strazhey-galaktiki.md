@@ -1,6 +1,6 @@
 {
   "title": "Победители викторины \"Стражей галактики\"!",
-  "date": "2014-07-31T11:58:00+03:00",
+  "date": "2014-07-31T10:58:33+03:00",
   "url": "/news/pobediteli-viktoriny-strazhey-galaktiki/",
   "original_url": "https://spidermedia.ru/news/pobediteli-viktoriny-strazhey-galaktiki",
   "archived": "https://web.archive.org/web/20260308235107/https://spidermedia.ru/news/pobediteli-viktoriny-strazhey-galaktiki",
@@ -8,6 +8,12 @@
     "guardians-of-the-galaxy",
     "marvel",
     "viktorina"
+  ],
+  "cover": "https://web.archive.org/web/20260308235107im_/http://spidermedia.ru/assets/images/import_image/7953.jpg",
+  "modx_id": 7953,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

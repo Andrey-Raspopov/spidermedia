@@ -1,13 +1,21 @@
 {
   "title": "Сорвиголова на обложке австралийского журнала",
-  "date": "2015-02-24T17:17:00+03:00",
+  "date": "2015-02-24T17:17:45+03:00",
   "url": "/news/sorvigolova-na-oblozhke-avstraliyskogo-zhurnala/",
   "original_url": "https://spidermedia.ru/news/sorvigolova-na-oblozhke-avstraliyskogo-zhurnala",
   "archived": "https://web.archive.org/web/20260309184449/https://spidermedia.ru/news/sorvigolova-na-oblozhke-avstraliyskogo-zhurnala",
   "tags": [
     "serialy",
     "daredevil",
-    "marvel"
+    "marvel",
+    "tv",
+    "sorvigolova"
+  ],
+  "cover": "https://web.archive.org/web/20150326010809im_/http://spidermedia.ru/assets/images/import_image/8645.jpg",
+  "modx_id": 8645,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

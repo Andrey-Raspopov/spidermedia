@@ -1,12 +1,18 @@
 {
   "title": "МЖДЗ: WE ARE THE DEAD",
-  "date": "2012-06-28T00:24:00+03:00",
+  "date": "2012-06-27T23:24:42+03:00",
   "url": "/news/mzhdz-we-are-dead/",
   "original_url": "https://spidermedia.ru/news/mzhdz-we-are-dead",
   "archived": "https://web.archive.org/web/20230205163419/https://spidermedia.ru/news/mzhdz-we-are-dead",
   "tags": [
     "mnenie",
     "mzhdz"
+  ],
+  "cover": "https://web.archive.org/web/20160322234918im_/http://spidermedia.ru/assets/images/import_image/6946.png",
+  "modx_id": 6946,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "«Энциклопедия Marvel» от издательства «Эксмо»",
-  "date": "2015-01-13T18:14:00+03:00",
+  "date": "2015-01-13T18:14:50+03:00",
   "url": "/news/enciklopediya-marvel-ot-izdatelstva-eksmo-0/",
   "original_url": "http://spidermedia.ru/news/enciklopediya-marvel-ot-izdatelstva-eksmo-0",
   "archived": "https://web.archive.org/web/20260116215352/http://spidermedia.ru/news/enciklopediya-marvel-ot-izdatelstva-eksmo-0",
@@ -8,6 +8,12 @@
     "eksmo",
     "marvel",
     "zarubezhnye-komiksy-na-russkom"
+  ],
+  "cover": "https://web.archive.org/web/20160611152328im_/http://spidermedia.ru/assets/images/import_image/8497.jpg",
+  "modx_id": 8497,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

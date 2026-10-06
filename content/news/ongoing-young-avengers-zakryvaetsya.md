@@ -1,6 +1,6 @@
 {
   "title": "Онгоинг YOUNG AVENGERS закрывается",
-  "date": "2013-11-15T11:30:00+03:00",
+  "date": "2013-11-15T10:30:31+03:00",
   "url": "/news/ongoing-young-avengers-zakryvaetsya/",
   "original_url": "http://spidermedia.ru/news/ongoing-young-avengers-zakryvaetsya",
   "archived": "https://web.archive.org/web/20251108032600/http://spidermedia.ru/news/ongoing-young-avengers-zakryvaetsya",
@@ -8,6 +8,12 @@
     "young-avengers",
     "marvel",
     "kiron-gillen"
+  ],
+  "cover": "https://web.archive.org/web/20251108032600im_/http://spidermedia.ru/assets/images/import_image/7546.jpg",
+  "modx_id": 7546,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

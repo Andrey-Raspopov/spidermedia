@@ -1,6 +1,6 @@
 {
   "title": "Мэтью Вон, выйди вон",
-  "date": "2012-10-26T10:51:00+03:00",
+  "date": "2012-10-26T09:51:26+03:00",
   "url": "/news/metyu-von-vyydi-von/",
   "original_url": "https://spidermedia.ru/news/metyu-von-vyydi-von",
   "archived": "https://web.archive.org/web/20260124044056/https://spidermedia.ru/news/metyu-von-vyydi-von",
@@ -8,7 +8,15 @@
     "days-of-future-past",
     "lyudi-iks-pervyj-klass",
     "marvel",
-    "x-men"
+    "x-men",
+    "dni-minuvshego-budushhego",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20150428170713im_/http://spidermedia.ru/assets/images/import_image/7075.jpg",
+  "modx_id": 7075,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,13 +1,20 @@
 {
   "title": "Знакомьтесь - учитель Сплинтер",
-  "date": "2013-04-16T15:24:00+03:00",
+  "date": "2013-04-16T14:24:16+03:00",
   "url": "/news/znakomtes-uchitel-splinter/",
   "original_url": "http://spidermedia.ru/news/znakomtes-uchitel-splinter",
   "archived": "https://web.archive.org/web/20130619064727/http://spidermedia.ru/news/znakomtes-uchitel-splinter",
   "tags": [
     "tmnt",
     "kino",
-    "cherepashki-nindzya"
+    "cherepashki-nindzya",
+    "ninja-turtles"
+  ],
+  "cover": "https://web.archive.org/web/20130619064727im_/http://spidermedia.ru/assets/images/import_image/7206.jpg",
+  "modx_id": 7206,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

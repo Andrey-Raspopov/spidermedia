@@ -1,6 +1,6 @@
 {
   "title": "Город Грехов: Женщина, на которую можно посмотреть",
-  "date": "2014-08-21T22:46:00+03:00",
+  "date": "2014-08-21T21:46:51+03:00",
   "url": "/blog/hello-hella/gorod-grehov-zhenshchina-na-kotoruyu-stoit-posmotret/",
   "original_url": "http://spidermedia.ru/blog/hello-hella/gorod-grehov-zhenshchina-na-kotoruyu-stoit-posmotret",
   "archived": "https://web.archive.org/web/20250519181809/http://spidermedia.ru/blog/hello-hella/gorod-grehov-zhenshchina-na-kotoruyu-stoit-posmotret",
@@ -9,6 +9,12 @@
     "film",
     "recenziya",
     "sin-city"
+  ],
+  "cover": "https://web.archive.org/web/20150424123558im_/http://spidermedia.ru/assets/images/import_image/8011.jpg",
+  "modx_id": 8011,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

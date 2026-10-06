@@ -1,13 +1,22 @@
 {
   "title": "Не просто бэк-ап Amazing Spider-man #612",
-  "date": "2009-11-18T19:08:00+03:00",
+  "date": "2009-11-18T19:08:48+03:00",
   "url": "/blog/silver/ne-prosto-bek-ap-amazing-spider-man-612/",
+  "aliases": [
+    "/node/2112/"
+  ],
   "original_url": "http://spidermedia.ru/blog/silver/ne-prosto-bek-ap-amazing-spider-man-612",
   "archived": "https://web.archive.org/web/20190806145957/http://spidermedia.ru:80/blog/silver/ne-prosto-bek-ap-amazing-spider-man-612",
   "tags": [
     "dzhej-em-ken-nimura",
     "joe-kelly",
     "spider-man"
+  ],
+  "cover": "https://web.archive.org/web/20190806145957im_/http://spidermedia.ru/assets/images/import_image/2112.jpg",
+  "modx_id": 2112,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

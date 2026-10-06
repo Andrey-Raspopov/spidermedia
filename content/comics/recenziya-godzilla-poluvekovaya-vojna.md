@@ -7,6 +7,12 @@
   "tags": [
     "obzor"
   ],
+  "cover": "https://web.archive.org/web/20200214175633im_/http://spidermedia.ru/assets/images/news/images/oleg-lyfar/review/godzilla/1cover.jpg",
+  "modx_id": 102185,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

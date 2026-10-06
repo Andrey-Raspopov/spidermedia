@@ -9,6 +9,12 @@
     "imho",
     "mnenie"
   ],
+  "cover": "https://web.archive.org/web/20260123071738im_/http://spidermedia.ru/assets/images/articles/dc-movies/y__xr6ls.png",
+  "modx_id": 102343,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

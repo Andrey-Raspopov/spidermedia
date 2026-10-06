@@ -7,6 +7,12 @@
   "tags": [
     "dc-comics"
   ],
+  "cover": "https://web.archive.org/web/20251206153118im_/http://spidermedia.ru/assets/images/games/batman-arkham-knight/batman-arkham-knight-screenshot-1.jpg",
+  "modx_id": 100297,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

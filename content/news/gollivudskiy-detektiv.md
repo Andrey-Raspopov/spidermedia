@@ -1,7 +1,10 @@
 {
   "title": "Голливудский детектив",
-  "date": "2009-06-14T18:25:00+03:00",
+  "date": "2009-06-14T17:25:23+03:00",
   "url": "/news/gollivudskiy-detektiv/",
+  "aliases": [
+    "/node/1418/"
+  ],
   "original_url": "http://spidermedia.ru/news/gollivudskiy-detektiv",
   "archived": "https://web.archive.org/web/20120607094111/http://spidermedia.ru/news/gollivudskiy-detektiv",
   "tags": [
@@ -12,13 +15,20 @@
     "dominik-fortuna",
     "komiksy",
     "marvel",
-    "oblozhki"
+    "oblozhki",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20120607094111im_/http://spidermedia.ru/assets/images/import_image/1418.jpg",
+  "modx_id": 1418,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }
 
-]]>[![TMSTRM001_cov.jpg - image uploaded to Picamatic](https://web.archive.org/web/20120607094111im_/http://i054.radikal.ru/0906/00/c1b34f834f55.jpg)](http://marvel.com/i/content/st/8321new_storyimage4649442.jpg)]]> Перед своими ]]>[максовскими приключениями](../../node/1218/)]]> **Доминик Фортуна** *(Dominic Fortune)* появится и в виде диджитал-комиксов:
+]]>[![TMSTRM001_cov.jpg - image uploaded to Picamatic](https://web.archive.org/web/20120607094111im_/http://i054.radikal.ru/0906/00/c1b34f834f55.jpg)](http://marvel.com/i/content/st/8321new_storyimage4649442.jpg)]]> Перед своими ]]>[максовскими приключениями](../fabrika-koshmarov-im-chaykina-predstavlyaet/)]]> **Доминик Фортуна** *(Dominic Fortune)* появится и в виде диджитал-комиксов:
 
 С помощью воспоминаний мы переносимся в 1937 год, в котором Доминику предстоит расследовать таинственное убийство на холмах Голливуда. Возможно, эта история будет связана каким-то образом и с сентябрьской лимиткой, выходящая в рамках **Marvel MAX**.
 

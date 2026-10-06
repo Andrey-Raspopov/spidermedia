@@ -1,7 +1,10 @@
 {
   "title": "Ненадолго, но с нами...",
-  "date": "2009-04-07T16:20:00+03:00",
+  "date": "2009-04-07T15:20:05+03:00",
   "url": "/news/nenadolgo-no-s-nami/",
+  "aliases": [
+    "/node/830/"
+  ],
   "original_url": "http://spidermedia.ru/news/nenadolgo-no-s-nami",
   "archived": "https://web.archive.org/web/20190415014021/http://spidermedia.ru:80/news/nenadolgo-no-s-nami",
   "tags": [
@@ -10,7 +13,13 @@
     "fantastic-four",
     "fantastic-force",
     "stiv-kurt",
-    "dzho-ehirn"
+    "dzho-ehirn",
+    "fantasticheskaya-chetverka"
+  ],
+  "modx_id": 830,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

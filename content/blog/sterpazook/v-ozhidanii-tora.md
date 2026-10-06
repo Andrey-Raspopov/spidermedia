@@ -1,7 +1,10 @@
 {
   "title": "В ожидании \"Тора\"",
-  "date": "2009-07-09T12:02:00+03:00",
+  "date": "2009-07-09T11:02:59+03:00",
   "url": "/blog/sterpazook/v-ozhidanii-tora/",
+  "aliases": [
+    "/node/1514/"
+  ],
   "original_url": "http://spidermedia.ru/blog/sterpazook/v-ozhidanii-tora",
   "archived": "https://web.archive.org/web/20120608140542/http://spidermedia.ru/blog/sterpazook/v-ozhidanii-tora",
   "tags": [
@@ -11,7 +14,14 @@
     "kino",
     "tv-0",
     "tor",
-    "halk"
+    "halk",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20120608140542im_/http://spidermedia.ru/assets/images/import_image/1514.jpg",
+  "modx_id": 1514,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

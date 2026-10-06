@@ -1,14 +1,24 @@
 {
   "title": "\"Фантом\" на ТВ",
-  "date": "2009-04-07T14:17:00+03:00",
+  "date": "2009-04-07T13:17:37+03:00",
   "url": "/news/fantom-na-tv/",
+  "aliases": [
+    "/node/877/"
+  ],
   "original_url": "http://spidermedia.ru/news/fantom-na-tv",
   "archived": "https://web.archive.org/web/20120608141628/http://spidermedia.ru/news/fantom-na-tv",
   "tags": [
     "phantom",
     "kino",
     "tv-0",
-    "fantom"
+    "fantom",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20120608141628im_/http://spidermedia.ru/assets/images/import_image/877.jpg",
+  "modx_id": 877,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

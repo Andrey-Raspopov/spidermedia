@@ -1,14 +1,24 @@
 {
   "title": "рецензия - Pax Romana",
-  "date": "2009-02-20T22:23:00+03:00",
+  "date": "2009-02-20T21:23:49+03:00",
   "url": "/blog/bastion7/recenziya-pax-romana/",
+  "aliases": [
+    "/node/466/"
+  ],
   "original_url": "http://spidermedia.ru/blog/bastion7/recenziya-pax-romana",
   "archived": "https://web.archive.org/web/20120718085422/http://spidermedia.ru/blog/bastion7/recenziya-pax-romana",
   "tags": [
     "image-comics",
     "jonathan-hickman",
     "komiksy",
-    "recenziya"
+    "recenziya",
+    "dzhonatan-hikman"
+  ],
+  "cover": "https://web.archive.org/web/20120718085422im_/http://spidermedia.ru/assets/images/import_image/466.jpg",
+  "modx_id": 466,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

@@ -9,6 +9,12 @@
     "andrej-vasin",
     "intervyu"
   ],
+  "cover": "https://web.archive.org/web/20210906092750im_/http://spidermedia.ru/assets/images/news/bubble/vasin/bsb27a.jpg",
+  "modx_id": 100173,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

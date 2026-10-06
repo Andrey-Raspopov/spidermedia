@@ -1,12 +1,18 @@
 {
   "title": "Have no doubts Mark Millar is the Stan Lee of the 21st Century",
-  "date": "2010-03-09T22:36:00+03:00",
+  "date": "2010-03-09T21:36:21+03:00",
   "url": "/blog/redson/have-no-doubts-mark-millar-stan-lee-21st-century/",
   "original_url": "http://spidermedia.ru/blog/redson/have-no-doubts-mark-millar-stan-lee-21st-century",
   "archived": "https://web.archive.org/web/20111126080944/http://spidermedia.ru/blog/redson/have-no-doubts-mark-millar-stan-lee-21st-century",
   "tags": [
     "komiksy",
     "mark-millar"
+  ],
+  "cover": "https://web.archive.org/web/20111126080944im_/http://spidermedia.ru/assets/images/import_image/2427.jpg",
+  "modx_id": 2427,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

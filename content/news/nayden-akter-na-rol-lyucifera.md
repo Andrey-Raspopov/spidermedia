@@ -1,6 +1,6 @@
 {
   "title": "Найден актер на роль Люцифера",
-  "date": "2015-02-27T23:23:00+03:00",
+  "date": "2015-02-27T23:23:15+03:00",
   "url": "/news/nayden-akter-na-rol-lyucifera/",
   "original_url": "https://spidermedia.ru/news/nayden-akter-na-rol-lyucifera",
   "archived": "https://web.archive.org/web/20260120164815/https://spidermedia.ru/news/nayden-akter-na-rol-lyucifera",
@@ -8,7 +8,14 @@
     "serialy",
     "lyucifer",
     "kasting",
-    "vertigo"
+    "vertigo",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20150326112919im_/http://spidermedia.ru/assets/images/import_image/8659.jpg",
+  "modx_id": 8659,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

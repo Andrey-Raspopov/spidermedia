@@ -1,9 +1,18 @@
 {
   "title": "Магазин комиксов \"Чук и Гик\" откроется в Москве (гики получат скидки!)",
-  "date": "2010-12-07T18:04:00+03:00",
+  "date": "2010-12-07T18:04:54+03:00",
   "url": "/blog/vch/magazin-komiksov-chuk-i-gik-otkroetsya-v-moskve-giki-poluchat-skidki/",
+  "aliases": [
+    "/node/3098/"
+  ],
   "original_url": "http://spidermedia.ru/blog/vch/magazin-komiksov-chuk-i-gik-otkroetsya-v-moskve-giki-poluchat-skidki",
   "archived": "https://web.archive.org/web/20190914072111/http://spidermedia.ru:80/blog/vch/magazin-komiksov-chuk-i-gik-otkroetsya-v-moskve-giki-poluchat-skidki",
+  "cover": "https://web.archive.org/web/20190914072111im_/http://spidermedia.ru/assets/images/import_image/3098.gif",
+  "modx_id": 3098,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

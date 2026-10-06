@@ -8,6 +8,12 @@
     "disney",
     "marvel"
   ],
+  "cover": "https://web.archive.org/web/20260312010732im_/http://spidermedia.ru/assets/images/movies/marvel/avengers_vs._x-men_vol_1_1.jpg",
+  "modx_id": 101765,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

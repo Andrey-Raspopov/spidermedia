@@ -1,7 +1,10 @@
 {
   "title": "Show Must Go On",
-  "date": "2010-09-10T21:03:00+03:00",
+  "date": "2010-09-10T20:03:08+03:00",
   "url": "/news/show-must-go/",
+  "aliases": [
+    "/node/2903/"
+  ],
   "original_url": "https://spidermedia.ru/news/show-must-go",
   "archived": "https://web.archive.org/web/20250808213226/https://spidermedia.ru/news/show-must-go",
   "tags": [
@@ -9,6 +12,12 @@
     "spider-man-turn-off-the-dark",
     "marvel",
     "spider-man"
+  ],
+  "cover": "https://web.archive.org/web/20250808213226im_/http://spidermedia.ru/assets/images/import_image/2903.jpg",
+  "modx_id": 2903,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

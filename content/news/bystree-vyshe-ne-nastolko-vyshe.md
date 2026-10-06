@@ -1,6 +1,6 @@
 {
   "title": "Быстрее, выше, не настолько выше",
-  "date": "2012-02-25T08:57:00+03:00",
+  "date": "2012-02-25T07:57:05+03:00",
   "url": "/news/bystree-vyshe-ne-nastolko-vyshe/",
   "original_url": "http://spidermedia.ru/news/bystree-vyshe-ne-nastolko-vyshe",
   "archived": "https://web.archive.org/web/20250920202407/http://spidermedia.ru/news/bystree-vyshe-ne-nastolko-vyshe",
@@ -8,6 +8,12 @@
     "image-comics",
     "ming-dojl",
     "brian-wood"
+  ],
+  "cover": "https://web.archive.org/web/20250920202407im_/http://spidermedia.ru/assets/images/import_image/6800.jpg",
+  "modx_id": 6800,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

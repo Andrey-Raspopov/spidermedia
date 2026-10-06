@@ -1,7 +1,10 @@
 {
   "title": "Редсон и Игрок доставляют",
-  "date": "2009-04-30T21:25:00+03:00",
+  "date": "2009-04-30T20:25:29+03:00",
   "url": "/blog/redson/redson-i-igrok-dostavlyayut/",
+  "aliases": [
+    "/node/1073/"
+  ],
   "original_url": "http://spidermedia.ru/blog/redson/redson-i-igrok-dostavlyayut",
   "archived": "https://web.archive.org/web/20120613014639/http://spidermedia.ru/blog/redson/redson-i-igrok-dostavlyayut",
   "tags": [
@@ -10,6 +13,12 @@
     "komiksy",
     "rosomaha",
     "hyu-dzhekman"
+  ],
+  "cover": "https://web.archive.org/web/20120613014639im_/http://spidermedia.ru/assets/images/import_image/1073.gif",
+  "modx_id": 1073,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

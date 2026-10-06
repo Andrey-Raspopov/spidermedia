@@ -1,12 +1,21 @@
 {
   "title": "Роботы среди нас",
-  "date": "2009-02-10T19:25:00+03:00",
+  "date": "2009-02-10T18:25:21+03:00",
   "url": "/blog/sterpazook/roboty-sredi-nas/",
+  "aliases": [
+    "/node/303/"
+  ],
   "original_url": "http://spidermedia.ru/blog/sterpazook/roboty-sredi-nas",
   "archived": "https://web.archive.org/web/20120607193134/http://spidermedia.ru/blog/sterpazook/roboty-sredi-nas",
   "tags": [
     "novye-tehnologii",
     "roboty"
+  ],
+  "cover": "https://web.archive.org/web/20120607193134im_/http://spidermedia.ru/assets/images/import_image/303.jpg",
+  "modx_id": 303,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

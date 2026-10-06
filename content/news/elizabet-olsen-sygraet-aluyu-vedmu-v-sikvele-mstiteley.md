@@ -1,6 +1,6 @@
 {
   "title": "Элизабет Олсен сыграет Алую Ведьму в сиквеле \"Мстителей\"",
-  "date": "2013-10-03T13:54:00+03:00",
+  "date": "2013-10-03T12:54:47+03:00",
   "url": "/news/elizabet-olsen-sygraet-aluyu-vedmu-v-sikvele-mstiteley/",
   "original_url": "https://spidermedia.ru/news/elizabet-olsen-sygraet-aluyu-vedmu-v-sikvele-mstiteley",
   "archived": "https://web.archive.org/web/20250807230443/https://spidermedia.ru/news/elizabet-olsen-sygraet-aluyu-vedmu-v-sikvele-mstiteley",
@@ -8,6 +8,12 @@
     "marvel",
     "avengers",
     "scarlet-witch"
+  ],
+  "cover": "https://web.archive.org/web/20150424123142im_/http://spidermedia.ru/assets/images/import_image/7490.jpg",
+  "modx_id": 7490,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

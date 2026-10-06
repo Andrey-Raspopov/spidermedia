@@ -1,11 +1,20 @@
 {
   "title": "Короткий метр",
-  "date": "2010-06-21T19:54:00+03:00",
+  "date": "2010-06-21T18:54:34+03:00",
   "url": "/news/korotkiy-metr/",
+  "aliases": [
+    "/node/2684/"
+  ],
   "original_url": "http://spidermedia.ru/news/korotkiy-metr",
   "archived": "https://web.archive.org/web/20240720055729/http://spidermedia.ru/news/korotkiy-metr",
   "tags": [
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20240720055729im_/http://spidermedia.ru/assets/images/import_image/2684.jpg",
+  "modx_id": 2684,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

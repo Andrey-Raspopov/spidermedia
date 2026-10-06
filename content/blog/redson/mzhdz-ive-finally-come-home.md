@@ -1,12 +1,18 @@
 {
   "title": "МЖДЗ: I'VE FINALLY COME HOME",
-  "date": "2011-08-17T14:36:00+03:00",
+  "date": "2011-08-17T13:36:54+03:00",
   "url": "/blog/redson/mzhdz-ive-finally-come-home/",
   "original_url": "http://spidermedia.ru/blog/redson/mzhdz-ive-finally-come-home",
   "archived": "https://web.archive.org/web/20251108030058/http://spidermedia.ru/blog/redson/mzhdz-ive-finally-come-home",
   "tags": [
     "mnenie",
     "mzhdz"
+  ],
+  "cover": "https://web.archive.org/web/20251108030058im_/http://spidermedia.ru/assets/images/import_image/6569.png",
+  "modx_id": 6569,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

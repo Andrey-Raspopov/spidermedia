@@ -1,11 +1,17 @@
 {
   "title": "Обложечкi",
-  "date": "2012-03-06T10:57:00+03:00",
+  "date": "2012-03-06T09:57:37+03:00",
   "url": "/blog/plane-v/oblozhechki/",
   "original_url": "http://spidermedia.ru/blog/plane-v/oblozhechki",
   "archived": "https://web.archive.org/web/20200127175024/http://spidermedia.ru:80/blog/plane-v/oblozhechki",
   "tags": [
     "majk-minyola"
+  ],
+  "cover": "https://web.archive.org/web/20200127175024im_/http://spidermedia.ru/assets/images/import_image/6814.jpg",
+  "modx_id": 6814,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

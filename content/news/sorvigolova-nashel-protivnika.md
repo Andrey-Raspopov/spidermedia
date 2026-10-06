@@ -1,6 +1,6 @@
 {
   "title": "Сорвиголова нашел противника",
-  "date": "2014-06-10T23:25:00+03:00",
+  "date": "2014-06-10T22:25:14+03:00",
   "url": "/news/sorvigolova-nashel-protivnika/",
   "original_url": "http://spidermedia.ru/news/sorvigolova-nashel-protivnika",
   "archived": "https://web.archive.org/web/20251107024647/http://spidermedia.ru/news/sorvigolova-nashel-protivnika",
@@ -10,6 +10,12 @@
     "netflix",
     "marvel",
     "daredevil"
+  ],
+  "cover": "https://web.archive.org/web/20150502181136im_/http://spidermedia.ru/assets/images/import_image/7796.jpg",
+  "modx_id": 7796,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

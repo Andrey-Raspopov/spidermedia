@@ -4,6 +4,9 @@
   "url": "/docs/review/marvel/usm/usm/",
   "original_url": "http://www.spidermedia.ru/docs/review/marvel/usm/usm.html",
   "archived": "https://web.archive.org/web/20050310010815/http://www.spidermedia.ru:80/docs/review/marvel/usm/usm.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

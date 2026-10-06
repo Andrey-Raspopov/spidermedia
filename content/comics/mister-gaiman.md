@@ -11,6 +11,12 @@
     "neil-gaiman",
     "neil-gaiman-sandman"
   ],
+  "cover": "https://web.archive.org/web/20160611014012im_/http://spidermedia.ru/assets/images/articles/sandman/img_20150621_233559.jpg",
+  "modx_id": 100328,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

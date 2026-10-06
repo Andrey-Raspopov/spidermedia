@@ -7,6 +7,12 @@
   "tags": [
     "dc-comics"
   ],
+  "cover": "https://web.archive.org/web/20160611125026im_/http://spidermedia.ru/assets/images/animation/dc-comics/batman-bad-blood/maxresdefault.jpg",
+  "modx_id": 100919,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

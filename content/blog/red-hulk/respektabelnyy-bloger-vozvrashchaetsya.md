@@ -1,7 +1,10 @@
 {
   "title": "Респектабельный блогер возвращается",
-  "date": "2009-12-01T03:16:00+03:00",
+  "date": "2009-12-01T03:16:59+03:00",
   "url": "/blog/red-hulk/respektabelnyy-bloger-vozvrashchaetsya/",
+  "aliases": [
+    "/node/2142/"
+  ],
   "original_url": "https://spidermedia.ru/blog/red-hulk/respektabelnyy-bloger-vozvrashchaetsya",
   "archived": "https://web.archive.org/web/20260313114354/https://spidermedia.ru/blog/red-hulk/respektabelnyy-bloger-vozvrashchaetsya",
   "tags": [
@@ -17,7 +20,16 @@
     "iron-man",
     "avengers",
     "daredevil",
-    "captain-america"
+    "captain-america",
+    "mett-frakshen",
+    "lyudi-iks",
+    "tor",
+    "invincible-iron-man"
+  ],
+  "modx_id": 2142,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

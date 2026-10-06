@@ -1,11 +1,20 @@
 {
   "title": "IDW Publishing. Двадцатое мая. Много",
-  "date": "2009-05-15T12:55:00+03:00",
+  "date": "2009-05-15T11:55:05+03:00",
   "url": "/blog/oleg89/idw-publishing-dvadcatoe-maya-mnogo/",
+  "aliases": [
+    "/node/1192/"
+  ],
   "original_url": "http://spidermedia.ru/blog/oleg89/idw-publishing-dvadcatoe-maya-mnogo",
   "archived": "https://web.archive.org/web/20260121013252/http://spidermedia.ru/blog/oleg89/idw-publishing-dvadcatoe-maya-mnogo",
   "tags": [
     "idw-publishing"
+  ],
+  "cover": "https://web.archive.org/web/20260121013252im_/http://spidermedia.ru/assets/images/import_image/1192.jpg",
+  "modx_id": 1192,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

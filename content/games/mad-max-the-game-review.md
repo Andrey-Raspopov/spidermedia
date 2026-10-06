@@ -4,6 +4,12 @@
   "url": "/games/mad-max-the-game-review/",
   "original_url": "http://spidermedia.ru/games/mad-max-the-game-review",
   "archived": "https://web.archive.org/web/20240416044954/http://spidermedia.ru/games/mad-max-the-game-review",
+  "cover": "https://web.archive.org/web/20170908100831im_/http://spidermedia.ru/assets/images/games/mad-max/001.jpg",
+  "modx_id": 100560,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

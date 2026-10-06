@@ -7,6 +7,12 @@
   "tags": [
     "dc-comics"
   ],
+  "cover": "https://web.archive.org/web/20240916015743im_/http://spidermedia.ru/assets/images/news/dc/joker-the-killing-joker.jpg",
+  "modx_id": 100210,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

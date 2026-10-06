@@ -1,6 +1,6 @@
 {
   "title": "Fear Itself: Ад на колесах",
-  "date": "2011-03-14T19:34:00+03:00",
+  "date": "2011-03-14T19:34:40+03:00",
   "url": "/news/fear-itself-ad-na-kolesah/",
   "original_url": "http://spidermedia.ru/news/fear-itself-ad-na-kolesah",
   "archived": "https://web.archive.org/web/20250217084010/http://spidermedia.ru/news/fear-itself-ad-na-kolesah",
@@ -8,7 +8,14 @@
     "voploshhenie-straha",
     "art-0",
     "marvel",
-    "prizrachnyj-gonshhik"
+    "prizrachnyj-gonshhik",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20250217084010im_/http://spidermedia.ru/assets/images/import_image/4144.jpg",
+  "modx_id": 4144,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

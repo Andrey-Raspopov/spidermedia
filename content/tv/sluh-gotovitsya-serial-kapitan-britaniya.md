@@ -8,6 +8,12 @@
     "marvel",
     "kapitan-britaniya"
   ],
+  "cover": "https://web.archive.org/web/20171028003132im_/http://spidermedia.ru/assets/images/tv/marvel/captain-britain/captain-britain-tv.jpg",
+  "modx_id": 101019,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

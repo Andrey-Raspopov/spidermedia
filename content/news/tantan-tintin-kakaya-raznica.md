@@ -1,7 +1,10 @@
 {
   "title": "Тантан, Тинтин... Какая разница!",
-  "date": "2009-05-29T12:50:00+03:00",
+  "date": "2009-05-29T11:50:29+03:00",
   "url": "/news/tantan-tintin-kakaya-raznica/",
+  "aliases": [
+    "/node/1300/"
+  ],
   "original_url": "http://spidermedia.ru/news/tantan-tintin-kakaya-raznica",
   "archived": "https://web.archive.org/web/20120607111018/http://spidermedia.ru/news/tantan-tintin-kakaya-raznica",
   "tags": [
@@ -13,7 +16,14 @@
     "komiksy",
     "nik-frost",
     "saymon-pegg",
-    "stiven-spilberg"
+    "stiven-spilberg",
+    "sajmon-pegg"
+  ],
+  "cover": "https://web.archive.org/web/20120607111018im_/http://spidermedia.ru/assets/images/import_image/1300.png",
+  "modx_id": 1300,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

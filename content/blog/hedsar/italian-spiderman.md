@@ -1,11 +1,17 @@
 {
   "title": "Italian Spiderman",
-  "date": "2012-06-04T23:10:00+03:00",
+  "date": "2012-06-04T22:10:21+03:00",
   "url": "/blog/hedsar/italian-spiderman/",
   "original_url": "https://spidermedia.ru/blog/hedsar/italian-spiderman",
   "archived": "https://web.archive.org/web/20251205114741/https://spidermedia.ru/blog/hedsar/italian-spiderman",
   "tags": [
     "spider-man"
+  ],
+  "cover": "https://web.archive.org/web/20251205114741im_/http://spidermedia.ru/assets/images/import_image/6919.jpg",
+  "modx_id": 6919,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

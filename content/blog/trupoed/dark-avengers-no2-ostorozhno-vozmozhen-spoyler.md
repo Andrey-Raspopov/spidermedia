@@ -1,7 +1,10 @@
 {
   "title": "Dark Avengers №2, осторожно возможен спойлер!",
-  "date": "2009-02-19T22:58:00+03:00",
+  "date": "2009-02-19T22:58:31+03:00",
   "url": "/blog/trupoed/dark-avengers-no2-ostorozhno-vozmozhen-spoyler/",
+  "aliases": [
+    "/node/446/"
+  ],
   "original_url": "http://spidermedia.ru/blog/trupoed/dark-avengers-no2-ostorozhno-vozmozhen-spoyler",
   "archived": "https://web.archive.org/web/20250717193752/http://spidermedia.ru/blog/trupoed/dark-avengers-no2-ostorozhno-vozmozhen-spoyler",
   "tags": [
@@ -9,6 +12,11 @@
     "old-man-logan",
     "marvel",
     "avengers"
+  ],
+  "modx_id": 446,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

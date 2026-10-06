@@ -1,7 +1,10 @@
 {
   "title": "Старк, Кнут и ноябрь",
-  "date": "2009-08-14T22:14:00+03:00",
+  "date": "2009-08-14T21:14:15+03:00",
   "url": "/news/stark-knut-i-noyabr/",
+  "aliases": [
+    "/node/1787/"
+  ],
   "original_url": "https://spidermedia.ru/news/stark-knut-i-noyabr",
   "archived": "https://web.archive.org/web/20250814203442/https://spidermedia.ru/news/stark-knut-i-noyabr",
   "tags": [
@@ -12,7 +15,15 @@
     "brendon-peterson",
     "whiplash",
     "marvel",
-    "iron-man"
+    "iron-man",
+    "prevyu",
+    "zheleznyy-chelovek"
+  ],
+  "cover": "https://web.archive.org/web/20250814203442im_/http://spidermedia.ru/assets/images/import_image/1787.jpg",
+  "modx_id": 1787,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

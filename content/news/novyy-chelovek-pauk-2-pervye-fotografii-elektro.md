@@ -1,6 +1,6 @@
 {
   "title": "Новый Человек-Паук 2: первые фотографии Электро",
-  "date": "2013-04-16T12:28:00+03:00",
+  "date": "2013-04-16T11:28:33+03:00",
   "url": "/news/novyy-chelovek-pauk-2-pervye-fotografii-elektro/",
   "original_url": "http://spidermedia.ru/news/novyy-chelovek-pauk-2-pervye-fotografii-elektro",
   "archived": "https://web.archive.org/web/20190806075619/http://spidermedia.ru:80/news/novyy-chelovek-pauk-2-pervye-fotografii-elektro",
@@ -8,6 +8,12 @@
     "elektro",
     "spider-man",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20190806075619im_/http://spidermedia.ru/assets/images/import_image/7205.jpg",
+  "modx_id": 7205,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

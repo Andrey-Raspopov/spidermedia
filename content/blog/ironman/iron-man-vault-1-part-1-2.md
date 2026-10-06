@@ -1,7 +1,10 @@
 {
   "title": "Iron Man Vault #1 (part 1 of 2)",
-  "date": "2009-07-07T19:21:00+03:00",
+  "date": "2009-07-07T18:21:00+03:00",
   "url": "/blog/ironman/iron-man-vault-1-part-1-2/",
+  "aliases": [
+    "/node/1500/"
+  ],
   "original_url": "http://spidermedia.ru/blog/ironman/iron-man-vault-1-part-1-2",
   "archived": "https://web.archive.org/web/20170807191015/http://spidermedia.ru:80/blog/ironman/iron-man-vault-1-part-1-2",
   "tags": [
@@ -9,7 +12,14 @@
     "war-machine",
     "marvel",
     "iron-man",
-    "avengers"
+    "avengers",
+    "zheleznyy-chelovek"
+  ],
+  "cover": "https://web.archive.org/web/20170807191015im_/http://spidermedia.ru/assets/images/import_image/1500.jpg",
+  "modx_id": 1500,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

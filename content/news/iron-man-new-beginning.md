@@ -1,7 +1,10 @@
 {
   "title": "Iron Man: The New Beginning",
-  "date": "2010-02-11T23:29:00+03:00",
+  "date": "2010-02-11T23:29:40+03:00",
   "url": "/news/iron-man-new-beginning/",
+  "aliases": [
+    "/node/2360/"
+  ],
   "original_url": "http://spidermedia.ru/news/iron-man-new-beginning",
   "archived": "https://web.archive.org/web/20251216184953/http://spidermedia.ru/news/iron-man-new-beginning",
   "tags": [
@@ -16,7 +19,17 @@
     "greg-horn",
     "gabriele-dell-otto",
     "marvel",
-    "iron-man"
+    "iron-man",
+    "prevyu",
+    "mett-frakshen",
+    "zheleznyy-chelovek",
+    "invincible-iron-man"
+  ],
+  "cover": "https://web.archive.org/web/20251216184953im_/http://spidermedia.ru/assets/images/import_image/2360.jpg",
+  "modx_id": 2360,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

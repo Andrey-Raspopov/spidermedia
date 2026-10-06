@@ -1,7 +1,10 @@
 {
   "title": "По дороге к юбилею!",
-  "date": "2009-05-26T14:35:00+03:00",
+  "date": "2009-05-26T13:35:02+03:00",
   "url": "/news/po-doroge-k-yubileyu/",
+  "aliases": [
+    "/node/1278/"
+  ],
   "original_url": "https://spidermedia.ru/news/po-doroge-k-yubileyu",
   "archived": "https://web.archive.org/web/20240620115600/https://spidermedia.ru/news/po-doroge-k-yubileyu",
   "tags": [
@@ -12,7 +15,14 @@
     "layla-miller",
     "lajla-miller",
     "shaterstar",
-    "shatterstar"
+    "shatterstar",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20240620115600im_/http://spidermedia.ru/assets/images/import_image/1278.jpg",
+  "modx_id": 1278,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

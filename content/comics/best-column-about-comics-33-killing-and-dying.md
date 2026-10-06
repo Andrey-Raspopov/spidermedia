@@ -8,6 +8,12 @@
     "best-column-about-comics",
     "mnenie"
   ],
+  "cover": "https://web.archive.org/web/20260215081320im_/http://spidermedia.ru/assets/images/best-column-about-comics/33-killing-and-dying/killing-and-dying-cover.jpg",
+  "modx_id": 101829,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

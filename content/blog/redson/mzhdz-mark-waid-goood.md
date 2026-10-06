@@ -1,12 +1,18 @@
 {
   "title": "МЖДЗ: MARK WAID IS GOOOD",
-  "date": "2011-08-24T17:36:00+03:00",
+  "date": "2011-08-24T16:36:07+03:00",
   "url": "/blog/redson/mzhdz-mark-waid-goood/",
   "original_url": "http://spidermedia.ru/blog/redson/mzhdz-mark-waid-goood",
   "archived": "https://web.archive.org/web/20251107032936/http://spidermedia.ru/blog/redson/mzhdz-mark-waid-goood",
   "tags": [
     "mnenie",
     "mzhdz"
+  ],
+  "cover": "https://web.archive.org/web/20160729181129im_/http://spidermedia.ru/assets/images/import_image/6577.png",
+  "modx_id": 6577,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

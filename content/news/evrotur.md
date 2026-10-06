@@ -1,7 +1,10 @@
 {
   "title": "Евротур",
-  "date": "2009-06-18T00:22:00+03:00",
+  "date": "2009-06-17T23:22:50+03:00",
   "url": "/news/evrotur/",
+  "aliases": [
+    "/node/1439/"
+  ],
   "original_url": "https://spidermedia.ru/news/evrotur",
   "archived": "https://web.archive.org/web/20251006131354/https://spidermedia.ru/news/evrotur",
   "tags": [
@@ -11,6 +14,12 @@
     "krasnyj-robin",
     "red-robin",
     "christopher-yost"
+  ],
+  "cover": "https://web.archive.org/web/20251006131354im_/http://spidermedia.ru/assets/images/import_image/1439.png",
+  "modx_id": 1439,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

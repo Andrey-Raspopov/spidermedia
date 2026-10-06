@@ -1,6 +1,6 @@
 {
   "title": "Названы сценаристы сериалов про Дардевила и Джессику Джонс",
-  "date": "2013-11-13T13:44:00+03:00",
+  "date": "2013-11-13T12:44:55+03:00",
   "url": "/news/nazvany-scenaristy-serialov-pro-dardevila-i-dzhessiku-dzhons/",
   "original_url": "https://spidermedia.ru/news/nazvany-scenaristy-serialov-pro-dardevila-i-dzhessiku-dzhons",
   "archived": "https://web.archive.org/web/20260115052326/https://spidermedia.ru/news/nazvany-scenaristy-serialov-pro-dardevila-i-dzhessiku-dzhons",
@@ -8,6 +8,12 @@
     "marvel",
     "jessica-jones-alias",
     "daredevil"
+  ],
+  "cover": "https://web.archive.org/web/20150327041709im_/http://spidermedia.ru/assets/images/import_image/7543.jpg",
+  "modx_id": 7543,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

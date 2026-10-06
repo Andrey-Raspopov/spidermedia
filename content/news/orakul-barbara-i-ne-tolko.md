@@ -1,7 +1,10 @@
 {
   "title": "Оракул, Барбара и не только",
-  "date": "2009-03-21T03:20:00+03:00",
+  "date": "2009-03-21T02:20:03+03:00",
   "url": "/news/orakul-barbara-i-ne-tolko/",
+  "aliases": [
+    "/node/736/"
+  ],
   "original_url": "http://spidermedia.ru/news/orakul-barbara-i-ne-tolko",
   "archived": "https://web.archive.org/web/20120607145112/http://spidermedia.ru/news/orakul-barbara-i-ne-tolko",
   "tags": [
@@ -10,6 +13,12 @@
     "oracle",
     "komiksy",
     "toni-deniel"
+  ],
+  "cover": "https://web.archive.org/web/20120607145112im_/http://spidermedia.ru/assets/images/import_image/736.jpg",
+  "modx_id": 736,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

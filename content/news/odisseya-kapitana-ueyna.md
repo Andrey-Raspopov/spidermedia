@@ -1,7 +1,10 @@
 {
   "title": "Одиссея Капитана Уэйна",
-  "date": "2010-02-14T21:48:00+03:00",
+  "date": "2010-02-14T21:48:06+03:00",
   "url": "/news/odisseya-kapitana-ueyna/",
+  "aliases": [
+    "/node/2371/"
+  ],
   "original_url": "http://spidermedia.ru/news/odisseya-kapitana-ueyna",
   "archived": "https://web.archive.org/web/20240807195328/http://spidermedia.ru/news/odisseya-kapitana-ueyna",
   "tags": [
@@ -9,6 +12,12 @@
     "nil-adams",
     "dc-comics",
     "batman"
+  ],
+  "cover": "https://web.archive.org/web/20240807195328im_/http://spidermedia.ru/assets/images/import_image/2371.jpg",
+  "modx_id": 2371,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

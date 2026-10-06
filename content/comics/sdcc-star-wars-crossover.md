@@ -7,7 +7,14 @@
   "tags": [
     "marvel",
     "san-diego-comic-con-international",
-    "zvezdnye-vojny"
+    "zvezdnye-vojny",
+    "sdcc2015"
+  ],
+  "cover": "https://web.archive.org/web/20180315072003im_/http://spidermedia.ru/assets/images/news/sdcc/2015/marvel/star-wars-vader-down-1-cove.jpg",
+  "modx_id": 100361,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

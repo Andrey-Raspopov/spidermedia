@@ -1,11 +1,17 @@
 {
   "title": "День новых комиксов: 14 мая",
-  "date": "2014-05-14T12:11:00+03:00",
+  "date": "2014-05-14T11:11:26+03:00",
   "url": "/news/den-novyh-komiksov-14-maya/",
   "original_url": "http://spidermedia.ru/news/den-novyh-komiksov-14-maya",
   "archived": "https://web.archive.org/web/20190907231209/http://spidermedia.ru:80/news/den-novyh-komiksov-14-maya",
   "tags": [
     "den-novyh-komiksov"
+  ],
+  "cover": "https://web.archive.org/web/20190907231209im_/http://spidermedia.ru/assets/images/import_image/7739.jpg",
+  "modx_id": 7739,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

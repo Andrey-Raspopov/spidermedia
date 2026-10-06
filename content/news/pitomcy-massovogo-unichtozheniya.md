@@ -1,13 +1,22 @@
 {
   "title": "Питомцы массового уничтожения",
-  "date": "2009-06-18T00:53:00+03:00",
+  "date": "2009-06-17T23:53:13+03:00",
   "url": "/news/pitomcy-massovogo-unichtozheniya/",
+  "aliases": [
+    "/node/1440/"
+  ],
   "original_url": "http://spidermedia.ru/news/pitomcy-massovogo-unichtozheniya",
   "archived": "https://web.archive.org/web/20260314080839/http://spidermedia.ru/news/pitomcy-massovogo-unichtozheniya",
   "tags": [
     "grant-morrison",
     "vertigo",
     "we3"
+  ],
+  "cover": "https://web.archive.org/web/20260314080839im_/http://spidermedia.ru/assets/images/import_image/1440.jpg",
+  "modx_id": 1440,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

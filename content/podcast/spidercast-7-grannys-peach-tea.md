@@ -11,6 +11,14 @@
     "superman",
     "wonder-woman"
   ],
+  "cover": "https://web.archive.org/web/20260116212627im_/http://spidermedia.ru/assets/cache/images/podcast/622x-grannys-peach-tea.2e9.jpg",
+  "podcast_audio": "https://spidermedia.podster.fm/33/download/audio.mp3",
+  "podcast_length": "1:16:46",
+  "modx_id": 101039,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

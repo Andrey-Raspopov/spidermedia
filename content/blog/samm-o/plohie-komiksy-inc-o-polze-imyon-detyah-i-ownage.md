@@ -1,6 +1,6 @@
 {
   "title": "плохие комиксы Inc.: о пользе имён, детях и OWNAGE",
-  "date": "2011-07-29T21:10:00+03:00",
+  "date": "2011-07-29T20:10:19+03:00",
   "url": "/blog/samm-o/plohie-komiksy-inc-o-polze-imyon-detyah-i-ownage/",
   "original_url": "http://spidermedia.ru/blog/samm-o/plohie-komiksy-inc-o-polze-imyon-detyah-i-ownage",
   "archived": "https://web.archive.org/web/20120610052036/http://spidermedia.ru/blog/samm-o/plohie-komiksy-inc-o-polze-imyon-detyah-i-ownage",
@@ -8,6 +8,12 @@
     "komiksy",
     "mnenie",
     "plohie-komiksy-inc"
+  ],
+  "cover": "https://web.archive.org/web/20120610052036im_/http://spidermedia.ru/assets/images/import_image/6537.jpg",
+  "modx_id": 6537,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

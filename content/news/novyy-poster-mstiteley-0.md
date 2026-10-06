@@ -1,6 +1,6 @@
 {
   "title": "Новый постер \"Мстителей\"",
-  "date": "2012-02-28T23:25:00+03:00",
+  "date": "2012-02-28T22:25:44+03:00",
   "url": "/news/novyy-poster-mstiteley-0/",
   "original_url": "https://spidermedia.ru/news/novyy-poster-mstiteley-0",
   "archived": "https://web.archive.org/web/20250709072132/https://spidermedia.ru/news/novyy-poster-mstiteley-0",
@@ -8,6 +8,12 @@
     "avengers",
     "marvel",
     "postery"
+  ],
+  "cover": "https://web.archive.org/web/20250709072132im_/http://spidermedia.ru/assets/images/import_image/6806.jpg",
+  "modx_id": 6806,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

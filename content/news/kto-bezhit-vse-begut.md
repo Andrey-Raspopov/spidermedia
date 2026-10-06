@@ -1,7 +1,10 @@
 {
   "title": "Кто бежит? Все бегут!",
-  "date": "2009-07-30T14:37:00+03:00",
+  "date": "2009-07-30T13:37:48+03:00",
   "url": "/news/kto-bezhit-vse-begut/",
+  "aliases": [
+    "/node/1692/"
+  ],
   "original_url": "https://spidermedia.ru/news/kto-bezhit-vse-begut",
   "archived": "https://web.archive.org/web/20250324222716/https://spidermedia.ru/news/kto-bezhit-vse-begut",
   "tags": [
@@ -10,6 +13,12 @@
     "sterling-gates",
     "the-flash",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20250324222716im_/http://spidermedia.ru/assets/images/import_image/1692.png",
+  "modx_id": 1692,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -4,6 +4,9 @@
   "url": "/blogs/deirdre/",
   "original_url": "http://spidermedia.ru/blogs/deirdre",
   "archived": "https://web.archive.org/web/20100314194257/http://spidermedia.ru:80/blogs/deirdre",
+  "sources": [
+    "archive"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

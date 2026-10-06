@@ -1,7 +1,10 @@
 {
   "title": "Комикс недели ! (15.02.2009)",
-  "date": "2009-02-15T16:06:00+03:00",
+  "date": "2009-02-15T16:06:14+03:00",
   "url": "/blog/ghost-knight/komiks-nedeli-15022009/",
+  "aliases": [
+    "/node/377/"
+  ],
   "original_url": "http://spidermedia.ru/blog/ghost-knight/komiks-nedeli-15022009",
   "archived": "https://web.archive.org/web/20251107004912/http://spidermedia.ru/blog/ghost-knight/komiks-nedeli-15022009",
   "tags": [
@@ -9,6 +12,12 @@
     "dc-comics",
     "batman",
     "neil-gaiman"
+  ],
+  "cover": "https://web.archive.org/web/20251107004912im_/http://spidermedia.ru/assets/images/articles/batman-week/gaiman/batmn_686_002.jpg",
+  "modx_id": 377,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

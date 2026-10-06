@@ -1,6 +1,6 @@
 {
   "title": "Сыщики и воры",
-  "date": "2012-07-07T04:19:00+03:00",
+  "date": "2012-07-07T03:19:29+03:00",
   "url": "/news/syshchiki-i-vory/",
   "original_url": "https://spidermedia.ru/news/syshchiki-i-vory",
   "archived": "https://web.archive.org/web/20251117003200/https://spidermedia.ru/news/syshchiki-i-vory",
@@ -11,6 +11,12 @@
     "zhenshhina-koshka",
     "detective-comics",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150502134405im_/http://spidermedia.ru/assets/images/import_image/6960.jpg",
+  "modx_id": 6960,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

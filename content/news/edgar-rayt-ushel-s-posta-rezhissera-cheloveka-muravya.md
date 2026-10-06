@@ -1,12 +1,18 @@
 {
   "title": "Эдгар Райт ушел с поста режиссера \"Человека-Муравья\"",
-  "date": "2014-05-24T00:38:00+03:00",
+  "date": "2014-05-23T23:38:41+03:00",
   "url": "/news/edgar-rayt-ushel-s-posta-rezhissera-cheloveka-muravya/",
   "original_url": "http://spidermedia.ru/news/edgar-rayt-ushel-s-posta-rezhissera-cheloveka-muravya",
   "archived": "https://web.archive.org/web/20170910210621/http://spidermedia.ru:80/news/edgar-rayt-ushel-s-posta-rezhissera-cheloveka-muravya",
   "tags": [
     "ant-man",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20170910210621im_/http://spidermedia.ru/assets/images/import_image/7755.jpg",
+  "modx_id": 7755,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

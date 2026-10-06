@@ -1,7 +1,10 @@
 {
   "title": "Senior trekker's log: X-Men Special",
-  "date": "2009-08-10T01:04:00+03:00",
+  "date": "2009-08-10T00:04:58+03:00",
   "url": "/blog/oleg89/senior-trekkers-log-x-men-special/",
+  "aliases": [
+    "/node/1754/"
+  ],
   "original_url": "https://spidermedia.ru/blog/oleg89/senior-trekkers-log-x-men-special",
   "archived": "https://web.archive.org/web/20260208204516/https://spidermedia.ru/blog/oleg89/senior-trekkers-log-x-men-special",
   "tags": [
@@ -17,7 +20,14 @@
     "star-trek",
     "senior-trekkers-log",
     "marvel",
-    "entoni-vinn"
+    "entoni-vinn",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20160512105835im_/http://spidermedia.ru/assets/images/import_image/1754.jpg",
+  "modx_id": 1754,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

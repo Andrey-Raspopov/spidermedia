@@ -1,7 +1,10 @@
 {
   "title": "The Column With No Name - Week #8: Must wash brain...!",
-  "date": "2009-05-10T03:08:00+03:00",
+  "date": "2009-05-10T02:08:40+03:00",
   "url": "/blog/sir-carnage/column-no-name-week-8-must-wash-brain/",
+  "aliases": [
+    "/node/1142/"
+  ],
   "original_url": "http://spidermedia.ru/blog/sir-carnage/column-no-name-week-8-must-wash-brain",
   "archived": "https://web.archive.org/web/20251211033847/http://spidermedia.ru/blog/sir-carnage/column-no-name-week-8-must-wash-brain",
   "tags": [
@@ -12,6 +15,12 @@
     "human-flame",
     "dc-comics",
     "the-column-with-no-name"
+  ],
+  "cover": "https://web.archive.org/web/20251211033847im_/http://spidermedia.ru/assets/images/import_image/1142.jpg",
+  "modx_id": 1142,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

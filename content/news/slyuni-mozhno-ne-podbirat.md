@@ -1,13 +1,22 @@
 {
   "title": "Слюни можно не подбирать",
-  "date": "2009-06-02T22:01:00+03:00",
+  "date": "2009-06-02T21:01:37+03:00",
   "url": "/news/slyuni-mozhno-ne-podbirat/",
+  "aliases": [
+    "/node/1333/"
+  ],
   "original_url": "http://spidermedia.ru/news/slyuni-mozhno-ne-podbirat",
   "archived": "https://web.archive.org/web/20260121001239/http://spidermedia.ru/news/slyuni-mozhno-ne-podbirat",
   "tags": [
     "mark-millar",
     "dejv-gibbons",
     "dave-gibbons"
+  ],
+  "cover": "https://web.archive.org/web/20260121001239im_/http://spidermedia.ru/assets/images/import_image/1333.jpg",
+  "modx_id": 1333,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

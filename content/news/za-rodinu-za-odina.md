@@ -1,14 +1,24 @@
 {
   "title": "За Родину, за Одина!",
-  "date": "2010-07-16T07:53:00+03:00",
+  "date": "2010-07-16T06:53:23+03:00",
   "url": "/news/za-rodinu-za-odina/",
+  "aliases": [
+    "/node/2736/"
+  ],
   "original_url": "http://spidermedia.ru/news/za-rodinu-za-odina",
   "archived": "https://web.archive.org/web/20220815193151/http://spidermedia.ru/news/za-rodinu-za-odina",
   "tags": [
     "sajmon-byanchi",
     "robert-rodi",
     "thor",
-    "marvel"
+    "marvel",
+    "tor"
+  ],
+  "cover": "https://web.archive.org/web/20220815193151im_/http://spidermedia.ru/assets/images/import_image/2736.jpg",
+  "modx_id": 2736,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "Hall of Just Us 006: Daytripper",
-  "date": "2010-10-09T22:11:00+03:00",
+  "date": "2010-10-09T21:11:30+03:00",
   "url": "/blog/qvall/hall-just-us-006-daytripper/",
+  "aliases": [
+    "/node/2985/"
+  ],
   "original_url": "https://spidermedia.ru/blog/qvall/hall-just-us-006-daytripper",
   "archived": "https://web.archive.org/web/20251111071503/https://spidermedia.ru/blog/qvall/hall-just-us-006-daytripper",
   "tags": [
@@ -10,7 +13,14 @@
     "daytripper",
     "gabriel-ba",
     "fabio-mun",
-    "mnenie"
+    "mnenie",
+    "mneniya"
+  ],
+  "cover": "https://web.archive.org/web/20251111071503im_/http://spidermedia.ru/assets/images/import_image/2985.jpg",
+  "modx_id": 2985,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

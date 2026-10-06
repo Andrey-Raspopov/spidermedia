@@ -1,7 +1,10 @@
 {
   "title": "Варварское поведение",
-  "date": "2009-07-17T00:43:00+03:00",
+  "date": "2009-07-16T23:43:19+03:00",
   "url": "/news/varvarskoe-povedenie/",
+  "aliases": [
+    "/node/1576/"
+  ],
   "original_url": "http://spidermedia.ru/news/varvarskoe-povedenie",
   "archived": "https://web.archive.org/web/20260313112838/http://spidermedia.ru/news/varvarskoe-povedenie",
   "tags": [
@@ -9,7 +12,14 @@
     "grant-morrison",
     "art-0",
     "vertigo",
-    "joe-the-barbarian"
+    "joe-the-barbarian",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20260313112838im_/http://spidermedia.ru/assets/images/import_image/1576.jpg",
+  "modx_id": 1576,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

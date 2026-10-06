@@ -7,6 +7,12 @@
   "tags": [
     "gamermedia"
   ],
+  "cover": "https://web.archive.org/web/20240807181707im_/http://spidermedia.ru/assets/images/games/gm9.jpg",
+  "modx_id": 101831,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

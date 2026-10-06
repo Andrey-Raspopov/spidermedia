@@ -1,14 +1,24 @@
 {
   "title": "Earth's Mightiest Villains",
-  "date": "2010-10-16T02:13:00+03:00",
+  "date": "2010-10-16T01:13:05+03:00",
   "url": "/news/earths-mightiest-villains/",
+  "aliases": [
+    "/node/3011/"
+  ],
   "original_url": "http://spidermedia.ru/news/earths-mightiest-villains",
   "archived": "https://web.archive.org/web/20251108040852/http://spidermedia.ru/news/earths-mightiest-villains",
   "tags": [
     "preview",
     "animaciya",
     "marvel",
-    "avengers"
+    "avengers",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20150502182628im_/http://spidermedia.ru/assets/images/import_image/3011.jpg",
+  "modx_id": 3011,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

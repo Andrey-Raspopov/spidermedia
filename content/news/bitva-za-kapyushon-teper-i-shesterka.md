@@ -1,7 +1,10 @@
 {
   "title": "Битва за Капюшон, теперь и Шестерка...",
-  "date": "2009-05-06T20:39:00+03:00",
+  "date": "2009-05-06T19:39:41+03:00",
   "url": "/news/bitva-za-kapyushon-teper-i-shesterka/",
+  "aliases": [
+    "/node/1117/"
+  ],
   "original_url": "http://spidermedia.ru/news/bitva-za-kapyushon-teper-i-shesterka",
   "archived": "https://web.archive.org/web/20250913011949/http://spidermedia.ru/news/bitva-za-kapyushon-teper-i-shesterka",
   "tags": [
@@ -10,7 +13,14 @@
     "preview",
     "sekretnaya-shesterka",
     "gejl-simon",
-    "gail-simone"
+    "gail-simone",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20250913011949im_/http://spidermedia.ru/assets/images/import_image/1117.jpg",
+  "modx_id": 1117,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

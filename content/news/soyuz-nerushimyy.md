@@ -1,7 +1,10 @@
 {
   "title": "Союз нерушимый",
-  "date": "2010-07-16T06:44:00+03:00",
+  "date": "2010-07-16T05:44:22+03:00",
   "url": "/news/soyuz-nerushimyy/",
+  "aliases": [
+    "/node/2735/"
+  ],
   "original_url": "https://spidermedia.ru/news/soyuz-nerushimyy",
   "archived": "https://web.archive.org/web/20260214133849/https://spidermedia.ru/news/soyuz-nerushimyy",
   "tags": [
@@ -13,6 +16,12 @@
     "nik-dragotta",
     "li-viks",
     "marko-santuchchi"
+  ],
+  "cover": "https://web.archive.org/web/20260214133849im_/http://spidermedia.ru/assets/images/import_image/2735.jpg",
+  "modx_id": 2735,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

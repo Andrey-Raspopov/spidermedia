@@ -9,6 +9,12 @@
     "punisher",
     "daredevil"
   ],
+  "cover": "https://web.archive.org/web/20160611020722im_/http://spidermedia.ru/assets/images/news/images/1_comics/marvel/daredevil-punisher/ddpuntbdinf2016001-cov-bf8b7.jpg",
+  "modx_id": 100910,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

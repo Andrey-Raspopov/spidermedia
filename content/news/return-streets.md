@@ -1,7 +1,10 @@
 {
   "title": "Return to the streets",
-  "date": "2009-12-20T00:45:00+03:00",
+  "date": "2009-12-20T00:45:12+03:00",
   "url": "/news/return-streets/",
+  "aliases": [
+    "/node/2184/"
+  ],
   "original_url": "https://spidermedia.ru/news/return-streets",
   "archived": "https://web.archive.org/web/20260208204010/https://spidermedia.ru/news/return-streets",
   "tags": [
@@ -10,7 +13,13 @@
     "alina-urusov",
     "x-men",
     "marvel",
-    "marjorie-liu"
+    "marjorie-liu",
+    "lyudi-iks"
+  ],
+  "modx_id": 2184,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

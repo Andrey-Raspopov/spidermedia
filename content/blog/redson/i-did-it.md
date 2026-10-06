@@ -1,14 +1,24 @@
 {
   "title": "I did it",
-  "date": "2009-03-07T21:48:00+03:00",
+  "date": "2009-03-07T20:48:03+03:00",
   "url": "/blog/redson/i-did-it/",
+  "aliases": [
+    "/node/620/"
+  ],
   "original_url": "http://spidermedia.ru/blog/redson/i-did-it",
   "archived": "https://web.archive.org/web/20120610052148/http://spidermedia.ru/blog/redson/i-did-it",
   "tags": [
     "watchmen",
     "alan-moore",
     "komiksy",
-    "mnenie"
+    "mnenie",
+    "alan-mur",
+    "hraniteli"
+  ],
+  "modx_id": 620,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

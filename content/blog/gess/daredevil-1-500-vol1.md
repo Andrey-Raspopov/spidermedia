@@ -10,6 +10,12 @@
     "daredevil",
     "marvel"
   ],
+  "cover": "https://web.archive.org/web/20160405125311im_/http://spidermedia.ru/assets/images/articles/ddvol1/daredevil500.jpg",
+  "modx_id": 1752,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

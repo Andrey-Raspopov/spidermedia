@@ -1,12 +1,21 @@
 {
   "title": "Дэдпул в кино - теперь это реальность!",
-  "date": "2009-05-07T12:25:00+03:00",
+  "date": "2009-05-07T11:25:15+03:00",
   "url": "/news/dedpul-v-kino-teper-eto-realnost/",
+  "aliases": [
+    "/node/1121/"
+  ],
   "original_url": "http://spidermedia.ru/news/dedpul-v-kino-teper-eto-realnost",
   "archived": "https://web.archive.org/web/20220813144004/http://spidermedia.ru/news/dedpul-v-kino-teper-eto-realnost",
   "tags": [
     "marvel",
     "deadpool"
+  ],
+  "cover": "https://web.archive.org/web/20220813144004im_/http://spidermedia.ru/assets/images/import_image/1121.jpg",
+  "modx_id": 1121,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

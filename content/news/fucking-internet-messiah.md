@@ -1,12 +1,18 @@
 {
   "title": "FUCKING INTERNET MESSIAH",
-  "date": "2011-04-02T00:49:00+03:00",
+  "date": "2011-04-01T23:49:10+03:00",
   "url": "/news/fucking-internet-messiah/",
   "original_url": "http://spidermedia.ru/news/fucking-internet-messiah",
   "archived": "https://web.archive.org/web/20240624135047/http://spidermedia.ru/news/fucking-internet-messiah",
   "tags": [
     "warren-ellis",
     "captured-ghosts"
+  ],
+  "cover": "https://web.archive.org/web/20240624135047im_/http://spidermedia.ru/assets/images/import_image/4633.jpg",
+  "modx_id": 4633,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

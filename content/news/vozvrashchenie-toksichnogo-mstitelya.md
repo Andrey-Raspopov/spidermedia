@@ -1,6 +1,6 @@
 {
   "title": "Возвращение Токсичного Мстителя",
-  "date": "2010-04-07T15:32:00+03:00",
+  "date": "2010-04-07T14:32:47+03:00",
   "url": "/news/vozvrashchenie-toksichnogo-mstitelya/",
   "original_url": "https://spidermedia.ru/news/vozvrashchenie-toksichnogo-mstitelya",
   "archived": "https://web.archive.org/web/20251013182150/https://spidermedia.ru/news/vozvrashchenie-toksichnogo-mstitelya",
@@ -9,6 +9,12 @@
     "troma",
     "toxic-avenger",
     "trash"
+  ],
+  "cover": "https://web.archive.org/web/20251013182150im_/http://spidermedia.ru/assets/images/import_image/2519.gif",
+  "modx_id": 2519,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

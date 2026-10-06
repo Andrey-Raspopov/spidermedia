@@ -1,6 +1,6 @@
 {
   "title": "Маски против фашизма",
-  "date": "2012-07-12T07:02:00+03:00",
+  "date": "2012-07-12T06:02:37+03:00",
   "url": "/news/maski-protiv-fashizma/",
   "original_url": "http://spidermedia.ru/news/maski-protiv-fashizma",
   "archived": "https://web.archive.org/web/20260121001834/http://spidermedia.ru/news/maski-protiv-fashizma",
@@ -13,6 +13,12 @@
     "shadow",
     "green-hornet",
     "zelenyj-shershen"
+  ],
+  "cover": "https://web.archive.org/web/20150424074500im_/http://spidermedia.ru/assets/images/import_image/6965.jpg",
+  "modx_id": 6965,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

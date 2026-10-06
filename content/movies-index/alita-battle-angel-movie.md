@@ -1,9 +1,15 @@
 {
   "title": "Боевой ангел",
-  "date": "2019-01-19T00:00:00+00:00",
+  "date": "2015-10-22T10:39:00+03:00",
   "url": "/movies-index/alita-battle-angel-movie/",
   "original_url": "http://spidermedia.ru/movies-index/alita-battle-angel-movie",
   "archived": "https://web.archive.org/web/20250519181223/http://spidermedia.ru/movies-index/alita-battle-angel-movie",
+  "cover": "https://web.archive.org/web/20250519181223im_/http://spidermedia.ru/assets/images/movies/manga/alita-battle-angel/battle-angel-alita-last-order-2277313.jpg",
+  "modx_id": 100673,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

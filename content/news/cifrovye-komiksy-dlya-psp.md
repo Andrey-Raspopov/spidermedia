@@ -1,7 +1,10 @@
 {
   "title": "Цифровые комиксы для PSP!",
-  "date": "2009-08-26T13:54:00+03:00",
+  "date": "2009-08-26T12:54:56+03:00",
   "url": "/news/cifrovye-komiksy-dlya-psp/",
+  "aliases": [
+    "/node/1830/"
+  ],
   "original_url": "http://spidermedia.ru/news/cifrovye-komiksy-dlya-psp",
   "archived": "https://web.archive.org/web/20190811012449/http://spidermedia.ru:80/news/cifrovye-komiksy-dlya-psp",
   "tags": [
@@ -9,6 +12,11 @@
     "psp-comic",
     "psp",
     "marvel"
+  ],
+  "modx_id": 1830,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

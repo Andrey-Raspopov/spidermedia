@@ -1,11 +1,17 @@
 {
   "title": "Крис Хемсворт может сыграть Дока Сэвиджа",
-  "date": "2014-06-26T00:04:00+03:00",
+  "date": "2014-06-25T23:04:01+03:00",
   "url": "/news/kris-hemsvort-mozhet-sygrat-doka-sevidzha/",
   "original_url": "http://spidermedia.ru/news/kris-hemsvort-mozhet-sygrat-doka-sevidzha",
   "archived": "https://web.archive.org/web/20190808213242/http://spidermedia.ru:80/news/kris-hemsvort-mozhet-sygrat-doka-sevidzha",
   "tags": [
     "dok-sevidzh"
+  ],
+  "cover": "https://web.archive.org/web/20150503091050im_/http://spidermedia.ru/assets/images/import_image/7845.jpg",
+  "modx_id": 7845,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

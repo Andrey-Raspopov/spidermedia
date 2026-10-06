@@ -1,13 +1,23 @@
 {
   "title": "9 сезон Смоллвилля",
-  "date": "2009-08-18T22:16:00+03:00",
+  "date": "2009-08-18T21:16:43+03:00",
   "url": "/blog/alex/9-sezon-smollvillya/",
+  "aliases": [
+    "/node/1801/"
+  ],
   "original_url": "https://spidermedia.ru/blog/alex/9-sezon-smollvillya",
   "archived": "https://web.archive.org/web/20251107034638/https://spidermedia.ru/blog/alex/9-sezon-smollvillya",
   "tags": [
     "serialy",
     "tajny-smollvillya",
-    "smallville"
+    "smallville",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20251107034638im_/http://spidermedia.ru/assets/images/import_image/1801.jpg",
+  "modx_id": 1801,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

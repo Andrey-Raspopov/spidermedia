@@ -1,7 +1,10 @@
 {
   "title": "Avengers Assemble! - ноябрь 2009",
-  "date": "2009-08-25T19:49:00+03:00",
+  "date": "2009-08-25T18:49:19+03:00",
   "url": "/news/avengers-assemble-noyabr-2009/",
+  "aliases": [
+    "/node/1822/"
+  ],
   "original_url": "http://spidermedia.ru/news/avengers-assemble-noyabr-2009",
   "archived": "https://web.archive.org/web/20120718062022/http://spidermedia.ru/news/avengers-assemble-noyabr-2009",
   "tags": [
@@ -9,7 +12,13 @@
     "komiksy",
     "marvel",
     "mstiteli",
-    "preview-s"
+    "preview-s",
+    "prevyu"
+  ],
+  "modx_id": 1822,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

@@ -7,6 +7,12 @@
   "tags": [
     "marvel"
   ],
+  "cover": "https://web.archive.org/web/20180315060751im_/http://spidermedia.ru/assets/images/news/marvel/post-secret-wars/marveloctober/ironman2015001-cov-col-3842a.jpg",
+  "modx_id": 100386,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

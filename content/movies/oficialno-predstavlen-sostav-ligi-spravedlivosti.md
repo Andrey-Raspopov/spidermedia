@@ -14,6 +14,12 @@
     "wonder-woman",
     "dc-comics"
   ],
+  "cover": "https://web.archive.org/web/20160619060316im_/http://spidermedia.ru/assets/images/movies/dc/justice-league/dawn-of-justic-league_.jpg",
+  "modx_id": 100824,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

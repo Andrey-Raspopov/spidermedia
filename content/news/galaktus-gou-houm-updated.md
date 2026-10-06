@@ -1,7 +1,10 @@
 {
   "title": "Галактус гоу хоум! - Updated",
-  "date": "2009-11-26T15:32:00+03:00",
+  "date": "2009-11-26T14:32:37+03:00",
   "url": "/news/galaktus-gou-houm-updated/",
+  "aliases": [
+    "/node/2132/"
+  ],
   "original_url": "http://spidermedia.ru/news/galaktus-gou-houm-updated",
   "archived": "https://web.archive.org/web/20120607033004/http://spidermedia.ru/news/galaktus-gou-houm-updated",
   "tags": [
@@ -18,7 +21,17 @@
     "komiksy",
     "marvel",
     "mashina-nochi",
-    "shchit"
+    "shchit",
+    "shhit",
+    "dzhonatan-hikman",
+    "the-night-machine",
+    "s.h.i.e.l.d"
+  ],
+  "cover": "https://web.archive.org/web/20120607033004im_/http://spidermedia.ru/assets/images/import_image/2132.jpg",
+  "modx_id": 2132,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

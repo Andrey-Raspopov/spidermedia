@@ -8,6 +8,12 @@
     "hellboymedia",
     "novosti"
   ],
+  "cover": "https://web.archive.org/web/20160611215148im_/http://spidermedia.ru/assets/images/hellboymedia/news/the-impossible-will-happen/the-impossible-will-happen-cover.jpg",
+  "modx_id": 100228,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

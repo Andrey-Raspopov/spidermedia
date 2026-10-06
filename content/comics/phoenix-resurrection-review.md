@@ -8,6 +8,12 @@
     "marvel",
     "x-men"
   ],
+  "cover": "https://web.archive.org/web/20260312004745im_/http://spidermedia.ru/assets/images/reviews/marvel/x-men/phoenix-resurrection/mzk.jpg",
+  "modx_id": 101832,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

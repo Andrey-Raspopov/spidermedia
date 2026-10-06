@@ -10,6 +10,12 @@
     "elektra",
     "marvel"
   ],
+  "cover": "https://web.archive.org/web/20260214142315im_/http://spidermedia.ru/assets/images/tv/daredevil/daredevil-s2-punisher.jpg",
+  "modx_id": 100798,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

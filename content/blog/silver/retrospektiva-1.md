@@ -1,6 +1,6 @@
 {
   "title": "РЕТРОСПЕКТИВА - #1",
-  "date": "2009-02-02T23:12:00+03:00",
+  "date": "2009-02-02T23:12:26+03:00",
   "url": "/blog/silver/retrospektiva-1/",
   "original_url": "http://spidermedia.ru/blog/silver/retrospektiva-1",
   "archived": "https://web.archive.org/web/20220814180405/http://spidermedia.ru/blog/silver/retrospektiva-1",
@@ -11,6 +11,11 @@
     "ultimate",
     "marvel",
     "colossus"
+  ],
+  "modx_id": 123,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

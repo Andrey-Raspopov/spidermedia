@@ -1,6 +1,6 @@
 {
   "title": "ТИХО!",
-  "date": "2013-09-19T19:49:00+03:00",
+  "date": "2013-09-19T18:49:23+03:00",
   "url": "/news/tiho/",
   "original_url": "http://spidermedia.ru/news/tiho",
   "archived": "https://web.archive.org/web/20250512121516/http://spidermedia.ru/news/tiho",
@@ -10,7 +10,14 @@
     "art-0",
     "dc-comics",
     "dzhef-loeb",
-    "jim-lee"
+    "jim-lee",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20150503112859im_/http://spidermedia.ru/assets/images/import_image/7474.jpg",
+  "modx_id": 7474,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

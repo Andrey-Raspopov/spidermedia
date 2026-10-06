@@ -1,7 +1,10 @@
 {
   "title": "Черно-белый Тор",
-  "date": "2009-03-28T17:23:00+03:00",
+  "date": "2009-03-28T16:23:50+03:00",
   "url": "/news/cherno-belyy-tor/",
+  "aliases": [
+    "/node/800/"
+  ],
   "original_url": "http://spidermedia.ru/news/cherno-belyy-tor",
   "archived": "https://web.archive.org/web/20120512073850/http://spidermedia.ru/news/cherno-belyy-tor",
   "tags": [
@@ -15,7 +18,15 @@
     "marvel",
     "marko-dzhurdzhevich",
     "preview-s",
-    "tor"
+    "tor",
+    "dzhej-majkl-strazhinski",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20120512073850im_/http://spidermedia.ru/assets/images/import_image/800.jpg",
+  "modx_id": 800,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

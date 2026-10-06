@@ -1,6 +1,6 @@
 {
   "title": "ТВ-спот \"Нового Человека-Паука\" (ОБНОВЛЯЕТСЯ)",
-  "date": "2012-06-01T10:40:00+03:00",
+  "date": "2012-06-01T09:40:10+03:00",
   "url": "/news/tv-spoty-novogo-cheloveka-pauka-obnovlyaetsya/",
   "original_url": "https://spidermedia.ru/news/tv-spoty-novogo-cheloveka-pauka-obnovlyaetsya",
   "archived": "https://web.archive.org/web/20250906083025/https://spidermedia.ru/news/tv-spoty-novogo-cheloveka-pauka-obnovlyaetsya",
@@ -8,6 +8,12 @@
     "trejlery",
     "spider-man",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20250906083025im_/http://spidermedia.ru/assets/images/import_image/6915.jpg",
+  "modx_id": 6915,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

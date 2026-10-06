@@ -7,6 +7,12 @@
   "tags": [
     "manga"
   ],
+  "cover": "https://web.archive.org/web/20250717193201im_/http://spidermedia.ru/assets/images/manga/magi/01.jpg",
+  "modx_id": 101766,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,6 +1,6 @@
 {
   "title": "Тим-Ап с Ааврамом Линкольном",
-  "date": "2009-02-14T03:00:00+03:00",
+  "date": "2009-02-14T03:00:58+03:00",
   "url": "/news/tim-ap-s-aavramom-linkolnom/",
   "original_url": "http://spidermedia.ru/news/tim-ap-s-aavramom-linkolnom",
   "archived": "https://web.archive.org/web/20150426182232/http://spidermedia.ru/news/tim-ap-s-aavramom-linkolnom",
@@ -8,7 +8,14 @@
     "mett-frakshen",
     "marvel-comics",
     "kapitan-amerika",
-    "spider-man"
+    "spider-man",
+    "marvel",
+    "captain-america"
+  ],
+  "modx_id": 356,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

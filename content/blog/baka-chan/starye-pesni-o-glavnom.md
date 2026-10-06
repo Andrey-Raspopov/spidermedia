@@ -1,7 +1,10 @@
 {
   "title": "Старые песни о главном",
-  "date": "2010-01-15T22:10:00+03:00",
+  "date": "2010-01-15T22:10:41+03:00",
   "url": "/blog/baka-chan/starye-pesni-o-glavnom/",
+  "aliases": [
+    "/node/2267/"
+  ],
   "original_url": "http://spidermedia.ru/blog/baka-chan/starye-pesni-o-glavnom",
   "archived": "https://web.archive.org/web/20250519184152/http://spidermedia.ru/blog/baka-chan/starye-pesni-o-glavnom",
   "tags": [
@@ -11,6 +14,11 @@
     "marv-wolfman",
     "george-perez",
     "dc-comics"
+  ],
+  "modx_id": 2267,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

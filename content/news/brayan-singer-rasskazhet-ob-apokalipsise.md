@@ -1,11 +1,18 @@
 {
   "title": "Брайан Сингер расскажет об апокалипсисе",
-  "date": "2014-09-22T23:49:00+03:00",
+  "date": "2014-09-22T22:49:29+03:00",
   "url": "/news/brayan-singer-rasskazhet-ob-apokalipsise/",
   "original_url": "http://spidermedia.ru/news/brayan-singer-rasskazhet-ob-apokalipsise",
   "archived": "https://web.archive.org/web/20170402105134/http://spidermedia.ru/news/brayan-singer-rasskazhet-ob-apokalipsise",
   "tags": [
-    "x-men"
+    "x-men",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20170402105134im_/http://spidermedia.ru/assets/images/import_image/8091.jpg",
+  "modx_id": 8091,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

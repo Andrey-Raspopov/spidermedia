@@ -1,6 +1,6 @@
 {
   "title": "DC New 52: взгляд назад, часть вторая",
-  "date": "2013-04-23T12:52:00+03:00",
+  "date": "2013-04-23T11:52:38+03:00",
   "url": "/blog/derden/dc-new-52-vzglyad-nazad-chast-vtoraya/",
   "original_url": "https://spidermedia.ru/blog/derden/dc-new-52-vzglyad-nazad-chast-vtoraya",
   "archived": "https://web.archive.org/web/20240712231024/https://spidermedia.ru/blog/derden/dc-new-52-vzglyad-nazad-chast-vtoraya",
@@ -8,6 +8,12 @@
     "peter-milligan",
     "new-52",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20240712231024im_/http://spidermedia.ru/assets/images/import_image/7223.jpg",
+  "modx_id": 7223,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

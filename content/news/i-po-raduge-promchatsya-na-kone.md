@@ -1,13 +1,20 @@
 {
   "title": "И по радуге промчаться на коне",
-  "date": "2013-09-18T11:28:00+03:00",
+  "date": "2013-09-18T10:28:08+03:00",
   "url": "/news/i-po-raduge-promchatsya-na-kone/",
   "original_url": "https://spidermedia.ru/news/i-po-raduge-promchatsya-na-kone",
   "archived": "https://web.archive.org/web/20240916015304/https://spidermedia.ru/news/i-po-raduge-promchatsya-na-kone",
   "tags": [
     "trejlery",
     "thor",
-    "marvel"
+    "marvel",
+    "tor"
+  ],
+  "cover": "https://web.archive.org/web/20240916015304im_/http://spidermedia.ru/assets/images/import_image/7470.jpg",
+  "modx_id": 7470,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

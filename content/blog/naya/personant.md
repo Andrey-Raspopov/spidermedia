@@ -1,6 +1,6 @@
 {
   "title": "Personant",
-  "date": "2009-02-08T22:26:00+03:00",
+  "date": "2009-02-08T21:26:00+03:00",
   "url": "/blog/naya/personant/",
   "original_url": "http://spidermedia.ru/blog/naya/personant",
   "archived": "https://web.archive.org/web/20120607131341/http://spidermedia.ru/blog/naya/personant",
@@ -8,7 +8,14 @@
     "manga",
     "one-shot",
     "sci-fi",
-    "skachat"
+    "skachat",
+    "manga-2"
+  ],
+  "cover": "https://web.archive.org/web/20120607131341im_/http://spidermedia.ru/assets/images/import_image/275.jpg",
+  "modx_id": 275,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

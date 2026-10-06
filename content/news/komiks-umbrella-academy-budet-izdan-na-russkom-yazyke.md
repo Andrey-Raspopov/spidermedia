@@ -1,6 +1,6 @@
 {
   "title": "Комикс Umbrella Academy будет издан на русском языке",
-  "date": "2014-06-29T13:54:00+03:00",
+  "date": "2014-06-29T12:54:47+03:00",
   "url": "/news/komiks-umbrella-academy-budet-izdan-na-russkom-yazyke/",
   "original_url": "http://spidermedia.ru/news/komiks-umbrella-academy-budet-izdan-na-russkom-yazyke",
   "archived": "https://web.archive.org/web/20250913013913/http://spidermedia.ru/news/komiks-umbrella-academy-budet-izdan-na-russkom-yazyke",
@@ -10,6 +10,12 @@
     "gabriel-ba",
     "umbrella-academy",
     "zarubezhnye-komiksy-na-russkom"
+  ],
+  "cover": "https://web.archive.org/web/20150326220936im_/http://spidermedia.ru/assets/images/import_image/7848.jpg",
+  "modx_id": 7848,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

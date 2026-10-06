@@ -1,7 +1,10 @@
 {
   "title": "Комиксы DC Universe. Выпуск № 18",
-  "date": "2009-07-29T10:40:00+03:00",
+  "date": "2009-07-29T09:40:55+03:00",
   "url": "/blog/derden/komiksy-dc-universe-vypusk-no-18/",
+  "aliases": [
+    "/node/1687/"
+  ],
   "original_url": "http://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-18",
   "archived": "https://web.archive.org/web/20260211181315/http://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-18",
   "tags": [
@@ -9,6 +12,12 @@
     "batman",
     "hush",
     "dc-universe-comics"
+  ],
+  "cover": "https://web.archive.org/web/20260211181315im_/http://spidermedia.ru/assets/images/import_image/1687.jpg",
+  "modx_id": 1687,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

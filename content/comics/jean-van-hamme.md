@@ -7,6 +7,12 @@
   "tags": [
     "bande-dessinée"
   ],
+  "cover": "https://web.archive.org/web/20200127103431im_/http://spidermedia.ru/assets/images/bd/jvh/00.png",
+  "modx_id": 100710,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

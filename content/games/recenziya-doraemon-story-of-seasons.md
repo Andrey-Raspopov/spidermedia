@@ -4,6 +4,12 @@
   "url": "/games/recenziya-doraemon-story-of-seasons/",
   "original_url": "http://spidermedia.ru/games/recenziya-doraemon-story-of-seasons",
   "archived": "https://web.archive.org/web/20260125131745/http://spidermedia.ru/games/recenziya-doraemon-story-of-seasons",
+  "cover": "https://web.archive.org/web/20200204194825im_/http://spidermedia.ru/assets/images/games/doraemon/doraemon-story-of-seasons-grid.jpg",
+  "modx_id": 102184,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

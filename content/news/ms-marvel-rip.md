@@ -1,7 +1,10 @@
 {
   "title": "Ms. Marvel RIP",
-  "date": "2009-02-19T14:32:00+03:00",
+  "date": "2009-02-19T13:32:54+03:00",
   "url": "/news/ms-marvel-rip/",
+  "aliases": [
+    "/node/440/"
+  ],
   "original_url": "http://spidermedia.ru/news/ms-marvel-rip",
   "archived": "https://web.archive.org/web/20120608031624/http://spidermedia.ru/news/ms-marvel-rip",
   "tags": [
@@ -10,13 +13,20 @@
     "ms-marvel",
     "brayan-rid",
     "komiksy",
-    "marvel"
+    "marvel",
+    "brajan-rid"
+  ],
+  "cover": "https://web.archive.org/web/20120608031624im_/http://spidermedia.ru/assets/images/import_image/440.jpg",
+  "modx_id": 440,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }
 
-]]>[![Photobucket](https://web.archive.org/web/20120608031624im_/http://img.photobucket.com/albums/v499/sp888/MSMARV039_COV.jpg?t=1235028073)](http://images.comicbookresources.com/solicits/marvelcomics/200905/MSMARV039_COV.jpg)]]>Секретное Вторжение было далеко не самым лучшим проектом **Marvel**, но зато **Dark Reign** получилось мощным и интересным развитием Вселенной. После недавних [новостей](../../node/432/) вы и так уже знаете, что вскоре **Мунстоун** *(Moonstone)* займет место **Кэрол Дэнверс** *(Carol Danvers)*, не только как **Мисс Марвел** *(Ms. Marvel)* в комиксах издательства *(что уже и так произошло)*, но и как главная героиня тайтла **Ms. Marvel**.
+]]>[![Photobucket](https://web.archive.org/web/20120608031624im_/http://img.photobucket.com/albums/v499/sp888/MSMARV039_COV.jpg?t=1235028073)](http://images.comicbookresources.com/solicits/marvelcomics/200905/MSMARV039_COV.jpg)]]>Секретное Вторжение было далеко не самым лучшим проектом **Marvel**, но зато **Dark Reign** получилось мощным и интересным развитием Вселенной. После недавних [новостей](../avengers-assemble-may-2009/) вы и так уже знаете, что вскоре **Мунстоун** *(Moonstone)* займет место **Кэрол Дэнверс** *(Carol Danvers)*, не только как **Мисс Марвел** *(Ms. Marvel)* в комиксах издательства *(что уже и так произошло)*, но и как главная героиня тайтла **Ms. Marvel**.
 
 На фоне этих событий, сделаем легкую ретроспективу комикса **Ms. Marvel** начиная с SI и заканчивая нынешним временем *(думаю верно будет сказать, что лишь самые стойкие из вас читают её до сих пор, верно?)*. Итак, что же мы знаем? В Ms. Marvel #31, Кэрол обещает убить **Нормана Озборна** *(Norman Osborne)*, после чего идет арк о её прошлом, рассказывающий о связи Дэнверс, ЦРУ, Озборна и афганских террористов. В общем - не суть важно что сейчас происходит в комиксе, но связь тут такова - во-первых: **Ms. Marvel #31** происходит после **Dark Avengers #1**, а во-вторых: Норман имеет отношение к событиям прошлого Кэрол, когда она была пилотом и попала в афганский плен. Так что у Кэрол есть все причины желать смерти Озборну.
 

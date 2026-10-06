@@ -9,6 +9,12 @@
     "san-diego-comic-con-international",
     "wonder-woman"
   ],
+  "cover": "https://web.archive.org/web/20170911091138im_/http://spidermedia.ru/assets/images/movies/dc/wonder-woman-2017/wonderwomanheader2.jpg",
+  "modx_id": 101280,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

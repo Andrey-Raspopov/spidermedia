@@ -9,6 +9,12 @@
     "batman",
     "mnenie"
   ],
+  "cover": "https://web.archive.org/web/20220920115157im_/http://spidermedia.ru/assets/images/movies/dc/001.png",
+  "modx_id": 102522,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

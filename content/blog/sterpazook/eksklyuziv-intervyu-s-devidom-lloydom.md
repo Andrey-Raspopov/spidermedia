@@ -1,6 +1,6 @@
 {
   "title": "ЭКСКЛЮЗИВ: Интервью с Дэвидом Ллойдом",
-  "date": "2014-11-05T15:49:00+03:00",
+  "date": "2014-11-05T15:49:13+03:00",
   "url": "/blog/sterpazook/eksklyuziv-intervyu-s-devidom-lloydom/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/eksklyuziv-intervyu-s-devidom-lloydom",
   "archived": "https://web.archive.org/web/20260314075716/http://spidermedia.ru/blog/sterpazook/eksklyuziv-intervyu-s-devidom-lloydom",
@@ -8,6 +8,12 @@
     "v-for-vendetta",
     "devid-llojd",
     "intervyu"
+  ],
+  "cover": "https://web.archive.org/web/20150326012811im_/http://spidermedia.ru/assets/images/import_image/8259.jpg",
+  "modx_id": 8259,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

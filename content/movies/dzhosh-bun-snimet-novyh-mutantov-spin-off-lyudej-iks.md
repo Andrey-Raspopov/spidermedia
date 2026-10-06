@@ -9,6 +9,12 @@
     "x-men",
     "new-mutants"
   ],
+  "cover": "https://web.archive.org/web/20251205115617im_/http://spidermedia.ru/assets/images/movies/marvel/new-mutants-movie/the-new-mutants.jpg",
+  "modx_id": 100223,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -8,6 +8,12 @@
     "hellboymedia",
     "mnenie"
   ],
+  "cover": "https://web.archive.org/web/20160501065738im_/http://spidermedia.ru/assets/images/hellboymedia/regular/23-bprd-end-of-days/b.p.r.d.-end-of-days-cover.jpg",
+  "modx_id": 100969,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

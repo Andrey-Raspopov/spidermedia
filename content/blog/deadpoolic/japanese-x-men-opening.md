@@ -1,13 +1,19 @@
 {
   "title": "Japanese X-Men Opening",
-  "date": "2009-11-12T21:45:00+03:00",
+  "date": "2009-11-12T20:45:59+03:00",
   "url": "/blog/deadpoolic/japanese-x-men-opening/",
   "original_url": "http://spidermedia.ru/blog/deadpoolic/japanese-x-men-opening",
   "archived": "https://web.archive.org/web/20111019053557/http://spidermedia.ru/blog/deadpoolic/japanese-x-men-opening",
   "tags": [
     "animation",
     "crosspost",
-    "x-men"
+    "x-men",
+    "lyudi-iks"
+  ],
+  "modx_id": 2087,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

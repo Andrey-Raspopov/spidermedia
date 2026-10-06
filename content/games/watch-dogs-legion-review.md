@@ -4,6 +4,12 @@
   "url": "/games/watch-dogs-legion-review/",
   "original_url": "http://spidermedia.ru/games/watch-dogs-legion-review",
   "archived": "https://web.archive.org/web/20250909130213/http://spidermedia.ru/games/watch-dogs-legion-review",
+  "cover": "https://web.archive.org/web/20250909130213im_/http://spidermedia.ru/assets/images/games/cvd.png",
+  "modx_id": 102300,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

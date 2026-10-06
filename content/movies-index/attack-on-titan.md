@@ -1,9 +1,15 @@
 {
   "title": "Атака титанов",
-  "date": "2015-04-14T00:00:00+00:00",
+  "date": "2015-03-26T22:24:00+03:00",
   "url": "/movies-index/attack-on-titan/",
   "original_url": "http://spidermedia.ru/movies-index/attack-on-titan",
   "archived": "https://web.archive.org/web/20191231203212/http://spidermedia.ru:80/movies-index/attack-on-titan",
+  "cover": "https://web.archive.org/web/20160619144117im_/http://spidermedia.ru/assets/images/movies/manga/attack-on-titan/attackontitan-570x806.jpg",
+  "modx_id": 100113,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

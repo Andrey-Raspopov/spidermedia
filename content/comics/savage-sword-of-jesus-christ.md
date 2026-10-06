@@ -8,6 +8,12 @@
     "heavy-metal",
     "grant-morrison"
   ],
+  "cover": "https://web.archive.org/web/20250617231827im_/http://spidermedia.ru/assets/images/news/heavy-metal/18-savage-sword-of-jesus-cover.jpg",
+  "modx_id": 101415,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

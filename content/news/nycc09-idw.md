@@ -1,12 +1,21 @@
 {
   "title": "NYCC'09 - IDW",
-  "date": "2009-02-09T10:45:00+03:00",
+  "date": "2009-02-09T10:45:27+03:00",
   "url": "/news/nycc09-idw/",
+  "aliases": [
+    "/node/282/"
+  ],
   "original_url": "https://spidermedia.ru/news/nycc09-idw",
   "archived": "https://web.archive.org/web/20260314082203/https://spidermedia.ru/news/nycc09-idw",
   "tags": [
     "idw-publishing",
     "nycc-2009"
+  ],
+  "cover": "https://web.archive.org/web/20260314082203im_/http://spidermedia.ru/assets/images/import_image/282.jpg",
+  "modx_id": 282,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

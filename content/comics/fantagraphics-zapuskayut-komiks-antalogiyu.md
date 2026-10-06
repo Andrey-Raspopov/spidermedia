@@ -7,6 +7,12 @@
   "tags": [
     "fantagraphics"
   ],
+  "cover": "https://web.archive.org/web/20170616165558im_/http://spidermedia.ru/assets/images/news/images/oleg-lyfar/1.jpg",
+  "modx_id": 101585,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

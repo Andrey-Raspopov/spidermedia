@@ -1,7 +1,10 @@
 {
   "title": "Hulk, Октябрь 2009 + промо постеры SDCC' 09",
-  "date": "2009-07-29T16:14:00+03:00",
+  "date": "2009-07-29T15:14:17+03:00",
   "url": "/news/hulk-oktyabr-2009-promo-postery-sdcc-09/",
+  "aliases": [
+    "/node/1689/"
+  ],
   "original_url": "http://spidermedia.ru/news/hulk-oktyabr-2009-promo-postery-sdcc-09",
   "archived": "https://web.archive.org/web/20170424074009/http://spidermedia.ru:80/news/hulk-oktyabr-2009-promo-postery-sdcc-09",
   "tags": [
@@ -11,7 +14,14 @@
     "son-of-hulk",
     "komik-kon-v-san-diego",
     "marvel",
-    "halk"
+    "halk",
+    "san-diego-comic-con-international",
+    "hulk"
+  ],
+  "modx_id": 1689,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

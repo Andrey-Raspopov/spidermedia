@@ -1,7 +1,10 @@
 {
   "title": "Watchmen: 10 отрывков",
-  "date": "2009-02-24T20:11:00+03:00",
+  "date": "2009-02-24T19:11:41+03:00",
   "url": "/news/watchmen-10-otryvkov/",
+  "aliases": [
+    "/node/499/"
+  ],
   "original_url": "http://spidermedia.ru/news/watchmen-10-otryvkov",
   "archived": "https://web.archive.org/web/20120608172448/http://spidermedia.ru/news/watchmen-10-otryvkov",
   "tags": [
@@ -9,7 +12,13 @@
     "video",
     "zak-snayder",
     "kino",
-    "skachat"
+    "skachat",
+    "hraniteli"
+  ],
+  "modx_id": 499,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

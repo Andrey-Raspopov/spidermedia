@@ -1,6 +1,6 @@
 {
   "title": "Рассел Кроу сыграет Джор-Эла",
-  "date": "2011-06-16T10:30:00+03:00",
+  "date": "2011-06-16T09:30:31+03:00",
   "url": "/news/russell-crowe-jor-el/",
   "original_url": "https://spidermedia.ru/news/russell-crowe-jor-el",
   "archived": "https://web.archive.org/web/20260124052125/https://spidermedia.ru/news/russell-crowe-jor-el",
@@ -9,6 +9,12 @@
     "superman",
     "man-of-steel",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20260124052125im_/http://spidermedia.ru/assets/images/import_image/6454.jpg",
+  "modx_id": 6454,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

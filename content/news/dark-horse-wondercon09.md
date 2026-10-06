@@ -1,6 +1,6 @@
 {
   "title": "Dark Horse @ Wondercon'09",
-  "date": "2009-03-03T18:31:00+03:00",
+  "date": "2009-03-03T18:31:28+03:00",
   "url": "/news/dark-horse-wondercon09/",
   "original_url": "https://spidermedia.ru/news/dark-horse-wondercon09",
   "archived": "https://web.archive.org/web/20260306000335/https://spidermedia.ru/news/dark-horse-wondercon09",
@@ -14,6 +14,12 @@
     "star-wars",
     "hellboy",
     "dark-horse"
+  ],
+  "cover": "https://web.archive.org/web/20260306000335im_/http://spidermedia.ru/assets/images/import_image/575.gif",
+  "modx_id": 575,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Кого ждём?",
-  "date": "2013-01-10T03:49:00+03:00",
+  "date": "2013-01-10T02:49:25+03:00",
   "url": "/news/kogo-zhdyom/",
   "original_url": "http://spidermedia.ru/news/kogo-zhdyom",
   "archived": "https://web.archive.org/web/20241205030742/http://spidermedia.ru/news/kogo-zhdyom",
@@ -8,6 +8,12 @@
     "sajmon-byanchi",
     "dzheyson-aaron",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150428180835im_/http://spidermedia.ru/assets/images/import_image/7113.jpg",
+  "modx_id": 7113,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

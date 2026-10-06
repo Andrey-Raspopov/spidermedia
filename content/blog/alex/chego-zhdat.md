@@ -1,6 +1,6 @@
 {
   "title": "Чего ждать?",
-  "date": "2009-02-18T10:13:00+03:00",
+  "date": "2009-02-18T10:13:48+03:00",
   "url": "/blog/alex/chego-zhdat/",
   "original_url": "https://spidermedia.ru/blog/alex/chego-zhdat",
   "archived": "https://web.archive.org/web/20251106233736/https://spidermedia.ru/blog/alex/chego-zhdat",
@@ -8,6 +8,12 @@
     "dc-comics",
     "figurki",
     "solicitations"
+  ],
+  "cover": "https://web.archive.org/web/20251106233736im_/http://spidermedia.ru/assets/images/import_image/418.jpg",
+  "modx_id": 418,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

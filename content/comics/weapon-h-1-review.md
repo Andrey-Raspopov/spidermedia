@@ -10,6 +10,12 @@
     "wolverine",
     "hulk"
   ],
+  "cover": "https://web.archive.org/web/20190415202721im_/http://spidermedia.ru/assets/images/reviews/marvel/other/weapon-h/1/mzk.jpg",
+  "modx_id": 101871,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

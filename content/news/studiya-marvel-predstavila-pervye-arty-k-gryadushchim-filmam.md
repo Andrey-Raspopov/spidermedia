@@ -1,6 +1,6 @@
 {
   "title": "Студия Marvel представила первые арты к грядущим фильмам (UPD.)",
-  "date": "2014-07-26T19:22:00+03:00",
+  "date": "2014-07-26T18:22:02+03:00",
   "url": "/news/studiya-marvel-predstavila-pervye-arty-k-gryadushchim-filmam/",
   "original_url": "https://spidermedia.ru/news/studiya-marvel-predstavila-pervye-arty-k-gryadushchim-filmam",
   "archived": "https://web.archive.org/web/20251107033723/https://spidermedia.ru/news/studiya-marvel-predstavila-pervye-arty-k-gryadushchim-filmam",
@@ -9,6 +9,12 @@
     "avengers",
     "san-diego-comic-con-international",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20251107033723im_/http://spidermedia.ru/assets/images/import_image/7917.jpg",
+  "modx_id": 7917,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

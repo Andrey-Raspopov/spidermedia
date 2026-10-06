@@ -1,7 +1,10 @@
 {
   "title": "Married without children",
-  "date": "2010-07-24T22:41:00+03:00",
+  "date": "2010-07-24T21:41:02+03:00",
   "url": "/news/married-without-children/",
+  "aliases": [
+    "/node/2784/"
+  ],
   "original_url": "https://spidermedia.ru/news/married-without-children",
   "archived": "https://web.archive.org/web/20260309173807/https://spidermedia.ru/news/married-without-children",
   "tags": [
@@ -12,6 +15,12 @@
     "shade-the-changing-man",
     "radical-comics",
     "hellblazer"
+  ],
+  "cover": "https://web.archive.org/web/20260309173807im_/http://spidermedia.ru/assets/images/import_image/2784.jpg",
+  "modx_id": 2784,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

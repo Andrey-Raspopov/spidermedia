@@ -4,6 +4,12 @@
   "url": "/games/pokemon-go-chto-gde-kak/",
   "original_url": "http://spidermedia.ru/games/pokemon-go-chto-gde-kak",
   "archived": "https://web.archive.org/web/20250906075831/http://spidermedia.ru/games/pokemon-go-chto-gde-kak",
+  "cover": "https://web.archive.org/web/20180201130020im_/http://spidermedia.ru/assets/images/games/screenshot-86.png",
+  "modx_id": 101260,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

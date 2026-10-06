@@ -4,6 +4,9 @@
   "url": "/comics/s/smunlim/smunlim/",
   "original_url": "http://www.spidermedia.ru/comics/s/smunlim/smunlim.html",
   "archived": "https://web.archive.org/web/20050307045900/http://www.spidermedia.ru:80/comics/s/smunlim/smunlim.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

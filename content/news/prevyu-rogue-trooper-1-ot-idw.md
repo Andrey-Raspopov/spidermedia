@@ -1,6 +1,6 @@
 {
   "title": "Превью Rogue Trooper #1 от IDW",
-  "date": "2014-01-19T16:46:00+03:00",
+  "date": "2014-01-19T15:46:27+03:00",
   "url": "/news/prevyu-rogue-trooper-1-ot-idw/",
   "original_url": "http://spidermedia.ru/news/prevyu-rogue-trooper-1-ot-idw",
   "archived": "https://web.archive.org/web/20260125054920/http://spidermedia.ru/news/prevyu-rogue-trooper-1-ot-idw",
@@ -8,7 +8,14 @@
     "preview",
     "rogue-trooper",
     "idw-publishing",
-    "2000-ad"
+    "2000-ad",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20150424213910im_/http://spidermedia.ru/assets/images/import_image/7603.jpg",
+  "modx_id": 7603,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

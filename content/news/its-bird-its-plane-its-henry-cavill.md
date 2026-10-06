@@ -1,6 +1,6 @@
 {
   "title": "It's a bird! It's a plane! It's Henry Cavill!",
-  "date": "2011-01-30T20:41:00+03:00",
+  "date": "2011-01-30T20:41:25+03:00",
   "url": "/news/its-bird-its-plane-its-henry-cavill/",
   "original_url": "https://spidermedia.ru/news/its-bird-its-plane-its-henry-cavill",
   "archived": "https://web.archive.org/web/20260215072718/https://spidermedia.ru/news/its-bird-its-plane-its-henry-cavill",
@@ -10,6 +10,12 @@
     "dc-comics",
     "genri-kevill",
     "henry-cavill"
+  ],
+  "cover": "https://web.archive.org/web/20260215072718im_/http://spidermedia.ru/assets/images/import_image/3199.jpg",
+  "modx_id": 3199,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

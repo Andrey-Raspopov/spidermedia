@@ -1,7 +1,10 @@
 {
   "title": "Самый быстрый человек в мире? Не совсем",
-  "date": "2010-02-02T19:11:00+03:00",
+  "date": "2010-02-02T19:11:39+03:00",
   "url": "/news/samyy-bystryy-chelovek-v-mire-ne-sovsem/",
+  "aliases": [
+    "/node/2333/"
+  ],
   "original_url": "http://spidermedia.ru/news/samyy-bystryy-chelovek-v-mire-ne-sovsem",
   "archived": "https://web.archive.org/web/20250620080707/http://spidermedia.ru/news/samyy-bystryy-chelovek-v-mire-ne-sovsem",
   "tags": [
@@ -9,6 +12,11 @@
     "geoff-johns",
     "the-flash",
     "dc-comics"
+  ],
+  "modx_id": 2333,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

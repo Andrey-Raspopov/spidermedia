@@ -1,13 +1,22 @@
 {
   "title": "Грант Моррисон наступает !",
-  "date": "2009-05-09T23:32:00+03:00",
+  "date": "2009-05-09T22:32:24+03:00",
   "url": "/news/grant-morrison-nastupaet/",
+  "aliases": [
+    "/node/1139/"
+  ],
   "original_url": "http://spidermedia.ru/news/grant-morrison-nastupaet",
   "archived": "https://web.archive.org/web/20190212192443/http://spidermedia.ru:80/news/grant-morrison-nastupaet",
   "tags": [
     "dc-comics",
     "grant-morrison",
     "intervyu"
+  ],
+  "cover": "https://web.archive.org/web/20150503113122im_/http://spidermedia.ru/assets/images/import_image/1139.jpg",
+  "modx_id": 1139,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

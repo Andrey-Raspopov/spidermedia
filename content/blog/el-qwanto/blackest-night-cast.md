@@ -1,7 +1,10 @@
 {
   "title": "Blackest Night: The Cast",
-  "date": "2009-07-19T18:30:00+03:00",
+  "date": "2009-07-19T17:30:52+03:00",
   "url": "/blog/el-qwanto/blackest-night-cast/",
+  "aliases": [
+    "/node/1599/"
+  ],
   "original_url": "http://spidermedia.ru/blog/el-qwanto/blackest-night-cast",
   "archived": "https://web.archive.org/web/20250324161839/http://spidermedia.ru/blog/el-qwanto/blackest-night-cast",
   "tags": [
@@ -9,6 +12,12 @@
     "green-lantern",
     "dc-comics",
     "blackest-night"
+  ],
+  "cover": "https://web.archive.org/web/20250324161839im_/http://spidermedia.ru/assets/images/import_image/1599.png",
+  "modx_id": 1599,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

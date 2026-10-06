@@ -9,6 +9,12 @@
     "art-tribyut",
     "mike-mignola-russia"
   ],
+  "cover": "https://web.archive.org/web/20251209145641im_/http://spidermedia.ru/assets/images/hellboymedia/project-02-russia/art-tributes-astapeev/russia-by-yaroslav-astapeev-part-3-cover.jpg",
+  "modx_id": 100785,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

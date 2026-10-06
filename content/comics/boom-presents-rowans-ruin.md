@@ -9,6 +9,12 @@
     "majk-keri",
     "majk-perkins"
   ],
+  "cover": "https://web.archive.org/web/20180205065344im_/http://spidermedia.ru/assets/images/news/boom/stk685110.jpg",
+  "modx_id": 100401,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

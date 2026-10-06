@@ -12,6 +12,12 @@
     "nelyudi",
     "ant-man"
   ],
+  "cover": "https://web.archive.org/web/20160611093100im_/http://spidermedia.ru/assets/images/news/marvel/post-secret-wars/extraordinary-x-men.jpg",
+  "modx_id": 100308,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

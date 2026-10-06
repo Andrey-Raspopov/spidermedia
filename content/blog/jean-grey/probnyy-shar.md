@@ -1,9 +1,18 @@
 {
   "title": "Пробный шар",
-  "date": "2009-02-01T16:49:00+03:00",
+  "date": "2009-02-01T16:49:09+03:00",
   "url": "/blog/jean-grey/probnyy-shar/",
+  "aliases": [
+    "/node/73/"
+  ],
   "original_url": "http://spidermedia.ru/blog/jean-grey/probnyy-shar",
   "archived": "https://web.archive.org/web/20200210113450/http://spidermedia.ru:80/blog/jean-grey/probnyy-shar",
+  "cover": "https://web.archive.org/web/20150423114858im_/http://spidermedia.ru/assets/images/import_image/73.jpg",
+  "modx_id": 73,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

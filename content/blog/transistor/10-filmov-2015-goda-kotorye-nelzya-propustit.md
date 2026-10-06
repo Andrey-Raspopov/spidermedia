@@ -1,9 +1,15 @@
 {
   "title": "10 фильмов 2015 года, которые нельзя пропустить",
-  "date": "2015-01-29T11:29:00+03:00",
+  "date": "2015-01-29T11:29:44+03:00",
   "url": "/blog/transistor/10-filmov-2015-goda-kotorye-nelzya-propustit/",
   "original_url": "http://spidermedia.ru/blog/transistor/10-filmov-2015-goda-kotorye-nelzya-propustit",
   "archived": "https://web.archive.org/web/20190818192305/http://spidermedia.ru/blog/transistor/10-filmov-2015-goda-kotorye-nelzya-propustit",
+  "cover": "https://web.archive.org/web/20150326100106im_/http://spidermedia.ru/assets/images/import_image/8566.jpg",
+  "modx_id": 8566,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

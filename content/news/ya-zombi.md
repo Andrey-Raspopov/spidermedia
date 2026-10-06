@@ -1,7 +1,10 @@
 {
   "title": "Я - Зомби",
-  "date": "2009-07-16T03:00:00+03:00",
+  "date": "2009-07-16T02:00:46+03:00",
   "url": "/news/ya-zombi/",
+  "aliases": [
+    "/node/1570/"
+  ],
   "original_url": "http://spidermedia.ru/news/ya-zombi",
   "archived": "https://web.archive.org/web/20260313121024/http://spidermedia.ru/news/ya-zombi",
   "tags": [
@@ -9,6 +12,12 @@
     "majk-ollred",
     "izombie",
     "kris-roberson"
+  ],
+  "cover": "https://web.archive.org/web/20260313121024im_/http://spidermedia.ru/assets/images/import_image/1570.jpg",
+  "modx_id": 1570,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

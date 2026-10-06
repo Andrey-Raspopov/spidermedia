@@ -1,6 +1,6 @@
 {
   "title": "Серия комиксов о Дэслоке стартует в октябре",
-  "date": "2014-06-10T22:57:00+03:00",
+  "date": "2014-06-10T21:57:34+03:00",
   "url": "/news/seriya-komiksov-o-dedloke-startuet-v-oktyabre/",
   "original_url": "http://spidermedia.ru/news/seriya-komiksov-o-dedloke-startuet-v-oktyabre",
   "archived": "https://web.archive.org/web/20180124054049/http://spidermedia.ru/news/seriya-komiksov-o-dedloke-startuet-v-oktyabre",
@@ -8,6 +8,12 @@
     "marvel",
     "deslok",
     "deathlok"
+  ],
+  "cover": "https://web.archive.org/web/20180315143247im_/http://spidermedia.ru/assets/images/import_image/7795.jpg",
+  "modx_id": 7795,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Дэмиен (всё ещё не) жив!",
-  "date": "2013-07-04T05:01:00+03:00",
+  "date": "2013-07-04T04:01:59+03:00",
   "url": "/news/demien-vsyo-eshchyo-ne-zhiv/",
   "original_url": "http://spidermedia.ru/news/demien-vsyo-eshchyo-ne-zhiv",
   "archived": "https://web.archive.org/web/20251207095311/http://spidermedia.ru/news/demien-vsyo-eshchyo-ne-zhiv",
@@ -8,6 +8,12 @@
     "dc-comics",
     "endi-kubert",
     "robin"
+  ],
+  "cover": "https://web.archive.org/web/20251207095311im_/http://spidermedia.ru/assets/images/import_image/7315.jpg",
+  "modx_id": 7315,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

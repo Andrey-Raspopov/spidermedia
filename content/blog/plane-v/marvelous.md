@@ -1,13 +1,22 @@
 {
   "title": "Marvelous",
-  "date": "2009-09-25T14:00:00+03:00",
+  "date": "2009-09-25T13:00:11+03:00",
   "url": "/blog/plane-v/marvelous/",
+  "aliases": [
+    "/node/1931/"
+  ],
   "original_url": "https://spidermedia.ru/blog/plane-v/marvelous",
   "archived": "https://web.archive.org/web/20260214125008/https://spidermedia.ru/blog/plane-v/marvelous",
   "tags": [
     "skotti-yang",
     "art-0",
-    "wizard-of-oz"
+    "wizard-of-oz",
+    "art"
+  ],
+  "modx_id": 1931,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

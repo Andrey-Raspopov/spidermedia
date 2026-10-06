@@ -1,12 +1,20 @@
 {
   "title": "Онлайн-пейнтер",
-  "date": "2009-02-01T13:22:00+03:00",
+  "date": "2009-02-01T13:22:39+03:00",
   "url": "/blog/redson/onlayn-peynter/",
+  "aliases": [
+    "/node/70/"
+  ],
   "original_url": "http://spidermedia.ru/blog/redson/onlayn-peynter",
   "archived": "https://web.archive.org/web/20160806184429/http://spidermedia.ru/blog/redson/onlayn-peynter",
   "tags": [
     "internety",
     "kartinki"
+  ],
+  "modx_id": 70,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

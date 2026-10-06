@@ -1,6 +1,6 @@
 {
   "title": "He-Man on Superman action!",
-  "date": "2013-05-11T06:37:00+03:00",
+  "date": "2013-05-11T05:37:56+03:00",
   "url": "/news/he-man-superman-action/",
   "original_url": "https://spidermedia.ru/news/he-man-superman-action",
   "archived": "https://web.archive.org/web/20260214125713/https://spidermedia.ru/news/he-man-superman-action",
@@ -9,6 +9,12 @@
     "dc-comics",
     "kit-giffen",
     "dekster-soj"
+  ],
+  "cover": "https://web.archive.org/web/20260214125713im_/http://spidermedia.ru/assets/images/import_image/7238.jpg",
+  "modx_id": 7238,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,11 +1,17 @@
 {
   "title": "Звезда \"Сумерек\" сыграет в \"Акире\"?",
-  "date": "2011-11-16T14:57:00+03:00",
+  "date": "2011-11-16T13:57:43+03:00",
   "url": "/news/zvezda-sumerek-sygraet-v-akire/",
   "original_url": "http://spidermedia.ru/news/zvezda-sumerek-sygraet-v-akire",
   "archived": "https://web.archive.org/web/20190911051039/http://spidermedia.ru:80/news/zvezda-sumerek-sygraet-v-akire",
   "tags": [
     "akira"
+  ],
+  "cover": "https://web.archive.org/web/20190911051039im_/http://spidermedia.ru/assets/images/import_image/6697.jpg",
+  "modx_id": 6697,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

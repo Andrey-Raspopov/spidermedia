@@ -1,7 +1,10 @@
 {
   "title": "Свежий взгляд на Пауэр Гёрл",
-  "date": "2009-04-13T18:08:00+03:00",
+  "date": "2009-04-13T17:08:31+03:00",
   "url": "/blog/ghost-knight/svezhiy-vzglyad-na-pauer-gyorl/",
+  "aliases": [
+    "/node/909/"
+  ],
   "original_url": "http://spidermedia.ru/blog/ghost-knight/svezhiy-vzglyad-na-pauer-gyorl",
   "archived": "https://web.archive.org/web/20260305230856/http://spidermedia.ru/blog/ghost-knight/svezhiy-vzglyad-na-pauer-gyorl",
   "tags": [
@@ -11,6 +14,12 @@
     "power-girl",
     "jimmy-palmiotti",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20260305230856im_/http://spidermedia.ru/assets/images/import_image/909.jpg",
+  "modx_id": 909,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

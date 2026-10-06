@@ -4,6 +4,12 @@
   "url": "/movies/uncharted-movie-opinion/",
   "original_url": "http://spidermedia.ru/movies/uncharted-movie-opinion",
   "archived": "https://web.archive.org/web/20251216185206/http://spidermedia.ru/movies/uncharted-movie-opinion",
+  "cover": "https://web.archive.org/web/20220314024935im_/http://spidermedia.ru/assets/images/movies/uncharted-movie.jpg",
+  "modx_id": 102490,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

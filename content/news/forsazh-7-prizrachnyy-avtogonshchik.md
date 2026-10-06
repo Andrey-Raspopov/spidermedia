@@ -1,6 +1,6 @@
 {
   "title": "Форсаж 7: Призрачный автогонщик",
-  "date": "2013-11-29T23:38:00+03:00",
+  "date": "2013-11-29T22:38:03+03:00",
   "url": "/news/forsazh-7-prizrachnyy-avtogonshchik/",
   "original_url": "http://spidermedia.ru/news/forsazh-7-prizrachnyy-avtogonshchik",
   "archived": "https://web.archive.org/web/20251019000622/http://spidermedia.ru/news/forsazh-7-prizrachnyy-avtogonshchik",
@@ -8,6 +8,12 @@
     "tradd-moore",
     "prizrachnyj-gonshhik",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150428230921im_/http://spidermedia.ru/assets/images/import_image/7560.jpg",
+  "modx_id": 7560,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -7,6 +7,12 @@
   "tags": [
     "image-comics"
   ],
+  "cover": "https://web.archive.org/web/20260209120832im_/http://spidermedia.ru/assets/images/reviews/image/infidel/1/mzk.jpg",
+  "modx_id": 101869,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

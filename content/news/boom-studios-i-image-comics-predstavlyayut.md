@@ -1,7 +1,10 @@
 {
   "title": "BOOM! Studios и Image Comics представляют...",
-  "date": "2009-05-12T17:50:00+03:00",
+  "date": "2009-05-12T16:50:30+03:00",
   "url": "/news/boom-studios-i-image-comics-predstavlyayut/",
+  "aliases": [
+    "/node/1163/"
+  ],
   "original_url": "https://spidermedia.ru/news/boom-studios-i-image-comics-predstavlyayut",
   "archived": "https://web.archive.org/web/20260307052833/https://spidermedia.ru/news/boom-studios-i-image-comics-predstavlyayut",
   "tags": [
@@ -13,7 +16,13 @@
     "unthinkable",
     "elephantmen",
     "lillim",
-    "soul-kiss"
+    "soul-kiss",
+    "prevyu"
+  ],
+  "modx_id": 1163,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "Инициатива \"Мстители\" (SpiderMedia Fan Art Challenge #2)",
-  "date": "2010-10-04T11:34:00+03:00",
+  "date": "2010-10-04T10:34:32+03:00",
   "url": "/news/iniciativa-mstiteli-spidermedia-fan-art-challenge-2/",
+  "aliases": [
+    "/node/2901/"
+  ],
   "original_url": "https://spidermedia.ru/news/iniciativa-mstiteli-spidermedia-fan-art-challenge-2",
   "archived": "https://web.archive.org/web/20251216120224/https://spidermedia.ru/news/iniciativa-mstiteli-spidermedia-fan-art-challenge-2",
   "tags": [
@@ -9,6 +12,12 @@
     "new-avengers",
     "marvel",
     "challenge"
+  ],
+  "cover": "https://web.archive.org/web/20251216120224im_/http://spidermedia.ru/assets/images/import_image/2901.jpg",
+  "modx_id": 2901,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "Не просто боевое искусство...",
-  "date": "2009-06-13T20:15:00+03:00",
+  "date": "2009-06-13T19:15:05+03:00",
   "url": "/news/ne-prosto-boevoe-iskusstvo/",
+  "aliases": [
+    "/node/1411/"
+  ],
   "original_url": "http://spidermedia.ru/news/ne-prosto-boevoe-iskusstvo",
   "archived": "https://web.archive.org/web/20220814174714/http://spidermedia.ru/news/ne-prosto-boevoe-iskusstvo",
   "tags": [
@@ -13,7 +16,13 @@
     "charli-hyuston",
     "kodi-chemberlen",
     "nelson",
-    "luchio-parrilo"
+    "luchio-parrilo",
+    "art"
+  ],
+  "modx_id": 1411,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

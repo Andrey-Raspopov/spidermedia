@@ -1,6 +1,6 @@
 {
   "title": "Возвращение по всем фронтам",
-  "date": "2010-03-23T03:05:00+03:00",
+  "date": "2010-03-23T03:05:25+03:00",
   "url": "/news/vozvrashchenie-po-vsem-frontam/",
   "original_url": "http://spidermedia.ru/news/vozvrashchenie-po-vsem-frontam",
   "archived": "https://web.archive.org/web/20251111072628/http://spidermedia.ru/news/vozvrashchenie-po-vsem-frontam",
@@ -18,6 +18,12 @@
     "return-of-bruce-wayne",
     "dc-comics",
     "batman"
+  ],
+  "cover": "https://web.archive.org/web/20251111072628im_/http://spidermedia.ru/assets/images/import_image/2470.jpg",
+  "modx_id": 2470,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "UPD.: Новые кадры + Тизер трейлера \"СТРАЖЕЙ ГАЛАКТИКИ\"",
-  "date": "2014-02-18T20:02:00+03:00",
+  "date": "2014-02-18T19:02:16+03:00",
   "url": "/news/novye-kadry-iz-strazhey-galaktiki/",
   "original_url": "http://spidermedia.ru/news/novye-kadry-iz-strazhey-galaktiki",
   "archived": "https://web.archive.org/web/20240806230120/http://spidermedia.ru/news/novye-kadry-iz-strazhey-galaktiki",
@@ -8,6 +8,12 @@
     "trejlery",
     "guardians-of-the-galaxy",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150424061758im_/http://spidermedia.ru/assets/images/import_image/7646.jpg",
+  "modx_id": 7646,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

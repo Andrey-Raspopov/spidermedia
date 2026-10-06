@@ -1,6 +1,6 @@
 {
   "title": "Рецензия на фильм \"Темный Рыцарь: Возрождение легенды\"",
-  "date": "2012-08-01T20:46:00+03:00",
+  "date": "2012-08-01T19:46:07+03:00",
   "url": "/news/recenziya-na-film-temnyy-rycar-vozrozhdenie-legendy/",
   "original_url": "http://spidermedia.ru/news/recenziya-na-film-temnyy-rycar-vozrozhdenie-legendy",
   "archived": "https://web.archive.org/web/20260209110711/http://spidermedia.ru/news/recenziya-na-film-temnyy-rycar-vozrozhdenie-legendy",
@@ -10,6 +10,12 @@
     "dc-comics",
     "dark-knight-rises",
     "batman"
+  ],
+  "cover": "https://web.archive.org/web/20150326160836im_/http://spidermedia.ru/assets/images/import_image/6984.jpg",
+  "modx_id": 6984,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

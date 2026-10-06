@@ -1,13 +1,20 @@
 {
   "title": "Герои\\Heroes s4(5) ep.4",
-  "date": "2009-10-12T16:37:00+03:00",
+  "date": "2009-10-12T15:37:32+03:00",
   "url": "/blog/alex/geroi-heroes-s4-5-ep4/",
   "original_url": "http://spidermedia.ru/blog/alex/geroi-heroes-s4-5-ep4",
   "archived": "https://web.archive.org/web/20240920183431/http://spidermedia.ru/blog/alex/geroi-heroes-s4-5-ep4",
   "tags": [
     "heroes",
     "geroi",
-    "serialy"
+    "serialy",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20240920183431im_/http://spidermedia.ru/assets/images/import_image/1987.png",
+  "modx_id": 1987,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

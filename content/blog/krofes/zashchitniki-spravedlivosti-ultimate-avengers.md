@@ -1,7 +1,10 @@
 {
   "title": "Защитники справедливости / Ultimate Avengers",
-  "date": "2009-02-23T16:32:00+03:00",
+  "date": "2009-02-23T16:32:24+03:00",
   "url": "/blog/krofes/zashchitniki-spravedlivosti-ultimate-avengers/",
+  "aliases": [
+    "/node/483/"
+  ],
   "original_url": "https://spidermedia.ru/blog/krofes/zashchitniki-spravedlivosti-ultimate-avengers",
   "archived": "https://web.archive.org/web/20250807230211/https://spidermedia.ru/blog/krofes/zashchitniki-spravedlivosti-ultimate-avengers",
   "tags": [
@@ -9,6 +12,12 @@
     "ultimate",
     "marvel",
     "avengers"
+  ],
+  "cover": "https://web.archive.org/web/20150502195554im_/http://spidermedia.ru/assets/images/import_image/483.jpg",
+  "modx_id": 483,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

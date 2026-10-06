@@ -7,13 +7,19 @@
   "tags": [
     "boomkniga"
   ],
+  "cover": "https://web.archive.org/web/20210818131512im_/https://spidermedia.ru/assets/images/reviews/boomkniga/sandcastle/001.png",
+  "modx_id": 102418,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
 [![](https://web.archive.org/web/20210816175245im_/https://spidermedia.ru/assets/cache/images/reviews/boomkniga/sandcastle/622x-001.2e9.jpg)](https://web.archive.org/web/20210818131512im_/https://spidermedia.ru/assets/images/reviews/boomkniga/sandcastle/001.png)
 
-Не так давно в издательстве «Бумкнига» вышел комикс творческого дуэта Питерса и Леви «Замок из песка». Фредерик Питерс — известный и признанный швейцарский автор. Ранее на русском языке уже публиковалась его работа «Голубые таблетки», а у нас на сайте он появлялся дважды: о Pachyderme можно прочитать в [Лучшей рубрике о комиксах](../best-column-about-comics-37-pachyderme/) , а о The Smell of Starving Boys послушать в [подкасте «На панелях»](https://web.archive.org/web/20251115040546id_/https://spidermedia.ru/podcast/na-panelyah.-vypusk-52-superbd).
+Не так давно в издательстве «Бумкнига» вышел комикс творческого дуэта Питерса и Леви «Замок из песка». Фредерик Питерс — известный и признанный швейцарский автор. Ранее на русском языке уже публиковалась его работа «Голубые таблетки», а у нас на сайте он появлялся дважды: о Pachyderme можно прочитать в [Лучшей рубрике о комиксах](../best-column-about-comics-37-pachyderme/) , а о The Smell of Starving Boys послушать в [подкасте «На панелях»](../../podcast/na-panelyah.-vypusk-52-superbd/).
 
 В 2010-м году он объединился с именитым французским режиссером и сценаристом Пьером Оскаром Леви, с которым познакомился как раз во время работы над экранизацией «Голубых таблеток». Вместе они создали метафорическую, сюрреалистичную и жуткую историю о неотвратимости времени, которая легла в основу нового фильма короля неожиданных сюжетных поворотов М. Найт Шьямалана «Время» («Old» в оригинале). Но обо всем по порядку.
 

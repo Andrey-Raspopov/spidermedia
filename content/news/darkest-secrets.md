@@ -1,7 +1,10 @@
 {
   "title": "The Darkest Secrets",
-  "date": "2010-07-20T17:42:00+03:00",
+  "date": "2010-07-20T16:42:20+03:00",
   "url": "/news/darkest-secrets/",
+  "aliases": [
+    "/node/2753/"
+  ],
   "original_url": "https://spidermedia.ru/news/darkest-secrets",
   "archived": "https://web.archive.org/web/20251216190041/https://spidermedia.ru/news/darkest-secrets",
   "tags": [
@@ -9,7 +12,14 @@
     "art-0",
     "ajvan-rejs",
     "ivan-reis",
-    "dc-comics"
+    "dc-comics",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20251216190041im_/http://spidermedia.ru/assets/images/import_image/2753.jpg",
+  "modx_id": 2753,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

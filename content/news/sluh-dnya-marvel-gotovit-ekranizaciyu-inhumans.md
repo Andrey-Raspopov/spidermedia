@@ -1,6 +1,6 @@
 {
   "title": "Слух дня: Marvel готовит экранизацию The Inhumans",
-  "date": "2014-08-13T09:48:00+03:00",
+  "date": "2014-08-13T08:48:12+03:00",
   "url": "/news/sluh-dnya-marvel-gotovit-ekranizaciyu-inhumans/",
   "original_url": "http://spidermedia.ru/news/sluh-dnya-marvel-gotovit-ekranizaciyu-inhumans",
   "archived": "https://web.archive.org/web/20251207012048/http://spidermedia.ru/news/sluh-dnya-marvel-gotovit-ekranizaciyu-inhumans",
@@ -8,6 +8,12 @@
     "inhumans",
     "marvel",
     "nelyudi"
+  ],
+  "cover": "https://web.archive.org/web/20251207012048im_/http://spidermedia.ru/assets/images/import_image/7986.jpg",
+  "modx_id": 7986,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

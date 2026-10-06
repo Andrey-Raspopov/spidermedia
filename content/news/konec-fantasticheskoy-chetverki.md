@@ -1,13 +1,20 @@
 {
   "title": "Конец Фантастической Четверки",
-  "date": "2014-10-12T21:34:00+03:00",
+  "date": "2014-10-12T20:34:48+03:00",
   "url": "/news/konec-fantasticheskoy-chetverki/",
   "original_url": "http://spidermedia.ru/news/konec-fantasticheskoy-chetverki",
   "archived": "https://web.archive.org/web/20250717190252/http://spidermedia.ru/news/konec-fantasticheskoy-chetverki",
   "tags": [
     "fantastic-four",
     "marvel",
-    "dzhejms-robinson"
+    "dzhejms-robinson",
+    "fantasticheskaya-chetverka"
+  ],
+  "cover": "https://web.archive.org/web/20150326071521im_/http://spidermedia.ru/assets/images/import_image/8169.jpg",
+  "modx_id": 8169,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

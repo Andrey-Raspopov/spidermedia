@@ -8,6 +8,12 @@
     "best-column-about-comics",
     "mnenie"
   ],
+  "cover": "https://web.archive.org/web/20171024145604im_/http://spidermedia.ru/assets/images/best-column-about-comics/12-boxers-and-saints/boxers-and-saints-cover.jpg",
+  "modx_id": 101497,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

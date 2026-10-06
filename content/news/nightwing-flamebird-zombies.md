@@ -1,7 +1,10 @@
 {
   "title": "Nightwing, Flamebird &...Zombies?",
-  "date": "2009-03-07T13:39:00+03:00",
+  "date": "2009-03-07T13:39:35+03:00",
   "url": "/news/nightwing-flamebird-zombies/",
+  "aliases": [
+    "/node/618/"
+  ],
   "original_url": "http://spidermedia.ru/news/nightwing-flamebird-zombies",
   "archived": "https://web.archive.org/web/20251207090743/http://spidermedia.ru/news/nightwing-flamebird-zombies",
   "tags": [
@@ -10,6 +13,12 @@
     "the-walking-dead",
     "image-comics",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20251207090743im_/http://spidermedia.ru/assets/images/import_image/618.jpg",
+  "modx_id": 618,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

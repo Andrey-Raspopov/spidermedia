@@ -1,12 +1,18 @@
 {
   "title": "«Принц Вэлиант» Хэла Фостера вышел на русском",
-  "date": "2013-09-25T11:55:00+03:00",
+  "date": "2013-09-25T10:55:46+03:00",
   "url": "/news/princ-veliant-hela-fostera-vyshel-na-russkom/",
   "original_url": "http://spidermedia.ru/news/princ-veliant-hela-fostera-vyshel-na-russkom",
   "archived": "https://web.archive.org/web/20240224100604/http://spidermedia.ru/news/princ-veliant-hela-fostera-vyshel-na-russkom",
   "tags": [
     "zangavar",
     "zarubezhnye-komiksy-na-russkom"
+  ],
+  "cover": "https://web.archive.org/web/20240224100604im_/http://spidermedia.ru/assets/images/import_image/7480.jpg",
+  "modx_id": 7480,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

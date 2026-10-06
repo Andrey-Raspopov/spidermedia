@@ -1,12 +1,18 @@
 {
   "title": "Капитан Бумеранг присоединится к врагам «Стрелы»",
-  "date": "2014-09-17T15:19:00+03:00",
+  "date": "2014-09-17T14:19:07+03:00",
   "url": "/news/kapitan-bumerang-prisoedinitsya-k-vragam-strely/",
   "original_url": "http://spidermedia.ru/news/kapitan-bumerang-prisoedinitsya-k-vragam-strely",
   "archived": "https://web.archive.org/web/20251206163514/http://spidermedia.ru/news/kapitan-bumerang-prisoedinitsya-k-vragam-strely",
   "tags": [
     "kasting",
     "green-arrow"
+  ],
+  "cover": "https://web.archive.org/web/20251206163514im_/http://spidermedia.ru/assets/images/import_image/8072.jpg",
+  "modx_id": 8072,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

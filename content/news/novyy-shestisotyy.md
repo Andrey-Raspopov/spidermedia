@@ -1,7 +1,10 @@
 {
   "title": "Новый шестисотый",
-  "date": "2009-02-07T22:45:00+03:00",
+  "date": "2009-02-07T22:45:23+03:00",
   "url": "/news/novyy-shestisotyy/",
+  "aliases": [
+    "/node/261/"
+  ],
   "original_url": "http://spidermedia.ru/news/novyy-shestisotyy",
   "archived": "https://web.archive.org/web/20190515194655/http://spidermedia.ru:80/news/novyy-shestisotyy",
   "tags": [
@@ -10,7 +13,16 @@
     "j-michael-straczynski",
     "kris-dzhiarusso",
     "preview",
-    "sten-li"
+    "sten-li",
+    "tor",
+    "dzhej-majkl-strazhinski",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20190515194655im_/http://spidermedia.ru/assets/images/import_image/261.jpg",
+  "modx_id": 261,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

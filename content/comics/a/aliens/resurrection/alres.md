@@ -4,6 +4,9 @@
   "url": "/comics/a/aliens/resurrection/alres/",
   "original_url": "http://www.spidermedia.ru/comics/a/aliens/resurrection/alres.html",
   "archived": "https://web.archive.org/web/20050307082414/http://www.spidermedia.ru:80/comics/a/aliens/resurrection/alres.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

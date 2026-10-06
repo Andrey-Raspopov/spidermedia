@@ -1,6 +1,6 @@
 {
   "title": "Онгоинг UNCANNY INHUMANS стартует в апреле",
-  "date": "2015-01-07T17:18:00+03:00",
+  "date": "2015-01-07T17:18:11+03:00",
   "url": "/news/ongoing-uncanny-inhumans-startuet-v-aprele/",
   "original_url": "http://spidermedia.ru/news/ongoing-uncanny-inhumans-startuet-v-aprele",
   "archived": "https://web.archive.org/web/20190113034312/http://spidermedia.ru:80/news/ongoing-uncanny-inhumans-startuet-v-aprele",
@@ -8,6 +8,12 @@
     "inhumans",
     "marvel",
     "nelyudi"
+  ],
+  "cover": "https://web.archive.org/web/20150326010003im_/http://spidermedia.ru/assets/images/import_image/8469.jpg",
+  "modx_id": 8469,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

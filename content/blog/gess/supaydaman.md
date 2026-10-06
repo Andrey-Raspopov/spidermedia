@@ -1,6 +1,6 @@
 {
   "title": "Супайдаман",
-  "date": "2009-03-08T17:16:00+03:00",
+  "date": "2009-03-08T16:16:37+03:00",
   "url": "/blog/gess/supaydaman/",
   "original_url": "http://spidermedia.ru/blog/gess/supaydaman",
   "archived": "https://web.archive.org/web/20120608235312/http://spidermedia.ru/blog/gess/supaydaman",
@@ -8,6 +8,12 @@
     "spider-man",
     "tokusacu",
     "chelovek-pauk"
+  ],
+  "cover": "https://web.archive.org/web/20120608235312im_/http://spidermedia.ru/assets/images/import_image/625.jpg",
+  "modx_id": 625,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

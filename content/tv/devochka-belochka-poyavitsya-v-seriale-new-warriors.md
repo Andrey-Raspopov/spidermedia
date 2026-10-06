@@ -8,6 +8,12 @@
     "marvel",
     "squirrel-girl"
   ],
+  "cover": "https://web.archive.org/web/20250512105324im_/http://spidermedia.ru/assets/images/news/tv/marvel/nw.jpg",
+  "modx_id": 101328,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

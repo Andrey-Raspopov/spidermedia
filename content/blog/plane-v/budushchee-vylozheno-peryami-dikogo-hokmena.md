@@ -1,6 +1,6 @@
 {
   "title": "Будущее выложено перьями ДИКОГО ХОКМЕНА",
-  "date": "2011-06-16T15:57:00+03:00",
+  "date": "2011-06-16T14:57:58+03:00",
   "url": "/blog/plane-v/budushchee-vylozheno-peryami-dikogo-hokmena/",
   "original_url": "http://spidermedia.ru/blog/plane-v/budushchee-vylozheno-peryami-dikogo-hokmena",
   "archived": "https://web.archive.org/web/20120718062000/http://spidermedia.ru/blog/plane-v/budushchee-vylozheno-peryami-dikogo-hokmena",
@@ -8,6 +8,12 @@
     "dc-comics",
     "komiksy",
     "mnenie"
+  ],
+  "cover": "https://web.archive.org/web/20120718062000im_/http://spidermedia.ru/assets/images/import_image/6456.jpg",
+  "modx_id": 6456,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

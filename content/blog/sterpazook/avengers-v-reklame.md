@@ -1,12 +1,21 @@
 {
   "title": "Avengers в рекламе",
-  "date": "2009-04-16T20:41:00+03:00",
+  "date": "2009-04-16T19:41:21+03:00",
   "url": "/blog/sterpazook/avengers-v-reklame/",
+  "aliases": [
+    "/node/962/"
+  ],
   "original_url": "http://spidermedia.ru/blog/sterpazook/avengers-v-reklame",
   "archived": "https://web.archive.org/web/20120608172200/http://spidermedia.ru/blog/sterpazook/avengers-v-reklame",
   "tags": [
     "avengers",
     "reklama"
+  ],
+  "cover": "https://web.archive.org/web/20120608172200im_/http://spidermedia.ru/assets/images/import_image/962.jpg",
+  "modx_id": 962,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

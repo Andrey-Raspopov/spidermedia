@@ -1,12 +1,18 @@
 {
   "title": "2009 год в обложках с ленивыми подписями",
-  "date": "2010-01-26T00:41:00+03:00",
+  "date": "2010-01-26T00:41:23+03:00",
   "url": "/blog/gess/2009-god-v-oblozhkah-s-lenivymi-podpisyami/",
   "original_url": "https://spidermedia.ru/blog/gess/2009-god-v-oblozhkah-s-lenivymi-podpisyami",
   "archived": "https://web.archive.org/web/20240920173737/https://spidermedia.ru/blog/gess/2009-god-v-oblozhkah-s-lenivymi-podpisyami",
   "tags": [
     "kak-raz-vovremya",
     "itogi-goda"
+  ],
+  "cover": "https://web.archive.org/web/20240920173737im_/http://spidermedia.ru/assets/images/import_image/2306.jpg",
+  "modx_id": 2306,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

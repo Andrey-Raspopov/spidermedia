@@ -1,7 +1,10 @@
 {
   "title": "DC Animated Universe - Что дальше?",
-  "date": "2009-09-17T09:44:00+03:00",
+  "date": "2009-09-17T08:44:34+03:00",
   "url": "/news/dc-animated-universe-chto-dalshe/",
+  "aliases": [
+    "/node/1900/"
+  ],
   "original_url": "https://spidermedia.ru/news/dc-animated-universe-chto-dalshe",
   "archived": "https://web.archive.org/web/20241004014639/https://spidermedia.ru/news/dc-animated-universe-chto-dalshe",
   "tags": [
@@ -13,6 +16,12 @@
     "dc-comics",
     "superman",
     "batman"
+  ],
+  "cover": "https://web.archive.org/web/20150428172443im_/http://spidermedia.ru/assets/images/import_image/1900.jpg",
+  "modx_id": 1900,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

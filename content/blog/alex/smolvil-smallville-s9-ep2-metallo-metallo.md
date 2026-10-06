@@ -1,6 +1,6 @@
 {
   "title": "Смолвиль\\Smallville s9 ep.2 - \"Metallo\"\\\"Металло\"",
-  "date": "2009-10-04T11:30:00+03:00",
+  "date": "2009-10-04T10:30:02+03:00",
   "url": "/blog/alex/smolvil-smallville-s9-ep2-metallo-metallo/",
   "original_url": "http://spidermedia.ru/blog/alex/smolvil-smallville-s9-ep2-metallo-metallo",
   "archived": "https://web.archive.org/web/20251107024342/http://spidermedia.ru/blog/alex/smolvil-smallville-s9-ep2-metallo-metallo",
@@ -9,7 +9,14 @@
     "smollvill",
     "superman",
     "tajny-smollvillya",
-    "serialy"
+    "serialy",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20251107024342im_/http://spidermedia.ru/assets/images/import_image/1965.png",
+  "modx_id": 1965,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

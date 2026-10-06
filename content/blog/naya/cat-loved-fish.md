@@ -1,6 +1,6 @@
 {
   "title": "A Cat That Loved A Fish",
-  "date": "2009-03-31T21:40:00+03:00",
+  "date": "2009-03-31T20:40:33+03:00",
   "url": "/blog/naya/cat-loved-fish/",
   "original_url": "http://spidermedia.ru/blog/naya/cat-loved-fish",
   "archived": "https://web.archive.org/web/20120607131441/http://spidermedia.ru/blog/naya/cat-loved-fish",
@@ -9,6 +9,12 @@
     "one-shot",
     "shoujo",
     "skachat"
+  ],
+  "cover": "https://web.archive.org/web/20120607131441im_/http://spidermedia.ru/assets/images/import_image/820.gif",
+  "modx_id": 820,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

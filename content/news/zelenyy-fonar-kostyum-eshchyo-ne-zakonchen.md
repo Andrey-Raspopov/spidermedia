@@ -1,7 +1,10 @@
 {
   "title": "Зеленый Фонарь - костюм ещё не закончен",
-  "date": "2010-07-21T07:38:00+03:00",
+  "date": "2010-07-21T06:38:00+03:00",
   "url": "/news/zelenyy-fonar-kostyum-eshchyo-ne-zakonchen/",
+  "aliases": [
+    "/node/2756/"
+  ],
   "original_url": "http://spidermedia.ru/news/zelenyy-fonar-kostyum-eshchyo-ne-zakonchen",
   "archived": "https://web.archive.org/web/20120718093509/http://spidermedia.ru/news/zelenyy-fonar-kostyum-eshchyo-ne-zakonchen",
   "tags": [
@@ -9,6 +12,12 @@
     "green-lantern",
     "zelenyy-fonar",
     "kino"
+  ],
+  "cover": "https://web.archive.org/web/20120718093509im_/http://spidermedia.ru/assets/images/import_image/2756.jpg",
+  "modx_id": 2756,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

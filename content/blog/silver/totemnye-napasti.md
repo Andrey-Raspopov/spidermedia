@@ -1,6 +1,6 @@
 {
   "title": "Тотемные напасти",
-  "date": "2009-03-18T22:07:00+03:00",
+  "date": "2009-03-18T21:07:44+03:00",
   "url": "/blog/silver/totemnye-napasti/",
   "original_url": "http://spidermedia.ru/blog/silver/totemnye-napasti",
   "archived": "https://web.archive.org/web/20120607115014/http://spidermedia.ru/blog/silver/totemnye-napasti",
@@ -13,6 +13,11 @@
     "mysli",
     "chyornaya-pantera",
     "shok11"
+  ],
+  "modx_id": 707,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

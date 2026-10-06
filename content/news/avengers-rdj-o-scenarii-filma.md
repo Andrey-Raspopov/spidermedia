@@ -1,6 +1,6 @@
 {
   "title": "The Avengers: RDJ о сценарии фильма",
-  "date": "2010-11-02T23:57:00+03:00",
+  "date": "2010-11-02T23:57:48+03:00",
   "url": "/news/avengers-rdj-o-scenarii-filma/",
   "original_url": "https://spidermedia.ru/news/avengers-rdj-o-scenarii-filma",
   "archived": "https://web.archive.org/web/20251205113348/https://spidermedia.ru/news/avengers-rdj-o-scenarii-filma",
@@ -9,6 +9,11 @@
     "marvel",
     "joss-whedon",
     "avengers"
+  ],
+  "modx_id": 3048,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

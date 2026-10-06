@@ -1,13 +1,22 @@
 {
   "title": "Комиксы DC Universe. Выпуск № 27",
-  "date": "2010-08-29T18:05:00+03:00",
+  "date": "2010-08-29T17:05:38+03:00",
   "url": "/blog/derden/komiksy-dc-universe-vypusk-no-27/",
+  "aliases": [
+    "/node/2880/"
+  ],
   "original_url": "http://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-27",
   "archived": "https://web.archive.org/web/20260215072049/http://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-27",
   "tags": [
     "dc-comics",
     "justice-league",
     "dc-universe-comics"
+  ],
+  "cover": "https://web.archive.org/web/20260215072049im_/http://spidermedia.ru/assets/images/import_image/2880.jpg",
+  "modx_id": 2880,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

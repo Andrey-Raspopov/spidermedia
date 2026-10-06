@@ -9,6 +9,12 @@
     "gambit",
     "x-men"
   ],
+  "cover": "https://web.archive.org/web/20250717192414im_/http://spidermedia.ru/assets/images/movies/marvel/gambit-movie-2016/rupert-wyatt.jpg",
+  "modx_id": 100563,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

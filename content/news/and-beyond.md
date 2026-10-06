@@ -1,6 +1,6 @@
 {
   "title": "...and beyond!",
-  "date": "2013-02-05T19:04:00+03:00",
+  "date": "2013-02-05T18:04:33+03:00",
   "url": "/news/and-beyond/",
   "original_url": "http://spidermedia.ru/news/and-beyond",
   "archived": "https://web.archive.org/web/20250512123903/http://spidermedia.ru/news/and-beyond",
@@ -9,6 +9,12 @@
     "dzhim-cheng",
     "marvel",
     "fcbd"
+  ],
+  "cover": "https://web.archive.org/web/20150424151001im_/http://spidermedia.ru/assets/images/import_image/7136.jpg",
+  "modx_id": 7136,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

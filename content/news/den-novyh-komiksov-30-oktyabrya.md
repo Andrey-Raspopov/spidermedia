@@ -1,11 +1,17 @@
 {
   "title": "День новых комиксов: 30 октября",
-  "date": "2013-10-30T16:30:00+03:00",
+  "date": "2013-10-30T15:30:46+03:00",
   "url": "/news/den-novyh-komiksov-30-oktyabrya/",
   "original_url": "https://spidermedia.ru/news/den-novyh-komiksov-30-oktyabrya",
   "archived": "https://web.archive.org/web/20250519183945/https://spidermedia.ru/news/den-novyh-komiksov-30-oktyabrya",
   "tags": [
     "den-novyh-komiksov"
+  ],
+  "cover": "https://web.archive.org/web/20150428175354im_/http://spidermedia.ru/assets/images/import_image/7522.jpg",
+  "modx_id": 7522,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

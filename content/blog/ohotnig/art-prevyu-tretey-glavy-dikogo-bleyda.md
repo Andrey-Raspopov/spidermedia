@@ -1,13 +1,22 @@
 {
   "title": "Арт-превью третьей главы \"Дикого Блэйда\"",
-  "date": "2009-03-22T21:15:00+03:00",
+  "date": "2009-03-22T20:15:44+03:00",
   "url": "/blog/ohotnig/art-prevyu-tretey-glavy-dikogo-bleyda/",
+  "aliases": [
+    "/node/748/"
+  ],
   "original_url": "http://spidermedia.ru/blog/ohotnig/art-prevyu-tretey-glavy-dikogo-bleyda",
   "archived": "https://web.archive.org/web/20120608220802/http://spidermedia.ru/blog/ohotnig/art-prevyu-tretey-glavy-dikogo-bleyda",
   "tags": [
     "mad-blade",
     "art-0",
-    "komiksy"
+    "komiksy",
+    "art"
+  ],
+  "modx_id": 748,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

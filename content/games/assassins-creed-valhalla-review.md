@@ -4,6 +4,12 @@
   "url": "/games/assassins-creed-valhalla-review/",
   "original_url": "https://spidermedia.ru/games/assassins-creed-valhalla-review",
   "archived": "https://web.archive.org/web/20240624131431/https://spidermedia.ru/games/assassins-creed-valhalla-review",
+  "cover": "https://web.archive.org/web/20240624131431im_/http://spidermedia.ru/assets/images/games/assobl.jpg",
+  "modx_id": 102305,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

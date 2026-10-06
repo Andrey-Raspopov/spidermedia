@@ -7,6 +7,12 @@
   "tags": [
     "gamermedia"
   ],
+  "cover": "https://web.archive.org/web/20240805025123im_/http://spidermedia.ru/assets/images/games/gamermedia-8/gemmed8.jpg",
+  "modx_id": 101757,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

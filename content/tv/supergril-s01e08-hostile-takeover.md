@@ -8,6 +8,12 @@
     "dc-comics",
     "supergirl"
   ],
+  "cover": "https://web.archive.org/web/20160611085545im_/http://spidermedia.ru/assets/images/tv/supergirl/08-hostile-takeover/supergirl-s01e08-hostile-takeover-05.jpg",
+  "modx_id": 100876,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

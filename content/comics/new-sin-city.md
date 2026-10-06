@@ -6,7 +6,14 @@
   "archived": "https://web.archive.org/web/20250424101738/http://spidermedia.ru/comics/new-sin-city",
   "tags": [
     "komik-kon-v-nyu-yorke",
-    "sin-city"
+    "sin-city",
+    "nycc-2015"
+  ],
+  "cover": "https://web.archive.org/web/20250424101738im_/http://spidermedia.ru/assets/images/comic-con/2015/nycc/frank-miller-nycc.jpg",
+  "modx_id": 100643,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "Blackest Night - декабрь",
-  "date": "2009-09-22T11:30:00+03:00",
+  "date": "2009-09-22T10:30:08+03:00",
   "url": "/news/blackest-night-dekabr/",
+  "aliases": [
+    "/node/1920/"
+  ],
   "original_url": "http://spidermedia.ru/news/blackest-night-dekabr",
   "archived": "https://web.archive.org/web/20260314082546/http://spidermedia.ru/news/blackest-night-dekabr",
   "tags": [
@@ -9,7 +12,14 @@
     "preview",
     "superman",
     "dc-comics",
-    "solicitations"
+    "solicitations",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20260314082546im_/http://spidermedia.ru/assets/images/import_image/1920.png",
+  "modx_id": 1920,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,12 +1,18 @@
 {
   "title": "Читаем цифровые комиксы",
-  "date": "2012-07-18T14:59:00+03:00",
+  "date": "2012-07-18T13:59:40+03:00",
   "url": "/blog/sterpazook/cifrovye-komiksy/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/cifrovye-komiksy",
   "archived": "https://web.archive.org/web/20250524062241/http://spidermedia.ru/blog/sterpazook/cifrovye-komiksy",
   "tags": [
     "cifrovye-komiksy",
     "faq"
+  ],
+  "cover": "https://web.archive.org/web/20150502185012im_/http://spidermedia.ru/assets/images/import_image/6810.png",
+  "modx_id": 6810,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

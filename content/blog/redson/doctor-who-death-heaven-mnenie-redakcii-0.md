@@ -1,12 +1,18 @@
 {
   "title": "Doctor Who \"Death In Heaven\": Мнение редакции",
-  "date": "2014-11-10T12:54:00+03:00",
+  "date": "2014-11-10T12:54:25+03:00",
   "url": "/blog/redson/doctor-who-death-heaven-mnenie-redakcii-0/",
   "original_url": "http://spidermedia.ru/blog/redson/doctor-who-death-heaven-mnenie-redakcii-0",
   "archived": "https://web.archive.org/web/20250909122720/http://spidermedia.ru/blog/redson/doctor-who-death-heaven-mnenie-redakcii-0",
   "tags": [
     "doctor-who",
     "obzor"
+  ],
+  "cover": "https://web.archive.org/web/20250909122720im_/http://spidermedia.ru/assets/images/import_image/8276.jpg",
+  "modx_id": 8276,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

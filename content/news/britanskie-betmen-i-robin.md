@@ -1,6 +1,6 @@
 {
   "title": "Британские Бэтмен и Робин",
-  "date": "2010-07-14T20:31:00+03:00",
+  "date": "2010-07-14T19:31:26+03:00",
   "url": "/news/britanskie-betmen-i-robin/",
   "original_url": "http://spidermedia.ru/news/britanskie-betmen-i-robin",
   "archived": "https://web.archive.org/web/20260214143202/http://spidermedia.ru/news/britanskie-betmen-i-robin",
@@ -9,6 +9,12 @@
     "pol-kornell",
     "paul-cornell",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20260214143202im_/http://spidermedia.ru/assets/images/import_image/2729.jpg",
+  "modx_id": 2729,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

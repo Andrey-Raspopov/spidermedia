@@ -8,6 +8,12 @@
     "mnenie",
     "russian-comics"
   ],
+  "cover": "https://web.archive.org/web/20220819233238im_/http://spidermedia.ru/assets/images/reviews/dlya-mozajki.jpg",
+  "modx_id": 101606,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

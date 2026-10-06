@@ -8,6 +8,12 @@
     "marvel",
     "x-men"
   ],
+  "cover": "https://web.archive.org/web/20251116054909im_/http://spidermedia.ru/assets/images/movies/marvel/x-men-days-of-future-past-movie-2014/x-men-days-of-future-past-rogue-cut-cover.jpg",
+  "modx_id": 100216,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

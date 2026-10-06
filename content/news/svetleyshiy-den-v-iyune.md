@@ -1,6 +1,6 @@
 {
   "title": "Светлейший День в июне",
-  "date": "2010-03-19T17:24:00+03:00",
+  "date": "2010-03-19T17:24:53+03:00",
   "url": "/news/svetleyshiy-den-v-iyune/",
   "original_url": "http://spidermedia.ru/news/svetleyshiy-den-v-iyune",
   "archived": "https://web.archive.org/web/20251108042037/http://spidermedia.ru/news/svetleyshiy-den-v-iyune",
@@ -10,6 +10,12 @@
     "solicitations",
     "dc-comics",
     "hishchnye-pticy"
+  ],
+  "cover": "https://web.archive.org/web/20251108042037im_/http://spidermedia.ru/assets/images/import_image/2461.png",
+  "modx_id": 2461,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

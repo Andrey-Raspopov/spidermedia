@@ -1,13 +1,21 @@
 {
   "title": "Режиссер \"Хроники\" перезагрузит \"Фантастическую Четверку\"",
-  "date": "2012-07-12T11:43:00+03:00",
+  "date": "2012-07-12T10:43:45+03:00",
   "url": "/news/rezhisser-hroniki-perezagruzit-fantasticheskuyu-chetverku/",
   "original_url": "http://spidermedia.ru/news/rezhisser-hroniki-perezagruzit-fantasticheskuyu-chetverku",
   "archived": "https://web.archive.org/web/20251006135731/http://spidermedia.ru/news/rezhisser-hroniki-perezagruzit-fantasticheskuyu-chetverku",
   "tags": [
     "fantastic-four",
     "daredevil",
-    "marvel"
+    "marvel",
+    "sorvigolova",
+    "fantasticheskaya-chetverka"
+  ],
+  "cover": "https://web.archive.org/web/20150502191029im_/http://spidermedia.ru/assets/images/import_image/6967.jpg",
+  "modx_id": 6967,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

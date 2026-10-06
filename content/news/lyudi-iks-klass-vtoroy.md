@@ -1,13 +1,20 @@
 {
   "title": "Люди Икс: Класс второй",
-  "date": "2011-11-04T15:22:00+03:00",
+  "date": "2011-11-04T14:22:16+03:00",
   "url": "/news/lyudi-iks-klass-vtoroy/",
   "original_url": "https://spidermedia.ru/news/lyudi-iks-klass-vtoroy",
   "archived": "https://web.archive.org/web/20260125055705/https://spidermedia.ru/news/lyudi-iks-klass-vtoroy",
   "tags": [
     "marvel",
     "lyudi-iks-pervyj-klass",
-    "x-men"
+    "x-men",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20180211072615im_/http://spidermedia.ru/assets/images/import_image/6686.jpg",
+  "modx_id": 6686,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "Замки и ключи",
-  "date": "2009-08-04T03:38:00+03:00",
+  "date": "2009-08-04T02:38:23+03:00",
   "url": "/news/zamki-i-klyuchi/",
+  "aliases": [
+    "/node/1718/"
+  ],
   "original_url": "https://spidermedia.ru/news/zamki-i-klyuchi",
   "archived": "https://web.archive.org/web/20260306001456/https://spidermedia.ru/news/zamki-i-klyuchi",
   "tags": [
@@ -10,6 +13,11 @@
     "idw-publishing",
     "horns",
     "san-diego-comic-con-international"
+  ],
+  "modx_id": 1718,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

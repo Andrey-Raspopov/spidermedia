@@ -10,6 +10,12 @@
     "stiv-liber",
     "superman"
   ],
+  "cover": "https://web.archive.org/web/20260312010332im_/http://spidermedia.ru/assets/images/reviews/dc/superman/jimmy-olsen/001.png",
+  "modx_id": 102319,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

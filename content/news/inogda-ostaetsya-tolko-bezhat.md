@@ -1,7 +1,10 @@
 {
   "title": "Иногда остается только бежать",
-  "date": "2009-04-10T19:16:00+03:00",
+  "date": "2009-04-10T18:16:18+03:00",
   "url": "/news/inogda-ostaetsya-tolko-bezhat/",
+  "aliases": [
+    "/node/904/"
+  ],
   "original_url": "https://spidermedia.ru/news/inogda-ostaetsya-tolko-bezhat",
   "archived": "https://web.archive.org/web/20251006145758/https://spidermedia.ru/news/inogda-ostaetsya-tolko-bezhat",
   "tags": [
@@ -9,6 +12,12 @@
     "human-flame",
     "final-crisis",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20251006145758im_/http://spidermedia.ru/assets/images/import_image/904.jpg",
+  "modx_id": 904,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

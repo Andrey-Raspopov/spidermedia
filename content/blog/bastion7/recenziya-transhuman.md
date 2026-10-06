@@ -1,6 +1,6 @@
 {
   "title": "рецензия - Transhuman",
-  "date": "2009-02-20T22:26:00+03:00",
+  "date": "2009-02-20T21:26:12+03:00",
   "url": "/blog/bastion7/recenziya-transhuman/",
   "original_url": "http://spidermedia.ru/blog/bastion7/recenziya-transhuman",
   "archived": "https://web.archive.org/web/20120718084545/http://spidermedia.ru/blog/bastion7/recenziya-transhuman",
@@ -8,7 +8,14 @@
     "image-comics",
     "jonathan-hickman",
     "komiksy",
-    "recenziya"
+    "recenziya",
+    "dzhonatan-hikman"
+  ],
+  "cover": "https://web.archive.org/web/20120718084545im_/http://spidermedia.ru/assets/images/import_image/467.jpg",
+  "modx_id": 467,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

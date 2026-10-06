@@ -1,13 +1,21 @@
 {
   "title": "Фильм спасен!",
-  "date": "2009-03-09T03:05:00+03:00",
+  "date": "2009-03-09T03:05:32+03:00",
   "url": "/blog/igrok/film-spasen/",
+  "aliases": [
+    "/node/632/"
+  ],
   "original_url": "http://spidermedia.ru/blog/igrok/film-spasen",
   "archived": "https://web.archive.org/web/20251216120835/http://spidermedia.ru/blog/igrok/film-spasen",
   "tags": [
     "figurki",
     "wolverine",
     "hasbro"
+  ],
+  "modx_id": 632,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -7,7 +7,14 @@
   "tags": [
     "marvel",
     "san-diego-comic-con-international",
-    "fantastic-four"
+    "fantastic-four",
+    "sdcc2015"
+  ],
+  "cover": "https://web.archive.org/web/20251110233514im_/http://spidermedia.ru/assets/images/news/sdcc/2015/kino/kinopoisk.ru-fantastic-four-2582722.jpg",
+  "modx_id": 100381,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

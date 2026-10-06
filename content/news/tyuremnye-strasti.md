@@ -1,12 +1,21 @@
 {
   "title": "Тюремные страсти",
-  "date": "2009-11-19T02:34:00+03:00",
+  "date": "2009-11-19T01:34:55+03:00",
   "url": "/news/tyuremnye-strasti/",
+  "aliases": [
+    "/node/2114/"
+  ],
   "original_url": "http://spidermedia.ru/news/tyuremnye-strasti",
   "archived": "https://web.archive.org/web/20120608220543/http://spidermedia.ru/news/tyuremnye-strasti",
   "tags": [
     "nightfall",
     "kino"
+  ],
+  "cover": "https://web.archive.org/web/20120608220543im_/http://spidermedia.ru/assets/images/import_image/2114.jpg",
+  "modx_id": 2114,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

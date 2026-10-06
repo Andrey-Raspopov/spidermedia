@@ -1,7 +1,10 @@
 {
   "title": "Фрэнсис Робинапуль",
-  "date": "2009-03-14T05:45:00+03:00",
+  "date": "2009-03-14T05:45:05+03:00",
   "url": "/news/frensis-robinapul/",
+  "aliases": [
+    "/node/672/"
+  ],
   "original_url": "http://spidermedia.ru/news/frensis-robinapul",
   "archived": "https://web.archive.org/web/20260314080035/http://spidermedia.ru/news/frensis-robinapul",
   "tags": [
@@ -10,6 +13,12 @@
     "krasnyj-robin",
     "red-robin",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20260314080035im_/http://spidermedia.ru/assets/images/import_image/672.jpg",
+  "modx_id": 672,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

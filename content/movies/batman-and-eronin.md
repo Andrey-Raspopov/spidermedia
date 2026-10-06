@@ -7,6 +7,12 @@
   "tags": [
     "batman-and-robin-day"
   ],
+  "cover": "https://web.archive.org/web/20220314031125im_/http://spidermedia.ru/assets/images/birday/eronin2.png",
+  "modx_id": 102007,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

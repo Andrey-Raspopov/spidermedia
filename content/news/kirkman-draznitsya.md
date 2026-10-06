@@ -1,7 +1,10 @@
 {
   "title": "Киркман дразнится",
-  "date": "2009-02-05T22:17:00+03:00",
+  "date": "2009-02-05T21:17:39+03:00",
   "url": "/news/kirkman-draznitsya/",
+  "aliases": [
+    "/node/216/"
+  ],
   "original_url": "http://spidermedia.ru/news/kirkman-draznitsya",
   "archived": "https://web.archive.org/web/20120610085133/http://spidermedia.ru/news/kirkman-draznitsya",
   "tags": [
@@ -9,6 +12,12 @@
     "image-comics",
     "invincible",
     "robert-kirkman"
+  ],
+  "cover": "https://web.archive.org/web/20120610085133im_/http://spidermedia.ru/assets/images/import_image/216.jpg",
+  "modx_id": 216,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

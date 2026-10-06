@@ -1,12 +1,18 @@
 {
   "title": "\"Время на исходе\" - глобальный эксперимент Марвел",
-  "date": "2014-06-11T15:18:00+03:00",
+  "date": "2014-06-11T14:18:27+03:00",
   "url": "/news/time-runs-out-marvel-future-avengers/",
   "original_url": "https://spidermedia.ru/news/time-runs-out-marvel-future-avengers",
   "archived": "https://web.archive.org/web/20240712234420/https://spidermedia.ru/news/time-runs-out-marvel-future-avengers",
   "tags": [
     "avengers",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20240712234420im_/http://spidermedia.ru/assets/images/import_image/7807.jpg",
+  "modx_id": 7807,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

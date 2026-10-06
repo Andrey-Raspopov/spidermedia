@@ -8,6 +8,12 @@
     "manga",
     "right-binding"
   ],
+  "cover": "https://web.archive.org/web/20250116105704im_/http://spidermedia.ru/assets/images/valiant/images/pp-03/000.jpg",
+  "modx_id": 101489,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

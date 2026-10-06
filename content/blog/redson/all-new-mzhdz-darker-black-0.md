@@ -1,11 +1,17 @@
 {
   "title": "ALL-NEW МЖДЗ: DARKER THAN BLACK",
-  "date": "2015-02-03T15:02:00+03:00",
+  "date": "2015-02-03T15:02:15+03:00",
   "url": "/blog/redson/all-new-mzhdz-darker-black-0/",
   "original_url": "http://spidermedia.ru/blog/redson/all-new-mzhdz-darker-black-0",
   "archived": "https://web.archive.org/web/20241106082843/http://spidermedia.ru/blog/redson/all-new-mzhdz-darker-black-0",
   "tags": [
     "mzhdz"
+  ],
+  "cover": "https://web.archive.org/web/20150326163723im_/http://spidermedia.ru/assets/images/import_image/8577.jpg",
+  "modx_id": 8577,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

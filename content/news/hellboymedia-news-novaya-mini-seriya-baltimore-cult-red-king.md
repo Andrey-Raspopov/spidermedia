@@ -1,12 +1,18 @@
 {
   "title": "Hellboymedia: Новая мини-серия Baltimore — The Cult of the Red King",
-  "date": "2014-10-13T15:50:00+03:00",
+  "date": "2014-10-13T14:50:16+03:00",
   "url": "/news/hellboymedia-news-novaya-mini-seriya-baltimore-cult-red-king/",
   "original_url": "http://spidermedia.ru/news/hellboymedia-news-novaya-mini-seriya-baltimore-cult-red-king",
   "archived": "https://web.archive.org/web/20260125114545/http://spidermedia.ru/news/hellboymedia-news-novaya-mini-seriya-baltimore-cult-red-king",
   "tags": [
     "novosti",
     "hellboymedia"
+  ],
+  "cover": "https://web.archive.org/web/20160611204416im_/http://spidermedia.ru/assets/images/hellboymedia/news/baltimore-the-cult-of-the-red-king/baltimore-the-cult-of-the-red-king-annoucement-cover_.jpg",
+  "modx_id": 8177,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

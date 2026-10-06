@@ -8,6 +8,12 @@
     "garth-ennis",
     "dark-horse"
   ],
+  "cover": "https://web.archive.org/web/20250118040530im_/http://spidermedia.ru/assets/images/news/dark-horse/world-of-tanks/worldtanks1.jpg",
+  "modx_id": 101129,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -7,6 +7,12 @@
   "tags": [
     "dc-comics"
   ],
+  "cover": "https://web.archive.org/web/20160501065749im_/http://spidermedia.ru/assets/images/tv/dc/legends-of-tomorrow/0405/snimok-ekrana-2016-02-26-v-17.43.02.png",
+  "modx_id": 100957,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,6 +1,6 @@
 {
   "title": "Кризис с бесконечными кармашками",
-  "date": "2011-03-07T09:22:00+03:00",
+  "date": "2011-03-07T09:22:41+03:00",
   "url": "/news/krizis-s-beskonechnymi-karmashkami/",
   "original_url": "http://spidermedia.ru/news/krizis-s-beskonechnymi-karmashkami",
   "archived": "https://web.archive.org/web/20251206024046/http://spidermedia.ru/news/krizis-s-beskonechnymi-karmashkami",
@@ -8,6 +8,12 @@
     "robert-kirkman",
     "rob-lajfeld",
     "image-comics"
+  ],
+  "cover": "https://web.archive.org/web/20251206024046im_/http://spidermedia.ru/assets/images/import_image/3954.jpg",
+  "modx_id": 3954,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

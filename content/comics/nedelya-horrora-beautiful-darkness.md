@@ -8,6 +8,12 @@
     "bande-dessinée",
     "horror-week"
   ],
+  "cover": "https://web.archive.org/web/20201030222419im_/http://spidermedia.ru/assets/images/valiant/images/horror/horror-beautiful-darkness-post.jpg",
+  "modx_id": 100680,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

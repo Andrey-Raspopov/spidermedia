@@ -13,7 +13,12 @@ rebuilt from Wayback Machine snapshots taken up to 14 March 2026 and converted t
   (`/news/<slug>` → `content/news/<slug>.md`). Front matter records the title, date,
   original URL and the exact Wayback snapshot the text was taken from.
 - Three generations of the site are covered: the early static site (2003–2007, converted
-  from Windows-1251), the Drupal site (2008–2013) and the later custom CMS (2014–2026).
+  from Windows-1251), the Drupal site (2008–2013) and the later MODX site (2014–2026).
+- A second source is the MODX database as of September 2026. It supplied about 1,000 articles
+  the Wayback Machine never captured (front matter `"sources": ["database"]`, no `archived`
+  link), full text where the archived copy was incomplete, exact dates, cover images and
+  podcast audio. Copies of one article archived under several addresses (`/news/…`,
+  `/comics/…`, `/node/…`) were merged; the old addresses redirect.
 - Not included: the phpBB forum, user profiles, login/search pages and auto-generated
   tag listings.
 

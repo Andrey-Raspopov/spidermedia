@@ -7,6 +7,12 @@
   "tags": [
     "gamermedia"
   ],
+  "cover": "https://web.archive.org/web/20251207011652im_/http://spidermedia.ru/assets/images/games/gamermedia/gamermedia-e3-ea-i-bethesda/gamediad1.jpg",
+  "modx_id": 101202,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

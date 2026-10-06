@@ -1,6 +1,6 @@
 {
   "title": "ЭКСКЛЮЗИВ: 14-страничное превью комикса \"Ходячие мертвецы. Том 1\" + предисловие Роберта Киркмана",
-  "date": "2013-11-12T17:35:00+03:00",
+  "date": "2013-11-12T16:35:38+03:00",
   "url": "/news/eksklyuziv-14-stranichnoe-prevyu-komiksa-hodyachie-mertvecy-tom-1-predislovie-roberta-kirkmana/",
   "original_url": "http://spidermedia.ru/news/eksklyuziv-14-stranichnoe-prevyu-komiksa-hodyachie-mertvecy-tom-1-predislovie-roberta-kirkmana",
   "archived": "https://web.archive.org/web/20260306001429/http://spidermedia.ru/news/eksklyuziv-14-stranichnoe-prevyu-komiksa-hodyachie-mertvecy-tom-1-predislovie-roberta-kirkmana",
@@ -11,6 +11,12 @@
     "zarubezhnye-komiksy-na-russkom",
     "the-walking-dead",
     "image-comics"
+  ],
+  "cover": "https://web.archive.org/web/20260306001429im_/http://spidermedia.ru/assets/images/import_image/7541.png",
+  "modx_id": 7541,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

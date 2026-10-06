@@ -1,13 +1,19 @@
 {
   "title": "Обзор спойлеров «Героев» (3-10.02)",
-  "date": "2009-02-06T00:45:00+03:00",
+  "date": "2009-02-06T00:45:41+03:00",
   "url": "/blog/strelok-i/obzor-spoylerov-geroev-3-1002/",
   "original_url": "http://spidermedia.ru/blog/strelok-i/obzor-spoylerov-geroev-3-1002",
   "archived": "https://web.archive.org/web/20230323044039/http://spidermedia.ru/blog/strelok-i/obzor-spoylerov-geroev-3-1002",
   "tags": [
     "serialy",
     "heroes-spoilers",
-    "heroes"
+    "heroes",
+    "tv"
+  ],
+  "modx_id": 220,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

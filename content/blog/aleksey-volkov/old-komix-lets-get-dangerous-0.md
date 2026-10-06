@@ -1,6 +1,6 @@
 {
   "title": "Old Komix: Чёрный Плащ (Let’s Get Dangerous!)",
-  "date": "2015-02-05T11:49:00+03:00",
+  "date": "2015-02-05T11:49:12+03:00",
   "url": "/blog/aleksey-volkov/old-komix-lets-get-dangerous-0/",
   "original_url": "http://spidermedia.ru/blog/aleksey-volkov/old-komix-lets-get-dangerous-0",
   "archived": "https://web.archive.org/web/20260312020844/http://spidermedia.ru/blog/aleksey-volkov/old-komix-lets-get-dangerous-0",
@@ -8,6 +8,12 @@
     "chernyj-plashh",
     "animaciya",
     "disney"
+  ],
+  "cover": "https://web.archive.org/web/20150326190357im_/http://spidermedia.ru/assets/images/import_image/8587.jpg",
+  "modx_id": 8587,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

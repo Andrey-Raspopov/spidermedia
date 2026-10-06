@@ -7,6 +7,12 @@
   "tags": [
     "batman"
   ],
+  "cover": "https://web.archive.org/web/20260117225142im_/http://spidermedia.ru/assets/images/news/dt.common.streams.streamserver.jpeg",
+  "modx_id": 100471,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

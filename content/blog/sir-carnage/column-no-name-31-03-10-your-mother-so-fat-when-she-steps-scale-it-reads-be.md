@@ -1,6 +1,6 @@
 {
   "title": "The Column With No Name: 31/03/10 - Your mother is so fat... when she steps on scale, it reads \"To be continued\"!",
-  "date": "2010-04-04T06:27:00+03:00",
+  "date": "2010-04-04T05:27:00+03:00",
   "url": "/blog/sir-carnage/column-no-name-31-03-10-your-mother-so-fat-when-she-steps-scale-it-reads-be/",
   "original_url": "http://spidermedia.ru/blog/sir-carnage/column-no-name-31-03-10-your-mother-so-fat-when-she-steps-scale-it-reads-be",
   "archived": "https://web.archive.org/web/20250804002436/http://spidermedia.ru/blog/sir-carnage/column-no-name-31-03-10-your-mother-so-fat-when-she-steps-scale-it-reads-be",
@@ -9,6 +9,12 @@
     "marvel",
     "dc-comics",
     "blackest-night"
+  ],
+  "cover": "https://web.archive.org/web/20250804002436im_/http://spidermedia.ru/assets/images/import_image/2506.jpg",
+  "modx_id": 2506,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

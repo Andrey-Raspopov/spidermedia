@@ -1,7 +1,10 @@
 {
   "title": "Кошмары только начинаются",
-  "date": "2009-07-21T21:47:00+03:00",
+  "date": "2009-07-21T20:47:47+03:00",
   "url": "/news/koshmary-tolko-nachinayutsya/",
+  "aliases": [
+    "/node/1617/"
+  ],
   "original_url": "http://spidermedia.ru/news/koshmary-tolko-nachinayutsya",
   "archived": "https://web.archive.org/web/20120608045437/http://spidermedia.ru/news/koshmary-tolko-nachinayutsya",
   "tags": [
@@ -10,7 +13,15 @@
     "karatel",
     "komiksy",
     "mark-tekseyra",
-    "skott-dzhimpel"
+    "skott-dzhimpel",
+    "mark-teksejra",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20120608045437im_/http://spidermedia.ru/assets/images/import_image/1617.jpg",
+  "modx_id": 1617,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

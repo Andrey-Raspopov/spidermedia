@@ -1,9 +1,15 @@
 {
   "title": "Задавайте вопросы для подкаста!",
-  "date": "2013-12-26T10:46:00+03:00",
+  "date": "2013-12-26T09:46:02+03:00",
   "url": "/news/zadavayte-voprosy-dlya-podkasta/",
   "original_url": "http://spidermedia.ru/news/zadavayte-voprosy-dlya-podkasta",
   "archived": "https://web.archive.org/web/20220808164925/http://spidermedia.ru/news/zadavayte-voprosy-dlya-podkasta",
+  "cover": "https://web.archive.org/web/20150315210336im_/http://spidermedia.ru/assets/images/import_image/7581.jpg",
+  "modx_id": 7581,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,11 +1,17 @@
 {
   "title": "Режиссер \"МакГрубера\" экранизирует комикс \"The Great Unknown\"",
-  "date": "2012-04-04T12:41:00+03:00",
+  "date": "2012-04-04T11:41:47+03:00",
   "url": "/news/rezhisser-makgrubera-ekraniziruet-komiks-great-unknown/",
   "original_url": "http://spidermedia.ru/news/rezhisser-makgrubera-ekraniziruet-komiks-great-unknown",
   "archived": "https://web.archive.org/web/20250210064335/http://spidermedia.ru/news/rezhisser-makgrubera-ekraniziruet-komiks-great-unknown",
   "tags": [
     "image-comics"
+  ],
+  "cover": "https://web.archive.org/web/20250210064335im_/http://spidermedia.ru/assets/images/import_image/6856.jpg",
+  "modx_id": 6856,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

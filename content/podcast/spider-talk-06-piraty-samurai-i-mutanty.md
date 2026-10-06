@@ -7,6 +7,13 @@
   "tags": [
     "spider-talk"
   ],
+  "cover": "https://web.archive.org/web/20260115053617im_/http://spidermedia.ru/assets/images/podcast/spt/6/oblozhka-mediya.jpg",
+  "podcast_audio": "https://spidermedia.podster.fm/111/download/audio.mp3",
+  "modx_id": 102253,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

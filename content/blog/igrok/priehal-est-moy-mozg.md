@@ -1,13 +1,22 @@
 {
   "title": "Он приехал есть мой мозг!",
-  "date": "2009-02-18T21:45:00+03:00",
+  "date": "2009-02-18T21:45:20+03:00",
   "url": "/blog/igrok/priehal-est-moy-mozg/",
+  "aliases": [
+    "/node/430/"
+  ],
   "original_url": "https://spidermedia.ru/blog/igrok/priehal-est-moy-mozg",
   "archived": "https://web.archive.org/web/20230922082411/https://spidermedia.ru/blog/igrok/priehal-est-moy-mozg",
   "tags": [
     "figurki",
     "heroes",
-    "serialy"
+    "serialy",
+    "tv"
+  ],
+  "modx_id": 430,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

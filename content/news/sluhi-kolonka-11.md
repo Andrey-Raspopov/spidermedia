@@ -1,7 +1,10 @@
 {
   "title": "Слухи, колонка 11",
-  "date": "2009-11-13T23:07:00+03:00",
+  "date": "2009-11-13T23:07:08+03:00",
   "url": "/news/sluhi-kolonka-11/",
+  "aliases": [
+    "/node/2093/"
+  ],
   "original_url": "http://spidermedia.ru/news/sluhi-kolonka-11",
   "archived": "https://web.archive.org/web/20251115175854/http://spidermedia.ru/news/sluhi-kolonka-11",
   "tags": [
@@ -21,7 +24,15 @@
     "thunderbolts",
     "siege",
     "nextwave",
-    "marvel"
+    "marvel",
+    "dark-avengers",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20251115175854im_/http://spidermedia.ru/assets/images/import_image/2093.jpg",
+  "modx_id": 2093,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
@@ -42,7 +53,7 @@
 
 [![](https://web.archive.org/web/20251115175854im_/http://i691.photobucket.com/albums/vv276/Silvernoir/th_FEVERpromo.jpg)](http://i691.photobucket.com/albums/vv276/Silvernoir/FEVERpromo.jpg?t=1258136102)
 
-- **Эминем** *(Eminem)*, после [**Eminem / Punisher: Kill You**](../../node/1095/), не собирается покидать страницы комиксов. В будущем может появиться лимитка для **Marvel Icon** из четырех номеров **Shady Talez**, она будет основываться на фильме с таким же названием, в котором и снимается Эминем. **Даллас Джексон** *(Dallas Jackson)* и **Кевин Гревье** *(Kevin Grevioux)* возьмут на себя пост сценаристов.
+- **Эминем** *(Eminem)*, после [**Eminem / Punisher: Kill You**](../mest-pod-zvuki-repa/), не собирается покидать страницы комиксов. В будущем может появиться лимитка для **Marvel Icon** из четырех номеров **Shady Talez**, она будет основываться на фильме с таким же названием, в котором и снимается Эминем. **Даллас Джексон** *(Dallas Jackson)* и **Кевин Гревье** *(Kevin Grevioux)* возьмут на себя пост сценаристов.
 
 [![](https://web.archive.org/web/20251115175854im_/http://i691.photobucket.com/albums/vv276/Silvernoir/th_0203877001215441890image_big.jpg)](http://i691.photobucket.com/albums/vv276/Silvernoir/0203877001215441890image_big.jpg?t=1258141292) [![](https://web.archive.org/web/20251115175854im_/http://i691.photobucket.com/albums/vv276/Silvernoir/th_0478322001215441975image_big.jpg)](http://i691.photobucket.com/albums/vv276/Silvernoir/0478322001215441975image_big.jpg?t=1258141235)
 

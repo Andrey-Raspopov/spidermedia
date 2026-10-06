@@ -17,7 +17,14 @@
     "black-panther",
     "marvel",
     "spider-man",
-    "civil-war"
+    "civil-war",
+    "zheleznyy-chelovek"
+  ],
+  "cover": "https://web.archive.org/web/20160611145611im_/http://spidermedia.ru/assets/images/movies/marvel/captain-america-3-civil-war-2016/civil-war-trailer.jpg",
+  "modx_id": 100983,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "Hulk, ноябрь и декабрь 2009",
-  "date": "2009-09-18T23:02:00+03:00",
+  "date": "2009-09-18T22:02:04+03:00",
   "url": "/news/hulk-noyabr-i-dekabr-2009/",
+  "aliases": [
+    "/node/1910/"
+  ],
   "original_url": "http://spidermedia.ru/news/hulk-noyabr-i-dekabr-2009",
   "archived": "https://web.archive.org/web/20170424074004/http://spidermedia.ru:80/news/hulk-noyabr-i-dekabr-2009",
   "tags": [
@@ -10,7 +13,13 @@
     "bryus-benner",
     "son-of-hulk",
     "marvel",
-    "halk"
+    "halk",
+    "hulk"
+  ],
+  "modx_id": 1910,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

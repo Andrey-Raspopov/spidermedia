@@ -1,12 +1,21 @@
 {
   "title": "Слухи: Гай Гарднер",
-  "date": "2010-03-28T13:39:00+03:00",
+  "date": "2010-03-28T12:39:48+03:00",
   "url": "/news/sluhi-gay-gardner/",
+  "aliases": [
+    "/node/2487/"
+  ],
   "original_url": "http://spidermedia.ru/news/sluhi-gay-gardner",
   "archived": "https://web.archive.org/web/20260125053008/http://spidermedia.ru/news/sluhi-gay-gardner",
   "tags": [
     "sluhi",
     "green-lantern"
+  ],
+  "cover": "https://web.archive.org/web/20260125053008im_/http://spidermedia.ru/assets/images/import_image/2487.jpg",
+  "modx_id": 2487,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

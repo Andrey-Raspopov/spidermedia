@@ -4,6 +4,9 @@
   "url": "/heroclix/characters/dc/ch_unleashed/big_barda/",
   "original_url": "http://www.spidermedia.ru/heroclix/characters/dc/ch_unleashed/big_barda.html",
   "archived": "https://web.archive.org/web/20050312030355/http://www.spidermedia.ru:80/heroclix/characters/dc/ch_unleashed/big_barda.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

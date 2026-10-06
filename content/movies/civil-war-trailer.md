@@ -7,6 +7,12 @@
   "tags": [
     "marvel"
   ],
+  "cover": "https://web.archive.org/web/20160611145935im_/http://spidermedia.ru/assets/images/youtube/43NWzay3W4s.jpg",
+  "modx_id": 100724,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

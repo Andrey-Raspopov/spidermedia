@@ -1,7 +1,10 @@
 {
   "title": "The Column With No Name vol.2: 6/01/10 - The real one's got a lot more tentacles.",
-  "date": "2010-01-10T04:45:00+03:00",
+  "date": "2010-01-10T04:45:44+03:00",
   "url": "/blog/sir-carnage/column-no-name-vol2-6-01-10-real-ones-got-lot-more-tentacles/",
+  "aliases": [
+    "/node/2239/"
+  ],
   "original_url": "http://spidermedia.ru/blog/sir-carnage/column-no-name-vol2-6-01-10-real-ones-got-lot-more-tentacles",
   "archived": "https://web.archive.org/web/20250618120349/http://spidermedia.ru/blog/sir-carnage/column-no-name-vol2-6-01-10-real-ones-got-lot-more-tentacles",
   "tags": [
@@ -12,6 +15,12 @@
     "dark-horse",
     "blackest-night",
     "the-column-with-no-name"
+  ],
+  "cover": "https://web.archive.org/web/20250618120349im_/http://spidermedia.ru/assets/images/import_image/2239.jpg",
+  "modx_id": 2239,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

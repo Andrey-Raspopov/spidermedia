@@ -1,14 +1,24 @@
 {
   "title": "Иллюстратор Джеймс Джин",
-  "date": "2009-04-01T12:14:00+03:00",
+  "date": "2009-04-01T11:14:45+03:00",
   "url": "/blog/sterpazook/illyustrator-dzheyms-dzhin/",
+  "aliases": [
+    "/node/825/"
+  ],
   "original_url": "https://spidermedia.ru/blog/sterpazook/illyustrator-dzheyms-dzhin",
   "archived": "https://web.archive.org/web/20240805040457/https://spidermedia.ru/blog/sterpazook/illyustrator-dzheyms-dzhin",
   "tags": [
     "art-0",
     "fables",
     "james-jean",
-    "dzhejms-dzhin"
+    "dzhejms-dzhin",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20240805040457im_/http://spidermedia.ru/assets/images/import_image/825.jpg",
+  "modx_id": 825,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

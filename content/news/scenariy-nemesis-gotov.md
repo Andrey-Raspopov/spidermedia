@@ -1,6 +1,6 @@
 {
   "title": "Сценарий \"NEMESIS\" готов",
-  "date": "2013-09-13T16:10:00+03:00",
+  "date": "2013-09-13T15:10:43+03:00",
   "url": "/news/scenariy-nemesis-gotov/",
   "original_url": "http://spidermedia.ru/news/scenariy-nemesis-gotov",
   "archived": "https://web.archive.org/web/20251108193410/http://spidermedia.ru/news/scenariy-nemesis-gotov",
@@ -8,6 +8,12 @@
     "mark-millar",
     "nemesis",
     "icon-comics"
+  ],
+  "cover": "https://web.archive.org/web/20251108193410im_/http://spidermedia.ru/assets/images/import_image/7468.jpg",
+  "modx_id": 7468,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

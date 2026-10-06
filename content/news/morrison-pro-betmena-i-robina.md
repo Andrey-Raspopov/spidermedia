@@ -1,7 +1,10 @@
 {
   "title": "Моррисон про Бэтмена и Робина",
-  "date": "2009-05-23T14:27:00+03:00",
+  "date": "2009-05-23T13:27:37+03:00",
   "url": "/news/morrison-pro-betmena-i-robina/",
+  "aliases": [
+    "/node/1264/"
+  ],
   "original_url": "http://spidermedia.ru/news/morrison-pro-betmena-i-robina",
   "archived": "https://web.archive.org/web/20251216105717/http://spidermedia.ru/news/morrison-pro-betmena-i-robina",
   "tags": [
@@ -17,6 +20,12 @@
     "detective-comics",
     "dc-comics",
     "batman"
+  ],
+  "cover": "https://web.archive.org/web/20251216105717im_/http://spidermedia.ru/assets/images/import_image/1264.png",
+  "modx_id": 1264,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

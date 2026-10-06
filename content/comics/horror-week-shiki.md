@@ -8,6 +8,12 @@
     "manga",
     "horror-week"
   ],
+  "cover": "https://web.archive.org/web/20250909141730im_/http://spidermedia.ru/assets/images/articles/horror-week/shiki/49-50.png",
+  "modx_id": 100695,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

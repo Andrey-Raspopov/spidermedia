@@ -1,6 +1,6 @@
 {
   "title": "Легенды",
-  "date": "2009-02-03T20:23:00+03:00",
+  "date": "2009-02-03T19:23:18+03:00",
   "url": "/blog/silver/legendy/",
   "original_url": "http://spidermedia.ru/blog/silver/legendy",
   "archived": "https://web.archive.org/web/20120607115643/http://spidermedia.ru/blog/silver/legendy",
@@ -8,6 +8,11 @@
     "kartinki",
     "shok11",
     "el-rio"
+  ],
+  "modx_id": 157,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

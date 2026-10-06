@@ -8,6 +8,12 @@
     "marvel",
     "black-panther"
   ],
+  "cover": "https://web.archive.org/web/20251013191334im_/http://spidermedia.ru/assets/images/news/black-panther-and-the-crew/pant1.jpg",
+  "modx_id": 101481,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

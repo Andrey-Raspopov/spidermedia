@@ -1,7 +1,10 @@
 {
   "title": "\"Железный Человек: Бронированные Приключения\" - Всё, что нужно знать о новом мультсериале про юного Тони Старка!",
-  "date": "2009-02-28T00:19:00+03:00",
+  "date": "2009-02-28T00:19:18+03:00",
   "url": "/news/zheleznyy-chelovek-bronirovannye-priklyucheniya-vsyo-chto-nuzhno-znat-o-novom-multseriale-pro/",
+  "aliases": [
+    "/node/536/"
+  ],
   "original_url": "http://spidermedia.ru/news/zheleznyy-chelovek-bronirovannye-priklyucheniya-vsyo-chto-nuzhno-znat-o-novom-multseriale-pro",
   "archived": "https://web.archive.org/web/20250715013209/http://spidermedia.ru/news/zheleznyy-chelovek-bronirovannye-priklyucheniya-vsyo-chto-nuzhno-znat-o-novom-multseriale-pro",
   "tags": [
@@ -9,7 +12,13 @@
     "iron-man",
     "animaciya",
     "war-machine",
-    "mandarin"
+    "mandarin",
+    "zheleznyy-chelovek"
+  ],
+  "modx_id": 536,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

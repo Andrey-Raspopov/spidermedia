@@ -1,6 +1,6 @@
 {
   "title": "Превью PunisherMAX #12",
-  "date": "2011-03-23T23:48:00+03:00",
+  "date": "2011-03-23T23:48:49+03:00",
   "url": "/news/prevyu-punishermax-12/",
   "original_url": "http://spidermedia.ru/news/prevyu-punishermax-12",
   "archived": "https://web.archive.org/web/20251211022641/http://spidermedia.ru/news/prevyu-punishermax-12",
@@ -11,7 +11,15 @@
     "preview",
     "dzheyson-aaron",
     "steve-dillon",
-    "dejv-dzhonson"
+    "dejv-dzhonson",
+    "art",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20251211022641im_/http://spidermedia.ru/assets/images/import_image/4394.jpg",
+  "modx_id": 4394,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

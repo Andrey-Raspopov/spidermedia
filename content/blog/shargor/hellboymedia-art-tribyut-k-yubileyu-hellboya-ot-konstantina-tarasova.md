@@ -1,6 +1,6 @@
 {
   "title": "Hellboymedia: Арт-трибьют к юбилею Хэллбоя от Константина Тарасова",
-  "date": "2014-12-26T15:06:00+03:00",
+  "date": "2014-12-26T15:06:04+03:00",
   "url": "/blog/shargor/hellboymedia-art-tribyut-k-yubileyu-hellboya-ot-konstantina-tarasova/",
   "original_url": "http://spidermedia.ru/blog/shargor/hellboymedia-art-tribyut-k-yubileyu-hellboya-ot-konstantina-tarasova",
   "archived": "https://web.archive.org/web/20260312010637/http://spidermedia.ru/blog/shargor/hellboymedia-art-tribyut-k-yubileyu-hellboya-ot-konstantina-tarasova",
@@ -8,6 +8,12 @@
     "art-tribyut",
     "hellboymedia",
     "20-let-hellboya"
+  ],
+  "cover": "https://web.archive.org/web/20160611202916im_/http://spidermedia.ru/assets/images/hellboymedia/project-01-anniversary/art-tributes-bubble/konstantin-tarasov-cover.jpg",
+  "modx_id": 8431,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

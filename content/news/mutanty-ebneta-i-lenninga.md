@@ -1,6 +1,6 @@
 {
   "title": "Мутанты Эбнета и Лэннинга",
-  "date": "2011-02-28T23:35:00+03:00",
+  "date": "2011-02-28T23:35:35+03:00",
   "url": "/news/mutanty-ebneta-i-lenninga/",
   "original_url": "https://spidermedia.ru/news/mutanty-ebneta-i-lenninga",
   "archived": "https://web.archive.org/web/20251207010741/https://spidermedia.ru/news/mutanty-ebneta-i-lenninga",
@@ -11,6 +11,12 @@
     "marvel",
     "x-men",
     "new-mutants"
+  ],
+  "cover": "https://web.archive.org/web/20251207010741im_/http://spidermedia.ru/assets/images/import_image/3790.jpg",
+  "modx_id": 3790,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

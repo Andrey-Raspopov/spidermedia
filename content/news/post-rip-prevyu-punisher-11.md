@@ -1,7 +1,10 @@
 {
   "title": "Пост-RIP Превью Punisher #11",
-  "date": "2009-11-05T18:26:00+03:00",
+  "date": "2009-11-05T18:26:02+03:00",
   "url": "/news/post-rip-prevyu-punisher-11/",
+  "aliases": [
+    "/node/2063/"
+  ],
   "original_url": "http://spidermedia.ru/news/post-rip-prevyu-punisher-11",
   "archived": "https://web.archive.org/web/20251211035646/http://spidermedia.ru/news/post-rip-prevyu-punisher-11",
   "tags": [
@@ -9,7 +12,14 @@
     "rik-remender",
     "punisher",
     "dejv-vilkins",
-    "art-0"
+    "art-0",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20251211035646im_/http://spidermedia.ru/assets/images/import_image/2063.jpg",
+  "modx_id": 2063,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
@@ -17,6 +27,6 @@
 
 [![](https://web.archive.org/web/20251211035646im_/http://i691.photobucket.com/albums/vv276/Silvernoir/th_TheList-Punisher026-1.jpg)](http://i691.photobucket.com/albums/vv276/Silvernoir/TheList-Punisher026-1.jpg?t=1257271356)
 Обложка **Punisher #11** от **Дэйва Вилкинса** *(Dave Wilkins)*
-На протяжении месяцев мы следили за акцией [**Punisher: RIP**](../../node/1619/), видели [новый образ](../../node/1834/) **Карателя** *(Punisher)* и лично убедились в [серьезности намерений](../../node/1916/) авторов. И аккурат после выхода животрепещущего **Dark Reign: The List - Punisher** от сценариста **Рика Ремендера** *(Rick Remender)* и **Джона Ромиты Мл.** *(John Romita, Jr.)*, появляется возможность приоткрыть дверцу в тайны продолжения чуть раньше, чем стартует **Punisher #11**. Итак, вот оно, превью будущего номера, в котором намечается становление уже совсем другого Карателя, да и еще при участии художника **Тони Мура** *(Tony Moore)*:
+На протяжении месяцев мы следили за акцией [**Punisher: RIP**](../punisher-rip-obnovlenie/), видели [новый образ](../do-chego-progress-doshel/) **Карателя** *(Punisher)* и лично убедились в [серьезности намерений](../legion-karatelya/) авторов. И аккурат после выхода животрепещущего **Dark Reign: The List - Punisher** от сценариста **Рика Ремендера** *(Rick Remender)* и **Джона Ромиты Мл.** *(John Romita, Jr.)*, появляется возможность приоткрыть дверцу в тайны продолжения чуть раньше, чем стартует **Punisher #11**. Итак, вот оно, превью будущего номера, в котором намечается становление уже совсем другого Карателя, да и еще при участии художника **Тони Мура** *(Tony Moore)*:
 [![](https://web.archive.org/web/20251211035646im_/http://i691.photobucket.com/albums/vv276/Silvernoir/th_TheList-Punisher027-1.jpg)](http://i691.photobucket.com/albums/vv276/Silvernoir/TheList-Punisher027-1.jpg?t=1257431950) [![](https://web.archive.org/web/20251211035646im_/http://i691.photobucket.com/albums/vv276/Silvernoir/th_TheList-Punisher028.jpg)](http://i691.photobucket.com/albums/vv276/Silvernoir/TheList-Punisher028.jpg?t=1257271998) [![](https://web.archive.org/web/20251211035646im_/http://i691.photobucket.com/albums/vv276/Silvernoir/th_TheList-Punisher029.jpg)](http://i691.photobucket.com/albums/vv276/Silvernoir/TheList-Punisher029.jpg?t=1257272448) [![](https://web.archive.org/web/20251211035646im_/http://i691.photobucket.com/albums/vv276/Silvernoir/th_TheList-Punisher030.jpg)](http://i691.photobucket.com/albums/vv276/Silvernoir/TheList-Punisher030.jpg?t=1257272353) [![](https://web.archive.org/web/20251211035646im_/http://i691.photobucket.com/albums/vv276/Silvernoir/th_TheList-Punisher031.jpg)](http://i691.photobucket.com/albums/vv276/Silvernoir/TheList-Punisher031.jpg?t=1257431984) [![](https://web.archive.org/web/20251211035646im_/http://i691.photobucket.com/albums/vv276/Silvernoir/th_TheList-Punisher032.jpg)](http://i691.photobucket.com/albums/vv276/Silvernoir/TheList-Punisher032.jpg?t=1257432015) [![](https://web.archive.org/web/20251211035646im_/http://i691.photobucket.com/albums/vv276/Silvernoir/th_TheList-Punisher033.jpg)](http://i691.photobucket.com/albums/vv276/Silvernoir/TheList-Punisher033.jpg?t=1257432039) [![](https://web.archive.org/web/20251211035646im_/http://i691.photobucket.com/albums/vv276/Silvernoir/th_TheList-Punisher034.jpg)](http://i691.photobucket.com/albums/vv276/Silvernoir/TheList-Punisher034.jpg?t=1257432185) [![](https://web.archive.org/web/20251211035646im_/http://i691.photobucket.com/albums/vv276/Silvernoir/th_TheList-Punisher035.jpg)](http://i691.photobucket.com/albums/vv276/Silvernoir/TheList-Punisher035.jpg?t=1257432628) [![](https://web.archive.org/web/20251211035646im_/http://i691.photobucket.com/albums/vv276/Silvernoir/th_TheList-Punisher036.jpg)](http://i691.photobucket.com/albums/vv276/Silvernoir/TheList-Punisher036.jpg?t=1257432770)
 На прилавках - **18 ноября**.

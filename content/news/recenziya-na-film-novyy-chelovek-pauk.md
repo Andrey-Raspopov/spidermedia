@@ -1,6 +1,6 @@
 {
   "title": "Рецензия на фильм \"Новый Человек-Паук\"",
-  "date": "2012-07-01T13:28:00+03:00",
+  "date": "2012-07-01T12:28:11+03:00",
   "url": "/news/recenziya-na-film-novyy-chelovek-pauk/",
   "original_url": "https://spidermedia.ru/news/recenziya-na-film-novyy-chelovek-pauk",
   "archived": "https://web.archive.org/web/20260309003427/https://spidermedia.ru/news/recenziya-na-film-novyy-chelovek-pauk",
@@ -8,6 +8,12 @@
     "recenziya",
     "mnenie",
     "spider-man"
+  ],
+  "cover": "https://web.archive.org/web/20260309003427im_/http://spidermedia.ru/assets/images/import_image/6951.jpg",
+  "modx_id": 6951,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

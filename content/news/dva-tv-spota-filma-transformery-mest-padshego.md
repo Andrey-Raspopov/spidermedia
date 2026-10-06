@@ -1,6 +1,6 @@
 {
   "title": "Два тв-спота фильма \"Трансформеры: Месть Падшего\"",
-  "date": "2009-05-19T16:42:00+03:00",
+  "date": "2009-05-19T15:42:07+03:00",
   "url": "/news/dva-tv-spota-filma-transformery-mest-padshego/",
   "original_url": "https://spidermedia.ru/news/dva-tv-spota-filma-transformery-mest-padshego",
   "archived": "https://web.archive.org/web/20240911132444/https://spidermedia.ru/news/dva-tv-spota-filma-transformery-mest-padshego",
@@ -8,6 +8,11 @@
     "majkl-bej",
     "trejlery",
     "transformers"
+  ],
+  "modx_id": 1240,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

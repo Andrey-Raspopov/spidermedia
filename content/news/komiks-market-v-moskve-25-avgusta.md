@@ -1,11 +1,17 @@
 {
   "title": "Комикс-Маркет в Москве - 25 августа!",
-  "date": "2012-08-23T12:57:00+03:00",
+  "date": "2012-08-23T11:57:48+03:00",
   "url": "/news/komiks-market-v-moskve-25-avgusta/",
   "original_url": "http://spidermedia.ru/news/komiks-market-v-moskve-25-avgusta",
   "archived": "https://web.archive.org/web/20130110091818/http://spidermedia.ru:80/news/komiks-market-v-moskve-25-avgusta",
   "tags": [
     "magazin"
+  ],
+  "cover": "https://web.archive.org/web/20130110091818im_/http://spidermedia.ru/assets/images/import_image/7006.jpg",
+  "modx_id": 7006,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

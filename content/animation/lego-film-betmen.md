@@ -4,6 +4,12 @@
   "url": "/animation/lego-film-betmen/",
   "original_url": "http://spidermedia.ru/animation/lego-film-betmen",
   "archived": "https://web.archive.org/web/20250807003818/http://spidermedia.ru/animation/lego-film-betmen",
+  "cover": "https://web.archive.org/web/20250807003818im_/http://spidermedia.ru/assets/images/animation/dc-comics/lego-film-betmen/bet1.png",
+  "modx_id": 101494,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

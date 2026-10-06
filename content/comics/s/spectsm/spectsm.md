@@ -4,6 +4,9 @@
   "url": "/comics/s/spectsm/spectsm/",
   "original_url": "http://www.spidermedia.ru/comics/s/spectsm/spectsm.html",
   "archived": "https://web.archive.org/web/20050307050557/http://www.spidermedia.ru:80/comics/s/spectsm/spectsm.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

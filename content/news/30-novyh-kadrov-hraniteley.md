@@ -1,11 +1,20 @@
 {
   "title": "30 новых кадров \"Хранителей\"!",
-  "date": "2009-02-13T23:18:00+03:00",
+  "date": "2009-02-13T23:18:10+03:00",
   "url": "/news/30-novyh-kadrov-hraniteley/",
+  "aliases": [
+    "/node/353/"
+  ],
   "original_url": "http://spidermedia.ru/news/30-novyh-kadrov-hraniteley",
   "archived": "https://web.archive.org/web/20191205180220/http://spidermedia.ru/news/30-novyh-kadrov-hraniteley",
   "tags": [
     "hraniteli"
+  ],
+  "cover": "https://web.archive.org/web/20150503073702im_/http://spidermedia.ru/assets/images/import_image/353.jpg",
+  "modx_id": 353,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

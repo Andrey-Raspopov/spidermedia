@@ -8,6 +8,12 @@
     "art-tribyut",
     "spidermedia-15th-anniversary"
   ],
+  "cover": "https://web.archive.org/web/20250715232251im_/http://spidermedia.ru/assets/images/spidermedia-anniversary/01-art-tribute/spidermediaanniversary.jpg",
+  "modx_id": 101443,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

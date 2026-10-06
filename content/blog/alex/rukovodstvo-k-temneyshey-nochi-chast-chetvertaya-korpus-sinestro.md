@@ -1,7 +1,10 @@
 {
   "title": "Руководство к \"Темнейшей Ночи\" - Часть четвертая - Корпус Синестро",
-  "date": "2009-06-25T15:19:00+03:00",
+  "date": "2009-06-25T14:19:15+03:00",
   "url": "/blog/alex/rukovodstvo-k-temneyshey-nochi-chast-chetvertaya-korpus-sinestro/",
+  "aliases": [
+    "/node/1477/"
+  ],
   "original_url": "http://spidermedia.ru/blog/alex/rukovodstvo-k-temneyshey-nochi-chast-chetvertaya-korpus-sinestro",
   "archived": "https://web.archive.org/web/20251115190530/http://spidermedia.ru/blog/alex/rukovodstvo-k-temneyshey-nochi-chast-chetvertaya-korpus-sinestro",
   "tags": [
@@ -11,6 +14,12 @@
     "dc-comics",
     "blackest-night"
   ],
+  "cover": "https://web.archive.org/web/20251115190530im_/http://spidermedia.ru/assets/images/import_image/1477.png",
+  "modx_id": 1477,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
@@ -18,13 +27,13 @@
 Итак, Темнейшая ночь все ближе, а я, наконец, начинаю вторую часть руководства, посвященную остальным Корпусам. Первым в этом списке, разумеется, идет Корпус Синестро. В виду того, что собственно Корпуса и большая часть персонажей появилась уже во время или после Войны Синестро, то соответственно спойлеров не избежать (все-таки в части ЗФ я как-то пытался сглашивать подобные ситуации). Поэтому предупреждение остается в силе. Мы начинаем!
 ![Blackest Night](https://web.archive.org/web/20251115190530im_/http://img.photobucket.com/albums/v497/spidermedia/alex_nexs/BN.png)Предыдущие части:
 
-- [Часть первая - Корпус Зеленых Фонарей](../../../node/316/)
-- [Часть вторая - Supporting cast](../../../node/428/)
-- [Часть третья - Корпус Зеленых Фонарей (дополнение)](../../../node/1465/)
+- [Часть первая - Корпус Зеленых Фонарей](../rukovodstvo-k-temneyshey-nochi-chast-pervaya-korpus-zelenyh-fonarey/)
+- [Часть вторая - Supporting cast](../rukovodstvo-k-temneyshey-nochi-chast-vtoraya-supporting-cast/)
+- [Часть третья - Корпус Зеленых Фонарей (дополнение)](../rukovodstvo-k-temneyshey-nochi-chast-tretya-korpus-zelenyh-fonarey-dopolnenie/)
 - **Часть четвертая - Корпус Синестро**
-- [Часть пятая - Корпус Синестро (продолжение)](../../../node/1490/)
-- [Часть шестая - Звездные Сапфиры и Красные Фонари](../../../node/1499/)
-- [Часть седьмая - Голубые Фонари, Агент Орандж, Племя Индиго и Черные Фонари](../../../node/1507/)
+- [Часть пятая - Корпус Синестро (продолжение)](../rukovodstvo-k-temneyshey-nochi-chast-pyataya-korpus-sinestro-prodolzhenie/)
+- [Часть шестая - Звездные Сапфиры и Красные Фонари](../rukovodstvo-k-temneyshey-nochi-chast-shestaya-zvezdnye-sapfiry-i-krasnye-fonari/)
+- [Часть седьмая - Голубые Фонари, Агент Орандж, Племя Индиго и Черные Фонари](../rukovodstvo-k-temneyshey-nochi-chast-sedmaya-golubye-fonari-agent-orandzh-plemya-indigo-i/)
 
 **Вселенная Антиматерии**
 

@@ -1,6 +1,6 @@
 {
   "title": "СЛУХ: Даниэль Брюль сыграет Барона Земо",
-  "date": "2015-01-26T14:25:00+03:00",
+  "date": "2015-01-26T14:25:23+03:00",
   "url": "/news/sluh-daniel-bryul-sygraet-barona-zemo/",
   "original_url": "http://spidermedia.ru/news/sluh-daniel-bryul-sygraet-barona-zemo",
   "archived": "https://web.archive.org/web/20260313105520/http://spidermedia.ru/news/sluh-daniel-bryul-sygraet-barona-zemo",
@@ -8,6 +8,12 @@
     "avengers",
     "captain-america",
     "civil-war"
+  ],
+  "cover": "https://web.archive.org/web/20150326160433im_/http://spidermedia.ru/assets/images/import_image/8544.jpg",
+  "modx_id": 8544,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Новый трейлер фильма \"Росомаха: Бессмертный\"",
-  "date": "2013-05-22T13:00:00+03:00",
+  "date": "2013-05-22T12:00:32+03:00",
   "url": "/news/novyy-treyler-filma-rosomaha-bessmertnyy/",
   "original_url": "http://spidermedia.ru/news/novyy-treyler-filma-rosomaha-bessmertnyy",
   "archived": "https://web.archive.org/web/20251006145707/http://spidermedia.ru/news/novyy-treyler-filma-rosomaha-bessmertnyy",
@@ -8,7 +8,14 @@
     "trejlery",
     "wolverine",
     "marvel",
-    "x-men"
+    "x-men",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20251006145707im_/http://spidermedia.ru/assets/images/import_image/7248.jpg",
+  "modx_id": 7248,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

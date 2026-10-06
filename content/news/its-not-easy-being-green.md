@@ -14,6 +14,9 @@
     "zelyonaya-strela",
     "dc-comics"
   ],
+  "sources": [
+    "archive"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

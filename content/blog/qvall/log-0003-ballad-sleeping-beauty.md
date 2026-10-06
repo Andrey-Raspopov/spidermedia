@@ -1,11 +1,19 @@
 {
   "title": "Log #0003 -  Ballad of Sleeping Beauty",
-  "date": "2009-02-02T17:01:00+03:00",
+  "date": "2009-02-02T17:01:21+03:00",
   "url": "/blog/qvall/log-0003-ballad-sleeping-beauty/",
+  "aliases": [
+    "/node/105/"
+  ],
   "original_url": "http://spidermedia.ru/blog/qvall/log-0003-ballad-sleeping-beauty",
   "archived": "https://web.archive.org/web/20150430210903/http://spidermedia.ru/blog/qvall/log-0003-ballad-sleeping-beauty",
   "tags": [
     "skachat"
+  ],
+  "modx_id": 105,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

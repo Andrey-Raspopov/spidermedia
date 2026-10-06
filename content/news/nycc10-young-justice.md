@@ -1,7 +1,10 @@
 {
   "title": "NYCC'10: Young Justice",
-  "date": "2010-10-16T08:53:00+03:00",
+  "date": "2010-10-16T07:53:40+03:00",
   "url": "/news/nycc10-young-justice/",
+  "aliases": [
+    "/node/3012/"
+  ],
   "original_url": "http://spidermedia.ru/news/nycc10-young-justice",
   "archived": "https://web.archive.org/web/20251110220623/http://spidermedia.ru/news/nycc10-young-justice",
   "tags": [
@@ -13,6 +16,11 @@
     "young-justice",
     "dc-comics",
     "molodoe-pravosudie"
+  ],
+  "modx_id": 3012,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

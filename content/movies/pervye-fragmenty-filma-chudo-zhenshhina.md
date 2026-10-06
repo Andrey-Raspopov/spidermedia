@@ -8,6 +8,12 @@
     "dc-comics",
     "wonder-woman"
   ],
+  "cover": "https://web.archive.org/web/20160619033340im_/http://spidermedia.ru//assets/images/newgallery/gallery108/wonder-woman-movie-sneak-peak_03.jpg",
+  "modx_id": 100825,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

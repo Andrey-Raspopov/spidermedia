@@ -1,7 +1,10 @@
 {
   "title": "Дэдпул + Человек-Паук = ???",
-  "date": "2009-07-16T03:03:00+03:00",
+  "date": "2009-07-16T02:03:34+03:00",
   "url": "/news/dedpul-chelovek-pauk/",
+  "aliases": [
+    "/node/1571/"
+  ],
   "original_url": "http://spidermedia.ru/news/dedpul-chelovek-pauk",
   "archived": "https://web.archive.org/web/20260121003947/http://spidermedia.ru/news/dedpul-chelovek-pauk",
   "tags": [
@@ -11,6 +14,12 @@
     "marvel",
     "spider-man",
     "erik-kenet"
+  ],
+  "cover": "https://web.archive.org/web/20260121003947im_/http://spidermedia.ru/assets/images/import_image/1571.jpg",
+  "modx_id": 1571,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

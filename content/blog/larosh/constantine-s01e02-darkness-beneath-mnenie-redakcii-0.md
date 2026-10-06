@@ -1,6 +1,6 @@
 {
   "title": "Constantine s01e02 \"The Darkness Beneath\": Мнение редакции",
-  "date": "2014-11-01T12:29:00+03:00",
+  "date": "2014-11-01T12:29:17+03:00",
   "url": "/blog/larosh/constantine-s01e02-darkness-beneath-mnenie-redakcii-0/",
   "original_url": "http://spidermedia.ru/blog/larosh/constantine-s01e02-darkness-beneath-mnenie-redakcii-0",
   "archived": "https://web.archive.org/web/20260214135348/http://spidermedia.ru/blog/larosh/constantine-s01e02-darkness-beneath-mnenie-redakcii-0",
@@ -10,7 +10,14 @@
     "vertigo",
     "dzhon-konstantin",
     "obzor",
-    "serialy"
+    "serialy",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20150424184042im_/http://spidermedia.ru/assets/images/import_image/8250.jpg",
+  "modx_id": 8250,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -10,6 +10,12 @@
     "transformers",
     "new-mutants"
   ],
+  "cover": "https://web.archive.org/web/20251208072330im_/http://spidermedia.ru/assets/images/news/movies/befunky-collage.jpg",
+  "modx_id": 100622,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

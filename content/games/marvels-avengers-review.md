@@ -4,6 +4,12 @@
   "url": "/games/marvels-avengers-review/",
   "original_url": "http://spidermedia.ru/games/marvels-avengers-review",
   "archived": "https://web.archive.org/web/20260309183030/http://spidermedia.ru/games/marvels-avengers-review",
+  "cover": "https://web.archive.org/web/20260309183030im_/http://spidermedia.ru/assets/images/games/avengers_card_3.jpg",
+  "modx_id": 102273,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

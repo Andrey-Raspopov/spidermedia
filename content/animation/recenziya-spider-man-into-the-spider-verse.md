@@ -4,6 +4,12 @@
   "url": "/animation/recenziya-spider-man-into-the-spider-verse/",
   "original_url": "http://spidermedia.ru/animation/recenziya-spider-man-into-the-spider-verse",
   "archived": "https://web.archive.org/web/20251006141115/http://spidermedia.ru/animation/recenziya-spider-man-into-the-spider-verse",
+  "cover": "https://web.archive.org/web/20251006141115im_/http://spidermedia.ru/assets/images/animation/marvel/sony-spider-man/e7ce5vx4kquuz0pekdhrvzb0pn8.jpg",
+  "modx_id": 102057,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

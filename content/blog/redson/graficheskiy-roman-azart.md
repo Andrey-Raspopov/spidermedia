@@ -1,13 +1,22 @@
 {
   "title": "Графический роман \"Азарт\"",
-  "date": "2009-05-16T13:27:00+03:00",
+  "date": "2009-05-16T12:27:34+03:00",
   "url": "/blog/redson/graficheskiy-roman-azart/",
+  "aliases": [
+    "/node/1209/"
+  ],
   "original_url": "http://spidermedia.ru/blog/redson/graficheskiy-roman-azart",
   "archived": "https://web.archive.org/web/20240422185716/http://spidermedia.ru/blog/redson/graficheskiy-roman-azart",
   "tags": [
     "russian-comics",
     "roman-surzhenko",
     "recenziya"
+  ],
+  "cover": "https://web.archive.org/web/20150326035536im_/http://spidermedia.ru/assets/images/import_image/1209.jpg",
+  "modx_id": 1209,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

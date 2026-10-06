@@ -1,6 +1,6 @@
 {
   "title": "Дикие приключения на Дикой земле",
-  "date": "2010-12-24T20:46:00+03:00",
+  "date": "2010-12-24T20:46:58+03:00",
   "url": "/news/dikie-priklyucheniya-na-dikoy-zemle/",
   "original_url": "http://spidermedia.ru/news/dikie-priklyucheniya-na-dikoy-zemle",
   "archived": "https://web.archive.org/web/20251108191720/http://spidermedia.ru/news/dikie-priklyucheniya-na-dikoy-zemle",
@@ -10,7 +10,15 @@
     "preview",
     "marvel",
     "ka-zar",
-    "paskal-eliks"
+    "paskal-eliks",
+    "art",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20251108191720im_/http://spidermedia.ru/assets/images/import_image/3134.jpg",
+  "modx_id": 3134,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

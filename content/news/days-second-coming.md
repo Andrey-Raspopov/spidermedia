@@ -1,13 +1,22 @@
 {
   "title": "Days of Second Coming",
-  "date": "2010-04-06T23:49:00+03:00",
+  "date": "2010-04-06T22:49:57+03:00",
   "url": "/news/days-second-coming/",
+  "aliases": [
+    "/node/2417/"
+  ],
   "original_url": "http://spidermedia.ru/news/days-second-coming",
   "archived": "https://web.archive.org/web/20181213094637/http://spidermedia.ru:80/news/days-second-coming",
   "tags": [
     "marvel",
     "new-mutants",
     "x-men"
+  ],
+  "cover": "https://web.archive.org/web/20181213094637im_/http://spidermedia.ru/assets/images/x-men-logo.jpg",
+  "modx_id": 2417,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

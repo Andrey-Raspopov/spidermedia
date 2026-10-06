@@ -7,6 +7,12 @@
   "tags": [
     "russian-comics"
   ],
+  "cover": "https://web.archive.org/web/20250620075007im_/http://spidermedia.ru/assets/images/reviews/comics-publisher/hacker/image04.jpg",
+  "modx_id": 101378,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

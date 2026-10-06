@@ -8,6 +8,12 @@
     "hronologiya",
     "hellboymedia"
   ],
+  "cover": "https://web.archive.org/web/20160405124110im_/http://spidermedia.ru/assets/images/hellboymedia/notes/hellboyverse-chronology/hellboyverse-chronology-cover.jpg",
+  "modx_id": 7832,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
@@ -147,7 +153,7 @@
 | **1882** |  |
 | • City of the Dead *(5 issues)* |  |
 | **1884** |  |
-| • [The Gates of Heaven](https://web.archive.org/web/20260215082612id_/https://spidermedia.ru/podcast/na-panelyah.-vypusk-33-hellboy-25th-anniversary) *(5 issues)* |  |
+| • [The Gates of Heaven](../../../podcast/na-panelyah.-vypusk-33-hellboy-25th-anniversary/) *(5 issues)* |  |
 | **1888** |  |
 | • The Reign of Darkness #1-3 *(3 issues)* |  |
 | **1889** |  |
@@ -233,15 +239,15 @@
 | --- | --- | --- | --- | --- |
 |  |  |  |  |  |
 |  |  |  |  | **1944** |
-|  |  |  |  | • [How and Why He Stayed #1](https://web.archive.org/web/20260215082612id_/https://spidermedia.ru/podcast/na-panelyah.-vypusk-33-hellboy-25th-anniversary) *(prologue)* |
+|  |  |  |  | • [How and Why He Stayed #1](../../../podcast/na-panelyah.-vypusk-33-hellboy-25th-anniversary/) *(prologue)* |
 |  |  | **1946** |  |  |
 |  |  | • [1946](../../../comics/hellboymedia-classic-bprd-1946/) *(5 issues)* |  |  |
 | **1947** | **1947** | **1947** |  | **1947** |
-| • Pancakes *(short story)* | • The Hidden Land *(4 issues)* • Assault on Castle Death *(4 issues)* | • [1947](../../../comics/hellboymedia-classic-bprd-1947/) *(5 issues)* |  | • [How and Why He Stayed #1](https://web.archive.org/web/20260215082612id_/https://spidermedia.ru/podcast/na-panelyah.-vypusk-33-hellboy-25th-anniversary) *(one page)* |
+| • Pancakes *(short story)* | • The Hidden Land *(4 issues)* • Assault on Castle Death *(4 issues)* | • [1947](../../../comics/hellboymedia-classic-bprd-1947/) *(5 issues)* |  | • [How and Why He Stayed #1](../../../podcast/na-panelyah.-vypusk-33-hellboy-25th-anniversary/) *(one page)* |
 | **1948** |  | **1948** | **1948** | **1948** |
-| • [The Midnight Circus](../hellboymedia-luchshie-syuzhety-za-20-let-drugie-geroi/#item8) *(OGN)* |  | • 1948 (**past**) *(5 issues)* | • [Vampire](../hellboymedia-luchshie-syuzhety-za-20-let-drugie-geroi/#item7) *(5 issues)* | • [How and Why He Stayed #1](https://web.archive.org/web/20260215082612id_/https://spidermedia.ru/podcast/na-panelyah.-vypusk-33-hellboy-25th-anniversary) *(one page)* |
+| • [The Midnight Circus](../hellboymedia-luchshie-syuzhety-za-20-let-drugie-geroi/#item8) *(OGN)* |  | • 1948 (**past**) *(5 issues)* | • [Vampire](../hellboymedia-luchshie-syuzhety-za-20-let-drugie-geroi/#item7) *(5 issues)* | • [How and Why He Stayed #1](../../../podcast/na-panelyah.-vypusk-33-hellboy-25th-anniversary/) *(one page)* |
 |  |  |  |  | **1950** |
-|  |  |  |  | • [How and Why He Stayed #1](https://web.archive.org/web/20260215082612id_/https://spidermedia.ru/podcast/na-panelyah.-vypusk-33-hellboy-25th-anniversary) *(one page)* |
+|  |  |  |  | • [How and Why He Stayed #1](../../../podcast/na-panelyah.-vypusk-33-hellboy-25th-anniversary/) *(one page)* |
 
 ---
 
@@ -255,9 +261,9 @@
 |  | **1952** |  |  |  |
 |  | • [1952](../../../comics/hellboy-and-the-bprd-1952/) *(5 issues)* |  |  |  |
 | **1953** | **1953** |  |  | **1953** |
-| • The Silver Lantern Club (**present**) *(5 issues)* | • [The Phantom Hand](../../../comics/hellboymedia-20-hellboy-and-the-bprd-1953-the-phantom-hand-and-other-stories/#phantom) *(short story)* • [Rawhead and Bloody Bones](../../../comics/hellboymedia-20-hellboy-and-the-bprd-1953-the-phantom-hand-and-other-stories/#rawhead) *(short story)* • [The Witch Tree](../../../comics/hellboymedia-20-hellboy-and-the-bprd-1953-the-phantom-hand-and-other-stories/#witchtree) *(short story)* • [The Kelpie (**present**)](../../../comics/hellboymedia-20-hellboy-and-the-bprd-1953-the-phantom-hand-and-other-stories/#kelpie) *(short story)* • [Wandering Souls](../../../comics/hellboymedia-27-hellboy-and-the-bprd-1953-beyond-the-fences/#souls) *(short story)* • [Beyond the Fences](../../../comics/hellboymedia-27-hellboy-and-the-bprd-1953-beyond-the-fences/) *(3 issues)* |  |  | • [How and Why He Stayed #1](https://web.archive.org/web/20260215082612id_/https://spidermedia.ru/podcast/na-panelyah.-vypusk-33-hellboy-25th-anniversary) *(one page)* |
+| • The Silver Lantern Club (**present**) *(5 issues)* | • [The Phantom Hand](../../../comics/hellboymedia-20-hellboy-and-the-bprd-1953-the-phantom-hand-and-other-stories/#phantom) *(short story)* • [Rawhead and Bloody Bones](../../../comics/hellboymedia-20-hellboy-and-the-bprd-1953-the-phantom-hand-and-other-stories/#rawhead) *(short story)* • [The Witch Tree](../../../comics/hellboymedia-20-hellboy-and-the-bprd-1953-the-phantom-hand-and-other-stories/#witchtree) *(short story)* • [The Kelpie (**present**)](../../../comics/hellboymedia-20-hellboy-and-the-bprd-1953-the-phantom-hand-and-other-stories/#kelpie) *(short story)* • [Wandering Souls](../../../comics/hellboymedia-27-hellboy-and-the-bprd-1953-beyond-the-fences/#souls) *(short story)* • [Beyond the Fences](../../../comics/hellboymedia-27-hellboy-and-the-bprd-1953-beyond-the-fences/) *(3 issues)* |  |  | • [How and Why He Stayed #1](../../../podcast/na-panelyah.-vypusk-33-hellboy-25th-anniversary/) *(one page)* |
 | **1954** | **1954** | **1954** |  | **1954** |
-| • The Mirror *(short story)* • The Nature of the Beast *(short story)* | • The Black Sun *(2 issues)* • The Unreasoning Beast *(one-shot)* • Ghost Moon *(2 issues)* | • Lost Ones *(short story)* |  | • [How and Why He Stayed #1](https://web.archive.org/web/20260215082612id_/https://spidermedia.ru/podcast/na-panelyah.-vypusk-33-hellboy-25th-anniversary) *(epilogue)* |
+| • The Mirror *(short story)* • The Nature of the Beast *(short story)* | • The Black Sun *(2 issues)* • The Unreasoning Beast *(one-shot)* • Ghost Moon *(2 issues)* | • Lost Ones *(short story)* |  | • [How and Why He Stayed #1](../../../podcast/na-panelyah.-vypusk-33-hellboy-25th-anniversary/) *(epilogue)* |
 |  | **1955** |  |  |  |
 |  | • Secret Nature *(one-shot)* • Occult Intelligence *(3 issues)* • Burning Season *(one-shot)* |  |  |  |
 | **1956** | **1956** |  | **1956** | **1956** |
@@ -277,7 +283,7 @@
 | **1963** |  |  |  |  |
 | • The Troll Witch *(short story)* |  |  |  |  |
 | **1964** |  |  |  | **1964** |
-| • [The Baba Yaga](../../../podcast/hellboymedia-classic-hellboy-the-chained-coffin-and-others/#babayaga) *(short story)* |  |  |  | • [How and Why He Stayed #2](https://web.archive.org/web/20260215082612id_/https://spidermedia.ru/podcast/na-panelyah.-vypusk-33-hellboy-25th-anniversary) *(one-shot)* |
+| • [The Baba Yaga](../../../podcast/hellboymedia-classic-hellboy-the-chained-coffin-and-others/#babayaga) *(short story)* |  |  |  | • [How and Why He Stayed #2](../../../podcast/na-panelyah.-vypusk-33-hellboy-25th-anniversary/) *(one-shot)* |
 | **1966** |  |  |  |  |
 | • The Sleeping and the Dead *(2 issues)* |  |  |  |  |
 | **1967** | **1967** |  |  |  |
@@ -297,7 +303,7 @@
 |  |  | **1976** |  |
 |  |  | • The Dead Remembered *(3 issues)* |  |
 |  |  |  | **1978** |
-|  |  |  | • [How and Why He Stayed #3](https://web.archive.org/web/20260215082612id_/https://spidermedia.ru/podcast/na-panelyah.-vypusk-33-hellboy-25th-anniversary) *(one-shot)* |
+|  |  |  | • [How and Why He Stayed #3](../../../podcast/na-panelyah.-vypusk-33-hellboy-25th-anniversary/) *(one-shot)* |
 
 ---
 
@@ -331,7 +337,7 @@
 | **1991** | **1991** |  |  |  |
 | • Dr. Carp’s Experiment *(short story)* | • The Sending *(short story)* |  |  |  |
 | **1992** | **1992** |  | **1992** | **1992** |
-| • The Ghoul *(short story)* • In the Chapel of Moloch *(one-shot)* | • The Seven Wives Club *(one-shot)* |  | • [The Ogopogo](../../../comics/hellboymedia-13-abe-sapien-a-darkness-so-great/#ogopogo) *(one-shot)* | • [How and Why He Stayed #4](https://web.archive.org/web/20260215082612id_/https://spidermedia.ru/podcast/na-panelyah.-vypusk-33-hellboy-25th-anniversary) *(one-shot)* |
+| • The Ghoul *(short story)* • In the Chapel of Moloch *(one-shot)* | • The Seven Wives Club *(one-shot)* |  | • [The Ogopogo](../../../comics/hellboymedia-13-abe-sapien-a-darkness-so-great/#ogopogo) *(one-shot)* | • [How and Why He Stayed #4](../../../podcast/na-panelyah.-vypusk-33-hellboy-25th-anniversary/) *(one-shot)* |
 | **1993** |  |  | **1993** |  |
 | • [World’s Greatest Paranormal Investigator](../../../comics/hellboymedia-classic-hellboy-seed-of-destruction/#sdcc) *(short story)* • Makoma *(2 issues)* |  |  | • Drums of the Dead *(one-shot)* |  |
 
@@ -355,7 +361,7 @@
 | **2000** |  |  |
 | • Being Human *(one-shot)* |  |  |
 | **2001** |  | **2001** |
-| • [Conqueror Worm](../hellboymedia-luchshie-syuzhety-za-20-let-hellboy/#item5) *(4 issues + epilogue)* |  | • [How and Why He Stayed #5](https://web.archive.org/web/20260215082612id_/https://spidermedia.ru/podcast/na-panelyah.-vypusk-33-hellboy-25th-anniversary) *(one-shot)* |
+| • [Conqueror Worm](../hellboymedia-luchshie-syuzhety-za-20-let-hellboy/#item5) *(4 issues + epilogue)* |  | • [How and Why He Stayed #5](../../../podcast/na-panelyah.-vypusk-33-hellboy-25th-anniversary/) *(one-shot)* |
 
 ---
 
@@ -373,7 +379,7 @@
 | **2004** | **2004** |  |
 | • [The Island](../hellboymedia-luchshie-syuzhety-za-20-let-hellboy/#item6) *(2 issues + epilogue)* | • [Plague of Frogs](../hellboymedia-luchshie-syuzhety-za-20-let-bprd/#item2) *(5 issues)* • The Dead *(5 issues)* |  |
 | **2005** | **2005** | **2005** |
-| • [Into the Silent Sea](https://web.archive.org/web/20260215082612id_/https://spidermedia.ru/podcast/na-panelyah.-vypusk-33-hellboy-25th-anniversary) *(OGN)* | • [The Black Flame #1](../hellboymedia-luchshie-syuzhety-za-20-let-bprd/#item3) *(prologue)* • War on Frogs #1 *(one-shot)* • Revival *(one-shot)* • War on Frogs #2 *(one-shot)* | • [Lost Lives](../hellboymedia-08-abe-sapien-sacred-places/) *(one-shot)* |
+| • [Into the Silent Sea](../../../podcast/na-panelyah.-vypusk-33-hellboy-25th-anniversary/) *(OGN)* | • [The Black Flame #1](../hellboymedia-luchshie-syuzhety-za-20-let-bprd/#item3) *(prologue)* • War on Frogs #1 *(one-shot)* • Revival *(one-shot)* • War on Frogs #2 *(one-shot)* | • [Lost Lives](../hellboymedia-08-abe-sapien-sacred-places/) *(one-shot)* |
 | **2006** | **2006** |  |
 | • The Mole *(short story)* • [Darkness Calls](../hellboymedia-luchshie-syuzhety-za-20-let-hellboy/#item7) *(6 issues + 2 epilogues)* | • War on Frogs #4 *(one-shot)* • [The Black Flame #2-6](../hellboymedia-luchshie-syuzhety-za-20-let-bprd/#item3) *(5 issues)* • [The Universal Machine](../hellboymedia-luchshie-syuzhety-za-20-let-bprd/#item4) *(5 issues)* • Garden of Souls *(5 issues)* • War on Frogs #3 *(one-shot)* • [Killing Ground](../hellboymedia-luchshie-syuzhety-za-20-let-bprd/#item5) *(5 issues)* • Out of Reach *(short story)* • The Warning *(5 issues)* • [The Black Goddess](../hellboymedia-luchshie-syuzhety-za-20-let-bprd/#item6) *(5 issues)* |  |
 |  | **2007** |  |
@@ -419,7 +425,7 @@
 | --- | --- | --- | --- |
 |  |  |  |  |
 | **2010** | **2010** | **2010** | **2010** |
-| • [The Spanish Bride](../../../comics/hellboymedia-28-hellboy-for-whom-the-bell-tolls/) *(*one-shot*)* • [For Whom the Bell Tolls](../../../comics/hellboymedia-28-hellboy-for-whom-the-bell-tolls/#bell) *(*one-shot*)* | • Messiah *(5 issues)* • Pandemonium *(5 issues)* • Ragna Rok *(5 issues)* | • The Desolate Shore *(one-shot)* • [Icthyo Sapien (**present**)](../../../comics/hellboymedia-21-abe-sapien-the-secret-fire/#icthyo) *(one-shot)* | • [Koshchei the Deathless](https://web.archive.org/web/20260215082612id_/https://spidermedia.ru/podcast/na-panelyah.-vypusk-33-hellboy-25th-anniversary) *(6 issues)* |
+| • [The Spanish Bride](../../../comics/hellboymedia-28-hellboy-for-whom-the-bell-tolls/) *(*one-shot*)* • [For Whom the Bell Tolls](../../../comics/hellboymedia-28-hellboy-for-whom-the-bell-tolls/#bell) *(*one-shot*)* | • Messiah *(5 issues)* • Pandemonium *(5 issues)* • Ragna Rok *(5 issues)* | • The Desolate Shore *(one-shot)* • [Icthyo Sapien (**present**)](../../../comics/hellboymedia-21-abe-sapien-the-secret-fire/#icthyo) *(one-shot)* | • [Koshchei the Deathless](../../../podcast/na-panelyah.-vypusk-33-hellboy-25th-anniversary/) *(6 issues)* |
 
 #
 

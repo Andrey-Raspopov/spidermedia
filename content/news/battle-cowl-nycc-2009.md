@@ -1,7 +1,10 @@
 {
   "title": "Battle for the Cowl - NYCC 2009",
-  "date": "2009-02-11T18:36:00+03:00",
+  "date": "2009-02-11T18:36:12+03:00",
   "url": "/news/battle-cowl-nycc-2009/",
+  "aliases": [
+    "/node/313/"
+  ],
   "original_url": "http://spidermedia.ru/news/battle-cowl-nycc-2009",
   "archived": "https://web.archive.org/web/20251110224553/http://spidermedia.ru/news/battle-cowl-nycc-2009",
   "tags": [
@@ -13,6 +16,12 @@
     "dc-comics",
     "betvuman",
     "batman"
+  ],
+  "cover": "https://web.archive.org/web/20251110224553im_/http://spidermedia.ru/assets/images/import_image/313.jpg",
+  "modx_id": 313,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
@@ -34,7 +43,7 @@
 
 **Городские Сирены Готэма** *(Gotham City Sirens)*
 
-Помимо новых в июне возобновятся две главные Бэт-серии - **Бэтмен** *(Batman)* и **Детективные Комиксы** *(Detective Comics)*, на пост сценариста которых придет **Грег Ракк*а*** *(Greg Rucka)* с [854](../../node/230/) номера.
+Помимо новых в июне возобновятся две главные Бэт-серии - **Бэтмен** *(Batman)* и **Детективные Комиксы** *(Detective Comics)*, на пост сценариста которых придет **Грег Ракк*а*** *(Greg Rucka)* с [854](../../blog/bogart/nycc09-flash-batwoman/) номера.
 
 Итак, чего же можно ждать от лета грядущего:
 

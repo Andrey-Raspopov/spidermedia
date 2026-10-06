@@ -1,11 +1,20 @@
 {
   "title": "IkkiTousen",
-  "date": "2009-02-02T19:16:00+03:00",
+  "date": "2009-02-02T19:16:03+03:00",
   "url": "/blog/naya/ikkitousen/",
+  "aliases": [
+    "/node/111/"
+  ],
   "original_url": "https://spidermedia.ru/blog/naya/ikkitousen",
   "archived": "https://web.archive.org/web/20251107003948/https://spidermedia.ru/blog/naya/ikkitousen",
   "tags": [
     "manga"
+  ],
+  "cover": "https://web.archive.org/web/20251107003948im_/http://spidermedia.ru/assets/images/import_image/111.jpg",
+  "modx_id": 111,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

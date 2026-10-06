@@ -6,7 +6,14 @@
   "archived": "https://web.archive.org/web/20251014045956/https://spidermedia.ru/comics/sdcc-new-blade-series",
   "tags": [
     "marvel",
-    "san-diego-comic-con-international"
+    "san-diego-comic-con-international",
+    "sdcc2015"
+  ],
+  "cover": "https://web.archive.org/web/20251014045956im_/http://spidermedia.ru/assets/images/news/sdcc/2015/marvel/blade-1-promo-by-tim-seeley-23c99.jpg",
+  "modx_id": 100366,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

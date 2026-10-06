@@ -7,6 +7,12 @@
   "tags": [
     "dc-comics"
   ],
+  "cover": "https://web.archive.org/web/20170908020932im_/http://spidermedia.ru/assets/images/games/27431229732_e68ca826e9_z.jpg",
+  "modx_id": 101195,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,6 +1,6 @@
 {
   "title": "Рецензия на сценарий «Мордобоя»",
-  "date": "2010-01-23T14:02:00+03:00",
+  "date": "2010-01-23T14:02:06+03:00",
   "url": "/news/recenziya-na-scenariy-mordoboya/",
   "original_url": "https://spidermedia.ru/news/recenziya-na-scenariy-mordoboya",
   "archived": "https://web.archive.org/web/20260120154728/https://spidermedia.ru/news/recenziya-na-scenariy-mordoboya",
@@ -8,6 +8,12 @@
     "mettyu-von",
     "mark-millar",
     "kick-ass"
+  ],
+  "cover": "https://web.archive.org/web/20260120154728im_/http://spidermedia.ru/assets/images/import_image/2300.gif",
+  "modx_id": 2300,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Мастрид манги от Дердена #6: Uncivilized Planet, Дзиро Мацумото",
-  "date": "2015-01-15T12:26:00+03:00",
+  "date": "2015-01-15T12:26:39+03:00",
   "url": "/blog/derden/mastrid-mangi-ot-derdena-6-uncivilized-planet-dziro-macumoto-0/",
   "original_url": "http://spidermedia.ru/blog/derden/mastrid-mangi-ot-derdena-6-uncivilized-planet-dziro-macumoto-0",
   "archived": "https://web.archive.org/web/20250620070629/http://spidermedia.ru/blog/derden/mastrid-mangi-ot-derdena-6-uncivilized-planet-dziro-macumoto-0",
@@ -8,6 +8,12 @@
     "matsumoto-jiro",
     "dziro-macumoto",
     "manga"
+  ],
+  "cover": "https://web.archive.org/web/20150327041715im_/http://spidermedia.ru/assets/images/import_image/8506.jpg",
+  "modx_id": 8506,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

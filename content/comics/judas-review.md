@@ -7,6 +7,12 @@
   "tags": [
     "boom-studios"
   ],
+  "cover": "https://web.archive.org/web/20260125055740im_/http://spidermedia.ru/assets/images/reviews/boom/judas/mzk.jpg",
+  "modx_id": 101863,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

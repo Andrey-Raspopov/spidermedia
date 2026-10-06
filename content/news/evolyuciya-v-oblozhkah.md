@@ -1,6 +1,6 @@
 {
   "title": "Эволюция в обложках",
-  "date": "2011-02-15T23:04:00+03:00",
+  "date": "2011-02-15T22:04:42+03:00",
   "url": "/news/evolyuciya-v-oblozhkah/",
   "original_url": "http://spidermedia.ru/news/evolyuciya-v-oblozhkah",
   "archived": "https://web.archive.org/web/20130619063639/http://spidermedia.ru/news/evolyuciya-v-oblozhkah",
@@ -10,7 +10,14 @@
     "komiksy",
     "lyudi-iks",
     "marvel",
-    "oblozhki"
+    "oblozhki",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20130619063639im_/http://spidermedia.ru/assets/images/import_image/3444.jpg",
+  "modx_id": 3444,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

@@ -1,20 +1,30 @@
 {
   "title": "Рамки и обложки - Part II",
-  "date": "2009-07-31T00:26:00+03:00",
+  "date": "2009-07-30T23:26:53+03:00",
   "url": "/news/ramki-i-oblozhki-part-ii/",
+  "aliases": [
+    "/node/1699/"
+  ],
   "original_url": "http://spidermedia.ru/news/ramki-i-oblozhki-part-ii",
   "archived": "https://web.archive.org/web/20120718071205/http://spidermedia.ru/news/ramki-i-oblozhki-part-ii",
   "tags": [
     "art-0",
     "komiksy",
     "marvel",
-    "oblozhki"
+    "oblozhki",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20120718071205im_/http://spidermedia.ru/assets/images/import_image/1699.jpg",
+  "modx_id": 1699,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }
 
-Вы [уже видели](../../node/1544/) первую порцию "рамочных" вариант-обложек издательства **Marvel**, выходящих уже в этом **августе**, а как насчёт второй порции?
+Вы [уже видели](../ramki-i-oblozhki/) первую порцию "рамочных" вариант-обложек издательства **Marvel**, выходящих уже в этом **августе**, а как насчёт второй порции?
 
 ]]>[![8986new_storyimage8892198.jpg - upload images with Picamatic](https://web.archive.org/web/20120718071205im_/http://www.picamatic.com/show/2009/07/30/11/10/4648546_bigthumb.jpg "8986new_storyimage8892198.jpg")](http://www.picamatic.com/view/4648546_8986new_storyimage8892198/)]]> ]]>[![DW.jpg - image uploaded to Picamatic](https://web.archive.org/web/20120718071205im_/http://www.picamatic.com/show/2009/07/30/11/10/4648549_bigthumb.jpg "DW.jpg")](http://www.picamatic.com/view/4648549_DW/)]]> ]]>[![DP.jpg - image uploaded to Picamatic](https://web.archive.org/web/20120718071205im_/http://www.picamatic.com/show/2009/07/30/11/10/4648548_bigthumb.jpg "DP.jpg")](http://www.picamatic.com/view/4648548_DP/)]]> ]]>[![DD.jpg - image uploaded to Picamatic](https://web.archive.org/web/20120718071205im_/http://www.picamatic.com/show/2009/07/30/11/10/4648550_bigthumb.jpg "DD.jpg")](http://www.picamatic.com/view/4648550_DD/)]]> ]]>[![AI.jpg - image uploaded to Picamatic](https://web.archive.org/web/20120718071205im_/http://www.picamatic.com/show/2009/07/30/11/10/4648551_bigthumb.jpg "AI.jpg")](http://www.picamatic.com/view/4648551_AI/)]]>
 

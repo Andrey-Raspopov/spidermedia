@@ -1,6 +1,6 @@
 {
   "title": "Бульварное чтиво",
-  "date": "2010-09-07T22:54:00+03:00",
+  "date": "2010-09-07T21:54:37+03:00",
   "url": "/news/bulvarnoe-chtivo/",
   "original_url": "http://spidermedia.ru/news/bulvarnoe-chtivo",
   "archived": "https://web.archive.org/web/20260206222410/http://spidermedia.ru/news/bulvarnoe-chtivo",
@@ -10,6 +10,12 @@
     "incognito",
     "icon-comics",
     "ed-brubaker"
+  ],
+  "cover": "https://web.archive.org/web/20260206222410im_/http://spidermedia.ru/assets/images/import_image/2895.jpg",
+  "modx_id": 2895,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

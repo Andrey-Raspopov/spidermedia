@@ -1,7 +1,10 @@
 {
   "title": "Враги Государства!",
-  "date": "2009-05-28T17:51:00+03:00",
+  "date": "2009-05-28T16:51:37+03:00",
   "url": "/news/vragi-gosudarstva/",
+  "aliases": [
+    "/node/1293/"
+  ],
   "original_url": "http://spidermedia.ru/news/vragi-gosudarstva",
   "archived": "https://web.archive.org/web/20250807010118/http://spidermedia.ru/news/vragi-gosudarstva",
   "tags": [
@@ -10,11 +13,17 @@
     "batman",
     "superman"
   ],
+  "cover": "https://web.archive.org/web/20150428121931im_/http://spidermedia.ru/assets/images/import_image/1293.jpg",
+  "modx_id": 1293,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-Как мы уже [сообщали](../../node/690/), следующими после [Зеленого Фонаря](https://web.archive.org/web/20120611191435/http://spidermedia.ru/phpbb/viewtopic.php?f=73&t=16120&p=168876) *(Green Lantern)* в анимационную обойму компании **DC Comics** вольется один из величайших тим-апов - **Супермен\Бэтмен** *(Superman\Batman)*. Дабы не изобретать велосипед, было решено взять за основу первый арк одноименной серии под названием **"Public Enemies"**, который создали **Джеф**, не побоюсь этого слова, **Лоеб** *(Jeph Loeb)* и **Эд МакГиннес** *(Ed McGuinness)*.
+Как мы уже [сообщали](../osobo-opasnye/), следующими после [Зеленого Фонаря](https://web.archive.org/web/20120611191435/http://spidermedia.ru/phpbb/viewtopic.php?f=73&t=16120&p=168876) *(Green Lantern)* в анимационную обойму компании **DC Comics** вольется один из величайших тим-апов - **Супермен\Бэтмен** *(Superman\Batman)*. Дабы не изобретать велосипед, было решено взять за основу первый арк одноименной серии под названием **"Public Enemies"**, который создали **Джеф**, не побоюсь этого слова, **Лоеб** *(Jeph Loeb)* и **Эд МакГиннес** *(Ed McGuinness)*.
 
 ![Photobucket](https://web.archive.org/web/20250807010118im_/http://i707.photobucket.com/albums/ww79/Alex_spidermedia/superman-batman-public-enemies-700x.jpg)
 

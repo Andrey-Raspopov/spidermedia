@@ -1,12 +1,18 @@
 {
   "title": "Hellboymedia Special #06: Hellboy in Hell and Other Stories Artist’s Edition",
-  "date": "2015-02-05T17:35:00+03:00",
+  "date": "2015-02-05T17:35:37+03:00",
   "url": "/blog/shargor/hellboymedia-special-06-hellboy-hell-and-other-stories-artists-edition/",
   "original_url": "http://spidermedia.ru/blog/shargor/hellboymedia-special-06-hellboy-hell-and-other-stories-artists-edition",
   "archived": "https://web.archive.org/web/20260116214554/http://spidermedia.ru/blog/shargor/hellboymedia-special-06-hellboy-hell-and-other-stories-artists-edition",
   "tags": [
     "obzor",
     "hellboymedia"
+  ],
+  "cover": "https://web.archive.org/web/20160611212427im_/http://spidermedia.ru/assets/images/hellboymedia/special/06-hellboy-in-hell-and-other-stories-artists-edition/hellboy-in-hell-and-other-stories-artists-edition-cover.jpg",
+  "modx_id": 8588,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,12 +1,18 @@
 {
   "title": "\"Хранители: История черной шхуны\" на DVD",
-  "date": "2009-02-03T12:31:00+03:00",
+  "date": "2009-02-03T12:31:24+03:00",
   "url": "/news/hraniteli-istoriya-chernoy-shhuny-na-dvd/",
   "original_url": "http://spidermedia.ru/news/hraniteli-istoriya-chernoy-shhuny-na-dvd",
   "archived": "https://web.archive.org/web/20251106232817/http://spidermedia.ru/news/hraniteli-istoriya-chernoy-shhuny-na-dvd",
   "tags": [
     "anime",
     "hraniteli"
+  ],
+  "cover": "https://web.archive.org/web/20251106232817im_/http://spidermedia.ru/assets/images/import_image/140.jpg",
+  "modx_id": 140,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

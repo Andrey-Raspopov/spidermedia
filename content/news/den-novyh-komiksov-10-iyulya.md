@@ -1,11 +1,17 @@
 {
   "title": "День новых комиксов: 10 июля",
-  "date": "2013-07-10T16:18:00+03:00",
+  "date": "2013-07-10T15:18:22+03:00",
   "url": "/news/den-novyh-komiksov-10-iyulya/",
   "original_url": "https://spidermedia.ru/news/den-novyh-komiksov-10-iyulya",
   "archived": "https://web.archive.org/web/20260214143947/https://spidermedia.ru/news/den-novyh-komiksov-10-iyulya",
   "tags": [
     "den-novyh-komiksov"
+  ],
+  "cover": "https://web.archive.org/web/20260214143947im_/http://spidermedia.ru/assets/images/import_image/7328.jpg",
+  "modx_id": 7328,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

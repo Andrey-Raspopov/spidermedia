@@ -1,7 +1,10 @@
 {
   "title": "Batman: Arkham Asylum",
-  "date": "2009-02-01T11:35:00+03:00",
+  "date": "2009-02-01T11:35:44+03:00",
   "url": "/blog/alex/batman-arkham-asylum/",
+  "aliases": [
+    "/node/66/"
+  ],
   "original_url": "https://spidermedia.ru/blog/alex/batman-arkham-asylum",
   "archived": "https://web.archive.org/web/20260115053424/https://spidermedia.ru/blog/alex/batman-arkham-asylum",
   "tags": [
@@ -11,6 +14,11 @@
     "joker",
     "trejlery",
     "skrinshoty"
+  ],
+  "modx_id": 66,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

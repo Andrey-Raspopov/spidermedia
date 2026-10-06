@@ -4,6 +4,9 @@
   "url": "/docs/cartoon/defenders/",
   "original_url": "http://spidermedia.ru/docs/cartoon/defenders.html",
   "archived": "https://web.archive.org/web/20051202073839/http://spidermedia.ru:80/docs/cartoon/defenders.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

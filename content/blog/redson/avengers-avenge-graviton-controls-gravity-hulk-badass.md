@@ -1,7 +1,10 @@
 {
   "title": "Avengers avenge. Graviton controls gravity. Hulk is badass",
-  "date": "2010-10-24T21:14:00+03:00",
+  "date": "2010-10-24T20:14:57+03:00",
   "url": "/blog/redson/avengers-avenge-graviton-controls-gravity-hulk-badass/",
+  "aliases": [
+    "/node/3027/"
+  ],
   "original_url": "https://spidermedia.ru/blog/redson/avengers-avenge-graviton-controls-gravity-hulk-badass",
   "archived": "https://web.archive.org/web/20251207100738/https://spidermedia.ru/blog/redson/avengers-avenge-graviton-controls-gravity-hulk-badass",
   "tags": [
@@ -9,6 +12,12 @@
     "marvel",
     "animaciya",
     "mnenie"
+  ],
+  "cover": "https://web.archive.org/web/20150502201622im_/http://spidermedia.ru/assets/images/import_image/3027.jpg",
+  "modx_id": 3027,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

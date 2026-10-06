@@ -1,7 +1,10 @@
 {
   "title": "Джеф Лоеб идет!",
-  "date": "2009-09-25T20:28:00+03:00",
+  "date": "2009-09-25T19:28:33+03:00",
   "url": "/news/dzhef-loeb-idet/",
+  "aliases": [
+    "/node/1932/"
+  ],
   "original_url": "http://spidermedia.ru/news/dzhef-loeb-idet",
   "archived": "https://web.archive.org/web/20160809174548/http://spidermedia.ru/news/dzhef-loeb-idet",
   "tags": [
@@ -10,6 +13,12 @@
     "ultimates",
     "ultimate",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20160809174548im_/http://spidermedia.ru/assets/images/import_image/1932.jpg",
+  "modx_id": 1932,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Рецензия на фильм \"Тор 2: Царство тьмы\"",
-  "date": "2013-10-29T08:50:00+03:00",
+  "date": "2013-10-29T07:50:13+03:00",
   "url": "/news/recenziya-na-film-tor-2-carstvo-tmy/",
   "original_url": "http://spidermedia.ru/news/recenziya-na-film-tor-2-carstvo-tmy",
   "archived": "https://web.archive.org/web/20260312021025/http://spidermedia.ru/news/recenziya-na-film-tor-2-carstvo-tmy",
@@ -8,7 +8,14 @@
     "thor",
     "recenziya",
     "marvel",
-    "loki"
+    "loki",
+    "tor"
+  ],
+  "cover": "https://web.archive.org/web/20150424083719im_/http://spidermedia.ru/assets/images/import_image/7517.jpg",
+  "modx_id": 7517,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

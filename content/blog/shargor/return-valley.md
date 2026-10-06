@@ -1,7 +1,10 @@
 {
   "title": "Return to the Valley",
-  "date": "2009-07-27T00:15:00+03:00",
+  "date": "2009-07-26T23:15:42+03:00",
   "url": "/blog/shargor/return-valley/",
+  "aliases": [
+    "/node/1626/"
+  ],
   "original_url": "http://spidermedia.ru/blog/shargor/return-valley",
   "archived": "https://web.archive.org/web/20120607054835/http://spidermedia.ru/blog/shargor/return-valley",
   "tags": [
@@ -12,6 +15,12 @@
     "dzhef-smit",
     "komiksy",
     "tom-snigoski"
+  ],
+  "cover": "https://web.archive.org/web/20120607054835im_/http://spidermedia.ru/assets/images/import_image/1626.jpg",
+  "modx_id": 1626,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "Комиксы DC Universe. Выпуск № 20",
-  "date": "2009-08-16T23:03:00+03:00",
+  "date": "2009-08-16T22:03:53+03:00",
   "url": "/blog/derden/komiksy-dc-universe-vypusk-no-20/",
+  "aliases": [
+    "/node/1797/"
+  ],
   "original_url": "http://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-20",
   "archived": "https://web.archive.org/web/20260211181120/http://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-20",
   "tags": [
@@ -10,6 +13,12 @@
     "chuck-austen",
     "ron-garni",
     "dc-universe-comics"
+  ],
+  "cover": "https://web.archive.org/web/20260211181120im_/http://spidermedia.ru/assets/images/import_image/1797.jpg",
+  "modx_id": 1797,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

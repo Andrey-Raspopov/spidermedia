@@ -1,6 +1,6 @@
 {
   "title": "Серия комиксов о Гаморе стартует весной 2015 года",
-  "date": "2014-10-12T23:29:00+03:00",
+  "date": "2014-10-12T22:29:51+03:00",
   "url": "/news/seriya-komiksov-o-gamore-startuet-vesnoy-2015-goda/",
   "original_url": "http://spidermedia.ru/news/seriya-komiksov-o-gamore-startuet-vesnoy-2015-goda",
   "archived": "https://web.archive.org/web/20250717184848/http://spidermedia.ru/news/seriya-komiksov-o-gamore-startuet-vesnoy-2015-goda",
@@ -8,6 +8,12 @@
     "marvel",
     "guardians-of-the-galaxy",
     "gamora"
+  ],
+  "cover": "https://web.archive.org/web/20250717184848im_/http://i.imgur.com/hegjMAz.jpg?1",
+  "modx_id": 8172,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

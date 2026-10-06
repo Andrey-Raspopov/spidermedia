@@ -1,11 +1,20 @@
 {
   "title": "Поехали!",
-  "date": "2009-02-01T01:51:00+03:00",
+  "date": "2009-02-01T00:51:33+03:00",
   "url": "/blog/oleg89/poehali/",
+  "aliases": [
+    "/node/52/"
+  ],
   "original_url": "http://spidermedia.ru/blog/oleg89/poehali",
   "archived": "https://web.archive.org/web/20120608195816/http://spidermedia.ru/blog/oleg89/poehali",
   "tags": [
     "vstuplenie"
+  ],
+  "cover": "https://web.archive.org/web/20120608195816im_/http://spidermedia.ru/assets/images/import_image/52.jpg",
+  "modx_id": 52,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

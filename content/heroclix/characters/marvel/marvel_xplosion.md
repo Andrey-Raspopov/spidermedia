@@ -4,6 +4,9 @@
   "url": "/heroclix/characters/marvel/marvel_xplosion/",
   "original_url": "http://www.spidermedia.ru/heroclix/characters/marvel/marvel_xplosion.html",
   "archived": "https://web.archive.org/web/20050310005540/http://www.spidermedia.ru:80/heroclix/characters/marvel/marvel_xplosion.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

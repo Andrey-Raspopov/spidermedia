@@ -1,7 +1,10 @@
 {
   "title": "Дополненное Арт-Превью Daredevil Noir #1",
-  "date": "2009-03-06T20:00:00+03:00",
+  "date": "2009-03-06T20:00:56+03:00",
   "url": "/news/dopolnennoe-art-prevyu-daredevil-noir-1/",
+  "aliases": [
+    "/node/610/"
+  ],
   "original_url": "http://spidermedia.ru/news/dopolnennoe-art-prevyu-daredevil-noir-1",
   "archived": "https://web.archive.org/web/20200217104414/http://spidermedia.ru:80/news/dopolnennoe-art-prevyu-daredevil-noir-1",
   "tags": [
@@ -10,7 +13,14 @@
     "art-0",
     "noirverse",
     "marvel",
-    "daredevil"
+    "daredevil",
+    "prevyu",
+    "art"
+  ],
+  "modx_id": 610,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

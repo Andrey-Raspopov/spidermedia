@@ -1,6 +1,6 @@
 {
   "title": "Издательство IDW анонсировало два неожиданных кроссовера",
-  "date": "2014-07-27T00:08:00+03:00",
+  "date": "2014-07-26T23:08:09+03:00",
   "url": "/news/izdatelstvo-idw-anonsirovalo-dva-neozhidannyh-krossovera/",
   "original_url": "http://spidermedia.ru/news/izdatelstvo-idw-anonsirovalo-dva-neozhidannyh-krossovera",
   "archived": "https://web.archive.org/web/20260121013950/http://spidermedia.ru/news/izdatelstvo-idw-anonsirovalo-dva-neozhidannyh-krossovera",
@@ -9,6 +9,12 @@
     "san-diego-comic-con-international",
     "idw-publishing",
     "boom-studios"
+  ],
+  "cover": "https://web.archive.org/web/20180205063943im_/http://spidermedia.ru/assets/images/import_image/7935.jpg",
+  "modx_id": 7935,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

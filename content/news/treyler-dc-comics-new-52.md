@@ -1,6 +1,6 @@
 {
   "title": "Трейлер DC Comics New 52",
-  "date": "2011-08-17T13:20:00+03:00",
+  "date": "2011-08-17T12:20:49+03:00",
   "url": "/news/treyler-dc-comics-new-52/",
   "original_url": "http://spidermedia.ru/news/treyler-dc-comics-new-52",
   "archived": "https://web.archive.org/web/20251115035625/http://spidermedia.ru/news/treyler-dc-comics-new-52",
@@ -8,6 +8,12 @@
     "trejlery",
     "motion-comics",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20251115035625im_/http://spidermedia.ru/assets/images/import_image/6567.jpg",
+  "modx_id": 6567,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Цап-царап",
-  "date": "2010-09-14T12:11:00+03:00",
+  "date": "2010-09-14T11:11:05+03:00",
   "url": "/news/cap-carap/",
   "original_url": "https://spidermedia.ru/news/cap-carap",
   "archived": "https://web.archive.org/web/20250806093313/https://spidermedia.ru/news/cap-carap",
@@ -9,6 +9,12 @@
     "dzhonatan-mejberri",
     "dzhanluka-gulotta",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20250806093313im_/http://spidermedia.ru/assets/images/import_image/2909.jpg",
+  "modx_id": 2909,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -8,6 +8,12 @@
     "daniel-clowes",
     "drawn-and-quarterly"
   ],
+  "cover": "https://web.archive.org/web/20250210033727im_/http://spidermedia.ru/assets/images/movies/other/wilson/wilson.jpg",
+  "modx_id": 101401,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

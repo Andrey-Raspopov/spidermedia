@@ -1,6 +1,6 @@
 {
   "title": "Смоллвилль\\Smallville s8 ep.16 - \"Турбулентность\"\\\"Turbulence\"",
-  "date": "2009-03-25T13:35:00+03:00",
+  "date": "2009-03-25T13:35:27+03:00",
   "url": "/blog/alex/smollvill-smallville-s8-ep16-turbulentnost-turbulence/",
   "original_url": "https://spidermedia.ru/blog/alex/smollvill-smallville-s8-ep16-turbulentnost-turbulence",
   "archived": "https://web.archive.org/web/20251115033321/https://spidermedia.ru/blog/alex/smollvill-smallville-s8-ep16-turbulentnost-turbulence",
@@ -9,7 +9,14 @@
     "serialy",
     "superman",
     "smollvill",
-    "tajny-smollvillya"
+    "tajny-smollvillya",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20251115033321im_/http://spidermedia.ru/assets/images/import_image/764.png",
+  "modx_id": 764,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

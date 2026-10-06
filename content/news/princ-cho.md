@@ -1,7 +1,10 @@
 {
   "title": "Принц Чо",
-  "date": "2010-05-04T22:40:00+03:00",
+  "date": "2010-05-04T21:40:00+03:00",
   "url": "/news/princ-cho/",
+  "aliases": [
+    "/node/2369/"
+  ],
   "original_url": "https://spidermedia.ru/news/princ-cho",
   "archived": "https://web.archive.org/web/20260305234543/https://spidermedia.ru/news/princ-cho",
   "tags": [
@@ -12,7 +15,14 @@
     "prince-of-power",
     "marvel",
     "incredible-hercules",
-    "amadeus-cho"
+    "amadeus-cho",
+    "tor"
+  ],
+  "cover": "https://web.archive.org/web/20260305234543im_/http://spidermedia.ru/assets/images/import_image/2369.jpg",
+  "modx_id": 2369,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

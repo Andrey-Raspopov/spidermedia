@@ -1,12 +1,18 @@
 {
   "title": "МЖДЗ ОДИН: ВЫ КАК ХОТИТЕ, А Я КАК ХОЧУ",
-  "date": "2011-03-19T20:02:00+03:00",
+  "date": "2011-03-19T20:02:18+03:00",
   "url": "/blog/redson/mzhdz-odin-vy-kak-hotite-ya-kak-hochu/",
   "original_url": "http://spidermedia.ru/blog/redson/mzhdz-odin-vy-kak-hotite-ya-kak-hochu",
   "archived": "https://web.archive.org/web/20260209104701/http://spidermedia.ru/blog/redson/mzhdz-odin-vy-kak-hotite-ya-kak-hochu",
   "tags": [
     "mnenie",
     "mzhdz"
+  ],
+  "cover": "https://web.archive.org/web/20160428015220im_/http://spidermedia.ru/assets/images/import_image/4277.jpg",
+  "modx_id": 4277,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

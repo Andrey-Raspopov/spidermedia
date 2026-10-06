@@ -1,13 +1,20 @@
 {
   "title": "this book kills fascists",
-  "date": "2011-11-22T19:26:00+03:00",
+  "date": "2011-11-22T18:26:49+03:00",
   "url": "/blog/plane-v/book-kills-fascists/",
   "original_url": "http://spidermedia.ru/blog/plane-v/book-kills-fascists",
   "archived": "https://web.archive.org/web/20130619061430/http://spidermedia.ru/blog/plane-v/book-kills-fascists",
   "tags": [
     "invisibles",
     "say-you-want-revolution",
-    "komiksy"
+    "komiksy",
+    "say-you-want-a-revolution"
+  ],
+  "cover": "https://web.archive.org/web/20130619061430im_/http://spidermedia.ru/assets/images/import_image/6707.jpg",
+  "modx_id": 6707,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

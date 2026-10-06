@@ -1,3 +1,3 @@
 {
-  "title": "marvel zombies"
+  "title": "Марвел Зомби"
 }

@@ -1,6 +1,6 @@
 {
   "title": "Новая Бэт-семья",
-  "date": "2011-06-07T10:39:00+03:00",
+  "date": "2011-06-07T09:39:51+03:00",
   "url": "/news/novaya-bet-semya/",
   "original_url": "http://spidermedia.ru/news/novaya-bet-semya",
   "archived": "https://web.archive.org/web/20260206231256/http://spidermedia.ru/news/novaya-bet-semya",
@@ -53,6 +53,12 @@
     "david-finch",
     "birds-of-prey",
     "batman"
+  ],
+  "cover": "https://web.archive.org/web/20260206231256im_/http://spidermedia.ru/assets/images/import_image/6337.jpg",
+  "modx_id": 6337,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

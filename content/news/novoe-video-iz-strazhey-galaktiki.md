@@ -1,6 +1,6 @@
 {
   "title": "Новое видео из \"Стражей галактики\"",
-  "date": "2014-04-08T10:12:00+03:00",
+  "date": "2014-04-08T09:12:51+03:00",
   "url": "/news/novoe-video-iz-strazhey-galaktiki/",
   "original_url": "http://spidermedia.ru/news/novoe-video-iz-strazhey-galaktiki",
   "archived": "https://web.archive.org/web/20160703170818/http://spidermedia.ru/news/novoe-video-iz-strazhey-galaktiki",
@@ -8,6 +8,12 @@
     "guardians-of-the-galaxy",
     "marvel",
     "video"
+  ],
+  "cover": "https://web.archive.org/web/20150424063023im_/http://spidermedia.ru/assets/images/import_image/7705.jpg",
+  "modx_id": 7705,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -8,6 +8,12 @@
     "marvel",
     "jessica-jones-alias"
   ],
+  "cover": "https://web.archive.org/web/20251211023440im_/http://spidermedia.ru/assets/images/news/marvel/new/jessica-jones-2016.jpg",
+  "modx_id": 101259,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

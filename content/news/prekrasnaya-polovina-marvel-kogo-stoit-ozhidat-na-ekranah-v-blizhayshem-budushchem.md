@@ -1,6 +1,6 @@
 {
   "title": "Прекрасная половина Marvel. Кого стоит ожидать на экранах в ближайшем будущем?",
-  "date": "2014-01-31T04:22:00+03:00",
+  "date": "2014-01-31T03:22:44+03:00",
   "url": "/news/prekrasnaya-polovina-marvel-kogo-stoit-ozhidat-na-ekranah-v-blizhayshem-budushchem/",
   "original_url": "https://spidermedia.ru/news/prekrasnaya-polovina-marvel-kogo-stoit-ozhidat-na-ekranah-v-blizhayshem-budushchem",
   "archived": "https://web.archive.org/web/20260125131715/https://spidermedia.ru/news/prekrasnaya-polovina-marvel-kogo-stoit-ozhidat-na-ekranah-v-blizhayshem-budushchem",
@@ -14,7 +14,14 @@
     "miss-amerika",
     "she-hulk",
     "dakota-nors",
-    "marvel"
+    "marvel",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20150424102424im_/http://spidermedia.ru/assets/images/import_image/7619.jpg",
+  "modx_id": 7619,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

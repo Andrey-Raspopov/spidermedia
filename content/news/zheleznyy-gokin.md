@@ -1,13 +1,23 @@
 {
   "title": "Железный Gokin",
-  "date": "2009-05-07T22:04:00+03:00",
+  "date": "2009-05-07T21:04:25+03:00",
   "url": "/news/zheleznyy-gokin/",
+  "aliases": [
+    "/node/1124/"
+  ],
   "original_url": "http://spidermedia.ru/news/zheleznyy-gokin",
   "archived": "https://web.archive.org/web/20250325093746/http://spidermedia.ru/news/zheleznyy-gokin",
   "tags": [
     "marvel",
     "iron-man",
-    "figurki"
+    "figurki",
+    "zheleznyy-chelovek"
+  ],
+  "cover": "https://web.archive.org/web/20150424151019im_/http://spidermedia.ru/assets/images/import_image/1124.jpg",
+  "modx_id": 1124,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

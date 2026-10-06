@@ -1,6 +1,6 @@
 {
   "title": "Вспоминая старое: \"Железный Человек\"",
-  "date": "2010-04-06T23:39:00+03:00",
+  "date": "2010-04-06T22:39:15+03:00",
   "url": "/blog/ironman/vspominaya-staroe-zheleznyy-chelovek/",
   "original_url": "http://spidermedia.ru/blog/ironman/vspominaya-staroe-zheleznyy-chelovek",
   "archived": "https://web.archive.org/web/20120608070604/http://spidermedia.ru/blog/ironman/vspominaya-staroe-zheleznyy-chelovek",
@@ -13,6 +13,11 @@
     "komiksy",
     "marvel",
     "reportazh"
+  ],
+  "modx_id": 2517,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

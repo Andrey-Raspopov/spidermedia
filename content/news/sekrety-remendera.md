@@ -1,6 +1,6 @@
 {
   "title": "Секреты Ремендера",
-  "date": "2011-10-16T06:00:00+03:00",
+  "date": "2011-10-16T05:00:05+03:00",
   "url": "/news/sekrety-remendera/",
   "original_url": "https://spidermedia.ru/news/sekrety-remendera",
   "archived": "https://web.archive.org/web/20260309000422/https://spidermedia.ru/news/sekrety-remendera",
@@ -12,6 +12,12 @@
     "gabriel-hardman",
     "nycc-2011",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20260309000422im_/http://spidermedia.ru/assets/images/import_image/6650.jpg",
+  "modx_id": 6650,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

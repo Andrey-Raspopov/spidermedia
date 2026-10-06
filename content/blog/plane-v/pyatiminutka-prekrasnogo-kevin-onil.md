@@ -1,13 +1,20 @@
 {
   "title": "Пятиминутка прекрасного: Кевин О'Нил",
-  "date": "2010-10-31T22:47:00+03:00",
+  "date": "2010-10-31T22:47:11+03:00",
   "url": "/blog/plane-v/pyatiminutka-prekrasnogo-kevin-onil/",
   "original_url": "https://spidermedia.ru/blog/plane-v/pyatiminutka-prekrasnogo-kevin-onil",
   "archived": "https://web.archive.org/web/20250424190036/https://spidermedia.ru/blog/plane-v/pyatiminutka-prekrasnogo-kevin-onil",
   "tags": [
     "pyatiminutka-prekrasnogo",
     "kevin-onil",
-    "art-0"
+    "art-0",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20250424190036im_/http://spidermedia.ru/assets/images/import_image/3040.jpg",
+  "modx_id": 3040,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

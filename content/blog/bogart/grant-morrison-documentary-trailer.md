@@ -1,6 +1,6 @@
 {
   "title": "Grant Morrison Documentary Trailer",
-  "date": "2009-05-20T16:30:00+03:00",
+  "date": "2009-05-20T15:30:21+03:00",
   "url": "/blog/bogart/grant-morrison-documentary-trailer/",
   "original_url": "https://spidermedia.ru/blog/bogart/grant-morrison-documentary-trailer",
   "archived": "https://web.archive.org/web/20260214142154/https://spidermedia.ru/blog/bogart/grant-morrison-documentary-trailer",
@@ -8,6 +8,11 @@
     "avtory",
     "grant-morrison",
     "trejlery"
+  ],
+  "modx_id": 1248,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

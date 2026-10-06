@@ -1,13 +1,20 @@
 {
   "title": "Эдвин Джарвис появится в «Агенте Картер»",
-  "date": "2014-09-17T14:37:00+03:00",
+  "date": "2014-09-17T13:37:47+03:00",
   "url": "/news/edvin-dzharvis-poyavitsya-v-agente-karter/",
   "original_url": "http://spidermedia.ru/news/edvin-dzharvis-poyavitsya-v-agente-karter",
   "archived": "https://web.archive.org/web/20250519172907/http://spidermedia.ru/news/edvin-dzharvis-poyavitsya-v-agente-karter",
   "tags": [
     "agent-karter",
     "kasting",
-    "serialy"
+    "serialy",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20250519172907im_/http://spidermedia.ru/assets/images/import_image/8070.jpg",
+  "modx_id": 8070,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

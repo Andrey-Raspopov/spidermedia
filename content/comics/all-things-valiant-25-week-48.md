@@ -5,17 +5,22 @@
   "original_url": "https://spidermedia.ru/comics/all-things-valiant-25-week-48",
   "archived": "https://web.archive.org/web/20260125065329/https://spidermedia.ru/comics/all-things-valiant-25-week-48",
   "tags": [
-    "valiant-entertainment"
+    "valiant-entertainment",
+    "all-things-valiant"
+  ],
+  "cover": "https://web.archive.org/web/20160612021925im_/http://spidermedia.ru/assets/images/valiant/images/atv25/atv-25.jpg",
+  "modx_id": 100731,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](https://web.archive.org/web/20160611205848im_/http://spidermedia.ru/assets/cache/images/valiant/images/atv25/622x-atv-25.2e9.jpg)](https://web.archive.org/web/20160612021925im_/http://spidermedia.ru/assets/images/valiant/images/atv25/atv-25.jpg)
-
 Вот и наступила зима. Кругом лежит снег, температура продолжает понижаться, любимые сериалы начинают уходить на перерывы. И где-то там маячит Новый год. Наши издатели стараются изо всех сил, чтобы не оставить нас без подарков: Блэксэд, Сказки, Я убиваю великанов и Флэш. А что бы хотели получить вы?
 
-**[Новости](./#news) **• [Рецензии](./#reviews)****
+**[Новости](#news) **• [Рецензии](#reviews)****
 
 В этом выпуске: поем «Правь, Британия!», бразильские страсти на границе пространства и времени, и Арик из Дакии – [Железный миротворец](http://www.world-art.ru/animation/animation.php?id=2457). А также [Bloodshot Reborn: Большой, длинный, необрезанный](http://www.imdb.com/title/tt0158983/).
 
@@ -30,20 +35,70 @@
 
 А 24 февраля выйдет первый комикс Valiant режиссерской версии – опять же Bloodshot Reborn: The Analog Man – Director’s Cut #1. Это будет номер увеличенного формата, проиллюстрированный только карандашным рисунком Левиса ЛаРоса и содержащим полный сценарий Джеффа Лемира.
 
-[![](https://web.archive.org/web/20160611215127im_/http://spidermedia.ru/assets/cache/preview/100731/valiant/images/atv25/309x475-atv-25-news-bloodshot-reborn-1.cd6.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv25/atv-25-news-bloodshot-reborn-1.jpg)[![](https://web.archive.org/web/20160611210544im_/http://spidermedia.ru/assets/cache/preview/100731/valiant/images/atv25/306x475-atv-25-news-bloodshot-reborn-2.3da.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv25/atv-25-news-bloodshot-reborn-2.jpg)
+![](https://web.archive.org/web/20260125065329im_/http://spidermedia.ru/assets/images/valiant/images/atv25/atv-25-news-bloodshot-reborn-1.jpg)![](https://web.archive.org/web/20260125065329im_/http://spidermedia.ru/assets/images/valiant/images/atv25/atv-25-news-bloodshot-reborn-2.jpg)
 
 #### Valiant теперь и на hoopla digital
 [Роман Valiant Entertainment с библиотеками](../all-things-valiant-week-27/#news) продолжается. В этот раз hoopla digital, услуги онлайн доступа к публичным библиотекам Северной Америки, сообщили, что включат в свое раздел комиксов [продукцию Valiant](https://www.hoopladigital.com/collections/1124). Теперь доступ к комиксам издательства будет у всех держателей карточек библиотек, поддерживающих этот сервис.
 
-[![](https://web.archive.org/web/20160611222852im_/http://spidermedia.ru/assets/cache/preview/100731/valiant/images/atv25/622x805-atv-25-news-hoopla-valiant.13f.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv25/atv-25-news-hoopla-valiant.jpg)
+![](https://web.archive.org/web/20260125065329im_/http://spidermedia.ru/assets/images/valiant/images/atv25/atv-25-news-hoopla-valiant.jpg)
 
 #### Новый комикс от Valiant
 Как [сообщает](http://www.bleedingcool.com/2015/11/27/britannia-a-brand-new-comic-from-valiant-for-2016/) портал Bleeding Cool, Динеш Шамдасани, глава издательства Valiant, в [очередном выпуске](http://www.podcasts.com/valiant-central-podcast-8c0d684f1/episode/Ep-46-Valiant-CEO-Dinesh-Shamdasani-be36) Valiant Central Podcast анонсировал выход в 2016 году комикса c абсолютно новым персонажем под названием «Britannia». Британия – это женская персонификация Великобритании, богиня вооруженная трезубцем и щитом, облаченная в коринфский шлем. Не это ли тот самый [комикс с женским протагонистом](../all-things-valiant-16-week-39/#thoughts), о котором ходили слухи?
 
-[![](https://web.archive.org/web/20160611221402im_/http://spidermedia.ru/assets/cache/preview/100731/valiant/images/atv25/622x759-britannia-01.2c0.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv25/britannia-01.jpg)*Изображение не офицальное*
+![](https://web.archive.org/web/20260125065329im_/http://spidermedia.ru/assets/images/valiant/images/atv25/britannia-01.jpg)*Изображение не офицальное*
 
 ---
 
 **ЧТО МЫ ПРОЧИТАЛИ**
 
 ---
+
+a:2:{i:1;a:7:{s:5:"autor";a:3:{i:1;a:2:{i:0;s:16:"Сценарий";i:1;s:26:"Фред Ван Ленте";}i:3;a:2:{i:0;s:14:"Рисунок";i:1;s:19:"Пере Перез";}i:5;a:2:{i:0;s:8:"Цвет";i:1;s:25:"Эндрю Долхауз";}}s:4:"name";s:16:"IVAR, TIMEWALKER";s:7:"edition";s:3:"#11";s:5:"cover";s:63:"assets/images/valiant/images/atv25/ivar-timewalker-11-cover.jpg";s:9:"publisher";s:4:"1249";s:4:"year";s:4:"2015";s:8:"comments";a:1:{i:1;a:4:{s:5:"autor";s:6:"183732";s:4:"text";s:6638:"
+
+За что мы любим «[Волчицу и пряности](https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%BB%D1%87%D0%B8%D1%86%D0%B0_%D0%B8_%D0%BF%D1%80%D1%8F%D0%BD%D0%BE%D1%81%D1%82%D0%B8)»? Безусловно за Холо (Хоро, если хотите), но не только. Лучшее в ранобе-аниме-манге это отношения между главными героями, балансирующие на границе романтики и делового партнерства. Вот и Ivar, Timewalker подкупает чем-то подобным. Но там, где японские авторы лишь намекают, американцы пускаются [во все тяжкие](http://spidermedia.ru/assets/images/valiant/files/atv25/ivar-timewalker-11-a01.jpg). Да, это определенно одна из самых изобретательных постельных сцен в комиксах.
+
+![](https://web.archive.org/web/20260125065329im_/http://spidermedia.ru/assets/images/valiant/images/atv25/ivar-timewalker-11-001.jpg)
+
+*Блин, а у меня в детстве был только [такой](http://spidermedia.ru/assets/images/valiant/files/atv25/ivar-timewalker-11-a02.jpg)*
+
+Сбежав от динозавров-римлян (а вы думали, что только в [The Midas Flesh](../../news/all-new-mzhdz-zolotye-kupola/#midas) доисторические ящеры носят одежду?), Ниила и Ивар оказываются в пространстве между альтернативными вселенными. Здесь они могут спокойно поговорить, прояснить отношения. И Ниила наконец осознает, что надлежит сделать, чтобы остановить злую версию самой себя.
+
+Сюжет в этом номере не главное, тут его практически нет (чем комиксы Valiant последнее время очень сильно грешат), исключение составляет лишь небольшой эпизод, подводящий к финальной битве. Основное внимание уделяется развитию персонажей, которое происходит посредством диалога героев.
+
+Ниила понимает, что попытки изменить прошлое ни к чему хорошему не приводят (те же чувства были у меня после игры в «Life is Strange»). Каждая прожитая минута ценна и прекрасна по-своему, и нет нужды отравлять ее грустью или сожалениями. Именно это знание дает ей силы совершить [необходимое](http://spidermedia.ru/assets/images/valiant/files/atv25/ivar-timewalker-11-a03.jpg). Признайтесь, мы же все понимали, что именно этим все и закончится. Но Фред Ван Ленте ломает привычный сюжетный ход последней страницей комикса. Ниила своим поступком ничего не исправила, а лишь прошла тем же путем, что и Госпожа.
+
+![](https://web.archive.org/web/20260125065329im_/http://spidermedia.ru/assets/images/valiant/images/atv25/ivar-timewalker-11-002.jpg)
+
+*Отсылка к «Звездным войнам» — есть*
+
+Что же до Ивара, то и он получает развитие. Поступок Ниилы делает его эмоционально взрослее: немного сбивает спесь, подстегивает его разум к решению проблемы и придает решимости к битве с главной злодейкой.
+
+Чтобы выпуск не смотрелся чересчур драматично, сценарист разбавляет его юмором — альтернативными версиями главных героев. Их представлено много, так что какая-нибудь вас точно рассмешит. Мне особенно приглянулась вот [эта](http://spidermedia.ru/assets/images/valiant/files/atv25/ivar-timewalker-11-a04.jpg).
+
+Пере Перез в этом номере мастерски [играет с раскадровкой](http://spidermedia.ru/assets/images/valiant/files/atv25/ivar-timewalker-11-a05.jpg). Нечто похожее [проделывал](http://spidermedia.ru/assets/images/valiant/files/atv25/ivar-timewalker-11-a06.jpg) Джейми Маккелви в Young Avengers. И конечно, художник радует нас разнообразными Ниилами и Иварами. Но покраска Эндрю Долхауза, из-за которой персонажи напоминают восковые фигуры, сильно портит впечатление.
+
+В каждой истории есть такой момент, когда все замирает перед финалом. Ivar, Timewalker #11 яркий тому пример. Сюжет ставится на паузу, чтобы герои могли осознать важные для себя вещи и подготовиться к развязке. Ван Ленте и Перез могли спустить все на тормозах и состряпать обычный проходной выпуск, но авторы проявили изобретательность (художник в большей степени). А за это можно слегка «подтянуть» оценку.
+
+P.S. [Это](http://spidermedia.ru/assets/images/valiant/files/atv25/ivar-timewalker-11-a07.jpg), оказывается, женщина.
+
+";s:8:"mjdzText";s:0:"";s:10:"conclusion";s:10:"ДОБРО";}}}i:2;a:7:{s:5:"autor";a:3:{i:1;a:2:{i:0;s:16:"Сценарий";i:1;s:29:"Роберт Вендитти";}i:3;a:2:{i:0;s:14:"Рисунок";i:1;s:25:"Рафа Сандовал";}i:5;a:2:{i:0;s:8:"Цвет";i:1;s:27:"Улисес Арреола";}}s:4:"name";s:11:"X-O MANOWAR";s:7:"edition";s:3:"#42";s:5:"cover";s:59:"assets/images/valiant/images/atv25/x-o-manowar-42-cover.jpg";s:9:"publisher";s:4:"1249";s:4:"year";s:4:"2015";s:8:"comments";a:1:{i:1;a:4:{s:5:"autor";s:6:"183731";s:4:"text";s:6244:"
+
+Проблема комиксов Роберта Вендитти в том, что они одноразовые, выпадающие из памяти сразу же после прочтения не только у читателя, но и у самого сценариста. Например, в какой-то пыльный угол забилась сюжетная линия с конфликтом бывших рабов-Вестготов и их хозяев. С 39 номера о ней и не вспоминали, хотя [обложка 40](http://spidermedia.ru/assets/images/valiant/files/atv25/x-o-manowar-42-example-1.jpg) обещала нырнуть в нее с головой.
+
+![](https://web.archive.org/web/20260125065329im_/http://spidermedia.ru/assets/images/valiant/images/atv25/x-o-manowar-42-image-1.jpg)![](https://web.archive.org/web/20260125065329im_/http://spidermedia.ru/assets/images/valiant/images/atv25/x-o-manowar-42-image-2.jpg)
+
+А в этом выпуске есть только закрытие основной сюжетной линии, но нет развития персонажей. Последнее может показаться странным, т.к. Вендитти тратит много страниц на явное углубление образа Арика, которое, увы, никуда не ведет. Остальные персонажи если не куют сюжет (Саана), то просто кричат (полковник Капшоу, Трилл). Единственный, кто получил чуть больше глубины, – это Верховный жрец, который где-то между экспозицией и рекапом позволил себе разнообразную (для этого комикса) гамму чувств.
+
+Большая часть номера тратится на разрешение конфликта, который сценарист планомерно разжигал на протяжении предыдущих номеров. Конфликта настолько глобального, что с ним невозможно справиться стандартной тактикой Арика: быть бэдассом и набить всем морды. Вендитти предложил интересный вариант противостояния, в котором Х-О не может выбрать сторону, т.к. он лоялен к обеим противоборствующим фракциям. Казалось бы, такой концепт позволяет раскрыться герою с неожиданной стороны. Вот только совет умирающего жреца «будь самим собой» и разрешение конфликта благодаря бэдассности Арика сложно назвать тонким психологическим исследованием глубин персонажа.
+
+Удивительно, но уже [вторую неделю подряд](../all-things-valiant-24-week-47/#item3) комиксы Роберта проседают в одном из ключевых элементов супергероического жанра – экшене. В этот раз за него отвечает «перестрелка» между самолетами и НЛО. Но т.к. лица пилотов, их ненависть и героизм, нам не видны, то и сопереживать нарисованному «World of Warplanes» сложно. Здорово этому мешает и почти идентичный дизайн военно-воздушных сил землян и Vine.
+
+![](https://web.archive.org/web/20260125065329im_/http://spidermedia.ru/assets/images/valiant/images/atv25/x-o-manowar-42-image-3.jpg)
+
+А в остальном Рафа Сандовал очень даже хорош. Но больше всего, в этот раз, подкупает его игра с раскадровкой: во время экшена – это ломанное расположение фреймов, подчеркивающих динамизм сцены, во время диалогов – строгие широкоформатные кадры. Единственная проблема – постоянные лучи энергии исходящие из брони, которые иногда отращивают Арику [рога](http://spidermedia.ru/assets/images/valiant/files/atv25/x-o-manowar-42-example-2.jpg), но чаще его [взрывают](http://spidermedia.ru/assets/images/valiant/files/atv25/x-o-manowar-42-example-3.jpg).
+
+Цвета Улисеса Арреола насыщенные, но приглушенные, отлично дополняют своим лоском глянцевый стиль художника. Да, он выдерживает цветовую целостность страницы даже в [особо тяжких случаях](http://spidermedia.ru/assets/images/valiant/files/atv25/x-o-manowar-42-example-4.jpg), но его ветреность в покраске раздражает. Очевидный пример последней в непостоянстве цвета доспеха Х-О (то его шлем [голубой](http://spidermedia.ru/assets/images/valiant/files/atv25/x-o-manowar-42-example-5.jpg), то [синий](http://spidermedia.ru/assets/images/valiant/files/atv25/x-o-manowar-42-example-6.jpg)). Не исключено, что это проблема цифрового издания, но это сильно отвлекает.
+
+В очередной раз Вендитти растянул сюжет двух номеров на четыре выпуска, нового ничего не сказал, да и не собирался. Но самое большое преступление комикса – мизерное «экранное время» у [Жаклин](http://spidermedia.ru/assets/images/valiant/files/atv25/x-o-manowar-42-example-7.jpg). За это
+
+";s:8:"mjdzText";s:0:"";s:10:"conclusion";s:8:"ЖИЖА";}}}}

@@ -1,12 +1,17 @@
 {
   "title": "Winnie F*ckin' Pooh",
-  "date": "2009-09-15T15:58:00+03:00",
+  "date": "2009-09-15T14:58:12+03:00",
   "url": "/blog/sterpazook/winnie-fckin-pooh/",
   "original_url": "https://spidermedia.ru/blog/sterpazook/winnie-fckin-pooh",
   "archived": "https://web.archive.org/web/20251207005612/https://spidermedia.ru/blog/sterpazook/winnie-fckin-pooh",
   "tags": [
     "yumor",
     "animaciya"
+  ],
+  "modx_id": 1894,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

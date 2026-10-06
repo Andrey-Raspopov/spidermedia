@@ -1,6 +1,6 @@
 {
   "title": "ТВ-споты \"Мстителей\" (обновляется)",
-  "date": "2012-04-28T10:00:00+03:00",
+  "date": "2012-04-28T09:00:39+03:00",
   "url": "/news/tv-spot-mstiteley/",
   "original_url": "http://spidermedia.ru/news/tv-spot-mstiteley",
   "archived": "https://web.archive.org/web/20240614185345/http://spidermedia.ru/news/tv-spot-mstiteley",
@@ -8,6 +8,12 @@
     "trejlery",
     "marvel",
     "avengers"
+  ],
+  "cover": "https://web.archive.org/web/20240614185345im_/http://spidermedia.ru/assets/images/import_image/6852.jpg",
+  "modx_id": 6852,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

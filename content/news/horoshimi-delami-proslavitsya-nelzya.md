@@ -1,6 +1,6 @@
 {
   "title": "Хорошими делами прославиться нельзя",
-  "date": "2011-07-22T17:59:00+03:00",
+  "date": "2011-07-22T16:59:21+03:00",
   "url": "/news/horoshimi-delami-proslavitsya-nelzya/",
   "original_url": "http://spidermedia.ru/news/horoshimi-delami-proslavitsya-nelzya",
   "archived": "https://web.archive.org/web/20120607112811/http://spidermedia.ru/news/horoshimi-delami-proslavitsya-nelzya",
@@ -13,7 +13,16 @@
     "komiksy",
     "marvel",
     "renato-arlem",
-    "endi-lenning"
+    "endi-lenning",
+    "geroi-po-najmu",
+    "heroes-for-hire",
+    "san-diego-comic-con-international"
+  ],
+  "cover": "https://web.archive.org/web/20120607112811im_/http://spidermedia.ru/assets/images/import_image/6512.jpg",
+  "modx_id": 6512,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

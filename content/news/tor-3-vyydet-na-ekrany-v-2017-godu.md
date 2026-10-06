@@ -1,12 +1,19 @@
 {
   "title": "«Тор 3» выйдет на экраны в 2017 году",
-  "date": "2014-10-27T23:02:00+03:00",
+  "date": "2014-10-27T23:02:19+03:00",
   "url": "/news/tor-3-vyydet-na-ekrany-v-2017-godu/",
   "original_url": "http://spidermedia.ru/news/tor-3-vyydet-na-ekrany-v-2017-godu",
   "archived": "https://web.archive.org/web/20251206043445/http://spidermedia.ru/news/tor-3-vyydet-na-ekrany-v-2017-godu",
   "tags": [
     "thor",
-    "marvel"
+    "marvel",
+    "tor"
+  ],
+  "cover": "https://web.archive.org/web/20251206043445im_/http://spidermedia.ru/assets/images/import_image/8230.jpg",
+  "modx_id": 8230,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

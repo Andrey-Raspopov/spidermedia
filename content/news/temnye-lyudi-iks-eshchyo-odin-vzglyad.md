@@ -1,7 +1,10 @@
 {
   "title": "Темные Люди Икс - ещё один взгляд",
-  "date": "2009-04-18T00:28:00+03:00",
+  "date": "2009-04-17T23:28:03+03:00",
   "url": "/news/temnye-lyudi-iks-eshchyo-odin-vzglyad/",
+  "aliases": [
+    "/node/958/"
+  ],
   "original_url": "http://spidermedia.ru/news/temnye-lyudi-iks-eshchyo-odin-vzglyad",
   "archived": "https://web.archive.org/web/20120607175558/http://spidermedia.ru/news/temnye-lyudi-iks-eshchyo-odin-vzglyad",
   "tags": [
@@ -15,15 +18,22 @@
     "marvel",
     "mstiteli",
     "tyomnye-mstiteli",
-    "ugadayka"
+    "ugadayka",
+    "ugadajka"
+  ],
+  "cover": "https://web.archive.org/web/20120607175558im_/http://spidermedia.ru/assets/images/import_image/958.jpg",
+  "modx_id": 958,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }
 
-]]>[![](https://web.archive.org/web/20120607175558im_/http://images.comicbookresources.com/previews/marvelcomics/xmen/xposition/DRKXMEN001cov_sm.jpg)](http://images.comicbookresources.com/previews/marvelcomics/xmen/xposition/DRKXMEN001cov.jpg)]]>Мы уже [писали](../../node/559/) о кроссовере между **Людьми Икс** *(X-Men)* и **Тёмными Мстителями** *(Dark Avengers)*. Сейчас этот кроссовер уже получил официальное название **Dark Avengers/Uncanny X-Men: Utopia**. Так что именно об этом кроссовере рассказывал сценарист **Uncanny X-men** - **Мэтт Фракшен** *(Matt Fraction)*, когда [говорил](../../node/924/) о последствиях арка ***Sisterhood*** в жизни **Людей Икс**. Поэтому не будем ходить вокруг да около, а постараемся собрать всю имеющуюся на данный момент информацию о событии воедино!
+]]>[![](https://web.archive.org/web/20120607175558im_/http://images.comicbookresources.com/previews/marvelcomics/xmen/xposition/DRKXMEN001cov_sm.jpg)](http://images.comicbookresources.com/previews/marvelcomics/xmen/xposition/DRKXMEN001cov.jpg)]]>Мы уже [писали](../temnyy-i-unikalnyy-krossover09/) о кроссовере между **Людьми Икс** *(X-Men)* и **Тёмными Мстителями** *(Dark Avengers)*. Сейчас этот кроссовер уже получил официальное название **Dark Avengers/Uncanny X-Men: Utopia**. Так что именно об этом кроссовере рассказывал сценарист **Uncanny X-men** - **Мэтт Фракшен** *(Matt Fraction)*, когда [говорил](../sisterhood-poslednyaya-x-ideya-brubeykera/) о последствиях арка ***Sisterhood*** в жизни **Людей Икс**. Поэтому не будем ходить вокруг да около, а постараемся собрать всю имеющуюся на данный момент информацию о событии воедино!
 
-Что мы знаем? Мы знаем, что кроссовер начнется с того, что в **Сан-Франциско** начнутся бунты мутантов *(и, возможно, бывших мутантов)*, что приведет к введению **Норманом Озборном** *(Norman Osborn)* военного положения в городе и прибытию **Тёмных Мстителей**. Так же мы знаем, что серии о **Тёмных Людях Икс** *(Dark X-Men)* не будет, а показанный ранее [тизер](../../node/840/) - ничто иное как одна из обложек кроссовера. Тем не менее, слева вы видите обложку **Dark X-Men: The Beginning #1**, что вполне может указывать на one-shot, посвященный **Dark X-Men**. Ну а может и нет - время покажет!
+Что мы знаем? Мы знаем, что кроссовер начнется с того, что в **Сан-Франциско** начнутся бунты мутантов *(и, возможно, бывших мутантов)*, что приведет к введению **Норманом Озборном** *(Norman Osborn)* военного положения в городе и прибытию **Тёмных Мстителей**. Так же мы знаем, что серии о **Тёмных Людях Икс** *(Dark X-Men)* не будет, а показанный ранее [тизер](../temnye-mutanty-uzhe-blizko/) - ничто иное как одна из обложек кроссовера. Тем не менее, слева вы видите обложку **Dark X-Men: The Beginning #1**, что вполне может указывать на one-shot, посвященный **Dark X-Men**. Ну а может и нет - время покажет!
 
 Сейчас сложно судить о том, какая судьба ожидает команду **Циклопа** *(Cyclops)*, но можно c уверенностью сказать, что ничего радужного. Автор кроссовера **Мэтт Фракшен**, рассказывая о первом столкновении **Людей Икс** и **Темных Мстителей**, делает акцент на то, что у мутантов нет ни единого шанса, ведь на стороне **Нормана** сразу три сильнейших героя **Вселенной Марвел** - **Арес** *(Ares)*, **Сентри** *(Sentry*) и **Марвел Бой** *(Marvel Boy)*.
 

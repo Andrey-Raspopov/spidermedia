@@ -9,6 +9,12 @@
     "russian-comics",
     "imho"
   ],
+  "cover": "https://web.archive.org/web/20160611143702im_/http://spidermedia.ru/assets/images/imho/industry/plakat-bubble.jpg",
+  "modx_id": 100728,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

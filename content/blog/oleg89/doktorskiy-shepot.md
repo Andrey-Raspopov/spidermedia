@@ -1,13 +1,22 @@
 {
   "title": "Докторский шепот",
-  "date": "2009-02-01T15:57:00+03:00",
+  "date": "2009-02-01T15:57:24+03:00",
   "url": "/blog/oleg89/doktorskiy-shepot/",
+  "aliases": [
+    "/node/72/"
+  ],
   "original_url": "http://spidermedia.ru/blog/oleg89/doktorskiy-shepot",
   "archived": "https://web.archive.org/web/20260120234625/http://spidermedia.ru/blog/oleg89/doktorskiy-shepot",
   "tags": [
     "ben-templsmit",
     "idw-publishing",
     "doctor-who"
+  ],
+  "cover": "https://web.archive.org/web/20150423115042im_/http://spidermedia.ru/assets/images/import_image/72.jpg",
+  "modx_id": 72,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "Взлеты и падения Зеленой Стрелы",
-  "date": "2009-12-12T16:54:00+03:00",
+  "date": "2009-12-12T16:54:15+03:00",
   "url": "/news/vzlety-i-padeniya-zelenoy-strely/",
+  "aliases": [
+    "/node/2165/"
+  ],
   "original_url": "http://spidermedia.ru/news/vzlety-i-padeniya-zelenoy-strely",
   "archived": "https://web.archive.org/web/20250424100026/http://spidermedia.ru/news/vzlety-i-padeniya-zelenoy-strely",
   "tags": [
@@ -12,6 +15,12 @@
     "arsenal",
     "green-arrow",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150315210246im_/http://spidermedia.ru/assets/images/ecahznqzhc4.jpg",
+  "modx_id": 2165,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

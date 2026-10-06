@@ -1,7 +1,10 @@
 {
   "title": "SDCC'09 - Marvel Anim?",
-  "date": "2009-07-25T13:17:00+03:00",
+  "date": "2009-07-25T12:17:51+03:00",
   "url": "/blog/ironman/sdcc09-marvel-anime/",
+  "aliases": [
+    "/node/1654/"
+  ],
   "original_url": "http://spidermedia.ru/blog/ironman/sdcc09-marvel-anime",
   "archived": "https://web.archive.org/web/20260306000156/http://spidermedia.ru/blog/ironman/sdcc09-marvel-anime",
   "tags": [
@@ -10,7 +13,13 @@
     "animaciya",
     "wolverine",
     "marvel",
-    "iron-man"
+    "iron-man",
+    "zheleznyy-chelovek"
+  ],
+  "modx_id": 1654,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

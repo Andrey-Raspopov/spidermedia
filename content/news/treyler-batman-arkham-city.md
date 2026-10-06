@@ -1,6 +1,6 @@
 {
   "title": "Трейлер Batman: Arkham City",
-  "date": "2011-03-15T23:34:00+03:00",
+  "date": "2011-03-15T23:34:03+03:00",
   "url": "/news/treyler-batman-arkham-city/",
   "original_url": "https://spidermedia.ru/news/treyler-batman-arkham-city",
   "archived": "https://web.archive.org/web/20260211191910/https://spidermedia.ru/news/treyler-batman-arkham-city",
@@ -8,6 +8,12 @@
     "igry",
     "batman",
     "arkham-asylum"
+  ],
+  "cover": "https://web.archive.org/web/20150424110616im_/http://spidermedia.ru/assets/images/import_image/4175.jpg",
+  "modx_id": 4175,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

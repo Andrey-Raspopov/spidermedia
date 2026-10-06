@@ -7,6 +7,12 @@
   "tags": [
     "dark-horse"
   ],
+  "cover": "https://web.archive.org/web/20160611145648im_/http://spidermedia.ru/assets/images/news/dark-horse/dark-horse-day/snimok-ekrana-2016-02-19-v-10.59.30.png",
+  "modx_id": 100929,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

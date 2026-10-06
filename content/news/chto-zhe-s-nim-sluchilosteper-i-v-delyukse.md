@@ -1,7 +1,10 @@
 {
   "title": "Что же с ним случилось...теперь и в делюксе",
-  "date": "2009-04-22T17:32:00+03:00",
+  "date": "2009-04-22T16:32:38+03:00",
   "url": "/news/chto-zhe-s-nim-sluchilosteper-i-v-delyukse/",
+  "aliases": [
+    "/node/1029/"
+  ],
   "original_url": "http://spidermedia.ru/news/chto-zhe-s-nim-sluchilosteper-i-v-delyukse",
   "archived": "https://web.archive.org/web/20251107004434/http://spidermedia.ru/news/chto-zhe-s-nim-sluchilosteper-i-v-delyukse",
   "tags": [
@@ -9,6 +12,12 @@
     "batman",
     "neil-gaiman",
     "endi-kubert"
+  ],
+  "cover": "https://web.archive.org/web/20150502183546im_/http://spidermedia.ru/assets/images/import_image/1029.jpg",
+  "modx_id": 1029,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

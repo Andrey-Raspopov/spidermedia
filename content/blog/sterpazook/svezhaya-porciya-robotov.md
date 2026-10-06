@@ -1,6 +1,6 @@
 {
   "title": "Свежая порция роботов",
-  "date": "2011-03-30T13:06:00+03:00",
+  "date": "2011-03-30T12:06:26+03:00",
   "url": "/blog/sterpazook/svezhaya-porciya-robotov/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/svezhaya-porciya-robotov",
   "archived": "https://web.archive.org/web/20241212162730/http://spidermedia.ru/blog/sterpazook/svezhaya-porciya-robotov",
@@ -9,6 +9,12 @@
     "robots",
     "nauka",
     "science"
+  ],
+  "cover": "https://web.archive.org/web/20241212162730im_/http://spidermedia.ru/assets/images/import_image/4561.jpg",
+  "modx_id": 4561,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -4,6 +4,9 @@
   "url": "/docs/humor/sterpazook/termin/",
   "original_url": "http://spidermedia.ru/docs/humor/sterpazook/termin.html",
   "archived": "https://web.archive.org/web/20051201122814/http://spidermedia.ru:80/docs/humor/sterpazook/termin.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

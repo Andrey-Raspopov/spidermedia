@@ -1,7 +1,10 @@
 {
   "title": "Ядовитая женщина",
-  "date": "2009-05-23T09:02:00+03:00",
+  "date": "2009-05-23T08:02:21+03:00",
   "url": "/news/yadovitaya-zhenshchina/",
+  "aliases": [
+    "/node/1263/"
+  ],
   "original_url": "http://spidermedia.ru/news/yadovitaya-zhenshchina",
   "archived": "https://web.archive.org/web/20260209123340/http://spidermedia.ru/news/yadovitaya-zhenshchina",
   "tags": [
@@ -10,6 +13,12 @@
     "igry",
     "arkham-asylum",
     "poison-ivy"
+  ],
+  "cover": "https://web.archive.org/web/20260209123340im_/http://spidermedia.ru/assets/images/import_image/1263.jpg",
+  "modx_id": 1263,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

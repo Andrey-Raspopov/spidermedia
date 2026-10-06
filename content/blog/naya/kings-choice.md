@@ -1,11 +1,17 @@
 {
   "title": "The King's Choice",
-  "date": "2009-03-08T19:39:00+03:00",
+  "date": "2009-03-08T19:39:38+03:00",
   "url": "/blog/naya/kings-choice/",
   "original_url": "http://spidermedia.ru/blog/naya/kings-choice",
   "archived": "https://web.archive.org/web/20251206145205/http://spidermedia.ru/blog/naya/kings-choice",
   "tags": [
     "manga"
+  ],
+  "cover": "https://web.archive.org/web/20251206145205im_/http://spidermedia.ru/assets/images/import_image/627.jpg",
+  "modx_id": 627,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

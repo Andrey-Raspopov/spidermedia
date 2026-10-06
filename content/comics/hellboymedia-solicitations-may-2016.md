@@ -7,6 +7,12 @@
   "tags": [
     "hellboymedia"
   ],
+  "cover": "https://web.archive.org/web/20160611223737im_/http://spidermedia.ru/assets/images/hellboymedia/solicitations/16-05-may/may-16-solicitations-cover.jpg",
+  "modx_id": 100901,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

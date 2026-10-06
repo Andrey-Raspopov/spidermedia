@@ -10,6 +10,12 @@
     "big-hero-6",
     "disnej"
   ],
+  "cover": "https://web.archive.org/web/20160430183047im_/http://spidermedia.ru/assets/images/animation/marvel/big-hero-six/big-hero-6-movie-poster-widescreen-high-definition-wallpaper-download-big-hero-6-images-free.jpg",
+  "modx_id": 100968,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

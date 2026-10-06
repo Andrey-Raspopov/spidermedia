@@ -1,13 +1,20 @@
 {
   "title": "Дэвид Теннант станет противником Джессики Джонс",
-  "date": "2015-01-26T21:21:00+03:00",
+  "date": "2015-01-26T21:21:31+03:00",
   "url": "/news/devid-tennant-stanet-protivnikom-dzhessiki-dzhons/",
   "original_url": "http://spidermedia.ru/news/devid-tennant-stanet-protivnikom-dzhessiki-dzhons",
   "archived": "https://web.archive.org/web/20251213193601/http://spidermedia.ru/news/devid-tennant-stanet-protivnikom-dzhessiki-dzhons",
   "tags": [
     "serialy",
     "marvel",
-    "kasting"
+    "kasting",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20150326221035im_/http://spidermedia.ru/assets/images/import_image/8547.jpg",
+  "modx_id": 8547,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

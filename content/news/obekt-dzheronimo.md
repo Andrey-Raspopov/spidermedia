@@ -1,12 +1,19 @@
 {
   "title": "Объект Джеронимо",
-  "date": "2011-12-07T17:43:00+03:00",
+  "date": "2011-12-07T16:43:29+03:00",
   "url": "/news/obekt-dzheronimo/",
   "original_url": "https://spidermedia.ru/news/obekt-dzheronimo",
   "archived": "https://web.archive.org/web/20260209112228/https://spidermedia.ru/news/obekt-dzheronimo",
   "tags": [
     "matt-fraction",
-    "natan-foks"
+    "natan-foks",
+    "mett-frakshen"
+  ],
+  "cover": "https://web.archive.org/web/20260209112228im_/http://spidermedia.ru/assets/images/import_image/6722.jpg",
+  "modx_id": 6722,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -9,6 +9,12 @@
     "roskomnadzor",
     "russian-comics"
   ],
+  "cover": "https://web.archive.org/web/20170912005754im_/http://spidermedia.ru/assets/images/roskomnadzor/2016/2312/the-100-season-2-opening-credits.png",
+  "modx_id": 101458,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

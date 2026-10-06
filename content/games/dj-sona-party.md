@@ -4,6 +4,12 @@
   "url": "/games/dj-sona-party/",
   "original_url": "http://spidermedia.ru/games/dj-sona-party",
   "archived": "https://web.archive.org/web/20230320154040/http://spidermedia.ru/games/dj-sona-party",
+  "cover": "https://web.archive.org/web/20230320154040im_/http://spidermedia.ru/assets/images/games/dj-sona-party/001.jpg",
+  "modx_id": 100512,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

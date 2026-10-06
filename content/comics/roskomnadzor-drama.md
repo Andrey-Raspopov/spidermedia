@@ -9,6 +9,12 @@
     "roskomnadzor",
     "russian-comics"
   ],
+  "cover": "https://web.archive.org/web/20260307052654im_/http://spidermedia.ru/assets/images/roskomnadzor/2016/1811/17.jpg",
+  "modx_id": 101413,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
@@ -52,7 +58,7 @@
 
 [![](http://spidermedia.ru/assets/images/roskomnadzor/2016/1811/24.jpg)](http://spidermedia.ru/assets/images/roskomnadzor/2016/1811/24.jpg)
 
-Тем временем **XL Media** (об «Округе Хэрроу» [мы говорили](https://web.archive.org/web/20251107023646id_/https://spidermedia.ru/comics/recenziya-okrug-herrou.-kniga-1.-beschislennye-duhi) сегодня) отправила в печать еще два хоррор-тайтла: первый том **«Воскресения Рэйчел»** Терри Мура (10 выпусков в книге, размер как у «Спауна»)
+Тем временем **XL Media** (об «Округе Хэрроу» [мы говорили](../recenziya-okrug-herrou.-kniga-1.-beschislennye-duhi/) сегодня) отправила в печать еще два хоррор-тайтла: первый том **«Воскресения Рэйчел»** Терри Мура (10 выпусков в книге, размер как у «Спауна»)
 
 ![](http://spidermedia.ru/assets/images/roskomnadzor/2016/1811/9.jpg)
 

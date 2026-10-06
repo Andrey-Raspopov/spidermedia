@@ -1,7 +1,10 @@
 {
   "title": "Троица под осадой",
-  "date": "2009-10-08T22:42:00+03:00",
+  "date": "2009-10-08T21:42:06+03:00",
   "url": "/news/troica-pod-osadoy/",
+  "aliases": [
+    "/node/1973/"
+  ],
   "original_url": "https://spidermedia.ru/news/troica-pod-osadoy",
   "archived": "https://web.archive.org/web/20251206234840/https://spidermedia.ru/news/troica-pod-osadoy",
   "tags": [
@@ -12,13 +15,20 @@
     "ed-brubaker",
     "bryan-hitch",
     "marvel",
-    "preview"
+    "preview",
+    "brayan-hitch",
+    "prevyu"
+  ],
+  "modx_id": 1973,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-![FIRST LOOK: Cassaday Reborn #4 Variant](https://web.archive.org/web/20251206234840im_/http://marvel.com/i/content/st/9797header_banner4763913.jpg)Вы [уже знаете](../../node/1940/), что в декабре стартует новый ивент Marvel Comics, под названием Siege. Cовсем недавно, сценарист **Брайан Майкл Бендис** *(Brian Michael Bendis)* поделился новыми и интересными подробностями, касающиеся данного ивента:
+![FIRST LOOK: Cassaday Reborn #4 Variant](https://web.archive.org/web/20251206234840im_/http://marvel.com/i/content/st/9797header_banner4763913.jpg)Вы [уже знаете](../avengers-assemble-part-i-dekabr-2009/), что в декабре стартует новый ивент Marvel Comics, под названием Siege. Cовсем недавно, сценарист **Брайан Майкл Бендис** *(Brian Michael Bendis)* поделился новыми и интересными подробностями, касающиеся данного ивента:
 
 - В январе нас ждёт начало новой мини (4 выпуска) - Siege, которая положит конец Темному Правлению (Dark Reign) Нормана Осборна (Norman Osborn/Iron Patriot) раз и навсегда. Скорее всего, сценаристом будет сам Бендис. Художником выступит Оливер Койпель (Olivier Coipel). По словам Брайана, нас ждёт море экшена - от начала и до конца мини.
 - Данная мини также порадует читателей долгожданным возвращением оригинальной мстительской Троицы, состоящей из Капитана Америки (Steve Rogers/Captain America), Тора (Thor) и Железного Человека (Tony Stark/Iron Man).

@@ -1,6 +1,6 @@
 {
   "title": "Бесславный Магнето",
-  "date": "2011-08-13T04:54:00+03:00",
+  "date": "2011-08-13T03:54:00+03:00",
   "url": "/news/besslavnyy-magneto/",
   "original_url": "https://spidermedia.ru/news/besslavnyy-magneto",
   "archived": "https://web.archive.org/web/20260314082757/https://spidermedia.ru/news/besslavnyy-magneto",
@@ -9,6 +9,12 @@
     "marvel",
     "skotti-yang",
     "klej-mann"
+  ],
+  "cover": "https://web.archive.org/web/20260314082757im_/http://spidermedia.ru/assets/images/import_image/6562.jpg",
+  "modx_id": 6562,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

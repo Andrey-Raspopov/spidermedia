@@ -4,6 +4,12 @@
   "url": "/games/overwatch-lee-sparks-interview/",
   "original_url": "https://spidermedia.ru/games/overwatch-lee-sparks-interview",
   "archived": "https://web.archive.org/web/20200929105503/https://spidermedia.ru/games/overwatch-lee-sparks-interview",
+  "cover": "https://web.archive.org/web/20180201023304im_/http://spidermedia.ru/assets/images/games/ow.jpg",
+  "modx_id": 101178,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

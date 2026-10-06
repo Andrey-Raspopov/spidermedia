@@ -9,6 +9,12 @@
     "fanart",
     "deadpool"
   ],
+  "cover": "https://web.archive.org/web/20260211192029im_/http://spidermedia.ru/assets/images/articles/old-man-pool/preview.jpg",
+  "modx_id": 101013,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

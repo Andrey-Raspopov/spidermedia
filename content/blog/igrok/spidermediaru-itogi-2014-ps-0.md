@@ -1,11 +1,17 @@
 {
   "title": "SpiderMedia.RU: Итоги 2014 P.S.",
-  "date": "2014-12-31T19:01:00+03:00",
+  "date": "2014-12-31T19:01:48+03:00",
   "url": "/blog/igrok/spidermediaru-itogi-2014-ps-0/",
   "original_url": "https://spidermedia.ru/blog/igrok/spidermediaru-itogi-2014-ps-0",
   "archived": "https://web.archive.org/web/20250114020807/https://spidermedia.ru/blog/igrok/spidermediaru-itogi-2014-ps-0",
   "tags": [
     "itogi-goda"
+  ],
+  "cover": "https://web.archive.org/web/20250114020807im_/http://spidermedia.ru/assets/images/import_image/8454.jpg",
+  "modx_id": 8454,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

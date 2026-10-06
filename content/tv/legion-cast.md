@@ -8,6 +8,12 @@
     "marvel",
     "x-men"
   ],
+  "cover": "https://web.archive.org/web/20160611145432im_/http://spidermedia.ru/assets/images/news/marvel/legion/untitled.jpg",
+  "modx_id": 100882,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

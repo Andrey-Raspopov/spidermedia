@@ -1,7 +1,10 @@
 {
   "title": "Художник сверхъестественного",
-  "date": "2009-09-15T15:04:00+03:00",
+  "date": "2009-09-15T14:04:25+03:00",
   "url": "/news/hudozhnik-sverhestestvennogo/",
+  "aliases": [
+    "/node/1649/"
+  ],
   "original_url": "http://spidermedia.ru/news/hudozhnik-sverhestestvennogo",
   "archived": "https://web.archive.org/web/20250617230823/http://spidermedia.ru/news/hudozhnik-sverhestestvennogo",
   "tags": [
@@ -9,6 +12,12 @@
     "doktor-vudu",
     "marvel",
     "doctor-voodoo"
+  ],
+  "cover": "https://web.archive.org/web/20250617230823im_/http://spidermedia.ru/assets/images/import_image/1649.jpg",
+  "modx_id": 1649,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

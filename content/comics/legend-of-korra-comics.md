@@ -6,7 +6,14 @@
   "archived": "https://web.archive.org/web/20250424093150/https://spidermedia.ru/comics/legend-of-korra-comics",
   "tags": [
     "dark-horse",
-    "san-diego-comic-con-international"
+    "san-diego-comic-con-international",
+    "sdcc2015"
+  ],
+  "cover": "https://web.archive.org/web/20160611152517im_/http://spidermedia.ru/assets/images/news/sdcc/2015/dark-horse/tumblr_nkpnavx7t61rptk5lo2_128033.jpg",
+  "modx_id": 100344,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -8,6 +8,12 @@
     "jessica-jones-alias",
     "marvel"
   ],
+  "cover": "https://web.archive.org/web/20260117212547im_/http://spidermedia.ru/assets/images/tv/marvel/aka-jessica-jones-netflix-tv-series-2015/jessica-jones-trailer-2.jpg",
+  "modx_id": 100708,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

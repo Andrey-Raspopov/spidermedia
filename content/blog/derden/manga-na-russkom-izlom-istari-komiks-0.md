@@ -1,6 +1,6 @@
 {
   "title": "Манга на русском: «Излом» (Истари комикс)",
-  "date": "2014-10-02T11:50:00+03:00",
+  "date": "2014-10-02T10:50:35+03:00",
   "url": "/blog/derden/manga-na-russkom-izlom-istari-komiks-0/",
   "original_url": "https://spidermedia.ru/blog/derden/manga-na-russkom-izlom-istari-komiks-0",
   "archived": "https://web.archive.org/web/20251216122948/https://spidermedia.ru/blog/derden/manga-na-russkom-izlom-istari-komiks-0",
@@ -11,6 +11,12 @@
     "izlom",
     "shaman-warrior",
     "dangu"
+  ],
+  "cover": "https://web.archive.org/web/20171206213954im_/http://spidermedia.ru/assets/images/import_image/8122.jpg",
+  "modx_id": 8122,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

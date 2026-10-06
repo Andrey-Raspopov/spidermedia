@@ -4,6 +4,12 @@
   "url": "/movies/recenziya-dark-phoenix/",
   "original_url": "http://spidermedia.ru/movies/recenziya-dark-phoenix",
   "archived": "https://web.archive.org/web/20251206163353/http://spidermedia.ru/movies/recenziya-dark-phoenix",
+  "cover": "https://web.archive.org/web/20251206163353im_/http://spidermedia.ru/assets/images/movies/marvel/dark-phoenix/dark-phoenix.jpg",
+  "modx_id": 102119,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

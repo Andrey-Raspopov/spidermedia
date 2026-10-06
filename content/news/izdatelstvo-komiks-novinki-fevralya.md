@@ -1,6 +1,6 @@
 {
   "title": "Издательство \"Комикс\" - новинки февраля!",
-  "date": "2011-02-08T12:00:00+03:00",
+  "date": "2011-02-08T12:00:38+03:00",
   "url": "/news/izdatelstvo-komiks-novinki-fevralya/",
   "original_url": "http://spidermedia.ru/news/izdatelstvo-komiks-novinki-fevralya",
   "archived": "https://web.archive.org/web/20260125055626/http://spidermedia.ru/news/izdatelstvo-komiks-novinki-fevralya",
@@ -11,6 +11,12 @@
     "x-men-first-class",
     "spider-man",
     "avengers"
+  ],
+  "cover": "https://web.archive.org/web/20260125055626im_/http://spidermedia.ru/assets/images/import_image/3244.jpg",
+  "modx_id": 3244,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

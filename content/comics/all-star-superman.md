@@ -10,6 +10,12 @@
     "superman",
     "frenk-kuajtli"
   ],
+  "cover": "https://web.archive.org/web/20151220183055im_/http://spidermedia.ru/assets/images/articles/allstarsuperman/000-all-star-superman.jpg",
+  "modx_id": 100168,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

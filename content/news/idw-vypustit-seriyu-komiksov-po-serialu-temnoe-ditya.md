@@ -1,11 +1,17 @@
 {
   "title": "IDW выпустит серию комиксов по сериалу «Темное дитя»",
-  "date": "2014-07-23T19:25:00+03:00",
+  "date": "2014-07-23T18:25:55+03:00",
   "url": "/news/idw-vypustit-seriyu-komiksov-po-serialu-temnoe-ditya/",
   "original_url": "https://spidermedia.ru/news/idw-vypustit-seriyu-komiksov-po-serialu-temnoe-ditya",
   "archived": "https://web.archive.org/web/20260208203710/https://spidermedia.ru/news/idw-vypustit-seriyu-komiksov-po-serialu-temnoe-ditya",
   "tags": [
     "idw-publishing"
+  ],
+  "cover": "https://web.archive.org/web/20260208203710im_/http://spidermedia.ru/assets/images/import_image/7914.jpg",
+  "modx_id": 7914,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

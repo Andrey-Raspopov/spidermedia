@@ -1,6 +1,6 @@
 {
   "title": "Batman in my pocket",
-  "date": "2009-06-03T19:41:00+03:00",
+  "date": "2009-06-03T18:41:01+03:00",
   "url": "/blog/gess/batman-my-pocket/",
   "original_url": "http://spidermedia.ru/blog/gess/batman-my-pocket",
   "archived": "https://web.archive.org/web/20260211181827/http://spidermedia.ru/blog/gess/batman-my-pocket",
@@ -8,6 +8,11 @@
     "batman",
     "the-flash",
     "igry"
+  ],
+  "modx_id": 1344,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

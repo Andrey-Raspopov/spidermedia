@@ -1,6 +1,6 @@
 {
   "title": "Единство и борьба",
-  "date": "2013-08-06T05:53:00+03:00",
+  "date": "2013-08-06T04:53:07+03:00",
   "url": "/news/edinstvo-i-borba/",
   "original_url": "https://spidermedia.ru/news/edinstvo-i-borba",
   "archived": "https://web.archive.org/web/20260116205121/https://spidermedia.ru/news/edinstvo-i-borba",
@@ -9,6 +9,12 @@
     "vechnyj-voin",
     "valiant-entertainment",
     "mett-kindt"
+  ],
+  "cover": "https://web.archive.org/web/20150328214058im_/http://spidermedia.ru/assets/images/import_image/7404.jpg",
+  "modx_id": 7404,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

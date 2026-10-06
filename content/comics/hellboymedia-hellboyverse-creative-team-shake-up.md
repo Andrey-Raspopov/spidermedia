@@ -8,6 +8,12 @@
     "hellboymedia",
     "novosti"
   ],
+  "cover": "https://web.archive.org/web/20160611215622im_/http://spidermedia.ru/assets/images/hellboymedia/news/hellboyverse-creative-team-shake-up/hellboyverse-creative-team-shake-up-cover-horizontal.jpg",
+  "modx_id": 100324,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

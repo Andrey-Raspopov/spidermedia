@@ -1,7 +1,10 @@
 {
   "title": "Р-р-росомахи!",
-  "date": "2009-03-21T00:00:00+03:00",
+  "date": "2009-03-20T23:00:46+03:00",
   "url": "/news/r-r-rosomahi/",
+  "aliases": [
+    "/node/733/"
+  ],
   "original_url": "http://spidermedia.ru/news/r-r-rosomahi",
   "archived": "https://web.archive.org/web/20120607153942/http://spidermedia.ru/news/r-r-rosomahi",
   "tags": [
@@ -11,7 +14,13 @@
     "komiksy",
     "oblozhki",
     "rosomaha",
-    "skrull-kil-kryu"
+    "skrull-kil-kryu",
+    "art"
+  ],
+  "modx_id": 733,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

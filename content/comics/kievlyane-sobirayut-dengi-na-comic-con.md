@@ -4,6 +4,12 @@
   "url": "/comics/kievlyane-sobirayut-dengi-na-comic-con/",
   "original_url": "http://spidermedia.ru/comics/kievlyane-sobirayut-dengi-na-comic-con",
   "archived": "https://web.archive.org/web/20150315011943/http://spidermedia.ru/comics/kievlyane-sobirayut-dengi-na-comic-con",
+  "cover": "https://web.archive.org/web/20150315173210im_/http://spidermedia.ru/assets/images/news/solicits/random/91cfd29181d608e877674c0ba80576ce.jpg",
+  "modx_id": 100073,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

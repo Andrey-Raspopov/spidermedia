@@ -1,6 +1,6 @@
 {
   "title": "И другие",
-  "date": "2014-01-15T05:09:00+03:00",
+  "date": "2014-01-15T04:09:38+03:00",
   "url": "/news/i-drugie/",
   "original_url": "https://spidermedia.ru/news/i-drugie",
   "archived": "https://web.archive.org/web/20250618124406/https://spidermedia.ru/news/i-drugie",
@@ -17,6 +17,12 @@
     "joshua-hale-fialkov",
     "vertigo",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20160611140355im_/http://spidermedia.ru/assets/images/import_image/7596.jpg",
+  "modx_id": 7596,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

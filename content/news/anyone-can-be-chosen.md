@@ -1,7 +1,10 @@
 {
   "title": "Anyone can be chosen!",
-  "date": "2010-06-05T15:18:00+03:00",
+  "date": "2010-06-05T14:18:12+03:00",
   "url": "/news/anyone-can-be-chosen/",
+  "aliases": [
+    "/node/2656/"
+  ],
   "original_url": "http://spidermedia.ru/news/anyone-can-be-chosen",
   "archived": "https://web.archive.org/web/20120607111227/http://spidermedia.ru/news/anyone-can-be-chosen",
   "tags": [
@@ -10,6 +13,12 @@
     "warner-bros",
     "art-0",
     "zelenyy-fonar"
+  ],
+  "cover": "https://web.archive.org/web/20120607111227im_/http://spidermedia.ru/assets/images/import_image/2656.jpg",
+  "modx_id": 2656,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

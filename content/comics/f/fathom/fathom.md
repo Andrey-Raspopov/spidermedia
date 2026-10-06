@@ -4,6 +4,9 @@
   "url": "/comics/f/fathom/fathom/",
   "original_url": "http://www.spidermedia.ru/comics/f/fathom/fathom.html",
   "archived": "https://web.archive.org/web/20050307040324/http://www.spidermedia.ru:80/comics/f/fathom/fathom.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

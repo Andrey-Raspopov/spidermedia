@@ -1,13 +1,22 @@
 {
   "title": "Доктор. Доктор Сэвидж.",
-  "date": "2009-05-12T00:27:00+03:00",
+  "date": "2009-05-11T23:27:53+03:00",
   "url": "/news/doktor-doktor-sevidzh/",
+  "aliases": [
+    "/node/1118/"
+  ],
   "original_url": "http://spidermedia.ru/news/doktor-doktor-sevidzh",
   "archived": "https://web.archive.org/web/20190915022740/http://spidermedia.ru:80/news/doktor-doktor-sevidzh",
   "tags": [
     "dc-comics",
     "dok-sevidzh",
     "doc-savage"
+  ],
+  "cover": "https://web.archive.org/web/20150503073344im_/http://spidermedia.ru/assets/images/import_image/1118.jpg",
+  "modx_id": 1118,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

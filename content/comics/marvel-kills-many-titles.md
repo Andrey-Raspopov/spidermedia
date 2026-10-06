@@ -8,6 +8,12 @@
     "marvel",
     "imho"
   ],
+  "cover": "https://web.archive.org/web/20251211030431im_/http://spidermedia.ru/assets/images/news/marvel/march-cancellations/cvr.jpg",
+  "modx_id": 101772,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

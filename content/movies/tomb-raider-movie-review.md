@@ -4,6 +4,12 @@
   "url": "/movies/tomb-raider-movie-review/",
   "original_url": "http://spidermedia.ru/movies/tomb-raider-movie-review",
   "archived": "https://web.archive.org/web/20260305234351/http://spidermedia.ru/movies/tomb-raider-movie-review",
+  "cover": "https://web.archive.org/web/20260305234351im_/http://spidermedia.ru/assets/images/movies/other/lara.png",
+  "modx_id": 101862,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

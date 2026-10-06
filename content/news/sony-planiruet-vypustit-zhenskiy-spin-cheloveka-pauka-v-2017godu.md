@@ -1,12 +1,18 @@
 {
   "title": "Sony планирует выпустить «женский» спин-офф «Человека-Паука» в 2017году",
-  "date": "2014-08-05T14:21:00+03:00",
+  "date": "2014-08-05T13:21:55+03:00",
   "url": "/news/sony-planiruet-vypustit-zhenskiy-spin-cheloveka-pauka-v-2017godu/",
   "original_url": "https://spidermedia.ru/news/sony-planiruet-vypustit-zhenskiy-spin-cheloveka-pauka-v-2017godu",
   "archived": "https://web.archive.org/web/20230930104817/https://spidermedia.ru/news/sony-planiruet-vypustit-zhenskiy-spin-cheloveka-pauka-v-2017godu",
   "tags": [
     "chernaya-koshka",
     "spider-man"
+  ],
+  "cover": "https://web.archive.org/web/20160622153557im_/http://spidermedia.ru/assets/images/import_image/7963.jpg",
+  "modx_id": 7963,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,13 +1,22 @@
 {
   "title": "рецензия - The League of Extraordinary Gentlemen: Century #1 - 1910",
-  "date": "2009-05-20T11:23:00+03:00",
+  "date": "2009-05-20T10:23:24+03:00",
   "url": "/blog/bastion7/recenziya-league-extraordinary-gentlemen-century-1-1910/",
+  "aliases": [
+    "/node/1246/"
+  ],
   "original_url": "https://spidermedia.ru/blog/bastion7/recenziya-league-extraordinary-gentlemen-century-1-1910",
   "archived": "https://web.archive.org/web/20260121005238/https://spidermedia.ru/blog/bastion7/recenziya-league-extraordinary-gentlemen-century-1-1910",
   "tags": [
     "recenziya",
     "alan-mur",
     "top-shelf-productions"
+  ],
+  "cover": "https://web.archive.org/web/20260121005238im_/http://spidermedia.ru/assets/images/import_image/1246.jpg",
+  "modx_id": 1246,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

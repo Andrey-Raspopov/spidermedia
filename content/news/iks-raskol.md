@@ -1,6 +1,6 @@
 {
   "title": "Икс-Раскол",
-  "date": "2011-03-05T12:23:00+03:00",
+  "date": "2011-03-05T12:23:50+03:00",
   "url": "/news/iks-raskol/",
   "original_url": "http://spidermedia.ru/news/iks-raskol",
   "archived": "https://web.archive.org/web/20190929135135/http://spidermedia.ru:80/news/iks-raskol",
@@ -10,7 +10,15 @@
     "art-0",
     "x-men",
     "schism",
-    "marvel"
+    "marvel",
+    "art",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20190929135135im_/http://spidermedia.ru/assets/images/import_image/3908.jpg",
+  "modx_id": 3908,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

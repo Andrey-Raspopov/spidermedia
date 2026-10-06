@@ -1,7 +1,10 @@
 {
   "title": "Сумасшедший Дуэт",
-  "date": "2009-02-05T00:45:00+03:00",
+  "date": "2009-02-05T00:45:59+03:00",
   "url": "/news/sumasshedshiy-duet/",
+  "aliases": [
+    "/node/201/"
+  ],
   "original_url": "http://spidermedia.ru/news/sumasshedshiy-duet",
   "archived": "https://web.archive.org/web/20170718154524/http://spidermedia.ru:80/news/sumasshedshiy-duet",
   "tags": [
@@ -9,6 +12,12 @@
     "robert-kirkman",
     "image-comics",
     "haunt"
+  ],
+  "cover": "https://web.archive.org/web/20170718154524im_/http://spidermedia.ru/assets/images/import_image/201.jpg",
+  "modx_id": 201,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

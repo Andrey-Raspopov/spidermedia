@@ -1,6 +1,6 @@
 {
   "title": "Number ones. Иваныч, новые комиксы привезли!",
-  "date": "2012-03-16T03:18:00+03:00",
+  "date": "2012-03-16T02:18:00+03:00",
   "url": "/blog/plane-v/number-ones-ivanych-novye-komiksy-privezli/",
   "original_url": "http://spidermedia.ru/blog/plane-v/number-ones-ivanych-novye-komiksy-privezli",
   "archived": "https://web.archive.org/web/20241202114704/http://spidermedia.ru/blog/plane-v/number-ones-ivanych-novye-komiksy-privezli",
@@ -8,6 +8,12 @@
     "marvel",
     "image-comics",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150503100605im_/http://spidermedia.ru/assets/images/import_image/6834.jpg",
+  "modx_id": 6834,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -10,6 +10,12 @@
     "superman",
     "frenk-miller"
   ],
+  "cover": "https://web.archive.org/web/20230313080655im_/http://spidermedia.ru/assets/images/reviews/dc/superman/year-one/000.png",
+  "modx_id": 102311,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

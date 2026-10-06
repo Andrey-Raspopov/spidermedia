@@ -1,6 +1,6 @@
 {
   "title": "Star Trek, Doctor Who and stuff: Апрель 2010",
-  "date": "2010-01-24T23:11:00+03:00",
+  "date": "2010-01-24T23:11:28+03:00",
   "url": "/blog/oleg89/star-trek-doctor-who-and-stuff-aprel-2010/",
   "original_url": "http://spidermedia.ru/blog/oleg89/star-trek-doctor-who-and-stuff-aprel-2010",
   "archived": "https://web.archive.org/web/20251216172026/http://spidermedia.ru/blog/oleg89/star-trek-doctor-who-and-stuff-aprel-2010",
@@ -16,6 +16,12 @@
     "zvezdnyj-put",
     "terminator",
     "transformers"
+  ],
+  "cover": "https://web.archive.org/web/20150424085027im_/http://spidermedia.ru/assets/images/import_image/2304.jpg",
+  "modx_id": 2304,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

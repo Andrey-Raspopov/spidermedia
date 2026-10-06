@@ -8,6 +8,12 @@
     "dc-comics",
     "supergirl"
   ],
+  "cover": "https://web.archive.org/web/20250806092907im_/http://spidermedia.ru/assets/images/tv/dc/supergirl/supergirl-heat-vision.jpg",
+  "modx_id": 100580,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

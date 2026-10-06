@@ -1,12 +1,18 @@
 {
   "title": "Millars Per Hour",
-  "date": "2014-03-12T11:37:00+03:00",
+  "date": "2014-03-12T10:37:40+03:00",
   "url": "/news/millars-hour/",
   "original_url": "http://spidermedia.ru/news/millars-hour",
   "archived": "https://web.archive.org/web/20250715230045/http://spidermedia.ru/news/millars-hour",
   "tags": [
     "mark-millar",
     "image-comics"
+  ],
+  "cover": "https://web.archive.org/web/20250715230045im_/http://spidermedia.ru/assets/images/import_image/7683.jpg",
+  "modx_id": 7683,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

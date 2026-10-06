@@ -1,7 +1,10 @@
 {
   "title": "Смоллвилль\\Smallville s8 ep.15 - \"Знаменитость\"\\\"Infamous\"",
-  "date": "2009-03-17T09:04:00+03:00",
+  "date": "2009-03-17T09:04:58+03:00",
   "url": "/blog/alex/smollvill-smallville-s8-ep15-znamenitost-infamous/",
+  "aliases": [
+    "/node/697/"
+  ],
   "original_url": "http://spidermedia.ru/blog/alex/smollvill-smallville-s8-ep15-znamenitost-infamous",
   "archived": "https://web.archive.org/web/20250803081752/http://spidermedia.ru/blog/alex/smollvill-smallville-s8-ep15-znamenitost-infamous",
   "tags": [
@@ -9,7 +12,14 @@
     "serialy",
     "superman",
     "smollvill",
-    "tajny-smollvillya"
+    "tajny-smollvillya",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20250803081752im_/http://spidermedia.ru/assets/images/import_image/697.png",
+  "modx_id": 697,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

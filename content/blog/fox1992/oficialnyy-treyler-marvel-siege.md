@@ -1,7 +1,10 @@
 {
   "title": "Официальный трейлер Marvel - The Siege",
-  "date": "2009-11-08T21:21:00+03:00",
+  "date": "2009-11-08T21:21:35+03:00",
   "url": "/blog/fox1992/oficialnyy-treyler-marvel-siege/",
+  "aliases": [
+    "/node/2076/"
+  ],
   "original_url": "https://spidermedia.ru/blog/fox1992/oficialnyy-treyler-marvel-siege",
   "archived": "https://web.archive.org/web/20260215083730/https://spidermedia.ru/blog/fox1992/oficialnyy-treyler-marvel-siege",
   "tags": [
@@ -12,6 +15,11 @@
     "olivier-coipel",
     "brian-michael-bendis",
     "marvel"
+  ],
+  "modx_id": 2076,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

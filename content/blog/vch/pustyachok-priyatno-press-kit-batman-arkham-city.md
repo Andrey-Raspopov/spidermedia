@@ -1,6 +1,6 @@
 {
   "title": "Пустячок, а приятно - пресс-кит Batman: Arkham City",
-  "date": "2011-09-29T18:05:00+03:00",
+  "date": "2011-09-29T17:05:40+03:00",
   "url": "/blog/vch/pustyachok-priyatno-press-kit-batman-arkham-city/",
   "original_url": "https://spidermedia.ru/blog/vch/pustyachok-priyatno-press-kit-batman-arkham-city",
   "archived": "https://web.archive.org/web/20260215075844/https://spidermedia.ru/blog/vch/pustyachok-priyatno-press-kit-batman-arkham-city",
@@ -9,6 +9,11 @@
     "dc-comics",
     "batman",
     "arkham-asylum"
+  ],
+  "modx_id": 6626,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,13 +1,22 @@
 {
   "title": "Book of Eli: Motion Comic",
-  "date": "2010-01-12T21:07:00+03:00",
+  "date": "2010-01-12T21:07:45+03:00",
   "url": "/blog/sterpazook/book-eli-motion-comic/",
+  "aliases": [
+    "/node/2248/"
+  ],
   "original_url": "https://spidermedia.ru/blog/sterpazook/book-eli-motion-comic",
   "archived": "https://web.archive.org/web/20250519184141/https://spidermedia.ru/blog/sterpazook/book-eli-motion-comic",
   "tags": [
     "motion-comics",
     "animirovannye-komiksy",
     "kniga-ilaya"
+  ],
+  "cover": "https://web.archive.org/web/20250519184141im_/http://spidermedia.ru/assets/images/import_image/2248.jpg",
+  "modx_id": 2248,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

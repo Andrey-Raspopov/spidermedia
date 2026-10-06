@@ -1,14 +1,24 @@
 {
   "title": "Росомаха, Дэдпул. Что дальше?",
-  "date": "2009-06-20T04:28:00+03:00",
+  "date": "2009-06-20T03:28:52+03:00",
   "url": "/news/rosomaha-dedpul-chto-dalshe/",
+  "aliases": [
+    "/node/1447/"
+  ],
   "original_url": "https://spidermedia.ru/news/rosomaha-dedpul-chto-dalshe",
   "archived": "https://web.archive.org/web/20260314081825/https://spidermedia.ru/news/rosomaha-dedpul-chto-dalshe",
   "tags": [
     "x-men",
     "wolverine",
     "deadpool",
-    "magneto"
+    "magneto",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20260314081825im_/http://spidermedia.ru/assets/images/import_image/1447.jpg",
+  "modx_id": 1447,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

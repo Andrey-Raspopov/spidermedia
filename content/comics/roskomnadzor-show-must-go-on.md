@@ -9,6 +9,12 @@
     "roskomnadzor",
     "russian-comics"
   ],
+  "cover": "https://web.archive.org/web/20251110221747im_/http://spidermedia.ru/assets/images/roskomnadzor/2016/2705/showmustgoon.jpg",
+  "modx_id": 101170,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

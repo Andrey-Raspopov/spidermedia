@@ -1,6 +1,6 @@
 {
   "title": "Две не связанных новости",
-  "date": "2013-04-06T04:42:00+03:00",
+  "date": "2013-04-06T03:42:49+03:00",
   "url": "/news/dve-ne-svyazannyh-novosti/",
   "original_url": "https://spidermedia.ru/news/dve-ne-svyazannyh-novosti",
   "archived": "https://web.archive.org/web/20251108034339/https://spidermedia.ru/news/dve-ne-svyazannyh-novosti",
@@ -13,6 +13,12 @@
     "vertigo",
     "spider-man",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20160611152857im_/http://spidermedia.ru/assets/images/import_image/7183.jpg",
+  "modx_id": 7183,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

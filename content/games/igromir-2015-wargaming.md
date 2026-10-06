@@ -7,6 +7,12 @@
   "tags": [
     "igromir-2015"
   ],
+  "cover": "https://web.archive.org/web/20180201164253im_/http://spidermedia.ru/assets/images/games/igromir2015/wargaming/001.png",
+  "modx_id": 100631,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

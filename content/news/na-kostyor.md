@@ -1,6 +1,6 @@
 {
   "title": "На костёр!",
-  "date": "2011-07-23T09:26:00+03:00",
+  "date": "2011-07-23T08:26:56+03:00",
   "url": "/news/na-kostyor/",
   "original_url": "http://spidermedia.ru/news/na-kostyor",
   "archived": "https://web.archive.org/web/20260214125632/http://spidermedia.ru/news/na-kostyor",
@@ -11,6 +11,12 @@
     "spider-island",
     "scarlet-spider",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20260214125632im_/http://spidermedia.ru/assets/images/import_image/6518.jpg",
+  "modx_id": 6518,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

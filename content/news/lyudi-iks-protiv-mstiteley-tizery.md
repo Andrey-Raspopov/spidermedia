@@ -1,6 +1,6 @@
 {
   "title": "Люди Икс против Мстителей: тизеры",
-  "date": "2012-01-13T20:59:00+03:00",
+  "date": "2012-01-13T19:59:53+03:00",
   "url": "/news/lyudi-iks-protiv-mstiteley-tizery/",
   "original_url": "https://spidermedia.ru/news/lyudi-iks-protiv-mstiteley-tizery",
   "archived": "https://web.archive.org/web/20260305230359/https://spidermedia.ru/news/lyudi-iks-protiv-mstiteley-tizery",
@@ -8,6 +8,12 @@
     "marvel",
     "avengers",
     "x-men"
+  ],
+  "cover": "https://web.archive.org/web/20260305230359im_/http://spidermedia.ru/assets/images/import_image/6757.jpg",
+  "modx_id": 6757,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

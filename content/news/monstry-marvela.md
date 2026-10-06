@@ -1,6 +1,6 @@
 {
   "title": "Монстры Марвела",
-  "date": "2010-08-08T15:09:00+03:00",
+  "date": "2010-08-08T14:09:15+03:00",
   "url": "/news/monstry-marvela/",
   "original_url": "http://spidermedia.ru/news/monstry-marvela",
   "archived": "https://web.archive.org/web/20200216104716/http://spidermedia.ru:80/news/monstry-marvela",
@@ -12,7 +12,14 @@
     "werewolf-by-night",
     "son-of-satan",
     "marvel",
-    "man-thing"
+    "man-thing",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20200216104716im_/http://spidermedia.ru/assets/images/import_image/2842.jpg",
+  "modx_id": 2842,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,12 +1,18 @@
 {
   "title": "У \"Магдалены\" есть режиссер",
-  "date": "2009-07-22T10:53:00+03:00",
+  "date": "2009-07-22T09:53:14+03:00",
   "url": "/news/u-magdaleny-est-rezhisser/",
   "original_url": "http://spidermedia.ru/news/u-magdaleny-est-rezhisser",
   "archived": "https://web.archive.org/web/20160427032943/http://spidermedia.ru/news/u-magdaleny-est-rezhisser",
   "tags": [
     "top-cow",
     "magdalena"
+  ],
+  "cover": "https://web.archive.org/web/20160427032943im_/http://spidermedia.ru/assets/images/import_image/1618.jpg",
+  "modx_id": 1618,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

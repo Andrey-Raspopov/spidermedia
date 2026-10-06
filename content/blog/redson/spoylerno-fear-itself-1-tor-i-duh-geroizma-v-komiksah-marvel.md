@@ -1,6 +1,6 @@
 {
   "title": "(Спойлерно) Fear Itself #1: Тор и дух героизма в комиксах Marvel",
-  "date": "2011-04-06T19:47:00+03:00",
+  "date": "2011-04-06T18:47:31+03:00",
   "url": "/blog/redson/spoylerno-fear-itself-1-tor-i-duh-geroizma-v-komiksah-marvel/",
   "original_url": "http://spidermedia.ru/blog/redson/spoylerno-fear-itself-1-tor-i-duh-geroizma-v-komiksah-marvel",
   "archived": "https://web.archive.org/web/20251116060649/http://spidermedia.ru/blog/redson/spoylerno-fear-itself-1-tor-i-duh-geroizma-v-komiksah-marvel",
@@ -8,7 +8,15 @@
     "mnenie",
     "thor",
     "matt-fraction",
-    "marvel"
+    "marvel",
+    "tor",
+    "mett-frakshen"
+  ],
+  "cover": "https://web.archive.org/web/20160716032652im_/http://spidermedia.ru/assets/images/import_image/4762.jpg",
+  "modx_id": 4762,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

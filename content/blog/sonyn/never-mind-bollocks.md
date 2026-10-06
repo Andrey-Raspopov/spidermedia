@@ -1,7 +1,10 @@
 {
   "title": "Never Mind The Bollocks",
-  "date": "2010-06-10T03:07:00+03:00",
+  "date": "2010-06-10T02:07:11+03:00",
   "url": "/blog/sonyn/never-mind-bollocks/",
+  "aliases": [
+    "/node/2665/"
+  ],
   "original_url": "https://spidermedia.ru/blog/sonyn/never-mind-bollocks",
   "archived": "https://web.archive.org/web/20251115174541/https://spidermedia.ru/blog/sonyn/never-mind-bollocks",
   "tags": [
@@ -11,6 +14,12 @@
     "the-minx",
     "sex-pistols",
     "hellblazer"
+  ],
+  "cover": "https://web.archive.org/web/20251115174541im_/http://spidermedia.ru/assets/images/import_image/2665.jpg",
+  "modx_id": 2665,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

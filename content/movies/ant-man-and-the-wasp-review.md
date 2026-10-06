@@ -8,6 +8,12 @@
     "marvel",
     "ant-man"
   ],
+  "cover": "https://web.archive.org/web/20260211192541im_/http://spidermedia.ru/assets/images/movies/marvel/ant-man-and-wasp-2018/mzk.jpg",
+  "modx_id": 101956,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

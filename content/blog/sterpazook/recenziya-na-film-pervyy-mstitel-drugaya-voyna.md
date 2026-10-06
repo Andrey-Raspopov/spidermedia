@@ -1,6 +1,6 @@
 {
   "title": "Рецензия на фильм \"Первый мститель: Другая война\"",
-  "date": "2014-03-24T11:40:00+03:00",
+  "date": "2014-03-24T10:40:44+03:00",
   "url": "/blog/sterpazook/recenziya-na-film-pervyy-mstitel-drugaya-voyna/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/recenziya-na-film-pervyy-mstitel-drugaya-voyna",
   "archived": "https://web.archive.org/web/20240303065514/http://spidermedia.ru/blog/sterpazook/recenziya-na-film-pervyy-mstitel-drugaya-voyna",
@@ -9,6 +9,12 @@
     "marvel",
     "captain-america",
     "winter-soldier"
+  ],
+  "cover": "https://web.archive.org/web/20160318071834im_/http://spidermedia.ru/assets/images/import_image/7694.jpg",
+  "modx_id": 7694,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

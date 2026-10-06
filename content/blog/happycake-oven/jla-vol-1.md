@@ -7,6 +7,9 @@
   "tags": [
     "dc-comics"
   ],
+  "sources": [
+    "archive"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

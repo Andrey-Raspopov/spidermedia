@@ -1,7 +1,10 @@
 {
   "title": "Detective/Action comics",
-  "date": "2009-03-26T17:49:00+03:00",
+  "date": "2009-03-26T17:49:09+03:00",
   "url": "/news/detective-action-comics/",
+  "aliases": [
+    "/node/781/"
+  ],
   "original_url": "https://spidermedia.ru/news/detective-action-comics",
   "archived": "https://web.archive.org/web/20260309181944/https://spidermedia.ru/news/detective-action-comics",
   "tags": [
@@ -13,6 +16,12 @@
     "flamebird",
     "question",
     "kalli-hemner"
+  ],
+  "cover": "https://web.archive.org/web/20260309181944im_/http://spidermedia.ru/assets/images/import_image/781.jpg",
+  "modx_id": 781,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

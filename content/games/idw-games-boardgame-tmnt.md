@@ -7,6 +7,12 @@
   "tags": [
     "idw-publishing"
   ],
+  "cover": "https://web.archive.org/web/20160611114845im_/http://spidermedia.ru/assets/images/news/images/5_toys/teenage-mutant-ninja-turtles-shadows-of-the-past-board-game/tmnt.jpg",
+  "modx_id": 100880,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

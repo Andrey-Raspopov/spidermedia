@@ -1,6 +1,6 @@
 {
   "title": "\"Первый мститель: Другая война\": Новые промо + постер",
-  "date": "2014-02-26T13:57:00+03:00",
+  "date": "2014-02-26T12:57:00+03:00",
   "url": "/news/pervyy-mstitel-drugaya-voyna-novye-promo-poster/",
   "original_url": "http://spidermedia.ru/news/pervyy-mstitel-drugaya-voyna-novye-promo-poster",
   "archived": "https://web.archive.org/web/20190915014450/http://spidermedia.ru:80/news/pervyy-mstitel-drugaya-voyna-novye-promo-poster",
@@ -8,6 +8,12 @@
     "marvel",
     "captain-america",
     "winter-soldier"
+  ],
+  "cover": "https://web.archive.org/web/20150424062956im_/http://spidermedia.ru/assets/images/import_image/7659.jpg",
+  "modx_id": 7659,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Два новых ТВ-спота \"Первого мстителя\" (Капитан Америка)",
-  "date": "2011-06-02T17:25:00+03:00",
+  "date": "2011-06-02T16:25:19+03:00",
   "url": "/news/dva-novyh-tv-spota-pervogo-mstitelya-kapitan-amerika/",
   "original_url": "https://spidermedia.ru/news/dva-novyh-tv-spota-pervogo-mstitelya-kapitan-amerika",
   "archived": "https://web.archive.org/web/20250512121409/https://spidermedia.ru/news/dva-novyh-tv-spota-pervogo-mstitelya-kapitan-amerika",
@@ -8,6 +8,12 @@
     "trejlery",
     "marvel",
     "captain-america"
+  ],
+  "cover": "https://web.archive.org/web/20250512121409im_/http://spidermedia.ru/assets/images/import_image/6214.jpg",
+  "modx_id": 6214,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

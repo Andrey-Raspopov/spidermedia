@@ -1,7 +1,10 @@
 {
   "title": "Руководство к \"Темнейшей Ночи\" - Часть третья - Корпус Зеленых Фонарей (дополнение)",
-  "date": "2009-06-22T16:39:00+03:00",
+  "date": "2009-06-22T15:39:14+03:00",
   "url": "/blog/alex/rukovodstvo-k-temneyshey-nochi-chast-tretya-korpus-zelenyh-fonarey-dopolnenie/",
+  "aliases": [
+    "/node/1465/"
+  ],
   "original_url": "http://spidermedia.ru/blog/alex/rukovodstvo-k-temneyshey-nochi-chast-tretya-korpus-zelenyh-fonarey-dopolnenie",
   "archived": "https://web.archive.org/web/20241110021712/http://spidermedia.ru/blog/alex/rukovodstvo-k-temneyshey-nochi-chast-tretya-korpus-zelenyh-fonarey-dopolnenie",
   "tags": [
@@ -10,19 +13,25 @@
     "dc-comics",
     "blackest-night"
   ],
+  "cover": "https://web.archive.org/web/20241110021712im_/http://spidermedia.ru/assets/images/import_image/1465.png",
+  "modx_id": 1465,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
 Это ещё одно небольшое дополнение к первой части, касающейся Зеленых Фонарей. Необходимость в нем возникла в связи с приближением БН и прояснением ситуации, а заодно напомнить всем вам, что есть ещё такой Алекс и такой гид по Фонарям. ;) Всех, разумеется охватить не представляется возможным, но хочется надеяться что важных для сюжета я охватил. ![Blackest Night](https://web.archive.org/web/20241110021712im_/http://img.photobucket.com/albums/v497/spidermedia/alex_nexs/BN.png) Разумеется, тем кто все-таки решит постигать вселенную сам, рекомендуется воздержаться от прочтения, дабы не испортить "аппетит". Предыдущие части:
 
-- [Часть первая - Корпус Зеленых Фонарей](../../../node/316/)
-- [Часть вторая - Supporting cast](../../../node/428/)
+- [Часть первая - Корпус Зеленых Фонарей](../rukovodstvo-k-temneyshey-nochi-chast-pervaya-korpus-zelenyh-fonarey/)
+- [Часть вторая - Supporting cast](../rukovodstvo-k-temneyshey-nochi-chast-vtoraya-supporting-cast/)
 - **Часть третья - Корпус Зеленых Фонарей (дополнение)**
-- [Часть четвертая - Корпус Синестро](../../../node/1477/)
-- [Часть пятая - Корпус Синестро (продолжение)](../../../node/1490/)
-- [Часть шестая - Звездные Сапфиры и Красные Фонари](../../../node/1499/)
-- [Часть седьмая - Голубые Фонари, Агент Орандж, Племя Индиго и Черные Фонари](../../../node/1507/)
+- [Часть четвертая - Корпус Синестро](../rukovodstvo-k-temneyshey-nochi-chast-chetvertaya-korpus-sinestro/)
+- [Часть пятая - Корпус Синестро (продолжение)](../rukovodstvo-k-temneyshey-nochi-chast-pyataya-korpus-sinestro-prodolzhenie/)
+- [Часть шестая - Звездные Сапфиры и Красные Фонари](../rukovodstvo-k-temneyshey-nochi-chast-shestaya-zvezdnye-sapfiry-i-krasnye-fonari/)
+- [Часть седьмая - Голубые Фонари, Агент Орандж, Племя Индиго и Черные Фонари](../rukovodstvo-k-temneyshey-nochi-chast-sedmaya-golubye-fonari-agent-orandzh-plemya-indigo-i/)
 
 По всей вероятности в дальнейшем все будет публиковаться частями, для лучшей "усвояемости". Ну а потом просто будет собрано в один или два поста - либо ссылками, либо текстом.
 

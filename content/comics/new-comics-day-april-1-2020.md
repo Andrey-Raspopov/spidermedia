@@ -7,6 +7,12 @@
   "tags": [
     "den-novyh-komiksov"
   ],
+  "cover": "https://web.archive.org/web/20251014044837im_/http://spidermedia.ru/assets/images/gettyimages_692375002.0.jpg",
+  "modx_id": 102222,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

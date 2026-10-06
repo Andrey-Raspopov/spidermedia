@@ -10,6 +10,12 @@
     "superman",
     "wonder-woman"
   ],
+  "cover": "https://web.archive.org/web/20260312011625im_/http://spidermedia.ru/assets/images/animation/dc-comics/justice-league-action/cyd7anjkjka.market_maxres.jpg",
+  "modx_id": 101668,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

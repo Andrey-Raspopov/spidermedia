@@ -1,6 +1,6 @@
 {
   "title": "Рекомендации: Криминал",
-  "date": "2011-03-07T19:26:00+03:00",
+  "date": "2011-03-07T19:26:17+03:00",
   "url": "/blog/plane-v/rekomendacii-kriminal/",
   "original_url": "http://spidermedia.ru/blog/plane-v/rekomendacii-kriminal",
   "archived": "https://web.archive.org/web/20251111081854/http://spidermedia.ru/blog/plane-v/rekomendacii-kriminal",
@@ -12,6 +12,12 @@
     "parker",
     "mustread",
     "criminal"
+  ],
+  "cover": "https://web.archive.org/web/20160417205814im_/http://spidermedia.ru/assets/images/import_image/3965.jpg",
+  "modx_id": 3965,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

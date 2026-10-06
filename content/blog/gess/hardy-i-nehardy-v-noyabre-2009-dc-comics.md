@@ -1,12 +1,21 @@
 {
   "title": "Харды и нехарды в ноябре 2009 - DC Comics",
-  "date": "2009-10-28T23:36:00+03:00",
+  "date": "2009-10-28T23:36:26+03:00",
   "url": "/blog/gess/hardy-i-nehardy-v-noyabre-2009-dc-comics/",
+  "aliases": [
+    "/node/2032/"
+  ],
   "original_url": "http://spidermedia.ru/blog/gess/hardy-i-nehardy-v-noyabre-2009-dc-comics",
   "archived": "https://web.archive.org/web/20170926162203/http://spidermedia.ru:80/blog/gess/hardy-i-nehardy-v-noyabre-2009-dc-comics",
   "tags": [
     "handnh",
     "mnenie"
+  ],
+  "cover": "https://web.archive.org/web/20170926162203im_/http://spidermedia.ru/assets/images/import_image/2032.jpg",
+  "modx_id": 2032,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

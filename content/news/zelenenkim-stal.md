@@ -1,6 +1,6 @@
 {
   "title": "Зелененьким он стал",
-  "date": "2011-06-11T03:29:00+03:00",
+  "date": "2011-06-11T02:29:34+03:00",
   "url": "/news/zelenenkim-stal/",
   "original_url": "https://spidermedia.ru/news/zelenenkim-stal",
   "archived": "https://web.archive.org/web/20251216174639/https://spidermedia.ru/news/zelenenkim-stal",
@@ -11,7 +11,14 @@
     "art-0",
     "norman-osborn",
     "marvel",
-    "zelyonyj-goblin"
+    "zelyonyj-goblin",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20251216174639im_/http://spidermedia.ru/assets/images/import_image/6440.jpg",
+  "modx_id": 6440,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

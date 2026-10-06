@@ -1,13 +1,20 @@
 {
   "title": "НОВЫЙ Промо-арт \"Мстителей\"",
-  "date": "2011-08-31T11:51:00+03:00",
+  "date": "2011-08-31T10:51:12+03:00",
   "url": "/news/promo-art-mstiteley/",
   "original_url": "https://spidermedia.ru/news/promo-art-mstiteley",
   "archived": "https://web.archive.org/web/20251116072227/https://spidermedia.ru/news/promo-art-mstiteley",
   "tags": [
     "marvel",
     "art-0",
-    "avengers"
+    "avengers",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20251116072227im_/http://spidermedia.ru/assets/images/import_image/6584.jpg",
+  "modx_id": 6584,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

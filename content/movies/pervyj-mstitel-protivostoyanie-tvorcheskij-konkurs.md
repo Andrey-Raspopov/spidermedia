@@ -8,6 +8,12 @@
     "marvel",
     "konkurs"
   ],
+  "cover": "https://web.archive.org/web/20260214135242im_/http://spidermedia.ru/assets/images/movies/marvel/captain-america-3-civil-war-2016/konkurs/cacv_headphones.jpg",
+  "modx_id": 101139,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,13 +1,23 @@
 {
   "title": "Загадочные Люди Икс",
-  "date": "2010-10-07T22:58:00+03:00",
+  "date": "2010-10-07T21:58:10+03:00",
   "url": "/news/zagadochnye-lyudi-iks/",
+  "aliases": [
+    "/node/2980/"
+  ],
   "original_url": "https://spidermedia.ru/news/zagadochnye-lyudi-iks",
   "archived": "https://web.archive.org/web/20250419045931/https://spidermedia.ru/news/zagadochnye-lyudi-iks",
   "tags": [
     "igry",
     "x-men",
-    "trejlery"
+    "trejlery",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20250419045931im_/http://spidermedia.ru/assets/images/import_image/2980.jpg",
+  "modx_id": 2980,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

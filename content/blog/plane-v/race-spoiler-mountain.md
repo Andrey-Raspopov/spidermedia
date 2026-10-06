@@ -1,12 +1,21 @@
 {
   "title": "Race to the spoiler mountain",
-  "date": "2009-08-16T19:01:00+03:00",
+  "date": "2009-08-16T18:01:43+03:00",
   "url": "/blog/plane-v/race-spoiler-mountain/",
+  "aliases": [
+    "/node/1796/"
+  ],
   "original_url": "https://spidermedia.ru/blog/plane-v/race-spoiler-mountain",
   "archived": "https://web.archive.org/web/20250210070315/https://spidermedia.ru/blog/plane-v/race-spoiler-mountain",
   "tags": [
     "yumor",
     "spojlery"
+  ],
+  "cover": "https://web.archive.org/web/20150315210246im_/http://spidermedia.ru/assets/images/ecahznqzhc4.jpg",
+  "modx_id": 1796,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Жизнь после Киркмана",
-  "date": "2011-06-10T03:54:00+03:00",
+  "date": "2011-06-10T02:54:34+03:00",
   "url": "/news/zhizn-posle-kirkmana/",
   "original_url": "http://spidermedia.ru/news/zhizn-posle-kirkmana",
   "archived": "https://web.archive.org/web/20251107010330/http://spidermedia.ru/news/zhizn-posle-kirkmana",
@@ -9,6 +9,12 @@
     "haunt",
     "dzho-kejsi",
     "dzhonatan-grin"
+  ],
+  "cover": "https://web.archive.org/web/20251107010330im_/http://spidermedia.ru/assets/images/import_image/6417.jpg",
+  "modx_id": 6417,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,13 +1,23 @@
 {
   "title": "X-Force: Война Закончена!",
-  "date": "2009-06-21T15:42:00+03:00",
+  "date": "2009-06-21T14:42:47+03:00",
   "url": "/news/x-force-voyna-zakonchena/",
+  "aliases": [
+    "/node/1456/"
+  ],
   "original_url": "http://spidermedia.ru/news/x-force-voyna-zakonchena",
   "archived": "https://web.archive.org/web/20260211191438/http://spidermedia.ru/news/x-force-voyna-zakonchena",
   "tags": [
     "x-men",
     "marvel",
-    "x-force"
+    "x-force",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20260211191438im_/http://spidermedia.ru/assets/images/import_image/1456.jpg",
+  "modx_id": 1456,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

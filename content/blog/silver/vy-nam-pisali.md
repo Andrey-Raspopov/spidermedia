@@ -1,6 +1,6 @@
 {
   "title": "Вы нам писали?",
-  "date": "2009-01-31T03:52:00+03:00",
+  "date": "2009-01-31T03:52:31+03:00",
   "url": "/blog/silver/vy-nam-pisali/",
   "original_url": "http://spidermedia.ru/blog/silver/vy-nam-pisali",
   "archived": "https://web.archive.org/web/20250620074043/http://spidermedia.ru/blog/silver/vy-nam-pisali",
@@ -8,6 +8,11 @@
     "marvel",
     "avengers",
     "mnenie"
+  ],
+  "modx_id": 30,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

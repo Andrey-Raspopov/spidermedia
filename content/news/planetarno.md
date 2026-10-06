@@ -1,7 +1,10 @@
 {
   "title": "Планетарно",
-  "date": "2009-07-18T14:15:00+03:00",
+  "date": "2009-07-18T13:15:03+03:00",
   "url": "/news/planetarno/",
+  "aliases": [
+    "/node/1587/"
+  ],
   "original_url": "http://spidermedia.ru/news/planetarno",
   "archived": "https://web.archive.org/web/20120607104603/http://spidermedia.ru/news/planetarno",
   "tags": [
@@ -9,7 +12,14 @@
     "wildstorm",
     "dzhon-kessedi",
     "komiksy",
-    "uorren-ellis"
+    "uorren-ellis",
+    "warren-ellis"
+  ],
+  "cover": "https://web.archive.org/web/20120607104603im_/http://spidermedia.ru/assets/images/import_image/1587.jpg",
+  "modx_id": 1587,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

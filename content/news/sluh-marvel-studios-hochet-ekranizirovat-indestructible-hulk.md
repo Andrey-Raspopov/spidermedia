@@ -1,6 +1,6 @@
 {
   "title": "СЛУХ: Marvel Studios хочет экранизировать Indestructible Hulk",
-  "date": "2013-07-16T10:25:00+03:00",
+  "date": "2013-07-16T09:25:00+03:00",
   "url": "/news/sluh-marvel-studios-hochet-ekranizirovat-indestructible-hulk/",
   "original_url": "http://spidermedia.ru/news/sluh-marvel-studios-hochet-ekranizirovat-indestructible-hulk",
   "archived": "https://web.archive.org/web/20251208063710/http://spidermedia.ru/news/sluh-marvel-studios-hochet-ekranizirovat-indestructible-hulk",
@@ -8,6 +8,12 @@
     "sluhi",
     "hulk",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20251208063710im_/http://spidermedia.ru/assets/images/import_image/7344.png",
+  "modx_id": 7344,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

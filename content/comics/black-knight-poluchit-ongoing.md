@@ -8,6 +8,12 @@
     "marvel",
     "chernyj-rycar"
   ],
+  "cover": "https://web.archive.org/web/20180315064356im_/http://spidermedia.ru/assets/images/news/marvel/post-secret-wars/marvel-comics-black-knight-dane-ongoing-cover-2015.jpg",
+  "modx_id": 100436,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

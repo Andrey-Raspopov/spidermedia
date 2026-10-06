@@ -1,6 +1,6 @@
 {
   "title": "РоскомНадзор: смутное время",
-  "date": "2015-01-30T11:58:00+03:00",
+  "date": "2015-01-30T11:58:56+03:00",
   "url": "/blog/hella/roskomnadzor-smutnoe-vremya/",
   "original_url": "http://spidermedia.ru/blog/hella/roskomnadzor-smutnoe-vremya",
   "archived": "https://web.archive.org/web/20260125131813/http://spidermedia.ru/blog/hella/roskomnadzor-smutnoe-vremya",
@@ -8,6 +8,12 @@
     "russian-comics",
     "roskomnadzor",
     "zarubezhnye-komiksy-na-russkom"
+  ],
+  "cover": "https://web.archive.org/web/20150326160825im_/http://spidermedia.ru/assets/images/import_image/8568.jpg",
+  "modx_id": 8568,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

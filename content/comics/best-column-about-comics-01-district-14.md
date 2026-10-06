@@ -8,6 +8,12 @@
     "mnenie",
     "best-column-about-comics"
   ],
+  "cover": "https://web.archive.org/web/20260120155056im_/http://spidermedia.ru/assets/images/best-column-about-comics/01-district-14/district-14-cover.jpg",
+  "modx_id": 101332,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

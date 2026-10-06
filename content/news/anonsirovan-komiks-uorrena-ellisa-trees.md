@@ -1,12 +1,18 @@
 {
   "title": "Анонсирован комикс Уоррена Эллиса \"TREES\"",
-  "date": "2014-02-26T15:23:00+03:00",
+  "date": "2014-02-26T14:23:43+03:00",
   "url": "/news/anonsirovan-komiks-uorrena-ellisa-trees/",
   "original_url": "https://spidermedia.ru/news/anonsirovan-komiks-uorrena-ellisa-trees",
   "archived": "https://web.archive.org/web/20260307055320/https://spidermedia.ru/news/anonsirovan-komiks-uorrena-ellisa-trees",
   "tags": [
     "warren-ellis",
     "image-comics"
+  ],
+  "cover": "https://web.archive.org/web/20260307055320im_/http://spidermedia.ru/assets/images/import_image/7660.jpg",
+  "modx_id": 7660,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

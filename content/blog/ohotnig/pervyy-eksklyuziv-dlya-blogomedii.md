@@ -1,12 +1,20 @@
 {
   "title": "Первый Эксклюзив для Блогомедии",
-  "date": "2009-02-10T10:01:00+03:00",
+  "date": "2009-02-10T10:01:27+03:00",
   "url": "/blog/ohotnig/pervyy-eksklyuziv-dlya-blogomedii/",
+  "aliases": [
+    "/node/294/"
+  ],
   "original_url": "http://spidermedia.ru/blog/ohotnig/pervyy-eksklyuziv-dlya-blogomedii",
   "archived": "https://web.archive.org/web/20260125065249/http://spidermedia.ru/blog/ohotnig/pervyy-eksklyuziv-dlya-blogomedii",
   "tags": [
     "kartinki",
     "mad-blade"
+  ],
+  "modx_id": 294,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

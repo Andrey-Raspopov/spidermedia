@@ -13,6 +13,12 @@
     "kristos-gejdzh",
     "maks-bruks"
   ],
+  "cover": "https://web.archive.org/web/20260206225023im_/http://spidermedia.ru/assets/images/news/avatar-press/8d3e4fab5bb815da7410c2c015c3de44_original.jpg",
+  "modx_id": 100873,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

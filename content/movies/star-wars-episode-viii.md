@@ -8,6 +8,12 @@
     "disney",
     "zvezdnye-vojny"
   ],
+  "cover": "https://web.archive.org/web/20150315212532im_/http://spidermedia.ru/assets/images/news/movies/star-wars/swars-social.jpg",
+  "modx_id": 100068,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -9,6 +9,12 @@
     "apokalipsis",
     "x-men"
   ],
+  "cover": "https://web.archive.org/web/20160619155300im_/http://spidermedia.ru/assets/images/movies/marvel/x-men-apocalypse-movie-2016/posters/x_men_apocalypse_new_official_poster_b_jposters.jpg",
+  "modx_id": 100995,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

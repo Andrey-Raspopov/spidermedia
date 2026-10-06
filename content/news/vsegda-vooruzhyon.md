@@ -1,6 +1,6 @@
 {
   "title": "Всегда вооружён",
-  "date": "2012-09-15T11:13:00+03:00",
+  "date": "2012-09-15T10:13:52+03:00",
   "url": "/news/vsegda-vooruzhyon/",
   "original_url": "http://spidermedia.ru/news/vsegda-vooruzhyon",
   "archived": "https://web.archive.org/web/20251110233428/http://spidermedia.ru/news/vsegda-vooruzhyon",
@@ -9,6 +9,12 @@
     "dzherri-ordvej",
     "dzhastin-grej",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150326114205im_/http://spidermedia.ru/assets/images/import_image/7031.jpg",
+  "modx_id": 7031,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "Битва и разрушения",
-  "date": "2009-03-27T18:24:00+03:00",
+  "date": "2009-03-27T17:24:58+03:00",
   "url": "/news/bitva-i-razrusheniya/",
+  "aliases": [
+    "/node/793/"
+  ],
   "original_url": "http://spidermedia.ru/news/bitva-i-razrusheniya",
   "archived": "https://web.archive.org/web/20120608220708/http://spidermedia.ru/news/bitva-i-razrusheniya",
   "tags": [
@@ -13,6 +16,12 @@
     "kori-uolker",
     "marvel",
     "robert-kirkman"
+  ],
+  "cover": "https://web.archive.org/web/20120608220708im_/http://spidermedia.ru/assets/images/import_image/793.jpg",
+  "modx_id": 793,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

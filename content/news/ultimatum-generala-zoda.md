@@ -1,6 +1,6 @@
 {
   "title": "Ультиматум Генерала Зода",
-  "date": "2013-04-15T12:22:00+03:00",
+  "date": "2013-04-15T11:22:04+03:00",
   "url": "/news/ultimatum-generala-zoda/",
   "original_url": "http://spidermedia.ru/news/ultimatum-generala-zoda",
   "archived": "https://web.archive.org/web/20130619071006/http://spidermedia.ru/news/ultimatum-generala-zoda",
@@ -10,7 +10,15 @@
     "video",
     "kino",
     "supermen",
-    "chelovek-iz-stali"
+    "chelovek-iz-stali",
+    "superman",
+    "man-of-steel"
+  ],
+  "cover": "https://web.archive.org/web/20130619071006im_/http://spidermedia.ru/assets/images/import_image/7200.jpg",
+  "modx_id": 7200,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

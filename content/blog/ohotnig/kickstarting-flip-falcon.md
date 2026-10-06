@@ -1,11 +1,18 @@
 {
   "title": "KICKSTARTING FLIP FALCON",
-  "date": "2012-09-11T11:34:00+03:00",
+  "date": "2012-09-11T10:34:08+03:00",
   "url": "/blog/ohotnig/kickstarting-flip-falcon/",
   "original_url": "http://spidermedia.ru/blog/ohotnig/kickstarting-flip-falcon",
   "archived": "https://web.archive.org/web/20150320091258/http://spidermedia.ru/blog/ohotnig/kickstarting-flip-falcon",
   "tags": [
-    "russkie-komiksy"
+    "russkie-komiksy",
+    "russian-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150326221140im_/http://spidermedia.ru/assets/images/import_image/7025.jpg",
+  "modx_id": 7025,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

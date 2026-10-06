@@ -1,6 +1,6 @@
 {
   "title": "\"Железный Человек 2\": Stark Expo и Черная Вдова",
-  "date": "2010-03-31T20:06:00+03:00",
+  "date": "2010-03-31T19:06:47+03:00",
   "url": "/news/zheleznyy-chelovek-2-stark-expo-i-chernaya-vdova/",
   "original_url": "http://spidermedia.ru/news/zheleznyy-chelovek-2-stark-expo-i-chernaya-vdova",
   "archived": "https://web.archive.org/web/20251211034143/http://spidermedia.ru/news/zheleznyy-chelovek-2-stark-expo-i-chernaya-vdova",
@@ -8,7 +8,14 @@
     "postery",
     "dzhon-favro",
     "marvel",
-    "iron-man"
+    "iron-man",
+    "zheleznyy-chelovek"
+  ],
+  "cover": "https://web.archive.org/web/20251211034143im_/http://spidermedia.ru/assets/images/import_image/2491.jpg",
+  "modx_id": 2491,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

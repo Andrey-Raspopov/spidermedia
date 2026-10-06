@@ -1,7 +1,10 @@
 {
   "title": "Пополнение в рядах комиксной армии",
-  "date": "2009-02-17T15:52:00+03:00",
+  "date": "2009-02-17T15:52:54+03:00",
   "url": "/blog/alex/popolnenie-v-ryadah-komiksnoy-armii/",
+  "aliases": [
+    "/node/409/"
+  ],
   "original_url": "https://spidermedia.ru/blog/alex/popolnenie-v-ryadah-komiksnoy-armii",
   "archived": "https://web.archive.org/web/20250804013325/https://spidermedia.ru/blog/alex/popolnenie-v-ryadah-komiksnoy-armii",
   "tags": [
@@ -11,6 +14,12 @@
     "superman",
     "kollekciya",
     "dejl-iglshem"
+  ],
+  "cover": "https://web.archive.org/web/20250804013325im_/http://spidermedia.ru/assets/images/import_image/409.jpg",
+  "modx_id": 409,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

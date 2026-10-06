@@ -1,6 +1,6 @@
 {
   "title": "Битва силуэтов",
-  "date": "2012-03-10T05:06:00+03:00",
+  "date": "2012-03-10T04:06:06+03:00",
   "url": "/news/bitva-siluetov/",
   "original_url": "http://spidermedia.ru/news/bitva-siluetov",
   "archived": "https://web.archive.org/web/20251216112920/http://spidermedia.ru/news/bitva-siluetov",
@@ -8,6 +8,12 @@
     "marvel",
     "sara-pichelli",
     "brian-michael-bendis"
+  ],
+  "cover": "https://web.archive.org/web/20251216112920im_/http://spidermedia.ru/assets/images/import_image/6820.jpg",
+  "modx_id": 6820,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

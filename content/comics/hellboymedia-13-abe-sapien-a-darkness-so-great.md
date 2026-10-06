@@ -8,6 +8,12 @@
     "hellboymedia",
     "mnenie"
   ],
+  "cover": "https://web.archive.org/web/20160611094728im_/http://spidermedia.ru/assets/images/hellboymedia/regular/13-abe-sapien-a-darkness-so-great/abe-sapien-a-darkness-so-great-cover.jpg",
+  "modx_id": 100235,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

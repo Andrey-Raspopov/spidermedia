@@ -1,7 +1,10 @@
 {
   "title": "Тизер \"Ковбоев и пришельцев\"",
-  "date": "2010-11-18T18:43:00+03:00",
+  "date": "2010-11-18T17:43:27+03:00",
   "url": "/news/tizer-kovboev-i-prishelcev/",
+  "aliases": [
+    "/node/3072/"
+  ],
   "original_url": "http://spidermedia.ru/news/tizer-kovboev-i-prishelcev",
   "archived": "https://web.archive.org/web/20120607113243/http://spidermedia.ru/news/tizer-kovboev-i-prishelcev",
   "tags": [
@@ -16,7 +19,14 @@
     "krutota",
     "oliviya-uayld",
     "tizery",
-    "harrison-ford"
+    "harrison-ford",
+    "oliviya-uajld",
+    "deniel-krejg"
+  ],
+  "modx_id": 3072,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

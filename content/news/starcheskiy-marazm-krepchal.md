@@ -1,7 +1,10 @@
 {
   "title": "А старческий маразм крепчал",
-  "date": "2009-03-07T03:01:00+03:00",
+  "date": "2009-03-07T03:01:29+03:00",
   "url": "/news/starcheskiy-marazm-krepchal/",
+  "aliases": [
+    "/node/615/"
+  ],
   "original_url": "https://spidermedia.ru/news/starcheskiy-marazm-krepchal",
   "archived": "https://web.archive.org/web/20260314081255/https://spidermedia.ru/news/starcheskiy-marazm-krepchal",
   "tags": [
@@ -11,6 +14,12 @@
     "wolverine",
     "red-hulk",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20260314081255im_/http://spidermedia.ru/assets/images/import_image/615.jpg",
+  "modx_id": 615,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

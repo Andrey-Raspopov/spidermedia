@@ -1,7 +1,10 @@
 {
   "title": "Назван режиссер фильма \"Deadman\"",
-  "date": "2009-09-01T12:04:00+03:00",
+  "date": "2009-09-01T11:04:30+03:00",
   "url": "/news/nazvan-rezhisser-filma-deadman/",
+  "aliases": [
+    "/node/1855/"
+  ],
   "original_url": "http://spidermedia.ru/news/nazvan-rezhisser-filma-deadman",
   "archived": "https://web.archive.org/web/20120609161855/http://spidermedia.ru/news/nazvan-rezhisser-filma-deadman",
   "tags": [
@@ -10,6 +13,12 @@
     "dedmen",
     "kino",
     "komiksy"
+  ],
+  "cover": "https://web.archive.org/web/20120609161855im_/http://spidermedia.ru/assets/images/import_image/1855.jpg",
+  "modx_id": 1855,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

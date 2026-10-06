@@ -1,6 +1,6 @@
 {
   "title": "Green Lantern - Промо",
-  "date": "2011-02-27T18:28:00+03:00",
+  "date": "2011-02-27T18:28:36+03:00",
   "url": "/news/green-lantern-promo/",
   "original_url": "http://spidermedia.ru/news/green-lantern-promo",
   "archived": "https://web.archive.org/web/20251208070538/http://spidermedia.ru/news/green-lantern-promo",
@@ -9,6 +9,12 @@
     "animaciya",
     "kilowog",
     "green-lantern"
+  ],
+  "cover": "https://web.archive.org/web/20150502155724im_/http://spidermedia.ru/assets/images/import_image/3758.jpg",
+  "modx_id": 3758,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

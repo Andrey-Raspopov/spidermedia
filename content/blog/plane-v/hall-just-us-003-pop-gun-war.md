@@ -1,6 +1,6 @@
 {
   "title": "Hall of Just Us 003: Pop Gun War",
-  "date": "2010-09-25T00:40:00+03:00",
+  "date": "2010-09-24T23:40:12+03:00",
   "url": "/blog/plane-v/hall-just-us-003-pop-gun-war/",
   "original_url": "http://spidermedia.ru/blog/plane-v/hall-just-us-003-pop-gun-war",
   "archived": "https://web.archive.org/web/20210128042336/http://spidermedia.ru/blog/plane-v/hall-just-us-003-pop-gun-war",
@@ -9,6 +9,12 @@
     "mnenie",
     "hall-of-just-us",
     "dark-horse"
+  ],
+  "cover": "https://web.archive.org/web/20210128042336im_/http://spidermedia.ru/assets/images/import_image/2943.jpg",
+  "modx_id": 2943,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,12 +1,17 @@
 {
   "title": "Comic Book Men",
-  "date": "2012-02-19T21:17:00+03:00",
+  "date": "2012-02-19T20:17:34+03:00",
   "url": "/blog/uncle-fucka/comic-book-men/",
   "original_url": "http://spidermedia.ru/blog/uncle-fucka/comic-book-men",
   "archived": "https://web.archive.org/web/20150501133856/http://spidermedia.ru/blog/uncle-fucka/comic-book-men",
   "tags": [
     "kevin-smit",
     "tv"
+  ],
+  "modx_id": 6790,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

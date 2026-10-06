@@ -1,6 +1,6 @@
 {
   "title": "Ши-Халк и толпа неизвестных",
-  "date": "2013-09-27T04:50:00+03:00",
+  "date": "2013-09-27T03:50:44+03:00",
   "url": "/news/shi-halk-i-tolpa-neizvestnyh/",
   "original_url": "http://spidermedia.ru/news/shi-halk-i-tolpa-neizvestnyh",
   "archived": "https://web.archive.org/web/20260214142617/http://spidermedia.ru/news/shi-halk-i-tolpa-neizvestnyh",
@@ -9,6 +9,12 @@
     "haver-pulido",
     "marvel",
     "she-hulk"
+  ],
+  "cover": "https://web.archive.org/web/20260214142617im_/http://spidermedia.ru/assets/images/import_image/7486.jpg",
+  "modx_id": 7486,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

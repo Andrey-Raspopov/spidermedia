@@ -1,7 +1,10 @@
 {
   "title": "\"Кловерфилд\" + \"28 дней спустя\" = \"Карантин\"",
-  "date": "2009-03-15T15:08:00+03:00",
+  "date": "2009-03-15T14:08:11+03:00",
   "url": "/blog/sterpazook/kloverfild-28-dney-spustya-karantin/",
+  "aliases": [
+    "/node/689/"
+  ],
   "original_url": "http://spidermedia.ru/blog/sterpazook/kloverfild-28-dney-spustya-karantin",
   "archived": "https://web.archive.org/web/20120607054539/http://spidermedia.ru/blog/sterpazook/kloverfild-28-dney-spustya-karantin",
   "tags": [
@@ -13,6 +16,12 @@
     "kino",
     "monstro",
     "recenziya"
+  ],
+  "cover": "https://web.archive.org/web/20120607054539im_/http://spidermedia.ru/assets/images/import_image/689.png",
+  "modx_id": 689,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

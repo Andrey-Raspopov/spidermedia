@@ -1,7 +1,10 @@
 {
   "title": "Золотой Олдскул",
-  "date": "2009-02-16T21:53:00+03:00",
+  "date": "2009-02-16T21:53:23+03:00",
   "url": "/news/zolotoy-oldskul/",
+  "aliases": [
+    "/node/397/"
+  ],
   "original_url": "http://spidermedia.ru/news/zolotoy-oldskul",
   "archived": "https://web.archive.org/web/20170427033823/http://spidermedia.ru:80/news/zolotoy-oldskul",
   "tags": [
@@ -11,6 +14,12 @@
     "marvel",
     "captain-america",
     "angel"
+  ],
+  "cover": "https://web.archive.org/web/20170427033823im_/http://spidermedia.ru/assets/images/import_image/397.jpg",
+  "modx_id": 397,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

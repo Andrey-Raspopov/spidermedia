@@ -1,7 +1,10 @@
 {
   "title": "Миллар требует продолжения",
-  "date": "2009-06-11T15:20:00+03:00",
+  "date": "2009-06-11T14:20:57+03:00",
   "url": "/news/millar-trebuet-prodolzheniya/",
+  "aliases": [
+    "/node/1400/"
+  ],
   "original_url": "http://spidermedia.ru/news/millar-trebuet-prodolzheniya",
   "archived": "https://web.archive.org/web/20120608170324/http://spidermedia.ru/news/millar-trebuet-prodolzheniya",
   "tags": [
@@ -9,6 +12,12 @@
     "kino",
     "mark-millar",
     "mettyu-von"
+  ],
+  "cover": "https://web.archive.org/web/20120608170324im_/http://spidermedia.ru/assets/images/import_image/1400.jpg",
+  "modx_id": 1400,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

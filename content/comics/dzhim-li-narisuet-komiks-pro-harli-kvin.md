@@ -9,6 +9,12 @@
     "jim-lee",
     "harli-kvin"
   ],
+  "cover": "https://web.archive.org/web/20160611094657im_/http://spidermedia.ru/assets/images/news/dc/harley-queen-one-shot.jpg",
+  "modx_id": 100822,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -8,6 +8,12 @@
     "dc-comics",
     "buster-gold"
   ],
+  "cover": "https://web.archive.org/web/20241113120942im_/http://spidermedia.ru/assets/images/news/dc/buster/image00.jpg",
+  "modx_id": 101020,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

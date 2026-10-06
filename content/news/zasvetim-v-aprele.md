@@ -1,7 +1,10 @@
 {
   "title": "Засветим в Апреле!",
-  "date": "2010-01-31T16:19:00+03:00",
+  "date": "2010-01-31T16:19:05+03:00",
   "url": "/news/zasvetim-v-aprele/",
+  "aliases": [
+    "/node/2324/"
+  ],
   "original_url": "https://spidermedia.ru/news/zasvetim-v-aprele",
   "archived": "https://web.archive.org/web/20251107010154/https://spidermedia.ru/news/zasvetim-v-aprele",
   "tags": [
@@ -9,6 +12,12 @@
     "relizy",
     "solicitations",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20251107010154im_/http://spidermedia.ru/assets/images/import_image/2324.png",
+  "modx_id": 2324,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

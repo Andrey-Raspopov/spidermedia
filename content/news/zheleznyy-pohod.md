@@ -1,7 +1,10 @@
 {
   "title": "Железный поход",
-  "date": "2009-06-05T15:41:00+03:00",
+  "date": "2009-06-05T14:41:18+03:00",
   "url": "/news/zheleznyy-pohod/",
+  "aliases": [
+    "/node/1356/"
+  ],
   "original_url": "http://spidermedia.ru/news/zheleznyy-pohod",
   "archived": "https://web.archive.org/web/20120608005713/http://spidermedia.ru/news/zheleznyy-pohod",
   "tags": [
@@ -15,7 +18,14 @@
     "kino",
     "komik-kon-v-san-diego",
     "komiksy",
-    "marvel"
+    "marvel",
+    "san-diego-comic-con-international"
+  ],
+  "cover": "https://web.archive.org/web/20120608005713im_/http://spidermedia.ru/assets/images/import_image/1356.jpg",
+  "modx_id": 1356,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

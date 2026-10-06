@@ -1,11 +1,18 @@
 {
   "title": "RIP Джо Куберт",
-  "date": "2012-08-13T06:53:00+03:00",
+  "date": "2012-08-13T05:53:18+03:00",
   "url": "/news/rip-dzho-kubert/",
   "original_url": "http://spidermedia.ru/news/rip-dzho-kubert",
   "archived": "https://web.archive.org/web/20121022093618/http://spidermedia.ru/news/rip-dzho-kubert",
   "tags": [
-    "dzho-kubert"
+    "dzho-kubert",
+    "rip"
+  ],
+  "cover": "https://web.archive.org/web/20121022093618im_/http://spidermedia.ru/assets/images/import_image/7004.jpg",
+  "modx_id": 7004,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

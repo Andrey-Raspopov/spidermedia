@@ -1,7 +1,10 @@
 {
   "title": "Отходняк",
-  "date": "2009-02-09T19:27:00+03:00",
+  "date": "2009-02-09T19:27:08+03:00",
   "url": "/blog/redson/othodnyak/",
+  "aliases": [
+    "/node/289/"
+  ],
   "original_url": "http://spidermedia.ru/blog/redson/othodnyak",
   "archived": "https://web.archive.org/web/20251207100707/http://spidermedia.ru/blog/redson/othodnyak",
   "tags": [
@@ -11,6 +14,12 @@
     "grant-morrison",
     "final-crisis",
     "new-gods"
+  ],
+  "cover": "https://web.archive.org/web/20251207100707im_/http://spidermedia.ru/assets/images/import_image/289.jpg",
+  "modx_id": 289,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

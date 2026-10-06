@@ -1,13 +1,21 @@
 {
   "title": "Обзоры Росомах",
-  "date": "2009-02-28T01:35:00+03:00",
+  "date": "2009-02-28T01:35:39+03:00",
   "url": "/blog/igrok/obzory-rosomah/",
+  "aliases": [
+    "/node/538/"
+  ],
   "original_url": "https://spidermedia.ru/blog/igrok/obzory-rosomah",
   "archived": "https://web.archive.org/web/20251108192459/https://spidermedia.ru/blog/igrok/obzory-rosomah",
   "tags": [
     "figurki",
     "wolverine",
     "hasbro"
+  ],
+  "modx_id": 538,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

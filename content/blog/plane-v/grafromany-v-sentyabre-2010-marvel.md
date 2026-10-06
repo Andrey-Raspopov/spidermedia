@@ -1,13 +1,22 @@
 {
   "title": "Графроманы в сентябре 2010 - Marvel",
-  "date": "2010-08-30T22:16:00+03:00",
+  "date": "2010-08-30T21:16:21+03:00",
   "url": "/blog/plane-v/grafromany-v-sentyabre-2010-marvel/",
+  "aliases": [
+    "/node/2882/"
+  ],
   "original_url": "http://spidermedia.ru/blog/plane-v/grafromany-v-sentyabre-2010-marvel",
   "archived": "https://web.archive.org/web/20251107003815/http://spidermedia.ru/blog/plane-v/grafromany-v-sentyabre-2010-marvel",
   "tags": [
     "handnh",
     "relizy",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20251107003815im_/http://spidermedia.ru/assets/images/import_image/2882.jpg",
+  "modx_id": 2882,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

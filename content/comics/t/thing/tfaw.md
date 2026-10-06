@@ -4,6 +4,9 @@
   "url": "/comics/t/thing/tfaw/",
   "original_url": "http://www.spidermedia.ru/comics/t/thing/tfaw.html",
   "archived": "https://web.archive.org/web/20050307081054/http://www.spidermedia.ru:80/comics/t/thing/tfaw.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

@@ -4,6 +4,9 @@
   "url": "/docs/review/marvel/asm2/asm2/",
   "original_url": "http://www.spidermedia.ru/docs/review/marvel/asm2/asm2.html",
   "archived": "https://web.archive.org/web/20050310011221/http://www.spidermedia.ru:80/docs/review/marvel/asm2/asm2.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

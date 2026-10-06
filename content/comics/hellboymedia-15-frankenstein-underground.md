@@ -8,6 +8,12 @@
     "hellboymedia",
     "mnenie"
   ],
+  "cover": "https://web.archive.org/web/20160611084153im_/http://spidermedia.ru/assets/images/hellboymedia/regular/15-frankenstein-underground/frankenstein-underground-cover.jpg",
+  "modx_id": 100428,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

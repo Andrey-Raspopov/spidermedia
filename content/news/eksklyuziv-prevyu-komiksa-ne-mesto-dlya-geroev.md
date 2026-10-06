@@ -1,13 +1,20 @@
 {
   "title": "ЭКСКЛЮЗИВ! Превью комикса \"НЕ МЕСТО ДЛЯ ГЕРОЕВ\"",
-  "date": "2013-08-06T00:30:00+03:00",
+  "date": "2013-08-05T23:30:42+03:00",
   "url": "/news/eksklyuziv-prevyu-komiksa-ne-mesto-dlya-geroev/",
   "original_url": "https://spidermedia.ru/news/eksklyuziv-prevyu-komiksa-ne-mesto-dlya-geroev",
   "archived": "https://web.archive.org/web/20250806234832/https://spidermedia.ru/news/eksklyuziv-prevyu-komiksa-ne-mesto-dlya-geroev",
   "tags": [
     "russian-comics",
     "preview",
-    "ne-mesto-dlya-geroev"
+    "ne-mesto-dlya-geroev",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20250806234832im_/http://spidermedia.ru/assets/images/import_image/7402.png",
+  "modx_id": 7402,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

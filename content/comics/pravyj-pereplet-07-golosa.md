@@ -8,6 +8,12 @@
     "manga",
     "right-binding"
   ],
+  "cover": "https://web.archive.org/web/20251207010247im_/http://spidermedia.ru/assets/images/manga/pp-07/cover.jpg",
+  "modx_id": 101598,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -10,6 +10,12 @@
     "marvel",
     "x-men"
   ],
+  "cover": "https://web.archive.org/web/20170912011130im_/http://spidermedia.ru/assets/images/spidermedia-anniversary/07-15-years-of-x-men/cover.jpg",
+  "modx_id": 101456,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

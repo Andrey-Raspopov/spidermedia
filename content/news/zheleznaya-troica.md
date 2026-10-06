@@ -1,7 +1,10 @@
 {
   "title": "Железная Троица",
-  "date": "2009-07-16T14:05:00+03:00",
+  "date": "2009-07-16T13:05:38+03:00",
   "url": "/news/zheleznaya-troica/",
+  "aliases": [
+    "/node/1575/"
+  ],
   "original_url": "http://spidermedia.ru/news/zheleznaya-troica",
   "archived": "https://web.archive.org/web/20120607184545/http://spidermedia.ru/news/zheleznaya-troica",
   "tags": [
@@ -17,7 +20,14 @@
     "kino",
     "knut",
     "marvel",
-    "chyornaya-vdova"
+    "chyornaya-vdova",
+    "san-diego-comic-con-international"
+  ],
+  "cover": "https://web.archive.org/web/20120607184545im_/http://spidermedia.ru/assets/images/import_image/1575.jpg",
+  "modx_id": 1575,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

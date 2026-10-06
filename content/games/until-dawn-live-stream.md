@@ -4,6 +4,12 @@
   "url": "/games/until-dawn-live-stream/",
   "original_url": "http://spidermedia.ru/games/until-dawn-live-stream",
   "archived": "https://web.archive.org/web/20210920055419/http://spidermedia.ru/games/until-dawn-live-stream",
+  "cover": "https://web.archive.org/web/20210920055419im_/http://spidermedia.ru/assets/images/games/bjvxt3ezqq4.jpg",
+  "modx_id": 100489,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

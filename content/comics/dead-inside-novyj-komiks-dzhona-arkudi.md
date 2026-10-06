@@ -10,6 +10,12 @@
     "dzhon-arkudi",
     "san-diego-comic-con-international"
   ],
+  "cover": "https://web.archive.org/web/20260125125404im_/http://spidermedia.ru/assets/images/comic-con/2016/sdcc-2016/deadinsidecover.jpg",
+  "modx_id": 101295,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

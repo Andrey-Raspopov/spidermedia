@@ -1,6 +1,6 @@
 {
   "title": "Новый сценарист Dark Wolverine",
-  "date": "2011-02-24T18:20:00+03:00",
+  "date": "2011-02-24T18:20:27+03:00",
   "url": "/news/novyy-scenarist-dark-wolverine/",
   "original_url": "http://spidermedia.ru/news/novyy-scenarist-dark-wolverine",
   "archived": "https://web.archive.org/web/20251207092007/http://spidermedia.ru/news/novyy-scenarist-dark-wolverine",
@@ -9,7 +9,14 @@
     "dzhuzeppe-kamunkoli",
     "daken",
     "art-0",
-    "marvel"
+    "marvel",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20251207092007im_/http://spidermedia.ru/assets/images/import_image/3677.jpg",
+  "modx_id": 3677,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

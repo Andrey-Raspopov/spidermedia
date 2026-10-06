@@ -1,12 +1,18 @@
 {
   "title": "Hellboymedia #06: Baltimore — The Witch of Harju",
-  "date": "2014-10-17T17:16:00+03:00",
+  "date": "2014-10-17T16:16:14+03:00",
   "url": "/blog/shargor/hellboymedia-06-baltimore-witch-harju/",
   "original_url": "http://spidermedia.ru/blog/shargor/hellboymedia-06-baltimore-witch-harju",
   "archived": "https://web.archive.org/web/20260117223821/http://spidermedia.ru/blog/shargor/hellboymedia-06-baltimore-witch-harju",
   "tags": [
     "hellboymedia",
     "mnenie"
+  ],
+  "cover": "https://web.archive.org/web/20160611110713im_/http://spidermedia.ru/assets/images/hellboymedia/regular/06-baltimore-the-witch-of-harju/baltimore-the-witch-of-harju-cover.jpg",
+  "modx_id": 8200,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

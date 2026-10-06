@@ -1,6 +1,6 @@
 {
   "title": "Hellboymedia: Арт-трибьют к юбилею Хэллбоя от Артёма Траханова",
-  "date": "2014-12-17T15:16:00+03:00",
+  "date": "2014-12-17T15:16:50+03:00",
   "url": "/blog/shargor/hellboymedia-art-tribyut-k-yubileyu-hellboya-ot-artyoma-trahanova/",
   "original_url": "https://spidermedia.ru/blog/shargor/hellboymedia-art-tribyut-k-yubileyu-hellboya-ot-artyoma-trahanova",
   "archived": "https://web.archive.org/web/20251216182918/https://spidermedia.ru/blog/shargor/hellboymedia-art-tribyut-k-yubileyu-hellboya-ot-artyoma-trahanova",
@@ -8,6 +8,12 @@
     "art-tribyut",
     "hellboymedia",
     "20-let-hellboya"
+  ],
+  "cover": "https://web.archive.org/web/20160611210700im_/http://spidermedia.ru/assets/images/hellboymedia/project-01-anniversary/art-tributes-roddoom/artyom-trakhanov-cover.jpg",
+  "modx_id": 8396,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

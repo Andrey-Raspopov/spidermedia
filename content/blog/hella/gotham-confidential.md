@@ -1,13 +1,20 @@
 {
   "title": "Gotham Confidential",
-  "date": "2014-09-24T20:05:00+03:00",
+  "date": "2014-09-24T19:05:34+03:00",
   "url": "/blog/hella/gotham-confidential/",
   "original_url": "https://spidermedia.ru/blog/hella/gotham-confidential",
   "archived": "https://web.archive.org/web/20260214141448/https://spidermedia.ru/blog/hella/gotham-confidential",
   "tags": [
     "serialy",
     "mnenie",
-    "gotem"
+    "gotem",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20260214141448im_/http://spidermedia.ru/assets/images/import_image/8098.jpg",
+  "modx_id": 8098,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

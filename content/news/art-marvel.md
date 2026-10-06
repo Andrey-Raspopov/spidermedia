@@ -1,7 +1,10 @@
 {
   "title": "Арт-Марвел",
-  "date": "2009-03-15T16:38:00+03:00",
+  "date": "2009-03-15T16:38:12+03:00",
   "url": "/news/art-marvel/",
+  "aliases": [
+    "/node/692/"
+  ],
   "original_url": "http://spidermedia.ru/news/art-marvel",
   "archived": "https://web.archive.org/web/20250620064340/http://spidermedia.ru/news/art-marvel",
   "tags": [
@@ -10,7 +13,15 @@
     "fantastic-four",
     "art-0",
     "young-avengers",
-    "zhenshhina-pauk"
+    "zhenshhina-pauk",
+    "fantasticheskaya-chetverka",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20250620064340im_/http://spidermedia.ru/assets/images/import_image/692.jpg",
+  "modx_id": 692,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

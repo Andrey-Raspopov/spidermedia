@@ -1,12 +1,17 @@
 {
   "title": "Scott Pilgrim vs mash-ups",
-  "date": "2010-08-26T12:22:00+03:00",
+  "date": "2010-08-26T11:22:14+03:00",
   "url": "/blog/plane-v/scott-pilgrim-vs-mash-ups/",
   "original_url": "https://spidermedia.ru/blog/plane-v/scott-pilgrim-vs-mash-ups",
   "archived": "https://web.archive.org/web/20251110232936/https://spidermedia.ru/blog/plane-v/scott-pilgrim-vs-mash-ups",
   "tags": [
     "meshap",
     "scott-pilgrim"
+  ],
+  "modx_id": 2872,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

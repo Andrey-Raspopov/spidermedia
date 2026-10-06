@@ -1,12 +1,19 @@
 {
   "title": "Стань одним из агентов Ника Фьюри",
-  "date": "2011-04-01T23:40:00+03:00",
+  "date": "2011-04-01T22:40:05+03:00",
   "url": "/news/stan-odnim-iz-agentov-nika-fyuri/",
   "original_url": "http://spidermedia.ru/news/stan-odnim-iz-agentov-nika-fyuri",
   "archived": "https://web.archive.org/web/20220820000042/http://spidermedia.ru/news/stan-odnim-iz-agentov-nika-fyuri",
   "tags": [
     "thor",
-    "avengers"
+    "avengers",
+    "tor"
+  ],
+  "cover": "https://web.archive.org/web/20220820000042im_/http://spidermedia.ru/assets/images/import_image/4630.jpg",
+  "modx_id": 4630,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

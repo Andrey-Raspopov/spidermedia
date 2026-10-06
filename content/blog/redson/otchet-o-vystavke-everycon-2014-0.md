@@ -1,6 +1,6 @@
 {
   "title": "Отчет о выставке EveryCon '2014",
-  "date": "2014-10-16T11:07:00+03:00",
+  "date": "2014-10-16T10:07:31+03:00",
   "url": "/blog/redson/otchet-o-vystavke-everycon-2014-0/",
   "original_url": "http://spidermedia.ru/blog/redson/otchet-o-vystavke-everycon-2014-0",
   "archived": "https://web.archive.org/web/20240712041734/http://spidermedia.ru/blog/redson/otchet-o-vystavke-everycon-2014-0",
@@ -8,6 +8,12 @@
     "everycon",
     "vystavka",
     "evrikon"
+  ],
+  "cover": "https://web.archive.org/web/20240712042221im_/http://spidermedia.ru/assets/images/import_image/8192.jpg",
+  "modx_id": 8192,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

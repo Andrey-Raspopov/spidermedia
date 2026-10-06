@@ -1,6 +1,6 @@
 {
   "title": "ЭКСКЛЮЗИВ: Превью \"Неуязвимого\" №15",
-  "date": "2013-08-09T15:45:00+03:00",
+  "date": "2013-08-09T14:45:55+03:00",
   "url": "/news/eksklyuziv-prevyu-neuyazvimogo-no15/",
   "original_url": "http://spidermedia.ru/news/eksklyuziv-prevyu-neuyazvimogo-no15",
   "archived": "https://web.archive.org/web/20250814213206/http://spidermedia.ru/news/eksklyuziv-prevyu-neuyazvimogo-no15",
@@ -8,6 +8,12 @@
     "invincible",
     "zarubezhnye-komiksy-na-russkom",
     "izdatelstvo-42"
+  ],
+  "cover": "https://web.archive.org/web/20250814213206im_/http://spidermedia.ru/assets/images/import_image/7415.png",
+  "modx_id": 7415,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

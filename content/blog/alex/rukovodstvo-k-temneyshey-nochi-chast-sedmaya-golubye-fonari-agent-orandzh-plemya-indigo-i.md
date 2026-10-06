@@ -1,7 +1,10 @@
 {
   "title": "Руководство к \"Темнейшей Ночи\" - Часть седьмая - Голубые Фонари, Агент Орандж, Племя Индиго и Черные Фонари - заключительная",
-  "date": "2009-07-08T15:07:00+03:00",
+  "date": "2009-07-08T14:07:23+03:00",
   "url": "/blog/alex/rukovodstvo-k-temneyshey-nochi-chast-sedmaya-golubye-fonari-agent-orandzh-plemya-indigo-i/",
+  "aliases": [
+    "/node/1507/"
+  ],
   "original_url": "https://spidermedia.ru/blog/alex/rukovodstvo-k-temneyshey-nochi-chast-sedmaya-golubye-fonari-agent-orandzh-plemya-indigo-i",
   "archived": "https://web.archive.org/web/20251115190935/https://spidermedia.ru/blog/alex/rukovodstvo-k-temneyshey-nochi-chast-sedmaya-golubye-fonari-agent-orandzh-plemya-indigo-i",
   "tags": [
@@ -18,6 +21,12 @@
     "dc-comics",
     "blackest-night"
   ],
+  "cover": "https://web.archive.org/web/20251115190935im_/http://spidermedia.ru/assets/images/import_image/1507.png",
+  "modx_id": 1507,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
@@ -25,12 +34,12 @@
 Итак, часть последняя - завершающая. Разумеется всех персонажей охватить я просто не в состоянии, да и не нужны они вам. Как мне показалось, я осветил основных главных героев, так или иначе связаных с ночью. Персонажей много, но про некоторых и написать-то нечего, как например про Декса - всем полюбившегося кота (или кошку) из Красных Фонарей, или про Брата Варта (Слон из Голубых), они новые и истории как таковой - не имеют.
 ![Blackest Night](https://web.archive.org/web/20251115190935im_/http://img.photobucket.com/albums/v497/spidermedia/alex_nexs/BN.png)Предыдущие части:
 
-- [Часть первая - Корпус Зеленых Фонарей](../../../node/316/)
-- [Часть вторая - Supporting cast](../../../node/428/)
-- [Часть третья - Корпус Зеленых Фонарей (дополнение)](../../../node/1465/)
-- [Часть четвертая - Корпус Синестро](../../../node/1477/)
-- [Часть пятая - Корпус Синестро (продолжение)](../../../node/1490/)
-- [Часть шестая - Звездные Сапфиры и Красные Фонари](../../../node/1499/)
+- [Часть первая - Корпус Зеленых Фонарей](../rukovodstvo-k-temneyshey-nochi-chast-pervaya-korpus-zelenyh-fonarey/)
+- [Часть вторая - Supporting cast](../rukovodstvo-k-temneyshey-nochi-chast-vtoraya-supporting-cast/)
+- [Часть третья - Корпус Зеленых Фонарей (дополнение)](../rukovodstvo-k-temneyshey-nochi-chast-tretya-korpus-zelenyh-fonarey-dopolnenie/)
+- [Часть четвертая - Корпус Синестро](../rukovodstvo-k-temneyshey-nochi-chast-chetvertaya-korpus-sinestro/)
+- [Часть пятая - Корпус Синестро (продолжение)](../rukovodstvo-k-temneyshey-nochi-chast-pyataya-korpus-sinestro-prodolzhenie/)
+- [Часть шестая - Звездные Сапфиры и Красные Фонари](../rukovodstvo-k-temneyshey-nochi-chast-shestaya-zvezdnye-sapfiry-i-krasnye-fonari/)
 - **Часть седьмая - Голубые Фонари, Агент Орандж, Племя Индиго и Черные Фонари**
 
 **Гантет (см. предыдущую главу) и Сэйд**

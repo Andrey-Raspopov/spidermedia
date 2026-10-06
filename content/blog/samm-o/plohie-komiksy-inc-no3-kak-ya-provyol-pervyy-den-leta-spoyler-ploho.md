@@ -1,6 +1,6 @@
 {
   "title": "плохие комиксы Inc. №3: Как я провёл первый день лета (спойлер: плохо)",
-  "date": "2011-06-03T02:03:00+03:00",
+  "date": "2011-06-03T01:03:37+03:00",
   "url": "/blog/samm-o/plohie-komiksy-inc-no3-kak-ya-provyol-pervyy-den-leta-spoyler-ploho/",
   "original_url": "http://spidermedia.ru/blog/samm-o/plohie-komiksy-inc-no3-kak-ya-provyol-pervyy-den-leta-spoyler-ploho",
   "archived": "https://web.archive.org/web/20120610054212/http://spidermedia.ru/blog/samm-o/plohie-komiksy-inc-no3-kak-ya-provyol-pervyy-den-leta-spoyler-ploho",
@@ -8,6 +8,12 @@
     "komiksy",
     "marvel",
     "plohie-komiksy-inc"
+  ],
+  "cover": "https://web.archive.org/web/20120610054212im_/http://spidermedia.ru/assets/images/import_image/6228.jpg",
+  "modx_id": 6228,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

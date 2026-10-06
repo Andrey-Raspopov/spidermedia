@@ -1,11 +1,17 @@
 {
   "title": "День новых комиксов: 3 сентября",
-  "date": "2014-09-03T12:28:00+03:00",
+  "date": "2014-09-03T11:28:10+03:00",
   "url": "/blog/igrok/den-novyh-komiksov-3-sentyabrya-0/",
   "original_url": "http://spidermedia.ru/blog/igrok/den-novyh-komiksov-3-sentyabrya-0",
   "archived": "https://web.archive.org/web/20200218020224/http://spidermedia.ru:80/blog/igrok/den-novyh-komiksov-3-sentyabrya-0",
   "tags": [
     "den-novyh-komiksov"
+  ],
+  "cover": "https://web.archive.org/web/20200218020224im_/http://spidermedia.ru/assets/images/import_image/8035.jpg",
+  "modx_id": 8035,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

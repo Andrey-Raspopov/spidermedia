@@ -1,6 +1,6 @@
 {
   "title": "ALL-NEW МЖДЗ: PRETTY DEADLY",
-  "date": "2014-11-11T15:22:00+03:00",
+  "date": "2014-11-11T15:22:45+03:00",
   "url": "/blog/redson/all-new-mzhdz-pretty-deadly-0/",
   "original_url": "https://spidermedia.ru/blog/redson/all-new-mzhdz-pretty-deadly-0",
   "archived": "https://web.archive.org/web/20251206153039/https://spidermedia.ru/blog/redson/all-new-mzhdz-pretty-deadly-0",
@@ -8,6 +8,12 @@
     "obzor",
     "mzhdz",
     "image-comics"
+  ],
+  "cover": "https://web.archive.org/web/20251206153039im_/http://spidermedia.ru/assets/images/import_image/8282.jpg",
+  "modx_id": 8282,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

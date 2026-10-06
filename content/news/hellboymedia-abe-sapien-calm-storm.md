@@ -1,12 +1,18 @@
 {
   "title": "Hellboymedia: Фан-комикс Abe Sapien — The Calm Before the Storm",
-  "date": "2015-01-16T16:33:00+03:00",
+  "date": "2015-01-16T16:33:45+03:00",
   "url": "/news/hellboymedia-abe-sapien-calm-storm/",
   "original_url": "http://spidermedia.ru/news/hellboymedia-abe-sapien-calm-storm",
   "archived": "https://web.archive.org/web/20260117215157/http://spidermedia.ru/news/hellboymedia-abe-sapien-calm-storm",
   "tags": [
     "novosti",
     "hellboymedia"
+  ],
+  "cover": "https://web.archive.org/web/20160611164639im_/http://spidermedia.ru/assets/images/hellboymedia/news/abe-sapien-calm-before-the-storm/abe-sapien-the-calm-before-the-storm-cover.jpg",
+  "modx_id": 8515,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

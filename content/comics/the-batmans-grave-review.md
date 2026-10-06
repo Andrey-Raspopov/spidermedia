@@ -10,6 +10,12 @@
     "batman",
     "warren-ellis"
   ],
+  "cover": "https://web.archive.org/web/20260116210208im_/http://spidermedia.ru/assets/images/reviews/dc/batman/batmans-grave/000.jpg",
+  "modx_id": 102333,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

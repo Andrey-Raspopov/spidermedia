@@ -1,13 +1,20 @@
 {
   "title": "Герои\\Heroes s3 ep.22-25",
-  "date": "2009-05-02T19:53:00+03:00",
+  "date": "2009-05-02T18:53:31+03:00",
   "url": "/blog/alex/geroi-heroes-s3-ep22-25/",
   "original_url": "http://spidermedia.ru/blog/alex/geroi-heroes-s3-ep22-25",
   "archived": "https://web.archive.org/web/20150507123053/http://spidermedia.ru/blog/alex/geroi-heroes-s3-ep22-25",
   "tags": [
     "heroes",
     "serialy",
-    "geroi"
+    "geroi",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20150507123053im_/http://spidermedia.ru/assets/images/import_image/1081.gif",
+  "modx_id": 1081,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "В Готэме по-настоящему холодно",
-  "date": "2009-03-19T23:48:00+03:00",
+  "date": "2009-03-19T23:48:05+03:00",
   "url": "/news/v-goteme-po-nastoyashchemu-holodno/",
+  "aliases": [
+    "/node/723/"
+  ],
   "original_url": "https://spidermedia.ru/news/v-goteme-po-nastoyashchemu-holodno",
   "archived": "https://web.archive.org/web/20260214141502/https://spidermedia.ru/news/v-goteme-po-nastoyashchemu-holodno",
   "tags": [
@@ -13,6 +16,12 @@
     "gcpd",
     "dzhejms-gordon",
     "mister-friz"
+  ],
+  "cover": "https://web.archive.org/web/20260214141502im_/http://spidermedia.ru/assets/images/import_image/723.jpg",
+  "modx_id": 723,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

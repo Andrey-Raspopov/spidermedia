@@ -1,13 +1,22 @@
 {
   "title": "Комиксы DC Universe. Выпуск № 14",
-  "date": "2009-07-20T00:14:00+03:00",
+  "date": "2009-07-19T23:14:01+03:00",
   "url": "/blog/derden/komiksy-dc-universe-vypusk-no-14/",
+  "aliases": [
+    "/node/1604/"
+  ],
   "original_url": "http://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-14",
   "archived": "https://web.archive.org/web/20260211185247/http://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-14",
   "tags": [
     "jsa",
     "dc-comics",
     "dc-universe-comics"
+  ],
+  "cover": "https://web.archive.org/web/20260211185247im_/http://spidermedia.ru/assets/images/import_image/1604.jpg",
+  "modx_id": 1604,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

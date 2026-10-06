@@ -1,12 +1,18 @@
 {
   "title": "Обратно в рай",
-  "date": "2009-03-18T11:27:00+03:00",
+  "date": "2009-03-18T11:27:06+03:00",
   "url": "/news/obratno-v-ray/",
   "original_url": "http://spidermedia.ru/news/obratno-v-ray",
   "archived": "https://web.archive.org/web/20200216104306/http://spidermedia.ru:80/news/obratno-v-ray",
   "tags": [
     "terri-mur",
     "strangers-in-paradise"
+  ],
+  "cover": "https://web.archive.org/web/20200216104306im_/http://spidermedia.ru/assets/images/import_image/700.jpg",
+  "modx_id": 700,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Зеленый Фонарь - официальный сайт мультфильма",
-  "date": "2009-03-04T17:51:00+03:00",
+  "date": "2009-03-04T17:51:29+03:00",
   "url": "/news/zelenyy-fonar-oficialnyy-sayt-multfilma/",
   "original_url": "https://spidermedia.ru/news/zelenyy-fonar-oficialnyy-sayt-multfilma",
   "archived": "https://web.archive.org/web/20250324160729/https://spidermedia.ru/news/zelenyy-fonar-oficialnyy-sayt-multfilma",
@@ -9,11 +9,17 @@
     "animaciya",
     "green-lantern"
   ],
+  "cover": "https://web.archive.org/web/20250324160729im_/http://spidermedia.ru/assets/images/import_image/584.png",
+  "modx_id": 584,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-Мы [писали](../../node/484/), снова [писали](../../node/550/) и вот опять пишем о новом полнометражном мультфильме о Зеленом Фонаре (Green Lantern). Данный продукт, под кодовым названием Green Lantern: First Flight увидит свет этим летом. Вы уже видели скетчи, первый плакат, читали информацию о дисках, теперь пришла пора познакомиться с вновь открывшимся [официальным сайтом](http://www.warnervideo.com/greenlanternmovie/).
+Мы [писали](../zelenyy-svet-zelenomu-fonaryu/), снова [писали](../zelenyy-fonar-pervyy-polet/) и вот опять пишем о новом полнометражном мультфильме о Зеленом Фонаре (Green Lantern). Данный продукт, под кодовым названием Green Lantern: First Flight увидит свет этим летом. Вы уже видели скетчи, первый плакат, читали информацию о дисках, теперь пришла пора познакомиться с вновь открывшимся [официальным сайтом](http://www.warnervideo.com/greenlanternmovie/).
 
 ![](https://web.archive.org/web/20250324160729im_/http://i707.photobucket.com/albums/ww79/Alex_spidermedia/GL.png)
 

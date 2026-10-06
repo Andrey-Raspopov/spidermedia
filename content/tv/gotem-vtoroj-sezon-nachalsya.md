@@ -8,6 +8,12 @@
     "dc-comics",
     "gotem"
   ],
+  "cover": "https://web.archive.org/web/20260215091304im_/http://spidermedia.ru/assets/images/tv/dc/gotham/gth_116_rise_30_a_1280x720_3970279076403.jpg",
+  "modx_id": 100590,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

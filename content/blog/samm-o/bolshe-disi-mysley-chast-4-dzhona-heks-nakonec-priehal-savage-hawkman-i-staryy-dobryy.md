@@ -1,6 +1,6 @@
 {
   "title": "Больше ДиСи Мыслей. Часть 4. Джона Хекс наконец-то приехал, SAVAGE HAWKMAN и старый добрый Флэш",
-  "date": "2011-09-30T19:45:00+03:00",
+  "date": "2011-09-30T18:45:14+03:00",
   "url": "/blog/samm-o/bolshe-disi-mysley-chast-4-dzhona-heks-nakonec-priehal-savage-hawkman-i-staryy-dobryy/",
   "original_url": "http://spidermedia.ru/blog/samm-o/bolshe-disi-mysley-chast-4-dzhona-heks-nakonec-priehal-savage-hawkman-i-staryy-dobryy",
   "archived": "https://web.archive.org/web/20230203082745/http://spidermedia.ru/blog/samm-o/bolshe-disi-mysley-chast-4-dzhona-heks-nakonec-priehal-savage-hawkman-i-staryy-dobryy",
@@ -8,6 +8,12 @@
     "dc-comics",
     "bdsm",
     "mnenie"
+  ],
+  "cover": "https://web.archive.org/web/20150503110213im_/http://spidermedia.ru/assets/images/import_image/6630.jpg",
+  "modx_id": 6630,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

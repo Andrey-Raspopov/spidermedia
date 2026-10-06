@@ -1,12 +1,18 @@
 {
   "title": "ОБЗОР: «И немножко рока №1»",
-  "date": "2014-12-10T10:56:00+03:00",
+  "date": "2014-12-10T10:56:55+03:00",
   "url": "/blog/larosh/obzor-i-nemnozhko-roka-no1/",
   "original_url": "http://spidermedia.ru/blog/larosh/obzor-i-nemnozhko-roka-no1",
   "archived": "https://web.archive.org/web/20260206215946/http://spidermedia.ru/blog/larosh/obzor-i-nemnozhko-roka-no1",
   "tags": [
     "izdatelstvo-42",
     "i-nemnozhko-roka"
+  ],
+  "cover": "https://web.archive.org/web/20150503114632im_/http://spidermedia.ru/assets/images/import_image/8356.jpg",
+  "modx_id": 8356,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Смолвиль/Smallville s9 ep.3 - \"Rabid\"/\"Бешенство (Вирус)\"",
-  "date": "2009-10-12T16:11:00+03:00",
+  "date": "2009-10-12T15:11:12+03:00",
   "url": "/blog/alex/smolvil-smallville-s9-ep3-rabid-beshenstvo-virus/",
   "original_url": "https://spidermedia.ru/blog/alex/smolvil-smallville-s9-ep3-rabid-beshenstvo-virus",
   "archived": "https://web.archive.org/web/20250807225809/https://spidermedia.ru/blog/alex/smolvil-smallville-s9-ep3-rabid-beshenstvo-virus",
@@ -9,7 +9,14 @@
     "smollvill",
     "superman",
     "tajny-smollvillya",
-    "serialy"
+    "serialy",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20250807225809im_/http://spidermedia.ru/assets/images/import_image/1986.png",
+  "modx_id": 1986,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,14 +1,24 @@
 {
   "title": "Испания, Барселона... Бэтмен",
-  "date": "2009-04-04T18:52:00+03:00",
+  "date": "2009-04-04T17:52:45+03:00",
   "url": "/news/ispaniya-barselona-betmen/",
+  "aliases": [
+    "/node/848/"
+  ],
   "original_url": "http://spidermedia.ru/news/ispaniya-barselona-betmen",
   "archived": "https://web.archive.org/web/20120718215713/http://spidermedia.ru/news/ispaniya-barselona-betmen",
   "tags": [
     "batman",
     "dc-comics",
     "komiksy",
-    "mark-ueyd"
+    "mark-ueyd",
+    "mark-waid"
+  ],
+  "cover": "https://web.archive.org/web/20120718215713im_/http://spidermedia.ru/assets/images/import_image/848.jpg",
+  "modx_id": 848,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

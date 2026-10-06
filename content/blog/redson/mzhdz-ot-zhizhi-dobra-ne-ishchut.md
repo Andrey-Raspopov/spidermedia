@@ -1,12 +1,18 @@
 {
   "title": "МЖДЗ: ОТ ЖИЖИ ДОБРА НЕ ИЩУТ",
-  "date": "2011-09-29T00:09:00+03:00",
+  "date": "2011-09-28T23:09:15+03:00",
   "url": "/blog/redson/mzhdz-ot-zhizhi-dobra-ne-ishchut/",
   "original_url": "http://spidermedia.ru/blog/redson/mzhdz-ot-zhizhi-dobra-ne-ishchut",
   "archived": "https://web.archive.org/web/20251117010602/http://spidermedia.ru/blog/redson/mzhdz-ot-zhizhi-dobra-ne-ishchut",
   "tags": [
     "mnenie",
     "mzhdz"
+  ],
+  "cover": "https://web.archive.org/web/20160729181142im_/http://spidermedia.ru/assets/images/import_image/6625.png",
+  "modx_id": 6625,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

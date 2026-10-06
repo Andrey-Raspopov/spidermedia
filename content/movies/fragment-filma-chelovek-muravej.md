@@ -8,6 +8,12 @@
     "marvel",
     "ant-man"
   ],
+  "cover": "https://web.archive.org/web/20251006001745im_/http://spidermedia.ru/assets/images/youtube/Nfcn9Um8sk8.jpg",
+  "modx_id": 100310,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

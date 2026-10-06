@@ -1,6 +1,6 @@
 {
   "title": "The Column With No Name: 13/01/10 - Go, Photomonkey, go!",
-  "date": "2010-01-17T04:51:00+03:00",
+  "date": "2010-01-17T04:51:40+03:00",
   "url": "/blog/sir-carnage/column-no-name-13-01-10-go-photomonkey-go/",
   "original_url": "https://spidermedia.ru/blog/sir-carnage/column-no-name-13-01-10-go-photomonkey-go",
   "archived": "https://web.archive.org/web/20251216123857/https://spidermedia.ru/blog/sir-carnage/column-no-name-13-01-10-go-photomonkey-go",
@@ -9,6 +9,12 @@
     "marvel",
     "dc-comics",
     "the-column-with-no-name"
+  ],
+  "cover": "https://web.archive.org/web/20251216123857im_/http://spidermedia.ru/assets/images/import_image/2277.jpg",
+  "modx_id": 2277,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

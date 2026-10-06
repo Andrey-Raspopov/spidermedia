@@ -1,12 +1,18 @@
 {
   "title": "Трейлер расширенной версии \"Возвращения Супермена\"",
-  "date": "2013-04-19T11:56:00+03:00",
+  "date": "2013-04-19T10:56:35+03:00",
   "url": "/news/treyler-rasshirennoy-versii-vozvrashcheniya-supermena/",
   "original_url": "http://spidermedia.ru/news/treyler-rasshirennoy-versii-vozvrashcheniya-supermena",
   "archived": "https://web.archive.org/web/20240803174541/http://spidermedia.ru/news/treyler-rasshirennoy-versii-vozvrashcheniya-supermena",
   "tags": [
     "superman",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150503114627im_/http://spidermedia.ru/assets/images/import_image/7216.jpg",
+  "modx_id": 7216,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

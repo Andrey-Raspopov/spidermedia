@@ -9,13 +9,19 @@
     "roskomnadzor",
     "russian-comics"
   ],
+  "cover": "https://web.archive.org/web/20240802163104im_/http://spidermedia.ru/assets/images/roskomnadzor/2017/09-06-17/0.jpg",
+  "modx_id": 101589,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
 [![](https://web.archive.org/web/20240802163056im_/http://spidermedia.ru/assets/cache/images/roskomnadzor/2017/09-06-17/622x-0.2e9.jpg)](https://web.archive.org/web/20240802163104im_/http://spidermedia.ru/assets/images/roskomnadzor/2017/09-06-17/0.jpg)
 
-Как вы уже поняли, мы с Димой решили в этот раз махнуться [рубриками](https://web.archive.org/web/20250806053836id_/http://spidermedia.ru/comics/pravyj-pereplet-6.5-rosmannadzor). И не потому что ему было необходимо немного свободного времени для просмотра [«Чудо-Женщины»](../../movies/recenziya-chudo-zhenshhina/), а меня нужно было срочно спасать от похода на новую «Мумию». Нет, причиной всему дух товарищества: когда один говорит «дай мне провести ПП», второй отвечает «только если отдашь РосКом».
+Как вы уже поняли, мы с Димой решили в этот раз махнуться [рубриками](../pravyj-pereplet-6.5-rosmannadzor/). И не потому что ему было необходимо немного свободного времени для просмотра [«Чудо-Женщины»](../../movies/recenziya-chudo-zhenshhina/), а меня нужно было срочно спасать от похода на новую «Мумию». Нет, причиной всему дух товарищества: когда один говорит «дай мне провести ПП», второй отвечает «только если отдашь РосКом».
 
 Так что этот предбигфестовский выпуск было доверено делать мне. А я надзиратель неопытный, и, чтобы не запутаться во всех нововведениях в оформлении рубрики, я решил сделать все по-своему.
 

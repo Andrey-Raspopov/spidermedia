@@ -1,6 +1,6 @@
 {
   "title": "A Knight's Tale",
-  "date": "2009-07-26T03:33:00+03:00",
+  "date": "2009-07-26T02:33:03+03:00",
   "url": "/news/knights-tale/",
   "original_url": "http://spidermedia.ru/news/knights-tale",
   "archived": "https://web.archive.org/web/20120608173622/http://spidermedia.ru/news/knights-tale",
@@ -12,7 +12,14 @@
     "oblozhki",
     "ron-frenc",
     "tom-defalko",
-    "chernyy-rycar"
+    "chernyy-rycar",
+    "art",
+    "chernyj-rycar"
+  ],
+  "modx_id": 1665,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

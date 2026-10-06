@@ -1,6 +1,6 @@
 {
   "title": "Зеленые Фонари - новая вселенная, новые серии",
-  "date": "2011-06-03T17:59:00+03:00",
+  "date": "2011-06-03T16:59:55+03:00",
   "url": "/news/zelenye-fonari-novaya-vselennaya-novye-serii/",
   "original_url": "http://spidermedia.ru/news/zelenye-fonari-novaya-vselennaya-novye-serii",
   "archived": "https://web.archive.org/web/20260211191827/http://spidermedia.ru/news/zelenye-fonari-novaya-vselennaya-novye-serii",
@@ -18,6 +18,12 @@
     "ed-benes",
     "tajler-kirkham",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20260211191827im_/http://spidermedia.ru/assets/images/import_image/6246.jpg",
+  "modx_id": 6246,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

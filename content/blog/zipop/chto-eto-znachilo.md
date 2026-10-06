@@ -1,11 +1,16 @@
 {
   "title": "Что бы это значило?",
-  "date": "2009-07-10T11:33:00+03:00",
+  "date": "2009-07-10T10:33:14+03:00",
   "url": "/blog/zipop/chto-eto-znachilo/",
   "original_url": "http://spidermedia.ru/blog/zipop/chto-eto-znachilo",
   "archived": "https://web.archive.org/web/20120718101417/http://spidermedia.ru/blog/zipop/chto-eto-znachilo",
   "tags": [
     "dc-comics"
+  ],
+  "modx_id": 1522,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

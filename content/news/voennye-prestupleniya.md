@@ -1,7 +1,10 @@
 {
   "title": "Военные преступления",
-  "date": "2009-07-07T23:12:00+03:00",
+  "date": "2009-07-07T22:12:06+03:00",
   "url": "/news/voennye-prestupleniya/",
+  "aliases": [
+    "/node/1503/"
+  ],
   "original_url": "http://spidermedia.ru/news/voennye-prestupleniya",
   "archived": "https://web.archive.org/web/20250121023551/http://spidermedia.ru/news/voennye-prestupleniya",
   "tags": [
@@ -10,7 +13,14 @@
     "norman-osborn",
     "greg-pak",
     "war-machine",
-    "marvel"
+    "marvel",
+    "dark-avengers"
+  ],
+  "cover": "https://web.archive.org/web/20250121023551im_/http://spidermedia.ru/assets/images/import_image/1503.jpg",
+  "modx_id": 1503,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

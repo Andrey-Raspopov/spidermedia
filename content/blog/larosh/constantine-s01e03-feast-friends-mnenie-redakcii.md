@@ -1,6 +1,6 @@
 {
   "title": "Constantine s01e04 «A Feast of Friends»: Мнение редакции",
-  "date": "2014-11-16T12:18:00+03:00",
+  "date": "2014-11-16T12:18:12+03:00",
   "url": "/blog/larosh/constantine-s01e03-feast-friends-mnenie-redakcii/",
   "original_url": "http://spidermedia.ru/blog/larosh/constantine-s01e03-feast-friends-mnenie-redakcii",
   "archived": "https://web.archive.org/web/20260214141441/http://spidermedia.ru/blog/larosh/constantine-s01e03-feast-friends-mnenie-redakcii",
@@ -10,7 +10,14 @@
     "dzhon-konstantin",
     "vertigo",
     "dc-comics",
-    "constantine"
+    "constantine",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20150424150808im_/http://spidermedia.ru/assets/images/import_image/8289.jpg",
+  "modx_id": 8289,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

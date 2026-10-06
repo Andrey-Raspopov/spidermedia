@@ -1,7 +1,10 @@
 {
   "title": "Колечко-колечко-кольцо",
-  "date": "2010-02-25T20:02:00+03:00",
+  "date": "2010-02-25T20:02:33+03:00",
   "url": "/news/kolechko-kolechko-kolco/",
+  "aliases": [
+    "/node/2400/"
+  ],
   "original_url": "https://spidermedia.ru/news/kolechko-kolechko-kolco",
   "archived": "https://web.archive.org/web/20250419050019/https://spidermedia.ru/news/kolechko-kolechko-kolco",
   "tags": [
@@ -9,6 +12,12 @@
     "dc-comics",
     "figurki",
     "akciya"
+  ],
+  "cover": "https://web.archive.org/web/20250419050019im_/http://spidermedia.ru/assets/images/import_image/2400.jpg",
+  "modx_id": 2400,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

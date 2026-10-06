@@ -1,12 +1,21 @@
 {
   "title": "Спин-офф \"Хеллбоя\"? Bring it on!",
-  "date": "2009-01-31T21:13:00+03:00",
+  "date": "2009-01-31T21:13:43+03:00",
   "url": "/news/spin-hellboya-bring-it/",
+  "aliases": [
+    "/node/43/"
+  ],
   "original_url": "http://spidermedia.ru/news/spin-hellboya-bring-it",
   "archived": "https://web.archive.org/web/20260313105109/http://spidermedia.ru/news/spin-hellboya-bring-it",
   "tags": [
     "hellboy",
     "dark-horse"
+  ],
+  "cover": "https://web.archive.org/web/20260313105109im_/http://spidermedia.ru/assets/images/import_image/43.jpg",
+  "modx_id": 43,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

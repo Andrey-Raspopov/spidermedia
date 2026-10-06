@@ -1,6 +1,6 @@
 {
   "title": "Капитан Америка и все-все-все",
-  "date": "2012-01-12T11:38:00+03:00",
+  "date": "2012-01-12T10:38:44+03:00",
   "url": "/news/kapitan-amerika-i-vse-vse-vse/",
   "original_url": "https://spidermedia.ru/news/kapitan-amerika-i-vse-vse-vse",
   "archived": "https://web.archive.org/web/20250808211723/https://spidermedia.ru/news/kapitan-amerika-i-vse-vse-vse",
@@ -10,6 +10,12 @@
     "kallen-bann",
     "alessandro-vitti",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20250808211723im_/http://spidermedia.ru/assets/images/import_image/6753.jpg",
+  "modx_id": 6753,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

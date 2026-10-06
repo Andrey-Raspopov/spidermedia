@@ -7,6 +7,12 @@
   "tags": [
     "eisner-awards"
   ],
+  "cover": "https://web.archive.org/web/20191228200149im_/http://spidermedia.ru/assets/images/news/images/1_comics/other/eisner-awards/moomin-tove-janson.jpg",
+  "modx_id": 100878,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

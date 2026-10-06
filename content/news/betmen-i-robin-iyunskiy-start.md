@@ -1,7 +1,10 @@
 {
   "title": "Бэтмен и Робин - июньский старт",
-  "date": "2009-03-11T04:12:00+03:00",
+  "date": "2009-03-11T03:12:03+03:00",
   "url": "/news/betmen-i-robin-iyunskiy-start/",
+  "aliases": [
+    "/node/641/"
+  ],
   "original_url": "http://spidermedia.ru/news/betmen-i-robin-iyunskiy-start",
   "archived": "https://web.archive.org/web/20120608194729/http://spidermedia.ru/news/betmen-i-robin-iyunskiy-start",
   "tags": [
@@ -11,7 +14,15 @@
     "art-0",
     "grant-morrison",
     "oblozhki",
-    "frenk-kuaytli"
+    "frenk-kuaytli",
+    "frenk-kuajtli",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20120608194729im_/http://spidermedia.ru/assets/images/import_image/641.jpg",
+  "modx_id": 641,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

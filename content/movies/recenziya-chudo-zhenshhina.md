@@ -8,6 +8,12 @@
     "dc-comics",
     "wonder-woman"
   ],
+  "cover": "https://web.archive.org/web/20170911062304im_/http://spidermedia.ru/assets/images/movies/dc/wonder-woman-2017/kinopoisk.ru-wonder-woman-2953002.jpg",
+  "modx_id": 101586,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,6 +1,6 @@
 {
   "title": "SDCC'10: Smallville",
-  "date": "2010-07-26T11:15:00+03:00",
+  "date": "2010-07-26T10:15:13+03:00",
   "url": "/news/sdcc10-smallville/",
   "original_url": "https://spidermedia.ru/news/sdcc10-smallville",
   "archived": "https://web.archive.org/web/20250906075130/https://spidermedia.ru/news/sdcc10-smallville",
@@ -10,6 +10,12 @@
     "san-diego-comic-con-international",
     "smallville",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20250906075130im_/http://spidermedia.ru/assets/images/import_image/2804.png",
+  "modx_id": 2804,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

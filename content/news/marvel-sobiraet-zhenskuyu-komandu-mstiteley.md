@@ -1,6 +1,6 @@
 {
   "title": "Marvel собирает женскую команду Мстителей",
-  "date": "2015-02-06T19:32:00+03:00",
+  "date": "2015-02-06T19:32:03+03:00",
   "url": "/news/marvel-sobiraet-zhenskuyu-komandu-mstiteley/",
   "original_url": "http://spidermedia.ru/news/marvel-sobiraet-zhenskuyu-komandu-mstiteley",
   "archived": "https://web.archive.org/web/20190916234520/http://spidermedia.ru:80/news/marvel-sobiraet-zhenskuyu-komandu-mstiteley",
@@ -9,6 +9,12 @@
     "avengers",
     "margerit-bennett",
     "dzhi-uillou-uilson"
+  ],
+  "cover": "https://web.archive.org/web/20160617094020im_/http://spidermedia.ru/assets/images/import_image/8593.jpg",
+  "modx_id": 8593,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

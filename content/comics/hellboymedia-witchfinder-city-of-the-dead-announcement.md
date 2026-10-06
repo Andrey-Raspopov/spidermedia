@@ -8,6 +8,12 @@
     "hellboymedia",
     "novosti"
   ],
+  "cover": "https://web.archive.org/web/20251115190559im_/http://spidermedia.ru/assets/images/hellboymedia/news/witchfinder-city-of-the-dead/witchfinder-city-of-the-dead-cover_.jpg",
+  "modx_id": 101142,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

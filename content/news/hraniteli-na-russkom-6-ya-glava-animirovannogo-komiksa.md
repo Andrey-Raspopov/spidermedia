@@ -1,7 +1,10 @@
 {
   "title": "\"Хранители\" на русском: 6-я глава анимированного комикса",
-  "date": "2009-03-12T18:36:00+03:00",
+  "date": "2009-03-12T18:36:48+03:00",
   "url": "/news/hraniteli-na-russkom-6-ya-glava-animirovannogo-komiksa/",
+  "aliases": [
+    "/node/657/"
+  ],
   "original_url": "https://spidermedia.ru/news/hraniteli-na-russkom-6-ya-glava-animirovannogo-komiksa",
   "archived": "https://web.archive.org/web/20240912064928/https://spidermedia.ru/news/hraniteli-na-russkom-6-ya-glava-animirovannogo-komiksa",
   "tags": [
@@ -11,6 +14,11 @@
     "animirovannye-komiksy",
     "motion-comics",
     "zarubezhnye-komiksy-na-russkom"
+  ],
+  "modx_id": 657,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

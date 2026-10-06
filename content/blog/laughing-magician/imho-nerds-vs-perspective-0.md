@@ -1,11 +1,17 @@
 {
   "title": "ИМХО: Nerds Vs. Perspective",
-  "date": "2015-01-27T12:06:00+03:00",
+  "date": "2015-01-27T12:06:10+03:00",
   "url": "/blog/laughing-magician/imho-nerds-vs-perspective-0/",
   "original_url": "https://spidermedia.ru/blog/laughing-magician/imho-nerds-vs-perspective-0",
   "archived": "https://web.archive.org/web/20260214134453/https://spidermedia.ru/blog/laughing-magician/imho-nerds-vs-perspective-0",
   "tags": [
     "imho"
+  ],
+  "cover": "https://web.archive.org/web/20150326160716im_/http://spidermedia.ru/assets/images/import_image/8552.jpg",
+  "modx_id": 8552,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

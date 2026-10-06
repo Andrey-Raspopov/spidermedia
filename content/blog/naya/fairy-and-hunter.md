@@ -1,6 +1,6 @@
 {
   "title": "The Fairy and the Hunter",
-  "date": "2009-02-22T19:47:00+03:00",
+  "date": "2009-02-22T18:47:24+03:00",
   "url": "/blog/naya/fairy-and-hunter/",
   "original_url": "http://spidermedia.ru/blog/naya/fairy-and-hunter",
   "archived": "https://web.archive.org/web/20120607132443/http://spidermedia.ru/blog/naya/fairy-and-hunter",
@@ -9,6 +9,12 @@
     "one-shot",
     "shoujo",
     "skachat"
+  ],
+  "cover": "https://web.archive.org/web/20120607132443im_/http://spidermedia.ru/assets/images/import_image/478.jpg",
+  "modx_id": 478,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

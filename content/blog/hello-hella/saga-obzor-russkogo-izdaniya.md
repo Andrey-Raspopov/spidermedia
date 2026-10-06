@@ -1,6 +1,6 @@
 {
   "title": "«Сага»: Обзор русскоязычного издания",
-  "date": "2014-07-11T13:09:00+03:00",
+  "date": "2014-07-11T12:09:18+03:00",
   "url": "/blog/hello-hella/saga-obzor-russkogo-izdaniya/",
   "original_url": "https://spidermedia.ru/blog/hello-hella/saga-obzor-russkogo-izdaniya",
   "archived": "https://web.archive.org/web/20251216180243/https://spidermedia.ru/blog/hello-hella/saga-obzor-russkogo-izdaniya",
@@ -11,7 +11,14 @@
     "zarubezhnye-komiksy-na-russkom",
     "brian-k-vaughan",
     "xl-media",
-    "image-comics"
+    "image-comics",
+    "brajan-k.-von"
+  ],
+  "cover": "https://web.archive.org/web/20150502160109im_/http://spidermedia.ru/assets/images/import_image/7873.jpg",
+  "modx_id": 7873,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -8,6 +8,12 @@
     "bubble",
     "russian-comics"
   ],
+  "cover": "https://web.archive.org/web/20180112151131im_/http://spidermedia.ru/assets/images/roskomnadzor/2016/2705/cover.jpg",
+  "modx_id": 101169,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

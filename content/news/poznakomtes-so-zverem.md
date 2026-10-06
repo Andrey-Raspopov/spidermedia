@@ -1,6 +1,6 @@
 {
   "title": "Познакомьтесь со Зверем",
-  "date": "2011-05-18T23:24:00+03:00",
+  "date": "2011-05-18T22:24:47+03:00",
   "url": "/news/poznakomtes-so-zverem/",
   "original_url": "http://spidermedia.ru/news/poznakomtes-so-zverem",
   "archived": "https://web.archive.org/web/20260305230939/http://spidermedia.ru/news/poznakomtes-so-zverem",
@@ -8,6 +8,11 @@
     "x-men-first-class",
     "lyudi-iks-pervyj-klass",
     "zver"
+  ],
+  "modx_id": 5835,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

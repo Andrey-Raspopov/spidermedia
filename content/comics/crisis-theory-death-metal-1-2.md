@@ -12,6 +12,12 @@
     "imho",
     "skott-snajder"
   ],
+  "cover": "https://web.archive.org/web/20251207002205im_/http://spidermedia.ru/assets/images/reviews/death-metal-1-2/rrr.png",
+  "modx_id": 102256,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

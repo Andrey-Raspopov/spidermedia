@@ -1,6 +1,6 @@
 {
   "title": "Убийцы Негодяев",
-  "date": "2010-03-19T18:32:00+03:00",
+  "date": "2010-03-19T18:32:50+03:00",
   "url": "/news/ubiycy-negodyaev/",
   "original_url": "https://spidermedia.ru/news/ubiycy-negodyaev",
   "archived": "https://web.archive.org/web/20250328000752/https://spidermedia.ru/news/ubiycy-negodyaev",
@@ -12,6 +12,12 @@
     "francis-manapul",
     "the-flash",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20250328000752im_/http://spidermedia.ru/assets/images/import_image/2462.jpg",
+  "modx_id": 2462,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

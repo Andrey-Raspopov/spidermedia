@@ -1,12 +1,18 @@
 {
   "title": "Лицо со шрамом, история Джоны Хекса",
-  "date": "2010-02-16T17:43:00+03:00",
+  "date": "2010-02-16T17:43:44+03:00",
   "url": "/news/lico-so-shramom-istoriya-dzhony-heksa/",
   "original_url": "https://spidermedia.ru/news/lico-so-shramom-istoriya-dzhony-heksa",
   "archived": "https://web.archive.org/web/20250321093621/https://spidermedia.ru/news/lico-so-shramom-istoriya-dzhony-heksa",
   "tags": [
     "dzhona-heks",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20250321093621im_/http://spidermedia.ru/assets/images/import_image/2379.gif",
+  "modx_id": 2379,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

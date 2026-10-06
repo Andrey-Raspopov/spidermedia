@@ -1,6 +1,6 @@
 {
   "title": "UPD.! XL Media издаст в России комикс PRETTY DEADLY",
-  "date": "2014-07-12T09:48:00+03:00",
+  "date": "2014-07-12T08:48:13+03:00",
   "url": "/news/xl-media-izdast-v-rossii-komiks-pretty-deadly/",
   "original_url": "https://spidermedia.ru/news/xl-media-izdast-v-rossii-komiks-pretty-deadly",
   "archived": "https://web.archive.org/web/20260307071337/https://spidermedia.ru/news/xl-media-izdast-v-rossii-komiks-pretty-deadly",
@@ -9,6 +9,12 @@
     "xl-media",
     "pretty-deadly",
     "image-comics"
+  ],
+  "cover": "https://web.archive.org/web/20260307071337im_/http://spidermedia.ru/assets/images/import_image/7882.jpg",
+  "modx_id": 7882,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "Делать было нечего",
-  "date": "2009-11-04T19:46:00+03:00",
+  "date": "2009-11-04T19:46:51+03:00",
   "url": "/blog/sterpazook/delat-bylo-nechego/",
+  "aliases": [
+    "/node/2060/"
+  ],
   "original_url": "https://spidermedia.ru/blog/sterpazook/delat-bylo-nechego",
   "archived": "https://web.archive.org/web/20241104082134/https://spidermedia.ru/blog/sterpazook/delat-bylo-nechego",
   "tags": [
@@ -10,6 +13,12 @@
     "venom",
     "zarubezhnye-komiksy-na-russkom",
     "karnazh"
+  ],
+  "cover": "https://web.archive.org/web/20241104082134im_/http://spidermedia.ru/assets/images/import_image/2060.jpg",
+  "modx_id": 2060,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

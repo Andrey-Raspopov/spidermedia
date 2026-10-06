@@ -8,6 +8,12 @@
     "dc-comics",
     "novye-bogi"
   ],
+  "cover": "https://web.archive.org/web/20250217070407im_/http://spidermedia.ru/assets/images/reviews/dc/mister-miracle/mosaic.jpg",
+  "modx_id": 101718,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,7 +1,10 @@
 {
   "title": "Злой бог зла",
-  "date": "2010-07-19T05:38:00+03:00",
+  "date": "2010-07-19T04:38:58+03:00",
   "url": "/news/zloy-bog-zla/",
+  "aliases": [
+    "/node/2747/"
+  ],
   "original_url": "http://spidermedia.ru/news/zloy-bog-zla",
   "archived": "https://web.archive.org/web/20200131103439/http://spidermedia.ru:80/news/zloy-bog-zla",
   "tags": [
@@ -9,6 +12,12 @@
     "roberto-agirre-sakasa",
     "loki",
     "sebastyan-fiumara"
+  ],
+  "cover": "https://web.archive.org/web/20200131103439im_/http://spidermedia.ru/assets/images/import_image/2747.jpg",
+  "modx_id": 2747,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

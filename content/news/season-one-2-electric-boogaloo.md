@@ -1,6 +1,6 @@
 {
   "title": "Season One 2: Electric Boogaloo",
-  "date": "2011-12-17T04:35:00+03:00",
+  "date": "2011-12-17T03:35:45+03:00",
   "url": "/news/season-one-2-electric-boogaloo/",
   "original_url": "https://spidermedia.ru/news/season-one-2-electric-boogaloo",
   "archived": "https://web.archive.org/web/20260313114557/https://spidermedia.ru/news/season-one-2-electric-boogaloo",
@@ -15,6 +15,12 @@
     "goracio-dominges",
     "marvel",
     "hulk"
+  ],
+  "cover": "https://web.archive.org/web/20260313114557im_/http://spidermedia.ru/assets/images/import_image/6742.jpg",
+  "modx_id": 6742,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

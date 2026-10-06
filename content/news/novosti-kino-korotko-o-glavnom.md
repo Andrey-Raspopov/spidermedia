@@ -2,12 +2,22 @@
   "title": "Новости кино: коротко о главном",
   "date": "2010-01-09T15:53:00+03:00",
   "url": "/news/novosti-kino-korotko-o-glavnom/",
+  "aliases": [
+    "/node/2238/"
+  ],
   "original_url": "http://spidermedia.ru/news/novosti-kino-korotko-o-glavnom",
   "archived": "https://web.archive.org/web/20251006133236/http://spidermedia.ru/news/novosti-kino-korotko-o-glavnom",
   "tags": [
     "wolverine",
     "green-lantern",
-    "avengers"
+    "avengers",
+    "x-men-origins-wolverine"
+  ],
+  "cover": "https://web.archive.org/web/20251006133236im_/http://spidermedia.ru/assets/images/import_image/2238.jpg",
+  "modx_id": 2238,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
@@ -17,7 +27,7 @@
 
 **Блэйк Лайвли** *(Blake Lively)* звезда сериала **"Сплетница"** *(Gossip Girl)* взошла на борт экранизации **"Зеленого Фонаря"** *(Green Lantern)* в роли **Кэрол Феррис** *(Carol Ferris)*.
 
-Кэрол, будучи во главе отцовской авиакомпании, нанимает **Хэла Джордана** *(Hal Jordan)* в качестве пилота-испытателя ну а дальше любовь и кольцо (более подробно о Кэрол Феррис можете прочитать [здесь](../../node/428/)).
+Кэрол, будучи во главе отцовской авиакомпании, нанимает **Хэла Джордана** *(Hal Jordan)* в качестве пилота-испытателя ну а дальше любовь и кольцо (более подробно о Кэрол Феррис можете прочитать [здесь](../../blog/alex/rukovodstvo-k-temneyshey-nochi-chast-vtoraya-supporting-cast/)).
 
 ![](https://web.archive.org/web/20251006133236im_/http://i583.photobucket.com/albums/ss273/zipoff/News/wolverine2_02.jpg)
 

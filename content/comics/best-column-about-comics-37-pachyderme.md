@@ -8,6 +8,12 @@
     "best-column-about-comics",
     "mnenie"
   ],
+  "cover": "https://web.archive.org/web/20260215084304im_/http://spidermedia.ru/assets/images/best-column-about-comics/37-pachyderme/pachyderme-cover.jpg",
+  "modx_id": 101939,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

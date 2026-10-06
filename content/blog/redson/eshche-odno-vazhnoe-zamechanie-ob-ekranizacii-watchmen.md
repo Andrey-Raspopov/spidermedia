@@ -1,7 +1,10 @@
 {
   "title": "Еще одно важное замечание об экранизации Watchmen",
-  "date": "2009-03-10T18:24:00+03:00",
+  "date": "2009-03-10T17:24:38+03:00",
   "url": "/blog/redson/eshche-odno-vazhnoe-zamechanie-ob-ekranizacii-watchmen/",
+  "aliases": [
+    "/node/636/"
+  ],
   "original_url": "http://spidermedia.ru/blog/redson/eshche-odno-vazhnoe-zamechanie-ob-ekranizacii-watchmen",
   "archived": "https://web.archive.org/web/20120608172319/http://spidermedia.ru/blog/redson/eshche-odno-vazhnoe-zamechanie-ob-ekranizacii-watchmen",
   "tags": [
@@ -9,7 +12,14 @@
     "alan-moore",
     "zak-snayder",
     "kino",
-    "komiksy"
+    "komiksy",
+    "hraniteli",
+    "alan-mur"
+  ],
+  "modx_id": 636,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

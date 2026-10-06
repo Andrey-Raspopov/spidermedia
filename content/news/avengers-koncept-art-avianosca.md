@@ -1,13 +1,22 @@
 {
   "title": "The Avengers: Концепт-арт Авианосца",
-  "date": "2010-10-14T14:39:00+03:00",
+  "date": "2010-10-14T13:39:15+03:00",
   "url": "/news/avengers-koncept-art-avianosca/",
+  "aliases": [
+    "/node/3006/"
+  ],
   "original_url": "https://spidermedia.ru/news/avengers-koncept-art-avianosca",
   "archived": "https://web.archive.org/web/20250429152209/https://spidermedia.ru/news/avengers-koncept-art-avianosca",
   "tags": [
     "koncept-art",
     "marvel",
     "avengers"
+  ],
+  "cover": "https://web.archive.org/web/20250429152209im_/http://spidermedia.ru/assets/images/import_image/3006.jpg",
+  "modx_id": 3006,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

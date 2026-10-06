@@ -8,6 +8,12 @@
     "best-column-about-comics",
     "mnenie"
   ],
+  "cover": "https://web.archive.org/web/20251206153313im_/http://spidermedia.ru/assets/images/best-column-about-comics/07-sabertooth-swordsman/sabertooth-swordsman-cover.jpg",
+  "modx_id": 101423,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

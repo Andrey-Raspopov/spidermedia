@@ -1,12 +1,18 @@
 {
   "title": "МЖДЗ: ЗАТИШЬЕ ПЕРЕД БУРЕЙ",
-  "date": "2011-09-07T13:55:00+03:00",
+  "date": "2011-09-07T12:55:38+03:00",
   "url": "/blog/redson/mzhdz-zatishe-pered-burey/",
   "original_url": "http://spidermedia.ru/blog/redson/mzhdz-zatishe-pered-burey",
   "archived": "https://web.archive.org/web/20251116060433/http://spidermedia.ru/blog/redson/mzhdz-zatishe-pered-burey",
   "tags": [
     "mnenie",
     "mzhdz"
+  ],
+  "cover": "https://web.archive.org/web/20160716094005im_/http://spidermedia.ru/assets/images/import_image/6595.png",
+  "modx_id": 6595,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

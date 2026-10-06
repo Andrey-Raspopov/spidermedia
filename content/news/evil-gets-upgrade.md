@@ -1,6 +1,6 @@
 {
   "title": "Evil Gets an Upgrade",
-  "date": "2013-04-04T07:58:00+03:00",
+  "date": "2013-04-04T06:58:50+03:00",
   "url": "/news/evil-gets-upgrade/",
   "original_url": "http://spidermedia.ru/news/evil-gets-upgrade",
   "archived": "https://web.archive.org/web/20150423205017/http://spidermedia.ru/news/evil-gets-upgrade",
@@ -9,7 +9,14 @@
     "kevin-shinik",
     "karnejdzh",
     "marvel-comics",
-    "karnazh"
+    "karnazh",
+    "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150424085809im_/http://spidermedia.ru/assets/images/import_image/7180.jpg",
+  "modx_id": 7180,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

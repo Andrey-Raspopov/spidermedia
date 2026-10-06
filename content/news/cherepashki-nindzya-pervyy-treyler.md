@@ -1,12 +1,18 @@
 {
   "title": "\"Черепашки Ниндзя\": Первый трейлер",
-  "date": "2014-03-27T19:59:00+03:00",
+  "date": "2014-03-27T18:59:37+03:00",
   "url": "/news/cherepashki-nindzya-pervyy-treyler/",
   "original_url": "http://spidermedia.ru/news/cherepashki-nindzya-pervyy-treyler",
   "archived": "https://web.archive.org/web/20260125115956/http://spidermedia.ru/news/cherepashki-nindzya-pervyy-treyler",
   "tags": [
     "ninja-turtles",
     "trejlery"
+  ],
+  "cover": "https://web.archive.org/web/20260125115956im_/http://spidermedia.ru/assets/images/import_image/7699.jpg",
+  "modx_id": 7699,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "Dark Reign: Elektra - She's back and ready for action!",
-  "date": "2009-02-20T12:08:00+03:00",
+  "date": "2009-02-20T12:08:04+03:00",
   "url": "/news/dark-reign-elektra-shes-back-and-ready-action/",
+  "aliases": [
+    "/node/455/"
+  ],
   "original_url": "https://spidermedia.ru/news/dark-reign-elektra-shes-back-and-ready-action",
   "archived": "https://web.archive.org/web/20260121012205/https://spidermedia.ru/news/dark-reign-elektra-shes-back-and-ready-action",
   "tags": [
@@ -9,6 +12,11 @@
     "zeb-uells",
     "marvel",
     "elektra"
+  ],
+  "modx_id": 455,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

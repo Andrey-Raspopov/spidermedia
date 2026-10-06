@@ -1,12 +1,18 @@
 {
   "title": "Hellboymedia Special #01: Фигурки, статуи, бюсты",
-  "date": "2014-07-07T21:14:00+03:00",
+  "date": "2014-07-07T20:14:25+03:00",
   "url": "/blog/igrok/hellboymedia-special-01-figurki-statui-byusty/",
   "original_url": "https://spidermedia.ru/blog/igrok/hellboymedia-special-01-figurki-statui-byusty",
   "archived": "https://web.archive.org/web/20260115044352/https://spidermedia.ru/blog/igrok/hellboymedia-special-01-figurki-statui-byusty",
   "tags": [
     "hellboymedia",
     "obzor"
+  ],
+  "cover": "https://web.archive.org/web/20160416133747im_/http://spidermedia.ru/assets/images/hellboymedia/special/01-figures-statues-busts/figures-statues-busts-cover.jpg",
+  "modx_id": 7861,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

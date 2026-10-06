@@ -1,7 +1,10 @@
 {
   "title": "Железный февраль",
-  "date": "2009-11-20T23:39:00+03:00",
+  "date": "2009-11-20T23:39:14+03:00",
   "url": "/news/zheleznyy-fevral/",
+  "aliases": [
+    "/node/2122/"
+  ],
   "original_url": "http://spidermedia.ru/news/zheleznyy-fevral",
   "archived": "https://web.archive.org/web/20260314082626/http://spidermedia.ru/news/zheleznyy-fevral",
   "tags": [
@@ -18,7 +21,17 @@
     "brendon-peterson",
     "whiplash",
     "marvel",
-    "iron-man"
+    "iron-man",
+    "prevyu",
+    "mett-frakshen",
+    "zheleznyy-chelovek",
+    "invincible-iron-man"
+  ],
+  "cover": "https://web.archive.org/web/20260314082626im_/http://spidermedia.ru/assets/images/import_image/2122.jpg",
+  "modx_id": 2122,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

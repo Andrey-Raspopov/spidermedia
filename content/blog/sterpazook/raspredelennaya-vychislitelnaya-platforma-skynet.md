@@ -1,12 +1,21 @@
 {
   "title": "Распределенная вычислительная платформа SKYNET",
-  "date": "2009-04-14T17:32:00+03:00",
+  "date": "2009-04-14T16:32:54+03:00",
   "url": "/blog/sterpazook/raspredelennaya-vychislitelnaya-platforma-skynet/",
+  "aliases": [
+    "/node/937/"
+  ],
   "original_url": "http://spidermedia.ru/blog/sterpazook/raspredelennaya-vychislitelnaya-platforma-skynet",
   "archived": "https://web.archive.org/web/20210125222736/http://spidermedia.ru/blog/sterpazook/raspredelennaya-vychislitelnaya-platforma-skynet",
   "tags": [
     "terminator",
     "viral"
+  ],
+  "cover": "https://web.archive.org/web/20210125222736im_/http://spidermedia.ru/assets/images/import_image/937.jpg",
+  "modx_id": 937,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "CCC'09 - Invincible Iron Man",
-  "date": "2009-08-08T23:01:00+03:00",
+  "date": "2009-08-08T22:01:13+03:00",
   "url": "/news/ccc09-invincible-iron-man/",
+  "aliases": [
+    "/node/1747/"
+  ],
   "original_url": "http://spidermedia.ru/news/ccc09-invincible-iron-man",
   "archived": "https://web.archive.org/web/20120608142055/http://spidermedia.ru/news/ccc09-invincible-iron-man",
   "tags": [
@@ -13,7 +16,13 @@
     "marvel",
     "mett-frakshen",
     "norman-osborn-0",
-    "preview-s"
+    "preview-s",
+    "prevyu"
+  ],
+  "modx_id": 1747,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"
@@ -21,7 +30,7 @@
 
 ![Chicago Con '09: Stark Disassembled](https://web.archive.org/web/20120608142055im_/http://marvel.com/i/content/st/9121header_banner9655188.jpg)Новый Комик-Кон (Chicago Comic Con 2009) продолжается, а у нас есть новости, касающиеся **Железного Человека** (Tony Stark/Iron Man). Помимо [великолепного тизер-трейлера](../../node/1743/), увиденного вами сегодня, мы приготовили для вас нечто интересное от сценариста комикса Invincible Iron Man, Мэтта Фракшена (Matt Fraction). Мы узнали про многие важные подробности, но в целях безопасности - мы выделили белым цветом всевозможные спойлеры, чтобы вы (читатели) не испортили себе впечатление:
 
-- Мы [уже рассказывали](../../node/1706/) вам про то, что в #20 - Тони Старка ждут большие перемены! Так вот, господин Фракшен решил раскрыть название нового арка комикса - "Stark Disassembled", стартующего в ноябре.
+- Мы [уже рассказывали](../zheleznoe-budushchee/) вам про то, что в #20 - Тони Старка ждут большие перемены! Так вот, господин Фракшен решил раскрыть название нового арка комикса - "Stark Disassembled", стартующего в ноябре.
 - Данный арк будет состоять из четырёх выпусков (#20-24).
 - У предыдущего арка "World's Most Wanted" будет открытый конец!
 - Тони выйграет в "гонке", которую он начал, но главная проблема заключается в том, что и Тони, и Норман (Norman Osborn/Iron Patriot), выходят из неё победителями.

@@ -1,6 +1,6 @@
 {
   "title": "Описание Пролога",
-  "date": "2011-12-13T22:24:00+03:00",
+  "date": "2011-12-13T21:24:21+03:00",
   "url": "/news/opisanie-prologa/",
   "original_url": "https://spidermedia.ru/news/opisanie-prologa",
   "archived": "https://web.archive.org/web/20260214133118/https://spidermedia.ru/news/opisanie-prologa",
@@ -9,6 +9,12 @@
     "dark-knight-rises",
     "dc-comics",
     "temnyj-rycar"
+  ],
+  "cover": "https://web.archive.org/web/20260214133118im_/http://spidermedia.ru/assets/images/import_image/6734.jpg",
+  "modx_id": 6734,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

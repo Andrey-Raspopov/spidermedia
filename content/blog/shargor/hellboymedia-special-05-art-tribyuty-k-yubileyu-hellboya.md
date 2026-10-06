@@ -1,6 +1,6 @@
 {
   "title": "Hellboymedia Special #05: Арт-трибьюты к юбилею Хэллбоя",
-  "date": "2014-12-08T15:44:00+03:00",
+  "date": "2014-12-08T15:44:58+03:00",
   "url": "/blog/shargor/hellboymedia-special-05-art-tribyuty-k-yubileyu-hellboya/",
   "original_url": "http://spidermedia.ru/blog/shargor/hellboymedia-special-05-art-tribyuty-k-yubileyu-hellboya",
   "archived": "https://web.archive.org/web/20260305231520/http://spidermedia.ru/blog/shargor/hellboymedia-special-05-art-tribyuty-k-yubileyu-hellboya",
@@ -8,6 +8,12 @@
     "hellboymedia",
     "20-let-hellboya",
     "obzor"
+  ],
+  "cover": "https://web.archive.org/web/20160611221505im_/http://spidermedia.ru/assets/images/hellboymedia/special/05-anniversary-art-tributes/anniversary-art-tributes-cover.jpg",
+  "modx_id": 8354,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

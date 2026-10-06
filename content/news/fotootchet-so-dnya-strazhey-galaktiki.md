@@ -1,6 +1,6 @@
 {
   "title": "Фотоотчет со Дня \"Стражей галактики\"",
-  "date": "2014-07-10T15:30:00+03:00",
+  "date": "2014-07-10T14:30:59+03:00",
   "url": "/news/fotootchet-so-dnya-strazhey-galaktiki/",
   "original_url": "http://spidermedia.ru/news/fotootchet-so-dnya-strazhey-galaktiki",
   "archived": "https://web.archive.org/web/20260307062617/http://spidermedia.ru/news/fotootchet-so-dnya-strazhey-galaktiki",
@@ -8,6 +8,12 @@
     "guardians-of-the-galaxy",
     "marvel",
     "disnej"
+  ],
+  "cover": "https://web.archive.org/web/20260307062617im_/http://spidermedia.ru/assets/images/import_image/7874.jpg",
+  "modx_id": 7874,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

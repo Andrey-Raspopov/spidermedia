@@ -1,12 +1,21 @@
 {
   "title": "Ангел: возвращение к истокам",
-  "date": "2009-06-29T12:03:00+03:00",
+  "date": "2009-06-29T11:03:31+03:00",
   "url": "/news/angel-vozvrashchenie-k-istokam/",
+  "aliases": [
+    "/node/1488/"
+  ],
   "original_url": "http://spidermedia.ru/news/angel-vozvrashchenie-k-istokam",
   "archived": "https://web.archive.org/web/20260125131731/http://spidermedia.ru/news/angel-vozvrashchenie-k-istokam",
   "tags": [
     "idw-publishing",
     "angel"
+  ],
+  "cover": "https://web.archive.org/web/20260125131731im_/http://spidermedia.ru/assets/images/import_image/1488.jpg",
+  "modx_id": 1488,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

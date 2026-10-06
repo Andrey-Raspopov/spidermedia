@@ -1,6 +1,6 @@
 {
   "title": "Приключения Супербоя",
-  "date": "2009-05-15T17:19:00+03:00",
+  "date": "2009-05-15T16:19:47+03:00",
   "url": "/news/priklyucheniya-superboya/",
   "original_url": "https://spidermedia.ru/news/priklyucheniya-superboya",
   "archived": "https://web.archive.org/web/20251207100606/https://spidermedia.ru/news/priklyucheniya-superboya",
@@ -14,6 +14,12 @@
     "superboj-prajm",
     "legion-of-super-heroes",
     "legion-of-3-worlds"
+  ],
+  "cover": "https://web.archive.org/web/20251207100606im_/http://spidermedia.ru/assets/images/import_image/1197.jpg",
+  "modx_id": 1197,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

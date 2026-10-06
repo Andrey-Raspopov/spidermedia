@@ -7,6 +7,12 @@
   "tags": [
     "gamermedia"
   ],
+  "cover": "https://web.archive.org/web/20250208092334im_/http://spidermedia.ru/assets/images/games/igromir2018/fotoezh-7-0720.1200x1200.jpg",
+  "modx_id": 102027,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

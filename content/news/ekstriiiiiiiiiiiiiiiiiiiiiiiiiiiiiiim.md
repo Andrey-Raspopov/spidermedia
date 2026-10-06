@@ -1,6 +1,6 @@
 {
   "title": "Экстрииииииииииииииииииииииииииииииим!",
-  "date": "2011-10-15T08:40:00+03:00",
+  "date": "2011-10-15T07:40:16+03:00",
   "url": "/news/ekstriiiiiiiiiiiiiiiiiiiiiiiiiiiiiiim/",
   "original_url": "http://spidermedia.ru/news/ekstriiiiiiiiiiiiiiiiiiiiiiiiiiiiiiim",
   "archived": "https://web.archive.org/web/20251206031527/http://spidermedia.ru/news/ekstriiiiiiiiiiiiiiiiiiiiiiiiiiiiiiim",
@@ -14,6 +14,12 @@
     "komik-kon-v-nyu-jorke",
     "nycc-2011",
     "brendon-grem"
+  ],
+  "cover": "https://web.archive.org/web/20251206031527im_/http://spidermedia.ru/assets/images/import_image/6646.jpg",
+  "modx_id": 6646,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -10,6 +10,12 @@
     "mike-mignola-russia",
     "eksklyuziv"
   ],
+  "cover": "https://web.archive.org/web/20160309050246im_/http://spidermedia.ru/assets/images/hellboymedia/project-02-russia/interview-mike-mignola/mike-mignola-inteview-cover.jpg",
+  "modx_id": 100783,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

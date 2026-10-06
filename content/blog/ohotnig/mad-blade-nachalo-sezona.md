@@ -1,12 +1,19 @@
 {
   "title": "Mad Blade - начало сезона",
-  "date": "2011-10-19T14:01:00+03:00",
+  "date": "2011-10-19T13:01:51+03:00",
   "url": "/blog/ohotnig/mad-blade-nachalo-sezona/",
   "original_url": "http://spidermedia.ru/blog/ohotnig/mad-blade-nachalo-sezona",
   "archived": "https://web.archive.org/web/20120608220643/http://spidermedia.ru/blog/ohotnig/mad-blade-nachalo-sezona",
   "tags": [
     "mad-blade",
-    "russkie-komiksy"
+    "russkie-komiksy",
+    "russian-comics"
+  ],
+  "cover": "https://web.archive.org/web/20120608220643im_/http://spidermedia.ru/assets/images/import_image/6658.png",
+  "modx_id": 6658,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

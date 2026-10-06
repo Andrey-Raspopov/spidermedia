@@ -8,6 +8,12 @@
     "hellboymedia",
     "mnenie"
   ],
+  "cover": "https://web.archive.org/web/20180202040416im_/http://spidermedia.ru/assets/images/hellboymedia/regular/24-abe-sapien-witchcraft-and-demonology/abe-sapien-witchcraft-and-demonology-cover.jpg",
+  "modx_id": 101031,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

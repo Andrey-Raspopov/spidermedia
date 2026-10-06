@@ -1,7 +1,10 @@
 {
   "title": "The Column With No Name: Year One",
-  "date": "2009-12-28T08:13:00+03:00",
+  "date": "2009-12-28T08:13:11+03:00",
   "url": "/blog/sir-carnage/column-no-name-year-one/",
+  "aliases": [
+    "/node/2201/"
+  ],
   "original_url": "https://spidermedia.ru/blog/sir-carnage/column-no-name-year-one",
   "archived": "https://web.archive.org/web/20260121010937/https://spidermedia.ru/blog/sir-carnage/column-no-name-year-one",
   "tags": [
@@ -13,6 +16,12 @@
     "dark-horse",
     "blackest-night",
     "the-column-with-no-name"
+  ],
+  "cover": "https://web.archive.org/web/20260121010937im_/http://spidermedia.ru/assets/images/import_image/2201.jpg",
+  "modx_id": 2201,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

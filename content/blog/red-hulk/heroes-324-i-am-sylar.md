@@ -1,14 +1,23 @@
 {
   "title": "Heroes 3.24 I Am Sylar",
-  "date": "2009-05-03T16:33:00+03:00",
+  "date": "2009-05-03T15:33:45+03:00",
   "url": "/blog/red-hulk/heroes-324-i-am-sylar/",
+  "aliases": [
+    "/node/1087/"
+  ],
   "original_url": "http://spidermedia.ru/blog/red-hulk/heroes-324-i-am-sylar",
   "archived": "https://web.archive.org/web/20150507200315/http://spidermedia.ru/blog/red-hulk/heroes-324-i-am-sylar",
   "tags": [
     "mnenie",
     "heroes",
     "serialy",
-    "geroi"
+    "geroi",
+    "tv"
+  ],
+  "modx_id": 1087,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

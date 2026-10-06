@@ -1,6 +1,6 @@
 {
   "title": "ЭКСКЛЮЗИВ: «Комильфо» выпустит Undertow на русском",
-  "date": "2015-02-15T16:00:00+03:00",
+  "date": "2015-02-15T16:00:12+03:00",
   "url": "/news/eksklyuziv-komilfo-vypustit-undertow-na-russkom-0/",
   "original_url": "http://spidermedia.ru/news/eksklyuziv-komilfo-vypustit-undertow-na-russkom-0",
   "archived": "https://web.archive.org/web/20251012181239/http://spidermedia.ru/news/eksklyuziv-komilfo-vypustit-undertow-na-russkom-0",
@@ -9,6 +9,12 @@
     "artem-trahanov",
     "zarubezhnye-komiksy-na-russkom",
     "komilfo"
+  ],
+  "cover": "https://web.archive.org/web/20150326220240im_/http://spidermedia.ru/assets/images/import_image/8616.jpg",
+  "modx_id": 8616,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

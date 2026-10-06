@@ -8,6 +8,12 @@
     "marvel",
     "moon-knight"
   ],
+  "cover": "https://web.archive.org/web/20250709065822im_/http://spidermedia.ru/assets/images/news/marvel/all-new-all-different/moon-knight/moon_knight_1_cover.jpg",
+  "modx_id": 100613,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

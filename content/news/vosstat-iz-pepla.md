@@ -1,6 +1,6 @@
 {
   "title": "Восстать из пепла",
-  "date": "2011-10-17T19:35:00+03:00",
+  "date": "2011-10-17T18:35:35+03:00",
   "url": "/news/vosstat-iz-pepla/",
   "original_url": "http://spidermedia.ru/news/vosstat-iz-pepla",
   "archived": "https://web.archive.org/web/20250913010920/http://spidermedia.ru/news/vosstat-iz-pepla",
@@ -9,7 +9,14 @@
     "x-men",
     "dzhin-grej",
     "phoenix",
-    "marvel"
+    "marvel",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20250913010920im_/http://spidermedia.ru/assets/images/import_image/6652.jpg",
+  "modx_id": 6652,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

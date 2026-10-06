@@ -7,6 +7,12 @@
   "tags": [
     "manga"
   ],
+  "cover": "https://web.archive.org/web/20251209135557im_/http://spidermedia.ru/assets/images/manga/others/itoshi-no-kana/mzk.jpg",
+  "modx_id": 101799,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,12 +1,18 @@
 {
   "title": "Bollocks",
-  "date": "2009-02-13T02:07:00+03:00",
+  "date": "2009-02-13T02:07:35+03:00",
   "url": "/blog/redson/bollocks/",
   "original_url": "http://spidermedia.ru/blog/redson/bollocks",
   "archived": "https://web.archive.org/web/20150426184302/http://spidermedia.ru/blog/redson/bollocks",
   "tags": [
     "marvel-comics",
-    "wolverine"
+    "wolverine",
+    "marvel"
+  ],
+  "modx_id": 341,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

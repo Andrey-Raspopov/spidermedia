@@ -1,22 +1,31 @@
 {
   "title": "Пара слов о Войне Королей",
-  "date": "2009-02-24T13:56:00+03:00",
+  "date": "2009-02-24T13:56:55+03:00",
   "url": "/news/para-slov-o-voyne-koroley/",
+  "aliases": [
+    "/node/494/"
+  ],
   "original_url": "http://spidermedia.ru/news/para-slov-o-voyne-koroley",
   "archived": "https://web.archive.org/web/20241102081641/http://spidermedia.ru/news/para-slov-o-voyne-koroley",
   "tags": [
     "marvel",
     "nycc-2009"
   ],
+  "cover": "https://web.archive.org/web/20241102081641im_/http://spidermedia.ru/assets/images/import_image/494.jpg",
+  "modx_id": 494,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-Вскоре космос **Marvel** потрясет очередное глобальное событие - **War of Kings** от сценаристов **Дэна Абнетта** и **Энди Лэннинга** *(Dan Abnett & Andy Lanning)* и художника **Пола Пеллетье** *(Paul Pelletier )*. По этому случаю сайт **CBR** порадовал нас ещё одной партией шахматных фигур, на подобии тех, о которых мы [уже писали](../../node/163/). Фигуры идут в дополнение с [описанием персонажей](http://www.comicbookresources.com/?page=article&id=20102):
+Вскоре космос **Marvel** потрясет очередное глобальное событие - **War of Kings** от сценаристов **Дэна Абнетта** и **Энди Лэннинга** *(Dan Abnett & Andy Lanning)* и художника **Пола Пеллетье** *(Paul Pelletier )*. По этому случаю сайт **CBR** порадовал нас ещё одной партией шахматных фигур, на подобии тех, о которых мы [уже писали](../korolevskie-shahmaty/). Фигуры идут в дополнение с [описанием персонажей](http://www.comicbookresources.com/?page=article&id=20102):
 
 [![Photobucket](https://web.archive.org/web/20241102081641im_/http://img.photobucket.com/albums/v499/sp888/th_white_bishop_crystal.jpg)](http://smg.photobucket.com/albums/v499/sp888/?action=view¤t=white_bishop_crystal.jpg) [![Photobucket](https://web.archive.org/web/20241102081641im_/http://img.photobucket.com/albums/v499/sp888/th_white_bishop_ronan.jpg)](http://smg.photobucket.com/albums/v499/sp888/?action=view¤t=white_bishop_ronan.jpg) [![Photobucket](https://web.archive.org/web/20241102081641im_/http://img.photobucket.com/albums/v499/sp888/th_black_bishop_lilandra.jpg)](http://smg.photobucket.com/albums/v499/sp888/?action=view¤t=black_bishop_lilandra.jpg) [![Photobucket](https://web.archive.org/web/20241102081641im_/http://img.photobucket.com/albums/v499/sp888/th_black_bishop_guardian.jpg)](http://smg.photobucket.com/albums/v499/sp888/?action=view¤t=black_bishop_guardian.jpg)
 
-Ну а пока мы ждем выхода первого номера, поговорим о информации с **NYCC 2009**, о грядущем событии. Мы уже описывали часть панели **NYCC: War of Kings** [ранее](../../node/240/) - теперь у нас есть возможность дополнить ту информацию. Даже несмотря на некоторую запоздалость новости, она все ещё актуальна и интересна.
+Ну а пока мы ждем выхода первого номера, поговорим о информации с **NYCC 2009**, о грядущем событии. Мы уже описывали часть панели **NYCC: War of Kings** [ранее](../voyna-koroley-komik-kon-2009/) - теперь у нас есть возможность дополнить ту информацию. Даже несмотря на некоторую запоздалость новости, она все ещё актуальна и интересна.
 
 Приступим:
 

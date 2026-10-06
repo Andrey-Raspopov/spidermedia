@@ -1,12 +1,19 @@
 {
   "title": "«Ходячих мертвецов» продлили на шестой сезон",
-  "date": "2014-10-07T19:48:00+03:00",
+  "date": "2014-10-07T18:48:48+03:00",
   "url": "/news/hodyachih-mertvecov-prodlili-na-shestoy-sezon/",
   "original_url": "http://spidermedia.ru/news/hodyachih-mertvecov-prodlili-na-shestoy-sezon",
   "archived": "https://web.archive.org/web/20260121002304/http://spidermedia.ru/news/hodyachih-mertvecov-prodlili-na-shestoy-sezon",
   "tags": [
     "hodyachie-mertvecy",
-    "serialy"
+    "serialy",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20260121002304im_/http://spidermedia.ru/assets/images/import_image/8142.jpg",
+  "modx_id": 8142,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

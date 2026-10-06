@@ -1,11 +1,17 @@
 {
   "title": "Hellboymedia: Анонсы на Февраль ’15",
-  "date": "2014-11-19T15:05:00+03:00",
+  "date": "2014-11-19T15:05:54+03:00",
   "url": "/news/hellboymedia-relizy-fevralya-15/",
   "original_url": "http://spidermedia.ru/news/hellboymedia-relizy-fevralya-15",
   "archived": "https://web.archive.org/web/20260125085504/http://spidermedia.ru/news/hellboymedia-relizy-fevralya-15",
   "tags": [
     "hellboymedia"
+  ],
+  "cover": "https://web.archive.org/web/20160611212147im_/http://spidermedia.ru/assets/images/hellboymedia/solicitations/15-02-february/february-15-solicitations-cover.jpg",
+  "modx_id": 8305,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -8,6 +8,12 @@
     "komilfo",
     "russian-comics"
   ],
+  "cover": "https://web.archive.org/web/20240714190250im_/http://spidermedia.ru/assets/images/reviews/komilfo/gorelovo/pqgnuikgeh4.jpg",
+  "modx_id": 100597,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

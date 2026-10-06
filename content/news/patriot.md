@@ -1,7 +1,10 @@
 {
   "title": "Patriot",
-  "date": "2009-08-30T16:20:00+03:00",
+  "date": "2009-08-30T15:20:06+03:00",
   "url": "/news/patriot/",
+  "aliases": [
+    "/node/1847/"
+  ],
   "original_url": "http://spidermedia.ru/news/patriot",
   "archived": "https://web.archive.org/web/20140719010049/http://spidermedia.ru:80/news/patriot",
   "tags": [
@@ -11,7 +14,15 @@
     "marvel",
     "pol-dzhenkins",
     "preview-s",
-    "ed-brubeyker"
+    "ed-brubeyker",
+    "ed-brubaker",
+    "art",
+    "prevyu"
+  ],
+  "modx_id": 1847,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

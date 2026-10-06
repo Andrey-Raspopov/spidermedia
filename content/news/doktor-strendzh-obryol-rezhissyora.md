@@ -1,12 +1,18 @@
 {
   "title": "\"Доктор Стрэндж\" обрёл режиссёра",
-  "date": "2014-06-04T11:46:00+03:00",
+  "date": "2014-06-04T10:46:48+03:00",
   "url": "/news/doktor-strendzh-obryol-rezhissyora/",
   "original_url": "https://spidermedia.ru/news/doktor-strendzh-obryol-rezhissyora",
   "archived": "https://web.archive.org/web/20241113223411/https://spidermedia.ru/news/doktor-strendzh-obryol-rezhissyora",
   "tags": [
     "marvel",
     "doctor-strange"
+  ],
+  "cover": "https://web.archive.org/web/20241113223411im_/http://spidermedia.ru/assets/images/import_image/7767.jpg",
+  "modx_id": 7767,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

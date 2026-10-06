@@ -8,6 +8,12 @@
     "valiant-entertainment",
     "novosti"
   ],
+  "cover": "https://web.archive.org/web/20260125061234im_/http://spidermedia.ru/assets/images/valiant/book-of-death/book-of-death-teaser-cover-horizontal-v2.jpg",
+  "modx_id": 100121,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,6 +1,6 @@
 {
   "title": "Первый Big Shot",
-  "date": "2011-04-09T14:26:00+03:00",
+  "date": "2011-04-09T13:26:12+03:00",
   "url": "/news/pervyy-big-shot/",
   "original_url": "http://spidermedia.ru/news/pervyy-big-shot",
   "archived": "https://web.archive.org/web/20251205123533/http://spidermedia.ru/news/pervyy-big-shot",
@@ -13,7 +13,16 @@
     "brian-michael-bendis",
     "art-0",
     "alex-maleev",
-    "marvel"
+    "marvel",
+    "prevyu",
+    "brayan-hitch",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20251205123533im_/http://spidermedia.ru/assets/images/import_image/4830.jpg",
+  "modx_id": 4830,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "В яблочко",
-  "date": "2010-09-12T14:17:00+03:00",
+  "date": "2010-09-12T13:17:48+03:00",
   "url": "/news/v-yablochko/",
+  "aliases": [
+    "/node/2906/"
+  ],
   "original_url": "http://spidermedia.ru/news/v-yablochko",
   "archived": "https://web.archive.org/web/20200224084257/http://spidermedia.ru:80/news/v-yablochko",
   "tags": [
@@ -10,7 +13,14 @@
     "tim-bredstrit",
     "art-0",
     "marvel",
-    "bullseye"
+    "bullseye",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20200224084257im_/http://spidermedia.ru/assets/images/import_image/2906.jpg",
+  "modx_id": 2906,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

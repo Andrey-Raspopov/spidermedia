@@ -1,11 +1,17 @@
 {
   "title": "Comic Con Russia 2014: Легендарный «Комик Кон» приходит в Россию!",
-  "date": "2014-05-15T21:45:00+03:00",
+  "date": "2014-05-15T20:45:04+03:00",
   "url": "/news/comic-con-russia-2014-legendarnyy-komik-kon-prihodit-v-rossiyu/",
   "original_url": "http://spidermedia.ru/news/comic-con-russia-2014-legendarnyy-komik-kon-prihodit-v-rossiyu",
   "archived": "https://web.archive.org/web/20250620075759/http://spidermedia.ru/news/comic-con-russia-2014-legendarnyy-komik-kon-prihodit-v-rossiyu",
   "tags": [
     "comic-con-russia"
+  ],
+  "cover": "https://web.archive.org/web/20250620075759im_/http://spidermedia.ru/assets/images/import_image/7741.png",
+  "modx_id": 7741,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

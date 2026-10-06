@@ -8,6 +8,12 @@
     "dc-comics",
     "green-lantern"
   ],
+  "cover": "https://web.archive.org/web/20251206025902im_/http://spidermedia.ru/assets/images/news/dc/gl-e1-vol-1.jpg",
+  "modx_id": 101610,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

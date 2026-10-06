@@ -1,6 +1,6 @@
 {
   "title": "В России издан комикс Рафаэля Грампа и Маркуса Пенна",
-  "date": "2014-03-02T21:32:00+03:00",
+  "date": "2014-03-02T20:32:35+03:00",
   "url": "/news/v-rossii-izdan-komiks-rafaelya-grampa-i-markusa-penna/",
   "original_url": "http://spidermedia.ru/news/v-rossii-izdan-komiks-rafaelya-grampa-i-markusa-penna",
   "archived": "https://web.archive.org/web/20250617234727/http://spidermedia.ru/news/v-rossii-izdan-komiks-rafaelya-grampa-i-markusa-penna",
@@ -9,6 +9,12 @@
     "rafael-grampa",
     "zarubezhnye-komiksy-na-russkom",
     "dark-horse"
+  ],
+  "cover": "https://web.archive.org/web/20150326183534im_/http://spidermedia.ru/assets/images/import_image/7665.jpg",
+  "modx_id": 7665,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

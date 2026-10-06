@@ -1,6 +1,6 @@
 {
   "title": "Рецензия на пилот сериала \"The Flash\"",
-  "date": "2014-06-27T12:17:00+03:00",
+  "date": "2014-06-27T11:17:55+03:00",
   "url": "/blog/igrok/recenziya-na-pilot-seriala-flash/",
   "original_url": "https://spidermedia.ru/blog/igrok/recenziya-na-pilot-seriala-flash",
   "archived": "https://web.archive.org/web/20260305233532/https://spidermedia.ru/blog/igrok/recenziya-na-pilot-seriala-flash",
@@ -8,7 +8,14 @@
     "the-flash",
     "serialy",
     "mnenie",
-    "dc-comics"
+    "dc-comics",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20150326035911im_/http://spidermedia.ru/assets/images/import_image/7847.png",
+  "modx_id": 7847,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

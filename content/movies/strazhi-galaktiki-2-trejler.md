@@ -8,6 +8,12 @@
     "marvel",
     "guardians-of-the-galaxy"
   ],
+  "cover": "https://web.archive.org/web/20180202125051im_/http://spidermedia.ru/assets/images/movies/marvel/guardians-of-the-galaxy-vol-2-2017/gotg2.jpg",
+  "modx_id": 101429,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

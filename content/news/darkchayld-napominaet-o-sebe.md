@@ -1,7 +1,10 @@
 {
   "title": "\"Даркчайлд\" напоминает о себе",
-  "date": "2010-04-22T15:38:00+03:00",
+  "date": "2010-04-22T14:38:35+03:00",
   "url": "/news/darkchayld-napominaet-o-sebe/",
+  "aliases": [
+    "/node/2565/"
+  ],
   "original_url": "http://spidermedia.ru/news/darkchayld-napominaet-o-sebe",
   "archived": "https://web.archive.org/web/20190810125606/http://spidermedia.ru:80/news/darkchayld-napominaet-o-sebe",
   "tags": [
@@ -9,6 +12,12 @@
     "darkchajld",
     "randy-queen",
     "darkchylde"
+  ],
+  "cover": "https://web.archive.org/web/20190810125606im_/http://spidermedia.ru/assets/images/import_image/2565.jpg",
+  "modx_id": 2565,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

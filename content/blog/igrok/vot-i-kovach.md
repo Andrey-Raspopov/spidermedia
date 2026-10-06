@@ -1,7 +1,10 @@
 {
   "title": "А вот и Ковач!",
-  "date": "2009-03-08T21:16:00+03:00",
+  "date": "2009-03-08T21:16:05+03:00",
   "url": "/blog/igrok/vot-i-kovach/",
+  "aliases": [
+    "/node/629/"
+  ],
   "original_url": "http://spidermedia.ru/blog/igrok/vot-i-kovach",
   "archived": "https://web.archive.org/web/20250119125630/http://spidermedia.ru/blog/igrok/vot-i-kovach",
   "tags": [
@@ -9,6 +12,11 @@
     "figurki",
     "rorschach",
     "rorshah"
+  ],
+  "modx_id": 629,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,12 +1,18 @@
 {
   "title": "МЖДЗ: ULTIMATE COMICS ULTIMATES #1",
-  "date": "2011-08-25T23:14:00+03:00",
+  "date": "2011-08-25T22:14:17+03:00",
   "url": "/blog/redson/mzhdz-ultimate-comics-ultimates-1/",
   "original_url": "http://spidermedia.ru/blog/redson/mzhdz-ultimate-comics-ultimates-1",
   "archived": "https://web.archive.org/web/20251107005213/http://spidermedia.ru/blog/redson/mzhdz-ultimate-comics-ultimates-1",
   "tags": [
     "mnenie",
     "mzhdz"
+  ],
+  "cover": "https://web.archive.org/web/20160716062748im_/http://spidermedia.ru/assets/images/import_image/6578.png",
+  "modx_id": 6578,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

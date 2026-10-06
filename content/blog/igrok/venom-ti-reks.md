@@ -1,6 +1,6 @@
 {
   "title": "Веном Ти-Рекс!",
-  "date": "2010-06-02T13:52:00+03:00",
+  "date": "2010-06-02T12:52:47+03:00",
   "url": "/blog/igrok/venom-ti-reks/",
   "original_url": "http://spidermedia.ru/blog/igrok/venom-ti-reks",
   "archived": "https://web.archive.org/web/20260314083117/http://spidermedia.ru/blog/igrok/venom-ti-reks",
@@ -10,6 +10,12 @@
     "venom",
     "sideshow",
     "old-man-logan"
+  ],
+  "cover": "https://web.archive.org/web/20260314083117im_/http://spidermedia.ru/assets/images/import_image/2648.jpg",
+  "modx_id": 2648,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

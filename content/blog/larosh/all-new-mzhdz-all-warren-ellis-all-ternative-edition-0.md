@@ -1,6 +1,6 @@
 {
   "title": "ALL-NEW МЖДЗ: ALL WARREN ELLIS ALL-TERNATIVE EDITION",
-  "date": "2014-11-26T16:38:00+03:00",
+  "date": "2014-11-26T16:38:28+03:00",
   "url": "/blog/larosh/all-new-mzhdz-all-warren-ellis-all-ternative-edition-0/",
   "original_url": "http://spidermedia.ru/blog/larosh/all-new-mzhdz-all-warren-ellis-all-ternative-edition-0",
   "archived": "https://web.archive.org/web/20260305231828/http://spidermedia.ru/blog/larosh/all-new-mzhdz-all-warren-ellis-all-ternative-edition-0",
@@ -8,6 +8,12 @@
     "warren-ellis",
     "obzor",
     "mzhdz"
+  ],
+  "cover": "https://web.archive.org/web/20150428171238im_/http://spidermedia.ru/assets/images/import_image/8320.jpg",
+  "modx_id": 8320,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

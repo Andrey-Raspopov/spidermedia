@@ -1,6 +1,6 @@
 {
   "title": "Nothing ever ends",
-  "date": "2012-02-01T16:05:00+03:00",
+  "date": "2012-02-01T15:05:13+03:00",
   "url": "/news/nothing-ever-ends/",
   "original_url": "https://spidermedia.ru/news/nothing-ever-ends",
   "archived": "https://web.archive.org/web/20251216121411/https://spidermedia.ru/news/nothing-ever-ends",
@@ -14,7 +14,14 @@
     "brian-azzarello",
     "amanda-konner",
     "hraniteli",
-    "dc-comics"
+    "dc-comics",
+    "dzhej-majkl-strazhinski"
+  ],
+  "cover": "https://web.archive.org/web/20180207023710im_/http://spidermedia.ru/assets/images/import_image/6767.jpg",
+  "modx_id": 6767,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

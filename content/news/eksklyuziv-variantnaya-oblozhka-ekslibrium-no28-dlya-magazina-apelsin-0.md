@@ -1,12 +1,18 @@
 {
   "title": "ЭКСКЛЮЗИВ: Вариантная обложка «Экслибриум №4» для магазина «Апельсин»",
-  "date": "2015-01-16T15:16:00+03:00",
+  "date": "2015-01-16T15:16:39+03:00",
   "url": "/news/eksklyuziv-variantnaya-oblozhka-ekslibrium-no28-dlya-magazina-apelsin-0/",
   "original_url": "https://spidermedia.ru/news/eksklyuziv-variantnaya-oblozhka-ekslibrium-no28-dlya-magazina-apelsin-0",
   "archived": "https://web.archive.org/web/20250429152610/https://spidermedia.ru/news/eksklyuziv-variantnaya-oblozhka-ekslibrium-no28-dlya-magazina-apelsin-0",
   "tags": [
     "russian-comics",
     "bubble"
+  ],
+  "cover": "https://web.archive.org/web/20150327101503im_/http://spidermedia.ru/assets/images/import_image/8514.jpg",
+  "modx_id": 8514,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

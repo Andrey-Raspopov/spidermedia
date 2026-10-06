@@ -1,11 +1,17 @@
 {
   "title": "День новых комиксов: 10 декабря",
-  "date": "2014-12-10T12:55:00+03:00",
+  "date": "2014-12-10T12:55:54+03:00",
   "url": "/blog/oleg89/den-novyh-komiksov-10-dekabrya-0/",
   "original_url": "http://spidermedia.ru/blog/oleg89/den-novyh-komiksov-10-dekabrya-0",
   "archived": "https://web.archive.org/web/20260211185214/http://spidermedia.ru/blog/oleg89/den-novyh-komiksov-10-dekabrya-0",
   "tags": [
     "den-novyh-komiksov"
+  ],
+  "cover": "https://web.archive.org/web/20150326124753im_/http://spidermedia.ru/assets/images/import_image/8358.jpg",
+  "modx_id": 8358,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

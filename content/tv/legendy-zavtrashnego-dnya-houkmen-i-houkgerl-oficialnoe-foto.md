@@ -8,6 +8,12 @@
     "dc-comics",
     "hawkman"
   ],
+  "cover": "https://web.archive.org/web/20220314031928im_/http://spidermedia.ru/assets/images/tv/dc/legends-of-tomorrow/legends-of-tomorrow-hawkman-hawkgirl.jpg",
+  "modx_id": 100552,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

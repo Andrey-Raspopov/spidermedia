@@ -1,6 +1,6 @@
 {
   "title": "Нация D-листеров",
-  "date": "2012-04-10T17:26:00+03:00",
+  "date": "2012-04-10T16:26:44+03:00",
   "url": "/news/naciya-d-listerov/",
   "original_url": "https://spidermedia.ru/news/naciya-d-listerov",
   "archived": "https://web.archive.org/web/20260117221103/https://spidermedia.ru/news/naciya-d-listerov",
@@ -14,6 +14,12 @@
     "jen-edzhinton",
     "dzheff-lemir",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20260117221103im_/http://spidermedia.ru/assets/images/import_image/6859.jpg",
+  "modx_id": 6859,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

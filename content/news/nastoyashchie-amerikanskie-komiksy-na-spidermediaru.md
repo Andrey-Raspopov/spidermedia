@@ -1,12 +1,18 @@
 {
   "title": "Настоящие американские комиксы на SpiderMedia.RU",
-  "date": "2009-04-22T01:23:00+03:00",
+  "date": "2009-04-22T00:23:28+03:00",
   "url": "/news/nastoyashchie-amerikanskie-komiksy-na-spidermediaru/",
   "original_url": "http://spidermedia.ru/news/nastoyashchie-amerikanskie-komiksy-na-spidermediaru",
   "archived": "https://web.archive.org/web/20120610051050/http://spidermedia.ru/news/nastoyashchie-amerikanskie-komiksy-na-spidermediaru",
   "tags": [
     "komiksy",
     "magazin"
+  ],
+  "cover": "https://web.archive.org/web/20120610051050im_/http://spidermedia.ru/assets/images/import_image/1019.jpg",
+  "modx_id": 1019,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

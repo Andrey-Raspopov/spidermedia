@@ -7,6 +7,12 @@
   "tags": [
     "manga"
   ],
+  "cover": "https://web.archive.org/web/20160501070824im_/http://spidermedia.ru/assets/images/reviews/altgraph/wild-planet/snimok-ekrana-2016-03-03-v-14.21.50.png",
+  "modx_id": 100965,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

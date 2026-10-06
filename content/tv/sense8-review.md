@@ -4,6 +4,12 @@
   "url": "/tv/sense8-review/",
   "original_url": "http://spidermedia.ru/tv/sense8-review",
   "archived": "https://web.archive.org/web/20251208080353/http://spidermedia.ru/tv/sense8-review",
+  "cover": "https://web.archive.org/web/20251208080353im_/http://spidermedia.ru/assets/images/tv/sense8/yejzcmpv_u4.jpg",
+  "modx_id": 100290,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

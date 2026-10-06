@@ -1,6 +1,6 @@
 {
   "title": "ОБЗОР: «Рай», русскоязычное издание",
-  "date": "2015-01-12T12:46:00+03:00",
+  "date": "2015-01-12T12:46:56+03:00",
   "url": "/blog/larosh/obzor-ray-russkoyazychnoe-izdanie-0/",
   "original_url": "https://spidermedia.ru/blog/larosh/obzor-ray-russkoyazychnoe-izdanie-0",
   "archived": "https://web.archive.org/web/20260117232503/https://spidermedia.ru/blog/larosh/obzor-ray-russkoyazychnoe-izdanie-0",
@@ -11,6 +11,12 @@
     "zarubezhnye-komiksy-na-russkom",
     "viverra-publishing",
     "valiant-entertainment"
+  ],
+  "cover": "https://web.archive.org/web/20150327041634im_/http://spidermedia.ru/assets/images/import_image/8487.jpg",
+  "modx_id": 8487,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

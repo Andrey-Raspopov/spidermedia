@@ -1,12 +1,18 @@
 {
   "title": "ЭКСКЛЮЗИВ: Превью \"И немножко рока №2\"",
-  "date": "2015-01-19T16:11:00+03:00",
+  "date": "2015-01-19T16:11:57+03:00",
   "url": "/news/eksklyuziv-prevyu-i-nemnozhko-roka-no2/",
   "original_url": "http://spidermedia.ru/news/eksklyuziv-prevyu-i-nemnozhko-roka-no2",
   "archived": "https://web.archive.org/web/20250324065721/http://spidermedia.ru/news/eksklyuziv-prevyu-i-nemnozhko-roka-no2",
   "tags": [
     "izdatelstvo-42",
     "i-nemnozhko-roka"
+  ],
+  "cover": "https://web.archive.org/web/20150326221330im_/http://spidermedia.ru/assets/images/import_image/8521.jpg",
+  "modx_id": 8521,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "Железный Человек в Нуаре",
-  "date": "2010-01-18T22:01:00+03:00",
+  "date": "2010-01-18T22:01:41+03:00",
   "url": "/news/zheleznyy-chelovek-v-nuare/",
+  "aliases": [
+    "/node/2285/"
+  ],
   "original_url": "https://spidermedia.ru/news/zheleznyy-chelovek-v-nuare",
   "archived": "https://web.archive.org/web/20251108042753/https://spidermedia.ru/news/zheleznyy-chelovek-v-nuare",
   "tags": [
@@ -11,7 +14,15 @@
     "art-0",
     "noirverse",
     "marvel",
-    "iron-man"
+    "iron-man",
+    "art",
+    "zheleznyy-chelovek"
+  ],
+  "cover": "https://web.archive.org/web/20251108042753im_/http://spidermedia.ru/assets/images/import_image/2285.jpg",
+  "modx_id": 2285,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

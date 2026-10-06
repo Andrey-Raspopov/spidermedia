@@ -1,12 +1,19 @@
 {
   "title": "ЭКСКЛЮЗИВ: Превью \"Удар №1\" и \"Объект-13 №1\" издательства D'Oh Jones",
-  "date": "2014-03-06T22:40:00+03:00",
+  "date": "2014-03-06T21:40:26+03:00",
   "url": "/news/eksklyuziv-prevyu-udar-no1-i-obekt-13-no1-izdatelstva-doh-jones/",
   "original_url": "https://spidermedia.ru/news/eksklyuziv-prevyu-udar-no1-i-obekt-13-no1-izdatelstva-doh-jones",
   "archived": "https://web.archive.org/web/20250808041645/https://spidermedia.ru/news/eksklyuziv-prevyu-udar-no1-i-obekt-13-no1-izdatelstva-doh-jones",
   "tags": [
     "russian-comics",
-    "preview"
+    "preview",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20160319144037im_/http://spidermedia.ru/assets/images/import_image/7672.jpg",
+  "modx_id": 7672,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

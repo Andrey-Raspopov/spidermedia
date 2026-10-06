@@ -1,6 +1,6 @@
 {
   "title": "Экономические заметки блондинки 001",
-  "date": "2014-06-30T12:46:00+03:00",
+  "date": "2014-06-30T11:46:50+03:00",
   "url": "/blog/zmeyukina/ekonomicheskie-zametki-blondinki-1/",
   "original_url": "https://spidermedia.ru/blog/zmeyukina/ekonomicheskie-zametki-blondinki-1",
   "archived": "https://web.archive.org/web/20260307054402/https://spidermedia.ru/blog/zmeyukina/ekonomicheskie-zametki-blondinki-1",
@@ -8,6 +8,12 @@
     "marvel",
     "image-comics",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150326124943im_/http://spidermedia.ru/assets/images/import_image/7849.jpg",
+  "modx_id": 7849,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

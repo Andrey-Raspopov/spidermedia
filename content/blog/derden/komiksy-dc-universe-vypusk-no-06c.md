@@ -1,13 +1,22 @@
 {
   "title": "Комиксы DC Universe. Выпуск № 06c",
-  "date": "2009-07-12T12:28:00+03:00",
+  "date": "2009-07-12T11:28:39+03:00",
   "url": "/blog/derden/komiksy-dc-universe-vypusk-no-06c/",
+  "aliases": [
+    "/node/1542/"
+  ],
   "original_url": "http://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-06c",
   "archived": "https://web.archive.org/web/20190929140643/http://spidermedia.ru:80/blog/derden/komiksy-dc-universe-vypusk-no-06c",
   "tags": [
     "dc-comics",
     "batman",
     "dc-universe-comics"
+  ],
+  "cover": "https://web.archive.org/web/20190929140643im_/http://spidermedia.ru/assets/images/import_image/1542.gif",
+  "modx_id": 1542,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

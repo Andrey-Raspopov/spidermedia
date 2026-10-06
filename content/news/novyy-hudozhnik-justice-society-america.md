@@ -1,7 +1,10 @@
 {
   "title": "Новый художник Justice Society of America",
-  "date": "2009-04-15T14:13:00+03:00",
+  "date": "2009-04-15T13:13:58+03:00",
   "url": "/news/novyy-hudozhnik-justice-society-america/",
+  "aliases": [
+    "/node/940/"
+  ],
   "original_url": "https://spidermedia.ru/news/novyy-hudozhnik-justice-society-america",
   "archived": "https://web.archive.org/web/20241202071735/https://spidermedia.ru/news/novyy-hudozhnik-justice-society-america",
   "tags": [
@@ -9,7 +12,14 @@
     "art-0",
     "jsa",
     "obshhestvo-spravedlivosti-ameriki",
-    "hesus-merino"
+    "hesus-merino",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20241202071735im_/http://spidermedia.ru/assets/images/import_image/940.jpg",
+  "modx_id": 940,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

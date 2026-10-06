@@ -1,6 +1,6 @@
 {
   "title": "Мстящий Рыцарь",
-  "date": "2012-04-22T15:03:00+03:00",
+  "date": "2012-04-22T14:03:55+03:00",
   "url": "/news/mstyashchiy-rycar/",
   "original_url": "http://spidermedia.ru/news/mstyashchiy-rycar",
   "archived": "https://web.archive.org/web/20260125124632/http://spidermedia.ru/news/mstyashchiy-rycar",
@@ -9,6 +9,12 @@
     "dc-comics",
     "dark-knight-rises",
     "batman"
+  ],
+  "cover": "https://web.archive.org/web/20260125124632im_/http://spidermedia.ru/assets/images/import_image/6886.png",
+  "modx_id": 6886,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

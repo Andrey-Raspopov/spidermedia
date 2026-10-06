@@ -1,6 +1,6 @@
 {
   "title": "Флэш, ДиДио и не только",
-  "date": "2009-10-11T20:53:00+03:00",
+  "date": "2009-10-11T19:53:05+03:00",
   "url": "/news/flesh-didio-i-ne-tolko/",
   "original_url": "http://spidermedia.ru/news/flesh-didio-i-ne-tolko",
   "archived": "https://web.archive.org/web/20260313111016/http://spidermedia.ru/news/flesh-didio-i-ne-tolko",
@@ -20,6 +20,11 @@
     "the-flash",
     "dc-comics",
     "blackest-night"
+  ],
+  "modx_id": 1980,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

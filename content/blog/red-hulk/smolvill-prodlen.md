@@ -1,12 +1,22 @@
 {
   "title": "Смолвилль продлен",
-  "date": "2009-02-25T02:01:00+03:00",
+  "date": "2009-02-25T02:01:45+03:00",
   "url": "/blog/red-hulk/smolvill-prodlen/",
+  "aliases": [
+    "/node/504/"
+  ],
   "original_url": "http://spidermedia.ru/blog/red-hulk/smolvill-prodlen",
   "archived": "https://web.archive.org/web/20230323050937/http://spidermedia.ru/blog/red-hulk/smolvill-prodlen",
   "tags": [
     "smallville",
-    "serialy"
+    "serialy",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20230323050937im_/http://spidermedia.ru/assets/images/import_image/504.jpg",
+  "modx_id": 504,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

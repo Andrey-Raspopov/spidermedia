@@ -8,6 +8,12 @@
     "marvel",
     "fantastic-four"
   ],
+  "cover": "https://web.archive.org/web/20160611162142im_/http://spidermedia.ru/assets/images/movies/marvel/fantastic-four-movie-2015/fantastic_four_2015_movie-wide.jpg",
+  "modx_id": 100484,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

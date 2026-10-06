@@ -8,6 +8,12 @@
     "best-column-about-comics",
     "mnenie"
   ],
+  "cover": "https://web.archive.org/web/20250830151200im_/https://spidermedia.ru/assets/images/best-column-about-comics/25-the-longest-day-of-the-future/the-longest-day-of-the-future-cover.jpg",
+  "modx_id": 101650,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

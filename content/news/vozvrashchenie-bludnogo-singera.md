@@ -1,11 +1,21 @@
 {
   "title": "Возвращение блудного Сингера",
-  "date": "2009-06-02T19:10:00+03:00",
+  "date": "2009-06-02T18:10:13+03:00",
   "url": "/news/vozvrashchenie-bludnogo-singera/",
+  "aliases": [
+    "/node/1331/"
+  ],
   "original_url": "http://spidermedia.ru/news/vozvrashchenie-bludnogo-singera",
   "archived": "https://web.archive.org/web/20170908231157/http://spidermedia.ru:80/news/vozvrashchenie-bludnogo-singera",
   "tags": [
-    "x-men"
+    "x-men",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20170908231157im_/http://spidermedia.ru/assets/images/import_image/1331.jpg",
+  "modx_id": 1331,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

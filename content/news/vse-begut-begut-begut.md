@@ -1,6 +1,6 @@
 {
   "title": "А все бегут, бегут, бегут",
-  "date": "2011-02-05T10:52:00+03:00",
+  "date": "2011-02-05T10:52:43+03:00",
   "url": "/news/vse-begut-begut-begut/",
   "original_url": "http://spidermedia.ru/news/vse-begut-begut-begut",
   "archived": "https://web.archive.org/web/20251211023920/http://spidermedia.ru/news/vse-begut-begut-begut",
@@ -9,6 +9,12 @@
     "the-flash",
     "dc-comics",
     "endi-kubert"
+  ],
+  "cover": "https://web.archive.org/web/20251211023920im_/http://spidermedia.ru/assets/images/import_image/3211.jpg",
+  "modx_id": 3211,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

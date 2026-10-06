@@ -1,7 +1,10 @@
 {
   "title": "Blust!",
-  "date": "2009-06-20T13:13:00+03:00",
+  "date": "2009-06-20T12:13:54+03:00",
   "url": "/blog/naya/blust/",
+  "aliases": [
+    "/node/1449/"
+  ],
   "original_url": "http://spidermedia.ru/blog/naya/blust",
   "archived": "https://web.archive.org/web/20120607125404/http://spidermedia.ru/blog/naya/blust",
   "tags": [
@@ -9,7 +12,14 @@
     "manga",
     "one-shot",
     "skachat",
-    "action-0"
+    "action-0",
+    "manga-2"
+  ],
+  "cover": "https://web.archive.org/web/20120607125404im_/http://spidermedia.ru/assets/images/import_image/1449.jpg",
+  "modx_id": 1449,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

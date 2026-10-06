@@ -1,13 +1,20 @@
 {
   "title": "Железный Человек 3: Итоги викторины",
-  "date": "2013-04-09T13:41:00+03:00",
+  "date": "2013-04-09T12:41:09+03:00",
   "url": "/news/iron-man-3-exclusive-20-minute-footage-imax/",
   "original_url": "https://spidermedia.ru/news/iron-man-3-exclusive-20-minute-footage-imax",
   "archived": "https://web.archive.org/web/20241205112527/https://spidermedia.ru/news/iron-man-3-exclusive-20-minute-footage-imax",
   "tags": [
     "marvel",
     "iron-man",
-    "viktorina"
+    "viktorina",
+    "zheleznyy-chelovek"
+  ],
+  "cover": "https://web.archive.org/web/20241205112527im_/http://spidermedia.ru/assets/images/import_image/7190.jpg",
+  "modx_id": 7190,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

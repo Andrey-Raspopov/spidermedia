@@ -1,12 +1,18 @@
 {
   "title": "Hellboymedia #04: B.P.R.D. — The Devil’s Wings",
-  "date": "2014-07-24T13:02:00+03:00",
+  "date": "2014-07-24T12:02:42+03:00",
   "url": "/blog/shargor/hellboymedia-04-bprd-devils-wings/",
   "original_url": "http://spidermedia.ru/blog/shargor/hellboymedia-04-bprd-devils-wings",
   "archived": "https://web.archive.org/web/20260313114239/http://spidermedia.ru/blog/shargor/hellboymedia-04-bprd-devils-wings",
   "tags": [
     "hellboymedia",
     "mnenie"
+  ],
+  "cover": "https://web.archive.org/web/20160611164339im_/http://spidermedia.ru/assets/images/hellboymedia/regular/04-bprd-the-devils-wings/b.p.r.d.-the-devils-wings-cover.jpg",
+  "modx_id": 7919,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

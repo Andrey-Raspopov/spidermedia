@@ -1,7 +1,10 @@
 {
   "title": "Озборны: внук или внучка?",
-  "date": "2009-03-20T21:06:00+03:00",
+  "date": "2009-03-20T21:06:55+03:00",
   "url": "/news/ozborny-vnuk-ili-vnuchka/",
+  "aliases": [
+    "/node/730/"
+  ],
   "original_url": "http://spidermedia.ru/news/ozborny-vnuk-ili-vnuchka",
   "archived": "https://web.archive.org/web/20251205113849/http://spidermedia.ru/news/ozborny-vnuk-ili-vnuchka",
   "tags": [
@@ -9,6 +12,11 @@
     "dzhon-romita-ml",
     "marvel",
     "spider-man"
+  ],
+  "modx_id": 730,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "Entertainment Weekly: Первый взгляд на \"Первого Мстителя\"",
-  "date": "2010-10-28T18:12:00+03:00",
+  "date": "2010-10-28T17:12:53+03:00",
   "url": "/news/entertainment-weekly-pervyy-vzglyad-na-pervogo-mstitelya/",
+  "aliases": [
+    "/node/3037/"
+  ],
   "original_url": "http://spidermedia.ru/news/entertainment-weekly-pervyy-vzglyad-na-pervogo-mstitelya",
   "archived": "https://web.archive.org/web/20120607092558/http://spidermedia.ru/news/entertainment-weekly-pervyy-vzglyad-na-pervogo-mstitelya",
   "tags": [
@@ -13,6 +16,12 @@
     "kris-evans",
     "marvel",
     "pervyy-mstitel-kapitan-amerika"
+  ],
+  "cover": "https://web.archive.org/web/20120607092558im_/http://spidermedia.ru/assets/images/import_image/3037.jpg",
+  "modx_id": 3037,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "Росомаха во всеоружии",
-  "date": "2009-03-13T00:36:00+03:00",
+  "date": "2009-03-12T23:36:45+03:00",
   "url": "/news/rosomaha-vo-vseoruzhii/",
+  "aliases": [
+    "/node/658/"
+  ],
   "original_url": "http://spidermedia.ru/news/rosomaha-vo-vseoruzhii",
   "archived": "https://web.archive.org/web/20120608045519/http://spidermedia.ru/news/rosomaha-vo-vseoruzhii",
   "tags": [
@@ -11,13 +14,20 @@
     "komiksy",
     "marvel",
     "oblozhki",
-    "rosomaha"
+    "rosomaha",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20120608045519im_/http://spidermedia.ru/assets/images/import_image/658.jpg",
+  "modx_id": 658,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }
 
-Не успело выйти [арт-превью](../../node/646/#comments) **Wolverine: Weapon X #1**, как обнаружились новые вариантные каверы.
+Не успело выйти [арт-превью](../kogtistyy-aprel/#comments) **Wolverine: Weapon X #1**, как обнаружились новые вариантные каверы.
 
 Попимо **Алана Дэвиса** *(Alan Davis)*  к обложкам приложили руку **Оливер Койпел** *(Olivier Coipel)* и **Адам Куберт** *(Adam Kubert)*.
 

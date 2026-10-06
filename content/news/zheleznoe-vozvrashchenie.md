@@ -1,7 +1,10 @@
 {
   "title": "Железное возвращение!",
-  "date": "2009-04-07T22:44:00+03:00",
+  "date": "2009-04-07T21:44:01+03:00",
   "url": "/news/zheleznoe-vozvrashchenie/",
+  "aliases": [
+    "/node/881/"
+  ],
   "original_url": "http://spidermedia.ru/news/zheleznoe-vozvrashchenie",
   "archived": "https://web.archive.org/web/20120607184358/http://spidermedia.ru/news/zheleznoe-vozvrashchenie",
   "tags": [
@@ -16,6 +19,12 @@
     "pepper-potts-0",
     "robert-dauni-ml",
     "chyornaya-vdova"
+  ],
+  "cover": "https://web.archive.org/web/20120607184358im_/http://spidermedia.ru/assets/images/iron-man-logo.jpg",
+  "modx_id": 881,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

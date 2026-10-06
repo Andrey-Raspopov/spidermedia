@@ -1,6 +1,6 @@
 {
   "title": "Скетчи персонажей комикса \"Не место для героев\"",
-  "date": "2013-08-09T12:57:00+03:00",
+  "date": "2013-08-09T11:57:26+03:00",
   "url": "/news/sketchi-personazhey-komiksa-ne-mesto-dlya-geroev/",
   "original_url": "http://spidermedia.ru/news/sketchi-personazhey-komiksa-ne-mesto-dlya-geroev",
   "archived": "https://web.archive.org/web/20260211184940/http://spidermedia.ru/news/sketchi-personazhey-komiksa-ne-mesto-dlya-geroev",
@@ -8,6 +8,12 @@
     "russian-comics",
     "ne-mesto-dlya-geroev",
     "industriya"
+  ],
+  "cover": "https://web.archive.org/web/20180401224112im_/http://spidermedia.ru/assets/images/import_image/7413.jpg",
+  "modx_id": 7413,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

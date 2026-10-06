@@ -8,6 +8,12 @@
     "bubble",
     "russian-comics"
   ],
+  "cover": "https://web.archive.org/web/20250810142036im_/http://spidermedia.ru/assets/images/bubblegum/16/mzk.jpg",
+  "modx_id": 101938,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

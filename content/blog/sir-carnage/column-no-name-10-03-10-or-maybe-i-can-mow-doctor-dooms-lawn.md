@@ -1,6 +1,6 @@
 {
   "title": "The Column With No Name: 10/03/10 - Or maybe I can mow Doctor Doom's lawn.",
-  "date": "2010-03-14T09:01:00+03:00",
+  "date": "2010-03-14T09:01:35+03:00",
   "url": "/blog/sir-carnage/column-no-name-10-03-10-or-maybe-i-can-mow-doctor-dooms-lawn/",
   "original_url": "http://spidermedia.ru/blog/sir-carnage/column-no-name-10-03-10-or-maybe-i-can-mow-doctor-dooms-lawn",
   "archived": "https://web.archive.org/web/20260123072950/http://spidermedia.ru/blog/sir-carnage/column-no-name-10-03-10-or-maybe-i-can-mow-doctor-dooms-lawn",
@@ -9,6 +9,12 @@
     "marvel",
     "dc-comics",
     "the-column-with-no-name"
+  ],
+  "cover": "https://web.archive.org/web/20260123072950im_/http://spidermedia.ru/assets/images/import_image/2438.jpg",
+  "modx_id": 2438,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

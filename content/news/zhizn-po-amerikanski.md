@@ -1,7 +1,10 @@
 {
   "title": "Жизнь по-американски",
-  "date": "2010-02-09T01:29:00+03:00",
+  "date": "2010-02-09T01:29:23+03:00",
   "url": "/news/zhizn-po-amerikanski/",
+  "aliases": [
+    "/node/2352/"
+  ],
   "original_url": "https://spidermedia.ru/news/zhizn-po-amerikanski",
   "archived": "https://web.archive.org/web/20250913020837/https://spidermedia.ru/news/zhizn-po-amerikanski",
   "tags": [
@@ -14,7 +17,14 @@
     "norman-osborn",
     "marvel",
     "harry-osborn",
-    "spider-man"
+    "spider-man",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20250913020837im_/http://spidermedia.ru/assets/images/import_image/2352.jpg",
+  "modx_id": 2352,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

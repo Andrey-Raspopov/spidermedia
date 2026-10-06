@@ -1,6 +1,6 @@
 {
   "title": "Catchin' up",
-  "date": "2014-01-12T13:46:00+03:00",
+  "date": "2014-01-12T12:46:57+03:00",
   "url": "/news/catchin/",
   "original_url": "http://spidermedia.ru/news/catchin",
   "archived": "https://web.archive.org/web/20260313110424/http://spidermedia.ru/news/catchin",
@@ -22,6 +22,12 @@
     "amilkar-pinna",
     "ultimate",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150428115300im_/http://spidermedia.ru/assets/images/import_image/7592.gif",
+  "modx_id": 7592,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

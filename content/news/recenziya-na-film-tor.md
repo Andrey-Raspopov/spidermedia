@@ -1,12 +1,18 @@
 {
   "title": "Рецензия на фильм \"Тор\"",
-  "date": "2011-04-20T18:25:00+03:00",
+  "date": "2011-04-20T17:25:16+03:00",
   "url": "/news/recenziya-na-film-tor/",
   "original_url": "https://spidermedia.ru/news/recenziya-na-film-tor",
   "archived": "https://web.archive.org/web/20251206163458/https://spidermedia.ru/news/recenziya-na-film-tor",
   "tags": [
     "recenziya",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20251206163458im_/http://spidermedia.ru/assets/images/import_image/5116.jpg",
+  "modx_id": 5116,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

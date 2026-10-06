@@ -1,7 +1,10 @@
 {
   "title": "Lobo's Back",
-  "date": "2009-06-21T16:09:00+03:00",
+  "date": "2009-06-21T15:09:01+03:00",
   "url": "/news/lobos-back/",
+  "aliases": [
+    "/node/1457/"
+  ],
   "original_url": "http://spidermedia.ru/news/lobos-back",
   "archived": "https://web.archive.org/web/20220314041405/http://spidermedia.ru/news/lobos-back",
   "tags": [
@@ -9,6 +12,11 @@
     "lobo",
     "dan-didio",
     "dc-comics"
+  ],
+  "modx_id": 1457,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

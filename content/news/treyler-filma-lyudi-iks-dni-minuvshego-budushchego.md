@@ -1,6 +1,6 @@
 {
   "title": "Трейлер фильма \"Люди Икс: Дни минувшего будущего\"",
-  "date": "2013-10-29T18:00:00+03:00",
+  "date": "2013-10-29T17:00:28+03:00",
   "url": "/news/treyler-filma-lyudi-iks-dni-minuvshego-budushchego/",
   "original_url": "https://spidermedia.ru/news/treyler-filma-lyudi-iks-dni-minuvshego-budushchego",
   "archived": "https://web.archive.org/web/20251116060458/https://spidermedia.ru/news/treyler-filma-lyudi-iks-dni-minuvshego-budushchego",
@@ -9,7 +9,15 @@
     "wolverine",
     "marvel",
     "x-men",
-    "days-of-future-past"
+    "days-of-future-past",
+    "lyudi-iks",
+    "dni-minuvshego-budushhego"
+  ],
+  "cover": "https://web.archive.org/web/20150424090748im_/http://spidermedia.ru/assets/images/youtube/pK2zYHWDZKo.jpg",
+  "modx_id": 7519,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

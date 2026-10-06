@@ -1,6 +1,6 @@
 {
   "title": "Дети Миллара",
-  "date": "2012-01-13T07:43:00+03:00",
+  "date": "2012-01-13T06:43:00+03:00",
   "url": "/news/deti-millara/",
   "original_url": "http://spidermedia.ru/news/deti-millara",
   "archived": "https://web.archive.org/web/20251216173934/http://spidermedia.ru/news/deti-millara",
@@ -13,6 +13,12 @@
     "image-comics",
     "icon-comics",
     "dzhon-romita-ml"
+  ],
+  "cover": "https://web.archive.org/web/20251216173934im_/http://spidermedia.ru/assets/images/import_image/6756.jpg",
+  "modx_id": 6756,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

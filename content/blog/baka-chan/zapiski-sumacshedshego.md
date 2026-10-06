@@ -1,11 +1,19 @@
 {
   "title": "Записки сумаcшедшего",
-  "date": "2009-02-02T00:43:00+03:00",
+  "date": "2009-02-01T23:43:41+03:00",
   "url": "/blog/baka-chan/zapiski-sumacshedshego/",
+  "aliases": [
+    "/node/86/"
+  ],
   "original_url": "http://spidermedia.ru/blog/baka-chan/zapiski-sumacshedshego",
   "archived": "https://web.archive.org/web/20111026060808/http://spidermedia.ru/blog/baka-chan/zapiski-sumacshedshego",
   "tags": [
     "vstuplenie"
+  ],
+  "modx_id": 86,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

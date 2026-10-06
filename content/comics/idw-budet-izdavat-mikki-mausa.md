@@ -9,6 +9,12 @@
     "idw-publishing",
     "disnej"
   ],
+  "cover": "https://web.archive.org/web/20180205122121im_/http://spidermedia.ru/assets/images/newgallery/gallery766/mickey.jpg",
+  "modx_id": 101064,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,6 +1,6 @@
 {
   "title": "Псих и Наркота: Красное это модно!",
-  "date": "2009-04-18T04:14:00+03:00",
+  "date": "2009-04-18T03:14:33+03:00",
   "url": "/news/psih-i-narkota-krasnoe-eto-modno/",
   "original_url": "http://spidermedia.ru/news/psih-i-narkota-krasnoe-eto-modno",
   "archived": "https://web.archive.org/web/20251117005733/http://spidermedia.ru/news/psih-i-narkota-krasnoe-eto-modno",
@@ -11,6 +11,11 @@
     "daredevil",
     "deadpool",
     "dardevil"
+  ],
+  "modx_id": 981,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

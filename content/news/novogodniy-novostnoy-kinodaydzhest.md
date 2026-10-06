@@ -1,11 +1,18 @@
 {
   "title": "Новогодний новостной кинодайджест",
-  "date": "2015-01-06T21:16:00+03:00",
+  "date": "2015-01-06T21:16:15+03:00",
   "url": "/news/novogodniy-novostnoy-kinodaydzhest/",
   "original_url": "http://spidermedia.ru/news/novogodniy-novostnoy-kinodaydzhest",
   "archived": "https://web.archive.org/web/20231001052345/http://spidermedia.ru/news/novogodniy-novostnoy-kinodaydzhest",
   "tags": [
-    "serialy"
+    "serialy",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20150326095245im_/http://spidermedia.ru/assets/images/import_image/8462.jpg",
+  "modx_id": 8462,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

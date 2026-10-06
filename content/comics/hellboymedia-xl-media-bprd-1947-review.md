@@ -9,6 +9,12 @@
     "obzor",
     "zarubezhnye-komiksy-na-russkom"
   ],
+  "cover": "https://web.archive.org/web/20180202044917im_/http://spidermedia.ru/assets/images/hellboymedia/local/review-bprd-1947/bprd-1947-russian-edition-cover.jpg",
+  "modx_id": 101103,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

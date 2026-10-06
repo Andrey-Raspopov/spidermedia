@@ -1,6 +1,6 @@
 {
   "title": "Судья Дредд на Комик Коне",
-  "date": "2011-04-25T15:00:00+03:00",
+  "date": "2011-04-25T14:00:02+03:00",
   "url": "/blog/sterpazook/sudya-dredd-na-komik-kone/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/sudya-dredd-na-komik-kone",
   "archived": "https://web.archive.org/web/20260313104035/http://spidermedia.ru/blog/sterpazook/sudya-dredd-na-komik-kone",
@@ -9,6 +9,12 @@
     "kosplej",
     "komik-kon-v-londone",
     "kapow-comic-con"
+  ],
+  "cover": "https://web.archive.org/web/20260313104035im_/http://spidermedia.ru/assets/images/import_image/5239.jpg",
+  "modx_id": 5239,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

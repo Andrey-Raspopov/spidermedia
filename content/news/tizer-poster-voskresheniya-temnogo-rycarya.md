@@ -1,6 +1,6 @@
 {
   "title": "Тизер-постер \"Воскрешения Темного Рыцаря\"",
-  "date": "2011-07-12T10:13:00+03:00",
+  "date": "2011-07-12T09:13:52+03:00",
   "url": "/news/tizer-poster-voskresheniya-temnogo-rycarya/",
   "original_url": "https://spidermedia.ru/news/tizer-poster-voskresheniya-temnogo-rycarya",
   "archived": "https://web.archive.org/web/20260120142859/https://spidermedia.ru/news/tizer-poster-voskresheniya-temnogo-rycarya",
@@ -9,6 +9,12 @@
     "dc-comics",
     "dark-knight-rises",
     "batman"
+  ],
+  "cover": "https://web.archive.org/web/20260120142859im_/http://spidermedia.ru/assets/images/import_image/6491.jpg",
+  "modx_id": 6491,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

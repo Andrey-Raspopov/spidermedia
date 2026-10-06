@@ -1,6 +1,6 @@
 {
   "title": "Ничто не истинно",
-  "date": "2011-07-26T17:06:00+03:00",
+  "date": "2011-07-26T16:06:00+03:00",
   "url": "/news/nichto-ne-istinno/",
   "original_url": "https://spidermedia.ru/news/nichto-ne-istinno",
   "archived": "https://web.archive.org/web/20251018222619/https://spidermedia.ru/news/nichto-ne-istinno",
@@ -8,6 +8,12 @@
     "dc-comics",
     "karl-kershel",
     "kemeron-styuart"
+  ],
+  "cover": "https://web.archive.org/web/20251018222619im_/http://spidermedia.ru/assets/images/import_image/6533.jpg",
+  "modx_id": 6533,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

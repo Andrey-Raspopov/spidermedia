@@ -1,12 +1,19 @@
 {
   "title": "Тёмный Властелин",
-  "date": "2012-08-02T15:09:00+03:00",
+  "date": "2012-08-02T14:09:30+03:00",
   "url": "/news/tyomnyy-vlastelin/",
   "original_url": "http://spidermedia.ru/news/tyomnyy-vlastelin",
   "archived": "https://web.archive.org/web/20220820002222/http://spidermedia.ru/news/tyomnyy-vlastelin",
   "tags": [
     "marvel",
-    "thor"
+    "thor",
+    "tor"
+  ],
+  "cover": "https://web.archive.org/web/20150326130057im_/http://spidermedia.ru/assets/images/import_image/6996.jpg",
+  "modx_id": 6996,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

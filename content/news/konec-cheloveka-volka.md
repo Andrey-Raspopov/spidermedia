@@ -1,12 +1,21 @@
 {
   "title": "Конец Человека-Волка",
-  "date": "2009-10-24T19:35:00+03:00",
+  "date": "2009-10-24T18:35:41+03:00",
   "url": "/news/konec-cheloveka-volka/",
+  "aliases": [
+    "/node/2022/"
+  ],
   "original_url": "https://spidermedia.ru/news/konec-cheloveka-volka",
   "archived": "https://web.archive.org/web/20260307063136/https://spidermedia.ru/news/konec-cheloveka-volka",
   "tags": [
     "robert-kirkman",
     "image-comics"
+  ],
+  "cover": "https://web.archive.org/web/20260307063136im_/http://spidermedia.ru/assets/images/import_image/2022.jpg",
+  "modx_id": 2022,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
@@ -14,7 +23,7 @@
 
 ![](https://web.archive.org/web/20260307063136im_/http://i365.photobucket.com/albums/oo93/Ellaya_dw/Spidermedia/Wolf-Man.jpg)
 
-Мы уже [знаем](../../node/1658/), что серия **The Astounding Wolf-Man** от **Роберта Киркмана** (*Robert Kirkman*) и **Джейсона Говарда** (*Jason Howard*), завершается на 25-м выпуске. Дальше немного информации о том, что же нас ожидает в финальных выпусках.
+Мы уже [знаем](../sdcc09-miry-roberta-kirkmana/), что серия **The Astounding Wolf-Man** от **Роберта Киркмана** (*Robert Kirkman*) и **Джейсона Говарда** (*Jason Howard*), завершается на 25-м выпуске. Дальше немного информации о том, что же нас ожидает в финальных выпусках.
 
 [![](https://web.archive.org/web/20260307063136im_/http://i365.photobucket.com/albums/oo93/Ellaya_dw/Spidermedia/1256047942.jpg "Обложка к №20")](http://i365.photobucket.com/albums/oo93/Ellaya_dw/Spidermedia/1256047942.jpg)
 

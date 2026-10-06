@@ -1,6 +1,6 @@
 {
   "title": "Зелёный Фонарь: Викторина!",
-  "date": "2011-06-28T15:18:00+03:00",
+  "date": "2011-06-28T14:18:30+03:00",
   "url": "/news/green-lantern-quiz/",
   "original_url": "http://spidermedia.ru/news/green-lantern-quiz",
   "archived": "https://web.archive.org/web/20260116210452/http://spidermedia.ru/news/green-lantern-quiz",
@@ -10,6 +10,12 @@
     "green-lantern",
     "manhunters",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20260116210452im_/http://spidermedia.ru/assets/images/import_image/6476.jpg",
+  "modx_id": 6476,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

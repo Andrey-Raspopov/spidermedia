@@ -1,6 +1,6 @@
 {
   "title": "Пять минут самодовольного самодр*тсва",
-  "date": "2011-02-21T14:00:00+03:00",
+  "date": "2011-02-21T14:00:01+03:00",
   "url": "/blog/ohotnig/pyat-minut-samodovolnogo-samodrtsva/",
   "original_url": "https://spidermedia.ru/blog/ohotnig/pyat-minut-samodovolnogo-samodrtsva",
   "archived": "https://web.archive.org/web/20260309184742/https://spidermedia.ru/blog/ohotnig/pyat-minut-samodovolnogo-samodrtsva",
@@ -8,6 +8,12 @@
     "dark-horse",
     "fanart",
     "artem-trahanov"
+  ],
+  "cover": "https://web.archive.org/web/20260309184742im_/http://spidermedia.ru/assets/images/import_image/3592.jpg",
+  "modx_id": 3592,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

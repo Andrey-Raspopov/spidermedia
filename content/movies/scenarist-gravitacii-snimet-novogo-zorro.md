@@ -7,6 +7,12 @@
   "tags": [
     "zorro"
   ],
+  "cover": "https://web.archive.org/web/20230329032649im_/http://spidermedia.ru/assets/images/news/images/2_movies/other/zorro/zorro-168354.jpg",
+  "modx_id": 100884,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

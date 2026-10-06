@@ -1,6 +1,6 @@
 {
   "title": "Но вот пришла лягушка",
-  "date": "2011-06-09T04:13:00+03:00",
+  "date": "2011-06-09T03:13:20+03:00",
   "url": "/news/no-vot-prishla-lyagushka/",
   "original_url": "https://spidermedia.ru/news/no-vot-prishla-lyagushka",
   "archived": "https://web.archive.org/web/20260214140735/https://spidermedia.ru/news/no-vot-prishla-lyagushka",
@@ -12,6 +12,12 @@
     "marvel",
     "hawkeye",
     "avengers"
+  ],
+  "cover": "https://web.archive.org/web/20260214140735im_/http://spidermedia.ru/assets/images/import_image/6389.jpg",
+  "modx_id": 6389,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

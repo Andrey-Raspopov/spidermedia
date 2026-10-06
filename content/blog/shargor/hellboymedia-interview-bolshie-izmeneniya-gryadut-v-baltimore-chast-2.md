@@ -1,12 +1,18 @@
 {
   "title": "Hellboymedia: Большие изменения грядут в Baltimore, Часть 2 [Интервью]",
-  "date": "2014-09-23T15:12:00+03:00",
+  "date": "2014-09-23T14:12:04+03:00",
   "url": "/blog/shargor/hellboymedia-interview-bolshie-izmeneniya-gryadut-v-baltimore-chast-2/",
   "original_url": "https://spidermedia.ru/blog/shargor/hellboymedia-interview-bolshie-izmeneniya-gryadut-v-baltimore-chast-2",
   "archived": "https://web.archive.org/web/20251209132022/https://spidermedia.ru/blog/shargor/hellboymedia-interview-bolshie-izmeneniya-gryadut-v-baltimore-chast-2",
   "tags": [
     "intervyu",
     "hellboymedia"
+  ],
+  "cover": "https://web.archive.org/web/20160611200532im_/http://spidermedia.ru/assets/images/hellboymedia/interview/changes-in-baltimore/part-2/changes-in-baltimore-part-2-cover.jpg",
+  "modx_id": 8094,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -8,6 +8,12 @@
     "dc-comics",
     "batman"
   ],
+  "cover": "https://web.archive.org/web/20260116224610im_/http://spidermedia.ru/assets/images/movies/dc/batman-v-superman-dawn-of-justice-2016/sdcc2015trailer/batman-v-superman-san-diego-comic-con-2015-trailer-07.jpg",
+  "modx_id": 101087,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

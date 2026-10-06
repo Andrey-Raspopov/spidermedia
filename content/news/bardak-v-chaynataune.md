@@ -1,7 +1,10 @@
 {
   "title": "Бардак в Чайнатауне",
-  "date": "2009-05-07T22:16:00+03:00",
+  "date": "2009-05-07T21:16:37+03:00",
   "url": "/news/bardak-v-chaynataune/",
+  "aliases": [
+    "/node/1125/"
+  ],
   "original_url": "http://spidermedia.ru/news/bardak-v-chaynataune",
   "archived": "https://web.archive.org/web/20200216194937/http://spidermedia.ru:80/news/bardak-v-chaynataune",
   "tags": [
@@ -14,14 +17,21 @@
     "mr.-negative",
     "marvel",
     "hood",
-    "spider-man"
+    "spider-man",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20200216194937im_/http://spidermedia.ru/assets/images/import_image/1125.jpg",
+  "modx_id": 1125,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
 [![](https://web.archive.org/web/20200216194937im_/http://www.picamatic.com/show/2009/05/05/11/33/3528637_bigthumb.jpg)](http://www.picamatic.com/view/3528637_24844new_storyimage7310977/) [![](https://web.archive.org/web/20200216194937im_/http://www.picamatic.com/show/2009/05/07/09/35/3557963_bigthumb.jpg)](http://www.picamatic.com/view/3557963_24845new_storyimage9888828/)
-После анонса [мини-серии](../../node/744/) **Dark Reign: Mister Negative**, стартующей в июне, прошло достаточно времени, чтобы вспомнить о комикса еще раз, тем более подробностей появилось достаточно.
+После анонса [мини-серии](../negativnyy-iyun-v-nyu-yorke/) **Dark Reign: Mister Negative**, стартующей в июне, прошло достаточно времени, чтобы вспомнить о комикса еще раз, тем более подробностей появилось достаточно.
 Одна из центральных тем истории - это противостояние **Мистера Негатива** *(Mister Negative)* и **Капюшона** *(The Hood)*. **Паркеру Роббинсу** *(Parker Robbins - альтер-эго Капюшона)*, находящегося в статусе самого влиятельного и опасного криминального босса Нью-Йорка, совсем не нравится, что на его дороге к полнейшему контролю над городом встает мистер **Мартин Ли** *(Martin Li, он же Негатив)* - единственный район Манхэттана, неподвластный Капюшону - это **Чайнатаун**, область, где все подвластно Негативу, причем все попытки по захвату контроля над районом вызывают жесткие и суровые меры со стороны восточного суперзлодея.
  [![](https://web.archive.org/web/20200216194937im_/http://www.picamatic.com/show/2009/05/07/09/42/3558127_bigthumb.jpg)](http://www.picamatic.com/view/3558127_7930new_storyimage1646201/) [![](https://web.archive.org/web/20200216194937im_/http://www.picamatic.com/show/2009/05/07/09/43/3558130_bigthumb.jpg)](http://www.picamatic.com/view/3558130_7930new_storyimage1646230/) [![](https://web.archive.org/web/20200216194937im_/http://www.picamatic.com/show/2009/05/07/09/43/3558155_bigthumb.jpg)](http://www.picamatic.com/view/3558155_7930new_storyimage1646263/)
 Очередная атака Капюшона предстанет нам в образе группы суперзлодеев, состоящая из тех, кто специализируется на **Человеке-Пауке** *(Spider-Man)*. Их главная цель не только подорвать власть Ли, но и ударить по всем фронтам, включая по козырю Негатива - **Кувалде** *(Hammerhead)*.

@@ -8,6 +8,12 @@
     "idw-publishing",
     "ninja-turtles"
   ],
+  "cover": "https://web.archive.org/web/20251209133017im_/http://spidermedia.ru/assets/images/news/tmnt-in-2017/turtles-in-2017-cover_2.jpg",
+  "modx_id": 101476,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

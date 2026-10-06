@@ -1,7 +1,10 @@
 {
   "title": "Зеленый Гоблин: Наследие",
-  "date": "2009-07-11T17:33:00+03:00",
+  "date": "2009-07-11T16:33:27+03:00",
   "url": "/news/zelenyy-goblin-nasledie/",
+  "aliases": [
+    "/node/1537/"
+  ],
   "original_url": "https://spidermedia.ru/news/zelenyy-goblin-nasledie",
   "archived": "https://web.archive.org/web/20260314075925/https://spidermedia.ru/news/zelenyy-goblin-nasledie",
   "tags": [
@@ -12,7 +15,14 @@
     "art-0",
     "norman-osborn",
     "marvel",
-    "zelyonyj-goblin"
+    "zelyonyj-goblin",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20260314075925im_/http://spidermedia.ru/assets/images/import_image/1537.jpg",
+  "modx_id": 1537,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "Первый пост в 2011 году",
-  "date": "2011-01-06T19:17:00+03:00",
+  "date": "2011-01-06T19:17:19+03:00",
   "url": "/blog/redson/pervyy-post-v-2011-godu/",
+  "aliases": [
+    "/node/3146/"
+  ],
   "original_url": "http://spidermedia.ru/blog/redson/pervyy-post-v-2011-godu",
   "archived": "https://web.archive.org/web/20251207093230/http://spidermedia.ru/blog/redson/pervyy-post-v-2011-godu",
   "tags": [
@@ -12,7 +15,14 @@
     "butch-gajs",
     "art-0",
     "marvel",
-    "dc-comics"
+    "dc-comics",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20251207093230im_/http://spidermedia.ru/assets/images/import_image/3146.jpg",
+  "modx_id": 3146,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

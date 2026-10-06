@@ -1,6 +1,6 @@
 {
   "title": "SpiderMedia Fan-Art Challenge #5: КИНО-МСТИТЕЛИ",
-  "date": "2012-05-27T18:00:00+03:00",
+  "date": "2012-05-27T17:00:00+03:00",
   "url": "/news/spidermedia-fan-art-challenge-5-kino-mstiteli/",
   "original_url": "http://spidermedia.ru/news/spidermedia-fan-art-challenge-5-kino-mstiteli",
   "archived": "https://web.archive.org/web/20250807223824/http://spidermedia.ru/news/spidermedia-fan-art-challenge-5-kino-mstiteli",
@@ -9,6 +9,12 @@
     "konkurs",
     "challenge",
     "avengers"
+  ],
+  "cover": "https://web.archive.org/web/20250807223824im_/http://spidermedia.ru/assets/images/import_image/6908.png",
+  "modx_id": 6908,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

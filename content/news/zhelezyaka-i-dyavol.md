@@ -1,7 +1,10 @@
 {
   "title": "Железяка и Дьявол",
-  "date": "2009-03-12T00:39:00+03:00",
+  "date": "2009-03-11T23:39:17+03:00",
   "url": "/news/zhelezyaka-i-dyavol/",
+  "aliases": [
+    "/node/651/"
+  ],
   "original_url": "http://spidermedia.ru/news/zhelezyaka-i-dyavol",
   "archived": "https://web.archive.org/web/20120608010520/http://spidermedia.ru/news/zhelezyaka-i-dyavol",
   "tags": [
@@ -11,7 +14,13 @@
     "zheleznyy-chelovek",
     "komiksy",
     "marvel",
-    "preview-s"
+    "preview-s",
+    "prevyu"
+  ],
+  "modx_id": 651,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

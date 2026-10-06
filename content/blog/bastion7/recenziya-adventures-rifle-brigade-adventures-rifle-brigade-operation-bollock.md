@@ -1,7 +1,10 @@
 {
   "title": "рецензия - Adventures In Rifle Brigade/ Adventures In Rifle Brigade – Operation: Bollock",
-  "date": "2009-04-05T13:51:00+03:00",
+  "date": "2009-04-05T12:51:18+03:00",
   "url": "/blog/bastion7/recenziya-adventures-rifle-brigade-adventures-rifle-brigade-operation-bollock/",
+  "aliases": [
+    "/node/856/"
+  ],
   "original_url": "http://spidermedia.ru/blog/bastion7/recenziya-adventures-rifle-brigade-adventures-rifle-brigade-operation-bollock",
   "archived": "https://web.archive.org/web/20260312015051/http://spidermedia.ru/blog/bastion7/recenziya-adventures-rifle-brigade-adventures-rifle-brigade-operation-bollock",
   "tags": [
@@ -9,6 +12,12 @@
     "garth-ennis",
     "recenziya",
     "vertigo"
+  ],
+  "cover": "https://web.archive.org/web/20260312015051im_/http://spidermedia.ru/assets/images/import_image/856.jpg",
+  "modx_id": 856,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

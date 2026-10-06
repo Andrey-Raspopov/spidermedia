@@ -1,13 +1,20 @@
 {
   "title": "ЭКСКЛЮЗИВ: Превью \"DreadCore: Anamnes\" №1",
-  "date": "2014-04-14T22:09:00+03:00",
+  "date": "2014-04-14T21:09:42+03:00",
   "url": "/news/eksklyuziv-prevyu-dreadcore-anamnes-no1/",
   "original_url": "https://spidermedia.ru/news/eksklyuziv-prevyu-dreadcore-anamnes-no1",
   "archived": "https://web.archive.org/web/20250913020546/https://spidermedia.ru/news/eksklyuziv-prevyu-dreadcore-anamnes-no1",
   "tags": [
     "izdatelstvo-42",
     "preview",
-    "russian-comics"
+    "russian-comics",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20250913020546im_/http://spidermedia.ru/assets/images/import_image/7710.jpg",
+  "modx_id": 7710,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

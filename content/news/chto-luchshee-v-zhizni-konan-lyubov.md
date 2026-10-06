@@ -1,6 +1,6 @@
 {
   "title": "Что лучшее в жизни, Конан? Любовь!",
-  "date": "2011-11-29T22:41:00+03:00",
+  "date": "2011-11-29T21:41:45+03:00",
   "url": "/news/chto-luchshee-v-zhizni-konan-lyubov/",
   "original_url": "http://spidermedia.ru/news/chto-luchshee-v-zhizni-konan-lyubov",
   "archived": "https://web.archive.org/web/20250808211030/http://spidermedia.ru/news/chto-luchshee-v-zhizni-konan-lyubov",
@@ -10,6 +10,12 @@
     "conan-the-barbarian",
     "brian-wood",
     "bekki-klunan"
+  ],
+  "cover": "https://web.archive.org/web/20250808211030im_/http://spidermedia.ru/assets/images/import_image/6717.jpg",
+  "modx_id": 6717,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Выбор Капитана Америки",
-  "date": "2012-04-16T10:16:00+03:00",
+  "date": "2012-04-16T09:16:37+03:00",
   "url": "/news/vybor-kapitana-ameriki/",
   "original_url": "https://spidermedia.ru/news/vybor-kapitana-ameriki",
   "archived": "https://web.archive.org/web/20260215073615/https://spidermedia.ru/news/vybor-kapitana-ameriki",
@@ -9,7 +9,14 @@
     "x-men",
     "ultimates",
     "billi-tan",
-    "marvel"
+    "marvel",
+    "ultimate-x-men"
+  ],
+  "cover": "https://web.archive.org/web/20260215073615im_/http://spidermedia.ru/assets/images/import_image/6876.jpg",
+  "modx_id": 6876,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

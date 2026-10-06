@@ -1,12 +1,18 @@
 {
   "title": "«Фантастическая Четвёрка»: Сью Шторм в костюме и Человек-Крот (ФОТО)",
-  "date": "2015-02-26T16:59:00+03:00",
+  "date": "2015-02-26T16:59:08+03:00",
   "url": "/news/fantasticheskaya-chetvyorka-syu-shtorm-v-kostyume-i-chelovek-krot-foto/",
   "original_url": "https://spidermedia.ru/news/fantasticheskaya-chetvyorka-syu-shtorm-v-kostyume-i-chelovek-krot-foto",
   "archived": "https://web.archive.org/web/20251111080450/https://spidermedia.ru/news/fantasticheskaya-chetvyorka-syu-shtorm-v-kostyume-i-chelovek-krot-foto",
   "tags": [
     "fantastic-four",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150325233150im_/http://spidermedia.ru/assets/images/import_image/8654.jpg",
+  "modx_id": 8654,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

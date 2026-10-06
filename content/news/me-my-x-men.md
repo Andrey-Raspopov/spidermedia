@@ -1,11 +1,17 @@
 {
   "title": "To Me, My X-Men!",
-  "date": "2011-11-10T22:50:00+03:00",
+  "date": "2011-11-10T21:50:59+03:00",
   "url": "/news/me-my-x-men/",
   "original_url": "http://spidermedia.ru/news/me-my-x-men",
   "archived": "https://web.archive.org/web/20190924061218/http://spidermedia.ru:80/news/me-my-x-men",
   "tags": [
     "kris-klermont"
+  ],
+  "cover": "https://web.archive.org/web/20190924061218im_/http://spidermedia.ru/assets/images/import_image/6693.jpg",
+  "modx_id": 6693,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

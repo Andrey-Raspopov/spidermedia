@@ -1,7 +1,10 @@
 {
   "title": "Самый лучший Человек-Паук",
-  "date": "2009-06-07T00:12:00+03:00",
+  "date": "2009-06-06T23:12:11+03:00",
   "url": "/news/samyy-luchshiy-chelovek-pauk/",
+  "aliases": [
+    "/node/1370/"
+  ],
   "original_url": "http://spidermedia.ru/news/samyy-luchshiy-chelovek-pauk",
   "archived": "https://web.archive.org/web/20120607155737/http://spidermedia.ru/news/samyy-luchshiy-chelovek-pauk",
   "tags": [
@@ -11,7 +14,14 @@
     "kino",
     "sem-reymi",
     "chelovek-pauk",
-    "chelovek-pauk-4"
+    "chelovek-pauk-4",
+    "sem-rejmi"
+  ],
+  "cover": "https://web.archive.org/web/20120607155737im_/http://spidermedia.ru/assets/images/import_image/1370.jpg",
+  "modx_id": 1370,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

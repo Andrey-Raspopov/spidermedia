@@ -1,6 +1,6 @@
 {
   "title": "ОБЗОР: «Смертельно прекрасна», русскоязычное издание",
-  "date": "2014-11-25T12:44:00+03:00",
+  "date": "2014-11-25T12:44:02+03:00",
   "url": "/blog/hella/obzor-smertelno-prekrasna-russkoyazychnoe-izdanie/",
   "original_url": "https://spidermedia.ru/blog/hella/obzor-smertelno-prekrasna-russkoyazychnoe-izdanie",
   "archived": "https://web.archive.org/web/20260312020932/https://spidermedia.ru/blog/hella/obzor-smertelno-prekrasna-russkoyazychnoe-izdanie",
@@ -11,6 +11,12 @@
     "xl-media",
     "pretty-deadly",
     "image-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150423204410im_/http://spidermedia.ru/assets/images/import_image/8315.jpg",
+  "modx_id": 8315,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

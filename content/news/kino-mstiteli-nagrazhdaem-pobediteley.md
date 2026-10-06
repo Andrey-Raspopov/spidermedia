@@ -1,6 +1,6 @@
 {
   "title": "КИНО-МСТИТЕЛИ: Награждаем победителей!",
-  "date": "2012-06-19T18:35:00+03:00",
+  "date": "2012-06-19T17:35:00+03:00",
   "url": "/news/kino-mstiteli-nagrazhdaem-pobediteley/",
   "original_url": "http://spidermedia.ru/news/kino-mstiteli-nagrazhdaem-pobediteley",
   "archived": "https://web.archive.org/web/20251117002236/http://spidermedia.ru/news/kino-mstiteli-nagrazhdaem-pobediteley",
@@ -9,6 +9,12 @@
     "konkurs",
     "challenge",
     "avengers"
+  ],
+  "cover": "https://web.archive.org/web/20251117002236im_/http://spidermedia.ru/assets/images/import_image/6938.jpg",
+  "modx_id": 6938,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

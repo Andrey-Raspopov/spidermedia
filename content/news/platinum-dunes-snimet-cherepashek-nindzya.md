@@ -1,7 +1,10 @@
 {
   "title": "Platinum Dunes снимет \"Черепашек-Ниндзя\"",
-  "date": "2010-05-28T13:44:00+03:00",
+  "date": "2010-05-28T12:44:13+03:00",
   "url": "/news/platinum-dunes-snimet-cherepashek-nindzya/",
+  "aliases": [
+    "/node/2635/"
+  ],
   "original_url": "http://spidermedia.ru/news/platinum-dunes-snimet-cherepashek-nindzya",
   "archived": "https://web.archive.org/web/20191228062754/http://spidermedia.ru:80/news/platinum-dunes-snimet-cherepashek-nindzya",
   "tags": [
@@ -9,6 +12,12 @@
     "ninja-turtles",
     "nickelodeon",
     "mirage-studios"
+  ],
+  "cover": "https://web.archive.org/web/20191228062754im_/http://spidermedia.ru/assets/images/import_image/2635.jpg",
+  "modx_id": 2635,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

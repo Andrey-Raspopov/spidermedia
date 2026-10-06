@@ -8,6 +8,12 @@
     "bubble",
     "russian-comics"
   ],
+  "cover": "https://web.archive.org/web/20210826092404im_/http://spidermedia.ru/assets/images/bubblegum/14/zaglavnaya.jpg",
+  "modx_id": 101851,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

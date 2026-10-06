@@ -1,13 +1,23 @@
 {
   "title": "Капитан Свинг и Электрические пираты",
-  "date": "2009-06-25T11:18:00+03:00",
+  "date": "2009-06-25T10:18:58+03:00",
   "url": "/news/kapitan-sving-i-elektricheskie-piraty/",
+  "aliases": [
+    "/node/1056/"
+  ],
   "original_url": "https://spidermedia.ru/news/kapitan-sving-i-elektricheskie-piraty",
   "archived": "https://web.archive.org/web/20251108025221/https://spidermedia.ru/news/kapitan-sving-i-elektricheskie-piraty",
   "tags": [
     "warren-ellis",
     "art-0",
-    "avatar-press"
+    "avatar-press",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20251108025221im_/http://spidermedia.ru/assets/images/import_image/1056.jpg",
+  "modx_id": 1056,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

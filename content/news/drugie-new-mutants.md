@@ -1,6 +1,6 @@
 {
   "title": "Другие New Mutants",
-  "date": "2011-02-23T13:49:00+03:00",
+  "date": "2011-02-23T12:49:41+03:00",
   "url": "/news/drugie-new-mutants/",
   "original_url": "http://spidermedia.ru/news/drugie-new-mutants",
   "archived": "https://web.archive.org/web/20120512010331/http://spidermedia.ru/news/drugie-new-mutants",
@@ -12,7 +12,14 @@
     "lyudi-iks",
     "marvel",
     "novye-mutanty",
-    "tizery"
+    "tizery",
+    "x-men"
+  ],
+  "cover": "https://web.archive.org/web/20120512010331im_/http://spidermedia.ru/assets/images/import_image/3645.jpg",
+  "modx_id": 3645,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

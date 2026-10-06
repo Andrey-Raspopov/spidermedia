@@ -1,6 +1,6 @@
 {
   "title": "Трейлер и постер мультфильма \"BIG HERO 6\"",
-  "date": "2014-05-22T18:23:00+03:00",
+  "date": "2014-05-22T17:23:16+03:00",
   "url": "/news/treyler-i-poster-multfilma-big-hero-6/",
   "original_url": "https://spidermedia.ru/news/treyler-i-poster-multfilma-big-hero-6",
   "archived": "https://web.archive.org/web/20260312011859/https://spidermedia.ru/news/treyler-i-poster-multfilma-big-hero-6",
@@ -10,6 +10,12 @@
     "marvel",
     "disnej",
     "big-hero-6"
+  ],
+  "cover": "https://web.archive.org/web/20150326221517im_/http://spidermedia.ru/assets/images/import_image/7753.jpg",
+  "modx_id": 7753,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

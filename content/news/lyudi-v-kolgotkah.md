@@ -1,6 +1,6 @@
 {
   "title": "Люди в колготках",
-  "date": "2013-08-28T05:01:00+03:00",
+  "date": "2013-08-28T04:01:19+03:00",
   "url": "/news/lyudi-v-kolgotkah/",
   "original_url": "https://spidermedia.ru/news/lyudi-v-kolgotkah",
   "archived": "https://web.archive.org/web/20260309181258/https://spidermedia.ru/news/lyudi-v-kolgotkah",
@@ -10,6 +10,12 @@
     "dzho-kinones",
     "dc-comics",
     "black-canary"
+  ],
+  "cover": "https://web.archive.org/web/20260309181258im_/http://spidermedia.ru/assets/images/import_image/7438.jpg",
+  "modx_id": 7438,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

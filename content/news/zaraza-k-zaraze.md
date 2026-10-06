@@ -1,6 +1,6 @@
 {
   "title": "Зараза к заразе",
-  "date": "2011-05-12T11:11:00+03:00",
+  "date": "2011-05-12T10:11:46+03:00",
   "url": "/news/zaraza-k-zaraze/",
   "original_url": "http://spidermedia.ru/news/zaraza-k-zaraze",
   "archived": "https://web.archive.org/web/20260214135842/http://spidermedia.ru/news/zaraza-k-zaraze",
@@ -10,6 +10,12 @@
     "venom",
     "spider-island",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20260214135842im_/http://spidermedia.ru/assets/images/import_image/5668.jpg",
+  "modx_id": 5668,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

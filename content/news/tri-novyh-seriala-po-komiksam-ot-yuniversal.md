@@ -1,13 +1,20 @@
 {
   "title": "Три новых сериала по комиксам от Юниверсал!",
-  "date": "2014-07-24T12:48:00+03:00",
+  "date": "2014-07-24T11:48:14+03:00",
   "url": "/news/tri-novyh-seriala-po-komiksam-ot-yuniversal/",
   "original_url": "http://spidermedia.ru/news/tri-novyh-seriala-po-komiksam-ot-yuniversal",
   "archived": "https://web.archive.org/web/20250210075835/http://spidermedia.ru/news/tri-novyh-seriala-po-komiksam-ot-yuniversal",
   "tags": [
     "warren-ellis",
     "serialy",
-    "rik-remender"
+    "rik-remender",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20150502155014im_/http://spidermedia.ru/assets/images/import_image/7918.jpg",
+  "modx_id": 7918,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -8,6 +8,12 @@
     "hellboymedia",
     "mike-mignola-russia"
   ],
+  "cover": "https://web.archive.org/web/20260115064726im_/http://spidermedia.ru/assets/images/hellboymedia/project-02-russia/article-part-3/russia-by-mike-mignola-part-3-cover.jpg",
+  "modx_id": 100758,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,11 +1,17 @@
 {
   "title": "День новых комиксов: 4 марта",
-  "date": "2015-03-04T12:45:00+03:00",
+  "date": "2015-03-04T12:45:54+03:00",
   "url": "/blog/oleg89/den-novyh-komiksov-4-marta-0/",
   "original_url": "http://spidermedia.ru/blog/oleg89/den-novyh-komiksov-4-marta-0",
   "archived": "https://web.archive.org/web/20200216142259/http://spidermedia.ru:80/blog/oleg89/den-novyh-komiksov-4-marta-0",
   "tags": [
     "den-novyh-komiksov"
+  ],
+  "cover": "https://web.archive.org/web/20150315214324im_/http://spidermedia.ru/assets/images/dnk/15-03-04/z71w9kv1.jpg",
+  "modx_id": 8667,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

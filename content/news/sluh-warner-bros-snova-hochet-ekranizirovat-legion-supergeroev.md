@@ -1,12 +1,18 @@
 {
   "title": "СЛУХ: Warner Bros. снова хочет экранизировать \"Легион Супергероев\"",
-  "date": "2015-02-04T10:03:00+03:00",
+  "date": "2015-02-04T10:03:55+03:00",
   "url": "/news/sluh-warner-bros-snova-hochet-ekranizirovat-legion-supergeroev/",
   "original_url": "https://spidermedia.ru/news/sluh-warner-bros-snova-hochet-ekranizirovat-legion-supergeroev",
   "archived": "https://web.archive.org/web/20250518141321/https://spidermedia.ru/news/sluh-warner-bros-snova-hochet-ekranizirovat-legion-supergeroev",
   "tags": [
     "legion-of-super-heroes",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150326220534im_/http://spidermedia.ru/assets/images/import_image/8580.jpg",
+  "modx_id": 8580,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

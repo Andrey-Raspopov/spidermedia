@@ -1,7 +1,10 @@
 {
   "title": "Взрывной Стэн",
-  "date": "2010-07-24T01:28:00+03:00",
+  "date": "2010-07-24T00:28:20+03:00",
   "url": "/news/vzryvnoy-sten/",
+  "aliases": [
+    "/node/2778/"
+  ],
   "original_url": "https://spidermedia.ru/news/vzryvnoy-sten",
   "archived": "https://web.archive.org/web/20240624142939/https://spidermedia.ru/news/vzryvnoy-sten",
   "tags": [
@@ -14,6 +17,12 @@
     "starborn",
     "soldier-zero",
     "boom-studios"
+  ],
+  "cover": "https://web.archive.org/web/20240624142939im_/http://spidermedia.ru/assets/images/import_image/2778.jpg",
+  "modx_id": 2778,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Трейлеры, которых нет, дополненные",
-  "date": "2009-02-21T20:32:00+03:00",
+  "date": "2009-02-21T20:32:27+03:00",
   "url": "/blog/bastion7/treylery-kotoryh-net-dopolnennye/",
   "original_url": "https://spidermedia.ru/blog/bastion7/treylery-kotoryh-net-dopolnennye",
   "archived": "https://web.archive.org/web/20250808200141/https://spidermedia.ru/blog/bastion7/treylery-kotoryh-net-dopolnennye",
@@ -10,6 +10,12 @@
     "green-lantern",
     "dc-comics",
     "justice-league"
+  ],
+  "cover": "https://web.archive.org/web/20250808200141im_/http://spidermedia.ru/assets/images/justice_league___logo_by_kakkay-d3hq5l2.jpg",
+  "modx_id": 475,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

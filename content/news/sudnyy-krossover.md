@@ -1,6 +1,6 @@
 {
   "title": "Судный кроссовер",
-  "date": "2010-12-16T22:26:00+03:00",
+  "date": "2010-12-16T21:26:08+03:00",
   "url": "/news/sudnyy-krossover/",
   "original_url": "http://spidermedia.ru/news/sudnyy-krossover",
   "archived": "https://web.archive.org/web/20120607121857/http://spidermedia.ru/news/sudnyy-krossover",
@@ -11,7 +11,16 @@
     "dumsdey",
     "komiksy",
     "oblozhki",
-    "ed-benes-1"
+    "ed-benes-1",
+    "ed-benes",
+    "dumsdej",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20120607121857im_/http://spidermedia.ru/assets/images/import_image/3121.jpg",
+  "modx_id": 3121,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

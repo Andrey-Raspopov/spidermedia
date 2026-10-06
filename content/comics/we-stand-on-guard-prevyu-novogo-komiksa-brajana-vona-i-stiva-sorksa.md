@@ -8,6 +8,12 @@
     "image-comics",
     "brian-k-vaughan"
   ],
+  "cover": "https://web.archive.org/web/20160611212706im_/http://spidermedia.ru/assets/images/news/image/we-stand-on-guard/we-stand-on-guard-cover.jpg",
+  "modx_id": 100207,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

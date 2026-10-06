@@ -1,7 +1,10 @@
 {
   "title": "Supergod will save you... NOT",
-  "date": "2009-08-24T14:10:00+03:00",
+  "date": "2009-08-24T13:10:59+03:00",
   "url": "/news/supergod-will-save-you-not/",
+  "aliases": [
+    "/node/1817/"
+  ],
   "original_url": "https://spidermedia.ru/news/supergod-will-save-you-not",
   "archived": "https://web.archive.org/web/20260313102907/https://spidermedia.ru/news/supergod-will-save-you-not",
   "tags": [
@@ -9,6 +12,12 @@
     "superbog",
     "supergod",
     "avatar-press"
+  ],
+  "cover": "https://web.archive.org/web/20260313102907im_/http://spidermedia.ru/assets/images/import_image/1817.jpg",
+  "modx_id": 1817,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

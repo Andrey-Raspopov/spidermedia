@@ -1,12 +1,18 @@
 {
   "title": "Новая Бэтгёрл: Стильно! Модно! Молодежно!",
-  "date": "2014-07-11T17:16:00+03:00",
+  "date": "2014-07-11T16:16:17+03:00",
   "url": "/news/novaya-betgyorl-stilno-modno-molodzheno/",
   "original_url": "http://spidermedia.ru/news/novaya-betgyorl-stilno-modno-molodzheno",
   "archived": "https://web.archive.org/web/20200218015241/http://spidermedia.ru:80/news/novaya-betgyorl-stilno-modno-molodzheno",
   "tags": [
     "betgyorl",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150327041827im_/http://spidermedia.ru/assets/images/import_image/7881.jpg",
+  "modx_id": 7881,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

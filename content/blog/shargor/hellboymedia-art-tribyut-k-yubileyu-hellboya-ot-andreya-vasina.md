@@ -1,6 +1,6 @@
 {
   "title": "Hellboymedia: Арт-трибьют к юбилею Хэллбоя от Андрея Васина",
-  "date": "2014-12-24T16:06:00+03:00",
+  "date": "2014-12-24T16:06:46+03:00",
   "url": "/blog/shargor/hellboymedia-art-tribyut-k-yubileyu-hellboya-ot-andreya-vasina/",
   "original_url": "https://spidermedia.ru/blog/shargor/hellboymedia-art-tribyut-k-yubileyu-hellboya-ot-andreya-vasina",
   "archived": "https://web.archive.org/web/20251209144628/https://spidermedia.ru/blog/shargor/hellboymedia-art-tribyut-k-yubileyu-hellboya-ot-andreya-vasina",
@@ -8,6 +8,12 @@
     "20-let-hellboya",
     "hellboymedia",
     "art-tribyut"
+  ],
+  "cover": "https://web.archive.org/web/20160611203030im_/http://spidermedia.ru/assets/images/hellboymedia/project-01-anniversary/art-tributes-bubble/andrey-vasin-cover.jpg",
+  "modx_id": 8422,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -8,6 +8,12 @@
     "hellboymedia",
     "mnenie"
   ],
+  "cover": "https://web.archive.org/web/20160611141145im_/http://spidermedia.ru/assets/images/hellboymedia/regular/12-hellboy-and-the-b.p.r.d.-1952/hellboy-and-the-b.p.r.d.-1952-cover.jpg",
+  "modx_id": 100163,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

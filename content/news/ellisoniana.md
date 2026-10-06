@@ -1,7 +1,10 @@
 {
   "title": "Эллисониана",
-  "date": "2009-07-19T21:19:00+03:00",
+  "date": "2009-07-19T20:19:53+03:00",
   "url": "/news/ellisoniana/",
+  "aliases": [
+    "/node/1600/"
+  ],
   "original_url": "https://spidermedia.ru/news/ellisoniana",
   "archived": "https://web.archive.org/web/20260307071341/https://spidermedia.ru/news/ellisoniana",
   "tags": [
@@ -9,6 +12,12 @@
     "ben-templsmit",
     "marvel",
     "image-comics"
+  ],
+  "cover": "https://web.archive.org/web/20260307071341im_/http://spidermedia.ru/assets/images/import_image/1600.jpg",
+  "modx_id": 1600,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,12 +1,21 @@
 {
   "title": "Mortal Kombat - рецензия",
-  "date": "2009-04-08T23:32:00+03:00",
+  "date": "2009-04-08T22:32:40+03:00",
   "url": "/blog/red-hulk/mortal-kombat-recenziya/",
+  "aliases": [
+    "/node/891/"
+  ],
   "original_url": "http://spidermedia.ru/blog/red-hulk/mortal-kombat-recenziya",
   "archived": "https://web.archive.org/web/20190907234536/http://spidermedia.ru:80/blog/red-hulk/mortal-kombat-recenziya",
   "tags": [
     "recenziya",
     "mortal-kombat"
+  ],
+  "cover": "https://web.archive.org/web/20190907234536im_/http://spidermedia.ru/assets/images/import_image/891.jpg",
+  "modx_id": 891,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

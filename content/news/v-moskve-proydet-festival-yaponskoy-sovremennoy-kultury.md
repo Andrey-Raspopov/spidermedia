@@ -1,6 +1,6 @@
 {
   "title": "В Москве пройдет Фестиваль японской современной культуры",
-  "date": "2011-11-14T15:23:00+03:00",
+  "date": "2011-11-14T14:23:00+03:00",
   "url": "/news/v-moskve-proydet-festival-yaponskoy-sovremennoy-kultury/",
   "original_url": "http://spidermedia.ru/news/v-moskve-proydet-festival-yaponskoy-sovremennoy-kultury",
   "archived": "https://web.archive.org/web/20260313121040/http://spidermedia.ru/news/v-moskve-proydet-festival-yaponskoy-sovremennoy-kultury",
@@ -9,6 +9,12 @@
     "manga",
     "kultura",
     "igry"
+  ],
+  "cover": "https://web.archive.org/web/20150326035954im_/http://spidermedia.ru/assets/images/import_image/6690.gif",
+  "modx_id": 6690,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

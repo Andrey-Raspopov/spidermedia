@@ -10,6 +10,12 @@
     "fantastic-four",
     "chip-zdarski"
   ],
+  "cover": "https://web.archive.org/web/20250618113442im_/http://spidermedia.ru/assets/images/reviews/marvel/two-in-one/smk.jpg",
+  "modx_id": 101776,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

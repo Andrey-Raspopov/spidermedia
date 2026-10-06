@@ -1,6 +1,6 @@
 {
   "title": "плохие комиксы Inc. №1,5: Значит заходят в город Сильвестр Сталлоне, гном и полуголая девица..",
-  "date": "2011-05-22T17:11:00+03:00",
+  "date": "2011-05-22T16:11:48+03:00",
   "url": "/blog/samm-o/plohie-komiksy-inc-no15-znachit-zahodyat-v-gorod-silvestr-stallone-gnom-i-polugolaya/",
   "original_url": "http://spidermedia.ru/blog/samm-o/plohie-komiksy-inc-no15-znachit-zahodyat-v-gorod-silvestr-stallone-gnom-i-polugolaya",
   "archived": "https://web.archive.org/web/20120608192902/http://spidermedia.ru/blog/samm-o/plohie-komiksy-inc-no15-znachit-zahodyat-v-gorod-silvestr-stallone-gnom-i-polugolaya",
@@ -8,6 +8,12 @@
     "zenescope-entertainment",
     "komiksy",
     "plohie-komiksy-inc"
+  ],
+  "cover": "https://web.archive.org/web/20120608192902im_/http://spidermedia.ru/assets/images/import_image/5932.jpg",
+  "modx_id": 5932,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

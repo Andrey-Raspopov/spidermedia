@@ -1,13 +1,22 @@
 {
   "title": "Vertigo Resurrected",
-  "date": "2010-07-17T00:16:00+03:00",
+  "date": "2010-07-16T23:16:08+03:00",
   "url": "/news/vertigo-resurrected/",
+  "aliases": [
+    "/node/2743/"
+  ],
   "original_url": "https://spidermedia.ru/news/vertigo-resurrected",
   "archived": "https://web.archive.org/web/20260206225247/https://spidermedia.ru/news/vertigo-resurrected",
   "tags": [
     "warren-ellis",
     "tim-bredstrit",
     "vertigo"
+  ],
+  "cover": "https://web.archive.org/web/20260206225247im_/http://spidermedia.ru/assets/images/import_image/2743.jpg",
+  "modx_id": 2743,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

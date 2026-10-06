@@ -1,12 +1,21 @@
 {
   "title": "Костюм Зеленого Фонаря",
-  "date": "2010-07-15T17:47:00+03:00",
+  "date": "2010-07-15T16:47:21+03:00",
   "url": "/news/kostyum-zelenogo-fonarya/",
+  "aliases": [
+    "/node/2732/"
+  ],
   "original_url": "http://spidermedia.ru/news/kostyum-zelenogo-fonarya",
   "archived": "https://web.archive.org/web/20200127174816/http://spidermedia.ru:80/news/kostyum-zelenogo-fonarya",
   "tags": [
     "green-lantern",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20200127174816im_/http://spidermedia.ru/assets/images/import_image/2732.jpg",
+  "modx_id": 2732,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

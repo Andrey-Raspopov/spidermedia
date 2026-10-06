@@ -4,6 +4,9 @@
   "url": "/gallery/gall_humor02/",
   "original_url": "http://www.spidermedia.ru/gallery/gall_humor02.html",
   "archived": "https://web.archive.org/web/20050302003218/http://www.spidermedia.ru:80/gallery/gall_humor02.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

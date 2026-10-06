@@ -1,7 +1,10 @@
 {
   "title": "Ultimate Avengers - такими их ещё не видели!",
-  "date": "2009-07-30T20:30:00+03:00",
+  "date": "2009-07-30T19:30:35+03:00",
   "url": "/news/ultimate-avengers-takimi-ih-eshchyo-ne-videli/",
+  "aliases": [
+    "/node/1695/"
+  ],
   "original_url": "http://spidermedia.ru/news/ultimate-avengers-takimi-ih-eshchyo-ne-videli",
   "archived": "https://web.archive.org/web/20120718063114/http://spidermedia.ru/news/ultimate-avengers-takimi-ih-eshchyo-ne-videli",
   "tags": [
@@ -9,7 +12,13 @@
     "komiksy",
     "marvel",
     "mark-millar",
-    "mstiteli"
+    "mstiteli",
+    "avengers"
+  ],
+  "modx_id": 1695,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

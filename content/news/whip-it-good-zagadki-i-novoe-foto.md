@@ -1,7 +1,10 @@
 {
   "title": "Whip it good, загадки и новое фото",
-  "date": "2009-12-15T22:40:00+03:00",
+  "date": "2009-12-15T21:40:25+03:00",
   "url": "/news/whip-it-good-zagadki-i-novoe-foto/",
+  "aliases": [
+    "/node/2163/"
+  ],
   "original_url": "http://spidermedia.ru/news/whip-it-good-zagadki-i-novoe-foto",
   "archived": "https://web.archive.org/web/20120608214629/http://spidermedia.ru/news/whip-it-good-zagadki-i-novoe-foto",
   "tags": [
@@ -15,6 +18,12 @@
     "knut",
     "komiksy",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20120608214629im_/http://spidermedia.ru/assets/images/import_image/2163.jpg",
+  "modx_id": 2163,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

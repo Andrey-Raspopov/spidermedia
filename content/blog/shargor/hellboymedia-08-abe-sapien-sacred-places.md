@@ -1,12 +1,18 @@
 {
   "title": "Hellboymedia #08: Abe Sapien — Sacred Places",
-  "date": "2014-11-07T15:48:00+03:00",
+  "date": "2014-11-07T15:48:06+03:00",
   "url": "/blog/shargor/hellboymedia-08-abe-sapien-sacred-places/",
   "original_url": "https://spidermedia.ru/blog/shargor/hellboymedia-08-abe-sapien-sacred-places",
   "archived": "https://web.archive.org/web/20251209152206/https://spidermedia.ru/blog/shargor/hellboymedia-08-abe-sapien-sacred-places",
   "tags": [
     "hellboymedia",
     "mnenie"
+  ],
+  "cover": "https://web.archive.org/web/20160611142626im_/http://spidermedia.ru/assets/images/hellboymedia/regular/08-abe-sapien-sacred-places/abe-sapien-sacred-places-cover.jpg",
+  "modx_id": 8268,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

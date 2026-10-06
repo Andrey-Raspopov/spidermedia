@@ -8,6 +8,12 @@
     "dark-horse",
     "komik-kon-v-nyu-yorke"
   ],
+  "cover": "https://web.archive.org/web/20170312111703im_/http://spidermedia.ru/assets/images/news/nycc/2016/101.jpg",
+  "modx_id": 101360,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

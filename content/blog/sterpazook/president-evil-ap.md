@@ -1,7 +1,10 @@
 {
   "title": "President Evil (AP)",
-  "date": "2009-08-15T17:56:00+03:00",
+  "date": "2009-08-15T16:56:05+03:00",
   "url": "/blog/sterpazook/president-evil-ap/",
+  "aliases": [
+    "/node/1793/"
+  ],
   "original_url": "http://spidermedia.ru/blog/sterpazook/president-evil-ap",
   "archived": "https://web.archive.org/web/20120607103515/http://spidermedia.ru/blog/sterpazook/president-evil-ap",
   "tags": [
@@ -12,6 +15,12 @@
     "zombi",
     "komiksy",
     "politika"
+  ],
+  "cover": "https://web.archive.org/web/20120607103515im_/http://spidermedia.ru/assets/images/import_image/1793.jpg",
+  "modx_id": 1793,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

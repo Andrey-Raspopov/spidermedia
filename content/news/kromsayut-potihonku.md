@@ -1,12 +1,21 @@
 {
   "title": "Кромсают потихоньку",
-  "date": "2009-11-17T20:48:00+03:00",
+  "date": "2009-11-17T20:48:55+03:00",
   "url": "/news/kromsayut-potihonku/",
+  "aliases": [
+    "/node/2111/"
+  ],
   "original_url": "https://spidermedia.ru/news/kromsayut-potihonku",
   "archived": "https://web.archive.org/web/20250913023220/https://spidermedia.ru/news/kromsayut-potihonku",
   "tags": [
     "hackslash",
     "devils-due-publishing"
+  ],
+  "cover": "https://web.archive.org/web/20250913023220im_/http://spidermedia.ru/assets/images/import_image/2111.jpg",
+  "modx_id": 2111,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

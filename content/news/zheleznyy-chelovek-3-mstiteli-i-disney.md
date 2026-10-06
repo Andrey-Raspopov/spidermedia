@@ -1,13 +1,23 @@
 {
   "title": "Железный Человек 3, Мстители и Disney",
-  "date": "2010-10-18T23:37:00+03:00",
+  "date": "2010-10-18T22:37:57+03:00",
   "url": "/news/zheleznyy-chelovek-3-mstiteli-i-disney/",
+  "aliases": [
+    "/node/3018/"
+  ],
   "original_url": "http://spidermedia.ru/news/zheleznyy-chelovek-3-mstiteli-i-disney",
   "archived": "https://web.archive.org/web/20250913012816/http://spidermedia.ru/news/zheleznyy-chelovek-3-mstiteli-i-disney",
   "tags": [
     "iron-man",
     "avengers",
-    "marvel"
+    "marvel",
+    "zheleznyy-chelovek"
+  ],
+  "cover": "https://web.archive.org/web/20250913012816im_/http://spidermedia.ru/assets/images/import_image/3018.jpg",
+  "modx_id": 3018,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

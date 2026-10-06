@@ -1,7 +1,10 @@
 {
   "title": "И снова Новые Мутанты",
-  "date": "2009-04-14T16:55:00+03:00",
+  "date": "2009-04-14T15:55:53+03:00",
   "url": "/news/i-snova-novye-mutanty/",
+  "aliases": [
+    "/node/926/"
+  ],
   "original_url": "https://spidermedia.ru/news/i-snova-novye-mutanty",
   "archived": "https://web.archive.org/web/20260121010405/https://spidermedia.ru/news/i-snova-novye-mutanty",
   "tags": [
@@ -9,7 +12,14 @@
     "marvel",
     "zeb-uells",
     "new-mutants",
-    "diogenis-nivis"
+    "diogenis-nivis",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20260121010405im_/http://spidermedia.ru/assets/images/import_image/926.jpg",
+  "modx_id": 926,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

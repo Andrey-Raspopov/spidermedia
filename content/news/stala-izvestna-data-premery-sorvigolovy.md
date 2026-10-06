@@ -1,13 +1,21 @@
 {
   "title": "Стала известна дата премьеры «Сорвиголовы»",
-  "date": "2015-01-08T14:24:00+03:00",
+  "date": "2015-01-08T14:24:59+03:00",
   "url": "/news/stala-izvestna-data-premery-sorvigolovy/",
   "original_url": "https://spidermedia.ru/news/stala-izvestna-data-premery-sorvigolovy",
   "archived": "https://web.archive.org/web/20260115052923/https://spidermedia.ru/news/stala-izvestna-data-premery-sorvigolovy",
   "tags": [
     "serialy",
     "daredevil",
-    "marvel"
+    "marvel",
+    "tv",
+    "sorvigolova"
+  ],
+  "cover": "https://web.archive.org/web/20150327041722im_/http://spidermedia.ru/assets/images/import_image/8471.jpg",
+  "modx_id": 8471,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

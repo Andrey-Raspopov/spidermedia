@@ -1,6 +1,6 @@
 {
   "title": "MULTIVERSITY Моррисона выйдет в 2013 году",
-  "date": "2012-09-30T11:27:00+03:00",
+  "date": "2012-09-30T10:27:10+03:00",
   "url": "/news/multiversity-morrisona-vyydet-v-2013-godu/",
   "original_url": "https://spidermedia.ru/news/multiversity-morrisona-vyydet-v-2013-godu",
   "archived": "https://web.archive.org/web/20251208065231/https://spidermedia.ru/news/multiversity-morrisona-vyydet-v-2013-godu",
@@ -8,7 +8,14 @@
     "frenk-kuajtli",
     "preview",
     "grant-morrison",
-    "dc-comics"
+    "dc-comics",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20251208065231im_/http://spidermedia.ru/assets/images/import_image/7040.jpg",
+  "modx_id": 7040,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

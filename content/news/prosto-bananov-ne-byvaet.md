@@ -1,12 +1,18 @@
 {
   "title": "Просто бананов не бывает",
-  "date": "2011-07-15T07:23:00+03:00",
+  "date": "2011-07-15T06:23:45+03:00",
   "url": "/news/prosto-bananov-ne-byvaet/",
   "original_url": "http://spidermedia.ru/news/prosto-bananov-ne-byvaet",
   "archived": "https://web.archive.org/web/20251206040925/http://spidermedia.ru/news/prosto-bananov-ne-byvaet",
   "tags": [
     "dzhonatan-hikman",
     "image-comics"
+  ],
+  "cover": "https://web.archive.org/web/20251206040925im_/http://spidermedia.ru/assets/images/import_image/6500.jpg",
+  "modx_id": 6500,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

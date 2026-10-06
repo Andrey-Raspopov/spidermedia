@@ -1,13 +1,22 @@
 {
   "title": "Рецензия - The Nightly News",
-  "date": "2009-03-04T20:32:00+03:00",
+  "date": "2009-03-04T20:32:34+03:00",
   "url": "/blog/bastion7/recenziya-nightly-news/",
+  "aliases": [
+    "/node/586/"
+  ],
   "original_url": "http://spidermedia.ru/blog/bastion7/recenziya-nightly-news",
   "archived": "https://web.archive.org/web/20190731040707/http://spidermedia.ru:80/blog/bastion7/recenziya-nightly-news",
   "tags": [
     "recenziya",
     "image-comics",
     "dzhonatan-hikman"
+  ],
+  "cover": "https://web.archive.org/web/20190731040707im_/http://spidermedia.ru/assets/images/import_image/586.jpg",
+  "modx_id": 586,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

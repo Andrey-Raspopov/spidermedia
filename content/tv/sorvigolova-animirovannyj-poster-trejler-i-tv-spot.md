@@ -8,6 +8,12 @@
     "marvel",
     "daredevil"
   ],
+  "cover": "https://web.archive.org/web/20240624134602im_/http://spidermedia.ru/assets/images/tv/marvel/daredevil/dd_horizontal-bloodyknuckles.jpg",
+  "modx_id": 100144,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/movies/and-the-oscar-goes-to-comics/",
   "original_url": "http://spidermedia.ru/movies/and-the-oscar-goes-to-comics",
   "archived": "https://web.archive.org/web/20260206225852/http://spidermedia.ru/movies/and-the-oscar-goes-to-comics",
+  "cover": "https://web.archive.org/web/20160406171656im_/http://spidermedia.ru/assets/images/articles/oscar-2016/42101_fantasy_superheroes_in_cinema.jpg",
+  "modx_id": 100956,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

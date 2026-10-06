@@ -1,6 +1,6 @@
 {
   "title": "Манга на русском: «Повелители терний» (Истари комикс)",
-  "date": "2014-09-11T16:17:00+03:00",
+  "date": "2014-09-11T15:17:21+03:00",
   "url": "/articles/manga-na-russkom-poveliteli-terniy-istari-komiks/",
   "original_url": "https://spidermedia.ru/articles/manga-na-russkom-poveliteli-terniy-istari-komiks",
   "archived": "https://web.archive.org/web/20251216111817/https://spidermedia.ru/articles/manga-na-russkom-poveliteli-terniy-istari-komiks",
@@ -9,6 +9,12 @@
     "poveliteli-ternij",
     "manga",
     "istari-komiks"
+  ],
+  "cover": "https://web.archive.org/web/20160313133907im_/http://spidermedia.ru/assets/images/import_image/8052.jpg",
+  "modx_id": 8052,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

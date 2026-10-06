@@ -8,6 +8,12 @@
     "marvel",
     "spider-man"
   ],
+  "cover": "https://web.archive.org/web/20250210025813im_/http://spidermedia.ru/assets/images/news/marvel/amazing-spider-man-dead-no-more.jpg",
+  "modx_id": 101052,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

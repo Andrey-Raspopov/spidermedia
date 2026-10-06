@@ -4,6 +4,12 @@
   "url": "/games/recenziya-final-fantasy-vii-remake/",
   "original_url": "http://spidermedia.ru/games/recenziya-final-fantasy-vii-remake",
   "archived": "https://web.archive.org/web/20260117220920/http://spidermedia.ru/games/recenziya-final-fantasy-vii-remake",
+  "cover": "https://web.archive.org/web/20260117220920im_/http://spidermedia.ru/assets/images/games/1-1.jpg",
+  "modx_id": 102225,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

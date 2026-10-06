@@ -1,7 +1,10 @@
 {
   "title": "Игры и негатив",
-  "date": "2010-10-06T13:23:00+03:00",
+  "date": "2010-10-06T12:23:12+03:00",
   "url": "/news/igry-i-negativ/",
+  "aliases": [
+    "/node/2974/"
+  ],
   "original_url": "http://spidermedia.ru/news/igry-i-negativ",
   "archived": "https://web.archive.org/web/20251216171458/http://spidermedia.ru/news/igry-i-negativ",
   "tags": [
@@ -22,7 +25,15 @@
     "spider-girl",
     "namor",
     "marvel",
-    "avengers"
+    "avengers",
+    "lyudi-iks",
+    "uncanny-x-men"
+  ],
+  "cover": "https://web.archive.org/web/20251216171458im_/http://spidermedia.ru/assets/images/import_image/2974.jpg",
+  "modx_id": 2974,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -9,6 +9,12 @@
     "mark-waid",
     "eksklyuziv"
   ],
+  "cover": "https://web.archive.org/web/20251216180934im_/http://spidermedia.ru/assets/images/news/fanzon/irredeemable/vol-1-preview/mzk.jpg",
+  "modx_id": 101930,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

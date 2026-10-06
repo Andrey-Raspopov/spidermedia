@@ -4,6 +4,12 @@
   "url": "/games/prevyu-rage-2/",
   "original_url": "http://spidermedia.ru/games/prevyu-rage-2",
   "archived": "https://web.archive.org/web/20260211181347/http://spidermedia.ru/games/prevyu-rage-2",
+  "cover": "https://web.archive.org/web/20260211181347im_/http://spidermedia.ru/assets/images/games/oblozhkavideorejdzh.jpg",
+  "modx_id": 102076,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,12 +1,18 @@
 {
   "title": "Обзор 30-ти минут \"Нового Человека-Паука: Высокое напряжение\"",
-  "date": "2014-04-02T22:03:00+03:00",
+  "date": "2014-04-02T21:03:26+03:00",
   "url": "/blog/christian/obzor-30-ti-minut-novogo-cheloveka-pauka-vysokoe-napryazhenie/",
   "original_url": "http://spidermedia.ru/blog/christian/obzor-30-ti-minut-novogo-cheloveka-pauka-vysokoe-napryazhenie",
   "archived": "https://web.archive.org/web/20251117002551/http://spidermedia.ru/blog/christian/obzor-30-ti-minut-novogo-cheloveka-pauka-vysokoe-napryazhenie",
   "tags": [
     "spider-man",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150424090140im_/http://spidermedia.ru/assets/images/import_image/7703.jpg",
+  "modx_id": 7703,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

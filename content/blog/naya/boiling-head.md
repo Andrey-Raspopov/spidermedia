@@ -1,13 +1,20 @@
 {
   "title": "Boiling Head",
-  "date": "2009-02-05T22:16:00+03:00",
+  "date": "2009-02-05T22:16:04+03:00",
   "url": "/blog/naya/boiling-head/",
   "original_url": "http://spidermedia.ru/blog/naya/boiling-head",
   "archived": "https://web.archive.org/web/20251216185041/http://spidermedia.ru/blog/naya/boiling-head",
   "tags": [
     "sci-fi",
     "one-shot",
-    "manga"
+    "manga",
+    "manga-2"
+  ],
+  "cover": "https://web.archive.org/web/20251216185041im_/http://spidermedia.ru/assets/images/import_image/218.gif",
+  "modx_id": 218,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

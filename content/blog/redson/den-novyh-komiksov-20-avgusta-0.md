@@ -1,11 +1,17 @@
 {
   "title": "День новых комиксов: 20 августа",
-  "date": "2014-08-20T13:53:00+03:00",
+  "date": "2014-08-20T12:53:46+03:00",
   "url": "/blog/redson/den-novyh-komiksov-20-avgusta-0/",
   "original_url": "http://spidermedia.ru/blog/redson/den-novyh-komiksov-20-avgusta-0",
   "archived": "https://web.archive.org/web/20190907234359/http://spidermedia.ru:80/blog/redson/den-novyh-komiksov-20-avgusta-0",
   "tags": [
     "den-novyh-komiksov"
+  ],
+  "cover": "https://web.archive.org/web/20150425013114im_/http://spidermedia.ru/assets/images/import_image/8009.jpg",
+  "modx_id": 8009,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

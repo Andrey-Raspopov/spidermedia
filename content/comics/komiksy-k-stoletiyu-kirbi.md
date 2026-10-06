@@ -10,6 +10,12 @@
     "darksajd",
     "jack-kirby"
   ],
+  "cover": "https://web.archive.org/web/20260116221809im_/http://spidermedia.ru/assets/images/news/jk-100/cover.jpg",
+  "modx_id": 101569,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

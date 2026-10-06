@@ -1,14 +1,24 @@
 {
   "title": "KICK-ASS в массы!",
-  "date": "2009-02-04T13:42:00+03:00",
+  "date": "2009-02-04T13:42:48+03:00",
   "url": "/news/kick-ass-v-massy/",
+  "aliases": [
+    "/node/175/"
+  ],
   "original_url": "http://spidermedia.ru/news/kick-ass-v-massy",
   "archived": "https://web.archive.org/web/20150427023450/http://spidermedia.ru/news/kick-ass-v-massy",
   "tags": [
     "marvel-comics",
     "mark-millar",
     "kick-ass",
-    "kartinki"
+    "kartinki",
+    "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150427023450im_/http://spidermedia.ru/assets/images/import_image/175.jpg",
+  "modx_id": 175,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Захватчики уже почти",
-  "date": "2010-08-13T15:05:00+03:00",
+  "date": "2010-08-13T14:05:12+03:00",
   "url": "/news/zahvatchiki-uzhe-pochti/",
   "original_url": "https://spidermedia.ru/news/zahvatchiki-uzhe-pochti",
   "archived": "https://web.archive.org/web/20260206223514/https://spidermedia.ru/news/zahvatchiki-uzhe-pochti",
@@ -10,6 +10,12 @@
     "alex-ross",
     "marvel",
     "invaders"
+  ],
+  "cover": "https://web.archive.org/web/20260206223514im_/http://spidermedia.ru/assets/images/import_image/2856.jpg",
+  "modx_id": 2856,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

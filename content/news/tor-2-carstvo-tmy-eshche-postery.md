@@ -1,6 +1,6 @@
 {
   "title": "\"Тор 2: Царство тьмы\": Еще постеры",
-  "date": "2013-09-20T00:00:00+03:00",
+  "date": "2013-09-19T23:00:53+03:00",
   "url": "/news/tor-2-carstvo-tmy-eshche-postery/",
   "original_url": "http://spidermedia.ru/news/tor-2-carstvo-tmy-eshche-postery",
   "archived": "https://web.archive.org/web/20251108195741/http://spidermedia.ru/news/tor-2-carstvo-tmy-eshche-postery",
@@ -11,7 +11,14 @@
     "sif",
     "loki",
     "dzhejn-foster",
-    "dzhejmi-aleksandr"
+    "dzhejmi-aleksandr",
+    "tor"
+  ],
+  "cover": "https://web.archive.org/web/20251108195741im_/http://spidermedia.ru/assets/images/import_image/7475.jpg",
+  "modx_id": 7475,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

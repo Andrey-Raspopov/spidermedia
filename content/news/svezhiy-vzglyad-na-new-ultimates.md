@@ -1,7 +1,10 @@
 {
   "title": "Свежий взгляд на New Ultimates",
-  "date": "2009-04-22T15:15:00+03:00",
+  "date": "2009-04-22T14:15:35+03:00",
   "url": "/news/svezhiy-vzglyad-na-new-ultimates/",
+  "aliases": [
+    "/node/1026/"
+  ],
   "original_url": "http://spidermedia.ru/news/svezhiy-vzglyad-na-new-ultimates",
   "archived": "https://web.archive.org/web/20250803235541/http://spidermedia.ru/news/svezhiy-vzglyad-na-new-ultimates",
   "tags": [
@@ -10,6 +13,12 @@
     "ultimate",
     "ultimates",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20250803235541im_/http://spidermedia.ru/assets/images/import_image/1026.jpg",
+  "modx_id": 1026,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

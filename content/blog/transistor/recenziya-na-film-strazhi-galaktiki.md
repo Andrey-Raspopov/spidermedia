@@ -1,6 +1,6 @@
 {
   "title": "Рецензия на фильм \"СТРАЖИ ГАЛАКТИКИ\"",
-  "date": "2014-07-29T12:00:00+03:00",
+  "date": "2014-07-29T11:00:13+03:00",
   "url": "/blog/transistor/recenziya-na-film-strazhi-galaktiki/",
   "original_url": "http://spidermedia.ru/blog/transistor/recenziya-na-film-strazhi-galaktiki",
   "archived": "https://web.archive.org/web/20260314081317/http://spidermedia.ru/blog/transistor/recenziya-na-film-strazhi-galaktiki",
@@ -8,6 +8,12 @@
     "guardians-of-the-galaxy",
     "recenziya",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20260314081317im_/http://spidermedia.ru/assets/images/import_image/7945.jpg",
+  "modx_id": 7945,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

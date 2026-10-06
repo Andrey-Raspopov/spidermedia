@@ -1,12 +1,22 @@
 {
   "title": "Тор, характер нордический",
-  "date": "2009-03-10T23:53:00+03:00",
+  "date": "2009-03-10T23:53:30+03:00",
   "url": "/news/tor-harakter-nordicheskiy/",
+  "aliases": [
+    "/node/640/"
+  ],
   "original_url": "http://spidermedia.ru/news/tor-harakter-nordicheskiy",
   "archived": "https://web.archive.org/web/20190515193229/http://spidermedia.ru:80/news/tor-harakter-nordicheskiy",
   "tags": [
     "sluhi",
-    "thor"
+    "thor",
+    "tor"
+  ],
+  "cover": "https://web.archive.org/web/20190515193229im_/http://spidermedia.ru/assets/images/import_image/640.jpg",
+  "modx_id": 640,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

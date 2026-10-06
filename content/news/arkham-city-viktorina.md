@@ -1,6 +1,6 @@
 {
   "title": "Arkham City: Викторина",
-  "date": "2011-10-31T15:00:00+03:00",
+  "date": "2011-10-31T14:00:00+03:00",
   "url": "/news/arkham-city-viktorina/",
   "original_url": "https://spidermedia.ru/news/arkham-city-viktorina",
   "archived": "https://web.archive.org/web/20260120153327/https://spidermedia.ru/news/arkham-city-viktorina",
@@ -10,6 +10,12 @@
     "dc-comics",
     "batman",
     "arkham-asylum"
+  ],
+  "cover": "https://web.archive.org/web/20150325220035im_/http://spidermedia.ru/assets/images/import_image/6676.png",
+  "modx_id": 6676,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

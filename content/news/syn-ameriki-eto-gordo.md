@@ -1,7 +1,10 @@
 {
   "title": "Сын Америки - это гордо!",
-  "date": "2009-04-15T20:12:00+03:00",
+  "date": "2009-04-15T19:12:32+03:00",
   "url": "/news/syn-ameriki-eto-gordo/",
+  "aliases": [
+    "/node/943/"
+  ],
   "original_url": "http://spidermedia.ru/news/syn-ameriki-eto-gordo",
   "archived": "https://web.archive.org/web/20260314080704/http://spidermedia.ru/news/syn-ameriki-eto-gordo",
   "tags": [
@@ -16,11 +19,17 @@
     "iron-patriot",
     "spider-man"
   ],
+  "cover": "https://web.archive.org/web/20260314080704im_/http://spidermedia.ru/assets/images/import_image/943.jpg",
+  "modx_id": 943,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-**Американский Сын** *(American Son)* - cколько всего в этой фразе: дух Америки, патриотизм, влияние современных реалий.. **Темное Правление** *(Dark Reign)*. Таково название арка в рамках **Amazing Spider-Man** и самого Правления, [анонс](../../node/291/) которого был ранее.
+**Американский Сын** *(American Son)* - cколько всего в этой фразе: дух Америки, патриотизм, влияние современных реалий.. **Темное Правление** *(Dark Reign)*. Таково название арка в рамках **Amazing Spider-Man** и самого Правления, [анонс](../brand-new-day-god-2009/) которого был ранее.
 Чем ближе релиз, тем больше новостей от авторской команды. Внизу тизер-агитка к событию:
 [![](https://web.archive.org/web/20260314080704im_/http://www.picamatic.com/show/2009/04/15/07/57/3274575_300x450.jpg)](http://www.picamatic.com/show/2009/04/15/10/48/3276757_700x1050.jpg)
 Естественно, ясного ответа о том, кто изображен - нет. Это может быть как противовес броне **Железного Патриота** *(Iron Patriot)*, так и тайная разработка **Тони Старка** *(Tony Stark)*, вариантов много. О носителе этого костюма информации не больше - от **Питера Паркера** *(Peter Parker)* до **Гарри Озборна** *(Harry Osborn)*. Предложите и свои версии.

@@ -1,11 +1,17 @@
 {
   "title": "Superman Lives",
-  "date": "2010-10-30T19:38:00+03:00",
+  "date": "2010-10-30T18:38:00+03:00",
   "url": "/blog/zipop/superman-lives/",
   "original_url": "https://spidermedia.ru/blog/zipop/superman-lives",
   "archived": "https://web.archive.org/web/20260307062708/https://spidermedia.ru/blog/zipop/superman-lives",
   "tags": [
     "superman"
+  ],
+  "cover": "https://web.archive.org/web/20260307062708im_/http://spidermedia.ru/assets/images/import_image/3039.jpg",
+  "modx_id": 3039,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

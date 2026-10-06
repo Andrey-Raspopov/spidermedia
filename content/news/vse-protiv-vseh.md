@@ -1,6 +1,6 @@
 {
   "title": "Все против всех",
-  "date": "2012-01-08T04:45:00+03:00",
+  "date": "2012-01-08T03:45:40+03:00",
   "url": "/news/vse-protiv-vseh/",
   "original_url": "https://spidermedia.ru/news/vse-protiv-vseh",
   "archived": "https://web.archive.org/web/20260309181025/https://spidermedia.ru/news/vse-protiv-vseh",
@@ -11,7 +11,14 @@
     "adam-kubert",
     "x-men",
     "marvel",
-    "avengers"
+    "avengers",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20260309181025im_/http://spidermedia.ru/assets/images/import_image/6750.jpg",
+  "modx_id": 6750,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

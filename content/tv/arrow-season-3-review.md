@@ -8,6 +8,12 @@
     "green-arrow",
     "dc-comics"
   ],
+  "cover": "https://web.archive.org/web/20160611141016im_/http://spidermedia.ru/assets/images/tv/dc/arrow/season-3/a9nedkhp0o4.jpg",
+  "modx_id": 100244,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

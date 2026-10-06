@@ -1,6 +1,6 @@
 {
   "title": "Остров доктора Шакала",
-  "date": "2011-05-13T09:48:00+03:00",
+  "date": "2011-05-13T08:48:00+03:00",
   "url": "/news/ostrov-doktora-shakala/",
   "original_url": "http://spidermedia.ru/news/ostrov-doktora-shakala",
   "archived": "https://web.archive.org/web/20260123075038/http://spidermedia.ru/news/ostrov-doktora-shakala",
@@ -14,6 +14,12 @@
     "dzhuzeppe-kamunkoli",
     "mink-oosterveer",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20260123075038im_/http://spidermedia.ru/assets/images/import_image/5697.jpg",
+  "modx_id": 5697,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

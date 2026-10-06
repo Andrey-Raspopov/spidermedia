@@ -4,6 +4,12 @@
   "url": "/games/star-wars-battlefront-preview/",
   "original_url": "http://spidermedia.ru/games/star-wars-battlefront-preview",
   "archived": "https://web.archive.org/web/20190918093220/http://spidermedia.ru/games/star-wars-battlefront-preview",
+  "cover": "https://web.archive.org/web/20180201163354im_/http://spidermedia.ru/assets/images/games/igromir2015/001.jpg",
+  "modx_id": 100640,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,6 +1,6 @@
 {
   "title": "Марвел приоткрывает завесу тайны Первородного Греха",
-  "date": "2014-03-23T01:47:00+03:00",
+  "date": "2014-03-23T00:47:38+03:00",
   "url": "/news/marvel-priotkryvaet-zavesu-tayny-pervorodnogo-greha/",
   "original_url": "http://spidermedia.ru/news/marvel-priotkryvaet-zavesu-tayny-pervorodnogo-greha",
   "archived": "https://web.archive.org/web/20250814213533/http://spidermedia.ru/news/marvel-priotkryvaet-zavesu-tayny-pervorodnogo-greha",
@@ -10,6 +10,12 @@
     "marvel",
     "captain-america",
     "blejd"
+  ],
+  "cover": "https://web.archive.org/web/20250814213533im_/http://spidermedia.ru/assets/images/import_image/7693.jpg",
+  "modx_id": 7693,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

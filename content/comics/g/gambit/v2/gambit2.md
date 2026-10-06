@@ -4,6 +4,9 @@
   "url": "/comics/g/gambit/v2/gambit2/",
   "original_url": "http://www.spidermedia.ru/comics/g/gambit/v2/gambit2.html",
   "archived": "https://web.archive.org/web/20050307041215/http://www.spidermedia.ru:80/comics/g/gambit/v2/gambit2.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "cp1251 (guessed)"
 }

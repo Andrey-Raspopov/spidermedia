@@ -1,7 +1,10 @@
 {
   "title": "Война королей: Взгляд на первый номер",
-  "date": "2009-03-27T14:38:00+03:00",
+  "date": "2009-03-27T13:38:53+03:00",
   "url": "/news/voyna-koroley-vzglyad-na-pervyy-nomer/",
+  "aliases": [
+    "/node/788/"
+  ],
   "original_url": "http://spidermedia.ru/news/voyna-koroley-vzglyad-na-pervyy-nomer",
   "archived": "https://web.archive.org/web/20120607111913/http://spidermedia.ru/news/voyna-koroley-vzglyad-na-pervyy-nomer",
   "tags": [
@@ -10,6 +13,11 @@
     "komiksy",
     "marvel",
     "endi-lenning"
+  ],
+  "modx_id": 788,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

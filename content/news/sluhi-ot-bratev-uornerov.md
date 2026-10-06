@@ -1,6 +1,6 @@
 {
   "title": "Слухи от Братьев Уорнеров",
-  "date": "2009-02-05T13:36:00+03:00",
+  "date": "2009-02-05T13:36:08+03:00",
   "url": "/news/sluhi-ot-bratev-uornerov/",
   "original_url": "https://spidermedia.ru/news/sluhi-ot-bratev-uornerov",
   "archived": "https://web.archive.org/web/20260206224122/https://spidermedia.ru/news/sluhi-ot-bratev-uornerov",
@@ -9,6 +9,12 @@
     "green-lantern",
     "dc-comics",
     "batman"
+  ],
+  "cover": "https://web.archive.org/web/20260206224122im_/http://spidermedia.ru/assets/images/import_image/208.jpg",
+  "modx_id": 208,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

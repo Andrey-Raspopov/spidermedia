@@ -8,6 +8,12 @@
     "marvel",
     "venom"
   ],
+  "cover": "https://web.archive.org/web/20160501065903im_/http://spidermedia.ru/assets/images/news/marvel/spider-man-3-venom.jpg",
+  "modx_id": 100970,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

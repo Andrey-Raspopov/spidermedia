@@ -1,12 +1,18 @@
 {
   "title": "Люди Х: Дни минувшего будущего. Дата релиза расширенной версии",
-  "date": "2014-08-05T11:26:00+03:00",
+  "date": "2014-08-05T10:26:12+03:00",
   "url": "/news/lyudi-h-dni-minuvshego-budushchego-data-reliza-rasshirennoy-versii/",
   "original_url": "https://spidermedia.ru/news/lyudi-h-dni-minuvshego-budushchego-data-reliza-rasshirennoy-versii",
   "archived": "https://web.archive.org/web/20251208075238/https://spidermedia.ru/news/lyudi-h-dni-minuvshego-budushchego-data-reliza-rasshirennoy-versii",
   "tags": [
     "marvel",
     "x-men"
+  ],
+  "cover": "https://web.archive.org/web/20251208075238im_/http://spidermedia.ru/assets/images/import_image/7960.jpg",
+  "modx_id": 7960,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

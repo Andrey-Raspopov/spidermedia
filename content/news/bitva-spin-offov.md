@@ -1,6 +1,6 @@
 {
   "title": "Битва спин-оффов",
-  "date": "2012-07-16T04:02:00+03:00",
+  "date": "2012-07-16T03:02:16+03:00",
   "url": "/news/bitva-spin-offov/",
   "original_url": "https://spidermedia.ru/news/bitva-spin-offov",
   "archived": "https://web.archive.org/web/20251216181239/https://spidermedia.ru/news/bitva-spin-offov",
@@ -15,6 +15,12 @@
     "alyj-pauk",
     "scarlet-spider",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150502113300im_/http://spidermedia.ru/assets/images/import_image/6978.jpg",
+  "modx_id": 6978,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

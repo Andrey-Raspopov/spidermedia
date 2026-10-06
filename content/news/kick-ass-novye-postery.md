@@ -1,7 +1,10 @@
 {
   "title": "Kick-Ass: Новые постеры",
-  "date": "2009-12-04T22:15:00+03:00",
+  "date": "2009-12-04T21:15:48+03:00",
   "url": "/news/kick-ass-novye-postery/",
+  "aliases": [
+    "/node/2150/"
+  ],
   "original_url": "http://spidermedia.ru/news/kick-ass-novye-postery",
   "archived": "https://web.archive.org/web/20120608140734/http://spidermedia.ru/news/kick-ass-novye-postery",
   "tags": [
@@ -10,6 +13,12 @@
     "mark-millar",
     "mettyu-von",
     "postery"
+  ],
+  "cover": "https://web.archive.org/web/20120608140734im_/http://spidermedia.ru/assets/images/import_image/2150.jpg",
+  "modx_id": 2150,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

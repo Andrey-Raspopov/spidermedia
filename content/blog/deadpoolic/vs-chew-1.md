@@ -1,11 +1,20 @@
 {
   "title": "...Vs Chew #1",
-  "date": "2009-06-25T15:54:00+03:00",
+  "date": "2009-06-25T14:54:22+03:00",
   "url": "/blog/deadpoolic/vs-chew-1/",
+  "aliases": [
+    "/node/1478/"
+  ],
   "original_url": "https://spidermedia.ru/blog/deadpoolic/vs-chew-1",
   "archived": "https://web.archive.org/web/20260307064034/https://spidermedia.ru/blog/deadpoolic/vs-chew-1",
   "tags": [
     "image-comics"
+  ],
+  "cover": "https://web.archive.org/web/20260307064034im_/http://spidermedia.ru/assets/images/import_image/1478.jpg",
+  "modx_id": 1478,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

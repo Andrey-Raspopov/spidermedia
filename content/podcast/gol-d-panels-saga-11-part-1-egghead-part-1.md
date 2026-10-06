@@ -8,6 +8,13 @@
     "gold-panels",
     "on-panels"
   ],
+  "cover": "https://web.archive.org/web/20250126085159im_/http://spidermedia.ru/assets/images/podcast/gold-panels/11-1/00-cover.jpg",
+  "podcast_audio": "https://podster.fm/episodes/9ba798a3-393e-4493-923e-1d4614ecfe27/audio.mp3",
+  "modx_id": 102563,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

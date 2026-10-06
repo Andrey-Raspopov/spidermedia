@@ -10,6 +10,9 @@
     "dc-comics",
     "grant-morrison-0"
   ],
+  "sources": [
+    "archive"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

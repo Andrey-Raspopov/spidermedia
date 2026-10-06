@@ -1,6 +1,6 @@
 {
   "title": "Рецензия на фильм \"Трансформеры: Эпоха истребления\"",
-  "date": "2014-06-26T11:00:00+03:00",
+  "date": "2014-06-26T10:00:41+03:00",
   "url": "/blog/christian/recenziya-na-film-transformery-epoha-istrebleniya/",
   "original_url": "https://spidermedia.ru/blog/christian/recenziya-na-film-transformery-epoha-istrebleniya",
   "archived": "https://web.archive.org/web/20251108033354/https://spidermedia.ru/blog/christian/recenziya-na-film-transformery-epoha-istrebleniya",
@@ -8,6 +8,12 @@
     "transformers",
     "recenziya",
     "hasbro"
+  ],
+  "cover": "https://web.archive.org/web/20150502161704im_/http://spidermedia.ru/assets/images/import_image/7843.jpg",
+  "modx_id": 7843,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

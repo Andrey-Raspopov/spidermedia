@@ -1,13 +1,20 @@
 {
   "title": "War of the Green Lanterns",
-  "date": "2010-11-16T18:13:00+03:00",
+  "date": "2010-11-16T18:13:15+03:00",
   "url": "/news/war-green-lanterns/",
   "original_url": "http://spidermedia.ru/news/war-green-lanterns",
   "archived": "https://web.archive.org/web/20260305232755/http://spidermedia.ru/news/war-green-lanterns",
   "tags": [
     "dc-comics",
     "green-lantern",
-    "art-0"
+    "art-0",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20260305232755im_/http://spidermedia.ru/assets/images/import_image/3068.jpg",
+  "modx_id": 3068,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

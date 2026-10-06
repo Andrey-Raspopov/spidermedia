@@ -7,6 +7,12 @@
   "tags": [
     "marvel"
   ],
+  "cover": "https://web.archive.org/web/20260313115605im_/http://spidermedia.ru/assets/images/news/marvel/c.b.-cebulski.png",
+  "modx_id": 101743,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

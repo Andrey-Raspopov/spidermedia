@@ -1,6 +1,6 @@
 {
   "title": "ALL-NEW МЖДЗ SPECIAL: THE SECRET SERVICE",
-  "date": "2015-02-16T12:03:00+03:00",
+  "date": "2015-02-16T12:03:08+03:00",
   "url": "/blog/redson/all-new-mzhdz-special-secret-service-0/",
   "original_url": "https://spidermedia.ru/blog/redson/all-new-mzhdz-special-secret-service-0",
   "archived": "https://web.archive.org/web/20251207101409/https://spidermedia.ru/blog/redson/all-new-mzhdz-special-secret-service-0",
@@ -9,6 +9,12 @@
     "mark-millar",
     "mzhdz",
     "recenziya"
+  ],
+  "cover": "https://web.archive.org/web/20150326221022im_/http://spidermedia.ru/assets/images/import_image/8617.jpg",
+  "modx_id": 8617,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

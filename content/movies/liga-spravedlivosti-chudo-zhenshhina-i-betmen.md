@@ -15,6 +15,12 @@
     "wonder-woman",
     "dc-comics"
   ],
+  "cover": "https://web.archive.org/web/20260208210544im_/http://spidermedia.ru/assets/images/movies/dc/justice-league/justice-league-logo-black.png",
+  "modx_id": 101233,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

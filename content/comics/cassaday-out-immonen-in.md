@@ -10,6 +10,12 @@
     "zvezdnye-vojny",
     "styuart-immonen"
   ],
+  "cover": "https://web.archive.org/web/20180315153307im_/http://spidermedia.ru/assets/images/news/marvel/star-wars/star-wars-8-cover-not-final-c18bb.jpg",
+  "modx_id": 100089,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

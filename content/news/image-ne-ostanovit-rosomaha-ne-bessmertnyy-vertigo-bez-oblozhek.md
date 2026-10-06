@@ -1,6 +1,6 @@
 {
   "title": "Image не остановить, Росомаха не бессмертный, Vertigo без обложек",
-  "date": "2014-07-15T12:20:00+03:00",
+  "date": "2014-07-15T11:20:44+03:00",
   "url": "/news/image-ne-ostanovit-rosomaha-ne-bessmertnyy-vertigo-bez-oblozhek/",
   "original_url": "https://spidermedia.ru/news/image-ne-ostanovit-rosomaha-ne-bessmertnyy-vertigo-bez-oblozhek",
   "archived": "https://web.archive.org/web/20260307054457/https://spidermedia.ru/news/image-ne-ostanovit-rosomaha-ne-bessmertnyy-vertigo-bez-oblozhek",
@@ -10,6 +10,12 @@
     "industriya",
     "vertigo",
     "image-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150326124958im_/http://spidermedia.ru/assets/images/import_image/7886.jpg",
+  "modx_id": 7886,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

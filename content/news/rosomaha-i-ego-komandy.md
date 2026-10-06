@@ -1,6 +1,6 @@
 {
   "title": "Люди икс и их команды",
-  "date": "2011-09-09T19:36:00+03:00",
+  "date": "2011-09-09T18:36:49+03:00",
   "url": "/news/rosomaha-i-ego-komandy/",
   "original_url": "http://spidermedia.ru/news/rosomaha-i-ego-komandy",
   "archived": "https://web.archive.org/web/20251108182224/http://spidermedia.ru/news/rosomaha-i-ego-komandy",
@@ -9,7 +9,15 @@
     "art-0",
     "x-men",
     "marvel",
-    "dejl-kejon"
+    "dejl-kejon",
+    "art",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20251108182224im_/http://spidermedia.ru/assets/images/import_image/6600.jpg",
+  "modx_id": 6600,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

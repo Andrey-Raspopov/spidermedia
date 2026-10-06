@@ -1,7 +1,10 @@
 {
   "title": "Дорогой Дракула...",
-  "date": "2009-06-01T12:15:00+03:00",
+  "date": "2009-06-01T11:15:33+03:00",
   "url": "/news/dorogoy-drakula/",
+  "aliases": [
+    "/node/1315/"
+  ],
   "original_url": "https://spidermedia.ru/news/dorogoy-drakula",
   "archived": "https://web.archive.org/web/20260307060034/https://spidermedia.ru/news/dorogoy-drakula",
   "tags": [
@@ -12,6 +15,12 @@
     "drakula",
     "dorogoj-drakula",
     "dear-dracula"
+  ],
+  "cover": "https://web.archive.org/web/20260307060034im_/http://spidermedia.ru/assets/images/import_image/1315.jpg",
+  "modx_id": 1315,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -9,6 +9,12 @@
     "roskomnadzor",
     "russian-comics"
   ],
+  "cover": "https://web.archive.org/web/20260305235450im_/http://spidermedia.ru/assets/images/roskomnadzor/2016/1803/21.jpg",
+  "modx_id": 101012,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

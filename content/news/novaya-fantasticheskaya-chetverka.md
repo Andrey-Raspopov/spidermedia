@@ -1,7 +1,10 @@
 {
   "title": "Новая Фантастическая Четверка",
-  "date": "2009-09-02T19:02:00+03:00",
+  "date": "2009-09-02T18:02:01+03:00",
   "url": "/news/novaya-fantasticheskaya-chetverka/",
+  "aliases": [
+    "/node/1862/"
+  ],
   "original_url": "http://spidermedia.ru/news/novaya-fantasticheskaya-chetverka",
   "archived": "https://web.archive.org/web/20120608040703/http://spidermedia.ru/news/novaya-fantasticheskaya-chetverka",
   "tags": [
@@ -9,6 +12,12 @@
     "kino",
     "marvel",
     "fantasticheskaya-chetverka"
+  ],
+  "cover": "https://web.archive.org/web/20120608040703im_/http://spidermedia.ru/assets/images/import_image/1862.jpg",
+  "modx_id": 1862,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

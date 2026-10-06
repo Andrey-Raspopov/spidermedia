@@ -1,6 +1,6 @@
 {
   "title": "Превью российского издания  «Хранителей»",
-  "date": "2014-08-07T09:08:00+03:00",
+  "date": "2014-08-07T08:08:58+03:00",
   "url": "/news/prevyu-rossiyskogo-izdaniya-hraniteley/",
   "original_url": "http://spidermedia.ru/news/prevyu-rossiyskogo-izdaniya-hraniteley",
   "archived": "https://web.archive.org/web/20250215013012/http://spidermedia.ru/news/prevyu-rossiyskogo-izdaniya-hraniteley",
@@ -9,6 +9,12 @@
     "komiks-art",
     "zarubezhnye-komiksy-na-russkom",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150327041749im_/http://spidermedia.ru/assets/images/import_image/7969.jpg",
+  "modx_id": 7969,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

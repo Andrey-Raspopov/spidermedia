@@ -1,11 +1,17 @@
 {
   "title": "«Скульптор» Скотта МакКлауда станет фильмом",
-  "date": "2015-02-18T12:31:00+03:00",
+  "date": "2015-02-18T12:31:12+03:00",
   "url": "/news/skulptor-skotta-makklauda-stanet-filmom/",
   "original_url": "https://spidermedia.ru/news/skulptor-skotta-makklauda-stanet-filmom",
   "archived": "https://web.archive.org/web/20240301102719/https://spidermedia.ru/news/skulptor-skotta-makklauda-stanet-filmom",
   "tags": [
     "skott-makklaud"
+  ],
+  "cover": "https://web.archive.org/web/20150326053316im_/http://spidermedia.ru/assets/images/import_image/8627.jpg",
+  "modx_id": 8627,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

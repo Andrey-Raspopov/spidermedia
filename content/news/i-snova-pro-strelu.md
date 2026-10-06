@@ -1,6 +1,6 @@
 {
   "title": "И снова про Стрелу",
-  "date": "2014-07-07T20:59:00+03:00",
+  "date": "2014-07-07T19:59:52+03:00",
   "url": "/news/i-snova-pro-strelu/",
   "original_url": "http://spidermedia.ru/news/i-snova-pro-strelu",
   "archived": "https://web.archive.org/web/20241109074724/http://spidermedia.ru/news/i-snova-pro-strelu",
@@ -8,6 +8,12 @@
     "dc-comics",
     "atom",
     "green-arrow"
+  ],
+  "cover": "https://web.archive.org/web/20150428170720im_/http://spidermedia.ru/assets/images/import_image/7860.jpg",
+  "modx_id": 7860,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

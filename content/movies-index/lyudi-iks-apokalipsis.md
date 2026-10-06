@@ -4,6 +4,9 @@
   "url": "/movies-index/lyudi-iks-apokalipsis/",
   "original_url": "http://spidermedia.ru/movies-index/lyudi-iks-apokalipsis",
   "archived": "https://web.archive.org/web/20150507041705/http://spidermedia.ru:80/movies-index/lyudi-iks-apokalipsis",
+  "sources": [
+    "archive"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

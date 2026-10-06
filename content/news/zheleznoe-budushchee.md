@@ -1,7 +1,10 @@
 {
   "title": "Железное Будущее",
-  "date": "2009-07-31T19:54:00+03:00",
+  "date": "2009-07-31T18:54:32+03:00",
   "url": "/news/zheleznoe-budushchee/",
+  "aliases": [
+    "/node/1706/"
+  ],
   "original_url": "http://spidermedia.ru/news/zheleznoe-budushchee",
   "archived": "https://web.archive.org/web/20120608141919/http://spidermedia.ru/news/zheleznoe-budushchee",
   "tags": [
@@ -13,7 +16,13 @@
     "marvel",
     "mett-frakshen",
     "norman-osborn-0",
-    "preview-s"
+    "preview-s",
+    "prevyu"
+  ],
+  "modx_id": 1706,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

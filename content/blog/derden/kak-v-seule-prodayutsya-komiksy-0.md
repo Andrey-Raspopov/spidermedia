@@ -1,12 +1,18 @@
 {
   "title": "Как в Сеуле продаются комиксы",
-  "date": "2014-09-25T15:51:00+03:00",
+  "date": "2014-09-25T14:51:13+03:00",
   "url": "/blog/derden/kak-v-seule-prodayutsya-komiksy-0/",
   "original_url": "https://spidermedia.ru/blog/derden/kak-v-seule-prodayutsya-komiksy-0",
   "archived": "https://web.archive.org/web/20251211024056/https://spidermedia.ru/blog/derden/kak-v-seule-prodayutsya-komiksy-0",
   "tags": [
     "manga",
     "manhva"
+  ],
+  "cover": "https://web.archive.org/web/20150824224740im_/http://spidermedia.ru/assets/images/import_image/8105.jpg",
+  "modx_id": 8105,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -7,6 +7,12 @@
   "tags": [
     "zashhitniki"
   ],
+  "cover": "https://web.archive.org/web/20250617225712im_/http://spidermedia.ru/assets/images/news/344064_original.jpg",
+  "modx_id": 101095,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

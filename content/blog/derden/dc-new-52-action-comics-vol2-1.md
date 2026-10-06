@@ -1,6 +1,6 @@
 {
   "title": "DC New 52: Action Comics vol.2 #1",
-  "date": "2011-09-09T13:29:00+03:00",
+  "date": "2011-09-09T12:29:07+03:00",
   "url": "/blog/derden/dc-new-52-action-comics-vol2-1/",
   "original_url": "https://spidermedia.ru/blog/derden/dc-new-52-action-comics-vol2-1",
   "archived": "https://web.archive.org/web/20250113170024/https://spidermedia.ru/blog/derden/dc-new-52-action-comics-vol2-1",
@@ -8,6 +8,12 @@
     "superman",
     "new-52",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20250113170024im_/http://spidermedia.ru/assets/images/import_image/6598.jpg",
+  "modx_id": 6598,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

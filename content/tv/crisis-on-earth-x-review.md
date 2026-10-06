@@ -10,6 +10,12 @@
     "the-flash",
     "dc-comics"
   ],
+  "cover": "https://web.archive.org/web/20251216113903im_/http://spidermedia.ru/assets/images/cw/crisis-on-earth-x/crisis-on-earth-x-02.jpg",
+  "modx_id": 101742,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
@@ -18,7 +24,7 @@
 
 [Crisis on Earth-X Intro Logo](./) 00:00:14
 
-Нам этой осенью несказанно повезло: любители комиксов увидели на экранах воплощение духа супергероики. Его не было в [«Торе»](../../movies/mnenie-tor-ragnaryok/), который за всеми шуточками потерял собственное лицо. Зритель не смог его найти и в [«Лиге Справедливости»](https://web.archive.org/web/20260305234858/http://spidermedia.ru/movies/justice-league-opinions), мертворожденный труп которой с трудом пытался реанимировать [Джосс Уидон](https://web.archive.org/web/20251206160146id_/https://spidermedia.ru/podcast/razbor-polyotov.-vypusk-23-ligator). Нет, я говорю про очередной кроссовер Arrowverse, подаривший миру правильную экранизацию хорошего комиксного ивента за дни до премьеры [трейлера](https://web.archive.org/web/20251216121033/https://spidermedia.ru/movies/avengers-infinity-war-first-trailer) «Мстителей: Войны бесконечности».
+Нам этой осенью несказанно повезло: любители комиксов увидели на экранах воплощение духа супергероики. Его не было в [«Торе»](../../movies/mnenie-tor-ragnaryok/), который за всеми шуточками потерял собственное лицо. Зритель не смог его найти и в [«Лиге Справедливости»](../../movies/justice-league-opinions/), мертворожденный труп которой с трудом пытался реанимировать [Джосс Уидон](../../podcast/razbor-polyotov.-vypusk-23-ligator/). Нет, я говорю про очередной кроссовер Arrowverse, подаривший миру правильную экранизацию хорошего комиксного ивента за дни до премьеры [трейлера](../../movies/avengers-infinity-war-first-trailer/) «Мстителей: Войны бесконечности».
 
 ---
 

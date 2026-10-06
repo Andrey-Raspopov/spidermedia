@@ -1,7 +1,10 @@
 {
   "title": "Better watch out 'cause I'm War Machine!",
-  "date": "2009-03-14T23:47:00+03:00",
+  "date": "2009-03-14T22:47:52+03:00",
   "url": "/news/better-watch-out-cause-im-war-machine/",
+  "aliases": [
+    "/node/686/"
+  ],
   "original_url": "http://spidermedia.ru/news/better-watch-out-cause-im-war-machine",
   "archived": "https://web.archive.org/web/20120607150811/http://spidermedia.ru/news/better-watch-out-cause-im-war-machine",
   "tags": [
@@ -12,7 +15,14 @@
     "greg-pak",
     "komiksy",
     "marvel",
-    "preview-s"
+    "preview-s",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20120607150811im_/http://spidermedia.ru/assets/images/import_image/686.jpg",
+  "modx_id": 686,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

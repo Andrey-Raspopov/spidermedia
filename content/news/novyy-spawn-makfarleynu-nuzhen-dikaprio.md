@@ -1,7 +1,10 @@
 {
   "title": "Новый Spawn: МакФарлэйну нужен ДиКаприо",
-  "date": "2009-06-11T12:44:00+03:00",
+  "date": "2009-06-11T11:44:39+03:00",
   "url": "/news/novyy-spawn-makfarleynu-nuzhen-dikaprio/",
+  "aliases": [
+    "/node/1398/"
+  ],
   "original_url": "http://spidermedia.ru/news/novyy-spawn-makfarleynu-nuzhen-dikaprio",
   "archived": "https://web.archive.org/web/20251107004229/http://spidermedia.ru/news/novyy-spawn-makfarleynu-nuzhen-dikaprio",
   "tags": [
@@ -12,6 +15,12 @@
     "leonardo-dikaprio",
     "spawn",
     "spaun"
+  ],
+  "cover": "https://web.archive.org/web/20251107004229im_/http://spidermedia.ru/assets/images/import_image/1398.jpg",
+  "modx_id": 1398,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

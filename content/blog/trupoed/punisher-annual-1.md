@@ -1,7 +1,10 @@
 {
   "title": "Punisher Annual #1",
-  "date": "2009-08-21T08:08:00+03:00",
+  "date": "2009-08-21T07:08:33+03:00",
   "url": "/blog/trupoed/punisher-annual-1/",
+  "aliases": [
+    "/node/1808/"
+  ],
   "original_url": "http://spidermedia.ru/blog/trupoed/punisher-annual-1",
   "archived": "https://web.archive.org/web/20111026115545/http://spidermedia.ru/blog/trupoed/punisher-annual-1",
   "tags": [
@@ -12,6 +15,11 @@
     "komiksy",
     "oblozhki",
     "chelovek-pauk"
+  ],
+  "modx_id": 1808,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

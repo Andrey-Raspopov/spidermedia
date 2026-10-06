@@ -1,6 +1,6 @@
 {
   "title": "... but my smie still stays on.",
-  "date": "2012-07-03T06:58:00+03:00",
+  "date": "2012-07-03T05:58:30+03:00",
   "url": "/news/my-smie-still-stays/",
   "original_url": "https://spidermedia.ru/news/my-smie-still-stays",
   "archived": "https://web.archive.org/web/20260215081059/https://spidermedia.ru/news/my-smie-still-stays",
@@ -10,6 +10,12 @@
     "joker",
     "dc-comics",
     "batman"
+  ],
+  "cover": "https://web.archive.org/web/20260215081059im_/http://spidermedia.ru/assets/images/import_image/6955.jpg",
+  "modx_id": 6955,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

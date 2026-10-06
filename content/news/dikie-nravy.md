@@ -1,7 +1,10 @@
 {
   "title": "Дикие нравы",
-  "date": "2010-11-13T01:13:00+03:00",
+  "date": "2010-11-13T01:13:01+03:00",
   "url": "/news/dikie-nravy/",
+  "aliases": [
+    "/node/3061/"
+  ],
   "original_url": "http://spidermedia.ru/news/dikie-nravy",
   "archived": "https://web.archive.org/web/20241205032929/http://spidermedia.ru/news/dikie-nravy",
   "tags": [
@@ -9,6 +12,12 @@
     "greg-pak",
     "marvel",
     "hulk"
+  ],
+  "cover": "https://web.archive.org/web/20241205032929im_/http://spidermedia.ru/assets/images/import_image/3061.jpg",
+  "modx_id": 3061,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

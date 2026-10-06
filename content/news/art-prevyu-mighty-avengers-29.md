@@ -1,7 +1,10 @@
 {
   "title": "Арт-превью Mighty Avengers #29",
-  "date": "2009-08-30T15:35:00+03:00",
+  "date": "2009-08-30T14:35:25+03:00",
   "url": "/news/art-prevyu-mighty-avengers-29/",
+  "aliases": [
+    "/node/1846/"
+  ],
   "original_url": "http://spidermedia.ru/news/art-prevyu-mighty-avengers-29",
   "archived": "https://web.archive.org/web/20190820174521/http://spidermedia.ru:80/news/art-prevyu-mighty-avengers-29",
   "tags": [
@@ -11,7 +14,15 @@
     "khoi-fam",
     "marvel",
     "preview",
-    "art-0"
+    "art-0",
+    "prevyu",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20190820174521im_/http://spidermedia.ru/assets/images/import_image/1846.jpg",
+  "modx_id": 1846,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

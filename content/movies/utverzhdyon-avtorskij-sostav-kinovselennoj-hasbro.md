@@ -7,6 +7,12 @@
   "tags": [
     "hasbro"
   ],
+  "cover": "https://web.archive.org/web/20251108192013im_/http://spidermedia.ru/assets/images/movies/other/hasbroverse.jpg",
+  "modx_id": 101110,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

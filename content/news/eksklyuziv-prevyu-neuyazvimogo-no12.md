@@ -1,6 +1,6 @@
 {
   "title": "ЭКСКЛЮЗИВ: Превью \"Неуязвимого\" №12",
-  "date": "2013-06-26T12:00:00+03:00",
+  "date": "2013-06-26T11:00:18+03:00",
   "url": "/news/eksklyuziv-prevyu-neuyazvimogo-no12/",
   "original_url": "http://spidermedia.ru/news/eksklyuziv-prevyu-neuyazvimogo-no12",
   "archived": "https://web.archive.org/web/20250618124427/http://spidermedia.ru/news/eksklyuziv-prevyu-neuyazvimogo-no12",
@@ -10,6 +10,12 @@
     "invincible",
     "robert-kirkman",
     "image-comics"
+  ],
+  "cover": "https://web.archive.org/web/20250618124427im_/http://spidermedia.ru/assets/images/import_image/7306.png",
+  "modx_id": 7306,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

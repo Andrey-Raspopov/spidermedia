@@ -1,6 +1,6 @@
 {
   "title": "Стражински напишет \"Терминатора\" и \"Сумеречную зону\"",
-  "date": "2013-07-17T22:30:00+03:00",
+  "date": "2013-07-17T21:30:00+03:00",
   "url": "/news/strazhinski-napishet-terminatora-i-sumerechnuyu-zonu/",
   "original_url": "http://spidermedia.ru/news/strazhinski-napishet-terminatora-i-sumerechnuyu-zonu",
   "archived": "https://web.archive.org/web/20251206234520/http://spidermedia.ru/news/strazhinski-napishet-terminatora-i-sumerechnuyu-zonu",
@@ -8,7 +8,14 @@
     "terminator",
     "j-michael-straczynski",
     "dark-horse",
-    "dynamite-entertainment"
+    "dynamite-entertainment",
+    "dzhej-majkl-strazhinski"
+  ],
+  "cover": "https://web.archive.org/web/20180205124407im_/http://spidermedia.ru/assets/images/import_image/7351.jpg",
+  "modx_id": 7351,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

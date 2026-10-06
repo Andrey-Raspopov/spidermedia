@@ -1,7 +1,10 @@
 {
   "title": "Deadpool: шоу продолжается!",
-  "date": "2009-08-07T20:14:00+03:00",
+  "date": "2009-08-07T19:14:16+03:00",
   "url": "/news/deadpool-shou-prodolzhaetsya/",
+  "aliases": [
+    "/node/1738/"
+  ],
   "original_url": "https://spidermedia.ru/news/deadpool-shou-prodolzhaetsya",
   "archived": "https://web.archive.org/web/20251108183452/https://spidermedia.ru/news/deadpool-shou-prodolzhaetsya",
   "tags": [
@@ -10,7 +13,14 @@
     "deadpool",
     "dalibor-taladzhich",
     "art-0",
-    "marvel"
+    "marvel",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20150315210246im_/http://spidermedia.ru/assets/images/ecahznqzhc4.jpg",
+  "modx_id": 1738,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

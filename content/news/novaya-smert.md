@@ -1,6 +1,6 @@
 {
   "title": "Новая Смерть?",
-  "date": "2009-03-04T17:36:00+03:00",
+  "date": "2009-03-04T17:36:26+03:00",
   "url": "/news/novaya-smert/",
   "original_url": "http://spidermedia.ru/news/novaya-smert",
   "archived": "https://web.archive.org/web/20260214132453/http://spidermedia.ru/news/novaya-smert",
@@ -17,6 +17,11 @@
     "guardians-of-the-galaxy",
     "drax",
     "captain-marvel"
+  ],
+  "modx_id": 583,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

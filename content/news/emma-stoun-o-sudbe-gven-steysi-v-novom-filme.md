@@ -1,12 +1,18 @@
 {
   "title": "Эмма Стоун о судьбе Гвен Стейси в новом фильме",
-  "date": "2014-01-30T23:51:00+03:00",
+  "date": "2014-01-30T22:51:51+03:00",
   "url": "/news/emma-stoun-o-sudbe-gven-steysi-v-novom-filme/",
   "original_url": "http://spidermedia.ru/news/emma-stoun-o-sudbe-gven-steysi-v-novom-filme",
   "archived": "https://web.archive.org/web/20251107024231/http://spidermedia.ru/news/emma-stoun-o-sudbe-gven-steysi-v-novom-filme",
   "tags": [
     "spider-man",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150424104210im_/http://spidermedia.ru/assets/images/import_image/7618.jpg",
+  "modx_id": 7618,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

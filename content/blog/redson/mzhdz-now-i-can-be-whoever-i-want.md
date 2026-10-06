@@ -1,12 +1,18 @@
 {
   "title": "МЖДЗ: NOW I CAN BE WHOEVER I WANT",
-  "date": "2011-09-22T17:00:00+03:00",
+  "date": "2011-09-22T16:00:42+03:00",
   "url": "/blog/redson/mzhdz-now-i-can-be-whoever-i-want/",
   "original_url": "https://spidermedia.ru/blog/redson/mzhdz-now-i-can-be-whoever-i-want",
   "archived": "https://web.archive.org/web/20251106234415/https://spidermedia.ru/blog/redson/mzhdz-now-i-can-be-whoever-i-want",
   "tags": [
     "mnenie",
     "mzhdz"
+  ],
+  "cover": "https://web.archive.org/web/20160716124114im_/http://spidermedia.ru/assets/images/import_image/6613.png",
+  "modx_id": 6613,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

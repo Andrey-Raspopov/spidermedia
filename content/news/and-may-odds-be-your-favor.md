@@ -1,6 +1,6 @@
 {
   "title": "And may the odds be in your favor",
-  "date": "2012-09-14T04:20:00+03:00",
+  "date": "2012-09-14T03:20:34+03:00",
   "url": "/news/and-may-odds-be-your-favor/",
   "original_url": "https://spidermedia.ru/news/and-may-odds-be-your-favor",
   "archived": "https://web.archive.org/web/20260312004109/https://spidermedia.ru/news/and-may-odds-be-your-favor",
@@ -8,6 +8,12 @@
     "dennis-houpless",
     "kev-uoker",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150326155721im_/http://spidermedia.ru/assets/images/import_image/7029.jpg",
+  "modx_id": 7029,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

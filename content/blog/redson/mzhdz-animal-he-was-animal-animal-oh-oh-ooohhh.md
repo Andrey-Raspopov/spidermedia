@@ -1,12 +1,18 @@
 {
   "title": "МЖДЗ: ANIMAL HE WAS ANIMAL AN ANIMAL OH OH OOOHHH",
-  "date": "2011-09-14T21:09:00+03:00",
+  "date": "2011-09-14T20:09:17+03:00",
   "url": "/blog/redson/mzhdz-animal-he-was-animal-animal-oh-oh-ooohhh/",
   "original_url": "http://spidermedia.ru/blog/redson/mzhdz-animal-he-was-animal-animal-oh-oh-ooohhh",
   "archived": "https://web.archive.org/web/20251117010924/http://spidermedia.ru/blog/redson/mzhdz-animal-he-was-animal-animal-oh-oh-ooohhh",
   "tags": [
     "mnenie",
     "mzhdz"
+  ],
+  "cover": "https://web.archive.org/web/20160715165953im_/http://spidermedia.ru/assets/images/import_image/6605.png",
+  "modx_id": 6605,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

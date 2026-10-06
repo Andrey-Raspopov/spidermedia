@@ -1,14 +1,24 @@
 {
   "title": "Величайшие злодеи Земли",
-  "date": "2010-11-08T18:15:00+03:00",
+  "date": "2010-11-08T18:15:46+03:00",
   "url": "/news/velichayshie-zlodei-zemli/",
+  "aliases": [
+    "/node/3055/"
+  ],
   "original_url": "http://spidermedia.ru/news/velichayshie-zlodei-zemli",
   "archived": "https://web.archive.org/web/20230323051052/http://spidermedia.ru/news/velichayshie-zlodei-zemli",
   "tags": [
     "zlodei",
     "gabriele-dell-otto",
     "art-0",
-    "marvel"
+    "marvel",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20230323051052im_/http://spidermedia.ru/assets/images/import_image/3055.jpg",
+  "modx_id": 3055,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,12 +1,21 @@
 {
   "title": "Girl Powers That Never Existed. Part One- Cordelia Frost",
-  "date": "2009-02-02T20:02:00+03:00",
+  "date": "2009-02-02T19:02:04+03:00",
   "url": "/blog/lady-charles/girl-powers-never-existed-part-one-cordelia-frost/",
+  "aliases": [
+    "/node/110/"
+  ],
   "original_url": "http://spidermedia.ru/blog/lady-charles/girl-powers-never-existed-part-one-cordelia-frost",
   "archived": "https://web.archive.org/web/20111018054557/http://spidermedia.ru/blog/lady-charles/girl-powers-never-existed-part-one-cordelia-frost",
   "tags": [
     "mythbusters",
     "personazhi-komiksov"
+  ],
+  "cover": "https://web.archive.org/web/20150315210246im_/http://spidermedia.ru/assets/images/ecahznqzhc4.jpg",
+  "modx_id": 110,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

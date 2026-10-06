@@ -7,7 +7,14 @@
   "tags": [
     "dark-horse",
     "san-diego-comic-con-international",
-    "mett-kindt"
+    "mett-kindt",
+    "sdcc2015"
+  ],
+  "cover": "https://web.archive.org/web/20160611164503im_/http://spidermedia.ru/assets/images/news/sdcc/2015/dark-horse/depthpastemagazine.jpg",
+  "modx_id": 100340,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Песочный человек из стали",
-  "date": "2013-11-21T16:23:00+03:00",
+  "date": "2013-11-21T15:23:30+03:00",
   "url": "/news/pesochnyy-chelovek-iz-stali/",
   "original_url": "http://spidermedia.ru/news/pesochnyy-chelovek-iz-stali",
   "archived": "https://web.archive.org/web/20260314082503/http://spidermedia.ru/news/pesochnyy-chelovek-iz-stali",
@@ -9,6 +9,12 @@
     "neil-gaiman",
     "devid-gojer",
     "vertigo"
+  ],
+  "cover": "https://web.archive.org/web/20150503101631im_/http://spidermedia.ru/assets/images/import_image/7553.jpg",
+  "modx_id": 7553,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

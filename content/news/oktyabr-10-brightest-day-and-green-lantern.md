@@ -1,7 +1,10 @@
 {
   "title": "Октябрь '10 - Brightest Day and Green Lantern",
-  "date": "2010-07-21T11:30:00+03:00",
+  "date": "2010-07-21T10:30:14+03:00",
   "url": "/news/oktyabr-10-brightest-day-and-green-lantern/",
+  "aliases": [
+    "/node/2759/"
+  ],
   "original_url": "https://spidermedia.ru/news/oktyabr-10-brightest-day-and-green-lantern",
   "archived": "https://web.archive.org/web/20251107001537/https://spidermedia.ru/news/oktyabr-10-brightest-day-and-green-lantern",
   "tags": [
@@ -9,6 +12,12 @@
     "solicitations",
     "green-lantern",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20251107001537im_/http://spidermedia.ru/assets/images/import_image/2759.png",
+  "modx_id": 2759,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

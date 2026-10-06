@@ -1,12 +1,18 @@
 {
   "title": "Ретроспектива Vertigo - Bigg Time (2002)",
-  "date": "2011-10-31T15:32:00+03:00",
+  "date": "2011-10-31T14:32:23+03:00",
   "url": "/blog/dzhedis/retrospektiva-vertigo-bigg-time-2002/",
   "original_url": "https://spidermedia.ru/blog/dzhedis/retrospektiva-vertigo-bigg-time-2002",
   "archived": "https://web.archive.org/web/20260208203740/https://spidermedia.ru/blog/dzhedis/retrospektiva-vertigo-bigg-time-2002",
   "tags": [
     "vertigo",
     "ty-templeton"
+  ],
+  "cover": "https://web.archive.org/web/20260208203740im_/http://spidermedia.ru/assets/images/import_image/6677.jpg",
+  "modx_id": 6677,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

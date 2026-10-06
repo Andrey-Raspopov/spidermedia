@@ -1,6 +1,6 @@
 {
   "title": "«Человек-Муравей» нашел нового режиссера + UPD.: Синопсис",
-  "date": "2014-06-09T12:49:00+03:00",
+  "date": "2014-06-09T11:49:22+03:00",
   "url": "/news/chelovek-muravey-nashel-novogo-rezhissera/",
   "original_url": "http://spidermedia.ru/news/chelovek-muravey-nashel-novogo-rezhissera",
   "archived": "https://web.archive.org/web/20260314083142/http://spidermedia.ru/news/chelovek-muravey-nashel-novogo-rezhissera",
@@ -11,6 +11,12 @@
     "pejton-rid",
     "adam-makkej",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20260314083142im_/http://spidermedia.ru/assets/images/import_image/7776.png",
+  "modx_id": 7776,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

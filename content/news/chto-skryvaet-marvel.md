@@ -1,6 +1,6 @@
 {
   "title": "Что скрывает Марвел",
-  "date": "2013-07-10T15:10:00+03:00",
+  "date": "2013-07-10T14:10:44+03:00",
   "url": "/news/chto-skryvaet-marvel/",
   "original_url": "http://spidermedia.ru/news/chto-skryvaet-marvel",
   "archived": "https://web.archive.org/web/20250807000327/http://spidermedia.ru/news/chto-skryvaet-marvel",
@@ -8,6 +8,12 @@
     "guardians-of-the-galaxy",
     "marvel",
     "san-diego-comic-con-international"
+  ],
+  "cover": "https://web.archive.org/web/20250807000327im_/http://spidermedia.ru/assets/images/import_image/7326.jpg",
+  "modx_id": 7326,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Возрождение Ultimate: X-Men",
-  "date": "2011-05-03T21:16:00+03:00",
+  "date": "2011-05-03T20:16:37+03:00",
   "url": "/news/vozrozhdenie-ultimate-x-men/",
   "original_url": "http://spidermedia.ru/news/vozrozhdenie-ultimate-x-men",
   "archived": "https://web.archive.org/web/20260312005938/http://spidermedia.ru/news/vozrozhdenie-ultimate-x-men",
@@ -9,7 +9,15 @@
     "nik-spenser",
     "x-men",
     "ultimate",
-    "marvel"
+    "marvel",
+    "lyudi-iks",
+    "ultimate-x-men"
+  ],
+  "cover": "https://web.archive.org/web/20260312005938im_/http://spidermedia.ru/assets/images/import_image/5449.jpg",
+  "modx_id": 5449,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,13 +1,21 @@
 {
   "title": "Fox работает над сериалом о Людях Икс",
-  "date": "2015-01-26T23:58:00+03:00",
+  "date": "2015-01-26T23:58:38+03:00",
   "url": "/news/fox-rabotaet-nad-serialom-o-lyudyah-iks/",
   "original_url": "http://spidermedia.ru/news/fox-rabotaet-nad-serialom-o-lyudyah-iks",
   "archived": "https://web.archive.org/web/20251206144734/http://spidermedia.ru/news/fox-rabotaet-nad-serialom-o-lyudyah-iks",
   "tags": [
     "serialy",
     "marvel",
-    "x-men"
+    "x-men",
+    "tv",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20150326220924im_/http://spidermedia.ru/assets/images/import_image/8548.jpg",
+  "modx_id": 8548,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

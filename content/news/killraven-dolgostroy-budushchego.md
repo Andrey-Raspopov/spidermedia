@@ -1,7 +1,10 @@
 {
   "title": "Killraven - Долгострой Будущего",
-  "date": "2009-02-18T18:27:00+03:00",
+  "date": "2009-02-18T18:27:39+03:00",
   "url": "/news/killraven-dolgostroy-budushchego/",
+  "aliases": [
+    "/node/425/"
+  ],
   "original_url": "http://spidermedia.ru/news/killraven-dolgostroy-budushchego",
   "archived": "https://web.archive.org/web/20200221175827/http://spidermedia.ru:80/news/killraven-dolgostroy-budushchego",
   "tags": [
@@ -9,7 +12,14 @@
     "rob-lajfeld",
     "preview",
     "marvel",
-    "killraven"
+    "killraven",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20200221175827im_/http://spidermedia.ru/assets/images/import_image/425.jpg",
+  "modx_id": 425,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

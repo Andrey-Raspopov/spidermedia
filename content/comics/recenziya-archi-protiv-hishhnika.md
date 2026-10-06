@@ -8,6 +8,12 @@
     "komilfo",
     "obzor"
   ],
+  "cover": "https://web.archive.org/web/20251108193540im_/http://spidermedia.ru/assets/images/news/images/oleg-lyfar/review/avp/247751-kopiya.jpg",
+  "modx_id": 102127,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

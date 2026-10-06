@@ -1,7 +1,10 @@
 {
   "title": "За свободу с чистой совестью",
-  "date": "2009-07-25T20:55:00+03:00",
+  "date": "2009-07-25T19:55:06+03:00",
   "url": "/news/za-svobodu-s-chistoy-sovestyu/",
+  "aliases": [
+    "/node/1660/"
+  ],
   "original_url": "https://spidermedia.ru/news/za-svobodu-s-chistoy-sovestyu",
   "archived": "https://web.archive.org/web/20260307055142/https://spidermedia.ru/news/za-svobodu-s-chistoy-sovestyu",
   "tags": [
@@ -18,6 +21,12 @@
     "painkiller-jane",
     "liberty-comics",
     "image-comics"
+  ],
+  "cover": "https://web.archive.org/web/20260307055142im_/http://spidermedia.ru/assets/images/import_image/1660.jpg",
+  "modx_id": 1660,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

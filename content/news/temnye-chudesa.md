@@ -1,7 +1,10 @@
 {
   "title": "Темные Чудеса",
-  "date": "2010-04-03T11:28:00+03:00",
+  "date": "2010-04-03T10:28:50+03:00",
   "url": "/news/temnye-chudesa/",
+  "aliases": [
+    "/node/2503/"
+  ],
   "original_url": "http://spidermedia.ru/news/temnye-chudesa",
   "archived": "https://web.archive.org/web/20250524071258/http://spidermedia.ru/news/temnye-chudesa",
   "tags": [
@@ -10,7 +13,14 @@
     "jim-lee",
     "art-0",
     "dc-comics",
-    "batman"
+    "batman",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20250524071258im_/http://spidermedia.ru/assets/images/import_image/2503.jpg",
+  "modx_id": 2503,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

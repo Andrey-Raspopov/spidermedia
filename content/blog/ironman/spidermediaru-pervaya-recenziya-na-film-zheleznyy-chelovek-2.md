@@ -1,7 +1,10 @@
 {
   "title": "SpiderMedia.RU: Первая рецензия на фильм \"Железный Человек 2\"",
-  "date": "2010-04-27T20:45:00+03:00",
+  "date": "2010-04-27T19:45:28+03:00",
   "url": "/blog/ironman/spidermediaru-pervaya-recenziya-na-film-zheleznyy-chelovek-2/",
+  "aliases": [
+    "/node/2584/"
+  ],
   "original_url": "http://spidermedia.ru/blog/ironman/spidermediaru-pervaya-recenziya-na-film-zheleznyy-chelovek-2",
   "archived": "https://web.archive.org/web/20250906073719/http://spidermedia.ru/blog/ironman/spidermediaru-pervaya-recenziya-na-film-zheleznyy-chelovek-2",
   "tags": [
@@ -9,7 +12,14 @@
     "recenziya",
     "dzhon-favro",
     "marvel",
-    "iron-man"
+    "iron-man",
+    "zheleznyy-chelovek"
+  ],
+  "cover": "https://web.archive.org/web/20160615004212im_/http://spidermedia.ru/assets/images/import_image/2584.jpg",
+  "modx_id": 2584,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

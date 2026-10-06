@@ -1,12 +1,17 @@
 {
   "title": "Дуэйн \"Скала\" Джонсон - Чёрный Адам!",
-  "date": "2014-09-03T21:13:00+03:00",
+  "date": "2014-09-03T20:13:41+03:00",
   "url": "/news/dueyn-skala-dzhonson-chyornyy-adam/",
   "original_url": "http://spidermedia.ru/news/dueyn-skala-dzhonson-chyornyy-adam",
   "archived": "https://web.archive.org/web/20260121013613/http://spidermedia.ru/news/dueyn-skala-dzhonson-chyornyy-adam",
   "tags": [
     "shazam",
     "dc-comics"
+  ],
+  "modx_id": 8036,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

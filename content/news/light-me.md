@@ -1,7 +1,10 @@
 {
   "title": "Light me up!",
-  "date": "2010-02-10T02:07:00+03:00",
+  "date": "2010-02-10T01:07:57+03:00",
   "url": "/news/light-me/",
+  "aliases": [
+    "/node/2356/"
+  ],
   "original_url": "http://spidermedia.ru/news/light-me",
   "archived": "https://web.archive.org/web/20120607152037/http://spidermedia.ru/news/light-me",
   "tags": [
@@ -13,7 +16,13 @@
     "dzhim-makkenn",
     "kalman-andrasovski",
     "komiksy",
-    "marvel"
+    "marvel",
+    "lyudi-iks"
+  ],
+  "modx_id": 2356,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

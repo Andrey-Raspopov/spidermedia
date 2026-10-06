@@ -1,12 +1,18 @@
 {
   "title": "Зеленый Фонарь в Австралии",
-  "date": "2009-04-16T18:49:00+03:00",
+  "date": "2009-04-16T17:49:10+03:00",
   "url": "/news/zelenyy-fonar-v-avstralii/",
   "original_url": "http://spidermedia.ru/news/zelenyy-fonar-v-avstralii",
   "archived": "https://web.archive.org/web/20260125122259/http://spidermedia.ru/news/zelenyy-fonar-v-avstralii",
   "tags": [
     "dc-comics",
     "green-lantern"
+  ],
+  "cover": "https://web.archive.org/web/20260125122259im_/http://spidermedia.ru/assets/images/import_image/960.jpg",
+  "modx_id": 960,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

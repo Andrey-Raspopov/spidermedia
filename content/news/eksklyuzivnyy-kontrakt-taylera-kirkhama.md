@@ -1,7 +1,10 @@
 {
   "title": "Эксклюзивный контракт Тайлера Киркхама",
-  "date": "2010-07-16T17:54:00+03:00",
+  "date": "2010-07-16T16:54:57+03:00",
   "url": "/news/eksklyuzivnyy-kontrakt-taylera-kirkhama/",
+  "aliases": [
+    "/node/2742/"
+  ],
   "original_url": "http://spidermedia.ru/news/eksklyuzivnyy-kontrakt-taylera-kirkhama",
   "archived": "https://web.archive.org/web/20120607123300/http://spidermedia.ru/news/eksklyuzivnyy-kontrakt-taylera-kirkhama",
   "tags": [
@@ -9,7 +12,15 @@
     "green-lantern-corps",
     "tyler-kirkham",
     "korpus-zelenyh-fonarey",
-    "tayler-kirkham"
+    "tayler-kirkham",
+    "tajler-kirkham",
+    "green-lantern"
+  ],
+  "cover": "https://web.archive.org/web/20120607123300im_/http://spidermedia.ru/assets/images/import_image/2742.jpg",
+  "modx_id": 2742,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Съемки \"Мстителей 2\" начнутся в ЮАР в феврале",
-  "date": "2014-02-02T14:36:00+03:00",
+  "date": "2014-02-02T13:36:13+03:00",
   "url": "/news/semki-mstiteley-2-nachnutsya-v-yuar-v-fevrale/",
   "original_url": "https://spidermedia.ru/news/semki-mstiteley-2-nachnutsya-v-yuar-v-fevrale",
   "archived": "https://web.archive.org/web/20250617230739/https://spidermedia.ru/news/semki-mstiteley-2-nachnutsya-v-yuar-v-fevrale",
@@ -8,6 +8,12 @@
     "black-panther",
     "avengers",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150424184059im_/http://spidermedia.ru/assets/images/import_image/7624.jpg",
+  "modx_id": 7624,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

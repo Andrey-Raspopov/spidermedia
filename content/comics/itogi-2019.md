@@ -4,6 +4,12 @@
   "url": "/comics/itogi-2019/",
   "original_url": "https://spidermedia.ru/comics/itogi-2019",
   "archived": "https://web.archive.org/web/20210505205344/https://spidermedia.ru/comics/itogi-2019",
+  "cover": "https://web.archive.org/web/20210505205344im_/http://spidermedia.ru/assets/images/itog2019/itogi2019.jpg",
+  "modx_id": 102200,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

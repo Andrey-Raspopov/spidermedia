@@ -1,6 +1,6 @@
 {
   "title": "Новости из мира кино",
-  "date": "2009-03-19T22:23:00+03:00",
+  "date": "2009-03-19T22:23:25+03:00",
   "url": "/news/novosti-iz-mira-kino-0/",
   "original_url": "http://spidermedia.ru/news/novosti-iz-mira-kino-0",
   "archived": "https://web.archive.org/web/20250814210837/http://spidermedia.ru/news/novosti-iz-mira-kino-0",
@@ -10,7 +10,14 @@
     "thor",
     "green-lantern",
     "captain-america",
-    "avengers"
+    "avengers",
+    "tor"
+  ],
+  "cover": "https://web.archive.org/web/20250814210837im_/http://spidermedia.ru/assets/images/import_image/721.jpg",
+  "modx_id": 721,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

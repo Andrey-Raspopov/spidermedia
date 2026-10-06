@@ -1,13 +1,22 @@
 {
   "title": "Tricky! Sticky! Mickey Eye!",
-  "date": "2009-02-02T10:47:00+03:00",
+  "date": "2009-02-02T10:47:41+03:00",
   "url": "/blog/bogart/tricky-sticky-mickey-eye/",
+  "aliases": [
+    "/node/97/"
+  ],
   "original_url": "http://spidermedia.ru/blog/bogart/tricky-sticky-mickey-eye",
   "archived": "https://web.archive.org/web/20251216182152/http://spidermedia.ru/blog/bogart/tricky-sticky-mickey-eye",
   "tags": [
     "grant-morrison",
     "vertigo",
     "kemeron-styuart"
+  ],
+  "cover": "https://web.archive.org/web/20251216182152im_/http://spidermedia.ru/assets/images/import_image/97.jpg",
+  "modx_id": 97,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

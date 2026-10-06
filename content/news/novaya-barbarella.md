@@ -1,11 +1,20 @@
 {
   "title": "Новая Барбарелла",
-  "date": "2009-06-04T12:38:00+03:00",
+  "date": "2009-06-04T11:38:32+03:00",
   "url": "/news/novaya-barbarella/",
+  "aliases": [
+    "/node/1349/"
+  ],
   "original_url": "http://spidermedia.ru/news/novaya-barbarella",
   "archived": "https://web.archive.org/web/20200219021535/http://spidermedia.ru:80/news/novaya-barbarella",
   "tags": [
     "barbarella"
+  ],
+  "cover": "https://web.archive.org/web/20200219021535im_/http://spidermedia.ru/assets/images/import_image/1349.jpg",
+  "modx_id": 1349,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,12 +1,22 @@
 {
   "title": "Yubikiri Hime",
-  "date": "2009-03-22T13:57:00+03:00",
+  "date": "2009-03-22T13:57:20+03:00",
   "url": "/blog/naya/yubikiri-hime/",
+  "aliases": [
+    "/node/743/"
+  ],
   "original_url": "http://spidermedia.ru/blog/naya/yubikiri-hime",
   "archived": "https://web.archive.org/web/20250909134714/http://spidermedia.ru/blog/naya/yubikiri-hime",
   "tags": [
     "one-shot",
-    "manga"
+    "manga",
+    "manga-2"
+  ],
+  "cover": "https://web.archive.org/web/20250909134714im_/http://spidermedia.ru/assets/images/import_image/743.jpg",
+  "modx_id": 743,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

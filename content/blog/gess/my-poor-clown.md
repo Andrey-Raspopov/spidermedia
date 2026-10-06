@@ -1,13 +1,21 @@
 {
   "title": "My... poor... clown...",
-  "date": "2009-03-13T20:22:00+03:00",
+  "date": "2009-03-13T20:22:59+03:00",
   "url": "/blog/gess/my-poor-clown/",
+  "aliases": [
+    "/node/664/"
+  ],
   "original_url": "https://spidermedia.ru/blog/gess/my-poor-clown",
   "archived": "https://web.archive.org/web/20241202070306/https://spidermedia.ru/blog/gess/my-poor-clown",
   "tags": [
     "motion-comics",
     "marvel",
     "man-thing"
+  ],
+  "modx_id": 664,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

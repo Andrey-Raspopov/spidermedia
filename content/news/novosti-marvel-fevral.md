@@ -1,7 +1,10 @@
 {
   "title": "Новости MARVEL - Февраль",
-  "date": "2009-02-12T03:20:00+03:00",
+  "date": "2009-02-12T03:20:26+03:00",
   "url": "/news/novosti-marvel-fevral/",
+  "aliases": [
+    "/node/322/"
+  ],
   "original_url": "https://spidermedia.ru/news/novosti-marvel-fevral",
   "archived": "https://web.archive.org/web/20250217072641/https://spidermedia.ru/news/novosti-marvel-fevral",
   "tags": [
@@ -11,7 +14,14 @@
     "spider-woman",
     "marvel",
     "iron-man",
-    "halo"
+    "halo",
+    "zheleznyy-chelovek"
+  ],
+  "cover": "https://web.archive.org/web/20250217072641im_/http://spidermedia.ru/assets/images/import_image/322.jpg",
+  "modx_id": 322,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

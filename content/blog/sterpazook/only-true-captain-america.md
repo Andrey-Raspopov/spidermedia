@@ -1,6 +1,6 @@
 {
   "title": "The Only True Captain America",
-  "date": "2009-10-03T00:41:00+03:00",
+  "date": "2009-10-02T23:41:18+03:00",
   "url": "/blog/sterpazook/only-true-captain-america/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/only-true-captain-america",
   "archived": "https://web.archive.org/web/20120607162214/http://spidermedia.ru/blog/sterpazook/only-true-captain-america",
@@ -10,6 +10,11 @@
     "kapitan-amerika",
     "kino",
     "fanstaff"
+  ],
+  "modx_id": 1960,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

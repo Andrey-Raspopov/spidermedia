@@ -1,6 +1,6 @@
 {
   "title": "Хроники кино",
-  "date": "2009-01-31T19:40:00+03:00",
+  "date": "2009-01-31T19:40:19+03:00",
   "url": "/blog/alex/hroniki-kino/",
   "original_url": "http://spidermedia.ru/blog/alex/hroniki-kino",
   "archived": "https://web.archive.org/web/20250804004021/http://spidermedia.ru/blog/alex/hroniki-kino",
@@ -8,6 +8,12 @@
     "marvel",
     "wolverine",
     "fanart"
+  ],
+  "cover": "https://web.archive.org/web/20150424090538im_/http://spidermedia.ru/assets/images/import_image/38.jpg",
+  "modx_id": 38,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,12 +1,18 @@
 {
   "title": "Мстители по Уэдону",
-  "date": "2010-04-15T11:00:00+03:00",
+  "date": "2010-04-15T10:00:00+03:00",
   "url": "/news/mstiteli-po-uedonu/",
   "original_url": "https://spidermedia.ru/news/mstiteli-po-uedonu",
   "archived": "https://web.archive.org/web/20250807005918/https://spidermedia.ru/news/mstiteli-po-uedonu",
   "tags": [
     "joss-whedon",
     "avengers"
+  ],
+  "cover": "https://web.archive.org/web/20160620031312im_/http://spidermedia.ru/assets/images/import_image/2546.jpg",
+  "modx_id": 2546,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

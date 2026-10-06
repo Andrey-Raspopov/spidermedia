@@ -1,11 +1,17 @@
 {
   "title": "Eisner Awards 2012 (1/2)",
-  "date": "2012-04-10T12:53:00+03:00",
+  "date": "2012-04-10T11:53:11+03:00",
   "url": "/blog/gess/eisner-awards-2012-1-2/",
   "original_url": "http://spidermedia.ru/blog/gess/eisner-awards-2012-1-2",
   "archived": "https://web.archive.org/web/20191228135515/http://spidermedia.ru:80/blog/gess/eisner-awards-2012-1-2",
   "tags": [
     "eisner-awards"
+  ],
+  "cover": "https://web.archive.org/web/20191228135515im_/http://spidermedia.ru/assets/images/import_image/6860.jpg",
+  "modx_id": 6860,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

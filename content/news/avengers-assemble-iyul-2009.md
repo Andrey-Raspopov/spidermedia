@@ -1,14 +1,23 @@
 {
   "title": "Avengers Assemble! - июль 2009",
-  "date": "2009-04-22T13:26:00+03:00",
+  "date": "2009-04-22T12:26:01+03:00",
   "url": "/news/avengers-assemble-iyul-2009/",
+  "aliases": [
+    "/node/1023/"
+  ],
   "original_url": "http://spidermedia.ru/news/avengers-assemble-iyul-2009",
   "archived": "https://web.archive.org/web/20140820092448/http://spidermedia.ru:80/news/avengers-assemble-iyul-2009",
   "tags": [
     "comics",
     "marvel",
     "avengers",
-    "preview-s"
+    "preview-s",
+    "prevyu"
+  ],
+  "modx_id": 1023,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

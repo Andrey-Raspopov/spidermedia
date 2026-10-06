@@ -1,6 +1,6 @@
 {
   "title": "Круто сваренный",
-  "date": "2012-12-05T10:39:00+03:00",
+  "date": "2012-12-05T09:39:09+03:00",
   "url": "/news/kruto-svarennyy/",
   "original_url": "http://spidermedia.ru/news/kruto-svarennyy",
   "archived": "https://web.archive.org/web/20250923153444/http://spidermedia.ru/news/kruto-svarennyy",
@@ -9,6 +9,12 @@
     "zarubezhnye-komiksy-na-russkom",
     "dark-horse",
     "izdatelstvo-42"
+  ],
+  "cover": "https://web.archive.org/web/20250923153444im_/http://spidermedia.ru/assets/images/import_image/7097.jpg",
+  "modx_id": 7097,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

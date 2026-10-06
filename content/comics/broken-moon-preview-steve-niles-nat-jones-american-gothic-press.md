@@ -8,6 +8,12 @@
     "vampiry",
     "steve-niles"
   ],
+  "cover": "https://web.archive.org/web/20251207091018im_/http://spidermedia.ru/assets/images/news/broken01.jpg",
+  "modx_id": 100404,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

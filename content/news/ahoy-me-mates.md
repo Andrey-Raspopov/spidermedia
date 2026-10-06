@@ -1,7 +1,10 @@
 {
   "title": "Ahoy Me Mates!",
-  "date": "2009-05-31T23:50:00+03:00",
+  "date": "2009-05-31T22:50:02+03:00",
   "url": "/news/ahoy-me-mates/",
+  "aliases": [
+    "/node/1311/"
+  ],
   "original_url": "http://spidermedia.ru/news/ahoy-me-mates",
   "archived": "https://web.archive.org/web/20251206155458/http://spidermedia.ru/news/ahoy-me-mates",
   "tags": [
@@ -11,6 +14,12 @@
     "bullseye",
     "deadpool",
     "daniel-way"
+  ],
+  "cover": "https://web.archive.org/web/20251206155458im_/http://spidermedia.ru/assets/images/import_image/1311.jpg",
+  "modx_id": 1311,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

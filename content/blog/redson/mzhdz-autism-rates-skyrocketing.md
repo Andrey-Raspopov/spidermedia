@@ -1,12 +1,18 @@
 {
   "title": "МЖДЗ: AUTISM RATES SKYROCKETING",
-  "date": "2011-05-04T22:24:00+03:00",
+  "date": "2011-05-04T21:24:27+03:00",
   "url": "/blog/redson/mzhdz-autism-rates-skyrocketing/",
   "original_url": "http://spidermedia.ru/blog/redson/mzhdz-autism-rates-skyrocketing",
   "archived": "https://web.archive.org/web/20251116061501/http://spidermedia.ru/blog/redson/mzhdz-autism-rates-skyrocketing",
   "tags": [
     "mnenie",
     "mzhdz"
+  ],
+  "cover": "https://web.archive.org/web/20160715170148im_/http://spidermedia.ru/assets/images/import_image/5478.jpg",
+  "modx_id": 5478,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

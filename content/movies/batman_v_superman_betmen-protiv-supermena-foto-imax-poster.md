@@ -8,6 +8,12 @@
     "batman",
     "dc-comics"
   ],
+  "cover": "https://web.archive.org/web/20160611155154im_/http://spidermedia.ru/assets/images/movies/dc/batman-v-superman-dawn-of-justice-2016/batman_v_superman_dawn_of_justice_batman-imax-poster-uncensored.jpg",
+  "modx_id": 100184,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

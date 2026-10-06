@@ -9,6 +9,12 @@
     "brian-michael-bendis",
     "superman"
   ],
+  "cover": "https://web.archive.org/web/20260306001409im_/http://spidermedia.ru/assets/images/reviews/dc/superman/the-man-of-steel/1-6/mzk.jpg",
+  "modx_id": 101964,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

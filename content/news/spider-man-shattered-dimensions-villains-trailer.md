@@ -1,6 +1,6 @@
 {
   "title": "Spider-Man: Shattered Dimensions Villains Trailer",
-  "date": "2010-06-09T13:09:00+03:00",
+  "date": "2010-06-09T12:09:21+03:00",
   "url": "/news/spider-man-shattered-dimensions-villains-trailer/",
   "original_url": "http://spidermedia.ru/news/spider-man-shattered-dimensions-villains-trailer",
   "archived": "https://web.archive.org/web/20260211101836/http://spidermedia.ru/news/spider-man-shattered-dimensions-villains-trailer",
@@ -12,6 +12,11 @@
     "noir",
     "game",
     "spider-man"
+  ],
+  "modx_id": 2662,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

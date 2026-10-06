@@ -1,6 +1,6 @@
 {
   "title": "Новый Punisher, новые авторы",
-  "date": "2011-03-20T02:39:00+03:00",
+  "date": "2011-03-20T02:39:04+03:00",
   "url": "/news/novyy-punisher-novye-avtory/",
   "original_url": "https://spidermedia.ru/news/novyy-punisher-novye-avtory",
   "archived": "https://web.archive.org/web/20260306000244/https://spidermedia.ru/news/novyy-punisher-novye-avtory",
@@ -9,7 +9,14 @@
     "punisher",
     "greg-rakka",
     "art-0",
-    "marvel"
+    "marvel",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20260306000244im_/http://spidermedia.ru/assets/images/import_image/4286.jpg",
+  "modx_id": 4286,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Kneel before Hiro-Kala!",
-  "date": "2010-03-02T16:27:00+03:00",
+  "date": "2010-03-02T16:27:34+03:00",
   "url": "/news/kneel-hiro-kala/",
   "original_url": "http://spidermedia.ru/news/kneel-hiro-kala",
   "archived": "https://web.archive.org/web/20170716015240/http://spidermedia.ru:80/news/kneel-hiro-kala",
@@ -10,6 +10,12 @@
     "skot-riid",
     "son-of-hulk",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20170716015240im_/http://spidermedia.ru/assets/images/import_image/2411.jpg",
+  "modx_id": 2411,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

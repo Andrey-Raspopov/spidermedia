@@ -1,6 +1,6 @@
 {
   "title": "Зуб за зуб",
-  "date": "2012-04-15T05:53:00+03:00",
+  "date": "2012-04-15T04:53:31+03:00",
   "url": "/news/zub-za-zub/",
   "original_url": "http://spidermedia.ru/news/zub-za-zub",
   "archived": "https://web.archive.org/web/20250814212010/http://spidermedia.ru/news/zub-za-zub",
@@ -11,6 +11,12 @@
     "sabretooth",
     "wolverine",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20250814212010im_/http://spidermedia.ru/assets/images/import_image/6874.jpg",
+  "modx_id": 6874,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

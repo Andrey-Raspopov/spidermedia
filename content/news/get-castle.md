@@ -1,7 +1,10 @@
 {
   "title": "Get Castle",
-  "date": "2009-10-30T15:30:00+03:00",
+  "date": "2009-10-30T14:30:12+03:00",
   "url": "/news/get-castle/",
+  "aliases": [
+    "/node/2039/"
+  ],
   "original_url": "http://spidermedia.ru/news/get-castle",
   "archived": "https://web.archive.org/web/20130101005816/http://spidermedia.ru:80/news/get-castle",
   "tags": [
@@ -13,7 +16,14 @@
     "lourens-kembell",
     "oblozhki",
     "rob-uillyams",
-    "tim-bredstrit"
+    "tim-bredstrit",
+    "art",
+    "marvel"
+  ],
+  "modx_id": 2039,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

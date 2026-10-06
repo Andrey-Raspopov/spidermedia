@@ -1,6 +1,6 @@
 {
   "title": "SpiderMedia Fan-Art Challenge #4 - Герои Геймана",
-  "date": "2011-12-13T18:00:00+03:00",
+  "date": "2011-12-13T17:00:04+03:00",
   "url": "/news/fan-art-challenge-4-neil-gaiman-lucifer-sandman-death/",
   "original_url": "http://spidermedia.ru/news/fan-art-challenge-4-neil-gaiman-lucifer-sandman-death",
   "archived": "https://web.archive.org/web/20251115033102/http://spidermedia.ru/news/fan-art-challenge-4-neil-gaiman-lucifer-sandman-death",
@@ -12,6 +12,12 @@
     "zarubezhnye-komiksy-na-russkom",
     "komiks-art",
     "challenge"
+  ],
+  "cover": "https://web.archive.org/web/20160611080817im_/http://spidermedia.ru/assets/images/import_image/6720.png",
+  "modx_id": 6720,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

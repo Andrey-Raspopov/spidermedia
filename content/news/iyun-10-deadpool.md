@@ -1,20 +1,30 @@
 {
   "title": "Июнь '10: Deadpool",
-  "date": "2010-05-31T21:23:00+03:00",
+  "date": "2010-05-31T20:23:41+03:00",
   "url": "/news/iyun-10-deadpool/",
+  "aliases": [
+    "/node/2645/"
+  ],
   "original_url": "http://spidermedia.ru/news/iyun-10-deadpool",
   "archived": "https://web.archive.org/web/20251112164406/http://spidermedia.ru/news/iyun-10-deadpool",
   "tags": [
     "relizy",
     "deadpool",
     "x-men",
-    "marvel"
+    "marvel",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20251112164406im_/http://spidermedia.ru/assets/images/import_image/2645.jpg",
+  "modx_id": 2645,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-Фанаты **Дэдпула** **(Deadpool)** могут ликовать - болтливый наемник получает ещё одну серию в свое распоряжение! Серия, пусть и является лимиткой, все-таки выступит ещё одним дополнением к череде дедпуло-тайтлов, количество которых уже переплюнуло количество [комиксов о **Росомахе** **(Wolverine)**](../../node/2644/). Я же, как автор новости, высказывая исключительно личное мнение, могу лишь пожалеть тех, кто все это читает. Тем не менее - ниже находятся релизы, посвященные комиксам о **Дэдпуле** на июнь 2010 года.
+Фанаты **Дэдпула** **(Deadpool)** могут ликовать - болтливый наемник получает ещё одну серию в свое распоряжение! Серия, пусть и является лимиткой, все-таки выступит ещё одним дополнением к череде дедпуло-тайтлов, количество которых уже переплюнуло количество [комиксов о **Росомахе** **(Wolverine)**](../iyun-10-wolverine-x-men/). Я же, как автор новости, высказывая исключительно личное мнение, могу лишь пожалеть тех, кто все это читает. Тем не менее - ниже находятся релизы, посвященные комиксам о **Дэдпуле** на июнь 2010 года.
 ![](https://web.archive.org/web/20251112164406im_/http://img.photobucket.com/albums/v499/sp888/news/Deadpool1.jpg)
 
 [![](https://web.archive.org/web/20251112164406im_/http://i.annihil.us/u/prod/marvel/i/content/63299comic_storystory_thumb-8926517..jpg)](http://images.comicbookresources.com/solicits/marvelcomics/201006-advance/38_DEADPOOL_24.jpg) **Deadpool #24**

@@ -1,12 +1,18 @@
 {
   "title": "ALL-NEW МЖДЗ: IMAGEMEDIA",
-  "date": "2014-06-03T12:00:00+03:00",
+  "date": "2014-06-03T11:00:42+03:00",
   "url": "/news/all-new-mzhdz-imagemedia/",
   "original_url": "http://spidermedia.ru/news/all-new-mzhdz-imagemedia",
   "archived": "https://web.archive.org/web/20251116062647/http://spidermedia.ru/news/all-new-mzhdz-imagemedia",
   "tags": [
     "mnenie",
     "mzhdz"
+  ],
+  "cover": "https://web.archive.org/web/20160716124105im_/http://spidermedia.ru/assets/images/import_image/7763.jpg",
+  "modx_id": 7763,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

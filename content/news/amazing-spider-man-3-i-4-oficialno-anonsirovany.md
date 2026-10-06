@@ -1,6 +1,6 @@
 {
   "title": "\"the Amazing Spider-Man\" 3 и 4 официально анонсированы",
-  "date": "2013-06-18T00:45:00+03:00",
+  "date": "2013-06-17T23:45:11+03:00",
   "url": "/news/amazing-spider-man-3-i-4-oficialno-anonsirovany/",
   "original_url": "http://spidermedia.ru/news/amazing-spider-man-3-i-4-oficialno-anonsirovany",
   "archived": "https://web.archive.org/web/20251117005005/http://spidermedia.ru/news/amazing-spider-man-3-i-4-oficialno-anonsirovany",
@@ -10,6 +10,12 @@
     "mark-uebb",
     "marvel",
     "spider-man"
+  ],
+  "cover": "https://web.archive.org/web/20251117005005im_/http://spidermedia.ru/assets/images/import_image/7281.jpg",
+  "modx_id": 7281,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

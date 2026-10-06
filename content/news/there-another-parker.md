@@ -1,6 +1,6 @@
 {
   "title": "There is another Parker",
-  "date": "2013-06-18T04:16:00+03:00",
+  "date": "2013-06-18T03:16:05+03:00",
   "url": "/news/there-another-parker/",
   "original_url": "https://spidermedia.ru/news/there-another-parker",
   "archived": "https://web.archive.org/web/20251006014859/https://spidermedia.ru/news/there-another-parker",
@@ -10,6 +10,12 @@
     "gabriele-dell-otto",
     "marvel",
     "spider-man"
+  ],
+  "cover": "https://web.archive.org/web/20150424090432im_/http://spidermedia.ru/assets/images/import_image/7283.jpg",
+  "modx_id": 7283,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

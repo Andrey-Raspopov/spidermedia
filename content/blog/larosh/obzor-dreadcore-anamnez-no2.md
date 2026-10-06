@@ -1,12 +1,18 @@
 {
   "title": "ОБЗОР: «Dreadcore: Анамнез №2»",
-  "date": "2014-12-24T10:31:00+03:00",
+  "date": "2014-12-24T10:31:10+03:00",
   "url": "/blog/larosh/obzor-dreadcore-anamnez-no2/",
   "original_url": "http://spidermedia.ru/blog/larosh/obzor-dreadcore-anamnez-no2",
   "archived": "https://web.archive.org/web/20260208204338/http://spidermedia.ru/blog/larosh/obzor-dreadcore-anamnez-no2",
   "tags": [
     "russian-comics",
     "obzor"
+  ],
+  "cover": "https://web.archive.org/web/20150424002422im_/http://spidermedia.ru/assets/images/import_image/8417.jpg",
+  "modx_id": 8417,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

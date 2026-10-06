@@ -1,7 +1,10 @@
 {
   "title": "Несколько постеров с Licensing Show",
-  "date": "2009-06-03T11:55:00+03:00",
+  "date": "2009-06-03T10:55:00+03:00",
   "url": "/news/neskolko-posterov-s-licensing-show/",
+  "aliases": [
+    "/node/1336/"
+  ],
   "original_url": "http://spidermedia.ru/news/neskolko-posterov-s-licensing-show",
   "archived": "https://web.archive.org/web/20190929140918/http://spidermedia.ru:80/news/neskolko-posterov-s-licensing-show",
   "tags": [
@@ -13,7 +16,15 @@
     "licensing-show",
     "captain-america",
     "avengers",
-    "spider-man"
+    "spider-man",
+    "zheleznyy-chelovek",
+    "tor"
+  ],
+  "cover": "https://web.archive.org/web/20150502143138im_/http://spidermedia.ru/assets/images/import_image/1336.jpg",
+  "modx_id": 1336,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

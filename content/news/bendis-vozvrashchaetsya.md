@@ -1,6 +1,6 @@
 {
   "title": "Бендис возвращается",
-  "date": "2011-06-09T13:13:00+03:00",
+  "date": "2011-06-09T12:13:31+03:00",
   "url": "/news/bendis-vozvrashchaetsya/",
   "original_url": "http://spidermedia.ru/news/bendis-vozvrashchaetsya",
   "archived": "https://web.archive.org/web/20260306001504/http://spidermedia.ru/news/bendis-vozvrashchaetsya",
@@ -13,6 +13,12 @@
     "brian-michael-bendis",
     "bill-sinkevich",
     "alex-maleev"
+  ],
+  "cover": "https://web.archive.org/web/20260306001504im_/http://spidermedia.ru/assets/images/import_image/6400.png",
+  "modx_id": 6400,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

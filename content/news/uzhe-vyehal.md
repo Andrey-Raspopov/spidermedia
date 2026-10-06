@@ -1,12 +1,18 @@
 {
   "title": "Уже выехал",
-  "date": "2011-08-19T20:42:00+03:00",
+  "date": "2011-08-19T19:42:10+03:00",
   "url": "/news/uzhe-vyehal/",
   "original_url": "http://spidermedia.ru/news/uzhe-vyehal",
   "archived": "https://web.archive.org/web/20241113231238/http://spidermedia.ru/news/uzhe-vyehal",
   "tags": [
     "marvel",
     "prizrachnyj-gonshhik"
+  ],
+  "cover": "https://web.archive.org/web/20241113231238im_/http://spidermedia.ru/assets/images/import_image/6573.jpg",
+  "modx_id": 6573,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

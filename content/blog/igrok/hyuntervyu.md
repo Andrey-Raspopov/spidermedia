@@ -1,7 +1,10 @@
 {
   "title": "Хьюнтервью",
-  "date": "2009-04-25T00:51:00+03:00",
+  "date": "2009-04-24T23:51:38+03:00",
   "url": "/blog/igrok/hyuntervyu/",
+  "aliases": [
+    "/node/1052/"
+  ],
   "original_url": "http://spidermedia.ru/blog/igrok/hyuntervyu",
   "archived": "https://web.archive.org/web/20120608154830/http://spidermedia.ru/blog/igrok/hyuntervyu",
   "tags": [
@@ -9,6 +12,12 @@
     "wolverine",
     "kino",
     "rosomaha"
+  ],
+  "cover": "https://web.archive.org/web/20120608154830im_/http://spidermedia.ru/assets/images/import_image/1052.gif",
+  "modx_id": 1052,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

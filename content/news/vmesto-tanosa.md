@@ -1,6 +1,6 @@
 {
   "title": "Вместо Таноса",
-  "date": "2012-08-26T04:47:00+03:00",
+  "date": "2012-08-26T03:47:43+03:00",
   "url": "/news/vmesto-tanosa/",
   "original_url": "http://spidermedia.ru/news/vmesto-tanosa",
   "archived": "https://web.archive.org/web/20150320031241/http://spidermedia.ru/news/vmesto-tanosa",
@@ -8,7 +8,14 @@
     "morbius",
     "dzho-kiting",
     "rich-elson",
-    "marvel-comics"
+    "marvel-comics",
+    "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150326160541im_/http://spidermedia.ru/assets/images/import_image/7009.jpg",
+  "modx_id": 7009,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

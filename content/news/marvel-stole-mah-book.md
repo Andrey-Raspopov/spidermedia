@@ -1,7 +1,10 @@
 {
   "title": "Marvel stole mah book",
-  "date": "2010-04-23T01:33:00+03:00",
+  "date": "2010-04-23T00:33:09+03:00",
   "url": "/news/marvel-stole-mah-book/",
+  "aliases": [
+    "/node/2570/"
+  ],
   "original_url": "http://spidermedia.ru/news/marvel-stole-mah-book",
   "archived": "https://web.archive.org/web/20251211022358/http://spidermedia.ru/news/marvel-stole-mah-book",
   "tags": [
@@ -10,11 +13,17 @@
     "ultimate",
     "marvel"
   ],
+  "cover": "https://web.archive.org/web/20251211022358im_/http://spidermedia.ru/assets/images/import_image/2570.jpg",
+  "modx_id": 2570,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-Недавно мы выкладывали [тизеры нового направления комиксов о **Людях Икс** *(X-Men)*](../../node/2545/), а слухи говорили нам о том, что команде известных мутантов придется столкнуться с вампирами. Эта информация была недавно подтверждена, но об этом в другой новости. Сейчас же мы предлагаем обратить ваше внимание на **Ultimate Universe**, а именно на **Ultimate Avengers** за авторством **Марка Миллара** *(Mark Millar)*. [![](https://web.archive.org/web/20251211022358im_/http://i.annihil.us/u/prod/marvel/i/content/12152733322_thumb1950906.jpg)](http://i.annihil.us/u/prod/marvel/i/content/12152storystory_full-1950783..jpg)
+Недавно мы выкладывали [тизеры нового направления комиксов о **Людях Икс** *(X-Men)*](../second-coming-chto-dalshe/), а слухи говорили нам о том, что команде известных мутантов придется столкнуться с вампирами. Эта информация была недавно подтверждена, но об этом в другой новости. Сейчас же мы предлагаем обратить ваше внимание на **Ultimate Universe**, а именно на **Ultimate Avengers** за авторством **Марка Миллара** *(Mark Millar)*. [![](https://web.archive.org/web/20251211022358im_/http://i.annihil.us/u/prod/marvel/i/content/12152733322_thumb1950906.jpg)](http://i.annihil.us/u/prod/marvel/i/content/12152storystory_full-1950783..jpg)
 Скетч чернокожего **Халка** *(Hulk)* для **Ultimate Avengers 2**
 Как только в сети появился тизер с вампиром **Джубили** *(Jubillee)*, **Марк** на [своем форуме](http://forums.millarworld.tv/index.php?showforum=1), начал активно обсуждать тот факт, что у него украли идею для **Ultimate Avengers 3**, ведь именно он, ещё несколько лет назад, придумал историю о том, как вампиры будут атаковать мутантов.
 [![](https://web.archive.org/web/20251211022358im_/http://i.annihil.us/u/prod/marvel/i/content/12152storystory_thumb-1950775..jpg)](http://i.annihil.us/u/prod/marvel/i/content/12152storystory_full-1950774..jpg) [![](https://web.archive.org/web/20251211022358im_/http://i.annihil.us/u/prod/marvel/i/content/12152storystory_thumb-1950777..jpg)](http://i.annihil.us/u/prod/marvel/i/content/12152storystory_full-1950776..jpg) [![](https://web.archive.org/web/20251211022358im_/http://i.annihil.us/u/prod/marvel/i/content/12152storystory_thumb-1950782..jpg)](http://i.annihil.us/u/prod/marvel/i/content/12152storystory_full-1950781..jpg)

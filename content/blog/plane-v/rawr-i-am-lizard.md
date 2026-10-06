@@ -1,12 +1,18 @@
 {
   "title": "rawr i am a lizard",
-  "date": "2010-06-28T19:58:00+03:00",
+  "date": "2010-06-28T18:58:27+03:00",
   "url": "/blog/plane-v/rawr-i-am-lizard/",
   "original_url": "http://spidermedia.ru/blog/plane-v/rawr-i-am-lizard",
   "archived": "https://web.archive.org/web/20260211174618/http://spidermedia.ru/blog/plane-v/rawr-i-am-lizard",
   "tags": [
     "ed-brubaker",
     "dzhejms-stokoi"
+  ],
+  "cover": "https://web.archive.org/web/20260211174618im_/http://spidermedia.ru/assets/images/import_image/2694.jpg",
+  "modx_id": 2694,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

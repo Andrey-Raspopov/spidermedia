@@ -9,6 +9,12 @@
     "komilfo",
     "recenziya"
   ],
+  "cover": "https://web.archive.org/web/20251216185919im_/http://spidermedia.ru/assets/images/news/images/oleg-lyfar/review/beauty/mini-cover.png",
+  "modx_id": 102328,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

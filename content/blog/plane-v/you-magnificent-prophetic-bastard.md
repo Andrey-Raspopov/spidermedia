@@ -1,12 +1,18 @@
 {
   "title": "You magnificent prophetic bastard",
-  "date": "2011-09-24T13:59:00+03:00",
+  "date": "2011-09-24T12:59:06+03:00",
   "url": "/blog/plane-v/you-magnificent-prophetic-bastard/",
   "original_url": "https://spidermedia.ru/blog/plane-v/you-magnificent-prophetic-bastard",
   "archived": "https://web.archive.org/web/20250806061545/https://spidermedia.ru/blog/plane-v/you-magnificent-prophetic-bastard",
   "tags": [
     "alan-mur",
     "promethea"
+  ],
+  "cover": "https://web.archive.org/web/20250806061545im_/http://spidermedia.ru/assets/images/import_image/6616.jpg",
+  "modx_id": 6616,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

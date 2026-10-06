@@ -1,11 +1,17 @@
 {
   "title": "IWD",
-  "date": "2009-03-08T19:06:00+03:00",
+  "date": "2009-03-08T18:06:05+03:00",
   "url": "/blog/naya/iwd/",
   "original_url": "http://spidermedia.ru/blog/naya/iwd",
   "archived": "https://web.archive.org/web/20120607111111/http://spidermedia.ru/blog/naya/iwd",
   "tags": [
     "art"
+  ],
+  "cover": "https://web.archive.org/web/20120607111111im_/http://spidermedia.ru/assets/images/import_image/626.jpg",
+  "modx_id": 626,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

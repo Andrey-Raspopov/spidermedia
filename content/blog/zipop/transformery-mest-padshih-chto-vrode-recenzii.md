@@ -1,7 +1,10 @@
 {
   "title": "Трансформеры: Месть падших (что-то вроде рецензии)",
-  "date": "2009-06-24T20:51:00+03:00",
+  "date": "2009-06-24T19:51:27+03:00",
   "url": "/blog/zipop/transformery-mest-padshih-chto-vrode-recenzii/",
+  "aliases": [
+    "/node/1475/"
+  ],
   "original_url": "https://spidermedia.ru/blog/zipop/transformery-mest-padshih-chto-vrode-recenzii",
   "archived": "https://web.archive.org/web/20260208195425/https://spidermedia.ru/blog/zipop/transformery-mest-padshih-chto-vrode-recenzii",
   "tags": [
@@ -9,6 +12,12 @@
     "recenziya",
     "majkl-bej",
     "transformers"
+  ],
+  "cover": "https://web.archive.org/web/20260208195425im_/http://spidermedia.ru/assets/images/import_image/1475.jpg",
+  "modx_id": 1475,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

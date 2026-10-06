@@ -1,12 +1,18 @@
 {
   "title": "\"Дюна\" Алехандро Ходоровски",
-  "date": "2014-02-16T16:49:00+03:00",
+  "date": "2014-02-16T15:49:59+03:00",
   "url": "/news/dyuna-alehandro-hodorovski/",
   "original_url": "http://spidermedia.ru/news/dyuna-alehandro-hodorovski",
   "archived": "https://web.archive.org/web/20250913010143/http://spidermedia.ru/news/dyuna-alehandro-hodorovski",
   "tags": [
     "myobius",
     "dokumentalnoe-kino"
+  ],
+  "cover": "https://web.archive.org/web/20250913010143im_/http://spidermedia.ru/assets/images/import_image/7643.jpg",
+  "modx_id": 7643,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

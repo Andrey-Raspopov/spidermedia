@@ -8,6 +8,12 @@
     "dynamite-entertainment",
     "warren-ellis"
   ],
+  "cover": "https://web.archive.org/web/20251205113454im_/http://spidermedia.ru/assets/images/news/dynamite/bondreardon-e32d33.jpg",
+  "modx_id": 100323,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,7 +1,10 @@
 {
   "title": "Еще больше Трансформеров",
-  "date": "2009-02-12T20:49:00+03:00",
+  "date": "2009-02-12T20:49:35+03:00",
   "url": "/news/eshche-bolshe-transformerov/",
+  "aliases": [
+    "/node/332/"
+  ],
   "original_url": "http://spidermedia.ru/news/eshche-bolshe-transformerov",
   "archived": "https://web.archive.org/web/20260121014012/http://spidermedia.ru/news/eshche-bolshe-transformerov",
   "tags": [
@@ -11,6 +14,12 @@
     "sajmon-furman",
     "majk-kosta",
     "transformers"
+  ],
+  "cover": "https://web.archive.org/web/20260121014012im_/http://spidermedia.ru/assets/images/import_image/332.jpg",
+  "modx_id": 332,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

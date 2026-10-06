@@ -1,6 +1,6 @@
 {
   "title": "Ну хоть на стену вешай...",
-  "date": "2009-05-10T00:14:00+03:00",
+  "date": "2009-05-09T23:14:25+03:00",
   "url": "/news/nu-hot-na-stenu-veshay/",
   "original_url": "http://spidermedia.ru/news/nu-hot-na-stenu-veshay",
   "archived": "https://web.archive.org/web/20250807231630/http://spidermedia.ru/news/nu-hot-na-stenu-veshay",
@@ -10,6 +10,12 @@
     "power-girl",
     "pauer-gyorl",
     "justice-league"
+  ],
+  "cover": "https://web.archive.org/web/20250807231630im_/http://spidermedia.ru/assets/images/import_image/1140.jpg",
+  "modx_id": 1140,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

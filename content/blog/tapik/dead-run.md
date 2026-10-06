@@ -1,12 +1,18 @@
 {
   "title": "Dead run",
-  "date": "2009-07-16T11:43:00+03:00",
+  "date": "2009-07-16T10:43:14+03:00",
   "url": "/blog/tapik/dead-run/",
   "original_url": "https://spidermedia.ru/blog/tapik/dead-run",
   "archived": "https://web.archive.org/web/20240614193933/https://spidermedia.ru/blog/tapik/dead-run",
   "tags": [
     "boom-studios",
     "dead-run"
+  ],
+  "cover": "https://web.archive.org/web/20240614193933im_/http://spidermedia.ru/assets/images/import_image/1573.jpg",
+  "modx_id": 1573,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

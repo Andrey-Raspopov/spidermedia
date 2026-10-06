@@ -1,14 +1,24 @@
 {
   "title": "Женатый Питер Бенджамин Паркер",
-  "date": "2009-05-27T18:28:00+03:00",
+  "date": "2009-05-27T17:28:42+03:00",
   "url": "/blog/silver/zhenatyy-piter-bendzhamin-parker/",
+  "aliases": [
+    "/node/1286/"
+  ],
   "original_url": "http://spidermedia.ru/blog/silver/zhenatyy-piter-bendzhamin-parker",
   "archived": "https://web.archive.org/web/20260125070705/http://spidermedia.ru/blog/silver/zhenatyy-piter-bendzhamin-parker",
   "tags": [
     "sluhi",
     "art-0",
     "marvel",
-    "spider-man"
+    "spider-man",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20260125070705im_/http://spidermedia.ru/assets/images/import_image/1286.jpg",
+  "modx_id": 1286,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

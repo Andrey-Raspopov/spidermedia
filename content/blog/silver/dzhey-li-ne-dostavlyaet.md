@@ -1,13 +1,22 @@
 {
   "title": "Джей Ли не доставляет",
-  "date": "2009-05-05T23:59:00+03:00",
+  "date": "2009-05-05T22:59:06+03:00",
   "url": "/blog/silver/dzhey-li-ne-dostavlyaet/",
+  "aliases": [
+    "/node/1112/"
+  ],
   "original_url": "http://spidermedia.ru/blog/silver/dzhey-li-ne-dostavlyaet",
   "archived": "https://web.archive.org/web/20131206153658/http://spidermedia.ru:80/blog/silver/dzhey-li-ne-dostavlyaet",
   "tags": [
     "art-0",
     "dzhey-li",
     "oblozhki"
+  ],
+  "cover": "https://web.archive.org/web/20150315210246im_/http://spidermedia.ru/assets/images/ecahznqzhc4.jpg",
+  "modx_id": 1112,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "\"Мстители\": Встречайте Марию Хилл",
-  "date": "2011-03-26T03:29:00+03:00",
+  "date": "2011-03-26T02:29:15+03:00",
   "url": "/news/mstiteli-vstrechayte-mariyu-hill/",
   "original_url": "http://spidermedia.ru/news/mstiteli-vstrechayte-mariyu-hill",
   "archived": "https://web.archive.org/web/20140417010758/http://spidermedia.ru:80/news/mstiteli-vstrechayte-mariyu-hill",
@@ -8,6 +8,12 @@
     "movie",
     "marvel",
     "avengers"
+  ],
+  "cover": "https://web.archive.org/web/20140417010758im_/http://spidermedia.ru/assets/images/import_image/4448.jpg",
+  "modx_id": 4448,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

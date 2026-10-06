@@ -8,6 +8,12 @@
     "marvel",
     "thor"
   ],
+  "cover": "https://web.archive.org/web/20250807225112im_/http://spidermedia.ru/assets/images/reviews/marvel/thor/cates1-14/001.png",
+  "modx_id": 102379,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

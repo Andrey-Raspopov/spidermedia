@@ -1,13 +1,21 @@
 {
   "title": "Тестовый ролик \"Наследия Трона\" в HD",
-  "date": "2009-07-26T19:52:00+03:00",
+  "date": "2009-07-26T18:52:54+03:00",
   "url": "/blog/zipop/testovyy-rolik-naslediya-trona-v-hd/",
+  "aliases": [
+    "/node/1675/"
+  ],
   "original_url": "https://spidermedia.ru/blog/zipop/testovyy-rolik-naslediya-trona-v-hd",
   "archived": "https://web.archive.org/web/20260208194109/https://spidermedia.ru/blog/zipop/testovyy-rolik-naslediya-trona-v-hd",
   "tags": [
     "trejlery",
     "tron-legacy",
     "nasledie-trona"
+  ],
+  "modx_id": 1675,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

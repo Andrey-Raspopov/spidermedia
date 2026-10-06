@@ -1,11 +1,17 @@
 {
   "title": "Единственный в мире малыш Школопёс",
-  "date": "2014-06-11T16:01:00+03:00",
+  "date": "2014-06-11T15:01:04+03:00",
   "url": "/news/edinstvennyy-v-mire-malysh-shkolopyos/",
   "original_url": "http://spidermedia.ru/news/edinstvennyy-v-mire-malysh-shkolopyos",
   "archived": "https://web.archive.org/web/20260125065145/http://spidermedia.ru/news/edinstvennyy-v-mire-malysh-shkolopyos",
   "tags": [
     "boom-studios"
+  ],
+  "cover": "https://web.archive.org/web/20260125065145im_/http://spidermedia.ru/assets/images/import_image/7808.jpg",
+  "modx_id": 7808,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

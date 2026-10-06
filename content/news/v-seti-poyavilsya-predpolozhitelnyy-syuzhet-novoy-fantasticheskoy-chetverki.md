@@ -1,12 +1,18 @@
 {
   "title": "В Сети появился предположительный сюжет новой «Фантастической четверки»",
-  "date": "2014-11-18T16:30:00+03:00",
+  "date": "2014-11-18T16:30:09+03:00",
   "url": "/news/v-seti-poyavilsya-predpolozhitelnyy-syuzhet-novoy-fantasticheskoy-chetverki/",
   "original_url": "https://spidermedia.ru/news/v-seti-poyavilsya-predpolozhitelnyy-syuzhet-novoy-fantasticheskoy-chetverki",
   "archived": "https://web.archive.org/web/20260121000115/https://spidermedia.ru/news/v-seti-poyavilsya-predpolozhitelnyy-syuzhet-novoy-fantasticheskoy-chetverki",
   "tags": [
     "fantastic-four",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20260121000115im_/http://spidermedia.ru/assets/images/import_image/8298.jpg",
+  "modx_id": 8298,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

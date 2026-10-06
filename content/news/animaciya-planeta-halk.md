@@ -1,7 +1,10 @@
 {
   "title": "Анимация \"Планета Халк\"",
-  "date": "2009-07-28T19:17:00+03:00",
+  "date": "2009-07-28T18:17:47+03:00",
   "url": "/news/animaciya-planeta-halk/",
+  "aliases": [
+    "/node/1682/"
+  ],
   "original_url": "http://spidermedia.ru/news/animaciya-planeta-halk",
   "archived": "https://web.archive.org/web/20260117232019/http://spidermedia.ru/news/animaciya-planeta-halk",
   "tags": [
@@ -12,11 +15,16 @@
     "greg-pak",
     "lionsgate"
   ],
+  "modx_id": 1682,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-Во время презентации [аниме-проекта Марвел](../../node/1654/) на Комик-Коне в Сан Диего был также представлен трейлер следующей анимационной ленты тандема **Marvel & Lionsgate** *(последняя их работа - "Hulk Vs ...")* под названием **"Planet Hulk"**.
+Во время презентации [аниме-проекта Марвел](../../blog/ironman/sdcc09-marvel-anime/) на Комик-Коне в Сан Диего был также представлен трейлер следующей анимационной ленты тандема **Marvel & Lionsgate** *(последняя их работа - "Hulk Vs ...")* под названием **"Planet Hulk"**.
 
 ![](https://web.archive.org/web/20150428172352im_/http://spidermedia.ru/assets/cache/images/youtube/622x350-o29J2FE4ygE.3e9.jpg)
 

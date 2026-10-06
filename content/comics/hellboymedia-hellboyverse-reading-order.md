@@ -8,6 +8,12 @@
     "hellboymedia",
     "reading-order"
   ],
+  "cover": "https://web.archive.org/web/20160405124329im_/http://spidermedia.ru/assets/images/hellboymedia/guide/hellboyverse-reading-order/hellboyverse-reading-order-cover.png",
+  "modx_id": 100299,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

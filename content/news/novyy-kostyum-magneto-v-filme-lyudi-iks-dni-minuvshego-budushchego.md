@@ -1,6 +1,6 @@
 {
   "title": "Новый костюм Магнето в фильме \"Люди Икс: Дни Минувшего будущего\"",
-  "date": "2013-11-01T11:29:00+03:00",
+  "date": "2013-11-01T10:29:24+03:00",
   "url": "/news/novyy-kostyum-magneto-v-filme-lyudi-iks-dni-minuvshego-budushchego/",
   "original_url": "http://spidermedia.ru/news/novyy-kostyum-magneto-v-filme-lyudi-iks-dni-minuvshego-budushchego",
   "archived": "https://web.archive.org/web/20260309003402/http://spidermedia.ru/news/novyy-kostyum-magneto-v-filme-lyudi-iks-dni-minuvshego-budushchego",
@@ -10,7 +10,15 @@
     "days-of-future-past",
     "magneto",
     "zver",
-    "marvel"
+    "marvel",
+    "lyudi-iks",
+    "dni-minuvshego-budushhego"
+  ],
+  "cover": "https://web.archive.org/web/20150424123200im_/http://spidermedia.ru/assets/images/import_image/7526.jpg",
+  "modx_id": 7526,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

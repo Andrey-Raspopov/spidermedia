@@ -1,7 +1,10 @@
 {
   "title": "Видеорепортаж со съёмок фильма \"Железный Человек 2\"",
-  "date": "2009-09-25T06:09:00+03:00",
+  "date": "2009-09-25T05:09:12+03:00",
   "url": "/news/videoreportazh-so-syomok-filma-zheleznyy-chelovek-2/",
+  "aliases": [
+    "/node/1930/"
+  ],
   "original_url": "http://spidermedia.ru/news/videoreportazh-so-syomok-filma-zheleznyy-chelovek-2",
   "archived": "https://web.archive.org/web/20120608064330/http://spidermedia.ru/news/videoreportazh-so-syomok-filma-zheleznyy-chelovek-2",
   "tags": [
@@ -15,6 +18,11 @@
     "komiksy",
     "marvel",
     "reportazh"
+  ],
+  "modx_id": 1930,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

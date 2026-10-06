@@ -1,6 +1,6 @@
 {
   "title": "Ретро-постер \"Первого мстителя\" (Капитан Америка)",
-  "date": "2011-06-13T10:40:00+03:00",
+  "date": "2011-06-13T09:40:50+03:00",
   "url": "/news/retro-poster-pervogo-mstitelya-kapitan-amerika/",
   "original_url": "https://spidermedia.ru/news/retro-poster-pervogo-mstitelya-kapitan-amerika",
   "archived": "https://web.archive.org/web/20250913015501/https://spidermedia.ru/news/retro-poster-pervogo-mstitelya-kapitan-amerika",
@@ -8,6 +8,12 @@
     "postery",
     "marvel",
     "captain-america"
+  ],
+  "cover": "https://web.archive.org/web/20250913015501im_/http://spidermedia.ru/assets/images/import_image/6443.jpg",
+  "modx_id": 6443,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

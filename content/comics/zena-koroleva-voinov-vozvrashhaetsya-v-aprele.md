@@ -7,6 +7,12 @@
   "tags": [
     "dynamite-entertainment"
   ],
+  "cover": "https://web.archive.org/web/20180205120300im_/http://spidermedia.ru/assets/images/news/dynamite/xena-2016_.jpg",
+  "modx_id": 100828,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

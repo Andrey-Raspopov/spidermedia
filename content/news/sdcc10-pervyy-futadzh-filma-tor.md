@@ -1,14 +1,24 @@
 {
   "title": "SDCC'10: Первый футадж фильма \"Тор\"",
-  "date": "2010-07-29T12:00:00+03:00",
+  "date": "2010-07-29T11:00:22+03:00",
   "url": "/news/sdcc10-pervyy-futadzh-filma-tor/",
+  "aliases": [
+    "/node/2820/"
+  ],
   "original_url": "https://spidermedia.ru/news/sdcc10-pervyy-futadzh-filma-tor",
   "archived": "https://web.archive.org/web/20251115190853/https://spidermedia.ru/news/sdcc10-pervyy-futadzh-filma-tor",
   "tags": [
     "san-diego-comic-con-international",
     "thor",
     "marvel",
-    "futazh"
+    "futazh",
+    "tor"
+  ],
+  "cover": "https://web.archive.org/web/20160611145346im_/http://spidermedia.ru/assets/images/movies/marvel/thor-movie-2011/marvel-thor-movie-poster-2011.jpg",
+  "modx_id": 2820,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

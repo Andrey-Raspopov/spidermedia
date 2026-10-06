@@ -1,6 +1,6 @@
 {
   "title": "Ниндзя и Гидра Боб 2",
-  "date": "2011-07-14T03:43:00+03:00",
+  "date": "2011-07-14T02:43:37+03:00",
   "url": "/news/ninzya-i-gidra-bob-2/",
   "original_url": "http://spidermedia.ru/news/ninzya-i-gidra-bob-2",
   "archived": "https://web.archive.org/web/20251006143048/http://spidermedia.ru/news/ninzya-i-gidra-bob-2",
@@ -10,7 +10,14 @@
     "deadpool",
     "devid-lafem",
     "art-0",
-    "marvel"
+    "marvel",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20251006143048im_/http://spidermedia.ru/assets/images/import_image/6494.jpg",
+  "modx_id": 6494,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

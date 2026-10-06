@@ -4,6 +4,12 @@
   "url": "/comics/mnenie-bakuman/",
   "original_url": "https://spidermedia.ru/comics/mnenie-bakuman",
   "archived": "https://web.archive.org/web/20241211225523/https://spidermedia.ru/comics/mnenie-bakuman",
+  "cover": "https://web.archive.org/web/20241211225523im_/http://spidermedia.ru/assets/images/manga/bakuman/1525638949_1.jpg",
+  "modx_id": 102271,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

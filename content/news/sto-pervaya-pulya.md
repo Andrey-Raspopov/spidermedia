@@ -1,6 +1,6 @@
 {
   "title": "Сто первая пуля",
-  "date": "2013-03-02T07:22:00+03:00",
+  "date": "2013-03-02T06:22:39+03:00",
   "url": "/news/sto-pervaya-pulya/",
   "original_url": "https://spidermedia.ru/news/sto-pervaya-pulya",
   "archived": "https://web.archive.org/web/20251108184454/https://spidermedia.ru/news/sto-pervaya-pulya",
@@ -8,6 +8,12 @@
     "eduardo-risso",
     "brian-azzarello",
     "vertigo"
+  ],
+  "cover": "https://web.archive.org/web/20160611144715im_/http://spidermedia.ru/assets/images/import_image/7154.jpg",
+  "modx_id": 7154,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

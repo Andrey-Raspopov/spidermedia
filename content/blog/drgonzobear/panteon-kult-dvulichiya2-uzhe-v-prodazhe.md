@@ -1,6 +1,6 @@
 {
   "title": "Пантеон: Культ двуличия #2 уже в продаже",
-  "date": "2012-12-09T15:37:00+03:00",
+  "date": "2012-12-09T14:37:52+03:00",
   "url": "/blog/drgonzobear/panteon-kult-dvulichiya2-uzhe-v-prodazhe/",
   "original_url": "http://spidermedia.ru/blog/drgonzobear/panteon-kult-dvulichiya2-uzhe-v-prodazhe",
   "archived": "https://web.archive.org/web/20210118150152/http://spidermedia.ru/blog/drgonzobear/panteon-kult-dvulichiya2-uzhe-v-prodazhe",
@@ -9,6 +9,11 @@
     "russian-comics",
     "kult-dvulichiya",
     "miscreant"
+  ],
+  "modx_id": 7100,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

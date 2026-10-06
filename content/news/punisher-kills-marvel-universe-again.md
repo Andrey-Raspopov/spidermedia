@@ -1,12 +1,18 @@
 {
   "title": "Punisher Kills the Marvel Universe... Again?",
-  "date": "2012-07-17T04:06:00+03:00",
+  "date": "2012-07-17T03:06:48+03:00",
   "url": "/news/punisher-kills-marvel-universe-again/",
   "original_url": "http://spidermedia.ru/news/punisher-kills-marvel-universe-again",
   "archived": "https://web.archive.org/web/20250618121709/http://spidermedia.ru/news/punisher-kills-marvel-universe-again",
   "tags": [
     "punisher",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150326182354im_/http://spidermedia.ru/assets/images/import_image/6948.jpg",
+  "modx_id": 6948,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

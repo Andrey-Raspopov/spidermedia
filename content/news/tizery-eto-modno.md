@@ -1,13 +1,22 @@
 {
   "title": "Тизеры - это модно",
-  "date": "2010-05-07T05:28:00+03:00",
+  "date": "2010-05-07T04:28:00+03:00",
   "url": "/news/tizery-eto-modno/",
+  "aliases": [
+    "/node/2539/"
+  ],
   "original_url": "http://spidermedia.ru/news/tizery-eto-modno",
   "archived": "https://web.archive.org/web/20260121010910/http://spidermedia.ru/news/tizery-eto-modno",
   "tags": [
     "nik-spenser",
     "nick-spencer",
     "image-comics"
+  ],
+  "cover": "https://web.archive.org/web/20260121010910im_/http://spidermedia.ru/assets/images/import_image/2539.jpg",
+  "modx_id": 2539,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

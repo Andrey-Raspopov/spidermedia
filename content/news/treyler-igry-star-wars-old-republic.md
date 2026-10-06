@@ -1,6 +1,6 @@
 {
   "title": "Трейлер игры Star Wars: The Old Republic",
-  "date": "2009-06-02T17:03:00+03:00",
+  "date": "2009-06-02T16:03:29+03:00",
   "url": "/news/treyler-igry-star-wars-old-republic/",
   "original_url": "http://spidermedia.ru/news/treyler-igry-star-wars-old-republic",
   "archived": "https://web.archive.org/web/20260211192534/http://spidermedia.ru/news/treyler-igry-star-wars-old-republic",
@@ -9,6 +9,11 @@
     "trejlery",
     "star-wars",
     "zvezdnye-vojny"
+  ],
+  "modx_id": 1329,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

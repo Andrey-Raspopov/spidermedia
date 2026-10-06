@@ -9,6 +9,12 @@
     "green-arrow",
     "suicide-squad"
   ],
+  "cover": "https://web.archive.org/web/20251014041827im_/http://spidermedia.ru/assets/images/news/dc/michael-rowe/deadshot.png",
+  "modx_id": 100217,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

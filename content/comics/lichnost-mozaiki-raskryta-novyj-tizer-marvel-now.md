@@ -7,6 +7,12 @@
   "tags": [
     "marvel"
   ],
+  "cover": "https://web.archive.org/web/20240908074114im_/http://spidermedia.ru/assets/images/news/marvel/mosaic/mosaic0_1.jpg",
+  "modx_id": 101229,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

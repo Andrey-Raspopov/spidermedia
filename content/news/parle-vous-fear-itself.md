@@ -1,6 +1,6 @@
 {
   "title": "Parle vous Fear Itself?",
-  "date": "2011-03-12T11:42:00+03:00",
+  "date": "2011-03-12T11:42:30+03:00",
   "url": "/news/parle-vous-fear-itself/",
   "original_url": "https://spidermedia.ru/news/parle-vous-fear-itself",
   "archived": "https://web.archive.org/web/20251211034923/https://spidermedia.ru/news/parle-vous-fear-itself",
@@ -9,6 +9,12 @@
     "kallen-bann",
     "piter-nguen",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20251211034923im_/http://spidermedia.ru/assets/images/import_image/4086.jpg",
+  "modx_id": 4086,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

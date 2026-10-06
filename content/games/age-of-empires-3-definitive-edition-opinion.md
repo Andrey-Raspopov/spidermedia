@@ -4,6 +4,12 @@
   "url": "/games/age-of-empires-3-definitive-edition-opinion/",
   "original_url": "http://spidermedia.ru/games/age-of-empires-3-definitive-edition-opinion",
   "archived": "https://web.archive.org/web/20250807231603/http://spidermedia.ru/games/age-of-empires-3-definitive-edition-opinion",
+  "cover": "https://web.archive.org/web/20250807231603im_/http://spidermedia.ru/assets/images/games/capturegb.png",
+  "modx_id": 102293,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

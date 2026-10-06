@@ -7,6 +7,12 @@
   "tags": [
     "valiant-entertainment"
   ],
+  "cover": "https://web.archive.org/web/20260125061912im_/http://spidermedia.ru/assets/images/valiant/valiant-and-sony-five-picture-deal/02-harbinger-wars.jpg",
+  "modx_id": 100170,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

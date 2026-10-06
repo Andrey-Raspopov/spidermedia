@@ -1,14 +1,24 @@
 {
   "title": "Hex",
-  "date": "2009-02-25T00:21:00+03:00",
+  "date": "2009-02-25T00:21:54+03:00",
   "url": "/news/hex/",
+  "aliases": [
+    "/node/503/"
+  ],
   "original_url": "http://spidermedia.ru/news/hex",
   "archived": "https://web.archive.org/web/20230323041503/http://spidermedia.ru/news/hex",
   "tags": [
     "serialy",
     "zatanna",
     "smallville",
-    "dc-comics"
+    "dc-comics",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20230323041503im_/http://spidermedia.ru/assets/images/import_image/503.jpg",
+  "modx_id": 503,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

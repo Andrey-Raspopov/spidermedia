@@ -4,6 +4,12 @@
   "url": "/comics/enter-the-void-002-rubinovye-mechty/",
   "original_url": "http://spidermedia.ru/comics/enter-the-void-002-rubinovye-mechty",
   "archived": "https://web.archive.org/web/20190907233835/http://spidermedia.ru:80/comics/enter-the-void-002-rubinovye-mechty",
+  "cover": "https://web.archive.org/web/20190907233835im_/http://spidermedia.ru/assets/images/manga/ev/ev_002.jpg",
+  "modx_id": 101809,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

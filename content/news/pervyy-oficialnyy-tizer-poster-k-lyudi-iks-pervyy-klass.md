@@ -1,13 +1,23 @@
 {
   "title": "Первый официальный тизер-постер к \"Люди Икс: Первый класс\"",
-  "date": "2011-01-20T00:30:00+03:00",
+  "date": "2011-01-20T00:30:30+03:00",
   "url": "/news/pervyy-oficialnyy-tizer-poster-k-lyudi-iks-pervyy-klass/",
+  "aliases": [
+    "/node/3170/"
+  ],
   "original_url": "http://spidermedia.ru/news/pervyy-oficialnyy-tizer-poster-k-lyudi-iks-pervyy-klass",
   "archived": "https://web.archive.org/web/20260125055350/http://spidermedia.ru/news/pervyy-oficialnyy-tizer-poster-k-lyudi-iks-pervyy-klass",
   "tags": [
     "lyudi-iks-pervyj-klass",
     "x-men-first-class",
-    "x-men"
+    "x-men",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20180211034501im_/http://spidermedia.ru/assets/images/import_image/3170.jpg",
+  "modx_id": 3170,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

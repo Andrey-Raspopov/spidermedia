@@ -4,6 +4,9 @@
   "url": "/comics2movie/n/nightbreed/nightbreed/",
   "original_url": "http://www.spidermedia.ru/comics2movie/n/nightbreed/nightbreed.html",
   "archived": "https://web.archive.org/web/20050526211026/http://www.spidermedia.ru:80/comics2movie/n/nightbreed/nightbreed.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

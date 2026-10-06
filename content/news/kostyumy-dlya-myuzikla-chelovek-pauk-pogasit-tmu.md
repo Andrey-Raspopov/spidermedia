@@ -1,7 +1,10 @@
 {
   "title": "Костюмы для мюзикла \"Человек-Паук: Погасить тьму\"",
-  "date": "2010-11-15T14:39:00+03:00",
+  "date": "2010-11-15T14:39:33+03:00",
   "url": "/news/kostyumy-dlya-myuzikla-chelovek-pauk-pogasit-tmu/",
+  "aliases": [
+    "/node/3066/"
+  ],
   "original_url": "https://spidermedia.ru/news/kostyumy-dlya-myuzikla-chelovek-pauk-pogasit-tmu",
   "archived": "https://web.archive.org/web/20250806044153/https://spidermedia.ru/news/kostyumy-dlya-myuzikla-chelovek-pauk-pogasit-tmu",
   "tags": [
@@ -9,6 +12,12 @@
     "spider-man-turn-off-the-dark",
     "marvel",
     "spider-man"
+  ],
+  "cover": "https://web.archive.org/web/20250806044153im_/http://spidermedia.ru/assets/images/import_image/3066.jpg",
+  "modx_id": 3066,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -8,6 +8,12 @@
     "wildstorm",
     "warren-ellis"
   ],
+  "cover": "https://web.archive.org/web/20170312050434im_/http://spidermedia.ru/assets/images/news/dc/wildstorm/ws-character-design-engineer-01.jpg",
+  "modx_id": 101356,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

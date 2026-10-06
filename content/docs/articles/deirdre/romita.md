@@ -4,6 +4,9 @@
   "url": "/docs/articles/deirdre/romita/",
   "original_url": "http://spidermedia.ru/docs/articles/deirdre/romita.html",
   "archived": "https://web.archive.org/web/20051201123004/http://spidermedia.ru:80/docs/articles/deirdre/romita.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

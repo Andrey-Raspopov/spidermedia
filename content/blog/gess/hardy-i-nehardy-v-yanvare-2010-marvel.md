@@ -1,11 +1,21 @@
 {
   "title": "Харды и нехарды в январе 2010 - Marvel",
-  "date": "2010-01-18T02:15:00+03:00",
+  "date": "2010-01-18T01:15:02+03:00",
   "url": "/blog/gess/hardy-i-nehardy-v-yanvare-2010-marvel/",
+  "aliases": [
+    "/node/2281/"
+  ],
   "original_url": "http://spidermedia.ru/blog/gess/hardy-i-nehardy-v-yanvare-2010-marvel",
   "archived": "https://web.archive.org/web/20120512081320/http://spidermedia.ru/blog/gess/hardy-i-nehardy-v-yanvare-2010-marvel",
   "tags": [
-    "hnh"
+    "hnh",
+    "handnh"
+  ],
+  "cover": "https://web.archive.org/web/20120512081320im_/http://spidermedia.ru/assets/images/import_image/2281.jpg",
+  "modx_id": 2281,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"
@@ -72,7 +82,7 @@ NOT HEEEEEEAAAL
 
 *X-Men vs. Fantastic Four HC* – Cиквел Mutant Massacre, сценаристом которого был сам Клэрмонт, художником *ouch* – человек, иллюстрировавший Пауэр Пэк.
 
-*X-Men: Mutant Massacre HC* – Мой читательский [нерд-адвенчер месяца](../../../node/2206/).
+*X-Men: Mutant Massacre HC* – Мой читательский [нерд-адвенчер месяца](../ya-i-mutant-massacre-pt1/).
 
 в тпб из хардов
 *Captain America: Road to Reborn* (!)

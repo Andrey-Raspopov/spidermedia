@@ -1,6 +1,6 @@
 {
   "title": "Arkham City: Результаты викторины",
-  "date": "2011-11-14T15:21:00+03:00",
+  "date": "2011-11-14T14:21:34+03:00",
   "url": "/news/arkham-city-rezultaty-viktoriny/",
   "original_url": "https://spidermedia.ru/news/arkham-city-rezultaty-viktoriny",
   "archived": "https://web.archive.org/web/20251216175120/https://spidermedia.ru/news/arkham-city-rezultaty-viktoriny",
@@ -10,6 +10,12 @@
     "dc-comics",
     "batman",
     "arkham-asylum"
+  ],
+  "cover": "https://web.archive.org/web/20150326062321im_/http://spidermedia.ru/assets/images/import_image/6696.png",
+  "modx_id": 6696,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

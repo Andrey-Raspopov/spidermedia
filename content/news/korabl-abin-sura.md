@@ -1,12 +1,18 @@
 {
   "title": "Корабль Абин Сура",
-  "date": "2010-04-06T20:27:00+03:00",
+  "date": "2010-04-06T19:27:02+03:00",
   "url": "/news/korabl-abin-sura/",
   "original_url": "http://spidermedia.ru/news/korabl-abin-sura",
   "archived": "https://web.archive.org/web/20250806085222/http://spidermedia.ru/news/korabl-abin-sura",
   "tags": [
     "green-lantern",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20250806085222im_/http://spidermedia.ru/assets/images/import_image/2514.jpg",
+  "modx_id": 2514,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

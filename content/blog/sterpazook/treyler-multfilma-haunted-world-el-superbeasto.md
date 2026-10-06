@@ -1,7 +1,10 @@
 {
   "title": "Трейлер мультфильма THE HAUNTED WORLD OF EL SUPERBEASTO",
-  "date": "2009-08-20T13:10:00+03:00",
+  "date": "2009-08-20T12:10:28+03:00",
   "url": "/blog/sterpazook/treyler-multfilma-haunted-world-el-superbeasto/",
+  "aliases": [
+    "/node/1807/"
+  ],
   "original_url": "http://spidermedia.ru/blog/sterpazook/treyler-multfilma-haunted-world-el-superbeasto",
   "archived": "https://web.archive.org/web/20250519183218/http://spidermedia.ru/blog/sterpazook/treyler-multfilma-haunted-world-el-superbeasto",
   "tags": [
@@ -10,6 +13,11 @@
     "rob-zombie",
     "rob-zombi",
     "el-superbeasto"
+  ],
+  "modx_id": 1807,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

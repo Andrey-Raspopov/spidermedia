@@ -9,6 +9,12 @@
     "zarubezhnye-komiksy-na-russkom",
     "obzor"
   ],
+  "cover": "https://web.archive.org/web/20160611163036im_/http://spidermedia.ru/assets/images/hellboymedia/local/review-hellboy-vol-02/hellboy-wake-the-devil-russian-edition-cover.jpg",
+  "modx_id": 100472,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

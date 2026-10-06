@@ -1,7 +1,10 @@
 {
   "title": "Кому нужны порно-зомби?",
-  "date": "2009-03-31T21:00:00+03:00",
+  "date": "2009-03-31T20:00:55+03:00",
   "url": "/news/komu-nuzhny-porno-zombi/",
+  "aliases": [
+    "/node/819/"
+  ],
   "original_url": "http://spidermedia.ru/news/komu-nuzhny-porno-zombi",
   "archived": "https://web.archive.org/web/20200127141510/http://spidermedia.ru:80/news/komu-nuzhny-porno-zombi",
   "tags": [
@@ -13,6 +16,12 @@
     "rick-remender",
     "kajron-duajer",
     "kieron-dwyer"
+  ],
+  "cover": "https://web.archive.org/web/20200127141510im_/http://spidermedia.ru/assets/images/import_image/819.jpg",
+  "modx_id": 819,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Supersonic youth",
-  "date": "2012-10-10T05:55:00+03:00",
+  "date": "2012-10-10T04:55:02+03:00",
   "url": "/news/supersonic-youth/",
   "original_url": "http://spidermedia.ru/news/supersonic-youth",
   "archived": "https://web.archive.org/web/20260209121122/http://spidermedia.ru/news/supersonic-youth",
@@ -10,6 +10,12 @@
     "dzheymi-makkelvi",
     "young-avengers",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150428232137im_/http://spidermedia.ru/assets/images/import_image/7051.jpg",
+  "modx_id": 7051,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

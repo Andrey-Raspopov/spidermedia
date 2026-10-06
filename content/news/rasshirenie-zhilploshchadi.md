@@ -1,7 +1,10 @@
 {
   "title": "Расширение жилплощади",
-  "date": "2009-12-13T15:06:00+03:00",
+  "date": "2009-12-13T15:06:09+03:00",
   "url": "/news/rasshirenie-zhilploshchadi/",
+  "aliases": [
+    "/node/2168/"
+  ],
   "original_url": "https://spidermedia.ru/news/rasshirenie-zhilploshchadi",
   "archived": "https://web.archive.org/web/20260314075821/https://spidermedia.ru/news/rasshirenie-zhilploshchadi",
   "tags": [
@@ -10,6 +13,12 @@
     "dc-comics",
     "batman",
     "arkham-asylum"
+  ],
+  "cover": "https://web.archive.org/web/20260314075821im_/http://spidermedia.ru/assets/images/import_image/2168.jpg",
+  "modx_id": 2168,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

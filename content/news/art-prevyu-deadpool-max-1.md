@@ -1,7 +1,10 @@
 {
   "title": "Арт-Превью Deadpool MAX #1",
-  "date": "2010-08-21T18:36:00+03:00",
+  "date": "2010-08-21T17:36:17+03:00",
   "url": "/news/art-prevyu-deadpool-max-1/",
+  "aliases": [
+    "/node/2867/"
+  ],
   "original_url": "http://spidermedia.ru/news/art-prevyu-deadpool-max-1",
   "archived": "https://web.archive.org/web/20200221074616/http://spidermedia.ru:80/news/art-prevyu-deadpool-max-1",
   "tags": [
@@ -10,7 +13,15 @@
     "deadpool",
     "devid-lafem",
     "art-0",
-    "marvel"
+    "marvel",
+    "prevyu",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20200221074616im_/http://spidermedia.ru/assets/images/import_image/2867.jpg",
+  "modx_id": 2867,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

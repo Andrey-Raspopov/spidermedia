@@ -1,12 +1,18 @@
 {
   "title": "SDCC: Подробнее о \"Мстителях 2: Эре Альтрона\"",
-  "date": "2013-07-21T23:03:00+03:00",
+  "date": "2013-07-21T22:03:43+03:00",
   "url": "/news/sdcc-podrobnee-o-mstitelyah-2-ere-altrona/",
   "original_url": "http://spidermedia.ru/news/sdcc-podrobnee-o-mstitelyah-2-ere-altrona",
   "archived": "https://web.archive.org/web/20240623002506/http://spidermedia.ru/news/sdcc-podrobnee-o-mstitelyah-2-ere-altrona",
   "tags": [
     "avengers",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20240623002506im_/http://spidermedia.ru/assets/images/import_image/7371.jpg",
+  "modx_id": 7371,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

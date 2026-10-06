@@ -9,6 +9,12 @@
     "garth-ennis",
     "preacher"
   ],
+  "cover": "https://web.archive.org/web/20160611155852im_/http://spidermedia.ru/assets/images/news/images/1_comics/dc/vertigo/preacher/1519178-preacher42d.jpg",
+  "modx_id": 100897,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

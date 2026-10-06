@@ -1,11 +1,17 @@
 {
   "title": "Daddy, why did you eat my fries?",
-  "date": "2012-04-15T17:39:00+03:00",
+  "date": "2012-04-15T16:39:15+03:00",
   "url": "/news/daddy-why-did-you-eat-my-fries/",
   "original_url": "https://spidermedia.ru/news/daddy-why-did-you-eat-my-fries",
   "archived": "https://web.archive.org/web/20240520083052/https://spidermedia.ru/news/daddy-why-did-you-eat-my-fries",
   "tags": [
     "boom-studios"
+  ],
+  "cover": "https://web.archive.org/web/20240520083052im_/http://spidermedia.ru/assets/images/import_image/6875.jpg",
+  "modx_id": 6875,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

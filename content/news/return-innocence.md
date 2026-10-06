@@ -1,12 +1,18 @@
 {
   "title": "Новый Человек-Паук 2: Новый костюм (Hi-Res) и фото со съемок",
-  "date": "2013-02-25T17:44:00+03:00",
+  "date": "2013-02-25T16:44:52+03:00",
   "url": "/news/return-innocence/",
   "original_url": "https://spidermedia.ru/news/return-innocence",
   "archived": "https://web.archive.org/web/20251207000908/https://spidermedia.ru/news/return-innocence",
   "tags": [
     "spider-man",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20251207000908im_/http://spidermedia.ru/assets/images/import_image/7151.jpg",
+  "modx_id": 7151,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

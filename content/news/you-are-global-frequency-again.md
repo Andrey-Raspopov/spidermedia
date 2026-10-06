@@ -1,12 +1,22 @@
 {
   "title": "You are on the Global Frequency - again",
-  "date": "2009-11-19T00:10:00+03:00",
+  "date": "2009-11-19T00:10:54+03:00",
   "url": "/news/you-are-global-frequency-again/",
+  "aliases": [
+    "/node/2113/"
+  ],
   "original_url": "http://spidermedia.ru/news/you-are-global-frequency-again",
   "archived": "https://web.archive.org/web/20230604111015/http://spidermedia.ru/news/you-are-global-frequency-again",
   "tags": [
     "serialy",
-    "warren-ellis"
+    "warren-ellis",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20230604111015im_/http://spidermedia.ru/assets/images/import_image/2113.jpg",
+  "modx_id": 2113,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

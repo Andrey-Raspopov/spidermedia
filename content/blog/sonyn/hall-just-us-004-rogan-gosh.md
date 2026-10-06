@@ -1,6 +1,6 @@
 {
   "title": "Hall of Just Us 004: Rogan Gosh",
-  "date": "2010-09-28T13:11:00+03:00",
+  "date": "2010-09-28T12:11:36+03:00",
   "url": "/blog/sonyn/hall-just-us-004-rogan-gosh/",
   "original_url": "http://spidermedia.ru/blog/sonyn/hall-just-us-004-rogan-gosh",
   "archived": "https://web.archive.org/web/20190907232433/http://spidermedia.ru:80/blog/sonyn/hall-just-us-004-rogan-gosh",
@@ -8,6 +8,12 @@
     "mnenie",
     "rogan-gosh",
     "hall-of-just-us"
+  ],
+  "cover": "https://web.archive.org/web/20190907232433im_/http://spidermedia.ru/assets/images/import_image/2952.jpg",
+  "modx_id": 2952,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

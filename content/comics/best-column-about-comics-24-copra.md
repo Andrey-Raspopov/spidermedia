@@ -8,6 +8,12 @@
     "best-column-about-comics",
     "mnenie"
   ],
+  "cover": "https://web.archive.org/web/20260215073444im_/http://spidermedia.ru/assets/images/best-column-about-comics/24-copra/copra-cover.jpg",
+  "modx_id": 101642,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

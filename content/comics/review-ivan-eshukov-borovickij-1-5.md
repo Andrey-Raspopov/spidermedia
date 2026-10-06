@@ -8,6 +8,12 @@
     "recenziya",
     "russian-comics"
   ],
+  "cover": "https://web.archive.org/web/20160730183928im_/http://spidermedia.ru/assets/images/reviews/samizdat/borovickij/borovizkij.jpg",
+  "modx_id": 100818,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,6 +1,6 @@
 {
   "title": "\"Стражи Галактики\": Международный трейлер и российский постер",
-  "date": "2014-06-18T10:23:00+03:00",
+  "date": "2014-06-18T09:23:39+03:00",
   "url": "/news/strazhi-galaktiki-mezhdunarodnyy-treyler-i-rossiyskiy-poster/",
   "original_url": "http://spidermedia.ru/news/strazhi-galaktiki-mezhdunarodnyy-treyler-i-rossiyskiy-poster",
   "archived": "https://web.archive.org/web/20260125112709/http://spidermedia.ru/news/strazhi-galaktiki-mezhdunarodnyy-treyler-i-rossiyskiy-poster",
@@ -9,6 +9,12 @@
     "marvel",
     "guardians-of-the-galaxy",
     "trejlery"
+  ],
+  "cover": "https://web.archive.org/web/20150424091903im_/http://spidermedia.ru/assets/images/import_image/7826.jpg",
+  "modx_id": 7826,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

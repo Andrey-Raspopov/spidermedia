@@ -4,6 +4,9 @@
   "url": "/games/emu/emulators/",
   "original_url": "http://www.spidermedia.ru/games/emu/emulators.html",
   "archived": "https://web.archive.org/web/20041012074452/http://www.spidermedia.ru:80/games/emu/emulators.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

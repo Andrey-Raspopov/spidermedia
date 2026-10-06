@@ -1,12 +1,18 @@
 {
   "title": "Миша Коллинз на Comic Con Russia!",
-  "date": "2014-09-09T10:11:00+03:00",
+  "date": "2014-09-09T09:11:35+03:00",
   "url": "/news/eksklyuziv-na-comic-con-russia/",
   "original_url": "http://spidermedia.ru/news/eksklyuziv-na-comic-con-russia",
   "archived": "https://web.archive.org/web/20251216113527/http://spidermedia.ru/news/eksklyuziv-na-comic-con-russia",
   "tags": [
     "supernatural",
     "comic-con-russia"
+  ],
+  "cover": "https://web.archive.org/web/20251216113527im_/http://spidermedia.ru/assets/images/import_image/8039.jpg",
+  "modx_id": 8039,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "На краю времени",
-  "date": "2011-03-31T17:30:00+03:00",
+  "date": "2011-03-31T16:30:37+03:00",
   "url": "/news/na-krayu-vremeni/",
   "original_url": "http://spidermedia.ru/news/na-krayu-vremeni",
   "archived": "https://web.archive.org/web/20260314083613/http://spidermedia.ru/news/na-krayu-vremeni",
@@ -9,6 +9,12 @@
     "igry",
     "spider-man",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150424222436im_/http://spidermedia.ru/assets/images/import_image/4592.jpg",
+  "modx_id": 4592,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

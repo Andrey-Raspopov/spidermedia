@@ -1,7 +1,10 @@
 {
   "title": "Логан против Т-Рекса",
-  "date": "2009-03-07T04:12:00+03:00",
+  "date": "2009-03-07T03:12:18+03:00",
   "url": "/news/logan-protiv-t-reksa/",
+  "aliases": [
+    "/node/616/"
+  ],
   "original_url": "http://spidermedia.ru/news/logan-protiv-t-reksa",
   "archived": "https://web.archive.org/web/20111018131348/http://spidermedia.ru/news/logan-protiv-t-reksa",
   "tags": [
@@ -13,7 +16,14 @@
     "logan-0",
     "oblozhki",
     "preview-s",
-    "rosomaha"
+    "rosomaha",
+    "prevyu",
+    "art"
+  ],
+  "modx_id": 616,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

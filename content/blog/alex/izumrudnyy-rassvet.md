@@ -1,13 +1,22 @@
 {
   "title": "Изумрудный рассвет",
-  "date": "2009-02-02T17:57:00+03:00",
+  "date": "2009-02-02T17:57:17+03:00",
   "url": "/blog/alex/izumrudnyy-rassvet/",
+  "aliases": [
+    "/node/108/"
+  ],
   "original_url": "https://spidermedia.ru/blog/alex/izumrudnyy-rassvet",
   "archived": "https://web.archive.org/web/20251110221956/https://spidermedia.ru/blog/alex/izumrudnyy-rassvet",
   "tags": [
     "dc-comics",
     "recenziya",
     "green-lantern"
+  ],
+  "cover": "https://web.archive.org/web/20251110221956im_/http://spidermedia.ru/assets/images/import_image/108.jpg",
+  "modx_id": 108,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

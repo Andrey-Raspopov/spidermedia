@@ -1,13 +1,20 @@
 {
   "title": "ЭКСКЛЮЗИВ: Превью \"И немножко рока №1\"",
-  "date": "2014-12-02T16:22:00+03:00",
+  "date": "2014-12-02T16:22:22+03:00",
   "url": "/news/eksklyuziv-prevyu-i-nemnozhko-roka-no1/",
   "original_url": "http://spidermedia.ru/news/eksklyuziv-prevyu-i-nemnozhko-roka-no1",
   "archived": "https://web.archive.org/web/20250717184945/http://spidermedia.ru/news/eksklyuziv-prevyu-i-nemnozhko-roka-no1",
   "tags": [
     "russian-comics",
     "preview",
-    "izdatelstvo-42"
+    "izdatelstvo-42",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20150502115830im_/http://spidermedia.ru/assets/images/import_image/8332.jpg",
+  "modx_id": 8332,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

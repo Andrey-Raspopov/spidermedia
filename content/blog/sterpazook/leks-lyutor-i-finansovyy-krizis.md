@@ -1,7 +1,10 @@
 {
   "title": "Лекс Лютор и Финансовый Кризис",
-  "date": "2009-03-12T00:18:00+03:00",
+  "date": "2009-03-12T00:18:45+03:00",
   "url": "/blog/sterpazook/leks-lyutor-i-finansovyy-krizis/",
+  "aliases": [
+    "/node/652/"
+  ],
   "original_url": "http://spidermedia.ru/blog/sterpazook/leks-lyutor-i-finansovyy-krizis",
   "archived": "https://web.archive.org/web/20250909143835/http://spidermedia.ru/blog/sterpazook/leks-lyutor-i-finansovyy-krizis",
   "tags": [
@@ -9,6 +12,11 @@
     "yumor",
     "spoof",
     "lex-luthor"
+  ],
+  "modx_id": 652,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

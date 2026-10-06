@@ -1,9 +1,15 @@
 {
   "title": "Флэш",
-  "date": "2015-03-20T00:00:00+00:00",
+  "date": "2016-01-25T12:18:00+03:00",
   "url": "/tv-index/the-flash-2014-tv-series/",
   "original_url": "http://spidermedia.ru/tv-index/the-flash-2014-tv-series",
   "archived": "https://web.archive.org/web/20150320152054/http://spidermedia.ru/tv-index/the-flash-2014-tv-series",
+  "cover": "https://web.archive.org/web/20150320152054im_/http://spidermedia.ru/assets/images/tv/flash/s3/kid-flash.jpg",
+  "modx_id": 100060,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,7 +1,10 @@
 {
   "title": "Фото со съёмок \"Первого Мстителя\"",
-  "date": "2010-09-09T11:13:00+03:00",
+  "date": "2010-09-09T10:13:00+03:00",
   "url": "/news/foto-so-syomok-filma-pervyy-mstitel-kapitan-amerika/",
+  "aliases": [
+    "/node/2899/"
+  ],
   "original_url": "http://spidermedia.ru/news/foto-so-syomok-filma-pervyy-mstitel-kapitan-amerika",
   "archived": "https://web.archive.org/web/20240623023412/http://spidermedia.ru/news/foto-so-syomok-filma-pervyy-mstitel-kapitan-amerika",
   "tags": [
@@ -9,6 +12,12 @@
     "marvel",
     "hydra",
     "captain-america"
+  ],
+  "cover": "https://web.archive.org/web/20240623023412im_/http://spidermedia.ru/assets/images/import_image/2899.jpg",
+  "modx_id": 2899,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

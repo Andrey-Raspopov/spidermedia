@@ -1,7 +1,10 @@
 {
   "title": "Превью War of Kings: Who Will Rule?",
-  "date": "2009-08-25T22:13:00+03:00",
+  "date": "2009-08-25T21:13:57+03:00",
   "url": "/news/prevyu-war-kings-who-will-rule/",
+  "aliases": [
+    "/node/1825/"
+  ],
   "original_url": "http://spidermedia.ru/news/prevyu-war-kings-who-will-rule",
   "archived": "https://web.archive.org/web/20120607112233/http://spidermedia.ru/news/prevyu-war-kings-who-will-rule",
   "tags": [
@@ -12,13 +15,19 @@
     "komiksy",
     "marvel",
     "pol-pellete",
-    "endi-lenning"
+    "endi-lenning",
+    "art"
+  ],
+  "modx_id": 1825,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }
 
-]]>[![](https://web.archive.org/web/20120607112233im_/http://marvel.com/i/content/st/9240new_storyimage0704167_thumb.jpg)](http://marvel.com/i/content/st/9240new_storyimage0704167.jpg)]]> Дальнейшная судьба **Империи Ши'Ар** *(Shi'Ar Empire)* и **Крии** *(Kree)* должна быть решена прямо здесь и сейчас, в эпилоге события **Война Королей** *(War of Kings)* - **War of Kings: Who Will Rule?** Как ]]>[сообщалось](../../node/1749/)]]> ранее - данный ван-шот станет первой частью мостика, цель которого завершить все старые сюжетные линии и дать развитие новым.
+]]>[![](https://web.archive.org/web/20120607112233im_/http://marvel.com/i/content/st/9240new_storyimage0704167_thumb.jpg)](http://marvel.com/i/content/st/9240new_storyimage0704167.jpg)]]> Дальнейшная судьба **Империи Ши'Ар** *(Shi'Ar Empire)* и **Крии** *(Kree)* должна быть решена прямо здесь и сейчас, в эпилоге события **Война Королей** *(War of Kings)* - **War of Kings: Who Will Rule?** Как ]]>[сообщалось](../da-nastanet-carstvo-obnovlenie/)]]> ранее - данный ван-шот станет первой частью мостика, цель которого завершить все старые сюжетные линии и дать развитие новым.
 
 **Нелюди** *(Inhumans)*, **Имперская Гвардия** *(Imperial Guard)*, **Темный Ястреб** *(Darkhawk)*, **Старджеммеры** *(Starjammers)*, **Нова** *(Nova)* - все их затронула война, но каковы последствия для каждого в отдельности? Сценаристы **Дэн Эбнетт** *(Dan Abnett)* и **Энди Лэннинг** *(Andy Lanning)*, вместе с художником **Полом Пеллетье** *(Paul Pelletier)*, постараются в полной мере осветить итоги глобального конфликта, изменивший космос **Marvel** навсегда!
 

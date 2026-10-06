@@ -1,6 +1,6 @@
 {
   "title": "Новая эра Супермена",
-  "date": "2011-06-11T08:15:00+03:00",
+  "date": "2011-06-11T07:15:33+03:00",
   "url": "/news/novaya-era-supermena/",
   "original_url": "http://spidermedia.ru/news/novaya-era-supermena",
   "archived": "https://web.archive.org/web/20260313102729/http://spidermedia.ru/news/novaya-era-supermena",
@@ -23,6 +23,12 @@
     "jesus-merino",
     "george-perez",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20260313102729im_/http://spidermedia.ru/assets/images/import_image/6441.jpg",
+  "modx_id": 6441,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

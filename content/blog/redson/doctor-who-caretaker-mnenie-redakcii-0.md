@@ -1,13 +1,20 @@
 {
   "title": "Doctor Who \"The Caretaker\": Мнение редакции",
-  "date": "2014-09-29T12:10:00+03:00",
+  "date": "2014-09-29T11:10:42+03:00",
   "url": "/blog/redson/doctor-who-caretaker-mnenie-redakcii-0/",
   "original_url": "https://spidermedia.ru/blog/redson/doctor-who-caretaker-mnenie-redakcii-0",
   "archived": "https://web.archive.org/web/20250519175857/https://spidermedia.ru/blog/redson/doctor-who-caretaker-mnenie-redakcii-0",
   "tags": [
     "doctor-who",
     "obzor",
-    "serialy"
+    "serialy",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20150326221000im_/http://spidermedia.ru/assets/images/import_image/8111.jpg",
+  "modx_id": 8111,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

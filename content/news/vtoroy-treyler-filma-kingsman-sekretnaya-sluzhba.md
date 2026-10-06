@@ -1,12 +1,18 @@
 {
   "title": "Второй трейлер фильма \"Kingsman: Секретная служба\"",
-  "date": "2014-09-23T11:48:00+03:00",
+  "date": "2014-09-23T10:48:48+03:00",
   "url": "/news/vtoroy-treyler-filma-kingsman-sekretnaya-sluzhba/",
   "original_url": "http://spidermedia.ru/news/vtoroy-treyler-filma-kingsman-sekretnaya-sluzhba",
   "archived": "https://web.archive.org/web/20260125122519/http://spidermedia.ru/news/vtoroy-treyler-filma-kingsman-sekretnaya-sluzhba",
   "tags": [
     "trejlery",
     "mark-millar"
+  ],
+  "cover": "https://web.archive.org/web/20260125122519im_/http://spidermedia.ru/assets/images/import_image/8092.jpg",
+  "modx_id": 8092,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

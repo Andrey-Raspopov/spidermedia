@@ -1,6 +1,6 @@
 {
   "title": "Новый трейлер фильма \"Люди Икс: Дни Минувшего будущего\"",
-  "date": "2014-03-24T17:00:00+03:00",
+  "date": "2014-03-24T16:00:27+03:00",
   "url": "/news/x-men-days-of-future-past-trailer-2014-03-24/",
   "original_url": "https://spidermedia.ru/news/x-men-days-of-future-past-trailer-2014-03-24",
   "archived": "https://web.archive.org/web/20260125061531/https://spidermedia.ru/news/x-men-days-of-future-past-trailer-2014-03-24",
@@ -9,7 +9,15 @@
     "marvel",
     "lyudi-iks-pervyj-klass",
     "x-men",
-    "days-of-future-past"
+    "days-of-future-past",
+    "lyudi-iks",
+    "dni-minuvshego-budushhego"
+  ],
+  "cover": "https://web.archive.org/web/20150424090053im_/http://spidermedia.ru/assets/images/import_image/7695.jpg",
+  "modx_id": 7695,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

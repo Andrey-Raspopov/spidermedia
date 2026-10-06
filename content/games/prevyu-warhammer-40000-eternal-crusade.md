@@ -4,6 +4,12 @@
   "url": "/games/prevyu-warhammer-40000-eternal-crusade/",
   "original_url": "http://spidermedia.ru/games/prevyu-warhammer-40000-eternal-crusade",
   "archived": "https://web.archive.org/web/20200810090014/http://spidermedia.ru/games/prevyu-warhammer-40000-eternal-crusade",
+  "cover": "https://web.archive.org/web/20160611142446im_/http://spidermedia.ru/assets/images/games/warhammer-40000-eternal-crusade/warhammer4000.jpg",
+  "modx_id": 100933,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

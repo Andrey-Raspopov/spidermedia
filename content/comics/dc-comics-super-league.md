@@ -11,6 +11,12 @@
     "superman",
     "wonder-woman"
   ],
+  "cover": "https://web.archive.org/web/20160611110508im_/http://spidermedia.ru/assets/images/news/images/1_comics/dc/super-league/1234.jpg",
+  "modx_id": 100911,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

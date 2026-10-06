@@ -1,6 +1,6 @@
 {
   "title": "Выставка немецких комиксов в Минске",
-  "date": "2011-04-04T14:00:00+03:00",
+  "date": "2011-04-04T13:00:49+03:00",
   "url": "/news/vystavka-nemeckih-komiksov-v-minske/",
   "original_url": "http://spidermedia.ru/news/vystavka-nemeckih-komiksov-v-minske",
   "archived": "https://web.archive.org/web/20111018125524/http://spidermedia.ru/news/vystavka-nemeckih-komiksov-v-minske",
@@ -8,6 +8,12 @@
     "belarus",
     "vystavka",
     "komiksy"
+  ],
+  "cover": "https://web.archive.org/web/20111018125524im_/http://spidermedia.ru/assets/images/import_image/4704.jpg",
+  "modx_id": 4704,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

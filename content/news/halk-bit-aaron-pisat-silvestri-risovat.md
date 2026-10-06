@@ -1,6 +1,6 @@
 {
   "title": "Халк бить, Аарон писать, Сильвестри рисовать",
-  "date": "2011-07-25T02:22:00+03:00",
+  "date": "2011-07-25T01:22:38+03:00",
   "url": "/news/halk-bit-aaron-pisat-silvestri-risovat/",
   "original_url": "http://spidermedia.ru/news/halk-bit-aaron-pisat-silvestri-risovat",
   "archived": "https://web.archive.org/web/20250210033636/http://spidermedia.ru/news/halk-bit-aaron-pisat-silvestri-risovat",
@@ -9,7 +9,14 @@
     "dzheyson-aaron",
     "art-0",
     "marvel",
-    "hulk"
+    "hulk",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20160322061825im_/http://spidermedia.ru/assets/images/import_image/6529.jpg",
+  "modx_id": 6529,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

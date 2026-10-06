@@ -1,7 +1,10 @@
 {
   "title": "Наследие Гудмана",
-  "date": "2010-09-16T02:57:00+03:00",
+  "date": "2010-09-16T01:57:57+03:00",
   "url": "/news/nasledie-gudmana/",
+  "aliases": [
+    "/node/2918/"
+  ],
   "original_url": "http://spidermedia.ru/news/nasledie-gudmana",
   "archived": "https://web.archive.org/web/20260215090329/http://spidermedia.ru/news/nasledie-gudmana",
   "tags": [
@@ -9,6 +12,12 @@
     "dzhej-em-demattej",
     "nycc-2010",
     "atlas-comics"
+  ],
+  "cover": "https://web.archive.org/web/20260215090329im_/http://spidermedia.ru/assets/images/import_image/2918.jpg",
+  "modx_id": 2918,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

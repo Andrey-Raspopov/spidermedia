@@ -1,7 +1,10 @@
 {
   "title": "Исцелять и убивать",
-  "date": "2010-07-12T23:12:00+03:00",
+  "date": "2010-07-12T22:12:22+03:00",
   "url": "/news/iscelyat-i-ubivat/",
+  "aliases": [
+    "/node/2715/"
+  ],
   "original_url": "http://spidermedia.ru/news/iscelyat-i-ubivat",
   "archived": "https://web.archive.org/web/20250717193657/http://spidermedia.ru/news/iscelyat-i-ubivat",
   "tags": [
@@ -10,7 +13,13 @@
     "art-0",
     "wolverine",
     "marvel",
-    "juan-jose-ryp"
+    "juan-jose-ryp",
+    "art"
+  ],
+  "modx_id": 2715,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

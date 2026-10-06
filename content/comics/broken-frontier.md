@@ -9,6 +9,12 @@
     "stiv-orlando",
     "yaroslav-astapeev"
   ],
+  "cover": "https://web.archive.org/web/20250215011429im_/http://spidermedia.ru/assets/images/news/broken-frontier/bfanthology_cover.jpg",
+  "modx_id": 100632,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

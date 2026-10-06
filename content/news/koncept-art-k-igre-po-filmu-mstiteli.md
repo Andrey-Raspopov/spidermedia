@@ -1,6 +1,6 @@
 {
   "title": "Опровергнуто: Концепт-арт к игре по фильму \"Мстители\"?",
-  "date": "2011-02-19T13:17:00+03:00",
+  "date": "2011-02-19T13:17:27+03:00",
   "url": "/news/koncept-art-k-igre-po-filmu-mstiteli/",
   "original_url": "http://spidermedia.ru/news/koncept-art-k-igre-po-filmu-mstiteli",
   "archived": "https://web.archive.org/web/20260314084006/http://spidermedia.ru/news/koncept-art-k-igre-po-filmu-mstiteli",
@@ -9,6 +9,12 @@
     "igry",
     "marvel",
     "avengers"
+  ],
+  "cover": "https://web.archive.org/web/20180201171909im_/http://spidermedia.ru/assets/images/import_image/3540.jpg",
+  "modx_id": 3540,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,11 +1,17 @@
 {
   "title": "«Фантастическая Четвёрка»: Подробности, концепты и фото со съёмок",
-  "date": "2015-01-27T10:50:00+03:00",
+  "date": "2015-01-27T10:50:09+03:00",
   "url": "/news/fantasticheskaya-chetvyorka-podrobnosti-koncepty-i-foto-so-syomok/",
   "original_url": "http://spidermedia.ru/news/fantasticheskaya-chetvyorka-podrobnosti-koncepty-i-foto-so-syomok",
   "archived": "https://web.archive.org/web/20250814202137/http://spidermedia.ru/news/fantasticheskaya-chetvyorka-podrobnosti-koncepty-i-foto-so-syomok",
   "tags": [
     "fantastic-four"
+  ],
+  "cover": "https://web.archive.org/web/20150326182825im_/http://spidermedia.ru/assets/images/import_image/8550.jpg",
+  "modx_id": 8550,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

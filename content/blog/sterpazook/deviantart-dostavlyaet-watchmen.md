@@ -1,11 +1,20 @@
 {
   "title": "DeviantART доставляет: WATCHMEN",
-  "date": "2009-03-07T01:52:00+03:00",
+  "date": "2009-03-07T01:52:10+03:00",
   "url": "/blog/sterpazook/deviantart-dostavlyaet-watchmen/",
+  "aliases": [
+    "/node/614/"
+  ],
   "original_url": "http://spidermedia.ru/blog/sterpazook/deviantart-dostavlyaet-watchmen",
   "archived": "https://web.archive.org/web/20200130013524/http://spidermedia.ru:80/blog/sterpazook/deviantart-dostavlyaet-watchmen",
   "tags": [
     "hraniteli"
+  ],
+  "cover": "https://web.archive.org/web/20150315210246im_/http://spidermedia.ru/assets/images/ecahznqzhc4.jpg",
+  "modx_id": 614,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

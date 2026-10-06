@@ -1,6 +1,6 @@
 {
   "title": "Новый ТВ-спот \"Первого мстителя\" (ВИДЕО)",
-  "date": "2011-06-08T12:47:00+03:00",
+  "date": "2011-06-08T11:47:30+03:00",
   "url": "/news/novyy-tv-spot-pervogo-mstitelya-video/",
   "original_url": "http://spidermedia.ru/news/novyy-tv-spot-pervogo-mstitelya-video",
   "archived": "https://web.archive.org/web/20250325091059/http://spidermedia.ru/news/novyy-tv-spot-pervogo-mstitelya-video",
@@ -8,6 +8,12 @@
     "trejlery",
     "marvel",
     "captain-america"
+  ],
+  "cover": "https://web.archive.org/web/20250325091059im_/http://spidermedia.ru/assets/images/import_image/6369.jpg",
+  "modx_id": 6369,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

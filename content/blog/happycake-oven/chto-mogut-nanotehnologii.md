@@ -13,6 +13,9 @@
     "mark-millar",
     "frenk-kuaytli"
   ],
+  "sources": [
+    "archive"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -1,12 +1,18 @@
 {
   "title": "Первый трейлер и постер «Фантастической четверки»",
-  "date": "2015-01-27T17:02:00+03:00",
+  "date": "2015-01-27T17:02:58+03:00",
   "url": "/news/pervyy-treyler-fantasticheskoy-chetverki/",
   "original_url": "http://spidermedia.ru/news/pervyy-treyler-fantasticheskoy-chetverki",
   "archived": "https://web.archive.org/web/20260125114851/http://spidermedia.ru/news/pervyy-treyler-fantasticheskoy-chetverki",
   "tags": [
     "fantastic-four",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20260125114851im_/http://spidermedia.ru/assets/images/youtube/sy0JCa0Ej0s.jpg",
+  "modx_id": 8561,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

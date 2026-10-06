@@ -1,7 +1,10 @@
 {
   "title": "Цифровые комиксы: попытка №5647",
-  "date": "2009-02-09T15:50:00+03:00",
+  "date": "2009-02-09T15:50:43+03:00",
   "url": "/news/cifrovye-komiksy-popytka-no5647/",
+  "aliases": [
+    "/node/285/"
+  ],
   "original_url": "http://spidermedia.ru/news/cifrovye-komiksy-popytka-no5647",
   "archived": "https://web.archive.org/web/20251107034154/http://spidermedia.ru/news/cifrovye-komiksy-popytka-no5647",
   "tags": [
@@ -10,6 +13,12 @@
     "brian-michael-bendis",
     "nycc-2009",
     "cifrovye-komiksy"
+  ],
+  "cover": "https://web.archive.org/web/20150315210246im_/http://spidermedia.ru/assets/images/ecahznqzhc4.jpg",
+  "modx_id": 285,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

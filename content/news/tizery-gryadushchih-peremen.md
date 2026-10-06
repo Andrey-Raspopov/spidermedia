@@ -1,6 +1,6 @@
 {
   "title": "Тизеры грядущих перемен",
-  "date": "2009-02-19T02:35:00+03:00",
+  "date": "2009-02-19T01:35:07+03:00",
   "url": "/news/tizery-gryadushchih-peremen/",
   "original_url": "http://spidermedia.ru/news/tizery-gryadushchih-peremen",
   "archived": "https://web.archive.org/web/20120609161829/http://spidermedia.ru/news/tizery-gryadushchih-peremen",
@@ -12,7 +12,15 @@
     "silver-surfer",
     "war-machine",
     "komiksy",
-    "marvel"
+    "marvel",
+    "zheleznyy-chelovek",
+    "hulk"
+  ],
+  "cover": "https://web.archive.org/web/20120609161829im_/http://spidermedia.ru/assets/images/import_image/434.jpg",
+  "modx_id": 434,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

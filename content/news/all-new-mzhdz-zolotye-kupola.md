@@ -1,12 +1,18 @@
 {
   "title": "ALL-NEW МЖДЗ: ЗОЛОТЫЕ КУПОЛА",
-  "date": "2014-06-10T12:00:00+03:00",
+  "date": "2014-06-10T11:00:57+03:00",
   "url": "/news/all-new-mzhdz-zolotye-kupola/",
   "original_url": "http://spidermedia.ru/news/all-new-mzhdz-zolotye-kupola",
   "archived": "https://web.archive.org/web/20260209112953/http://spidermedia.ru/news/all-new-mzhdz-zolotye-kupola",
   "tags": [
     "mnenie",
     "mzhdz"
+  ],
+  "cover": "https://web.archive.org/web/20150424123343im_/http://spidermedia.ru/assets/images/import_image/7791.jpg",
+  "modx_id": 7791,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

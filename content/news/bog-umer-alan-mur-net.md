@@ -1,11 +1,17 @@
 {
   "title": "Бог умер, а Алан Мур нет",
-  "date": "2014-06-03T13:36:00+03:00",
+  "date": "2014-06-03T12:36:30+03:00",
   "url": "/news/bog-umer-alan-mur-net/",
   "original_url": "https://spidermedia.ru/news/bog-umer-alan-mur-net",
   "archived": "https://web.archive.org/web/20251117000851/https://spidermedia.ru/news/bog-umer-alan-mur-net",
   "tags": [
     "avatar-press"
+  ],
+  "cover": "https://web.archive.org/web/20251117000851im_/http://spidermedia.ru/assets/images/import_image/7764.jpg",
+  "modx_id": 7764,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

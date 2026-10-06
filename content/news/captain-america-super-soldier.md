@@ -1,7 +1,10 @@
 {
   "title": "Captain America: Super Soldier",
-  "date": "2010-10-05T23:23:00+03:00",
+  "date": "2010-10-05T22:23:22+03:00",
   "url": "/news/captain-america-super-soldier/",
+  "aliases": [
+    "/node/2972/"
+  ],
   "original_url": "http://spidermedia.ru/news/captain-america-super-soldier",
   "archived": "https://web.archive.org/web/20260116222154/http://spidermedia.ru/news/captain-america-super-soldier",
   "tags": [
@@ -9,6 +12,12 @@
     "igry",
     "marvel",
     "captain-america"
+  ],
+  "cover": "https://web.archive.org/web/20260116222154im_/http://spidermedia.ru/assets/images/import_image/2972.jpg",
+  "modx_id": 2972,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

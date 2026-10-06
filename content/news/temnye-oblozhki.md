@@ -1,6 +1,6 @@
 {
   "title": "Темные обложки",
-  "date": "2009-04-03T16:38:00+03:00",
+  "date": "2009-04-03T15:38:06+03:00",
   "url": "/news/temnye-oblozhki/",
   "original_url": "https://spidermedia.ru/news/temnye-oblozhki",
   "archived": "https://web.archive.org/web/20251006142311/https://spidermedia.ru/news/temnye-oblozhki",
@@ -9,7 +9,15 @@
     "kris-bachalo",
     "avengers",
     "new-avengers",
-    "stefano-kaselli"
+    "stefano-kaselli",
+    "dark-avengers",
+    "novye-mstiteli"
+  ],
+  "cover": "https://web.archive.org/web/20251006142311im_/http://spidermedia.ru/assets/images/import_image/844.jpg",
+  "modx_id": 844,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

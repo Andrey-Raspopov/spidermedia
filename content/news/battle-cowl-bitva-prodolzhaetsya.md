@@ -1,13 +1,23 @@
 {
   "title": "Battle for the Cowl - Битва продолжается!",
-  "date": "2009-02-14T03:56:00+03:00",
+  "date": "2009-02-14T03:56:16+03:00",
   "url": "/news/battle-cowl-bitva-prodolzhaetsya/",
+  "aliases": [
+    "/node/357/"
+  ],
   "original_url": "http://spidermedia.ru/news/battle-cowl-bitva-prodolzhaetsya",
   "archived": "https://web.archive.org/web/20190916040746/http://spidermedia.ru/news/battle-cowl-bitva-prodolzhaetsya",
   "tags": [
     "dc-comics",
     "batman",
-    "art-0"
+    "art-0",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20190916040746im_/http://spidermedia.ru/assets/images/import_image/357.jpg",
+  "modx_id": 357,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

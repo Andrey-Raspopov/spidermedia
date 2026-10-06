@@ -1,12 +1,18 @@
 {
   "title": "В России издан комикс \"MASS EFFECT: ЭВОЛЮЦИЯ\"",
-  "date": "2011-09-14T10:45:00+03:00",
+  "date": "2011-09-14T09:45:56+03:00",
   "url": "/news/v-rossii-izdan-komiks-mass-effect-evolyuciya/",
   "original_url": "https://spidermedia.ru/news/v-rossii-izdan-komiks-mass-effect-evolyuciya",
   "archived": "https://web.archive.org/web/20220626074815/https://spidermedia.ru/news/v-rossii-izdan-komiks-mass-effect-evolyuciya",
   "tags": [
     "zarubezhnye-komiksy-na-russkom",
     "dark-horse"
+  ],
+  "cover": "https://web.archive.org/web/20220626074815im_/http://spidermedia.ru/assets/images/import_image/6604.jpg",
+  "modx_id": 6604,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

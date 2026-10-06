@@ -11,6 +11,12 @@
     "manga",
     "russian-comics"
   ],
+  "cover": "https://web.archive.org/web/20180130042434im_/http://spidermedia.ru/assets/images/interview/istari-kolchugin/image10.jpg",
+  "modx_id": 100896,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

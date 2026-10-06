@@ -1,7 +1,10 @@
 {
   "title": "Пилотируемая корова",
-  "date": "2009-07-07T06:58:00+03:00",
+  "date": "2009-07-07T05:58:54+03:00",
   "url": "/news/pilotiruemaya-korova/",
+  "aliases": [
+    "/node/1496/"
+  ],
   "original_url": "http://spidermedia.ru/news/pilotiruemaya-korova",
   "archived": "https://web.archive.org/web/20160426212636/http://spidermedia.ru/news/pilotiruemaya-korova",
   "tags": [
@@ -9,6 +12,12 @@
     "robert-kirkman",
     "mark-silvestri",
     "pilot-season"
+  ],
+  "cover": "https://web.archive.org/web/20160426212636im_/http://spidermedia.ru/assets/images/import_image/1496.jpg",
+  "modx_id": 1496,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

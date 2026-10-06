@@ -1,12 +1,18 @@
 {
   "title": "Карен Гиллан сыграет в \"Стражах Галактики\"",
-  "date": "2013-06-01T08:06:00+03:00",
+  "date": "2013-06-01T07:06:49+03:00",
   "url": "/news/karen-gillan-sygraet-v-strazhah-galaktiki/",
   "original_url": "http://spidermedia.ru/news/karen-gillan-sygraet-v-strazhah-galaktiki",
   "archived": "https://web.archive.org/web/20241004032348/http://spidermedia.ru/news/karen-gillan-sygraet-v-strazhah-galaktiki",
   "tags": [
     "marvel",
     "guardians-of-the-galaxy"
+  ],
+  "cover": "https://web.archive.org/web/20241004032348im_/http://spidermedia.ru/assets/images/import_image/7259.jpg",
+  "modx_id": 7259,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

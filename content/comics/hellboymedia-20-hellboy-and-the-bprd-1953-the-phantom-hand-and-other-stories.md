@@ -8,6 +8,12 @@
     "hellboymedia",
     "mnenie"
   ],
+  "cover": "https://web.archive.org/web/20160611084041im_/http://spidermedia.ru/assets/images/hellboymedia/regular/20-hellboy-and-the-bprd-1953-the-phantom-hand-and-others/hellboy-and-the-b.p.r.d.-1953-the-phantom-hand-and-others-cover.jpg",
+  "modx_id": 100922,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

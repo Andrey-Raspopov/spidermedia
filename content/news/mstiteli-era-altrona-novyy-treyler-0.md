@@ -1,12 +1,17 @@
 {
   "title": "«Мстители: Эра Альтрона»: Новый трейлер",
-  "date": "2015-01-13T05:23:00+03:00",
+  "date": "2015-01-13T05:23:15+03:00",
   "url": "/news/mstiteli-era-altrona-novyy-treyler-0/",
   "original_url": "http://spidermedia.ru/news/mstiteli-era-altrona-novyy-treyler-0",
   "archived": "https://web.archive.org/web/20260125122917/http://spidermedia.ru/news/mstiteli-era-altrona-novyy-treyler-0",
   "tags": [
     "marvel",
     "avengers"
+  ],
+  "modx_id": 8493,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

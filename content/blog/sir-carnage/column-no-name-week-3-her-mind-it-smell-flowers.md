@@ -1,7 +1,10 @@
 {
   "title": "The Column With No Name - Week #3: Her mind, it smell of flowers.",
-  "date": "2009-02-22T03:21:00+03:00",
+  "date": "2009-02-22T03:21:55+03:00",
   "url": "/blog/sir-carnage/column-no-name-week-3-her-mind-it-smell-flowers/",
+  "aliases": [
+    "/node/476/"
+  ],
   "original_url": "https://spidermedia.ru/blog/sir-carnage/column-no-name-week-3-her-mind-it-smell-flowers",
   "archived": "https://web.archive.org/web/20260314083414/https://spidermedia.ru/blog/sir-carnage/column-no-name-week-3-her-mind-it-smell-flowers",
   "tags": [
@@ -18,7 +21,14 @@
     "prizrachnyj-gonshhik",
     "exiles",
     "doctor-nemesis",
-    "the-column-with-no-name"
+    "the-column-with-no-name",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20260314083414im_/http://spidermedia.ru/assets/images/import_image/476.jpg",
+  "modx_id": 476,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

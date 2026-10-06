@@ -1,6 +1,6 @@
 {
   "title": "No one comic should have all those teasers",
-  "date": "2012-10-05T05:03:00+03:00",
+  "date": "2012-10-05T04:03:32+03:00",
   "url": "/news/no-one-comic-should-have-all-those-teasers/",
   "original_url": "http://spidermedia.ru/news/no-one-comic-should-have-all-those-teasers",
   "archived": "https://web.archive.org/web/20251006140810/http://spidermedia.ru/news/no-one-comic-should-have-all-those-teasers",
@@ -8,6 +8,12 @@
     "kiron-gillen",
     "dzheymi-makkelvi",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150428231021im_/http://spidermedia.ru/assets/images/import_image/7045.jpg",
+  "modx_id": 7045,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

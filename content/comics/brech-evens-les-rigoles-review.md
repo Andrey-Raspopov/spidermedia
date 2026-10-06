@@ -7,6 +7,12 @@
   "tags": [
     "boomkniga"
   ],
+  "cover": "https://web.archive.org/web/20241220220544im_/http://spidermedia.ru/assets/images/reviews/boomkniga/the-city-of-belgium/004.png",
+  "modx_id": 102414,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,7 +1,10 @@
 {
   "title": "Fear Itself: Глобальное событие 2011",
-  "date": "2010-12-22T03:07:00+03:00",
+  "date": "2010-12-22T03:07:49+03:00",
   "url": "/news/fear-itself-globalnoe-sobytie-2011/",
+  "aliases": [
+    "/node/3131/"
+  ],
   "original_url": "http://spidermedia.ru/news/fear-itself-globalnoe-sobytie-2011",
   "archived": "https://web.archive.org/web/20250709053456/http://spidermedia.ru/news/fear-itself-globalnoe-sobytie-2011",
   "tags": [
@@ -9,14 +12,22 @@
     "matt-fraction",
     "voploshhenie-straha",
     "art-0",
-    "marvel"
+    "marvel",
+    "mett-frakshen",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20250709053456im_/http://spidermedia.ru/assets/images/import_image/3131.jpg",
+  "modx_id": 3131,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
 [![](https://web.archive.org/web/20250709053456im_/http://img.photobucket.com/albums/v497/spidermedia/silver_news/129295404311.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/silver_news/1292954043.jpg)
-[Тизеры](../../node/3122/), которыми нас пугали на прошлой неделе, действительно предвещали наступление глобального события под названием **Воплощение Страха** *(Fear Itself)*. Основное действие развернется в истории из семи выпусков, над которым работает дуэт из **Мэтта Фракшена** *(Matt Fraction)* и **Стюарта Иммонена** *(Stuart Immonen)*, но перед этим в марте выйдет пролог к событию от **Эда Брубейкера** *(Ed Brubaker)* и **Скотта Итона** *(Scott Eaton)*.
+[Тизеры](../strah-i-nenavist/), которыми нас пугали на прошлой неделе, действительно предвещали наступление глобального события под названием **Воплощение Страха** *(Fear Itself)*. Основное действие развернется в истории из семи выпусков, над которым работает дуэт из **Мэтта Фракшена** *(Matt Fraction)* и **Стюарта Иммонена** *(Stuart Immonen)*, но перед этим в марте выйдет пролог к событию от **Эда Брубейкера** *(Ed Brubaker)* и **Скотта Итона** *(Scott Eaton)*.
 [![](https://web.archive.org/web/20250709053456im_/http://img.photobucket.com/albums/v497/spidermedia/silver_news/1292953999-1.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/silver_news/1292953999.jpg) [![](https://web.archive.org/web/20250709053456im_/http://img.photobucket.com/albums/v497/spidermedia/silver_news/1292954001-1.jpg)](http://img.photobucket.com/albums/v497/spidermedia/silver_news/1292954001.jpg)
 Что произойдет, когда страх так окутает мир, что будет казаться привычным делом? В такие смутные времена даже различия между злодеями и героями будут размыты, ведь противник у всех один - **Бог Страха** *(God of Fear)*. **Fear Itself** - по заявлению создателей - очень амбициозный и масштабный проект, основы к которому были заложены достаточно давно, да и само по себе событие позиционируется как нечто уровня **Civil War**, так что крупные последствия неизбежны.
 Подробности относительно сюжета достаточно скупы: помимо ранее упомянутых социальных проблем в тизерах и повсеместной атмосферы страха, нам обещают представить команду из восьми избранных, которые не только лучшие из лучших, но и смогут одолеть то самое божество. При этом имя божества в прямую так и не названо, хотя образ антагониста присутствует на тизере, а в мире Марвел уже есть свой Бог Страха - **Фобос** *(Phobos)*, по совместительству участник **Секретных Воинов** *(Secret Warriors)*. Один ли это персонаж, или все куда сложней (по одной из версий - есть и Фобос старший) - узнаем достаточно скоро.

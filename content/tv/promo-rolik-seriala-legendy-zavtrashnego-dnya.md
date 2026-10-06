@@ -9,6 +9,12 @@
     "green-arrow",
     "the-flash"
   ],
+  "cover": "https://web.archive.org/web/20250519173512im_/http://spidermedia.ru/assets/images/tv/dc/legends-of-tomorrow/dc-legends.jpg",
+  "modx_id": 100787,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

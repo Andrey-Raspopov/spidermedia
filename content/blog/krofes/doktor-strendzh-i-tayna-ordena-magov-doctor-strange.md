@@ -1,6 +1,6 @@
 {
   "title": "Доктор Стрэндж и Тайна Ордена Магов / Doctor Strange",
-  "date": "2009-02-24T10:51:00+03:00",
+  "date": "2009-02-24T10:51:24+03:00",
   "url": "/blog/krofes/doktor-strendzh-i-tayna-ordena-magov-doctor-strange/",
   "original_url": "http://spidermedia.ru/blog/krofes/doktor-strendzh-i-tayna-ordena-magov-doctor-strange",
   "archived": "https://web.archive.org/web/20150501124736/http://spidermedia.ru/blog/krofes/doktor-strendzh-i-tayna-ordena-magov-doctor-strange",
@@ -10,7 +10,14 @@
     "video",
     "skachat",
     "dr.-strange",
-    "dormammu"
+    "dormammu",
+    "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150501124736im_/http://spidermedia.ru/assets/images/import_image/493.jpg",
+  "modx_id": 493,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

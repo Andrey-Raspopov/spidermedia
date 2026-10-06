@@ -1,11 +1,20 @@
 {
   "title": "Наши в городе",
-  "date": "2009-03-02T17:36:00+03:00",
+  "date": "2009-03-02T17:36:22+03:00",
   "url": "/blog/alex/nashi-v-gorode/",
+  "aliases": [
+    "/node/562/"
+  ],
   "original_url": "http://spidermedia.ru/blog/alex/nashi-v-gorode",
   "archived": "https://web.archive.org/web/20230323053231/http://spidermedia.ru/blog/alex/nashi-v-gorode",
   "tags": [
     "russian-comics"
+  ],
+  "cover": "https://web.archive.org/web/20230323053231im_/http://spidermedia.ru/assets/images/import_image/562.jpg",
+  "modx_id": 562,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

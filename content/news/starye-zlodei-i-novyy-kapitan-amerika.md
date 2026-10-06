@@ -1,6 +1,6 @@
 {
   "title": "Старые злодеи и новый Капитан Америка",
-  "date": "2014-07-08T14:23:00+03:00",
+  "date": "2014-07-08T13:23:39+03:00",
   "url": "/news/starye-zlodei-i-novyy-kapitan-amerika/",
   "original_url": "http://spidermedia.ru/news/starye-zlodei-i-novyy-kapitan-amerika",
   "archived": "https://web.archive.org/web/20180124054544/http://spidermedia.ru/news/starye-zlodei-i-novyy-kapitan-amerika",
@@ -8,6 +8,12 @@
     "marvel",
     "domovoj",
     "karnazh"
+  ],
+  "cover": "https://web.archive.org/web/20150326052618im_/http://spidermedia.ru/assets/images/import_image/7866.jpg",
+  "modx_id": 7866,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

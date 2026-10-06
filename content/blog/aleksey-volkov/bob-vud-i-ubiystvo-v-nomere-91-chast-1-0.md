@@ -1,11 +1,17 @@
 {
   "title": "Боб Вуд и убийство в номере 91. Часть 1",
-  "date": "2014-11-06T14:03:00+03:00",
+  "date": "2014-11-06T14:03:53+03:00",
   "url": "/blog/aleksey-volkov/bob-vud-i-ubiystvo-v-nomere-91-chast-1-0/",
   "original_url": "http://spidermedia.ru/blog/aleksey-volkov/bob-vud-i-ubiystvo-v-nomere-91-chast-1-0",
   "archived": "https://web.archive.org/web/20240912044543/http://spidermedia.ru/blog/aleksey-volkov/bob-vud-i-ubiystvo-v-nomere-91-chast-1-0",
   "tags": [
     "istoriya"
+  ],
+  "cover": "https://web.archive.org/web/20240912044543im_/http://spidermedia.ru/assets/images/import_image/8265.jpg",
+  "modx_id": 8265,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "Лучшая киношная драка всех времен",
-  "date": "2009-07-13T15:58:00+03:00",
+  "date": "2009-07-13T14:58:10+03:00",
   "url": "/blog/sterpazook/luchshaya-kinoshnaya-draka-vseh-vremen/",
+  "aliases": [
+    "/node/1551/"
+  ],
   "original_url": "https://spidermedia.ru/blog/sterpazook/luchshaya-kinoshnaya-draka-vseh-vremen",
   "archived": "https://web.archive.org/web/20250715014542/https://spidermedia.ru/blog/sterpazook/luchshaya-kinoshnaya-draka-vseh-vremen",
   "tags": [
@@ -9,6 +12,11 @@
     "undefeatable",
     "trash",
     "tresh"
+  ],
+  "modx_id": 1551,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

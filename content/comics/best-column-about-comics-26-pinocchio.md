@@ -8,6 +8,12 @@
     "best-column-about-comics",
     "mnenie"
   ],
+  "cover": "https://web.archive.org/web/20260214133319im_/http://spidermedia.ru/assets/images/best-column-about-comics/26-pinocchio/pinocchio-cover.jpg",
+  "modx_id": 101663,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

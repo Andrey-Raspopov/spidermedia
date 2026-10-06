@@ -7,6 +7,12 @@
   "tags": [
     "dyavolik"
   ],
+  "cover": "https://web.archive.org/web/20260123090126im_/http://spidermedia.ru/assets/images/reviews/smartowl/diabolik/diablo.jpg",
+  "modx_id": 100146,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,12 +1,21 @@
 {
   "title": "Walking Alive!",
-  "date": "2009-02-03T10:20:00+03:00",
+  "date": "2009-02-03T10:20:34+03:00",
   "url": "/news/walking-alive/",
+  "aliases": [
+    "/node/133/"
+  ],
   "original_url": "http://spidermedia.ru/news/walking-alive",
   "archived": "https://web.archive.org/web/20161112213300/http://spidermedia.ru:80/news/walking-alive",
   "tags": [
     "the-walking-dead",
     "image-comics"
+  ],
+  "cover": "https://web.archive.org/web/20161112213300im_/http://spidermedia.ru/assets/images/import_image/133.jpg",
+  "modx_id": 133,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

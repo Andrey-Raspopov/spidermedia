@@ -1,7 +1,10 @@
 {
   "title": "\"Железный Человек 2\": Процесс создания костюмов и спецэффектов",
-  "date": "2010-04-06T22:43:00+03:00",
+  "date": "2010-04-06T21:43:38+03:00",
   "url": "/news/zheleznyy-chelovek-2-process-sozdaniya-kostyumov-i-speceffektov/",
+  "aliases": [
+    "/node/2515/"
+  ],
   "original_url": "http://spidermedia.ru/news/zheleznyy-chelovek-2-process-sozdaniya-kostyumov-i-speceffektov",
   "archived": "https://web.archive.org/web/20120612195704/http://spidermedia.ru/news/zheleznyy-chelovek-2-process-sozdaniya-kostyumov-i-speceffektov",
   "tags": [
@@ -14,6 +17,11 @@
     "kino",
     "komiksy",
     "marvel"
+  ],
+  "modx_id": 2515,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

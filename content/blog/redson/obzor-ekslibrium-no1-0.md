@@ -1,6 +1,6 @@
 {
   "title": "ОБЗОР: \"Экслибриум №1\"",
-  "date": "2014-10-21T14:01:00+03:00",
+  "date": "2014-10-21T13:01:32+03:00",
   "url": "/blog/redson/obzor-ekslibrium-no1-0/",
   "original_url": "http://spidermedia.ru/blog/redson/obzor-ekslibrium-no1-0",
   "archived": "https://web.archive.org/web/20260105023139/http://spidermedia.ru/blog/redson/obzor-ekslibrium-no1-0",
@@ -8,6 +8,12 @@
     "bubble",
     "russian-comics",
     "ekslibrium"
+  ],
+  "cover": "https://web.archive.org/web/20180125015858im_/http://spidermedia.ru/assets/images/import_image/8207.jpg",
+  "modx_id": 8207,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

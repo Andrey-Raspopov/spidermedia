@@ -1,7 +1,10 @@
 {
   "title": "Days of Second Coming, Part 3",
-  "date": "2010-05-26T07:58:00+03:00",
+  "date": "2010-05-26T06:58:36+03:00",
   "url": "/news/days-second-coming-part-3/",
+  "aliases": [
+    "/node/2602/"
+  ],
   "original_url": "http://spidermedia.ru/news/days-second-coming-part-3",
   "archived": "https://web.archive.org/web/20120608231723/http://spidermedia.ru/news/days-second-coming-part-3",
   "tags": [
@@ -12,13 +15,19 @@
     "lyudi-iks",
     "marvel"
   ],
+  "cover": "https://web.archive.org/web/20120608231723im_/http://spidermedia.ru/assets/images/import_image/2602.jpg",
+  "modx_id": 2602,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }
 
 ]]>[![Photobucket](https://web.archive.org/web/20120608231723im_/http://img.photobucket.com/albums/v499/sp888/X.jpg)](http://smg.photobucket.com/albums/v499/sp888/X.jpg)]]>
 
-Если вы не читаете кроссовер **Second Coming**, но вам интересно, кто же из **Людей Икс** *(X-Men)* погиб в пятой части кроссовера *(см. [тизер](../../node/2547/) - прим.)*, то ответ теперь известен - этим героем стал **Найткраулер** *(Nightcrawler)*. Пока что мы представим вам превью грядущих частей кроссовера, а немного позже, в этой же новости, ждите информацию, касающуюся второго акта *(части 6-9 - прим.)* **Second Coming**.
+Если вы не читаете кроссовер **Second Coming**, но вам интересно, кто же из **Людей Икс** *(X-Men)* погиб в пятой части кроссовера *(см. [тизер](../days-second-coming-part-2/) - прим.)*, то ответ теперь известен - этим героем стал **Найткраулер** *(Nightcrawler)*. Пока что мы представим вам превью грядущих частей кроссовера, а немного позже, в этой же новости, ждите информацию, касающуюся второго акта *(части 6-9 - прим.)* **Second Coming**.
 
 **Second Coming, Part 6** *(Uncanny X-Men #524)*, сценаристом выступит **Мэтт Фракшен** *(Matt Fraction)*, а художником **Терри Додсон** *(Terry Dodson)*:
 

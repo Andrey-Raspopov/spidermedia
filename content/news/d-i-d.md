@@ -1,7 +1,10 @@
 {
   "title": "D и D",
-  "date": "2010-01-29T19:32:00+03:00",
+  "date": "2010-01-29T19:32:48+03:00",
   "url": "/news/d-i-d/",
+  "aliases": [
+    "/node/2316/"
+  ],
   "original_url": "https://spidermedia.ru/news/d-i-d",
   "archived": "https://web.archive.org/web/20260313101253/https://spidermedia.ru/news/d-i-d",
   "tags": [
@@ -15,6 +18,12 @@
     "demo",
     "rebeka-ajzeks",
     "vertigo"
+  ],
+  "cover": "https://web.archive.org/web/20260313101253im_/http://spidermedia.ru/assets/images/import_image/2316.jpg",
+  "modx_id": 2316,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

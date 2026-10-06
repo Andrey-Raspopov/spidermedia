@@ -1,12 +1,19 @@
 {
   "title": "The Yellow Chair",
-  "date": "2009-03-01T16:46:00+03:00",
+  "date": "2009-03-01T16:46:24+03:00",
   "url": "/blog/naya/yellow-chair/",
   "original_url": "http://spidermedia.ru/blog/naya/yellow-chair",
   "archived": "https://web.archive.org/web/20250807003014/http://spidermedia.ru/blog/naya/yellow-chair",
   "tags": [
     "one-shot",
-    "manga"
+    "manga",
+    "manga-2"
+  ],
+  "cover": "https://web.archive.org/web/20250807003014im_/http://spidermedia.ru/assets/images/import_image/557.gif",
+  "modx_id": 557,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

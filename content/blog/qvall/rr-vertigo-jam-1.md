@@ -1,12 +1,21 @@
 {
   "title": "[R&R] - Vertigo Jam #1",
-  "date": "2009-09-17T01:12:00+03:00",
+  "date": "2009-09-17T00:12:23+03:00",
   "url": "/blog/qvall/rr-vertigo-jam-1/",
+  "aliases": [
+    "/node/1905/"
+  ],
   "original_url": "http://spidermedia.ru/blog/qvall/rr-vertigo-jam-1",
   "archived": "https://web.archive.org/web/20120609123420/http://spidermedia.ru/blog/qvall/rr-vertigo-jam-1",
   "tags": [
     "picspam",
     "vertigo"
+  ],
+  "cover": "https://web.archive.org/web/20120609123420im_/http://spidermedia.ru/assets/images/import_image/1905.jpg",
+  "modx_id": 1905,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

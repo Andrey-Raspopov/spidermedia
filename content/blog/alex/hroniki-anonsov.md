@@ -1,12 +1,17 @@
 {
   "title": "Хроники анонсов",
-  "date": "2009-04-21T09:51:00+03:00",
+  "date": "2009-04-21T08:51:36+03:00",
   "url": "/blog/alex/hroniki-anonsov/",
   "original_url": "https://spidermedia.ru/blog/alex/hroniki-anonsov",
   "archived": "https://web.archive.org/web/20251106233328/https://spidermedia.ru/blog/alex/hroniki-anonsov",
   "tags": [
     "dc-comics",
     "solicitations"
+  ],
+  "modx_id": 1008,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

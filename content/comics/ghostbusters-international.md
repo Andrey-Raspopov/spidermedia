@@ -7,7 +7,14 @@
   "tags": [
     "idw-publishing",
     "komik-kon-v-nyu-yorke",
-    "ghostbusters"
+    "ghostbusters",
+    "nycc-2015"
+  ],
+  "cover": "https://web.archive.org/web/20180205123333im_/http://spidermedia.ru/assets/images/news/nycc/gb-int-01-cvrsub-f1dd5.jpg",
+  "modx_id": 100647,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

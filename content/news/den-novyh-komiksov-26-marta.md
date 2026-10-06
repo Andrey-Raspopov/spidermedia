@@ -1,11 +1,17 @@
 {
   "title": "День новых комиксов: 26 марта",
-  "date": "2014-03-26T12:27:00+03:00",
+  "date": "2014-03-26T11:27:12+03:00",
   "url": "/news/den-novyh-komiksov-26-marta/",
   "original_url": "https://spidermedia.ru/news/den-novyh-komiksov-26-marta",
   "archived": "https://web.archive.org/web/20250512121903/https://spidermedia.ru/news/den-novyh-komiksov-26-marta",
   "tags": [
     "den-novyh-komiksov"
+  ],
+  "cover": "https://web.archive.org/web/20250512121903im_/http://spidermedia.ru/assets/images/import_image/7697.jpg",
+  "modx_id": 7697,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

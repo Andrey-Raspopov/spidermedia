@@ -9,6 +9,12 @@
     "jeff-smith",
     "dzhef-smit"
   ],
+  "cover": "https://web.archive.org/web/20161110200136im_/http://spidermedia.ru/assets/images/news/bone-coda.jpg",
+  "modx_id": 101132,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

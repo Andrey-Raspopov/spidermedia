@@ -4,6 +4,12 @@
   "url": "/games/gamermedia-3-mmo-igry-v-kotorye-nado-poigrat-esli-vy-ne-esli/",
   "original_url": "https://spidermedia.ru/games/gamermedia-3-mmo-igry-v-kotorye-nado-poigrat-esli-vy-ne-esli",
   "archived": "https://web.archive.org/web/20260117232152/https://spidermedia.ru/games/gamermedia-3-mmo-igry-v-kotorye-nado-poigrat-esli-vy-ne-esli",
+  "cover": "https://web.archive.org/web/20160127090433im_/http://spidermedia.ru/assets/images/games/mmo/mmo_01_01.jpg",
+  "modx_id": 100709,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

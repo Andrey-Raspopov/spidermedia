@@ -11,6 +11,12 @@
     "captain-america",
     "civil-war"
   ],
+  "cover": "https://web.archive.org/web/20160611125453im_/http://spidermedia.ru/assets/images/news/images/1_comics/marvel/civil-war-ii/marvel-fcbd-thanos.jpg",
+  "modx_id": 100886,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

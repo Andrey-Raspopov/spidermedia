@@ -7,6 +7,12 @@
   "tags": [
     "zvezdnye-vojny"
   ],
+  "cover": "https://web.archive.org/web/20260312010423im_/http://spidermedia.ru/assets/images/movies/other/star-wars-7/1430743508.jpg",
+  "modx_id": 100191,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

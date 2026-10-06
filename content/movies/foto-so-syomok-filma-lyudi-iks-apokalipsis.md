@@ -9,6 +9,12 @@
     "x-men",
     "marvel"
   ],
+  "cover": "https://web.archive.org/web/20260313113943im_/http://spidermedia.ru/assets/images/x-men-logo.jpg",
+  "modx_id": 100541,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

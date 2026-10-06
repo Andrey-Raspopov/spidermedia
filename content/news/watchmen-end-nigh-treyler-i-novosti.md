@@ -1,7 +1,10 @@
 {
   "title": "Watchmen: The End Is Nigh: трейлер и новости",
-  "date": "2009-03-03T15:32:00+03:00",
+  "date": "2009-03-03T15:32:39+03:00",
   "url": "/news/watchmen-end-nigh-treyler-i-novosti/",
+  "aliases": [
+    "/node/570/"
+  ],
   "original_url": "http://spidermedia.ru/news/watchmen-end-nigh-treyler-i-novosti",
   "archived": "https://web.archive.org/web/20260211101744/http://spidermedia.ru/news/watchmen-end-nigh-treyler-i-novosti",
   "tags": [
@@ -12,6 +15,11 @@
     "trejlery",
     "rorshah",
     "nochnoj-filin"
+  ],
+  "modx_id": 570,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

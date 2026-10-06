@@ -1,11 +1,17 @@
 {
   "title": "День новых комиксов: 4 июня",
-  "date": "2014-06-04T14:13:00+03:00",
+  "date": "2014-06-04T13:13:10+03:00",
   "url": "/news/den-novyh-komiksov-4-iyunya/",
   "original_url": "http://spidermedia.ru/news/den-novyh-komiksov-4-iyunya",
   "archived": "https://web.archive.org/web/20190914074714/http://spidermedia.ru:80/news/den-novyh-komiksov-4-iyunya",
   "tags": [
     "den-novyh-komiksov"
+  ],
+  "cover": "https://web.archive.org/web/20150425064502im_/http://spidermedia.ru/assets/images/import_image/7768.jpg",
+  "modx_id": 7768,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

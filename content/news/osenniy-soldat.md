@@ -1,6 +1,6 @@
 {
   "title": "Осенний солдат",
-  "date": "2012-08-03T18:07:00+03:00",
+  "date": "2012-08-03T17:07:35+03:00",
   "url": "/news/osenniy-soldat/",
   "original_url": "http://spidermedia.ru/news/osenniy-soldat",
   "archived": "https://web.archive.org/web/20240305030107/http://spidermedia.ru/news/osenniy-soldat",
@@ -8,6 +8,12 @@
     "rik-remender",
     "dzhon-romita-ml",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150326221123im_/http://spidermedia.ru/assets/images/import_image/7000.jpg",
+  "modx_id": 7000,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

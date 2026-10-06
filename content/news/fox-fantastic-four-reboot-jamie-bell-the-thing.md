@@ -1,12 +1,18 @@
 {
   "title": "It's Clobberin' Time!",
-  "date": "2014-02-20T11:59:00+03:00",
+  "date": "2014-02-20T10:59:08+03:00",
   "url": "/news/fox-fantastic-four-reboot-jamie-bell-the-thing/",
   "original_url": "http://spidermedia.ru/news/fox-fantastic-four-reboot-jamie-bell-the-thing",
   "archived": "https://web.archive.org/web/20250512113849/http://spidermedia.ru/news/fox-fantastic-four-reboot-jamie-bell-the-thing",
   "tags": [
     "fantastic-four",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150424061900im_/http://spidermedia.ru/assets/images/import_image/7652.jpg",
+  "modx_id": 7652,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

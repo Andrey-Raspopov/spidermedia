@@ -1,12 +1,19 @@
 {
   "title": "Детектив всем по карману",
-  "date": "2013-03-20T06:13:00+03:00",
+  "date": "2013-03-20T05:13:14+03:00",
   "url": "/news/detektiv-vsem-po-karmanu/",
   "original_url": "https://spidermedia.ru/news/detektiv-vsem-po-karmanu",
   "archived": "https://web.archive.org/web/20250424094639/https://spidermedia.ru/news/detektiv-vsem-po-karmanu",
   "tags": [
     "markos-martin",
-    "brian-k-vaughan"
+    "brian-k-vaughan",
+    "brajan-k.-von"
+  ],
+  "cover": "https://web.archive.org/web/20250424094639im_/http://spidermedia.ru/assets/images/import_image/7164.jpg",
+  "modx_id": 7164,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

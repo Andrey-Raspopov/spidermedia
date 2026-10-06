@@ -1,13 +1,22 @@
 {
   "title": "Комикс \"Spider-Girl\" в фильме \"Жмурки\"",
-  "date": "2009-08-15T02:16:00+03:00",
+  "date": "2009-08-15T01:16:55+03:00",
   "url": "/blog/sterpazook/komiks-spider-girl-v-filme-zhmurki/",
+  "aliases": [
+    "/node/1789/"
+  ],
   "original_url": "https://spidermedia.ru/blog/sterpazook/komiks-spider-girl-v-filme-zhmurki",
   "archived": "https://web.archive.org/web/20251115031144/https://spidermedia.ru/blog/sterpazook/komiks-spider-girl-v-filme-zhmurki",
   "tags": [
     "marvel",
     "spider-girl",
     "devushka-pauk"
+  ],
+  "cover": "https://web.archive.org/web/20251115031144im_/http://spidermedia.ru/assets/images/import_image/1789.jpg",
+  "modx_id": 1789,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

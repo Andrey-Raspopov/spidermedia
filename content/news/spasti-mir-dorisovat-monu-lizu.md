@@ -1,6 +1,6 @@
 {
   "title": "Спасти мир, дорисовать Мону Лизу",
-  "date": "2010-03-30T12:28:00+03:00",
+  "date": "2010-03-30T11:28:12+03:00",
   "url": "/news/spasti-mir-dorisovat-monu-lizu/",
   "original_url": "https://spidermedia.ru/news/spasti-mir-dorisovat-monu-lizu",
   "archived": "https://web.archive.org/web/20240720191200/https://spidermedia.ru/news/spasti-mir-dorisovat-monu-lizu",
@@ -9,6 +9,12 @@
     "dastin-uiver",
     "s.h.i.e.l.d",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20240720191200im_/http://spidermedia.ru/assets/images/import_image/2489.jpg",
+  "modx_id": 2489,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

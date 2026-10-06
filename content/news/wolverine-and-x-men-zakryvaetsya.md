@@ -1,13 +1,20 @@
 {
   "title": "Wolverine and the X-Men закрывается",
-  "date": "2013-11-15T12:39:00+03:00",
+  "date": "2013-11-15T11:39:17+03:00",
   "url": "/news/wolverine-and-x-men-zakryvaetsya/",
   "original_url": "http://spidermedia.ru/news/wolverine-and-x-men-zakryvaetsya",
   "archived": "https://web.archive.org/web/20251111082556/http://spidermedia.ru/news/wolverine-and-x-men-zakryvaetsya",
   "tags": [
     "dzheyson-aaron",
     "x-men",
-    "marvel"
+    "marvel",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20251111082556im_/http://spidermedia.ru/assets/images/import_image/7548.jpg",
+  "modx_id": 7548,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

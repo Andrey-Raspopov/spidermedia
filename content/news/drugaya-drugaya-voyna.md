@@ -1,6 +1,6 @@
 {
   "title": "Другая другая война",
-  "date": "2013-10-30T05:24:00+03:00",
+  "date": "2013-10-30T04:24:35+03:00",
   "url": "/news/drugaya-drugaya-voyna/",
   "original_url": "http://spidermedia.ru/news/drugaya-drugaya-voyna",
   "archived": "https://web.archive.org/web/20190216232857/http://spidermedia.ru:80/news/drugaya-drugaya-voyna",
@@ -9,6 +9,12 @@
     "rik-remender",
     "winter-soldier",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20190216232857im_/http://spidermedia.ru/assets/images/import_image/7520.jpg",
+  "modx_id": 7520,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

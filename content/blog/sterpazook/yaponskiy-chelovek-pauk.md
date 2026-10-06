@@ -1,13 +1,23 @@
 {
   "title": "Японский Человек-Паук",
-  "date": "2009-04-24T16:52:00+03:00",
+  "date": "2009-04-24T15:52:05+03:00",
   "url": "/blog/sterpazook/yaponskiy-chelovek-pauk/",
+  "aliases": [
+    "/node/1042/"
+  ],
   "original_url": "https://spidermedia.ru/blog/sterpazook/yaponskiy-chelovek-pauk",
   "archived": "https://web.archive.org/web/20260209110920/https://spidermedia.ru/blog/sterpazook/yaponskiy-chelovek-pauk",
   "tags": [
     "serialy",
     "spider-man",
-    "japanese-spider-man"
+    "japanese-spider-man",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20160611152110im_/http://spidermedia.ru/assets/images/import_image/1042.jpg",
+  "modx_id": 1042,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

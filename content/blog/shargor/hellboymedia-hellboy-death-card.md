@@ -1,12 +1,18 @@
 {
   "title": "Hellboymedia #02: Hellboy — The Death Card",
-  "date": "2014-06-11T13:59:00+03:00",
+  "date": "2014-06-11T12:59:24+03:00",
   "url": "/blog/shargor/hellboymedia-hellboy-death-card/",
   "original_url": "https://spidermedia.ru/blog/shargor/hellboymedia-hellboy-death-card",
   "archived": "https://web.archive.org/web/20260125124929/https://spidermedia.ru/blog/shargor/hellboymedia-hellboy-death-card",
   "tags": [
     "hellboymedia",
     "mnenie"
+  ],
+  "cover": "https://web.archive.org/web/20160611145400im_/http://spidermedia.ru/assets/images/hellboymedia/regular/02-hellboy-the-death-card/hellboy-the-death-card-cover.jpg",
+  "modx_id": 7806,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "Неуступчивый Рэйми",
-  "date": "2010-01-06T16:30:00+03:00",
+  "date": "2010-01-06T15:30:48+03:00",
   "url": "/news/neustupchivyy-reymi/",
+  "aliases": [
+    "/node/2222/"
+  ],
   "original_url": "http://spidermedia.ru/news/neustupchivyy-reymi",
   "archived": "https://web.archive.org/web/20120607155611/http://spidermedia.ru/news/neustupchivyy-reymi",
   "tags": [
@@ -9,7 +12,15 @@
     "spider-man-4",
     "kino",
     "sem-reymi",
-    "chelovek-pauk-4"
+    "chelovek-pauk-4",
+    "sem-rejmi",
+    "spider-man"
+  ],
+  "cover": "https://web.archive.org/web/20120607155611im_/http://spidermedia.ru/assets/images/import_image/2222.jpg",
+  "modx_id": 2222,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

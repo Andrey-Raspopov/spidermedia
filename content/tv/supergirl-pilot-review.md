@@ -8,6 +8,12 @@
     "dc-comics",
     "supergirl"
   ],
+  "cover": "https://web.archive.org/web/20160611101314im_/http://spidermedia.ru/assets/images/tv/supergirl/pilot-review/final.jpg",
+  "modx_id": 100258,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

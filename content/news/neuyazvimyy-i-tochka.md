@@ -1,6 +1,6 @@
 {
   "title": "Неуязвимый и точка",
-  "date": "2012-07-30T18:06:00+03:00",
+  "date": "2012-07-30T17:06:27+03:00",
   "url": "/news/neuyazvimyy-i-tochka/",
   "original_url": "http://spidermedia.ru/news/neuyazvimyy-i-tochka",
   "archived": "https://web.archive.org/web/20250116113840/http://spidermedia.ru/news/neuyazvimyy-i-tochka",
@@ -8,7 +8,14 @@
     "kiron-gillen",
     "greg-lend",
     "iron-man",
-    "marvel"
+    "marvel",
+    "zheleznyy-chelovek"
+  ],
+  "cover": "https://web.archive.org/web/20150326220952im_/http://spidermedia.ru/assets/images/import_image/6992.jpg",
+  "modx_id": 6992,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

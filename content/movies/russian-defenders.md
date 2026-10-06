@@ -7,6 +7,12 @@
   "tags": [
     "zashhitniki"
   ],
+  "cover": "https://web.archive.org/web/20160611155020im_/http://spidermedia.ru/assets/images/movies/other/zaschitniki/kinopoisk_ru-zaschitniki-2507068.jpg",
+  "modx_id": 100125,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

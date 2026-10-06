@@ -8,6 +8,12 @@
     "alan-mur",
     "cifrovye-komiksy"
   ],
+  "cover": "https://web.archive.org/web/20250804012120im_/http://spidermedia.ru/assets/images/news/electricomics/img_1044-1038x576.jpg",
+  "modx_id": 100510,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

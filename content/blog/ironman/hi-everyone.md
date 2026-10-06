@@ -1,13 +1,22 @@
 {
   "title": "Hi everyone!",
-  "date": "2009-02-01T16:50:00+03:00",
+  "date": "2009-02-01T16:50:17+03:00",
   "url": "/blog/ironman/hi-everyone/",
+  "aliases": [
+    "/node/74/"
+  ],
   "original_url": "https://spidermedia.ru/blog/ironman/hi-everyone",
   "archived": "https://web.archive.org/web/20250618124302/https://spidermedia.ru/blog/ironman/hi-everyone",
   "tags": [
     "iron-man",
     "reportazh",
-    "marvel"
+    "marvel",
+    "zheleznyy-chelovek"
+  ],
+  "modx_id": 74,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,12 +1,22 @@
 {
   "title": "Страх и ненависть",
-  "date": "2010-12-16T22:21:00+03:00",
+  "date": "2010-12-16T22:21:48+03:00",
   "url": "/news/strah-i-nenavist/",
+  "aliases": [
+    "/node/3122/"
+  ],
   "original_url": "http://spidermedia.ru/news/strah-i-nenavist",
   "archived": "https://web.archive.org/web/20190915061345/http://spidermedia.ru:80/news/strah-i-nenavist",
   "tags": [
     "art-0",
-    "marvel"
+    "marvel",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20190915061345im_/http://spidermedia.ru/assets/images/import_image/3122.jpg",
+  "modx_id": 3122,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Ольга Куриленко метит на роль Чудо-Женщины",
-  "date": "2013-11-08T14:04:00+03:00",
+  "date": "2013-11-08T13:04:48+03:00",
   "url": "/news/olga-kurilenko-metit-na-rol-chudo-zhenshchiny/",
   "original_url": "https://spidermedia.ru/news/olga-kurilenko-metit-na-rol-chudo-zhenshchiny",
   "archived": "https://web.archive.org/web/20260123083007/https://spidermedia.ru/news/olga-kurilenko-metit-na-rol-chudo-zhenshchiny",
@@ -10,6 +10,12 @@
     "superman",
     "batman",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150326221026im_/http://spidermedia.ru/assets/images/import_image/7537.jpg",
+  "modx_id": 7537,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,11 +1,20 @@
 {
   "title": "Новые претенденты на роль Зеленого Фонаря",
-  "date": "2009-07-10T09:42:00+03:00",
+  "date": "2009-07-10T08:42:25+03:00",
   "url": "/news/novye-pretendenty-na-rol-zelenogo-fonarya/",
+  "aliases": [
+    "/node/1521/"
+  ],
   "original_url": "http://spidermedia.ru/news/novye-pretendenty-na-rol-zelenogo-fonarya",
   "archived": "https://web.archive.org/web/20250806051303/http://spidermedia.ru/news/novye-pretendenty-na-rol-zelenogo-fonarya",
   "tags": [
     "green-lantern"
+  ],
+  "cover": "https://web.archive.org/web/20250806051303im_/http://spidermedia.ru/assets/images/import_image/1521.jpg",
+  "modx_id": 1521,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

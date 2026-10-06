@@ -1,13 +1,22 @@
 {
   "title": "The Avengers: Earth's Mightiest Heroes: Все 20 микро-эпизодов",
-  "date": "2010-10-08T17:17:00+03:00",
+  "date": "2010-10-08T16:17:46+03:00",
   "url": "/news/avengers-earths-mightiest-heroes-vse-20-mikro-epizodov/",
+  "aliases": [
+    "/node/2949/"
+  ],
   "original_url": "http://spidermedia.ru/news/avengers-earths-mightiest-heroes-vse-20-mikro-epizodov",
   "archived": "https://web.archive.org/web/20260123075311/http://spidermedia.ru/news/avengers-earths-mightiest-heroes-vse-20-mikro-epizodov",
   "tags": [
     "animaciya",
     "marvel",
     "avengers"
+  ],
+  "cover": "https://web.archive.org/web/20150326160427im_/http://spidermedia.ru/assets/images/import_image/2949.jpg",
+  "modx_id": 2949,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

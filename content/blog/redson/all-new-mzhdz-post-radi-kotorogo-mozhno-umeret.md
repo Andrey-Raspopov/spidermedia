@@ -1,12 +1,18 @@
 {
   "title": "ALL-NEW МЖДЗ: ПОСТ, РАДИ КОТОРОГО МОЖНО УМЕРЕТЬ",
-  "date": "2014-10-31T14:09:00+03:00",
+  "date": "2014-10-31T14:09:41+03:00",
   "url": "/blog/redson/all-new-mzhdz-post-radi-kotorogo-mozhno-umeret/",
   "original_url": "http://spidermedia.ru/blog/redson/all-new-mzhdz-post-radi-kotorogo-mozhno-umeret",
   "archived": "https://web.archive.org/web/20161112213014/http://spidermedia.ru:80/blog/redson/all-new-mzhdz-post-radi-kotorogo-mozhno-umeret",
   "tags": [
     "obzor",
     "mzhdz"
+  ],
+  "cover": "https://web.archive.org/web/20150428180719im_/http://spidermedia.ru/assets/images/import_image/8248.jpg",
+  "modx_id": 8248,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

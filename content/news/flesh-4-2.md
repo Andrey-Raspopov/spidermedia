@@ -1,6 +1,6 @@
 {
   "title": "Флэш: 4/2",
-  "date": "2009-04-08T21:51:00+03:00",
+  "date": "2009-04-08T20:51:52+03:00",
   "url": "/news/flesh-4-2/",
   "original_url": "http://spidermedia.ru/news/flesh-4-2",
   "archived": "https://web.archive.org/web/20241106112159/http://spidermedia.ru/news/flesh-4-2",
@@ -8,6 +8,12 @@
     "dc-comics",
     "the-flash",
     "ethan-van-sciver"
+  ],
+  "cover": "https://web.archive.org/web/20241106112159im_/http://spidermedia.ru/assets/images/import_image/890.jpg",
+  "modx_id": 890,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

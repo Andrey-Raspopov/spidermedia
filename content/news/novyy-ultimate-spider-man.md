@@ -1,6 +1,6 @@
 {
   "title": "Новый Ultimate Spider-Man",
-  "date": "2011-04-18T17:11:00+03:00",
+  "date": "2011-04-18T16:11:43+03:00",
   "url": "/news/novyy-ultimate-spider-man/",
   "original_url": "http://spidermedia.ru/news/novyy-ultimate-spider-man",
   "archived": "https://web.archive.org/web/20260116215912/http://spidermedia.ru/news/novyy-ultimate-spider-man",
@@ -8,7 +8,14 @@
     "spider-man",
     "art-0",
     "ultimate",
-    "marvel"
+    "marvel",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20260116215912im_/http://spidermedia.ru/assets/images/import_image/5062.jpg",
+  "modx_id": 5062,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

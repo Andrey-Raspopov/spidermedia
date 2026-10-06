@@ -1,7 +1,10 @@
 {
   "title": "Reborn, Reborn и ещё раз Reborn!",
-  "date": "2009-07-07T23:56:00+03:00",
+  "date": "2009-07-07T22:56:40+03:00",
   "url": "/news/reborn-reborn-i-eshchyo-raz-reborn/",
+  "aliases": [
+    "/node/1504/"
+  ],
   "original_url": "http://spidermedia.ru/news/reborn-reborn-i-eshchyo-raz-reborn",
   "archived": "https://web.archive.org/web/20260309190733/http://spidermedia.ru/news/reborn-reborn-i-eshchyo-raz-reborn",
   "tags": [
@@ -13,7 +16,13 @@
     "red-skull",
     "reborn",
     "marvel",
-    "captain-america"
+    "captain-america",
+    "brayan-hitch"
+  ],
+  "modx_id": 1504,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

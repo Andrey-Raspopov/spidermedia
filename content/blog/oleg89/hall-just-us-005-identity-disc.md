@@ -1,6 +1,6 @@
 {
   "title": "Hall of Just Us 005: Identity Disc",
-  "date": "2010-10-05T17:14:00+03:00",
+  "date": "2010-10-05T16:14:20+03:00",
   "url": "/blog/oleg89/hall-just-us-005-identity-disc/",
   "original_url": "http://spidermedia.ru/blog/oleg89/hall-just-us-005-identity-disc",
   "archived": "https://web.archive.org/web/20120608181525/http://spidermedia.ru/blog/oleg89/hall-just-us-005-identity-disc",
@@ -10,7 +10,14 @@
     "komiksy",
     "marvel",
     "mnenie",
-    "robert-rodi"
+    "robert-rodi",
+    "hall-of-just-us"
+  ],
+  "cover": "https://web.archive.org/web/20120608181525im_/http://spidermedia.ru/assets/images/import_image/2971.jpg",
+  "modx_id": 2971,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

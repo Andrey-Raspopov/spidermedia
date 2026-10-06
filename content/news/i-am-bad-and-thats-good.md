@@ -1,11 +1,17 @@
 {
   "title": "I am bad and that's good",
-  "date": "2013-04-11T14:17:00+03:00",
+  "date": "2013-04-11T13:17:43+03:00",
   "url": "/news/i-am-bad-and-thats-good/",
   "original_url": "http://spidermedia.ru/news/i-am-bad-and-thats-good",
   "archived": "https://web.archive.org/web/20150501153454/http://spidermedia.ru/news/i-am-bad-and-thats-good",
   "tags": [
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150501153454im_/http://spidermedia.ru/assets/images/import_image/7196.jpg",
+  "modx_id": 7196,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

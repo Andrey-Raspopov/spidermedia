@@ -1,7 +1,10 @@
 {
   "title": "SDCC'10: Hasbro - \"Тор\" и \"Первый Мститель\"",
-  "date": "2010-07-26T14:57:00+03:00",
+  "date": "2010-07-26T13:57:43+03:00",
   "url": "/news/sdcc10-hasbro-tor-i-pervyy-mstitel-kapitan-amerika/",
+  "aliases": [
+    "/node/2805/"
+  ],
   "original_url": "https://spidermedia.ru/news/sdcc10-hasbro-tor-i-pervyy-mstitel-kapitan-amerika",
   "archived": "https://web.archive.org/web/20251110222258/https://spidermedia.ru/news/sdcc10-hasbro-tor-i-pervyy-mstitel-kapitan-amerika",
   "tags": [
@@ -10,7 +13,14 @@
     "thor",
     "marvel",
     "hasbro",
-    "captain-america"
+    "captain-america",
+    "tor"
+  ],
+  "cover": "https://web.archive.org/web/20251110222258im_/http://spidermedia.ru/assets/images/import_image/2805.jpg",
+  "modx_id": 2805,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

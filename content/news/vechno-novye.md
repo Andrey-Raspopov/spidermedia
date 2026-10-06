@@ -1,13 +1,22 @@
 {
   "title": "Вечно новые",
-  "date": "2009-10-29T01:21:00+03:00",
+  "date": "2009-10-29T01:21:04+03:00",
   "url": "/news/vechno-novye/",
+  "aliases": [
+    "/node/2033/"
+  ],
   "original_url": "http://spidermedia.ru/news/vechno-novye",
   "archived": "https://web.archive.org/web/20190924030550/http://spidermedia.ru:80/news/vechno-novye",
   "tags": [
     "x-men",
     "kris-klermont",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20190924030550im_/http://spidermedia.ru/assets/images/x-men-logo.jpg",
+  "modx_id": 2033,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

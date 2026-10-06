@@ -1,12 +1,18 @@
 {
   "title": "Мы не жалкие букашки",
-  "date": "2014-02-01T21:21:00+03:00",
+  "date": "2014-02-01T20:21:50+03:00",
   "url": "/news/my-ne-zhalkie-bukashki/",
   "original_url": "http://spidermedia.ru/news/my-ne-zhalkie-bukashki",
   "archived": "https://web.archive.org/web/20190915020947/http://spidermedia.ru:80/news/my-ne-zhalkie-bukashki",
   "tags": [
     "ninja-turtles",
     "majkl-bej"
+  ],
+  "cover": "https://web.archive.org/web/20190915020947im_/http://spidermedia.ru/assets/images/import_image/7622.jpg",
+  "modx_id": 7622,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

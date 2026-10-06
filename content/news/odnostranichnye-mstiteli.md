@@ -1,14 +1,24 @@
 {
   "title": "Одностраничные Мстители",
-  "date": "2009-04-11T20:06:00+03:00",
+  "date": "2009-04-11T19:06:24+03:00",
   "url": "/news/odnostranichnye-mstiteli/",
+  "aliases": [
+    "/node/916/"
+  ],
   "original_url": "https://spidermedia.ru/news/odnostranichnye-mstiteli",
   "archived": "https://web.archive.org/web/20260123073918/https://spidermedia.ru/news/odnostranichnye-mstiteli",
   "tags": [
     "marvel",
     "art-0",
     "new-avengers",
-    "avengers"
+    "avengers",
+    "art",
+    "novye-mstiteli"
+  ],
+  "modx_id": 916,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

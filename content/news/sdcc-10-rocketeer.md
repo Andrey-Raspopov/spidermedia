@@ -1,6 +1,6 @@
 {
   "title": "SDCC '10: The Rocketeer",
-  "date": "2010-07-26T22:00:00+03:00",
+  "date": "2010-07-26T21:00:42+03:00",
   "url": "/news/sdcc-10-rocketeer/",
   "original_url": "http://spidermedia.ru/news/sdcc-10-rocketeer",
   "archived": "https://web.archive.org/web/20260125124450/http://spidermedia.ru/news/sdcc-10-rocketeer",
@@ -9,6 +9,12 @@
     "san-diego-comic-con-international",
     "rocketeer",
     "idw-publishing"
+  ],
+  "cover": "https://web.archive.org/web/20260125124450im_/http://spidermedia.ru/assets/images/import_image/2808.jpg",
+  "modx_id": 2808,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

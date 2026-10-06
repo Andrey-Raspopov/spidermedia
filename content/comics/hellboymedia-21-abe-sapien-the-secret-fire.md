@@ -8,6 +8,12 @@
     "hellboymedia",
     "mnenie"
   ],
+  "cover": "https://web.archive.org/web/20160611142927im_/http://spidermedia.ru/assets/images/hellboymedia/regular/21-abe-sapien-the-secret-fire/abe-sapien-the-secret-fire-cover.jpg",
+  "modx_id": 100935,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -7,6 +7,12 @@
   "tags": [
     "marvel"
   ],
+  "cover": "https://web.archive.org/web/20160611145358im_/http://spidermedia.ru/assets/images/news/images/2_movies/marvel/civil-war/martin_freeman_captain_america_civil_war.jpg",
+  "modx_id": 100942,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

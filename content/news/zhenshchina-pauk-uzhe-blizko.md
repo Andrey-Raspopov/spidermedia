@@ -1,7 +1,10 @@
 {
   "title": "Женщина-Паук уже близко",
-  "date": "2009-02-24T01:18:00+03:00",
+  "date": "2009-02-24T01:18:52+03:00",
   "url": "/news/zhenshchina-pauk-uzhe-blizko/",
+  "aliases": [
+    "/node/488/"
+  ],
   "original_url": "http://spidermedia.ru/news/zhenshchina-pauk-uzhe-blizko",
   "archived": "https://web.archive.org/web/20190924060858/http://spidermedia.ru:80/news/zhenshchina-pauk-uzhe-blizko",
   "tags": [
@@ -9,7 +12,14 @@
     "art-0",
     "alex-maleev",
     "spider-woman",
-    "marvel"
+    "marvel",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20190924060858im_/http://spidermedia.ru/assets/images/import_image/488.jpg",
+  "modx_id": 488,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

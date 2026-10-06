@@ -4,6 +4,12 @@
   "url": "/comics/comic-con-russia-igromir-2019/",
   "original_url": "http://spidermedia.ru/comics/comic-con-russia-igromir-2019",
   "archived": "https://web.archive.org/web/20210227001756/http://spidermedia.ru/comics/comic-con-russia-igromir-2019",
+  "cover": "https://web.archive.org/web/20210227001756im_/http://spidermedia.ru/assets/images/screenshot-7.png",
+  "modx_id": 102163,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

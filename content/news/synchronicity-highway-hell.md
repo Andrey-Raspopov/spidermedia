@@ -1,6 +1,6 @@
 {
   "title": "Synchronicity highway to Hell",
-  "date": "2012-11-08T17:36:00+03:00",
+  "date": "2012-11-08T16:36:24+03:00",
   "url": "/news/synchronicity-highway-hell/",
   "original_url": "http://spidermedia.ru/news/synchronicity-highway-hell",
   "archived": "https://web.archive.org/web/20150501130826/http://spidermedia.ru/news/synchronicity-highway-hell",
@@ -10,6 +10,12 @@
     "dzhon-konstantin",
     "john-constantine",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150502155710im_/http://spidermedia.ru/assets/images/import_image/7084.jpg",
+  "modx_id": 7084,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

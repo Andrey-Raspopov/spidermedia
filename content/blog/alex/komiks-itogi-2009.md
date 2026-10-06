@@ -1,13 +1,22 @@
 {
   "title": "Комикс-итоги 2009",
-  "date": "2009-12-28T16:29:00+03:00",
+  "date": "2009-12-28T16:29:19+03:00",
   "url": "/blog/alex/komiks-itogi-2009/",
+  "aliases": [
+    "/node/2202/"
+  ],
   "original_url": "http://spidermedia.ru/blog/alex/komiks-itogi-2009",
   "archived": "https://web.archive.org/web/20250519174141/http://spidermedia.ru/blog/alex/komiks-itogi-2009",
   "tags": [
     "marvel",
     "dc-comics",
     "blackest-night"
+  ],
+  "cover": "https://web.archive.org/web/20250519174141im_/http://spidermedia.ru/assets/images/import_image/2202.jpg",
+  "modx_id": 2202,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

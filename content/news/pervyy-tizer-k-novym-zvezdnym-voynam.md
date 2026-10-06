@@ -1,11 +1,16 @@
 {
   "title": "Первый тизер к новым «Звездным войнам»",
-  "date": "2014-11-28T18:45:00+03:00",
+  "date": "2014-11-28T18:45:50+03:00",
   "url": "/news/pervyy-tizer-k-novym-zvezdnym-voynam/",
   "original_url": "https://spidermedia.ru/news/pervyy-tizer-k-novym-zvezdnym-voynam",
   "archived": "https://web.archive.org/web/20250424104820/https://spidermedia.ru/news/pervyy-tizer-k-novym-zvezdnym-voynam",
   "tags": [
     "zvezdnye-vojny"
+  ],
+  "modx_id": 8326,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

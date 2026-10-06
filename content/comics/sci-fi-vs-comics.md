@@ -4,6 +4,12 @@
   "url": "/comics/sci-fi-vs-comics/",
   "original_url": "http://spidermedia.ru/comics/sci-fi-vs-comics",
   "archived": "https://web.archive.org/web/20260120151005/http://spidermedia.ru/comics/sci-fi-vs-comics",
+  "cover": "https://web.archive.org/web/20260120151005im_/http://spidermedia.ru/assets/images/articles/scifiandcomics/01.jpg",
+  "modx_id": 100619,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

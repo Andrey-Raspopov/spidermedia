@@ -4,6 +4,9 @@
   "url": "/characters/marvel/other_list/",
   "original_url": "http://www.spidermedia.ru/characters/marvel/other_list.html",
   "archived": "https://web.archive.org/web/20050312014003/http://www.spidermedia.ru:80/characters/marvel/other_list.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

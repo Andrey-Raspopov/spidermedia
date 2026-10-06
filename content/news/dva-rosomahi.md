@@ -1,13 +1,20 @@
 {
   "title": "Два Росомахи",
-  "date": "2009-02-06T02:57:00+03:00",
+  "date": "2009-02-06T02:57:44+03:00",
   "url": "/news/dva-rosomahi/",
   "original_url": "http://spidermedia.ru/news/dva-rosomahi",
   "archived": "https://web.archive.org/web/20150423182003/http://spidermedia.ru/news/dva-rosomahi",
   "tags": [
     "kino",
     "wolverine",
-    "marvel-comics"
+    "marvel-comics",
+    "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150423182003im_/http://spidermedia.ru/assets/images/import_image/223.jpg",
+  "modx_id": 223,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

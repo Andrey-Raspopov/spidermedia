@@ -1,6 +1,6 @@
 {
   "title": "На русском языке издадут комикс «Бэтмен: год первый»",
-  "date": "2014-10-10T15:23:00+03:00",
+  "date": "2014-10-10T14:23:26+03:00",
   "url": "/news/na-russkom-yazyke-izdadut-komiks-betmen-god-pervyy/",
   "original_url": "https://spidermedia.ru/news/na-russkom-yazyke-izdadut-komiks-betmen-god-pervyy",
   "archived": "https://web.archive.org/web/20251115180149/https://spidermedia.ru/news/na-russkom-yazyke-izdadut-komiks-betmen-god-pervyy",
@@ -9,6 +9,12 @@
     "batman",
     "azbuka",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20160611213023im_/http://spidermedia.ru/assets/images/import_image/8161.jpg",
+  "modx_id": 8161,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

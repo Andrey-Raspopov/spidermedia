@@ -1,11 +1,20 @@
 {
   "title": "Darts of Pleasure",
-  "date": "2009-12-23T19:03:00+03:00",
+  "date": "2009-12-23T19:03:30+03:00",
   "url": "/blog/plane-v/darts-pleasure/",
+  "aliases": [
+    "/node/2191/"
+  ],
   "original_url": "http://spidermedia.ru/blog/plane-v/darts-pleasure",
   "archived": "https://web.archive.org/web/20161112213604/http://spidermedia.ru:80/blog/plane-v/darts-pleasure",
   "tags": [
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20161112213604im_/http://spidermedia.ru/assets/images/import_image/2191.jpg",
+  "modx_id": 2191,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

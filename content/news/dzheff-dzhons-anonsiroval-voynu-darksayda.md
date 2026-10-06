@@ -1,6 +1,6 @@
 {
   "title": "Джефф Джонс анонсировал \"Войну Дарксайда\"",
-  "date": "2014-07-31T17:37:00+03:00",
+  "date": "2014-07-31T16:37:41+03:00",
   "url": "/news/dzheff-dzhons-anonsiroval-voynu-darksayda/",
   "original_url": "http://spidermedia.ru/news/dzheff-dzhons-anonsiroval-voynu-darksayda",
   "archived": "https://web.archive.org/web/20251206161747/http://spidermedia.ru/news/dzheff-dzhons-anonsiroval-voynu-darksayda",
@@ -8,6 +8,12 @@
     "dc-comics",
     "darksajd",
     "justice-league"
+  ],
+  "cover": "https://web.archive.org/web/20150327025647im_/http://spidermedia.ru/assets/images/import_image/7954.jpg",
+  "modx_id": 7954,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

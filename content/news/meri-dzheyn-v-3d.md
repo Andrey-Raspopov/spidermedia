@@ -1,13 +1,22 @@
 {
   "title": "Мэри Джейн в 3D",
-  "date": "2010-10-03T03:29:00+03:00",
+  "date": "2010-10-03T02:29:22+03:00",
   "url": "/news/meri-dzheyn-v-3d/",
+  "aliases": [
+    "/node/2964/"
+  ],
   "original_url": "http://spidermedia.ru/news/meri-dzheyn-v-3d",
   "archived": "https://web.archive.org/web/20240613065742/http://spidermedia.ru/news/meri-dzheyn-v-3d",
   "tags": [
     "meri-dzhejn-vatson",
     "mary-jane-watson",
     "spider-man"
+  ],
+  "cover": "https://web.archive.org/web/20240613065742im_/http://spidermedia.ru/assets/images/import_image/2964.jpg",
+  "modx_id": 2964,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

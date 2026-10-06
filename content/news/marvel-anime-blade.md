@@ -1,6 +1,6 @@
 {
   "title": "Marvel Anime: Blade",
-  "date": "2011-06-07T11:09:00+03:00",
+  "date": "2011-06-07T10:09:24+03:00",
   "url": "/news/marvel-anime-blade/",
   "original_url": "http://spidermedia.ru/news/marvel-anime-blade",
   "archived": "https://web.archive.org/web/20251108181702/http://spidermedia.ru/news/marvel-anime-blade",
@@ -10,6 +10,12 @@
     "animaciya",
     "marvel",
     "blade"
+  ],
+  "cover": "https://web.archive.org/web/20251108181702im_/http://spidermedia.ru/assets/images/import_image/6338.jpg",
+  "modx_id": 6338,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

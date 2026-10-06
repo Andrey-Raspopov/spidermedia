@@ -1,7 +1,10 @@
 {
   "title": "Двойное Бэт-удовольствие !",
-  "date": "2009-06-09T15:36:00+03:00",
+  "date": "2009-06-09T14:36:15+03:00",
   "url": "/news/dvoynoe-bet-udovolstvie/",
+  "aliases": [
+    "/node/1391/"
+  ],
   "original_url": "https://spidermedia.ru/news/dvoynoe-bet-udovolstvie",
   "archived": "https://web.archive.org/web/20251108180707/https://spidermedia.ru/news/dvoynoe-bet-udovolstvie",
   "tags": [
@@ -14,7 +17,13 @@
     "kris-jost",
     "judd-winick",
     "ed-benes",
-    "chris-yost"
+    "chris-yost",
+    "prevyu"
+  ],
+  "modx_id": 1391,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

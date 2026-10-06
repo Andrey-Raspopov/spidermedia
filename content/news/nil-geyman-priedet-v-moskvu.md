@@ -1,11 +1,17 @@
 {
   "title": "Нил Гейман приедет в Москву",
-  "date": "2010-03-16T13:34:00+03:00",
+  "date": "2010-03-16T13:34:28+03:00",
   "url": "/news/nil-geyman-priedet-v-moskvu/",
   "original_url": "http://spidermedia.ru/news/nil-geyman-priedet-v-moskvu",
   "archived": "https://web.archive.org/web/20251107005749/http://spidermedia.ru/news/nil-geyman-priedet-v-moskvu",
   "tags": [
     "neil-gaiman"
+  ],
+  "cover": "https://web.archive.org/web/20251107005749im_/http://spidermedia.ru/assets/images/import_image/2439.jpg",
+  "modx_id": 2439,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

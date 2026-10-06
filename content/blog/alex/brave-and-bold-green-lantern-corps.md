@@ -1,6 +1,6 @@
 {
   "title": "Brave and the Bold - Green Lantern Corps",
-  "date": "2009-02-06T15:33:00+03:00",
+  "date": "2009-02-06T15:33:26+03:00",
   "url": "/blog/alex/brave-and-bold-green-lantern-corps/",
   "original_url": "https://spidermedia.ru/blog/alex/brave-and-bold-green-lantern-corps",
   "archived": "https://web.archive.org/web/20250806093442/https://spidermedia.ru/blog/alex/brave-and-bold-green-lantern-corps",
@@ -8,6 +8,11 @@
     "animaciya",
     "green-lantern",
     "dc-comics"
+  ],
+  "modx_id": 229,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

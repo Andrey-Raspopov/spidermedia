@@ -1,6 +1,6 @@
 {
   "title": "Дэдпул против Хоукая",
-  "date": "2014-06-13T10:48:00+03:00",
+  "date": "2014-06-13T09:48:02+03:00",
   "url": "/news/dedpul-protiv-houkaya/",
   "original_url": "https://spidermedia.ru/news/dedpul-protiv-houkaya",
   "archived": "https://web.archive.org/web/20250315174251/https://spidermedia.ru/news/dedpul-protiv-houkaya",
@@ -8,6 +8,12 @@
     "deadpool",
     "marvel",
     "hawkeye"
+  ],
+  "cover": "https://web.archive.org/web/20250315174251im_/http://spidermedia.ru/assets/images/import_image/7813.jpg",
+  "modx_id": 7813,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

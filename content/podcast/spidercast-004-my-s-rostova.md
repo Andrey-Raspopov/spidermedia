@@ -1,11 +1,19 @@
 {
   "title": "SPIDERCAST 004: МЫ С РОСТОВА",
-  "date": "2012-03-28T00:32:00+03:00",
+  "date": "2012-03-27T23:32:54+03:00",
   "url": "/podcast/spidercast-004-my-s-rostova/",
   "original_url": "http://spidermedia.ru/podcast/spidercast-004-my-s-rostova",
   "archived": "https://web.archive.org/web/20260208204313/http://spidermedia.ru/podcast/spidercast-004-my-s-rostova",
   "tags": [
     "spidercast"
+  ],
+  "cover": "https://web.archive.org/web/20150326220714im_/http://spidermedia.ru/misc/files/podcast/covers/kennys.jpg",
+  "podcast_audio": "https://spidermedia.podster.fm/20/download/audio.mp3",
+  "podcast_length": "2:46:56",
+  "modx_id": 6848,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

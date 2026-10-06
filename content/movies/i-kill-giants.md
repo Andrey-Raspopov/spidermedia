@@ -8,6 +8,12 @@
     "image-comics",
     "joe-kelly"
   ],
+  "cover": "https://web.archive.org/web/20260208201633im_/http://spidermedia.ru/assets/images/news/movies/i-kill-giants/ikillgiants-cov-5a395.jpg",
+  "modx_id": 100105,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

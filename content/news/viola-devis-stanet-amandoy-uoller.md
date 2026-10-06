@@ -1,6 +1,6 @@
 {
   "title": "Виола Дэвис станет Амандой Уоллер",
-  "date": "2014-12-17T08:32:00+03:00",
+  "date": "2014-12-17T08:32:04+03:00",
   "url": "/news/viola-devis-stanet-amandoy-uoller/",
   "original_url": "https://spidermedia.ru/news/viola-devis-stanet-amandoy-uoller",
   "archived": "https://web.archive.org/web/20251207103640/https://spidermedia.ru/news/viola-devis-stanet-amandoy-uoller",
@@ -8,6 +8,12 @@
     "suicide-squad",
     "kasting",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20251207103640im_/http://spidermedia.ru/assets/images/import_image/8392.jpg",
+  "modx_id": 8392,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

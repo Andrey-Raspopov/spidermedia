@@ -1,6 +1,6 @@
 {
   "title": "ТРЕЙЛЕР \"МСТИТЕЛЕЙ\"",
-  "date": "2011-10-11T18:03:00+03:00",
+  "date": "2011-10-11T17:03:01+03:00",
   "url": "/news/treyler-mstiteley/",
   "original_url": "https://spidermedia.ru/news/treyler-mstiteley",
   "archived": "https://web.archive.org/web/20260312022537/https://spidermedia.ru/news/treyler-mstiteley",
@@ -14,7 +14,15 @@
     "hulk",
     "hawkeye",
     "captain-america",
-    "avengers"
+    "avengers",
+    "tor",
+    "zheleznyy-chelovek"
+  ],
+  "cover": "https://web.archive.org/web/20260312022537im_/http://spidermedia.ru/assets/images/import_image/6641.jpg",
+  "modx_id": 6641,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

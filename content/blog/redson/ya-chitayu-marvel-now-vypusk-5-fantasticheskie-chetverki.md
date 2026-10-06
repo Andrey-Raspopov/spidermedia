@@ -1,6 +1,6 @@
 {
   "title": "Я читаю Marvel NOW! Выпуск 5: Фантастические Четверки",
-  "date": "2013-07-03T14:46:00+03:00",
+  "date": "2013-07-03T13:46:23+03:00",
   "url": "/blog/redson/ya-chitayu-marvel-now-vypusk-5-fantasticheskie-chetverki/",
   "original_url": "https://spidermedia.ru/blog/redson/ya-chitayu-marvel-now-vypusk-5-fantasticheskie-chetverki",
   "archived": "https://web.archive.org/web/20260211092425/https://spidermedia.ru/blog/redson/ya-chitayu-marvel-now-vypusk-5-fantasticheskie-chetverki",
@@ -10,7 +10,14 @@
     "mnenie",
     "mark-bagli",
     "majkl-ollred",
-    "marvel"
+    "marvel",
+    "mett-frakshen"
+  ],
+  "cover": "https://web.archive.org/web/20150424110556im_/http://spidermedia.ru/assets/images/import_image/7313.jpg",
+  "modx_id": 7313,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

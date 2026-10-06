@@ -1,12 +1,18 @@
 {
   "title": "Первые кадры из \"Духа Мщения\"",
-  "date": "2011-07-29T04:09:00+03:00",
+  "date": "2011-07-29T03:09:20+03:00",
   "url": "/news/pervye-kadry-iz-duha-mshcheniya/",
   "original_url": "https://spidermedia.ru/news/pervye-kadry-iz-duha-mshcheniya",
   "archived": "https://web.archive.org/web/20251108195634/https://spidermedia.ru/news/pervye-kadry-iz-duha-mshcheniya",
   "tags": [
     "marvel",
     "prizrachnyj-gonshhik"
+  ],
+  "cover": "https://web.archive.org/web/20251108195634im_/http://spidermedia.ru/assets/images/import_image/6535.jpg",
+  "modx_id": 6535,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "Новый проект Марка Миллара и Лейнила Фрэнсиса Ю",
-  "date": "2010-06-02T14:25:00+03:00",
+  "date": "2010-06-02T13:25:59+03:00",
   "url": "/news/novyy-proekt-marka-millara-i-leynila-frensisa-yu/",
+  "aliases": [
+    "/node/2649/"
+  ],
   "original_url": "https://spidermedia.ru/news/novyy-proekt-marka-millara-i-leynila-frensisa-yu",
   "archived": "https://web.archive.org/web/20260211183502/https://spidermedia.ru/news/novyy-proekt-marka-millara-i-leynila-frensisa-yu",
   "tags": [
@@ -9,6 +12,12 @@
     "lejnil-frensis-yu",
     "superior",
     "creator-owned"
+  ],
+  "cover": "https://web.archive.org/web/20260211183502im_/http://spidermedia.ru/assets/images/import_image/2649.jpg",
+  "modx_id": 2649,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

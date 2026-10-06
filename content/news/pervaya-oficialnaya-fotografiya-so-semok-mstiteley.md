@@ -1,6 +1,6 @@
 {
   "title": "Первая официальная фотография со съемок \"Мстителей\"",
-  "date": "2011-04-26T18:45:00+03:00",
+  "date": "2011-04-26T17:45:45+03:00",
   "url": "/news/pervaya-oficialnaya-fotografiya-so-semok-mstiteley/",
   "original_url": "http://spidermedia.ru/news/pervaya-oficialnaya-fotografiya-so-semok-mstiteley",
   "archived": "https://web.archive.org/web/20120608170949/http://spidermedia.ru/news/pervaya-oficialnaya-fotografiya-so-semok-mstiteley",
@@ -10,6 +10,12 @@
     "kino",
     "marvel",
     "mstiteli"
+  ],
+  "cover": "https://web.archive.org/web/20120608170949im_/http://spidermedia.ru/assets/images/import_image/5269.jpg",
+  "modx_id": 5269,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

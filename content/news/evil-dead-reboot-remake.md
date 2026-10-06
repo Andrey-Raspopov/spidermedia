@@ -1,11 +1,17 @@
 {
   "title": "Возвращение \"Зловещих мертвецов\"",
-  "date": "2011-07-14T11:13:00+03:00",
+  "date": "2011-07-14T10:13:51+03:00",
   "url": "/news/evil-dead-reboot-remake/",
   "original_url": "http://spidermedia.ru/news/evil-dead-reboot-remake",
   "archived": "https://web.archive.org/web/20260121005006/http://spidermedia.ru/news/evil-dead-reboot-remake",
   "tags": [
     "army-of-darkness"
+  ],
+  "cover": "https://web.archive.org/web/20260121005006im_/http://spidermedia.ru/assets/images/import_image/6496.jpg",
+  "modx_id": 6496,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

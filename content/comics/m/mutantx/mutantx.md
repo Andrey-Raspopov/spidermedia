@@ -4,6 +4,9 @@
   "url": "/comics/m/mutantx/mutantx/",
   "original_url": "http://www.spidermedia.ru/comics/m/mutantx/mutantx.html",
   "archived": "https://web.archive.org/web/20050307042323/http://www.spidermedia.ru:80/comics/m/mutantx/mutantx.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "cp1251 (guessed)"
 }

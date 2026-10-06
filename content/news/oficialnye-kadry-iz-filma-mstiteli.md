@@ -1,6 +1,6 @@
 {
   "title": "Официальные кадры из фильма \"МСТИТЕЛИ\"",
-  "date": "2011-10-04T10:23:00+03:00",
+  "date": "2011-10-04T09:23:24+03:00",
   "url": "/news/oficialnye-kadry-iz-filma-mstiteli/",
   "original_url": "https://spidermedia.ru/news/oficialnye-kadry-iz-filma-mstiteli",
   "archived": "https://web.archive.org/web/20251019002142/https://spidermedia.ru/news/oficialnye-kadry-iz-filma-mstiteli",
@@ -13,7 +13,15 @@
     "nick-fury",
     "iron-man",
     "captain-america",
-    "avengers"
+    "avengers",
+    "tor",
+    "zheleznyy-chelovek"
+  ],
+  "cover": "https://web.archive.org/web/20251019002142im_/http://spidermedia.ru/assets/images/import_image/6633.jpg",
+  "modx_id": 6633,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

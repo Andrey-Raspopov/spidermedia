@@ -1,12 +1,18 @@
 {
   "title": "Шварценеггер снимется в римейке \"Токсичного Мстителя\"",
-  "date": "2013-05-14T20:56:00+03:00",
+  "date": "2013-05-14T19:56:40+03:00",
   "url": "/news/shvarcenegger-snimetsya-v-rimeyke-toksichnogo-mstitelya/",
   "original_url": "http://spidermedia.ru/news/shvarcenegger-snimetsya-v-rimeyke-toksichnogo-mstitelya",
   "archived": "https://web.archive.org/web/20200718180347/http://spidermedia.ru:80/news/shvarcenegger-snimetsya-v-rimeyke-toksichnogo-mstitelya",
   "tags": [
     "troma",
     "toxic-avenger"
+  ],
+  "cover": "https://web.archive.org/web/20200718180347im_/http://spidermedia.ru/assets/images/import_image/7242.jpg",
+  "modx_id": 7242,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

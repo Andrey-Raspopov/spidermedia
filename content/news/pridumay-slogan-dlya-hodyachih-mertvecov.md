@@ -1,6 +1,6 @@
 {
   "title": "Придумай слоган для \"Ходячих мертвецов\"!",
-  "date": "2013-09-02T10:28:00+03:00",
+  "date": "2013-09-02T09:28:28+03:00",
   "url": "/news/pridumay-slogan-dlya-hodyachih-mertvecov/",
   "original_url": "http://spidermedia.ru/news/pridumay-slogan-dlya-hodyachih-mertvecov",
   "archived": "https://web.archive.org/web/20260214142147/http://spidermedia.ru/news/pridumay-slogan-dlya-hodyachih-mertvecov",
@@ -8,6 +8,12 @@
     "hodyachie-mertvecy",
     "izdatelstvo-42",
     "zarubezhnye-komiksy-na-russkom"
+  ],
+  "cover": "https://web.archive.org/web/20260214142147im_/http://spidermedia.ru/assets/images/import_image/7448.jpg",
+  "modx_id": 7448,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

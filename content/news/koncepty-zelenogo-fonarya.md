@@ -1,6 +1,6 @@
 {
   "title": "Концепты Зеленого Фонаря",
-  "date": "2010-05-03T18:53:00+03:00",
+  "date": "2010-05-03T17:53:37+03:00",
   "url": "/news/koncepty-zelenogo-fonarya/",
   "original_url": "http://spidermedia.ru/news/koncepty-zelenogo-fonarya",
   "archived": "https://web.archive.org/web/20120718064752/http://spidermedia.ru/news/koncepty-zelenogo-fonarya",
@@ -8,7 +8,14 @@
     "green-lantern",
     "art-0",
     "zelenyy-fonar",
-    "kino"
+    "kino",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20120718064752im_/http://spidermedia.ru/assets/images/import_image/2596.jpg",
+  "modx_id": 2596,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"
@@ -20,7 +27,7 @@
 
 ]]>[![](https://web.archive.org/web/20120718064752im_/http://img.photobucket.com/albums/v497/spidermedia/alex_nexs/th_11063L.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/alex_nexs/11063L.jpg)]]> ]]>[![](https://web.archive.org/web/20120718064752im_/http://img.photobucket.com/albums/v497/spidermedia/alex_nexs/th_11064L.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/alex_nexs/11064L.jpg)]]> ]]>[![](https://web.archive.org/web/20120718064752im_/http://img.photobucket.com/albums/v497/spidermedia/alex_nexs/th_11066L.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/alex_nexs/11066L.jpg)]]>
 
-Также, как и в случае [концептов](../../node/2325/) **Абин Сура** *(Abin Sur)*, **Томар-Ре** *(Tomar-Re)*, **Киловога** *(Kilowog)*, **Хранителя** *(Guardian)* и **Синестро** *(Sinestro)* никто не подтвердил официальность этих концептов. Выглядят они скорее как концепты одноименной игры (будущей или несостоявшейся). Более того, по инсайдерской информации в костюме Фонаря все-таки будет присутствовать белый цвет (хотя никто не говорит, что это будут перчатки), на концептах же белого совсем не видно. Впрочем они довольно похожи на предыдущие концепты, что в общем-то позволяет судить о том, что они действительно имеют отношение к фильму, вопрос только в том какое именно.
+Также, как и в случае [концептов](../zelenyy-art/) **Абин Сура** *(Abin Sur)*, **Томар-Ре** *(Tomar-Re)*, **Киловога** *(Kilowog)*, **Хранителя** *(Guardian)* и **Синестро** *(Sinestro)* никто не подтвердил официальность этих концептов. Выглядят они скорее как концепты одноименной игры (будущей или несостоявшейся). Более того, по инсайдерской информации в костюме Фонаря все-таки будет присутствовать белый цвет (хотя никто не говорит, что это будут перчатки), на концептах же белого совсем не видно. Впрочем они довольно похожи на предыдущие концепты, что в общем-то позволяет судить о том, что они действительно имеют отношение к фильму, вопрос только в том какое именно.
 
 Источник:
 

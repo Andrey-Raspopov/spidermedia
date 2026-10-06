@@ -1,12 +1,18 @@
 {
   "title": "LEGO-обложки комиксов DC",
-  "date": "2014-08-08T10:40:00+03:00",
+  "date": "2014-08-08T09:40:41+03:00",
   "url": "/news/lego-oblozhki-komiksov-dc/",
   "original_url": "http://spidermedia.ru/news/lego-oblozhki-komiksov-dc",
   "archived": "https://web.archive.org/web/20190915012909/http://spidermedia.ru:80/news/lego-oblozhki-komiksov-dc",
   "tags": [
     "lego",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150326220907im_/http://spidermedia.ru/assets/images/import_image/7975.jpg",
+  "modx_id": 7975,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

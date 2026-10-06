@@ -1,6 +1,6 @@
 {
   "title": "Секретные Войны: Эпизод Бесконечность",
-  "date": "2014-10-10T05:29:00+03:00",
+  "date": "2014-10-10T04:29:43+03:00",
   "url": "/news/sekretnye-voyny-epizod-beskonechnost/",
   "original_url": "http://spidermedia.ru/news/sekretnye-voyny-epizod-beskonechnost",
   "archived": "https://web.archive.org/web/20251207011029/http://spidermedia.ru/news/sekretnye-voyny-epizod-beskonechnost",
@@ -10,6 +10,12 @@
     "rajan-nort",
     "marvel",
     "dzhonatan-hikman"
+  ],
+  "cover": "https://web.archive.org/web/20251207011029im_/http://i.imgur.com/t6El7zYm.jpg",
+  "modx_id": 8158,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

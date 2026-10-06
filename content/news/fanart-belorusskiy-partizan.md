@@ -1,12 +1,21 @@
 {
   "title": "Фанарт: Белорусский партизан",
-  "date": "2010-04-12T19:55:00+03:00",
+  "date": "2010-04-12T18:55:58+03:00",
   "url": "/news/fanart-belorusskiy-partizan/",
+  "aliases": [
+    "/node/2535/"
+  ],
   "original_url": "http://spidermedia.ru/news/fanart-belorusskiy-partizan",
   "archived": "https://web.archive.org/web/20251014050111/http://spidermedia.ru/news/fanart-belorusskiy-partizan",
   "tags": [
     "fanart",
     "challenge"
+  ],
+  "cover": "https://web.archive.org/web/20251014050111im_/http://spidermedia.ru/assets/images/import_image/2535.gif",
+  "modx_id": 2535,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

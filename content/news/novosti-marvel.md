@@ -1,11 +1,20 @@
 {
   "title": "Новости MARVEL",
-  "date": "2009-01-29T16:49:00+03:00",
+  "date": "2009-01-29T16:49:23+03:00",
   "url": "/news/novosti-marvel/",
+  "aliases": [
+    "/node/11/"
+  ],
   "original_url": "http://spidermedia.ru/news/novosti-marvel",
   "archived": "https://web.archive.org/web/20251115180531/http://spidermedia.ru/news/novosti-marvel",
   "tags": [
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20251115180531im_/http://spidermedia.ru/assets/images/import_image/11.jpg",
+  "modx_id": 11,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,12 +1,21 @@
 {
   "title": "Второй заезд Призрачного Гонщика",
-  "date": "2009-01-29T17:13:00+03:00",
+  "date": "2009-01-29T17:13:49+03:00",
   "url": "/news/vtoroy-zaezd-prizrachnogo-gonshchika/",
+  "aliases": [
+    "/node/13/"
+  ],
   "original_url": "http://spidermedia.ru/news/vtoroy-zaezd-prizrachnogo-gonshchika",
   "archived": "https://web.archive.org/web/20250116123412/http://spidermedia.ru/news/vtoroy-zaezd-prizrachnogo-gonshchika",
   "tags": [
     "marvel",
     "prizrachnyj-gonshhik"
+  ],
+  "cover": "https://web.archive.org/web/20150424123247im_/http://spidermedia.ru/assets/images/import_image/13.jpg",
+  "modx_id": 13,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

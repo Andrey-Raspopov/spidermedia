@@ -8,6 +8,12 @@
     "boomkniga",
     "zarubezhnye-komiksy-na-russkom"
   ],
+  "cover": "https://web.archive.org/web/20250807220447im_/http://spidermedia.ru/assets/images/reviews/boomkniga/the-property/rutu_modan__imuschestvo.jpeg",
+  "modx_id": 102426,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

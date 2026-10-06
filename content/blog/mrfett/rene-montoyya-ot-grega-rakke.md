@@ -1,7 +1,10 @@
 {
   "title": "Рене Монтойя от Грэга Раккэ",
-  "date": "2009-05-12T19:56:00+03:00",
+  "date": "2009-05-12T18:56:25+03:00",
   "url": "/blog/mrfett/rene-montoyya-ot-grega-rakke/",
+  "aliases": [
+    "/node/1166/"
+  ],
   "original_url": "https://spidermedia.ru/blog/mrfett/rene-montoyya-ot-grega-rakke",
   "archived": "https://web.archive.org/web/20260206220321/https://spidermedia.ru/blog/mrfett/rene-montoyya-ot-grega-rakke",
   "tags": [
@@ -12,6 +15,11 @@
     "greg-rucka",
     "dvulikij",
     "two-face"
+  ],
+  "modx_id": 1166,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

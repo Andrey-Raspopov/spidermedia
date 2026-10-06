@@ -1,6 +1,6 @@
 {
   "title": "Анимационная короткометражка к 75-летию Супермена",
-  "date": "2013-10-15T12:23:00+03:00",
+  "date": "2013-10-15T11:23:10+03:00",
   "url": "/news/animacionnaya-korotkometrazhka-k-75-letiyu-supermena/",
   "original_url": "https://spidermedia.ru/news/animacionnaya-korotkometrazhka-k-75-letiyu-supermena",
   "archived": "https://web.archive.org/web/20251211034946/https://spidermedia.ru/news/animacionnaya-korotkometrazhka-k-75-letiyu-supermena",
@@ -8,6 +8,12 @@
     "superman",
     "animaciya",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150326160754im_/http://spidermedia.ru/assets/images/import_image/7503.jpg",
+  "modx_id": 7503,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Умные налево, красивые направо",
-  "date": "2011-06-16T14:11:00+03:00",
+  "date": "2011-06-16T13:11:15+03:00",
   "url": "/news/umnye-nalevo-krasivye-napravo/",
   "original_url": "http://spidermedia.ru/news/umnye-nalevo-krasivye-napravo",
   "archived": "https://web.archive.org/web/20250419045530/http://spidermedia.ru/news/umnye-nalevo-krasivye-napravo",
@@ -8,7 +8,15 @@
     "x-men",
     "wolverine",
     "marvel",
-    "kris-bachalo"
+    "kris-bachalo",
+    "lyudi-iks",
+    "uncanny-x-men"
+  ],
+  "cover": "https://web.archive.org/web/20250419045530im_/http://spidermedia.ru/assets/images/import_image/6455.jpg",
+  "modx_id": 6455,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -8,6 +8,9 @@
     "dc-comics",
     "final-crisis"
   ],
+  "sources": [
+    "archive"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

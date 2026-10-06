@@ -1,11 +1,17 @@
 {
   "title": "Темный Гений, искусство Нила Геймана",
-  "date": "2010-03-23T09:41:00+03:00",
+  "date": "2010-03-23T09:41:30+03:00",
   "url": "/news/temnyy-geniy-iskusstvo-nila-geymana/",
   "original_url": "https://spidermedia.ru/news/temnyy-geniy-iskusstvo-nila-geymana",
   "archived": "https://web.archive.org/web/20260312005718/https://spidermedia.ru/news/temnyy-geniy-iskusstvo-nila-geymana",
   "tags": [
     "neil-gaiman"
+  ],
+  "cover": "https://web.archive.org/web/20160611162650im_/http://spidermedia.ru/assets/images/import_image/2471.gif",
+  "modx_id": 2471,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

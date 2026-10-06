@@ -1,13 +1,22 @@
 {
   "title": "Watchmen: One Year (and two and a half months) Later",
-  "date": "2010-05-26T19:19:00+03:00",
+  "date": "2010-05-26T18:19:39+03:00",
   "url": "/blog/redson/watchmen-one-year-and-two-and-half-months-later/",
+  "aliases": [
+    "/node/2632/"
+  ],
   "original_url": "https://spidermedia.ru/blog/redson/watchmen-one-year-and-two-and-half-months-later",
   "archived": "https://web.archive.org/web/20250519181126/https://spidermedia.ru/blog/redson/watchmen-one-year-and-two-and-half-months-later",
   "tags": [
     "mnenie",
     "hraniteli",
     "zack-snyder"
+  ],
+  "cover": "https://web.archive.org/web/20250519181126im_/http://spidermedia.ru/assets/images/import_image/2632.jpg",
+  "modx_id": 2632,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

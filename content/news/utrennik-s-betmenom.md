@@ -1,7 +1,10 @@
 {
   "title": "Утренник с Бэтменом",
-  "date": "2010-04-26T12:06:00+03:00",
+  "date": "2010-04-26T11:06:30+03:00",
   "url": "/news/utrennik-s-betmenom/",
+  "aliases": [
+    "/node/2580/"
+  ],
   "original_url": "http://spidermedia.ru/news/utrennik-s-betmenom",
   "archived": "https://web.archive.org/web/20120608132412/http://spidermedia.ru/news/utrennik-s-betmenom",
   "tags": [
@@ -10,6 +13,12 @@
     "betmen",
     "komiksy",
     "teatr"
+  ],
+  "cover": "https://web.archive.org/web/20120608132412im_/http://spidermedia.ru/assets/images/import_image/2580.jpg",
+  "modx_id": 2580,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

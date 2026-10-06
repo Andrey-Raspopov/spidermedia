@@ -1,7 +1,10 @@
 {
   "title": "Шесть новых кадров из фильма \"Железный Человек 2\" + бонус",
-  "date": "2010-04-12T16:20:00+03:00",
+  "date": "2010-04-12T15:20:38+03:00",
   "url": "/news/shest-novyh-kadrov-iz-filma-zheleznyy-chelovek-2-bonus/",
+  "aliases": [
+    "/node/2534/"
+  ],
   "original_url": "http://spidermedia.ru/news/shest-novyh-kadrov-iz-filma-zheleznyy-chelovek-2-bonus",
   "archived": "https://web.archive.org/web/20140819223730/http://spidermedia.ru:80/news/shest-novyh-kadrov-iz-filma-zheleznyy-chelovek-2-bonus",
   "tags": [
@@ -11,7 +14,16 @@
     "iron-man",
     "movie",
     "comics",
-    "marvel"
+    "marvel",
+    "art",
+    "alex-ross",
+    "zheleznyy-chelovek"
+  ],
+  "cover": "https://web.archive.org/web/20140819223730im_/http://spidermedia.ru/assets/images/import_image/2534.jpg",
+  "modx_id": 2534,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "Иногда тебе надо просто бежать",
-  "date": "2009-04-10T18:47:00+03:00",
+  "date": "2009-04-10T17:47:16+03:00",
   "url": "/blog/ghost-knight/inogda-tebe-nado-prosto-bezhat/",
+  "aliases": [
+    "/node/903/"
+  ],
   "original_url": "https://spidermedia.ru/blog/ghost-knight/inogda-tebe-nado-prosto-bezhat",
   "archived": "https://web.archive.org/web/20251115035001/https://spidermedia.ru/blog/ghost-knight/inogda-tebe-nado-prosto-bezhat",
   "tags": [
@@ -9,7 +12,13 @@
     "preview",
     "final-crisis",
     "freddi-vilyams-ii",
-    "freddy-williams-ii"
+    "freddy-williams-ii",
+    "prevyu"
+  ],
+  "modx_id": 903,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

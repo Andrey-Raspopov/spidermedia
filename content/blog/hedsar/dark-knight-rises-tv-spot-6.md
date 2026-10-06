@@ -1,6 +1,6 @@
 {
   "title": "Dark Knight Rises: тв-спот 6",
-  "date": "2012-06-06T18:00:00+03:00",
+  "date": "2012-06-06T17:00:14+03:00",
   "url": "/blog/hedsar/dark-knight-rises-tv-spot-6/",
   "original_url": "http://spidermedia.ru/blog/hedsar/dark-knight-rises-tv-spot-6",
   "archived": "https://web.archive.org/web/20260125131934/http://spidermedia.ru/blog/hedsar/dark-knight-rises-tv-spot-6",
@@ -9,6 +9,12 @@
     "dc-comics",
     "dark-knight-rises",
     "batman"
+  ],
+  "cover": "https://web.archive.org/web/20260125131934im_/http://spidermedia.ru/assets/images/import_image/6920.jpg",
+  "modx_id": 6920,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

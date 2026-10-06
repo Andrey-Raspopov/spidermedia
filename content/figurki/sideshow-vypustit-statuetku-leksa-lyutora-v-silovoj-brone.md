@@ -8,6 +8,12 @@
     "dc-comics",
     "lex-luthor"
   ],
+  "cover": "https://web.archive.org/web/20160611095348im_/http://spidermedia.ru/assets/images/toys/sideshow/lex-luthor-power-suit/dc-comics-lex-luthor-power-suit-premium-format-300219-07.jpg",
+  "modx_id": 100833,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

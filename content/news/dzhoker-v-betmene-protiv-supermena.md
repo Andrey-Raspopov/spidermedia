@@ -1,6 +1,6 @@
 {
   "title": "Джокер в \"Бэтмене против Супермена\"?",
-  "date": "2014-05-25T21:10:00+03:00",
+  "date": "2014-05-25T20:10:57+03:00",
   "url": "/news/dzhoker-v-betmene-protiv-supermena/",
   "original_url": "https://spidermedia.ru/news/dzhoker-v-betmene-protiv-supermena",
   "archived": "https://web.archive.org/web/20260211101826/https://spidermedia.ru/news/dzhoker-v-betmene-protiv-supermena",
@@ -8,6 +8,12 @@
     "superman",
     "batman",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150424211346im_/http://spidermedia.ru/assets/images/import_image/7756.jpg",
+  "modx_id": 7756,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

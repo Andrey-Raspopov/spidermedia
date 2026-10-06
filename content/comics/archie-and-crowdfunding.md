@@ -7,6 +7,12 @@
   "tags": [
     "archie-comics"
   ],
+  "cover": "https://web.archive.org/web/20260214134700im_/http://spidermedia.ru/assets/images/news/archie/1c761ec45b5e82f195b436137c9b4f84_original.jpg",
+  "modx_id": 100239,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

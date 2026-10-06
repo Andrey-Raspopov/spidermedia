@@ -1,11 +1,17 @@
 {
   "title": "Log #0001 - Geeks to drink!",
-  "date": "2009-02-02T01:53:00+03:00",
+  "date": "2009-02-02T00:53:44+03:00",
   "url": "/blog/qvall/log-0001-geeks-drink/",
   "original_url": "http://spidermedia.ru/blog/qvall/log-0001-geeks-drink",
   "archived": "https://web.archive.org/web/20120607080455/http://spidermedia.ru/blog/qvall/log-0001-geeks-drink",
   "tags": [
     "gik-kafe"
+  ],
+  "cover": "https://web.archive.org/web/20120607080455im_/http://spidermedia.ru/assets/images/import_image/90.jpg",
+  "modx_id": 90,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

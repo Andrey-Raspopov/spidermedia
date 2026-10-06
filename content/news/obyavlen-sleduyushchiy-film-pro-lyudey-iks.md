@@ -1,12 +1,19 @@
 {
   "title": "Объявлен следующий фильм про Людей Икс",
-  "date": "2013-12-06T11:13:00+03:00",
+  "date": "2013-12-06T10:13:52+03:00",
   "url": "/news/obyavlen-sleduyushchiy-film-pro-lyudey-iks/",
   "original_url": "http://spidermedia.ru/news/obyavlen-sleduyushchiy-film-pro-lyudey-iks",
   "archived": "https://web.archive.org/web/20250717182434/http://spidermedia.ru/news/obyavlen-sleduyushchiy-film-pro-lyudey-iks",
   "tags": [
     "x-men",
-    "marvel"
+    "marvel",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20250717182434im_/http://spidermedia.ru/assets/images/import_image/7570.jpg",
+  "modx_id": 7570,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

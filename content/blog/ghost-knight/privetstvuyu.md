@@ -1,11 +1,20 @@
 {
   "title": "Приветствую !",
-  "date": "2009-02-01T01:23:00+03:00",
+  "date": "2014-12-29T11:09:19+03:00",
   "url": "/blog/ghost-knight/privetstvuyu/",
+  "aliases": [
+    "/blog/red-hulk/privetstvuyu/",
+    "/node/49/"
+  ],
   "original_url": "http://spidermedia.ru/blog/ghost-knight/privetstvuyu",
   "archived": "https://web.archive.org/web/20120608195413/http://spidermedia.ru/blog/ghost-knight/privetstvuyu",
   "tags": [
     "vstuplenie"
+  ],
+  "modx_id": 49,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

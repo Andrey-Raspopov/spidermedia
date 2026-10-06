@@ -4,13 +4,19 @@
   "url": "/comics/homestuck/",
   "original_url": "http://spidermedia.ru/comics/homestuck",
   "archived": "https://web.archive.org/web/20220906031100/http://spidermedia.ru/comics/homestuck",
+  "cover": "https://web.archive.org/web/20220906031136im_/http://spidermedia.ru/assets/images/articles/homestuck/tumblr_lob2qyktyj1qbye1fo1_1280.jpg",
+  "modx_id": 101197,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
 [![](https://web.archive.org/web/20220906031152im_/http://spidermedia.ru/assets/cache/images/articles/homestuck/622x-tumblr_lob2qyktyj1qbye1fo1_1280.2e9.jpg)](https://web.archive.org/web/20220906031136im_/http://spidermedia.ru/assets/images/articles/homestuck/tumblr_lob2qyktyj1qbye1fo1_1280.jpg)
 
-В одном из [подкастов](https://web.archive.org/web/20251211025600id_/https://spidermedia.ru/podcast/razbor-polyotov.-vypusk-10-seems-real-mature) Спайдермедии Алексей Замский предложил кому-нибудь написать статью про Хоумстак...
+В одном из [подкастов](../../podcast/razbor-polyotov.-vypusk-10-seems-real-mature/) Спайдермедии Алексей Замский предложил кому-нибудь написать статью про Хоумстак...
 
 Давайте я угадаю, что вы знаете о [Homestuck](http://www.mspaintadventures.com/).
 

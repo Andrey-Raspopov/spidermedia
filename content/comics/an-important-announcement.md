@@ -4,6 +4,12 @@
   "url": "/comics/an-important-announcement/",
   "original_url": "http://spidermedia.ru/comics/an-important-announcement",
   "archived": "https://web.archive.org/web/20161109095207/http://spidermedia.ru:80/comics/an-important-announcement",
+  "cover": "https://web.archive.org/web/20150315210246im_/http://spidermedia.ru/assets/images/ecahznqzhc4.jpg",
+  "modx_id": 100186,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

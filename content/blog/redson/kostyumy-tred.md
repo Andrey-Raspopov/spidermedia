@@ -1,12 +1,19 @@
 {
   "title": "КОСТЮМЫ ТРЕД",
-  "date": "2011-02-26T18:00:00+03:00",
+  "date": "2011-02-26T18:00:41+03:00",
   "url": "/blog/redson/kostyumy-tred/",
   "original_url": "http://spidermedia.ru/blog/redson/kostyumy-tred",
   "archived": "https://web.archive.org/web/20200130013754/http://spidermedia.ru:80/blog/redson/kostyumy-tred",
   "tags": [
     "kostyumy",
-    "art-0"
+    "art-0",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20200130013754im_/http://spidermedia.ru/assets/images/import_image/3732.jpg",
+  "modx_id": 3732,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

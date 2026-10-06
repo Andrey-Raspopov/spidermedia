@@ -1,6 +1,6 @@
 {
   "title": "NYCC: всё остальное",
-  "date": "2013-10-14T10:27:00+03:00",
+  "date": "2013-10-14T09:27:13+03:00",
   "url": "/news/nycc-vsyo-ostalnoe/",
   "original_url": "http://spidermedia.ru/news/nycc-vsyo-ostalnoe",
   "archived": "https://web.archive.org/web/20260120164819/http://spidermedia.ru/news/nycc-vsyo-ostalnoe",
@@ -12,6 +12,12 @@
     "dynamite-entertainment",
     "dc-comics",
     "dark-horse"
+  ],
+  "cover": "https://web.archive.org/web/20160611020755im_/http://spidermedia.ru/assets/images/import_image/7501.jpg",
+  "modx_id": 7501,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,12 +1,18 @@
 {
   "title": "Фрагмент сценария \"Доктор Стрэнджа\" (SPOILER ALERT!)",
-  "date": "2013-07-12T12:03:00+03:00",
+  "date": "2013-07-12T11:03:32+03:00",
   "url": "/news/fragment-scenariya-doktor-strendzha-spoiler-alert/",
   "original_url": "http://spidermedia.ru/news/fragment-scenariya-doktor-strendzha-spoiler-alert",
   "archived": "https://web.archive.org/web/20260314080925/http://spidermedia.ru/news/fragment-scenariya-doktor-strendzha-spoiler-alert",
   "tags": [
     "marvel",
     "doctor-strange"
+  ],
+  "cover": "https://web.archive.org/web/20260314080925im_/http://spidermedia.ru/assets/images/import_image/7338.jpg",
+  "modx_id": 7338,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "ОБЗОР: \"Доктор Люцид №1\"",
-  "date": "2014-11-11T12:19:00+03:00",
+  "date": "2014-11-11T12:19:58+03:00",
   "url": "/blog/igrok/obzor-doktor-lyucid-no1-0/",
   "original_url": "https://spidermedia.ru/blog/igrok/obzor-doktor-lyucid-no1-0",
   "archived": "https://web.archive.org/web/20260117214530/https://spidermedia.ru/blog/igrok/obzor-doktor-lyucid-no1-0",
@@ -8,6 +8,12 @@
     "russian-comics",
     "obzor",
     "doktor-lyucid"
+  ],
+  "cover": "https://web.archive.org/web/20260117214530im_/http://spidermedia.ru/assets/images/import_image/8280.jpg",
+  "modx_id": 8280,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

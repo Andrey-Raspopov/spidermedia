@@ -1,6 +1,6 @@
 {
   "title": "I want you... dead!",
-  "date": "2011-06-16T02:16:00+03:00",
+  "date": "2011-06-16T01:16:58+03:00",
   "url": "/news/i-want-you-dead/",
   "original_url": "https://spidermedia.ru/news/i-want-you-dead",
   "archived": "https://web.archive.org/web/20260211193952/https://spidermedia.ru/news/i-want-you-dead",
@@ -12,6 +12,12 @@
     "marvel",
     "spider-man",
     "avengers"
+  ],
+  "cover": "https://web.archive.org/web/20260211193952im_/http://spidermedia.ru/assets/images/import_image/6452.jpg",
+  "modx_id": 6452,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

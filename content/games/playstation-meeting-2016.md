@@ -4,6 +4,12 @@
   "url": "/games/playstation-meeting-2016/",
   "original_url": "http://spidermedia.ru/games/playstation-meeting-2016",
   "archived": "https://web.archive.org/web/20251107035009/http://spidermedia.ru/games/playstation-meeting-2016",
+  "cover": "https://web.archive.org/web/20180201145701im_/http://spidermedia.ru/assets/images/games/playstation-meeting/ps-meeting-2016-sept-7-ann.jpg",
+  "modx_id": 101333,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

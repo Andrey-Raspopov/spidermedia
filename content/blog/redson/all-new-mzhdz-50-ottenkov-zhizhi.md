@@ -1,11 +1,17 @@
 {
   "title": "ALL-NEW МЖДЗ: 50 ОТТЕНКОВ ЖИЖИ",
-  "date": "2015-02-10T14:33:00+03:00",
+  "date": "2015-02-10T14:33:47+03:00",
   "url": "/blog/redson/all-new-mzhdz-50-ottenkov-zhizhi/",
   "original_url": "http://spidermedia.ru/blog/redson/all-new-mzhdz-50-ottenkov-zhizhi",
   "archived": "https://web.archive.org/web/20200118115758/http://spidermedia.ru:80/blog/redson/all-new-mzhdz-50-ottenkov-zhizhi",
   "tags": [
     "mzhdz"
+  ],
+  "cover": "https://web.archive.org/web/20150326145433im_/http://spidermedia.ru/assets/images/import_image/8601.jpg",
+  "modx_id": 8601,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -9,6 +9,12 @@
     "roskomnadzor",
     "russian-comics"
   ],
+  "cover": "https://web.archive.org/web/20250617224043im_/http://spidermedia.ru/assets/images/roskomnadzor/18092015/slack-imgs.com.jpeg",
+  "modx_id": 100567,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

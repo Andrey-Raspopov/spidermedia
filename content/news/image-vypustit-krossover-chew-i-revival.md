@@ -1,11 +1,17 @@
 {
   "title": "Image выпустит кроссовер CHEW и REVIVAL",
-  "date": "2014-02-13T14:06:00+03:00",
+  "date": "2014-02-13T13:06:41+03:00",
   "url": "/news/image-vypustit-krossover-chew-i-revival/",
   "original_url": "https://spidermedia.ru/news/image-vypustit-krossover-chew-i-revival",
   "archived": "https://web.archive.org/web/20251107005820/https://spidermedia.ru/news/image-vypustit-krossover-chew-i-revival",
   "tags": [
     "image-comics"
+  ],
+  "cover": "https://web.archive.org/web/20251107005820im_/http://spidermedia.ru/assets/images/import_image/7641.jpg",
+  "modx_id": 7641,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

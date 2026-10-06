@@ -1,6 +1,6 @@
 {
   "title": "Мелисса Беноист сыграет Супергерл",
-  "date": "2015-01-22T21:46:00+03:00",
+  "date": "2015-01-22T21:46:43+03:00",
   "url": "/news/melissa-benoist-sygraet-supergerl/",
   "original_url": "http://spidermedia.ru/news/melissa-benoist-sygraet-supergerl",
   "archived": "https://web.archive.org/web/20251216182048/http://spidermedia.ru/news/melissa-benoist-sygraet-supergerl",
@@ -8,7 +8,14 @@
     "serialy",
     "kasting",
     "dc-comics",
-    "supergirl"
+    "supergirl",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20150326100329im_/http://spidermedia.ru/assets/images/import_image/8533.jpg",
+  "modx_id": 8533,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

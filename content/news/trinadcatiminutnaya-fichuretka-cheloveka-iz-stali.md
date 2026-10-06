@@ -1,6 +1,6 @@
 {
   "title": "Тринадцатиминутная фичуретка \"Человека из стали\"",
-  "date": "2013-06-02T16:16:00+03:00",
+  "date": "2013-06-02T15:16:30+03:00",
   "url": "/news/trinadcatiminutnaya-fichuretka-cheloveka-iz-stali/",
   "original_url": "https://spidermedia.ru/news/trinadcatiminutnaya-fichuretka-cheloveka-iz-stali",
   "archived": "https://web.archive.org/web/20260125125455/https://spidermedia.ru/news/trinadcatiminutnaya-fichuretka-cheloveka-iz-stali",
@@ -8,6 +8,12 @@
     "chelovek-iz-stali",
     "superman",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20260125125455im_/http://spidermedia.ru/assets/images/import_image/7261.jpg",
+  "modx_id": 7261,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

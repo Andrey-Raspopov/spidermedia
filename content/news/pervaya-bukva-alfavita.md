@@ -1,12 +1,18 @@
 {
   "title": "Первая буква алфавита",
-  "date": "2012-06-27T14:14:00+03:00",
+  "date": "2012-06-27T13:14:59+03:00",
   "url": "/news/pervaya-bukva-alfavita/",
   "original_url": "http://spidermedia.ru/news/pervaya-bukva-alfavita",
   "archived": "https://web.archive.org/web/20251107002921/http://spidermedia.ru/news/pervaya-bukva-alfavita",
   "tags": [
     "marvel",
     "spider-man"
+  ],
+  "cover": "https://web.archive.org/web/20251107002921im_/http://spidermedia.ru/assets/images/import_image/6945.png",
+  "modx_id": 6945,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

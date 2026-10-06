@@ -1,7 +1,10 @@
 {
   "title": "Графроманы в сентябре 2010 - Independents",
-  "date": "2010-10-03T19:41:00+03:00",
+  "date": "2010-10-03T18:41:47+03:00",
   "url": "/blog/plane-v/grafromany-v-sentyabre-2010-independents/",
+  "aliases": [
+    "/node/2967/"
+  ],
   "original_url": "https://spidermedia.ru/blog/plane-v/grafromany-v-sentyabre-2010-independents",
   "archived": "https://web.archive.org/web/20260121000535/https://spidermedia.ru/blog/plane-v/grafromany-v-sentyabre-2010-independents",
   "tags": [
@@ -15,6 +18,12 @@
     "drawn-and-quarterly",
     "dark-horse",
     "boom-studios"
+  ],
+  "cover": "https://web.archive.org/web/20150424211558im_/http://spidermedia.ru/assets/images/import_image/2967.png",
+  "modx_id": 2967,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

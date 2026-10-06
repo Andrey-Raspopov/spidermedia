@@ -1,6 +1,6 @@
 {
   "title": "\"Темный рыцарь\" для iOS и Android выйдет через неделю",
-  "date": "2012-07-20T22:28:00+03:00",
+  "date": "2012-07-20T21:28:41+03:00",
   "url": "/news/temnyy-rycar-dlya-ios-i-android-vyydet-cherez-nedelyu/",
   "original_url": "https://spidermedia.ru/news/temnyy-rycar-dlya-ios-i-android-vyydet-cherez-nedelyu",
   "archived": "https://web.archive.org/web/20260115054223/https://spidermedia.ru/news/temnyy-rycar-dlya-ios-i-android-vyydet-cherez-nedelyu",
@@ -11,6 +11,12 @@
     "dc-comics",
     "dark-knight-rises",
     "batman"
+  ],
+  "cover": "https://web.archive.org/web/20150326095207im_/http://spidermedia.ru/assets/images/import_image/6986.jpg",
+  "modx_id": 6986,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

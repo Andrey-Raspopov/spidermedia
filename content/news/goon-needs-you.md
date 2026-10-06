@@ -1,6 +1,6 @@
 {
   "title": "THE GOON NEEDS YOU",
-  "date": "2012-10-13T11:16:00+03:00",
+  "date": "2012-10-13T10:16:06+03:00",
   "url": "/news/goon-needs-you/",
   "original_url": "http://spidermedia.ru/news/goon-needs-you",
   "archived": "https://web.archive.org/web/20250807011612/http://spidermedia.ru/news/goon-needs-you",
@@ -9,6 +9,12 @@
     "animaciya",
     "the-goon",
     "dark-horse"
+  ],
+  "cover": "https://web.archive.org/web/20150326155841im_/http://spidermedia.ru/assets/images/import_image/7061.jpg",
+  "modx_id": 7061,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

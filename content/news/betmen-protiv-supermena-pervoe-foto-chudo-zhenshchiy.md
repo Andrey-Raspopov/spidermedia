@@ -1,6 +1,6 @@
 {
   "title": "\"Бэтмен против Супермена\": Чудо-Женщина и экранка футажа! (ОБНОВЛЯЕТСЯ)",
-  "date": "2014-07-27T04:12:00+03:00",
+  "date": "2014-07-27T03:12:42+03:00",
   "url": "/news/betmen-protiv-supermena-pervoe-foto-chudo-zhenshchiy/",
   "original_url": "https://spidermedia.ru/news/betmen-protiv-supermena-pervoe-foto-chudo-zhenshchiy",
   "archived": "https://web.archive.org/web/20251216110946/https://spidermedia.ru/news/betmen-protiv-supermena-pervoe-foto-chudo-zhenshchiy",
@@ -10,6 +10,12 @@
     "san-diego-comic-con-international",
     "batman",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150424150752im_/http://spidermedia.ru/assets/images/import_image/7934.jpg",
+  "modx_id": 7934,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

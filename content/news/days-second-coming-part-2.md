@@ -1,7 +1,10 @@
 {
   "title": "Days of Second Coming, Part 2",
-  "date": "2010-04-27T21:27:00+03:00",
+  "date": "2010-04-27T20:27:07+03:00",
   "url": "/news/days-second-coming-part-2/",
+  "aliases": [
+    "/node/2547/"
+  ],
   "original_url": "https://spidermedia.ru/news/days-second-coming-part-2",
   "archived": "https://web.archive.org/web/20260314083441/https://spidermedia.ru/news/days-second-coming-part-2",
   "tags": [
@@ -9,7 +12,13 @@
     "x-men",
     "x-factor",
     "second-coming",
-    "marvel"
+    "marvel",
+    "lyudi-iks"
+  ],
+  "modx_id": 2547,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

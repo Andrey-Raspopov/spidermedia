@@ -8,6 +8,12 @@
     "marvel",
     "iron-fist"
   ],
+  "cover": "https://web.archive.org/web/20171018144142im_/http://spidermedia.ru/assets/images/import_image/101436.jpg",
+  "modx_id": 101436,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

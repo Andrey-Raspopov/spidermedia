@@ -1,7 +1,10 @@
 {
   "title": "Такие разные \"Мстители\"",
-  "date": "2009-10-10T02:12:00+03:00",
+  "date": "2009-10-10T01:12:53+03:00",
   "url": "/news/takie-raznye-mstiteli/",
+  "aliases": [
+    "/node/1976/"
+  ],
   "original_url": "http://spidermedia.ru/news/takie-raznye-mstiteli",
   "archived": "https://web.archive.org/web/20260308234135/http://spidermedia.ru/news/takie-raznye-mstiteli",
   "tags": [
@@ -10,7 +13,16 @@
     "majk-deodato",
     "brian-michael-bendis",
     "art-0",
-    "marvel"
+    "marvel",
+    "dark-avengers",
+    "prevyu",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20260308234135im_/http://spidermedia.ru/assets/images/import_image/1976.jpg",
+  "modx_id": 1976,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
@@ -28,4 +40,4 @@
 
 - В **Dark Avengers #10**, которые появится на прилавках 21 октября. Вы увидите, как Темные Мстители отправляются в Колорадо, чтобы разгадать очередную тайну. Всё происходящее в данном арке является последним шагом перед очень большой историей, стартующей в январе. Мы увидим героев во время привычной для команды миссии, которая обещает иметь много поворотов, влекущих за собой важные последствия. Например, Мунстоун (Karla Sofen/Moonstone) захочет уйти из команды. Она будет очень агрессивной и даже странной.
 - Что касается Венома (Mac Gargan/Venom), то сыворотка, которую он принял в #1, начнёт показывать обратный эффект. И этот эффект начнёт проявляться не в самое удобное для Гаргана время, ибо в новом арке Темным Мстителям предстоит столкнуться с Молекулярным Человеком (Molecule Man). Как сражаться со злодеем, которого они не могут одолеть?
-- Декабрь месяц будет самым необычным месяцем для всех фанатов Темных Мстителей, так как в этом месяце выйдут: Dark Avengers #12, [уан-шот Siege: The Cabal](../../node/1940/) и [Dark Avengers Annual #1](../../node/1745/).
+- Декабрь месяц будет самым необычным месяцем для всех фанатов Темных Мстителей, так как в этом месяце выйдут: Dark Avengers #12, [уан-шот Siege: The Cabal](../avengers-assemble-part-i-dekabr-2009/) и [Dark Avengers Annual #1](../v-boy-idut-odni-damy-temnyy-ezhegodnik/).

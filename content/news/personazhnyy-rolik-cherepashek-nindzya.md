@@ -1,12 +1,18 @@
 {
   "title": "Персонажный ролик \"Черепашек-Ниндзя\"",
-  "date": "2014-07-16T14:10:00+03:00",
+  "date": "2014-07-16T13:10:03+03:00",
   "url": "/news/personazhnyy-rolik-cherepashek-nindzya/",
   "original_url": "http://spidermedia.ru/news/personazhnyy-rolik-cherepashek-nindzya",
   "archived": "https://web.archive.org/web/20260125121248/http://spidermedia.ru/news/personazhnyy-rolik-cherepashek-nindzya",
   "tags": [
     "ninja-turtles",
     "trejlery"
+  ],
+  "cover": "https://web.archive.org/web/20150503112547im_/http://spidermedia.ru/assets/images/import_image/7892.jpg",
+  "modx_id": 7892,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

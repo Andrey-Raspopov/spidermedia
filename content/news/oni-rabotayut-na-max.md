@@ -1,7 +1,10 @@
 {
   "title": "Они работают на MAX",
-  "date": "2009-05-06T23:12:00+03:00",
+  "date": "2009-05-06T22:12:30+03:00",
   "url": "/news/oni-rabotayut-na-max/",
+  "aliases": [
+    "/node/1119/"
+  ],
   "original_url": "http://spidermedia.ru/news/oni-rabotayut-na-max",
   "archived": "https://web.archive.org/web/20251208081508/http://spidermedia.ru/news/oni-rabotayut-na-max",
   "tags": [
@@ -11,6 +14,11 @@
     "aksel-alonso",
     "steve-dillon",
     "viktor-gishler"
+  ],
+  "modx_id": 1119,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

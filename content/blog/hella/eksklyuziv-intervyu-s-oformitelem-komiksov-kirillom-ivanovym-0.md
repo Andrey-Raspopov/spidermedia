@@ -1,6 +1,6 @@
 {
   "title": "ЭКСКЛЮЗИВ: Интервью с оформителем комиксов Кириллом Ивановым",
-  "date": "2015-02-25T14:11:00+03:00",
+  "date": "2015-02-25T14:11:23+03:00",
   "url": "/blog/hella/eksklyuziv-intervyu-s-oformitelem-komiksov-kirillom-ivanovym-0/",
   "original_url": "http://spidermedia.ru/blog/hella/eksklyuziv-intervyu-s-oformitelem-komiksov-kirillom-ivanovym-0",
   "archived": "https://web.archive.org/web/20260125115112/http://spidermedia.ru/blog/hella/eksklyuziv-intervyu-s-oformitelem-komiksov-kirillom-ivanovym-0",
@@ -12,6 +12,12 @@
     "kirill-ivanov",
     "komilfo",
     "roskomnadzor"
+  ],
+  "cover": "https://web.archive.org/web/20150326013856im_/http://spidermedia.ru/assets/images/import_image/8649.jpg",
+  "modx_id": 8649,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

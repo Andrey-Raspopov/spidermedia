@@ -1,6 +1,6 @@
 {
   "title": "Двадцатый Век Продолжается",
-  "date": "2012-02-06T19:59:00+03:00",
+  "date": "2012-02-06T18:59:01+03:00",
   "url": "/news/dvadcatyy-vek-prodolzhaetsya/",
   "original_url": "https://spidermedia.ru/news/dvadcatyy-vek-prodolzhaetsya",
   "archived": "https://web.archive.org/web/20260121011131/https://spidermedia.ru/news/dvadcatyy-vek-prodolzhaetsya",
@@ -9,6 +9,12 @@
     "alan-mur",
     "top-shelf-productions",
     "league-of-extraordinary-gentlemen"
+  ],
+  "cover": "https://web.archive.org/web/20260121011131im_/http://spidermedia.ru/assets/images/import_image/6773.jpg",
+  "modx_id": 6773,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

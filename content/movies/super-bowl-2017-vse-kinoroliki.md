@@ -4,6 +4,12 @@
   "url": "/movies/super-bowl-2017-vse-kinoroliki/",
   "original_url": "http://spidermedia.ru/movies/super-bowl-2017-vse-kinoroliki",
   "archived": "https://web.archive.org/web/20251022043704/http://spidermedia.ru/movies/super-bowl-2017-vse-kinoroliki",
+  "cover": "https://web.archive.org/web/20170728202800im_/http://spidermedia.ru/assets/images/baby_groot.0.jpg",
+  "modx_id": 101491,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

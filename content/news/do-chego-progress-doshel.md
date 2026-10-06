@@ -1,7 +1,10 @@
 {
   "title": "До чего прогресс дошел",
-  "date": "2009-08-27T02:58:00+03:00",
+  "date": "2009-08-27T01:58:31+03:00",
   "url": "/news/do-chego-progress-doshel/",
+  "aliases": [
+    "/node/1834/"
+  ],
   "original_url": "http://spidermedia.ru/news/do-chego-progress-doshel",
   "archived": "https://web.archive.org/web/20120608222153/http://spidermedia.ru/news/do-chego-progress-doshel",
   "tags": [
@@ -10,13 +13,20 @@
     "karatel",
     "komiksy",
     "rik-remender",
-    "toni-mur"
+    "toni-mur",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20120608222153im_/http://spidermedia.ru/assets/images/import_image/1834.jpg",
+  "modx_id": 1834,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }
 
-Дабы читателям серии **Punisher** стало совсем весело, к акции [**Punisher: RIP**](../../node/1619/) и [дразнилке-обложке](../../node/1725/), добавили новую забаву:
+Дабы читателям серии **Punisher** стало совсем весело, к акции [**Punisher: RIP**](../punisher-rip-obnovlenie/) и [дразнилке-обложке](../universalnyy-karatel/), добавили новую забаву:
 
 ]]>[![](https://web.archive.org/web/20120608222153im_/http://www.picamatic.com/show/2009/08/27/02/48/4864956_bigthumb.jpg)](http://www.picamatic.com/view/4864956_frankencastle-01/)]]>
 

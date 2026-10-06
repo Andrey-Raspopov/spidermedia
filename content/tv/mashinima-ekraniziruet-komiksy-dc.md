@@ -7,6 +7,12 @@
   "tags": [
     "dc-comics"
   ],
+  "cover": "https://web.archive.org/web/20251110223639im_/http://spidermedia.ru/assets/images/news/tv/dc/dial-h-2-bolland-mieville.jpg",
+  "modx_id": 100204,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

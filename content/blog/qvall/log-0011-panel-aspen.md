@@ -1,6 +1,6 @@
 {
   "title": "Log #0011 - Панель Аспен",
-  "date": "2009-03-03T15:23:00+03:00",
+  "date": "2009-03-03T15:23:14+03:00",
   "url": "/blog/qvall/log-0011-panel-aspen/",
   "original_url": "http://spidermedia.ru/blog/qvall/log-0011-panel-aspen",
   "archived": "https://web.archive.org/web/20230202182042/http://spidermedia.ru/blog/qvall/log-0011-panel-aspen",
@@ -13,6 +13,12 @@
     "soulfire",
     "michael-turner",
     "aspen-comics"
+  ],
+  "cover": "https://web.archive.org/web/20230202182042im_/http://spidermedia.ru/assets/images/import_image/569.jpg",
+  "modx_id": 569,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

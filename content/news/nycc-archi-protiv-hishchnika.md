@@ -1,6 +1,6 @@
 {
   "title": "NYCC: Арчи против Хищника",
-  "date": "2014-10-10T10:49:00+03:00",
+  "date": "2014-10-10T09:49:46+03:00",
   "url": "/news/nycc-archi-protiv-hishchnika/",
   "original_url": "http://spidermedia.ru/news/nycc-archi-protiv-hishchnika",
   "archived": "https://web.archive.org/web/20260125122628/http://spidermedia.ru/news/nycc-archi-protiv-hishchnika",
@@ -8,6 +8,12 @@
     "komik-kon-v-nyu-jorke",
     "dark-horse",
     "archie-comics"
+  ],
+  "cover": "https://web.archive.org/web/20160611115025im_/http://spidermedia.ru/assets/images/import_image/8159.jpg",
+  "modx_id": 8159,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -4,6 +4,12 @@
   "url": "/games/recenziya-animal-crossing-new-horizons/",
   "original_url": "http://spidermedia.ru/games/recenziya-animal-crossing-new-horizons",
   "archived": "https://web.archive.org/web/20260125064513/http://spidermedia.ru/games/recenziya-animal-crossing-new-horizons",
+  "cover": "https://web.archive.org/web/20260125064513im_/http://spidermedia.ru/assets/images/games/acnh/screenshot-64.png",
+  "modx_id": 102221,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

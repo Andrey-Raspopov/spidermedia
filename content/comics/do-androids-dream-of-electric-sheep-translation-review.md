@@ -7,6 +7,12 @@
   "tags": [
     "zarubezhnye-komiksy-na-russkom"
   ],
+  "cover": "https://web.archive.org/web/20220703144335im_/http://spidermedia.ru/assets/images/reviews/fanzon/do-androids-dream/mzk.jpg",
+  "modx_id": 101834,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

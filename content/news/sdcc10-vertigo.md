@@ -1,12 +1,21 @@
 {
   "title": "SDCC'10: Vertigo",
-  "date": "2010-07-24T22:40:00+03:00",
+  "date": "2010-07-24T21:40:57+03:00",
   "url": "/news/sdcc10-vertigo/",
+  "aliases": [
+    "/node/2783/"
+  ],
   "original_url": "https://spidermedia.ru/news/sdcc10-vertigo",
   "archived": "https://web.archive.org/web/20251014034002/https://spidermedia.ru/news/sdcc10-vertigo",
   "tags": [
     "san-diego-comic-con-international",
     "vertigo"
+  ],
+  "cover": "https://web.archive.org/web/20251014034002im_/http://spidermedia.ru/assets/images/import_image/2783.jpg",
+  "modx_id": 2783,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

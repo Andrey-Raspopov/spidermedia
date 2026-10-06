@@ -1,7 +1,10 @@
 {
   "title": "О_О",
-  "date": "2009-02-02T13:25:00+03:00",
+  "date": "2009-02-02T13:25:39+03:00",
   "url": "/blog/oleg89/o-o/",
+  "aliases": [
+    "/node/102/"
+  ],
   "original_url": "https://spidermedia.ru/blog/oleg89/o-o",
   "archived": "https://web.archive.org/web/20260208211629/https://spidermedia.ru/blog/oleg89/o-o",
   "tags": [
@@ -9,6 +12,11 @@
     "mnenie",
     "grant-morrison",
     "vertigo"
+  ],
+  "modx_id": 102,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

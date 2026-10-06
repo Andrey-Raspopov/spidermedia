@@ -1,12 +1,18 @@
 {
   "title": "Hellboymedia Special #02: Этот забавный Хэллбой",
-  "date": "2014-08-15T15:00:00+03:00",
+  "date": "2014-08-15T14:00:21+03:00",
   "url": "/blog/shargor/hellboymedia-special-02-etot-zabavnyy-hellboy/",
   "original_url": "http://spidermedia.ru/blog/shargor/hellboymedia-special-02-etot-zabavnyy-hellboy",
   "archived": "https://web.archive.org/web/20260306001421/http://spidermedia.ru/blog/shargor/hellboymedia-special-02-etot-zabavnyy-hellboy",
   "tags": [
     "hellboymedia",
     "obzor"
+  ],
+  "cover": "https://web.archive.org/web/20160612021341im_/http://spidermedia.ru/assets/images/hellboymedia/special/02-parodies/hellboy-parodies-cover.jpg",
+  "modx_id": 7993,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

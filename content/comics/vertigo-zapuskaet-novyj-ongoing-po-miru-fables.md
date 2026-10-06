@@ -8,6 +8,12 @@
     "fables",
     "vertigo"
   ],
+  "cover": "https://web.archive.org/web/20251014031051im_/http://spidermedia.ru/assets/images/news/dc/vertigo/everafter-1-1.jpg",
+  "modx_id": 101230,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -8,6 +8,12 @@
     "marvel",
     "spider-man"
   ],
+  "cover": "https://web.archive.org/web/20250210060927im_/http://spidermedia.ru/assets/images/newgallery/gallery1045/dead-no-more_36.jpg",
+  "modx_id": 101222,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

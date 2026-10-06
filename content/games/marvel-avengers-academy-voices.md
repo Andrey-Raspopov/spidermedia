@@ -7,6 +7,12 @@
   "tags": [
     "marvel"
   ],
+  "cover": "https://web.archive.org/web/20160611141207im_/http://spidermedia.ru/assets/images/games/marvel/marvel-avengers-academy/avengersacademytitle1.jpg",
+  "modx_id": 100881,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

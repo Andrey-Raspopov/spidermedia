@@ -8,6 +8,12 @@
     "marvel",
     "jessica-jones-alias"
   ],
+  "cover": "https://web.archive.org/web/20160611144310im_/http://spidermedia.ru/assets/images/tv/marvel/aka-jessica-jones-netflix-tv-series-2015/jessica-johns-3.jpg",
+  "modx_id": 100733,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

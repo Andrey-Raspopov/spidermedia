@@ -9,6 +9,12 @@
     "komiksy",
     "manga"
   ],
+  "cover": "https://web.archive.org/web/20251216175823im_/http://spidermedia.ru/assets/images/news/images/oleg-lyfar/review/seven-sins-1/mini-cover.jpg",
+  "modx_id": 102276,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

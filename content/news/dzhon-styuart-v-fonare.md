@@ -1,11 +1,17 @@
 {
   "title": "Джон Стюарт в Фонаре?",
-  "date": "2010-03-17T09:35:00+03:00",
+  "date": "2010-03-17T09:35:38+03:00",
   "url": "/news/dzhon-styuart-v-fonare/",
   "original_url": "http://spidermedia.ru/news/dzhon-styuart-v-fonare",
   "archived": "https://web.archive.org/web/20250419042600/http://spidermedia.ru/news/dzhon-styuart-v-fonare",
   "tags": [
     "green-lantern"
+  ],
+  "cover": "https://web.archive.org/web/20250419042600im_/http://spidermedia.ru/assets/images/import_image/2451.jpg",
+  "modx_id": 2451,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

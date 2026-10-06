@@ -1,7 +1,10 @@
 {
   "title": "Темная Паутина Гаргана",
-  "date": "2009-03-30T23:37:00+03:00",
+  "date": "2009-03-30T22:37:54+03:00",
   "url": "/news/temnaya-pautina-gargana/",
+  "aliases": [
+    "/node/812/"
+  ],
   "original_url": "http://spidermedia.ru/news/temnaya-pautina-gargana",
   "archived": "https://web.archive.org/web/20120607120456/http://spidermedia.ru/news/temnaya-pautina-gargana",
   "tags": [
@@ -13,13 +16,21 @@
     "mayk-deodato",
     "marvel",
     "oblozhki",
-    "chelovek-pauk"
+    "chelovek-pauk",
+    "majk-deodato",
+    "brajan-rid"
+  ],
+  "cover": "https://web.archive.org/web/20120607120456im_/http://spidermedia.ru/assets/images/import_image/812.jpg",
+  "modx_id": 812,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }
 
-Тьма уже рядом, зло все ближе подбирается к светлым образам героев. По крайней мере нечто подобное стоит ждать от серии **Dark Reign: The Sinister Spider-Man**, о которой мы [оповещали](../../node/812/) не так давно.
+Тьма уже рядом, зло все ближе подбирается к светлым образам героев. По крайней мере нечто подобное стоит ждать от серии **Dark Reign: The Sinister Spider-Man**, о которой мы [оповещали](./) не так давно.
 
 ]]>[![DARKSSM001_cov_col_copy.jpg - upload images with Picamatic](https://web.archive.org/web/20120607120456im_/http://www.picamatic.com/show/2009/03/20/09/51/2905581_bigthumb.jpg "DARKSSM001_cov_col_copy.jpg")](http://www.picamatic.com/view/2905581_DARKSSM001_cov_col_copy/)]]>
 

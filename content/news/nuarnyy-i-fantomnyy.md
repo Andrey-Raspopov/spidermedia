@@ -1,14 +1,23 @@
 {
   "title": "Нуарный и фантомный",
-  "date": "2009-06-21T21:48:00+03:00",
+  "date": "2009-06-21T20:48:06+03:00",
   "url": "/news/nuarnyy-i-fantomnyy/",
+  "aliases": [
+    "/node/1460/"
+  ],
   "original_url": "https://spidermedia.ru/news/nuarnyy-i-fantomnyy",
   "archived": "https://web.archive.org/web/20250906081736/https://spidermedia.ru/news/nuarnyy-i-fantomnyy",
   "tags": [
     "marvel",
     "art-0",
     "devid-liss",
-    "dzhejson-armstrong"
+    "dzhejson-armstrong",
+    "art"
+  ],
+  "modx_id": 1460,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

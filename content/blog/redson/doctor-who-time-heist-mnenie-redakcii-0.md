@@ -1,13 +1,20 @@
 {
   "title": "Doctor Who \"Time Heist\": Мнение редакции",
-  "date": "2014-09-22T14:06:00+03:00",
+  "date": "2014-09-22T13:06:59+03:00",
   "url": "/blog/redson/doctor-who-time-heist-mnenie-redakcii-0/",
   "original_url": "http://spidermedia.ru/blog/redson/doctor-who-time-heist-mnenie-redakcii-0",
   "archived": "https://web.archive.org/web/20251110230957/http://spidermedia.ru/blog/redson/doctor-who-time-heist-mnenie-redakcii-0",
   "tags": [
     "doctor-who",
     "mnenie",
-    "serialy"
+    "serialy",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20251110230957im_/http://spidermedia.ru/assets/images/import_image/8084.jpg",
+  "modx_id": 8084,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

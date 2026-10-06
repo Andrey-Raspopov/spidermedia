@@ -1,6 +1,6 @@
 {
   "title": "Авторитеты возвращаются... sort of...",
-  "date": "2009-04-06T15:57:00+03:00",
+  "date": "2009-04-06T14:57:05+03:00",
   "url": "/news/avtoritety-vozvrashchayutsya-sort/",
   "original_url": "http://spidermedia.ru/news/avtoritety-vozvrashchayutsya-sort",
   "archived": "https://web.archive.org/web/20190923060824/http://spidermedia.ru:80/news/avtoritety-vozvrashchayutsya-sort",
@@ -10,6 +10,12 @@
     "avtoritety",
     "authority",
     "wildstorm"
+  ],
+  "cover": "https://web.archive.org/web/20150315210246im_/http://spidermedia.ru/assets/images/ecahznqzhc4.jpg",
+  "modx_id": 869,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

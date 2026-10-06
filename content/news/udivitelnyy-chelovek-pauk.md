@@ -1,12 +1,18 @@
 {
   "title": "Удивительный Человек-Паук!",
-  "date": "2011-02-14T23:14:00+03:00",
+  "date": "2011-02-14T23:14:49+03:00",
   "url": "/news/udivitelnyy-chelovek-pauk/",
   "original_url": "http://spidermedia.ru/news/udivitelnyy-chelovek-pauk",
   "archived": "https://web.archive.org/web/20250121012745/http://spidermedia.ru/news/udivitelnyy-chelovek-pauk",
   "tags": [
     "marvel",
     "spider-man"
+  ],
+  "cover": "https://web.archive.org/web/20250121012745im_/http://spidermedia.ru/assets/images/import_image/3420.jpg",
+  "modx_id": 3420,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

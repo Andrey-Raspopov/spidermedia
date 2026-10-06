@@ -1,6 +1,6 @@
 {
   "title": "Новости сериалов",
-  "date": "2014-02-14T11:32:00+03:00",
+  "date": "2014-02-14T10:32:58+03:00",
   "url": "/news/novosti-serialov/",
   "original_url": "https://spidermedia.ru/news/novosti-serialov",
   "archived": "https://web.archive.org/web/20260214130745/https://spidermedia.ru/news/novosti-serialov",
@@ -8,6 +8,12 @@
     "the-flash",
     "gotem",
     "green-arrow"
+  ],
+  "cover": "https://web.archive.org/web/20260214130745im_/http://spidermedia.ru/assets/images/import_image/7642.jpg",
+  "modx_id": 7642,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

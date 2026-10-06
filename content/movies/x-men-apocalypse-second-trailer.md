@@ -8,6 +8,12 @@
     "marvel",
     "x-men"
   ],
+  "cover": "https://web.archive.org/web/20250715013932im_/http://spidermedia.ru/assets/images/movies/marvel/x-men-apocalypse-movie-2016/apoc.jpg",
+  "modx_id": 101006,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

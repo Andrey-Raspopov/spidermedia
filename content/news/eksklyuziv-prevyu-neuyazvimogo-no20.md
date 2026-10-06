@@ -1,6 +1,6 @@
 {
   "title": "ЭКСКЛЮЗИВ: Превью \"Неуязвимого\" №20",
-  "date": "2013-10-25T11:51:00+03:00",
+  "date": "2013-10-25T10:51:44+03:00",
   "url": "/news/eksklyuziv-prevyu-neuyazvimogo-no20/",
   "original_url": "https://spidermedia.ru/news/eksklyuziv-prevyu-neuyazvimogo-no20",
   "archived": "https://web.archive.org/web/20251018232549/https://spidermedia.ru/news/eksklyuziv-prevyu-neuyazvimogo-no20",
@@ -10,7 +10,14 @@
     "preview",
     "invincible",
     "izdatelstvo-42",
-    "image-comics"
+    "image-comics",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20251018232549im_/http://spidermedia.ru/assets/images/import_image/7512.png",
+  "modx_id": 7512,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

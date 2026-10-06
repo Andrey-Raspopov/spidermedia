@@ -11,6 +11,12 @@
     "festival",
     "ninja-turtles"
   ],
+  "cover": "https://web.archive.org/web/20160417211012im_/http://spidermedia.ru/assets/images/news/bigfest/snimok-ekrana-2016-03-03-v-12.11.04.png",
+  "modx_id": 100964,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

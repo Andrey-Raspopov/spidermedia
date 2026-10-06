@@ -1,7 +1,10 @@
 {
   "title": "Кроссовер десятилетия!",
-  "date": "2009-03-13T21:24:00+03:00",
+  "date": "2009-03-13T21:24:21+03:00",
   "url": "/news/krossover-desyatiletiya/",
+  "aliases": [
+    "/node/665/"
+  ],
   "original_url": "https://spidermedia.ru/news/krossover-desyatiletiya",
   "archived": "https://web.archive.org/web/20250616094656/https://spidermedia.ru/news/krossover-desyatiletiya",
   "tags": [
@@ -9,6 +12,12 @@
     "image-comics",
     "invincible",
     "ryan-ottley"
+  ],
+  "cover": "https://web.archive.org/web/20250616094656im_/http://spidermedia.ru/assets/images/import_image/665.jpg",
+  "modx_id": 665,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

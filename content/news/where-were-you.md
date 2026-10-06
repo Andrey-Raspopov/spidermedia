@@ -1,7 +1,10 @@
 {
   "title": "Where were You?",
-  "date": "2010-02-27T00:57:00+03:00",
+  "date": "2010-02-27T00:57:34+03:00",
   "url": "/news/where-were-you/",
+  "aliases": [
+    "/node/2401/"
+  ],
   "original_url": "http://spidermedia.ru/news/where-were-you",
   "archived": "https://web.archive.org/web/20251208072519/http://spidermedia.ru/news/where-were-you",
   "tags": [
@@ -13,7 +16,13 @@
     "second-coming",
     "mike-carey",
     "marvel",
-    "david-finch"
+    "david-finch",
+    "lyudi-iks"
+  ],
+  "modx_id": 2401,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

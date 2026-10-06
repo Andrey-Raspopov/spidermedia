@@ -1,6 +1,6 @@
 {
   "title": "\"Возвращение Супермена\" - один из лучших кинокомиксов в истории",
-  "date": "2013-06-03T12:45:00+03:00",
+  "date": "2013-06-03T11:45:18+03:00",
   "url": "/blog/redson/vozvrashchenie-supermena-odin-iz-luchshih-kinokomiksov-v-istorii/",
   "original_url": "https://spidermedia.ru/blog/redson/vozvrashchenie-supermena-odin-iz-luchshih-kinokomiksov-v-istorii",
   "archived": "https://web.archive.org/web/20260117215234/https://spidermedia.ru/blog/redson/vozvrashchenie-supermena-odin-iz-luchshih-kinokomiksov-v-istorii",
@@ -8,6 +8,12 @@
     "superman",
     "mnenie",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20260117215234im_/http://spidermedia.ru/assets/images/import_image/7262.jpg",
+  "modx_id": 7262,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

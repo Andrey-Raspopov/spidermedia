@@ -1,6 +1,6 @@
 {
   "title": "Return to Wonderland выйдет на русском",
-  "date": "2013-06-23T10:09:00+03:00",
+  "date": "2013-06-23T09:09:11+03:00",
   "url": "/news/return-wonderland-vyydet-na-russkom/",
   "original_url": "http://spidermedia.ru/news/return-wonderland-vyydet-na-russkom",
   "archived": "https://web.archive.org/web/20191018131638/http://spidermedia.ru/news/return-wonderland-vyydet-na-russkom",
@@ -8,6 +8,12 @@
     "lavka-komiksov-apelsin",
     "zarubezhnye-komiksy-na-russkom",
     "zenescope-entertainment"
+  ],
+  "cover": "https://web.archive.org/web/20191018131638im_/http://spidermedia.ru/assets/images/import_image/7295.jpg",
+  "modx_id": 7295,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

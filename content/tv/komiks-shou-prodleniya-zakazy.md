@@ -4,6 +4,12 @@
   "url": "/tv/komiks-shou-prodleniya-zakazy/",
   "original_url": "http://spidermedia.ru/tv/komiks-shou-prodleniya-zakazy",
   "archived": "https://web.archive.org/web/20260209113523/http://spidermedia.ru/tv/komiks-shou-prodleniya-zakazy",
+  "cover": "https://web.archive.org/web/20260209113523im_/http://spidermedia.ru/assets/images/news/tv/vertigo/bump-pic-tv.gif",
+  "modx_id": 100206,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
@@ -26,7 +32,7 @@ CW мало того, что продлил **«Стрелу»** и **«Флэ
 
 Пилотную серию **Supergirl** показали студийным боссам, все хорошо, сериал получил от CBS «зеленый свет». Премьера осенью.
 
-И [**Powers**](https://web.archive.org/web/20260209113725/https://spidermedia.ru/tv/powers-season1-review) получил второй сезон, правда, не без потерь. Шоураннер Чарли Хьюстон покинул свой пост из-за творческих разногласий. Может, оно и к лучшему? Подробностей о том, когда и сколько новых серий мы увидим, не последовало.
+И [**Powers**](../powers-season1-review/) получил второй сезон, правда, не без потерь. Шоураннер Чарли Хьюстон покинул свой пост из-за творческих разногласий. Может, оно и к лучшему? Подробностей о том, когда и сколько новых серий мы увидим, не последовало.
 
 **UPD.:**NBC отказал **«Константину»** в продлении на второй сезон. Warner Bros попытаются найти новый дом для сериала, возможно, им станет The CW, но пока что все очень туманно.
 

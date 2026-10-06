@@ -1,12 +1,18 @@
 {
   "title": "Районный отдел упокоения",
-  "date": "2013-04-16T11:38:00+03:00",
+  "date": "2013-04-16T10:38:09+03:00",
   "url": "/news/rayonnyy-otdel-upokoeniya/",
   "original_url": "https://spidermedia.ru/news/rayonnyy-otdel-upokoeniya",
   "archived": "https://web.archive.org/web/20260214143258/https://spidermedia.ru/news/rayonnyy-otdel-upokoeniya",
   "tags": [
     "r.i.p.d",
     "dark-horse"
+  ],
+  "cover": "https://web.archive.org/web/20260214143258im_/http://spidermedia.ru/assets/images/import_image/7204.jpg",
+  "modx_id": 7204,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

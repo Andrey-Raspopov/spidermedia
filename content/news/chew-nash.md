@@ -1,6 +1,6 @@
 {
   "title": "Chew наш!",
-  "date": "2014-07-16T07:24:00+03:00",
+  "date": "2014-07-16T06:24:04+03:00",
   "url": "/news/chew-nash/",
   "original_url": "http://spidermedia.ru/news/chew-nash",
   "archived": "https://web.archive.org/web/20260208194703/http://spidermedia.ru/news/chew-nash",
@@ -10,6 +10,12 @@
     "dzhon-lejman",
     "rob-guillory",
     "zarubezhnye-komiksy-na-russkom"
+  ],
+  "cover": "https://web.archive.org/web/20260208194703im_/http://spidermedia.ru/assets/images/import_image/7889.jpg",
+  "modx_id": 7889,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

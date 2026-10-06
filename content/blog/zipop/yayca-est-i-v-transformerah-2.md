@@ -1,7 +1,10 @@
 {
   "title": "Яйца есть и в Трансформерах 2",
-  "date": "2009-06-26T05:28:00+03:00",
+  "date": "2009-06-26T04:28:21+03:00",
   "url": "/blog/zipop/yayca-est-i-v-transformerah-2/",
+  "aliases": [
+    "/node/1483/"
+  ],
   "original_url": "http://spidermedia.ru/blog/zipop/yayca-est-i-v-transformerah-2",
   "archived": "https://web.archive.org/web/20120607134855/http://spidermedia.ru/blog/zipop/yayca-est-i-v-transformerah-2",
   "tags": [
@@ -9,6 +12,11 @@
     "kino",
     "pashalki",
     "transformery-mest-padshih"
+  ],
+  "modx_id": 1483,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

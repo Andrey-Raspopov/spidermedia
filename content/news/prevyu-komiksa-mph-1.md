@@ -1,6 +1,6 @@
 {
   "title": "Превью комикса MPH #1",
-  "date": "2014-04-28T13:05:00+03:00",
+  "date": "2014-04-28T12:05:40+03:00",
   "url": "/news/prevyu-komiksa-mph-1/",
   "original_url": "https://spidermedia.ru/news/prevyu-komiksa-mph-1",
   "archived": "https://web.archive.org/web/20260307052756/https://spidermedia.ru/news/prevyu-komiksa-mph-1",
@@ -8,6 +8,12 @@
     "mark-millar",
     "mph",
     "image-comics"
+  ],
+  "cover": "https://web.archive.org/web/20260307052756im_/http://spidermedia.ru/assets/images/import_image/7725.jpg",
+  "modx_id": 7725,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

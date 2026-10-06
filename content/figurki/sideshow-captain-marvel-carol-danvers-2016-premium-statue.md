@@ -8,6 +8,12 @@
     "marvel",
     "captain-marvel"
   ],
+  "cover": "https://web.archive.org/web/20160611151144im_/http://spidermedia.ru/assets/images/news/images/5_toys/sideshow/marvel/captain-marvel/marvel-captain-marvel-premium-format-feature-3004543.jpg",
+  "modx_id": 100845,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

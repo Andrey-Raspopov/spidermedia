@@ -1,11 +1,17 @@
 {
   "title": "Аэропорт Феррис",
-  "date": "2010-05-05T19:55:00+03:00",
+  "date": "2010-05-05T18:55:42+03:00",
   "url": "/news/aeroport-ferris/",
   "original_url": "http://spidermedia.ru/news/aeroport-ferris",
   "archived": "https://web.archive.org/web/20250909133251/http://spidermedia.ru/news/aeroport-ferris",
   "tags": [
     "green-lantern"
+  ],
+  "cover": "https://web.archive.org/web/20250909133251im_/http://spidermedia.ru/assets/images/import_image/2601.jpg",
+  "modx_id": 2601,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

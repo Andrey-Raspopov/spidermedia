@@ -12,6 +12,9 @@
     "dzhey-maykl-strazhinskiy",
     "evropeyskie-hudozhniki"
   ],
+  "sources": [
+    "archive"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

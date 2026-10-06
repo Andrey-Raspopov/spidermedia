@@ -1,11 +1,20 @@
 {
   "title": "Spidermedia's Mustread Comics List 2009 [ver 1.2]",
-  "date": "2009-08-11T00:37:00+03:00",
+  "date": "2009-08-10T23:37:43+03:00",
   "url": "/blog/sonyn/spidermedias-mustread-comics-list-2009-ver-12/",
+  "aliases": [
+    "/node/1763/"
+  ],
   "original_url": "http://spidermedia.ru/blog/sonyn/spidermedias-mustread-comics-list-2009-ver-12",
   "archived": "https://web.archive.org/web/20190915012629/http://spidermedia.ru:80/blog/sonyn/spidermedias-mustread-comics-list-2009-ver-12",
   "tags": [
     "mustread"
+  ],
+  "cover": "https://web.archive.org/web/20190915012629im_/http://spidermedia.ru/assets/images/import_image/1763.jpg",
+  "modx_id": 1763,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Первый совместный проект Диснея и Марвел",
-  "date": "2012-06-29T14:03:00+03:00",
+  "date": "2012-06-29T13:03:03+03:00",
   "url": "/news/pervyy-sovmestnyy-proekt-disneya-i-marvel/",
   "original_url": "http://spidermedia.ru/news/pervyy-sovmestnyy-proekt-disneya-i-marvel",
   "archived": "https://web.archive.org/web/20260117214803/http://spidermedia.ru/news/pervyy-sovmestnyy-proekt-disneya-i-marvel",
@@ -9,6 +9,12 @@
     "animaciya",
     "big-hero-6",
     "disnej"
+  ],
+  "cover": "https://web.archive.org/web/20150326221043im_/http://spidermedia.ru/assets/images/import_image/6947.jpg",
+  "modx_id": 6947,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

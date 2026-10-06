@@ -1,12 +1,18 @@
 {
   "title": "Runaways #01 - #03",
-  "date": "2011-05-18T00:01:00+03:00",
+  "date": "2011-05-17T23:01:00+03:00",
   "url": "/blog/alice/runaways-01-03/",
   "original_url": "http://spidermedia.ru/blog/alice/runaways-01-03",
   "archived": "https://web.archive.org/web/20251207092854/http://spidermedia.ru/blog/alice/runaways-01-03",
   "tags": [
     "runaways",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20251207092854im_/http://spidermedia.ru/assets/images/import_image/5811.jpg",
+  "modx_id": 5811,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

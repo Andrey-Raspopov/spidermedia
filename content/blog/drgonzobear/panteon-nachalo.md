@@ -1,13 +1,20 @@
 {
   "title": "Пантеон: Начало",
-  "date": "2012-02-15T03:58:00+03:00",
+  "date": "2012-02-15T02:58:24+03:00",
   "url": "/blog/drgonzobear/panteon-nachalo/",
   "original_url": "http://spidermedia.ru/blog/drgonzobear/panteon-nachalo",
   "archived": "https://web.archive.org/web/20120512081723/http://spidermedia.ru/blog/drgonzobear/panteon-nachalo",
   "tags": [
     "alternativnaya-istoriya",
     "pantheon",
-    "russkie-komiksy"
+    "russkie-komiksy",
+    "russian-comics"
+  ],
+  "cover": "https://web.archive.org/web/20120512081723im_/http://spidermedia.ru/assets/images/import_image/6785.jpg",
+  "modx_id": 6785,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

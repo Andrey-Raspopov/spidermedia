@@ -1,7 +1,10 @@
 {
   "title": "Бесплатный Росомаха",
-  "date": "2009-03-28T03:37:00+03:00",
+  "date": "2009-03-28T02:37:24+03:00",
   "url": "/news/besplatnyy-rosomaha/",
+  "aliases": [
+    "/node/796/"
+  ],
   "original_url": "http://spidermedia.ru/news/besplatnyy-rosomaha",
   "archived": "https://web.archive.org/web/20120609181032/http://spidermedia.ru/news/besplatnyy-rosomaha",
   "tags": [
@@ -10,6 +13,11 @@
     "komiksy",
     "marvel",
     "rosomaha"
+  ],
+  "modx_id": 796,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

@@ -7,6 +7,12 @@
   "tags": [
     "dynamite-entertainment"
   ],
+  "cover": "https://web.archive.org/web/20250324071326im_/http://spidermedia.ru/assets/images/reviews/dynamite/mars-attacks/1.jpg",
+  "modx_id": 102051,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,11 +1,17 @@
 {
   "title": "День новых комиксов: 22 октября",
-  "date": "2014-10-22T15:28:00+03:00",
+  "date": "2014-10-22T14:28:54+03:00",
   "url": "/blog/redson/den-novyh-komiksov-22-oktyabrya/",
   "original_url": "http://spidermedia.ru/blog/redson/den-novyh-komiksov-22-oktyabrya",
   "archived": "https://web.archive.org/web/20260211190202/http://spidermedia.ru/blog/redson/den-novyh-komiksov-22-oktyabrya",
   "tags": [
     "den-novyh-komiksov"
+  ],
+  "cover": "https://web.archive.org/web/20150326053436im_/http://spidermedia.ru/assets/images/import_image/8213.jpg",
+  "modx_id": 8213,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

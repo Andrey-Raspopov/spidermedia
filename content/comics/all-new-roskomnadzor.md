@@ -9,6 +9,12 @@
     "roskomnadzor",
     "russian-comics"
   ],
+  "cover": "https://web.archive.org/web/20250806083145im_/http://spidermedia.ru/assets/images/roskomnadzor/2017/12.2017/15/rcs-15-12-2017-cover-01.jpg",
+  "modx_id": 101760,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

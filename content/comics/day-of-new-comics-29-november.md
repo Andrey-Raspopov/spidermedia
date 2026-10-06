@@ -7,11 +7,15 @@
   "tags": [
     "den-novyh-komiksov"
   ],
+  "cover": "https://web.archive.org/web/20200127103014im_/http://spidermedia.ru/assets/images/dnk/2017-11/29/000.jpg",
+  "modx_id": 101740,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
-
-[![](http://spidermedia.ru/assets/cache/images/dnk/2017-11/29/622x-000.2e9.jpg)](http://spidermedia.ru/assets/images/dnk/2017-11/29/000.jpg)
 
 После жарких обсуждений всяких разных фильмов возвращаемся к комиксам — пятая среда месяца на календаре, а обсудить все равно есть что.
 
@@ -28,3 +32,214 @@
 Мое отношение к Алонсо никогда не было однозначным. Его работа как редактора икс-линейки и главы издательства вызывала и вызывает целую гамму эмоций — причем кардинально разных. Наверное, в этом и был весь Аксель Алонсо. Хотя почему был? Остается. Любимый муж и отец и уважаемый профессионал — пожелаем ему новых свершений.
 
 Ну а фанатам повтыкать иголки хочу пожелать не спешить мастерить куклу Ч.Б. Цебульски. В конце концов, в Marvel все еще работает и никуда не собирается Том Бревурт — человек с железным иммунитетом, так что заняться вам всегда будет чем. Ну не комиксы же читать, в самом деле.
+
+Ну а мы почитаем. И начнем, как всегда с **DC Comics**, у которых пятая среда месяца традицонно практически полностью посвященна Ежегодникам. Тем не менее, нашлось место для очень важного релиза — первого номера мини-серии из четырех номеров **Batman: Creature of the Night** Курта Бьюзека и Джона Пола Леона о «Бэтмене в реальном мире». Идейно перекликающийся с шедевром Бьюзека и Стюарта Иммонена Superman: Secret Identity, новый комикс рассказывает историю мальчика по имени Брюс Уэйнрайт, живущего в Бостоне, в 1968 году. И он очень любит комиксы о Бэтмене и мечтает быть таким же героем без страха и упрека. Вот только ни один маленький мальчик не мечтает, чтобы его родителей убили ночью в темном переулке у него на глазах. Именно такую трагедию переживает Брюс - вымышленный мир вторгается в реальность, и Бэтмен рождается. История будет охватывать около 20 лет жизни главного героя. Мастрид, само собой, даже не обсуждается.
+
+И еще один лучший комикс о, вы не поверите, Бэтмене — **Batman Annual** Тома Кинга, Ли Уикса и Майка Ларка, повествующий о прошлом Брюса и Селины. Прочитавшие комикс называют его мастерписом и одним из лучших комиксов года. Чтоб вы понимали.
+
+У Marvel Comics неделя не такая мощная, но неплохая. Макс Бемис и Джессен Бэрроуз очень интересно начали свой ран на тайтле **Moon Knight**, посмотрим как пойдет дальше; продолжается сумасшедший во всех смыслах арк Psych War в комиксе **Jean Grey** Денниса Хоуплесса и Виктора Ибаньеза; на финишную прямую выходит противостояние Венома и Крейвена на страницах **Venom** Майка Косты и Марка Бэгли; а противостояние Секретных Воинов с Мистером Синистером в тайтле **Secret Wariors** Мэтью Розенберга и Хавьера Гаррона только по настоящему начинается; новый сториарк Scarlet Samurai начинается в **Old Man Logan** Эда Бриссона и Майка Деодато.
+
+О двух комиксах хочется сказать отдельно. Первое — последний номер **USAvengers** Эла Юинга и Пако Диаза, но ни с Юингом, ни с его героями мы пока не прощаемся — эпик No Surrender впереди, ну а после, мне очень хочется в это верить, Юинг все еще будет работать в рамках обновленного мстительского франчайза. И второе — Cross Time Capers, новый сториарк в **X-Men** Blue Каллена Банна и Тони Силаса. Путешествия во времени в разные стороны, встречи с героями прошлого и будущего, фан, фан, фан.
+
+### DC Comics
+
+- Aquaman Vol.6 Annual #1
+- Batman Vol.3 Annual #2
+- Batman Creature of the Night #1 (of 4),
+- Dark Days The Forge and The Casting Director's Cut #1
+- Green Arrow Vol.7 Annual #1
+- Hal Jordan and The Green Lantern Corps #33
+- Injustice 2 Annual #1
+- Justice League of America Vol.5 Annual #1
+- Mystik U #1 (of 3)
+- New Talent Showcase 2017 #1
+- Super Sons Annual #1
+
+### Marvel Comics
+
+- America #9
+- Darkhawk #51
+- Jean Grey #9
+- Moon Knight Vol.8 #189
+- Old Man Logan Vol.2 #31
+- Secret Warriors Vol.2 #9
+- Spider-Gwen Vol.2 #26
+- Star Wars Jedi of The Republic Mace Windu #4 (of 5)
+- Star Wars Poe Dameron #21
+- U.S.Avengers #12
+- Venom Vol.3 #158
+- X-Men Blue #16
+
+![](https://web.archive.org/web/20200127103014im_/http://spidermedia.ru/assets/images/dnk/2017-11/29/dc-aquaman_annual-1.jpg)![](https://web.archive.org/web/20200127103014im_/http://spidermedia.ru/assets/images/dnk/2017-11/29/dc-batman_creature_of_the_night-1.jpg)![](https://web.archive.org/web/20200127103014im_/http://spidermedia.ru/assets/images/dnk/2017-11/29/dc-mystik_u-1.jpg)![](https://web.archive.org/web/20200127103014im_/http://spidermedia.ru/assets/images/dnk/2017-11/29/dc-new_talent_showcase_2017-1.jpg)![](https://web.archive.org/web/20200127103014im_/http://spidermedia.ru/assets/images/dnk/2017-11/29/m-darkhawk-51.jpg)![](https://web.archive.org/web/20200127103014im_/http://spidermedia.ru/assets/images/dnk/2017-11/29/m-jean_grey-9.jpg)![](https://web.archive.org/web/20200127103014im_/http://spidermedia.ru/assets/images/dnk/2017-11/29/m-star_wars_poe_dameron-21.jpg)![](https://web.archive.org/web/20200127103014im_/http://spidermedia.ru/assets/images/dnk/2017-11/29/m-usavengers-12.jpg)
+
+Говорил я на прошлых неделях, что у Dark Horse не насыщенные недели, так вот сегодня вообще выходит только **B.****P.****R.****D.:** **The** **Devil** **You** **Know #4**.Описание которого проспойлерило мне смерть одного из главных героев серии, поэтому не советую его читать, если серию до онгоинга не нагнали (хотя это наша с вами проблема, спойлеру-то уже не один год). Про саму серию ничего лестного я не слышал, что не удивительно — Скотт Алли довольно средненький сценарист, а Лоуренс Кэмпбелл суперскучный художник.
+
+Image, как самый близкий конкурент двойки, поставляет разнообразный контент еженедельно. В серии звёздного дуэта Брубейкера и Филлипса **Kill** **or****Be****Killed** завершается третий арк, и комикс стабильно держит марку качества. На мой взгляд, комикс, может, и не лучшая их работа, но однозначно интересный, как с точки зрения истории, постоянно заставляющей читателей сомневаться в реальности происходящего, так и на поле рисунка.
+
+Признайтесь честно, кто-нибудь вообще читает комикс **Spawn**? Я вот, честно, не встречал людей, которые читали его дальше первых 20-30 номеров, и то в большинстве своём сначала был мультфильм или кино. Так вот, в свежем номере относительно новая команда (это их пятый номер на серии) из сценариста Дэрры Сэвиджа и художника Джейсона Шона Александра, и выдают они именно то, что я и ожидаю от серии, — СМЕРТЬ. РАЗРУШЕНИЯ. ОБМАН. Не хватает только кровь, кишки, говно, ну да ладно, зато обещают, что появится новый супергерой, ещё более могущественный, чем сам Спон.
+
+Не совсем свежак, но всё же — выходит ТПБ **Ghost** **Fleet** **Whole** **Goddamned** **Thing**, одна из первых работ Донни Кейтса и Дэниэла Уоррена Джонсона. Сюжетно история представляет собой месиво из идей, кажущихся Кейтсу крутыми, например, огромные фуры, везущие неизвестный груз, секретные организации, тайны из прошлого, а художественно это просто праздник для глаз, смотреть на безумный экшн от Джонсона сплошной кайф. Несмотря на скомканность сюжета и слишком резкий финал, история довольно неплоха, и даже если она не зацепит, то рисунок влёгкую оправдает покупку комикса.
+
+### Dark Horse
+
+- B.P.R.D. The Devil You Know #4
+
+### Image Comics
+
+- Beauty #17
+- Black Magick #9
+- Hack Slash Resurrection #2
+- Kill or Be Killed #14
+- Lazarus X+66 #5 (of 6)
+- Motor Crush #8
+- Renato Jones Season Two #5 (of 5)
+- Sacred Creatures #5
+- Spy Seal #4
+- **SKYBOUND**
+- Manifest Destiny #32
+- **TODD McFARLANE**
+- Spawn #280
+
+![](https://web.archive.org/web/20200127103014im_/http://spidermedia.ru/assets/images/dnk/2017-11/29/dh-bprd_the_devil_you_know-4.jpg)![](https://web.archive.org/web/20200127103014im_/http://spidermedia.ru/assets/images/dnk/2017-11/29/i-black_magick-9.jpg)![](https://web.archive.org/web/20200127103014im_/http://spidermedia.ru/assets/images/dnk/2017-11/29/i-manifest_destiny-32.jpg)![](https://web.archive.org/web/20200127103014im_/http://spidermedia.ru/assets/images/dnk/2017-11/29/i-motor_crush-8.jpg)![](https://web.archive.org/web/20200127103014im_/http://spidermedia.ru/assets/images/dnk/2017-11/29/i-sacred_creatures-5.jpg)
+
+Boom сегодня необычный. Ничем особо не известный Джон Чэд решил заявить о себе комиксом **Bad** **Mask**, который в рекламе называют ни много, ни мало, а идеальным для фанатов Building Stories Криса Уэйра. Там же пишут, что комикс раздвинет границы классического повествования так, как ранее почти не делалось — покупателю выдадут коробку, наполненную разнообразными материалами (комикс, газета, письмо, карточки и т.д.), которые теоретически сложатся в историю борьбы супергероя Метал Метро с преступной организацией Бэд Мэск.
+
+Из разряда странностей6 комикс **Hi-****fi** **Fight** **Club** на последнем номере внезапно сменил название на **Heavy** **Vinyl**, что, вероятно, сильно повлияет на продажи синглов. Причины смены название столь же непонятны, как сам факт — якобы такое название расширяет возможности, чтобы это ни означало. По слухам же, название сменили из-за книги/фильма/комикса Fight Club, также название магазина Vinyl Mayhem созвучно с названием плана Тайлера Дердена Project Mayhem. Такие дела.
+
+Зато Dynamite стабильно выдаёт средняки и комиксы по лицензиям, сегодня вас ждёт первый номер комикс-приключений Киану Ривза в **John** **Wick**. Нас ждёт насыщенный ориджин героя, в котором Грег Пак ответит на все возможные вопросы о мире убийц, а Джованни Валлетта покажет их. Вопросов много, но ведь все мы ждём только один ответ — почему Баба Яга?
+
+В новом арке **Vampirella** нас ждёт новый творческий состав — Джереми Уитли и Энди Беленджер. Первый меня не особо привлекает, так как во всех его комиксах он злоупотребляет стенами из текста, но вот ради рисунка можно и попробовать. Расскажут нам на этот раз о том, как Вампирелла и некто Вики вляпаются в весьма неблагоприятные пустоши, где их будут поджидать только неприятности.
+
+### BOOM! Studios
+
+- **ARCHAIA**
+- Jim Henson's Labyrinth 2017 Special #1
+- **BOOM! Box**
+- Bad Mask GN
+- Heavy Vinyl #4 (of 4)
+
+### Dynamite Entertainment
+
+- Bettie Page #5
+- John Wick #1 (of 5)
+- Justice Inc The Avenger Faces of Justice #4 (of 4)
+- Vampirella Vol.7 #8
+
+![](https://web.archive.org/web/20200127103014im_/http://spidermedia.ru/assets/images/dnk/2017-11/29/b-hi-fi_fight_club-4.jpg)![](https://web.archive.org/web/20200127103014im_/http://spidermedia.ru/assets/images/dnk/2017-11/29/b-labyrinth_2017_special-1.jpg)![](https://web.archive.org/web/20200127103014im_/http://spidermedia.ru/assets/images/dnk/2017-11/29/d-john_wick-1.jpg)![](https://web.archive.org/web/20200127103014im_/http://spidermedia.ru/assets/images/dnk/2017-11/29/d-vampirella-8.jpg)
+
+У IDW сегодня аж две новинки на них и обратим внимание:
+
+В первую очередь сценарный дебют отличного художника Габриэля Родригеза, художником тоже будет он сам. В **Sword** **of****Ages** нам покажут сплав фэнтези и сайфая, где главной героине придётся с помощью легендарного оружия спасти свой наполненный магией мир от инопланетных вторженцев. В превью пишется, что героиня будет первым владельцем меча, а это, скорее всего, намекает, что нам покажут не один мир или временной промежуток. Нередко у художников, решающих перейти на сторону текста, это получается довольно не ахтецки, но почему бы не проверить?
+
+Ещё одной серией с художником, пробующим себя в качестве сценариста, выступит **Giantkillers**, Барт Сирс будет сценаристом/художником комикса, а помогут ему со сценарием Рон Марц и с рисунком Том Рейни. В сюжете, вы не поверите, магический мир столкнётся с научной фантастикой, а мы понаблюдаем за тем, как Аркон Гигантоборец будет защищать молодую Ауро, которой предначертано сразить Ужасающего Лорда Омина. Короче, типичнейшее фэнтези-барахло, скорее всего.
+
+А что там у других издательств?
+
+— у American Gothic Press заканчивается вторая серия **Killbox** **Chicago**, так как я люблю произведения на тему «Королевская битва», то мимо первого тома пройти не смог — странная организация проводит игру, где прямо посреди города 10 участников должны убить друг друга, получив за победу исполнение желания. В итоге это вылилось в полную срань и уж поверьте — первый номер нагло лжёт и пытается подкупить. Второй том я читать боюсь, но сам понимаю, что полезу в это болото.
+
+— новая серия Vault под названием **Reactor** от Донни «Том Кинг других издательств» Кейтса и Дилана Бёрнетта является не новой серией, а вторым томом комикса Interceptor, изначально выходящего в 2000 AD и потом переизданного отдельно. В комиксе нас встречает Земля, населённая вампирами, а человеки обитают на космических станция, но, само собой, так продолжаться не может, и земляне отправляют на уничтожение всех вампиров одного суперсолдата с мехакостюмом. Первый том забавный, но не хватающий звёзд с неба, втором том, само собой, только для тех, кому интересен первый.
+
+— ещё одна серия Lion Forge в их Catalyst-вселенной — **Catalyst** **Prime** **Kino** расскажет о солдате, пожертвовавшем собой для уничтожения того самого метеорита осколки, которого наделили избранных сверхспособностями. Как можно догадаться, майор Алистер Мис не погибает, а возвращается, наделённый силами. Пишет Джо Кейси, рисует Хефте Пало, читают мазохисты, ведь комиксы у издательства выходят невероятно пресными и вторичными (разве что Astonisher пока сносный).
+
+Вот такая выдалась неделя — где-то гуще, где-то жиже, но скучать точно не приходится. А что вы думаете по поводу сегодняшних комиксов, может мы, как всегда, упустили что-то достойное отдельного упоминания?
+
+### IDW Publishing
+
+- Atomic Robo and The Spectre of Tomorrow #2
+- G.I. JOE A Real American Hero #246
+- Giantkillers #0
+- Powerpuff Girls The Bureau of Bad #1 (of 3)
+- Rom Vs Transformers Shining Armor #5 (of 5)
+- Star Trek Boldly Go #14
+- Star Trek Discovery #1
+- Star Wars Adventures #4
+- Sword of Ages #1
+- Teenage Mutant Ninja Turtles Ghostbusters II #5
+- Transformers Lost Light #11
+- Uncle Scrooge Vol.2 #32
+- X-Files JFK Disclosure #2 (of 2)
+
+### Другие издательства
+
+- *AARDVARK VANAHEIM*
+- Death of Cerebus in Hell #1 (of 1)
+- *AC COMICS*
+- Charlton Arrow #2
+- *ACTION LAB ENTERTAINMENT*
+- Miraculous #17
+- *AFTERSHOCK COMICS*
+- Dark Ark #3
+- Fu Jitsu #3
+- *AMERICAN GOTHIC PRESS*
+- Killbox Chicago #4 (of 4)
+- *AMERICAN MYTHOLOGY PRODUCTIONS*
+- Pink Panther Cartoon Hour Special #2
+- *AMIGO COMICS*
+- Planet of Daemons #4
+- *ANTARCTIC PRESS*
+- Arya #2
+- Blade Bunny Vol.2 #11
+- *ARCHIE COMIC PUBLICATIONS*
+- Archie Comics Double Digest #284
+- *ASPEN COMICS*
+- Lola XOXO Vol.2 #5
+- *BLACKBOX COMICS*
+- I.T. The Secret World Of Modern Banking Vol.2 #2 (of 5)
+- *BROADSWORD COMICS*
+- Tarot Witch of The Black Rose #107
+- *CONUNDRUM PRESS*
+- Mister Morgen GN
+- *DANGER ZONE*
+- MediSin #6
+- Vampblade Season Two #9
+- *DARBY POP PUBLISHING*
+- Santa Clause Private Eye GN
+- *FANTAGRAPHICS BOOKS*
+- I Am Not Okay With This GN
+- Run For It Stories of Slaves Who Fought For Their Freedom HC
+- Zegas GN
+- *IMPROPER BOOKS*
+- Mulp Sceptre of The Sun #4 (of 5)
+- *JOE BOOKS*
+- Disney Pixar Coco #1 (One Shot)
+- *LION FORGE*
+- Catalyst Prime Kino #1
+- *NOBROW PRESS*
+- Geis: A Game Without Rules HC
+- *NORTHWEST PRESS*
+- Big Book of Bisexual Trials and Errors GN
+- *ONI PRESS*
+- Heartthrob Season Two #5
+- Kaijumax Season Three #5
+- Night's Dominion Season Two #4
+- Rick And Morty #32
+- *RED 5 COMICS*
+- Chasing Hitler #1 (of 4)
+- *RED GIANT ENTERTAINMENT*
+- Markiplier #1 (of 4)
+- *SCOUT COMICS*
+- Graveland #3
+- *STORM KING PRODUCTIONS*
+- John Carpenter's Tales of Science Fiction Vortex #2 (of 8)
+- *TITAN PUBLISHING GROUP*
+- Doctor Who The Eleventh Doctor Year Three #12
+- *HAMMER COMICS*
+- Captain Kronos #3
+- HARD CASE CRIME
+- Quarry's War #1
+- *UDON ENTERTAINMENT*
+- Street Fighter Reloaded #1 (of 6)
+- Street Fighter Vs Darkstalkers #7 (of 8)
+- *VALIANT ENTERTAINMENT*
+- Eternity #2 (of 4)
+- War Mother #4
+- *VAULT COMICS*
+- Reactor #1 (of 4)
+- *VEROTIK*
+- Morella Presents Verotika Returns Special #4
+- *ZENESCOPE ENTERTAINMENT*
+- Grimm Fairy Tales Presents Dance of the Dead #2 (of 5)
+- Grimm Fairy Tales Presents Tarot #3
+- Robyn Hood The Hunt #5
+
+![](https://web.archive.org/web/20200127103014im_/http://spidermedia.ru/assets/images/dnk/2017-11/29/idw-star_trek_discovery-1.jpg)![](https://web.archive.org/web/20200127103014im_/http://spidermedia.ru/assets/images/dnk/2017-11/29/idw-star_wars_adventures-4.jpg)![](https://web.archive.org/web/20200127103014im_/http://spidermedia.ru/assets/images/dnk/2017-11/29/idw-sword_of_ages-1.jpg)![](https://web.archive.org/web/20200127103014im_/http://spidermedia.ru/assets/images/dnk/2017-11/29/idw-the_transformers_lost_light-11.jpg)![](https://web.archive.org/web/20200127103014im_/http://spidermedia.ru/assets/images/dnk/2017-11/29/o-ac-lola_xoxo-5.jpg)![](https://web.archive.org/web/20200127103014im_/http://spidermedia.ru/assets/images/dnk/2017-11/29/o-ac-fu_jitsu-3.jpg)![](https://web.archive.org/web/20200127103014im_/http://spidermedia.ru/assets/images/dnk/2017-11/29/o-av-the_death_of_cerebus_in_hell-1.jpg)![](https://web.archive.org/web/20200127103014im_/http://spidermedia.ru/assets/images/dnk/2017-11/29/o-v-eternity-2.jpg)

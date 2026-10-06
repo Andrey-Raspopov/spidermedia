@@ -1,6 +1,6 @@
 {
   "title": "SDCC'10: Джосс Уидон о фильме \"Мстители\"",
-  "date": "2010-07-24T19:16:00+03:00",
+  "date": "2010-07-24T18:16:09+03:00",
   "url": "/news/sdcc10-dzhoss-uidon-o-filme-mstiteli/",
   "original_url": "http://spidermedia.ru/news/sdcc10-dzhoss-uidon-o-filme-mstiteli",
   "archived": "https://web.archive.org/web/20260121013607/http://spidermedia.ru/news/sdcc10-dzhoss-uidon-o-filme-mstiteli",
@@ -9,6 +9,12 @@
     "marvel",
     "joss-whedon",
     "avengers"
+  ],
+  "cover": "https://web.archive.org/web/20160620040650im_/http://spidermedia.ru/assets/images/import_image/2779.jpg",
+  "modx_id": 2779,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -8,6 +8,12 @@
     "hellboymedia",
     "obzor"
   ],
+  "cover": "https://web.archive.org/web/20251206152641im_/http://spidermedia.ru/assets/images/hellboymedia/special/09-crossovers/hellboy-crossovers-cover.jpg",
+  "modx_id": 101046,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

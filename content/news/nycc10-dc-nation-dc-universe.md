@@ -1,6 +1,6 @@
 {
   "title": "NYCC'10: DC Nation+DC Universe",
-  "date": "2010-10-10T11:33:00+03:00",
+  "date": "2010-10-10T10:33:37+03:00",
   "url": "/news/nycc10-dc-nation-dc-universe/",
   "original_url": "https://spidermedia.ru/news/nycc10-dc-nation-dc-universe",
   "archived": "https://web.archive.org/web/20260115064710/https://spidermedia.ru/news/nycc10-dc-nation-dc-universe",
@@ -9,6 +9,12 @@
     "nycc-2010",
     "dc-comics",
     "new-york-comic-con"
+  ],
+  "cover": "https://web.archive.org/web/20260115064710im_/http://spidermedia.ru/assets/images/import_image/2988.png",
+  "modx_id": 2988,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

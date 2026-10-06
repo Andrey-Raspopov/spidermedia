@@ -9,6 +9,12 @@
     "batman",
     "batman-week"
   ],
+  "cover": "https://web.archive.org/web/20240830153353im_/http://spidermedia.ru/assets/images/articles/zamsky-gotham/005-kelly-jones/cover.jpg",
+  "modx_id": 101439,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

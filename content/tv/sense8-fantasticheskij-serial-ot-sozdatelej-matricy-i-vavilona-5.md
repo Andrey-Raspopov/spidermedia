@@ -7,6 +7,12 @@
   "tags": [
     "j-michael-straczynski"
   ],
+  "cover": "https://web.archive.org/web/20251209145205im_/http://spidermedia.ru/assets/images/news/tv/sense8.jpg",
+  "modx_id": 100214,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,6 +1,6 @@
 {
   "title": "Third time's the charm",
-  "date": "2012-07-04T06:58:00+03:00",
+  "date": "2012-07-04T05:58:59+03:00",
   "url": "/news/third-times-charm/",
   "original_url": "http://spidermedia.ru/news/third-times-charm",
   "archived": "https://web.archive.org/web/20260211193427/http://spidermedia.ru/news/third-times-charm",
@@ -10,6 +10,12 @@
     "red-lantern-corps",
     "green-lantern",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150502192320im_/http://spidermedia.ru/assets/images/import_image/6957.jpg",
+  "modx_id": 6957,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

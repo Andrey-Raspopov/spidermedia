@@ -7,6 +7,12 @@
   "tags": [
     "cifrovye-komiksy"
   ],
+  "cover": "https://web.archive.org/web/20160501030940im_/http://spidermedia.ru/assets/images/news/dents-promo.jpg",
+  "modx_id": 100950,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

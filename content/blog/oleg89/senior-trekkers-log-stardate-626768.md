@@ -1,7 +1,10 @@
 {
   "title": "Senior trekker's log, stardate 62676.8",
-  "date": "2009-03-18T11:02:00+03:00",
+  "date": "2009-03-18T11:02:31+03:00",
   "url": "/blog/oleg89/senior-trekkers-log-stardate-626768/",
+  "aliases": [
+    "/node/699/"
+  ],
   "original_url": "https://spidermedia.ru/blog/oleg89/senior-trekkers-log-stardate-626768",
   "archived": "https://web.archive.org/web/20251107011510/https://spidermedia.ru/blog/oleg89/senior-trekkers-log-stardate-626768",
   "tags": [
@@ -17,6 +20,12 @@
     "lori-satton",
     "patrik-zircher",
     "jen-edzhinton"
+  ],
+  "cover": "https://web.archive.org/web/20160512160122im_/http://spidermedia.ru/assets/images/import_image/699.jpg",
+  "modx_id": 699,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

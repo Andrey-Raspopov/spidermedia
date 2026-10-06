@@ -1,7 +1,10 @@
 {
   "title": "Графроманы в сентябре 2010 - DC",
-  "date": "2010-09-11T01:03:00+03:00",
+  "date": "2010-09-11T00:03:54+03:00",
   "url": "/blog/plane-v/grafromany-v-sentyabre-2010-dc/",
+  "aliases": [
+    "/node/2905/"
+  ],
   "original_url": "https://spidermedia.ru/blog/plane-v/grafromany-v-sentyabre-2010-dc",
   "archived": "https://web.archive.org/web/20251110233031/https://spidermedia.ru/blog/plane-v/grafromany-v-sentyabre-2010-dc",
   "tags": [
@@ -9,6 +12,12 @@
     "relizy",
     "vertigo",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20251110233031im_/http://spidermedia.ru/assets/images/import_image/2905.jpg",
+  "modx_id": 2905,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

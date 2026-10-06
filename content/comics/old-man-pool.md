@@ -4,6 +4,12 @@
   "url": "/comics/old-man-pool/",
   "original_url": "https://spidermedia.ru/comics/old-man-pool",
   "archived": "https://web.archive.org/web/20251006145649/https://spidermedia.ru/comics/old-man-pool",
+  "cover": "https://web.archive.org/web/20160405132400im_/http://spidermedia.ru/assets/images/deadpool2.png",
+  "modx_id": 100947,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

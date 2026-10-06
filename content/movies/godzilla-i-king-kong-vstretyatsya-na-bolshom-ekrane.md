@@ -7,6 +7,12 @@
   "tags": [
     "godzilla"
   ],
+  "cover": "https://web.archive.org/web/20231202144943im_/http://spidermedia.ru/assets/images/news/movies/kingkong_vs_godzilla___cover_by_ucaliptic-d7k3xmt.jpg",
+  "modx_id": 100548,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

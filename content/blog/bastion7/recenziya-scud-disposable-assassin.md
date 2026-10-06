@@ -1,12 +1,20 @@
 {
   "title": "рецензия - Scud – The Disposable Assassin",
-  "date": "2009-04-05T10:17:00+03:00",
+  "date": "2009-04-05T09:17:50+03:00",
   "url": "/blog/bastion7/recenziya-scud-disposable-assassin/",
+  "aliases": [
+    "/node/855/"
+  ],
   "original_url": "http://spidermedia.ru/blog/bastion7/recenziya-scud-disposable-assassin",
   "archived": "https://web.archive.org/web/20120611025043/http://spidermedia.ru/blog/bastion7/recenziya-scud-disposable-assassin",
   "tags": [
     "komiksy",
     "recenziya"
+  ],
+  "modx_id": 855,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

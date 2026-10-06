@@ -5,7 +5,14 @@
   "original_url": "http://spidermedia.ru/comics/anonsirovan-komiks-antologiya-ataka-titanov",
   "archived": "https://web.archive.org/web/20260211180927/http://spidermedia.ru/comics/anonsirovan-komiks-antologiya-ataka-titanov",
   "tags": [
-    "komik-kon-v-nyu-yorke"
+    "komik-kon-v-nyu-yorke",
+    "nycc-2015"
+  ],
+  "cover": "https://web.archive.org/web/20260211180927im_/http://spidermedia.ru/assets/images/comic-con/2015/nycc/attack-on-titan/attackontitan-1.jpg",
+  "modx_id": 100635,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

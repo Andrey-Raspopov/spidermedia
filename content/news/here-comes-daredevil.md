@@ -1,6 +1,6 @@
 {
   "title": "Here comes Daredevil!",
-  "date": "2011-06-25T02:17:00+03:00",
+  "date": "2011-06-25T01:17:25+03:00",
   "url": "/news/here-comes-daredevil/",
   "original_url": "https://spidermedia.ru/news/here-comes-daredevil",
   "archived": "https://web.archive.org/web/20260215083923/https://spidermedia.ru/news/here-comes-daredevil",
@@ -10,7 +10,14 @@
     "mark-waid",
     "daredevil",
     "marvel",
-    "marcos-martin"
+    "marcos-martin",
+    "derdevil"
+  ],
+  "cover": "https://web.archive.org/web/20260215083923im_/http://spidermedia.ru/assets/images/import_image/6471.jpg",
+  "modx_id": 6471,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

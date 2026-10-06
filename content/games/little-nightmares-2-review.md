@@ -4,6 +4,12 @@
   "url": "/games/little-nightmares-2-review/",
   "original_url": "http://spidermedia.ru/games/little-nightmares-2-review",
   "archived": "https://web.archive.org/web/20241205032246/http://spidermedia.ru/games/little-nightmares-2-review",
+  "cover": "https://web.archive.org/web/20230725215144im_/http://spidermedia.ru/assets/images/games/q3cma1j8wt6cbe2s4okvwa.jpeg",
+  "modx_id": 102350,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

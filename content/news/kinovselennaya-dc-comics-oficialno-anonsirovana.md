@@ -1,11 +1,17 @@
 {
   "title": "Киновселенная DC Comics официально анонсирована",
-  "date": "2014-10-15T23:47:00+03:00",
+  "date": "2014-10-15T22:47:01+03:00",
   "url": "/news/kinovselennaya-dc-comics-oficialno-anonsirovana/",
   "original_url": "https://spidermedia.ru/news/kinovselennaya-dc-comics-oficialno-anonsirovana",
   "archived": "https://web.archive.org/web/20251211033023/https://spidermedia.ru/news/kinovselennaya-dc-comics-oficialno-anonsirovana",
   "tags": [
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20160611162350im_/http://spidermedia.ru/assets/images/import_image/8190.jpg",
+  "modx_id": 8190,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

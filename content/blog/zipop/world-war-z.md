@@ -1,12 +1,21 @@
 {
   "title": "World War Z",
-  "date": "2009-01-31T00:27:00+03:00",
+  "date": "2009-01-31T00:27:09+03:00",
   "url": "/blog/zipop/world-war-z/",
+  "aliases": [
+    "/node/28/"
+  ],
   "original_url": "http://spidermedia.ru/blog/zipop/world-war-z",
   "archived": "https://web.archive.org/web/20251206162328/http://spidermedia.ru/blog/zipop/world-war-z",
   "tags": [
     "maks-bruks",
     "zombie"
+  ],
+  "cover": "https://web.archive.org/web/20251206162328im_/http://spidermedia.ru/assets/images/import_image/28.jpg",
+  "modx_id": 28,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

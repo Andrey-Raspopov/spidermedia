@@ -1,13 +1,20 @@
 {
   "title": "\"Меч\" братьев Луна экранизируют",
-  "date": "2013-02-06T21:36:00+03:00",
+  "date": "2013-02-06T20:36:26+03:00",
   "url": "/news/mech-bratev-luna-ekraniziruyut/",
   "original_url": "http://spidermedia.ru/news/mech-bratev-luna-ekraniziruyut",
   "archived": "https://web.archive.org/web/20260121010332/http://spidermedia.ru/news/mech-bratev-luna-ekraniziruyut",
   "tags": [
     "the-sword",
     "luna-brothers",
-    "image-comics"
+    "image-comics",
+    "bratya-luna"
+  ],
+  "cover": "https://web.archive.org/web/20260121010332im_/http://spidermedia.ru/assets/images/import_image/7139.jpg",
+  "modx_id": 7139,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

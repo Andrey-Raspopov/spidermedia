@@ -1,12 +1,21 @@
 {
   "title": "Черное лето",
-  "date": "2009-11-03T15:08:00+03:00",
+  "date": "2009-11-03T15:08:22+03:00",
   "url": "/news/chernoe-leto/",
+  "aliases": [
+    "/node/2055/"
+  ],
   "original_url": "https://spidermedia.ru/news/chernoe-leto",
   "archived": "https://web.archive.org/web/20251107004401/https://spidermedia.ru/news/chernoe-leto",
   "tags": [
     "avatar-press",
     "warren-ellis"
+  ],
+  "cover": "https://web.archive.org/web/20251107004401im_/http://spidermedia.ru/assets/images/import_image/2055.jpg",
+  "modx_id": 2055,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

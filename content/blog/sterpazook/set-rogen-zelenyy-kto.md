@@ -1,6 +1,6 @@
 {
   "title": "Сет Роген - Зеленый... кто?",
-  "date": "2009-04-03T19:29:00+03:00",
+  "date": "2009-04-03T18:29:55+03:00",
   "url": "/blog/sterpazook/set-rogen-zelenyy-kto/",
   "original_url": "https://spidermedia.ru/blog/sterpazook/set-rogen-zelenyy-kto",
   "archived": "https://web.archive.org/web/20250709071119/https://spidermedia.ru/blog/sterpazook/set-rogen-zelenyy-kto",
@@ -9,6 +9,12 @@
     "zelenyj-shershen",
     "set-rogen",
     "seth-rogen"
+  ],
+  "cover": "https://web.archive.org/web/20250709071119im_/http://spidermedia.ru/assets/images/import_image/846.jpg",
+  "modx_id": 846,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "This is not Sparta!!!",
-  "date": "2009-04-06T21:37:00+03:00",
+  "date": "2009-04-06T20:37:12+03:00",
   "url": "/blog/el-qwanto/not-sparta/",
+  "aliases": [
+    "/node/873/"
+  ],
   "original_url": "https://spidermedia.ru/blog/el-qwanto/not-sparta",
   "archived": "https://web.archive.org/web/20260120164732/https://spidermedia.ru/blog/el-qwanto/not-sparta",
   "tags": [
@@ -9,6 +12,11 @@
     "yumor",
     "greg-rakka",
     "emerald-city-comicon"
+  ],
+  "modx_id": 873,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

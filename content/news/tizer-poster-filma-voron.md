@@ -1,6 +1,6 @@
 {
   "title": "Тизер-постер фильма \"ВОРОН\"",
-  "date": "2013-07-19T11:10:00+03:00",
+  "date": "2013-07-19T10:10:38+03:00",
   "url": "/news/tizer-poster-filma-voron/",
   "original_url": "http://spidermedia.ru/news/tizer-poster-filma-voron",
   "archived": "https://web.archive.org/web/20250913020911/http://spidermedia.ru/news/tizer-poster-filma-voron",
@@ -8,6 +8,12 @@
     "dzhejms-obarr",
     "the-crow",
     "kitchen-sink-press"
+  ],
+  "cover": "https://web.archive.org/web/20250913020911im_/http://spidermedia.ru/assets/images/import_image/7358.jpg",
+  "modx_id": 7358,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -8,6 +8,12 @@
     "vertigo",
     "preacher"
   ],
+  "cover": "https://web.archive.org/web/20210826104637im_/http://spidermedia.ru/assets/images/tv/dc/preacher-amc-tv-series/s02/e09/cover.jpg",
+  "modx_id": 101652,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

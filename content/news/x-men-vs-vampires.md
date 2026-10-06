@@ -1,7 +1,10 @@
 {
   "title": "X-Men vs Vampires",
-  "date": "2010-06-24T16:50:00+03:00",
+  "date": "2010-06-24T15:50:08+03:00",
   "url": "/news/x-men-vs-vampires/",
+  "aliases": [
+    "/node/2690/"
+  ],
   "original_url": "http://spidermedia.ru/news/x-men-vs-vampires",
   "archived": "https://web.archive.org/web/20260206231452/http://spidermedia.ru/news/x-men-vs-vampires",
   "tags": [
@@ -11,7 +14,14 @@
     "vampiry",
     "x-men",
     "marvel",
-    "heroic-age"
+    "heroic-age",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20260206231452im_/http://spidermedia.ru/assets/images/import_image/2690.jpg",
+  "modx_id": 2690,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
@@ -29,12 +39,12 @@
 Дизайны **Дракулы** и **Ксаруса** *(Xarus)* работы **Марко Джуджевича** *(Marko Djurdjevic)*
 Нам стоит ждать рассказа о вампирах, живущих в разных уголках мира, рассказа о их различиях, а так же более детального разбора разных племен вампиров, таких как: **Носферату** *(Nosferatu)*, **Чарнипутра** *(Charniputra)*, вампиры **Атлантиса** *(Atlantis)* и других, в том числе и новых, которых специально создали для уан-шота и **Curse of the Mutants**. Все они будут объединены под руководством нового лидера и их первой целью станут **Люди Икс** в Сан-Франциско.
 [![Photobucket](https://web.archive.org/web/20260206231452im_/http://img.photobucket.com/albums/v497/spidermedia/sp888_News/th_1276176172.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/sp888_News/1276176172.jpg) [![Photobucket](https://web.archive.org/web/20260206231452im_/http://img.photobucket.com/albums/v497/spidermedia/sp888_News/th_1276265504.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/sp888_News/1276265504.jpg)
-Причем, стоит отметить, что интерес вампиров в **Людях Икс** можно объяснить схожестью в положении обеих рас – как и мутанты, вампиры вымирают и как и мутанты - сражаются за выживание. Данный факт должен сыграть большую роль в истории и привести к неожиданным альянсам *(наверное, имеется в виду, что [**Джубили** *(Jubillee)* станет вампиром](../../node/2545/) – прим.)*. Впрочем, **Curse of the Mutants** это только начало и далее засилье вампиров стоит ждать в комиксах о **Мстителях** *(Avengers)* и других сериях издательства.
-[![Photobucket](https://web.archive.org/web/20260206231452im_/http://img.photobucket.com/albums/v497/spidermedia/sp888_News/th_1271593154.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/sp888_News/1271593154.jpg) [![Photobucket](https://web.archive.org/web/20260206231452im_/http://img.photobucket.com/albums/v497/spidermedia/sp888_News/th_1271593152.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/sp888_News/1271593152.jpg)Что до **Людей Икс**, то **CotM** является лишь первым арком новой серии, направленной в первую очередь на интеграцию команды мутантов во **Вселенную Marvel**. Каждый же новый арк серии будем иметь то или иное изменение в составе основных героев. Кроме этого, нам обещают [море гостевых появлений из других комиксов издательства](../../node/2545/).
+Причем, стоит отметить, что интерес вампиров в **Людях Икс** можно объяснить схожестью в положении обеих рас – как и мутанты, вампиры вымирают и как и мутанты - сражаются за выживание. Данный факт должен сыграть большую роль в истории и привести к неожиданным альянсам *(наверное, имеется в виду, что [**Джубили** *(Jubillee)* станет вампиром](../second-coming-chto-dalshe/) – прим.)*. Впрочем, **Curse of the Mutants** это только начало и далее засилье вампиров стоит ждать в комиксах о **Мстителях** *(Avengers)* и других сериях издательства.
+[![Photobucket](https://web.archive.org/web/20260206231452im_/http://img.photobucket.com/albums/v497/spidermedia/sp888_News/th_1271593154.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/sp888_News/1271593154.jpg) [![Photobucket](https://web.archive.org/web/20260206231452im_/http://img.photobucket.com/albums/v497/spidermedia/sp888_News/th_1271593152.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/sp888_News/1271593152.jpg)Что до **Людей Икс**, то **CotM** является лишь первым арком новой серии, направленной в первую очередь на интеграцию команды мутантов во **Вселенную Marvel**. Каждый же новый арк серии будем иметь то или иное изменение в составе основных героев. Кроме этого, нам обещают [море гостевых появлений из других комиксов издательства](../second-coming-chto-dalshe/).
 [![Photobucket](https://web.archive.org/web/20260206231452im_/http://img.photobucket.com/albums/v497/spidermedia/sp888_News/th_prv5403_pg4.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/sp888_News/prv5403_pg4.jpg) [![Photobucket](https://web.archive.org/web/20260206231452im_/http://img.photobucket.com/albums/v497/spidermedia/sp888_News/th_prv5403_pg5.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/sp888_News/prv5403_pg5.jpg) [![Photobucket](https://web.archive.org/web/20260206231452im_/http://img.photobucket.com/albums/v497/spidermedia/sp888_News/th_prv5403_pg6.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/sp888_News/prv5403_pg6.jpg) [![Photobucket](https://web.archive.org/web/20260206231452im_/http://img.photobucket.com/albums/v497/spidermedia/sp888_News/th_prv5403_pg7.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/sp888_News/prv5403_pg7.jpg) [![Photobucket](https://web.archive.org/web/20260206231452im_/http://img.photobucket.com/albums/v497/spidermedia/sp888_News/th_prv5403_pg8.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/sp888_News/prv5403_pg8.jpg) [![Photobucket](https://web.archive.org/web/20260206231452im_/http://img.photobucket.com/albums/v497/spidermedia/sp888_News/th_prv5403_pg9.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/sp888_News/prv5403_pg9.jpg) [![Photobucket](https://web.archive.org/web/20260206231452im_/http://img.photobucket.com/albums/v497/spidermedia/sp888_News/th_XMEN-1-Preview7.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/sp888_News/XMEN-1-Preview7.jpg) [![Photobucket](https://web.archive.org/web/20260206231452im_/http://img.photobucket.com/albums/v497/spidermedia/sp888_News/th_prv5477_pg4.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/sp888_News/prv5477_pg4.jpg) [![Photobucket](https://web.archive.org/web/20260206231452im_/http://img.photobucket.com/albums/v497/spidermedia/sp888_News/th_prv5477_pg5.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/sp888_News/prv5477_pg5.jpg) [![Photobucket](https://web.archive.org/web/20260206231452im_/http://img.photobucket.com/albums/v497/spidermedia/sp888_News/th_prv5477_pg6.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/sp888_News/prv5477_pg6.jpg) [![Photobucket](https://web.archive.org/web/20260206231452im_/http://img.photobucket.com/albums/v497/spidermedia/sp888_News/prv5477_pg7-1.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/sp888_News/prv5477_pg7.jpg)
 Напоследок представляем вам набор серий и уан-шотов, относящихся к **Curse of the Mutants**:
 
-- Стартующий в августе онгоинг [**Namor: The First Mutant**](../../node/2623/)
+- Стартующий в августе онгоинг [**Namor: The First Mutant**](../korolevskaya-ohota/)
 - Августовский уан-шот **X-Men: Curse of the Mutants – Blade**
 - Августовский уан-шот **X-Men: Curse of the Mutants - Storm & Gambit**
 - Стартующая в сентябре двухномерная антология **X-Men: Curse of the Mutants - X-Men vs Vampires**

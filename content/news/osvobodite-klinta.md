@@ -1,6 +1,6 @@
 {
   "title": "Освободите Клинта",
-  "date": "2009-10-12T19:49:00+03:00",
+  "date": "2009-10-12T18:49:22+03:00",
   "url": "/news/osvobodite-klinta/",
   "original_url": "http://spidermedia.ru/news/osvobodite-klinta",
   "archived": "https://web.archive.org/web/20251108032040/http://spidermedia.ru/news/osvobodite-klinta",
@@ -10,7 +10,14 @@
     "brian-michael-bendis",
     "majk-mejhyu",
     "marvel",
-    "preview"
+    "preview",
+    "novye-mstiteli",
+    "prevyu"
+  ],
+  "modx_id": 1988,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

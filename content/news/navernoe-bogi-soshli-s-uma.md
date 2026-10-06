@@ -1,7 +1,10 @@
 {
   "title": "Наверное, боги сошли с ума",
-  "date": "2009-07-17T17:54:00+03:00",
+  "date": "2009-07-17T16:54:03+03:00",
   "url": "/news/navernoe-bogi-soshli-s-uma/",
+  "aliases": [
+    "/node/1579/"
+  ],
   "original_url": "http://spidermedia.ru/news/navernoe-bogi-soshli-s-uma",
   "archived": "https://web.archive.org/web/20250425222949/http://spidermedia.ru/news/navernoe-bogi-soshli-s-uma",
   "tags": [
@@ -10,6 +13,12 @@
     "brian-wood",
     "dv8-gods-and-monsters",
     "dv8"
+  ],
+  "cover": "https://web.archive.org/web/20250425222949im_/http://spidermedia.ru/assets/images/import_image/1579.jpg",
+  "modx_id": 1579,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -12,6 +12,12 @@
     "shhit",
     "san-diego-comic-con-international"
   ],
+  "cover": "https://web.archive.org/web/20260314082039im_/http://spidermedia.ru/assets/images/newgallery/gallery1151/ghost-rider.jpg",
+  "modx_id": 101283,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

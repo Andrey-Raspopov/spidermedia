@@ -16,7 +16,14 @@
     "hawkeye",
     "war-machine",
     "falcon",
-    "marvel"
+    "marvel",
+    "zheleznyy-chelovek"
+  ],
+  "cover": "https://web.archive.org/web/20160122035744im_/http://spidermedia.ru/assets/images/newgallery/gallery67/civil-war-conc-art.jpg",
+  "modx_id": 100809,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

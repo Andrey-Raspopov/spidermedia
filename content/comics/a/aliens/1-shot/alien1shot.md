@@ -4,6 +4,9 @@
   "url": "/comics/a/aliens/1-shot/alien1shot/",
   "original_url": "http://www.spidermedia.ru/comics/a/aliens/1-shot/alien1shot.html",
   "archived": "https://web.archive.org/web/20050307081711/http://www.spidermedia.ru:80/comics/a/aliens/1-shot/alien1shot.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

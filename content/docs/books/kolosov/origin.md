@@ -4,6 +4,9 @@
   "url": "/docs/books/kolosov/origin/",
   "original_url": "http://spidermedia.ru/docs/books/kolosov/origin.html",
   "archived": "https://web.archive.org/web/20051203134004/http://spidermedia.ru:80/docs/books/kolosov/origin.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

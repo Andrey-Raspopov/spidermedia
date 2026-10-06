@@ -1,6 +1,6 @@
 {
   "title": "The Anchor - все наоборот",
-  "date": "2010-04-26T18:36:00+03:00",
+  "date": "2010-04-26T17:36:39+03:00",
   "url": "/blog/jers/anchor-vse-naoborot/",
   "original_url": "https://spidermedia.ru/blog/jers/anchor-vse-naoborot",
   "archived": "https://web.archive.org/web/20231201203304/https://spidermedia.ru/blog/jers/anchor-vse-naoborot",
@@ -8,6 +8,12 @@
     "the-anchor",
     "boom-studios",
     "fil-hester"
+  ],
+  "cover": "https://web.archive.org/web/20231201203304im_/http://spidermedia.ru/assets/images/import_image/2581.jpg",
+  "modx_id": 2581,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

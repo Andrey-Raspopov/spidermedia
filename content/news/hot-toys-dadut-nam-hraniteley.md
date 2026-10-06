@@ -1,7 +1,10 @@
 {
   "title": "Hot Toys дадут нам Хранителей!",
-  "date": "2009-06-03T11:11:00+03:00",
+  "date": "2009-06-03T10:11:11+03:00",
   "url": "/news/hot-toys-dadut-nam-hraniteley/",
+  "aliases": [
+    "/node/1330/"
+  ],
   "original_url": "https://spidermedia.ru/news/hot-toys-dadut-nam-hraniteley",
   "archived": "https://web.archive.org/web/20250715225411/https://spidermedia.ru/news/hot-toys-dadut-nam-hraniteley",
   "tags": [
@@ -10,6 +13,12 @@
     "silk-spectre",
     "hot-toys",
     "shelkovyj-prizrak"
+  ],
+  "cover": "https://web.archive.org/web/20250715225411im_/http://spidermedia.ru/assets/images/import_image/1330.jpg",
+  "modx_id": 1330,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

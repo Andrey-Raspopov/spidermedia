@@ -8,6 +8,12 @@
     "marvel",
     "runaways"
   ],
+  "cover": "https://web.archive.org/web/20250429005110im_/http://spidermedia.ru/assets/images/news/runaways/cover.jpg",
+  "modx_id": 101583,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

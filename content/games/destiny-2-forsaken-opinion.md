@@ -4,6 +4,12 @@
   "url": "/games/destiny-2-forsaken-opinion/",
   "original_url": "http://spidermedia.ru/games/destiny-2-forsaken-opinion",
   "archived": "https://web.archive.org/web/20230131161742/http://spidermedia.ru/games/destiny-2-forsaken-opinion",
+  "cover": "https://web.archive.org/web/20230131161742im_/http://spidermedia.ru/assets/images/games/d2-forsaken.jpg",
+  "modx_id": 102017,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,13 +1,20 @@
 {
   "title": "«Железный Человек 3»: Расширенный ролик с Суперкубка",
-  "date": "2013-02-04T11:11:00+03:00",
+  "date": "2013-02-04T10:11:41+03:00",
   "url": "/news/zheleznyy-chelovek-3-rolik-s-superkubka/",
   "original_url": "https://spidermedia.ru/news/zheleznyy-chelovek-3-rolik-s-superkubka",
   "archived": "https://web.archive.org/web/20260209115200/https://spidermedia.ru/news/zheleznyy-chelovek-3-rolik-s-superkubka",
   "tags": [
     "trejlery",
     "marvel",
-    "iron-man"
+    "iron-man",
+    "zheleznyy-chelovek"
+  ],
+  "cover": "https://web.archive.org/web/20260209115200im_/http://spidermedia.ru/assets/images/import_image/7135.jpg",
+  "modx_id": 7135,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Человек-Паук уйдет из Мстителей",
-  "date": "2013-01-08T21:00:00+03:00",
+  "date": "2013-01-08T20:00:02+03:00",
   "url": "/news/chelovek-pauk-uydet-iz-mstiteley/",
   "original_url": "https://spidermedia.ru/news/chelovek-pauk-uydet-iz-mstiteley",
   "archived": "https://web.archive.org/web/20260313105135/https://spidermedia.ru/news/chelovek-pauk-uydet-iz-mstiteley",
@@ -9,6 +9,12 @@
     "avengers",
     "marvel",
     "den-slott"
+  ],
+  "cover": "https://web.archive.org/web/20260313105135im_/http://spidermedia.ru/assets/images/import_image/7109.jpg",
+  "modx_id": 7109,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,13 +1,21 @@
 {
   "title": "Каталог Коммиссии-2009",
-  "date": "2009-05-21T21:56:00+03:00",
+  "date": "2009-05-21T20:56:38+03:00",
   "url": "/blog/zmeyukina/katalog-kommissii-2009/",
+  "aliases": [
+    "/node/1254/"
+  ],
   "original_url": "https://spidermedia.ru/blog/zmeyukina/katalog-kommissii-2009",
   "archived": "https://web.archive.org/web/20250121004056/https://spidermedia.ru/blog/zmeyukina/katalog-kommissii-2009",
   "tags": [
     "russian-comics",
     "kommissiya",
     "chto-u-nas-pechatayut"
+  ],
+  "modx_id": 1254,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

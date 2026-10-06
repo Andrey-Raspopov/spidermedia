@@ -1,12 +1,19 @@
 {
   "title": "Герои\\Heroes s3 ep.14 - \"Прямая и явная угроза\"\\\"A clear and present danger\"",
-  "date": "2009-02-04T16:24:00+03:00",
+  "date": "2009-02-04T16:24:37+03:00",
   "url": "/blog/alex/geroi-heroes-s3-ep14-pryamaya-i-yavnaya-ugroza-clear-and-present-danger/",
   "original_url": "http://spidermedia.ru/blog/alex/geroi-heroes-s3-ep14-pryamaya-i-yavnaya-ugroza-clear-and-present-danger",
   "archived": "https://web.archive.org/web/20230323054452/http://spidermedia.ru/blog/alex/geroi-heroes-s3-ep14-pryamaya-i-yavnaya-ugroza-clear-and-present-danger",
   "tags": [
     "serialy",
-    "heroes"
+    "heroes",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20150502202352im_/http://spidermedia.ru/assets/images/import_image/179.gif",
+  "modx_id": 179,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

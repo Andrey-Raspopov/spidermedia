@@ -1,12 +1,18 @@
 {
   "title": "ИМХО: Editorial Control is off its meds",
-  "date": "2015-01-20T11:32:00+03:00",
+  "date": "2015-01-20T11:32:06+03:00",
   "url": "/blog/larosh/imho-editorial-control-its-meds/",
   "original_url": "http://spidermedia.ru/blog/larosh/imho-editorial-control-its-meds",
   "archived": "https://web.archive.org/web/20260121005050/http://spidermedia.ru/blog/larosh/imho-editorial-control-its-meds",
   "tags": [
     "dc-comics",
     "imho"
+  ],
+  "cover": "https://web.archive.org/web/20150326220044im_/http://spidermedia.ru/assets/images/import_image/8523.jpg",
+  "modx_id": 8523,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

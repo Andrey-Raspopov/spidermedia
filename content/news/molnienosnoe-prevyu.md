@@ -1,6 +1,6 @@
 {
   "title": "Молниеносное превью",
-  "date": "2010-03-02T17:27:00+03:00",
+  "date": "2010-03-02T17:27:31+03:00",
   "url": "/news/molnienosnoe-prevyu/",
   "original_url": "https://spidermedia.ru/news/molnienosnoe-prevyu",
   "archived": "https://web.archive.org/web/20251205114935/https://spidermedia.ru/news/molnienosnoe-prevyu",
@@ -12,7 +12,14 @@
     "rogues",
     "francis-manapul",
     "the-flash",
-    "dc-comics"
+    "dc-comics",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20251205114935im_/http://spidermedia.ru/assets/images/import_image/2410.jpg",
+  "modx_id": 2410,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

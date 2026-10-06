@@ -4,6 +4,9 @@
   "url": "/docs/humor/imp_error/terminator/",
   "original_url": "http://spidermedia.ru/docs/humor/imp_error/terminator.html",
   "archived": "https://web.archive.org/web/20051206050815/http://spidermedia.ru:80/docs/humor/imp_error/terminator.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

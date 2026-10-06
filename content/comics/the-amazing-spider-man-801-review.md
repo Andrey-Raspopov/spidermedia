@@ -11,6 +11,12 @@
     "mnenie",
     "spider-man"
   ],
+  "cover": "https://web.archive.org/web/20251216120407im_/http://spidermedia.ru/assets/images/reviews/marvel/spider-man/asm/801/mzk.jpg",
+  "modx_id": 101952,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

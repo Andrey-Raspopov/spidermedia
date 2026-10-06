@@ -1,6 +1,6 @@
 {
   "title": "Благородные разбойники",
-  "date": "2012-09-15T10:54:00+03:00",
+  "date": "2012-09-15T09:54:10+03:00",
   "url": "/news/blagorodnye-razboyniki/",
   "original_url": "http://spidermedia.ru/news/blagorodnye-razboyniki",
   "archived": "https://web.archive.org/web/20251012173732/http://spidermedia.ru/news/blagorodnye-razboyniki",
@@ -12,6 +12,12 @@
     "x-force",
     "marvel",
     "cable"
+  ],
+  "cover": "https://web.archive.org/web/20150326220753im_/http://spidermedia.ru/assets/images/import_image/7030.jpg",
+  "modx_id": 7030,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

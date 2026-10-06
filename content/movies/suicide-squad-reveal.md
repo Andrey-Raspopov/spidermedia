@@ -8,6 +8,12 @@
     "dc-comics",
     "suicide-squad"
   ],
+  "cover": "https://web.archive.org/web/20160611153402im_/http://spidermedia.ru/assets/images/movies/dc/suicide-squad-2016/rdm0mnl.jpg",
+  "modx_id": 100190,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

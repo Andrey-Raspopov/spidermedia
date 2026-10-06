@@ -1,11 +1,17 @@
 {
   "title": "Планируется новая экранизация \"Лиги выдающихся джентльменов\"",
-  "date": "2013-07-10T11:56:00+03:00",
+  "date": "2013-07-10T10:56:26+03:00",
   "url": "/news/planiruetsya-novaya-ekranizaciya-ligi-vydayushchihsya-dzhentlmenov/",
   "original_url": "https://spidermedia.ru/news/planiruetsya-novaya-ekranizaciya-ligi-vydayushchihsya-dzhentlmenov",
   "archived": "https://web.archive.org/web/20250909131628/https://spidermedia.ru/news/planiruetsya-novaya-ekranizaciya-ligi-vydayushchihsya-dzhentlmenov",
   "tags": [
     "alan-mur"
+  ],
+  "cover": "https://web.archive.org/web/20250909131628im_/http://spidermedia.ru/assets/images/import_image/7324.jpg",
+  "modx_id": 7324,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

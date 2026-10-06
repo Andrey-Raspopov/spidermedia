@@ -1,6 +1,6 @@
 {
   "title": "The Flash \"Fastest Man Alive\": Мнение редакции",
-  "date": "2014-10-16T16:37:00+03:00",
+  "date": "2014-10-16T15:37:33+03:00",
   "url": "/blog/igrok/flash-fastest-man-alive-mnenie-redakcii/",
   "original_url": "http://spidermedia.ru/blog/igrok/flash-fastest-man-alive-mnenie-redakcii",
   "archived": "https://web.archive.org/web/20250717194517/http://spidermedia.ru/blog/igrok/flash-fastest-man-alive-mnenie-redakcii",
@@ -8,7 +8,14 @@
     "the-flash",
     "serialy",
     "mnenie",
-    "dc-comics"
+    "dc-comics",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20150425085823im_/http://spidermedia.ru/assets/images/import_image/8195.jpg",
+  "modx_id": 8195,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

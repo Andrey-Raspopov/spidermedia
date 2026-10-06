@@ -9,6 +9,12 @@
     "joss-whedon",
     "imho"
   ],
+  "cover": "https://web.archive.org/web/20160611135951im_/http://spidermedia.ru/assets/images/imho/ultron/xub6jhfav5k.jpg",
+  "modx_id": 100178,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,11 +1,17 @@
 {
   "title": "Народ против Лукаса",
-  "date": "2009-02-16T02:06:00+03:00",
+  "date": "2009-02-16T02:06:47+03:00",
   "url": "/blog/zipop/narod-protiv-lukasa/",
   "original_url": "https://spidermedia.ru/blog/zipop/narod-protiv-lukasa",
   "archived": "https://web.archive.org/web/20250424195001/https://spidermedia.ru/blog/zipop/narod-protiv-lukasa",
   "tags": [
     "star-wars"
+  ],
+  "cover": "https://web.archive.org/web/20150315210246im_/http://spidermedia.ru/assets/images/ecahznqzhc4.jpg",
+  "modx_id": 382,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,12 +1,21 @@
 {
   "title": "Один Фонарь хорошо, а два лучше",
-  "date": "2010-06-10T11:49:00+03:00",
+  "date": "2010-06-10T10:49:47+03:00",
   "url": "/news/odin-fonar-horosho-dva-luchshe/",
+  "aliases": [
+    "/node/2667/"
+  ],
   "original_url": "http://spidermedia.ru/news/odin-fonar-horosho-dva-luchshe",
   "archived": "https://web.archive.org/web/20250324155242/http://spidermedia.ru/news/odin-fonar-horosho-dva-luchshe",
   "tags": [
     "green-lantern",
     "the-flash"
+  ],
+  "cover": "https://web.archive.org/web/20250324155242im_/http://spidermedia.ru/assets/images/import_image/2667.jpg",
+  "modx_id": 2667,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

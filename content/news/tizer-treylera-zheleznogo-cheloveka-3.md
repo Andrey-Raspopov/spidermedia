@@ -1,13 +1,20 @@
 {
   "title": "Тизер трейлера \"ЖЕЛЕЗНОГО ЧЕЛОВЕКА 3\"",
-  "date": "2012-10-21T21:39:00+03:00",
+  "date": "2012-10-21T20:39:26+03:00",
   "url": "/news/tizer-treylera-zheleznogo-cheloveka-3/",
   "original_url": "http://spidermedia.ru/news/tizer-treylera-zheleznogo-cheloveka-3",
   "archived": "https://web.archive.org/web/20250324225004/http://spidermedia.ru/news/tizer-treylera-zheleznogo-cheloveka-3",
   "tags": [
     "trejlery",
     "marvel",
-    "iron-man"
+    "iron-man",
+    "zheleznyy-chelovek"
+  ],
+  "cover": "https://web.archive.org/web/20150428170855im_/http://spidermedia.ru/assets/images/import_image/7071.jpg",
+  "modx_id": 7071,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

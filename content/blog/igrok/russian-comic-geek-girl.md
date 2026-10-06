@@ -1,12 +1,21 @@
 {
   "title": "Russian comic geek girl",
-  "date": "2010-07-29T01:07:00+03:00",
+  "date": "2010-07-29T00:07:33+03:00",
   "url": "/blog/igrok/russian-comic-geek-girl/",
+  "aliases": [
+    "/node/2819/"
+  ],
   "original_url": "https://spidermedia.ru/blog/igrok/russian-comic-geek-girl",
   "archived": "https://web.archive.org/web/20250208104458/https://spidermedia.ru/blog/igrok/russian-comic-geek-girl",
   "tags": [
     "russian-comics",
     "kosplej"
+  ],
+  "cover": "https://web.archive.org/web/20250208104458im_/http://spidermedia.ru/assets/images/import_image/2819.jpg",
+  "modx_id": 2819,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

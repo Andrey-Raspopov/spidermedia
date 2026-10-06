@@ -8,6 +8,12 @@
     "hellboymedia",
     "obzor"
   ],
+  "cover": "https://web.archive.org/web/20160611151125im_/http://spidermedia.ru/assets/images/hellboymedia/special/08-hellboy-animated/hellboy-animated-cover.jpg",
+  "modx_id": 100392,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

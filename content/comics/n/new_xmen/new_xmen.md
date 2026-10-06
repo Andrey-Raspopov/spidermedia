@@ -4,6 +4,9 @@
   "url": "/comics/n/new_xmen/new_xmen/",
   "original_url": "http://www.spidermedia.ru/comics/n/new_xmen/new_xmen.html",
   "archived": "https://web.archive.org/web/20050307042718/http://www.spidermedia.ru:80/comics/n/new_xmen/new_xmen.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "cp1251 (guessed)"
 }

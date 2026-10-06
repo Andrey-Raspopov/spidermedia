@@ -1,7 +1,10 @@
 {
   "title": "Космические Зомби наступают!",
-  "date": "2009-05-16T07:50:00+03:00",
+  "date": "2009-05-16T06:50:31+03:00",
   "url": "/news/kosmicheskie-zombi-nastupayut/",
+  "aliases": [
+    "/node/1155/"
+  ],
   "original_url": "http://spidermedia.ru/news/kosmicheskie-zombi-nastupayut",
   "archived": "https://web.archive.org/web/20260309185501/http://spidermedia.ru/news/kosmicheskie-zombi-nastupayut",
   "tags": [
@@ -15,6 +18,12 @@
     "ivan-reis",
     "shejn-devis",
     "shane-davis"
+  ],
+  "cover": "https://web.archive.org/web/20260309185501im_/http://spidermedia.ru/assets/images/import_image/1155.jpg",
+  "modx_id": 1155,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

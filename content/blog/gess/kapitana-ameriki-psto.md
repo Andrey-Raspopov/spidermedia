@@ -1,12 +1,21 @@
 {
   "title": "Капитана Америки псто",
-  "date": "2009-07-24T20:16:00+03:00",
+  "date": "2009-07-24T19:16:45+03:00",
   "url": "/blog/gess/kapitana-ameriki-psto/",
+  "aliases": [
+    "/node/1644/"
+  ],
   "original_url": "http://spidermedia.ru/blog/gess/kapitana-ameriki-psto",
   "archived": "https://web.archive.org/web/20120607163401/http://spidermedia.ru/blog/gess/kapitana-ameriki-psto",
   "tags": [
     "geek-stuff",
-    "kapitan-amerika"
+    "kapitan-amerika",
+    "captain-america"
+  ],
+  "modx_id": 1644,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

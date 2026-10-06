@@ -4,6 +4,12 @@
   "url": "/games/far-cry-6-opinion/",
   "original_url": "http://spidermedia.ru/games/far-cry-6-opinion",
   "archived": "https://web.archive.org/web/20231202155530/http://spidermedia.ru/games/far-cry-6-opinion",
+  "cover": "https://web.archive.org/web/20231202155530im_/http://spidermedia.ru/assets/images/games/d52b9b34-fd1c-42af-95ec-e42438a9bdba.jpg",
+  "modx_id": 102445,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

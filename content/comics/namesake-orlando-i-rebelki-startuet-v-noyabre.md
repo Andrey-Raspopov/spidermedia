@@ -8,6 +8,12 @@
     "boom-studios",
     "stiv-orlando"
   ],
+  "cover": "https://web.archive.org/web/20180205064740im_/http://spidermedia.ru/assets/images/news/boom/namesake/namesake-001-a-main-press.jpg",
+  "modx_id": 101396,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

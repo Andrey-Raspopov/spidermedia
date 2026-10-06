@@ -11,6 +11,12 @@
     "judge-dredd",
     "emerald-city-comicon"
   ],
+  "cover": "https://web.archive.org/web/20260116211558im_/http://spidermedia.ru/assets/images/newgallery/gallery770/ECCC16PRINTPVJDVALSD-090156-4687b_1.jpg",
+  "modx_id": 101067,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,13 +1,22 @@
 {
   "title": "Avengers Assemble! (Part I) - декабрь 2009",
-  "date": "2009-09-29T00:21:00+03:00",
+  "date": "2009-09-28T23:21:40+03:00",
   "url": "/news/avengers-assemble-part-i-dekabr-2009/",
+  "aliases": [
+    "/node/1940/"
+  ],
   "original_url": "https://spidermedia.ru/news/avengers-assemble-part-i-dekabr-2009",
   "archived": "https://web.archive.org/web/20260117223416/https://spidermedia.ru/news/avengers-assemble-part-i-dekabr-2009",
   "tags": [
     "preview",
     "marvel",
-    "avengers"
+    "avengers",
+    "prevyu"
+  ],
+  "modx_id": 1940,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
@@ -17,7 +26,7 @@
 Часть I - Siege[![](https://web.archive.org/web/20260117223416im_/http://www.picamatic.com/show/2009/09/25/06/00/5194333_bigthumb.jpg)](http://marvel.com/i/content/st/28078new_storyimage3114782.jpg)Siege: The Cabal
 Сценарист: **Брайан Майкл Бендис** *(Brian Michael Bendis)*
 Художник: **Майкл Ларк** *(Michael Lark)*
-Вы [уже знаете](../../node/1903/), что столкновение Доктора Дума *(Doctor Doom)* и Железного Патриота *(Norman Osborn/Iron Patriot)* неизбежно. Помимо битвы двух бронированных воинов, данный уан-шот ознаменует начало нового ивента Siege. Там же нам обещают раскрыть "тайный козырь", который Норман демонстрировал **Заговорщикам** *(Cabal)*.
+Вы [уже знаете](../kuem-zhelezo/), что столкновение Доктора Дума *(Doctor Doom)* и Железного Патриота *(Norman Osborn/Iron Patriot)* неизбежно. Помимо битвы двух бронированных воинов, данный уан-шот ознаменует начало нового ивента Siege. Там же нам обещают раскрыть "тайный козырь", который Норман демонстрировал **Заговорщикам** *(Cabal)*.
 ![](https://web.archive.org/web/20260117223416im_/http://www.picamatic.com/show/2009/09/25/05/57/5194322_bigthumb.gif)Origins of Siege #1
 Сценарист(ы): ???
 Художник(и): ???

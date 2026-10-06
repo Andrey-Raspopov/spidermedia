@@ -4,6 +4,9 @@
   "url": "/docs/cartoon/gyuver/",
   "original_url": "http://spidermedia.ru/docs/cartoon/gyuver.html",
   "archived": "https://web.archive.org/web/20051201122751/http://spidermedia.ru:80/docs/cartoon/gyuver.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

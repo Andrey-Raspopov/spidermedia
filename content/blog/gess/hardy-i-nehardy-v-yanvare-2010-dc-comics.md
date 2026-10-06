@@ -1,7 +1,10 @@
 {
   "title": "Харды и нехарды в январе 2010 - DC Comics",
-  "date": "2010-01-08T18:43:00+03:00",
+  "date": "2010-01-08T18:43:37+03:00",
   "url": "/blog/gess/hardy-i-nehardy-v-yanvare-2010-dc-comics/",
+  "aliases": [
+    "/node/2236/"
+  ],
   "original_url": "http://spidermedia.ru/blog/gess/hardy-i-nehardy-v-yanvare-2010-dc-comics",
   "archived": "https://web.archive.org/web/20251211031754/http://spidermedia.ru/blog/gess/hardy-i-nehardy-v-yanvare-2010-dc-comics",
   "tags": [
@@ -10,6 +13,12 @@
     "dc-comics",
     "vertigo",
     "hc"
+  ],
+  "cover": "https://web.archive.org/web/20251211031754im_/http://spidermedia.ru/assets/images/import_image/2236.jpg",
+  "modx_id": 2236,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

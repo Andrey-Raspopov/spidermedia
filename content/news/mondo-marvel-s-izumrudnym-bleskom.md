@@ -1,7 +1,10 @@
 {
   "title": "Mondo Marvel с изумрудным блеском",
-  "date": "2009-04-08T00:32:00+03:00",
+  "date": "2009-04-07T23:32:28+03:00",
   "url": "/news/mondo-marvel-s-izumrudnym-bleskom/",
+  "aliases": [
+    "/node/883/"
+  ],
   "original_url": "http://spidermedia.ru/news/mondo-marvel-s-izumrudnym-bleskom",
   "archived": "https://web.archive.org/web/20220813162331/http://spidermedia.ru/news/mondo-marvel-s-izumrudnym-bleskom",
   "tags": [
@@ -10,7 +13,16 @@
     "matt-fraction",
     "deadpool",
     "x-men",
-    "avengers"
+    "avengers",
+    "mett-frakshen",
+    "lyudi-iks",
+    "dark-avengers"
+  ],
+  "cover": "https://web.archive.org/web/20220813162331im_/http://spidermedia.ru/assets/images/import_image/883.jpg",
+  "modx_id": 883,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

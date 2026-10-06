@@ -1,14 +1,24 @@
 {
   "title": "Avengers Assemble! - Апрель 2010",
-  "date": "2010-01-17T01:49:00+03:00",
+  "date": "2010-01-17T01:49:06+03:00",
   "url": "/news/avengers-assemble-aprel-2010/",
+  "aliases": [
+    "/node/2276/"
+  ],
   "original_url": "http://spidermedia.ru/news/avengers-assemble-aprel-2010",
   "archived": "https://web.archive.org/web/20250715220045/http://spidermedia.ru/news/avengers-assemble-aprel-2010",
   "tags": [
     "preview",
     "siege",
     "marvel",
-    "avengers"
+    "avengers",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20250715220045im_/http://spidermedia.ru/assets/images/import_image/2276.jpg",
+  "modx_id": 2276,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
@@ -16,7 +26,7 @@
 
 ![10954header_new_main3579181.jpg picture by IrOnPaTrIoT](https://web.archive.org/web/20250715220045im_/http://i590.photobucket.com/albums/ss343/IrOnPaTrIoT/10954header_new_main3579181.jpg?t=1263653070)Представляем вашему вниманию первую часть из релизов Marvel Comics на апрель, посвященную **Мстителям** *(Avengers)*, а так же глобальному событию зимы - кроссоверу **Siege**. Данная новость расскажет о героях и злодеях, так или иначе, относящихся к Величайшим Героям Земли.
 Перед тем, как мы начнем, хотелось бы объявить, что **апрель** месяц станет завершающим для таких онгоингов издательства **Marvel**, как: New Avengers, Dark Avengers, Mighty Avengers и Avengers: The Initiative.
-Есть предположение, что все тайтлы Мстителей перейдут в один большой комикс, который будет выходить 3 раза в месяц (подобно Amazing Spider-Man), за исключением **Avengers: The Initiative**, которая, [если верить слухам](../../node/2093/), будет преобразована в **Avengers Academy**. Но пока это никак официально не подтверждено.
+Есть предположение, что все тайтлы Мстителей перейдут в один большой комикс, который будет выходить 3 раза в месяц (подобно Amazing Spider-Man), за исключением **Avengers: The Initiative**, которая, [если верить слухам](../sluhi-kolonka-11/), будет преобразована в **Avengers Academy**. Но пока это никак официально не подтверждено.
  Часть I - Siege
 
 |  |  |
@@ -25,7 +35,7 @@
 | [Photobucket](http://i590.photobucket.com/albums/ss343/IrOnPaTrIoT/SE.jpg) | Siege: Embedded #4 Сценарист: Брайан Рид *(Brian Reed)* Художник: Крис Сэмни *(Chris Samnee)* Обложка: Ади Гранов (Adi Granov) Осада (Siege) Асгарда (Asgard) почти окончена. Кое-кому предстоит решить, что для него важнее: жить повседневной жизнью или раскрыть правду, которая стоит за историей века? |
 | [Photobucket](http://i590.photobucket.com/albums/ss343/IrOnPaTrIoT/DA.jpg) | Dark Avengers #16 - Конец онгоинга! Сценарист: **Брайан Майкл Бендис** *(Brian Michael Bendis)* Художник: **Майк Деодато** *(Mike Deodato)* Обложка: **Майк Деодато** *(Mike Deodato)* Судьба Нормана Осборна (Norman Osborn/Iron Patriot) будет решена, а читателей ждут чьи-то похороны. |
 | [Photobucket](http://i590.photobucket.com/albums/ss343/IrOnPaTrIoT/THOR.jpg) | Thor #609 Сценарист: Кирон Гиллен*(Kieron Gillen)* Художник: Билли Тан (Billy Tan) Обложка: Мико Суайан (Mico Suayan) Специальная вариант обложка с Железным Человеком (Tony Stark/Iron Man): Исад Рибич (Esad Ribic) Осада приносит в Асгард новую беду в форме Рагнарока (Ragnarok - клон Тора), который собрался убить Тора (Thor) и занять его место. "Золотое Королевство" несёт большие потери от рук Железного Патриота и Темных Мстителей (Dark Avengers). Даже если Асгард выживет после Осады, то сможет ли выжить Тор после битвы со своим злым клоном? |
-| [Photobucket](http://i590.photobucket.com/albums/ss343/IrOnPaTrIoT/AI.jpg) | Avengers: The Initiative #35 - Конец онгоинга! Сценарист: **Кристос Гейдж** *(Christos Gage)* Художник: **Джордж Молина** *(Jorge Molina)* Обложка: Давид Ярдин (David Yardin) Конец **Инициативы** *(The Initiative)* уже близок. Пришло время узнать судьбу всех героев и злодеев, а также тех персонажей, которые в спешке пытаются решить, кем же всё-таки они хотят стать. Кого-то ожидает победа, а кого-то поражение. Для некоторых - это конец, а для некоторых - это начало нового онгоинга от [сценариста **Кристоса Гейджа** *(Christos Gage)* и художника Майка Маккона (Mike McKone): Avengers Academy](../../node/2093/). **Лагерь М.О.Л.О.Т.** *(Camp H.A.M.M.E.R.)* распадается, а Эра Героев - начинается. |
+| [Photobucket](http://i590.photobucket.com/albums/ss343/IrOnPaTrIoT/AI.jpg) | Avengers: The Initiative #35 - Конец онгоинга! Сценарист: **Кристос Гейдж** *(Christos Gage)* Художник: **Джордж Молина** *(Jorge Molina)* Обложка: Давид Ярдин (David Yardin) Конец **Инициативы** *(The Initiative)* уже близок. Пришло время узнать судьбу всех героев и злодеев, а также тех персонажей, которые в спешке пытаются решить, кем же всё-таки они хотят стать. Кого-то ожидает победа, а кого-то поражение. Для некоторых - это конец, а для некоторых - это начало нового онгоинга от [сценариста **Кристоса Гейджа** *(Christos Gage)* и художника Майка Маккона (Mike McKone): Avengers Academy](../sluhi-kolonka-11/). **Лагерь М.О.Л.О.Т.** *(Camp H.A.M.M.E.R.)* распадается, а Эра Героев - начинается. |
 | [Photobucket](http://i590.photobucket.com/albums/ss343/IrOnPaTrIoT/NA.jpg) | New Avengers #64 - Конец онгоинга! Сценарист: **Брайан Майкл Бендис** *(Brian Michael Bendis)* Художник: **Тим Грин II** (Tim Green II) Обложка: Стюарт Иммонен (Stuart Immonen) Как же повлияют тайные отношения Нормана Осборна и Капюшона (the Hood) на исход Осады? Какова же судьба Пересмешницы (Mockingbird)? В этом выпуске вас ожидает всё то, что вы не смогли увидеть в Осаде. |
 | [Photobucket](http://i590.photobucket.com/albums/ss343/IrOnPaTrIoT/TH.jpg) | Thunderbolts #143 Сценарист: Джефф Паркер *(Jeff Parker)* Художник: Мигель Сепульвида (Miguel Sepulveda) Обложка: Ади Гранов (Adi Granov) Специальная вариант обложка с Железным Человеком: Грег Хорн (Greg Horn) Исход битвы Громовержцев (Thunderbolts) и Могучих Мстителей (Mighty Avengers) решится в этом выпуске, собственно, как и участь тайной команды Железного Патриота. Но это не значит, что серия не продолжит двигаться дальше или перестанет вас удивлять! |
 | [Photobucket](http://i590.photobucket.com/albums/ss343/IrOnPaTrIoT/MA.jpg) | Mighty Avengers #36 - Конец онгоинга! Сценарист: Дэн Слотт *(Dan Slott)* Художник: Кхои Фам (Khoi Pham) Обложка: Кхои Фам (Khoi Pham) Смогут ли Хэнк Пим (Hank Pym/the Wasp) и Джокаста (Jocasta) остановить Ультрона (Ultron) в одиночку? Превратится ли Пим-Пространство (Pym-Space) в постоянное место для кибернетического натиска на всю реальность? Грядет Эра Героев, но до того, как она начнётся - должна быть свадьба?! Несколько персонажей думают о том, чтобы предприняла Дженет Ван Дин (Janet Van Dyne/Wasp) в этом случае. |

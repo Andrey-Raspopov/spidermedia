@@ -4,6 +4,12 @@
   "url": "/comics/cerebus-vernetsya-v-sentyabre/",
   "original_url": "http://spidermedia.ru/comics/cerebus-vernetsya-v-sentyabre",
   "archived": "https://web.archive.org/web/20160701154516/http://spidermedia.ru:80/comics/cerebus-vernetsya-v-sentyabre",
+  "cover": "https://web.archive.org/web/20160701154516im_/http://spidermedia.ru/assets/images/news/stuff/222.jpg",
+  "modx_id": 101238,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

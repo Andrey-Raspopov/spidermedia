@@ -1,6 +1,6 @@
 {
   "title": "All That Jazz",
-  "date": "2009-02-05T22:07:00+03:00",
+  "date": "2009-02-05T22:07:57+03:00",
   "url": "/blog/redson/all-jazz/",
   "original_url": "https://spidermedia.ru/blog/redson/all-jazz",
   "archived": "https://web.archive.org/web/20250814203144/https://spidermedia.ru/blog/redson/all-jazz",
@@ -8,6 +8,11 @@
     "dc-comics",
     "recenziya",
     "grant-morrison"
+  ],
+  "modx_id": 217,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

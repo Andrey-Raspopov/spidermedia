@@ -1,6 +1,6 @@
 {
   "title": "Thunderbolt's Thunderbolts",
-  "date": "2012-09-13T04:13:00+03:00",
+  "date": "2012-09-13T03:13:47+03:00",
   "url": "/news/thunderbolts-thunderbolts/",
   "original_url": "http://spidermedia.ru/news/thunderbolts-thunderbolts",
   "archived": "https://web.archive.org/web/20251116062200/http://spidermedia.ru/news/thunderbolts-thunderbolts",
@@ -15,6 +15,12 @@
     "thunderbolts",
     "red-hulk",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150326160656im_/http://spidermedia.ru/assets/images/import_image/7028.jpg",
+  "modx_id": 7028,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

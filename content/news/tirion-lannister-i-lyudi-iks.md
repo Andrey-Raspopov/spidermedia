@@ -1,13 +1,21 @@
 {
   "title": "Тирион Ланнистер и Люди Икс",
-  "date": "2013-02-14T08:42:00+03:00",
+  "date": "2013-02-14T07:42:16+03:00",
   "url": "/news/tirion-lannister-i-lyudi-iks/",
   "original_url": "http://spidermedia.ru/news/tirion-lannister-i-lyudi-iks",
   "archived": "https://web.archive.org/web/20250923040243/http://spidermedia.ru/news/tirion-lannister-i-lyudi-iks",
   "tags": [
     "days-of-future-past",
     "marvel",
-    "x-men"
+    "x-men",
+    "dni-minuvshego-budushhego",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20250923040243im_/http://spidermedia.ru/assets/images/import_image/7145.jpg",
+  "modx_id": 7145,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

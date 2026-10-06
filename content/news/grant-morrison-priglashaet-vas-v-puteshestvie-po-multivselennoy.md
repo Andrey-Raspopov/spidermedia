@@ -1,6 +1,6 @@
 {
   "title": "Грант Моррисон приглашает вас в путешествие по Мультивселенной",
-  "date": "2014-07-26T18:05:00+03:00",
+  "date": "2014-07-26T17:05:13+03:00",
   "url": "/news/grant-morrison-priglashaet-vas-v-puteshestvie-po-multivselennoy/",
   "original_url": "http://spidermedia.ru/news/grant-morrison-priglashaet-vas-v-puteshestvie-po-multivselennoy",
   "archived": "https://web.archive.org/web/20260305234141/http://spidermedia.ru/news/grant-morrison-priglashaet-vas-v-puteshestvie-po-multivselennoy",
@@ -17,6 +17,12 @@
     "ajvan-rejs",
     "multiversity",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150326220308im_/http://spidermedia.ru/assets/images/import_image/7933.jpg",
+  "modx_id": 7933,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
@@ -45,7 +51,7 @@
 [![](https://web.archive.org/web/20260305234141im_/http://i.imgur.com/XveFSjW.jpg)](http://i.imgur.com/XveFSjW.jpg) [![](https://web.archive.org/web/20260305234141im_/http://i.imgur.com/mMCHIAK.jpg)](http://i.imgur.com/mMCHIAK.jpg) [![](https://web.archive.org/web/20260305234141im_/http://i.imgur.com/QLwbeD6.jpg)](http://i.imgur.com/QLwbeD6.jpg) [![](https://web.archive.org/web/20260305234141im_/http://i.imgur.com/Lorf8Fn.jpg)](http://i.imgur.com/Lorf8Fn.jpg)
 *Лучший Шазам всех времен от Кэмерона Стюарта*
 Стюарт оказался первым художником, завершившим свою часть Multiversity. *"Фрэнк Куайтли рисовал свой комикс два с половиной года из-за короткого путешествия в Millarworld, а Кэмерон справился за пять минут!"* - пошутил Моррисон, известный как злейший друг и добрейший враг Миллара.
-Также будет издан путеводитель по Мультивселенной, в котором будет Каманди Джека Кирби и описание всех 52 миров. *"Вы столько ждали, что заслужили этот бонус"*, - объяснил Моррисон. В книгу также войдет полная версия [карты Мультивселенной](https://web.archive.org/web/20260309185742/http://spidermedia.ru/news/karta-multivselennoy-ot-granta-morrisona). Она станет гидом для всех, кто захочет создать новые истории в этих вселенных. Моррисон даже оставил 7 миров нераскрытыми, чтобы другие авторы смогли дополнить картину. *"Раньше, когда создавали новые миры в Мультивселенной, это были всего лишь попытки сделать злую версию Бэтмена. Но эти миры - полностью продуманные идеи, которые может ждать долгая жизнь в комиксах"*, - подвел итог Моррисон.
+Также будет издан путеводитель по Мультивселенной, в котором будет Каманди Джека Кирби и описание всех 52 миров. *"Вы столько ждали, что заслужили этот бонус"*, - объяснил Моррисон. В книгу также войдет полная версия [карты Мультивселенной](../../comics/karta-multivselennoy-ot-granta-morrisona/). Она станет гидом для всех, кто захочет создать новые истории в этих вселенных. Моррисон даже оставил 7 миров нераскрытыми, чтобы другие авторы смогли дополнить картину. *"Раньше, когда создавали новые миры в Мультивселенной, это были всего лишь попытки сделать злую версию Бэтмена. Но эти миры - полностью продуманные идеи, которые может ждать долгая жизнь в комиксах"*, - подвел итог Моррисон.
 [![](https://web.archive.org/web/20260305234141im_/http://i.imgur.com/SAeI7RW.jpg)](http://i.imgur.com/SAeI7RW.jpg)
 *Еще один вариант карты Мультивселенной*
 The Multiversilty #1 выходит **20 августа**.

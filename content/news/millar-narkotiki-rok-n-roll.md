@@ -1,7 +1,10 @@
 {
   "title": "Миллар, наркотики, рок-н-ролл",
-  "date": "2009-10-24T08:02:00+03:00",
+  "date": "2009-10-24T07:02:29+03:00",
   "url": "/news/millar-narkotiki-rok-n-roll/",
+  "aliases": [
+    "/node/2021/"
+  ],
   "original_url": "http://spidermedia.ru/news/millar-narkotiki-rok-n-roll",
   "archived": "https://web.archive.org/web/20200219022228/http://spidermedia.ru:80/news/millar-narkotiki-rok-n-roll",
   "tags": [
@@ -10,11 +13,17 @@
     "ultimate",
     "marvel"
   ],
+  "cover": "https://web.archive.org/web/20200219022228im_/http://spidermedia.ru/assets/images/import_image/2021.jpg",
+  "modx_id": 2021,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-Если вы следите за графиком выхода тех или иных серий комиксов издательства **Marvel**, а **Ultimate Avengers** для вас именно та серия, за которой стоит следить, то вы знаете, что релиз третьего номера комикса, назначенный на прошлую среду, был перенесен на среду следующую - **28 октября**. Ну а пока свежие комиксы **Марка Миллара** *(Mark Millar)*, в очередной раз, [**выходят с задержкой**](../../node/1984/) и нам предстоит их ждать, мы расскажем о том, что ожидает читателей в грядущих выпусках **Ultimate Avengers**.
+Если вы следите за графиком выхода тех или иных серий комиксов издательства **Marvel**, а **Ultimate Avengers** для вас именно та серия, за которой стоит следить, то вы знаете, что релиз третьего номера комикса, назначенный на прошлую среду, был перенесен на среду следующую - **28 октября**. Ну а пока свежие комиксы **Марка Миллара** *(Mark Millar)*, в очередной раз, [**выходят с задержкой**](../ultimate-comics-dekabr-2009/) и нам предстоит их ждать, мы расскажем о том, что ожидает читателей в грядущих выпусках **Ultimate Avengers**.
 [![Photobucket](https://web.archive.org/web/20200219022228im_/http://img.photobucket.com/albums/v499/sp888/th_ultimateavengers3.jpg)](http://smg.photobucket.com/albums/v499/sp888/?action=view¤t=ultimateavengers3.jpg) [![](https://web.archive.org/web/20200219022228im_/http://comicsmedia.ign.com/comics/image/article/103/1037361/ultimate-comics-avengers-20091021005359153-000.jpg)](http://comicsmedia.ign.com/comics/image/article/103/1037361/ultimate-comics-avengers-20091021005359153.jpg) [![](https://web.archive.org/web/20200219022228im_/http://comicsmedia.ign.com/comics/image/article/103/1037361/ultimate-comics-avengers-20091021005329716-000.jpg)](http://comicsmedia.ign.com/comics/image/article/103/1037361/ultimate-comics-avengers-20091021005329716.jpg)Далее по тексту вас ожидают спойлеры *(разумеется выделенные белым)* и превью **Ultimate Avengers #3** *(часть из которого вы видите выше)*. Приступим:
 
 - Новой **Осой** *(Wasp)* окажется русская убийца, которую **Ник Фьюри** *(Nick Fury)* перепрограммирует так же, как когда-то **Хоукая** *(Hawkeye)*. Кстати до "перепрограммирования" он был серийным убийцей-маньяком, приговоренным к смертной казни. Но вернемся к **Осе** - **Миллар** дает такое описание персонажу: *"Мне нравится идея маленькой **Осы**, которая может убивать, подобно живой пуле. Она может двигаться на сверхчеловеческой скорости прямо сквозь человеческие головы."* Напоследок отметим, что новая **Оса**, до перепрограммирования **Фьюри**, ко всему прочему, будет выступать в роли террористки.

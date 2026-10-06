@@ -1,7 +1,10 @@
 {
   "title": "Комиксы DC Universe. Выпуск № 25",
-  "date": "2010-07-01T10:27:00+03:00",
+  "date": "2010-07-01T09:27:01+03:00",
   "url": "/blog/derden/komiksy-dc-universe-vypusk-no-25/",
+  "aliases": [
+    "/node/2701/"
+  ],
   "original_url": "http://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-25",
   "archived": "https://web.archive.org/web/20260211181732/http://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-25",
   "tags": [
@@ -9,6 +12,12 @@
     "judd-winick",
     "dc-comics",
     "dc-universe-comics"
+  ],
+  "cover": "https://web.archive.org/web/20260211181732im_/http://spidermedia.ru/assets/images/import_image/2701.gif",
+  "modx_id": 2701,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Росомаха против всех",
-  "date": "2011-03-12T11:28:00+03:00",
+  "date": "2011-03-12T11:28:28+03:00",
   "url": "/news/rosomaha-protiv-vseh/",
   "original_url": "http://spidermedia.ru/news/rosomaha-protiv-vseh",
   "archived": "https://web.archive.org/web/20251013185017/http://spidermedia.ru/news/rosomaha-protiv-vseh",
@@ -9,6 +9,12 @@
     "dzhonatan-mejberri",
     "wolverine",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20251013185017im_/http://spidermedia.ru/assets/images/import_image/4084.jpg",
+  "modx_id": 4084,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

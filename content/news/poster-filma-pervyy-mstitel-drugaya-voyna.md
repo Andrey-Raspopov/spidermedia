@@ -1,6 +1,6 @@
 {
   "title": "UPD.: Превью трейлера, постер и кадры из фильма \"Первый мститель: Другая война\"",
-  "date": "2013-10-23T21:44:00+03:00",
+  "date": "2013-10-23T20:44:46+03:00",
   "url": "/news/poster-filma-pervyy-mstitel-drugaya-voyna/",
   "original_url": "https://spidermedia.ru/news/poster-filma-pervyy-mstitel-drugaya-voyna",
   "archived": "https://web.archive.org/web/20250512112405/https://spidermedia.ru/news/poster-filma-pervyy-mstitel-drugaya-voyna",
@@ -9,6 +9,12 @@
     "marvel",
     "captain-america",
     "winter-soldier"
+  ],
+  "cover": "https://web.archive.org/web/20250512112405im_/http://spidermedia.ru/assets/images/import_image/7507.jpg",
+  "modx_id": 7507,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

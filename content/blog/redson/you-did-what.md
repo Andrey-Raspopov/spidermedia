@@ -1,13 +1,23 @@
 {
   "title": "You did what?",
-  "date": "2010-01-20T16:03:00+03:00",
+  "date": "2010-01-20T16:03:39+03:00",
   "url": "/blog/redson/you-did-what/",
+  "aliases": [
+    "/node/2289/"
+  ],
   "original_url": "http://spidermedia.ru/blog/redson/you-did-what",
   "archived": "https://web.archive.org/web/20230320164549/http://spidermedia.ru/blog/redson/you-did-what",
   "tags": [
     "animaciya",
     "serialy",
-    "wtf"
+    "wtf",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20150502014945im_/http://spidermedia.ru/assets/images/import_image/2289.jpg",
+  "modx_id": 2289,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

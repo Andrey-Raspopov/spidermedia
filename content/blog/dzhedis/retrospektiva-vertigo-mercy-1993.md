@@ -1,6 +1,6 @@
 {
   "title": "Ретроспектива Vertigo - Mercy (1993)",
-  "date": "2011-11-04T23:22:00+03:00",
+  "date": "2011-11-04T22:22:26+03:00",
   "url": "/blog/dzhedis/retrospektiva-vertigo-mercy-1993/",
   "original_url": "https://spidermedia.ru/blog/dzhedis/retrospektiva-vertigo-mercy-1993",
   "archived": "https://web.archive.org/web/20260206230200/https://spidermedia.ru/blog/dzhedis/retrospektiva-vertigo-mercy-1993",
@@ -8,6 +8,12 @@
     "j.m.-dematteis",
     "paul-johnson",
     "vertigo"
+  ],
+  "cover": "https://web.archive.org/web/20260206230200im_/http://spidermedia.ru/assets/images/import_image/6687.jpg",
+  "modx_id": 6687,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -7,6 +7,12 @@
   "tags": [
     "eisner-awards"
   ],
+  "cover": "https://web.archive.org/web/20260120160343im_/http://spidermedia.ru/assets/images/news/sdcc/2016/ldyklr_tpb_wm-20.jpg",
+  "modx_id": 101102,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

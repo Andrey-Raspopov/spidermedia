@@ -1,13 +1,21 @@
 {
   "title": "Отрывок из фильма \"Люди Икс: Дни минувшего будущего\"",
-  "date": "2014-04-15T14:38:00+03:00",
+  "date": "2014-04-15T13:38:15+03:00",
   "url": "/news/otryvok-iz-filma-lyudi-iks-dni-minuvshego-budushchego/",
   "original_url": "https://spidermedia.ru/news/otryvok-iz-filma-lyudi-iks-dni-minuvshego-budushchego",
   "archived": "https://web.archive.org/web/20260125070835/https://spidermedia.ru/news/otryvok-iz-filma-lyudi-iks-dni-minuvshego-budushchego",
   "tags": [
     "x-men",
     "lyudi-iks-pervyj-klass",
-    "days-of-future-past"
+    "days-of-future-past",
+    "lyudi-iks",
+    "dni-minuvshego-budushhego"
+  ],
+  "cover": "https://web.archive.org/web/20180211074036im_/http://spidermedia.ru/assets/images/import_image/7712.png",
+  "modx_id": 7712,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

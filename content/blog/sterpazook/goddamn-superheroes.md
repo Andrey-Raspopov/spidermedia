@@ -1,7 +1,10 @@
 {
   "title": "Goddamn superheroes",
-  "date": "2010-08-16T16:17:00+03:00",
+  "date": "2010-08-16T15:17:18+03:00",
   "url": "/blog/sterpazook/goddamn-superheroes/",
+  "aliases": [
+    "/node/2860/"
+  ],
   "original_url": "http://spidermedia.ru/blog/sterpazook/goddamn-superheroes",
   "archived": "https://web.archive.org/web/20120608214248/http://spidermedia.ru/blog/sterpazook/goddamn-superheroes",
   "tags": [
@@ -9,6 +12,12 @@
     "komiksy",
     "marazm",
     "supergeroi"
+  ],
+  "cover": "https://web.archive.org/web/20120608214248im_/http://spidermedia.ru/assets/images/import_image/2860.jpg",
+  "modx_id": 2860,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

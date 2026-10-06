@@ -1,11 +1,17 @@
 {
   "title": "Yes, so very large",
-  "date": "2012-10-11T06:11:00+03:00",
+  "date": "2012-10-11T05:11:02+03:00",
   "url": "/news/yes-so-very-large/",
   "original_url": "https://spidermedia.ru/news/yes-so-very-large",
   "archived": "https://web.archive.org/web/20260313110813/https://spidermedia.ru/news/yes-so-very-large",
   "tags": [
     "boom-studios"
+  ],
+  "cover": "https://web.archive.org/web/20180205065735im_/http://spidermedia.ru/assets/images/import_image/7054.jpg",
+  "modx_id": 7054,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

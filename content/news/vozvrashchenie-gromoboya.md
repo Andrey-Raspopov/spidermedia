@@ -1,6 +1,6 @@
 {
   "title": "Возвращение Громобоя",
-  "date": "2010-08-07T01:50:00+03:00",
+  "date": "2010-08-07T00:50:47+03:00",
   "url": "/news/vozvrashchenie-gromoboya/",
   "original_url": "http://spidermedia.ru/news/vozvrashchenie-gromoboya",
   "archived": "https://web.archive.org/web/20230320152414/http://spidermedia.ru/news/vozvrashchenie-gromoboya",
@@ -11,7 +11,15 @@
     "preview",
     "art-0",
     "thunderstrike",
-    "marvel"
+    "marvel",
+    "prevyu",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20230320152414im_/http://spidermedia.ru/assets/images/import_image/2840.jpg",
+  "modx_id": 2840,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

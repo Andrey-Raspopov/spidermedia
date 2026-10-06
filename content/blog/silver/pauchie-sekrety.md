@@ -1,7 +1,10 @@
 {
   "title": "Паучие секреты",
-  "date": "2009-02-03T11:02:00+03:00",
+  "date": "2009-02-03T11:02:37+03:00",
   "url": "/blog/silver/pauchie-sekrety/",
+  "aliases": [
+    "/node/135/"
+  ],
   "original_url": "http://spidermedia.ru/blog/silver/pauchie-sekrety",
   "archived": "https://web.archive.org/web/20220814180110/http://spidermedia.ru/blog/silver/pauchie-sekrety",
   "tags": [
@@ -10,6 +13,11 @@
     "alex-maleev",
     "spider-woman",
     "marvel"
+  ],
+  "modx_id": 135,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

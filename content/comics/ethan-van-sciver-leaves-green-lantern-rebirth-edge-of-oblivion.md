@@ -9,6 +9,12 @@
     "green-lantern",
     "ethan-van-sciver"
   ],
+  "cover": "https://web.archive.org/web/20160611142506im_/http://spidermedia.ru/assets/images/news/dc/green-lantern/green-lantern-edge-of-oblivion.jpg",
+  "modx_id": 100937,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

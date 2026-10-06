@@ -1,6 +1,6 @@
 {
   "title": "Рецензия на фильм \"Росомаха: Бессмертный\"",
-  "date": "2013-07-25T14:43:00+03:00",
+  "date": "2013-07-25T13:43:17+03:00",
   "url": "/blog/transistor/recenziya-na-film-rosomaha-bessmertnyy/",
   "original_url": "http://spidermedia.ru/blog/transistor/recenziya-na-film-rosomaha-bessmertnyy",
   "archived": "https://web.archive.org/web/20251013181708/http://spidermedia.ru/blog/transistor/recenziya-na-film-rosomaha-bessmertnyy",
@@ -8,7 +8,14 @@
     "mnenie",
     "marvel",
     "wolverine",
-    "x-men"
+    "x-men",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20180211221952im_/http://spidermedia.ru/assets/images/import_image/7380.jpg",
+  "modx_id": 7380,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

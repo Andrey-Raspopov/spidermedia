@@ -1,6 +1,6 @@
 {
   "title": "Thanos Imperative: Танос жив!",
-  "date": "2010-05-26T00:31:00+03:00",
+  "date": "2010-05-25T23:31:59+03:00",
   "url": "/news/thanos-imperative-tanos-zhiv/",
   "original_url": "http://spidermedia.ru/news/thanos-imperative-tanos-zhiv",
   "archived": "https://web.archive.org/web/20250814205936/http://spidermedia.ru/news/thanos-imperative-tanos-zhiv",
@@ -14,11 +14,17 @@
     "marvel",
     "guardians-of-the-galaxy"
   ],
+  "cover": "https://web.archive.org/web/20250814205936im_/http://spidermedia.ru/assets/images/import_image/2630.jpg",
+  "modx_id": 2630,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-Возможно вы обратили внимание, что на нашем сайте не появлялось [релизов посвященных космическим сериям **Marvel**](../../node/2443/) ни на этот месяц, т.е. май, ни на следующие. Связано это вот с чем – онгоинги **Nova** и **Guardians of the Galaxy** на ближайшие несколько месяцев уходят на хиатус. Нас же, тем временем, ожидает очередное глобальное космическом событие – **Thanos Imperative**. Сценаристами проекта выступят неизменные **Дэн Эбнетт** *(Dan Abnett)* и **Энди Лэннинг** *(Andy Lanning)*, а художником **Мигель Сепалведа** *(Miguel Sepulveda)*.
+Возможно вы обратили внимание, что на нашем сайте не появлялось [релизов посвященных космическим сериям **Marvel**](../marvel-cosmos-mart-aprel-2010/) ни на этот месяц, т.е. май, ни на следующие. Связано это вот с чем – онгоинги **Nova** и **Guardians of the Galaxy** на ближайшие несколько месяцев уходят на хиатус. Нас же, тем временем, ожидает очередное глобальное космическом событие – **Thanos Imperative**. Сценаристами проекта выступят неизменные **Дэн Эбнетт** *(Dan Abnett)* и **Энди Лэннинг** *(Andy Lanning)*, а художником **Мигель Сепалведа** *(Miguel Sepulveda)*.
 
 [![](https://web.archive.org/web/20250814205936im_/http://images.comicbookresources.com/solicits/marvelcomics/201006/sm/124_THE_THANOS_IMPERATIVE_1.jpg)](http://images.comicbookresources.com/solicits/marvelcomics/201006/124_THE_THANOS_IMPERATIVE_1.jpg) [![](https://web.archive.org/web/20250814205936im_/http://images.comicbookresources.com/solicits/marvelcomics/201007/sm/109_THE_THANOS_IMPERATIVE_2.jpg)](http://images.comicbookresources.com/solicits/marvelcomics/201007/109_THE_THANOS_IMPERATIVE_2.jpg) [![](https://web.archive.org/web/20250814205936im_/http://images.comicbookresources.com/solicits/marvelcomics/201008/sm/101_THE_THANOS_IMPERATIVE_3.jpg)](http://images.comicbookresources.com/solicits/marvelcomics/201008/101_THE_THANOS_IMPERATIVE_3.jpg)
 

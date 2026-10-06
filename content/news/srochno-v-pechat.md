@@ -1,13 +1,22 @@
 {
   "title": "Срочно в печать!",
-  "date": "2009-03-27T02:50:00+03:00",
+  "date": "2009-02-07T17:19:32+03:00",
   "url": "/news/srochno-v-pechat/",
+  "aliases": [
+    "/blog/redson/srochno-v-pechat/"
+  ],
   "original_url": "http://spidermedia.ru/news/srochno-v-pechat",
   "archived": "https://web.archive.org/web/20200221153204/http://spidermedia.ru:80/news/srochno-v-pechat",
   "tags": [
     "marvel",
     "majka-mejhyu",
-    "dejli-byugl"
+    "dejli-byugl",
+    "yumor"
+  ],
+  "modx_id": 254,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

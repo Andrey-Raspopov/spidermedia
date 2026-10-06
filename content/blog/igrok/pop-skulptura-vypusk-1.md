@@ -1,12 +1,18 @@
 {
   "title": "Поп-скульптура. Выпуск 1",
-  "date": "2013-07-16T14:47:00+03:00",
+  "date": "2013-07-16T13:47:09+03:00",
   "url": "/blog/igrok/pop-skulptura-vypusk-1/",
   "original_url": "https://spidermedia.ru/blog/igrok/pop-skulptura-vypusk-1",
   "archived": "https://web.archive.org/web/20250807224811/https://spidermedia.ru/blog/igrok/pop-skulptura-vypusk-1",
   "tags": [
     "figurki",
     "pop-skulptura"
+  ],
+  "cover": "https://web.archive.org/web/20150327041642im_/http://spidermedia.ru/assets/images/import_image/7346.jpg",
+  "modx_id": 7346,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

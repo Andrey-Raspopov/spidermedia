@@ -1,7 +1,10 @@
 {
   "title": "Ultimate Comics, Октябрь 2009",
-  "date": "2009-07-21T03:47:00+03:00",
+  "date": "2009-07-21T02:47:04+03:00",
   "url": "/news/ultimate-comics-oktyabr-2009/",
+  "aliases": [
+    "/node/1613/"
+  ],
   "original_url": "http://spidermedia.ru/news/ultimate-comics-oktyabr-2009",
   "archived": "https://web.archive.org/web/20120607055053/http://spidermedia.ru/news/ultimate-comics-oktyabr-2009",
   "tags": [
@@ -16,7 +19,16 @@
     "mstiteli",
     "nik-fyuri",
     "ugadayka",
-    "chelovek-pauk"
+    "chelovek-pauk",
+    "ugadajka",
+    "avengers",
+    "brian-michael-bendis"
+  ],
+  "cover": "https://web.archive.org/web/20120607055053im_/http://spidermedia.ru/assets/images/import_image/1613.png",
+  "modx_id": 1613,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

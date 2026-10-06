@@ -1,6 +1,6 @@
 {
   "title": "В Паутине Лафуэнте",
-  "date": "2009-02-16T18:46:00+03:00",
+  "date": "2009-02-16T18:46:08+03:00",
   "url": "/blog/silver/v-pautine-lafuente/",
   "original_url": "http://spidermedia.ru/blog/silver/v-pautine-lafuente",
   "archived": "https://web.archive.org/web/20250807010248/http://spidermedia.ru/blog/silver/v-pautine-lafuente",
@@ -9,13 +9,19 @@
     "art-0",
     "ultimate",
     "marvel",
-    "spider-man"
+    "spider-man",
+    "art"
+  ],
+  "modx_id": 394,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-Судя по общим тенденциям, приход **Дэвида Лафуэнте**на [Алтим Паука](../../../node/260/) ждут еще с большим опасением, чем Иммонена, в свое время. Чтобы хоть немного смягчить ожидание, раздобыл просто арт из [3 аннуала USM](http://www.mediafire.com/?grtwizrzmww) и, возможно, будущий кавер.
+Судя по общим тенденциям, приход **Дэвида Лафуэнте**на [Алтим Паука](../../../news/konec-cheloveka-pauka/) ждут еще с большим опасением, чем Иммонена, в свое время. Чтобы хоть немного смягчить ожидание, раздобыл просто арт из [3 аннуала USM](http://www.mediafire.com/?grtwizrzmww) и, возможно, будущий кавер.
 
 Самое лучшее:
 

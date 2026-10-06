@@ -1,12 +1,21 @@
 {
   "title": "New York Times капитулируют!",
-  "date": "2009-03-06T18:04:00+03:00",
+  "date": "2009-03-06T18:04:17+03:00",
   "url": "/news/new-york-times-kapituliruyut/",
+  "aliases": [
+    "/node/609/"
+  ],
   "original_url": "http://spidermedia.ru/news/new-york-times-kapituliruyut",
   "archived": "https://web.archive.org/web/20251108192714/http://spidermedia.ru/news/new-york-times-kapituliruyut",
   "tags": [
     "rejtingi-prodazh",
     "manga"
+  ],
+  "cover": "https://web.archive.org/web/20251108192714im_/http://spidermedia.ru/assets/images/import_image/609.jpg",
+  "modx_id": 609,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

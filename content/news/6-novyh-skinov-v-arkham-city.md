@@ -1,6 +1,6 @@
 {
   "title": "6 новых скинов в Arkham City",
-  "date": "2011-08-03T00:04:00+03:00",
+  "date": "2011-08-02T23:04:54+03:00",
   "url": "/news/6-novyh-skinov-v-arkham-city/",
   "original_url": "https://spidermedia.ru/news/6-novyh-skinov-v-arkham-city",
   "archived": "https://web.archive.org/web/20260215081519/https://spidermedia.ru/news/6-novyh-skinov-v-arkham-city",
@@ -10,6 +10,12 @@
     "dc-comics",
     "batman",
     "arkham-asylum"
+  ],
+  "cover": "https://web.archive.org/web/20150326004935im_/http://spidermedia.ru/assets/images/import_image/6542.jpg",
+  "modx_id": 6542,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

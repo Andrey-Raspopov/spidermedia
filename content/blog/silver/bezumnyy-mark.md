@@ -1,13 +1,21 @@
 {
   "title": "Безумный Марк!",
-  "date": "2009-01-30T20:26:00+03:00",
+  "date": "2009-01-30T20:26:26+03:00",
   "url": "/blog/silver/bezumnyy-mark/",
+  "aliases": [
+    "/node/25/"
+  ],
   "original_url": "http://spidermedia.ru/blog/silver/bezumnyy-mark",
   "archived": "https://web.archive.org/web/20250814213428/http://spidermedia.ru/blog/silver/bezumnyy-mark",
   "tags": [
     "mark-millar",
     "marvel",
     "icon-comics"
+  ],
+  "modx_id": 25,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

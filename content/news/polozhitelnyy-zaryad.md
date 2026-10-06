@@ -1,6 +1,6 @@
 {
   "title": "Положительный заряд",
-  "date": "2011-03-29T09:32:00+03:00",
+  "date": "2011-03-29T08:32:45+03:00",
   "url": "/news/polozhitelnyy-zaryad/",
   "original_url": "http://spidermedia.ru/news/polozhitelnyy-zaryad",
   "archived": "https://web.archive.org/web/20251206033040/http://spidermedia.ru/news/polozhitelnyy-zaryad",
@@ -8,6 +8,12 @@
     "nik-pitarra",
     "dzhonatan-hikman",
     "image-comics"
+  ],
+  "cover": "https://web.archive.org/web/20251206033040im_/http://spidermedia.ru/assets/images/import_image/4531.jpg",
+  "modx_id": 4531,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

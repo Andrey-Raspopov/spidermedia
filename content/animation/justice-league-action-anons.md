@@ -8,6 +8,12 @@
     "dc-comics",
     "justice-league"
   ],
+  "cover": "https://web.archive.org/web/20160611161339im_/http://spidermedia.ru/assets/images/animation/dc-comics/justice-league-action/wvdadkx47bc.jpg",
+  "modx_id": 100865,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

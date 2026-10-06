@@ -1,11 +1,17 @@
 {
   "title": "Хронология DC Universe",
-  "date": "2009-07-09T20:53:00+03:00",
+  "date": "2009-07-09T19:53:22+03:00",
   "url": "/blog/derden/hronologiya-dc-universe/",
   "original_url": "http://spidermedia.ru/blog/derden/hronologiya-dc-universe",
   "archived": "https://web.archive.org/web/20190915011740/http://spidermedia.ru:80/blog/derden/hronologiya-dc-universe",
   "tags": [
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20190915011740im_/http://spidermedia.ru/assets/images/import_image/1517.jpg",
+  "modx_id": 1517,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

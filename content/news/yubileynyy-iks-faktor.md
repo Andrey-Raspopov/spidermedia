@@ -1,7 +1,10 @@
 {
   "title": "Юбилейный Икс-Фактор",
-  "date": "2009-08-31T01:02:00+03:00",
+  "date": "2009-08-31T00:02:17+03:00",
   "url": "/news/yubileynyy-iks-faktor/",
+  "aliases": [
+    "/node/1850/"
+  ],
   "original_url": "https://spidermedia.ru/news/yubileynyy-iks-faktor",
   "archived": "https://web.archive.org/web/20250512124006/https://spidermedia.ru/news/yubileynyy-iks-faktor",
   "tags": [
@@ -10,7 +13,13 @@
     "x-men",
     "x-factor",
     "marvel",
-    "fan-expo-2009"
+    "fan-expo-2009",
+    "lyudi-iks"
+  ],
+  "modx_id": 1850,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

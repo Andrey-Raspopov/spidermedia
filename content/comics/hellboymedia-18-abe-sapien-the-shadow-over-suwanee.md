@@ -8,6 +8,12 @@
     "hellboymedia",
     "mnenie"
   ],
+  "cover": "https://web.archive.org/web/20160611143334im_/http://spidermedia.ru/assets/images/hellboymedia/regular/18-abe-sapien-the-shadow-over-suwanee/abe-sapien-the-shadow-over-suwanee-cover.jpg",
+  "modx_id": 100730,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

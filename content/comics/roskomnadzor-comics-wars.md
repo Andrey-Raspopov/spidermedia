@@ -9,6 +9,12 @@
     "roskomnadzor",
     "russian-comics"
   ],
+  "cover": "https://web.archive.org/web/20260307064537im_/http://spidermedia.ru/assets/images/roskomnadzor/2018/05.2018/25/cover.jpg",
+  "modx_id": 101929,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

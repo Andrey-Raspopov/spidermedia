@@ -1,13 +1,20 @@
 {
   "title": "Синопсис и ТВ-ролик нового сериала Марвел \"Агент Картер\"",
-  "date": "2014-10-29T13:01:00+03:00",
+  "date": "2014-10-29T13:01:41+03:00",
   "url": "/news/sinopsis-i-tv-rolik-novogo-seriala-marvel-agent-karter/",
   "original_url": "https://spidermedia.ru/news/sinopsis-i-tv-rolik-novogo-seriala-marvel-agent-karter",
   "archived": "https://web.archive.org/web/20260206221526/https://spidermedia.ru/news/sinopsis-i-tv-rolik-novogo-seriala-marvel-agent-karter",
   "tags": [
     "serialy",
     "marvel",
-    "agent-karter"
+    "agent-karter",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20150327101523im_/http://spidermedia.ru/assets/images/import_image/8236.jpg",
+  "modx_id": 8236,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

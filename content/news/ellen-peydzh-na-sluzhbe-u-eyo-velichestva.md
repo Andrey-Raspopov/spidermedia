@@ -1,6 +1,6 @@
 {
   "title": "Эллен Пейдж на службе у Её Величества",
-  "date": "2013-09-10T11:24:00+03:00",
+  "date": "2013-09-10T10:24:50+03:00",
   "url": "/news/ellen-peydzh-na-sluzhbe-u-eyo-velichestva/",
   "original_url": "https://spidermedia.ru/news/ellen-peydzh-na-sluzhbe-u-eyo-velichestva",
   "archived": "https://web.archive.org/web/20260123092608/https://spidermedia.ru/news/ellen-peydzh-na-sluzhbe-u-eyo-velichestva",
@@ -9,6 +9,12 @@
     "greg-rakka",
     "queen-and-country",
     "oni-press"
+  ],
+  "cover": "https://web.archive.org/web/20260123092608im_/http://spidermedia.ru/assets/images/import_image/7460.jpg",
+  "modx_id": 7460,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

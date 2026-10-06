@@ -1,6 +1,6 @@
 {
   "title": "You can't touch this!",
-  "date": "2011-03-11T06:44:00+03:00",
+  "date": "2011-03-11T06:44:23+03:00",
   "url": "/news/you-cant-touch/",
   "original_url": "https://spidermedia.ru/news/you-cant-touch",
   "archived": "https://web.archive.org/web/20250709064959/https://spidermedia.ru/news/you-cant-touch",
@@ -14,6 +14,12 @@
     "brendon-monkler",
     "bong-dazo",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20250709064959im_/http://spidermedia.ru/assets/images/import_image/4053.jpg",
+  "modx_id": 4053,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

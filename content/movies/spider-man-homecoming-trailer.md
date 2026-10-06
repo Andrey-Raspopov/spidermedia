@@ -7,7 +7,14 @@
   "tags": [
     "marvel",
     "iron-man",
-    "spider-man"
+    "spider-man",
+    "zheleznyy-chelovek"
+  ],
+  "cover": "https://web.archive.org/web/20260215080905im_/http://spidermedia.ru/assets/images/movies/marvel/spider-man-marvel/thumbspidey.jpg",
+  "modx_id": 101434,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

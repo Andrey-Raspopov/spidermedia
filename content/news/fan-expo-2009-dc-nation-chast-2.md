@@ -1,6 +1,6 @@
 {
   "title": "Fan Expo 2009 - DC Nation часть 2",
-  "date": "2009-08-31T09:24:00+03:00",
+  "date": "2009-08-31T08:24:07+03:00",
   "url": "/news/fan-expo-2009-dc-nation-chast-2/",
   "original_url": "http://spidermedia.ru/news/fan-expo-2009-dc-nation-chast-2",
   "archived": "https://web.archive.org/web/20250715014430/http://spidermedia.ru/news/fan-expo-2009-dc-nation-chast-2",
@@ -12,6 +12,12 @@
     "wonder-woman",
     "temnejshaya-noch",
     "blackest-night"
+  ],
+  "cover": "https://web.archive.org/web/20250715014430im_/http://spidermedia.ru/assets/images/import_image/1851.png",
+  "modx_id": 1851,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

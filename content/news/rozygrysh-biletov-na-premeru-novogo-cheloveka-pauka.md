@@ -1,6 +1,6 @@
 {
   "title": "Розыгрыш билетов на премьеру \"Нового Человека-Паука\"",
-  "date": "2012-06-08T15:24:00+03:00",
+  "date": "2012-06-08T14:24:12+03:00",
   "url": "/news/rozygrysh-biletov-na-premeru-novogo-cheloveka-pauka/",
   "original_url": "https://spidermedia.ru/news/rozygrysh-biletov-na-premeru-novogo-cheloveka-pauka",
   "archived": "https://web.archive.org/web/20260116223951/https://spidermedia.ru/news/rozygrysh-biletov-na-premeru-novogo-cheloveka-pauka",
@@ -8,6 +8,12 @@
     "marvel",
     "spider-man",
     "konkurs"
+  ],
+  "cover": "https://web.archive.org/web/20260116223951im_/http://spidermedia.ru/assets/images/import_image/6922.jpg",
+  "modx_id": 6922,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

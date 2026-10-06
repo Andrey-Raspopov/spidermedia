@@ -1,6 +1,6 @@
 {
   "title": "Короткой строкой",
-  "date": "2011-04-10T22:08:00+03:00",
+  "date": "2011-04-10T21:08:29+03:00",
   "url": "/news/korotkoy-strokoy/",
   "original_url": "http://spidermedia.ru/news/korotkoy-strokoy",
   "archived": "https://web.archive.org/web/20260309184834/http://spidermedia.ru/news/korotkoy-strokoy",
@@ -11,7 +11,14 @@
     "dzhon-romita-ml",
     "greg-lend",
     "art-0",
-    "marvel"
+    "marvel",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20260309184834im_/http://spidermedia.ru/assets/images/import_image/4864.jpg",
+  "modx_id": 4864,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

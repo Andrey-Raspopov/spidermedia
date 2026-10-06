@@ -7,6 +7,12 @@
   "tags": [
     "old-komix"
   ],
+  "cover": "https://web.archive.org/web/20251014041343im_/http://spidermedia.ru/assets/images/articles/oldkomix/xrays/07.jpg",
+  "modx_id": 100335,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

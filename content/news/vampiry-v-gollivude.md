@@ -1,13 +1,22 @@
 {
   "title": "Вампиры в Голливуде",
-  "date": "2010-01-15T11:42:00+03:00",
+  "date": "2010-01-15T11:42:04+03:00",
   "url": "/news/vampiry-v-gollivude/",
+  "aliases": [
+    "/node/2262/"
+  ],
   "original_url": "https://spidermedia.ru/news/vampiry-v-gollivude",
   "archived": "https://web.archive.org/web/20260308234312/https://spidermedia.ru/news/vampiry-v-gollivude",
   "tags": [
     "skott-snajder",
     "rafael-albukerke",
     "vertigo"
+  ],
+  "cover": "https://web.archive.org/web/20260308234312im_/http://spidermedia.ru/assets/images/import_image/2262.jpg",
+  "modx_id": 2262,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

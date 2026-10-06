@@ -1,6 +1,6 @@
 {
   "title": "Релиз комикса \"Пантеон\" (Miscreant) состоится летом",
-  "date": "2012-05-14T10:00:00+03:00",
+  "date": "2012-05-14T09:00:56+03:00",
   "url": "/blog/drgonzobear/panteon-miscreant-daty-vyhoda/",
   "original_url": "http://spidermedia.ru/blog/drgonzobear/panteon-miscreant-daty-vyhoda",
   "archived": "https://web.archive.org/web/20210118133305/http://spidermedia.ru/blog/drgonzobear/panteon-miscreant-daty-vyhoda",
@@ -8,6 +8,12 @@
     "stimpank",
     "russian-comics",
     "miscreant"
+  ],
+  "cover": "https://web.archive.org/web/20210118133305im_/http://spidermedia.ru/assets/images/import_image/6895.jpg",
+  "modx_id": 6895,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

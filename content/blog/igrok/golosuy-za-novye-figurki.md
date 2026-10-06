@@ -1,7 +1,10 @@
 {
   "title": "Голосуй за новые фигурки!",
-  "date": "2009-02-12T00:58:00+03:00",
+  "date": "2009-02-12T00:58:50+03:00",
   "url": "/blog/igrok/golosuy-za-novye-figurki/",
+  "aliases": [
+    "/node/318/"
+  ],
   "original_url": "https://spidermedia.ru/blog/igrok/golosuy-za-novye-figurki",
   "archived": "https://web.archive.org/web/20260305235232/https://spidermedia.ru/blog/igrok/golosuy-za-novye-figurki",
   "tags": [
@@ -9,6 +12,11 @@
     "figurki",
     "hasbro",
     "golosovanie"
+  ],
+  "modx_id": 318,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

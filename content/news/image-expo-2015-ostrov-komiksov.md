@@ -1,6 +1,6 @@
 {
   "title": "Image Expo 2015: Остров комиксов",
-  "date": "2015-01-09T13:34:00+03:00",
+  "date": "2015-01-09T13:34:21+03:00",
   "url": "/news/image-expo-2015-ostrov-komiksov/",
   "original_url": "http://spidermedia.ru/news/image-expo-2015-ostrov-komiksov",
   "archived": "https://web.archive.org/web/20260305232257/http://spidermedia.ru/news/image-expo-2015-ostrov-komiksov",
@@ -9,6 +9,12 @@
     "brendon-grem",
     "emma-rios",
     "image-expo"
+  ],
+  "cover": "https://web.archive.org/web/20150325232109im_/http://spidermedia.ru/assets/images/import_image/8477.jpg",
+  "modx_id": 8477,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

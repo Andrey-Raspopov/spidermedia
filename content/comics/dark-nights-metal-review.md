@@ -10,6 +10,12 @@
     "greg-capullo",
     "skott-snajder"
   ],
+  "cover": "https://web.archive.org/web/20260309181157im_/http://spidermedia.ru/assets/images/reviews/dc/batman/dark-nights-metal/1-4/1.jpg",
+  "modx_id": 101789,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

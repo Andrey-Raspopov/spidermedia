@@ -9,6 +9,12 @@
     "joe-hill",
     "idw-publishing"
   ],
+  "cover": "https://web.archive.org/web/20180205131113im_/http://spidermedia.ru/assets/images/news/idw/locke-and-key/la-et-hc-lock-key-cover.jpg",
+  "modx_id": 101225,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

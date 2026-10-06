@@ -1,13 +1,20 @@
 {
   "title": "Эдрианн Палики - Чудо-Женщина",
-  "date": "2011-02-17T17:49:00+03:00",
+  "date": "2011-02-17T17:49:10+03:00",
   "url": "/news/edriann-paliki-chudo-zhenshchina/",
   "original_url": "http://spidermedia.ru/news/edriann-paliki-chudo-zhenshchina",
   "archived": "https://web.archive.org/web/20190918090009/http://spidermedia.ru/news/edriann-paliki-chudo-zhenshchina",
   "tags": [
     "wonder-woman",
     "serialy",
-    "dc-comics"
+    "dc-comics",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20150503073322im_/http://spidermedia.ru/assets/images/import_image/3490.gif",
+  "modx_id": 3490,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

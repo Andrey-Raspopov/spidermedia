@@ -8,6 +8,12 @@
     "dc-comics",
     "batman"
   ],
+  "cover": "https://web.archive.org/web/20160611144119im_/http://spidermedia.ru/assets/images/youtube/X2-h6l9-y0I.jpg",
+  "modx_id": 100745,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,7 +1,10 @@
 {
   "title": "Первые официальные Черные Фонари!",
-  "date": "2009-04-03T14:50:00+03:00",
+  "date": "2009-04-03T13:50:24+03:00",
   "url": "/news/pervye-oficialnye-chernye-fonari/",
+  "aliases": [
+    "/node/839/"
+  ],
   "original_url": "https://spidermedia.ru/news/pervye-oficialnye-chernye-fonari",
   "archived": "https://web.archive.org/web/20260215082653/https://spidermedia.ru/news/pervye-oficialnye-chernye-fonari",
   "tags": [
@@ -10,6 +13,12 @@
     "blackest-night",
     "aquaman",
     "temnejshaya-noch"
+  ],
+  "cover": "https://web.archive.org/web/20260215082653im_/http://spidermedia.ru/assets/images/import_image/839.jpg",
+  "modx_id": 839,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

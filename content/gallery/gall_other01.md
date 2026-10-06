@@ -4,6 +4,9 @@
   "url": "/gallery/gall_other01/",
   "original_url": "http://www.spidermedia.ru/gallery/gall_other01.html",
   "archived": "https://web.archive.org/web/20050108014134/http://www.spidermedia.ru:80/gallery/gall_other01.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

@@ -1,6 +1,6 @@
 {
   "title": "UPD.: Трейлер и 2 фрагмента мультсериала Marvel's Avengers Assemble!",
-  "date": "2013-05-24T11:28:00+03:00",
+  "date": "2013-05-24T10:28:30+03:00",
   "url": "/news/treyler-multseriala-marvels-avengers-assemble/",
   "original_url": "http://spidermedia.ru/news/treyler-multseriala-marvels-avengers-assemble",
   "archived": "https://web.archive.org/web/20251107031341/http://spidermedia.ru/news/treyler-multseriala-marvels-avengers-assemble",
@@ -8,6 +8,12 @@
     "trejlery",
     "avengers",
     "animaciya"
+  ],
+  "cover": "https://web.archive.org/web/20150326220840im_/http://spidermedia.ru/assets/images/import_image/7246.jpg",
+  "modx_id": 7246,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

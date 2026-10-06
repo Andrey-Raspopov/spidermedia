@@ -7,6 +7,12 @@
   "tags": [
     "marvel"
   ],
+  "cover": "https://web.archive.org/web/20260309183955im_/http://spidermedia.ru/assets/images/news/marvel/what-if/what-if-infinity-guardians-of-the-galaxy-1-cover-6606e.jpg",
+  "modx_id": 100380,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

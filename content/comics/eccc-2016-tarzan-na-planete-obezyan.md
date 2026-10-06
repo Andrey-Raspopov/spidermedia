@@ -9,6 +9,12 @@
     "emerald-city-comicon",
     "idw-publishing"
   ],
+  "cover": "https://web.archive.org/web/20251115190949im_/http://spidermedia.ru/assets/images/newgallery/gallery774/tarzan-planet-of-the-apes.jpg",
+  "modx_id": 101077,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

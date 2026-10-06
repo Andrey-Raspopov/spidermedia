@@ -8,6 +8,12 @@
     "alan-mur",
     "komilfo"
   ],
+  "cover": "https://web.archive.org/web/20220905222936im_/http://spidermedia.ru/assets/images/reviews/komilfo/miracleman/cover-crop.jpg",
+  "modx_id": 101714,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

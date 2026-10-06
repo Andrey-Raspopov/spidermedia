@@ -1,6 +1,6 @@
 {
   "title": "SDCC'10: Dexter Early Cuts: Dark Echo",
-  "date": "2010-07-23T16:10:00+03:00",
+  "date": "2010-07-23T15:10:00+03:00",
   "url": "/news/sdcc10-dexter-early-cuts-dark-echo/",
   "original_url": "http://spidermedia.ru/news/sdcc10-dexter-early-cuts-dark-echo",
   "archived": "https://web.archive.org/web/20120512041203/http://spidermedia.ru/news/sdcc10-dexter-early-cuts-dark-echo",
@@ -11,7 +11,15 @@
     "dekster",
     "komik-kon-v-san-diego",
     "serialy",
-    "tim-shlatmann"
+    "tim-shlatmann",
+    "tv",
+    "san-diego-comic-con-international"
+  ],
+  "cover": "https://web.archive.org/web/20120512041203im_/http://spidermedia.ru/assets/images/import_image/2776.png",
+  "modx_id": 2776,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

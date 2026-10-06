@@ -4,6 +4,12 @@
   "url": "/movies/lyuk-besson-ekraniziruet-nauchno-fantasticheskij-komiks/",
   "original_url": "http://spidermedia.ru/movies/lyuk-besson-ekraniziruet-nauchno-fantasticheskij-komiks",
   "archived": "https://web.archive.org/web/20230201085819/http://spidermedia.ru/movies/lyuk-besson-ekraniziruet-nauchno-fantasticheskij-komiks",
+  "cover": "https://web.archive.org/web/20230201085819im_/http://spidermedia.ru/assets/images/news/movies/valerian/valerian-header.jpg",
+  "modx_id": 100220,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

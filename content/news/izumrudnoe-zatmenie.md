@@ -1,13 +1,23 @@
 {
   "title": "Изумрудное затмение",
-  "date": "2009-04-14T15:54:00+03:00",
+  "date": "2009-04-14T14:54:12+03:00",
   "url": "/news/izumrudnoe-zatmenie/",
+  "aliases": [
+    "/node/932/"
+  ],
   "original_url": "http://spidermedia.ru/news/izumrudnoe-zatmenie",
   "archived": "https://web.archive.org/web/20260125125240/http://spidermedia.ru/news/izumrudnoe-zatmenie",
   "tags": [
     "dc-comics",
     "green-lantern",
-    "preview"
+    "preview",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20260125125240im_/http://spidermedia.ru/assets/images/import_image/932.jpg",
+  "modx_id": 932,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

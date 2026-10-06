@@ -1,7 +1,10 @@
 {
   "title": "Тьма наступает",
-  "date": "2009-07-11T10:42:00+03:00",
+  "date": "2009-07-11T09:42:59+03:00",
   "url": "/news/tma-nastupaet/",
+  "aliases": [
+    "/node/1535/"
+  ],
   "original_url": "http://spidermedia.ru/news/tma-nastupaet",
   "archived": "https://web.archive.org/web/20251208072252/http://spidermedia.ru/news/tma-nastupaet",
   "tags": [
@@ -12,7 +15,14 @@
     "ivan-reis",
     "green-lantern",
     "dc-comics",
-    "blackest-night"
+    "blackest-night",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20251208072252im_/http://spidermedia.ru/assets/images/import_image/1535.jpg",
+  "modx_id": 1535,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

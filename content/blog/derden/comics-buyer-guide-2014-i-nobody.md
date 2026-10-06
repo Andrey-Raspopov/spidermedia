@@ -1,6 +1,6 @@
 {
   "title": "Comics buyer guide '2014/I by Nobody",
-  "date": "2013-12-21T11:53:00+03:00",
+  "date": "2013-12-21T10:53:42+03:00",
   "url": "/blog/derden/comics-buyer-guide-2014-i-nobody/",
   "original_url": "https://spidermedia.ru/blog/derden/comics-buyer-guide-2014-i-nobody",
   "archived": "https://web.archive.org/web/20251110230403/https://spidermedia.ru/blog/derden/comics-buyer-guide-2014-i-nobody",
@@ -8,6 +8,12 @@
     "vertigo",
     "dc-comics",
     "dark-horse"
+  ],
+  "cover": "https://web.archive.org/web/20150422223448im_/http://spidermedia.ru/assets/images/import_image/7577.jpg",
+  "modx_id": 7577,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

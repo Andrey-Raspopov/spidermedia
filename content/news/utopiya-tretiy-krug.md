@@ -1,7 +1,10 @@
 {
   "title": "Утопия, третий круг",
-  "date": "2009-07-08T16:18:00+03:00",
+  "date": "2009-07-08T15:18:23+03:00",
   "url": "/news/utopiya-tretiy-krug/",
+  "aliases": [
+    "/node/1509/"
+  ],
   "original_url": "http://spidermedia.ru/news/utopiya-tretiy-krug",
   "archived": "https://web.archive.org/web/20120607074243/http://spidermedia.ru/news/utopiya-tretiy-krug",
   "tags": [
@@ -14,7 +17,14 @@
     "lyudi-iks",
     "marvel",
     "mstiteli",
-    "tyomnye-lyudi-iks"
+    "tyomnye-lyudi-iks",
+    "avengers"
+  ],
+  "cover": "https://web.archive.org/web/20120607074243im_/http://spidermedia.ru/assets/images/import_image/1509.jpg",
+  "modx_id": 1509,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

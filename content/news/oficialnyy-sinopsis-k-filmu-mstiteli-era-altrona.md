@@ -1,11 +1,17 @@
 {
   "title": "Официальный синопсис к фильму «Мстители: Эра Альтрона»",
-  "date": "2014-09-17T15:49:00+03:00",
+  "date": "2014-09-17T14:49:32+03:00",
   "url": "/news/oficialnyy-sinopsis-k-filmu-mstiteli-era-altrona/",
   "original_url": "https://spidermedia.ru/news/oficialnyy-sinopsis-k-filmu-mstiteli-era-altrona",
   "archived": "https://web.archive.org/web/20240618002401/https://spidermedia.ru/news/oficialnyy-sinopsis-k-filmu-mstiteli-era-altrona",
   "tags": [
     "avengers"
+  ],
+  "cover": "https://web.archive.org/web/20150428170841im_/http://spidermedia.ru/assets/images/import_image/8073.jpg",
+  "modx_id": 8073,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

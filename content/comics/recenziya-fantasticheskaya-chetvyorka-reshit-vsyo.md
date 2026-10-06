@@ -8,6 +8,12 @@
     "parallel-comics",
     "obzor"
   ],
+  "cover": "https://web.archive.org/web/20260120145832im_/http://spidermedia.ru/assets/images/news/images/oleg-lyfar/review/f4-solve/cover-mini.jpg",
+  "modx_id": 102199,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

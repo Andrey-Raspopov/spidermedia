@@ -1,12 +1,19 @@
 {
   "title": "NBC возродит сериал \"Герои\"",
-  "date": "2014-02-23T13:13:00+03:00",
+  "date": "2014-02-23T12:13:56+03:00",
   "url": "/news/nbc-vozrodit-serial-geroi/",
   "original_url": "https://spidermedia.ru/news/nbc-vozrodit-serial-geroi",
   "archived": "https://web.archive.org/web/20260125122033/https://spidermedia.ru/news/nbc-vozrodit-serial-geroi",
   "tags": [
     "serialy",
-    "geroi"
+    "geroi",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20150503081935im_/http://spidermedia.ru/assets/images/import_image/7655.jpg",
+  "modx_id": 7655,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

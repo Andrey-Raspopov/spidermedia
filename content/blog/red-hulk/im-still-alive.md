@@ -1,6 +1,6 @@
 {
   "title": "I'm still alive",
-  "date": "2010-02-05T16:32:00+03:00",
+  "date": "2010-02-05T16:32:37+03:00",
   "url": "/blog/red-hulk/im-still-alive/",
   "original_url": "http://spidermedia.ru/blog/red-hulk/im-still-alive",
   "archived": "https://web.archive.org/web/20251208063439/http://spidermedia.ru/blog/red-hulk/im-still-alive",
@@ -14,6 +14,12 @@
     "ultimate",
     "preacher",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20251208063439im_/http://spidermedia.ru/assets/images/import_image/2339.jpg",
+  "modx_id": 2339,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

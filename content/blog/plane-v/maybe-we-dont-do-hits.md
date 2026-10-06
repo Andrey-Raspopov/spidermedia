@@ -1,11 +1,17 @@
 {
   "title": "But maybe we don't do hits",
-  "date": "2010-07-21T12:50:00+03:00",
+  "date": "2010-07-21T11:50:26+03:00",
   "url": "/blog/plane-v/maybe-we-dont-do-hits/",
   "original_url": "http://spidermedia.ru/blog/plane-v/maybe-we-dont-do-hits",
   "archived": "https://web.archive.org/web/20190924044049/http://spidermedia.ru:80/blog/plane-v/maybe-we-dont-do-hits",
   "tags": [
     "scott-pilgrim"
+  ],
+  "cover": "https://web.archive.org/web/20150502155233im_/http://spidermedia.ru/assets/images/import_image/2760.jpg",
+  "modx_id": 2760,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

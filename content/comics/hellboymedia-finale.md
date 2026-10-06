@@ -8,6 +8,12 @@
     "hellboymedia",
     "dorogaya-redakciya"
   ],
+  "cover": "https://web.archive.org/web/20251208073701im_/http://spidermedia.ru/assets/images/hellboymedia/finale/hellboymedia-finale-cover.jpg",
+  "modx_id": 101187,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,14 +1,25 @@
 {
   "title": "Что готовит нам год 2010-й",
-  "date": "2009-02-25T22:20:00+03:00",
+  "date": "2009-02-25T22:20:47+03:00",
   "url": "/news/chto-gotovit-nam-god-2010-y/",
+  "aliases": [
+    "/node/515/"
+  ],
   "original_url": "http://spidermedia.ru/news/chto-gotovit-nam-god-2010-y",
   "archived": "https://web.archive.org/web/20260208194910/http://spidermedia.ru/news/chto-gotovit-nam-god-2010-y",
   "tags": [
     "thor",
     "jonah-hex",
     "iron-man",
-    "green-lantern"
+    "green-lantern",
+    "tor",
+    "zheleznyy-chelovek"
+  ],
+  "cover": "https://web.archive.org/web/20260208194910im_/http://spidermedia.ru/assets/images/import_image/515.jpg",
+  "modx_id": 515,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,12 +1,18 @@
 {
   "title": "Отрывок из фильма \"Призрачный гонщик: Дух мщения\"",
-  "date": "2011-10-20T10:50:00+03:00",
+  "date": "2011-10-20T09:50:18+03:00",
   "url": "/news/otryvok-iz-filma-prizrachnyy-gonshchik-duh-mshcheniya/",
   "original_url": "http://spidermedia.ru/news/otryvok-iz-filma-prizrachnyy-gonshchik-duh-mshcheniya",
   "archived": "https://web.archive.org/web/20241205094457/http://spidermedia.ru/news/otryvok-iz-filma-prizrachnyy-gonshchik-duh-mshcheniya",
   "tags": [
     "marvel",
     "prizrachnyj-gonshhik"
+  ],
+  "cover": "https://web.archive.org/web/20241205094457im_/http://spidermedia.ru/assets/images/import_image/6661.jpg",
+  "modx_id": 6661,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

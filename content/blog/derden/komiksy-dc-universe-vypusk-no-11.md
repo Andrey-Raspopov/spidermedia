@@ -1,13 +1,22 @@
 {
   "title": "Комиксы DC Universe. Выпуск № 11",
-  "date": "2009-07-15T20:50:00+03:00",
+  "date": "2009-07-15T19:50:20+03:00",
   "url": "/blog/derden/komiksy-dc-universe-vypusk-no-11/",
+  "aliases": [
+    "/node/1567/"
+  ],
   "original_url": "http://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-11",
   "archived": "https://web.archive.org/web/20190929134703/http://spidermedia.ru:80/blog/derden/komiksy-dc-universe-vypusk-no-11",
   "tags": [
     "dc-universe-comics",
     "jsa",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20190929134703im_/http://spidermedia.ru/assets/images/import_image/1567.jpg",
+  "modx_id": 1567,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

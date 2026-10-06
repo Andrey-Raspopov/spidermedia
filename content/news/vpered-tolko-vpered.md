@@ -1,6 +1,6 @@
 {
   "title": "Вперед, только вперед",
-  "date": "2011-03-21T19:26:00+03:00",
+  "date": "2011-03-21T19:26:12+03:00",
   "url": "/news/vpered-tolko-vpered/",
   "original_url": "http://spidermedia.ru/news/vpered-tolko-vpered",
   "archived": "https://web.archive.org/web/20251208073337/http://spidermedia.ru/news/vpered-tolko-vpered",
@@ -10,7 +10,14 @@
     "dastin-uiver",
     "art-0",
     "s.h.i.e.l.d",
-    "marvel"
+    "marvel",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20251208073337im_/http://spidermedia.ru/assets/images/import_image/4334.jpg",
+  "modx_id": 4334,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

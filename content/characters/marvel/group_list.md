@@ -4,6 +4,9 @@
   "url": "/characters/marvel/group_list/",
   "original_url": "http://www.spidermedia.ru/characters/marvel/group_list.html",
   "archived": "https://web.archive.org/web/20050312012438/http://www.spidermedia.ru:80/characters/marvel/group_list.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

@@ -5,17 +5,22 @@
   "original_url": "https://spidermedia.ru/comics/all-things-valiant-26-week-49",
   "archived": "https://web.archive.org/web/20260125054006/https://spidermedia.ru/comics/all-things-valiant-26-week-49",
   "tags": [
-    "valiant-entertainment"
+    "valiant-entertainment",
+    "all-things-valiant"
+  ],
+  "cover": "https://web.archive.org/web/20260125054006im_/http://spidermedia.ru/assets/images/valiant/images/atv26/atv-26.jpg",
+  "modx_id": 100748,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](https://web.archive.org/web/20160611165404im_/http://spidermedia.ru/assets/cache/images/valiant/images/atv26/622x-atv-26.2e9.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv26/atv-26.jpg)
-
 С Днем Фреда Ван Ленте всех! Как, вы не знаете, что ежегодно 6 декабря Брайан Кронин, автора блога «[Comics should be good](http://goodcomics.comicbookresources.com)» на портале CBR, отмечает [это событие](http://goodcomics.comicbookresources.com/category/fred-van-lente-day/)? Так вот, на этом празднике жизни Ван Ленте объявил, что не покидает Valiant после окончания Ивара. Наоборот, у него в загашнике уже имеется следующая история для издательства. [Со слов Фреда](http://goodcomics.comicbookresources.com/2015/12/06/fred-van-lente-day-2015-chat-transcript) новый комикс не является продолжением Ивара, но будет адаптацией некого персонажа Valiant из 90-х. А теперь подробно о других событиях прошедшей недели.
 
-**[Новости](./#news) **• [Мысли](./#thoughts)** • [Рецензии](./#reviews)**
+**[Новости](#news) **• [Мысли](#thoughts)** • [Рецензии](#reviews)**
 
 В этом выпуске занимаемся водными процедурами, учимся говорить по-испански, восхищаемся фигурками на итальянском и на французском поздравляем всех с прошедшим Днем Фреда Ван Ленте!
 
@@ -31,9 +36,7 @@ Valiant Entertainment объявили об издании своих коми�
 
 Aleta Ediciones занимается переводом и изданием комиксов с 1996, Star Comics переводит комиксы дольше, чем некоторые живут, аж с 1987, и только для Bliss Comics издание серий Valiant будет дебютом в бизнесе. Эти издательства пополнили когорту зарубежных партнеров Valiant Entertainment, в которую до этого уже вошли OVNI Press Editorial из Аргентины, HQM Editora из Бразилии, Tencent из Китая, ShoPro из Японии, Kamite из Мексики, Büyülü Dükkan из Турции и Viverra из России.
 
-![](https://web.archive.org/web/20160611200602im_/http://spidermedia.ru/assets/cache/images/youtube/622x350-H8rRu0ZwzN0.3e9.jpg)
-
-[Annunciata la collaborazione tra VALIANT e EDIZIONI STAR COMICS](./) 00:00:48
+<iframe allowfullscreen="" frameborder="0" height="360" src="http://www.youtube.com/embed/H8rRu0ZwzN0?wmode=transparent" width="640"></iframe>
 
 ---
 
@@ -43,23 +46,63 @@ Aleta Ediciones занимается переводом и изданием к�
 
 Помните, еще в первом выпуске All Things Valiant Станислав [писал](../all-things-valiant-march-2015/#новости) о том, что в серии MiniMates появятся персонажи Valiant? И вот, один из наборов («Battle Damaged») попал к нам в руки, а значит, пора сделать обзор.
 
-[![](https://web.archive.org/web/20160611200456im_/http://spidermedia.ru/assets/cache/preview/100748/valiant/images/atv26/309x232-front_00.d0a.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv26/front_00.jpg) [![](https://web.archive.org/web/20160611145932im_/http://spidermedia.ru/assets/cache/preview/100748/valiant/images/atv26/309x232-back_00.d0a.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv26/back_00.jpg)
+![](https://web.archive.org/web/20260125054006im_/http://spidermedia.ru/assets/images/valiant/images/atv26/front_00.jpg) ![](https://web.archive.org/web/20260125054006im_/http://spidermedia.ru/assets/images/valiant/images/atv26/back_00.jpg)
 
 В комплект «Battle Damaged» входят две фигурки — X-O Manowar и Bloodshot — высотой примерно 5,5 см. Каждая из них снабжена небольшим набором аксессуаров. У Арика это энергетический меч, шлем и свернувшаяся в шар Шанхара. Бладшоту же выделили целый арсенал: винтовка, два пистолета, армейский нож и наплечная кобура. Также в комплекте к фигуркам идут прозрачные подставки. Помимо этого, у каждого из героев есть пара сменных голов: у Bloodshot’а, кроме обычного белого лица, присутствует окровавленный лик протокола «Харада»; у Арика, к сожалению, физиономии остаются прежними, просто одна из голов идет с бородой.
 
 Обе фигурки для своего небольшого размера невероятно подвижны. Голова, пояс, кисти и ступни вращаются на 360 градусов. Руки и ноги сгибаются в локтях и коленях и свободно двигаются относительно тела, повторяя человеческую анатомию (это вам не Lego!). Кроме того, все конечности (и голову) можно легко отсоединить и поменять местами, создавая свою собственную неповторимую мини-фигурку.
 
-[![](http://spidermedia.ru/assets/cache/preview/100748/valiant/images/atv26/204x153-arik-a00.c33.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv26/arik-a00.jpg) [![](https://web.archive.org/web/20160611141830im_/http://spidermedia.ru/assets/cache/preview/100748/valiant/images/atv26/204x153-arik-b00.c33.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv26/arik-b00.jpg) [![](https://web.archive.org/web/20160611150429im_/http://spidermedia.ru/assets/cache/preview/100748/valiant/images/atv26/204x153-arik-c00.c33.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv26/arik-c00.jpg)
-[![](https://web.archive.org/web/20160611145951im_/http://spidermedia.ru/assets/cache/preview/100748/valiant/images/atv26/204x153-bloodshot-a00.c33.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv26/bloodshot-a00.jpg) [![](https://web.archive.org/web/20160611153741im_/http://spidermedia.ru/assets/cache/preview/100748/valiant/images/atv26/204x153-bloodshot-b00.c33.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv26/bloodshot-b00.jpg) [![](https://web.archive.org/web/20160611202840im_/http://spidermedia.ru/assets/cache/preview/100748/valiant/images/atv26/204x153-bloodshot-c00.c33.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv26/bloodshot-c00.jpg)
+![](https://web.archive.org/web/20260125054006im_/http://spidermedia.ru/assets/images/valiant/images/atv26/arik-a00.jpg) ![](https://web.archive.org/web/20260125054006im_/http://spidermedia.ru/assets/images/valiant/images/atv26/arik-b00.jpg) ![](https://web.archive.org/web/20260125054006im_/http://spidermedia.ru/assets/images/valiant/images/atv26/arik-c00.jpg)
+![](https://web.archive.org/web/20260125054006im_/http://spidermedia.ru/assets/images/valiant/images/atv26/bloodshot-a00.jpg) ![](https://web.archive.org/web/20260125054006im_/http://spidermedia.ru/assets/images/valiant/images/atv26/bloodshot-b00.jpg) ![](https://web.archive.org/web/20260125054006im_/http://spidermedia.ru/assets/images/valiant/images/atv26/bloodshot-c00.jpg)
 
 Лица и торсы МиниМэйтов очень качественно покрашены, но на резиновых деталях фигурок (кисти рук и волосы) принт немного «плывет». Самым главным недостатком набора я бы назвал плохо исполненный шлем Арика. Он раскрашен крайне небрежно, а для визора использован очень мутный пластик, из-за чего лицо мини-фигурки при надетом шлеме смотрится смазано.
 
 В итоге, данный набор — прекрасная возможность за небольшую плату (официальная цена 9,99$) заполучить физические воплощения любимых персонажей, причем весьма хорошего качества. А цифровые копии комиксов (X-O Manowar #1 и Bloodshot #1) станут приятным дополнением к покупке.
 
-[![](https://web.archive.org/web/20160611200520im_/http://spidermedia.ru/assets/cache/preview/100748/valiant/images/atv26/309x205-a-b-a00.938.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv26/a-b-a00.jpg) [![](http://spidermedia.ru/assets/cache/preview/100748/valiant/images/atv26/309x205-a-b-b00.938.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv26/a-b-b00.jpg)
+![](https://web.archive.org/web/20260125054006im_/http://spidermedia.ru/assets/images/valiant/images/atv26/a-b-a00.jpg) ![](https://web.archive.org/web/20260125054006im_/http://spidermedia.ru/assets/images/valiant/images/atv26/a-b-b00.jpg)
 
 ---
 
 **ЧТО МЫ ПРОЧИТАЛИ**
 
 ---
+
+a:1:{i:1;a:7:{s:5:"autor";a:3:{i:1;a:2:{i:0;s:16:"Сценарий";i:1;s:29:"Роберт Вендитти";}i:3;a:2:{i:0;s:14:"Рисунок";i:1;s:29:"Фрэнсис Портела";}i:5;a:2:{i:0;s:8:"Цвет";i:1;s:25:"Эндрю Долхауз";}}s:4:"name";s:27:"X-O Manowar Commander Trill";s:7:"edition";s:0:"";s:5:"cover";s:53:"assets/images/valiant/images/atv26/xo-trill_cover.jpg";s:9:"publisher";s:4:"1249";s:4:"year";s:4:"2015";s:8:"comments";a:2:{i:1;a:4:{s:5:"autor";s:6:"183732";s:4:"text";s:5933:"
+
+Свой юбилейный год издательство Valiant решило закрыть красиво. Посудите сами, в декабре завершаются сюжеты в Rai и Boodshot Reborn, а Unity и Ivar, Timewalker подходят к концу, и наконец-то возвращаются Shadowman (пусть и в другой серии) и Doctor Mirage. У X-O Manowar же выходит Commander Trill #0. Комикс, чья единственная задача (пусть анонс и пытается убедить нас в обратном) — не оставить этот месяц без бронированного вестгота, при этом плавно перенеся старт нового арка на будущий год.
+
+Насмотревшись на неудачные попытки сородичей подчинить броню, юный Варгош Трилл решает сделать все возможное, чтобы стать достойным Шанхары.
+
+![](https://web.archive.org/web/20260125054006im_/http://spidermedia.ru/assets/images/valiant/images/atv26/commander-trill-001.jpg)
+
+*Сектор «Смерть» на барабане!*
+
+Роберт Вендитти не стал особо заморачиваться и подарил Триллу чисто «киллгрейвовскую» модель поведения — [я убью кучу народа](http://spidermedia.ru/assets/images/valiant/files/atv26/commander-trill-a001.jpg), и ты (тут место Джессики занимает Шанхара) будешь моей. Конечно он стремился к ней всю свою жизнь и все такое, но неужели нельзя было придумать что-то оригинальнее мотивации отвергнутого мужчины? Меня бы на месте Трилла больше волновало то, что святыня его народа избрала человека, а не Vine. И я бы прежде возненавидел броню вместе со лживой религией, чем ее нового носителя.
+
+И еще немного о Трилле. Логично, что Valiant избрало именного пришельца-Vine главным врагом Арика. Это хороший ход, учитывая положение X-O Manowar’а в мировоззрении теперь уже бывших жителей планеты Лоам, но Трилл, как злодей, практически ничем не выделяется. Единственное, что делает его не похожим на собратьев, это красные доспехи да отсутствие одного глаза. Хотя [сейчас](http://spidermedia.ru/assets/images/valiant/files/atv26/commander-trill-a002.jpg) из отличий остался только шрам. Все-таки arch-nemesis должен выглядеть эффектнее. Вон, [не раз](../all-things-valiant-19-week-42/#item3) [упомянутая](../all-things-valiant-25-week-48/#item2) Жаклин обладает куда большей харизмой.
+
+Но главное разочарование выпуска — это то (простите мою кровожадность), что Верховный Жрец все еще жив. Его смерть могла бы стать неплохим двигателем для сюжета — Vine в чужом мире остались без духовного лидера — из этого можно было бы развить что-нибудь интересное. Например, некоторые пришельцы, отчаявшись, перешли бы на сторону Трилла. Но Вендитти еще может его убить, хотя кого я обманываю, он этого не сделает.
+
+Фрэнсису Портеле, кажется, нашли идеальное применение — изображать пришельцев. Художник, который скорее рисует движущиеся манекены, а не людей, здесь чувствует себя превосходно. Vine у него выходят отлично, пусть и слегка на одно лицо, но когда дело доходит до Арика, получается [вот что](http://spidermedia.ru/assets/images/valiant/files/atv26/commander-trill-a003.jpg). Слава Богу, [Саана сидит спиной](http://spidermedia.ru/assets/images/valiant/files/atv26/commander-trill-a004.jpg)! Но нельзя не отметить [интересные решения](http://spidermedia.ru/assets/images/valiant/files/atv26/commander-trill-a005.jpg) в композиции кадров на странице.
+
+Этот комикс словно дистиллированная вода. Выглядит красиво (прозрачненько, без примесей), но нет ни «вкуса», ни «цвета», ни «запаха». А вода, как известно...
+
+";s:8:"mjdzText";s:0:"";s:10:"conclusion";s:8:"ЖИЖА";}i:2;a:4:{s:5:"autor";s:6:"183731";s:4:"text";s:5441:"
+
+Воображение – двигатель комикса. Но если для хорошего комикса оно благо, а в плохом не работает, то для посредственного – сила воображения худший враг. К сожалению, наш сегодняшний гость из этой оперы: профессионально сделанный, четко выверенный, скучный до зевоты.
+
+![](https://web.archive.org/web/20260125054006im_/http://spidermedia.ru/assets/images/valiant/images/atv26/x-o-manowar-commander-trill-image-1.jpg)
+
+Это персональный выпуск о Трилле, который ничего нового не сообщает о персонаже, что не было уже сказано в [4](http://spidermedia.ru/assets/images/valiant/files/atv26/x-o-manowar-commander-trill-example-1.jpg), [пару раз](http://spidermedia.ru/assets/images/valiant/files/atv26/x-o-manowar-commander-trill-example-2.jpg) в [9](http://spidermedia.ru/assets/images/valiant/files/atv26/x-o-manowar-commander-trill-example-3.jpg) и в [10](http://spidermedia.ru/assets/images/valiant/files/atv26/x-o-manowar-commander-trill-example-4.jpg) номерах. Или о чем талдычили весь прошлый арк. Это та же ненависть к Арику, исходящая из зависти и желания Трилла самому носить Шанхару. Хотя, казалось бы, в самом комиксе есть прекрасная подсказка, как рассказать все то же самое и при этом быть интересным. Стоить положить в фокус истории одну из множеств военных компаний Трилла и у нас была бы вариация на «[Звездный десант](http://www.kinopoisk.ru/film/6025/)», в котором тактический гений стремительных атак и жестокость "главного героя" объяснялись бы [страхом](http://spidermedia.ru/assets/images/valiant/files/atv26/x-o-manowar-commander-trill-example-5.jpg) услышать, что очередная «Церемония уз» прошла успешно пока он сражался. Это дало бы как необходимый уровень сопереживания протагонисту, так и возможность рисовать больше изобретательного экшена. Профессионализм Вендитти вполне бы смог вытянуть подобную историю.
+
+Но, увы, имеем, что имеем. А именно, скучный закадровый монолог умирающего Верховного жреца, который вырос и путешествовал вместе с Триллом. Вот только они не были [ни братьями](https://youtu.be/Nzq9epS2b1A), [ни друзьями](https://youtu.be/uNoedMKeVQk), они были едва знакомы. Так почему же Верховный жрец тратит свои последние минуты, вспоминая завистливого забияку? Ах, говорите, сюжет! Лады.
+
+Хотя, не стоит обманываться, у комикса явные нелады в месте встречи истории и рекапа. Последние 4 страницы номер рвет с места неторопливого течения истории. Возникает ощущение, что сценарист в упоении писал, а когда настало время закругляться, он просто скомкал события в надежде, что пипл схавает.
+
+![](https://web.archive.org/web/20260125054006im_/http://spidermedia.ru/assets/images/valiant/images/atv26/x-o-manowar-commander-trill-image-2.jpg)
+
+И пипл бы не хавал, если бы не фаст-фуд иллюстраций. Жирный, лоснящийся, слегка приглушенный цвет дополняет толстые линии Фрэнсиса Портелы. А вечный оранжевый световой соус Эндрю Долхауза только придает аппетита интересной задумке Портелы с [окружностями-фреймами](http://spidermedia.ru/assets/images/valiant/files/atv26/x-o-manowar-commander-trill-example-6.jpg), подчеркивающими величие Шанхары. Хотя, как и в любой забегаловке, эта изобретательная картинка только предлог, чтобы скормить вам стандартную раскадровку.
+
+Данный комикс напоминает знаменитый [монолог Райкина](https://youtu.be/heUq31_Zyd0?t=280). Мы не можем предъявить претензии к «пуговицам», комикс сделан профессионально. Вот только профессионализм не спасает костюм, севший в лужу. А лужа –  это, как известно,
+
+";s:8:"mjdzText";s:0:"";s:10:"conclusion";s:8:"ЖИЖА";}}}}

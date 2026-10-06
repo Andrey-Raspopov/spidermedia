@@ -1,6 +1,6 @@
 {
   "title": "Кирон Гиллен: начало и конец",
-  "date": "2013-07-20T05:49:00+03:00",
+  "date": "2013-07-20T04:49:26+03:00",
   "url": "/news/kiron-gillen-nachalo-i-konec/",
   "original_url": "http://spidermedia.ru/news/kiron-gillen-nachalo-i-konec",
   "archived": "https://web.archive.org/web/20251207011333/http://spidermedia.ru/news/kiron-gillen-nachalo-i-konec",
@@ -12,6 +12,12 @@
     "dzheymi-makkelvi",
     "adam-kubert",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20251207011333im_/http://spidermedia.ru/assets/images/import_image/7363.jpg",
+  "modx_id": 7363,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

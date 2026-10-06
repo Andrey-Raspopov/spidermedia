@@ -1,12 +1,18 @@
 {
   "title": "Правильный Росомаха",
-  "date": "2011-11-01T11:00:00+03:00",
+  "date": "2011-11-01T10:00:55+03:00",
   "url": "/news/pravilnyy-rosomaha/",
   "original_url": "http://spidermedia.ru/news/pravilnyy-rosomaha",
   "archived": "https://web.archive.org/web/20250804010551/http://spidermedia.ru/news/pravilnyy-rosomaha",
   "tags": [
     "wolverine",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20250804010551im_/http://spidermedia.ru/assets/images/import_image/6678.jpg",
+  "modx_id": 6678,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

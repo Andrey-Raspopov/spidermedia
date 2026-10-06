@@ -9,6 +9,12 @@
     "batman",
     "batman-week"
   ],
+  "cover": "https://web.archive.org/web/20170306122346im_/http://spidermedia.ru/assets/images/mzhdz/2016/batman/fox/pic-6.jpg",
+  "modx_id": 101343,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

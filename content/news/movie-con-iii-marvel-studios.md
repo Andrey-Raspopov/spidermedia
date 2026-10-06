@@ -1,7 +1,10 @@
 {
   "title": "Movie-Con III: Marvel Studios",
-  "date": "2010-08-14T17:41:00+03:00",
+  "date": "2010-08-14T16:41:12+03:00",
   "url": "/news/movie-con-iii-marvel-studios/",
+  "aliases": [
+    "/node/2859/"
+  ],
   "original_url": "http://spidermedia.ru/news/movie-con-iii-marvel-studios",
   "archived": "https://web.archive.org/web/20250616085719/http://spidermedia.ru/news/movie-con-iii-marvel-studios",
   "tags": [
@@ -11,7 +14,14 @@
     "marvel",
     "joss-whedon",
     "captain-america",
-    "avengers"
+    "avengers",
+    "tor"
+  ],
+  "cover": "https://web.archive.org/web/20250616085719im_/http://spidermedia.ru/assets/images/import_image/2859.jpg",
+  "modx_id": 2859,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
@@ -29,7 +39,7 @@
 ![Photobucket](https://web.archive.org/web/20250616085719im_/http://img.photobucket.com/albums/v497/spidermedia/2-28.jpg)
 
 - **Дона Блейка** *(Don Blake)*, как отдельного персонажа, в фильме "Тор" ждать не стоит. Но само имя будет использовано **Тором** *(Thor)*, как прикрытие во время его пребывания на Земле.
-- Многие зрители согласились, что [**Комик-Коновский** *(San Diego Comic-Con 2010)* футадж "Тора"](../../node/2820/) выглядел замечательно в **3D**.
+- Многие зрители согласились, что [**Комик-Коновский** *(San Diego Comic-Con 2010)* футадж "Тора"](../sdcc10-pervyy-futadzh-filma-tor/) выглядел замечательно в **3D**.
 - Файги с Бранной сказали, что до релиза фильма ещё много времени, так что процессом конвертации займутся в полную силу.
 - Кто-то из зала задал вопрос: будет ли **Локи** *(Loki)* главным злодеем фильма "Мстители", на что Кевин Файги растерянно ответил: *"В нашей вселенной мы имеем доступ ко многим персонажам. И Локи как раз из таких. Так что всё возможно"*.
 - Напоследок всем показали [тизер "Мстителей"](http://spidermedia.ru/node/2834) и специальное сообщение от Джосса Уидона, в котором он говорил о том, что сейчас идёт кропотливая работа над сценарием фильма. Уидон обещает всем захватывающее и удивительное зрелище.

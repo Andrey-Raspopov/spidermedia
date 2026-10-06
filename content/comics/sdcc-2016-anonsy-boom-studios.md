@@ -7,6 +7,12 @@
   "tags": [
     "boom-studios"
   ],
+  "cover": "https://web.archive.org/web/20180205070005im_/http://spidermedia.ru/assets/images/newgallery/gallery1231/wwe1.jpg",
+  "modx_id": 101296,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

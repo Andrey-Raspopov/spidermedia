@@ -1,7 +1,10 @@
 {
   "title": "Оружие Бессмертия",
-  "date": "2009-04-06T01:55:00+03:00",
+  "date": "2009-04-06T00:55:22+03:00",
   "url": "/news/oruzhie-bessmertiya/",
+  "aliases": [
+    "/node/863/"
+  ],
   "original_url": "http://spidermedia.ru/news/oruzhie-bessmertiya",
   "archived": "https://web.archive.org/web/20170425103750/http://spidermedia.ru:80/news/oruzhie-bessmertiya",
   "tags": [
@@ -9,6 +12,12 @@
     "bessmertnye-oruzhiya",
     "marvel",
     "immortal-weapons"
+  ],
+  "cover": "https://web.archive.org/web/20170425103750im_/http://spidermedia.ru/assets/images/import_image/863.jpg",
+  "modx_id": 863,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

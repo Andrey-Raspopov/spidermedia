@@ -1,6 +1,6 @@
 {
   "title": "Зеленый и поющий",
-  "date": "2009-05-16T19:33:00+03:00",
+  "date": "2009-05-16T18:33:17+03:00",
   "url": "/news/zelenyy-i-poyushchiy/",
   "original_url": "https://spidermedia.ru/news/zelenyy-i-poyushchiy",
   "archived": "https://web.archive.org/web/20240812082002/https://spidermedia.ru/news/zelenyy-i-poyushchiy",
@@ -9,6 +9,11 @@
     "spider-man-turn-off-the-dark",
     "myuzikl",
     "alan-kamming"
+  ],
+  "modx_id": 1215,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

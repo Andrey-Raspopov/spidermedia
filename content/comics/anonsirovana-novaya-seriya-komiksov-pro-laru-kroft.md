@@ -5,7 +5,14 @@
   "original_url": "http://spidermedia.ru/comics/anonsirovana-novaya-seriya-komiksov-pro-laru-kroft",
   "archived": "https://web.archive.org/web/20250512122134/http://spidermedia.ru/comics/anonsirovana-novaya-seriya-komiksov-pro-laru-kroft",
   "tags": [
-    "komik-kon-v-nyu-yorke"
+    "komik-kon-v-nyu-yorke",
+    "nycc-2015"
+  ],
+  "cover": "https://web.archive.org/web/20250512122134im_/http://spidermedia.ru/assets/images/comic-con/2015/nycc/tomb-raider/tomb-raider.jpg",
+  "modx_id": 100636,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

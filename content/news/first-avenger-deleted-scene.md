@@ -1,6 +1,6 @@
 {
   "title": "Удаленная сцена из \"Первого мстителя\"",
-  "date": "2011-10-19T10:20:00+03:00",
+  "date": "2011-10-19T09:20:00+03:00",
   "url": "/news/first-avenger-deleted-scene/",
   "original_url": "https://spidermedia.ru/news/first-avenger-deleted-scene",
   "archived": "https://web.archive.org/web/20250617233814/https://spidermedia.ru/news/first-avenger-deleted-scene",
@@ -8,6 +8,12 @@
     "marvel",
     "howl",
     "captain-america"
+  ],
+  "cover": "https://web.archive.org/web/20250617233814im_/http://spidermedia.ru/assets/images/import_image/6657.jpg",
+  "modx_id": 6657,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

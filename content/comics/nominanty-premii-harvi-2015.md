@@ -4,6 +4,12 @@
   "url": "/comics/nominanty-premii-harvi-2015/",
   "original_url": "https://spidermedia.ru/comics/nominanty-premii-harvi-2015",
   "archived": "https://web.archive.org/web/20251205122936/https://spidermedia.ru/comics/nominanty-premii-harvi-2015",
+  "cover": "https://web.archive.org/web/20251205122936im_/http://spidermedia.ru/assets/images/news/stuff/harveyawards.jpg",
+  "modx_id": 100391,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,6 +1,6 @@
 {
   "title": "Несвятая троица",
-  "date": "2013-04-08T05:51:00+03:00",
+  "date": "2013-04-08T04:51:17+03:00",
   "url": "/news/nesvyataya-troica/",
   "original_url": "http://spidermedia.ru/news/nesvyataya-troica",
   "archived": "https://web.archive.org/web/20260309183406/http://spidermedia.ru/news/nesvyataya-troica",
@@ -14,6 +14,12 @@
     "ajvan-rejs",
     "justice-league-dark",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20260309183406im_/http://spidermedia.ru/assets/images/import_image/7186.jpg",
+  "modx_id": 7186,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Враги под стать",
-  "date": "2013-04-03T05:01:00+03:00",
+  "date": "2013-04-03T04:01:31+03:00",
   "url": "/news/vragi-pod-stat/",
   "original_url": "https://spidermedia.ru/news/vragi-pod-stat",
   "archived": "https://web.archive.org/web/20251216123159/https://spidermedia.ru/news/vragi-pod-stat",
@@ -9,6 +9,12 @@
     "spider-man",
     "stiv-liber",
     "nik-spenser"
+  ],
+  "cover": "https://web.archive.org/web/20150424085801im_/http://spidermedia.ru/assets/images/import_image/7177.jpg",
+  "modx_id": 7177,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

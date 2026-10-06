@@ -1,12 +1,18 @@
 {
   "title": "Рецензия на фильм \"Черепашки-Ниндзя\"",
-  "date": "2014-08-07T12:15:00+03:00",
+  "date": "2014-08-07T11:15:55+03:00",
   "url": "/blog/igrok/recenziya-na-film-cherepashki-nindzya/",
   "original_url": "http://spidermedia.ru/blog/igrok/recenziya-na-film-cherepashki-nindzya",
   "archived": "https://web.archive.org/web/20251208071217/http://spidermedia.ru/blog/igrok/recenziya-na-film-cherepashki-nindzya",
   "tags": [
     "ninja-turtles",
     "recenziya"
+  ],
+  "cover": "https://web.archive.org/web/20160430185425im_/http://spidermedia.ru/assets/images/import_image/7970.jpg",
+  "modx_id": 7970,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

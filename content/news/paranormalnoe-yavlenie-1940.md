@@ -1,6 +1,6 @@
 {
   "title": "Паранормальное явление 1940",
-  "date": "2012-11-17T10:17:00+03:00",
+  "date": "2012-11-17T09:17:11+03:00",
   "url": "/news/paranormalnoe-yavlenie-1940/",
   "original_url": "http://spidermedia.ru/news/paranormalnoe-yavlenie-1940",
   "archived": "https://web.archive.org/web/20260125060825/http://spidermedia.ru/news/paranormalnoe-yavlenie-1940",
@@ -10,6 +10,12 @@
     "idw-publishing",
     "rocketeer",
     "raketchik"
+  ],
+  "cover": "https://web.archive.org/web/20150424211456im_/http://spidermedia.ru/assets/images/import_image/7089.jpg",
+  "modx_id": 7089,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

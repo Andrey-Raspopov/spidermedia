@@ -1,6 +1,6 @@
 {
   "title": "Обложка и страница из \"Пантеон №4\"",
-  "date": "2013-10-05T12:43:00+03:00",
+  "date": "2013-10-05T11:43:45+03:00",
   "url": "/news/oblozhka-i-stranica-iz-panteon-no4/",
   "original_url": "http://spidermedia.ru/news/oblozhka-i-stranica-iz-panteon-no4",
   "archived": "https://web.archive.org/web/20251216173001/http://spidermedia.ru/news/oblozhka-i-stranica-iz-panteon-no4",
@@ -8,6 +8,12 @@
     "russian-comics",
     "belyj-edinorog",
     "filipp-sosedov"
+  ],
+  "cover": "https://web.archive.org/web/20251216173001im_/http://spidermedia.ru/assets/images/import_image/7493.jpg",
+  "modx_id": 7493,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

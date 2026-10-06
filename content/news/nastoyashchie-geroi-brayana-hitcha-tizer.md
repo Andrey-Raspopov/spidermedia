@@ -1,12 +1,19 @@
 {
   "title": "\"Настоящие герои\" Брайана Хитча (ТИЗЕР)",
-  "date": "2013-10-29T11:59:00+03:00",
+  "date": "2013-10-29T10:59:42+03:00",
   "url": "/news/nastoyashchie-geroi-brayana-hitcha-tizer/",
   "original_url": "https://spidermedia.ru/news/nastoyashchie-geroi-brayana-hitcha-tizer",
   "archived": "https://web.archive.org/web/20260307053818/https://spidermedia.ru/news/nastoyashchie-geroi-brayana-hitcha-tizer",
   "tags": [
     "image-comics",
-    "bryan-hitch"
+    "bryan-hitch",
+    "brayan-hitch"
+  ],
+  "cover": "https://web.archive.org/web/20160320082726im_/http://spidermedia.ru/assets/images/import_image/7518.jpg",
+  "modx_id": 7518,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

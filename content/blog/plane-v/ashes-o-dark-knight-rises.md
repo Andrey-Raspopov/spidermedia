@@ -1,12 +1,18 @@
 {
   "title": "Is Ashes // о The Dark Knight Rises",
-  "date": "2012-07-27T08:19:00+03:00",
+  "date": "2012-07-27T07:19:24+03:00",
   "url": "/blog/plane-v/ashes-o-dark-knight-rises/",
   "original_url": "https://spidermedia.ru/blog/plane-v/ashes-o-dark-knight-rises",
   "archived": "https://web.archive.org/web/20251115024019/https://spidermedia.ru/blog/plane-v/ashes-o-dark-knight-rises",
   "tags": [
     "batman",
     "dark-knight-rises"
+  ],
+  "cover": "https://web.archive.org/web/20150326121332im_/http://spidermedia.ru/assets/images/import_image/6991.jpg",
+  "modx_id": 6991,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

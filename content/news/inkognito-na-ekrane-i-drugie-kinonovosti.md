@@ -1,7 +1,10 @@
 {
   "title": "Инкогнито на экране и другие киноновости",
-  "date": "2010-05-01T13:15:00+03:00",
+  "date": "2010-05-01T12:15:32+03:00",
   "url": "/news/inkognito-na-ekrane-i-drugie-kinonovosti/",
+  "aliases": [
+    "/node/2595/"
+  ],
   "original_url": "http://spidermedia.ru/news/inkognito-na-ekrane-i-drugie-kinonovosti",
   "archived": "https://web.archive.org/web/20260215081733/http://spidermedia.ru/news/inkognito-na-ekrane-i-drugie-kinonovosti",
   "tags": [
@@ -17,7 +20,14 @@
     "icon-comics",
     "dc-comics",
     "captain-america",
-    "batman"
+    "batman",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20260215081733im_/http://spidermedia.ru/assets/images/import_image/2595.jpg",
+  "modx_id": 2595,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

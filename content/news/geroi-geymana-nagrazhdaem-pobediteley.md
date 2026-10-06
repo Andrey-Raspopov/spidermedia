@@ -1,6 +1,6 @@
 {
   "title": "Герои Геймана: Награждаем победителей!",
-  "date": "2012-01-12T15:46:00+03:00",
+  "date": "2012-01-12T14:46:15+03:00",
   "url": "/news/geroi-geymana-nagrazhdaem-pobediteley/",
   "original_url": "https://spidermedia.ru/news/geroi-geymana-nagrazhdaem-pobediteley",
   "archived": "https://web.archive.org/web/20260306000309/https://spidermedia.ru/news/geroi-geymana-nagrazhdaem-pobediteley",
@@ -14,6 +14,12 @@
     "challenge",
     "lyucifer",
     "neil-gaiman-sandman"
+  ],
+  "cover": "https://web.archive.org/web/20160611150952im_/http://spidermedia.ru/assets/images/import_image/6752.jpg",
+  "modx_id": 6752,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

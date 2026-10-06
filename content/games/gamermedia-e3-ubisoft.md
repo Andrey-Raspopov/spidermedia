@@ -7,6 +7,12 @@
   "tags": [
     "gamermedia"
   ],
+  "cover": "https://web.archive.org/web/20250618112341im_/http://spidermedia.ru/assets/images/games/gamediad2u.jpg",
+  "modx_id": 101218,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

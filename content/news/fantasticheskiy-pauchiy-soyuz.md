@@ -1,6 +1,6 @@
 {
   "title": "Фантастический паучий союз",
-  "date": "2011-01-27T20:38:00+03:00",
+  "date": "2011-01-27T20:38:07+03:00",
   "url": "/news/fantasticheskiy-pauchiy-soyuz/",
   "original_url": "http://spidermedia.ru/news/fantasticheskiy-pauchiy-soyuz",
   "archived": "https://web.archive.org/web/20250422035347/http://spidermedia.ru/news/fantasticheskiy-pauchiy-soyuz",
@@ -12,7 +12,15 @@
     "dzhonatan-hikman",
     "art-0",
     "marvel",
-    "spider-man"
+    "spider-man",
+    "art",
+    "fantasticheskaya-chetverka"
+  ],
+  "cover": "https://web.archive.org/web/20250422035347im_/http://spidermedia.ru/assets/images/import_image/3194.jpg",
+  "modx_id": 3194,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

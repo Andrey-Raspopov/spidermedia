@@ -1,6 +1,6 @@
 {
   "title": "Сиквел \"Человека из стали\" анонсирован",
-  "date": "2013-06-11T15:51:00+03:00",
+  "date": "2013-06-11T14:51:54+03:00",
   "url": "/news/sikvel-cheloveka-iz-stali-anonsirovan/",
   "original_url": "https://spidermedia.ru/news/sikvel-cheloveka-iz-stali-anonsirovan",
   "archived": "https://web.archive.org/web/20260125061946/https://spidermedia.ru/news/sikvel-cheloveka-iz-stali-anonsirovan",
@@ -9,6 +9,12 @@
     "justice-league",
     "man-of-steel",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20260125061946im_/http://spidermedia.ru/assets/images/import_image/7272.jpg",
+  "modx_id": 7272,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

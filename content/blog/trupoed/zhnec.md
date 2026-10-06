@@ -1,11 +1,19 @@
 {
   "title": "Жнец",
-  "date": "2009-06-14T22:54:00+03:00",
+  "date": "2009-06-14T21:54:37+03:00",
   "url": "/blog/trupoed/zhnec/",
+  "aliases": [
+    "/node/1420/"
+  ],
   "original_url": "https://spidermedia.ru/blog/trupoed/zhnec",
   "archived": "https://web.archive.org/web/20240803161102/https://spidermedia.ru/blog/trupoed/zhnec",
   "tags": [
     "russian-comics"
+  ],
+  "modx_id": 1420,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

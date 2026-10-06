@@ -1,7 +1,10 @@
 {
   "title": "Мультфильм \"G.I. Joe: Resolute\", UPD: Трейлер",
-  "date": "2009-04-16T22:00:00+03:00",
+  "date": "2009-04-16T21:00:27+03:00",
   "url": "/news/multfilm-gi-joe-resolute-upd-treyler/",
+  "aliases": [
+    "/node/949/"
+  ],
   "original_url": "http://spidermedia.ru/news/multfilm-gi-joe-resolute-upd-treyler",
   "archived": "https://web.archive.org/web/20260120145615/http://spidermedia.ru/news/multfilm-gi-joe-resolute-upd-treyler",
   "tags": [
@@ -13,6 +16,12 @@
     "kartinki",
     "warren-ellis",
     "dzhi-aj-dzho"
+  ],
+  "cover": "https://web.archive.org/web/20150326142902im_/http://spidermedia.ru/assets/images/import_image/949.jpg",
+  "modx_id": 949,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,12 +1,18 @@
 {
   "title": "O hai, Lauren Sankovitch!",
-  "date": "2009-04-07T18:55:00+03:00",
+  "date": "2009-04-07T17:55:29+03:00",
   "url": "/blog/gess/o-hai-lauren-sankovitch/",
   "original_url": "https://spidermedia.ru/blog/gess/o-hai-lauren-sankovitch",
   "archived": "https://web.archive.org/web/20260115061952/https://spidermedia.ru/blog/gess/o-hai-lauren-sankovitch",
   "tags": [
     "redaktory",
     "mardzhori-lyu"
+  ],
+  "cover": "https://web.archive.org/web/20260115061952im_/http://spidermedia.ru/assets/images/import_image/879.jpg",
+  "modx_id": 879,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

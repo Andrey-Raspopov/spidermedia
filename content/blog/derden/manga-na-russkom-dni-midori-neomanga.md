@@ -1,6 +1,6 @@
 {
   "title": "Манга на русском: «Дни Мидори» (Неоманга)",
-  "date": "2014-11-13T16:08:00+03:00",
+  "date": "2014-11-13T16:08:41+03:00",
   "url": "/blog/derden/manga-na-russkom-dni-midori-neomanga/",
   "original_url": "https://spidermedia.ru/blog/derden/manga-na-russkom-dni-midori-neomanga",
   "archived": "https://web.archive.org/web/20251211022512/https://spidermedia.ru/blog/derden/manga-na-russkom-dni-midori-neomanga",
@@ -9,6 +9,12 @@
     "inoue-kadzuro",
     "dni-midori",
     "midori-no-hibi"
+  ],
+  "cover": "https://web.archive.org/web/20251211022512im_/http://spidermedia.ru/assets/images/import_image/8286.jpg",
+  "modx_id": 8286,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

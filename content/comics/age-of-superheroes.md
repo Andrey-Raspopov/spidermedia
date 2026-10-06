@@ -8,6 +8,12 @@
     "knigi",
     "recenziya"
   ],
+  "cover": "https://web.archive.org/web/20160323152350im_/http://spidermedia.ru/assets/images/reviews/izoteka/ageofsuperheroes.jpg",
+  "modx_id": 100087,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

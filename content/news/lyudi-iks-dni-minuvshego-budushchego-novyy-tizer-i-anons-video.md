@@ -1,13 +1,21 @@
 {
   "title": "\"Люди Икс: Дни минувшего будущего\": Новый тизер и анонс (ВИДЕО)",
-  "date": "2014-01-24T13:39:00+03:00",
+  "date": "2014-01-24T12:39:13+03:00",
   "url": "/news/lyudi-iks-dni-minuvshego-budushchego-novyy-tizer-i-anons-video/",
   "original_url": "https://spidermedia.ru/news/lyudi-iks-dni-minuvshego-budushchego-novyy-tizer-i-anons-video",
   "archived": "https://web.archive.org/web/20260125065206/https://spidermedia.ru/news/lyudi-iks-dni-minuvshego-budushchego-novyy-tizer-i-anons-video",
   "tags": [
     "x-men",
     "days-of-future-past",
-    "lyudi-iks-pervyj-klass"
+    "lyudi-iks-pervyj-klass",
+    "lyudi-iks",
+    "dni-minuvshego-budushhego"
+  ],
+  "cover": "https://web.archive.org/web/20260125065206im_/http://spidermedia.ru/assets/images/import_image/7612.jpg",
+  "modx_id": 7612,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "Февральские Бэтмен и Робин",
-  "date": "2009-11-21T22:04:00+03:00",
+  "date": "2009-11-21T22:04:37+03:00",
   "url": "/news/fevralskie-betmen-i-robin/",
+  "aliases": [
+    "/node/2124/"
+  ],
   "original_url": "http://spidermedia.ru/news/fevralskie-betmen-i-robin",
   "archived": "https://web.archive.org/web/20251013185344/http://spidermedia.ru/news/fevralskie-betmen-i-robin",
   "tags": [
@@ -13,6 +16,11 @@
     "dc-comics",
     "blackest-night",
     "batman"
+  ],
+  "modx_id": 2124,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

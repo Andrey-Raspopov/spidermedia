@@ -7,6 +7,12 @@
   "tags": [
     "image-comics"
   ],
+  "cover": "https://web.archive.org/web/20260120162255im_/http://spidermedia.ru/assets/images/movies/other/i-kill-giants/madison-wolfe.jpg",
+  "modx_id": 100539,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

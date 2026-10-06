@@ -1,6 +1,6 @@
 {
   "title": "\"Новый Человек-Паук: Высокое напряжение\": Промо",
-  "date": "2013-12-06T03:08:00+03:00",
+  "date": "2013-12-06T02:08:19+03:00",
   "url": "/news/novyy-chelovek-pauk-vysokoe-napryazhenie-promo/",
   "original_url": "http://spidermedia.ru/news/novyy-chelovek-pauk-vysokoe-napryazhenie-promo",
   "archived": "https://web.archive.org/web/20251216172809/http://spidermedia.ru/news/novyy-chelovek-pauk-vysokoe-napryazhenie-promo",
@@ -10,6 +10,12 @@
     "spider-man",
     "mark-uebb",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20251216172809im_/http://spidermedia.ru/assets/images/import_image/7568.jpg",
+  "modx_id": 7568,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

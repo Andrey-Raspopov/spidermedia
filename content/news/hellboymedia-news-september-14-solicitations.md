@@ -1,11 +1,17 @@
 {
   "title": "Hellboymedia: Анонсы на Сентябрь ’14",
-  "date": "2014-06-17T23:46:00+03:00",
+  "date": "2014-06-17T22:46:35+03:00",
   "url": "/news/hellboymedia-news-september-14-solicitations/",
   "original_url": "http://spidermedia.ru/news/hellboymedia-news-september-14-solicitations",
   "archived": "https://web.archive.org/web/20260121013917/http://spidermedia.ru/news/hellboymedia-news-september-14-solicitations",
   "tags": [
     "hellboymedia"
+  ],
+  "cover": "https://web.archive.org/web/20160611210634im_/http://spidermedia.ru/assets/images/hellboymedia/solicitations/14-09-september/september-14-solicitations-cover.jpg",
+  "modx_id": 7823,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

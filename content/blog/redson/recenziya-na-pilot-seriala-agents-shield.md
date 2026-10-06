@@ -1,6 +1,6 @@
 {
   "title": "Рецензия на пилот сериала Agents of S.H.I.E.L.D.",
-  "date": "2013-09-27T12:29:00+03:00",
+  "date": "2013-09-27T11:29:41+03:00",
   "url": "/blog/redson/recenziya-na-pilot-seriala-agents-shield/",
   "original_url": "http://spidermedia.ru/blog/redson/recenziya-na-pilot-seriala-agents-shield",
   "archived": "https://web.archive.org/web/20260208200331/http://spidermedia.ru/blog/redson/recenziya-na-pilot-seriala-agents-shield",
@@ -8,6 +8,12 @@
     "mnenie",
     "marvel",
     "s.h.i.e.l.d"
+  ],
+  "cover": "https://web.archive.org/web/20260208200331im_/http://spidermedia.ru/assets/images/import_image/7488.jpg",
+  "modx_id": 7488,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

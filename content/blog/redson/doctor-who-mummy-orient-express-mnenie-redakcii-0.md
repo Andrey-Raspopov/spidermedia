@@ -1,12 +1,18 @@
 {
   "title": "Doctor Who \"Mummy on the Orient Express\": Мнение редакции",
-  "date": "2014-10-13T11:45:00+03:00",
+  "date": "2014-10-13T10:45:31+03:00",
   "url": "/blog/redson/doctor-who-mummy-orient-express-mnenie-redakcii-0/",
   "original_url": "http://spidermedia.ru/blog/redson/doctor-who-mummy-orient-express-mnenie-redakcii-0",
   "archived": "https://web.archive.org/web/20260117231032/http://spidermedia.ru/blog/redson/doctor-who-mummy-orient-express-mnenie-redakcii-0",
   "tags": [
     "doctor-who",
     "obzor"
+  ],
+  "cover": "https://web.archive.org/web/20260117231032im_/http://spidermedia.ru/assets/images/import_image/8174.jpg",
+  "modx_id": 8174,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

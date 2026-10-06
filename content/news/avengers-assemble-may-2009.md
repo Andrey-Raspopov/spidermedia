@@ -1,7 +1,10 @@
 {
   "title": "Avengers Assemble! - май 2009",
-  "date": "2009-02-19T00:35:00+03:00",
+  "date": "2009-02-18T23:35:05+03:00",
   "url": "/news/avengers-assemble-may-2009/",
+  "aliases": [
+    "/node/432/"
+  ],
   "original_url": "http://spidermedia.ru/news/avengers-assemble-may-2009",
   "archived": "https://web.archive.org/web/20120608142922/http://spidermedia.ru/news/avengers-assemble-may-2009",
   "tags": [
@@ -14,7 +17,15 @@
     "thor",
     "war-machine",
     "komiksy",
-    "marvel"
+    "marvel",
+    "zheleznyy-chelovek",
+    "tor"
+  ],
+  "cover": "https://web.archive.org/web/20120608142922im_/http://spidermedia.ru/assets/images/import_image/432.jpg",
+  "modx_id": 432,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

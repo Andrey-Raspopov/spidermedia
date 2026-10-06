@@ -1,13 +1,23 @@
 {
   "title": "В городе моем",
-  "date": "2010-03-22T21:37:00+03:00",
+  "date": "2010-03-22T21:37:49+03:00",
   "url": "/blog/redson/v-gorode-moem/",
+  "aliases": [
+    "/node/2469/"
+  ],
   "original_url": "http://spidermedia.ru/blog/redson/v-gorode-moem",
   "archived": "https://web.archive.org/web/20190929142539/http://spidermedia.ru:80/blog/redson/v-gorode-moem",
   "tags": [
     "art-0",
     "bande-dessinée",
-    "vneshnij-mir"
+    "vneshnij-mir",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20190929142539im_/http://spidermedia.ru/assets/images/import_image/2469.jpg",
+  "modx_id": 2469,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

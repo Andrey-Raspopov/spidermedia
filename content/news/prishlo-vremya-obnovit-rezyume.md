@@ -1,13 +1,21 @@
 {
   "title": "Пришло время обновить резюме?..",
-  "date": "2009-03-11T13:56:00+03:00",
+  "date": "2009-03-11T12:56:00+03:00",
   "url": "/news/prishlo-vremya-obnovit-rezyume/",
+  "aliases": [
+    "/node/642/"
+  ],
   "original_url": "http://spidermedia.ru/news/prishlo-vremya-obnovit-rezyume",
   "archived": "https://web.archive.org/web/20120608214439/http://spidermedia.ru/news/prishlo-vremya-obnovit-rezyume",
   "tags": [
     "industriya",
     "komiksy",
     "marvel"
+  ],
+  "modx_id": 642,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

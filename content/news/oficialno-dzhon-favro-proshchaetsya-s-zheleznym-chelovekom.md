@@ -1,13 +1,23 @@
 {
   "title": "Официально: Джон Фавро прощается с \"Железным Человеком\"",
-  "date": "2010-12-14T23:50:00+03:00",
+  "date": "2010-12-14T23:50:49+03:00",
   "url": "/news/oficialno-dzhon-favro-proshchaetsya-s-zheleznym-chelovekom/",
+  "aliases": [
+    "/node/3118/"
+  ],
   "original_url": "http://spidermedia.ru/news/oficialno-dzhon-favro-proshchaetsya-s-zheleznym-chelovekom",
   "archived": "https://web.archive.org/web/20250906185113/http://spidermedia.ru/news/oficialno-dzhon-favro-proshchaetsya-s-zheleznym-chelovekom",
   "tags": [
     "dzhon-favro",
     "marvel",
-    "iron-man"
+    "iron-man",
+    "zheleznyy-chelovek"
+  ],
+  "cover": "https://web.archive.org/web/20250906185113im_/http://spidermedia.ru/assets/images/import_image/3118.jpg",
+  "modx_id": 3118,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "Превью Batman Inc. и Batman: The Dark Knight",
-  "date": "2010-10-13T20:21:00+03:00",
+  "date": "2010-10-13T19:21:14+03:00",
   "url": "/news/prevyu-batman-inc-i-batman-dark-knight/",
+  "aliases": [
+    "/node/3003/"
+  ],
   "original_url": "https://spidermedia.ru/news/prevyu-batman-inc-i-batman-dark-knight",
   "archived": "https://web.archive.org/web/20251207100337/https://spidermedia.ru/news/prevyu-batman-inc-i-batman-dark-knight",
   "tags": [
@@ -10,7 +13,14 @@
     "grant-morrison",
     "art-0",
     "dc-comics",
-    "batman"
+    "batman",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20251207100337im_/http://spidermedia.ru/assets/images/import_image/3003.jpg",
+  "modx_id": 3003,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

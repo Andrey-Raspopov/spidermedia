@@ -1,7 +1,10 @@
 {
   "title": "Грег Ракка уходит из DC",
-  "date": "2010-04-04T17:55:00+03:00",
+  "date": "2010-04-04T16:55:01+03:00",
   "url": "/news/greg-rakka-uhodit-iz-dc/",
+  "aliases": [
+    "/node/2507/"
+  ],
   "original_url": "https://spidermedia.ru/news/greg-rakka-uhodit-iz-dc",
   "archived": "https://web.archive.org/web/20260116222637/https://spidermedia.ru/news/greg-rakka-uhodit-iz-dc",
   "tags": [
@@ -14,6 +17,12 @@
     "queen-and-country",
     "oni-press",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150428230942im_/http://spidermedia.ru/assets/images/import_image/2507.jpg",
+  "modx_id": 2507,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

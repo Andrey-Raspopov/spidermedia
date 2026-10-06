@@ -1,11 +1,20 @@
 {
   "title": "Можно ли верить Майклу Бэю?",
-  "date": "2009-02-25T20:01:00+03:00",
+  "date": "2009-02-25T20:01:31+03:00",
   "url": "/news/mozhno-li-verit-mayklu-beyu/",
+  "aliases": [
+    "/node/514/"
+  ],
   "original_url": "http://spidermedia.ru/news/mozhno-li-verit-mayklu-beyu",
   "archived": "https://web.archive.org/web/20190416194435/http://spidermedia.ru:80/news/mozhno-li-verit-mayklu-beyu",
   "tags": [
     "transformers"
+  ],
+  "cover": "https://web.archive.org/web/20190416194435im_/http://spidermedia.ru/assets/images/import_image/514.jpg",
+  "modx_id": 514,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

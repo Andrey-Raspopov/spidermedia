@@ -1,13 +1,20 @@
 {
   "title": "Doctor Who \"Robot of Sherwood\": Мнение редакции",
-  "date": "2014-09-08T12:25:00+03:00",
+  "date": "2014-09-08T11:25:08+03:00",
   "url": "/blog/redson/doctor-who-robot-sherwood-mnenie-redakcii-0/",
   "original_url": "http://spidermedia.ru/blog/redson/doctor-who-robot-sherwood-mnenie-redakcii-0",
   "archived": "https://web.archive.org/web/20230320150222/http://spidermedia.ru/blog/redson/doctor-who-robot-sherwood-mnenie-redakcii-0",
   "tags": [
     "doctor-who",
     "mnenie",
-    "serialy"
+    "serialy",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20150326220746im_/http://spidermedia.ru/assets/images/import_image/8043.jpg",
+  "modx_id": 8043,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

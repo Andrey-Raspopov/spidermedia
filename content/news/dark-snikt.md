@@ -1,7 +1,10 @@
 {
   "title": "Dark Snikt",
-  "date": "2009-08-27T02:25:00+03:00",
+  "date": "2009-08-27T01:25:25+03:00",
   "url": "/news/dark-snikt/",
+  "aliases": [
+    "/node/1833/"
+  ],
   "original_url": "http://spidermedia.ru/news/dark-snikt",
   "archived": "https://web.archive.org/web/20260214131447/http://spidermedia.ru/news/dark-snikt",
   "tags": [
@@ -13,6 +16,11 @@
     "greg-lend",
     "wolverine",
     "marvel"
+  ],
+  "modx_id": 1833,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

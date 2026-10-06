@@ -1,6 +1,6 @@
 {
   "title": "Fear Itself: Обложка и тизер",
-  "date": "2011-02-08T18:05:00+03:00",
+  "date": "2011-02-08T18:05:53+03:00",
   "url": "/news/fear-itself-oblozhka-i-tizer/",
   "original_url": "http://spidermedia.ru/news/fear-itself-oblozhka-i-tizer",
   "archived": "https://web.archive.org/web/20251206162844/http://spidermedia.ru/news/fear-itself-oblozhka-i-tizer",
@@ -8,7 +8,14 @@
     "art-0",
     "stiv-makniven",
     "voploshhenie-straha",
-    "marvel"
+    "marvel",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20251206162844im_/http://spidermedia.ru/assets/images/import_image/3251.jpg",
+  "modx_id": 3251,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

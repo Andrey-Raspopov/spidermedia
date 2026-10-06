@@ -4,6 +4,9 @@
   "url": "/docs/articles/deirdre/ultimate/",
   "original_url": "http://spidermedia.ru/docs/articles/deirdre/ultimate.html",
   "archived": "https://web.archive.org/web/20051202074436/http://spidermedia.ru:80/docs/articles/deirdre/ultimate.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

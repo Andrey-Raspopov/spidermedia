@@ -1,12 +1,18 @@
 {
   "title": "ЭКСКЛЮЗИВ: Комикс \"Seconds\" будет издан на русском языке",
-  "date": "2014-08-19T11:43:00+03:00",
+  "date": "2014-08-19T10:43:04+03:00",
   "url": "/news/eksklyuziv-komiks-seconds-budet-izdan-na-russkom-yazyke/",
   "original_url": "http://spidermedia.ru/news/eksklyuziv-komiks-seconds-budet-izdan-na-russkom-yazyke",
   "archived": "https://web.archive.org/web/20200221074626/http://spidermedia.ru:80/news/eksklyuziv-komiks-seconds-budet-izdan-na-russkom-yazyke",
   "tags": [
     "zarubezhnye-komiksy-na-russkom",
     "bryan-lee-o-malley"
+  ],
+  "cover": "https://web.archive.org/web/20150502165340im_/http://spidermedia.ru/assets/images/import_image/7995.jpg",
+  "modx_id": 7995,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

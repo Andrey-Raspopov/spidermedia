@@ -1,12 +1,22 @@
 {
   "title": "Папа Фонаря",
-  "date": "2010-04-11T15:02:00+03:00",
+  "date": "2010-04-11T14:02:28+03:00",
   "url": "/news/papa-fonarya/",
+  "aliases": [
+    "/node/2531/"
+  ],
   "original_url": "http://spidermedia.ru/news/papa-fonarya",
   "archived": "https://web.archive.org/web/20190724135502/http://spidermedia.ru:80/news/papa-fonarya",
   "tags": [
     "art-0",
-    "green-lantern"
+    "green-lantern",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20190724135502im_/http://spidermedia.ru/assets/images/import_image/2531.jpg",
+  "modx_id": 2531,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

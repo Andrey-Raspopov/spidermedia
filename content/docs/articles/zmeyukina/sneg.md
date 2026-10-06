@@ -4,6 +4,9 @@
   "url": "/docs/articles/zmeyukina/sneg/",
   "original_url": "http://spidermedia.ru/docs/articles/zmeyukina/sneg.html",
   "archived": "https://web.archive.org/web/20051202075720/http://spidermedia.ru:80/docs/articles/zmeyukina/sneg.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

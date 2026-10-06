@@ -1,13 +1,21 @@
 {
   "title": "Hugo '09 - теперь и с funny pages",
-  "date": "2009-03-21T17:20:00+03:00",
+  "date": "2009-03-21T17:20:56+03:00",
   "url": "/news/hugo-09-teper-i-s-funny-pages/",
+  "aliases": [
+    "/node/740/"
+  ],
   "original_url": "http://spidermedia.ru/news/hugo-09-teper-i-s-funny-pages",
   "archived": "https://web.archive.org/web/20150428051641/http://spidermedia.ru/news/hugo-09-teper-i-s-funny-pages",
   "tags": [
     "vneshnij-mir",
     "nagrady",
     "hugo-awards"
+  ],
+  "modx_id": 740,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -8,6 +8,12 @@
     "best-column-about-comics",
     "mnenie"
   ],
+  "cover": "https://web.archive.org/web/20260124045511im_/http://spidermedia.ru/assets/images/best-column-about-comics/02-head-lopper/head-lopper-cover_.jpg",
+  "modx_id": 101349,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

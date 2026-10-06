@@ -1,6 +1,6 @@
 {
   "title": "Федеральное Бюро Суперсил",
-  "date": "2012-04-15T05:01:00+03:00",
+  "date": "2012-04-15T04:01:31+03:00",
   "url": "/news/federalnoe-byuro-supersil/",
   "original_url": "http://spidermedia.ru/news/federalnoe-byuro-supersil",
   "archived": "https://web.archive.org/web/20260116221934/http://spidermedia.ru/news/federalnoe-byuro-supersil",
@@ -9,6 +9,12 @@
     "majkl-ejvon-oeming",
     "brian-michael-bendis",
     "powers"
+  ],
+  "cover": "https://web.archive.org/web/20260116221934im_/http://spidermedia.ru/assets/images/import_image/6872.jpg",
+  "modx_id": 6872,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

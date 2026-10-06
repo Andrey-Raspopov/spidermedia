@@ -1,7 +1,10 @@
 {
   "title": "Когтистая семейка",
-  "date": "2010-07-29T00:47:00+03:00",
+  "date": "2010-07-28T23:47:32+03:00",
   "url": "/news/kogtistaya-semeyka/",
+  "aliases": [
+    "/node/2818/"
+  ],
   "original_url": "http://spidermedia.ru/news/kogtistaya-semeyka",
   "archived": "https://web.archive.org/web/20260214130222/http://spidermedia.ru/news/kogtistaya-semeyka",
   "tags": [
@@ -9,13 +12,20 @@
     "daken",
     "x-men",
     "wolverine",
-    "marvel"
+    "marvel",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20260214130222im_/http://spidermedia.ru/assets/images/import_image/2818.jpg",
+  "modx_id": 2818,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-Сентябрь ознаменует собой начало линейки серий, которые совместно будут образовывать линейку комиксов, связанных с **Росомахой** *(Wolverine, Logan)*. Мы уже [упоминали](../../node/2625/) о запуске нового волюма серии **Wolverine** от **Джейсона Аарона** *(Jason Aaron)* и **Ренато Гудеса** *(Renato Guedes)*, ровно как и о запуске онгоинга **X-23** от **Марджори Лью** *(Marjorie Liu)* и художника **Вилла Конрада** *(Will Conrad)* и серии **Daken: Dark Wolverine** от **Дэниела Вея** *(Daniel Way)*, **Марджори Лью**и художника **Джузеппе Камунсоли** *(Giueseppe Camuncoli)*.
+Сентябрь ознаменует собой начало линейки серий, которые совместно будут образовывать линейку комиксов, связанных с **Росомахой** *(Wolverine, Logan)*. Мы уже [упоминали](../posle-second-coming-x-universe/) о запуске нового волюма серии **Wolverine** от **Джейсона Аарона** *(Jason Aaron)* и **Ренато Гудеса** *(Renato Guedes)*, ровно как и о запуске онгоинга **X-23** от **Марджори Лью** *(Marjorie Liu)* и художника **Вилла Конрада** *(Will Conrad)* и серии **Daken: Dark Wolverine** от **Дэниела Вея** *(Daniel Way)*, **Марджори Лью**и художника **Джузеппе Камунсоли** *(Giueseppe Camuncoli)*.
 ![](https://web.archive.org/web/20260214130222im_/http://img.photobucket.com/albums/v497/spidermedia/sp888_News/3x.jpg)
 Все три серии будут связаны друг с другом: события основной серии **Wolverine**, как минимум на первых порах, будут иметь отражения в двух других онгоингах и создавать там те или иные сюжетные линии, разной степенью значимости. Расскажем о них подробней:
 

@@ -1,6 +1,6 @@
 {
   "title": "Романтик с большой дороги",
-  "date": "2009-02-17T02:42:00+03:00",
+  "date": "2009-02-17T01:42:23+03:00",
   "url": "/news/romantik-s-bolshoy-dorogi/",
   "original_url": "http://spidermedia.ru/news/romantik-s-bolshoy-dorogi",
   "archived": "https://web.archive.org/web/20120608222206/http://spidermedia.ru/news/romantik-s-bolshoy-dorogi",
@@ -10,7 +10,15 @@
     "dzheyson-aaron",
     "komiksy",
     "marvel",
-    "toni-mur"
+    "toni-mur",
+    "art",
+    "prizrachnyj-gonshhik"
+  ],
+  "cover": "https://web.archive.org/web/20120608222206im_/http://spidermedia.ru/assets/images/import_image/402.jpg",
+  "modx_id": 402,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

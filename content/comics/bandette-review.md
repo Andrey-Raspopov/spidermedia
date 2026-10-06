@@ -4,6 +4,12 @@
   "url": "/comics/bandette-review/",
   "original_url": "http://spidermedia.ru/comics/bandette-review",
   "archived": "https://web.archive.org/web/20190915013749/http://spidermedia.ru:80/comics/bandette-review",
+  "cover": "https://web.archive.org/web/20190915013749im_/http://spidermedia.ru/assets/images/reviews/jellyfish/bandette/mzk.jpg",
+  "modx_id": 101885,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

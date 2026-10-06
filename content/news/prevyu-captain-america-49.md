@@ -1,7 +1,10 @@
 {
   "title": "Превью Captain America #49",
-  "date": "2009-04-09T23:06:00+03:00",
+  "date": "2009-04-09T22:06:32+03:00",
   "url": "/news/prevyu-captain-america-49/",
+  "aliases": [
+    "/node/900/"
+  ],
   "original_url": "http://spidermedia.ru/news/prevyu-captain-america-49",
   "archived": "https://web.archive.org/web/20120608033218/http://spidermedia.ru/news/prevyu-captain-america-49",
   "tags": [
@@ -11,7 +14,15 @@
     "lyuk-ross",
     "marvel",
     "preview-s",
-    "ed-brubeyker"
+    "ed-brubeyker",
+    "prevyu",
+    "ed-brubaker",
+    "luke-ross"
+  ],
+  "modx_id": 900,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

@@ -1,12 +1,18 @@
 {
   "title": "R.I.P. Мёбиус",
-  "date": "2012-03-10T16:23:00+03:00",
+  "date": "2012-03-10T15:23:32+03:00",
   "url": "/news/rip-myobius/",
   "original_url": "http://spidermedia.ru/news/rip-myobius",
   "archived": "https://web.archive.org/web/20161105012154/http://spidermedia.ru:80/news/rip-myobius",
   "tags": [
     "nekrolog",
     "myobius"
+  ],
+  "cover": "https://web.archive.org/web/20161105012154im_/http://spidermedia.ru/assets/images/import_image/6822.jpg",
+  "modx_id": 6822,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

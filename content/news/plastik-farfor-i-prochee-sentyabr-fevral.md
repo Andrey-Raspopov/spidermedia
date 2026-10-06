@@ -1,18 +1,27 @@
 {
   "title": "Пластик, фарфор и прочее - сентябрь, февраль",
-  "date": "2009-06-17T19:09:00+03:00",
+  "date": "2009-06-17T18:09:43+03:00",
   "url": "/news/plastik-farfor-i-prochee-sentyabr-fevral/",
+  "aliases": [
+    "/node/1436/"
+  ],
   "original_url": "http://spidermedia.ru/news/plastik-farfor-i-prochee-sentyabr-fevral",
   "archived": "https://web.archive.org/web/20260215073313/http://spidermedia.ru/news/plastik-farfor-i-prochee-sentyabr-fevral",
   "tags": [
     "dc-comics",
     "figurki"
   ],
+  "cover": "https://web.archive.org/web/20150326185909im_/http://spidermedia.ru/assets/images/import_image/1436.png",
+  "modx_id": 1436,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-Вслед за [релизами Темнейшей Ночи](../../node/1433/), спешим познакомить вас и с "игрушечными" релизами компании **DC Direct**. Кстати, если кому интересны все релизы **DC Comics** на сентябрь, то вам на выбор: [Newsarama.com](http://www.newsarama.com/comics/090515-dc-september-2009-solicitations.html), [IGN](http://comics.ign.com/articles/994/994633p1.html), [CBR](http://www.comicbookresources.com/?page=article&id=21595)
+Вслед за [релизами Темнейшей Ночи](../temneyshaya-noch-kogo-zhdat/), спешим познакомить вас и с "игрушечными" релизами компании **DC Direct**. Кстати, если кому интересны все релизы **DC Comics** на сентябрь, то вам на выбор: [Newsarama.com](http://www.newsarama.com/comics/090515-dc-september-2009-solicitations.html), [IGN](http://comics.ign.com/articles/994/994633p1.html), [CBR](http://www.comicbookresources.com/?page=article&id=21595)
 
 ![Photobucket](https://web.archive.org/web/20260215073313im_/http://i707.photobucket.com/albums/ww79/Alex_spidermedia/DCD.png)
 

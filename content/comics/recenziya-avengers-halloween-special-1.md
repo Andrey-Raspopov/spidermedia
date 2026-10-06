@@ -8,6 +8,12 @@
     "marvel",
     "avengers"
   ],
+  "cover": "https://web.archive.org/web/20260307054126im_/http://spidermedia.ru/assets/images/reviews/marvel/avengers/2018-halloween-special/1.jpg",
+  "modx_id": 102052,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -7,6 +7,12 @@
   "tags": [
     "terminator"
   ],
+  "cover": "https://web.archive.org/web/20220714192338im_/https://spidermedia.ru/assets/images/movies/other/terminator-genysis/skachannye-fajly.jpg",
+  "modx_id": 100312,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

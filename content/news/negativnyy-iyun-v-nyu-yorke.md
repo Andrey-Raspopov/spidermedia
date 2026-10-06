@@ -1,7 +1,10 @@
 {
   "title": "Негативный июнь в Нью-Йорке",
-  "date": "2009-03-22T16:17:00+03:00",
+  "date": "2009-03-22T16:17:17+03:00",
   "url": "/news/negativnyy-iyun-v-nyu-yorke/",
+  "aliases": [
+    "/node/744/"
+  ],
   "original_url": "http://spidermedia.ru/news/negativnyy-iyun-v-nyu-yorke",
   "archived": "https://web.archive.org/web/20200216104441/http://spidermedia.ru:80/news/negativnyy-iyun-v-nyu-yorke",
   "tags": [
@@ -11,6 +14,12 @@
     "mr.-negative",
     "marvel",
     "spider-man"
+  ],
+  "cover": "https://web.archive.org/web/20200216104441im_/http://spidermedia.ru/assets/images/import_image/744.jpg",
+  "modx_id": 744,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

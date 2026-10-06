@@ -8,6 +8,12 @@
     "best-column-about-comics",
     "mnenie"
   ],
+  "cover": "https://web.archive.org/web/20260206222021im_/http://spidermedia.ru/assets/images/best-column-about-comics/39-the-book-of-hope/the-book-of-hope-cover.jpg",
+  "modx_id": 102002,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

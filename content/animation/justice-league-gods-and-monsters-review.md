@@ -8,6 +8,12 @@
     "dc-comics",
     "justice-league"
   ],
+  "cover": "https://web.archive.org/web/20160611123131im_/http://spidermedia.ru/assets/images/animation/dc-comics/justice-league-gods-and-monsters/ls-1.jpg",
+  "modx_id": 100433,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

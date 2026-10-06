@@ -1,7 +1,10 @@
 {
   "title": "House of stolen ideas",
-  "date": "2009-05-27T21:47:00+03:00",
+  "date": "2009-05-27T20:47:12+03:00",
   "url": "/news/house-stolen-ideas/",
+  "aliases": [
+    "/node/1287/"
+  ],
   "original_url": "https://spidermedia.ru/news/house-stolen-ideas",
   "archived": "https://web.archive.org/web/20241205043549/https://spidermedia.ru/news/house-stolen-ideas",
   "tags": [
@@ -9,7 +12,14 @@
     "norman-osborn",
     "avengers",
     "norman-ozborn",
-    "lethal-legion"
+    "lethal-legion",
+    "dark-avengers"
+  ],
+  "cover": "https://web.archive.org/web/20241205043549im_/http://spidermedia.ru/assets/images/import_image/1287.jpg",
+  "modx_id": 1287,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

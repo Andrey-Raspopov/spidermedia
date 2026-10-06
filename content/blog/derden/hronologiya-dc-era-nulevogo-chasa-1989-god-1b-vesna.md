@@ -1,6 +1,6 @@
 {
   "title": "Хронология DC: Эра Нулевого Часа. 1989/Год 1B (Весна)",
-  "date": "2012-11-16T17:54:00+03:00",
+  "date": "2012-11-16T16:54:38+03:00",
   "url": "/blog/derden/hronologiya-dc-era-nulevogo-chasa-1989-god-1b-vesna/",
   "original_url": "https://spidermedia.ru/blog/derden/hronologiya-dc-era-nulevogo-chasa-1989-god-1b-vesna",
   "archived": "https://web.archive.org/web/20251208074229/https://spidermedia.ru/blog/derden/hronologiya-dc-era-nulevogo-chasa-1989-god-1b-vesna",
@@ -8,6 +8,12 @@
     "batman",
     "dc-comics",
     "hronologiya"
+  ],
+  "cover": "https://web.archive.org/web/20150502195605im_/http://spidermedia.ru/assets/images/import_image/7088.jpg",
+  "modx_id": 7088,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -4,6 +4,9 @@
   "url": "/comics2movie/s/smallville/smallville/",
   "original_url": "http://spidermedia.ru/comics2movie/s/smallville/smallville.html",
   "archived": "https://web.archive.org/web/20031118225452/http://spidermedia.ru:80/comics2movie/s/smallville/smallville.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

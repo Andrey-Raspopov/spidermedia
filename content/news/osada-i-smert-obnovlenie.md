@@ -1,7 +1,10 @@
 {
   "title": "Осада и Смерть + Обновление",
-  "date": "2010-03-26T13:36:00+03:00",
+  "date": "2010-03-26T13:36:39+03:00",
   "url": "/news/osada-i-smert-obnovlenie/",
+  "aliases": [
+    "/node/2420/"
+  ],
   "original_url": "http://spidermedia.ru/news/osada-i-smert-obnovlenie",
   "archived": "https://web.archive.org/web/20251205124943/http://spidermedia.ru/news/osada-i-smert-obnovlenie",
   "tags": [
@@ -15,7 +18,16 @@
     "marvel",
     "iron-man",
     "heroic-age",
-    "captain-america"
+    "captain-america",
+    "prevyu",
+    "tor",
+    "zheleznyy-chelovek"
+  ],
+  "cover": "https://web.archive.org/web/20251205124943im_/http://spidermedia.ru/assets/images/import_image/2420.jpg",
+  "modx_id": 2420,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

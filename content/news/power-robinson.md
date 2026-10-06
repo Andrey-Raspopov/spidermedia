@@ -1,6 +1,6 @@
 {
   "title": "By the power of Robinson!",
-  "date": "2012-04-07T17:01:00+03:00",
+  "date": "2012-04-07T16:01:36+03:00",
   "url": "/news/power-robinson/",
   "original_url": "https://spidermedia.ru/news/power-robinson",
   "archived": "https://web.archive.org/web/20260214135941/https://spidermedia.ru/news/power-robinson",
@@ -10,6 +10,12 @@
     "dzhejms-robinson",
     "he-man",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150503083933im_/http://spidermedia.ru/assets/images/import_image/6857.jpg",
+  "modx_id": 6857,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

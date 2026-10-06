@@ -1,12 +1,18 @@
 {
   "title": "Жизнь после Хранителей",
-  "date": "2009-02-18T20:02:00+03:00",
+  "date": "2009-02-18T20:02:44+03:00",
   "url": "/news/zhizn-posle-hraniteley/",
   "original_url": "http://spidermedia.ru/news/zhizn-posle-hraniteley",
   "archived": "https://web.archive.org/web/20190915022508/http://spidermedia.ru:80/news/zhizn-posle-hraniteley",
   "tags": [
     "hraniteli",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20190915022508im_/http://spidermedia.ru/assets/images/import_image/426.jpg",
+  "modx_id": 426,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

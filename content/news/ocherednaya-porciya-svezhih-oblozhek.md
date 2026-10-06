@@ -1,7 +1,10 @@
 {
   "title": "Очередная порция свежих обложек",
-  "date": "2009-10-11T21:36:00+03:00",
+  "date": "2009-10-11T20:36:18+03:00",
   "url": "/news/ocherednaya-porciya-svezhih-oblozhek/",
+  "aliases": [
+    "/node/1981/"
+  ],
   "original_url": "http://spidermedia.ru/news/ocherednaya-porciya-svezhih-oblozhek",
   "archived": "https://web.archive.org/web/20260116211034/http://spidermedia.ru/news/ocherednaya-porciya-svezhih-oblozhek",
   "tags": [
@@ -18,6 +21,12 @@
     "krasnyj-robin",
     "betgyorl",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150502171751im_/http://spidermedia.ru/assets/images/import_image/1981.jpg",
+  "modx_id": 1981,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

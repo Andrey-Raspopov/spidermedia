@@ -1,12 +1,18 @@
 {
   "title": "TV на любителя: Arrow",
-  "date": "2013-04-09T13:54:00+03:00",
+  "date": "2013-04-09T12:54:17+03:00",
   "url": "/blog/igrok/tv-na-lyubitelya-arrow/",
   "original_url": "http://spidermedia.ru/blog/igrok/tv-na-lyubitelya-arrow",
   "archived": "https://web.archive.org/web/20250807232255/http://spidermedia.ru/blog/igrok/tv-na-lyubitelya-arrow",
   "tags": [
     "dc-comics",
     "green-arrow"
+  ],
+  "cover": "https://web.archive.org/web/20250807232255im_/http://spidermedia.ru/assets/images/import_image/7189.jpg",
+  "modx_id": 7189,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

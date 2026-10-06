@@ -18,7 +18,14 @@
     "black-widow",
     "scarlet-witch",
     "spider-man",
-    "civil-war"
+    "civil-war",
+    "zheleznyy-chelovek"
+  ],
+  "cover": "https://web.archive.org/web/20170911142259im_/http://spidermedia.ru/assets/images/movies/marvel/captain-america-3-civil-war-2016/captain_america_civil_war_5k_hd-wide-1280x800.jpg",
+  "modx_id": 101118,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

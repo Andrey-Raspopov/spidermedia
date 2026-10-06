@@ -1,12 +1,19 @@
 {
   "title": "Фантастические тизеры",
-  "date": "2011-10-19T23:21:00+03:00",
+  "date": "2011-10-19T22:21:55+03:00",
   "url": "/news/fantasticheskie-tizery/",
   "original_url": "http://spidermedia.ru/news/fantasticheskie-tizery",
   "archived": "https://web.archive.org/web/20171122172100/http://spidermedia.ru:80/news/fantasticheskie-tizery",
   "tags": [
     "fantastic-four",
-    "dzhonatan-hikman"
+    "dzhonatan-hikman",
+    "fantasticheskaya-chetverka"
+  ],
+  "cover": "https://web.archive.org/web/20150502183811im_/http://spidermedia.ru/assets/images/import_image/6659.jpg",
+  "modx_id": 6659,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

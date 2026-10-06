@@ -1,6 +1,6 @@
 {
   "title": "Виртуальный мир на бумаге",
-  "date": "2010-01-16T18:25:00+03:00",
+  "date": "2010-01-16T18:25:09+03:00",
   "url": "/blog/baka-chan/virtualnyy-mir-na-bumage/",
   "original_url": "https://spidermedia.ru/blog/baka-chan/virtualnyy-mir-na-bumage",
   "archived": "https://web.archive.org/web/20250717185641/https://spidermedia.ru/blog/baka-chan/virtualnyy-mir-na-bumage",
@@ -13,6 +13,11 @@
     "mmo",
     "dc-comics",
     "dan-jurgens"
+  ],
+  "modx_id": 2272,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

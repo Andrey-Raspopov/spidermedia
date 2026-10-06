@@ -5,17 +5,22 @@
   "original_url": "http://spidermedia.ru/comics/all-things-valiant-48-week-21",
   "archived": "https://web.archive.org/web/20260209111329/http://spidermedia.ru/comics/all-things-valiant-48-week-21",
   "tags": [
-    "valiant-entertainment"
+    "valiant-entertainment",
+    "all-things-valiant"
+  ],
+  "cover": "https://web.archive.org/web/20260209111329im_/http://spidermedia.ru/assets/images/valiant/images/atv48/48-21.jpg",
+  "modx_id": 101161,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](http://spidermedia.ru/assets/cache/images/valiant/images/atv48/622x-48-21.2e9.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv48/48-21.jpg)
-
 На этой неделе мы провожаем супергероику CW на заслуженный отдых, с опаской косясь на маячащий на горизонте «Кризис на бесконечных землях» ТВ. Поёжившись от такого будущего и обернувшись к голубым экранам, мы видим «Черепашек-ниндзя 2», «Варкрафт», «Тарзана» и пр. Прямо глаза разбегаются! А еще сколько нужно прочитать книг и комиксов, на все времени не хватает. Так что давайте больше не терять ни минуты.
 
-**[Новости](./#news) ****•** [Анонсы](./#solicitations)** **•** [Рецензии](./#reviews)**
+**[Новости](#news) ****•** [Анонсы](#solicitations)** **•** [Рецензии](#reviews)**
 
 В этом выпуске еще больше анонсов. А также взлеты и падения Роберта Вендитти и сказ про то, когда Киндт могет.
 
@@ -28,8 +33,7 @@
 #### Новые тизеры Valiant
 Вслед за [анонсами](http://vk.com/spidermedia?w=wall-361698_21967) #ValiantSummit 2016 издательство представило два свежих тизера. Первый из них намекает на скорое возвращение комикса Shadowman, а второй — на появление в 2017 году новой серии Psi-Lords. Напомним, в оригинальной вселенной это название носила команда бойцов H.A.R.D. Corps, которые развили свои сверхъестественные способности до предела.
 
-[![](http://spidermedia.ru/assets/images/valiant/images/atv48/01.jpg)](./)
-[![](http://spidermedia.ru/assets/images/valiant/images/atv48/02.jpg)](./)
+![](https://web.archive.org/web/20260209111329im_/http://spidermedia.ru/assets/images/valiant/images/atv48/01.jpg)![](https://web.archive.org/web/20260209111329im_/http://spidermedia.ru/assets/images/valiant/images/atv48/02.jpg)
 
 ---
 
@@ -39,17 +43,7 @@
 
 **Generation ZERO #1**
 
-[![Стивен Муни](http://spidermedia.ru/assets/images/valiant/images/atv48/genzero_001_cover-a_mooney.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv48/genzero_001_cover-a_mooney.jpg "Стивен Муни")
-
-[![Том Мюллер](http://spidermedia.ru/assets/images/valiant/images/atv48/genzero_001_cover-b_muller.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv48/genzero_001_cover-b_muller.jpg "Том Мюллер")
-
-[![Пере Перез](http://spidermedia.ru/assets/images/valiant/images/atv48/genzero_001_variant_cgc-perez.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv48/genzero_001_variant_cgc-perez.jpg "Пере Перез")
-
-[![Андрес Гуинальдо](http://spidermedia.ru/assets/images/valiant/images/atv48/genzero_001_variant-design_guinaldo.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv48/genzero_001_variant-design_guinaldo.jpg "Андрес Гуинальдо")
-
-[![Кано](http://spidermedia.ru/assets/images/valiant/images/atv48/genzero_001_variant_kano.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv48/genzero_001_variant_kano.jpg "Кано")
-
-[![Клэйтон Хенри](http://spidermedia.ru/assets/images/valiant/images/atv48/genzero_001_variant_henry.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv48/genzero_001_variant_henry.jpg "Клэйтон Хенри")
+![](https://web.archive.org/web/20260209111329im_/http://spidermedia.ru/assets/images/valiant/images/atv48/genzero_001_cover-a_mooney.jpg)![](https://web.archive.org/web/20260209111329im_/http://spidermedia.ru/assets/images/valiant/images/atv48/genzero_001_cover-b_muller.jpg)![](https://web.archive.org/web/20260209111329im_/http://spidermedia.ru/assets/images/valiant/images/atv48/genzero_001_variant_cgc-perez.jpg)![](https://web.archive.org/web/20260209111329im_/http://spidermedia.ru/assets/images/valiant/images/atv48/genzero_001_variant-design_guinaldo.jpg)![](https://web.archive.org/web/20260209111329im_/http://spidermedia.ru/assets/images/valiant/images/atv48/genzero_001_variant_kano.jpg)![](https://web.archive.org/web/20260209111329im_/http://spidermedia.ru/assets/images/valiant/images/atv48/genzero_001_variant_henry.jpg)
 
 Сценарий: Фред Ван Ленте
 Рисунок: Фрэнсис Портела
@@ -59,17 +53,7 @@
 Одна из них — Кейша Шерман, чей парень недавно погиб в таинственной автокатастрофе в городке Рук, Мичиган, который словно бы за одну ночь возвысился от деревенского захолустья до новейшего научно-технического центра. Когда Кейша выкладывает в сеть отчаянное видеопослание, в ее школу неожиданно переводятся несколько странных ребят. Слух о появлении Поколения Зеро быстро разносится по коридорам, но команда подростков вскоре обнаружит, что они не самые необычные из тех, кто скрывается за стальным фасадом учебного заведения.
 
 #### Faith #2
-[![Кевин Вада](http://spidermedia.ru/assets/images/valiant/images/atv48/faith_002_cover-a_wada.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv48/faith_002_cover-a_wada.jpg "Кевин Вада")
-
-[![Елена Кевич-Джурджевич](http://spidermedia.ru/assets/images/valiant/images/atv48/faith_002_cover-b_djurdjevic.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv48/faith_002_cover-b_djurdjevic.jpg "Елена Кевич-Джурджевич")
-
-[![Джерри Ордвей](http://spidermedia.ru/assets/images/valiant/images/atv48/faith_002_cover-c_ordway.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv48/faith_002_cover-c_ordway.jpg "Джерри Ордвей")
-
-[![Мэган Хетрик](http://spidermedia.ru/assets/images/valiant/images/atv48/faith_002_cover-d_hetrick.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv48/faith_002_cover-d_hetrick.jpg "Мэган Хетрик")
-
-[![Джо Айсма](http://spidermedia.ru/assets/images/valiant/images/atv48/faith_002_variant_eisma.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv48/faith_002_variant_eisma.jpg "Джо Айсма")
-
-[![Тула Лотей](http://spidermedia.ru/assets/images/valiant/images/atv48/faith_002_variant_lotay.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv48/faith_002_variant_lotay.jpg "Тула Лотей")
+![](https://web.archive.org/web/20260209111329im_/http://spidermedia.ru/assets/images/valiant/images/atv48/faith_002_cover-a_wada.jpg)![](https://web.archive.org/web/20260209111329im_/http://spidermedia.ru/assets/images/valiant/images/atv48/faith_002_cover-b_djurdjevic.jpg)![](https://web.archive.org/web/20260209111329im_/http://spidermedia.ru/assets/images/valiant/images/atv48/faith_002_cover-c_ordway.jpg)![](https://web.archive.org/web/20260209111329im_/http://spidermedia.ru/assets/images/valiant/images/atv48/faith_002_cover-d_hetrick.jpg)![](https://web.archive.org/web/20260209111329im_/http://spidermedia.ru/assets/images/valiant/images/atv48/faith_002_variant_eisma.jpg)![](https://web.archive.org/web/20260209111329im_/http://spidermedia.ru/assets/images/valiant/images/atv48/faith_002_variant_lotay.jpg)
 
 Сценарий: Джоди Хаузер
 Рисунок: Пере Перез, Маргарит Саваж
@@ -78,17 +62,7 @@
 
 #### A&A #6
 
-[![Дэвид Лафуэнте](http://spidermedia.ru/assets/images/valiant/images/atv48/aa_006_cover-a_lafuente1.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv48/aa_006_cover-a_lafuente1.jpg "Дэвид Лафуэнте")
-
-[![Кано](http://spidermedia.ru/assets/images/valiant/images/atv48/aa_006_cover-b_kano1.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv48/aa_006_cover-b_kano1.jpg "Кано")
-
-[![Дэрик Робертсон](http://spidermedia.ru/assets/images/valiant/images/atv48/aa_006_cover-c_robertson1.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv48/aa_006_cover-c_robertson1.jpg "Дэрик Робертсон")
-
-[![Пере Перез](http://spidermedia.ru/assets/images/valiant/images/atv48/aa_006_variant_cgc-perez.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv48/aa_006_variant_cgc-perez.jpg "Пере Перез")
-
-[![Рафер Робертс](http://spidermedia.ru/assets/images/valiant/images/atv48/aa_006_variant_roberts1.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv48/aa_006_variant_roberts1.jpg "Рафер Робертс")
-
-[![Диего ЛаТорре](http://spidermedia.ru/assets/images/valiant/images/atv48/aa_006_variant_latorre.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv48/aa_006_variant_latorre.jpg "Диего ЛаТорре")
+![](https://web.archive.org/web/20260209111329im_/http://spidermedia.ru/assets/images/valiant/images/atv48/aa_006_cover-a_lafuente1.jpg)![](https://web.archive.org/web/20260209111329im_/http://spidermedia.ru/assets/images/valiant/images/atv48/aa_006_cover-b_kano1.jpg)![](https://web.archive.org/web/20260209111329im_/http://spidermedia.ru/assets/images/valiant/images/atv48/aa_006_cover-c_robertson1.jpg)![](https://web.archive.org/web/20260209111329im_/http://spidermedia.ru/assets/images/valiant/images/atv48/aa_006_variant_cgc-perez.jpg)![](https://web.archive.org/web/20260209111329im_/http://spidermedia.ru/assets/images/valiant/images/atv48/aa_006_variant_roberts1.jpg)![](https://web.archive.org/web/20260209111329im_/http://spidermedia.ru/assets/images/valiant/images/atv48/aa_006_variant_latorre.jpg)
 
 Сценарий: Рафер Робертс
 Рисунок: Майк Нортон
@@ -97,15 +71,7 @@
 
 #### Ninjak #18
 
-[![Диего ЛаТорре](http://spidermedia.ru/assets/images/valiant/images/atv48/ninjak_018_cover-a_latorre1.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv48/ninjak_018_cover-a_latorre1.jpg "Диего ЛаТорре")
-
-[![Райан Боденхейм](http://spidermedia.ru/assets/images/valiant/images/atv48/ninjak_018_cover-b_bodenheim1.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv48/ninjak_018_cover-b_bodenheim1.jpg "Райан Боденхейм")
-
-[![Стивен Сеговия](http://spidermedia.ru/assets/images/valiant/images/atv48/ninjak_018_cover-c_segovia1.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv48/ninjak_018_cover-c_segovia1.jpg "Стивен Сеговия")
-
-[![Адам Горэм](http://spidermedia.ru/assets/images/valiant/images/atv48/ninjak_018_variant_gorham-a.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv48/ninjak_018_variant_gorham-a.jpg "Адам Горэм")
-
-[![Адам Горэм](http://spidermedia.ru/assets/images/valiant/images/atv48/ninjak_018_variant_gorham-b.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv48/ninjak_018_variant_gorham-b.jpg "Адам Горэм")
+![](https://web.archive.org/web/20260209111329im_/http://spidermedia.ru/assets/images/valiant/images/atv48/ninjak_018_cover-a_latorre1.jpg)![](https://web.archive.org/web/20260209111329im_/http://spidermedia.ru/assets/images/valiant/images/atv48/ninjak_018_cover-b_bodenheim1.jpg)![](https://web.archive.org/web/20260209111329im_/http://spidermedia.ru/assets/images/valiant/images/atv48/ninjak_018_cover-c_segovia1.jpg)![](https://web.archive.org/web/20260209111329im_/http://spidermedia.ru/assets/images/valiant/images/atv48/ninjak_018_variant_gorham-a.jpg)![](https://web.archive.org/web/20260209111329im_/http://spidermedia.ru/assets/images/valiant/images/atv48/ninjak_018_variant_gorham-b.jpg)
 
 Сценарий: Мэтт Киндт
 Рисунок: Кари Эванс, Андрес Гуинальдо
@@ -118,21 +84,7 @@
 
 **4001 A.D. #4**
 
-[![Клэйтон Крэйн](http://spidermedia.ru/assets/images/valiant/images/atv48/4001_004_cover-a_crain.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv48/4001_004_cover-a_crain.jpg "Клэйтон Крэйн")
-
-[![Тула Лотей](http://spidermedia.ru/assets/images/valiant/images/atv48/4001_004_cover-b_lotay.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv48/4001_004_cover-b_lotay.jpg "Тула Лотей")
-
-[![Райан Боденхейм](http://spidermedia.ru/assets/images/valiant/images/atv48/4001_004_cover-c_bodenheim.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv48/4001_004_cover-c_bodenheim.jpg "Райан Боденхейм")
-
-[![Филип Тан](http://spidermedia.ru/assets/images/valiant/images/atv48/4001_004_cover-d_tan.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv48/4001_004_cover-d_tan.jpg "Филип Тан")
-
-[![Клэйтон Крэйн](http://spidermedia.ru/assets/images/valiant/images/atv48/4001_004_variant_design-crain.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv48/4001_004_variant_design-crain.jpg "Клэйтон Крэйн")
-
-[![Райан Ли](http://spidermedia.ru/assets/images/valiant/images/atv48/4001_004_variant_mega-lee.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv48/4001_004_variant_mega-lee.jpg "Райан Ли")
-
-[![Райан Сук](http://spidermedia.ru/assets/images/valiant/images/atv48/4001_004_variant_sook.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv48/4001_004_variant_sook.jpg "Райан Сук")
-
-[![Райан Сук](http://spidermedia.ru/assets/images/valiant/images/atv48/4001_004_variant_sook-bw.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv48/4001_004_variant_sook-bw.jpg "Райан Сук")
+![](https://web.archive.org/web/20260209111329im_/http://spidermedia.ru/assets/images/valiant/images/atv48/4001_004_cover-a_crain.jpg)![](https://web.archive.org/web/20260209111329im_/http://spidermedia.ru/assets/images/valiant/images/atv48/4001_004_cover-b_lotay.jpg)![](https://web.archive.org/web/20260209111329im_/http://spidermedia.ru/assets/images/valiant/images/atv48/4001_004_cover-c_bodenheim.jpg)![](https://web.archive.org/web/20260209111329im_/http://spidermedia.ru/assets/images/valiant/images/atv48/4001_004_cover-d_tan.jpg)![](https://web.archive.org/web/20260209111329im_/http://spidermedia.ru/assets/images/valiant/images/atv48/4001_004_variant_design-crain.jpg)![](https://web.archive.org/web/20260209111329im_/http://spidermedia.ru/assets/images/valiant/images/atv48/4001_004_variant_mega-lee.jpg)![](https://web.archive.org/web/20260209111329im_/http://spidermedia.ru/assets/images/valiant/images/atv48/4001_004_variant_sook.jpg)![](https://web.archive.org/web/20260209111329im_/http://spidermedia.ru/assets/images/valiant/images/atv48/4001_004_variant_sook-bw.jpg)
 
 Сценарий: Мэтт Киндт
 Рисунок: Клэйтон Крэйн
@@ -140,15 +92,7 @@
 Рай и Отец схлестнулись в последней битве за судьбу будущего целой планеты! Пока деспотичный правитель Новой Японии и ее последний защитник ведут свой бой меж звезд, страна-спутник вот-вот готова обрушиться на Землю. Обе стороны несут неизбежные потери в войне 4001 A.D., но кто сможет уцелеть, кому суждено жить в дивном новом мире? И что станет с Раем, Отцом и всей нацией? Будущее вселенной Valiant изменится навсегда, когда силы (новые и старые) воспрянут из праха Новой Японии.
 
 #### 4001 AD: War Mother #1
-[![Дэвид Мэк](http://spidermedia.ru/assets/images/valiant/images/atv48/4001-warmother_001_cover-a_mack1.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv48/4001-warmother_001_cover-a_mack1.jpg "Дэвид Мэк")
-
-[![Елена Кевич-Джурджевич](http://spidermedia.ru/assets/images/valiant/images/atv48/4001-warmother_001_cover-b_djurdjevic1.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv48/4001-warmother_001_cover-b_djurdjevic1.jpg "Елена Кевич-Джурджевич")
-
-[![Кэри Норд](http://spidermedia.ru/assets/images/valiant/images/atv48/4001-warmother_001_cover-c_nord1.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv48/4001-warmother_001_cover-c_nord1.jpg "Кэри Норд")
-
-[![Андрес Гуинальдо](http://spidermedia.ru/assets/images/valiant/images/atv48/4001-warmother_001_variant-design_guinaldo1.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv48/4001-warmother_001_variant-design_guinaldo1.jpg "Андрес Гуинальдо")
-
-[![Райан Ли](http://spidermedia.ru/assets/images/valiant/images/atv48/4001-warmother_001_variant_mega-lee.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv48/4001-warmother_001_variant_mega-lee.jpg "Райан Ли")
+![](https://web.archive.org/web/20260209111329im_/http://spidermedia.ru/assets/images/valiant/images/atv48/4001-warmother_001_cover-a_mack1.jpg)![](https://web.archive.org/web/20260209111329im_/http://spidermedia.ru/assets/images/valiant/images/atv48/4001-warmother_001_cover-b_djurdjevic1.jpg)![](https://web.archive.org/web/20260209111329im_/http://spidermedia.ru/assets/images/valiant/images/atv48/4001-warmother_001_cover-c_nord1.jpg)![](https://web.archive.org/web/20260209111329im_/http://spidermedia.ru/assets/images/valiant/images/atv48/4001-warmother_001_variant-design_guinaldo1.jpg)![](https://web.archive.org/web/20260209111329im_/http://spidermedia.ru/assets/images/valiant/images/atv48/4001-warmother_001_variant_mega-lee.jpg)
 
 Сценарий: Фред Ван Ленте
 Рисунок: Томас Джурелло
@@ -159,10 +103,7 @@
 
 **Rai #16**
 
-[![Дэвид Мэк](http://spidermedia.ru/assets/images/valiant/images/atv48/rai_016_cover-a_mack.jpg)](./ "Дэвид Мэк")
-[![Андрес Гуинальдо](http://spidermedia.ru/assets/images/valiant/images/atv48/rai_016_cover-b_guinaldo.jpg)](./ "Андрес Гуинальдо")
-[![Клэйтон Крэйн](http://spidermedia.ru/assets/images/valiant/images/atv48/rai_016_variant_design-crain.jpg)](./ "Клэйтон Крэйн")
-[![Райан Ли](http://spidermedia.ru/assets/images/valiant/images/atv48/rai_016_variant_mega-lee.jpg)](./ "Райан Ли")
+![](https://web.archive.org/web/20260209111329im_/http://spidermedia.ru/assets/images/valiant/images/atv48/rai_016_cover-a_mack.jpg)![](https://web.archive.org/web/20260209111329im_/http://spidermedia.ru/assets/images/valiant/images/atv48/rai_016_cover-b_guinaldo.jpg)![](https://web.archive.org/web/20260209111329im_/http://spidermedia.ru/assets/images/valiant/images/atv48/rai_016_variant_design-crain.jpg)![](https://web.archive.org/web/20260209111329im_/http://spidermedia.ru/assets/images/valiant/images/atv48/rai_016_variant_mega-lee.jpg)
 
 Сценарий: Мэтт Киндт
 Рисунок: КАФУ
@@ -170,17 +111,7 @@
 Нынешний защитник Новой Японии Абото ускользает из-под контроля, и ничто не может остановить сорвавшегося с поводка воина от уничтожения страны изнутри. Чтобы остановить этого монстра, Отец создает последнего и сильнейшего Рая. Но когда падший сын и новый защитник вступают в бой на улицах Новой Японии, какие темные секреты поведает Абото? И как они повлияют на революцию, что вспыхнет в 4001 году?
 
 #### X-O Manowar #49
-[![Кано](http://spidermedia.ru/assets/images/valiant/images/atv48/xo_049_cover-a_kano.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv48/xo_049_cover-a_kano.jpg "Кано")
-
-[![Фил Хименез](http://spidermedia.ru/assets/images/valiant/images/atv48/xo_049_cover-b_jimenez.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv48/xo_049_cover-b_jimenez.jpg "Фил Хименез")
-
-[![Хой Фам](http://spidermedia.ru/assets/images/valiant/images/atv48/xo_049_cover-c_pham.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv48/xo_049_cover-c_pham.jpg "Хой Фам")
-
-[![Адам Горэм](http://spidermedia.ru/assets/images/valiant/images/atv48/xo_049_variant_gorham.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv48/xo_049_variant_gorham.jpg "Адам Горэм")
-
-[![Фрэнсис Портела](http://spidermedia.ru/assets/images/valiant/images/atv48/xo_049_variant_portela.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv48/xo_049_variant_portela.jpg "Фрэнсис Портела")
-
-[![Хуан Хосе Рип](http://spidermedia.ru/assets/images/valiant/images/atv48/xo_049_variant_ryp.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv48/xo_049_variant_ryp.jpg "Хуан Хосе Рип")
+![](https://web.archive.org/web/20260209111329im_/http://spidermedia.ru/assets/images/valiant/images/atv48/xo_049_cover-a_kano.jpg)![](https://web.archive.org/web/20260209111329im_/http://spidermedia.ru/assets/images/valiant/images/atv48/xo_049_cover-b_jimenez.jpg)![](https://web.archive.org/web/20260209111329im_/http://spidermedia.ru/assets/images/valiant/images/atv48/xo_049_cover-c_pham.jpg)![](https://web.archive.org/web/20260209111329im_/http://spidermedia.ru/assets/images/valiant/images/atv48/xo_049_variant_gorham.jpg)![](https://web.archive.org/web/20260209111329im_/http://spidermedia.ru/assets/images/valiant/images/atv48/xo_049_variant_portela.jpg)![](https://web.archive.org/web/20260209111329im_/http://spidermedia.ru/assets/images/valiant/images/atv48/xo_049_variant_ryp.jpg)
 
 Сценарий: Роберт Вендитти
 Рисунок: Джо Беннетт, Роберто Де Ла Торре
@@ -189,17 +120,7 @@
 
 #### Bloodshot Reborn #16
 
-[![Томас Джурелло](http://spidermedia.ru/assets/images/valiant/images/atv48/bsrb_016_cover-a_giorello.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv48/bsrb_016_cover-a_giorello.jpg "Томас Джурелло")
-
-[![Бен Оливер](http://spidermedia.ru/assets/images/valiant/images/atv48/bsrb_016_cover-b_oliver.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv48/bsrb_016_cover-b_oliver.jpg "Бен Оливер")
-
-[![Стивен Сеговия](http://spidermedia.ru/assets/images/valiant/images/atv48/bsrb_016_cover-c_segovia.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv48/bsrb_016_cover-c_segovia.jpg "Стивен Сеговия")
-
-[![Райан Боденхейм](http://spidermedia.ru/assets/images/valiant/images/atv48/bsrb_016_variant_bodenheim.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv48/bsrb_016_variant_bodenheim.jpg "Райан Боденхейм")
-
-[![Дэрик Робертсон](http://spidermedia.ru/assets/images/valiant/images/atv48/bsrb_016_variant_robertson.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv48/bsrb_016_variant_robertson.jpg "Дэрик Робертсон")
-
-[![Шон Чен](http://spidermedia.ru/assets/images/valiant/images/atv48/bsrb_016_variant_chen.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv48/bsrb_016_variant_chen.jpg "Шон Чен")
+![](https://web.archive.org/web/20260209111329im_/http://spidermedia.ru/assets/images/valiant/images/atv48/bsrb_016_cover-a_giorello.jpg)![](https://web.archive.org/web/20260209111329im_/http://spidermedia.ru/assets/images/valiant/images/atv48/bsrb_016_cover-b_oliver.jpg)![](https://web.archive.org/web/20260209111329im_/http://spidermedia.ru/assets/images/valiant/images/atv48/bsrb_016_cover-c_segovia.jpg)![](https://web.archive.org/web/20260209111329im_/http://spidermedia.ru/assets/images/valiant/images/atv48/bsrb_016_variant_bodenheim.jpg)![](https://web.archive.org/web/20260209111329im_/http://spidermedia.ru/assets/images/valiant/images/atv48/bsrb_016_variant_robertson.jpg)![](https://web.archive.org/web/20260209111329im_/http://spidermedia.ru/assets/images/valiant/images/atv48/bsrb_016_variant_chen.jpg)
 
 Сценарий: Джефф Лемир
 Рисунок: Мико Суаян
@@ -207,9 +128,7 @@
 Пока Bloodshot и его товарищи заперты в петле бесконечного цикла смертей и возрождений, сущность, что охотится на них, — безжалостная машина-убийца Deathmate — становится сильнее с каждым днем. Но в тот момент, когда герой одерживает верх над организацией, что создала его и это загадочное орудие разрушение, Bloodshot откроет величайшую тайну острова... и своего прошлого.
 
 #### **Wrath of the Eternal Warrior** #10
-[![Кано](http://spidermedia.ru/assets/images/valiant/images/atv48/wrath_010_cover-a_kano.jpg)](./ "Кано")
-[![Пере Перез](http://spidermedia.ru/assets/images/valiant/images/atv48/wrath_010_cover-b_perez.jpg)](./ "Пере Перез")
-[![Андрес Гуинальдо](http://spidermedia.ru/assets/images/valiant/images/atv48/wrath_010_varoant_guinaldo.jpg)](./ "Андрес Гуинальдо")
+![](https://web.archive.org/web/20260209111329im_/http://spidermedia.ru/assets/images/valiant/images/atv48/wrath_010_cover-a_kano.jpg)![](https://web.archive.org/web/20260209111329im_/http://spidermedia.ru/assets/images/valiant/images/atv48/wrath_010_cover-b_perez.jpg)![](https://web.archive.org/web/20260209111329im_/http://spidermedia.ru/assets/images/valiant/images/atv48/wrath_010_varoant_guinaldo.jpg)
 
 Сценарий: Роберт Вендитти
 Рисунок: Рауль Аллен
@@ -221,3 +140,77 @@
 **ЧТО МЫ ПРОЧИТАЛИ**
 
 ---
+
+a:3:{i:1;a:7:{s:5:"autor";a:3:{i:1;a:2:{i:0;s:16:"Сценарий";i:1;s:19:"Мэтт Киндт";}i:3;a:2:{i:0;s:14:"Рисунок";i:1;s:8:"КАФУ";}i:5;a:2:{i:0;s:8:"Цвет";i:1;s:21:"Дэйв Ленфир";}}s:4:"name";s:3:"Rai";s:7:"edition";s:3:"#13";s:5:"cover";s:51:"assets/images/valiant/images/atv48/rai-13-cover.jpg";s:9:"publisher";s:4:"1249";s:4:"year";s:4:"2016";s:8:"comments";a:1:{i:1;a:4:{s:5:"autor";s:6:"183732";s:4:"text";s:7044:"
+
+Подобно [Armor Hunters](../all-things-valiant-22-week-45/#thoughts), [4001 A.D.](../all-things-valiant-46-week-19/#reviews) забирает героя из его основной серии, освобождая место для другой истории. Пока Рай сражается с Отцом в настоящем (будущем?), мы отправимся в прошлое, чтобы узнать больше о предшественниках героя. И начнем, как положено, с самого первого защитника Новой Японии.
+
+Тысячу лет назад (в 3001 году) Новая Япония не была столь развитым государством. На улицах страны царили голод и нищета, а ее правитель — Отец — только начинал осознавать себя и свои цели. Поняв, что простого поддержания жизни недостаточно для нормального функционирования общества, он создает своего первого Рая — символ, что будет вдохновлять жителей Новой Японии.
+
+Хотя арк 4001 A.D. комикса «Рай» должен был рассказывать о предыдущих версиях персонажа с аналогичным именем, тринадцатый выпуск серии оказался в основном посвящен Отцу. В какой-то степени нам представили ориджин будущего злодея. Конечно, это не история происхождения в привычном смысле (здесь нет ответов на вопросы, кто и когда создал ИИ), это скорее рассказ о становлении Отца как правителя Новой Японии и формировании его образа мыслей.
+
+Мэтт Киндт четко прописывает мотивы персонажа. Осознав себя хранителем жителей Японии, ИИ становится ясно, что простого наблюдения и поддержания жизнеобеспечения мало, нужно что-то, вселяющее в людей надежду. Поэтому он и создает Рая из мальчика по имени Осаму, и лучшего кандидата для символа веры в будущее, чем ребенок, было не найти. Первый Рай даже не обладал вооружением, его единственной целью было вдохновлять и помогать, как и у созданных позднее позитронов.
+
+[[gallery? &id=`950` &type=`1` &rowHeight=`150` &maxRowHeight=`100%` &captions=`false` &fixedHeight=`false` &lastRow=`justify` &margins=`2`]]
+
+*I was struck by lightning and then became the Flash. I mean Rai*
+
+Отсюда отчетливо понятно, что Отец желал лишь блага для населения страны. Но часть жителей видит в Рае (и позитронах) лишь инструмент контроля. Их безжалостные действия приводят к трагедии, которая ужесточает ИИ. И наводит его на мысль, что каждое поколение людей будет недовольно своим положением и будет противиться власти Отца, а значит, каждому поколению нужен собственный символ, собственный Рай, скорее всего, более жестокий, чем предыдущий. Таким образом выпуск дает четкое понимание причин метаморфозы Отца и мотивов создания Раев, а это, по сути, и есть самый настоящий ориджин.
+
+Еще нам раскрыли [тайну](http://spidermedia.ru/assets/images/valiant/files/atv48/rai-13-image-a01.jpg) происхождение имени защитников Новой Японии. От японского «raijin», что означает «молния».
+
+Клэйтон Крэйн убежал рисовать основной ивент, в его отсутствие за иллюстрирование серии взялся КАФУ. Если описывать стиль этого художника одним словом, то наиболее подходящим будет «приятный». КАФУ не поражает нестандартной раскадровкой, а просто хорошо ведет повествование; лица персонажей не могут похвастаться разнообразием, но их дизайн радует глаз; в кадре немного героев (и рисунок не изобилует деталями), что не перегружает страницу и не превращает изображения в «кашу», чем частенько грешит Крэйн. Все это делает иллюстрации КАФУ пусть и не умопомрачительными, но приятными.
+
+Интересно, что колорист пытался достичь эффекта «рисунка без контуров», характерного для Клэйтона Крэйна. И в снежных сценах ему удалось максимально приблизиться к этому стилю.
+
+Видимо, Мэтт Киндт может писать хорошо только один комикс, и все силы он отдает ивенту 4001 A.D. (и его тай-инам). Это бы объяснило и весь тот ад, творящийся сейчас в Ниндзяке (и поджидающий нас в Divinity III), и происходящее в Рае...
+
+";s:8:"mjdzText";s:0:"";s:10:"conclusion";s:10:"ДОБРО";}}}i:2;a:7:{s:5:"autor";a:3:{i:1;a:2:{i:0;s:16:"Сценарий";i:1;s:29:"Роберт Вендитти";}i:3;a:2:{i:0;s:14:"Рисунок";i:1;s:52:"Рауль Аллен, Патриция Мартин";}i:5;a:2:{i:0;s:8:"Цвет";i:1;s:48:"Рауль Аллен, Борха Пиндадо";}}s:4:"name";s:28:"WRATH OF THE ETERNAL WARRIOR";s:7:"edition";s:2:"#7";s:5:"cover";s:52:"assets/images/valiant/images/atv48/wrath-7-cover.jpg";s:9:"publisher";s:4:"1249";s:4:"year";s:4:"2016";s:8:"comments";a:1:{i:1;a:4:{s:5:"autor";s:6:"183732";s:4:"text";s:8181:"
+
+Как бы «Прелюдия к Лабиринту» не пыталась казаться полноценным арком, вводя нового злодея и обрисовывая начало основного конфликта, это лишь двухмесячная передышка: для сценариста — в написании сюжета, а для художника (предыдущего) — в рисовании комикса. И вот, подобно Раулю Аллену, который возвращается к иллюстрированию серии, я возвращаюсь к ее рецензированию.
+
+Гилад Анни-Падда приходит в себя в незнакомом месте. Таинственный голос объявляет ему, что дарует герою свободу, как только тот пройдет Лабиринт полный хитроумных ловушек и смертельных опасностей. Итак, забег начинается...
+
+[[gallery? &id=`951` &type=`1` &rowHeight=`150` &maxRowHeight=`100%` &captions=`false` &fixedHeight=`false` &lastRow=`justify` &margins=`2`]]
+
+*Sovereign построил для Гилада огромный лабиринт. А что для Вас сделала Ваша вторая половина?*
+
+Одна из основных проблем (если не главная) комиксов Роберта Вендитти в том, что интересные концепции, обещанные анонсами, на деле получают слабую реализацию. Ярчайший пример — X-O Manowar. Последние три-четыре сюжета серии, обладающие огромным потенциалом, были загублены посредственным исполнением. Но, возможно, Роберт просто устал от Арика, ведь с именным онгоингом Вечного Воина такое не происходит (ок, происходит, но в гораздо меньшей степени). Да, Risen был медленным, но последовательным, с хорошей проработкой образа Гилада и сильным визуальным рядом.
+
+И теперь Labyrinth показывает хороший старт (хотя основная идея явно [позаимствована](https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%B3%D1%83%D1%89%D0%B8%D0%B9_%D0%B2_%D0%BB%D0%B0%D0%B1%D0%B8%D1%80%D0%B8%D0%BD%D1%82%D0%B5_(%D1%80%D0%BE%D0%BC%D0%B0%D0%BD))). По анонсам я ждал смертельной ловушки, постоянных опасностей и гнетущего чувства безысходности, сродни тому, что создал Майкл Стражински в первом арке своего рана на Человеке-Пауке, когда герой бился с Морланом. Конечно, седьмой номер «Гнева» не дал испытать подобных впечатлений в полной мере, у нас все же только завязка истории, но [последние кадры](http://spidermedia.ru/assets/images/valiant/files/atv48/wrath-7-image-a01.jpg) комикса гарантируют подобные эмоции в дальнейшем.
+
+Немного о злодее. Мне он показался намного интереснее предыдущего — [Нumongous’a](../all-things-valiant-32-week-04/#item2). По крайней мере, он более мотивирован, и получился многограннее, чем демон. Четко видна его одержимость Вечным Воином (вернее, секретом его бессмертия), еще бы, выстроить такую махину только ради него. А дотошность и высокомерие добавляют персонажу объема. Очень понравилась [сцена](http://spidermedia.ru/assets/images/valiant/files/atv48/wrath-7-image-a02.jpg), где Sovereign обстоятельно рассказывает Гиладу о своем плане, пока Анни-Падда крушит комнату — недоумение на лице злодея просто восхитительно (спасибо художнику).
+
+[[gallery? &id=`952` &type=`1` &rowHeight=`150` &maxRowHeight=`100%` &captions=`false` &fixedHeight=`false` &lastRow=`justify` &margins=`2`]]
+
+*Ой, а я что не [«Черного Дворецкого»](http://spidermedia.ru/assets/images/valiant/files/atv48/wrath-7-image-a03.jpg) сейчас читаю?*
+
+Единственное, что вызвало неприятные эмоции, это то, как показан главный герой. Я понимаю, что по сюжету он обречен на муки и страдания, но слишком уж легко он проигрывает битву. Вообще, Гилад практически не старается сражаться. [Бросок секиры](http://spidermedia.ru/assets/images/valiant/files/atv48/wrath-7-image-a04.jpg) и [пара выстрелов по дронам](http://spidermedia.ru/assets/images/valiant/files/atv48/wrath-7-image-a05.jpg), как-то не солидно для лучшего воина в истории.
+
+Меня не перестает поражать рисунок Рауля Аллена, настолько он гениален в своей простоте. Рауль не перегружает его большим количеством деталей, главное достоинство стиля художника — это постановка кадра. На каждой панели для персонажей выбраны максимально эффектные позы и ракурсы. А [симметричное](http://spidermedia.ru/assets/images/valiant/files/atv48/wrath-7-image-a06.jpg) [расположение](http://spidermedia.ru/assets/images/valiant/files/atv48/wrath-7-image-a07.jpg) фреймов на странице заставляет восхищаться ей целиком, а не только отдельными кадрами. Казалось бы, замкнутое пространство лабиринта должно было сказаться на красоте фонов комикса, но Рауль Аллен нашел отличный выход из положения, используя [различные схемы, диаграммы и графики](http://spidermedia.ru/assets/images/valiant/files/atv48/wrath-7-image-a08.jpg) для украшения рисунка. Пусть я повторюсь, но на данный момент он лучший художник издательства.
+
+Лабиринт пугает. Гилад страдает. Рисунок доставляет. Да и злодей вышел занятным. А что еще надо?
+
+P.S. Зак, даже [дворецкий](http://spidermedia.ru/assets/images/valiant/files/atv48/wrath-7-image-a09.jpg) стебется над твоими фильмами.
+
+";s:8:"mjdzText";s:0:"";s:10:"conclusion";s:10:"ДОБРО";}}}i:3;a:7:{s:5:"autor";a:3:{i:1;a:2:{i:0;s:16:"Сценарий";i:1;s:67:"Роберт Вендитти, Эми Чу, Джоди Хаузер";}i:3;a:2:{i:0;s:14:"Рисунок";i:1;s:63:"Пере Перез, Май МакКоун, Адам Горэм";}i:5;a:2:{i:0;s:8:"Цвет";i:1;s:73:"Дэвид Барон, Джороми Кокс, Эндрю Долхаус";}}s:4:"name";s:19:"X-O Manowar Annual ";s:7:"edition";s:0:"";s:5:"cover";s:64:"assets/images/valiant/images/atv48/x-o-manowar-annual-cover_.jpg";s:9:"publisher";s:4:"1249";s:4:"year";s:4:"2016";s:8:"comments";a:1:{i:1;a:4:{s:5:"autor";s:6:"183731";s:4:"text";s:7320:"
+
+Стремительно приближающийся 50 номер X-O Manowar’а, а с ним и неизбежное закрытие серии, подкидывает нам все больше халтурных работ про Арика из Дакии. Действительно, не такое уж и значимое событие, всего лишь первый и последний ежегодник серии. Зачем ради этого стараться? В то время как у [Бладшота](../all-things-valiant-40-week-13/#item1) еще можно было проследить некую центральную тему – трагедия и комедия, демонстрирующая многогранность персонажа, то в Х-О царить полный хаос, и каждый сценарист пишет то, о чем ему вздумается.
+
+[[gallery? &id=`964` &type=`1` &rowHeight=`150` &maxRowHeight=`100%` &captions=`false` &fixedHeight=`false` &lastRow=`justify` &margins=`2`]]
+
+В [последнее время](../all-things-valiant-47-week-20/#item1) Вендитти даже не старается писать про Арика. В этот раз, увлекшись наставлением, Роберт забывает пояснить читателю, зачем ему потребовались целых 22 страницы на разжевывание избитой истины: дом – это воспоминания.  Проблема любого морализаторства в том, что персонажи подобных историй не развиваются. Маленький Арик не извлек урока из случившегося, а послушно следовал советам матери: сперва ему говорили, что не стоит привязываться к местам, а потом, что не стоит прикипать к вещам, т.к. главная ценность в памяти и традициях.
+
+Мягкий рисунок Пере Переза отлично подходит истории, в которой главными действующими лицами выступают мать и ее ребенок. Выпуск затянут и не богат на экшен-сцены или захватывающие своей крутизной развороты, наоборот, он берет теплым артом и [живыми эмоциями](http://spidermedia.ru/assets/images/valiant/files/atv48/x-o-manowar-annual-example-1.jpg), которые Перез с любовью придает персонажам.
+
+С другого фронта заходит Эми Чу, которая в прошлом выдала [хороший комикс про женскую силу](../all-things-valiant-week-27/#item4), а в этот раз пишет типичную историю большой двойки про самое тайное происхождение© полковника Джейми Капшоу. Идея у автора хороша – создать выпуск про игру разумов, когда враг извращает, искажая до неузнаваемости реальность героини, но та находит в себе силы сопротивляться лжи. И все бы вылилось в крепкий спай-фикшен, если бы не последняя страница с клиффхнгером-ретконом. Возможно, прав был Крис Симс, говоря о [порочной неисчерпаемости ориджинов](http://comicsalliance.com/comics-minutiae-origin-stories-trivia/). Увы, но, комиксы – род вымысла, который однажды копнув в предысторию, не останавливается, пока не проложит по ней целую ветку метро.
+
+Не помогает отделаться от мрачных мыслей и неряшливый рисунок Май МакКоуни, статичность его арта и [неловкость поз персонажей](http://spidermedia.ru/assets/images/valiant/files/atv48/x-o-manowar-annual-example-3.jpg) в кадрах угнетают. Хотя у художника и есть собственное [представление о динамике](http://spidermedia.ru/assets/images/valiant/files/atv48/x-o-manowar-annual-example-2.jpg), но гламурная заливка Джороми Кокса полностью убивает в арте любую индивидуальность.
+
+[[gallery? &id=`965` &type=`1` &rowHeight=`150` &maxRowHeight=`100%` &captions=`false` &fixedHeight=`false` &lastRow=`justify` &margins=`2`]]
+
+Завершает кавалькаду историй единственный сюжет со смыслом и точным пониманием того, что от него требуется: Джоди Хаузер увязывает свою камерную историю в Фейт с остальной вселенной Valiant. Сюжет стремится представить Директора как злодея, способного стоят рядом с командором Триллом. Последний в этой крохотной главе развивается: смиряя свою спесь и призрение к Vine Planting, начиная думать о них как об инструментах достижения цели. И тут Хаузер удается то, на что Вендитти потратил два арка – показать Трилла как самовлюбленного, но расчетливого злодея. В этом виден рост Джоди как сценариста: куда-то исчезли горы текста, персонажи что-то делают. Хотя она до сих пор не доверяет художнику – в комиксе нет ни одного фрейма без текста.
+
+Ежегодник может похвастаться не вяжущейся с другими сюжетами нравоучительной историей Роберта Вендитти, внезапной тайной происхождения от Эми Чу, а также тайн-ином к несуществующему кроссоверу от Джоди Хаузер. Плюс, превью 47-ого выпуска основной серии от отдела маркетинга. А раз в подобном богатстве самая качественная история про немезиду главного героя, то это тревожный звоночек.
+
+";s:8:"mjdzText";s:0:"";s:10:"conclusion";s:8:"ЖИЖА";}}}}

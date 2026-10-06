@@ -1,11 +1,20 @@
 {
   "title": "Apple",
-  "date": "2009-02-03T22:02:00+03:00",
+  "date": "2009-02-03T22:02:14+03:00",
   "url": "/blog/naya/apple/",
+  "aliases": [
+    "/node/161/"
+  ],
   "original_url": "http://spidermedia.ru/blog/naya/apple",
   "archived": "https://web.archive.org/web/20251208075633/http://spidermedia.ru/blog/naya/apple",
   "tags": [
     "manga"
+  ],
+  "cover": "https://web.archive.org/web/20251208075633im_/http://spidermedia.ru/assets/images/import_image/161.jpg",
+  "modx_id": 161,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

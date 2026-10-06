@@ -8,6 +8,12 @@
     "marvel",
     "avengers"
   ],
+  "cover": "https://web.archive.org/web/20160617081843im_/http://spidermedia.ru/assets/images/games/avengers-academy/7fd76ad51a60025235bc460016352c8c.png",
+  "modx_id": 100759,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,6 +1,6 @@
 {
   "title": "\"Хрононавты\" - весёлая фантастика от Марка Миллара и Шона Гордона Мерфи",
-  "date": "2014-11-18T12:12:00+03:00",
+  "date": "2014-11-18T12:12:51+03:00",
   "url": "/news/hrononavty-vesyolaya-fantastika-ot-marka-millara-i-shona-gordona-merfi/",
   "original_url": "http://spidermedia.ru/news/hrononavty-vesyolaya-fantastika-ot-marka-millara-i-shona-gordona-merfi",
   "archived": "https://web.archive.org/web/20260307063817/http://spidermedia.ru/news/hrononavty-vesyolaya-fantastika-ot-marka-millara-i-shona-gordona-merfi",
@@ -8,6 +8,12 @@
     "shon-gordon-merfi",
     "mark-millar",
     "image-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150424123025im_/http://spidermedia.ru/assets/images/import_image/8296.jpg",
+  "modx_id": 8296,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

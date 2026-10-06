@@ -1,6 +1,6 @@
 {
   "title": "Первая информация о втором сезоне Earth's Mightiest Heroes",
-  "date": "2011-04-22T02:26:00+03:00",
+  "date": "2011-04-22T01:26:50+03:00",
   "url": "/news/pervaya-informaciya-o-vtorom-sezone-earths-mightiest-heroes/",
   "original_url": "http://spidermedia.ru/news/pervaya-informaciya-o-vtorom-sezone-earths-mightiest-heroes",
   "archived": "https://web.archive.org/web/20260124051231/http://spidermedia.ru/news/pervaya-informaciya-o-vtorom-sezone-earths-mightiest-heroes",
@@ -8,6 +8,12 @@
     "animaciya",
     "marvel",
     "avengers"
+  ],
+  "cover": "https://web.archive.org/web/20260124051231im_/http://spidermedia.ru/assets/images/import_image/5093.jpg",
+  "modx_id": 5093,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

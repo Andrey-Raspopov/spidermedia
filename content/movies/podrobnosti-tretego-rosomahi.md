@@ -10,6 +10,12 @@
     "x-23",
     "x-men"
   ],
+  "cover": "https://web.archive.org/web/20260312012544im_/http://spidermedia.ru/assets/images/movies/marvel/wolverine-3/weapon-x23.jpg",
+  "modx_id": 101216,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

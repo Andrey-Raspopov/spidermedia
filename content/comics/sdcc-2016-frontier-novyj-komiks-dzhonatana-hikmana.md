@@ -10,6 +10,12 @@
     "dzhonatan-hikman",
     "san-diego-comic-con-international"
   ],
+  "cover": "https://web.archive.org/web/20180203234925im_/http://spidermedia.ru/assets/images/news/image/fron_poly.jpg",
+  "modx_id": 101270,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

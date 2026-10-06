@@ -9,6 +9,12 @@
     "roskomnadzor",
     "russian-comics"
   ],
+  "cover": "https://web.archive.org/web/20160611133409im_/http://spidermedia.ru/assets/images/roskomnadzor/27112015/it-funny2-e1302793918171.png",
+  "modx_id": 100729,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

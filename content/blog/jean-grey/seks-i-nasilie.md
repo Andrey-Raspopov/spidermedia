@@ -1,7 +1,10 @@
 {
   "title": "Секс и Насилие",
-  "date": "2009-02-08T23:43:00+03:00",
+  "date": "2009-02-08T23:43:59+03:00",
   "url": "/blog/jean-grey/seks-i-nasilie/",
+  "aliases": [
+    "/node/279/"
+  ],
   "original_url": "http://spidermedia.ru/blog/jean-grey/seks-i-nasilie",
   "archived": "https://web.archive.org/web/20251108031256/http://spidermedia.ru/blog/jean-grey/seks-i-nasilie",
   "tags": [
@@ -13,7 +16,14 @@
     "domino",
     "gabriele-dell-otto",
     "krejg-kajl",
-    "kris-jost"
+    "kris-jost",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20251108031256im_/http://spidermedia.ru/assets/images/import_image/279.jpg",
+  "modx_id": 279,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

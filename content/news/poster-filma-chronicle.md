@@ -1,12 +1,18 @@
 {
   "title": "Постер фильма \"CHRONICLE\"",
-  "date": "2011-12-16T11:57:00+03:00",
+  "date": "2011-12-16T10:57:06+03:00",
   "url": "/news/poster-filma-chronicle/",
   "original_url": "http://spidermedia.ru/news/poster-filma-chronicle",
   "archived": "https://web.archive.org/web/20260314080543/http://spidermedia.ru/news/poster-filma-chronicle",
   "tags": [
     "trejlery",
     "postery"
+  ],
+  "cover": "https://web.archive.org/web/20260314080543im_/http://spidermedia.ru/assets/images/import_image/6739.jpg",
+  "modx_id": 6739,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

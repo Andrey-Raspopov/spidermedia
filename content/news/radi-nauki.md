@@ -1,6 +1,6 @@
 {
   "title": "Ради науки",
-  "date": "2012-02-10T11:40:00+03:00",
+  "date": "2012-02-10T10:40:16+03:00",
   "url": "/news/radi-nauki/",
   "original_url": "http://spidermedia.ru/news/radi-nauki",
   "archived": "https://web.archive.org/web/20251115032951/http://spidermedia.ru/news/radi-nauki",
@@ -8,6 +8,12 @@
     "dzhonatan-hikman",
     "nik-pitarra",
     "image-comics"
+  ],
+  "cover": "https://web.archive.org/web/20251115032951im_/http://spidermedia.ru/assets/images/import_image/6777.jpg",
+  "modx_id": 6777,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

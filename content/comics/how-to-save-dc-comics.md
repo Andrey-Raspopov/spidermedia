@@ -9,6 +9,12 @@
     "imho",
     "mnenie"
   ],
+  "cover": "https://web.archive.org/web/20251117005326im_/http://spidermedia.ru/assets/images/imho/how-to-save-dc/marvels-gambit.jpg",
+  "modx_id": 102323,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

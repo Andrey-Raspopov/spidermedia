@@ -1,6 +1,6 @@
 {
   "title": "Человек слова",
-  "date": "2011-07-16T02:47:00+03:00",
+  "date": "2011-07-16T01:47:52+03:00",
   "url": "/news/chelovek-slova/",
   "original_url": "http://spidermedia.ru/news/chelovek-slova",
   "archived": "https://web.archive.org/web/20160917071230/http://spidermedia.ru:80/news/chelovek-slova",
@@ -9,6 +9,12 @@
     "iron-fist",
     "marvel",
     "fear-itself"
+  ],
+  "cover": "https://web.archive.org/web/20160917071230im_/http://spidermedia.ru/assets/images/import_image/6490.jpg",
+  "modx_id": 6490,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -4,6 +4,9 @@
   "url": "/docs/review/marvel/team-up/wolv_cap/",
   "original_url": "http://www.spidermedia.ru/docs/review/marvel/team-up/wolv_cap.html",
   "archived": "https://web.archive.org/web/20050310010639/http://www.spidermedia.ru:80/docs/review/marvel/team-up/wolv_cap.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

@@ -1,7 +1,10 @@
 {
   "title": "Дурная голова ногам покоя не дает",
-  "date": "2009-04-18T23:55:00+03:00",
+  "date": "2009-04-18T22:55:40+03:00",
   "url": "/news/durnaya-golova-nogam-pokoya-ne-daet/",
+  "aliases": [
+    "/node/991/"
+  ],
   "original_url": "http://spidermedia.ru/news/durnaya-golova-nogam-pokoya-ne-daet",
   "archived": "https://web.archive.org/web/20120608025728/http://spidermedia.ru/news/durnaya-golova-nogam-pokoya-ne-daet",
   "tags": [
@@ -10,6 +13,11 @@
     "dedpul",
     "komiksy",
     "marvel"
+  ],
+  "modx_id": 991,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

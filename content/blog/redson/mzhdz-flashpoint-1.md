@@ -1,6 +1,6 @@
 {
   "title": "МЖДЗ: FLASHPOINT #1",
-  "date": "2011-05-12T13:46:00+03:00",
+  "date": "2011-05-12T12:46:05+03:00",
   "url": "/blog/redson/mzhdz-flashpoint-1/",
   "original_url": "http://spidermedia.ru/blog/redson/mzhdz-flashpoint-1",
   "archived": "https://web.archive.org/web/20260116213101/http://spidermedia.ru/blog/redson/mzhdz-flashpoint-1",
@@ -8,6 +8,12 @@
     "mnenie",
     "mzhdz",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20260116213101im_/http://spidermedia.ru/assets/images/import_image/5674.jpg",
+  "modx_id": 5674,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

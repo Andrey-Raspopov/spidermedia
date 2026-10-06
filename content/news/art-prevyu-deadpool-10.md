@@ -1,7 +1,10 @@
 {
   "title": "Арт-превью Deadpool #10",
-  "date": "2009-04-11T15:03:00+03:00",
+  "date": "2009-04-11T14:03:23+03:00",
   "url": "/news/art-prevyu-deadpool-10/",
+  "aliases": [
+    "/node/913/"
+  ],
   "original_url": "https://spidermedia.ru/news/art-prevyu-deadpool-10",
   "archived": "https://web.archive.org/web/20240623015900/https://spidermedia.ru/news/art-prevyu-deadpool-10",
   "tags": [
@@ -10,7 +13,13 @@
     "preview",
     "bullseye",
     "deadpool",
-    "deniel-vej"
+    "deniel-vej",
+    "prevyu"
+  ],
+  "modx_id": 913,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -7,6 +7,12 @@
   "tags": [
     "dark-horse"
   ],
+  "cover": "https://web.archive.org/web/20240908054748im_/http://spidermedia.ru/assets/images/news/dark-horse/palahniuk/palanik-colorbook_22.jpg",
+  "modx_id": 101220,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

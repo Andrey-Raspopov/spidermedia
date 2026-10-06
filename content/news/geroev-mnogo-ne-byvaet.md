@@ -1,6 +1,6 @@
 {
   "title": "Героев много не бывает",
-  "date": "2013-03-03T07:16:00+03:00",
+  "date": "2013-03-03T06:16:20+03:00",
   "url": "/news/geroev-mnogo-ne-byvaet/",
   "original_url": "https://spidermedia.ru/news/geroev-mnogo-ne-byvaet",
   "archived": "https://web.archive.org/web/20260313121032/https://spidermedia.ru/news/geroev-mnogo-ne-byvaet",
@@ -16,6 +16,12 @@
     "dzhoshua-uilyamson",
     "dzho-kejsi",
     "dark-horse"
+  ],
+  "cover": "https://web.archive.org/web/20260313121032im_/http://spidermedia.ru/assets/images/import_image/7155.jpg",
+  "modx_id": 7155,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "DC New 52: Detective Comics vol.2 #1",
-  "date": "2011-09-09T17:25:00+03:00",
+  "date": "2011-09-09T16:25:53+03:00",
   "url": "/blog/derden/dc-new-52-detective-comics-vol2-1/",
   "original_url": "https://spidermedia.ru/blog/derden/dc-new-52-detective-comics-vol2-1",
   "archived": "https://web.archive.org/web/20260307052151/https://spidermedia.ru/blog/derden/dc-new-52-detective-comics-vol2-1",
@@ -8,6 +8,12 @@
     "new-52",
     "dc-comics",
     "batman"
+  ],
+  "cover": "https://web.archive.org/web/20150503075101im_/http://spidermedia.ru/assets/images/import_image/6599.jpg",
+  "modx_id": 6599,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

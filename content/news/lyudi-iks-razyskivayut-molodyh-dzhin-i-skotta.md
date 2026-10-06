@@ -1,12 +1,19 @@
 {
   "title": "«Люди Икс» разыскивают молодых Джин и Скотта",
-  "date": "2014-11-19T10:23:00+03:00",
+  "date": "2014-11-19T10:23:04+03:00",
   "url": "/news/lyudi-iks-razyskivayut-molodyh-dzhin-i-skotta/",
   "original_url": "https://spidermedia.ru/news/lyudi-iks-razyskivayut-molodyh-dzhin-i-skotta",
   "archived": "https://web.archive.org/web/20241104084419/https://spidermedia.ru/news/lyudi-iks-razyskivayut-molodyh-dzhin-i-skotta",
   "tags": [
     "x-men",
-    "kasting"
+    "kasting",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20150502200136im_/http://spidermedia.ru/assets/images/import_image/8301.jpg",
+  "modx_id": 8301,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

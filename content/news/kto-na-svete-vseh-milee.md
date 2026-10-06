@@ -1,6 +1,6 @@
 {
   "title": "Кто на свете всех милее?",
-  "date": "2011-07-24T08:55:00+03:00",
+  "date": "2011-07-24T07:55:13+03:00",
   "url": "/news/kto-na-svete-vseh-milee/",
   "original_url": "https://spidermedia.ru/news/kto-na-svete-vseh-milee",
   "archived": "https://web.archive.org/web/20260306001632/https://spidermedia.ru/news/kto-na-svete-vseh-milee",
@@ -14,6 +14,12 @@
     "bill-uillingem",
     "vertigo",
     "fables"
+  ],
+  "cover": "https://web.archive.org/web/20260306001632im_/http://spidermedia.ru/assets/images/import_image/6524.jpg",
+  "modx_id": 6524,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -8,6 +8,12 @@
     "image-comics",
     "image-expo"
   ],
+  "cover": "https://web.archive.org/web/20160611204017im_/http://spidermedia.ru/assets/images/news/image/image-expo-2015-07/sunset-park.jpg",
+  "modx_id": 100313,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

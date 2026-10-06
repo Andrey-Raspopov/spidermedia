@@ -1,12 +1,21 @@
 {
   "title": "Spider-Man: Back in Black",
-  "date": "2010-06-03T14:15:00+03:00",
+  "date": "2010-06-03T13:15:02+03:00",
   "url": "/news/spider-man-back-black/",
+  "aliases": [
+    "/node/2653/"
+  ],
   "original_url": "http://spidermedia.ru/news/spider-man-back-black",
   "archived": "https://web.archive.org/web/20260125064130/http://spidermedia.ru/news/spider-man-back-black",
   "tags": [
     "sluhi",
     "spider-man"
+  ],
+  "cover": "https://web.archive.org/web/20260125064130im_/http://spidermedia.ru/assets/images/import_image/2653.jpg",
+  "modx_id": 2653,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,13 +1,20 @@
 {
   "title": "Новый трейлер \"Железного Человека 3\"",
-  "date": "2013-03-05T21:00:00+03:00",
+  "date": "2013-03-05T20:00:07+03:00",
   "url": "/news/novyy-treyler-zheleznogo-cheloveka-3/",
   "original_url": "https://spidermedia.ru/news/novyy-treyler-zheleznogo-cheloveka-3",
   "archived": "https://web.archive.org/web/20260116210902/https://spidermedia.ru/news/novyy-treyler-zheleznogo-cheloveka-3",
   "tags": [
     "trejlery",
     "marvel",
-    "iron-man"
+    "iron-man",
+    "zheleznyy-chelovek"
+  ],
+  "cover": "https://web.archive.org/web/20260116210902im_/http://spidermedia.ru/assets/images/import_image/7158.jpg",
+  "modx_id": 7158,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

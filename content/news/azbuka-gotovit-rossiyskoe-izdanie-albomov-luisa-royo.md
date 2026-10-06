@@ -1,12 +1,18 @@
 {
   "title": "«Азбука» готовит российское издание альбомов Луиса Ройо",
-  "date": "2014-08-26T10:09:00+03:00",
+  "date": "2014-08-26T09:09:02+03:00",
   "url": "/news/azbuka-gotovit-rossiyskoe-izdanie-albomov-luisa-royo/",
   "original_url": "https://spidermedia.ru/news/azbuka-gotovit-rossiyskoe-izdanie-albomov-luisa-royo",
   "archived": "https://web.archive.org/web/20251108025134/https://spidermedia.ru/news/azbuka-gotovit-rossiyskoe-izdanie-albomov-luisa-royo",
   "tags": [
     "luis-rojo",
     "azbuka"
+  ],
+  "cover": "https://web.archive.org/web/20160612021934im_/http://spidermedia.ru/assets/images/import_image/8016.jpg",
+  "modx_id": 8016,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

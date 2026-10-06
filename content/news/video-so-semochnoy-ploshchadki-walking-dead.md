@@ -1,13 +1,22 @@
 {
   "title": "Видео со съемочной площадки \"The Walking Dead\"",
-  "date": "2010-07-20T12:06:00+03:00",
+  "date": "2010-07-20T11:06:11+03:00",
   "url": "/news/video-so-semochnoy-ploshchadki-walking-dead/",
+  "aliases": [
+    "/node/2751/"
+  ],
   "original_url": "https://spidermedia.ru/news/video-so-semochnoy-ploshchadki-walking-dead",
   "archived": "https://web.archive.org/web/20260211191247/https://spidermedia.ru/news/video-so-semochnoy-ploshchadki-walking-dead",
   "tags": [
     "serialy",
     "robert-kirkman",
-    "the-walking-dead"
+    "the-walking-dead",
+    "tv"
+  ],
+  "modx_id": 2751,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

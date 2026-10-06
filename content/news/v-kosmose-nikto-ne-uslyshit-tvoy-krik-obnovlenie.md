@@ -1,7 +1,10 @@
 {
   "title": "В космосе никто не услышит твой крик + обновление",
-  "date": "2009-08-18T03:20:00+03:00",
+  "date": "2009-08-18T02:20:04+03:00",
   "url": "/news/v-kosmose-nikto-ne-uslyshit-tvoy-krik-obnovlenie/",
+  "aliases": [
+    "/node/1594/"
+  ],
   "original_url": "http://spidermedia.ru/news/v-kosmose-nikto-ne-uslyshit-tvoy-krik-obnovlenie",
   "archived": "https://web.archive.org/web/20260115062048/http://spidermedia.ru/news/v-kosmose-nikto-ne-uslyshit-tvoy-krik-obnovlenie",
   "tags": [
@@ -11,6 +14,11 @@
     "marvel",
     "hope",
     "cable"
+  ],
+  "modx_id": 1594,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

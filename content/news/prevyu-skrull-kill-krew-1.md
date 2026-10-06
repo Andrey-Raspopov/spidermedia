@@ -1,6 +1,6 @@
 {
   "title": "Превью Skrull Kill Krew #1",
-  "date": "2009-04-17T00:11:00+03:00",
+  "date": "2009-04-16T23:11:30+03:00",
   "url": "/news/prevyu-skrull-kill-krew-1/",
   "original_url": "http://spidermedia.ru/news/prevyu-skrull-kill-krew-1",
   "archived": "https://web.archive.org/web/20120608195933/http://spidermedia.ru/news/prevyu-skrull-kill-krew-1",
@@ -9,7 +9,13 @@
     "adam-felber",
     "art-0",
     "komiksy",
-    "oblozhki"
+    "oblozhki",
+    "art"
+  ],
+  "modx_id": 967,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

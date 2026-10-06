@@ -1,12 +1,18 @@
 {
   "title": "Знакомьтесь: Стражи галактики! + Первый постер",
-  "date": "2014-02-20T23:59:00+03:00",
+  "date": "2014-02-20T22:59:27+03:00",
   "url": "/news/znakomtes-reaktivnyy-enot/",
   "original_url": "http://spidermedia.ru/news/znakomtes-reaktivnyy-enot",
   "archived": "https://web.archive.org/web/20240806233936/http://spidermedia.ru/news/znakomtes-reaktivnyy-enot",
   "tags": [
     "guardians-of-the-galaxy",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150424024230im_/http://spidermedia.ru/assets/images/import_image/7654.jpg",
+  "modx_id": 7654,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

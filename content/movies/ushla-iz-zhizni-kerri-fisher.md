@@ -7,6 +7,12 @@
   "tags": [
     "zvezdnye-vojny"
   ],
+  "cover": "https://web.archive.org/web/20170911102441im_/http://spidermedia.ru/assets/images/news/movies/star-wars/24c8rxxef4.jpg",
+  "modx_id": 101467,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

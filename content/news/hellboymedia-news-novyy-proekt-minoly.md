@@ -1,12 +1,18 @@
 {
   "title": "Hellboymedia: Новый загадочный проект Миньолы",
-  "date": "2014-08-11T16:23:00+03:00",
+  "date": "2014-08-11T15:23:13+03:00",
   "url": "/news/hellboymedia-news-novyy-proekt-minoly/",
   "original_url": "https://spidermedia.ru/news/hellboymedia-news-novyy-proekt-minoly",
   "archived": "https://web.archive.org/web/20260309185656/https://spidermedia.ru/news/hellboymedia-news-novyy-proekt-minoly",
   "tags": [
     "novosti",
     "hellboymedia"
+  ],
+  "cover": "https://web.archive.org/web/20160611165815im_/http://spidermedia.ru/assets/images/hellboymedia/news/mysterious-mignola-project/unnanounced-mignola-project-cover.jpg",
+  "modx_id": 7979,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

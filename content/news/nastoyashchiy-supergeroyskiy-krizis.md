@@ -1,6 +1,6 @@
 {
   "title": "Настоящий супергеройский кризис",
-  "date": "2010-09-15T08:20:00+03:00",
+  "date": "2010-09-15T07:20:12+03:00",
   "url": "/news/nastoyashchiy-supergeroyskiy-krizis/",
   "original_url": "http://spidermedia.ru/news/nastoyashchiy-supergeroyskiy-krizis",
   "archived": "https://web.archive.org/web/20120607175308/http://spidermedia.ru/news/nastoyashchiy-supergeroyskiy-krizis",
@@ -10,6 +10,12 @@
     "komiksy",
     "mark-bernardin",
     "havi-fernandes"
+  ],
+  "cover": "https://web.archive.org/web/20120607175308im_/http://spidermedia.ru/assets/images/import_image/2914.jpg",
+  "modx_id": 2914,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

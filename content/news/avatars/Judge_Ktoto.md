@@ -4,6 +4,9 @@
   "url": "/news/avatars/Judge_Ktoto/",
   "original_url": "http://www.spidermedia.ru/news/avatars/Judge_Ktoto",
   "archived": "https://web.archive.org/web/20050324040247/http://www.spidermedia.ru:80/news/avatars/Judge_Ktoto",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "cp1251 (guessed)"
 }

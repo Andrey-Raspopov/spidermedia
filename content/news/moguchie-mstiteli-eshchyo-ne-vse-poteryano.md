@@ -1,6 +1,6 @@
 {
   "title": "Могучие Мстители - ещё не все потеряно?",
-  "date": "2009-04-01T12:14:00+03:00",
+  "date": "2009-04-01T11:14:14+03:00",
   "url": "/news/moguchie-mstiteli-eshchyo-ne-vse-poteryano/",
   "original_url": "http://spidermedia.ru/news/moguchie-mstiteli-eshchyo-ne-vse-poteryano",
   "archived": "https://web.archive.org/web/20190820205758/http://spidermedia.ru:80/news/moguchie-mstiteli-eshchyo-ne-vse-poteryano",
@@ -10,6 +10,11 @@
     "den-slott",
     "mighty-avengers",
     "mistiteli"
+  ],
+  "modx_id": 824,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

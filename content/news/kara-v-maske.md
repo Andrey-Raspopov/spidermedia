@@ -15,6 +15,9 @@
     "tim-bredstrit",
     "frenk-tieri-0"
   ],
+  "sources": [
+    "archive"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }
@@ -23,6 +26,6 @@
 
 ]]>[![](https://web.archive.org/web/20120608174714im_/http://s47.radikal.ru/i115/0905/ea/9a5020e2b0f6t.jpg)](http://s47.radikal.ru/i115/0905/ea/9a5020e2b0f6.jpg)]]> ]]>[![](https://web.archive.org/web/20120608174714im_/http://s55.radikal.ru/i150/0905/87/6bbb530b7565t.jpg)](http://s55.radikal.ru/i150/0905/87/6bbb530b7565.jpg)]]>
 
-Первый кавер авторства **Тима Бредстрита** *(Tim Bradstreet)*, вариант-обложка принадлежит уже проверенному **Дэннису Калеро** *(Dennis Calero)*. О самой лимитке уже достаточно говорилось в этой [заметке](../../node/487/), там же и превью первого номера.
+Первый кавер авторства **Тима Бредстрита** *(Tim Bradstreet)*, вариант-обложка принадлежит уже проверенному **Дэннису Калеро** *(Dennis Calero)*. О самой лимитке уже достаточно говорилось в этой [заметке](../frenk-kastilone-vstupaet-na-tropu-voyny/), там же и превью первого номера.
 
 Поделиться:

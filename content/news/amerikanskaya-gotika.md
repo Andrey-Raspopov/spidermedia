@@ -1,13 +1,22 @@
 {
   "title": "Американская готика",
-  "date": "2009-10-29T01:33:00+03:00",
+  "date": "2009-10-29T01:33:01+03:00",
   "url": "/news/amerikanskaya-gotika/",
+  "aliases": [
+    "/node/2027/"
+  ],
   "original_url": "https://spidermedia.ru/news/amerikanskaya-gotika",
   "archived": "https://web.archive.org/web/20251213184136/https://spidermedia.ru/news/amerikanskaya-gotika",
   "tags": [
     "skott-snajder",
     "rafael-albukerke",
     "vertigo"
+  ],
+  "cover": "https://web.archive.org/web/20251213184136im_/http://spidermedia.ru/assets/images/import_image/2027.jpg",
+  "modx_id": 2027,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

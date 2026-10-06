@@ -1,6 +1,6 @@
 {
   "title": "ALL-NEW МЖДЗ: КОМИКСЫ НАС СВЯЗАЛИ",
-  "date": "2014-08-19T14:38:00+03:00",
+  "date": "2014-08-19T13:38:11+03:00",
   "url": "/blog/redson/all-new-mzhdz-komiksy-nas-svyazali-0/",
   "original_url": "http://spidermedia.ru/blog/redson/all-new-mzhdz-komiksy-nas-svyazali-0",
   "archived": "https://web.archive.org/web/20190928101143/http://spidermedia.ru:80/blog/redson/all-new-mzhdz-komiksy-nas-svyazali-0",
@@ -8,6 +8,12 @@
     "mzhdz",
     "mnenie",
     "recenziya"
+  ],
+  "cover": "https://web.archive.org/web/20190928101143im_/http://spidermedia.ru/assets/images/import_image/8004.jpg",
+  "modx_id": 8004,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

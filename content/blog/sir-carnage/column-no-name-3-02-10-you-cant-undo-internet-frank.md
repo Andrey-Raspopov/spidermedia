@@ -1,6 +1,6 @@
 {
   "title": "The Column With No Name: 3/02/10 - You can't undo the internet, Frank!",
-  "date": "2010-02-07T04:47:00+03:00",
+  "date": "2010-02-07T04:47:34+03:00",
   "url": "/blog/sir-carnage/column-no-name-3-02-10-you-cant-undo-internet-frank/",
   "original_url": "http://spidermedia.ru/blog/sir-carnage/column-no-name-3-02-10-you-cant-undo-internet-frank",
   "archived": "https://web.archive.org/web/20200130013519/http://spidermedia.ru:80/blog/sir-carnage/column-no-name-3-02-10-you-cant-undo-internet-frank",
@@ -8,6 +8,12 @@
     "marvel",
     "dc-comics",
     "the-column-with-no-name"
+  ],
+  "cover": "https://web.archive.org/web/20200130013519im_/http://spidermedia.ru/assets/images/import_image/2346.jpg",
+  "modx_id": 2346,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

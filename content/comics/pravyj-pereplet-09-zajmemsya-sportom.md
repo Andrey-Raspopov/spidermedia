@@ -8,15 +8,19 @@
     "manga",
     "right-binding"
   ],
+  "cover": "https://web.archive.org/web/20241201181849im_/http://spidermedia.ru/assets/images/manga/pp-09/pp09.jpg",
+  "modx_id": 101666,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](https://web.archive.org/web/20241201180803im_/http://spidermedia.ru/assets/cache/images/manga/pp-09/622x-pp09.2e9.jpg)](https://web.archive.org/web/20241201181849im_/http://spidermedia.ru/assets/images/manga/pp-09/pp09.jpg)
-
 Вот так они до тебя и добираются, выпускают что-то по твоей любимой вселенной, и ты просто не можешь это не купить. Я это к чему, начал собирать фигурки от *Funko* (как будто комиксов и манги было мало).
 
-[![](https://web.archive.org/web/20241201175821im_/http://spidermedia.ru/assets/images/manga/pp-09/000.jpg)](./)
+![](https://web.archive.org/web/20241201175821im_/http://spidermedia.ru/assets/images/manga/pp-09/000.jpg)
 
 Сегодня в программе: спортивные аниме, августовские новинки и однотомники, с рецензиями на которые мне помог Дима Андреев.
 
@@ -32,9 +36,7 @@
 
 И **Overlord**, и **Progressive** будут доступны для покупки уже в следующем предзаказе, далее, согласно заявленному графику, планируется выпускать по 4 тома каждой из серий в год.
 
-[![](https://web.archive.org/web/20241201180931im_/http://spidermedia.ru/assets/images/manga/pp-09/ic-01.jpg)](./)
-[![](https://web.archive.org/web/20250609204319im_/http://spidermedia.ru/assets/images/manga/pp-09/ic-02.jpg)](./)
-[![](https://web.archive.org/web/20241202103128im_/http://spidermedia.ru/assets/images/manga/pp-09/ic-03.jpg)](./)
+![](https://web.archive.org/web/20241201180931im_/http://spidermedia.ru/assets/images/manga/pp-09/ic-01.jpg)![](https://web.archive.org/web/20250609204319im_/http://spidermedia.ru/assets/images/manga/pp-09/ic-02.jpg)![](https://web.archive.org/web/20241202103128im_/http://spidermedia.ru/assets/images/manga/pp-09/ic-03.jpg)
 
 *Это прекрасно, что ранобэ-направление у нас так расцветает. Но чего опять попаданцы в игровом фэнтезийном мире? Видимо моя мечта о лицензировании работ* *Рёго Нарит**ы (**Baccano,* *DRRR!!) так и останется несбыточной.*
 
@@ -42,93 +44,33 @@
 
 Продажи стартуют на фестивале **Comic Con Russia 2017**. Помимо стенда **Bubble**,книгу можно будет приобрести у **«Истари комикс»**. Да еще и с эксклюзивной обложкой.
 
-[![](https://web.archive.org/web/20220922085513im_/http://spidermedia.ru/assets/images/manga/pp-09/b-01.jpg)](https://web.archive.org/web/20220922085513im_/http://spidermedia.ru/assets/images/manga/pp-09/b-01.jpg)
-
-[![](https://web.archive.org/web/20241201180010im_/http://spidermedia.ru/assets/images/manga/pp-09/b-02.jpg)](https://web.archive.org/web/20241201180010im_/http://spidermedia.ru/assets/images/manga/pp-09/b-02.jpg)
-
-[![](https://web.archive.org/web/20250708174110im_/http://spidermedia.ru/assets/images/manga/pp-09/b-03.jpg)](https://web.archive.org/web/20250708174110im_/http://spidermedia.ru/assets/images/manga/pp-09/b-03.jpg)
-
-[![](https://web.archive.org/web/20241204000946im_/http://spidermedia.ru/assets/images/manga/pp-09/b-04.jpg)](https://web.archive.org/web/20241204000946im_/http://spidermedia.ru/assets/images/manga/pp-09/b-04.jpg)
-
-[![](https://web.archive.org/web/20250611233309im_/http://spidermedia.ru/assets/images/manga/pp-09/b-05.jpg)](https://web.archive.org/web/20250611233309im_/http://spidermedia.ru/assets/images/manga/pp-09/b-05.jpg)
-
-[![](https://web.archive.org/web/20241201180806im_/http://spidermedia.ru/assets/images/manga/pp-09/b-06.jpg)](https://web.archive.org/web/20241201180806im_/http://spidermedia.ru/assets/images/manga/pp-09/b-06.jpg)
-
-[![](https://web.archive.org/web/20250611045641im_/http://spidermedia.ru/assets/images/manga/pp-09/b-07.jpg)](https://web.archive.org/web/20250611045641im_/http://spidermedia.ru/assets/images/manga/pp-09/b-07.jpg)
+![](https://web.archive.org/web/20220922085513im_/http://spidermedia.ru/assets/images/manga/pp-09/b-01.jpg)![](https://web.archive.org/web/20241201180010im_/http://spidermedia.ru/assets/images/manga/pp-09/b-02.jpg)![](https://web.archive.org/web/20250708174110im_/http://spidermedia.ru/assets/images/manga/pp-09/b-03.jpg)![](https://web.archive.org/web/20241204000946im_/http://spidermedia.ru/assets/images/manga/pp-09/b-04.jpg)![](https://web.archive.org/web/20250611233309im_/http://spidermedia.ru/assets/images/manga/pp-09/b-05.jpg)![](https://web.archive.org/web/20241201180806im_/http://spidermedia.ru/assets/images/manga/pp-09/b-06.jpg)![](https://web.archive.org/web/20250611045641im_/http://spidermedia.ru/assets/images/manga/pp-09/b-07.jpg)
 
 Издательство **XL****Media** сдало в печать первые томики серий **«Нелюдь»** и **«Ну не может моя сестренка быть такой милой»**. В продажу они должны поступить в октябре, хотя **«Сестренка»** может успеть к Комик-кону. Также кипит работа над вторыми томами **Blame!** и **No****Game** **No****Life**, а к концу года обещают пятую часть подзабытого **«Города кислоты»**.
 
-[![](https://web.archive.org/web/20241201181311im_/http://spidermedia.ru/assets/images/manga/pp-09/xl-1-01.jpg)](https://web.archive.org/web/20241201181311im_/http://spidermedia.ru/assets/images/manga/pp-09/xl-1-01.jpg)
-
-[![](https://web.archive.org/web/20241201175934im_/http://spidermedia.ru/assets/images/manga/pp-09/xl-1-02.jpg)](https://web.archive.org/web/20241201175934im_/http://spidermedia.ru/assets/images/manga/pp-09/xl-1-02.jpg)
-
-[![](https://web.archive.org/web/20250708081522im_/http://spidermedia.ru/assets/images/manga/pp-09/xl-1-03.jpg)](https://web.archive.org/web/20250708081522im_/http://spidermedia.ru/assets/images/manga/pp-09/xl-1-03.jpg)
-
-[![](https://web.archive.org/web/20250609111001im_/http://spidermedia.ru/assets/images/manga/pp-09/xl-1-04.jpg)](https://web.archive.org/web/20250609111001im_/http://spidermedia.ru/assets/images/manga/pp-09/xl-1-04.jpg)
-
-[![](https://web.archive.org/web/20250708101904im_/http://spidermedia.ru/assets/images/manga/pp-09/xl-1-05.jpg)](https://web.archive.org/web/20250708101904im_/http://spidermedia.ru/assets/images/manga/pp-09/xl-1-05.jpg)
-
-[![](https://web.archive.org/web/20241201181801im_/http://spidermedia.ru/assets/images/manga/pp-09/xl-1-06.jpg)](https://web.archive.org/web/20241201181801im_/http://spidermedia.ru/assets/images/manga/pp-09/xl-1-06.jpg)
-
-[![](https://web.archive.org/web/20241201180238im_/http://spidermedia.ru/assets/images/manga/pp-09/xl-1-07.jpg)](https://web.archive.org/web/20241201180238im_/http://spidermedia.ru/assets/images/manga/pp-09/xl-1-07.jpg)
-
-[![](https://web.archive.org/web/20241201180054im_/http://spidermedia.ru/assets/images/manga/pp-09/xl-1-08.jpg)](https://web.archive.org/web/20241201180054im_/http://spidermedia.ru/assets/images/manga/pp-09/xl-1-08.jpg)
-
-[![](https://web.archive.org/web/20250609153021im_/http://spidermedia.ru/assets/images/manga/pp-09/xl-1-09.jpg)](https://web.archive.org/web/20250609153021im_/http://spidermedia.ru/assets/images/manga/pp-09/xl-1-09.jpg)
-
-[![](https://web.archive.org/web/20250629104113im_/http://spidermedia.ru/assets/images/manga/pp-09/xl-1-10.jpg)](https://web.archive.org/web/20250629104113im_/http://spidermedia.ru/assets/images/manga/pp-09/xl-1-10.jpg)
-
-[![](https://web.archive.org/web/20250707185235im_/http://spidermedia.ru/assets/images/manga/pp-09/xl-2-01.jpg)](https://web.archive.org/web/20250707185235im_/http://spidermedia.ru/assets/images/manga/pp-09/xl-2-01.jpg)
-
-[![](https://web.archive.org/web/20241201184403im_/http://spidermedia.ru/assets/images/manga/pp-09/xl-2-02.jpg)](https://web.archive.org/web/20241201184403im_/http://spidermedia.ru/assets/images/manga/pp-09/xl-2-02.jpg)
-
-[![](https://web.archive.org/web/20250610074934im_/http://spidermedia.ru/assets/images/manga/pp-09/xl-2-03.jpg)](https://web.archive.org/web/20250610074934im_/http://spidermedia.ru/assets/images/manga/pp-09/xl-2-03.jpg)
-
-[![](https://web.archive.org/web/20241201180847im_/http://spidermedia.ru/assets/images/manga/pp-09/xl-2-04.jpg)](https://web.archive.org/web/20241201180847im_/http://spidermedia.ru/assets/images/manga/pp-09/xl-2-04.jpg)
-
-[![](https://web.archive.org/web/20241201175618im_/http://spidermedia.ru/assets/images/manga/pp-09/xl-2-05.jpg)](https://web.archive.org/web/20241201175618im_/http://spidermedia.ru/assets/images/manga/pp-09/xl-2-05.jpg)
-
-[![](https://web.archive.org/web/20241201181142im_/http://spidermedia.ru/assets/images/manga/pp-09/xl-2-06.jpg)](https://web.archive.org/web/20241201181142im_/http://spidermedia.ru/assets/images/manga/pp-09/xl-2-06.jpg)
+![](https://web.archive.org/web/20241201181311im_/http://spidermedia.ru/assets/images/manga/pp-09/xl-1-01.jpg)![](https://web.archive.org/web/20241201175934im_/http://spidermedia.ru/assets/images/manga/pp-09/xl-1-02.jpg)![](https://web.archive.org/web/20250708081522im_/http://spidermedia.ru/assets/images/manga/pp-09/xl-1-03.jpg)![](https://web.archive.org/web/20250609111001im_/http://spidermedia.ru/assets/images/manga/pp-09/xl-1-04.jpg)![](https://web.archive.org/web/20250708101904im_/http://spidermedia.ru/assets/images/manga/pp-09/xl-1-05.jpg)![](https://web.archive.org/web/20241201181801im_/http://spidermedia.ru/assets/images/manga/pp-09/xl-1-06.jpg)![](https://web.archive.org/web/20241201180238im_/http://spidermedia.ru/assets/images/manga/pp-09/xl-1-07.jpg)![](https://web.archive.org/web/20241201180054im_/http://spidermedia.ru/assets/images/manga/pp-09/xl-1-08.jpg)![](https://web.archive.org/web/20250609153021im_/http://spidermedia.ru/assets/images/manga/pp-09/xl-1-09.jpg)![](https://web.archive.org/web/20250629104113im_/http://spidermedia.ru/assets/images/manga/pp-09/xl-1-10.jpg)![](https://web.archive.org/web/20250707185235im_/http://spidermedia.ru/assets/images/manga/pp-09/xl-2-01.jpg)![](https://web.archive.org/web/20241201184403im_/http://spidermedia.ru/assets/images/manga/pp-09/xl-2-02.jpg)![](https://web.archive.org/web/20250610074934im_/http://spidermedia.ru/assets/images/manga/pp-09/xl-2-03.jpg)![](https://web.archive.org/web/20241201180847im_/http://spidermedia.ru/assets/images/manga/pp-09/xl-2-04.jpg)![](https://web.archive.org/web/20241201175618im_/http://spidermedia.ru/assets/images/manga/pp-09/xl-2-05.jpg)![](https://web.archive.org/web/20241201181142im_/http://spidermedia.ru/assets/images/manga/pp-09/xl-2-06.jpg)
 
 Проклятие снято. Первая книга ранобэ **«Без игры жизни нет»** вышла в свет. Так что в следующем выпуске ждите рецензию.
 
-[![](https://spidermedia.ru/assets/images/valiant/images/pp-04/03-2.jpg)](https://spidermedia.ru/assets/images/valiant/images/pp-04/03-2.jpg)
-
-[![](https://web.archive.org/web/20241201175740im_/http://spidermedia.ru/assets/images/manga/pp-09/xl-3-01.jpg)](https://web.archive.org/web/20241201175740im_/http://spidermedia.ru/assets/images/manga/pp-09/xl-3-01.jpg)
-
-[![](https://web.archive.org/web/20250608034650im_/http://spidermedia.ru/assets/images/manga/pp-09/xl-3-02.jpg)](https://web.archive.org/web/20250608034650im_/http://spidermedia.ru/assets/images/manga/pp-09/xl-3-02.jpg)
-
-[![](https://web.archive.org/web/20241201175525im_/http://spidermedia.ru/assets/images/manga/pp-09/xl-3-03.jpg)](https://web.archive.org/web/20241201175525im_/http://spidermedia.ru/assets/images/manga/pp-09/xl-3-03.jpg)
-
-[![](https://web.archive.org/web/20241201175643im_/http://spidermedia.ru/assets/images/manga/pp-09/xl-3-04.jpg)](https://web.archive.org/web/20241201175643im_/http://spidermedia.ru/assets/images/manga/pp-09/xl-3-04.jpg)
-
-[![](https://web.archive.org/web/20241201182559im_/http://spidermedia.ru/assets/images/manga/pp-09/xl-3-05.jpg)](https://web.archive.org/web/20241201182559im_/http://spidermedia.ru/assets/images/manga/pp-09/xl-3-05.jpg)
-
-[![](https://web.archive.org/web/20241201175846im_/http://spidermedia.ru/assets/images/manga/pp-09/xl-3-06.jpg)](https://web.archive.org/web/20241201175846im_/http://spidermedia.ru/assets/images/manga/pp-09/xl-3-06.jpg)
+![](https://web.archive.org/web/20250116122730im_/http://spidermedia.ru/assets/images/valiant/images/pp-04/03-2.jpg)![](https://web.archive.org/web/20241201175740im_/http://spidermedia.ru/assets/images/manga/pp-09/xl-3-01.jpg)![](https://web.archive.org/web/20250608034650im_/http://spidermedia.ru/assets/images/manga/pp-09/xl-3-02.jpg)![](https://web.archive.org/web/20241201175525im_/http://spidermedia.ru/assets/images/manga/pp-09/xl-3-03.jpg)![](https://web.archive.org/web/20241201175643im_/http://spidermedia.ru/assets/images/manga/pp-09/xl-3-04.jpg)![](https://web.archive.org/web/20241201182559im_/http://spidermedia.ru/assets/images/manga/pp-09/xl-3-05.jpg)![](https://web.archive.org/web/20241201175846im_/http://spidermedia.ru/assets/images/manga/pp-09/xl-3-06.jpg)
 
 **«Фабрика комиксов»** лицензировала очередную работу Суэхиро Маруо. Однотомник **Binzume no Jigoku** — это сборник из четырех историй, представляющих все многообразие форм, которое может принять ад для конкретного человека.
 
 Не утихает работа над **«Нелюбимым»**: седьмой том уходит в печать.
 
-[![](https://web.archive.org/web/20250708141537im_/http://spidermedia.ru/assets/images/manga/pp-09/fc-01.jpg)](./)
-[![](https://web.archive.org/web/20250629105758im_/http://spidermedia.ru/assets/images/manga/pp-09/fc-02.jpg)](./)
+![](https://web.archive.org/web/20250708141537im_/http://spidermedia.ru/assets/images/manga/pp-09/fc-01.jpg)![](https://web.archive.org/web/20250629105758im_/http://spidermedia.ru/assets/images/manga/pp-09/fc-02.jpg)
 
 А пятый как раз начал поступать в продажу. Вместе с ним из типографии выбралась пятая книга манги **«Железный миротворец»**.
 
-[![](https://web.archive.org/web/20250611062301im_/http://spidermedia.ru/assets/images/manga/pp-08/fc-01.jpg)](./)
-[![](https://web.archive.org/web/20241201180432im_/http://spidermedia.ru/assets/images/manga/pp-08/fc-03.jpg)](./)
+![](https://web.archive.org/web/20250611062301im_/http://spidermedia.ru/assets/images/manga/pp-08/fc-01.jpg)![](https://web.archive.org/web/20241201180432im_/http://spidermedia.ru/assets/images/manga/pp-08/fc-03.jpg)
 
 У **«Азбуки»** выходит седьмой омнибус **«Атаки на титанов»**, там самым российское издание переваливает за середину серии. **«Бакуману»** бы подобных скоростей. Хотя при его объемах текста это невозможно.
 
-[![](https://web.archive.org/web/20241201175712im_/http://spidermedia.ru/assets/images/manga/pp-08/az-01.jpg)](https://web.archive.org/web/20241201175712im_/http://spidermedia.ru/assets/images/manga/pp-08/az-01.jpg)
-
-[![](https://web.archive.org/web/20241201182040im_/http://spidermedia.ru/assets/images/manga/pp-08/az-02.jpg)](https://web.archive.org/web/20241201182040im_/http://spidermedia.ru/assets/images/manga/pp-08/az-02.jpg)
-
-[![](https://web.archive.org/web/20241201180910im_/http://spidermedia.ru/assets/images/manga/pp-08/az-03.jpg)](https://web.archive.org/web/20241201180910im_/http://spidermedia.ru/assets/images/manga/pp-08/az-03.jpg)
+![](https://web.archive.org/web/20241201175712im_/http://spidermedia.ru/assets/images/manga/pp-08/az-01.jpg)![](https://web.archive.org/web/20241201182040im_/http://spidermedia.ru/assets/images/manga/pp-08/az-02.jpg)![](https://web.archive.org/web/20241201180910im_/http://spidermedia.ru/assets/images/manga/pp-08/az-03.jpg)
 
 А еще в своей группе издательство выложило недвусмысленный тизер.
 
-[![](https://web.archive.org/web/20241201191842im_/http://spidermedia.ru/assets/images/manga/pp-09/az-02.jpg)](./)
+![](https://web.archive.org/web/20241201191842im_/http://spidermedia.ru/assets/images/manga/pp-09/az-02.jpg)
 
 Теперь остается только гадать, какое издание нас ждет. Переиздание книг от **«Эксмо»**? Два тома в одном? Или вот такая [громадина](https://www.viz.com/read/manga/product/death-note/13016)?
 
@@ -146,13 +88,11 @@
 Число эпизодов: 24
 Студия: Production I.G.
 
-Мне очень импонирует тренд последних лет на использование более необычных видов спорта в аниме и манге. Чирлидинг, фигурное катание, гольф, и вот очередь дошла до спортивных танцев. Татара Фудзита не знает, кем хочет видеть себя в будущем. Как-то раз по дороге из школы на него нападает группа хулиганов. От них его спасает таинственный мотоциклист, который на самом деле оказывается профессиональным танцором и приводит Татару в свою студию. После первого урока и просмотра видео с одного из соревнований Фудзита решает непременно научиться танцевать. Такэути Томо, автор оригинальной манги, выбрала сложную в плане реализации тему, ей не только нужно было передать всю красоту движений танцевальных па в статичном рисунке, но и сделать это так, чтобы завлечь мальчишескую аудиторию. Со вторым у мангаки проблем нет: состязания (и тренировки) показаны крайне увлекательно. А вот с графикой все несколько сложнее (про [вольности](https://spidermedia.ru/assets/files/pic/a01.jpg) в анатомии говорить не буду, это все-таки часть художественного стиля). Такэути Томо пользуется обильной штриховкой, которая придает рисунку энергии, но не слишком хорошо передает [движение ног](https://spidermedia.ru/assets/files/pic/a02.jpg). В экранизации от этого приема отказались, из-за чего картинка стала выглядеть лучше, пусть и лишилась доли былой энергичности. История тоже имеет ряд незначительных изменений, но искренность увлеченности спортивными танцами, что была в манге, аниме воплотило идеально. Единственное, беспокоит концовка: сериал довольно шустро идет по первоисточнику (примерно по 2-2,5 серии на том), так что, учитывая количество серий, авторам придется выдумывать свой финал, а это крайне редко выходит удачно.
+Мне очень импонирует тренд последних лет на использование более необычных видов спорта в аниме и манге. Чирлидинг, фигурное катание, гольф, и вот очередь дошла до спортивных танцев. Татара Фудзита не знает, кем хочет видеть себя в будущем. Как-то раз по дороге из школы на него нападает группа хулиганов. От них его спасает таинственный мотоциклист, который на самом деле оказывается профессиональным танцором и приводит Татару в свою студию. После первого урока и просмотра видео с одного из соревнований Фудзита решает непременно научиться танцевать. Такэути Томо, автор оригинальной манги, выбрала сложную в плане реализации тему, ей не только нужно было передать всю красоту движений танцевальных па в статичном рисунке, но и сделать это так, чтобы завлечь мальчишескую аудиторию. Со вторым у мангаки проблем нет: состязания (и тренировки) показаны крайне увлекательно. А вот с графикой все несколько сложнее (про [вольности](http://spidermedia.ru/assets/files/pic/a01.jpg) в анатомии говорить не буду, это все-таки часть художественного стиля). Такэути Томо пользуется обильной штриховкой, которая придает рисунку энергии, но не слишком хорошо передает [движение ног](http://spidermedia.ru/assets/files/pic/a02.jpg). В экранизации от этого приема отказались, из-за чего картинка стала выглядеть лучше, пусть и лишилась доли былой энергичности. История тоже имеет ряд незначительных изменений, но искренность увлеченности спортивными танцами, что была в манге, аниме воплотило идеально. Единственное, беспокоит концовка: сериал довольно шустро идет по первоисточнику (примерно по 2-2,5 серии на том), так что, учитывая количество серий, авторам придется выдумывать свой финал, а это крайне редко выходит удачно.
 
 #### Kakegurui
 
-![](https://web.archive.org/web/20241202095051im_/http://spidermedia.ru/assets/cache/images/youtube/622x350-CK39n1Fa328.3e9.jpg)
-
-[Kakegurui Opening Theme Song - Deal with the devil / Tia [賭ケグルイ OP]](./) 00:01:37
+<iframe allowfullscreen="" frameborder="0" height="360" src="http://www.youtube.com/embed/CK39n1Fa328?wmode=transparent" width="640"></iframe>
 
 Жанр: драма
 Число эпизодов: 12
@@ -162,7 +102,7 @@
 
 #### Keppeki Danshi! Aoyama-kun
 
-![](https://web.archive.org/web/20250702023148im_/http://spidermedia.ru/assets/cache/images/youtube/622x350-yRlKeUBcC4I.3e9.jpg)
+<iframe allowfullscreen="" frameborder="0" height="360" src="http://www.youtube.com/embed/yRlKeUBcC4I?wmode=transparent" width="640"></iframe>
 
 Жанр: комедия
 Число эпизодов: 12
@@ -175,3 +115,60 @@
 **ЧИТАЕМ**
 
 ---
+
+a:3:{i:1;a:7:{s:5:"autor";a:3:{i:1;a:2:{i:0;s:12:"[Автор]";i:1;s:21:"Ю Томофудзи";}i:3;a:2:{i:0;s:51:"[Оригинальное издательство]";i:1;s:10:"Hakusensha";}i:5;a:2:{i:0;s:34:"[Количество томов ]";i:1;s:1:"1";}}s:4:"name";s:20:"Волколуние";s:7:"edition";s:0:"";s:5:"cover";s:34:"assets/images/manga/pp-05/07-2.jpg";s:9:"publisher";s:4:"3134";s:4:"year";s:4:"2017";s:8:"comments";a:1:{i:1;a:4:{s:5:"autor";s:6:"183732";s:4:"text";s:5557:"
+
+Ни для кого не секрет, что некоторые лицензии приобретаются либо в нагрузку, либо для налаживания отношений с зарубежными издательствами. «Гигантомахия» явно была основной целью «Истари» в последней закупке у *Hakusens**ha*, а остальные тайтлы шли дополнительно*.* И как хороший хозяин я отдал мангу Миуры гостю, а сам решил взглянуть на остальные однотомники.
+
+*Яя Тооцуки с детства видит всякую нечисть, что невидима другим людям. И однажды, когда одно из чудовищ напало на нее, девушке приходит на помощь говорящий щенок. Который оказывается грозным королем демонов Фенриром, заключенным в собачье тело тысячу лет назад. И**лишь**Яя**способна**снять**с**него**проклятие**.*
+
+[[gallery? &id=`2066` &type=`1` &rowHeight=`150` &maxRowHeight=`100%` &captions=`false` &fixedHeight=`false` &lastRow=`justify` &margins=`2`]]
+
+Так уж сложилось, что японским авторам редко удаются короткие произведения (как литературные, так и анимационные). Специфика манги, хотя нет, правильнее будет сказать темп, требует определенной длины, времени на раскачку. Потому найти стоящий однотомник задача не из легких. За отведенное количество страниц мангака успеет разве что обрисовать центральный концепт (по сути, сделать уан-шот для будущей сериализации), а вот до работы над персонажами или завершенности истории дело вряд ли дойдет.
+
+Тем меня и удивило «Волколуние». Ю Томофудзи за три главы смогла не только раскрыть главных героев, но и сумела заложить основу для изменения их характеров. Яя учится преодолевать свою нелюдимость и начинает сближаться с одноклассниками. Фенрис же к концу манги больше доверяет девушке и становится для нее настоящим защитником. И, конечно, ребята излечивают одиночество друг друга.
+
+А это очень распространенная тема. Вообще, градус «стандартности» у однотомника довольно высок. Что в основном выражается в шаблонной главной концепции «обычная девочка встречает волшебного мальчика» с предустановленными типажами персонажей и избитых сюжетных ходах. Но к чести автора, она старается их всячески разнообразить за счет мелких нюансов. Например, причина, по которой Фенрир поначалу остается с Яей, он не влюблен, а просто хочет ее съесть. Плюс, сами главы отличаются как по структуре (сценарий каждой части различается), так и по тематике (в каждом эпизоде характеры героев немного меняются, потому проблема одиночества рассматривается под новым углом). Этим манга и подкупает, Ю Томофудзи взяла за основу стандартные элементы (фабулу, персонажей, сюжет) и могла бы ими удовлетвориться (все отвечало бы минимальным читательским/редакторским запросам), но мангака постаралась, и вышло лучше, чем можно было предположить.
+
+«Волколуние» — типичная, в принципе, история про простую школьницу и необычного парня, в которую вложено неожиданно много стараний.
+
+";s:8:"mjdzText";s:0:"";s:10:"conclusion";s:0:"";}}}i:2;a:7:{s:5:"autor";a:3:{i:1;a:2:{i:0;s:12:"[Автор]";i:1;s:19:"Юки Сивасу";}i:3;a:2:{i:0;s:51:"[Оригинальное издательство]";i:1;s:10:"Hakusensha";}i:5;a:2:{i:0;s:33:"[Количество томов]";i:1;s:1:"1";}}s:4:"name";s:27:"Двойняшки Фуро";s:7:"edition";s:0:"";s:5:"cover";s:34:"assets/images/manga/pp-05/07-3.jpg";s:9:"publisher";s:4:"3134";s:4:"year";s:4:"2017";s:8:"comments";a:1:{i:1;a:4:{s:5:"autor";s:6:"183732";s:4:"text";s:3590:"
+
+*Близнецы Кёко и Дайскэ Фуро постоянно вместе. А все потому, что они очень восприимчивы к потусторонним силам. Когда двойняшки разлучаются, то в них тут**же вселяются различные духи, которых брат с сестрой могут прогнать только вдвоем.*
+
+[[gallery? &id=`2067` &type=`1` &rowHeight=`150` &maxRowHeight=`100%` &captions=`false` &fixedHeight=`false` &lastRow=`justify` &margins=`2`]]
+
+А вот это уже менее удачный пример однотомной манги. Ведь дальше стартового уан-шота (т.е. первой части) история не уходит. Персонажи застревают в своих первоначальных образах, абсолютно не меняясь. На протяжении всего тома, из главы в главу, они сталкиваются с одними и теми же трудностями: «общество» не приемлет излишне близкие отношения брата и сестры, из-за чего Кёко переживает и старается отстраниться от брата. В конце эпизода она понимает, что их связь важнее всего и не стоит обращать внимание на мнение других. Но уже в следующей главе она опять комплексует по этому поводу, вышеописанный алгоритм вновь запускается. И так весь том: одинаковые проблемы, одинаковые выводы. Даже сюжет и тот повторяется (за исключением третьей главы). Кто-то из одноклассников говорит, что связь близнецов ненормальна; Кёко переживает и убегает, встречает мальчика-призрака, у которого осталась старшая сестра; двойняшки помогают им, и Кёко осознает, что не может без Дайске.
+
+Больше сказать про эту мангу нечего. Истории не увлекают совершенно. Сверхъестественный элемент использован без фантазии. Герои скучные и однобокие. Комедийным сценам не достает юмора, драматичным — трагизма. А художественный стиль Юки Сивасу особо ничем не запоминается.
+
+«Двойняшки Фуро» по сути своей уан-шот, повторенный несколько раз. Что можно было бы пережить, будь персонажи поинтересней, а сценарий поразнообразней. К сожалению это не так, потому тратить свое время на мангу не стоит.
+
+";s:8:"mjdzText";s:0:"";s:10:"conclusion";s:0:"";}}}i:3;a:7:{s:5:"autor";a:3:{i:1;a:2:{i:0;s:12:"[Автор]";i:1;s:25:"Кэнтаро Миура";}i:3;a:2:{i:0;s:51:"[Оригинальное издательство]";i:1;s:10:"Hakusensha";}i:5;a:2:{i:0;s:33:"[Количество томов]";i:1;s:1:"1";}}s:4:"name";s:24:"Гигантомахия";s:7:"edition";s:0:"";s:5:"cover";s:34:"assets/images/manga/pp-06/02-3.jpg";s:9:"publisher";s:4:"3134";s:4:"year";s:4:"2017";s:8:"comments";a:1:{i:1;a:4:{s:5:"autor";s:6:"183731";s:4:"text";s:5260:"
+
+Кэнтаро Миура — знаковая фигура в среде любителей манги. К сожалению, его «Берсеркера» я читал от силы главы 4, после чего понял, что подобную прелесть нужно собирать на бумаге. Но, из-за редкости печатной версии на английском, данный план не удался. Поэтому мое знакомство с творчеством знаменитого мангаки начинается как раз с «Гигантомахии».
+
+Бывший гладиатор Делос вместе со своей таинственной компаньонкой Проме отправляются в пустыню, предупредить погонщиков насекомых о грозящей им опасности. Увы, их ждали не распростертые объятия, а боевая арена, где бывший раб вынужден сражаться с непобедимым жучиным героем. Сможет ли Делос побороть не только превосходящего по силе противника, но и преодолеть испепеляющую ненависть его племени к людям, прежде чем армия империи во главе с гигантом окажется у границы деревни?
+
+Закрывая книгу, я подумал: «неплохая начальная работа в будущем успешного автора». Каково же было мое удивление, когда я узнал, что это самая последняя манга маэстро. Главный герой для ветерана последовательного искусства невыразителен. Он излишне правильный, в Делосе нет даже червоточинки амбиций, он не стремится ни отомстить, ни стать королем пиратов/шаманов/ниндзей. И чем больше читатель узнает про прошлое персонажа, тем больше он кажется искусственным.
+
+[[gallery? &id=`2068` &type=`1` &rowHeight=`150` &maxRowHeight=`100%` &captions=`false` &fixedHeight=`false` &lastRow=`justify` &margins=`2`]]
+
+Сюжета как такового здесь нет, точнее он описывается двумя словами (спойлеры): подрались, помирились, подрались, помирились... История для автора второстепенна, он полностью захвачен выстраиванием лора вокруг своей любимой темы — [пост-апокалипсиса](https://www.mangaupdates.com/authors.html?id=670&orderby=year). Кэнтаро Миура с любовью прорисовывает разрушенный мир, населенный диковинными мутантами. Чего только стоят боевые гигантские слоно-осьминоги, плюющиеся огнем. Постапокалиптические римляне, покоряющие пустыню верхом на мокрицах...Там где история не будоражит ум, она поражает в самое сердце умело выстроенными слезовыжимающими сценами и смелой прорисовкой страницы.
+
+Если вы когда-нибудь мечтали об «Атаки на титанов» от Кэнтаро Миура, то не проходите мимо данной работы. Всех остальных ждет приятное, но одноразовое чтиво про всепрощение и жажду жизни, сдобренное детальнейшим рисунком и странным юмором, выстроенным на эротическом фансервисе.
+
+P.S. Не могу не отметить качественную локализацию, коллектив «Истари комикс» приложил немало трудов для перерисовки всех звуков и подгонки получившегося результата к оригиналу. В итоге переработанный шрифт органично вписывается в произведение и ни отвлекает от основного действия. Мастерская работа!
+
+";s:8:"mjdzText";s:465:"
+
+---
+
+**つづく...**
+
+---
+
+В следующем выпуске: *No Game No Life* против *Sword Art Online*.
+ «Правый переплет #10: большая игра».
+
+";s:10:"conclusion";s:0:"";}}}}

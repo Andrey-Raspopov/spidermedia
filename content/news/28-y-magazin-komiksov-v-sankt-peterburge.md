@@ -1,9 +1,15 @@
 {
   "title": "\"28-й\" - магазин комиксов в Санкт-Петербурге",
-  "date": "2012-05-30T11:05:00+03:00",
+  "date": "2012-05-30T10:05:03+03:00",
   "url": "/news/28-y-magazin-komiksov-v-sankt-peterburge/",
   "original_url": "http://spidermedia.ru/news/28-y-magazin-komiksov-v-sankt-peterburge",
   "archived": "https://web.archive.org/web/20260209123648/http://spidermedia.ru/news/28-y-magazin-komiksov-v-sankt-peterburge",
+  "cover": "https://web.archive.org/web/20260209123648im_/http://spidermedia.ru/assets/images/import_image/6913.jpg",
+  "modx_id": 6913,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

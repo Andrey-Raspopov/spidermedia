@@ -1,6 +1,6 @@
 {
   "title": "God Bless Marvel",
-  "date": "2011-03-16T23:23:00+03:00",
+  "date": "2011-03-16T23:23:21+03:00",
   "url": "/news/god-bless-marvel/",
   "original_url": "http://spidermedia.ru/news/god-bless-marvel",
   "archived": "https://web.archive.org/web/20260215072852/http://spidermedia.ru/news/god-bless-marvel",
@@ -9,6 +9,12 @@
     "marvel",
     "steve-rogers",
     "captain-america"
+  ],
+  "cover": "https://web.archive.org/web/20260215072852im_/http://spidermedia.ru/assets/images/import_image/4202.jpg",
+  "modx_id": 4202,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

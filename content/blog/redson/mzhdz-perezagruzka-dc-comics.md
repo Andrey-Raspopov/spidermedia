@@ -1,12 +1,18 @@
 {
   "title": "МЖДЗ: ПЕРЕЗАГРУЗКА DC COMICS",
-  "date": "2011-08-31T19:11:00+03:00",
+  "date": "2011-08-31T18:11:12+03:00",
   "url": "/blog/redson/mzhdz-perezagruzka-dc-comics/",
   "original_url": "http://spidermedia.ru/blog/redson/mzhdz-perezagruzka-dc-comics",
   "archived": "https://web.archive.org/web/20251107005042/http://spidermedia.ru/blog/redson/mzhdz-perezagruzka-dc-comics",
   "tags": [
     "mnenie",
     "mzhdz"
+  ],
+  "cover": "https://web.archive.org/web/20150326161011im_/http://spidermedia.ru/assets/images/import_image/6589.png",
+  "modx_id": 6589,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

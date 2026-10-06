@@ -1,12 +1,18 @@
 {
   "title": "ALL-NEW МЖДЗ: УДОВЛЕТВОРИТЕЛЬНАЯ ЧЕТВЕРКА",
-  "date": "2014-11-10T16:07:00+03:00",
+  "date": "2014-11-10T16:07:08+03:00",
   "url": "/blog/redson/all-new-mzhdz-udovletvoritelnaya-chetverka/",
   "original_url": "http://spidermedia.ru/blog/redson/all-new-mzhdz-udovletvoritelnaya-chetverka",
   "archived": "https://web.archive.org/web/20200118115803/http://spidermedia.ru:80/blog/redson/all-new-mzhdz-udovletvoritelnaya-chetverka",
   "tags": [
     "mzhdz",
     "obzor"
+  ],
+  "cover": "https://web.archive.org/web/20150326160949im_/http://spidermedia.ru/assets/images/import_image/8279.jpg",
+  "modx_id": 8279,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

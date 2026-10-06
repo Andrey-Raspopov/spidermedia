@@ -1,11 +1,17 @@
 {
   "title": "this actually happened",
-  "date": "2011-06-30T23:54:00+03:00",
+  "date": "2011-06-30T22:54:04+03:00",
   "url": "/blog/plane-v/actually-happened/",
   "original_url": "https://spidermedia.ru/blog/plane-v/actually-happened",
   "archived": "https://web.archive.org/web/20250210075831/https://spidermedia.ru/blog/plane-v/actually-happened",
   "tags": [
     "huan-hose-rip"
+  ],
+  "cover": "https://web.archive.org/web/20250210075831im_/http://spidermedia.ru/assets/images/import_image/6477.jpg",
+  "modx_id": 6477,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

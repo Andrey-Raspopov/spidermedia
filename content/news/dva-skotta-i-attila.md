@@ -1,12 +1,18 @@
 {
   "title": "Два Скотта и Аттила",
-  "date": "2011-05-04T04:42:00+03:00",
+  "date": "2011-05-04T03:42:43+03:00",
   "url": "/news/dva-skotta-i-attila/",
   "original_url": "https://spidermedia.ru/news/dva-skotta-i-attila",
   "archived": "https://web.archive.org/web/20260215075725/https://spidermedia.ru/news/dva-skotta-i-attila",
   "tags": [
     "skott-snajder",
     "image-comics"
+  ],
+  "cover": "https://web.archive.org/web/20260215075725im_/http://spidermedia.ru/assets/images/import_image/5459.jpg",
+  "modx_id": 5459,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Про Венома и Зловещую Шестерку сделают отдельные фильмы",
-  "date": "2013-12-13T14:21:00+03:00",
+  "date": "2013-12-13T13:21:15+03:00",
   "url": "/news/pro-venoma-i-zloveshchuyu-shesterku-sdelayut-otdelnye-filmy/",
   "original_url": "https://spidermedia.ru/news/pro-venoma-i-zloveshchuyu-shesterku-sdelayut-otdelnye-filmy",
   "archived": "https://web.archive.org/web/20250715225931/https://spidermedia.ru/news/pro-venoma-i-zloveshchuyu-shesterku-sdelayut-otdelnye-filmy",
@@ -8,6 +8,12 @@
     "spider-man",
     "marvel",
     "venom"
+  ],
+  "cover": "https://web.archive.org/web/20250715225931im_/http://spidermedia.ru/assets/images/import_image/7572.jpg",
+  "modx_id": 7572,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

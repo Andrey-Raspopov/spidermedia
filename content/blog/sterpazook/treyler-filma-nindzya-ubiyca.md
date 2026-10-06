@@ -1,11 +1,17 @@
 {
   "title": "Трейлер фильма \"Ниндзя-Убийца\"",
-  "date": "2009-07-24T01:09:00+03:00",
+  "date": "2009-07-24T00:09:57+03:00",
   "url": "/blog/sterpazook/treyler-filma-nindzya-ubiyca/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/treyler-filma-nindzya-ubiyca",
   "archived": "https://web.archive.org/web/20251206043429/http://spidermedia.ru/blog/sterpazook/treyler-filma-nindzya-ubiyca",
   "tags": [
-    "j-michael-straczynski"
+    "j-michael-straczynski",
+    "dzhej-majkl-strazhinski"
+  ],
+  "modx_id": 1630,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,12 +1,18 @@
 {
   "title": "Новые тизеры Марвел: \"Нелюди\" и \"Воскрешение\"",
-  "date": "2013-11-05T14:24:00+03:00",
+  "date": "2013-11-05T13:24:17+03:00",
   "url": "/news/novye-tizery-marvel-nelyudi-i-voskreshenie/",
   "original_url": "http://spidermedia.ru/news/novye-tizery-marvel-nelyudi-i-voskreshenie",
   "archived": "https://web.archive.org/web/20250806051446/http://spidermedia.ru/news/novye-tizery-marvel-nelyudi-i-voskreshenie",
   "tags": [
     "nelyudi",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150428230954im_/http://spidermedia.ru/assets/images/import_image/7530.jpg",
+  "modx_id": 7530,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

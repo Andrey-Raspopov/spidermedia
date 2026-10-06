@@ -1,6 +1,6 @@
 {
   "title": "Эфир не для наркоза",
-  "date": "2011-05-14T09:48:00+03:00",
+  "date": "2011-05-14T08:48:20+03:00",
   "url": "/news/efir-ne-dlya-narkoza/",
   "original_url": "http://spidermedia.ru/news/efir-ne-dlya-narkoza",
   "archived": "https://web.archive.org/web/20120607175744/http://spidermedia.ru/news/efir-ne-dlya-narkoza",
@@ -10,6 +10,12 @@
     "devid-lopes",
     "komiksy",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20120607175744im_/http://spidermedia.ru/assets/images/import_image/5722.jpg",
+  "modx_id": 5722,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

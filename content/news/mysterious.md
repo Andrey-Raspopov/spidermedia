@@ -1,6 +1,6 @@
 {
   "title": "Mysterious",
-  "date": "2009-08-08T23:38:00+03:00",
+  "date": "2009-08-08T22:38:10+03:00",
   "url": "/news/mysterious/",
   "original_url": "http://spidermedia.ru/news/mysterious",
   "archived": "https://web.archive.org/web/20250808202246/http://spidermedia.ru/news/mysterious",
@@ -11,7 +11,14 @@
     "art-0",
     "mysterio",
     "marvel",
-    "spider-man"
+    "spider-man",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20250808202246im_/http://spidermedia.ru/assets/images/import_image/1748.jpg",
+  "modx_id": 1748,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

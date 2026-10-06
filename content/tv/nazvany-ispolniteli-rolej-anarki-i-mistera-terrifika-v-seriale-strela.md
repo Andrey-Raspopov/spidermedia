@@ -8,6 +8,12 @@
     "dc-comics",
     "kasting"
   ],
+  "cover": "https://web.archive.org/web/20260209104606im_/http://spidermedia.ru/assets/images/news/tv/dc/arrow/anarky-mr-terrific.jpg",
+  "modx_id": 100399,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

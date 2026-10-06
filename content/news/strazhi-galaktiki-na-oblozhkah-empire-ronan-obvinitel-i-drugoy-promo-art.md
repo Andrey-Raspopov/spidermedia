@@ -1,12 +1,18 @@
 {
   "title": "\"Стражи галактики\" на обложках EMPIRE, Ронан-Обвинитель и другой промо-арт",
-  "date": "2014-06-24T21:31:00+03:00",
+  "date": "2014-06-24T20:31:05+03:00",
   "url": "/news/strazhi-galaktiki-na-oblozhkah-empire-ronan-obvinitel-i-drugoy-promo-art/",
   "original_url": "https://spidermedia.ru/news/strazhi-galaktiki-na-oblozhkah-empire-ronan-obvinitel-i-drugoy-promo-art",
   "archived": "https://web.archive.org/web/20251115185050/https://spidermedia.ru/news/strazhi-galaktiki-na-oblozhkah-empire-ronan-obvinitel-i-drugoy-promo-art",
   "tags": [
     "guardians-of-the-galaxy",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150424090551im_/http://spidermedia.ru/assets/images/import_image/7838.jpg",
+  "modx_id": 7838,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "Греет ладонь / Рукоятка катаны / Но холод в душе",
-  "date": "2010-12-08T21:28:00+03:00",
+  "date": "2010-12-08T21:28:53+03:00",
   "url": "/news/greet-ladon-rukoyatka-katany-no-holod-v-dushe/",
+  "aliases": [
+    "/node/3100/"
+  ],
   "original_url": "http://spidermedia.ru/news/greet-ladon-rukoyatka-katany-no-holod-v-dushe",
   "archived": "https://web.archive.org/web/20260214142218/http://spidermedia.ru/news/greet-ladon-rukoyatka-katany-no-holod-v-dushe",
   "tags": [
@@ -15,7 +18,14 @@
     "deadpool",
     "hulk",
     "wolverine",
-    "psylocke"
+    "psylocke",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20260214142218im_/http://spidermedia.ru/assets/images/import_image/3100.jpg",
+  "modx_id": 3100,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

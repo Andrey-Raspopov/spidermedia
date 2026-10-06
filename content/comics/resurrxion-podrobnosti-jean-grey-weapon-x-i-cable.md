@@ -8,6 +8,12 @@
     "marvel",
     "x-men"
   ],
+  "cover": "https://web.archive.org/web/20260309181710im_/http://spidermedia.ru/assets/images/import_image/101435.jpg",
+  "modx_id": 101435,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

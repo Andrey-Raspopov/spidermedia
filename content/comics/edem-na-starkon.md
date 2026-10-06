@@ -4,6 +4,12 @@
   "url": "/comics/edem-na-starkon/",
   "original_url": "http://spidermedia.ru/comics/edem-na-starkon",
   "archived": "https://web.archive.org/web/20200109210037/http://spidermedia.ru:80/comics/edem-na-starkon",
+  "cover": "https://web.archive.org/web/20200109210037im_/http://spidermedia.ru/assets/images/srarcon2015/star.jpg",
+  "modx_id": 100300,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

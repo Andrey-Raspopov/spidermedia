@@ -1,12 +1,18 @@
 {
   "title": "\"Росомаха 2\" остался без режиссера",
-  "date": "2011-03-18T12:01:00+03:00",
+  "date": "2011-03-18T12:01:54+03:00",
   "url": "/news/rosomaha-2-ostalsya-bez-rezhissera/",
   "original_url": "http://spidermedia.ru/news/rosomaha-2-ostalsya-bez-rezhissera",
   "archived": "https://web.archive.org/web/20250709064928/http://spidermedia.ru/news/rosomaha-2-ostalsya-bez-rezhissera",
   "tags": [
     "darren-aronofski",
     "wolverine"
+  ],
+  "cover": "https://web.archive.org/web/20250709064928im_/http://spidermedia.ru/assets/images/import_image/4242.jpg",
+  "modx_id": 4242,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

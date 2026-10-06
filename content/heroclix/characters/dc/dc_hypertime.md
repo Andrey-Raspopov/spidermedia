@@ -4,6 +4,9 @@
   "url": "/heroclix/characters/dc/dc_hypertime/",
   "original_url": "http://www.spidermedia.ru/heroclix/characters/dc/dc_hypertime.html",
   "archived": "https://web.archive.org/web/20050310010449/http://www.spidermedia.ru:80/heroclix/characters/dc/dc_hypertime.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

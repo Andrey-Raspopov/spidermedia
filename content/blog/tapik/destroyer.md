@@ -1,7 +1,10 @@
 {
   "title": "Destroyer",
-  "date": "2009-08-13T11:19:00+03:00",
+  "date": "2009-08-13T10:19:00+03:00",
   "url": "/blog/tapik/destroyer/",
+  "aliases": [
+    "/node/1775/"
+  ],
   "original_url": "http://spidermedia.ru/blog/tapik/destroyer",
   "archived": "https://web.archive.org/web/20111020005959/http://spidermedia.ru/blog/tapik/destroyer",
   "tags": [
@@ -9,6 +12,12 @@
     "marvel",
     "kori-uolker",
     "robert-kirkman"
+  ],
+  "cover": "https://web.archive.org/web/20111020005959im_/http://spidermedia.ru/assets/images/import_image/1775.jpg",
+  "modx_id": 1775,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

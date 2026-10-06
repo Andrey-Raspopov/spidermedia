@@ -4,6 +4,12 @@
   "url": "/games/diablo-iii-on-switch-opinion/",
   "original_url": "http://spidermedia.ru/games/diablo-iii-on-switch-opinion",
   "archived": "https://web.archive.org/web/20260211184444/http://spidermedia.ru/games/diablo-iii-on-switch-opinion",
+  "cover": "https://web.archive.org/web/20260211184444im_/http://spidermedia.ru/assets/images/games/screenshot-29.png",
+  "modx_id": 102043,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

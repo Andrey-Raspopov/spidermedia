@@ -1,12 +1,18 @@
 {
   "title": "Джеймс Спейдер сыграет Альтрона",
-  "date": "2013-08-29T19:41:00+03:00",
+  "date": "2013-08-29T18:41:58+03:00",
   "url": "/news/dzheyms-speyder-sygraet-altrona/",
   "original_url": "http://spidermedia.ru/news/dzheyms-speyder-sygraet-altrona",
   "archived": "https://web.archive.org/web/20230922091239/http://spidermedia.ru/news/dzheyms-speyder-sygraet-altrona",
   "tags": [
     "avengers",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20230922091239im_/http://spidermedia.ru/assets/images/import_image/7444.jpg",
+  "modx_id": 7444,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

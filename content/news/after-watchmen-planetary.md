@@ -1,7 +1,10 @@
 {
   "title": "After Watchmen: Planetary",
-  "date": "2009-03-26T12:30:00+03:00",
+  "date": "2009-03-26T12:30:57+03:00",
   "url": "/news/after-watchmen-planetary/",
+  "aliases": [
+    "/node/771/"
+  ],
   "original_url": "http://spidermedia.ru/news/after-watchmen-planetary",
   "archived": "https://web.archive.org/web/20160730063425/http://spidermedia.ru/news/after-watchmen-planetary",
   "tags": [
@@ -13,6 +16,12 @@
     "planetary",
     "john-cassaday",
     "planetarij"
+  ],
+  "cover": "https://web.archive.org/web/20160730063425im_/http://spidermedia.ru/assets/images/import_image/771.jpg",
+  "modx_id": 771,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

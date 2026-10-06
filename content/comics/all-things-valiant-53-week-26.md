@@ -5,19 +5,24 @@
   "original_url": "http://spidermedia.ru/comics/all-things-valiant-53-week-26",
   "archived": "https://web.archive.org/web/20260125055928/http://spidermedia.ru/comics/all-things-valiant-53-week-26",
   "tags": [
-    "valiant-entertainment"
+    "valiant-entertainment",
+    "all-things-valiant"
+  ],
+  "cover": "https://web.archive.org/web/20260125055928im_/http://spidermedia.ru/assets/images/valiant/images/atv53/atv53.jpg",
+  "modx_id": 101240,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](https://spidermedia.ru/assets/cache/images/valiant/images/atv53/622x-atv53.2e9.jpg)](https://spidermedia.ru/assets/images/valiant/images/atv53/atv53.jpg)
-
 В наши регионы пришла жара. И половина авторского состава рубрики (в моем лице) просто не может нормально функционировать в такую погоду. Мне хотелось бы написать что-то хлесткое в адрес отечественной футбольной сборной или рассказать каким царским в итоге получился шестой сезон «Игры Престолов», но в голове только мысли о кондиционерах, вентиляторах и холодном ветерке. Так что дружно достаем мороженное и читаем новый All Things Valiant.
 
-**[Новости](./#news) ****•** [Анонсы](./#solicitations)** **•** [Рецензии](./#reviews)**
+**[Новости](#news) ****•** [Анонсы](#solicitations)** **•** [Рецензии](#reviews)**
 
-В этом выпуске: кто еще рисует Faith, возможность почувствовать себя Эндрю Долхаузом и Рай по имени Сай. А также [колхозница](https://spidermedia.ru/assets/images/valiant/files/atv53/000.jpg) без рабочего и неожиданный дебют Олега Лыфаря.
+В этом выпуске: кто еще рисует Faith, возможность почувствовать себя Эндрю Долхаузом и Рай по имени Сай. А также [колхозница](http://spidermedia.ru/assets/images/valiant/files/atv53/000.jpg) без рабочего и неожиданный дебют Олега Лыфаря.
 
 ---
 
@@ -28,21 +33,17 @@
 #### Коллин Дорэн нарисует ориджин Фейт
 К составу художников Faith #1 присоединится легендарная Коллин Дорэн (Sandman, A Distant Soil, The Book of Lost Souls, Wonder Woman). Она будет иллюстрировать историю происхождения и ранние годы жизни Фейт.
 
-[![](https://spidermedia.ru/assets/images/valiant/images/atv53/atv-53-news-colleen-doran-1.jpg)](./)
-[![](https://spidermedia.ru/assets/images/valiant/images/atv53/atv-53-news-colleen-doran-2.jpg)](./)
-[![](https://spidermedia.ru/assets/images/valiant/images/atv53/atv-53-news-colleen-doran-3.jpg)](./)
+![](https://web.archive.org/web/20260125055928im_/http://spidermedia.ru/assets/images/valiant/images/atv53/atv-53-news-colleen-doran-1.jpg)![](https://web.archive.org/web/20260125055928im_/http://spidermedia.ru/assets/images/valiant/images/atv53/atv-53-news-colleen-doran-2.jpg)![](https://web.archive.org/web/20260125055928im_/http://spidermedia.ru/assets/images/valiant/images/atv53/atv-53-news-colleen-doran-3.jpg)
 
 #### Раскрась Faith #1
 Valiant объявило о выпуске Faith #1 в виде раскраски. Это будет черно-белое издание оригинального комикса на матовой бумаге с дополнительной галереей обложек. Данная версия появится на прилавках комикс-шопов вместе со своей раскрашенной копией 20 июля.
 
-[![](https://spidermedia.ru/assets/images/valiant/images/atv53/atv-53-news-faith-1-coloring-book-edition.jpg)](./)
+![](https://web.archive.org/web/20260125055928im_/http://spidermedia.ru/assets/images/valiant/images/atv53/atv-53-news-faith-1-coloring-book-edition.jpg)
 
 #### Battles of the Valiant Universe ККИ
 В Steam Greenlight любой желающий может поддержать free-to-play коллекционную карточную игру [Battles of the Valiant Universe](https://steamcommunity.com/sharedfiles/filedetails/?id=699589252). Механика игры, состоящая из комбинации различных элемент-карт и их усилений, включает PvP в реальном времени. Обещают сотни доступных карт и различные соревнования.
 
-![](https://spidermedia.ru/assets/cache/images/youtube/622x350-zdyPFzI7fhg.3e9.jpg)
-
-[Battles of the Valiant Universe](./) 00:01:17
+<iframe allowfullscreen="" frameborder="0" height="360" src="http://www.youtube.com/embed/zdyPFzI7fhg?wmode=transparent" width="640"></iframe>
 
 ---
 
@@ -51,31 +52,7 @@ Valiant объявило о выпуске Faith #1 в виде раскраск
 ---
 
 #### X-O Manowar #50
-[![All-Star Jam Cover](https://spidermedia.ru/assets/images/valiant/images/atv53/xo_050_cover-a_all-star-jam.jpg)](https://spidermedia.ru/assets/images/valiant/images/atv53/xo_050_cover-a_all-star-jam.jpg "All-Star Jam Cover")
-
-[![Паоло Ривера](https://spidermedia.ru/assets/images/valiant/images/atv53/xo_050_cover-b_rivera1.jpg)](https://spidermedia.ru/assets/images/valiant/images/atv53/xo_050_cover-b_rivera1.jpg "Паоло Ривера")
-
-[![Марко Джурджевич](https://spidermedia.ru/assets/images/valiant/images/atv53/xo_050_cover-c_djurdjevic1.jpg)](https://spidermedia.ru/assets/images/valiant/images/atv53/xo_050_cover-c_djurdjevic1.jpg "Марко Джурджевич")
-
-[![Маркос Мартин](https://spidermedia.ru/assets/images/valiant/images/atv53/xo_050_cover-d_martin1.jpg)](https://spidermedia.ru/assets/images/valiant/images/atv53/xo_050_cover-d_martin1.jpg "Маркос Мартин")
-
-[![Мико Суаян](https://spidermedia.ru/assets/images/valiant/images/atv53/xo_050_cover-e_suayan1.jpg)](https://spidermedia.ru/assets/images/valiant/images/atv53/xo_050_cover-e_suayan1.jpg "Мико Суаян")
-
-[![Франческо Франкавилла](https://spidermedia.ru/assets/images/valiant/images/atv53/xo_050_cover-f_francavilla1.jpg)](https://spidermedia.ru/assets/images/valiant/images/atv53/xo_050_cover-f_francavilla1.jpg "Франческо Франкавилла")
-
-[![Шэйн Дэвис](https://spidermedia.ru/assets/images/valiant/images/atv53/xo_050_cover-g_davis1.jpg)](https://spidermedia.ru/assets/images/valiant/images/atv53/xo_050_cover-g_davis1.jpg "Шэйн Дэвис")
-
-[![Пере Перез](https://spidermedia.ru/assets/images/valiant/images/atv53/xo_050_variant-cgc_perez.jpg)](https://spidermedia.ru/assets/images/valiant/images/atv53/xo_050_variant-cgc_perez.jpg "Пере Перез")
-
-[![Чип Здарски](https://spidermedia.ru/assets/images/valiant/images/atv53/xo_050_variant_zdarsky.jpg)](https://spidermedia.ru/assets/images/valiant/images/atv53/xo_050_variant_zdarsky.jpg "Чип Здарски")
-
-[![Филип Тан](https://spidermedia.ru/assets/images/valiant/images/atv53/xo_050_variant_tan.jpg)](https://spidermedia.ru/assets/images/valiant/images/atv53/xo_050_variant_tan.jpg "Филип Тан")
-
-[![Кааре Кайл Эндрюс](https://spidermedia.ru/assets/images/valiant/images/atv53/xo_50_variant_andrews.jpg)](https://spidermedia.ru/assets/images/valiant/images/atv53/xo_50_variant_andrews.jpg "Кааре Кайл Эндрюс")
-
-[![Фил Хименез](https://spidermedia.ru/assets/images/valiant/images/atv53/xo_050_variant_jimenez.jpg)](https://spidermedia.ru/assets/images/valiant/images/atv53/xo_050_variant_jimenez.jpg "Фил Хименез")
-
-[![All-Star Jam Cover B/W](https://spidermedia.ru/assets/images/valiant/images/atv53/xo_050_variant-bw-sketch.jpg)](https://spidermedia.ru/assets/images/valiant/images/atv53/xo_050_variant-bw-sketch.jpg "All-Star Jam Cover B/W")
+![](https://web.archive.org/web/20260125055928im_/http://spidermedia.ru/assets/images/valiant/images/atv53/xo_050_cover-a_all-star-jam.jpg)![](https://web.archive.org/web/20260125055928im_/http://spidermedia.ru/assets/images/valiant/images/atv53/xo_050_cover-b_rivera1.jpg)![](https://web.archive.org/web/20260125055928im_/http://spidermedia.ru/assets/images/valiant/images/atv53/xo_050_cover-c_djurdjevic1.jpg)![](https://web.archive.org/web/20260125055928im_/http://spidermedia.ru/assets/images/valiant/images/atv53/xo_050_cover-d_martin1.jpg)![](https://web.archive.org/web/20260125055928im_/http://spidermedia.ru/assets/images/valiant/images/atv53/xo_050_cover-e_suayan1.jpg)![](https://web.archive.org/web/20260125055928im_/http://spidermedia.ru/assets/images/valiant/images/atv53/xo_050_cover-f_francavilla1.jpg)![](https://web.archive.org/web/20260125055928im_/http://spidermedia.ru/assets/images/valiant/images/atv53/xo_050_cover-g_davis1.jpg)![](https://web.archive.org/web/20260125055928im_/http://spidermedia.ru/assets/images/valiant/images/atv53/xo_050_variant-cgc_perez.jpg)![](https://web.archive.org/web/20260125055928im_/http://spidermedia.ru/assets/images/valiant/images/atv53/xo_050_variant_zdarsky.jpg)![](https://web.archive.org/web/20260125055928im_/http://spidermedia.ru/assets/images/valiant/images/atv53/xo_050_variant_tan.jpg)![](https://web.archive.org/web/20260125055928im_/http://spidermedia.ru/assets/images/valiant/images/atv53/xo_50_variant_andrews.jpg)![](https://web.archive.org/web/20260125055928im_/http://spidermedia.ru/assets/images/valiant/images/atv53/xo_050_variant_jimenez.jpg)![](https://web.archive.org/web/20260125055928im_/http://spidermedia.ru/assets/images/valiant/images/atv53/xo_050_variant-bw-sketch.jpg)
 
 Сценарий: Роберт Вендитти, Джоди Хаузер, Мэтт Киндт, Филип Тан
 Рисунок: Джо Беннетт, Роберто Де Ла Торре, Диего Бернард, Дуг Брэйтвэйт, Роберт Джилл, Томас Джурелло, Кэри Норд, Хавьер Пулидо, Филип Тан, Рафа Сандовал
@@ -86,15 +63,7 @@ Valiant объявило о выпуске Faith #1 в виде раскраск
 
 **Britannia #1**
 
-[![Кэри Норд](https://spidermedia.ru/assets/images/valiant/images/atv53/britannia_001_cover-a_nord1.jpg)](https://spidermedia.ru/assets/images/valiant/images/atv53/britannia_001_cover-a_nord1.jpg "Кэри Норд")
-
-[![Льюис ЛаРоза](https://spidermedia.ru/assets/images/valiant/images/atv53/britannia_001_cover-b_larosa1.jpg)](https://spidermedia.ru/assets/images/valiant/images/atv53/britannia_001_cover-b_larosa1.jpg "Льюис ЛаРоза")
-
-[![Андрес Гуинальдо](https://spidermedia.ru/assets/images/valiant/images/atv53/britannia_001_variant_guinaldo.jpg)](https://spidermedia.ru/assets/images/valiant/images/atv53/britannia_001_variant_guinaldo.jpg "Андрес Гуинальдо")
-
-[![Райан Ли](https://spidermedia.ru/assets/images/valiant/images/atv53/britannia_001_variant_lee.jpg)](https://spidermedia.ru/assets/images/valiant/images/atv53/britannia_001_variant_lee.jpg "Райан Ли")
-
-[![Дэйв Джонсон](https://spidermedia.ru/assets/images/valiant/images/atv53/brtiannia_001_variant_johnson.jpg)](https://spidermedia.ru/assets/images/valiant/images/atv53/brtiannia_001_variant_johnson.jpg "Дэйв Джонсон")
+![](https://web.archive.org/web/20260125055928im_/http://spidermedia.ru/assets/images/valiant/images/atv53/britannia_001_cover-a_nord1.jpg)![](https://web.archive.org/web/20260125055928im_/http://spidermedia.ru/assets/images/valiant/images/atv53/britannia_001_cover-b_larosa1.jpg)![](https://web.archive.org/web/20260125055928im_/http://spidermedia.ru/assets/images/valiant/images/atv53/britannia_001_variant_guinaldo.jpg)![](https://web.archive.org/web/20260125055928im_/http://spidermedia.ru/assets/images/valiant/images/atv53/britannia_001_variant_lee.jpg)![](https://web.archive.org/web/20260125055928im_/http://spidermedia.ru/assets/images/valiant/images/atv53/brtiannia_001_variant_johnson.jpg)
 
 Сценарий: Питер Миллиган
 Рисунок: Хуан Хосе Рип
@@ -103,10 +72,7 @@ Valiant объявило о выпуске Faith #1 в виде раскраск
 
 **Generation ZERO #2**
 
-[![Стивен Муни](https://spidermedia.ru/assets/images/valiant/images/atv53/genzero_002_cover-a_mooney.jpg)](./ "Стивен Муни")
-[![Том Мюллер](https://spidermedia.ru/assets/images/valiant/images/atv53/genzero_002_cover-b_muller.jpg)](./ "Том Мюллер")
-[![Андрес Гуинальдо](https://spidermedia.ru/assets/images/valiant/images/atv53/genzero_002_variant-design_guinaldo.jpg)](./ "Андрес Гуинальдо")
-[![Клэйтон Хенри](https://spidermedia.ru/assets/images/valiant/images/atv53/genzero_002_variant_henry.jpg)](./ "Клэйтон Хенри")
+![](https://web.archive.org/web/20260125055928im_/http://spidermedia.ru/assets/images/valiant/images/atv53/genzero_002_cover-a_mooney.jpg)![](https://web.archive.org/web/20260125055928im_/http://spidermedia.ru/assets/images/valiant/images/atv53/genzero_002_cover-b_muller.jpg)![](https://web.archive.org/web/20260125055928im_/http://spidermedia.ru/assets/images/valiant/images/atv53/genzero_002_variant-design_guinaldo.jpg)![](https://web.archive.org/web/20260125055928im_/http://spidermedia.ru/assets/images/valiant/images/atv53/genzero_002_variant_henry.jpg)
 
 Сценарий: Фред Ван Ленте
 Рисунок: Фрэнсис Портела
@@ -114,15 +80,7 @@ Valiant объявило о выпуске Faith #1 в виде раскраск
 Кому в городке Рук, штат Мичиган, может довериться подросток? Точно не полиции... и не учителям... и уж тем более не родителям. Когда парень старшеклассницы Кейши Шерман погибает в результате несчастного случая, на ее отчаянный зов откликается Поколение Зеро. Но с их блестящей военной подготовкой и склонности к подрыву авторитетов, сможет ли команда тинэйджеров с суперсилами проникнуть в Рук незамеченной? Или только одно их присутствие прольет свет на секреты города?
 
 #### Faith #3
-[![Кевин Вада](https://spidermedia.ru/assets/images/valiant/images/atv53/faith_003_cover-a_wada.jpg)](https://spidermedia.ru/assets/images/valiant/images/atv53/faith_003_cover-a_wada.jpg "Кевин Вада")
-
-[![Маргарит Саваж](https://spidermedia.ru/assets/images/valiant/images/atv53/faith_003_cover-b_sauvage.jpg)](https://spidermedia.ru/assets/images/valiant/images/atv53/faith_003_cover-b_sauvage.jpg "Маргарит Саваж")
-
-[![Адам Горэм](https://spidermedia.ru/assets/images/valiant/images/atv53/faith_003_cover-c_gorham.jpg)](https://spidermedia.ru/assets/images/valiant/images/atv53/faith_003_cover-c_gorham.jpg "Адам Горэм")
-
-[![Кармен Карнеро](https://spidermedia.ru/assets/images/valiant/images/atv53/faith_003_variant_carnero.jpg)](https://spidermedia.ru/assets/images/valiant/images/atv53/faith_003_variant_carnero.jpg "Кармен Карнеро")
-
-[![Клэйтон Хенри](https://spidermedia.ru/assets/images/valiant/images/atv53/faith_003_variant_henry.jpg)](https://spidermedia.ru/assets/images/valiant/images/atv53/faith_003_variant_henry.jpg "Клэйтон Хенри")
+![](https://web.archive.org/web/20260125055928im_/http://spidermedia.ru/assets/images/valiant/images/atv53/faith_003_cover-a_wada.jpg)![](https://web.archive.org/web/20260125055928im_/http://spidermedia.ru/assets/images/valiant/images/atv53/faith_003_cover-b_sauvage.jpg)![](https://web.archive.org/web/20260125055928im_/http://spidermedia.ru/assets/images/valiant/images/atv53/faith_003_cover-c_gorham.jpg)![](https://web.archive.org/web/20260125055928im_/http://spidermedia.ru/assets/images/valiant/images/atv53/faith_003_variant_carnero.jpg)![](https://web.archive.org/web/20260125055928im_/http://spidermedia.ru/assets/images/valiant/images/atv53/faith_003_variant_henry.jpg)
 
 Сценарий: Джоди Хаузер
 Рисунок: Пере Перез, Маргарит Саваж
@@ -131,10 +89,7 @@ Valiant объявило о выпуске Faith #1 в виде раскраск
 
 #### Ninjak #19
 
-[![Майк Чой](https://spidermedia.ru/assets/images/valiant/images/atv53/ninjak_019_cover-a_choi.jpg)](./ "Майк Чой")
-[![Диего ЛаТорре](https://spidermedia.ru/assets/images/valiant/images/atv53/ninjak_019_cover-b_latorre.jpg)](./ "Диего ЛаТорре")
-[![Райан Боденхейм](https://spidermedia.ru/assets/images/valiant/images/atv53/ninjak_019_cover-c_bodenheim.jpg)](./ "Райан Боденхейм")
-[![Марк Лэминг](https://spidermedia.ru/assets/images/valiant/images/atv53/ninjak_019_variant_laming.jpg)](./ "Марк Лэминг")
+![](https://web.archive.org/web/20260125055928im_/http://spidermedia.ru/assets/images/valiant/images/atv53/ninjak_019_cover-a_choi.jpg)![](https://web.archive.org/web/20260125055928im_/http://spidermedia.ru/assets/images/valiant/images/atv53/ninjak_019_cover-b_latorre.jpg)![](https://web.archive.org/web/20260125055928im_/http://spidermedia.ru/assets/images/valiant/images/atv53/ninjak_019_cover-c_bodenheim.jpg)![](https://web.archive.org/web/20260125055928im_/http://spidermedia.ru/assets/images/valiant/images/atv53/ninjak_019_variant_laming.jpg)
 
 Сценарий: Мэтт Киндт
 Рисунок: Кари Эванс, Андрес Гуинальдо
@@ -144,10 +99,7 @@ Valiant объявило о выпуске Faith #1 в виде раскраск
 Меж тем, в нашем времени Ниндзяк бросает все свои ресурсы на разработку лекарства от таинственного, порожденного измерением Deadside недуга, продолжающего пожирать его тело. Стрелки часов бегут неумолимо, и каждая секунда приближает супершпиона МИ-6 к его могиле.
 
 #### **Wrath of the Eternal Warrior** #11
-[![Кано](https://spidermedia.ru/assets/images/valiant/images/atv53/wrath_011_cover-a_kano.jpg)](./ "Кано")
-[![Хуан Хосе Рип](https://spidermedia.ru/assets/images/valiant/images/atv53/wrath_011_cover-b_ryp.jpg)](./ "Хуан Хосе Рип")
-[![Роберт Джилл](https://spidermedia.ru/assets/images/valiant/images/atv53/wrath_011_cover-c_gill.jpg)](./ "Роберт Джилл")
-[![Тони Сайлес](https://spidermedia.ru/assets/images/valiant/images/atv53/wrath_011_variant_silas.jpg)](./ "Тони Сайлес")
+![](https://web.archive.org/web/20260125055928im_/http://spidermedia.ru/assets/images/valiant/images/atv53/wrath_011_cover-a_kano.jpg)![](https://web.archive.org/web/20260125055928im_/http://spidermedia.ru/assets/images/valiant/images/atv53/wrath_011_cover-b_ryp.jpg)![](https://web.archive.org/web/20260125055928im_/http://spidermedia.ru/assets/images/valiant/images/atv53/wrath_011_cover-c_gill.jpg)![](https://web.archive.org/web/20260125055928im_/http://spidermedia.ru/assets/images/valiant/images/atv53/wrath_011_variant_silas.jpg)
 
 Сценарий: Роберт Вендитти
 Рисунок: Роберт Джилл
@@ -158,10 +110,7 @@ Valiant объявило о выпуске Faith #1 в виде раскраск
 
 #### A&A #7
 
-[![Кано](https://spidermedia.ru/assets/images/valiant/images/atv53/aa_007_cover-a_kano.jpg)](./ "Кано")
-[![Дэрик Робертсон](https://spidermedia.ru/assets/images/valiant/images/atv53/aa_007_cover-b_robertson.jpg)](./ "Дэрик Робертсон")
-[![Адам Горэм](https://spidermedia.ru/assets/images/valiant/images/atv53/aa_007_variant_gorham.jpg)](./ "Адам Горэм")
-[![Майк МакКоун](https://spidermedia.ru/assets/images/valiant/images/atv53/aa_007_variant_mckone.jpg)](./ "Майк МакКоун")
+![](https://web.archive.org/web/20260125055928im_/http://spidermedia.ru/assets/images/valiant/images/atv53/aa_007_cover-a_kano.jpg)![](https://web.archive.org/web/20260125055928im_/http://spidermedia.ru/assets/images/valiant/images/atv53/aa_007_cover-b_robertson.jpg)![](https://web.archive.org/web/20260125055928im_/http://spidermedia.ru/assets/images/valiant/images/atv53/aa_007_variant_gorham.jpg)![](https://web.archive.org/web/20260125055928im_/http://spidermedia.ru/assets/images/valiant/images/atv53/aa_007_variant_mckone.jpg)
 
 Сценарий: Рафер Робертс
 Рисунок: Майк Нортон
@@ -170,15 +119,7 @@ Valiant объявило о выпуске Faith #1 в виде раскраск
 
 #### Bloodshot Reborn #17
 
-[![Томас Джурелло](https://spidermedia.ru/assets/images/valiant/images/atv53/bsrb_017_cover-a_giorello.jpg)](https://spidermedia.ru/assets/images/valiant/images/atv53/bsrb_017_cover-a_giorello.jpg "Томас Джурелло")
-
-[![Бутч Гайс](https://spidermedia.ru/assets/images/valiant/images/atv53/bsrb_017_cover-b_guice.jpg)](https://spidermedia.ru/assets/images/valiant/images/atv53/bsrb_017_cover-b_guice.jpg "Бутч Гайс")
-
-[![Тимоти Грин II](https://spidermedia.ru/assets/images/valiant/images/atv53/bsrb_017_cover-c_green.jpg)](https://spidermedia.ru/assets/images/valiant/images/atv53/bsrb_017_cover-c_green.jpg "Тимоти Грин II")
-
-[![Райан Боденхейм](https://spidermedia.ru/assets/images/valiant/images/atv53/bsrb_017_variant-interlocking_bodenheim.jpg)](https://spidermedia.ru/assets/images/valiant/images/atv53/bsrb_017_variant-interlocking_bodenheim.jpg "Райан Боденхейм")
-
-[![Дэрик Робертсон](https://spidermedia.ru/assets/images/valiant/images/atv53/bsrb_017_variant_robertson.jpg)](https://spidermedia.ru/assets/images/valiant/images/atv53/bsrb_017_variant_robertson.jpg "Дэрик Робертсон")
+![](https://web.archive.org/web/20260125055928im_/http://spidermedia.ru/assets/images/valiant/images/atv53/bsrb_017_cover-a_giorello.jpg)![](https://web.archive.org/web/20260125055928im_/http://spidermedia.ru/assets/images/valiant/images/atv53/bsrb_017_cover-b_guice.jpg)![](https://web.archive.org/web/20260125055928im_/http://spidermedia.ru/assets/images/valiant/images/atv53/bsrb_017_cover-c_green.jpg)![](https://web.archive.org/web/20260125055928im_/http://spidermedia.ru/assets/images/valiant/images/atv53/bsrb_017_variant-interlocking_bodenheim.jpg)![](https://web.archive.org/web/20260125055928im_/http://spidermedia.ru/assets/images/valiant/images/atv53/bsrb_017_variant_robertson.jpg)
 
 Сценарий: Джефф Лемир
 Рисунок: Мико Суаян
@@ -190,3 +131,73 @@ Valiant объявило о выпуске Faith #1 в виде раскраск
 **ЧТО МЫ ПРОЧИТАЛИ**
 
 ---
+
+a:2:{i:1;a:7:{s:5:"autor";a:3:{i:1;a:2:{i:0;s:18:"[Сценарий]";i:1;s:19:"Мэтт Киндт";}i:3;a:2:{i:0;s:16:"[Рисунок]";i:1;s:27:"Трэвор Хэйрсин";}i:5;a:2:{i:0;s:10:"[Цвет]";i:1;s:21:"Дэвид Барон";}}s:4:"name";s:11:"Divinity II";s:7:"edition";s:2:"#3";s:5:"cover";s:51:"assets/images/valiant/images/atv53/d-ii-3-cover.jpg";s:9:"publisher";s:4:"1249";s:4:"year";s:4:"2016";s:8:"comments";a:2:{i:1;a:4:{s:5:"autor";s:6:"183732";s:4:"text";s:6418:"
+
+Абрам и Валентина продолжают свой бой, пересекая границы пространства и времени. И каждый из них непреклонен в стремлении доказать свою правоту.
+
+Знаете, складывается такое ощущение, что в тот момент, когда Мэтт Киндт принес сценарий Divinity II, редакторская группа решила, что идея со Сталинверсом слишком крутая и заслуживает отдельной мини. Ведь между вторым и третьим номерами серии прямо напрашивается еще один выпуск с приключениями в Москве сороковых и последующей «коммунизацией» вселенной. Но концепция Советского Valiant оказалась слишком привлекательной. Признаюсь, меня она тоже интригует, но только из-за редизайна персонажей издательства под СССР.
+
+И вот Divinity II #3 вновь возвращает сюжет к титульному противостоянию двух богоподобных сущностей. Которое получилось на удивление неплохим. В основе их конфликта лежит разное отношение к собственному дару. Если Валентина использует полученные силы для воплощения своей картины мира, то Абрам предпочитает не применять их совсем. И тут я скорее на стороне космонавтки, ведь будь у меня подобные способности, я бы тоже стремился сделать мир лучше.
+
+Но и отношение Адамса к своим силам тоже понятно. Отчасти оно продиктовано его взаимоотношениями с погибшей семьей. А отчасти объясняется введенной Киндтом концепцией ощущения времени: оно словно книга, где прошлое написано на страницах, и изменить его уже нельзя, только подчеркнуть некоторые слова или стереть их часть, чтобы слегка поменять смысл (я понимаю, что нечто подобное было в Хранителях, но идея все равно очень хорошая и незатасканная). И именно поэтому Абрам не использует свой дар, потому что он осознал тщетность своих усилий.
+
+В итоге получается, что у каждого из персонажей есть четкая мотивация, а их сражение логически обосновано. Это настоящее столкновение идеологий, а не разборки из серии «мы боремся за одно и то же, но слегка другими методами, поэтому должны подраться».
+
+[[gallery? &id=`1069` &type=`1` &rowHeight=`150` &maxRowHeight=`100%` &captions=`false` &fixedHeight=`false` &lastRow=`justify` &margins=`2`]]
+
+*Про сам комикс говорить можно все, что угодно, но этот разворот отличный*
+
+Что же касается представлений Мэтта Киндта о советской действительности (от которых я в процессе чтения стараюсь максимально дистанцироваться), то они остались на [прежнем уровне](http://spidermedia.ru/assets/images/valiant/files/atv53/d-ii-3-image-a01.jpg). А про сказку Валентины с сомнительной моралью лучше просто промолчать.
+
+Я много раз говорил, как люблю раскадровки Трэвора Хэйрсина. И в этом выпуске он снова на высоте. Отдельной похвалы заслуживают гонка сквозь время и монолог Divinity на переворачивающихся страницах. Работа с кадром просто потрясающая.
+
+Дэвид Барон хороший колорист, даже очень хороший. Во многом именно благодаря его цветам, The Death Defying Doctor Mirage выглядела так волшебно. Но манера покраски персонажей здесь не особенно удачная: они получаются слишком плоскими, а лица как будто бы лишаются своей богатой текстуры.
+
+Divinity II #3, как и вся серия в целом, вышел противоречивым. Одни элементы этого выпуска мне нравятся, другие же ничего кроме раздражения не вызывают. И вроде комикс начинает выруливать на правильную дорожку, но впереди маячит третья часть, а значит, какой-либо завершенности истории ждать не приходится. Так что не знаю... Все сложно... Без оценки.
+
+";s:8:"mjdzText";s:0:"";s:10:"conclusion";s:0:"";}i:2;a:4:{s:5:"autor";s:6:"183753";s:4:"text";s:5614:"
+
+Второй том Divinity изначально вызывал у меня скептицизм, первые два номера, к сожалению, лишь подтвердили моё мнение - эта серия, при всём желании её полюбить, плоха. И, нет, не потому что автор имеет ярко выраженную политическую позицию, а потому что он не может это как-то выразить и бросается глупыми образами времён Холодной войны.
+
+В связи с вышесказанным у меня зародилась теория - Мэтт Киндт был подменён. Причём не лишь бы кем, а коллективным сознанием русских фантастов, пишущих про попаданцев. Как иначе можно объяснить происходящее в серии, ведь оно практически является комиксизацией замечательных обложек в духе:
+
+[[gallery? &id=`1080` &type=`1` &rowHeight=`150` &maxRowHeight=`100%` &captions=`false` &fixedHeight=`false` &lastRow=`justify` &margins=`2`]]
+
+Ну да ладно, отбросим шутки, если говорить по существу, третий номер мне показался на голову выше предшествующих. Нам показывают битву разумов и взглядов Абрама и Валентины, сражение идёт сквозь года и основная его суть кроется в простом - прошлое изменить нельзя, подвластны лишь 23 грамма (вес души). Наконец-то Киндт показывает, что у Волковой тоже есть чувства и эмоции, ведь персонаж всё делает ради лучшего будущего всего мира. Абрам остаётся рассудительным персонажем и свои доводы представляете не в виде привычных в комиксах оплеух, а доказывая необходимость оставить мир прежним, поясняя, как это всё работает. Мы действительно видим противоборство характеров, идеологий и даже желаний.
+
+Впрочем, вся вера в истинность убеждений Валентины растаптывается лицемерными фразочками вроде этой:
+
+[[gallery? &id=`1081` &type=`1` &rowHeight=`150` &maxRowHeight=`100%` &captions=`false` &fixedHeight=`false` &lastRow=`justify` &margins=`2`]]
+
+Персонаж ведёт себя не как человек или богоподобная сущность, а как шарж на фанатика советской власти. И это обидно, ведь читателю даже не пытаются дать шанс понять её мотивации, про сопереживание я вообще молчу. К сожалению, как говорил Дима, сюжет в комиксе абсолютно поверхностный и просматривается насквозь, что не добавляет оптимизма к прочтению.
+
+Художественная часть во втором томе мне показалась немного хромающей, но в третьем выпуске я вновь увидел того самого Хэйрсина, который мне так полюбился. На мой взгляд, прошлым номерам не хватало оригинальности, в третьем же номера в раскадровке чувствуется жизнь, это не просто набор кадров, а важный помощник сценариста в повествовании. Рисунок Трэвора завораживает своей проработанностью и плавностью движений, само собой, не без помощи колориста и инкера.
+
+Мне откровенно не хочется читать этот комикс дальше, но я продолжу: из любопытства - сколь далеко зайдёт Киндт в своей зацикленности на “красной угрозе” - и из уважения к таланту Трэвора Хэйрсина. Но оценка комикса также очевидна, как и его финал:
+
+";s:8:"mjdzText";s:247:"
+
+PS - из-за финала номера я вообще не понял, в чём был смысл происходящего (прошлое изменить нельзя, но ХОП и изменили)
+
+";s:10:"conclusion";s:10:"МУСОР";}}}i:2;a:7:{s:5:"autor";a:3:{i:1;a:2:{i:0;s:18:"[Сценарий]";i:1;s:19:"Мэтт Киндт";}i:3;a:2:{i:0;s:16:"[Рисунок]";i:1;s:8:"КАФУ";}i:5;a:2:{i:0;s:10:"[Цвет]";i:1;s:25:"Эндрю Долхауз";}}s:4:"name";s:3:"Rai";s:7:"edition";s:3:"#14";s:5:"cover";s:51:"assets/images/valiant/images/atv53/rai-14-cover.jpg";s:9:"publisher";s:4:"1249";s:4:"year";s:4:"2016";s:8:"comments";a:1:{i:1;a:4:{s:5:"autor";s:6:"183731";s:4:"text";s:7121:"
+
+Удивительно, но с уходом Клэйтона Крэйна из серии исчезли затянутые рекапы и горы экспозиции. Создается ощущение, что Мэтт Киндт, освободившись от тяжеловесности рисунка своего напарника, запрыгнул в гоночный болид истории и дал по газам сюжета. Мимо читателей проносятся прошлые воплощения Рая, и автор останавливается только рядом с самыми интересными, сбивчиво рассказывая о них.
+
+Каждое столетие рождается новый Рай, готовый встретить вновь изменившиеся прихоти людей, ведя их в так желанную Отцом утопию. Сай, пятая защитница Новой Японии, доживает свой век и отчаянно противостоит непривычному ей поведению жителей орбитального государства. Но что она может сделать, если Отец отказался от нее и выпустил на волю нового жестокого Рая?
+
+[[gallery? &id=`1082` &type=`1` &rowHeight=`150` &maxRowHeight=`100%` &captions=`false` &fixedHeight=`false` &lastRow=`justify` &margins=`2`]]
+
+Сложно не сравнивать этот арк Rai’я с 25-28 выпусками X-O Manowar’а. Тогда тоже основное действие перенесли в мини-серию, оставив для онгоинга славную долю пролога к событиям ивента. Но если во время Охотников за броней у Вендитти вышла цельная история про друзей-наемников, ставших борцами с космической угрозой невероятного масштаба, то рассказы о прошлых воплощениях Рая лишены подобной стройности. В [первом номере](../all-things-valiant-48-week-21/#item1) нам демонстрируют чувства Отца, его стремления. Эта же часть сюжета показывает его не более чем машиной. Он просто реагирует на события, отклоняющиеся от задуманного им алгоритма: прошлый Рай устарел, не проблема, сделаем нового; люди и позитроны сошлись в смертельной битве, всех взорвем и выкинем. Да, он видит изменения в людском поведении, но не стремится творчески решить проблему. Хотя, в прошлом номере таким нестандартным решением стало создание Рая.
+
+Пожалуй, самое важное, что доказывает этот комикс – Рай не имя, а титул защитника Новой Японии, который могут носит совершенно разные по мировоззрению персонажи. В этот раз нам предлагают проследить за последними днями Сай, пастыря человечества, голоса разума и сострадания. Недаром Сай – женская версия Рая, которая пробует остановить разрастающийся конфликт добрым словом. Вряд ли можно было найти более точную метафору отжившего века, чем женщина, стремящаяся вразумить враждующие стороны, снедаемые взаимной ненавистью. Ее неослабевающая вера в компромисс заслуга сценариста, а взгляд полный безысходности - мастерство художника.
+
+Подобная проработка характера персонажа говорит не столько об истории происхождения сложных отношений Отца и его детей, сколько показывают срез функционирования смены поколений. Защитники Новой Японии выступают реакциями на изменения и источниками самих изменений общества (как это было показано в истории Райджина). А Отец в постоянном хаосе людских желаний пытается наладить иллюзию порядка и остановить поток времени. Искусственный интеллект загнал себя в тупик, стремясь к процветанию утопии, он готов к крайним мерами, но когда натягивается один из поводков, идеальное общество находит чем еще можно разозлить Отца.
+
+[[gallery? &id=`1083` &type=`1` &rowHeight=`150` &maxRowHeight=`100%` &captions=`false` &fixedHeight=`false` &lastRow=`justify` &margins=`2`]]
+
+Несмотря на приятную работу с эмоциями персонажей, рисунок КАФУ отдает искусственностью. Его реалистический выпуклый арт идеален для прорисовки драматических поз и хорош в экшен сценах. Но стремление Эндрю Долхауза подражать компьютерной покраске Крэйна играет злую шутку с КАФУ: его рисунок выглядит до боли скованным, а позы вымученные.
+
+Пока арк не может найти своего стержня, вокруг которого бы вилась история про его богато проработанных персонажей. Но до тех пор пока нам будут рассказывать не просто прелюдию конфликта ивента, а отчаянную битву машины с потоком времени. Увы, но скованный рисунок не соответствует высокому уровню сюжета, хотя и дополняет его живыми эмоциями персонажей. А так
+
+";s:8:"mjdzText";s:0:"";s:10:"conclusion";s:10:"ДОБРО";}}}}

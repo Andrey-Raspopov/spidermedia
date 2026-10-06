@@ -11,6 +11,12 @@
     "el-yuing",
     "marvel"
   ],
+  "cover": "https://web.archive.org/web/20251207012331im_/http://spidermedia.ru/assets/images/reviews/marvel/avengers/no-surrender-1/full/avengers_vol_1_690_textless.jpg",
+  "modx_id": 101900,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

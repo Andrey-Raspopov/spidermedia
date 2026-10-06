@@ -8,6 +8,12 @@
     "hellboymedia",
     "mnenie"
   ],
+  "cover": "https://web.archive.org/web/20180202043225im_/http://spidermedia.ru/assets/images/hellboymedia/regular/25-joe-golem-the-sunken-dead/joe-golem-the-sunken-dead-cover_.jpg",
+  "modx_id": 101134,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

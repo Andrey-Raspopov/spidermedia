@@ -1,7 +1,10 @@
 {
   "title": "Стервятнику быть?",
-  "date": "2010-01-11T23:07:00+03:00",
+  "date": "2010-01-11T22:07:04+03:00",
   "url": "/news/stervyatniku-byt/",
+  "aliases": [
+    "/node/2243/"
+  ],
   "original_url": "http://spidermedia.ru/news/stervyatniku-byt",
   "archived": "https://web.archive.org/web/20120607121537/http://spidermedia.ru/news/stervyatniku-byt",
   "tags": [
@@ -13,7 +16,14 @@
     "komiksy",
     "stervyatnik",
     "sem-reymi",
-    "chelovek-pauk"
+    "chelovek-pauk",
+    "sem-rejmi"
+  ],
+  "cover": "https://web.archive.org/web/20120607121537im_/http://spidermedia.ru/assets/images/import_image/2243.jpg",
+  "modx_id": 2243,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"
@@ -23,6 +33,6 @@
 
 ![](https://web.archive.org/web/20120607121537im_/http://i691.photobucket.com/albums/vv276/Silvernoir/_1255729429.jpg?t=1263235805)
 
-Но все упирается в [сдвиг](../../node/2222/) относительно начала съемок, причиной которого, если верить ранним заявлениям, и стал пернатый суперзлодей. Так что, если Малкович также легко покинет проект, в этом не будет ничего удивительного.
+Но все упирается в [сдвиг](../neustupchivyy-reymi/) относительно начала съемок, причиной которого, если верить ранним заявлениям, и стал пернатый суперзлодей. Так что, если Малкович также легко покинет проект, в этом не будет ничего удивительного.
 
 Поделиться:

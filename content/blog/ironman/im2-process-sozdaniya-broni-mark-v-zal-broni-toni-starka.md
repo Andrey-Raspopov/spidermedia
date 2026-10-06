@@ -1,13 +1,22 @@
 {
   "title": "\"IM2\": Процесс создания брони Марк V, зал брони Тони Старка",
-  "date": "2010-09-29T23:38:00+03:00",
+  "date": "2010-09-29T22:38:23+03:00",
   "url": "/blog/ironman/im2-process-sozdaniya-broni-mark-v-zal-broni-toni-starka/",
+  "aliases": [
+    "/node/2957/"
+  ],
   "original_url": "http://spidermedia.ru/blog/ironman/im2-process-sozdaniya-broni-mark-v-zal-broni-toni-starka",
   "archived": "https://web.archive.org/web/20260210171633/http://spidermedia.ru/blog/ironman/im2-process-sozdaniya-broni-mark-v-zal-broni-toni-starka",
   "tags": [
     "dzhon-favro",
     "marvel",
-    "iron-man"
+    "iron-man",
+    "zheleznyy-chelovek"
+  ],
+  "modx_id": 2957,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

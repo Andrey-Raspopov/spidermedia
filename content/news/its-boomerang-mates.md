@@ -1,6 +1,6 @@
 {
   "title": "It's Boomerang, mates!",
-  "date": "2010-06-24T14:28:00+03:00",
+  "date": "2010-06-24T13:28:40+03:00",
   "url": "/news/its-boomerang-mates/",
   "original_url": "https://spidermedia.ru/news/its-boomerang-mates",
   "archived": "https://web.archive.org/web/20251108034122/https://spidermedia.ru/news/its-boomerang-mates",
@@ -13,6 +13,11 @@
     "francis-manapul",
     "the-flash",
     "dc-comics"
+  ],
+  "modx_id": 2689,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

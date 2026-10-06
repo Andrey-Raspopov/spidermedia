@@ -4,6 +4,12 @@
   "url": "/games/punch-club-preview/",
   "original_url": "http://spidermedia.ru/games/punch-club-preview",
   "archived": "https://web.archive.org/web/20230320151149/http://spidermedia.ru/games/punch-club-preview",
+  "cover": "https://web.archive.org/web/20160611090229im_/http://spidermedia.ru/assets/images/games/punch-club/001.jpg",
+  "modx_id": 100656,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

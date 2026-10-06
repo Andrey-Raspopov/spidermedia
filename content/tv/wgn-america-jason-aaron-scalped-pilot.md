@@ -7,6 +7,12 @@
   "tags": [
     "vertigo"
   ],
+  "cover": "https://web.archive.org/web/20160611163806im_/http://spidermedia.ru/assets/images/news/tv/scalped-roadside-picnic.jpg",
+  "modx_id": 100979,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

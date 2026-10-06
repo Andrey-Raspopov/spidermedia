@@ -1,7 +1,10 @@
 {
   "title": "Captain Canary and  Black Atom",
-  "date": "2009-03-31T14:47:00+03:00",
+  "date": "2009-03-31T13:47:43+03:00",
   "url": "/news/captain-canary-and-black-atom/",
+  "aliases": [
+    "/node/814/"
+  ],
   "original_url": "http://spidermedia.ru/news/captain-canary-and-black-atom",
   "archived": "https://web.archive.org/web/20120607180952/http://spidermedia.ru/news/captain-canary-and-black-atom",
   "tags": [
@@ -10,6 +13,12 @@
     "dc-comics",
     "komiksy",
     "personazhi-komiksov"
+  ],
+  "cover": "https://web.archive.org/web/20120607180952im_/http://spidermedia.ru/assets/images/import_image/814.jpg",
+  "modx_id": 814,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

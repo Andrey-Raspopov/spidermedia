@@ -7,6 +7,12 @@
   "tags": [
     "terri-mur"
   ],
+  "cover": "https://web.archive.org/web/20200221074842im_/http://spidermedia.ru/assets/images/reviews/abstract-studio/motor-girl/cvr.jpg",
+  "modx_id": 101739,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

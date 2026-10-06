@@ -1,11 +1,17 @@
 {
   "title": "Отчёт о Comic Con Russia 2014",
-  "date": "2014-10-08T10:20:00+03:00",
+  "date": "2014-10-08T09:20:37+03:00",
   "url": "/blog/sterpazook/comic-con-russia/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/comic-con-russia",
   "archived": "https://web.archive.org/web/20251115173800/http://spidermedia.ru/blog/sterpazook/comic-con-russia",
   "tags": [
     "comic-con-russia"
+  ],
+  "cover": "https://web.archive.org/web/20251115173800im_/http://spidermedia.ru/assets/images/import_image/8144.jpg",
+  "modx_id": 8144,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

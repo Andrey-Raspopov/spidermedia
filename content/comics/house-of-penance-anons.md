@@ -7,6 +7,12 @@
   "tags": [
     "dark-horse"
   ],
+  "cover": "https://web.archive.org/web/20160611161629im_/http://spidermedia.ru/assets/images/news/images/1_comics/dark-horse/house-of-penance/1.jpg",
+  "modx_id": 100893,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

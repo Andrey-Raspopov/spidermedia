@@ -1,6 +1,6 @@
 {
   "title": "Who wants to live forever?",
-  "date": "2013-05-10T18:42:00+03:00",
+  "date": "2013-05-10T17:42:02+03:00",
   "url": "/news/who-wants-live-forever/",
   "original_url": "https://spidermedia.ru/news/who-wants-live-forever",
   "archived": "https://web.archive.org/web/20260125060627/https://spidermedia.ru/news/who-wants-live-forever",
@@ -9,6 +9,12 @@
     "greg-pak",
     "vechnyj-voin",
     "valiant-entertainment"
+  ],
+  "cover": "https://web.archive.org/web/20150327040851im_/http://spidermedia.ru/assets/images/import_image/7237.jpg",
+  "modx_id": 7237,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

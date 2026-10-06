@@ -4,6 +4,12 @@
   "url": "/games/recenziya-the-last-of-us-part-ii/",
   "original_url": "http://spidermedia.ru/games/recenziya-the-last-of-us-part-ii",
   "archived": "https://web.archive.org/web/20260125115817/http://spidermedia.ru/games/recenziya-the-last-of-us-part-ii",
+  "cover": "https://web.archive.org/web/20260125115817im_/http://spidermedia.ru/assets/images/games/loobl.jpg",
+  "modx_id": 102238,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

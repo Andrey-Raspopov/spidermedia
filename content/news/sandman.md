@@ -1,6 +1,6 @@
 {
   "title": "Before Sandman",
-  "date": "2012-07-13T06:28:00+03:00",
+  "date": "2012-07-13T05:28:02+03:00",
   "url": "/news/sandman/",
   "original_url": "http://spidermedia.ru/news/sandman",
   "archived": "https://web.archive.org/web/20260309180550/http://spidermedia.ru/news/sandman",
@@ -10,6 +10,12 @@
     "dzhej-ejch-uilyams-iii",
     "vertigo",
     "san-diego-comic-con-international"
+  ],
+  "cover": "https://web.archive.org/web/20160611080809im_/http://spidermedia.ru/assets/images/import_image/6969.jpg",
+  "modx_id": 6969,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

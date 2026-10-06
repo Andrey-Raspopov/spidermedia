@@ -1,12 +1,21 @@
 {
   "title": "Скотт Пилигрим против миллиарда пикселей",
-  "date": "2010-03-27T17:00:00+03:00",
+  "date": "2010-03-27T17:00:39+03:00",
   "url": "/news/skott-piligrim-protiv-milliarda-pikseley/",
+  "aliases": [
+    "/node/2481/"
+  ],
   "original_url": "http://spidermedia.ru/news/skott-piligrim-protiv-milliarda-pikseley",
   "archived": "https://web.archive.org/web/20190924022619/http://spidermedia.ru:80/news/skott-piligrim-protiv-milliarda-pikseley",
   "tags": [
     "scott-pilgrim",
     "igry"
+  ],
+  "cover": "https://web.archive.org/web/20150502181424im_/http://spidermedia.ru/assets/images/import_image/2481.jpg",
+  "modx_id": 2481,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Псайлок: Начало",
-  "date": "2009-11-02T22:01:00+03:00",
+  "date": "2009-11-02T21:01:00+03:00",
   "url": "/blog/fox1992/psaylok-nachalo/",
   "original_url": "http://spidermedia.ru/blog/fox1992/psaylok-nachalo",
   "archived": "https://web.archive.org/web/20111019071017/http://spidermedia.ru/blog/fox1992/psaylok-nachalo",
@@ -10,7 +10,15 @@
     "psylocke",
     "kristofer-yost",
     "psaylok",
-    "harvi-tolibao"
+    "harvi-tolibao",
+    "psajlok",
+    "kristofer-jost"
+  ],
+  "cover": "https://web.archive.org/web/20111019071017im_/http://spidermedia.ru/assets/images/import_image/2052.jpg",
+  "modx_id": 2052,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

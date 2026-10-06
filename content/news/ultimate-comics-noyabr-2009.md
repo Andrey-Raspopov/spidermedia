@@ -1,7 +1,10 @@
 {
   "title": "Ultimate Comics, Ноябрь 2009",
-  "date": "2009-08-17T22:01:00+03:00",
+  "date": "2009-08-17T21:01:53+03:00",
   "url": "/news/ultimate-comics-noyabr-2009/",
+  "aliases": [
+    "/node/1798/"
+  ],
   "original_url": "http://spidermedia.ru/news/ultimate-comics-noyabr-2009",
   "archived": "https://web.archive.org/web/20120610180856/http://spidermedia.ru/news/ultimate-comics-noyabr-2009",
   "tags": [
@@ -11,7 +14,13 @@
     "zheleznyy-chelovek",
     "komiksy",
     "mstiteli",
-    "chelovek-pauk"
+    "chelovek-pauk",
+    "avengers"
+  ],
+  "modx_id": 1798,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

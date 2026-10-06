@@ -10,6 +10,12 @@
     "kommissiya",
     "andrej-vasin"
   ],
+  "cover": "https://web.archive.org/web/20241225182352im_/http://spidermedia.ru/assets/images/news/bubble/vw3rvii.jpg",
+  "modx_id": 100095,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

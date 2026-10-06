@@ -1,11 +1,20 @@
 {
   "title": "I think I crashed your plane",
-  "date": "2009-12-30T14:06:00+03:00",
+  "date": "2009-12-30T14:06:35+03:00",
   "url": "/blog/plane-v/i-think-i-crashed-your-plane/",
+  "aliases": [
+    "/node/2207/"
+  ],
   "original_url": "http://spidermedia.ru/blog/plane-v/i-think-i-crashed-your-plane",
   "archived": "https://web.archive.org/web/20161112213451/http://spidermedia.ru:80/blog/plane-v/i-think-i-crashed-your-plane",
   "tags": [
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20161112213451im_/http://spidermedia.ru/assets/images/import_image/2207.jpg",
+  "modx_id": 2207,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

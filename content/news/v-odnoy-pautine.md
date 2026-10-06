@@ -1,6 +1,6 @@
 {
   "title": "В одной паутине",
-  "date": "2011-05-11T07:28:00+03:00",
+  "date": "2011-05-11T06:28:38+03:00",
   "url": "/news/v-odnoy-pautine/",
   "original_url": "http://spidermedia.ru/news/v-odnoy-pautine",
   "archived": "https://web.archive.org/web/20260214132332/http://spidermedia.ru/news/v-odnoy-pautine",
@@ -15,6 +15,12 @@
     "spider-island",
     "marvel",
     "cloak-and-dagger"
+  ],
+  "cover": "https://web.archive.org/web/20260214132332im_/http://spidermedia.ru/assets/images/import_image/5638.jpg",
+  "modx_id": 5638,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

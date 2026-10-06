@@ -1,6 +1,6 @@
 {
   "title": "плохие комиксы Inc. №1: Джубили сосёт Икс-23, не пропустите!",
-  "date": "2011-05-22T02:30:00+03:00",
+  "date": "2011-05-22T01:30:48+03:00",
   "url": "/blog/samm-o/plohie-komiksy-inc-no1-dzhubili-sosyot-iks-23-ne-propustite/",
   "original_url": "http://spidermedia.ru/blog/samm-o/plohie-komiksy-inc-no1-dzhubili-sosyot-iks-23-ne-propustite",
   "archived": "https://web.archive.org/web/20120610051814/http://spidermedia.ru/blog/samm-o/plohie-komiksy-inc-no1-dzhubili-sosyot-iks-23-ne-propustite",
@@ -8,6 +8,12 @@
     "komiksy",
     "marvel",
     "plohie-komiksy-inc"
+  ],
+  "cover": "https://web.archive.org/web/20120610051814im_/http://spidermedia.ru/assets/images/import_image/5916.jpg",
+  "modx_id": 5916,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

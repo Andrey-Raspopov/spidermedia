@@ -8,6 +8,12 @@
     "dc-comics",
     "batman"
   ],
+  "cover": "https://web.archive.org/web/20160611121834im_/http://spidermedia.ru/assets/images/animation/dc-comics/batman-vs-robin/batman-vs-robin-release-date-announced-box-art-rev_1ceb.1920.jpg",
+  "modx_id": 100248,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

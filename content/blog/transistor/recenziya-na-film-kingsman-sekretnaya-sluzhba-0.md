@@ -1,6 +1,6 @@
 {
   "title": "Рецензия на фильм «Kingsman: Секретная служба»",
-  "date": "2015-02-13T14:54:00+03:00",
+  "date": "2015-02-13T14:54:08+03:00",
   "url": "/blog/transistor/recenziya-na-film-kingsman-sekretnaya-sluzhba-0/",
   "original_url": "http://spidermedia.ru/blog/transistor/recenziya-na-film-kingsman-sekretnaya-sluzhba-0",
   "archived": "https://web.archive.org/web/20260116224416/http://spidermedia.ru/blog/transistor/recenziya-na-film-kingsman-sekretnaya-sluzhba-0",
@@ -9,6 +9,12 @@
     "mettyu-von",
     "mark-millar",
     "bardak-obmana"
+  ],
+  "cover": "https://web.archive.org/web/20150326200100im_/http://spidermedia.ru/assets/images/import_image/8612.jpg",
+  "modx_id": 8612,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

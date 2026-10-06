@@ -1,7 +1,10 @@
 {
   "title": "Старый Свет против",
-  "date": "2009-11-17T03:24:00+03:00",
+  "date": "2009-11-17T02:24:07+03:00",
   "url": "/news/staryy-svet-protiv/",
+  "aliases": [
+    "/node/2104/"
+  ],
   "original_url": "http://spidermedia.ru/news/staryy-svet-protiv",
   "archived": "https://web.archive.org/web/20120607162545/http://spidermedia.ru/news/staryy-svet-protiv",
   "tags": [
@@ -15,13 +18,19 @@
     "len-uin",
     "li-bermeho",
     "oblozhki",
-    "piter-dzhonson"
+    "piter-dzhonson",
+    "art"
+  ],
+  "modx_id": 2104,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }
 
-Не секрет, что в январе 2010 телевизионщики из **FOX** порадуют зрителей свежим сериалом по комиксам от **DC** - ]]>[**Human Target**](../../node/1237/)]]>. Было бы странно, если бы само издательство на это никак не прореагировало, поэтому встречайте:
+Не секрет, что в январе 2010 телевизионщики из **FOX** порадуют зрителей свежим сериалом по комиксам от **DC** - ]]>[**Human Target**](../human-target-master-maskirovki/)]]>. Было бы странно, если бы само издательство на это никак не прореагировало, поэтому встречайте:
 
 ]]>[![](https://web.archive.org/web/20120607162545im_/http://www.comicbookresources.com/assets/phpThumb/phpThumb.php?src=/assets/images/articles/1258390261.jpg&w=300)](http://www.comicbookresources.com/assets/images/articles/1258390261.jpg)]]>
 Обложка **Human Target #1** авторства **Ли Бермехо** *(Lee Bermejo)*

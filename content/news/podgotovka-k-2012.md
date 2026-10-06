@@ -1,13 +1,20 @@
 {
   "title": "Подготовка к 2012",
-  "date": "2011-10-09T01:00:00+03:00",
+  "date": "2011-10-09T00:00:03+03:00",
   "url": "/news/podgotovka-k-2012/",
   "original_url": "http://spidermedia.ru/news/podgotovka-k-2012",
   "archived": "https://web.archive.org/web/20240720062515/http://spidermedia.ru/news/podgotovka-k-2012",
   "tags": [
     "art-0",
     "point-one",
-    "marvel"
+    "marvel",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20240720062515im_/http://spidermedia.ru/assets/images/import_image/6636.jpg",
+  "modx_id": 6636,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

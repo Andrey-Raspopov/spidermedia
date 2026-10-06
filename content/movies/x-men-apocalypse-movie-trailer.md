@@ -9,6 +9,12 @@
     "x-men",
     "marvel"
   ],
+  "cover": "https://web.archive.org/web/20160619134538im_/http://spidermedia.ru/assets/images/movies/marvel/x-men-apocalypse-movie-2016/xmenapoctrailer.jpg",
+  "modx_id": 100761,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

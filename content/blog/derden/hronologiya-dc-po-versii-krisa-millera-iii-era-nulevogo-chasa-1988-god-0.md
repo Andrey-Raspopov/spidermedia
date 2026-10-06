@@ -1,6 +1,6 @@
 {
   "title": "Хронология DC по версии Криса Миллера: III. Эра Нулевого Часа. 1988/Год 0",
-  "date": "2012-09-11T23:54:00+03:00",
+  "date": "2012-09-11T22:54:55+03:00",
   "url": "/blog/derden/hronologiya-dc-po-versii-krisa-millera-iii-era-nulevogo-chasa-1988-god-0/",
   "original_url": "http://spidermedia.ru/blog/derden/hronologiya-dc-po-versii-krisa-millera-iii-era-nulevogo-chasa-1988-god-0",
   "archived": "https://web.archive.org/web/20241211230427/http://spidermedia.ru/blog/derden/hronologiya-dc-po-versii-krisa-millera-iii-era-nulevogo-chasa-1988-god-0",
@@ -8,6 +8,12 @@
     "superman",
     "dc-comics",
     "green-arrow"
+  ],
+  "cover": "https://web.archive.org/web/20150326201141im_/http://spidermedia.ru/assets/images/import_image/7027.jpg",
+  "modx_id": 7027,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

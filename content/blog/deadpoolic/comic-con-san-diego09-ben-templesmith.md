@@ -1,13 +1,21 @@
 {
   "title": "Comic Con San-Diego'09 Ben Templesmith",
-  "date": "2009-07-29T03:06:00+03:00",
+  "date": "2009-07-29T02:06:56+03:00",
   "url": "/blog/deadpoolic/comic-con-san-diego09-ben-templesmith/",
+  "aliases": [
+    "/node/1686/"
+  ],
   "original_url": "http://spidermedia.ru/blog/deadpoolic/comic-con-san-diego09-ben-templesmith",
   "archived": "https://web.archive.org/web/20200219064857/http://spidermedia.ru:80/blog/deadpoolic/comic-con-san-diego09-ben-templesmith",
   "tags": [
     "video-interview",
     "san-diego-comic-con-2009",
     "ben-templsmit"
+  ],
+  "modx_id": 1686,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

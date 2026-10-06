@@ -1,9 +1,18 @@
 {
   "title": "Best of 2010 .2 - Действительно лучшее",
-  "date": "2011-01-09T01:24:00+03:00",
+  "date": "2011-01-09T01:24:15+03:00",
   "url": "/blog/plane-v/best-2010-2-deystvitelno-luchshee/",
+  "aliases": [
+    "/node/3149/"
+  ],
   "original_url": "http://spidermedia.ru/blog/plane-v/best-2010-2-deystvitelno-luchshee",
   "archived": "https://web.archive.org/web/20200108021038/http://spidermedia.ru:80/blog/plane-v/best-2010-2-deystvitelno-luchshee",
+  "cover": "https://web.archive.org/web/20200108021038im_/http://spidermedia.ru/assets/images/import_image/3149.jpg",
+  "modx_id": 3149,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

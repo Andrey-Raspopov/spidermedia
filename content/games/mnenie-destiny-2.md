@@ -4,6 +4,12 @@
   "url": "/games/mnenie-destiny-2/",
   "original_url": "http://spidermedia.ru/games/mnenie-destiny-2",
   "archived": "https://web.archive.org/web/20240805044344/http://spidermedia.ru/games/mnenie-destiny-2",
+  "cover": "https://web.archive.org/web/20240805044344im_/http://spidermedia.ru/assets/images/games/destiny-2/7620dc06d66021cfc7b162d596301ef2-mobile_header.png",
+  "modx_id": 101678,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

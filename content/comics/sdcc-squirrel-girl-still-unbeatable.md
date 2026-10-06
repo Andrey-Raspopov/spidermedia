@@ -6,7 +6,14 @@
   "archived": "https://web.archive.org/web/20260115045425/https://spidermedia.ru/comics/sdcc-squirrel-girl-still-unbeatable",
   "tags": [
     "marvel",
-    "san-diego-comic-con-international"
+    "san-diego-comic-con-international",
+    "sdcc2015"
+  ],
+  "cover": "https://web.archive.org/web/20260115045425im_/http://spidermedia.ru/assets/images/news/sdcc/2015/marvel/sqgirl2015b001-cover-8cdb6.jpg",
+  "modx_id": 100369,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

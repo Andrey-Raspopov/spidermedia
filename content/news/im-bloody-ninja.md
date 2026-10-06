@@ -1,6 +1,6 @@
 {
   "title": "I'm a bloody ninja",
-  "date": "2012-09-18T03:35:00+03:00",
+  "date": "2012-09-18T02:35:26+03:00",
   "url": "/news/im-bloody-ninja/",
   "original_url": "http://spidermedia.ru/news/im-bloody-ninja",
   "archived": "https://web.archive.org/web/20251207102652/http://spidermedia.ru/news/im-bloody-ninja",
@@ -10,6 +10,12 @@
     "iks-fors",
     "x-force",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150326155318im_/http://spidermedia.ru/assets/images/import_image/7034.jpg",
+  "modx_id": 7034,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

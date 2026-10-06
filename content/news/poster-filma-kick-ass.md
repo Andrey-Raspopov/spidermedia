@@ -1,7 +1,10 @@
 {
   "title": "Постер фильма \"Kick-Ass\"",
-  "date": "2009-07-19T23:23:00+03:00",
+  "date": "2009-07-19T22:23:39+03:00",
   "url": "/news/poster-filma-kick-ass/",
+  "aliases": [
+    "/node/1601/"
+  ],
   "original_url": "http://spidermedia.ru/news/poster-filma-kick-ass",
   "archived": "https://web.archive.org/web/20120608005450/http://spidermedia.ru/news/poster-filma-kick-ass",
   "tags": [
@@ -18,7 +21,16 @@
     "marvel",
     "mark-millar",
     "mettyu-von",
-    "postery"
+    "postery",
+    "san-diego-comic-con-international",
+    "art",
+    "icon-comics"
+  ],
+  "cover": "https://web.archive.org/web/20120608005450im_/http://spidermedia.ru/assets/images/import_image/1601.jpg",
+  "modx_id": 1601,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "Железный Октябрь",
-  "date": "2009-07-23T10:22:00+03:00",
+  "date": "2009-07-23T09:22:12+03:00",
   "url": "/news/zheleznyy-oktyabr/",
+  "aliases": [
+    "/node/1622/"
+  ],
   "original_url": "http://spidermedia.ru/news/zheleznyy-oktyabr",
   "archived": "https://web.archive.org/web/20120608141422/http://spidermedia.ru/news/zheleznyy-oktyabr",
   "tags": [
@@ -13,7 +16,14 @@
     "marvel",
     "mett-frakshen",
     "norman-osborn-0",
-    "preview-s"
+    "preview-s",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20120608141422im_/http://spidermedia.ru/assets/images/import_image/1622.jpg",
+  "modx_id": 1622,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

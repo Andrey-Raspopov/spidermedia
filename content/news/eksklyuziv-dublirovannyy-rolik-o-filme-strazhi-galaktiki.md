@@ -1,12 +1,18 @@
 {
   "title": "ЭКСКЛЮЗИВ: Актёры о фильме \"Стражи Галактики\" (РУССКИЙ ДУБЛЯЖ)",
-  "date": "2014-07-09T17:00:00+03:00",
+  "date": "2014-07-09T16:00:29+03:00",
   "url": "/news/eksklyuziv-dublirovannyy-rolik-o-filme-strazhi-galaktiki/",
   "original_url": "https://spidermedia.ru/news/eksklyuziv-dublirovannyy-rolik-o-filme-strazhi-galaktiki",
   "archived": "https://web.archive.org/web/20250315163912/https://spidermedia.ru/news/eksklyuziv-dublirovannyy-rolik-o-filme-strazhi-galaktiki",
   "tags": [
     "guardians-of-the-galaxy",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150424083502im_/http://spidermedia.ru/assets/images/import_image/7871.png",
+  "modx_id": 7871,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

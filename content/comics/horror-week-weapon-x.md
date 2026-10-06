@@ -9,6 +9,12 @@
     "wolverine",
     "horror-week"
   ],
+  "cover": "https://web.archive.org/web/20160611084022im_/http://spidermedia.ru/assets/images/articles/horror-week/001.jpg",
+  "modx_id": 100682,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

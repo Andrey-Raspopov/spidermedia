@@ -1,11 +1,17 @@
 {
   "title": "Скунс и Оцелот",
-  "date": "2010-07-27T12:50:00+03:00",
+  "date": "2010-07-27T11:50:51+03:00",
   "url": "/blog/alex/skuns-i-ocelot/",
   "original_url": "https://spidermedia.ru/blog/alex/skuns-i-ocelot",
   "archived": "https://web.archive.org/web/20250429145116/https://spidermedia.ru/blog/alex/skuns-i-ocelot",
   "tags": [
     "russian-comics"
+  ],
+  "cover": "https://web.archive.org/web/20250429145116im_/http://spidermedia.ru/assets/images/import_image/2813.png",
+  "modx_id": 2813,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

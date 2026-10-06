@@ -1,12 +1,18 @@
 {
   "title": "IDW будет издавать диснеевские комиксы",
-  "date": "2015-01-22T13:47:00+03:00",
+  "date": "2015-01-22T13:47:54+03:00",
   "url": "/news/idw-budet-izdavat-disneevskie-komiksy/",
   "original_url": "http://spidermedia.ru/news/idw-budet-izdavat-disneevskie-komiksy",
   "archived": "https://web.archive.org/web/20260125053126/http://spidermedia.ru/news/idw-budet-izdavat-disneevskie-komiksy",
   "tags": [
     "disnej",
     "idw-publishing"
+  ],
+  "cover": "https://web.archive.org/web/20150326220056im_/http://spidermedia.ru/assets/images/import_image/8531.jpg",
+  "modx_id": 8531,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

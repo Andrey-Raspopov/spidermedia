@@ -1,11 +1,17 @@
 {
   "title": "What time is it... in SPAAAAAAAAAACE!",
-  "date": "2012-02-09T14:04:00+03:00",
+  "date": "2012-02-09T13:04:53+03:00",
   "url": "/news/what-time-it-spaaaaaaaaaace/",
   "original_url": "http://spidermedia.ru/news/what-time-it-spaaaaaaaaaace",
   "archived": "https://web.archive.org/web/20251006140340/http://spidermedia.ru/news/what-time-it-spaaaaaaaaaace",
   "tags": [
     "animaciya"
+  ],
+  "cover": "https://web.archive.org/web/20251006140340im_/http://spidermedia.ru/assets/images/import_image/6776.jpg",
+  "modx_id": 6776,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

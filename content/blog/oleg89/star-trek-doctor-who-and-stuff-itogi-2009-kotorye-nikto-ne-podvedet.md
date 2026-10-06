@@ -1,7 +1,10 @@
 {
   "title": "Star Trek, Doctor Who and stuff: итоги-2009, которые никто не подведет",
-  "date": "2009-12-28T18:19:00+03:00",
+  "date": "2009-12-28T18:19:12+03:00",
   "url": "/blog/oleg89/star-trek-doctor-who-and-stuff-itogi-2009-kotorye-nikto-ne-podvedet/",
+  "aliases": [
+    "/node/2203/"
+  ],
   "original_url": "http://spidermedia.ru/blog/oleg89/star-trek-doctor-who-and-stuff-itogi-2009-kotorye-nikto-ne-podvedet",
   "archived": "https://web.archive.org/web/20260120155603/http://spidermedia.ru/blog/oleg89/star-trek-doctor-who-and-stuff-itogi-2009-kotorye-nikto-ne-podvedet",
   "tags": [
@@ -12,6 +15,12 @@
     "dark-horse",
     "doctor-who",
     "zvezdnye-vojny"
+  ],
+  "cover": "https://web.archive.org/web/20150424090731im_/http://spidermedia.ru/assets/images/import_image/2203.jpg",
+  "modx_id": 2203,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

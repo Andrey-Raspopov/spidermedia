@@ -1,13 +1,20 @@
 {
   "title": "Немножко подправим",
-  "date": "2010-08-03T17:29:00+03:00",
+  "date": "2010-08-03T16:29:18+03:00",
   "url": "/news/nemnozhko-podpravim/",
   "original_url": "http://spidermedia.ru/news/nemnozhko-podpravim",
   "archived": "https://web.archive.org/web/20260117224018/http://spidermedia.ru/news/nemnozhko-podpravim",
   "tags": [
     "lyudi-iks-pervyj-klass",
     "x-men",
-    "x-men-first-class"
+    "x-men-first-class",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20180211034938im_/http://spidermedia.ru/assets/images/import_image/2830.jpg",
+  "modx_id": 2830,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

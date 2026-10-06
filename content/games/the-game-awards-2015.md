@@ -4,6 +4,12 @@
   "url": "/games/the-game-awards-2015/",
   "original_url": "http://spidermedia.ru/games/the-game-awards-2015",
   "archived": "https://web.archive.org/web/20201124174319/http://spidermedia.ru/games/the-game-awards-2015",
+  "cover": "https://web.archive.org/web/20180131235727im_/http://spidermedia.ru/assets/images/games/thegameawards.jpg",
+  "modx_id": 100746,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
@@ -18,7 +24,7 @@
 
 Bloodborne
 
-[Fallout 4](https://web.archive.org/web/20251206043458/https://spidermedia.ru/games/fallout-4-review)
+[Fallout 4](../fallout-4-review/)
 
 Metal Gear Solid 5: The Phantom Pain
 
@@ -94,7 +100,7 @@ Destiny: The Taken King
 
 Halo 5: Guardians
 
-[Star Wars: Battlefront](https://web.archive.org/web/20200803173648/http://spidermedia.ru/games/star-wars-battlefront-review)
+[Star Wars: Battlefront](../star-wars-battlefront-review/)
 
 **Лучший** **файтинг —** [Mortal Kombat X](../mortal-kombat-x-review/)
 

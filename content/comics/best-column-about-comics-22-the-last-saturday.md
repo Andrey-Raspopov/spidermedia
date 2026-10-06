@@ -8,6 +8,12 @@
     "best-column-about-comics",
     "mnenie"
   ],
+  "cover": "https://web.archive.org/web/20210822192320im_/http://spidermedia.ru/assets/images/best-column-about-comics/22-the-last-saturday/the-last-saturday-cover.jpg",
+  "modx_id": 101604,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

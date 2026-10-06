@@ -1,7 +1,10 @@
 {
   "title": "Финал Amazing Spider-man 24/7",
-  "date": "2009-05-12T19:27:00+03:00",
+  "date": "2009-05-12T18:27:55+03:00",
   "url": "/news/final-amazing-spider-man-24-7/",
+  "aliases": [
+    "/node/1165/"
+  ],
   "original_url": "http://spidermedia.ru/news/final-amazing-spider-man-24-7",
   "archived": "https://web.archive.org/web/20120607121507/http://spidermedia.ru/news/final-amazing-spider-man-24-7",
   "tags": [
@@ -10,6 +13,11 @@
     "vulture",
     "stervyatnik",
     "chelovek-pauk"
+  ],
+  "modx_id": 1165,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

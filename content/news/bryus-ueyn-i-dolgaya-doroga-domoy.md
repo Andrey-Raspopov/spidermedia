@@ -1,6 +1,6 @@
 {
   "title": "Брюс Уэйн и долгая дорога домой",
-  "date": "2010-07-13T22:51:00+03:00",
+  "date": "2010-07-13T21:51:49+03:00",
   "url": "/news/bryus-ueyn-i-dolgaya-doroga-domoy/",
   "original_url": "http://spidermedia.ru/news/bryus-ueyn-i-dolgaya-doroga-domoy",
   "archived": "https://web.archive.org/web/20260209113654/http://spidermedia.ru/news/bryus-ueyn-i-dolgaya-doroga-domoy",
@@ -17,6 +17,11 @@
     "david-finch",
     "batman",
     "shejn-devis"
+  ],
+  "modx_id": 2721,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

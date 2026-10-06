@@ -1,13 +1,21 @@
 {
   "title": "Арт-превью PUNISHER: Frank Castle - Naked Kill",
-  "date": "2009-04-19T17:24:00+03:00",
+  "date": "2009-04-19T16:24:36+03:00",
   "url": "/news/art-prevyu-punisher-frank-castle-naked-kill/",
+  "aliases": [
+    "/node/993/"
+  ],
   "original_url": "http://spidermedia.ru/news/art-prevyu-punisher-frank-castle-naked-kill",
   "archived": "https://web.archive.org/web/20251107003424/http://spidermedia.ru/news/art-prevyu-punisher-frank-castle-naked-kill",
   "tags": [
     "marvel",
     "lourens-kembell",
     "punisher"
+  ],
+  "modx_id": 993,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

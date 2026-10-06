@@ -1,7 +1,10 @@
 {
   "title": "Вся правда от Марка Миллара",
-  "date": "2010-02-21T02:37:00+03:00",
+  "date": "2010-02-21T01:37:13+03:00",
   "url": "/news/vsya-pravda-ot-marka-millara/",
+  "aliases": [
+    "/node/2387/"
+  ],
   "original_url": "http://spidermedia.ru/news/vsya-pravda-ot-marka-millara",
   "archived": "https://web.archive.org/web/20120512062511/http://spidermedia.ru/news/vsya-pravda-ot-marka-millara",
   "tags": [
@@ -14,6 +17,12 @@
     "komiksy",
     "mark-millar",
     "mstiteli"
+  ],
+  "cover": "https://web.archive.org/web/20120512062511im_/http://spidermedia.ru/assets/images/import_image/2387.jpg",
+  "modx_id": 2387,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

@@ -7,6 +7,12 @@
   "tags": [
     "doctor-who"
   ],
+  "cover": "https://web.archive.org/web/20260314081849im_/http://spidermedia.ru/assets/images/tv/doctor-who/gallery-1448361604-doctor-who-heaven-sent-01.jpg",
+  "modx_id": 100735,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

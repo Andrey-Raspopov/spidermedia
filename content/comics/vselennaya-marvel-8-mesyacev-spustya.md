@@ -8,6 +8,12 @@
     "marvel",
     "secret-wars"
   ],
+  "cover": "https://web.archive.org/web/20160323153808im_/http://spidermedia.ru/assets/images/news/marvel/post-secret-wars/all-new-all-different-avengers-revealed.jpg",
+  "modx_id": 100242,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

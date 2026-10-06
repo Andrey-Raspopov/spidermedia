@@ -1,13 +1,23 @@
 {
   "title": "Месяц Тора",
-  "date": "2010-12-08T23:28:00+03:00",
+  "date": "2010-12-08T23:28:16+03:00",
   "url": "/news/mesyac-tora/",
+  "aliases": [
+    "/node/3101/"
+  ],
   "original_url": "http://spidermedia.ru/news/mesyac-tora",
   "archived": "https://web.archive.org/web/20260206214318/http://spidermedia.ru/news/mesyac-tora",
   "tags": [
     "figurki",
     "thor",
-    "marvel"
+    "marvel",
+    "tor"
+  ],
+  "cover": "https://web.archive.org/web/20260206214318im_/http://spidermedia.ru/assets/images/import_image/3101.jpg",
+  "modx_id": 3101,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

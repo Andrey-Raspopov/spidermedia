@@ -1,6 +1,6 @@
 {
   "title": "Превью Spider-Man Noir #3",
-  "date": "2009-02-13T15:23:00+03:00",
+  "date": "2009-02-13T15:23:11+03:00",
   "url": "/news/prevyu-spider-man-noir-3/",
   "original_url": "http://spidermedia.ru/news/prevyu-spider-man-noir-3",
   "archived": "https://web.archive.org/web/20150426175204/http://spidermedia.ru/news/prevyu-spider-man-noir-3",
@@ -9,7 +9,13 @@
     "devid-hajn",
     "noirverse",
     "marvel-comics",
-    "spider-man"
+    "spider-man",
+    "marvel"
+  ],
+  "modx_id": 345,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

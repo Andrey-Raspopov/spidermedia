@@ -4,6 +4,12 @@
   "url": "/games/opinion-sackboy-a-big-adventure/",
   "original_url": "http://spidermedia.ru/games/opinion-sackboy-a-big-adventure",
   "archived": "https://web.archive.org/web/20250215002029/http://spidermedia.ru/games/opinion-sackboy-a-big-adventure",
+  "cover": "https://web.archive.org/web/20210823143247im_/http://spidermedia.ru/assets/images/games/maxresdefault.jpg",
+  "modx_id": 102344,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

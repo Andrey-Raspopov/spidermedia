@@ -1,6 +1,6 @@
 {
   "title": "Суперограбление по-американски",
-  "date": "2011-04-12T09:02:00+03:00",
+  "date": "2011-04-12T08:02:01+03:00",
   "url": "/news/ograblenie-po-amerikanski/",
   "original_url": "https://spidermedia.ru/news/ograblenie-po-amerikanski",
   "archived": "https://web.archive.org/web/20260211185623/https://spidermedia.ru/news/ograblenie-po-amerikanski",
@@ -8,6 +8,12 @@
     "mark-millar",
     "lejnil-frensis-yu",
     "supercrooks"
+  ],
+  "cover": "https://web.archive.org/web/20260211185623im_/http://spidermedia.ru/assets/images/import_image/4903.jpg",
+  "modx_id": 4903,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

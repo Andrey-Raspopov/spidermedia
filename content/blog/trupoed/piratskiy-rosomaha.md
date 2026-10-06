@@ -1,13 +1,22 @@
 {
   "title": "Пиратский Росомаха",
-  "date": "2009-04-05T21:20:00+03:00",
+  "date": "2009-04-05T20:20:59+03:00",
   "url": "/blog/trupoed/piratskiy-rosomaha/",
+  "aliases": [
+    "/node/861/"
+  ],
   "original_url": "http://spidermedia.ru/blog/trupoed/piratskiy-rosomaha",
   "archived": "https://web.archive.org/web/20170512151509/http://spidermedia.ru:80/blog/trupoed/piratskiy-rosomaha",
   "tags": [
     "x-men",
     "wolverine",
-    "recenziya"
+    "recenziya",
+    "lyudi-iks"
+  ],
+  "modx_id": 861,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Примеры страниц из \"Бэтмен: Тшш\"",
-  "date": "2013-06-24T22:00:00+03:00",
+  "date": "2013-06-24T21:00:22+03:00",
   "url": "/news/primery-stranic-iz-betmen-tshsh/",
   "original_url": "http://spidermedia.ru/news/primery-stranic-iz-betmen-tshsh",
   "archived": "https://web.archive.org/web/20260123072349/http://spidermedia.ru/news/primery-stranic-iz-betmen-tshsh",
@@ -10,6 +10,12 @@
     "komiks-art",
     "dc-comics",
     "dzhef-loeb"
+  ],
+  "cover": "https://web.archive.org/web/20150502143415im_/http://spidermedia.ru/assets/images/import_image/7301.jpg",
+  "modx_id": 7301,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

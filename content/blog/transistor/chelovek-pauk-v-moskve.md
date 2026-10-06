@@ -1,9 +1,15 @@
 {
   "title": "Человек-Паук в Москве",
-  "date": "2014-04-02T17:53:00+03:00",
+  "date": "2014-04-02T16:53:41+03:00",
   "url": "/blog/transistor/chelovek-pauk-v-moskve/",
   "original_url": "http://spidermedia.ru/blog/transistor/chelovek-pauk-v-moskve",
   "archived": "https://web.archive.org/web/20140612094911/http://spidermedia.ru:80/blog/transistor/chelovek-pauk-v-moskve",
+  "cover": "https://web.archive.org/web/20140612094911im_/http://spidermedia.ru/assets/images/import_image/7702.jpg",
+  "modx_id": 7702,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

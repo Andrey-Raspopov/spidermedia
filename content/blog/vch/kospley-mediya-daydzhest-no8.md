@@ -1,11 +1,17 @@
 {
   "title": "Косплей-медия: Дайджест №8",
-  "date": "2013-07-26T16:07:00+03:00",
+  "date": "2013-07-26T15:07:13+03:00",
   "url": "/blog/vch/kospley-mediya-daydzhest-no8/",
   "original_url": "http://spidermedia.ru/blog/vch/kospley-mediya-daydzhest-no8",
   "archived": "https://web.archive.org/web/20170807212718/http://spidermedia.ru:80/blog/vch/kospley-mediya-daydzhest-no8",
   "tags": [
     "kosplej"
+  ],
+  "cover": "https://web.archive.org/web/20170807212718im_/http://spidermedia.ru/assets/images/import_image/7383.jpg",
+  "modx_id": 7383,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

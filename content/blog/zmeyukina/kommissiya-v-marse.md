@@ -1,13 +1,22 @@
 {
   "title": "Коммиссия в МАрсе",
-  "date": "2009-05-03T22:44:00+03:00",
+  "date": "2009-05-03T21:44:47+03:00",
   "url": "/blog/zmeyukina/kommissiya-v-marse/",
+  "aliases": [
+    "/node/1086/"
+  ],
   "original_url": "https://spidermedia.ru/blog/zmeyukina/kommissiya-v-marse",
   "archived": "https://web.archive.org/web/20250804003859/https://spidermedia.ru/blog/zmeyukina/kommissiya-v-marse",
   "tags": [
     "russian-comics",
     "kommissiya",
     "festival"
+  ],
+  "cover": "https://web.archive.org/web/20250804003859im_/http://spidermedia.ru/assets/images/import_image/1086.jpg",
+  "modx_id": 1086,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

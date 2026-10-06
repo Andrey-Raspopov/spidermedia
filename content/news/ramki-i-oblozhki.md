@@ -1,20 +1,29 @@
 {
   "title": "Рамки и обложки",
-  "date": "2009-07-12T14:05:00+03:00",
+  "date": "2009-07-12T13:05:30+03:00",
   "url": "/news/ramki-i-oblozhki/",
+  "aliases": [
+    "/node/1544/"
+  ],
   "original_url": "http://spidermedia.ru/news/ramki-i-oblozhki",
   "archived": "https://web.archive.org/web/20120718105943/http://spidermedia.ru/news/ramki-i-oblozhki",
   "tags": [
     "art-0",
     "komiksy",
     "marvel",
-    "oblozhki"
+    "oblozhki",
+    "art"
+  ],
+  "modx_id": 1544,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }
 
-Вы [уже слышали](../../node/1186/) о празднике-юбилее издательства **Marvel** и об их "рамочных" вариант-обложках. Сегодня мы готовы продемонстрировать вам большой выбор данных обложек, выходящих уже в этом августе:
+Вы [уже слышали](../yubileynyy-mesyac-zelenyy-bonus/) о празднике-юбилее издательства **Marvel** и об их "рамочных" вариант-обложках. Сегодня мы готовы продемонстрировать вам большой выбор данных обложек, выходящих уже в этом августе:
 
 ]]>[![XMEN227_70thFRAME.jpg - Picamatic - upload your images](https://web.archive.org/web/20120718105943im_/http://www.picamatic.com/show/2009/07/12/01/18/4407116_bigthumb.jpg "XMEN227_70thFRAME.jpg")](http://www.picamatic.com/view/4407116_XMEN227_70thFRAME/)]]> ]]>[![marvel-reveals-latest-70th-anniversary-covers-20090710063642809.jpg - Picamatic - upload your images](https://web.archive.org/web/20120718105943im_/http://www.picamatic.com/show/2009/07/12/01/17/4407099_bigthumb.jpg "marvel-reveals-latest-70th-anniversary-covers-20090710063642809.jpg")](http://www.picamatic.com/view/4407099_marvel-reveals-latest-70th-anniversary-covers-20090710063642809/)]]> ]]>[![CABLE017_70thFrame.jpg - upload images with Picamatic](https://web.archive.org/web/20120718105943im_/http://www.picamatic.com/show/2009/07/12/01/16/4407096_bigthumb.jpg "CABLE017_70thFrame.jpg")](http://www.picamatic.com/view/4407096_CABLE017_70thFrame/)]]> ]]>[![marvel-reveals-latest-70th-anniversary-covers-20090710063645356.jpg - image uploaded to Picamatic](https://web.archive.org/web/20120718105943im_/http://www.picamatic.com/show/2009/07/12/01/17/4407102_bigthumb.jpg "marvel-reveals-latest-70th-anniversary-covers-20090710063645356.jpg")](http://www.picamatic.com/view/4407102_marvel-reveals-latest-70th-anniversary-covers-20090710063645356/)]]> ]]>[![XFORCE018_70thFRAME.jpg - upload images with Picamatic](https://web.archive.org/web/20120718105943im_/http://www.picamatic.com/show/2009/07/12/01/18/4407114_bigthumb.jpg "XFORCE018_70thFRAME.jpg")](http://www.picamatic.com/view/4407114_XFORCE018_70thFRAME/)]]>
 

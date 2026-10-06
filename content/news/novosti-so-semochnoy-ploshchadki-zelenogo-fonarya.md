@@ -1,11 +1,17 @@
 {
   "title": "Новости со съемочной площадки Зеленого Фонаря",
-  "date": "2010-03-24T12:38:00+03:00",
+  "date": "2010-03-24T12:38:04+03:00",
   "url": "/news/novosti-so-semochnoy-ploshchadki-zelenogo-fonarya/",
   "original_url": "http://spidermedia.ru/news/novosti-so-semochnoy-ploshchadki-zelenogo-fonarya",
   "archived": "https://web.archive.org/web/20251110225742/http://spidermedia.ru/news/novosti-so-semochnoy-ploshchadki-zelenogo-fonarya",
   "tags": [
     "green-lantern"
+  ],
+  "cover": "https://web.archive.org/web/20251110225742im_/http://spidermedia.ru/assets/images/import_image/2472.jpg",
+  "modx_id": 2472,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

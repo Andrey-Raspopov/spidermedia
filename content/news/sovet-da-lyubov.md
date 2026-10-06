@@ -1,6 +1,6 @@
 {
   "title": "Совет да любовь",
-  "date": "2012-03-09T04:29:00+03:00",
+  "date": "2012-03-09T03:29:44+03:00",
   "url": "/news/sovet-da-lyubov/",
   "original_url": "https://spidermedia.ru/news/sovet-da-lyubov",
   "archived": "https://web.archive.org/web/20260120161028/https://spidermedia.ru/news/sovet-da-lyubov",
@@ -9,6 +9,12 @@
     "majk-perkins",
     "marvel",
     "x-men"
+  ],
+  "cover": "https://web.archive.org/web/20260120161028im_/http://spidermedia.ru/assets/images/import_image/6818.jpg",
+  "modx_id": 6818,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

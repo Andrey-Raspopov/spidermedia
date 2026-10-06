@@ -1,12 +1,20 @@
 {
   "title": "Конкурент Сквирел Герл или возвращение Галакты!",
-  "date": "2009-07-21T01:07:00+03:00",
+  "date": "2009-07-21T00:07:41+03:00",
   "url": "/news/konkurent-skvirel-gerl-ili-vozvrashchenie-galakty/",
+  "aliases": [
+    "/node/1611/"
+  ],
   "original_url": "http://spidermedia.ru/news/konkurent-skvirel-gerl-ili-vozvrashchenie-galakty",
   "archived": "https://web.archive.org/web/20200218015643/http://spidermedia.ru:80/news/konkurent-skvirel-gerl-ili-vozvrashchenie-galakty",
   "tags": [
     "adam-uorren",
     "marvel"
+  ],
+  "modx_id": 1611,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

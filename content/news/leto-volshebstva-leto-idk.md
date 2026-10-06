@@ -1,6 +1,6 @@
 {
   "title": "Лето волшебства - лето ИДК!",
-  "date": "2011-07-06T14:55:00+03:00",
+  "date": "2011-07-06T13:55:54+03:00",
   "url": "/news/leto-volshebstva-leto-idk/",
   "original_url": "https://spidermedia.ru/news/leto-volshebstva-leto-idk",
   "archived": "https://web.archive.org/web/20260123070559/https://spidermedia.ru/news/leto-volshebstva-leto-idk",
@@ -10,6 +10,12 @@
     "izdatelstvo-komiks",
     "doctor-strange",
     "altimejts"
+  ],
+  "cover": "https://web.archive.org/web/20260123070559im_/http://spidermedia.ru/assets/images/import_image/6482.jpg",
+  "modx_id": 6482,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

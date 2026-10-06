@@ -1,6 +1,6 @@
 {
   "title": "Первый взгляд на новый проект Марка Миллара",
-  "date": "2011-06-22T11:19:00+03:00",
+  "date": "2011-06-22T10:19:39+03:00",
   "url": "/news/pervyy-vzglyad-na-novyy-proekt-marka-millara/",
   "original_url": "https://spidermedia.ru/news/pervyy-vzglyad-na-novyy-proekt-marka-millara",
   "archived": "https://web.archive.org/web/20251208074054/https://spidermedia.ru/news/pervyy-vzglyad-na-novyy-proekt-marka-millara",
@@ -8,6 +8,12 @@
     "mark-millar",
     "lejnil-frensis-yu",
     "supercrooks"
+  ],
+  "cover": "https://web.archive.org/web/20251208074054im_/http://spidermedia.ru/assets/images/import_image/6464.jpg",
+  "modx_id": 6464,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

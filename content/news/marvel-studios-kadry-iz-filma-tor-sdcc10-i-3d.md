@@ -1,7 +1,10 @@
 {
   "title": "Marvel Studios: Кадры из фильма \"Тор\", SDCC'10 и 3D",
-  "date": "2010-07-20T12:10:00+03:00",
+  "date": "2010-07-20T11:10:07+03:00",
   "url": "/news/marvel-studios-kadry-iz-filma-tor-sdcc10-i-3d/",
+  "aliases": [
+    "/node/2728/"
+  ],
   "original_url": "http://spidermedia.ru/news/marvel-studios-kadry-iz-filma-tor-sdcc10-i-3d",
   "archived": "https://web.archive.org/web/20250808201121/http://spidermedia.ru/news/marvel-studios-kadry-iz-filma-tor-sdcc10-i-3d",
   "tags": [
@@ -10,7 +13,14 @@
     "loki",
     "san-diego-comic-con-international",
     "thor",
-    "marvel"
+    "marvel",
+    "tor"
+  ],
+  "cover": "https://web.archive.org/web/20250808201121im_/http://spidermedia.ru/assets/images/import_image/2728.jpg",
+  "modx_id": 2728,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,13 +1,20 @@
 {
   "title": "Понять и простить",
-  "date": "2011-08-18T00:53:00+03:00",
+  "date": "2011-08-17T23:53:37+03:00",
   "url": "/news/ponyat-i-prostit/",
   "original_url": "http://spidermedia.ru/news/ponyat-i-prostit",
   "archived": "https://web.archive.org/web/20241205105233/http://spidermedia.ru/news/ponyat-i-prostit",
   "tags": [
     "vampiry",
     "art-0",
-    "marvel"
+    "marvel",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20241205105233im_/http://spidermedia.ru/assets/images/import_image/6570.jpg",
+  "modx_id": 6570,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

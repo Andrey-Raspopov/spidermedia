@@ -1,6 +1,6 @@
 {
   "title": "The Losers know too much. Kill them.",
-  "date": "2010-02-23T01:08:00+03:00",
+  "date": "2010-02-23T01:08:28+03:00",
   "url": "/blog/harvell-del-rio/losers-know-too-much-kill-them/",
   "original_url": "http://spidermedia.ru/blog/harvell-del-rio/losers-know-too-much-kill-them",
   "archived": "https://web.archive.org/web/20251211025240/http://spidermedia.ru/blog/harvell-del-rio/losers-know-too-much-kill-them",
@@ -9,6 +9,12 @@
     "outstanding",
     "jock",
     "endi-diggl"
+  ],
+  "cover": "https://web.archive.org/web/20251211025240im_/http://spidermedia.ru/assets/images/import_image/2392.png",
+  "modx_id": 2392,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

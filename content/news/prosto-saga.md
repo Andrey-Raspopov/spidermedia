@@ -1,6 +1,6 @@
 {
   "title": "Просто сага",
-  "date": "2011-07-24T05:47:00+03:00",
+  "date": "2011-07-24T04:47:51+03:00",
   "url": "/news/prosto-saga/",
   "original_url": "https://spidermedia.ru/news/prosto-saga",
   "archived": "https://web.archive.org/web/20260124052531/https://spidermedia.ru/news/prosto-saga",
@@ -8,7 +8,14 @@
     "brian-k-vaughan",
     "fiona-steplz",
     "image-comics",
-    "san-diego-comic-con-international"
+    "san-diego-comic-con-international",
+    "brajan-k.-von"
+  ],
+  "cover": "https://web.archive.org/web/20260124052531im_/http://spidermedia.ru/assets/images/import_image/6523.jpg",
+  "modx_id": 6523,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "Ultimate Avengers : The Next Generation",
-  "date": "2009-02-02T20:06:00+03:00",
+  "date": "2009-02-02T20:06:06+03:00",
   "url": "/blog/ironman/ultimate-avengers-next-generation/",
+  "aliases": [
+    "/node/114/"
+  ],
   "original_url": "http://spidermedia.ru/blog/ironman/ultimate-avengers-next-generation",
   "archived": "https://web.archive.org/web/20240720161404/http://spidermedia.ru/blog/ironman/ultimate-avengers-next-generation",
   "tags": [
@@ -9,6 +12,12 @@
     "avengers",
     "mark-millar",
     "ultimate"
+  ],
+  "cover": "https://web.archive.org/web/20150428180738im_/http://spidermedia.ru/assets/images/import_image/114.jpg",
+  "modx_id": 114,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

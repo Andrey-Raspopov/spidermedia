@@ -1,14 +1,23 @@
 {
   "title": "Трололо",
-  "date": "2009-04-10T19:58:00+03:00",
+  "date": "2009-04-10T18:58:55+03:00",
   "url": "/blog/redson/trololo/",
+  "aliases": [
+    "/node/905/"
+  ],
   "original_url": "http://spidermedia.ru/blog/redson/trololo",
   "archived": "https://web.archive.org/web/20120718062435/http://spidermedia.ru/blog/redson/trololo",
   "tags": [
     "dc-comics",
     "dzheff-dzhons",
     "komiksy",
-    "mnenie"
+    "mnenie",
+    "geoff-johns"
+  ],
+  "modx_id": 905,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Превью комикса \"Дилан Дог: Ночи полнолуния\"",
-  "date": "2013-09-25T17:55:00+03:00",
+  "date": "2013-09-25T16:55:55+03:00",
   "url": "/news/pervyu-komiksa-dilan-dog-nochi-polnoluniya/",
   "original_url": "http://spidermedia.ru/news/pervyu-komiksa-dilan-dog-nochi-polnoluniya",
   "archived": "https://web.archive.org/web/20200127103915/http://spidermedia.ru:80/news/pervyu-komiksa-dilan-dog-nochi-polnoluniya",
@@ -8,6 +8,12 @@
     "zarubezhnye-komiksy-na-russkom",
     "smart-owl",
     "dylan-dog"
+  ],
+  "cover": "https://web.archive.org/web/20200127103915im_/http://spidermedia.ru/assets/images/import_image/7485.jpg",
+  "modx_id": 7485,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

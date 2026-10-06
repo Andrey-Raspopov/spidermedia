@@ -1,6 +1,6 @@
 {
   "title": "Umbrella Academy: вместе поможем делу",
-  "date": "2014-08-18T13:47:00+03:00",
+  "date": "2014-08-18T12:47:20+03:00",
   "url": "/news/umbrella-academy-vmeste-pomozhem-delu/",
   "original_url": "http://spidermedia.ru/news/umbrella-academy-vmeste-pomozhem-delu",
   "archived": "https://web.archive.org/web/20250803233051/http://spidermedia.ru/news/umbrella-academy-vmeste-pomozhem-delu",
@@ -8,6 +8,12 @@
     "komilfo",
     "zarubezhnye-komiksy-na-russkom",
     "umbrella-academy"
+  ],
+  "cover": "https://web.archive.org/web/20150327041822im_/http://spidermedia.ru/assets/images/import_image/8000.jpg",
+  "modx_id": 8000,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

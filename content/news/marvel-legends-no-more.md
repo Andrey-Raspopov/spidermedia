@@ -1,7 +1,10 @@
 {
   "title": "Marvel Legends no more?",
-  "date": "2009-02-06T23:38:00+03:00",
+  "date": "2009-02-06T23:38:22+03:00",
   "url": "/news/marvel-legends-no-more/",
+  "aliases": [
+    "/node/239/"
+  ],
   "original_url": "https://spidermedia.ru/news/marvel-legends-no-more",
   "archived": "https://web.archive.org/web/20260305232154/https://spidermedia.ru/news/marvel-legends-no-more",
   "tags": [
@@ -9,6 +12,11 @@
     "figurki",
     "hasbro",
     "nycc-2009"
+  ],
+  "modx_id": 239,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

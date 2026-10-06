@@ -1,7 +1,10 @@
 {
   "title": "Ultimate Долгострой",
-  "date": "2009-02-04T17:19:00+03:00",
+  "date": "2009-02-04T17:19:26+03:00",
   "url": "/blog/silver/ultimate-dolgostroy/",
+  "aliases": [
+    "/node/182/"
+  ],
   "original_url": "http://spidermedia.ru/blog/silver/ultimate-dolgostroy",
   "archived": "https://web.archive.org/web/20150427041621/http://spidermedia.ru/blog/silver/ultimate-dolgostroy",
   "tags": [
@@ -10,7 +13,14 @@
     "halk",
     "wolverine",
     "ultimate",
-    "lejnil-frensis-yu"
+    "lejnil-frensis-yu",
+    "marvel",
+    "hulk"
+  ],
+  "modx_id": 182,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

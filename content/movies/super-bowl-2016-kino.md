@@ -4,6 +4,12 @@
   "url": "/movies/super-bowl-2016-kino/",
   "original_url": "http://spidermedia.ru/movies/super-bowl-2016-kino",
   "archived": "https://web.archive.org/web/20201128052021/http://spidermedia.ru/movies/super-bowl-2016-kino",
+  "cover": "https://web.archive.org/web/20160611101850im_/http://spidermedia.ru/assets/images/news/movies/digest/superbowl.jpg",
+  "modx_id": 100891,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

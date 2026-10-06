@@ -1,6 +1,6 @@
 {
   "title": "Лунные ночи в LA",
-  "date": "2011-02-11T23:29:00+03:00",
+  "date": "2011-02-11T23:29:45+03:00",
   "url": "/news/lunnye-nochi-v-la/",
   "original_url": "http://spidermedia.ru/news/lunnye-nochi-v-la",
   "archived": "https://web.archive.org/web/20260215090136/http://spidermedia.ru/news/lunnye-nochi-v-la",
@@ -9,7 +9,14 @@
     "brian-michael-bendis",
     "art-0",
     "alex-maleev",
-    "marvel"
+    "marvel",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20260215090136im_/http://spidermedia.ru/assets/images/import_image/3340.jpg",
+  "modx_id": 3340,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

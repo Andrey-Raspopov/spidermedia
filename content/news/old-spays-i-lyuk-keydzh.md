@@ -1,12 +1,18 @@
 {
   "title": "Олд Спайс и Люк Кейдж",
-  "date": "2011-05-31T14:42:00+03:00",
+  "date": "2011-05-31T13:42:01+03:00",
   "url": "/news/old-spays-i-lyuk-keydzh/",
   "original_url": "http://spidermedia.ru/news/old-spays-i-lyuk-keydzh",
   "archived": "https://web.archive.org/web/20200929194500/http://spidermedia.ru/news/old-spays-i-lyuk-keydzh",
   "tags": [
     "marvel",
     "luke-cage"
+  ],
+  "cover": "https://web.archive.org/web/20200929194500im_/http://spidermedia.ru/assets/images/import_image/6159.jpg",
+  "modx_id": 6159,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

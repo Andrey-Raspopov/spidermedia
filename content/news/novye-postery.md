@@ -1,6 +1,6 @@
 {
   "title": "Новые постеры",
-  "date": "2011-12-13T20:09:00+03:00",
+  "date": "2011-12-13T19:09:24+03:00",
   "url": "/news/novye-postery/",
   "original_url": "http://spidermedia.ru/news/novye-postery",
   "archived": "https://web.archive.org/web/20260117220235/http://spidermedia.ru/news/novye-postery",
@@ -8,6 +8,12 @@
     "spider-man",
     "marvel",
     "prizrachnyj-gonshhik"
+  ],
+  "cover": "https://web.archive.org/web/20260117220235im_/http://spidermedia.ru/assets/images/import_image/6733.jpg",
+  "modx_id": 6733,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

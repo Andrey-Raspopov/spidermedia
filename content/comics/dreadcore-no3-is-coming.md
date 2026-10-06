@@ -7,6 +7,12 @@
   "tags": [
     "russian-comics"
   ],
+  "cover": "https://web.archive.org/web/20260309172714im_/http://spidermedia.ru/assets/images/news/dreadcore/3.jpg",
+  "modx_id": 101011,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,11 +1,18 @@
 {
   "title": "Идеальное кун-фу для любого случая",
-  "date": "2009-02-23T12:57:00+03:00",
+  "date": "2009-02-23T11:57:54+03:00",
   "url": "/blog/gess/idealnoe-kun-fu-dlya-lyubogo-sluchaya/",
   "original_url": "http://spidermedia.ru/blog/gess/idealnoe-kun-fu-dlya-lyubogo-sluchaya",
   "archived": "https://web.archive.org/web/20120608191650/http://spidermedia.ru/blog/gess/idealnoe-kun-fu-dlya-lyubogo-sluchaya",
   "tags": [
-    "dueyn-sverchinski"
+    "dueyn-sverchinski",
+    "duejn-sverchinski"
+  ],
+  "cover": "https://web.archive.org/web/20120608191650im_/http://spidermedia.ru/assets/images/import_image/481.jpg",
+  "modx_id": 481,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

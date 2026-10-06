@@ -1,7 +1,10 @@
 {
   "title": "Зеленые против Оранжевого",
-  "date": "2009-04-25T15:38:00+03:00",
+  "date": "2009-04-25T14:38:53+03:00",
   "url": "/news/zelenye-protiv-oranzhevogo/",
+  "aliases": [
+    "/node/1057/"
+  ],
   "original_url": "http://spidermedia.ru/news/zelenye-protiv-oranzhevogo",
   "archived": "https://web.archive.org/web/20260123074959/http://spidermedia.ru/news/zelenye-protiv-oranzhevogo",
   "tags": [
@@ -16,6 +19,12 @@
     "filip-tan",
     "ivan-reis",
     "philip-tan"
+  ],
+  "cover": "https://web.archive.org/web/20260123074959im_/http://spidermedia.ru/assets/images/import_image/1057.jpg",
+  "modx_id": 1057,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

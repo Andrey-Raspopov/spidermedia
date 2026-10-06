@@ -9,6 +9,12 @@
     "zarubezhnye-komiksy-na-russkom",
     "russian-comics"
   ],
+  "cover": "https://web.archive.org/web/20250518141531im_/http://spidermedia.ru/assets/images/roskomnadzor/2016/special/8skmnhs.jpg",
+  "modx_id": 101459,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

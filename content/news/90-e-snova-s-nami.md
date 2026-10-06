@@ -1,7 +1,10 @@
 {
   "title": "90-е снова с нами!",
-  "date": "2009-07-10T22:27:00+03:00",
+  "date": "2009-07-10T21:27:57+03:00",
   "url": "/news/90-e-snova-s-nami/",
+  "aliases": [
+    "/node/1528/"
+  ],
   "original_url": "http://spidermedia.ru/news/90-e-snova-s-nami",
   "archived": "https://web.archive.org/web/20260117231243/http://spidermedia.ru/news/90-e-snova-s-nami",
   "tags": [
@@ -15,7 +18,14 @@
     "ultimate",
     "marvel",
     "iron-man",
-    "spider-man"
+    "spider-man",
+    "zheleznyy-chelovek"
+  ],
+  "cover": "https://web.archive.org/web/20260117231243im_/http://spidermedia.ru/assets/images/import_image/1528.jpg",
+  "modx_id": 1528,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

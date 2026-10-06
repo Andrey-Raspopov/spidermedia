@@ -4,6 +4,9 @@
   "url": "/comics/s/superman/death_return/death_return/",
   "original_url": "http://spidermedia.ru/comics/s/superman/death_return/death_return.html",
   "archived": "https://web.archive.org/web/20050108020300/http://spidermedia.ru:80/comics/s/superman/death_return/death_return.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "cp1251 (guessed)"
 }

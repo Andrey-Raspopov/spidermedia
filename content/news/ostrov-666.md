@@ -1,6 +1,6 @@
 {
   "title": "Остров 666",
-  "date": "2011-02-19T12:32:00+03:00",
+  "date": "2011-02-19T12:32:39+03:00",
   "url": "/news/ostrov-666/",
   "original_url": "http://spidermedia.ru/news/ostrov-666",
   "archived": "https://web.archive.org/web/20260214141419/http://spidermedia.ru/news/ostrov-666",
@@ -9,7 +9,14 @@
     "ostrov-pauka",
     "den-slott",
     "art-0",
-    "spider-island"
+    "spider-island",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20260214141419im_/http://spidermedia.ru/assets/images/import_image/3538.jpg",
+  "modx_id": 3538,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

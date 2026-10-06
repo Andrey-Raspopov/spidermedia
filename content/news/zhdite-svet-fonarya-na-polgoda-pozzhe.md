@@ -1,6 +1,6 @@
 {
   "title": "Ждите свет Фонаря на полгода позже",
-  "date": "2009-05-08T14:42:00+03:00",
+  "date": "2009-05-08T13:42:50+03:00",
   "url": "/news/zhdite-svet-fonarya-na-polgoda-pozzhe/",
   "original_url": "http://spidermedia.ru/news/zhdite-svet-fonarya-na-polgoda-pozzhe",
   "archived": "https://web.archive.org/web/20251207001318/http://spidermedia.ru/news/zhdite-svet-fonarya-na-polgoda-pozzhe",
@@ -10,6 +10,12 @@
     "hal-jordan",
     "hel-dzhordan",
     "mark-guggenhajm"
+  ],
+  "cover": "https://web.archive.org/web/20251207001318im_/http://spidermedia.ru/assets/images/import_image/1129.jpg",
+  "modx_id": 1129,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

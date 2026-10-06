@@ -1,6 +1,6 @@
 {
   "title": "РосКомНадзор: ваше мнение очень ценно для нас",
-  "date": "2014-12-12T13:08:00+03:00",
+  "date": "2014-12-12T13:08:21+03:00",
   "url": "/blog/hella/roskomnadzor-vashe-mnenie-ochen-cenno/",
   "original_url": "https://spidermedia.ru/blog/hella/roskomnadzor-vashe-mnenie-ochen-cenno",
   "archived": "https://web.archive.org/web/20260313105433/https://spidermedia.ru/blog/hella/roskomnadzor-vashe-mnenie-ochen-cenno",
@@ -8,6 +8,12 @@
     "russian-comics",
     "roskomnadzor",
     "zarubezhnye-komiksy-na-russkom"
+  ],
+  "cover": "https://web.archive.org/web/20150424090124im_/http://spidermedia.ru/assets/images/import_image/8366.png",
+  "modx_id": 8366,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

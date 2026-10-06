@@ -1,7 +1,10 @@
 {
   "title": "Бронированные фигурки",
-  "date": "2009-05-13T22:03:00+03:00",
+  "date": "2009-05-13T21:03:16+03:00",
   "url": "/news/bronirovannye-figurki/",
+  "aliases": [
+    "/node/1175/"
+  ],
   "original_url": "http://spidermedia.ru/news/bronirovannye-figurki",
   "archived": "https://web.archive.org/web/20241110013627/http://spidermedia.ru/news/bronirovannye-figurki",
   "tags": [
@@ -11,7 +14,13 @@
     "animaciya",
     "mandarin",
     "crimson-dynamo",
-    "krasnyj-dinamo"
+    "krasnyj-dinamo",
+    "zheleznyy-chelovek"
+  ],
+  "modx_id": 1175,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

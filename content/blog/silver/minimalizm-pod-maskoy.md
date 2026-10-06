@@ -1,13 +1,20 @@
 {
   "title": "Минимализм под маской",
-  "date": "2010-07-28T15:08:00+03:00",
+  "date": "2010-07-28T14:08:33+03:00",
   "url": "/blog/silver/minimalizm-pod-maskoy/",
   "original_url": "http://spidermedia.ru/blog/silver/minimalizm-pod-maskoy",
   "archived": "https://web.archive.org/web/20120610044134/http://spidermedia.ru/blog/silver/minimalizm-pod-maskoy",
   "tags": [
     "art-0",
     "kino",
-    "komiksy"
+    "komiksy",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20120610044134im_/http://spidermedia.ru/assets/images/import_image/2816.jpg",
+  "modx_id": 2816,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

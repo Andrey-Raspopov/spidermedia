@@ -8,6 +8,12 @@
     "hellboymedia",
     "guide"
   ],
+  "cover": "https://web.archive.org/web/20160611203510im_/http://spidermedia.ru/assets/images/hellboymedia/guide/frankenstein-underground/frankenstein-underground-guide-cover.jpg",
+  "modx_id": 100088,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

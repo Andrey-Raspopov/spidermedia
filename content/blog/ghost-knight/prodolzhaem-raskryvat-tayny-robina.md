@@ -1,13 +1,20 @@
 {
   "title": "Продолжаем раскрывать тайны Робина...",
-  "date": "2009-03-09T04:00:00+03:00",
+  "date": "2009-03-09T03:00:23+03:00",
   "url": "/blog/ghost-knight/prodolzhaem-raskryvat-tayny-robina/",
   "original_url": "http://spidermedia.ru/blog/ghost-knight/prodolzhaem-raskryvat-tayny-robina",
   "archived": "https://web.archive.org/web/20120607190141/http://spidermedia.ru/blog/ghost-knight/prodolzhaem-raskryvat-tayny-robina",
   "tags": [
     "dc-comics",
     "dik-greyson",
-    "robin-0"
+    "robin-0",
+    "robin",
+    "dik-grejson"
+  ],
+  "modx_id": 631,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

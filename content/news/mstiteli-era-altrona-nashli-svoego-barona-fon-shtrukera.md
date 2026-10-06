@@ -1,12 +1,18 @@
 {
   "title": "\"Мстители: Эра Альтрона\" нашли своего Барона фон Штрукера",
-  "date": "2014-01-15T22:04:00+03:00",
+  "date": "2014-01-15T21:04:34+03:00",
   "url": "/news/mstiteli-era-altrona-nashli-svoego-barona-fon-shtrukera/",
   "original_url": "https://spidermedia.ru/news/mstiteli-era-altrona-nashli-svoego-barona-fon-shtrukera",
   "archived": "https://web.archive.org/web/20240624143733/https://spidermedia.ru/news/mstiteli-era-altrona-nashli-svoego-barona-fon-shtrukera",
   "tags": [
     "avengers",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20240624143733im_/http://spidermedia.ru/assets/images/import_image/7598.jpg",
+  "modx_id": 7598,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

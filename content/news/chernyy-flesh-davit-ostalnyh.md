@@ -1,6 +1,6 @@
 {
   "title": "Черный Флэш давит остальных...",
-  "date": "2009-05-11T22:44:00+03:00",
+  "date": "2009-05-11T21:44:33+03:00",
   "url": "/news/chernyy-flesh-davit-ostalnyh/",
   "original_url": "http://spidermedia.ru/news/chernyy-flesh-davit-ostalnyh",
   "archived": "https://web.archive.org/web/20240305034432/http://spidermedia.ru/news/chernyy-flesh-davit-ostalnyh",
@@ -9,6 +9,12 @@
     "the-flash",
     "geoff-johns",
     "ethan-van-sciver"
+  ],
+  "cover": "https://web.archive.org/web/20240305034432im_/http://spidermedia.ru/assets/images/import_image/1153.jpg",
+  "modx_id": 1153,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

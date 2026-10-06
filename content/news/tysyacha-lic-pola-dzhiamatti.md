@@ -1,6 +1,6 @@
 {
   "title": "Тысяча лиц Пола Джиаматти",
-  "date": "2013-06-23T10:49:00+03:00",
+  "date": "2013-06-23T09:49:12+03:00",
   "url": "/news/tysyacha-lic-pola-dzhiamatti/",
   "original_url": "http://spidermedia.ru/news/tysyacha-lic-pola-dzhiamatti",
   "archived": "https://web.archive.org/web/20181112163151/http://spidermedia.ru:80/news/tysyacha-lic-pola-dzhiamatti",
@@ -8,6 +8,12 @@
     "mark-uebb",
     "pol-dzhiamatti",
     "spider-man"
+  ],
+  "cover": "https://web.archive.org/web/20181112163151im_/http://spidermedia.ru/assets/images/import_image/7297.jpg",
+  "modx_id": 7297,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

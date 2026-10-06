@@ -1,7 +1,10 @@
 {
   "title": "Новая встреча старых врагов",
-  "date": "2009-05-27T03:20:00+03:00",
+  "date": "2009-05-27T02:20:58+03:00",
   "url": "/news/novaya-vstrecha-staryh-vragov/",
+  "aliases": [
+    "/node/1281/"
+  ],
   "original_url": "http://spidermedia.ru/news/novaya-vstrecha-staryh-vragov",
   "archived": "https://web.archive.org/web/20190724073659/http://spidermedia.ru:80/news/novaya-vstrecha-staryh-vragov",
   "tags": [
@@ -10,6 +13,12 @@
     "sabretooth",
     "logan",
     "sablezubyj"
+  ],
+  "cover": "https://web.archive.org/web/20150327041021im_/http://spidermedia.ru/assets/images/import_image/1281.jpg",
+  "modx_id": 1281,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

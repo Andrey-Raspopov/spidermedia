@@ -1,7 +1,10 @@
 {
   "title": "Новая порция ночных тайн-инов",
-  "date": "2009-12-24T15:38:00+03:00",
+  "date": "2009-12-24T15:38:43+03:00",
   "url": "/blog/baka-chan/novaya-porciya-nochnyh-tayn-inov/",
+  "aliases": [
+    "/node/2194/"
+  ],
   "original_url": "http://spidermedia.ru/blog/baka-chan/novaya-porciya-nochnyh-tayn-inov",
   "archived": "https://web.archive.org/web/20260308235047/http://spidermedia.ru/blog/baka-chan/novaya-porciya-nochnyh-tayn-inov",
   "tags": [
@@ -12,6 +15,12 @@
     "dc-comics",
     "blackest-night",
     "geoff-johns"
+  ],
+  "cover": "https://web.archive.org/web/20160611111027im_/http://spidermedia.ru/assets/images/news/dc/calendrier-futurs-films-dc-comics-a-venir.jpg",
+  "modx_id": 2194,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

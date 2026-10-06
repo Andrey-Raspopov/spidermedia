@@ -1,13 +1,20 @@
 {
   "title": "«Сорвиголова»: кадры, постер, подробности",
-  "date": "2015-02-27T00:25:00+03:00",
+  "date": "2015-02-27T00:25:26+03:00",
   "url": "/news/sorvigolova-kadry-poster-podrobnosti/",
   "original_url": "http://spidermedia.ru/news/sorvigolova-kadry-poster-podrobnosti",
   "archived": "https://web.archive.org/web/20260313104325/http://spidermedia.ru/news/sorvigolova-kadry-poster-podrobnosti",
   "tags": [
     "serialy",
     "marvel",
-    "daredevil"
+    "daredevil",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20150326220407im_/http://spidermedia.ru/assets/images/import_image/8655.jpg",
+  "modx_id": 8655,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

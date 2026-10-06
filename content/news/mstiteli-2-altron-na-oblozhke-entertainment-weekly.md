@@ -1,12 +1,18 @@
 {
   "title": "Мстители 2: Альтрон на обложке Entertainment Weekly + Кадры и Фото со съемок!",
-  "date": "2014-07-16T21:09:00+03:00",
+  "date": "2014-07-16T20:09:21+03:00",
   "url": "/news/mstiteli-2-altron-na-oblozhke-entertainment-weekly/",
   "original_url": "https://spidermedia.ru/news/mstiteli-2-altron-na-oblozhke-entertainment-weekly",
   "archived": "https://web.archive.org/web/20251110232516/https://spidermedia.ru/news/mstiteli-2-altron-na-oblozhke-entertainment-weekly",
   "tags": [
     "avengers",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20251110232516im_/http://spidermedia.ru/assets/images/import_image/7897.jpg",
+  "modx_id": 7897,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

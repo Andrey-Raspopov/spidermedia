@@ -1,6 +1,6 @@
 {
   "title": "The Column With No Name: 17/02/10 - Imagine leaving hell only to come back in time for disco?",
-  "date": "2010-02-21T10:12:00+03:00",
+  "date": "2010-02-21T10:12:24+03:00",
   "url": "/blog/sir-carnage/column-no-name-17-02-10-imagine-leaving-hell-only-come-back-time-disco/",
   "original_url": "http://spidermedia.ru/blog/sir-carnage/column-no-name-17-02-10-imagine-leaving-hell-only-come-back-time-disco",
   "archived": "https://web.archive.org/web/20260125070554/http://spidermedia.ru/blog/sir-carnage/column-no-name-17-02-10-imagine-leaving-hell-only-come-back-time-disco",
@@ -9,6 +9,12 @@
     "marvel",
     "idw-publishing",
     "the-column-with-no-name"
+  ],
+  "cover": "https://web.archive.org/web/20260125070554im_/http://spidermedia.ru/assets/images/import_image/2388.jpg",
+  "modx_id": 2388,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

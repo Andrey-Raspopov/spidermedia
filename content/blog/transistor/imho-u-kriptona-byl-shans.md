@@ -1,6 +1,6 @@
 {
   "title": "ИМХО: У Криптона был шанс",
-  "date": "2015-02-24T14:22:00+03:00",
+  "date": "2015-02-24T14:22:13+03:00",
   "url": "/blog/transistor/imho-u-kriptona-byl-shans/",
   "original_url": "https://spidermedia.ru/blog/transistor/imho-u-kriptona-byl-shans",
   "archived": "https://web.archive.org/web/20260313115542/https://spidermedia.ru/blog/transistor/imho-u-kriptona-byl-shans",
@@ -11,6 +11,12 @@
     "zak-snajder",
     "imho",
     "rob-zombi"
+  ],
+  "cover": "https://web.archive.org/web/20150326100333im_/http://spidermedia.ru/assets/images/import_image/8644.jpg",
+  "modx_id": 8644,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

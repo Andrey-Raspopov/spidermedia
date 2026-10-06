@@ -1,6 +1,6 @@
 {
   "title": "Чернокожие бандиты в космосе",
-  "date": "2010-01-28T19:50:00+03:00",
+  "date": "2010-01-28T19:50:21+03:00",
   "url": "/news/chernokozhie-bandity-v-kosmose/",
   "original_url": "https://spidermedia.ru/news/chernokozhie-bandity-v-kosmose",
   "archived": "https://web.archive.org/web/20241205043938/https://spidermedia.ru/news/chernokozhie-bandity-v-kosmose",
@@ -9,6 +9,11 @@
     "dejv-dzhonson",
     "dzheremi-rok",
     "boom-studios"
+  ],
+  "modx_id": 2313,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

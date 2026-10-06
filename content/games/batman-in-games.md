@@ -9,6 +9,12 @@
     "batman",
     "batman-week"
   ],
+  "cover": "https://web.archive.org/web/20160127191429im_/http://spidermedia.ru/assets/images/articles/batman-week/batgames/000.jpg",
+  "modx_id": 100599,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -8,6 +8,12 @@
     "marvel",
     "deadpool"
   ],
+  "cover": "https://web.archive.org/web/20250807230904im_/http://spidermedia.ru/assets/images/movies/marvel/deadpool/unofficial/cover-deadpool.jpg",
+  "modx_id": 100147,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

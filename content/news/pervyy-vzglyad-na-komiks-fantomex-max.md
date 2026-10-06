@@ -1,6 +1,6 @@
 {
   "title": "Первый взгляд на комикс \"Fantomex MAX\"",
-  "date": "2013-07-13T12:25:00+03:00",
+  "date": "2013-07-13T11:25:33+03:00",
   "url": "/news/pervyy-vzglyad-na-komiks-fantomex-max/",
   "original_url": "http://spidermedia.ru/news/pervyy-vzglyad-na-komiks-fantomex-max",
   "archived": "https://web.archive.org/web/20150427195455/http://spidermedia.ru/news/pervyy-vzglyad-na-komiks-fantomex-max",
@@ -9,7 +9,14 @@
     "shon-kristal",
     "franchesko-frankavilla",
     "fantomeks",
-    "marvel-comics"
+    "marvel-comics",
+    "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150427195455im_/http://spidermedia.ru/assets/images/import_image/7342.jpg",
+  "modx_id": 7342,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

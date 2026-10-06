@@ -1,12 +1,18 @@
 {
   "title": "Первый букридер с цветным экраном!",
-  "date": "2009-03-18T21:41:00+03:00",
+  "date": "2009-03-18T21:41:53+03:00",
   "url": "/blog/sterpazook/pervyy-bukrider-s-cvetnym-ekranom/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/pervyy-bukrider-s-cvetnym-ekranom",
   "archived": "https://web.archive.org/web/20190925024442/http://spidermedia.ru:80/blog/sterpazook/pervyy-bukrider-s-cvetnym-ekranom",
   "tags": [
     "cifrovye-komiksy",
     "gadzhety"
+  ],
+  "cover": "https://web.archive.org/web/20190925024442im_/http://spidermedia.ru/assets/images/import_image/708.png",
+  "modx_id": 708,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

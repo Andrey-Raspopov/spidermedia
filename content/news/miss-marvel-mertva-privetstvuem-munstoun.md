@@ -1,7 +1,10 @@
 {
   "title": "Мисс Марвел мертва! Приветствуем Мунстоун!",
-  "date": "2009-04-09T12:04:00+03:00",
+  "date": "2009-04-09T11:04:33+03:00",
   "url": "/news/miss-marvel-mertva-privetstvuem-munstoun/",
+  "aliases": [
+    "/node/896/"
+  ],
   "original_url": "http://spidermedia.ru/news/miss-marvel-mertva-privetstvuem-munstoun",
   "archived": "https://web.archive.org/web/20260121010539/http://spidermedia.ru/news/miss-marvel-mertva-privetstvuem-munstoun",
   "tags": [
@@ -10,6 +13,11 @@
     "brajan-rid",
     "miss-marvel",
     "munstoun"
+  ],
+  "modx_id": 896,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Рыцарское видео",
-  "date": "2011-11-05T20:29:00+03:00",
+  "date": "2011-11-05T19:29:45+03:00",
   "url": "/news/rycarskoe-video/",
   "original_url": "https://spidermedia.ru/news/rycarskoe-video",
   "archived": "https://web.archive.org/web/20260307055810/https://spidermedia.ru/news/rycarskoe-video",
@@ -8,6 +8,12 @@
     "temnyj-rycar",
     "dark-knight-rises",
     "batman"
+  ],
+  "cover": "https://web.archive.org/web/20260307055810im_/http://spidermedia.ru/assets/images/import_image/6689.jpg",
+  "modx_id": 6689,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

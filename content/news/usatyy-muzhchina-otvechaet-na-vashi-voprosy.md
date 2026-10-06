@@ -1,7 +1,10 @@
 {
   "title": "Усатый мужчина отвечает на ваши вопросы",
-  "date": "2009-09-29T16:34:00+03:00",
+  "date": "2009-09-29T15:34:34+03:00",
   "url": "/news/usatyy-muzhchina-otvechaet-na-vashi-voprosy/",
+  "aliases": [
+    "/node/1941/"
+  ],
   "original_url": "http://spidermedia.ru/news/usatyy-muzhchina-otvechaet-na-vashi-voprosy",
   "archived": "https://web.archive.org/web/20240305133247/http://spidermedia.ru/news/usatyy-muzhchina-otvechaet-na-vashi-voprosy",
   "tags": [
@@ -15,6 +18,12 @@
     "wonder-woman",
     "grant-morrison",
     "geoff-johns"
+  ],
+  "cover": "https://web.archive.org/web/20240305133247im_/http://spidermedia.ru/assets/images/import_image/1941.jpg",
+  "modx_id": 1941,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

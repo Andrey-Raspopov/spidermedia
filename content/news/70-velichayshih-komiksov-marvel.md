@@ -1,11 +1,20 @@
 {
   "title": "70 Величайших Комиксов Marvel",
-  "date": "2009-03-26T15:45:00+03:00",
+  "date": "2009-03-26T15:45:35+03:00",
   "url": "/news/70-velichayshih-komiksov-marvel/",
+  "aliases": [
+    "/node/780/"
+  ],
   "original_url": "http://spidermedia.ru/news/70-velichayshih-komiksov-marvel",
   "archived": "https://web.archive.org/web/20170827214323/http://spidermedia.ru:80/news/70-velichayshih-komiksov-marvel",
   "tags": [
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20170827214323im_/http://spidermedia.ru/assets/images/import_image/780.gif",
+  "modx_id": 780,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

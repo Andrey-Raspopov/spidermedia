@@ -1,12 +1,18 @@
 {
   "title": "Поиск",
-  "date": "2011-03-14T22:08:00+03:00",
+  "date": "2011-03-14T22:08:40+03:00",
   "url": "/news/poisk/",
   "original_url": "https://spidermedia.ru/news/poisk",
   "archived": "https://web.archive.org/web/20250807230808/https://spidermedia.ru/news/poisk",
   "tags": [
     "svetlejshij-den",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20250807230808im_/http://spidermedia.ru/assets/images/import_image/4147.jpg",
+  "modx_id": 4147,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

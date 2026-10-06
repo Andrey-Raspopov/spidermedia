@@ -1,6 +1,6 @@
 {
   "title": "Рецензия на мультфильм \"Город героев\"",
-  "date": "2014-10-24T12:45:00+03:00",
+  "date": "2014-10-24T11:45:28+03:00",
   "url": "/blog/transistor/recenziya-na-multfilm-gorod-geroev-0/",
   "original_url": "http://spidermedia.ru/blog/transistor/recenziya-na-multfilm-gorod-geroev-0",
   "archived": "https://web.archive.org/web/20260115044143/http://spidermedia.ru/blog/transistor/recenziya-na-multfilm-gorod-geroev-0",
@@ -11,6 +11,12 @@
     "big-hero-6",
     "animaciya",
     "disney"
+  ],
+  "cover": "https://web.archive.org/web/20150326160722im_/http://spidermedia.ru/assets/images/import_image/8219.jpg",
+  "modx_id": 8219,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

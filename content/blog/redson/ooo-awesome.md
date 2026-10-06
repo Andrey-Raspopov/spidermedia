@@ -1,9 +1,15 @@
 {
   "title": "Ooo, awesome!",
-  "date": "2009-02-03T18:22:00+03:00",
+  "date": "2009-02-03T18:22:43+03:00",
   "url": "/blog/redson/ooo-awesome/",
   "original_url": "http://spidermedia.ru/blog/redson/ooo-awesome",
   "archived": "https://web.archive.org/web/20150428043251/http://spidermedia.ru/blog/redson/ooo-awesome",
+  "cover": "https://web.archive.org/web/20150428043251im_/http://spidermedia.ru/assets/images/import_image/152.jpg",
+  "modx_id": 152,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

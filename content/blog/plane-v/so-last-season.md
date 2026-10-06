@@ -1,12 +1,18 @@
 {
   "title": "So last season",
-  "date": "2011-01-13T17:35:00+03:00",
+  "date": "2011-01-13T17:35:08+03:00",
   "url": "/blog/plane-v/so-last-season/",
   "original_url": "http://spidermedia.ru/blog/plane-v/so-last-season",
   "archived": "https://web.archive.org/web/20250906080545/http://spidermedia.ru/blog/plane-v/so-last-season",
   "tags": [
     "kostyumy-tred",
     "dzheymi-makkelvi"
+  ],
+  "cover": "https://web.archive.org/web/20250906080545im_/http://spidermedia.ru/assets/images/import_image/3158.jpg",
+  "modx_id": 3158,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

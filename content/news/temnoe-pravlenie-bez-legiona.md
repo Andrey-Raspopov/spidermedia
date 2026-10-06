@@ -1,7 +1,10 @@
 {
   "title": "Темное Правление без Легиона",
-  "date": "2009-03-22T03:05:00+03:00",
+  "date": "2009-03-22T02:05:48+03:00",
   "url": "/news/temnoe-pravlenie-bez-legiona/",
+  "aliases": [
+    "/node/742/"
+  ],
   "original_url": "http://spidermedia.ru/news/temnoe-pravlenie-bez-legiona",
   "archived": "https://web.archive.org/web/20120608233135/http://spidermedia.ru/news/temnoe-pravlenie-bez-legiona",
   "tags": [
@@ -11,7 +14,15 @@
     "komiksy",
     "marvel",
     "oblozhki",
-    "frenk-tieri-0"
+    "frenk-tieri-0",
+    "art",
+    "frenk-tieri"
+  ],
+  "cover": "https://web.archive.org/web/20120608233135im_/http://spidermedia.ru/assets/images/import_image/742.jpg",
+  "modx_id": 742,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

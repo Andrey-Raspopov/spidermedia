@@ -1,6 +1,6 @@
 {
   "title": "Все, что вы должны знать перед просмотром \"Города героев\"",
-  "date": "2014-10-22T12:48:00+03:00",
+  "date": "2014-10-22T11:48:29+03:00",
   "url": "/articles/vse-chto-vy-dolzhny-znat-pered-prosmotrom-goroda-geroev-0/",
   "original_url": "http://spidermedia.ru/articles/vse-chto-vy-dolzhny-znat-pered-prosmotrom-goroda-geroev-0",
   "archived": "https://web.archive.org/web/20260306001338/http://spidermedia.ru/articles/vse-chto-vy-dolzhny-znat-pered-prosmotrom-goroda-geroev-0",
@@ -9,6 +9,12 @@
     "big-hero-6",
     "animaciya",
     "disney"
+  ],
+  "cover": "https://web.archive.org/web/20150326150335im_/http://spidermedia.ru/assets/images/import_image/8212.png",
+  "modx_id": 8212,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

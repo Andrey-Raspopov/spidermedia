@@ -1,12 +1,19 @@
 {
   "title": "Отчёт о закрытом показе 20 минут «Железного Человека 3» (ФОТО+ВИДЕО)",
-  "date": "2013-04-11T12:52:00+03:00",
+  "date": "2013-04-11T11:52:55+03:00",
   "url": "/news/otchyot-o-zakrytom-pokaze-20-minut-zheleznogo-cheloveka-3/",
   "original_url": "http://spidermedia.ru/news/otchyot-o-zakrytom-pokaze-20-minut-zheleznogo-cheloveka-3",
   "archived": "https://web.archive.org/web/20190719095403/http://spidermedia.ru/news/otchyot-o-zakrytom-pokaze-20-minut-zheleznogo-cheloveka-3",
   "tags": [
     "marvel",
-    "iron-man"
+    "iron-man",
+    "zheleznyy-chelovek"
+  ],
+  "cover": "https://web.archive.org/web/20190719095403im_/http://spidermedia.ru/assets/images/import_image/7194.jpg",
+  "modx_id": 7194,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

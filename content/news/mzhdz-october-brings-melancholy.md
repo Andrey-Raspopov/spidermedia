@@ -1,12 +1,18 @@
 {
   "title": "МЖДЗ: OCTOBER BRINGS MELANCHOLY",
-  "date": "2011-10-20T19:07:00+03:00",
+  "date": "2011-10-20T18:07:05+03:00",
   "url": "/news/mzhdz-october-brings-melancholy/",
   "original_url": "http://spidermedia.ru/news/mzhdz-october-brings-melancholy",
   "archived": "https://web.archive.org/web/20251108033119/http://spidermedia.ru/news/mzhdz-october-brings-melancholy",
   "tags": [
     "mnenie",
     "mzhdz"
+  ],
+  "cover": "https://web.archive.org/web/20160716220735im_/http://spidermedia.ru/assets/images/import_image/6664.png",
+  "modx_id": 6664,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

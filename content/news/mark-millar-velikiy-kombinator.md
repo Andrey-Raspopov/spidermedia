@@ -1,6 +1,6 @@
 {
   "title": "Марк Миллар: Великий комбинатор",
-  "date": "2010-01-18T21:48:00+03:00",
+  "date": "2010-01-18T21:48:45+03:00",
   "url": "/news/mark-millar-velikiy-kombinator/",
   "original_url": "https://spidermedia.ru/news/mark-millar-velikiy-kombinator",
   "archived": "https://web.archive.org/web/20251208071955/https://spidermedia.ru/news/mark-millar-velikiy-kombinator",
@@ -8,6 +8,12 @@
     "mark-millar",
     "nemesis",
     "kick-ass"
+  ],
+  "cover": "https://web.archive.org/web/20251208071955im_/http://spidermedia.ru/assets/images/import_image/2284.gif",
+  "modx_id": 2284,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

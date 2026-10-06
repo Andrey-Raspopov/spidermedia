@@ -1,13 +1,23 @@
 {
   "title": "...Vs Killer of Demons",
-  "date": "2009-04-22T00:17:00+03:00",
+  "date": "2009-04-21T23:17:27+03:00",
   "url": "/blog/deadpoolic/vs-killer-demons/",
+  "aliases": [
+    "/node/1018/"
+  ],
   "original_url": "http://spidermedia.ru/blog/deadpoolic/vs-killer-demons",
   "archived": "https://web.archive.org/web/20190718094333/http://spidermedia.ru/blog/deadpoolic/vs-killer-demons",
   "tags": [
     "image-comics",
     "kris-jost",
-    "x-men"
+    "x-men",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20190718094333im_/http://spidermedia.ru/assets/images/import_image/1018.jpg",
+  "modx_id": 1018,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

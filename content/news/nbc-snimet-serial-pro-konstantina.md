@@ -1,6 +1,6 @@
 {
   "title": "NBC снимет сериал про Константина",
-  "date": "2013-09-27T11:58:00+03:00",
+  "date": "2013-09-27T10:58:05+03:00",
   "url": "/news/nbc-snimet-serial-pro-konstantina/",
   "original_url": "http://spidermedia.ru/news/nbc-snimet-serial-pro-konstantina",
   "archived": "https://web.archive.org/web/20260308234711/http://spidermedia.ru/news/nbc-snimet-serial-pro-konstantina",
@@ -8,7 +8,14 @@
     "serialy",
     "dc-comics",
     "hellblazer",
-    "dzhon-konstantin"
+    "dzhon-konstantin",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20260308234711im_/http://spidermedia.ru/assets/images/import_image/7487.jpg",
+  "modx_id": 7487,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

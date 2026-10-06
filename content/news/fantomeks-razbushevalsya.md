@@ -1,6 +1,6 @@
 {
   "title": "Фантомекс разбушевался",
-  "date": "2013-07-11T04:59:00+03:00",
+  "date": "2013-07-11T03:59:28+03:00",
   "url": "/news/fantomeks-razbushevalsya/",
   "original_url": "http://spidermedia.ru/news/fantomeks-razbushevalsya",
   "archived": "https://web.archive.org/web/20150427213155/http://spidermedia.ru/news/fantomeks-razbushevalsya",
@@ -9,7 +9,14 @@
     "shon-kristal",
     "franchesko-frankavilla",
     "fantomeks",
-    "marvel-comics"
+    "marvel-comics",
+    "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150427213155im_/http://spidermedia.ru/assets/images/import_image/7331.jpg",
+  "modx_id": 7331,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Friends on the other side",
-  "date": "2013-09-04T04:31:00+03:00",
+  "date": "2013-09-04T03:31:43+03:00",
   "url": "/news/friends-other-side/",
   "original_url": "https://spidermedia.ru/news/friends-other-side",
   "archived": "https://web.archive.org/web/20260125051949/https://spidermedia.ru/news/friends-other-side",
@@ -9,6 +9,12 @@
     "roberto-de-la-torre",
     "valiant-entertainment",
     "shedoumen"
+  ],
+  "cover": "https://web.archive.org/web/20150326235416im_/http://spidermedia.ru/assets/images/import_image/7450.jpg",
+  "modx_id": 7450,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

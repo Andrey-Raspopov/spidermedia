@@ -1,7 +1,10 @@
 {
   "title": "Слепое правосудие",
-  "date": "2010-07-01T12:23:00+03:00",
+  "date": "2010-07-01T11:23:36+03:00",
   "url": "/news/slepoe-pravosudie/",
+  "aliases": [
+    "/node/2702/"
+  ],
   "original_url": "http://spidermedia.ru/news/slepoe-pravosudie",
   "archived": "https://web.archive.org/web/20251115023023/http://spidermedia.ru/news/slepoe-pravosudie",
   "tags": [
@@ -14,6 +17,12 @@
     "shadowland",
     "marvel",
     "daredevil"
+  ],
+  "cover": "https://web.archive.org/web/20251115023023im_/http://spidermedia.ru/assets/images/import_image/2702.jpg",
+  "modx_id": 2702,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

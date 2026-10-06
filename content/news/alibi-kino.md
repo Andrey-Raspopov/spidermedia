@@ -1,11 +1,20 @@
 {
   "title": "Алиби: Кино",
-  "date": "2009-08-04T13:48:00+03:00",
+  "date": "2009-08-04T12:48:20+03:00",
   "url": "/news/alibi-kino/",
+  "aliases": [
+    "/node/1720/"
+  ],
   "original_url": "https://spidermedia.ru/news/alibi-kino",
   "archived": "https://web.archive.org/web/20260121014155/https://spidermedia.ru/news/alibi-kino",
   "tags": [
     "top-cow"
+  ],
+  "cover": "https://web.archive.org/web/20260121014155im_/http://spidermedia.ru/assets/images/import_image/1720.jpg",
+  "modx_id": 1720,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

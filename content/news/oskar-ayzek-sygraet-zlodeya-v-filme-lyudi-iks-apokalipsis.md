@@ -1,13 +1,20 @@
 {
   "title": "Оскар Айзек сыграет злодея в фильме «Люди Икс: Апокалипсис»",
-  "date": "2014-11-24T22:37:00+03:00",
+  "date": "2014-11-24T22:37:09+03:00",
   "url": "/news/oskar-ayzek-sygraet-zlodeya-v-filme-lyudi-iks-apokalipsis/",
   "original_url": "http://spidermedia.ru/news/oskar-ayzek-sygraet-zlodeya-v-filme-lyudi-iks-apokalipsis",
   "archived": "https://web.archive.org/web/20251206033433/http://spidermedia.ru/news/oskar-ayzek-sygraet-zlodeya-v-filme-lyudi-iks-apokalipsis",
   "tags": [
     "marvel",
     "x-men",
-    "kasting"
+    "kasting",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20251206033433im_/http://spidermedia.ru/assets/images/import_image/8314.jpg",
+  "modx_id": 8314,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

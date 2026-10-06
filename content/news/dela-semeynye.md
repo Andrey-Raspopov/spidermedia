@@ -1,7 +1,10 @@
 {
   "title": "Дела семейные",
-  "date": "2010-12-14T21:42:00+03:00",
+  "date": "2010-12-14T21:42:19+03:00",
   "url": "/news/dela-semeynye/",
+  "aliases": [
+    "/node/3117/"
+  ],
   "original_url": "http://spidermedia.ru/news/dela-semeynye",
   "archived": "https://web.archive.org/web/20251207095524/http://spidermedia.ru/news/dela-semeynye",
   "tags": [
@@ -13,7 +16,14 @@
     "dzhuzeppe-kamunkoli",
     "daken",
     "art-0",
-    "marvel"
+    "marvel",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20251207095524im_/http://spidermedia.ru/assets/images/import_image/3117.jpg",
+  "modx_id": 3117,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

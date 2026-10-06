@@ -8,6 +8,12 @@
     "idw-publishing",
     "ninja-turtles"
   ],
+  "cover": "https://web.archive.org/web/20260125053603im_/http://spidermedia.ru/assets/images/news/idw/turtles/tmnt-c-a01-cvr-irene-koh-1436a.jpg",
+  "modx_id": 100091,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

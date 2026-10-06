@@ -1,7 +1,10 @@
 {
   "title": "Dark Reign: The List - Amazing Spider-Man",
-  "date": "2009-07-26T02:27:00+03:00",
+  "date": "2009-07-26T01:27:07+03:00",
   "url": "/news/dark-reign-list-amazing-spider-man/",
+  "aliases": [
+    "/node/1664/"
+  ],
   "original_url": "https://spidermedia.ru/news/dark-reign-list-amazing-spider-man",
   "archived": "https://web.archive.org/web/20260314081057/https://spidermedia.ru/news/dark-reign-list-amazing-spider-man",
   "tags": [
@@ -11,10 +14,15 @@
     "list",
     "spider-man"
   ],
+  "modx_id": 1664,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](https://web.archive.org/web/20260314081057im_/http://i072.radikal.ru/0907/d3/840dc9f60896.jpg)](http://i.newsarama.com/sdcc09/darkreign2/spidermanthelistcoverdw-100.jpg) В прошлом месяце нам представили только небольшой [анонс](../../node/1453/) комикса **Dark Reign: The List - Amazing Spider-Man** от **Дэна Слотта** *(Dan Slott)* и **Адама Куберта** *(Adam Kubert)*, но теперь мы готовы представить не только обложку ноябрьского ван-шота авторства Куберта, но и подробности относительно сюжета выпуска.
+[![](https://web.archive.org/web/20260314081057im_/http://i072.radikal.ru/0907/d3/840dc9f60896.jpg)](http://i.newsarama.com/sdcc09/darkreign2/spidermanthelistcoverdw-100.jpg) В прошлом месяце нам представили только небольшой [анонс](../temnye-akty/) комикса **Dark Reign: The List - Amazing Spider-Man** от **Дэна Слотта** *(Dan Slott)* и **Адама Куберта** *(Adam Kubert)*, но теперь мы готовы представить не только обложку ноябрьского ван-шота авторства Куберта, но и подробности относительно сюжета выпуска.
 Не секрет, что в недавнем арке **American Son**, проходившем в серии **Amazing Spider-Man**, **Норман Озборн** *(Norman Osborn)* был очень близок к победе на **Человеком-Пауком** *(Spider-Man)*. Спустя месяцы у Озборна появится новая возможность и отомстить сине-красному герою, и перекрыть все пути для разглашения некой секретной информации, которую узнал Паук, пока находился в **Башне Мстителей** *(Avengers Tower)*. По такому поводу всея начальник сам возьмется за Паука, не рискуя отдать такую крупную рыбу никому из своих подчиненных.
 Интересная особенность этого номера - столкновение и борьба будет происходит исключительно между **Норманом** и **Питером Паркером** *(Peter Parker)*, никаких **Темных** и **Новых Мстителей** *(Dark Avengers & New Avengers)* и прочих сторонних участников. Но самым большим сюрпризом станет преобразование **Железного Патриота** *(Iron Patriot)* в легендарного **Зеленого Гоблина** *(Green Goblin)*!

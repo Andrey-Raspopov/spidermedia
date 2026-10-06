@@ -9,6 +9,12 @@
     "batman",
     "wonder-woman"
   ],
+  "cover": "https://web.archive.org/web/20160611141000im_/http://spidermedia.ru/assets/images/news/images/5_toys/play-arts-kai/wwandb/wall.jpg",
+  "modx_id": 100984,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

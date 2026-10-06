@@ -1,6 +1,6 @@
 {
   "title": "Before Sandman и другие",
-  "date": "2013-07-01T22:38:00+03:00",
+  "date": "2013-07-01T21:38:06+03:00",
   "url": "/news/sandman-i-drugie/",
   "original_url": "http://spidermedia.ru/news/sandman-i-drugie",
   "archived": "https://web.archive.org/web/20251205113102/http://spidermedia.ru/news/sandman-i-drugie",
@@ -9,6 +9,12 @@
     "neil-gaiman",
     "vertigo",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20160611152919im_/http://spidermedia.ru/assets/images/import_image/7310.jpg",
+  "modx_id": 7310,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

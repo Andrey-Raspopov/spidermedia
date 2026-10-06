@@ -4,6 +4,12 @@
   "url": "/games/prevyu-ni-no-kuni-ii-revenant-kingdom-skazka-nachinaetsya/",
   "original_url": "https://spidermedia.ru/games/prevyu-ni-no-kuni-ii-revenant-kingdom-skazka-nachinaetsya",
   "archived": "https://web.archive.org/web/20250913020621/https://spidermedia.ru/games/prevyu-ni-no-kuni-ii-revenant-kingdom-skazka-nachinaetsya",
+  "cover": "https://web.archive.org/web/20250913020621im_/http://spidermedia.ru/assets/images/games/ni-no-kuni-ii-revenant-kingdom/standard01ssa.jpg",
+  "modx_id": 101854,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

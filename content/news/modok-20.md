@@ -1,6 +1,6 @@
 {
   "title": "М.О.Д.О.К. 2.0",
-  "date": "2011-01-04T03:26:00+03:00",
+  "date": "2011-01-04T03:26:21+03:00",
   "url": "/news/modok-20/",
   "original_url": "http://spidermedia.ru/news/modok-20",
   "archived": "https://web.archive.org/web/20251207091715/http://spidermedia.ru/news/modok-20",
@@ -9,7 +9,14 @@
     "dzheff-parker",
     "gabriel-hardman",
     "art-0",
-    "marvel"
+    "marvel",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20251207091715im_/http://spidermedia.ru/assets/images/import_image/3142.jpg",
+  "modx_id": 3142,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

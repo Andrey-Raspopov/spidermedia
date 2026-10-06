@@ -1,6 +1,6 @@
 {
   "title": "\"Робокоп\": 2-й трейлер и новый постер",
-  "date": "2013-11-07T21:18:00+03:00",
+  "date": "2013-11-07T20:18:44+03:00",
   "url": "/news/robokop-2-y-treyler-i-novyy-poster/",
   "original_url": "https://spidermedia.ru/news/robokop-2-y-treyler-i-novyy-poster",
   "archived": "https://web.archive.org/web/20250617232720/https://spidermedia.ru/news/robokop-2-y-treyler-i-novyy-poster",
@@ -8,6 +8,12 @@
     "trejlery",
     "robocop",
     "postery"
+  ],
+  "cover": "https://web.archive.org/web/20180211110715im_/http://spidermedia.ru/assets/images/import_image/7534.jpg",
+  "modx_id": 7534,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

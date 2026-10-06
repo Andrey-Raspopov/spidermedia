@@ -4,6 +4,12 @@
   "url": "/games/mnenie-the-elder-scrolls-v-skyrim-special-edition/",
   "original_url": "http://spidermedia.ru/games/mnenie-the-elder-scrolls-v-skyrim-special-edition",
   "archived": "https://web.archive.org/web/20210128020008/http://spidermedia.ru/games/mnenie-the-elder-scrolls-v-skyrim-special-edition",
+  "cover": "https://web.archive.org/web/20170908111549im_/http://spidermedia.ru/assets/images/games/the-elder-scrolls-v-skyrim-special-edition/skurim.png",
+  "modx_id": 101405,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

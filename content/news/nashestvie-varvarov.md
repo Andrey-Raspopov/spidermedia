@@ -1,7 +1,10 @@
 {
   "title": "Нашествие варваров",
-  "date": "2009-11-17T02:02:00+03:00",
+  "date": "2009-11-17T02:02:27+03:00",
   "url": "/news/nashestvie-varvarov/",
+  "aliases": [
+    "/node/2103/"
+  ],
   "original_url": "https://spidermedia.ru/news/nashestvie-varvarov",
   "archived": "https://web.archive.org/web/20260123081116/https://spidermedia.ru/news/nashestvie-varvarov",
   "tags": [
@@ -18,6 +21,12 @@
     "other-lives",
     "joe-the-barbarian",
     "daytripper"
+  ],
+  "cover": "https://web.archive.org/web/20260123081116im_/http://spidermedia.ru/assets/images/import_image/2103.png",
+  "modx_id": 2103,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

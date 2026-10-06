@@ -1,12 +1,18 @@
 {
   "title": "Выиграй билет на Comic Con Russia!",
-  "date": "2014-09-16T11:00:00+03:00",
+  "date": "2014-09-16T10:00:52+03:00",
   "url": "/blog/redson/vyigray-bilet-na-comic-con-russia/",
   "original_url": "http://spidermedia.ru/blog/redson/vyigray-bilet-na-comic-con-russia",
   "archived": "https://web.archive.org/web/20260215081832/http://spidermedia.ru/blog/redson/vyigray-bilet-na-comic-con-russia",
   "tags": [
     "konkurs",
     "comic-con-russia"
+  ],
+  "cover": "https://web.archive.org/web/20260215081832im_/http://spidermedia.ru/assets/images/import_image/8051.png",
+  "modx_id": 8051,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

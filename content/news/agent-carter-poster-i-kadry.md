@@ -1,6 +1,6 @@
 {
   "title": "\"Agent Carter\": Постер и кадры",
-  "date": "2013-07-11T20:45:00+03:00",
+  "date": "2013-07-11T19:45:49+03:00",
   "url": "/news/agent-carter-poster-i-kadry/",
   "original_url": "http://spidermedia.ru/news/agent-carter-poster-i-kadry",
   "archived": "https://web.archive.org/web/20260120164724/http://spidermedia.ru/news/agent-carter-poster-i-kadry",
@@ -9,6 +9,12 @@
     "marvel",
     "captain-america",
     "agent-karter"
+  ],
+  "cover": "https://web.archive.org/web/20260120164724im_/http://spidermedia.ru/assets/images/import_image/7336.jpg",
+  "modx_id": 7336,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

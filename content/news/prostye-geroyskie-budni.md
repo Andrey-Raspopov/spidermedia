@@ -1,7 +1,10 @@
 {
   "title": "Простые геройские будни",
-  "date": "2010-02-11T22:23:00+03:00",
+  "date": "2010-02-11T22:23:53+03:00",
   "url": "/news/prostye-geroyskie-budni/",
+  "aliases": [
+    "/node/2358/"
+  ],
   "original_url": "https://spidermedia.ru/news/prostye-geroyskie-budni",
   "archived": "https://web.archive.org/web/20260305225149/https://spidermedia.ru/news/prostye-geroyskie-budni",
   "tags": [
@@ -15,7 +18,14 @@
     "art-0",
     "marvel",
     "spider-man",
-    "era-geroev"
+    "era-geroev",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20260305225149im_/http://spidermedia.ru/assets/images/import_image/2358.jpg",
+  "modx_id": 2358,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

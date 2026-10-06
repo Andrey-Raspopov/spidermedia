@@ -1,13 +1,20 @@
 {
   "title": "«Апокалипсис» нашел молодого Найткроулера",
-  "date": "2015-02-18T12:05:00+03:00",
+  "date": "2015-02-18T12:05:34+03:00",
   "url": "/news/apokalipsis-nashel-molodogo-naytkroulera/",
   "original_url": "http://spidermedia.ru/news/apokalipsis-nashel-molodogo-naytkroulera",
   "archived": "https://web.archive.org/web/20260125063126/http://spidermedia.ru/news/apokalipsis-nashel-molodogo-naytkroulera",
   "tags": [
     "marvel",
     "x-men",
-    "kasting"
+    "kasting",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20150326054604im_/http://spidermedia.ru/assets/images/import_image/8626.jpg",
+  "modx_id": 8626,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

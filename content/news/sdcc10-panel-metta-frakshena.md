@@ -1,7 +1,10 @@
 {
   "title": "SDCC'10: Панель Мэтта Фракшена",
-  "date": "2010-07-27T00:21:00+03:00",
+  "date": "2010-07-26T23:21:08+03:00",
   "url": "/news/sdcc10-panel-metta-frakshena/",
+  "aliases": [
+    "/node/2809/"
+  ],
   "original_url": "http://spidermedia.ru/news/sdcc10-panel-metta-frakshena",
   "archived": "https://web.archive.org/web/20120512064930/http://spidermedia.ru/news/sdcc10-panel-metta-frakshena",
   "tags": [
@@ -10,7 +13,13 @@
     "video",
     "komik-kon-v-san-diego",
     "marvel",
-    "mett-frakshen"
+    "mett-frakshen",
+    "san-diego-comic-con-international"
+  ],
+  "modx_id": 2809,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

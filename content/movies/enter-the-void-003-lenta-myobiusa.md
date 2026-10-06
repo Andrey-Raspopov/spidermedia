@@ -4,6 +4,12 @@
   "url": "/movies/enter-the-void-003-lenta-myobiusa/",
   "original_url": "http://spidermedia.ru/movies/enter-the-void-003-lenta-myobiusa",
   "archived": "https://web.archive.org/web/20250807214031/http://spidermedia.ru/movies/enter-the-void-003-lenta-myobiusa",
+  "cover": "https://web.archive.org/web/20250807214031im_/http://spidermedia.ru/assets/images/manga/ev/ev_003.jpg",
+  "modx_id": 101827,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

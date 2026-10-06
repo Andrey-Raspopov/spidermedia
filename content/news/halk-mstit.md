@@ -1,6 +1,6 @@
 {
   "title": "Халк мстить!",
-  "date": "2011-10-18T11:17:00+03:00",
+  "date": "2011-10-18T10:17:51+03:00",
   "url": "/news/halk-mstit/",
   "original_url": "http://spidermedia.ru/news/halk-mstit",
   "archived": "https://web.archive.org/web/20260117225626/http://spidermedia.ru/news/halk-mstit",
@@ -19,6 +19,12 @@
     "marvel",
     "maks-fiumara",
     "ron-frenc"
+  ],
+  "cover": "https://web.archive.org/web/20260117225626im_/http://spidermedia.ru/assets/images/import_image/6656.jpg",
+  "modx_id": 6656,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

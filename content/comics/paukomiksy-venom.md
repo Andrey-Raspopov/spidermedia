@@ -9,6 +9,12 @@
     "venom",
     "spider-week"
   ],
+  "cover": "https://web.archive.org/web/20251216175741im_/http://spidermedia.ru/assets/images/spiderweek/venom/cover.jpg",
+  "modx_id": 101994,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

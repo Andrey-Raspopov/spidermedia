@@ -1,12 +1,17 @@
 {
   "title": "Daniel Acu?a: Dark Avengers",
-  "date": "2009-02-02T20:28:00+03:00",
+  "date": "2009-02-02T20:28:51+03:00",
   "url": "/blog/ironman/daniel-acuna-dark-avengers/",
   "original_url": "http://spidermedia.ru/blog/ironman/daniel-acuna-dark-avengers",
   "archived": "https://web.archive.org/web/20230921101108/http://spidermedia.ru/blog/ironman/daniel-acuna-dark-avengers",
   "tags": [
     "daniel-akunya",
     "avengers"
+  ],
+  "modx_id": 116,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

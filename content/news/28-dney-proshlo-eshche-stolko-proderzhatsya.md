@@ -1,12 +1,19 @@
 {
   "title": "28 дней прошло, еще бы столько продержаться",
-  "date": "2009-05-04T23:06:00+03:00",
+  "date": "2009-05-04T22:06:33+03:00",
   "url": "/news/28-dney-proshlo-eshche-stolko-proderzhatsya/",
   "original_url": "http://spidermedia.ru/news/28-dney-proshlo-eshche-stolko-proderzhatsya",
   "archived": "https://web.archive.org/web/20150427073743/http://spidermedia.ru/news/28-dney-proshlo-eshche-stolko-proderzhatsya",
   "tags": [
     "art-0",
-    "boom-studios"
+    "boom-studios",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20150427073743im_/http://spidermedia.ru/assets/images/import_image/1099.jpg",
+  "modx_id": 1099,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

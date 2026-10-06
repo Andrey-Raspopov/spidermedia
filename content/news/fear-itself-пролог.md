@@ -20,13 +20,16 @@
     "скотт-итон",
     "эд-брубейкер"
   ],
+  "sources": [
+    "archive"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }
 
 ## Fear Itself: Пролог
 
-Анонсы **Marvel** на март 2011 несколько прояснили ситуацию насчет грядущего события [**Воплощение Страха** *(Fear Itself)*](../../node/3131/), а именно представили обложку пролога от **Марко Джурджевича** *(Marko Djurdjevic)* и небольшое сюжетное описание:
+Анонсы **Marvel** на март 2011 несколько прояснили ситуацию насчет грядущего события [**Воплощение Страха** *(Fear Itself)*](../fear-itself-globalnoe-sobytie-2011/), а именно представили обложку пролога от **Марко Джурджевича** *(Marko Djurdjevic)* и небольшое сюжетное описание:
 
 ]]>[![](https://web.archive.org/web/20110127112808im_/http://img.photobucket.com/albums/v497/spidermedia/silver_news/902441779.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/silver_news/90244177.jpg)]]>
 

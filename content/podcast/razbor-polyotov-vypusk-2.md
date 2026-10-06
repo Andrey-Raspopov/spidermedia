@@ -1,11 +1,19 @@
 {
   "title": "«Разбор полётов». Выпуск 2",
-  "date": "2013-08-27T11:19:00+03:00",
+  "date": "2013-08-27T10:19:38+03:00",
   "url": "/podcast/razbor-polyotov-vypusk-2/",
   "original_url": "http://spidermedia.ru/podcast/razbor-polyotov-vypusk-2",
   "archived": "https://web.archive.org/web/20250422024623/http://spidermedia.ru/podcast/razbor-polyotov-vypusk-2",
   "tags": [
     "spidercast"
+  ],
+  "cover": "https://web.archive.org/web/20150315192120im_/http://spidermedia.ru/misc/files/podcast/covers/razborpoletovv.png",
+  "podcast_audio": "https://spidermedia.podster.fm/24/download/audio.mp3",
+  "podcast_length": "2:04:56",
+  "modx_id": 7436,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Женская Сила от Синей Воды",
-  "date": "2009-06-08T14:17:00+03:00",
+  "date": "2009-06-08T13:17:09+03:00",
   "url": "/news/zhenskaya-sila-ot-siney-vody/",
   "original_url": "http://spidermedia.ru/news/zhenskaya-sila-ot-siney-vody",
   "archived": "https://web.archive.org/web/20120608211056/http://spidermedia.ru/news/zhenskaya-sila-ot-siney-vody",
@@ -8,6 +8,12 @@
     "bluewater",
     "female-force",
     "komiksy"
+  ],
+  "cover": "https://web.archive.org/web/20120608211056im_/http://spidermedia.ru/assets/images/import_image/1382.jpg",
+  "modx_id": 1382,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

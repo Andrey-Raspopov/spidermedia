@@ -1,6 +1,6 @@
 {
   "title": "Презентация Издательства \"42\" состоится завтра",
-  "date": "2013-02-06T21:50:00+03:00",
+  "date": "2013-02-06T20:50:45+03:00",
   "url": "/news/prezentaciya-izdatelstva-42-sostoitsya-zavtra/",
   "original_url": "http://spidermedia.ru/news/prezentaciya-izdatelstva-42-sostoitsya-zavtra",
   "archived": "https://web.archive.org/web/20260211183031/http://spidermedia.ru/news/prezentaciya-izdatelstva-42-sostoitsya-zavtra",
@@ -8,6 +8,12 @@
     "industriya",
     "izdatelstvo-42",
     "zarubezhnye-komiksy-na-russkom"
+  ],
+  "cover": "https://web.archive.org/web/20180401143920im_/http://spidermedia.ru/assets/images/import_image/7140.jpg",
+  "modx_id": 7140,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

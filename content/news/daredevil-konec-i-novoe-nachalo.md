@@ -2,6 +2,9 @@
   "title": "Daredevil: конец и новое начало",
   "date": "2009-03-20T22:25:00+03:00",
   "url": "/news/daredevil-konec-i-novoe-nachalo/",
+  "aliases": [
+    "/node/732/"
+  ],
   "original_url": "http://spidermedia.ru/news/daredevil-konec-i-novoe-nachalo",
   "archived": "https://web.archive.org/web/20251211030508/http://spidermedia.ru/news/daredevil-konec-i-novoe-nachalo",
   "tags": [
@@ -11,7 +14,13 @@
     "dardevil",
     "art-0",
     "marvel",
-    "daredevil"
+    "daredevil",
+    "art"
+  ],
+  "modx_id": 732,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

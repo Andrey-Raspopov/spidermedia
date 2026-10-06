@@ -1,7 +1,10 @@
 {
   "title": "Точка отсчета",
-  "date": "2011-01-15T16:13:00+03:00",
+  "date": "2011-01-15T16:13:28+03:00",
   "url": "/news/tochka-otscheta/",
+  "aliases": [
+    "/node/3165/"
+  ],
   "original_url": "http://spidermedia.ru/news/tochka-otscheta",
   "archived": "https://web.archive.org/web/20251211035525/http://spidermedia.ru/news/tochka-otscheta",
   "tags": [
@@ -9,6 +12,12 @@
     "the-flash",
     "dc-comics",
     "endi-kubert"
+  ],
+  "cover": "https://web.archive.org/web/20251211035525im_/http://spidermedia.ru/assets/images/import_image/3165.jpg",
+  "modx_id": 3165,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

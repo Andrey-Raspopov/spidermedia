@@ -1,13 +1,22 @@
 {
   "title": "Toki wo Kakeru Shoujo",
-  "date": "2009-09-23T21:18:00+03:00",
+  "date": "2009-09-23T20:18:02+03:00",
   "url": "/blog/naya/toki-wo-kakeru-shoujo/",
+  "aliases": [
+    "/node/1925/"
+  ],
   "original_url": "http://spidermedia.ru/blog/naya/toki-wo-kakeru-shoujo",
   "archived": "https://web.archive.org/web/20251107010500/http://spidermedia.ru/blog/naya/toki-wo-kakeru-shoujo",
   "tags": [
     "slice-of-life",
     "sci-fi",
     "anime"
+  ],
+  "cover": "https://web.archive.org/web/20251107010500im_/http://spidermedia.ru/assets/images/import_image/1925.jpg",
+  "modx_id": 1925,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

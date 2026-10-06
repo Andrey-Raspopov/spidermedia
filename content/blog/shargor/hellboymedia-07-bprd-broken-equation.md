@@ -1,12 +1,18 @@
 {
   "title": "Hellboymedia #07: B.P.R.D. — The Broken Equation",
-  "date": "2014-10-24T15:05:00+03:00",
+  "date": "2014-10-24T14:05:09+03:00",
   "url": "/blog/shargor/hellboymedia-07-bprd-broken-equation/",
   "original_url": "http://spidermedia.ru/blog/shargor/hellboymedia-07-bprd-broken-equation",
   "archived": "https://web.archive.org/web/20260214141320/http://spidermedia.ru/blog/shargor/hellboymedia-07-bprd-broken-equation",
   "tags": [
     "hellboymedia",
     "mnenie"
+  ],
+  "cover": "https://web.archive.org/web/20160611132151im_/http://spidermedia.ru/assets/images/hellboymedia/regular/07-bprd-the-broken-equation/b.p.r.d.-the-broken-equation-cover.jpg",
+  "modx_id": 8220,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

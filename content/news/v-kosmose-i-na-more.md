@@ -1,7 +1,10 @@
 {
   "title": "В космосе и на море",
-  "date": "2009-07-20T15:58:00+03:00",
+  "date": "2009-07-20T14:58:04+03:00",
   "url": "/news/v-kosmose-i-na-more/",
+  "aliases": [
+    "/node/1609/"
+  ],
   "original_url": "https://spidermedia.ru/news/v-kosmose-i-na-more",
   "archived": "https://web.archive.org/web/20241009222339/https://spidermedia.ru/news/v-kosmose-i-na-more",
   "tags": [
@@ -11,6 +14,12 @@
     "adam-strejndzh",
     "dc-comics",
     "green-arrow"
+  ],
+  "cover": "https://web.archive.org/web/20241009222339im_/http://spidermedia.ru/assets/images/import_image/1609.jpg",
+  "modx_id": 1609,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

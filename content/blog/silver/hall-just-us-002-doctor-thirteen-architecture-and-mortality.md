@@ -1,6 +1,6 @@
 {
   "title": "Hall of Just Us 002: Doctor Thirteen: Architecture and Mortality",
-  "date": "2010-09-21T22:29:00+03:00",
+  "date": "2010-09-21T21:29:04+03:00",
   "url": "/blog/silver/hall-just-us-002-doctor-thirteen-architecture-and-mortality/",
   "original_url": "http://spidermedia.ru/blog/silver/hall-just-us-002-doctor-thirteen-architecture-and-mortality",
   "archived": "https://web.archive.org/web/20120607184213/http://spidermedia.ru/blog/silver/hall-just-us-002-doctor-thirteen-architecture-and-mortality",
@@ -8,7 +8,14 @@
     "doctor-thirteen",
     "hall-just-us",
     "komiksy",
-    "mnenie"
+    "mnenie",
+    "hall-of-just-us"
+  ],
+  "cover": "https://web.archive.org/web/20120607184213im_/http://spidermedia.ru/assets/images/import_image/2931.jpg",
+  "modx_id": 2931,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Первый сезон",
-  "date": "2011-07-20T14:30:00+03:00",
+  "date": "2011-07-20T13:30:36+03:00",
   "url": "/news/pervyy-sezon/",
   "original_url": "https://spidermedia.ru/news/pervyy-sezon",
   "archived": "https://web.archive.org/web/20260309180036/https://spidermedia.ru/news/pervyy-sezon",
@@ -12,7 +12,16 @@
     "dardevil",
     "art-0",
     "season-one",
-    "marvel"
+    "marvel",
+    "prevyu",
+    "lyudi-iks",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20260309180036im_/http://spidermedia.ru/assets/images/import_image/6508.jpg",
+  "modx_id": 6508,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

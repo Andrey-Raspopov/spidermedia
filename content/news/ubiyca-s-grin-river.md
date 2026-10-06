@@ -1,12 +1,21 @@
 {
   "title": "Убийца с Грин-ривер",
-  "date": "2009-06-02T11:37:00+03:00",
+  "date": "2009-06-02T10:37:23+03:00",
   "url": "/news/ubiyca-s-grin-river/",
+  "aliases": [
+    "/node/1325/"
+  ],
   "original_url": "http://spidermedia.ru/news/ubiyca-s-grin-river",
   "archived": "https://web.archive.org/web/20161109000906/http://spidermedia.ru:80/news/ubiyca-s-grin-river",
   "tags": [
     "dark-horse",
     "green-river-killer"
+  ],
+  "cover": "https://web.archive.org/web/20161109000906im_/http://spidermedia.ru/assets/images/import_image/1325.jpg",
+  "modx_id": 1325,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

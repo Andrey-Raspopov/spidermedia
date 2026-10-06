@@ -1,12 +1,18 @@
 {
   "title": "When Worlds Collide",
-  "date": "2011-04-29T20:34:00+03:00",
+  "date": "2011-04-29T19:34:44+03:00",
   "url": "/blog/sonyn/when-worlds-collide/",
   "original_url": "https://spidermedia.ru/blog/sonyn/when-worlds-collide",
   "archived": "https://web.archive.org/web/20251115033950/https://spidermedia.ru/blog/sonyn/when-worlds-collide",
   "tags": [
     "fanart",
     "gainax"
+  ],
+  "cover": "https://web.archive.org/web/20251115033950im_/http://spidermedia.ru/assets/images/import_image/5347.png",
+  "modx_id": 5347,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

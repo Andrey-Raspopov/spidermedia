@@ -1,9 +1,15 @@
 {
   "title": "\"Ночь крипсов\" выйдет на ДВД",
-  "date": "2009-04-03T14:43:00+03:00",
+  "date": "2009-04-03T13:43:32+03:00",
   "url": "/blog/sterpazook/noch-kripsov-vyydet-na-dvd/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/noch-kripsov-vyydet-na-dvd",
   "archived": "https://web.archive.org/web/20170715123901/http://spidermedia.ru:80/blog/sterpazook/noch-kripsov-vyydet-na-dvd",
+  "cover": "https://web.archive.org/web/20170715123901im_/http://spidermedia.ru/assets/images/import_image/838.jpg",
+  "modx_id": 838,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

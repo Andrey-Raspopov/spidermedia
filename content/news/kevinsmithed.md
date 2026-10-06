@@ -1,7 +1,10 @@
 {
   "title": "KevinSmithed",
-  "date": "2009-08-26T00:10:00+03:00",
+  "date": "2009-08-25T23:10:14+03:00",
   "url": "/news/kevinsmithed/",
+  "aliases": [
+    "/node/1827/"
+  ],
   "original_url": "http://spidermedia.ru/news/kevinsmithed",
   "archived": "https://web.archive.org/web/20120607092454/http://spidermedia.ru/news/kevinsmithed",
   "tags": [
@@ -12,6 +15,12 @@
     "bill-sinkevich",
     "kevin-smit",
     "komiksy"
+  ],
+  "cover": "https://web.archive.org/web/20120607092454im_/http://spidermedia.ru/assets/images/import_image/1827.jpg",
+  "modx_id": 1827,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

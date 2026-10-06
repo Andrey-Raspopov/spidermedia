@@ -5,17 +5,22 @@
   "original_url": "http://spidermedia.ru/comics/all-things-valiant-55-week-30-season-2-premiere",
   "archived": "https://web.archive.org/web/20260215073035/http://spidermedia.ru/comics/all-things-valiant-55-week-30-season-2-premiere",
   "tags": [
-    "valiant-entertainment"
+    "valiant-entertainment",
+    "all-things-valiant"
+  ],
+  "cover": "https://web.archive.org/web/20260215073035im_/http://spidermedia.ru/assets/images/valiant/images/atv55/atv55.jpg",
+  "modx_id": 101278,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](https://spidermedia.ru/assets/cache/images/valiant/images/atv55/622x-atv55.2e9.jpg)](https://spidermedia.ru/assets/images/valiant/images/atv55/atv55.jpg)
-
 Немного переведя дух, вновь возвращаемся к ведению ~~еженедельной войны за рейтинги с сериальными обзорами Алексея Замского~~ нашей скромной рубрики. И новый сезон мы встречаем во всеоружии! Так что готовьтесь, контента будет много.
 
-**[Новости](./#news) ****•** [Анонсы](./#solicitations)** **•** [Рецензии](./#reviews)**
+**[Новости](#news) ****•** [Анонсы](#solicitations)** **•** [Рецензии](#reviews)**
 
 В этом выпуске: Будущее начинается сейчас! А также Супер-Хиллари, Красавчик-Крис и Мама-Рай.
 
@@ -28,24 +33,22 @@
 #### Хиллари Клинтон появится на страницах Faith #5
 2 ноября, всего за несколько дней до президентских выборов 2016 в США, кандидат от демократической партии Хиллари Клинтон дебютирует на страницах комикса Faith #5. Специальную историю с ее участием напишет легенда комикс-индустрии Луиза Саймонсон (*Power Pack, X-Factor, New Mutants, Superman: The Man of Steel, Steel*). Помимо этого данный выпуск будет содержать начало нового сюжета от постоянного сценариста серии Джоди Хаузер и художниц Меган Хетрик (*Red Thorn*) и Маргарит Саваж. Обложку к пятому выпуску нарисует Паоло Ривера.
 
-[![Паоло Ривера](https://spidermedia.ru/assets/images/valiant/images/atv55/faith_005_cover-a_rivera.jpg)](./ "Паоло Ривера")
+![](https://web.archive.org/web/20260215073035im_/http://spidermedia.ru/assets/images/valiant/images/atv55/faith_005_cover-a_rivera.jpg)
 
 #### Второй тираж Faith #1 задаром
 Valiant объявило на San Diego Comic-Con, что весь первый тираж Faith #1 был распродан за один день после поступления в продажу. Поэтому 24 августа выпустят второй тираж, из которого 100 000 копий издательство раздаст комикс-шопам бесплатно. При этом компания предлагает продавать эти комиксы со скидкой или просто раздавать всем желающим. Весь новый тираж будет распространяться пачками по 20 выпусков с ценником в 2,99 $.
 
-[![](https://spidermedia.ru/assets/images/valiant/images/atv44/faith_ongoing_001_cover-b_djurdjevic1.jpg)](./)
+![](https://web.archive.org/web/20260215073035im_/http://spidermedia.ru/assets/images/valiant/images/atv44/faith_ongoing_001_cover-b_djurdjevic1.jpg)
 
 #### Rai High Quality Roto-Cast Statue
 Издательство Valiant Entertainment совместно с японской компанией X-PLUS представило первую официальную фигурку Рая. Статуя героя высотой более 45 см поступит в продажу 31 августа, в день выхода последнего номера ивента 4001 A.D.
 
-[![](https://spidermedia.ru/assets/images/valiant/images/atv55/rai_rotocast-statue_xplus_003.jpg)](./)
-[![](https://spidermedia.ru/assets/images/valiant/images/atv55/rai_rotocast-statue_xplus_001.jpg)](./)
-[![](https://spidermedia.ru/assets/images/valiant/images/atv55/rai_rotocast-statue_xplus_002.jpg)](./)
+![](https://web.archive.org/web/20260215073035im_/http://spidermedia.ru/assets/images/valiant/images/atv55/rai_rotocast-statue_xplus_003.jpg)![](https://web.archive.org/web/20260215073035im_/http://spidermedia.ru/assets/images/valiant/images/atv55/rai_rotocast-statue_xplus_001.jpg)![](https://web.archive.org/web/20260215073035im_/http://spidermedia.ru/assets/images/valiant/images/atv55/rai_rotocast-statue_xplus_002.jpg)
 
 #### За Покемоном в комикс-шоп!
 Valiant Entertainment объявило о спонсировании программы предназначенной для “заманивания” потенциальных читателей в комикс-шопы. Издательство расположит приманки с покестопами в [11 магазинах США](http://www.bleedingcool.com/2016/07/20/valiant-places-special-pokemon-go-lures-in-eleven-comic-stores/). Valiant надеется, что игроки в [Pokémon Go](../../games/pokemon-go-chto-gde-kak/) будут охотиться за покемонами достаточно долго, чтобы прикупить парочку комиксов.
 
-[![](https://spidermedia.ru/assets/images/valiant/images/atv55/atv-55-news-valiant-pokemon-go.jpg)](./)
+![](https://web.archive.org/web/20260215073035im_/http://spidermedia.ru/assets/images/valiant/images/atv55/atv-55-news-valiant-pokemon-go.jpg)
 
 ---
 
@@ -54,19 +57,7 @@ Valiant Entertainment объявило о спонсировании прогр�
 ---
 
 #### Bloodshot U.S.A. #1
-[![Кано](https://spidermedia.ru/assets/images/valiant/images/atv55/bsusa_001_cover-a_kano1.jpg)](https://spidermedia.ru/assets/images/valiant/images/atv55/bsusa_001_cover-a_kano1.jpg "Кано")
-
-[![Дуг Брэйтвэйт](https://spidermedia.ru/assets/images/valiant/images/atv55/bsusa_001_cover-b_braithwaite1.jpg)](https://spidermedia.ru/assets/images/valiant/images/atv55/bsusa_001_cover-b_braithwaite1.jpg "Дуг Брэйтвэйт")
-
-[![Дэйв Джонсон](https://spidermedia.ru/assets/images/valiant/images/atv55/bsusa_001_cover-c_johnson1.jpg)](https://spidermedia.ru/assets/images/valiant/images/atv55/bsusa_001_cover-c_johnson1.jpg "Дэйв Джонсон")
-
-[![Райан Стегман](https://spidermedia.ru/assets/images/valiant/images/atv55/bsusa_001_cover-d_stegman1.jpg)](https://spidermedia.ru/assets/images/valiant/images/atv55/bsusa_001_cover-d_stegman1.jpg "Райан Стегман")
-
-[![Кёлли Хэмнер](https://spidermedia.ru/assets/images/valiant/images/atv55/bsusa_001_cover-e_hamner1.jpg)](https://spidermedia.ru/assets/images/valiant/images/atv55/bsusa_001_cover-e_hamner1.jpg "Кёлли Хэмнер")
-
-[![Бутч Гайс](https://spidermedia.ru/assets/images/valiant/images/atv55/bsusa_001_variant_guice.jpg)](https://spidermedia.ru/assets/images/valiant/images/atv55/bsusa_001_variant_guice.jpg "Бутч Гайс")
-
-[![Райан Стегман](https://spidermedia.ru/assets/images/valiant/images/atv55/bsusa_001_variant-sketch_stegman.jpg)](https://spidermedia.ru/assets/images/valiant/images/atv55/bsusa_001_variant-sketch_stegman.jpg "Райан Стегман")
+![](https://web.archive.org/web/20260215073035im_/http://spidermedia.ru/assets/images/valiant/images/atv55/bsusa_001_cover-a_kano1.jpg)![](https://web.archive.org/web/20260215073035im_/http://spidermedia.ru/assets/images/valiant/images/atv55/bsusa_001_cover-b_braithwaite1.jpg)![](https://web.archive.org/web/20260215073035im_/http://spidermedia.ru/assets/images/valiant/images/atv55/bsusa_001_cover-c_johnson1.jpg)![](https://web.archive.org/web/20260215073035im_/http://spidermedia.ru/assets/images/valiant/images/atv55/bsusa_001_cover-d_stegman1.jpg)![](https://web.archive.org/web/20260215073035im_/http://spidermedia.ru/assets/images/valiant/images/atv55/bsusa_001_cover-e_hamner1.jpg)![](https://web.archive.org/web/20260215073035im_/http://spidermedia.ru/assets/images/valiant/images/atv55/bsusa_001_variant_guice.jpg)![](https://web.archive.org/web/20260215073035im_/http://spidermedia.ru/assets/images/valiant/images/atv55/bsusa_001_variant-sketch_stegman.jpg)
 
 Сценарий: Джефф Лемир
 Рисунок: Дуг Брэйтвэйт
@@ -77,15 +68,7 @@ Valiant Entertainment объявило о спонсировании прогр�
 
 **Britannia #2**
 
-[![Кэри Норд](https://spidermedia.ru/assets/images/valiant/images/atv55/britannia_002_cover-a_nord.jpg)](https://spidermedia.ru/assets/images/valiant/images/atv55/britannia_002_cover-a_nord.jpg "Кэри Норд")
-
-[![Адам Горэм](https://spidermedia.ru/assets/images/valiant/images/atv55/britannia_002_cover-b_gorham.jpg)](https://spidermedia.ru/assets/images/valiant/images/atv55/britannia_002_cover-b_gorham.jpg "Адам Горэм")
-
-[![Хуан Хосе Рип](https://spidermedia.ru/assets/images/valiant/images/atv55/britannia_002_variant_ryp.jpg)](https://spidermedia.ru/assets/images/valiant/images/atv55/britannia_002_variant_ryp.jpg "Хуан Хосе Рип")
-
-[![Райан Ли](https://spidermedia.ru/assets/images/valiant/images/atv55/britannia_002_variant_lee.jpg)](https://spidermedia.ru/assets/images/valiant/images/atv55/britannia_002_variant_lee.jpg "Райан Ли")
-
-[![Дэйв Джонсон](https://spidermedia.ru/assets/images/valiant/images/atv55/britannia_002_variant_johnson.jpg)](https://spidermedia.ru/assets/images/valiant/images/atv55/britannia_002_variant_johnson.jpg "Дэйв Джонсон")
+![](https://web.archive.org/web/20260215073035im_/http://spidermedia.ru/assets/images/valiant/images/atv55/britannia_002_cover-a_nord.jpg)![](https://web.archive.org/web/20260215073035im_/http://spidermedia.ru/assets/images/valiant/images/atv55/britannia_002_cover-b_gorham.jpg)![](https://web.archive.org/web/20260215073035im_/http://spidermedia.ru/assets/images/valiant/images/atv55/britannia_002_variant_ryp.jpg)![](https://web.archive.org/web/20260215073035im_/http://spidermedia.ru/assets/images/valiant/images/atv55/britannia_002_variant_lee.jpg)![](https://web.archive.org/web/20260215073035im_/http://spidermedia.ru/assets/images/valiant/images/atv55/britannia_002_variant_johnson.jpg)
 
 Сценарий: Питер Миллиган
 Рисунок: Хуан Хосе Рип
@@ -94,10 +77,7 @@ Valiant Entertainment объявило о спонсировании прогр�
 
 **Generation ZERO #3**
 
-[![Стивен Муни](https://spidermedia.ru/assets/images/valiant/images/atv55/genzero_003_cover-a_mooney.jpg)](./ "Стивен Муни")
-[![Том Мюллер](https://spidermedia.ru/assets/images/valiant/images/atv55/genzero_003_cover-b_muller.jpg)](./ "Том Мюллер")
-[![Дерек Чарм](https://spidermedia.ru/assets/images/valiant/images/atv55/genzero_003_variant_charm.jpg)](./ "Дерек Чарм")
-[![Дэн Пэрент](https://spidermedia.ru/assets/images/valiant/images/atv55/genzero_003_variant_parent.jpg)](./ "Дэн Пэрент")
+![](https://web.archive.org/web/20260215073035im_/http://spidermedia.ru/assets/images/valiant/images/atv55/genzero_003_cover-a_mooney.jpg)![](https://web.archive.org/web/20260215073035im_/http://spidermedia.ru/assets/images/valiant/images/atv55/genzero_003_cover-b_muller.jpg)![](https://web.archive.org/web/20260215073035im_/http://spidermedia.ru/assets/images/valiant/images/atv55/genzero_003_variant_charm.jpg)![](https://web.archive.org/web/20260215073035im_/http://spidermedia.ru/assets/images/valiant/images/atv55/genzero_003_variant_parent.jpg)
 
 Сценарий: Фред Ван Ленте
 Рисунок: Дерек Чарм, Фрэнсис Портела
@@ -105,10 +85,7 @@ Valiant Entertainment объявило о спонсировании прогр�
 Поколение Зеро прибывает в Рук, Мичиган, чтобы расследовать странную смерть, и улики приводят их в коридоры не менее странной школы. Но правда о гибели парня Кейши Шерман известна только одному человеку — местной школьной королеве. Теперь бывшей команде закаленных бойцов предстоит совершить незаметное вторжение в сознание самой популярной девушки Рука. Увидев правду ее глазами, ребята обнаружат гораздо более темные секреты города, где убийства и обман притаились за оградой каждого дома.
 
 #### Faith #4
-[![Кевин Вада](https://spidermedia.ru/assets/images/valiant/images/atv55/faith_004_cover-a_wada.jpg)](./ "Кевин Вада")
-[![Клэйтон Хенри](https://spidermedia.ru/assets/images/valiant/images/atv55/faith_004_cover-b_henry.jpg)](./ "Клэйтон Хенри")
-[![Джейсон Мур](https://spidermedia.ru/assets/images/valiant/images/atv55/faith_004_cover-c_muhr.jpg)](./ "Джейсон Мур")
-[![Кари Эванс](https://spidermedia.ru/assets/images/valiant/images/atv55/faith_004_variant_evans.jpg)](./ "Кари Эванс")
+![](https://web.archive.org/web/20260215073035im_/http://spidermedia.ru/assets/images/valiant/images/atv55/faith_004_cover-a_wada.jpg)![](https://web.archive.org/web/20260215073035im_/http://spidermedia.ru/assets/images/valiant/images/atv55/faith_004_cover-b_henry.jpg)![](https://web.archive.org/web/20260215073035im_/http://spidermedia.ru/assets/images/valiant/images/atv55/faith_004_cover-c_muhr.jpg)![](https://web.archive.org/web/20260215073035im_/http://spidermedia.ru/assets/images/valiant/images/atv55/faith_004_variant_evans.jpg)
 
 Сценарий: Джоди Хаузер
 Рисунок: Пере Перез, Маргарит Саваж
@@ -117,15 +94,7 @@ Valiant Entertainment объявило о спонсировании прогр�
 
 #### Bloodshot Reborn #18
 
-[![Стивен Сеговия](https://spidermedia.ru/assets/images/valiant/images/atv55/bsrb_018_cover-a_segovia.jpg)](https://spidermedia.ru/assets/images/valiant/images/atv55/bsrb_018_cover-a_segovia.jpg "Стивен Сеговия")
-
-[![Адам Горэм](https://spidermedia.ru/assets/images/valiant/images/atv55/bsrb_018_cover-b_gorham.jpg)](https://spidermedia.ru/assets/images/valiant/images/atv55/bsrb_018_cover-b_gorham.jpg "Адам Горэм")
-
-[![Андерс Гуинальдо](https://spidermedia.ru/assets/images/valiant/images/atv55/bsrb_018_cover-c_guinaldo.jpg)](https://spidermedia.ru/assets/images/valiant/images/atv55/bsrb_018_cover-c_guinaldo.jpg "Андерс Гуинальдо")
-
-[![Брайан Левел](https://spidermedia.ru/assets/images/valiant/images/atv55/bsrb_018_variant_level.jpg)](https://spidermedia.ru/assets/images/valiant/images/atv55/bsrb_018_variant_level.jpg "Брайан Левел")
-
-[![Роберт Джилл](https://spidermedia.ru/assets/images/valiant/images/atv55/bsrb_018_variant_gill.jpg)](https://spidermedia.ru/assets/images/valiant/images/atv55/bsrb_018_variant_gill.jpg "Роберт Джилл")
+![](https://web.archive.org/web/20260215073035im_/http://spidermedia.ru/assets/images/valiant/images/atv55/bsrb_018_cover-a_segovia.jpg)![](https://web.archive.org/web/20260215073035im_/http://spidermedia.ru/assets/images/valiant/images/atv55/bsrb_018_cover-b_gorham.jpg)![](https://web.archive.org/web/20260215073035im_/http://spidermedia.ru/assets/images/valiant/images/atv55/bsrb_018_cover-c_guinaldo.jpg)![](https://web.archive.org/web/20260215073035im_/http://spidermedia.ru/assets/images/valiant/images/atv55/bsrb_018_variant_level.jpg)![](https://web.archive.org/web/20260215073035im_/http://spidermedia.ru/assets/images/valiant/images/atv55/bsrb_018_variant_gill.jpg)
 
 Сценарий: Джефф Лемир
 Рисунок: Томас Джурелло
@@ -134,10 +103,7 @@ Valiant Entertainment объявило о спонсировании прогр�
 
 #### A&A #8
 
-[![Кано](https://spidermedia.ru/assets/images/valiant/images/atv55/aa_008_cover-a_kano.jpg)](./ "Кано")
-[![Дэвид Лафуэнте](https://spidermedia.ru/assets/images/valiant/images/atv55/aa_008_cover-b_lafuente.jpg)](./ "Дэвид Лафуэнте")
-[![Брайан Левел](https://spidermedia.ru/assets/images/valiant/images/atv55/aa_008_variant_level.jpg)](./ "Брайан Левел")
-[![Джеффри Вередж](https://spidermedia.ru/assets/images/valiant/images/atv55/aa_008_variant_veregge.jpg)](./ "Джеффри Вередж")
+![](https://web.archive.org/web/20260215073035im_/http://spidermedia.ru/assets/images/valiant/images/atv55/aa_008_cover-a_kano.jpg)![](https://web.archive.org/web/20260215073035im_/http://spidermedia.ru/assets/images/valiant/images/atv55/aa_008_cover-b_lafuente.jpg)![](https://web.archive.org/web/20260215073035im_/http://spidermedia.ru/assets/images/valiant/images/atv55/aa_008_variant_level.jpg)![](https://web.archive.org/web/20260215073035im_/http://spidermedia.ru/assets/images/valiant/images/atv55/aa_008_variant_veregge.jpg)
 
 Сценарий: Рафер Робертс
 Рисунок: Майк Нортон
@@ -148,10 +114,7 @@ Valiant Entertainment объявило о спонсировании прогр�
 
 #### Ninjak #20
 
-[![Майк Чой](https://spidermedia.ru/assets/images/valiant/images/atv55/ninjak_020_cover-a_choi.jpg)](./ "Майк Чой")
-[![Райан Боденхейм](https://spidermedia.ru/assets/images/valiant/images/atv55/ninjak_020_cover-b_bodenheim.jpg)](./ "Райан Боденхейм")
-[![Марк Лэминг](https://spidermedia.ru/assets/images/valiant/images/atv55/ninjak_020_cover-c_laming.jpg)](./ "Марк Лэминг")
-[![Майкл Фифф](https://spidermedia.ru/assets/images/valiant/images/atv55/ninjak_020_variant_fiffe.jpg)](./ "Майкл Фифф")
+![](https://web.archive.org/web/20260215073035im_/http://spidermedia.ru/assets/images/valiant/images/atv55/ninjak_020_cover-a_choi.jpg)![](https://web.archive.org/web/20260215073035im_/http://spidermedia.ru/assets/images/valiant/images/atv55/ninjak_020_cover-b_bodenheim.jpg)![](https://web.archive.org/web/20260215073035im_/http://spidermedia.ru/assets/images/valiant/images/atv55/ninjak_020_cover-c_laming.jpg)![](https://web.archive.org/web/20260215073035im_/http://spidermedia.ru/assets/images/valiant/images/atv55/ninjak_020_variant_fiffe.jpg)
 
 Сценарий: Мэтт Киндт
 Рисунок: Кари Эванс, Андрес Гуинальдо
@@ -159,9 +122,7 @@ Valiant Entertainment объявило о спонсировании прогр�
 Пока в настоящем его тело пожирает сверхъестественный рак, разум Колина Кинга захвачен пророческим видением будущего, которое содержит ключ к его исцелению. Поиск лекарства приводит героя к встрече с одним из самых извращенных преступных ученых мира — доктором Шёлком! В надежде использовать секреты Deadside для достижения бессмертия, злодей сеет вокруг себя лишь смерть и разрушение, пока вновь собравшаяся команда из Ниндзяка и Вечного Воина не помешает его планам по завоеванию не только будущего, но и все вечности.
 
 #### **Wrath of the Eternal Warrior** #12
-[![Хуан Хосе Рип](https://spidermedia.ru/assets/images/valiant/images/atv55/wrath_012_cover-a_ryp.jpg)](./ "Хуан Хосе Рип")
-[![Джо Беннетт](https://spidermedia.ru/assets/images/valiant/images/atv55/wrath_012_cover-b_bennett.jpg)](./ "Джо Беннетт")
-[![Клэйтон Хенри](https://spidermedia.ru/assets/images/valiant/images/atv55/wrath_012_variant_henry.jpg)](./ "Клэйтон Хенри")
+![](https://web.archive.org/web/20260215073035im_/http://spidermedia.ru/assets/images/valiant/images/atv55/wrath_012_cover-a_ryp.jpg)![](https://web.archive.org/web/20260215073035im_/http://spidermedia.ru/assets/images/valiant/images/atv55/wrath_012_cover-b_bennett.jpg)![](https://web.archive.org/web/20260215073035im_/http://spidermedia.ru/assets/images/valiant/images/atv55/wrath_012_variant_henry.jpg)
 
 Сценарий: Роберт Вендитти
 Рисунок: Роберт Джилл
@@ -173,3 +134,75 @@ Valiant Entertainment объявило о спонсировании прогр�
 **ЧТО МЫ ПРОЧИТАЛИ**
 
 ---
+
+a:3:{i:1;a:7:{s:5:"autor";a:3:{i:1;a:2:{i:0;s:18:"[Сценарий]";i:1;s:25:"Рафер Робертс";}i:3;a:2:{i:0;s:16:"[Рисунок]";i:1;s:21:"Майк Нортон";}i:5;a:2:{i:0;s:10:"[Цвет]";i:1;s:31:"Аллен Пассалакуа";}}s:4:"name";s:40:"A&A:The Adventures of Archer & Armstrong";s:7:"edition";s:2:"#5";s:5:"cover";s:50:"assets/images/valiant/images/atv55/aanda-cover.jpg";s:9:"publisher";s:4:"1249";s:4:"year";s:4:"2016";s:8:"comments";a:1:{i:1;a:4:{s:5:"autor";s:6:"183732";s:4:"text";s:6704:"
+
+Новый сезон — время шокирующих откровений. По правде, весь прошлый год мы (хотя не буду приписывать свои ощущения Диме) я писал совсем не про тот Valiant, к которому прикипел. Все мои серии-фавориты не дожили до нашего рана на рубрике, исключая Доктора Мираж. И вот приход The Future of Valiant понемногу начинает возвращать те самые комиксы (в первую очередь *Harbinger*), что мне так полюбились. Но Возрождение (*подмигивает*) вселенной издательства началось не в июле, а еще в марте, с выходом второго тома приключений Арчера и Армстронга.
+
+Пока Армстронг и Мюриэль занимаются поисками давно пропавшей жены бессмертного, у Арчера в кои-то веки выдается выходной. И он, набравшись смелости, решается пригласить Фэйт на свидание.
+
+В общем, да. Это случилось. Наконец-то у Фэйт и Арчера состоялось первое [настоящее](../all-things-valiant-45-week-18/#item1) свидание. И оно вышло настолько милым и невинным (в хорошем смысле), что пресловутое *awww* вырывается почти после каждой панели. Робертс уже не раз доказывал, что умеет делать смешно, а сейчас показал, что он может сделать и романтично. Мне очень понравился центральный диалог главных героев, который касался многого: ребята поговорили о любимых фильмах, супергеройской карьере и своих причинах быть героем (кстати, обсуждение этого момента очень хорошо прописано). Разговор получился живым и настоящим, где новая тема плавно вытекает из предыдущей, вновь демонстрируя талант сценариста.
+
+А как Рафер Роберс изящно вплел в эту сцену стремление Фэйт снова работать в команде! Признаюсь, я был немного удивлен, увидев девушку на постере (обложке?) *Harbinger Renegades.* Зачем ей присоединяться к группе, с которой она почти утратила связь, когда у нее есть своя «успешная сольная серия»? Но A&A #5 все логично объясняет. Также стало понятно откуда взялось и [это](http://spidermedia.ru/assets/images/valiant/files/atv55/aanda-5-image-a01.jpg).
+
+[[gallery? &id=`1147` &type=`1` &rowHeight=`150` &maxRowHeight=`100%` &captions=`false` &fixedHeight=`false` &lastRow=`justify` &margins=`2`]]
+
+[*This is sexy getting ready song*](https://youtu.be/hkfSDSfxE4o?t=78)
+
+Не забывает комикс и о юморе. Он, конечно, не тех масштабов, что был в In the Bag, но фирменный стиль сценариста присутствует. И пусть разодетая в костюмы акул банда ростовщиков (в оригинале «loan sharks») слишком очевидный каламбур, но это не делает его менее забавным. Не знаю, как покажет себя Робертс на Предвестниках, которые всегда были более депрессивными трагичными, но все равно, их я жду с оптимизмом.
+
+Общее настроение в выпуске заметно сместилось от комедии абсурда в сторону ромкома, соответствующе изменился и графический стиль. Рисунок Майкла Нортона, которого вы могли видеть в недавно завершившемся арке BPRD (Hellboymedia, мы тебя помним), приятный и округлый отлично передает атмосферу чистой подростковой влюбленности. А цвета Пассалакуа только усиливают положительные эмоции от арта Нортона, а не как в свое время Рибер изрядно портил впечатления от графики Лафуэнте. И я начинаю склоняться к мысли, что мне хочется, чтобы именно этот дуэт художника и колориста продолжил работу над серией (или поскорее к ней вернулся после очередного арка).
+
+Филлеры не любит никто, но здесь он выдался таким восхитительным, что не симпатизировать ему просто невозможно. Каждый элемент истории на своем месте, герои живые и приятные, а юмора и милоты (как в рисунке, так и в сценарии) в самый раз. Кто-то скажет **ДОБРО**. Но для меня это...
+
+";s:8:"mjdzText";s:0:"";s:10:"conclusion";s:12:"ЗОЛОТО";}}}i:2;a:7:{s:5:"autor";a:3:{i:1;a:2:{i:0;s:18:"[Сценарий]";i:1;s:23:"Джоди Хаузер";}i:3;a:2:{i:0;s:16:"[Рисунок]";i:1;s:73:"Пере Перез, Маргарит Саваж, Коллин Дорэн";}i:5;a:2:{i:0;s:10:"[Цвет]";i:1;s:25:"Эндрю Долхауз";}}s:4:"name";s:5:"Faith";s:7:"edition";s:2:"#1";s:5:"cover";s:52:"assets/images/valiant/images/atv55/faith-1-cover.jpg";s:9:"publisher";s:4:"1249";s:4:"year";s:4:"2016";s:8:"comments";a:1:{i:1;a:4:{s:5:"autor";s:6:"183731";s:4:"text";s:8030:"
+
+Четно признаться, я тоже писал не всегда о своих любимых сериях. Хотя мне в этом плане повезло. Harbinger плавно перешел в мой обожаемый (до последнего арка) Imperium. А в Ivar, Timewalker’е был тот самый безумный дух Archer’а And Armstrong’а. Я с удовольствием следил и за новичками (Ninjak и Bloodshot Reborn). И все же я очень хочу прочесть новые серии Valiant, уверен? там будут такие комиксы, выход каждого номера которых буду ждать с замиранием сердца. Я в это верю!
+
+Вслед за успехом мини-серии Фейт Герберт получает персональный онгоинг вдогонку к агрессивному промоушену главной героини.
+
+После раскрытия заговора пришельцев от шоубиза Фейт продолжает наслаждаться двойной жизнью супергероя в Лос-Анджелесе. Теперь, когда ее секрет стал известен коллегам по работе, девушку поджидают неловкие разговоры, деловые предложения и свидание с Крисом. Эммм, стоп, свидание? Свидание?! Неужели Фейт рассталась с Арчером?
+
+[[gallery? &id=`1154` &type=`1` &rowHeight=`150` &maxRowHeight=`100%` &captions=`false` &fixedHeight=`false` &lastRow=`justify` &margins=`2`]]
+
+*5 супергероинь, с которыми флиртует Крис. №2 – Фейт Герберт*
+
+Комикс удачно балансирует между открытостью для новых читателей и потаканию поклонникам предшествующей мини-серии. Минималистическая вступительная экспозиция из-под пера Коллин Дорэн, плюс немного критической информации, разбросанной по всему выпуску, но ничего раздражающего. Все это заслуга в основном редакторов. Видно, что Том Бреннан и Уоррен Саймонс потратили множество часов на полировку сценария. Повествование отлажено как швейцарские часы: нет ни одной затянутой сцены, с героями постоянно что-то происходит, а ружья аккуратно развешиваются по стенам. Почему это заслуга редактуры? Да потому? что стиль письма Джоди Хаузер почти не изменился.
+
+Сценарий все также неповоротлив. Страницы страдают от обилия букв, как в диалогах, так и в плашках. Хаузер все еще может выдать совершенно не вяжущийся с рисунком текст (открывающая сцена). Повествование движется медленно, создается ощущение, что в выпуске от начала до конца ничего не происходит. А все сюжетные крючки, заготовленные на будущее, теряются на фоне сложных взаимоотношений героев. Пожалуй, работа с персонажами - это единственное, в чем сценарист выросла.
+
+Межличностные отношения - самая сильная часть как оригинальной мини-серии, так и текущего онгоинга. В героев веришь, а их взаимодействия не кажутся искусственными, хотя иногда логики в их поступках не прослеживается (взломщик, “рубящий сук на котором сидит”). Но самые интригующие конфликты номера происходят именно в сфере общения. Стоит ли выставить свое супергеройское альтер эго напоказ, но помочь коллегам? Пойти ли на встречу своей мечте или прислушаться к совету своего парня? Именно этим миксом супергероических штампов с жизненными ситуациями и берет Хаузер.
+
+При этом комикс – очень качественная работа с Diversity, корпулентность героини не выпячивается, не является сюжетообразующим элементом и совершенно никак не затрагивается. Так и должно быть! Это в первую очередь история о девушке, о ее приключениях, ее межличностных проблемах, а не гендерное заявление.
+
+[[gallery? &id=`1155` &type=`1` &rowHeight=`150` &maxRowHeight=`100%` &captions=`false` &fixedHeight=`false` &lastRow=`justify` &margins=`2`]]
+
+*TL;DR*
+
+Иллюстрации Пере Переза, Маргарит Саваж и Коллин Дорэн соперничают друг с другом в детализации и динамике изобретательностью в композиции страниц. Из всей кагорты только легендарный художник Sandman’а выдает скучный ремесленный рисунок, который до кучи портит Эндрю Долхауз своими цветами. Маргарит Саваж прекрасна как всегда, каждую ее страницу ждешь с замиранием сердца. Но больше всех удивил Пере Перез, который [подогнал свой стиль к “девчачьим” комиксам](http://spidermedia.ru/assets/images/valiant/files/atv55/atv-55-faith-1-example-1.jpg). Сделав рисунок слегка карикатурней и скруглив скулы персонажам, художник остался узнаваем, но приобрел эффект новизны. Хотя больше всего старается Долхауз, для этого комикса он подбирает холодные, выцветшие, но контрастные цвета. Благодаря этому буйству красок страница живет, выгодно оттеняя эмоции персонажей.
+
+Фейт возвращается под бурные овации рекламного отдела издательства.  Но за всем этим промоушном скрывается крепкий комикс об отношениях и похождениях титульной героини. Да, сюжет в середине номера провисает, но ощущения вложенного труда не оставит равнодушным. Очень крепкий комикс.
+
+";s:8:"mjdzText";s:0:"";s:10:"conclusion";s:10:"ДОБРО";}}}i:3;a:7:{s:5:"autor";a:3:{i:1;a:2:{i:0;s:18:"[Сценарий]";i:1;s:19:"Мэтт Киндт";}i:3;a:2:{i:0;s:16:"[Рисунок]";i:1;s:8:"КАФУ";}i:5;a:2:{i:0;s:10:"[Цвет]";i:1;s:25:"Эндрю Долхауз";}}s:4:"name";s:3:"Rai";s:7:"edition";s:3:"#15";s:5:"cover";s:51:"assets/images/valiant/images/atv55/rai-15-cover.jpg";s:9:"publisher";s:4:"1249";s:4:"year";s:4:"2016";s:8:"comments";a:1:{i:1;a:4:{s:5:"autor";s:6:"183731";s:4:"text";s:6212:"
+
+Rai наконец-то отбросил комплексы Запада и признал себя мангой: здесь у нас и [восхищение Атакой на Титанов](http://spidermedia.ru/assets/images/valiant/files/atv55/atv-55-rai-15-example-1.jpg)®, и, [вслед за X-O Manowar’ом](../all-things-valiant-47-week-20/#item1), комикс [представил меху](http://spidermedia.ru/assets/images/valiant/files/atv55/atv-55-rai-15-example-2.jpg), и, [подражая Ninjak’у](../all-things-valiant-38-week-11/#reviews), [познал прелести хентая с тентаклями](http://spidermedia.ru/assets/images/valiant/files/atv55/atv-55-rai-15-example-3.jpg).
+
+Однажды Отец создал настолько жестокого Рая, Абото, что тот обогнал свое предназначение на тысячелетие, за что и был свергнут деспотичным ИИ на Землю. На выжженных пустошах изгнанник вволю убивал людей, выполняя миссии Отца, в надежде заслужить его прощение. И вот, спустя столетия Абото возвращается в Новую Японию, но что он найдет на просторах бывшей родины? Еще больше насилия? Любовь? Или все будет по Фрейду?
+
+[[gallery? &id=`1153` &type=`1` &rowHeight=`150` &maxRowHeight=`100%` &captions=`false` &fixedHeight=`false` &lastRow=`justify` &margins=`2`]]
+
+*Что такое любовь? Электромагнитные импульсы, посланные нежным женским прикосновением. Следи за рукой!*
+
+Манга мангой, но не стоит забывать, что в первую очередь этот арк Rai’я о сложных взаимоотношениях искусственно интеллектуальных отцов и детей из пробирок. Киндт набрасывает портрет Абото широкими мазками: вот его тяжелое детство, вот не менее тяжелая юность, а вот и первая любовь с ужасной трагедией, сдобренной горячей местью. За пару десятков страниц, сценарист доступно излагает всю биографию персонажа, раскрывает его характер, его мечты. Но звездой комикса остается тиранический Отец. Философствуя над смыслом искусства, бездушный ИИ зачинает и убивает детей, находя оправдание любым своим поступкам.
+
+Эмоциональные метания Абото не производили бы такого сильного впечатления, если бы не иллюстрации КАФУ. Если из-за статичности его рисунка экшн-сцены напоминают снимок восковых фигур, то при эффектных позах персонажей и мимики героев стиль художника блистает. Его герои свободно разговаривают, бросая злобные, удивленные и нежные взгляды. Эндрю Долхауз для этой серии выбрал легкие меловые цвета, бледность которых удачно сочетается с арком-флэшбеком. Но, несмотря на довольно приятные иллюстрации, страница не может похвастаться динамичной раскадровкой. КАФУ налегает на широкоформатные панели, изредка вставляя вертикальные прямоугольные кадры, чтобы читатель совсем на заскучал от однообразия фреймов.
+
+<iframe allowfullscreen="" frameborder="0" height="240" src="http://vk.com/video_ext.php?oid=244708585&amp;id=456239150&amp;hash=9a52ee76e9ef62a2&amp;sd" style="display: block; margin-left: auto; margin-right: auto;" width="426"></iframe>
+
+*Абото [цитирует](http://spidermedia.ru/assets/images/valiant/files/atv55/atv-55-rai-15-example-4.jpg) классику этого месяца - [Re: Zero kara Hajimeru Isekai Seikatsu](http://www.world-art.ru/animation/animation.php?id=8388) s01e15*
+
+Там где рисунку не хватает динамики, сюжет с лихвой компенсирует этот недостаток своей бешенной ритмикой. Ни одна сцена не длится дольше чем положено: экшн сменятся ненавязчивой экспозицией, которая в свою очередь уступает место романтическим эпизодам, после чего повествования уходит на новый круг.
+
+Глаз читателя летит по комиксу, не спотыкаясь ни о горы текстов, ни о замысловатый рисунок. Из-за малого количества кадров на страницу, номер проглатывается за пару минут. Но благодаря своему четкому ритму и подробной биографии Абото не кажется, что выпуск пустой, наоборот, после прочтения остается приятное ощущение удовлетворенности. Редкое качество.
+
+";s:8:"mjdzText";s:0:"";s:10:"conclusion";s:10:"ДОБРО";}}}}

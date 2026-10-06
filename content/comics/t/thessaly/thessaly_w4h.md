@@ -4,6 +4,9 @@
   "url": "/comics/t/thessaly/thessaly_w4h/",
   "original_url": "http://www.spidermedia.ru/comics/t/thessaly/thessaly_w4h.html",
   "archived": "https://web.archive.org/web/20050307080608/http://www.spidermedia.ru:80/comics/t/thessaly/thessaly_w4h.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "cp1251 (guessed)"
 }

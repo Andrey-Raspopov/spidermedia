@@ -1,13 +1,22 @@
 {
   "title": "Spider-Man: R.I.P.",
-  "date": "2010-11-10T22:00:00+03:00",
+  "date": "2010-11-10T22:00:17+03:00",
   "url": "/news/spider-man-rip/",
+  "aliases": [
+    "/node/3058/"
+  ],
   "original_url": "https://spidermedia.ru/news/spider-man-rip",
   "archived": "https://web.archive.org/web/20240720054755/https://spidermedia.ru/news/spider-man-rip",
   "tags": [
     "markos-martin",
     "marvel",
     "spider-man"
+  ],
+  "cover": "https://web.archive.org/web/20240720054755im_/http://spidermedia.ru/assets/images/import_image/3058.jpg",
+  "modx_id": 3058,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

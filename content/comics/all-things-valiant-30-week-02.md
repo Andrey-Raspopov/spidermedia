@@ -5,17 +5,22 @@
   "original_url": "http://spidermedia.ru/comics/all-things-valiant-30-week-02",
   "archived": "https://web.archive.org/web/20260209123608/http://spidermedia.ru/comics/all-things-valiant-30-week-02",
   "tags": [
-    "valiant-entertainment"
+    "valiant-entertainment",
+    "all-things-valiant"
+  ],
+  "cover": "https://web.archive.org/web/20160611221447im_/http://spidermedia.ru/assets/images/valiant/images/atv30/atv-30.jpg",
+  "modx_id": 100806,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](https://web.archive.org/web/20160611201019im_/http://spidermedia.ru/assets/cache/images/valiant/images/atv30/622x-atv-30.2e9.jpg)](https://web.archive.org/web/20160611221447im_/http://spidermedia.ru/assets/images/valiant/images/atv30/atv-30.jpg)
-
 Здравствуйте, наши любимые читатели! За то время, пока мы не виделись, комиксы Valiant умудрились занять множество первых мест в различных выборах года. Тут вам и [лучший хоррор комикс](http://comicsalliance.com/comics-alliance-best-of-2015-best-horror-comic-of-2015/) и [лучшие](http://comicsalliance.com/comics-alliance-best-cover-of-2015/) [обложки](http://www.comicbookresources.com/article/cbrs-50-best-comic-covers-of-2015) года. Комиксы издательства [попадали](http://www.thepulpmedia.com/comic-book-features/2015/12/30/the-top-ten-comic-book-series-of-2015) в [различные](http://www.blastr.com/2015-12-30/top-20-ongoing-sci-fi-fantasy-and-horror-comics-2015) [списки](http://pastramination.com/best-of-2015-comic-books/) [лучших](http://www.newsarama.com/27372-best-of-best-shots-2015.html) [комиксов](http://all-comic.com/2015/best-of-2015-winners/) [2015](http://blog.midtowncomics.com/blog/10476). А также [многие](http://www.hollywoodreporter.com/heat-vision/6-comic-books-look-2016-851424) ждут [многого](http://www.vox.com/2015/12/29/10681770/comic-books-2016) от Faith в 2016. А теперь, вспомнив прошлое и заглянув в будущее, вернемся к нашим мэноварам.
 
-**[Новости](./#news) **• [Рецензии](./#reviews)****
+**[Новости](#news) **• [Рецензии](#reviews)****
 
 В этом выпуске прощаемся с праздниками и встречаем слабый старт 2016 года. KLANG!
 
@@ -28,15 +33,57 @@
 #### Что ждет нас в 2016
 Valiant выложили тизеры 2016 года.
 
-[![](https://web.archive.org/web/20160612021724im_/http://spidermedia.ru/assets/cache/preview/100806/valiant/images/atv30/121x199-atv-news-1.78e.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv30/atv-news-1.jpg)[![](https://web.archive.org/web/20160611210500im_/http://spidermedia.ru/assets/cache/preview/100806/valiant/images/atv30/121x199-atv-news-2.78e.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv30/atv-news-2.jpg)[![](https://web.archive.org/web/20160611204403im_/http://spidermedia.ru/assets/cache/preview/100806/valiant/images/atv30/121x199-atv-news-3.78e.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv30/atv-news-3.jpg)[![](https://web.archive.org/web/20160611214915im_/http://spidermedia.ru/assets/cache/preview/100806/valiant/images/atv30/121x199-atv-news-5.78e.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv30/atv-news-5.jpg)[![](https://web.archive.org/web/20160611201237im_/http://spidermedia.ru/assets/cache/preview/100806/valiant/images/atv30/121x199-atv-news-4.78e.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv30/atv-news-4.jpg)
+![](https://web.archive.org/web/20260209123608im_/http://spidermedia.ru/assets/images/valiant/images/atv30/atv-news-1.jpg)![](https://web.archive.org/web/20260209123608im_/http://spidermedia.ru/assets/images/valiant/images/atv30/atv-news-2.jpg)![](https://web.archive.org/web/20260209123608im_/http://spidermedia.ru/assets/images/valiant/images/atv30/atv-news-3.jpg)![](https://web.archive.org/web/20260209123608im_/http://spidermedia.ru/assets/images/valiant/images/atv30/atv-news-5.jpg)![](https://web.archive.org/web/20260209123608im_/http://spidermedia.ru/assets/images/valiant/images/atv30/atv-news-4.jpg)
 
 #### Valiant закопирайтерили Klang
 Bleeding Cool [сообщает](http://www.bleedingcool.com/2016/01/03/valiant-trademarks-the-quantum-and-woody-sound-effect/), что Valiant Entertainment зарегистрировала фирменный звук Квантума и Вуди — Klang, в качестве торговой марки «для комиксов и графических романов». Означает ли это, что в ближайшем времени нас ждет анонс новой серии про горе-братьев и козла? Поживем — увидим.
 
-[![](https://web.archive.org/web/20160611203736im_/http://spidermedia.ru/assets/cache/preview/100806/valiant/images/atv30/309x475-atv-news-6.cd6.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv30/atv-news-6.jpg)
+![](https://web.archive.org/web/20260209123608im_/http://spidermedia.ru/assets/images/valiant/images/atv30/atv-news-6.jpg)
 
 ---
 
 **ЧТО МЫ ПРОЧИТАЛИ**
 
 ---
+
+a:1:{i:1;a:7:{s:5:"autor";a:3:{i:1;a:2:{i:0;s:16:"Сценарий";i:1;s:29:"Роберт Вендитти";}i:3;a:2:{i:0;s:14:"Рисунок";i:1;s:23:"Роберт Джилл";}i:5;a:2:{i:0;s:8:"Цвет";i:1;s:27:"Улисес Арреола";}}s:4:"name";s:11:"X-O Manowar";s:7:"edition";s:3:"#43";s:5:"cover";s:60:"assets/images/valiant/images/atv30/x-o-manowar-043-cover.jpg";s:9:"publisher";s:4:"1249";s:4:"year";s:4:"2016";s:8:"comments";a:2:{i:1;a:4:{s:5:"autor";s:6:"183732";s:4:"text";s:6059:"
+
+Как все-таки важна покраска при восприятии работы художника! Именно эта мысль первой пришла мне в голову во время чтения X-O Manowar #43. Признаюсь честно, никогда не испытывал особой любви к рисунку Роберта Джилла, но в этом выпуске Улисесу Арреоле удалось меня обмануть: я почти поверил, что броню Арика рисовал Рафа Сандовал. Да и Ниндзяк выглядит отлично, как у Клэя Манна.
+
+Но в остальном легко угадывается Джилл. И если к «одинаковым» лицам и излишне пушистым ресницам еще можно привыкнуть, то статичный экшн в серии-боевике вызывает, скажем так, диссонанс. Боевые сцены, конечно, эффектны, но в них совсем не чувствуется динамики. Так же против зрелищности схваток играет раскадровка. Вот [тут](http://spidermedia.ru/assets/images/valiant/files/atv30/x-o-manowar-043-image-a01.jpg) явно напрашивается сплэш: на одной странице поверженные враги (как и изображено), а на другой — Ниндзяк в крутой позе метает сюрикены.
+
+Еще что-то непонятное творится с [пропорциями Арика](http://spidermedia.ru/assets/images/valiant/files/atv30/x-o-manowar-043-image-a02.jpg). На второй панели он изображен нормально, а на следующей — его тело непропорционально больше головы и конечностей, что особенно бросается в глаза на фоне фигур полковника Кэпшоу и агента Элкотта. Но довольно о рисунке, переходим к содержанию номера.
+
+![](https://web.archive.org/web/20260209123608im_/http://spidermedia.ru/assets/images/valiant/images/atv30/x-o-manowar-043-image-01.jpg)
+
+[*This**is...* *not* *so**gay*](http://spidermedia.ru/assets/images/valiant/files/atv30/x-o-manowar-043-image-a03.jpg)
+
+Теперь, когда стало известно о том, что часть Vine готова начать войну против человечества, X-O Manowar, совместно с организацией G.A.T.E., разрабатывает план противодействия врагу.
+
+В каждом комиксе настает время, когда сценарист уже больше не способен расширять мифологию серии, и в новых сюжетах он использует прошлые наработки. Видимо, мы приближаемся к подобному моменту в X-O Manowar: «Exodus» вернул нам Трилла, а «The Kill List» – Armorines и доброго Vine Planting – Александра. Но самое главное, Арик вновь будет работать вместе с Ниндзяком.
+
+А это обещает быть очень интересным, ведь [события «Книги Смерти»](http://spidermedia.ru/assets/images/valiant/files/atv30/x-o-manowar-043-image-a04.jpg) не забыты (как бы не хотелось выкинуть их из памяти), и между Ариком и Колином больше нет того доверия. Наладить отношения не помогает и то, как Вендитти пишет Ниндзяка. У Киндта он тоже язвил направо и налево, но так откровенно по-м*дацки персонаж себя не вел.
+
+Что же до главной темы последних арков — противостояние людей и Vine — в этом выпуске она получает какое-никакое, но развитие. Конфликт начинает перетекать в активную фазу, но пока напоминает лишь партизанскую войну. И, по-видимому, особо эпичных баталий нам не покажут до 50-ых номеров серии.
+
+По X-O Manowar #43 отлично видно, что Роберт Вендитти привык писать долгие сюжеты для крупных издательств (сколько длился последний арк Флэша? Семь номеров плюс ежегодник?). История берет хороший, но медленный старт, что само по себе не плохо. Плохо то, что все здесь выполнено очень стандартно, и уже сейчас можно примерно понять, в каком направлении будет двигаться сюжет. Да «The Kill List» по анонсам выглядит многообещающе, но и прошлые арки наводили на те же мысли.
+
+";s:8:"mjdzText";s:0:"";s:10:"conclusion";s:8:"ЖИЖА";}i:2;a:4:{s:5:"autor";s:6:"183731";s:4:"text";s:6454:"
+
+Valiant очень гордится, что их супергероика реалистична, что это «мир за нашим окном, только слегка фантастичней». И, если в отношении многих сериий издательства это утверждение справедливо, то все, что пишет Роберт Вендитти, – это частое исключение из этого правила. И дело тут даже не в короле вестготов, вырвавшемся из рабства пришельцев при помощи космоброни и очутившимся в нашем времени. Основная проблема комиксов этого сценариста во внутренней логики, которая далеко не реалистична.
+
+В частности, завязка сюжета 43 номера плавно вытекает из событий прошлого арка. На Земле находятся инопланетные лазутчики, часть из которых жаждет подчинить человечество. Проблема только в том, что эти пришельцы неотличимы от людей и занимают высокие посты в различных сферах. Это самые влиятельные политики, бизнесмены и ученые. Каким же образом эту деликатную ситуацию смогут разрешить британские и американские военные? Правильно, устроят [геноцид](http://spidermedia.ru/assets/images/valiant/files/atv30/x-o-manowar-43-example-1.jpg) [чужих](http://spidermedia.ru/assets/images/valiant/files/atv30/x-o-manowar-43-example-2.jpg)! Наши [суперГЕРОИ](http://atopthefourthwall.com/holy-terror/), дамы и господа!
+
+![](https://web.archive.org/web/20260209123608im_/http://spidermedia.ru/assets/images/valiant/images/atv30/x-o-manowar-43-image-1.jpg)
+
+Желание геноцида вдвойне лицемерно, когда глава МИ-6 подписывает публичную казнь ученого-пришельца, ссылаясь на то, что последний изучал труды [Йозефа Менгеле](https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%BD%D0%B3%D0%B5%D0%BB%D0%B5,_%D0%99%D0%BE%D0%B7%D0%B5%D1%84). И да, Арик и Ниндзяк вместо того, чтобы тихо устранить лазутчика, устанавливают бомбу в его сотовый телефон и, дождавшись когда он предстанет перед аудиторией и камерами, взрывают ее, это их «крутое» [заявление](http://spidermedia.ru/assets/images/valiant/files/atv30/x-o-manowar-43-example-3.jpg). И это дело рук короля вестготов, живущего по древнему кодексу чести, и самого лучшего шпиона на свете? Out of character!
+
+Стоит также поставить под вопрос и гениальность самого ученого-пришельца. Конечно, лучшее время презентовать миру свое революционное исследование в области генетической медицины спустя «несколько дней» после прибытия целого флота НЛО. Прибытия, которое освещали в [новостях](http://spidermedia.ru/assets/images/valiant/files/atv30/x-o-manowar-43-example-4.jpg) и которое теперь должны обсасывать все СМИ, по поводу которого должны спорить политики, а ученые высказывать свое авторитетное мнение. А, учитывая, что раньше пришельцы уже вторгались в этот мир и убили миллионы людей, сколько массовых истерий должно было спровоцировать это прибытие... Безусловно, это точно лучшее время для презентации научных исследований!
+
+![](https://web.archive.org/web/20260209123608im_/http://spidermedia.ru/assets/images/valiant/images/atv30/x-o-manowar-43-image-2.jpg)
+
+И все вышеописанное сюжетное безобразие является, по сути, только завязкой, только обещанием закулисной войны Х-О Manovar'а и Ниндзяка с силами Командора Трилла. А единственная настоящая движуха в сюжете происходит в королевстве Арика. Его подданные не доверяют своим бывшим рабовладельцам – Vine, всех их охраняют подозрительные Armorines, которых могли и не проверять, являются ли они пришельцами или нет. А меж тем расцветает трогательная дружба между юным вестготом и молодым инопланетянином. [Дружба пацанов](http://spidermedia.ru/assets/images/valiant/files/atv30/x-o-manowar-43-example-5.jpg) явно кончится какой-нибудь трагедией или они покажут возможность сосуществования обозлившимся друг на друга взрослым, интересного третьего не дано.
+
+В отличие от иллюстраций, которые выполнены вполне профессионально, сценарий раздражает своей поверхностностью даже для экшен-комикса, лицемерным отношением к геноциду и терроризму и вновь целым номером, убитым на введение в историю и [рекапы](http://spidermedia.ru/assets/images/valiant/files/atv30/x-o-manowar-43-example-6.jpg). Одно слово,
+
+";s:8:"mjdzText";s:0:"";s:10:"conclusion";s:10:"МУСОР";}}}}

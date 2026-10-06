@@ -1,6 +1,6 @@
 {
   "title": "SDCC '10: G.I. Joe",
-  "date": "2010-07-25T00:00:00+03:00",
+  "date": "2010-07-24T23:00:40+03:00",
   "url": "/news/sdcc-10-gi-joe/",
   "original_url": "http://spidermedia.ru/news/sdcc-10-gi-joe",
   "archived": "https://web.archive.org/web/20260125120034/http://spidermedia.ru/news/sdcc-10-gi-joe",
@@ -10,6 +10,12 @@
     "devid-lafem",
     "idw-publishing",
     "gi-joe"
+  ],
+  "cover": "https://web.archive.org/web/20260125120034im_/http://spidermedia.ru/assets/images/import_image/2786.jpg",
+  "modx_id": 2786,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

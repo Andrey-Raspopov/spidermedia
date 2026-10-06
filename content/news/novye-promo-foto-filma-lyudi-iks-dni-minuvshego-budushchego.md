@@ -1,6 +1,6 @@
 {
   "title": "Новые промо-фото фильма \"Люди Икс: Дни минувшего будущего\"",
-  "date": "2014-02-19T08:34:00+03:00",
+  "date": "2014-02-19T07:34:43+03:00",
   "url": "/news/novye-promo-foto-filma-lyudi-iks-dni-minuvshego-budushchego/",
   "original_url": "http://spidermedia.ru/news/novye-promo-foto-filma-lyudi-iks-dni-minuvshego-budushchego",
   "archived": "https://web.archive.org/web/20260208205143/http://spidermedia.ru/news/novye-promo-foto-filma-lyudi-iks-dni-minuvshego-budushchego",
@@ -8,7 +8,15 @@
     "marvel",
     "lyudi-iks-pervyj-klass",
     "x-men",
-    "days-of-future-past"
+    "days-of-future-past",
+    "lyudi-iks",
+    "dni-minuvshego-budushhego"
+  ],
+  "cover": "https://web.archive.org/web/20150424061713im_/http://spidermedia.ru/assets/images/import_image/7649.jpg",
+  "modx_id": 7649,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "Новые обложки от DC",
-  "date": "2009-06-16T01:37:00+03:00",
+  "date": "2009-06-16T00:37:21+03:00",
   "url": "/news/novye-oblozhki-ot-dc/",
+  "aliases": [
+    "/node/1421/"
+  ],
   "original_url": "http://spidermedia.ru/news/novye-oblozhki-ot-dc",
   "archived": "https://web.archive.org/web/20260116224638/http://spidermedia.ru/news/novye-oblozhki-ot-dc",
   "tags": [
@@ -17,6 +20,12 @@
     "tony-daniel",
     "dustin-nguyen",
     "frensis-manapul"
+  ],
+  "cover": "https://web.archive.org/web/20260116224638im_/http://spidermedia.ru/assets/images/import_image/1421.jpg",
+  "modx_id": 1421,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

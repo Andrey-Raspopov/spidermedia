@@ -1,6 +1,6 @@
 {
   "title": "4 сериала Марвел выйдут на Netflix в 2015 году",
-  "date": "2013-11-07T20:10:00+03:00",
+  "date": "2013-11-07T19:10:11+03:00",
   "url": "/news/4-seriala-marvel-vyydut-na-netflix-v-2015-godu/",
   "original_url": "http://spidermedia.ru/news/4-seriala-marvel-vyydut-na-netflix-v-2015-godu",
   "archived": "https://web.archive.org/web/20260115064750/http://spidermedia.ru/news/4-seriala-marvel-vyydut-na-netflix-v-2015-godu",
@@ -10,6 +10,12 @@
     "jessica-jones-alias",
     "luke-cage",
     "daredevil"
+  ],
+  "cover": "https://web.archive.org/web/20150326221237im_/http://spidermedia.ru/assets/images/import_image/7533.jpg",
+  "modx_id": 7533,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

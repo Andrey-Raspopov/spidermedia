@@ -1,7 +1,10 @@
 {
   "title": "Days of Second Coming, Part 4",
-  "date": "2010-06-16T15:10:00+03:00",
+  "date": "2010-06-16T14:10:24+03:00",
   "url": "/news/days-second-coming-part-4/",
+  "aliases": [
+    "/node/2664/"
+  ],
   "original_url": "http://spidermedia.ru/news/days-second-coming-part-4",
   "archived": "https://web.archive.org/web/20120608231557/http://spidermedia.ru/news/days-second-coming-part-4",
   "tags": [
@@ -12,11 +15,17 @@
     "lyudi-iks",
     "marvel"
   ],
+  "cover": "https://web.archive.org/web/20120608231557im_/http://spidermedia.ru/assets/images/import_image/2664.jpg",
+  "modx_id": 2664,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }
 
-Ещё [в прошлой новости, посвященной второму акту **Second Coming**](../../node/2602/) мы обещали представить информацию касаемо кроссовера. Впрочем, информации оказалось крайне мало, так что мы решили не поднимать старую новость в 5-ый раз, а написать новую, но не только...
+Ещё [в прошлой новости, посвященной второму акту **Second Coming**](../days-second-coming-part-3/) мы обещали представить информацию касаемо кроссовера. Впрочем, информации оказалось крайне мало, так что мы решили не поднимать старую новость в 5-ый раз, а написать новую, но не только...
 
 ![Photobucket](https://web.archive.org/web/20120608231557im_/http://img.photobucket.com/albums/v497/spidermedia/sp888_News/cable1.jpg)
 

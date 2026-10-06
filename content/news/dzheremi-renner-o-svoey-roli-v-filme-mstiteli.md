@@ -1,6 +1,6 @@
 {
   "title": "Джереми Реннер о своей роли в фильме \"Мстители\"",
-  "date": "2010-09-15T22:39:00+03:00",
+  "date": "2010-09-15T21:39:49+03:00",
   "url": "/news/dzheremi-renner-o-svoey-roli-v-filme-mstiteli/",
   "original_url": "https://spidermedia.ru/news/dzheremi-renner-o-svoey-roli-v-filme-mstiteli",
   "archived": "https://web.archive.org/web/20241106090402/https://spidermedia.ru/news/dzheremi-renner-o-svoey-roli-v-filme-mstiteli",
@@ -9,6 +9,11 @@
     "jeremy-renner",
     "hawkeye",
     "avengers"
+  ],
+  "modx_id": 2916,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "SpiderMedia Fan-Art Challenge #3.1",
-  "date": "2011-09-26T10:17:00+03:00",
+  "date": "2011-09-26T09:17:31+03:00",
   "url": "/news/spidermedia-fan-art-challenge-31/",
   "original_url": "http://spidermedia.ru/news/spidermedia-fan-art-challenge-31",
   "archived": "https://web.archive.org/web/20250906081851/http://spidermedia.ru/news/spidermedia-fan-art-challenge-31",
@@ -8,6 +8,12 @@
     "fanart",
     "miles-morales",
     "challenge"
+  ],
+  "cover": "https://web.archive.org/web/20250906081851im_/http://spidermedia.ru/assets/images/import_image/6621.png",
+  "modx_id": 6621,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

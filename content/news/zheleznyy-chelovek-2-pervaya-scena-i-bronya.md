@@ -1,7 +1,10 @@
 {
   "title": "\"Железный Человек 2\" - Первая сцена и броня",
-  "date": "2009-04-26T23:12:00+03:00",
+  "date": "2009-04-26T22:12:44+03:00",
   "url": "/news/zheleznyy-chelovek-2-pervaya-scena-i-bronya/",
+  "aliases": [
+    "/node/1062/"
+  ],
   "original_url": "http://spidermedia.ru/news/zheleznyy-chelovek-2-pervaya-scena-i-bronya",
   "archived": "https://web.archive.org/web/20120608232826/http://spidermedia.ru/news/zheleznyy-chelovek-2-pervaya-scena-i-bronya",
   "tags": [
@@ -14,11 +17,16 @@
     "marvel",
     "robert-dauni-ml"
   ],
+  "modx_id": 1062,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }
 
-]]>[![](https://web.archive.org/web/20120608232826im_/http://img17.imageshack.us/img17/4556/554headerbanner5225003.jpg)](http://img17.imageshack.us/img17/4556/554headerbanner5225003.jpg)]]>[Вы уже знаете](../../node/881/), что съёмки фильма **Джона Фавро** *(Jon Favreau)* **"Железный Человек 2"** *("Iron Man 2"*) идут полным ходом.
+]]>[![](https://web.archive.org/web/20120608232826im_/http://img17.imageshack.us/img17/4556/554headerbanner5225003.jpg)](http://img17.imageshack.us/img17/4556/554headerbanner5225003.jpg)]]>[Вы уже знаете](../zheleznoe-vozvrashchenie/), что съёмки фильма **Джона Фавро** *(Jon Favreau)* **"Железный Человек 2"** *("Iron Man 2"*) идут полным ходом.
 
 Недавно мы узнали, что актёрский состав фильма пополнился. Актёр **Кларк "Агент Фил Колсон****" Грегг** *(Clark Gregg)* возвращается в сиквел, а вслед за ним идёт актриса **Кейт Мара** *(Kate Mara)*, чья роль в сиквеле пока держится в тайне. На днях, Роберт "Тони Старк" Дауни Мл. (Robert Downey Jr.) рассказал о том, что всё-таки будет происходить в первой сцене сиквела: "Первая сцена фильма начинается на том месте, где закончился фильм "Железный Человек" ("Iron Man"). Проходит заседание американского правительства, на котором Тони Старку объясняют, что вся его технология - это их собственность. Врагом Старка в этой сцене будет Гарри "сенатор Стерн" Шендлинг (Garry Shandling)." По словам Дауни, Тони устроит нечто неприличное на заседании, но что, он не сказал. Тем временем, режиссёр фильма Джон Фавро "натвиттерил" и поделился интересными подробностями:
 

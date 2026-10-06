@@ -2,12 +2,21 @@
   "title": "Sandman - попытка рецензии",
   "date": "2009-12-22T17:46:00+03:00",
   "url": "/blog/red-hulk/sandman-popytka-recenzii/",
+  "aliases": [
+    "/node/2188/"
+  ],
   "original_url": "http://spidermedia.ru/blog/red-hulk/sandman-popytka-recenzii",
   "archived": "https://web.archive.org/web/20260211084303/http://spidermedia.ru/blog/red-hulk/sandman-popytka-recenzii",
   "tags": [
     "neil-gaiman",
     "vertigo",
     "neil-gaiman-sandman"
+  ],
+  "cover": "https://web.archive.org/web/20260211084303im_/http://spidermedia.ru/assets/images/import_image/2188.jpg",
+  "modx_id": 2188,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

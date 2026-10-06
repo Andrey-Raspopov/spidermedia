@@ -1,7 +1,10 @@
 {
   "title": "Смертельная ловушка!",
-  "date": "2009-03-26T03:12:00+03:00",
+  "date": "2009-03-26T03:12:23+03:00",
   "url": "/news/smertelnaya-lovushka/",
+  "aliases": [
+    "/node/769/"
+  ],
   "original_url": "http://spidermedia.ru/news/smertelnaya-lovushka",
   "archived": "https://web.archive.org/web/20250618115606/http://spidermedia.ru/news/smertelnaya-lovushka",
   "tags": [
@@ -12,6 +15,12 @@
     "titans",
     "vigilante",
     "marv-vulfman"
+  ],
+  "cover": "https://web.archive.org/web/20250618115606im_/http://spidermedia.ru/assets/images/import_image/769.jpg",
+  "modx_id": 769,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

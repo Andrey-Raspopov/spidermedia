@@ -1,6 +1,6 @@
 {
   "title": "Рецензия на мультфильм \"Superman Unbound\"",
-  "date": "2013-05-17T10:57:00+03:00",
+  "date": "2013-05-17T09:57:44+03:00",
   "url": "/blog/igrok/recenziya-na-multfilm-superman-unbound/",
   "original_url": "http://spidermedia.ru/blog/igrok/recenziya-na-multfilm-superman-unbound",
   "archived": "https://web.archive.org/web/20260116220913/http://spidermedia.ru/blog/igrok/recenziya-na-multfilm-superman-unbound",
@@ -10,6 +10,12 @@
     "brejniak",
     "animaciya",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150428115411im_/http://spidermedia.ru/assets/images/import_image/7244.jpg",
+  "modx_id": 7244,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Marvel City Divas",
-  "date": "2009-04-11T01:25:00+03:00",
+  "date": "2009-04-11T00:25:13+03:00",
   "url": "/blog/gess/marvel-city-divas/",
   "original_url": "http://spidermedia.ru/blog/gess/marvel-city-divas",
   "archived": "https://web.archive.org/web/20190918093728/http://spidermedia.ru/blog/gess/marvel-city-divas",
@@ -9,6 +9,12 @@
     "palevo",
     "marvel",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20190918093728im_/http://spidermedia.ru/assets/images/import_image/908.jpg",
+  "modx_id": 908,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

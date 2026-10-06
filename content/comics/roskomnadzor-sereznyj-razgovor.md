@@ -9,11 +9,15 @@
     "roskomnadzor",
     "russian-comics"
   ],
+  "cover": "https://web.archive.org/web/20260125124600im_/http://spidermedia.ru/assets/images/roskomnadzor/10042015/arrow.jpg",
+  "modx_id": 100154,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
-
-[![](http://spidermedia.ru/assets/cache/images/roskomnadzor/10042015/622x-arrow.2e9.jpg)](http://spidermedia.ru/assets/images/roskomnadzor/10042015/arrow.jpg)
 
 У меня к вам серьезный разговор.
 
@@ -21,19 +25,19 @@
 
 Давайте теперь смотреть красивые картинки. **Издательство XL Media** поделилось превью комикса **«Жуй»** (гусары, молчать!). Оформлением книги занимался уже известный вам [Кирилл Иванов](../../blog/hella/eksklyuziv-intervyu-s-oformitelem-komiksov-kirillom-ivanovym-0/), переводом — Иван Чернявский, редактурой — Анна Логунова. А баги отлавливал корректор Александр Костенко. И все это под чутким руководством Дмитрия Богданова. Практически дримтим ;) «Жуй» поехал печататься, а значит, где-то через 3 недели мы с ним увидимся.
 
-[![](http://spidermedia.ru/assets/cache/preview/100154/roskomnadzor/10042015/165x250-bqyu8nwg0-q.954.jpg)](http://spidermedia.ru/assets/images/roskomnadzor/10042015/bqyu8nwg0-q.jpg)[![](http://spidermedia.ru/assets/cache/preview/100154/roskomnadzor/10042015/165x250-arpefxtghru.954.jpg)](http://spidermedia.ru/assets/images/roskomnadzor/10042015/arpefxtghru.jpg)[![](http://spidermedia.ru/assets/cache/preview/100154/roskomnadzor/10042015/165x250-5-lzql5s-hu.954.jpg)](http://spidermedia.ru/assets/images/roskomnadzor/10042015/5-lzql5s-hu.jpg)
+![](https://web.archive.org/web/20260125124600im_/http://spidermedia.ru/assets/images/roskomnadzor/10042015/bqyu8nwg0-q.jpg)![](https://web.archive.org/web/20260125124600im_/http://spidermedia.ru/assets/images/roskomnadzor/10042015/arpefxtghru.jpg)![](https://web.archive.org/web/20260125124600im_/http://spidermedia.ru/assets/images/roskomnadzor/10042015/5-lzql5s-hu.jpg)
 
-[![](http://spidermedia.ru/assets/cache/preview/100154/roskomnadzor/10042015/165x250-bnfqautih2m.954.jpg)](http://spidermedia.ru/assets/images/roskomnadzor/10042015/bnfqautih2m.jpg)[![](http://spidermedia.ru/assets/cache/preview/100154/roskomnadzor/10042015/165x250-ovs4-rymflq.954.jpg)](http://spidermedia.ru/assets/images/roskomnadzor/10042015/ovs4-rymflq.jpg)[![](http://spidermedia.ru/assets/cache/preview/100154/roskomnadzor/10042015/165x250-ypyycwldi_q.954.jpg)](http://spidermedia.ru/assets/images/roskomnadzor/10042015/ypyycwldi_q.jpg)
+![](https://web.archive.org/web/20260125124600im_/http://spidermedia.ru/assets/images/roskomnadzor/10042015/bnfqautih2m.jpg)![](https://web.archive.org/web/20260125124600im_/http://spidermedia.ru/assets/images/roskomnadzor/10042015/ovs4-rymflq.jpg)![](https://web.archive.org/web/20260125124600im_/http://spidermedia.ru/assets/images/roskomnadzor/10042015/ypyycwldi_q.jpg)
 
-[![](http://spidermedia.ru/assets/cache/preview/100154/roskomnadzor/10042015/165x250-epmezmg0o8q.954.jpg)](http://spidermedia.ru/assets/images/roskomnadzor/10042015/epmezmg0o8q.jpg)[![](http://spidermedia.ru/assets/cache/preview/100154/roskomnadzor/10042015/165x250-2aym733ihfq.954.jpg)](http://spidermedia.ru/assets/images/roskomnadzor/10042015/2aym733ihfq.jpg)[![](http://spidermedia.ru/assets/cache/preview/100154/roskomnadzor/10042015/165x250-b61nnc84-0y.954.jpg)](http://spidermedia.ru/assets/images/roskomnadzor/10042015/b61nnc84-0y.jpg)
+![](https://web.archive.org/web/20260125124600im_/http://spidermedia.ru/assets/images/roskomnadzor/10042015/epmezmg0o8q.jpg)![](https://web.archive.org/web/20260125124600im_/http://spidermedia.ru/assets/images/roskomnadzor/10042015/2aym733ihfq.jpg)![](https://web.archive.org/web/20260125124600im_/http://spidermedia.ru/assets/images/roskomnadzor/10042015/b61nnc84-0y.jpg)
 
 **«Изотека»** анонсировала выход графического романа финского автора Тимо Мякеля **«Эмиль и Софи»**. Старый город возрождается, словно сходит с картины. Метко схваченные и тщательно срисованные со старых фотографий здания начала века создают волшебный фон, на котором развивается любовная история Эмиля и Софи. Это своего рода признание художника в любви своему городу На фестивале «КомМиссия», о котором мы подробнее поговорим ниже, книгу можно будет не только купить, но и подписать у автора. Встречи с ним пройдут 9-11 мая.
 
-[![](http://spidermedia.ru/assets/cache/preview/100154/roskomnadzor/10042015/336x400-a1vdblrl3cg.8ac.jpg)](http://spidermedia.ru/assets/images/roskomnadzor/10042015/a1vdblrl3cg.jpg)
+![](https://web.archive.org/web/20260125124600im_/http://spidermedia.ru/assets/images/roskomnadzor/10042015/a1vdblrl3cg.jpg)
 
 **Издательство АСТ** тем временем выпустило второй том графической адаптации **«Игры престолов»** (уже в продаже) и со дня на день обещает еще раз порадовать поклонников Стивена Кинга. **«Дорожную ярость»** король ужасов написал совместно с сыном Джо Хиллом. «Скорость» написана как дань уважения классическому рассказу Ричарда Матесона «Дуэль», в книге «Дорожная ярость» обе эти истории переложены в формат комикса сценаристом Крисом Райэллом и художниками Нельсоном Дэниелом и Рафой Гарресом.
 
-[![](http://spidermedia.ru/assets/cache/preview/100154/roskomnadzor/10042015/228x350-ndjkhqpjxxu.b7e.jpg)](http://spidermedia.ru/assets/images/roskomnadzor/10042015/ndjkhqpjxxu.jpg) [![](http://spidermedia.ru/assets/cache/preview/100154/roskomnadzor/10042015/221x350-u9nk3gozfdi.c6d.jpg)](http://spidermedia.ru/assets/images/roskomnadzor/10042015/u9nk3gozfdi.jpg)
+![](https://web.archive.org/web/20260125124600im_/http://spidermedia.ru/assets/images/roskomnadzor/10042015/ndjkhqpjxxu.jpg) ![](https://web.archive.org/web/20260125124600im_/http://spidermedia.ru/assets/images/roskomnadzor/10042015/u9nk3gozfdi.jpg)
 
 А теперь еще раз серьезно. На этот раз, хм, учудила **«Фабрика комиксов»**. Из-за финансового конфликта с **«Палма Пресс»** (которое в данном случае главнее, так как лицензия именно у него), предзаказ второго тома **«Эльфквеста»** в «Буфете» отменен. Как пояснили в группе комикса, «причина проста — Фабрика хочет книги, но не хочет за них платить. А также платить по долгам за ЭК-1». Также сообщают, что любые упоминания Квеста в группе «ФК» трутся, люди банятся и прочее ай-яй. По всем вопросам о заказе обращаться [сюда](https://vk.com/elfquestruofficial). Ну а самое главное — «Палма» клятвенно обещает продолжить выпуск книг.
 
@@ -41,13 +45,13 @@
 
 Обложки новых **«Малость подавленного парня»**, **«Черепашек»** и **«Побега из страны чудес»**.
 
-[![](http://spidermedia.ru/assets/cache/preview/100154/roskomnadzor/10042015/168x250-d3wtinxamly.635.jpg)](http://spidermedia.ru/assets/images/roskomnadzor/10042015/d3wtinxamly.jpg) [![](http://spidermedia.ru/assets/cache/preview/100154/roskomnadzor/10042015/163x250-dt7coiiol6w.ed4.jpg)](http://spidermedia.ru/assets/images/roskomnadzor/10042015/dt7coiiol6w.jpg) [![](http://spidermedia.ru/assets/cache/preview/100154/roskomnadzor/10042015/168x250-7rbd3zanrmi.635.jpg)](http://spidermedia.ru/assets/images/roskomnadzor/10042015/7rbd3zanrmi.jpg)
+![](https://web.archive.org/web/20260125124600im_/http://spidermedia.ru/assets/images/roskomnadzor/10042015/d3wtinxamly.jpg) ![](https://web.archive.org/web/20260125124600im_/http://spidermedia.ru/assets/images/roskomnadzor/10042015/dt7coiiol6w.jpg) ![](https://web.archive.org/web/20260125124600im_/http://spidermedia.ru/assets/images/roskomnadzor/10042015/7rbd3zanrmi.jpg)
 
 Сенсация! Появилось превью пятого номера комикса **«Пантеон: Культ двуличия»**. Разве что не сообщили, когда поступит в продажу.
 
-[![](http://spidermedia.ru/assets/cache/preview/100154/roskomnadzor/10042015/161x250-hsov66fel5g.f95.jpg)](http://spidermedia.ru/assets/images/roskomnadzor/10042015/hsov66fel5g.jpg) [![](http://spidermedia.ru/assets/cache/preview/100154/roskomnadzor/10042015/161x250-ztdf0wpeg3w.f95.jpg)](http://spidermedia.ru/assets/images/roskomnadzor/10042015/ztdf0wpeg3w.jpg) [![](http://spidermedia.ru/assets/cache/preview/100154/roskomnadzor/10042015/161x250-pgrsyojy-su.f95.jpg)](http://spidermedia.ru/assets/images/roskomnadzor/10042015/pgrsyojy-su.jpg)
+![](https://web.archive.org/web/20260125124600im_/http://spidermedia.ru/assets/images/roskomnadzor/10042015/hsov66fel5g.jpg) ![](https://web.archive.org/web/20260125124600im_/http://spidermedia.ru/assets/images/roskomnadzor/10042015/ztdf0wpeg3w.jpg) ![](https://web.archive.org/web/20260125124600im_/http://spidermedia.ru/assets/images/roskomnadzor/10042015/pgrsyojy-su.jpg)
 
-[![](http://spidermedia.ru/assets/cache/preview/100154/roskomnadzor/10042015/161x250-ctf0bkkh7u0.f95.jpg)](http://spidermedia.ru/assets/images/roskomnadzor/10042015/ctf0bkkh7u0.jpg) [![](http://spidermedia.ru/assets/cache/preview/100154/roskomnadzor/10042015/161x250-pss_9v8wlim.f95.jpg)](http://spidermedia.ru/assets/images/roskomnadzor/10042015/pss_9v8wlim.jpg) [![](http://spidermedia.ru/assets/cache/preview/100154/roskomnadzor/10042015/161x250-oorrw0o0j3m.f95.jpg)](http://spidermedia.ru/assets/images/roskomnadzor/10042015/oorrw0o0j3m.jpg)
+![](https://web.archive.org/web/20260125124600im_/http://spidermedia.ru/assets/images/roskomnadzor/10042015/ctf0bkkh7u0.jpg) ![](https://web.archive.org/web/20260125124600im_/http://spidermedia.ru/assets/images/roskomnadzor/10042015/pss_9v8wlim.jpg) ![](https://web.archive.org/web/20260125124600im_/http://spidermedia.ru/assets/images/roskomnadzor/10042015/oorrw0o0j3m.jpg)
 
 О других российских комиксах: готовы второй номер **«После нашей эры. Эльфийский надлом»** (а я и первый пропустила), братья Александр и Игорь Зиненко разрабатывают комикс **«Счастливого конца света»**, [посвященный](https://vk.com/happydoomsday) миру, в котором апокалипсисы из-за частого повторения стали вполне обычным делом. И из печати вышел третий том **«Боровицкого»** Ивана Ешукова.
 
@@ -60,7 +64,7 @@
 6. Набор сотрудника Магического Чрезвычайного Комитета.
 Купить все это счасть можно будет только на [официальном сайте](http://bubble.ru/), начиная с 15 апреля.
 
-[![](http://spidermedia.ru/assets/cache/preview/100154/roskomnadzor/10042015/654x500-lbcxgmraldu.b5e.jpg)](http://spidermedia.ru/assets/images/roskomnadzor/10042015/lbcxgmraldu.jpg)
+![](https://web.archive.org/web/20260125124600im_/http://spidermedia.ru/assets/images/roskomnadzor/10042015/lbcxgmraldu.jpg)
 
 Кстати, 19 апреля жители Минска смогут лицезреть главного редактора BUBBLE Артема Габрелянова и выпускающего редактора Романа Коткова на [**Unicon**](https://vk.com/uniconminskgroup) (привезите мне магнитик!).
 
@@ -69,3 +73,37 @@
 Не забудьте также запланировать посещение [Весеннего МикроКомикона](https://vk.com/microcomicon) в Питере (26 апреля) и давайте же все увидимся в Москве на [«КомМиссии»](https://vk.com/kommissia). И обязательно почитайте мое [интервью с Александром Куниным](../eksklyuziv-intervyu-s-direktorom-festivalya-risovannyh-istorij-kommissiya-aleksandrom-kuninym/), организатором фестиваля.
 
 А теперь настало время **ВЫБОРА НЕДЕЛИ**. И я с удовольствием передаю слово своему коллеге Алексею Замскому, который на этой неделе уже успел порадовать нас [рассказом](../recenziya-dyavolik-sam-sebe-hozyain/) о **«Дьяволике»** и печати итальянских комиксов в Беларуси. На этот раз Алексей прочел российское издание **«Супермен: Все звезды»** от **«Азбуки»**.
+
+a:1:{i:1;a:7:{s:5:"autor";a:4:{i:1;a:2:{i:0;s:20:"[Сценарист]";i:1;s:27:"Грант Моррисон";}i:3;a:2:{i:0;s:18:"[Художник]";i:1;s:25:"Фрэнк Куайтли";}i:5;a:2:{i:0;s:18:"[Колорист]";i:1;s:23:"Джейми Грант";}i:7;a:2:{i:0;s:22:"[Переводчик]";i:1;s:25:"Инга Смирнова";}}s:4:"name";s:41:"«Супермен: Все звезды»";s:7:"edition";s:0:"";s:5:"cover";s:57:"assets/images/roskomnadzor/10042015/978-5-389-07467-5.jpg";s:9:"publisher";s:4:"3116";s:4:"year";s:4:"2015";s:8:"comments";a:1:{i:1;a:3:{s:5:"autor";s:4:"7483";s:4:"text";s:12473:"
+
+Недавно на русском языке вышла в одном увесистом томе серия «Все звезды: Супермен» Гранта Моррисона и Фрэнка Куайтли. Два живых классика комиксов собрали весь серебряный век историй о супергероях под одной обложкой и при этом сделали его понятным для современного читателя. Получившийся комикс считается одной из лучших историй о Супермене за последние четверть века, стал хитом у читателей, лидером продаж, нахватал премий в индустрии.
+
+Почему «Все звезды» следует читать и перечитывать каждому любителю супергероики, я расскажу в ближайший понедельник. Сегодня же сосредоточимся на русскоязычном издании от «Азбуки», сделавшей знаковый комикс доступным для русскоязычной аудитории.
+
+Одно из самых больших российских издательств выпускает один за другим «самые большие» американские комиксы в неизменно отличном исполнении, «и читать, и дарить». Книга вышла у нас в твердом переплете, повторяющем внешний вид и внутренний дизайн американского «абсолюта» (которому она уступает по размеру). У книги цветная обложка, глянцевая бумага и шитый блок — пожалуй, это все, что нужно сказать о технической части, чтобы никого не утомить.
+
+Разве что отдельно остановимся на цвете. ВЗС обладает модной на момент публикации «цифровой» покраской, которая может для отечественного читателя выглядеть непривычной и слишком яркой. Или даже «ленивой» — на многих кадрах фон заменен градиентом, часто на странице вообще нет декораций. Я не меньше других люблю поворчать, как работа Джейми Гранта мешает рисунку Куайтли, но я понимаю, зачем это было сделано. ВЗС, как уже было сказано выше, возрождает эстетику старых комиксов. Сочетание современной техники и «тогдашней» манеры придает истории особое настроение — здесь все яркое, жизнерадостное и оптимистичное. А такими и были истории про супергероев большую часть своего существования.
+
+![](https://web.archive.org/web/20260125124600im_/http://spidermedia.ru/assets/images/roskomnadzor/10042015/2015-04-09-16.10.48.jpg)
+
+Получить удовольствие от чтения «Всех звезд» смогут самые разные люди — тут нет ни серьезного насилия, ни сложного постмодернистского шифра. И все же я не готов сказать, что ВЗС подойдет в качестве первой и единственной книги о Супермене. С ее помощью можно (и нужно) увлечь комиксами друзей, но вряд ли получится объяснить совсем уж постороннему человеку, «зачем нужны комиксы». Я бы провел водораздел так: если вы можете, пусть и с трудом, вспомнить, откуда взялся Супермен и в кого он влюблен, читать «Все звезды» будет приятно и увлекательно. Если же кроме костюма и имени читатель не будет знать ничего, комикс может озадачить, особенно на первых порах.
+
+Перевод комикса выполнен хорошо, пусть местами и механически. Команда редакторов и корректоров отработала отлично. Прямых ошибок и опечаток мне при чтении не попалось вовсе. Если уж быть педантом, то кое-где потерялась при переводе игра слов или пропали нюансы, но с текстом Моррисона это неудивительно. Не потому что он очень сложный — а потому что Моррисона здесь постоянно носит между «нормальной» речью и стилизацией под манеру речи старых комиксов. Поди совладай.
+
+Традиционно нет проблем и с леттерингом — разве что «Азбука» упорствует и не делает выделения слов в диалогах. Позиция издательства известна — используя синтаксис русского языка, можно успешно передать все необходимые интонационные выделения и не мазать страницу чернилами. Но я полагаю, ВЗС — другое дело. В подлиннике здесь жирным шрифтом выделено как минимум одно слово в каждом предложении, и часто не для интонирования, а просто чтобы подчеркнуть ключевые слова. Знаете, где еще так делали? В комиксах серебряного века, приемы которых используют авторы. Можно как угодно относиться и к комиксному ретро, и к работе Гранта Моррисона с ним, но устранять при переводе прием — в данном случае все равно, что исправлять слишком яркую покраску комикса.
+
+![](https://web.archive.org/web/20260125124600im_/http://spidermedia.ru/assets/images/roskomnadzor/10042015/2015-04-09-16.11.48.jpg)
+
+Наконец, я далеко не первый, кто обращает внимание на странности в примечаниях «Азбуки», но не сказать о них нельзя. Примечания к ВЗС написаны для загадочных людей, которые очень мало знают об окружающем мире, зато имеют неограниченный доступ и большой интерес к старым комиксам.
+
+Много внимания тут уделено объяснению «учёных» слов, встречающихся в тексте, вплоть до самых простых, вроде «репеллент» или «фотосинтез». На мой взгляд, это отчасти разрушает шарм комикса. Моррисон втыкает при каждом удобном случае слова вроде «апоптоз» или «мегантропы» не с расчетом на то, что они понятны читателю. Речь Лео Квинтума заумна и весома, чтобы придать науке загадочную привлекательность, вызвать наше восхищение. Чрезмерное внимание к отдельным словам только мешает.
+
+Значительную часть примечаний составляют пересказы прошлого персонажей и учреждений, упоминаемых в комиксе. Для чтения же комикса совершенно неважно, когда появился PROJECT CADMUS и какие истории были связаны с ним в обширной хронологии DC Comics. Кроме того, в пределах СНГ ссылки типа «Первое появление — такая-то серия, такой-то номер, 1961 год» совершенно бесполезны.
+
+При этом вещи, которые для восприятия комикса явно важны, снова пропущены — вместо абзаца о собственной серии Джимми Ольсена можно было бы сказать о том, зачем он в одном месте появляется в женской одежде, а в другом — превращается в серое шипастое чудовище.
+
+К концу книги силы авторов примечаний явно иссякают, и на, например, рассказ о Звезде-Тиране сил не остается. А тут ведь есть, о чем рассказать в чисто художественном смысле — и о серии «DC One Million», другой работе Моррисона, активно перекликающейся с ВЗС, и о том, как Звезда-Тиран связана со Старро (и опять же — не в хронологии, а в пространстве смыслов). Примечания, я думаю, нужны не только для того, чтобы читатель понял, откуда Моррисон берет персонажей и понятия, но и зачем он это делает и что у него получается. Иначе все «красные споры» просто остаются красивыми словами.
+
+«Все звезды: Супермен» — отличное чтение для тех, кто только недавно стал ближе знаком с супергероикой, и важная книга на полке у тех, кто давно бороздит этот океан. Супермен нужен для того, чтобы вдохновлять детей и взрослых становиться лучше — и книга Моррисона и Куайтли служит хорошим напоминанием об этом.
+
+";s:10:"conclusion";s:0:"";}}}}

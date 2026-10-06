@@ -1,7 +1,10 @@
 {
   "title": "Сезон Киркмана",
-  "date": "2009-11-04T18:47:00+03:00",
+  "date": "2009-11-04T18:47:19+03:00",
   "url": "/news/sezon-kirkmana/",
+  "aliases": [
+    "/node/2059/"
+  ],
   "original_url": "https://spidermedia.ru/news/sezon-kirkmana",
   "archived": "https://web.archive.org/web/20260307054853/https://spidermedia.ru/news/sezon-kirkmana",
   "tags": [
@@ -10,6 +13,12 @@
     "pilot-season",
     "image-comics",
     "top-cow"
+  ],
+  "cover": "https://web.archive.org/web/20260307054853im_/http://spidermedia.ru/assets/images/import_image/2059.jpg",
+  "modx_id": 2059,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

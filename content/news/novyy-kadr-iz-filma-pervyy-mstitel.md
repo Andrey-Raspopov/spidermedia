@@ -1,6 +1,6 @@
 {
   "title": "Новые кадры из фильма \"Первый Мститель\" и немного интервью",
-  "date": "2011-04-26T01:40:00+03:00",
+  "date": "2011-04-26T00:40:24+03:00",
   "url": "/news/novyy-kadr-iz-filma-pervyy-mstitel/",
   "original_url": "http://spidermedia.ru/news/novyy-kadr-iz-filma-pervyy-mstitel",
   "archived": "https://web.archive.org/web/20120607094422/http://spidermedia.ru/news/novyy-kadr-iz-filma-pervyy-mstitel",
@@ -11,6 +11,12 @@
     "kino",
     "marvel",
     "pervyy-mstitel-kapitan-amerika"
+  ],
+  "cover": "https://web.archive.org/web/20120607094422im_/http://spidermedia.ru/assets/images/import_image/5251.jpg",
+  "modx_id": 5251,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

@@ -1,11 +1,17 @@
 {
   "title": "Рецензия на фильм «Робот по имени Чаппи»",
-  "date": "2015-03-05T12:46:00+03:00",
+  "date": "2015-03-05T12:46:06+03:00",
   "url": "/blog/transistor/recenziya-na-film-robot-po-imeni-chappi-0/",
   "original_url": "https://spidermedia.ru/blog/transistor/recenziya-na-film-robot-po-imeni-chappi-0",
   "archived": "https://web.archive.org/web/20230320165857/https://spidermedia.ru/blog/transistor/recenziya-na-film-robot-po-imeni-chappi-0",
   "tags": [
     "recenziya"
+  ],
+  "cover": "https://web.archive.org/web/20150315185706im_/http://spidermedia.ru/assets/images/import_image/8673.jpg",
+  "modx_id": 8673,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

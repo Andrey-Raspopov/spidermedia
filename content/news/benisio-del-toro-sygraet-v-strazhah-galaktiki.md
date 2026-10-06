@@ -1,12 +1,18 @@
 {
   "title": "Бенисио Дель Торо сыграет в \"Стражах Галактики\"",
-  "date": "2013-06-04T05:53:00+03:00",
+  "date": "2013-06-04T04:53:56+03:00",
   "url": "/news/benisio-del-toro-sygraet-v-strazhah-galaktiki/",
   "original_url": "https://spidermedia.ru/news/benisio-del-toro-sygraet-v-strazhah-galaktiki",
   "archived": "https://web.archive.org/web/20260116214517/https://spidermedia.ru/news/benisio-del-toro-sygraet-v-strazhah-galaktiki",
   "tags": [
     "marvel",
     "guardians-of-the-galaxy"
+  ],
+  "cover": "https://web.archive.org/web/20260116214517im_/http://spidermedia.ru/assets/images/import_image/7265.jpg",
+  "modx_id": 7265,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "От Джейсона к Джейсону",
-  "date": "2013-12-04T04:41:00+03:00",
+  "date": "2013-12-04T03:41:21+03:00",
   "url": "/news/ot-dzheysona-k-dzheysonu/",
   "original_url": "http://spidermedia.ru/news/ot-dzheysona-k-dzheysonu",
   "archived": "https://web.archive.org/web/20241109072917/http://spidermedia.ru/news/ot-dzheysona-k-dzheysonu",
@@ -9,7 +9,14 @@
     "x-men",
     "wolverine",
     "mahmud-asrar",
-    "dzhejson-latur"
+    "dzhejson-latur",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20150428231213im_/http://spidermedia.ru/assets/images/import_image/7563.jpg",
+  "modx_id": 7563,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

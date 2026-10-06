@@ -1,13 +1,20 @@
 {
   "title": "AMC заказал пилот «Проповедника»",
-  "date": "2014-12-04T10:01:00+03:00",
+  "date": "2014-12-04T10:01:48+03:00",
   "url": "/news/amc-zakazal-pilot-propovednika/",
   "original_url": "http://spidermedia.ru/news/amc-zakazal-pilot-propovednika",
   "archived": "https://web.archive.org/web/20251014042354/http://spidermedia.ru/news/amc-zakazal-pilot-propovednika",
   "tags": [
     "serialy",
     "vertigo",
-    "preacher"
+    "preacher",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20251014042354im_/http://spidermedia.ru/assets/images/import_image/8339.jpg",
+  "modx_id": 8339,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

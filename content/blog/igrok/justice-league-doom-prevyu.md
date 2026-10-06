@@ -1,6 +1,6 @@
 {
   "title": "Justice League: Doom превью",
-  "date": "2011-11-09T14:25:00+03:00",
+  "date": "2011-11-09T13:25:10+03:00",
   "url": "/blog/igrok/justice-league-doom-prevyu/",
   "original_url": "https://spidermedia.ru/blog/igrok/justice-league-doom-prevyu",
   "archived": "https://web.archive.org/web/20260211090153/https://spidermedia.ru/blog/igrok/justice-league-doom-prevyu",
@@ -9,6 +9,12 @@
     "legion-of-doom",
     "natan-fillion",
     "justice-league"
+  ],
+  "cover": "https://web.archive.org/web/20260211090153im_/http://spidermedia.ru/assets/images/justice_league___logo_by_kakkay-d3hq5l2.jpg",
+  "modx_id": 6691,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

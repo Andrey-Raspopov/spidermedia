@@ -1,12 +1,18 @@
 {
   "title": "Чего хотят наряженные женщины",
-  "date": "2013-04-05T14:29:00+03:00",
+  "date": "2013-04-05T13:29:23+03:00",
   "url": "/blog/vch/chego-hotyat-naryazhennye-zhenshchiny/",
   "original_url": "http://spidermedia.ru/blog/vch/chego-hotyat-naryazhennye-zhenshchiny",
   "archived": "https://web.archive.org/web/20241011021413/http://spidermedia.ru/blog/vch/chego-hotyat-naryazhennye-zhenshchiny",
   "tags": [
     "shovinizm",
     "kosplej"
+  ],
+  "cover": "https://web.archive.org/web/20241011021413im_/http://spidermedia.ru/assets/images/import_image/7181.jpg",
+  "modx_id": 7181,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

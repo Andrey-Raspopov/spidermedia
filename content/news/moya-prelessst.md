@@ -1,13 +1,22 @@
 {
   "title": "Моя Прелесссть!",
-  "date": "2010-01-31T14:52:00+03:00",
+  "date": "2010-01-31T14:52:47+03:00",
   "url": "/news/moya-prelessst/",
+  "aliases": [
+    "/node/2322/"
+  ],
   "original_url": "https://spidermedia.ru/news/moya-prelessst",
   "archived": "https://web.archive.org/web/20250616091319/https://spidermedia.ru/news/moya-prelessst",
   "tags": [
     "svetlejshij-den",
     "green-lantern",
     "the-flash"
+  ],
+  "cover": "https://web.archive.org/web/20250616091319im_/http://spidermedia.ru/assets/images/import_image/2322.jpg",
+  "modx_id": 2322,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

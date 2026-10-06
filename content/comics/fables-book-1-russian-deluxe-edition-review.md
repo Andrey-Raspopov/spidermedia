@@ -10,6 +10,12 @@
     "recenziya",
     "zarubezhnye-komiksy-na-russkom"
   ],
+  "cover": "https://web.archive.org/web/20160611145406im_/http://spidermedia.ru/assets/images/news/fables.jpg",
+  "modx_id": 100812,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

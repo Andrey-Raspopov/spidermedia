@@ -1,6 +1,6 @@
 {
   "title": "Preacher может стать сериалом от Сета Рогена",
-  "date": "2013-11-17T11:54:00+03:00",
+  "date": "2013-11-17T10:54:26+03:00",
   "url": "/news/preacher-mozhet-stat-serialom-ot-seta-rogena/",
   "original_url": "https://spidermedia.ru/news/preacher-mozhet-stat-serialom-ot-seta-rogena",
   "archived": "https://web.archive.org/web/20260125125547/https://spidermedia.ru/news/preacher-mozhet-stat-serialom-ot-seta-rogena",
@@ -8,7 +8,14 @@
     "garth-ennis",
     "serialy",
     "preacher",
-    "set-rogen"
+    "set-rogen",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20260125125547im_/http://spidermedia.ru/assets/images/import_image/7549.jpg",
+  "modx_id": 7549,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

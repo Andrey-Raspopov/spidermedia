@@ -1,13 +1,22 @@
 {
   "title": "1 апреля: Spider-Media Edition",
-  "date": "2009-04-01T14:13:00+03:00",
+  "date": "2009-04-01T13:13:28+03:00",
   "url": "/blog/redson/1-aprelya-spider-media-edition/",
+  "aliases": [
+    "/node/808/"
+  ],
   "original_url": "http://spidermedia.ru/blog/redson/1-aprelya-spider-media-edition",
   "archived": "https://web.archive.org/web/20120614082732/http://spidermedia.ru/blog/redson/1-aprelya-spider-media-edition",
   "tags": [
     "komiksy",
     "skachat",
     "forum"
+  ],
+  "cover": "https://web.archive.org/web/20120614082732im_/http://spidermedia.ru/assets/images/import_image/808.jpg",
+  "modx_id": 808,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

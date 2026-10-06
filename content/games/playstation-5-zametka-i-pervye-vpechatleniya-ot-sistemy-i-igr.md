@@ -4,6 +4,12 @@
   "url": "/games/playstation-5-zametka-i-pervye-vpechatleniya-ot-sistemy-i-igr/",
   "original_url": "http://spidermedia.ru/games/playstation-5-zametka-i-pervye-vpechatleniya-ot-sistemy-i-igr",
   "archived": "https://web.archive.org/web/20250118035931/http://spidermedia.ru/games/playstation-5-zametka-i-pervye-vpechatleniya-ot-sistemy-i-igr",
+  "cover": "https://web.archive.org/web/20250118035931im_/http://spidermedia.ru/assets/images/games/ps5zamet1/oblploj.jpg",
+  "modx_id": 102317,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

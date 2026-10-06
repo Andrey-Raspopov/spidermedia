@@ -1,6 +1,6 @@
 {
   "title": "Hellboymedia: Арт-конкурс «20 лет Хэллбоя» [Результаты]",
-  "date": "2014-12-30T14:08:00+03:00",
+  "date": "2014-12-30T14:08:34+03:00",
   "url": "/blog/shargor/hellboymedia-art-konkurs-20-let-hellboya-rezultaty/",
   "original_url": "http://spidermedia.ru/blog/shargor/hellboymedia-art-konkurs-20-let-hellboya-rezultaty",
   "archived": "https://web.archive.org/web/20260215083541/http://spidermedia.ru/blog/shargor/hellboymedia-art-konkurs-20-let-hellboya-rezultaty",
@@ -8,6 +8,12 @@
     "konkurs",
     "hellboymedia",
     "20-let-hellboya"
+  ],
+  "cover": "https://web.archive.org/web/20160612020915im_/http://spidermedia.ru/assets/images/hellboymedia/project-01-anniversary/art-contest-results/20-years-of-hellboy-art-contest-results-cover.jpg",
+  "modx_id": 8445,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

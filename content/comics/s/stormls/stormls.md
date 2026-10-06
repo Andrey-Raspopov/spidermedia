@@ -4,6 +4,9 @@
   "url": "/comics/s/stormls/stormls/",
   "original_url": "http://www.spidermedia.ru/comics/s/stormls/stormls.html",
   "archived": "https://web.archive.org/web/20050307074603/http://www.spidermedia.ru:80/comics/s/stormls/stormls.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

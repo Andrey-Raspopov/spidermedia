@@ -1,7 +1,10 @@
 {
   "title": "First Look: Daredevil: Noir #2",
-  "date": "2009-04-17T13:57:00+03:00",
+  "date": "2009-04-17T12:57:27+03:00",
   "url": "/blog/x-boy/first-look-daredevil-noir-2/",
+  "aliases": [
+    "/node/970/"
+  ],
   "original_url": "http://spidermedia.ru/blog/x-boy/first-look-daredevil-noir-2",
   "archived": "https://web.archive.org/web/20260116222128/http://spidermedia.ru/blog/x-boy/first-look-daredevil-noir-2",
   "tags": [
@@ -9,6 +12,11 @@
     "daredevil",
     "noirverse",
     "dardevil"
+  ],
+  "modx_id": 970,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

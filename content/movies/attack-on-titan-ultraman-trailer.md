@@ -7,6 +7,12 @@
   "tags": [
     "manga"
   ],
+  "cover": "https://web.archive.org/web/20160408013345im_/http://spidermedia.ru/assets/images/news/attack-on-titan-ultraman.jpg",
+  "modx_id": 100408,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

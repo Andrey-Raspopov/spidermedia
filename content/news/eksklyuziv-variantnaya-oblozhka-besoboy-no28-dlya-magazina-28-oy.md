@@ -1,6 +1,6 @@
 {
   "title": "ЭКСКЛЮЗИВ: Вариантная обложка «Бесобой №28» для магазина «28-ой»",
-  "date": "2014-12-29T10:04:00+03:00",
+  "date": "2014-12-29T10:04:08+03:00",
   "url": "/news/eksklyuziv-variantnaya-oblozhka-besoboy-no28-dlya-magazina-28-oy/",
   "original_url": "https://spidermedia.ru/news/eksklyuziv-variantnaya-oblozhka-besoboy-no28-dlya-magazina-28-oy",
   "archived": "https://web.archive.org/web/20260214133549/https://spidermedia.ru/news/eksklyuziv-variantnaya-oblozhka-besoboy-no28-dlya-magazina-28-oy",
@@ -8,6 +8,12 @@
     "russian-comics",
     "besoboj",
     "bubble"
+  ],
+  "cover": "https://web.archive.org/web/20211027192624im_/http://spidermedia.ru/assets/images/import_image/8436.jpg",
+  "modx_id": 8436,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

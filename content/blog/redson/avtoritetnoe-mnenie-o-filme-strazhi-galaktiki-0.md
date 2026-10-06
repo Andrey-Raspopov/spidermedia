@@ -1,6 +1,6 @@
 {
   "title": "Редакционное мнение о фильме \"Стражи галактики\"",
-  "date": "2014-07-31T10:01:00+03:00",
+  "date": "2014-07-31T09:01:13+03:00",
   "url": "/blog/redson/avtoritetnoe-mnenie-o-filme-strazhi-galaktiki-0/",
   "original_url": "http://spidermedia.ru/blog/redson/avtoritetnoe-mnenie-o-filme-strazhi-galaktiki-0",
   "archived": "https://web.archive.org/web/20260307063440/http://spidermedia.ru/blog/redson/avtoritetnoe-mnenie-o-filme-strazhi-galaktiki-0",
@@ -9,6 +9,12 @@
     "guardians-of-the-galaxy",
     "mnenie",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20160615092435im_/http://spidermedia.ru/assets/images/import_image/7952.jpg",
+  "modx_id": 7952,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

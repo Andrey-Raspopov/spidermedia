@@ -1,7 +1,10 @@
 {
   "title": "Суперфункционеры на защите коммунизма",
-  "date": "2009-08-12T04:21:00+03:00",
+  "date": "2009-08-12T03:21:08+03:00",
   "url": "/news/superfunkcionery-na-zashchite-kommunizma/",
+  "aliases": [
+    "/node/1767/"
+  ],
   "original_url": "http://spidermedia.ru/news/superfunkcionery-na-zashchite-kommunizma",
   "archived": "https://web.archive.org/web/20260209104756/http://spidermedia.ru/news/superfunkcionery-na-zashchite-kommunizma",
   "tags": [
@@ -11,7 +14,13 @@
     "great-ten",
     "velikaya-desyatka",
     "stenli-lou",
-    "toni-bedard"
+    "toni-bedard",
+    "art"
+  ],
+  "modx_id": 1767,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

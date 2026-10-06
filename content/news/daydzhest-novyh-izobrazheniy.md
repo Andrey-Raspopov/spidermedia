@@ -1,6 +1,6 @@
 {
   "title": "Дайджест новых изображений",
-  "date": "2014-08-27T09:20:00+03:00",
+  "date": "2014-08-27T08:20:53+03:00",
   "url": "/news/daydzhest-novyh-izobrazheniy/",
   "original_url": "http://spidermedia.ru/news/daydzhest-novyh-izobrazheniy",
   "archived": "https://web.archive.org/web/20260208201402/http://spidermedia.ru/news/daydzhest-novyh-izobrazheniy",
@@ -9,6 +9,12 @@
     "marvel",
     "agenty-shhita",
     "daredevil"
+  ],
+  "cover": "https://web.archive.org/web/20260208201402im_/http://spidermedia.ru/assets/images/import_image/8020.jpg",
+  "modx_id": 8020,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

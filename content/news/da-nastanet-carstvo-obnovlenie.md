@@ -1,7 +1,10 @@
 {
   "title": "Да настанет Царство + обновление",
-  "date": "2009-08-21T04:10:00+03:00",
+  "date": "2009-08-21T03:10:17+03:00",
   "url": "/news/da-nastanet-carstvo-obnovlenie/",
+  "aliases": [
+    "/node/1749/"
+  ],
   "original_url": "https://spidermedia.ru/news/da-nastanet-carstvo-obnovlenie",
   "archived": "https://web.archive.org/web/20251111072831/https://spidermedia.ru/news/da-nastanet-carstvo-obnovlenie",
   "tags": [
@@ -13,7 +16,14 @@
     "brajan-haberlin",
     "art-0",
     "realm-of-kings",
-    "marvel"
+    "marvel",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20251111072831im_/http://spidermedia.ru/assets/images/import_image/1749.jpg",
+  "modx_id": 1749,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

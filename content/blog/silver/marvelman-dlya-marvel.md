@@ -1,7 +1,10 @@
 {
   "title": "Marvelman для Marvel",
-  "date": "2009-07-25T05:18:00+03:00",
+  "date": "2009-07-25T04:18:54+03:00",
   "url": "/blog/silver/marvelman-dlya-marvel/",
+  "aliases": [
+    "/node/1651/"
+  ],
   "original_url": "http://spidermedia.ru/blog/silver/marvelman-dlya-marvel",
   "archived": "https://web.archive.org/web/20251107032833/http://spidermedia.ru/blog/silver/marvelman-dlya-marvel",
   "tags": [
@@ -11,7 +14,14 @@
     "art-0",
     "alan-mur",
     "san-diego-comic-con-international",
-    "marvelman"
+    "marvelman",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20150424123154im_/http://spidermedia.ru/assets/images/import_image/1651.jpg",
+  "modx_id": 1651,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

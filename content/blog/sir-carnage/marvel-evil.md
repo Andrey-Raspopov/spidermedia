@@ -1,13 +1,22 @@
 {
   "title": "Marvel is Evil",
-  "date": "2009-12-30T06:05:00+03:00",
+  "date": "2009-12-30T06:05:10+03:00",
   "url": "/blog/sir-carnage/marvel-evil/",
+  "aliases": [
+    "/node/2205/"
+  ],
   "original_url": "http://spidermedia.ru/blog/sir-carnage/marvel-evil",
   "archived": "https://web.archive.org/web/20190610163028/http://spidermedia.ru:80/blog/sir-carnage/marvel-evil",
   "tags": [
     "mysli",
     "marvel",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20190610163028im_/http://spidermedia.ru/assets/images/import_image/2205.jpg",
+  "modx_id": 2205,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

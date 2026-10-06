@@ -1,7 +1,10 @@
 {
   "title": "Brand New Day: Наступление по всем фронтам",
-  "date": "2009-06-20T00:41:00+03:00",
+  "date": "2009-06-19T23:41:05+03:00",
   "url": "/news/brand-new-day-nastuplenie-po-vsem-frontam/",
+  "aliases": [
+    "/node/1445/"
+  ],
   "original_url": "http://spidermedia.ru/news/brand-new-day-nastuplenie-po-vsem-frontam",
   "archived": "https://web.archive.org/web/20250906073335/http://spidermedia.ru/news/brand-new-day-nastuplenie-po-vsem-frontam",
   "tags": [
@@ -14,6 +17,12 @@
     "electro",
     "spider-man",
     "elektro"
+  ],
+  "cover": "https://web.archive.org/web/20250906073335im_/http://spidermedia.ru/assets/images/import_image/1445.png",
+  "modx_id": 1445,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -11,6 +11,12 @@
     "dzheff-lemir",
     "skott-snajder"
   ],
+  "cover": "https://web.archive.org/web/20160611210309im_/http://spidermedia.ru/assets/images/news/image/after-death/after-death-cover.jpg",
+  "modx_id": 100859,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

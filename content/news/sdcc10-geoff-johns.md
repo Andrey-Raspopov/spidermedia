@@ -1,7 +1,10 @@
 {
   "title": "SDCC'10: Geoff Johns",
-  "date": "2010-07-23T10:05:00+03:00",
+  "date": "2010-07-23T09:05:09+03:00",
   "url": "/news/sdcc10-geoff-johns/",
+  "aliases": [
+    "/node/2773/"
+  ],
   "original_url": "http://spidermedia.ru/news/sdcc10-geoff-johns",
   "archived": "https://web.archive.org/web/20260120145000/http://spidermedia.ru/news/sdcc10-geoff-johns",
   "tags": [
@@ -15,6 +18,12 @@
     "the-flash",
     "dc-comics",
     "san-diego-comic-con-international"
+  ],
+  "cover": "https://web.archive.org/web/20260120145000im_/http://spidermedia.ru/assets/images/import_image/2773.png",
+  "modx_id": 2773,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

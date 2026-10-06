@@ -1,6 +1,6 @@
 {
   "title": "NYCC: Пауки и космос",
-  "date": "2014-10-13T09:41:00+03:00",
+  "date": "2014-10-13T08:41:14+03:00",
   "url": "/news/nycc-pauki-i-kosmos/",
   "original_url": "https://spidermedia.ru/news/nycc-pauki-i-kosmos",
   "archived": "https://web.archive.org/web/20260306001433/https://spidermedia.ru/news/nycc-pauki-i-kosmos",
@@ -18,7 +18,14 @@
     "dzherri-duggan",
     "dzhejson-latur",
     "gven-stejsi",
-    "brian-michael-bendis"
+    "brian-michael-bendis",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20260306001433im_/http://i.imgur.com/nRDtp67m.jpg",
+  "modx_id": 8173,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

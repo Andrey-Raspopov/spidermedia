@@ -1,6 +1,6 @@
 {
   "title": "Невероятное закрытие",
-  "date": "2011-05-12T13:21:00+03:00",
+  "date": "2011-05-12T12:21:37+03:00",
   "url": "/news/neveroyatnoe-zakrytie/",
   "original_url": "http://spidermedia.ru/news/neveroyatnoe-zakrytie",
   "archived": "https://web.archive.org/web/20250519180220/http://spidermedia.ru/news/neveroyatnoe-zakrytie",
@@ -9,6 +9,12 @@
     "greg-pak",
     "marvel",
     "hulk"
+  ],
+  "cover": "https://web.archive.org/web/20160509065654im_/http://spidermedia.ru/assets/images/import_image/5671.jpg",
+  "modx_id": 5671,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

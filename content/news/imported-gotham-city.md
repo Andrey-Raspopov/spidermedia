@@ -1,6 +1,6 @@
 {
   "title": "Imported From Gotham City",
-  "date": "2012-06-16T15:24:00+03:00",
+  "date": "2012-06-16T14:24:33+03:00",
   "url": "/news/imported-gotham-city/",
   "original_url": "http://spidermedia.ru/news/imported-gotham-city",
   "archived": "https://web.archive.org/web/20260125124307/http://spidermedia.ru/news/imported-gotham-city",
@@ -9,6 +9,12 @@
     "dark-knight-rises",
     "dc-comics",
     "temnyj-rycar"
+  ],
+  "cover": "https://web.archive.org/web/20260125124307im_/http://spidermedia.ru/assets/images/import_image/6934.jpg",
+  "modx_id": 6934,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

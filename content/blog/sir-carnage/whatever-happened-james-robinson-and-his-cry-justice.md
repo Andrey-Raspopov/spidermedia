@@ -1,7 +1,10 @@
 {
   "title": "Whatever Happened to James Robinson and his Cry for Justice.",
-  "date": "2009-09-04T14:16:00+03:00",
+  "date": "2009-09-04T13:16:21+03:00",
   "url": "/blog/sir-carnage/whatever-happened-james-robinson-and-his-cry-justice/",
+  "aliases": [
+    "/node/1875/"
+  ],
   "original_url": "https://spidermedia.ru/blog/sir-carnage/whatever-happened-james-robinson-and-his-cry-justice",
   "archived": "https://web.archive.org/web/20260123072656/https://spidermedia.ru/blog/sir-carnage/whatever-happened-james-robinson-and-his-cry-justice",
   "tags": [
@@ -11,6 +14,12 @@
     "dc-comics",
     "whatever-happened",
     "justice-league"
+  ],
+  "cover": "https://web.archive.org/web/20260123072656im_/http://spidermedia.ru/assets/images/import_image/1875.jpg",
+  "modx_id": 1875,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

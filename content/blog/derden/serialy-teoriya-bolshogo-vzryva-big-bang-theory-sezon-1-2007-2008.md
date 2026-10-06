@@ -1,13 +1,23 @@
 {
   "title": "Сериалы: Теория Большого Взрыва (Big Bang Theory). Сезон 1 (2007-2008)",
-  "date": "2009-07-15T10:50:00+03:00",
+  "date": "2009-07-15T09:50:19+03:00",
   "url": "/blog/derden/serialy-teoriya-bolshogo-vzryva-big-bang-theory-sezon-1-2007-2008/",
+  "aliases": [
+    "/node/1561/"
+  ],
   "original_url": "http://spidermedia.ru/blog/derden/serialy-teoriya-bolshogo-vzryva-big-bang-theory-sezon-1-2007-2008",
   "archived": "https://web.archive.org/web/20251117011735/http://spidermedia.ru/blog/derden/serialy-teoriya-bolshogo-vzryva-big-bang-theory-sezon-1-2007-2008",
   "tags": [
     "recenziya",
     "serialy",
-    "teoriya-bolshogo-vzryva"
+    "teoriya-bolshogo-vzryva",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20251117011735im_/http://spidermedia.ru/assets/images/import_image/1561.png",
+  "modx_id": 1561,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

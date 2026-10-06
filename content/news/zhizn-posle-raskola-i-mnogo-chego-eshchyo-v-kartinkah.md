@@ -1,13 +1,20 @@
 {
   "title": "Жизнь после Раскола (и много чего ещё) в картинках",
-  "date": "2011-07-24T07:45:00+03:00",
+  "date": "2011-07-24T06:45:07+03:00",
   "url": "/news/zhizn-posle-raskola-i-mnogo-chego-eshchyo-v-kartinkah/",
   "original_url": "http://spidermedia.ru/news/zhizn-posle-raskola-i-mnogo-chego-eshchyo-v-kartinkah",
   "archived": "https://web.archive.org/web/20250808202504/http://spidermedia.ru/news/zhizn-posle-raskola-i-mnogo-chego-eshchyo-v-kartinkah",
   "tags": [
     "san-diego-comic-con-international",
     "x-men",
-    "marvel"
+    "marvel",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20250808202504im_/http://spidermedia.ru/assets/images/import_image/6525.jpg",
+  "modx_id": 6525,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

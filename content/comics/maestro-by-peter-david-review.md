@@ -9,6 +9,12 @@
     "piter-devid",
     "hulk"
   ],
+  "cover": "https://web.archive.org/web/20210815193435im_/https://spidermedia.ru/assets/images/reviews/marvel/hulk/maestro/01.png",
+  "modx_id": 102412,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

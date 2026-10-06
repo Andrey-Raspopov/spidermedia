@@ -1,7 +1,10 @@
 {
   "title": "Дроблёный Марвел",
-  "date": "2010-11-05T07:43:00+03:00",
+  "date": "2010-11-05T07:43:59+03:00",
   "url": "/news/droblyonyy-marvel/",
+  "aliases": [
+    "/node/3052/"
+  ],
   "original_url": "http://spidermedia.ru/news/droblyonyy-marvel",
   "archived": "https://web.archive.org/web/20260206220442/http://spidermedia.ru/news/droblyonyy-marvel",
   "tags": [
@@ -10,7 +13,14 @@
     "marvel",
     "iron-man",
     "captain-america",
-    "spider-man"
+    "spider-man",
+    "zheleznyy-chelovek"
+  ],
+  "cover": "https://web.archive.org/web/20260206220442im_/http://spidermedia.ru/assets/images/import_image/3052.jpg",
+  "modx_id": 3052,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

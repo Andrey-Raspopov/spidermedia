@@ -1,12 +1,18 @@
 {
   "title": "МЖДЗ: THIS IS WHERE WE WILL LIVE",
-  "date": "2011-07-06T23:09:00+03:00",
+  "date": "2011-07-06T22:09:40+03:00",
   "url": "/blog/redson/mzhdz-where-we-will-live/",
   "original_url": "https://spidermedia.ru/blog/redson/mzhdz-where-we-will-live",
   "archived": "https://web.archive.org/web/20240718173553/https://spidermedia.ru/blog/redson/mzhdz-where-we-will-live",
   "tags": [
     "mnenie",
     "mzhdz"
+  ],
+  "cover": "https://web.archive.org/web/20160717070108im_/http://spidermedia.ru/assets/images/import_image/6483.png",
+  "modx_id": 6483,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

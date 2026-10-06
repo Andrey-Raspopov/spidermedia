@@ -7,6 +7,12 @@
   "tags": [
     "dc-comics"
   ],
+  "cover": "https://web.archive.org/web/20251206031449im_/http://spidermedia.ru/assets/images/news/dc/new-cover-design/mzk.jpg",
+  "modx_id": 101746,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

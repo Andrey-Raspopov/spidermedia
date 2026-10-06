@@ -1,7 +1,10 @@
 {
   "title": "Возвращение блудной кошки",
-  "date": "2010-10-20T19:52:00+03:00",
+  "date": "2010-10-20T18:52:17+03:00",
   "url": "/news/vozvrashchenie-bludnoy-koshki/",
+  "aliases": [
+    "/node/3023/"
+  ],
   "original_url": "http://spidermedia.ru/news/vozvrashchenie-bludnoy-koshki",
   "archived": "https://web.archive.org/web/20260209111258/http://spidermedia.ru/news/vozvrashchenie-bludnoy-koshki",
   "tags": [
@@ -10,7 +13,14 @@
     "brian-michael-bendis",
     "art-0",
     "ultimate",
-    "spider-man"
+    "spider-man",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20260209111258im_/http://spidermedia.ru/assets/images/import_image/3023.jpg",
+  "modx_id": 3023,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

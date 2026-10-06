@@ -1,7 +1,10 @@
 {
   "title": "The Column With No Name - Week #6: Different Avengers! Different Avengers!",
-  "date": "2009-04-26T02:38:00+03:00",
+  "date": "2009-04-26T01:38:30+03:00",
   "url": "/blog/sir-carnage/column-no-name-week-6-different-avengers-different-avengers/",
+  "aliases": [
+    "/node/1060/"
+  ],
   "original_url": "http://spidermedia.ru/blog/sir-carnage/column-no-name-week-6-different-avengers-different-avengers",
   "archived": "https://web.archive.org/web/20251106232655/http://spidermedia.ru/blog/sir-carnage/column-no-name-week-6-different-avengers-different-avengers",
   "tags": [
@@ -13,7 +16,14 @@
     "detective-comics",
     "dc-comics",
     "batman",
-    "the-column-with-no-name"
+    "the-column-with-no-name",
+    "tor"
+  ],
+  "cover": "https://web.archive.org/web/20150502170522im_/http://spidermedia.ru/assets/images/import_image/1060.jpg",
+  "modx_id": 1060,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,12 +1,18 @@
 {
   "title": "Сценарист Джош Элдер в Минске",
-  "date": "2014-02-05T15:16:00+03:00",
+  "date": "2014-02-05T14:16:28+03:00",
   "url": "/blog/sterpazook/writer-josh-elder-in-minsk-belarus/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/writer-josh-elder-in-minsk-belarus",
   "archived": "https://web.archive.org/web/20260211182119/http://spidermedia.ru/blog/sterpazook/writer-josh-elder-in-minsk-belarus",
   "tags": [
     "industriya",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20260211182119im_/http://spidermedia.ru/assets/images/import_image/7631.jpg",
+  "modx_id": 7631,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Пантеон: небольшая задержка.",
-  "date": "2012-09-25T22:20:00+03:00",
+  "date": "2012-09-25T21:20:53+03:00",
   "url": "/blog/drgonzobear/panteon-nebolshaya-zaderzhka/",
   "original_url": "http://spidermedia.ru/blog/drgonzobear/panteon-nebolshaya-zaderzhka",
   "archived": "https://web.archive.org/web/20210125231137/http://spidermedia.ru/blog/drgonzobear/panteon-nebolshaya-zaderzhka",
@@ -8,6 +8,12 @@
     "stimpank",
     "russian-comics",
     "kult-dvulichiya"
+  ],
+  "cover": "https://web.archive.org/web/20150326155558im_/http://spidermedia.ru/assets/images/import_image/7037.jpg",
+  "modx_id": 7037,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

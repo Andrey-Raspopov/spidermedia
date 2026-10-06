@@ -8,11 +8,17 @@
     "boom-studios",
     "dc-comics"
   ],
+  "cover": "https://web.archive.org/web/20260125061800im_/http://spidermedia.ru/assets/images/newgallery/gallery619/LumberjanesGothamAcademy-001-C-UnlockableIncetive-ChynnaClugston-Flores-03e84_1.jpg",
+  "modx_id": 101000,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-Мы уже привыкли тому, что Бэтмен в комиксах то и дело пересекается с героями [других](../sdcc-2015-batman-tmnt/) [франчайзов](https://web.archive.org/web/20260208201708id_/https://spidermedia.ru/comics/agenty-a.n.k.l.-vstretyatsya-s-betmenom), а вот недавнее объявление о готовящемся кроссовере двух великолепных подростковых комиксов: онгоинга DC[**Gotham Academy**](../mzhdz-dc-you-week-two/#item7) и серии BOOM! Studios **[Lumberjanes](../../news/all-new-mzhdz-friendship-max/#janes)** (который скоро [выйдет](../anonsy-izdatelstv-s-festivalya-homyakon/) на русском языке) стало полной неожиданностью.
+Мы уже привыкли тому, что Бэтмен в комиксах то и дело пересекается с героями [других](../sdcc-2015-batman-tmnt/) [франчайзов](../agenty-a.n.k.l.-vstretyatsya-s-betmenom/), а вот недавнее объявление о готовящемся кроссовере двух великолепных подростковых комиксов: онгоинга DC[**Gotham Academy**](../mzhdz-dc-you-week-two/#item7) и серии BOOM! Studios **[Lumberjanes](../../news/all-new-mzhdz-friendship-max/#janes)** (который скоро [выйдет](../anonsy-izdatelstv-s-festivalya-homyakon/) на русском языке) стало полной неожиданностью.
 
 [![Автор обложки - Чинна Клагстон-Флорес (Chynna Clugston-Flores)](http://spidermedia.ru/assets/images/newgallery/gallery619/LumberjanesGothamAcademy-001-C-UnlockableIncetive-ChynnaClugston-Flores-03e84_1.jpg)](./ "Автор обложки - Чинна Клагстон-Флорес (Chynna Clugston-Flores)")
 [![Автор обложки - Минджи Чен (Mingjue Chen)](http://spidermedia.ru/assets/images/newgallery/gallery619/GALJ01.jpg)](./ "Автор обложки - Минджи Чен (Mingjue Chen)")

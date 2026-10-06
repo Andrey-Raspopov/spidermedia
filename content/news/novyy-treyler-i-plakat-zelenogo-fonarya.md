@@ -1,6 +1,6 @@
 {
   "title": "Новый трейлер и плакат Зеленого Фонаря",
-  "date": "2011-05-21T10:05:00+03:00",
+  "date": "2011-05-21T09:05:21+03:00",
   "url": "/news/novyy-treyler-i-plakat-zelenogo-fonarya/",
   "original_url": "https://spidermedia.ru/news/novyy-treyler-i-plakat-zelenogo-fonarya",
   "archived": "https://web.archive.org/web/20260125131845/https://spidermedia.ru/news/novyy-treyler-i-plakat-zelenogo-fonarya",
@@ -8,6 +8,12 @@
     "postery",
     "green-lantern",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20260125131845im_/http://spidermedia.ru/assets/images/import_image/5899.jpg",
+  "modx_id": 5899,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

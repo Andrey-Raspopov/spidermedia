@@ -1,7 +1,10 @@
 {
   "title": "Современники",
-  "date": "2009-04-25T23:10:00+03:00",
+  "date": "2009-04-25T22:10:19+03:00",
   "url": "/news/sovremenniki/",
+  "aliases": [
+    "/node/1059/"
+  ],
   "original_url": "http://spidermedia.ru/news/sovremenniki",
   "archived": "https://web.archive.org/web/20150424090906/http://spidermedia.ru/news/sovremenniki",
   "tags": [
@@ -9,6 +12,11 @@
     "dzhej-majkl-strazhinski",
     "hesus-sejz",
     "dzhej-dzhi-dzhons"
+  ],
+  "modx_id": 1059,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
@@ -18,4 +26,4 @@
 [![redch-01-cover.jpg - image uploaded to Picamatic](https://web.archive.org/web/20150424090906im_/http://www.picamatic.com/show/2009/04/25/10/10/3409609_bigthumb.jpg "redch-01-cover.jpg")](http://www.picamatic.com/view/3409609_redch-01-cover/) [![hangman-blog.jpg - Picamatic - upload your images](https://web.archive.org/web/20150424090906im_/http://www.picamatic.com/show/2009/04/25/10/45/3410220_bigthumb.jpg "hangman-blog.jpg")](http://www.picamatic.com/view/3410220_hangman-blog/) [![redcwblog.jpg - image uploaded to Picamatic](https://web.archive.org/web/20150424090906im_/http://www.picamatic.com/show/2009/04/25/10/11/3409612_bigthumb.jpg "redcwblog.jpg")](http://www.picamatic.com/view/3409612_redcwblog/)
 Рисунки выше от **Хесуса Сэйза** *(Jesus Saiz)* и Джей Джи Джонса, **Палач** *(Hangman)* и **Паутина** *(The Web)*, завершают анонс серии от [**блога**](http://dcublog.dccomics.com/) **DC**, помимого этого Джонс поделился некоторой информацией по персонажам:
 На Джонсе лежала большая ответственность - переделать не только внеше персонажей, но и адаптировать их к современности, показать через визуальный образ их натуру и индивидуальные особенности. **Инферно** *(Inferno)*, например, получил самое радикальное изменение - его символ, факел, исчез с груди и стал кулоном, также он теперь способен меняться: есть "активированная" форма, и обычная, позволяющая ему скрываться в толпе. Тем не менее красная футболка, вместе с факелом на шее - постоянные отличительные черты. Петля на шее **Палача** - это голография из эктоплазмы, а сам он - человек без способностей. В общем-то, редизайн затронул всех, кого-то в меньшей мере, как **Щита** *(The Shield)*, кого-то полностью. В любом случае, Стражинский знает, что делает, и многие изменения будут либо объяснины, либо будут понятны после прочтения.
-На **Инферно** и **Щита** можно посмотреть в [прошлой](../../node/1013/) новости. Лимитка стартует в августе этого года.
+На **Инферно** и **Щита** можно посмотреть в [прошлой](../inferno-shchit/) новости. Лимитка стартует в августе этого года.

@@ -1,6 +1,6 @@
 {
   "title": "ПРЕВЬЮ: «Смертельно прекрасна»",
-  "date": "2014-10-16T12:39:00+03:00",
+  "date": "2014-10-16T11:39:20+03:00",
   "url": "/news/prevyu-smertelno-prekrasna/",
   "original_url": "https://spidermedia.ru/news/prevyu-smertelno-prekrasna",
   "archived": "https://web.archive.org/web/20251211021006/https://spidermedia.ru/news/prevyu-smertelno-prekrasna",
@@ -8,6 +8,12 @@
     "zarubezhnye-komiksy-na-russkom",
     "xl-media",
     "pretty-deadly"
+  ],
+  "cover": "https://web.archive.org/web/20160323022257im_/http://spidermedia.ru/assets/images/import_image/8193.jpg",
+  "modx_id": 8193,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

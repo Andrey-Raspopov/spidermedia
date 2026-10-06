@@ -1,7 +1,10 @@
 {
   "title": "Эксклюзив: HULK #600",
-  "date": "2009-03-23T21:18:00+03:00",
+  "date": "2009-03-23T20:18:42+03:00",
   "url": "/news/eksklyuziv-hulk-600/",
+  "aliases": [
+    "/node/752/"
+  ],
   "original_url": "http://spidermedia.ru/news/eksklyuziv-hulk-600",
   "archived": "https://web.archive.org/web/20120728112519/http://spidermedia.ru:80/news/eksklyuziv-hulk-600",
   "tags": [
@@ -10,7 +13,15 @@
     "art-0",
     "komiksy",
     "marvel",
-    "oblozhki"
+    "oblozhki",
+    "art",
+    "alex-ross"
+  ],
+  "cover": "https://web.archive.org/web/20120728112519im_/http://spidermedia.ru/assets/images/import_image/752.jpg",
+  "modx_id": 752,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

@@ -9,6 +9,12 @@
     "marvel",
     "rocket-racoon"
   ],
+  "cover": "https://web.archive.org/web/20180315064749im_/http://spidermedia.ru/assets/images/news/marvel/all-new-all-different/rocket-racoon-and-groot/rocket-raccoon-and-groot-1-cover-74350.jpg",
+  "modx_id": 100547,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

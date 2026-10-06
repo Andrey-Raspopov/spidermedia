@@ -1,11 +1,17 @@
 {
   "title": "Самый пьяный округ в мире",
-  "date": "2012-12-09T16:30:00+03:00",
+  "date": "2012-12-09T15:30:28+03:00",
   "url": "/blog/redson/samyy-pyanyy-okrug-v-mire/",
   "original_url": "http://spidermedia.ru/blog/redson/samyy-pyanyy-okrug-v-mire",
   "archived": "https://web.archive.org/web/20200131025900/http://spidermedia.ru:80/blog/redson/samyy-pyanyy-okrug-v-mire",
   "tags": [
     "mnenie"
+  ],
+  "cover": "https://web.archive.org/web/20200131025900im_/http://spidermedia.ru/assets/images/import_image/7101.gif",
+  "modx_id": 7101,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

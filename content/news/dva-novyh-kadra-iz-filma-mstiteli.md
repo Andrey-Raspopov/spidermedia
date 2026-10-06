@@ -1,12 +1,18 @@
 {
   "title": "Два новых кадра из фильма \"Мстители\"",
-  "date": "2012-02-22T13:27:00+03:00",
+  "date": "2012-02-22T12:27:33+03:00",
   "url": "/news/dva-novyh-kadra-iz-filma-mstiteli/",
   "original_url": "https://spidermedia.ru/news/dva-novyh-kadra-iz-filma-mstiteli",
   "archived": "https://web.archive.org/web/20240720062410/https://spidermedia.ru/news/dva-novyh-kadra-iz-filma-mstiteli",
   "tags": [
     "avengers",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20240720062410im_/http://spidermedia.ru/assets/images/import_image/6793.jpg",
+  "modx_id": 6793,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

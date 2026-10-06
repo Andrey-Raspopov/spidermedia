@@ -1,7 +1,10 @@
 {
   "title": "Зло Дома М",
-  "date": "2009-05-16T16:37:00+03:00",
+  "date": "2009-05-16T15:37:43+03:00",
   "url": "/news/zlo-doma-m/",
+  "aliases": [
+    "/node/1205/"
+  ],
   "original_url": "http://spidermedia.ru/news/zlo-doma-m",
   "archived": "https://web.archive.org/web/20251108193715/http://spidermedia.ru/news/zlo-doma-m",
   "tags": [
@@ -12,14 +15,21 @@
     "kapyushon",
     "house-of-m",
     "manuel-garsiya",
-    "magneto"
+    "magneto",
+    "lyudi-iks",
+    "art"
+  ],
+  "modx_id": 1205,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
 ![](https://web.archive.org/web/20251108193715im_/http://pic.ipicture.ru/uploads/090515/MG06N69arz.jpg)
-После [анонса](../../node/1004/) еще одной серии в рамках мира **Дома М** *(House of M)* прошло не так уж много времени, но это никак не останавливает сценариста **Кристоса Гейджа** *(Christos Gage)* и **Marvel** на пути к оповещению новой информации.
+После [анонса](../mondo-marvel-zlodei-voiny-i-pauchiy-prazdnik/) еще одной серии в рамках мира **Дома М** *(House of M)* прошло не так уж много времени, но это никак не останавливает сценариста **Кристоса Гейджа** *(Christos Gage)* и **Marvel** на пути к оповещению новой информации.
 **House of M: Masters of Evil** - это темный заговор, схватки, протест и бунт небольшой группы людей, способной сравнять город с землей за несколько минут. Злодеи, именно о них речь и пойдет в комиксе.
  [![](https://web.archive.org/web/20251108193715im_/http://s59.radikal.ru/i164/0905/9f/68074aca7a37t.jpg)](http://s59.radikal.ru/i164/0905/9f/68074aca7a37.jpg) [![](https://web.archive.org/web/20251108193715im_/http://s54.radikal.ru/i144/0905/62/5d7bdf26cab7t.jpg)](http://s54.radikal.ru/i144/0905/62/5d7bdf26cab7.jpg) [![](https://web.archive.org/web/20251108193715im_/http://i031.radikal.ru/0905/d5/3952bfceb15ft.jpg)](http://i031.radikal.ru/0905/d5/3952bfceb15f.jpg) [![](https://web.archive.org/web/20251108193715im_/http://s39.radikal.ru/i086/0905/74/b6e57db34807t.jpg)](http://s39.radikal.ru/i086/0905/74/b6e57db34807.jpg) [![](https://web.archive.org/web/20251108193715im_/http://s49.radikal.ru/i123/0905/bc/96c1f9f12a0et.jpg)](http://s49.radikal.ru/i123/0905/bc/96c1f9f12a0e.jpg)
 Вездесущий **Капюшон** *(The Hood)*, в том числе и в этой реальности, собирает команду отъявленных мерзавцев и настоящих монстров для того, чтобы завоевать кусочек власти и в этом мире. Среди них нашлось место и маститым злодеям, и мелким сошкам. Итак, некоторые члены группировки: **Поглощатель, Титания, Разрушители, Кроссбоунс, Чародей, Батрок-попрыгун, Кобра, Мистер Хайд, Песочный Человек, Кеместро, Буран, Нитро, Мадам Маска** *(Absorbing Man, Titania, the Wrecking Crew, Crossbones, the Wizard, Batroc the Leaper, the Cobra, Mr. Hyde, the Sandman, Chemistro, Blizzard, Nitro, Madame Masque)* и другие.

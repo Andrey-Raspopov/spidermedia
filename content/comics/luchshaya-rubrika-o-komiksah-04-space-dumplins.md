@@ -8,6 +8,12 @@
     "best-column-about-comics",
     "mnenie"
   ],
+  "cover": "https://web.archive.org/web/20251018225422im_/http://spidermedia.ru/assets/images/best-column-about-comics/04-space-dumplins/space-dumplins-cover.jpg",
+  "modx_id": 101379,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

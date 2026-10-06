@@ -1,6 +1,6 @@
 {
   "title": "\"Тор 2: Царство тьмы\": Персональный постер Одина и новый постер с Локи",
-  "date": "2013-09-12T23:31:00+03:00",
+  "date": "2013-09-12T22:31:55+03:00",
   "url": "/news/tor-2-carstvo-tmy-personalnyy-poster-odina-i-novyy-poster-s-loki/",
   "original_url": "https://spidermedia.ru/news/tor-2-carstvo-tmy-personalnyy-poster-odina-i-novyy-poster-s-loki",
   "archived": "https://web.archive.org/web/20240911141522/https://spidermedia.ru/news/tor-2-carstvo-tmy-personalnyy-poster-odina-i-novyy-poster-s-loki",
@@ -8,7 +8,14 @@
     "entoni-hopkins",
     "thor",
     "postery",
-    "marvel"
+    "marvel",
+    "tor"
+  ],
+  "cover": "https://web.archive.org/web/20240911141522im_/http://spidermedia.ru/assets/images/import_image/7466.jpg",
+  "modx_id": 7466,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

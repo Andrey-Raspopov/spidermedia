@@ -1,6 +1,6 @@
 {
   "title": "Bastion’s 7: Astonishing X-Men",
-  "date": "2010-10-13T22:32:00+03:00",
+  "date": "2010-10-13T21:32:36+03:00",
   "url": "/blog/bastion7/bastions-7-astonishing-x-men/",
   "original_url": "http://spidermedia.ru/blog/bastion7/bastions-7-astonishing-x-men",
   "archived": "https://web.archive.org/web/20260214140649/http://spidermedia.ru/blog/bastion7/bastions-7-astonishing-x-men",
@@ -8,7 +8,15 @@
     "x-men",
     "dzhon-kessedej",
     "mnenie",
-    "marvel"
+    "marvel",
+    "lyudi-iks",
+    "mneniya"
+  ],
+  "cover": "https://web.archive.org/web/20260214140649im_/http://spidermedia.ru/assets/images/import_image/3005.jpg",
+  "modx_id": 3005,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

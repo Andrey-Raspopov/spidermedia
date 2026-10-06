@@ -1,7 +1,10 @@
 {
   "title": "Новые мутанты - в полном составе!",
-  "date": "2009-03-11T16:47:00+03:00",
+  "date": "2009-03-11T15:47:30+03:00",
   "url": "/news/novye-mutanty-v-polnom-sostave/",
+  "aliases": [
+    "/node/644/"
+  ],
   "original_url": "http://spidermedia.ru/news/novye-mutanty-v-polnom-sostave",
   "archived": "https://web.archive.org/web/20120608051106/http://spidermedia.ru/news/novye-mutanty-v-polnom-sostave",
   "tags": [
@@ -11,7 +14,14 @@
     "adam-kubert",
     "legion",
     "marvel",
-    "novye-mutanty"
+    "novye-mutanty",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20120608051106im_/http://spidermedia.ru/assets/images/import_image/644.jpg",
+  "modx_id": 644,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

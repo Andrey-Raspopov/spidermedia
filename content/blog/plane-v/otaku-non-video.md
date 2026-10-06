@@ -1,6 +1,6 @@
 {
   "title": "otaku non video",
-  "date": "2012-03-26T20:00:00+03:00",
+  "date": "2012-03-26T19:00:47+03:00",
   "url": "/blog/plane-v/otaku-non-video/",
   "original_url": "http://spidermedia.ru/blog/plane-v/otaku-non-video",
   "archived": "https://web.archive.org/web/20260209105508/http://spidermedia.ru/blog/plane-v/otaku-non-video",
@@ -8,6 +8,12 @@
     "manga",
     "internety",
     "anime"
+  ],
+  "cover": "https://web.archive.org/web/20260209105508im_/http://spidermedia.ru/assets/images/import_image/6846.jpg",
+  "modx_id": 6846,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

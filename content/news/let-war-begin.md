@@ -1,6 +1,6 @@
 {
   "title": "Let the war begin!",
-  "date": "2013-07-18T03:58:00+03:00",
+  "date": "2013-07-18T02:58:27+03:00",
   "url": "/news/let-war-begin/",
   "original_url": "http://spidermedia.ru/news/let-war-begin",
   "archived": "https://web.archive.org/web/20260117225116/http://spidermedia.ru/news/let-war-begin",
@@ -9,6 +9,12 @@
     "jim-lee",
     "dc-comics",
     "geoff-johns"
+  ],
+  "cover": "https://web.archive.org/web/20150326160903im_/http://spidermedia.ru/assets/images/import_image/7353.jpg",
+  "modx_id": 7353,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

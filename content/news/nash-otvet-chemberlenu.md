@@ -1,11 +1,17 @@
 {
   "title": "Наш ответ Чемберлену",
-  "date": "2012-02-13T22:56:00+03:00",
+  "date": "2012-02-13T21:56:34+03:00",
   "url": "/news/nash-otvet-chemberlenu/",
   "original_url": "http://spidermedia.ru/news/nash-otvet-chemberlenu",
   "archived": "https://web.archive.org/web/20241009222043/http://spidermedia.ru/news/nash-otvet-chemberlenu",
   "tags": [
     "spidermedia"
+  ],
+  "cover": "https://web.archive.org/web/20150326193559im_/http://spidermedia.ru/assets/images/import_image/6782.jpg",
+  "modx_id": 6782,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -8,6 +8,12 @@
     "hellboymedia",
     "mnenie"
   ],
+  "cover": "https://web.archive.org/web/20160505093717im_/http://spidermedia.ru/assets/images/hellboymedia/regular/22-joe-golem-the-rat-catcher/joe-golem-the-rat-catcher-cover.jpg",
+  "modx_id": 100952,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

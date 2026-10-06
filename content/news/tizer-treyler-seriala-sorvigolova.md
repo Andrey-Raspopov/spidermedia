@@ -1,12 +1,18 @@
 {
   "title": "Тизер-трейлер сериала «Сорвиголова»",
-  "date": "2015-02-04T17:41:00+03:00",
+  "date": "2015-02-04T17:41:23+03:00",
   "url": "/news/tizer-treyler-seriala-sorvigolova/",
   "original_url": "https://spidermedia.ru/news/tizer-treyler-seriala-sorvigolova",
   "archived": "https://web.archive.org/web/20250327223709/https://spidermedia.ru/news/tizer-treyler-seriala-sorvigolova",
   "tags": [
     "marvel",
     "daredevil"
+  ],
+  "cover": "https://web.archive.org/web/20160611163338im_/http://spidermedia.ru/assets/images/tv/marvel/daredevil/marvel-netflix-daredevil-poster.jpg",
+  "modx_id": 8585,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

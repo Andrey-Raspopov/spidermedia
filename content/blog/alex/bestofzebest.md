@@ -1,13 +1,22 @@
 {
   "title": "Бестофзебест",
-  "date": "2009-10-30T13:15:00+03:00",
+  "date": "2009-10-30T13:15:05+03:00",
   "url": "/blog/alex/bestofzebest/",
+  "aliases": [
+    "/node/2038/"
+  ],
   "original_url": "https://spidermedia.ru/blog/alex/bestofzebest",
   "archived": "https://web.archive.org/web/20260313103022/https://spidermedia.ru/blog/alex/bestofzebest",
   "tags": [
     "wolverine",
     "joker",
     "empire"
+  ],
+  "cover": "https://web.archive.org/web/20260313103022im_/http://spidermedia.ru/assets/images/import_image/2038.jpg",
+  "modx_id": 2038,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

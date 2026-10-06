@@ -1,7 +1,10 @@
 {
   "title": "Wolverine is back!",
-  "date": "2009-05-08T08:23:00+03:00",
+  "date": "2009-05-08T07:23:22+03:00",
   "url": "/news/wolverine-back/",
+  "aliases": [
+    "/node/1128/"
+  ],
   "original_url": "http://spidermedia.ru/news/wolverine-back",
   "archived": "https://web.archive.org/web/20120608160105/http://spidermedia.ru/news/wolverine-back",
   "tags": [
@@ -10,6 +13,12 @@
     "kino",
     "rosomaha",
     "hyu-dzhekman"
+  ],
+  "cover": "https://web.archive.org/web/20120608160105im_/http://spidermedia.ru/assets/images/import_image/1128.jpg",
+  "modx_id": 1128,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

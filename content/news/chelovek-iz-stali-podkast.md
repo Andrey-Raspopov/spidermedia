@@ -1,6 +1,6 @@
 {
   "title": "\"Человек из стали\": Подкаст",
-  "date": "2013-06-27T19:40:00+03:00",
+  "date": "2013-06-27T18:40:34+03:00",
   "url": "/news/chelovek-iz-stali-podkast/",
   "original_url": "http://spidermedia.ru/news/chelovek-iz-stali-podkast",
   "archived": "https://web.archive.org/web/20250618112446/http://spidermedia.ru/news/chelovek-iz-stali-podkast",
@@ -8,6 +8,12 @@
     "superman",
     "devid-gojer",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20250618112446im_/http://spidermedia.ru/assets/images/import_image/7307.png",
+  "modx_id": 7307,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

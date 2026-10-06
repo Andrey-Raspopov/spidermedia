@@ -11,6 +11,12 @@
     "scott-pilgrim",
     "recenziya"
   ],
+  "cover": "https://web.archive.org/web/20150315195056im_/http://spidermedia.ru/assets/images/reviews/img_20150311_104529.jpg",
+  "modx_id": 100062,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

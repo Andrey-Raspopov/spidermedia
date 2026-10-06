@@ -1,6 +1,6 @@
 {
   "title": "Официально: Джейсон Момоа — Аквамен",
-  "date": "2014-06-17T03:24:00+03:00",
+  "date": "2014-06-17T02:24:04+03:00",
   "url": "/news/oficialno-dzheyson-momoa-akvamen/",
   "original_url": "https://spidermedia.ru/news/oficialno-dzheyson-momoa-akvamen",
   "archived": "https://web.archive.org/web/20250214233102/https://spidermedia.ru/news/oficialno-dzheyson-momoa-akvamen",
@@ -8,6 +8,12 @@
     "kasting",
     "aquaman",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20250214233102im_/http://spidermedia.ru/assets/images/import_image/7818.jpg",
+  "modx_id": 7818,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

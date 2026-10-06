@@ -9,6 +9,12 @@
     "marvel",
     "kasting"
   ],
+  "cover": "https://web.archive.org/web/20260307063926im_/http://spidermedia.ru/assets/images/youtube/9wEnb9yIoes.jpg",
+  "modx_id": 100551,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

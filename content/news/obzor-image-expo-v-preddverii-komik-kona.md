@@ -1,12 +1,18 @@
 {
   "title": "Обзор Image Expo в преддверии Комик-Кона",
-  "date": "2014-07-24T17:34:00+03:00",
+  "date": "2014-07-24T16:34:29+03:00",
   "url": "/news/obzor-image-expo-v-preddverii-komik-kona/",
   "original_url": "http://spidermedia.ru/news/obzor-image-expo-v-preddverii-komik-kona",
   "archived": "https://web.archive.org/web/20250618124323/http://spidermedia.ru/news/obzor-image-expo-v-preddverii-komik-kona",
   "tags": [
     "image-comics",
     "image-expo"
+  ],
+  "cover": "https://web.archive.org/web/20150424123143im_/http://spidermedia.ru/assets/images/import_image/7920.gif",
+  "modx_id": 7920,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

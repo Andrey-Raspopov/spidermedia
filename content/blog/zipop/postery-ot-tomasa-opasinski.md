@@ -1,6 +1,6 @@
 {
   "title": "Постеры от Томаса Опасински",
-  "date": "2010-11-27T22:01:00+03:00",
+  "date": "2010-11-27T21:01:51+03:00",
   "url": "/blog/zipop/postery-ot-tomasa-opasinski/",
   "original_url": "http://spidermedia.ru/blog/zipop/postery-ot-tomasa-opasinski",
   "archived": "https://web.archive.org/web/20120608224917/http://spidermedia.ru/blog/zipop/postery-ot-tomasa-opasinski",
@@ -8,6 +8,12 @@
     "dizayn",
     "kino",
     "postery"
+  ],
+  "cover": "https://web.archive.org/web/20120608224917im_/http://spidermedia.ru/assets/images/import_image/3085.jpg",
+  "modx_id": 3085,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

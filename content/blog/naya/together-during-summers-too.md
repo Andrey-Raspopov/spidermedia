@@ -1,6 +1,6 @@
 {
   "title": "Together During Summers, Too!",
-  "date": "2009-03-31T20:55:00+03:00",
+  "date": "2009-03-31T19:55:11+03:00",
   "url": "/blog/naya/together-during-summers-too/",
   "original_url": "http://spidermedia.ru/blog/naya/together-during-summers-too",
   "archived": "https://web.archive.org/web/20120607132549/http://spidermedia.ru/blog/naya/together-during-summers-too",
@@ -9,6 +9,12 @@
     "one-shot",
     "shoujo",
     "skachat"
+  ],
+  "cover": "https://web.archive.org/web/20120607132549im_/http://spidermedia.ru/assets/images/import_image/817.jpg",
+  "modx_id": 817,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

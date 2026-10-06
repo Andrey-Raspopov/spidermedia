@@ -7,6 +7,12 @@
   "tags": [
     "manga"
   ],
+  "cover": "https://web.archive.org/web/20241228111334im_/http://spidermedia.ru/assets/images/manga/yegrinna/1.jpg",
+  "modx_id": 100537,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

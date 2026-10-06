@@ -1,7 +1,10 @@
 {
   "title": "Spider-Man: Декабрь 2010",
-  "date": "2010-09-22T20:33:00+03:00",
+  "date": "2010-09-22T19:33:18+03:00",
   "url": "/news/spider-man-dekabr-2010/",
+  "aliases": [
+    "/node/2934/"
+  ],
   "original_url": "http://spidermedia.ru/news/spider-man-dekabr-2010",
   "archived": "https://web.archive.org/web/20120610213906/http://spidermedia.ru/news/spider-man-dekabr-2010",
   "tags": [
@@ -10,7 +13,14 @@
     "art-0",
     "komiksy",
     "oblozhki",
-    "chelovek-pauk"
+    "chelovek-pauk",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20120610213906im_/http://spidermedia.ru/assets/images/import_image/2934.png",
+  "modx_id": 2934,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

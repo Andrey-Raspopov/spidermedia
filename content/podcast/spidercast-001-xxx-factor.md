@@ -1,11 +1,19 @@
 {
   "title": "SPIDERCAST 001: XXX-FACTOR",
-  "date": "2012-02-21T01:03:00+03:00",
+  "date": "2012-02-21T00:03:12+03:00",
   "url": "/podcast/spidercast-001-xxx-factor/",
   "original_url": "https://spidermedia.ru/podcast/spidercast-001-xxx-factor",
   "archived": "https://web.archive.org/web/20260208202754/https://spidermedia.ru/podcast/spidercast-001-xxx-factor",
   "tags": [
     "spidercast"
+  ],
+  "cover": "https://web.archive.org/web/20150326063408im_/http://spidermedia.ru/misc/files/podcast/covers/roundtable_1.png",
+  "podcast_audio": "http://spidermedia.podster.fm/4/download/audio.mp3",
+  "podcast_length": "1:54:05",
+  "modx_id": 6805,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

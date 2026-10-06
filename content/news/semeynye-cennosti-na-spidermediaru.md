@@ -1,11 +1,17 @@
 {
   "title": "Семейные ценности на Spidermedia.RU",
-  "date": "2014-08-12T13:47:00+03:00",
+  "date": "2014-08-12T12:47:51+03:00",
   "url": "/news/semeynye-cennosti-na-spidermediaru/",
   "original_url": "http://spidermedia.ru/news/semeynye-cennosti-na-spidermediaru",
   "archived": "https://web.archive.org/web/20210125225435/http://spidermedia.ru/news/semeynye-cennosti-na-spidermediaru",
   "tags": [
     "dorogaya-redakciya"
+  ],
+  "cover": "https://web.archive.org/web/20210125225435im_/http://spidermedia.ru/assets/images/import_image/7983.jpg",
+  "modx_id": 7983,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

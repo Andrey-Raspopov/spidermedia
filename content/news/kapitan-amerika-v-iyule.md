@@ -1,7 +1,10 @@
 {
   "title": "Капитан Америка... в июле?",
-  "date": "2009-04-08T14:15:00+03:00",
+  "date": "2009-04-08T13:15:04+03:00",
   "url": "/news/kapitan-amerika-v-iyule/",
+  "aliases": [
+    "/node/885/"
+  ],
   "original_url": "http://spidermedia.ru/news/kapitan-amerika-v-iyule",
   "archived": "https://web.archive.org/web/20120607180647/http://spidermedia.ru/news/kapitan-amerika-v-iyule",
   "tags": [
@@ -10,7 +13,13 @@
     "kino",
     "komiksy",
     "marvel",
-    "ugadayka"
+    "ugadayka",
+    "ugadajka"
+  ],
+  "modx_id": 885,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

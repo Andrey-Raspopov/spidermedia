@@ -1,6 +1,6 @@
 {
   "title": "Трейлеры \"G.I. Joe: Retaliation\" и \"Men In Black III\"",
-  "date": "2011-12-13T19:12:00+03:00",
+  "date": "2011-12-13T18:12:59+03:00",
   "url": "/news/treylery-gi-joe-retaliation-i-men-black-iii/",
   "original_url": "https://spidermedia.ru/news/treylery-gi-joe-retaliation-i-men-black-iii",
   "archived": "https://web.archive.org/web/20250717193628/https://spidermedia.ru/news/treylery-gi-joe-retaliation-i-men-black-iii",
@@ -8,6 +8,12 @@
     "trejlery",
     "men-in-black",
     "gi-joe"
+  ],
+  "cover": "https://web.archive.org/web/20250717193628im_/http://spidermedia.ru/assets/images/import_image/6732.jpg",
+  "modx_id": 6732,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

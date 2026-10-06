@@ -5,13 +5,18 @@
   "original_url": "http://spidermedia.ru/comics/all-things-valiant-40-week-13",
   "archived": "https://web.archive.org/web/20260125064202/http://spidermedia.ru/comics/all-things-valiant-40-week-13",
   "tags": [
-    "valiant-entertainment"
+    "valiant-entertainment",
+    "all-things-valiant"
+  ],
+  "cover": "https://web.archive.org/web/20260125064202im_/http://spidermedia.ru/assets/images/valiant/images/atv40/atv-40-13.jpg",
+  "modx_id": 101032,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
-
-[![](http://spidermedia.ru/assets/cache/images/valiant/images/atv40/622x-atv-40-13.2e9.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv40/atv-40-13.jpg)
 
 **А**: Ты ведь понимаешь, что после этого тебя выгонят со Spidermedia?
 **Д**: Наверняка.
@@ -21,7 +26,7 @@
 **Д:** Ну, он не раздражает как ЧиС и там иногда хороший визуал.
 **А:** Ааа… Welcome back, my friend!
 
-**[Новости](./#news) ****•** [Анонсы](./#solicitations)** **•** [Рецензии](./#reviews)**
+**[Новости](#news) ****•** [Анонсы](#solicitations)** **•** [Рецензии](#reviews)**
 
 В этом выпуске бушуют чувства. Мы тонем в фейспалме разочарования, искренне любя хорошие комиксы, и хором скандируем: «Вендитти, king is dead, go home». А также триумфальное возвращение Андрея Смагина!
 
@@ -34,7 +39,7 @@
 #### X-O Manowar закончится на 50 номере
 В сентябре выйдет последний – пятидесятый – выпуск серии X-O Manowar. В финальном сюжете комикса Long Live the King Арика из Дакии сразится с The Torment, древними могущественными существами из легенд расы Vine. Роберт Вендитти объединится с Джо Беннеттом и Роберто Де Ла Торре. Чтобы отметить эту веху в истории тайтла, Valiant в июне запустит «Подарочный обратный отсчет». Начиная с X-O Manowar #47, дающего старт Long Live the King, каждый номер арка будет содержать один из 50-ти микро-принтов размером ~10 на ~15 см (4-by-6 inch) с иллюстрациями X-O Manowar'а. Авторы рисунков пока не объявлены. Также в некоторые выпуски будут вложены оригинальные карандашные(?) иллюстрации. И все это без повышения цены каждой копии комикса!
 
-[![](http://spidermedia.ru/assets/images/valiant/images/atv40/xo-050-teaser-final-suayan-13704.jpg)](./)
+![](https://web.archive.org/web/20260125064202im_/http://spidermedia.ru/assets/images/valiant/images/atv40/xo-050-teaser-final-suayan-13704.jpg)
 
 ---
 
@@ -44,23 +49,7 @@
 
 #### Bloodshot Reborn #14
 
-[![Томас Джиорелло](http://spidermedia.ru/assets/images/valiant/images/atv40/bsrb_014_cover-a_giorello1.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv40/bsrb_014_cover-a_giorello1.jpg "Томас Джиорелло")
-
-[![Бен Оливер](http://spidermedia.ru/assets/images/valiant/images/atv40/bsrb_014_cover-b_oliver1.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv40/bsrb_014_cover-b_oliver1.jpg "Бен Оливер")
-
-[![Кано](http://spidermedia.ru/assets/images/valiant/images/atv40/bsrb_014_cover-c_kano1.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv40/bsrb_014_cover-c_kano1.jpg "Кано")
-
-[![Стивен Сеговия](http://spidermedia.ru/assets/images/valiant/images/atv40/bsrb_014_cover-d_segovia1.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv40/bsrb_014_cover-d_segovia1.jpg "Стивен Сеговия")
-
-[![Клэйтон Хенри](http://spidermedia.ru/assets/images/valiant/images/atv40/bsrb_014_variant_cgc-henry.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv40/bsrb_014_variant_cgc-henry.jpg "Клэйтон Хенри")
-
-[![Райан Боденхейм](http://spidermedia.ru/assets/images/valiant/images/atv40/bsrb_014_variant_bodenheim.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv40/bsrb_014_variant_bodenheim.jpg "Райан Боденхейм")
-
-[![Дэрик Робертсон](http://spidermedia.ru/assets/images/valiant/images/atv40/bsrb_014_variant_robertson.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv40/bsrb_014_variant_robertson.jpg "Дэрик Робертсон")
-
-[![Томас Джиорелло](http://spidermedia.ru/assets/images/valiant/images/atv40/bsrb_014_variant_bw-sketch.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv40/bsrb_014_variant_bw-sketch.jpg "Томас Джиорелло")
-
-[![Джефф Лемир](http://spidermedia.ru/assets/images/valiant/images/atv40/bsrb_014_variant_linewide-lemire.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv40/bsrb_014_variant_linewide-lemire.jpg "Джефф Лемир")
+![](https://web.archive.org/web/20260125064202im_/http://spidermedia.ru/assets/images/valiant/images/atv40/bsrb_014_cover-a_giorello1.jpg)![](https://web.archive.org/web/20260125064202im_/http://spidermedia.ru/assets/images/valiant/images/atv40/bsrb_014_cover-b_oliver1.jpg)![](https://web.archive.org/web/20260125064202im_/http://spidermedia.ru/assets/images/valiant/images/atv40/bsrb_014_cover-c_kano1.jpg)![](https://web.archive.org/web/20260125064202im_/http://spidermedia.ru/assets/images/valiant/images/atv40/bsrb_014_cover-d_segovia1.jpg)![](https://web.archive.org/web/20260125064202im_/http://spidermedia.ru/assets/images/valiant/images/atv40/bsrb_014_variant_cgc-henry.jpg)![](https://web.archive.org/web/20260125064202im_/http://spidermedia.ru/assets/images/valiant/images/atv40/bsrb_014_variant_bodenheim.jpg)![](https://web.archive.org/web/20260125064202im_/http://spidermedia.ru/assets/images/valiant/images/atv40/bsrb_014_variant_robertson.jpg)![](https://web.archive.org/web/20260125064202im_/http://spidermedia.ru/assets/images/valiant/images/atv40/bsrb_014_variant_bw-sketch.jpg)![](https://web.archive.org/web/20260125064202im_/http://spidermedia.ru/assets/images/valiant/images/atv40/bsrb_014_variant_linewide-lemire.jpg)
 
 Сценарий: Джефф Лемир
 Рисунок: Мико Суаян
@@ -68,19 +57,7 @@
 Выброшенный на таинственный необитаемый остров, не имея ни малейшего понятия, как он там оказался, Bloodshot борется за свою жизнь. Осматриваясь, он понимает, что это вовсе не тропический рай. Рэя окружают списанные в утиль участники той же военной программы — Bloodshot Второй мировой, Bloodshot времен Холодной войны, Bloodshot из Вьетнама и остальные результаты былых экспериментов. Bloodshot узнает, что Проект Восходящий Дух посылает старых солдат на смерть, чтобы затем они возрождались и вновь умирали. Сможет ли группа закаленных убийц доверять друг другу достаточно долго, чтобы пережить опасности, поджидающие их в джунглях, и раскрыть секрет, что таится в сердце острова? И что это за зловещая сила под названием Deathmate, что преследует их на каждом шагу, какова ее связь с прошлым Рэя Гаррисона?
 
 #### X-O Manowar #47
-[![Кано](http://spidermedia.ru/assets/images/valiant/images/atv40/xo_047_cover-a_kano.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv40/xo_047_cover-a_kano.jpg "Кано")
-
-[![Фил Хименез](http://spidermedia.ru/assets/images/valiant/images/atv40/xo_047_cover-b_jimenez.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv40/xo_047_cover-b_jimenez.jpg "Фил Хименез")
-
-[![Хой Фам](http://spidermedia.ru/assets/images/valiant/images/atv40/xo_047_cover-c_pham.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv40/xo_047_cover-c_pham.jpg "Хой Фам")
-
-[![Клэйтон Хенри](http://spidermedia.ru/assets/images/valiant/images/atv40/xo_047_variant_cgc-henry.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv40/xo_047_variant_cgc-henry.jpg "Клэйтон Хенри")
-
-[![Рафа Сандовал](http://spidermedia.ru/assets/images/valiant/images/atv40/xo_047_variant_sandoval.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv40/xo_047_variant_sandoval.jpg "Рафа Сандовал")
-
-[![Дэвид Лафуэнте](http://spidermedia.ru/assets/images/valiant/images/atv40/xo_047_variant_lafuente.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv40/xo_047_variant_lafuente.jpg "Дэвид Лафуэнте")
-
-[![Джефф Лемир](http://spidermedia.ru/assets/images/valiant/images/atv40/xo_047_variant_lemire.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv40/xo_047_variant_lemire.jpg "Джефф Лемир")
+![](https://web.archive.org/web/20260125064202im_/http://spidermedia.ru/assets/images/valiant/images/atv40/xo_047_cover-a_kano.jpg)![](https://web.archive.org/web/20260125064202im_/http://spidermedia.ru/assets/images/valiant/images/atv40/xo_047_cover-b_jimenez.jpg)![](https://web.archive.org/web/20260125064202im_/http://spidermedia.ru/assets/images/valiant/images/atv40/xo_047_cover-c_pham.jpg)![](https://web.archive.org/web/20260125064202im_/http://spidermedia.ru/assets/images/valiant/images/atv40/xo_047_variant_cgc-henry.jpg)![](https://web.archive.org/web/20260125064202im_/http://spidermedia.ru/assets/images/valiant/images/atv40/xo_047_variant_sandoval.jpg)![](https://web.archive.org/web/20260125064202im_/http://spidermedia.ru/assets/images/valiant/images/atv40/xo_047_variant_lafuente.jpg)![](https://web.archive.org/web/20260125064202im_/http://spidermedia.ru/assets/images/valiant/images/atv40/xo_047_variant_lemire.jpg)
 
 Сценарий: Роберт Вендитти
 Рисунок: Джо Беннетт, Роберто Де Ла Торре
@@ -91,21 +68,7 @@
 
 **4001 A.D. #2**
 
-[![Клэйтон Крэйн](http://spidermedia.ru/assets/images/valiant/images/atv40/4001_002_cover-a_crain.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv40/4001_002_cover-a_crain.jpg "Клэйтон Крэйн")
-
-[![Тула Лотей](http://spidermedia.ru/assets/images/valiant/images/atv40/4001_002_cover-b_lotay.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv40/4001_002_cover-b_lotay.jpg "Тула Лотей")
-
-[![Райан Боденхейм](http://spidermedia.ru/assets/images/valiant/images/atv40/4001_002_cover-c_bodenheim.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv40/4001_002_cover-c_bodenheim.jpg "Райан Боденхейм")
-
-[![Филип Тан](http://spidermedia.ru/assets/images/valiant/images/atv40/4001_002_cover-d_tan.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv40/4001_002_cover-d_tan.jpg "Филип Тан")
-
-[![Клэйтон Крэйн](http://spidermedia.ru/assets/images/valiant/images/atv40/4001_002_variant_design-crain.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv40/4001_002_variant_design-crain.jpg "Клэйтон Крэйн")
-
-[![Райан Ли](http://spidermedia.ru/assets/images/valiant/images/atv40/4001_002_variant_mega-lee.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv40/4001_002_variant_mega-lee.jpg "Райан Ли")
-
-[![Райан Сук](http://spidermedia.ru/assets/images/valiant/images/atv40/4001_002_variant_sook.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv40/4001_002_variant_sook.jpg "Райан Сук")
-
-[![Райан Сук](http://spidermedia.ru/assets/images/valiant/images/atv40/4001_002_variant_bw-sook.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv40/4001_002_variant_bw-sook.jpg "Райан Сук")
+![](https://web.archive.org/web/20260125064202im_/http://spidermedia.ru/assets/images/valiant/images/atv40/4001_002_cover-a_crain.jpg)![](https://web.archive.org/web/20260125064202im_/http://spidermedia.ru/assets/images/valiant/images/atv40/4001_002_cover-b_lotay.jpg)![](https://web.archive.org/web/20260125064202im_/http://spidermedia.ru/assets/images/valiant/images/atv40/4001_002_cover-c_bodenheim.jpg)![](https://web.archive.org/web/20260125064202im_/http://spidermedia.ru/assets/images/valiant/images/atv40/4001_002_cover-d_tan.jpg)![](https://web.archive.org/web/20260125064202im_/http://spidermedia.ru/assets/images/valiant/images/atv40/4001_002_variant_design-crain.jpg)![](https://web.archive.org/web/20260125064202im_/http://spidermedia.ru/assets/images/valiant/images/atv40/4001_002_variant_mega-lee.jpg)![](https://web.archive.org/web/20260125064202im_/http://spidermedia.ru/assets/images/valiant/images/atv40/4001_002_variant_sook.jpg)![](https://web.archive.org/web/20260125064202im_/http://spidermedia.ru/assets/images/valiant/images/atv40/4001_002_variant_bw-sook.jpg)
 
 Сценарий: Мэтт Киндт
 Рисунок: Клэйтон Крэйн
@@ -114,10 +77,7 @@
 
 **Rai #14**
 
-[![Дэвид Мэк](http://spidermedia.ru/assets/images/valiant/images/atv40/rai_014_cover-a_mack.jpg)](./ "Дэвид Мэк")
-[![Андрес Гуинальдо](http://spidermedia.ru/assets/images/valiant/images/atv40/rai_014_cover-b_guinaldo.jpg)](./ "Андрес Гуинальдо")
-[![Андрес Гуинальдо](http://spidermedia.ru/assets/images/valiant/images/atv40/rai_014_variant_design-guinaldo.jpg)](./ "Андрес Гуинальдо")
-[![Райан Ли](http://spidermedia.ru/assets/images/valiant/images/atv40/rai_014_variant_mega-lee.jpg)](./ "Райан Ли")
+![](https://web.archive.org/web/20260125064202im_/http://spidermedia.ru/assets/images/valiant/images/atv40/rai_014_cover-a_mack.jpg)![](https://web.archive.org/web/20260125064202im_/http://spidermedia.ru/assets/images/valiant/images/atv40/rai_014_cover-b_guinaldo.jpg)![](https://web.archive.org/web/20260125064202im_/http://spidermedia.ru/assets/images/valiant/images/atv40/rai_014_variant_design-guinaldo.jpg)![](https://web.archive.org/web/20260125064202im_/http://spidermedia.ru/assets/images/valiant/images/atv40/rai_014_variant_mega-lee.jpg)
 
 Сценарий: Мэтт Киндт
 Рисунок: КАФУ
@@ -125,10 +85,7 @@
 Станьте свидетелями жесткого основания космической утопии Отца — Новой Японии. И вместе с тем рождения ее защитников, что носят имя Рай. Хроники 4001 A.D. поведают о многих воинах, рожденных и воспитанных Отцом, чтобы хранить мир любой ценой: узнайте об истории Раев от запуска Новой Японии в космос до ее крушения на Землю.
 
 #### 4001 AD: Bloodshot #1
-[![Райан Ли](http://spidermedia.ru/assets/images/valiant/images/atv40/4001-blood_001_cover-a_lee.jpg)](./ "Райан Ли")
-[![КАФУ](http://spidermedia.ru/assets/images/valiant/images/atv40/4001-blood_cover-b_cafu.jpg)](./ "КАФУ")
-[![Райан Ли](http://spidermedia.ru/assets/images/valiant/images/atv40/4001-blood_001_variant_design-lee.jpg)](./ "Райан Ли")
-[![Райан Ли](http://spidermedia.ru/assets/images/valiant/images/atv40/4001-blood_001_variant_mega-lee.jpg)](./ "Райан Ли")
+![](https://web.archive.org/web/20260125064202im_/http://spidermedia.ru/assets/images/valiant/images/atv40/4001-blood_001_cover-a_lee.jpg)![](https://web.archive.org/web/20260125064202im_/http://spidermedia.ru/assets/images/valiant/images/atv40/4001-blood_cover-b_cafu.jpg)![](https://web.archive.org/web/20260125064202im_/http://spidermedia.ru/assets/images/valiant/images/atv40/4001-blood_001_variant_design-lee.jpg)![](https://web.archive.org/web/20260125064202im_/http://spidermedia.ru/assets/images/valiant/images/atv40/4001-blood_001_variant_mega-lee.jpg)
 
 Сценарий: Джефф Лемир
 Рисунок: Дуг Брэйтвэйт
@@ -136,11 +93,7 @@
 Много веков назад Bloodshot звался Рэем Гаррисоном. Но в 4001 A.D. человека с таким именем больше нет, но наниты, что населяли его кровь, все еще существуют. Со смертью хозяина у микроскопических машин, некогда вызволявших Bloodshot’a из любой перестрелки, залечивающих даже смертельные раны и просчитывающих исход каждой битвы, осталась одна единственная цель. Но что это может быть? И как силы будущего отреагируют, когда печально известный Bloodshot вновь вступит в бой?
 
 #### **Wrath of the Eternal Warrior** #8
-[![Рауль Аллен](http://spidermedia.ru/assets/images/valiant/images/atv40/wrath_008_cover-a_allen.jpg)](./ "Рауль Аллен")
-[![Пере Перез](http://spidermedia.ru/assets/images/valiant/images/atv40/wrath_008_cover-b_perez.jpg)](./ "Пере Перез")
-[![Клэйтон Хенри](http://spidermedia.ru/assets/images/valiant/images/atv40/wrath_008_cover-c_henry.jpg)](./ "Клэйтон Хенри")
-[![Стивен Сеговия](http://spidermedia.ru/assets/images/valiant/images/atv40/wrath_008_variant_segovia.jpg)](./ "Стивен Сеговия")
-[![Бутч Гайс](http://spidermedia.ru/assets/images/valiant/images/atv40/wrath_008_variant_guice.jpg)](./ "Бутч Гайс")
+![](https://web.archive.org/web/20260125064202im_/http://spidermedia.ru/assets/images/valiant/images/atv40/wrath_008_cover-a_allen.jpg)![](https://web.archive.org/web/20260125064202im_/http://spidermedia.ru/assets/images/valiant/images/atv40/wrath_008_cover-b_perez.jpg)![](https://web.archive.org/web/20260125064202im_/http://spidermedia.ru/assets/images/valiant/images/atv40/wrath_008_cover-c_henry.jpg)![](https://web.archive.org/web/20260125064202im_/http://spidermedia.ru/assets/images/valiant/images/atv40/wrath_008_variant_segovia.jpg)![](https://web.archive.org/web/20260125064202im_/http://spidermedia.ru/assets/images/valiant/images/atv40/wrath_008_variant_guice.jpg)
 
 Сценарий: Роберт Вендитти
 Рисунок: Рауль Аллен
@@ -149,11 +102,7 @@
 
 **Divinity II #3**
 
-[![Елена Кевич-Джурджевич](http://spidermedia.ru/assets/images/valiant/images/atv40/divinity2_003_cover-a_djurdjevic.jpg)](./ "Елена Кевич-Джурджевич")
-[![Том Мюллер](http://spidermedia.ru/assets/images/valiant/images/atv40/divinity2_003_cover-b_muller.jpg)](./ "Том Мюллер")
-[![Эндрю Пепой](http://spidermedia.ru/assets/images/valiant/images/atv40/divinity2_003_variant_pepoy.jpg)](./ "Эндрю Пепой")
-[![Кармен Карнеро](http://spidermedia.ru/assets/images/valiant/images/atv40/divinity2_003_variant_canero.jpg)](./ "Кармен Карнеро")
-[![Адам Горэм](http://spidermedia.ru/assets/images/valiant/images/atv40/divinity2_003_variant_gorham.jpg)](./ "Адам Горэм")
+![](https://web.archive.org/web/20260125064202im_/http://spidermedia.ru/assets/images/valiant/images/atv40/divinity2_003_cover-a_djurdjevic.jpg)![](https://web.archive.org/web/20260125064202im_/http://spidermedia.ru/assets/images/valiant/images/atv40/divinity2_003_cover-b_muller.jpg)![](https://web.archive.org/web/20260125064202im_/http://spidermedia.ru/assets/images/valiant/images/atv40/divinity2_003_variant_pepoy.jpg)![](https://web.archive.org/web/20260125064202im_/http://spidermedia.ru/assets/images/valiant/images/atv40/divinity2_003_variant_canero.jpg)![](https://web.archive.org/web/20260125064202im_/http://spidermedia.ru/assets/images/valiant/images/atv40/divinity2_003_variant_gorham.jpg)
 
 Сценарий: Мэтт Киндт
 Рисунок: Трэвор Хэйрсин
@@ -162,17 +111,7 @@
 
 #### A&A #4
 
-[![Дэвид Лафуэнте](http://spidermedia.ru/assets/images/valiant/images/atv40/aa_004_cover-a_lafuente.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv40/aa_004_cover-a_lafuente.jpg "Дэвид Лафуэнте")
-
-[![Кано](http://spidermedia.ru/assets/images/valiant/images/atv40/aa_004_cover-b_kano.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv40/aa_004_cover-b_kano.jpg "Кано")
-
-[![Моника Галлагер](http://spidermedia.ru/assets/images/valiant/images/atv40/aa_004_cover-c_gallagher.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv40/aa_004_cover-c_gallagher.jpg "Моника Галлагер")
-
-[![Рафер Робертс](http://spidermedia.ru/assets/images/valiant/images/atv40/aa_004_variant_roberts.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv40/aa_004_variant_roberts.jpg "Рафер Робертс")
-
-[![Тони Сайлес](http://spidermedia.ru/assets/images/valiant/images/atv40/aa_004_variant_silas.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv40/aa_004_variant_silas.jpg "Тони Сайлес")
-
-[![Дэвид Лафуэнте](http://spidermedia.ru/assets/images/valiant/images/atv40/aa_004_variant_bw-lafuente.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv40/aa_004_variant_bw-lafuente.jpg "Дэвид Лафуэнте")
+![](https://web.archive.org/web/20260125064202im_/http://spidermedia.ru/assets/images/valiant/images/atv40/aa_004_cover-a_lafuente.jpg)![](https://web.archive.org/web/20260125064202im_/http://spidermedia.ru/assets/images/valiant/images/atv40/aa_004_cover-b_kano.jpg)![](https://web.archive.org/web/20260125064202im_/http://spidermedia.ru/assets/images/valiant/images/atv40/aa_004_cover-c_gallagher.jpg)![](https://web.archive.org/web/20260125064202im_/http://spidermedia.ru/assets/images/valiant/images/atv40/aa_004_variant_roberts.jpg)![](https://web.archive.org/web/20260125064202im_/http://spidermedia.ru/assets/images/valiant/images/atv40/aa_004_variant_silas.jpg)![](https://web.archive.org/web/20260125064202im_/http://spidermedia.ru/assets/images/valiant/images/atv40/aa_004_variant_bw-lafuente.jpg)
 
 Сценарий: Рафер Робертс
 Рисунок: Дэвид Лафуэнте
@@ -181,9 +120,7 @@
 
 #### Ninjak #16
 
-[![Майк Чой](http://spidermedia.ru/assets/images/valiant/images/atv40/ninjak_016_cover-a_choi.jpg)](./ "Майк Чой")
-[![Хой Фам](http://spidermedia.ru/assets/images/valiant/images/atv40/ninjak_016_cover-b_pham.jpg)](./ "Хой Фам")
-[![Джеффри Вередж](http://spidermedia.ru/assets/images/valiant/images/atv40/ninjak_016_variant_veregge.jpg)](./ "Джеффри Вередж")
+![](https://web.archive.org/web/20260125064202im_/http://spidermedia.ru/assets/images/valiant/images/atv40/ninjak_016_cover-a_choi.jpg)![](https://web.archive.org/web/20260125064202im_/http://spidermedia.ru/assets/images/valiant/images/atv40/ninjak_016_cover-b_pham.jpg)![](https://web.archive.org/web/20260125064202im_/http://spidermedia.ru/assets/images/valiant/images/atv40/ninjak_016_variant_veregge.jpg)
 
 Сценарий: Мэтт Киндт
 Рисунок: Диего Бернард
@@ -195,3 +132,71 @@
 **ЧТО МЫ ПРОЧИТАЛИ**
 
 ---
+
+a:3:{i:1;a:7:{s:5:"autor";a:3:{i:1;a:2:{i:0;s:16:"Сценарий";i:1;s:61:"Джефф Лемир, Рэй Фоукс, Майкл Фифф";}i:3;a:2:{i:0;s:14:"Рисунок";i:1;s:160:"Кано, Джо Беннетт, Белардино Брабо, Джей Фэбэрес, Рэй Фоукс, Бенджамин Марра, Пол Мэйбери";}i:5;a:2:{i:0;s:8:"Цвет";i:1;s:141:"Кано, Пете Пэнтэзис, Рэй Фоукс, Хосе Вилларрубиа, Бенджамин Марра, Пол Мэйбери";}}s:4:"name";s:28:"Bloodshot Reborn Annual 2016";s:7:"edition";s:2:"#1";s:5:"cover";s:73:"assets/images/valiant/images/atv40/bloodshot-reborn-2016-annual-cover.jpg";s:9:"publisher";s:4:"1249";s:4:"year";s:4:"2016";s:8:"comments";a:1:{i:1;a:4:{s:5:"autor";s:6:"183752";s:4:"text";s:8734:"
+
+Необязательный, но развлекательный, выдержанный в задорном ключе, сам себе на уме, не делает большие ставки, но не пасется со всеми на общей полянке, не дает взаймы, но и сам никому не должен, вежлив к старым знакомым, к остальным — осторожен. Довольно уставший, как слизняк-тусовочник из «Футурамы», но хлеб отрабатывает.
+
+[[gallery? &id=`692` &type=`1` &rowHeight=`150` &maxRowHeight=`100%` &captions=`false` &fixedHeight=`false` &lastRow=`justify` &margins=`2`]]
+
+Это был текст моей лучшей рецензии за годы. Спасибо. А теперь по протоколу.
+
+В первой же истории сценарий обращается к коллективно любимому сюжету про огромного убийцу в маске из «Пятницы 13-го», который столько лет транслирует через себя ненависть ко всем, кто раньше тебя трахнулся, выкурил первый скрученный джойнт, откупорил тару с крепленым и просто получает от жизни удовольствие. Джейсон Вурхез является единственной фикшн-отдушиной всех социально дезинтегрированных людей, что всего лишь желают немножко боли, мучений и смерти в перегное собственных внутренностей — всех тех, кто живет счастливей, чем ты. Во всяком случае, публично.
+
+По иронии, самого Бладшота сначала местные путают с лесным потрошителем и начинают разжигать костры да точить вилы, но вскоре появится сам злодей, и персонажи станут выяснять, кто доживет до финальных панелек. Сюжет под конец даст небольшой твист и очень круто срифмуется с одной из последующих историй выпуска.
+
+Буквально минуя сюжет про происходящий ад в редакторской комнате, где творческий коллектив издания решает, что делать с халтурщиком Лемиром, слабым сценарием и художественным бессилием. Подмигнув большой двойке, сходятся на том, что все неудачи спасет перезапуск серий и, хохоча, укатываются со страниц.
+
+А дальше, по ощущениям, происходит примерно следующее: серия про Койота и Дорожного Бегуна прерывается на сцену из «Списка Шиндлера», где евреи рвут себе плоскогубцами золотые зубы, скидываясь на побег директора завода.
+
+Новая история закольцовывается с первым сюжетом и практически вытесняет из купе остальных участников вечера.
+
+История жертвы правительственной военной секретной программы Джейкоба — самая сильная в выпуске. Она мрачная, интересная, основанная на внутреннем монологе сбившегося с пути солдата, что пытается сохранить частичку своей души, отрывая от себя куски тела. Буквально. Дело в том, что вживленные в его тело наниты делают несчастного практически бессмертным, но пагубно влияют на сознание, стирая из памяти образы утраченной семьи. Это комиксы, son. That’s what they do.
+
+Непринужденный мистический детектив с ноткой «Скуби Ду» в начале берет за руки психоделический ужас в убранстве Дэйва МакКина. Художественная часть комикса в этой истории — на высоте. Она украшает номер своей холодной палитрой и абстрактной картинкой, которая тут же вызовет в памяти несчастную девушку с лопнувшей глазницей под нажимом грифеля карандаша Джокера в открывающей сцене Аркам Асайлум.
+
+Последняя история сплетена духом, буквой и графикой с временами выцветших кинескопов телевизора «Горизонт», который шестью оттенками зеленого и сиреневого пытался передать магию пиксельного искусства игры Double Dragon. Финальная история тут очень походит на финальную сцену прямиком из восьмибитных боевиков, где открываются порталы, из них вываливаются готические телки в ботфортах, с остроконечным декольте и двуручным мечом. Главный герой гонит пинком всех обратно в пространственную дыру и сносит там башню самому большому из монстров. Все это выглядит вполне так же забавно, как и звучит, пусть и без доли смысла.
+
+Этот ежегодник можно прочитать без лишнего стеснения и получить свое удовольствие. Сюжет с двойным дном стал главной неожиданностью номера и его главным украшением. Рисунок в номере стилистически разнообразен. Ожидания обманываются в лучшую сторону и общее впечатление от прочитанного остается в остатке приятным. Главная задача, с которой справились авторы — собрать под обложкой непринужденную атмосферу настроения, что может случится «всякое дерьмо». Конечно, никто не станет спорить, принадлежит ли данный комикс галереям или кофейным столикам, но на самом деле никому из нас не будет стыдно кинуть на блюдце у кассового аппарата шесть соток за первый том «Отряда самоубийц», потому что мы любим комиксы и «это то, что мы делаем».
+
+**![](https://web.archive.org/web/20160611215702im_/http://spidermedia.ru/assets/images/valiant/images/1.png) ПРОПОРЦИОНАЛЬНОСТЬ**
+
+";s:8:"mjdzText";s:0:"";s:10:"conclusion";s:0:"";}}}i:2;a:7:{s:5:"autor";a:3:{i:1;a:2:{i:0;s:16:"Сценарий";i:1;s:26:"Джен Ван Метер";}i:3;a:2:{i:0;s:14:"Рисунок";i:1;s:64:"Роберто Де Ла Торре, Эл Баррионуэво";}i:5;a:2:{i:0;s:8:"Цвет";i:1;s:21:"Дэвид Барон";}}s:4:"name";s:45:"The Death-Defying Doctor Mirage: Second Lives";s:7:"edition";s:2:"#4";s:5:"cover";s:88:"assets/images/valiant/images/atv40/the-death-defying-dr.-mirage-second-lives-4-cover.jpg";s:9:"publisher";s:4:"1249";s:4:"year";s:4:"2016";s:8:"comments";a:1:{i:1;a:4:{s:5:"autor";s:6:"183731";s:4:"text";s:6765:"
+
+Что вы ожидаете от истории Доктора Мираж? Мистического детектива или любовной драмы? В прошлой мини-серии первую скрипку играли приключения, а в этой – отношения. Это история о любви. Удивительно другое – каких масштабов эта романтическая история.
+
+Главная звезда любого комикса про волшебников – магия. И здесь она изображена очень изящно – это не подкрашенные энергетические лучи, а элитарное искусство. Сам мистический мир комикса невидим, его призраки безгласные/бессловесные и бестелесные, а магия больше напоминает науку, требующую ингредиентов и ритуалов. К той стороне смогут прикоснуться лишь избранные или те, кто посвятил немало сил изучению высокого искусства. И тут в эту идиллию вламывается фигляр Денис ДеУолт, для которого магия — орудие [власти](http://spidermedia.ru/assets/images/valiant/files/atv40/the-death-defying-dr.-mirage-second-lives-4-example-03.jpg) и инструмент [самовосхваления](http://spidermedia.ru/assets/images/valiant/files/atv40/the-death-defying-dr.-mirage-second-lives-4-example-02.jpg). Ему некогда тратить годы на постижения чародейства, он обладает им сразу, без посредников, беря нахальным приступом ярости залы мистерий. Естественно, ему противостоит Хван, зачерпнувший из океана таинства самую [толику](http://spidermedia.ru/assets/images/valiant/files/atv40/the-death-defying-dr.-mirage-second-lives-4-example-00.jpg) древнейшей ворожбы – магии, предшествующей словам, магии понимания, магии любви.
+
+[[gallery? &id=`690` &type=`1` &rowHeight=`150` &maxRowHeight=`100%` &captions=`false` &fixedHeight=`false` &lastRow=`justify` &margins=`2`]]
+
+В первую очередь, в фокусе этой серии чувства. Несокрушимая любовь между супругами Мираж, вот сердце комикса. А титульный злодей и спасение мира факультативны. Сама победа над ДеУолтом была, мягко говоря, разочаровывающей. У героев был план и он сработал почти идеально, the end. Настоящая угроза в невозможности физической близости: Шан видит своего мужа, но не способна утонуть в крепких мужских объятьях, и единственную поддержку, которую может оказать призрак Хвана – это доброе слово. Но для влюбленной женщины одних слов мало и, повторяя подвиг Евы, Шан тянется к запретным знаниям, освобождая ДеУолта. Денис – орудие редакторов, чье заточение в свитке воскрешений не дало столь желанной телесности Хвану, оставив супругов в их драме влюбленного человека и призрака на следующую мини-серию.
+
+И здесь на сцену поднимается враг – Алекс. Молодой актер является самой конкретной опасностью, с которой сталкиваются влюбленные. Он воплощение потерянной телесности Хвана, угроза самому его существу. Если среди живых некто играет роль мистера Миража, то зачем покойному мужу торопиться в мир живых? Зачем тебе, Шан, сгусток эктоплазмы, шепчет враг, когда есть смазливый актеришка, [выглядящий как Хван](http://spidermedia.ru/assets/images/valiant/files/atv40/the-death-defying-dr.-mirage-second-lives-4-example-05.jpg) и схожий с ним [походкой](http://spidermedia.ru/assets/images/valiant/files/atv40/the-death-defying-dr.-mirage-second-lives-4-example-06.jpg)? Эта угрозу реальна, рождена из добрых побуждений, и от неё не отмахнёшься чарами. К чести Шан, она стойко противится идее замены мужа, пусть, пока только в ТВ-шоу. Это искушение миссис Мираж, ее поле брани, так же, как сражение с призрачным колдуном — стезя Хвана. Но борьба идет за нечто большее, чем судьба мира. На кону искренность любви! И супруги Мираж бьются как один против общего врага, в клиффангере слившегося в [гомункула/Франкенштейна фальши/лжи](http://spidermedia.ru/assets/images/valiant/files/atv40/the-death-defying-dr.-mirage-second-lives-4-example-07.jpg). Искусность против искусственности!
+
+Идеалом женского персонажа вселенной Valiant есть и остается Доктор Мираж. Пусть Фейт сколько угодно развлекается в своем Diversity-уголке, вечные истории на то и вечные, что напоминают о вечных истинах – любовь все побеждает. Сказка, скажете вы. Ну и пусть! Зато красивая.
+
+**![](https://web.archive.org/web/20160611215702im_/http://spidermedia.ru/assets/images/valiant/images/1.png) ИСКРЕННОСТЬ**
+
+";s:8:"mjdzText";s:0:"";s:10:"conclusion";s:0:"";}}}i:3;a:7:{s:5:"autor";a:3:{i:1;a:2:{i:0;s:16:"Сценарий";i:1;s:29:"Роберт Вендитти";}i:3;a:2:{i:0;s:14:"Рисунок";i:1;s:23:"Роберт Джилл";}i:5;a:2:{i:0;s:8:"Цвет";i:1;s:27:"Улисес Арреола";}}s:4:"name";s:11:"X-O Manowar";s:7:"edition";s:3:"#45";s:5:"cover";s:60:"assets/images/valiant/images/atv40/x-o-manowar-045-cover.jpg";s:9:"publisher";s:4:"1249";s:4:"year";s:4:"2016";s:8:"comments";a:1:{i:1;a:4:{s:5:"autor";s:6:"183732";s:4:"text";s:6382:"
+
+Известие о скором завершении X-O Manowar заставило меня еще раз прокрутить в голове последний акт серии, что начался год назад в сюжете [Dead Hand](../all-things-valiant-march-2015/#item1). Роберт Вендитти все это время планомерно вел нас к войне людей и Vine (45 номер порождает новый виток конфликта). Я думал, что именно это и станет кульминацией его рана. The Kill List подольет масла в огонь, и мирное сосуществование станет окончательно невозможно. А в Long Live The King будет полномасштабное сражение с армией Трилла (чего мы так и не увидели в Exodus) с обязательной победой Арика и объединением двух народов.
+
+Но нет, судя по анонсам, нас ждет очередной Самый-Опасный-Враг©, с которым когда-либо сталкивался X-O Manowar. Только в этот раз, в отличие от Armor Hunters или Dead Hand, еще более страшной угрозы не будет, ведь серия заканчивается.
+
+[[gallery? &id=`656` &type=`1` &rowHeight=`150` &maxRowHeight=`100%` &captions=`false` &fixedHeight=`false` &lastRow=`justify` &margins=`2`]]
+
+*А вы говорите Бэтмен в**BvS много убивает*
+
+[В прошлый раз](../all-things-valiant-34-week-06/#reviews) я говорил о том, какой странный у Вендитти Ниндзяк. В этом выпуске серьезные вопросы вызывает X-O Manowar. Вот Арик говорит, [что никому не обязательно умирать](http://spidermedia.ru/assets/images/valiant/files/atv40/x-o-manowar-045-image-a01.jpg) (хотя в прошлых номерах убийства его не смущали), но уже на следующей странице он [стреляет пришельцу в голову](http://spidermedia.ru/assets/images/valiant/files/atv40/x-o-manowar-045-image-a02.jpg), а итог сражения вы видите на картинке выше. И это наш доблестный воин?
+
+Но основная проблема комикса не в том, что герой хладнокровно убивает, а в том, что сценарист не доводит свои идеи до логического завершения. В выпуске присутствует отличная задумка — Трилл хочет продемонстрировать собратьям, что Арик просто кровожадное чудовище. С этой целью он заставляет (извините за спойлер) своих помощников перебить Vine, что пришли на общее собрание, а затем совершить самоубийство, чтобы скрыть следы и выставить Арика виновным. Что позволит Триллу в грядущей битве склонить на свою сторону сомневающихся.
+
+Но эта прекрасная концепция разбивается о финальный арк серии. Там будет новый враг, а значит, ни о какой войне с Vine не может идти и речи. Конфликт быстренько свернется в следующем выпуске. Поэтому Жаклин оставили в живых, чтобы она рассказала, что за резней стоит Трилл, и все помирились. А это делает все усилия данного комикса (и арка в целом) по созданию противоречивого образа героя практически бессмысленными.
+
+Но самое обидное, что огромный потенциал противостояния человечества и расы Vine так и не был достойно реализован. Ради чего Вендитти мусолил эту тему целый год? Чтобы вместо масштабных боевых действий показать парочку коротких боев? Вместо моральной дилеммы Арика (на чью сторону встать) дать читателям [это](http://spidermedia.ru/assets/images/valiant/files/atv40/x-o-manowar-045-image-a03.jpg)? Превратить то, что, по-хорошему, должно было стать кульминацией серии, в обычный малопримечательный сюжет?
+
+X-O Manowar #45 — один из самых кровавых и противоречивых номеров серии. Меж тем, он прекрасно демонстрирует ее главную проблему — интересные идеи получают слабое воплощение. Но я верю, что хороший комикс об Арике еще будет. Но уже где-то там... после перезапуска...
+
+**![](https://web.archive.org/web/20160611215702im_/http://spidermedia.ru/assets/images/valiant/images/1.png) РАЗОЧАРОВАНИЕ**
+
+";s:8:"mjdzText";s:0:"";s:10:"conclusion";s:0:"";}}}}

@@ -1,7 +1,10 @@
 {
   "title": "Gnizama-Amazing!",
-  "date": "2009-05-28T01:53:00+03:00",
+  "date": "2009-05-28T00:53:37+03:00",
   "url": "/news/gnizama-amazing/",
+  "aliases": [
+    "/node/1258/"
+  ],
   "original_url": "https://spidermedia.ru/news/gnizama-amazing",
   "archived": "https://web.archive.org/web/20260215083044/https://spidermedia.ru/news/gnizama-amazing",
   "tags": [
@@ -9,6 +12,11 @@
     "zatanna",
     "dan-didio",
     "dc-comics"
+  ],
+  "modx_id": 1258,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

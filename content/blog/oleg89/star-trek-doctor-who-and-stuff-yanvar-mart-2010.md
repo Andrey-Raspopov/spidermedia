@@ -1,7 +1,10 @@
 {
   "title": "Star Trek, Doctor Who and stuff: январь-март 2010",
-  "date": "2009-12-30T23:52:00+03:00",
+  "date": "2009-12-30T23:52:26+03:00",
   "url": "/blog/oleg89/star-trek-doctor-who-and-stuff-yanvar-mart-2010/",
+  "aliases": [
+    "/node/2210/"
+  ],
   "original_url": "https://spidermedia.ru/blog/oleg89/star-trek-doctor-who-and-stuff-yanvar-mart-2010",
   "archived": "https://web.archive.org/web/20260206214633/https://spidermedia.ru/blog/oleg89/star-trek-doctor-who-and-stuff-yanvar-mart-2010",
   "tags": [
@@ -15,6 +18,12 @@
     "zvezdnyj-put",
     "ghostbusters",
     "terminator"
+  ],
+  "cover": "https://web.archive.org/web/20180205114357im_/http://spidermedia.ru/assets/images/import_image/2210.jpg",
+  "modx_id": 2210,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

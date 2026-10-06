@@ -1,7 +1,10 @@
 {
   "title": "В ожидании Amazing Spider-Man #600",
-  "date": "2009-07-07T12:52:00+03:00",
+  "date": "2009-07-07T11:52:41+03:00",
   "url": "/news/v-ozhidanii-amazing-spider-man-600/",
+  "aliases": [
+    "/node/1498/"
+  ],
   "original_url": "http://spidermedia.ru/news/v-ozhidanii-amazing-spider-man-600",
   "archived": "https://web.archive.org/web/20120607154316/http://spidermedia.ru/news/v-ozhidanii-amazing-spider-man-600",
   "tags": [
@@ -12,6 +15,11 @@
     "komiksy",
     "marvel",
     "chelovek-pauk"
+  ],
+  "modx_id": 1498,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

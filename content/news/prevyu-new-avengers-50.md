@@ -1,14 +1,24 @@
 {
   "title": "Превью New Avengers #50",
-  "date": "2009-02-20T16:49:00+03:00",
+  "date": "2009-02-20T15:49:07+03:00",
   "url": "/news/prevyu-new-avengers-50/",
+  "aliases": [
+    "/node/458/"
+  ],
   "original_url": "http://spidermedia.ru/news/prevyu-new-avengers-50",
   "archived": "https://web.archive.org/web/20120718070127/http://spidermedia.ru/news/prevyu-new-avengers-50",
   "tags": [
     "brayan-maykl-bendis",
     "komiksy",
     "marvel",
-    "preview-s"
+    "preview-s",
+    "prevyu",
+    "brian-michael-bendis"
+  ],
+  "modx_id": 458,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

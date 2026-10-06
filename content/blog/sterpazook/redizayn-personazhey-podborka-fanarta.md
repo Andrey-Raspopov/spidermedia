@@ -1,7 +1,10 @@
 {
   "title": "Редизайн персонажей (подборка фанарта)",
-  "date": "2009-09-22T18:39:00+03:00",
+  "date": "2009-09-22T17:39:07+03:00",
   "url": "/blog/sterpazook/redizayn-personazhey-podborka-fanarta/",
+  "aliases": [
+    "/node/1922/"
+  ],
   "original_url": "http://spidermedia.ru/blog/sterpazook/redizayn-personazhey-podborka-fanarta",
   "archived": "https://web.archive.org/web/20120607163310/http://spidermedia.ru/blog/sterpazook/redizayn-personazhey-podborka-fanarta",
   "tags": [
@@ -9,7 +12,15 @@
     "ultimizing",
     "art-0",
     "redizayn",
-    "fanart"
+    "fanart",
+    "redizajn",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20120607163310im_/http://spidermedia.ru/assets/images/import_image/1922.jpg",
+  "modx_id": 1922,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Geek Idol x2",
-  "date": "2009-03-05T17:53:00+03:00",
+  "date": "2009-03-05T17:53:32+03:00",
   "url": "/news/geek-idol-x2/",
   "original_url": "https://spidermedia.ru/news/geek-idol-x2",
   "archived": "https://web.archive.org/web/20250215012212/https://spidermedia.ru/news/geek-idol-x2",
@@ -8,6 +8,12 @@
     "megan-foks",
     "jonah-hex",
     "fathom"
+  ],
+  "cover": "https://web.archive.org/web/20250215012212im_/http://spidermedia.ru/assets/images/import_image/599.jpg",
+  "modx_id": 599,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

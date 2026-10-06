@@ -1,13 +1,22 @@
 {
   "title": "Злодей Темнейшей Ночи!",
-  "date": "2009-08-14T08:53:00+03:00",
+  "date": "2009-08-14T07:53:59+03:00",
   "url": "/news/zlodey-temneyshey-nochi/",
+  "aliases": [
+    "/node/1784/"
+  ],
   "original_url": "http://spidermedia.ru/news/zlodey-temneyshey-nochi",
   "archived": "https://web.archive.org/web/20250814210947/http://spidermedia.ru/news/zlodey-temneyshey-nochi",
   "tags": [
     "temnejshaya-noch",
     "dc-comics",
     "blackest-night"
+  ],
+  "cover": "https://web.archive.org/web/20250814210947im_/http://spidermedia.ru/assets/images/import_image/1784.jpg",
+  "modx_id": 1784,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

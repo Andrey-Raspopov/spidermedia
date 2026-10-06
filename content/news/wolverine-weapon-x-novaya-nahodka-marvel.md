@@ -1,7 +1,10 @@
 {
   "title": "Wolverine: Weapon X - новая находка Marvel?",
-  "date": "2009-05-18T14:32:00+03:00",
+  "date": "2009-05-18T13:32:25+03:00",
   "url": "/news/wolverine-weapon-x-novaya-nahodka-marvel/",
+  "aliases": [
+    "/node/1225/"
+  ],
   "original_url": "http://spidermedia.ru/news/wolverine-weapon-x-novaya-nahodka-marvel",
   "archived": "https://web.archive.org/web/20120607190012/http://spidermedia.ru/news/wolverine-weapon-x-novaya-nahodka-marvel",
   "tags": [
@@ -12,7 +15,13 @@
     "komiksy",
     "marvel",
     "meverik",
-    "rosomaha"
+    "rosomaha",
+    "lyudi-iks"
+  ],
+  "modx_id": 1225,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"
@@ -25,7 +34,7 @@
 - ]]>[![](https://web.archive.org/web/20120607190012im_/http://www.comicbookresources.com/assets/phpThumb/phpThumb.php?src=/assets/images/preview/2590/prv2590_cov.jpg&w=150)](http://www.comicbookresources.com/?page=preview&id=2609&disp=table)]]>Увы, но у **Джейсона** нет планов на **Икс-23** *(X-23)*. По его мнению каст серии должен быть ограниченным и не стоит втягивать в серию всех, кто хоть как-то связан с **Росомахой**.
 - Многие помнят кроссовер **Росомахи**, **Карателя** *(Punisher)* и **Призрачного Всадника** *(Ghost Rider)*. **Аарон**, который, если вы не знали, пишет ещё и онгоинг **Ghost Rider**, с радостью готов его повторить. Да и нынешний автор серии **Punisher** - **Рик Ремендер** *(Rick Remender)*, с которым **Джейсон** успел переговорить, не против кроссовера двух серий. Впрочем, решения **Marvel** сценаристы пока не знают.
 - Если вы следите за релизами **Marvel Comics**, то знаете, что в **июле** комикса не будет. Да, это правда. Впрочем **Аарон** клянется, что концовка **Wolverine: Weapon X #3**, как и начало **#4**, заставят вашу челюсть упасть так низко, что вас это не слишком-то будет волновать.
-- Помните мы [писали](../../node/1115/) о женском персонаже, который сыграет немалую роль в серии и жизни **Логана**? Что ж - **Джейсон** официально подтвердил, что репортеру **Мелита Гарнер** *(Melita Garner)* отведена эта роль.
+- Помните мы [писали](../novaya-lichka-barsuka/) о женском персонаже, который сыграет немалую роль в серии и жизни **Логана**? Что ж - **Джейсон** официально подтвердил, что репортеру **Мелита Гарнер** *(Melita Garner)* отведена эта роль.
 - Фанаты **Мэверика** *(Maverick)* могут спать спокойно - в **Wolverine: Weapon X #3** ему уделят большое количество времени.
 
 Кстати, если вы нажмете на картинку справа, то уведите превью **Wolverine: Weapon X #2**, который выходит уже в эту **среду**!

@@ -1,6 +1,6 @@
 {
   "title": "Джо Карнахан взялся за NEMESIS",
-  "date": "2012-11-21T14:44:00+03:00",
+  "date": "2012-11-21T13:44:41+03:00",
   "url": "/news/dzho-karnahan-vzyalsya-za-nemesis/",
   "original_url": "https://spidermedia.ru/news/dzho-karnahan-vzyalsya-za-nemesis",
   "archived": "https://web.archive.org/web/20250807010316/https://spidermedia.ru/news/dzho-karnahan-vzyalsya-za-nemesis",
@@ -8,6 +8,12 @@
     "mark-millar",
     "nemesis",
     "icon-comics"
+  ],
+  "cover": "https://web.archive.org/web/20250807010316im_/http://spidermedia.ru/assets/images/import_image/7092.png",
+  "modx_id": 7092,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

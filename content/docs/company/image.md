@@ -4,6 +4,9 @@
   "url": "/docs/company/image/",
   "original_url": "http://spidermedia.ru/docs/company/image.html",
   "archived": "https://web.archive.org/web/20051201123144/http://spidermedia.ru:80/docs/company/image.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

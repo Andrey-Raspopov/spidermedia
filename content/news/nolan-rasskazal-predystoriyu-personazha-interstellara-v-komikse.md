@@ -1,11 +1,17 @@
 {
   "title": "Нолан рассказал предысторию персонажа «Интерстеллара» в комиксе",
-  "date": "2014-11-18T21:06:00+03:00",
+  "date": "2014-11-18T21:06:29+03:00",
   "url": "/news/nolan-rasskazal-predystoriyu-personazha-interstellara-v-komikse/",
   "original_url": "http://spidermedia.ru/news/nolan-rasskazal-predystoriyu-personazha-interstellara-v-komikse",
   "archived": "https://web.archive.org/web/20190914074749/http://spidermedia.ru:80/news/nolan-rasskazal-predystoriyu-personazha-interstellara-v-komikse",
   "tags": [
     "shon-gordon-merfi"
+  ],
+  "cover": "https://web.archive.org/web/20190914074749im_/http://spidermedia.ru/assets/images/import_image/8300.jpg",
+  "modx_id": 8300,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

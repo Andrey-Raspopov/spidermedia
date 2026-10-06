@@ -1,7 +1,10 @@
 {
   "title": "Превью Planetary #27",
-  "date": "2009-09-01T11:19:00+03:00",
+  "date": "2009-09-01T10:19:08+03:00",
   "url": "/news/prevyu-planetary-27/",
+  "aliases": [
+    "/node/1854/"
+  ],
   "original_url": "http://spidermedia.ru/news/prevyu-planetary-27",
   "archived": "https://web.archive.org/web/20160730063421/http://spidermedia.ru/news/prevyu-planetary-27",
   "tags": [
@@ -11,7 +14,14 @@
     "dzhon-kessedi",
     "warren-ellis",
     "planetary",
-    "john-cassaday"
+    "john-cassaday",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20160730063421im_/http://spidermedia.ru/assets/images/import_image/1854.jpg",
+  "modx_id": 1854,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

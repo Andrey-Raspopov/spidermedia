@@ -1,14 +1,24 @@
 {
   "title": "Powers - новые подробности",
-  "date": "2010-01-02T06:01:00+03:00",
+  "date": "2010-01-02T06:01:23+03:00",
   "url": "/blog/red-hulk/powers-novye-podrobnosti/",
+  "aliases": [
+    "/node/2212/"
+  ],
   "original_url": "http://spidermedia.ru/blog/red-hulk/powers-novye-podrobnosti",
   "archived": "https://web.archive.org/web/20260314083355/http://spidermedia.ru/blog/red-hulk/powers-novye-podrobnosti",
   "tags": [
     "serialy",
     "powers",
     "brian-michael-bendis",
-    "icon-comics"
+    "icon-comics",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20260314083355im_/http://spidermedia.ru/assets/images/tv/powers/powers-icon-comics-cover.jpg",
+  "modx_id": 2212,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,12 +1,21 @@
 {
   "title": "Main Man",
-  "date": "2009-09-03T10:38:00+03:00",
+  "date": "2009-09-03T09:38:02+03:00",
   "url": "/news/main-man/",
+  "aliases": [
+    "/node/1868/"
+  ],
   "original_url": "http://spidermedia.ru/news/main-man",
   "archived": "https://web.archive.org/web/20220810213532/http://spidermedia.ru/news/main-man",
   "tags": [
     "lobo",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20220810213532im_/http://spidermedia.ru/assets/images/import_image/1868.jpg",
+  "modx_id": 1868,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

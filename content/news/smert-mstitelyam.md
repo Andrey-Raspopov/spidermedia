@@ -1,6 +1,6 @@
 {
   "title": "Смерть Мстителям",
-  "date": "2011-05-27T11:54:00+03:00",
+  "date": "2011-05-27T10:54:58+03:00",
   "url": "/news/smert-mstitelyam/",
   "original_url": "http://spidermedia.ru/news/smert-mstitelyam",
   "archived": "https://web.archive.org/web/20250807004848/http://spidermedia.ru/news/smert-mstitelyam",
@@ -8,6 +8,12 @@
     "tanos",
     "thanos",
     "avengers"
+  ],
+  "cover": "https://web.archive.org/web/20250807004848im_/http://spidermedia.ru/assets/images/import_image/6057.jpg",
+  "modx_id": 6057,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

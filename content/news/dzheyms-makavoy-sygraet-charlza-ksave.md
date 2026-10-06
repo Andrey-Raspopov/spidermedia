@@ -1,14 +1,24 @@
 {
   "title": "Джеймс МакАвой сыграет Чарльза Ксавье",
-  "date": "2010-05-28T11:12:00+03:00",
+  "date": "2010-05-28T10:12:52+03:00",
   "url": "/news/dzheyms-makavoy-sygraet-charlza-ksave/",
+  "aliases": [
+    "/node/2633/"
+  ],
   "original_url": "http://spidermedia.ru/news/dzheyms-makavoy-sygraet-charlza-ksave",
   "archived": "https://web.archive.org/web/20170908231123/http://spidermedia.ru:80/news/dzheyms-makavoy-sygraet-charlza-ksave",
   "tags": [
     "marvel",
     "lyudi-iks-pervyj-klass",
     "x-men",
-    "x-men-first-class"
+    "x-men-first-class",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20170908231123im_/http://spidermedia.ru/assets/images/import_image/2633.jpg",
+  "modx_id": 2633,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

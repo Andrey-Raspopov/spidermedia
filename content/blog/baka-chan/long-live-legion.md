@@ -1,7 +1,10 @@
 {
   "title": "Long live the Legion!",
-  "date": "2010-01-14T19:14:00+03:00",
+  "date": "2010-01-14T19:14:02+03:00",
   "url": "/blog/baka-chan/long-live-legion/",
+  "aliases": [
+    "/node/2256/"
+  ],
   "original_url": "http://spidermedia.ru/blog/baka-chan/long-live-legion",
   "archived": "https://web.archive.org/web/20260306001538/http://spidermedia.ru/blog/baka-chan/long-live-legion",
   "tags": [
@@ -10,6 +13,12 @@
     "superboj",
     "paul-levitz",
     "geoff-johns"
+  ],
+  "cover": "https://web.archive.org/web/20260306001538im_/http://spidermedia.ru/assets/images/superman-logo-4.jpg",
+  "modx_id": 2256,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Хайль Череп!",
-  "date": "2011-04-03T09:09:00+03:00",
+  "date": "2011-04-03T08:09:34+03:00",
   "url": "/news/hayl-cherep/",
   "original_url": "http://spidermedia.ru/news/hayl-cherep",
   "archived": "https://web.archive.org/web/20240623234136/http://spidermedia.ru/news/hayl-cherep",
@@ -10,6 +10,12 @@
     "greg-pak",
     "red-skull",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20240623234136im_/http://spidermedia.ru/assets/images/import_image/4671.jpg",
+  "modx_id": 4671,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

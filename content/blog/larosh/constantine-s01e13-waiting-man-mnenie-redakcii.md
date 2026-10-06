@@ -1,6 +1,6 @@
 {
   "title": "Constantine s01e13: «Waiting for the Man» — мнение редакции",
-  "date": "2015-02-16T17:48:00+03:00",
+  "date": "2015-02-16T17:48:30+03:00",
   "url": "/blog/larosh/constantine-s01e13-waiting-man-mnenie-redakcii/",
   "original_url": "http://spidermedia.ru/blog/larosh/constantine-s01e13-waiting-man-mnenie-redakcii",
   "archived": "https://web.archive.org/web/20251206151848/http://spidermedia.ru/blog/larosh/constantine-s01e13-waiting-man-mnenie-redakcii",
@@ -10,7 +10,14 @@
     "dzhon-konstantin",
     "vertigo",
     "dc-comics",
-    "constantine"
+    "constantine",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20150326100228im_/http://spidermedia.ru/assets/images/import_image/8621.jpg",
+  "modx_id": 8621,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -8,6 +8,12 @@
     "spidermedia-15th-anniversary",
     "obzor"
   ],
+  "cover": "https://web.archive.org/web/20180120172421im_/http://spidermedia.ru/assets/images/spidermedia-anniversary/05-ghost-world/ghost-world-cover.jpg",
+  "modx_id": 101453,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

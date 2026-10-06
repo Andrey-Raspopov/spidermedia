@@ -1,12 +1,18 @@
 {
   "title": "Брайан Крэнстон сыграет Лекса Лютора в сиквеле \"Человека из стали\"",
-  "date": "2013-08-25T11:38:00+03:00",
+  "date": "2013-08-25T10:38:40+03:00",
   "url": "/news/brayan-krenston-sygraet-leksa-lyutora-v-sikvele-cheloveka-iz-stali/",
   "original_url": "https://spidermedia.ru/news/brayan-krenston-sygraet-leksa-lyutora-v-sikvele-cheloveka-iz-stali",
   "archived": "https://web.archive.org/web/20260215073920/https://spidermedia.ru/news/brayan-krenston-sygraet-leksa-lyutora-v-sikvele-cheloveka-iz-stali",
   "tags": [
     "dc-comics",
     "lex-luthor"
+  ],
+  "cover": "https://web.archive.org/web/20260215073920im_/http://spidermedia.ru/assets/images/import_image/7435.jpg",
+  "modx_id": 7435,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

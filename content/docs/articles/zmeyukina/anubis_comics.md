@@ -4,6 +4,9 @@
   "url": "/docs/articles/zmeyukina/anubis_comics/",
   "original_url": "http://www.spidermedia.ru/docs/articles/zmeyukina/anubis_comics.html",
   "archived": "https://web.archive.org/web/20050324000947/http://www.spidermedia.ru:80/docs/articles/zmeyukina/anubis_comics.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

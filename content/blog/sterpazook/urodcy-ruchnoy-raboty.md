@@ -1,13 +1,22 @@
 {
   "title": "Уродцы ручной работы",
-  "date": "2009-08-10T12:00:00+03:00",
+  "date": "2009-08-10T11:00:58+03:00",
   "url": "/blog/sterpazook/urodcy-ruchnoy-raboty/",
+  "aliases": [
+    "/node/1757/"
+  ],
   "original_url": "http://spidermedia.ru/blog/sterpazook/urodcy-ruchnoy-raboty",
   "archived": "https://web.archive.org/web/20210122023358/http://spidermedia.ru/blog/sterpazook/urodcy-ruchnoy-raboty",
   "tags": [
     "figurki",
     "monstry",
     "monsters"
+  ],
+  "cover": "https://web.archive.org/web/20150326193141im_/http://spidermedia.ru/assets/images/import_image/1757.jpg",
+  "modx_id": 1757,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

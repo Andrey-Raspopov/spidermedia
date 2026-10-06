@@ -1,7 +1,10 @@
 {
   "title": "Американское Превью",
-  "date": "2009-05-08T15:21:00+03:00",
+  "date": "2009-05-08T14:21:59+03:00",
   "url": "/news/amerikanskoe-prevyu/",
+  "aliases": [
+    "/node/1132/"
+  ],
   "original_url": "http://spidermedia.ru/news/amerikanskoe-prevyu",
   "archived": "https://web.archive.org/web/20260314083730/http://spidermedia.ru/news/amerikanskoe-prevyu",
   "tags": [
@@ -15,6 +18,11 @@
     "norman-osborn",
     "iron-patriot",
     "spider-man"
+  ],
+  "modx_id": 1132,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

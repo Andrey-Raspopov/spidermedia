@@ -1,13 +1,22 @@
 {
   "title": "Кристофер Нолан о будущем Бэтмена и Супермена",
-  "date": "2010-06-05T02:48:00+03:00",
+  "date": "2010-06-05T01:48:35+03:00",
   "url": "/news/kristofer-nolan-o-budushchem-betmena-i-supermena/",
+  "aliases": [
+    "/node/2655/"
+  ],
   "original_url": "http://spidermedia.ru/news/kristofer-nolan-o-budushchem-betmena-i-supermena",
   "archived": "https://web.archive.org/web/20240911125750/http://spidermedia.ru/news/kristofer-nolan-o-budushchem-betmena-i-supermena",
   "tags": [
     "superman",
     "dc-comics",
     "batman"
+  ],
+  "cover": "https://web.archive.org/web/20240911125750im_/http://spidermedia.ru/assets/images/import_image/2655.jpg",
+  "modx_id": 2655,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

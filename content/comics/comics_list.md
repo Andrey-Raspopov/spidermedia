@@ -4,6 +4,9 @@
   "url": "/comics/comics_list/",
   "original_url": "http://www.spidermedia.ru/comics/comics_list.html",
   "archived": "https://web.archive.org/web/20070216164913/http://www.spidermedia.ru:80/comics/comics_list.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

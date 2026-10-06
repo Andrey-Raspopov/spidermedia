@@ -1,7 +1,10 @@
 {
   "title": "Мстителями не рождаются!",
-  "date": "2010-02-01T20:36:00+03:00",
+  "date": "2010-02-01T20:36:56+03:00",
   "url": "/news/mstitelyami-ne-rozhdayutsya/",
+  "aliases": [
+    "/node/2329/"
+  ],
   "original_url": "https://spidermedia.ru/news/mstitelyami-ne-rozhdayutsya",
   "archived": "https://web.archive.org/web/20260211184627/https://spidermedia.ru/news/mstitelyami-ne-rozhdayutsya",
   "tags": [
@@ -9,6 +12,11 @@
     "lejnil-frensis-yu",
     "ultimate",
     "marvel"
+  ],
+  "modx_id": 2329,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

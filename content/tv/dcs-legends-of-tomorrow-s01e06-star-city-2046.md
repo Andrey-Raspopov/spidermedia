@@ -7,6 +7,12 @@
   "tags": [
     "dc-comics"
   ],
+  "cover": "https://web.archive.org/web/20160611111938im_/http://spidermedia.ru/assets/images/tv/dc/legends-of-tomorrow/s01e06/legends-of-tomorrow-star-city-2046-image-8.jpg",
+  "modx_id": 100981,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

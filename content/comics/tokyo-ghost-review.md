@@ -9,6 +9,12 @@
     "rik-remender",
     "shon-gordon-merfi"
   ],
+  "cover": "https://web.archive.org/web/20220703143423im_/http://spidermedia.ru/assets/images/reviews/fanzon/tokyo-ghost/mzk.jpg",
+  "modx_id": 101873,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

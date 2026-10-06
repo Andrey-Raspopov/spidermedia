@@ -4,6 +4,12 @@
   "url": "/games/mnenie-ps4-versiya-overwatch/",
   "original_url": "http://spidermedia.ru/games/mnenie-ps4-versiya-overwatch",
   "archived": "https://web.archive.org/web/20200810082607/http://spidermedia.ru/games/mnenie-ps4-versiya-overwatch",
+  "cover": "https://web.archive.org/web/20170909073117im_/http://spidermedia.ru/assets/images/games/overwatch/overwatch.jpg",
+  "modx_id": 101116,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

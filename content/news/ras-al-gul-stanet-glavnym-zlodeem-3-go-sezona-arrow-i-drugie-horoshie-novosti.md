@@ -1,6 +1,6 @@
 {
   "title": "Рас аль Гул станет главным злодеем 3-го сезона Arrow и другие хорошие новости",
-  "date": "2014-07-27T13:31:00+03:00",
+  "date": "2014-07-27T12:31:27+03:00",
   "url": "/news/ras-al-gul-stanet-glavnym-zlodeem-3-go-sezona-arrow-i-drugie-horoshie-novosti/",
   "original_url": "http://spidermedia.ru/news/ras-al-gul-stanet-glavnym-zlodeem-3-go-sezona-arrow-i-drugie-horoshie-novosti",
   "archived": "https://web.archive.org/web/20250620075042/http://spidermedia.ru/news/ras-al-gul-stanet-glavnym-zlodeem-3-go-sezona-arrow-i-drugie-horoshie-novosti",
@@ -8,6 +8,12 @@
     "the-flash",
     "dc-comics",
     "green-arrow"
+  ],
+  "cover": "https://web.archive.org/web/20250620075042im_/http://spidermedia.ru/assets/images/tv/dc/arrow/season-3/ras.jpg",
+  "modx_id": 7940,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

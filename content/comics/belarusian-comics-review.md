@@ -7,6 +7,12 @@
   "tags": [
     "zarubezhnye-komiksy-na-russkom"
   ],
+  "cover": "https://web.archive.org/web/20250807004819im_/http://spidermedia.ru/assets/images/reviews/alden-comics/mzk.jpg",
+  "modx_id": 102000,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

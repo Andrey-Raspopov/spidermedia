@@ -1,11 +1,20 @@
 {
   "title": "Народный Мастрид (Let's hit the fan!)",
-  "date": "2010-05-05T23:21:00+03:00",
+  "date": "2010-05-05T22:21:44+03:00",
   "url": "/blog/sterpazook/narodnyy-mastrid-lets-hit-fan/",
+  "aliases": [
+    "/node/2603/"
+  ],
   "original_url": "http://spidermedia.ru/blog/sterpazook/narodnyy-mastrid-lets-hit-fan",
   "archived": "https://web.archive.org/web/20200127102828/http://spidermedia.ru:80/blog/sterpazook/narodnyy-mastrid-lets-hit-fan",
   "tags": [
     "mustread"
+  ],
+  "cover": "https://web.archive.org/web/20200127102828im_/http://spidermedia.ru/assets/images/import_image/2603.gif",
+  "modx_id": 2603,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

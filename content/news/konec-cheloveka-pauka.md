@@ -1,7 +1,10 @@
 {
   "title": "Конец Человека-Паука?",
-  "date": "2009-02-07T22:44:00+03:00",
+  "date": "2009-02-07T22:44:57+03:00",
   "url": "/news/konec-cheloveka-pauka/",
+  "aliases": [
+    "/node/260/"
+  ],
   "original_url": "http://spidermedia.ru/news/konec-cheloveka-pauka",
   "archived": "https://web.archive.org/web/20251108041847/http://spidermedia.ru/news/konec-cheloveka-pauka",
   "tags": [
@@ -13,6 +16,12 @@
     "spider-woman",
     "nycc-2009",
     "spider-man"
+  ],
+  "cover": "https://web.archive.org/web/20251108041847im_/http://spidermedia.ru/assets/images/import_image/260.jpg",
+  "modx_id": 260,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

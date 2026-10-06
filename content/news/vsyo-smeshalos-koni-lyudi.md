@@ -1,7 +1,10 @@
 {
   "title": "Всё смешалось: кони, люди…",
-  "date": "2009-03-15T02:17:00+03:00",
+  "date": "2009-03-15T01:17:25+03:00",
   "url": "/news/vsyo-smeshalos-koni-lyudi/",
+  "aliases": [
+    "/node/687/"
+  ],
   "original_url": "http://spidermedia.ru/news/vsyo-smeshalos-koni-lyudi",
   "archived": "https://web.archive.org/web/20120607112758/http://spidermedia.ru/news/vsyo-smeshalos-koni-lyudi",
   "tags": [
@@ -12,13 +15,21 @@
     "marvel",
     "oblozhki",
     "preview-s",
-    "erik-batl"
+    "erik-batl",
+    "prevyu",
+    "brajan-rid",
+    "art"
+  ],
+  "modx_id": 687,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }
 
-]]>[![TMSTRM001_cov.jpg - image uploaded to Picamatic](https://web.archive.org/web/20120607112758im_/http://pic.ipicture.ru/uploads/090315/UQ7TC6STfo.jpg "TMSTRM001_cov.jpg")](http://pic.ipicture.ru/uploads/090315/rTCf257qRR.jpg)]]> ]]>[![TMSTRM001_cov.jpg - image uploaded to Picamatic](https://web.archive.org/web/20120607112758im_/http://pic.ipicture.ru/uploads/090315/G4jo1UIvNJ.jpg "TMSTRM001_cov.jpg")](http://pic.ipicture.ru/uploads/090315/8YvuRI4Ozs.jpg)]]> В апрельских релизах значится **Шторм во времени**, о котором мы уже [предупреждали](../../node/26/). Приготовьтесь к еще большим волнениям в пространственно-временном континууме, нас ждет символизм, откровения авторов и новый взгляд на мир будущего.
+]]>[![TMSTRM001_cov.jpg - image uploaded to Picamatic](https://web.archive.org/web/20120607112758im_/http://pic.ipicture.ru/uploads/090315/UQ7TC6STfo.jpg "TMSTRM001_cov.jpg")](http://pic.ipicture.ru/uploads/090315/rTCf257qRR.jpg)]]> ]]>[![TMSTRM001_cov.jpg - image uploaded to Picamatic](https://web.archive.org/web/20120607112758im_/http://pic.ipicture.ru/uploads/090315/G4jo1UIvNJ.jpg "TMSTRM001_cov.jpg")](http://pic.ipicture.ru/uploads/090315/8YvuRI4Ozs.jpg)]]> В апрельских релизах значится **Шторм во времени**, о котором мы уже [предупреждали](../shtorm-vo-vremeni/). Приготовьтесь к еще большим волнениям в пространственно-временном континууме, нас ждет символизм, откровения авторов и новый взгляд на мир будущего.
 
 Не секрет, что в 2009 году, отбросив все реалии, получается 90-летний разрыв между основным временным периодом, и одной из вероятностей, несмотря даже на то, что она рассматривается как самая возможная. Таким образом, новая мини-серия **Timestorm 2009/2099**, из-под союза **Брайан Рида** *(Brian Reed)* и **Эрика Батла** *(Eric Battle)*, приобретает и символическое значение.
 

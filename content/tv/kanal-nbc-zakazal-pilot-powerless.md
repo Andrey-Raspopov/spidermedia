@@ -7,6 +7,12 @@
   "tags": [
     "dc-comics"
   ],
+  "cover": "https://web.archive.org/web/20251107030053im_/http://spidermedia.ru/assets/images/news/tv/dc/powerless/4745629-untitled-2.jpg",
+  "modx_id": 100831,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

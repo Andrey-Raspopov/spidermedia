@@ -8,6 +8,12 @@
     "best-column-about-comics",
     "mnenie"
   ],
+  "cover": "https://web.archive.org/web/20170613230141im_/http://spidermedia.ru/assets/images/best-column-about-comics/19-hillbilly/hillbilly-cover.jpg",
+  "modx_id": 101577,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

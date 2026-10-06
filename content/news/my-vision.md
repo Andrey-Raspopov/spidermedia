@@ -1,12 +1,18 @@
 {
   "title": "My Vision",
-  "date": "2014-02-07T12:23:00+03:00",
+  "date": "2014-02-07T11:23:55+03:00",
   "url": "/news/my-vision/",
   "original_url": "https://spidermedia.ru/news/my-vision",
   "archived": "https://web.archive.org/web/20240807002300/https://spidermedia.ru/news/my-vision",
   "tags": [
     "avengers",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150424061804im_/http://spidermedia.ru/assets/images/import_image/7633.jpg",
+  "modx_id": 7633,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

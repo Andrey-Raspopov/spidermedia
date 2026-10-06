@@ -1,14 +1,24 @@
 {
   "title": "Музыкальный Тор",
-  "date": "2009-02-12T23:52:00+03:00",
+  "date": "2009-02-12T23:52:40+03:00",
   "url": "/news/muzykalnyy-tor/",
+  "aliases": [
+    "/node/337/"
+  ],
   "original_url": "http://spidermedia.ru/news/muzykalnyy-tor",
   "archived": "https://web.archive.org/web/20150426205642/http://spidermedia.ru/news/muzykalnyy-tor",
   "tags": [
     "marvel-comics",
     "thor",
     "dzhej-majkl-strazhinski",
-    "marko-dzhurdzhevich"
+    "marko-dzhurdzhevich",
+    "marvel",
+    "tor"
+  ],
+  "modx_id": 337,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

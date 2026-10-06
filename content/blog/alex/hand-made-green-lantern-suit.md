@@ -1,13 +1,22 @@
 {
   "title": "Hand-made Green Lantern Suit",
-  "date": "2010-07-30T18:21:00+03:00",
+  "date": "2010-07-30T17:21:12+03:00",
   "url": "/blog/alex/hand-made-green-lantern-suit/",
+  "aliases": [
+    "/node/2823/"
+  ],
   "original_url": "http://spidermedia.ru/blog/alex/hand-made-green-lantern-suit",
   "archived": "https://web.archive.org/web/20120608145421/http://spidermedia.ru/blog/alex/hand-made-green-lantern-suit",
   "tags": [
     "green-lantern",
     "zelenyy-fonar",
     "kostyumy"
+  ],
+  "cover": "https://web.archive.org/web/20120608145421im_/http://spidermedia.ru/assets/images/import_image/2823.jpg",
+  "modx_id": 2823,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

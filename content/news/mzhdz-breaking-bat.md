@@ -1,12 +1,18 @@
 {
   "title": "МЖДЗ: BREAKING BAT",
-  "date": "2012-08-01T20:46:00+03:00",
+  "date": "2012-08-01T19:46:26+03:00",
   "url": "/news/mzhdz-breaking-bat/",
   "original_url": "https://spidermedia.ru/news/mzhdz-breaking-bat",
   "archived": "https://web.archive.org/web/20240613062359/https://spidermedia.ru/news/mzhdz-breaking-bat",
   "tags": [
     "mnenie",
     "mzhdz"
+  ],
+  "cover": "https://web.archive.org/web/20150326160918im_/http://spidermedia.ru/assets/images/import_image/6994.png",
+  "modx_id": 6994,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

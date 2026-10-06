@@ -7,6 +7,12 @@
   "tags": [
     "adi-shankar"
   ],
+  "cover": "https://web.archive.org/web/20240908061454im_/http://spidermedia.ru/assets/images/tv/gods-and-secrets.jpg",
+  "modx_id": 100424,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

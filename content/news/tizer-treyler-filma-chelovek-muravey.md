@@ -1,12 +1,18 @@
 {
   "title": "Тизер-трейлер фильма \"Человек-Муравей\" + Дублированная версия",
-  "date": "2015-01-07T10:40:00+03:00",
+  "date": "2015-01-07T10:40:28+03:00",
   "url": "/news/tizer-treyler-filma-chelovek-muravey/",
   "original_url": "https://spidermedia.ru/news/tizer-treyler-filma-chelovek-muravey",
   "archived": "https://web.archive.org/web/20260312021048/https://spidermedia.ru/news/tizer-treyler-filma-chelovek-muravey",
   "tags": [
     "ant-man",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150326100021im_/http://spidermedia.ru/assets/images/import_image/8464.jpg",
+  "modx_id": 8464,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

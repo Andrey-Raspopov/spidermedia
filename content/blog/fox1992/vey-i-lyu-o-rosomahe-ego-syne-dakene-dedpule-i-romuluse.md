@@ -1,7 +1,10 @@
 {
   "title": "Вэй и Лю о Росомахе, его сыне Дакене, Дэдпуле и Ромулусе.",
-  "date": "2009-11-05T23:24:00+03:00",
+  "date": "2009-11-05T23:24:58+03:00",
   "url": "/blog/fox1992/vey-i-lyu-o-rosomahe-ego-syne-dakene-dedpule-i-romuluse/",
+  "aliases": [
+    "/node/2064/"
+  ],
   "original_url": "http://spidermedia.ru/blog/fox1992/vey-i-lyu-o-rosomahe-ego-syne-dakene-dedpule-i-romuluse",
   "archived": "https://web.archive.org/web/20260312010303/http://spidermedia.ru/blog/fox1992/vey-i-lyu-o-rosomahe-ego-syne-dakene-dedpule-i-romuluse",
   "tags": [
@@ -12,6 +15,12 @@
     "romulus",
     "marjorie-liu",
     "daniel-way"
+  ],
+  "cover": "https://web.archive.org/web/20260312010303im_/http://spidermedia.ru/assets/images/import_image/2064.jpg",
+  "modx_id": 2064,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

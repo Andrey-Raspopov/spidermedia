@@ -1,12 +1,21 @@
 {
   "title": "Такой разный Константин",
-  "date": "2011-01-10T00:03:00+03:00",
+  "date": "2011-01-10T00:03:22+03:00",
   "url": "/blog/ohotnig/takoy-raznyy-konstantin/",
+  "aliases": [
+    "/node/3152/"
+  ],
   "original_url": "http://spidermedia.ru/blog/ohotnig/takoy-raznyy-konstantin",
   "archived": "https://web.archive.org/web/20260121005308/http://spidermedia.ru/blog/ohotnig/takoy-raznyy-konstantin",
   "tags": [
     "fanart",
     "hellblazer"
+  ],
+  "cover": "https://web.archive.org/web/20260121005308im_/http://spidermedia.ru/assets/images/import_image/3152.jpg",
+  "modx_id": 3152,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

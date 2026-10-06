@@ -8,6 +8,12 @@
     "dc-comics",
     "supergirl"
   ],
+  "cover": "https://web.archive.org/web/20160611140419im_/http://spidermedia.ru/assets/images/tv/supergirl/sgirl-social-8c540.jpg",
+  "modx_id": 100222,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

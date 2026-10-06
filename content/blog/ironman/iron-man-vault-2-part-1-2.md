@@ -1,7 +1,10 @@
 {
   "title": "Iron Man Vault #2 (Part 1 of 2)",
-  "date": "2009-07-10T23:29:00+03:00",
+  "date": "2009-07-10T22:29:13+03:00",
   "url": "/blog/ironman/iron-man-vault-2-part-1-2/",
+  "aliases": [
+    "/node/1532/"
+  ],
   "original_url": "http://spidermedia.ru/blog/ironman/iron-man-vault-2-part-1-2",
   "archived": "https://web.archive.org/web/20210121135309/http://spidermedia.ru/blog/ironman/iron-man-vault-2-part-1-2",
   "tags": [
@@ -9,7 +12,14 @@
     "war-machine",
     "marvel",
     "iron-man",
-    "avengers"
+    "avengers",
+    "zheleznyy-chelovek"
+  ],
+  "cover": "https://web.archive.org/web/20210121135309im_/http://spidermedia.ru/assets/images/import_image/1532.jpg",
+  "modx_id": 1532,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
@@ -19,9 +29,9 @@
 
 Первый выпуск колонки:
 
-Iron Man Vault #1 (Part 1 of 2) - [http://spidermedia.ru/node/1500](../../../node/1500/)
+Iron Man Vault #1 (Part 1 of 2) - [http://spidermedia.ru/node/1500](../iron-man-vault-1-part-1-2/)
 
-Iron Man Vault #1 (Part 2 of 2) - [http://spidermedia.ru/node/1512](../../../node/1512/)Сценаристы  Джон Бирн и Лен Камински будут сопровождать вас на протяжении всех двух частей этого выпуска. Помогать им будут такие замечательные художники, как Пол Райан, Боб Висек, Марк Брайт и Кевин Хопгуд. Наслаждайтесь:
+Iron Man Vault #1 (Part 2 of 2) - [http://spidermedia.ru/node/1512](../iron-man-vault-1-part-2-2/)Сценаристы  Джон Бирн и Лен Камински будут сопровождать вас на протяжении всех двух частей этого выпуска. Помогать им будут такие замечательные художники, как Пол Райан, Боб Висек, Марк Брайт и Кевин Хопгуд. Наслаждайтесь:
 
 **Автор статьи: IrOnMaN**
 

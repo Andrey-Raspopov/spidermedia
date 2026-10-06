@@ -1,6 +1,6 @@
 {
   "title": "Ultimate-варианты",
-  "date": "2011-08-13T13:10:00+03:00",
+  "date": "2011-08-13T12:10:33+03:00",
   "url": "/news/ultimate-varianty/",
   "original_url": "http://spidermedia.ru/news/ultimate-varianty",
   "archived": "https://web.archive.org/web/20260209115322/http://spidermedia.ru/news/ultimate-varianty",
@@ -10,7 +10,15 @@
     "art-0",
     "x-men",
     "spider-man",
-    "ultimate"
+    "ultimate",
+    "art",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20260209115322im_/http://spidermedia.ru/assets/images/import_image/6564.jpg",
+  "modx_id": 6564,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

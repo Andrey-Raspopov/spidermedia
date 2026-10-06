@@ -1,12 +1,20 @@
 {
   "title": "R.I.P. Джо Саймон, Эдуардо Баррето",
-  "date": "2011-12-16T11:59:00+03:00",
+  "date": "2011-12-16T10:59:32+03:00",
   "url": "/news/rip-dzho-saymon-eduardo-barreto/",
   "original_url": "http://spidermedia.ru/news/rip-dzho-saymon-eduardo-barreto",
   "archived": "https://web.archive.org/web/20120608032938/http://spidermedia.ru/news/rip-dzho-saymon-eduardo-barreto",
   "tags": [
     "dzho-saymon",
-    "eduardo-barreto"
+    "eduardo-barreto",
+    "dzho-sajmon",
+    "rip"
+  ],
+  "cover": "https://web.archive.org/web/20120608032938im_/http://spidermedia.ru/assets/images/import_image/6740.jpg",
+  "modx_id": 6740,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

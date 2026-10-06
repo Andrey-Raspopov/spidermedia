@@ -1,6 +1,6 @@
 {
   "title": "Лицо Возрождения Ultimate",
-  "date": "2011-05-17T22:26:00+03:00",
+  "date": "2011-05-17T21:26:35+03:00",
   "url": "/news/lico-vozrozhdeniya-ultimate/",
   "original_url": "http://spidermedia.ru/news/lico-vozrozhdeniya-ultimate",
   "archived": "https://web.archive.org/web/20260313121044/http://spidermedia.ru/news/lico-vozrozhdeniya-ultimate",
@@ -8,7 +8,14 @@
     "kaare-endryus",
     "art-0",
     "ultimate",
-    "marvel"
+    "marvel",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20260313121044im_/http://spidermedia.ru/assets/images/import_image/5809.jpg",
+  "modx_id": 5809,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

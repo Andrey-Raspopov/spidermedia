@@ -1,6 +1,6 @@
 {
   "title": "Трейлер: Город грехов 2: Женщина, ради которой стоит убивать",
-  "date": "2014-07-28T22:32:00+03:00",
+  "date": "2014-07-28T21:32:00+03:00",
   "url": "/news/treyler-gorod-grehov-2-zhenshchina-radi-kotoroy-stoit-ubivat/",
   "original_url": "http://spidermedia.ru/news/treyler-gorod-grehov-2-zhenshchina-radi-kotoroy-stoit-ubivat",
   "archived": "https://web.archive.org/web/20260125121914/http://spidermedia.ru/news/treyler-gorod-grehov-2-zhenshchina-radi-kotoroy-stoit-ubivat",
@@ -8,6 +8,12 @@
     "frenk-miller",
     "trejlery",
     "sin-city"
+  ],
+  "cover": "https://web.archive.org/web/20150424123558im_/http://spidermedia.ru/assets/images/import_image/8011.jpg",
+  "modx_id": 7944,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,12 +1,18 @@
 {
   "title": "Автор комикса V for Vendetta посетит Российский Комик Кон (ОБНОВЛЕНО)",
-  "date": "2014-09-05T11:50:00+03:00",
+  "date": "2014-09-05T10:50:05+03:00",
   "url": "/news/avtor-komiksa-v-vendetta-posetit-rossiyskiy-komik-kon/",
   "original_url": "http://spidermedia.ru/news/avtor-komiksa-v-vendetta-posetit-rossiyskiy-komik-kon",
   "archived": "https://web.archive.org/web/20260123073143/http://spidermedia.ru/news/avtor-komiksa-v-vendetta-posetit-rossiyskiy-komik-kon",
   "tags": [
     "comic-con-russia",
     "devid-llojd"
+  ],
+  "cover": "https://web.archive.org/web/20260123073143im_/http://spidermedia.ru/assets/images/import_image/8005.jpg",
+  "modx_id": 8005,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

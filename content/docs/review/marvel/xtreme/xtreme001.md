@@ -4,6 +4,9 @@
   "url": "/docs/review/marvel/xtreme/xtreme001/",
   "original_url": "http://www.spidermedia.ru/docs/review/marvel/xtreme/xtreme001.html",
   "archived": "https://web.archive.org/web/20050310011109/http://www.spidermedia.ru:80/docs/review/marvel/xtreme/xtreme001.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

@@ -8,13 +8,19 @@
     "san-diego-comic-con-international",
     "eisner-awards"
   ],
+  "cover": "https://web.archive.org/web/20191228200719im_/http://spidermedia.ru/assets/images/news/sdcc/2016/southern-bastards-012-002.jpg",
+  "modx_id": 101279,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
 [![](http://spidermedia.ru/assets/cache/preview/101279/news/sdcc/2016/622x187-eisner-awards-banner.5dd.jpg)](http://spidermedia.ru/assets/images/news/sdcc/2016/eisner-awards-banner.jpg)
 
-Привет! Я решил ненадолго отвлечься от редактирования, [написания](http://spidermedia.ru/assets/images/news/sdcc/2016/bwg92og5yry.jpg) и [рисования](http://spidermedia.ru/assets/images/news/sdcc/2016/inok_special.png) комиксов (за третье мне особенно будут благодарны), чтобы написать небольшую, но важную новость. Как вы, должно быть, знаете, в Америке проходит SDCC, он же Комик-Кон в Сан-Диего. Среди прочего там можно посмотреть на прототипы новых фигурок [реслеров WWE](http://www.cagesideseats.com/2016/7/22/12257004/wwe-action-figure-designs-mattel-san-diego-comic-con) от компании Mattel, узнать от Алека Болдуина о его новом проекте [Boss Baby](http://www.empireonline.com/people/alec-baldwin/comic-con-boss-baby-brings-alec-baldwin-san-diego/), в котором он играет практически ту же роль, которая воскресила его карьеру в 30 Rock (собственно, босса-младенца), и выяснить, не приняло ли Marvel к сведению последние [подкасты Спайдермедии](https://web.archive.org/web/20260211193126id_/https://spidermedia.ru/podcast/razbor-polyotov.-vypusk-15-marvel-then) и не отменило ли серию про Фуллкиллера. Но одним из главных событий Комик-Кона является церемония вручения награды имени Уилла Айснера, чью фамилию я, кажется, единственный писал «Айзнер», пока наконец не сдался. Именно о лауреатах мы и поговорим. В этом году я попробую сделать нечто иное, и не просто опубликовать список победителей, а прокомментировать почти каждую позицию. Потому что я по вам соскучился.
+Привет! Я решил ненадолго отвлечься от редактирования, [написания](http://spidermedia.ru/assets/images/news/sdcc/2016/bwg92og5yry.jpg) и [рисования](http://spidermedia.ru/assets/images/news/sdcc/2016/inok_special.png) комиксов (за третье мне особенно будут благодарны), чтобы написать небольшую, но важную новость. Как вы, должно быть, знаете, в Америке проходит SDCC, он же Комик-Кон в Сан-Диего. Среди прочего там можно посмотреть на прототипы новых фигурок [реслеров WWE](http://www.cagesideseats.com/2016/7/22/12257004/wwe-action-figure-designs-mattel-san-diego-comic-con) от компании Mattel, узнать от Алека Болдуина о его новом проекте [Boss Baby](http://www.empireonline.com/people/alec-baldwin/comic-con-boss-baby-brings-alec-baldwin-san-diego/), в котором он играет практически ту же роль, которая воскресила его карьеру в 30 Rock (собственно, босса-младенца), и выяснить, не приняло ли Marvel к сведению последние [подкасты Спайдермедии](../../podcast/razbor-polyotov.-vypusk-15-marvel-then/) и не отменило ли серию про Фуллкиллера. Но одним из главных событий Комик-Кона является церемония вручения награды имени Уилла Айснера, чью фамилию я, кажется, единственный писал «Айзнер», пока наконец не сдался. Именно о лауреатах мы и поговорим. В этом году я попробую сделать нечто иное, и не просто опубликовать список победителей, а прокомментировать почти каждую позицию. Потому что я по вам соскучился.
 
 **Дисклеймер 1:** Я не могу не воспользоваться возможностью и не сообщить лишний раз, что сейчас в Сан-Диего пребывает делегация издательства BUBBLE — Артем Габрелянов, Роман Котков, художница Алина Ерофеева и наша пиарщица Аня. Хай-файв через океан им всем — Артем и Рома уже успешно прочитали лекцию (первая панель российского издательства в SDCC) и [пожали руку Стэну Ли](https://www.instagram.com/p/BIMUkYIjo4V/). Я уверен, для Стэна было большой честью наконец-то встретить Артема. Удачи вам, коллеги and glory to the motherland!
 
@@ -259,7 +265,7 @@ The Legend of Wonder Woman, by Renae De Liz (DC Digital)
 - **Dustin Nguyen, Descender (Image)**
 - Tony Sandoval, A Glance Backward (Magnetic Press)
 
-Комикс [Descender](https://web.archive.org/web/20251108191240/http://spidermedia.ru/comics/mzhdz-femforce) — чудо во плоти (в бумаге и картоне), потому что дал замечательному Дастину Нгуену онгоинг, в котором он наконец-то смог полностью себя раскрыть. Вселенная увидела и отреагировала. [Покупайте на русском](https://web.archive.org/web/20260123072428id_/https://spidermedia.ru/comics/recenziya-poslannik.-kniga-1-olovyannye-zvezdy), наслаждайтесь рисунком Нгуена, который по сути на этой серии изобрел себя как художника заново.
+Комикс [Descender](../mzhdz-femforce/#item3) — чудо во плоти (в бумаге и картоне), потому что дал замечательному Дастину Нгуену онгоинг, в котором он наконец-то смог полностью себя раскрыть. Вселенная увидела и отреагировала. [Покупайте на русском](../recenziya-poslannik.-kniga-1-olovyannye-zvezdy/), наслаждайтесь рисунком Нгуена, который по сути на этой серии изобрел себя как художника заново.
 
 **Лучший художник обложек** *(Best Cover Artist)*
 

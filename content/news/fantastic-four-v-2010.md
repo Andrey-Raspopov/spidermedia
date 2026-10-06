@@ -1,7 +1,10 @@
 {
   "title": "Fantastic Four в 2010",
-  "date": "2010-01-06T01:35:00+03:00",
+  "date": "2010-01-06T00:35:29+03:00",
   "url": "/news/fantastic-four-v-2010/",
+  "aliases": [
+    "/node/2219/"
+  ],
   "original_url": "http://spidermedia.ru/news/fantastic-four-v-2010",
   "archived": "https://web.archive.org/web/20120608033815/http://spidermedia.ru/news/fantastic-four-v-2010",
   "tags": [
@@ -11,13 +14,22 @@
     "deyl-iglshem",
     "komiksy",
     "marvel",
-    "fantasticheskaya-chetverka"
+    "fantasticheskaya-chetverka",
+    "dejl-iglshem",
+    "dzhonatan-hikman",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20120608033815im_/http://spidermedia.ru/assets/images/import_image/2219.jpg",
+  "modx_id": 2219,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }
 
-Каким будет 2010 год для семьи супергероев? Если [**Человека-Паука** *(Spider-Man)*](../../node/2204/) ждут новые открытия со старыми знакомыми, то у **Фантастической Четверки** *(Fantastic Four)* **Джонатана Хикмана** *(Johnathan Hickman)* программа грядущего выглядит несколько разнообразней:
+Каким будет 2010 год для семьи супергероев? Если [**Человека-Паука** *(Spider-Man)*](../brand-new-day-v-2010/) ждут новые открытия со старыми знакомыми, то у **Фантастической Четверки** *(Fantastic Four)* **Джонатана Хикмана** *(Johnathan Hickman)* программа грядущего выглядит несколько разнообразней:
 
 ]]>[![](https://web.archive.org/web/20120608033815im_/http://i691.photobucket.com/albums/vv276/Silvernoir/10827636341_full27078682.jpg?t=1262725674)](http://i691.photobucket.com/albums/vv276/Silvernoir/10827636341_full2707868.jpg?t=1262725738)]]>
 

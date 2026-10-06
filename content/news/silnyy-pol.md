@@ -1,6 +1,6 @@
 {
   "title": "Сильный пол",
-  "date": "2012-11-09T09:28:00+03:00",
+  "date": "2012-11-09T08:28:10+03:00",
   "url": "/news/silnyy-pol/",
   "original_url": "http://spidermedia.ru/news/silnyy-pol",
   "archived": "https://web.archive.org/web/20251216122848/http://spidermedia.ru/news/silnyy-pol",
@@ -10,7 +10,14 @@
     "kallen-bann",
     "brian-michael-bendis",
     "x-men",
-    "marvel"
+    "marvel",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20251216122848im_/http://spidermedia.ru/assets/images/import_image/7085.jpg",
+  "modx_id": 7085,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

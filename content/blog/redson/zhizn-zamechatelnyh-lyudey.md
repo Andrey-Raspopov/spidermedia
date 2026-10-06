@@ -1,12 +1,18 @@
 {
   "title": "Жизнь замечательных людей",
-  "date": "2010-03-15T13:07:00+03:00",
+  "date": "2010-03-15T13:07:41+03:00",
   "url": "/blog/redson/zhizn-zamechatelnyh-lyudey/",
   "original_url": "https://spidermedia.ru/blog/redson/zhizn-zamechatelnyh-lyudey",
   "archived": "https://web.archive.org/web/20260125065651/https://spidermedia.ru/blog/redson/zhizn-zamechatelnyh-lyudey",
   "tags": [
     "muzyka",
     "majk-patton"
+  ],
+  "cover": "https://web.archive.org/web/20260125065651im_/http://spidermedia.ru/assets/images/import_image/2442.jpg",
+  "modx_id": 2442,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

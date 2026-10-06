@@ -7,6 +7,12 @@
   "tags": [
     "dark-horse"
   ],
+  "cover": "https://web.archive.org/web/20260206220546im_/http://spidermedia.ru/assets/images/news/images/oleg-lyfar/cover1.jpg",
+  "modx_id": 101613,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

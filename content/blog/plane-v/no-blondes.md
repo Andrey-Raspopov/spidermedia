@@ -1,12 +1,18 @@
 {
   "title": "No blondes",
-  "date": "2011-01-02T12:23:00+03:00",
+  "date": "2011-01-02T12:23:06+03:00",
   "url": "/blog/plane-v/no-blondes/",
   "original_url": "http://spidermedia.ru/blog/plane-v/no-blondes",
   "archived": "https://web.archive.org/web/20260125065702/http://spidermedia.ru/blog/plane-v/no-blondes",
   "tags": [
     "kemeron-styuart",
     "idw-publishing"
+  ],
+  "cover": "https://web.archive.org/web/20260125065702im_/http://spidermedia.ru/assets/images/import_image/3141.jpg",
+  "modx_id": 3141,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

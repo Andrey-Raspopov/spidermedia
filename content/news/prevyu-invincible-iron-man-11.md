@@ -1,6 +1,6 @@
 {
   "title": "Превью Invincible Iron Man #11",
-  "date": "2009-03-05T21:55:00+03:00",
+  "date": "2009-03-05T21:55:37+03:00",
   "url": "/news/prevyu-invincible-iron-man-11/",
   "original_url": "https://spidermedia.ru/news/prevyu-invincible-iron-man-11",
   "archived": "https://web.archive.org/web/20260314083654/https://spidermedia.ru/news/prevyu-invincible-iron-man-11",
@@ -8,7 +8,14 @@
     "marvel",
     "iron-man",
     "iron-woman",
-    "zheleznaya-deva"
+    "zheleznaya-deva",
+    "zheleznyy-chelovek"
+  ],
+  "cover": "https://web.archive.org/web/20260314083654im_/http://spidermedia.ru/assets/images/import_image/601.jpg",
+  "modx_id": 601,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

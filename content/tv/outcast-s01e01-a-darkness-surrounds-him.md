@@ -8,6 +8,12 @@
     "image-comics",
     "robert-kirkman"
   ],
+  "cover": "https://web.archive.org/web/20260209113624im_/http://spidermedia.ru/assets/images/tv/outcast/outcast.jpg",
+  "modx_id": 101193,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

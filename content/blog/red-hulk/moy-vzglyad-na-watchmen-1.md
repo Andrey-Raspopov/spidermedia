@@ -1,14 +1,23 @@
 {
   "title": "Мой взгляд на Watchmen #1",
-  "date": "2009-03-16T21:31:00+03:00",
+  "date": "2009-03-16T20:31:36+03:00",
   "url": "/blog/red-hulk/moy-vzglyad-na-watchmen-1/",
+  "aliases": [
+    "/node/694/"
+  ],
   "original_url": "http://spidermedia.ru/blog/red-hulk/moy-vzglyad-na-watchmen-1",
   "archived": "https://web.archive.org/web/20120613055110/http://spidermedia.ru/blog/red-hulk/moy-vzglyad-na-watchmen-1",
   "tags": [
     "watchmen",
     "kino",
     "mnenie",
-    "recenziya"
+    "recenziya",
+    "hraniteli"
+  ],
+  "modx_id": 694,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

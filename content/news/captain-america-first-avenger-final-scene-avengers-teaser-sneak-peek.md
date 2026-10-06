@@ -1,6 +1,6 @@
 {
   "title": "Финал \"Первого мстителя\" и превью тизера \"Мстителей\" (HQ)",
-  "date": "2011-07-29T09:38:00+03:00",
+  "date": "2011-07-29T08:38:18+03:00",
   "url": "/news/captain-america-first-avenger-final-scene-avengers-teaser-sneak-peek/",
   "original_url": "http://spidermedia.ru/news/captain-america-first-avenger-final-scene-avengers-teaser-sneak-peek",
   "archived": "https://web.archive.org/web/20250715233408/http://spidermedia.ru/news/captain-america-first-avenger-final-scene-avengers-teaser-sneak-peek",
@@ -9,6 +9,12 @@
     "marvel",
     "captain-america",
     "avengers"
+  ],
+  "cover": "https://web.archive.org/web/20250715233408im_/http://spidermedia.ru/assets/images/import_image/6536.jpg",
+  "modx_id": 6536,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "Майский Свет",
-  "date": "2010-02-13T13:37:00+03:00",
+  "date": "2010-02-13T13:37:17+03:00",
   "url": "/news/mayskiy-svet/",
+  "aliases": [
+    "/node/2366/"
+  ],
   "original_url": "http://spidermedia.ru/news/mayskiy-svet",
   "archived": "https://web.archive.org/web/20260305230030/http://spidermedia.ru/news/mayskiy-svet",
   "tags": [
@@ -9,6 +12,12 @@
     "relizy",
     "solicitations",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20260305230030im_/http://spidermedia.ru/assets/images/import_image/2366.png",
+  "modx_id": 2366,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

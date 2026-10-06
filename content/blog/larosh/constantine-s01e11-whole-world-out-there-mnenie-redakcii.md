@@ -1,6 +1,6 @@
 {
   "title": "Constantine s01e11 «A Whole World Out There» — мнение редакции",
-  "date": "2015-02-02T11:45:00+03:00",
+  "date": "2015-02-02T11:45:02+03:00",
   "url": "/blog/larosh/constantine-s01e11-whole-world-out-there-mnenie-redakcii/",
   "original_url": "http://spidermedia.ru/blog/larosh/constantine-s01e11-whole-world-out-there-mnenie-redakcii",
   "archived": "https://web.archive.org/web/20251216122105/http://spidermedia.ru/blog/larosh/constantine-s01e11-whole-world-out-there-mnenie-redakcii",
@@ -10,7 +10,14 @@
     "vertigo",
     "dzhon-konstantin",
     "obzor",
-    "serialy"
+    "serialy",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20150326100339im_/http://spidermedia.ru/assets/images/import_image/8571.jpg",
+  "modx_id": 8571,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

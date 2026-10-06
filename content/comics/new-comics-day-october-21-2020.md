@@ -7,11 +7,15 @@
   "tags": [
     "den-novyh-komiksov"
   ],
+  "cover": "https://web.archive.org/web/20201030142344im_/http://spidermedia.ru/assets/images/dnk/2020-10/21/00.jpg",
+  "modx_id": 102295,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
-
-[![](https://web.archive.org/web/20201030152608im_/http://spidermedia.ru/assets/cache/images/dnk/2020-10/21/622x-00.2e9.jpg)](https://web.archive.org/web/20201030142344im_/http://spidermedia.ru/assets/images/dnk/2020-10/21/00.jpg)
 
 Драматичный и интригующий вышел **G1****Climax** — и это в год пандемии, с заполненными на треть залами и без единого свежего участника. Финал был правильным, хотя на протяжении месяца и не верилось, что Кота Ибуши может победить в турнире второй год подряд. Ну теперь-то он точно должен выиграть чемпионство! Смотри, Гедо, только попробуй опять какой-нибудь фокус провернуть.
 
@@ -24,3 +28,151 @@ Wrestle Kingdom в январе должен быть горячим: Ибуш�
 Я еще два года назад, сразу, как Омега ушел в AEW, понял, что мой вечный фаворит в NJPW — Ибуши, и очень рад, что его коронация близко. Хотя и смущает, что за счет Найто, которому просто не повезло с годом, в который он стал чемпионом. Но что делать теперь? Будущее за Котой. Хорошо, что Гедо это понимает.
 
 ...что?
+
+Вам тоже начинает казаться, что внутренний циник окончательно победил и вы потеряли веру в чудеса? Возможно, есть чему поучиться у американских фанатов супергероики — их незамутненности можно только позавидовать. Они живут в индустрии, у которой «ребут всей линейки» происходит исправно раз в 2-3 года, неизменно проходя полный круг с возвращением классических героев, в анонсе DC Future State им ПРЯМЫМ ТЕКСТОМ говорят, что это затычка в графике на 2 месяца, а потом вернутся все регулярные серии — и они ВСЕ РАВНО жалуются во всех комментариях, что у них отобрали нормальную Чудо-Женщину и заменили бразильянкой, а самые просвещенные пишут «переодевайся сколько хочешь, Бэтмен, Супермен will still kick your ass». Что у этих людей в головах? Науке необходимо поймать хотя бы одного и всесторонне изучить. Не исключено, что там есть лекарство от депрессии, рака и всех страшных болезней.
+
+Дэн Дидио продолжает посмеиваться, покуривая сигару, попивая виски и переворачивая бургер на гриле (одновременно). Возможно, его увольнение было, как у них говорят, a blessing in disguise (для него, конечно же) — с другой стороны, было бы интересно пережить 5G как полноценное новое направление длиной в пару лет. Только ради общественного мнения.
+
+Насколько резко 50-летние американские дети отвергают один элсворлд, настолько же тепло принимают другой — там-то всё как они хотят, им уютно это читать. Новый ваншот в линейке **Batman: White Knight Presents** называется **Harley Quinn**, его рисует еще один мой добрый приятель Маттео Скалера, а пишет сценаристка с шикарным именем КАТАНА КОЛЛИНЗ. Если верить метаданным comiXology, до этого она отметилась только на антологии Harley Quinn Black + White + Red. Это потому, что КАТАНА пишет книги. На [ее официальном сайте](http://www.katanacollins.com/), на который обязательно зайдите, даже если у вас есть правило не кликать по ссылкам в ДНК, красуется теглайн BAD ASS HEROES FOR SASSY READERS. Вот лишь часть обложек ее 24 (двадцати четырех) вышедших на данный момент книг.
+
+![](https://web.archive.org/web/20201030121840im_/http://spidermedia.ru/assets/images/dnk/2020-10/katana1.jpg)
+
+![](https://web.archive.org/web/20201030173635im_/http://spidermedia.ru/assets/images/dnk/2020-10/katana2.jpg)
+
+Вы, скучные люди, предположите, что Шон Гордон Мерфи скорее всего прочитал комикс КАТАНЫ про Харли Куинн, ему понравилось, как она пишет персонажа, и он позвал поработать в курируемой им вселенной. Я, интеллектуал, уверен, что Мерфи ценитель ее НАСТОЯЩЕГО творчества.
+
+Если Стас Шаргородский — единственный ведущий подкаста «На панелях», который прочитал ВСЕ комиксы Dawn of X, то я, вероятно, единственный в России человек, который прочитал все комиксы Dawn of X ПО ПОРЯДКУ ЧЕКЛИСТОВ В КОНЦЕ ВЫПУСКОВ. То есть не отдельными сериями, а буквально как они выходили. Что я от этого получил? Удовольствие! А что еще полагается получать? Я подумываю сделать об этом свой материал (как будто у нас на сайте острая нехватка контента по Икс-менам), но не волнуйтесь, если сделаю, то сделаю таким, чтобы он никак не пересекался с подкастом и не отбирал его хлеб. В плане экспертности я нахожусь примерно на одном уровне с Лешей Замским. Я что-то читал, но в основном то же, что читали все, кто влился в Икс-менов на Моррисоне и послеживал за ними после него.
+
+Пока пара самых актуальных тезисов: да, последний Hellions волшебный; в чеклист в конце 12-х X-Men был включен **Juggernaut** — не повторяйте мою ошибку и не попадайтесь на эту уловку, обходите этот комикс стороной. Я готов терпеть комиксы низкого пошиба, если на обложке написано, что это пятая часть ивента из 22, но когда это просто очередной комикс — это уже выше моих сил.
+
+**Werewolf** **By****Night** — один из хоррорных брендов Marvel, который они раз в несколько лет достают из комода, чтобы показать, что он у них есть. Настало время очередного раунда, очередной мини-серии. Фишка на сей раз в том, что пишет ее Табу — участник хиппити-хоп коллектива The Black Eyed Peas. Уже выросло поколение, которое ничего о них не слышало и выкладывает на YouTube восхищенные реакции на видео Where Is the Love? Так что пора искать себя заново — и Табу нашел со-сценариста со вторым лучшим именем этой колонки — Benjamin Jackendoff. Он уже помог сделать комикс Masters of The Sun другому участнику хиппити-хоп коллектива The Black Eyed Peas, известному как will.i.am, но я могу думать только о том, как если убрать из его фамилии «n», будет совсем хорошо. Я, интеллектуал.
+
+### DC Comics
+
+- Aquaman #64
+- Batman #101
+- Batman White Knight Presents Harley Quinn #1
+- Catwoman #26
+- Dark Nights Death Metal Robin King #1
+- Justice League #55
+- Metal Men #11
+- Nightwing #75
+- Scooby-Doo Where Are You #106
+- Teen Titans #46
+
+### Marvel Comics
+
+- Aero #12
+- Amazing Spider-Man #50.LR
+- Conan The Barbarian #15
+- Daredevil #23
+- Excalibur #13
+- Falcon And Winter Soldier #4
+- Fantastic Four #25
+- Guardians Of The Galaxy #7
+- Iron Man #2
+- Juggernaut #2
+- Maestro #3
+- Marvels X #6
+- Spider-Woman #5
+- Star Wars Bounty Hunters #6
+- Venom #29
+- Werewolf By Night #1
+- X-Men #13
+
+![](https://web.archive.org/web/20260125131835im_/http://spidermedia.ru/assets/images/dnk/2020-10/21/v0.jpg)![](https://web.archive.org/web/20260125131835im_/http://spidermedia.ru/assets/images/dnk/2020-10/21/v1.jpg)![](https://web.archive.org/web/20260125131835im_/http://spidermedia.ru/assets/images/dnk/2020-10/21/v2.jpg)![](https://web.archive.org/web/20260125131835im_/http://spidermedia.ru/assets/images/dnk/2020-10/21/v3.jpg)![](https://web.archive.org/web/20260125131835im_/http://spidermedia.ru/assets/images/dnk/2020-10/21/v4.jpg)![](https://web.archive.org/web/20260125131835im_/http://spidermedia.ru/assets/images/dnk/2020-10/21/v5.jpg)![](https://web.archive.org/web/20260125131835im_/http://spidermedia.ru/assets/images/dnk/2020-10/21/v6.jpg)![](https://web.archive.org/web/20260125131835im_/http://spidermedia.ru/assets/images/dnk/2020-10/21/v7.jpg)![](https://web.archive.org/web/20260125131835im_/http://spidermedia.ru/assets/images/dnk/2020-10/21/v8.jpg)![](https://web.archive.org/web/20260125131835im_/http://spidermedia.ru/assets/images/dnk/2020-10/21/v9.jpg)
+
+Возможно, стоит возродить традицию, которую я потерял где-то в начале года, и снова «проносить» в ДНК отзывы о прочитанном. Прочитал 3 тома **November** — вот третий выходит как раз сегодня. Мэтт Фракшн все-таки не выдержал и решил сделать свой Criminal — но путем Stray Bullets. От первого густая атмосфера, от второго дробленое повествование с нагромождением неслучайных случайностей. Есть три героини, никак друг с другом не связанные, но в один ужасный день их линии сойдутся, и придется воевать против всего мира. Фракшн очень уж исхитрился, усложнил сюжет нелинейностью и медленно распаковывает его в 80-страничных томиках. Выбранный им концепт выглядел бы более уместным как единично изданный роман, пусть и страниц на 300, если ему так угодно. Но это все-таки книжная СЕРИЯ, так что не будут слишком уж ее подводить и рекомендовать дождаться финала (запланирован на февраль 2021) — за November стоит следить в реальном времени ради того, чтобы вместе зажигать звезду художницы Эльзы Чарретье. Она, несмотря на работу и с Marvel, и с DC, еще не засияла так ярко, как должна. Но, кажется, пара томов в тандеме с Мэттом Холлинсвортом поправила дело.
+
+Единственное, что стало препятствием и вызвало реальную боль — леттеринг Курта Анкени. Сам по себе он профессиональный и качественный, но я окончательно понял, что если еще раз увижу в комиксе рукописный шрифт, немедленно его закрою и никогда не вернусь — будь это хоть графроман про смерть Джона Константина, совместно написанный Муром и Моррисоном. Хватит с меня этих издевательств.
+
+Эрни Рэй Клементайн — грязь и позор нации: наркоман с образованием в пять классов, из интересов только его мотоцикл. Но, к сожалению, он также главная надежда человечества и единственный, кто может спасти нас от конца света — Эрни случайно получил инъекцию супер-сыворотки и стал самым сильным супершпионом в мире.
+
+Это задел новой серии Рика Ремендера **The Scumbag**. Поражает тут не столько креатив Ремендера, придумавшего новый комикс про героя-мудака, сколько второе имя на обложке каждого выпуска. Сценарист, известный сверхъестественным даром подбирать роскошного художника на буквально каждый проект, кинул самый большой понт в своей карьере: у Scumbag будет не один крутой художник, а миллион. Они будут меняться каждый выпуск. Первый нарисовал Льюис Лароса, в будущем нас ждут: Эндрю Робинсон, Эрик Пауэлл, Тула Лотей, Уэс Крейг, Роланд Бошки, Симон Ди Мео, Маргерит Саваж, Дункан Фегредо, Яник Пакет, Майк Маккон, Дейв Джонсон и Морено Динисио. Список неполный, так как это еще и онгоинг.
+
+### Dark Horse
+
+- Assassin's Creed Valhalla Song Of Glory #1
+- Hidden Society #4
+- Skulldigger And Skeleton Boy #5
+- You Look Like Death Tales From The Umbrella Academy #2
+
+### Image Comics
+
+- Big Girls #3
+- Black Magick #15
+- Family Tree #9
+- Gideon Falls #26
+- Nomen Omen #10
+- Rat Queens #22
+- Savage Dragon #253
+- Scumbag #1
+- Stillwater By Zdarsky And Perez #2
+
+![](https://web.archive.org/web/20260125131835im_/http://spidermedia.ru/assets/images/dnk/2020-10/21/f1.jpg)![](https://web.archive.org/web/20260125131835im_/http://spidermedia.ru/assets/images/dnk/2020-10/21/f2.jpg)![](https://web.archive.org/web/20260125131835im_/http://spidermedia.ru/assets/images/dnk/2020-10/21/f3.jpg)![](https://web.archive.org/web/20260125131835im_/http://spidermedia.ru/assets/images/dnk/2020-10/21/f4.jpg)![](https://web.archive.org/web/20260125131835im_/http://spidermedia.ru/assets/images/dnk/2020-10/21/f5.jpg)![](https://web.archive.org/web/20260125131835im_/http://spidermedia.ru/assets/images/dnk/2020-10/21/f6.jpg)![](https://web.archive.org/web/20260125131835im_/http://spidermedia.ru/assets/images/dnk/2020-10/21/f7.jpg)![](https://web.archive.org/web/20260125131835im_/http://spidermedia.ru/assets/images/dnk/2020-10/21/f8.jpg)![](https://web.archive.org/web/20260125131835im_/http://spidermedia.ru/assets/images/dnk/2020-10/21/f9.jpg)
+
+BOOM! хотело издать комикс-приквел **Dune: House Atreides** под кино, но кина не будет. Отложить комикс было бы некрасиво, так что пускай теперь продает себя сам. У него в принципе все инструменты для этого есть — пишут вроде как не подмастерья, а сами авторы оригинальных романов Кевин Андерсон и Брайан Герберт. И, конечно, завлекает иллюстрация от Джея Ли — но, в отличие от другого комикс-приквела к знаменитой серии книг, здесь он только на обложках.
+
+Известная феминистка и писательница Роксана Гей пробует делать комиксы. Написала мини-серию для издательства TKO, написала для Marvel что-то про Ваканду — у нас в темной России такое никто не читает. Может, заинтересует ее графроман для тандема BOOM! и Archaia. Может, нет: по описанию **Sacrifice of Darkness** совершенно непонятно, про что он. Нам продают не интригующий сюжет, а идею: женщина будет путешествовать по миру, в котором тьма победила свет, найдет любовь и семью. Видимо, считают, что достаточно имени автора.
+
+### BOOM! Studios
+
+- Dune House Atreides #1
+- Faithless II #5
+- Firefly #21
+- Jim Henson's The Dark Crystal Age Of Resistance #12
+- Mighty Morphin Power Rangers #55
+
+### Dynamite Entertainment
+
+- Bettie Page #3
+- Mars Attacks Red Sonja #3
+- Vengeance Of Vampirella #11
+
+![](https://web.archive.org/web/20260125131835im_/http://spidermedia.ru/assets/images/dnk/2020-10/21/d1.jpg)![](https://web.archive.org/web/20260125131835im_/http://spidermedia.ru/assets/images/dnk/2020-10/21/d2.jpg)![](https://web.archive.org/web/20260125131835im_/http://spidermedia.ru/assets/images/dnk/2020-10/21/d3.jpg)![](https://web.archive.org/web/20260125131835im_/http://spidermedia.ru/assets/images/dnk/2020-10/21/d4.jpg)![](https://web.archive.org/web/20260125131835im_/http://spidermedia.ru/assets/images/dnk/2020-10/21/d5.jpg)![](https://web.archive.org/web/20260125131835im_/http://spidermedia.ru/assets/images/dnk/2020-10/21/d6.jpg)![](https://web.archive.org/web/20260125131835im_/http://spidermedia.ru/assets/images/dnk/2020-10/21/d7.jpg)![](https://web.archive.org/web/20260125131835im_/http://spidermedia.ru/assets/images/dnk/2020-10/21/d8.jpg)
+
+Спасибо издательству IDW, что подарило возможность написать в этой рубрике про мою любимую группу **Pearl Jam**. Когда еще, как не сейчас?
+
+Pearl Jam — одна из групп Большой Четверки из Сиэттла, ответственной за коммерческий успех гранджа в начале 1990-х (другие три, соответственно, Nirvana, Soundgarden и Alice in Chains). Пуристы их не жалуют, но именно благодаря тому, что от гранджа PJ отряхнулись довольно быстро, они не воспринимаются как реликт своей эпохи, это вневременной стадионный рок, как, скажем, The Who или Led Zeppelin. Грандиозная музыка, кипящие эмоции Эдди Веддера — обожаю.
+
+В 2020-м у Pearl Jam вышел мощнейший новый альбом Gigaton, но мы чествуем другой: артбук **Pearl Jam: Art Of Do The Evolution** посвящен клипу на песню Do The Evolution c пластинки* Yield 1998-го года. Переслушал ее по этому поводу на днях — рвет все так же. А клип действительно невероятно интересен, он анимационный и режиссировал его Тодд Макфарлейн. Был у него и такой период, тогда же сделал и клип Freak On A Leash для Korn — ну этот точно все видели. Но он был рисованный наполовину, у Pearl Jam целиком. Это колоссальный труд множества аниматоров, и наконец можно полностью погрузиться в историю его создания.
+
+<iframe allowfullscreen="" frameborder="0" height="315" src="http://www.youtube.com/embed/aDaOgu2CQtI?wmode=transparent" width="560"></iframe>
+
+*Называть альбомы пластинками, чтобы не повторяться, надежнее, чем дисками, — винил пережил CD.
+
+### IDW Publishing
+
+- Pearl Jam Art Of Do The Evolution HC
+- Teenage Mutant Ninja Turtles #110
+
+### Другие издательства
+
+- AFTERSHOCK COMICS
+- Dead Day #4
+- Miles To Go #2
+- ALBATROSS FUNNYBOOKS
+- King Tank Girl #1
+- AMERICAN MYTHOLOGY PRODUCTIONS
+- Zorro Galleon Of Dead #2
+- ARCHIE COMIC PUBLICATIONS
+- Chilling Adventures Of Sabrina Presents Madame Satan #1
+- AWA STUDIOS
+- Devil's Highway #4
+- COFFIN COMICS
+- Lady Death Scorched Earth #2
+- MAD CAVE STUDIOS
+- Dry Foot #2
+- RED 5 COMICS
+- Butcher Queen Planet Of The Dead #1
+- Riptide Draken #2
+- TINTO PRESS
+- Goiter #5
+- TITAN COMICS
+- Blade Runner 2019 #11
+- VALIANT ENTERTAINMENT
+- Rai #8
+- ZENESCOPE ENTERTAINMENT
+- Tales Of Terror Quarterly 2020 Halloween Special #1
+
+![](https://web.archive.org/web/20260125131835im_/http://spidermedia.ru/assets/images/dnk/2020-10/21/a1.jpg)![](https://web.archive.org/web/20260125131835im_/http://spidermedia.ru/assets/images/dnk/2020-10/21/a2.jpg)![](https://web.archive.org/web/20260125131835im_/http://spidermedia.ru/assets/images/dnk/2020-10/21/a3.jpg)![](https://web.archive.org/web/20260125131835im_/http://spidermedia.ru/assets/images/dnk/2020-10/21/a4.jpg)![](https://web.archive.org/web/20260125131835im_/http://spidermedia.ru/assets/images/dnk/2020-10/21/a5.jpg)![](https://web.archive.org/web/20260125131835im_/http://spidermedia.ru/assets/images/dnk/2020-10/21/a6.jpg)![](https://web.archive.org/web/20260125131835im_/http://spidermedia.ru/assets/images/dnk/2020-10/21/a7.jpg)

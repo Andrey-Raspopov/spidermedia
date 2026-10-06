@@ -1,7 +1,10 @@
 {
   "title": "Морган Фримен + Уоррен Эллис",
-  "date": "2009-07-20T12:19:00+03:00",
+  "date": "2009-07-20T11:19:43+03:00",
   "url": "/news/morgan-frimen-uorren-ellis/",
+  "aliases": [
+    "/node/1607/"
+  ],
   "original_url": "http://spidermedia.ru/news/morgan-frimen-uorren-ellis",
   "archived": "https://web.archive.org/web/20111018212122/http://spidermedia.ru/news/morgan-frimen-uorren-ellis",
   "tags": [
@@ -14,6 +17,12 @@
     "komiksy",
     "morgan-frimen",
     "uorren-ellis"
+  ],
+  "cover": "https://web.archive.org/web/20111018212122im_/http://spidermedia.ru/assets/images/import_image/1607.jpg",
+  "modx_id": 1607,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

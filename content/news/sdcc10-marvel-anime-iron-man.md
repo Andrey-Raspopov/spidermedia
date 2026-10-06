@@ -1,6 +1,6 @@
 {
   "title": "SDCC'10: Marvel Anime - Iron Man",
-  "date": "2010-07-25T02:20:00+03:00",
+  "date": "2010-07-25T01:20:07+03:00",
   "url": "/news/sdcc10-marvel-anime-iron-man/",
   "original_url": "http://spidermedia.ru/news/sdcc10-marvel-anime-iron-man",
   "archived": "https://web.archive.org/web/20260115041757/http://spidermedia.ru/news/sdcc10-marvel-anime-iron-man",
@@ -10,7 +10,13 @@
     "anime",
     "animaciya",
     "marvel",
-    "iron-man"
+    "iron-man",
+    "zheleznyy-chelovek"
+  ],
+  "modx_id": 2788,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

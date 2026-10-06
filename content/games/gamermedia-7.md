@@ -8,6 +8,12 @@
     "gamermedia",
     "zvezdnye-vojny"
   ],
+  "cover": "https://web.archive.org/web/20250806062116im_/http://spidermedia.ru/assets/images/games/gejmmediiya7.jpg",
+  "modx_id": 101738,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

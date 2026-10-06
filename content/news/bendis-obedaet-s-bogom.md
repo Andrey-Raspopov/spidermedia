@@ -1,7 +1,10 @@
 {
   "title": "Бендис обедает с Богом",
-  "date": "2009-10-02T21:23:00+03:00",
+  "date": "2009-10-02T20:23:59+03:00",
   "url": "/news/bendis-obedaet-s-bogom/",
+  "aliases": [
+    "/node/1958/"
+  ],
   "original_url": "http://spidermedia.ru/news/bendis-obedaet-s-bogom",
   "archived": "https://web.archive.org/web/20260313103612/http://spidermedia.ru/news/bendis-obedaet-s-bogom",
   "tags": [
@@ -12,6 +15,12 @@
     "howard-chaykin",
     "daredevil",
     "brian-michael-bendis"
+  ],
+  "cover": "https://web.archive.org/web/20260313103612im_/http://spidermedia.ru/assets/images/import_image/1958.jpg",
+  "modx_id": 1958,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

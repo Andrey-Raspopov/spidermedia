@@ -1,7 +1,10 @@
 {
   "title": "Слухи, колонка 3",
-  "date": "2009-04-20T13:36:00+03:00",
+  "date": "2009-04-20T12:36:15+03:00",
   "url": "/news/sluhi-kolonka-3/",
+  "aliases": [
+    "/node/1001/"
+  ],
   "original_url": "http://spidermedia.ru/news/sluhi-kolonka-3",
   "archived": "https://web.archive.org/web/20120512075038/http://spidermedia.ru/news/sluhi-kolonka-3",
   "tags": [
@@ -13,13 +16,20 @@
     "marvel",
     "novye-mutanty",
     "saymon-byanchi",
-    "sluhi"
+    "sluhi",
+    "sajmon-byanchi"
+  ],
+  "cover": "https://web.archive.org/web/20120512075038im_/http://spidermedia.ru/assets/images/import_image/1001.jpg",
+  "modx_id": 1001,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }
 
-По прошествии времени с нашей [прошлой колонки](../../node/828/) в сети, как это обычно бывает, появилась очередная порция слухов. Сегодня мы представим для вас несколько наиболее интересных из них, появившихся в последнее время. Итак, приступим:
+По прошествии времени с нашей [прошлой колонки](../sluhi-kolonka-2/) в сети, как это обычно бывает, появилась очередная порция слухов. Сегодня мы представим для вас несколько наиболее интересных из них, появившихся в последнее время. Итак, приступим:
 
 ]]>[![](https://web.archive.org/web/20120512075038im_/http://images.comicbookresources.com/previews/marvelcomics/xmen/xposition/NEWMUTV3003_cov_col_sm.jpg)](http://images.comicbookresources.com/previews/marvelcomics/xmen/xposition/NEWMUTV3003_cov_col.jpg)]]>- Возможно в скором времени **Джубили** *(Jubilee*) войдет в состав основных героев комикса **X-Factor**. Сам автор серии, **Питер Дэвид**, готов с радостью ввести её в комикс, но все зависит от решения руководства **Marvel**.
 - Появился интересный, и не лишенный оснований, слух о том, что **Саймон Бьянчи** *(Simone Bianchi)* примет участие в работе над [**Dark Avengers/Uncanny X-Men: Utopia**](https://web.archive.org/web/20111018064907/http://spidermedia.ru/taxonomy/term/1309). Впрочем, даже если это случится, пока не ясно будет ли он работать только над обложками или над каким-то номерами кроссовера.

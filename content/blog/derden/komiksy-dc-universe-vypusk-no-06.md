@@ -1,7 +1,10 @@
 {
   "title": "Комиксы DC Universe. Выпуск № 06",
-  "date": "2009-07-10T23:01:00+03:00",
+  "date": "2009-07-10T22:01:56+03:00",
   "url": "/blog/derden/komiksy-dc-universe-vypusk-no-06/",
+  "aliases": [
+    "/node/1531/"
+  ],
   "original_url": "http://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-06",
   "archived": "https://web.archive.org/web/20200216104035/http://spidermedia.ru:80/blog/derden/komiksy-dc-universe-vypusk-no-06",
   "tags": [
@@ -9,6 +12,12 @@
     "batman",
     "hush",
     "dc-universe-comics"
+  ],
+  "cover": "https://web.archive.org/web/20200216104035im_/http://spidermedia.ru/assets/images/import_image/1531.gif",
+  "modx_id": 1531,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

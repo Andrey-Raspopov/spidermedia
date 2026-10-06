@@ -1,7 +1,10 @@
 {
   "title": "Кто Агент, а кто Мститель",
-  "date": "2009-04-16T21:57:00+03:00",
+  "date": "2009-04-16T20:57:20+03:00",
   "url": "/news/kto-agent-kto-mstitel/",
+  "aliases": [
+    "/node/963/"
+  ],
   "original_url": "http://spidermedia.ru/news/kto-agent-kto-mstitel",
   "archived": "https://web.archive.org/web/20260211185113/http://spidermedia.ru/news/kto-agent-kto-mstitel",
   "tags": [
@@ -11,7 +14,13 @@
     "new-avengers",
     "avengers",
     "billi-tan",
-    "karlo-pagulayan"
+    "karlo-pagulayan",
+    "novye-mstiteli"
+  ],
+  "modx_id": 963,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

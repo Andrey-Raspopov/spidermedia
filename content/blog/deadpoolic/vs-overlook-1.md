@@ -1,7 +1,10 @@
 {
   "title": "...Vs Overlook #1",
-  "date": "2009-05-10T20:10:00+03:00",
+  "date": "2009-05-10T19:10:37+03:00",
   "url": "/blog/deadpoolic/vs-overlook-1/",
+  "aliases": [
+    "/node/1144/"
+  ],
   "original_url": "http://spidermedia.ru/blog/deadpoolic/vs-overlook-1",
   "archived": "https://web.archive.org/web/20111019051914/http://spidermedia.ru/blog/deadpoolic/vs-overlook-1",
   "tags": [
@@ -12,7 +15,14 @@
     "spider-man",
     "terror-inc",
     "komiksy",
-    "chelovek-pauk"
+    "chelovek-pauk",
+    "avengers"
+  ],
+  "cover": "https://web.archive.org/web/20111019051914im_/http://spidermedia.ru/assets/images/import_image/1144.jpg",
+  "modx_id": 1144,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

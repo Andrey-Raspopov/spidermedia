@@ -1,6 +1,6 @@
 {
   "title": "Больше ДиСи Мыслей. Часть 3. Софткор, распутницы и Альберт Альбертсон",
-  "date": "2011-09-23T05:29:00+03:00",
+  "date": "2011-09-23T04:29:16+03:00",
   "url": "/blog/samm-o/bolshe-disi-mysley-chast-3-softkor-rasputnicy-i-albert-albertson/",
   "original_url": "http://spidermedia.ru/blog/samm-o/bolshe-disi-mysley-chast-3-softkor-rasputnicy-i-albert-albertson",
   "archived": "https://web.archive.org/web/20150501155221/http://spidermedia.ru/blog/samm-o/bolshe-disi-mysley-chast-3-softkor-rasputnicy-i-albert-albertson",
@@ -8,6 +8,12 @@
     "dc-comics",
     "bdsm",
     "mnenie"
+  ],
+  "cover": "https://web.archive.org/web/20150502230349im_/http://spidermedia.ru/assets/images/import_image/6614.jpg",
+  "modx_id": 6614,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

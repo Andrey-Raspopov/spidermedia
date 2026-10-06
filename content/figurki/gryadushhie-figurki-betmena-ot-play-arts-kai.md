@@ -8,6 +8,12 @@
     "batman",
     "dc-comics"
   ],
+  "cover": "https://web.archive.org/web/20160416131749im_/http://spidermedia.ru/assets/images/news/images/5_toys/play-arts-kai/123.jpg",
+  "modx_id": 100857,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

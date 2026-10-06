@@ -1,6 +1,6 @@
 {
   "title": "Зеленый Фонарь - комиксы, фигурки, анимация",
-  "date": "2011-02-11T08:54:00+03:00",
+  "date": "2011-02-11T08:54:53+03:00",
   "url": "/news/zelenyy-fonar-komiksy-figurki-animaciya/",
   "original_url": "http://spidermedia.ru/news/zelenyy-fonar-komiksy-figurki-animaciya",
   "archived": "https://web.archive.org/web/20251110225248/http://spidermedia.ru/news/zelenyy-fonar-komiksy-figurki-animaciya",
@@ -9,6 +9,12 @@
     "dc-comics",
     "animaciya",
     "figurki"
+  ],
+  "cover": "https://web.archive.org/web/20251110225248im_/http://spidermedia.ru/assets/images/import_image/3323.png",
+  "modx_id": 3323,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

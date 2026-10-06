@@ -1,12 +1,18 @@
 {
   "title": "Рецензия на фильм «Седьмой сын»",
-  "date": "2014-12-31T11:15:00+03:00",
+  "date": "2014-12-31T11:15:19+03:00",
   "url": "/blog/transistor/recenziya-na-film-sedmoy-syn-0/",
   "original_url": "http://spidermedia.ru/blog/transistor/recenziya-na-film-sedmoy-syn-0",
   "archived": "https://web.archive.org/web/20150319161946/http://spidermedia.ru/blog/transistor/recenziya-na-film-sedmoy-syn-0",
   "tags": [
     "obzor",
     "kino"
+  ],
+  "cover": "https://web.archive.org/web/20150326034846im_/http://spidermedia.ru/assets/images/import_image/8448.jpg",
+  "modx_id": 8448,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

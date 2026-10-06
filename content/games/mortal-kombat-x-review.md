@@ -7,6 +7,12 @@
   "tags": [
     "mortal-kombat"
   ],
+  "cover": "https://web.archive.org/web/20170906041317im_/https://spidermedia.ru/assets/images/games/mortal-kombat-x/header1.jpg",
+  "modx_id": 100227,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

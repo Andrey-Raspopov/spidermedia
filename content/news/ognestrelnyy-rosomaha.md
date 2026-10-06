@@ -1,7 +1,10 @@
 {
   "title": "Огнестрельный Росомаха",
-  "date": "2009-03-17T04:26:00+03:00",
+  "date": "2009-03-17T03:26:59+03:00",
   "url": "/news/ognestrelnyy-rosomaha/",
+  "aliases": [
+    "/node/696/"
+  ],
   "original_url": "http://spidermedia.ru/news/ognestrelnyy-rosomaha",
   "archived": "https://web.archive.org/web/20120718090604/http://spidermedia.ru/news/ognestrelnyy-rosomaha",
   "tags": [
@@ -10,7 +13,14 @@
     "marvel",
     "oblozhki",
     "preview-s",
-    "rosomaha"
+    "rosomaha",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20120718090604im_/http://spidermedia.ru/assets/images/import_image/696.jpg",
+  "modx_id": 696,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

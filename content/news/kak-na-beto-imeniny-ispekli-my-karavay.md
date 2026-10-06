@@ -1,7 +1,10 @@
 {
   "title": "Как на Бэто-именины испекли мы каравай...",
-  "date": "2009-04-16T22:28:00+03:00",
+  "date": "2009-04-16T21:28:52+03:00",
   "url": "/news/kak-na-beto-imeniny-ispekli-my-karavay/",
+  "aliases": [
+    "/node/965/"
+  ],
   "original_url": "http://spidermedia.ru/news/kak-na-beto-imeniny-ispekli-my-karavay",
   "archived": "https://web.archive.org/web/20251107004636/http://spidermedia.ru/news/kak-na-beto-imeniny-ispekli-my-karavay",
   "tags": [
@@ -9,6 +12,12 @@
     "neil-gaiman",
     "detective-comics",
     "endi-kubert"
+  ],
+  "cover": "https://web.archive.org/web/20251107004636im_/http://spidermedia.ru/assets/images/import_image/965.jpg",
+  "modx_id": 965,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

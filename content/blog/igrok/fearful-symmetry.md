@@ -1,6 +1,6 @@
 {
   "title": "Fearful Symmetry",
-  "date": "2014-06-20T17:45:00+03:00",
+  "date": "2014-06-20T16:45:14+03:00",
   "url": "/blog/igrok/fearful-symmetry/",
   "original_url": "http://spidermedia.ru/blog/igrok/fearful-symmetry",
   "archived": "https://web.archive.org/web/20251209152143/http://spidermedia.ru/blog/igrok/fearful-symmetry",
@@ -8,6 +8,12 @@
     "spider-man",
     "mnenie",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20160622205118im_/http://spidermedia.ru/assets/images/import_image/7830.jpg",
+  "modx_id": 7830,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

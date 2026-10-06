@@ -1,13 +1,21 @@
 {
   "title": "Darkest Hour",
-  "date": "2009-07-06T14:18:00+03:00",
+  "date": "2009-07-06T13:18:45+03:00",
   "url": "/blog/sir-carnage/darkest-hour/",
+  "aliases": [
+    "/node/1491/"
+  ],
   "original_url": "http://spidermedia.ru/blog/sir-carnage/darkest-hour",
   "archived": "https://web.archive.org/web/20120610214200/http://spidermedia.ru/blog/sir-carnage/darkest-hour",
   "tags": [
     "blackest-night",
     "marvel",
     "fanfikshn"
+  ],
+  "modx_id": 1491,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "ALL-NEW МЖДЗ: ALL YOU NEED IS READ",
-  "date": "2014-09-16T12:14:00+03:00",
+  "date": "2014-09-16T11:14:17+03:00",
   "url": "/blog/redson/all-new-mzhdz-all-you-need-read-0/",
   "original_url": "https://spidermedia.ru/blog/redson/all-new-mzhdz-all-you-need-read-0",
   "archived": "https://web.archive.org/web/20251211031528/https://spidermedia.ru/blog/redson/all-new-mzhdz-all-you-need-read-0",
@@ -8,6 +8,12 @@
     "manga",
     "mzhdz",
     "mnenie"
+  ],
+  "cover": "https://web.archive.org/web/20150428232342im_/http://spidermedia.ru/assets/images/import_image/8066.jpg",
+  "modx_id": 8066,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "ПИПЕЦ 2: Джим Керри в роли Полковника (ФОТО/ВИДЕО)",
-  "date": "2012-09-22T12:30:00+03:00",
+  "date": "2012-09-22T11:30:34+03:00",
   "url": "/news/pipec-2-dzhim-kerri-v-roli-polkovnika-foto-video/",
   "original_url": "https://spidermedia.ru/news/pipec-2-dzhim-kerri-v-roli-polkovnika-foto-video",
   "archived": "https://web.archive.org/web/20250709065324/https://spidermedia.ru/news/pipec-2-dzhim-kerri-v-roli-polkovnika-foto-video",
@@ -8,6 +8,12 @@
     "mark-millar",
     "kick-ass",
     "icon-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150326155934im_/http://spidermedia.ru/assets/images/import_image/7035.jpg",
+  "modx_id": 7035,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

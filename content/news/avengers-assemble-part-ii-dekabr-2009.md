@@ -1,13 +1,23 @@
 {
   "title": "Avengers Assemble! (Part II) - декабрь 2009",
-  "date": "2009-10-04T20:41:00+03:00",
+  "date": "2009-10-04T19:41:29+03:00",
   "url": "/news/avengers-assemble-part-ii-dekabr-2009/",
+  "aliases": [
+    "/node/1968/"
+  ],
   "original_url": "https://spidermedia.ru/news/avengers-assemble-part-ii-dekabr-2009",
   "archived": "https://web.archive.org/web/20250322063309/https://spidermedia.ru/news/avengers-assemble-part-ii-dekabr-2009",
   "tags": [
     "avengers",
     "marvel",
-    "preview"
+    "preview",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20250322063309im_/http://spidermedia.ru/assets/images/import_image/1968.jpg",
+  "modx_id": 1968,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

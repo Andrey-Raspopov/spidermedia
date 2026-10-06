@@ -1,6 +1,6 @@
 {
   "title": "Тони Старк в Москве: пресс-конференция Роберта Дауни-младшего и Бена Кингсли",
-  "date": "2013-04-11T17:36:00+03:00",
+  "date": "2013-04-11T16:36:18+03:00",
   "url": "/news/toni-stark-v-moskve-press-konferenciya-roberta-dauni-ml-i-bena-kingsli/",
   "original_url": "http://spidermedia.ru/news/toni-stark-v-moskve-press-konferenciya-roberta-dauni-ml-i-bena-kingsli",
   "archived": "https://web.archive.org/web/20130619035846/http://spidermedia.ru/news/toni-stark-v-moskve-press-konferenciya-roberta-dauni-ml-i-bena-kingsli",
@@ -8,6 +8,12 @@
     "zheleznyy-chelovek",
     "kino",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20130619035846im_/http://spidermedia.ru/assets/images/import_image/7195.jpg",
+  "modx_id": 7195,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

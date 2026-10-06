@@ -6,7 +6,14 @@
   "archived": "https://web.archive.org/web/20251207010439/http://spidermedia.ru/tv/sdcc-2015-serial-pro-archi-pereehal-na-the-cw",
   "tags": [
     "archie-comics",
-    "san-diego-comic-con-international"
+    "san-diego-comic-con-international",
+    "sdcc2015"
+  ],
+  "cover": "https://web.archive.org/web/20251207010439im_/http://spidermedia.ru/assets/images/news/archie/snimok-ekrana-2015-07-10-v-23.21.20.png",
+  "modx_id": 100348,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

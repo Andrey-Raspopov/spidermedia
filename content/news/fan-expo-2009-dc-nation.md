@@ -1,6 +1,6 @@
 {
   "title": "Fan Expo 2009 - DC Nation",
-  "date": "2009-08-30T18:57:00+03:00",
+  "date": "2009-08-30T17:57:14+03:00",
   "url": "/news/fan-expo-2009-dc-nation/",
   "original_url": "http://spidermedia.ru/news/fan-expo-2009-dc-nation",
   "archived": "https://web.archive.org/web/20230323055516/http://spidermedia.ru/news/fan-expo-2009-dc-nation",
@@ -9,6 +9,12 @@
     "dan-didio",
     "fan-expo-2009",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20230323055516im_/http://spidermedia.ru/assets/images/import_image/1849.png",
+  "modx_id": 1849,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

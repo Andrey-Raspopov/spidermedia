@@ -7,6 +7,12 @@
   "tags": [
     "hellboymedia"
   ],
+  "cover": "https://web.archive.org/web/20251209142727im_/http://spidermedia.ru/assets/images/hellboymedia/solicitations/16-07-july/july-16-solicitations-cover.jpg",
+  "modx_id": 101084,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

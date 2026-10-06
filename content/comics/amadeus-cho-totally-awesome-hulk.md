@@ -9,6 +9,12 @@
     "marvel",
     "hulk"
   ],
+  "cover": "https://web.archive.org/web/20180315043418im_/http://spidermedia.ru/assets/images/news/marvel/all-new-all-different/totally-awesome-hulk/totally-awesome-hulk-01.jpg",
+  "modx_id": 100571,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

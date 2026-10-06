@@ -1,6 +1,6 @@
 {
   "title": "А у нас в квартире газ, а у вас? - А у нас Халк!",
-  "date": "2012-04-21T19:14:00+03:00",
+  "date": "2012-04-21T18:14:15+03:00",
   "url": "/blog/transistor/u-nas-v-kvartire-gaz-u-vas-u-nas-halk/",
   "original_url": "http://spidermedia.ru/blog/transistor/u-nas-v-kvartire-gaz-u-vas-u-nas-halk",
   "archived": "https://web.archive.org/web/20140819042408/http://spidermedia.ru:80/blog/transistor/u-nas-v-kvartire-gaz-u-vas-u-nas-halk",
@@ -9,6 +9,12 @@
     "marvel",
     "avengers",
     "recenziya"
+  ],
+  "cover": "https://web.archive.org/web/20140819042408im_/http://spidermedia.ru/assets/images/import_image/6885.gif",
+  "modx_id": 6885,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

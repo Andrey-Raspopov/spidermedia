@@ -1,6 +1,6 @@
 {
   "title": "Японские каникулы",
-  "date": "2011-03-09T11:42:00+03:00",
+  "date": "2011-03-09T11:42:29+03:00",
   "url": "/news/yaponskie-kanikuly/",
   "original_url": "http://spidermedia.ru/news/yaponskie-kanikuly",
   "archived": "https://web.archive.org/web/20260209113151/http://spidermedia.ru/news/yaponskie-kanikuly",
@@ -9,7 +9,15 @@
     "anime",
     "animaciya",
     "x-men",
-    "marvel"
+    "marvel",
+    "art",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20150502162500im_/http://spidermedia.ru/assets/images/import_image/4009.jpg",
+  "modx_id": 4009,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

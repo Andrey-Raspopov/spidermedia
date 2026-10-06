@@ -1,12 +1,18 @@
 {
   "title": "Hellboymedia #01: B.P.R.D. — The Reign of the Black Flame",
-  "date": "2014-06-05T12:09:00+03:00",
+  "date": "2014-06-05T11:09:23+03:00",
   "url": "/news/hellboymedia-reign-black-flame/",
   "original_url": "http://spidermedia.ru/news/hellboymedia-reign-black-flame",
   "archived": "https://web.archive.org/web/20260123092556/http://spidermedia.ru/news/hellboymedia-reign-black-flame",
   "tags": [
     "hellboymedia",
     "mnenie"
+  ],
+  "cover": "https://web.archive.org/web/20160611152533im_/http://spidermedia.ru/assets/images/hellboymedia/regular/01-bprd-the-reign-of-the-black-flame/b.p.r.d.-the-reign-of-the-black-flame-cover.jpg",
+  "modx_id": 7770,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,12 +1,22 @@
 {
   "title": "Документальный сериал о комиксах",
-  "date": "2010-01-15T14:20:00+03:00",
+  "date": "2010-01-15T14:20:43+03:00",
   "url": "/blog/sterpazook/dokumentalnyy-serial-o-komiksah/",
+  "aliases": [
+    "/node/2264/"
+  ],
   "original_url": "http://spidermedia.ru/blog/sterpazook/dokumentalnyy-serial-o-komiksah",
   "archived": "https://web.archive.org/web/20230320163032/http://spidermedia.ru/blog/sterpazook/dokumentalnyy-serial-o-komiksah",
   "tags": [
     "serialy",
-    "industriya"
+    "industriya",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20230320163032im_/http://spidermedia.ru/assets/images/import_image/2264.jpg",
+  "modx_id": 2264,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

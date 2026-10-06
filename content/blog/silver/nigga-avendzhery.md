@@ -1,6 +1,6 @@
 {
   "title": "Нигга Авенджеры",
-  "date": "2009-04-05T01:11:00+03:00",
+  "date": "2009-04-05T00:11:50+03:00",
   "url": "/blog/silver/nigga-avendzhery/",
   "original_url": "http://spidermedia.ru/blog/silver/nigga-avendzhery",
   "archived": "https://web.archive.org/web/20120610051119/http://spidermedia.ru/blog/silver/nigga-avendzhery",
@@ -9,6 +9,11 @@
     "komiksy",
     "marvel",
     "mstiteli"
+  ],
+  "modx_id": 850,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

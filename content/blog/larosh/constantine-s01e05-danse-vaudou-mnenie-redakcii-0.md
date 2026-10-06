@@ -1,6 +1,6 @@
 {
   "title": "Constantine s01e05 \"Danse Vaudou\": мнение редакции",
-  "date": "2014-11-24T12:05:00+03:00",
+  "date": "2014-11-24T12:05:53+03:00",
   "url": "/blog/larosh/constantine-s01e05-danse-vaudou-mnenie-redakcii-0/",
   "original_url": "http://spidermedia.ru/blog/larosh/constantine-s01e05-danse-vaudou-mnenie-redakcii-0",
   "archived": "https://web.archive.org/web/20260214125419/http://spidermedia.ru/blog/larosh/constantine-s01e05-danse-vaudou-mnenie-redakcii-0",
@@ -10,7 +10,14 @@
     "dzhon-konstantin",
     "vertigo",
     "dc-comics",
-    "constantine"
+    "constantine",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20150424151345im_/http://spidermedia.ru/assets/images/import_image/8313.jpg",
+  "modx_id": 8313,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

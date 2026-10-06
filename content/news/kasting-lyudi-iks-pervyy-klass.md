@@ -1,13 +1,23 @@
 {
   "title": "Кастинг: \"Люди Икс: Первый класс\"",
-  "date": "2010-08-18T12:50:00+03:00",
+  "date": "2010-08-18T11:50:45+03:00",
   "url": "/news/kasting-lyudi-iks-pervyy-klass/",
+  "aliases": [
+    "/node/2713/"
+  ],
   "original_url": "http://spidermedia.ru/news/kasting-lyudi-iks-pervyy-klass",
   "archived": "https://web.archive.org/web/20260312014247/http://spidermedia.ru/news/kasting-lyudi-iks-pervyy-klass",
   "tags": [
     "lyudi-iks-pervyj-klass",
     "x-men-first-class",
-    "x-men"
+    "x-men",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20180211035052im_/http://spidermedia.ru/assets/images/import_image/2713.jpg",
+  "modx_id": 2713,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

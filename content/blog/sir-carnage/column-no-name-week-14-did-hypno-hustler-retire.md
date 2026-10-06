@@ -1,7 +1,10 @@
 {
   "title": "The Column With No Name - Week #14: Did Hypno-Hustler retire?",
-  "date": "2009-07-12T03:54:00+03:00",
+  "date": "2009-07-12T02:54:23+03:00",
   "url": "/blog/sir-carnage/column-no-name-week-14-did-hypno-hustler-retire/",
+  "aliases": [
+    "/node/1541/"
+  ],
   "original_url": "http://spidermedia.ru/blog/sir-carnage/column-no-name-week-14-did-hypno-hustler-retire",
   "archived": "https://web.archive.org/web/20260121004452/http://spidermedia.ru/blog/sir-carnage/column-no-name-week-14-did-hypno-hustler-retire",
   "tags": [
@@ -12,6 +15,12 @@
     "blackest-night",
     "batman",
     "the-column-with-no-name"
+  ],
+  "cover": "https://web.archive.org/web/20260121004452im_/http://spidermedia.ru/assets/images/import_image/1541.jpg",
+  "modx_id": 1541,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

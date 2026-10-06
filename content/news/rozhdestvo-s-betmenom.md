@@ -1,6 +1,6 @@
 {
   "title": "Рождество с Бэтменом",
-  "date": "2011-02-11T20:12:00+03:00",
+  "date": "2011-02-11T20:12:28+03:00",
   "url": "/news/rozhdestvo-s-betmenom/",
   "original_url": "http://spidermedia.ru/news/rozhdestvo-s-betmenom",
   "archived": "https://web.archive.org/web/20200221074331/http://spidermedia.ru:80/news/rozhdestvo-s-betmenom",
@@ -8,7 +8,14 @@
     "li-bermeho",
     "art-0",
     "dc-comics",
-    "batman"
+    "batman",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20200221074331im_/http://spidermedia.ru/assets/images/import_image/3336.jpg",
+  "modx_id": 3336,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

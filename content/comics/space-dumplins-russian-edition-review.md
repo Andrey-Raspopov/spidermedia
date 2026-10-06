@@ -7,6 +7,12 @@
   "tags": [
     "zarubezhnye-komiksy-na-russkom"
   ],
+  "cover": "https://web.archive.org/web/20220703150704im_/http://spidermedia.ru/assets/images/reviews/mif/space-dumplins/mzk.jpg",
+  "modx_id": 101921,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

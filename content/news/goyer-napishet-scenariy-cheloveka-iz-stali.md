@@ -1,6 +1,6 @@
 {
   "title": "Гойер напишет сценарий \"Человека из стали\"",
-  "date": "2010-02-25T14:42:00+03:00",
+  "date": "2010-02-25T14:42:10+03:00",
   "url": "/news/goyer-napishet-scenariy-cheloveka-iz-stali/",
   "original_url": "http://spidermedia.ru/news/goyer-napishet-scenariy-cheloveka-iz-stali",
   "archived": "https://web.archive.org/web/20250118045018/http://spidermedia.ru/news/goyer-napishet-scenariy-cheloveka-iz-stali",
@@ -9,6 +9,12 @@
     "superman",
     "man-of-steel",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20250118045018im_/http://spidermedia.ru/assets/images/import_image/2397.jpg",
+  "modx_id": 2397,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,14 +1,24 @@
 {
   "title": "Последние Дни Криминала",
-  "date": "2009-06-07T22:23:00+03:00",
+  "date": "2009-06-07T21:23:50+03:00",
   "url": "/news/poslednie-dni-kriminala/",
+  "aliases": [
+    "/node/1376/"
+  ],
   "original_url": "http://spidermedia.ru/news/poslednie-dni-kriminala",
   "archived": "https://web.archive.org/web/20250422033720/http://spidermedia.ru/news/poslednie-dni-kriminala",
   "tags": [
     "rik-remender",
     "greg-tochchini",
     "art-0",
-    "radical-publishing"
+    "radical-publishing",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20250422033720im_/http://spidermedia.ru/assets/images/import_image/1376.jpg",
+  "modx_id": 1376,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

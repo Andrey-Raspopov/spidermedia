@@ -1,6 +1,6 @@
 {
   "title": "РосоМАХа",
-  "date": "2012-07-03T05:47:00+03:00",
+  "date": "2012-07-03T04:47:56+03:00",
   "url": "/news/rosomaha/",
   "original_url": "http://spidermedia.ru/news/rosomaha",
   "archived": "https://web.archive.org/web/20241110012211/http://spidermedia.ru/news/rosomaha",
@@ -8,6 +8,12 @@
     "marvel",
     "wolverine",
     "dzhejson-starr"
+  ],
+  "cover": "https://web.archive.org/web/20241110012211im_/http://spidermedia.ru/assets/images/import_image/6954.jpg",
+  "modx_id": 6954,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,12 +1,18 @@
 {
   "title": "История развития Comic-Con International: San Diego",
-  "date": "2014-09-17T12:00:00+03:00",
+  "date": "2014-09-17T11:00:50+03:00",
   "url": "/articles/istoriya-razvitiya-comic-con-international-san-diego-0/",
   "original_url": "http://spidermedia.ru/articles/istoriya-razvitiya-comic-con-international-san-diego-0",
   "archived": "https://web.archive.org/web/20251013191025/http://spidermedia.ru/articles/istoriya-razvitiya-comic-con-international-san-diego-0",
   "tags": [
     "san-diego-comic-con-international",
     "comic-con-russia"
+  ],
+  "cover": "https://web.archive.org/web/20230803064004im_/http://spidermedia.ru/assets/images/import_image/8068.jpg",
+  "modx_id": 8068,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

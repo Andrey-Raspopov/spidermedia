@@ -1,13 +1,23 @@
 {
   "title": "The Witch of the Flower Forest",
-  "date": "2009-04-05T21:56:00+03:00",
+  "date": "2009-04-05T20:56:12+03:00",
   "url": "/blog/naya/witch-flower-forest/",
+  "aliases": [
+    "/node/862/"
+  ],
   "original_url": "http://spidermedia.ru/blog/naya/witch-flower-forest",
   "archived": "https://web.archive.org/web/20260117231250/http://spidermedia.ru/blog/naya/witch-flower-forest",
   "tags": [
     "one-shot",
     "manga",
-    "fantasy"
+    "fantasy",
+    "manga-2"
+  ],
+  "cover": "https://web.archive.org/web/20260117231250im_/http://spidermedia.ru/assets/images/import_image/862.gif",
+  "modx_id": 862,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

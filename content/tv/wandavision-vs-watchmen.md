@@ -12,6 +12,12 @@
     "dejmon-lindelof",
     "nu-hranitelej-to-vse-smotreli"
   ],
+  "cover": "https://web.archive.org/web/20260117233119im_/http://spidermedia.ru/assets/images/tv/marvel/wandavision/001.jpg",
+  "modx_id": 102357,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

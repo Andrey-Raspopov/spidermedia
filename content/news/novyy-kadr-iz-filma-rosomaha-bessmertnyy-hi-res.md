@@ -1,12 +1,18 @@
 {
   "title": "Новый кадр из фильма \"Росомаха: Бессмертный\" (Hi-Res)",
-  "date": "2013-01-15T01:08:00+03:00",
+  "date": "2013-01-15T00:08:01+03:00",
   "url": "/news/novyy-kadr-iz-filma-rosomaha-bessmertnyy-hi-res/",
   "original_url": "http://spidermedia.ru/news/novyy-kadr-iz-filma-rosomaha-bessmertnyy-hi-res",
   "archived": "https://web.archive.org/web/20251206035320/http://spidermedia.ru/news/novyy-kadr-iz-filma-rosomaha-bessmertnyy-hi-res",
   "tags": [
     "wolverine",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20251206035320im_/http://spidermedia.ru/assets/images/import_image/7118.jpg",
+  "modx_id": 7118,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

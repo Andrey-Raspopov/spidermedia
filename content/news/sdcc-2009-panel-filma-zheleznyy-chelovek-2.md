@@ -1,7 +1,10 @@
 {
   "title": "SDCC 2009: Панель фильма \"Железный Человек 2\"",
-  "date": "2009-07-26T13:37:00+03:00",
+  "date": "2009-07-26T12:37:31+03:00",
   "url": "/news/sdcc-2009-panel-filma-zheleznyy-chelovek-2/",
+  "aliases": [
+    "/node/1668/"
+  ],
   "original_url": "http://spidermedia.ru/news/sdcc-2009-panel-filma-zheleznyy-chelovek-2",
   "archived": "https://web.archive.org/web/20120608005417/http://spidermedia.ru/news/sdcc-2009-panel-filma-zheleznyy-chelovek-2",
   "tags": [
@@ -14,7 +17,14 @@
     "zheleznyy-chelovek-2",
     "kino",
     "komik-kon-v-san-diego",
-    "foto"
+    "foto",
+    "san-diego-comic-con-international"
+  ],
+  "cover": "https://web.archive.org/web/20120608005417im_/http://spidermedia.ru/assets/images/import_image/1668.jpg",
+  "modx_id": 1668,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

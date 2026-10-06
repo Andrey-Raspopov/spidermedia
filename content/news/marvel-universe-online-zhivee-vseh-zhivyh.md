@@ -1,11 +1,17 @@
 {
   "title": "Marvel Universe Online живее всех живых!",
-  "date": "2009-03-31T20:10:00+03:00",
+  "date": "2009-03-31T19:10:39+03:00",
   "url": "/news/marvel-universe-online-zhivee-vseh-zhivyh/",
   "original_url": "http://spidermedia.ru/news/marvel-universe-online-zhivee-vseh-zhivyh",
   "archived": "https://web.archive.org/web/20260211185842/http://spidermedia.ru/news/marvel-universe-online-zhivee-vseh-zhivyh",
   "tags": [
     "igry"
+  ],
+  "cover": "https://web.archive.org/web/20150423095923im_/http://spidermedia.ru/assets/images/import_image/815.jpg",
+  "modx_id": 815,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "Темнейшая Ночь уже здесь!..почти",
-  "date": "2009-03-20T00:12:00+03:00",
+  "date": "2009-03-20T00:12:04+03:00",
   "url": "/news/temneyshaya-noch-uzhe-zdespochti/",
+  "aliases": [
+    "/node/725/"
+  ],
   "original_url": "http://spidermedia.ru/news/temneyshaya-noch-uzhe-zdespochti",
   "archived": "https://web.archive.org/web/20260312012010/http://spidermedia.ru/news/temneyshaya-noch-uzhe-zdespochti",
   "tags": [
@@ -11,6 +14,12 @@
     "blackest-night",
     "ajvan-rejs",
     "hel-dzhordan"
+  ],
+  "cover": "https://web.archive.org/web/20260312012010im_/http://spidermedia.ru/assets/images/import_image/725.jpg",
+  "modx_id": 725,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

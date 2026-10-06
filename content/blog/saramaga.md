@@ -10,6 +10,9 @@
     "manga-0",
     "sten-li"
   ],
+  "sources": [
+    "archive"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

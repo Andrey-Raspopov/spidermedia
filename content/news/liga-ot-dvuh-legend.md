@@ -1,7 +1,10 @@
 {
   "title": "Лига от Двух Легенд",
-  "date": "2009-09-30T23:27:00+03:00",
+  "date": "2009-09-30T22:27:00+03:00",
   "url": "/news/liga-ot-dvuh-legend/",
+  "aliases": [
+    "/node/1949/"
+  ],
   "original_url": "http://spidermedia.ru/news/liga-ot-dvuh-legend",
   "archived": "https://web.archive.org/web/20120607145246/http://spidermedia.ru/news/liga-ot-dvuh-legend",
   "tags": [
@@ -13,6 +16,12 @@
     "justice-league",
     "mon-el-0",
     "komiksy"
+  ],
+  "cover": "https://web.archive.org/web/20120607145246im_/http://spidermedia.ru/assets/images/import_image/1949.jpg",
+  "modx_id": 1949,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

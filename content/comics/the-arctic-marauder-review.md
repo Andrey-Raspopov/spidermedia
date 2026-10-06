@@ -7,6 +7,12 @@
   "tags": [
     "bande-dessinée"
   ],
+  "cover": "https://web.archive.org/web/20250324063117im_/http://spidermedia.ru/assets/images/bd/arctic-marauder/000.jpg",
+  "modx_id": 100803,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

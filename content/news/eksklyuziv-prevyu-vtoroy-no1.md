@@ -1,6 +1,6 @@
 {
   "title": "ЭКСКЛЮЗИВ: Превью «Второй №1»",
-  "date": "2014-12-12T11:28:00+03:00",
+  "date": "2014-12-12T11:28:17+03:00",
   "url": "/news/eksklyuziv-prevyu-vtoroy-no1/",
   "original_url": "http://spidermedia.ru/news/eksklyuziv-prevyu-vtoroy-no1",
   "archived": "https://web.archive.org/web/20250425214229/http://spidermedia.ru/news/eksklyuziv-prevyu-vtoroy-no1",
@@ -8,6 +8,12 @@
     "russian-comics",
     "izdatelstvo-42",
     "vtoroj"
+  ],
+  "cover": "https://web.archive.org/web/20150502160214im_/http://spidermedia.ru/assets/images/import_image/8365.jpg",
+  "modx_id": 8365,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

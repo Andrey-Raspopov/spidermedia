@@ -1,6 +1,6 @@
 {
   "title": "Возвращение к работе",
-  "date": "2011-05-23T01:41:00+03:00",
+  "date": "2011-05-23T00:41:38+03:00",
   "url": "/news/vozvrashchenie-k-rabote/",
   "original_url": "http://spidermedia.ru/news/vozvrashchenie-k-rabote",
   "archived": "https://web.archive.org/web/20260116224533/http://spidermedia.ru/news/vozvrashchenie-k-rabote",
@@ -12,7 +12,15 @@
     "sel-busima",
     "bryan-hitch",
     "punisher",
-    "marvel"
+    "marvel",
+    "art",
+    "brayan-hitch"
+  ],
+  "cover": "https://web.archive.org/web/20260116224533im_/http://spidermedia.ru/assets/images/import_image/5942.jpg",
+  "modx_id": 5942,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

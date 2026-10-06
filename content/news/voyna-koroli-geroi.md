@@ -1,7 +1,10 @@
 {
   "title": "Война, Короли, Герои",
-  "date": "2009-03-14T00:23:00+03:00",
+  "date": "2009-03-13T23:23:58+03:00",
   "url": "/news/voyna-koroli-geroi/",
+  "aliases": [
+    "/node/670/"
+  ],
   "original_url": "http://spidermedia.ru/news/voyna-koroli-geroi",
   "archived": "https://web.archive.org/web/20120607192223/http://spidermedia.ru/news/voyna-koroli-geroi",
   "tags": [
@@ -11,7 +14,14 @@
     "komiksy",
     "marvel",
     "oblozhki",
-    "temnyy-yastreb"
+    "temnyy-yastreb",
+    "temnyj-yastreb",
+    "art"
+  ],
+  "modx_id": 670,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

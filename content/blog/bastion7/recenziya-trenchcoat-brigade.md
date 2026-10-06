@@ -1,7 +1,10 @@
 {
   "title": "рецензия - Trenchcoat Brigade",
-  "date": "2009-02-20T21:20:00+03:00",
+  "date": "2009-02-20T21:20:55+03:00",
   "url": "/blog/bastion7/recenziya-trenchcoat-brigade/",
+  "aliases": [
+    "/node/465/"
+  ],
   "original_url": "http://spidermedia.ru/blog/bastion7/recenziya-trenchcoat-brigade",
   "archived": "https://web.archive.org/web/20250808213044/http://spidermedia.ru/blog/bastion7/recenziya-trenchcoat-brigade",
   "tags": [
@@ -9,6 +12,12 @@
     "recenziya",
     "vertigo",
     "dzhon-konstantin"
+  ],
+  "cover": "https://web.archive.org/web/20250808213044im_/http://spidermedia.ru/assets/images/import_image/465.jpg",
+  "modx_id": 465,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

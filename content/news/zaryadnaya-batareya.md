@@ -1,12 +1,18 @@
 {
   "title": "Зарядная Батарея",
-  "date": "2010-10-18T16:21:00+03:00",
+  "date": "2010-10-18T15:21:34+03:00",
   "url": "/news/zaryadnaya-batareya/",
   "original_url": "http://spidermedia.ru/news/zaryadnaya-batareya",
   "archived": "https://web.archive.org/web/20260313102536/http://spidermedia.ru/news/zaryadnaya-batareya",
   "tags": [
     "green-lantern",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20260313102536im_/http://spidermedia.ru/assets/images/import_image/3016.jpg",
+  "modx_id": 3016,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

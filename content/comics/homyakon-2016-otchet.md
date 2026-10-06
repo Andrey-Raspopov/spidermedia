@@ -9,6 +9,12 @@
     "russian-comics",
     "konvencii"
   ],
+  "cover": "https://web.archive.org/web/20241213063340im_/http://spidermedia.ru/assets/images/comic-con/2016/xomacon/dxfxxenbxlo.jpg",
+  "modx_id": 101016,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,12 +1,18 @@
 {
   "title": "ПРЕВЬЮ: «Шафировский проспект» от «Комильфо»",
-  "date": "2014-12-08T15:25:00+03:00",
+  "date": "2014-12-08T15:25:02+03:00",
   "url": "/news/prevyu-shafirovskiy-prospekt-ot-komilfo/",
   "original_url": "http://spidermedia.ru/news/prevyu-shafirovskiy-prospekt-ot-komilfo",
   "archived": "https://web.archive.org/web/20251115185926/http://spidermedia.ru/news/prevyu-shafirovskiy-prospekt-ot-komilfo",
   "tags": [
     "russian-comics",
     "komilfo"
+  ],
+  "cover": "https://web.archive.org/web/20150327040935im_/http://spidermedia.ru/assets/images/import_image/8353.jpg",
+  "modx_id": 8353,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

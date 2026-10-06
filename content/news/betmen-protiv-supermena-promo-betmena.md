@@ -1,12 +1,18 @@
 {
   "title": "\"Бэтмен против Супермена\": Промо Бэтмена",
-  "date": "2014-07-25T01:09:00+03:00",
+  "date": "2014-07-25T00:09:26+03:00",
   "url": "/news/betmen-protiv-supermena-promo-betmena/",
   "original_url": "http://spidermedia.ru/news/betmen-protiv-supermena-promo-betmena",
   "archived": "https://web.archive.org/web/20260313113053/http://spidermedia.ru/news/betmen-protiv-supermena-promo-betmena",
   "tags": [
     "batman",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150424211444im_/http://spidermedia.ru/assets/images/import_image/7921.jpg",
+  "modx_id": 7921,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

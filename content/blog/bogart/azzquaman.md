@@ -1,6 +1,6 @@
 {
   "title": "Azzquaman",
-  "date": "2009-03-03T17:39:00+03:00",
+  "date": "2009-03-03T17:39:20+03:00",
   "url": "/blog/bogart/azzquaman/",
   "original_url": "https://spidermedia.ru/blog/bogart/azzquaman",
   "archived": "https://web.archive.org/web/20251216122031/https://spidermedia.ru/blog/bogart/azzquaman",
@@ -9,6 +9,11 @@
     "brian-azzarello",
     "wondercon",
     "aquaman"
+  ],
+  "modx_id": 572,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

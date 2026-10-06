@@ -1,7 +1,10 @@
 {
   "title": "Все Лиги в одни руки!",
-  "date": "2009-06-19T23:25:00+03:00",
+  "date": "2009-06-19T22:25:08+03:00",
   "url": "/news/vse-ligi-v-odni-ruki/",
+  "aliases": [
+    "/node/1441/"
+  ],
   "original_url": "http://spidermedia.ru/news/vse-ligi-v-odni-ruki",
   "archived": "https://web.archive.org/web/20120607080801/http://spidermedia.ru/news/vse-ligi-v-odni-ruki",
   "tags": [
@@ -14,7 +17,14 @@
     "dzheyms-robinson",
     "liga-spravedlivosti",
     "mark-bagli",
-    "troica"
+    "troica",
+    "dzhejms-robinson"
+  ],
+  "cover": "https://web.archive.org/web/20120607080801im_/http://spidermedia.ru/assets/images/import_image/1441.jpg",
+  "modx_id": 1441,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

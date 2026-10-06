@@ -7,6 +7,12 @@
   "tags": [
     "manga"
   ],
+  "cover": "https://web.archive.org/web/20251209152120im_/http://spidermedia.ru/assets/images/manga/others/inuyashiki/03.jpg",
+  "modx_id": 101794,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,7 +1,10 @@
 {
   "title": "Молодая поросль",
-  "date": "2010-07-19T20:36:00+03:00",
+  "date": "2010-07-19T19:36:31+03:00",
   "url": "/news/molodaya-porosl/",
+  "aliases": [
+    "/node/2748/"
+  ],
   "original_url": "https://spidermedia.ru/news/molodaya-porosl",
   "archived": "https://web.archive.org/web/20250210034546/https://spidermedia.ru/news/molodaya-porosl",
   "tags": [
@@ -9,6 +12,12 @@
     "image-comics",
     "skybound",
     "witch-doctor"
+  ],
+  "cover": "https://web.archive.org/web/20250210034546im_/http://spidermedia.ru/assets/images/import_image/2748.jpg",
+  "modx_id": 2748,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

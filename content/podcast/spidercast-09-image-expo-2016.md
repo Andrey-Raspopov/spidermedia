@@ -9,6 +9,14 @@
     "image-expo",
     "spidercast"
   ],
+  "cover": "https://web.archive.org/web/20170306084515im_/http://spidermedia.ru/assets/images/comic-con/image-expo.jpg",
+  "podcast_audio": "https://spidermedia.podster.fm/36/download/audio.mp3",
+  "podcast_length": "2:09:29",
+  "modx_id": 101092,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

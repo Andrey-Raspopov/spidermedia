@@ -1,6 +1,6 @@
 {
   "title": "Forever Honey",
-  "date": "2009-02-04T22:37:00+03:00",
+  "date": "2009-02-04T21:37:16+03:00",
   "url": "/blog/naya/forever-honey/",
   "original_url": "http://spidermedia.ru/blog/naya/forever-honey",
   "archived": "https://web.archive.org/web/20120608234924/http://spidermedia.ru/blog/naya/forever-honey",
@@ -8,7 +8,14 @@
     "manga",
     "one-shot",
     "shoujo",
-    "skachat"
+    "skachat",
+    "manga-2"
+  ],
+  "cover": "https://web.archive.org/web/20120608234924im_/http://spidermedia.ru/assets/images/import_image/190.gif",
+  "modx_id": 190,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

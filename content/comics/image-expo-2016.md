@@ -8,6 +8,12 @@
     "image-comics",
     "image-expo"
   ],
+  "cover": "https://web.archive.org/web/20251108031659im_/http://spidermedia.ru/assets/images/news/image/image-expo-2016-04/moonshine-cover.jpg",
+  "modx_id": 101059,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

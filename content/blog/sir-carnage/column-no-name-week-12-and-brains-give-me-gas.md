@@ -1,7 +1,10 @@
 {
   "title": "The Column With No Name - Week #12: ... and brains give me gas.",
-  "date": "2009-06-14T07:06:00+03:00",
+  "date": "2009-06-14T06:06:29+03:00",
   "url": "/blog/sir-carnage/column-no-name-week-12-and-brains-give-me-gas/",
+  "aliases": [
+    "/node/1415/"
+  ],
   "original_url": "https://spidermedia.ru/blog/sir-carnage/column-no-name-week-12-and-brains-give-me-gas",
   "archived": "https://web.archive.org/web/20260314083130/https://spidermedia.ru/blog/sir-carnage/column-no-name-week-12-and-brains-give-me-gas",
   "tags": [
@@ -15,7 +18,14 @@
     "dc-comics",
     "beta-rej-bill",
     "batman",
-    "the-column-with-no-name"
+    "the-column-with-no-name",
+    "fantasticheskaya-chetverka"
+  ],
+  "cover": "https://web.archive.org/web/20260314083130im_/http://spidermedia.ru/assets/images/import_image/1415.jpg",
+  "modx_id": 1415,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

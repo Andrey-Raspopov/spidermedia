@@ -1,7 +1,10 @@
 {
   "title": "Опасно для вашего здоровья",
-  "date": "2009-10-02T11:26:00+03:00",
+  "date": "2009-10-02T10:26:35+03:00",
   "url": "/news/opasno-dlya-vashego-zdorovya/",
+  "aliases": [
+    "/node/1955/"
+  ],
   "original_url": "https://spidermedia.ru/news/opasno-dlya-vashego-zdorovya",
   "archived": "https://web.archive.org/web/20260214141542/https://spidermedia.ru/news/opasno-dlya-vashego-zdorovya",
   "tags": [
@@ -10,6 +13,12 @@
     "detective-comics",
     "dc-comics",
     "batman"
+  ],
+  "cover": "https://web.archive.org/web/20260214141542im_/http://spidermedia.ru/assets/images/import_image/1955.jpg",
+  "modx_id": 1955,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

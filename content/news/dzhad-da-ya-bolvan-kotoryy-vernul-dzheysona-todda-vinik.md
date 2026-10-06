@@ -1,7 +1,10 @@
 {
   "title": "Джад \"Да, я болван, который вернул Джэйсона Тодда\" Виник",
-  "date": "2009-04-17T01:27:00+03:00",
+  "date": "2009-04-17T00:27:24+03:00",
   "url": "/news/dzhad-da-ya-bolvan-kotoryy-vernul-dzheysona-todda-vinik/",
+  "aliases": [
+    "/node/917/"
+  ],
   "original_url": "http://spidermedia.ru/news/dzhad-da-ya-bolvan-kotoryy-vernul-dzheysona-todda-vinik",
   "archived": "https://web.archive.org/web/20260121001945/http://spidermedia.ru/news/dzhad-da-ya-bolvan-kotoryy-vernul-dzheysona-todda-vinik",
   "tags": [
@@ -11,6 +14,11 @@
     "intervyu",
     "judd-winick",
     "ed-benes"
+  ],
+  "modx_id": 917,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

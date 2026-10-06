@@ -4,6 +4,9 @@
   "url": "/docs/articles/kolosov/dotcomics/",
   "original_url": "http://spidermedia.ru/docs/articles/kolosov/dotcomics.html",
   "archived": "https://web.archive.org/web/20051203135839/http://spidermedia.ru:80/docs/articles/kolosov/dotcomics.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

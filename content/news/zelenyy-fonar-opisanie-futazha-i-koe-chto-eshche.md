@@ -1,6 +1,6 @@
 {
   "title": "\"Зеленый Фонарь\" - описание футаджа и кое-что еще",
-  "date": "2011-04-02T15:30:00+03:00",
+  "date": "2011-04-02T14:30:18+03:00",
   "url": "/news/zelenyy-fonar-opisanie-futazha-i-koe-chto-eshche/",
   "original_url": "https://spidermedia.ru/news/zelenyy-fonar-opisanie-futazha-i-koe-chto-eshche",
   "archived": "https://web.archive.org/web/20260211184233/https://spidermedia.ru/news/zelenyy-fonar-opisanie-futazha-i-koe-chto-eshche",
@@ -9,6 +9,12 @@
     "wondercon",
     "green-lantern",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20260211184233im_/http://spidermedia.ru/assets/images/import_image/4651.jpg",
+  "modx_id": 4651,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

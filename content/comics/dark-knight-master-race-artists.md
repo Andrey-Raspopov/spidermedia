@@ -8,7 +8,14 @@
     "dc-comics",
     "batman",
     "frenk-miller",
-    "san-diego-comic-con-international"
+    "san-diego-comic-con-international",
+    "sdcc2015"
+  ],
+  "cover": "https://web.archive.org/web/20251115190138im_/http://spidermedia.ru/assets/images/news/dc/dkiii-promo-image-sdcc-b5.jpg",
+  "modx_id": 100336,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

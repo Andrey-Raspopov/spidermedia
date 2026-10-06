@@ -1,14 +1,23 @@
 {
   "title": "Превью Mighty Avengers #22",
-  "date": "2009-02-19T23:39:00+03:00",
+  "date": "2009-02-19T22:39:43+03:00",
   "url": "/news/prevyu-mighty-avengers-22/",
+  "aliases": [
+    "/node/445/"
+  ],
   "original_url": "http://spidermedia.ru/news/prevyu-mighty-avengers-22",
   "archived": "https://web.archive.org/web/20120718110431/http://spidermedia.ru/news/prevyu-mighty-avengers-22",
   "tags": [
     "den-slott",
     "komiksy",
     "marvel",
-    "preview-s"
+    "preview-s",
+    "prevyu"
+  ],
+  "modx_id": 445,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

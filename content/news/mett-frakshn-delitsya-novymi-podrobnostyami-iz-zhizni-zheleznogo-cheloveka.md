@@ -1,7 +1,10 @@
 {
   "title": "Мэтт Фракшн делится новыми подробностями из жизни Железного Человека",
-  "date": "2009-03-12T17:33:00+03:00",
+  "date": "2009-03-12T16:33:12+03:00",
   "url": "/news/mett-frakshn-delitsya-novymi-podrobnostyami-iz-zhizni-zheleznogo-cheloveka/",
+  "aliases": [
+    "/node/656/"
+  ],
   "original_url": "http://spidermedia.ru/news/mett-frakshn-delitsya-novymi-podrobnostyami-iz-zhizni-zheleznogo-cheloveka",
   "archived": "https://web.archive.org/web/20111018035037/http://spidermedia.ru/news/mett-frakshn-delitsya-novymi-podrobnostyami-iz-zhizni-zheleznogo-cheloveka",
   "tags": [
@@ -13,7 +16,13 @@
     "zheleznyy-chelovek",
     "komiksy",
     "mett-frakshen",
-    "neymor"
+    "neymor",
+    "nejmor"
+  ],
+  "modx_id": 656,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

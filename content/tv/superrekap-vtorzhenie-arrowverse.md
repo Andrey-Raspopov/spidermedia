@@ -10,6 +10,12 @@
     "supergirl",
     "the-flash"
   ],
+  "cover": "https://web.archive.org/web/20170910060328im_/http://spidermedia.ru/assets/images/valiant/images/tv/arrowverse-invasion.jpg",
+  "modx_id": 101444,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

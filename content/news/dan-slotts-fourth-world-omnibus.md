@@ -1,7 +1,10 @@
 {
   "title": "Dan Slott's Fourth World Omnibus",
-  "date": "2010-04-01T00:06:00+03:00",
+  "date": "2010-03-31T23:06:51+03:00",
   "url": "/news/dan-slotts-fourth-world-omnibus/",
+  "aliases": [
+    "/node/2493/"
+  ],
   "original_url": "http://spidermedia.ru/news/dan-slotts-fourth-world-omnibus",
   "archived": "https://web.archive.org/web/20251205111045/http://spidermedia.ru/news/dan-slotts-fourth-world-omnibus",
   "tags": [
@@ -12,6 +15,12 @@
     "noirverse",
     "kraven",
     "spider-man"
+  ],
+  "cover": "https://web.archive.org/web/20150325215134im_/http://spidermedia.ru/assets/images/import_image/2493.jpg",
+  "modx_id": 2493,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

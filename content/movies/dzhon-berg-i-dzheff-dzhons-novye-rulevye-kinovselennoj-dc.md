@@ -8,6 +8,12 @@
     "dc-comics",
     "geoff-johns"
   ],
+  "cover": "https://web.archive.org/web/20260211193510im_/http://spidermedia.ru/assets/images/movies/dc/dcfilms.jpg",
+  "modx_id": 101156,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

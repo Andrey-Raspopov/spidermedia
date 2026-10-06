@@ -1,11 +1,17 @@
 {
   "title": "Реализм убивает комиксы",
-  "date": "2011-03-15T18:28:00+03:00",
+  "date": "2011-03-15T18:28:29+03:00",
   "url": "/blog/redson/realizm-ubivaet-komiksy/",
   "original_url": "http://spidermedia.ru/blog/redson/realizm-ubivaet-komiksy",
   "archived": "https://web.archive.org/web/20190915020150/http://spidermedia.ru:80/blog/redson/realizm-ubivaet-komiksy",
   "tags": [
     "mnenie"
+  ],
+  "cover": "https://web.archive.org/web/20190915020150im_/http://spidermedia.ru/assets/images/import_image/4168.jpg",
+  "modx_id": 4168,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

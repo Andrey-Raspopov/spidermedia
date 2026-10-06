@@ -1,6 +1,6 @@
 {
   "title": "DC New 52: Justice League vol.2 #1",
-  "date": "2011-09-05T02:28:00+03:00",
+  "date": "2011-09-05T01:28:29+03:00",
   "url": "/blog/derden/dc-new-52-justice-league-vol2-1/",
   "original_url": "https://spidermedia.ru/blog/derden/dc-new-52-justice-league-vol2-1",
   "archived": "https://web.archive.org/web/20251206160321/https://spidermedia.ru/blog/derden/dc-new-52-justice-league-vol2-1",
@@ -10,6 +10,12 @@
     "green-lantern",
     "dc-comics",
     "batman"
+  ],
+  "cover": "https://web.archive.org/web/20251206160321im_/http://spidermedia.ru/assets/images/import_image/6592.jpg",
+  "modx_id": 6592,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

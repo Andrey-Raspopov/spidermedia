@@ -1,13 +1,23 @@
 {
   "title": "Герои\\Heroes s3 ep.21 - \"Into Asylum\"\\\"В Убежище\"",
-  "date": "2009-04-03T14:50:00+03:00",
+  "date": "2009-04-03T13:50:40+03:00",
   "url": "/blog/alex/geroi-heroes-s3-ep21-asylum-v-ubezhishche/",
+  "aliases": [
+    "/node/841/"
+  ],
   "original_url": "http://spidermedia.ru/blog/alex/geroi-heroes-s3-ep21-asylum-v-ubezhishche",
   "archived": "https://web.archive.org/web/20150507211942/http://spidermedia.ru/blog/alex/geroi-heroes-s3-ep21-asylum-v-ubezhishche",
   "tags": [
     "heroes",
     "serialy",
-    "geroi"
+    "geroi",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20150507211942im_/http://spidermedia.ru/assets/images/import_image/841.gif",
+  "modx_id": 841,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

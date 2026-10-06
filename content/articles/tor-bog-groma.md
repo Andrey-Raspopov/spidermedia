@@ -1,12 +1,19 @@
 {
   "title": "Тор – Бог грома",
-  "date": "2011-05-02T14:46:00+03:00",
+  "date": "2011-05-02T13:46:35+03:00",
   "url": "/articles/tor-bog-groma/",
   "original_url": "http://spidermedia.ru/articles/tor-bog-groma",
   "archived": "https://web.archive.org/web/20260206225305/http://spidermedia.ru/articles/tor-bog-groma",
   "tags": [
     "thor",
-    "marvel"
+    "marvel",
+    "tor"
+  ],
+  "cover": "https://web.archive.org/web/20150428175936im_/http://spidermedia.ru/assets/images/import_image/5414.png",
+  "modx_id": 5414,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

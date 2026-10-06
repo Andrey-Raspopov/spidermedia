@@ -8,6 +8,12 @@
     "harli-kvin",
     "dc-comics"
   ],
+  "cover": "https://web.archive.org/web/20160611100232im_/http://spidermedia.ru/assets/images/news/images/5_toys/prime-1-studio/harley-quinn/harley-quinn-statue-by-prime-1-studio-17.jpg",
+  "modx_id": 100879,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

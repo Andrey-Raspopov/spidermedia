@@ -1,6 +1,6 @@
 {
   "title": "Constantine s01e12: «Angels And Ministers Of Grace» — мнение редакции",
-  "date": "2015-02-09T17:02:00+03:00",
+  "date": "2015-02-09T17:02:47+03:00",
   "url": "/blog/larosh/constantine-s01e12-angels-and-ministers-grace-mnenie-redakcii/",
   "original_url": "http://spidermedia.ru/blog/larosh/constantine-s01e12-angels-and-ministers-grace-mnenie-redakcii",
   "archived": "https://web.archive.org/web/20251206160832/http://spidermedia.ru/blog/larosh/constantine-s01e12-angels-and-ministers-grace-mnenie-redakcii",
@@ -10,7 +10,14 @@
     "dzhon-konstantin",
     "vertigo",
     "dc-comics",
-    "constantine"
+    "constantine",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20150326090637im_/http://spidermedia.ru/assets/images/import_image/8598.jpg",
+  "modx_id": 8598,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

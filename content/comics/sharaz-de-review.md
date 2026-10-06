@@ -8,6 +8,12 @@
     "zangavar",
     "zarubezhnye-komiksy-na-russkom"
   ],
+  "cover": "https://web.archive.org/web/20251006011027im_/http://spidermedia.ru/assets/images/reviews/zangavar/sharaz-de/sharaz-8.jpg",
+  "modx_id": 100254,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

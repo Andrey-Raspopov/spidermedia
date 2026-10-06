@@ -1,7 +1,10 @@
 {
   "title": "Свой среди чужих, чужой среди своих",
-  "date": "2009-05-01T20:00:00+03:00",
+  "date": "2009-05-01T19:00:35+03:00",
   "url": "/news/svoy-sredi-chuzhih-chuzhoy-sredi-svoih/",
+  "aliases": [
+    "/node/1078/"
+  ],
   "original_url": "http://spidermedia.ru/news/svoy-sredi-chuzhih-chuzhoy-sredi-svoih",
   "archived": "https://web.archive.org/web/20260309180435/http://spidermedia.ru/news/svoy-sredi-chuzhih-chuzhoy-sredi-svoih",
   "tags": [
@@ -19,7 +22,14 @@
     "greg-rucka",
     "pete-woods",
     "gary-frank",
-    "howard-chaykin"
+    "howard-chaykin",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20150502195703im_/http://spidermedia.ru/assets/images/import_image/1078.jpg",
+  "modx_id": 1078,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

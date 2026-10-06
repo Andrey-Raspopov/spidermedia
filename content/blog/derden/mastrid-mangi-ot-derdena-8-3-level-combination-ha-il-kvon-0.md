@@ -1,6 +1,6 @@
 {
   "title": "Мастрид манги от Дердена #8: 3 Level Combination, Ха Ил Квон",
-  "date": "2015-02-19T13:53:00+03:00",
+  "date": "2015-02-19T13:53:33+03:00",
   "url": "/blog/derden/mastrid-mangi-ot-derdena-8-3-level-combination-ha-il-kvon-0/",
   "original_url": "http://spidermedia.ru/blog/derden/mastrid-mangi-ot-derdena-8-3-level-combination-ha-il-kvon-0",
   "archived": "https://web.archive.org/web/20260117224933/http://spidermedia.ru/blog/derden/mastrid-mangi-ot-derdena-8-3-level-combination-ha-il-kvon-0",
@@ -9,6 +9,12 @@
     "manga",
     "ha-il-kwon",
     "3-level-combination"
+  ],
+  "cover": "https://web.archive.org/web/20150326100112im_/http://spidermedia.ru/assets/images/import_image/8635.jpg",
+  "modx_id": 8635,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Лонгшот спасёт Вселенную Марвел",
-  "date": "2013-10-27T13:57:00+03:00",
+  "date": "2013-10-27T12:57:59+03:00",
   "url": "/news/longshot-spasyot-vselennuyu-marvel/",
   "original_url": "http://spidermedia.ru/news/longshot-spasyot-vselennuyu-marvel",
   "archived": "https://web.archive.org/web/20251014050707/http://spidermedia.ru/news/longshot-spasyot-vselennuyu-marvel",
@@ -8,6 +8,12 @@
     "marvel",
     "longshot",
     "deadpool"
+  ],
+  "cover": "https://web.archive.org/web/20251014050707im_/http://spidermedia.ru/assets/images/import_image/7515.jpg",
+  "modx_id": 7515,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

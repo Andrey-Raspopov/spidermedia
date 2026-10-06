@@ -1,7 +1,10 @@
 {
   "title": "Дэдпул в правильных руках",
-  "date": "2009-08-15T00:14:00+03:00",
+  "date": "2009-08-14T23:14:02+03:00",
   "url": "/news/dedpul-v-pravilnyh-rukah/",
+  "aliases": [
+    "/node/1788/"
+  ],
   "original_url": "http://spidermedia.ru/news/dedpul-v-pravilnyh-rukah",
   "archived": "https://web.archive.org/web/20200221175358/http://spidermedia.ru:80/news/dedpul-v-pravilnyh-rukah",
   "tags": [
@@ -9,6 +12,12 @@
     "deadpool",
     "joe-kelly",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20200221175358im_/http://spidermedia.ru/assets/images/import_image/1788.jpg",
+  "modx_id": 1788,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

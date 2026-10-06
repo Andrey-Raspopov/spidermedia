@@ -4,6 +4,12 @@
   "url": "/comics/spidermedia-forever/",
   "original_url": "https://spidermedia.ru/comics/spidermedia-forever",
   "archived": "https://web.archive.org/web/20251209140436/https://spidermedia.ru/comics/spidermedia-forever",
+  "cover": "https://web.archive.org/web/20150315210246im_/http://spidermedia.ru/assets/images/ecahznqzhc4.jpg",
+  "modx_id": 100051,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

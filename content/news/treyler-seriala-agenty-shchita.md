@@ -1,12 +1,18 @@
 {
   "title": "Трейлер сериала \"Агенты ЩИТА\"",
-  "date": "2013-05-15T01:20:00+03:00",
+  "date": "2013-05-15T00:20:45+03:00",
   "url": "/news/treyler-seriala-agenty-shchita/",
   "original_url": "https://spidermedia.ru/news/treyler-seriala-agenty-shchita",
   "archived": "https://web.archive.org/web/20250717175912/https://spidermedia.ru/news/treyler-seriala-agenty-shchita",
   "tags": [
     "marvel",
     "s.h.i.e.l.d"
+  ],
+  "cover": "https://web.archive.org/web/20250717175912im_/http://spidermedia.ru/assets/images/import_image/7243.jpg",
+  "modx_id": 7243,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

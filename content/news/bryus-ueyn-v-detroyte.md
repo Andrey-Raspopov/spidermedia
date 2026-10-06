@@ -1,12 +1,18 @@
 {
   "title": "Брюс Уэйн в Детройте",
-  "date": "2014-08-12T09:57:00+03:00",
+  "date": "2014-08-12T08:57:09+03:00",
   "url": "/news/bryus-ueyn-v-detroyte/",
   "original_url": "https://spidermedia.ru/news/bryus-ueyn-v-detroyte",
   "archived": "https://web.archive.org/web/20251216190134/https://spidermedia.ru/news/bryus-ueyn-v-detroyte",
   "tags": [
     "dc-comics",
     "batman"
+  ],
+  "cover": "https://web.archive.org/web/20251216190134im_/http://spidermedia.ru/assets/images/import_image/7981.jpg",
+  "modx_id": 7981,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

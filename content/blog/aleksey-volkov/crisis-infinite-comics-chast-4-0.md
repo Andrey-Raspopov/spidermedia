@@ -1,11 +1,17 @@
 {
   "title": "Crisis of Infinite Comics: Часть 4",
-  "date": "2014-09-04T12:10:00+03:00",
+  "date": "2014-09-04T11:10:16+03:00",
   "url": "/blog/aleksey-volkov/crisis-infinite-comics-chast-4-0/",
   "original_url": "http://spidermedia.ru/blog/aleksey-volkov/crisis-infinite-comics-chast-4-0",
   "archived": "https://web.archive.org/web/20210303084902/http://spidermedia.ru/blog/aleksey-volkov/crisis-infinite-comics-chast-4-0",
   "tags": [
     "istoriya"
+  ],
+  "cover": "https://web.archive.org/web/20210303084902im_/http://spidermedia.ru/assets/images/import_image/8037.jpg",
+  "modx_id": 8037,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Анонсирован All-New Doop - один из главных комиксов года",
-  "date": "2014-01-11T15:14:00+03:00",
+  "date": "2014-01-11T14:14:31+03:00",
   "url": "/news/anonsirovan-all-new-doop-odin-iz-glavnyh-komiksov-goda/",
   "original_url": "http://spidermedia.ru/news/anonsirovan-all-new-doop-odin-iz-glavnyh-komiksov-goda",
   "archived": "https://web.archive.org/web/20250327233854/http://spidermedia.ru/news/anonsirovan-all-new-doop-odin-iz-glavnyh-komiksov-goda",
@@ -11,6 +11,12 @@
     "dup",
     "marvel",
     "x-men"
+  ],
+  "cover": "https://web.archive.org/web/20250327233854im_/http://spidermedia.ru/assets/images/import_image/7591.jpg",
+  "modx_id": 7591,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

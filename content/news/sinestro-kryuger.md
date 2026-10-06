@@ -1,7 +1,10 @@
 {
   "title": "Синестро Крюгер!",
-  "date": "2009-10-17T11:09:00+03:00",
+  "date": "2009-10-17T10:09:20+03:00",
   "url": "/news/sinestro-kryuger/",
+  "aliases": [
+    "/node/2003/"
+  ],
   "original_url": "https://spidermedia.ru/news/sinestro-kryuger",
   "archived": "https://web.archive.org/web/20260215082807/https://spidermedia.ru/news/sinestro-kryuger",
   "tags": [
@@ -9,6 +12,12 @@
     "sinestro",
     "jackie-earle-haley",
     "dzheki-erl-hejli"
+  ],
+  "cover": "https://web.archive.org/web/20260215082807im_/http://spidermedia.ru/assets/images/import_image/2003.gif",
+  "modx_id": 2003,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

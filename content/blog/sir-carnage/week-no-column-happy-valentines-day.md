@@ -1,12 +1,19 @@
 {
   "title": "The Week With No Column: Happy Valentine's Day!",
-  "date": "2010-02-14T04:30:00+03:00",
+  "date": "2010-02-14T03:30:41+03:00",
   "url": "/blog/sir-carnage/week-no-column-happy-valentines-day/",
   "original_url": "http://spidermedia.ru/blog/sir-carnage/week-no-column-happy-valentines-day",
   "archived": "https://web.archive.org/web/20120608145945/http://spidermedia.ru/blog/sir-carnage/week-no-column-happy-valentines-day",
   "tags": [
     "column-no-name",
-    "prazdnik"
+    "prazdnik",
+    "the-column-with-no-name"
+  ],
+  "cover": "https://web.archive.org/web/20120608145945im_/http://spidermedia.ru/assets/images/import_image/2368.jpg",
+  "modx_id": 2368,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

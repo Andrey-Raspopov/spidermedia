@@ -8,6 +8,12 @@
     "marvel",
     "fantastic-four"
   ],
+  "cover": "https://web.archive.org/web/20260115064646im_/http://spidermedia.ru/assets/images/reviews/marvel/fantastic-four-2018/001/1.jpg",
+  "modx_id": 101984,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,7 +1,10 @@
 {
   "title": "Магическое возвращение",
-  "date": "2009-12-04T04:35:00+03:00",
+  "date": "2009-12-04T04:35:09+03:00",
   "url": "/news/magicheskoe-vozvrashchenie/",
+  "aliases": [
+    "/node/2149/"
+  ],
   "original_url": "https://spidermedia.ru/news/magicheskoe-vozvrashchenie",
   "archived": "https://web.archive.org/web/20260211184839/https://spidermedia.ru/news/magicheskoe-vozvrashchenie",
   "tags": [
@@ -10,6 +13,12 @@
     "marvel",
     "x-men",
     "new-mutants"
+  ],
+  "cover": "https://web.archive.org/web/20260211184839im_/http://spidermedia.ru/assets/images/x-men-logo.jpg",
+  "modx_id": 2149,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
@@ -23,4 +32,4 @@
 
 [![](https://web.archive.org/web/20260211184839im_/http://img249.imageshack.us/img249/9565/10549newstoryimage39879.jpg)](http://marvel.com/i/content/10549new_storyimage-39879419.jpg) [![](https://web.archive.org/web/20260211184839im_/http://img697.imageshack.us/img697/1467/10549newstoryimage49879.jpg)](http://marvel.com/i/content/10549new_storyimage-49879420.jpg) [![](https://web.archive.org/web/20260211184839im_/http://img228.imageshack.us/img228/4772/10549newstoryimage59879.jpg)](http://marvel.com/i/content/10549new_storyimage-59879421.jpg) [![](https://web.archive.org/web/20260211184839im_/http://img146.imageshack.us/img146/7071/10549newstoryimage69879.jpg)](http://marvel.com/i/content/10549new_storyimage-69879422.jpg) [![](https://web.archive.org/web/20260211184839im_/http://img163.imageshack.us/img163/6343/10549newstoryimage79879.jpg)](http://marvel.com/i/content/10549new_storyimage-79879424.jpg) [![](https://web.archive.org/web/20260211184839im_/http://img146.imageshack.us/img146/6374/10549newstoryimage89879.jpg)](http://marvel.com/i/content/10549new_storyimage-89879426.jpg) [![](https://web.archive.org/web/20260211184839im_/http://img20.imageshack.us/img20/8315/10549newstoryimage99879.jpg)](http://marvel.com/i/content/10549new_storyimage-99879427.jpg) Страницы из **New Mutants #9** от **Пола Дэвидсона** *(Paul Davidson)*
 
-И в завершении, превью 9-ого номера, в котором нам показывают "новых жутких и опасных злодеев" в лице шайки каких-то головорезов, а также совсем бесстыдно спойлерят концовку Некроши с возвращением **Сайфера** *(Cypher)* и **Варлока** *(Warlock)* (хотя это и в [анонсе Второго Пришествия](../../node/1992/) уже успели рассказать). **New Mutants #9** выходит **6-го января**. Автор - **Зеб Уэллс** *(Zeb Wells)*, художник - **Пол Дэвидсон** *(Paul Davidson)*.
+И в завершении, превью 9-ого номера, в котором нам показывают "новых жутких и опасных злодеев" в лице шайки каких-то головорезов, а также совсем бесстыдно спойлерят концовку Некроши с возвращением **Сайфера** *(Cypher)* и **Варлока** *(Warlock)* (хотя это и в [анонсе Второго Пришествия](../vtoroe-prishestvie/) уже успели рассказать). **New Mutants #9** выходит **6-го января**. Автор - **Зеб Уэллс** *(Zeb Wells)*, художник - **Пол Дэвидсон** *(Paul Davidson)*.

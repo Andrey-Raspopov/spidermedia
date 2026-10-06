@@ -1,7 +1,10 @@
 {
   "title": "Авторитетный обзор",
-  "date": "2010-01-01T06:49:00+03:00",
+  "date": "2010-01-01T06:49:14+03:00",
   "url": "/blog/red-hulk/avtoritetnyy-obzor/",
+  "aliases": [
+    "/node/2211/"
+  ],
   "original_url": "https://spidermedia.ru/blog/red-hulk/avtoritetnyy-obzor",
   "archived": "https://web.archive.org/web/20260206230615/https://spidermedia.ru/blog/red-hulk/avtoritetnyy-obzor",
   "tags": [
@@ -25,6 +28,12 @@
     "batman",
     "neil-gaiman-sandman"
   ],
+  "cover": "https://web.archive.org/web/20260206230615im_/http://spidermedia.ru/assets/images/import_image/2211.jpg",
+  "modx_id": 2211,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
@@ -37,7 +46,7 @@
 
 [![Photobucket](https://web.archive.org/web/20260206230615im_/http://i834.photobucket.com/albums/zz269/hulklind/th_32901-4207-36726-1-sandman-the_supe.jpg)](http://s834.photobucket.com/albums/zz269/hulklind/?action=view¤t=32901-4207-36726-1-sandman-the_supe.jpg) [![Photobucket](https://web.archive.org/web/20260206230615im_/http://i834.photobucket.com/albums/zz269/hulklind/th_35471-4207-39613-1-sandman-the_supe.jpg)](http://s834.photobucket.com/albums/zz269/hulklind/?action=view¤t=35471-4207-39613-1-sandman-the_supe.jpg) [![Photobucket](https://web.archive.org/web/20260206230615im_/http://i834.photobucket.com/albums/zz269/hulklind/th_36197-4207-40425-1-sandman-the_supe.jpg)](http://s834.photobucket.com/albums/zz269/hulklind/?action=view¤t=36197-4207-40425-1-sandman-the_supe.jpg)
 
-[Сюрьезная рецензия](../../../node/2188/) **2. Transmetropolitan** *cоздатели - Warren Ellis, Darick Robertson and others*
+[Сюрьезная рецензия](../sandman-popytka-recenzii/) **2. Transmetropolitan** *cоздатели - Warren Ellis, Darick Robertson and others*
 
 [![Photobucket](https://web.archive.org/web/20260206230615im_/http://i834.photobucket.com/albums/zz269/hulklind/th_48580-5989-59273-1-transmetropolita.jpg)](http://s834.photobucket.com/albums/zz269/hulklind/?action=view¤t=48580-5989-59273-1-transmetropolita.jpg) [![Photobucket](https://web.archive.org/web/20260206230615im_/http://i834.photobucket.com/albums/zz269/hulklind/th_48584-5989-59277-1-transmetropolita.jpg)](http://s834.photobucket.com/albums/zz269/hulklind/?action=view¤t=48584-5989-59277-1-transmetropolita.jpg) [![Photobucket](https://web.archive.org/web/20260206230615im_/http://i834.photobucket.com/albums/zz269/hulklind/th_48595-5989-59288-1-transmetropolita.jpg)](http://s834.photobucket.com/albums/zz269/hulklind/?action=view¤t=48595-5989-59288-1-transmetropolita.jpg)
 

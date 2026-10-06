@@ -1,7 +1,10 @@
 {
   "title": "Головокружительная сказка",
-  "date": "2009-06-05T23:04:00+03:00",
+  "date": "2009-06-05T22:04:16+03:00",
   "url": "/news/golovokruzhitelnaya-skazka/",
+  "aliases": [
+    "/node/1360/"
+  ],
   "original_url": "http://spidermedia.ru/news/golovokruzhitelnaya-skazka",
   "archived": "https://web.archive.org/web/20260313113849/http://spidermedia.ru/news/golovokruzhitelnaya-skazka",
   "tags": [
@@ -9,7 +12,14 @@
     "grant-morrison",
     "art-0",
     "vertigo",
-    "joe-the-barbarian"
+    "joe-the-barbarian",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20260313113849im_/http://spidermedia.ru/assets/images/import_image/1360.jpg",
+  "modx_id": 1360,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

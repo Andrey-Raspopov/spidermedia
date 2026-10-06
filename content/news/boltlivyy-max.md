@@ -1,7 +1,10 @@
 {
   "title": "Болтливый MAX",
-  "date": "2010-07-10T04:16:00+03:00",
+  "date": "2010-07-10T03:16:52+03:00",
   "url": "/news/boltlivyy-max/",
+  "aliases": [
+    "/node/2714/"
+  ],
   "original_url": "http://spidermedia.ru/news/boltlivyy-max",
   "archived": "https://web.archive.org/web/20220813155848/http://spidermedia.ru/news/boltlivyy-max",
   "tags": [
@@ -9,7 +12,14 @@
     "deadpool",
     "devid-lafem",
     "art-0",
-    "marvel"
+    "marvel",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20220813155848im_/http://spidermedia.ru/assets/images/import_image/2714.jpg",
+  "modx_id": 2714,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

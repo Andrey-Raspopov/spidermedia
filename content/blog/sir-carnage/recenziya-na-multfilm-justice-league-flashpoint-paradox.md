@@ -1,6 +1,6 @@
 {
   "title": "Рецензия на мультфильм Justice League: The Flashpoint Paradox",
-  "date": "2013-07-19T14:24:00+03:00",
+  "date": "2013-07-19T13:24:55+03:00",
   "url": "/blog/sir-carnage/recenziya-na-multfilm-justice-league-flashpoint-paradox/",
   "original_url": "https://spidermedia.ru/blog/sir-carnage/recenziya-na-multfilm-justice-league-flashpoint-paradox",
   "archived": "https://web.archive.org/web/20260206220840/https://spidermedia.ru/blog/sir-carnage/recenziya-na-multfilm-justice-league-flashpoint-paradox",
@@ -10,6 +10,12 @@
     "justice-league",
     "animaciya",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150326160731im_/http://spidermedia.ru/assets/images/import_image/7359.jpg",
+  "modx_id": 7359,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

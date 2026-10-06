@@ -1,13 +1,20 @@
 {
   "title": "Смоллвилль\\Smallville s8 ep.14 - \"Реквием\"\\\"Requiem\"",
-  "date": "2009-02-08T15:16:00+03:00",
+  "date": "2009-02-08T15:16:30+03:00",
   "url": "/blog/alex/smollvill-smallville-s8-ep14-rekviem-requiem/",
   "original_url": "https://spidermedia.ru/blog/alex/smollvill-smallville-s8-ep14-rekviem-requiem",
   "archived": "https://web.archive.org/web/20240809130758/https://spidermedia.ru/blog/alex/smollvill-smallville-s8-ep14-rekviem-requiem",
   "tags": [
     "serialy",
     "superman",
-    "smallville"
+    "smallville",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20150502142318im_/http://spidermedia.ru/assets/images/import_image/271.png",
+  "modx_id": 271,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

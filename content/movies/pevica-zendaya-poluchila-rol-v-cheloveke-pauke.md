@@ -8,6 +8,12 @@
     "spider-man",
     "marvel"
   ],
+  "cover": "https://web.archive.org/web/20160611130631im_/http://spidermedia.ru/assets/images/movies/marvel/spider-man-marvel/youloveit_ru_kc_undercover_kety_kuper_po_23.jpg",
+  "modx_id": 100977,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

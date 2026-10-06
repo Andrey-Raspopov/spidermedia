@@ -1,6 +1,6 @@
 {
   "title": "РоcКомНадзор: потому что мы можем",
-  "date": "2015-02-27T13:42:00+03:00",
+  "date": "2015-02-27T13:42:02+03:00",
   "url": "/blog/hella/rockomnadzor-potomu-chto-my-mozhem/",
   "original_url": "http://spidermedia.ru/blog/hella/rockomnadzor-potomu-chto-my-mozhem",
   "archived": "https://web.archive.org/web/20260125130446/http://spidermedia.ru/blog/hella/rockomnadzor-potomu-chto-my-mozhem",
@@ -8,6 +8,12 @@
     "russian-comics",
     "roskomnadzor",
     "zarubezhnye-komiksy-na-russkom"
+  ],
+  "cover": "https://web.archive.org/web/20150326155401im_/http://spidermedia.ru/assets/images/import_image/8657.jpg",
+  "modx_id": 8657,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

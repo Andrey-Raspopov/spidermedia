@@ -1,13 +1,20 @@
 {
   "title": "Gravity Falls: вы смотрите?",
-  "date": "2015-01-09T15:44:00+03:00",
+  "date": "2015-01-09T15:44:44+03:00",
   "url": "/blog/anticvariat/gravity-falls-vy-smotrite/",
   "original_url": "http://spidermedia.ru/blog/anticvariat/gravity-falls-vy-smotrite",
   "archived": "https://web.archive.org/web/20260206224451/http://spidermedia.ru/blog/anticvariat/gravity-falls-vy-smotrite",
   "tags": [
     "serialy",
     "obzor",
-    "gravity-falls"
+    "gravity-falls",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20150424025411im_/http://spidermedia.ru/assets/images/import_image/8479.png",
+  "modx_id": 8479,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

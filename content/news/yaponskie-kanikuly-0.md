@@ -1,6 +1,6 @@
 {
   "title": "Японские каникулы",
-  "date": "2011-12-23T00:07:00+03:00",
+  "date": "2011-12-22T23:07:17+03:00",
   "url": "/news/yaponskie-kanikuly-0/",
   "original_url": "http://spidermedia.ru/news/yaponskie-kanikuly-0",
   "archived": "https://web.archive.org/web/20250717190932/http://spidermedia.ru/news/yaponskie-kanikuly-0",
@@ -9,6 +9,12 @@
     "adam-kubert",
     "wolverine",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20250717190932im_/http://spidermedia.ru/assets/images/import_image/6745.jpg",
+  "modx_id": 6745,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

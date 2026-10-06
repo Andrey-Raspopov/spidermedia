@@ -1,7 +1,10 @@
 {
   "title": "Бэтмен возвращается",
-  "date": "2009-08-29T00:26:00+03:00",
+  "date": "2009-08-28T23:26:06+03:00",
   "url": "/news/betmen-vozvrashchaetsya/",
+  "aliases": [
+    "/node/1839/"
+  ],
   "original_url": "http://spidermedia.ru/news/betmen-vozvrashchaetsya",
   "archived": "https://web.archive.org/web/20260214125127/http://spidermedia.ru/news/betmen-vozvrashchaetsya",
   "tags": [
@@ -19,7 +22,14 @@
     "dc-comics",
     "blackest-night",
     "batman",
-    "azrael"
+    "azrael",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20260214125127im_/http://spidermedia.ru/assets/images/import_image/1839.jpg",
+  "modx_id": 1839,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

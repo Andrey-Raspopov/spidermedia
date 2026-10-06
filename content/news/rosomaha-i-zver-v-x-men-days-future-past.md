@@ -1,6 +1,6 @@
 {
   "title": "Росомаха и Зверь в X-Men: Days of Future Past",
-  "date": "2013-05-14T11:17:00+03:00",
+  "date": "2013-05-14T10:17:36+03:00",
   "url": "/news/rosomaha-i-zver-v-x-men-days-future-past/",
   "original_url": "http://spidermedia.ru/news/rosomaha-i-zver-v-x-men-days-future-past",
   "archived": "https://web.archive.org/web/20250806051555/http://spidermedia.ru/news/rosomaha-i-zver-v-x-men-days-future-past",
@@ -8,7 +8,15 @@
     "marvel",
     "wolverine",
     "days-of-future-past",
-    "x-men"
+    "x-men",
+    "dni-minuvshego-budushhego",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20250806051555im_/http://spidermedia.ru/assets/images/import_image/7241.jpg",
+  "modx_id": 7241,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -9,6 +9,12 @@
     "dzhonatan-hikman",
     "secret-wars"
   ],
+  "cover": "https://web.archive.org/web/20160128091617im_/http://spidermedia.ru/assets/images/articles/lexin-wars/jao8e.jpg",
+  "modx_id": 100252,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,6 +1,6 @@
 {
   "title": "Новая авторская команда \"Wonder Woman\"",
-  "date": "2014-07-01T02:42:00+03:00",
+  "date": "2014-07-01T01:42:49+03:00",
   "url": "/news/novaya-avtorskaya-komanda-wonder-woman/",
   "original_url": "http://spidermedia.ru/news/novaya-avtorskaya-komanda-wonder-woman",
   "archived": "https://web.archive.org/web/20260313105829/http://spidermedia.ru/news/novaya-avtorskaya-komanda-wonder-woman",
@@ -8,6 +8,12 @@
     "wonder-woman",
     "devid-finch",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20260313105829im_/http://spidermedia.ru/assets/images/import_image/7850.jpg",
+  "modx_id": 7850,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

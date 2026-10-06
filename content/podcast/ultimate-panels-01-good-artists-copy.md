@@ -8,6 +8,13 @@
     "on-panels",
     "ultimate-panels"
   ],
+  "cover": "https://web.archive.org/web/20230727190023im_/http://spidermedia.ru/assets/images/podcast/ultimate-panels/01/00-cover.jpg",
+  "podcast_audio": "https://podster.fm/episodes/99baa6cd-fd70-4f06-b333-16d63469188c/audio.mp3",
+  "modx_id": 102537,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

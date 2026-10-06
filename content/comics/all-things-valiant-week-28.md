@@ -5,15 +5,22 @@
   "original_url": "http://spidermedia.ru/comics/all-things-valiant-week-28",
   "archived": "https://web.archive.org/web/20260214133225/http://spidermedia.ru/comics/all-things-valiant-week-28",
   "tags": [
-    "valiant-entertainment"
+    "valiant-entertainment",
+    "all-things-valiant"
+  ],
+  "cover": "https://web.archive.org/web/20260214133225im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-05-week-28/all-things-valiant-05-cover-horizontal.jpg",
+  "modx_id": 100373,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](http://spidermedia.ru/assets/cache/preview/100373/valiant/all-things-valiant-05-week-28/622x415-all-things-valiant-05-cover-horizontal.b08.jpg)](http://spidermedia.ru/assets/images/valiant/all-things-valiant-05-week-28/all-things-valiant-05-cover-horizontal.jpg)
+![](https://web.archive.org/web/20260214133225im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-05-week-28/all-things-valiant-05-cover-horizontal.jpg)
 
-Июль — самый жаркий месяц лета, и не только в температурном плане. Именно в июле проходит международный Комик-кон в Сан-Диего, настоящий рай для фаната комиксов. Издатели забрасывают нас громкими [новостями и анонсами](https://web.archive.org/web/20240613030224/https://spidermedia.ru/tags/sdcc2015). Valiant же в очередной раз проявили оригинальность и отнеслись к SDCC 2015 весьма спокойно. Поэтому и мы предлагаем вам отдохнуть от суеты конвента и насладиться комиксами любимого издательства.
+Июль — самый жаркий месяц лета, и не только в температурном плане. Именно в июле проходит международный Комик-кон в Сан-Диего, настоящий рай для фаната комиксов. Издатели забрасывают нас громкими [новостями и анонсами](../../tags/sdcc2015/). Valiant же в очередной раз проявили оригинальность и отнеслись к SDCC 2015 весьма спокойно. Поэтому и мы предлагаем вам отдохнуть от суеты конвента и насладиться комиксами любимого издательства.
 
 **[Новости](./#news) **•** [Рецензии](./#reviews)**
 
@@ -29,23 +36,77 @@
 
 Меньше недели осталось до выхода летнего эвента. И Valiant Entertainment уже запустила обратный отсчет, который вы можете посмотреть в нашем [паблике](https://vk.com/valiantcomics). А на сайте [ComicBook.com](http://comicbook.com/2015/07/07/valiant-comics-book-of-death-chapter-0-part-3-released/) опубликовали предпоследнюю страницу вебкомикса Book of Death: Chapter Zero. Сценарист Роберт Вендитти, иллюстрирует КАФУ.
 
-![](http://spidermedia.ru/assets/images/valiant/all-things-valiant-05-week-28/1_1-book-of-death-chapter-zero.jpg)
+![](https://web.archive.org/web/20260214133225im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-05-week-28/1_1-book-of-death-chapter-zero.jpg)
 
 #### Эксклюзивные обложки к Book of Death #1
 
 Уже на этой неделе стартует грандиозное событие вселенной Valiant — Book of Death. И в преддверии выхода первого номера нам продемонстрировали эксклюзивные обложки Book of Death #1 для различных магазинов.
 
-[![](http://spidermedia.ru/assets/cache/preview/100373/valiant/all-things-valiant-05-week-28/203x313-1_2_1-1up-collectibles.5d4.jpg)](http://spidermedia.ru/assets/images/valiant/all-things-valiant-05-week-28/1_2_1-1up-collectibles.jpg) [![](http://spidermedia.ru/assets/cache/preview/100373/valiant/all-things-valiant-05-week-28/205x313-1_2_2-books-a-million.f52.jpg)](http://spidermedia.ru/assets/images/valiant/all-things-valiant-05-week-28/1_2_2-books-a-million.jpg) [![](http://spidermedia.ru/assets/cache/preview/100373/valiant/all-things-valiant-05-week-28/203x313-1_2_3-comics-dungeon.5d4.jpg)](http://spidermedia.ru/assets/images/valiant/all-things-valiant-05-week-28/1_2_3-comics-dungeon.png)[![](http://spidermedia.ru/assets/cache/preview/100373/valiant/all-things-valiant-05-week-28/152x234-1_2_4-borderlands-comics-and-games.305.jpg)](http://spidermedia.ru/assets/images/valiant/all-things-valiant-05-week-28/1_2_4-borderlands-comics-and-games.jpg) [![](http://spidermedia.ru/assets/cache/preview/100373/valiant/all-things-valiant-05-week-28/153x234-1_2_5-four-color-grails.881.jpg)](http://spidermedia.ru/assets/images/valiant/all-things-valiant-05-week-28/1_2_5-four-color-grails.png) [![](http://spidermedia.ru/assets/cache/preview/100373/valiant/all-things-valiant-05-week-28/152x234-1_2_6-level-up-entertainment.305.jpg)](http://spidermedia.ru/assets/images/valiant/all-things-valiant-05-week-28/1_2_6-level-up-entertainment.png) [![](http://spidermedia.ru/assets/cache/preview/100373/valiant/all-things-valiant-05-week-28/151x234-1_2_7-ebay.512.jpg)](http://spidermedia.ru/assets/images/valiant/all-things-valiant-05-week-28/1_2_7-ebay.png)[1up Collectibles](http://www.1upcollectibles.com/) ****•**** [Books-A-Million](http://www.booksamillion.com/) ****•**** [Comics Dungeon](http://www.comicsdungeon.com/)
+![](https://web.archive.org/web/20260214133225im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-05-week-28/1_2_1-1up-collectibles.jpg) ![](https://web.archive.org/web/20260214133225im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-05-week-28/1_2_2-books-a-million.jpg) ![](https://web.archive.org/web/20260214133225im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-05-week-28/1_2_3-comics-dungeon.png)![](https://web.archive.org/web/20260214133225im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-05-week-28/1_2_4-borderlands-comics-and-games.jpg) ![](https://web.archive.org/web/20260214133225im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-05-week-28/1_2_5-four-color-grails.png) ![](https://web.archive.org/web/20260214133225im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-05-week-28/1_2_6-level-up-entertainment.png) ![](https://web.archive.org/web/20260214133225im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-05-week-28/1_2_7-ebay.png)[1up Collectibles](http://www.1upcollectibles.com/) ****•**** [Books-A-Million](http://www.booksamillion.com/) ****•**** [Comics Dungeon](http://www.comicsdungeon.com/)
 [Borderlands Comics and Games](http://www.borderlands.us/) ****•**** [Four Color Grails](http://fourcolorgrails.com/) ****•**** [Level Up Entertainment](http://www.levelupentertainment.com/) ****•**** [ebay](http://www.ebay.com/)
 
 #### Смена сценариста Unity
 
 На проходящей в рамках SDCC 2015 встрече со сценаристами издательства Valiant стало известно, что Джеймс Асмус напишет два номера серии Unity (#23-24). Писатель утверждает, что комикс не превратиться в развеселую комедию, а останется верен текущему настроению серии. Мэтт Киндт же вернется с 25-ым выпуском, который по случаю юбилея будет увеличенного формата.
 
-![](http://spidermedia.ru/assets/images/valiant/all-things-valiant-05-week-28/1_3-unity-changes.jpg)
+![](https://web.archive.org/web/20260214133225im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-05-week-28/1_3-unity-changes.jpg)
 
 ---
 
 **ЧТО МЫ ПРОЧИТАЛИ**
 
 ---
+
+a:3:{i:1;a:7:{s:5:"autor";a:3:{i:1;a:2:{i:0;s:16:"Сценарий";i:1;s:21:"Джефф Лемир";}i:3;a:2:{i:0;s:14:"Рисунок";i:1;s:42:"Мико Суаян, Джефф Лемир";}i:5;a:2:{i:0;s:8:"Цвет";i:1;s:21:"Дэвид Бэрон";}}s:4:"name";s:16:"Bloodshot Reborn";s:7:"edition";s:4:"#2-4";s:5:"cover";s:86:"assets/images/valiant/all-things-valiant-05-week-28/3_1-bloodshot-reborn-2-4-cover.jpg";s:9:"publisher";s:4:"1249";s:4:"year";s:4:"2015";s:8:"comments";a:1:{i:1;a:4:{s:5:"autor";s:6:"183731";s:4:"text";s:6032:"
+
+Взяв героя боевика с задатками легкой драмы, Лемир поместил персонажа в психологический триллер. Под маской Рэя Гаррисона прячется типичный американский солдат, который вернулся из Ирака и испытывает посттравматическое стрессовое расстройство. Бладшот убивал ради частной военной организации. Убивал плохих людей, так ему говорили. Теперь, на гражданке, Рэй работает мастером на все руки в придорожном клоповнике. Его мучают воспоминания о пролитой им крови, которые он глушит алкоголем и наркотиками. И тихонько едет с катушек.
+
+Через полгода такой жизни Рэй видит репортаж об очередном массовом расстреле в Штатах. Только убийца похож на Бладшота. Но противником Гаррисона становятся не столько массовые убийцы — заражённые нанитами люди — сколько насилие, бессмысленное и беспощадное. Одна из фобий простых американцев, которую Лемир усердно распахивает.
+
+![](https://web.archive.org/web/20260214133225im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-05-week-28/3_1-bloodshot-reborn-2-4-image-1.jpg) ![](https://web.archive.org/web/20260214133225im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-05-week-28/3_1-bloodshot-reborn-2-4-image-2.jpg)
+
+Самое страшное, что противоречивый образ Рэя, выписанный сценаристом, слабо отличается от остальных душегубов. Он, как и его противники, науськан галлюцинациями на резню. Только теперь это не пострелушки из боевика, а реальная кровь, плещущаяся в соседней комнате. Совершенное Гаррисоном убийство высвобождает наниты, содержащиеся в крови жертвы, которые переходят к Рэю и постепенно расширяют его способности. Каждая жертва — это ещё один шаг к его прошлому, к безжалостному убийце без тормозов. Психологические терзания Гаррисона, сознательное нежелание убивать и бессознательная жажда этого, — вот что важно в комиксе, а не закрученный сюжет.
+
+Сама интрига, конечно, есть, но не для читателей. Страдают от неизвестного харизматичные агенты ФБР. Одна из них — девушка с экстрасенсорными способностями, другой — ранимый сексист. Дело, начавшееся с одного массового расстрела, постепенно погружает агентов в сверхъестественный ужас контролируемых нанитами убийц с белоснежной кожей и красными кругами на груди. Наблюдение за паранормальным процедуралом из-за кулис всех интриг доставляет отдельное удовольствие.
+
+![](https://web.archive.org/web/20260214133225im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-05-week-28/3_1-bloodshot-reborn-2-4-image-3.jpg) ![](https://web.archive.org/web/20260214133225im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-05-week-28/3_1-bloodshot-reborn-2-4-image-4.jpg)
+
+Атмосферность комиксу придает и реалистичный рисунок Мико Суаяна. Он с одинаковой дотошностью прорисовывает как складки одежды, так и каждую травинку. Но это не тот художник, который может выдавать по номеру в месяц. К чести Суаяна, он не задерживает выход комикса, но местами проявляет халтуру, оставляя штриховку маркером там, где нужно затушевать. И часто лица девушек могут быть то милыми, то страшными. Таков реализм, детка!
+
+Дэвид Бэрон выдает насыщенный цвет, всячески сгущая атмосферность рисунка Суяна. Именно колориста следует благодарить за дух хоррора и сверхъестественной угрозы на некоторых страниц комикса.
+
+Bloodshot Reborn — отличный способ приобщиться к Valiant. Перед чтением первого номера вы можете совершенно ничего не знать об этих персонажах, но после четвертого вы запросите добавку.
+
+";s:8:"mjdzText";s:0:"";s:10:"conclusion";s:12:"ЗОЛОТО";}}}i:2;a:7:{s:5:"autor";a:3:{i:1;a:2:{i:0;s:16:"Сценарий";i:1;s:19:"Мэтт Киндт";}i:3;a:2:{i:0;s:14:"Рисунок";i:1;s:19:"Пепе Перез";}i:5;a:2:{i:0;s:8:"Цвет";i:1;s:25:"Эндрю Долхауз";}}s:4:"name";s:5:"Unity";s:7:"edition";s:3:"#18";s:5:"cover";s:74:"assets/images/valiant/all-things-valiant-05-week-28/3_2-unity-18-cover.jpg";s:9:"publisher";s:4:"1249";s:4:"year";s:4:"2015";s:8:"comments";a:1:{i:1;a:4:{s:5:"autor";s:6:"183731";s:4:"text";s:4793:"
+
+Сердце любого комикса — воображение его читателя. Но такая специфика формы может выйти боком. Особенно когда авторский коллектив, вслед за своими персонажами, решил отдохнуть.
+
+Арк строится вокруг «slice of life»-героев, предотвращающих угрозы мирового масштаба. Сценарист выделяет по номеру на тщательную проработку каждого персонажа и попутно выстраивает интригу битвы — того таинственного сражения, в котором Юнити чудом выжили. В воспоминаниях Ниндзяка битва имеет привкус яростной бойни; для Гилада, с его тысячелетним опытом сражений, эта битва подобна иным сражениям, забытым историей; а Лайввайр после миссии нужна нормальная жизнь, настолько эта битва выбила почву из-под её ног. За три номера под покровом интриги битва обретает многогранность и глубину.
+
+![](https://web.archive.org/web/20260214133225im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-05-week-28/3_2-unity-18-image-1.jpg)
+
+Но в этом выпуске само сражение Мальгама и Юнити не выдерживает никакого сравнения с битвой, нарисованной жирными красками нашей фантазии. Сценарист пытается показать Мальгама как серьезную угрозу, но особо не напрягается. Сам бой выглядит вялым и совершенно бесстрастным. Мальгам выносит каждого члена команды ваншотом, а потом стороны договариваются, после чего герои ведут себя так, как будто сутки сражались. Да, это не тот изнуряющий бой, о котором мы фантазировали, впечатлённые прошлыми выпусками.
+
+Пепе Перез — хороший художник, не без интересных композиционных решений, выдающий четкий рисунок и умело ведущий глаз читателя по странице. Но даже ему требовалась разгрузка. Особенно после того, как он баловал нас пышностью замка миллиардера, поражал батальными сценами древней Японии и разнообразием американского мегаполиса. Конечно, после такого фонового пиршества довольствоваться безжизненной пустыней Невады неприятно.
+
+![](https://web.archive.org/web/20260214133225im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-05-week-28/3_2-unity-18-image-2.jpg)
+
+Место действия диктует и палитру, но новый колорист — Эндрю Далхауз — питает необъяснимую слабость к выжигающему сетчатку лососевому цвету, из-за чего цветовая цельность страницы нарушается, как только в ней появляется фиолетовый Ниндзяк. Правда, закат у Далхауза выходит красиво, хотя и выбивается из общего стиля.
+
+Это качественно сделанный комикс, но читать его не рекомендую. Если не знакомы с серией, то прочитайте предыдущие номера. Это интересные ваншоты про харизматичных персонажей. Затем пролистайте восемнадцатый номер до последних двух страниц и насладитесь клиффхэнггером.
+
+";s:8:"mjdzText";s:0:"";s:10:"conclusion";s:8:"ЖИЖА";}}}i:3;a:7:{s:5:"autor";a:3:{i:1;a:2:{i:0;s:16:"Сценарий";i:1;s:19:"Мэтт Киндт";}i:3;a:2:{i:0;s:14:"Рисунок";i:1;s:102:"Хосе Луис, Сандро Рибейро, Элиссон Родригез, Джефте Пало";}i:5;a:2:{i:0;s:8:"Цвет";i:1;s:25:"Эндрю Долхауз";}}s:4:"name";s:5:"Unity";s:7:"edition";s:6:"#19-20";s:5:"cover";s:77:"assets/images/valiant/all-things-valiant-05-week-28/3_3-unity-19-20-cover.jpg";s:9:"publisher";s:4:"1249";s:4:"year";s:4:"2015";s:8:"comments";a:1:{i:1;a:4:{s:5:"autor";s:6:"183732";s:4:"text";s:4790:"
+
+Словосочетание «девушка с бейсбольной битой» может завести вашу фантазию очень далеко, но вряд ли вам на ум придёт начало Третьей мировой войны. А вот мысли Мэтта Киндта двигались именно в этом направлении. Итак, встречайте, Вар-Монгер. Живое воплощение войны, сеющее вокруг себя раздор и разрушение, и новейший (старейший?) враг команды Unity.
+
+![](https://web.archive.org/web/20260214133225im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-05-week-28/3_3-unity-19-20-image-1.jpg)*Кто лучше может представить злодейку, чем она сама*
+
+Появление нового антагониста служит стартом новой сюжетной арки, действие которой разворачивается в двух временных промежутках: прошлом и настоящем. Флэшбэки оформлены как рассказы Вар-Монгер о тех временах, а она девушка болтливая, поэтому поведает нам о многом. Но самое интересное — это многочисленные сражения с героями былого. До Unity существовало множество объединений защитников справедливости, которые рано или поздно сталкивались с Вар-Монгер. Некоторым удавалось её пленить (но ненадолго), некоторые умудрялись использовать ее в своих целях, но никто не смог окончательно её уничтожить. Из всех этих битв Вар-Монгер извлекла ценный урок: когда герои собираются вместе, это всегда плохо для неё. А значит, надо бить первой. Что подводит нас к сценам настоящего. Вар-Монгер понимает, что со всей командой ей сразу не справиться, поэтому она методично разбирается с каждым членом Unity отдельно. В 19 номере состоялся поединок с Ниндзяком, а в 20-ом бой дала Аманда. Two down, two to go.
+
+![](https://web.archive.org/web/20260214133225im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-05-week-28/3_3-unity-19-20-image-2.jpg) ![](https://web.archive.org/web/20260214133225im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-05-week-28/3_3-unity-19-20-image-3.jpg)*Битвы прошлого, битвы настоящего*
+
+Для усиления контраста сцены из разных временных промежутков делают разные художники. За флэшбэки отвечает Хосе Луис, чей стиль напоминает смесь Брэтта Бута и Эдди Барроуза: симпатичный дизайн персонажей, интересные решения расстановки панелей и приятная глазу покраска. Чего не скажешь о рисунке в сценах настоящего: у Джефте Пало очень специфичный стиль, который может многих отпугнуть, — простой, угловатый с минимумом деталей. Лица в некоторых сценах превращаются в кривые многоугольники с треугольными глазами-отверстиями. И колорист совсем не помогает сделать рисунок привлекательней.
+
+Вар-Монгер пришла не только за жизнями команды Unity, но и за вашими сердцами. Лично мое она заполучила, когда одним пинком запустила Ниндзяка в полет. А когда сдадитесь вы?
+
+";s:8:"mjdzText";s:0:"";s:10:"conclusion";s:10:"ДОБРО";}}}}

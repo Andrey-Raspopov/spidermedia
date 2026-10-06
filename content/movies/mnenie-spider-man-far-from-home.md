@@ -4,6 +4,12 @@
   "url": "/movies/mnenie-spider-man-far-from-home/",
   "original_url": "http://spidermedia.ru/movies/mnenie-spider-man-far-from-home",
   "archived": "https://web.archive.org/web/20251116072208/http://spidermedia.ru/movies/mnenie-spider-man-far-from-home",
+  "cover": "https://web.archive.org/web/20200209005054im_/http://spidermedia.ru/assets/images/movies/h759od9d5zu21.png",
+  "modx_id": 102130,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

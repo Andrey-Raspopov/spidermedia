@@ -8,6 +8,12 @@
     "marvel",
     "ant-man"
   ],
+  "cover": "https://web.archive.org/web/20160505070612im_/http://spidermedia.ru/assets/images/movies/marvel/ant-man-2015/marvel-ant-man-movie-poster-2.jpg",
+  "modx_id": 100264,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

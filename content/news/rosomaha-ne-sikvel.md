@@ -1,13 +1,22 @@
 {
   "title": "Росомаха: Не-сиквел",
-  "date": "2010-11-20T02:41:00+03:00",
+  "date": "2010-11-20T02:41:41+03:00",
   "url": "/news/rosomaha-ne-sikvel/",
+  "aliases": [
+    "/node/3077/"
+  ],
   "original_url": "http://spidermedia.ru/news/rosomaha-ne-sikvel",
   "archived": "https://web.archive.org/web/20220819234802/http://spidermedia.ru/news/rosomaha-ne-sikvel",
   "tags": [
     "darren-aronofski",
     "wolverine",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20220819234802im_/http://spidermedia.ru/assets/images/import_image/3077.jpg",
+  "modx_id": 3077,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

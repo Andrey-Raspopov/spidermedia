@@ -1,7 +1,10 @@
 {
   "title": "Кружка, в которой Джо",
-  "date": "2009-06-13T17:24:00+03:00",
+  "date": "2009-06-13T16:24:57+03:00",
   "url": "/news/kruzhka-v-kotoroy-dzho/",
+  "aliases": [
+    "/node/1407/"
+  ],
   "original_url": "https://spidermedia.ru/news/kruzhka-v-kotoroy-dzho",
   "archived": "https://web.archive.org/web/20260214133735/https://spidermedia.ru/news/kruzhka-v-kotoroy-dzho",
   "tags": [
@@ -15,6 +18,11 @@
     "dzhaggernaut",
     "juggernaut"
   ],
+  "modx_id": 1407,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
@@ -24,5 +32,5 @@
 [![](https://web.archive.org/web/20260214133735im_/http://www.comicbookresources.com/assets/phpThumb/phpThumb.php?src=/assets/images/articles/1244839169.jpg&w=200)](http://www.comicbookresources.com/assets/images/articles/1244839169.jpg)
 Обложка выше принадлежит серии **Incredible Hulk**, а в частности - **#602**. Судя по всему, сценарист **Грег Пак** *(Greg Pak)* и художник **Ариэль Оливьетти** *(Ariel Olivetti)* возьмутся за излюбленный версус **Халк** *(Hulk)* против **Джаггернаута** *(Juggernaut)*, только на месте папочки не менее зеленый сынок.
 [![dp2.jpg - image uploaded to Picamatic](https://web.archive.org/web/20260214133735im_/http://www.picamatic.com/show/2009/06/13/12/42/3976588_bigthumb.jpg "dp2.jpg")](http://www.picamatic.com/view/3976588_dp2/) [![1244839639.jpg - upload images with Picamatic](https://web.archive.org/web/20260214133735im_/http://www.picamatic.com/show/2009/06/13/12/42/3976590_bigthumb.jpg "1244839639.jpg")](http://www.picamatic.com/view/3976590_1244839639/) [![dp5a.jpg - Picamatic - upload your images](https://web.archive.org/web/20260214133735im_/http://www.picamatic.com/show/2009/06/13/12/42/3976592_bigthumb.jpg "dp5a.jpg")](http://www.picamatic.com/view/3976592_dp5a/) [![dp7.jpg - Picamatic - upload your images](https://web.archive.org/web/20260214133735im_/http://www.picamatic.com/show/2009/06/13/12/43/3976600_bigthumb.jpg "dp7.jpg")](http://www.picamatic.com/view/3976600_dp7/) [![1244839679.jpg - Picamatic - upload your images](https://web.archive.org/web/20260214133735im_/http://www.picamatic.com/show/2009/06/13/12/43/3976602_bigthumb.jpg "1244839679.jpg")](http://www.picamatic.com/view/3976602_1244839679/)
-[Помните](../../node/1385/) анонс некого проекта от **Кайла Бейкера** *(Kyle Baker)*? С одной стороны - все ясно, а с другой - вопросов не убавилось. Ведь официально объявлено, что в отношении **Дэдпула** *(Deadpool)* совершается поступок под стать ему самому: ожидается выход... **Deadpool #900**, над артом которого трудится сам Кайл (первые страницы уже можно лицезреть выше); сценарная же часть отходит **Чарли Хьюстону** *(Charlie Huston)*. По словам Джо, он сам рад, что Дэдпул так быстро завоевывает публику и армия его фэнов становится все больше и больше с каждым новым днем. Все это хорошо, но такими темпами красно-черный наемник рискует стать сильным конкурентом тому же **Росомахе** *(Wolverine)*. Как проявится эта нумерация в дальнейшем - узнаем скоро.
+[Помните](../sekretnyy-duet/) анонс некого проекта от **Кайла Бейкера** *(Kyle Baker)*? С одной стороны - все ясно, а с другой - вопросов не убавилось. Ведь официально объявлено, что в отношении **Дэдпула** *(Deadpool)* совершается поступок под стать ему самому: ожидается выход... **Deadpool #900**, над артом которого трудится сам Кайл (первые страницы уже можно лицезреть выше); сценарная же часть отходит **Чарли Хьюстону** *(Charlie Huston)*. По словам Джо, он сам рад, что Дэдпул так быстро завоевывает публику и армия его фэнов становится все больше и больше с каждым новым днем. Все это хорошо, но такими темпами красно-черный наемник рискует стать сильным конкурентом тому же **Росомахе** *(Wolverine)*. Как проявится эта нумерация в дальнейшем - узнаем скоро.
 В конце всего это дела предлагаем [взглянуть](http://www.comicbookresources.com/?page=article&id=21572) на этапы создания обложки к **Amazing Spider-Man #593** от Кесады. Оставайтесь с нами, дальше интересней.

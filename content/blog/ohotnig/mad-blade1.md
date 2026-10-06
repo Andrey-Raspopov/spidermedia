@@ -1,12 +1,18 @@
 {
   "title": "Mad Blade #1",
-  "date": "2012-03-09T18:43:00+03:00",
+  "date": "2012-03-09T17:43:32+03:00",
   "url": "/blog/ohotnig/mad-blade1/",
   "original_url": "http://spidermedia.ru/blog/ohotnig/mad-blade1",
   "archived": "https://web.archive.org/web/20190915015544/http://spidermedia.ru:80/blog/ohotnig/mad-blade1",
   "tags": [
     "russian-comics",
     "mad-blade"
+  ],
+  "cover": "https://web.archive.org/web/20190915015544im_/http://spidermedia.ru/assets/images/import_image/6819.jpg",
+  "modx_id": 6819,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

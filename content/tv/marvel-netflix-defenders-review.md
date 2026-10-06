@@ -7,6 +7,12 @@
   "tags": [
     "marvel"
   ],
+  "cover": "https://web.archive.org/web/20250326012350im_/http://spidermedia.ru/assets/images/tv/marvel/defenders/17-defenders-review.w710.h473.2x.jpg",
+  "modx_id": 101721,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

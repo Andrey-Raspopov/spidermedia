@@ -1,6 +1,6 @@
 {
   "title": "ПРЕВЬЮ: «Дилан Дог 9. Альфа и Омега»",
-  "date": "2014-12-05T20:15:00+03:00",
+  "date": "2014-12-05T20:15:18+03:00",
   "url": "/news/prevyu-dilan-dog-9-alfa-i-omega/",
   "original_url": "http://spidermedia.ru/news/prevyu-dilan-dog-9-alfa-i-omega",
   "archived": "https://web.archive.org/web/20220815181628/http://spidermedia.ru/news/prevyu-dilan-dog-9-alfa-i-omega",
@@ -8,6 +8,12 @@
     "zarubezhnye-komiksy-na-russkom",
     "dilan-dog",
     "smart-owl"
+  ],
+  "cover": "https://web.archive.org/web/20150502140302im_/http://spidermedia.ru/assets/images/import_image/8350.jpg",
+  "modx_id": 8350,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

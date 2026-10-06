@@ -4,6 +4,9 @@
   "url": "/docs/cartoon/mib/",
   "original_url": "http://spidermedia.ru/docs/cartoon/mib.html",
   "archived": "https://web.archive.org/web/20051203135933/http://spidermedia.ru:80/docs/cartoon/mib.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

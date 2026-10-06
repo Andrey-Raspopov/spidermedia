@@ -8,6 +8,12 @@
     "hellboymedia",
     "mnenie"
   ],
+  "cover": "https://web.archive.org/web/20160611144655im_/http://spidermedia.ru/assets/images/hellboymedia/regular/16-bprd-modern-prometheus/bprd-modern-prometheus-cover.jpg",
+  "modx_id": 100520,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,7 +1,10 @@
 {
   "title": "Комиксы DC Universe. Выпуск № 12",
-  "date": "2009-07-17T10:31:00+03:00",
+  "date": "2009-07-17T09:31:17+03:00",
   "url": "/blog/derden/komiksy-dc-universe-vypusk-no-12/",
+  "aliases": [
+    "/node/1577/"
+  ],
   "original_url": "http://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-12",
   "archived": "https://web.archive.org/web/20230202183806/http://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-12",
   "tags": [
@@ -12,6 +15,12 @@
     "jeph-loeb",
     "dc-comics",
     "batman"
+  ],
+  "cover": "https://web.archive.org/web/20230202183806im_/http://spidermedia.ru/assets/images/import_image/1577.jpg",
+  "modx_id": 1577,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

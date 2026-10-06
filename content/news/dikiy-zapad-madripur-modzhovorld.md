@@ -15,6 +15,9 @@
     "preview-s",
     "rosomaha"
   ],
+  "sources": [
+    "archive"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }
@@ -25,7 +28,7 @@
 
 Во-первых, в марте начнет выходить новая история о **Малыше Кольте** *(Kid Colt)* от дуэта **Тома Дефалько** и **Рика Барчетта** *(Tom DeFalco и Rick Burchett)*. Это будет классический вестерн-комикс, в лучших традициях Запада, где главному герою предстоит убегать от преследования и попутно совершать добрые дела. Тем более, ему еще предстоит доказать свою невиновность!
 
-А что ждет нас намного ближе - так это **Astonishing Tales: Wolverine / Punisher #4**, где приключения сладкой парочки - **Росомахи и Карателя** *(Punisher & Wolverine)* - продолжатся на улицах криминального Мадрипура, и также комикс **Astonishing Tales: Mojoworld**, о котором мы уже [писали](../../node/438/#comments). Теперь можно посмотреть и превью, оно ниже:
+А что ждет нас намного ближе - так это **Astonishing Tales: Wolverine / Punisher #4**, где приключения сладкой парочки - **Росомахи и Карателя** *(Punisher & Wolverine)* - продолжатся на улицах криминального Мадрипура, и также комикс **Astonishing Tales: Mojoworld**, о котором мы уже [писали](../modzho-podnimaet-reytingi/#comments). Теперь можно посмотреть и превью, оно ниже:
 
 ]]>[![7028new_storyimage5586458.jpg - Picamatic - upload your images](https://web.archive.org/web/20120609182159im_/http://www.picamatic.com/show/2009/02/26/09/31/2470954_bigthumb.jpg "7028new_storyimage5586458.jpg")](http://www.picamatic.com/view/2470954_7028new_storyimage5586458/)]]> ]]>[![7028new_storyimage5586473.jpg - Picamatic - upload your images](https://web.archive.org/web/20120609182159im_/http://www.picamatic.com/show/2009/02/26/09/35/2471009_bigthumb.jpg "7028new_storyimage5586473.jpg")](http://www.picamatic.com/view/2471009_7028new_storyimage5586473/)]]>
 

@@ -1,13 +1,22 @@
 {
   "title": "Новый вид пеара?",
-  "date": "2009-02-07T19:09:00+03:00",
+  "date": "2009-02-07T19:09:49+03:00",
   "url": "/blog/el-qwanto/novyy-vid-peara/",
+  "aliases": [
+    "/node/256/"
+  ],
   "original_url": "https://spidermedia.ru/blog/el-qwanto/novyy-vid-peara",
   "archived": "https://web.archive.org/web/20240518194225/https://spidermedia.ru/blog/el-qwanto/novyy-vid-peara",
   "tags": [
     "yumor",
     "dzhim-belent",
     "nycc-2009"
+  ],
+  "cover": "https://web.archive.org/web/20240518194225im_/http://spidermedia.ru/assets/images/import_image/256.jpg",
+  "modx_id": 256,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

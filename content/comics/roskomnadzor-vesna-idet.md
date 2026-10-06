@@ -9,6 +9,12 @@
     "roskomnadzor",
     "russian-comics"
   ],
+  "cover": "https://web.archive.org/web/20150315191306im_/http://spidermedia.ru/assets/images/roskomnadzor/13032015/spring.jpg",
+  "modx_id": 100072,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,13 +1,22 @@
 {
   "title": "Комиксы DC Universe. Выпуск № 09",
-  "date": "2009-07-14T19:37:00+03:00",
+  "date": "2009-07-14T18:37:57+03:00",
   "url": "/blog/derden/komiksy-dc-universe-vypusk-no-09/",
+  "aliases": [
+    "/node/1557/"
+  ],
   "original_url": "http://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-09",
   "archived": "https://web.archive.org/web/20190929135057/http://spidermedia.ru:80/blog/derden/komiksy-dc-universe-vypusk-no-09",
   "tags": [
     "wonder-woman",
     "dc-comics",
     "dc-universe-comics"
+  ],
+  "cover": "https://web.archive.org/web/20190929135057im_/http://spidermedia.ru/assets/images/import_image/1557.jpg",
+  "modx_id": 1557,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

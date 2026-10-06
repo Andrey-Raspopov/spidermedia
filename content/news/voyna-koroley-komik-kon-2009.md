@@ -1,7 +1,10 @@
 {
   "title": "Война Королей - Комик Кон 2009",
-  "date": "2009-02-06T23:43:00+03:00",
+  "date": "2009-02-06T23:43:38+03:00",
   "url": "/news/voyna-koroley-komik-kon-2009/",
+  "aliases": [
+    "/node/240/"
+  ],
   "original_url": "https://spidermedia.ru/news/voyna-koroley-komik-kon-2009",
   "archived": "https://web.archive.org/web/20230607013042/https://spidermedia.ru/news/voyna-koroley-komik-kon-2009",
   "tags": [
@@ -15,6 +18,11 @@
     "blastaar",
     "gladiator",
     "kristos-gejdzh"
+  ],
+  "modx_id": 240,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

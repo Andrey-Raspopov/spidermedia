@@ -2,6 +2,9 @@
   "title": "Watchmen: Пародийные веб-комиксы",
   "date": "2009-03-13T12:54:00+03:00",
   "url": "/blog/redson/watchmen-parodiynye-veb-komiksy/",
+  "aliases": [
+    "/node/661/"
+  ],
   "original_url": "http://spidermedia.ru/blog/redson/watchmen-parodiynye-veb-komiksy",
   "archived": "https://web.archive.org/web/20251115033847/http://spidermedia.ru/blog/redson/watchmen-parodiynye-veb-komiksy",
   "tags": [
@@ -10,6 +13,11 @@
     "yumor",
     "veb-komiksy",
     "rorshah"
+  ],
+  "modx_id": 661,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

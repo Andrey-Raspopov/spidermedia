@@ -7,7 +7,14 @@
   "tags": [
     "marvel",
     "san-diego-comic-con-international",
-    "star-wars"
+    "star-wars",
+    "sdcc2015"
+  ],
+  "cover": "https://web.archive.org/web/20251216123406im_/http://spidermedia.ru/assets/images/news/sdcc/2015/marvel/star-wars-chewie1.jpg",
+  "modx_id": 100346,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

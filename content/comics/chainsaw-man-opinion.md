@@ -7,6 +7,12 @@
   "tags": [
     "manga"
   ],
+  "cover": "https://web.archive.org/web/20210819123351im_/http://spidermedia.ru/assets/images/manga/chainsaw-man/00.png",
+  "modx_id": 102402,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

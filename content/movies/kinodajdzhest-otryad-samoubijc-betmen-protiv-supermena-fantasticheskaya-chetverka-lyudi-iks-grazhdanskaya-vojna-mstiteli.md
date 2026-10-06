@@ -12,6 +12,12 @@
     "joker",
     "x-men"
   ],
+  "cover": "https://web.archive.org/web/20260121012737im_/http://spidermedia.ru/assets/images/news/movies/cinema-digest-2.jpg",
+  "modx_id": 100179,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

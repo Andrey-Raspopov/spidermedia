@@ -1,6 +1,6 @@
 {
   "title": "Двигатели Веры",
-  "date": "2009-03-24T17:59:00+03:00",
+  "date": "2009-03-24T17:59:22+03:00",
   "url": "/news/dvigateli-very/",
   "original_url": "http://spidermedia.ru/news/dvigateli-very",
   "archived": "https://web.archive.org/web/20190907232042/http://spidermedia.ru:80/news/dvigateli-very",
@@ -10,6 +10,12 @@
     "kobra",
     "erik-trautman",
     "obshhestvo-spravedlivosti-ameriki"
+  ],
+  "cover": "https://web.archive.org/web/20190907232042im_/http://spidermedia.ru/assets/images/import_image/759.jpg",
+  "modx_id": 759,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

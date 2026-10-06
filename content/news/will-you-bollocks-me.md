@@ -1,7 +1,10 @@
 {
   "title": "Will you bollocks me?",
-  "date": "2011-01-19T00:33:00+03:00",
+  "date": "2011-01-19T00:33:19+03:00",
   "url": "/news/will-you-bollocks-me/",
+  "aliases": [
+    "/node/3172/"
+  ],
   "original_url": "http://spidermedia.ru/news/will-you-bollocks-me",
   "archived": "https://web.archive.org/web/20260313104848/http://spidermedia.ru/news/will-you-bollocks-me",
   "tags": [
@@ -13,12 +16,18 @@
     "hellblazer",
     "giuseppe-camuncoli"
   ],
+  "cover": "https://web.archive.org/web/20260313104848im_/http://spidermedia.ru/assets/images/import_image/3172.jpg",
+  "modx_id": 3172,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
 [![Free Image Hosting at FunkyIMG.com](https://web.archive.org/web/20260313104848im_/http://funkyimg.com/u2/438/858/hellblazer275small.jpg)](http://funkyimg.com/u2/767/332/hellblazer275.jpg)
-Буквально ошарашив друзей, врагов, да и самого себя **Джон Константин** *(John Constantine)* все-таки решил [жениться](../../node/2784/) на дочери местного мафиози **Эпифани Грейвс** *(Epiphany Greaves)*. Предложив молодой девушке руку с отрубленным пальцем и сердце суккуба самоуверенный Джон уже начал мечтать о счастливом браке, совершенно забыв не только о грозящих влюбленным опасностях, но и о некоторых важных людях из его прошлого.
+Буквально ошарашив друзей, врагов, да и самого себя **Джон Константин** *(John Constantine)* все-таки решил [жениться](../married-without-children/) на дочери местного мафиози **Эпифани Грейвс** *(Epiphany Greaves)*. Предложив молодой девушке руку с отрубленным пальцем и сердце суккуба самоуверенный Джон уже начал мечтать о счастливом браке, совершенно забыв не только о грозящих влюбленным опасностях, но и о некоторых важных людях из его прошлого.
 [![Free Image Hosting at FunkyIMG.com](https://web.archive.org/web/20260313104848im_/http://funkyimg.com/u2/385/358/prv7516_pg1s.jpg)](http://funkyimg.com/viewer.php?img=/2/642/867/prv7516_pg1.jpg) [![Free Image Hosting at FunkyIMG.com](https://web.archive.org/web/20260313104848im_/http://funkyimg.com/u2/999/503/prv7516_pg2s.jpg)](http://funkyimg.com/viewer.php?img=/2/333/492/prv7516_pg2.jpg) [![Free Image Hosting at FunkyIMG.com](https://web.archive.org/web/20260313104848im_/http://funkyimg.com/u2/442/167/prv7516_pg3s.jpg)](http://funkyimg.com/viewer.php?img=/2/842/621/prv7516_pg3.jpg)
 [![Free Image Hosting at FunkyIMG.com](https://web.archive.org/web/20260313104848im_/http://funkyimg.com/u2/735/394/prv7516_pg4s.jpg)](http://funkyimg.com/viewer.php?img=/2/629/603/prv7516_pg4.jpg) [![Free Image Hosting at FunkyIMG.com](https://web.archive.org/web/20260313104848im_/http://funkyimg.com/u2/506/973/prv7516_pg5s.jpg)](http://funkyimg.com/viewer.php?img=/2/850/559/prv7516_pg5.jpg)
 Быть ли свадьбе и как изменятся отношения Константина с окружающих его людьми? Об этом читатель узнает в 48ми страничном **Hellblazer #275** за авторством **Питера Миллигана** *(Peter Milligan)* с рисунком **Джузеппе Камунколи** *(Giuseppe Camuncoli)* и **Стефано Ландини** *(Stefano Landini)*.

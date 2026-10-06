@@ -1,6 +1,6 @@
 {
   "title": "Русский трейлер \"Люди Икс: Первый класс\"",
-  "date": "2011-03-15T21:55:00+03:00",
+  "date": "2011-03-15T21:55:20+03:00",
   "url": "/news/russkiy-treyler-lyudi-iks-pervyy-klass/",
   "original_url": "http://spidermedia.ru/news/russkiy-treyler-lyudi-iks-pervyy-klass",
   "archived": "https://web.archive.org/web/20260125050725/http://spidermedia.ru/news/russkiy-treyler-lyudi-iks-pervyy-klass",
@@ -8,7 +8,14 @@
     "trejlery",
     "lyudi-iks-pervyj-klass",
     "x-men-first-class",
-    "x-men"
+    "x-men",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20160626223537im_/http://spidermedia.ru/assets/images/import_image/4173.jpg",
+  "modx_id": 4173,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

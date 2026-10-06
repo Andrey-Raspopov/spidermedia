@@ -1,6 +1,6 @@
 {
   "title": "Новый Человек-Паук 2: Хайрезный постер и новые кадры",
-  "date": "2013-12-04T14:31:00+03:00",
+  "date": "2013-12-04T13:31:20+03:00",
   "url": "/news/novyy-chelovek-pauk-2-hayreznyy-poster-i-novye-kadry/",
   "original_url": "https://spidermedia.ru/news/novyy-chelovek-pauk-2-hayreznyy-poster-i-novye-kadry",
   "archived": "https://web.archive.org/web/20240807181005/https://spidermedia.ru/news/novyy-chelovek-pauk-2-hayreznyy-poster-i-novye-kadry",
@@ -8,6 +8,12 @@
     "spider-man",
     "postery",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150424080800im_/http://spidermedia.ru/assets/images/import_image/7564.jpg",
+  "modx_id": 7564,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

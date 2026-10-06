@@ -1,11 +1,19 @@
 {
   "title": "«Разбор полётов». Выпуск 4: Комиксы в большом городе",
-  "date": "2014-12-15T08:00:00+03:00",
+  "date": "2014-12-15T08:00:05+03:00",
   "url": "/podcast/podkast-razbor-polyotov-vypusk-4-komiksy-v-bolshom-gorode/",
   "original_url": "http://spidermedia.ru/podcast/podkast-razbor-polyotov-vypusk-4-komiksy-v-bolshom-gorode",
   "archived": "https://web.archive.org/web/20260209114024/http://spidermedia.ru/podcast/podkast-razbor-polyotov-vypusk-4-komiksy-v-bolshom-gorode",
   "tags": [
     "spidercast"
+  ],
+  "cover": "https://web.archive.org/web/20150315190634im_/http://spidermedia.ru/misc/files/podcast/covers/qxniiikux00_0.jpg",
+  "podcast_audio": "https://spidermedia.podster.fm/30/download/audio.mp3",
+  "podcast_length": "2:57:06",
+  "modx_id": 8376,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

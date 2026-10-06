@@ -1,13 +1,22 @@
 {
   "title": "Send in the bear jew",
-  "date": "2010-01-14T02:57:00+03:00",
+  "date": "2010-01-14T01:57:28+03:00",
   "url": "/blog/plane-v/send-bear-jew/",
+  "aliases": [
+    "/node/2255/"
+  ],
   "original_url": "http://spidermedia.ru/blog/plane-v/send-bear-jew",
   "archived": "https://web.archive.org/web/20120608230806/http://spidermedia.ru/blog/plane-v/send-bear-jew",
   "tags": [
     "lolwhat",
     "komiksy",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20120608230806im_/http://spidermedia.ru/assets/images/import_image/2255.jpg",
+  "modx_id": 2255,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

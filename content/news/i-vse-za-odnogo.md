@@ -1,6 +1,6 @@
 {
   "title": "И все за одного",
-  "date": "2014-03-25T06:37:00+03:00",
+  "date": "2014-03-25T05:37:41+03:00",
   "url": "/news/i-vse-za-odnogo/",
   "original_url": "http://spidermedia.ru/news/i-vse-za-odnogo",
   "archived": "https://web.archive.org/web/20251207091526/http://spidermedia.ru/news/i-vse-za-odnogo",
@@ -10,6 +10,12 @@
     "spider-man",
     "marvel",
     "olive-kojpel"
+  ],
+  "cover": "https://web.archive.org/web/20251207091526im_/http://spidermedia.ru/assets/images/import_image/7696.jpg",
+  "modx_id": 7696,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,12 +1,18 @@
 {
   "title": "Джейк Джилленхол отказался от роли в \"Отряде самоубийц\"",
-  "date": "2015-01-22T11:57:00+03:00",
+  "date": "2015-01-22T11:57:31+03:00",
   "url": "/news/dzheyk-dzhillenhol-otkazalsya-ot-roli-v-otryade-samoubiyc/",
   "original_url": "https://spidermedia.ru/news/dzheyk-dzhillenhol-otkazalsya-ot-roli-v-otryade-samoubiyc",
   "archived": "https://web.archive.org/web/20251211032009/https://spidermedia.ru/news/dzheyk-dzhillenhol-otkazalsya-ot-roli-v-otryade-samoubiyc",
   "tags": [
     "suicide-squad",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150326220909im_/http://spidermedia.ru/assets/images/import_image/8529.jpg",
+  "modx_id": 8529,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

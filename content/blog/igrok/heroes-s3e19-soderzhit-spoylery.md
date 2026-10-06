@@ -1,14 +1,24 @@
 {
   "title": "Heroes s3e19 - содержит спойлеры!",
-  "date": "2009-03-10T22:44:00+03:00",
+  "date": "2009-03-10T22:44:26+03:00",
   "url": "/blog/igrok/heroes-s3e19-soderzhit-spoylery/",
+  "aliases": [
+    "/node/639/"
+  ],
   "original_url": "http://spidermedia.ru/blog/igrok/heroes-s3e19-soderzhit-spoylery",
   "archived": "https://web.archive.org/web/20160405133333/http://spidermedia.ru/blog/igrok/heroes-s3e19-soderzhit-spoylery",
   "tags": [
     "recenziya",
     "heroes",
     "serialy",
-    "geroi"
+    "geroi",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20160611144640im_/http://spidermedia.ru/assets/images/import_image/639.jpg",
+  "modx_id": 639,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

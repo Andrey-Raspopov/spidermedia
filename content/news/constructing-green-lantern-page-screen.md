@@ -1,6 +1,6 @@
 {
   "title": "Constructing Green Lantern: From Page to Screen",
-  "date": "2011-05-22T18:38:00+03:00",
+  "date": "2011-05-22T17:38:17+03:00",
   "url": "/news/constructing-green-lantern-page-screen/",
   "original_url": "http://spidermedia.ru/news/constructing-green-lantern-page-screen",
   "archived": "https://web.archive.org/web/20260121011457/http://spidermedia.ru/news/constructing-green-lantern-page-screen",
@@ -8,6 +8,12 @@
     "green-lantern",
     "dc-comics",
     "knigi"
+  ],
+  "cover": "https://web.archive.org/web/20260121011457im_/http://spidermedia.ru/assets/images/import_image/5934.jpg",
+  "modx_id": 5934,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

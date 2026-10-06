@@ -1,6 +1,6 @@
 {
   "title": "Рецензия на пилот сериала «Constantine»",
-  "date": "2014-10-25T16:07:00+03:00",
+  "date": "2014-10-25T15:07:09+03:00",
   "url": "/blog/larosh/recenziya-na-pilot-seriala-constantine-0/",
   "original_url": "https://spidermedia.ru/blog/larosh/recenziya-na-pilot-seriala-constantine-0",
   "archived": "https://web.archive.org/web/20241106115425/https://spidermedia.ru/blog/larosh/recenziya-na-pilot-seriala-constantine-0",
@@ -8,7 +8,14 @@
     "serialy",
     "dzhon-konstantin",
     "dc-comics",
-    "obzor"
+    "obzor",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20241106115425im_/http://spidermedia.ru/assets/images/import_image/8224.jpg",
+  "modx_id": 8224,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

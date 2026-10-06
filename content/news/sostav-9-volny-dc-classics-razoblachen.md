@@ -1,13 +1,22 @@
 {
   "title": "Состав 9 волны DC Classics разоблачен!",
-  "date": "2009-01-29T16:46:00+03:00",
+  "date": "2009-01-29T16:46:30+03:00",
   "url": "/news/sostav-9-volny-dc-classics-razoblachen/",
+  "aliases": [
+    "/node/10/"
+  ],
   "original_url": "https://spidermedia.ru/news/sostav-9-volny-dc-classics-razoblachen",
   "archived": "https://web.archive.org/web/20260206223440/https://spidermedia.ru/news/sostav-9-volny-dc-classics-razoblachen",
   "tags": [
     "figurki",
     "mattel",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150502185513im_/http://spidermedia.ru/assets/images/import_image/10.png",
+  "modx_id": 10,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

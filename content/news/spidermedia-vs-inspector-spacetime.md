@@ -1,13 +1,21 @@
 {
   "title": "Spidermedia VS Inspector Spacetime",
-  "date": "2013-05-08T19:56:00+03:00",
+  "date": "2013-05-08T18:56:44+03:00",
   "url": "/news/spidermedia-vs-inspector-spacetime/",
   "original_url": "http://spidermedia.ru/news/spidermedia-vs-inspector-spacetime",
   "archived": "https://web.archive.org/web/20150428053634/http://spidermedia.ru/news/spidermedia-vs-inspector-spacetime",
   "tags": [
     "kino",
     "iron-man",
-    "marvel-comics"
+    "marvel-comics",
+    "zheleznyy-chelovek",
+    "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150428053634im_/http://spidermedia.ru/assets/images/import_image/7235.jpg",
+  "modx_id": 7235,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

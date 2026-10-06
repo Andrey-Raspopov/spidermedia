@@ -1,6 +1,6 @@
 {
   "title": "Жуть возвращается",
-  "date": "2009-04-14T18:03:00+03:00",
+  "date": "2009-04-14T17:03:45+03:00",
   "url": "/news/zhut-vozvrashchaetsya/",
   "original_url": "http://spidermedia.ru/news/zhut-vozvrashchaetsya",
   "archived": "https://web.archive.org/web/20200115081958/http://spidermedia.ru:80/news/zhut-vozvrashchaetsya",
@@ -8,6 +8,12 @@
     "dark-horse",
     "erik-pauell",
     "eric-powell"
+  ],
+  "cover": "https://web.archive.org/web/20200115081958im_/http://spidermedia.ru/assets/images/import_image/938.jpg",
+  "modx_id": 938,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

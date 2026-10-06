@@ -1,7 +1,10 @@
 {
   "title": "Война отнюдь не закончена",
-  "date": "2009-03-27T01:01:00+03:00",
+  "date": "2009-03-27T01:01:05+03:00",
   "url": "/news/voyna-otnyud-ne-zakonchena/",
+  "aliases": [
+    "/node/784/"
+  ],
   "original_url": "http://spidermedia.ru/news/voyna-otnyud-ne-zakonchena",
   "archived": "https://web.archive.org/web/20250909135355/http://spidermedia.ru/news/voyna-otnyud-ne-zakonchena",
   "tags": [
@@ -9,6 +12,12 @@
     "ryan-ottley",
     "invincible",
     "image-comics"
+  ],
+  "cover": "https://web.archive.org/web/20250909135355im_/http://spidermedia.ru/assets/images/import_image/784.jpg",
+  "modx_id": 784,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

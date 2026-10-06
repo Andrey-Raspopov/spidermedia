@@ -8,6 +8,12 @@
     "marvel",
     "spider-man"
   ],
+  "cover": "https://web.archive.org/web/20160622171303im_/http://spidermedia.ru/assets/images/news/movies/spider-man/mateus-ward-next-spider-man-2.jpg",
+  "modx_id": 100103,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,13 +1,20 @@
 {
   "title": "Каратель для домохозяек",
-  "date": "2011-10-21T11:13:00+03:00",
+  "date": "2011-10-21T10:13:11+03:00",
   "url": "/news/karatel-dlya-domohozyaek/",
   "original_url": "https://spidermedia.ru/news/karatel-dlya-domohozyaek",
   "archived": "https://web.archive.org/web/20251216121559/https://spidermedia.ru/news/karatel-dlya-domohozyaek",
   "tags": [
     "marvel",
     "serialy",
-    "punisher"
+    "punisher",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20251216121559im_/http://spidermedia.ru/assets/images/import_image/6665.gif",
+  "modx_id": 6665,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

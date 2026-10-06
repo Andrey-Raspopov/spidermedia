@@ -1,13 +1,22 @@
 {
   "title": "...Vs Overlook #2",
-  "date": "2009-05-19T11:09:00+03:00",
+  "date": "2009-05-19T10:09:27+03:00",
   "url": "/blog/deadpoolic/vs-overlook-2/",
+  "aliases": [
+    "/node/1236/"
+  ],
   "original_url": "https://spidermedia.ru/blog/deadpoolic/vs-overlook-2",
   "archived": "https://web.archive.org/web/20260307062933/https://spidermedia.ru/blog/deadpoolic/vs-overlook-2",
   "tags": [
     "image-comics",
     "shadowline",
     "overlook"
+  ],
+  "cover": "https://web.archive.org/web/20260307062933im_/http://spidermedia.ru/assets/images/import_image/1236.jpg",
+  "modx_id": 1236,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

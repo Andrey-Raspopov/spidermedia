@@ -4,6 +4,12 @@
   "url": "/games/halo-infinite-opinion/",
   "original_url": "https://spidermedia.ru/games/halo-infinite-opinion",
   "archived": "https://web.archive.org/web/20260116214712/https://spidermedia.ru/games/halo-infinite-opinion",
+  "cover": "https://web.archive.org/web/20260116214712im_/http://spidermedia.ru/assets/images/games/regnum_picture_16275575211074589_normal.png",
+  "modx_id": 102468,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

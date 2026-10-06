@@ -8,6 +8,12 @@
     "marvel",
     "guardians-of-the-galaxy"
   ],
+  "cover": "https://web.archive.org/web/20250217064955im_/http://spidermedia.ru/assets/images/movies/marvel/guardians-of-the-galaxy-vol-2-2017/mantis.jpg",
+  "modx_id": 100690,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

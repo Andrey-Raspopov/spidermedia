@@ -4,6 +4,12 @@
   "url": "/movies/resident-evil-welcome-to-raccoon-city-review/",
   "original_url": "https://spidermedia.ru/movies/resident-evil-welcome-to-raccoon-city-review",
   "archived": "https://web.archive.org/web/20251216190507/https://spidermedia.ru/movies/resident-evil-welcome-to-raccoon-city-review",
+  "cover": "https://web.archive.org/web/20251216190507im_/http://spidermedia.ru/assets/images/movies/cjjcuj.png",
+  "modx_id": 102465,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

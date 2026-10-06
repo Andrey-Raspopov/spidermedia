@@ -8,6 +8,12 @@
     "fantagraphics",
     "daniel-clowes"
   ],
+  "cover": "https://web.archive.org/web/20171024164211im_/http://spidermedia.ru/assets/images/news/fantagraphics/patience-cover.png",
+  "modx_id": 100195,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

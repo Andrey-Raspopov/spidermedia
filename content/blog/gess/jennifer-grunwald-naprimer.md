@@ -1,12 +1,18 @@
 {
   "title": "Jennifer Grünwald например",
-  "date": "2009-02-15T12:18:00+03:00",
+  "date": "2009-02-15T11:18:19+03:00",
   "url": "/blog/gess/jennifer-grunwald-naprimer/",
   "original_url": "http://spidermedia.ru/blog/gess/jennifer-grunwald-naprimer",
   "archived": "https://web.archive.org/web/20120609000710/http://spidermedia.ru/blog/gess/jennifer-grunwald-naprimer",
   "tags": [
     "dzhon-kessedi",
     "redaktory"
+  ],
+  "cover": "https://web.archive.org/web/20120609000710im_/http://spidermedia.ru/assets/images/import_image/371.jpg",
+  "modx_id": 371,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

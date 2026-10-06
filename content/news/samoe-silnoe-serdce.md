@@ -1,6 +1,6 @@
 {
   "title": "Самое сильное сердце",
-  "date": "2011-03-21T04:59:00+03:00",
+  "date": "2011-03-21T04:59:09+03:00",
   "url": "/news/samoe-silnoe-serdce/",
   "original_url": "http://spidermedia.ru/news/samoe-silnoe-serdce",
   "archived": "https://web.archive.org/web/20240624000508/http://spidermedia.ru/news/samoe-silnoe-serdce",
@@ -9,6 +9,12 @@
     "marvel",
     "greg-pak",
     "pol-pellete"
+  ],
+  "cover": "https://web.archive.org/web/20240624000508im_/http://spidermedia.ru/assets/images/import_image/4319.jpg",
+  "modx_id": 4319,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

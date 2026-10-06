@@ -1,7 +1,10 @@
 {
   "title": "Brand New Day: Февраль 2010",
-  "date": "2009-11-16T22:06:00+03:00",
+  "date": "2009-11-16T22:06:26+03:00",
   "url": "/news/brand-new-day-fevral-2010/",
+  "aliases": [
+    "/node/2101/"
+  ],
   "original_url": "https://spidermedia.ru/news/brand-new-day-fevral-2010",
   "archived": "https://web.archive.org/web/20260211174226/https://spidermedia.ru/news/brand-new-day-fevral-2010",
   "tags": [
@@ -24,7 +27,14 @@
     "jackpot",
     "black-cat",
     "spider-man",
-    "chernaya-koshka"
+    "chernaya-koshka",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20260211174226im_/http://spidermedia.ru/assets/images/import_image/2101.png",
+  "modx_id": 2101,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

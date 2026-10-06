@@ -8,6 +8,12 @@
     "hellboymedia",
     "mnenie"
   ],
+  "cover": "https://web.archive.org/web/20260309190235im_/http://spidermedia.ru/assets/images/hellboymedia/regular/26-lobster-johnson-the-forgotten-man/lobster-johnson-the-forgotten-man-cover.jpg",
+  "modx_id": 101138,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

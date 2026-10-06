@@ -1,13 +1,22 @@
 {
   "title": "...Vs - Noir",
-  "date": "2009-10-30T23:14:00+03:00",
+  "date": "2009-10-30T23:14:13+03:00",
   "url": "/blog/deadpoolic/vs-noir/",
+  "aliases": [
+    "/node/2041/"
+  ],
   "original_url": "https://spidermedia.ru/blog/deadpoolic/vs-noir",
   "archived": "https://web.archive.org/web/20251216175151/https://spidermedia.ru/blog/deadpoolic/vs-noir",
   "tags": [
     "noir",
     "dark-horse",
     "brian-azzarello"
+  ],
+  "cover": "https://web.archive.org/web/20251216175151im_/http://spidermedia.ru/assets/images/import_image/2041.png",
+  "modx_id": 2041,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

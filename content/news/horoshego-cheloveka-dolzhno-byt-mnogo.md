@@ -1,7 +1,10 @@
 {
   "title": "Хорошего человека должно быть много",
-  "date": "2009-06-14T17:36:00+03:00",
+  "date": "2009-06-14T16:36:43+03:00",
   "url": "/news/horoshego-cheloveka-dolzhno-byt-mnogo/",
+  "aliases": [
+    "/node/1416/"
+  ],
   "original_url": "http://spidermedia.ru/news/horoshego-cheloveka-dolzhno-byt-mnogo",
   "archived": "https://web.archive.org/web/20251207001056/http://spidermedia.ru/news/horoshego-cheloveka-dolzhno-byt-mnogo",
   "tags": [
@@ -12,6 +15,12 @@
     "hal-jordan",
     "green-lantern",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150326221244im_/http://spidermedia.ru/assets/images/import_image/1416.jpg",
+  "modx_id": 1416,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

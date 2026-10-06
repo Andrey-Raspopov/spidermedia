@@ -4,6 +4,9 @@
   "url": "/games/emu/cps/cps_list/",
   "original_url": "http://www.spidermedia.ru/games/emu/cps/cps_list.html",
   "archived": "https://web.archive.org/web/20040916050938/http://www.spidermedia.ru:80/games/emu/cps/cps_list.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

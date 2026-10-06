@@ -1,7 +1,10 @@
 {
   "title": "Секреты Детектива",
-  "date": "2009-04-10T22:56:00+03:00",
+  "date": "2009-04-10T21:56:43+03:00",
   "url": "/news/sekrety-detektiva/",
+  "aliases": [
+    "/node/907/"
+  ],
   "original_url": "https://spidermedia.ru/news/sekrety-detektiva",
   "archived": "https://web.archive.org/web/20260115051626/https://spidermedia.ru/news/sekrety-detektiva",
   "tags": [
@@ -10,7 +13,14 @@
     "betvuman",
     "greg-rakka",
     "art-0",
-    "uilyams-iii"
+    "uilyams-iii",
+    "prevyu",
+    "art"
+  ],
+  "modx_id": 907,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

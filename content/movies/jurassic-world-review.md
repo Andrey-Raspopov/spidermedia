@@ -4,6 +4,12 @@
   "url": "/movies/jurassic-world-review/",
   "original_url": "http://spidermedia.ru/movies/jurassic-world-review",
   "archived": "https://web.archive.org/web/20230925171630/http://spidermedia.ru/movies/jurassic-world-review",
+  "cover": "https://web.archive.org/web/20230925171630im_/http://spidermedia.ru/assets/images/movies/other/jurassic-world/jurassic-world2.jpg",
+  "modx_id": 100279,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

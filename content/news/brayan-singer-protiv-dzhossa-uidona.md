@@ -1,12 +1,19 @@
 {
   "title": "Брайан Сингер против Джосса Уидона",
-  "date": "2013-05-23T23:57:00+03:00",
+  "date": "2013-05-23T22:57:07+03:00",
   "url": "/news/brayan-singer-protiv-dzhossa-uidona/",
   "original_url": "http://spidermedia.ru/news/brayan-singer-protiv-dzhossa-uidona",
   "archived": "https://web.archive.org/web/20190914073503/http://spidermedia.ru:80/news/brayan-singer-protiv-dzhossa-uidona",
   "tags": [
     "x-men",
-    "avengers"
+    "avengers",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20190914073503im_/http://spidermedia.ru/assets/images/import_image/7251.jpg",
+  "modx_id": 7251,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "NYCC: Локи - агент Асгарда",
-  "date": "2013-10-12T22:28:00+03:00",
+  "date": "2013-10-12T21:28:04+03:00",
   "url": "/news/nycc-loki-agent-asgarda/",
   "original_url": "http://spidermedia.ru/news/nycc-loki-agent-asgarda",
   "archived": "https://web.archive.org/web/20250806055629/http://spidermedia.ru/news/nycc-loki-agent-asgarda",
@@ -8,6 +8,12 @@
     "marvel",
     "loki",
     "new-york-comic-con"
+  ],
+  "cover": "https://web.archive.org/web/20250806055629im_/http://spidermedia.ru/assets/images/import_image/7498.jpg",
+  "modx_id": 7498,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

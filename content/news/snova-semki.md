@@ -1,11 +1,17 @@
 {
   "title": "Снова съемки",
-  "date": "2011-11-19T18:57:00+03:00",
+  "date": "2011-11-19T17:57:24+03:00",
   "url": "/news/snova-semki/",
   "original_url": "https://spidermedia.ru/news/snova-semki",
   "archived": "https://web.archive.org/web/20241010054340/https://spidermedia.ru/news/snova-semki",
   "tags": [
     "spider-man"
+  ],
+  "cover": "https://web.archive.org/web/20241010054340im_/http://spidermedia.ru/assets/images/import_image/6704.jpg",
+  "modx_id": 6704,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

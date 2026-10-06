@@ -1,6 +1,6 @@
 {
   "title": "Неутолённый голод",
-  "date": "2013-07-20T04:51:00+03:00",
+  "date": "2013-07-20T03:51:12+03:00",
   "url": "/news/neutolyonnyy-golod/",
   "original_url": "http://spidermedia.ru/news/neutolyonnyy-golod",
   "archived": "https://web.archive.org/web/20260209115856/http://spidermedia.ru/news/neutolyonnyy-golod",
@@ -9,6 +9,12 @@
     "ultimate",
     "marvel",
     "san-diego-comic-con-international"
+  ],
+  "cover": "https://web.archive.org/web/20260209115856im_/http://spidermedia.ru/assets/images/import_image/7362.jpg",
+  "modx_id": 7362,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

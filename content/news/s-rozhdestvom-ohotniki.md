@@ -1,11 +1,20 @@
 {
   "title": "С Рождеством, Охотники!",
-  "date": "2009-11-06T08:28:00+03:00",
+  "date": "2009-11-06T08:28:15+03:00",
   "url": "/news/s-rozhdestvom-ohotniki/",
+  "aliases": [
+    "/node/2065/"
+  ],
   "original_url": "http://spidermedia.ru/news/s-rozhdestvom-ohotniki",
   "archived": "https://web.archive.org/web/20250121020010/http://spidermedia.ru/news/s-rozhdestvom-ohotniki",
   "tags": [
     "ghostbusters"
+  ],
+  "cover": "https://web.archive.org/web/20250121020010im_/http://spidermedia.ru/assets/images/import_image/2065.jpg",
+  "modx_id": 2065,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

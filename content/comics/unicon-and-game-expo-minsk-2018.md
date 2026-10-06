@@ -7,6 +7,12 @@
   "tags": [
     "unicon"
   ],
+  "cover": "https://web.archive.org/web/20200219060816im_/http://spidermedia.ru/assets/images/comic-con/2018/unicon/unicon.png",
+  "modx_id": 102030,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,11 +1,19 @@
 {
   "title": "Подкаст возвращается! (ТИЗЕР)",
-  "date": "2013-07-25T08:33:00+03:00",
+  "date": "2013-07-25T07:33:19+03:00",
   "url": "/podcast/podkast-vozvrashchaetsya-tizer/",
   "original_url": "http://spidermedia.ru/podcast/podkast-vozvrashchaetsya-tizer",
   "archived": "https://web.archive.org/web/20250424193852/http://spidermedia.ru/podcast/podkast-vozvrashchaetsya-tizer",
   "tags": [
     "spidercast"
+  ],
+  "cover": "https://web.archive.org/web/20150315200106im_/http://spidermedia.ru/misc/files/podcast/covers/spidercast_0.png",
+  "podcast_audio": "https://spidermedia.podster.fm/22/download/audio.mp3",
+  "podcast_length": "05:24",
+  "modx_id": 7379,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

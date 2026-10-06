@@ -1,7 +1,10 @@
 {
   "title": "Agents Assemble",
-  "date": "2009-10-19T23:18:00+03:00",
+  "date": "2009-10-19T22:18:18+03:00",
   "url": "/news/agents-assemble/",
+  "aliases": [
+    "/node/2008/"
+  ],
   "original_url": "https://spidermedia.ru/news/agents-assemble",
   "archived": "https://web.archive.org/web/20260313105200/https://spidermedia.ru/news/agents-assemble",
   "tags": [
@@ -12,13 +15,20 @@
     "gabriel-hardmen",
     "art-0",
     "marvel",
-    "agenty-atlasa"
+    "agenty-atlasa",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20260313105200im_/http://spidermedia.ru/assets/images/import_image/2008.jpg",
+  "modx_id": 2008,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-Пока личная серия **Агентов Атласа** *(Agents of Atlas)* находится на своеобразном хитаусе, сама команда совершенно не скучает: то развлекается [кроссовером](../../node/1593/) с **Людьми Икс** *(X-Men)*, то [переходит](../../node/1944/) на бэк-ап форму к комиксу **Incredible Hercules**, попутно обещая появиться и в самом событии **Assault on New Olympus**, то теперь это:
+Пока личная серия **Агентов Атласа** *(Agents of Atlas)* находится на своеобразном хитаусе, сама команда совершенно не скучает: то развлекается [кроссовером](../agenty-atlasa-na-ocheredi-lyudi-iks/) с **Людьми Икс** *(X-Men)*, то [переходит](../olimp-v-osade/) на бэк-ап форму к комиксу **Incredible Hercules**, попутно обещая появиться и в самом событии **Assault on New Olympus**, то теперь это:
 [![](https://web.archive.org/web/20260313105200im_/http://www.picamatic.com/show/2009/10/19/08/33/5642309_bigthumb.jpg)](http://www.picamatic.com/view/5642309_10_avengers_vs_agents_of_atlas_1/) [![](https://web.archive.org/web/20260313105200im_/http://www.picamatic.com/show/2009/10/19/08/46/5642957_bigthumb.jpg)](http://www.picamatic.com/view/5642957_60_marvel_boy__the_uranian_1/)
 Обложки от **Умберто Рамоса** *(Humberto Ramos)* и **Марко Джурджевича** *(Marko Djurdjevic)*
 

@@ -4,6 +4,12 @@
   "url": "/games/monster-hunter-stories-2-wings-of-ruin-opinion/",
   "original_url": "http://spidermedia.ru/games/monster-hunter-stories-2-wings-of-ruin-opinion",
   "archived": "https://web.archive.org/web/20251014043937/http://spidermedia.ru/games/monster-hunter-stories-2-wings-of-ruin-opinion",
+  "cover": "https://web.archive.org/web/20251014043937im_/http://spidermedia.ru/assets/images/games/screenshot-2021-07-15t084904.007.png",
+  "modx_id": 102417,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

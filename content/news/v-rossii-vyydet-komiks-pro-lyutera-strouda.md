@@ -1,6 +1,6 @@
 {
   "title": "В России выйдет комикс про Лютера Строуда",
-  "date": "2014-04-22T14:08:00+03:00",
+  "date": "2014-04-22T13:08:56+03:00",
   "url": "/news/v-rossii-vyydet-komiks-pro-lyutera-strouda/",
   "original_url": "https://spidermedia.ru/news/v-rossii-vyydet-komiks-pro-lyutera-strouda",
   "archived": "https://web.archive.org/web/20260307064428/https://spidermedia.ru/news/v-rossii-vyydet-komiks-pro-lyutera-strouda",
@@ -9,6 +9,12 @@
     "izdatelstvo-vd",
     "zarubezhnye-komiksy-na-russkom",
     "image-comics"
+  ],
+  "cover": "https://web.archive.org/web/20260307064428im_/http://spidermedia.ru/assets/images/import_image/7718.jpg",
+  "modx_id": 7718,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

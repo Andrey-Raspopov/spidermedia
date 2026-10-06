@@ -1,13 +1,22 @@
 {
   "title": "Месть под звуки рэпа",
-  "date": "2009-05-04T17:38:00+03:00",
+  "date": "2009-05-04T16:38:18+03:00",
   "url": "/news/mest-pod-zvuki-repa/",
+  "aliases": [
+    "/node/1095/"
+  ],
   "original_url": "http://spidermedia.ru/news/mest-pod-zvuki-repa",
   "archived": "https://web.archive.org/web/20251106235611/http://spidermedia.ru/news/mest-pod-zvuki-repa",
   "tags": [
     "fred-van-lente",
     "salvador-larroka",
     "punisher"
+  ],
+  "cover": "https://web.archive.org/web/20251106235611im_/http://spidermedia.ru/assets/images/import_image/1095.jpg",
+  "modx_id": 1095,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

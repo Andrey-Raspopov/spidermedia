@@ -1,6 +1,6 @@
 {
   "title": "Наши люди в Голливуде",
-  "date": "2014-06-24T12:38:00+03:00",
+  "date": "2014-06-24T11:38:46+03:00",
   "url": "/news/nashi-lyudi-v-gollivude/",
   "original_url": "https://spidermedia.ru/news/nashi-lyudi-v-gollivude",
   "archived": "https://web.archive.org/web/20251115024136/https://spidermedia.ru/news/nashi-lyudi-v-gollivude",
@@ -10,7 +10,14 @@
     "preview",
     "artem-trahanov",
     "undertow",
-    "image-comics"
+    "image-comics",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20251115024136im_/http://spidermedia.ru/assets/images/import_image/7835.jpg",
+  "modx_id": 7835,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

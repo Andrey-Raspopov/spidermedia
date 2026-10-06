@@ -8,6 +8,12 @@
     "best-column-about-comics",
     "mnenie"
   ],
+  "cover": "https://web.archive.org/web/20260306001609im_/http://spidermedia.ru/assets/images/best-column-about-comics/15-tale-of-sand/tale-of-sand-cover_.jpg",
+  "modx_id": 101531,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

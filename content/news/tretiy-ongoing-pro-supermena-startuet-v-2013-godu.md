@@ -1,6 +1,6 @@
 {
   "title": "Третий онгоинг Супермена стартует в 2013 году",
-  "date": "2012-10-12T22:34:00+03:00",
+  "date": "2012-10-12T21:34:21+03:00",
   "url": "/news/tretiy-ongoing-pro-supermena-startuet-v-2013-godu/",
   "original_url": "https://spidermedia.ru/news/tretiy-ongoing-pro-supermena-startuet-v-2013-godu",
   "archived": "https://web.archive.org/web/20251207011058/https://spidermedia.ru/news/tretiy-ongoing-pro-supermena-startuet-v-2013-godu",
@@ -11,6 +11,12 @@
     "jim-lee",
     "man-of-steel",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150428170749im_/http://spidermedia.ru/assets/images/import_image/7060.jpg",
+  "modx_id": 7060,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

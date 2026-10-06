@@ -1,6 +1,6 @@
 {
   "title": "Штаны поверх трусов",
-  "date": "2011-03-20T08:27:00+03:00",
+  "date": "2011-03-20T08:27:29+03:00",
   "url": "/news/shtany-poverh-trusov/",
   "original_url": "http://spidermedia.ru/news/shtany-poverh-trusov",
   "archived": "https://web.archive.org/web/20251216184929/http://spidermedia.ru/news/shtany-poverh-trusov",
@@ -8,6 +8,12 @@
     "icon-comics",
     "brian-michael-bendis",
     "mark-bagli"
+  ],
+  "cover": "https://web.archive.org/web/20251216184929im_/http://spidermedia.ru/assets/images/import_image/4296.jpg",
+  "modx_id": 4296,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

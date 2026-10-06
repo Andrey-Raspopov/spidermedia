@@ -1,11 +1,18 @@
 {
   "title": "Syfy заказал пилот экранизации Five Ghosts",
-  "date": "2014-10-07T21:25:00+03:00",
+  "date": "2014-10-07T20:25:53+03:00",
   "url": "/news/syfy-zakazal-pilot-ekranizacii-five-ghosts/",
   "original_url": "https://spidermedia.ru/news/syfy-zakazal-pilot-ekranizacii-five-ghosts",
   "archived": "https://web.archive.org/web/20250618114846/https://spidermedia.ru/news/syfy-zakazal-pilot-ekranizacii-five-ghosts",
   "tags": [
-    "serialy"
+    "serialy",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20250618114846im_/http://spidermedia.ru/assets/images/import_image/8143.jpg",
+  "modx_id": 8143,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

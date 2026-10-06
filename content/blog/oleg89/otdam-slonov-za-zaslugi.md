@@ -1,6 +1,6 @@
 {
   "title": "Отдам слонов. За заслуги",
-  "date": "2009-02-08T14:27:00+03:00",
+  "date": "2009-02-08T14:27:25+03:00",
   "url": "/blog/oleg89/otdam-slonov-za-zaslugi/",
   "original_url": "https://spidermedia.ru/blog/oleg89/otdam-slonov-za-zaslugi",
   "archived": "https://web.archive.org/web/20260305232736/https://spidermedia.ru/blog/oleg89/otdam-slonov-za-zaslugi",
@@ -13,6 +13,12 @@
     "secret-warriors",
     "marvel",
     "image-comics"
+  ],
+  "cover": "https://web.archive.org/web/20260305232736im_/http://spidermedia.ru/assets/images/import_image/270.jpg",
+  "modx_id": 270,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

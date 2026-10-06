@@ -8,6 +8,12 @@
     "boom-studios",
     "grant-morrison"
   ],
+  "cover": "https://web.archive.org/web/20230313081313im_/http://spidermedia.ru/assets/images/reviews/boom/klaus/00.jpg",
+  "modx_id": 102280,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,7 +1,10 @@
 {
   "title": "DVD Watchmen / Хранители :: Видеокомикс на русском",
-  "date": "2009-08-18T22:31:00+03:00",
+  "date": "2009-08-18T21:31:57+03:00",
   "url": "/news/dvd-watchmen-hraniteli-videokomiks-na-russkom/",
+  "aliases": [
+    "/node/1802/"
+  ],
   "original_url": "https://spidermedia.ru/news/dvd-watchmen-hraniteli-videokomiks-na-russkom",
   "archived": "https://web.archive.org/web/20241205103938/https://spidermedia.ru/news/dvd-watchmen-hraniteli-videokomiks-na-russkom",
   "tags": [
@@ -9,6 +12,12 @@
     "hraniteli",
     "motion-comics",
     "cifrovye-komiksy"
+  ],
+  "cover": "https://web.archive.org/web/20241205103938im_/http://spidermedia.ru/assets/images/import_image/1802.jpg",
+  "modx_id": 1802,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

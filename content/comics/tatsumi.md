@@ -7,6 +7,12 @@
   "tags": [
     "manga"
   ],
+  "cover": "https://web.archive.org/web/20220922234359im_/http://spidermedia.ru/assets/images/manga/mustread/tatsumi_00.jpg",
+  "modx_id": 100116,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

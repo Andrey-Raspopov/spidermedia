@@ -9,6 +9,12 @@
     "joker",
     "batman"
   ],
+  "cover": "https://web.archive.org/web/20171024181247im_/http://spidermedia.ru/assets/images/animation/dc-comics/the-killing-joke/batman-the-killing-joke-600x338.jpg",
+  "modx_id": 101051,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

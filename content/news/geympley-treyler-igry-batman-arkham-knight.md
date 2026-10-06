@@ -1,6 +1,6 @@
 {
   "title": "Геймплей трейлер игры \"BATMAN: ARKHAM KNIGHT\"",
-  "date": "2014-05-22T11:27:00+03:00",
+  "date": "2014-05-22T10:27:54+03:00",
   "url": "/news/geympley-treyler-igry-batman-arkham-knight/",
   "original_url": "https://spidermedia.ru/news/geympley-treyler-igry-batman-arkham-knight",
   "archived": "https://web.archive.org/web/20260208211042/https://spidermedia.ru/news/geympley-treyler-igry-batman-arkham-knight",
@@ -9,6 +9,12 @@
     "batman",
     "arkham-asylum",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150326034741im_/http://spidermedia.ru/assets/images/import_image/7752.jpg",
+  "modx_id": 7752,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

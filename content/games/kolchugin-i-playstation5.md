@@ -4,6 +4,12 @@
   "url": "/games/kolchugin-i-playstation5/",
   "original_url": "http://spidermedia.ru/games/kolchugin-i-playstation5",
   "archived": "https://web.archive.org/web/20250419060306/http://spidermedia.ru/games/kolchugin-i-playstation5",
+  "cover": "https://web.archive.org/web/20220314150729im_/http://spidermedia.ru/assets/images/games/ps5kolchugin/evf8ln9xaaqujkx.jpg",
+  "modx_id": 102364,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

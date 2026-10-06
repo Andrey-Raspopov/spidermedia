@@ -8,6 +8,12 @@
     "best-column-about-comics",
     "mnenie"
   ],
+  "cover": "https://web.archive.org/web/20260211094731im_/http://spidermedia.ru/assets/images/best-column-about-comics/03-supertron/supertron-cover.jpg",
+  "modx_id": 101358,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

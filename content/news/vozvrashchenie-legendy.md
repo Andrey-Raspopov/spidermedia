@@ -1,7 +1,10 @@
 {
   "title": "Возвращение легенды!",
-  "date": "2009-06-17T02:31:00+03:00",
+  "date": "2009-06-17T01:31:17+03:00",
   "url": "/news/vozvrashchenie-legendy/",
+  "aliases": [
+    "/node/1430/"
+  ],
   "original_url": "http://spidermedia.ru/news/vozvrashchenie-legendy",
   "archived": "https://web.archive.org/web/20200219114744/http://spidermedia.ru:80/news/vozvrashchenie-legendy",
   "tags": [
@@ -11,11 +14,17 @@
     "winter-soldier",
     "bryan-hitch"
   ],
+  "cover": "https://web.archive.org/web/20200219114744im_/http://spidermedia.ru/assets/images/import_image/1430.jpg",
+  "modx_id": 1430,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-Итак, [как мы уже сообщали](../../node/1425/), **Капитан Америка** *(Captain America, Steve Rogers)* вскоре вернется в мир живых. Этот анонс вызвал бурю эмоций, как со стороны поклонников **Стива**, так и со стороны поклонников нынешнего **Капитана** – **Бакки Барнса** *(Bucky Barnes)*. Тем не менее, анонс минисерии **Reborn**, которая теперь именуется **Captain America: Reborn**, сделан и нам лишь остается понять, что она из себя представляет.
+Итак, [как мы уже сообщали](../razrushennye-nadezhdy/), **Капитан Америка** *(Captain America, Steve Rogers)* вскоре вернется в мир живых. Этот анонс вызвал бурю эмоций, как со стороны поклонников **Стива**, так и со стороны поклонников нынешнего **Капитана** – **Бакки Барнса** *(Bucky Barnes)*. Тем не менее, анонс минисерии **Reborn**, которая теперь именуется **Captain America: Reborn**, сделан и нам лишь остается понять, что она из себя представляет.
 
 [![Photobucket](https://web.archive.org/web/20200219114744im_/http://img.photobucket.com/albums/v499/sp888/th_8395new_storyimage5162139.jpg)](http://smg.photobucket.com/albums/v499/sp888/?action=view¤t=8395new_storyimage5162139.jpg) [![](https://web.archive.org/web/20200219114744im_/http://img.photobucket.com/albums/v499/sp888/8381new_storyimage5079231.jpg)](http://marvel.com/i/content/st/8381new_storyimage5079231.jpg) [![Photobucket](https://web.archive.org/web/20200219114744im_/http://img.photobucket.com/albums/v499/sp888/th_8368new_storyimage4838715.jpg)](http://smg.photobucket.com/albums/v499/sp888/?action=view¤t=8368new_storyimage4838715.jpg)
 

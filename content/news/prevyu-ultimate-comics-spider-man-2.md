@@ -1,6 +1,6 @@
 {
   "title": "Превью Ultimate Comics Spider-Man #2",
-  "date": "2011-08-24T01:13:00+03:00",
+  "date": "2011-08-24T00:13:04+03:00",
   "url": "/news/prevyu-ultimate-comics-spider-man-2/",
   "original_url": "http://spidermedia.ru/news/prevyu-ultimate-comics-spider-man-2",
   "archived": "https://web.archive.org/web/20260308232225/http://spidermedia.ru/news/prevyu-ultimate-comics-spider-man-2",
@@ -10,7 +10,14 @@
     "preview",
     "kaare-endryus",
     "brian-michael-bendis",
-    "ultimate"
+    "ultimate",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20260308232225im_/http://spidermedia.ru/assets/images/import_image/6576.jpg",
+  "modx_id": 6576,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

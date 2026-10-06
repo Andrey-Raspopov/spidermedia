@@ -1,6 +1,6 @@
 {
   "title": "Лучшая школа на Земле",
-  "date": "2011-10-02T23:48:00+03:00",
+  "date": "2011-10-02T22:48:32+03:00",
   "url": "/news/luchshaya-shkola-na-zemle/",
   "original_url": "https://spidermedia.ru/news/luchshaya-shkola-na-zemle",
   "archived": "https://web.archive.org/web/20251107004158/https://spidermedia.ru/news/luchshaya-shkola-na-zemle",
@@ -8,7 +8,14 @@
     "kris-bachalo",
     "dzheyson-aaron",
     "x-men",
-    "wolverine"
+    "wolverine",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20251107004158im_/http://spidermedia.ru/assets/images/import_image/6632.jpg",
+  "modx_id": 6632,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

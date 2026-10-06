@@ -1,7 +1,10 @@
 {
   "title": "рецензия - Lucifer",
-  "date": "2009-04-15T22:23:00+03:00",
+  "date": "2009-04-15T21:23:22+03:00",
   "url": "/blog/bastion7/recenziya-lucifer/",
+  "aliases": [
+    "/node/945/"
+  ],
   "original_url": "https://spidermedia.ru/blog/bastion7/recenziya-lucifer",
   "archived": "https://web.archive.org/web/20260314081654/https://spidermedia.ru/blog/bastion7/recenziya-lucifer",
   "tags": [
@@ -11,6 +14,12 @@
     "majk-keri",
     "piter-gross",
     "lyucifer"
+  ],
+  "cover": "https://web.archive.org/web/20260314081654im_/http://spidermedia.ru/assets/images/import_image/945.jpg",
+  "modx_id": 945,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

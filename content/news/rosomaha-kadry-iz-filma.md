@@ -1,6 +1,6 @@
 {
   "title": "Росомаха: Кадры из фильма",
-  "date": "2009-03-30T15:03:00+03:00",
+  "date": "2009-03-30T14:03:28+03:00",
   "url": "/news/rosomaha-kadry-iz-filma/",
   "original_url": "http://spidermedia.ru/news/rosomaha-kadry-iz-filma",
   "archived": "https://web.archive.org/web/20250512115538/http://spidermedia.ru/news/rosomaha-kadry-iz-filma",
@@ -10,7 +10,14 @@
     "sabretooth",
     "deadpool",
     "gambit",
-    "sablezubyj"
+    "sablezubyj",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20250512115538im_/http://spidermedia.ru/assets/images/import_image/804.jpg",
+  "modx_id": 804,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

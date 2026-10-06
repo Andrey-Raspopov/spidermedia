@@ -5,17 +5,22 @@
   "original_url": "https://spidermedia.ru/comics/all-things-valiant-60-week-35",
   "archived": "https://web.archive.org/web/20251205120842/https://spidermedia.ru/comics/all-things-valiant-60-week-35",
   "tags": [
-    "valiant-entertainment"
+    "valiant-entertainment",
+    "all-things-valiant"
+  ],
+  "cover": "https://web.archive.org/web/20251205120842im_/http://spidermedia.ru/assets/images/valiant/images/atv60/atv60-35a.jpg",
+  "modx_id": 101325,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](http://spidermedia.ru/assets/cache/images/valiant/images/atv60/622x-atv60-35a.2e9.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv60/atv60-35a.jpg)
-
 Сегодня последний день лета, надеюсь, все отдохнули, набрались сил и готовы отважно встретить осень. Особенно осень с многообещающим аниме-сезоном, целой прорвой сериалов по комиксам хороших и разных. Но главное, с дошедшим-таки до нас The Future of Valiant. Горизонт поп-культуры полон манящих обещаний, давайте же надеется, что в этот раз будет меньше разочарований.
 
-**[Новости](./#news) ****•** [Анонсы](./#solicitations)** **•** [Рецензии](./#reviews)**
+**[Новости](#news) ****•** [Анонсы](#solicitations)** **•** [Рецензии](#reviews)**
 
 В этом выпуске комиксы, учащие быть собой, готовящиеся к вечности и Youtube-славе. А также единый в трех лицах Эндрю Долхауз.
 
@@ -28,15 +33,12 @@
 #### Эксклюзивная плашка «The Future of Valiant» для кейсов CGC
 The Certified Guaranty Company (CGC) и Valiant Entertainment представили первую кастомизированную плашку для кейсов CGC. Сертификат CGC, что расположен в верхней части кейсов, теперь будет украшать изображение, вдохновленное инициативой The Future of Valiant, в исполнении Диего Бернарда. Данные кейсы дебютируют на Комик-Коне в Балтиморе, а после поступят в свободную продажу по цене всего на 5$ дороже обычных, но их число будет строго ограничено (всего 500 шт.).
 
-[![](http://spidermedia.ru/assets/images/valiant/images/atv60/valiant-cgc-custom-label_front-label.jpg)](./)
-[![](http://spidermedia.ru/assets/images/valiant/images/atv60/valiant-cgc-custom-label_back-label.jpg)](./)
-[![](http://spidermedia.ru/assets/images/valiant/images/atv60/valiant-cgc-custom-label_front-cover.jpg)](./)
-[![](http://spidermedia.ru/assets/images/valiant/images/atv60/valiant-cgc-custom-label_back-cover.jpg)](./)
+![](https://web.archive.org/web/20251205120842im_/http://spidermedia.ru/assets/images/valiant/images/atv60/valiant-cgc-custom-label_front-label.jpg)![](https://web.archive.org/web/20251205120842im_/http://spidermedia.ru/assets/images/valiant/images/atv60/valiant-cgc-custom-label_back-label.jpg)![](https://web.archive.org/web/20251205120842im_/http://spidermedia.ru/assets/images/valiant/images/atv60/valiant-cgc-custom-label_front-cover.jpg)![](https://web.archive.org/web/20251205120842im_/http://spidermedia.ru/assets/images/valiant/images/atv60/valiant-cgc-custom-label_back-cover.jpg)
 
 #### Ninjak покоряет Youtube
 Bleedingcool сообщает, что Ninjak'а адаптируют под вебсериал люди с Youtube-канала [Bat in the Sun](https://www.youtube.com/user/batinthesun), ответственные за популярные видеоролики Super Power Beat Down. Минисериал будет состоять из 6 или 8 эпизодов и расскажет о том, как Ниндзяк ударился в бега, во время которых он будет сражаться с популярными персонажами Valiant: X-O Manowar, Faith, Bloodshot, Divinity, Timewalker, Eternal Warrior и новичком Savage. По слухам, роль Колина Кинга исполнит [Майкл Роу](https://www.instagram.com/captain_rowe/) (Стрела), а также участие в съемках примет [Джейсон Дэвид Франк](https://www.instagram.com/jdfffn/) (Могучие рейнджеры) и бывшая звезда WWE [Джон Рэндалл Хенниган](https://www.instagram.com/johnhennigan/).
 
-[![](http://spidermedia.ru/assets/images/valiant/images/atv60/atv-60-news-ninjak.jpg)](./)
+![](https://web.archive.org/web/20251205120842im_/http://spidermedia.ru/assets/images/valiant/images/atv60/atv-60-news-ninjak.jpg)
 
 ---
 
@@ -45,21 +47,7 @@ Bleedingcool сообщает, что Ninjak'а адаптируют под ве
 ---
 
 #### **Harbinger Renegades #1**
-[![Дэрик Робертсон](http://spidermedia.ru/assets/images/valiant/images/atv60/hr_001_cover-a_robertson.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv60/hr_001_cover-a_robertson.jpg "Дэрик Робертсон")
-
-[![Елена Кевич-Джурджевич](http://spidermedia.ru/assets/images/valiant/images/atv60/hr_001_cover-b_djurdjevic.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv60/hr_001_cover-b_djurdjevic.jpg "Елена Кевич-Джурджевич")
-
-[![Дэйв Джонсон](http://spidermedia.ru/assets/images/valiant/images/atv60/hr_001_cover-c_johnson.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv60/hr_001_cover-c_johnson.jpg "Дэйв Джонсон")
-
-[![Кано](http://spidermedia.ru/assets/images/valiant/images/atv60/hr_001_cover-d_kano.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv60/hr_001_cover-d_kano.jpg "Кано")
-
-[![Пере Перез](http://spidermedia.ru/assets/images/valiant/images/atv60/hr_001_variant-cgc_perez.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv60/hr_001_variant-cgc_perez.jpg "Пере Перез")
-
-[![Клэйтон Хенри](http://spidermedia.ru/assets/images/valiant/images/atv60/hr_001_variant_henry.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv60/hr_001_variant_henry.jpg "Клэйтон Хенри")
-
-[![Боб Лэйтон](http://spidermedia.ru/assets/images/valiant/images/atv60/hr_001_variant_layton.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv60/hr_001_variant_layton.jpg "Боб Лэйтон")
-
-[![Джим Мафуд](http://spidermedia.ru/assets/images/valiant/images/atv60/hr_001_variant_mahfood.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv60/hr_001_variant_mahfood.jpg "Джим Мафуд")
+![](https://web.archive.org/web/20251205120842im_/http://spidermedia.ru/assets/images/valiant/images/atv60/hr_001_cover-a_robertson.jpg)![](https://web.archive.org/web/20251205120842im_/http://spidermedia.ru/assets/images/valiant/images/atv60/hr_001_cover-b_djurdjevic.jpg)![](https://web.archive.org/web/20251205120842im_/http://spidermedia.ru/assets/images/valiant/images/atv60/hr_001_cover-c_johnson.jpg)![](https://web.archive.org/web/20251205120842im_/http://spidermedia.ru/assets/images/valiant/images/atv60/hr_001_cover-d_kano.jpg)![](https://web.archive.org/web/20251205120842im_/http://spidermedia.ru/assets/images/valiant/images/atv60/hr_001_variant-cgc_perez.jpg)![](https://web.archive.org/web/20251205120842im_/http://spidermedia.ru/assets/images/valiant/images/atv60/hr_001_variant_henry.jpg)![](https://web.archive.org/web/20251205120842im_/http://spidermedia.ru/assets/images/valiant/images/atv60/hr_001_variant_layton.jpg)![](https://web.archive.org/web/20251205120842im_/http://spidermedia.ru/assets/images/valiant/images/atv60/hr_001_variant_mahfood.jpg)
 
 Сценарий: Рафер Робертс
 Рисунок: Дэрик Робертсон
@@ -69,15 +57,7 @@ Bleedingcool сообщает, что Ninjak'а адаптируют под ве
 Когда мятежные настроения растут, Крис Хэтэвей, Джон «Торк» Торкельсон, Фэйт «Зефир» Герберт и Питер Стэнчек начинают осознавать, в чем состоит их истинное призвание. Действуя вместе, как Harbinger Renegades, ребята путешествуют из города в город, набирая сторонников и противостоя властям. Но главная их цель — доказать, что их способности появились не просто так!
 
 #### **Savage** **#1**
-[![Льюис ЛаРоза](http://spidermedia.ru/assets/images/valiant/images/atv60/savage_001_cover-a_larosa1.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv60/savage_001_cover-a_larosa1.jpg "Льюис ЛаРоза")
-
-[![Джаред Флетчер](http://spidermedia.ru/assets/images/valiant/images/atv60/savage_001_cover-b_fletcher1.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv60/savage_001_cover-b_fletcher1.jpg "Джаред Флетчер")
-
-[![Льюис ЛаРоза](http://spidermedia.ru/assets/images/valiant/images/atv60/savage_001_variant-design_larosa1.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv60/savage_001_variant-design_larosa1.jpg "Льюис ЛаРоза")
-
-[![Ренато Гуэдес](http://spidermedia.ru/assets/images/valiant/images/atv60/savage_001_variant_guedes1.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv60/savage_001_variant_guedes1.jpg "Ренато Гуэдес")
-
-[![Льюис ЛаРоза](http://spidermedia.ru/assets/images/valiant/images/atv60/savage_001_variant_bw-sketch_larosa1.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv60/savage_001_variant_bw-sketch_larosa1.jpg "Льюис ЛаРоза")
+![](https://web.archive.org/web/20251205120842im_/http://spidermedia.ru/assets/images/valiant/images/atv60/savage_001_cover-a_larosa1.jpg)![](https://web.archive.org/web/20251205120842im_/http://spidermedia.ru/assets/images/valiant/images/atv60/savage_001_cover-b_fletcher1.jpg)![](https://web.archive.org/web/20251205120842im_/http://spidermedia.ru/assets/images/valiant/images/atv60/savage_001_variant-design_larosa1.jpg)![](https://web.archive.org/web/20251205120842im_/http://spidermedia.ru/assets/images/valiant/images/atv60/savage_001_variant_guedes1.jpg)![](https://web.archive.org/web/20251205120842im_/http://spidermedia.ru/assets/images/valiant/images/atv60/savage_001_variant_bw-sketch_larosa1.jpg)
 
 Сценарий: Би Клэй Мур
 Рисунок: Клэйтон Хенри, Льюис ЛаРоза
@@ -87,15 +67,7 @@ Bleedingcool сообщает, что Ninjak'а адаптируют под ве
 Это история о том, как они утратили свою человечность.
 
 #### Faith #5
-[![Паоло Ривера](http://spidermedia.ru/assets/images/valiant/images/atv60/faith_005_cover-a_rivera.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv60/faith_005_cover-a_rivera.jpg "Паоло Ривера")
-
-[![Меган Хетрик](http://spidermedia.ru/assets/images/valiant/images/atv60/faith_005_cover-b_hetrick.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv60/faith_005_cover-b_hetrick.jpg "Меган Хетрик")
-
-[![Кармен Карнеро](http://spidermedia.ru/assets/images/valiant/images/atv60/faith_005_cover-c_carnero.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv60/faith_005_cover-c_carnero.jpg "Кармен Карнеро")
-
-[![Майкл Уолш](http://spidermedia.ru/assets/images/valiant/images/atv60/faith_005_variant_walsh.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv60/faith_005_variant_walsh.jpg "Майкл Уолш")
-
-[![Рафа Сандовал](http://spidermedia.ru/assets/images/valiant/images/atv60/faith_005_variant_sandoval.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv60/faith_005_variant_sandoval.jpg "Рафа Сандовал")
+![](https://web.archive.org/web/20251205120842im_/http://spidermedia.ru/assets/images/valiant/images/atv60/faith_005_cover-a_rivera.jpg)![](https://web.archive.org/web/20251205120842im_/http://spidermedia.ru/assets/images/valiant/images/atv60/faith_005_cover-b_hetrick.jpg)![](https://web.archive.org/web/20251205120842im_/http://spidermedia.ru/assets/images/valiant/images/atv60/faith_005_cover-c_carnero.jpg)![](https://web.archive.org/web/20251205120842im_/http://spidermedia.ru/assets/images/valiant/images/atv60/faith_005_variant_walsh.jpg)![](https://web.archive.org/web/20251205120842im_/http://spidermedia.ru/assets/images/valiant/images/atv60/faith_005_variant_sandoval.jpg)
 
 Сценарий: Джоди Хаузер, Луиза Саймонсон, Рафер Робертс
 Рисунок: Меган Хетрик, Пере Перез, Маргарит Саваж
@@ -104,15 +76,7 @@ Bleedingcool сообщает, что Ninjak'а адаптируют под ве
 
 #### Bloodshot U.S.A. #2
 
-[![Дуг Брэйтвэйт](http://spidermedia.ru/assets/images/valiant/images/atv60/bsusa_002_cover-a_braithwaite.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv60/bsusa_002_cover-a_braithwaite.jpg "Дуг Брэйтвэйт")
-
-[![Стивен Сеговия](http://spidermedia.ru/assets/images/valiant/images/atv60/bsusa_002_cover-b_segovia.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv60/bsusa_002_cover-b_segovia.jpg "Стивен Сеговия")
-
-[![Дэйв Джонсон](http://spidermedia.ru/assets/images/valiant/images/atv60/bsusa_002_cover-c_johnson.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv60/bsusa_002_cover-c_johnson.jpg "Дэйв Джонсон")
-
-[![Дэрик Робертсон](http://spidermedia.ru/assets/images/valiant/images/atv60/bsusa_002_variant_robertson.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv60/bsusa_002_variant_robertson.jpg "Дэрик Робертсон")
-
-[![Клэйтон Крэйн](http://spidermedia.ru/assets/images/valiant/images/atv60/bsusa_002_variant_crain.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv60/bsusa_002_variant_crain.jpg "Клэйтон Крэйн")
+![](https://web.archive.org/web/20251205120842im_/http://spidermedia.ru/assets/images/valiant/images/atv60/bsusa_002_cover-a_braithwaite.jpg)![](https://web.archive.org/web/20251205120842im_/http://spidermedia.ru/assets/images/valiant/images/atv60/bsusa_002_cover-b_segovia.jpg)![](https://web.archive.org/web/20251205120842im_/http://spidermedia.ru/assets/images/valiant/images/atv60/bsusa_002_cover-c_johnson.jpg)![](https://web.archive.org/web/20251205120842im_/http://spidermedia.ru/assets/images/valiant/images/atv60/bsusa_002_variant_robertson.jpg)![](https://web.archive.org/web/20251205120842im_/http://spidermedia.ru/assets/images/valiant/images/atv60/bsusa_002_variant_crain.jpg)
 
 Сценарий: Джефф Лемир
 Рисунок: Дуг Брэйтвэйт
@@ -123,10 +87,7 @@ Bleedingcool сообщает, что Ninjak'а адаптируют под ве
 
 #### A&A #9
 
-[![Брайан Левел](http://spidermedia.ru/assets/images/valiant/images/atv60/aa_009_cover-a_level.jpg)](./ "Брайан Левел")
-[![Дэн Шкэйд](http://spidermedia.ru/assets/images/valiant/images/atv60/aa_009_cover-b_schkade.jpg)](./ "Дэн Шкэйд")
-[![Райан Ли](http://spidermedia.ru/assets/images/valiant/images/atv60/aa_009_variant-design_lee.jpg)](./ "Райан Ли")
-[![Хуан Хосе Рип](http://spidermedia.ru/assets/images/valiant/images/atv60/aa_009_variant_ryp.jpg)](./ "Хуан Хосе Рип")
+![](https://web.archive.org/web/20251205120842im_/http://spidermedia.ru/assets/images/valiant/images/atv60/aa_009_cover-a_level.jpg)![](https://web.archive.org/web/20251205120842im_/http://spidermedia.ru/assets/images/valiant/images/atv60/aa_009_cover-b_schkade.jpg)![](https://web.archive.org/web/20251205120842im_/http://spidermedia.ru/assets/images/valiant/images/atv60/aa_009_variant-design_lee.jpg)![](https://web.archive.org/web/20251205120842im_/http://spidermedia.ru/assets/images/valiant/images/atv60/aa_009_variant_ryp.jpg)
 
 Сценарий: Рафер Робертс
 Рисунок: Майк Нортон
@@ -135,15 +96,7 @@ Bleedingcool сообщает, что Ninjak'а адаптируют под ве
 
 **Britannia #3**
 
-[![Кэри Норд](http://spidermedia.ru/assets/images/valiant/images/atv60/britannia_003_cover-a_nord.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv60/britannia_003_cover-a_nord.jpg "Кэри Норд")
-
-[![Адам Горэм](http://spidermedia.ru/assets/images/valiant/images/atv60/britannia_003_cover-b_gorham.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv60/britannia_003_cover-b_gorham.jpg "Адам Горэм")
-
-[![Хуан Хосе Рип](http://spidermedia.ru/assets/images/valiant/images/atv60/britannia_003_variant_ryp.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv60/britannia_003_variant_ryp.jpg "Хуан Хосе Рип")
-
-[![Кари Эванс](http://spidermedia.ru/assets/images/valiant/images/atv60/britannia_003_variant_evans.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv60/britannia_003_variant_evans.jpg "Кари Эванс")
-
-[![Дэйв Джонсон](http://spidermedia.ru/assets/images/valiant/images/atv60/britannia_003_variant_johnson.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv60/britannia_003_variant_johnson.jpg "Дэйв Джонсон")
+![](https://web.archive.org/web/20251205120842im_/http://spidermedia.ru/assets/images/valiant/images/atv60/britannia_003_cover-a_nord.jpg)![](https://web.archive.org/web/20251205120842im_/http://spidermedia.ru/assets/images/valiant/images/atv60/britannia_003_cover-b_gorham.jpg)![](https://web.archive.org/web/20251205120842im_/http://spidermedia.ru/assets/images/valiant/images/atv60/britannia_003_variant_ryp.jpg)![](https://web.archive.org/web/20251205120842im_/http://spidermedia.ru/assets/images/valiant/images/atv60/britannia_003_variant_evans.jpg)![](https://web.archive.org/web/20251205120842im_/http://spidermedia.ru/assets/images/valiant/images/atv60/britannia_003_variant_johnson.jpg)
 
 Сценарий: Питер Миллиган
 Рисунок: Хуан Хосе Рип
@@ -152,10 +105,7 @@ Bleedingcool сообщает, что Ninjak'а адаптируют под ве
 
 **Generation ZERO #4**
 
-[![Стивен Муни](http://spidermedia.ru/assets/images/valiant/images/atv60/genzero_004_cover-a_mooney.jpg)](./ "Стивен Муни")
-[![Том Мюллер](http://spidermedia.ru/assets/images/valiant/images/atv60/genzero_004_cover-b_muller.jpg)](./ "Том Мюллер")
-[![Андрес Гуинальдо](http://spidermedia.ru/assets/images/valiant/images/atv60/genzero_004_variant-design_guinaldo.jpg)](./ "Андрес Гуинальдо")
-[![Джеффри Вередж](http://spidermedia.ru/assets/images/valiant/images/atv60/genzero_004_variant_veregge.jpg)](./ "Джеффри Вередж")
+![](https://web.archive.org/web/20251205120842im_/http://spidermedia.ru/assets/images/valiant/images/atv60/genzero_004_cover-a_mooney.jpg)![](https://web.archive.org/web/20251205120842im_/http://spidermedia.ru/assets/images/valiant/images/atv60/genzero_004_cover-b_muller.jpg)![](https://web.archive.org/web/20251205120842im_/http://spidermedia.ru/assets/images/valiant/images/atv60/genzero_004_variant-design_guinaldo.jpg)![](https://web.archive.org/web/20251205120842im_/http://spidermedia.ru/assets/images/valiant/images/atv60/genzero_004_variant_veregge.jpg)
 
 Сценарий: Фред Ван Ленте
 Рисунок: Фрэнсис Портела
@@ -164,10 +114,7 @@ Bleedingcool сообщает, что Ninjak'а адаптируют под ве
 
 #### Ninjak #21
 
-[![Майк Чой](http://spidermedia.ru/assets/images/valiant/images/atv60/ninjak_021_cover-a_choi.jpg)](./ "Майк Чой")
-[![Райан Боденхейм](http://spidermedia.ru/assets/images/valiant/images/atv60/ninjak_021_cover-b_bodenheim.jpg)](./ "Райан Боденхейм")
-[![Марк Лэминг](http://spidermedia.ru/assets/images/valiant/images/atv60/ninjak_021_cover-c_laming.jpg)](./ "Марк Лэминг")
-[![Хуан Хосе Рип](http://spidermedia.ru/assets/images/valiant/images/atv60/ninjak_021_variant_ryp.jpg)](./ "Хуан Хосе Рип")
+![](https://web.archive.org/web/20251205120842im_/http://spidermedia.ru/assets/images/valiant/images/atv60/ninjak_021_cover-a_choi.jpg)![](https://web.archive.org/web/20251205120842im_/http://spidermedia.ru/assets/images/valiant/images/atv60/ninjak_021_cover-b_bodenheim.jpg)![](https://web.archive.org/web/20251205120842im_/http://spidermedia.ru/assets/images/valiant/images/atv60/ninjak_021_cover-c_laming.jpg)![](https://web.archive.org/web/20251205120842im_/http://spidermedia.ru/assets/images/valiant/images/atv60/ninjak_021_variant_ryp.jpg)
 
 Сценарий: Мэтт Киндт
 Рисунок: Кари Эванс, Андрес Гуинальдо
@@ -177,9 +124,7 @@ Bleedingcool сообщает, что Ninjak'а адаптируют под ве
 Меж тем, в настоящем рак из измерения Deadside, пожирающий Колина Кинга, приносит ему новые видения мрачного будущего. Сомкнет ли круг его битва в двух временных линиях?
 
 #### **Wrath of the Eternal Warrior** #13
-[![Эл Баррионуэво](http://spidermedia.ru/assets/images/valiant/images/atv60/wrath_013_cover-a_barrionuevo.jpg)](./ "Эл Баррионуэво")
-[![Кайл Стрэм](http://spidermedia.ru/assets/images/valiant/images/atv60/wrath_013_cover-b_strahm.jpg)](./ "Кайл Стрэм")
-[![Райан Ли](http://spidermedia.ru/assets/images/valiant/images/atv60/wrath_013_variant_lee.jpg)](./ "Райан Ли")
+![](https://web.archive.org/web/20251205120842im_/http://spidermedia.ru/assets/images/valiant/images/atv60/wrath_013_cover-a_barrionuevo.jpg)![](https://web.archive.org/web/20251205120842im_/http://spidermedia.ru/assets/images/valiant/images/atv60/wrath_013_cover-b_strahm.jpg)![](https://web.archive.org/web/20251205120842im_/http://spidermedia.ru/assets/images/valiant/images/atv60/wrath_013_variant_lee.jpg)
 
 Сценарий: Роберт Вендитти
 Рисунок: Роберт Джилл
@@ -191,3 +136,77 @@ Bleedingcool сообщает, что Ninjak'а адаптируют под ве
 **ЧТО МЫ ПРОЧИТАЛИ**
 
 ---
+
+a:3:{i:1;a:7:{s:5:"autor";a:3:{i:1;a:2:{i:0;s:18:"[Сценарий]";i:1;s:23:"Джоди Хаузер";}i:3;a:2:{i:0;s:16:"[Рисунок]";i:1;s:48:"Пере Перез, Маргарит Саваж";}i:5;a:2:{i:0;s:10:"[Цвет]";i:1;s:25:"Эндрю Долхауз";}}s:4:"name";s:5:"Faith";s:7:"edition";s:2:"#2";s:5:"cover";s:52:"assets/images/valiant/images/atv60/faith-2-cover.jpg";s:9:"publisher";s:4:"1249";s:4:"year";s:4:"2016";s:8:"comments";a:1:{i:1;a:4:{s:5:"autor";s:6:"183731";s:4:"text";s:7011:"
+
+Будь собой – главная мысль, которую лицемерно навязывает этот выпуск Faith. Хаузер не просто говорит это прямо, но подгоняет под эту мысль судьбу антагониста и мораль для героини, которую она выносит из битвы с негодяем. Вот только сама серия хочет быть чем-то другим.
+
+Фейт попала в плен к своему кумиру – Крису Крисвеллу. Известный актер, играющий популярных супергероев, возжелал быть злодеем и теперь нашей героине предстоит спастись из настоящей смертельной ловушки и на досуге помириться с женой друга.
+
+[[gallery? &id=`1266` &type=`1` &rowHeight=`150` &maxRowHeight=`100%` &captions=`false` &fixedHeight=`false` &lastRow=`justify` &margins=`2`]]
+
+*Когда работа – пытка*
+
+До тех пор пока Faith будет выдавать себя за «комикс для нового поколения», превозносящий Diversity, я буду сравнивать эту серию со столпами такого подхода: «Бэтгёрл» и «Молодыми мстителями». Эти чудесные серии создавались сценаристами-профессионалами индустрии, которые в качестве стержня истории выбирали классический прием – «превратим повседневные проблемы читателей в суперзлодеев». Да, современное поколение подкупали приключения героев, которые противостояли злодейским традиционным семейным ценностям и могли побить сетевого тролля. Наша героиня идёт другим путём.
+
+Серию Faith пишет молодой, подающий надежды автор, но вместо задорных приключений тамблер-поколения, она стремится к деконструкции супергероики прямиком из 80-ых. Увы, опыт пока позволяет только посмеиваться над штампами жанра. Да, Хаузер подшучивает приятно, но все равно возникает ощущение, что ты снова в нулевых и, в ожидание редкого кинокомикса, смотришь его заменитель в виде «[Моей супербывшей](https://www.kinopoisk.ru/film/161196/)».
+
+Хотя высмеивание стереотипов супергероики для подобного персонажа (поклонницы поп-культуры) неизбежно. Но это можно было бы обыграть лучше. Если бы сценарист сместила акцент с того, как важно быть собой, на травму от знакомства с обожаемым кумиром, Крисом, который при встрече оказался мерзким типом, то получилась бы образцовая Diversity история.
+
+Хотя, для подобного подхода текста в комиксе многовато. Прозаичность автора сама по себе не порок, но произведение типа Diversity требуют меньшей словоохотливости. Особенно от этого страдает вторая половина номера. Когда на один маленький кадр с говорящей головой приходится два средних пузыря диалога и плашка закадрового [текста](http://spidermedia.ru/assets/images/valiant/files/atv60/atv-60-faith-2-example-1.jpg).
+
+[[gallery? &id=`1267` &type=`1` &rowHeight=`150` &maxRowHeight=`100%` &captions=`false` &fixedHeight=`false` &lastRow=`justify` &margins=`2`]]
+
+*Сага о клонах. Здесь и сейчас*
+
+Во многом успех вышеперечисленных столпов Diversity держался на стильном рисунке. А Faith со своими трехстраничными подачками от Маргарит Саваж только будит аппетит. Ее рисунок богат на экспрессивную мимику. Динамичная раскадровка завораживает своим намеренно игнорирующим канавки построением страниц, от чего кинематографичность теряется, но кадры перетекают друг в друга плавно и органично. А ее воздушные иллюстрации выделяются своей детализацией на фоне коробок-комнат Пере Переза. Чей рисунок все еще сокрыт под цветами неожиданно сменившего стиль Эндрю Долхауза. Теперь это плоская покраска, забывшая про существования бликов, но познавшая всю прелесть контрастности цветов. Объем передается просто полосками тени, а штриховка вымирает.
+
+Онгоинг начавшийся хорошо, не прыгает выше избранной планки качества в своем втором номере. Читателю все еще непонятно чего ждать от серии, кроме «приключений Фейт». А вот проигрывает он там, где старается встать вровень с прочими Diversity комикс-произведениями. В нем нет ничего выдающегося (ни плохого, ни хорошего). Но если не отвлекаться на то, чем комикс хочет быть, а принимать его таким, как он есть - это сносное чтиво, с неплохим клиффхэнгером и приятными персонажами.  Прочел и забыл.
+
+";s:8:"mjdzText";s:0:"";s:10:"conclusion";s:8:"ЖИЖА";}}}i:2;a:7:{s:5:"autor";a:3:{i:1;a:2:{i:0;s:18:"[Сценарий]";i:1;s:26:"Фред Ван Ленте";}i:3;a:2:{i:0;s:16:"[Рисунок]";i:1;s:29:"Фрэнсис Портела";}i:5;a:2:{i:0;s:10:"[Цвет]";i:1;s:25:"Эндрю Долхауз";}}s:4:"name";s:15:"Generation ZERO";s:7:"edition";s:2:"#1";s:5:"cover";s:53:"assets/images/valiant/images/atv60/g-zero-1-cover.jpg";s:9:"publisher";s:4:"1249";s:4:"year";s:4:"2016";s:8:"comments";a:1:{i:1;a:4:{s:5:"autor";s:6:"183731";s:4:"text";s:7481:"
+
+Это единственный комикс этого выпуска All Things Valiant, который твердо знает, чем он хочет быть и как этого достичь. Но не только из-за давних обещаний (как правильно подметил Олег, за пару лет желание фанатов получить эту серию [поутихло](../dnk-24-08-2016/)). Фред Ван Ленте понимает, что это первый для издательства онгоинг про оригинальных героев Valiant Entertainment и он с блеском устраивает им дебют.
+
+В утопическом городке Рук, штата Мичиган, таинственным образом погибает парень Кейши Шерман. Убитая горем девушка решает позвать на помощь Поколение Зеро. И, хотя люди считают, что эти солдаты-подростки, тайно взращенные Проектом Восходящий Дух, всего лишь городская легенда, они единственная надежда Кейши докопаться до правды. Но не пожалеет ли она о своем решении?
+
+[[gallery? &id=`1268` &type=`1` &rowHeight=`150` &maxRowHeight=`100%` &captions=`false` &fixedHeight=`false` &lastRow=`justify` &margins=`2`]]
+
+*Интересно, а скоро Джейсон подойдет?*
+
+Так как у этой серии нет мощного стартапа в виде популярного героя (Faith) или еще нереанимированных персонажей прошлого Valiant (Psi-lords), то Ван Ленте решил зайти с фланга и написать классическую американскую историю про таинственный провинциальный городок. Выведя в качестве главной героини Кейшу Шерман, сценарист и тут не пошел стандартным путем «а сейчас мы введем нового члена команды, чтобы через него познакомиться со старичками», а предложил интересный способ представить Поколение Зеро. Псиоты такой же полноправный герой повествования, как и мисс Шерман, но представлены они не конкретно, а в виде абстракции – городского мифа, джина из интернета, который может решить твои проблемы, если ему пожаловаться.
+
+Используя этот ореол таинственности, окутывающий команду экстраординарных молодых людей, Фред предлагает взглянуть на персонажей не как на хороших парней, а как на существ из легенд. Черные получеловеческие силуэты с горящими глазами, надвигающиеся на главную героиню, наводят на мысль – а не большее ли зло Кейши призвала в свой идеалистический городок, чем то, что в нем скрывается.
+
+Тайна, окутавшая Поколение Зеро, не разрушается даже при появление воплоти Кристиана и Ко. Как персонажи они очерчены лишь слегка, на погружение в глубины характеров времени нет. Автор настолько охвачен созданием нужной атмосферы, что на проработку героев у него не остается сил. Даже главная героиня, которой уделено больше всего «экранного времени», раскрывается исключительно через ее отношения со своим парнем. Про нее саму известно только то, что она гот и любит свою семью. А вот желание разоблачить секреты города подкреплены стремлением отомстить за любимого.
+
+[[gallery? &id=`1269` &type=`1` &rowHeight=`150` &maxRowHeight=`100%` &captions=`false` &fixedHeight=`false` &lastRow=`justify` &margins=`2`]]
+
+*Пфф. Гнать на* *Babble уже не модно*
+
+Благодаря мастерству художника слезам героини веришь, настолько [живые эмоции](http://spidermedia.ru/assets/images/valiant/files/atv60/atv-60-generation-zero-1-example-1.jpg) он изображает. Конечно, его страсть к широким подбородкам своих персонажей напрягает, но если свыкнуться со стилем Фрэнсиса Портелы, то можно получать от рисунка удовольствие. Он богат деталями, а помещения выглядят как живые комнаты. Фрэнсис не устает рисовать для Кейши различные наряды и ни разу не повторяется. В ее образ он вносит даже больше характера, чем сценарист. И все было бы неплохо, если бы не колорист. Generation Zero Эндрю Долхауз красит хуже всех комиксов, представленных в данном выпуске рубрики. Здесь его стандартный подход при работе с Портелой: подготовка мерзких пластмассовых пупсов для захвата мира. Нет никакого желания предложить новый стиль, который был бы созвучен The Future of Valiant. Но хуже всего то, что эти лоснящиеся иллюстрации совершенно не подходят предложенной истории.
+
+Комикс не потчует нас очередными эрзац-Людьми икс, противостоящими правительственному заговору, как можно было подумать из анонсов. Нет, это завораживающие столкновение мистерий, развязку которого ожидаешь с замиранием сердца. Вот только больно последнему из-за того, что настолько хорошей сценарной работе не подобрали иллюстраций в тон.
+
+";s:8:"mjdzText";s:0:"";s:10:"conclusion";s:10:"ДОБРО";}}}i:3;a:7:{s:5:"autor";a:3:{i:1;a:2:{i:0;s:18:"[Сценарий]";i:1;s:19:"Мэтт Киндт";}i:3;a:2:{i:0;s:16:"[Рисунок]";i:1;s:8:"КАФУ";}i:5;a:2:{i:0;s:10:"[Цвет]";i:1;s:25:"Эндрю Долхауз";}}s:4:"name";s:3:"Rai";s:7:"edition";s:3:"#16";s:5:"cover";s:51:"assets/images/valiant/images/atv60/rai-16-cover.jpg";s:9:"publisher";s:4:"1249";s:4:"year";s:4:"2016";s:8:"comments";a:1:{i:1;a:4:{s:5:"autor";s:6:"183732";s:4:"text";s:6590:"
+
+То, что готовит для Рая будущее, мы узнаем уже сегодня с завершением 4001 A.D. А пока Rai #16 расскажет о том, что происходило с ним в прошлом.
+
+Цикл историй о защитниках Новой Японии доходит до 4001 года. Отец избирает нового Рая, того, кто принесет стране небывалые перемены. Но прежде, чем герой отправится на миссию, которая положит начало восстанию, он получает приказ уничтожить своего предшественника.
+
+Что-то арк совсем развалился. Хотя нет, правильнее сказать, что он не может определиться с основной тематикой. История ли это Отца, постепенно теряющего веру в человечество, вследствие чего ожесточающегося? Или каждый номер это «один особенно тяжелый день из жизни защитника Новой Японии»? А может это пролог к Rai #1, шире обрисовывающий начало серии?
+
+На самом деле, все эти концепции интересны, и комиксу вполне хватило бы одной из них, но он старается быть ими всеми одновременно. И если выпускам с 13-го по 15-ый это вполне удавалось (в особенности 13-му, в котором через Осаму прекрасно раскрывался образ Отца), то 16-ый с поставленной задачей не справляется. Сущность ИИ развития не получает, и новых черт, которые бы позволили взглянуть на персонажа по-другому, тоже нет. Сцены с Раем, та их часть, где нет взаимодействия с Абото, интересны скорее как историческая справка (нам расскажут, как умерла мать главного героя), чем как самостоятельный сюжет.
+
+Но главная проблема номера это то, во что превратилась линия Абото. Все его действия в шестнадцатом выпуске направлены на то, чтобы раскрыть Раю глаза на чудовищные поступки Отца. Но это задумка (со сценарной точки зрения) провальна с самого начала. Если план Абото увенчается успехом, и Рай все поймет, то получится, что весь первый арк серии потеряет свою силу. То есть главный герой уже будет знать, какой Отец плохой, а значит, его прозрение и решение свергнуть ИИ в номерах 1-4 не будет обладать прежним эмоциональным эффектом. Если же усилия Абото окажутся тщетными, то вся его линия в Rai #16 становится бессмысленной, так как она никак не влияет ни на персонажей, ни на сюжет. Не говоря о том, что, по сути, такое развитие событий выставит Рая идиотом, которому все нужно объяснять дважды. Сценарист выбирает второй вариант, превращая финал истории Абото в неуклюжий филлер.
+
+[[gallery? &id=`1264` &type=`1` &rowHeight=`150` &maxRowHeight=`100%` &captions=`false` &fixedHeight=`false` &lastRow=`justify` &margins=`2`]]
+
+[*У Тарантино было лучше*](http://spidermedia.ru/assets/images/valiant/files/atv60/rai-16-image-a01.jpg)
+
+Как-то так совпало, что все комиксы в этом выпуске рубрики были раскрашены Эндрю Долхаузом, причем все в различной манере. И, на мой взгляд, покраска Рая самая удачная: выбранный способ во многом похож на гохуа, что придает иллюстрациям дополнительный восточный колорит (правда, данный вид живописи больше характерен для Китая, чем для Японии).
+
+Приятный и мягкий рисунок КАФУ плавно ведет глаз читателя по сюжету, но визуальный стиль серии уже так прочно ассоциируется с Клэйтоном Крэйном, что любой другой художник (какую бы отличную работу он ни выдавал) смотрится инородно.
+
+При всем при том, что комикс хорошо сработан, он вышел слабее предыдущих. Про Отца забыли напрочь, линия Абото заканчивается ничем, а часть про Рая хоть и является своеобразным прологом основной серии, но скорее вредит повествованию, чем помогает полнее увидеть картину прошлых событий. Как итог — стандартная концовка Мэтта Киндта.
+
+";s:8:"mjdzText";s:0:"";s:10:"conclusion";s:8:"ЖИЖА";}}}}

@@ -1,6 +1,6 @@
 {
   "title": "Люди Два Икса",
-  "date": "2013-01-15T03:38:00+03:00",
+  "date": "2013-01-15T02:38:49+03:00",
   "url": "/news/lyudi-dva-iksa/",
   "original_url": "http://spidermedia.ru/news/lyudi-dva-iksa",
   "archived": "https://web.archive.org/web/20250119225443/http://spidermedia.ru/news/lyudi-dva-iksa",
@@ -8,7 +8,14 @@
     "olive-kojpel",
     "brian-wood",
     "x-men",
-    "marvel"
+    "marvel",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20150428172306im_/http://spidermedia.ru/assets/images/import_image/7119.jpg",
+  "modx_id": 7119,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

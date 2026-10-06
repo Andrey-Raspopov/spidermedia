@@ -1,7 +1,10 @@
 {
   "title": "Полноценное Превью Dark Reign: Hawkeye #1",
-  "date": "2009-03-04T21:39:00+03:00",
+  "date": "2009-03-04T21:39:06+03:00",
   "url": "/news/polnocennoe-prevyu-dark-reign-hawkeye-1/",
+  "aliases": [
+    "/node/590/"
+  ],
   "original_url": "https://spidermedia.ru/news/polnocennoe-prevyu-dark-reign-hawkeye-1",
   "archived": "https://web.archive.org/web/20260121005413/https://spidermedia.ru/news/polnocennoe-prevyu-dark-reign-hawkeye-1",
   "tags": [
@@ -11,7 +14,15 @@
     "art-0",
     "marvel",
     "hawkeye",
-    "bullseye"
+    "bullseye",
+    "dark-avengers",
+    "prevyu",
+    "art"
+  ],
+  "modx_id": 590,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

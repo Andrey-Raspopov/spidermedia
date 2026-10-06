@@ -1,13 +1,20 @@
 {
   "title": "«Люди Икс: Апокалипсис» нашел молодых Джин, Циклопа и Шторм",
-  "date": "2015-01-23T08:11:00+03:00",
+  "date": "2015-01-23T08:11:31+03:00",
   "url": "/news/lyudi-iks-apokalipsis-nashel-molodyh-dzhin-ciklopa-i-shtorm/",
   "original_url": "http://spidermedia.ru/news/lyudi-iks-apokalipsis-nashel-molodyh-dzhin-ciklopa-i-shtorm",
   "archived": "https://web.archive.org/web/20260125123712/http://spidermedia.ru/news/lyudi-iks-apokalipsis-nashel-molodyh-dzhin-ciklopa-i-shtorm",
   "tags": [
     "marvel",
     "x-men",
-    "kasting"
+    "kasting",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20150326001414im_/http://spidermedia.ru/assets/images/import_image/8534.jpg",
+  "modx_id": 8534,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

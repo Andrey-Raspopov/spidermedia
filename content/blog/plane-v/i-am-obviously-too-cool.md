@@ -1,11 +1,20 @@
 {
   "title": "I am obviously too cool for this",
-  "date": "2009-12-19T01:36:00+03:00",
+  "date": "2009-12-19T01:36:20+03:00",
   "url": "/blog/plane-v/i-am-obviously-too-cool/",
+  "aliases": [
+    "/node/2182/"
+  ],
   "original_url": "http://spidermedia.ru/blog/plane-v/i-am-obviously-too-cool",
   "archived": "https://web.archive.org/web/20190316102533/http://spidermedia.ru:80/blog/plane-v/i-am-obviously-too-cool",
   "tags": [
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20190316102533im_/http://spidermedia.ru/assets/images/import_image/2182.jpg",
+  "modx_id": 2182,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

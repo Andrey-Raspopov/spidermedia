@@ -1,12 +1,17 @@
 {
   "title": "Тринити",
-  "date": "2009-01-31T23:15:00+03:00",
+  "date": "2009-01-31T23:15:26+03:00",
   "url": "/blog/silver/triniti/",
   "original_url": "http://spidermedia.ru/blog/silver/triniti",
   "archived": "https://web.archive.org/web/20240718180057/http://spidermedia.ru/blog/silver/triniti",
   "tags": [
     "grant-morrison",
     "frenk-kuajtli"
+  ],
+  "modx_id": 46,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Back in time",
-  "date": "2011-04-04T20:49:00+03:00",
+  "date": "2011-04-04T19:49:28+03:00",
   "url": "/news/back-time/",
   "original_url": "http://spidermedia.ru/news/back-time",
   "archived": "https://web.archive.org/web/20251207001425/http://spidermedia.ru/news/back-time",
@@ -18,6 +18,12 @@
     "dennis-oneil",
     "dc-comics",
     "len-uin"
+  ],
+  "cover": "https://web.archive.org/web/20251207001425im_/http://spidermedia.ru/assets/images/import_image/4713.jpg",
+  "modx_id": 4713,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

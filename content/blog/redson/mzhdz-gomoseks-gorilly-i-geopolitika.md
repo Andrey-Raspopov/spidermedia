@@ -1,12 +1,18 @@
 {
   "title": "МЖДЗ: ГОМОСЕКС, ГОРИЛЛЫ И ГЕОПОЛИТИКА",
-  "date": "2011-06-22T23:11:00+03:00",
+  "date": "2011-06-22T22:11:53+03:00",
   "url": "/blog/redson/mzhdz-gomoseks-gorilly-i-geopolitika/",
   "original_url": "http://spidermedia.ru/blog/redson/mzhdz-gomoseks-gorilly-i-geopolitika",
   "archived": "https://web.archive.org/web/20251116062047/http://spidermedia.ru/blog/redson/mzhdz-gomoseks-gorilly-i-geopolitika",
   "tags": [
     "mnenie",
     "mzhdz"
+  ],
+  "cover": "https://web.archive.org/web/20160716032624im_/http://spidermedia.ru/assets/images/import_image/6466.png",
+  "modx_id": 6466,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Июль '10: Deadpool",
-  "date": "2010-07-14T00:59:00+03:00",
+  "date": "2010-07-13T23:59:42+03:00",
   "url": "/news/iyul-10-deadpool/",
   "original_url": "http://spidermedia.ru/news/iyul-10-deadpool",
   "archived": "https://web.archive.org/web/20220813162400/http://spidermedia.ru/news/iyul-10-deadpool",
@@ -8,7 +8,14 @@
     "relizy",
     "deadpool",
     "x-men",
-    "marvel"
+    "marvel",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20220813162400im_/http://spidermedia.ru/assets/images/import_image/2723.jpg",
+  "modx_id": 2723,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

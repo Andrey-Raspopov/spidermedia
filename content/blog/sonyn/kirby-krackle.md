@@ -1,13 +1,22 @@
 {
   "title": "Kirby Krackle",
-  "date": "2009-10-02T18:28:00+03:00",
+  "date": "2009-10-02T17:28:36+03:00",
   "url": "/blog/sonyn/kirby-krackle/",
+  "aliases": [
+    "/node/1956/"
+  ],
   "original_url": "https://spidermedia.ru/blog/sonyn/kirby-krackle",
   "archived": "https://web.archive.org/web/20260125054229/https://spidermedia.ru/blog/sonyn/kirby-krackle",
   "tags": [
     "muzyka",
     "kirby-krackle",
     "green-lantern"
+  ],
+  "cover": "https://web.archive.org/web/20260125054229im_/http://spidermedia.ru/assets/images/import_image/1956.jpg",
+  "modx_id": 1956,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -8,6 +8,12 @@
     "image-comics",
     "warren-ellis"
   ],
+  "cover": "https://web.archive.org/web/20251111082141im_/http://spidermedia.ru/assets/images/reviews/image/cemetery-beach/1/mzk.jpg",
+  "modx_id": 102014,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

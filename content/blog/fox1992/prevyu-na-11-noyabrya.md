@@ -1,7 +1,10 @@
 {
   "title": "Превью на 11 ноября",
-  "date": "2009-11-07T00:14:00+03:00",
+  "date": "2009-11-07T00:14:31+03:00",
   "url": "/blog/fox1992/prevyu-na-11-noyabrya/",
+  "aliases": [
+    "/node/2066/"
+  ],
   "original_url": "http://spidermedia.ru/blog/fox1992/prevyu-na-11-noyabrya",
   "archived": "https://web.archive.org/web/20260208211450/http://spidermedia.ru/blog/fox1992/prevyu-na-11-noyabrya",
   "tags": [
@@ -10,7 +13,16 @@
     "x-babies",
     "preview",
     "marvel",
-    "cable"
+    "cable",
+    "lyudi-iks",
+    "uncanny-x-men",
+    "previews"
+  ],
+  "cover": "https://web.archive.org/web/20150315210246im_/http://spidermedia.ru/assets/images/ecahznqzhc4.jpg",
+  "modx_id": 2066,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

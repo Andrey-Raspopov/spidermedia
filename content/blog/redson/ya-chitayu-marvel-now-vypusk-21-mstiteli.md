@@ -1,6 +1,6 @@
 {
   "title": "Я читаю Marvel NOW! Выпуск 2.1: Мстители",
-  "date": "2013-04-29T12:03:00+03:00",
+  "date": "2013-04-29T11:03:03+03:00",
   "url": "/blog/redson/ya-chitayu-marvel-now-vypusk-21-mstiteli/",
   "original_url": "http://spidermedia.ru/blog/redson/ya-chitayu-marvel-now-vypusk-21-mstiteli",
   "archived": "https://web.archive.org/web/20260309184050/http://spidermedia.ru/blog/redson/ya-chitayu-marvel-now-vypusk-21-mstiteli",
@@ -10,6 +10,12 @@
     "dzhonatan-hikman",
     "jonathan-hickman",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20260309184050im_/http://spidermedia.ru/assets/images/import_image/7231.jpg",
+  "modx_id": 7231,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

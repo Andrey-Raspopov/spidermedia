@@ -1,7 +1,10 @@
 {
   "title": "Второе Пришествие",
-  "date": "2009-10-13T17:20:00+03:00",
+  "date": "2009-10-13T16:20:30+03:00",
   "url": "/news/vtoroe-prishestvie/",
+  "aliases": [
+    "/node/1992/"
+  ],
   "original_url": "http://spidermedia.ru/news/vtoroe-prishestvie",
   "archived": "https://web.archive.org/web/20260211192416/http://spidermedia.ru/news/vtoroe-prishestvie",
   "tags": [
@@ -9,6 +12,12 @@
     "marvel",
     "x-men",
     "new-mutants"
+  ],
+  "cover": "https://web.archive.org/web/20260211192416im_/http://spidermedia.ru/assets/images/x-men-logo.jpg",
+  "modx_id": 1992,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

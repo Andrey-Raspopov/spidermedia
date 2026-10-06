@@ -1,11 +1,18 @@
 {
   "title": "You There, With The Eyes!",
-  "date": "2010-10-17T19:43:00+03:00",
+  "date": "2010-10-17T18:43:44+03:00",
   "url": "/blog/plane-v/you-there-eyes/",
   "original_url": "http://spidermedia.ru/blog/plane-v/you-there-eyes",
   "archived": "https://web.archive.org/web/20191228033105/http://spidermedia.ru:80/blog/plane-v/you-there-eyes",
   "tags": [
-    "art-0"
+    "art-0",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20191228033105im_/http://spidermedia.ru/assets/images/import_image/3015.jpg",
+  "modx_id": 3015,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

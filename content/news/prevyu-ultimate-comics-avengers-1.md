@@ -1,7 +1,10 @@
 {
   "title": "Превью Ultimate Comics Avengers #1",
-  "date": "2009-08-07T00:05:00+03:00",
+  "date": "2009-08-06T23:05:10+03:00",
   "url": "/news/prevyu-ultimate-comics-avengers-1/",
+  "aliases": [
+    "/node/1731/"
+  ],
   "original_url": "http://spidermedia.ru/news/prevyu-ultimate-comics-avengers-1",
   "archived": "https://web.archive.org/web/20120608203631/http://spidermedia.ru/news/prevyu-ultimate-comics-avengers-1",
   "tags": [
@@ -11,7 +14,14 @@
     "marvel",
     "mark-millar",
     "mstiteli",
-    "preview-s"
+    "preview-s",
+    "avengers",
+    "prevyu"
+  ],
+  "modx_id": 1731,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

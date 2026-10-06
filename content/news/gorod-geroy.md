@@ -1,6 +1,6 @@
 {
   "title": "Город-герой",
-  "date": "2013-03-08T11:37:00+03:00",
+  "date": "2013-03-08T10:37:11+03:00",
   "url": "/news/gorod-geroy/",
   "original_url": "http://spidermedia.ru/news/gorod-geroy",
   "archived": "https://web.archive.org/web/20150501155924/http://spidermedia.ru/news/gorod-geroy",
@@ -9,7 +9,14 @@
     "brent-anderson",
     "aleks-ross",
     "dc-comics",
-    "astro-city"
+    "astro-city",
+    "alex-ross"
+  ],
+  "cover": "https://web.archive.org/web/20150501155924im_/http://spidermedia.ru/assets/images/import_image/7160.jpg",
+  "modx_id": 7160,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

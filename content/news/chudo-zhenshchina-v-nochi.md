@@ -15,6 +15,9 @@
     "temneyshaya-noch",
     "chudo-zhenshchina"
   ],
+  "sources": [
+    "archive"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

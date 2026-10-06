@@ -1,6 +1,6 @@
 {
   "title": "После футбола",
-  "date": "2009-05-29T11:38:00+03:00",
+  "date": "2009-05-29T10:38:59+03:00",
   "url": "/news/posle-futbola/",
   "original_url": "http://spidermedia.ru/news/posle-futbola",
   "archived": "https://web.archive.org/web/20120607114044/http://spidermedia.ru/news/posle-futbola",
@@ -11,7 +11,14 @@
     "denni-makbrayd",
     "kino",
     "komiksy",
-    "ait-planet-lar"
+    "ait-planet-lar",
+    "denni-makbrajd"
+  ],
+  "cover": "https://web.archive.org/web/20120607114044im_/http://spidermedia.ru/assets/images/import_image/1298.jpg",
+  "modx_id": 1298,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

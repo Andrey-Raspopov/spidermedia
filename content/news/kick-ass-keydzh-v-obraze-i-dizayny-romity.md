@@ -1,7 +1,10 @@
 {
   "title": "Kick-Ass: Кейдж в образе и дизайны Ромиты",
-  "date": "2009-12-15T03:02:00+03:00",
+  "date": "2009-12-15T02:02:41+03:00",
   "url": "/news/kick-ass-keydzh-v-obraze-i-dizayny-romity/",
+  "aliases": [
+    "/node/2172/"
+  ],
   "original_url": "http://spidermedia.ru/news/kick-ass-keydzh-v-obraze-i-dizayny-romity",
   "archived": "https://web.archive.org/web/20120608140434/http://spidermedia.ru/news/kick-ass-keydzh-v-obraze-i-dizayny-romity",
   "tags": [
@@ -11,6 +14,12 @@
     "mettyu-von",
     "postery"
   ],
+  "cover": "https://web.archive.org/web/20120608140434im_/http://spidermedia.ru/assets/images/import_image/2172.jpg",
+  "modx_id": 2172,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }
@@ -19,9 +28,9 @@
 
 На сей раз перед нами наконец-то предстал во всей красе Николас Кейдж, исполняющий роль сложного драматичного персонажа **Большого Папочки** *(Big Daddy)*.
 
-Николас не смог перевоплотиться в [одного героя DC](../../node/2117/), но ему, судя по всему, удалось отыграться на другом.
+Николас не смог перевоплотиться в [одного героя DC](../../blog/plane-v/rawr/), но ему, судя по всему, удалось отыграться на другом.
 
-А еще любителям приобретать хорошие и прочие вещи в твердом переплете мы напоминаем, что издательство **Titan Books** [планирует выпуск официальной книги](../../node/1381/), раскрывающей процесс создания будущего шедевра. Уже можно полюбоваться на некоторые дизайны персонажей, выполненные художником комикса **Джоном Ромитой-младшим** *(John Romita, Jr.)*:
+А еще любителям приобретать хорошие и прочие вещи в твердом переплете мы напоминаем, что издательство **Titan Books** [планирует выпуск официальной книги](../kick-ass-kniga-o-filme/), раскрывающей процесс создания будущего шедевра. Уже можно полюбоваться на некоторые дизайны персонажей, выполненные художником комикса **Джоном Ромитой-младшим** *(John Romita, Jr.)*:
 
 ]]>[![](https://web.archive.org/web/20120608140434im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/th_121409_kickass9899.jpg)](http://img.photobucket.com/albums/v497/spidermedia/redson_News/121409_kickass9899.jpg)]]> ]]>[![](https://web.archive.org/web/20120608140434im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/th_121409_kickass114115.jpg)](http://img.photobucket.com/albums/v497/spidermedia/redson_News/121409_kickass114115.jpg)]]> ]]>[![](https://web.archive.org/web/20120608140434im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/th_121409_kickass102103.jpg)](http://img.photobucket.com/albums/v497/spidermedia/redson_News/121409_kickass102103.jpg)]]>
 

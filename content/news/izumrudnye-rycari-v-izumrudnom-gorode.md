@@ -1,6 +1,6 @@
 {
   "title": "Изумрудные Рыцари в Изумрудном Городе",
-  "date": "2010-03-14T20:43:00+03:00",
+  "date": "2010-03-14T20:43:11+03:00",
   "url": "/news/izumrudnye-rycari-v-izumrudnom-gorode/",
   "original_url": "http://spidermedia.ru/news/izumrudnye-rycari-v-izumrudnom-gorode",
   "archived": "https://web.archive.org/web/20250519175011/http://spidermedia.ru/news/izumrudnye-rycari-v-izumrudnom-gorode",
@@ -9,6 +9,12 @@
     "geoff-johns",
     "peter-j.-tomasi",
     "green-lantern"
+  ],
+  "cover": "https://web.archive.org/web/20250519175011im_/http://spidermedia.ru/assets/images/import_image/2440.png",
+  "modx_id": 2440,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

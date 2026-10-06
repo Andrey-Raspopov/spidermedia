@@ -4,6 +4,12 @@
   "url": "/games/pervoe-vpechatlenie-master-of-orion/",
   "original_url": "http://spidermedia.ru/games/pervoe-vpechatlenie-master-of-orion",
   "archived": "https://web.archive.org/web/20210128013502/http://spidermedia.ru/games/pervoe-vpechatlenie-master-of-orion",
+  "cover": "https://web.archive.org/web/20160501070722im_/http://spidermedia.ru/assets/images/games/master-of-orion/screenshot-11.png",
+  "modx_id": 100963,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

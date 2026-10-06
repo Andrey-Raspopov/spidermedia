@@ -9,6 +9,12 @@
     "istari-komiks",
     "russian-comics"
   ],
+  "cover": "https://web.archive.org/web/20171014031157im_/http://spidermedia.ru/assets/images/news/bubble/yakutia/222.jpg",
+  "modx_id": 101231,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

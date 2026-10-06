@@ -1,7 +1,10 @@
 {
   "title": "USS Enterprise: Slusho! Edition",
-  "date": "2009-04-14T16:51:00+03:00",
+  "date": "2009-04-14T15:51:23+03:00",
   "url": "/blog/sterpazook/uss-enterprise-slusho-edition/",
+  "aliases": [
+    "/node/936/"
+  ],
   "original_url": "http://spidermedia.ru/blog/sterpazook/uss-enterprise-slusho-edition",
   "archived": "https://web.archive.org/web/20250804000149/http://spidermedia.ru/blog/sterpazook/uss-enterprise-slusho-edition",
   "tags": [
@@ -10,6 +13,12 @@
     "dzhej-dzhej-abrams",
     "j.-j.-abrams",
     "zvezdnyj-put"
+  ],
+  "cover": "https://web.archive.org/web/20160512105800im_/http://spidermedia.ru/assets/images/import_image/936.jpg",
+  "modx_id": 936,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -4,6 +4,9 @@
   "url": "/faq/dc/",
   "original_url": "http://www.spidermedia.ru/faq/dc",
   "archived": "https://web.archive.org/web/20110128040054/http://www.spidermedia.ru:80/faq/dc",
+  "sources": [
+    "archive"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

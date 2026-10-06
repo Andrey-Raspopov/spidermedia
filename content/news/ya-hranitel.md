@@ -1,7 +1,10 @@
 {
   "title": "Я, Хранитель",
-  "date": "2010-03-20T16:58:00+03:00",
+  "date": "2010-03-20T16:58:40+03:00",
   "url": "/news/ya-hranitel/",
+  "aliases": [
+    "/node/2446/"
+  ],
   "original_url": "http://spidermedia.ru/news/ya-hranitel",
   "archived": "https://web.archive.org/web/20250620080306/http://spidermedia.ru/news/ya-hranitel",
   "tags": [
@@ -12,6 +15,12 @@
     "hraniteli-planety",
     "benito-sereno",
     "rensom-getti"
+  ],
+  "cover": "https://web.archive.org/web/20250620080306im_/http://spidermedia.ru/assets/images/import_image/2446.jpg",
+  "modx_id": 2446,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

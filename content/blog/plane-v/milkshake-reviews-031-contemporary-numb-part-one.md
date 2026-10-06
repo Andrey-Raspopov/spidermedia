@@ -1,13 +1,22 @@
 {
   "title": "Milkshake Reviews - 03.1 - Contemporary Numb, part one",
-  "date": "2010-06-10T11:26:00+03:00",
+  "date": "2010-06-10T10:26:27+03:00",
   "url": "/blog/plane-v/milkshake-reviews-031-contemporary-numb-part-one/",
+  "aliases": [
+    "/node/2666/"
+  ],
   "original_url": "http://spidermedia.ru/blog/plane-v/milkshake-reviews-031-contemporary-numb-part-one",
   "archived": "https://web.archive.org/web/20120608195713/http://spidermedia.ru/blog/plane-v/milkshake-reviews-031-contemporary-numb-part-one",
   "tags": [
     "milkshake-reviews",
     "komiksy",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20120608195713im_/http://spidermedia.ru/assets/images/import_image/2666.jpg",
+  "modx_id": 2666,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

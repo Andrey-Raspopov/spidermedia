@@ -7,6 +7,12 @@
   "tags": [
     "gamermedia"
   ],
+  "cover": "https://web.archive.org/web/20180201011257im_/http://spidermedia.ru/assets/images/games/gamermedia-rebirth/curtain.jpg",
+  "modx_id": 101189,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

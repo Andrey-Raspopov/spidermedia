@@ -7,6 +7,12 @@
   "tags": [
     "manga"
   ],
+  "cover": "https://web.archive.org/web/20251115185858im_/http://spidermedia.ru/assets/images/manga/new/mn_02_01.jpg",
+  "modx_id": 100390,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

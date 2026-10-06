@@ -1,6 +1,6 @@
 {
   "title": "ЧЕЛОВЕК ИЗ СТАЛИ: первое фото Лоис Лейн",
-  "date": "2013-01-30T08:39:00+03:00",
+  "date": "2013-01-30T07:39:25+03:00",
   "url": "/news/chelovek-iz-stali-pervoe-foto-lois-leyn/",
   "original_url": "https://spidermedia.ru/news/chelovek-iz-stali-pervoe-foto-lois-leyn",
   "archived": "https://web.archive.org/web/20260125113706/https://spidermedia.ru/news/chelovek-iz-stali-pervoe-foto-lois-leyn",
@@ -9,6 +9,12 @@
     "superman",
     "man-of-steel",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20260125113706im_/http://spidermedia.ru/assets/images/import_image/7126.jpg",
+  "modx_id": 7126,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

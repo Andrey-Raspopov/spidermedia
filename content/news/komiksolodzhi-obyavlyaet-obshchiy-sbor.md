@@ -1,6 +1,6 @@
 {
   "title": "Комиксолоджи объявляет общий сбор",
-  "date": "2012-10-12T21:57:00+03:00",
+  "date": "2012-10-12T20:57:29+03:00",
   "url": "/news/komiksolodzhi-obyavlyaet-obshchiy-sbor/",
   "original_url": "http://spidermedia.ru/news/komiksolodzhi-obyavlyaet-obshchiy-sbor",
   "archived": "https://web.archive.org/web/20260211175458/http://spidermedia.ru/news/komiksolodzhi-obyavlyaet-obshchiy-sbor",
@@ -9,6 +9,12 @@
     "komik-kon-v-nyu-yorke",
     "new-york-comic-con",
     "comixology"
+  ],
+  "cover": "https://web.archive.org/web/20150428170613im_/http://spidermedia.ru/assets/images/import_image/7059.jpg",
+  "modx_id": 7059,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

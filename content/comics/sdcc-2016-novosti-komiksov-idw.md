@@ -8,6 +8,12 @@
     "idw-publishing",
     "san-diego-comic-con-international"
   ],
+  "cover": "https://web.archive.org/web/20180205120845im_/http://spidermedia.ru/assets/images/import_image/101292.jpg",
+  "modx_id": 101292,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

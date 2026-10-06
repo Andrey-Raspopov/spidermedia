@@ -1,12 +1,19 @@
 {
   "title": "Flash стал самой рейтинговой новинкой The CW за 6 лет",
-  "date": "2014-10-08T20:29:00+03:00",
+  "date": "2014-10-08T19:29:01+03:00",
   "url": "/news/flash-stal-samoy-reytingovoy-novinkoy-cw-za-6-let/",
   "original_url": "https://spidermedia.ru/news/flash-stal-samoy-reytingovoy-novinkoy-cw-za-6-let",
   "archived": "https://web.archive.org/web/20250324063155/https://spidermedia.ru/news/flash-stal-samoy-reytingovoy-novinkoy-cw-za-6-let",
   "tags": [
     "the-flash",
-    "serialy"
+    "serialy",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20150502164951im_/http://spidermedia.ru/assets/images/import_image/8149.jpg",
+  "modx_id": 8149,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

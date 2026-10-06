@@ -1,7 +1,10 @@
 {
   "title": "Фольклорные дудочники",
-  "date": "2009-06-11T20:41:00+03:00",
+  "date": "2009-06-11T19:41:25+03:00",
   "url": "/news/folklornye-dudochniki/",
+  "aliases": [
+    "/node/1403/"
+  ],
   "original_url": "http://spidermedia.ru/news/folklornye-dudochniki",
   "archived": "https://web.archive.org/web/20260307055834/http://spidermedia.ru/news/folklornye-dudochniki",
   "tags": [
@@ -10,6 +13,12 @@
     "knigi",
     "bill-uillingem",
     "stiv-lejaloa"
+  ],
+  "cover": "https://web.archive.org/web/20260307055834im_/http://spidermedia.ru/assets/images/import_image/1403.jpg",
+  "modx_id": 1403,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

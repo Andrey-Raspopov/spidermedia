@@ -1,12 +1,18 @@
 {
   "title": "Официально: Брэдли Купер озвучит Реактивного Енота",
-  "date": "2013-08-31T21:43:00+03:00",
+  "date": "2013-08-31T20:43:12+03:00",
   "url": "/news/oficialno-bredli-kuper-ozvuchit-reaktivnogo-enota/",
   "original_url": "https://spidermedia.ru/news/oficialno-bredli-kuper-ozvuchit-reaktivnogo-enota",
   "archived": "https://web.archive.org/web/20251013185603/https://spidermedia.ru/news/oficialno-bredli-kuper-ozvuchit-reaktivnogo-enota",
   "tags": [
     "guardians-of-the-galaxy",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20251013185603im_/http://spidermedia.ru/assets/images/import_image/7447.jpg",
+  "modx_id": 7447,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

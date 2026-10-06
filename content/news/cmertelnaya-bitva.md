@@ -1,7 +1,10 @@
 {
   "title": "Cмертельная битва!",
-  "date": "2009-04-17T22:51:00+03:00",
+  "date": "2009-04-17T21:51:02+03:00",
   "url": "/news/cmertelnaya-bitva/",
+  "aliases": [
+    "/node/978/"
+  ],
   "original_url": "http://spidermedia.ru/news/cmertelnaya-bitva",
   "archived": "https://web.archive.org/web/20251211024155/http://spidermedia.ru/news/cmertelnaya-bitva",
   "tags": [
@@ -10,7 +13,13 @@
     "thunderbolts",
     "preview",
     "deadpool",
-    "magnum-opus"
+    "magnum-opus",
+    "prevyu"
+  ],
+  "modx_id": 978,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

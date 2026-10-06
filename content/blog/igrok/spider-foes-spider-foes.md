@@ -1,7 +1,10 @@
 {
   "title": "Spider Foes, Spider Foes",
-  "date": "2010-09-09T15:15:00+03:00",
+  "date": "2010-09-09T14:15:12+03:00",
   "url": "/blog/igrok/spider-foes-spider-foes/",
+  "aliases": [
+    "/node/2900/"
+  ],
   "original_url": "http://spidermedia.ru/blog/igrok/spider-foes-spider-foes",
   "archived": "https://web.archive.org/web/20120607150137/http://spidermedia.ru/blog/igrok/spider-foes-spider-foes",
   "tags": [
@@ -9,7 +12,14 @@
     "spider-man",
     "zloveshchie-ublyudki",
     "mysli",
-    "chelovek-pauk"
+    "chelovek-pauk",
+    "zloveshhie-ublyudki"
+  ],
+  "cover": "https://web.archive.org/web/20120607150137im_/http://spidermedia.ru/assets/images/import_image/2900.jpg",
+  "modx_id": 2900,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

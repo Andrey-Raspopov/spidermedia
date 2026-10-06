@@ -8,6 +8,12 @@
     "bubble",
     "russian-comics"
   ],
+  "cover": "https://web.archive.org/web/20210826103013im_/http://spidermedia.ru/assets/images/bubblegum/7/na-oblozhku.jpeg",
+  "modx_id": 101640,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

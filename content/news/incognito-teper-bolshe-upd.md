@@ -1,7 +1,10 @@
 {
   "title": "INCOGNITO. Теперь больше. UPD",
-  "date": "2009-02-27T23:24:00+03:00",
+  "date": "2009-02-27T23:24:03+03:00",
   "url": "/news/incognito-teper-bolshe-upd/",
+  "aliases": [
+    "/node/513/"
+  ],
   "original_url": "http://spidermedia.ru/news/incognito-teper-bolshe-upd",
   "archived": "https://web.archive.org/web/20160504031738/http://spidermedia.ru/news/incognito-teper-bolshe-upd",
   "tags": [
@@ -11,7 +14,15 @@
     "ed-brubejker",
     "incognito",
     "shon-fillips",
-    "inkognito"
+    "inkognito",
+    "art",
+    "ed-brubaker"
+  ],
+  "cover": "https://web.archive.org/web/20160504031738im_/http://spidermedia.ru/assets/images/import_image/513.jpg",
+  "modx_id": 513,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

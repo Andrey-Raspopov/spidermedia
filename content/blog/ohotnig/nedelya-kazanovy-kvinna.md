@@ -1,12 +1,19 @@
 {
   "title": "Неделя Казановы Квинна",
-  "date": "2011-11-18T10:59:00+03:00",
+  "date": "2011-11-18T09:59:46+03:00",
   "url": "/blog/ohotnig/nedelya-kazanovy-kvinna/",
   "original_url": "https://spidermedia.ru/blog/ohotnig/nedelya-kazanovy-kvinna",
   "archived": "https://web.archive.org/web/20260215085706/https://spidermedia.ru/blog/ohotnig/nedelya-kazanovy-kvinna",
   "tags": [
     "fanart",
-    "matt-fraction"
+    "matt-fraction",
+    "mett-frakshen"
+  ],
+  "cover": "https://web.archive.org/web/20260215085706im_/http://spidermedia.ru/assets/images/import_image/6702.jpg",
+  "modx_id": 6702,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

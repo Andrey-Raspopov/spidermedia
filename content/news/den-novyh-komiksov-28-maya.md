@@ -1,11 +1,17 @@
 {
   "title": "День новых комиксов: 28 мая",
-  "date": "2014-05-28T13:42:00+03:00",
+  "date": "2014-05-28T12:42:03+03:00",
   "url": "/news/den-novyh-komiksov-28-maya/",
   "original_url": "http://spidermedia.ru/news/den-novyh-komiksov-28-maya",
   "archived": "https://web.archive.org/web/20200127103911/http://spidermedia.ru:80/news/den-novyh-komiksov-28-maya",
   "tags": [
     "den-novyh-komiksov"
+  ],
+  "cover": "https://web.archive.org/web/20150425032552im_/http://spidermedia.ru/assets/images/import_image/7759.jpg",
+  "modx_id": 7759,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

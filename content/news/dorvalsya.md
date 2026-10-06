@@ -1,12 +1,18 @@
 {
   "title": "Дорвался",
-  "date": "2012-09-28T12:19:00+03:00",
+  "date": "2012-09-28T11:19:54+03:00",
   "url": "/news/dorvalsya/",
   "original_url": "http://spidermedia.ru/news/dorvalsya",
   "archived": "https://web.archive.org/web/20121118103024/http://spidermedia.ru/news/dorvalsya",
   "tags": [
     "kino",
     "mark-millar"
+  ],
+  "cover": "https://web.archive.org/web/20121118103024im_/http://spidermedia.ru/assets/images/import_image/7039.jpg",
+  "modx_id": 7039,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "WTF happened with the Caped Crusader?",
-  "date": "2009-02-11T21:28:00+03:00",
+  "date": "2009-02-11T21:28:45+03:00",
   "url": "/news/wtf-happened-caped-crusader/",
   "original_url": "http://spidermedia.ru/news/wtf-happened-caped-crusader",
   "archived": "https://web.archive.org/web/20251107002101/http://spidermedia.ru/news/wtf-happened-caped-crusader",
@@ -10,6 +10,12 @@
     "neil-gaiman",
     "endi-kubert",
     "detective-comics"
+  ],
+  "cover": "https://web.archive.org/web/20251107002101im_/http://spidermedia.ru/assets/images/import_image/317.jpg",
+  "modx_id": 317,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -9,6 +9,12 @@
     "dzheff-lemir",
     "san-diego-comic-con-international"
   ],
+  "cover": "https://web.archive.org/web/20251207101104im_/http://spidermedia.ru/assets/images/comic-con/2016/sdcc-2016/gallery13.jpg",
+  "modx_id": 101294,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -8,6 +8,12 @@
     "marvel",
     "secret-wars"
   ],
+  "cover": "https://web.archive.org/web/20160322033816im_/http://spidermedia.ru/assets/images/news/marvel/secret-wars/secret-wars.jpg",
+  "modx_id": 100081,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

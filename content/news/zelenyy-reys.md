@@ -1,7 +1,10 @@
 {
   "title": "Зеленый Рейс",
-  "date": "2009-02-21T13:29:00+03:00",
+  "date": "2009-02-21T13:29:46+03:00",
   "url": "/news/zelenyy-reys/",
+  "aliases": [
+    "/node/473/"
+  ],
   "original_url": "https://spidermedia.ru/news/zelenyy-reys",
   "archived": "https://web.archive.org/web/20260206215626/https://spidermedia.ru/news/zelenyy-reys",
   "tags": [
@@ -9,6 +12,12 @@
     "green-lantern",
     "dc-comics",
     "blackest-night"
+  ],
+  "cover": "https://web.archive.org/web/20260206215626im_/http://spidermedia.ru/assets/images/import_image/473.jpg",
+  "modx_id": 473,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

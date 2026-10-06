@@ -1,7 +1,10 @@
 {
   "title": "Batman Beyond - в полку онгоингов прибыло",
-  "date": "2010-10-07T11:42:00+03:00",
+  "date": "2010-10-07T10:42:46+03:00",
   "url": "/news/batman-beyond-v-polku-ongoingov-pribylo/",
+  "aliases": [
+    "/node/2977/"
+  ],
   "original_url": "http://spidermedia.ru/news/batman-beyond-v-polku-ongoingov-pribylo",
   "archived": "https://web.archive.org/web/20120607112920/http://spidermedia.ru/news/batman-beyond-v-polku-ongoingov-pribylo",
   "tags": [
@@ -11,7 +14,14 @@
     "ryan-benjamin",
     "betmen",
     "komiksy",
-    "adam-beechen"
+    "adam-beechen",
+    "batman"
+  ],
+  "cover": "https://web.archive.org/web/20120607112920im_/http://spidermedia.ru/assets/images/import_image/2977.jpg",
+  "modx_id": 2977,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

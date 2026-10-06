@@ -7,6 +7,12 @@
   "tags": [
     "imho"
   ],
+  "cover": "https://web.archive.org/web/20251211032357im_/http://spidermedia.ru/assets/images/imho/maksimushkin/image02.jpg",
+  "modx_id": 101022,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

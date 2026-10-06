@@ -4,6 +4,12 @@
   "url": "/comics/mnenie-moskovskaya-konvenciya-komiksov/",
   "original_url": "http://spidermedia.ru/comics/mnenie-moskovskaya-konvenciya-komiksov",
   "archived": "https://web.archive.org/web/20170401225352/http://spidermedia.ru/comics/mnenie-moskovskaya-konvenciya-komiksov",
+  "cover": "https://web.archive.org/web/20170401225352im_/http://spidermedia.ru/assets/images/mcc/conv.jpg",
+  "modx_id": 101254,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

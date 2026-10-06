@@ -1,6 +1,6 @@
 {
   "title": "Позитивный фото-репортаж со съемок \"Мстителей\"",
-  "date": "2011-09-05T13:58:00+03:00",
+  "date": "2011-09-05T12:58:10+03:00",
   "url": "/news/pozitivnyy-foto-reportazh-so-semok-mstiteley/",
   "original_url": "https://spidermedia.ru/news/pozitivnyy-foto-reportazh-so-semok-mstiteley",
   "archived": "https://web.archive.org/web/20251211033948/https://spidermedia.ru/news/pozitivnyy-foto-reportazh-so-semok-mstiteley",
@@ -11,7 +11,14 @@
     "thor",
     "hawkeye",
     "captain-america",
-    "avengers"
+    "avengers",
+    "tor"
+  ],
+  "cover": "https://web.archive.org/web/20251211033948im_/http://spidermedia.ru/assets/images/import_image/6593.jpg",
+  "modx_id": 6593,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

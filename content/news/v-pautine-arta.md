@@ -1,6 +1,6 @@
 {
   "title": "В паутине арта",
-  "date": "2009-06-17T23:14:00+03:00",
+  "date": "2009-06-17T22:14:36+03:00",
   "url": "/news/v-pautine-arta/",
   "original_url": "http://spidermedia.ru/news/v-pautine-arta",
   "archived": "https://web.archive.org/web/20120608032951/http://spidermedia.ru/news/v-pautine-arta",
@@ -10,13 +10,19 @@
     "art-0",
     "komiksy",
     "pautina",
-    "rodzher-robinson"
+    "rodzher-robinson",
+    "art"
+  ],
+  "modx_id": 1437,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }
 
-Художник будущей онгоинг-серии [The Web](../../node/1414/), **Роджер Робинсон** *(Roger Robinson)*, совсем немного рассказал о своем участии и представил некоторые работы на тему проекта:
+Художник будущей онгоинг-серии [The Web](../detishcha-strazhinskogo-solo/), **Роджер Робинсон** *(Roger Robinson)*, совсем немного рассказал о своем участии и представил некоторые работы на тему проекта:
 
 ]]>[![](https://web.archive.org/web/20120608032951im_/http://i.livescience.com/images/v-Robinson-TheWEB01pg02.jpg)](http://i.livescience.com/images/Robinson-TheWEB01pg02.jpg)]]> ]]>[![](https://web.archive.org/web/20120608032951im_/http://i.livescience.com/images/v-TheWeb01_pg14.jpg)](http://i.livescience.com/images/TheWeb01_pg14.jpg)]]> ]]>[![](https://web.archive.org/web/20120608032951im_/http://i.livescience.com/images/v-TheWEB_pg9_200.jpg)](http://i.livescience.com/images/TheWEB_pg9_200.jpg)]]> ]]>[![](https://web.archive.org/web/20120608032951im_/http://i.livescience.com/images/v-RRobinson_TheWeb_CharacterStudy.jpg)](http://i.livescience.com/images/RRobinson_TheWeb_CharacterStudy.jpg)]]>
 

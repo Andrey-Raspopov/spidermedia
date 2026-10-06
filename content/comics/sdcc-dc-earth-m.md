@@ -6,7 +6,14 @@
   "archived": "https://web.archive.org/web/20250806093243/https://spidermedia.ru/comics/sdcc-dc-earth-m",
   "tags": [
     "dc-comics",
-    "san-diego-comic-con-international"
+    "san-diego-comic-con-international",
+    "sdcc2015"
+  ],
+  "cover": "https://web.archive.org/web/20250806093243im_/http://spidermedia.ru/assets/images/news/sdcc/2015/dc/static-22728.jpg",
+  "modx_id": 100378,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -8,6 +8,12 @@
     "dc-comics",
     "justice-league"
   ],
+  "cover": "https://web.archive.org/web/20251208064840im_/http://spidermedia.ru/assets/images/movies/dc/justice-league/dafoe.jpg",
+  "modx_id": 101099,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

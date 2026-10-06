@@ -12,7 +12,14 @@
     "zvezdnye-vojny",
     "captain-marvel",
     "spider-man",
-    "civil-war"
+    "civil-war",
+    "zheleznyy-chelovek"
+  ],
+  "cover": "https://web.archive.org/web/20260209121208im_/http://spidermedia.ru/assets/images/comic-con/2016/c2e2-2016/image08(1).jpg",
+  "modx_id": 101017,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

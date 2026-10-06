@@ -8,6 +8,12 @@
     "marvel",
     "guardians-of-the-galaxy"
   ],
+  "cover": "https://web.archive.org/web/20160611152403im_/http://spidermedia.ru/assets/images/animation/marvel/guardians-of-the-galaxy/gotg-animated-poster-2.jpg",
+  "modx_id": 100414,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

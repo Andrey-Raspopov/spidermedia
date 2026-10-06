@@ -1,12 +1,18 @@
 {
   "title": "МЖДЗ: НОВЫЙ ЧЕЛОВЕК-ПАУК",
-  "date": "2011-09-15T13:48:00+03:00",
+  "date": "2011-09-15T12:48:41+03:00",
   "url": "/blog/redson/mzhdz-novyy-chelovek-pauk/",
   "original_url": "https://spidermedia.ru/blog/redson/mzhdz-novyy-chelovek-pauk",
   "archived": "https://web.archive.org/web/20251209132433/https://spidermedia.ru/blog/redson/mzhdz-novyy-chelovek-pauk",
   "tags": [
     "mnenie",
     "mzhdz"
+  ],
+  "cover": "https://web.archive.org/web/20251209132433im_/http://spidermedia.ru/assets/images/import_image/6606.png",
+  "modx_id": 6606,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

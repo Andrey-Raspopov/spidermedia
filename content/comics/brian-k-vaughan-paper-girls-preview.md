@@ -8,6 +8,12 @@
     "image-comics",
     "brian-k-vaughan"
   ],
+  "cover": "https://web.archive.org/web/20160611210826im_/http://spidermedia.ru/assets/images/news/image/paper-girls/paper-girls-preview-1.jpg",
+  "modx_id": 100329,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

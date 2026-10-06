@@ -1,13 +1,22 @@
 {
   "title": "Коммиссия - День первый",
-  "date": "2009-05-03T11:08:00+03:00",
+  "date": "2009-05-03T10:08:04+03:00",
   "url": "/blog/zmeyukina/kommissiya-den-pervyy/",
+  "aliases": [
+    "/node/1079/"
+  ],
   "original_url": "https://spidermedia.ru/blog/zmeyukina/kommissiya-den-pervyy",
   "archived": "https://web.archive.org/web/20250425232109/https://spidermedia.ru/blog/zmeyukina/kommissiya-den-pervyy",
   "tags": [
     "russian-comics",
     "kommissiya",
     "vystavka"
+  ],
+  "cover": "https://web.archive.org/web/20250425232109im_/http://spidermedia.ru/assets/images/import_image/1079.gif",
+  "modx_id": 1079,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

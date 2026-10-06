@@ -1,6 +1,6 @@
 {
   "title": "Отрывок из мультфильма \"Justice League: The Flashpoint Paradox\"",
-  "date": "2013-07-06T03:39:00+03:00",
+  "date": "2013-07-06T02:39:23+03:00",
   "url": "/news/otryvok-iz-multfilma-justice-league-flashpoint-paradox/",
   "original_url": "https://spidermedia.ru/news/otryvok-iz-multfilma-justice-league-flashpoint-paradox",
   "archived": "https://web.archive.org/web/20251206145249/https://spidermedia.ru/news/otryvok-iz-multfilma-justice-league-flashpoint-paradox",
@@ -8,6 +8,12 @@
     "dc-comics",
     "the-flash",
     "animaciya"
+  ],
+  "cover": "https://web.archive.org/web/20251206145249im_/http://spidermedia.ru/assets/images/import_image/7318.jpg",
+  "modx_id": 7318,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

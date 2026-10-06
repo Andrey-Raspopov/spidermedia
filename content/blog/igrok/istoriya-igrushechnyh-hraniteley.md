@@ -1,6 +1,6 @@
 {
   "title": "История игрушечных Хранителей",
-  "date": "2009-02-03T02:50:00+03:00",
+  "date": "2009-02-03T02:50:05+03:00",
   "url": "/blog/igrok/istoriya-igrushechnyh-hraniteley/",
   "original_url": "http://spidermedia.ru/blog/igrok/istoriya-igrushechnyh-hraniteley",
   "archived": "https://web.archive.org/web/20240422181448/http://spidermedia.ru/blog/igrok/istoriya-igrushechnyh-hraniteley",
@@ -8,6 +8,11 @@
     "hraniteli",
     "figurki",
     "alan-mur"
+  ],
+  "modx_id": 132,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

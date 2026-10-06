@@ -1,6 +1,6 @@
 {
   "title": "Превью \"Avengers: Endless Wartime \"",
-  "date": "2013-09-20T04:20:00+03:00",
+  "date": "2013-09-20T03:20:44+03:00",
   "url": "/news/prevyu-avengers-endless-wartime/",
   "original_url": "http://spidermedia.ru/news/prevyu-avengers-endless-wartime",
   "archived": "https://web.archive.org/web/20240305132935/http://spidermedia.ru/news/prevyu-avengers-endless-wartime",
@@ -10,7 +10,15 @@
     "avengers",
     "majk-makkon",
     "captain-america",
-    "iron-man"
+    "iron-man",
+    "tor",
+    "zheleznyy-chelovek"
+  ],
+  "cover": "https://web.archive.org/web/20240305132935im_/http://spidermedia.ru/assets/images/import_image/7476.jpg",
+  "modx_id": 7476,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

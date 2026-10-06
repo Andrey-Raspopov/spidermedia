@@ -1,6 +1,6 @@
 {
   "title": "Моя прелееессссть",
-  "date": "2009-01-31T22:25:00+03:00",
+  "date": "2009-01-31T22:25:15+03:00",
   "url": "/blog/redson/moya-preleeesssst/",
   "original_url": "https://spidermedia.ru/blog/redson/moya-preleeesssst",
   "archived": "https://web.archive.org/web/20250429004714/https://spidermedia.ru/blog/redson/moya-preleeesssst",
@@ -8,6 +8,11 @@
     "figurki",
     "anime",
     "lucky-star"
+  ],
+  "modx_id": 45,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

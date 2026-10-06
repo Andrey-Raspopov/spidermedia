@@ -1,7 +1,10 @@
 {
   "title": "Эра Апокалипсиса 2.0",
-  "date": "2010-12-04T00:14:00+03:00",
+  "date": "2010-12-04T00:14:39+03:00",
   "url": "/news/era-apokalipsisa-20/",
+  "aliases": [
+    "/node/3093/"
+  ],
   "original_url": "http://spidermedia.ru/news/era-apokalipsisa-20",
   "archived": "https://web.archive.org/web/20260309173212/http://spidermedia.ru/news/era-apokalipsisa-20",
   "tags": [
@@ -9,7 +12,15 @@
     "majk-keri",
     "art-0",
     "x-men",
-    "marvel"
+    "marvel",
+    "art",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20260309173212im_/http://spidermedia.ru/assets/images/import_image/3093.jpg",
+  "modx_id": 3093,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

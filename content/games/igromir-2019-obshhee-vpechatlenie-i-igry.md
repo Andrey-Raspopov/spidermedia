@@ -7,6 +7,12 @@
   "tags": [
     "gamermedia"
   ],
+  "cover": "https://web.archive.org/web/20200128212624im_/http://spidermedia.ru/assets/images/games/igromir2019-oblozhka.jpg",
+  "modx_id": 102171,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
@@ -59,7 +65,7 @@ Desperados 3 выйдет до конца 2019 года на PC, PS4 и Xbox
 
 ---
 
-Серия Darksiders переживала разные итерации. Она была слешером (первая часть), была экшеном в открытом мире и элементами метроидвании (вторая часть) и даже попробовала себя в соулс-лайк стиле ([третья часть](https://web.archive.org/web/20260215072409/http://spidermedia.ru/games/gamermedia-videovypusk-1)). И пока о четвертой части ничего не слышно, THQ Nordic издают спин-офф — Darksiders Genesis.
+Серия Darksiders переживала разные итерации. Она была слешером (первая часть), была экшеном в открытом мире и элементами метроидвании (вторая часть) и даже попробовала себя в соулс-лайк стиле ([третья часть](../gamermedia-videovypusk-1/)). И пока о четвертой части ничего не слышно, THQ Nordic издают спин-офф — Darksiders Genesis.
 
 Проект разрабатывает Airship Syndicate, ответственная за прекрасную [Battle Chasers: Nightwar](../../comics/battle-chasers-comics-v-game/). Студия основана людьми из Vigil Games, ответственными за Darksiders и Darksiders 2, так что круг замкнулся.
 

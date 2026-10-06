@@ -1,7 +1,10 @@
 {
   "title": "Logan & Logan",
-  "date": "2009-03-16T21:43:00+03:00",
+  "date": "2009-03-16T21:43:26+03:00",
   "url": "/news/logan-logan/",
+  "aliases": [
+    "/node/695/"
+  ],
   "original_url": "https://spidermedia.ru/news/logan-logan",
   "archived": "https://web.archive.org/web/20240419093240/https://spidermedia.ru/news/logan-logan",
   "tags": [
@@ -10,6 +13,11 @@
     "noirverse",
     "styuart-mur",
     "si-pi-smit"
+  ],
+  "modx_id": 695,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

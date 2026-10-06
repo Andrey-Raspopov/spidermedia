@@ -1,7 +1,10 @@
 {
   "title": "Пугало, Супербой и Зеленый Фонарь",
-  "date": "2010-01-31T14:02:00+03:00",
+  "date": "2010-01-31T14:02:24+03:00",
   "url": "/news/pugalo-superboy-i-zelenyy-fonar/",
+  "aliases": [
+    "/node/2298/"
+  ],
   "original_url": "https://spidermedia.ru/news/pugalo-superboy-i-zelenyy-fonar",
   "archived": "https://web.archive.org/web/20251018232036/https://spidermedia.ru/news/pugalo-superboy-i-zelenyy-fonar",
   "tags": [
@@ -17,7 +20,14 @@
     "green-lantern",
     "francis-manapul",
     "doug-mahnke",
-    "dc-comics"
+    "dc-comics",
+    "brajan-bolland"
+  ],
+  "cover": "https://web.archive.org/web/20251018232036im_/http://spidermedia.ru/assets/images/import_image/2298.jpg",
+  "modx_id": 2298,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

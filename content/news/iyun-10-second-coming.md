@@ -1,14 +1,24 @@
 {
   "title": "Июнь '10: Second Coming",
-  "date": "2010-05-31T21:00:00+03:00",
+  "date": "2010-05-31T20:00:07+03:00",
   "url": "/news/iyun-10-second-coming/",
+  "aliases": [
+    "/node/2643/"
+  ],
   "original_url": "http://spidermedia.ru/news/iyun-10-second-coming",
   "archived": "https://web.archive.org/web/20251106233244/http://spidermedia.ru/news/iyun-10-second-coming",
   "tags": [
     "relizy",
     "x-men",
     "second-coming",
-    "marvel"
+    "marvel",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20251106233244im_/http://spidermedia.ru/assets/images/import_image/2643.jpg",
+  "modx_id": 2643,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -4,6 +4,9 @@
   "url": "/content/menya-ne-puskayut-v-dc-hab-chto-delat/",
   "original_url": "http://spidermedia.ru/content/menya-ne-puskayut-v-dc-hab-chto-delat",
   "archived": "https://web.archive.org/web/20130619102640/http://spidermedia.ru/content/menya-ne-puskayut-v-dc-hab-chto-delat",
+  "sources": [
+    "archive"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

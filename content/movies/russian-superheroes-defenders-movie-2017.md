@@ -7,6 +7,12 @@
   "tags": [
     "zashhitniki"
   ],
+  "cover": "https://web.archive.org/web/20160611144648im_/http://spidermedia.ru/assets/images/newgallery/gallery342/defenders-cast.jpg",
+  "modx_id": 100928,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

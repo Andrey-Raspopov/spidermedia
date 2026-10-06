@@ -1,7 +1,10 @@
 {
   "title": "Cable: Война Закончена!",
-  "date": "2009-06-21T16:23:00+03:00",
+  "date": "2009-06-21T15:23:00+03:00",
   "url": "/news/cable-voyna-zakonchena/",
+  "aliases": [
+    "/node/1458/"
+  ],
   "original_url": "http://spidermedia.ru/news/cable-voyna-zakonchena",
   "archived": "https://web.archive.org/web/20260215084309/http://spidermedia.ru/news/cable-voyna-zakonchena",
   "tags": [
@@ -10,6 +13,12 @@
     "hope",
     "kejbl",
     "nadezhda"
+  ],
+  "cover": "https://web.archive.org/web/20260215084309im_/http://spidermedia.ru/assets/images/import_image/1458.jpg",
+  "modx_id": 1458,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

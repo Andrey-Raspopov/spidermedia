@@ -7,6 +7,12 @@
   "tags": [
     "manga"
   ],
+  "cover": "https://web.archive.org/web/20250715013245im_/http://spidermedia.ru/assets/images/manga/others/korokoro_001.jpg",
+  "modx_id": 100422,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

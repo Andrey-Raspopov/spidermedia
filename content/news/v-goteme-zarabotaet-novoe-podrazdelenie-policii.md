@@ -1,11 +1,17 @@
 {
   "title": "В Готэме заработает новое подразделение полиции",
-  "date": "2014-08-13T13:06:00+03:00",
+  "date": "2014-08-13T12:06:45+03:00",
   "url": "/news/v-goteme-zarabotaet-novoe-podrazdelenie-policii/",
   "original_url": "http://spidermedia.ru/news/v-goteme-zarabotaet-novoe-podrazdelenie-policii",
   "archived": "https://web.archive.org/web/20190916042911/http://spidermedia.ru/news/v-goteme-zarabotaet-novoe-podrazdelenie-policii",
   "tags": [
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150326221350im_/http://spidermedia.ru/assets/images/import_image/7987.jpg",
+  "modx_id": 7987,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

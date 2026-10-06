@@ -1,13 +1,23 @@
 {
   "title": "Октябрь - мертвый месяц",
-  "date": "2010-03-30T01:51:00+03:00",
+  "date": "2010-03-30T00:51:34+03:00",
   "url": "/news/oktyabr-mertvyy-mesyac/",
+  "aliases": [
+    "/node/2488/"
+  ],
   "original_url": "http://spidermedia.ru/news/oktyabr-mertvyy-mesyac",
   "archived": "https://web.archive.org/web/20230208162902/http://spidermedia.ru/news/oktyabr-mertvyy-mesyac",
   "tags": [
     "serialy",
     "the-walking-dead",
-    "image-comics"
+    "image-comics",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20230208162902im_/http://spidermedia.ru/assets/images/import_image/2488.jpg",
+  "modx_id": 2488,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "Кто с мечом к нам придет... + цветная обложка",
-  "date": "2009-08-15T16:34:00+03:00",
+  "date": "2009-08-15T15:34:07+03:00",
   "url": "/news/kto-s-mechom-k-nam-pridet-cvetnaya-oblozhka/",
+  "aliases": [
+    "/node/1753/"
+  ],
   "original_url": "http://spidermedia.ru/news/kto-s-mechom-k-nam-pridet-cvetnaya-oblozhka",
   "archived": "https://web.archive.org/web/20260214142548/http://spidermedia.ru/news/kto-s-mechom-k-nam-pridet-cvetnaya-oblozhka",
   "tags": [
@@ -15,7 +18,14 @@
     "abigejl-brend",
     "s.w.o.r.d",
     "marvel",
-    "lockheed"
+    "lockheed",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20260214142548im_/http://spidermedia.ru/assets/images/import_image/1753.jpg",
+  "modx_id": 1753,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

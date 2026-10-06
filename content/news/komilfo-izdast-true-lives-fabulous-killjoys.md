@@ -1,6 +1,6 @@
 {
   "title": "Комильфо издаст \"The True Lives of Fabulous Killjoys\"",
-  "date": "2014-04-28T10:40:00+03:00",
+  "date": "2014-04-28T09:40:20+03:00",
   "url": "/news/komilfo-izdast-true-lives-fabulous-killjoys/",
   "original_url": "http://spidermedia.ru/news/komilfo-izdast-true-lives-fabulous-killjoys",
   "archived": "https://web.archive.org/web/20250616102500/http://spidermedia.ru/news/komilfo-izdast-true-lives-fabulous-killjoys",
@@ -10,6 +10,12 @@
     "bekki-klunan",
     "dark-horse",
     "komilfo"
+  ],
+  "cover": "https://web.archive.org/web/20150326220757im_/http://spidermedia.ru/assets/images/import_image/7724.jpg",
+  "modx_id": 7724,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Первый класс: 11 лет спустя",
-  "date": "2013-02-02T11:17:00+03:00",
+  "date": "2013-02-02T10:17:12+03:00",
   "url": "/news/pervyy-klass-11-let-spustya/",
   "original_url": "https://spidermedia.ru/news/pervyy-klass-11-let-spustya",
   "archived": "https://web.archive.org/web/20260125071005/https://spidermedia.ru/news/pervyy-klass-11-let-spustya",
@@ -8,7 +8,15 @@
     "days-of-future-past",
     "lyudi-iks-pervyj-klass",
     "marvel",
-    "x-men"
+    "x-men",
+    "dni-minuvshego-budushhego",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20260125071005im_/http://spidermedia.ru/assets/images/import_image/7131.jpg",
+  "modx_id": 7131,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

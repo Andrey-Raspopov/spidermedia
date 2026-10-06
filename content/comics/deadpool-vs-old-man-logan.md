@@ -9,6 +9,12 @@
     "deadpool",
     "wolverine"
   ],
+  "cover": "https://web.archive.org/web/20250807223024im_/http://spidermedia.ru/assets/images/news/marvel/dp-vs-oml/deadpool-vs-old-man-logan.jpg",
+  "modx_id": 101616,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

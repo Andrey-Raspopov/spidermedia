@@ -1,6 +1,6 @@
 {
   "title": "Фантастики вдвое больше",
-  "date": "2011-09-16T19:56:00+03:00",
+  "date": "2011-09-16T18:56:30+03:00",
   "url": "/news/fantastiki-vdvoe-bolshe/",
   "original_url": "http://spidermedia.ru/news/fantastiki-vdvoe-bolshe",
   "archived": "https://web.archive.org/web/20120607164014/http://spidermedia.ru/news/fantastiki-vdvoe-bolshe",
@@ -10,7 +10,14 @@
     "jonathan-hickman",
     "komiksy",
     "marvel",
-    "fantasticheskaya-chetverka"
+    "fantasticheskaya-chetverka",
+    "dzhonatan-hikman"
+  ],
+  "cover": "https://web.archive.org/web/20120607164014im_/http://spidermedia.ru/assets/images/import_image/6608.jpg",
+  "modx_id": 6608,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

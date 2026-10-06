@@ -1,6 +1,6 @@
 {
   "title": "Новости короткой строкой: Алистер Смайт, Айрис Уэст и Вайб",
-  "date": "2014-02-05T08:51:00+03:00",
+  "date": "2014-02-05T07:51:14+03:00",
   "url": "/news/novosti-korotkoy-strokoy-alister-smayt-ayris-uest-i-vayb/",
   "original_url": "http://spidermedia.ru/news/novosti-korotkoy-strokoy-alister-smayt-ayris-uest-i-vayb",
   "archived": "https://web.archive.org/web/20260116223120/http://spidermedia.ru/news/novosti-korotkoy-strokoy-alister-smayt-ayris-uest-i-vayb",
@@ -8,6 +8,12 @@
     "the-flash",
     "spider-man",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20260116223120im_/http://spidermedia.ru/assets/images/import_image/7628.jpg",
+  "modx_id": 7628,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -8,6 +8,12 @@
     "valiant-entertainment",
     "sokol"
   ],
+  "cover": "https://web.archive.org/web/20251216125932im_/http://spidermedia.ru/assets/images/reviews/sokol/harbinger-v1/cvr.jpg",
+  "modx_id": 101699,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

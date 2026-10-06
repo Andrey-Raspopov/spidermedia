@@ -4,6 +4,9 @@
   "url": "/comics2movie/i/incredibles/incredibles/",
   "original_url": "http://spidermedia.ru/comics2movie/i/incredibles/incredibles.html",
   "archived": "https://web.archive.org/web/20050401030759/http://spidermedia.ru:80/comics2movie/i/incredibles/incredibles.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

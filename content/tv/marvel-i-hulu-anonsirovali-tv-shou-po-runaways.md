@@ -9,6 +9,12 @@
     "runaways",
     "beglecy"
   ],
+  "cover": "https://web.archive.org/web/20260115064519im_/http://spidermedia.ru/assets/images/news/runaways-1-195144.jpg",
+  "modx_id": 101316,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

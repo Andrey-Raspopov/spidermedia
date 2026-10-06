@@ -1,6 +1,6 @@
 {
   "title": "ПРЕВЬЮ: «Неуязвимый №31»",
-  "date": "2015-02-09T00:06:00+03:00",
+  "date": "2015-02-09T00:06:49+03:00",
   "url": "/news/prevyu-neuyazvimyy-no31-0/",
   "original_url": "http://spidermedia.ru/news/prevyu-neuyazvimyy-no31-0",
   "archived": "https://web.archive.org/web/20251108035904/http://spidermedia.ru/news/prevyu-neuyazvimyy-no31-0",
@@ -11,6 +11,12 @@
     "izdatelstvo-42",
     "zarubezhnye-komiksy-na-russkom",
     "image-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150328213902im_/http://spidermedia.ru/assets/images/import_image/8596.png",
+  "modx_id": 8596,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

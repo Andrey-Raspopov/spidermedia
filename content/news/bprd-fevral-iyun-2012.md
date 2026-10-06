@@ -1,6 +1,6 @@
 {
   "title": "B.P.R.D. - февраль-июнь 2012",
-  "date": "2011-11-29T20:42:00+03:00",
+  "date": "2011-11-29T19:42:51+03:00",
   "url": "/news/bprd-fevral-iyun-2012/",
   "original_url": "http://spidermedia.ru/news/bprd-fevral-iyun-2012",
   "archived": "https://web.archive.org/web/20210128054022/http://spidermedia.ru/news/bprd-fevral-iyun-2012",
@@ -8,6 +8,12 @@
     "majk-minyola",
     "dark-horse",
     "bprd"
+  ],
+  "cover": "https://web.archive.org/web/20160319132905im_/http://spidermedia.ru/assets/images/import_image/6708.jpg",
+  "modx_id": 6708,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "История издательства DC Comics (фильм)",
-  "date": "2011-06-10T13:00:00+03:00",
+  "date": "2011-06-10T12:00:18+03:00",
   "url": "/blog/sterpazook/istoriya-izdatelstva-dc-comics-film/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/istoriya-izdatelstva-dc-comics-film",
   "archived": "https://web.archive.org/web/20260208203212/http://spidermedia.ru/blog/sterpazook/istoriya-izdatelstva-dc-comics-film",
@@ -8,6 +8,12 @@
     "industriya",
     "dokumentalnoe-kino",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20180401184631im_/http://spidermedia.ru/assets/images/import_image/6429.jpg",
+  "modx_id": 6429,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

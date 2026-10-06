@@ -1,12 +1,22 @@
 {
   "title": "Spider-Man: Январь 2011",
-  "date": "2010-10-30T13:00:00+03:00",
+  "date": "2010-10-30T12:00:56+03:00",
   "url": "/news/spider-man-yanvar-2011/",
+  "aliases": [
+    "/node/3038/"
+  ],
   "original_url": "http://spidermedia.ru/news/spider-man-yanvar-2011",
   "archived": "https://web.archive.org/web/20240416034149/http://spidermedia.ru/news/spider-man-yanvar-2011",
   "tags": [
     "art-0",
-    "spider-man"
+    "spider-man",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20240416034149im_/http://spidermedia.ru/assets/images/import_image/3038.png",
+  "modx_id": 3038,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

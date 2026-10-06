@@ -1,14 +1,25 @@
 {
   "title": "Эксклюзивное фото со съемочной площадки фильма \"Железный Человек 2\"",
-  "date": "2010-02-11T23:01:00+03:00",
+  "date": "2010-02-11T23:01:09+03:00",
   "url": "/news/eksklyuzivnoe-foto-so-semochnoy-ploshchadki-filma-zheleznyy-chelovek-2/",
+  "aliases": [
+    "/node/2359/"
+  ],
   "original_url": "https://spidermedia.ru/news/eksklyuzivnoe-foto-so-semochnoy-ploshchadki-filma-zheleznyy-chelovek-2",
   "archived": "https://web.archive.org/web/20251112174124/https://spidermedia.ru/news/eksklyuzivnoe-foto-so-semochnoy-ploshchadki-filma-zheleznyy-chelovek-2",
   "tags": [
     "preview",
     "dzhon-favro",
     "marvel",
-    "iron-man"
+    "iron-man",
+    "prevyu",
+    "zheleznyy-chelovek"
+  ],
+  "cover": "https://web.archive.org/web/20251112174124im_/http://spidermedia.ru/assets/images/import_image/2359.jpg",
+  "modx_id": 2359,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

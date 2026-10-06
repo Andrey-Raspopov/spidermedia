@@ -1,11 +1,17 @@
 {
   "title": "DC убивает New 52 и запускает 24 новые серии",
-  "date": "2015-02-06T15:26:00+03:00",
+  "date": "2015-02-06T15:26:03+03:00",
   "url": "/news/dc-ubivaet-new-52-i-zapuskaet-24-novye-serii/",
   "original_url": "http://spidermedia.ru/news/dc-ubivaet-new-52-i-zapuskaet-24-novye-serii",
   "archived": "https://web.archive.org/web/20200115074349/http://spidermedia.ru:80/news/dc-ubivaet-new-52-i-zapuskaet-24-novye-serii",
   "tags": [
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150424151058im_/http://spidermedia.ru/assets/images/import_image/8590.jpg",
+  "modx_id": 8590,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

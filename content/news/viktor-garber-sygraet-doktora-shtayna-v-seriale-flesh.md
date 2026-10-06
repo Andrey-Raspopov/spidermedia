@@ -1,6 +1,6 @@
 {
   "title": "Виктор Гарбер сыграет доктора Штайна в сериале «Флэш»",
-  "date": "2014-10-09T22:18:00+03:00",
+  "date": "2014-10-09T21:18:32+03:00",
   "url": "/news/viktor-garber-sygraet-doktora-shtayna-v-seriale-flesh/",
   "original_url": "https://spidermedia.ru/news/viktor-garber-sygraet-doktora-shtayna-v-seriale-flesh",
   "archived": "https://web.archive.org/web/20250324222847/https://spidermedia.ru/news/viktor-garber-sygraet-doktora-shtayna-v-seriale-flesh",
@@ -8,7 +8,14 @@
     "the-flash",
     "fajrshtorm",
     "serialy",
-    "kasting"
+    "kasting",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20250324222847im_/http://i.imgur.com/m2ySQ6wl.jpg",
+  "modx_id": 8157,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

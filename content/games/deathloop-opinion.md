@@ -4,6 +4,12 @@
   "url": "/games/deathloop-opinion/",
   "original_url": "http://spidermedia.ru/games/deathloop-opinion",
   "archived": "https://web.archive.org/web/20250518130834/http://spidermedia.ru/games/deathloop-opinion",
+  "cover": "https://web.archive.org/web/20250518130834im_/http://spidermedia.ru/assets/images/games/capsule_616x353.jpg",
+  "modx_id": 102435,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

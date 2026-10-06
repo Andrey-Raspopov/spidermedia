@@ -1,7 +1,10 @@
 {
   "title": "Космический Моралес",
-  "date": "2009-04-21T11:31:00+03:00",
+  "date": "2009-04-21T10:31:30+03:00",
   "url": "/news/kosmicheskiy-morales/",
+  "aliases": [
+    "/node/1009/"
+  ],
   "original_url": "https://spidermedia.ru/news/kosmicheskiy-morales",
   "archived": "https://web.archive.org/web/20260312004246/https://spidermedia.ru/news/kosmicheskiy-morales",
   "tags": [
@@ -12,7 +15,14 @@
     "blackest-night",
     "temnejshaya-noch",
     "justice-league",
-    "rags-morales"
+    "rags-morales",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20260312004246im_/http://spidermedia.ru/assets/images/import_image/1009.jpg",
+  "modx_id": 1009,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

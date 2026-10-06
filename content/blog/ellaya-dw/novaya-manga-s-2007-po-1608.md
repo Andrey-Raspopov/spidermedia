@@ -1,11 +1,21 @@
 {
   "title": "Новая манга с 20.07 по 16.08",
-  "date": "2009-08-26T08:09:00+03:00",
+  "date": "2009-08-26T07:09:09+03:00",
   "url": "/blog/ellaya-dw/novaya-manga-s-2007-po-1608/",
+  "aliases": [
+    "/node/1828/"
+  ],
   "original_url": "http://spidermedia.ru/blog/ellaya-dw/novaya-manga-s-2007-po-1608",
   "archived": "https://web.archive.org/web/20251018225850/http://spidermedia.ru/blog/ellaya-dw/novaya-manga-s-2007-po-1608",
   "tags": [
-    "manga"
+    "manga",
+    "manga-2"
+  ],
+  "cover": "https://web.archive.org/web/20251018225850im_/http://spidermedia.ru/assets/images/import_image/1828.jpg",
+  "modx_id": 1828,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

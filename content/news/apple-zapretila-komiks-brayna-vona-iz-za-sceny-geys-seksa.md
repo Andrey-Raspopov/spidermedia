@@ -1,6 +1,6 @@
 {
   "title": "UPD.: Apple не запрещала комикс Брайна Вона из-за сцены гей-секса",
-  "date": "2013-04-11T09:00:00+03:00",
+  "date": "2013-04-11T08:00:51+03:00",
   "url": "/news/apple-zapretila-komiks-brayna-vona-iz-za-sceny-geys-seksa/",
   "original_url": "http://spidermedia.ru/news/apple-zapretila-komiks-brayna-vona-iz-za-sceny-geys-seksa",
   "archived": "https://web.archive.org/web/20260211184305/http://spidermedia.ru/news/apple-zapretila-komiks-brayna-vona-iz-za-sceny-geys-seksa",
@@ -8,7 +8,14 @@
     "industriya",
     "brian-k-vaughan",
     "saga",
-    "image-comics"
+    "image-comics",
+    "brajan-k.-von"
+  ],
+  "cover": "https://web.archive.org/web/20260211184305im_/http://spidermedia.ru/assets/images/import_image/7192.jpg",
+  "modx_id": 7192,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

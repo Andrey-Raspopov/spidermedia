@@ -1,7 +1,10 @@
 {
   "title": "Религиозные трения",
-  "date": "2009-10-01T13:16:00+03:00",
+  "date": "2009-10-01T12:16:15+03:00",
   "url": "/news/religioznye-treniya/",
+  "aliases": [
+    "/node/1953/"
+  ],
   "original_url": "http://spidermedia.ru/news/religioznye-treniya",
   "archived": "https://web.archive.org/web/20250717182322/http://spidermedia.ru/news/religioznye-treniya",
   "tags": [
@@ -9,6 +12,12 @@
     "dc-comics",
     "batman",
     "azrael"
+  ],
+  "cover": "https://web.archive.org/web/20250717182322im_/http://spidermedia.ru/assets/images/import_image/1953.jpg",
+  "modx_id": 1953,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

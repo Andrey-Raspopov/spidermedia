@@ -1,6 +1,6 @@
 {
   "title": "Золотой август",
-  "date": "2009-05-17T19:01:00+03:00",
+  "date": "2009-05-17T18:01:45+03:00",
   "url": "/news/zolotoy-avgust/",
   "original_url": "http://spidermedia.ru/news/zolotoy-avgust",
   "archived": "https://web.archive.org/web/20120607192812/http://spidermedia.ru/news/zolotoy-avgust",
@@ -11,6 +11,11 @@
     "komiksy",
     "marvel",
     "huan-do"
+  ],
+  "modx_id": 1222,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

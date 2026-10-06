@@ -1,14 +1,23 @@
 {
   "title": "Фабрика кошмаров им. Чайкина представляет",
-  "date": "2009-05-16T23:21:00+03:00",
+  "date": "2009-05-16T22:21:36+03:00",
   "url": "/news/fabrika-koshmarov-im-chaykina-predstavlyaet/",
+  "aliases": [
+    "/node/1218/"
+  ],
   "original_url": "http://spidermedia.ru/news/fabrika-koshmarov-im-chaykina-predstavlyaet",
   "archived": "https://web.archive.org/web/20200224084830/http://spidermedia.ru:80/news/fabrika-koshmarov-im-chaykina-predstavlyaet",
   "tags": [
     "govard-chajkin",
     "art-0",
     "marvel",
-    "dominic-fortune"
+    "dominic-fortune",
+    "art"
+  ],
+  "modx_id": 1218,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Франкендэдпул",
-  "date": "2011-07-23T08:26:00+03:00",
+  "date": "2011-07-23T07:26:45+03:00",
   "url": "/news/frankendedpul/",
   "original_url": "https://spidermedia.ru/news/frankendedpul",
   "archived": "https://web.archive.org/web/20251205112943/https://spidermedia.ru/news/frankendedpul",
@@ -10,6 +10,12 @@
     "deniel-vej",
     "deadpool",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20251205112943im_/http://spidermedia.ru/assets/images/import_image/6517.jpg",
+  "modx_id": 6517,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

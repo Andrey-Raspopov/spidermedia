@@ -1,12 +1,19 @@
 {
   "title": "Промо-фотосессия актерского состава «Флэша»",
-  "date": "2014-09-17T14:19:00+03:00",
+  "date": "2014-09-17T13:19:14+03:00",
   "url": "/news/promo-fotosessiya-akterskogo-sostava-flesha/",
   "original_url": "https://spidermedia.ru/news/promo-fotosessiya-akterskogo-sostava-flesha",
   "archived": "https://web.archive.org/web/20260215082632/https://spidermedia.ru/news/promo-fotosessiya-akterskogo-sostava-flesha",
   "tags": [
     "the-flash",
-    "serialy"
+    "serialy",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20260215082632im_/http://spidermedia.ru/assets/images/import_image/8069.jpg",
+  "modx_id": 8069,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

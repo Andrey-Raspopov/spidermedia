@@ -10,6 +10,12 @@
     "x-men",
     "mark-guggenhajm"
   ],
+  "cover": "https://web.archive.org/web/20260116212659im_/http://spidermedia.ru/assets/images/news/marvel/resurrxion/xmenblue_teaser.jpg",
+  "modx_id": 101422,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -7,6 +7,12 @@
   "tags": [
     "comic-con-russia"
   ],
+  "cover": "https://web.archive.org/web/20251111073913im_/http://spidermedia.ru/assets/images/comic-con/2015/russia/otchet/11.jpg",
+  "modx_id": 100639,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

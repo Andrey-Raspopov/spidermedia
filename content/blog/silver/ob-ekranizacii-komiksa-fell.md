@@ -1,7 +1,10 @@
 {
   "title": "Об экранизации комикса Fell",
-  "date": "2009-11-11T21:00:00+03:00",
+  "date": "2009-11-11T21:00:31+03:00",
   "url": "/blog/silver/ob-ekranizacii-komiksa-fell/",
+  "aliases": [
+    "/node/2083/"
+  ],
   "original_url": "http://spidermedia.ru/blog/silver/ob-ekranizacii-komiksa-fell",
   "archived": "https://web.archive.org/web/20200219065041/http://spidermedia.ru:80/blog/silver/ob-ekranizacii-komiksa-fell",
   "tags": [
@@ -10,6 +13,12 @@
     "mnenie",
     "ben-templsmit",
     "fell"
+  ],
+  "cover": "https://web.archive.org/web/20200219065041im_/http://spidermedia.ru/assets/images/import_image/2083.jpg",
+  "modx_id": 2083,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

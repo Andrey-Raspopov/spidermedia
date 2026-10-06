@@ -4,6 +4,12 @@
   "url": "/games/outriders-review/",
   "original_url": "http://spidermedia.ru/games/outriders-review",
   "archived": "https://web.archive.org/web/20250808205134/http://spidermedia.ru/games/outriders-review",
+  "cover": "https://web.archive.org/web/20250808205134im_/http://spidermedia.ru/assets/images/games/screenshot-2021-04-07t055324.100.png",
+  "modx_id": 102373,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

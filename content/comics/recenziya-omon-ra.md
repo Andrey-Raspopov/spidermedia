@@ -8,6 +8,12 @@
     "komilfo",
     "obzor"
   ],
+  "cover": "https://web.archive.org/web/20251018224850im_/http://spidermedia.ru/assets/images/news/images/oleg-lyfar/review/omon-ra/02.jpg",
+  "modx_id": 102117,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

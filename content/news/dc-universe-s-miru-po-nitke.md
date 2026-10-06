@@ -1,7 +1,10 @@
 {
   "title": "DC Universe - с миру по нитке",
-  "date": "2010-03-18T21:12:00+03:00",
+  "date": "2010-03-18T21:12:40+03:00",
   "url": "/news/dc-universe-s-miru-po-nitke/",
+  "aliases": [
+    "/node/2458/"
+  ],
   "original_url": "http://spidermedia.ru/news/dc-universe-s-miru-po-nitke",
   "archived": "https://web.archive.org/web/20260309185850/http://spidermedia.ru/news/dc-universe-s-miru-po-nitke",
   "tags": [
@@ -13,6 +16,12 @@
     "dc-comics",
     "batman",
     "geoff-johns"
+  ],
+  "cover": "https://web.archive.org/web/20150424211511im_/http://spidermedia.ru/assets/images/import_image/2458.jpg",
+  "modx_id": 2458,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

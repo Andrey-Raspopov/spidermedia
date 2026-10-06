@@ -9,6 +9,12 @@
     "roberto-agirre-sakasa",
     "franchesko-frankavilla"
   ],
+  "cover": "https://web.archive.org/web/20260214142233im_/http://spidermedia.ru/assets/images/news/archie/11-archie-horror.w529.h352.jpg",
+  "modx_id": 100917,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

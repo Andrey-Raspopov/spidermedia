@@ -1,7 +1,10 @@
 {
   "title": "Превью Thunderbolts #130",
-  "date": "2009-03-13T00:12:00+03:00",
+  "date": "2009-03-13T00:12:21+03:00",
   "url": "/news/prevyu-thunderbolts-130/",
+  "aliases": [
+    "/node/659/"
+  ],
   "original_url": "http://spidermedia.ru/news/prevyu-thunderbolts-130",
   "archived": "https://web.archive.org/web/20251211020915/http://spidermedia.ru/news/prevyu-thunderbolts-130",
   "tags": [
@@ -10,6 +13,12 @@
     "thunderbolts",
     "marvel",
     "magnum-opus"
+  ],
+  "cover": "https://web.archive.org/web/20251211020915im_/http://spidermedia.ru/assets/images/import_image/659.jpg",
+  "modx_id": 659,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

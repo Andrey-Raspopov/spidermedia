@@ -9,6 +9,12 @@
     "zarubezhnye-komiksy-na-russkom",
     "komilfo"
   ],
+  "cover": "https://web.archive.org/web/20251108183956im_/http://spidermedia.ru/assets/images/reviews/komilfo/snotgirl/vol-1/mzk.jpg",
+  "modx_id": 101861,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

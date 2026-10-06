@@ -1,11 +1,20 @@
 {
   "title": "it's just wikipedia",
-  "date": "2010-01-17T20:29:00+03:00",
+  "date": "2010-01-17T20:29:14+03:00",
   "url": "/blog/plane-v/its-just-wikipedia/",
+  "aliases": [
+    "/node/2279/"
+  ],
   "original_url": "http://spidermedia.ru/blog/plane-v/its-just-wikipedia",
   "archived": "https://web.archive.org/web/20161112213143/http://spidermedia.ru:80/blog/plane-v/its-just-wikipedia",
   "tags": [
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20161112213143im_/http://spidermedia.ru/assets/images/import_image/2279.jpg",
+  "modx_id": 2279,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

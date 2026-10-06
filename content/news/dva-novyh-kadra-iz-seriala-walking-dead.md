@@ -1,12 +1,19 @@
 {
   "title": "Два новых кадра из сериала \"The Walking Dead\"",
-  "date": "2010-07-23T13:59:00+03:00",
+  "date": "2010-07-23T12:59:16+03:00",
   "url": "/news/dva-novyh-kadra-iz-seriala-walking-dead/",
   "original_url": "https://spidermedia.ru/news/dva-novyh-kadra-iz-seriala-walking-dead",
   "archived": "https://web.archive.org/web/20260211181419/https://spidermedia.ru/news/dva-novyh-kadra-iz-seriala-walking-dead",
   "tags": [
     "serialy",
-    "the-walking-dead"
+    "the-walking-dead",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20260211181419im_/http://spidermedia.ru/assets/images/import_image/2774.jpg",
+  "modx_id": 2774,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

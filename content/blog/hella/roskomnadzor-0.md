@@ -1,6 +1,6 @@
 {
   "title": "РосКомНадзор: тишь да гладь",
-  "date": "2015-01-23T12:00:00+03:00",
+  "date": "2015-01-23T12:00:43+03:00",
   "url": "/blog/hella/roskomnadzor-0/",
   "original_url": "https://spidermedia.ru/blog/hella/roskomnadzor-0",
   "archived": "https://web.archive.org/web/20260206230325/https://spidermedia.ru/blog/hella/roskomnadzor-0",
@@ -8,6 +8,12 @@
     "roskomnadzor",
     "zarubezhnye-komiksy-na-russkom",
     "russian-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150326161938im_/http://spidermedia.ru/assets/images/import_image/8538.jpg",
+  "modx_id": 8538,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

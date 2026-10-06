@@ -1,7 +1,10 @@
 {
   "title": "Маленькие, но в курточках",
-  "date": "2009-02-04T14:59:00+03:00",
+  "date": "2009-02-04T14:59:41+03:00",
   "url": "/blog/igrok/malenkie-no-v-kurtochkah/",
+  "aliases": [
+    "/node/178/"
+  ],
   "original_url": "https://spidermedia.ru/blog/igrok/malenkie-no-v-kurtochkah",
   "archived": "https://web.archive.org/web/20251111080829/https://spidermedia.ru/blog/igrok/malenkie-no-v-kurtochkah",
   "tags": [
@@ -9,6 +12,11 @@
     "wolverine",
     "marvel",
     "hasbro"
+  ],
+  "modx_id": 178,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

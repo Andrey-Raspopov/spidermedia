@@ -1,12 +1,18 @@
 {
   "title": "On Sale Apr. 1st (and 8th too)",
-  "date": "2009-05-09T14:51:00+03:00",
+  "date": "2009-05-09T13:51:34+03:00",
   "url": "/blog/gess/sale-apr-1st-and-8th-too/",
   "original_url": "http://spidermedia.ru/blog/gess/sale-apr-1st-and-8th-too",
   "archived": "https://web.archive.org/web/20170609203958/http://spidermedia.ru:80/blog/gess/sale-apr-1st-and-8th-too",
   "tags": [
     "mnenie",
     "on-sale-this-week"
+  ],
+  "cover": "https://web.archive.org/web/20170609203958im_/http://spidermedia.ru/assets/images/import_image/1136.jpg",
+  "modx_id": 1136,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
@@ -176,7 +182,7 @@ P.S. За те несколько минут, что были в фильме, �
 
 *Doctor Who: Forgotten TPB* - Во-первых, это Пиа Гуэрра. И множество докторов - это, конечно, тоже арумент.
 
-*Fallen Angel vol.6: Cities Of Light And Dark TPB* - Последний том второго вольюма [Fallen Angel](../../../node/1108/).
+*Fallen Angel vol.6: Cities Of Light And Dark TPB* - Последний том второго вольюма [Fallen Angel](../../bastion7/recenziya-fallen-angel/).
 
 *Skate Farm vol.2 OGN* - Подростки и комсмические скейтборды.
 

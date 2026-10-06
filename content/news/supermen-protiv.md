@@ -1,7 +1,10 @@
 {
   "title": "Супермен против...",
-  "date": "2009-12-12T17:46:00+03:00",
+  "date": "2009-12-12T17:46:17+03:00",
   "url": "/news/supermen-protiv/",
+  "aliases": [
+    "/node/2156/"
+  ],
   "original_url": "http://spidermedia.ru/news/supermen-protiv",
   "archived": "https://web.archive.org/web/20250806060331/http://spidermedia.ru/news/supermen-protiv",
   "tags": [
@@ -13,6 +16,11 @@
     "dc-comics",
     "mark-guggenhajm",
     "mark-guggenheim"
+  ],
+  "modx_id": 2156,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

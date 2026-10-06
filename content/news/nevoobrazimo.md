@@ -1,12 +1,21 @@
 {
   "title": "Невообразимо",
-  "date": "2009-11-20T22:11:00+03:00",
+  "date": "2009-11-20T22:11:40+03:00",
   "url": "/news/nevoobrazimo/",
+  "aliases": [
+    "/node/2121/"
+  ],
   "original_url": "http://spidermedia.ru/news/nevoobrazimo",
   "archived": "https://web.archive.org/web/20260214135722/http://spidermedia.ru/news/nevoobrazimo",
   "tags": [
     "unthinkable",
     "boom-studios"
+  ],
+  "cover": "https://web.archive.org/web/20260214135722im_/http://spidermedia.ru/assets/images/import_image/2121.jpg",
+  "modx_id": 2121,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

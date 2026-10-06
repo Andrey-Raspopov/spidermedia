@@ -7,6 +7,12 @@
   "tags": [
     "image-comics"
   ],
+  "cover": "https://web.archive.org/web/20190606145500im_/http://spidermedia.ru/assets/images/articles/welcome-to-image/header.jpg",
+  "modx_id": 100109,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,7 +1,10 @@
 {
   "title": "Мертв или Жив?",
-  "date": "2009-03-02T06:15:00+03:00",
+  "date": "2009-03-02T05:15:09+03:00",
   "url": "/news/mertv-ili-zhiv/",
+  "aliases": [
+    "/node/560/"
+  ],
   "original_url": "http://spidermedia.ru/news/mertv-ili-zhiv",
   "archived": "https://web.archive.org/web/20120608224133/http://spidermedia.ru/news/mertv-ili-zhiv",
   "tags": [
@@ -11,7 +14,14 @@
     "komiksy",
     "marvel",
     "oblozhki",
-    "sketch"
+    "sketch",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20120608224133im_/http://spidermedia.ru/assets/images/import_image/560.jpg",
+  "modx_id": 560,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

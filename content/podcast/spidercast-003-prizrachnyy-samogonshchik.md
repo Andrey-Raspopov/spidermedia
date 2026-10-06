@@ -1,12 +1,20 @@
 {
   "title": "SPIDERCAST 003: ПРИЗРАЧНЫЙ САМОГОНЩИК",
-  "date": "2012-03-05T20:44:00+03:00",
+  "date": "2012-03-05T19:44:59+03:00",
   "url": "/podcast/spidercast-003-prizrachnyy-samogonshchik/",
   "original_url": "http://spidermedia.ru/podcast/spidercast-003-prizrachnyy-samogonshchik",
   "archived": "https://web.archive.org/web/20260120153610/http://spidermedia.ru/podcast/spidercast-003-prizrachnyy-samogonshchik",
   "tags": [
     "spidermedia",
     "spidercast"
+  ],
+  "cover": "https://web.archive.org/web/20150326195944im_/http://spidermedia.ru/misc/files/podcast/covers/cf9cb0e9d06e9bd9cf0e1952cfd74bc6.jpg",
+  "podcast_audio": "https://spidermedia.podster.fm/19/download/audio.mp3",
+  "podcast_length": "1:53:37",
+  "modx_id": 6826,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

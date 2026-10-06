@@ -1,6 +1,6 @@
 {
   "title": "Мастрид манги от Дердена #5: Takeru, Буити Тэрасава",
-  "date": "2014-12-04T20:31:00+03:00",
+  "date": "2014-12-04T20:31:40+03:00",
   "url": "/blog/derden/mastrid-mangi-ot-derdena-5-takeru-buiti-terasava/",
   "original_url": "http://spidermedia.ru/blog/derden/mastrid-mangi-ot-derdena-5-takeru-buiti-terasava",
   "archived": "https://web.archive.org/web/20251012182123/http://spidermedia.ru/blog/derden/mastrid-mangi-ot-derdena-5-takeru-buiti-terasava",
@@ -11,7 +11,14 @@
     "buiti-terasava",
     "space-adventure-cobra",
     "cobra",
-    "buichi-terasawa"
+    "buichi-terasawa",
+    "manga-2"
+  ],
+  "cover": "https://web.archive.org/web/20251012182123im_/http://spidermedia.ru/assets/images/import_image/8343.jpg",
+  "modx_id": 8343,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

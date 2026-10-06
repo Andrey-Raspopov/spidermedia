@@ -7,6 +7,12 @@
   "tags": [
     "sony"
   ],
+  "cover": "https://web.archive.org/web/20180201171025im_/http://spidermedia.ru/assets/images/games/kciljb05ofu.jpg",
+  "modx_id": 100684,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

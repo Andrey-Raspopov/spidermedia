@@ -8,6 +8,12 @@
     "marvel",
     "deadpool"
   ],
+  "cover": "https://web.archive.org/web/20251208070149im_/http://spidermedia.ru/assets/images/movies/marvel/deadpool/deadpool-2-review/maxresdefault.jpg",
+  "modx_id": 101919,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,7 +1,10 @@
 {
   "title": "Первое превью \"Cry for Justice\"",
-  "date": "2009-04-08T16:59:00+03:00",
+  "date": "2009-04-08T15:59:01+03:00",
   "url": "/blog/ghost-knight/pervoe-prevyu-cry-justice/",
+  "aliases": [
+    "/node/886/"
+  ],
   "original_url": "https://spidermedia.ru/blog/ghost-knight/pervoe-prevyu-cry-justice",
   "archived": "https://web.archive.org/web/20251107035142/https://spidermedia.ru/blog/ghost-knight/pervoe-prevyu-cry-justice",
   "tags": [
@@ -9,7 +12,13 @@
     "art-0",
     "dzhejms-robinson",
     "james-robinson",
-    "justice-league"
+    "justice-league",
+    "art"
+  ],
+  "modx_id": 886,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

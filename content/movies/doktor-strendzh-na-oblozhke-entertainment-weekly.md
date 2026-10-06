@@ -8,6 +8,12 @@
     "marvel",
     "doctor-strange"
   ],
+  "cover": "https://web.archive.org/web/20160619155219im_/http://spidermedia.ru/assets/images/movies/marvel/dr-strange-movie-2016/doctor-strange-first-official-look-entertainment-weekly-cover.jpg",
+  "modx_id": 100795,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

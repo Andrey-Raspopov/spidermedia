@@ -1,6 +1,6 @@
 {
   "title": "На страже Галактики",
-  "date": "2012-10-14T19:26:00+03:00",
+  "date": "2012-10-14T18:26:33+03:00",
   "url": "/news/na-strazhe-galaktiki/",
   "original_url": "http://spidermedia.ru/news/na-strazhe-galaktiki",
   "archived": "https://web.archive.org/web/20260206225543/http://spidermedia.ru/news/na-strazhe-galaktiki",
@@ -11,6 +11,12 @@
     "guardians-of-the-galaxy",
     "komik-kon-v-nyu-yorke",
     "new-york-comic-con"
+  ],
+  "cover": "https://web.archive.org/web/20150428171206im_/http://spidermedia.ru/assets/images/import_image/7065.jpg",
+  "modx_id": 7065,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

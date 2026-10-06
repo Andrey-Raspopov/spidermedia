@@ -8,6 +8,12 @@
     "valiant-entertainment",
     "obzor"
   ],
+  "cover": "https://web.archive.org/web/20190606145245im_/http://spidermedia.ru/assets/images/valiant/v-for-valiant/v-for-valiant-cover-horizontal.png",
+  "modx_id": 100044,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

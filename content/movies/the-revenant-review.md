@@ -4,6 +4,12 @@
   "url": "/movies/the-revenant-review/",
   "original_url": "http://spidermedia.ru/movies/the-revenant-review",
   "archived": "https://web.archive.org/web/20221002154256/http://spidermedia.ru/movies/the-revenant-review",
+  "cover": "https://web.archive.org/web/20160406171547im_/http://spidermedia.ru/assets/images/movies/other/the-revenant/vyzhivshij-1.jpg",
+  "modx_id": 100752,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

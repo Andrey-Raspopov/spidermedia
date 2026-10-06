@@ -5,19 +5,24 @@
   "original_url": "http://spidermedia.ru/comics/all-things-valiant-65-week-42",
   "archived": "https://web.archive.org/web/20260208195453/http://spidermedia.ru/comics/all-things-valiant-65-week-42",
   "tags": [
-    "valiant-entertainment"
+    "valiant-entertainment",
+    "all-things-valiant"
+  ],
+  "cover": "https://web.archive.org/web/20260208195453im_/http://spidermedia.ru/assets/images/valiant/images/atv65/65-a.jpg",
+  "modx_id": 101374,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](http://spidermedia.ru/assets/cache/images/valiant/images/atv65/622x-65-a.2e9.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv65/65-a.jpg)
-
 Подготовка материалов по Comic Con Russia 2016 отняла больше сил, чем мы думали. Из-за чего и перерыв в выходе All Things Valiant оказался дольше запланированного. Но не волнуйтесь, все пропущенное будет обязательно освещено. Ведь мы вернулись и вновь готовы обсуждать комиксы любимого издательства!
 
 **На самом деле выпуск готовился к выходу 18 октября, но по непреодолимым причинам переехал на 25-ое, поэтому вас ждет в два раза больше материалов!**
 
-**[Новости](./#news) ******•** [Анонсы](./#solicitations)** **•** [Рецензии](./#reviews)****
+**[Новости](#news) ******•** [Анонсы](#solicitations)** **•** [Рецензии](#reviews)****
 
 В этом выпуске: «принцесса» оказалась в другом замке, водные забавы римских императоров, Clone Conspiracy.Faith-edition, Панк Ниндзя, тизеры и азиатский винил. А также подведение итогов серии X-O Manowar от Станислава Шаргородского.
 
@@ -31,23 +36,19 @@
 
 На прошедшем New York Comic Con 2016 издательство Valiant объявило о выпуске серии виниловых фигурок на основе своих персонажей от Pop! Asia vinyl. Они поступят в продажу в следующем году, но уже на Комик Коне можно было приобрести миниатюрную копию Фэйт, которая стала первой в серии.
 
-[![](http://spidermedia.ru/assets/images/valiant/images/atv65/pop-asia-valiant_faith.jpg)](./)
-[![](http://spidermedia.ru/assets/images/valiant/images/atv65/pop-asia-valiant_faith-turnaround.jpg)](./)
+![](https://web.archive.org/web/20260208195453im_/http://spidermedia.ru/assets/images/valiant/images/atv65/pop-asia-valiant_faith.jpg)![](https://web.archive.org/web/20260208195453im_/http://spidermedia.ru/assets/images/valiant/images/atv65/pop-asia-valiant_faith-turnaround.jpg)
 
 #### Трейлер Ninjak vs. The Valiant Universe
 
 Также на NYCC 2016 был представлен тизер-трейлер грядущего веб-сериала Ninjak vs. The Valiant Universe, в котором помимо главного героя, Колина Кинга, засветилось множество других персонажей серий Valiant Entertainment.
 
-![](http://spidermedia.ru/assets/cache/images/youtube/622x350-HQcLClgLfkg.3e9.jpg)
-
-[Ninjak Vs The Valiant Universe - Teaser Trailer](./) 00:01:30
+<iframe allowfullscreen="" frameborder="0" height="360" src="http://www.youtube.com/embed/HQcLClgLfkg?wmode=transparent" style="display: block; margin-left: auto; margin-right: auto;" width="640"></iframe>
 
 #### Получай комиксы Valiant бесплатно целый год!
 
 Запуск нового тома серии Harbinger компания Valiant решила отметить отличной акцией для своих фанатов — издательство дарит возможность читателям получать комиксы бесплатно в течение всего года! Для этого нужно просто подписаться на онгоинг Harbinger Renegades до выхода первого номера (до 16 ноября), опубликовать фото себя или продавца, добавляющего серию в ваш список предзаказываемых комиксов, в Instagram издательства с хэштегом #WinHarbinger. А чтобы удвоить свои шансы на победу, необходимо сфотографироваться с первым выпуском Harbinger Renegades и также выложить его в Instagram Valiant Entertainment. Пятеро счастливчиков, которым достанется годовой запас комиксов Valiant (на общую сумму 400$), будут объявлены 23 ноября. К сожалению, акция проводится только в избранных комикс-шопах США и Канады.
 
-[![](http://spidermedia.ru/assets/images/valiant/images/atv65/hr_001_cover-a_robertson.jpg)](./)
-[![](http://spidermedia.ru/assets/images/valiant/images/atv65/hr_subscription-contest_map1.jpg)](./)
+![](https://web.archive.org/web/20260208195453im_/http://spidermedia.ru/assets/images/valiant/images/atv65/hr_001_cover-a_robertson.jpg)![](https://web.archive.org/web/20260208195453im_/http://spidermedia.ru/assets/images/valiant/images/atv65/hr_subscription-contest_map1.jpg)
 
 Помимо всего прочего первый номер Harbinger Renegades будет насчитывать сорок страниц, и к работе над выпуском присоединятся постоянные художники издательства — Хуан Хосе Рип и Рауль Аллен.
 
@@ -55,7 +56,7 @@
 
 Со следующего года Comixology запускает три оригинальные серии комиксов, одна из которых будет использовать персонажей Valiant Entertainment. По сюжету Valiant High действие будет происходить в альтернативной вселенной, где различные герои издательства станут учениками старшей школы. Авторская команда такова: Дэниэл Кибблсмит — сценарий, Дерек Чарм — рисунок.
 
-[![](http://spidermedia.ru/assets/images/valiant/images/atv65/iqhuh496lwdtrckjcxej.png)](./)
+![](https://web.archive.org/web/20260208195453im_/http://spidermedia.ru/assets/images/valiant/images/atv65/iqhuh496lwdtrckjcxej.png)
 
 ---
 
@@ -64,15 +65,7 @@
 ---
 
 #### Divinity III:****Stalinverse #2
-[![Елена Кевич-Джурджевич](http://spidermedia.ru/assets/images/valiant/images/atv65/diviii_002_cover-a_djurdjevic.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv65/diviii_002_cover-a_djurdjevic.jpg "Елена Кевич-Джурджевич")
-
-[![Том Мюллер](http://spidermedia.ru/assets/images/valiant/images/atv65/diviii_002_cover-b_muller.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv65/diviii_002_cover-b_muller.jpg "Том Мюллер")
-
-[![Джеффри Вередж](http://spidermedia.ru/assets/images/valiant/images/atv65/diviii_002_variant_veregge.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv65/diviii_002_variant_veregge.jpg "Джеффри Вередж")
-
-[![Грег Смоллвуд](http://spidermedia.ru/assets/images/valiant/images/atv65/diviii_002_variant_smallwood.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv65/diviii_002_variant_smallwood.jpg "Грег Смоллвуд")
-
-[![Адам Горэм](http://spidermedia.ru/assets/images/valiant/images/atv65/diviii_002_variant_gorham.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv65/diviii_002_variant_gorham.jpg "Адам Горэм")
+![](https://web.archive.org/web/20260208195453im_/http://spidermedia.ru/assets/images/valiant/images/atv65/diviii_002_cover-a_djurdjevic.jpg)![](https://web.archive.org/web/20260208195453im_/http://spidermedia.ru/assets/images/valiant/images/atv65/diviii_002_cover-b_muller.jpg)![](https://web.archive.org/web/20260208195453im_/http://spidermedia.ru/assets/images/valiant/images/atv65/diviii_002_variant_veregge.jpg)![](https://web.archive.org/web/20260208195453im_/http://spidermedia.ru/assets/images/valiant/images/atv65/diviii_002_variant_smallwood.jpg)![](https://web.archive.org/web/20260208195453im_/http://spidermedia.ru/assets/images/valiant/images/atv65/diviii_002_variant_gorham.jpg)
 
 Сценарий: Мэтт Киндт
 Рисунок: Тревор Хэйрсин
@@ -80,15 +73,7 @@
 Добро пожаловать в 2017 год! Уже несколько десятилетий Советский Союз является главенствующей мировой державой, а железный занавес накрывает всю планету, раздираемую войной, раздором и угнетением. Для Сталинверса слово «свобода» — лишь отголосок прошлого. Так почему же главу российской разведки Колина Кинга беспокоит непонятное ощущение того, что что-то пошло не так? И чтобы добраться до истины, он поставит на кон свою жизнь и свободу. Даже если для этого придется найти разгадку тайны исчезновения космонавта Абрама Адамса — единственного человека, знающего правду о сегодняшней мрачной реальности.
 
 #### Divinity****III****:** ****Aric, Son of the Revolution**** **#1
-[![Клэйтон Крэйн](http://spidermedia.ru/assets/images/valiant/images/atv65/div3-aric_001_cover-a_crain1.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv65/div3-aric_001_cover-a_crain1.jpg "Клэйтон Крэйн")
-
-[![Диего Бернард](http://spidermedia.ru/assets/images/valiant/images/atv65/div3-aric_001_cover-b_bernard1.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv65/div3-aric_001_cover-b_bernard1.jpg "Диего Бернард")
-
-[![КАФУ](http://spidermedia.ru/assets/images/valiant/images/atv65/div3-aric_001_cover-c_cafu.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv65/div3-aric_001_cover-c_cafu.jpg "КАФУ")
-
-[![Тревор Хэйрсин](http://spidermedia.ru/assets/images/valiant/images/atv65/div3-aric_001_variant-design_hairisine.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv65/div3-aric_001_variant-design_hairisine.jpg "Тревор Хэйрсин")
-
-[![Кано](http://spidermedia.ru/assets/images/valiant/images/atv65/div3-aric_001_variant_kano.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv65/div3-aric_001_variant_kano.jpg "Кано")
+![](https://web.archive.org/web/20260208195453im_/http://spidermedia.ru/assets/images/valiant/images/atv65/div3-aric_001_cover-a_crain1.jpg)![](https://web.archive.org/web/20260208195453im_/http://spidermedia.ru/assets/images/valiant/images/atv65/div3-aric_001_cover-b_bernard1.jpg)![](https://web.archive.org/web/20260208195453im_/http://spidermedia.ru/assets/images/valiant/images/atv65/div3-aric_001_cover-c_cafu.jpg)![](https://web.archive.org/web/20260208195453im_/http://spidermedia.ru/assets/images/valiant/images/atv65/div3-aric_001_variant-design_hairisine.jpg)![](https://web.archive.org/web/20260208195453im_/http://spidermedia.ru/assets/images/valiant/images/atv65/div3-aric_001_variant_kano.jpg)
 
 Сценарий: Джо Харрис
 Рисунок: Дэвид Лафуэнте
@@ -99,17 +84,7 @@
 
 #### Ninjak #23
 
-[![Райан Боденхейм](http://spidermedia.ru/assets/images/valiant/images/atv65/ninjak_023_cover-a_bodenheim1.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv65/ninjak_023_cover-a_bodenheim1.jpg "Райан Боденхейм")
-
-[![Бен Оливер](http://spidermedia.ru/assets/images/valiant/images/atv65/ninjak_023_cover-b_oliver.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv65/ninjak_023_cover-b_oliver.jpg "Бен Оливер")
-
-[![Фелипе Массафера](http://spidermedia.ru/assets/images/valiant/images/atv65/ninjak_023_cover-c_massafera.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv65/ninjak_023_cover-c_massafera.jpg "Фелипе Массафера")
-
-[![Райан Ли](http://spidermedia.ru/assets/images/valiant/images/atv65/ninjak_023_variant-design_lee1.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv65/ninjak_023_variant-design_lee1.jpg "Райан Ли")
-
-[![Билкис Эвели](http://spidermedia.ru/assets/images/valiant/images/atv65/ninjak_023_variant_evely.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv65/ninjak_023_variant_evely.jpg "Билкис Эвели")
-
-[![Бен Темплсмит](http://spidermedia.ru/assets/images/valiant/images/atv65/ninjak_023_variant_templesmith1.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv65/ninjak_023_variant_templesmith1.jpg "Бен Темплсмит")
+![](https://web.archive.org/web/20260208195453im_/http://spidermedia.ru/assets/images/valiant/images/atv65/ninjak_023_cover-a_bodenheim1.jpg)![](https://web.archive.org/web/20260208195453im_/http://spidermedia.ru/assets/images/valiant/images/atv65/ninjak_023_cover-b_oliver.jpg)![](https://web.archive.org/web/20260208195453im_/http://spidermedia.ru/assets/images/valiant/images/atv65/ninjak_023_cover-c_massafera.jpg)![](https://web.archive.org/web/20260208195453im_/http://spidermedia.ru/assets/images/valiant/images/atv65/ninjak_023_variant-design_lee1.jpg)![](https://web.archive.org/web/20260208195453im_/http://spidermedia.ru/assets/images/valiant/images/atv65/ninjak_023_variant_evely.jpg)![](https://web.archive.org/web/20260208195453im_/http://spidermedia.ru/assets/images/valiant/images/atv65/ninjak_023_variant_templesmith1.jpg)
 
 Сценарий: Мэтт Киндт
 Рисунок: Марк Лэминг
@@ -119,17 +94,7 @@
 Мастер Дарк, жестокий повелитель смерти и воскрешения, стремится вырваться на свободу, но сперва ему предстоит побороться за свою жизнь. Дарк стал мишенью, он слаб, и об этом известно его противникам. Бывшая ученица колдуна и смертельный враг Ниндзяка — смертоносная убийца Року — вновь собирает Shadow Seven лишь с одной целью — разобраться с некромантом раз и навсегда. Но единственный, кто удерживает хрупкий союз вместе, — это таинственный благодетель... так же скрывающийся под псевдонимом Дарк.
 
 #### **Harbinger Renegades #3**
-[![Дэрик Робертсон](http://spidermedia.ru/assets/images/valiant/images/atv65/hr_003_cover-a_robertson1.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv65/hr_003_cover-a_robertson1.jpg "Дэрик Робертсон")
-
-[![Маргарит Саваж](http://spidermedia.ru/assets/images/valiant/images/atv65/hr_003_cover-b_sauvage.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv65/hr_003_cover-b_sauvage.jpg "Маргарит Саваж")
-
-[![Моника Палош](http://spidermedia.ru/assets/images/valiant/images/atv65/hr_003_cover-c_palosz.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv65/hr_003_cover-c_palosz.jpg "Моника Палош")
-
-[![Клэйтон Хенри](http://spidermedia.ru/assets/images/valiant/images/atv65/hr_003_variant_henry.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv65/hr_003_variant_henry.jpg "Клэйтон Хенри")
-
-[![Дэйв Джонсон](http://spidermedia.ru/assets/images/valiant/images/atv65/hr_003_variant_johnson.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv65/hr_003_variant_johnson.jpg "Дэйв Джонсон")
-
-[![Джим Мафуд](http://spidermedia.ru/assets/images/valiant/images/atv65/hr_003_variant_mahfood.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv65/hr_003_variant_mahfood.jpg "Джим Мафуд")
+![](https://web.archive.org/web/20260208195453im_/http://spidermedia.ru/assets/images/valiant/images/atv65/hr_003_cover-a_robertson1.jpg)![](https://web.archive.org/web/20260208195453im_/http://spidermedia.ru/assets/images/valiant/images/atv65/hr_003_cover-b_sauvage.jpg)![](https://web.archive.org/web/20260208195453im_/http://spidermedia.ru/assets/images/valiant/images/atv65/hr_003_cover-c_palosz.jpg)![](https://web.archive.org/web/20260208195453im_/http://spidermedia.ru/assets/images/valiant/images/atv65/hr_003_variant_henry.jpg)![](https://web.archive.org/web/20260208195453im_/http://spidermedia.ru/assets/images/valiant/images/atv65/hr_003_variant_johnson.jpg)![](https://web.archive.org/web/20260208195453im_/http://spidermedia.ru/assets/images/valiant/images/atv65/hr_003_variant_mahfood.jpg)
 
 Сценарий: Рафер Робертс
 Рисунок: Дэрик Робертсон
@@ -137,15 +102,7 @@
 Воссоединившиеся, но снова оторванные от прежних жизней, что они старались восстановить, Harbinger Renegades подверглись полномасштабной атаке от нового злобного противника — радикально настроенной армии псиотов-фанатиков, полных решимости разрушить систему любыми способами. Сможет ли команда бывших друзей вновь стать бойцами, которыми были раньше, или ребята поддадутся искушению силы, самой развращающей из тех, с которыми они имели дело? Когда Торк и Фэйт оказываются в смертельной опасности, Питер Стэнчек и Крис Хэтэвэй должны отбросить прошлое и смириться со своей судьбой, что ждет впереди.
 
 #### **Savage** **#3**
-[![Льюис ЛаРоза](http://spidermedia.ru/assets/images/valiant/images/atv65/savage_003_cover-a_larosa.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv65/savage_003_cover-a_larosa.jpg "Льюис ЛаРоза")
-
-[![Джаред Флетчер](http://spidermedia.ru/assets/images/valiant/images/atv65/savage_003_cover-b_fletcher.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv65/savage_003_cover-b_fletcher.jpg "Джаред Флетчер")
-
-[![Льюис ЛаРоза](http://spidermedia.ru/assets/images/valiant/images/atv65/savage_003_variant-design_larosa.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv65/savage_003_variant-design_larosa.jpg "Льюис ЛаРоза")
-
-[![Фелипе Массафера](http://spidermedia.ru/assets/images/valiant/images/atv65/savage_003_variant_massafera.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv65/savage_003_variant_massafera.jpg "Фелипе Массафера")
-
-[![Льюис ЛаРоза](http://spidermedia.ru/assets/images/valiant/images/atv65/savage_003_variant-sketch_larosa.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv65/savage_003_variant-sketch_larosa.jpg "Льюис ЛаРоза")
+![](https://web.archive.org/web/20260208195453im_/http://spidermedia.ru/assets/images/valiant/images/atv65/savage_003_cover-a_larosa.jpg)![](https://web.archive.org/web/20260208195453im_/http://spidermedia.ru/assets/images/valiant/images/atv65/savage_003_cover-b_fletcher.jpg)![](https://web.archive.org/web/20260208195453im_/http://spidermedia.ru/assets/images/valiant/images/atv65/savage_003_variant-design_larosa.jpg)![](https://web.archive.org/web/20260208195453im_/http://spidermedia.ru/assets/images/valiant/images/atv65/savage_003_variant_massafera.jpg)![](https://web.archive.org/web/20260208195453im_/http://spidermedia.ru/assets/images/valiant/images/atv65/savage_003_variant-sketch_larosa.jpg)
 
 Сценарий: Би Клэй Мур
 Рисунок: Клэйтон Хенри, Льюис ЛаРоза
@@ -154,9 +111,7 @@
 
 **Generation ZERO #6**
 
-[![Хуан Хосе Рип](http://spidermedia.ru/assets/images/valiant/images/atv65/genzero_006_cover-a_ryp.jpg)](./ "Хуан Хосе Рип")
-[![Джо Эйсма](http://spidermedia.ru/assets/images/valiant/images/atv65/genzero_006_cover-b_eisma.jpg)](./ "Джо Эйсма")
-[![Стивен Сеговия](http://spidermedia.ru/assets/images/valiant/images/atv65/genzero_006_variant_segovia.jpg)](./ "Стивен Сеговия")
+![](https://web.archive.org/web/20260208195453im_/http://spidermedia.ru/assets/images/valiant/images/atv65/genzero_006_cover-a_ryp.jpg)![](https://web.archive.org/web/20260208195453im_/http://spidermedia.ru/assets/images/valiant/images/atv65/genzero_006_cover-b_eisma.jpg)![](https://web.archive.org/web/20260208195453im_/http://spidermedia.ru/assets/images/valiant/images/atv65/genzero_006_variant_segovia.jpg)
 
 Сценарий: Фред Ван Ленте
 Рисунок: Хавьер Пулидо, Диего Бернард
@@ -164,15 +119,7 @@
 Поколению Зеро удалось пережить свою первую миссию, теперь долг призывает их отправиться в рискованное путешествие в измерение Heroscape, чтобы взглянуть на мир новыми глазами. Они обнаружат страшнейшие тайны друзей, глубочайшие страхи врагов и зловещую связь своего города с этой питаемой воображением реальность. Но то, что Heroscape не настоящий, не означает, что там нельзя погибнуть. Полчища аниме-зомби и психоделические НФ-воины — самые дикие фантазии городка Рук, Мичиган, вот-вот вырвутся на свободу!
 
 #### Faith #7
-[![Кано](http://spidermedia.ru/assets/images/valiant/images/atv65/faith_007_cover-a_kano.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv65/faith_007_cover-a_kano.jpg "Кано")
-
-[![Дэвид Лафуэнте](http://spidermedia.ru/assets/images/valiant/images/atv65/faith_007_cover-b_lafuente.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv65/faith_007_cover-b_lafuente.jpg "Дэвид Лафуэнте")
-
-[![Филип Тан](http://spidermedia.ru/assets/images/valiant/images/atv65/faith_007_cover-c_tan.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv65/faith_007_cover-c_tan.jpg "Филип Тан")
-
-[![Джен Бэртел](http://spidermedia.ru/assets/images/valiant/images/atv65/faith_007_variant_bartel.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv65/faith_007_variant_bartel.jpg "Джен Бэртел")
-
-[![Джефф Шоу](http://spidermedia.ru/assets/images/valiant/images/atv65/faith_007_variant_shaw.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv65/faith_007_variant_shaw.jpg "Джефф Шоу")
+![](https://web.archive.org/web/20260208195453im_/http://spidermedia.ru/assets/images/valiant/images/atv65/faith_007_cover-a_kano.jpg)![](https://web.archive.org/web/20260208195453im_/http://spidermedia.ru/assets/images/valiant/images/atv65/faith_007_cover-b_lafuente.jpg)![](https://web.archive.org/web/20260208195453im_/http://spidermedia.ru/assets/images/valiant/images/atv65/faith_007_cover-c_tan.jpg)![](https://web.archive.org/web/20260208195453im_/http://spidermedia.ru/assets/images/valiant/images/atv65/faith_007_variant_bartel.jpg)![](https://web.archive.org/web/20260208195453im_/http://spidermedia.ru/assets/images/valiant/images/atv65/faith_007_variant_shaw.jpg)
 
 Сценарий: Джоди Хаузер
 Рисунок: Меган Хетрик, Маргарит Саваж
@@ -181,15 +128,7 @@
 
 #### Bloodshot U.S.A. #4
 
-[![Дуг Брэйтвэйт](http://spidermedia.ru/assets/images/valiant/images/atv65/bsusa_004_cover-a_braithwaite.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv65/bsusa_004_cover-a_braithwaite.jpg "Дуг Брэйтвэйт")
-
-[![Клэйтон Хенри](http://spidermedia.ru/assets/images/valiant/images/atv65/bsusa_004_cover-b_henry.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv65/bsusa_004_cover-b_henry.jpg "Клэйтон Хенри")
-
-[![Дэйв Джонсон](http://spidermedia.ru/assets/images/valiant/images/atv65/bsusa_004_cover-c_johnson.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv65/bsusa_004_cover-c_johnson.jpg "Дэйв Джонсон")
-
-[![Адам Поллина](http://spidermedia.ru/assets/images/valiant/images/atv65/bsusa_004_variant_pollina.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv65/bsusa_004_variant_pollina.jpg "Адам Поллина")
-
-[![Мико Суаян](http://spidermedia.ru/assets/images/valiant/images/atv65/bsusa_004_variant_suayan.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv65/bsusa_004_variant_suayan.jpg "Мико Суаян")
+![](https://web.archive.org/web/20260208195453im_/http://spidermedia.ru/assets/images/valiant/images/atv65/bsusa_004_cover-a_braithwaite.jpg)![](https://web.archive.org/web/20260208195453im_/http://spidermedia.ru/assets/images/valiant/images/atv65/bsusa_004_cover-b_henry.jpg)![](https://web.archive.org/web/20260208195453im_/http://spidermedia.ru/assets/images/valiant/images/atv65/bsusa_004_cover-c_johnson.jpg)![](https://web.archive.org/web/20260208195453im_/http://spidermedia.ru/assets/images/valiant/images/atv65/bsusa_004_variant_pollina.jpg)![](https://web.archive.org/web/20260208195453im_/http://spidermedia.ru/assets/images/valiant/images/atv65/bsusa_004_variant_suayan.jpg)
 
 Сценарий: Джефф Лемир
 Рисунок: Дуг Брэйтвэйт
@@ -198,9 +137,7 @@
 
 #### A&A #11
 
-[![Кано](http://spidermedia.ru/assets/images/valiant/images/atv65/aa_011_cover-a_kano.jpg)](./ "Кано")
-[![Марк Лэминг](http://spidermedia.ru/assets/images/valiant/images/atv65/aa_011_cover-b_laming.jpg)](./ "Марк Лэминг")
-[![Дин Хашпиль](http://spidermedia.ru/assets/images/valiant/images/atv65/aa_011_variant_haspiel.jpg)](./ "Дин Хашпиль")
+![](https://web.archive.org/web/20260208195453im_/http://spidermedia.ru/assets/images/valiant/images/atv65/aa_011_cover-a_kano.jpg)![](https://web.archive.org/web/20260208195453im_/http://spidermedia.ru/assets/images/valiant/images/atv65/aa_011_cover-b_laming.jpg)![](https://web.archive.org/web/20260208195453im_/http://spidermedia.ru/assets/images/valiant/images/atv65/aa_011_variant_haspiel.jpg)
 
 Сценарий: Рафер Робертс
 Рисунок: Майк Нортон
@@ -212,3 +149,107 @@
 **ЧТО МЫ ПРОЧИТАЛИ**
 
 ---
+
+a:5:{i:1;a:7:{s:5:"autor";a:3:{i:1;a:2:{i:0;s:18:"[Сценарий]";i:1;s:27:"Питер Миллиган";}i:3;a:2:{i:0;s:16:"[Рисунок]";i:1;s:24:"Хуан Хосе Рип";}i:5;a:2:{i:0;s:10:"[Цвет]";i:1;s:27:"Джорди Беллэйр";}}s:4:"name";s:9:"BRITANNIA";s:7:"edition";s:2:"#2";s:5:"cover";s:56:"assets/images/valiant/images/atv65/britannia-2-cover.jpg";s:9:"publisher";s:4:"1249";s:4:"year";s:4:"2016";s:8:"comments";a:1:{i:1;a:4:{s:5:"autor";s:6:"183731";s:4:"text";s:7307:"
+
+В прошлый раз мы, рассуждая о Британии, говорили о тройной структуре ее концепта: Игры престолов, Гладиаторе и Шерлоке, и жаловались, что первым двум частям уделяется больше экранного времени. В этот раз равновесие качнулось в другую сторону.
+
+Прибыв в Британии, Антоний Аксиа и его верный раб встречают неласковый прием и раскрывают секрет местных легионеров, который может стоить им жизни.
+
+Покинув стены родного Рима, комикс забыл в нем часть своего триединства, но не “Игру престолов”, а “Гладиатора”. Древнеримского  же сеттинга едва хватает стыдливо прикрыть классическую американскую детективную историю: герой городского сыска приехал расследовать дело в глубинку, а там страшное - люди - звери. “Шерлок”, вот та сцена с которой выступает в этот раз комикс.
+
+[[gallery? &id=`1442` &type=`1` &rowHeight=`150` &maxRowHeight=`100%` &captions=`false` &fixedHeight=`false` &lastRow=`justify` &margins=`2`]]
+
+Детективные элементы щедро разбросаны по номеру. Тут у нас и классический осмотр трупов в морге, интервью “свидетелей” в баре и встреча с роковой девушкой. Все эти сцены процедурала здесь только для фона, они совершенно не работают как детективная история. Возвращение на место преступления - бывшей стоянки римского лагеря - не вытекает из посещения морга. Антоний не находит улики, не располагает их в логической последовательности, чтобы раскрыть преступление, а так же, как и читатель следует указанием экскурсовода поезда “детективный сеттинг”: “Посмотрите налево, здесь у нас классический случай - местные власти не рады приехавшему сыщику, а справа вы можете заметить другую избитую сцену - люди притворяются сверхъестественным”.
+
+События сменяют друг друга с пугающей скоростью. Тут на одной странице протагонист решает поговорить с народом, его посылают, после чего к нему подбегает статист и говорит, что здесь не все так просто, а в следующем фрейме на лагерь уже нападают бриты. Читателя, привыкшего к декомпрессу, вжимает в кресло местные повороты сюжета, больше напоминающие гонки Формулы 1. На странице постоянно что-то происходит, все герои что-то делают, вводят новых персонажей, раскрывают старых.
+
+И при всем этом профессионально срежиссированном действии в комиксе происходит на удивление мало. Постоянная смена событий не означает их насыщенность. Нам ничего нового не рассказали, просто конкретизировали сюжетные завязки прошлого выпуска: в римском лагере в Британии происходит странное, в основном из-за произвола солдат; страну бритов терроризирует демон, и имя ему Оркус и пр.
+
+[[gallery? &id=`1443` &type=`1` &rowHeight=`150` &maxRowHeight=`100%` &captions=`false` &fixedHeight=`false` &lastRow=`justify` &margins=`2`]]
+
+Не разочаровывает разве только рисунок. Хуан Хосе Рип с маниакальным упорством прорисовывает каждую складку плаща, будь она от порывов ветра, или ткань собралась из-за того, что спину героя подпирает рука друга. Углубляясь в детализацию каждого фрейма, Рип не забывает и о тщательной проработке сторителлинга. Динамику сюжета и постоянную смену сцен художник подчеркивает непрерывной сменой ракурса в кадрах. Работа с цветом Джорди Беллэйр особенно хороша в дождливой сцене расследования. То, как за героями пропадает единственный источник света - факела лагеря -  и кадры погружаются в вечернюю мглу, ослепленную ливнем, и то, как Беллэйр аккуратно добавляет дождевые брызги и потоки дождя, стараясь не повредить рисунку Рипа, вызывает только уважение.
+
+Нам предлагают посмотреть на то, как герои стремительно носятся по сцене, наполненной древнеримсикими детективными декорациями, скрывая за внешней чехардой чайную ложку сюжета. Комикс напоминает запись американских горок на ютубе, вроде бы внешне тот же драйв, но переживаний нет и внутри пусто. Если бы не шикарный рисунок Рипа и покраска Беллэйр, то выпуск бы получил ЖИЖУ, а так…
+
+**![](https://web.archive.org/web/20160611215702im_/http://spidermedia.ru/assets/images/valiant/images/1.png) ЕСТЬ НАДЕЖДА НА БУДУЩЕЕ**
+
+";s:8:"mjdzText";s:0:"";s:10:"conclusion";s:0:"";}}}i:2;a:7:{s:5:"autor";a:3:{i:1;a:2:{i:0;s:18:"[Сценарий]";i:1;s:23:"Джоди Хаузер";}i:3;a:2:{i:0;s:16:"[Рисунок]";i:1;s:48:"Пере Перез, Маргарит Саваж";}i:5;a:2:{i:0;s:10:"[Цвет]";i:1;s:25:"Эндрю Долхауз";}}s:4:"name";s:5:"Faith";s:7:"edition";s:2:"#4";s:5:"cover";s:52:"assets/images/valiant/images/atv65/faith-4-cover.jpg";s:9:"publisher";s:4:"1249";s:4:"year";s:4:"2016";s:8:"comments";a:1:{i:1;a:4:{s:5:"autor";s:6:"183731";s:4:"text";s:6399:"
+
+Говорят, Бог любит троицу. Если это так, то у Faith серьезные проблемы: третий арк подряд нас потчуют нехаризматичными злодеями. В этот раз одноглазый Микки Маус в костюме Мирекалмена даже не удостоился вменяемой мотивации, герои просто предположили, что он грабитель. Сам же он в лучших традициях Скуби Ду жаловался, что его план сорвала молодёжь и обещает отомстить.
+
+Когда перед Фейт предстала ее копия, точно было известно, что это злобный двойник, возможно, клон, в крайнем случае, робот-дубликат. Хотя, похоже, любовь к Звездным войнам сблизит девушек, но Арчер достанется только одной, другой придется умереть.
+
+[[gallery? &id=`1440` &type=`1` &rowHeight=`150` &maxRowHeight=`100%` &captions=`false` &fixedHeight=`false` &lastRow=`justify` &margins=`2`]]
+
+Как и предупреждал в прошлый раз Андрей, благодатную для серии завязку про супрегероиню-гика на конвенции комиксов позабыли, перейдя к выяснению отношений кто кому клон и мордобою с копиями злодея. Мало того, что это скучно, так еще и сюжет предсказуем. Не ждите никакой саги о клонах. Почва для интересного конфликта, казалось бы созданная сценаристом, так и не дает всходов, а распахивается заново в предвкушении следующего арка. В итоге персонажи не развиваются, история буксует, читатели в недоумении закрывают номер.
+
+Пожалуй, в этом и есть главная проблема серии - комикс никак не может решиться, чем ему следует быть: стандартной беззубой супергероикой в рамках вселенной Valiant или легкой деконструкцией жанра с намеками на метокомментарии. С одной стороны, первые арки (включая оригинальную минисерию) рассказывали про людей шоубиза, злоупотребляющих властью, и то, как рушатся под “реальностью” шаблоны супергероикии, с другой, все арки заканчиваются без лишнего драматического багажа – все легко, воздушно. Таков характер этой серии, но если после каждого финала не поднимать ставки, не ставить персонажей в сложные ситуации, то легко довести читателей до зевоты.
+
+Если же не отвлекаться на подобные “мелочи”, то у Джоди Хаузер получается неплохой развлекательный комикс. Здесь есть и смешная сценка примирения “злобных двойников”, благодаря силе любви к попкультуре. Хороший, качественный пафос, сдобренный правильным героическим самопожертвованием. Задорный экшн в конце концов. И три дежурные страницы от Маргарит Саваж.
+
+[[gallery? &id=`1441` &type=`1` &rowHeight=`150` &maxRowHeight=`100%` &captions=`false` &fixedHeight=`false` &lastRow=`justify` &margins=`2`]]
+
+Кстати, о рисунке , мне одному кажется, что новый стиль покраски Эндрю Долхауза совершенно не вяжется с артом Пере Переза? Энергичный рисунок последнего обыкновенно полон буйства живых эмоций. А его нарочито-эксцентричный подход в композиции страниц только проигрывает от почти однотонной холодной синей заливки Долхауза. Особенно противно смотреть на покраску поверх туши, все эти складочки, тени от закрашивания блекнут, скрадывая объемность рисунка. Особенно в этом показателен [этот кадр](http://spidermedia.ru/assets/images/valiant/files/atv65/atv-65-faith-4-example-1.jpg), где колорист вынужден был “заморозить” руку Арчера, чтобы выдержать цветовое единство страницы.
+
+ Faith хорошая серия, после чтения которой не жалеешь о потерянном времени, хотя, если от комиксов вы ждете драмы и развития персонажей, то вам следует пройти мимо этой пафосной розовой ваты. Здесь всех спасут, все вернется на круги своя. Проглядеть это можно, можно и получить удовольствие, если ваши глаза не выморозит местный подход к покраске. 
+
+";s:8:"mjdzText";s:0:"";s:10:"conclusion";s:8:"ЖИЖА";}}}i:3;a:7:{s:5:"autor";a:3:{i:1;a:2:{i:0;s:18:"[Сценарий]";i:1;s:19:"Мэтт Киндт";}i:3;a:2:{i:0;s:16:"[Рисунок]";i:1;s:73:"Кари Эванс, Эрик Нгуен, Андрес Гуинальдо";}i:5;a:2:{i:0;s:10:"[Цвет]";i:1;s:56:"Улисес Арреола, Крис Сотомайор";}}s:4:"name";s:6:"Ninjak";s:7:"edition";s:3:"#20";s:5:"cover";s:54:"assets/images/valiant/images/atv65/ninjak-20-cover.jpg";s:9:"publisher";s:4:"1249";s:4:"year";s:4:"2016";s:8:"comments";a:1:{i:1;a:4:{s:5:"autor";s:6:"183732";s:4:"text";s:6637:"
+
+Помните, как пару лет назад в Villain’s Month DC зачеркнуло оригинальные названия своих серий, заменив их прозвищами злодеев? Похоже, издательству Valiant пришла пора проделать нечто подобное с Ниндзяком, переименовав заголовок комикса в Shadowman. В смысле, вы же видели анонсы января?
+
+Колин и Гилад настигли Доктора Шелка в его убежище, но злодей сумел ускользнуть. И теперь Кулаку и Стали предстоит отправиться за ним в самое сердце Deadside.
+
+В самом переплетении серий *Ninjak* и *Shadowman* нет ничего плохо, например, сюжет Operation: Deadside был вполне достойным. Проблема в том, что истории вокруг Shadowman’a грубо вклиниваются в повествование о Колине, из-за чего получается чехарда, и разрушается единое полотно ориджина Ниндзяка. Понятно, что издательство готовит новый том приключений своего мистического героя (а может и целый магический ивент) и ему нужно поддерживать интерес к персонажу, но официальной информации или анонса пока не было, а значит в ближайшие полгода-год этого не произойдет. Отсюда вопрос: зачем так рано его пиарить, да еще при этом губя хорошую серию?
+
+А то, что комикс скатывается видно невооруженным глазом. Необходимость рекламировать Shadowman’a, видимо, настолько отбила интерес Мэтт Киндта к написанию сценария, что он уже в третий раз подряд строит сюжет выпуска по одной и той же схеме: герои идут из точки А в точку Б, попутно сражаясь и понемногу раскрывая план злодея. Только драки стали выглядеть еще более жалко, а забавные перепалки Колина и Гилада уже не спасают положение.
+
+[[gallery? &id=`1436` &type=`1` &rowHeight=`150` &maxRowHeight=`100%` &captions=`false` &fixedHeight=`false` &lastRow=`justify` &margins=`2`]]
+
+[*Они делают все неправильно!*](https://www.youtube.com/watch?v=_iOC5ajR51g&feature=youtu.be&t=75)
+
+Но полнее всего нежелание Киндта писать проявляется в главе the Lost Files. В номере есть сцена, где Вечный Воин и Ниндзяк попадают в Deadside, там Колин встречает Панк Мамбо из прошлого, и они обсуждают критическое положение героя, зараженного вирусом. Так вот, the Lost Files практически полностью повторяет этот эпизод, только от лица Мамбо. Да, есть такой прием, когда читателю/зрителю предлагают взглянуть на одни и те же события с точки зрения разных персонажей, это позволяет подметить определенные детали, которые были незаметны при первом просмотре, или понять отношение каждого героя к ситуации. Но чтобы этот ход сработал, происходящее нужно слегка изменять, смещать акценты, представлять события глазами конкретного персонажа. В Ninjak #20 нам просто повторяют ту же сцену (только нарисованную другим художником), с теми же кадрами и диалогами, без какого-либо нового взгляда на ситуацию. Блин, это же так весело, заново прочитать то же, что читал пару минут назад!
+
+Ну, хоть не пришлось терпеть Кари Эванса целый выпуск, на помощь ему позвали Эрика Нгуена. Его небрежный рисунок с искаженными фигурами и деформированными фреймами отлично передает сюрреалистическую атмосферу Deadside. Правда, мне кажется, что в покраске Дэвида Барона он смотрелся бы намного лучше.
+
+Раз уже взялись превращать серию в трамплин для Shadowman’a, так почему бы не сделать это хоть немного увлекательно? Как вообще комикс мог получиться интересным, когда ни Киндт, ни тем более Эванс не прилагали при его создании никаких усилий? Но лучше всего мое отношение к выпуску выразит не оценка, а сами персонажи.
+
+[[gallery? &id=`1437` &type=`1` &rowHeight=`150` &maxRowHeight=`100%` &captions=`false` &fixedHeight=`false` &lastRow=`justify` &margins=`2`]]";s:8:"mjdzText";s:0:"";s:10:"conclusion";s:10:"МУСОР";}}}i:4;a:7:{s:5:"autor";a:3:{i:1;a:2:{i:0;s:18:"[Сценарий]";i:1;s:29:"Роберт Вендитти";}i:3;a:2:{i:0;s:16:"[Рисунок]";i:1;s:23:"Роберт Джилл";}i:5;a:2:{i:0;s:10:"[Цвет]";i:1;s:25:"Майкл Спайсер";}}s:4:"name";s:28:"WRATH OF THE ETERNAL WARRIOR";s:7:"edition";s:3:"#12";s:5:"cover";s:53:"assets/images/valiant/images/atv65/wrath-12-cover.jpg";s:9:"publisher";s:4:"1249";s:4:"year";s:4:"2016";s:8:"comments";a:1:{i:1;a:4:{s:5:"autor";s:6:"183732";s:4:"text";s:6892:"
+
+Новость о закрытии *Wrath* *of**the* *Eternal* *Warrior* на четырнадцатом выпуске стала неприятным сюрпризом. Наверняка в издательстве есть какой-то заговор о том, чтобы комиксы о Гиладе не были слишком длинными. Конечно, у серии были неудачные моменты, но в целом это был весьма добротный онгоинг. И если дальнейшее сотрудничество Роберта Вендитти с Valiant меня мало волнует, то вопрос «над чем теперь будет работать Рауль Аллен?» стоит очень остро.
+
+Захваченный демонами Гилад узнает, что его сына держит в плену вовсе не Humongous. Теперь, чтобы спасти Калама, Вечный Воин вынужден пойти на сделку с давним врагом.
+
+«Сделка с дьяволом» вновь возвращает нас к началу серии, тем самым элегантно закольцовывая историю. Получается, Роберт Вендитти делает своеобразный реверанс в сторону Фреда Ван Ленте, который проделывал подобный трюк с другим Анни-Паддой. Гиладу вновь приходится проходить через те же события, но переживает их он совершенно по-другому, переосмысляя свое отношение к ним. Прежде всего, это касается его взаимоотношений с Каламом. Таким образом, сюжетный ход с откатом к началу прекрасно работает на изменение эмоционального/морального облика главного героя, но вредит другой составляющей — сюжету.
+
+И я сейчас даже не о том, что читателю приходится наблюдать за [теми же](http://spidermedia.ru/assets/images/valiant/files/atv65/wrath-12-a01.jpg) ([пусть и слегка измененными](http://spidermedia.ru/assets/images/valiant/files/atv65/wrath-12-a02.jpg)) сценами, я о том, что нас лишают классного злодея. Вендитти же придумал для Гилада отличного противника. Sovereign как нельзя лучше подходит на роль немезиды Вечного Воина, с похожими способностями, огромным влиянием/деньгами и давно затаенной завистью. Плюс, его надменное, аристократичное поведение ярко контрастирует с «варварским» образом Анни-Падды. И вместо него нам предлагают еще более блеклого, чем Humongous, Pale Herder’а.
+
+[[gallery? &id=`1410` &type=`1` &rowHeight=`150` &maxRowHeight=`100%` &captions=`false` &fixedHeight=`false` &lastRow=`justify` &margins=`2`]]
+
+[*Явно учился у мастера*](https://youtu.be/XkU23m6yX04?t=108)
+
+И пока мы не ушли далеко от злодейской темы: мне совершенно не понятна мотивация Humongous’а. Чего это он после стольких веков лютой ненависти решил сотрудничать с Гиладом? Простите, но в объяснение в виде «нарастающей угрозы от другого демона» не верится. Pale Herder нарисован, конечно, впечатляюще (и еще более впечатляюще покрашен), но какой-то серьезной опасности от него не ощущается. Может это от того, что мы ничего о нем не знаем, не видели его в деле? В отличие от Sovereign’а, который на роль финального злодея подходит куда лучше. Но я повторяюсь.
+
+В остальном, к сценарию нет претензий: повествование динамичное, нет лишних сцен или диалогов.
+
+Когда мы обсуждали концовку [«Лабиринта»](../all-things-valiant-59-week-34/#reviews), я много хорошего говорил про дуэт Джилла и Спайсера, но в одиннадцатом выпуске они меня немного расстроили. Раньше при покраске Майк использовал цвета, которые словно бы светились изнутри, а в [прошлом номере](../all-things-valiant-63-week-38/#item2) этого не было. И как приятно, что в Wrath of the Eternal Warrior #12 это свечение вернулось. И отдельно хочется похвалить колориста за потрясающие оттенки бирюзового, которыми выкрашены Соляные Дюны. Кстати, гениально подобранная локация: она позволяет художнику почти не заморачиваться с фонами. Но Роберт Джилл компенсирует это детальной прорисовкой персонажей.
+
+Пусть я и не согласен с некоторыми сценарными решениями, это по-прежнему очень хороший комикс. Жаль, что осталось всего два выпуска.
+
+";s:8:"mjdzText";s:0:"";s:10:"conclusion";s:10:"ДОБРО";}}}i:5;a:7:{s:5:"autor";a:3:{i:1;a:2:{i:0;s:18:"[Сценарий]";i:1;s:103:"Роберт Вендитти, Фред Ван Ленте, Джоди Хаузер, Мэтт Киндт";}i:3;a:2:{i:0;s:16:"[Рисунок]";i:1;s:289:"Джо Беннетт, Клэйтона Хенри, Хавьер Пулидо, Томас Джурелло, Кэри Норд, Дуг Брэйтвэйт, Диего Бернард, Рафа Сандовал, Роберт Джилл, Том Палмер, Роберто Де Ла Торре";}i:5;a:2:{i:0;s:10:"[Цвет]";i:1;s:149:"Улисес Арреола, Брайан Рибер, Мунца Висенте, Диего Родригез, Дэвид Барон, Дин Уайт ";}}s:4:"name";s:11:"X-O Manowar";s:7:"edition";s:3:"#50";s:5:"cover";s:53:"assets/images/valiant/images/atv65/x-o-m-50-cover.jpg";s:9:"publisher";s:4:"1249";s:4:"year";s:4:"2016";s:8:"comments";a:1:{i:1;a:4:{s:5:"autor";s:2:"66";s:4:"text";s:5718:"
+
+Теперь, когда старейшая серия нового «Вэлианта» подошла к концу, окончательно становится понятно, когда и почему она сбилась с пути. Роберт Вендитти безусловно звёзд с неба не хватает, но это не мешало ему писать занимательную историю про «попаданца» в первые два года серии. И всё было бы замечательно, закончи он свой ран аналогичным 25-ым номером (аккурат под кроссовер Armor Hunters), как это сделали другие серии-основатели издательства. На тот момент у комикса была цель, у героя было развитие, у истории был конфликт — было чётко видно, что она куда-то идёт. И кроссовер стал бы её логичным и красивым финалом. Но Вендитти решил, что ему есть что ещё сказать.
+
+И довольно быстро стало ясно, что сказать-то ему особо нечего. Все последующие сюжеты были практически под копирку списаны с уже озвученного эвента, разве только масштаб с каждым разом увеличивался. Но ладно это, куда хуже, что главный герой, Арик, совершенно остановился в развитии. Можно сколько угодно говорить, что Роберт показывал становление короля, но в действительности он им стал ещё в сражении с Охотниками. После этого вся история была про одно. Про то, какой Арик особенный и великолепный. Какой он невероятно крутой. Именно он стал первой линией обороны всей планеты, именно он объединил X-O Army и именно он в конечном итоге примирил людей и вайнов. Не трудно догадаться, кто в финале остановит космические первозданные силы.
+
+![](https://web.archive.org/web/20260208195453im_/http://spidermedia.ru/assets/images/valiant/images/atv65/x-o-manowar-50-image-1.jpg)*I AM THE UNIVERSE*
+
+Каким образом, спросите вы? Да никаким, Арик просто особенный, и именно его эти первозданные силы всё это время искали. Да, теперь он стал всемогущим героем, «champion of all worlds», поэтому Роберту остаётся только уйти — он просто не сможет «апгрейдить» Арика и дальше.
+
+И хорошо, что это всё же произошло, хоть и с опозданием на 2-3 года. За это время все ключевые персонажи вселенной сделали большой шаг вперёд, и только Мановар выглядел пережитком прошлого, который топчется на месте. То, насколько серии жизненно необходимы перемены, лучше всего показали бэк-апы к юбилейному номеру. Каждая из коротких историй выглядит банально свежее и современнее, чем основное действо. Да, все они носят технический характер, будь то прологи к будущим сериям или, наоборот, эпилог к первому кроссоверу вселенной (помните время, когда герои разных серий не бегали постоянно друг к другу в гости?), но все они дарят больше эмоций, чем последние номеров двадцать мучений Вендитти.
+
+![](https://web.archive.org/web/20260208195453im_/http://spidermedia.ru/assets/images/valiant/images/atv65/x-o-manowar-50-image-2.jpg)*All hail King Thor Aric*
+
+Теперь флагманский онгоинг будет перезапущен под руководством Мэтта Киндта, видение которого нам уже протизерили в самом финале. И пусть Мэтт за последние пару лет резко подпортил свою репутацию автора супергероики, он в любом случае выведет серию в куда более светлое будущее, чем если бы это продолжил делать Роберт. Этому и порадуемся.
+
+";s:8:"mjdzText";s:0:"";s:10:"conclusion";s:0:"";}}}}

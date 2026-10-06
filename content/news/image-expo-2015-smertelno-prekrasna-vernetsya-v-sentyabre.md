@@ -1,6 +1,6 @@
 {
   "title": "Image Expo 2015: «Смертельно прекрасна» вернется в сентябре",
-  "date": "2015-01-08T23:45:00+03:00",
+  "date": "2015-01-08T23:45:35+03:00",
   "url": "/news/image-expo-2015-smertelno-prekrasna-vernetsya-v-sentyabre/",
   "original_url": "https://spidermedia.ru/news/image-expo-2015-smertelno-prekrasna-vernetsya-v-sentyabre",
   "archived": "https://web.archive.org/web/20250324223859/https://spidermedia.ru/news/image-expo-2015-smertelno-prekrasna-vernetsya-v-sentyabre",
@@ -9,6 +9,12 @@
     "pretty-deadly",
     "image-comics",
     "image-expo"
+  ],
+  "cover": "https://web.archive.org/web/20160611205353im_/http://spidermedia.ru/assets/images/import_image/8474.jpg",
+  "modx_id": 8474,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

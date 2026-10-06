@@ -1,12 +1,21 @@
 {
   "title": "Drugs, God and Rock'n'Roll",
-  "date": "2009-12-09T00:44:00+03:00",
+  "date": "2009-12-09T00:44:02+03:00",
   "url": "/blog/sonyn/drugs-god-and-rocknroll/",
+  "aliases": [
+    "/node/2158/"
+  ],
   "original_url": "https://spidermedia.ru/blog/sonyn/drugs-god-and-rocknroll",
   "archived": "https://web.archive.org/web/20260125051722/https://spidermedia.ru/blog/sonyn/drugs-god-and-rocknroll",
   "tags": [
     "muzyka",
     "grant-morrison"
+  ],
+  "cover": "https://web.archive.org/web/20260125051722im_/http://spidermedia.ru/assets/images/import_image/2158.jpg",
+  "modx_id": 2158,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

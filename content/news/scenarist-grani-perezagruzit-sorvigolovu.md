@@ -1,12 +1,19 @@
 {
   "title": "Сценарист \"Грани\" перезагрузит \"Сорвиголову\"",
-  "date": "2011-06-08T11:35:00+03:00",
+  "date": "2011-06-08T10:35:31+03:00",
   "url": "/news/scenarist-grani-perezagruzit-sorvigolovu/",
   "original_url": "https://spidermedia.ru/news/scenarist-grani-perezagruzit-sorvigolovu",
   "archived": "https://web.archive.org/web/20260305232859/https://spidermedia.ru/news/scenarist-grani-perezagruzit-sorvigolovu",
   "tags": [
     "daredevil",
-    "marvel"
+    "marvel",
+    "sorvigolova"
+  ],
+  "cover": "https://web.archive.org/web/20150502173004im_/http://spidermedia.ru/assets/images/import_image/6367.gif",
+  "modx_id": 6367,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

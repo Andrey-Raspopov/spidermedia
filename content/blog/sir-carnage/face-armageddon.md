@@ -1,6 +1,6 @@
 {
   "title": "The Face of Armageddon",
-  "date": "2009-03-06T11:08:00+03:00",
+  "date": "2009-03-06T10:08:06+03:00",
   "url": "/blog/sir-carnage/face-armageddon/",
   "original_url": "http://spidermedia.ru/blog/sir-carnage/face-armageddon",
   "archived": "https://web.archive.org/web/20120610052023/http://spidermedia.ru/blog/sir-carnage/face-armageddon",
@@ -9,7 +9,15 @@
     "alan-moore",
     "kino",
     "komiksy",
-    "mnenie"
+    "mnenie",
+    "hraniteli",
+    "alan-mur"
+  ],
+  "cover": "https://web.archive.org/web/20120610052023im_/http://spidermedia.ru/assets/images/import_image/604.jpg",
+  "modx_id": 604,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

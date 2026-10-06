@@ -1,12 +1,18 @@
 {
   "title": "Грант Моррисон вновь поработает с издательством Boom!",
-  "date": "2014-07-23T08:41:00+03:00",
+  "date": "2014-07-23T07:41:33+03:00",
   "url": "/news/grant-morrison-vnov-porabotaet-s-izdatelstvom-boom/",
   "original_url": "http://spidermedia.ru/news/grant-morrison-vnov-porabotaet-s-izdatelstvom-boom",
   "archived": "https://web.archive.org/web/20260125055544/http://spidermedia.ru/news/grant-morrison-vnov-porabotaet-s-izdatelstvom-boom",
   "tags": [
     "grant-morrison",
     "boom-studios"
+  ],
+  "cover": "https://web.archive.org/web/20260125055544im_/http://spidermedia.ru/assets/images/import_image/7911.jpg",
+  "modx_id": 7911,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

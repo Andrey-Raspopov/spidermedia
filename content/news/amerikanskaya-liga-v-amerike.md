@@ -1,6 +1,6 @@
 {
   "title": "Американская Лига в Америке",
-  "date": "2012-08-27T05:28:00+03:00",
+  "date": "2012-08-27T04:28:41+03:00",
   "url": "/news/amerikanskaya-liga-v-amerike/",
   "original_url": "https://spidermedia.ru/news/amerikanskaya-liga-v-amerike",
   "archived": "https://web.archive.org/web/20260314083033/https://spidermedia.ru/news/amerikanskaya-liga-v-amerike",
@@ -9,6 +9,12 @@
     "devid-finch",
     "geoff-johns",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150326160842im_/http://spidermedia.ru/assets/images/import_image/7010.jpg",
+  "modx_id": 7010,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

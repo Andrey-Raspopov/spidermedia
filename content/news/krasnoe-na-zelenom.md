@@ -1,7 +1,10 @@
 {
   "title": "Красное на зеленом",
-  "date": "2009-11-12T18:46:00+03:00",
+  "date": "2009-11-12T18:46:30+03:00",
   "url": "/news/krasnoe-na-zelenom/",
+  "aliases": [
+    "/node/2086/"
+  ],
   "original_url": "https://spidermedia.ru/news/krasnoe-na-zelenom",
   "archived": "https://web.archive.org/web/20250424101912/https://spidermedia.ru/news/krasnoe-na-zelenom",
   "tags": [
@@ -14,6 +17,12 @@
     "guy-gardner",
     "dc-comics",
     "blackest-night"
+  ],
+  "cover": "https://web.archive.org/web/20250424101912im_/http://spidermedia.ru/assets/images/import_image/2086.jpg",
+  "modx_id": 2086,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

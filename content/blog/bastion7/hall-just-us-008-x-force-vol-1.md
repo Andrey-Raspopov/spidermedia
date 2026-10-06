@@ -1,7 +1,10 @@
 {
   "title": "Hall of Just Us 008: X-Force Vol. 1",
-  "date": "2010-11-13T23:19:00+03:00",
+  "date": "2010-11-13T23:19:47+03:00",
   "url": "/blog/bastion7/hall-just-us-008-x-force-vol-1/",
+  "aliases": [
+    "/node/3063/"
+  ],
   "original_url": "http://spidermedia.ru/blog/bastion7/hall-just-us-008-x-force-vol-1",
   "archived": "https://web.archive.org/web/20260214143206/http://spidermedia.ru/blog/bastion7/hall-just-us-008-x-force-vol-1",
   "tags": [
@@ -10,6 +13,12 @@
     "x-force",
     "marvel",
     "hall-of-just-us"
+  ],
+  "cover": "https://web.archive.org/web/20260214143206im_/http://spidermedia.ru/assets/images/import_image/3063.jpg",
+  "modx_id": 3063,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

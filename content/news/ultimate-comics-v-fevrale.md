@@ -1,7 +1,10 @@
 {
   "title": "Ultimate Comics в феврале",
-  "date": "2009-11-17T04:40:00+03:00",
+  "date": "2009-11-17T04:40:14+03:00",
   "url": "/news/ultimate-comics-v-fevrale/",
+  "aliases": [
+    "/node/2102/"
+  ],
   "original_url": "https://spidermedia.ru/news/ultimate-comics-v-fevrale",
   "archived": "https://web.archive.org/web/20260116212733/https://spidermedia.ru/news/ultimate-comics-v-fevrale",
   "tags": [
@@ -18,6 +21,12 @@
     "ed-mcguinness",
     "david-lafuente",
     "brian-michael-bendis"
+  ],
+  "cover": "https://web.archive.org/web/20260116212733im_/http://spidermedia.ru/assets/images/import_image/2102.jpg",
+  "modx_id": 2102,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

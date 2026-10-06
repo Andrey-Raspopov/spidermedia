@@ -8,6 +8,12 @@
     "neil-gaiman-sandman",
     "vertigo"
   ],
+  "cover": "https://web.archive.org/web/20160506201204im_/http://spidermedia.ru/assets/images/news/movies/_dc_comics/ppbtqgpvwy6j4v8knzpg.jpg",
+  "modx_id": 100972,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

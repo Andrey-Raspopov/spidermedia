@@ -8,6 +8,12 @@
     "mnenie",
     "russian-comics"
   ],
+  "cover": "https://web.archive.org/web/20240920062556im_/http://spidermedia.ru/assets/images/reviews/comfederation/pyosya/57b2c9afc146e27dd4c272409bf10c0df6e9a354.jpg",
+  "modx_id": 101607,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,7 +1,10 @@
 {
   "title": "Бородатый греческий Тор",
-  "date": "2009-05-04T21:18:00+03:00",
+  "date": "2009-05-04T20:18:21+03:00",
   "url": "/news/borodatyy-grecheskiy-tor/",
+  "aliases": [
+    "/node/1098/"
+  ],
   "original_url": "http://spidermedia.ru/news/borodatyy-grecheskiy-tor",
   "archived": "https://web.archive.org/web/20120608020449/http://spidermedia.ru/news/borodatyy-grecheskiy-tor",
   "tags": [
@@ -12,6 +15,12 @@
     "marvel",
     "oblozhki",
     "tor"
+  ],
+  "cover": "https://web.archive.org/web/20120608020449im_/http://spidermedia.ru/assets/images/import_image/1098.jpg",
+  "modx_id": 1098,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

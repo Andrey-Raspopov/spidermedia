@@ -1,6 +1,6 @@
 {
   "title": "Молодым уже 75",
-  "date": "2009-09-29T20:46:00+03:00",
+  "date": "2009-09-29T19:46:20+03:00",
   "url": "/news/molodym-uzhe-75/",
   "original_url": "http://spidermedia.ru/news/molodym-uzhe-75",
   "archived": "https://web.archive.org/web/20120607085900/http://spidermedia.ru/news/molodym-uzhe-75",
@@ -8,6 +8,12 @@
     "dc-comics",
     "teen-titans",
     "komiksy"
+  ],
+  "cover": "https://web.archive.org/web/20120607085900im_/http://spidermedia.ru/assets/images/import_image/1943.jpg",
+  "modx_id": 1943,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

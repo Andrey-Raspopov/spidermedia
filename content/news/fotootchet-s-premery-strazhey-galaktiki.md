@@ -1,6 +1,6 @@
 {
   "title": "Фотоотчет с премьеры \"Стражей галактики\"",
-  "date": "2014-07-25T20:35:00+03:00",
+  "date": "2014-07-25T19:35:25+03:00",
   "url": "/news/fotootchet-s-premery-strazhey-galaktiki/",
   "original_url": "http://spidermedia.ru/news/fotootchet-s-premery-strazhey-galaktiki",
   "archived": "https://web.archive.org/web/20250119074229/http://spidermedia.ru/news/fotootchet-s-premery-strazhey-galaktiki",
@@ -9,6 +9,12 @@
     "marvel",
     "disnej",
     "aleksandr-nevskij"
+  ],
+  "cover": "https://web.archive.org/web/20250119074229im_/http://spidermedia.ru/assets/images/import_image/7925.jpg",
+  "modx_id": 7925,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

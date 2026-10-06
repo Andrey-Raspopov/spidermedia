@@ -4,6 +4,12 @@
   "url": "/movies/recenziya-aquaman/",
   "original_url": "http://spidermedia.ru/movies/recenziya-aquaman",
   "archived": "https://web.archive.org/web/20251108041942/http://spidermedia.ru/movies/recenziya-aquaman",
+  "cover": "https://web.archive.org/web/20251108041942im_/http://spidermedia.ru/assets/images/movies/dc/aquaman-2018/oblozhka.jpg",
+  "modx_id": 102059,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -8,6 +8,12 @@
     "spider-man",
     "marvel"
   ],
+  "cover": "https://web.archive.org/web/20171024103547im_/http://spidermedia.ru/assets/images/animation/marvel/sony-spider-man/art-koncept-novogo-chelovekapauka-prodolzhenie-v-kommentariyah-535730.jpeg",
+  "modx_id": 101090,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

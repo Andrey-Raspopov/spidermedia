@@ -1,6 +1,6 @@
 {
   "title": "Дэвид Хейтер адаптирует THE SWORD",
-  "date": "2013-07-10T12:57:00+03:00",
+  "date": "2013-07-10T11:57:03+03:00",
   "url": "/news/devid-heyter-adaptiruet-scenariy-komiksa-sword/",
   "original_url": "http://spidermedia.ru/news/devid-heyter-adaptiruet-scenariy-komiksa-sword",
   "archived": "https://web.archive.org/web/20260314081232/http://spidermedia.ru/news/devid-heyter-adaptiruet-scenariy-komiksa-sword",
@@ -9,6 +9,12 @@
     "luna-brothers",
     "the-sword",
     "image-comics"
+  ],
+  "cover": "https://web.archive.org/web/20260314081232im_/http://spidermedia.ru/assets/images/import_image/7325.jpg",
+  "modx_id": 7325,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

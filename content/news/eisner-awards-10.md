@@ -1,13 +1,22 @@
 {
   "title": "Eisner Awards '10",
-  "date": "2010-04-11T20:45:00+03:00",
+  "date": "2010-04-11T19:45:40+03:00",
   "url": "/news/eisner-awards-10/",
+  "aliases": [
+    "/node/2532/"
+  ],
   "original_url": "http://spidermedia.ru/news/eisner-awards-10",
   "archived": "https://web.archive.org/web/20250715231533/http://spidermedia.ru/news/eisner-awards-10",
   "tags": [
     "nagrady",
     "manga",
     "eisner-awards"
+  ],
+  "cover": "https://web.archive.org/web/20150428171047im_/http://spidermedia.ru/assets/images/import_image/2532.jpg",
+  "modx_id": 2532,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

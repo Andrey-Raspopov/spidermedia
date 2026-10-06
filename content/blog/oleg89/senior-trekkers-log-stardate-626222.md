@@ -1,7 +1,10 @@
 {
   "title": "Senior trekker's log, stardate 62622.2",
-  "date": "2009-02-26T12:48:00+03:00",
+  "date": "2009-02-26T12:48:26+03:00",
   "url": "/blog/oleg89/senior-trekkers-log-stardate-626222/",
+  "aliases": [
+    "/node/518/"
+  ],
   "original_url": "http://spidermedia.ru/blog/oleg89/senior-trekkers-log-stardate-626222",
   "archived": "https://web.archive.org/web/20251207012205/http://spidermedia.ru/blog/oleg89/senior-trekkers-log-stardate-626222",
   "tags": [
@@ -19,6 +22,12 @@
     "patrik-zircher",
     "terri-pallot",
     "jen-edzhinton"
+  ],
+  "cover": "https://web.archive.org/web/20160512113110im_/http://spidermedia.ru/assets/images/import_image/518.jpg",
+  "modx_id": 518,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

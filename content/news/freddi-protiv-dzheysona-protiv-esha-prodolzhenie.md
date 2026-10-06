@@ -1,7 +1,10 @@
 {
   "title": "Фредди против Джейсона против Эша: Продолжение",
-  "date": "2009-03-19T02:09:00+03:00",
+  "date": "2009-03-19T02:09:54+03:00",
   "url": "/news/freddi-protiv-dzheysona-protiv-esha-prodolzhenie/",
+  "aliases": [
+    "/node/712/"
+  ],
   "original_url": "http://spidermedia.ru/news/freddi-protiv-dzheysona-protiv-esha-prodolzhenie",
   "archived": "https://web.archive.org/web/20260121010301/http://spidermedia.ru/news/freddi-protiv-dzheysona-protiv-esha-prodolzhenie",
   "tags": [
@@ -11,6 +14,12 @@
     "jason",
     "army-of-darkness",
     "freddy-krueger"
+  ],
+  "cover": "https://web.archive.org/web/20260121010301im_/http://spidermedia.ru/assets/images/import_image/712.jpg",
+  "modx_id": 712,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

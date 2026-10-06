@@ -8,6 +8,12 @@
     "jellyfish-jam",
     "russian-comics"
   ],
+  "cover": "https://web.archive.org/web/20240802162938im_/http://spidermedia.ru/assets/images/reviews/jellyfish/intergala-tv/oblozhka.jpg",
+  "modx_id": 101773,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

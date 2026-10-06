@@ -1,7 +1,10 @@
 {
   "title": "Превью Captain America #600",
-  "date": "2009-05-27T14:53:00+03:00",
+  "date": "2009-05-27T13:53:29+03:00",
   "url": "/news/prevyu-captain-america-600/",
+  "aliases": [
+    "/node/1285/"
+  ],
   "original_url": "http://spidermedia.ru/news/prevyu-captain-america-600",
   "archived": "https://web.archive.org/web/20251209145443/http://spidermedia.ru/news/prevyu-captain-america-600",
   "tags": [
@@ -15,7 +18,13 @@
     "sten-li",
     "ed-brubaker",
     "rodzher-stern",
-    "luke-ross"
+    "luke-ross",
+    "prevyu"
+  ],
+  "modx_id": 1285,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

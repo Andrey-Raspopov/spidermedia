@@ -1,7 +1,10 @@
 {
   "title": "NYCC'10: Astonishing Captain America",
-  "date": "2010-10-09T12:45:00+03:00",
+  "date": "2010-10-09T11:45:27+03:00",
   "url": "/news/nycc10-astonishing-captain-america/",
+  "aliases": [
+    "/node/2982/"
+  ],
   "original_url": "http://spidermedia.ru/news/nycc10-astonishing-captain-america",
   "archived": "https://web.archive.org/web/20251211020036/http://spidermedia.ru/news/nycc10-astonishing-captain-america",
   "tags": [
@@ -12,6 +15,12 @@
     "captain-america",
     "komik-kon-v-nyu-yorke",
     "nycc-2010"
+  ],
+  "cover": "https://web.archive.org/web/20251211020036im_/http://spidermedia.ru/assets/images/import_image/2982.jpg",
+  "modx_id": 2982,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

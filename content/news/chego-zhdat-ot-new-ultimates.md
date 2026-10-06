@@ -1,7 +1,10 @@
 {
   "title": "Чего ждать от New Ultimates?",
-  "date": "2009-02-11T12:56:00+03:00",
+  "date": "2009-02-11T12:56:10+03:00",
   "url": "/news/chego-zhdat-ot-new-ultimates/",
+  "aliases": [
+    "/node/308/"
+  ],
   "original_url": "https://spidermedia.ru/news/chego-zhdat-ot-new-ultimates",
   "archived": "https://web.archive.org/web/20250806050723/https://spidermedia.ru/news/chego-zhdat-ot-new-ultimates",
   "tags": [
@@ -10,11 +13,17 @@
     "ultimate",
     "ultimates"
   ],
+  "cover": "https://web.archive.org/web/20250806050723im_/http://spidermedia.ru/assets/images/import_image/308.jpg",
+  "modx_id": 308,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![Photobucket](https://web.archive.org/web/20250806050723im_/http://img.photobucket.com/albums/v499/sp888/09975.jpg)](http://smg.photobucket.com/albums/v499/sp888/?action=view¤t=1693359_2880x720.jpg)Мы уже [писали](../../node/286/) о том, что **Ultimate Universe** ожидает перезагрузка. Писали мы и о том, что одним из новых тайтлов, которые выйдут после **ULTIMATUM**'а, будет новое творение **Джефа Лоеба** *(Jeph Loed)* - **New Ultimates**. Художником комикса выступит известный рисовальщик женских прелестей **Френк Чо** *(Frank Cho)*. Что же нам обещает Джеф? Многое, но ничего конкретного, мотивируя это тем, что **ULTIMATUM** ещё не подошел к концу!
+[![Photobucket](https://web.archive.org/web/20250806050723im_/http://img.photobucket.com/albums/v499/sp888/09975.jpg)](http://smg.photobucket.com/albums/v499/sp888/?action=view¤t=1693359_2880x720.jpg)Мы уже [писали](../konec-ultimate-universe/) о том, что **Ultimate Universe** ожидает перезагрузка. Писали мы и о том, что одним из новых тайтлов, которые выйдут после **ULTIMATUM**'а, будет новое творение **Джефа Лоеба** *(Jeph Loed)* - **New Ultimates**. Художником комикса выступит известный рисовальщик женских прелестей **Френк Чо** *(Frank Cho)*. Что же нам обещает Джеф? Многое, но ничего конкретного, мотивируя это тем, что **ULTIMATUM** ещё не подошел к концу!
 
 Осветим основные моменты, которые мы знаем о комиксе прямо сейчас:
 

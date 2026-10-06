@@ -1,6 +1,6 @@
 {
   "title": "Возрождение Ultimate: Hawkeye",
-  "date": "2011-05-05T00:10:00+03:00",
+  "date": "2011-05-04T23:10:21+03:00",
   "url": "/news/vozrozhdenie-ultimate-hawkeye/",
   "original_url": "http://spidermedia.ru/news/vozrozhdenie-ultimate-hawkeye",
   "archived": "https://web.archive.org/web/20251115040148/http://spidermedia.ru/news/vozrozhdenie-ultimate-hawkeye",
@@ -11,6 +11,12 @@
     "marvel",
     "darkhawk",
     "hawkeye"
+  ],
+  "cover": "https://web.archive.org/web/20251115040148im_/http://spidermedia.ru/assets/images/import_image/5481.jpg",
+  "modx_id": 5481,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

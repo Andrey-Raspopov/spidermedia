@@ -8,6 +8,12 @@
     "disney",
     "zvezdnye-vojny"
   ],
+  "cover": "https://web.archive.org/web/20250717180238im_/http://spidermedia.ru/assets/images/news/movies/star-wars/30i7e35egii.jpg",
+  "modx_id": 100189,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,6 +1,6 @@
 {
   "title": "Nameless, unreasoning, unjustified terror: Панель Fear Itself на C2E2",
-  "date": "2011-03-20T00:13:00+03:00",
+  "date": "2011-03-20T00:13:24+03:00",
   "url": "/news/nameless-unreasoning-unjustified-terror-panel-fear-itself-na-c2e2/",
   "original_url": "http://spidermedia.ru/news/nameless-unreasoning-unjustified-terror-panel-fear-itself-na-c2e2",
   "archived": "https://web.archive.org/web/20260120160314/http://spidermedia.ru/news/nameless-unreasoning-unjustified-terror-panel-fear-itself-na-c2e2",
@@ -15,7 +15,15 @@
     "prizrachnyj-gonshhik",
     "captain-america",
     "brian-michael-bendis",
-    "avengers"
+    "avengers",
+    "tor",
+    "zheleznyy-chelovek"
+  ],
+  "cover": "https://web.archive.org/web/20260120160314im_/http://spidermedia.ru/assets/images/import_image/4282.jpg",
+  "modx_id": 4282,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

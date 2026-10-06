@@ -9,6 +9,12 @@
     "batman",
     "tom-king"
   ],
+  "cover": "https://web.archive.org/web/20260312014054im_/http://spidermedia.ru/assets/images/reviews/dc/batman/tom-king/50/mzk.jpg",
+  "modx_id": 101959,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -9,6 +9,12 @@
     "batman",
     "batman-week"
   ],
+  "cover": "https://web.archive.org/web/20260206224241im_/http://spidermedia.ru/assets/images/mzhdz/2016/batman/batmandeathbydesign.jpg",
+  "modx_id": 101342,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

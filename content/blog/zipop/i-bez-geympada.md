@@ -1,6 +1,6 @@
 {
   "title": "И без геймпада!",
-  "date": "2009-06-06T00:41:00+03:00",
+  "date": "2009-06-05T23:41:56+03:00",
   "url": "/blog/zipop/i-bez-geympada/",
   "original_url": "http://spidermedia.ru/blog/zipop/i-bez-geympada",
   "archived": "https://web.archive.org/web/20260211183219/http://spidermedia.ru/blog/zipop/i-bez-geympada",
@@ -8,6 +8,12 @@
     "igry",
     "gadzhety",
     "project-natal"
+  ],
+  "cover": "https://web.archive.org/web/20180201120052im_/http://spidermedia.ru/assets/images/import_image/1362.jpg",
+  "modx_id": 1362,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Made in Russia",
-  "date": "2010-03-13T02:02:00+03:00",
+  "date": "2010-03-13T01:02:07+03:00",
   "url": "/news/made-russia/",
   "original_url": "http://spidermedia.ru/news/made-russia",
   "archived": "https://web.archive.org/web/20120607133313/http://spidermedia.ru/news/made-russia",
@@ -13,7 +13,15 @@
     "komiksy",
     "marvel",
     "oblozhki",
-    "stiv-ellis"
+    "stiv-ellis",
+    "art",
+    "klejton-genri"
+  ],
+  "cover": "https://web.archive.org/web/20120607133313im_/http://spidermedia.ru/assets/images/import_image/2435.jpg",
+  "modx_id": 2435,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

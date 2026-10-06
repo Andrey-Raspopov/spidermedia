@@ -1,6 +1,6 @@
 {
   "title": "Комикс Мэтта Киндта о путешественниках во времени выйдет в 2015",
-  "date": "2014-07-11T14:14:00+03:00",
+  "date": "2014-07-11T13:14:26+03:00",
   "url": "/news/komiks-metta-kindta-o-puteshestveniikah-vo-vremeni-vyydet-v-2015/",
   "original_url": "https://spidermedia.ru/news/komiks-metta-kindta-o-puteshestveniikah-vo-vremeni-vyydet-v-2015",
   "archived": "https://web.archive.org/web/20251111073723/https://spidermedia.ru/news/komiks-metta-kindta-o-puteshestveniikah-vo-vremeni-vyydet-v-2015",
@@ -8,6 +8,12 @@
     "skott-kolins",
     "mett-kindt",
     "dark-horse"
+  ],
+  "cover": "https://web.archive.org/web/20160611151752im_/http://spidermedia.ru/assets/images/import_image/7879.jpg",
+  "modx_id": 7879,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

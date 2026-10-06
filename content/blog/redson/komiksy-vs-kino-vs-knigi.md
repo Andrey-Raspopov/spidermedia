@@ -1,11 +1,17 @@
 {
   "title": "Комиксы VS Кино VS Книги",
-  "date": "2011-08-29T22:33:00+03:00",
+  "date": "2011-08-29T21:33:03+03:00",
   "url": "/blog/redson/komiksy-vs-kino-vs-knigi/",
   "original_url": "https://spidermedia.ru/blog/redson/komiksy-vs-kino-vs-knigi",
   "archived": "https://web.archive.org/web/20260313103810/https://spidermedia.ru/blog/redson/komiksy-vs-kino-vs-knigi",
   "tags": [
     "mnenie"
+  ],
+  "cover": "https://web.archive.org/web/20260313103810im_/http://spidermedia.ru/assets/images/import_image/6586.jpg",
+  "modx_id": 6586,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

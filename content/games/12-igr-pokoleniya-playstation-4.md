@@ -4,6 +4,12 @@
   "url": "/games/12-igr-pokoleniya-playstation-4/",
   "original_url": "http://spidermedia.ru/games/12-igr-pokoleniya-playstation-4",
   "archived": "https://web.archive.org/web/20260209112738/http://spidermedia.ru/games/12-igr-pokoleniya-playstation-4",
+  "cover": "https://web.archive.org/web/20230726002551im_/http://spidermedia.ru/assets/images/games/12ps4/00.jpg",
+  "modx_id": 102308,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
@@ -47,7 +53,7 @@ Days Gone
 
 Эту игру я считаю жутко недооценённой, но это интересный пример неидеального эксклюзива от Playstation. В Days Gone есть несколько уникальных игровых механик, которые делают ее более интересной, чем может показаться на первый взгляд: это Орды Фрикеров, чье число может перевалить за сотню, и геймплей, выстроенный вокруг байков. Да и в хорошем смысле сериальный сюжет цепляет. И, конечно, прекрасный Сэм Уитвер в роли Дикона Сейнт-Джона прибавляет игре баллов.
 
-[**Рецензия**](https://web.archive.org/web/20260208193205/http://spidermedia.ru/games/gamermedia-16-bajkery-i-nindzya)
+[**Рецензия**](../gamermedia-16-bajkery-i-nindzya/)
 
 - [![](https://web.archive.org/web/20230725234105im_/http://spidermedia.ru/assets/cache/images/games/12ps4/200x300-uncharted_4_box.159.jpg)](https://web.archive.org/web/20210822151245im_/https://spidermedia.ru/assets/images/games/12ps4/uncharted_4_box.jpg)
 
@@ -59,7 +65,7 @@ Uncharted 4: A Thief's End
 
 Uncharted 4 на момент выхода — это проект, в котором Naughty Dog аккумулировали весь свой опыт и создали потрясающую игру. Это и сейчас великолепная игра — комплексная, умная, интересная, выверенная. Тогда завершение истории Дрейка подвело черту и консольным эксклюзивам. Именно с того момента не только конкурентам, но и самой Sony, пришлось стремиться к определенной планке качества в плане своих эксклюзивов.
 
-[**Рецензия**](https://web.archive.org/web/20260117215350/https://spidermedia.ru/games/recenziya-uncharted-4-a-thiefs-end)
+[**Рецензия**](../recenziya-uncharted-4-a-thiefs-end/)
 
 - [![](https://web.archive.org/web/20230725234105im_/http://spidermedia.ru/assets/cache/images/games/12ps4/200x300-357478-until-dawn-playstation-4-front-cover.159.jpg)](https://web.archive.org/web/20210822044500im_/https://spidermedia.ru/assets/images/games/12ps4/357478-until-dawn-playstation-4-front-cover.jpg)
 
@@ -130,7 +136,7 @@ God of War
 Кратос вернулся, с новым геймплеем и подачей, но прежним духом и сердцем.
  Прекрасное приключение Отца и Сына «единым кадром». Масштабное, свежее, интересное. Именно так надо делать новое направление, когда старая серия нуждается в приливе сил. Это, несомненно, было значимое событие для всех обладателей PS4 и неплохой стимул приобрести консоль.
 
-[**Рецензия**](https://web.archive.org/web/20260307054201/http://spidermedia.ru/games/god-of-war-review)
+[**Рецензия**](../god-of-war-review/)
 
 - [![](https://web.archive.org/web/20230725231340im_/http://spidermedia.ru/assets/cache/images/games/12ps4/200x300-screenshot-80.159.jpg)](https://web.archive.org/web/20210822024023im_/https://spidermedia.ru/assets/images/games/12ps4/screenshot-80.png)
 

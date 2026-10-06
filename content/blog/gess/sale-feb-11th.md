@@ -1,13 +1,19 @@
 {
   "title": "On sale Feb. 11th",
-  "date": "2009-02-10T04:47:00+03:00",
+  "date": "2009-02-10T03:47:15+03:00",
   "url": "/blog/gess/sale-feb-11th/",
   "original_url": "http://spidermedia.ru/blog/gess/sale-feb-11th",
   "archived": "https://web.archive.org/web/20120609051814/http://spidermedia.ru/blog/gess/sale-feb-11th",
   "tags": [
     "sale-week",
     "komiksy",
-    "mnenie"
+    "mnenie",
+    "on-sale-this-week"
+  ],
+  "modx_id": 292,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

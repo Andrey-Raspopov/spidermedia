@@ -1,12 +1,18 @@
 {
   "title": "Сериал по комиксу iZombie выйдет в 2015",
-  "date": "2014-05-16T11:46:00+03:00",
+  "date": "2014-05-16T10:46:28+03:00",
   "url": "/news/serial-po-komiksu-izombie-vyydet-v-2015/",
   "original_url": "https://spidermedia.ru/news/serial-po-komiksu-izombie-vyydet-v-2015",
   "archived": "https://web.archive.org/web/20250425232117/https://spidermedia.ru/news/serial-po-komiksu-izombie-vyydet-v-2015",
   "tags": [
     "izombie",
     "vertigo"
+  ],
+  "cover": "https://web.archive.org/web/20150424101944im_/http://spidermedia.ru/assets/images/import_image/7742.jpg",
+  "modx_id": 7742,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

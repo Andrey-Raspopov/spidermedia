@@ -1,11 +1,17 @@
 {
   "title": "R.I.P. Джон Северин",
-  "date": "2012-02-15T10:17:00+03:00",
+  "date": "2012-02-15T09:17:31+03:00",
   "url": "/news/rip-dzhon-severin/",
   "original_url": "http://spidermedia.ru/news/rip-dzhon-severin",
   "archived": "https://web.archive.org/web/20120610155201/http://spidermedia.ru/news/rip-dzhon-severin",
   "tags": [
     "dzhon-severin"
+  ],
+  "cover": "https://web.archive.org/web/20120610155201im_/http://spidermedia.ru/assets/images/import_image/6786.jpg",
+  "modx_id": 6786,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

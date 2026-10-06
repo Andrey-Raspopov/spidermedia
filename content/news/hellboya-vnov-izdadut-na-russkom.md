@@ -1,6 +1,6 @@
 {
   "title": "\"Хеллбоя\" вновь издадут на русском",
-  "date": "2012-11-29T21:37:00+03:00",
+  "date": "2012-11-29T20:37:43+03:00",
   "url": "/news/hellboya-vnov-izdadut-na-russkom/",
   "original_url": "http://spidermedia.ru/news/hellboya-vnov-izdadut-na-russkom",
   "archived": "https://web.archive.org/web/20251216180458/http://spidermedia.ru/news/hellboya-vnov-izdadut-na-russkom",
@@ -9,6 +9,12 @@
     "zarubezhnye-komiksy-na-russkom",
     "belyj-edinorog",
     "dark-horse"
+  ],
+  "cover": "https://web.archive.org/web/20251216180458im_/http://spidermedia.ru/assets/images/import_image/7096.png",
+  "modx_id": 7096,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

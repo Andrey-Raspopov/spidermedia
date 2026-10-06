@@ -1,11 +1,17 @@
 {
   "title": "День новых комиксов: 6 ноября",
-  "date": "2013-11-06T14:04:00+03:00",
+  "date": "2013-11-06T13:04:55+03:00",
   "url": "/news/den-novyh-komiksov-6-noyabrya/",
   "original_url": "http://spidermedia.ru/news/den-novyh-komiksov-6-noyabrya",
   "archived": "https://web.archive.org/web/20260307054334/http://spidermedia.ru/news/den-novyh-komiksov-6-noyabrya",
   "tags": [
     "den-novyh-komiksov"
+  ],
+  "cover": "https://web.archive.org/web/20150428180702im_/http://spidermedia.ru/assets/images/import_image/7532.jpg",
+  "modx_id": 7532,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

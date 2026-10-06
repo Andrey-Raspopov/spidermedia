@@ -1,12 +1,17 @@
 {
   "title": "Закурить не найдется?",
-  "date": "2009-09-24T21:44:00+03:00",
+  "date": "2009-09-24T20:44:21+03:00",
   "url": "/blog/alex/zakurit-ne-naydetsya/",
   "original_url": "http://spidermedia.ru/blog/alex/zakurit-ne-naydetsya",
   "archived": "https://web.archive.org/web/20260121003718/http://spidermedia.ru/blog/alex/zakurit-ne-naydetsya",
   "tags": [
     "hellblazer",
     "fanart"
+  ],
+  "modx_id": 1928,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

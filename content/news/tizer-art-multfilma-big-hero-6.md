@@ -1,6 +1,6 @@
 {
   "title": "Тизер-арт мультфильма BIG HERO 6",
-  "date": "2013-08-09T15:44:00+03:00",
+  "date": "2013-08-09T14:44:47+03:00",
   "url": "/news/tizer-art-multfilma-big-hero-6/",
   "original_url": "http://spidermedia.ru/news/tizer-art-multfilma-big-hero-6",
   "archived": "https://web.archive.org/web/20260120153255/http://spidermedia.ru/news/tizer-art-multfilma-big-hero-6",
@@ -8,6 +8,12 @@
     "marvel",
     "animaciya",
     "big-hero-6"
+  ],
+  "cover": "https://web.archive.org/web/20150326160646im_/http://spidermedia.ru/assets/images/import_image/7414.jpg",
+  "modx_id": 7414,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -4,6 +4,9 @@
   "url": "/docs/review/list/",
   "original_url": "http://www.spidermedia.ru/docs/review/list.html",
   "archived": "https://web.archive.org/web/20050307034700/http://www.spidermedia.ru:80/docs/review/list.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

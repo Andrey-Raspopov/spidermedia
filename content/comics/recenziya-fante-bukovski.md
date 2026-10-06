@@ -8,6 +8,12 @@
     "komiksy",
     "recenziya"
   ],
+  "cover": "https://web.archive.org/web/20251110225947im_/http://spidermedia.ru/assets/images/reviews/comfederation/fante/fantecover.jpg",
+  "modx_id": 101524,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

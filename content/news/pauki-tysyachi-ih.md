@@ -1,6 +1,6 @@
 {
   "title": "Пауки, тысячи их",
-  "date": "2011-03-23T22:10:00+03:00",
+  "date": "2011-03-23T22:10:03+03:00",
   "url": "/news/pauki-tysyachi-ih/",
   "original_url": "http://spidermedia.ru/news/pauki-tysyachi-ih",
   "archived": "https://web.archive.org/web/20260214132756/http://spidermedia.ru/news/pauki-tysyachi-ih",
@@ -10,7 +10,14 @@
     "art-0",
     "spider-man",
     "spider-island",
-    "ostrov-pauka"
+    "ostrov-pauka",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20260214132756im_/http://spidermedia.ru/assets/images/import_image/4391.jpg",
+  "modx_id": 4391,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,12 +1,18 @@
 {
   "title": "«Человек-Муравей»: промо-арт и мерчендайз",
-  "date": "2015-02-26T12:40:00+03:00",
+  "date": "2015-02-26T12:40:41+03:00",
   "url": "/news/chelovek-muravey-promo-art-i-merchendayz/",
   "original_url": "https://spidermedia.ru/news/chelovek-muravey-promo-art-i-merchendayz",
   "archived": "https://web.archive.org/web/20260211180033/https://spidermedia.ru/news/chelovek-muravey-promo-art-i-merchendayz",
   "tags": [
     "ant-man",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150326034702im_/http://spidermedia.ru/assets/images/import_image/8652.jpg",
+  "modx_id": 8652,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

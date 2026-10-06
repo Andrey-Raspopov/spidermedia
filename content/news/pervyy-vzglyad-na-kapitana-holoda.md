@@ -1,13 +1,20 @@
 {
   "title": "Первый взгляд на Капитана Холода",
-  "date": "2014-10-08T01:01:00+03:00",
+  "date": "2014-10-08T00:01:11+03:00",
   "url": "/news/pervyy-vzglyad-na-kapitana-holoda/",
   "original_url": "http://spidermedia.ru/news/pervyy-vzglyad-na-kapitana-holoda",
   "archived": "https://web.archive.org/web/20251107025426/http://spidermedia.ru/news/pervyy-vzglyad-na-kapitana-holoda",
   "tags": [
     "the-flash",
     "serialy",
-    "kapitan-holod"
+    "kapitan-holod",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20251107025426im_/http://spidermedia.ru/assets/images/import_image/8146.jpg",
+  "modx_id": 8146,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

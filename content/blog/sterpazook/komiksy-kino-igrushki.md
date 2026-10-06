@@ -1,14 +1,24 @@
 {
   "title": "Комиксы + Кино = Игрушки",
-  "date": "2009-02-28T14:10:00+03:00",
+  "date": "2009-02-28T14:10:55+03:00",
   "url": "/blog/sterpazook/komiksy-kino-igrushki/",
+  "aliases": [
+    "/node/543/"
+  ],
   "original_url": "https://spidermedia.ru/blog/sterpazook/komiksy-kino-igrushki",
   "archived": "https://web.archive.org/web/20250321093424/https://spidermedia.ru/blog/sterpazook/komiksy-kino-igrushki",
   "tags": [
     "iron-man",
     "gi-joe",
     "wolverine",
-    "transformers"
+    "transformers",
+    "zheleznyy-chelovek"
+  ],
+  "cover": "https://web.archive.org/web/20250321093424im_/http://spidermedia.ru/assets/images/import_image/543.jpg",
+  "modx_id": 543,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

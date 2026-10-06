@@ -1,13 +1,20 @@
 {
   "title": "У Тора есть отец",
-  "date": "2009-06-03T13:29:00+03:00",
+  "date": "2009-06-03T12:29:37+03:00",
   "url": "/news/u-tora-est-otec/",
   "original_url": "http://spidermedia.ru/news/u-tora-est-otec",
   "archived": "https://web.archive.org/web/20250909124339/http://spidermedia.ru/news/u-tora-est-otec",
   "tags": [
     "marvel",
     "thor",
-    "odin"
+    "odin",
+    "tor"
+  ],
+  "cover": "https://web.archive.org/web/20250909124339im_/http://spidermedia.ru/assets/images/import_image/1340.jpg",
+  "modx_id": 1340,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

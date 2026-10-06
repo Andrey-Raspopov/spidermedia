@@ -1,7 +1,10 @@
 {
   "title": "Да будет Свет!",
-  "date": "2010-01-11T20:04:00+03:00",
+  "date": "2010-01-11T20:04:35+03:00",
   "url": "/news/da-budet-svet/",
+  "aliases": [
+    "/node/2241/"
+  ],
   "original_url": "https://spidermedia.ru/news/da-budet-svet",
   "archived": "https://web.archive.org/web/20251013190646/https://spidermedia.ru/news/da-budet-svet",
   "tags": [
@@ -17,6 +20,12 @@
     "the-flash",
     "dc-comics",
     "blackest-night"
+  ],
+  "cover": "https://web.archive.org/web/20251013190646im_/http://spidermedia.ru/assets/images/import_image/2241.jpg",
+  "modx_id": 2241,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

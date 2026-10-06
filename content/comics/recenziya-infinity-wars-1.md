@@ -7,6 +7,12 @@
   "tags": [
     "marvel"
   ],
+  "cover": "https://web.archive.org/web/20251208075948im_/http://spidermedia.ru/assets/images/reviews/marvel/infinity-wars/01/1.jpg",
+  "modx_id": 101983,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

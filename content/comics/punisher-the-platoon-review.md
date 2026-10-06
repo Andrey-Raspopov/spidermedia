@@ -10,6 +10,12 @@
     "goran-parlov",
     "punisher"
   ],
+  "cover": "https://web.archive.org/web/20250709054222im_/http://spidermedia.ru/assets/images/reviews/marvel/punisher/platoon/mzk.jpg",
+  "modx_id": 101849,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

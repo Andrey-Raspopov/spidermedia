@@ -1,7 +1,10 @@
 {
   "title": "Brand New Day: Февральские Новости",
-  "date": "2009-02-21T03:14:00+03:00",
+  "date": "2009-02-21T02:14:28+03:00",
   "url": "/news/brand-new-day-fevralskie-novosti/",
+  "aliases": [
+    "/node/470/"
+  ],
   "original_url": "http://spidermedia.ru/news/brand-new-day-fevralskie-novosti",
   "archived": "https://web.archive.org/web/20120607195343/http://spidermedia.ru/news/brand-new-day-fevralskie-novosti",
   "tags": [
@@ -12,6 +15,11 @@
     "komiksy",
     "marvel",
     "chelovek-pauk"
+  ],
+  "modx_id": 470,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

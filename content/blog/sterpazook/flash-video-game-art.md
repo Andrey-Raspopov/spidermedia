@@ -1,14 +1,24 @@
 {
   "title": "The Flash Video Game Art",
-  "date": "2009-09-08T13:14:00+03:00",
+  "date": "2009-09-08T12:14:55+03:00",
   "url": "/blog/sterpazook/flash-video-game-art/",
+  "aliases": [
+    "/node/1883/"
+  ],
   "original_url": "https://spidermedia.ru/blog/sterpazook/flash-video-game-art",
   "archived": "https://web.archive.org/web/20260206222546/https://spidermedia.ru/blog/sterpazook/flash-video-game-art",
   "tags": [
     "igry",
     "art-0",
     "the-flash",
-    "dc-comics"
+    "dc-comics",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20260206222546im_/http://spidermedia.ru/assets/images/import_image/1883.jpg",
+  "modx_id": 1883,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

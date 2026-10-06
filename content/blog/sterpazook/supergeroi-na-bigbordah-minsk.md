@@ -1,6 +1,6 @@
 {
   "title": "Супергерои на бигбордах: Минск",
-  "date": "2009-04-30T01:26:00+03:00",
+  "date": "2009-04-30T00:26:22+03:00",
   "url": "/blog/sterpazook/supergeroi-na-bigbordah-minsk/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/supergeroi-na-bigbordah-minsk",
   "archived": "https://web.archive.org/web/20120607120005/http://spidermedia.ru/blog/sterpazook/supergeroi-na-bigbordah-minsk",
@@ -11,7 +11,14 @@
     "naytkrouler",
     "reklama",
     "supergeroi",
-    "foto"
+    "foto",
+    "najtkrouler"
+  ],
+  "cover": "https://web.archive.org/web/20120607120005im_/http://spidermedia.ru/assets/images/import_image/1071.jpg",
+  "modx_id": 1071,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

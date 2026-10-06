@@ -1,14 +1,24 @@
 {
   "title": "Avengers Assemble! - февраль/март 2010",
-  "date": "2010-01-06T22:39:00+03:00",
+  "date": "2010-01-06T22:39:30+03:00",
   "url": "/news/avengers-assemble-fevral-mart-2010/",
+  "aliases": [
+    "/node/2225/"
+  ],
   "original_url": "http://spidermedia.ru/news/avengers-assemble-fevral-mart-2010",
   "archived": "https://web.archive.org/web/20250906195140/http://spidermedia.ru/news/avengers-assemble-fevral-mart-2010",
   "tags": [
     "preview",
     "siege",
     "marvel",
-    "avengers"
+    "avengers",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20250906195140im_/http://spidermedia.ru/assets/images/import_image/2225.gif",
+  "modx_id": 2225,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

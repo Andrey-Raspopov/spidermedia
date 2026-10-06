@@ -1,7 +1,10 @@
 {
   "title": "Kicking Kick-Ass's ass",
-  "date": "2010-02-12T21:41:00+03:00",
+  "date": "2010-02-12T21:41:56+03:00",
   "url": "/news/kicking-kick-asss-ass/",
+  "aliases": [
+    "/node/2362/"
+  ],
   "original_url": "https://spidermedia.ru/news/kicking-kick-asss-ass",
   "archived": "https://web.archive.org/web/20251213195728/https://spidermedia.ru/news/kicking-kick-asss-ass",
   "tags": [
@@ -10,6 +13,11 @@
     "nemesis",
     "marvel",
     "icon-comics"
+  ],
+  "modx_id": 2362,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

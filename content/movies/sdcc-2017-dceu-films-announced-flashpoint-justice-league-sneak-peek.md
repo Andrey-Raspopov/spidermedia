@@ -10,6 +10,12 @@
     "the-flash",
     "san-diego-comic-con-international"
   ],
+  "cover": "https://web.archive.org/web/20251216182614im_/http://spidermedia.ru/assets/images/movies/dc/justice-league/batface.jpg",
+  "modx_id": 101633,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

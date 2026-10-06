@@ -1,12 +1,18 @@
 {
   "title": "Росомаха все ближе и ближе",
-  "date": "2009-02-13T01:40:00+03:00",
+  "date": "2009-02-13T01:40:39+03:00",
   "url": "/news/rosomaha-vse-blizhe-i-blizhe/",
   "original_url": "http://spidermedia.ru/news/rosomaha-vse-blizhe-i-blizhe",
   "archived": "https://web.archive.org/web/20191205174213/http://spidermedia.ru/news/rosomaha-vse-blizhe-i-blizhe",
   "tags": [
     "wolverine",
     "sabretooth"
+  ],
+  "cover": "https://web.archive.org/web/20191205174213im_/http://spidermedia.ru/assets/images/import_image/340.jpg",
+  "modx_id": 340,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,12 +1,18 @@
 {
   "title": "И Лобо такой молодой, и юный Октябрь впереди",
-  "date": "2014-07-08T11:26:00+03:00",
+  "date": "2014-07-08T10:26:21+03:00",
   "url": "/news/i-lobo-takoy-molodoy-i-yunyy-oktyabr-vperedi/",
   "original_url": "http://spidermedia.ru/news/i-lobo-takoy-molodoy-i-yunyy-oktyabr-vperedi",
   "archived": "https://web.archive.org/web/20200221074316/http://spidermedia.ru:80/news/i-lobo-takoy-molodoy-i-yunyy-oktyabr-vperedi",
   "tags": [
     "lobo",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20200221074316im_/http://spidermedia.ru/assets/images/import_image/7863.jpg",
+  "modx_id": 7863,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "Гром и молнии в королевстве",
-  "date": "2010-07-30T19:12:00+03:00",
+  "date": "2010-07-30T18:12:23+03:00",
   "url": "/news/grom-i-molnii-v-korolevstve/",
+  "aliases": [
+    "/node/2824/"
+  ],
   "original_url": "http://spidermedia.ru/news/grom-i-molnii-v-korolevstve",
   "archived": "https://web.archive.org/web/20251014043339/http://spidermedia.ru/news/grom-i-molnii-v-korolevstve",
   "tags": [
@@ -11,13 +14,21 @@
     "art-0",
     "ultimate",
     "thor",
-    "marvel"
+    "marvel",
+    "art",
+    "tor"
+  ],
+  "cover": "https://web.archive.org/web/20251014043339im_/http://spidermedia.ru/assets/images/import_image/2824.jpg",
+  "modx_id": 2824,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-После недавнего [анонса](../../node/2772/) о создании серии, посвященной **Тору** *(Thor)* из **Ultimate**-вселенной, появилась новые подробности и детали грядущей лимитки.
+После недавнего [анонса](../sdcc10-ultimate-thor/) о создании серии, посвященной **Тору** *(Thor)* из **Ultimate**-вселенной, появилась новые подробности и детали грядущей лимитки.
 [![](https://web.archive.org/web/20251014043339im_/http://img.photobucket.com/albums/v497/spidermedia/12798568182.jpg?t=1280313473)](http://smg.photobucket.com/albums/v497/spidermedia/1279856818.jpg)
 
 До определенного периода Тор был загадочным персонажем и представлял из себя не только грозного воина, но и борца с социальными и общественными проблемами, само же божественное происхождение долгое время оставалось под вопросом, несмотря на многочисленные намеки и отсылки. Сценаристу **Джонатану Хикману** *(Jonathan Hickman)* предстоит осветить именно эту неоднозначную сторону, начав повествование задолго до событий в **The Ultimates**.

@@ -1,12 +1,21 @@
 {
   "title": "Еще одна \"смертельная запись\"",
-  "date": "2009-05-18T02:09:00+03:00",
+  "date": "2009-05-18T01:09:38+03:00",
   "url": "/news/eshche-odna-smertelnaya-zapis/",
+  "aliases": [
+    "/node/1224/"
+  ],
   "original_url": "https://spidermedia.ru/news/eshche-odna-smertelnaya-zapis",
   "archived": "https://web.archive.org/web/20240418232830/https://spidermedia.ru/news/eshche-odna-smertelnaya-zapis",
   "tags": [
     "trejlery",
     "manga"
+  ],
+  "cover": "https://web.archive.org/web/20240418232830im_/http://spidermedia.ru/assets/images/import_image/1224.jpg",
+  "modx_id": 1224,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

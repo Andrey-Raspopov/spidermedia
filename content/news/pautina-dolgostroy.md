@@ -1,6 +1,6 @@
 {
   "title": "Паутина-долгострой",
-  "date": "2011-03-12T02:40:00+03:00",
+  "date": "2011-03-12T02:40:54+03:00",
   "url": "/news/pautina-dolgostroy/",
   "original_url": "https://spidermedia.ru/news/pautina-dolgostroy",
   "archived": "https://web.archive.org/web/20251207005055/https://spidermedia.ru/news/pautina-dolgostroy",
@@ -9,7 +9,14 @@
     "dzhef-loeb",
     "art-0",
     "spider-man",
-    "marvel"
+    "marvel",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20251207005055im_/http://spidermedia.ru/assets/images/import_image/4074.jpg",
+  "modx_id": 4074,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

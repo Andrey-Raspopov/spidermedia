@@ -1,6 +1,6 @@
 {
   "title": "Отзыв о Superman/Batman: Apocalypse",
-  "date": "2010-09-17T11:19:00+03:00",
+  "date": "2010-09-17T10:19:26+03:00",
   "url": "/blog/igrok/otzyv-o-superman-batman-apocalypse/",
   "original_url": "http://spidermedia.ru/blog/igrok/otzyv-o-superman-batman-apocalypse",
   "archived": "https://web.archive.org/web/20251108034729/http://spidermedia.ru/blog/igrok/otzyv-o-superman-batman-apocalypse",
@@ -11,6 +11,11 @@
     "animaciya",
     "darkseid",
     "batman"
+  ],
+  "modx_id": 2921,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

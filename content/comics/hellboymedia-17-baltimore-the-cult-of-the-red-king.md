@@ -8,6 +8,12 @@
     "hellboymedia",
     "mnenie"
   ],
+  "cover": "https://web.archive.org/web/20160611101740im_/http://spidermedia.ru/assets/images/hellboymedia/regular/17-baltimore-the-cult-of-the-red-king/baltimore-the-cult-of-the-red-king-cover.jpg",
+  "modx_id": 100663,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

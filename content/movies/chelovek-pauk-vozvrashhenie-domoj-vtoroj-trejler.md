@@ -8,6 +8,12 @@
     "marvel",
     "spider-man"
   ],
+  "cover": "https://web.archive.org/web/20251115035131im_/http://spidermedia.ru/assets/images/movies/marvel/spider-man-marvel/888.jpg",
+  "modx_id": 101528,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

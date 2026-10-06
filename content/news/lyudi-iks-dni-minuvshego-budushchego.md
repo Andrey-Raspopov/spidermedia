@@ -1,13 +1,21 @@
 {
   "title": "Люди Икс: Дни минувшего будущего",
-  "date": "2012-08-02T16:13:00+03:00",
+  "date": "2012-08-02T15:13:14+03:00",
   "url": "/news/lyudi-iks-dni-minuvshego-budushchego/",
   "original_url": "http://spidermedia.ru/news/lyudi-iks-dni-minuvshego-budushchego",
   "archived": "https://web.archive.org/web/20250923040701/http://spidermedia.ru/news/lyudi-iks-dni-minuvshego-budushchego",
   "tags": [
     "days-of-future-past",
     "marvel",
-    "x-men"
+    "x-men",
+    "dni-minuvshego-budushhego",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20150326221445im_/http://spidermedia.ru/assets/images/import_image/6997.jpg",
+  "modx_id": 6997,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

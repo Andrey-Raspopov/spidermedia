@@ -1,7 +1,10 @@
 {
   "title": "Spider-Man: Сентябрь 2010",
-  "date": "2010-07-04T16:27:00+03:00",
+  "date": "2010-07-04T15:27:28+03:00",
   "url": "/news/spider-man-sentyabr-2010/",
+  "aliases": [
+    "/node/2706/"
+  ],
   "original_url": "http://spidermedia.ru/news/spider-man-sentyabr-2010",
   "archived": "https://web.archive.org/web/20120610213405/http://spidermedia.ru/news/spider-man-sentyabr-2010",
   "tags": [
@@ -11,7 +14,14 @@
     "komiksy",
     "marvel",
     "oblozhki",
-    "chelovek-pauk"
+    "chelovek-pauk",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20120610213405im_/http://spidermedia.ru/assets/images/import_image/2706.png",
+  "modx_id": 2706,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"
@@ -19,7 +29,7 @@
 
 ![](https://web.archive.org/web/20120610213405im_/http://img.photobucket.com/albums/v497/spidermedia/amazing-spider-man-logo-brand-ne-2.png?t=1275507499)
 
-В жизни **Человека-Паука** *(Spider-Man)* никогда не было покоя, а тем более сейчас - после небольшой передышки в виде арка **O.M.I.T.**  начинается новая битва под названием [**Origin of the Species**](../../node/2682/), в которой найдется место большинству паучьих противников, блиставших на страницах **Amazing Spider-Man** за последние пару лет. Тем временем количество тайтлов идет на убыль - **Web of Spider-Man** заканчивается уже в сентябре, а недавний предполагаемый онгоинг **Peter Parker** вообще оказался лимиткой. Правда вряд ли такое положение дел продлится сильно долго.
+В жизни **Человека-Паука** *(Spider-Man)* никогда не было покоя, а тем более сейчас - после небольшой передышки в виде арка **O.M.I.T.**  начинается новая битва под названием [**Origin of the Species**](../spider-man-ugroza-detstvu/), в которой найдется место большинству паучьих противников, блиставших на страницах **Amazing Spider-Man** за последние пару лет. Тем временем количество тайтлов идет на убыль - **Web of Spider-Man** заканчивается уже в сентябре, а недавний предполагаемый онгоинг **Peter Parker** вообще оказался лимиткой. Правда вряд ли такое положение дел продлится сильно долго.
 
 ]]>[![](https://web.archive.org/web/20120610213405im_/http://img.photobucket.com/albums/v497/spidermedia/th_47378188.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/47378188.jpg)]]> ]]>[![](https://web.archive.org/web/20120610213405im_/http://img.photobucket.com/albums/v497/spidermedia/th_77682160.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/77682160.jpg)]]> ]]>[![](https://web.archive.org/web/20120610213405im_/http://img.photobucket.com/albums/v497/spidermedia/th_45516804.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/45516804.jpg)]]>
 Обложки **#642-644** от **Марко Джурджевича** *(Marko Djurdjevic)*, **ASM Presents: Black Cat #3** от **Аманды Коннер** *(Amanda Conner)*

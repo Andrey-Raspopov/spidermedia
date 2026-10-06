@@ -1,6 +1,6 @@
 {
   "title": "ОБЗОР: «Шансы», русскоязычное издание",
-  "date": "2014-12-23T12:44:00+03:00",
+  "date": "2014-12-23T12:44:05+03:00",
   "url": "/blog/redson/obzor-shansy-russkoyazychnoe-izdanie-0/",
   "original_url": "http://spidermedia.ru/blog/redson/obzor-shansy-russkoyazychnoe-izdanie-0",
   "archived": "https://web.archive.org/web/20260312004556/http://spidermedia.ru/blog/redson/obzor-shansy-russkoyazychnoe-izdanie-0",
@@ -8,6 +8,12 @@
     "bryan-lee-o-malley",
     "zarubezhnye-komiksy-na-russkom",
     "komilfo"
+  ],
+  "cover": "https://web.archive.org/web/20150326221218im_/http://spidermedia.ru/assets/images/import_image/8413.jpg",
+  "modx_id": 8413,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

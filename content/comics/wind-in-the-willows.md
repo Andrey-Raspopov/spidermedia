@@ -7,6 +7,12 @@
   "tags": [
     "bande-dessinée"
   ],
+  "cover": "https://web.archive.org/web/20200224033007im_/http://spidermedia.ru/assets/images/bd/07-09-2015/untitled-4.jpg",
+  "modx_id": 100518,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

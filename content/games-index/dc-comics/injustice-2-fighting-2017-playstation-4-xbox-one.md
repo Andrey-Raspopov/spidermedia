@@ -4,6 +4,9 @@
   "url": "/games-index/dc-comics/injustice-2-fighting-2017-playstation-4-xbox-one/",
   "original_url": "https://spidermedia.ru/games-index/dc-comics/injustice-2-fighting-2017-playstation-4-xbox-one",
   "archived": "https://web.archive.org/web/20260208204248/https://spidermedia.ru/games-index/dc-comics/injustice-2-fighting-2017-playstation-4-xbox-one",
+  "sources": [
+    "archive"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

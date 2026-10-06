@@ -1,6 +1,6 @@
 {
   "title": "Росомаха - финальный трейлер!",
-  "date": "2009-03-05T12:07:00+03:00",
+  "date": "2009-03-05T11:07:48+03:00",
   "url": "/news/rosomaha-finalnyy-treyler/",
   "original_url": "http://spidermedia.ru/news/rosomaha-finalnyy-treyler",
   "archived": "https://web.archive.org/web/20120718060009/http://spidermedia.ru/news/rosomaha-finalnyy-treyler",
@@ -8,7 +8,13 @@
     "wolverine",
     "kino",
     "rosomaha",
-    "trailers"
+    "trailers",
+    "trejlery"
+  ],
+  "modx_id": 596,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

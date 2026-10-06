@@ -1,13 +1,22 @@
 {
   "title": "The Avengers: Earth's Mightiest Heroes",
-  "date": "2010-01-20T17:17:00+03:00",
+  "date": "2010-01-20T17:17:03+03:00",
   "url": "/news/avengers-earths-mightiest-heroes/",
+  "aliases": [
+    "/node/2291/"
+  ],
   "original_url": "http://spidermedia.ru/news/avengers-earths-mightiest-heroes",
   "archived": "https://web.archive.org/web/20220629011651/http://spidermedia.ru/news/avengers-earths-mightiest-heroes",
   "tags": [
     "marvel",
     "avengers",
     "ant-man"
+  ],
+  "cover": "https://web.archive.org/web/20220629011651im_/http://spidermedia.ru/assets/images/youtube/Z_G7_s8Bi9o.jpg",
+  "modx_id": 2291,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

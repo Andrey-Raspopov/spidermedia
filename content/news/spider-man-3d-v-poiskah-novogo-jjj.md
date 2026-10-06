@@ -1,12 +1,21 @@
 {
   "title": "Spider-Man 3D: В поисках нового JJJ",
-  "date": "2010-10-26T17:12:00+03:00",
+  "date": "2010-10-26T16:12:21+03:00",
   "url": "/news/spider-man-3d-v-poiskah-novogo-jjj/",
+  "aliases": [
+    "/node/3031/"
+  ],
   "original_url": "http://spidermedia.ru/news/spider-man-3d-v-poiskah-novogo-jjj",
   "archived": "https://web.archive.org/web/20240614193139/http://spidermedia.ru/news/spider-man-3d-v-poiskah-novogo-jjj",
   "tags": [
     "marvel",
     "spider-man"
+  ],
+  "cover": "https://web.archive.org/web/20240614193139im_/http://spidermedia.ru/assets/images/import_image/3031.jpg",
+  "modx_id": 3031,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Красный онгоинг",
-  "date": "2011-01-04T09:52:00+03:00",
+  "date": "2011-01-04T09:52:30+03:00",
   "url": "/news/krasnyy-ongoing/",
   "original_url": "https://spidermedia.ru/news/krasnyy-ongoing",
   "archived": "https://web.archive.org/web/20210119174556/https://spidermedia.ru/news/krasnyy-ongoing",
@@ -11,6 +11,12 @@
     "red-lantern-corps",
     "red-lantern",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20210119174556im_/http://spidermedia.ru/assets/images/import_image/3143.png",
+  "modx_id": 3143,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

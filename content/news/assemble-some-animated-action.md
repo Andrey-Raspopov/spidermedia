@@ -1,6 +1,6 @@
 {
   "title": "Assemble for some animated action",
-  "date": "2010-08-03T22:55:00+03:00",
+  "date": "2010-08-03T21:55:19+03:00",
   "url": "/news/assemble-some-animated-action/",
   "original_url": "http://spidermedia.ru/news/assemble-some-animated-action",
   "archived": "https://web.archive.org/web/20260125071158/http://spidermedia.ru/news/assemble-some-animated-action",
@@ -8,7 +8,13 @@
     "preview",
     "animaciya",
     "marvel",
-    "avengers"
+    "avengers",
+    "prevyu"
+  ],
+  "modx_id": 2831,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

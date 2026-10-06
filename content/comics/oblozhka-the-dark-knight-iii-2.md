@@ -9,6 +9,12 @@
     "dc-comics",
     "endi-kubert"
   ],
+  "cover": "https://web.archive.org/web/20251211034834im_/http://spidermedia.ru/assets/images/news/dc/dkr-3/dark-knight-iii-2.jpg",
+  "modx_id": 100556,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

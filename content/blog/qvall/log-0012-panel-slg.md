@@ -1,6 +1,6 @@
 {
   "title": "Log #0012 - Панель SLG",
-  "date": "2009-03-03T18:13:00+03:00",
+  "date": "2009-03-03T18:13:33+03:00",
   "url": "/blog/qvall/log-0012-panel-slg/",
   "original_url": "https://spidermedia.ru/blog/qvall/log-0012-panel-slg",
   "archived": "https://web.archive.org/web/20240720072854/https://spidermedia.ru/blog/qvall/log-0012-panel-slg",
@@ -8,6 +8,12 @@
     "novosti",
     "wondercon",
     "slg-publishing"
+  ],
+  "cover": "https://web.archive.org/web/20240720072854im_/http://spidermedia.ru/assets/images/import_image/574.jpg",
+  "modx_id": 574,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Телевизионная реклама комикса \"Fables\"",
-  "date": "2010-06-01T18:21:00+03:00",
+  "date": "2010-06-01T17:21:37+03:00",
   "url": "/blog/sterpazook/televizionnaya-reklama-komiksa-fables/",
   "original_url": "https://spidermedia.ru/blog/sterpazook/televizionnaya-reklama-komiksa-fables",
   "archived": "https://web.archive.org/web/20250324064406/https://spidermedia.ru/blog/sterpazook/televizionnaya-reklama-komiksa-fables",
@@ -8,6 +8,11 @@
     "vertigo",
     "fables",
     "dc-comics"
+  ],
+  "modx_id": 2647,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

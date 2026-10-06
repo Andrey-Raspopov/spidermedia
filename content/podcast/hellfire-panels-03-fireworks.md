@@ -8,6 +8,13 @@
     "panels-of-x",
     "on-panels"
   ],
+  "cover": "https://web.archive.org/web/20251213192655im_/http://spidermedia.ru/assets/images/podcast/hellfire-panels/03/00-cover.jpg",
+  "podcast_audio": "https://spidermedia.podster.fm/155/download/audio.mp3",
+  "modx_id": 102403,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

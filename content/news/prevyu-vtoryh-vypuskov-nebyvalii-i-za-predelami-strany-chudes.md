@@ -1,12 +1,18 @@
 {
   "title": "Превью вторых выпусков \"Небывалии\" и \"За пределами Страны Чудес\"",
-  "date": "2014-06-03T15:22:00+03:00",
+  "date": "2014-06-03T14:22:04+03:00",
   "url": "/news/prevyu-vtoryh-vypuskov-nebyvalii-i-za-predelami-strany-chudes/",
   "original_url": "http://spidermedia.ru/news/prevyu-vtoryh-vypuskov-nebyvalii-i-za-predelami-strany-chudes",
   "archived": "https://web.archive.org/web/20220815202012/http://spidermedia.ru/news/prevyu-vtoryh-vypuskov-nebyvalii-i-za-predelami-strany-chudes",
   "tags": [
     "zarubezhnye-komiksy-na-russkom",
     "zenescope-entertainment"
+  ],
+  "cover": "https://web.archive.org/web/20220815202012im_/http://spidermedia.ru/assets/images/import_image/7765.jpg",
+  "modx_id": 7765,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

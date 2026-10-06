@@ -1,13 +1,22 @@
 {
   "title": "Чеклист Dark Reign - МАРТ-МАЙ",
-  "date": "2009-02-14T22:22:00+03:00",
+  "date": "2009-02-14T22:22:01+03:00",
   "url": "/news/cheklist-dark-reign-mart-may/",
+  "aliases": [
+    "/node/363/"
+  ],
   "original_url": "http://spidermedia.ru/news/cheklist-dark-reign-mart-may",
   "archived": "https://web.archive.org/web/20150426205216/http://spidermedia.ru/news/cheklist-dark-reign-mart-may",
   "tags": [
     "cheklist",
     "marvel-comics",
-    "dark-reign"
+    "dark-reign",
+    "marvel"
+  ],
+  "modx_id": 363,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Фрэкшен, Брубейкер и желтая собака: номинанты на “Айзнер-2013”",
-  "date": "2013-04-17T12:56:00+03:00",
+  "date": "2013-04-17T11:56:39+03:00",
   "url": "/news/frekshen-brubeyker-i-zheltaya-sobaka-nominanty-na-ayzner-2013/",
   "original_url": "http://spidermedia.ru/news/frekshen-brubeyker-i-zheltaya-sobaka-nominanty-na-ayzner-2013",
   "archived": "https://web.archive.org/web/20260211185554/http://spidermedia.ru/news/frekshen-brubeyker-i-zheltaya-sobaka-nominanty-na-ayzner-2013",
@@ -12,6 +12,12 @@
     "hawkeye",
     "fatale",
     "ed-brubaker"
+  ],
+  "cover": "https://web.archive.org/web/20260211185554im_/http://spidermedia.ru/assets/images/import_image/7209.jpg",
+  "modx_id": 7209,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

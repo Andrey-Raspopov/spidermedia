@@ -1,6 +1,6 @@
 {
   "title": "Последний Фантом",
-  "date": "2010-05-09T00:36:00+03:00",
+  "date": "2010-05-08T23:36:56+03:00",
   "url": "/news/posledniy-fantom/",
   "original_url": "https://spidermedia.ru/news/posledniy-fantom",
   "archived": "https://web.archive.org/web/20251108040326/https://spidermedia.ru/news/posledniy-fantom",
@@ -11,7 +11,14 @@
     "art-0",
     "alex-ross",
     "phantom",
-    "dynamite-entertainment"
+    "dynamite-entertainment",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20150424123216im_/http://spidermedia.ru/assets/images/import_image/2614.jpg",
+  "modx_id": 2614,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

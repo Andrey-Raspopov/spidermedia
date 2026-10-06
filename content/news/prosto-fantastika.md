@@ -1,7 +1,10 @@
 {
   "title": "Просто фантастика",
-  "date": "2009-07-14T20:42:00+03:00",
+  "date": "2009-07-14T19:42:17+03:00",
   "url": "/news/prosto-fantastika/",
+  "aliases": [
+    "/node/1558/"
+  ],
   "original_url": "http://spidermedia.ru/news/prosto-fantastika",
   "archived": "https://web.archive.org/web/20120611044759/http://spidermedia.ru/news/prosto-fantastika",
   "tags": [
@@ -10,6 +13,12 @@
     "kino",
     "komiksy",
     "rik-remender"
+  ],
+  "cover": "https://web.archive.org/web/20120611044759im_/http://spidermedia.ru/assets/images/import_image/1558.jpg",
+  "modx_id": 1558,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

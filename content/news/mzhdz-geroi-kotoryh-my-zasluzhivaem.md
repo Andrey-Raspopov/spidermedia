@@ -1,12 +1,18 @@
 {
   "title": "МЖДЗ: ГЕРОИ, КОТОРЫХ МЫ ЗАСЛУЖИВАЕМ",
-  "date": "2012-07-11T21:13:00+03:00",
+  "date": "2012-07-11T20:13:06+03:00",
   "url": "/news/mzhdz-geroi-kotoryh-my-zasluzhivaem/",
   "original_url": "http://spidermedia.ru/news/mzhdz-geroi-kotoryh-my-zasluzhivaem",
   "archived": "https://web.archive.org/web/20251107175904/http://spidermedia.ru/news/mzhdz-geroi-kotoryh-my-zasluzhivaem",
   "tags": [
     "mzhdz",
     "mnenie"
+  ],
+  "cover": "https://web.archive.org/web/20160318234714im_/http://spidermedia.ru/assets/images/import_image/6964.png",
+  "modx_id": 6964,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "Превью Немезиса",
-  "date": "2010-02-04T19:25:00+03:00",
+  "date": "2010-02-04T19:25:42+03:00",
   "url": "/news/prevyu-nemezisa/",
+  "aliases": [
+    "/node/2337/"
+  ],
   "original_url": "http://spidermedia.ru/news/prevyu-nemezisa",
   "archived": "https://web.archive.org/web/20251013180813/http://spidermedia.ru/news/prevyu-nemezisa",
   "tags": [
@@ -11,11 +14,16 @@
     "marvel",
     "icon-comics"
   ],
+  "modx_id": 2337,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-Думаю, что на нашем сайте появлялось достаточно много информации о [**Nemesis**](../../node/2151/) **Марка Миллара** (*Mark Millar*), поэтому ничего больше не остаётся, как выложить долгожданное превью авторства **Стива МакНивена** (*Steve McNiven*).
+Думаю, что на нашем сайте появлялось достаточно много информации о [**Nemesis**](../why-so-villainous/) **Марка Миллара** (*Mark Millar*), поэтому ничего больше не остаётся, как выложить долгожданное превью авторства **Стива МакНивена** (*Steve McNiven*).
 ![](https://web.archive.org/web/20251013180813im_/http://s001.radikal.ru/i194/1002/d5/06f358142415.jpg)
 
 [![](https://web.archive.org/web/20251013180813im_/http://s004.radikal.ru/i206/1002/e7/a5898815a134x.jpg)](http://s004.radikal.ru/i206/1002/e7/a5898815a134.jpg)[![](https://web.archive.org/web/20251013180813im_/http://i061.radikal.ru/1002/34/c0085d3e4bddx.jpg)](http://i061.radikal.ru/1002/34/c0085d3e4bdd.jpg)[![](https://web.archive.org/web/20251013180813im_/http://s002.radikal.ru/i199/1002/33/babf2319825bx.jpg)](http://s002.radikal.ru/i199/1002/33/babf2319825b.jpg)

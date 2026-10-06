@@ -1,11 +1,17 @@
 {
   "title": "День новых комиксов: 30 апреля",
-  "date": "2014-04-30T14:05:00+03:00",
+  "date": "2014-04-30T13:05:44+03:00",
   "url": "/news/den-novyh-komiksov-30-aprelya/",
   "original_url": "http://spidermedia.ru/news/den-novyh-komiksov-30-aprelya",
   "archived": "https://web.archive.org/web/20241104202648/http://spidermedia.ru/news/den-novyh-komiksov-30-aprelya",
   "tags": [
     "den-novyh-komiksov"
+  ],
+  "cover": "https://web.archive.org/web/20241104202648im_/http://spidermedia.ru/assets/images/import_image/7726.jpg",
+  "modx_id": 7726,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Герои будущего",
-  "date": "2011-02-17T11:39:00+03:00",
+  "date": "2011-02-17T11:39:31+03:00",
   "url": "/news/supergeroi-budushchego/",
   "original_url": "https://spidermedia.ru/news/supergeroi-budushchego",
   "archived": "https://web.archive.org/web/20250913005936/https://spidermedia.ru/news/supergeroi-budushchego",
@@ -11,7 +11,14 @@
     "den-slott",
     "art-0",
     "spider-man",
-    "marvel"
+    "marvel",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20250913005936im_/http://spidermedia.ru/assets/images/import_image/3483.jpg",
+  "modx_id": 3483,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

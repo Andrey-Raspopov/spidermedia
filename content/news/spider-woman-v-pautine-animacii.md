@@ -1,7 +1,10 @@
 {
   "title": "Spider-Woman: В паутине анимации",
-  "date": "2009-04-24T21:41:00+03:00",
+  "date": "2009-04-24T20:41:44+03:00",
   "url": "/news/spider-woman-v-pautine-animacii/",
+  "aliases": [
+    "/node/1049/"
+  ],
   "original_url": "http://spidermedia.ru/news/spider-woman-v-pautine-animacii",
   "archived": "https://web.archive.org/web/20190820191508/http://spidermedia.ru:80/news/spider-woman-v-pautine-animacii",
   "tags": [
@@ -9,7 +12,13 @@
     "spider-woman",
     "alex-maleev",
     "brian-michael-bendis",
-    "art-0"
+    "art-0",
+    "art"
+  ],
+  "modx_id": 1049,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

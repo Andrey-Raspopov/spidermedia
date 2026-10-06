@@ -1,7 +1,10 @@
 {
   "title": "\"V\" Versus \"Deadpool\"",
-  "date": "2009-05-25T11:10:00+03:00",
+  "date": "2009-05-25T10:10:50+03:00",
   "url": "/blog/sterpazook/v-versus-deadpool/",
+  "aliases": [
+    "/node/1272/"
+  ],
   "original_url": "https://spidermedia.ru/blog/sterpazook/v-versus-deadpool",
   "archived": "https://web.archive.org/web/20240524163803/https://spidermedia.ru/blog/sterpazook/v-versus-deadpool",
   "tags": [
@@ -13,7 +16,14 @@
     "v-the-series",
     "morena-bakkarin",
     "morena-baccarin",
-    "versus"
+    "versus",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20240524163803im_/http://spidermedia.ru/assets/images/import_image/1272.jpg",
+  "modx_id": 1272,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

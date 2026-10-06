@@ -1,6 +1,6 @@
 {
   "title": "Питер Паркер - Зеленый Гоблин (?)",
-  "date": "2013-12-03T12:56:00+03:00",
+  "date": "2013-12-03T11:56:08+03:00",
   "url": "/news/piter-parker-zelenyy-goblin/",
   "original_url": "http://spidermedia.ru/news/piter-parker-zelenyy-goblin",
   "archived": "https://web.archive.org/web/20200130013438/http://spidermedia.ru:80/news/piter-parker-zelenyy-goblin",
@@ -8,6 +8,12 @@
     "marvel",
     "spider-man",
     "zelyonyj-goblin"
+  ],
+  "cover": "https://web.archive.org/web/20150424084438im_/http://spidermedia.ru/assets/images/import_image/7562.jpg",
+  "modx_id": 7562,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

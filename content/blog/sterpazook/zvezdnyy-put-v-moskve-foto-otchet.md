@@ -1,12 +1,18 @@
 {
   "title": "\"Звездный Путь\" в Москве: Фото-отчет!",
-  "date": "2009-04-14T12:26:00+03:00",
+  "date": "2009-04-14T11:26:17+03:00",
   "url": "/blog/sterpazook/zvezdnyy-put-v-moskve-foto-otchet/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/zvezdnyy-put-v-moskve-foto-otchet",
   "archived": "https://web.archive.org/web/20250906190357/http://spidermedia.ru/blog/sterpazook/zvezdnyy-put-v-moskve-foto-otchet",
   "tags": [
     "star-trek",
     "zvezdnyj-put"
+  ],
+  "cover": "https://web.archive.org/web/20160512102835im_/http://spidermedia.ru/assets/images/import_image/930.jpg",
+  "modx_id": 930,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

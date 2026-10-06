@@ -1,12 +1,18 @@
 {
   "title": "4 минуты \"Нового Человека-Паука\"",
-  "date": "2012-05-15T10:41:00+03:00",
+  "date": "2012-05-15T09:41:42+03:00",
   "url": "/news/4-minuty-novogo-cheloveka-pauka/",
   "original_url": "https://spidermedia.ru/news/4-minuty-novogo-cheloveka-pauka",
   "archived": "https://web.archive.org/web/20250424203607/https://spidermedia.ru/news/4-minuty-novogo-cheloveka-pauka",
   "tags": [
     "marvel",
     "spider-man"
+  ],
+  "cover": "https://web.archive.org/web/20250424203607im_/http://spidermedia.ru/assets/images/import_image/6897.jpg",
+  "modx_id": 6897,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

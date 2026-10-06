@@ -1,7 +1,10 @@
 {
   "title": "Magic people! Voodoo people!",
-  "date": "2009-06-20T02:16:00+03:00",
+  "date": "2009-06-20T01:16:17+03:00",
   "url": "/news/magic-people-voodoo-people/",
+  "aliases": [
+    "/node/1446/"
+  ],
   "original_url": "https://spidermedia.ru/news/magic-people-voodoo-people",
   "archived": "https://web.archive.org/web/20260313121146/https://spidermedia.ru/news/magic-people-voodoo-people",
   "tags": [
@@ -11,11 +14,17 @@
     "billi-tan",
     "doktor-vudu"
   ],
+  "cover": "https://web.archive.org/web/20260313121146im_/http://spidermedia.ru/assets/images/import_image/1446.jpg",
+  "modx_id": 1446,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-Это точно неудачный год для ку-клукс-клана. Нет, речь идёт не об очередном комиксе про **Барака Обаму** (*Barack Obama*), хотя кому-то наверняка покажется, что без его влияния здесь не обошлось. Если вы читаете такую популярную и безусловно важную (хотите вы того или нет) серию, как **New Avengers**, то вероятно уже должны быть в курсе того, что **Доктор Стрейндж** (*Doctor Strange*) недавно [лишился звания **Верховного Волшебника** (*Sorcerer Supreme*)](../../node/1444/) и **Глазу Агамотто** (*Eye of Agamotto*) пришлось искать ему замену. Это заменой оказался никто иной как **Брат Вуду** (*Brother Voodoo*), и в октябре он получит собственную онгоинг-серию от сценариста **Рика Ремендера** (*Rick Remender*) и какого-то таинственного художника.
+Это точно неудачный год для ку-клукс-клана. Нет, речь идёт не об очередном комиксе про **Барака Обаму** (*Barack Obama*), хотя кому-то наверняка покажется, что без его влияния здесь не обошлось. Если вы читаете такую популярную и безусловно важную (хотите вы того или нет) серию, как **New Avengers**, то вероятно уже должны быть в курсе того, что **Доктор Стрейндж** (*Doctor Strange*) недавно [лишился звания **Верховного Волшебника** (*Sorcerer Supreme*)](../u-magov-pensii-ne-byvaet/) и **Глазу Агамотто** (*Eye of Agamotto*) пришлось искать ему замену. Это заменой оказался никто иной как **Брат Вуду** (*Brother Voodoo*), и в октябре он получит собственную онгоинг-серию от сценариста **Рика Ремендера** (*Rick Remender*) и какого-то таинственного художника.
 
 [![Photobucket](https://web.archive.org/web/20260313121146im_/http://i3.photobucket.com/albums/y65/Carnage_vl/th_the-rise-of-doctor-voodoo-200906-1.jpg)](http://s3.photobucket.com/albums/y65/Carnage_vl/?action=view¤t=the-rise-of-doctor-voodoo-200906-1.jpg) [![Photobucket](https://web.archive.org/web/20260313121146im_/http://i3.photobucket.com/albums/y65/Carnage_vl/th_the-rise-of-doctor-voodoo-200906190.jpg)](http://s3.photobucket.com/albums/y65/Carnage_vl/?action=view¤t=the-rise-of-doctor-voodoo-200906190.jpg)
 

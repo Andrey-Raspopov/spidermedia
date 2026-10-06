@@ -1,12 +1,18 @@
 {
   "title": "Image Expo 2013: Сразу много анонсов",
-  "date": "2013-07-03T04:55:00+03:00",
+  "date": "2013-07-03T03:55:18+03:00",
   "url": "/news/image-expo-2013-srazu-mnogo-anonsov/",
   "original_url": "http://spidermedia.ru/news/image-expo-2013-srazu-mnogo-anonsov",
   "archived": "https://web.archive.org/web/20190915023005/http://spidermedia.ru:80/news/image-expo-2013-srazu-mnogo-anonsov",
   "tags": [
     "image-comics",
     "image-expo"
+  ],
+  "cover": "https://web.archive.org/web/20150424211333im_/http://spidermedia.ru/assets/images/import_image/7311.jpg",
+  "modx_id": 7311,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

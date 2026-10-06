@@ -1,7 +1,10 @@
 {
   "title": "Human Target: Мастер маскировки",
-  "date": "2009-05-19T11:57:00+03:00",
+  "date": "2009-05-19T10:57:27+03:00",
   "url": "/news/human-target-master-maskirovki/",
+  "aliases": [
+    "/node/1237/"
+  ],
   "original_url": "http://spidermedia.ru/news/human-target-master-maskirovki",
   "archived": "https://web.archive.org/web/20120608144815/http://spidermedia.ru/news/human-target-master-maskirovki",
   "tags": [
@@ -11,7 +14,14 @@
     "kino",
     "komiksy",
     "serialy",
-    "tv-0"
+    "tv-0",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20120608144815im_/http://spidermedia.ru/assets/images/import_image/1237.jpg",
+  "modx_id": 1237,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

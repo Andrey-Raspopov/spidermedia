@@ -8,6 +8,12 @@
     "xl-media",
     "zarubezhnye-komiksy-na-russkom"
   ],
+  "cover": "https://web.archive.org/web/20210823015133im_/https://spidermedia.ru/assets/images/reviews/xl-media/chew/img_20150520_104254.jpg",
+  "modx_id": 100245,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

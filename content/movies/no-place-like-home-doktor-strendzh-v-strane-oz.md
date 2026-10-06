@@ -4,6 +4,12 @@
   "url": "/movies/no-place-like-home-doktor-strendzh-v-strane-oz/",
   "original_url": "http://spidermedia.ru/movies/no-place-like-home-doktor-strendzh-v-strane-oz",
   "archived": "https://web.archive.org/web/20251216190430/http://spidermedia.ru/movies/no-place-like-home-doktor-strendzh-v-strane-oz",
+  "cover": "https://web.archive.org/web/20251216190430im_/http://spidermedia.ru/assets/images/movies/marvel/doktor-strendzh-v-strane-oz/screenshot-67.png",
+  "modx_id": 102505,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

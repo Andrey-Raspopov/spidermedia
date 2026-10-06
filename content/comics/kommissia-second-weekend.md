@@ -7,6 +7,12 @@
   "tags": [
     "kommissiya"
   ],
+  "cover": "https://web.archive.org/web/20250717191824im_/http://spidermedia.ru/assets/images/kommissia2015/number-two/img_20150509_143015.jpg",
+  "modx_id": 100215,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

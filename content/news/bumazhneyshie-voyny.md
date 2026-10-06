@@ -1,11 +1,17 @@
 {
   "title": "Бумажнейшие войны",
-  "date": "2012-07-03T05:19:00+03:00",
+  "date": "2012-07-03T04:19:28+03:00",
   "url": "/news/bumazhneyshie-voyny/",
   "original_url": "https://spidermedia.ru/news/bumazhneyshie-voyny",
   "archived": "https://web.archive.org/web/20240416035625/https://spidermedia.ru/news/bumazhneyshie-voyny",
   "tags": [
     "boom-studios"
+  ],
+  "cover": "https://web.archive.org/web/20240416035625im_/http://spidermedia.ru/assets/images/import_image/6953.jpg",
+  "modx_id": 6953,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

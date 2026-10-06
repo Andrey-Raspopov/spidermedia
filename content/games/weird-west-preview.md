@@ -4,6 +4,12 @@
   "url": "/games/weird-west-preview/",
   "original_url": "http://spidermedia.ru/games/weird-west-preview",
   "archived": "https://web.archive.org/web/20260307055056/http://spidermedia.ru/games/weird-west-preview",
+  "cover": "https://web.archive.org/web/20260307055056im_/http://spidermedia.ru/assets/images/games/043.png",
+  "modx_id": 102456,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

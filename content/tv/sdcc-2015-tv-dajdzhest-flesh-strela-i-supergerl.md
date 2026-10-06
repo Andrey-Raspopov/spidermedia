@@ -9,7 +9,14 @@
     "san-diego-comic-con-international",
     "green-arrow",
     "the-flash",
-    "supergirl"
+    "supergirl",
+    "sdcc2015"
+  ],
+  "cover": "https://web.archive.org/web/20160611141918im_/http://spidermedia.ru/assets/images/news/sdcc/2015/tv/xz2wvnhflc.jpg",
+  "modx_id": 100363,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

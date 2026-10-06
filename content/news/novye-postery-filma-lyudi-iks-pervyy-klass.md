@@ -1,6 +1,6 @@
 {
   "title": "Новые постеры фильма \"Люди Икс: Первый класс\"",
-  "date": "2011-04-20T13:15:00+03:00",
+  "date": "2011-04-20T12:15:10+03:00",
   "url": "/news/novye-postery-filma-lyudi-iks-pervyy-klass/",
   "original_url": "http://spidermedia.ru/news/novye-postery-filma-lyudi-iks-pervyy-klass",
   "archived": "https://web.archive.org/web/20260125065227/http://spidermedia.ru/news/novye-postery-filma-lyudi-iks-pervyy-klass",
@@ -9,6 +9,12 @@
     "marvel",
     "lyudi-iks-pervyj-klass",
     "x-men-first-class"
+  ],
+  "cover": "https://web.archive.org/web/20160626182926im_/http://spidermedia.ru/assets/images/import_image/5853.jpg",
+  "modx_id": 5853,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,14 +1,24 @@
 {
   "title": "Спецвыпуск КиноКомикса",
-  "date": "2009-09-15T22:01:00+03:00",
+  "date": "2009-09-15T21:01:15+03:00",
   "url": "/blog/redson/specvypusk-kinokomiksa/",
+  "aliases": [
+    "/node/1896/"
+  ],
   "original_url": "http://spidermedia.ru/blog/redson/specvypusk-kinokomiksa",
   "archived": "https://web.archive.org/web/20120512043326/http://spidermedia.ru/blog/redson/specvypusk-kinokomiksa",
   "tags": [
     "sabretooth",
     "kino",
     "komiksy",
-    "sablezubyy"
+    "sablezubyy",
+    "sablezubyj"
+  ],
+  "cover": "https://web.archive.org/web/20120512043326im_/http://spidermedia.ru/assets/images/import_image/1896.gif",
+  "modx_id": 1896,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

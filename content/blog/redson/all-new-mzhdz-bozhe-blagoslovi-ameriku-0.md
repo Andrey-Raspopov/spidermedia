@@ -1,12 +1,18 @@
 {
   "title": "ALL-NEW МЖДЗ: БОЖЕ, БЛАГОСЛОВИ АМЕРИКУ",
-  "date": "2014-07-22T12:28:00+03:00",
+  "date": "2014-07-22T11:28:01+03:00",
   "url": "/blog/redson/all-new-mzhdz-bozhe-blagoslovi-ameriku-0/",
   "original_url": "http://spidermedia.ru/blog/redson/all-new-mzhdz-bozhe-blagoslovi-ameriku-0",
   "archived": "https://web.archive.org/web/20161112213323/http://spidermedia.ru:80/blog/redson/all-new-mzhdz-bozhe-blagoslovi-ameriku-0",
   "tags": [
     "mzhdz",
     "mnenie"
+  ],
+  "cover": "https://web.archive.org/web/20161112213323im_/http://spidermedia.ru/assets/images/import_image/7909.jpg",
+  "modx_id": 7909,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Превью первого выпуска \"Хеллбоя\"",
-  "date": "2013-06-23T10:24:00+03:00",
+  "date": "2013-06-23T09:24:05+03:00",
   "url": "/news/prevyu-pervogo-vypuska-hellboya/",
   "original_url": "http://spidermedia.ru/news/prevyu-pervogo-vypuska-hellboya",
   "archived": "https://web.archive.org/web/20250808194818/http://spidermedia.ru/news/prevyu-pervogo-vypuska-hellboya",
@@ -10,6 +10,12 @@
     "zarubezhnye-komiksy-na-russkom",
     "hellboy",
     "dark-horse"
+  ],
+  "cover": "https://web.archive.org/web/20250808194818im_/http://spidermedia.ru/assets/images/import_image/7296.jpg",
+  "modx_id": 7296,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

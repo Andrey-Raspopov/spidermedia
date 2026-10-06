@@ -1,6 +1,6 @@
 {
   "title": "Семь корпусов, но всё равно не все",
-  "date": "2009-04-03T18:09:00+03:00",
+  "date": "2009-04-03T17:09:26+03:00",
   "url": "/news/sem-korpusov-no-vsyo-ravno-ne-vse/",
   "original_url": "https://spidermedia.ru/news/sem-korpusov-no-vsyo-ravno-ne-vse",
   "archived": "https://web.archive.org/web/20251216113040/https://spidermedia.ru/news/sem-korpusov-no-vsyo-ravno-ne-vse",
@@ -8,6 +8,12 @@
     "dc-comics",
     "blackest-night",
     "temnejshaya-noch"
+  ],
+  "cover": "https://web.archive.org/web/20251216113040im_/http://spidermedia.ru/assets/images/import_image/845.jpg",
+  "modx_id": 845,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

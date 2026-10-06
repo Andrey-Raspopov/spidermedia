@@ -8,6 +8,12 @@
     "zarubezhnye-komiksy-na-russkom",
     "imho"
   ],
+  "cover": "https://web.archive.org/web/20220314120548im_/http://spidermedia.ru/assets/images/imho/industry/1.jpg",
+  "modx_id": 101303,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

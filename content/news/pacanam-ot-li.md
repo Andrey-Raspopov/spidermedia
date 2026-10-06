@@ -1,7 +1,10 @@
 {
   "title": "Пацанам от Ли",
-  "date": "2009-02-26T15:16:00+03:00",
+  "date": "2009-02-26T15:16:57+03:00",
   "url": "/news/pacanam-ot-li/",
+  "aliases": [
+    "/node/521/"
+  ],
   "original_url": "https://spidermedia.ru/news/pacanam-ot-li",
   "archived": "https://web.archive.org/web/20251216123128/https://spidermedia.ru/news/pacanam-ot-li",
   "tags": [
@@ -9,6 +12,12 @@
     "jim-lee",
     "the-boys",
     "dynamite-entertainment"
+  ],
+  "cover": "https://web.archive.org/web/20150424090624im_/http://spidermedia.ru/assets/images/import_image/521.jpg",
+  "modx_id": 521,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

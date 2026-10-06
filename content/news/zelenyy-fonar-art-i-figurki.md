@@ -1,7 +1,10 @@
 {
   "title": "Зеленый Фонарь - арт и фигурки",
-  "date": "2011-01-09T09:26:00+03:00",
+  "date": "2011-01-09T09:26:29+03:00",
   "url": "/news/zelenyy-fonar-art-i-figurki/",
+  "aliases": [
+    "/node/3150/"
+  ],
   "original_url": "https://spidermedia.ru/news/zelenyy-fonar-art-i-figurki",
   "archived": "https://web.archive.org/web/20260309175758/https://spidermedia.ru/news/zelenyy-fonar-art-i-figurki",
   "tags": [
@@ -14,7 +17,14 @@
     "kilowog",
     "hal-jordan",
     "green-lantern",
-    "dc-comics"
+    "dc-comics",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20160507060748im_/http://spidermedia.ru/assets/images/import_image/3150.png",
+  "modx_id": 3150,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

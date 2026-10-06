@@ -1,6 +1,6 @@
 {
   "title": "Some say he is at Khyber Pass",
-  "date": "2011-06-21T02:20:00+03:00",
+  "date": "2011-06-21T01:20:46+03:00",
   "url": "/news/some-say-he-khyber-pass/",
   "original_url": "http://spidermedia.ru/news/some-say-he-khyber-pass",
   "archived": "https://web.archive.org/web/20251018235131/http://spidermedia.ru/news/some-say-he-khyber-pass",
@@ -8,6 +8,12 @@
     "frenk-miller",
     "legendary-comics",
     "holy-terror"
+  ],
+  "cover": "https://web.archive.org/web/20251018235131im_/http://spidermedia.ru/assets/images/import_image/6460.jpg",
+  "modx_id": 6460,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

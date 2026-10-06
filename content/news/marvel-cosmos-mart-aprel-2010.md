@@ -1,7 +1,10 @@
 {
   "title": "Marvel Cosmos: март - апрель 2010",
-  "date": "2010-03-15T16:32:00+03:00",
+  "date": "2010-03-15T16:32:53+03:00",
   "url": "/news/marvel-cosmos-mart-aprel-2010/",
+  "aliases": [
+    "/node/2443/"
+  ],
   "original_url": "http://spidermedia.ru/news/marvel-cosmos-mart-aprel-2010",
   "archived": "https://web.archive.org/web/20250913015200/http://spidermedia.ru/news/marvel-cosmos-mart-aprel-2010",
   "tags": [
@@ -12,11 +15,17 @@
     "inhumans",
     "guardians-of-the-galaxy"
   ],
+  "cover": "https://web.archive.org/web/20250913015200im_/http://spidermedia.ru/assets/images/import_image/2443.jpg",
+  "modx_id": 2443,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-Немного запоздало, но все-таки представляем вам релизы на **март - апрель 2010 года** тех комиксов **Marvel**, которые так или иначе связаны с космосом. Все комиксы в нашем релиз-листе будут написаны неизменными авторами комических серий - **Дэном Абнеттом** *(Dan Abnett)* и **Энди Лэннингог** *(Andy Lanning)* и затрагивать космическое событие, под общим названием **Realms of Kings**. Тем временем информацию о лимитке **Скотта Рида** *(Scott Reed)* - **Realm of Kings: Son of Hulk**, посвященной **Хиро-Кале** *(Hiro-Kala)* - второму сыну **Халка** *(Hulk)*, затерявшемуся на просторах космоса, и её релизах, вплоть до **мая**, вы можете прочесть [в соответствующей новости](http://spidermedia.ru/node/2411).
+Немного запоздало, но все-таки представляем вам релизы на **март - апрель 2010 года** тех комиксов **Marvel**, которые так или иначе связаны с космосом. Все комиксы в нашем релиз-листе будут написаны неизменными авторами комических серий - **Дэном Абнеттом** *(Dan Abnett)* и **Энди Лэннингог** *(Andy Lanning)* и затрагивать космическое событие, под общим названием **Realms of Kings**. Тем временем информацию о лимитке **Скотта Рида** *(Scott Reed)* - **Realm of Kings: Son of Hulk**, посвященной **Хиро-Кале** *(Hiro-Kala)* - второму сыну **Халка** *(Hulk)*, затерявшемуся на просторах космоса, и её релизах, вплоть до **мая**, вы можете прочесть [в соответствующей новости](../kneel-hiro-kala/).
 [![](https://web.archive.org/web/20250913015200im_/http://i.annihil.us/u/prod/marvel/i/content/62629comic_storystory_thumb-1084409..jpg)](http://www.comicbookresources.com/images/solicits/marvelcomics/201003/90_REALM_OF_KINGS__IMPERIAL_GUARD_5.jpg) [![](https://web.archive.org/web/20250913015200im_/http://i.annihil.us/u/prod/marvel/i/content/62603new_storyimage-27958712|100x150.jpg)](http://i.annihil.us/u/prod/marvel/i/content/62603new_storyimage-27958712.jpg)
 Обложки к **RoK: Imperial Guard #5** от **Брайана Хэберлина** *(Brian Haberlin)*и к **RoK: Inhumans #5** от **Cтепана Сейича** *(Stjepan Sejic)*В этом месяце, подходят к концу лимитки **RoK: Imperial Guard** *(художник **Кев Волкер** (Kev Walker))* и **RoK: Inhumans #5** *(художник **Пабло Раймонди** (Pablo Raimondi))*.
 

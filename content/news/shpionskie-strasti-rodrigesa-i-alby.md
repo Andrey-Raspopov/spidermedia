@@ -1,7 +1,10 @@
 {
   "title": "Шпионские страсти Родригеса и Альбы",
-  "date": "2009-06-22T12:41:00+03:00",
+  "date": "2009-06-22T11:41:36+03:00",
   "url": "/news/shpionskie-strasti-rodrigesa-i-alby/",
+  "aliases": [
+    "/node/1464/"
+  ],
   "original_url": "http://spidermedia.ru/news/shpionskie-strasti-rodrigesa-i-alby",
   "archived": "https://web.archive.org/web/20120607111643/http://spidermedia.ru/news/shpionskie-strasti-rodrigesa-i-alby",
   "tags": [
@@ -13,7 +16,14 @@
     "insaydery",
     "kino",
     "komiksy",
-    "robert-rodriges"
+    "robert-rodriges",
+    "insajdery"
+  ],
+  "cover": "https://web.archive.org/web/20120607111643im_/http://spidermedia.ru/assets/images/import_image/1464.jpg",
+  "modx_id": 1464,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

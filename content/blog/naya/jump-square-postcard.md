@@ -1,13 +1,21 @@
 {
   "title": "Jump Square: Postcard",
-  "date": "2009-04-26T20:48:00+03:00",
+  "date": "2009-04-26T19:48:56+03:00",
   "url": "/blog/naya/jump-square-postcard/",
   "original_url": "http://spidermedia.ru/blog/naya/jump-square-postcard",
   "archived": "https://web.archive.org/web/20251110232816/http://spidermedia.ru/blog/naya/jump-square-postcard",
   "tags": [
     "publishing",
     "manga",
-    "art-0"
+    "art-0",
+    "manga-2",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20251110232816im_/http://spidermedia.ru/assets/images/import_image/1061.jpg",
+  "modx_id": 1061,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

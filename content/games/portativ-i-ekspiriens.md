@@ -4,6 +4,12 @@
   "url": "/games/portativ-i-ekspiriens/",
   "original_url": "http://spidermedia.ru/games/portativ-i-ekspiriens",
   "archived": "https://web.archive.org/web/20260125124127/http://spidermedia.ru/games/portativ-i-ekspiriens",
+  "cover": "https://web.archive.org/web/20260125124127im_/http://spidermedia.ru/assets/images/games/portativ-i-ekspiriens/8.jpg",
+  "modx_id": 102211,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

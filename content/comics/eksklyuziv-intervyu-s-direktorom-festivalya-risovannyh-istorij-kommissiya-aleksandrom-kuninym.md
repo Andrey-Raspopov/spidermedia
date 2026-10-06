@@ -9,6 +9,12 @@
     "kommissiya",
     "roskomnadzor"
   ],
+  "cover": "https://web.archive.org/web/20240714190252im_/https://spidermedia.ru/assets/images/kommissia2015/mdgpjcjr6zc.jpg",
+  "modx_id": 100143,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

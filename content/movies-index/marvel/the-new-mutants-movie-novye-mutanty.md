@@ -4,6 +4,9 @@
   "url": "/movies-index/marvel/the-new-mutants-movie-novye-mutanty/",
   "original_url": "http://spidermedia.ru/movies-index/marvel/the-new-mutants-movie-novye-mutanty",
   "archived": "https://web.archive.org/web/20251110223955/http://spidermedia.ru/movies-index/marvel/the-new-mutants-movie-novye-mutanty",
+  "sources": [
+    "archive"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

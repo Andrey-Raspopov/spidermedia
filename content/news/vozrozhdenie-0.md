@@ -1,6 +1,6 @@
 {
   "title": "Возрождение?",
-  "date": "2011-07-08T21:35:00+03:00",
+  "date": "2011-07-08T20:35:04+03:00",
   "url": "/news/vozrozhdenie-0/",
   "original_url": "http://spidermedia.ru/news/vozrozhdenie-0",
   "archived": "https://web.archive.org/web/20260116214936/http://spidermedia.ru/news/vozrozhdenie-0",
@@ -8,6 +8,12 @@
     "dzhef-loeb",
     "ed-makginnes",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20260116214936im_/http://spidermedia.ru/assets/images/import_image/6486.jpg",
+  "modx_id": 6486,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

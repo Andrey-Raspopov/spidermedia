@@ -1,12 +1,21 @@
 {
   "title": "On sale Feb. 4",
-  "date": "2009-02-02T22:54:00+03:00",
+  "date": "2009-02-02T22:54:43+03:00",
   "url": "/blog/gess/sale-feb-4/",
+  "aliases": [
+    "/node/121/"
+  ],
   "original_url": "http://spidermedia.ru/blog/gess/sale-feb-4",
   "archived": "https://web.archive.org/web/20150428110252/http://spidermedia.ru/blog/gess/sale-feb-4",
   "tags": [
     "mnenie",
     "on-sale-this-week"
+  ],
+  "cover": "https://web.archive.org/web/20150428232327im_/http://spidermedia.ru/assets/images/import_image/121.jpg",
+  "modx_id": 121,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
@@ -50,7 +59,7 @@
 
 Номинальная цена: $11.95
 
-Это OGN. Но, даже не читав его, я уверен в том, что это круто. О чём я уже и [успел написать](../../../node/88/).
+Это OGN. Но, даже не читав его, я уверен в том, что это круто. О чём я уже и [успел написать](../what-total-awesomeness/).
 
 **Missing The Boat OGN**
 

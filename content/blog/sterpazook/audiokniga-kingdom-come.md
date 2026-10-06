@@ -1,7 +1,10 @@
 {
   "title": "Аудиокнига \"Kingdom Come\"",
-  "date": "2009-03-13T22:33:00+03:00",
+  "date": "2009-03-13T22:33:19+03:00",
   "url": "/blog/sterpazook/audiokniga-kingdom-come/",
+  "aliases": [
+    "/node/668/"
+  ],
   "original_url": "http://spidermedia.ru/blog/sterpazook/audiokniga-kingdom-come",
   "archived": "https://web.archive.org/web/20170710045332/http://spidermedia.ru:80/blog/sterpazook/audiokniga-kingdom-come",
   "tags": [
@@ -11,6 +14,12 @@
     "elseworlds",
     "kingdom-come",
     "alex-ross"
+  ],
+  "cover": "https://web.archive.org/web/20170710045332im_/http://spidermedia.ru/assets/images/import_image/668.gif",
+  "modx_id": 668,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

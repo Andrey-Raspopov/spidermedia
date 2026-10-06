@@ -8,6 +8,12 @@
     "hellboymedia",
     "intervyu"
   ],
+  "cover": "https://web.archive.org/web/20160611200812im_/http://spidermedia.ru/assets/images/hellboymedia/interview/hellboy-in-hell-with-mignola/part-2/hellboy-in-hell-with-mignola-part-2-cover.jpg",
+  "modx_id": 100486,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

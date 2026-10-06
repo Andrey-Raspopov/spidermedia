@@ -1,13 +1,23 @@
 {
   "title": "Планета Оа",
-  "date": "2010-10-22T08:08:00+03:00",
+  "date": "2010-10-22T07:08:50+03:00",
   "url": "/news/planeta-oa/",
+  "aliases": [
+    "/node/3025/"
+  ],
   "original_url": "https://spidermedia.ru/news/planeta-oa",
   "archived": "https://web.archive.org/web/20260211185346/https://spidermedia.ru/news/planeta-oa",
   "tags": [
     "art-0",
     "green-lantern",
-    "dc-comics"
+    "dc-comics",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20260211185346im_/http://spidermedia.ru/assets/images/import_image/3025.jpg",
+  "modx_id": 3025,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

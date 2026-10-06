@@ -1,12 +1,18 @@
 {
   "title": "Два года вместе с BUBBLE: комикс «Инок»",
-  "date": "2014-12-02T12:03:00+03:00",
+  "date": "2014-12-02T12:03:22+03:00",
   "url": "/blog/redson/dva-goda-vmeste-s-bubble-komiks-inok-0/",
   "original_url": "http://spidermedia.ru/blog/redson/dva-goda-vmeste-s-bubble-komiks-inok-0",
   "archived": "https://web.archive.org/web/20251206024613/http://spidermedia.ru/blog/redson/dva-goda-vmeste-s-bubble-komiks-inok-0",
   "tags": [
     "bubble",
     "obzor"
+  ],
+  "cover": "https://web.archive.org/web/20210730045136im_/http://spidermedia.ru/assets/images/import_image/8331.jpg",
+  "modx_id": 8331,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

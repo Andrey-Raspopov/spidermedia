@@ -1,12 +1,19 @@
 {
   "title": "Первые фотографии нового Робокопа (СПОЙЛЕР!)",
-  "date": "2012-09-16T11:57:00+03:00",
+  "date": "2012-09-16T10:57:00+03:00",
   "url": "/news/novyy-robokop/",
   "original_url": "http://spidermedia.ru/news/novyy-robokop",
   "archived": "https://web.archive.org/web/20150320064825/http://spidermedia.ru/news/novyy-robokop",
   "tags": [
     "robot-policejskij",
-    "kino"
+    "kino",
+    "robocop"
+  ],
+  "cover": "https://web.archive.org/web/20150326220817im_/http://spidermedia.ru/assets/images/import_image/7032.jpg",
+  "modx_id": 7032,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

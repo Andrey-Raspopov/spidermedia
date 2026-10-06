@@ -4,6 +4,12 @@
   "url": "/games/horizon-forbidden-west-opinion/",
   "original_url": "http://spidermedia.ru/games/horizon-forbidden-west-opinion",
   "archived": "https://web.archive.org/web/20260309180643/http://spidermedia.ru/games/horizon-forbidden-west-opinion",
+  "cover": "https://web.archive.org/web/20220314084233im_/http://spidermedia.ru/assets/images/games/21.png",
+  "modx_id": 102494,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

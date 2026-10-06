@@ -7,6 +7,12 @@
   "tags": [
     "zashhitniki"
   ],
+  "cover": "https://web.archive.org/web/20260215070742im_/http://spidermedia.ru/assets/images/movies/other/zaschitniki/sarik.jpg",
+  "modx_id": 101275,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

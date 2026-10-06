@@ -8,6 +8,12 @@
     "dc-comics",
     "new-gods"
   ],
+  "cover": "https://web.archive.org/web/20170615201833im_/http://spidermedia.ru/assets/images/news/mm/000.jpg",
+  "modx_id": 101564,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

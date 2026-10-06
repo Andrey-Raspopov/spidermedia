@@ -10,6 +10,12 @@
     "avengers",
     "ed-makginness"
   ],
+  "cover": "https://web.archive.org/web/20250715221328im_/http://spidermedia.ru/assets/images/reviews/marvel/avengers/fresh-start/1/mzk.jpg",
+  "modx_id": 101912,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

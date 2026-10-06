@@ -1,11 +1,17 @@
 {
   "title": "R.I.P. Джин Колан",
-  "date": "2011-06-24T10:34:00+03:00",
+  "date": "2011-06-24T09:34:44+03:00",
   "url": "/news/rip-dzhin-kolan/",
   "original_url": "https://spidermedia.ru/news/rip-dzhin-kolan",
   "archived": "https://web.archive.org/web/20260213064311/https://spidermedia.ru/news/rip-dzhin-kolan",
   "tags": [
     "dzhin-kolan"
+  ],
+  "cover": "https://web.archive.org/web/20260213064311im_/http://spidermedia.ru/assets/images/import_image/6468.jpg",
+  "modx_id": 6468,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

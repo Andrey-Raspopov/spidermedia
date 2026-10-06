@@ -8,6 +8,12 @@
     "dc-comics",
     "komik-kon-v-nyu-yorke"
   ],
+  "cover": "https://web.archive.org/web/20170306124253im_/http://spidermedia.ru/assets/images/news/nycc/2016/batwoman.jpg",
+  "modx_id": 101362,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

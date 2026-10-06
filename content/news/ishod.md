@@ -1,7 +1,10 @@
 {
   "title": "Исход",
-  "date": "2009-09-03T20:28:00+03:00",
+  "date": "2009-09-03T19:28:48+03:00",
   "url": "/news/ishod/",
+  "aliases": [
+    "/node/1715/"
+  ],
   "original_url": "http://spidermedia.ru/news/ishod",
   "archived": "https://web.archive.org/web/20200115082222/http://spidermedia.ru:80/news/ishod",
   "tags": [
@@ -13,7 +16,14 @@
     "terry-dodson",
     "mike-deodato",
     "marvel",
-    "avengers"
+    "avengers",
+    "mett-frakshen",
+    "lyudi-iks"
+  ],
+  "modx_id": 1715,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

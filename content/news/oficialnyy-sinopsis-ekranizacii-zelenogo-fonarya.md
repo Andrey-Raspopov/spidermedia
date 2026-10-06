@@ -1,11 +1,20 @@
 {
   "title": "Официальный синопсис экранизации Зеленого Фонаря",
-  "date": "2010-05-29T22:23:00+03:00",
+  "date": "2010-05-29T21:23:09+03:00",
   "url": "/news/oficialnyy-sinopsis-ekranizacii-zelenogo-fonarya/",
+  "aliases": [
+    "/node/2638/"
+  ],
   "original_url": "http://spidermedia.ru/news/oficialnyy-sinopsis-ekranizacii-zelenogo-fonarya",
   "archived": "https://web.archive.org/web/20251006013852/http://spidermedia.ru/news/oficialnyy-sinopsis-ekranizacii-zelenogo-fonarya",
   "tags": [
     "green-lantern"
+  ],
+  "cover": "https://web.archive.org/web/20251006013852im_/http://spidermedia.ru/assets/images/import_image/2638.jpg",
+  "modx_id": 2638,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

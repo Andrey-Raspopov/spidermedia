@@ -4,6 +4,9 @@
   "url": "/docs/articles/c-4/stan_lee/",
   "original_url": "http://spidermedia.ru/docs/articles/c-4/stan_lee.html",
   "archived": "https://web.archive.org/web/20051201123028/http://spidermedia.ru:80/docs/articles/c-4/stan_lee.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

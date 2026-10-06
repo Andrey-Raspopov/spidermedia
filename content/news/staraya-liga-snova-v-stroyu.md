@@ -1,6 +1,6 @@
 {
   "title": "Старая Лига снова в строю",
-  "date": "2011-09-27T15:59:00+03:00",
+  "date": "2011-09-27T14:59:41+03:00",
   "url": "/news/staraya-liga-snova-v-stroyu/",
   "original_url": "http://spidermedia.ru/news/staraya-liga-snova-v-stroyu",
   "archived": "https://web.archive.org/web/20251115030756/http://spidermedia.ru/news/staraya-liga-snova-v-stroyu",
@@ -8,6 +8,12 @@
     "justice-league",
     "animaciya",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150326160707im_/http://spidermedia.ru/assets/images/import_image/6624.jpg",
+  "modx_id": 6624,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

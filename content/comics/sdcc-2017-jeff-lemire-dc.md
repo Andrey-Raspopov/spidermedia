@@ -10,6 +10,12 @@
     "jeff-lemire",
     "san-diego-comic-con-international"
   ],
+  "cover": "https://web.archive.org/web/20220514083042im_/http://spidermedia.ru/assets/images/news/sdcc/2017/5729660-img_0399.jpg",
+  "modx_id": 101627,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

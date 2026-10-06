@@ -8,6 +8,12 @@
     "spidermedia-15th-anniversary",
     "kollekciya"
   ],
+  "cover": "https://web.archive.org/web/20170910222351im_/http://spidermedia.ru/assets/images/newgallery/gallery1616/collection_cover.jpg",
+  "modx_id": 101466,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

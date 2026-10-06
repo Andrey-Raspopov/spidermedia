@@ -1,7 +1,10 @@
 {
   "title": "Американский арт",
-  "date": "2009-04-24T22:26:00+03:00",
+  "date": "2009-04-24T21:26:24+03:00",
   "url": "/news/amerikanskiy-art/",
+  "aliases": [
+    "/node/1050/"
+  ],
   "original_url": "https://spidermedia.ru/news/amerikanskiy-art",
   "archived": "https://web.archive.org/web/20250325090421/https://spidermedia.ru/news/amerikanskiy-art",
   "tags": [
@@ -9,6 +12,11 @@
     "garri-ozborn",
     "norman-osborn",
     "spider-man"
+  ],
+  "modx_id": 1050,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -7,6 +7,12 @@
   "tags": [
     "vedmak"
   ],
+  "cover": "https://web.archive.org/web/20160611160541im_/http://spidermedia.ru/assets/images/games/witcher/001.jpg",
+  "modx_id": 100241,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

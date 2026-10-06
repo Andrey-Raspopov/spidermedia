@@ -8,6 +8,12 @@
     "dc-comics",
     "emerald-city-comicon"
   ],
+  "cover": "https://web.archive.org/web/20251108194553im_/http://spidermedia.ru/assets/images/news/dc/countdown-special-kamandi-1-41c53.jpg",
+  "modx_id": 101072,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

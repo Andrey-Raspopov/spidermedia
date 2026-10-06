@@ -1,6 +1,6 @@
 {
   "title": "Попади на предпремьерный показ \"Города героев\"!",
-  "date": "2014-10-20T14:09:00+03:00",
+  "date": "2014-10-20T13:09:35+03:00",
   "url": "/news/popadi-na-predpremernyy-pokaz-goroda-geroev/",
   "original_url": "http://spidermedia.ru/news/popadi-na-predpremernyy-pokaz-goroda-geroev",
   "archived": "https://web.archive.org/web/20260206215100/http://spidermedia.ru/news/popadi-na-predpremernyy-pokaz-goroda-geroev",
@@ -10,6 +10,12 @@
     "animaciya",
     "disney",
     "big-hero-6"
+  ],
+  "cover": "https://web.archive.org/web/20150326161004im_/http://spidermedia.ru/assets/images/import_image/8182.jpg",
+  "modx_id": 8182,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

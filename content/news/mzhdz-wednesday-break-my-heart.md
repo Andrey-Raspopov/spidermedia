@@ -1,12 +1,18 @@
 {
   "title": "МЖДЗ: WEDNESDAY BREAK MY HEART",
-  "date": "2011-11-23T19:15:00+03:00",
+  "date": "2011-11-23T18:15:29+03:00",
   "url": "/news/mzhdz-wednesday-break-my-heart/",
   "original_url": "http://spidermedia.ru/news/mzhdz-wednesday-break-my-heart",
   "archived": "https://web.archive.org/web/20260313112122/http://spidermedia.ru/news/mzhdz-wednesday-break-my-heart",
   "tags": [
     "mnenie",
     "mzhdz"
+  ],
+  "cover": "https://web.archive.org/web/20160715180645im_/http://spidermedia.ru/assets/images/import_image/6709.png",
+  "modx_id": 6709,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

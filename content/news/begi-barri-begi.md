@@ -1,7 +1,10 @@
 {
   "title": "Беги, Барри, Беги!",
-  "date": "2009-12-12T17:25:00+03:00",
+  "date": "2009-12-12T17:25:02+03:00",
   "url": "/news/begi-barri-begi/",
+  "aliases": [
+    "/node/2166/"
+  ],
   "original_url": "https://spidermedia.ru/news/begi-barri-begi",
   "archived": "https://web.archive.org/web/20260209104237/https://spidermedia.ru/news/begi-barri-begi",
   "tags": [
@@ -10,6 +13,11 @@
     "dc-comics",
     "the-flash",
     "francis-manapul"
+  ],
+  "modx_id": 2166,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

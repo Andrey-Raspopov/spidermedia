@@ -1,7 +1,10 @@
 {
   "title": "Prepare to be Astonished",
-  "date": "2010-04-02T01:17:00+03:00",
+  "date": "2010-04-02T00:17:48+03:00",
   "url": "/news/prepare-be-astonished/",
+  "aliases": [
+    "/node/2376/"
+  ],
   "original_url": "http://spidermedia.ru/news/prepare-be-astonished",
   "archived": "https://web.archive.org/web/20251205115736/http://spidermedia.ru/news/prepare-be-astonished",
   "tags": [
@@ -14,7 +17,13 @@
     "kaare-andrews",
     "jason-aaron",
     "spider-man",
-    "adam-kubert"
+    "adam-kubert",
+    "lyudi-iks"
+  ],
+  "modx_id": 2376,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

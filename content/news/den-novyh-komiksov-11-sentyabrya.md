@@ -1,11 +1,17 @@
 {
   "title": "День новых комиксов: 11 сентября",
-  "date": "2013-09-11T15:27:00+03:00",
+  "date": "2013-09-11T14:27:57+03:00",
   "url": "/news/den-novyh-komiksov-11-sentyabrya/",
   "original_url": "https://spidermedia.ru/news/den-novyh-komiksov-11-sentyabrya",
   "archived": "https://web.archive.org/web/20250807011910/https://spidermedia.ru/news/den-novyh-komiksov-11-sentyabrya",
   "tags": [
     "den-novyh-komiksov"
+  ],
+  "cover": "https://web.archive.org/web/20250807011910im_/http://spidermedia.ru/assets/images/import_image/7462.jpg",
+  "modx_id": 7462,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

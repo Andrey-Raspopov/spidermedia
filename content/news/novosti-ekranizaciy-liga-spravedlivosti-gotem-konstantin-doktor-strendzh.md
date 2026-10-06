@@ -1,6 +1,6 @@
 {
   "title": "Новости экранизаций: Лига Справедливости, Готэм, Константин, Доктор Стрэндж",
-  "date": "2014-01-14T13:15:00+03:00",
+  "date": "2014-01-14T12:15:20+03:00",
   "url": "/news/novosti-ekranizaciy-liga-spravedlivosti-gotem-konstantin-doktor-strendzh/",
   "original_url": "https://spidermedia.ru/news/novosti-ekranizaciy-liga-spravedlivosti-gotem-konstantin-doktor-strendzh",
   "archived": "https://web.archive.org/web/20260208211535/https://spidermedia.ru/news/novosti-ekranizaciy-liga-spravedlivosti-gotem-konstantin-doktor-strendzh",
@@ -14,7 +14,14 @@
     "gotem",
     "batman",
     "hellblazer",
-    "dc-comics"
+    "dc-comics",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20260208211535im_/http://spidermedia.ru/assets/images/import_image/7595.jpg",
+  "modx_id": 7595,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

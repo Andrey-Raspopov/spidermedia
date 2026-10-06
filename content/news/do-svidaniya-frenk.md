@@ -1,6 +1,6 @@
 {
   "title": "До свидания, Фрэнк",
-  "date": "2011-11-17T15:52:00+03:00",
+  "date": "2011-11-17T14:52:12+03:00",
   "url": "/news/do-svidaniya-frenk/",
   "original_url": "http://spidermedia.ru/news/do-svidaniya-frenk",
   "archived": "https://web.archive.org/web/20250419054956/http://spidermedia.ru/news/do-svidaniya-frenk",
@@ -9,6 +9,12 @@
     "punisher",
     "dzheyson-aaron",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20250419054956im_/http://spidermedia.ru/assets/images/import_image/6700.jpg",
+  "modx_id": 6700,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

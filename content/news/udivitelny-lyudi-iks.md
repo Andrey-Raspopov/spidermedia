@@ -1,6 +1,6 @@
 {
   "title": "Удивительные Люди Икс",
-  "date": "2013-07-22T01:45:00+03:00",
+  "date": "2013-07-22T00:45:29+03:00",
   "url": "/news/udivitelny-lyudi-iks/",
   "original_url": "https://spidermedia.ru/news/udivitelny-lyudi-iks",
   "archived": "https://web.archive.org/web/20251111080142/https://spidermedia.ru/news/udivitelny-lyudi-iks",
@@ -9,7 +9,14 @@
     "dzheyson-aaron",
     "x-men",
     "jason-aaron",
-    "ed-mcguinness"
+    "ed-mcguinness",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20251111080142im_/http://spidermedia.ru/assets/images/import_image/7372.jpg",
+  "modx_id": 7372,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

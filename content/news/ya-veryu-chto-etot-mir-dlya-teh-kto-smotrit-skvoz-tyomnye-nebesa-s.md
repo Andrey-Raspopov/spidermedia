@@ -1,12 +1,18 @@
 {
   "title": "Я верю, что этот мир для тех кто смотрит сквозь тёмные небеса (с)",
-  "date": "2014-09-26T18:31:00+03:00",
+  "date": "2014-09-26T17:31:24+03:00",
   "url": "/news/ya-veryu-chto-etot-mir-dlya-teh-kto-smotrit-skvoz-tyomnye-nebesa-s/",
   "original_url": "http://spidermedia.ru/news/ya-veryu-chto-etot-mir-dlya-teh-kto-smotrit-skvoz-tyomnye-nebesa-s",
   "archived": "https://web.archive.org/web/20251107001910/http://spidermedia.ru/news/ya-veryu-chto-etot-mir-dlya-teh-kto-smotrit-skvoz-tyomnye-nebesa-s",
   "tags": [
     "superman",
     "kristofer-riv"
+  ],
+  "cover": "https://web.archive.org/web/20150502150624im_/http://spidermedia.ru/assets/images/import_image/8107.jpg",
+  "modx_id": 8107,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

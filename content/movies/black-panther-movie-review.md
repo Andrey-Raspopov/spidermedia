@@ -8,6 +8,12 @@
     "marvel",
     "black-panther"
   ],
+  "cover": "https://web.archive.org/web/20260206221436im_/http://spidermedia.ru/assets/images/movies/marvel/black-panther-2018/https_2f2fwww.newhdwallpapers.in2fwp-content2fuploads2f20172f102fblack-panther-poster.jpg",
+  "modx_id": 101838,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

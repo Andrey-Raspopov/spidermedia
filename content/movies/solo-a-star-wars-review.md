@@ -7,6 +7,12 @@
   "tags": [
     "zvezdnye-vojny"
   ],
+  "cover": "https://web.archive.org/web/20250814204157im_/http://spidermedia.ru/assets/images/movies/solo-poster.jpeg",
+  "modx_id": 101922,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

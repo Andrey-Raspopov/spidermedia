@@ -8,6 +8,12 @@
     "image-comics",
     "pretty-deadly"
   ],
+  "cover": "https://web.archive.org/web/20160612021955im_/http://spidermedia.ru/assets/images/news/image/pretty-deadly/image-expo-40-77f89-fe8fa.jpg",
+  "modx_id": 100398,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

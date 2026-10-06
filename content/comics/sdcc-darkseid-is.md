@@ -6,7 +6,14 @@
   "archived": "https://web.archive.org/web/20250620071006/http://spidermedia.ru/comics/sdcc-darkseid-is",
   "tags": [
     "dc-comics",
-    "san-diego-comic-con-international"
+    "san-diego-comic-con-international",
+    "sdcc2015"
+  ],
+  "cover": "https://web.archive.org/web/20250620071006im_/http://spidermedia.ru/assets/images/news/sdcc/2015/dc/jl-gods-men-bm-1-fa1f7.jpg",
+  "modx_id": 100355,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

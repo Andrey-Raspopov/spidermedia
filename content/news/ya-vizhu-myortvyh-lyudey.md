@@ -1,6 +1,6 @@
 {
   "title": "Я вижу мёртвых людей",
-  "date": "2009-02-15T13:18:00+03:00",
+  "date": "2009-02-15T13:18:19+03:00",
   "url": "/news/ya-vizhu-myortvyh-lyudey/",
   "original_url": "http://spidermedia.ru/news/ya-vizhu-myortvyh-lyudey",
   "archived": "https://web.archive.org/web/20260214135656/http://spidermedia.ru/news/ya-vizhu-myortvyh-lyudey",
@@ -9,6 +9,12 @@
     "marvel",
     "hercules",
     "amadeus-cho"
+  ],
+  "cover": "https://web.archive.org/web/20260214135656im_/http://spidermedia.ru/assets/images/import_image/373.jpg",
+  "modx_id": 373,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

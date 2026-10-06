@@ -1,7 +1,10 @@
 {
   "title": "Мировая война роботов",
-  "date": "2009-08-02T19:39:00+03:00",
+  "date": "2009-08-02T18:39:23+03:00",
   "url": "/news/mirovaya-voyna-robotov/",
+  "aliases": [
+    "/node/1713/"
+  ],
   "original_url": "http://spidermedia.ru/news/mirovaya-voyna-robotov",
   "archived": "https://web.archive.org/web/20260125064656/http://spidermedia.ru/news/mirovaya-voyna-robotov",
   "tags": [
@@ -9,6 +12,12 @@
     "robots",
     "idw-publishing",
     "ashley-wood"
+  ],
+  "cover": "https://web.archive.org/web/20260125064656im_/http://spidermedia.ru/assets/images/import_image/1713.jpg",
+  "modx_id": 1713,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

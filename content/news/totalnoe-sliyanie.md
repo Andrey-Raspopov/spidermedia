@@ -1,7 +1,10 @@
 {
   "title": "Тотальное Слияние",
-  "date": "2009-03-26T22:34:00+03:00",
+  "date": "2009-03-26T22:34:30+03:00",
   "url": "/news/totalnoe-sliyanie/",
+  "aliases": [
+    "/node/783/"
+  ],
   "original_url": "http://spidermedia.ru/news/totalnoe-sliyanie",
   "archived": "https://web.archive.org/web/20160427024553/http://spidermedia.ru/news/totalnoe-sliyanie",
   "tags": [
@@ -15,12 +18,18 @@
     "endi-lenning",
     "tajler-kirkham"
   ],
+  "cover": "https://web.archive.org/web/20160427024553im_/http://spidermedia.ru/assets/images/import_image/783.jpg",
+  "modx_id": 783,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
 [![FUSION001000COV_Choi-02.jpg - Picamatic - upload your images](https://web.archive.org/web/20160427024553im_/http://www.picamatic.com/show/2009/03/26/10/01/3042241_bigthumb.jpg "FUSION001000COV_Choi-02.jpg")](http://www.picamatic.com/view/3042241_FUSION001000COV_Choi-02/) [![FUSION002000COV_Stjepan.jpg - upload images with Picamatic](https://web.archive.org/web/20160427024553im_/http://www.picamatic.com/show/2009/03/26/09/19/3041792_bigthumb.jpg "FUSION002000COV_Stjepan.jpg")](http://www.picamatic.com/view/3041792_FUSION002000COV_Stjepan/)
-Неминуемое столкновение двух миров все ближе - кроссовер **Fusion**, анонс которого уже [был](../../node/480/) ранее, обретает новые очертания.
+Неминуемое столкновение двух миров все ближе - кроссовер **Fusion**, анонс которого уже [был](../sliyanie/) ранее, обретает новые очертания.
 Серия обзавелась черно-белым превью первого номера, судя по которому события будут происходит до **Секретного Вторжения** *(Secret Invasion)*:
 [![fusion001_004(gray)-cv.jpg - image uploaded to Picamatic](https://web.archive.org/web/20160427024553im_/http://www.picamatic.com/show/2009/03/26/10/15/3042423_bigthumb.jpg "fusion001_004(gray)-cv.jpg")](http://www.picamatic.com/view/3042423_fusion001_004(gray)-cv/) [![fusion001_005(gray)-cv.jpg - upload images with Picamatic](https://web.archive.org/web/20160427024553im_/http://www.picamatic.com/show/2009/03/26/10/16/3042430_bigthumb.jpg "fusion001_005(gray)-cv.jpg")](http://www.picamatic.com/view/3042430_fusion001_005(gray)-cv/) [![fusion001_006(gray)-cv.jpg - upload images with Picamatic](https://web.archive.org/web/20160427024553im_/http://www.picamatic.com/show/2009/03/26/10/16/3042429_bigthumb.jpg "fusion001_006(gray)-cv.jpg")](http://www.picamatic.com/view/3042429_fusion001_006(gray)-cv/) [![fusion001_007(gray)-cv.jpg - upload images with Picamatic](https://web.archive.org/web/20160427024553im_/http://www.picamatic.com/show/2009/03/26/10/17/3042436_bigthumb.jpg "fusion001_007(gray)-cv.jpg")](http://www.picamatic.com/view/3042436_fusion001_007(gray)-cv/) [![fusion001_008(gray)-cv.jpg - image uploaded to Picamatic](https://web.archive.org/web/20160427024553im_/http://www.picamatic.com/show/2009/03/26/10/16/3042435_bigthumb.jpg "fusion001_008(gray)-cv.jpg")](http://www.picamatic.com/view/3042435_fusion001_008(gray)-cv/)
 Совместный проект делается **Дэном Эбнеттом** *(Dan Abnett)* и **Энди Лэннингом** *(Andy Lanning)*, рисует "заслуженный коровщик" **Тайлер Киркхам** *(Tyler Kirkham)*, обложка второго выпуска от **Степана Сейджика** *(Stjepan Sejic)*. Старт в мае.

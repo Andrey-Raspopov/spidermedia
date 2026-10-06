@@ -1,7 +1,10 @@
 {
   "title": "Превью Agents of Atlas #2 и Ultimate HULK vs. WOLVERINE #3",
-  "date": "2009-02-26T23:04:00+03:00",
+  "date": "2009-02-26T23:04:17+03:00",
   "url": "/news/prevyu-agents-atlas-2-i-ultimate-hulk-vs-wolverine-3/",
+  "aliases": [
+    "/node/527/"
+  ],
   "original_url": "http://spidermedia.ru/news/prevyu-agents-atlas-2-i-ultimate-hulk-vs-wolverine-3",
   "archived": "https://web.archive.org/web/20260214143627/http://spidermedia.ru/news/prevyu-agents-atlas-2-i-ultimate-hulk-vs-wolverine-3",
   "tags": [
@@ -10,7 +13,13 @@
     "wolverine",
     "ultimate",
     "agenty-atlasa",
-    "preview"
+    "preview",
+    "prevyu"
+  ],
+  "modx_id": 527,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
@@ -25,4 +34,4 @@
 
 Почти не верится, но это правда.
 
-Уже есть превью **[HULK vs. WOLVERINE #3](../../node/196/)**!
+Уже есть превью **[HULK vs. WOLVERINE #3](../ultimate-dolgostroy-chast-2/)**!

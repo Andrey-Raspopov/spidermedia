@@ -1,13 +1,22 @@
 {
   "title": "Хранители: \"История Черной Шхуны\" и \"Под маской\"",
-  "date": "2009-03-19T00:45:00+03:00",
+  "date": "2009-03-19T00:45:15+03:00",
   "url": "/news/hraniteli-istoriya-chernoy-shhuny-i-pod-maskoy/",
+  "aliases": [
+    "/node/711/"
+  ],
   "original_url": "http://spidermedia.ru/news/hraniteli-istoriya-chernoy-shhuny-i-pod-maskoy",
   "archived": "https://web.archive.org/web/20220820002612/http://spidermedia.ru/news/hraniteli-istoriya-chernoy-shhuny-i-pod-maskoy",
   "tags": [
     "hraniteli",
     "animaciya",
     "alan-mur"
+  ],
+  "cover": "https://web.archive.org/web/20220820002612im_/http://spidermedia.ru/assets/images/import_image/711.jpg",
+  "modx_id": 711,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

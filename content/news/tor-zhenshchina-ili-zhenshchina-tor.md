@@ -1,12 +1,19 @@
 {
   "title": "Тор-женщина или женщина-Тор?",
-  "date": "2014-07-16T15:07:00+03:00",
+  "date": "2014-07-16T14:07:09+03:00",
   "url": "/news/tor-zhenshchina-ili-zhenshchina-tor/",
   "original_url": "http://spidermedia.ru/news/tor-zhenshchina-ili-zhenshchina-tor",
   "archived": "https://web.archive.org/web/20250909141539/http://spidermedia.ru/news/tor-zhenshchina-ili-zhenshchina-tor",
   "tags": [
     "marvel",
-    "thor"
+    "thor",
+    "tor"
+  ],
+  "cover": "https://web.archive.org/web/20150326155746im_/http://spidermedia.ru/assets/images/import_image/7893.jpg",
+  "modx_id": 7893,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

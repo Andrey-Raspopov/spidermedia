@@ -1,6 +1,6 @@
 {
   "title": "Hey, Poozers!",
-  "date": "2010-08-17T07:57:00+03:00",
+  "date": "2010-08-17T06:57:35+03:00",
   "url": "/news/hey-poozers/",
   "original_url": "http://spidermedia.ru/news/hey-poozers",
   "archived": "https://web.archive.org/web/20120718092518/http://spidermedia.ru/news/hey-poozers",
@@ -9,7 +9,14 @@
     "green-lantern",
     "art-0",
     "zelenyy-fonar",
-    "kino"
+    "kino",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20120718092518im_/http://spidermedia.ru/assets/images/import_image/2846.png",
+  "modx_id": 2846,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

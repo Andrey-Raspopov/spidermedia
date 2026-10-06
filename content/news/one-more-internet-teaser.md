@@ -1,13 +1,22 @@
 {
   "title": "One More Internet Teaser",
-  "date": "2010-04-12T00:45:00+03:00",
+  "date": "2010-04-11T23:45:45+03:00",
   "url": "/news/one-more-internet-teaser/",
+  "aliases": [
+    "/node/2533/"
+  ],
   "original_url": "https://spidermedia.ru/news/one-more-internet-teaser",
   "archived": "https://web.archive.org/web/20260215071740/https://spidermedia.ru/news/one-more-internet-teaser",
   "tags": [
     "paolo-rivera",
     "marvel",
     "dzho-kesada"
+  ],
+  "cover": "https://web.archive.org/web/20260215071740im_/http://spidermedia.ru/assets/images/import_image/2533.jpg",
+  "modx_id": 2533,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,14 +1,23 @@
 {
   "title": "X-Force: Свежие новости",
-  "date": "2009-05-02T01:33:00+03:00",
+  "date": "2009-05-02T00:33:21+03:00",
   "url": "/news/x-force-svezhie-novosti/",
+  "aliases": [
+    "/node/1012/"
+  ],
   "original_url": "http://spidermedia.ru/news/x-force-svezhie-novosti",
   "archived": "https://web.archive.org/web/20120608205400/http://spidermedia.ru/news/x-force-svezhie-novosti",
   "tags": [
     "x-force",
     "x-universe",
     "komiksy",
-    "marvel"
+    "marvel",
+    "lyudi-iks"
+  ],
+  "modx_id": 1012,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Марк Миллар такой Марк Миллар",
-  "date": "2011-11-01T11:46:00+03:00",
+  "date": "2011-11-01T10:46:49+03:00",
   "url": "/news/mark-millar-takoy-mark-millar/",
   "original_url": "http://spidermedia.ru/news/mark-millar-takoy-mark-millar",
   "archived": "https://web.archive.org/web/20120608201012/http://spidermedia.ru/news/mark-millar-takoy-mark-millar",
@@ -10,6 +10,12 @@
     "supercrooks",
     "kino",
     "mark-millar"
+  ],
+  "cover": "https://web.archive.org/web/20120608201012im_/http://spidermedia.ru/assets/images/import_image/6679.jpg",
+  "modx_id": 6679,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

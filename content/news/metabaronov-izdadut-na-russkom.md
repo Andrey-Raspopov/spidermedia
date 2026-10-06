@@ -1,6 +1,6 @@
 {
   "title": "\"Метабаронов\" издадут на русском?",
-  "date": "2013-07-26T11:36:00+03:00",
+  "date": "2013-07-26T10:36:51+03:00",
   "url": "/news/metabaronov-izdadut-na-russkom/",
   "original_url": "http://spidermedia.ru/news/metabaronov-izdadut-na-russkom",
   "archived": "https://web.archive.org/web/20250804011142/http://spidermedia.ru/news/metabaronov-izdadut-na-russkom",
@@ -8,6 +8,12 @@
     "zarubezhnye-komiksy-na-russkom",
     "talking-head",
     "metabarony"
+  ],
+  "cover": "https://web.archive.org/web/20250804011142im_/http://spidermedia.ru/assets/images/import_image/7382.jpg",
+  "modx_id": 7382,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

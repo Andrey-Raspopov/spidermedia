@@ -1,6 +1,6 @@
 {
   "title": "I'm sexy and I know it",
-  "date": "2012-04-16T11:00:00+03:00",
+  "date": "2012-04-16T10:00:56+03:00",
   "url": "/news/im-sexy-and-i-know-it/",
   "original_url": "https://spidermedia.ru/news/im-sexy-and-i-know-it",
   "archived": "https://web.archive.org/web/20251216174431/https://spidermedia.ru/news/im-sexy-and-i-know-it",
@@ -9,6 +9,12 @@
     "dzhejms-ezmus",
     "gambit",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20251216174431im_/http://spidermedia.ru/assets/images/import_image/6878.jpg",
+  "modx_id": 6878,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Отрывок из мультфильма SUPERMAN: UNBOUND",
-  "date": "2013-04-19T10:44:00+03:00",
+  "date": "2013-04-19T09:44:19+03:00",
   "url": "/news/otryvok-iz-multfilma-superman-unbound/",
   "original_url": "http://spidermedia.ru/news/otryvok-iz-multfilma-superman-unbound",
   "archived": "https://web.archive.org/web/20260117230904/http://spidermedia.ru/news/otryvok-iz-multfilma-superman-unbound",
@@ -9,6 +9,12 @@
     "brejniak",
     "animaciya",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150428110719im_/http://spidermedia.ru/assets/images/import_image/7214.jpg",
+  "modx_id": 7214,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

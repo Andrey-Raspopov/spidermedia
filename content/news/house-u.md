@@ -1,6 +1,6 @@
 {
   "title": "House of U",
-  "date": "2012-11-20T04:07:00+03:00",
+  "date": "2012-11-20T03:07:55+03:00",
   "url": "/news/house-u/",
   "original_url": "http://spidermedia.ru/news/house-u",
   "archived": "https://web.archive.org/web/20200219114841/http://spidermedia.ru:80/news/house-u",
@@ -9,7 +9,14 @@
     "brendon-peterson",
     "bryan-hitch",
     "brian-michael-bendis",
-    "marvel"
+    "marvel",
+    "brayan-hitch"
+  ],
+  "cover": "https://web.archive.org/web/20150428232208im_/http://spidermedia.ru/assets/images/import_image/7090.jpg",
+  "modx_id": 7090,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

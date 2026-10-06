@@ -4,6 +4,9 @@
   "url": "/comics/w/webofscsp/webofscsp/",
   "original_url": "http://www.spidermedia.ru/comics/w/webofscsp/webofscsp.html",
   "archived": "https://web.archive.org/web/20050307082201/http://www.spidermedia.ru:80/comics/w/webofscsp/webofscsp.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "cp1251 (guessed)"
 }

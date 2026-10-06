@@ -7,6 +7,12 @@
   "tags": [
     "ninja-turtles"
   ],
+  "cover": "https://web.archive.org/web/20160611093615im_/http://spidermedia.ru/assets/images/news/images/6_games/tmnt-plat-art-surface.jpg",
+  "modx_id": 100850,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

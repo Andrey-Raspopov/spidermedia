@@ -1,13 +1,22 @@
 {
   "title": "Волшебство сегодня",
-  "date": "2010-02-04T22:05:00+03:00",
+  "date": "2010-02-04T22:05:46+03:00",
   "url": "/news/volshebstvo-segodnya/",
+  "aliases": [
+    "/node/2338/"
+  ],
   "original_url": "https://spidermedia.ru/news/volshebstvo-segodnya",
   "archived": "https://web.archive.org/web/20250906075247/https://spidermedia.ru/news/volshebstvo-segodnya",
   "tags": [
     "pol-dini",
     "zatanna",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20250906075247im_/http://spidermedia.ru/assets/images/import_image/2338.jpg",
+  "modx_id": 2338,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

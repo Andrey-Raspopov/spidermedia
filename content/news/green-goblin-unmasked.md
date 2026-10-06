@@ -1,14 +1,24 @@
 {
   "title": "Green Goblin Unmasked",
-  "date": "2009-02-06T19:22:00+03:00",
+  "date": "2009-02-06T19:22:46+03:00",
   "url": "/news/green-goblin-unmasked/",
+  "aliases": [
+    "/node/231/"
+  ],
   "original_url": "http://spidermedia.ru/news/green-goblin-unmasked",
   "archived": "https://web.archive.org/web/20150427032905/http://spidermedia.ru/news/green-goblin-unmasked",
   "tags": [
     "norman-osborn",
     "marvel-comics",
     "zelyonyj-goblin",
-    "spider-man"
+    "spider-man",
+    "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150427032905im_/http://spidermedia.ru/assets/images/import_image/231.jpg",
+  "modx_id": 231,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,11 +1,17 @@
 {
   "title": "Съемки Фонаря начались!",
-  "date": "2010-03-16T18:33:00+03:00",
+  "date": "2010-03-16T18:33:56+03:00",
   "url": "/news/semki-fonarya-nachalis/",
   "original_url": "http://spidermedia.ru/news/semki-fonarya-nachalis",
   "archived": "https://web.archive.org/web/20250807214743/http://spidermedia.ru/news/semki-fonarya-nachalis",
   "tags": [
     "green-lantern"
+  ],
+  "cover": "https://web.archive.org/web/20250807214743im_/http://spidermedia.ru/assets/images/import_image/2448.jpg",
+  "modx_id": 2448,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,12 +1,18 @@
 {
   "title": "Рецензия на фильм \"Оз: Великий и Ужасный\"",
-  "date": "2013-03-07T15:54:00+03:00",
+  "date": "2013-03-07T14:54:52+03:00",
   "url": "/blog/igrok/recenziya-na-film-oz-velikiy-i-uzhasnyy/",
   "original_url": "http://spidermedia.ru/blog/igrok/recenziya-na-film-oz-velikiy-i-uzhasnyy",
   "archived": "https://web.archive.org/web/20130619134221/http://spidermedia.ru/blog/igrok/recenziya-na-film-oz-velikiy-i-uzhasnyy",
   "tags": [
     "kino",
     "recenziya"
+  ],
+  "cover": "https://web.archive.org/web/20130619134221im_/http://spidermedia.ru/assets/images/import_image/7159.jpg",
+  "modx_id": 7159,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

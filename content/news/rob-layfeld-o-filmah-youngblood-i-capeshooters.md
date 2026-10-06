@@ -1,7 +1,10 @@
 {
   "title": "Роб Лайфелд о фильмах \"Youngblood\" и \"Capeshooters\"",
-  "date": "2009-05-14T15:16:00+03:00",
+  "date": "2009-05-14T14:16:37+03:00",
   "url": "/news/rob-layfeld-o-filmah-youngblood-i-capeshooters/",
+  "aliases": [
+    "/node/1182/"
+  ],
   "original_url": "http://spidermedia.ru/news/rob-layfeld-o-filmah-youngblood-i-capeshooters",
   "archived": "https://web.archive.org/web/20260214132927/http://spidermedia.ru/news/rob-layfeld-o-filmah-youngblood-i-capeshooters",
   "tags": [
@@ -11,11 +14,17 @@
     "rob-liefeld",
     "molodaya-krov"
   ],
+  "cover": "https://web.archive.org/web/20260214132927im_/http://spidermedia.ru/assets/images/import_image/1182.jpg",
+  "modx_id": 1182,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-Автор и художник **Роб Лайфелд** *(Rob Liefeld)* поделился новой информацией касательно экранизаций двух его комиксов - [**"Youngblood"**](../../node/284/) (о команде супергероев на службе правительства) и **"Capeshooters"** (о недотепах-папарацци, охотящихся за клубничкой с участием супергероев).
+Автор и художник **Роб Лайфелд** *(Rob Liefeld)* поделился новой информацией касательно экранизаций двух его комиксов - [**"Youngblood"**](../kino-zombi-massovogo-unichtozheniyai-i-youngblood/) (о команде супергероев на службе правительства) и **"Capeshooters"** (о недотепах-папарацци, охотящихся за клубничкой с участием супергероев).
 
 ![Photobucket](https://web.archive.org/web/20260214132927im_/http://img.photobucket.com/albums/v335/sterpazook/ea240efb.jpg)
 

@@ -9,6 +9,12 @@
     "captain-america",
     "marvel"
   ],
+  "cover": "https://web.archive.org/web/20160617095742im_/http://spidermedia.ru/assets/images/news/movies/avengers/mz2jckmfx4k.jpg",
+  "modx_id": 100106,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

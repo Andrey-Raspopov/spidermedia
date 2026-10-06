@@ -1,11 +1,19 @@
 {
   "title": "Комиксы покоряют Лувр",
-  "date": "2009-01-29T16:34:00+03:00",
+  "date": "2009-01-29T16:34:57+03:00",
   "url": "/news/komiksy-pokoryayut-luvr/",
+  "aliases": [
+    "/node/9/"
+  ],
   "original_url": "https://spidermedia.ru/news/komiksy-pokoryayut-luvr",
   "archived": "https://web.archive.org/web/20250420025141/https://spidermedia.ru/news/komiksy-pokoryayut-luvr",
   "tags": [
     "vneshnij-mir"
+  ],
+  "modx_id": 9,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

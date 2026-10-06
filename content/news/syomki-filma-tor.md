@@ -1,13 +1,20 @@
 {
   "title": "Коллекция материалов со съёмок фильма \"Тор\"",
-  "date": "2011-04-17T11:42:00+03:00",
+  "date": "2011-04-17T10:42:03+03:00",
   "url": "/news/syomki-filma-tor/",
   "original_url": "http://spidermedia.ru/news/syomki-filma-tor",
   "archived": "https://web.archive.org/web/20240624131602/http://spidermedia.ru/news/syomki-filma-tor",
   "tags": [
     "kennet-brana",
     "thor",
-    "marvel"
+    "marvel",
+    "tor"
+  ],
+  "cover": "https://web.archive.org/web/20240624131602im_/http://spidermedia.ru/assets/images/import_image/5032.png",
+  "modx_id": 5032,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

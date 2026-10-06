@@ -1,7 +1,10 @@
 {
   "title": "Whatever Happened to Marvel's \"Siege\"",
-  "date": "2010-02-08T13:13:00+03:00",
+  "date": "2010-02-08T13:13:50+03:00",
   "url": "/blog/sir-carnage/whatever-happened-marvels-siege/",
+  "aliases": [
+    "/node/2349/"
+  ],
   "original_url": "http://spidermedia.ru/blog/sir-carnage/whatever-happened-marvels-siege",
   "archived": "https://web.archive.org/web/20251213202943/http://spidermedia.ru/blog/sir-carnage/whatever-happened-marvels-siege",
   "tags": [
@@ -14,6 +17,12 @@
     "whatever-happened",
     "j-michael-straczynski",
     "matt-fraction"
+  ],
+  "cover": "https://web.archive.org/web/20150424175658im_/http://spidermedia.ru/assets/images/import_image/2349.jpg",
+  "modx_id": 2349,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

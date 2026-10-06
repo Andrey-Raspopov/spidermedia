@@ -1,12 +1,17 @@
 {
   "title": "Whatever Happened to Kevin Smith's Superman",
-  "date": "2010-02-13T21:16:00+03:00",
+  "date": "2010-02-13T21:16:38+03:00",
   "url": "/blog/oleg89/whatever-happened-kevin-smiths-superman/",
   "original_url": "http://spidermedia.ru/blog/oleg89/whatever-happened-kevin-smiths-superman",
   "archived": "https://web.archive.org/web/20240720170404/http://spidermedia.ru/blog/oleg89/whatever-happened-kevin-smiths-superman",
   "tags": [
     "superman",
     "kevin-smit"
+  ],
+  "modx_id": 2367,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

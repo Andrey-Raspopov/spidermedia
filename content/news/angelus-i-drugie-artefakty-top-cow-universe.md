@@ -1,7 +1,10 @@
 {
   "title": "Ангелус и другие артефакты Top Cow Universe",
-  "date": "2009-12-23T10:23:00+03:00",
+  "date": "2009-12-23T10:23:24+03:00",
   "url": "/news/angelus-i-drugie-artefakty-top-cow-universe/",
+  "aliases": [
+    "/node/2189/"
+  ],
   "original_url": "http://spidermedia.ru/news/angelus-i-drugie-artefakty-top-cow-universe",
   "archived": "https://web.archive.org/web/20200127141415/http://spidermedia.ru:80/news/angelus-i-drugie-artefakty-top-cow-universe",
   "tags": [
@@ -9,11 +12,17 @@
     "trinity",
     "top-cow"
   ],
+  "cover": "https://web.archive.org/web/20200127141415im_/http://spidermedia.ru/assets/images/import_image/2189.jpg",
+  "modx_id": 2189,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-Мы [уже писали](../../node/1945/) о перезагрузке ожидающей одну из основных *(по крайней мере так её теперь позиционируют. - прим.)* сил **Top Cow Universe** - **Ангелус** *(Angelus)*. Итак, теперь у силы **Ангелус** новый носитель: бывшая владелица **Клинка Ведьм** *(Witchblade)* - **Даниэль Баптист** *(Danielle Baptiste)* и новое направление развития, при котором, в отличии от полного контроля **Ангелус** за своим носителем, как было раньше, сила и её владелец существуют в гармонии друг с другом, как многие годы было с носителями **Тьмы** *(Darkness)*.[![Photobucket](https://web.archive.org/web/20200127141415im_/http://img.photobucket.com/albums/v499/sp888/th_angelus1.jpg)](http://smg.photobucket.com/albums/v499/sp888/?action=view¤t=angelus1.jpg) [![Photobucket](https://web.archive.org/web/20200127141415im_/http://img.photobucket.com/albums/v499/sp888/th_ANG002_COV.jpg)](http://smg.photobucket.com/albums/v499/sp888/?action=view¤t=ANG002_COV.jpg) [![Photobucket](https://web.archive.org/web/20200127141415im_/http://img.photobucket.com/albums/v499/sp888/th_angelus3.jpg)](http://smg.photobucket.com/albums/v499/sp888/?action=view¤t=angelus3.jpg)
+Мы [уже писали](../novaya-veha-dlya-angelus/) о перезагрузке ожидающей одну из основных *(по крайней мере так её теперь позиционируют. - прим.)* сил **Top Cow Universe** - **Ангелус** *(Angelus)*. Итак, теперь у силы **Ангелус** новый носитель: бывшая владелица **Клинка Ведьм** *(Witchblade)* - **Даниэль Баптист** *(Danielle Baptiste)* и новое направление развития, при котором, в отличии от полного контроля **Ангелус** за своим носителем, как было раньше, сила и её владелец существуют в гармонии друг с другом, как многие годы было с носителями **Тьмы** *(Darkness)*.[![Photobucket](https://web.archive.org/web/20200127141415im_/http://img.photobucket.com/albums/v499/sp888/th_angelus1.jpg)](http://smg.photobucket.com/albums/v499/sp888/?action=view¤t=angelus1.jpg) [![Photobucket](https://web.archive.org/web/20200127141415im_/http://img.photobucket.com/albums/v499/sp888/th_ANG002_COV.jpg)](http://smg.photobucket.com/albums/v499/sp888/?action=view¤t=ANG002_COV.jpg) [![Photobucket](https://web.archive.org/web/20200127141415im_/http://img.photobucket.com/albums/v499/sp888/th_angelus3.jpg)](http://smg.photobucket.com/albums/v499/sp888/?action=view¤t=angelus3.jpg)
 Обложки **Angelus ##1-3**Первый номер 6-и номерной мини, за авторством сценариста **Рона Марца** *(Ron Marz)* и художника **Степана Сейича** *(Stjepan Sejic)* появится на прилавках магазинов уже сегодня, мы же, тем временем, расскажем о серии поподробней, а так же представим вам превью **Angelus #1**.
 [![](https://web.archive.org/web/20200127141415im_/http://www.brokenfrontier.com/userfiles/images/headlines/2009/aug/ANG001_interiors_stamped_pg01_small.jpg)](http://www.brokenfrontier.com/userfiles/images/headlines/2009/aug/ANG001_interiors_stamped_pg01.jpg) [![](https://web.archive.org/web/20200127141415im_/http://www.brokenfrontier.com/userfiles/images/headlines/2009/aug/ANG001_interiors_stamped_pg02-03_small.jpg)](http://www.brokenfrontier.com/userfiles/images/headlines/2009/aug/ANG001_interiors_stamped_pg02-03.jpg)В серии, как уже сообщалось, будет рассказано как **Дани** воспринимает силу **Ангелус** и о том, что женщина планирует с ней делать, учитывая обязанности, которые на неё накладывает её новая роль во вселенной **Top Cow**. Так же свою роль в комиксе сыграют персонажи из **Witchblade**, вроде **Даркнесса** *(Jackie Estacado, Darkness)*, и не только, как например возможный любовный интерес **Даниэль** - девушка по имени **Финч** *(Finch)*. Кроме этого, комикс свяжет **Ангелус** с 13 артефактами вселенной **Top Cow**, два из которых ["огонь" и "лед"](http://i.livescience.com/images/BTA001000COV_Sook.jpg) вы могли видеть в серии **Broken Trinity**, а сами **Клинок Ведьм**, **Даркнесс** и **Ангелус** представляют из себя ещё три артефакта. Полный список артефактов, а по совместительству тизер к глобальному событию **Top Cow**, которое запланировано на **лето 2010**, смотрите ниже:
 [![Photobucket](https://web.archive.org/web/20200127141415im_/http://img.photobucket.com/albums/v499/sp888/th_MurdererKingpinpg21.jpg)](http://smg.photobucket.com/albums/v499/sp888/?action=view¤t=MurdererKingpinpg21.jpg)По словам **Рона**, для того, чтобы понять события кроссовера нет необходимости читать лимитку **Angelus** или онгоинги **Witchblade** и **Darkness** - каждая из серий лишь дополнит общую картину, но именно для кроссовера **Марцу** было так важно перезагрузить **Ангелус** и сделать её не только более важной частью вселенной, но и изменить принцип, благодаря которому персонаж функционирует. В том числе это важно для триумвирата **Ангелус/Вичблейд/Даркнесс**, потенциал которого так и не был раскрыт до сих пор. По словам сценариста, нечто подобное он планировал ещё тогда, когда впервые ввел **Даниэль Баптист**, а время не слишком изменило его планы на героиню и её будущее потому, что изначально было понятно, что когда **Клинок Ведьм** покинул его привычную владелицу - **Сару Пеццини** *(Sara Pezzini)*, то рано или поздно артефакт вернется к ней.

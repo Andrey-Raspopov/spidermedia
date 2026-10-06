@@ -1,7 +1,10 @@
 {
   "title": "Обзор игры Spider-Man: Shattered Dimensions (Xbox 360)",
-  "date": "2010-09-10T23:56:00+03:00",
+  "date": "2010-09-10T22:56:39+03:00",
   "url": "/blog/ironman/obzor-igry-spider-man-shattered-dimensions-xbox-360/",
+  "aliases": [
+    "/node/2904/"
+  ],
   "original_url": "https://spidermedia.ru/blog/ironman/obzor-igry-spider-man-shattered-dimensions-xbox-360",
   "archived": "https://web.archive.org/web/20230601183707/https://spidermedia.ru/blog/ironman/obzor-igry-spider-man-shattered-dimensions-xbox-360",
   "tags": [
@@ -12,6 +15,11 @@
     "spider-man",
     "noir",
     "marvel"
+  ],
+  "modx_id": 2904,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "Комиксы DC Universe. Выпуск № 26",
-  "date": "2010-08-27T23:24:00+03:00",
+  "date": "2010-08-27T22:24:46+03:00",
   "url": "/blog/derden/komiksy-dc-universe-vypusk-no-26/",
+  "aliases": [
+    "/node/2875/"
+  ],
   "original_url": "http://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-26",
   "archived": "https://web.archive.org/web/20260211190546/http://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-26",
   "tags": [
@@ -11,6 +14,12 @@
     "crime-syndicate",
     "justice-league",
     "dc-universe-comics"
+  ],
+  "cover": "https://web.archive.org/web/20260211190546im_/http://spidermedia.ru/assets/images/import_image/2875.jpg",
+  "modx_id": 2875,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

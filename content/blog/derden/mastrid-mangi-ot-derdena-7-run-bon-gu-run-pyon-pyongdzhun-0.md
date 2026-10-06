@@ -1,6 +1,6 @@
 {
   "title": "Мастрид манги от Дердена #7: Run, Bon-Gu, Run!, Пён Пёнгджун",
-  "date": "2015-01-29T15:05:00+03:00",
+  "date": "2015-01-29T15:05:02+03:00",
   "url": "/blog/derden/mastrid-mangi-ot-derdena-7-run-bon-gu-run-pyon-pyongdzhun-0/",
   "original_url": "http://spidermedia.ru/blog/derden/mastrid-mangi-ot-derdena-7-run-bon-gu-run-pyon-pyongdzhun-0",
   "archived": "https://web.archive.org/web/20250906074546/http://spidermedia.ru/blog/derden/mastrid-mangi-ot-derdena-7-run-bon-gu-run-pyon-pyongdzhun-0",
@@ -10,6 +10,12 @@
     "begi-bongu-begi",
     "manga",
     "pyon-pyongdzhun"
+  ],
+  "cover": "https://web.archive.org/web/20150326160255im_/http://spidermedia.ru/assets/images/import_image/8567.jpg",
+  "modx_id": 8567,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

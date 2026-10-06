@@ -1,6 +1,6 @@
 {
   "title": "Курт Бусиек - сценарист",
-  "date": "2009-04-05T16:23:00+03:00",
+  "date": "2009-04-05T15:23:07+03:00",
   "url": "/blog/ironman/kurt-busiek-scenarist/",
   "original_url": "http://spidermedia.ru/blog/ironman/kurt-busiek-scenarist",
   "archived": "https://web.archive.org/web/20120608180235/http://spidermedia.ru/blog/ironman/kurt-busiek-scenarist",
@@ -9,6 +9,11 @@
     "komiksy",
     "kurt-busiek",
     "marvel"
+  ],
+  "modx_id": 857,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

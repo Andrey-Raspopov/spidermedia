@@ -1,13 +1,20 @@
 {
   "title": "Трейлер сериала \"ДЬЯВОЛИК\"",
-  "date": "2012-11-10T12:32:00+03:00",
+  "date": "2012-11-10T11:32:31+03:00",
   "url": "/news/treyler-seriala-dyavolik/",
   "original_url": "https://spidermedia.ru/news/treyler-seriala-dyavolik",
   "archived": "https://web.archive.org/web/20251117002031/https://spidermedia.ru/news/treyler-seriala-dyavolik",
   "tags": [
     "serialy",
     "trejlery",
-    "dyavolik"
+    "dyavolik",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20251117002031im_/http://spidermedia.ru/assets/images/import_image/7086.jpg",
+  "modx_id": 7086,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

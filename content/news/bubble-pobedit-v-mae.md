@@ -1,12 +1,18 @@
 {
   "title": "BUBBLE победит в мае",
-  "date": "2015-02-26T12:49:00+03:00",
+  "date": "2015-02-26T12:49:03+03:00",
   "url": "/news/bubble-pobedit-v-mae/",
   "original_url": "http://spidermedia.ru/news/bubble-pobedit-v-mae",
   "archived": "https://web.archive.org/web/20250618105442/http://spidermedia.ru/news/bubble-pobedit-v-mae",
   "tags": [
     "russian-comics",
     "bubble"
+  ],
+  "cover": "https://web.archive.org/web/20150326155547im_/http://spidermedia.ru/assets/images/import_image/8653.jpg",
+  "modx_id": 8653,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

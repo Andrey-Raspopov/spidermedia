@@ -8,6 +8,12 @@
     "gotem",
     "dc-comics"
   ],
+  "cover": "https://web.archive.org/web/20160611091541im_/http://spidermedia.ru/assets/images/news/movies/_dc_comics/justice-league/vdgvzhkjtla.jpg",
+  "modx_id": 100980,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

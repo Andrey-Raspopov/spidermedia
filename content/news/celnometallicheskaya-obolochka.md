@@ -1,14 +1,25 @@
 {
   "title": "Цельнометаллическая оболочка",
-  "date": "2009-05-18T21:22:00+03:00",
+  "date": "2009-05-18T20:22:37+03:00",
   "url": "/news/celnometallicheskaya-obolochka/",
+  "aliases": [
+    "/node/1230/"
+  ],
   "original_url": "http://spidermedia.ru/news/celnometallicheskaya-obolochka",
   "archived": "https://web.archive.org/web/20120608221125/http://spidermedia.ru/news/celnometallicheskaya-obolochka",
   "tags": [
     "dc-comics",
     "metal-men",
     "art-0",
-    "kit-giffen-0"
+    "kit-giffen-0",
+    "kit-giffen",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20120608221125im_/http://spidermedia.ru/assets/images/import_image/1230.jpg",
+  "modx_id": 1230,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

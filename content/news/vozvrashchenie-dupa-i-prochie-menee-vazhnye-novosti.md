@@ -1,6 +1,6 @@
 {
   "title": "Возвращение Дупа и прочие менее важные новости",
-  "date": "2011-10-18T06:37:00+03:00",
+  "date": "2011-10-18T05:37:24+03:00",
   "url": "/news/vozvrashchenie-dupa-i-prochie-menee-vazhnye-novosti/",
   "original_url": "http://spidermedia.ru/news/vozvrashchenie-dupa-i-prochie-menee-vazhnye-novosti",
   "archived": "https://web.archive.org/web/20260124062223/http://spidermedia.ru/news/vozvrashchenie-dupa-i-prochie-menee-vazhnye-novosti",
@@ -12,7 +12,14 @@
     "x-men",
     "wolverine",
     "nycc-2011",
-    "marvel"
+    "marvel",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20260124062223im_/http://spidermedia.ru/assets/images/import_image/6655.jpg",
+  "modx_id": 6655,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

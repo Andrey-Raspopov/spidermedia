@@ -1,6 +1,6 @@
 {
   "title": "Продлят или закроют «Константина»?",
-  "date": "2014-11-24T12:03:00+03:00",
+  "date": "2014-11-24T12:03:19+03:00",
   "url": "/news/prodlyat-ili-zakroyut-konstantina/",
   "original_url": "http://spidermedia.ru/news/prodlyat-ili-zakroyut-konstantina",
   "archived": "https://web.archive.org/web/20251115024941/http://spidermedia.ru/news/prodlyat-ili-zakroyut-konstantina",
@@ -8,7 +8,14 @@
     "serialy",
     "dzhon-konstantin",
     "vertigo",
-    "dc-comics"
+    "dc-comics",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20251115024941im_/http://spidermedia.ru/assets/images/import_image/8312.jpg",
+  "modx_id": 8312,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "Халк протестует!",
-  "date": "2009-02-02T21:37:00+03:00",
+  "date": "2009-02-02T21:37:28+03:00",
   "url": "/blog/krofes/halk-protestuet/",
+  "aliases": [
+    "/node/119/"
+  ],
   "original_url": "http://spidermedia.ru/blog/krofes/halk-protestuet",
   "archived": "https://web.archive.org/web/20220814185620/http://spidermedia.ru/blog/krofes/halk-protestuet",
   "tags": [
@@ -9,7 +12,13 @@
     "animaciya",
     "hulk",
     "wolverine",
-    "thor"
+    "thor",
+    "tor"
+  ],
+  "modx_id": 119,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "Kick-Ass: Книга о фильме",
-  "date": "2009-06-08T13:38:00+03:00",
+  "date": "2009-06-08T12:38:45+03:00",
   "url": "/news/kick-ass-kniga-o-filme/",
+  "aliases": [
+    "/node/1381/"
+  ],
   "original_url": "https://spidermedia.ru/news/kick-ass-kniga-o-filme",
   "archived": "https://web.archive.org/web/20260120154957/https://spidermedia.ru/news/kick-ass-kniga-o-filme",
   "tags": [
@@ -11,6 +14,12 @@
     "kick-ass",
     "mettyu-von",
     "knigi"
+  ],
+  "cover": "https://web.archive.org/web/20260120154957im_/http://spidermedia.ru/assets/images/import_image/1381.jpg",
+  "modx_id": 1381,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Многообразие манги и с чем её есть",
-  "date": "2014-12-18T16:57:00+03:00",
+  "date": "2014-12-18T16:57:18+03:00",
   "url": "/blog/derden/mnogoobrazie-mangi-i-s-chem-eyo-est/",
   "original_url": "http://spidermedia.ru/blog/derden/mnogoobrazie-mangi-i-s-chem-eyo-est",
   "archived": "https://web.archive.org/web/20250618112620/http://spidermedia.ru/blog/derden/mnogoobrazie-mangi-i-s-chem-eyo-est",
@@ -8,6 +8,12 @@
     "manga",
     "kelli-syu-dekonnik",
     "alena-kamyshevskaya"
+  ],
+  "cover": "https://web.archive.org/web/20250618112620im_/http://spidermedia.ru/assets/images/import_image/8401.jpg",
+  "modx_id": 8401,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

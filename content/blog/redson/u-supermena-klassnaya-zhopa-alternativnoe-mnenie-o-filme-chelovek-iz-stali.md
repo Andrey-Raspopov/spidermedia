@@ -1,6 +1,6 @@
 {
   "title": "У Супермена классная жопа: альтернативное мнение о фильме «Человек из стали»",
-  "date": "2013-06-20T08:17:00+03:00",
+  "date": "2013-06-20T07:17:02+03:00",
   "url": "/blog/redson/u-supermena-klassnaya-zhopa-alternativnoe-mnenie-o-filme-chelovek-iz-stali/",
   "original_url": "https://spidermedia.ru/blog/redson/u-supermena-klassnaya-zhopa-alternativnoe-mnenie-o-filme-chelovek-iz-stali",
   "archived": "https://web.archive.org/web/20251116052533/https://spidermedia.ru/blog/redson/u-supermena-klassnaya-zhopa-alternativnoe-mnenie-o-filme-chelovek-iz-stali",
@@ -12,6 +12,12 @@
     "recenziya",
     "chelovek-iz-stali",
     "man-of-steel"
+  ],
+  "cover": "https://web.archive.org/web/20150424123534im_/http://spidermedia.ru/assets/images/import_image/7274.jpg",
+  "modx_id": 7274,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

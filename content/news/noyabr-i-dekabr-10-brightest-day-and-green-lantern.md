@@ -1,6 +1,6 @@
 {
   "title": "Ноябрь и декабрь '10 - Brightest Day and Green Lantern",
-  "date": "2010-09-21T12:23:00+03:00",
+  "date": "2010-09-21T11:23:27+03:00",
   "url": "/news/noyabr-i-dekabr-10-brightest-day-and-green-lantern/",
   "original_url": "http://spidermedia.ru/news/noyabr-i-dekabr-10-brightest-day-and-green-lantern",
   "archived": "https://web.archive.org/web/20260120164807/http://spidermedia.ru/news/noyabr-i-dekabr-10-brightest-day-and-green-lantern",
@@ -9,6 +9,12 @@
     "solicitations",
     "green-lantern",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20260120164807im_/http://spidermedia.ru/assets/images/import_image/2929.png",
+  "modx_id": 2929,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

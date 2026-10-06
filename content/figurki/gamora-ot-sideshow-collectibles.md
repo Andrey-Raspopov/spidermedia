@@ -8,6 +8,12 @@
     "sideshow",
     "gamora"
   ],
+  "cover": "https://web.archive.org/web/20160611140015im_/http://spidermedia.ru/assets/images/news/images/5_toys/sideshow/marvel/gamora/gamora-social.jpg",
+  "modx_id": 100914,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

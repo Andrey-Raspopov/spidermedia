@@ -1,6 +1,6 @@
 {
   "title": "И пришёл Бэйн",
-  "date": "2011-05-20T21:32:00+03:00",
+  "date": "2011-05-20T20:32:09+03:00",
   "url": "/news/i-prishyol-beyn/",
   "original_url": "https://spidermedia.ru/news/i-prishyol-beyn",
   "archived": "https://web.archive.org/web/20260209103507/https://spidermedia.ru/news/i-prishyol-beyn",
@@ -8,6 +8,12 @@
     "bejn",
     "dark-knight-rises",
     "batman"
+  ],
+  "cover": "https://web.archive.org/web/20260209103507im_/http://spidermedia.ru/assets/images/import_image/5885.jpg",
+  "modx_id": 5885,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

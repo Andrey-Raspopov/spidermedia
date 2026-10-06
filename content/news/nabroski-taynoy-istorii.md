@@ -1,7 +1,10 @@
 {
   "title": "Наброски тайной истории",
-  "date": "2010-03-16T14:45:00+03:00",
+  "date": "2010-03-16T14:45:21+03:00",
   "url": "/news/nabroski-taynoy-istorii/",
+  "aliases": [
+    "/node/2445/"
+  ],
   "original_url": "https://spidermedia.ru/news/nabroski-taynoy-istorii",
   "archived": "https://web.archive.org/web/20241011015744/https://spidermedia.ru/news/nabroski-taynoy-istorii",
   "tags": [
@@ -9,6 +12,12 @@
     "dastin-uiver",
     "s.h.i.e.l.d",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20241011015744im_/http://spidermedia.ru/assets/images/import_image/2445.jpg",
+  "modx_id": 2445,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

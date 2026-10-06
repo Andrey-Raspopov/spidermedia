@@ -4,6 +4,9 @@
   "url": "/link_list/",
   "original_url": "http://www.spidermedia.ru/link_list.html",
   "archived": "https://web.archive.org/web/20050217101702/http://www.spidermedia.ru:80/link_list.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

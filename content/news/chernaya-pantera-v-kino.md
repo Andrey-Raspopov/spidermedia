@@ -1,12 +1,18 @@
 {
   "title": "Черная Пантера в кино",
-  "date": "2011-01-21T10:34:00+03:00",
+  "date": "2011-01-21T10:34:33+03:00",
   "url": "/news/chernaya-pantera-v-kino/",
   "original_url": "https://spidermedia.ru/news/chernaya-pantera-v-kino",
   "archived": "https://web.archive.org/web/20250425223801/https://spidermedia.ru/news/chernaya-pantera-v-kino",
   "tags": [
     "black-panther",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20250425223801im_/http://spidermedia.ru/assets/images/import_image/3182.jpg",
+  "modx_id": 3182,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

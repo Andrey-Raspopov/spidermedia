@@ -8,6 +8,12 @@
     "fanzon",
     "mark-waid"
   ],
+  "cover": "https://web.archive.org/web/20251216123054im_/http://spidermedia.ru/assets/images/reviews/fanzon/irredeemable/vol-1/mzk.jpg",
+  "modx_id": 101979,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,6 +1,6 @@
 {
   "title": "Джозеф Гордон-Сэндмен",
-  "date": "2013-12-17T16:51:00+03:00",
+  "date": "2013-12-17T15:51:28+03:00",
   "url": "/news/dzhozef-gordon-sendmen/",
   "original_url": "https://spidermedia.ru/news/dzhozef-gordon-sendmen",
   "archived": "https://web.archive.org/web/20260305225657/https://spidermedia.ru/news/dzhozef-gordon-sendmen",
@@ -8,6 +8,12 @@
     "neil-gaiman-sandman",
     "vertigo",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20260305225657im_/http://spidermedia.ru/assets/images/import_image/7574.jpg",
+  "modx_id": 7574,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

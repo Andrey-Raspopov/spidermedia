@@ -1,13 +1,20 @@
 {
   "title": "Премьера \"Агентов Щ.И.Т.\" состоится в конце сентября",
-  "date": "2013-07-17T14:29:00+03:00",
+  "date": "2013-07-17T13:29:24+03:00",
   "url": "/news/premera-agentov-shchit-sostoitsya-osenyu/",
   "original_url": "http://spidermedia.ru/news/premera-agentov-shchit-sostoitsya-osenyu",
   "archived": "https://web.archive.org/web/20251206155856/http://spidermedia.ru/news/premera-agentov-shchit-sostoitsya-osenyu",
   "tags": [
     "serialy",
     "marvel",
-    "s.h.i.e.l.d"
+    "s.h.i.e.l.d",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20150326221011im_/http://spidermedia.ru/assets/images/import_image/7349.jpg",
+  "modx_id": 7349,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

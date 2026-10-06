@@ -1,7 +1,10 @@
 {
   "title": "Messiah War: Part 5",
-  "date": "2009-05-19T15:54:00+03:00",
+  "date": "2009-05-19T14:54:59+03:00",
   "url": "/news/messiah-war-part-5/",
+  "aliases": [
+    "/node/1238/"
+  ],
   "original_url": "http://spidermedia.ru/news/messiah-war-part-5",
   "archived": "https://web.archive.org/web/20260117222547/http://spidermedia.ru/news/messiah-war-part-5",
   "tags": [
@@ -14,6 +17,11 @@
     "stryfe",
     "nadezhda",
     "bishop"
+  ],
+  "modx_id": 1238,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

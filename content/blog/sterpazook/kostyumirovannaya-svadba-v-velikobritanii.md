@@ -1,12 +1,17 @@
 {
   "title": "Костюмированная свадьба в Великобритании",
-  "date": "2010-08-02T12:41:00+03:00",
+  "date": "2010-08-02T11:41:28+03:00",
   "url": "/blog/sterpazook/kostyumirovannaya-svadba-v-velikobritanii/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/kostyumirovannaya-svadba-v-velikobritanii",
   "archived": "https://web.archive.org/web/20231205090007/http://spidermedia.ru/blog/sterpazook/kostyumirovannaya-svadba-v-velikobritanii",
   "tags": [
     "kosplej",
     "sobytiya"
+  ],
+  "modx_id": 2828,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

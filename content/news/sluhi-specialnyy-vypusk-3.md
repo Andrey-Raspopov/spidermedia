@@ -1,7 +1,10 @@
 {
   "title": "Слухи: Специальный выпуск #3",
-  "date": "2010-07-14T00:19:00+03:00",
+  "date": "2010-07-13T23:19:02+03:00",
   "url": "/news/sluhi-specialnyy-vypusk-3/",
+  "aliases": [
+    "/node/2722/"
+  ],
   "original_url": "http://spidermedia.ru/news/sluhi-specialnyy-vypusk-3",
   "archived": "https://web.archive.org/web/20260117223233/http://spidermedia.ru/news/sluhi-specialnyy-vypusk-3",
   "tags": [
@@ -11,7 +14,14 @@
     "san-diego-comic-con-international",
     "marvel",
     "avatar-press",
-    "spider-man"
+    "spider-man",
+    "tor"
+  ],
+  "cover": "https://web.archive.org/web/20260117223233im_/http://spidermedia.ru/assets/images/import_image/2722.jpg",
+  "modx_id": 2722,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

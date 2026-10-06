@@ -1,12 +1,21 @@
 {
   "title": "Первый взгляд",
-  "date": "2009-11-26T21:05:00+03:00",
+  "date": "2009-11-26T21:05:19+03:00",
   "url": "/news/pervyy-vzglyad/",
+  "aliases": [
+    "/node/2135/"
+  ],
   "original_url": "https://spidermedia.ru/news/pervyy-vzglyad",
   "archived": "https://web.archive.org/web/20250429021737/https://spidermedia.ru/news/pervyy-vzglyad",
   "tags": [
     "dzhona-heks",
     "jonah-hex"
+  ],
+  "cover": "https://web.archive.org/web/20250429021737im_/http://spidermedia.ru/assets/images/import_image/2135.jpg",
+  "modx_id": 2135,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

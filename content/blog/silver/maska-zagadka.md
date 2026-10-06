@@ -1,7 +1,10 @@
 {
   "title": "Маска-загадка",
-  "date": "2009-02-01T04:23:00+03:00",
+  "date": "2009-02-01T04:23:35+03:00",
   "url": "/blog/silver/maska-zagadka/",
+  "aliases": [
+    "/node/63/"
+  ],
   "original_url": "http://spidermedia.ru/blog/silver/maska-zagadka",
   "archived": "https://web.archive.org/web/20260214132428/http://spidermedia.ru/blog/silver/maska-zagadka",
   "tags": [
@@ -9,6 +12,11 @@
     "endi-diggl",
     "ugadajka",
     "thunderbolts"
+  ],
+  "modx_id": 63,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "What happens in Vegas",
-  "date": "2011-10-20T08:10:00+03:00",
+  "date": "2011-10-20T07:10:45+03:00",
   "url": "/news/what-happens-vegas/",
   "original_url": "http://spidermedia.ru/news/what-happens-vegas",
   "archived": "https://web.archive.org/web/20260214133251/http://spidermedia.ru/news/what-happens-vegas",
@@ -15,6 +15,12 @@
     "red-hulk",
     "marvel",
     "prizrachnyj-gonshhik"
+  ],
+  "cover": "https://web.archive.org/web/20260214133251im_/http://spidermedia.ru/assets/images/import_image/6660.jpg",
+  "modx_id": 6660,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -4,6 +4,12 @@
   "url": "/games/assassins-creed-syndicate-demo/",
   "original_url": "http://spidermedia.ru/games/assassins-creed-syndicate-demo",
   "archived": "https://web.archive.org/web/20170615014429/http://spidermedia.ru/games/assassins-creed-syndicate-demo",
+  "cover": "https://web.archive.org/web/20160611093346im_/http://spidermedia.ru/assets/images/games/asscreed/ac001.jpg",
+  "modx_id": 100322,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

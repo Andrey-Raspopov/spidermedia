@@ -5,13 +5,18 @@
   "original_url": "https://spidermedia.ru/comics/all-things-valiant-35-week-07",
   "archived": "https://web.archive.org/web/20260125062328/https://spidermedia.ru/comics/all-things-valiant-35-week-07",
   "tags": [
-    "valiant-entertainment"
+    "valiant-entertainment",
+    "all-things-valiant"
+  ],
+  "cover": "https://web.archive.org/web/20160611203324im_/http://spidermedia.ru/assets/images/valiant/images/atv35/atv-35a.jpg",
+  "modx_id": 100907,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
-
-[![](https://web.archive.org/web/20160611224340im_/http://spidermedia.ru/assets/cache/images/valiant/images/atv35/622x-atv-35a.2e9.jpg)](https://web.archive.org/web/20160611203324im_/http://spidermedia.ru/assets/images/valiant/images/atv35/atv-35a.jpg)
 
 **Д**: Ты ведь понимаешь, что после этого тебя перестанут воспринимать, как серьезного комикс-критика?
 **А**: Возможно.
@@ -21,7 +26,7 @@
 **А**: Да! [Deadpool — отличный фильм](../../movies/goddamn-deadpool-movie-review/).
 **Д**: Вон из рубрики!
 
-**[Новости](./#news) **• [Рецензии](./#reviews)****
+**[Новости](#news) **• [Рецензии](#reviews)****
 
 В этом выпуске: что произойдет в 4001 году, очередная драма вокруг молота, а также ваш любимый оккультный доктор. Не Камберстрэндж.
 
@@ -46,28 +51,66 @@
 4001 A.D.: [Classified] #1 - август
 Сценарист [засекречен]; рисунок [засекречен]
 
-[![](https://web.archive.org/web/20160611210344im_/http://spidermedia.ru/assets/images/valiant/images/atv35/summer-of-4001-ad_poster_final.jpg)](./)
+![](https://web.archive.org/web/20160611210344im_/http://spidermedia.ru/assets/images/valiant/images/atv35/summer-of-4001-ad_poster_final.jpg)
 
 Но перед ивентом нас ожидает Valiant: 4001 A.D. FCBD Special – бесплатный номер, 7 мая традиционно заманивающий новичков, разросся до 40 страниц. Кроме прелюдии к ивенту 4001 A.D., обещают тизеры Divinity II и A&A: The Adventures of Archer & Armstrong, а также взгляд на пока засекреченные проекты издательства и выдержки из трейда мини-серии Faith.
 
-[![4001 A.D. #1 - 4 мая](http://spidermedia.ru/assets/images/valiant/images/atv35/4001_001_cover-a_crain-640x984.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv35/4001_001_cover-a_crain-640x984.jpg "4001 A.D. #1 - 4 мая")
-
-[![Valiant: 4001 A.D. FCBD Special](http://spidermedia.ru/assets/images/valiant/images/atv35/valiant_fcbd-2016_4001-ad_cover_crain-640x984.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv35/valiant_fcbd-2016_4001-ad_cover_crain-640x984.jpg "Valiant: 4001 A.D. FCBD Special")
-
-[![Rai #13 - май](http://spidermedia.ru/assets/images/valiant/images/atv35/rai_013_cover-a_mack-640x984.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv35/rai_013_cover-a_mack-640x984.jpg "Rai #13 - май")
-
-[![4001 A.D.: X-O Manowar #1 - май](http://spidermedia.ru/assets/images/valiant/images/atv35/4001-xo_001_cover-a_cafu-640x984.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv35/4001-xo_001_cover-a_cafu-640x984.jpg "4001 A.D.: X-O Manowar #1 - май")
-
-[![4001 A.D. #2 - июнь](http://spidermedia.ru/assets/images/valiant/images/atv35/4001_002_cover-a_crain-640x984.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv35/4001_002_cover-a_crain-640x984.jpg "4001 A.D. #2 - июнь")
-
-[![4001 A.D. #3 - июль](http://spidermedia.ru/assets/images/valiant/images/atv35/4001_003_cover-a_crain-640x984.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv35/4001_003_cover-a_crain-640x984.jpg "4001 A.D. #3 - июль")
-
-[![4001 A.D. #4 - август](http://spidermedia.ru/assets/images/valiant/images/atv35/4001_004_cover-a_crain-640x984.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv35/4001_004_cover-a_crain-640x984.jpg "4001 A.D. #4 - август")
-
-[![Чеклист](http://spidermedia.ru/assets/images/valiant/images/atv35/4001_checklist-640x984.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv35/4001_checklist-640x984.jpg "Чеклист")
+![](https://web.archive.org/web/20260125062328im_/http://spidermedia.ru/assets/images/valiant/images/atv35/4001_001_cover-a_crain-640x984.jpg)![](https://web.archive.org/web/20260125062328im_/http://spidermedia.ru/assets/images/valiant/images/atv35/valiant_fcbd-2016_4001-ad_cover_crain-640x984.jpg)![](https://web.archive.org/web/20260125062328im_/http://spidermedia.ru/assets/images/valiant/images/atv35/rai_013_cover-a_mack-640x984.jpg)![](https://web.archive.org/web/20260125062328im_/http://spidermedia.ru/assets/images/valiant/images/atv35/4001-xo_001_cover-a_cafu-640x984.jpg)![](https://web.archive.org/web/20260125062328im_/http://spidermedia.ru/assets/images/valiant/images/atv35/4001_002_cover-a_crain-640x984.jpg)![](https://web.archive.org/web/20260125062328im_/http://spidermedia.ru/assets/images/valiant/images/atv35/4001_003_cover-a_crain-640x984.jpg)![](https://web.archive.org/web/20260125062328im_/http://spidermedia.ru/assets/images/valiant/images/atv35/4001_004_cover-a_crain-640x984.jpg)![](https://web.archive.org/web/20260125062328im_/http://spidermedia.ru/assets/images/valiant/images/atv35/4001_checklist-640x984.jpg)
 
 ---
 
 **ЧТО МЫ ПРОЧИТАЛИ**
 
 ---
+
+a:2:{i:1;a:7:{s:5:"autor";a:3:{i:1;a:2:{i:0;s:16:"Сценарий";i:1;s:26:"Джен Ван Метер";}i:3;a:2:{i:0;s:14:"Рисунок";i:1;s:83:"Роберто Де Ла Торре, Диего Бернард, Том Палмер";}i:5;a:2:{i:0;s:8:"Цвет";i:1;s:21:"Дэвид Барон";}}s:4:"name";s:45:"THE DEATH-DEFYING DOCTOR MIRAGE: SECOND LIVES";s:7:"edition";s:2:"#3";s:5:"cover";s:57:"assets/images/valiant/images/atv35/dddr-m-sl-03-cover.jpg";s:9:"publisher";s:4:"1249";s:4:"year";s:4:"2016";s:8:"comments";a:1:{i:1;a:4:{s:5:"autor";s:6:"183732";s:4:"text";s:6871:"
+
+Раз мы обозреваем комиксы прошлой недели, то нельзя не упомянуть о Дне Святого Валентина. Дне, когда любовь витает не только в воздухе, но и в комиксах, что нам доказали «Комильфо», выпустив на русском языке одно из лучших произведений на данную тему (не [это](http://spidermedia.ru/assets/images/valiant/files/atv35/dddr-m-sl-03-image-a01.jpg), [это](http://spidermedia.ru/assets/images/valiant/files/atv35/dddr-m-sl-03-image-a02.jpg)). Ну а у издательства Valiant есть свой кандидат на звание самого романтического комикса самого романтического месяца в году — The Death-Defying Doctor Mirage.
+
+Шан и Хван наконец узнали личность таинственного колдуна-призрака. Пришло время открытого столкновения со злодеем!
+
+[[gallery? &id=`291` &type=`1` &rowHeight=`150` &maxRowHeight=`100%` &captions=`false` &fixedHeight=`false` &lastRow=`justify` &margins=`2`]]
+
+*Вот как надо сражаться с магами!*
+
+Экшн — не частый гость в серии, все же здесь важнее другое, но в этом выпуске у нас присутствует настоящая [экшн-сцена](http://spidermedia.ru/assets/images/valiant/files/atv35/dddr-m-sl-03-image-a03.jpg). Правда, полноценной схваткой это назвать сложно, она больше напоминает напряженный разговор, чем драку. Да и выглядит все не шибко захватывающе, хотя это больше вина художника. Но не за это мы любим Доктора Мираж.
+
+Главный конек серии — это работа с персонажами, в чем Ван Метер проявляет себя великолепно. В комиксе фигурирует довольно много героев (для такой компактной истории), и Джен всем уделяет достаточно времени. Лишних сцен здесь нет, каждая работает на развитие персонажей, добавляя по штриху к их эмоциональному портрету. Причем исполнено это очень элегантно: всего лишь парой кадров, парой фраз авторы доносят до читателя [переживания](http://spidermedia.ru/assets/images/valiant/files/atv35/dddr-m-sl-03-image-a04.jpg) героев.
+
+Что возможно только, когда сценарист и художник хорошо «чувствуют» друг друга. А у Джен и Роберто это есть. Отличным примером служит [эта сцена](http://spidermedia.ru/assets/images/valiant/files/atv35/dddr-m-sl-03-image-a05.jpg). Здесь лишь по одним лицам Шан и Хвана можно понять, о чем супруги Мираж думают: они никогда не применят заклинание, что может навредить кому-либо (пусть даже призракам), но Де Уолт обязательно им воспользуется, а значит, колдуна нужно непременно остановить.
+
+[[gallery? &id=`292` &type=`1` &rowHeight=`150` &maxRowHeight=`100%` &captions=`false` &fixedHeight=`false` &lastRow=`justify` &margins=`2`]]
+
+*Так, это сексизм или расизм?*
+
+О новой мини-серии про Доктора Мираж было известно давно, сразу после окончания первой. А превью страниц из Second Lives показали еще в мае прошлого года на [#ValiantSummit](../all-things-valiant-week-27/). Из чего следует, что у Роберто Де Ла Торре была уйма времени для рисования, что подтверждает качество первого и второго выпусков. Но третий номер явно делался в спешке. Иначе как объяснить [подобное](http://spidermedia.ru/assets/images/valiant/files/atv35/dddr-m-sl-03-image-a06.jpg)? А это вам не аниме-сериал, для BD TPB-релиза графику не подправят.
+
+Напрягает и тот факт, что добрую половину комикса занимают иллюстрации другого художника — Диего Бернарда. Мне его стиль совершенно не нравиться, и появление Диего в «Докторе» — неприятный сюрприз (я уже морально приготовился страдать дальше, ведь Бернард будет рисовать следующий арк в Ниндзяке). Одно хорошо — там где Де Ла Торре старается (как раньше), комикс выглядит великолепно.
+
+The Death-Defying Doctor Mirage: Second Lives #3 продолжает приносить поистине магическое удовольствие, чему не мешает даже слегка впопыхах нарисованная картинка. Развязка серии уже близка, но надеюсь, это не прощание с супругами Мираж.
+
+[[gallery? &id=`293` &type=`1` &rowHeight=`150` &maxRowHeight=`100%` &captions=`false` &fixedHeight=`false` &lastRow=`justify` &margins=`2`]]";s:8:"mjdzText";s:0:"";s:10:"conclusion";s:10:"ДОБРО";}}}i:2;a:7:{s:5:"autor";a:3:{i:1;a:2:{i:0;s:16:"Сценарий";i:1;s:19:"Мэтт Киндт";}i:3;a:2:{i:0;s:14:"Рисунок";i:1;s:51:"Дуг Брэйтвэйт, Хуан Хосе Рип";}i:5;a:2:{i:0;s:8:"Цвет";i:1;s:50:"Брайан Рибер, Улисес Ареола";}}s:4:"name";s:6:"NINJAK";s:7:"edition";s:3:"#12";s:5:"cover";s:54:"assets/images/valiant/images/atv35/ninjak-12-cover.jpg";s:9:"publisher";s:4:"1249";s:4:"year";s:4:"2016";s:8:"comments";a:1:{i:1;a:4:{s:5:"autor";s:6:"183731";s:4:"text";s:6952:"
+
+Читая громкую серию, примиряешься с ее вялостью в предпоследнем номере арка. За прошлые выпуски все фигуры уже расставили по местам. Все готово к впечатляющему финалу. Но количество страниц в трейде диктуют свой ритм. Поэтому задача подобных номеров – не растерять предыдущих читателей. Подобную директиву Ninjak #12 отрабатывает на ура.
+
+Ниндзяк и Панк Мамбо верхом на ходячем острове преследуют Эмбера, похитившего ценного свидетеля МИ-6. В конце пути их ожидает человек, стоявший за этим, – Джэк Бонифейс, в прошлом — герой Шадоумен, ныне — злодей поневоле Магпай.
+
+[[gallery? &id=`298` &type=`1` &rowHeight=`150` &maxRowHeight=`100%` &captions=`false` &fixedHeight=`false` &lastRow=`justify` &margins=`2`]]
+
+Если в прошлый раз Андрей жаловался на [черепаший шаг сюжета](../all-things-valiant-31-week-03/#item2), то в этот раз история просто дернула стоп-кран, уступила место экшену, оставила на прощание несколько твистов и сошла с поезда. Герои и злодеи разбиваются по парам и начинается файт. Но только Панк Мамбо демонстрирует динамично нарисованный Дугом Брэйтвэйтом экшен, а вот Ниндзяк и Шадоумен играют в любимую игру Marvel: наши герои встретились, почти договорились, но случайность привела к недопониманию, и они сцепились не на жизнь, а на смерть.
+
+В этом номере основной концепт арка – Ниндзяк, человек, не верящий в магию, пытается справиться с волшебством при помощи науки, – предстает с интересной стороны. Колин не пользуется гаджетами, вместо этого он убеждает Джэка, используя логику своего мир. Среди подвешенных клеток, пентаграмм и чадящих свечей Ниндзяк взывает к прагматизму и человечности. Хотя сюрреалистичность сцены и смазана лоском блокбастера, тем не менее, она говорит о персонаже больше, чем рекап собственной истории, которым Джэк потчует Колина.
+
+Этот выпуск цепляет не столько общей картиной, сколько отдельными ситуациями или даже фразами. Драка Панк Мамбо и Эмбера наконец-то продемонстрировала насколько крута Болотная ведьма. А тот, кто не захотел онгоинг про [Доктора Мираж адвоката бюрократов](http://spidermedia.ru/assets/images/valiant/files/atv35/ninjak-12-example-1.jpg), не имеет души.
+
+Увы, но те славные номера, когда бэкап был чуть ли не лучшей частью комикса, остались в прошлых арках. Этот же выпуск «Секретных файлов» можно описать одной фразой:
+
+[[gallery? &id=`299` &type=`1` &rowHeight=`150` &maxRowHeight=`100%` &captions=`false` &fixedHeight=`false` &lastRow=`justify` &margins=`2`]]
+
+*Собери 5 камней силы и получи +200 к свободе © Андрей Ложенко*
+
+Зато теперь уже никто не скрывает, что сценарий бэкапа подгоняют под Хуана Хосе Рипа. В этот раз он может рисовать все, что [пожелает](http://spidermedia.ru/assets/images/valiant/files/atv35/ninjak-12-example-2.jpg). Куча черепов? [Пожалуйста](http://spidermedia.ru/assets/images/valiant/files/atv35/ninjak-12-example-3.jpg)! Аквамен топит Титаник? [Распишитесь](http://spidermedia.ru/assets/images/valiant/files/atv35/ninjak-12-example-4.jpg)! Любимые потные великаны? [Сколько пожелаете](http://spidermedia.ru/assets/images/valiant/files/atv35/ninjak-12-example-5.jpg)! И на фоне Хосе, который продолжает признаваться в [любови к Assassin's Creed](http://spidermedia.ru/assets/images/valiant/files/atv35/ninjak-12-example-6.jpg), Дуг Брэйтвэйт, вынужденный держаться истории, выглядит пресно. Но даже в этой ситуации он справляется отлично. Редкая страница обходится без экспериментов в композиции. Постоянная смена ракурса, динамичность линий, экспрессия в кадре. Все это в купе с персонажами, выпирающими за рамки фрейма, вдруг ставшего для них тесным, поднимают художника в моих глазах. Хотя, конечно, никуда не исчез [винегрет теней вместо лиц](http://spidermedia.ru/assets/images/valiant/files/atv35/ninjak-12-example-7.jpg), [фотошоп](http://spidermedia.ru/assets/images/valiant/files/atv35/ninjak-12-example-8.jpg) и общая статика рисунка. Но в этот раз плюсы перевешивают.
+
+Да, лоскутность истории играет на руку забывчивости. Прочитав комикс в четверг, уже в субботу сложно вспомнить что-то, кроме отдельных сцен. Но воспоминания оставляют улыбку, а сам номер является ровно тем чистым блокбастером, который вам и обещали. Развлечение на раз, скажете. Да, на раз, но хорошее.
+
+";s:8:"mjdzText";s:0:"";s:10:"conclusion";s:10:"ДОБРО";}}}}

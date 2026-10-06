@@ -1,6 +1,6 @@
 {
   "title": "За кулисами",
-  "date": "2010-11-23T22:47:00+03:00",
+  "date": "2010-11-23T22:47:53+03:00",
   "url": "/news/za-kulisami/",
   "original_url": "https://spidermedia.ru/news/za-kulisami",
   "archived": "https://web.archive.org/web/20240812080226/https://spidermedia.ru/news/za-kulisami",
@@ -8,6 +8,11 @@
     "myuzikl",
     "spider-man-turn-off-the-dark",
     "spider-man"
+  ],
+  "modx_id": 3080,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

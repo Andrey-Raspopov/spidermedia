@@ -4,6 +4,9 @@
   "url": "/blog/redson/Flashpoint Secret Seven /",
   "original_url": "http://spidermedia.ru/blog/redson/Flashpoint%20Secret%20Seven%20",
   "archived": "https://web.archive.org/web/20120718215156/http://spidermedia.ru/blog/redson/Flashpoint%20Secret%20Seven%20",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "utf-8"
 }
@@ -12,7 +15,7 @@
 - [FAQ](https://web.archive.org/web/20150227111504/http://spidermedia.ru:80/faq)
 - [Комиксы](https://web.archive.org/web/20160705113334/http://spidermedia.ru/phpbb/viewforum.php?f=60 "Здесь можно бесплатно скачать комиксы")
 - [Статьи](https://web.archive.org/web/20150227111618/http://spidermedia.ru:80/articles "Эксклюзивные материалы о комиксах и комикс-индустрии")
-- [Форум](https://web.archive.org/web/20180610152150/http://spidermedia.ru:80/phpbb "Форум")
+- [Форум](https://web.archive.org/web/20220416112927/http://spidermedia.ru/phpbb/ "Форум")
 
 # [SpiderMedia.RU Комиксы, Кино, Супергерои, Игры, Фигурки, Анимация, Новости, Обзоры](https://web.archive.org/web/20260314084335/https://spidermedia.ru/)
 
@@ -54,7 +57,7 @@
 [человек-паук](../../../tags/chelovek-pauk/)
 [юмор](../../../tags/yumor/)
 
-[...остальные тэги](https://web.archive.org/web/20141013210339/http://spidermedia.ru/tags)
+[...остальные тэги](https://web.archive.org/web/20150319184843/http://spidermedia.ru/tags/)
 
 ]]>[![Магазин комиксов ЧУК И ГИК](https://web.archive.org/web/20120718215156im_/http://www.chookandgeek.ru/assets/1/7751/24135/logo.png)](http://www.chookandgeek.ru)]]>
 
@@ -70,7 +73,7 @@ Sort by: [[Заголовок](http://spidermedia.ru/blog/redson/Flashpoint%20Se
 - [FAQ](https://web.archive.org/web/20150227111504/http://spidermedia.ru:80/faq)
 - [Комиксы](https://web.archive.org/web/20160705113334/http://spidermedia.ru/phpbb/viewforum.php?f=60 "Здесь можно бесплатно скачать комиксы")
 - [Статьи](https://web.archive.org/web/20150227111618/http://spidermedia.ru:80/articles "Эксклюзивные материалы о комиксах и комикс-индустрии")
-- [Форум](https://web.archive.org/web/20180610152150/http://spidermedia.ru:80/phpbb "Форум")
+- [Форум](https://web.archive.org/web/20220416112927/http://spidermedia.ru/phpbb/ "Форум")
 
 © 2003-2012, SpiderMedia.RU
 

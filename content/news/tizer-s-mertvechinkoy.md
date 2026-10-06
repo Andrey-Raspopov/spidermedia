@@ -1,7 +1,10 @@
 {
   "title": "Тизер с мертвечинкой",
-  "date": "2009-03-14T22:11:00+03:00",
+  "date": "2009-03-14T21:11:20+03:00",
   "url": "/news/tizer-s-mertvechinkoy/",
+  "aliases": [
+    "/node/683/"
+  ],
   "original_url": "http://spidermedia.ru/news/tizer-s-mertvechinkoy",
   "archived": "https://web.archive.org/web/20120718070931/http://spidermedia.ru/news/tizer-s-mertvechinkoy",
   "tags": [
@@ -9,7 +12,15 @@
     "walking-dead",
     "art-0",
     "komiksy",
-    "robert-kirkman"
+    "robert-kirkman",
+    "art",
+    "the-walking-dead"
+  ],
+  "cover": "https://web.archive.org/web/20120718070931im_/http://spidermedia.ru/assets/images/import_image/683.jpg",
+  "modx_id": 683,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

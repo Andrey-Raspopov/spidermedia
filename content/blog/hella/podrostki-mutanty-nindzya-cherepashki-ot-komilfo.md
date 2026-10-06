@@ -1,6 +1,6 @@
 {
   "title": "Подростки Мутанты Ниндзя Черепашки от «Комильфо»",
-  "date": "2014-09-15T13:53:00+03:00",
+  "date": "2014-09-15T12:53:20+03:00",
   "url": "/blog/hella/podrostki-mutanty-nindzya-cherepashki-ot-komilfo/",
   "original_url": "http://spidermedia.ru/blog/hella/podrostki-mutanty-nindzya-cherepashki-ot-komilfo",
   "archived": "https://web.archive.org/web/20250806091709/http://spidermedia.ru/blog/hella/podrostki-mutanty-nindzya-cherepashki-ot-komilfo",
@@ -8,6 +8,12 @@
     "ninja-turtles",
     "komilfo",
     "zarubezhnye-komiksy-na-russkom"
+  ],
+  "cover": "https://web.archive.org/web/20150326221354im_/http://spidermedia.ru/assets/images/import_image/8060.jpg",
+  "modx_id": 8060,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

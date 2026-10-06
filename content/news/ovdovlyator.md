@@ -1,6 +1,6 @@
 {
   "title": "Овдовлятор",
-  "date": "2010-07-22T15:41:00+03:00",
+  "date": "2010-07-22T14:41:38+03:00",
   "url": "/news/ovdovlyator/",
   "original_url": "https://spidermedia.ru/news/ovdovlyator",
   "archived": "https://web.archive.org/web/20251211032456/https://spidermedia.ru/news/ovdovlyator",
@@ -13,6 +13,12 @@
     "mockingbird",
     "marvel",
     "hawkeye"
+  ],
+  "cover": "https://web.archive.org/web/20251211032456im_/http://spidermedia.ru/assets/images/import_image/2767.jpg",
+  "modx_id": 2767,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

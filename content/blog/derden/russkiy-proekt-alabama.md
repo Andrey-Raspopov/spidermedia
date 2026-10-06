@@ -1,11 +1,20 @@
 {
   "title": "Русский проект: Alabama",
-  "date": "2009-07-19T03:13:00+03:00",
+  "date": "2009-07-19T02:13:05+03:00",
   "url": "/blog/derden/russkiy-proekt-alabama/",
+  "aliases": [
+    "/node/1591/"
+  ],
   "original_url": "https://spidermedia.ru/blog/derden/russkiy-proekt-alabama",
   "archived": "https://web.archive.org/web/20240226091646/https://spidermedia.ru/blog/derden/russkiy-proekt-alabama",
   "tags": [
     "russian-comics"
+  ],
+  "cover": "https://web.archive.org/web/20240226091646im_/http://spidermedia.ru/assets/images/import_image/1591.jpg",
+  "modx_id": 1591,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

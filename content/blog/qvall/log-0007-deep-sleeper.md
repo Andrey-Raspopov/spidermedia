@@ -1,12 +1,21 @@
 {
   "title": "Log #0007 - Deep Sleeper",
-  "date": "2009-02-03T00:35:00+03:00",
+  "date": "2009-02-03T00:35:08+03:00",
   "url": "/blog/qvall/log-0007-deep-sleeper/",
+  "aliases": [
+    "/node/128/"
+  ],
   "original_url": "http://spidermedia.ru/blog/qvall/log-0007-deep-sleeper",
   "archived": "https://web.archive.org/web/20160427032934/http://spidermedia.ru/blog/qvall/log-0007-deep-sleeper",
   "tags": [
     "mnenie",
     "oni-press"
+  ],
+  "cover": "https://web.archive.org/web/20150428114513im_/http://spidermedia.ru/assets/images/import_image/128.jpg",
+  "modx_id": 128,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

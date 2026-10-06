@@ -1,13 +1,22 @@
 {
   "title": "...Vs - Pinocchio - Vampire Slayer",
-  "date": "2009-12-03T00:48:00+03:00",
+  "date": "2009-12-02T23:48:04+03:00",
   "url": "/blog/deadpoolic/vs-pinocchio-vampire-slayer/",
+  "aliases": [
+    "/node/2145/"
+  ],
   "original_url": "http://spidermedia.ru/blog/deadpoolic/vs-pinocchio-vampire-slayer",
   "archived": "https://web.archive.org/web/20111018131509/http://spidermedia.ru/blog/deadpoolic/vs-pinocchio-vampire-slayer",
   "tags": [
     "crosspost",
     "pinocchio",
     "komiksy"
+  ],
+  "cover": "https://web.archive.org/web/20111018131509im_/http://spidermedia.ru/assets/images/import_image/2145.jpg",
+  "modx_id": 2145,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

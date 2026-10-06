@@ -1,7 +1,10 @@
 {
   "title": "Норман Озборн играет в психолога",
-  "date": "2009-03-11T17:43:00+03:00",
+  "date": "2009-03-11T16:43:26+03:00",
   "url": "/news/norman-ozborn-igraet-v-psihologa/",
+  "aliases": [
+    "/node/645/"
+  ],
   "original_url": "http://spidermedia.ru/news/norman-ozborn-igraet-v-psihologa",
   "archived": "https://web.archive.org/web/20120607120251/http://spidermedia.ru/news/norman-ozborn-igraet-v-psihologa",
   "tags": [
@@ -10,7 +13,16 @@
     "komiksy",
     "mayk-deodato",
     "marvel",
-    "tyomnye-mstiteli"
+    "tyomnye-mstiteli",
+    "majk-deodato",
+    "brian-michael-bendis",
+    "avengers"
+  ],
+  "cover": "https://web.archive.org/web/20120607120251im_/http://spidermedia.ru/assets/images/import_image/645.jpg",
+  "modx_id": 645,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

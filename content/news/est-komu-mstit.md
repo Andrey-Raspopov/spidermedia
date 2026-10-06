@@ -1,12 +1,18 @@
 {
   "title": "Есть кому мстить",
-  "date": "2011-03-17T12:17:00+03:00",
+  "date": "2011-03-17T12:17:52+03:00",
   "url": "/news/est-komu-mstit/",
   "original_url": "http://spidermedia.ru/news/est-komu-mstit",
   "archived": "https://web.archive.org/web/20250210043640/http://spidermedia.ru/news/est-komu-mstit",
   "tags": [
     "marvel",
     "prizrachnyj-gonshhik"
+  ],
+  "cover": "https://web.archive.org/web/20250210043640im_/http://spidermedia.ru/assets/images/import_image/4217.jpg",
+  "modx_id": 4217,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

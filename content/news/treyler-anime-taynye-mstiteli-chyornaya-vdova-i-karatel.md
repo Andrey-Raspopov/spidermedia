@@ -1,6 +1,6 @@
 {
   "title": "Трейлер аниме \"Тайные Мстители: Чёрная Вдова и Каратель\"",
-  "date": "2014-01-22T11:20:00+03:00",
+  "date": "2014-01-22T10:20:23+03:00",
   "url": "/news/treyler-anime-taynye-mstiteli-chyornaya-vdova-i-karatel/",
   "original_url": "https://spidermedia.ru/news/treyler-anime-taynye-mstiteli-chyornaya-vdova-i-karatel",
   "archived": "https://web.archive.org/web/20251207100409/https://spidermedia.ru/news/treyler-anime-taynye-mstiteli-chyornaya-vdova-i-karatel",
@@ -12,6 +12,12 @@
     "marvel",
     "punisher",
     "animaciya"
+  ],
+  "cover": "https://web.archive.org/web/20150326124606im_/http://spidermedia.ru/assets/images/import_image/7609.jpg",
+  "modx_id": 7609,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,3 +1,3 @@
 {
-  "title": "antarctic press"
+  "title": "Antarctic Press"
 }

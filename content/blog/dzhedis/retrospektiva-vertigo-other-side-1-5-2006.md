@@ -1,6 +1,6 @@
 {
   "title": "Ретроспектива Vertigo - The Other Side #1-5(2006)",
-  "date": "2011-12-01T00:49:00+03:00",
+  "date": "2011-11-30T23:49:03+03:00",
   "url": "/blog/dzhedis/retrospektiva-vertigo-other-side-1-5-2006/",
   "original_url": "https://spidermedia.ru/blog/dzhedis/retrospektiva-vertigo-other-side-1-5-2006",
   "archived": "https://web.archive.org/web/20260305235534/https://spidermedia.ru/blog/dzhedis/retrospektiva-vertigo-other-side-1-5-2006",
@@ -8,6 +8,12 @@
     "vertigo",
     "jason-aaron",
     "cameron-stewart"
+  ],
+  "cover": "https://web.archive.org/web/20260305235534im_/http://spidermedia.ru/assets/images/import_image/6719.jpg",
+  "modx_id": 6719,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,11 +1,17 @@
 {
   "title": "Последний Летерье",
-  "date": "2010-03-27T19:32:00+03:00",
+  "date": "2010-03-27T19:32:53+03:00",
   "url": "/news/posledniy-letere/",
   "original_url": "http://spidermedia.ru/news/posledniy-letere",
   "archived": "https://web.archive.org/web/20241211222225/http://spidermedia.ru/news/posledniy-letere",
   "tags": [
     "y-the-last-man"
+  ],
+  "cover": "https://web.archive.org/web/20241211222225im_/http://spidermedia.ru/assets/images/import_image/2483.jpg",
+  "modx_id": 2483,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

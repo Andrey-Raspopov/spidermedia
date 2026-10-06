@@ -1,13 +1,23 @@
 {
   "title": "Зеленые превью",
-  "date": "2009-07-19T15:00:00+03:00",
+  "date": "2009-07-19T14:00:52+03:00",
   "url": "/news/zelenye-prevyu/",
+  "aliases": [
+    "/node/1595/"
+  ],
   "original_url": "http://spidermedia.ru/news/zelenye-prevyu",
   "archived": "https://web.archive.org/web/20251115182357/http://spidermedia.ru/news/zelenye-prevyu",
   "tags": [
     "preview",
     "green-lantern",
-    "dc-comics"
+    "dc-comics",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20251115182357im_/http://spidermedia.ru/assets/images/import_image/1595.jpg",
+  "modx_id": 1595,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

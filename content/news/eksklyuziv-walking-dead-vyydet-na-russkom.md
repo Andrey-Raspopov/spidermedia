@@ -1,6 +1,6 @@
 {
   "title": "ЭКСКЛЮЗИВ: The Walking Dead выйдет на русском",
-  "date": "2013-07-29T11:48:00+03:00",
+  "date": "2013-07-29T10:48:13+03:00",
   "url": "/news/eksklyuziv-walking-dead-vyydet-na-russkom/",
   "original_url": "http://spidermedia.ru/news/eksklyuziv-walking-dead-vyydet-na-russkom",
   "archived": "https://web.archive.org/web/20260211084359/http://spidermedia.ru/news/eksklyuziv-walking-dead-vyydet-na-russkom",
@@ -11,6 +11,12 @@
     "image-comics",
     "the-walking-dead",
     "hodyachie-mertvecy"
+  ],
+  "cover": "https://web.archive.org/web/20260211084359im_/http://spidermedia.ru/assets/images/import_image/7385.jpg",
+  "modx_id": 7385,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

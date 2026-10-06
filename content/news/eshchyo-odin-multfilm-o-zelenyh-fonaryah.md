@@ -1,6 +1,6 @@
 {
   "title": "Ещё один мультфильм о Зеленых Фонарях",
-  "date": "2010-03-19T21:52:00+03:00",
+  "date": "2010-03-19T21:52:20+03:00",
   "url": "/news/eshchyo-odin-multfilm-o-zelenyh-fonaryah/",
   "original_url": "http://spidermedia.ru/news/eshchyo-odin-multfilm-o-zelenyh-fonaryah",
   "archived": "https://web.archive.org/web/20250320042343/http://spidermedia.ru/news/eshchyo-odin-multfilm-o-zelenyh-fonaryah",
@@ -8,6 +8,12 @@
     "animaciya",
     "green-lantern",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20250320042343im_/http://spidermedia.ru/assets/images/import_image/2464.jpg",
+  "modx_id": 2464,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Икс-Прелюдия",
-  "date": "2011-02-12T03:03:00+03:00",
+  "date": "2011-02-12T02:03:27+03:00",
   "url": "/news/iks-prelyudiya/",
   "original_url": "http://spidermedia.ru/news/iks-prelyudiya",
   "archived": "https://web.archive.org/web/20130127034445/http://spidermedia.ru:80/news/iks-prelyudiya",
@@ -10,7 +10,14 @@
     "art-0",
     "komiksy",
     "lyudi-iks",
-    "pol-dzhenkins"
+    "pol-dzhenkins",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20130127034445im_/http://spidermedia.ru/assets/images/import_image/3347.jpg",
+  "modx_id": 3347,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

@@ -1,12 +1,18 @@
 {
   "title": "МЖДЗ SPECIAL: ДЕЛАЮ ГРЯЗЬ, НО ЧИСТАЯ СОВЕСТЬ",
-  "date": "2014-09-23T17:08:00+03:00",
+  "date": "2014-09-23T16:08:11+03:00",
   "url": "/blog/stepan-karma/mzhdz-special-delayu-gryaz-no-chistaya-sovest/",
   "original_url": "http://spidermedia.ru/blog/stepan-karma/mzhdz-special-delayu-gryaz-no-chistaya-sovest",
   "archived": "https://web.archive.org/web/20220815202418/http://spidermedia.ru/blog/stepan-karma/mzhdz-special-delayu-gryaz-no-chistaya-sovest",
   "tags": [
     "mnenie",
     "mzhdz"
+  ],
+  "cover": "https://web.archive.org/web/20220815202418im_/http://spidermedia.ru/assets/images/import_image/8095.jpg",
+  "modx_id": 8095,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

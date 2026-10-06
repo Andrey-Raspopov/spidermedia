@@ -1,7 +1,10 @@
 {
   "title": "Марвел З-з-зомби: голодные, холодные, но все такие же любимые",
-  "date": "2009-06-20T16:25:00+03:00",
+  "date": "2009-06-20T15:25:33+03:00",
   "url": "/news/marvel-z-z-zombi-golodnye-holodnye-no-vse-takie-zhe-lyubimye/",
+  "aliases": [
+    "/node/1452/"
+  ],
   "original_url": "http://spidermedia.ru/news/marvel-z-z-zombi-golodnye-holodnye-no-vse-takie-zhe-lyubimye",
   "archived": "https://web.archive.org/web/20111018172933/http://spidermedia.ru/news/marvel-z-z-zombi-golodnye-holodnye-no-vse-takie-zhe-lyubimye",
   "tags": [
@@ -19,7 +22,14 @@
     "mstiteli",
     "nik-dragotta",
     "fred-van-lente",
-    "chelovek-pauk"
+    "chelovek-pauk",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20111018172933im_/http://spidermedia.ru/assets/images/import_image/1452.jpg",
+  "modx_id": 1452,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

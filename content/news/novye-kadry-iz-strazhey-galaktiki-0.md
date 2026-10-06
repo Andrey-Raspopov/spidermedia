@@ -1,12 +1,18 @@
 {
   "title": "Новые кадры из \"Стражей галактики\"",
-  "date": "2014-04-16T08:21:00+03:00",
+  "date": "2014-04-16T07:21:34+03:00",
   "url": "/news/novye-kadry-iz-strazhey-galaktiki-0/",
   "original_url": "https://spidermedia.ru/news/novye-kadry-iz-strazhey-galaktiki-0",
   "archived": "https://web.archive.org/web/20250113174221/https://spidermedia.ru/news/novye-kadry-iz-strazhey-galaktiki-0",
   "tags": [
     "guardians-of-the-galaxy",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150424085217im_/http://spidermedia.ru/assets/images/import_image/7715.jpg",
+  "modx_id": 7715,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

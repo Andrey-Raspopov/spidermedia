@@ -1,12 +1,18 @@
 {
   "title": "“Новый Человек-паук” - видеообновление",
-  "date": "2012-06-16T14:59:00+03:00",
+  "date": "2012-06-16T13:59:05+03:00",
   "url": "/news/novyy-chelovek-pauk-videoobnovlenie/",
   "original_url": "https://spidermedia.ru/news/novyy-chelovek-pauk-videoobnovlenie",
   "archived": "https://web.archive.org/web/20251207003612/https://spidermedia.ru/news/novyy-chelovek-pauk-videoobnovlenie",
   "tags": [
     "spider-man",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20251207003612im_/http://spidermedia.ru/assets/images/import_image/6933.jpg",
+  "modx_id": 6933,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

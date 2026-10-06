@@ -1,6 +1,6 @@
 {
   "title": "Старые пародии: Superduperman (Mad Comics #4, апрель-май 1953)",
-  "date": "2011-11-02T17:17:00+03:00",
+  "date": "2011-11-02T16:17:10+03:00",
   "url": "/blog/dzhedis/starye-parodii-superduperman-mad-comics-4-aprel-may-1953/",
   "original_url": "http://spidermedia.ru/blog/dzhedis/starye-parodii-superduperman-mad-comics-4-aprel-may-1953",
   "archived": "https://web.archive.org/web/20250806060428/http://spidermedia.ru/blog/dzhedis/starye-parodii-superduperman-mad-comics-4-aprel-may-1953",
@@ -10,6 +10,12 @@
     "wally-wood",
     "mad",
     "superman"
+  ],
+  "cover": "https://web.archive.org/web/20250806060428im_/http://spidermedia.ru/assets/images/import_image/6681.jpg",
+  "modx_id": 6681,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

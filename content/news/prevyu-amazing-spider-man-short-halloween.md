@@ -1,7 +1,10 @@
 {
   "title": "Превью The Amazing Spider-man: Short Halloween",
-  "date": "2009-05-21T21:17:00+03:00",
+  "date": "2009-05-21T20:17:56+03:00",
   "url": "/news/prevyu-amazing-spider-man-short-halloween/",
+  "aliases": [
+    "/node/1253/"
+  ],
   "original_url": "http://spidermedia.ru/news/prevyu-amazing-spider-man-short-halloween",
   "archived": "https://web.archive.org/web/20120608174136/http://spidermedia.ru/news/prevyu-amazing-spider-man-short-halloween",
   "tags": [
@@ -11,6 +14,11 @@
     "spider-man",
     "marvel",
     "chelovek-pauk"
+  ],
+  "modx_id": 1253,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

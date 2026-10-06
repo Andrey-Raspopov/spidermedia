@@ -1,7 +1,10 @@
 {
   "title": "Дигл грядет!",
-  "date": "2009-03-26T15:02:00+03:00",
+  "date": "2009-03-26T15:02:47+03:00",
   "url": "/news/digl-gryadet/",
+  "aliases": [
+    "/node/778/"
+  ],
   "original_url": "https://spidermedia.ru/news/digl-gryadet",
   "archived": "https://web.archive.org/web/20251207002503/https://spidermedia.ru/news/digl-gryadet",
   "tags": [
@@ -9,6 +12,11 @@
     "endi-diggl",
     "daredevil",
     "dardevil"
+  ],
+  "modx_id": 778,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

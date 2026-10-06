@@ -1,7 +1,10 @@
 {
   "title": "Космос - опасное место",
-  "date": "2009-10-07T01:04:00+03:00",
+  "date": "2009-10-07T00:04:47+03:00",
   "url": "/news/kosmos-opasnoe-mesto/",
+  "aliases": [
+    "/node/1972/"
+  ],
   "original_url": "http://spidermedia.ru/news/kosmos-opasnoe-mesto",
   "archived": "https://web.archive.org/web/20241102083131/http://spidermedia.ru/news/kosmos-opasnoe-mesto",
   "tags": [
@@ -10,6 +13,11 @@
     "starhawk",
     "marvel",
     "guardians-of-the-galaxy"
+  ],
+  "modx_id": 1972,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Фантастиш юбилей",
-  "date": "2011-08-12T01:19:00+03:00",
+  "date": "2011-08-12T00:19:12+03:00",
   "url": "/news/fantasticheskiy-yubiley/",
   "original_url": "http://spidermedia.ru/news/fantasticheskiy-yubiley",
   "archived": "https://web.archive.org/web/20120607054423/http://spidermedia.ru/news/fantasticheskiy-yubiley",
@@ -9,6 +9,12 @@
     "komiksy",
     "marvel",
     "fantasticheskaya-chetverka"
+  ],
+  "cover": "https://web.archive.org/web/20120607054423im_/http://spidermedia.ru/assets/images/import_image/6558.jpg",
+  "modx_id": 6558,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

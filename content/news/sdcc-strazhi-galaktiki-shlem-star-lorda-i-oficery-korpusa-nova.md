@@ -1,6 +1,6 @@
 {
   "title": "SDCC: Стражи Галактики: Шлем Стар-Лорда и офицеры Корпуса Нова (UPD!)",
-  "date": "2013-07-22T11:44:00+03:00",
+  "date": "2013-07-22T10:44:37+03:00",
   "url": "/news/sdcc-strazhi-galaktiki-shlem-star-lorda-i-oficery-korpusa-nova/",
   "original_url": "http://spidermedia.ru/news/sdcc-strazhi-galaktiki-shlem-star-lorda-i-oficery-korpusa-nova",
   "archived": "https://web.archive.org/web/20250808212320/http://spidermedia.ru/news/sdcc-strazhi-galaktiki-shlem-star-lorda-i-oficery-korpusa-nova",
@@ -8,6 +8,12 @@
     "guardians-of-the-galaxy",
     "marvel",
     "san-diego-comic-con-international"
+  ],
+  "cover": "https://web.archive.org/web/20250808212320im_/http://spidermedia.ru/assets/images/import_image/7370.jpg",
+  "modx_id": 7370,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,13 +1,20 @@
 {
   "title": "Slice of Black Chocolate",
-  "date": "2009-02-24T20:22:00+03:00",
+  "date": "2009-02-24T20:22:09+03:00",
   "url": "/blog/naya/slice-black-chocolate/",
   "original_url": "http://spidermedia.ru/blog/naya/slice-black-chocolate",
   "archived": "https://web.archive.org/web/20250116125354/http://spidermedia.ru/blog/naya/slice-black-chocolate",
   "tags": [
     "one-shot",
     "manga",
-    "fantasy"
+    "fantasy",
+    "manga-2"
+  ],
+  "cover": "https://web.archive.org/web/20250116125354im_/http://spidermedia.ru/assets/images/import_image/500.gif",
+  "modx_id": 500,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

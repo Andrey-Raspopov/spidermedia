@@ -1,6 +1,6 @@
 {
   "title": "The Dress",
-  "date": "2009-03-04T00:07:00+03:00",
+  "date": "2009-03-03T23:07:40+03:00",
   "url": "/blog/naya/dress/",
   "original_url": "http://spidermedia.ru/blog/naya/dress",
   "archived": "https://web.archive.org/web/20140707003815/http://spidermedia.ru:80/blog/naya/dress",
@@ -9,6 +9,12 @@
     "manhwa",
     "one-shot",
     "skachat"
+  ],
+  "cover": "https://web.archive.org/web/20140707003815im_/http://spidermedia.ru/assets/images/import_image/576.gif",
+  "modx_id": 576,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

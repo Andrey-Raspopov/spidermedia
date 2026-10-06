@@ -1,6 +1,6 @@
 {
   "title": "Дэн Эбнетт вернется к «Стражам Галактики»",
-  "date": "2014-06-25T22:31:00+03:00",
+  "date": "2014-06-25T21:31:41+03:00",
   "url": "/news/den-abnett-vernetsya-k-strazham-galaktiki/",
   "original_url": "http://spidermedia.ru/news/den-abnett-vernetsya-k-strazham-galaktiki",
   "archived": "https://web.archive.org/web/20260313113442/http://spidermedia.ru/news/den-abnett-vernetsya-k-strazham-galaktiki",
@@ -8,6 +8,12 @@
     "marvel",
     "den-ebnett",
     "guardians-of-the-galaxy"
+  ],
+  "cover": "https://web.archive.org/web/20150326095613im_/http://spidermedia.ru/assets/images/import_image/7842.jpg",
+  "modx_id": 7842,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

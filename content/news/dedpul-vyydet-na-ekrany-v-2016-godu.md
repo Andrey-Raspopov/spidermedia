@@ -1,13 +1,20 @@
 {
   "title": "Дэдпул выйдет на экраны в 2016 году",
-  "date": "2014-09-19T02:53:00+03:00",
+  "date": "2014-09-19T01:53:07+03:00",
   "url": "/news/dedpul-vyydet-na-ekrany-v-2016-godu/",
   "original_url": "http://spidermedia.ru/news/dedpul-vyydet-na-ekrany-v-2016-godu",
   "archived": "https://web.archive.org/web/20260211091228/http://spidermedia.ru/news/dedpul-vyydet-na-ekrany-v-2016-godu",
   "tags": [
     "marvel",
     "x-men",
-    "deadpool"
+    "deadpool",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20160611152933im_/http://spidermedia.ru/assets/images/import_image/8076.jpg",
+  "modx_id": 8076,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

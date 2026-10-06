@@ -1,12 +1,19 @@
 {
   "title": "Галерея персонажей сериала \"The Walking Dead\"",
-  "date": "2010-07-22T01:37:00+03:00",
+  "date": "2010-07-22T00:37:59+03:00",
   "url": "/news/galereya-personazhey-seriala-walking-dead/",
   "original_url": "https://spidermedia.ru/news/galereya-personazhey-seriala-walking-dead",
   "archived": "https://web.archive.org/web/20260211191044/https://spidermedia.ru/news/galereya-personazhey-seriala-walking-dead",
   "tags": [
     "serialy",
-    "the-walking-dead"
+    "the-walking-dead",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20260211191044im_/http://spidermedia.ru/assets/images/import_image/2762.jpg",
+  "modx_id": 2762,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

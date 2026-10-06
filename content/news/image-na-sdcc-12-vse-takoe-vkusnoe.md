@@ -1,6 +1,6 @@
 {
   "title": "Image на SDCC '12 - все такое вкусное",
-  "date": "2012-07-17T01:34:00+03:00",
+  "date": "2012-07-17T00:34:44+03:00",
   "url": "/news/image-na-sdcc-12-vse-takoe-vkusnoe/",
   "original_url": "http://spidermedia.ru/news/image-na-sdcc-12-vse-takoe-vkusnoe",
   "archived": "https://web.archive.org/web/20260211101753/http://spidermedia.ru/news/image-na-sdcc-12-vse-takoe-vkusnoe",
@@ -9,7 +9,14 @@
     "matt-fraction",
     "kelli-syu-dekonnik",
     "greg-rakka",
-    "image-comics"
+    "image-comics",
+    "mett-frakshen"
+  ],
+  "cover": "https://web.archive.org/web/20150502184454im_/http://spidermedia.ru/assets/images/import_image/6982.jpg",
+  "modx_id": 6982,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

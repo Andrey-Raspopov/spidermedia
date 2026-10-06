@@ -4,6 +4,12 @@
   "url": "/games/sifu-opinion/",
   "original_url": "http://spidermedia.ru/games/sifu-opinion",
   "archived": "https://web.archive.org/web/20251116053002/http://spidermedia.ru/games/sifu-opinion",
+  "cover": "https://web.archive.org/web/20220314003432im_/http://spidermedia.ru/assets/images/games/sifu-videogame-meniac-news-800x445.jpg",
+  "modx_id": 102488,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

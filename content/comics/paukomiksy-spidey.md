@@ -9,6 +9,12 @@
     "spider-week",
     "spider-man"
   ],
+  "cover": "https://web.archive.org/web/20251108191021im_/http://spidermedia.ru/assets/images/spiderweek/spidey/cover.jpg",
+  "modx_id": 101990,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,7 +1,10 @@
 {
   "title": "Кино: \"Зомби массового уничтоженияи\" и \"Youngblood\"",
-  "date": "2009-02-09T15:04:00+03:00",
+  "date": "2009-02-09T14:04:31+03:00",
   "url": "/news/kino-zombi-massovogo-unichtozheniyai-i-youngblood/",
+  "aliases": [
+    "/node/284/"
+  ],
   "original_url": "http://spidermedia.ru/news/kino-zombi-massovogo-unichtozheniyai-i-youngblood",
   "archived": "https://web.archive.org/web/20120607095247/http://spidermedia.ru/news/kino-zombi-massovogo-unichtozheniyai-i-youngblood",
   "tags": [
@@ -14,7 +17,14 @@
     "zombi",
     "zombi-massovogo-unichtozheniya",
     "kino",
-    "komiksy"
+    "komiksy",
+    "zombies-of-mass-destruction"
+  ],
+  "cover": "https://web.archive.org/web/20120607095247im_/http://spidermedia.ru/assets/images/import_image/284.jpg",
+  "modx_id": 284,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

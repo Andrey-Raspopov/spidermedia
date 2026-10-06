@@ -13,6 +13,9 @@
     "мэтт-фракшен",
     "стюарт-иммонен"
   ],
+  "sources": [
+    "archive"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }
@@ -21,7 +24,7 @@
 
 ]]>[![](https://web.archive.org/web/20110127094118im_/http://img.photobucket.com/albums/v497/spidermedia/silver_news/129295404311.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/silver_news/1292954043.jpg)]]>
 
-]]>[Тизеры](../../node/3122/)]]>, которыми нас пугали на прошлой неделе, действительно предвещали наступление глобального события под названием **Воплощение Страха** *(Fear Itself)*. Основное действие развернется в истории из семи выпусков, над которым работает дуэт из **Мэтта Фракшена** *(Matt Fraction)* и **Стюарта Иммонена** *(Stuart Immonen)*, но перед этим в марте выйдет пролог к событию от **Эда Брубейкера** *(Ed Brubaker)* и **Скотта Итона** *(Scott Eaton)*.
+]]>[Тизеры](../strah-i-nenavist/)]]>, которыми нас пугали на прошлой неделе, действительно предвещали наступление глобального события под названием **Воплощение Страха** *(Fear Itself)*. Основное действие развернется в истории из семи выпусков, над которым работает дуэт из **Мэтта Фракшена** *(Matt Fraction)* и **Стюарта Иммонена** *(Stuart Immonen)*, но перед этим в марте выйдет пролог к событию от **Эда Брубейкера** *(Ed Brubaker)* и **Скотта Итона** *(Scott Eaton)*.
 
 ]]>[![](https://web.archive.org/web/20110127094118im_/http://img.photobucket.com/albums/v497/spidermedia/silver_news/1292953999-1.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/silver_news/1292953999.jpg)]]> ]]>[![](https://web.archive.org/web/20110127094118im_/http://img.photobucket.com/albums/v497/spidermedia/silver_news/1292954001-1.jpg)](http://img.photobucket.com/albums/v497/spidermedia/silver_news/1292954001.jpg)]]>
 

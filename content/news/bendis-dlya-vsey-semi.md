@@ -1,6 +1,6 @@
 {
   "title": "Бендис для всей семьи",
-  "date": "2010-10-12T09:20:00+03:00",
+  "date": "2010-10-12T08:20:01+03:00",
   "url": "/news/bendis-dlya-vsey-semi/",
   "original_url": "http://spidermedia.ru/news/bendis-dlya-vsey-semi",
   "archived": "https://web.archive.org/web/20251115033528/http://spidermedia.ru/news/bendis-dlya-vsey-semi",
@@ -13,6 +13,12 @@
     "new-york-comic-con",
     "komik-kon-v-nyu-yorke",
     "takio"
+  ],
+  "cover": "https://web.archive.org/web/20251115033528im_/http://spidermedia.ru/assets/images/import_image/3002.jpg",
+  "modx_id": 3002,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

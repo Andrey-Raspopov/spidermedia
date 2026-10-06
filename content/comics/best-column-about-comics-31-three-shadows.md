@@ -8,6 +8,12 @@
     "best-column-about-comics",
     "mnenie"
   ],
+  "cover": "https://web.archive.org/web/20260215073746im_/http://spidermedia.ru/assets/images/best-column-about-comics/31-three-shadows/three-shadows-cover.jpg",
+  "modx_id": 101753,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

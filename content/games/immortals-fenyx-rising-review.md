@@ -4,6 +4,12 @@
   "url": "/games/immortals-fenyx-rising-review/",
   "original_url": "http://spidermedia.ru/games/immortals-fenyx-rising-review",
   "archived": "https://web.archive.org/web/20250420040633/http://spidermedia.ru/games/immortals-fenyx-rising-review",
+  "cover": "https://web.archive.org/web/20250420040633im_/http://spidermedia.ru/assets/images/games/f209dfdc51860d9ffe326e102dbc45ce.jpg",
+  "modx_id": 102321,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

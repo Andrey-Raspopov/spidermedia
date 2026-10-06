@@ -1,12 +1,21 @@
 {
   "title": "У магов пенсии не бывает",
-  "date": "2009-06-21T15:20:00+03:00",
+  "date": "2009-06-21T14:20:50+03:00",
   "url": "/news/u-magov-pensii-ne-byvaet/",
+  "aliases": [
+    "/node/1444/"
+  ],
   "original_url": "https://spidermedia.ru/news/u-magov-pensii-ne-byvaet",
   "archived": "https://web.archive.org/web/20260115064555/https://spidermedia.ru/news/u-magov-pensii-ne-byvaet",
   "tags": [
     "marvel",
     "doctor-strange"
+  ],
+  "cover": "https://web.archive.org/web/20150315210246im_/http://spidermedia.ru/assets/images/ecahznqzhc4.jpg",
+  "modx_id": 1444,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

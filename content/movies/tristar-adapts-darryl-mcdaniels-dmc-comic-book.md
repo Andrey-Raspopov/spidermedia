@@ -4,6 +4,12 @@
   "url": "/movies/tristar-adapts-darryl-mcdaniels-dmc-comic-book/",
   "original_url": "http://spidermedia.ru/movies/tristar-adapts-darryl-mcdaniels-dmc-comic-book",
   "archived": "https://web.archive.org/web/20210128055636/http://spidermedia.ru/movies/tristar-adapts-darryl-mcdaniels-dmc-comic-book",
+  "cover": "https://web.archive.org/web/20210128055636im_/http://spidermedia.ru/assets/images/news/dmc-cover.jpg",
+  "modx_id": 100610,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

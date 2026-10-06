@@ -12,6 +12,9 @@
     "trejlery",
     "video"
   ],
+  "sources": [
+    "archive"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,6 +1,6 @@
 {
   "title": "Fear Itself: Только достойные",
-  "date": "2011-03-03T17:46:00+03:00",
+  "date": "2011-03-03T17:46:54+03:00",
   "url": "/news/fear-itself-tolko-dostoynye/",
   "original_url": "http://spidermedia.ru/news/fear-itself-tolko-dostoynye",
   "archived": "https://web.archive.org/web/20160917071240/http://spidermedia.ru:80/news/fear-itself-tolko-dostoynye",
@@ -8,7 +8,14 @@
     "voploshhenie-straha",
     "art-0",
     "marvel",
-    "fear-itself"
+    "fear-itself",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20160917071240im_/http://spidermedia.ru/assets/images/import_image/3858.jpg",
+  "modx_id": 3858,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

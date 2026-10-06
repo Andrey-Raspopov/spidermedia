@@ -9,6 +9,12 @@
     "robert-venditti",
     "toni-deniel"
   ],
+  "cover": "https://web.archive.org/web/20210629125718im_/http://spidermedia.ru/assets/images/reviews/dc/damage/1/mzk.jpg",
+  "modx_id": 101812,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,12 +1,18 @@
 {
   "title": "Plugging the a-holes: Чего почитать о Стражах Галактики",
-  "date": "2014-06-06T12:17:00+03:00",
+  "date": "2014-06-06T11:17:19+03:00",
   "url": "/blog/laughing-magician/plugging-holes-chego-pochitat-o-strazhah-galaktiki/",
   "original_url": "https://spidermedia.ru/blog/laughing-magician/plugging-holes-chego-pochitat-o-strazhah-galaktiki",
   "archived": "https://web.archive.org/web/20241211210322/https://spidermedia.ru/blog/laughing-magician/plugging-holes-chego-pochitat-o-strazhah-galaktiki",
   "tags": [
     "guardians-of-the-galaxy",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20241211210322im_/http://spidermedia.ru/assets/images/import_image/7772.jpg",
+  "modx_id": 7772,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

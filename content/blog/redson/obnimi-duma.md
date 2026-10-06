@@ -1,7 +1,10 @@
 {
   "title": "Обними Дума",
-  "date": "2009-07-27T17:11:00+03:00",
+  "date": "2009-07-27T16:11:03+03:00",
   "url": "/blog/redson/obnimi-duma/",
+  "aliases": [
+    "/node/1677/"
+  ],
   "original_url": "https://spidermedia.ru/blog/redson/obnimi-duma",
   "archived": "https://web.archive.org/web/20241102073837/https://spidermedia.ru/blog/redson/obnimi-duma",
   "tags": [
@@ -9,6 +12,11 @@
     "igrushki",
     "marvel",
     "dc-comics"
+  ],
+  "modx_id": 1677,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

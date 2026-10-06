@@ -1,12 +1,18 @@
 {
   "title": "День новых комиксов: 22 января",
-  "date": "2014-01-22T11:24:00+03:00",
+  "date": "2014-01-22T10:24:43+03:00",
   "url": "/news/den-novyh-komiksov-22-yanvarya/",
   "original_url": "https://spidermedia.ru/news/den-novyh-komiksov-22-yanvarya",
   "archived": "https://web.archive.org/web/20250709064247/https://spidermedia.ru/news/den-novyh-komiksov-22-yanvarya",
   "tags": [
     "den-novyh-komiksov",
     "ben-afflek"
+  ],
+  "cover": "https://web.archive.org/web/20250709064247im_/http://spidermedia.ru/assets/images/import_image/7610.jpg",
+  "modx_id": 7610,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

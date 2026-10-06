@@ -1,7 +1,10 @@
 {
   "title": "We’ll wish around the world...",
-  "date": "2009-04-01T19:35:00+03:00",
+  "date": "2009-04-01T18:35:44+03:00",
   "url": "/blog/oleg89/well-wish-around-world/",
+  "aliases": [
+    "/node/832/"
+  ],
   "original_url": "http://spidermedia.ru/blog/oleg89/well-wish-around-world",
   "archived": "https://web.archive.org/web/20160730085234/http://spidermedia.ru/blog/oleg89/well-wish-around-world",
   "tags": [
@@ -12,6 +15,12 @@
     "planetary",
     "john-cassaday",
     "planetarij"
+  ],
+  "cover": "https://web.archive.org/web/20160730085234im_/http://spidermedia.ru/assets/images/import_image/832.jpg",
+  "modx_id": 832,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

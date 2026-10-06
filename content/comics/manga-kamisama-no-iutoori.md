@@ -7,6 +7,12 @@
   "tags": [
     "manga"
   ],
+  "cover": "https://web.archive.org/web/20251115031257im_/http://spidermedia.ru/assets/images/manga/others/kamisama-no-iutoori/mzk.jpg",
+  "modx_id": 101890,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

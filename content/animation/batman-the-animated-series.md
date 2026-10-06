@@ -9,6 +9,12 @@
     "batman",
     "batman-week"
   ],
+  "cover": "https://web.archive.org/web/20160611144127im_/http://spidermedia.ru/assets/images/articles/batman-week/btas/1.jpg",
+  "modx_id": 100589,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

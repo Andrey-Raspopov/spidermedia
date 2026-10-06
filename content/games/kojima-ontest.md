@@ -4,6 +4,12 @@
   "url": "/games/kojima-ontest/",
   "original_url": "http://spidermedia.ru/games/kojima-ontest",
   "archived": "https://web.archive.org/web/20260211192654/http://spidermedia.ru/games/kojima-ontest",
+  "cover": "https://web.archive.org/web/20260211192654im_/http://spidermedia.ru/assets/images/unnamed-2.jpg",
+  "modx_id": 102166,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -13,6 +13,9 @@
     "скрулл",
     "скруллы"
   ],
+  "sources": [
+    "archive"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

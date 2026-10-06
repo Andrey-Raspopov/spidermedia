@@ -1,6 +1,6 @@
 {
   "title": "Немезис: Начало",
-  "date": "2010-08-07T23:18:00+03:00",
+  "date": "2010-08-07T22:18:09+03:00",
   "url": "/news/nemezis-nachalo/",
   "original_url": "https://spidermedia.ru/news/nemezis-nachalo",
   "archived": "https://web.archive.org/web/20251205112119/https://spidermedia.ru/news/nemezis-nachalo",
@@ -11,6 +11,12 @@
     "tony-scott",
     "nemesis",
     "icon-comics"
+  ],
+  "cover": "https://web.archive.org/web/20251205112119im_/http://spidermedia.ru/assets/images/import_image/2841.jpg",
+  "modx_id": 2841,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

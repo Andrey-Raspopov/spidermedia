@@ -1,11 +1,20 @@
 {
   "title": "precious little review",
-  "date": "2009-04-22T10:58:00+03:00",
+  "date": "2009-04-22T09:58:14+03:00",
   "url": "/blog/gess/precious-little-review/",
+  "aliases": [
+    "/node/1020/"
+  ],
   "original_url": "http://spidermedia.ru/blog/gess/precious-little-review",
   "archived": "https://web.archive.org/web/20190806220657/http://spidermedia.ru:80/blog/gess/precious-little-review",
   "tags": [
     "scott-pilgrim"
+  ],
+  "cover": "https://web.archive.org/web/20150502173322im_/http://spidermedia.ru/assets/images/import_image/1020.gif",
+  "modx_id": 1020,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

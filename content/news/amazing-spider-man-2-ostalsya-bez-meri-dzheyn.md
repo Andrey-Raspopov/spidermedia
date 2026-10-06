@@ -1,6 +1,6 @@
 {
   "title": "the Amazing Spider-Man 2 остался без Мэри Джейн (UPD: Sony будут искать другую актрису на роль Мэри Джейн)",
-  "date": "2013-06-19T22:23:00+03:00",
+  "date": "2013-06-19T21:23:36+03:00",
   "url": "/news/amazing-spider-man-2-ostalsya-bez-meri-dzheyn/",
   "original_url": "http://spidermedia.ru/news/amazing-spider-man-2-ostalsya-bez-meri-dzheyn",
   "archived": "https://web.archive.org/web/20250324072830/http://spidermedia.ru/news/amazing-spider-man-2-ostalsya-bez-meri-dzheyn",
@@ -10,6 +10,12 @@
     "spider-man",
     "mark-uebb",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20250324072830im_/http://spidermedia.ru/assets/images/import_image/7288.jpeg",
+  "modx_id": 7288,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

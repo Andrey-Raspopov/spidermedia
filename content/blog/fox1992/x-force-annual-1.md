@@ -1,7 +1,10 @@
 {
   "title": "X-force Annual #1",
-  "date": "2009-11-06T15:53:00+03:00",
+  "date": "2009-11-06T15:53:49+03:00",
   "url": "/blog/fox1992/x-force-annual-1/",
+  "aliases": [
+    "/node/2068/"
+  ],
   "original_url": "http://spidermedia.ru/blog/fox1992/x-force-annual-1",
   "archived": "https://web.archive.org/web/20251208071632/http://spidermedia.ru/blog/fox1992/x-force-annual-1",
   "tags": [
@@ -10,7 +13,14 @@
     "iks-fors",
     "deadpool",
     "x-force",
-    "necrosha"
+    "necrosha",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20251208071632im_/http://spidermedia.ru/assets/images/import_image/2068.jpg",
+  "modx_id": 2068,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

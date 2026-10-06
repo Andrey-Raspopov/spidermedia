@@ -7,6 +7,12 @@
   "tags": [
     "marvel"
   ],
+  "cover": "https://web.archive.org/web/20160501070021im_/http://spidermedia.ru/assets/images/news/marvel/post-secret-wars/anadmarvel2-june5-2-802aa.jpg",
+  "modx_id": 100315,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

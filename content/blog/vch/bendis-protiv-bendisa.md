@@ -1,12 +1,18 @@
 {
   "title": "Бендис против Бендиса",
-  "date": "2013-07-04T14:33:00+03:00",
+  "date": "2013-07-04T13:33:15+03:00",
   "url": "/blog/vch/bendis-protiv-bendisa/",
   "original_url": "https://spidermedia.ru/blog/vch/bendis-protiv-bendisa",
   "archived": "https://web.archive.org/web/20251107025529/https://spidermedia.ru/blog/vch/bendis-protiv-bendisa",
   "tags": [
     "brian-michael-bendis",
     "daredevil"
+  ],
+  "cover": "https://web.archive.org/web/20160611141902im_/http://spidermedia.ru/assets/images/import_image/7316.jpg",
+  "modx_id": 7316,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "Агенты Атласа: на очереди Люди Икс",
-  "date": "2009-07-19T04:17:00+03:00",
+  "date": "2009-07-19T03:17:15+03:00",
   "url": "/news/agenty-atlasa-na-ocheredi-lyudi-iks/",
+  "aliases": [
+    "/node/1593/"
+  ],
   "original_url": "https://spidermedia.ru/news/agenty-atlasa-na-ocheredi-lyudi-iks",
   "archived": "https://web.archive.org/web/20260313105543/https://spidermedia.ru/news/agenty-atlasa-na-ocheredi-lyudi-iks",
   "tags": [
@@ -9,7 +12,15 @@
     "karlo-pagulayan",
     "art-0",
     "agenty-atlasa",
-    "x-men"
+    "x-men",
+    "art",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20260313105543im_/http://spidermedia.ru/assets/images/import_image/1593.jpg",
+  "modx_id": 1593,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

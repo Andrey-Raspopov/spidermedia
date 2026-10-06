@@ -1,13 +1,23 @@
 {
   "title": "SDCC'09 - Миры Роберта Киркмана",
-  "date": "2009-07-25T16:06:00+03:00",
+  "date": "2009-07-25T15:06:19+03:00",
   "url": "/news/sdcc09-miry-roberta-kirkmana/",
+  "aliases": [
+    "/node/1658/"
+  ],
   "original_url": "http://spidermedia.ru/news/sdcc09-miry-roberta-kirkmana",
   "archived": "https://web.archive.org/web/20161112213647/http://spidermedia.ru:80/news/sdcc09-miry-roberta-kirkmana",
   "tags": [
     "robert-kirkman",
     "komik-kon-v-san-diego",
-    "image-comics"
+    "image-comics",
+    "san-diego-comic-con-international"
+  ],
+  "cover": "https://web.archive.org/web/20161112213647im_/http://spidermedia.ru/assets/images/import_image/1658.jpg",
+  "modx_id": 1658,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

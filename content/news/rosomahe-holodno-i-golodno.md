@@ -1,7 +1,10 @@
 {
   "title": "Росомахе холодно и голодно",
-  "date": "2009-04-05T03:47:00+03:00",
+  "date": "2009-04-05T02:47:19+03:00",
   "url": "/news/rosomahe-holodno-i-golodno/",
+  "aliases": [
+    "/node/853/"
+  ],
   "original_url": "http://spidermedia.ru/news/rosomahe-holodno-i-golodno",
   "archived": "https://web.archive.org/web/20120718094711/http://spidermedia.ru/news/rosomahe-holodno-i-golodno",
   "tags": [
@@ -10,7 +13,13 @@
     "komiksy",
     "marvel",
     "oblozhki",
-    "rosomaha"
+    "rosomaha",
+    "art"
+  ],
+  "modx_id": 853,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

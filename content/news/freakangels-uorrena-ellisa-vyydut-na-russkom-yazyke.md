@@ -1,6 +1,6 @@
 {
   "title": "FreakAngels Уоррена Эллиса выйдeт на русском языке",
-  "date": "2014-06-25T00:31:00+03:00",
+  "date": "2014-06-24T23:31:09+03:00",
   "url": "/news/freakangels-uorrena-ellisa-vyydut-na-russkom-yazyke/",
   "original_url": "http://spidermedia.ru/news/freakangels-uorrena-ellisa-vyydut-na-russkom-yazyke",
   "archived": "https://web.archive.org/web/20260309180850/http://spidermedia.ru/news/freakangels-uorrena-ellisa-vyydut-na-russkom-yazyke",
@@ -9,6 +9,12 @@
     "freakangels",
     "avatar-press",
     "zarubezhnye-komiksy-na-russkom"
+  ],
+  "cover": "https://web.archive.org/web/20260309180850im_/http://spidermedia.ru/assets/images/import_image/7839.jpg",
+  "modx_id": 7839,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

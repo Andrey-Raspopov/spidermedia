@@ -8,17 +8,21 @@
     "manga",
     "right-binding"
   ],
+  "cover": "https://web.archive.org/web/20170608052724im_/https://spidermedia.ru/assets/images/manga/pp-06/000.jpg",
+  "modx_id": 101559,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
-
-[![](https://web.archive.org/web/20170608082254im_/https://spidermedia.ru/assets/cache/images/manga/pp-06/622x-000.2e9.jpg)](https://web.archive.org/web/20170608052724im_/https://spidermedia.ru/assets/images/manga/pp-06/000.jpg)
 
 Надеюсь, все отлично провели майские праздники, отдохнули и готовы включиться в рабочий ритм? Если же нет, то эта милосердно короткая трудовая неделя даст время на раскачку. Так что не будем ходить вокруг да около, а сразу примемся за дело — к манге!
 
 Но прежде хочу выразить огромную благодарность нашему штатному игроведу Сергею Мангасарову за создание заставки для рубрики.
 
-[![](https://web.archive.org/web/20170607213935im_/https://spidermedia.ru/assets/images/manga/pp-06/logo.jpg)](./)
+![](https://web.archive.org/web/20170607213935im_/https://spidermedia.ru/assets/images/manga/pp-06/logo.jpg)
 
 Сегодня в программе: новинки апреля. А также «Атака на титанов», «Берсерк», «Моя геройская академия» и др.
 
@@ -30,61 +34,27 @@
 
 Апрель выдался особо урожайным на новинки. Вышло/ушло в печать не только много книг (в рамках манга-индустрии, разумеется, в РосКомНадзоре это была бы «разгрузочная» неделя), но и появилось несколько новых лицензий. Причем все они принадлежат **«Истари комикс»**. Во-первых, это свежая работа Ёситоки Оимы (создателницы «Формы голоса») **«Тебе, Бессмертный»**. История, стартовавшая в прошлом году, рассказывает про бессмертного, посланного на землю и способного принимать облик умирающих существ, но только если следующий организм сильнее, чем предыдущий. Вторым приобретением **«Истари»** стала **«Девочка в чужеземье»** от японского издательства *MAG Garden*. По синопсису серия во много напоминает другой хит *MAG*’ов «Невеста чародея» (девочка на воспитании у рогатого мужчины), но сильно расходится с ней по тону и атмосфере. Ну а третьим пополнением явилась манга-адаптация первой арки ранобэ **Re:** **Zero**, компактно уложившаяся в два тома.
 
-[![](https://web.archive.org/web/20170608043122im_/https://spidermedia.ru/assets/images/manga/pp-06/01-1.jpg)](./)
-[![](https://web.archive.org/web/20170608000152im_/https://spidermedia.ru/assets/images/manga/pp-06/01-2.jpg)](./)
-[![](https://web.archive.org/web/20170607211146im_/https://spidermedia.ru/assets/images/manga/pp-06/01-3.jpg)](./)
+![](https://web.archive.org/web/20170608043122im_/https://spidermedia.ru/assets/images/manga/pp-06/01-1.jpg)![](https://web.archive.org/web/20170608000152im_/https://spidermedia.ru/assets/images/manga/pp-06/01-2.jpg)![](https://web.archive.org/web/20170607211146im_/https://spidermedia.ru/assets/images/manga/pp-06/01-3.jpg)
 
 И, конечно же, стартовал очередной вкусный предзаказ (сроки с 20 апреля по 20 мая), который порадует представителей обоих полов. В его составе: **«Волчица и пряности»** (первый том ранобэ и четырнадцатый том манги), **«Гигантомахия»**, **«Двойняшки Фуро»**, **«Волколуние»** и **«Библиотека вампиров»** (том 1) с чрезвычайно соблазнительным рисунком Ли Сонён («Песня куклы»).
 
-[![](https://web.archive.org/web/20170630215807im_/https://spidermedia.ru/assets/images/manga/pp-05/07-1.jpg)](https://web.archive.org/web/20170630215807im_/https://spidermedia.ru/assets/images/manga/pp-05/07-1.jpg)
-
-[![](https://web.archive.org/web/20170630204847im_/https://spidermedia.ru/assets/images/manga/pp-06/02-2.jpg)](https://web.archive.org/web/20170630204847im_/https://spidermedia.ru/assets/images/manga/pp-06/02-2.jpg)
-
-[![](https://web.archive.org/web/20170630182631im_/https://spidermedia.ru/assets/images/manga/pp-06/02-3.jpg)](https://web.archive.org/web/20170630182631im_/https://spidermedia.ru/assets/images/manga/pp-06/02-3.jpg)
-
-[![](https://web.archive.org/web/20170630162132im_/https://spidermedia.ru/assets/images/manga/pp-05/07-3.jpg)](https://web.archive.org/web/20170630162132im_/https://spidermedia.ru/assets/images/manga/pp-05/07-3.jpg)
-
-[![](https://web.archive.org/web/20170630152403im_/https://spidermedia.ru/assets/images/manga/pp-05/07-2.jpg)](https://web.archive.org/web/20170630152403im_/https://spidermedia.ru/assets/images/manga/pp-05/07-2.jpg)
-
-[![](https://web.archive.org/web/20170630145633im_/https://spidermedia.ru/assets/images/manga/pp-06/02-6.jpg)](https://web.archive.org/web/20170630145633im_/https://spidermedia.ru/assets/images/manga/pp-06/02-6.jpg)
+![](https://web.archive.org/web/20170630215807im_/https://spidermedia.ru/assets/images/manga/pp-05/07-1.jpg)![](https://web.archive.org/web/20170630204847im_/https://spidermedia.ru/assets/images/manga/pp-06/02-2.jpg)![](https://web.archive.org/web/20170630182631im_/https://spidermedia.ru/assets/images/manga/pp-06/02-3.jpg)![](https://web.archive.org/web/20170630162132im_/https://spidermedia.ru/assets/images/manga/pp-05/07-3.jpg)![](https://web.archive.org/web/20170630152403im_/https://spidermedia.ru/assets/images/manga/pp-05/07-2.jpg)![](https://web.archive.org/web/20170630145633im_/https://spidermedia.ru/assets/images/manga/pp-06/02-6.jpg)
 
 **«Азбука»** прерывает затянувшиеся более чем на полгода (прошлая книга выходила в октябре) муки ожидания фанатов **«Бакумана»**, третий омнибус, в котором Масиро и Такаги предстоит сработаться с новым редактором, отправился в типографию.
 
-[![](https://web.archive.org/web/20170630205351im_/https://spidermedia.ru/assets/images/manga/pp-06/03-1.jpg)](https://web.archive.org/web/20170630205351im_/https://spidermedia.ru/assets/images/manga/pp-06/03-1.jpg)
-
-[![](https://web.archive.org/web/20170630161047im_/https://spidermedia.ru/assets/images/manga/pp-06/03-2.jpg)](https://web.archive.org/web/20170630161047im_/https://spidermedia.ru/assets/images/manga/pp-06/03-2.jpg)
-
-[![](https://web.archive.org/web/20170630173241im_/https://spidermedia.ru/assets/images/manga/pp-06/03-3.jpg)](https://web.archive.org/web/20170630173241im_/https://spidermedia.ru/assets/images/manga/pp-06/03-3.jpg)
-
-[![](https://web.archive.org/web/20170630165617im_/https://spidermedia.ru/assets/images/manga/pp-06/03-4.jpg)](https://web.archive.org/web/20170630165617im_/https://spidermedia.ru/assets/images/manga/pp-06/03-4.jpg)
+![](https://web.archive.org/web/20170630205351im_/https://spidermedia.ru/assets/images/manga/pp-06/03-1.jpg)![](https://web.archive.org/web/20170630161047im_/https://spidermedia.ru/assets/images/manga/pp-06/03-2.jpg)![](https://web.archive.org/web/20170630173241im_/https://spidermedia.ru/assets/images/manga/pp-06/03-3.jpg)![](https://web.archive.org/web/20170630165617im_/https://spidermedia.ru/assets/images/manga/pp-06/03-4.jpg)
 
 Совсем скоро состоится премьера фильма **Blame!,** по этому случаю **XL****Media** спешит издать первый том манги. Книга пока еще не ушла в печать, но на обложку полюбоваться можно.
 
-[![](https://web.archive.org/web/20170608022107im_/https://spidermedia.ru/assets/images/manga/pp-06/04-1.jpg)](./)
+![](https://web.archive.org/web/20170608022107im_/https://spidermedia.ru/assets/images/manga/pp-06/04-1.jpg)
 
 А вот эти томики от **ЭксЭл** уже покинули печатный станок и хотят побыстрее оказаться на ваших книжных полках: ранобэ **«****Девочка, которая любила макарони и прожила тысячу лет»** и манга**«****Я —** **Сакамото, а что?»** (том 2) и **«****Чудовище** **за****соседней** **партой****»** (том 5).
 
-[![](https://web.archive.org/web/20170608052406im_/https://spidermedia.ru/assets/images/manga/pp-05/02-1.jpg)](./)
-[![](https://web.archive.org/web/20170607220654im_/https://spidermedia.ru/assets/images/manga/pp-05/03-1.jpg)](./)
-[![](https://web.archive.org/web/20170608010724im_/https://spidermedia.ru/assets/images/valiant/images/pp-03/03-2.jpg)](./)
+![](https://web.archive.org/web/20170608052406im_/https://spidermedia.ru/assets/images/manga/pp-05/02-1.jpg)![](https://web.archive.org/web/20170607220654im_/https://spidermedia.ru/assets/images/manga/pp-05/03-1.jpg)![](https://web.archive.org/web/20170608010724im_/https://spidermedia.ru/assets/images/valiant/images/pp-03/03-2.jpg)
 
 **«Фабрика комиксов»** в своем репертуаре. Обрушивает целую лавину новых изданий: **«Шерлок»** (обе части дилогии), **«Джек Фрост»** (том 9), **«Номер один»** (книги 10-12) и отечественные **«Трилогия поиска»** и **«Призрак в ночи»** (том 2).
 
-[![](https://web.archive.org/web/20170630200910im_/https://spidermedia.ru/assets/images/valiant/images/pp-03/04-1.jpg)](https://web.archive.org/web/20170630200910im_/https://spidermedia.ru/assets/images/valiant/images/pp-03/04-1.jpg)
-
-[![](https://web.archive.org/web/20170630144317im_/https://spidermedia.ru/assets/images/manga/pp-06/06-2.jpg)](https://web.archive.org/web/20170630144317im_/https://spidermedia.ru/assets/images/manga/pp-06/06-2.jpg)
-
-[![](https://web.archive.org/web/20170630143934im_/https://spidermedia.ru/assets/images/valiant/images/pp-04/08-1.jpg)](https://web.archive.org/web/20170630143934im_/https://spidermedia.ru/assets/images/valiant/images/pp-04/08-1.jpg)
-
-[![](https://web.archive.org/web/20170630211721im_/https://spidermedia.ru/assets/images/valiant/images/pp-04/08-2.jpg)](https://web.archive.org/web/20170630211721im_/https://spidermedia.ru/assets/images/valiant/images/pp-04/08-2.jpg)
-
-[![](https://web.archive.org/web/20170630171601im_/https://spidermedia.ru/assets/images/manga/pp-05/09-1.jpg)](https://web.archive.org/web/20170630171601im_/https://spidermedia.ru/assets/images/manga/pp-05/09-1.jpg)
-
-[![](https://web.archive.org/web/20170630203516im_/https://spidermedia.ru/assets/images/manga/pp-06/06-6.jpg)](https://web.archive.org/web/20170630203516im_/https://spidermedia.ru/assets/images/manga/pp-06/06-6.jpg)
-
-[![](https://web.archive.org/web/20170630164212im_/https://spidermedia.ru/assets/images/valiant/images/pp-03/04-4.jpg)](https://web.archive.org/web/20170630164212im_/https://spidermedia.ru/assets/images/valiant/images/pp-03/04-4.jpg)
-
-[![](https://web.archive.org/web/20170630195614im_/https://spidermedia.ru/assets/images/manga/pp-05/09-2.jpg)](https://web.archive.org/web/20170630195614im_/https://spidermedia.ru/assets/images/manga/pp-05/09-2.jpg)
+![](https://web.archive.org/web/20170630200910im_/https://spidermedia.ru/assets/images/valiant/images/pp-03/04-1.jpg)![](https://web.archive.org/web/20170630144317im_/https://spidermedia.ru/assets/images/manga/pp-06/06-2.jpg)![](https://web.archive.org/web/20170630143934im_/https://spidermedia.ru/assets/images/valiant/images/pp-04/08-1.jpg)![](https://web.archive.org/web/20170630211721im_/https://spidermedia.ru/assets/images/valiant/images/pp-04/08-2.jpg)![](https://web.archive.org/web/20170630171601im_/https://spidermedia.ru/assets/images/manga/pp-05/09-1.jpg)![](https://web.archive.org/web/20170630203516im_/https://spidermedia.ru/assets/images/manga/pp-06/06-6.jpg)![](https://web.archive.org/web/20170630164212im_/https://spidermedia.ru/assets/images/valiant/images/pp-03/04-4.jpg)![](https://web.archive.org/web/20170630195614im_/https://spidermedia.ru/assets/images/manga/pp-05/09-2.jpg)
 
 ---
 
@@ -94,9 +64,7 @@
 
 #### Atom: The Beginning
 
-![](https://web.archive.org/web/20170608012655im_/https://spidermedia.ru/assets/cache/images/youtube/622x350-rKXiea-9uB4.3e9.jpg)
-
-[TVアニメ「アトム ザ･ビギニング」OP　After the Rain 「解読不能」](./) 00:01:30
+<iframe allowfullscreen="" frameborder="0" height="360" src="http://www.youtube.com/embed/rKXiea-9uB4?wmode=transparent" style="display: block; margin-left: auto; margin-right: auto;" width="640"></iframe>
 
 Жанр: приключения
 Число эпизодов: 12
@@ -106,9 +74,7 @@
 
 #### Berserk (2017)
 
-![](https://web.archive.org/web/20170608001816im_/https://spidermedia.ru/assets/cache/images/youtube/622x350-2SSe3SmRK9g.3e9.jpg)
-
-[BERSERK OPENING 1 OFFICIAL SEASON 2 @NoctisXV_](./) 00:01:31
+<iframe allowfullscreen="" frameborder="0" height="360" src="http://www.youtube.com/embed/2SSe3SmRK9g?wmode=transparent" style="display: block; margin-left: auto; margin-right: auto;" width="640"></iframe>
 
 Жанр: приключения, фэнтези
 Число эпизодов: >13
@@ -118,9 +84,7 @@
 
 #### Boku no Hero Academia 2
 
-![](https://web.archive.org/web/20170608054907im_/https://spidermedia.ru/assets/cache/images/youtube/622x350-xZe9GsuwHqA.3e9.jpg)
-
-[Boku no Hero Academia Opening 2](./) 00:01:30
+<iframe allowfullscreen="" frameborder="0" height="360" src="http://www.youtube.com/embed/xZe9GsuwHqA?wmode=transparent" style="display: block; margin-left: auto; margin-right: auto;" width="640"></iframe>
 
 Жанр: приключения, комедия
 Число эпизодов: 25
@@ -130,9 +94,7 @@
 
 #### Boruto: Naruto Next Generations
 
-![](https://web.archive.org/web/20170607233731im_/https://spidermedia.ru/assets/cache/images/youtube/622x350-9prtl1aVcdM.3e9.jpg)
-
-[Boruto Naruto Next Generations Opening 1](./) 00:01:30
+<iframe allowfullscreen="" frameborder="0" height="360" src="http://www.youtube.com/embed/9prtl1aVcdM?wmode=transparent" style="display: block; margin-left: auto; margin-right: auto;" width="640"></iframe>
 
 Жанр: приключения, фэнтези
 Число эпизодов: >13
@@ -142,9 +104,7 @@
 
 #### Shingeki no Kyojin Season 2
 
-![](https://web.archive.org/web/20170608022142im_/https://spidermedia.ru/assets/cache/images/youtube/622x350-CID-sYQNCew.3e9.jpg)
-
-[Attack on Titan Season 2 - Official Opening Song - Shinzou wo Sasageyo by Linked Horizon](./) 00:01:30
+<iframe allowfullscreen="" frameborder="0" height="360" src="http://www.youtube.com/embed/CID-sYQNCew?wmode=transparent" width="640"></iframe>
 
 Жанр: приключения, фэнтези, драма
 Число эпизодов: 12
@@ -157,3 +117,49 @@
 **ЧИТАЕМ**
 
 ---
+
+a:2:{i:1;a:7:{s:5:"autor";a:3:{i:1;a:2:{i:0;s:12:"[Автор]";i:1;s:27:"Хадзимэ Исаяма";}i:3;a:2:{i:0;s:51:"[Оригинальное издательство]";i:1;s:8:"Kodansha";}i:5;a:2:{i:0;s:33:"[Количество томов]";i:1;s:3:"22+";}}s:4:"name";s:30:"Атака на титанов";s:7:"edition";s:36:"Омнибусы 1-5 (тома 1-10)";s:5:"cover";s:39:"assets/images/manga/pp-06/aot-cover.jpg";s:9:"publisher";s:4:"3116";s:4:"year";s:5:"2016-";s:8:"comments";a:1:{i:1;a:4:{s:5:"autor";s:6:"183732";s:4:"text";s:8227:"
+
+В рамках рубрики я обычно не говорю о качестве российских изданий, но читая «Выбор без сожалений» (к нему перейдем позже) парочка мыслей все-таки появилась. Во-первых, мне импонирует желание «Азбуки» издавать серию по два тома в одной книге, а вот решение выпускать «Титанов» в твердом переплете не столь удачное (хотя логику издательства я проследить могу). Ввиду специфики манги (ее размера и ритма чтения) ее комфортнее читать именно в мягкой обложке, беря томик в обе руки, немного выгибая страницы (и обложку, соответственно, тоже). А с хардом такой фокус не проходит, отсюда и неудобства. И во-вторых, мне не очень нравится перевод Евгения Мягкова. Нет, текст он всегда выдает довольно высокого уровня, но Евгений часто использует чересчур «русские» (иногда просторечные или устаревшие) выражения. Глаз сам собой спотыкается на всяких «ясен пень», «в ус не дует» и «не видно ни зги» (так еще говорят?). Возможно, это чистой воды вкусовщина, но подобные фразы в манге вызывают у меня диссонанс, уж простите.
+
+[[gallery? &id=`1856` &type=`1` &rowHeight=`150` &maxRowHeight=`100%` &captions=`false` &fixedHeight=`false` &lastRow=`justify` &margins=`2`]]
+
+*Человечество столкнулось с серьезной опасностью в лице ужасающих титанов. Единственным путем к спасению стали стены, за которыми люди укрылись от монстров. Но ложному чувству безопасности приходит конец, когда группа титанов, возглавляемая гигантом, чей рост превосходит даже высоту самих стен, проламывает одну из них.*
+
+«Атаку титанов» иногда называют японской вариацией «Ходячих мертвецов» (это высказывание даже помещено на обложки американского издания). И действительно, эти серии похожи несколькими своими ключевыми элементами: жестокий мир, пожирающие людей монстры, обилие крови и смертей. «Титаны» также частенько эксплуатируют шок-фактор. Лично меня манга цепанула, простите за спойлер, неожиданной гибелью главного героя (тут сыграл еще и тот факт, что Эрен меня жутко бесил, и я был рад, что от него избавились). И приятно, что с этим приемом не перебарщивают (как в той же «Игре престолов»). С развитием истории Исаяма старается удержать читательский интерес не смертями персонажей (хотя экшн по-прежнему остается кровавым, и люди умирают), а загадками мироустройства, личными тайнами и правительственным заговором. Что-то ему удается лучше, что-то хуже, у сценария есть свои взлеты (обе битвы в Шинганшине) и падения (момент раскрытия личностей титана-колосса и бронированного титана), но в целом сюжет увлекает.
+
+Но в чем «Атака» точно не дотягивает до «Ходячих», так это в работе над персонажами. Они прописаны, конечно, неплохо, но сложных и многогранных личностей, которые меняются/ломаются под действием обстоятельств, тут крайне мало. Большинство героев определяются одной-двумя чертами и действуют в заданных ими рамках. Например, Саша, которая очень любит есть. Всё. Больше она ничем не характеризуется, даже ее личный флэшбэк мало что добавил образу.
+
+[[gallery? &id=`1858` &type=`1` &rowHeight=`150` &maxRowHeight=`100%` &captions=`false` &fixedHeight=`false` &lastRow=`justify` &margins=`2`]]
+
+Хотя есть и исключения. Пожалуй, лучше всего у автора получилась Криста. Для девушки хорошо прописан конфликт между ее добродушным образом и истинными причинами такого ее поведения. И потом, когда она принимает себя настоящую, интересно наблюдать за изменениями в ее характере. Плюс, у Кристы есть отличная линия взаимоотношений с Юмир и крепкий флэшбэк, рассказывающий о ее происхождении.
+
+Да, я не большой фанат экранизации, но признаю, что графика в аниме намного лучше, чем в манге. Рисунок Хадзимэ Исаямы скорее номинальный. Он выполняет чисто техническую функцию передачи сюжета и не предназначен радовать взгляд. У мангаки большие проблемы с дизайном персонажей, анатомией и компоновкой кадра, хорош он только в раскадровке. Но со временем мастерство Исаямы растет, его стиль становится сносным (не без помощи ассистентов), а экшн-сцены и вовсе приносят удовольствие.
+
+«Атака титанов» — фэнтезийная постапокалиптика, цепляющая читателя шок-элементами, но удерживающая его внимание тайнами мироустройства. И пусть не все моменты произведения мне нравятся, я все же с интересом слежу за серией.
+
+";s:8:"mjdzText";s:0:"";s:10:"conclusion";s:0:"";}}}i:2;a:7:{s:5:"autor";a:5:{i:1;a:2:{i:0;s:28:"[Первоисточник]";i:1;s:27:"Хадзимэ Исаяма";}i:3;a:2:{i:0;s:18:"[Сценарий]";i:1;s:17:"Ган Снарк";}i:5;a:2:{i:0;s:16:"[Рисунок]";i:1;s:25:"Хикару Суруга";}i:7;a:2:{i:0;s:51:"[Оригинальное издательство]";i:1;s:8:"Kodansha";}i:9;a:2:{i:0;s:33:"[Количество томов]";i:1;s:1:"2";}}s:4:"name";s:68:"Атака на титанов. Выбор без сожалений";s:7:"edition";s:0:"";s:5:"cover";s:34:"assets/images/manga/pp-05/08-2.jpg";s:9:"publisher";s:4:"3116";s:4:"year";s:4:"2017";s:8:"comments";a:1:{i:1;a:4:{s:5:"autor";s:6:"183732";s:4:"text";s:4761:"
+
+И продолжая тему «Титанов», немного о спин-оффе.
+
+*Подземные катакомбы столицы стали пристанищем для множеств преступников. И среди прочих банда под командованием Ливая (простите, но я просто не могу называть его Леви) выделяется своими исключительными способностями в обращении с устройствами пространственного маневрирования. Слухи об их талантах доходят до одного из офицеров разведкорпуса Эрвина Смита, который и предлагает ребятам вступить в ряды разведчиков.*
+
+[[gallery? &id=`1857` &type=`1` &rowHeight=`150` &maxRowHeight=`100%` &captions=`false` &fixedHeight=`false` &lastRow=`justify` &margins=`2`]]
+
+Не будем лукавить, Ливай — самый популярный персонаж «Атаки», если кто и мог обзавестись собственной серией (вернее, мини-серией), то именно он. Но вот что странно, «Выбор без сожалений» в большей степени концентрируется на Эрвине. Он не только основная движущая сила повествования, но и чуть ли не единственный герой, получающий эмоциональное раскрытие. Его финальный диалог с Ливаем четко вычерчивает мотивы его (Эрвина) борьбы с титанами, демонстрирует его стремление докопаться до правды и показывает, сколь многим он готов пожертвовать ради своей конечной цели — свободы человечества. Правда, этот момент был бы намного сильнее, если бы мы не знали об этих чертах Эрвина из основной серии, где они не раз проявлялись. «Выбор» говорит о персонаже красиво, но повторяется.
+
+А вот Ливай здесь вообще игрушка в руках сценария. Сюжет (весьма посредственный, кстати; и рисунок ему под стать) делает все за героя сам, ведя его в ту точку, в которую необходимо. Да, ему дают сделать один единственный значимый выбор (дошло?), который дает прекрасную возможность развить персонажа. Но этого не происходит. Ливай вроде как начинает осознавать, что его гордость стала причиной трагедии, и это была бы отличная отправная точка изменения образа героя, но все прерывается монологом Эрвина, а потом манга берет и заканчивается. По сути, вынесенное на обложку «рождения Ливая» происходит уже после событий «Выбора». Ну а эта история получается просто длинным ответом на вопрос, как он попал в разведкорпус, на что вполне хватило бы и одной главы.
+
+«Атака на титанов. Выбор без сожалений» — чтиво, рассчитанное только на фанатов (то есть фанаток) Ливая, желающих знать все о любимом герое. Да и тех оно обманывает тем, что уделяет основное внимания другому персонажу. Ну, хоть куча бонусов есть.
+
+";s:8:"mjdzText";s:267:"
+
+---
+
+**つづく...**
+
+---
+
+В следующем выпуске: summer special.
+
+";s:10:"conclusion";s:0:"";}}}}

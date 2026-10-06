@@ -1,7 +1,10 @@
 {
   "title": "Вечный Икс-Фактор",
-  "date": "2010-02-05T10:42:00+03:00",
+  "date": "2010-02-05T10:42:01+03:00",
   "url": "/news/vechnyy-iks-faktor/",
+  "aliases": [
+    "/node/2180/"
+  ],
   "original_url": "http://spidermedia.ru/news/vechnyy-iks-faktor",
   "archived": "https://web.archive.org/web/20170908231353/http://spidermedia.ru:80/news/vechnyy-iks-faktor",
   "tags": [
@@ -13,13 +16,19 @@
     "x-factor",
     "marvel",
     "louise-simonson",
-    "dan-panosian"
+    "dan-panosian",
+    "lyudi-iks"
+  ],
+  "modx_id": 2180,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-Концепция **X-Men Forever** оказалась настолько успешной, что быстро трансформировалась в линейку **X-Title Forever** (такое уже было с **First Class**). Посудите сами, первопроходец в лице **X-Men Forever** выходит дважды в месяц, скоро перейдет годовой рубеж существования серии и по этому поводу неплохо себя чувствует. Недавно была заявлена мини [**New Mutants Forever**](../../node/2033/), которая не имеет ничего общего с первым тайтлом, но заимствует изначально ту же идею "а что, если бы автор X не ушел с тайтла Y?". И если раньше это было привилегией только **Криса Клэрмонта** *(Chris Claremont)*, то теперь в ряду "увековеченных" пополнение. Марвел анонсировало 5-ти номерную мини **X-Factor Forever** за авторством **Луиз Симонсон** *(Louise Simonson)*.
+Концепция **X-Men Forever** оказалась настолько успешной, что быстро трансформировалась в линейку **X-Title Forever** (такое уже было с **First Class**). Посудите сами, первопроходец в лице **X-Men Forever** выходит дважды в месяц, скоро перейдет годовой рубеж существования серии и по этому поводу неплохо себя чувствует. Недавно была заявлена мини [**New Mutants Forever**](../vechno-novye/), которая не имеет ничего общего с первым тайтлом, но заимствует изначально ту же идею "а что, если бы автор X не ушел с тайтла Y?". И если раньше это было привилегией только **Криса Клэрмонта** *(Chris Claremont)*, то теперь в ряду "увековеченных" пополнение. Марвел анонсировало 5-ти номерную мини **X-Factor Forever** за авторством **Луиз Симонсон** *(Louise Simonson)*.
 [![](https://web.archive.org/web/20170908231353im_/http://img207.imageshack.us/img207/9071/covertr.jpg)](http://www.comicbookresources.com/assets/phpThumb/phpThumb.php?src=/assets/images/articles/1260994946.jpg)
 Обложка к **X-Factor Forever #1** от **Дэна Паносяна** *(Dan Panosian)*
 **Upd.** Появилось превью к первому номеру.

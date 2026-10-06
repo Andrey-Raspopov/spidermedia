@@ -1,6 +1,6 @@
 {
   "title": "Комикс-ребут \"Армии тьмы\" приурочат к Хэллоуину",
-  "date": "2013-09-20T11:37:00+03:00",
+  "date": "2013-09-20T10:37:13+03:00",
   "url": "/news/komiks-rebut-armii-tmy-priurochat-k-hellouinu/",
   "original_url": "https://spidermedia.ru/news/komiks-rebut-armii-tmy-priurochat-k-hellouinu",
   "archived": "https://web.archive.org/web/20260208205238/https://spidermedia.ru/news/komiks-rebut-armii-tmy-priurochat-k-hellouinu",
@@ -8,6 +8,12 @@
     "steve-niles",
     "dynamite-entertainment",
     "army-of-darkness"
+  ],
+  "cover": "https://web.archive.org/web/20150424123317im_/http://spidermedia.ru/assets/images/import_image/7477.jpg",
+  "modx_id": 7477,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

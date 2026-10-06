@@ -1,13 +1,23 @@
 {
   "title": "Охотники за привидениями: Затерянные во времени",
-  "date": "2009-05-15T11:45:00+03:00",
+  "date": "2009-05-15T10:45:39+03:00",
   "url": "/news/ohotniki-za-privideniyami-zateryannye-vo-vremeni/",
+  "aliases": [
+    "/node/1191/"
+  ],
   "original_url": "https://spidermedia.ru/news/ohotniki-za-privideniyami-zateryannye-vo-vremeni",
   "archived": "https://web.archive.org/web/20260314081956/https://spidermedia.ru/news/ohotniki-za-privideniyami-zateryannye-vo-vremeni",
   "tags": [
     "idw-publishing",
     "preview",
-    "ghostbusters"
+    "ghostbusters",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20260314081956im_/http://spidermedia.ru/assets/images/import_image/1191.jpg",
+  "modx_id": 1191,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -4,6 +4,9 @@
   "url": "/docs/cartoon/spawn/",
   "original_url": "http://spidermedia.ru/docs/cartoon/spawn.html",
   "archived": "https://web.archive.org/web/20051202070215/http://spidermedia.ru:80/docs/cartoon/spawn.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

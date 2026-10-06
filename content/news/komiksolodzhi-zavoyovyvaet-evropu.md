@@ -1,6 +1,6 @@
 {
   "title": "Комиксолоджи завоёвывает Европу",
-  "date": "2013-02-03T17:08:00+03:00",
+  "date": "2013-02-03T16:08:41+03:00",
   "url": "/news/komiksolodzhi-zavoyovyvaet-evropu/",
   "original_url": "http://spidermedia.ru/news/komiksolodzhi-zavoyovyvaet-evropu",
   "archived": "https://web.archive.org/web/20260211183926/http://spidermedia.ru/news/komiksolodzhi-zavoyovyvaet-evropu",
@@ -8,6 +8,12 @@
     "cifrovye-komiksy",
     "industriya",
     "comixology"
+  ],
+  "cover": "https://web.archive.org/web/20260211183926im_/http://spidermedia.ru/assets/images/import_image/7133.jpg",
+  "modx_id": 7133,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

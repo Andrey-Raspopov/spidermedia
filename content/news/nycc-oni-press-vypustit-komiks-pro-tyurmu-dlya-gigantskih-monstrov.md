@@ -1,12 +1,18 @@
 {
   "title": "NYCC:  Oni Press выпустит комикс про тюрьму для гигантских монстров",
-  "date": "2014-10-11T00:44:00+03:00",
+  "date": "2014-10-10T23:44:39+03:00",
   "url": "/news/nycc-oni-press-vypustit-komiks-pro-tyurmu-dlya-gigantskih-monstrov/",
   "original_url": "http://spidermedia.ru/news/nycc-oni-press-vypustit-komiks-pro-tyurmu-dlya-gigantskih-monstrov",
   "archived": "https://web.archive.org/web/20260125123642/http://spidermedia.ru/news/nycc-oni-press-vypustit-komiks-pro-tyurmu-dlya-gigantskih-monstrov",
   "tags": [
     "komik-kon-v-nyu-jorke",
     "oni-press"
+  ],
+  "cover": "https://web.archive.org/web/20260125123642im_/http://spidermedia.ru/assets/images/import_image/8164.jpg",
+  "modx_id": 8164,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

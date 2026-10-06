@@ -1,9 +1,15 @@
 {
   "title": "Из комедиантов в неудачники",
-  "date": "2009-02-20T18:44:00+03:00",
+  "date": "2009-02-20T18:44:05+03:00",
   "url": "/news/iz-komediantov-v-neudachniki/",
   "original_url": "http://spidermedia.ru/news/iz-komediantov-v-neudachniki",
   "archived": "https://web.archive.org/web/20191205180746/http://spidermedia.ru/news/iz-komediantov-v-neudachniki",
+  "cover": "https://web.archive.org/web/20191205180746im_/http://spidermedia.ru/assets/images/import_image/463.jpg",
+  "modx_id": 463,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

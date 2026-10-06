@@ -1,12 +1,19 @@
 {
   "title": "Отмороженный наёмник",
-  "date": "2013-01-09T21:16:00+03:00",
+  "date": "2013-01-09T20:16:34+03:00",
   "url": "/news/otmorozhennyy-nayomnik/",
   "original_url": "http://spidermedia.ru/news/otmorozhennyy-nayomnik",
   "archived": "https://web.archive.org/web/20150428043545/http://spidermedia.ru/news/otmorozhennyy-nayomnik",
   "tags": [
     "marvel-comics",
-    "deadpool"
+    "deadpool",
+    "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150428043545im_/http://spidermedia.ru/assets/images/import_image/7112.jpg",
+  "modx_id": 7112,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

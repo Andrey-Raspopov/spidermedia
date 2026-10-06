@@ -1,11 +1,19 @@
 {
   "title": "yay!",
-  "date": "2009-07-24T21:08:00+03:00",
+  "date": "2009-07-24T20:08:02+03:00",
   "url": "/blog/plane-v/yay/",
+  "aliases": [
+    "/node/1645/"
+  ],
   "original_url": "http://spidermedia.ru/blog/plane-v/yay",
   "archived": "https://web.archive.org/web/20120607104318/http://spidermedia.ru/blog/plane-v/yay",
   "tags": [
     "wildstorm"
+  ],
+  "modx_id": 1645,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

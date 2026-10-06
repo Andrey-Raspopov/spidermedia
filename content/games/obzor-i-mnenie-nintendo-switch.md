@@ -4,6 +4,12 @@
   "url": "/games/obzor-i-mnenie-nintendo-switch/",
   "original_url": "http://spidermedia.ru/games/obzor-i-mnenie-nintendo-switch",
   "archived": "https://web.archive.org/web/20221128084407/http://spidermedia.ru/games/obzor-i-mnenie-nintendo-switch",
+  "cover": "https://web.archive.org/web/20170909030659im_/http://spidermedia.ru/assets/images/games/switch-fin/swi1.jpg",
+  "modx_id": 101517,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

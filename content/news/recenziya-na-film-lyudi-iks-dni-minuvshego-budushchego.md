@@ -1,12 +1,19 @@
 {
   "title": "Рецензия: «Люди Икс: Дни минувшего будущего»",
-  "date": "2014-05-22T11:48:00+03:00",
+  "date": "2014-05-22T10:48:43+03:00",
   "url": "/news/recenziya-na-film-lyudi-iks-dni-minuvshego-budushchego/",
   "original_url": "http://spidermedia.ru/news/recenziya-na-film-lyudi-iks-dni-minuvshego-budushchego",
   "archived": "https://web.archive.org/web/20260309190606/http://spidermedia.ru/news/recenziya-na-film-lyudi-iks-dni-minuvshego-budushchego",
   "tags": [
     "recenziya",
-    "x-men"
+    "x-men",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20150326033852im_/http://spidermedia.ru/assets/images/import_image/7747.jpg",
+  "modx_id": 7747,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

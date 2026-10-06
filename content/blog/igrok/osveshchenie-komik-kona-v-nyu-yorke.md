@@ -1,13 +1,21 @@
 {
   "title": "Освещение Комик-кона в Нью-Йорке",
-  "date": "2009-02-06T13:41:00+03:00",
+  "date": "2009-02-06T13:41:14+03:00",
   "url": "/blog/igrok/osveshchenie-komik-kona-v-nyu-yorke/",
+  "aliases": [
+    "/node/225/"
+  ],
   "original_url": "http://spidermedia.ru/blog/igrok/osveshchenie-komik-kona-v-nyu-yorke",
   "archived": "https://web.archive.org/web/20241211230155/http://spidermedia.ru/blog/igrok/osveshchenie-komik-kona-v-nyu-yorke",
   "tags": [
     "figurki",
     "statui",
     "nycc-2009"
+  ],
+  "modx_id": 225,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -7,6 +7,12 @@
   "tags": [
     "russian-comics"
   ],
+  "cover": "https://web.archive.org/web/20210818150225im_/http://spidermedia.ru/assets/images/reviews/others/necropolis/necropolis.jpg",
+  "modx_id": 101763,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

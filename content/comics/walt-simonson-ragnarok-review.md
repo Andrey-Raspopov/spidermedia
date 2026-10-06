@@ -8,6 +8,12 @@
     "ast",
     "uolt-simonson"
   ],
+  "cover": "https://web.archive.org/web/20250210063058im_/http://spidermedia.ru/assets/images/reviews/ast/ragnarok/msc.jpg",
+  "modx_id": 101747,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -7,6 +7,12 @@
   "tags": [
     "oni-press"
   ],
+  "cover": "https://web.archive.org/web/20160426171712im_/http://spidermedia.ru/assets/images/news/oni-press/announce/blood-feud-oni-press-cover.jpg",
+  "modx_id": 100102,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

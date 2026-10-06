@@ -7,6 +7,12 @@
   "tags": [
     "bubble"
   ],
+  "cover": "https://web.archive.org/web/20220922011253im_/http://spidermedia.ru/assets/images/valiant/images/b-v/interview-yakutia-cover-1.jpg",
+  "modx_id": 101390,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

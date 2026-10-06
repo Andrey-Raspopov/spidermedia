@@ -1,6 +1,6 @@
 {
   "title": "Kurtzman & Orci: Welcome to Fail",
-  "date": "2010-02-07T01:52:00+03:00",
+  "date": "2010-02-07T00:52:26+03:00",
   "url": "/blog/gess/kurtzman-orci-welcome-fail/",
   "original_url": "http://spidermedia.ru/blog/gess/kurtzman-orci-welcome-fail",
   "archived": "https://web.archive.org/web/20120512081232/http://spidermedia.ru/blog/gess/kurtzman-orci-welcome-fail",
@@ -8,6 +8,12 @@
     "daredevil",
     "locke-key",
     "kino"
+  ],
+  "cover": "https://web.archive.org/web/20120512081232im_/http://spidermedia.ru/assets/images/import_image/2344.jpg",
+  "modx_id": 2344,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

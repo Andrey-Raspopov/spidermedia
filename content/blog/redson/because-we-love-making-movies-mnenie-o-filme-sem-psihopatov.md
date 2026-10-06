@@ -1,12 +1,18 @@
 {
   "title": "BECAUSE WE LOVE MAKING MOVIES: Мнение о фильме \"Семь психопатов\"",
-  "date": "2012-10-21T17:11:00+03:00",
+  "date": "2012-10-21T16:11:22+03:00",
   "url": "/blog/redson/because-we-love-making-movies-mnenie-o-filme-sem-psihopatov/",
   "original_url": "http://spidermedia.ru/blog/redson/because-we-love-making-movies-mnenie-o-filme-sem-psihopatov",
   "archived": "https://web.archive.org/web/20150428045429/http://spidermedia.ru/blog/redson/because-we-love-making-movies-mnenie-o-filme-sem-psihopatov",
   "tags": [
     "kino",
     "mnenie"
+  ],
+  "cover": "https://web.archive.org/web/20150428172512im_/http://spidermedia.ru/assets/images/import_image/7070.jpg",
+  "modx_id": 7070,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

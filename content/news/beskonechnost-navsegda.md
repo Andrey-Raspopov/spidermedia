@@ -1,6 +1,6 @@
 {
   "title": "Бесконечность навсегда",
-  "date": "2014-03-12T04:10:00+03:00",
+  "date": "2014-03-12T03:10:36+03:00",
   "url": "/news/beskonechnost-navsegda/",
   "original_url": "http://spidermedia.ru/news/beskonechnost-navsegda",
   "archived": "https://web.archive.org/web/20150507102923/http://spidermedia.ru/news/beskonechnost-navsegda",
@@ -8,7 +8,14 @@
     "novye-bogi",
     "kit-giffen",
     "den-didio",
-    "dc-comics"
+    "dc-comics",
+    "dan-didio"
+  ],
+  "cover": "https://web.archive.org/web/20150507102923im_/http://spidermedia.ru/assets/images/import_image/7681.jpg",
+  "modx_id": 7681,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

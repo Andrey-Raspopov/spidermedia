@@ -1,12 +1,18 @@
 {
   "title": "Break me some ice yo",
-  "date": "2011-06-04T00:40:00+03:00",
+  "date": "2011-06-03T23:40:15+03:00",
   "url": "/blog/plane-v/break-me-some-ice-yo/",
   "original_url": "https://spidermedia.ru/blog/plane-v/break-me-some-ice-yo",
   "archived": "https://web.archive.org/web/20260125070227/https://spidermedia.ru/blog/plane-v/break-me-some-ice-yo",
   "tags": [
     "mnenie",
     "lyudi-iks-pervyj-klass"
+  ],
+  "cover": "https://web.archive.org/web/20260125070227im_/http://spidermedia.ru/assets/images/import_image/6253.jpg",
+  "modx_id": 6253,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

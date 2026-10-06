@@ -1,14 +1,24 @@
 {
   "title": "Avengers Assemble! - Май 2010",
-  "date": "2010-03-02T00:16:00+03:00",
+  "date": "2010-03-02T00:16:24+03:00",
   "url": "/news/avengers-assemble-may-2010/",
+  "aliases": [
+    "/node/2409/"
+  ],
   "original_url": "http://spidermedia.ru/news/avengers-assemble-may-2010",
   "archived": "https://web.archive.org/web/20190515192758/http://spidermedia.ru:80/news/avengers-assemble-may-2010",
   "tags": [
     "preview",
     "marvel",
     "heroic-age",
-    "avengers"
+    "avengers",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20190515192758im_/http://spidermedia.ru/assets/images/import_image/2409.jpg",
+  "modx_id": 2409,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
@@ -24,7 +34,7 @@
 | [Photobucket](http://s859.photobucket.com/albums/ab152/RealIrOnMaN-1/26_BLACK_WIDOW_2.jpg) | Black Widow #2 Сценарист: Марджори Лью *(Marjorie Liu)* Художник: Даниель Акунья (Daniel Acuna) Обложка: Даниель Акунья (Daniel Acuna) Вариант обложки: Марко Джурджевич (Marko Djurdjevic), ??? Кто-то желает смерти Черной Вдове (Natasha Romanoff/Black Widow) и нужно признать, что они очень близки к своей цели. Наташе предстоит идти по следу своих противников. Что могут знать такие герои, как: Росомаха (Wolverine), Железный Человек (Tony Stark/Iron Man) и Дардевил (Daredevil) об этих злодеях? Почему же они не хотят помочь Вдове? |
 | [Photobucket](http://s859.photobucket.com/albums/ab152/RealIrOnMaN-1/1_AGE_OF_HEROES_1.jpg) | Age of Heroes #1 Сценаристы: Рик Ремендер (Rick Remender), Пол Корнелл (Paul Cornell), Дэн Слотт (Dan Slott), **Курт Бусиек** *(Kurt Busiek)* Художники: Марко Джурджевич (Marko Djurdjevic), Леонард Кирк (Leonard Kirk), Крис Самни (Chris Samnee) и другие Обложка: Грег Точчини (Gregg Tocchini) Вариант обложка: Майк Перкинс (Mike Perkins) Эра Героев (Heroic Age) началась. Герои смогли остановить Нормана Осборна (Norman Osborn) и его Осаду (Siege) на Асгард (Asgard), но впереди ещё одно испытание - встреча лицом к лицу c мэром Нью-Йорка, Джей Джоной Джеймсоном (J. Jonah Jameson), а также: приключения MI13, Человека-Паука (Spider-Man) и Доктора Вуду (Doctor Voodoo). |
 | [Photobucket](http://s859.photobucket.com/albums/ab152/RealIrOnMaN-1/51_ENTER_THE_HEROIC_AGE_1.jpg) | Enter the Heroic Age #1 (Уан-шот) Сценаристы: Джеф Паркер (Jeff Parker), Джим МакКэнн (Jim McCann), Келли Сью Деконник *(**Kelly Sue Deconnick)*, **Кристос Гейдж** *(Christos Gage)* Художники: Майк Маккон (Mike McKone), Габриэль Хардмэн (Gabriel Hardman), Дэвид Лопез (David Lopez), Кев Уолкер (Kev Walker) и другие Обложка: Брайан Хитч (Bryan Hitch) Этот уан-шот открывает дорогу новому онгоингу Мстителей, а может даже двум! Кто сможет ответить на зов Мстителей и защитить мир? |
-| [Photobucket](http://s859.photobucket.com/albums/ab152/RealIrOnMaN-1/22_AVENGERS__THE_ORIGIN_2.jpg) | Avengers: The Origin #2 Сценарист: Джо Кейси *(Joe Casey)* Художник: Фил Ното (Phil Noto) Обложка: Фил Ното (Phil Noto) Вариант обложка: [Сальвадор Ларрока (Salvador Larroca)](http://comicbookresources.com/images/solicits/marvelcomics/201005/23_AVENGERS__THE_ORIGIN_2_HEROIC_AGE_VARIANT_.jpg) Данная история продолжит рассказ о первой встрече Мстителей. Подробнее [здесь](../../node/2265/). |
+| [Photobucket](http://s859.photobucket.com/albums/ab152/RealIrOnMaN-1/22_AVENGERS__THE_ORIGIN_2.jpg) | Avengers: The Origin #2 Сценарист: Джо Кейси *(Joe Casey)* Художник: Фил Ното (Phil Noto) Обложка: Фил Ното (Phil Noto) Вариант обложка: [Сальвадор Ларрока (Salvador Larroca)](http://comicbookresources.com/images/solicits/marvelcomics/201005/23_AVENGERS__THE_ORIGIN_2_HEROIC_AGE_VARIANT_.jpg) Данная история продолжит рассказ о первой встрече Мстителей. Подробнее [здесь](../keysi-i-ego-mstiteli/). |
 | [Photobucket](http://s859.photobucket.com/albums/ab152/RealIrOnMaN-1/66_INVINCIBLE_IRON_MAN_26.jpg) | Invincible Iron Man #26 Сценарист: **Мэтт Фракшен** *(Matt Fraction)* Художник: **Сальвадор Ларрока** *(Salvador Larroca)* Обложка: **Сальвадор Ларрока** *(Salvador Larroca)* Вариант обложка: ??? Хэммер-Девушки (The Hammer Girls) выпускают Стального Детройта (Detroit Steel), а это означает, что каждому, кто захочет встать у них на пути, сильно не поздоровится. Тем временем, Тони Старк продолжает изучение остатков своей старой жизни и восстановление самого себя и своей сущности. А Роуди (Jim "Rhodey" Rhodes/War Machine) пытается быть солдатом во время мира. А также: больше информации о новой броне Железного Человека. |
 | [Photobucket](http://s859.photobucket.com/albums/ab152/RealIrOnMaN-1/72_IRON_MAN__LEGACY_2.jpg) | Iron Man: Legacy #2 Сценарист: Фред Ван Ленте *(Fred Van Lente)* Художник: Стив Курт *(Steve Kurth)* Обложка: Брендон Петерсон (Brandon Peterson) Вариант обложка: ??? Тони бросает вызов правительству США и решает лично расправиться с бронированными убийцами, которые объявились в Трансии (Transia - вымышленная страна, существующая на Земле-616), тем самым вовлекая себя, свою жизнь, свою компанию и своих друзей в международный конфликт. А также: шокирующее появление одного из старых врагов Старка на последней странице данного выпуска. |
 |  | Secret Avengers #1 Сценарист: **Эд Брубейкер** *(Ed Brubaker)* Художник: **Майк Деодато** *(Mike Deodato)* Обложка: Марко Джурджевич (Marko Djurdjevic) Вариант обложки: Марко Джурджевич (Marko Djurdjevic), **Майк Деодато** *(Mike Deodato)* Что из себя представляют Секретные Мстители (Secret Avengers)? Являются ли они тайной командой героев, работающих в тени для устранения разных опасностей, угрожающих миру? А может они наполовину шпионы, наполовину герои? Может быть они - новая и неординарная идея? Или же команда выше всего этого? |

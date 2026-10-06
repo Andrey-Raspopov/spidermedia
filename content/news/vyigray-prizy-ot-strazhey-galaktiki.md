@@ -1,6 +1,6 @@
 {
   "title": "Выиграй призы от «Стражей Галактики»!",
-  "date": "2014-07-25T16:09:00+03:00",
+  "date": "2014-07-25T15:09:38+03:00",
   "url": "/news/vyigray-prizy-ot-strazhey-galaktiki/",
   "original_url": "http://spidermedia.ru/news/vyigray-prizy-ot-strazhey-galaktiki",
   "archived": "https://web.archive.org/web/20260211175336/http://spidermedia.ru/news/vyigray-prizy-ot-strazhey-galaktiki",
@@ -8,6 +8,12 @@
     "guardians-of-the-galaxy",
     "marvel",
     "konkurs"
+  ],
+  "cover": "https://web.archive.org/web/20150424090738im_/http://spidermedia.ru/assets/images/import_image/7924.jpg",
+  "modx_id": 7924,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "\"Чудо-Парк\" Марка Миллара",
-  "date": "2010-09-16T16:53:00+03:00",
+  "date": "2010-09-16T15:53:58+03:00",
   "url": "/news/chudo-park-marka-millara/",
+  "aliases": [
+    "/node/2919/"
+  ],
   "original_url": "http://spidermedia.ru/news/chudo-park-marka-millara",
   "archived": "https://web.archive.org/web/20120607190440/http://spidermedia.ru/news/chudo-park-marka-millara",
   "tags": [
@@ -10,6 +13,12 @@
     "komiksy",
     "mark-millar",
     "chudo-park"
+  ],
+  "cover": "https://web.archive.org/web/20120607190440im_/http://spidermedia.ru/assets/images/import_image/2919.jpg",
+  "modx_id": 2919,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

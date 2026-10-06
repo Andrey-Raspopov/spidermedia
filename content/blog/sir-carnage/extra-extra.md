@@ -1,12 +1,21 @@
 {
   "title": "Extra! Extra!",
-  "date": "2009-11-17T15:45:00+03:00",
+  "date": "2009-11-17T15:45:29+03:00",
   "url": "/blog/sir-carnage/extra-extra/",
+  "aliases": [
+    "/node/2110/"
+  ],
   "original_url": "https://spidermedia.ru/blog/sir-carnage/extra-extra",
   "archived": "https://web.archive.org/web/20251117011211/https://spidermedia.ru/blog/sir-carnage/extra-extra",
   "tags": [
     "yumor",
     "blackest-night"
+  ],
+  "cover": "https://web.archive.org/web/20251117011211im_/http://spidermedia.ru/assets/images/import_image/2110.jpg",
+  "modx_id": 2110,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

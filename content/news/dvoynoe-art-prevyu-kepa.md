@@ -1,7 +1,10 @@
 {
   "title": "Двойное арт-превью Кэпа",
-  "date": "2009-04-13T19:34:00+03:00",
+  "date": "2009-04-13T18:34:06+03:00",
   "url": "/news/dvoynoe-art-prevyu-kepa/",
+  "aliases": [
+    "/node/927/"
+  ],
   "original_url": "http://spidermedia.ru/news/dvoynoe-art-prevyu-kepa",
   "archived": "https://web.archive.org/web/20260117225603/http://spidermedia.ru/news/dvoynoe-art-prevyu-kepa",
   "tags": [
@@ -14,14 +17,20 @@
     "rodzher-stern",
     "luke-ross",
     "rikki-barnes",
-    "rikki-barns"
+    "rikki-barns",
+    "prevyu"
+  ],
+  "modx_id": 927,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
 Сегодня мы приготовили для вас двойное арт-превью: **Captain America #600** и #601.
-[![](https://web.archive.org/web/20260117225603im_/http://img14.imageshack.us/img14/4556/554headerbanner5225003.jpg)](http://img14.imageshack.us/img14/4556/554headerbanner5225003.jpg)Мы уже писали о том, что ожидает серию в ближайшем будущем: [#1](../../node/757/), [#2](../../node/897/). **Рикки Барнс** *(Rikki Barnes)*, чьё появление в #600 было под сомнением, теперь точно появится в серии. Подтверждение поступило из блога [**Тома Бревурта** *(Tom Brevoort)*](http://www.marvel.com/blogs//entry/1448). Напомним вам, что над Сaptain America #600 работает дружная команда, состоящая из Эда Брубейкера (Ed Brubaker), Марка Уэйда (Mark Wade), Роджера Стерна (Roger Stern) и других. Рисуют Люк Росс (Luke Ross), Дэйл Иглшэм (Dale Eaglesham) и другие. Комикс появится на прилавках 17го июня!
+[![](https://web.archive.org/web/20260117225603im_/http://img14.imageshack.us/img14/4556/554headerbanner5225003.jpg)](http://img14.imageshack.us/img14/4556/554headerbanner5225003.jpg)Мы уже писали о том, что ожидает серию в ближайшем будущем: [#1](../avengers-assemble-iyun-2009/), [#2](../dazhe-u-bakki-dolzhen-byt-bakki/). **Рикки Барнс** *(Rikki Barnes)*, чьё появление в #600 было под сомнением, теперь точно появится в серии. Подтверждение поступило из блога [**Тома Бревурта** *(Tom Brevoort)*](http://www.marvel.com/blogs//entry/1448). Напомним вам, что над Сaptain America #600 работает дружная команда, состоящая из Эда Брубейкера (Ed Brubaker), Марка Уэйда (Mark Wade), Роджера Стерна (Roger Stern) и других. Рисуют Люк Росс (Luke Ross), Дэйл Иглшэм (Dale Eaglesham) и другие. Комикс появится на прилавках 17го июня!
 **Captain America #600:**
 [![Изображение](https://web.archive.org/web/20260117225603im_/http://www.picamatic.com/show/2009/04/11/02/32/3212464_bigthumb.jpg)](http://www.picamatic.com/view/3212464_1448new_storyimage9401246/) [![Изображение](https://web.archive.org/web/20260117225603im_/http://www.picamatic.com/show/2009/04/11/02/32/3212465_bigthumb.jpg)](http://www.picamatic.com/view/3212465_1448new_storyimage9401280/) [![Изображение](https://web.archive.org/web/20260117225603im_/http://www.picamatic.com/show/2009/04/11/02/32/3212467_bigthumb.jpg)](http://www.picamatic.com/view/3212467_1448new_storyimage9401357/) [![Изображение](https://web.archive.org/web/20260117225603im_/http://www.picamatic.com/show/2009/04/11/02/32/3212468_bigthumb.jpg)](http://www.picamatic.com/view/3212468_1448new_storyimage9401405/)
 **Captain America #601:**

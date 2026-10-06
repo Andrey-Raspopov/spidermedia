@@ -1,6 +1,6 @@
 {
   "title": "МЖДЗ: ВСТРЕЧАЙ СВОИХ СУПЕРГЕРОЕВ, СТРАНА",
-  "date": "2012-10-11T14:35:00+03:00",
+  "date": "2012-10-11T13:35:47+03:00",
   "url": "/news/mzhdz-vstrechay-svoih-supergeroev-strana/",
   "original_url": "http://spidermedia.ru/news/mzhdz-vstrechay-svoih-supergeroev-strana",
   "archived": "https://web.archive.org/web/20260209115805/http://spidermedia.ru/news/mzhdz-vstrechay-svoih-supergeroev-strana",
@@ -12,13 +12,19 @@
     "bubble",
     "russian-comics"
   ],
+  "cover": "https://web.archive.org/web/20160306061016im_/http://spidermedia.ru/assets/images/import_image/7055.png",
+  "modx_id": 7055,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
 [![](https://web.archive.org/web/20260209115805im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mzdz.png)](../../tags/mzhdz/)
 ![](https://web.archive.org/web/20260209115805im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/bsb_300.jpg)![](https://web.archive.org/web/20260209115805im_/http://img.photobucket.com/albums/v497/spidermedia/redson_News/mg_300.jpg)
-[Вы уже слышали?](https://web.archive.org/web/20190907233047/http://spidermedia.ru:80/news/russkie-supergeroi-nachalo) В России появились свои супергерои! Издательство **Bubble** запустило линейку комиксов про отечественных борцов со злом. На сайте у них [можно посмотреть превью](http://bubble.ru/) каждого из четырех тайтлов, а мы вот пошли и купили два вышедших на данный момент комикса: **"Бесобой"** и **"Майор Гром"**. Готовы поделиться своим мнением!
+[Вы уже слышали?](../../comics/russkie-supergeroi-nachalo/) В России появились свои супергерои! Издательство **Bubble** запустило линейку комиксов про отечественных борцов со злом. На сайте у них [можно посмотреть превью](http://bubble.ru/) каждого из четырех тайтлов, а мы вот пошли и купили два вышедших на данный момент комикса: **"Бесобой"** и **"Майор Гром"**. Готовы поделиться своим мнением!
 Выскажется **Игрок**, выскажется **ВЧ**, потом я подведу промежуточные итоги. В будущем ждите отзывов и на "Инока" с "Красной Фурией".
 [**Расшифровка системы оценок**](../../blog/redson/mzhdz-odin-vy-kak-hotite-ya-kak-hochu/)
 [**Архив рецензий**](../../blog/redson/mzhdz-arhiv/)

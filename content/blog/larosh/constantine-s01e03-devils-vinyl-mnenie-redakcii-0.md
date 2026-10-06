@@ -1,6 +1,6 @@
 {
   "title": "Constantine s01e03 «The Devil’s Vinyl»: Мнение редакции",
-  "date": "2014-11-10T11:08:00+03:00",
+  "date": "2014-11-10T11:08:59+03:00",
   "url": "/blog/larosh/constantine-s01e03-devils-vinyl-mnenie-redakcii-0/",
   "original_url": "http://spidermedia.ru/blog/larosh/constantine-s01e03-devils-vinyl-mnenie-redakcii-0",
   "archived": "https://web.archive.org/web/20260214140212/http://spidermedia.ru/blog/larosh/constantine-s01e03-devils-vinyl-mnenie-redakcii-0",
@@ -10,7 +10,14 @@
     "dzhon-konstantin",
     "vertigo",
     "dc-comics",
-    "constantine"
+    "constantine",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20260214140212im_/http://spidermedia.ru/assets/images/import_image/8273.jpg",
+  "modx_id": 8273,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

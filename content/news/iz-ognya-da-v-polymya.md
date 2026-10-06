@@ -1,7 +1,10 @@
 {
   "title": "Из огня да в полымя",
-  "date": "2009-09-11T21:39:00+03:00",
+  "date": "2009-09-11T20:39:43+03:00",
   "url": "/news/iz-ognya-da-v-polymya/",
+  "aliases": [
+    "/node/1886/"
+  ],
   "original_url": "http://spidermedia.ru/news/iz-ognya-da-v-polymya",
   "archived": "https://web.archive.org/web/20260209114257/http://spidermedia.ru/news/iz-ognya-da-v-polymya",
   "tags": [
@@ -18,11 +21,17 @@
     "legacy",
     "x-men"
   ],
+  "cover": "https://web.archive.org/web/20260209114257im_/http://spidermedia.ru/assets/images/x-men-logo.jpg",
+  "modx_id": 1886,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-Не успел закончиться кроссовер **Утопия** *(Utopia)*, как **Люди Икс** *(X-Men)* окунаются с головой в очередной эвент - **Икс Некроша** *(X Necrosha)* (название немного изменили, но менее глупо от этого оно звучать не стало). Об эвенте мы писали [ранее](../../node/1653/), напомню лишь, что история стартует в одноименном уан-шоте **X Necrosha**, состоящем из трёх частей, а затем продолжится в сериях **X-Force**, **New Mutants** и **X-Men: Legacy**. Ниже вы можете увидеть превью первого выпуска и ознакомиться с чеклистом.
+Не успел закончиться кроссовер **Утопия** *(Utopia)*, как **Люди Икс** *(X-Men)* окунаются с головой в очередной эвент - **Икс Некроша** *(X Necrosha)* (название немного изменили, но менее глупо от этого оно звучать не стало). Об эвенте мы писали [ранее](../dead-shall-rise/), напомню лишь, что история стартует в одноименном уан-шоте **X Necrosha**, состоящем из трёх частей, а затем продолжится в сериях **X-Force**, **New Mutants** и **X-Men: Legacy**. Ниже вы можете увидеть превью первого выпуска и ознакомиться с чеклистом.
 
 [![](https://web.archive.org/web/20260209114257im_/http://img245.imageshack.us/img245/71/coversm.jpg)](http://img25.imageshack.us/img25/5310/coveroe.jpg) Превью-арт **X Necrosha** от **Клейтона Крэйна** *(Clayton Crain)*[![](https://web.archive.org/web/20260209114257im_/http://img7.imageshack.us/img7/8407/page1sm.jpg)](http://img25.imageshack.us/img25/8207/page1jl.jpg) [![](https://web.archive.org/web/20260209114257im_/http://img245.imageshack.us/img245/1600/page2sm.jpg)](http://img44.imageshack.us/img44/3959/page2qq.jpg) [![](https://web.archive.org/web/20260209114257im_/http://img30.imageshack.us/img30/962/page3sm.jpg)](http://img30.imageshack.us/img30/4450/page3z.jpg) [![](https://web.archive.org/web/20260209114257im_/http://img21.imageshack.us/img21/5244/page4sm.jpg)](http://img11.imageshack.us/img11/5966/page4h.jpg) [![](https://web.archive.org/web/20260209114257im_/http://img25.imageshack.us/img25/1585/page5sm.jpg)](http://img25.imageshack.us/img25/3514/page5ws.jpg) [![](https://web.archive.org/web/20260209114257im_/http://img44.imageshack.us/img44/9238/page6sm.jpg)](http://img245.imageshack.us/img245/3007/page6a.jpg)
 

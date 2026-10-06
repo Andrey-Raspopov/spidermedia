@@ -1,13 +1,20 @@
 {
   "title": "\"Тор 2: Царство тьмы\": Новые постеры и баннеры",
-  "date": "2013-09-07T00:45:00+03:00",
+  "date": "2013-09-06T23:45:01+03:00",
   "url": "/news/tor-2-carstvo-tmy-novye-postery-i-banner/",
   "original_url": "https://spidermedia.ru/news/tor-2-carstvo-tmy-novye-postery-i-banner",
   "archived": "https://web.archive.org/web/20241205043509/https://spidermedia.ru/news/tor-2-carstvo-tmy-novye-postery-i-banner",
   "tags": [
     "thor",
     "postery",
-    "marvel"
+    "marvel",
+    "tor"
+  ],
+  "cover": "https://web.archive.org/web/20160626182921im_/http://spidermedia.ru/assets/images/import_image/7454.jpg",
+  "modx_id": 7454,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

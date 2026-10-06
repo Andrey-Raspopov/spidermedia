@@ -1,12 +1,18 @@
 {
   "title": "МЖДЗ: BATMAN AND DIANA, THE WOMAN WONDER",
-  "date": "2011-09-26T14:53:00+03:00",
+  "date": "2011-09-26T13:53:49+03:00",
   "url": "/blog/redson/mzhdz-batman-and-diana-woman-wonder/",
   "original_url": "http://spidermedia.ru/blog/redson/mzhdz-batman-and-diana-woman-wonder",
   "archived": "https://web.archive.org/web/20251117003114/http://spidermedia.ru/blog/redson/mzhdz-batman-and-diana-woman-wonder",
   "tags": [
     "mnenie",
     "mzhdz"
+  ],
+  "cover": "https://web.archive.org/web/20160716093959im_/http://spidermedia.ru/assets/images/import_image/6622.png",
+  "modx_id": 6622,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

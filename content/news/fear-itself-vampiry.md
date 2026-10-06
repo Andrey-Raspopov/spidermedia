@@ -1,6 +1,6 @@
 {
   "title": "Fear Itself: Вампиры",
-  "date": "2011-01-25T01:53:00+03:00",
+  "date": "2011-01-25T00:53:43+03:00",
   "url": "/news/fear-itself-vampiry/",
   "original_url": "http://spidermedia.ru/news/fear-itself-vampiry",
   "archived": "https://web.archive.org/web/20120607170219/http://spidermedia.ru/news/fear-itself-vampiry",
@@ -11,7 +11,15 @@
     "voploshchenie-straha",
     "komiksy",
     "marvel",
-    "oblozhki"
+    "oblozhki",
+    "art",
+    "voploshhenie-straha"
+  ],
+  "cover": "https://web.archive.org/web/20120607170219im_/http://spidermedia.ru/assets/images/import_image/3188.jpg",
+  "modx_id": 3188,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

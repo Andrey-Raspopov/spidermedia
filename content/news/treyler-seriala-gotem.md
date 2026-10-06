@@ -1,6 +1,6 @@
 {
   "title": "Трейлер сериала \"ГОТЭМ\"",
-  "date": "2014-05-06T10:20:00+03:00",
+  "date": "2014-05-06T09:20:37+03:00",
   "url": "/news/treyler-seriala-gotem/",
   "original_url": "http://spidermedia.ru/news/treyler-seriala-gotem",
   "archived": "https://web.archive.org/web/20260125120247/http://spidermedia.ru/news/treyler-seriala-gotem",
@@ -9,7 +9,14 @@
     "trejlery",
     "batman",
     "gotem",
-    "serialy"
+    "serialy",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20260125120247im_/http://spidermedia.ru/assets/images/import_image/7729.jpg",
+  "modx_id": 7729,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

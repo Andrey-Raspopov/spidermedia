@@ -1,6 +1,6 @@
 {
   "title": "Daredevil возвращается!",
-  "date": "2013-11-26T11:32:00+03:00",
+  "date": "2013-11-26T10:32:32+03:00",
   "url": "/news/daredevil-vozvrashchaetsya/",
   "original_url": "http://spidermedia.ru/news/daredevil-vozvrashchaetsya",
   "archived": "https://web.archive.org/web/20250807230836/http://spidermedia.ru/news/daredevil-vozvrashchaetsya",
@@ -8,6 +8,12 @@
     "mark-waid",
     "chris-samnee",
     "dardevil"
+  ],
+  "cover": "https://web.archive.org/web/20250807230836im_/http://spidermedia.ru/assets/images/import_image/7556.jpg",
+  "modx_id": 7556,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

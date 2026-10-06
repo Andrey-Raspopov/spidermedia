@@ -1,12 +1,18 @@
 {
   "title": "Почему все женщины-супергерои глупые и выглядят как порноактрисы",
-  "date": "2014-06-16T15:00:00+03:00",
+  "date": "2014-06-16T14:00:40+03:00",
   "url": "/blog/artem-gabrelyanov/pochemu-vse-zhenshchiny-supergeroi-glupye-i-vyglyadyat-kak-pornoaktrisy/",
   "original_url": "http://spidermedia.ru/blog/artem-gabrelyanov/pochemu-vse-zhenshchiny-supergeroi-glupye-i-vyglyadyat-kak-pornoaktrisy",
   "archived": "https://web.archive.org/web/20260206223110/http://spidermedia.ru/blog/artem-gabrelyanov/pochemu-vse-zhenshchiny-supergeroi-glupye-i-vyglyadyat-kak-pornoaktrisy",
   "tags": [
     "supergeroi",
     "industriya"
+  ],
+  "cover": "https://web.archive.org/web/20210528162550im_/https://spidermedia.ru/assets/images/import_image/7817.jpg",
+  "modx_id": 7817,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

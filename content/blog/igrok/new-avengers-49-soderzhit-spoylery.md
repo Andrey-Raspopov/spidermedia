@@ -1,7 +1,10 @@
 {
   "title": "New Avengers # 49 - содержит спойлеры!",
-  "date": "2009-01-31T20:24:00+03:00",
+  "date": "2009-01-31T20:24:03+03:00",
   "url": "/blog/igrok/new-avengers-49-soderzhit-spoylery/",
+  "aliases": [
+    "/node/40/"
+  ],
   "original_url": "http://spidermedia.ru/blog/igrok/new-avengers-49-soderzhit-spoylery",
   "archived": "https://web.archive.org/web/20241202101602/http://spidermedia.ru/blog/igrok/new-avengers-49-soderzhit-spoylery",
   "tags": [
@@ -10,6 +13,11 @@
     "mnenie",
     "recenziya",
     "brian-michael-bendis"
+  ],
+  "modx_id": 40,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

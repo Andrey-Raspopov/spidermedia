@@ -7,6 +7,12 @@
   "tags": [
     "boom-studios"
   ],
+  "cover": "https://web.archive.org/web/20160611150847im_/http://spidermedia.ru/assets/images/news/images/1_comics/boom/the-empty-man/3883800-01b(1).jpg",
+  "modx_id": 100895,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

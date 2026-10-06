@@ -1,7 +1,10 @@
 {
   "title": "\"Первый Мститель\": Капитан, Баки и Красный Череп найдены",
-  "date": "2010-04-02T21:19:00+03:00",
+  "date": "2010-04-02T20:19:22+03:00",
   "url": "/news/kapitan-i-bakki-naydeny/",
+  "aliases": [
+    "/node/2502/"
+  ],
   "original_url": "http://spidermedia.ru/news/kapitan-i-bakki-naydeny",
   "archived": "https://web.archive.org/web/20200218015236/http://spidermedia.ru:80/news/kapitan-i-bakki-naydeny",
   "tags": [
@@ -10,6 +13,12 @@
     "marvel",
     "captain-america",
     "winter-soldier"
+  ],
+  "cover": "https://web.archive.org/web/20200218015236im_/http://spidermedia.ru/assets/images/import_image/2502.jpg",
+  "modx_id": 2502,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

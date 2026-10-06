@@ -1,12 +1,21 @@
 {
   "title": "Strangers In Paradise vol.1-3",
-  "date": "2009-02-01T06:46:00+03:00",
+  "date": "2009-02-01T06:46:41+03:00",
   "url": "/blog/sir-carnage/strangers-paradise-vol1-3/",
+  "aliases": [
+    "/node/64/"
+  ],
   "original_url": "http://spidermedia.ru/blog/sir-carnage/strangers-paradise-vol1-3",
   "archived": "https://web.archive.org/web/20200131025905/http://spidermedia.ru:80/blog/sir-carnage/strangers-paradise-vol1-3",
   "tags": [
     "recenziya",
     "terri-mur"
+  ],
+  "cover": "https://web.archive.org/web/20200131025905im_/http://spidermedia.ru/assets/images/import_image/64.jpg",
+  "modx_id": 64,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

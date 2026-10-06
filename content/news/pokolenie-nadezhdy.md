@@ -1,7 +1,10 @@
 {
   "title": "Поколение Надежды",
-  "date": "2010-09-05T14:26:00+03:00",
+  "date": "2010-09-05T13:26:03+03:00",
   "url": "/news/pokolenie-nadezhdy/",
+  "aliases": [
+    "/node/2888/"
+  ],
   "original_url": "http://spidermedia.ru/news/pokolenie-nadezhdy",
   "archived": "https://web.archive.org/web/20250119122945/http://spidermedia.ru/news/pokolenie-nadezhdy",
   "tags": [
@@ -10,13 +13,20 @@
     "kiron-gillen",
     "x-men",
     "marvel",
-    "generation-hope"
+    "generation-hope",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20250119122945im_/http://spidermedia.ru/assets/images/import_image/2888.jpg",
+  "modx_id": 2888,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[Тизеры](../../node/2720/) **New Generation of Hope** оказались не просто отсылками к арку в **Uncanny X-Men**, но еще и вестниками нового онгоинга **Generation Hope**, который стартует в ноябре. Серия уже сейчас позиционируется как главный икс-тайтл этого сезона / года, причем ее автором выступает **Кирон Гиллен** *(Kieron Gillen)*, больше всего работавший до этого с мутантами в **S.W.O.R.D**. Зачем стоит ждать комикс и почему его нельзя пропустить икс-фэнам - об этом ниже.
+[Тизеры](../pyat-ogney/) **New Generation of Hope** оказались не просто отсылками к арку в **Uncanny X-Men**, но еще и вестниками нового онгоинга **Generation Hope**, который стартует в ноябре. Серия уже сейчас позиционируется как главный икс-тайтл этого сезона / года, причем ее автором выступает **Кирон Гиллен** *(Kieron Gillen)*, больше всего работавший до этого с мутантами в **S.W.O.R.D**. Зачем стоит ждать комикс и почему его нельзя пропустить икс-фэнам - об этом ниже.
 [![](https://web.archive.org/web/20250119122945im_/http://img.photobucket.com/albums/v497/spidermedia/silver_news/46_GENERATION_HOPE2_1.jpg?t=1283644938)](http://smg.photobucket.com/albums/v497/spidermedia/silver_news/46_GENERATION_HOPE_1.jpg)
 Обложка **#1** от **Оливье Койпеля** *(Olivier Coipel)*
 

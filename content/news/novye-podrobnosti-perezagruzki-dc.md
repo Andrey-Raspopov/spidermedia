@@ -1,6 +1,6 @@
 {
   "title": "Новые подробности перезагрузки DC",
-  "date": "2011-06-02T21:12:00+03:00",
+  "date": "2011-06-02T20:12:24+03:00",
   "url": "/news/novye-podrobnosti-perezagruzki-dc/",
   "original_url": "http://spidermedia.ru/news/novye-podrobnosti-perezagruzki-dc",
   "archived": "https://web.archive.org/web/20260115054301/http://spidermedia.ru/news/novye-podrobnosti-perezagruzki-dc",
@@ -15,6 +15,12 @@
     "dc-comics",
     "green-arrow",
     "justice-league"
+  ],
+  "cover": "https://web.archive.org/web/20260115054301im_/http://spidermedia.ru/assets/images/import_image/6221.jpg",
+  "modx_id": 6221,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

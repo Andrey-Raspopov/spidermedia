@@ -1,6 +1,6 @@
 {
   "title": "The Column With No Name: 20/01/10 - In fact, being a boat, it's both huge and full of seamen.",
-  "date": "2010-01-24T06:03:00+03:00",
+  "date": "2010-01-24T06:03:26+03:00",
   "url": "/blog/sir-carnage/column-no-name-20-01-10-fact-being-boat-its-both-huge-and-full-seamen/",
   "original_url": "https://spidermedia.ru/blog/sir-carnage/column-no-name-20-01-10-fact-being-boat-its-both-huge-and-full-seamen",
   "archived": "https://web.archive.org/web/20250709070800/https://spidermedia.ru/blog/sir-carnage/column-no-name-20-01-10-fact-being-boat-its-both-huge-and-full-seamen",
@@ -8,6 +8,12 @@
     "vertigo",
     "marvel",
     "the-column-with-no-name"
+  ],
+  "cover": "https://web.archive.org/web/20250709070800im_/http://spidermedia.ru/assets/images/import_image/2303.jpg",
+  "modx_id": 2303,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

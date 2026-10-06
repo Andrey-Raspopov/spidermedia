@@ -1,7 +1,10 @@
 {
   "title": "Превью Ultimate Wolverine VS Hulk #5",
-  "date": "2009-04-23T22:01:00+03:00",
+  "date": "2009-04-23T21:01:11+03:00",
   "url": "/news/prevyu-ultimate-wolverine-vs-hulk-5/",
+  "aliases": [
+    "/node/1039/"
+  ],
   "original_url": "http://spidermedia.ru/news/prevyu-ultimate-wolverine-vs-hulk-5",
   "archived": "https://web.archive.org/web/20250909134438/http://spidermedia.ru/news/prevyu-ultimate-wolverine-vs-hulk-5",
   "tags": [
@@ -11,7 +14,13 @@
     "ultimate",
     "lejnil-frensis-yu",
     "preview",
-    "dejmon-lindelof"
+    "dejmon-lindelof",
+    "prevyu"
+  ],
+  "modx_id": 1039,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "И ты, Грут?",
-  "date": "2010-12-11T07:53:00+03:00",
+  "date": "2010-12-11T07:53:22+03:00",
   "url": "/news/i-ty-grut/",
+  "aliases": [
+    "/node/3112/"
+  ],
   "original_url": "http://spidermedia.ru/news/i-ty-grut",
   "archived": "https://web.archive.org/web/20260314082703/http://spidermedia.ru/news/i-ty-grut",
   "tags": [
@@ -17,6 +20,12 @@
     "quasar",
     "marvel",
     "groot"
+  ],
+  "cover": "https://web.archive.org/web/20260314082703im_/http://spidermedia.ru/assets/images/import_image/3112.jpg",
+  "modx_id": 3112,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

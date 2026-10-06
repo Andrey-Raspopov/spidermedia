@@ -1,7 +1,10 @@
 {
   "title": "Пришелец и Тьма",
-  "date": "2009-05-13T21:48:00+03:00",
+  "date": "2009-05-13T20:48:15+03:00",
   "url": "/news/prishelec-i-tma/",
+  "aliases": [
+    "/node/1174/"
+  ],
   "original_url": "http://spidermedia.ru/news/prishelec-i-tma",
   "archived": "https://web.archive.org/web/20160427024734/http://spidermedia.ru/news/prishelec-i-tma",
   "tags": [
@@ -10,7 +13,14 @@
     "pol-dzhenkins",
     "art-0",
     "pitt",
-    "dejl-kejon"
+    "dejl-kejon",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20160427024734im_/http://spidermedia.ru/assets/images/import_image/1174.jpg",
+  "modx_id": 1174,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

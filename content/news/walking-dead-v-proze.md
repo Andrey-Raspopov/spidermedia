@@ -1,13 +1,22 @@
 {
   "title": "Walking Dead в прозе",
-  "date": "2010-10-09T15:49:00+03:00",
+  "date": "2010-10-09T14:49:29+03:00",
   "url": "/news/walking-dead-v-proze/",
+  "aliases": [
+    "/node/2983/"
+  ],
   "original_url": "https://spidermedia.ru/news/walking-dead-v-proze",
   "archived": "https://web.archive.org/web/20260116222409/https://spidermedia.ru/news/walking-dead-v-proze",
   "tags": [
     "robert-kirkman",
     "knigi",
     "the-walking-dead"
+  ],
+  "cover": "https://web.archive.org/web/20260116222409im_/http://spidermedia.ru/assets/images/import_image/2983.gif",
+  "modx_id": 2983,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "NYCC '09 - X-Men Panel",
-  "date": "2009-02-08T00:08:00+03:00",
+  "date": "2009-02-08T00:08:22+03:00",
   "url": "/news/nycc-09-x-men-panel/",
+  "aliases": [
+    "/node/266/"
+  ],
   "original_url": "https://spidermedia.ru/news/nycc-09-x-men-panel",
   "archived": "https://web.archive.org/web/20260314080442/https://spidermedia.ru/news/nycc-09-x-men-panel",
   "tags": [
@@ -13,6 +16,12 @@
     "marvel",
     "x-men",
     "new-mutants"
+  ],
+  "cover": "https://web.archive.org/web/20260314080442im_/http://spidermedia.ru/assets/images/import_image/266.jpg",
+  "modx_id": 266,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -8,6 +8,12 @@
     "icon-comics",
     "powers"
   ],
+  "cover": "https://web.archive.org/web/20250429014731im_/http://spidermedia.ru/assets/images/tv/powers/02/e07/0.jpg",
+  "modx_id": 101248,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

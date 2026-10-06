@@ -1,6 +1,6 @@
 {
   "title": "РоскомНадзор: запретное",
-  "date": "2014-12-26T12:36:00+03:00",
+  "date": "2014-12-26T12:36:42+03:00",
   "url": "/blog/hella/roskomnadzor-zapretnoe/",
   "original_url": "http://spidermedia.ru/blog/hella/roskomnadzor-zapretnoe",
   "archived": "https://web.archive.org/web/20260123082326/http://spidermedia.ru/blog/hella/roskomnadzor-zapretnoe",
@@ -8,6 +8,12 @@
     "russian-comics",
     "roskomnadzor",
     "zarubezhnye-komiksy-na-russkom"
+  ],
+  "cover": "https://web.archive.org/web/20211026101712im_/http://spidermedia.ru/assets/images/import_image/8429.jpg",
+  "modx_id": 8429,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,13 +1,22 @@
 {
   "title": "Зеленые подробности",
-  "date": "2009-02-06T22:40:00+03:00",
+  "date": "2009-02-06T22:40:24+03:00",
   "url": "/news/zelenye-podrobnosti/",
+  "aliases": [
+    "/node/237/"
+  ],
   "original_url": "http://spidermedia.ru/news/zelenye-podrobnosti",
   "archived": "https://web.archive.org/web/20250620075559/http://spidermedia.ru/news/zelenye-podrobnosti",
   "tags": [
     "geoff-johns",
     "hal-jordan",
     "green-lantern"
+  ],
+  "cover": "https://web.archive.org/web/20250620075559im_/http://spidermedia.ru/assets/images/import_image/237.jpg",
+  "modx_id": 237,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

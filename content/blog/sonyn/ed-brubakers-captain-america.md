@@ -1,7 +1,10 @@
 {
   "title": "Ed Brubaker's Captain America",
-  "date": "2009-04-11T17:55:00+03:00",
+  "date": "2009-04-11T16:55:21+03:00",
   "url": "/blog/sonyn/ed-brubakers-captain-america/",
+  "aliases": [
+    "/node/915/"
+  ],
   "original_url": "http://spidermedia.ru/blog/sonyn/ed-brubakers-captain-america",
   "archived": "https://web.archive.org/web/20111018091359/http://spidermedia.ru/blog/sonyn/ed-brubakers-captain-america",
   "tags": [
@@ -14,7 +17,15 @@
     "komiksy",
     "krasnyy-cherep",
     "recenziya",
-    "ed-brubeyker"
+    "ed-brubeyker",
+    "ed-brubaker",
+    "krasnyj-cherep"
+  ],
+  "cover": "https://web.archive.org/web/20111018091359im_/http://spidermedia.ru/assets/images/import_image/915.jpg",
+  "modx_id": 915,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

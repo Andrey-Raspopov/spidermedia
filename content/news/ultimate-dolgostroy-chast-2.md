@@ -1,7 +1,10 @@
 {
   "title": "Ultimate Долгострой, часть 2",
-  "date": "2009-02-04T23:13:00+03:00",
+  "date": "2009-02-04T23:13:04+03:00",
   "url": "/news/ultimate-dolgostroy-chast-2/",
+  "aliases": [
+    "/node/196/"
+  ],
   "original_url": "http://spidermedia.ru/news/ultimate-dolgostroy-chast-2",
   "archived": "https://web.archive.org/web/20150427032107/http://spidermedia.ru/news/ultimate-dolgostroy-chast-2",
   "tags": [
@@ -9,7 +12,15 @@
     "halk",
     "wolverine",
     "ultimate",
-    "lejnil-frensis-yu"
+    "lejnil-frensis-yu",
+    "marvel",
+    "hulk"
+  ],
+  "cover": "https://web.archive.org/web/20150427032107im_/http://spidermedia.ru/assets/images/import_image/196.jpg",
+  "modx_id": 196,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
@@ -17,7 +28,7 @@
 
 [![ULTWOLV1.jpg - Picamatic - upload your images](https://web.archive.org/web/20150427032107im_/http://www.picamatic.com/show/2009/02/04/10/02/1986819_bigthumb.jpg "ULTWOLV1.jpg")](http://www.picamatic.com/view/1986819_ULTWOLV1/) [![ULTWOLV2.jpg - image uploaded to Picamatic](https://web.archive.org/web/20150427032107im_/http://www.picamatic.com/show/2009/02/04/10/10/1987088_bigthumb.jpg "ULTWOLV2.jpg")](http://www.picamatic.com/view/1987088_ULTWOLV2/)
 
-Возращаясь к [ранней](../../node/182/#comments) теме, напомним, что комикс **Ultimate Wolverine VS Hulk**, от дуэта **Деймона Линделофа** *(Damon Lindelof)* и **Лейнила Фрэнсиса Ю** *(Leinil Francis Yu)*уже совсем близко.
+Возращаясь к [ранней](../../blog/silver/ultimate-dolgostroy/#comments) теме, напомним, что комикс **Ultimate Wolverine VS Hulk**, от дуэта **Деймона Линделофа** *(Damon Lindelof)* и **Лейнила Фрэнсиса Ю** *(Leinil Francis Yu)*уже совсем близко.
 
 Но ничего не может так хорошо напомнить, как превью, обложки и арт будущих номеров:
 

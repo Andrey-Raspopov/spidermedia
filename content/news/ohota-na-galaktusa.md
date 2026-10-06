@@ -1,7 +1,10 @@
 {
   "title": "Охота на Галактуса",
-  "date": "2009-02-28T00:02:00+03:00",
+  "date": "2009-02-27T23:02:37+03:00",
   "url": "/news/ohota-na-galaktusa/",
+  "aliases": [
+    "/node/535/"
+  ],
   "original_url": "http://spidermedia.ru/news/ohota-na-galaktusa",
   "archived": "https://web.archive.org/web/20120512051841/http://spidermedia.ru/news/ohota-na-galaktusa",
   "tags": [
@@ -13,7 +16,14 @@
     "komiksy",
     "keno",
     "marvel",
-    "oblozhki"
+    "oblozhki",
+    "beta-rej-bill"
+  ],
+  "cover": "https://web.archive.org/web/20120512051841im_/http://spidermedia.ru/assets/images/import_image/535.jpg",
+  "modx_id": 535,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

@@ -4,6 +4,12 @@
   "url": "/games/not-a-review-pathfinder-kingmaker-definitive-edition/",
   "original_url": "http://spidermedia.ru/games/not-a-review-pathfinder-kingmaker-definitive-edition",
   "archived": "https://web.archive.org/web/20250422035456/http://spidermedia.ru/games/not-a-review-pathfinder-kingmaker-definitive-edition",
+  "cover": "https://web.archive.org/web/20250422035456im_/http://spidermedia.ru/assets/images/games/pathfinder-kingmaker-definitive-edition.jpg",
+  "modx_id": 102284,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

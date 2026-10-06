@@ -1,6 +1,6 @@
 {
   "title": "Другой X-Force",
-  "date": "2011-02-24T21:43:00+03:00",
+  "date": "2011-02-24T21:43:17+03:00",
   "url": "/news/drugoy-x-force/",
   "original_url": "https://spidermedia.ru/news/drugoy-x-force",
   "archived": "https://web.archive.org/web/20260120234533/https://spidermedia.ru/news/drugoy-x-force",
@@ -12,7 +12,14 @@
     "mark-bruks",
     "marvel",
     "x-force",
-    "x-men"
+    "x-men",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20260120234533im_/http://spidermedia.ru/assets/images/import_image/3682.jpg",
+  "modx_id": 3682,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

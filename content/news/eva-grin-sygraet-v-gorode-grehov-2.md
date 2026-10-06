@@ -1,6 +1,6 @@
 {
   "title": "Ева Грин сыграет в \"Городе Грехов 2\"",
-  "date": "2013-01-30T11:18:00+03:00",
+  "date": "2013-01-30T10:18:26+03:00",
   "url": "/news/eva-grin-sygraet-v-gorode-grehov-2/",
   "original_url": "https://spidermedia.ru/news/eva-grin-sygraet-v-gorode-grehov-2",
   "archived": "https://web.archive.org/web/20260214130822/https://spidermedia.ru/news/eva-grin-sygraet-v-gorode-grehov-2",
@@ -8,6 +8,12 @@
     "sin-city",
     "gorod-grehov",
     "dark-horse"
+  ],
+  "cover": "https://web.archive.org/web/20260214130822im_/http://spidermedia.ru/assets/images/import_image/7127.jpg",
+  "modx_id": 7127,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

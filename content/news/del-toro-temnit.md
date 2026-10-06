@@ -1,6 +1,6 @@
 {
   "title": "Дель Торо темнит",
-  "date": "2013-01-08T22:26:00+03:00",
+  "date": "2013-01-08T21:26:49+03:00",
   "url": "/news/del-toro-temnit/",
   "original_url": "https://spidermedia.ru/news/del-toro-temnit",
   "archived": "https://web.archive.org/web/20260312020906/https://spidermedia.ru/news/del-toro-temnit",
@@ -10,6 +10,12 @@
     "justice-league-dark",
     "deadman",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150326221345im_/http://spidermedia.ru/assets/images/import_image/7110.jpg",
+  "modx_id": 7110,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

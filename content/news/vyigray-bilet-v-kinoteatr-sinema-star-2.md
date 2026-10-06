@@ -8,6 +8,9 @@
     "konkurs",
     "kino"
   ],
+  "sources": [
+    "archive"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

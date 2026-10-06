@@ -1,13 +1,20 @@
 {
   "title": "Эдрианн Палики в костюме Чудо-Женщины (ФОТО)",
-  "date": "2011-03-18T22:32:00+03:00",
+  "date": "2011-03-18T22:32:35+03:00",
   "url": "/news/edriann-paliki-v-kostyume-chudo-zhenshchiny-foto/",
   "original_url": "http://spidermedia.ru/news/edriann-paliki-v-kostyume-chudo-zhenshchiny-foto",
   "archived": "https://web.archive.org/web/20200219021530/http://spidermedia.ru:80/news/edriann-paliki-v-kostyume-chudo-zhenshchiny-foto",
   "tags": [
     "wonder-woman",
     "serialy",
-    "dc-comics"
+    "dc-comics",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20150502182553im_/http://spidermedia.ru/assets/images/import_image/4255.jpg",
+  "modx_id": 4255,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

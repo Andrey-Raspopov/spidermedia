@@ -1,6 +1,6 @@
 {
   "title": "МСТИТЕЛИ: парочка новых кадров",
-  "date": "2012-01-27T11:34:00+03:00",
+  "date": "2012-01-27T10:34:52+03:00",
   "url": "/news/mstiteli-parochka-novyh-kadrov/",
   "original_url": "http://spidermedia.ru/news/mstiteli-parochka-novyh-kadrov",
   "archived": "https://web.archive.org/web/20260309175319/http://spidermedia.ru/news/mstiteli-parochka-novyh-kadrov",
@@ -8,6 +8,12 @@
     "marvel",
     "ultimate",
     "avengers"
+  ],
+  "cover": "https://web.archive.org/web/20260309175319im_/http://spidermedia.ru/assets/images/import_image/6764.jpg",
+  "modx_id": 6764,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

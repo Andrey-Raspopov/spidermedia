@@ -7,6 +7,12 @@
   "tags": [
     "gamermedia"
   ],
+  "cover": "https://web.archive.org/web/20260124052034im_/http://spidermedia.ru/assets/images/games/oblozhstarpoke.jpg",
+  "modx_id": 102195,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

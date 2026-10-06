@@ -1,13 +1,22 @@
 {
   "title": "Дикая Женщина-Халк!",
-  "date": "2010-09-08T00:48:00+03:00",
+  "date": "2010-09-07T23:48:11+03:00",
   "url": "/blog/igrok/dikaya-zhenshchina-halk/",
+  "aliases": [
+    "/node/2896/"
+  ],
   "original_url": "https://spidermedia.ru/blog/igrok/dikaya-zhenshchina-halk",
   "archived": "https://web.archive.org/web/20241105162125/https://spidermedia.ru/blog/igrok/dikaya-zhenshchina-halk",
   "tags": [
     "russian-comics",
     "kosplej",
     "she-hulk"
+  ],
+  "cover": "https://web.archive.org/web/20241105162125im_/http://spidermedia.ru/assets/images/import_image/2896.jpg",
+  "modx_id": 2896,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

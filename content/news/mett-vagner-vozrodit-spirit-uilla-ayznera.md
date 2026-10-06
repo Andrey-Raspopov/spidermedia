@@ -1,12 +1,18 @@
 {
   "title": "Мэтт Вагнер возродит The Spirit Уилла Айзнера",
-  "date": "2015-02-18T21:21:00+03:00",
+  "date": "2015-02-18T21:21:21+03:00",
   "url": "/news/mett-vagner-vozrodit-spirit-uilla-ayznera/",
   "original_url": "https://spidermedia.ru/news/mett-vagner-vozrodit-spirit-uilla-ayznera",
   "archived": "https://web.archive.org/web/20251116072446/https://spidermedia.ru/news/mett-vagner-vozrodit-spirit-uilla-ayznera",
   "tags": [
     "mett-vagner",
     "dynamite-entertainment"
+  ],
+  "cover": "https://web.archive.org/web/20150326034820im_/http://spidermedia.ru/assets/images/import_image/8632.jpg",
+  "modx_id": 8632,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

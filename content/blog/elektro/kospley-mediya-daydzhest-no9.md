@@ -1,11 +1,18 @@
 {
   "title": "Косплей-медия: Дайджест №9",
-  "date": "2013-09-02T11:19:00+03:00",
+  "date": "2013-09-02T10:19:14+03:00",
   "url": "/blog/elektro/kospley-mediya-daydzhest-no9/",
   "original_url": "http://spidermedia.ru/blog/elektro/kospley-mediya-daydzhest-no9",
   "archived": "https://web.archive.org/web/20140216075609/http://spidermedia.ru:80/blog/elektro/kospley-mediya-daydzhest-no9",
   "tags": [
-    "kospley"
+    "kospley",
+    "kosplej"
+  ],
+  "cover": "https://web.archive.org/web/20140216075609im_/http://spidermedia.ru/assets/images/import_image/7449.jpg",
+  "modx_id": 7449,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

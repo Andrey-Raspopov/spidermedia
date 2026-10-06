@@ -1,12 +1,18 @@
 {
   "title": "Revenge of the Giant Face",
-  "date": "2011-10-31T11:37:00+03:00",
+  "date": "2011-10-31T10:37:24+03:00",
   "url": "/blog/plane-v/revenge-giant-face/",
   "original_url": "https://spidermedia.ru/blog/plane-v/revenge-giant-face",
   "archived": "https://web.archive.org/web/20250324230829/https://spidermedia.ru/blog/plane-v/revenge-giant-face",
   "tags": [
     "frenk-miller",
     "holy-terror"
+  ],
+  "cover": "https://web.archive.org/web/20250324230829im_/http://spidermedia.ru/assets/images/import_image/6675.jpg",
+  "modx_id": 6675,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

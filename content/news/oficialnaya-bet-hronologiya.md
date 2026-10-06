@@ -1,7 +1,10 @@
 {
   "title": "Официальная Бэт-хронология",
-  "date": "2009-02-07T19:41:00+03:00",
+  "date": "2009-02-07T19:41:22+03:00",
   "url": "/news/oficialnaya-bet-hronologiya/",
+  "aliases": [
+    "/node/258/"
+  ],
   "original_url": "https://spidermedia.ru/news/oficialnaya-bet-hronologiya",
   "archived": "https://web.archive.org/web/20251115034836/https://spidermedia.ru/news/oficialnaya-bet-hronologiya",
   "tags": [
@@ -10,6 +13,12 @@
     "dan-didio",
     "nycc-2009",
     "final-crisis"
+  ],
+  "cover": "https://web.archive.org/web/20251115034836im_/http://spidermedia.ru/assets/images/import_image/258.jpg",
+  "modx_id": 258,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

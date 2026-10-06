@@ -1,6 +1,6 @@
 {
   "title": "Фиолетовый сын",
-  "date": "2012-07-03T03:25:00+03:00",
+  "date": "2012-07-03T02:25:55+03:00",
   "url": "/news/fioletovyy-syn/",
   "original_url": "https://spidermedia.ru/news/fioletovyy-syn",
   "archived": "https://web.archive.org/web/20260313121051/https://spidermedia.ru/news/fioletovyy-syn",
@@ -10,6 +10,12 @@
     "marvel",
     "richard-elson",
     "dzho-kiting"
+  ],
+  "cover": "https://web.archive.org/web/20260313121051im_/http://spidermedia.ru/assets/images/import_image/6952.jpg",
+  "modx_id": 6952,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

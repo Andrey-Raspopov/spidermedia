@@ -1,12 +1,19 @@
 {
   "title": "С благословления Обамы",
-  "date": "2012-05-23T04:25:00+03:00",
+  "date": "2012-05-23T03:25:29+03:00",
   "url": "/news/s-blagoslovleniya-obamy/",
   "original_url": "https://spidermedia.ru/news/s-blagoslovleniya-obamy",
   "archived": "https://web.archive.org/web/20251208080301/https://spidermedia.ru/news/s-blagoslovleniya-obamy",
   "tags": [
     "x-men",
-    "marvel"
+    "marvel",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20251208080301im_/http://spidermedia.ru/assets/images/import_image/6906.jpg",
+  "modx_id": 6906,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

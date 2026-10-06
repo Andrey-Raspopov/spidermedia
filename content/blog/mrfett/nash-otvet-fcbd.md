@@ -1,6 +1,6 @@
 {
   "title": "Наш ответ FCBD!",
-  "date": "2012-03-23T16:16:00+03:00",
+  "date": "2012-03-23T15:16:11+03:00",
   "url": "/blog/mrfett/nash-otvet-fcbd/",
   "original_url": "http://spidermedia.ru/blog/mrfett/nash-otvet-fcbd",
   "archived": "https://web.archive.org/web/20130110091727/http://spidermedia.ru:80/blog/mrfett/nash-otvet-fcbd",
@@ -8,7 +8,14 @@
     "magazin",
     "reklama",
     "russkie-komiksy",
-    "sankt-peterburg"
+    "sankt-peterburg",
+    "russian-comics"
+  ],
+  "cover": "https://web.archive.org/web/20130110091727im_/http://spidermedia.ru/assets/images/import_image/6845.jpg",
+  "modx_id": 6845,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

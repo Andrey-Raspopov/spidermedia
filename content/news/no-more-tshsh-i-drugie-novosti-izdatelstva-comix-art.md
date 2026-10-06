@@ -1,13 +1,20 @@
 {
   "title": "NO MORE ТШШ и другие новости издательства Comix-Art",
-  "date": "2013-08-05T14:51:00+03:00",
+  "date": "2013-08-05T13:51:28+03:00",
   "url": "/news/no-more-tshsh-i-drugie-novosti-izdatelstva-comix-art/",
   "original_url": "http://spidermedia.ru/news/no-more-tshsh-i-drugie-novosti-izdatelstva-comix-art",
   "archived": "https://web.archive.org/web/20260211190134/http://spidermedia.ru/news/no-more-tshsh-i-drugie-novosti-izdatelstva-comix-art",
   "tags": [
     "industriya",
     "zarubezhnye-komiksy-na-russkom",
-    "art-0"
+    "art-0",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20180401220735im_/http://spidermedia.ru/assets/images/import_image/7400.jpg",
+  "modx_id": 7400,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

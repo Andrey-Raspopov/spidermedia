@@ -1,6 +1,6 @@
 {
   "title": "Первая рецензия на \"Первого мстителя\"",
-  "date": "2011-07-22T18:10:00+03:00",
+  "date": "2011-07-22T17:10:05+03:00",
   "url": "/news/pervaya-recenziya-na-pervogo-mstitelya/",
   "original_url": "https://spidermedia.ru/news/pervaya-recenziya-na-pervogo-mstitelya",
   "archived": "https://web.archive.org/web/20250906065729/https://spidermedia.ru/news/pervaya-recenziya-na-pervogo-mstitelya",
@@ -8,6 +8,12 @@
     "recenziya",
     "krasnyj-cherep",
     "captain-america"
+  ],
+  "cover": "https://web.archive.org/web/20250906065729im_/http://spidermedia.ru/assets/images/movies/marvel/captain-america-the-first-avenger-2011/captain_america__the_first_avenger_ipod_wallpaper_by_stephencanlas-d53esbp.jpg",
+  "modx_id": 6513,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

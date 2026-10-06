@@ -1,13 +1,24 @@
 {
   "title": "Антикризисное \"Дай пять!\".",
-  "date": "2009-03-14T04:31:00+03:00",
+  "date": "2009-03-14T04:31:39+03:00",
   "url": "/news/antikrizisnoe-day-pyat/",
+  "aliases": [
+    "/node/671/"
+  ],
   "original_url": "http://spidermedia.ru/news/antikrizisnoe-day-pyat",
   "archived": "https://web.archive.org/web/20190915014555/http://spidermedia.ru:80/news/antikrizisnoe-day-pyat",
   "tags": [
     "art-0",
     "marvel",
-    "iron-man"
+    "iron-man",
+    "art",
+    "zheleznyy-chelovek"
+  ],
+  "cover": "https://web.archive.org/web/20190915014555im_/http://spidermedia.ru/assets/images/import_image/671.jpg",
+  "modx_id": 671,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

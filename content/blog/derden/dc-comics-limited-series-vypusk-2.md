@@ -1,6 +1,6 @@
 {
   "title": "DC Comics. Limited Series. Выпуск 2",
-  "date": "2009-10-21T02:59:00+03:00",
+  "date": "2009-10-21T01:59:18+03:00",
   "url": "/blog/derden/dc-comics-limited-series-vypusk-2/",
   "original_url": "http://spidermedia.ru/blog/derden/dc-comics-limited-series-vypusk-2",
   "archived": "https://web.archive.org/web/20200224084728/http://spidermedia.ru:80/blog/derden/dc-comics-limited-series-vypusk-2",
@@ -13,6 +13,12 @@
     "dr.-fate",
     "dc-comics",
     "batman"
+  ],
+  "cover": "https://web.archive.org/web/20200224084728im_/http://spidermedia.ru/assets/images/import_image/2017.jpg",
+  "modx_id": 2017,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

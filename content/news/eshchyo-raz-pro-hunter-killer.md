@@ -1,7 +1,10 @@
 {
   "title": "Ещё раз про Hunter-Killer",
-  "date": "2009-02-26T13:50:00+03:00",
+  "date": "2009-02-26T13:50:22+03:00",
   "url": "/news/eshchyo-raz-pro-hunter-killer/",
+  "aliases": [
+    "/node/519/"
+  ],
   "original_url": "http://spidermedia.ru/news/eshchyo-raz-pro-hunter-killer",
   "archived": "https://web.archive.org/web/20160426212642/http://spidermedia.ru/news/eshchyo-raz-pro-hunter-killer",
   "tags": [
@@ -12,13 +15,19 @@
     "kennet-rokafort",
     "cyberforce"
   ],
+  "cover": "https://web.archive.org/web/20160426212642im_/http://spidermedia.ru/assets/images/import_image/519.jpg",
+  "modx_id": 519,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
 Сегодня вас ожидает выдержи из интервью сценариста **Марка Уэйда** *(Mark Waid)*, который расскажет о судьбе комикса **Cyberforce/Hunter-Killer**, которое любезно предоставил сайт **CBR**. Преступим:
 
-[![](https://web.archive.org/web/20160426212642im_/http://images.comicbookresources.com/previews/imagecomics/topcow/cyberforcehk/FCBD000COV_2009_PRver_s.jpg)](http://www.comicbookresources.com/images/previews/imagecomics/topcow/cyberforcehk/FCBD000COV_2009_PRver.jpg)Мы уже писали о том, что издательство **Top Cow** решило возродить франчайз **Hunter-Killer**. Причем нас ждет не только [кроссовер с **Cyberforce**](../../node/405/), но и с [**Marvel**](../../node/480/).
+[![](https://web.archive.org/web/20160426212642im_/http://images.comicbookresources.com/previews/imagecomics/topcow/cyberforcehk/FCBD000COV_2009_PRver_s.jpg)](http://www.comicbookresources.com/images/previews/imagecomics/topcow/cyberforcehk/FCBD000COV_2009_PRver.jpg)Мы уже писали о том, что издательство **Top Cow** решило возродить франчайз **Hunter-Killer**. Причем нас ждет не только [кроссовер с **Cyberforce**](../hunter-killer-back-action/), но и с [**Marvel**](../sliyanie/).
 
 - Нулевой номер/превью кроссовера появится **мае** и будет бесплатным, свою копию комикса фанаты смогут получить в рамках ежегодного  ***[Free Comic Book Day](http://freecomicbookday.com/)***.
 - Если при прочтении первого сезона серии **Hunter-Killer** у кого-то возник вопрос, входит ли она в основную **Top Cow Universe**, от ответ таков: *Теперь входит!* Значит это следующее - когда серия началась, Марк хотел максимально развить героев и их основное направление. Когда это было сделано, ничего не мешало героям серии существовать в основной вселенной издательства **Top Cow**.

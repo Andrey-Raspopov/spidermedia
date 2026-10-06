@@ -1,13 +1,21 @@
 {
   "title": "Объявлены кандидаты на роль Человека-Муравья",
-  "date": "2013-10-15T11:34:00+03:00",
+  "date": "2013-10-15T10:34:49+03:00",
   "url": "/news/obyavleny-kandidaty-na-rol-cheloveka-muravya/",
   "original_url": "http://spidermedia.ru/news/obyavleny-kandidaty-na-rol-cheloveka-muravya",
   "archived": "https://web.archive.org/web/20150423204428/http://spidermedia.ru/news/obyavleny-kandidaty-na-rol-cheloveka-muravya",
   "tags": [
     "chelovek-muravej",
     "marvel-comics",
-    "kino"
+    "kino",
+    "ant-man",
+    "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150424150645im_/http://spidermedia.ru/assets/images/import_image/7502.jpg",
+  "modx_id": 7502,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Рецензия на фильм \"Голодные игры: И вспыхнет пламя\"",
-  "date": "2013-11-21T12:10:00+03:00",
+  "date": "2013-11-21T11:10:17+03:00",
   "url": "/blog/redson/recenziya-na-film-golodnye-igry-i-vspyhnet-plamya/",
   "original_url": "http://spidermedia.ru/blog/redson/recenziya-na-film-golodnye-igry-i-vspyhnet-plamya",
   "archived": "https://web.archive.org/web/20150319205301/http://spidermedia.ru/blog/redson/recenziya-na-film-golodnye-igry-i-vspyhnet-plamya",
@@ -10,6 +10,12 @@
     "dzhennifer-lourens",
     "golodnye-igry",
     "team-gale"
+  ],
+  "cover": "https://web.archive.org/web/20150326100427im_/http://spidermedia.ru/assets/images/import_image/7552.jpg",
+  "modx_id": 7552,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

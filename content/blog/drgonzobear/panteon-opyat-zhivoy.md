@@ -1,6 +1,6 @@
 {
   "title": "Пантеон: опять живой.",
-  "date": "2012-05-13T01:40:00+03:00",
+  "date": "2012-05-13T00:40:32+03:00",
   "url": "/blog/drgonzobear/panteon-opyat-zhivoy/",
   "original_url": "http://spidermedia.ru/blog/drgonzobear/panteon-opyat-zhivoy",
   "archived": "https://web.archive.org/web/20210118141021/http://spidermedia.ru/blog/drgonzobear/panteon-opyat-zhivoy",
@@ -8,6 +8,11 @@
     "stimpank",
     "russian-comics",
     "miscreant"
+  ],
+  "modx_id": 6894,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -8,6 +8,12 @@
     "best-column-about-comics",
     "mnenie"
   ],
+  "cover": "https://web.archive.org/web/20260120160439im_/http://spidermedia.ru/assets/images/best-column-about-comics/40-spy-seal/spy-seal-cover_.jpg",
+  "modx_id": 102056,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

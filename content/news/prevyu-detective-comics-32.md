@@ -1,6 +1,6 @@
 {
   "title": "Превью \"Detective Comics\" #32",
-  "date": "2014-06-09T20:00:00+03:00",
+  "date": "2014-06-09T19:00:59+03:00",
   "url": "/news/prevyu-detective-comics-32/",
   "original_url": "http://spidermedia.ru/news/prevyu-detective-comics-32",
   "archived": "https://web.archive.org/web/20260214132634/http://spidermedia.ru/news/prevyu-detective-comics-32",
@@ -9,7 +9,14 @@
     "preview",
     "batman",
     "brian-buccellato",
-    "dc-comics"
+    "dc-comics",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20260214132634im_/http://spidermedia.ru/assets/images/import_image/7779.jpg",
+  "modx_id": 7779,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

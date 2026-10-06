@@ -1,6 +1,6 @@
 {
   "title": "Больше ДиСи Мыслей. Часть 2. Оригинальные персонажи, женщины лёгкого поведения и шикарный арт",
-  "date": "2011-09-16T21:43:00+03:00",
+  "date": "2011-09-16T20:43:18+03:00",
   "url": "/blog/samm-o/bolshe-disi-mysley-chast-2-originalnye-personazhi-zhenshchiny-lyogkogo-povedeniya-i/",
   "original_url": "http://spidermedia.ru/blog/samm-o/bolshe-disi-mysley-chast-2-originalnye-personazhi-zhenshchiny-lyogkogo-povedeniya-i",
   "archived": "https://web.archive.org/web/20150501190119/http://spidermedia.ru/blog/samm-o/bolshe-disi-mysley-chast-2-originalnye-personazhi-zhenshchiny-lyogkogo-povedeniya-i",
@@ -8,6 +8,12 @@
     "dc-comics",
     "bdsm",
     "mnenie"
+  ],
+  "cover": "https://web.archive.org/web/20150503092407im_/http://spidermedia.ru/assets/images/import_image/6609.jpg",
+  "modx_id": 6609,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

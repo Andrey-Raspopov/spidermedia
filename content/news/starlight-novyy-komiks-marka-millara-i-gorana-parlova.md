@@ -1,6 +1,6 @@
 {
   "title": "\"STARLIGHT\" - новый комикс Марка Миллара и Горана Парлова",
-  "date": "2013-12-03T11:51:00+03:00",
+  "date": "2013-12-03T10:51:28+03:00",
   "url": "/news/starlight-novyy-komiks-marka-millara-i-gorana-parlova/",
   "original_url": "https://spidermedia.ru/news/starlight-novyy-komiks-marka-millara-i-gorana-parlova",
   "archived": "https://web.archive.org/web/20260307071356/https://spidermedia.ru/news/starlight-novyy-komiks-marka-millara-i-gorana-parlova",
@@ -9,6 +9,12 @@
     "goran-parlov",
     "starlight",
     "image-comics"
+  ],
+  "cover": "https://web.archive.org/web/20260307071356im_/http://spidermedia.ru/assets/images/import_image/7561.jpg",
+  "modx_id": 7561,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

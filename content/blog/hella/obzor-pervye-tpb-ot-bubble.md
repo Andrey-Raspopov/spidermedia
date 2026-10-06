@@ -1,6 +1,6 @@
 {
   "title": "ОБЗОР: первые тома сборников BUBBLE",
-  "date": "2014-12-18T12:53:00+03:00",
+  "date": "2014-12-18T12:53:49+03:00",
   "url": "/blog/hella/obzor-pervye-tpb-ot-bubble/",
   "original_url": "http://spidermedia.ru/blog/hella/obzor-pervye-tpb-ot-bubble",
   "archived": "https://web.archive.org/web/20260307113430/http://spidermedia.ru/blog/hella/obzor-pervye-tpb-ot-bubble",
@@ -8,6 +8,12 @@
     "russian-comics",
     "obzor",
     "bubble"
+  ],
+  "cover": "https://web.archive.org/web/20210730045102im_/http://spidermedia.ru/assets/images/import_image/8398.jpg",
+  "modx_id": 8398,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

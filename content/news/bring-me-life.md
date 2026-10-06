@@ -1,11 +1,17 @@
 {
   "title": "Bring me to life",
-  "date": "2014-10-02T18:04:00+03:00",
+  "date": "2014-10-02T17:04:15+03:00",
   "url": "/news/bring-me-life/",
   "original_url": "http://spidermedia.ru/news/bring-me-life",
   "archived": "https://web.archive.org/web/20251115183257/http://spidermedia.ru/news/bring-me-life",
   "tags": [
     "dardevil"
+  ],
+  "cover": "https://web.archive.org/web/20150502113333im_/http://spidermedia.ru/assets/images/import_image/8126.jpg",
+  "modx_id": 8126,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

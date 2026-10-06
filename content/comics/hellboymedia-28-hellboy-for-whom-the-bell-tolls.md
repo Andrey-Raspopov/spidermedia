@@ -8,6 +8,12 @@
     "hellboymedia",
     "mnenie"
   ],
+  "cover": "https://web.archive.org/web/20180202044135im_/http://spidermedia.ru/assets/images/hellboymedia/regular/28-hellboy-for-whom-the-bell-tolls/hellboy-for-whom-the-bell-tolls-cover.jpg",
+  "modx_id": 101183,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

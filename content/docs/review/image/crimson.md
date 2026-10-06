@@ -4,6 +4,9 @@
   "url": "/docs/review/image/crimson/",
   "original_url": "http://www.spidermedia.ru/docs/review/image/crimson.html",
   "archived": "https://web.archive.org/web/20050310011454/http://www.spidermedia.ru:80/docs/review/image/crimson.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

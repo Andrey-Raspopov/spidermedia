@@ -1,6 +1,6 @@
 {
   "title": "ОБЗОР: \"Ведмак: Дом витражей\"",
-  "date": "2014-09-25T12:08:00+03:00",
+  "date": "2014-09-25T11:08:48+03:00",
   "url": "/blog/transistor/obzor-vedmak-dom-vitrazhey-0/",
   "original_url": "https://spidermedia.ru/blog/transistor/obzor-vedmak-dom-vitrazhey-0",
   "archived": "https://web.archive.org/web/20260214131358/https://spidermedia.ru/blog/transistor/obzor-vedmak-dom-vitrazhey-0",
@@ -9,6 +9,12 @@
     "vedmak",
     "belyj-edinorog",
     "dark-horse"
+  ],
+  "cover": "https://web.archive.org/web/20160611141046im_/http://spidermedia.ru/assets/images/import_image/8103.jpg",
+  "modx_id": 8103,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

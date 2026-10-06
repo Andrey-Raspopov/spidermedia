@@ -1,6 +1,6 @@
 {
   "title": "Retroactive - 70-е",
-  "date": "2011-04-12T10:39:00+03:00",
+  "date": "2011-04-12T09:39:38+03:00",
   "url": "/news/retroactive-70-e/",
   "original_url": "http://spidermedia.ru/news/retroactive-70-e",
   "archived": "https://web.archive.org/web/20120610090850/http://spidermedia.ru/news/retroactive-70-e",
@@ -9,6 +9,12 @@
     "retro-active",
     "anonsy",
     "komiksy"
+  ],
+  "cover": "https://web.archive.org/web/20120610090850im_/http://spidermedia.ru/assets/images/import_image/4906.jpg",
+  "modx_id": 4906,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

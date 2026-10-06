@@ -1,7 +1,10 @@
 {
   "title": "Зеленое семейство",
-  "date": "2009-10-12T12:58:00+03:00",
+  "date": "2009-10-12T11:58:11+03:00",
   "url": "/news/zelenoe-semeystvo/",
+  "aliases": [
+    "/node/1985/"
+  ],
   "original_url": "http://spidermedia.ru/news/zelenoe-semeystvo",
   "archived": "https://web.archive.org/web/20250909141227/http://spidermedia.ru/news/zelenoe-semeystvo",
   "tags": [
@@ -13,6 +16,12 @@
     "obshhestvo-spravedlivosti-ameriki",
     "dc-comics",
     "green-arrow"
+  ],
+  "cover": "https://web.archive.org/web/20250909141227im_/http://spidermedia.ru/assets/images/import_image/1985.jpg",
+  "modx_id": 1985,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

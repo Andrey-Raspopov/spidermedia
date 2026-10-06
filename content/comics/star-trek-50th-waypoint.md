@@ -9,6 +9,12 @@
     "star-trek",
     "zvezdnyj-put"
   ],
+  "cover": "https://web.archive.org/web/20180205111934im_/http://spidermedia.ru/assets/images/news/idw/startrekwaypoint01a.jpg",
+  "modx_id": 101232,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

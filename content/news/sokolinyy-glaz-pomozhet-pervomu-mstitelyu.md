@@ -1,11 +1,17 @@
 {
   "title": "Соколиный Глаз поможет Первому Мстителю",
-  "date": "2014-08-26T10:42:00+03:00",
+  "date": "2014-08-26T09:42:54+03:00",
   "url": "/news/sokolinyy-glaz-pomozhet-pervomu-mstitelyu/",
   "original_url": "http://spidermedia.ru/news/sokolinyy-glaz-pomozhet-pervomu-mstitelyu",
   "archived": "https://web.archive.org/web/20160629101604/http://spidermedia.ru/news/sokolinyy-glaz-pomozhet-pervomu-mstitelyu",
   "tags": [
     "captain-america"
+  ],
+  "cover": "https://web.archive.org/web/20160629101604im_/http://spidermedia.ru/assets/images/import_image/8017.jpg",
+  "modx_id": 8017,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

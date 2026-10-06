@@ -10,6 +10,12 @@
     "x-men",
     "wolverine"
   ],
+  "cover": "https://web.archive.org/web/20260209120642im_/http://spidermedia.ru/assets/images/movies/marvel/wolverine-3/qejlawi8qey.jpg",
+  "modx_id": 101479,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,6 +1,6 @@
 {
   "title": "Смена авторских составов в DC (UPD.)",
-  "date": "2013-09-10T03:06:00+03:00",
+  "date": "2013-09-10T02:06:57+03:00",
   "url": "/news/smena-avtorskih-sostavov-v-dc/",
   "original_url": "http://spidermedia.ru/news/smena-avtorskih-sostavov-v-dc",
   "archived": "https://web.archive.org/web/20260313110601/http://spidermedia.ru/news/smena-avtorskih-sostavov-v-dc",
@@ -18,6 +18,12 @@
     "brian-buccellato",
     "aquaman",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150502190452im_/http://spidermedia.ru/assets/images/import_image/7458.jpg",
+  "modx_id": 7458,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

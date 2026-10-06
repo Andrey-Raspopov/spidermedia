@@ -1,7 +1,10 @@
 {
   "title": "Темнейшая ночь - 2 ступень пройдена",
-  "date": "2009-08-15T15:06:00+03:00",
+  "date": "2009-08-15T14:06:57+03:00",
   "url": "/news/temneyshaya-noch-2-stupen-proydena/",
+  "aliases": [
+    "/node/1790/"
+  ],
   "original_url": "http://spidermedia.ru/news/temneyshaya-noch-2-stupen-proydena",
   "archived": "https://web.archive.org/web/20241110010825/http://spidermedia.ru/news/temneyshaya-noch-2-stupen-proydena",
   "tags": [
@@ -9,6 +12,12 @@
     "geoff-johns",
     "dc-comics",
     "blackest-night"
+  ],
+  "cover": "https://web.archive.org/web/20241110010825im_/http://spidermedia.ru/assets/images/import_image/1790.jpg",
+  "modx_id": 1790,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

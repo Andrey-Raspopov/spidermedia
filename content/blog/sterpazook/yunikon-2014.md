@@ -1,12 +1,18 @@
 {
   "title": "ЮниКон '2014",
-  "date": "2014-04-01T23:31:00+03:00",
+  "date": "2014-04-01T22:31:51+03:00",
   "url": "/blog/sterpazook/yunikon-2014/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/yunikon-2014",
   "archived": "https://web.archive.org/web/20190929134855/http://spidermedia.ru:80/blog/sterpazook/yunikon-2014",
   "tags": [
     "komik-kon-v-minske",
     "unicon"
+  ],
+  "cover": "https://web.archive.org/web/20190929134855im_/http://spidermedia.ru/assets/images/import_image/7700.jpg",
+  "modx_id": 7700,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

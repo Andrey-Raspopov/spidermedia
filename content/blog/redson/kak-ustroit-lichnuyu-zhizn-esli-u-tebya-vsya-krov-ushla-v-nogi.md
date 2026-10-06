@@ -1,12 +1,18 @@
 {
   "title": "Как устроить личную жизнь, если у тебя вся кровь ушла в ноги",
-  "date": "2013-01-30T16:11:00+03:00",
+  "date": "2013-01-30T15:11:42+03:00",
   "url": "/blog/redson/kak-ustroit-lichnuyu-zhizn-esli-u-tebya-vsya-krov-ushla-v-nogi/",
   "original_url": "http://spidermedia.ru/blog/redson/kak-ustroit-lichnuyu-zhizn-esli-u-tebya-vsya-krov-ushla-v-nogi",
   "archived": "https://web.archive.org/web/20130619062439/http://spidermedia.ru/blog/redson/kak-ustroit-lichnuyu-zhizn-esli-u-tebya-vsya-krov-ushla-v-nogi",
   "tags": [
     "kino",
     "mnenie"
+  ],
+  "cover": "https://web.archive.org/web/20130619062439im_/http://spidermedia.ru/assets/images/import_image/7128.jpg",
+  "modx_id": 7128,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

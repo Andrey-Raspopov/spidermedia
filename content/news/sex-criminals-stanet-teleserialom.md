@@ -1,6 +1,6 @@
 {
   "title": "Sex Criminals станет телесериалом",
-  "date": "2015-02-25T20:47:00+03:00",
+  "date": "2015-02-25T20:47:11+03:00",
   "url": "/news/sex-criminals-stanet-teleserialom/",
   "original_url": "https://spidermedia.ru/news/sex-criminals-stanet-teleserialom",
   "archived": "https://web.archive.org/web/20241205102130/https://spidermedia.ru/news/sex-criminals-stanet-teleserialom",
@@ -10,6 +10,12 @@
     "chip-zdarski",
     "sex-criminals",
     "image-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150326095357im_/http://spidermedia.ru/assets/images/import_image/8650.jpg",
+  "modx_id": 8650,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

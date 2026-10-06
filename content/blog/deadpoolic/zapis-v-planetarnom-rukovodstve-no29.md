@@ -1,14 +1,24 @@
 {
   "title": "Запись в Планетарном Руководстве №29",
-  "date": "2009-04-18T11:51:00+03:00",
+  "date": "2009-04-18T10:51:47+03:00",
   "url": "/blog/deadpoolic/zapis-v-planetarnom-rukovodstve-no29/",
+  "aliases": [
+    "/node/983/"
+  ],
   "original_url": "http://spidermedia.ru/blog/deadpoolic/zapis-v-planetarnom-rukovodstve-no29",
   "archived": "https://web.archive.org/web/20111019011839/http://spidermedia.ru/blog/deadpoolic/zapis-v-planetarnom-rukovodstve-no29",
   "tags": [
     "geargrinders",
     "x-post",
     "kino",
-    "komiksy"
+    "komiksy",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20111019011839im_/http://spidermedia.ru/assets/images/import_image/983.jpg",
+  "modx_id": 983,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

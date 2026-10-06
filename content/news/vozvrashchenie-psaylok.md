@@ -1,7 +1,10 @@
 {
   "title": "Возвращение Псайлок",
-  "date": "2009-08-25T00:04:00+03:00",
+  "date": "2009-08-24T23:04:17+03:00",
   "url": "/news/vozvrashchenie-psaylok/",
+  "aliases": [
+    "/node/1819/"
+  ],
   "original_url": "http://spidermedia.ru/news/vozvrashchenie-psaylok",
   "archived": "https://web.archive.org/web/20120607192714/http://spidermedia.ru/news/vozvrashchenie-psaylok",
   "tags": [
@@ -10,7 +13,14 @@
     "x-men",
     "x-universe",
     "komiksy",
-    "marvel"
+    "marvel",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20120607192714im_/http://spidermedia.ru/assets/images/import_image/1819.jpg",
+  "modx_id": 1819,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

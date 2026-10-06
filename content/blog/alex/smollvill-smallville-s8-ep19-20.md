@@ -1,6 +1,6 @@
 {
   "title": "Смоллвилль\\Smallville s8 ep.19-20",
-  "date": "2009-05-05T11:01:00+03:00",
+  "date": "2009-05-05T10:01:01+03:00",
   "url": "/blog/alex/smollvill-smallville-s8-ep19-20/",
   "original_url": "https://spidermedia.ru/blog/alex/smollvill-smallville-s8-ep19-20",
   "archived": "https://web.archive.org/web/20251208072212/https://spidermedia.ru/blog/alex/smollvill-smallville-s8-ep19-20",
@@ -9,7 +9,14 @@
     "serialy",
     "superman",
     "smollvill",
-    "tajny-smollvillya"
+    "tajny-smollvillya",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20251208072212im_/http://spidermedia.ru/assets/images/import_image/1100.png",
+  "modx_id": 1100,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

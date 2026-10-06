@@ -1,6 +1,6 @@
 {
   "title": "Второй, еще и вариантный.",
-  "date": "2009-04-11T02:50:00+03:00",
+  "date": "2009-04-11T01:50:23+03:00",
   "url": "/news/vtoroy-eshche-i-variantnyy/",
   "original_url": "http://spidermedia.ru/news/vtoroy-eshche-i-variantnyy",
   "archived": "https://web.archive.org/web/20120607174119/http://spidermedia.ru/news/vtoroy-eshche-i-variantnyy",
@@ -13,7 +13,13 @@
     "marko-dzhurdzhevich",
     "oblozhki",
     "ron-garni",
-    "rosomaha"
+    "rosomaha",
+    "art"
+  ],
+  "modx_id": 912,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

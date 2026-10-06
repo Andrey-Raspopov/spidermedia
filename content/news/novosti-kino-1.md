@@ -1,7 +1,10 @@
 {
   "title": "Новости кино",
-  "date": "2010-05-15T19:19:00+03:00",
+  "date": "2010-05-15T18:19:43+03:00",
   "url": "/news/novosti-kino-1/",
+  "aliases": [
+    "/node/2624/"
+  ],
   "original_url": "http://spidermedia.ru/news/novosti-kino-1",
   "archived": "https://web.archive.org/web/20251012175508/http://spidermedia.ru/news/novosti-kino-1",
   "tags": [
@@ -10,6 +13,12 @@
     "avengers",
     "spider-man",
     "shhit"
+  ],
+  "cover": "https://web.archive.org/web/20251012175508im_/http://spidermedia.ru/assets/images/import_image/2624.jpg",
+  "modx_id": 2624,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Росомаха: Смертный и другие новости",
-  "date": "2013-04-29T05:32:00+03:00",
+  "date": "2013-04-29T04:32:33+03:00",
   "url": "/news/rosomaha-smertnyy-i-drugie-novosti/",
   "original_url": "http://spidermedia.ru/news/rosomaha-smertnyy-i-drugie-novosti",
   "archived": "https://web.archive.org/web/20251019000244/http://spidermedia.ru/news/rosomaha-smertnyy-i-drugie-novosti",
@@ -16,7 +16,15 @@
     "brian-michael-bendis",
     "brian-wood",
     "alan-devis",
-    "marvel"
+    "marvel",
+    "tor",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20251019000244im_/http://spidermedia.ru/assets/images/import_image/7230.jpg",
+  "modx_id": 7230,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

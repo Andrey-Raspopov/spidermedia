@@ -1,11 +1,17 @@
 {
   "title": "День новых комиксов: 8 января",
-  "date": "2014-01-08T15:28:00+03:00",
+  "date": "2014-01-08T14:28:51+03:00",
   "url": "/news/den-novyh-komiksov-8-yanvarya/",
   "original_url": "http://spidermedia.ru/news/den-novyh-komiksov-8-yanvarya",
   "archived": "https://web.archive.org/web/20250115151945/http://spidermedia.ru/news/den-novyh-komiksov-8-yanvarya",
   "tags": [
     "den-novyh-komiksov"
+  ],
+  "cover": "https://web.archive.org/web/20250115151945im_/http://spidermedia.ru/assets/images/import_image/7589.jpg",
+  "modx_id": 7589,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

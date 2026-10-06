@@ -1,6 +1,6 @@
 {
   "title": "She likes life's finer things, Gucci watches, diamond rings",
-  "date": "2012-02-25T06:57:00+03:00",
+  "date": "2012-02-25T05:57:35+03:00",
   "url": "/news/she-likes-lifes-finer-things-gucci-watches-diamond-rings/",
   "original_url": "http://spidermedia.ru/news/she-likes-lifes-finer-things-gucci-watches-diamond-rings",
   "archived": "https://web.archive.org/web/20251216113158/http://spidermedia.ru/news/she-likes-lifes-finer-things-gucci-watches-diamond-rings",
@@ -8,6 +8,12 @@
     "image-comics",
     "dzheymi-makkelvi",
     "kiron-gillen"
+  ],
+  "cover": "https://web.archive.org/web/20251216113158im_/http://spidermedia.ru/assets/images/import_image/6798.jpg",
+  "modx_id": 6798,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Зеленый Кэмпбелл и Агент Колсон",
-  "date": "2010-01-19T18:55:00+03:00",
+  "date": "2010-01-19T17:55:53+03:00",
   "url": "/news/zelenyy-kempbell-i-agent-kolson/",
   "original_url": "http://spidermedia.ru/news/zelenyy-kempbell-i-agent-kolson",
   "archived": "https://web.archive.org/web/20120608140514/http://spidermedia.ru/news/zelenyy-kempbell-i-agent-kolson",
@@ -10,6 +10,12 @@
     "zelenyy-fonar",
     "kino",
     "tor"
+  ],
+  "cover": "https://web.archive.org/web/20120608140514im_/http://spidermedia.ru/assets/images/import_image/2288.jpg",
+  "modx_id": 2288,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

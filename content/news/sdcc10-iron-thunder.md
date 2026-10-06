@@ -1,6 +1,6 @@
 {
   "title": "SDCC'10: Iron Thunder",
-  "date": "2010-07-23T15:03:00+03:00",
+  "date": "2010-07-23T14:03:21+03:00",
   "url": "/news/sdcc10-iron-thunder/",
   "original_url": "http://spidermedia.ru/news/sdcc10-iron-thunder",
   "archived": "https://web.archive.org/web/20260215071117/http://spidermedia.ru/news/sdcc10-iron-thunder",
@@ -11,7 +11,15 @@
     "den-ebnett",
     "thor",
     "marvel",
-    "iron-man"
+    "iron-man",
+    "tor",
+    "zheleznyy-chelovek"
+  ],
+  "cover": "https://web.archive.org/web/20260215071117im_/http://spidermedia.ru/assets/images/import_image/2775.jpg",
+  "modx_id": 2775,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

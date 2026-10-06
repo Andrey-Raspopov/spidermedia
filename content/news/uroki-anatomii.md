@@ -1,6 +1,6 @@
 {
   "title": "Уроки анатомии",
-  "date": "2010-04-08T19:46:00+03:00",
+  "date": "2010-04-08T18:46:41+03:00",
   "url": "/news/uroki-anatomii/",
   "original_url": "https://spidermedia.ru/news/uroki-anatomii",
   "archived": "https://web.archive.org/web/20260214140459/https://spidermedia.ru/news/uroki-anatomii",
@@ -8,6 +8,12 @@
     "alan-mur",
     "bolotnaya-tvar",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20260214140459im_/http://spidermedia.ru/assets/images/import_image/2524.jpg",
+  "modx_id": 2524,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

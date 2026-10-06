@@ -8,6 +8,12 @@
     "marvel",
     "captain-america"
   ],
+  "cover": "https://web.archive.org/web/20160616230320im_/http://spidermedia.ru/assets/images/newgallery/gallery604/4-CW-Black-Panther-4x6.jpg",
+  "modx_id": 100993,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

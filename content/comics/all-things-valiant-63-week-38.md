@@ -5,17 +5,22 @@
   "original_url": "http://spidermedia.ru/comics/all-things-valiant-63-week-38",
   "archived": "https://web.archive.org/web/20260208203040/http://spidermedia.ru/comics/all-things-valiant-63-week-38",
   "tags": [
-    "valiant-entertainment"
+    "valiant-entertainment",
+    "all-things-valiant"
+  ],
+  "cover": "https://web.archive.org/web/20170312082933im_/http://spidermedia.ru/assets/images/valiant/images/atv63/atv63.jpg",
+  "modx_id": 101346,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](https://web.archive.org/web/20170312050633im_/http://spidermedia.ru/assets/cache/images/valiant/images/atv63/622x-atv63.2e9.jpg)](https://web.archive.org/web/20170312082933im_/http://spidermedia.ru/assets/images/valiant/images/atv63/atv63.jpg)
-
 Я тут решил потихоньку нагонять мангу Bleach. И вот, когда я добрался до шикарного поединка Хёсубе Итибея с Яхве и решил посмотреть, сколько еще глав ждет впереди, оказалось, что серия уже завершена. Сначала Наруто, теперь и Блич! Бесконечные сёнены моего детства отрочества заканчиваются один за другим. Но возникает резонный вопрос: а второй сезон у аниме будет?
 
-**[Новости](./#news) **•** [Рецензии](./#reviews)**
+**[Новости](#news) **•** [Рецензии](#reviews)**
 
 В этом выпуске: котятки и трудности вечной семейной жизни. А также Арчер — Леголас-ловелас.
 
@@ -29,28 +34,64 @@
 
 Valiant Entertainment всегда проявляло изрядную долю фантазии при создании обложек для своих комиксов. Но на этот раз издательство превзошло само себя, выбрав новой темой вариантных обложек декабрьских выпусков Кошачий косплей! Вся прибыль от продажи данных номеров будет перечислена в Brooklyn Animal Rescue Coalition — организацию, предоставляющую приют бездомным животным.
 
-[![](https://web.archive.org/web/20170401223735im_/http://spidermedia.ru/assets/images/valiant/images/atv63/aa_010_cat-cosplay-variant-600x922.jpg)](https://web.archive.org/web/20170401223735im_/http://spidermedia.ru/assets/images/valiant/images/atv63/aa_010_cat-cosplay-variant-600x922.jpg)
-
-[![](https://web.archive.org/web/20170402065316im_/http://spidermedia.ru/assets/images/valiant/images/atv63/britannia_004_cat-cosplay-variant-600x923.jpg)](https://web.archive.org/web/20170402065316im_/http://spidermedia.ru/assets/images/valiant/images/atv63/britannia_004_cat-cosplay-variant-600x923.jpg)
-
-[![](https://web.archive.org/web/20170402045302im_/http://spidermedia.ru/assets/images/valiant/images/atv63/bsusa_003_cat-cosplay-variant-600x923.jpg)](https://web.archive.org/web/20170402045302im_/http://spidermedia.ru/assets/images/valiant/images/atv63/bsusa_003_cat-cosplay-variant-600x923.jpg)
-
-[![](https://web.archive.org/web/20170402044842im_/http://spidermedia.ru/assets/images/valiant/images/atv63/div-iii_001_cat-cosplay-variant.jpg)](https://web.archive.org/web/20170402044842im_/http://spidermedia.ru/assets/images/valiant/images/atv63/div-iii_001_cat-cosplay-variant.jpg)
-
-[![](http://spidermedia.ru/assets/images/valiant/images/atv63/faith_006_cat-cosplay-variant-600x922.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv63/faith_006_cat-cosplay-variant-600x922.jpg)
-
-[![](https://web.archive.org/web/20170402051528im_/http://spidermedia.ru/assets/images/valiant/images/atv63/genzero_005_cat-cosplay-variant-600x923.jpg)](https://web.archive.org/web/20170402051528im_/http://spidermedia.ru/assets/images/valiant/images/atv63/genzero_005_cat-cosplay-variant-600x923.jpg)
-
-[![](https://web.archive.org/web/20170402040109im_/http://spidermedia.ru/assets/images/valiant/images/atv63/hr_002_cat-cosplay-variant-600x923.jpg)](https://web.archive.org/web/20170402040109im_/http://spidermedia.ru/assets/images/valiant/images/atv63/hr_002_cat-cosplay-variant-600x923.jpg)
-
-[![](https://web.archive.org/web/20170402051545im_/http://spidermedia.ru/assets/images/valiant/images/atv63/ninjak_022_cat-cosplay-variant-600x923.jpg)](https://web.archive.org/web/20170402051545im_/http://spidermedia.ru/assets/images/valiant/images/atv63/ninjak_022_cat-cosplay-variant-600x923.jpg)
-
-[![](https://web.archive.org/web/20170402064427im_/http://spidermedia.ru/assets/images/valiant/images/atv63/savage_002_cat-cosplay-variant-600x923.jpg)](https://web.archive.org/web/20170402064427im_/http://spidermedia.ru/assets/images/valiant/images/atv63/savage_002_cat-cosplay-variant-600x923.jpg)
-
-[![](https://web.archive.org/web/20170402053222im_/http://spidermedia.ru/assets/images/valiant/images/atv63/wrath_014_cat-cosplay-variant-600x923.jpg)](https://web.archive.org/web/20170402053222im_/http://spidermedia.ru/assets/images/valiant/images/atv63/wrath_014_cat-cosplay-variant-600x923.jpg)
+![](https://web.archive.org/web/20170401223735im_/http://spidermedia.ru/assets/images/valiant/images/atv63/aa_010_cat-cosplay-variant-600x922.jpg)![](https://web.archive.org/web/20170402065316im_/http://spidermedia.ru/assets/images/valiant/images/atv63/britannia_004_cat-cosplay-variant-600x923.jpg)![](https://web.archive.org/web/20170402045302im_/http://spidermedia.ru/assets/images/valiant/images/atv63/bsusa_003_cat-cosplay-variant-600x923.jpg)![](https://web.archive.org/web/20170402044842im_/http://spidermedia.ru/assets/images/valiant/images/atv63/div-iii_001_cat-cosplay-variant.jpg)![](https://web.archive.org/web/20260208203040im_/http://spidermedia.ru/assets/images/valiant/images/atv63/faith_006_cat-cosplay-variant-600x922.jpg)![](https://web.archive.org/web/20170402051528im_/http://spidermedia.ru/assets/images/valiant/images/atv63/genzero_005_cat-cosplay-variant-600x923.jpg)![](https://web.archive.org/web/20170402040109im_/http://spidermedia.ru/assets/images/valiant/images/atv63/hr_002_cat-cosplay-variant-600x923.jpg)![](https://web.archive.org/web/20170402051545im_/http://spidermedia.ru/assets/images/valiant/images/atv63/ninjak_022_cat-cosplay-variant-600x923.jpg)![](https://web.archive.org/web/20170402064427im_/http://spidermedia.ru/assets/images/valiant/images/atv63/savage_002_cat-cosplay-variant-600x923.jpg)![](https://web.archive.org/web/20170402053222im_/http://spidermedia.ru/assets/images/valiant/images/atv63/wrath_014_cat-cosplay-variant-600x923.jpg)
 
 ---
 
 **ЧТО МЫ ПРОЧИТАЛИ**
 
 ---
+
+a:2:{i:1;a:7:{s:5:"autor";a:3:{i:1;a:2:{i:0;s:18:"[Сценарий]";i:1;s:23:"Джоди Хаузер";}i:3;a:2:{i:0;s:16:"[Рисунок]";i:1;s:48:"Пере Перез, Маргарит Саваж";}i:5;a:2:{i:0;s:10:"[Цвет]";i:1;s:25:"Эндрю Долхауз";}}s:4:"name";s:5:"Faith";s:7:"edition";s:2:"#3";s:5:"cover";s:52:"assets/images/valiant/images/atv63/faith-3-cover.jpg";s:9:"publisher";s:4:"1249";s:4:"year";s:4:"2016";s:8:"comments";a:1:{i:1;a:4:{s:5:"autor";s:6:"183732";s:4:"text";s:6412:"
+
+Фэйт и Арчер отправляются на Комик-Кон!
+
+[[gallery? &id=`1330` &type=`1` &rowHeight=`150` &maxRowHeight=`100%` &captions=`false` &fixedHeight=`false` &lastRow=`justify` &margins=`2`]]
+
+*Здарски — есть. Деконник — есть. А где же Фрэкшн?*
+
+Конечно, приближение Comic Con Russia New York Comic Con не могло не отразиться на серии о Фэйт. Учитывая любовь девушки к комиксам, выпуск с поездкой на какой-нибудь конвент был лишь вопросом времени. Правда, меня не перестает покидать ощущение, что Хаузер немного поспешила. В смысле, у нас же вышел только третий номер, зачем так скоро вытаскивать такой мощный козырь?
+
+Да и не сказать, чтобы сценарист «разобралась» с прошлым арком. То есть Фэйт изрядно поколотила злодея, но он явно же еще что-то замышляет, его сюжетная линия далека от завершения. И судя по тому, как начался the Long Con, о Крисе мы в нем не услышим. Хотя, происхождение его огромной армии дублеров может быть как-то связано с той копирующей магией, что использовал Danger Murder Mouse.
+
+А если принять во внимание тот факт, что Faith #5 будет посвящен встрече с Хиллари Клинтон, то текущий арк надо сворачивать уже в следующем номере. Вот и получается, что сюжет «Фэйт на Комик-Коне», у которого просто безграничный потенциал, мало того, что вклинивается в неоконченную предыдущую историю, так еще и грубо обрубается грядущим предвыборным спешлом. Как по мне, так следовало попридержать данный концепт хотя бы до окончания противостояния с Крисом и выделить на него больше времени.
+
+Пусть я не согласен с расположением выпуска в серии, но должен признать, он вышел приятным. Джоди Хаузер в легкой манере поиронизировала над типичными атрибутами/ситуациями комикс-конвенций: очередями, косплейрами и тем, что еду всегда надо приносить с собой! Не забыла она и про обязательные отсылки: в первой половине номера практически в каждом кадре можно заметить знакомого персонажа или наткнуться на известный логотип.
+
+[[gallery? &id=`1329` &type=`1` &rowHeight=`150` &maxRowHeight=`100%` &captions=`false` &fixedHeight=`false` &lastRow=`justify` &margins=`2`]]
+
+*Чтобы не было проблем с копирайтом, крась персонажей в другие цвета!*
+
+Но Faith #3 это не только повод для сценариста пошутить над конвентами, через Фэйт Хаузер выражает к ним свою любовь. Для обеих девушек Комик-Кон — место сосредоточения приятных воспоминаний и эмоций. Здесь они могут быть самими собой и открыто наслаждаться теми вещами, что им дороги. Поэтому так ужасно то, что кто-то хочет все испортить, совершая там преступления.
+
+Рисунок Пере Переза лишен недостатков, присущих Фрэнсису Партеле: нет больше странностей в анатомии, а эмоции персонажей стали живее и не столь гипертрофированы. Но все равно, Перез выдает слишком массивные для данной серии фигуры. Я не понимаю, что мешает издательству пригласить для работы над *Faith*, например, Клэйтона Хенри? Он сейчас ничем не занят (кроме вариантных обложек), и его иллюстрации отлично бы подошли тону комикса. Ведь мечта о том, чтобы его целиком рисовала Маргарит Саваж, так и остается несбыточной. Несмотря на все попытки Эндрю Долхауза своей новой покраской приблизить арт Переза к ее стилю.
+
+Немного неуместный, но очень милый выпуск с огромной долей самоиронии и фанатской любви.
+
+";s:8:"mjdzText";s:0:"";s:10:"conclusion";s:10:"ДОБРО";}}}i:2;a:7:{s:5:"autor";a:3:{i:1;a:2:{i:0;s:18:"[Сценарий]";i:1;s:29:"Роберт Вендитти";}i:3;a:2:{i:0;s:16:"[Рисунок]";i:1;s:23:"Роберт Джилл";}i:5;a:2:{i:0;s:10:"[Цвет]";i:1;s:25:"Майкл Спайсер";}}s:4:"name";s:28:"WRATH OF THE ETERNAL WARRIOR";s:7:"edition";s:3:"#11";s:5:"cover";s:53:"assets/images/valiant/images/atv63/wrath-11-cover.jpg";s:9:"publisher";s:4:"1249";s:4:"year";s:4:"2016";s:8:"comments";a:1:{i:1;a:4:{s:5:"autor";s:6:"183731";s:4:"text";s:6977:"
+
+Ах, этот разный Вендитти: пока в  X-O Manowar’е он не более чем ремесленник, профессионально выдающий эпик-экшн с обязательными страданиями героя, «Гнев…» же он пишет от души, вкладывая в произведение все свои отцовские чувства. Приятно сознавать, что для того, чтобы он писал неплохо влияние хороших художников не обязательно, пример тому текущий арк с Робертом Джиллом.
+
+И не то чтобы Джилл был плохим художником, но на фоне таких асов как [Рауль Аллен](../all-things-valiant-52-week-25/#item2) и [Хуан Хосе Рип](../all-things-valiant-43-week-16/#item2), каждый из которых может похвастаться интересным и уникальным стилем, Роберт выглядит буднично. Даже несмотря на изобретательную раскадровку двухстраничного рекапа прошлых арок, ему далеко до Алленовской симметричности в композиции страниц. Джилл уверенно рисует крепких мужиков в выразительных позах, но больше всего они напоминают гламурных моделей из модного журнала, в то время как из под карандаша Хосе Рипа проступают настоящие потные дикари, сочащиеся брутальностью.
+
+[[gallery? &id=`1339` &type=`1` &rowHeight=`150` &maxRowHeight=`100%` &captions=`false` &fixedHeight=`false` &lastRow=`justify` &margins=`2`]]
+
+*Previously on Wrath of the Eternal Warrior*
+
+После боя с Sovereign’ом Гилад понял, что пришло время поговорить со своим первенцем – Каламом, но для этого ему надо умерить. Поможет ли в этом деле старый друг Вечного воина – Арик? А что ждет бессмертного по ту сторону смерти, дома?
+
+Уже с самого первого номера было понятно, что серия будет не о варварах, кишках и ярости битвы. Кровавая бойня может только аккомпанировать основной теме комикса – семье. Вендитти в каждом интервью напирал на то, что желает очеловечить Гилада, показать его как живого персонажа, а не очередную вариацию Конана. Автор в предыдущих номерах продемонстрировал насколько младший Анни-Падда ослеплен своими целями. Выложившись полностью в сражении бессмертных, он потерял самое важное – своего сына, и весь этот номер посвящен расплате за эту ошибку.
+
+Качественно выстроенный сюжет навязывает герою непривычную для него роль – просящего. Гилад вынужден пойти на мировую с Ариком (тем самым Вендитти сглаживает дурное послевкусие, оставшееся после Book Of Death), терпеть справедливые упреки жены и преклонить колено перед врагом. Сценарист весь номер посвящает тщательной ломке характера гордого воина, который, смирившись с необходимостью, вынужден действовать вопреки своей спесивой природе.
+
+Рост персонажа показан органично, даже несмотря на ограниченность «экранного времени» (всего-то один номер). Но не только Вечному воину сценарист уделяет внимание. Арик наконец-то выписан благородным и мудрым воином, способным принять сложное решение, если того требуют обстоятельства. Лина, жена Гилада, показана сильной женщиной, вынужденной ухаживать за домом и детьми пока ее муж предается приключениям.
+
+[[gallery? &id=`1340` &type=`1` &rowHeight=`150` &maxRowHeight=`100%` &captions=`false` &fixedHeight=`false` &lastRow=`justify` &margins=`2`]]
+
+*Все правильно, защитник Земли.*
+
+Все герои прописаны живыми людьми, и как же жалко, что рисунок Роберта Джилла не способен в полной мере передать это обилие эмоций. Больше всего это проявляется в игре «драматической звезды» – младшего Анни-Падды. Все эти удивленные лица, театральные впадения в уныние выглядят неестественно в подобном стиле и выбранном цвете. Подобная наигранность разрушает ту хрупкую атмосферу чувственной ранимости Вечного воина к которой стремится автор.
+
+Очередной качественный комикс о Гиладе от Роберта Вендитти, который решил в этот раз сделать упор на развитие героя, заперев экшн в чулане. В результате мы имеем хороший разговорный выпуск, в котором обстоятельства вынуждают Вечного воина пойти на уступки и признать свою неправоту. Эх, если бы еще и арт-часть была на высоте, но, увы, поэтому без оценки.
+
+";s:8:"mjdzText";s:0:"";s:10:"conclusion";s:0:"";}}}}

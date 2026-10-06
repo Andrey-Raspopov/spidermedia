@@ -1,7 +1,10 @@
 {
   "title": "This is my son and partner, H.W.",
-  "date": "2010-01-07T23:52:00+03:00",
+  "date": "2010-01-07T23:52:58+03:00",
   "url": "/blog/plane-v/my-son-and-partner-hw/",
+  "aliases": [
+    "/node/2230/"
+  ],
   "original_url": "http://spidermedia.ru/blog/plane-v/my-son-and-partner-hw",
   "archived": "https://web.archive.org/web/20251107005343/http://spidermedia.ru/blog/plane-v/my-son-and-partner-hw",
   "tags": [
@@ -14,7 +17,15 @@
     "thor",
     "hercules",
     "omega-the-unknown",
-    "wisdom"
+    "wisdom",
+    "zheleznyy-chelovek",
+    "tor"
+  ],
+  "cover": "https://web.archive.org/web/20251107005343im_/http://spidermedia.ru/assets/images/import_image/2230.jpg",
+  "modx_id": 2230,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

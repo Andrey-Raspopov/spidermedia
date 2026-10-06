@@ -1,6 +1,6 @@
 {
   "title": "Кэйбл VS Мстители",
-  "date": "2011-09-14T07:40:00+03:00",
+  "date": "2011-09-14T06:40:58+03:00",
   "url": "/news/keybl-vs-mstiteli/",
   "original_url": "http://spidermedia.ru/news/keybl-vs-mstiteli",
   "archived": "https://web.archive.org/web/20260116205739/http://spidermedia.ru/news/keybl-vs-mstiteli",
@@ -11,6 +11,12 @@
     "dzhef-loeb",
     "ed-makginnes",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20160320201231im_/http://spidermedia.ru/assets/images/import_image/6603.jpg",
+  "modx_id": 6603,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

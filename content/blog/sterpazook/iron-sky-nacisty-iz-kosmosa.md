@@ -1,6 +1,6 @@
 {
   "title": "Iron Sky: Нацисты из космоса",
-  "date": "2009-05-14T11:59:00+03:00",
+  "date": "2009-05-14T10:59:37+03:00",
   "url": "/blog/sterpazook/iron-sky-nacisty-iz-kosmosa/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/iron-sky-nacisty-iz-kosmosa",
   "archived": "https://web.archive.org/web/20241213224329/http://spidermedia.ru/blog/sterpazook/iron-sky-nacisty-iz-kosmosa",
@@ -11,6 +11,12 @@
     "kosmos",
     "nacisty",
     "nazis"
+  ],
+  "cover": "https://web.archive.org/web/20241213224329im_/http://spidermedia.ru/assets/images/import_image/1178.jpg",
+  "modx_id": 1178,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

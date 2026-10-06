@@ -1,6 +1,6 @@
 {
   "title": "РосКомНадзор: варить кофе, ждать любовь",
-  "date": "2014-10-31T10:22:00+03:00",
+  "date": "2014-10-31T10:22:40+03:00",
   "url": "/blog/hella/roskomnadzor-varit-kofe-zhdat-lyubov-0/",
   "original_url": "https://spidermedia.ru/blog/hella/roskomnadzor-varit-kofe-zhdat-lyubov-0",
   "archived": "https://web.archive.org/web/20260214135913/https://spidermedia.ru/blog/hella/roskomnadzor-varit-kofe-zhdat-lyubov-0",
@@ -8,6 +8,12 @@
     "russian-comics",
     "zarubezhnye-komiksy-na-russkom",
     "roskomnadzor"
+  ],
+  "cover": "https://web.archive.org/web/20260214135913im_/http://spidermedia.ru/assets/images/import_image/8247.jpg",
+  "modx_id": 8247,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

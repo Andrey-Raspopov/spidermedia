@@ -1,6 +1,6 @@
 {
   "title": "Мстителей много не бывает",
-  "date": "2011-10-16T06:45:00+03:00",
+  "date": "2011-10-16T05:45:52+03:00",
   "url": "/news/mstiteley-mnogo-ne-byvaet/",
   "original_url": "http://spidermedia.ru/news/mstiteley-mnogo-ne-byvaet",
   "archived": "https://web.archive.org/web/20260125120627/http://spidermedia.ru/news/mstiteley-mnogo-ne-byvaet",
@@ -11,6 +11,12 @@
     "brian-michael-bendis",
     "mark-bagli",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20260125120627im_/http://spidermedia.ru/assets/images/import_image/6651.jpg",
+  "modx_id": 6651,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Трейлер мультфильма \"Justice League: The Flashpoint Paradox\"",
-  "date": "2013-05-24T14:31:00+03:00",
+  "date": "2013-05-24T13:31:02+03:00",
   "url": "/news/treyler-multfilma-justice-league-flashpoint-paradox/",
   "original_url": "https://spidermedia.ru/news/treyler-multfilma-justice-league-flashpoint-paradox",
   "archived": "https://web.archive.org/web/20251108184734/https://spidermedia.ru/news/treyler-multfilma-justice-league-flashpoint-paradox",
@@ -9,6 +9,12 @@
     "trejlery",
     "animaciya",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150428112147im_/http://spidermedia.ru/assets/images/import_image/7253.jpg",
+  "modx_id": 7253,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

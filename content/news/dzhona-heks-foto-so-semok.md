@@ -1,6 +1,6 @@
 {
   "title": "Джона Хекс: Фото со съемок",
-  "date": "2009-04-07T13:43:00+03:00",
+  "date": "2009-04-07T12:43:48+03:00",
   "url": "/news/dzhona-heks-foto-so-semok/",
   "original_url": "https://spidermedia.ru/news/dzhona-heks-foto-so-semok",
   "archived": "https://web.archive.org/web/20260125062944/https://spidermedia.ru/news/dzhona-heks-foto-so-semok",
@@ -10,6 +10,12 @@
     "megan-foks",
     "dzhona-heks",
     "dzhon-malkovich"
+  ],
+  "cover": "https://web.archive.org/web/20260125062944im_/http://spidermedia.ru/assets/images/import_image/876.jpg",
+  "modx_id": 876,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

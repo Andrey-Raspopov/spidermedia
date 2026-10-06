@@ -1,12 +1,21 @@
 {
   "title": "IMAX-постер \"Хранителей\"",
-  "date": "2009-02-03T11:03:00+03:00",
+  "date": "2009-02-03T11:03:07+03:00",
   "url": "/news/imax-poster-hraniteley/",
+  "aliases": [
+    "/node/136/"
+  ],
   "original_url": "http://spidermedia.ru/news/imax-poster-hraniteley",
   "archived": "https://web.archive.org/web/20250715005527/http://spidermedia.ru/news/imax-poster-hraniteley",
   "tags": [
     "hraniteli",
     "postery"
+  ],
+  "cover": "https://web.archive.org/web/20150502200121im_/http://spidermedia.ru/assets/images/import_image/136.jpg",
+  "modx_id": 136,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

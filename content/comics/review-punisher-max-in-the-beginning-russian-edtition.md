@@ -10,6 +10,12 @@
     "alden-comics",
     "zarubezhnye-komiksy-na-russkom"
   ],
+  "cover": "https://web.archive.org/web/20240710173523im_/http://spidermedia.ru/assets/images/newgallery/gallery752/punisher-max-rus-preview-1.jpg",
+  "modx_id": 101106,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,12 +1,18 @@
 {
   "title": "Обзор Image Expo 2015",
-  "date": "2015-01-09T19:32:00+03:00",
+  "date": "2015-01-09T19:32:40+03:00",
   "url": "/news/obzor-image-expo-2015/",
   "original_url": "http://spidermedia.ru/news/obzor-image-expo-2015",
   "archived": "https://web.archive.org/web/20251117000754/http://spidermedia.ru/news/obzor-image-expo-2015",
   "tags": [
     "image-comics",
     "image-expo"
+  ],
+  "cover": "https://web.archive.org/web/20150327032355im_/http://spidermedia.ru/assets/images/import_image/8481.gif",
+  "modx_id": 8481,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

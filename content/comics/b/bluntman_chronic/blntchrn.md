@@ -4,6 +4,9 @@
   "url": "/comics/b/bluntman_chronic/blntchrn/",
   "original_url": "http://www.spidermedia.ru/comics/b/bluntman_chronic/blntchrn.html",
   "archived": "https://web.archive.org/web/20050307035710/http://www.spidermedia.ru:80/comics/b/bluntman_chronic/blntchrn.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "cp1251 (guessed)"
 }

@@ -1,6 +1,6 @@
 {
   "title": "Стань супергероем в сиквеле \"Kick-Ass\"",
-  "date": "2010-02-16T23:10:00+03:00",
+  "date": "2010-02-16T23:10:16+03:00",
   "url": "/news/stan-supergeroem-v-sikvele-kick-ass/",
   "original_url": "https://spidermedia.ru/news/stan-supergeroem-v-sikvele-kick-ass",
   "archived": "https://web.archive.org/web/20251213190156/https://spidermedia.ru/news/stan-supergeroem-v-sikvele-kick-ass",
@@ -9,6 +9,11 @@
     "mark-millar",
     "dzhon-romita-ml",
     "john-romita-jr"
+  ],
+  "modx_id": 2380,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

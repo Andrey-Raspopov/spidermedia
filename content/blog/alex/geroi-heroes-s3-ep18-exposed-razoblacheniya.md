@@ -1,13 +1,20 @@
 {
   "title": "Герои\\Heroes s3 ep.18 - \"Exposed\"\\\"Разоблачения\"",
-  "date": "2009-03-04T10:14:00+03:00",
+  "date": "2009-03-04T10:14:13+03:00",
   "url": "/blog/alex/geroi-heroes-s3-ep18-exposed-razoblacheniya/",
   "original_url": "http://spidermedia.ru/blog/alex/geroi-heroes-s3-ep18-exposed-razoblacheniya",
   "archived": "https://web.archive.org/web/20220314040546/http://spidermedia.ru/blog/alex/geroi-heroes-s3-ep18-exposed-razoblacheniya",
   "tags": [
     "serialy",
     "geroi",
-    "heroes"
+    "heroes",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20220314040546im_/http://spidermedia.ru/assets/images/import_image/580.gif",
+  "modx_id": 580,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

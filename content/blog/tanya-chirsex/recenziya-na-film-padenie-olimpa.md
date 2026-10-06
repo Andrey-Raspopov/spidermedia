@@ -1,11 +1,17 @@
 {
   "title": "Рецензия на фильм \"Падение Олимпа\"",
-  "date": "2013-04-03T22:25:00+03:00",
+  "date": "2013-04-03T21:25:33+03:00",
   "url": "/blog/tanya-chirsex/recenziya-na-film-padenie-olimpa/",
   "original_url": "http://spidermedia.ru/blog/tanya-chirsex/recenziya-na-film-padenie-olimpa",
   "archived": "https://web.archive.org/web/20190819230005/http://spidermedia.ru/blog/tanya-chirsex/recenziya-na-film-padenie-olimpa",
   "tags": [
     "recenziya"
+  ],
+  "cover": "https://web.archive.org/web/20190819230005im_/http://spidermedia.ru/assets/images/import_image/7179.jpg",
+  "modx_id": 7179,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

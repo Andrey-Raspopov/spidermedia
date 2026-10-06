@@ -1,7 +1,10 @@
 {
   "title": "Легион Карателя",
-  "date": "2009-09-21T20:39:00+03:00",
+  "date": "2009-09-21T19:39:43+03:00",
   "url": "/news/legion-karatelya/",
+  "aliases": [
+    "/node/1916/"
+  ],
   "original_url": "http://spidermedia.ru/news/legion-karatelya",
   "archived": "https://web.archive.org/web/20120608023133/http://spidermedia.ru/news/legion-karatelya",
   "tags": [
@@ -15,7 +18,15 @@
     "marvel",
     "oblozhki",
     "rik-remender",
-    "toni-mur"
+    "toni-mur",
+    "majk-makkon",
+    "art",
+    "legion-of-monsters"
+  ],
+  "modx_id": 1916,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

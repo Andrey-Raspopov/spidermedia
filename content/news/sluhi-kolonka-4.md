@@ -1,7 +1,10 @@
 {
   "title": "Слухи, колонка 4",
-  "date": "2009-05-18T17:04:00+03:00",
+  "date": "2009-05-18T16:04:25+03:00",
   "url": "/news/sluhi-kolonka-4/",
+  "aliases": [
+    "/node/1228/"
+  ],
   "original_url": "https://spidermedia.ru/news/sluhi-kolonka-4",
   "archived": "https://web.archive.org/web/20251107032047/https://spidermedia.ru/news/sluhi-kolonka-4",
   "tags": [
@@ -14,7 +17,13 @@
     "dzhonatan-hikman",
     "dzhok",
     "ed-makginnes",
-    "models-inc"
+    "models-inc",
+    "lyudi-iks"
+  ],
+  "modx_id": 1228,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

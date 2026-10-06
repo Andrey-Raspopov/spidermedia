@@ -1,6 +1,6 @@
 {
   "title": "Том Хиддлстон ответит на вопросы в Твиттере!",
-  "date": "2013-09-12T15:30:00+03:00",
+  "date": "2013-09-12T14:30:03+03:00",
   "url": "/news/zaday-vopros-loki/",
   "original_url": "http://spidermedia.ru/news/zaday-vopros-loki",
   "archived": "https://web.archive.org/web/20250215011951/http://spidermedia.ru/news/zaday-vopros-loki",
@@ -8,7 +8,14 @@
     "avengers",
     "marvel",
     "loki",
-    "thor"
+    "thor",
+    "tor"
+  ],
+  "cover": "https://web.archive.org/web/20250215011951im_/http://spidermedia.ru/assets/images/import_image/7465.jpg",
+  "modx_id": 7465,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

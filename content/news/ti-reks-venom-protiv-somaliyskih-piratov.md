@@ -1,13 +1,22 @@
 {
   "title": "Ти-рекс-Веном против Сомалийских Пиратов",
-  "date": "2009-10-31T06:27:00+03:00",
+  "date": "2009-10-31T06:27:17+03:00",
   "url": "/news/ti-reks-venom-protiv-somaliyskih-piratov/",
+  "aliases": [
+    "/node/2043/"
+  ],
   "original_url": "http://spidermedia.ru/news/ti-reks-venom-protiv-somaliyskih-piratov",
   "archived": "https://web.archive.org/web/20251206160903/http://spidermedia.ru/news/ti-reks-venom-protiv-somaliyskih-piratov",
   "tags": [
     "stiv-makniven",
     "mark-millar",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20251206160903im_/http://spidermedia.ru/assets/images/import_image/2043.jpg",
+  "modx_id": 2043,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

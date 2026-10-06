@@ -1,12 +1,18 @@
 {
   "title": "МЖДЗ: BRING IT ON DOWN",
-  "date": "2011-05-31T14:50:00+03:00",
+  "date": "2011-05-31T13:50:40+03:00",
   "url": "/blog/redson/mzhdz-bring-it-down/",
   "original_url": "http://spidermedia.ru/blog/redson/mzhdz-bring-it-down",
   "archived": "https://web.archive.org/web/20240720190000/http://spidermedia.ru/blog/redson/mzhdz-bring-it-down",
   "tags": [
     "mnenie",
     "mzhdz"
+  ],
+  "cover": "https://web.archive.org/web/20240720190000im_/http://spidermedia.ru/assets/images/import_image/6160.jpg",
+  "modx_id": 6160,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

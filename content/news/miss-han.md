@@ -1,6 +1,6 @@
 {
   "title": "Мисс Хан",
-  "date": "2013-11-06T06:40:00+03:00",
+  "date": "2013-11-06T05:40:04+03:00",
   "url": "/news/miss-han/",
   "original_url": "https://spidermedia.ru/news/miss-han",
   "archived": "https://web.archive.org/web/20260214132018/https://spidermedia.ru/news/miss-han",
@@ -9,6 +9,12 @@
     "miss-marvel",
     "dzhi-uillou-uilson",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150428173548im_/http://spidermedia.ru/assets/images/import_image/7531.jpg",
+  "modx_id": 7531,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,12 +1,18 @@
 {
   "title": "Глен Клоуз сыграет главу Корпуса Нова в \"Стражах Галактики\"",
-  "date": "2013-05-30T14:32:00+03:00",
+  "date": "2013-05-30T13:32:40+03:00",
   "url": "/news/glen-klouz-sygraet-glavu-korpusa-nova-v-strazhah-galaktiki/",
   "original_url": "http://spidermedia.ru/news/glen-klouz-sygraet-glavu-korpusa-nova-v-strazhah-galaktiki",
   "archived": "https://web.archive.org/web/20241011020708/http://spidermedia.ru/news/glen-klouz-sygraet-glavu-korpusa-nova-v-strazhah-galaktiki",
   "tags": [
     "marvel",
     "guardians-of-the-galaxy"
+  ],
+  "cover": "https://web.archive.org/web/20241011020708im_/http://spidermedia.ru/assets/images/import_image/7257.jpg",
+  "modx_id": 7257,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

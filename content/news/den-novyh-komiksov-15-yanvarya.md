@@ -1,11 +1,17 @@
 {
   "title": "День новых комиксов: 15 января",
-  "date": "2014-01-15T13:49:00+03:00",
+  "date": "2014-01-15T12:49:27+03:00",
   "url": "/news/den-novyh-komiksov-15-yanvarya/",
   "original_url": "https://spidermedia.ru/news/den-novyh-komiksov-15-yanvarya",
   "archived": "https://web.archive.org/web/20250429012246/https://spidermedia.ru/news/den-novyh-komiksov-15-yanvarya",
   "tags": [
     "den-novyh-komiksov"
+  ],
+  "cover": "https://web.archive.org/web/20250429012246im_/http://spidermedia.ru/assets/images/import_image/7597.png",
+  "modx_id": 7597,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "The Column With No Name: 7/04/10 - This is not how the world ends!",
-  "date": "2010-04-11T07:14:00+03:00",
+  "date": "2010-04-11T06:14:33+03:00",
   "url": "/blog/sir-carnage/column-no-name-7-04-10-not-how-world-ends/",
+  "aliases": [
+    "/node/2529/"
+  ],
   "original_url": "http://spidermedia.ru/blog/sir-carnage/column-no-name-7-04-10-not-how-world-ends",
   "archived": "https://web.archive.org/web/20240416052939/http://spidermedia.ru/blog/sir-carnage/column-no-name-7-04-10-not-how-world-ends",
   "tags": [
@@ -9,6 +12,12 @@
     "image-comics",
     "dc-comics",
     "the-column-with-no-name"
+  ],
+  "cover": "https://web.archive.org/web/20240416052939im_/http://spidermedia.ru/assets/images/import_image/2529.jpg",
+  "modx_id": 2529,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

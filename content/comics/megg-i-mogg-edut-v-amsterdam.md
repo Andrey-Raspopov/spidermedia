@@ -7,6 +7,12 @@
   "tags": [
     "fantagraphics"
   ],
+  "cover": "https://web.archive.org/web/20260121013310im_/http://spidermedia.ru/assets/images/newgallery/gallery827/0001.jpg",
+  "modx_id": 101112,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

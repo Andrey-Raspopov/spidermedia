@@ -1,7 +1,10 @@
 {
   "title": "Превью X-Men Origins: Wolverine #1",
-  "date": "2009-04-24T19:50:00+03:00",
+  "date": "2009-04-24T18:50:11+03:00",
   "url": "/news/prevyu-x-men-origins-wolverine-1/",
+  "aliases": [
+    "/node/1048/"
+  ],
   "original_url": "http://spidermedia.ru/news/prevyu-x-men-origins-wolverine-1",
   "archived": "https://web.archive.org/web/20230329040537/http://spidermedia.ru/news/prevyu-x-men-origins-wolverine-1",
   "tags": [
@@ -11,6 +14,11 @@
     "christopher-yost",
     "mark-teksera",
     "mark-texiera"
+  ],
+  "modx_id": 1048,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

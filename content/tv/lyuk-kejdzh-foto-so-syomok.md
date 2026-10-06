@@ -8,6 +8,12 @@
     "marvel",
     "luke-cage"
   ],
+  "cover": "https://web.archive.org/web/20250512120545im_/http://spidermedia.ru/assets/images/tv/marvel/luke-cage-tv-series-2016/489593424.jpg",
+  "modx_id": 100601,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

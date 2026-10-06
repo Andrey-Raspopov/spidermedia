@@ -1,6 +1,6 @@
 {
   "title": "President Awesome",
-  "date": "2009-02-16T19:36:00+03:00",
+  "date": "2009-02-16T18:36:53+03:00",
   "url": "/blog/bogart/president-awesome/",
   "original_url": "http://spidermedia.ru/blog/bogart/president-awesome",
   "archived": "https://web.archive.org/web/20120609002959/http://spidermedia.ru/blog/bogart/president-awesome",
@@ -8,6 +8,12 @@
     "veb-komiksy",
     "din-tripp",
     "komiksy"
+  ],
+  "cover": "https://web.archive.org/web/20120609002959im_/http://spidermedia.ru/assets/images/import_image/393.jpg",
+  "modx_id": 393,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

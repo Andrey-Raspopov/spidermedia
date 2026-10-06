@@ -1,7 +1,10 @@
 {
   "title": "Последствия Битвы за Плащ",
-  "date": "2009-03-14T18:31:00+03:00",
+  "date": "2009-03-14T18:31:45+03:00",
   "url": "/news/posledstviya-bitvy-za-plashch/",
+  "aliases": [
+    "/node/676/"
+  ],
   "original_url": "http://spidermedia.ru/news/posledstviya-bitvy-za-plashch",
   "archived": "https://web.archive.org/web/20250119230526/http://spidermedia.ru/news/posledstviya-bitvy-za-plashch",
   "tags": [
@@ -13,11 +16,17 @@
     "yan-settler",
     "gillem-marsh"
   ],
+  "cover": "https://web.archive.org/web/20250119230526im_/http://spidermedia.ru/assets/images/import_image/676.jpg",
+  "modx_id": 676,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-Июнь всё ближе, а значит ближе и конец **Битвы за Плащ** *(Battle for the Cowl)*. И постепенно появляется всё больше и больше информации о новых тайтлах, которые будут запущены по окончанию Битвы. Помимо **[Красного Робина](../../node/672/)** *(Red Robin)* (авторский состав которого состоит из сценариста **Криса Йоста** *(Chris Yost)* и художника **Рамона Бакса** *(Ramone Bachs)*) и **[Бэтмена и Робина](../../node/654/)** *(Batman & Robin)* это будут: **Бэтгёрл** *(Batgirl)*, **Бэтмен: Улицы Готэма** *(Batman: Streets of Gotham)* и **Сирены города Готэма** *(Gotham City Sirens)*. О последних двух и пойдет речь.
+Июнь всё ближе, а значит ближе и конец **Битвы за Плащ** *(Battle for the Cowl)*. И постепенно появляется всё больше и больше информации о новых тайтлах, которые будут запущены по окончанию Битвы. Помимо **[Красного Робина](../frensis-robinapul/)** *(Red Robin)* (авторский состав которого состоит из сценариста **Криса Йоста** *(Chris Yost)* и художника **Рамона Бакса** *(Ramone Bachs)*) и **[Бэтмена и Робина](../vot-betmen-vot-i-robin/)** *(Batman & Robin)* это будут: **Бэтгёрл** *(Batgirl)*, **Бэтмен: Улицы Готэма** *(Batman: Streets of Gotham)* и **Сирены города Готэма** *(Gotham City Sirens)*. О последних двух и пойдет речь.
 
 [![Photobucket](https://web.archive.org/web/20250119230526im_/http://i265.photobucket.com/albums/ii233/QWANT007/previews/DC%20Comics/th_streets-of-gotham-1.jpg)](http://s265.photobucket.com/albums/ii233/QWANT007/previews/DC%20Comics/?action=view¤t=streets-of-gotham-1.jpg) [![Photobucket](https://web.archive.org/web/20250119230526im_/http://i265.photobucket.com/albums/ii233/QWANT007/previews/DC%20Comics/th_gotham-city-sirens-1jpg.jpg)](http://s265.photobucket.com/albums/ii233/QWANT007/previews/DC%20Comics/?action=view¤t=gotham-city-sirens-1jpg.jpg)
 

@@ -8,6 +8,12 @@
     "dc-comics",
     "superman"
   ],
+  "cover": "https://web.archive.org/web/20160611121146im_/http://spidermedia.ru/assets/images/news/images/5_toys/play-arts-kai/superman/123.jpg",
+  "modx_id": 100898,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

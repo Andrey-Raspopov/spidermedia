@@ -1,12 +1,18 @@
 {
   "title": "Hellboymedia Special #03: «Хеллбой — Герой из пекла»",
-  "date": "2014-09-05T15:57:00+03:00",
+  "date": "2014-09-05T14:57:46+03:00",
   "url": "/blog/transistor/hellboymedia-special-03-film-hellboy-geroy-iz-pekla/",
   "original_url": "http://spidermedia.ru/blog/transistor/hellboymedia-special-03-film-hellboy-geroy-iz-pekla",
   "archived": "https://web.archive.org/web/20260117225958/http://spidermedia.ru/blog/transistor/hellboymedia-special-03-film-hellboy-geroy-iz-pekla",
   "tags": [
     "recenziya",
     "hellboymedia"
+  ],
+  "cover": "https://web.archive.org/web/20160611214852im_/http://spidermedia.ru/assets/images/hellboymedia/special/03-hellboy-the-movie/hellboy-the-movie-cover.jpg",
+  "modx_id": 8040,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

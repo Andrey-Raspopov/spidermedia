@@ -1,12 +1,18 @@
 {
   "title": "Человек-Паук станет частью киновселенной Marvel Studios",
-  "date": "2015-02-10T08:18:00+03:00",
+  "date": "2015-02-10T08:18:24+03:00",
   "url": "/news/chelovek-pauk-stanet-chastyu-kinovselennoy-marvel-studios/",
   "original_url": "http://spidermedia.ru/news/chelovek-pauk-stanet-chastyu-kinovselennoy-marvel-studios",
   "archived": "https://web.archive.org/web/20260125051103/http://spidermedia.ru/news/chelovek-pauk-stanet-chastyu-kinovselennoy-marvel-studios",
   "tags": [
     "spider-man",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150326035816im_/http://spidermedia.ru/assets/images/import_image/8600.jpg",
+  "modx_id": 8600,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

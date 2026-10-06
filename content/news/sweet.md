@@ -1,11 +1,19 @@
 {
   "title": "Sweet",
-  "date": "2010-06-07T11:31:00+03:00",
+  "date": "2010-06-07T10:31:44+03:00",
   "url": "/news/sweet/",
+  "aliases": [
+    "/node/2658/"
+  ],
   "original_url": "http://spidermedia.ru/news/sweet",
   "archived": "https://web.archive.org/web/20190811012500/http://spidermedia.ru:80/news/sweet",
   "tags": [
     "scott-pilgrim"
+  ],
+  "modx_id": 2658,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

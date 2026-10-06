@@ -8,6 +8,12 @@
     "hellboymedia",
     "mnenie"
   ],
+  "cover": "https://web.archive.org/web/20160611152742im_/http://spidermedia.ru/assets/images/hellboymedia/classic/hellboy-vol-02-wake-the-devil/hellboy-vol.-2-wake-the-devil-cover.jpg",
+  "modx_id": 100469,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

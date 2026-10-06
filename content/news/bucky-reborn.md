@@ -1,6 +1,6 @@
 {
   "title": "Bucky Reborn",
-  "date": "2011-10-10T16:19:00+03:00",
+  "date": "2011-10-10T15:19:57+03:00",
   "url": "/news/bucky-reborn/",
   "original_url": "http://spidermedia.ru/news/bucky-reborn",
   "archived": "https://web.archive.org/web/20120607192940/http://spidermedia.ru/news/bucky-reborn",
@@ -8,7 +8,14 @@
     "baki",
     "komiksy",
     "marvel",
-    "tizery"
+    "tizery",
+    "winter-soldier"
+  ],
+  "cover": "https://web.archive.org/web/20120607192940im_/http://spidermedia.ru/assets/images/import_image/6639.jpg",
+  "modx_id": 6639,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

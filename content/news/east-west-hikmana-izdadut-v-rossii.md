@@ -1,6 +1,6 @@
 {
   "title": "EAST OF WEST Хикмана издадут в России + официальный анонс",
-  "date": "2014-08-30T13:43:00+03:00",
+  "date": "2014-08-30T12:43:26+03:00",
   "url": "/news/east-west-hikmana-izdadut-v-rossii/",
   "original_url": "https://spidermedia.ru/news/east-west-hikmana-izdadut-v-rossii",
   "archived": "https://web.archive.org/web/20260307063416/https://spidermedia.ru/news/east-west-hikmana-izdadut-v-rossii",
@@ -8,6 +8,12 @@
     "zarubezhnye-komiksy-na-russkom",
     "viverra-publishing",
     "image-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150424123148im_/http://spidermedia.ru/assets/images/import_image/8028.jpg",
+  "modx_id": 8028,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Бесстрашные и разбитые",
-  "date": "2011-07-25T03:54:00+03:00",
+  "date": "2011-07-25T02:54:37+03:00",
   "url": "/news/besstrashnye-i-razbitye/",
   "original_url": "https://spidermedia.ru/news/besstrashnye-i-razbitye",
   "archived": "https://web.archive.org/web/20260313110858/https://spidermedia.ru/news/besstrashnye-i-razbitye",
@@ -11,7 +11,14 @@
     "kris-jost",
     "san-diego-comic-con-international",
     "kallen-bann",
-    "marvel"
+    "marvel",
+    "mett-frakshen"
+  ],
+  "cover": "https://web.archive.org/web/20260313110858im_/http://spidermedia.ru/assets/images/import_image/6531.jpg",
+  "modx_id": 6531,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

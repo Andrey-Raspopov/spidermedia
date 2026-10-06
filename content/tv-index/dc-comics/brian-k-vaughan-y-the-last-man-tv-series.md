@@ -4,6 +4,9 @@
   "url": "/tv-index/dc-comics/brian-k-vaughan-y-the-last-man-tv-series/",
   "original_url": "http://spidermedia.ru/tv-index/dc-comics/brian-k-vaughan-y-the-last-man-tv-series",
   "archived": "https://web.archive.org/web/20260120234716/http://spidermedia.ru/tv-index/dc-comics/brian-k-vaughan-y-the-last-man-tv-series",
+  "sources": [
+    "archive"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

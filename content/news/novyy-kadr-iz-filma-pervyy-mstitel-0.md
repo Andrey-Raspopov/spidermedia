@@ -1,6 +1,6 @@
 {
   "title": "Новый кадр из фильма \"Первый мститель\"",
-  "date": "2011-05-12T11:02:00+03:00",
+  "date": "2011-05-12T10:02:32+03:00",
   "url": "/news/novyy-kadr-iz-filma-pervyy-mstitel-0/",
   "original_url": "http://www.spidermedia.ru/news/novyy-kadr-iz-filma-pervyy-mstitel-0",
   "archived": "https://web.archive.org/web/20111105175240/http://www.spidermedia.ru/news/novyy-kadr-iz-filma-pervyy-mstitel-0",
@@ -12,6 +12,12 @@
     "kino",
     "marvel-0",
     "pervyy-mstitel-kapitan-amerika"
+  ],
+  "cover": "https://web.archive.org/web/20111105175240im_/http://spidermedia.ru/assets/images/import_image/5667.jpg",
+  "modx_id": 5667,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

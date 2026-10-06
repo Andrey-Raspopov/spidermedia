@@ -1,6 +1,6 @@
 {
   "title": "Cinemacon: Презентация фильма \"Мстители\"",
-  "date": "2011-03-30T05:31:00+03:00",
+  "date": "2011-03-30T04:31:37+03:00",
   "url": "/news/cinemacon-prezentaciya-filma-mstiteli/",
   "original_url": "https://spidermedia.ru/news/cinemacon-prezentaciya-filma-mstiteli",
   "archived": "https://web.archive.org/web/20251115030916/https://spidermedia.ru/news/cinemacon-prezentaciya-filma-mstiteli",
@@ -8,6 +8,12 @@
     "futazh",
     "marvel",
     "avengers"
+  ],
+  "cover": "https://web.archive.org/web/20251115030916im_/http://spidermedia.ru/assets/images/import_image/4552.png",
+  "modx_id": 4552,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

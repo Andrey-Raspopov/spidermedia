@@ -9,6 +9,12 @@
     "viktorina",
     "avengers"
   ],
+  "cover": "https://web.archive.org/web/20260209121054im_/http://spidermedia.ru/assets/images/movies/marvel/captain-america-3-civil-war-2016/kinopoisk.ru-captain-america_3a-civil-war-2747962.jpg",
+  "modx_id": 101123,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,11 +1,17 @@
 {
   "title": "День новых комиксов: 2 июля",
-  "date": "2014-07-02T11:30:00+03:00",
+  "date": "2014-07-02T10:30:50+03:00",
   "url": "/blog/redson/den-novyh-komiksov-2-iyulya/",
   "original_url": "http://spidermedia.ru/blog/redson/den-novyh-komiksov-2-iyulya",
   "archived": "https://web.archive.org/web/20200130232650/http://spidermedia.ru:80/blog/redson/den-novyh-komiksov-2-iyulya",
   "tags": [
     "den-novyh-komiksov"
+  ],
+  "cover": "https://web.archive.org/web/20150425032558im_/http://spidermedia.ru/assets/images/import_image/7853.jpg",
+  "modx_id": 7853,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

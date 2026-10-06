@@ -12,6 +12,12 @@
     "miss-amerika",
     "nik-dragotta"
   ],
+  "cover": "https://web.archive.org/web/20180203233028im_/http://spidermedia.ru/assets/images/comic-con/2016/sdcc-2016/all-america_comix_promo.jpg",
+  "modx_id": 101291,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

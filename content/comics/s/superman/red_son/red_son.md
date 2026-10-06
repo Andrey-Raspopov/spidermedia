@@ -4,6 +4,9 @@
   "url": "/comics/s/superman/red_son/red_son/",
   "original_url": "http://www.spidermedia.ru/comics/s/superman/red_son/red_son.html",
   "archived": "https://web.archive.org/web/20050307075653/http://www.spidermedia.ru:80/comics/s/superman/red_son/red_son.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "cp1251 (guessed)"
 }

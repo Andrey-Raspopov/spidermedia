@@ -1,13 +1,22 @@
 {
   "title": "Большая голова",
-  "date": "2010-01-13T21:53:00+03:00",
+  "date": "2010-01-13T20:53:28+03:00",
   "url": "/news/bolshaya-golova/",
+  "aliases": [
+    "/node/2253/"
+  ],
   "original_url": "http://spidermedia.ru/news/bolshaya-golova",
   "archived": "https://web.archive.org/web/20120718105533/http://spidermedia.ru/news/bolshaya-golova",
   "tags": [
     "green-lantern",
     "zelenyy-fonar",
     "kino"
+  ],
+  "cover": "https://web.archive.org/web/20120718105533im_/http://spidermedia.ru/assets/images/import_image/2253.jpg",
+  "modx_id": 2253,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

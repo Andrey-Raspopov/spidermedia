@@ -7,6 +7,12 @@
   "tags": [
     "zarubezhnye-komiksy-na-russkom"
   ],
+  "cover": "https://web.archive.org/web/20220703152222im_/http://spidermedia.ru/assets/images/reviews/mif/castle-in-the-stars/mzk.jpg",
+  "modx_id": 101807,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

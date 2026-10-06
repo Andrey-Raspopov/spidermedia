@@ -7,13 +7,19 @@
   "tags": [
     "image-comics"
   ],
+  "cover": "https://web.archive.org/web/20260309174338im_/http://spidermedia.ru/assets/images/news/images/2_movies/other/descender/descender_1.w1200.h630.jpg",
+  "modx_id": 100887,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
 [![](http://spidermedia.ru/assets/cache/images/news/images/2_movies/other/descender/622x-descender_1.w1200.h630.2e9.jpg)](http://spidermedia.ru/assets/images/news/images/2_movies/other/descender/descender_1.w1200.h630.jpg)
 
-В прошлом году мы не раз [писали](../../comics/welcome-to-image/#descender) о научно-фантастическом комиксе Джеффа Лемира и Дастина Нгуена **Descender** и [рассказывали](https://web.archive.org/web/20251108191240/http://spidermedia.ru/comics/mzhdz-femforce), почему на него стоит обратить внимание. Еще раньше компания **Sony** приобрела права на экранизацию этого комикса, и вот три дня назад у проекта появился сценарист.
+В прошлом году мы не раз [писали](../../comics/welcome-to-image/#descender) о научно-фантастическом комиксе Джеффа Лемира и Дастина Нгуена **Descender** и [рассказывали](../../comics/mzhdz-femforce/#item3), почему на него стоит обратить внимание. Еще раньше компания **Sony** приобрела права на экранизацию этого комикса, и вот три дня назад у проекта появился сценарист.
 
 ![](http://spidermedia.ru/assets/images/news/images/2_movies/other/descender/d5lo2fag4cfshyb6juos.jpg)
 

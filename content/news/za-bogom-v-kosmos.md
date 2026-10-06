@@ -1,7 +1,10 @@
 {
   "title": "За Богом в космос",
-  "date": "2010-03-13T11:15:00+03:00",
+  "date": "2010-03-13T11:15:36+03:00",
   "url": "/news/za-bogom-v-kosmos/",
+  "aliases": [
+    "/node/2436/"
+  ],
   "original_url": "http://spidermedia.ru/news/za-bogom-v-kosmos",
   "archived": "https://web.archive.org/web/20210128050505/http://spidermedia.ru/news/za-bogom-v-kosmos",
   "tags": [
@@ -9,6 +12,12 @@
     "zak-uedon",
     "serenity",
     "dark-horse"
+  ],
+  "cover": "https://web.archive.org/web/20210128050505im_/http://spidermedia.ru/assets/images/import_image/2436.jpg",
+  "modx_id": 2436,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

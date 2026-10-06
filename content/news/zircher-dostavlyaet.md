@@ -1,7 +1,10 @@
 {
   "title": "Зирчер доставляет",
-  "date": "2009-12-01T23:08:00+03:00",
+  "date": "2009-12-01T23:08:53+03:00",
   "url": "/news/zircher-dostavlyaet/",
+  "aliases": [
+    "/node/2143/"
+  ],
   "original_url": "https://spidermedia.ru/news/zircher-dostavlyaet",
   "archived": "https://web.archive.org/web/20260115061906/https://spidermedia.ru/news/zircher-dostavlyaet",
   "tags": [
@@ -10,7 +13,17 @@
     "matt-fraction",
     "preview",
     "salvador-larroka",
-    "patrik-zircher"
+    "patrik-zircher",
+    "invincible-iron-man",
+    "zheleznyy-chelovek",
+    "mett-frakshen",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20260115061906im_/http://spidermedia.ru/assets/images/import_image/2143.jpg",
+  "modx_id": 2143,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

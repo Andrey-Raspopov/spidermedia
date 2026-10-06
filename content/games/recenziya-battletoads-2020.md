@@ -4,6 +4,12 @@
   "url": "/games/recenziya-battletoads-2020/",
   "original_url": "http://spidermedia.ru/games/recenziya-battletoads-2020",
   "archived": "https://web.archive.org/web/20251115173724/http://spidermedia.ru/games/recenziya-battletoads-2020",
+  "cover": "https://web.archive.org/web/20251115173724im_/http://spidermedia.ru/assets/images/games/battletoads2020.jpg",
+  "modx_id": 102266,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

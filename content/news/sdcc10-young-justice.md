@@ -1,7 +1,10 @@
 {
   "title": "SDCC'10: Young Justice",
-  "date": "2010-07-24T18:59:00+03:00",
+  "date": "2010-07-24T17:59:50+03:00",
   "url": "/news/sdcc10-young-justice/",
+  "aliases": [
+    "/node/2781/"
+  ],
   "original_url": "http://spidermedia.ru/news/sdcc10-young-justice",
   "archived": "https://web.archive.org/web/20250806052657/http://spidermedia.ru/news/sdcc10-young-justice",
   "tags": [
@@ -9,6 +12,12 @@
     "san-diego-comic-con-international",
     "young-justice",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150502012834im_/http://spidermedia.ru/assets/images/import_image/2781.png",
+  "modx_id": 2781,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

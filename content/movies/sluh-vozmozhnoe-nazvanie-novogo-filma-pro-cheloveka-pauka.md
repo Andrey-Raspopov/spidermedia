@@ -8,6 +8,12 @@
     "marvel",
     "spider-man"
   ],
+  "cover": "https://web.archive.org/web/20260215091145im_/http://spidermedia.ru/assets/images/movies/marvel/spider-man-marvel/cf5hc8jw8aeerql.jpg",
+  "modx_id": 101053,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,6 +1,6 @@
 {
   "title": "25 обложек Empire с Людьми Икс",
-  "date": "2014-01-27T14:34:00+03:00",
+  "date": "2014-01-27T13:34:58+03:00",
   "url": "/news/25-oblozhek-empire-s-lyudmi-iks/",
   "original_url": "https://spidermedia.ru/news/25-oblozhek-empire-s-lyudmi-iks",
   "archived": "https://web.archive.org/web/20260121015402/https://spidermedia.ru/news/25-oblozhek-empire-s-lyudmi-iks",
@@ -8,7 +8,15 @@
     "marvel",
     "lyudi-iks-pervyj-klass",
     "x-men",
-    "days-of-future-past"
+    "days-of-future-past",
+    "lyudi-iks",
+    "dni-minuvshego-budushhego"
+  ],
+  "cover": "https://web.archive.org/web/20160626170736im_/http://spidermedia.ru/assets/images/import_image/7614.jpg",
+  "modx_id": 7614,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

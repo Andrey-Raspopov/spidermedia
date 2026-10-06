@@ -1,12 +1,21 @@
 {
   "title": "\"Хранители\" от издательства \"Амфора\"",
-  "date": "2009-03-06T21:21:00+03:00",
+  "date": "2009-03-06T21:21:04+03:00",
   "url": "/blog/sterpazook/hraniteli-ot-izdatelstva-amfora/",
+  "aliases": [
+    "/node/611/"
+  ],
   "original_url": "http://spidermedia.ru/blog/sterpazook/hraniteli-ot-izdatelstva-amfora",
   "archived": "https://web.archive.org/web/20220627181718/http://spidermedia.ru/blog/sterpazook/hraniteli-ot-izdatelstva-amfora",
   "tags": [
     "zarubezhnye-komiksy-na-russkom",
     "hraniteli"
+  ],
+  "cover": "https://web.archive.org/web/20220627181718im_/http://spidermedia.ru/assets/images/import_image/611.jpg",
+  "modx_id": 611,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

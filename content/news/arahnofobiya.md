@@ -1,6 +1,6 @@
 {
   "title": "Арахнофобия",
-  "date": "2011-02-11T06:24:00+03:00",
+  "date": "2011-02-11T06:24:04+03:00",
   "url": "/news/arahnofobiya/",
   "original_url": "http://spidermedia.ru/news/arahnofobiya",
   "archived": "https://web.archive.org/web/20250121010152/http://spidermedia.ru/news/arahnofobiya",
@@ -9,6 +9,12 @@
     "kris-jost",
     "marvel",
     "majk-makkon"
+  ],
+  "cover": "https://web.archive.org/web/20250121010152im_/http://spidermedia.ru/assets/images/import_image/3319.jpg",
+  "modx_id": 3319,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

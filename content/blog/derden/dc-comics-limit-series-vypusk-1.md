@@ -1,7 +1,10 @@
 {
   "title": "DC Comics. Limit Series. Выпуск 1",
-  "date": "2009-09-30T11:53:00+03:00",
+  "date": "2009-09-30T10:53:24+03:00",
   "url": "/blog/derden/dc-comics-limit-series-vypusk-1/",
+  "aliases": [
+    "/node/1946/"
+  ],
   "original_url": "https://spidermedia.ru/blog/derden/dc-comics-limit-series-vypusk-1",
   "archived": "https://web.archive.org/web/20241106090116/https://spidermedia.ru/blog/derden/dc-comics-limit-series-vypusk-1",
   "tags": [
@@ -15,6 +18,12 @@
     "dc-comics",
     "zhenshhina-koshka",
     "batman"
+  ],
+  "cover": "https://web.archive.org/web/20241106090116im_/http://spidermedia.ru/assets/images/import_image/1946.jpg",
+  "modx_id": 1946,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

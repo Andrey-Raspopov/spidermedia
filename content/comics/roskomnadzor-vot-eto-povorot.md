@@ -9,6 +9,12 @@
     "roskomnadzor",
     "russian-comics"
   ],
+  "cover": "https://web.archive.org/web/20240105103034im_/http://spidermedia.ru/assets/images/roskomnadzor/11072015/0.jpg",
+  "modx_id": 100353,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

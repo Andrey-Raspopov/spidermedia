@@ -1,7 +1,10 @@
 {
   "title": "Ultimate Universe: Конец!",
-  "date": "2009-07-15T22:43:00+03:00",
+  "date": "2009-07-15T21:43:31+03:00",
   "url": "/news/ultimate-universe-konec/",
+  "aliases": [
+    "/node/1563/"
+  ],
   "original_url": "http://spidermedia.ru/news/ultimate-universe-konec",
   "archived": "https://web.archive.org/web/20120512062800/http://spidermedia.ru/news/ultimate-universe-konec",
   "tags": [
@@ -11,7 +14,13 @@
     "dzhef-loeb",
     "komiksy",
     "marvel",
-    "ugadayka"
+    "ugadayka",
+    "ugadajka"
+  ],
+  "modx_id": 1563,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"
@@ -23,6 +32,6 @@
 
 **UPD:** В комментариях к новости внимательные фанаты напомнили о другом тизере **Marvel**, касающемся **Росомахи**. Его вы видите ниже. А теперь сравните надписи на самих тизерах.
 
-[![](https://web.archive.org/web/20120512062800im_/http://i.livescience.com/images/v-TheEnd_Promo.jpg)](../../node/1476/)
+[![](https://web.archive.org/web/20120512062800im_/http://i.livescience.com/images/v-TheEnd_Promo.jpg)](../sluhi-kolonka-7/)
 
 Поделиться:

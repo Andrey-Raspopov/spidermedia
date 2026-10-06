@@ -7,6 +7,12 @@
   "tags": [
     "gamermedia"
   ],
+  "cover": "https://web.archive.org/web/20180201150624im_/http://spidermedia.ru/assets/images/games/igromir2016/igromir-mediya2.png",
+  "modx_id": 101377,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

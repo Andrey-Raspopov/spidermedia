@@ -1,7 +1,10 @@
 {
   "title": "X-Position: Надежда уже близко",
-  "date": "2009-11-12T01:05:00+03:00",
+  "date": "2009-11-12T01:05:55+03:00",
   "url": "/news/x-position-nadezhda-uzhe-blizko/",
+  "aliases": [
+    "/node/2084/"
+  ],
   "original_url": "http://spidermedia.ru/news/x-position-nadezhda-uzhe-blizko",
   "archived": "https://web.archive.org/web/20251207093555/http://spidermedia.ru/news/x-position-nadezhda-uzhe-blizko",
   "tags": [
@@ -13,13 +16,19 @@
     "hope",
     "duane-swierczynski",
     "cable",
-    "nation-x"
+    "nation-x",
+    "lyudi-iks"
+  ],
+  "modx_id": 2084,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[**Второе Пришествие**](../../node/1992/) *(Second Coming)* уже близко, и пока авторы основных икс-тайтлов только начинают потихоньку подводить свои линии к основному эвенту, серия **Cable** выходит на финишную прямую. По сему случаю, редактор из икс-офиса, **Ник Лоу** *(Nick Lowe)*, ответил на несколько вопросов из еженедельной рубрики **X-Position**, в то время как автор серии Cable, **Дуэйн Сверчински** *(Duane Swierczynski)*, рассказал, что нас ждёт в заключительном арке **Homecoming**.
+[**Второе Пришествие**](../vtoroe-prishestvie/) *(Second Coming)* уже близко, и пока авторы основных икс-тайтлов только начинают потихоньку подводить свои линии к основному эвенту, серия **Cable** выходит на финишную прямую. По сему случаю, редактор из икс-офиса, **Ник Лоу** *(Nick Lowe)*, ответил на несколько вопросов из еженедельной рубрики **X-Position**, в то время как автор серии Cable, **Дуэйн Сверчински** *(Duane Swierczynski)*, рассказал, что нас ждёт в заключительном арке **Homecoming**.
 ![](https://web.archive.org/web/20251207093555im_/http://img109.imageshack.us/img109/4236/1257892233.jpg)
 **Venom T-Rex** прямиком из **Старика Логана** *(Old Man Logan)*
 

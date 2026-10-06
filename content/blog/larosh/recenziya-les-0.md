@@ -1,6 +1,6 @@
 {
   "title": "РЕЦЕНЗИЯ: «Лес»",
-  "date": "2015-03-06T11:16:00+03:00",
+  "date": "2015-03-06T11:16:51+03:00",
   "url": "/blog/larosh/recenziya-les-0/",
   "original_url": "https://spidermedia.ru/blog/larosh/recenziya-les-0",
   "archived": "https://web.archive.org/web/20250909135000/https://spidermedia.ru/blog/larosh/recenziya-les-0",
@@ -9,6 +9,12 @@
     "boomkniga",
     "recenziya",
     "russian-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150315183752im_/http://spidermedia.ru/assets/images/import_image/8675.jpg",
+  "modx_id": 8675,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

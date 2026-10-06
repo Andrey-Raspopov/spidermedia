@@ -7,6 +7,12 @@
   "tags": [
     "dc-comics"
   ],
+  "cover": "https://web.archive.org/web/20160611082919im_/http://spidermedia.ru/assets/images/valiant/images/dc-legends-of-tomorrow/dc-legends-of-tomorrow-pilot-cover.png",
+  "modx_id": 100870,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

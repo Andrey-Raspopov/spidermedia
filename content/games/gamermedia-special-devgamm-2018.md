@@ -4,6 +4,12 @@
   "url": "/games/gamermedia-special-devgamm-2018/",
   "original_url": "http://spidermedia.ru/games/gamermedia-special-devgamm-2018",
   "archived": "https://web.archive.org/web/20260307052906/http://spidermedia.ru/games/gamermedia-special-devgamm-2018",
+  "cover": "https://web.archive.org/web/20190402103705im_/http://spidermedia.ru/assets/images/games/markus_announce_2.png",
+  "modx_id": 101936,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -7,6 +7,12 @@
   "tags": [
     "nintendo"
   ],
+  "cover": "https://web.archive.org/web/20250909135711im_/http://spidermedia.ru/assets/images/games/y_61445f8996d11.jpg",
+  "modx_id": 102461,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

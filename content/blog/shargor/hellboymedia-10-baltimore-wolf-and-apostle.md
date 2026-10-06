@@ -8,6 +8,12 @@
     "hellboymedia",
     "mnenie"
   ],
+  "cover": "https://web.archive.org/web/20160611085243im_/http://spidermedia.ru/assets/images/hellboymedia/regular/10-baltimore-the-wolf-and-the-apostle/baltimore-the-wolf-and-the-apostle-cover.jpg",
+  "modx_id": 8608,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,6 +1,6 @@
 {
   "title": "Жизнь после Бендиса",
-  "date": "2012-08-11T06:51:00+03:00",
+  "date": "2012-08-11T05:51:48+03:00",
   "url": "/news/zhizn-posle-bendisa/",
   "original_url": "http://spidermedia.ru/news/zhizn-posle-bendisa",
   "archived": "https://web.archive.org/web/20260120151332/http://spidermedia.ru/news/zhizn-posle-bendisa",
@@ -9,6 +9,12 @@
     "stefano-kaselli",
     "avengers",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150326221300im_/http://spidermedia.ru/assets/images/import_image/7003.jpg",
+  "modx_id": 7003,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

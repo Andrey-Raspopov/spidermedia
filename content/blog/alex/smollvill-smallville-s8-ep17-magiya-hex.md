@@ -1,6 +1,6 @@
 {
   "title": "Смоллвилль\\Smallville s8 ep.17 - \"Магия\"\\\"Hex\"",
-  "date": "2009-04-03T14:28:00+03:00",
+  "date": "2009-04-03T13:28:30+03:00",
   "url": "/blog/alex/smollvill-smallville-s8-ep17-magiya-hex/",
   "original_url": "https://spidermedia.ru/blog/alex/smollvill-smallville-s8-ep17-magiya-hex",
   "archived": "https://web.archive.org/web/20260312003840/https://spidermedia.ru/blog/alex/smollvill-smallville-s8-ep17-magiya-hex",
@@ -9,7 +9,14 @@
     "serialy",
     "superman",
     "smollvill",
-    "tajny-smollvillya"
+    "tajny-smollvillya",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20260312003840im_/http://spidermedia.ru/assets/images/import_image/836.png",
+  "modx_id": 836,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

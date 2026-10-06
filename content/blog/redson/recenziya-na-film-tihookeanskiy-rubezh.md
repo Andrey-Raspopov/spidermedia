@@ -1,6 +1,6 @@
 {
   "title": "Рецензия на фильм “Тихоокеанский рубеж”",
-  "date": "2013-07-12T15:58:00+03:00",
+  "date": "2013-07-12T14:58:19+03:00",
   "url": "/blog/redson/recenziya-na-film-tihookeanskiy-rubezh/",
   "original_url": "http://spidermedia.ru/blog/redson/recenziya-na-film-tihookeanskiy-rubezh",
   "archived": "https://web.archive.org/web/20140824020313/http://spidermedia.ru:80/blog/redson/recenziya-na-film-tihookeanskiy-rubezh",
@@ -8,6 +8,12 @@
     "gilermo-del-toro",
     "movie",
     "mnenie"
+  ],
+  "cover": "https://web.archive.org/web/20140824020313im_/http://spidermedia.ru/assets/images/import_image/7319.jpg",
+  "modx_id": 7319,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

@@ -14,6 +14,12 @@
     "skott-snajder",
     "superman"
   ],
+  "cover": "https://web.archive.org/web/20260123082911im_/http://spidermedia.ru/assets/images/reviews/dc/superman/action-comics/1000/mzk.jpg",
+  "modx_id": 101894,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

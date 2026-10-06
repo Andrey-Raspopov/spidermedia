@@ -1,7 +1,10 @@
 {
   "title": "Harder, better, faster, stronger",
-  "date": "2010-01-14T21:10:00+03:00",
+  "date": "2010-01-14T21:10:50+03:00",
   "url": "/news/harder-better-faster-stronger/",
+  "aliases": [
+    "/node/2232/"
+  ],
   "original_url": "https://spidermedia.ru/news/harder-better-faster-stronger",
   "archived": "https://web.archive.org/web/20251116054840/https://spidermedia.ru/news/harder-better-faster-stronger",
   "tags": [
@@ -9,7 +12,17 @@
     "preview",
     "matt-fraction",
     "marvel",
-    "iron-man"
+    "iron-man",
+    "prevyu",
+    "mett-frakshen",
+    "zheleznyy-chelovek",
+    "invincible-iron-man"
+  ],
+  "cover": "https://web.archive.org/web/20251116054840im_/http://spidermedia.ru/assets/images/import_image/2232.jpg",
+  "modx_id": 2232,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,14 +1,24 @@
 {
   "title": "Heroes 3.25 An Invisible Thread - Season Finale",
-  "date": "2009-05-04T16:49:00+03:00",
+  "date": "2009-05-04T15:49:16+03:00",
   "url": "/blog/red-hulk/heroes-325-invisible-thread-season-finale/",
+  "aliases": [
+    "/node/1093/"
+  ],
   "original_url": "http://spidermedia.ru/blog/red-hulk/heroes-325-invisible-thread-season-finale",
   "archived": "https://web.archive.org/web/20150508010002/http://spidermedia.ru/blog/red-hulk/heroes-325-invisible-thread-season-finale",
   "tags": [
     "mnenie",
     "heroes",
     "serialy",
-    "geroi"
+    "geroi",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20150508010002im_/http://spidermedia.ru/assets/images/import_image/1093.jpg",
+  "modx_id": 1093,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

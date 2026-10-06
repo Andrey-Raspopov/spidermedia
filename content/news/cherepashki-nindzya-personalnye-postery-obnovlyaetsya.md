@@ -1,12 +1,18 @@
 {
   "title": "\"Черепашки-Ниндзя\": Персональные постеры и новый трейлер",
-  "date": "2014-06-24T18:48:00+03:00",
+  "date": "2014-06-24T17:48:13+03:00",
   "url": "/news/cherepashki-nindzya-personalnye-postery-obnovlyaetsya/",
   "original_url": "https://spidermedia.ru/news/cherepashki-nindzya-personalnye-postery-obnovlyaetsya",
   "archived": "https://web.archive.org/web/20250617234422/https://spidermedia.ru/news/cherepashki-nindzya-personalnye-postery-obnovlyaetsya",
   "tags": [
     "ninja-turtles",
     "postery"
+  ],
+  "cover": "https://web.archive.org/web/20150503101932im_/http://spidermedia.ru/assets/images/import_image/7834.jpg",
+  "modx_id": 7834,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

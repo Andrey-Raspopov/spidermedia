@@ -4,6 +4,12 @@
   "url": "/games/prevyu-final-fantasy-xv/",
   "original_url": "http://spidermedia.ru/games/prevyu-final-fantasy-xv",
   "archived": "https://web.archive.org/web/20260120143656/http://spidermedia.ru/games/prevyu-final-fantasy-xv",
+  "cover": "https://web.archive.org/web/20260120143656im_/http://spidermedia.ru/assets/images/games/prev-final-fantasy-xv/screenshot122.png",
+  "modx_id": 101319,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

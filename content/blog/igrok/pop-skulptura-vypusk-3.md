@@ -1,6 +1,6 @@
 {
   "title": "Поп-скульптура. Выпуск 3",
-  "date": "2013-07-30T17:38:00+03:00",
+  "date": "2013-07-30T16:38:41+03:00",
   "url": "/blog/igrok/pop-skulptura-vypusk-3/",
   "original_url": "https://spidermedia.ru/blog/igrok/pop-skulptura-vypusk-3",
   "archived": "https://web.archive.org/web/20250806054808/https://spidermedia.ru/blog/igrok/pop-skulptura-vypusk-3",
@@ -8,6 +8,12 @@
     "figurki",
     "pop-skulptura",
     "san-diego-comic-con-international"
+  ],
+  "cover": "https://web.archive.org/web/20150326221436im_/http://spidermedia.ru/assets/images/import_image/7387.jpg",
+  "modx_id": 7387,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Tim Seeley’s Hack/Slash",
-  "date": "2009-02-14T13:22:00+03:00",
+  "date": "2009-02-14T13:22:35+03:00",
   "url": "/news/tim-seeleys-hack-slash/",
   "original_url": "http://spidermedia.ru/news/tim-seeleys-hack-slash",
   "archived": "https://web.archive.org/web/20250210073307/http://spidermedia.ru/news/tim-seeleys-hack-slash",
@@ -8,7 +8,14 @@
     "art-0",
     "tim-sili",
     "devils-due-publishing",
-    "emili-stoun"
+    "emili-stoun",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20250210073307im_/http://spidermedia.ru/assets/images/import_image/359.jpg",
+  "modx_id": 359,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

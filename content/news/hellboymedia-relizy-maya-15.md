@@ -1,11 +1,17 @@
 {
   "title": "Hellboymedia: Анонсы на Май ’15",
-  "date": "2015-02-17T11:16:00+03:00",
+  "date": "2015-02-17T11:16:56+03:00",
   "url": "/news/hellboymedia-relizy-maya-15/",
   "original_url": "https://spidermedia.ru/news/hellboymedia-relizy-maya-15",
   "archived": "https://web.archive.org/web/20251209135816/https://spidermedia.ru/news/hellboymedia-relizy-maya-15",
   "tags": [
     "hellboymedia"
+  ],
+  "cover": "https://web.archive.org/web/20160611214900im_/http://spidermedia.ru/assets/images/hellboymedia/solicitations/15-05-may/may-15-solicitations-cover.jpg",
+  "modx_id": 8623,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

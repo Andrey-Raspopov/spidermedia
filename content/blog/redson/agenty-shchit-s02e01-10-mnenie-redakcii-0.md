@@ -1,6 +1,6 @@
 {
   "title": "«Агенты \"Щ.И.Т.\"» s02e01-10: мнение редакции",
-  "date": "2014-12-17T11:13:00+03:00",
+  "date": "2014-12-17T11:13:24+03:00",
   "url": "/blog/redson/agenty-shchit-s02e01-10-mnenie-redakcii-0/",
   "original_url": "https://spidermedia.ru/blog/redson/agenty-shchit-s02e01-10-mnenie-redakcii-0",
   "archived": "https://web.archive.org/web/20260314082324/https://spidermedia.ru/blog/redson/agenty-shchit-s02e01-10-mnenie-redakcii-0",
@@ -8,7 +8,14 @@
     "serialy",
     "obzor",
     "marvel",
-    "agenty-shhita"
+    "agenty-shhita",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20150327025135im_/http://spidermedia.ru/assets/images/import_image/8393.jpg",
+  "modx_id": 8393,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

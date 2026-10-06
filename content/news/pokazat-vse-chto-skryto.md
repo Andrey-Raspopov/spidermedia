@@ -1,11 +1,17 @@
 {
   "title": "Показать все, что скрыто",
-  "date": "2009-07-24T14:50:00+03:00",
+  "date": "2009-07-24T13:50:13+03:00",
   "url": "/news/pokazat-vse-chto-skryto/",
   "original_url": "http://spidermedia.ru/news/pokazat-vse-chto-skryto",
   "archived": "https://web.archive.org/web/20260125131903/http://spidermedia.ru/news/pokazat-vse-chto-skryto",
   "tags": [
     "idw-publishing"
+  ],
+  "cover": "https://web.archive.org/web/20260125131903im_/http://spidermedia.ru/assets/images/import_image/1638.jpg",
+  "modx_id": 1638,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

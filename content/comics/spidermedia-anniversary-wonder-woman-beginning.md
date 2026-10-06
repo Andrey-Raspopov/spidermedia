@@ -9,6 +9,12 @@
     "dc-comics",
     "wonder-woman"
   ],
+  "cover": "https://web.archive.org/web/20251021224526im_/https://spidermedia.ru/assets/images/spidermedia-anniversary/12-wonder-woman/wwm.jpg",
+  "modx_id": 101464,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

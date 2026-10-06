@@ -1,6 +1,6 @@
 {
   "title": "Превью New Avengers: The Reunion #3",
-  "date": "2009-05-02T20:42:00+03:00",
+  "date": "2009-05-02T19:42:40+03:00",
   "url": "/news/prevyu-new-avengers-reunion-3/",
   "original_url": "http://spidermedia.ru/news/prevyu-new-avengers-reunion-3",
   "archived": "https://web.archive.org/web/20250318063754/http://spidermedia.ru/news/prevyu-new-avengers-reunion-3",
@@ -10,7 +10,13 @@
     "ronin",
     "mockingbird",
     "peresmeshnica",
-    "dzhim-makkenn"
+    "dzhim-makkenn",
+    "prevyu"
+  ],
+  "modx_id": 1083,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

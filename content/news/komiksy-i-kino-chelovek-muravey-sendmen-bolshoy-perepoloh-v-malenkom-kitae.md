@@ -1,6 +1,6 @@
 {
   "title": "Комиксы и Кино: \"Человек-Муравей\", \"Сэндмен\", \"Большой переполох в маленьком Китае\"",
-  "date": "2014-02-28T11:07:00+03:00",
+  "date": "2014-02-28T10:07:31+03:00",
   "url": "/news/komiksy-i-kino-chelovek-muravey-sendmen-bolshoy-perepoloh-v-malenkom-kitae/",
   "original_url": "http://spidermedia.ru/news/komiksy-i-kino-chelovek-muravey-sendmen-bolshoy-perepoloh-v-malenkom-kitae",
   "archived": "https://web.archive.org/web/20260115044305/http://spidermedia.ru/news/komiksy-i-kino-chelovek-muravey-sendmen-bolshoy-perepoloh-v-malenkom-kitae",
@@ -11,6 +11,12 @@
     "vertigo",
     "boom-studios",
     "digest"
+  ],
+  "cover": "https://web.archive.org/web/20150422210502im_/http://spidermedia.ru/assets/images/import_image/7662.jpg",
+  "modx_id": 7662,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,12 +1,18 @@
 {
   "title": "Punisher is back",
-  "date": "2012-07-16T13:34:00+03:00",
+  "date": "2012-07-16T12:34:17+03:00",
   "url": "/news/punisher-back/",
   "original_url": "http://spidermedia.ru/news/punisher-back",
   "archived": "https://web.archive.org/web/20250913015018/http://spidermedia.ru/news/punisher-back",
   "tags": [
     "punisher",
     "adi-shankar"
+  ],
+  "cover": "https://web.archive.org/web/20150502161804im_/http://spidermedia.ru/assets/images/import_image/6980.jpg",
+  "modx_id": 6980,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

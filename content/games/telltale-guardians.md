@@ -8,6 +8,12 @@
     "marvel",
     "guardians-of-the-galaxy"
   ],
+  "cover": "https://web.archive.org/web/20170908062519im_/http://spidermedia.ru/assets/images/games/gotgtt.jpg",
+  "modx_id": 101426,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

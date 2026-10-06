@@ -1,7 +1,10 @@
 {
   "title": "ДД Нуар: Другие времена, привычные методы.",
-  "date": "2009-02-27T02:34:00+03:00",
+  "date": "2009-02-27T02:34:28+03:00",
   "url": "/news/dd-nuar-drugie-vremena-privychnye-metody/",
+  "aliases": [
+    "/node/528/"
+  ],
   "original_url": "http://spidermedia.ru/news/dd-nuar-drugie-vremena-privychnye-metody",
   "archived": "https://web.archive.org/web/20200217104713/http://spidermedia.ru:80/news/dd-nuar-drugie-vremena-privychnye-metody",
   "tags": [
@@ -9,7 +12,14 @@
     "art-0",
     "noirverse",
     "marvel",
-    "daredevil"
+    "daredevil",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20200217104713im_/http://spidermedia.ru/assets/images/import_image/528.jpg",
+  "modx_id": 528,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
@@ -19,7 +29,7 @@
 
 Мы уже не раз писали о предстоящей серии **Daredevil Noir** из 4 номеров.
 
-Показывали первое [арт-превью](../../node/406/), представляли [вариантные обложки](http://spidermedia.ru/comment/reply/490#comment-form) первого номера.
+Показывали первое [арт-превью](../brutalnye-30-ye-cherep-dyavol-kogti/), представляли [вариантные обложки](http://spidermedia.ru/comment/reply/490#comment-form) первого номера.
 
 Ко всему этому добавляется совершенно новая страничка из дебютного номера:
 

@@ -1,6 +1,6 @@
 {
   "title": "Мистер Зелёный Крестоносец",
-  "date": "2009-11-07T15:50:00+03:00",
+  "date": "2009-11-07T15:50:28+03:00",
   "url": "/blog/gess/mister-zelyonyy-krestonosec/",
   "original_url": "http://spidermedia.ru/blog/gess/mister-zelyonyy-krestonosec",
   "archived": "https://web.archive.org/web/20241004024446/http://spidermedia.ru/blog/gess/mister-zelyonyy-krestonosec",
@@ -8,6 +8,11 @@
     "kris-ueston",
     "thargs-future-shocks",
     "2000-ad"
+  ],
+  "modx_id": 2072,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

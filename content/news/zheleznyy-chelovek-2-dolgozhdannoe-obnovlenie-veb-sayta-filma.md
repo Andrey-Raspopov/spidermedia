@@ -1,6 +1,6 @@
 {
   "title": "\"Железный Человек 2\": Долгожданное обновление веб-сайта фильма",
-  "date": "2010-04-02T01:36:00+03:00",
+  "date": "2010-04-02T00:36:00+03:00",
   "url": "/news/zheleznyy-chelovek-2-dolgozhdannoe-obnovlenie-veb-sayta-filma/",
   "original_url": "http://spidermedia.ru/news/zheleznyy-chelovek-2-dolgozhdannoe-obnovlenie-veb-sayta-filma",
   "archived": "https://web.archive.org/web/20251206031253/http://spidermedia.ru/news/zheleznyy-chelovek-2-dolgozhdannoe-obnovlenie-veb-sayta-filma",
@@ -9,7 +9,15 @@
     "marvel",
     "art-0",
     "dzhon-favro",
-    "postery"
+    "postery",
+    "zheleznyy-chelovek",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20251206031253im_/http://spidermedia.ru/assets/images/import_image/2497.jpg",
+  "modx_id": 2497,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

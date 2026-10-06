@@ -1,6 +1,6 @@
 {
   "title": "Milestone Unchained",
-  "date": "2015-01-22T05:45:00+03:00",
+  "date": "2015-01-22T05:45:24+03:00",
   "url": "/news/milestone-unchained/",
   "original_url": "http://spidermedia.ru/news/milestone-unchained",
   "archived": "https://web.archive.org/web/20150320030003/http://spidermedia.ru/news/milestone-unchained",
@@ -8,6 +8,12 @@
     "redzhinald-hadlin",
     "denis-kovan",
     "milestone"
+  ],
+  "cover": "https://web.archive.org/web/20150326124953im_/http://spidermedia.ru/assets/images/import_image/8528.jpg",
+  "modx_id": 8528,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

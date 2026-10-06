@@ -8,6 +8,12 @@
     "dc-comics",
     "wonder-woman"
   ],
+  "cover": "https://web.archive.org/web/20160618190629im_/http://spidermedia.ru/assets/images/movies/dc/batman-v-superman-dawn-of-justice-2016/sdcc2015trailer/batman-v-superman-san-diego-comic-con-2015-trailer-21.jpg",
+  "modx_id": 100532,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

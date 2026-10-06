@@ -1,13 +1,21 @@
 {
   "title": "рецензия - Ronin",
-  "date": "2009-04-15T22:15:00+03:00",
+  "date": "2009-04-15T21:15:08+03:00",
   "url": "/blog/bastion7/recenziya-ronin/",
+  "aliases": [
+    "/node/944/"
+  ],
   "original_url": "http://spidermedia.ru/blog/bastion7/recenziya-ronin",
   "archived": "https://web.archive.org/web/20200223125527/http://spidermedia.ru:80/blog/bastion7/recenziya-ronin",
   "tags": [
     "dc-comics",
     "recenziya",
     "frenk-miller"
+  ],
+  "modx_id": 944,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

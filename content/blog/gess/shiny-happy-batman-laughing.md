@@ -1,12 +1,20 @@
 {
   "title": "Shiny Happy Batman Laughing",
-  "date": "2009-10-05T19:12:00+03:00",
+  "date": "2009-10-05T18:12:40+03:00",
   "url": "/blog/gess/shiny-happy-batman-laughing/",
+  "aliases": [
+    "/node/1970/"
+  ],
   "original_url": "https://spidermedia.ru/blog/gess/shiny-happy-batman-laughing",
   "archived": "https://web.archive.org/web/20260125053047/https://spidermedia.ru/blog/gess/shiny-happy-batman-laughing",
   "tags": [
     "batman",
     "muzyka"
+  ],
+  "modx_id": 1970,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -4,6 +4,12 @@
   "url": "/games/playstation-experience-2016-anonsy-trejlery-i-podrobnosti-proektov/",
   "original_url": "http://spidermedia.ru/games/playstation-experience-2016-anonsy-trejlery-i-podrobnosti-proektov",
   "archived": "https://web.archive.org/web/20250519173429/http://spidermedia.ru/games/playstation-experience-2016-anonsy-trejlery-i-podrobnosti-proektov",
+  "cover": "https://web.archive.org/web/20170909213827im_/http://spidermedia.ru/assets/images/games/psx2016/30603314700_6f1fc0b2b3_b.jpg",
+  "modx_id": 101433,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

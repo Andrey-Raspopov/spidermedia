@@ -1,11 +1,20 @@
 {
   "title": "The Dark Knight: 1960s Version",
-  "date": "2009-06-07T00:19:00+03:00",
+  "date": "2009-06-06T23:19:48+03:00",
   "url": "/blog/sonyn/dark-knight-1960s-version/",
+  "aliases": [
+    "/node/1371/"
+  ],
   "original_url": "http://spidermedia.ru/blog/sonyn/dark-knight-1960s-version",
   "archived": "https://web.archive.org/web/20120718103410/http://spidermedia.ru/blog/sonyn/dark-knight-1960s-version",
   "tags": [
     "batman"
+  ],
+  "cover": "https://web.archive.org/web/20120718103410im_/http://spidermedia.ru/assets/images/import_image/1371.jpg",
+  "modx_id": 1371,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

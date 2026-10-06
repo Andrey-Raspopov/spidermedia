@@ -1,7 +1,10 @@
 {
   "title": "Супермен здесь больше не живет",
-  "date": "2009-02-27T14:56:00+03:00",
+  "date": "2009-02-27T14:56:42+03:00",
   "url": "/news/supermen-zdes-bolshe-ne-zhivet/",
+  "aliases": [
+    "/node/531/"
+  ],
   "original_url": "http://spidermedia.ru/news/supermen-zdes-bolshe-ne-zhivet",
   "archived": "https://web.archive.org/web/20260305234209/http://spidermedia.ru/news/supermen-zdes-bolshe-ne-zhivet",
   "tags": [
@@ -11,6 +14,12 @@
     "superman",
     "new-krypton",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20260305234209im_/http://spidermedia.ru/assets/images/import_image/531.jpg",
+  "modx_id": 531,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

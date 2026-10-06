@@ -8,6 +8,12 @@
     "best-column-about-comics",
     "mnenie"
   ],
+  "cover": "https://web.archive.org/web/20210827123727im_/https://spidermedia.ru/assets/images/best-column-about-comics/10-universe/universe-cover.jpg",
+  "modx_id": 101477,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

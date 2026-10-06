@@ -1,7 +1,10 @@
 {
   "title": "Nation X",
-  "date": "2009-07-25T01:06:00+03:00",
+  "date": "2009-07-25T00:06:31+03:00",
   "url": "/blog/shargor/nation-x/",
+  "aliases": [
+    "/node/1647/"
+  ],
   "original_url": "https://spidermedia.ru/blog/shargor/nation-x",
   "archived": "https://web.archive.org/web/20260314080316/https://spidermedia.ru/blog/shargor/nation-x",
   "tags": [
@@ -14,7 +17,15 @@
     "marvel",
     "magneto",
     "greg-land",
-    "nation-x"
+    "nation-x",
+    "mett-frakshen",
+    "lyudi-iks",
+    "uncanny-x-men"
+  ],
+  "modx_id": 1647,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

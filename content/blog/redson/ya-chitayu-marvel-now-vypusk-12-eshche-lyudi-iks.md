@@ -1,13 +1,20 @@
 {
   "title": "Я читаю Marvel NOW! Выпуск 1.2: Еще Люди Икс",
-  "date": "2013-04-15T12:51:00+03:00",
+  "date": "2013-04-15T11:51:31+03:00",
   "url": "/blog/redson/ya-chitayu-marvel-now-vypusk-12-eshche-lyudi-iks/",
   "original_url": "http://spidermedia.ru/blog/redson/ya-chitayu-marvel-now-vypusk-12-eshche-lyudi-iks",
   "archived": "https://web.archive.org/web/20200127175424/http://spidermedia.ru:80/blog/redson/ya-chitayu-marvel-now-vypusk-12-eshche-lyudi-iks",
   "tags": [
     "mnenie",
     "x-men",
-    "marvel"
+    "marvel",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20200127175424im_/http://spidermedia.ru/assets/images/import_image/7201.jpg",
+  "modx_id": 7201,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

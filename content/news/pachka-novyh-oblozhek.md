@@ -1,7 +1,10 @@
 {
   "title": "Пачка новых обложек",
-  "date": "2009-09-18T02:06:00+03:00",
+  "date": "2009-09-18T01:06:51+03:00",
   "url": "/news/pachka-novyh-oblozhek/",
+  "aliases": [
+    "/node/1908/"
+  ],
   "original_url": "http://spidermedia.ru/news/pachka-novyh-oblozhek",
   "archived": "https://web.archive.org/web/20251115190920/http://spidermedia.ru/news/pachka-novyh-oblozhek",
   "tags": [
@@ -17,6 +20,11 @@
     "dc-comics",
     "batman",
     "endi-kubert"
+  ],
+  "modx_id": 1908,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

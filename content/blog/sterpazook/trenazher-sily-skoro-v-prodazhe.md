@@ -1,6 +1,6 @@
 {
   "title": "Тренажер Силы - скоро в продаже!",
-  "date": "2009-03-26T12:49:00+03:00",
+  "date": "2009-03-26T12:49:09+03:00",
   "url": "/blog/sterpazook/trenazher-sily-skoro-v-prodazhe/",
   "original_url": "https://spidermedia.ru/blog/sterpazook/trenazher-sily-skoro-v-prodazhe",
   "archived": "https://web.archive.org/web/20251213191741/https://spidermedia.ru/blog/sterpazook/trenazher-sily-skoro-v-prodazhe",
@@ -10,6 +10,12 @@
     "science",
     "zvezdnye-vojny",
     "igrushki"
+  ],
+  "cover": "https://web.archive.org/web/20251213191741im_/http://spidermedia.ru/assets/images/import_image/772.jpg",
+  "modx_id": 772,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

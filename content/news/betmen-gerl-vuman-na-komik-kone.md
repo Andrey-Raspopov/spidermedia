@@ -1,7 +1,10 @@
 {
   "title": "Бэтмен/герл/вуман на Комик-Коне",
-  "date": "2009-07-25T01:16:00+03:00",
+  "date": "2009-07-25T00:16:53+03:00",
   "url": "/news/betmen-gerl-vuman-na-komik-kone/",
+  "aliases": [
+    "/node/1648/"
+  ],
   "original_url": "http://spidermedia.ru/news/betmen-gerl-vuman-na-komik-kone",
   "archived": "https://web.archive.org/web/20251207094208/http://spidermedia.ru/news/betmen-gerl-vuman-na-komik-kone",
   "tags": [
@@ -13,6 +16,12 @@
     "paul-dini",
     "jock",
     "batman"
+  ],
+  "cover": "https://web.archive.org/web/20251207094208im_/http://spidermedia.ru/assets/images/import_image/1648.jpg",
+  "modx_id": 1648,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,14 +1,24 @@
 {
   "title": "Avengers Assemble! - апрель 2010 (Часть II)",
-  "date": "2010-01-22T15:44:00+03:00",
+  "date": "2010-01-22T15:44:34+03:00",
   "url": "/news/avengers-assemble-aprel-2010-chast-ii/",
+  "aliases": [
+    "/node/2296/"
+  ],
   "original_url": "http://spidermedia.ru/news/avengers-assemble-aprel-2010-chast-ii",
   "archived": "https://web.archive.org/web/20250709065107/http://spidermedia.ru/news/avengers-assemble-aprel-2010-chast-ii",
   "tags": [
     "preview",
     "siege",
     "marvel",
-    "avengers"
+    "avengers",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20250709065107im_/http://spidermedia.ru/assets/images/import_image/2296.jpg",
+  "modx_id": 2296,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
@@ -19,7 +29,7 @@
 
 |  |  |
 | --- | --- |
-| [Photobucket](http://i590.photobucket.com/albums/ss343/IrOnPaTrIoT/1263403706.jpg) | Avengers: The Origin #1 Сценарист: **Джо Кейси** *(Joe Casey)* Художник: **Фил Ното** *(Phil Noto)* Обложка: **Фил Ното** *(Phil Noto)* Данная история расскажет о первой встрече Мстителей. Подробнее о сюжете [здесь](../../node/2265/). |
+| [Photobucket](http://i590.photobucket.com/albums/ss343/IrOnPaTrIoT/1263403706.jpg) | Avengers: The Origin #1 Сценарист: **Джо Кейси** *(Joe Casey)* Художник: **Фил Ното** *(Phil Noto)* Обложка: **Фил Ното** *(Phil Noto)* Данная история расскажет о первой встрече Мстителей. Подробнее о сюжете [здесь](../keysi-i-ego-mstiteli/). |
 | [Photobucket](http://i590.photobucket.com/albums/ss343/IrOnPaTrIoT/69026comic_storystory_full-3397150.jpg) | Iron Man: Legacy #1 Сценарист: Фред Ван Ленте *(Fred Van Lente)* Художник: Стив Курт *(Steve Kurth)* Обложка: Френсис Тсай (Francis Tsai) Вариант обложки: Райан Меинердинг (Ryan Meinerding), [Сальвадор Ларрока (Salvador Larroca)](http://i590.photobucket.com/albums/ss343/IrOnPaTrIoT/51_IRON_MAN__LEGACY_1.jpg) Самые худшие опасения Тони Старка (Tony Stark/Iron Man) станут явью после того, как технология Железного Человека попадёт в руки, пострадавшей от войны стране, Трансии (Transia - вымышленная страна, существующая на Земле-616). Тони бросает вызов правительству США и решает лично расправиться с бронированными убийцами, тем самым вовлекая себя, свою жизнь, свою компанию и своих друзей в международный конфликт, в котором окажутся замешаны Россия и Китай. Железному Человеку предстоит столкнуться с **Радиоактивным Человеком** *(Radioactive Man)*, **Титановым Человеком** *(Titanium Man)* и **Красным Динамо** *(Crimson Dynamo)*. А также: шокирующее появление одного из старых врагов Старка на последней странице данного выпуска. |
 | [Photobucket](http://i590.photobucket.com/albums/ss343/IrOnPaTrIoT/10_CAPTAIN_AMERICA_605.jpg) | Captain America #605 Сценарист: **Эд Брубейкер** *(Ed Brubaker)* Художник: **Люк Росс** *(Luke Ross)* Обложка: **Джеральд Парел** *(Gerald Parel)* Специальная вариант обложка с Железным Человеком: ??? Последняя схватка Капитана Америки (Captain America) и Кэпа 50-х (the Cap from the 50's) изменит героев навсегда. Ожидается раскрытие нового загадочного врага. |
 | [Photobucket](http://s590.photobucket.com/albums/ss343/IrOnPaTrIoT/?action=view¤t=45_IRON_MAN_1_5_2.jpg) | Iron Man 1.5 #2 Сценаристы: **Джо Кейси** *(Joe Casey)*, Джастин Теру (Justin Theroux) Художник: Берри Китсон (Barry Kitson) Обложка: Брендон Петерсон (Brandon Peterson)  Продолжение истории, связывающей первую и вторую части фильма "Железный Человек". Каждый хочет заполучить технологию Железного Человека, и Тони Старк знает, какой вред может причинить его броня, если она окажется в плохих руках. На пути у Старка встанет один знакомый военный лидер, у которого есть свои планы на этот счёт, и который был тесно связан с прошлым Тони. |

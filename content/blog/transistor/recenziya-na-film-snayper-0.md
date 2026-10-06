@@ -1,11 +1,17 @@
 {
   "title": "Рецензия на фильм «Снайпер»",
-  "date": "2015-03-03T12:33:00+03:00",
+  "date": "2015-03-03T12:33:40+03:00",
   "url": "/blog/transistor/recenziya-na-film-snayper-0/",
   "original_url": "https://spidermedia.ru/blog/transistor/recenziya-na-film-snayper-0",
   "archived": "https://web.archive.org/web/20230327140614/https://spidermedia.ru/blog/transistor/recenziya-na-film-snayper-0",
   "tags": [
     "recenziya"
+  ],
+  "cover": "https://web.archive.org/web/20150315211556im_/http://spidermedia.ru/assets/images/import_image/8666.jpg",
+  "modx_id": 8666,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

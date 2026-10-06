@@ -1,12 +1,18 @@
 {
   "title": "Hellboymedia: Возвращение серии Itty Bitty Hellboy",
-  "date": "2014-10-08T23:33:00+03:00",
+  "date": "2014-10-08T22:33:41+03:00",
   "url": "/news/hellboymedia-news-itty-bitty-hellboy-vernyotsya-v-2015-godu/",
   "original_url": "http://spidermedia.ru/news/hellboymedia-news-itty-bitty-hellboy-vernyotsya-v-2015-godu",
   "archived": "https://web.archive.org/web/20260209105652/http://spidermedia.ru/news/hellboymedia-news-itty-bitty-hellboy-vernyotsya-v-2015-godu",
   "tags": [
     "novosti",
     "hellboymedia"
+  ],
+  "cover": "https://web.archive.org/web/20160611215243im_/http://spidermedia.ru/assets/images/hellboymedia/news/itty-bitty-hellboy-returns/return-of-itty-bitty-hellboy-cover.jpg",
+  "modx_id": 8151,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

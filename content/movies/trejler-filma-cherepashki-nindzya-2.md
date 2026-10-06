@@ -7,6 +7,12 @@
   "tags": [
     "ninja-turtles"
   ],
+  "cover": "https://web.archive.org/web/20251006143919im_/http://spidermedia.ru/assets/images/youtube/HeaugHGd1Kw.jpg",
+  "modx_id": 100757,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

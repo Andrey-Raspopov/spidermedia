@@ -11,6 +11,12 @@
     "wonder-woman",
     "dc-comics"
   ],
+  "cover": "https://web.archive.org/web/20160619101304im_/http://spidermedia.ru/assets/images/movies/dc/batman-v-superman-dawn-of-justice-2016/batman_v_superman_official_character_poster_b_jposters.jpg",
+  "modx_id": 100778,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

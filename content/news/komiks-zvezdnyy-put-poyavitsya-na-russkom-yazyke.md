@@ -1,6 +1,6 @@
 {
   "title": "Комикс «Звездный путь» появится на русском языке",
-  "date": "2014-06-17T23:59:00+03:00",
+  "date": "2014-06-17T22:59:41+03:00",
   "url": "/news/komiks-zvezdnyy-put-poyavitsya-na-russkom-yazyke/",
   "original_url": "http://spidermedia.ru/news/komiks-zvezdnyy-put-poyavitsya-na-russkom-yazyke",
   "archived": "https://web.archive.org/web/20251208073303/http://spidermedia.ru/news/komiks-zvezdnyy-put-poyavitsya-na-russkom-yazyke",
@@ -8,6 +8,12 @@
     "zvezdnyj-put",
     "sudden-dragon",
     "zarubezhnye-komiksy-na-russkom"
+  ],
+  "cover": "https://web.archive.org/web/20251208073303im_/http://spidermedia.ru/assets/images/import_image/7824.jpg",
+  "modx_id": 7824,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

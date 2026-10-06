@@ -1,6 +1,6 @@
 {
   "title": "Морена Баккарин станет возлюбленной Дэдпула",
-  "date": "2015-02-19T00:49:00+03:00",
+  "date": "2015-02-19T00:49:10+03:00",
   "url": "/news/morena-bakkarin-stanet-vozlyublennoy-dedpula/",
   "original_url": "http://spidermedia.ru/news/morena-bakkarin-stanet-vozlyublennoy-dedpula",
   "archived": "https://web.archive.org/web/20260124044326/http://spidermedia.ru/news/morena-bakkarin-stanet-vozlyublennoy-dedpula",
@@ -8,6 +8,12 @@
     "marvel",
     "kasting",
     "deadpool"
+  ],
+  "cover": "https://web.archive.org/web/20150326100127im_/http://spidermedia.ru/assets/images/import_image/8633.jpg",
+  "modx_id": 8633,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

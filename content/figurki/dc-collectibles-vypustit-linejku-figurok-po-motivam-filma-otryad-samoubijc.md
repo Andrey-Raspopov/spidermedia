@@ -8,6 +8,12 @@
     "dc-comics",
     "suicide-squad"
   ],
+  "cover": "https://web.archive.org/web/20160611153309im_/http://spidermedia.ru/assets/images/toys/otryad/cgt8-7zsrng.jpg",
+  "modx_id": 100838,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

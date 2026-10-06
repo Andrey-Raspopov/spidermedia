@@ -1,6 +1,6 @@
 {
   "title": "Автор “Кальвина и Хоббса” нарисовал комикс впервые за 20 лет",
-  "date": "2014-06-09T21:52:00+03:00",
+  "date": "2014-06-09T20:52:47+03:00",
   "url": "/news/avtor-kalvina-i-hobbsa-narisoval-komiks-vpervye-za-20-let/",
   "original_url": "https://spidermedia.ru/news/avtor-kalvina-i-hobbsa-narisoval-komiks-vpervye-za-20-let",
   "archived": "https://web.archive.org/web/20230329030537/https://spidermedia.ru/news/avtor-kalvina-i-hobbsa-narisoval-komiks-vpervye-za-20-let",
@@ -9,6 +9,12 @@
     "kalvin-i-hobbs",
     "biser-pered-svinyami",
     "bill-uotterson"
+  ],
+  "cover": "https://web.archive.org/web/20230329030537im_/http://spidermedia.ru/assets/images/import_image/7786.jpg",
+  "modx_id": 7786,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

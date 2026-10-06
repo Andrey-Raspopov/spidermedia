@@ -1,12 +1,18 @@
 {
   "title": "МЖДЗ: WAY TOO MUCH THINKING ABOUT MY COMICS",
-  "date": "2011-06-27T23:15:00+03:00",
+  "date": "2011-06-27T22:15:10+03:00",
   "url": "/blog/redson/mzhdz-way-too-much-thinking-about-my-comics/",
   "original_url": "http://spidermedia.ru/blog/redson/mzhdz-way-too-much-thinking-about-my-comics",
   "archived": "https://web.archive.org/web/20251108032112/http://spidermedia.ru/blog/redson/mzhdz-way-too-much-thinking-about-my-comics",
   "tags": [
     "mnenie",
     "mzhdz"
+  ],
+  "cover": "https://web.archive.org/web/20160729181123im_/http://spidermedia.ru/assets/images/import_image/6474.png",
+  "modx_id": 6474,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

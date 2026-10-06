@@ -1,13 +1,21 @@
 {
   "title": "[R&R] - Дикий Дикий Запад",
-  "date": "2009-09-21T14:34:00+03:00",
+  "date": "2009-09-21T13:34:19+03:00",
   "url": "/blog/qvall/rr-dikiy-dikiy-zapad/",
+  "aliases": [
+    "/node/1915/"
+  ],
   "original_url": "http://spidermedia.ru/blog/qvall/rr-dikiy-dikiy-zapad",
   "archived": "https://web.archive.org/web/20120609123353/http://spidermedia.ru/blog/qvall/rr-dikiy-dikiy-zapad",
   "tags": [
     "picspam",
     "vertigo",
     "marvel"
+  ],
+  "modx_id": 1915,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

@@ -1,13 +1,23 @@
 {
   "title": "Новый тизер-постер и кадры из фильма \"Люди Икс: Первый Класс\"",
-  "date": "2011-01-20T01:51:00+03:00",
+  "date": "2011-01-20T01:51:53+03:00",
   "url": "/news/novyy-tizer-poster-i-kadry-iz-filma-lyudi-iks-pervyy-klass/",
+  "aliases": [
+    "/node/3180/"
+  ],
   "original_url": "https://spidermedia.ru/news/novyy-tizer-poster-i-kadry-iz-filma-lyudi-iks-pervyy-klass",
   "archived": "https://web.archive.org/web/20260313114622/https://spidermedia.ru/news/novyy-tizer-poster-i-kadry-iz-filma-lyudi-iks-pervyy-klass",
   "tags": [
     "lyudi-iks-pervyj-klass",
     "x-men-first-class",
-    "x-men"
+    "x-men",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20180211040951im_/http://spidermedia.ru/assets/images/import_image/3180.jpg",
+  "modx_id": 3180,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

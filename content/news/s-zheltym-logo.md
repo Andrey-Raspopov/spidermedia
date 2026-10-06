@@ -1,7 +1,10 @@
 {
   "title": "А с желтым лого...",
-  "date": "2009-03-27T03:11:00+03:00",
+  "date": "2009-03-27T02:11:06+03:00",
   "url": "/news/s-zheltym-logo/",
+  "aliases": [
+    "/node/785/"
+  ],
   "original_url": "http://spidermedia.ru/news/s-zheltym-logo",
   "archived": "https://web.archive.org/web/20120610023332/http://spidermedia.ru/news/s-zheltym-logo",
   "tags": [
@@ -11,7 +14,13 @@
     "betmen",
     "komiksy",
     "tim-dreyk",
-    "toni-deniel"
+    "toni-deniel",
+    "tim-drejk"
+  ],
+  "modx_id": 785,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

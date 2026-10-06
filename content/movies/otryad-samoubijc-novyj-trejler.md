@@ -11,6 +11,12 @@
     "joker",
     "harli-kvin"
   ],
+  "cover": "https://web.archive.org/web/20251116065730im_/http://spidermedia.ru/assets/images/movies/dc/suicide-squad-2016/1.jpg",
+  "modx_id": 101079,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

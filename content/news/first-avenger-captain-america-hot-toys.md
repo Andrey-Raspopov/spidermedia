@@ -1,6 +1,6 @@
 {
   "title": "\"Первый мститель\" от Hot Toys",
-  "date": "2011-06-28T12:22:00+03:00",
+  "date": "2011-06-28T11:22:12+03:00",
   "url": "/news/first-avenger-captain-america-hot-toys/",
   "original_url": "https://spidermedia.ru/news/first-avenger-captain-america-hot-toys",
   "archived": "https://web.archive.org/web/20250913010056/https://spidermedia.ru/news/first-avenger-captain-america-hot-toys",
@@ -10,6 +10,12 @@
     "captain-america",
     "sideshow",
     "hot-toys"
+  ],
+  "cover": "https://web.archive.org/web/20150326210517im_/http://spidermedia.ru/assets/images/import_image/6475.jpg",
+  "modx_id": 6475,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

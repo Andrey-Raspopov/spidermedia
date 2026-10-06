@@ -1,7 +1,10 @@
 {
   "title": "рецензия - Firefly the Series + Serenity",
-  "date": "2009-02-27T03:19:00+03:00",
+  "date": "2009-02-27T03:19:43+03:00",
   "url": "/blog/red-hulk/recenziya-firefly-series-serenity/",
+  "aliases": [
+    "/node/529/"
+  ],
   "original_url": "http://spidermedia.ru/blog/red-hulk/recenziya-firefly-series-serenity",
   "archived": "https://web.archive.org/web/20200803172843/http://spidermedia.ru/blog/red-hulk/recenziya-firefly-series-serenity",
   "tags": [
@@ -10,7 +13,14 @@
     "serialy",
     "svetlyachok",
     "serenity",
-    "sereniti"
+    "sereniti",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20150502190141im_/http://spidermedia.ru/assets/images/import_image/529.jpg",
+  "modx_id": 529,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

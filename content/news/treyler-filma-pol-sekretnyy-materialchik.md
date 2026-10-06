@@ -1,7 +1,10 @@
 {
   "title": "Трейлер фильма \"Пол: Секретный материальчик\"",
-  "date": "2010-10-18T23:45:00+03:00",
+  "date": "2010-10-18T22:45:50+03:00",
   "url": "/news/treyler-filma-pol-sekretnyy-materialchik/",
+  "aliases": [
+    "/node/3019/"
+  ],
   "original_url": "http://spidermedia.ru/news/treyler-filma-pol-sekretnyy-materialchik",
   "archived": "https://web.archive.org/web/20260214142544/http://spidermedia.ru/news/treyler-filma-pol-sekretnyy-materialchik",
   "tags": [
@@ -14,6 +17,11 @@
     "seth-rogen",
     "nick-frost",
     "geeks"
+  ],
+  "modx_id": 3019,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

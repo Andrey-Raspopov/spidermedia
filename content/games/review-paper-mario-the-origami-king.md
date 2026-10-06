@@ -4,6 +4,12 @@
   "url": "/games/review-paper-mario-the-origami-king/",
   "original_url": "http://spidermedia.ru/games/review-paper-mario-the-origami-king",
   "archived": "https://web.archive.org/web/20250324071735/http://spidermedia.ru/games/review-paper-mario-the-origami-king",
+  "cover": "https://web.archive.org/web/20250324071735im_/http://spidermedia.ru/assets/images/games/h2x1_nswitch_papermariotheorigamiking.jpg",
+  "modx_id": 102259,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

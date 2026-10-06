@@ -1,7 +1,10 @@
 {
   "title": "Насколько прочен Росомаха?",
-  "date": "2009-10-30T03:50:00+03:00",
+  "date": "2009-10-30T03:50:15+03:00",
   "url": "/news/naskolko-prochen-rosomaha/",
+  "aliases": [
+    "/node/2036/"
+  ],
   "original_url": "https://spidermedia.ru/news/naskolko-prochen-rosomaha",
   "archived": "https://web.archive.org/web/20260313101930/https://spidermedia.ru/news/naskolko-prochen-rosomaha",
   "tags": [
@@ -10,7 +13,13 @@
     "wolverine",
     "weapon-x",
     "marvel",
-    "jason-aaron"
+    "jason-aaron",
+    "lyudi-iks"
+  ],
+  "modx_id": 2036,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

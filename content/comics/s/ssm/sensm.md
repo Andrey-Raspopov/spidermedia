@@ -4,6 +4,9 @@
   "url": "/comics/s/ssm/sensm/",
   "original_url": "http://www.spidermedia.ru/comics/s/ssm/sensm.html",
   "archived": "https://web.archive.org/web/20050307064838/http://www.spidermedia.ru:80/comics/s/ssm/sensm.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

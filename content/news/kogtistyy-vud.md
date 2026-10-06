@@ -1,6 +1,6 @@
 {
   "title": "Когтистый Вуд",
-  "date": "2011-08-28T00:01:00+03:00",
+  "date": "2011-08-27T23:01:30+03:00",
   "url": "/news/kogtistyy-vud/",
   "original_url": "http://spidermedia.ru/news/kogtistyy-vud",
   "archived": "https://web.archive.org/web/20250324162550/http://spidermedia.ru/news/kogtistyy-vud",
@@ -8,6 +8,12 @@
     "brian-wood",
     "wolverine",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20250324162550im_/http://spidermedia.ru/assets/images/import_image/6580.jpg",
+  "modx_id": 6580,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

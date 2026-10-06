@@ -1,6 +1,6 @@
 {
   "title": "ЭКСКЛЮЗИВ: Превью \"Хелллбоя\" №3",
-  "date": "2013-07-18T20:55:00+03:00",
+  "date": "2013-07-18T19:55:09+03:00",
   "url": "/news/eksklyuziv-prevyu-helllboya-no3/",
   "original_url": "http://spidermedia.ru/news/eksklyuziv-prevyu-helllboya-no3",
   "archived": "https://web.archive.org/web/20260215074602/http://spidermedia.ru/news/eksklyuziv-prevyu-helllboya-no3",
@@ -8,6 +8,12 @@
     "zarubezhnye-komiksy-na-russkom",
     "hellboj",
     "izdatelstvo-42"
+  ],
+  "cover": "https://web.archive.org/web/20260215074602im_/http://spidermedia.ru/assets/images/import_image/7356.jpg",
+  "modx_id": 7356,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

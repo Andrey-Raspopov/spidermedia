@@ -1,6 +1,6 @@
 {
   "title": "Hype-O-Tron 3000",
-  "date": "2010-08-11T11:55:00+03:00",
+  "date": "2010-08-11T10:55:59+03:00",
   "url": "/blog/plane-v/hype-o-tron-3000/",
   "original_url": "http://spidermedia.ru/blog/plane-v/hype-o-tron-3000",
   "archived": "https://web.archive.org/web/20190929140059/http://spidermedia.ru:80/blog/plane-v/hype-o-tron-3000",
@@ -8,6 +8,11 @@
     "scott-pilgrim",
     "emma-frost",
     "igry"
+  ],
+  "modx_id": 2849,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

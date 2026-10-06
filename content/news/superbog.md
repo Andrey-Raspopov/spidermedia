@@ -1,13 +1,22 @@
 {
   "title": "Супербог",
-  "date": "2009-05-20T11:48:00+03:00",
+  "date": "2009-05-20T10:48:27+03:00",
   "url": "/news/superbog/",
+  "aliases": [
+    "/node/1025/"
+  ],
   "original_url": "http://spidermedia.ru/news/superbog",
   "archived": "https://web.archive.org/web/20260215075037/http://spidermedia.ru/news/superbog",
   "tags": [
     "warren-ellis",
     "supergod",
     "superbog"
+  ],
+  "cover": "https://web.archive.org/web/20260215075037im_/http://spidermedia.ru/assets/images/import_image/1025.gif",
+  "modx_id": 1025,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

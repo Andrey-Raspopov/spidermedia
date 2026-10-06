@@ -1,7 +1,10 @@
 {
   "title": "По одной странице арт-превью на каждого Мстителя",
-  "date": "2009-03-15T16:23:00+03:00",
+  "date": "2009-03-15T16:23:19+03:00",
   "url": "/news/po-odnoy-stranice-art-prevyu-na-kazhdogo-mstitelya/",
+  "aliases": [
+    "/node/691/"
+  ],
   "original_url": "http://spidermedia.ru/news/po-odnoy-stranice-art-prevyu-na-kazhdogo-mstitelya",
   "archived": "https://web.archive.org/web/20190820204851/http://spidermedia.ru:80/news/po-odnoy-stranice-art-prevyu-na-kazhdogo-mstitelya",
   "tags": [
@@ -12,7 +15,15 @@
     "invaders",
     "new-avengers",
     "mighty-avengers",
-    "zahvatchiki"
+    "zahvatchiki",
+    "fantasticheskaya-chetverka",
+    "dark-avengers",
+    "novye-mstiteli"
+  ],
+  "modx_id": 691,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

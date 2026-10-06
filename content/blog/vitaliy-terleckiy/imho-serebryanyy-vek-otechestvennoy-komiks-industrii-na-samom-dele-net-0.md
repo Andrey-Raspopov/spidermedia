@@ -1,12 +1,18 @@
 {
   "title": "ИМХО: Серебряный век отечественной комикс-индустрии (На самом деле нет)",
-  "date": "2015-01-28T11:04:00+03:00",
+  "date": "2015-01-28T11:04:07+03:00",
   "url": "/blog/vitaliy-terleckiy/imho-serebryanyy-vek-otechestvennoy-komiks-industrii-na-samom-dele-net-0/",
   "original_url": "https://spidermedia.ru/blog/vitaliy-terleckiy/imho-serebryanyy-vek-otechestvennoy-komiks-industrii-na-samom-dele-net-0",
   "archived": "https://web.archive.org/web/20251207095346/https://spidermedia.ru/blog/vitaliy-terleckiy/imho-serebryanyy-vek-otechestvennoy-komiks-industrii-na-samom-dele-net-0",
   "tags": [
     "russian-comics",
     "imho"
+  ],
+  "cover": "https://web.archive.org/web/20150326190657im_/http://spidermedia.ru/assets/images/import_image/8563.jpg",
+  "modx_id": 8563,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

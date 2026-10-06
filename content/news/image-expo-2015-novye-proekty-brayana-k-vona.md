@@ -1,6 +1,6 @@
 {
   "title": "Image Expo 2015: Новые проекты Брайана К. Вона",
-  "date": "2015-01-09T00:06:00+03:00",
+  "date": "2015-01-09T00:06:01+03:00",
   "url": "/news/image-expo-2015-novye-proekty-brayana-k-vona/",
   "original_url": "https://spidermedia.ru/news/image-expo-2015-novye-proekty-brayana-k-vona",
   "archived": "https://web.archive.org/web/20260115064654/https://spidermedia.ru/news/image-expo-2015-novye-proekty-brayana-k-vona",
@@ -10,6 +10,12 @@
     "image-comics",
     "image-expo",
     "brian-k-vaughan"
+  ],
+  "cover": "https://web.archive.org/web/20150326000937im_/http://spidermedia.ru/assets/images/import_image/8475.jpg",
+  "modx_id": 8475,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

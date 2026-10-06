@@ -1,7 +1,10 @@
 {
   "title": "Watch the Conquest",
-  "date": "2009-02-21T00:28:00+03:00",
+  "date": "2009-02-21T00:28:33+03:00",
   "url": "/news/watch-conquest/",
+  "aliases": [
+    "/node/469/"
+  ],
   "original_url": "http://spidermedia.ru/news/watch-conquest",
   "archived": "https://web.archive.org/web/20250717191254/http://spidermedia.ru/news/watch-conquest",
   "tags": [
@@ -9,6 +12,12 @@
     "the-walking-dead",
     "invincible",
     "image-comics"
+  ],
+  "cover": "https://web.archive.org/web/20250717191254im_/http://spidermedia.ru/assets/images/import_image/469.jpg",
+  "modx_id": 469,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -9,6 +9,12 @@
     "dzherard-vej",
     "emerald-city-comicon"
   ],
+  "cover": "https://web.archive.org/web/20260117215708im_/http://spidermedia.ru/assets/images/comic-con/2016/eccc-2016/doom.jpg",
+  "modx_id": 101061,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

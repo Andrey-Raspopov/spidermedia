@@ -1,12 +1,18 @@
 {
   "title": "Потому, потому, что мы агенты",
-  "date": "2013-04-08T15:02:00+03:00",
+  "date": "2013-04-08T14:02:43+03:00",
   "url": "/news/potomu-potomu-chto-my-agenty/",
   "original_url": "http://spidermedia.ru/news/potomu-potomu-chto-my-agenty",
   "archived": "https://web.archive.org/web/20250424093749/http://spidermedia.ru/news/potomu-potomu-chto-my-agenty",
   "tags": [
     "marvel",
     "s.h.i.e.l.d"
+  ],
+  "cover": "https://web.archive.org/web/20250424093749im_/http://spidermedia.ru/assets/images/import_image/7187.jpg",
+  "modx_id": 7187,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

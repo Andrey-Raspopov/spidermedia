@@ -4,6 +4,9 @@
   "url": "/movies-index/dc-comics/green-lantern-corps-movie/",
   "original_url": "http://spidermedia.ru/movies-index/dc-comics/green-lantern-corps-movie",
   "archived": "https://web.archive.org/web/20260120160225/http://spidermedia.ru/movies-index/dc-comics/green-lantern-corps-movie",
+  "sources": [
+    "archive"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

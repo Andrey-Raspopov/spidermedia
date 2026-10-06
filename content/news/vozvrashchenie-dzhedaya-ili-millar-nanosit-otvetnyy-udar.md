@@ -1,7 +1,10 @@
 {
   "title": "Возвращение Джедая или Миллар наносит ответный удар!",
-  "date": "2009-03-23T13:41:00+03:00",
+  "date": "2009-03-23T13:41:47+03:00",
   "url": "/news/vozvrashchenie-dzhedaya-ili-millar-nanosit-otvetnyy-udar/",
+  "aliases": [
+    "/node/749/"
+  ],
   "original_url": "http://spidermedia.ru/news/vozvrashchenie-dzhedaya-ili-millar-nanosit-otvetnyy-udar",
   "archived": "https://web.archive.org/web/20250803090335/http://spidermedia.ru/news/vozvrashchenie-dzhedaya-ili-millar-nanosit-otvetnyy-udar",
   "tags": [
@@ -14,6 +17,12 @@
     "komik-kon-v-nyu-yorke",
     "new-york-comic-con",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150315210246im_/http://spidermedia.ru/assets/images/ecahznqzhc4.jpg",
+  "modx_id": 749,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

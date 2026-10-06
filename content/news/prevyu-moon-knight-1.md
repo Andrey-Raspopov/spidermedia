@@ -1,6 +1,6 @@
 {
   "title": "Превью Moon Knight #1",
-  "date": "2011-02-26T01:56:00+03:00",
+  "date": "2011-02-26T01:56:44+03:00",
   "url": "/news/prevyu-moon-knight-1/",
   "original_url": "https://spidermedia.ru/news/prevyu-moon-knight-1",
   "archived": "https://web.archive.org/web/20260117224807/https://spidermedia.ru/news/prevyu-moon-knight-1",
@@ -9,6 +9,12 @@
     "brian-michael-bendis",
     "alex-maleev",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20260117224807im_/http://spidermedia.ru/assets/images/import_image/3715.jpg",
+  "modx_id": 3715,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,13 +1,23 @@
 {
   "title": "Зодиак, смерть несущий.",
-  "date": "2009-03-01T04:16:00+03:00",
+  "date": "2009-03-01T04:16:02+03:00",
   "url": "/news/zodiak-smert-nesushchiy/",
+  "aliases": [
+    "/node/554/"
+  ],
   "original_url": "http://spidermedia.ru/news/zodiak-smert-nesushchiy",
   "archived": "https://web.archive.org/web/20200218015437/http://spidermedia.ru:80/news/zodiak-smert-nesushchiy",
   "tags": [
     "art-0",
     "zodiac",
-    "marvel"
+    "marvel",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20200218015437im_/http://spidermedia.ru/assets/images/import_image/554.jpg",
+  "modx_id": 554,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

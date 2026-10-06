@@ -1,6 +1,6 @@
 {
   "title": "The Column With No Name: 17/03/10 - Peachy. Just need to stop for some waterproof undies and I'm all set.",
-  "date": "2010-03-21T06:31:00+03:00",
+  "date": "2010-03-21T06:31:18+03:00",
   "url": "/blog/sir-carnage/column-no-name-17-03-10-peachy-just-need-stop-some-waterproof-undies-and-im-all-set/",
   "original_url": "https://spidermedia.ru/blog/sir-carnage/column-no-name-17-03-10-peachy-just-need-stop-some-waterproof-undies-and-im-all-set",
   "archived": "https://web.archive.org/web/20250618124225/https://spidermedia.ru/blog/sir-carnage/column-no-name-17-03-10-peachy-just-need-stop-some-waterproof-undies-and-im-all-set",
@@ -9,6 +9,12 @@
     "marvel",
     "dc-comics",
     "the-column-with-no-name"
+  ],
+  "cover": "https://web.archive.org/web/20250618124225im_/http://spidermedia.ru/assets/images/import_image/2467.jpg",
+  "modx_id": 2467,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

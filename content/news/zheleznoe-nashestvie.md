@@ -1,19 +1,27 @@
 {
   "title": "Железное нашествие",
-  "date": "2010-03-25T23:13:00+03:00",
+  "date": "2010-03-25T23:13:02+03:00",
   "url": "/news/zheleznoe-nashestvie/",
   "original_url": "http://spidermedia.ru/news/zheleznoe-nashestvie",
   "archived": "https://web.archive.org/web/20251211031051/http://spidermedia.ru/news/zheleznoe-nashestvie",
   "tags": [
     "art-0",
     "marvel",
-    "iron-man"
+    "iron-man",
+    "art",
+    "zheleznyy-chelovek"
+  ],
+  "cover": "https://web.archive.org/web/20251211031051im_/http://spidermedia.ru/assets/images/import_image/2434.jpg",
+  "modx_id": 2434,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-Представляем вам варианты альтернативных "железных" обложек к ряду комиксов **Marvel**, которые приурочены к премьере фильма **"Железный Человек 2"** *("Iron Man 2")*. [**Первую шестерку**](../../node/2360/), на **апрель**, вы уже видели, а как насчёт ещё **четырех**? Смотрите ниже:[![Photobucket](https://web.archive.org/web/20251211031051im_/http://img.photobucket.com/albums/v497/spidermedia/th_1-3.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/1-3.jpg) [![Photobucket](https://web.archive.org/web/20251211031051im_/http://img.photobucket.com/albums/v497/spidermedia/th_2-3.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/2-3.jpg) [![Photobucket](https://web.archive.org/web/20251211031051im_/http://img.photobucket.com/albums/v497/spidermedia/th_33.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/33.jpg) [![Photobucket](https://web.archive.org/web/20251211031051im_/http://img.photobucket.com/albums/v497/spidermedia/th_4-3.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/4-3.jpg)
+Представляем вам варианты альтернативных "железных" обложек к ряду комиксов **Marvel**, которые приурочены к премьере фильма **"Железный Человек 2"** *("Iron Man 2")*. [**Первую шестерку**](../iron-man-new-beginning/), на **апрель**, вы уже видели, а как насчёт ещё **четырех**? Смотрите ниже:[![Photobucket](https://web.archive.org/web/20251211031051im_/http://img.photobucket.com/albums/v497/spidermedia/th_1-3.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/1-3.jpg) [![Photobucket](https://web.archive.org/web/20251211031051im_/http://img.photobucket.com/albums/v497/spidermedia/th_2-3.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/2-3.jpg) [![Photobucket](https://web.archive.org/web/20251211031051im_/http://img.photobucket.com/albums/v497/spidermedia/th_33.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/33.jpg) [![Photobucket](https://web.archive.org/web/20251211031051im_/http://img.photobucket.com/albums/v497/spidermedia/th_4-3.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/4-3.jpg)
 
 - **Vengeance of the Moon Knight #7** от **Ади Гранова** *(Adi Granov)*
 - **Uncanny X-Men #523** от **Майка Перкинса** *(Mike Perkins)*

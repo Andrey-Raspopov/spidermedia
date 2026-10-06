@@ -1,13 +1,21 @@
 {
   "title": "Зимний Латур",
-  "date": "2012-08-25T05:00:00+03:00",
+  "date": "2012-08-25T04:00:32+03:00",
   "url": "/news/zimniy-latur/",
   "original_url": "http://spidermedia.ru/news/zimniy-latur",
   "archived": "https://web.archive.org/web/20150320092037/http://spidermedia.ru/news/zimniy-latur",
   "tags": [
     "dzhejson-latur",
     "zimnij-soldat",
-    "marvel-comics"
+    "marvel-comics",
+    "winter-soldier",
+    "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150326194544im_/http://spidermedia.ru/assets/images/import_image/7008.jpg",
+  "modx_id": 7008,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "Оригиналы и последователи",
-  "date": "2009-07-23T02:12:00+03:00",
+  "date": "2009-07-23T01:12:07+03:00",
   "url": "/news/originaly-i-posledovateli/",
+  "aliases": [
+    "/node/1621/"
+  ],
   "original_url": "https://spidermedia.ru/news/originaly-i-posledovateli",
   "archived": "https://web.archive.org/web/20260211191653/https://spidermedia.ru/news/originaly-i-posledovateli",
   "tags": [
@@ -10,6 +13,12 @@
     "marvel",
     "x-men",
     "new-mutants"
+  ],
+  "cover": "https://web.archive.org/web/20260211191653im_/http://spidermedia.ru/assets/images/x-men-logo.jpg",
+  "modx_id": 1621,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
@@ -27,7 +36,7 @@
 
 [![](https://web.archive.org/web/20260211191653im_/http://images.comicbookresources.com/previews/marvelcomics/newmutants/xpos/NM4Dio04_sm.jpg)](http://www.comicbookresources.com/news/preview2.php?image=previews/marvelcomics/newmutants/xpos/NM4Dio04.jpg) [![](https://web.archive.org/web/20260211191653im_/http://images.comicbookresources.com/previews/marvelcomics/newmutants/xpos/NM4Dio06_sm.jpg)](http://www.comicbookresources.com/news/preview2.php?image=previews/marvelcomics/newmutants/xpos/NM4Dio06.jpg) [![](https://web.archive.org/web/20260211191653im_/http://images.comicbookresources.com/previews/marvelcomics/newmutants/xpos/NM4Dio07_sm.jpg)](http://www.comicbookresources.com/news/preview2.php?image=previews/marvelcomics/newmutants/xpos/NM4Dio07.jpg)
 
-И теперь несколько спекулятивных мыслей, пока не наступил КомикКон и не были сделаны официальные анонсы. Возможность кроссовера между Мутантами и **Икс-Форсом** *(X-Force)* высказывались уже [ранее](../../node/1547/), а теперь появились и конкретные основания полагать о его наличии: В Даймандовских [превью](http://previewsworld.com/support/previews_docs/orderforms/AUG09_COF.pdf) на октябрь можно увидеть те позиции, которые Марвел посчитал нужным скрыть:
+И теперь несколько спекулятивных мыслей, пока не наступил КомикКон и не были сделаны официальные анонсы. Возможность кроссовера между Мутантами и **Икс-Форсом** *(X-Force)* высказывались уже [ранее](../novye-mutanty-kratko/), а теперь появились и конкретные основания полагать о его наличии: В Даймандовских [превью](http://previewsworld.com/support/previews_docs/orderforms/AUG09_COF.pdf) на октябрь можно увидеть те позиции, которые Марвел посчитал нужным скрыть:
 
 - **X-Force Special**
 - **X-Force/New Mutants: Necrosha** (художник: **Клейтон Крэйн** *(Clayton Crain)*)

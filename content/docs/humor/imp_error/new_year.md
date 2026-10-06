@@ -4,6 +4,9 @@
   "url": "/docs/humor/imp_error/new_year/",
   "original_url": "http://spidermedia.ru/docs/humor/imp_error/new_year.html",
   "archived": "https://web.archive.org/web/20051202073943/http://spidermedia.ru:80/docs/humor/imp_error/new_year.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

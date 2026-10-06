@@ -1,12 +1,18 @@
 {
   "title": "плохие комиксы Inc.: эмо-аквамэн, доктор ху комиксы и плохой ивент (не Schism)",
-  "date": "2011-07-15T20:04:00+03:00",
+  "date": "2011-07-15T19:04:37+03:00",
   "url": "/blog/samm-o/plohie-komiksy-inc-emo-akvamen-doktor-hu-komiksy-i-plohoy-ivent-ne-schism/",
   "original_url": "http://spidermedia.ru/blog/samm-o/plohie-komiksy-inc-emo-akvamen-doktor-hu-komiksy-i-plohoy-ivent-ne-schism",
   "archived": "https://web.archive.org/web/20260125062842/http://spidermedia.ru/blog/samm-o/plohie-komiksy-inc-emo-akvamen-doktor-hu-komiksy-i-plohoy-ivent-ne-schism",
   "tags": [
     "dc-comics",
     "idw-publishing"
+  ],
+  "cover": "https://web.archive.org/web/20150424131459im_/http://spidermedia.ru/assets/images/import_image/6501.jpg",
+  "modx_id": 6501,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

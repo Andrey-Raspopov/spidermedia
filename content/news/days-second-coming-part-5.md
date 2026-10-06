@@ -1,7 +1,10 @@
 {
   "title": "Days of Second Coming, Part 5",
-  "date": "2010-07-07T15:38:00+03:00",
+  "date": "2010-07-07T14:38:00+03:00",
   "url": "/news/days-second-coming-part-5/",
+  "aliases": [
+    "/node/2709/"
+  ],
   "original_url": "http://spidermedia.ru/news/days-second-coming-part-5",
   "archived": "https://web.archive.org/web/20120512004251/http://spidermedia.ru/news/days-second-coming-part-5",
   "tags": [
@@ -12,6 +15,12 @@
     "lyudi-iks",
     "marvel"
   ],
+  "cover": "https://web.archive.org/web/20120512004251im_/http://spidermedia.ru/assets/images/import_image/2709.jpg",
+  "modx_id": 2709,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }
@@ -19,7 +28,7 @@
 Завтра выходит заключительная часть кроссовера **Second Coming, part 13** (X-Force #28). Авторами выступят **Крейг Кайл** и **Крис Йост** *(Criag Kyle & Chris Yost)*, а художником **Майк Чои** *(Mike Choi)*.
 
 ![Photobucket](https://web.archive.org/web/20120512004251im_/http://img.photobucket.com/albums/v497/spidermedia/sp888_News/sc13.jpg)
-Сама обложка этой части весьма спойлерна и отсылает нас к ]]>[одному из тизеров](http://www.comicbookresources.com/assets/images/articles/1265044023.jpg)]]>, [посвященных **Second Coming**](../../node/2353/). Превью этой части тоже, для кого-то, может показаться неожиданным, поэтому его стоит так же открывать на свой страх и риск - оно под катом. Кстати, возможно, что показанная нам часть комикса отсылает нас к ещё одному, ]]>[вполне определенному](http://www.comicbookresources.com/assets/images/articles/1265650892.jpg)]]>, тизеру события.]]>[![](https://web.archive.org/web/20120512004251im_/http://img.photobucket.com/albums/v497/spidermedia/sp888_News/th_prv5647_cov.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/sp888_News/prv5647_cov.jpg)]]> ]]>[![](https://web.archive.org/web/20120512004251im_/http://img.photobucket.com/albums/v497/spidermedia/sp888_News/th_prv5647_pg1.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/sp888_News/prv5647_pg1.jpg)]]> ]]>[![](https://web.archive.org/web/20120512004251im_/http://img.photobucket.com/albums/v497/spidermedia/sp888_News/th_prv5647_pg2.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/sp888_News/prv5647_pg2.jpg)]]> ]]>[![](https://web.archive.org/web/20120512004251im_/http://img.photobucket.com/albums/v497/spidermedia/sp888_News/th_prv5647_pg3.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/sp888_News/prv5647_pg3.jpg)]]> ]]>[![](https://web.archive.org/web/20120512004251im_/http://img.photobucket.com/albums/v497/spidermedia/sp888_News/th_prv5647_pg4.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/sp888_News/prv5647_pg4.jpg)]]> ]]>[![](https://web.archive.org/web/20120512004251im_/http://img.photobucket.com/albums/v497/spidermedia/sp888_News/th_prv5647_pg5.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/sp888_News/prv5647_pg5.jpg)]]>
+Сама обложка этой части весьма спойлерна и отсылает нас к ]]>[одному из тизеров](http://www.comicbookresources.com/assets/images/articles/1265044023.jpg)]]>, [посвященных **Second Coming**](../things-come/). Превью этой части тоже, для кого-то, может показаться неожиданным, поэтому его стоит так же открывать на свой страх и риск - оно под катом. Кстати, возможно, что показанная нам часть комикса отсылает нас к ещё одному, ]]>[вполне определенному](http://www.comicbookresources.com/assets/images/articles/1265650892.jpg)]]>, тизеру события.]]>[![](https://web.archive.org/web/20120512004251im_/http://img.photobucket.com/albums/v497/spidermedia/sp888_News/th_prv5647_cov.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/sp888_News/prv5647_cov.jpg)]]> ]]>[![](https://web.archive.org/web/20120512004251im_/http://img.photobucket.com/albums/v497/spidermedia/sp888_News/th_prv5647_pg1.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/sp888_News/prv5647_pg1.jpg)]]> ]]>[![](https://web.archive.org/web/20120512004251im_/http://img.photobucket.com/albums/v497/spidermedia/sp888_News/th_prv5647_pg2.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/sp888_News/prv5647_pg2.jpg)]]> ]]>[![](https://web.archive.org/web/20120512004251im_/http://img.photobucket.com/albums/v497/spidermedia/sp888_News/th_prv5647_pg3.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/sp888_News/prv5647_pg3.jpg)]]> ]]>[![](https://web.archive.org/web/20120512004251im_/http://img.photobucket.com/albums/v497/spidermedia/sp888_News/th_prv5647_pg4.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/sp888_News/prv5647_pg4.jpg)]]> ]]>[![](https://web.archive.org/web/20120512004251im_/http://img.photobucket.com/albums/v497/spidermedia/sp888_News/th_prv5647_pg5.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/sp888_News/prv5647_pg5.jpg)]]>
 
 Источник:
 

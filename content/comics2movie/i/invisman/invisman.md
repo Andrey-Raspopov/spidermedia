@@ -4,6 +4,9 @@
   "url": "/comics2movie/i/invisman/invisman/",
   "original_url": "http://www.spidermedia.ru/comics2movie/i/invisman/invisman.html",
   "archived": "https://web.archive.org/web/20050118080424/http://www.spidermedia.ru:80/comics2movie/i/invisman/invisman.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

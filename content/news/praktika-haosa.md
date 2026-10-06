@@ -1,7 +1,10 @@
 {
   "title": "Практика Хаоса",
-  "date": "2010-06-29T07:45:00+03:00",
+  "date": "2010-06-29T06:45:01+03:00",
   "url": "/news/praktika-haosa/",
+  "aliases": [
+    "/node/2695/"
+  ],
   "original_url": "http://spidermedia.ru/news/praktika-haosa",
   "archived": "https://web.archive.org/web/20260214130501/http://spidermedia.ru/news/praktika-haosa",
   "tags": [
@@ -23,7 +26,15 @@
     "hulk",
     "hercules",
     "avengers",
-    "amadeus-cho"
+    "amadeus-cho",
+    "lyudi-iks",
+    "tor"
+  ],
+  "cover": "https://web.archive.org/web/20260214130501im_/http://spidermedia.ru/assets/images/import_image/2695.jpg",
+  "modx_id": 2695,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

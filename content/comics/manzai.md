@@ -5,7 +5,14 @@
   "original_url": "http://spidermedia.ru/comics/manzai",
   "archived": "https://web.archive.org/web/20251117011754/http://spidermedia.ru/comics/manzai",
   "tags": [
-    "manga"
+    "manga",
+    "manga-2"
+  ],
+  "cover": "https://web.archive.org/web/20150315205559im_/http://spidermedia.ru/assets/images/manga/others/idiot__000.jpg",
+  "modx_id": 100063,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

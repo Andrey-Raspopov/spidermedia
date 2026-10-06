@@ -1,9 +1,15 @@
 {
   "title": "Я убиваю великанов",
-  "date": "2022-01-18T00:00:00+00:00",
+  "date": "2015-03-26T21:44:00+03:00",
   "url": "/movies-index/image-comics-i-kill-giants-movie/",
   "original_url": "http://spidermedia.ru/movies-index/image-comics-i-kill-giants-movie",
   "archived": "https://web.archive.org/web/20251108033616/http://spidermedia.ru/movies-index/image-comics-i-kill-giants-movie",
+  "cover": "https://web.archive.org/web/20251108033616im_/http://spidermedia.ru/assets/images/news/movies/i-kill-giants/ikillgiants-cov-5a395.jpg",
+  "modx_id": 100112,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

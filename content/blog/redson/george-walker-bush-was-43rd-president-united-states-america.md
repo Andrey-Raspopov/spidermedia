@@ -1,7 +1,10 @@
 {
   "title": "George Walker Bush was the 43rd President of the United States of America",
-  "date": "2010-02-08T14:24:00+03:00",
+  "date": "2010-02-08T14:24:19+03:00",
   "url": "/blog/redson/george-walker-bush-was-43rd-president-united-states-america/",
+  "aliases": [
+    "/node/2350/"
+  ],
   "original_url": "https://spidermedia.ru/blog/redson/george-walker-bush-was-43rd-president-united-states-america",
   "archived": "https://web.archive.org/web/20250321102641/https://spidermedia.ru/blog/redson/george-walker-bush-was-43rd-president-united-states-america",
   "tags": [
@@ -10,6 +13,11 @@
     "mark-millar",
     "yumor",
     "bluewater"
+  ],
+  "modx_id": 2350,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

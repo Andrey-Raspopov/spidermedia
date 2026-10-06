@@ -8,6 +8,12 @@
     "comic-con-russia",
     "zarubezhnye-komiksy-na-russkom"
   ],
+  "cover": "https://web.archive.org/web/20251207011824im_/http://spidermedia.ru/assets/images/news/komilfo/img_0864.jpg",
+  "modx_id": 100617,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

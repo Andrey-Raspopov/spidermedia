@@ -1,7 +1,10 @@
 {
   "title": "Days of Second Coming, Конец и новое начало",
-  "date": "2010-07-13T10:15:00+03:00",
+  "date": "2010-07-13T09:15:24+03:00",
   "url": "/news/days-second-coming-konec-i-novoe-nachalo/",
+  "aliases": [
+    "/node/2718/"
+  ],
   "original_url": "http://spidermedia.ru/news/days-second-coming-konec-i-novoe-nachalo",
   "archived": "https://web.archive.org/web/20120512020335/http://spidermedia.ru/news/days-second-coming-konec-i-novoe-nachalo",
   "tags": [
@@ -13,11 +16,17 @@
     "lyudi-iks",
     "marvel"
   ],
+  "cover": "https://web.archive.org/web/20120512020335im_/http://spidermedia.ru/assets/images/import_image/2718.jpg",
+  "modx_id": 2718,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }
 
-Кроссовер **Second Coming** подошёл к концу на 13-ой части, ]]>[представленной в **X-Force #28**](../../node/2709/)]]>. Теперь, уже завтра - **14 июля**, нас ожидает эпилог события в **Second Coming #2**, окончание минисерии **X-Men: Hellbound** и вступление **Людей Икс** **(X-Men)** в ]]>[**Эру Героев** **(Heroic Age)**](https://web.archive.org/web/20111012121340/http://spidermedia.ru/taxonomy/term/2674)]]>.
+Кроссовер **Second Coming** подошёл к концу на 13-ой части, ]]>[представленной в **X-Force #28**](../days-second-coming-part-5/)]]>. Теперь, уже завтра - **14 июля**, нас ожидает эпилог события в **Second Coming #2**, окончание минисерии **X-Men: Hellbound** и вступление **Людей Икс** **(X-Men)** в ]]>[**Эру Героев** **(Heroic Age)**](https://web.archive.org/web/20111012121340/http://spidermedia.ru/taxonomy/term/2674)]]>.
 
 ![](https://web.archive.org/web/20120512020335im_/http://img.photobucket.com/albums/v497/spidermedia/sp888_News/ha.jpg)
 

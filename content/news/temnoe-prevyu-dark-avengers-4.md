@@ -1,7 +1,10 @@
 {
   "title": "Темное Превью Dark Avengers #4",
-  "date": "2009-03-28T04:28:00+03:00",
+  "date": "2009-03-28T03:28:20+03:00",
   "url": "/news/temnoe-prevyu-dark-avengers-4/",
+  "aliases": [
+    "/node/798/"
+  ],
   "original_url": "http://spidermedia.ru/news/temnoe-prevyu-dark-avengers-4",
   "archived": "https://web.archive.org/web/20120607115904/http://spidermedia.ru/news/temnoe-prevyu-dark-avengers-4",
   "tags": [
@@ -11,7 +14,17 @@
     "mayk-deodato",
     "marvel",
     "preview-s",
-    "tyomnye-mstiteli"
+    "tyomnye-mstiteli",
+    "avengers",
+    "brian-michael-bendis",
+    "prevyu",
+    "majk-deodato"
+  ],
+  "cover": "https://web.archive.org/web/20120607115904im_/http://spidermedia.ru/assets/images/import_image/798.jpg",
+  "modx_id": 798,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

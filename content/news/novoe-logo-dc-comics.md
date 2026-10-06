@@ -1,11 +1,17 @@
 {
   "title": "Новое лого DC Comics",
-  "date": "2012-01-20T19:33:00+03:00",
+  "date": "2012-01-20T18:33:34+03:00",
   "url": "/news/novoe-logo-dc-comics/",
   "original_url": "http://spidermedia.ru/news/novoe-logo-dc-comics",
   "archived": "https://web.archive.org/web/20150501190129/http://spidermedia.ru/news/novoe-logo-dc-comics",
   "tags": [
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150503074147im_/http://spidermedia.ru/assets/images/import_image/6760.jpg",
+  "modx_id": 6760,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

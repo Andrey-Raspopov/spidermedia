@@ -1,12 +1,18 @@
 {
   "title": "«Человек-Муравей»: Кадры и концепт-арт (Hi-Res)",
-  "date": "2015-01-14T16:47:00+03:00",
+  "date": "2015-01-14T16:47:11+03:00",
   "url": "/news/chelovek-muravey-kadry-i-koncept-art-hi-res/",
   "original_url": "https://spidermedia.ru/news/chelovek-muravey-kadry-i-koncept-art-hi-res",
   "archived": "https://web.archive.org/web/20260211193122/https://spidermedia.ru/news/chelovek-muravey-kadry-i-koncept-art-hi-res",
   "tags": [
     "ant-man",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150325220933im_/http://spidermedia.ru/assets/images/import_image/8502.jpg",
+  "modx_id": 8502,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

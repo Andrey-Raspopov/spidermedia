@@ -1,7 +1,10 @@
 {
   "title": "Слухи, колонка 2",
-  "date": "2009-04-01T14:00:00+03:00",
+  "date": "2009-04-01T13:00:58+03:00",
   "url": "/news/sluhi-kolonka-2/",
+  "aliases": [
+    "/node/828/"
+  ],
   "original_url": "http://spidermedia.ru/news/sluhi-kolonka-2",
   "archived": "https://web.archive.org/web/20191226060626/http://spidermedia.ru:80/news/sluhi-kolonka-2",
   "tags": [
@@ -14,7 +17,14 @@
     "sluhi",
     "betgyorl",
     "helstorm",
-    "hellstorm"
+    "hellstorm",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20191226060626im_/http://spidermedia.ru/assets/images/import_image/828.jpg",
+  "modx_id": 828,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

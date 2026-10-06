@@ -1,7 +1,10 @@
 {
   "title": "Чёрные Войны: Новая Надежда",
-  "date": "2009-05-22T05:57:00+03:00",
+  "date": "2009-05-22T04:57:24+03:00",
   "url": "/news/chyornye-voyny-novaya-nadezhda/",
+  "aliases": [
+    "/node/1158/"
+  ],
   "original_url": "http://spidermedia.ru/news/chyornye-voyny-novaya-nadezhda",
   "archived": "https://web.archive.org/web/20170506190735/http://spidermedia.ru:80/news/chyornye-voyny-novaya-nadezhda",
   "tags": [
@@ -10,6 +13,12 @@
     "redzhi-hadlin",
     "dzhonatan-mejberri",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20170506190735im_/http://spidermedia.ru/assets/images/import_image/1158.jpg",
+  "modx_id": 1158,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

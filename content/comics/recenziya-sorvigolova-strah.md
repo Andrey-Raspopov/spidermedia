@@ -9,6 +9,12 @@
     "parallel-comics",
     "daredevil"
   ],
+  "cover": "https://web.archive.org/web/20260116222829im_/http://spidermedia.ru/assets/images/reviews/parallel/dd-yellow/cover.jpg",
+  "modx_id": 102109,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

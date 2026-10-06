@@ -7,6 +7,12 @@
   "tags": [
     "manga"
   ],
+  "cover": "https://web.archive.org/web/20251207102953im_/http://spidermedia.ru/assets/images/manga/others/one-punch-man/mzk.jpg",
+  "modx_id": 101844,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

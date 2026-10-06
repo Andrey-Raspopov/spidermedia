@@ -1,7 +1,10 @@
 {
   "title": "Немного арта",
-  "date": "2009-07-23T11:30:00+03:00",
+  "date": "2009-07-23T10:30:56+03:00",
   "url": "/news/nemnogo-arta/",
+  "aliases": [
+    "/node/1623/"
+  ],
   "original_url": "http://spidermedia.ru/news/nemnogo-arta",
   "archived": "https://web.archive.org/web/20250424193349/http://spidermedia.ru/news/nemnogo-arta",
   "tags": [
@@ -14,7 +17,15 @@
     "marvel",
     "fantastic-four",
     "captain-america",
-    "avengers"
+    "avengers",
+    "prevyu",
+    "art",
+    "fantasticheskaya-chetverka"
+  ],
+  "modx_id": 1623,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

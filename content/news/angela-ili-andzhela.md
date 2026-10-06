@@ -1,6 +1,6 @@
 {
   "title": "Ангела или Анджела?",
-  "date": "2013-03-21T23:03:00+03:00",
+  "date": "2013-03-21T22:03:39+03:00",
   "url": "/news/angela-ili-andzhela/",
   "original_url": "https://spidermedia.ru/news/angela-ili-andzhela",
   "archived": "https://web.archive.org/web/20251110223042/https://spidermedia.ru/news/angela-ili-andzhela",
@@ -8,6 +8,12 @@
     "neil-gaiman",
     "marvel",
     "angela"
+  ],
+  "cover": "https://web.archive.org/web/20160313214045im_/http://spidermedia.ru/assets/images/import_image/7167.jpg",
+  "modx_id": 7167,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

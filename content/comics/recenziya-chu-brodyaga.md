@@ -7,6 +7,12 @@
   "tags": [
     "obzor"
   ],
+  "cover": "https://web.archive.org/web/20200201214011im_/http://spidermedia.ru/assets/images/news/images/oleg-lyfar/review/hark-a-vagrant/cover.jpg",
+  "modx_id": 102178,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

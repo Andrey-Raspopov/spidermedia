@@ -1,6 +1,6 @@
 {
   "title": "Особо опасны",
-  "date": "2012-09-08T04:39:00+03:00",
+  "date": "2012-09-08T03:39:36+03:00",
   "url": "/news/osobo-opasny/",
   "original_url": "http://spidermedia.ru/news/osobo-opasny",
   "archived": "https://web.archive.org/web/20251205122057/http://spidermedia.ru/news/osobo-opasny",
@@ -10,6 +10,12 @@
     "ron-garni",
     "sem-hampris",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150326160640im_/http://spidermedia.ru/assets/images/import_image/7015.jpg",
+  "modx_id": 7015,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

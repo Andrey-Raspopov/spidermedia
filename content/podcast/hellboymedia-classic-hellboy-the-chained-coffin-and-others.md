@@ -8,6 +8,14 @@
     "hellboymedia",
     "mnenie"
   ],
+  "cover": "https://web.archive.org/web/20260309182716im_/http://spidermedia.ru/assets/images/hellboymedia/classic/hellboy-vol-03-the-chained-coffin-and-others/hellboy-vol.-2-the-chained-coffin-and-others-cover.jpg",
+  "podcast_audio": "https://spidermedia.podster.fm/35/download/audio.mp3",
+  "podcast_length": "1:29:24",
+  "modx_id": 101056,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

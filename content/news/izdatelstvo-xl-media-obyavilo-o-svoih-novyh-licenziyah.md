@@ -1,12 +1,17 @@
 {
   "title": "Издательство Xl Media объявило о своих планах по лицензированию комиксов",
-  "date": "2014-10-13T12:32:00+03:00",
+  "date": "2014-10-13T11:32:30+03:00",
   "url": "/news/izdatelstvo-xl-media-obyavilo-o-svoih-novyh-licenziyah/",
   "original_url": "https://spidermedia.ru/news/izdatelstvo-xl-media-obyavilo-o-svoih-novyh-licenziyah",
   "archived": "https://web.archive.org/web/20251211024224/https://spidermedia.ru/news/izdatelstvo-xl-media-obyavilo-o-svoih-novyh-licenziyah",
   "tags": [
     "zarubezhnye-komiksy-na-russkom",
     "xl-media"
+  ],
+  "modx_id": 8175,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

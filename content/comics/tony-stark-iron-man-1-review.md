@@ -7,7 +7,14 @@
   "tags": [
     "marvel",
     "den-slott",
-    "iron-man"
+    "iron-man",
+    "zheleznyy-chelovek"
+  ],
+  "cover": "https://web.archive.org/web/20250518134454im_/http://spidermedia.ru/assets/images/reviews/marvel/iron-man/tony-stark-im/1/mzk.jpg",
+  "modx_id": 101955,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

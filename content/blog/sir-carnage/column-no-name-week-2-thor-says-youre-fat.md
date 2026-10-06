@@ -1,7 +1,10 @@
 {
   "title": "The Column With No Name - Week #2: Thor says you're fat!",
-  "date": "2009-02-15T02:51:00+03:00",
+  "date": "2009-02-15T02:51:55+03:00",
   "url": "/blog/sir-carnage/column-no-name-week-2-thor-says-youre-fat/",
+  "aliases": [
+    "/node/369/"
+  ],
   "original_url": "http://spidermedia.ru/blog/sir-carnage/column-no-name-week-2-thor-says-youre-fat",
   "archived": "https://web.archive.org/web/20251107004056/http://spidermedia.ru/blog/sir-carnage/column-no-name-week-2-thor-says-youre-fat",
   "tags": [
@@ -16,7 +19,14 @@
     "dc-comics",
     "batman",
     "avengers",
-    "the-column-with-no-name"
+    "the-column-with-no-name",
+    "tor"
+  ],
+  "cover": "https://web.archive.org/web/20251107004056im_/http://spidermedia.ru/assets/images/import_image/369.jpg",
+  "modx_id": 369,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

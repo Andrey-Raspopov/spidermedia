@@ -1,7 +1,10 @@
 {
   "title": "Богохульство от Фангории",
-  "date": "2009-09-01T14:42:00+03:00",
+  "date": "2009-09-01T13:42:09+03:00",
   "url": "/news/bogohulstvo-ot-fangorii/",
+  "aliases": [
+    "/node/1857/"
+  ],
   "original_url": "http://spidermedia.ru/news/bogohulstvo-ot-fangorii",
   "archived": "https://web.archive.org/web/20120914232836/http://spidermedia.ru:80/news/bogohulstvo-ot-fangorii",
   "tags": [
@@ -9,6 +12,12 @@
     "jesus",
     "kino",
     "komiksy"
+  ],
+  "cover": "https://web.archive.org/web/20120914232836im_/http://spidermedia.ru/assets/images/import_image/1857.jpg",
+  "modx_id": 1857,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

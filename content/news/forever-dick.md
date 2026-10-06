@@ -1,6 +1,6 @@
 {
   "title": "Forever Dick",
-  "date": "2014-04-15T13:57:00+03:00",
+  "date": "2014-04-15T12:57:34+03:00",
   "url": "/news/forever-dick/",
   "original_url": "http://spidermedia.ru/news/forever-dick",
   "archived": "https://web.archive.org/web/20250807220851/http://spidermedia.ru/news/forever-dick",
@@ -8,6 +8,12 @@
     "tim-sili",
     "dik-grejson",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20250807220851im_/http://spidermedia.ru/assets/images/import_image/7711.jpg",
+  "modx_id": 7711,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -4,6 +4,9 @@
   "url": "/movies-index/marvel/mstiteli-vojna-beskonechnosti-chast-1/",
   "original_url": "http://spidermedia.ru/movies-index/marvel/mstiteli-vojna-beskonechnosti-chast-1",
   "archived": "https://web.archive.org/web/20160407221058/http://spidermedia.ru/movies-index/marvel/mstiteli-vojna-beskonechnosti-chast-1",
+  "sources": [
+    "archive"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

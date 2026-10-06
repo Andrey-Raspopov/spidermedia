@@ -1,7 +1,10 @@
 {
   "title": "Путешествие в Зону 51",
-  "date": "2009-05-28T11:00:00+03:00",
+  "date": "2009-05-28T10:00:11+03:00",
   "url": "/news/puteshestvie-v-zonu-51/",
+  "aliases": [
+    "/node/1282/"
+  ],
   "original_url": "http://spidermedia.ru/news/puteshestvie-v-zonu-51",
   "archived": "https://web.archive.org/web/20260214142557/http://spidermedia.ru/news/puteshestvie-v-zonu-51",
   "tags": [
@@ -14,6 +17,12 @@
     "nik-frost",
     "giki",
     "geeks"
+  ],
+  "cover": "https://web.archive.org/web/20260214142557im_/http://spidermedia.ru/assets/images/import_image/1282.png",
+  "modx_id": 1282,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

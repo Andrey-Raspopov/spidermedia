@@ -8,6 +8,12 @@
     "dynamite-entertainment",
     "army-of-darkness"
   ],
+  "cover": "https://web.archive.org/web/20260208204037im_/http://spidermedia.ru/assets/images/reviews/dynamite/kiss-army-of-darkness/mzk.jpg",
+  "modx_id": 101858,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

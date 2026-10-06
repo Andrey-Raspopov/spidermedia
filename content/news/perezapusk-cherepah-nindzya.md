@@ -1,12 +1,21 @@
 {
   "title": "Перезапуск \"Черепах-Ниндзя\"",
-  "date": "2009-04-24T16:53:00+03:00",
+  "date": "2009-04-24T15:53:36+03:00",
   "url": "/news/perezapusk-cherepah-nindzya/",
+  "aliases": [
+    "/node/1041/"
+  ],
   "original_url": "http://spidermedia.ru/news/perezapusk-cherepah-nindzya",
   "archived": "https://web.archive.org/web/20191228062745/http://spidermedia.ru:80/news/perezapusk-cherepah-nindzya",
   "tags": [
     "ninja-turtles",
     "mirage-studios"
+  ],
+  "cover": "https://web.archive.org/web/20191228062745im_/http://spidermedia.ru/assets/images/import_image/1041.jpg",
+  "modx_id": 1041,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

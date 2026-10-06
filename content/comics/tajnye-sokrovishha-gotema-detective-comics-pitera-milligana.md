@@ -10,6 +10,12 @@
     "peter-milligan",
     "batman-week"
   ],
+  "cover": "https://web.archive.org/web/20260312022616im_/http://spidermedia.ru/assets/images/articles/zamsky-gotham/002-milligan/08-02-2010-121721pm.jpg",
+  "modx_id": 101363,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

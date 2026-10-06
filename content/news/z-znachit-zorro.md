@@ -1,12 +1,19 @@
 {
   "title": "Z значит Зорро",
-  "date": "2012-12-24T14:15:00+03:00",
+  "date": "2012-12-24T13:15:41+03:00",
   "url": "/news/z-znachit-zorro/",
   "original_url": "https://spidermedia.ru/news/z-znachit-zorro",
   "archived": "https://web.archive.org/web/20251117004246/https://spidermedia.ru/news/z-znachit-zorro",
   "tags": [
     "serialy",
-    "zorro"
+    "zorro",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20251117004246im_/http://spidermedia.ru/assets/images/import_image/7106.jpg",
+  "modx_id": 7106,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Новости цифровых дистрибьюторов",
-  "date": "2013-07-03T18:17:00+03:00",
+  "date": "2013-07-03T17:17:33+03:00",
   "url": "/news/novosti-cifrovyh-distribyuterov/",
   "original_url": "http://spidermedia.ru/news/novosti-cifrovyh-distribyuterov",
   "archived": "https://web.archive.org/web/20190929140448/http://spidermedia.ru:80/news/novosti-cifrovyh-distribyuterov",
@@ -9,6 +9,12 @@
     "marvel",
     "image-comics",
     "comixology"
+  ],
+  "cover": "https://web.archive.org/web/20190929140448im_/http://spidermedia.ru/assets/images/import_image/7314.jpg",
+  "modx_id": 7314,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

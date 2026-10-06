@@ -1,6 +1,6 @@
 {
   "title": "WildStorm: Чего ждать?",
-  "date": "2009-07-09T12:01:00+03:00",
+  "date": "2009-07-09T11:01:35+03:00",
   "url": "/news/wildstorm-chego-zhdat/",
   "original_url": "http://spidermedia.ru/news/wildstorm-chego-zhdat",
   "archived": "https://web.archive.org/web/20190924045916/http://spidermedia.ru:80/news/wildstorm-chego-zhdat",
@@ -12,6 +12,11 @@
     "stormvotch",
     "dikie-koty",
     "dc-comics"
+  ],
+  "modx_id": 1513,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

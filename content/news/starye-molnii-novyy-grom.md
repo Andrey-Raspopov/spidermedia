@@ -1,7 +1,10 @@
 {
   "title": "Старые молнии - новый гром.",
-  "date": "2009-07-12T02:25:00+03:00",
+  "date": "2009-07-12T01:25:10+03:00",
   "url": "/news/starye-molnii-novyy-grom/",
+  "aliases": [
+    "/node/1505/"
+  ],
   "original_url": "http://spidermedia.ru/news/starye-molnii-novyy-grom",
   "archived": "https://web.archive.org/web/20120607181905/http://spidermedia.ru/news/starye-molnii-novyy-grom",
   "tags": [
@@ -9,6 +12,12 @@
     "gromoverzhcy",
     "komiksy",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20120607181905im_/http://spidermedia.ru/assets/images/import_image/1505.jpg",
+  "modx_id": 1505,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Военное Время в Marvel",
-  "date": "2009-02-04T23:38:00+03:00",
+  "date": "2009-02-04T23:38:53+03:00",
   "url": "/news/voennoe-vremya-v-marvel/",
   "original_url": "http://spidermedia.ru/news/voennoe-vremya-v-marvel",
   "archived": "https://web.archive.org/web/20251106235425/http://spidermedia.ru/news/voennoe-vremya-v-marvel",
@@ -11,6 +11,12 @@
     "rik-remender",
     "norman-ozborn",
     "dzheyson-aaron"
+  ],
+  "cover": "https://web.archive.org/web/20251106235425im_/http://spidermedia.ru/assets/images/import_image/197.jpg",
+  "modx_id": 197,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

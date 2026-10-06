@@ -1,7 +1,10 @@
 {
   "title": "Не только мутанты",
-  "date": "2010-12-18T16:01:00+03:00",
+  "date": "2010-12-18T16:01:18+03:00",
   "url": "/news/ne-tolko-mutanty/",
+  "aliases": [
+    "/node/3127/"
+  ],
   "original_url": "http://spidermedia.ru/news/ne-tolko-mutanty",
   "archived": "https://web.archive.org/web/20260314084136/http://spidermedia.ru/news/ne-tolko-mutanty",
   "tags": [
@@ -10,7 +13,15 @@
     "khoj-fam",
     "art-0",
     "x-men",
-    "marvel"
+    "marvel",
+    "art",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20260314084136im_/http://spidermedia.ru/assets/images/import_image/3127.jpg",
+  "modx_id": 3127,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

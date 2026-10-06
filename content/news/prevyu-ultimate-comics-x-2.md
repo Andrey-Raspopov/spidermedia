@@ -1,6 +1,6 @@
 {
   "title": "Превью Ultimate Comics X #2",
-  "date": "2010-03-13T18:12:00+03:00",
+  "date": "2010-03-13T18:12:55+03:00",
   "url": "/news/prevyu-ultimate-comics-x-2/",
   "original_url": "http://spidermedia.ru/news/prevyu-ultimate-comics-x-2",
   "archived": "https://web.archive.org/web/20190725211805/http://spidermedia.ru:80/news/prevyu-ultimate-comics-x-2",
@@ -10,7 +10,14 @@
     "dzhef-loeb",
     "artur-adams",
     "ultimate",
-    "jeph-loeb"
+    "jeph-loeb",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20190725211805im_/http://spidermedia.ru/assets/images/import_image/2437.jpg",
+  "modx_id": 2437,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,13 +1,22 @@
 {
   "title": "Вырвите мне глаза, это снова он!",
-  "date": "2009-02-02T19:32:00+03:00",
+  "date": "2009-02-02T19:32:27+03:00",
   "url": "/blog/silver/vyrvite-mne-glaza-eto-snova/",
+  "aliases": [
+    "/node/112/"
+  ],
   "original_url": "http://spidermedia.ru/blog/silver/vyrvite-mne-glaza-eto-snova",
   "archived": "https://web.archive.org/web/20220814180951/http://spidermedia.ru/blog/silver/vyrvite-mne-glaza-eto-snova",
   "tags": [
     "mnenie",
     "marvel",
     "spider-man"
+  ],
+  "cover": "https://web.archive.org/web/20220814180951im_/http://spidermedia.ru/assets/images/import_image/112.jpg",
+  "modx_id": 112,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

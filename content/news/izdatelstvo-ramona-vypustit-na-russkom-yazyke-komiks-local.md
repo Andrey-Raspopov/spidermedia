@@ -1,6 +1,6 @@
 {
   "title": "Издательство «Рамона» выпустит на русском языке комикс Local",
-  "date": "2014-09-09T16:14:00+03:00",
+  "date": "2014-09-09T15:14:16+03:00",
   "url": "/news/izdatelstvo-ramona-vypustit-na-russkom-yazyke-komiks-local/",
   "original_url": "http://spidermedia.ru/news/izdatelstvo-ramona-vypustit-na-russkom-yazyke-komiks-local",
   "archived": "https://web.archive.org/web/20250620074647/http://spidermedia.ru/news/izdatelstvo-ramona-vypustit-na-russkom-yazyke-komiks-local",
@@ -10,6 +10,12 @@
     "brian-wood",
     "rajan-kelli",
     "oni-press"
+  ],
+  "cover": "https://web.archive.org/web/20150326155310im_/http://spidermedia.ru/assets/images/import_image/8047.jpg",
+  "modx_id": 8047,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

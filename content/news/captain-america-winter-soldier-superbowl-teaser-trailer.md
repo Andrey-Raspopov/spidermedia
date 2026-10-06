@@ -1,6 +1,6 @@
 {
   "title": "\"Первый Мститель: Другая война\": Расширенный трейлер + Ролик с Суперкубка + Новые кадры!",
-  "date": "2014-02-03T00:24:00+03:00",
+  "date": "2014-02-02T23:24:30+03:00",
   "url": "/news/captain-america-winter-soldier-superbowl-teaser-trailer/",
   "original_url": "https://spidermedia.ru/news/captain-america-winter-soldier-superbowl-teaser-trailer",
   "archived": "https://web.archive.org/web/20251211034547/https://spidermedia.ru/news/captain-america-winter-soldier-superbowl-teaser-trailer",
@@ -10,6 +10,12 @@
     "marvel",
     "nik-fyuri",
     "black-widow"
+  ],
+  "cover": "https://web.archive.org/web/20251211034547im_/http://spidermedia.ru/assets/images/import_image/7623.png",
+  "modx_id": 7623,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

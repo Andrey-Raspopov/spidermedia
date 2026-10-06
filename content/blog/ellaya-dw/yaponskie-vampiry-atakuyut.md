@@ -1,11 +1,21 @@
 {
   "title": "Японские вампиры атакуют",
-  "date": "2009-11-17T09:36:00+03:00",
+  "date": "2009-11-17T09:36:40+03:00",
   "url": "/blog/ellaya-dw/yaponskie-vampiry-atakuyut/",
+  "aliases": [
+    "/node/2107/"
+  ],
   "original_url": "http://spidermedia.ru/blog/ellaya-dw/yaponskie-vampiry-atakuyut",
   "archived": "https://web.archive.org/web/20260117230722/http://spidermedia.ru/blog/ellaya-dw/yaponskie-vampiry-atakuyut",
   "tags": [
-    "manga"
+    "manga",
+    "manga-2"
+  ],
+  "cover": "https://web.archive.org/web/20260117230722im_/http://spidermedia.ru/assets/images/import_image/2107.jpg",
+  "modx_id": 2107,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

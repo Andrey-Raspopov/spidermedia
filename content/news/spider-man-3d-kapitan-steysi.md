@@ -1,12 +1,21 @@
 {
   "title": "Spider-Man 3D: Капитан Стейси",
-  "date": "2011-01-15T00:52:00+03:00",
+  "date": "2011-01-15T00:52:46+03:00",
   "url": "/news/spider-man-3d-kapitan-steysi/",
+  "aliases": [
+    "/node/3164/"
+  ],
   "original_url": "https://spidermedia.ru/news/spider-man-3d-kapitan-steysi",
   "archived": "https://web.archive.org/web/20260117221435/https://spidermedia.ru/news/spider-man-3d-kapitan-steysi",
   "tags": [
     "marvel",
     "spider-man"
+  ],
+  "cover": "https://web.archive.org/web/20260117221435im_/http://spidermedia.ru/assets/images/import_image/3164.jpg",
+  "modx_id": 3164,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

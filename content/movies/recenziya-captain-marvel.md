@@ -4,6 +4,12 @@
   "url": "/movies/recenziya-captain-marvel/",
   "original_url": "https://spidermedia.ru/movies/recenziya-captain-marvel",
   "archived": "https://web.archive.org/web/20251116072330/https://spidermedia.ru/movies/recenziya-captain-marvel",
+  "cover": "https://web.archive.org/web/20251116072330im_/http://spidermedia.ru/assets/images/movies/header-image-1920x800_02dcab2e.jpeg",
+  "modx_id": 102089,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,13 +1,20 @@
 {
   "title": "The Rogues Guide: все, что вам нужно знать о противниках Флэша",
-  "date": "2015-01-22T15:00:00+03:00",
+  "date": "2015-01-22T15:00:37+03:00",
   "url": "/blog/igrok/rogues-guide-vse-chto-vam-nuzhno-znat-o-protivnikah-flesha-0/",
   "original_url": "http://spidermedia.ru/blog/igrok/rogues-guide-vse-chto-vam-nuzhno-znat-o-protivnikah-flesha-0",
   "archived": "https://web.archive.org/web/20260312014126/http://spidermedia.ru/blog/igrok/rogues-guide-vse-chto-vam-nuzhno-znat-o-protivnikah-flesha-0",
   "tags": [
     "the-flash",
     "serialy",
-    "dc-comics"
+    "dc-comics",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20150326160740im_/http://spidermedia.ru/assets/images/import_image/8532.jpg",
+  "modx_id": 8532,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

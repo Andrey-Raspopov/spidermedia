@@ -1,6 +1,6 @@
 {
   "title": "Теллос - мир волшебства в России!",
-  "date": "2011-11-24T14:53:00+03:00",
+  "date": "2011-11-24T13:53:51+03:00",
   "url": "/news/igray-i-uchis-s-tellos/",
   "original_url": "http://spidermedia.ru/news/igray-i-uchis-s-tellos",
   "archived": "https://web.archive.org/web/20251206021143/http://spidermedia.ru/news/igray-i-uchis-s-tellos",
@@ -10,6 +10,12 @@
     "izdatelstvo-komiks",
     "zarubezhnye-komiksy-na-russkom",
     "image-comics"
+  ],
+  "cover": "https://web.archive.org/web/20251206021143im_/http://spidermedia.ru/assets/images/import_image/6711.jpg",
+  "modx_id": 6711,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

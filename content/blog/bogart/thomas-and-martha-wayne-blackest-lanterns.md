@@ -1,12 +1,20 @@
 {
   "title": "Thomas and Martha Wayne as Blackest Lanterns?",
-  "date": "2009-02-08T01:14:00+03:00",
+  "date": "2009-02-08T01:14:10+03:00",
   "url": "/blog/bogart/thomas-and-martha-wayne-blackest-lanterns/",
+  "aliases": [
+    "/node/267/"
+  ],
   "original_url": "http://spidermedia.ru/blog/bogart/thomas-and-martha-wayne-blackest-lanterns",
   "archived": "https://web.archive.org/web/20250425221209/http://spidermedia.ru/blog/bogart/thomas-and-martha-wayne-blackest-lanterns",
   "tags": [
     "bla-bla-bla",
     "nycc-2009"
+  ],
+  "modx_id": 267,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

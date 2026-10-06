@@ -1,6 +1,6 @@
 {
   "title": "Avengers Assemble! - Август 2010",
-  "date": "2010-06-13T23:03:00+03:00",
+  "date": "2010-06-13T22:03:13+03:00",
   "url": "/news/avengers-assemble-avgust-2010/",
   "original_url": "https://spidermedia.ru/news/avengers-assemble-avgust-2010",
   "archived": "https://web.archive.org/web/20251205115010/https://spidermedia.ru/news/avengers-assemble-avgust-2010",
@@ -9,7 +9,14 @@
     "preview",
     "marvel",
     "heroic-age",
-    "avengers"
+    "avengers",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20251205115010im_/http://spidermedia.ru/assets/images/import_image/2673.gif",
+  "modx_id": 2673,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

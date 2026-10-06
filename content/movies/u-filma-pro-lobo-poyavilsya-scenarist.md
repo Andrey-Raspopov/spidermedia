@@ -8,6 +8,12 @@
     "dc-comics",
     "lobo"
   ],
+  "cover": "https://web.archive.org/web/20180202122654im_/http://spidermedia.ru/assets/images/news/movies/_dc_comics/lobo/deadpool_v_lobo_by_jeremycolwell-d85d7k1.jpg",
+  "modx_id": 101009,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

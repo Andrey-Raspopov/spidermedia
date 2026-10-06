@@ -1,9 +1,15 @@
 {
   "title": "Уилсон",
-  "date": "2016-11-15T00:00:00+00:00",
+  "date": "2016-11-06T14:34:00+03:00",
   "url": "/movies-index/daniel-clowes-wilson-movie-2017/",
   "original_url": "https://spidermedia.ru/movies-index/daniel-clowes-wilson-movie-2017",
   "archived": "https://web.archive.org/web/20250320044045/https://spidermedia.ru/movies-index/daniel-clowes-wilson-movie-2017",
+  "cover": "https://web.archive.org/web/20250320044045im_/http://spidermedia.ru/assets/images/movies/other/wilson/mv5bmjm0mjgwmjk1of5bml5banbnxkftztgwnjc4mze1mdi._v1_sy1000_cr0-0-674-1000_al_.jpg",
+  "modx_id": 101402,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

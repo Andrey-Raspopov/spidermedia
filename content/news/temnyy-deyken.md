@@ -1,7 +1,10 @@
 {
   "title": "Темный Дэйкен",
-  "date": "2009-05-22T14:00:00+03:00",
+  "date": "2009-05-22T13:00:32+03:00",
   "url": "/news/temnyy-deyken/",
+  "aliases": [
+    "/node/1261/"
+  ],
   "original_url": "https://spidermedia.ru/news/temnyy-deyken",
   "archived": "https://web.archive.org/web/20260120155812/https://spidermedia.ru/news/temnyy-deyken",
   "tags": [
@@ -15,6 +18,12 @@
     "dzhuzeppe-kamunkoli",
     "marjorie-liu",
     "giuseppe-camuncoli"
+  ],
+  "cover": "https://web.archive.org/web/20260120155812im_/http://spidermedia.ru/assets/images/import_image/1261.jpg",
+  "modx_id": 1261,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

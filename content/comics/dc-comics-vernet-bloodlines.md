@@ -8,6 +8,12 @@
     "dc-comics",
     "dzhej-ti-kral"
   ],
+  "cover": "https://web.archive.org/web/20160611085322im_/http://spidermedia.ru/assets/images/news/dc/bloodline/bloodlines01-a4d20-1.jpg",
+  "modx_id": 100827,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

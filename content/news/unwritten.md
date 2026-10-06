@@ -1,13 +1,22 @@
 {
   "title": "The Unwritten",
-  "date": "2009-02-28T12:18:00+03:00",
+  "date": "2009-02-28T12:18:55+03:00",
   "url": "/news/unwritten/",
+  "aliases": [
+    "/node/541/"
+  ],
   "original_url": "http://spidermedia.ru/news/unwritten",
   "archived": "https://web.archive.org/web/20250814203534/http://spidermedia.ru/news/unwritten",
   "tags": [
     "piter-gross",
     "majk-keri",
     "vertigo"
+  ],
+  "cover": "https://web.archive.org/web/20250814203534im_/http://spidermedia.ru/assets/images/import_image/541.jpg",
+  "modx_id": 541,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

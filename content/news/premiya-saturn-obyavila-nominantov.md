@@ -1,13 +1,20 @@
 {
   "title": "Премия «Сатурн» объявила номинантов",
-  "date": "2015-03-04T14:24:00+03:00",
+  "date": "2015-03-04T14:24:35+03:00",
   "url": "/news/premiya-saturn-obyavila-nominantov/",
   "original_url": "http://spidermedia.ru/news/premiya-saturn-obyavila-nominantov",
   "archived": "https://web.archive.org/web/20251012181127/http://spidermedia.ru/news/premiya-saturn-obyavila-nominantov",
   "tags": [
     "saturn",
     "nagrady",
-    "serialy"
+    "serialy",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20150315205242im_/http://spidermedia.ru/assets/images/import_image/8668.jpg",
+  "modx_id": 8668,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

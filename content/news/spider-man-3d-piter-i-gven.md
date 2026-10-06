@@ -1,7 +1,10 @@
 {
   "title": "Spider-Man 3D: Питер и Гвен",
-  "date": "2011-01-05T04:03:00+03:00",
+  "date": "2011-01-05T04:03:01+03:00",
   "url": "/news/spider-man-3d-piter-i-gven/",
+  "aliases": [
+    "/node/3145/"
+  ],
   "original_url": "http://spidermedia.ru/news/spider-man-3d-piter-i-gven",
   "archived": "https://web.archive.org/web/20250119071553/http://spidermedia.ru/news/spider-man-3d-piter-i-gven",
   "tags": [
@@ -9,6 +12,12 @@
     "marvel",
     "spider-man",
     "endryu-garfild"
+  ],
+  "cover": "https://web.archive.org/web/20250119071553im_/http://spidermedia.ru/assets/images/import_image/3145.jpg",
+  "modx_id": 3145,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

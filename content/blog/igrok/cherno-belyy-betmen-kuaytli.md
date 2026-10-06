@@ -1,6 +1,6 @@
 {
   "title": "Черно-белый Бэтмен Куайтли",
-  "date": "2010-09-18T01:00:00+03:00",
+  "date": "2010-09-18T00:00:32+03:00",
   "url": "/blog/igrok/cherno-belyy-betmen-kuaytli/",
   "original_url": "http://spidermedia.ru/blog/igrok/cherno-belyy-betmen-kuaytli",
   "archived": "https://web.archive.org/web/20260208211438/http://spidermedia.ru/blog/igrok/cherno-belyy-betmen-kuaytli",
@@ -10,6 +10,12 @@
     "frank-quitely",
     "figurki",
     "batman"
+  ],
+  "cover": "https://web.archive.org/web/20260208211438im_/http://spidermedia.ru/assets/images/news/review_quietley_11.jpg",
+  "modx_id": 2923,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

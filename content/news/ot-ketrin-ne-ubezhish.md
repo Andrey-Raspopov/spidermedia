@@ -1,6 +1,6 @@
 {
   "title": "От Кэтрин не убежишь",
-  "date": "2009-03-25T14:36:00+03:00",
+  "date": "2009-03-25T14:36:05+03:00",
   "url": "/news/ot-ketrin-ne-ubezhish/",
   "original_url": "http://spidermedia.ru/news/ot-ketrin-ne-ubezhish",
   "archived": "https://web.archive.org/web/20260115050806/http://spidermedia.ru/news/ot-ketrin-ne-ubezhish",
@@ -9,6 +9,12 @@
     "runaways",
     "sara-pichelli",
     "ketrin-immonen"
+  ],
+  "cover": "https://web.archive.org/web/20260115050806im_/http://spidermedia.ru/assets/images/import_image/767.jpg",
+  "modx_id": 767,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

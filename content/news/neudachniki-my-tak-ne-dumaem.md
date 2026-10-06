@@ -1,13 +1,21 @@
 {
   "title": "Неудачники? Мы так не думаем!",
-  "date": "2010-01-30T17:52:00+03:00",
+  "date": "2010-01-30T17:52:23+03:00",
   "url": "/news/neudachniki-my-tak-ne-dumaem/",
+  "aliases": [
+    "/node/2320/"
+  ],
   "original_url": "http://spidermedia.ru/news/neudachniki-my-tak-ne-dumaem",
   "archived": "https://web.archive.org/web/20260312013831/http://spidermedia.ru/news/neudachniki-my-tak-ne-dumaem",
   "tags": [
     "vertigo",
     "dc-comics",
     "endi-diggl"
+  ],
+  "modx_id": 2320,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

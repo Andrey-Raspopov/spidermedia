@@ -1,7 +1,10 @@
 {
   "title": "Супермен в апреле",
-  "date": "2010-01-16T18:11:00+03:00",
+  "date": "2010-01-16T18:11:12+03:00",
   "url": "/blog/baka-chan/supermen-v-aprele/",
+  "aliases": [
+    "/node/2271/"
+  ],
   "original_url": "https://spidermedia.ru/blog/baka-chan/supermen-v-aprele",
   "archived": "https://web.archive.org/web/20251208070709/https://spidermedia.ru/blog/baka-chan/supermen-v-aprele",
   "tags": [
@@ -15,6 +18,11 @@
     "james-robinson",
     "greg-rucka",
     "dc-comics"
+  ],
+  "modx_id": 2271,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

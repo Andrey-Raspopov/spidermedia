@@ -1,12 +1,18 @@
 {
   "title": "Рецензия на фильм «300 спартанцев: Расцвет империи»",
-  "date": "2014-03-04T12:00:00+03:00",
+  "date": "2014-03-04T11:00:38+03:00",
   "url": "/blog/christian/recenziya-na-film-300-spartancev-rascvet-imperii/",
   "original_url": "https://spidermedia.ru/blog/christian/recenziya-na-film-300-spartancev-rascvet-imperii",
   "archived": "https://web.archive.org/web/20260214144146/https://spidermedia.ru/blog/christian/recenziya-na-film-300-spartancev-rascvet-imperii",
   "tags": [
     "recenziya",
     "dark-horse"
+  ],
+  "cover": "https://web.archive.org/web/20260214144146im_/http://spidermedia.ru/assets/images/import_image/7666.jpg",
+  "modx_id": 7666,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

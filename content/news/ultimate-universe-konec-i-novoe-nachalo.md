@@ -1,7 +1,10 @@
 {
   "title": "Ultimate Universe: Конец и новое начало",
-  "date": "2009-03-03T14:17:00+03:00",
+  "date": "2009-03-03T14:17:39+03:00",
   "url": "/news/ultimate-universe-konec-i-novoe-nachalo/",
+  "aliases": [
+    "/node/568/"
+  ],
   "original_url": "https://spidermedia.ru/news/ultimate-universe-konec-i-novoe-nachalo",
   "archived": "https://web.archive.org/web/20251115190240/https://spidermedia.ru/news/ultimate-universe-konec-i-novoe-nachalo",
   "tags": [
@@ -17,13 +20,20 @@
     "nycc-2009",
     "marvel",
     "komik-kon-v-nyu-yorke",
-    "new-york-comic-con"
+    "new-york-comic-con",
+    "lyudi-iks",
+    "fantasticheskaya-chetverka"
+  ],
+  "modx_id": 568,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](https://web.archive.org/web/20251115190240im_/http://www.comicbookresources.com/assets/phpThumb/phpThumb.php?src=/assets/images/articles/1233941278.jpg&h=300)](http://www.comicbookresources.com/assets/images/articles/1233941278.jpg)[![](https://web.archive.org/web/20251115190240im_/http://www.comicbookresources.com/assets/phpThumb/phpThumb.php?src=/assets/images/articles/1234027855.jpg&h=300)](http://www.comicbookresources.com/assets/images/articles/1234027855.jpg)Новость о закрытии личных серий **Людей Икс** *(X-Men)*, **Фантастической Четверки** *(Fantastic Four)* и **Человека-Паука** *(Spider-Man)* в **Ultimate**-линейке **Marvel** далеко не нова. Про Человека-Паука мы даже писали отдельной [новостью](../../node/260/), остальные же серии прошли мимо нас. Исправим эту оплошность, рассказав о **Ultimate X-Men: Requiem** и **Ultimate Fantastic Four: Requiem** - одиночным номерам, которые окончательно закончат истории Людей Икс и Фантастической Четверки в рамках **Ultimate Universe**. Или нет?
+[![](https://web.archive.org/web/20251115190240im_/http://www.comicbookresources.com/assets/phpThumb/phpThumb.php?src=/assets/images/articles/1233941278.jpg&h=300)](http://www.comicbookresources.com/assets/images/articles/1233941278.jpg)[![](https://web.archive.org/web/20251115190240im_/http://www.comicbookresources.com/assets/phpThumb/phpThumb.php?src=/assets/images/articles/1234027855.jpg&h=300)](http://www.comicbookresources.com/assets/images/articles/1234027855.jpg)Новость о закрытии личных серий **Людей Икс** *(X-Men)*, **Фантастической Четверки** *(Fantastic Four)* и **Человека-Паука** *(Spider-Man)* в **Ultimate**-линейке **Marvel** далеко не нова. Про Человека-Паука мы даже писали отдельной [новостью](../konec-cheloveka-pauka/), остальные же серии прошли мимо нас. Исправим эту оплошность, рассказав о **Ultimate X-Men: Requiem** и **Ultimate Fantastic Four: Requiem** - одиночным номерам, которые окончательно закончат истории Людей Икс и Фантастической Четверки в рамках **Ultimate Universe**. Или нет?
 
 Что мы знаем? Официальные источники в **Marvel** уверяют, что второго тома серий **Ultimate X-Men** и **Ultimate Fantastic Four** не будет до новых времен. Причин не верить им нет, но вот [интервью](http://www.comicbookresources.com/?id=19887&page=article) **Арона Колейта** *(Aron Coleite)* и аналогичное [интервью](http://www.comicbookresources.com/?page=article&id=19933) **Джо Покаски** *(Joe Pokaski)* о номерах **Requem** делают судьбу героев обеих серий, а точнее тех из них кто выживет, более неоднозначными.
 

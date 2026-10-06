@@ -1,7 +1,10 @@
 {
   "title": "Фракшен и обложки",
-  "date": "2009-10-03T10:14:00+03:00",
+  "date": "2009-10-03T09:14:41+03:00",
   "url": "/news/frakshen-i-oblozhki/",
+  "aliases": [
+    "/node/1962/"
+  ],
   "original_url": "https://spidermedia.ru/news/frakshen-i-oblozhki",
   "archived": "https://web.archive.org/web/20251013192239/https://spidermedia.ru/news/frakshen-i-oblozhki",
   "tags": [
@@ -10,7 +13,17 @@
     "marko-dzhurdzhevich",
     "art-0",
     "marvel",
-    "iron-man"
+    "iron-man",
+    "mett-frakshen",
+    "art",
+    "zheleznyy-chelovek",
+    "invincible-iron-man"
+  ],
+  "cover": "https://web.archive.org/web/20251013192239im_/http://spidermedia.ru/assets/images/import_image/1962.jpg",
+  "modx_id": 1962,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

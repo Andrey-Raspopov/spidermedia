@@ -1,7 +1,10 @@
 {
   "title": "Оригинальный Квазар возвращается! Отчасти...",
-  "date": "2009-03-11T15:06:00+03:00",
+  "date": "2009-03-11T15:06:01+03:00",
   "url": "/news/originalnyy-kvazar-vozvrashchaetsya-otchasti/",
+  "aliases": [
+    "/node/643/"
+  ],
   "original_url": "http://spidermedia.ru/news/originalnyy-kvazar-vozvrashchaetsya-otchasti",
   "archived": "https://web.archive.org/web/20250709071436/http://spidermedia.ru/news/originalnyy-kvazar-vozvrashchaetsya-otchasti",
   "tags": [
@@ -9,6 +12,11 @@
     "kvazar",
     "quasar",
     "marvel"
+  ],
+  "modx_id": 643,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

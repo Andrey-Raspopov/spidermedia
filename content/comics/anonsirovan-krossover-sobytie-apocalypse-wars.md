@@ -9,6 +9,12 @@
     "apokalipsis",
     "x-men"
   ],
+  "cover": "https://web.archive.org/web/20160611082224im_/http://spidermedia.ru/assets/images/news/marvel/all-new-all-different/secret-wars-2015-007-009.jpg",
+  "modx_id": 100750,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -8,6 +8,12 @@
     "marvel",
     "black-panther"
   ],
+  "cover": "https://web.archive.org/web/20160619175509im_/http://spidermedia.ru/assets/images/newgallery/gallery46/black-panther-2.jpg",
+  "modx_id": 100749,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

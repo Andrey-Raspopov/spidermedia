@@ -1,12 +1,20 @@
 {
   "title": "ДвД новинки!",
-  "date": "2009-04-09T23:33:00+03:00",
+  "date": "2009-04-09T22:33:28+03:00",
   "url": "/blog/trupoed/dvd-novinki/",
+  "aliases": [
+    "/node/901/"
+  ],
   "original_url": "http://spidermedia.ru/blog/trupoed/dvd-novinki",
   "archived": "https://web.archive.org/web/20220820000836/http://spidermedia.ru/blog/trupoed/dvd-novinki",
   "tags": [
     "animaciya",
     "dvd"
+  ],
+  "modx_id": 901,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

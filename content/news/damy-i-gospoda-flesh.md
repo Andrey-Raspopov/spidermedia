@@ -1,12 +1,19 @@
 {
   "title": "Дамы и господа: Флэш (UPD. Фото и Видео со съемок)",
-  "date": "2014-03-12T10:19:00+03:00",
+  "date": "2014-03-12T09:19:31+03:00",
   "url": "/news/damy-i-gospoda-flesh/",
   "original_url": "https://spidermedia.ru/news/damy-i-gospoda-flesh",
   "archived": "https://web.archive.org/web/20260125131808/https://spidermedia.ru/news/damy-i-gospoda-flesh",
   "tags": [
     "the-flash",
-    "serialy"
+    "serialy",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20260125131808im_/http://spidermedia.ru/assets/images/import_image/7680.jpg",
+  "modx_id": 7680,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

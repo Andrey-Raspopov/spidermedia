@@ -1,7 +1,10 @@
 {
   "title": "Новости DMZ",
-  "date": "2009-06-13T20:42:00+03:00",
+  "date": "2009-06-13T19:42:30+03:00",
   "url": "/news/novosti-dmz/",
+  "aliases": [
+    "/node/1412/"
+  ],
   "original_url": "http://spidermedia.ru/news/novosti-dmz",
   "archived": "https://web.archive.org/web/20260307064713/http://spidermedia.ru/news/novosti-dmz",
   "tags": [
@@ -10,6 +13,11 @@
     "rajan-kelli",
     "dmz",
     "rikardo-burchielli"
+  ],
+  "modx_id": 1412,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

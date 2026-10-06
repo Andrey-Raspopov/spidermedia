@@ -1,7 +1,10 @@
 {
   "title": "Комиксы DC Universe. Выпуск № 04",
-  "date": "2009-07-10T15:18:00+03:00",
+  "date": "2009-07-10T14:18:25+03:00",
   "url": "/blog/derden/komiksy-dc-universe-vypusk-no-04/",
+  "aliases": [
+    "/node/1525/"
+  ],
   "original_url": "http://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-04",
   "archived": "https://web.archive.org/web/20190924021137/http://spidermedia.ru:80/blog/derden/komiksy-dc-universe-vypusk-no-04",
   "tags": [
@@ -9,6 +12,12 @@
     "teen-titans",
     "donna-troy",
     "dc-universe-comics"
+  ],
+  "cover": "https://web.archive.org/web/20190924021137im_/http://spidermedia.ru/assets/images/import_image/1525.gif",
+  "modx_id": 1525,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

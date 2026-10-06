@@ -7,6 +7,12 @@
   "tags": [
     "gamermedia"
   ],
+  "cover": "https://web.archive.org/web/20260215073400im_/http://spidermedia.ru/assets/images/games/igromir2018/igry2018/fotoezh-17-8675.1200x1200.jpg",
+  "modx_id": 102035,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

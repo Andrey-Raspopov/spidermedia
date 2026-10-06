@@ -1,6 +1,6 @@
 {
   "title": "ОБЗОР: \"Неуязвимый. Том 1\"",
-  "date": "2014-09-29T14:56:00+03:00",
+  "date": "2014-09-29T13:56:10+03:00",
   "url": "/blog/larosh/obzor-neuyazvimyy-tom-1-0/",
   "original_url": "https://spidermedia.ru/blog/larosh/obzor-neuyazvimyy-tom-1-0",
   "archived": "https://web.archive.org/web/20250717191509/https://spidermedia.ru/blog/larosh/obzor-neuyazvimyy-tom-1-0",
@@ -9,6 +9,12 @@
     "image-comics",
     "invincible",
     "obzor"
+  ],
+  "cover": "https://web.archive.org/web/20150424090724im_/http://spidermedia.ru/assets/images/import_image/8112.jpg",
+  "modx_id": 8112,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -2,6 +2,9 @@
   "title": "Battle for the Cowl - настоящее, будущее и далекое будущее",
   "date": "2009-02-17T17:58:00+03:00",
   "url": "/news/battle-cowl-nastoyashchee-budushchee-i-dalekoe-budushchee/",
+  "aliases": [
+    "/node/412/"
+  ],
   "original_url": "https://spidermedia.ru/news/battle-cowl-nastoyashchee-budushchee-i-dalekoe-budushchee",
   "archived": "https://web.archive.org/web/20250316171831/https://spidermedia.ru/news/battle-cowl-nastoyashchee-budushchee-i-dalekoe-budushchee",
   "tags": [
@@ -14,6 +17,12 @@
     "toni-deniel",
     "jason-todd",
     "spletni"
+  ],
+  "cover": "https://web.archive.org/web/20250316171831im_/http://spidermedia.ru/assets/images/import_image/412.jpg",
+  "modx_id": 412,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

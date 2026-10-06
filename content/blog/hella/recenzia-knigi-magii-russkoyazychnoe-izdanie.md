@@ -1,6 +1,6 @@
 {
   "title": "РЕЦЕНЗИЯ: «Книги Магии», русскоязычное издание",
-  "date": "2015-02-02T19:01:00+03:00",
+  "date": "2015-02-02T19:01:27+03:00",
   "url": "/blog/hella/recenzia-knigi-magii-russkoyazychnoe-izdanie/",
   "original_url": "http://spidermedia.ru/blog/hella/recenzia-knigi-magii-russkoyazychnoe-izdanie",
   "archived": "https://web.archive.org/web/20251216114447/http://spidermedia.ru/blog/hella/recenzia-knigi-magii-russkoyazychnoe-izdanie",
@@ -8,6 +8,12 @@
     "neil-gaiman",
     "zarubezhnye-komiksy-na-russkom",
     "azbuka"
+  ],
+  "cover": "https://web.archive.org/web/20150326131121im_/http://spidermedia.ru/assets/images/import_image/8572.jpg",
+  "modx_id": 8572,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,13 +1,23 @@
 {
   "title": "Сотня Росомах! (обновление)",
-  "date": "2009-11-04T10:30:00+03:00",
+  "date": "2009-11-04T10:30:18+03:00",
   "url": "/news/sotnya-rosomah-obnovlenie/",
+  "aliases": [
+    "/node/1584/"
+  ],
   "original_url": "http://spidermedia.ru/news/sotnya-rosomah-obnovlenie",
   "archived": "https://web.archive.org/web/20260120153151/http://spidermedia.ru/news/sotnya-rosomah-obnovlenie",
   "tags": [
     "wolverine",
     "art-0",
-    "100-project"
+    "100-project",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20260120153151im_/http://spidermedia.ru/assets/images/import_image/1584.jpg",
+  "modx_id": 1584,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

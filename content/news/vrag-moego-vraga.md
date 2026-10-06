@@ -1,6 +1,6 @@
 {
   "title": "Враг моего врага",
-  "date": "2011-02-02T03:18:00+03:00",
+  "date": "2011-02-02T03:18:35+03:00",
   "url": "/news/vrag-moego-vraga/",
   "original_url": "http://spidermedia.ru/news/vrag-moego-vraga",
   "archived": "https://web.archive.org/web/20260214125503/http://spidermedia.ru/news/vrag-moego-vraga",
@@ -9,7 +9,14 @@
     "art-0",
     "red-hulk",
     "marvel",
-    "hulk"
+    "hulk",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20260214125503im_/http://spidermedia.ru/assets/images/import_image/3205.jpg",
+  "modx_id": 3205,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

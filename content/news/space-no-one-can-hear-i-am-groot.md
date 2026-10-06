@@ -1,6 +1,6 @@
 {
   "title": "In space no one can hear I AM GROOT",
-  "date": "2012-07-15T13:41:00+03:00",
+  "date": "2012-07-15T12:41:08+03:00",
   "url": "/news/space-no-one-can-hear-i-am-groot/",
   "original_url": "http://spidermedia.ru/news/space-no-one-can-hear-i-am-groot",
   "archived": "https://web.archive.org/web/20250913021156/http://spidermedia.ru/news/space-no-one-can-hear-i-am-groot",
@@ -12,7 +12,15 @@
     "thor",
     "iron-man",
     "guardians-of-the-galaxy",
-    "captain-america"
+    "captain-america",
+    "tor",
+    "zheleznyy-chelovek"
+  ],
+  "cover": "https://web.archive.org/web/20150502175906im_/http://spidermedia.ru/assets/images/import_image/6976.jpg",
+  "modx_id": 6976,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,12 +1,18 @@
 {
   "title": "Новые кадры «Человека-муравья»",
-  "date": "2015-01-08T21:25:00+03:00",
+  "date": "2015-01-08T21:25:24+03:00",
   "url": "/news/novye-kadry-cheloveka-muravya/",
   "original_url": "https://spidermedia.ru/news/novye-kadry-cheloveka-muravya",
   "archived": "https://web.archive.org/web/20260211193843/https://spidermedia.ru/news/novye-kadry-cheloveka-muravya",
   "tags": [
     "ant-man",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150326034801im_/http://spidermedia.ru/assets/images/import_image/8472.png",
+  "modx_id": 8472,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

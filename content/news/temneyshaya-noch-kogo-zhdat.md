@@ -1,7 +1,10 @@
 {
   "title": "Темнейшая ночь - кого ждать?!",
-  "date": "2009-06-17T16:50:00+03:00",
+  "date": "2009-06-17T15:50:32+03:00",
   "url": "/news/temneyshaya-noch-kogo-zhdat/",
+  "aliases": [
+    "/node/1433/"
+  ],
   "original_url": "http://spidermedia.ru/news/temneyshaya-noch-kogo-zhdat",
   "archived": "https://web.archive.org/web/20260120150545/http://spidermedia.ru/news/temneyshaya-noch-kogo-zhdat",
   "tags": [
@@ -17,6 +20,12 @@
     "batman",
     "adam-kubert",
     "solicitations"
+  ],
+  "cover": "https://web.archive.org/web/20260120150545im_/http://spidermedia.ru/assets/images/import_image/1433.jpg",
+  "modx_id": 1433,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

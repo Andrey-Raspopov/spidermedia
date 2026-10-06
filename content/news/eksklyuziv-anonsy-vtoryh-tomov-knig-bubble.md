@@ -1,6 +1,6 @@
 {
   "title": "ЭКСКЛЮЗИВ: Анонсы вторых томов книг BUBBLE",
-  "date": "2014-12-05T14:35:00+03:00",
+  "date": "2014-12-05T14:35:41+03:00",
   "url": "/news/eksklyuziv-anonsy-vtoryh-tomov-knig-bubble/",
   "original_url": "https://spidermedia.ru/news/eksklyuziv-anonsy-vtoryh-tomov-knig-bubble",
   "archived": "https://web.archive.org/web/20260214134215/https://spidermedia.ru/news/eksklyuziv-anonsy-vtoryh-tomov-knig-bubble",
@@ -11,6 +11,12 @@
     "inok",
     "besoboj",
     "bubble"
+  ],
+  "cover": "https://web.archive.org/web/20150502111549im_/http://spidermedia.ru/assets/images/import_image/8348.jpg",
+  "modx_id": 8348,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

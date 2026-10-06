@@ -1,6 +1,6 @@
 {
   "title": "NYCC: Мрачные тизеры Марвел",
-  "date": "2014-10-10T23:10:00+03:00",
+  "date": "2014-10-10T22:10:58+03:00",
   "url": "/news/nycc-mrachnye-tizery-marvel/",
   "original_url": "http://spidermedia.ru/news/nycc-mrachnye-tizery-marvel",
   "archived": "https://web.archive.org/web/20260125123430/http://spidermedia.ru/news/nycc-mrachnye-tizery-marvel",
@@ -10,6 +10,12 @@
     "marvel",
     "komik-kon-v-nyu-jorke",
     "scarlet-witch"
+  ],
+  "cover": "https://web.archive.org/web/20150326053258im_/http://spidermedia.ru/assets/images/import_image/8163.jpg",
+  "modx_id": 8163,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

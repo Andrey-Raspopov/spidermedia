@@ -1,7 +1,10 @@
 {
   "title": "Messiah War: Осторожно Спойлеры!",
-  "date": "2009-05-02T02:20:00+03:00",
+  "date": "2009-05-02T01:20:22+03:00",
   "url": "/news/messiah-war-ostorozhno-spoylery/",
+  "aliases": [
+    "/node/931/"
+  ],
   "original_url": "http://spidermedia.ru/news/messiah-war-ostorozhno-spoylery",
   "archived": "https://web.archive.org/web/20251206162109/http://spidermedia.ru/news/messiah-war-ostorozhno-spoylery",
   "tags": [
@@ -14,7 +17,14 @@
     "stryfe",
     "nadezhda",
     "bishop",
-    "strajnf"
+    "strajnf",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20251206162109im_/http://spidermedia.ru/assets/images/import_image/931.jpg",
+  "modx_id": 931,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

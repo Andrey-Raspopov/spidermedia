@@ -1,12 +1,18 @@
 {
   "title": "EveryCon - конвент для всех и каждого",
-  "date": "2013-05-23T12:34:00+03:00",
+  "date": "2013-05-23T11:34:03+03:00",
   "url": "/news/everycon-konvent-dlya-vseh-i-kazhdogo/",
   "original_url": "http://spidermedia.ru/news/everycon-konvent-dlya-vseh-i-kazhdogo",
   "archived": "https://web.archive.org/web/20131206192655/http://spidermedia.ru/news/everycon-konvent-dlya-vseh-i-kazhdogo",
   "tags": [
     "komiksy",
     "konvencii"
+  ],
+  "cover": "https://web.archive.org/web/20131206192655im_/http://spidermedia.ru/assets/images/import_image/7250.jpg",
+  "modx_id": 7250,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

@@ -8,6 +8,12 @@
     "best-column-about-comics",
     "mnenie"
   ],
+  "cover": "https://web.archive.org/web/20260211180109im_/http://spidermedia.ru/assets/images/best-column-about-comics/23-weapons-of-mass-diplomacy/weapons-of-mass-diplomacy-cover.jpg",
+  "modx_id": 101619,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

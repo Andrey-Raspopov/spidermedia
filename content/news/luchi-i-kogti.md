@@ -1,6 +1,6 @@
 {
   "title": "Лучи и когти",
-  "date": "2011-05-23T19:26:00+03:00",
+  "date": "2011-05-23T18:26:57+03:00",
   "url": "/news/luchi-i-kogti/",
   "original_url": "http://spidermedia.ru/news/luchi-i-kogti",
   "archived": "https://web.archive.org/web/20120512005509/http://spidermedia.ru/news/luchi-i-kogti",
@@ -12,7 +12,14 @@
     "art-0",
     "komiksy",
     "lyudi-iks",
-    "raskol"
+    "raskol",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20120512005509im_/http://spidermedia.ru/assets/images/import_image/5961.jpg",
+  "modx_id": 5961,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

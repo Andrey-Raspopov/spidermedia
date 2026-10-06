@@ -4,6 +4,9 @@
   "url": "/docs/articles/deirdre/macfarlane/",
   "original_url": "http://spidermedia.ru/docs/articles/deirdre/macfarlane.html",
   "archived": "https://web.archive.org/web/20051201123117/http://spidermedia.ru:80/docs/articles/deirdre/macfarlane.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

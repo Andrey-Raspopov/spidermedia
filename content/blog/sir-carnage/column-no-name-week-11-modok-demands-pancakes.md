@@ -1,6 +1,6 @@
 {
   "title": "The Column With No Name - Week #11: M.O.D.O.K. demands pancakes!!!",
-  "date": "2009-06-07T04:37:00+03:00",
+  "date": "2009-06-07T03:37:03+03:00",
   "url": "/blog/sir-carnage/column-no-name-week-11-modok-demands-pancakes/",
   "original_url": "https://spidermedia.ru/blog/sir-carnage/column-no-name-week-11-modok-demands-pancakes",
   "archived": "https://web.archive.org/web/20260214131151/https://spidermedia.ru/blog/sir-carnage/column-no-name-week-11-modok-demands-pancakes",
@@ -12,6 +12,12 @@
     "captain-britain",
     "agenty-atlasa",
     "the-column-with-no-name"
+  ],
+  "cover": "https://web.archive.org/web/20260214131151im_/http://spidermedia.ru/assets/images/import_image/1373.jpg",
+  "modx_id": 1373,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

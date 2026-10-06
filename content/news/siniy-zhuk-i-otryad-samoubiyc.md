@@ -1,6 +1,6 @@
 {
   "title": "Синий Жук и Отряд Самоубийц",
-  "date": "2011-06-10T07:57:00+03:00",
+  "date": "2011-06-10T06:57:15+03:00",
   "url": "/news/siniy-zhuk-i-otryad-samoubiyc/",
   "original_url": "http://spidermedia.ru/news/siniy-zhuk-i-otryad-samoubiyc",
   "archived": "https://web.archive.org/web/20241113214536/http://spidermedia.ru/news/siniy-zhuk-i-otryad-samoubiyc",
@@ -12,6 +12,12 @@
     "dc-comics",
     "blue-beetle",
     "suicide-squad"
+  ],
+  "cover": "https://web.archive.org/web/20241113214536im_/http://spidermedia.ru/assets/images/import_image/6421.jpg",
+  "modx_id": 6421,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

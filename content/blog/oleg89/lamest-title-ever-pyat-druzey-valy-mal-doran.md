@@ -1,6 +1,6 @@
 {
   "title": "The lamest title ever: Пять друзей Валы Мал Доран",
-  "date": "2010-03-18T00:59:00+03:00",
+  "date": "2010-03-18T00:59:53+03:00",
   "url": "/blog/oleg89/lamest-title-ever-pyat-druzey-valy-mal-doran/",
   "original_url": "http://spidermedia.ru/blog/oleg89/lamest-title-ever-pyat-druzey-valy-mal-doran",
   "archived": "https://web.archive.org/web/20250210064216/http://spidermedia.ru/blog/oleg89/lamest-title-ever-pyat-druzey-valy-mal-doran",
@@ -13,11 +13,17 @@
     "cezar-razek",
     "brandon-jerwa"
   ],
+  "cover": "https://web.archive.org/web/20250210064216im_/http://spidermedia.ru/assets/images/import_image/2455.jpg",
+  "modx_id": 2455,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-Фанаты сериалов со словосочетанием "Звездные врата" в названии явно испытали смешанные чувства при виде [анонсов на май](../../../node/2405/): издательство Dynamite Entertainment наконец-то вспомнило о своем обещании выпускать комиксы на основе их любимой вселенной, но не в виде долгожданных онгоинов, а в виде мини-серии из пяти номеров **Stargate: Vala Mal Doran**. И вот сценарист комикса **Брендон Джёрва** *(Brandon Jerwa)* (он же сценарист опаздывающей уже на полгода серии **Stargate SG-1**) дал ресурсу CBR [интервью](http://www.comicbookresources.com/?page=article&id=25266), в котором рассказал о подробностях грядущего приключении очаровательной инопланетной воровки, сыгранной в сериале не менее очаровательной **Клаудией Блэк** *(Claudia Black)*.
+Фанаты сериалов со словосочетанием "Звездные врата" в названии явно испытали смешанные чувства при виде [анонсов на май](../star-trek-doctor-who-and-stuff-may-2010/): издательство Dynamite Entertainment наконец-то вспомнило о своем обещании выпускать комиксы на основе их любимой вселенной, но не в виде долгожданных онгоинов, а в виде мини-серии из пяти номеров **Stargate: Vala Mal Doran**. И вот сценарист комикса **Брендон Джёрва** *(Brandon Jerwa)* (он же сценарист опаздывающей уже на полгода серии **Stargate SG-1**) дал ресурсу CBR [интервью](http://www.comicbookresources.com/?page=article&id=25266), в котором рассказал о подробностях грядущего приключении очаровательной инопланетной воровки, сыгранной в сериале не менее очаровательной **Клаудией Блэк** *(Claudia Black)*.
 [![Stargate: Vala Mal Doran #1](https://web.archive.org/web/20250210064216im_/http://i822.photobucket.com/albums/zz144/OLeg89_DW-ST/blog/th_1268787219.jpg)](http://i822.photobucket.com/albums/zz144/OLeg89_DW-ST/blog/1268787219.jpg) [![Stargate: Vala Mal Doran #1](https://web.archive.org/web/20250210064216im_/http://i822.photobucket.com/albums/zz144/OLeg89_DW-ST/blog/th_1268787275.jpg)](http://i822.photobucket.com/albums/zz144/OLeg89_DW-ST/blog/1268787275.jpg)
 Обложки к первому номеру мини-серии
 

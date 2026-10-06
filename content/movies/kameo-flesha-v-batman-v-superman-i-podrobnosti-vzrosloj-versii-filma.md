@@ -9,6 +9,12 @@
     "batman",
     "superman"
   ],
+  "cover": "https://web.archive.org/web/20160611140239im_/http://spidermedia.ru/assets/images/news/images/2_movies/dc/batman-v-superman/throat.jpg",
+  "modx_id": 100975,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

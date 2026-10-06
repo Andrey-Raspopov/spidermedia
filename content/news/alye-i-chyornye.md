@@ -1,6 +1,6 @@
 {
   "title": "Алые и Чёрные",
-  "date": "2011-10-15T07:00:00+03:00",
+  "date": "2011-10-15T06:00:51+03:00",
   "url": "/news/alye-i-chyornye/",
   "original_url": "http://spidermedia.ru/news/alye-i-chyornye",
   "archived": "https://web.archive.org/web/20251206162608/http://spidermedia.ru/news/alye-i-chyornye",
@@ -18,7 +18,14 @@
     "alyj-pauk",
     "scarlet-spider",
     "rik-remender",
-    "zeb-uells"
+    "zeb-uells",
+    "derdevil"
+  ],
+  "cover": "https://web.archive.org/web/20251206162608im_/http://spidermedia.ru/assets/images/import_image/6645.jpg",
+  "modx_id": 6645,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Интервью со сценаристами фильма \"Тор\"",
-  "date": "2010-08-06T12:49:00+03:00",
+  "date": "2010-08-06T11:49:50+03:00",
   "url": "/news/intervyu-so-scenaristami-filma-tor/",
   "original_url": "http://spidermedia.ru/news/intervyu-so-scenaristami-filma-tor",
   "archived": "https://web.archive.org/web/20120608205937/http://spidermedia.ru/news/intervyu-so-scenaristami-filma-tor",
@@ -11,6 +11,11 @@
     "komiksy",
     "marvel",
     "tor"
+  ],
+  "modx_id": 2839,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

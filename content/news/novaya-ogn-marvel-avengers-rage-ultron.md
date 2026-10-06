@@ -1,6 +1,6 @@
 {
   "title": "Новая OGN Марвел “AVENGERS: RAGE OF ULTRON” + UPD.: Цветное превью!",
-  "date": "2014-07-27T00:18:00+03:00",
+  "date": "2014-07-26T23:18:00+03:00",
   "url": "/news/novaya-ogn-marvel-avengers-rage-ultron/",
   "original_url": "https://spidermedia.ru/news/novaya-ogn-marvel-avengers-rage-ultron",
   "archived": "https://web.archive.org/web/20260120234759/https://spidermedia.ru/news/novaya-ogn-marvel-avengers-rage-ultron",
@@ -10,6 +10,12 @@
     "marvel",
     "san-diego-comic-con-international",
     "dzherom-openya"
+  ],
+  "cover": "https://web.archive.org/web/20150326160633im_/http://spidermedia.ru/assets/images/import_image/7926.jpg",
+  "modx_id": 7926,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

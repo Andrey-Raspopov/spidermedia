@@ -1,6 +1,6 @@
 {
   "title": "Лица Медии - Bastion7",
-  "date": "2009-10-26T18:35:00+03:00",
+  "date": "2009-10-26T18:35:54+03:00",
   "url": "/blog/qvall/lica-medii-bastion7/",
   "original_url": "http://spidermedia.ru/blog/qvall/lica-medii-bastion7",
   "archived": "https://web.archive.org/web/20190731042831/http://spidermedia.ru:80/blog/qvall/lica-medii-bastion7",
@@ -8,11 +8,17 @@
     "intervyu",
     "spidermedia"
   ],
+  "cover": "https://web.archive.org/web/20150428232453im_/http://spidermedia.ru/assets/images/import_image/2026.jpg",
+  "modx_id": 2026,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-По следам знаменитого [журналиста](../../../node/1241/) Медии и заслуженного [блоггера](http://pay.diary.ru/~redson/p83804344.htm) Акиры Когами ака **"Красный"** :3
+По следам знаменитого [журналиста](../../redson/sp888-golaya-pravda/) Медии и заслуженного [блоггера](http://pay.diary.ru/~redson/p83804344.htm) Акиры Когами ака **"Красный"** :3
 ![](https://web.archive.org/web/20190731042831im_/http://img.photobucket.com/albums/v293/QVall/_bastion7.jpg)
 
 **Здравствуй, Бастион7. В первую очередь хочется спросить откуда такой ник? Второй вопрос: помнишь ли ты, как впервые попал на Медию и почему решил остаться?**

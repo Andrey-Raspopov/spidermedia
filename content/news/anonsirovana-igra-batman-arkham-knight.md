@@ -1,6 +1,6 @@
 {
   "title": "Анонсирована игра BATMAN: ARKHAM KNIGHT",
-  "date": "2014-03-04T21:11:00+03:00",
+  "date": "2014-03-04T20:11:36+03:00",
   "url": "/news/anonsirovana-igra-batman-arkham-knight/",
   "original_url": "https://spidermedia.ru/news/anonsirovana-igra-batman-arkham-knight",
   "archived": "https://web.archive.org/web/20251013191233/https://spidermedia.ru/news/anonsirovana-igra-batman-arkham-knight",
@@ -9,6 +9,12 @@
     "batman",
     "dc-comics",
     "arkham-asylum"
+  ],
+  "cover": "https://web.archive.org/web/20150326035748im_/http://spidermedia.ru/assets/images/import_image/7667.jpg",
+  "modx_id": 7667,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

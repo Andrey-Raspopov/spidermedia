@@ -1,7 +1,10 @@
 {
   "title": "SDCC'09: Уиллингхэм на Ангеле!",
-  "date": "2009-07-26T16:46:00+03:00",
+  "date": "2009-07-26T15:46:58+03:00",
   "url": "/news/sdcc09-uillinghem-na-angele/",
+  "aliases": [
+    "/node/1671/"
+  ],
   "original_url": "http://spidermedia.ru/news/sdcc09-uillinghem-na-angele",
   "archived": "https://web.archive.org/web/20260125052608/http://spidermedia.ru/news/sdcc09-uillinghem-na-angele",
   "tags": [
@@ -9,6 +12,11 @@
     "san-diego-comic-con-international",
     "idw-publishing",
     "bill-uillingem"
+  ],
+  "modx_id": 1671,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

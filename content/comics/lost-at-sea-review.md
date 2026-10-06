@@ -7,6 +7,12 @@
   "tags": [
     "bryan-lee-o-malley"
   ],
+  "cover": "https://web.archive.org/web/20200221075208im_/http://spidermedia.ru/assets/images/reviews/0f7c3f3ca28d0601e6e244612500a21c.jpg",
+  "modx_id": 100727,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -8,7 +8,14 @@
     "marvel",
     "iron-man",
     "captain-america",
-    "civil-war"
+    "civil-war",
+    "zheleznyy-chelovek"
+  ],
+  "cover": "https://web.archive.org/web/20160127160318im_/http://spidermedia.ru/assets/images/news/marvel/civil-war-ii/civil-war-2.jpg",
+  "modx_id": 100754,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

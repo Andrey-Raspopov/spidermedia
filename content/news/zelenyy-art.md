@@ -1,13 +1,23 @@
 {
   "title": "Зеленый Арт",
-  "date": "2010-01-31T16:32:00+03:00",
+  "date": "2010-01-31T16:32:34+03:00",
   "url": "/news/zelenyy-art/",
+  "aliases": [
+    "/node/2325/"
+  ],
   "original_url": "https://spidermedia.ru/news/zelenyy-art",
   "archived": "https://web.archive.org/web/20240524165534/https://spidermedia.ru/news/zelenyy-art",
   "tags": [
     "koncept-art",
     "art-0",
-    "green-lantern"
+    "green-lantern",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20240524165534im_/http://spidermedia.ru/assets/images/import_image/2325.jpg",
+  "modx_id": 2325,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

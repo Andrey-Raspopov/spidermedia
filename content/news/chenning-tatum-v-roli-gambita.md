@@ -1,6 +1,6 @@
 {
   "title": "Ченнинг Татум в роли Гамбита",
-  "date": "2014-02-01T04:07:00+03:00",
+  "date": "2014-02-01T03:07:35+03:00",
   "url": "/news/chenning-tatum-v-roli-gambita/",
   "original_url": "http://spidermedia.ru/news/chenning-tatum-v-roli-gambita",
   "archived": "https://web.archive.org/web/20250913021412/http://spidermedia.ru/news/chenning-tatum-v-roli-gambita",
@@ -8,7 +8,15 @@
     "marvel",
     "x-men",
     "gambit",
-    "fantastic-four"
+    "fantastic-four",
+    "lyudi-iks",
+    "fantasticheskaya-chetverka"
+  ],
+  "cover": "https://web.archive.org/web/20150424151117im_/http://spidermedia.ru/assets/images/import_image/7621.jpg",
+  "modx_id": 7621,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

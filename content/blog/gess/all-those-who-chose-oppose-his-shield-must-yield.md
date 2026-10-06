@@ -1,13 +1,23 @@
 {
   "title": "All those who chose to oppose his shield must yield",
-  "date": "2009-12-03T02:35:00+03:00",
+  "date": "2009-12-03T01:35:31+03:00",
   "url": "/blog/gess/all-those-who-chose-oppose-his-shield-must-yield/",
+  "aliases": [
+    "/node/2147/"
+  ],
   "original_url": "http://spidermedia.ru/blog/gess/all-those-who-chose-oppose-his-shield-must-yield",
   "archived": "https://web.archive.org/web/20120512081308/http://spidermedia.ru/blog/gess/all-those-who-chose-oppose-his-shield-must-yield",
   "tags": [
     "captain-america-wankery",
     "geek-stuff",
-    "kapitan-amerika"
+    "kapitan-amerika",
+    "captain-america"
+  ],
+  "cover": "https://web.archive.org/web/20120512081308im_/http://spidermedia.ru/assets/images/import_image/2147.jpg",
+  "modx_id": 2147,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

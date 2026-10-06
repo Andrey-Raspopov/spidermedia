@@ -1,12 +1,19 @@
 {
   "title": "ЭКСКЛЮЗИВ: Первый взгляд на DREADCORE #2",
-  "date": "2014-08-01T13:17:00+03:00",
+  "date": "2014-08-01T12:17:21+03:00",
   "url": "/news/eksklyuziv-pervyy-vzglyad-na-dreadcore-2/",
   "original_url": "https://spidermedia.ru/news/eksklyuziv-pervyy-vzglyad-na-dreadcore-2",
   "archived": "https://web.archive.org/web/20251018223546/https://spidermedia.ru/news/eksklyuziv-pervyy-vzglyad-na-dreadcore-2",
   "tags": [
     "preview",
-    "izdatelstvo-42"
+    "izdatelstvo-42",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20251018223546im_/http://spidermedia.ru/assets/images/import_image/7956.jpg",
+  "modx_id": 7956,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

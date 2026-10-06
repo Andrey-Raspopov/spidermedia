@@ -9,6 +9,12 @@
     "marvel",
     "nelyudi"
   ],
+  "cover": "https://web.archive.org/web/20250512112044im_/http://spidermedia.ru/assets/images/news/marvel/inhumans/black-bolt-1-cover.jpg",
+  "modx_id": 101416,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

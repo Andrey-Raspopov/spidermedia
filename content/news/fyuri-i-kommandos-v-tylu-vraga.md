@@ -1,7 +1,10 @@
 {
   "title": "Фьюри и Коммандос: В тылу врага",
-  "date": "2009-03-25T23:39:00+03:00",
+  "date": "2009-03-25T22:39:51+03:00",
   "url": "/news/fyuri-i-kommandos-v-tylu-vraga/",
+  "aliases": [
+    "/node/768/"
+  ],
   "original_url": "http://spidermedia.ru/news/fyuri-i-kommandos-v-tylu-vraga",
   "archived": "https://web.archive.org/web/20120607055235/http://spidermedia.ru/news/fyuri-i-kommandos-v-tylu-vraga",
   "tags": [
@@ -12,7 +15,15 @@
     "marvel",
     "nik-fyuri",
     "oblozhki",
-    "preview-s"
+    "preview-s",
+    "prevyu",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20120607055235im_/http://spidermedia.ru/assets/images/import_image/768.jpg",
+  "modx_id": 768,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

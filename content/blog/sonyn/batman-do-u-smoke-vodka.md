@@ -1,11 +1,19 @@
 {
   "title": "Batman, do u smoke vodka?",
-  "date": "2009-05-21T20:46:00+03:00",
+  "date": "2009-05-21T19:46:03+03:00",
   "url": "/blog/sonyn/batman-do-u-smoke-vodka/",
+  "aliases": [
+    "/node/1252/"
+  ],
   "original_url": "http://spidermedia.ru/blog/sonyn/batman-do-u-smoke-vodka",
   "archived": "https://web.archive.org/web/20120718054602/http://spidermedia.ru/blog/sonyn/batman-do-u-smoke-vodka",
   "tags": [
     "batman"
+  ],
+  "modx_id": 1252,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

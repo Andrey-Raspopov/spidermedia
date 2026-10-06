@@ -1,7 +1,10 @@
 {
   "title": "SDCC 2009 - DCU",
-  "date": "2009-07-26T09:21:00+03:00",
+  "date": "2009-07-26T08:21:11+03:00",
   "url": "/news/sdcc-2009-dcu/",
+  "aliases": [
+    "/node/1667/"
+  ],
   "original_url": "http://spidermedia.ru/news/sdcc-2009-dcu",
   "archived": "https://web.archive.org/web/20120607184755/http://spidermedia.ru/news/sdcc-2009-dcu",
   "tags": [
@@ -18,7 +21,15 @@
     "dzheff-dzhons",
     "komik-kon-v-san-diego",
     "komiksy",
-    "pol-dini"
+    "pol-dini",
+    "san-diego-comic-con-international",
+    "justice-league"
+  ],
+  "cover": "https://web.archive.org/web/20120607184755im_/http://spidermedia.ru/assets/images/import_image/1667.jpg",
+  "modx_id": 1667,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

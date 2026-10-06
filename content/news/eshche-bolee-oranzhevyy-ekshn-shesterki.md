@@ -1,7 +1,10 @@
 {
   "title": "Еще более оранжевый экшн Шестерки",
-  "date": "2009-04-08T02:00:00+03:00",
+  "date": "2009-04-08T01:00:53+03:00",
   "url": "/news/eshche-bolee-oranzhevyy-ekshn-shesterki/",
+  "aliases": [
+    "/node/870/"
+  ],
   "original_url": "http://spidermedia.ru/news/eshche-bolee-oranzhevyy-ekshn-shesterki",
   "archived": "https://web.archive.org/web/20260206223909/http://spidermedia.ru/news/eshche-bolee-oranzhevyy-ekshn-shesterki",
   "tags": [
@@ -12,6 +15,12 @@
     "greg-rakka",
     "ajvan-rejs",
     "gejl-simon"
+  ],
+  "cover": "https://web.archive.org/web/20260206223909im_/http://spidermedia.ru/assets/images/import_image/870.jpg",
+  "modx_id": 870,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

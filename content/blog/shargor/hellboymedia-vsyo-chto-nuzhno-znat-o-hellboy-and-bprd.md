@@ -1,6 +1,6 @@
 {
   "title": "Hellboymedia: Всё, что нужно знать о Hellboy and the B.P.R.D.",
-  "date": "2014-12-03T15:25:00+03:00",
+  "date": "2014-12-03T15:25:34+03:00",
   "url": "/blog/shargor/hellboymedia-vsyo-chto-nuzhno-znat-o-hellboy-and-bprd/",
   "original_url": "http://spidermedia.ru/blog/shargor/hellboymedia-vsyo-chto-nuzhno-znat-o-hellboy-and-bprd",
   "archived": "https://web.archive.org/web/20260206231016/http://spidermedia.ru/blog/shargor/hellboymedia-vsyo-chto-nuzhno-znat-o-hellboy-and-bprd",
@@ -8,6 +8,12 @@
     "hellboymedia",
     "20-let-hellboya",
     "guide"
+  ],
+  "cover": "https://web.archive.org/web/20160417210925im_/http://spidermedia.ru/assets/images/hellboymedia/guide/hellboy-and-the-bprd/hellboy-and-the-b.p.r.d.-guide-cover.jpg",
+  "modx_id": 8337,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

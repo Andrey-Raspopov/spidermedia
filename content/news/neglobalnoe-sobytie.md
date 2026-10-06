@@ -1,6 +1,6 @@
 {
   "title": "Неглобальное событие",
-  "date": "2012-12-11T17:03:00+03:00",
+  "date": "2012-12-11T16:03:26+03:00",
   "url": "/news/neglobalnoe-sobytie/",
   "original_url": "https://spidermedia.ru/news/neglobalnoe-sobytie",
   "archived": "https://web.archive.org/web/20260125070807/https://spidermedia.ru/news/neglobalnoe-sobytie",
@@ -11,6 +11,12 @@
     "valiant-entertainment",
     "barri-kitson",
     "hari-evans"
+  ],
+  "cover": "https://web.archive.org/web/20150327040928im_/http://spidermedia.ru/assets/images/import_image/7103.jpg",
+  "modx_id": 7103,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

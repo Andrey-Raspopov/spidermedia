@@ -1,7 +1,10 @@
 {
   "title": "Июньский расклад карт",
-  "date": "2009-03-21T00:45:00+03:00",
+  "date": "2009-03-21T00:45:30+03:00",
   "url": "/news/iyunskiy-rasklad-kart/",
+  "aliases": [
+    "/node/734/"
+  ],
   "original_url": "http://spidermedia.ru/news/iyunskiy-rasklad-kart",
   "archived": "https://web.archive.org/web/20260117230857/http://spidermedia.ru/news/iyunskiy-rasklad-kart",
   "tags": [
@@ -9,7 +12,15 @@
     "preview",
     "majk-keri",
     "art-0",
-    "gambit"
+    "gambit",
+    "prevyu",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20260117230857im_/http://spidermedia.ru/assets/images/import_image/734.jpg",
+  "modx_id": 734,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

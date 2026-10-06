@@ -1,13 +1,22 @@
 {
   "title": "Поиграем? Marvel Super Hero Squad",
-  "date": "2009-06-05T22:53:00+03:00",
+  "date": "2009-06-05T21:53:51+03:00",
   "url": "/news/poigraem-marvel-super-hero-squad/",
+  "aliases": [
+    "/node/1359/"
+  ],
   "original_url": "http://spidermedia.ru/news/poigraem-marvel-super-hero-squad",
   "archived": "https://web.archive.org/web/20260211191141/http://spidermedia.ru/news/poigraem-marvel-super-hero-squad",
   "tags": [
     "marvel",
     "igry",
     "trejlery"
+  ],
+  "cover": "https://web.archive.org/web/20160611155800im_/http://spidermedia.ru/assets/images/import_image/1359.jpg",
+  "modx_id": 1359,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

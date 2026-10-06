@@ -8,6 +8,12 @@
     "icon-comics",
     "powers"
   ],
+  "cover": "https://web.archive.org/web/20250906200757im_/http://spidermedia.ru/assets/images/tv/powers/02/powersposterjpg-652c6b_765w.jpg",
+  "modx_id": 101188,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,7 +1,10 @@
 {
   "title": "Охотник на вампиров",
-  "date": "2009-07-26T19:29:00+03:00",
+  "date": "2009-07-26T18:29:32+03:00",
   "url": "/news/ohotnik-na-vampirov/",
+  "aliases": [
+    "/node/1674/"
+  ],
   "original_url": "http://spidermedia.ru/news/ohotnik-na-vampirov",
   "archived": "https://web.archive.org/web/20250217074448/http://spidermedia.ru/news/ohotnik-na-vampirov",
   "tags": [
@@ -14,6 +17,11 @@
     "lord-baltimore",
     "dark-horse",
     "christopher-golden"
+  ],
+  "modx_id": 1674,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

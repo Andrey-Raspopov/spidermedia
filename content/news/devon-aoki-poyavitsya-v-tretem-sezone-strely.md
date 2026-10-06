@@ -1,6 +1,6 @@
 {
   "title": "Девон Аоки появится в третьем сезоне «Стрелы»",
-  "date": "2014-07-02T01:54:00+03:00",
+  "date": "2014-07-02T00:54:20+03:00",
   "url": "/news/devon-aoki-poyavitsya-v-tretem-sezone-strely/",
   "original_url": "http://spidermedia.ru/news/devon-aoki-poyavitsya-v-tretem-sezone-strely",
   "archived": "https://web.archive.org/web/20240807182149/http://spidermedia.ru/news/devon-aoki-poyavitsya-v-tretem-sezone-strely",
@@ -8,6 +8,12 @@
     "kasting",
     "green-arrow",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150502191439im_/http://spidermedia.ru/assets/images/import_image/7854.jpg",
+  "modx_id": 7854,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

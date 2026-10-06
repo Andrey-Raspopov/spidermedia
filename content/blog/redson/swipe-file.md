@@ -1,12 +1,19 @@
 {
   "title": "Swipe File",
-  "date": "2009-03-04T03:09:00+03:00",
+  "date": "2009-03-04T02:09:28+03:00",
   "url": "/blog/redson/swipe-file/",
   "original_url": "http://spidermedia.ru/blog/redson/swipe-file",
   "archived": "https://web.archive.org/web/20111126101732/http://spidermedia.ru/blog/redson/swipe-file",
   "tags": [
     "art-0",
-    "marko-dzhurdzhevich"
+    "marko-dzhurdzhevich",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20150315210246im_/http://spidermedia.ru/assets/images/ecahznqzhc4.jpg",
+  "modx_id": 579,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

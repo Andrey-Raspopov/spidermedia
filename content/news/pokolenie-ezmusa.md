@@ -1,6 +1,6 @@
 {
   "title": "Поколение Эзмуса",
-  "date": "2011-08-16T04:02:00+03:00",
+  "date": "2011-08-16T03:02:43+03:00",
   "url": "/news/pokolenie-ezmusa/",
   "original_url": "http://spidermedia.ru/news/pokolenie-ezmusa",
   "archived": "https://web.archive.org/web/20251207005508/http://spidermedia.ru/news/pokolenie-ezmusa",
@@ -9,7 +9,14 @@
     "x-men",
     "dzhejms-ezmus",
     "ibraim-roberson",
-    "marvel"
+    "marvel",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20251207005508im_/http://spidermedia.ru/assets/images/import_image/6565.jpg",
+  "modx_id": 6565,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

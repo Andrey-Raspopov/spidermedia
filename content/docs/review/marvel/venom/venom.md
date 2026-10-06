@@ -4,6 +4,9 @@
   "url": "/docs/review/marvel/venom/venom/",
   "original_url": "http://www.spidermedia.ru/docs/review/marvel/venom/venom.html",
   "archived": "https://web.archive.org/web/20050310011334/http://www.spidermedia.ru:80/docs/review/marvel/venom/venom.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

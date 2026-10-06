@@ -9,6 +9,12 @@
     "luke-cage",
     "kasting"
   ],
+  "cover": "https://web.archive.org/web/20251115031410im_/http://spidermedia.ru/assets/images/gallery/100221/original_jessica-and-luke-02.jpg",
+  "modx_id": 100508,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,7 +1,10 @@
 {
   "title": "Зомби на планете обезьян",
-  "date": "2009-07-20T21:22:00+03:00",
+  "date": "2009-07-20T20:22:40+03:00",
   "url": "/news/zombi-na-planete-obezyan/",
+  "aliases": [
+    "/node/1610/"
+  ],
   "original_url": "http://spidermedia.ru/news/zombi-na-planete-obezyan",
   "archived": "https://web.archive.org/web/20120607105917/http://spidermedia.ru/news/zombi-na-planete-obezyan",
   "tags": [
@@ -14,7 +17,14 @@
     "marvel-zombi",
     "marvel-obezyany",
     "oblozhki",
-    "rob-disalvo"
+    "rob-disalvo",
+    "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20120607105917im_/http://spidermedia.ru/assets/images/import_image/1610.png",
+  "modx_id": 1610,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

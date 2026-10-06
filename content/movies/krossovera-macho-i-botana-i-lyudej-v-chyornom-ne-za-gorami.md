@@ -7,6 +7,12 @@
   "tags": [
     "men-in-black"
   ],
+  "cover": "https://web.archive.org/web/20160506174619im_/http://spidermedia.ru/assets/images/news/movies/22-jump-street-men-in-black-movie.jpg",
+  "modx_id": 100971,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

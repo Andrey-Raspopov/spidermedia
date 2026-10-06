@@ -1,13 +1,23 @@
 {
   "title": "Очередная смерть",
-  "date": "2009-05-20T19:31:00+03:00",
+  "date": "2009-05-20T18:31:37+03:00",
   "url": "/news/ocherednaya-smert/",
+  "aliases": [
+    "/node/1249/"
+  ],
   "original_url": "http://spidermedia.ru/news/ocherednaya-smert",
   "archived": "https://web.archive.org/web/20120607090145/http://spidermedia.ru/news/ocherednaya-smert",
   "tags": [
     "dc-comics",
     "teen-titans",
-    "art-0"
+    "art-0",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20120607090145im_/http://spidermedia.ru/assets/images/import_image/1249.jpg",
+  "modx_id": 1249,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

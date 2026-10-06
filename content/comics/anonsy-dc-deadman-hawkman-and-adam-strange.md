@@ -9,6 +9,12 @@
     "deadman",
     "dedmen"
   ],
+  "cover": "https://web.archive.org/web/20260314075000im_/http://spidermedia.ru/assets/images/news/dc/deadman-2016-00_1.jpg",
+  "modx_id": 101269,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

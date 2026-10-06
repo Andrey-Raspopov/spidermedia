@@ -4,6 +4,9 @@
   "url": "/characters/marvel/original/flash_thompson/",
   "original_url": "http://www.spidermedia.ru/characters/marvel/original/flash_thompson.html",
   "archived": "https://web.archive.org/web/20040717232532/http://www.spidermedia.ru:80/characters/marvel/original/flash_thompson.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

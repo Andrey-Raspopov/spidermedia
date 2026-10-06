@@ -8,6 +8,12 @@
     "doctor-who",
     "obzor"
   ],
+  "cover": "https://web.archive.org/web/20250714235448im_/http://spidermedia.ru/assets/images/tv/doctor-who/p032kzkm1-850x560.jpg",
+  "modx_id": 100578,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

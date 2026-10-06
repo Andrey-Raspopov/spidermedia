@@ -7,6 +7,12 @@
   "tags": [
     "titan-comics"
   ],
+  "cover": "https://web.archive.org/web/20190913005021im_/http://spidermedia.ru/assets/images/news/images/1_comics/titan-comics/penny-dreadful/penny-dreadful(1).jpg",
+  "modx_id": 100916,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

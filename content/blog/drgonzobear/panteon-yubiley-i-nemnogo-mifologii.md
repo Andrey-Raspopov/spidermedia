@@ -1,6 +1,6 @@
 {
   "title": "Пантеон: юбилей и немного мифологии.",
-  "date": "2012-10-13T19:37:00+03:00",
+  "date": "2012-10-13T18:37:20+03:00",
   "url": "/blog/drgonzobear/panteon-yubiley-i-nemnogo-mifologii/",
   "original_url": "http://spidermedia.ru/blog/drgonzobear/panteon-yubiley-i-nemnogo-mifologii",
   "archived": "https://web.archive.org/web/20210118144249/http://spidermedia.ru/blog/drgonzobear/panteon-yubiley-i-nemnogo-mifologii",
@@ -11,6 +11,12 @@
     "religioznaya-satira",
     "stimpank",
     "boevik"
+  ],
+  "cover": "https://web.archive.org/web/20150428172414im_/http://spidermedia.ru/assets/images/import_image/7063.jpg",
+  "modx_id": 7063,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "Темный и Уникальный Кроссовер'09",
-  "date": "2009-03-02T00:50:00+03:00",
+  "date": "2009-03-01T23:50:52+03:00",
   "url": "/news/temnyy-i-unikalnyy-krossover09/",
+  "aliases": [
+    "/node/559/"
+  ],
   "original_url": "http://spidermedia.ru/news/temnyy-i-unikalnyy-krossover09",
   "archived": "https://web.archive.org/web/20120611042006/http://spidermedia.ru/news/temnyy-i-unikalnyy-krossover09",
   "tags": [
@@ -15,7 +18,17 @@
     "marvel",
     "mett-frakshen",
     "oblozhki",
-    "tyomnye-mstiteli"
+    "tyomnye-mstiteli",
+    "lyudi-iks",
+    "avengers",
+    "brian-michael-bendis",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20120611042006im_/http://spidermedia.ru/assets/images/import_image/559.jpg",
+  "modx_id": 559,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

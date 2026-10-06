@@ -1,11 +1,20 @@
 {
   "title": "Эпик эпичных эпичностей",
-  "date": "2010-03-18T11:05:00+03:00",
+  "date": "2010-03-18T11:05:11+03:00",
   "url": "/news/epik-epichnyh-epichnostey/",
+  "aliases": [
+    "/node/2452/"
+  ],
   "original_url": "http://spidermedia.ru/news/epik-epichnyh-epichnostey",
   "archived": "https://web.archive.org/web/20190929131152/http://spidermedia.ru:80/news/epik-epichnyh-epichnostey",
   "tags": [
     "scott-pilgrim"
+  ],
+  "cover": "https://web.archive.org/web/20150502164313im_/http://spidermedia.ru/assets/images/import_image/2452.jpg",
+  "modx_id": 2452,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -7,6 +7,12 @@
   "tags": [
     "gamermedia"
   ],
+  "cover": "https://web.archive.org/web/20180201133543im_/http://spidermedia.ru/assets/images/games/oblozhka-litl-najtmers.png",
+  "modx_id": 101354,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

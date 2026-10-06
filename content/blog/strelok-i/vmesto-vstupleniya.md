@@ -1,12 +1,19 @@
 {
   "title": "Вместо вступления",
-  "date": "2009-02-05T00:39:00+03:00",
+  "date": "2009-02-05T00:39:56+03:00",
   "url": "/blog/strelok-i/vmesto-vstupleniya/",
   "original_url": "http://spidermedia.ru/blog/strelok-i/vmesto-vstupleniya",
   "archived": "https://web.archive.org/web/20230323045812/http://spidermedia.ru/blog/strelok-i/vmesto-vstupleniya",
   "tags": [
     "serialy",
-    "heroes"
+    "heroes",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20150502164623im_/http://spidermedia.ru/assets/images/import_image/200.jpg",
+  "modx_id": 200,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -6,7 +6,14 @@
   "archived": "https://web.archive.org/web/20260211092244/https://spidermedia.ru/tv/nycc-2015-trailer",
   "tags": [
     "dc-comics",
-    "komik-kon-v-nyu-yorke"
+    "komik-kon-v-nyu-yorke",
+    "nycc-2015"
+  ],
+  "cover": "https://web.archive.org/web/20260211092244im_/http://spidermedia.ru/assets/images/comic-con/2015/nycc/new-york-comic-con-2015.jpg",
+  "modx_id": 100653,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

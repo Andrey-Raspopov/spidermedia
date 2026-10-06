@@ -9,6 +9,12 @@
     "derik-robertson",
     "image-comics"
   ],
+  "cover": "https://web.archive.org/web/20251111074338im_/http://spidermedia.ru/assets/images/tv/happy/01/cover.jpg",
+  "modx_id": 101755,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

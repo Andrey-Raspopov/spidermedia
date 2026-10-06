@@ -8,7 +8,14 @@
     "gi-joe",
     "larri-hama",
     "san-diego-comic-con-international",
-    "idw-publishing"
+    "idw-publishing",
+    "sdcc2015"
+  ],
+  "cover": "https://web.archive.org/web/20180205111704im_/http://spidermedia.ru/assets/images/news/idw/gi-joe/hama1.jpg",
+  "modx_id": 100365,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

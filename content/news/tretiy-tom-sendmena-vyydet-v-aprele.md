@@ -1,6 +1,6 @@
 {
   "title": "Третий том \"Сэндмэна\" выйдет в апреле",
-  "date": "2012-03-27T14:02:00+03:00",
+  "date": "2012-03-27T13:02:11+03:00",
   "url": "/news/tretiy-tom-sendmena-vyydet-v-aprele/",
   "original_url": "https://spidermedia.ru/news/tretiy-tom-sendmena-vyydet-v-aprele",
   "archived": "https://web.archive.org/web/20251013193415/https://spidermedia.ru/news/tretiy-tom-sendmena-vyydet-v-aprele",
@@ -11,6 +11,12 @@
     "kelli-dzhons",
     "zarubezhnye-komiksy-na-russkom",
     "komiks-art"
+  ],
+  "cover": "https://web.archive.org/web/20160611144923im_/http://spidermedia.ru/assets/images/import_image/6847.jpg",
+  "modx_id": 6847,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

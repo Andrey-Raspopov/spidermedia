@@ -1,13 +1,22 @@
 {
   "title": "Кровь, секс и немного металла",
-  "date": "2009-06-07T19:10:00+03:00",
+  "date": "2009-06-07T18:10:19+03:00",
   "url": "/news/krov-seks-i-nemnogo-metalla/",
+  "aliases": [
+    "/node/1375/"
+  ],
   "original_url": "http://spidermedia.ru/news/krov-seks-i-nemnogo-metalla",
   "archived": "https://web.archive.org/web/20251117011958/http://spidermedia.ru/news/krov-seks-i-nemnogo-metalla",
   "tags": [
     "animaciya",
     "heavy-metal",
     "tyazhelyj-metall"
+  ],
+  "cover": "https://web.archive.org/web/20150428170913im_/http://spidermedia.ru/assets/images/import_image/1375.jpg",
+  "modx_id": 1375,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

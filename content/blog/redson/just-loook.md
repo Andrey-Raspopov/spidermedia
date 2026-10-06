@@ -1,13 +1,23 @@
 {
   "title": "Just loook at this",
-  "date": "2010-07-16T17:12:00+03:00",
+  "date": "2010-07-16T16:12:39+03:00",
   "url": "/blog/redson/just-loook/",
+  "aliases": [
+    "/node/2741/"
+  ],
   "original_url": "http://spidermedia.ru/blog/redson/just-loook",
   "archived": "https://web.archive.org/web/20200221074110/http://spidermedia.ru:80/blog/redson/just-loook",
   "tags": [
     "dzhejms-dzhin",
     "james-jean",
-    "art-0"
+    "art-0",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20200221074110im_/http://spidermedia.ru/assets/images/import_image/2741.jpg",
+  "modx_id": 2741,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

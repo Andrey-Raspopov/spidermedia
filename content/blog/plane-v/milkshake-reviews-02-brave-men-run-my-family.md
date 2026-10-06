@@ -1,7 +1,10 @@
 {
   "title": "Milkshake Reviews - 02 - Brave men run in my family",
-  "date": "2010-05-18T18:11:00+03:00",
+  "date": "2010-05-18T17:11:37+03:00",
   "url": "/blog/plane-v/milkshake-reviews-02-brave-men-run-my-family/",
+  "aliases": [
+    "/node/2627/"
+  ],
   "original_url": "http://spidermedia.ru/blog/plane-v/milkshake-reviews-02-brave-men-run-my-family",
   "archived": "https://web.archive.org/web/20251108185558/http://spidermedia.ru/blog/plane-v/milkshake-reviews-02-brave-men-run-my-family",
   "tags": [
@@ -11,7 +14,14 @@
     "manga",
     "milkshake-reviews",
     "fantagraphics",
-    "dark-horse"
+    "dark-horse",
+    "mett-frakshen"
+  ],
+  "cover": "https://web.archive.org/web/20251108185558im_/http://spidermedia.ru/assets/images/import_image/2627.jpg",
+  "modx_id": 2627,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

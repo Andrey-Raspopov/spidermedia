@@ -9,6 +9,12 @@
     "roskomnadzor",
     "russian-comics"
   ],
+  "cover": "https://web.archive.org/web/20160611154758im_/http://spidermedia.ru/assets/images/roskomnadzor/13112015/1.jpg",
+  "modx_id": 100700,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
@@ -238,7 +244,7 @@ XL Media переиздала титульную историю **«Саги»*
 
 Двуязычная [рецензия на «Рай»](../../blog/larosh/obzor-ray-russkoyazychnoe-izdanie-0/) от Алексея Замского и Олега Хижняка (кто бы мог подумать, что потом у нас будет [целая рубрика](https://web.archive.org/web/20260115053230/http://spidermedia.ru/comics?tag=All-Things-Valiant) про издательство Valiant).
 
-И это не единственное парное выступление: например, Олег и Юрий Коломенский написали [про «Прометея»](https://web.archive.org/web/20251216180634/https://spidermedia.ru/comics/recenziya-prometej-ogon-i-kamen), а в компании Кирилла Иванова обсудила [«Скотта Пилигрима»](../scott-pilgrim-komilfo/).
+И это не единственное парное выступление: например, Олег и Юрий Коломенский написали [про «Прометея»](../recenziya-prometej-ogon-i-kamen/), а в компании Кирилла Иванова обсудила [«Скотта Пилигрима»](../scott-pilgrim-komilfo/).
 
 Однажды об одном [комиксе](../../blog/derden/all-new-mzhdz-vostok-zapada-0/) мы говорили даже втроем, уж очень тут любят «Восток Запада».
 

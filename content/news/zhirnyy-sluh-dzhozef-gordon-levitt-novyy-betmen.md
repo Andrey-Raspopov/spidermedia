@@ -1,6 +1,6 @@
 {
   "title": "Жирный слух: Джозеф Гордон-Левитт - новый Бэтмен",
-  "date": "2012-11-28T11:26:00+03:00",
+  "date": "2012-11-28T10:26:13+03:00",
   "url": "/news/zhirnyy-sluh-dzhozef-gordon-levitt-novyy-betmen/",
   "original_url": "http://spidermedia.ru/news/zhirnyy-sluh-dzhozef-gordon-levitt-novyy-betmen",
   "archived": "https://web.archive.org/web/20260215080738/http://spidermedia.ru/news/zhirnyy-sluh-dzhozef-gordon-levitt-novyy-betmen",
@@ -10,6 +10,12 @@
     "batman",
     "dc-comics",
     "dark-knight"
+  ],
+  "cover": "https://web.archive.org/web/20260215080738im_/http://spidermedia.ru/assets/images/import_image/7095.jpg",
+  "modx_id": 7095,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

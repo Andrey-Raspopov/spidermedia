@@ -1,6 +1,6 @@
 {
   "title": "ВАМПИРЫ против ЗОМБИ в комиксе EMPIRE OF THE DEAD Джорджа Ромеро",
-  "date": "2014-01-19T19:14:00+03:00",
+  "date": "2014-01-19T18:14:55+03:00",
   "url": "/news/vampiry-protiv-zombi-v-komikse-empire-dead-dzhordzha-romero/",
   "original_url": "https://spidermedia.ru/news/vampiry-protiv-zombi-v-komikse-empire-dead-dzhordzha-romero",
   "archived": "https://web.archive.org/web/20250328002043/https://spidermedia.ru/news/vampiry-protiv-zombi-v-komikse-empire-dead-dzhordzha-romero",
@@ -10,6 +10,12 @@
     "marvel",
     "zombi",
     "dzhordzh-romero"
+  ],
+  "cover": "https://web.archive.org/web/20150428180627im_/http://spidermedia.ru/assets/images/import_image/7607.jpg",
+  "modx_id": 7607,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

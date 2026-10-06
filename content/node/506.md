@@ -12,6 +12,9 @@
     "mett-frakshen",
     "preview-s"
   ],
+  "sources": [
+    "archive"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

@@ -1,12 +1,18 @@
 {
   "title": "ALL-NEW МЖДЗ: FRIENDSHIP TO THE MAX!",
-  "date": "2014-05-27T12:15:00+03:00",
+  "date": "2014-05-27T11:15:14+03:00",
   "url": "/news/all-new-mzhdz-friendship-max/",
   "original_url": "http://spidermedia.ru/news/all-new-mzhdz-friendship-max",
   "archived": "https://web.archive.org/web/20260313112651/http://spidermedia.ru/news/all-new-mzhdz-friendship-max",
   "tags": [
     "mnenie",
     "mzhdz"
+  ],
+  "cover": "https://web.archive.org/web/20160715180638im_/http://spidermedia.ru/assets/images/import_image/7757.jpg",
+  "modx_id": 7757,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

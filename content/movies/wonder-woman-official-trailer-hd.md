@@ -8,6 +8,12 @@
     "dc-comics",
     "wonder-woman"
   ],
+  "cover": "https://web.archive.org/web/20260125131757im_/http://spidermedia.ru/assets/images/movies/dc/wonder-woman-2017/wonder-woman-the-movie-new-official-trailer-tom-lorenzo-site-25.jpg",
+  "modx_id": 101398,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,12 +1,19 @@
 {
   "title": "You there! With the ears!",
-  "date": "2010-02-17T20:48:00+03:00",
+  "date": "2010-02-17T20:48:05+03:00",
   "url": "/blog/plane-v/you-there-ears/",
   "original_url": "https://spidermedia.ru/blog/plane-v/you-there-ears",
   "archived": "https://web.archive.org/web/20260125070917/https://spidermedia.ru/blog/plane-v/you-there-ears",
   "tags": [
     "muzyka",
-    "art-0"
+    "art-0",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20260125070917im_/http://spidermedia.ru/assets/images/import_image/2382.jpg",
+  "modx_id": 2382,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
@@ -22,7 +29,7 @@
 One does not simply work in Heavy Metal magazine. 43 миллиона копий и я до сих пор не могу понять, что люди находят в Мит Лоуфе.
 [![Jethro Thull](https://web.archive.org/web/20260125070917im_/http://i563.photobucket.com/albums/ss77/vi_spidermedia/covers/too_oldthum.jpg)](http://i563.photobucket.com/albums/ss77/vi_spidermedia/covers/too_old.jpg) [![Jethro Thull 1](https://web.archive.org/web/20260125070917im_/http://i563.photobucket.com/albums/ss77/vi_spidermedia/covers/too_old_cartoon1thum.jpg)](http://i563.photobucket.com/albums/ss77/vi_spidermedia/covers/too_old_cartoon1.jpg) [![Jethro Thull 2](https://web.archive.org/web/20260125070917im_/http://i563.photobucket.com/albums/ss77/vi_spidermedia/covers/too_old_cartoon2thum.jpg)](http://i563.photobucket.com/albums/ss77/vi_spidermedia/covers/too_old_cartoon2.jpg)
 **Дэйв Гиббонс**: Jethro Tull - Too Old To Rock'n'Roll, Too Young To Die
-Когда-то художнику Watchmen приходилось заниматься не такой уж иконической работой вроде [рисования комиксов про супергероя-регулировщика](http://spidermedia.ru/node/2072) или вот иллюстрацией концептуальных альбомов. Я знаю, что в этой группе есть флейтист и я слышал Aqualung нуууу и все. К счастью для Гиббонса, в следующем году начал выходить 2000 AD.
+Когда-то художнику Watchmen приходилось заниматься не такой уж иконической работой вроде [рисования комиксов про супергероя-регулировщика](../../gess/mister-zelyonyy-krestonosec/) или вот иллюстрацией концептуальных альбомов. Я знаю, что в этой группе есть флейтист и я слышал Aqualung нуууу и все. К счастью для Гиббонса, в следующем году начал выходить 2000 AD.
 [![Kula](https://web.archive.org/web/20260125070917im_/http://i563.photobucket.com/albums/ss77/vi_spidermedia/covers/kula.jpg)](http://s563.photobucket.com/albums/ss77/vi_spidermedia/covers/613px-KulaShaker_K.jpg)
 **Дэйв Гиббонс**: *Kula Shaker - K*
 Любимая группа Кирона Гиллена и Дэвида Коля, йеее.

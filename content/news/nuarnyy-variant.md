@@ -1,7 +1,10 @@
 {
   "title": "Нуарный вариант",
-  "date": "2009-02-24T05:17:00+03:00",
+  "date": "2009-02-24T05:17:55+03:00",
   "url": "/news/nuarnyy-variant/",
+  "aliases": [
+    "/node/490/"
+  ],
   "original_url": "http://spidermedia.ru/news/nuarnyy-variant",
   "archived": "https://web.archive.org/web/20200217104510/http://spidermedia.ru:80/news/nuarnyy-variant",
   "tags": [
@@ -9,7 +12,13 @@
     "art-0",
     "noirverse",
     "marvel",
-    "daredevil"
+    "daredevil",
+    "art"
+  ],
+  "modx_id": 490,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

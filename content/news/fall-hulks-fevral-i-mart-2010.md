@@ -1,7 +1,10 @@
 {
   "title": "Fall of Hulks, февраль и март 2010",
-  "date": "2010-01-15T13:07:00+03:00",
+  "date": "2010-01-15T13:07:46+03:00",
   "url": "/news/fall-hulks-fevral-i-mart-2010/",
+  "aliases": [
+    "/node/2263/"
+  ],
   "original_url": "https://spidermedia.ru/news/fall-hulks-fevral-i-mart-2010",
   "archived": "https://web.archive.org/web/20260305233447/https://spidermedia.ru/news/fall-hulks-fevral-i-mart-2010",
   "tags": [
@@ -16,11 +19,16 @@
     "krasnyj-halk",
     "ralk"
   ],
+  "modx_id": 2263,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-Пройдемся по релизам издательства **Marvel**, касающихся мини-глобального события **[Fall of Hulks](../../node/2056/)** на **февраль** и **март** 2010 года.
+Пройдемся по релизам издательства **Marvel**, касающихся мини-глобального события **[Fall of Hulks](../padenie-halkov-ili-dzheff-parker-speshit-na-pomoshch/)** на **февраль** и **март** 2010 года.
 [![](https://web.archive.org/web/20260305233447im_/http://marvel.com/i/content/10268new_storyimage-47977786|100x150.jpg)](http://marvel.com/i/content/10268new_storyimage-47977786.jpg) [![](https://web.archive.org/web/20260305233447im_/http://i.annihil.us/u/prod/marvel/i/content/10683storystory_thumb-0987527..jpg)](http://i.annihil.us/u/prod/marvel/i/content/10683storystory_full-0987526..jpg)
 Обложки к февральскому **Hulk #20** и мартовскому **Hulk #21**.
 
@@ -38,4 +46,4 @@
 
 - В **Red Hulk#2**, от **Джефа Паркера** *(Jeff Parker)* и **Карлоса Родригиса** *(Carlos Rodriguez)*, стоит ждать рассказа причин и последствий договора между **Бэннером** и **Красным Халком**, отсылку к которому вы могли видеть в **Fall of Hulks: Gamma**, а так же объяснения причин того, почему **Лира** *(Lyra)* - дочь **Халка** из параллельного мира - присоединилась к **Интеллигенции**.
   Тем временем, **Red Hulk #3** будет посвящен **Рику Джонсу** *(Rick Jones)*, тому как тот стал **А-Бомб** *(A-Bomb)* и планам **Интеллигенции** на него.
-- В опровержение [высказанного ранее предположения](../../node/2056/), отметим что командой, которая станет работать над минисерией **Savage She-Hulks** станут: сценарист **Джефф Паркер** и художник **Сальвадор Эспин** *(Salva Espin)*. Сюжет первого номера будет рассказывать о том, почему **Лира** приняла сторону **Интеллигенции**, а потом присоединилась к **Колдуну** *(Wizard)* и его **Ужасной Четверке** *(Frightful Four)*.
+- В опровержение [высказанного ранее предположения](../padenie-halkov-ili-dzheff-parker-speshit-na-pomoshch/), отметим что командой, которая станет работать над минисерией **Savage She-Hulks** станут: сценарист **Джефф Паркер** и художник **Сальвадор Эспин** *(Salva Espin)*. Сюжет первого номера будет рассказывать о том, почему **Лира** приняла сторону **Интеллигенции**, а потом присоединилась к **Колдуну** *(Wizard)* и его **Ужасной Четверке** *(Frightful Four)*.

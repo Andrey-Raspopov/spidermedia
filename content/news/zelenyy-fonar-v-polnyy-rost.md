@@ -1,12 +1,18 @@
 {
   "title": "Зеленый Фонарь в полный рост",
-  "date": "2011-04-12T18:38:00+03:00",
+  "date": "2011-04-12T17:38:14+03:00",
   "url": "/news/zelenyy-fonar-v-polnyy-rost/",
   "original_url": "https://spidermedia.ru/news/zelenyy-fonar-v-polnyy-rost",
   "archived": "https://web.archive.org/web/20260211175205/https://spidermedia.ru/news/zelenyy-fonar-v-polnyy-rost",
   "tags": [
     "green-lantern",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20260211175205im_/http://spidermedia.ru/assets/images/import_image/4915.jpg",
+  "modx_id": 4915,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

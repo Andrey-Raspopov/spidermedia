@@ -1,6 +1,6 @@
 {
   "title": "SDCC: Фрагмент короткометражки Марвел \"Агент Картер\"",
-  "date": "2013-07-20T20:41:00+03:00",
+  "date": "2013-07-20T19:41:08+03:00",
   "url": "/news/fragment-korotkometrazhki-marvel-agent-karter/",
   "original_url": "http://spidermedia.ru/news/fragment-korotkometrazhki-marvel-agent-karter",
   "archived": "https://web.archive.org/web/20250617230655/http://spidermedia.ru/news/fragment-korotkometrazhki-marvel-agent-karter",
@@ -9,6 +9,12 @@
     "san-diego-comic-con-international",
     "captain-america",
     "agent-karter"
+  ],
+  "cover": "https://web.archive.org/web/20250617230655im_/http://spidermedia.ru/assets/images/import_image/7365.jpg",
+  "modx_id": 7365,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

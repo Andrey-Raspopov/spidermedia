@@ -8,6 +8,12 @@
     "spider-man",
     "parallel-comics"
   ],
+  "cover": "https://web.archive.org/web/20160501070848im_/http://spidermedia.ru/assets/images/reviews/parallel/ooblozhka.jpg",
+  "modx_id": 100962,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

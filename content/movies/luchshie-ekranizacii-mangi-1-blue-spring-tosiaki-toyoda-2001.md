@@ -7,6 +7,12 @@
   "tags": [
     "manga"
   ],
+  "cover": "https://web.archive.org/web/20160614010443im_/http://spidermedia.ru/assets/images/manga/movies/11847691.jpg",
+  "modx_id": 100461,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

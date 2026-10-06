@@ -1,7 +1,10 @@
 {
   "title": "Ultimate X - четвертый Ultimate онгоинг!",
-  "date": "2009-10-16T03:17:00+03:00",
+  "date": "2009-10-16T02:17:57+03:00",
   "url": "/news/ultimate-x-chetvertyy-ultimate-ongoing/",
+  "aliases": [
+    "/node/2000/"
+  ],
   "original_url": "https://spidermedia.ru/news/ultimate-x-chetvertyy-ultimate-ongoing",
   "archived": "https://web.archive.org/web/20250208091322/https://spidermedia.ru/news/ultimate-x-chetvertyy-ultimate-ongoing",
   "tags": [
@@ -9,7 +12,13 @@
     "x-men",
     "marvel",
     "dzhef-loeb",
-    "artur-adams"
+    "artur-adams",
+    "lyudi-iks"
+  ],
+  "modx_id": 2000,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

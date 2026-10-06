@@ -1,7 +1,10 @@
 {
   "title": "Красный Робин и другие",
-  "date": "2009-04-15T17:00:00+03:00",
+  "date": "2009-04-15T16:00:43+03:00",
   "url": "/news/krasnyy-robin-i-drugie/",
+  "aliases": [
+    "/node/941/"
+  ],
   "original_url": "https://spidermedia.ru/news/krasnyy-robin-i-drugie",
   "archived": "https://web.archive.org/web/20250913015129/https://spidermedia.ru/news/krasnyy-robin-i-drugie",
   "tags": [
@@ -14,11 +17,17 @@
     "dc-comics",
     "batman"
   ],
+  "cover": "https://web.archive.org/web/20250913015129im_/http://spidermedia.ru/assets/images/import_image/941.jpg",
+  "modx_id": 941,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-Наверняка Вы уже слышали о том, что после окончания **Битвы за Капюшон** (*Battle for the Cowl*) во вселенной **DC** появится новый ***[Красный Робин](../../node/672/)***. Кто им станет все еще неизвестно, а вот посмотреть на грядущие деяния героя можно уже сейчас, т.к. в интернете появилось довольно занимательное черно-белое превью первого номера:
+Наверняка Вы уже слышали о том, что после окончания **Битвы за Капюшон** (*Battle for the Cowl*) во вселенной **DC** появится новый ***[Красный Робин](../frensis-robinapul/)***. Кто им станет все еще неизвестно, а вот посмотреть на грядущие деяния героя можно уже сейчас, т.к. в интернете появилось довольно занимательное черно-белое превью первого номера:
 
 [![](https://web.archive.org/web/20250913015129im_/http://www.comicscontinuum.com/stories/0904/14/redrobin1ath.jpg)](http://www.comicscontinuum.com/stories/0904/14/redrobin1a.jpg) [![](https://web.archive.org/web/20250913015129im_/http://www.comicscontinuum.com/stories/0904/14/redrobin11th.jpg)](http://www.comicscontinuum.com/stories/0904/14/redrobin11.jpg) [![](https://web.archive.org/web/20250913015129im_/http://www.comicscontinuum.com/stories/0904/14/redrobin12th.jpg)](http://www.comicscontinuum.com/stories/0904/14/redrobin12.jpg) [![](https://web.archive.org/web/20250913015129im_/http://www.comicscontinuum.com/stories/0904/14/redrobin13th.jpg)](http://www.comicscontinuum.com/stories/0904/14/redrobin13.jpg) [![](https://web.archive.org/web/20250913015129im_/http://www.comicscontinuum.com/stories/0904/14/redrobin14th.jpg)](http://www.comicscontinuum.com/stories/0904/14/redrobin14.jpg)
 

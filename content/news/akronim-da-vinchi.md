@@ -1,7 +1,10 @@
 {
   "title": "Акроним Да Винчи",
-  "date": "2010-02-01T11:34:00+03:00",
+  "date": "2010-02-01T11:34:53+03:00",
   "url": "/news/akronim-da-vinchi/",
+  "aliases": [
+    "/node/2327/"
+  ],
   "original_url": "https://spidermedia.ru/news/akronim-da-vinchi",
   "archived": "https://web.archive.org/web/20240624131425/https://spidermedia.ru/news/akronim-da-vinchi",
   "tags": [
@@ -10,6 +13,12 @@
     "dzhonatan-hikman",
     "dastin-uiver",
     "s.h.i.e.l.d"
+  ],
+  "cover": "https://web.archive.org/web/20240624131425im_/http://spidermedia.ru/assets/images/import_image/2327.jpg",
+  "modx_id": 2327,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

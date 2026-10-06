@@ -1,7 +1,10 @@
 {
   "title": "Ближайшее будущее Marvel",
-  "date": "2009-02-28T20:25:00+03:00",
+  "date": "2009-02-28T19:25:01+03:00",
   "url": "/news/blizhayshee-budushchee-marvel/",
+  "aliases": [
+    "/node/549/"
+  ],
   "original_url": "http://spidermedia.ru/news/blizhayshee-budushchee-marvel",
   "archived": "https://web.archive.org/web/20120607191621/http://spidermedia.ru/news/blizhayshee-budushchee-marvel",
   "tags": [
@@ -16,7 +19,15 @@
     "marvel",
     "oblozhki",
     "preview-s",
-    "chelovek-pauk"
+    "chelovek-pauk",
+    "prevyu",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20120607191621im_/http://spidermedia.ru/assets/images/import_image/549.jpg",
+  "modx_id": 549,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"
@@ -34,7 +45,7 @@
 
 Но немножко отойдем от Паучих серий.
 
-В честь того, что Марвел в этом году исполняется 70 лет, выйдет группа одиночных выпусков, о чем мы уже [писали](../../node/397/). В нашем распоряжении новая обложка к **Капитанскому** номеру, первая страница прилогается, **Captain America Comics: 70th Anniversary Special**:
+В честь того, что Марвел в этом году исполняется 70 лет, выйдет группа одиночных выпусков, о чем мы уже [писали](../zolotoy-oldskul/). В нашем распоряжении новая обложка к **Капитанскому** номеру, первая страница прилогается, **Captain America Comics: 70th Anniversary Special**:
 
 ]]>[![captain-timely-02.jpg - upload images with Picamatic](https://web.archive.org/web/20120607191621im_/http://www.picamatic.com/show/2009/02/28/07/00/2505958_bigthumb.jpg "captain-timely-02.jpg")](http://www.picamatic.com/view/2505958_captain-timely-02/)]]> ]]>[![cap70th01-02.jpg - image uploaded to Picamatic](https://web.archive.org/web/20120607191621im_/http://www.picamatic.com/show/2009/02/28/07/00/2505959_bigthumb.jpg "cap70th01-02.jpg")](http://www.picamatic.com/view/2505959_cap70th01-02/)]]>
 

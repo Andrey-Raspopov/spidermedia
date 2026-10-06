@@ -1,6 +1,6 @@
 {
   "title": "Абсолютная Справедливость!",
-  "date": "2009-07-06T19:55:00+03:00",
+  "date": "2009-07-06T18:55:00+03:00",
   "url": "/news/absolyutnaya-spravedlivost/",
   "original_url": "http://spidermedia.ru/news/absolyutnaya-spravedlivost",
   "archived": "https://web.archive.org/web/20200223125612/http://spidermedia.ru:80/news/absolyutnaya-spravedlivost",
@@ -10,6 +10,12 @@
     "doug-braithwaite",
     "alex-ross",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20200223125612im_/http://spidermedia.ru/assets/images/import_image/1494.jpg",
+  "modx_id": 1494,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

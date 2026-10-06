@@ -1,6 +1,6 @@
 {
   "title": "ALL-NEW МЖДЗ: СДЕЛАНО В РОССИИ",
-  "date": "2014-05-08T22:33:00+03:00",
+  "date": "2014-05-08T21:33:26+03:00",
   "url": "/news/all-new-mzhdz-sdelano-v-rossii/",
   "original_url": "http://spidermedia.ru/news/all-new-mzhdz-sdelano-v-rossii",
   "archived": "https://web.archive.org/web/20251116062545/http://spidermedia.ru/news/all-new-mzhdz-sdelano-v-rossii",
@@ -8,6 +8,12 @@
     "russian-comics",
     "mnenie",
     "mzhdz"
+  ],
+  "cover": "https://web.archive.org/web/20160717191654im_/http://spidermedia.ru/assets/images/import_image/7733.jpg",
+  "modx_id": 7733,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

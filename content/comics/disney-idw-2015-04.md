@@ -4,6 +4,12 @@
   "url": "/comics/disney-idw-2015-04/",
   "original_url": "http://spidermedia.ru/comics/disney-idw-2015-04",
   "archived": "https://web.archive.org/web/20200218020019/http://spidermedia.ru:80/comics/disney-idw-2015-04",
+  "cover": "https://web.archive.org/web/20200218020019im_/http://spidermedia.ru/assets/images/disney/disney-2015-04-header.jpg",
+  "modx_id": 101499,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -9,6 +9,12 @@
     "arkham-asylum",
     "dc-comics"
   ],
+  "cover": "https://web.archive.org/web/20160127011618im_/http://spidermedia.ru/assets/images/games/batman-arkham-knight/header.jpg",
+  "modx_id": 100305,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

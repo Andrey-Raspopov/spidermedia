@@ -1,6 +1,6 @@
 {
   "title": "Дэслок и Лорелей появятся в \"Агентах ЩИТа\"",
-  "date": "2014-01-24T13:16:00+03:00",
+  "date": "2014-01-24T12:16:02+03:00",
   "url": "/news/deslok-i-loreley-poyavyatsya-v-agentah-shchita/",
   "original_url": "http://spidermedia.ru/news/deslok-i-loreley-poyavyatsya-v-agentah-shchita",
   "archived": "https://web.archive.org/web/20260309190514/http://spidermedia.ru/news/deslok-i-loreley-poyavyatsya-v-agentah-shchita",
@@ -8,6 +8,12 @@
     "marvel",
     "s.h.i.e.l.d",
     "deslok"
+  ],
+  "cover": "https://web.archive.org/web/20150326203108im_/http://spidermedia.ru/assets/images/import_image/7611.jpg",
+  "modx_id": 7611,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "В Москве пройдет \"День открытых миров\"",
-  "date": "2012-10-29T15:16:00+03:00",
+  "date": "2012-10-29T14:16:05+03:00",
   "url": "/news/v-moskve-proydet-den-otkrytyh-mirov/",
   "original_url": "http://spidermedia.ru/news/v-moskve-proydet-den-otkrytyh-mirov",
   "archived": "https://web.archive.org/web/20251115181826/http://spidermedia.ru/news/v-moskve-proydet-den-otkrytyh-mirov",
@@ -8,6 +8,12 @@
     "festival",
     "russian-comics",
     "kommissiya"
+  ],
+  "cover": "https://web.archive.org/web/20150502150338im_/http://spidermedia.ru/assets/images/import_image/7077.jpg",
+  "modx_id": 7077,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,9 +1,15 @@
 {
   "title": "Хронология DC: Эра Нулевого Часа. 1989/Год 1A (Зима)",
-  "date": "2012-09-18T01:21:00+03:00",
+  "date": "2012-09-18T00:21:42+03:00",
   "url": "/blog/derden/hronologiya-dc-era-nulevogo-chasa-1989-god-1a-zima/",
   "original_url": "https://spidermedia.ru/blog/derden/hronologiya-dc-era-nulevogo-chasa-1989-god-1a-zima",
   "archived": "https://web.archive.org/web/20251209143559/https://spidermedia.ru/blog/derden/hronologiya-dc-era-nulevogo-chasa-1989-god-1a-zima",
+  "cover": "https://web.archive.org/web/20150326153936im_/http://spidermedia.ru/assets/images/import_image/7033.jpg",
+  "modx_id": 7033,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,6 +1,6 @@
 {
   "title": "X-treme Exiles",
-  "date": "2012-03-18T04:31:00+03:00",
+  "date": "2012-03-18T03:31:11+03:00",
   "url": "/news/x-treme-exiles/",
   "original_url": "http://spidermedia.ru/news/x-treme-exiles",
   "archived": "https://web.archive.org/web/20250620070212/http://spidermedia.ru/news/x-treme-exiles",
@@ -8,7 +8,14 @@
     "marvel",
     "stiven-segoviya",
     "greg-pak",
-    "x-men"
+    "x-men",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20250620070212im_/http://spidermedia.ru/assets/images/import_image/6841.jpg",
+  "modx_id": 6841,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

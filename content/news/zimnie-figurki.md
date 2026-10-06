@@ -1,13 +1,22 @@
 {
   "title": "Зимние фигурки",
-  "date": "2009-05-19T16:14:00+03:00",
+  "date": "2009-05-19T15:14:44+03:00",
   "url": "/news/zimnie-figurki/",
+  "aliases": [
+    "/node/1239/"
+  ],
   "original_url": "http://spidermedia.ru/news/zimnie-figurki",
   "archived": "https://web.archive.org/web/20260115055737/http://spidermedia.ru/news/zimnie-figurki",
   "tags": [
     "statui",
     "figurki",
     "byusty"
+  ],
+  "cover": "https://web.archive.org/web/20150326220501im_/http://spidermedia.ru/assets/images/import_image/1239.jpg",
+  "modx_id": 1239,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
@@ -28,7 +37,7 @@
 Фигурки запакованы в блистер, а из размер составляет 2,5*4 дюйма (6*10 см). В продаже с **20 января**.
 [![](https://web.archive.org/web/20260115055737im_/http://i707.photobucket.com/albums/ww79/Alex_spidermedia/th_dynamicsWW.jpg)](http://i707.photobucket.com/albums/ww79/Alex_spidermedia/dynamicsWW.jpg)**DC DYNAMICS: WONDER WOMAN STATUE**
 Скульптор **Тим Брукнер** *(Tim Bruckner)*
-Вашему вниманию представляется первая из шести намеченных к выпуску в 2010 году статуй. Четыре из них вы уже [видели](../../node/1190/). Первой на полках магазинов появится **Чудо-Женщина** *(Wonder Woman)*. Изящная, грациозная и опасная Принцесса Амазонок пролетает сквозь облака высоко в небо. Очередное прекрасное воплощение знаменитой героини.
+Вашему вниманию представляется первая из шести намеченных к выпуску в 2010 году статуй. Четыре из них вы уже [видели](../dc-geroi-snova-mchatsya-na-polki-fanatov/). Первой на полках магазинов появится **Чудо-Женщина** *(Wonder Woman)*. Изящная, грациозная и опасная Принцесса Амазонок пролетает сквозь облака высоко в небо. Очередное прекрасное воплощение знаменитой героини.
 Статуя покрашена вручную, имеет Сертификат Подлинности. Размеры статуи 11.25*6.5*7,25 дюймов (29*16,5*18,5 см).
 В магазинах она появится **20 января**, а стоимость ее составит **195$**
 [![](https://web.archive.org/web/20260115055737im_/http://i707.photobucket.com/albums/ww79/Alex_spidermedia/th_BMBWbermejo.jpg)](http://i707.photobucket.com/albums/ww79/Alex_spidermedia/BMBWbermejo.jpg)**BATMAN BLACK & WHITE STATUE: BATMAN BY LEE BERMEJO**

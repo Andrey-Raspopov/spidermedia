@@ -7,6 +7,12 @@
   "tags": [
     "dark-horse"
   ],
+  "cover": "https://web.archive.org/web/20160611144400im_/http://spidermedia.ru/assets/images/news/dark-horse/black-dog.jpg",
+  "modx_id": 100931,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

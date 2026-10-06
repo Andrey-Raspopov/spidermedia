@@ -1,11 +1,17 @@
 {
   "title": "Дождались",
-  "date": "2011-11-03T13:48:00+03:00",
+  "date": "2011-11-03T12:48:42+03:00",
   "url": "/blog/sterpazook/dozhdalis/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/dozhdalis",
   "archived": "https://web.archive.org/web/20250215011753/http://spidermedia.ru/blog/sterpazook/dozhdalis",
   "tags": [
     "trejlery"
+  ],
+  "cover": "https://web.archive.org/web/20250215011753im_/http://spidermedia.ru/assets/images/import_image/6682.jpg",
+  "modx_id": 6682,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

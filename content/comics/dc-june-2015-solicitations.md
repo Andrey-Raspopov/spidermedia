@@ -7,6 +7,12 @@
   "tags": [
     "dc-comics"
   ],
+  "cover": "https://web.archive.org/web/20150315180215im_/http://spidermedia.ru/assets/images/news/solicits/dc/jl_41_cvr.jpg",
+  "modx_id": 100071,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

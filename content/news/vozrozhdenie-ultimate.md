@@ -1,6 +1,6 @@
 {
   "title": "Возрождение Ultimate: Ultimates",
-  "date": "2011-05-03T01:48:00+03:00",
+  "date": "2011-05-03T00:48:56+03:00",
   "url": "/news/vozrozhdenie-ultimate/",
   "original_url": "http://spidermedia.ru/news/vozrozhdenie-ultimate",
   "archived": "https://web.archive.org/web/20260309000448/http://spidermedia.ru/news/vozrozhdenie-ultimate",
@@ -10,6 +10,12 @@
     "ultimates",
     "ultimate",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20260309000448im_/http://spidermedia.ru/assets/images/import_image/5429.gif",
+  "modx_id": 5429,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

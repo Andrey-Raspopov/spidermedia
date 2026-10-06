@@ -1,6 +1,6 @@
 {
   "title": "Улыбаемся и машем",
-  "date": "2011-03-20T07:26:00+03:00",
+  "date": "2011-03-20T07:26:29+03:00",
   "url": "/news/ulybaemsya-i-mashem/",
   "original_url": "http://spidermedia.ru/news/ulybaemsya-i-mashem",
   "archived": "https://web.archive.org/web/20260121004336/http://spidermedia.ru/news/ulybaemsya-i-mashem",
@@ -9,7 +9,14 @@
     "mark-waid",
     "paolo-rivera",
     "markos-martin",
-    "marvel"
+    "marvel",
+    "derdevil"
+  ],
+  "cover": "https://web.archive.org/web/20260121004336im_/http://spidermedia.ru/assets/images/import_image/4293.jpg",
+  "modx_id": 4293,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

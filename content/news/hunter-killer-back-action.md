@@ -1,7 +1,10 @@
 {
   "title": "Hunter-Killer back in action!",
-  "date": "2009-02-17T12:37:00+03:00",
+  "date": "2009-02-17T12:37:20+03:00",
   "url": "/news/hunter-killer-back-action/",
+  "aliases": [
+    "/node/405/"
+  ],
   "original_url": "http://spidermedia.ru/news/hunter-killer-back-action",
   "archived": "https://web.archive.org/web/20160426204020/http://spidermedia.ru/news/hunter-killer-back-action",
   "tags": [
@@ -11,7 +14,14 @@
     "art-0",
     "hunter-killer",
     "kennet-rokafort",
-    "cyberforce"
+    "cyberforce",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20160426204020im_/http://spidermedia.ru/assets/images/import_image/405.jpg",
+  "modx_id": 405,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

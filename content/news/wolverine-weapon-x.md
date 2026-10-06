@@ -1,7 +1,10 @@
 {
   "title": "Wolverine: Weapon X",
-  "date": "2009-02-08T01:28:00+03:00",
+  "date": "2009-02-08T01:28:42+03:00",
   "url": "/news/wolverine-weapon-x/",
+  "aliases": [
+    "/node/268/"
+  ],
   "original_url": "https://spidermedia.ru/news/wolverine-weapon-x",
   "archived": "https://web.archive.org/web/20260214142228/https://spidermedia.ru/news/wolverine-weapon-x",
   "tags": [
@@ -11,7 +14,14 @@
     "dzheyson-aaron",
     "nycc-2009",
     "weapon-x",
-    "ron-garni"
+    "ron-garni",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20260214142228im_/http://spidermedia.ru/assets/images/import_image/268.jpg",
+  "modx_id": 268,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Peace was never an option",
-  "date": "2013-12-06T08:12:00+03:00",
+  "date": "2013-12-06T07:12:17+03:00",
   "url": "/news/peace-was-never-option/",
   "original_url": "http://spidermedia.ru/news/peace-was-never-option",
   "archived": "https://web.archive.org/web/20250909124431/http://spidermedia.ru/news/peace-was-never-option",
@@ -9,6 +9,12 @@
     "kallen-bann",
     "gabriel-ernandes-valta",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20250909124431im_/http://spidermedia.ru/assets/images/import_image/7569.jpg",
+  "modx_id": 7569,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

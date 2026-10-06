@@ -1,7 +1,10 @@
 {
   "title": "Харды и нехарды в феврале 2010 – Independents",
-  "date": "2010-03-11T00:43:00+03:00",
+  "date": "2010-03-11T00:43:12+03:00",
   "url": "/blog/gess/hardy-i-nehardy-v-fevrale-2010-independents/",
+  "aliases": [
+    "/node/2431/"
+  ],
   "original_url": "http://spidermedia.ru/blog/gess/hardy-i-nehardy-v-fevrale-2010-independents",
   "archived": "https://web.archive.org/web/20260306000400/http://spidermedia.ru/blog/gess/hardy-i-nehardy-v-fevrale-2010-independents",
   "tags": [
@@ -11,6 +14,12 @@
     "dark-horse",
     "boom-studios",
     "avatar-press"
+  ],
+  "cover": "https://web.archive.org/web/20150424065432im_/http://spidermedia.ru/assets/images/import_image/2431.png",
+  "modx_id": 2431,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Сами с усами",
-  "date": "2010-07-25T06:07:00+03:00",
+  "date": "2010-07-25T05:07:19+03:00",
   "url": "/news/sami-s-usami/",
   "original_url": "http://spidermedia.ru/news/sami-s-usami",
   "archived": "https://web.archive.org/web/20260120152723/http://spidermedia.ru/news/sami-s-usami",
@@ -14,6 +14,12 @@
     "guardians-of-the-galaxy",
     "groot",
     "san-diego-comic-con-international"
+  ],
+  "cover": "https://web.archive.org/web/20260120152723im_/http://spidermedia.ru/assets/images/import_image/2790.jpg",
+  "modx_id": 2790,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -9,6 +9,12 @@
     "roskomnadzor",
     "zarubezhnye-komiksy-na-russkom"
   ],
+  "cover": "https://web.archive.org/web/20220629004105im_/http://spidermedia.ru/assets/images/roskomnadzor/12062015/b40a54633716a463ee6b35615b7cbc77.png",
+  "modx_id": 100286,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
@@ -27,25 +33,41 @@
 
 Неожиданный релиз от АСТ — **«****Габо Маркес: повесть об одной необычной судьбе**».**** Это история жизни великого писателя, лауреата Нобелевской премии по литературе Габриэля Гарсиа Маркеса.
 
-[![](https://spidermedia.ru/assets/cache/preview/100286/roskomnadzor/12062015/253x400-12.654.jpg)](https://spidermedia.ru/assets/images/roskomnadzor/12062015/12.jpg)
+![](https://web.archive.org/web/20220629004105im_/http://spidermedia.ru/assets/images/roskomnadzor/12062015/12.jpg)
 
 15 июня в продажу поступят новинки от **Illusion Studios**: 11 выпуск классических **«Черепашек»** и второй — **«Палео»**. А **Khan Comics** тем временем печатает первые номера **«Галстуков»** и **«Бастиона»**.
 
-[![](https://spidermedia.ru/assets/cache/preview/100286/roskomnadzor/12062015/161x250-9.f95.jpg)](https://spidermedia.ru/assets/images/roskomnadzor/12062015/9.jpg) [![](https://spidermedia.ru/assets/cache/preview/100286/roskomnadzor/12062015/166x250-10.d6c.jpg)](https://spidermedia.ru/assets/images/roskomnadzor/12062015/10.jpg)
+![](https://web.archive.org/web/20220629004105im_/http://spidermedia.ru/assets/images/roskomnadzor/12062015/9.jpg) ![](https://web.archive.org/web/20220629004105im_/http://spidermedia.ru/assets/images/roskomnadzor/12062015/10.jpg)
 
 А сейчас очень хочется вспомнить Карла. Они вышли! Вышли! Четвертые **«Ходячие мертвецы»**, четвертый **«Песочный человек»**. И не такой долгожданный, но ожидаемый многими **«Суд сов»**.
 
-[![](https://spidermedia.ru/assets/cache/preview/100286/roskomnadzor/12062015/132x200-3.281.jpg)](https://spidermedia.ru/assets/images/roskomnadzor/12062015/3.jpg) [![](https://spidermedia.ru/assets/cache/preview/100286/roskomnadzor/12062015/133x200-1.b50.jpg)](https://spidermedia.ru/assets/images/roskomnadzor/12062015/1.jpg) [![](https://spidermedia.ru/assets/cache/preview/100286/roskomnadzor/12062015/131x200-2.244.jpg)](https://spidermedia.ru/assets/images/roskomnadzor/12062015/2.jpg)
+![](https://web.archive.org/web/20220629004105im_/http://spidermedia.ru/assets/images/roskomnadzor/12062015/3.jpg) ![](https://web.archive.org/web/20220629004105im_/http://spidermedia.ru/assets/images/roskomnadzor/12062015/1.jpg) ![](https://web.archive.org/web/20220629004105im_/http://spidermedia.ru/assets/images/roskomnadzor/12062015/2.jpg)
 
 Не пропустите также третий том **«ФрикАнгелов»** и второй **«Черепаховый суп»**.
 
-[![](https://spidermedia.ru/assets/cache/preview/100286/roskomnadzor/12062015/170x250-4.e48.jpg)](https://spidermedia.ru/assets/images/roskomnadzor/12062015/4.jpg) [![](https://spidermedia.ru/assets/cache/preview/100286/roskomnadzor/12062015/156x250-5.c7f.jpg)](https://spidermedia.ru/assets/images/roskomnadzor/12062015/5.jpg)
+![](https://web.archive.org/web/20220629004105im_/http://spidermedia.ru/assets/images/roskomnadzor/12062015/4.jpg) ![](https://web.archive.org/web/20220629004105im_/http://spidermedia.ru/assets/images/roskomnadzor/12062015/5.jpg)
 
 **BUBBLE** представляет 33-е выпуски **«Инока»** (уже в продаже) и **«Красной Фурии»**.
 
-[![](https://spidermedia.ru/assets/cache/preview/100286/roskomnadzor/12062015/523x400-7.fbc.jpg)](https://spidermedia.ru/assets/images/roskomnadzor/12062015/7.jpg)
+![](https://web.archive.org/web/20220629004105im_/http://spidermedia.ru/assets/images/roskomnadzor/12062015/7.jpg)
 И, конечно, как и было обещано, вышел второй тираж **Энциклопедии Marvel**.
 
 А выходные в Москве можно провести на [Гик Пикнике](https://vk.com/geekpicnic_msk).
 
 **ВЫБОР НЕДЕЛИ** на этот раз был для меня вызовом. Возможно, поэтому он так задержался, хотя книга вышла довольно давно.
+
+a:1:{i:1;a:7:{s:5:"autor";a:2:{i:1;a:2:{i:0;s:19:"Сценарист ";i:1;s:25:"Ральф Тедеско";}i:3;a:2:{i:0;s:16:"Художник";i:1;s:29:"Габриэль Реарти";}}s:4:"name";s:14:"Инферно";s:7:"edition";s:0:"";s:5:"cover";s:44:"assets/images/roskomnadzor/12062015/1111.jpg";s:9:"publisher";s:0:"";s:4:"year";s:0:"";s:8:"comments";a:1:{i:1;a:4:{s:5:"autor";s:6:"148627";s:4:"text";s:4026:"
+
+Издательство Zenescope Entertainment как бы это сказать... занятное. Основная их специализация — пересказы на новый лад различных сказочных сюжетов. Основная отличительная черта — обложки с не совсем одетыми девицами, создающие некую провокативность, которая, впрочем, редко относится к самому сюжету. Удивительно, но когда читаешь описание выходящего, становится даже интересно, а когда видишь результат — больно. Слишком уж специфичный рисунок. Но это мое мнение, если подобное продолжает выходить, значит, это кому-нибудь нужно.
+
+![](https://web.archive.org/web/20220629004105im_/http://spidermedia.ru/assets/images/roskomnadzor/12062015/img_20150612_1513562.jpg)
+Главная серия Зенескопа Grimm Fairy Tales длится с самого начала работы издательства, то есть 10 лет, и обросла рядом спин-оффов. Некоторые из них — три мини-серии по Стране Чудес и Небывалия — уже издавались «Апельсином» на русском языке в синглах, а «Инферно» выпала честь открыть линейку ТПБ. В книгу вошли 29 и 41 выпуски «Сказок», где представляют главную героиню и собственно сами 5 номеров «Инферно». И если раньше в руки сценаристов отдавали сказки про Белоснежку и т.д., то на этот раз досталось «Божественной комедии» Данте.
+
+![](https://web.archive.org/web/20220629004105im_/http://spidermedia.ru/assets/images/roskomnadzor/12062015/img_20150612_1513012.jpg)
+Узнать книгу можно только по очевидным элементам в духе спуска героя в ад ради какой-то цели. Такое чувство, будто сценарист прочел описание на википедии, иначе объяснить факт того, что сюжет настолько куций, я не могу. Впихнуть Данте в 5 номеров, хах? Завязка (номера основной серии) в свою очередь была весьма обнадеживающей, хотя история царя Мидаса в рамках тома смотрится чужеродно.
+
+Но непритязательность это, в общем-то, явление частое, в качестве развлечения (или эксперимента) вполне можно почитать. А само издание приятное, хорошая бумага и внутри, и на обложке, тпб проклеена.
+
+И хотя я совершенно не попадаю в целевую аудиторию данного издания, для поклонников жанра выход книги — определенно повод для радости. Ниши тоже надо заполнять.
+
+";s:8:"mjdzText";s:0:"";s:10:"conclusion";s:0:"";}}}}

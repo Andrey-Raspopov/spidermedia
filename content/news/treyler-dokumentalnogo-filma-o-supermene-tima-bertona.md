@@ -1,12 +1,17 @@
 {
   "title": "Трейлер документального фильма о \"Супермене\" Тима Бертона",
-  "date": "2014-07-25T23:42:00+03:00",
+  "date": "2014-07-25T22:42:18+03:00",
   "url": "/news/treyler-dokumentalnogo-filma-o-supermene-tima-bertona/",
   "original_url": "https://spidermedia.ru/news/treyler-dokumentalnogo-filma-o-supermene-tima-bertona",
   "archived": "https://web.archive.org/web/20260309003248/https://spidermedia.ru/news/treyler-dokumentalnogo-filma-o-supermene-tima-bertona",
   "tags": [
     "superman",
     "dc-comics"
+  ],
+  "modx_id": 7927,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

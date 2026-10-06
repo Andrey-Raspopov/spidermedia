@@ -1,11 +1,17 @@
 {
   "title": "День новых комиксов: 5 ноября",
-  "date": "2014-11-05T12:44:00+03:00",
+  "date": "2014-11-05T12:44:45+03:00",
   "url": "/blog/oleg89/den-novyh-komiksov-5-noyabrya-0/",
   "original_url": "http://spidermedia.ru/blog/oleg89/den-novyh-komiksov-5-noyabrya-0",
   "archived": "https://web.archive.org/web/20260211185043/http://spidermedia.ru/blog/oleg89/den-novyh-komiksov-5-noyabrya-0",
   "tags": [
     "den-novyh-komiksov"
+  ],
+  "cover": "https://web.archive.org/web/20150326095753im_/http://spidermedia.ru/assets/images/import_image/8258.jpg",
+  "modx_id": 8258,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -8,6 +8,12 @@
     "best-column-about-comics",
     "mnenie"
   ],
+  "cover": "https://web.archive.org/web/20211108131214im_/http://spidermedia.ru/assets/images/best-column-about-comics/06-hildafolk/hildafolk-cover.jpg",
+  "modx_id": 101411,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

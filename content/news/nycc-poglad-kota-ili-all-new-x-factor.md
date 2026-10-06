@@ -1,6 +1,6 @@
 {
   "title": "NYCC: Погладь кота или All-New X-Factor",
-  "date": "2013-10-12T23:39:00+03:00",
+  "date": "2013-10-12T22:39:57+03:00",
   "url": "/news/nycc-poglad-kota-ili-all-new-x-factor/",
   "original_url": "https://spidermedia.ru/news/nycc-poglad-kota-ili-all-new-x-factor",
   "archived": "https://web.archive.org/web/20260314083802/https://spidermedia.ru/news/nycc-poglad-kota-ili-all-new-x-factor",
@@ -8,6 +8,12 @@
     "marvel",
     "x-factor",
     "new-york-comic-con"
+  ],
+  "cover": "https://web.archive.org/web/20260314083802im_/http://spidermedia.ru/assets/images/import_image/7499.jpg",
+  "modx_id": 7499,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

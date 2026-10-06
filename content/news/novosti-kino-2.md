@@ -1,7 +1,10 @@
 {
   "title": "Новости кино",
-  "date": "2010-06-09T18:13:00+03:00",
+  "date": "2010-06-09T17:13:43+03:00",
   "url": "/news/novosti-kino-2/",
+  "aliases": [
+    "/node/2663/"
+  ],
   "original_url": "http://spidermedia.ru/news/novosti-kino-2",
   "archived": "https://web.archive.org/web/20260121000346/http://spidermedia.ru/news/novosti-kino-2",
   "tags": [
@@ -10,7 +13,14 @@
     "transformers",
     "zelenyj-shershen",
     "green-hornet",
-    "fantastic-four"
+    "fantastic-four",
+    "fantasticheskaya-chetverka"
+  ],
+  "cover": "https://web.archive.org/web/20180211034104im_/http://spidermedia.ru/assets/images/import_image/2663.jpg",
+  "modx_id": 2663,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

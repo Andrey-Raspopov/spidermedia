@@ -1,6 +1,6 @@
 {
   "title": "Обзоры манги #1: Assassination Classroom, Юсэй Мацуи",
-  "date": "2015-01-22T12:45:00+03:00",
+  "date": "2015-01-22T12:45:21+03:00",
   "url": "/blog/derden/kross-obzory-mangi-1-assassination-classroom-yusey-macui/",
   "original_url": "http://spidermedia.ru/blog/derden/kross-obzory-mangi-1-assassination-classroom-yusey-macui",
   "archived": "https://web.archive.org/web/20251117012046/http://spidermedia.ru/blog/derden/kross-obzory-mangi-1-assassination-classroom-yusey-macui",
@@ -9,6 +9,12 @@
     "matsui-yuusei",
     "assassination-classroom",
     "ansatsu-kyoushitsu"
+  ],
+  "cover": "https://web.archive.org/web/20251117012046im_/http://spidermedia.ru/assets/images/import_image/8530.jpg",
+  "modx_id": 8530,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

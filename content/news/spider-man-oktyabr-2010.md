@@ -1,7 +1,10 @@
 {
   "title": "Spider-Man: Октябрь 2010",
-  "date": "2010-08-01T20:39:00+03:00",
+  "date": "2010-08-01T19:39:56+03:00",
   "url": "/news/spider-man-oktyabr-2010/",
+  "aliases": [
+    "/node/2827/"
+  ],
   "original_url": "http://spidermedia.ru/news/spider-man-oktyabr-2010",
   "archived": "https://web.archive.org/web/20120607182324/http://spidermedia.ru/news/spider-man-oktyabr-2010",
   "tags": [
@@ -12,7 +15,15 @@
     "komiksy",
     "oblozhki",
     "strana-teney",
-    "chelovek-pauk"
+    "chelovek-pauk",
+    "strana-tenej",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20120607182324im_/http://spidermedia.ru/assets/images/import_image/2827.png",
+  "modx_id": 2827,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"
@@ -20,7 +31,7 @@
 
 ![](https://web.archive.org/web/20120607182324im_/http://img.photobucket.com/albums/v497/spidermedia/amazing-spider-man-logo-brand-ne-2.png?t=1275507499)
 
-Октябрь станет [последним месяцем](../../node/2803/), когда мы увидим **Amazing Spider-Man** три раза в месяц. Помимо личных передряг **Человека-Паука** *(Spider-Man)* ждет столкновение с вездесущими, с недавних пор, вампирами, возвращение красного симбиота и приключения в рамках **Страны Теней** *(Shadowland)*.
+Октябрь станет [последним месяцем](../sdcc10-spider-man/), когда мы увидим **Amazing Spider-Man** три раза в месяц. Помимо личных передряг **Человека-Паука** *(Spider-Man)* ждет столкновение с вездесущими, с недавних пор, вампирами, возвращение красного симбиота и приключения в рамках **Страны Теней** *(Shadowland)*.
 
 ]]>[![](https://web.archive.org/web/20120607182324im_/http://img.photobucket.com/albums/v497/spidermedia/th_AMAZING_SPIDER_MAN_645.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/AMAZING_SPIDER_MAN_645.jpg)]]> ]]>[![](https://web.archive.org/web/20120607182324im_/http://img.photobucket.com/albums/v497/spidermedia/th_amazing_spider-man_646_02.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/amazing_spider-man_646_02.jpg)]]> ]]>[![](https://web.archive.org/web/20120607182324im_/http://img.photobucket.com/albums/v497/spidermedia/th_AMAZING_SPIDER_MAN_647.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/AMAZING_SPIDER_MAN_647.jpg)]]>
 Обложки **Марко Джурджевича** *(Marko Djurdjevic)*

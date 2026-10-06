@@ -9,6 +9,12 @@
     "batman",
     "frenk-miller"
   ],
+  "cover": "https://web.archive.org/web/20160611122410im_/http://spidermedia.ru/assets/images/news/dc/dk3_klausjanson.jpg",
+  "modx_id": 100717,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

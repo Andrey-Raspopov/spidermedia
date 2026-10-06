@@ -4,6 +4,9 @@
   "url": "/heroclix/characters/marvel/marvel_infinity/",
   "original_url": "http://www.spidermedia.ru/heroclix/characters/marvel/marvel_infinity.html",
   "archived": "https://web.archive.org/web/20050310004849/http://www.spidermedia.ru:80/heroclix/characters/marvel/marvel_infinity.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

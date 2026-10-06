@@ -8,6 +8,12 @@
     "marvel",
     "nelyudi"
   ],
+  "cover": "https://web.archive.org/web/20250807223148im_/http://spidermedia.ru/assets/images/tv/marvel/inhumans/inhumans.jpg",
+  "modx_id": 101410,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

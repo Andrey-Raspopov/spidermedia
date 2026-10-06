@@ -7,6 +7,12 @@
   "tags": [
     "image-comics"
   ],
+  "cover": "https://web.archive.org/web/20160611210049im_/http://spidermedia.ru/assets/images/news/image/the-beauty/thebeauty.jpg",
+  "modx_id": 100397,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

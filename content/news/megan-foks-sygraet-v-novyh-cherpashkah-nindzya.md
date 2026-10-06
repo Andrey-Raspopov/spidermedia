@@ -1,12 +1,18 @@
 {
   "title": "Меган Фокс сыграет в новых \"Черпашках-Ниндзя\"",
-  "date": "2013-02-22T13:55:00+03:00",
+  "date": "2013-02-22T12:55:55+03:00",
   "url": "/news/megan-foks-sygraet-v-novyh-cherpashkah-nindzya/",
   "original_url": "http://spidermedia.ru/news/megan-foks-sygraet-v-novyh-cherpashkah-nindzya",
   "archived": "https://web.archive.org/web/20251018234224/http://spidermedia.ru/news/megan-foks-sygraet-v-novyh-cherpashkah-nindzya",
   "tags": [
     "ninja-turtles",
     "mirage-studios"
+  ],
+  "cover": "https://web.archive.org/web/20251018234224im_/http://spidermedia.ru/assets/images/import_image/7149.jpg",
+  "modx_id": 7149,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

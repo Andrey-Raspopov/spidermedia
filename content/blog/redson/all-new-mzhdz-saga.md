@@ -1,6 +1,6 @@
 {
   "title": "ALL-NEW МЖДЗ: SAGA",
-  "date": "2014-06-24T14:43:00+03:00",
+  "date": "2014-06-24T13:43:20+03:00",
   "url": "/blog/redson/all-new-mzhdz-saga/",
   "original_url": "https://spidermedia.ru/blog/redson/all-new-mzhdz-saga",
   "archived": "https://web.archive.org/web/20260307063839/https://spidermedia.ru/blog/redson/all-new-mzhdz-saga",
@@ -9,6 +9,12 @@
     "mzhdz",
     "xl-media",
     "image-comics"
+  ],
+  "cover": "https://web.archive.org/web/20160320084243im_/http://spidermedia.ru/assets/images/import_image/7836.jpg",
+  "modx_id": 7836,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

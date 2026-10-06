@@ -1,6 +1,6 @@
 {
   "title": "Fastest shoes... whatever",
-  "date": "2009-04-01T11:31:00+03:00",
+  "date": "2009-04-01T10:31:50+03:00",
   "url": "/blog/gess/fastest-shoes-whatever/",
   "original_url": "http://spidermedia.ru/blog/gess/fastest-shoes-whatever",
   "archived": "https://web.archive.org/web/20250209102113/http://spidermedia.ru/blog/gess/fastest-shoes-whatever",
@@ -8,6 +8,12 @@
     "vneshnij-mir",
     "the-flash",
     "moda"
+  ],
+  "cover": "https://web.archive.org/web/20250209102113im_/http://spidermedia.ru/assets/images/import_image/822.jpg",
+  "modx_id": 822,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

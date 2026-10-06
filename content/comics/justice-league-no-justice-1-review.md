@@ -10,6 +10,12 @@
     "skott-snajder",
     "frensis-manapul"
   ],
+  "cover": "https://web.archive.org/web/20251206151752im_/http://spidermedia.ru/assets/images/reviews/dc/justice-league/no-justice/1/mzk.jpg",
+  "modx_id": 101920,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

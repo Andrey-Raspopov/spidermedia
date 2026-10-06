@@ -4,6 +4,12 @@
   "url": "/games/recenziya-punch-club/",
   "original_url": "http://spidermedia.ru/games/recenziya-punch-club",
   "archived": "https://web.archive.org/web/20201124175107/http://spidermedia.ru/games/recenziya-punch-club",
+  "cover": "https://web.archive.org/web/20160611154613im_/http://spidermedia.ru/assets/images/games/punch-club/punch_club_logo_big_x2.png",
+  "modx_id": 100830,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

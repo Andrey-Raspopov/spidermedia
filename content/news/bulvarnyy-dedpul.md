@@ -1,7 +1,10 @@
 {
   "title": "Бульварный Дэдпул",
-  "date": "2010-06-22T15:51:00+03:00",
+  "date": "2010-06-22T14:51:33+03:00",
   "url": "/news/bulvarnyy-dedpul/",
+  "aliases": [
+    "/node/2685/"
+  ],
   "original_url": "http://spidermedia.ru/news/bulvarnyy-dedpul",
   "archived": "https://web.archive.org/web/20220813150657/http://spidermedia.ru/news/bulvarnyy-dedpul",
   "tags": [
@@ -11,7 +14,14 @@
     "dzhey-li",
     "art-0",
     "adam-glass",
-    "marvel"
+    "marvel",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20220813150657im_/http://spidermedia.ru/assets/images/import_image/2685.jpg",
+  "modx_id": 2685,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

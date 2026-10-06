@@ -1,7 +1,10 @@
 {
   "title": "SDCC 2009 - Blackest Night Panel",
-  "date": "2009-07-26T08:26:00+03:00",
+  "date": "2009-07-26T07:26:14+03:00",
   "url": "/news/sdcc-2009-blackest-night-panel/",
+  "aliases": [
+    "/node/1666/"
+  ],
   "original_url": "http://spidermedia.ru/news/sdcc-2009-blackest-night-panel",
   "archived": "https://web.archive.org/web/20250906070729/http://spidermedia.ru/news/sdcc-2009-blackest-night-panel",
   "tags": [
@@ -11,6 +14,12 @@
     "green-lantern",
     "dc-comics",
     "blackest-night"
+  ],
+  "cover": "https://web.archive.org/web/20250906070729im_/http://spidermedia.ru/assets/images/import_image/1666.png",
+  "modx_id": 1666,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

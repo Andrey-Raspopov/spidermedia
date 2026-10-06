@@ -1,12 +1,18 @@
 {
   "title": "Хроники старого кино",
-  "date": "2009-01-31T21:01:00+03:00",
+  "date": "2009-01-31T21:01:06+03:00",
   "url": "/blog/alex/hroniki-starogo-kino/",
   "original_url": "https://spidermedia.ru/blog/alex/hroniki-starogo-kino",
   "archived": "https://web.archive.org/web/20251115024215/https://spidermedia.ru/blog/alex/hroniki-starogo-kino",
   "tags": [
     "dc-comics",
     "the-flash"
+  ],
+  "cover": "https://web.archive.org/web/20150424092713im_/http://spidermedia.ru/assets/images/import_image/41.jpg",
+  "modx_id": 41,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

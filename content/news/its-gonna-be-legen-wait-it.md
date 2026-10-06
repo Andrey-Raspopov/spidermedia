@@ -1,6 +1,6 @@
 {
   "title": "It's gonna be legen... wait for it...",
-  "date": "2012-04-14T06:09:00+03:00",
+  "date": "2012-04-14T05:09:59+03:00",
   "url": "/news/its-gonna-be-legen-wait-it/",
   "original_url": "http://spidermedia.ru/news/its-gonna-be-legen-wait-it",
   "archived": "https://web.archive.org/web/20260208195620/http://spidermedia.ru/news/its-gonna-be-legen-wait-it",
@@ -8,6 +8,12 @@
     "sajmon-bizli",
     "mett-vagner",
     "legendary-comics"
+  ],
+  "cover": "https://web.archive.org/web/20260208195620im_/http://spidermedia.ru/assets/images/import_image/6870.jpg",
+  "modx_id": 6870,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

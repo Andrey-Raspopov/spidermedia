@@ -1,12 +1,20 @@
 {
   "title": "UPD. X-Men Origins: Wolverine - Кто этот лысый акробат в бордовых штанах? - SPOILER ALERT!",
-  "date": "2009-02-20T01:05:00+03:00",
+  "date": "2009-02-20T01:05:45+03:00",
   "url": "/news/upd-x-men-origins-wolverine-kto-etot-lysyy-akrobat-v-bordovyh-shtanah-spoiler-alert/",
+  "aliases": [
+    "/node/364/"
+  ],
   "original_url": "https://spidermedia.ru/news/upd-x-men-origins-wolverine-kto-etot-lysyy-akrobat-v-bordovyh-shtanah-spoiler-alert",
   "archived": "https://web.archive.org/web/20240614184830/https://spidermedia.ru/news/upd-x-men-origins-wolverine-kto-etot-lysyy-akrobat-v-bordovyh-shtanah-spoiler-alert",
   "tags": [
     "figurki",
     "wolverine"
+  ],
+  "modx_id": 364,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "Возвращение на планету обезьян",
-  "date": "2009-02-12T03:20:00+03:00",
+  "date": "2009-02-12T03:20:42+03:00",
   "url": "/news/vozvrashchenie-na-planetu-obezyan/",
+  "aliases": [
+    "/node/323/"
+  ],
   "original_url": "http://spidermedia.ru/news/vozvrashchenie-na-planetu-obezyan",
   "archived": "https://web.archive.org/web/20150426193836/http://spidermedia.ru/news/vozvrashchenie-na-planetu-obezyan",
   "tags": [
@@ -9,7 +12,15 @@
     "halk",
     "skaar",
     "greg-pak",
-    "ron-lim"
+    "ron-lim",
+    "marvel",
+    "hulk"
+  ],
+  "cover": "https://web.archive.org/web/20150426193836im_/http://spidermedia.ru/assets/images/import_image/323.jpg",
+  "modx_id": 323,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

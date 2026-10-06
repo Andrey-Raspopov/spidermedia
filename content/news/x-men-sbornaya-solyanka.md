@@ -1,7 +1,10 @@
 {
   "title": "X-Men: Сборная солянка",
-  "date": "2009-04-21T12:26:00+03:00",
+  "date": "2009-04-21T11:26:50+03:00",
   "url": "/news/x-men-sbornaya-solyanka/",
+  "aliases": [
+    "/node/1010/"
+  ],
   "original_url": "http://spidermedia.ru/news/x-men-sbornaya-solyanka",
   "archived": "https://web.archive.org/web/20120611043606/http://spidermedia.ru/news/x-men-sbornaya-solyanka",
   "tags": [
@@ -12,6 +15,12 @@
     "lyudi-iks",
     "marvel",
     "mett-frakshen"
+  ],
+  "cover": "https://web.archive.org/web/20120611043606im_/http://spidermedia.ru/assets/images/import_image/1010.jpg",
+  "modx_id": 1010,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

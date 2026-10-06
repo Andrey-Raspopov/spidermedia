@@ -1,7 +1,10 @@
 {
   "title": "Снайперы Marvel",
-  "date": "2009-03-03T17:43:00+03:00",
+  "date": "2009-03-03T17:43:42+03:00",
   "url": "/news/snaypery-marvel/",
+  "aliases": [
+    "/node/573/"
+  ],
   "original_url": "https://spidermedia.ru/news/snaypery-marvel",
   "archived": "https://web.archive.org/web/20260121014407/https://spidermedia.ru/news/snaypery-marvel",
   "tags": [
@@ -11,7 +14,13 @@
     "hawkeye",
     "avengers",
     "bullseye",
-    "deadpool"
+    "deadpool",
+    "dark-avengers"
+  ],
+  "modx_id": 573,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

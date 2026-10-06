@@ -1,7 +1,10 @@
 {
   "title": "Темный Бог Войны, Бог Учебы",
-  "date": "2009-07-21T22:07:00+03:00",
+  "date": "2009-07-21T21:07:00+03:00",
   "url": "/news/temnyy-bog-voyny-bog-ucheby/",
+  "aliases": [
+    "/node/1455/"
+  ],
   "original_url": "http://spidermedia.ru/news/temnyy-bog-voyny-bog-ucheby",
   "archived": "https://web.archive.org/web/20120512052239/http://spidermedia.ru/news/temnyy-bog-voyny-bog-ucheby",
   "tags": [
@@ -11,7 +14,14 @@
     "kiron-gillen",
     "komiksy",
     "keri-nord",
-    "marvel"
+    "marvel",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20120512052239im_/http://spidermedia.ru/assets/images/import_image/1455.jpg",
+  "modx_id": 1455,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"
@@ -19,7 +29,7 @@
 
 ]]>[![18_DARK_AVENGERS__ARES_1.jpg - Picamatic - upload your images](https://web.archive.org/web/20120512052239im_/http://www.picamatic.com/show/2009/07/21/08/47/4527848_bigthumb.jpg "18_DARK_AVENGERS__ARES_1.jpg")](http://www.picamatic.com/view/4527848_18_DARK_AVENGERS__ARES_1/)]]>
 
-Огромный, волосатый, сильный и воистину величественный, настоящий воин и чрезвычайно опасный тип. Даже ]]>[**Бендис** *(Bendis)*](../../node/1363/) ]]> не посмел соврать - **Бог Войны** действительно встает на путь сольной мини-серии:
+Огромный, волосатый, сильный и воистину величественный, настоящий воин и чрезвычайно опасный тип. Даже ]]>[**Бендис** *(Bendis)*](../otcy-i-deti/) ]]> не посмел соврать - **Бог Войны** действительно встает на путь сольной мини-серии:
 
  ]]>[![](https://web.archive.org/web/20120512052239im_/http://i.newsarama.com/preview_images/heroes09/drkavenar001001_col-01.jpg)](http://i.newsarama.com/preview_images/heroes09/drkavenar001001_col.jpg)]]> ]]>[![](https://web.archive.org/web/20120512052239im_/http://i.newsarama.com/preview_images/heroes09/drkavenar001003_col-01.jpg)](http://i.newsarama.com/preview_images/heroes09/drkavenar001003_col.jpg)]]> ]]>[![](https://web.archive.org/web/20120512052239im_/http://i.newsarama.com/preview_images/heroes09/drkavenar001004_col-01.jpg)](http://i.newsarama.com/preview_images/heroes09/drkavenar001004_col.jpg)]]>
 

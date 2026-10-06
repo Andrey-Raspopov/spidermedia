@@ -1,11 +1,20 @@
 {
   "title": "It's official: Редсон и Игрок читают лекции на КомМиссии",
-  "date": "2010-04-23T22:47:00+03:00",
+  "date": "2010-04-23T21:47:20+03:00",
   "url": "/blog/redson/its-official-redson-i-igrok-chitayut-lekcii-na-kommissii/",
+  "aliases": [
+    "/node/2576/"
+  ],
   "original_url": "http://spidermedia.ru/blog/redson/its-official-redson-i-igrok-chitayut-lekcii-na-kommissii",
   "archived": "https://web.archive.org/web/20251013185312/http://spidermedia.ru/blog/redson/its-official-redson-i-igrok-chitayut-lekcii-na-kommissii",
   "tags": [
     "kommissiya"
+  ],
+  "cover": "https://web.archive.org/web/20251013185312im_/http://spidermedia.ru/assets/images/import_image/2576.jpg",
+  "modx_id": 2576,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -4,6 +4,9 @@
   "url": "/comics/b/bbits/bbits_01-10/",
   "original_url": "http://www.spidermedia.ru/comics/b/bbits/bbits_01-10.html",
   "archived": "https://web.archive.org/web/20050312023308/http://www.spidermedia.ru:80/comics/b/bbits/bbits_01-10.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "cp1251 (guessed)"
 }

@@ -1,7 +1,10 @@
 {
   "title": "Go, super racer, go!",
-  "date": "2009-02-12T17:20:00+03:00",
+  "date": "2009-02-12T17:20:17+03:00",
   "url": "/news/go-super-racer-go/",
+  "aliases": [
+    "/node/329/"
+  ],
   "original_url": "http://spidermedia.ru/news/go-super-racer-go",
   "archived": "https://web.archive.org/web/20240518200117/http://spidermedia.ru/news/go-super-racer-go",
   "tags": [
@@ -9,6 +12,12 @@
     "dzhejms-maktejg",
     "superman",
     "plastic-man"
+  ],
+  "cover": "https://web.archive.org/web/20240518200117im_/http://spidermedia.ru/assets/images/import_image/329.jpg",
+  "modx_id": 329,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

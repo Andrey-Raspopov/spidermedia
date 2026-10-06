@@ -1,6 +1,6 @@
 {
   "title": "Промо-постеры фильма \"Первый мститель\" (Капитан Америка)",
-  "date": "2011-06-01T11:51:00+03:00",
+  "date": "2011-06-01T10:51:18+03:00",
   "url": "/news/promo-postery-filma-pervyy-mstitel-kapitan-amerika/",
   "original_url": "https://spidermedia.ru/news/promo-postery-filma-pervyy-mstitel-kapitan-amerika",
   "archived": "https://web.archive.org/web/20240714170150/https://spidermedia.ru/news/promo-postery-filma-pervyy-mstitel-kapitan-amerika",
@@ -8,6 +8,12 @@
     "postery",
     "marvel",
     "captain-america"
+  ],
+  "cover": "https://web.archive.org/web/20240714170150im_/http://spidermedia.ru/assets/images/import_image/6183.jpg",
+  "modx_id": 6183,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

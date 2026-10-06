@@ -1,7 +1,10 @@
 {
   "title": "Битва за Самоцветы Бесконечности",
-  "date": "2010-10-01T13:39:00+03:00",
+  "date": "2010-10-01T12:39:28+03:00",
   "url": "/news/bitva-za-samocvety-beskonechnosti/",
+  "aliases": [
+    "/node/2960/"
+  ],
   "original_url": "https://spidermedia.ru/news/bitva-za-samocvety-beskonechnosti",
   "archived": "https://web.archive.org/web/20251014042127/https://spidermedia.ru/news/bitva-za-samocvety-beskonechnosti",
   "tags": [
@@ -9,7 +12,14 @@
     "brian-michael-bendis",
     "marvel",
     "avengers",
-    "dzhon-romita-ml"
+    "dzhon-romita-ml",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20251014042127im_/http://spidermedia.ru/assets/images/import_image/2960.jpg",
+  "modx_id": 2960,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
@@ -19,7 +29,7 @@
 ![Photobucket](https://web.archive.org/web/20251014042127im_/http://img.photobucket.com/albums/v497/spidermedia/21-7.jpg)
 Что же ждет **Мстителей** *(Avengers)* дальше? Об этом прямо сейчас:
 
-- Вы [уже знаете](../../node/2780/), что **Красный Халк** *(Red Hulk)* вступает в команду с **#7**. "Красный гигант" будет играть большую роль во **втором арке** комикса. Останется ли он с командой после окончания нового арка пока неизвестно.
+- Вы [уже знаете](../sdcc10-marvel/), что **Красный Халк** *(Red Hulk)* вступает в команду с **#7**. "Красный гигант" будет играть большую роль во **втором арке** комикса. Останется ли он с командой после окончания нового арка пока неизвестно.
 - Теперь о сюжете второго арка. **Капюшон** *(Parker Robbins/Hood)* возвращается с целью поиска **Самоцветов Бесконечности** *(Infinity Gems)*. Разумеется, вся **Вселенная Marvel** *(Marvel Universe)* встревожена, а особенно одна команда, которая не так давно имела Самоцветы в своём распоряжении... **Иллюминаты** *(Illuminati)*.
 - С тех пор многое изменилось у членов этой команды. У **Тони Старка** *(Tony Stark/Iron Man)* большие провалы в памяти после арка **"World's Most Wanted"** комикса **The Invincible Iron Man**. **Чарльз Ксавье** *(Charles Xavier)* тоже потерял большую часть своей памяти и теперь пытается её восcтановить. **Нэмор** *(Namor)* присоединился к **Людям Икс** *(X-Men)*. **Доктор Стрэндж** больше не **Верховный Маг** *(Sorcerer Supreme)*. **Рид Ричардс** *(Reed Richards/Mister Fantastic)* раскаивается за секреты, которые он скрывал от своей семьи, когда он был членом Иллюминатов. **Черный Гром** *(Black Bolt)* исчез во время межгалактического конфликта известного как **Война Королей** *(War of Kings)*.
 

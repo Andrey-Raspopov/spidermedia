@@ -1,13 +1,20 @@
 {
   "title": "Valiant экранизирует \"Шэдоумэна\"",
-  "date": "2012-10-13T17:34:00+03:00",
+  "date": "2012-10-13T16:34:44+03:00",
   "url": "/news/strazhinski-i-deniels-ekraniziruyut-shedoumena/",
   "original_url": "https://spidermedia.ru/news/strazhinski-i-deniels-ekraniziruyut-shedoumena",
   "archived": "https://web.archive.org/web/20260125060940/https://spidermedia.ru/news/strazhinski-i-deniels-ekraniziruyut-shedoumena",
   "tags": [
     "j-michael-straczynski",
     "valiant-entertainment",
-    "shadowman"
+    "shadowman",
+    "dzhej-majkl-strazhinski"
+  ],
+  "cover": "https://web.archive.org/web/20150326201134im_/http://spidermedia.ru/assets/images/import_image/7062.jpg",
+  "modx_id": 7062,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -7,6 +7,12 @@
   "tags": [
     "dc-comics"
   ],
+  "cover": "https://web.archive.org/web/20160611163220im_/http://spidermedia.ru/assets/images/movies/dc/justice-league-vs.-teen-titans/1gq6af.jpg",
+  "modx_id": 100846,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

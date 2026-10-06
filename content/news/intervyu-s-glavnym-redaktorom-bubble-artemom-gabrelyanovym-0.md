@@ -1,6 +1,6 @@
 {
   "title": "Интервью с главным редактором BUBBLE Артемом Габреляновым",
-  "date": "2014-10-25T12:08:00+03:00",
+  "date": "2014-10-25T11:08:28+03:00",
   "url": "/news/intervyu-s-glavnym-redaktorom-bubble-artemom-gabrelyanovym-0/",
   "original_url": "https://spidermedia.ru/news/intervyu-s-glavnym-redaktorom-bubble-artemom-gabrelyanovym-0",
   "archived": "https://web.archive.org/web/20250807005556/https://spidermedia.ru/news/intervyu-s-glavnym-redaktorom-bubble-artemom-gabrelyanovym-0",
@@ -9,6 +9,12 @@
     "artem-gabrelyanov",
     "intervyu",
     "russian-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150502190503im_/http://spidermedia.ru/assets/images/import_image/8221.jpg",
+  "modx_id": 8221,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

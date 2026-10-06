@@ -2,6 +2,9 @@
   "title": "Крепче за баранку держись, Фонарь",
   "date": "2010-03-03T21:39:00+03:00",
   "url": "/news/krepche-za-baranku-derzhis-fonar/",
+  "aliases": [
+    "/node/2415/"
+  ],
   "original_url": "https://spidermedia.ru/news/krepche-za-baranku-derzhis-fonar",
   "archived": "https://web.archive.org/web/20251206160659/https://spidermedia.ru/news/krepche-za-baranku-derzhis-fonar",
   "tags": [
@@ -10,6 +13,12 @@
     "ivan-reis",
     "green-lantern",
     "blackest-night"
+  ],
+  "cover": "https://web.archive.org/web/20251206160659im_/http://spidermedia.ru/assets/images/import_image/2415.jpg",
+  "modx_id": 2415,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

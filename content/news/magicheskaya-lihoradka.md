@@ -1,7 +1,10 @@
 {
   "title": "Магическая Лихорадка",
-  "date": "2010-01-23T14:54:00+03:00",
+  "date": "2010-01-23T14:54:11+03:00",
   "url": "/news/magicheskaya-lihoradka/",
+  "aliases": [
+    "/node/2301/"
+  ],
   "original_url": "https://spidermedia.ru/news/magicheskaya-lihoradka",
   "archived": "https://web.archive.org/web/20250325094230/https://spidermedia.ru/news/magicheskaya-lihoradka",
   "tags": [
@@ -9,7 +12,14 @@
     "doctor-strange",
     "brendon-makkarti",
     "marvel",
-    "spider-man"
+    "spider-man",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20250325094230im_/http://spidermedia.ru/assets/images/import_image/2301.jpg",
+  "modx_id": 2301,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

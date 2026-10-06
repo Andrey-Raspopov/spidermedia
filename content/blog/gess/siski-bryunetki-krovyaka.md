@@ -1,7 +1,10 @@
 {
   "title": "Сиськи / брюнетки / кровяка",
-  "date": "2010-03-18T20:29:00+03:00",
+  "date": "2010-03-18T20:29:24+03:00",
   "url": "/blog/gess/siski-bryunetki-krovyaka/",
+  "aliases": [
+    "/node/2457/"
+  ],
   "original_url": "https://spidermedia.ru/blog/gess/siski-bryunetki-krovyaka",
   "archived": "https://web.archive.org/web/20251115190338/https://spidermedia.ru/blog/gess/siski-bryunetki-krovyaka",
   "tags": [
@@ -12,6 +15,12 @@
     "image-comics",
     "hackslash",
     "dynamite-entertainment"
+  ],
+  "cover": "https://web.archive.org/web/20180205114630im_/http://spidermedia.ru/assets/images/import_image/2457.jpg",
+  "modx_id": 2457,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

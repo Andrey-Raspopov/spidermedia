@@ -1,14 +1,24 @@
 {
   "title": "Зомби, Бэтмен и все-все-все.",
-  "date": "2009-10-13T16:01:00+03:00",
+  "date": "2009-10-13T15:01:55+03:00",
   "url": "/news/zombi-betmen-i-vse-vse-vse/",
+  "aliases": [
+    "/node/1991/"
+  ],
   "original_url": "https://spidermedia.ru/news/zombi-betmen-i-vse-vse-vse",
   "archived": "https://web.archive.org/web/20250318072051/https://spidermedia.ru/news/zombi-betmen-i-vse-vse-vse",
   "tags": [
     "dc-comics",
     "preview",
     "batman",
-    "green-lantern"
+    "green-lantern",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20250318072051im_/http://spidermedia.ru/assets/images/import_image/1991.jpg",
+  "modx_id": 1991,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

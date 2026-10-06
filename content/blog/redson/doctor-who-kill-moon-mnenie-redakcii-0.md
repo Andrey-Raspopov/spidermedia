@@ -1,12 +1,18 @@
 {
   "title": "Doctor Who \"Kill The Moon\": Мнение редакции",
-  "date": "2014-10-06T12:50:00+03:00",
+  "date": "2014-10-06T11:50:40+03:00",
   "url": "/blog/redson/doctor-who-kill-moon-mnenie-redakcii-0/",
   "original_url": "http://spidermedia.ru/blog/redson/doctor-who-kill-moon-mnenie-redakcii-0",
   "archived": "https://web.archive.org/web/20190924052357/http://spidermedia.ru:80/blog/redson/doctor-who-kill-moon-mnenie-redakcii-0",
   "tags": [
     "obzor",
     "doctor-who"
+  ],
+  "cover": "https://web.archive.org/web/20190924052357im_/http://spidermedia.ru/assets/images/import_image/8136.jpg",
+  "modx_id": 8136,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

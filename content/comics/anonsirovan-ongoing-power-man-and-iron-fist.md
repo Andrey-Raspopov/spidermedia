@@ -9,6 +9,12 @@
     "iron-fist",
     "luke-cage"
   ],
+  "cover": "https://web.archive.org/web/20160611141154im_/http://spidermedia.ru/assets/images/news/marvel/all-new-all-different/power-man-iron-fist/3051817-slide-s-1-exclusive-marvel-relaunching-power-man-and-iron-fist-with-all-new-creative-team-10ae9.jpg",
+  "modx_id": 100629,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

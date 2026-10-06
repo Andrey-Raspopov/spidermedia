@@ -1,6 +1,6 @@
 {
   "title": "Джо Хилл и его ключи: Обзор комикса Locke & Key",
-  "date": "2014-07-11T17:42:00+03:00",
+  "date": "2014-07-11T16:42:21+03:00",
   "url": "/blog/colossus05/dzho-hill-i-ego-klyuchi-obzor-komiksa-locke-key/",
   "original_url": "https://spidermedia.ru/blog/colossus05/dzho-hill-i-ego-klyuchi-obzor-komiksa-locke-key",
   "archived": "https://web.archive.org/web/20260123083451/https://spidermedia.ru/blog/colossus05/dzho-hill-i-ego-klyuchi-obzor-komiksa-locke-key",
@@ -9,6 +9,12 @@
     "idw-publishing",
     "gabriel-rodriguez",
     "joe-hill"
+  ],
+  "cover": "https://web.archive.org/web/20160629121611im_/http://spidermedia.ru/assets/images/import_image/7862.jpg",
+  "modx_id": 7862,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

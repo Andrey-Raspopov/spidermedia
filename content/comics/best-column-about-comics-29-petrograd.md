@@ -8,6 +8,12 @@
     "best-column-about-comics",
     "mnenie"
   ],
+  "cover": "https://web.archive.org/web/20260211184808im_/http://spidermedia.ru/assets/images/best-column-about-comics/29-petrograd/petrograd-cover.jpg",
+  "modx_id": 101701,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,6 +1,6 @@
 {
   "title": "SHAZ-- *BANG!*",
-  "date": "2012-09-06T05:14:00+03:00",
+  "date": "2012-09-06T04:14:31+03:00",
   "url": "/news/shaz-bang/",
   "original_url": "https://spidermedia.ru/news/shaz-bang",
   "archived": "https://web.archive.org/web/20240806231643/https://spidermedia.ru/news/shaz-bang",
@@ -8,6 +8,12 @@
     "steve-dillon",
     "deniel-vej",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150326193743im_/http://spidermedia.ru/assets/images/import_image/7012.jpg",
+  "modx_id": 7012,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Рецензия на фильм \"Новый Человек-Паук: Высокое напряжение\"",
-  "date": "2014-04-22T23:27:00+03:00",
+  "date": "2014-04-22T22:27:30+03:00",
   "url": "/blog/christian/recenziya-na-film-novyy-chelovek-pauk-vysokoe-napryazhenie/",
   "original_url": "https://spidermedia.ru/blog/christian/recenziya-na-film-novyy-chelovek-pauk-vysokoe-napryazhenie",
   "archived": "https://web.archive.org/web/20251116060005/https://spidermedia.ru/blog/christian/recenziya-na-film-novyy-chelovek-pauk-vysokoe-napryazhenie",
@@ -8,6 +8,12 @@
     "spider-man",
     "recenziya",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150424123706im_/http://spidermedia.ru/assets/images/import_image/7719.jpg",
+  "modx_id": 7719,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

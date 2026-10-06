@@ -1,6 +1,6 @@
 {
   "title": "Green Lantern: Rise of the Manhunters",
-  "date": "2011-05-27T19:12:00+03:00",
+  "date": "2011-05-27T18:12:36+03:00",
   "url": "/news/green-lantern-rise-manhunters/",
   "original_url": "http://spidermedia.ru/news/green-lantern-rise-manhunters",
   "archived": "https://web.archive.org/web/20250424092005/http://spidermedia.ru/news/green-lantern-rise-manhunters",
@@ -10,6 +10,12 @@
     "manhunters",
     "green-lantern",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20250424092005im_/http://spidermedia.ru/assets/images/import_image/6065.jpg",
+  "modx_id": 6065,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "Utopia в июле",
-  "date": "2009-05-05T21:00:00+03:00",
+  "date": "2009-05-05T20:00:09+03:00",
   "url": "/news/utopia-v-iyule/",
+  "aliases": [
+    "/node/1101/"
+  ],
   "original_url": "http://spidermedia.ru/news/utopia-v-iyule",
   "archived": "https://web.archive.org/web/20120609022148/http://spidermedia.ru/news/utopia-v-iyule",
   "tags": [
@@ -14,7 +17,13 @@
     "x-universe",
     "komiksy",
     "marvel",
-    "mett-frakshen"
+    "mett-frakshen",
+    "lyudi-iks"
+  ],
+  "modx_id": 1101,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

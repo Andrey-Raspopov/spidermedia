@@ -1,7 +1,10 @@
 {
   "title": "Обложки, Манке и Анонсы",
-  "date": "2010-01-09T09:12:00+03:00",
+  "date": "2010-01-09T09:12:49+03:00",
   "url": "/news/oblozhki-manke-i-anonsy/",
+  "aliases": [
+    "/node/2235/"
+  ],
   "original_url": "http://spidermedia.ru/news/oblozhki-manke-i-anonsy",
   "archived": "https://web.archive.org/web/20251207102741/http://spidermedia.ru/news/oblozhki-manke-i-anonsy",
   "tags": [
@@ -12,6 +15,12 @@
     "doug-mahnke",
     "dc-comics",
     "blackest-night"
+  ],
+  "cover": "https://web.archive.org/web/20251207102741im_/http://spidermedia.ru/assets/images/import_image/2235.jpg",
+  "modx_id": 2235,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

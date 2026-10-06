@@ -7,11 +7,15 @@
   "tags": [
     "den-novyh-komiksov"
   ],
+  "cover": "https://web.archive.org/web/20180101022602im_/http://spidermedia.ru/assets/images/news/images/oleg-lyfar/161215-levin-kirby-tease_wf3irm.jpg",
+  "modx_id": 101658,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
-
-[![](http://spidermedia.ru/assets/cache/images/news/images/oleg-lyfar/622x-161215-levin-kirby-tease_wf3irm.2e9.jpg)](http://spidermedia.ru/assets/images/news/images/oleg-lyfar/161215-levin-kirby-tease_wf3irm.jpg)
 
 *Вещает Антон Иванов:*
 
@@ -25,3 +29,219 @@
 Джек Кирби был гением. Нет, не «гением», словом, которое мы привыкли употреблять просто так, по поводу и без, как и «шедевр», превратив эти слова в шутки и мемы. Джек Кирби был настоящим гением, чистым гением. Об этом человеке, кажется, можно говорить бесконечно, с каждым разом находя все новые грани удивительного таланта в поистине огромном наследии, которое Кирби оставил благодарным потомкам — и сам, и в соавторстве с другими талантливыми людьми. Можно бесконечно говорить о Джеке Кирби как о человеке безграничной фантазии, новаторе, выдающемся рассказчике, который превознес искусство сторителлинга на высоту, недосягаемую для многих и спустя почти четверть века после его ухода.
 
 О Джеке Кирби можно говорить бесконечно, но оставим это нашим коллегам [в соответствующей замечательной рубрике о Короле](../../tags/kirby100/), его творчестве и жизненном пути. Мы же будем говорить о сегодняшних новых комиксах. Поехали.
+
+Пятая среда месяца у DC Comics традиционно тихая и почти полностью посвящена Ежегодникам. Здесь мне говорить совершенно не о чем, кроме **Supergirl** Стива Орландо, в аннуале которой продолжается арк Emerald Eradication. А еще, внимание, предпоследний номер **All-Star Batman** Скотта Снайдера и Рафаэля Альбукерке.
+
+Сразу два спешла к столетию Джека Кирби. Во-первых, **Black Racer & Shilo Norman Special**, пишет Реджи Хадлин, рисует Денис Коуан. Во-вторых, **Darkseid Special**, который пишет биограф Джека Кирби, лауреат премии Айснера Марк Иваньер (Kirby: King of Comics) и рисует Скотт Коллинз.
+
+У Marvel Comics неделя побогаче будет.
+
+Начнем с главного — финальный номер **Secret Empire**, ивент заканчивается, это все, ребята. Правда, не совсем — еще будет Secret Empire Omega, эпилог, который подведет итоги всему и закроет эту непростую, неоднозначную, но очень интересную страницу в истории Вселенной Марвел. Пишет Ник Спенсер, рисует (в основном) Стив Макнивен (потому что будет еще Дэвид Маркес и Пако Медина) и, конечно же, замечательный Род Рис, единственный художник, рисовавший девять из десяти номеров серии ПОДРЯД.
+
+Онгоинг **Black Panther and the Crew** Та-Нехиси Коатса, Йоны Харви и Бутча Гайса о Гарлеме и таких героях как Шторм, Мисти Найт, Люк Кейдж и, собственно, сам Пантера, завершается на шестом номере, таким образом превратившись в мини-серию. Гениальное умозаключение, озвученное Дэвидом Гэбриелом, о том, что если назвать серию лимиткой, значит, подписать ей смертный приговор, не подвергал критике только ленивый. Ну, потому что вот если не назвать серию лимиткой, а объявить о ее закрытии на втором номере — это прям победа и коммерческий успех. ЛОГИКА! Ситуация усугубляется еще и тем, что комикс был очень хорошо принят, и это не первый случай подобных странных решений, и не второй и даже не третий, а издательская стратегия (по крайней мере, на этом этапе) — это то, за что издательство Марвел действительно нужно критиковать. Нет, безусловно, я за хорошие комиксы — вне зависимости от количества номеров или реланчей, я покупаю и читаю комиксы не из-за номера на кавере и не теряю интерес к хорошим комиксам из-за перспектив внезапного закрытия. Но, очевидно, для многих читателей и рынка в целом это серьезная проблема, и усталость всех от подобных движений Марвел налицо. Тут либо вы ждете трейда и выносите решение, либо заявляете комикс как мини-серию. И Марвел, кажется, начинают работать в этом направлении. Кажется.
+
+До самого Black Panther and the Crew я пока не добрался из-за элементарной нехватки времени, но критика серии хорошая. Обязательно проверю, тем более, я слышал хвалебные отзывы, в частности, о линии Шторм в этом комиксе.
+
+**Generations: Hawkeye & Hawkeye** Келли Томпсон и Стефано Раффаэлэ — очередной уан-шот о встрече героев разных поколений и уроках, которые выносят из этих встреч легаси герои. Все комиксы серии построены по одной схеме (Джейсон Аарон, правда, успел немножко затизерить Marvel Legacy), но это никоим образом не делает эти уан-шоты менее приятными и красивыми в своей простоте, теплоте и душевности.
+
+Ну и напоследок — очередная пара репринтов кирбиевской классики за один доллар — **True Believers Kirby 100th Antman & the Wasp** (Tales to Astonish 44) и **True Believers Kirby 100th Iron Man** (Tales of Suspense 40-41).
+
+### DC Comics
+
+- All-Star Batman #13
+- Black Racer and Shilo Norman Special #1
+- Darkseid Special #1
+- Justice League of America Vol.5 #13
+- Red Hood and The Outlaws Annual Vol.2 #1
+- Supergirl Vol.7 Annual #1
+- Wonder Woman Vol.5 #29
+
+### Marvel Comics
+
+- America #6
+- Black Panther Vol.6 #17
+- Black Panther and the Crew #6
+- Deadpool Vol.5 #35
+- Doctor Strange and the Sorcerers Supreme #11
+- Generations Hawkeye and Hawkeye #1
+- Guardians of the Galaxy The Telltale Series #2 (of 5)
+- Infamous Iron Man #11
+- Jean Grey #6
+- Mighty Captain Marvel #8
+- Moon Girl and Devil Dinosaur #22
+- Secret Empire #10 (of 10)
+- Spider-Gwen Vol.2 #23
+- Star Wars Vol.4 #35
+- Star Wars Jedi of The Republic Mace Windu #1 (of 5)
+- Thanos Vol.2 #10
+- Uncanny Avengers Vol.3 #26
+- X-Men Blue #10
+
+![](https://web.archive.org/web/20180101022602im_/http://spidermedia.ru/assets/images/dnk/2017-08/30/dc-01.jpg)![](https://web.archive.org/web/20180101022602im_/http://spidermedia.ru/assets/images/dnk/2017-08/30/dc-02.jpg)![](https://web.archive.org/web/20180101022602im_/http://spidermedia.ru/assets/images/dnk/2017-08/30/dc-03.jpg)![](https://web.archive.org/web/20180101022602im_/http://spidermedia.ru/assets/images/dnk/2017-08/30/dc-04.jpg)![](https://web.archive.org/web/20180101022602im_/http://spidermedia.ru/assets/images/dnk/2017-08/30/m-01.jpg)![](https://web.archive.org/web/20180101022602im_/http://spidermedia.ru/assets/images/dnk/2017-08/30/m-02.jpg)![](https://web.archive.org/web/20180101022602im_/http://spidermedia.ru/assets/images/dnk/2017-08/30/m-03.jpg)![](https://web.archive.org/web/20180101022602im_/http://spidermedia.ru/assets/images/dnk/2017-08/30/m-04.jpg)
+
+В поле Dark Horse я буду скорее спрашивать, чем рекомендовать, а именно:
+
+**Angel****Season** **11**пишетКоринаБечко, у которой я читал только отличный Invisible Republic написанный в соавторстве с её мужем Габриэлем Хардманом, и мне вот любопытно — насколько это хороший комикс и насколько возможно его читать человеку, смотревшему только фильм 92 года и пару серий из обоих сериалов Баффиверса? Меня почему-то никогда не привлекал ни сериал о Баффи, ни его спин-офф об Ангеле, но имя на обложке пробудило интерес (сразу говорю, сериалу шанс давать не буду).
+
+**Halo****Rise****of****Atriox** — это ещё один привет от вселенной, про которую я практически ничего не знаю. Все мои познания о мире Хэйло ограничены где-то двумя часами игры в первую часть, мне было весело, но в какой-то момент игра тупо ломалась, а ещё я смотрел аниме Halo Legends и ничего не понял, но местами было красиво. Ближе к делу: нас ждёт комикс-антология, на которую я вряд ли обратил бы внимание, не будь на обложке имени Каллен Банн, которое вызывает во мне интерес всегда, пусть и не всегда оправданный. Кроме Банна нас ждёт череда менее известных авторов, таких как Джоди Хаузер, Джон Джексон Миллер, Клэр Ру, Алекса Ирвин и другие. А фанаты игр любят комикс по Хэйло или это стандартная фуфуфу-адаптация?
+
+И давайте передадим эстафету Image:
+
+У **Ringside** выходит 11 выпуск и начинается третий арк, а я вновь взываю к фанатам реслинга — чё как она драма о тяжёлой жизни рестлеров в деле и ветеранах, отошедших от участия в боях (или как их взаимодействие на ринге называют)? Я читал первый арк и было неплохо, но вот ко второму я уже откровенно потерял интерес и бросил — не знаю, как любителям этого шоу, но со стороны выглядит, как довольно обычная крайм-драма или, как любой комикс Джо Китинджа (кроме Glory разумеется).
+
+Бесконечная сага для любителей ЭКСТРИИИИИИМА, цепей и крови с говном **Spawn**уже совсем скоро достигнет 300-го номера, а пока что 277-ый и второй номер арк от новой команды — человека с идеальной для комикса фамилией Дара Сэвидж и Джейсона Шона Александра. Давным-давно мне советовали почитать этот комикс со свежим взглядом на супергероику и, попробовав, я совершенно не понял, как это может нравиться, а потом спустя лет десять попробовал вновь и всё равно не понял. Есть тут фанаты, было ли что-то интересное в серии? Мне всегда был интересен ран Дэвида Хайна, например, что можете о нём сказать?
+
+### Dark Horse
+
+- Angel Season 11 #8
+- B.P.R.D. The Devil You Know #2
+- Bankshot #3 (of 5)
+- Buffy The Vampire Slayer Season 11 #10
+- Halo Rise of Atriox #1 (of 5)
+- Lady Killer 2 #5 (of 5)
+- Rebels These Free and Independent States #6 (of 8)
+
+### Image Comics
+
+- Black Magick #7
+- Crosswind #3
+- Deadly Class #30
+- Paklis #4
+- Planetoid Praxis #6 (of 6)
+- Ringside #11
+- Saga #46
+- Savage Dragon Vol.2 #226
+- Stray Bullets Sunshine and Roses #27
+- **McFARLANE**
+- Spawn #277
+
+![](https://web.archive.org/web/20180101022602im_/http://spidermedia.ru/assets/images/dnk/2017-08/30/dh-01.jpg)![](https://web.archive.org/web/20180101022602im_/http://spidermedia.ru/assets/images/dnk/2017-08/30/dh-02.jpg)![](https://web.archive.org/web/20180101022602im_/http://spidermedia.ru/assets/images/dnk/2017-08/30/dh-03.jpg)![](https://web.archive.org/web/20180101022602im_/http://spidermedia.ru/assets/images/dnk/2017-08/30/dh-04.jpg)![](https://web.archive.org/web/20180101022602im_/http://spidermedia.ru/assets/images/dnk/2017-08/30/i-01.jpg)![](https://web.archive.org/web/20180101022602im_/http://spidermedia.ru/assets/images/dnk/2017-08/30/i-02.jpg)![](https://web.archive.org/web/20180101022602im_/http://spidermedia.ru/assets/images/dnk/2017-08/30/i-03.jpg)![](https://web.archive.org/web/20180101022602im_/http://spidermedia.ru/assets/images/dnk/2017-08/30/i-04.jpg)
+
+Boom объявил неделю спячки и мне, в общем-то, нечего вам рассказать, поэтому чукча будет петь о том, что видит. Первый номер **Go****Go****Power****Rangers****,** хотяи былизначально мне не интересен, после прочтения лишь утвердил, что похождения разноцветных мальчиков и девочек, периодически объединяющихся в одно целое, совершенно не моё (но новый фильм я всё равно зачем-то посмотрел). Во втором номере, наверное, будет всё тоже самое только чуть-чуть по-другому.
+
+У комиксизации великолепного мультика **Steven****Universe** уже выходит 7 номер второго тома, а я до сих пор держу на паузе второй сезон сериала (зато фильм про рейнджеров посмотрел). Комикс я как-то пропустил мимо и вот даже не знаю стоит ли его вообще читать, мне почему-то очень сложно представить, как происходящее в мультсериале можно перенести в другой медиум. Тем более, что описание нынешнего номера может предвещать как абсолютно ничего, так и огого что — Стивен и Жемчуг проводят ночь за игрой в настолки.
+
+У Dynamite тоже не густо, можно обратить внимание на уаншот из вселенной Джеймса Бонда **Moneypenny,** и я надеюсь, не нужно пояснять, о ком пойдёт речь. Новый образ персонажа мне как-то не понравился, да и пишет Джоди Хаузер, которая мне тоже совершенно не интересна. Если вдруг кому интерес — история расскажет о том, как во время стандартной миссии всё пойдёт не так, как положено, а у Манипенни начнутся «вспышки Вьетнама».
+
+Ещё можно попробовать почитать седьмой том комикса **Vampirella**, где начинается новый арк. С заходами на персонажа от таких талантов, как Грант Моррисон, Алан Мур, Уоррен Эллис, Курт Бусек и других, я не знаком, поэтому сравниваю лишь с более современными комиксами о героине, и на их фоне комикс довольно сносный. Пишет очень скучный Пол Корнелл и видно, что он искренне пытается выдумать что-то эдакое, подкинуть перца, но проваливается в этом, потому что излишне затягивает повествование и вместо забавного трэша выдаёт лишь скучную тягомотину.
+
+### BOOM! Studios
+
+- Go Go Power Rangers #2
+- Victor LaValle's Destroyer #4 (of 6)
+- **KaBOOM!**
+- Amazing World of Gumball 2017 Grab Bag #1
+- Steven Universe Vol.2 #7
+
+### Dynamite Entertainment
+
+- Gwar Orgasmageddon #3 (of 4)
+- James Bond Moneypenny #1 (One Shot)
+- Justice Inc the Avenger Faces of Justice #2 (of 4)
+- Vampirella Vol.7 #6
+
+![](https://web.archive.org/web/20180101022602im_/http://spidermedia.ru/assets/images/dnk/2017-08/30/b-01.jpg)![](https://web.archive.org/web/20180101022602im_/http://spidermedia.ru/assets/images/dnk/2017-08/30/b-02.jpg)![](https://web.archive.org/web/20180101022602im_/http://spidermedia.ru/assets/images/dnk/2017-08/30/d-01.jpg)![](https://web.archive.org/web/20180101022602im_/http://spidermedia.ru/assets/images/dnk/2017-08/30/d-02.jpg)
+
+В блоке IDW предлагаю сыграть в игру «Кому это надо?» Правила просты: я описываю комикс, а вы в комментах пишете, зачем их нужно читать (нет, я не перекладываю свою работу на вас):
+
+- Закончился очередной том попыток перенести настольные и не только фэнтези-миры в комиксы под названием **Dungeons****and****Dragons****Frost****Giant****’****s****Fury**. Первый том я даже пытался читать, но там было слишком большое количество набивших оскомину жанровых клише, и я не смог прорваться дальше второго номера. Хотя там есть чувак, таскающий с собой хомяка Бу, и я не исключаю, что кому-то этого достаточно для чтения тома за томом. Джим Забкович вообще очень неровный автор, который может писать довольно неплохой, хоть и малость заезженный **Skullkickers** и отличный **Samurai****Jack**, но в то же время выдавать огромное количество откровенного мусора.
+- Закончилась мини серия **Ghostbusters 101**, столкнувшая классических охотников за привидениями и персонажей из недавнего фильма. Я понимаю, зачем сделан этот комикс, и даже понимаю, почему героиням не выделили отдельную историю без оригинальных персонажей, но всё же не понимаю целей — неужели у фильма с такой критикой будет достаточное количество фанатов, готовых купить комиксы об охотницах?
+- И напоследок вопрос к комиксам по **X****-****Files** — там хоть что-то интересное бывает, или это просто успешная (судя по количеству вышедших номеров) махинация по навариванию на фанатах? Глянув на автора нынешнего тома, я всё-таки склоняюсь к последнему, ведь пусть Джо Харрис и не худший сценарист, но в невероятном занудстве ему невозможно отказать.
+
+Закончилась вторая мини-серия **Space Riders Galaxy Of Brutality** от сценаристаФабиана Рангеля и художника Алексиса Зиритта, и это отличный повод прочитать или перечитать жутко олдскульное, в хорошем смысле слова, приключение в стиле наркотического прихода. Как я уже писал ранее, Рангелю отлично удаётся писать простые комиксы, не скатываясь при этом в примитивняк. А ещё там есть Истинный Бог Зла и Космический Божественный Монстр — короче, идите и читайте.
+
+Fantagraphics выпускает новый комикс Ричарда Сала — **Bloody****Cardinal**. Как обычно у Ричарда нас ожидают забавные образы, оригинальный рисунок, чёрный юмор и довольно нецепляющий сюжет (я, кажется, не смог дочитать ни один его комикс, но с удовольствием досмотрел каждый).
+
+Закончился кроссовер/ивент **Rapture**, повествующий о последствиях взаимодействия Ниндзяка с потусторонним миром и сталкивающий его со знатоками Дэдсайда — Панк Мамбо и Шедоуменом. Мэтт Киндт, на мой взгляд, чем дольше писал Ниндзяка, тем хуже у него получалось, то ли скучно стало, то ли исписался, но вдруг здесь вышло, как-никак есть где разгуляться.
+
+Читайте хорошие комиксы и не забывайте, что всегда можете рассказать в комментариях о тех, что были несправедливо обделены нашим вниманием! Всем Кирби!
+
+### IDW Publishing
+
+- 24 Legacy Rules Of Engagement #5 (of 5)
+- Dungeons and Dragons Frost Giant's Fury #5 (of 5)
+- G.I. JOE Vol.8 #8
+- G.I. JOE A Real American Hero #243
+- Ghostbusters 101 #6 (of 6)
+- Hasbro Heroes Sourcebook #3 (of 3)
+- Optimus Prime #10
+- Orphan Black Deviations #4 (of 6)
+- Star Wars: The Force Awakens GN
+- Teenage Mutant Ninja Turtles Dimension X #5
+- X-Files Vol.3 #17
+- X-Files Origins II Dog Days of Summer #3 (of 4)
+
+### Другие издательства
+
+- *AARDVARK VANAHEIM*
+- Batvark #1
+- *ACTION LAB ENTERTAINMENT*
+- Miraculous Adventures of Ladybug Cat Noir #2
+- *AFTERSHOCK COMICS*
+- Animosity #9
+- Jimmy's Bastards #3
+- Normals #4
+- *AIRSHIP ENTERTAINMENT*
+- Girl Genius The Second Journey of Agatha Heterodyne Vol.3 The Incorruptible Library HC
+- *AMP! COMICS FOR KIDS*
+- Big Nate A Good Old-Fashioned Wedgie TP
+- *ANTARCTIC PRESS*
+- Blade Bunny Vol.2 #9
+- Gold Digger #245
+- *ARCANA STUDIO*
+- Children of The Fall GN
+- *ARCHIE COMIC PUBLICATIONS*
+- Jughead and Archie Fall Annual Digest #27
+- Your Pal Archie #2
+- *ASPEN COMICS*
+- All New Soulfire Vol.2 #6
+- Santeria The Goddess Kiss #4 (of 5)
+- *BENITEZ PRODUCTIONS*
+- Lady Mechanika Clockwork Assassin #2 (of 3)
+- *BLACK MASK COMICS*
+- Kim and Kim Love Is a Battlefield #2
+- Space Riders Galaxy of Brutality #3
+- There's Nothing There #4
+- *BOUNDLESS COMICS*
+- Jungle Fantasy Survivors #4
+- *CALIBER ENTERTAINMENT*
+- Savage GN
+- *DANGER ZONE*
+- Vampblade Season Two #6
+- *DARBY POP PUBLISHING*
+- Things You Shouldn't Remember GN
+- *FANTAGRAPHICS BOOKS*
+- Bloody Cardinal GN
+- Unreal City HC
+- *FIRST SECOND*
+- Mighty Jack Vol.2 Mighty Jack and the Goblin King GN/HC
+- Spinning GN/HC
+- *NBM*
+- Sartre HC
+- *NOBROW PRESS*
+- Marx, Freud and Einstein Heroes of the Mind GN
+- *PAPERCUTZ*
+- Garfield Show Vol.7 Desperately Seeking Pooky HC
+- Gumby #2
+- Nickelodeon Pandemonium Vol.3 Receiving You Loud and Clear GN
+- Trolls Vol.3 Party With The Bergens HC
+- *REBELLION*
+- 2000 AD Pack July 2017
+- *SCHIFFER PUBLISHING*
+- Knights of the Skull Vol.2 Barbarossa The Invasion of Russia 1941 HC
+- *SCOUT COMICS*
+- Heavenly Blues #2
+- Solar Flare #5
+- John Carpenter's Tales of Science Fiction Vault #2 (of 3)
+- *TITAN PUBLISHING GROUP*
+- Doctor Who The Eleventh Doctor Year Three #9
+- Doctor Who the Lost Dimension Alpha #1
+- Robotech #2
+- *VALIANT ENTERTAINMENT*
+- Faith and The Future Force #2 (of 4)
+- Rapture #4 (of 4)
+- *ZENESCOPE ENTERTAINMENT*
+- Grimm Fairy Tales Vol.2 #8
+- Spirit Hunters #10 (of 12)
+
+![](https://web.archive.org/web/20180101022602im_/http://spidermedia.ru/assets/images/dnk/2017-08/30/idw-01.jpg)![](https://web.archive.org/web/20180101022602im_/http://spidermedia.ru/assets/images/dnk/2017-08/30/idw-02.jpg)![](https://web.archive.org/web/20180101022602im_/http://spidermedia.ru/assets/images/dnk/2017-08/30/idw-03.jpg)![](https://web.archive.org/web/20180101022602im_/http://spidermedia.ru/assets/images/dnk/2017-08/30/idw-04.jpg)![](https://web.archive.org/web/20180101022602im_/http://spidermedia.ru/assets/images/dnk/2017-08/30/o-01.jpg)![](https://web.archive.org/web/20180101022602im_/http://spidermedia.ru/assets/images/dnk/2017-08/30/o-02.jpg)![](https://web.archive.org/web/20180101022602im_/http://spidermedia.ru/assets/images/dnk/2017-08/30/o-03.jpg)![](https://web.archive.org/web/20180101022602im_/http://spidermedia.ru/assets/images/dnk/2017-08/30/o-04.jpg)

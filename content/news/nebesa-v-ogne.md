@@ -1,7 +1,10 @@
 {
   "title": "Небеса в огне",
-  "date": "2009-04-06T21:25:00+03:00",
+  "date": "2009-04-06T20:25:17+03:00",
   "url": "/news/nebesa-v-ogne/",
+  "aliases": [
+    "/node/871/"
+  ],
   "original_url": "https://spidermedia.ru/news/nebesa-v-ogne",
   "archived": "https://web.archive.org/web/20260116214404/https://spidermedia.ru/news/nebesa-v-ogne",
   "tags": [
@@ -10,6 +13,12 @@
     "dzheyson-aaron",
     "zadkiel",
     "emerald-city-comicon"
+  ],
+  "cover": "https://web.archive.org/web/20260116214404im_/http://spidermedia.ru/assets/images/import_image/871.jpg",
+  "modx_id": 871,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

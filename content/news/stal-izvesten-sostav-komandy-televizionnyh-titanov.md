@@ -1,12 +1,19 @@
 {
   "title": "Стал известен состав команды телевизионных «Титанов»",
-  "date": "2015-02-02T21:18:00+03:00",
+  "date": "2015-02-02T21:18:46+03:00",
   "url": "/news/stal-izvesten-sostav-komandy-televizionnyh-titanov/",
   "original_url": "http://spidermedia.ru/news/stal-izvesten-sostav-komandy-televizionnyh-titanov",
   "archived": "https://web.archive.org/web/20251216182403/http://spidermedia.ru/news/stal-izvesten-sostav-komandy-televizionnyh-titanov",
   "tags": [
     "serialy",
-    "dc-comics"
+    "dc-comics",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20150326160415im_/http://spidermedia.ru/assets/images/import_image/8573.jpg",
+  "modx_id": 8573,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

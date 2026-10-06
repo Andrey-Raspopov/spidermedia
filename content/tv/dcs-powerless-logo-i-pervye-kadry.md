@@ -7,6 +7,12 @@
   "tags": [
     "dc-comics"
   ],
+  "cover": "https://web.archive.org/web/20250814200551im_/http://spidermedia.ru/assets/images/tv/dc/powerless/powerless-banner.jpg",
+  "modx_id": 101143,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

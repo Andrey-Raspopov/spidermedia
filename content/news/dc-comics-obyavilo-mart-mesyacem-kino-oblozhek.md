@@ -1,11 +1,17 @@
 {
   "title": "DC Comics объявило март месяцем кино-обложек",
-  "date": "2014-12-16T11:03:00+03:00",
+  "date": "2014-12-16T11:03:37+03:00",
   "url": "/news/dc-comics-obyavilo-mart-mesyacem-kino-oblozhek/",
   "original_url": "http://spidermedia.ru/news/dc-comics-obyavilo-mart-mesyacem-kino-oblozhek",
   "archived": "https://web.archive.org/web/20190923105439/http://spidermedia.ru/news/dc-comics-obyavilo-mart-mesyacem-kino-oblozhek",
   "tags": [
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150326221657im_/http://spidermedia.ru/assets/images/import_image/8381.jpg",
+  "modx_id": 8381,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

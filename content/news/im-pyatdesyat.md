@@ -1,6 +1,6 @@
 {
   "title": "Им пятьдесят!",
-  "date": "2009-02-15T22:42:00+03:00",
+  "date": "2009-02-15T21:42:32+03:00",
   "url": "/news/im-pyatdesyat/",
   "original_url": "http://spidermedia.ru/news/im-pyatdesyat",
   "archived": "https://web.archive.org/web/20120718063347/http://spidermedia.ru/news/im-pyatdesyat",
@@ -8,7 +8,13 @@
     "avengers",
     "brayan-maykl-bendis",
     "komiksy",
-    "marvel"
+    "marvel",
+    "brian-michael-bendis"
+  ],
+  "modx_id": 378,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

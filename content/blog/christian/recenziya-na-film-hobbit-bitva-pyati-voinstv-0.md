@@ -1,6 +1,6 @@
 {
   "title": "Рецензия на фильм «Хоббит: Битва пяти воинств»",
-  "date": "2014-12-11T15:00:00+03:00",
+  "date": "2014-12-11T15:00:37+03:00",
   "url": "/blog/christian/recenziya-na-film-hobbit-bitva-pyati-voinstv-0/",
   "original_url": "https://spidermedia.ru/blog/christian/recenziya-na-film-hobbit-bitva-pyati-voinstv-0",
   "archived": "https://web.archive.org/web/20221204210305/https://spidermedia.ru/blog/christian/recenziya-na-film-hobbit-bitva-pyati-voinstv-0",
@@ -9,6 +9,12 @@
     "recenziya",
     "piter-dzhekson",
     "obzor"
+  ],
+  "cover": "https://web.archive.org/web/20150424090249im_/http://spidermedia.ru/assets/images/import_image/8364.jpg",
+  "modx_id": 8364,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

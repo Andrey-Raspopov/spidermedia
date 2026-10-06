@@ -1,6 +1,6 @@
 {
   "title": "Убивашки тоже люди",
-  "date": "2011-04-11T21:25:00+03:00",
+  "date": "2011-04-11T20:25:43+03:00",
   "url": "/news/ubivashki-tozhe-lyudi/",
   "original_url": "http://spidermedia.ru/news/ubivashki-tozhe-lyudi",
   "archived": "https://web.archive.org/web/20260115052605/http://spidermedia.ru/news/ubivashki-tozhe-lyudi",
@@ -11,7 +11,14 @@
     "art-0",
     "marvel",
     "icon-comics",
-    "hit-girl"
+    "hit-girl",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20260115052605im_/http://spidermedia.ru/assets/images/import_image/4891.jpg",
+  "modx_id": 4891,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

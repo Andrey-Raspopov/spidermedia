@@ -1,11 +1,16 @@
 {
   "title": "Я ужас летящий на крыльях ночи..... (на самом деле нет)",
-  "date": "2012-07-26T16:09:00+03:00",
+  "date": "2012-07-26T15:09:44+03:00",
   "url": "/blog/transistor/ya-uzhas-letyashchiy-na-krylyah-nochi-na-samom-dele-net/",
   "original_url": "https://spidermedia.ru/blog/transistor/ya-uzhas-letyashchiy-na-krylyah-nochi-na-samom-dele-net",
   "archived": "https://web.archive.org/web/20250814210137/https://spidermedia.ru/blog/transistor/ya-uzhas-letyashchiy-na-krylyah-nochi-na-samom-dele-net",
   "tags": [
     "temnyj-rycar"
+  ],
+  "modx_id": 6990,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

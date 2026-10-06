@@ -7,6 +7,12 @@
   "tags": [
     "spidermedia-15th-anniversary"
   ],
+  "cover": "https://web.archive.org/web/20170912070250im_/http://spidermedia.ru/assets/images/articles/oldruscom/888.jpg",
+  "modx_id": 101449,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

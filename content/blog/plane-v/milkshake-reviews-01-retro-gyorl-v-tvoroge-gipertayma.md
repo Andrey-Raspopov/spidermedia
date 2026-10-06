@@ -1,7 +1,10 @@
 {
   "title": "Milkshake Reviews - 01 - Ретро Гёрл в твороге Гипертайма",
-  "date": "2010-05-05T03:31:00+03:00",
+  "date": "2010-05-05T02:31:27+03:00",
   "url": "/blog/plane-v/milkshake-reviews-01-retro-gyorl-v-tvoroge-gipertayma/",
+  "aliases": [
+    "/node/2599/"
+  ],
   "original_url": "https://spidermedia.ru/blog/plane-v/milkshake-reviews-01-retro-gyorl-v-tvoroge-gipertayma",
   "archived": "https://web.archive.org/web/20260117232751/https://spidermedia.ru/blog/plane-v/milkshake-reviews-01-retro-gyorl-v-tvoroge-gipertayma",
   "tags": [
@@ -10,6 +13,12 @@
     "milkshake-reviews",
     "marvel",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20260117232751im_/http://spidermedia.ru/assets/images/import_image/2599.jpg",
+  "modx_id": 2599,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,0 +1,76 @@
+{
+  "title": "РосКомНадзор: <span style=\"text-decoration: line-through;\">не</span> прячьте ваши денежки",
+  "date": "2017-02-24T11:30:00+03:00",
+  "url": "/comics/roskomnadzor-24.02.2017/",
+  "aliases": [
+    "/news/roskomnadzor-24.02.2017/"
+  ],
+  "original_url": "http://spidermedia.ru/comics/roskomnadzor-24.02.2017",
+  "tags": [
+    "zarubezhnye-komiksy-na-russkom",
+    "roskomnadzor",
+    "russian-comics"
+  ],
+  "cover": "https://web.archive.org/web/20170224im_/http://spidermedia.ru/assets/images/valiant/images/rcs-24.02.2017/rcs-24.02.2017-cover02.jpg",
+  "modx_id": 101503,
+  "sources": [
+    "database"
+  ],
+  "template": "database"
+}
+
+Приветствую вас в очередном выпуске РосКомНадзора, как вы уже [знаете](../roskomnadzor-new-chapter/), теперь я буду вести эту рубрику. Поздравляю мужскую половину наших читателей с прошедшим Днем защитника отечества, желаю вам мудро защитить свои финансовые сбережения в той штыковой атаке анонсов, в которую мы сейчас пойдем.
+
+На этой неделе **Illusion Studios** рассказало о своих планах на март: готовится к изданию **«Классические Черепашки-ниндзя: Война в Городе»**, твёрдый переплёт, суперобложка, мелованная бумага, 368 стр. У книги будет несколько обложек: помимо стандартной и ultimate есть возможность получить книгу с обложкой от Кевина Истмена, которая не поступит в свободную продажу и будет доступна только по [предзаказу](https://vk.com/wall-5614730_7680). И самый эксклюзивный вариант — лимитированное издание с обложкой Кевина Истмена и Питера Лерда, всего 50 экземпляров, доступных только по [предзаказу](https://vk.com/wall-5614730_7704).
+
+![](https://web.archive.org/web/20170921211725im_/http://spidermedia.ru/assets/images/valiant/images/rcs-24.02.2017/rcs-24.02.2017-illusion-studios-01.jpg)![](https://web.archive.org/web/20170224im_/http://spidermedia.ru/assets/images/valiant/images/rcs-24.02.2017/rcs-24.02.2017-illusion-studios-11.jpg)![](https://web.archive.org/web/20170224im_/http://spidermedia.ru/assets/images/valiant/images/rcs-24.02.2017/rcs-24.02.2017-illusion-studios-21.jpg)![](https://web.archive.org/web/20170224im_/http://spidermedia.ru/assets/images/valiant/images/rcs-24.02.2017/rcs-24.02.2017-illusion-studios-22.jpg)![](https://web.archive.org/web/20170224im_/http://spidermedia.ru/assets/images/valiant/images/rcs-24.02.2017/rcs-24.02.2017-illusion-studios-02.jpg)![](https://web.archive.org/web/20170224im_/http://spidermedia.ru/assets/images/valiant/images/rcs-24.02.2017/rcs-24.02.2017-illusion-studios-03.jpg)![](https://web.archive.org/web/20180130191051im_/http://spidermedia.ru/assets/images/valiant/images/rcs-24.02.2017/rcs-24.02.2017-illusion-studios-04.jpg)![](https://web.archive.org/web/20180130190451im_/http://spidermedia.ru/assets/images/valiant/images/rcs-24.02.2017/rcs-24.02.2017-illusion-studios-05.jpg)![](https://web.archive.org/web/20170224im_/http://spidermedia.ru/assets/images/valiant/images/rcs-24.02.2017/rcs-24.02.2017-illusion-studios-06.jpg)![](https://web.archive.org/web/20170224im_/http://spidermedia.ru/assets/images/valiant/images/rcs-24.02.2017/rcs-24.02.2017-illusion-studios-07.jpg)![](https://web.archive.org/web/20170224im_/http://spidermedia.ru/assets/images/valiant/images/rcs-24.02.2017/rcs-24.02.2017-illusion-studios-08.jpg)![](https://web.archive.org/web/20170224im_/http://spidermedia.ru/assets/images/valiant/images/rcs-24.02.2017/rcs-24.02.2017-illusion-studios-09.jpg)![](https://web.archive.org/web/20170224im_/http://spidermedia.ru/assets/images/valiant/images/rcs-24.02.2017/rcs-24.02.2017-illusion-studios-10.jpg)
+
+Но не одними черепашками богато издательство, в марте готовится к выходу **«Аватар. Легенда об Аанге: Обещание»** одновременно в мягком и твердом переплете, матовая обложка, мелованная бумага, 240 стр.
+
+![](https://web.archive.org/web/20240802162958im_/http://spidermedia.ru/assets/images/valiant/images/rcs-24.02.2017/rcs-24.02.2017-illusion-studios-12.jpg)![](https://web.archive.org/web/20170929052615im_/http://spidermedia.ru/assets/images/valiant/images/rcs-24.02.2017/rcs-24.02.2017-illusion-studios-13.jpg)![](https://web.archive.org/web/20180130194016im_/http://spidermedia.ru/assets/images/valiant/images/rcs-24.02.2017/rcs-24.02.2017-illusion-studios-14.jpg)![](https://web.archive.org/web/20180130192225im_/http://spidermedia.ru/assets/images/valiant/images/rcs-24.02.2017/rcs-24.02.2017-illusion-studios-15.jpg)![](https://web.archive.org/web/20180130190531im_/http://spidermedia.ru/assets/images/valiant/images/rcs-24.02.2017/rcs-24.02.2017-illusion-studios-16.jpg)![](https://web.archive.org/web/20180130185821im_/http://spidermedia.ru/assets/images/valiant/images/rcs-24.02.2017/rcs-24.02.2017-illusion-studios-17.jpg)![](https://web.archive.org/web/20170224im_/http://spidermedia.ru/assets/images/valiant/images/rcs-24.02.2017/rcs-24.02.2017-illusion-studios-18.jpg)![](https://web.archive.org/web/20170224im_/http://spidermedia.ru/assets/images/valiant/images/rcs-24.02.2017/rcs-24.02.2017-illusion-studios-19.jpg)![](https://web.archive.org/web/20170224im_/http://spidermedia.ru/assets/images/valiant/images/rcs-24.02.2017/rcs-24.02.2017-illusion-studios-20.jpg)
+
+Если вам все еще кажется, что обложек для Черепашек-ниндзя мало, **«Комильфо»** берется исправить ситуацию. Были показаны эксклюзивные обложки Дэна Данкана и Кевина Истмена для переиздания **«Ниндзя черепашек»**. Следует напомнить, что книга будет в твердом переплёте, увеличенного формата 210 на 290 мм, в неё войдут выпуски с 1 по 16, микросерии героев с 1 по 7, плюс дополнительная история из юбилейного выпуска. Поучаствовать в предзаказе можно [здесь](https://28oi.ru/item/by_category/31). Также обещают переиздать **«Время приключений: Марселин и Королевы Крика»**.
+
+![](https://web.archive.org/web/20170224im_/http://spidermedia.ru/assets/images/valiant/images/rcs-24.02.2017/rcs-24.02.2017-komilfo-01.jpg)![](https://web.archive.org/web/20170224im_/http://spidermedia.ru/assets/images/valiant/images/rcs-24.02.2017/rcs-24.02.2017-komilfo-02.jpg)
+
+Что? Все еще мало альтернативных обложек? Не переживайте, будет еще. В Москве 4 марта во Дворце культуры и техники МАИ пройдет [**comXfest**](https://vk.com/moscomfest). Издательство комиксов **«Зодиак»** подготовилось к фестивалю, отправив в печать второй том **«Современного Человека-Паука: Время тренировок»** с регулярной и альтернативной обложкой, тираж которой 100 копий. А издательство **«Рамона»** обещает провести на мероприятии презентацию комикса **Usagi Yojimbo**.
+
+![](https://web.archive.org/web/20170224im_/http://spidermedia.ru/assets/images/valiant/images/rcs-24.02.2017/rcs-24.02.2017-zodiac-01.jpg)![](https://web.archive.org/web/20170224im_/http://spidermedia.ru/assets/images/valiant/images/rcs-24.02.2017/rcs-24.02.2017-zodiac-04.jpg)![](https://web.archive.org/web/20170224im_/http://spidermedia.ru/assets/images/valiant/images/rcs-24.02.2017/rcs-24.02.2017-zodiac-02.jpg)![](https://web.archive.org/web/20170224im_/http://spidermedia.ru/assets/images/valiant/images/rcs-24.02.2017/rcs-24.02.2017-zodiac-03.jpg)![](https://web.archive.org/web/20170224im_/http://spidermedia.ru/assets/images/valiant/images/rcs-24.02.2017/rcs-24.02.2017-ramona-01.jpg)
+
+**XL media** получило из типографии **«Dragon Age. Библиотечное издание. Книга 1»**, подготовленную в лучших традициях издательства: твердый переплет, 232 стр., ляссе. Книга содержит трилогию комиксов **«Тихая роща»**, ****«Те, кто говорит»**** и ******«Пока не уснём»****** за авторстовом Дэвида Гейдера.
+
+![](https://web.archive.org/web/20180130204647im_/http://spidermedia.ru/assets/images/valiant/images/rcs-24.02.2017/rcs-24.02.2017-xl-media-01.jpg)![](https://web.archive.org/web/20170224im_/http://spidermedia.ru/assets/images/valiant/images/rcs-24.02.2017/rcs-24.02.2017-xl-media-02.jpg)![](https://web.archive.org/web/20170224im_/http://spidermedia.ru/assets/images/valiant/images/rcs-24.02.2017/rcs-24.02.2017-xl-media-03.jpg)![](https://web.archive.org/web/20170224im_/http://spidermedia.ru/assets/images/valiant/images/rcs-24.02.2017/rcs-24.02.2017-xl-media-04.jpg)![](https://web.archive.org/web/20170224im_/http://spidermedia.ru/assets/images/valiant/images/rcs-24.02.2017/rcs-24.02.2017-xl-media-05.jpg)![](https://web.archive.org/web/20170224im_/http://spidermedia.ru/assets/images/valiant/images/rcs-24.02.2017/rcs-24.02.2017-xl-media-06.jpg)![](https://web.archive.org/web/20170224im_/http://spidermedia.ru/assets/images/valiant/images/rcs-24.02.2017/rcs-24.02.2017-xl-media-07.jpg)
+
+**«Белый Единорог»** подготовило к печати комикс **«Зеркало мрака»**, макет на данный момент находится на согласовании с правообладателем.
+
+![](https://web.archive.org/web/20251011140441im_/http://spidermedia.ru/assets/images/valiant/images/rcs-24.02.2017/rcs-24.02.2017-wu-01.jpg)![](https://web.archive.org/web/20170224im_/http://spidermedia.ru/assets/images/valiant/images/rcs-24.02.2017/rcs-24.02.2017-wu-02.jpg)![](https://web.archive.org/web/20170224im_/http://spidermedia.ru/assets/images/valiant/images/rcs-24.02.2017/rcs-24.02.2017-wu-03.jpg)![](https://web.archive.org/web/20170224im_/http://spidermedia.ru/assets/images/valiant/images/rcs-24.02.2017/rcs-24.02.2017-wu-04.jpg)![](https://web.archive.org/web/20170224im_/http://spidermedia.ru/assets/images/valiant/images/rcs-24.02.2017/rcs-24.02.2017-wu-05.jpg)![](https://web.archive.org/web/20170224im_/http://spidermedia.ru/assets/images/valiant/images/rcs-24.02.2017/rcs-24.02.2017-wu-06.jpg)![](https://web.archive.org/web/20170224im_/http://spidermedia.ru/assets/images/valiant/images/rcs-24.02.2017/rcs-24.02.2017-wu-07.jpg)![](https://web.archive.org/web/20170224im_/http://spidermedia.ru/assets/images/valiant/images/rcs-24.02.2017/rcs-24.02.2017-wu-08.jpg)![](https://web.archive.org/web/20170224im_/http://spidermedia.ru/assets/images/valiant/images/rcs-24.02.2017/rcs-24.02.2017-wu-09.jpg)
+
+**Jellyfish Jam** отправило в печать первый том серии **«Росомаха и Люди Икс»**, мягкий переплет, 192 стр., в продаже — в начале-середине марта.
+
+![](https://web.archive.org/web/20170224im_/http://spidermedia.ru/assets/images/valiant/images/rcs-24.02.2017/rcs-24.02.2017-jellyfish-jam-01.jpg)![](https://web.archive.org/web/20170224im_/http://spidermedia.ru/assets/images/valiant/images/rcs-24.02.2017/rcs-24.02.2017-jellyfish-jam-02.jpg)![](https://web.archive.org/web/20170224im_/http://spidermedia.ru/assets/images/valiant/images/rcs-24.02.2017/rcs-24.02.2017-jellyfish-jam-03.jpg)![](https://web.archive.org/web/20170224im_/http://spidermedia.ru/assets/images/valiant/images/rcs-24.02.2017/rcs-24.02.2017-jellyfish-jam-04.jpg)![](https://web.archive.org/web/20170224im_/http://spidermedia.ru/assets/images/valiant/images/rcs-24.02.2017/rcs-24.02.2017-jellyfish-jam-05.jpg)
+
+Тем временем **«Другое Издательство»** подготовило к сдачи в печать третий сингл **«Зомфри Блога»** от [Анастасии Малыгиной](https://vk.com/red_mad_art).
+
+![](https://web.archive.org/web/20170224im_/http://spidermedia.ru/assets/images/valiant/images/rcs-24.02.2017/rcs-24.02.2017-other-01.jpg)![](https://web.archive.org/web/20170224im_/http://spidermedia.ru/assets/images/valiant/images/rcs-24.02.2017/rcs-24.02.2017-other-02.jpg)![](https://web.archive.org/web/20170224im_/http://spidermedia.ru/assets/images/valiant/images/rcs-24.02.2017/rcs-24.02.2017-other-03.jpg)
+
+**«Палма-пресс»** радует своих поклонников известием о напечатанном тираже **«Эльфквест. Книга 4: Конец Поисков»**.
+
+![](https://web.archive.org/web/20170224im_/http://spidermedia.ru/assets/images/valiant/images/rcs-24.02.2017/rcs-24.02.2017-elf-quest-01.jpg)![](https://web.archive.org/web/20171023173952im_/http://spidermedia.ru/assets/images/valiant/images/rcs-24.02.2017/rcs-24.02.2017-elf-quest-02.jpg)
+
+А на полках магазинах нынче не богато. Маленькое, но удаленькое издательство **«КомФедерация»** ввыпустило три новинки: **«Фанте Буковски»** американского автора Ноя Ван Скивера рассказывает о писателе, который любит выпить; **«Круты Пацан. Невероятные приключения на фестивале фудтраков»** комикс из Беларуси про крутизну и живую еду; **«Мишка Алкоголик»** от питерского автора Маши Богатовой повествует о медведе, влюбленном в вино.
+
+И не забудьте про собрание «зинов» Виталия Терлецкого про мускулистого борца с птицами Романа **«Роман, победитель ласточек»**. Жители северной столицы могут [попасть на автограф-сессию](https://vk.com/wall-10764581_26696) с Виталием, Машей Богатовой и Викой Молоко.
+
+![](https://web.archive.org/web/20170224im_/http://spidermedia.ru/assets/images/valiant/images/rcs-24.02.2017/rcs-24.02.2017-buy-02.jpg)![](https://web.archive.org/web/20170224im_/http://spidermedia.ru/assets/images/valiant/images/rcs-24.02.2017/rcs-24.02.2017-buy-03.jpg)![](https://web.archive.org/web/20170224im_/http://spidermedia.ru/assets/images/valiant/images/rcs-24.02.2017/rcs-24.02.2017-buy-04.jpg)![](https://web.archive.org/web/20170224im_/http://spidermedia.ru/assets/images/valiant/images/rcs-24.02.2017/rcs-24.02.2017-buy-01.jpg)
+
+Отвлечься от артхауса на этой недели помогут допечатки комиксов: **«Росомаха. Старик Логан»**, **«Реактивный Енот»** и **«Дэдпул уничтожает вселенную Marvel»**. И свежая Marvel-книга **«Капитан Америка. Темные Замыслы»**.
+
+![](https://web.archive.org/web/20170224im_/http://spidermedia.ru/assets/images/valiant/images/rcs-24.02.2017/rcs-24.02.2017-buy-08.jpg)![](https://web.archive.org/web/20170224im_/http://spidermedia.ru/assets/images/valiant/images/rcs-24.02.2017/rcs-24.02.2017-buy-06.jpg)![](https://web.archive.org/web/20170224im_/http://spidermedia.ru/assets/images/valiant/images/rcs-24.02.2017/rcs-24.02.2017-buy-07.jpg)![](https://web.archive.org/web/20180130203632im_/http://spidermedia.ru/assets/images/valiant/images/rcs-17.02.2017/rcs-17.02.2017-ast-03.jpg)
+
+Прошла премьера первого короткометражного фильма **Bubble** по комиксам **«Майор Гром»**, к сожалению, премьера была омрачена техническими неисправностями, но уже через несколько дней фильм можно было посмотреть на [YouTube канале издательства](https://youtu.be/RLt65JxNsWI), с мнением нашей редакции по поводу «Майора Грома» можно ознакомиться [здесь](../../movies/major-grom-mnenie-redakcii/). Тем временем на прилавках уже можно найти 28 выпуски **«Экслибриума»**, в котором стартует новый сюжет **«Невинная история»** и **«Метеоры»** с новой историей **«Одной крови»**.
+
+![](https://web.archive.org/web/20170224im_/http://spidermedia.ru/assets/images/valiant/images/rcs-24.02.2017/rcs-24.02.2017-bubble-02.jpg)![](https://web.archive.org/web/20170224im_/http://spidermedia.ru/assets/images/valiant/images/rcs-24.02.2017/rcs-24.02.2017-bubble-01.jpg)
+
+Еще в Санкт-Петербурге можно посетить Библиотеку Охта-LAB, в которой пройдет [в](https://vk.com/wall-128420576_433)[стреча-дискуссия](https://vk.com/wall-128420576_433) с Фридой Ульвегрен, художницей комиксов и книжным иллюстратором из Швеции.
+
+![](https://web.archive.org/web/20170224im_/http://spidermedia.ru/assets/images/valiant/images/rcs-24.02.2017/rcs-24.02.2017-event-01.jpg)![](https://web.archive.org/web/20170224im_/http://spidermedia.ru/assets/images/valiant/images/rcs-24.02.2017/rcs-24.02.2017-event-02.jpg)![](https://web.archive.org/web/20171023184446im_/http://spidermedia.ru/assets/images/valiant/images/rcs-24.02.2017/rcs-24.02.2017-event-03.jpg)

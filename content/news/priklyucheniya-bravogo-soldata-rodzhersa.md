@@ -1,7 +1,10 @@
 {
   "title": "Приключения бравого солдата Роджерса",
-  "date": "2010-04-17T11:18:00+03:00",
+  "date": "2010-04-17T10:18:38+03:00",
   "url": "/news/priklyucheniya-bravogo-soldata-rodzhersa/",
+  "aliases": [
+    "/node/2552/"
+  ],
   "original_url": "http://spidermedia.ru/news/priklyucheniya-bravogo-soldata-rodzhersa",
   "archived": "https://web.archive.org/web/20260211193217/http://spidermedia.ru/news/priklyucheniya-bravogo-soldata-rodzhersa",
   "tags": [
@@ -14,11 +17,17 @@
     "marvel",
     "heroic-age"
   ],
+  "cover": "https://web.archive.org/web/20260211193217im_/http://spidermedia.ru/assets/images/import_image/2552.jpg",
+  "modx_id": 2552,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-Даже уж не будучи **Капитаном Америкой** (*Captain America*), **Стив Роджерс** (*Steve Rodgers*) не перестаёт быть значимой фигурой во вселенной **Marvel**. Мы уже знаем про его участие в [серии **Secret Avengers**](../../node/2522/) и видели его новый костюм дизайна **Марко Джурджевича** (*Marco Djurdjevic*), но на этом планы **Эда Брубейкера** (*Ed Brubaker*) на его любимого суперсолдата не заканчиваются, так как в июле начинается ещё и мини-серия из четырёх номеров про Стива отдельно под названием **Steve Rodgers: Super-Soldier**, рисовать которую будет **Дэйл Иглшэм** (*Dale Eaglesham*). Вероятно в этом и кроется причина внезапных попаданий **Нила Эдвардса** (*Neal Edwards*) на место замещающего художника **Fantastic Four**.
+Даже уж не будучи **Капитаном Америкой** (*Captain America*), **Стив Роджерс** (*Steve Rodgers*) не перестаёт быть значимой фигурой во вселенной **Marvel**. Мы уже знаем про его участие в [серии **Secret Avengers**](../sekretnye-mstiteli-raskryty/) и видели его новый костюм дизайна **Марко Джурджевича** (*Marco Djurdjevic*), но на этом планы **Эда Брубейкера** (*Ed Brubaker*) на его любимого суперсолдата не заканчиваются, так как в июле начинается ещё и мини-серия из четырёх номеров про Стива отдельно под названием **Steve Rodgers: Super-Soldier**, рисовать которую будет **Дэйл Иглшэм** (*Dale Eaglesham*). Вероятно в этом и кроется причина внезапных попаданий **Нила Эдвардса** (*Neal Edwards*) на место замещающего художника **Fantastic Four**.
 
 [![Photobucket](https://web.archive.org/web/20260211193217im_/http://i3.photobucket.com/albums/y65/Carnage_vl/phpThumbphp_1.jpg)](http://i3.photobucket.com/albums/y65/Carnage_vl/1271438425.jpg) [![Photobucket](https://web.archive.org/web/20260211193217im_/http://i3.photobucket.com/albums/y65/Carnage_vl/phpThumbphp-7.jpg)](http://i3.photobucket.com/albums/y65/Carnage_vl/1271438409.jpg)
 

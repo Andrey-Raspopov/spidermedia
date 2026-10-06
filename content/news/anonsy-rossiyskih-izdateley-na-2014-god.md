@@ -1,6 +1,6 @@
 {
   "title": "Анонсы российских издателей на 2014 год",
-  "date": "2014-01-01T20:36:00+03:00",
+  "date": "2014-01-01T19:36:09+03:00",
   "url": "/news/anonsy-rossiyskih-izdateley-na-2014-god/",
   "original_url": "http://spidermedia.ru/news/anonsy-rossiyskih-izdateley-na-2014-god",
   "archived": "https://web.archive.org/web/20251107023044/http://spidermedia.ru/news/anonsy-rossiyskih-izdateley-na-2014-god",
@@ -8,6 +8,12 @@
     "panini",
     "komiks-art",
     "zarubezhnye-komiksy-na-russkom"
+  ],
+  "cover": "https://web.archive.org/web/20251107023044im_/http://spidermedia.ru/assets/images/import_image/7588.jpg",
+  "modx_id": 7588,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

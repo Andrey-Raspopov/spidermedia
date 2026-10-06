@@ -1,7 +1,10 @@
 {
   "title": "Кэп, Ю и Reborn",
-  "date": "2009-08-12T22:16:00+03:00",
+  "date": "2009-08-12T21:16:50+03:00",
   "url": "/news/kep-yu-i-reborn/",
+  "aliases": [
+    "/node/1770/"
+  ],
   "original_url": "http://spidermedia.ru/news/kep-yu-i-reborn",
   "archived": "https://web.archive.org/web/20200219113544/http://spidermedia.ru:80/news/kep-yu-i-reborn",
   "tags": [
@@ -17,7 +20,17 @@
     "marvel",
     "doctor-doom",
     "captain-america",
-    "avengers"
+    "avengers",
+    "prevyu",
+    "brayan-hitch",
+    "art",
+    "fantasticheskaya-chetverka"
+  ],
+  "cover": "https://web.archive.org/web/20200219113544im_/http://spidermedia.ru/assets/images/import_image/1770.jpg",
+  "modx_id": 1770,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

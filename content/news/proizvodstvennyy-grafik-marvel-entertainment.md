@@ -1,7 +1,10 @@
 {
   "title": "Производственный график Marvel Entertainment",
-  "date": "2009-05-08T16:47:00+03:00",
+  "date": "2009-05-08T15:47:56+03:00",
   "url": "/news/proizvodstvennyy-grafik-marvel-entertainment/",
+  "aliases": [
+    "/node/1134/"
+  ],
   "original_url": "http://spidermedia.ru/news/proizvodstvennyy-grafik-marvel-entertainment",
   "archived": "https://web.archive.org/web/20120608140623/http://spidermedia.ru/news/proizvodstvennyy-grafik-marvel-entertainment",
   "tags": [
@@ -16,6 +19,12 @@
     "kino",
     "mstiteli",
     "tor"
+  ],
+  "cover": "https://web.archive.org/web/20120608140623im_/http://spidermedia.ru/assets/images/import_image/1134.jpg",
+  "modx_id": 1134,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

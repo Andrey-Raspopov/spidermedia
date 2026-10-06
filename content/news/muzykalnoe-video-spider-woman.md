@@ -1,6 +1,6 @@
 {
   "title": "Музыкальное видео \"Spider-Woman\"",
-  "date": "2009-10-01T01:06:00+03:00",
+  "date": "2009-10-01T00:06:56+03:00",
   "url": "/news/muzykalnoe-video-spider-woman/",
   "original_url": "https://spidermedia.ru/news/muzykalnoe-video-spider-woman",
   "archived": "https://web.archive.org/web/20260115062055/https://spidermedia.ru/news/muzykalnoe-video-spider-woman",
@@ -11,6 +11,11 @@
     "muzyka",
     "motion-comics",
     "animirovannye-komiksy"
+  ],
+  "modx_id": 1950,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

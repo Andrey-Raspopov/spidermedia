@@ -1,6 +1,6 @@
 {
   "title": "Болотные разбойники вселенной",
-  "date": "2013-01-12T09:22:00+03:00",
+  "date": "2013-01-12T08:22:16+03:00",
   "url": "/news/bolotnye-razboyniki-vselennoy/",
   "original_url": "http://spidermedia.ru/news/bolotnye-razboyniki-vselennoy",
   "archived": "https://web.archive.org/web/20260312015316/http://spidermedia.ru/news/bolotnye-razboyniki-vselennoy",
@@ -16,6 +16,12 @@
     "red-hood",
     "hi-men",
     "he-man"
+  ],
+  "cover": "https://web.archive.org/web/20260312015316im_/http://spidermedia.ru/assets/images/import_image/7115.jpg",
+  "modx_id": 7115,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

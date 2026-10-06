@@ -7,6 +7,12 @@
   "tags": [
     "archie-comics"
   ],
+  "cover": "https://web.archive.org/web/20260215083344im_/http://spidermedia.ru/assets/images/tv/riverdale/riverdalepromo_hires2.jpg",
+  "modx_id": 100867,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

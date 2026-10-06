@@ -1,6 +1,6 @@
 {
   "title": "\"Новый Человек-Паук\" от Gameloft",
-  "date": "2012-06-13T14:42:00+03:00",
+  "date": "2012-06-13T13:42:17+03:00",
   "url": "/news/novyy-chelovek-pauk-ot-gameloft/",
   "original_url": "https://spidermedia.ru/news/novyy-chelovek-pauk-ot-gameloft",
   "archived": "https://web.archive.org/web/20251216111858/https://spidermedia.ru/news/novyy-chelovek-pauk-ot-gameloft",
@@ -9,6 +9,12 @@
     "marvel",
     "igry",
     "gameloft"
+  ],
+  "cover": "https://web.archive.org/web/20150326013448im_/http://spidermedia.ru/assets/images/import_image/6929.jpg",
+  "modx_id": 6929,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

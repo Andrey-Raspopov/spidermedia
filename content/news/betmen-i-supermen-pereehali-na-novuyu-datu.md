@@ -1,6 +1,6 @@
 {
   "title": "Бэтмен и Супермен переехали на новую дату",
-  "date": "2014-08-07T08:29:00+03:00",
+  "date": "2014-08-07T07:29:45+03:00",
   "url": "/news/betmen-i-supermen-pereehali-na-novuyu-datu/",
   "original_url": "https://spidermedia.ru/news/betmen-i-supermen-pereehali-na-novuyu-datu",
   "archived": "https://web.archive.org/web/20251216122600/https://spidermedia.ru/news/betmen-i-supermen-pereehali-na-novuyu-datu",
@@ -8,6 +8,12 @@
     "superman",
     "batman",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150424150833im_/http://spidermedia.ru/assets/images/import_image/7968.jpg",
+  "modx_id": 7968,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

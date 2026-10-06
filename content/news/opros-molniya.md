@@ -1,12 +1,21 @@
 {
   "title": "Опрос-молния",
-  "date": "2010-12-21T03:20:00+03:00",
+  "date": "2010-12-21T03:20:32+03:00",
   "url": "/news/opros-molniya/",
+  "aliases": [
+    "/node/3129/"
+  ],
   "original_url": "http://spidermedia.ru/news/opros-molniya",
   "archived": "https://web.archive.org/web/20251107001722/http://spidermedia.ru/news/opros-molniya",
   "tags": [
     "marvel",
     "thunderbolts"
+  ],
+  "cover": "https://web.archive.org/web/20251107001722im_/http://spidermedia.ru/assets/images/import_image/3129.jpg",
+  "modx_id": 3129,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Рецензия на фильм \"Пипец\"",
-  "date": "2010-04-08T01:42:00+03:00",
+  "date": "2010-04-08T00:42:34+03:00",
   "url": "/blog/igrok/recenziya-na-film-pipec/",
   "original_url": "https://spidermedia.ru/blog/igrok/recenziya-na-film-pipec",
   "archived": "https://web.archive.org/web/20260309180500/https://spidermedia.ru/blog/igrok/recenziya-na-film-pipec",
@@ -9,6 +9,11 @@
     "mettyu-von",
     "mark-millar",
     "kick-ass"
+  ],
+  "modx_id": 2523,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

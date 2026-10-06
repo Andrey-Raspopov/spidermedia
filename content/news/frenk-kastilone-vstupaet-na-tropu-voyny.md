@@ -1,7 +1,10 @@
 {
   "title": "Френк Кастильоне вступает на тропу войны",
-  "date": "2009-02-24T00:44:00+03:00",
+  "date": "2009-02-24T00:44:13+03:00",
   "url": "/news/frenk-kastilone-vstupaet-na-tropu-voyny/",
+  "aliases": [
+    "/node/487/"
+  ],
   "original_url": "http://spidermedia.ru/news/frenk-kastilone-vstupaet-na-tropu-voyny",
   "archived": "https://web.archive.org/web/20251107001836/http://spidermedia.ru/news/frenk-kastilone-vstupaet-na-tropu-voyny",
   "tags": [
@@ -9,7 +12,14 @@
     "preview",
     "pol-azasita",
     "frenk-tieri",
-    "punisher"
+    "punisher",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20250331130412im_/http://spidermedia.ru/assets/images/punisher_logo.jpg",
+  "modx_id": 487,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
@@ -17,7 +27,7 @@
 
 ![](https://web.archive.org/web/20251107001836im_/http://i.newsarama.com/images/PunisherNoir01-ff.jpg)
 
-Мы уже [писали](../../node/406/) о том, что **Noirverse** ждет пополнение. Летом стартует новая серия из 5-ти номеров - **Punisher Noir**, за авторством **Френка Тиери** *(Frank Tieri)* и **Пола Азаситы** *(Paul Azaceta).*
+Мы уже [писали](../brutalnye-30-ye-cherep-dyavol-kogti/) о том, что **Noirverse** ждет пополнение. Летом стартует новая серия из 5-ти номеров - **Punisher Noir**, за авторством **Френка Тиери** *(Frank Tieri)* и **Пола Азаситы** *(Paul Azaceta).*
 
 Но появились новые подробности о комиксе. Как вам, например, такое - быть съеденным заживо аллигаторами? Все это будет. Но важной деталью является способ подачи - нас ждут и отсылки к различным моментам из долгой жизни **Френка Кастильоне** *(Frank Castiglione)* - прошлое, связаное с войной, обычная жизнь, где есть сын, и периоды, когда он выходит уже на свою личную войну.
 

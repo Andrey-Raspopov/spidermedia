@@ -1,6 +1,6 @@
 {
   "title": "\"Комильфо\" выпустит юбилейную антологию Черепашек-Ниндзя",
-  "date": "2014-07-07T17:01:00+03:00",
+  "date": "2014-07-07T16:01:07+03:00",
   "url": "/news/komilfo-vypustit-yubileynuyu-antologiyu-cherepashek-nindzya/",
   "original_url": "http://spidermedia.ru/news/komilfo-vypustit-yubileynuyu-antologiyu-cherepashek-nindzya",
   "archived": "https://web.archive.org/web/20250618113036/http://spidermedia.ru/news/komilfo-vypustit-yubileynuyu-antologiyu-cherepashek-nindzya",
@@ -8,6 +8,12 @@
     "ninja-turtles",
     "komilfo",
     "zarubezhnye-komiksy-na-russkom"
+  ],
+  "cover": "https://web.archive.org/web/20150327041746im_/http://spidermedia.ru/assets/images/import_image/7859.jpg",
+  "modx_id": 7859,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "Dark X-Men: прошлое, настоящее, будущее",
-  "date": "2009-07-20T13:40:00+03:00",
+  "date": "2009-07-20T12:40:26+03:00",
   "url": "/news/dark-x-men-proshloe-nastoyashchee-budushchee/",
+  "aliases": [
+    "/node/1608/"
+  ],
   "original_url": "http://spidermedia.ru/news/dark-x-men-proshloe-nastoyashchee-budushchee",
   "archived": "https://web.archive.org/web/20260214135040/http://spidermedia.ru/news/dark-x-men-proshloe-nastoyashchee-budushchee",
   "tags": [
@@ -13,7 +16,16 @@
     "dzheyson-aaron",
     "art-0",
     "mystique",
-    "marvel"
+    "marvel",
+    "tyomnye-lyudi-iks",
+    "art",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20260214135040im_/http://spidermedia.ru/assets/images/import_image/1608.png",
+  "modx_id": 1608,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

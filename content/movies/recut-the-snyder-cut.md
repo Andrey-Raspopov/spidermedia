@@ -12,6 +12,12 @@
     "justice-league",
     "mnenie"
   ],
+  "cover": "https://web.archive.org/web/20251117012101im_/http://spidermedia.ru/assets/images/movies/dc/snydercut/001.png",
+  "modx_id": 102371,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

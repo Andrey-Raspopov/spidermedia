@@ -11,6 +11,12 @@
     "geoff-johns",
     "joker"
   ],
+  "cover": "https://web.archive.org/web/20230313080837im_/http://spidermedia.ru/assets/images/reviews/dc/batman/three-jokers/000.jpg",
+  "modx_id": 102302,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

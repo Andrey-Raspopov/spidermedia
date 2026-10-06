@@ -1,12 +1,18 @@
 {
   "title": "Вылечи меня, Доктор!",
-  "date": "2009-09-24T21:39:00+03:00",
+  "date": "2009-09-24T20:39:46+03:00",
   "url": "/blog/alex/vylechi-menya-doktor/",
   "original_url": "https://spidermedia.ru/blog/alex/vylechi-menya-doktor",
   "archived": "https://web.archive.org/web/20260116220944/https://spidermedia.ru/blog/alex/vylechi-menya-doktor",
   "tags": [
     "fanart",
     "doctor-who"
+  ],
+  "cover": "https://web.archive.org/web/20260116220944im_/http://spidermedia.ru/assets/images/import_image/1927.png",
+  "modx_id": 1927,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

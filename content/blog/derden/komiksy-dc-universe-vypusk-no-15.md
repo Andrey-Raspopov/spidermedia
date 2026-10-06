@@ -1,7 +1,10 @@
 {
   "title": "Комиксы DC Universe. Выпуск № 15",
-  "date": "2009-07-24T15:27:00+03:00",
+  "date": "2009-07-24T14:27:35+03:00",
   "url": "/blog/derden/komiksy-dc-universe-vypusk-no-15/",
+  "aliases": [
+    "/node/1640/"
+  ],
   "original_url": "http://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-15",
   "archived": "https://web.archive.org/web/20260215091050/http://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-15",
   "tags": [
@@ -9,6 +12,12 @@
     "michael-turner",
     "dc-comics",
     "dc-universe-comics"
+  ],
+  "cover": "https://web.archive.org/web/20260215091050im_/http://spidermedia.ru/assets/images/import_image/1640.jpg",
+  "modx_id": 1640,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,12 +1,18 @@
 {
   "title": "МЖДЗ: BATMAN IS EVERYWHERE",
-  "date": "2011-05-17T18:45:00+03:00",
+  "date": "2011-05-17T17:45:31+03:00",
   "url": "/blog/redson/mzhdz-batman-everywhere/",
   "original_url": "http://spidermedia.ru/blog/redson/mzhdz-batman-everywhere",
   "archived": "https://web.archive.org/web/20251117001552/http://spidermedia.ru/blog/redson/mzhdz-batman-everywhere",
   "tags": [
     "mnenie",
     "mzhdz"
+  ],
+  "cover": "https://web.archive.org/web/20160716184917im_/http://spidermedia.ru/assets/images/import_image/5804.gif",
+  "modx_id": 5804,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

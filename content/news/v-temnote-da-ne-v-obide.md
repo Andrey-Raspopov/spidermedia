@@ -1,6 +1,6 @@
 {
   "title": "В темноте, да не в обиде",
-  "date": "2012-03-19T10:10:00+03:00",
+  "date": "2012-03-19T09:10:24+03:00",
   "url": "/news/v-temnote-da-ne-v-obide/",
   "original_url": "https://spidermedia.ru/news/v-temnote-da-ne-v-obide",
   "archived": "https://web.archive.org/web/20260312011253/https://spidermedia.ru/news/v-temnote-da-ne-v-obide",
@@ -14,7 +14,14 @@
     "deklan-shelvi",
     "dejl-iglshem",
     "dzheff-parker",
-    "marvel"
+    "marvel",
+    "dark-avengers"
+  ],
+  "cover": "https://web.archive.org/web/20260312011253im_/http://spidermedia.ru/assets/images/import_image/6843.jpg",
+  "modx_id": 6843,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

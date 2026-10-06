@@ -1,6 +1,6 @@
 {
   "title": "Первый взгляд на Ultimate Comics X-Men",
-  "date": "2011-07-14T02:54:00+03:00",
+  "date": "2011-07-14T01:54:12+03:00",
   "url": "/news/pervyy-vzglyad-na-ultimate-comics-x-men/",
   "original_url": "http://spidermedia.ru/news/pervyy-vzglyad-na-ultimate-comics-x-men",
   "archived": "https://web.archive.org/web/20260306000536/http://spidermedia.ru/news/pervyy-vzglyad-na-ultimate-comics-x-men",
@@ -11,7 +11,17 @@
     "x-men",
     "art-0",
     "ultimate",
-    "marvel"
+    "marvel",
+    "prevyu",
+    "lyudi-iks",
+    "art",
+    "ultimate-x-men"
+  ],
+  "cover": "https://web.archive.org/web/20260306000536im_/http://spidermedia.ru/assets/images/import_image/6493.jpg",
+  "modx_id": 6493,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -4,6 +4,9 @@
   "url": "/comics/a/aliens/alien_3/alien3/",
   "original_url": "http://www.spidermedia.ru/comics/a/aliens/alien_3/alien3.html",
   "archived": "https://web.archive.org/web/20050307082024/http://www.spidermedia.ru:80/comics/a/aliens/alien_3/alien3.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

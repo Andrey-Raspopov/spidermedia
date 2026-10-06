@@ -1,12 +1,18 @@
 {
   "title": "Can you dig it?",
-  "date": "2011-04-20T02:28:00+03:00",
+  "date": "2011-04-20T01:28:58+03:00",
   "url": "/blog/plane-v/can-you-dig-it/",
   "original_url": "http://spidermedia.ru/blog/plane-v/can-you-dig-it",
   "archived": "https://web.archive.org/web/20200127141646/http://spidermedia.ru:80/blog/plane-v/can-you-dig-it",
   "tags": [
     "halyava",
     "dzhim-ragg"
+  ],
+  "cover": "https://web.archive.org/web/20200127141646im_/http://spidermedia.ru/assets/images/import_image/5097.jpg",
+  "modx_id": 5097,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

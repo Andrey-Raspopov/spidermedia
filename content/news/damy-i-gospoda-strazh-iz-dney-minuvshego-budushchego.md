@@ -1,13 +1,21 @@
 {
   "title": "Дамы и господа: Страж из \"Дней минувшего будущего\"",
-  "date": "2013-08-01T22:42:00+03:00",
+  "date": "2013-08-01T21:42:12+03:00",
   "url": "/news/damy-i-gospoda-strazh-iz-dney-minuvshego-budushchego/",
   "original_url": "https://spidermedia.ru/news/damy-i-gospoda-strazh-iz-dney-minuvshego-budushchego",
   "archived": "https://web.archive.org/web/20260123072017/https://spidermedia.ru/news/damy-i-gospoda-strazh-iz-dney-minuvshego-budushchego",
   "tags": [
     "x-men",
     "days-of-future-past",
-    "marvel"
+    "marvel",
+    "lyudi-iks",
+    "dni-minuvshego-budushhego"
+  ],
+  "cover": "https://web.archive.org/web/20260123072017im_/http://spidermedia.ru/assets/images/import_image/7395.jpg",
+  "modx_id": 7395,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,13 +1,20 @@
 {
   "title": "Патрик Фьюджит сыграет главную роль в экранизации Outcast",
-  "date": "2014-11-06T08:28:00+03:00",
+  "date": "2014-11-06T08:28:36+03:00",
   "url": "/news/patrik-fyudzhit-sygraet-glavnuyu-rol-v-ekranizacii-outcast/",
   "original_url": "http://spidermedia.ru/news/patrik-fyudzhit-sygraet-glavnuyu-rol-v-ekranizacii-outcast",
   "archived": "https://web.archive.org/web/20250315181914/http://spidermedia.ru/news/patrik-fyudzhit-sygraet-glavnuyu-rol-v-ekranizacii-outcast",
   "tags": [
     "serialy",
     "robert-kirkman",
-    "image-comics"
+    "image-comics",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20250315181914im_/http://spidermedia.ru/assets/images/import_image/8261.jpg",
+  "modx_id": 8261,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

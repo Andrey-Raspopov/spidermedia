@@ -1,7 +1,10 @@
 {
   "title": "Издательство \"Комикс\" - новинки 2010-2011!",
-  "date": "2010-12-06T12:06:00+03:00",
+  "date": "2010-12-06T12:06:03+03:00",
   "url": "/blog/igrok/izdatelstvo-komiks-novinki-2010-2011/",
+  "aliases": [
+    "/node/3094/"
+  ],
   "original_url": "http://spidermedia.ru/blog/igrok/izdatelstvo-komiks-novinki-2010-2011",
   "archived": "https://web.archive.org/web/20241106092243/http://spidermedia.ru/blog/igrok/izdatelstvo-komiks-novinki-2010-2011",
   "tags": [
@@ -9,6 +12,12 @@
     "izdatelstvo-komiks",
     "zarubezhnye-komiksy-na-russkom",
     "spider-man"
+  ],
+  "cover": "https://web.archive.org/web/20241106092243im_/http://spidermedia.ru/assets/images/import_image/3094.jpg",
+  "modx_id": 3094,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

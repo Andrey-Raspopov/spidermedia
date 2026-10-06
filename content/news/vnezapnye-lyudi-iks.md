@@ -1,6 +1,6 @@
 {
   "title": "Внезапные Люди Икс",
-  "date": "2011-08-11T06:15:00+03:00",
+  "date": "2011-08-11T05:15:53+03:00",
   "url": "/news/vnezapnye-lyudi-iks/",
   "original_url": "http://spidermedia.ru/news/vnezapnye-lyudi-iks",
   "archived": "https://web.archive.org/web/20241109083057/http://spidermedia.ru/news/vnezapnye-lyudi-iks",
@@ -9,6 +9,12 @@
     "greg-pak",
     "majk-makkon",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20241109083057im_/http://spidermedia.ru/assets/images/import_image/6556.jpg",
+  "modx_id": 6556,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

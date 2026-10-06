@@ -7,6 +7,12 @@
   "tags": [
     "digest"
   ],
+  "cover": "https://web.archive.org/web/20251013184247im_/http://spidermedia.ru/assets/images/gallery/100110/original_batmanbatsignal.jpg",
+  "modx_id": 100423,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

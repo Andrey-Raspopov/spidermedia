@@ -1,12 +1,18 @@
 {
   "title": "МЖДЗ: ПО ГРОБ ЖИЗНИ",
-  "date": "2012-07-22T19:28:00+03:00",
+  "date": "2012-07-22T18:28:05+03:00",
   "url": "/news/mzhdz-po-grob-zhizni/",
   "original_url": "http://spidermedia.ru/news/mzhdz-po-grob-zhizni",
   "archived": "https://web.archive.org/web/20240720080714/http://spidermedia.ru/news/mzhdz-po-grob-zhizni",
   "tags": [
     "mzhdz",
     "mnenie"
+  ],
+  "cover": "https://web.archive.org/web/20150428170801im_/http://spidermedia.ru/assets/images/import_image/6989.png",
+  "modx_id": 6989,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

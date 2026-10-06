@@ -1,6 +1,6 @@
 {
   "title": "Однажды на Диком Западе",
-  "date": "2011-06-18T12:22:00+03:00",
+  "date": "2011-06-18T11:22:15+03:00",
   "url": "/news/odnazhdy-na-dikom-zapade/",
   "original_url": "http://spidermedia.ru/news/odnazhdy-na-dikom-zapade",
   "archived": "https://web.archive.org/web/20251211031936/http://spidermedia.ru/news/odnazhdy-na-dikom-zapade",
@@ -9,6 +9,12 @@
     "david-zhanfeliche",
     "six-guns",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20251211031936im_/http://spidermedia.ru/assets/images/import_image/6458.jpg",
+  "modx_id": 6458,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -7,6 +7,12 @@
   "tags": [
     "dc-comics"
   ],
+  "cover": "https://web.archive.org/web/20251216124721im_/http://spidermedia.ru/assets/images/newgallery/gallery60/2015-12-17-10-23-32-legendy-zavtrashnego-dnya-personazhnye-postery-spidermedia.ru-google-chrome.jpg",
+  "modx_id": 100772,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

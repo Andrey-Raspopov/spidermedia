@@ -1,6 +1,6 @@
 {
   "title": "Мисс Капитан",
-  "date": "2012-03-18T03:45:00+03:00",
+  "date": "2012-03-18T02:45:34+03:00",
   "url": "/news/miss-kapitan/",
   "original_url": "http://spidermedia.ru/news/miss-kapitan",
   "archived": "https://web.archive.org/web/20251216122710/http://spidermedia.ru/news/miss-kapitan",
@@ -10,6 +10,12 @@
     "dekster-soj",
     "marvel",
     "captain-marvel"
+  ],
+  "cover": "https://web.archive.org/web/20251216122710im_/http://spidermedia.ru/assets/images/import_image/6840.jpg",
+  "modx_id": 6840,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

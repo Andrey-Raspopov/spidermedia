@@ -1,6 +1,6 @@
 {
   "title": "Hellboymedia ЭКСКЛЮЗИВ: The Amazing Screw-On Head на русском от «Комильфо»",
-  "date": "2014-09-23T12:04:00+03:00",
+  "date": "2014-09-23T11:04:03+03:00",
   "url": "/news/hellboymedia-eksklyuziv-amazing-screw-head-na-russkom-ot-komilfo/",
   "original_url": "https://spidermedia.ru/news/hellboymedia-eksklyuziv-amazing-screw-head-na-russkom-ot-komilfo",
   "archived": "https://web.archive.org/web/20260115055556/https://spidermedia.ru/news/hellboymedia-eksklyuziv-amazing-screw-head-na-russkom-ot-komilfo",
@@ -8,6 +8,12 @@
     "hellboymedia",
     "zarubezhnye-komiksy-na-russkom",
     "eksklyuziv"
+  ],
+  "cover": "https://web.archive.org/web/20160611101026im_/http://spidermedia.ru/assets/images/hellboymedia/local/announcement-amazing-screw-on-head/amazing-screw-on-head-by-komilfo-cover.jpg",
+  "modx_id": 8093,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

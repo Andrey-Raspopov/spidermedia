@@ -1,7 +1,10 @@
 {
   "title": "The Column With No Name - Week #9: Za bazar otvetish', zhopa.",
-  "date": "2009-05-24T05:03:00+03:00",
+  "date": "2009-05-24T04:03:32+03:00",
   "url": "/blog/sir-carnage/column-no-name-week-9-za-bazar-otvetish-zhopa/",
+  "aliases": [
+    "/node/1268/"
+  ],
   "original_url": "https://spidermedia.ru/blog/sir-carnage/column-no-name-week-9-za-bazar-otvetish-zhopa",
   "archived": "https://web.archive.org/web/20260309181225/https://spidermedia.ru/blog/sir-carnage/column-no-name-week-9-za-bazar-otvetish-zhopa",
   "tags": [
@@ -16,7 +19,14 @@
     "dark-horse",
     "batman",
     "agenty-atlasa",
-    "the-column-with-no-name"
+    "the-column-with-no-name",
+    "brajan-k.-von"
+  ],
+  "cover": "https://web.archive.org/web/20260309181225im_/http://spidermedia.ru/assets/images/import_image/1268.jpg",
+  "modx_id": 1268,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

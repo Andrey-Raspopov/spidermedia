@@ -1,7 +1,10 @@
 {
   "title": "To the Infinity and beyond!",
-  "date": "2010-02-14T08:58:00+03:00",
+  "date": "2010-02-14T08:58:31+03:00",
   "url": "/news/infinity-and-beyond/",
+  "aliases": [
+    "/node/2370/"
+  ],
   "original_url": "http://spidermedia.ru/news/infinity-and-beyond",
   "archived": "https://web.archive.org/web/20260309190657/http://spidermedia.ru/news/infinity-and-beyond",
   "tags": [
@@ -15,7 +18,14 @@
     "namor",
     "inhumans",
     "annihilus",
-    "nil-edvards"
+    "nil-edvards",
+    "fantasticheskaya-chetverka"
+  ],
+  "cover": "https://web.archive.org/web/20260309190657im_/http://spidermedia.ru/assets/images/import_image/2370.jpg",
+  "modx_id": 2370,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

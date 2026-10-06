@@ -7,6 +7,12 @@
   "tags": [
     "zenescope-entertainment"
   ],
+  "cover": "https://web.archive.org/web/20200508163526im_/http://spidermedia.ru/assets/images/news/zenescope/stl009124-600x871.jpg",
+  "modx_id": 101109,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -8,6 +8,12 @@
     "the-crow",
     "kitchen-sink-press"
   ],
+  "cover": "https://web.archive.org/web/20251108200028im_/http://spidermedia.ru/assets/images/movies/other/the-crow-2017/the-crow.jpg",
+  "modx_id": 100698,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

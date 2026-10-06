@@ -4,6 +4,12 @@
   "url": "/games/glavnye-igr-2016-goda/",
   "original_url": "http://spidermedia.ru/games/glavnye-igr-2016-goda",
   "archived": "https://web.archive.org/web/20200806125629/http://spidermedia.ru/games/glavnye-igr-2016-goda",
+  "cover": "https://web.archive.org/web/20170908070135im_/http://spidermedia.ru/assets/images/games/itogi2016/1483080471907-01.jpg",
+  "modx_id": 101468,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
@@ -168,7 +174,7 @@
 [![](https://web.archive.org/web/20170908093700im_/http://spidermedia.ru/assets/images/games/itogi2016/prizdum.jpg)](./)
 [![](https://web.archive.org/web/20170908060001im_/http://spidermedia.ru/assets/images/games/itogi2016/priztitan2.jpg)](./)
 
-А вот тут у нас начинается самое интересное, и думаю, вы поймете, почему я сказал, что это все еще список главных игр года. Раздавая номинации и обсуждая их с коллегами, на этом моменте мы сломались. В конечном счете FPS года разделилась на две категории. Две очень противоположные по духу игры, объедененные одним мотивом, отточеной механикой шутера от первого лица. Кровавую рецензию на DOOM вы найдете [здесь](https://web.archive.org/web/20210128020953/http://spidermedia.ru/games/recenziya-doom), и не забудьте о [рецензии](../recenziya-battlefield-1-titanfall-2/) на Titanfall2.
+А вот тут у нас начинается самое интересное, и думаю, вы поймете, почему я сказал, что это все еще список главных игр года. Раздавая номинации и обсуждая их с коллегами, на этом моменте мы сломались. В конечном счете FPS года разделилась на две категории. Две очень противоположные по духу игры, объедененные одним мотивом, отточеной механикой шутера от первого лица. Кровавую рецензию на DOOM вы найдете [здесь](../recenziya-doom/), и не забудьте о [рецензии](../recenziya-battlefield-1-titanfall-2/) на Titanfall2.
 
 ![](https://web.archive.org/web/20170908070709im_/http://spidermedia.ru/assets/cache/images/youtube/622x350-RO90omga8D4.3e9.jpg)
 
@@ -190,7 +196,7 @@
 Думаю, вы сами догадались, что случилось. Голоса и мнения разделились, пересеклись, сошлись и разошлись.
 Короче говоря, за этот год вышло два замечательных продолжения двух отличных серий. Одна игра закрыла историю обаятельного охотника за сокровищами, а другая — открыла новые границы таинственного мира. Обе подарили чудесные эмоции и впечатления, обе заслужили звание игры года, впрочем, как и другие проекты выше, но все пришло именно к этим двум играм, и именно они получают заветные таблички.
 
-Рецензия на Uncharted 4 ожидает [тут](https://web.archive.org/web/20260117215350/https://spidermedia.ru/games/recenziya-uncharted-4-a-thiefs-end), рецензия на Dishonored 2 — на своем [месте](https://web.archive.org/web/20220630015153/http://spidermedia.ru/games/recenziya-dishonored-2).
+Рецензия на Uncharted 4 ожидает [тут](../recenziya-uncharted-4-a-thiefs-end/), рецензия на Dishonored 2 — на своем [месте](../recenziya-dishonored-2/).
 
 ![](https://web.archive.org/web/20170908082223im_/http://spidermedia.ru/assets/cache/images/youtube/622x350-hh5HV4iic1Y.3e9.jpg)
 

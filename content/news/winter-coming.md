@@ -1,6 +1,6 @@
 {
   "title": "Winter is coming",
-  "date": "2011-11-02T16:19:00+03:00",
+  "date": "2011-11-02T15:19:39+03:00",
   "url": "/news/winter-coming/",
   "original_url": "http://spidermedia.ru/news/winter-coming",
   "archived": "https://web.archive.org/web/20260214132236/http://spidermedia.ru/news/winter-coming",
@@ -9,6 +9,12 @@
     "butch-gajs",
     "winter-soldier",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20260214132236im_/http://spidermedia.ru/assets/images/import_image/6680.jpg",
+  "modx_id": 6680,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

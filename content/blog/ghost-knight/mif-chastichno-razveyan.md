@@ -1,7 +1,10 @@
 {
   "title": "Миф частично развеян !",
-  "date": "2009-03-04T21:29:00+03:00",
+  "date": "2009-03-04T20:29:38+03:00",
   "url": "/blog/ghost-knight/mif-chastichno-razveyan/",
+  "aliases": [
+    "/node/585/"
+  ],
   "original_url": "http://spidermedia.ru/blog/ghost-knight/mif-chastichno-razveyan",
   "archived": "https://web.archive.org/web/20120607084318/http://spidermedia.ru/blog/ghost-knight/mif-chastichno-razveyan",
   "tags": [
@@ -9,7 +12,14 @@
     "teen-titans",
     "dik-greyson",
     "komiksy",
-    "robin-0"
+    "robin-0",
+    "robin",
+    "dik-grejson"
+  ],
+  "modx_id": 585,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

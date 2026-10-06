@@ -1,7 +1,10 @@
 {
   "title": "ЗФ в 3D",
-  "date": "2010-03-05T12:41:00+03:00",
+  "date": "2010-03-05T11:41:50+03:00",
   "url": "/news/zf-v-3d/",
+  "aliases": [
+    "/node/2419/"
+  ],
   "original_url": "http://spidermedia.ru/news/zf-v-3d",
   "archived": "https://web.archive.org/web/20120718061028/http://spidermedia.ru/news/zf-v-3d",
   "tags": [
@@ -9,6 +12,12 @@
     "green-lantern",
     "zelenyy-fonar",
     "kino"
+  ],
+  "cover": "https://web.archive.org/web/20120718061028im_/http://spidermedia.ru/assets/images/import_image/2419.jpg",
+  "modx_id": 2419,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

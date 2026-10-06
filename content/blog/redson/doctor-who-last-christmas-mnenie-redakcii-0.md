@@ -1,13 +1,20 @@
 {
   "title": "Doctor Who «Last Christmas»: Мнение редакции",
-  "date": "2014-12-29T16:03:00+03:00",
+  "date": "2014-12-29T16:03:27+03:00",
   "url": "/blog/redson/doctor-who-last-christmas-mnenie-redakcii-0/",
   "original_url": "http://spidermedia.ru/blog/redson/doctor-who-last-christmas-mnenie-redakcii-0",
   "archived": "https://web.archive.org/web/20260314082644/http://spidermedia.ru/blog/redson/doctor-who-last-christmas-mnenie-redakcii-0",
   "tags": [
     "serialy",
     "obzor",
-    "doctor-who"
+    "doctor-who",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20150424025438im_/http://spidermedia.ru/assets/images/import_image/8439.jpg",
+  "modx_id": 8439,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

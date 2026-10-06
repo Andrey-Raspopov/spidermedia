@@ -1,12 +1,21 @@
 {
   "title": "PSP Comic - Чтение комиксов на Playstation Portable",
-  "date": "2009-07-10T22:21:00+03:00",
+  "date": "2009-07-10T21:21:45+03:00",
   "url": "/blog/sonyn/psp-comic-chtenie-komiksov-na-playstation-portable/",
+  "aliases": [
+    "/node/1527/"
+  ],
   "original_url": "http://spidermedia.ru/blog/sonyn/psp-comic-chtenie-komiksov-na-playstation-portable",
   "archived": "https://web.archive.org/web/20220825194201/http://spidermedia.ru/blog/sonyn/psp-comic-chtenie-komiksov-na-playstation-portable",
   "tags": [
     "psp-comic",
     "cifrovye-komiksy"
+  ],
+  "cover": "https://web.archive.org/web/20220825194252im_/http://spidermedia.ru/assets/images/import_image/1527.jpg",
+  "modx_id": 1527,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

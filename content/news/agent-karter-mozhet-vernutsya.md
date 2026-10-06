@@ -1,6 +1,6 @@
 {
   "title": "Агент Картер может вернуться",
-  "date": "2013-09-19T15:27:00+03:00",
+  "date": "2013-09-19T14:27:22+03:00",
   "url": "/news/agent-karter-mozhet-vernutsya/",
   "original_url": "https://spidermedia.ru/news/agent-karter-mozhet-vernutsya",
   "archived": "https://web.archive.org/web/20260125112614/https://spidermedia.ru/news/agent-karter-mozhet-vernutsya",
@@ -8,7 +8,15 @@
     "serialy",
     "marvel",
     "agent-karter",
-    "fantastic-four"
+    "fantastic-four",
+    "tv",
+    "fantasticheskaya-chetverka"
+  ],
+  "cover": "https://web.archive.org/web/20260125112614im_/http://spidermedia.ru/assets/images/import_image/7472.jpg",
+  "modx_id": 7472,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

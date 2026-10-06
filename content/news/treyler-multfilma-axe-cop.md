@@ -1,6 +1,6 @@
 {
   "title": "Трейлер мультфильма \"AXE COP\"",
-  "date": "2013-03-31T16:21:00+03:00",
+  "date": "2013-03-31T15:21:40+03:00",
   "url": "/news/treyler-multfilma-axe-cop/",
   "original_url": "http://spidermedia.ru/news/treyler-multfilma-axe-cop",
   "archived": "https://web.archive.org/web/20250709071513/http://spidermedia.ru/news/treyler-multfilma-axe-cop",
@@ -8,6 +8,12 @@
     "trejlery",
     "animaciya",
     "wondercon"
+  ],
+  "cover": "https://web.archive.org/web/20150428180457im_/http://spidermedia.ru/assets/images/import_image/7174.jpg",
+  "modx_id": 7174,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

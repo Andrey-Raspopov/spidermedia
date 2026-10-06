@@ -1,12 +1,18 @@
 {
   "title": "МЖДЗ ДВАДЦАТЬ ПЯТЬ",
-  "date": "2011-11-09T18:02:00+03:00",
+  "date": "2011-11-09T17:02:23+03:00",
   "url": "/news/mzhdz-dvadcat-pyat/",
   "original_url": "https://spidermedia.ru/news/mzhdz-dvadcat-pyat",
   "archived": "https://web.archive.org/web/20251207101004/https://spidermedia.ru/news/mzhdz-dvadcat-pyat",
   "tags": [
     "mnenie",
     "mzhdz"
+  ],
+  "cover": "https://web.archive.org/web/20251207101004im_/http://spidermedia.ru/assets/images/import_image/6692.png",
+  "modx_id": 6692,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

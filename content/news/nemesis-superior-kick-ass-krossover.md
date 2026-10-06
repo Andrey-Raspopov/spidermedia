@@ -1,7 +1,10 @@
 {
   "title": "Nemesis, Superior, Kick-Ass: Кроссовер",
-  "date": "2010-11-24T20:21:00+03:00",
+  "date": "2010-11-24T20:21:37+03:00",
   "url": "/news/nemesis-superior-kick-ass-krossover/",
+  "aliases": [
+    "/node/3081/"
+  ],
   "original_url": "https://spidermedia.ru/news/nemesis-superior-kick-ass-krossover",
   "archived": "https://web.archive.org/web/20260206230148/https://spidermedia.ru/news/nemesis-superior-kick-ass-krossover",
   "tags": [
@@ -9,7 +12,14 @@
     "lejnil-frensis-yu",
     "art-0",
     "marvel",
-    "icon-comics"
+    "icon-comics",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20260206230148im_/http://spidermedia.ru/assets/images/import_image/3081.jpg",
+  "modx_id": 3081,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

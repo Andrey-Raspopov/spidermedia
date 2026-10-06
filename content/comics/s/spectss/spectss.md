@@ -4,6 +4,9 @@
   "url": "/comics/s/spectss/spectss/",
   "original_url": "http://www.spidermedia.ru/comics/s/spectss/spectss.html",
   "archived": "https://web.archive.org/web/20050307064340/http://www.spidermedia.ru:80/comics/s/spectss/spectss.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

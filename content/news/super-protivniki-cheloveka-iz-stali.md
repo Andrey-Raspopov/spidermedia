@@ -1,13 +1,20 @@
 {
   "title": "Супер-противники Человека из стали",
-  "date": "2010-03-17T19:57:00+03:00",
+  "date": "2010-03-17T18:57:30+03:00",
   "url": "/news/super-protivniki-cheloveka-iz-stali/",
   "original_url": "http://spidermedia.ru/news/super-protivniki-cheloveka-iz-stali",
   "archived": "https://web.archive.org/web/20111125225903/http://spidermedia.ru/news/super-protivniki-cheloveka-iz-stali",
   "tags": [
     "dc-comics",
     "komiksy",
-    "supermen"
+    "supermen",
+    "superman"
+  ],
+  "cover": "https://web.archive.org/web/20111125225903im_/http://spidermedia.ru/assets/images/import_image/2453.gif",
+  "modx_id": 2453,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

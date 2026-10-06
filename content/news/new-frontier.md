@@ -1,7 +1,10 @@
 {
   "title": "New Frontier",
-  "date": "2010-02-20T18:41:00+03:00",
+  "date": "2010-02-20T18:41:06+03:00",
   "url": "/news/new-frontier/",
+  "aliases": [
+    "/node/2386/"
+  ],
   "original_url": "http://spidermedia.ru/news/new-frontier",
   "archived": "https://web.archive.org/web/20251014040700/http://spidermedia.ru/news/new-frontier",
   "tags": [
@@ -10,6 +13,12 @@
     "jim-lee",
     "geoff-johns",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20251014040700im_/http://spidermedia.ru/assets/images/import_image/2386.jpg",
+  "modx_id": 2386,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

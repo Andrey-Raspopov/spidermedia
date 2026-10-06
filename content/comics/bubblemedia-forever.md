@@ -7,6 +7,12 @@
   "tags": [
     "bubble"
   ],
+  "cover": "https://web.archive.org/web/20220808155842im_/http://spidermedia.ru/assets/images/news/bubble/artyom.jpg",
+  "modx_id": 100131,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

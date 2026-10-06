@@ -1,7 +1,10 @@
 {
   "title": "Зеленый Фонарь: Первый Полет",
-  "date": "2009-02-28T19:26:00+03:00",
+  "date": "2009-02-28T19:26:09+03:00",
   "url": "/news/zelenyy-fonar-pervyy-polet/",
+  "aliases": [
+    "/node/550/"
+  ],
   "original_url": "https://spidermedia.ru/news/zelenyy-fonar-pervyy-polet",
   "archived": "https://web.archive.org/web/20251012164016/https://spidermedia.ru/news/zelenyy-fonar-pervyy-polet",
   "tags": [
@@ -11,11 +14,17 @@
     "hal-jordan",
     "sinestro"
   ],
+  "cover": "https://web.archive.org/web/20251012164016im_/http://spidermedia.ru/assets/images/import_image/550.jpg",
+  "modx_id": 550,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](https://web.archive.org/web/20251012164016im_/http://i707.photobucket.com/albums/ww79/Alex_spidermedia/th_1235799796.jpg)](http://i707.photobucket.com/albums/ww79/Alex_spidermedia/1235799796.jpg) Ещё совсем недавно мы [писали](../../node/484/) об анонсе нового полнометражного мультфильма, посвященного **Зеленому Фонарю** *(Green Lantern)*, теперь у нас появилось чуть больше информации, а заодно и постер к мультфильму. Итак, полное название проекта - **Зеленый Фонарь: Первый полет** *(Green Lantern: First Flight)*, дата релиза - 28 июля 2009 года. Режиссерский и актерский состав не изменился - **Лорен Монтгомери** *([Lauren Montgomery](http://www.imdb.com/name/nm2304017/))* все также рулит процессом, **Хэл Джордан** *(Hal Jordan)* разговаривает голосом **Кристофера Мелони** *([Christopher Meloni](http://www.imdb.com/name/nm0005221/))*, **Синестро** *(Sinestro)* - **Виктора Гарбера** *([Victor Garber](http://www.imdb.com/name/nm0001255/))*, **Киловог** *(Kilowog)* - **Майкла Мэдсена** ([Michael Madsen](http://www.imdb.com/name/nm0000514/)), а **Будикка** *(Boodikka)* - **Триши Хелфер** ([Tricia Helfer](http://www.imdb.com/name/nm1065454/)). Единственно, огласили сценариста - **Алана Бернетта** *([Alan Burnett](http://www.imdb.com/name/nm0122334/)),* который на мультфильмах съел целого мамонта.
+[![](https://web.archive.org/web/20251012164016im_/http://i707.photobucket.com/albums/ww79/Alex_spidermedia/th_1235799796.jpg)](http://i707.photobucket.com/albums/ww79/Alex_spidermedia/1235799796.jpg) Ещё совсем недавно мы [писали](../zelenyy-svet-zelenomu-fonaryu/) об анонсе нового полнометражного мультфильма, посвященного **Зеленому Фонарю** *(Green Lantern)*, теперь у нас появилось чуть больше информации, а заодно и постер к мультфильму. Итак, полное название проекта - **Зеленый Фонарь: Первый полет** *(Green Lantern: First Flight)*, дата релиза - 28 июля 2009 года. Режиссерский и актерский состав не изменился - **Лорен Монтгомери** *([Lauren Montgomery](http://www.imdb.com/name/nm2304017/))* все также рулит процессом, **Хэл Джордан** *(Hal Jordan)* разговаривает голосом **Кристофера Мелони** *([Christopher Meloni](http://www.imdb.com/name/nm0005221/))*, **Синестро** *(Sinestro)* - **Виктора Гарбера** *([Victor Garber](http://www.imdb.com/name/nm0001255/))*, **Киловог** *(Kilowog)* - **Майкла Мэдсена** ([Michael Madsen](http://www.imdb.com/name/nm0000514/)), а **Будикка** *(Boodikka)* - **Триши Хелфер** ([Tricia Helfer](http://www.imdb.com/name/nm1065454/)). Единственно, огласили сценариста - **Алана Бернетта** *([Alan Burnett](http://www.imdb.com/name/nm0122334/)),* который на мультфильмах съел целого мамонта.
 
 Как и предполагалось, сюжет основан на происхождении Хэла Джордана, который оказывается избран в Корпус **Зеленых Фонарей** *(Green Lantern Corps)*, своеобразную космическую полицию. Его определяют в ученики к инопланетянину Синестро, но вскоре Хэл выясняет, что его наставник главный в таинственном заговоре, угрожающем философии, традициям и иерархии всего Корпуса. Теперь Хэлу необходимо как можно скорее отточить свои навыки и сразиться с изменниками, защищая поддержание порядка во вселенной.
 

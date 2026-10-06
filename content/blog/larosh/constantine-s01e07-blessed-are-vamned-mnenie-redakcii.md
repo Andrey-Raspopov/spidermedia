@@ -1,6 +1,6 @@
 {
   "title": "Constantine s01e07 «Blessed are the Damned»: мнение редакции",
-  "date": "2014-12-08T12:03:00+03:00",
+  "date": "2014-12-08T12:03:54+03:00",
   "url": "/blog/larosh/constantine-s01e07-blessed-are-vamned-mnenie-redakcii/",
   "original_url": "http://spidermedia.ru/blog/larosh/constantine-s01e07-blessed-are-vamned-mnenie-redakcii",
   "archived": "https://web.archive.org/web/20260214132703/http://spidermedia.ru/blog/larosh/constantine-s01e07-blessed-are-vamned-mnenie-redakcii",
@@ -10,7 +10,14 @@
     "dzhon-konstantin",
     "vertigo",
     "dc-comics",
-    "constantine"
+    "constantine",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20150326171918im_/http://spidermedia.ru/assets/images/import_image/8352.jpg",
+  "modx_id": 8352,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

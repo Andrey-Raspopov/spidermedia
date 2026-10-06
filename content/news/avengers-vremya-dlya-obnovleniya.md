@@ -1,13 +1,23 @@
 {
   "title": "The Avengers: Время для обновления",
-  "date": "2010-10-15T03:24:00+03:00",
+  "date": "2010-10-15T02:24:35+03:00",
   "url": "/news/avengers-vremya-dlya-obnovleniya/",
+  "aliases": [
+    "/node/3007/"
+  ],
   "original_url": "http://spidermedia.ru/news/avengers-vremya-dlya-obnovleniya",
   "archived": "https://web.archive.org/web/20251013175502/http://spidermedia.ru/news/avengers-vremya-dlya-obnovleniya",
   "tags": [
     "marvel",
     "iron-man",
-    "avengers"
+    "avengers",
+    "zheleznyy-chelovek"
+  ],
+  "cover": "https://web.archive.org/web/20251013175502im_/http://spidermedia.ru/assets/images/import_image/3007.jpg",
+  "modx_id": 3007,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

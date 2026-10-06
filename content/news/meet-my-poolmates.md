@@ -1,7 +1,10 @@
 {
   "title": "Meet my Poolmates",
-  "date": "2010-02-14T23:12:00+03:00",
+  "date": "2010-02-14T23:12:39+03:00",
   "url": "/news/meet-my-poolmates/",
+  "aliases": [
+    "/node/2372/"
+  ],
   "original_url": "https://spidermedia.ru/news/meet-my-poolmates",
   "archived": "https://web.archive.org/web/20250324060317/https://spidermedia.ru/news/meet-my-poolmates",
   "tags": [
@@ -10,13 +13,19 @@
     "x-men",
     "victor-gischler",
     "marvel",
-    "deadpool-corps"
+    "deadpool-corps",
+    "lyudi-iks"
+  ],
+  "modx_id": 2372,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-Уже [в апреля](../../node/2287/) начинается мини-эвент **Deadpool Corps**, в которой один из самых популярных нынче персонажей издательства **Marvel** - **Дэдпул** *(Deadpool)*, а также ещё несколько его версий из альтернативных вселенных, вместе формируя **Корпус Дэдпула** *(Deadpool Corps)*, будут выполнять миссию по спасению вселенной. Однако перед этим, [в марте](../../node/2185/), выйдет мини-серия **Prelude to Deadpool Corps**, в которой нам подробно представят всех членов Корпуса. По этому случаю автор эвента **Виктор Гишлер** *(Victor Gischler)* с пресущем ему чувством юмора поделился своими мыслями по поводу каждого героя. Под катом кроме краткого описания персонажей также много арта из всех выпусков мини.
+Уже [в апреля](../aprel-10-x-men/) начинается мини-эвент **Deadpool Corps**, в которой один из самых популярных нынче персонажей издательства **Marvel** - **Дэдпул** *(Deadpool)*, а также ещё несколько его версий из альтернативных вселенных, вместе формируя **Корпус Дэдпула** *(Deadpool Corps)*, будут выполнять миссию по спасению вселенной. Однако перед этим, [в марте](../mart-10-x-men/), выйдет мини-серия **Prelude to Deadpool Corps**, в которой нам подробно представят всех членов Корпуса. По этому случаю автор эвента **Виктор Гишлер** *(Victor Gischler)* с пресущем ему чувством юмора поделился своими мыслями по поводу каждого героя. Под катом кроме краткого описания персонажей также много арта из всех выпусков мини.
 [![](https://web.archive.org/web/20250324060317im_/http://img692.imageshack.us/img692/8011/deadpoolcorps1thru5.jpg)](http://www.gtfyweb.com/media/marv/Marvel/Previews/February_2010/Deadpool_Corps__1_thru_5.jpg)
 Соединённые обложки к **Prelude to Deadpool Corps #1-5** от **Дэйва Джонсона** *(Dave Johnson)*
 
@@ -69,7 +78,7 @@
 И если вам этого недостаточно, то есть ещё парочка новостей о вездесущем **Болтливом Наёмнике** *(Merc with a Mouth)*:
 
 - Начиная с мая Дэдпул, как и большинство героев **Вселенной Марвел** *(Marvel Universe)*, присоединится к [**Эре Героев** *(Heroic Age)*](https://web.archive.org/web/20110123112551/http://spidermedia.ru:80/taxonomy/term/2675). Название первого арка является оммажем классической песни и клипа группы **Run DMC** - [**Tricky**](http://www.youtube.com/watch?v=kDK3b77RjGY). По словам автора серии **Дэниеля Вея** *(Daniel Way)*, сюжет арка во многом будет похож на сюжет клипа. Основные события будут происходить в Лас-Вегасе, и на то есть две причины: 1) этот город, как никакой другой, близок по духу к главному герою, и 2) именно там появляется некто из прошлого Дэдпула и решает так же заняться геройской деятельностью, что совсем его не устраивает. Стоит ждать появления "больших имён", однако по настоящему двигать сюжет будет малая группа персонажей. Рисовать этот арк будет **Карло Барбери** *(Carlo Barberi)*.
-- Появились подробности касательно пародийного уан-шота [**Captain America: Who Won't Wield The Shield**](../../node/2296/), непосредственную роль в котором будет играть Дэдпул. Над ним будет работать целая команда авторов, среди которых **Мэтт Фракшен** *(Matt Fraction)*, **Брайан Мигель Бендис** *(Brian Miguel Bendis)*, **Джейсон Аарон** *(Jason Aaron)* и **Стюарт Мур** *(Stuart Moore)*. За художественную часть будут отвечать **Брэндан МакКарти** *(Brendan McCarthy)* и др.
+- Появились подробности касательно пародийного уан-шота [**Captain America: Who Won't Wield The Shield**](../avengers-assemble-aprel-2010-chast-ii/), непосредственную роль в котором будет играть Дэдпул. Над ним будет работать целая команда авторов, среди которых **Мэтт Фракшен** *(Matt Fraction)*, **Брайан Мигель Бендис** *(Brian Miguel Bendis)*, **Джейсон Аарон** *(Jason Aaron)* и **Стюарт Мур** *(Stuart Moore)*. За художественную часть будут отвечать **Брэндан МакКарти** *(Brendan McCarthy)* и др.
 
 [![](https://web.archive.org/web/20250324060317im_/http://img28.imageshack.us/img28/6346/preludedpoolcorps1var.jpg)](http://images.comicbookresources.com/solicits/marvelcomics/201003-advance/preludedpoolcorps1var.jpg) [![](https://web.archive.org/web/20250324060317im_/http://img180.imageshack.us/img180/448/1265919602.jpg)](http://www.comicbookresources.com/assets/images/articles/1265919602.jpg) [![](https://web.archive.org/web/20250324060317im_/http://img6.imageshack.us/img6/3493/1265648132.jpg)](http://www.comicbookresources.com/assets/images/articles/1265648132.jpg)
 Вариантная обложка к **Prelude to Deadpool Corps #1** от **Эда МакГиннесса** *(Ed McGuinness)*,

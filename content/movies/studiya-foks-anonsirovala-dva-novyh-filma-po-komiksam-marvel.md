@@ -14,6 +14,12 @@
     "kejbl",
     "marvel"
   ],
+  "cover": "https://web.archive.org/web/20160501084111im_/http://spidermedia.ru/assets/images/news/movies/deadpool-x-force.jpg",
+  "modx_id": 100960,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

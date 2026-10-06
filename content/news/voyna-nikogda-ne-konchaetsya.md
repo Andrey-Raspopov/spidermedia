@@ -1,6 +1,6 @@
 {
   "title": "Война никогда не кончается",
-  "date": "2013-03-27T04:52:00+03:00",
+  "date": "2013-03-27T03:52:36+03:00",
   "url": "/news/voyna-nikogda-ne-konchaetsya/",
   "original_url": "http://spidermedia.ru/news/voyna-nikogda-ne-konchaetsya",
   "archived": "https://web.archive.org/web/20240518133450/http://spidermedia.ru/news/voyna-nikogda-ne-konchaetsya",
@@ -9,6 +9,12 @@
     "warren-ellis",
     "marvel",
     "majk-makkon"
+  ],
+  "cover": "https://web.archive.org/web/20150424150843im_/http://spidermedia.ru/assets/images/import_image/7168.jpg",
+  "modx_id": 7168,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

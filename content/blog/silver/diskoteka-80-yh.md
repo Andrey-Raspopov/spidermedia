@@ -1,19 +1,29 @@
 {
   "title": "Дискотека 80-ых",
-  "date": "2009-06-07T01:52:00+03:00",
+  "date": "2009-06-07T00:52:10+03:00",
   "url": "/blog/silver/diskoteka-80-yh/",
+  "aliases": [
+    "/node/1372/"
+  ],
   "original_url": "http://spidermedia.ru/blog/silver/diskoteka-80-yh",
   "archived": "https://web.archive.org/web/20120610051258/http://spidermedia.ru/blog/silver/diskoteka-80-yh",
   "tags": [
     "art-0",
     "komiksy",
-    "oblozhki"
+    "oblozhki",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20120610051258im_/http://spidermedia.ru/assets/images/import_image/1372.jpg",
+  "modx_id": 1372,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }
 
-Креативный отдел в Марвел, конечно, работает очень здорово, меня не перестает приятно удивлять. Если недавно была забавная акция на тему [классических произведений искусства](../../../node/720/), то теперь пошли в несколько другую сторону, но не менее оригинальную и стильную:
+Креативный отдел в Марвел, конечно, работает очень здорово, меня не перестает приятно удивлять. Если недавно была забавная акция на тему [классических произведений искусства](../../../news/kulturno-prosveshchaemsya-s-rosomahoy/), то теперь пошли в несколько другую сторону, но не менее оригинальную и стильную:
 
 ![](https://web.archive.org/web/20120610051258im_/http://i048.radikal.ru/0906/9d/44b898a78db6.jpg)
 

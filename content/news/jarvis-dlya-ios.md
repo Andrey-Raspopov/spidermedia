@@ -1,13 +1,20 @@
 {
   "title": "JARVIS для iOS",
-  "date": "2013-09-06T12:26:00+03:00",
+  "date": "2013-09-06T11:26:14+03:00",
   "url": "/news/jarvis-dlya-ios/",
   "original_url": "http://spidermedia.ru/news/jarvis-dlya-ios",
   "archived": "https://web.archive.org/web/20260309184605/http://spidermedia.ru/news/jarvis-dlya-ios",
   "tags": [
     "marvel",
     "igry",
-    "iron-man"
+    "iron-man",
+    "zheleznyy-chelovek"
+  ],
+  "cover": "https://web.archive.org/web/20150326004346im_/http://spidermedia.ru/assets/images/import_image/7453.jpg",
+  "modx_id": 7453,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

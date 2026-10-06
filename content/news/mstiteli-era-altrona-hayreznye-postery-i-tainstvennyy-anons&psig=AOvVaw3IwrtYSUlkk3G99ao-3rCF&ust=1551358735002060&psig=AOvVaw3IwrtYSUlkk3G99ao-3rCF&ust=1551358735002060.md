@@ -9,6 +9,9 @@
     "marvel",
     "iron-man"
   ],
+  "sources": [
+    "archive"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

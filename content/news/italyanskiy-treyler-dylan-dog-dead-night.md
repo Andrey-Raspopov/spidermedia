@@ -1,12 +1,18 @@
 {
   "title": "Итальянский трейлер \"Dylan Dog: Dead of Night\"",
-  "date": "2011-02-22T11:27:00+03:00",
+  "date": "2011-02-22T11:27:37+03:00",
   "url": "/news/italyanskiy-treyler-dylan-dog-dead-night/",
   "original_url": "https://spidermedia.ru/news/italyanskiy-treyler-dylan-dog-dead-night",
   "archived": "https://web.archive.org/web/20250422032609/https://spidermedia.ru/news/italyanskiy-treyler-dylan-dog-dead-night",
   "tags": [
     "trejlery",
     "dylan-dog"
+  ],
+  "cover": "https://web.archive.org/web/20250422032609im_/http://spidermedia.ru/assets/images/import_image/3616.gif",
+  "modx_id": 3616,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

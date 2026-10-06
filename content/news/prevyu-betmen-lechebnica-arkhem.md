@@ -1,6 +1,6 @@
 {
   "title": "Превью \"Бэтмен: Лечебница Аркхэм\"",
-  "date": "2013-06-23T21:49:00+03:00",
+  "date": "2013-06-23T20:49:49+03:00",
   "url": "/news/prevyu-betmen-lechebnica-arkhem/",
   "original_url": "http://spidermedia.ru/news/prevyu-betmen-lechebnica-arkhem",
   "archived": "https://web.archive.org/web/20260307060806/http://spidermedia.ru/news/prevyu-betmen-lechebnica-arkhem",
@@ -11,7 +11,14 @@
     "grant-morrison",
     "art-0",
     "dejv-makkin",
-    "komiks-art"
+    "komiks-art",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20260307060806im_/http://spidermedia.ru/assets/images/import_image/7299.jpg",
+  "modx_id": 7299,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

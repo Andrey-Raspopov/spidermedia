@@ -1,12 +1,21 @@
 {
   "title": "Midnight, Mass - TV",
-  "date": "2009-08-19T01:22:00+03:00",
+  "date": "2009-08-19T00:22:56+03:00",
   "url": "/blog/sonyn/midnight-mass-tv/",
+  "aliases": [
+    "/node/1803/"
+  ],
   "original_url": "http://spidermedia.ru/blog/sonyn/midnight-mass-tv",
   "archived": "https://web.archive.org/web/20120608145249/http://spidermedia.ru/blog/sonyn/midnight-mass-tv",
   "tags": [
     "midnight-mass",
     "vertigo"
+  ],
+  "cover": "https://web.archive.org/web/20120608145249im_/http://spidermedia.ru/assets/images/import_image/1803.jpg",
+  "modx_id": 1803,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

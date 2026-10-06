@@ -1,13 +1,21 @@
 {
   "title": "SDCC'09 - The Super Hero Squad Show",
-  "date": "2009-08-02T15:04:00+03:00",
+  "date": "2009-08-02T14:04:01+03:00",
   "url": "/news/sdcc09-super-hero-squad-show/",
+  "aliases": [
+    "/node/1711/"
+  ],
   "original_url": "http://spidermedia.ru/news/sdcc09-super-hero-squad-show",
   "archived": "https://web.archive.org/web/20251108193959/http://spidermedia.ru/news/sdcc09-super-hero-squad-show",
   "tags": [
     "animaciya",
     "san-diego-comic-con-international",
     "marvel"
+  ],
+  "modx_id": 1711,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
@@ -17,7 +25,7 @@
 
 ![](https://web.archive.org/web/20150428172257im_/http://spidermedia.ru/assets/cache/images/youtube/622x350-YF6lLDz_iZA.3e9.jpg)
 
-- Помимо мультсериала, нас также ждёт игра [**The Super Hero Squad Show**](../../node/1359/).
+- Помимо мультсериала, нас также ждёт игра [**The Super Hero Squad Show**](../poigraem-marvel-super-hero-squad/).
 - Озвучивать персонажей мультсериала будет "звёздная" команда, состоящая из: Марка Хэмилла - голос Красного Черепа (Mark Hamill as the Red Skull), Роберта Инглунда - голос Дормамму (Robert Englund as Dormammu), Триши Хелфер - голос Сиф (Tricia Helfer as Sif), Лены Хиди - голос Чёрной Вдовы (Lena Headey as the Black Widow), Джорджа Такея - голос Галактуса (George Takei as Galactus), Адриана Пасдара - голос Хоукая (Adrian Pasdar as Hawkeye), Тэя Диггза - голос Чёрной Пантеры (Taye Diggs as the Black Panther), Джеймса Марстерса - голос Мистера Фантастика (James Marsters as Mr. Fantastic), "крёстного отца" издательства Marvel, Стэна Ли - голос Мэра (Stan Lee as the Mayor) и многих других.
 
 **UPD.:**

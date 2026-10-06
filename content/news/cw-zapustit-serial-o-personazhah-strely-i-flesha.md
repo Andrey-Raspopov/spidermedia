@@ -1,12 +1,19 @@
 {
   "title": "CW запустит сериал о персонажах «Стрелы» и «Флэша»",
-  "date": "2015-02-27T11:33:00+03:00",
+  "date": "2015-02-27T11:33:52+03:00",
   "url": "/news/cw-zapustit-serial-o-personazhah-strely-i-flesha/",
   "original_url": "http://spidermedia.ru/news/cw-zapustit-serial-o-personazhah-strely-i-flesha",
   "archived": "https://web.archive.org/web/20260313103907/http://spidermedia.ru/news/cw-zapustit-serial-o-personazhah-strely-i-flesha",
   "tags": [
     "serialy",
-    "dc-comics"
+    "dc-comics",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20150326061659im_/http://spidermedia.ru/assets/images/import_image/8656.jpg",
+  "modx_id": 8656,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

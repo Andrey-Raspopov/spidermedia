@@ -1,6 +1,6 @@
 {
   "title": "КомМиссия 2011",
-  "date": "2011-04-26T08:47:00+03:00",
+  "date": "2011-04-26T07:47:04+03:00",
   "url": "/news/kommissiya-2011/",
   "original_url": "https://spidermedia.ru/news/kommissiya-2011",
   "archived": "https://web.archive.org/web/20260211091017/https://spidermedia.ru/news/kommissiya-2011",
@@ -9,6 +9,12 @@
     "russian-comics",
     "marvel",
     "kommissiya"
+  ],
+  "cover": "https://web.archive.org/web/20260211091017im_/http://spidermedia.ru/assets/images/import_image/5259.png",
+  "modx_id": 5259,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

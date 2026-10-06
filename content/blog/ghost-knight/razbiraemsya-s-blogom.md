@@ -1,11 +1,19 @@
 {
   "title": "Разбираемся с блогом.",
-  "date": "2009-02-02T02:22:00+03:00",
+  "date": "2009-02-02T01:22:01+03:00",
   "url": "/blog/ghost-knight/razbiraemsya-s-blogom/",
+  "aliases": [
+    "/node/94/"
+  ],
   "original_url": "http://spidermedia.ru/blog/ghost-knight/razbiraemsya-s-blogom",
   "archived": "https://web.archive.org/web/20120608195425/http://spidermedia.ru/blog/ghost-knight/razbiraemsya-s-blogom",
   "tags": [
     "vstuplenie"
+  ],
+  "modx_id": 94,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

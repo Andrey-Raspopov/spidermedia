@@ -1,13 +1,20 @@
 {
   "title": "Вторая жизнь агента Колсона. UPD.2: Целый тизер-трейлер",
-  "date": "2013-05-12T05:08:00+03:00",
+  "date": "2013-05-12T04:08:48+03:00",
   "url": "/news/vtoraya-zhizn-agenta-kolsona/",
   "original_url": "https://spidermedia.ru/news/vtoraya-zhizn-agenta-kolsona",
   "archived": "https://web.archive.org/web/20260125115444/https://spidermedia.ru/news/vtoraya-zhizn-agenta-kolsona",
   "tags": [
     "serialy",
     "s.h.i.e.l.d",
-    "marvel"
+    "marvel",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20150503083513im_/http://spidermedia.ru/assets/images/import_image/7239.jpg",
+  "modx_id": 7239,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

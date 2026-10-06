@@ -9,6 +9,12 @@
     "deadpool",
     "marvel"
   ],
+  "cover": "https://web.archive.org/web/20160611153150im_/http://spidermedia.ru/assets/images/news/marvel/deadpool-vs-gambit-cover-spidermedia.jpg",
+  "modx_id": 100936,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

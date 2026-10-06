@@ -4,6 +4,9 @@
   "url": "/comics/t/team-up/team-up/",
   "original_url": "http://www.spidermedia.ru/comics/t/team-up/team-up.html",
   "archived": "https://web.archive.org/web/20050307080231/http://www.spidermedia.ru:80/comics/t/team-up/team-up.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

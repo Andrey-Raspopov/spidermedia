@@ -1,7 +1,10 @@
 {
   "title": "Новые DC обложки",
-  "date": "2009-11-13T00:30:00+03:00",
+  "date": "2009-11-13T00:30:32+03:00",
   "url": "/news/novye-dc-oblozhki/",
+  "aliases": [
+    "/node/2088/"
+  ],
   "original_url": "http://spidermedia.ru/news/novye-dc-oblozhki",
   "archived": "https://web.archive.org/web/20260208210434/http://spidermedia.ru/news/novye-dc-oblozhki",
   "tags": [
@@ -17,6 +20,12 @@
     "detective-comics",
     "dc-comics",
     "batman"
+  ],
+  "cover": "https://web.archive.org/web/20150502153724im_/http://spidermedia.ru/assets/images/import_image/2088.jpg",
+  "modx_id": 2088,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

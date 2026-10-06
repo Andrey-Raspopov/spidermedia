@@ -1,6 +1,6 @@
 {
   "title": "Будущее с нами",
-  "date": "2011-08-12T22:42:00+03:00",
+  "date": "2011-08-12T21:42:37+03:00",
   "url": "/news/budushchee-s-nami/",
   "original_url": "http://spidermedia.ru/news/budushchee-s-nami",
   "archived": "https://web.archive.org/web/20120607045625/http://spidermedia.ru/news/budushchee-s-nami",
@@ -12,7 +12,16 @@
     "organizaciya-budushchego",
     "stiv-epting",
     "fantasticheskaya-chetverka",
-    "huan-bobillo"
+    "huan-bobillo",
+    "fantastic-four",
+    "organizaciya-budushhego",
+    "dzhonatan-hikman"
+  ],
+  "cover": "https://web.archive.org/web/20120607045625im_/http://spidermedia.ru/assets/images/import_image/6561.jpg",
+  "modx_id": 6561,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

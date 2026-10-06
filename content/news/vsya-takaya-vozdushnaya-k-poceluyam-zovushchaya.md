@@ -1,6 +1,6 @@
 {
   "title": "Вся такая воздушная, к поцелуям зовущая",
-  "date": "2014-03-11T16:55:00+03:00",
+  "date": "2014-03-11T15:55:07+03:00",
   "url": "/news/vsya-takaya-vozdushnaya-k-poceluyam-zovushchaya/",
   "original_url": "https://spidermedia.ru/news/vsya-takaya-vozdushnaya-k-poceluyam-zovushchaya",
   "archived": "https://web.archive.org/web/20251213202308/https://spidermedia.ru/news/vsya-takaya-vozdushnaya-k-poceluyam-zovushchaya",
@@ -9,6 +9,12 @@
     "figurki",
     "hot-toys",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150327025422im_/http://spidermedia.ru/assets/images/import_image/7679.png",
+  "modx_id": 7679,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -4,6 +4,9 @@
   "url": "/docs/articles/zmeyukina/tkalenko_drew/",
   "original_url": "http://spidermedia.ru/docs/articles/zmeyukina/tkalenko_drew.html",
   "archived": "https://web.archive.org/web/20051202071651/http://spidermedia.ru:80/docs/articles/zmeyukina/tkalenko_drew.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

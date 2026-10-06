@@ -1,6 +1,6 @@
 {
   "title": "В России издадут комикс \"Rai\" издательства Valiant",
-  "date": "2014-08-17T16:30:00+03:00",
+  "date": "2014-08-17T15:30:28+03:00",
   "url": "/news/v-rossii-izdadut-komiks-izdatelstva-valiant-rai/",
   "original_url": "https://spidermedia.ru/news/v-rossii-izdadut-komiks-izdatelstva-valiant-rai",
   "archived": "https://web.archive.org/web/20260125063330/https://spidermedia.ru/news/v-rossii-izdadut-komiks-izdatelstva-valiant-rai",
@@ -8,6 +8,12 @@
     "zarubezhnye-komiksy-na-russkom",
     "viverra-publishing",
     "valiant-entertainment"
+  ],
+  "cover": "https://web.archive.org/web/20150327034323im_/http://spidermedia.ru/assets/images/import_image/7996.jpg",
+  "modx_id": 7996,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

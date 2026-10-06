@@ -1,6 +1,6 @@
 {
   "title": "Два плаката Зеленого Фонаря",
-  "date": "2011-05-12T09:00:00+03:00",
+  "date": "2011-05-12T08:00:59+03:00",
   "url": "/news/dva-plakata-zelenogo-fonarya/",
   "original_url": "https://spidermedia.ru/news/dva-plakata-zelenogo-fonarya",
   "archived": "https://web.archive.org/web/20260125130410/https://spidermedia.ru/news/dva-plakata-zelenogo-fonarya",
@@ -8,6 +8,12 @@
     "postery",
     "dc-comics",
     "green-lantern"
+  ],
+  "cover": "https://web.archive.org/web/20260125130410im_/http://spidermedia.ru/assets/images/import_image/5664.jpg",
+  "modx_id": 5664,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Горячая Силкен Флосс",
-  "date": "2009-02-03T15:36:00+03:00",
+  "date": "2009-02-03T15:36:50+03:00",
   "url": "/news/goryachaya-silken-floss/",
   "original_url": "http://spidermedia.ru/news/goryachaya-silken-floss",
   "archived": "https://web.archive.org/web/20250422023855/http://spidermedia.ru/news/goryachaya-silken-floss",
@@ -9,6 +9,11 @@
     "figurki",
     "spirit",
     "hot-toys"
+  ],
+  "modx_id": 146,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

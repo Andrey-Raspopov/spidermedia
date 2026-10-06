@@ -1,11 +1,19 @@
 {
   "title": "Полноценный трейлер The Losers",
-  "date": "2010-01-29T22:02:00+03:00",
+  "date": "2010-01-29T22:02:05+03:00",
   "url": "/news/polnocennyy-treyler-losers/",
+  "aliases": [
+    "/node/2318/"
+  ],
   "original_url": "http://spidermedia.ru/news/polnocennyy-treyler-losers",
   "archived": "https://web.archive.org/web/20250620081817/http://spidermedia.ru/news/polnocennyy-treyler-losers",
   "tags": [
     "trejlery"
+  ],
+  "modx_id": 2318,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

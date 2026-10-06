@@ -1,6 +1,6 @@
 {
   "title": "Полёт продолжается",
-  "date": "2012-03-17T05:10:00+03:00",
+  "date": "2012-03-17T04:10:46+03:00",
   "url": "/news/polyot-prodolzhaetsya/",
   "original_url": "http://spidermedia.ru/news/polyot-prodolzhaetsya",
   "archived": "https://web.archive.org/web/20251216122817/http://spidermedia.ru/news/polyot-prodolzhaetsya",
@@ -10,6 +10,12 @@
     "mark-waid",
     "raketchik",
     "rocketeer"
+  ],
+  "cover": "https://web.archive.org/web/20150424162729im_/http://spidermedia.ru/assets/images/import_image/6838.jpg",
+  "modx_id": 6838,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

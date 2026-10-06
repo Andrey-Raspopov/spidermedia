@@ -8,6 +8,12 @@
     "best-column-about-comics",
     "mnenie"
   ],
+  "cover": "https://web.archive.org/web/20220906004840im_/http://spidermedia.ru/assets/images/best-column-about-comics/20-kaijumax/kaijumax-cover.jpg",
+  "modx_id": 101587,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

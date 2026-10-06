@@ -8,6 +8,12 @@
     "marvel",
     "spider-man"
   ],
+  "cover": "https://web.archive.org/web/20250806050649im_/http://spidermedia.ru/assets/images/reviews/marvel/spider-man/spider-geddon/1.jpg",
+  "modx_id": 102031,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

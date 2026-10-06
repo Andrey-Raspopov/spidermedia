@@ -1,6 +1,6 @@
 {
   "title": "COMING THIS JULY TO A COMPUTER SCREEN NEAR YOU",
-  "date": "2011-04-04T18:09:00+03:00",
+  "date": "2011-04-04T17:09:18+03:00",
   "url": "/news/coming-july-computer-screen-near-you/",
   "original_url": "http://spidermedia.ru/news/coming-july-computer-screen-near-you",
   "archived": "https://web.archive.org/web/20260211191354/http://spidermedia.ru/news/coming-july-computer-screen-near-you",
@@ -11,6 +11,12 @@
     "steve-rogers",
     "steve-mcniven",
     "captain-america"
+  ],
+  "cover": "https://web.archive.org/web/20260211191354im_/http://spidermedia.ru/assets/images/import_image/4709.jpg",
+  "modx_id": 4709,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

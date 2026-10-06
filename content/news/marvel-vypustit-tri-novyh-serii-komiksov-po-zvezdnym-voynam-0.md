@@ -1,6 +1,6 @@
 {
   "title": "Марвел выпустит три новых серии комиксов по \"Звездным войнам\"",
-  "date": "2014-07-27T12:47:00+03:00",
+  "date": "2014-07-27T11:47:01+03:00",
   "url": "/news/marvel-vypustit-tri-novyh-serii-komiksov-po-zvezdnym-voynam-0/",
   "original_url": "http://spidermedia.ru/news/marvel-vypustit-tri-novyh-serii-komiksov-po-zvezdnym-voynam-0",
   "archived": "https://web.archive.org/web/20251117011148/http://spidermedia.ru/news/marvel-vypustit-tri-novyh-serii-komiksov-po-zvezdnym-voynam-0",
@@ -13,6 +13,12 @@
     "zvezdnye-vojny",
     "dzhon-kessedej",
     "dzheyson-aaron"
+  ],
+  "cover": "https://web.archive.org/web/20150326072401im_/http://spidermedia.ru/assets/images/import_image/7939.jpg",
+  "modx_id": 7939,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

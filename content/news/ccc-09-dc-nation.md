@@ -1,7 +1,10 @@
 {
   "title": "CCC '09 - DC Nation",
-  "date": "2009-08-10T13:44:00+03:00",
+  "date": "2009-08-10T12:44:12+03:00",
   "url": "/news/ccc-09-dc-nation/",
+  "aliases": [
+    "/node/1758/"
+  ],
   "original_url": "http://spidermedia.ru/news/ccc-09-dc-nation",
   "archived": "https://web.archive.org/web/20251207092127/http://spidermedia.ru/news/ccc-09-dc-nation",
   "tags": [
@@ -11,6 +14,12 @@
     "batman",
     "legion-of-super-heroes",
     "tiny-titans"
+  ],
+  "cover": "https://web.archive.org/web/20251207092127im_/http://spidermedia.ru/assets/images/import_image/1758.png",
+  "modx_id": 1758,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

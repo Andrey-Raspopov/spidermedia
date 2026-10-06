@@ -7,6 +7,12 @@
   "tags": [
     "marvel"
   ],
+  "cover": "https://web.archive.org/web/20180315064700im_/http://spidermedia.ru/assets/images/news/marvel/all-new-all-different/gwenpool/gwenpool.jpg",
+  "modx_id": 100530,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

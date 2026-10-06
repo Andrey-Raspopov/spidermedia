@@ -1,6 +1,6 @@
 {
   "title": "Это, по-своему, прекрасно",
-  "date": "2009-05-14T13:31:00+03:00",
+  "date": "2009-05-14T12:31:04+03:00",
   "url": "/blog/bastion7/eto-po-svoemu-prekrasno/",
   "original_url": "https://spidermedia.ru/blog/bastion7/eto-po-svoemu-prekrasno",
   "archived": "https://web.archive.org/web/20251108193852/https://spidermedia.ru/blog/bastion7/eto-po-svoemu-prekrasno",
@@ -9,6 +9,11 @@
     "parodii",
     "hraniteli",
     "animaciya"
+  ],
+  "modx_id": 1180,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

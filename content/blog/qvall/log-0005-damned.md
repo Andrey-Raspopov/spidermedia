@@ -1,12 +1,21 @@
 {
   "title": "Log #0005 - Damned",
-  "date": "2009-02-03T00:17:00+03:00",
+  "date": "2009-02-03T00:17:35+03:00",
   "url": "/blog/qvall/log-0005-damned/",
+  "aliases": [
+    "/node/126/"
+  ],
   "original_url": "http://spidermedia.ru/blog/qvall/log-0005-damned",
   "archived": "https://web.archive.org/web/20190915011412/http://spidermedia.ru:80/blog/qvall/log-0005-damned",
   "tags": [
     "mnenie",
     "image-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150428170644im_/http://spidermedia.ru/assets/images/import_image/126.jpg",
+  "modx_id": 126,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

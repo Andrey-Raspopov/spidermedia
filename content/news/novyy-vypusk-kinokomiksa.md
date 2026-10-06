@@ -1,7 +1,10 @@
 {
   "title": "Новый выпуск КиноКомикса",
-  "date": "2009-10-29T01:45:00+03:00",
+  "date": "2009-10-29T01:45:02+03:00",
   "url": "/news/novyy-vypusk-kinokomiksa/",
+  "aliases": [
+    "/node/2034/"
+  ],
   "original_url": "http://spidermedia.ru/news/novyy-vypusk-kinokomiksa",
   "archived": "https://web.archive.org/web/20241211212124/http://spidermedia.ru/news/novyy-vypusk-kinokomiksa",
   "tags": [
@@ -10,6 +13,12 @@
     "geoff-johns",
     "marv-vulfman",
     "marv-wolfman"
+  ],
+  "cover": "https://web.archive.org/web/20241211212124im_/http://spidermedia.ru/assets/images/import_image/2034.gif",
+  "modx_id": 2034,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

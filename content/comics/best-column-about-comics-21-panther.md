@@ -8,6 +8,12 @@
     "best-column-about-comics",
     "mnenie"
   ],
+  "cover": "https://web.archive.org/web/20180315163150im_/http://spidermedia.ru/assets/images/best-column-about-comics/21-panther/panther-cover.jpg",
+  "modx_id": 101594,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

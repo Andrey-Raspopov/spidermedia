@@ -1,7 +1,10 @@
 {
   "title": "Тайны и символы",
-  "date": "2010-12-18T10:32:00+03:00",
+  "date": "2010-12-18T10:32:47+03:00",
   "url": "/news/tayny-i-simvoly/",
+  "aliases": [
+    "/node/3125/"
+  ],
   "original_url": "http://spidermedia.ru/news/tayny-i-simvoly",
   "archived": "https://web.archive.org/web/20251216174039/http://spidermedia.ru/news/tayny-i-simvoly",
   "tags": [
@@ -13,6 +16,12 @@
     "ruse",
     "marvel",
     "crossgen"
+  ],
+  "cover": "https://web.archive.org/web/20251216174039im_/http://spidermedia.ru/assets/images/import_image/3125.jpg",
+  "modx_id": 3125,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

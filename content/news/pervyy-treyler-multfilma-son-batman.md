@@ -1,6 +1,6 @@
 {
   "title": "Первый трейлер мультфильма Son of Batman",
-  "date": "2014-01-20T23:13:00+03:00",
+  "date": "2014-01-20T22:13:49+03:00",
   "url": "/news/pervyy-treyler-multfilma-son-batman/",
   "original_url": "https://spidermedia.ru/news/pervyy-treyler-multfilma-son-batman",
   "archived": "https://web.archive.org/web/20251206035540/https://spidermedia.ru/news/pervyy-treyler-multfilma-son-batman",
@@ -11,6 +11,12 @@
     "deathstroke",
     "dc-comics",
     "batman"
+  ],
+  "cover": "https://web.archive.org/web/20150326130112im_/http://spidermedia.ru/assets/images/import_image/7608.jpg",
+  "modx_id": 7608,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "Корпуса - Сомкнуть ряды!",
-  "date": "2009-04-23T19:58:00+03:00",
+  "date": "2009-04-23T18:58:15+03:00",
   "url": "/news/korpusa-somknut-ryady/",
+  "aliases": [
+    "/node/1017/"
+  ],
   "original_url": "http://spidermedia.ru/news/korpusa-somknut-ryady",
   "archived": "https://web.archive.org/web/20260125123321/http://spidermedia.ru/news/korpusa-somknut-ryady",
   "tags": [
@@ -11,6 +14,12 @@
     "temnejshaya-noch",
     "dag-manke",
     "doug-mahnke"
+  ],
+  "cover": "https://web.archive.org/web/20260125123321im_/http://spidermedia.ru/assets/images/import_image/1017.jpg",
+  "modx_id": 1017,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

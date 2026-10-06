@@ -1,7 +1,10 @@
 {
   "title": "Канарейка, Джо и Смертельная Ловушка",
-  "date": "2009-04-09T19:36:00+03:00",
+  "date": "2009-04-09T18:36:17+03:00",
   "url": "/news/kanareyka-dzho-i-smertelnaya-lovushka/",
+  "aliases": [
+    "/node/898/"
+  ],
   "original_url": "https://spidermedia.ru/news/kanareyka-dzho-i-smertelnaya-lovushka",
   "archived": "https://web.archive.org/web/20260314081011/https://spidermedia.ru/news/kanareyka-dzho-i-smertelnaya-lovushka",
   "tags": [
@@ -13,6 +16,12 @@
     "vigilante",
     "black-canary",
     "marv-vulfman"
+  ],
+  "cover": "https://web.archive.org/web/20260314081011im_/http://spidermedia.ru/assets/images/import_image/898.jpg",
+  "modx_id": 898,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

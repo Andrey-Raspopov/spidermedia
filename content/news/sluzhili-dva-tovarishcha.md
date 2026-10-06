@@ -1,6 +1,6 @@
 {
   "title": "Служили два товарища",
-  "date": "2011-04-05T17:30:00+03:00",
+  "date": "2011-04-05T16:30:08+03:00",
   "url": "/news/sluzhili-dva-tovarishcha/",
   "original_url": "http://spidermedia.ru/news/sluzhili-dva-tovarishcha",
   "archived": "https://web.archive.org/web/20260214132608/http://spidermedia.ru/news/sluzhili-dva-tovarishcha",
@@ -11,6 +11,12 @@
     "chris-samnee",
     "marvel",
     "winter-soldier"
+  ],
+  "cover": "https://web.archive.org/web/20260214132608im_/http://spidermedia.ru/assets/images/import_image/4734.jpg",
+  "modx_id": 4734,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

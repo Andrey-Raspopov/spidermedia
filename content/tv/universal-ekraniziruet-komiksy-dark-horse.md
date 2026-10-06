@@ -8,6 +8,12 @@
     "dark-horse",
     "umbrella-academy"
   ],
+  "cover": "https://web.archive.org/web/20250620075729im_/http://spidermedia.ru/assets/images/news/tv/dark-horse/dark-horse-tv-universal.jpg",
+  "modx_id": 100326,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,6 +1,6 @@
 {
   "title": "Всех излечит-исцелит добрый доктор Лесковар",
-  "date": "2012-03-02T06:27:00+03:00",
+  "date": "2012-03-02T05:27:43+03:00",
   "url": "/news/vseh-izlechit-iscelit/",
   "original_url": "http://spidermedia.ru/news/vseh-izlechit-iscelit",
   "archived": "https://web.archive.org/web/20250717191934/http://spidermedia.ru/news/vseh-izlechit-iscelit",
@@ -10,6 +10,12 @@
     "ben-stenbeck",
     "lord-baltimore",
     "dark-horse"
+  ],
+  "cover": "https://web.archive.org/web/20250717191934im_/http://spidermedia.ru/assets/images/import_image/6811.jpg",
+  "modx_id": 6811,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

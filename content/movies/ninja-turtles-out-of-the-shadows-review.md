@@ -7,6 +7,12 @@
   "tags": [
     "ninja-turtles"
   ],
+  "cover": "https://web.archive.org/web/20170911060901im_/http://spidermedia.ru/assets/images/movies/other/teenage-mutant-ninja-turtles-2-2016/teenage-mutant-ninja-turtles-out-of-the-shadows-trailer-2-paramount-pictures-uk.jpeg",
+  "modx_id": 101179,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

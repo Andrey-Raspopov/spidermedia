@@ -1,6 +1,6 @@
 {
   "title": "Восьминогое кунг-фу",
-  "date": "2011-05-14T08:56:00+03:00",
+  "date": "2011-05-14T07:56:09+03:00",
   "url": "/news/vosminogoe-kung-fu/",
   "original_url": "http://spidermedia.ru/news/vosminogoe-kung-fu",
   "archived": "https://web.archive.org/web/20260214133944/http://spidermedia.ru/news/vosminogoe-kung-fu",
@@ -11,6 +11,12 @@
     "iron-fist",
     "spider-island",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20260214133944im_/http://spidermedia.ru/assets/images/import_image/5721.jpg",
+  "modx_id": 5721,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

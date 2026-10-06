@@ -1,6 +1,6 @@
 {
   "title": "Открыт предзаказ на \"Персеполис\"",
-  "date": "2013-01-12T17:19:00+03:00",
+  "date": "2013-01-12T16:19:22+03:00",
   "url": "/news/otkryt-predzakaz-na-persepolis/",
   "original_url": "https://spidermedia.ru/news/otkryt-predzakaz-na-persepolis",
   "archived": "https://web.archive.org/web/20250316163759/https://spidermedia.ru/news/otkryt-predzakaz-na-persepolis",
@@ -9,6 +9,12 @@
     "marzhan-satrapi",
     "zarubezhnye-komiksy-na-russkom",
     "boomkniga"
+  ],
+  "cover": "https://web.archive.org/web/20150424211340im_/http://spidermedia.ru/assets/images/import_image/7117.jpg",
+  "modx_id": 7117,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

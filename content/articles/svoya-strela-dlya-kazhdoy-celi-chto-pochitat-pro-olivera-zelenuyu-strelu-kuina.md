@@ -1,12 +1,18 @@
 {
   "title": "Своя стрела для каждой цели: что почитать про Оливера «Зеленую Стрелу» Куина",
-  "date": "2014-10-09T12:22:00+03:00",
+  "date": "2014-10-09T11:22:40+03:00",
   "url": "/articles/svoya-strela-dlya-kazhdoy-celi-chto-pochitat-pro-olivera-zelenuyu-strelu-kuina/",
   "original_url": "http://spidermedia.ru/articles/svoya-strela-dlya-kazhdoy-celi-chto-pochitat-pro-olivera-zelenuyu-strelu-kuina",
   "archived": "https://web.archive.org/web/20251208070325/http://spidermedia.ru/articles/svoya-strela-dlya-kazhdoy-celi-chto-pochitat-pro-olivera-zelenuyu-strelu-kuina",
   "tags": [
     "green-arrow",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150326095147im_/http://spidermedia.ru/assets/images/import_image/8154.jpg",
+  "modx_id": 8154,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

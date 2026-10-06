@@ -1,6 +1,6 @@
 {
   "title": "\"Я охочусь на героев. Пока что ни одного не встречал.\"",
-  "date": "2011-03-04T20:43:00+03:00",
+  "date": "2011-03-04T19:43:13+03:00",
   "url": "/news/ya-ohochus-na-geroev-poka-chto-ni-odnogo-ne-vstrechal/",
   "original_url": "http://spidermedia.ru/news/ya-ohochus-na-geroev-poka-chto-ni-odnogo-ne-vstrechal",
   "archived": "https://web.archive.org/web/20121119002510/http://spidermedia.ru/news/ya-ohochus-na-geroev-poka-chto-ni-odnogo-ne-vstrechal",
@@ -10,6 +10,12 @@
     "kevin-onil",
     "komiksy",
     "pet-mills"
+  ],
+  "cover": "https://web.archive.org/web/20121119002510im_/http://spidermedia.ru/assets/images/import_image/3887.jpg",
+  "modx_id": 3887,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "Конец Ultimate Universe",
-  "date": "2009-02-09T16:11:00+03:00",
+  "date": "2009-02-09T16:11:35+03:00",
   "url": "/news/konec-ultimate-universe/",
+  "aliases": [
+    "/node/286/"
+  ],
   "original_url": "http://spidermedia.ru/news/konec-ultimate-universe",
   "archived": "https://web.archive.org/web/20250419050301/http://spidermedia.ru/news/konec-ultimate-universe",
   "tags": [
@@ -12,6 +15,12 @@
     "spider-man",
     "she-hulk",
     "x-men"
+  ],
+  "cover": "https://web.archive.org/web/20250419050301im_/http://spidermedia.ru/assets/images/import_image/286.jpg",
+  "modx_id": 286,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
@@ -31,12 +40,12 @@
 
 - Глобальные изменения коснутся **Людей Икс** *(X-men)*. И дело тут не только в том, что **Чарльз Ксавье** *(**Charles Xavie**)* мертв, а **Магнето** *(Magneto)* разрушил мир. Нет, дело в том, что вместе с ним погибнет и его дело, его идея...
 
-- Серии **[Ultimate Spider-man](../../node/260/)**, **Ultimate X-men** и **Ultimate Fantastic Four** ожидают завершающие выпуски **Requiem**, рассказывающие о событиях после ULTIMATUM'а.
+- Серии **[Ultimate Spider-man](../konec-cheloveka-pauka/)**, **Ultimate X-men** и **Ultimate Fantastic Four** ожидают завершающие выпуски **Requiem**, рассказывающие о событиях после ULTIMATUM'а.
 
 - Известно, что после перезагрузки будет четыре полноценных онгоинг-тайтла. Пока известно три из них: **Ultimate Comics: Ultimate Spider-Man**, **Ultimate Avengers** и **New Ultimates**.
 
 - Новая линейка **Ultimate Comics** будет не только более сжатой, но и более взаимосвязанной - события одной серии будут иметь отражения в других, об этом обещают позаботиться редакторы. Лоеб же божится писать New Ultimates максимально приближенно к Ultimate Avengers, чтобы Марк Миллар мог без труда брать героев из NU в состав очередного арка UA.
 
-На этом пожалуй все. Но чтобы новость не была пресной, представляем вам немного потрясающего арта - страничку из **ULTIMATUM #3**, доселе невиданную обложку 6 номера из долгостроя **[Ultimate Hulk vs Wolverine](../../node/196/)** и **Женщину Халк** *(She Hulk)* из того же долгостроя:
+На этом пожалуй все. Но чтобы новость не была пресной, представляем вам немного потрясающего арта - страничку из **ULTIMATUM #3**, доселе невиданную обложку 6 номера из долгостроя **[Ultimate Hulk vs Wolverine](../ultimate-dolgostroy-chast-2/)** и **Женщину Халк** *(She Hulk)* из того же долгостроя:
 
 [![](https://web.archive.org/web/20250419050301im_/http://images.comicbookresources.com/cons/nycc2009/Cup_o_%20Joe/sm/ULTMTM003008_colSF.jpg)](http://images.comicbookresources.com/cons/nycc2009/Cup_o_%20Joe/ULTMTM003008_colSF.jpg) [![](https://web.archive.org/web/20250419050301im_/http://images.comicbookresources.com/cons/nycc2009/Cup_o_%20Joe/sm/ULTWOLVH006_SOLICIT_lo.jpg)](http://images.comicbookresources.com/cons/nycc2009/Cup_o_%20Joe/ULTWOLVH006_SOLICIT_lo.jpg) [![](https://web.archive.org/web/20250419050301im_/http://images.comicbookresources.com/cons/nycc2009/Cup_o_%20Joe/sm/ULTWOLVH003022_color.jpg)](http://images.comicbookresources.com/cons/nycc2009/Cup_o_%20Joe/ULTWOLVH003022_color.jpg)

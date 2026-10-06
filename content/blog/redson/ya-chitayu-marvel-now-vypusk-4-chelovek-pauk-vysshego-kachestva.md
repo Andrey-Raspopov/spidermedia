@@ -1,6 +1,6 @@
 {
   "title": "Я читаю Marvel NOW! Выпуск 4: Человек-Паук высшего качества",
-  "date": "2013-06-19T17:10:00+03:00",
+  "date": "2013-06-19T16:10:38+03:00",
   "url": "/blog/redson/ya-chitayu-marvel-now-vypusk-4-chelovek-pauk-vysshego-kachestva/",
   "original_url": "https://spidermedia.ru/blog/redson/ya-chitayu-marvel-now-vypusk-4-chelovek-pauk-vysshego-kachestva",
   "archived": "https://web.archive.org/web/20251110224254/https://spidermedia.ru/blog/redson/ya-chitayu-marvel-now-vypusk-4-chelovek-pauk-vysshego-kachestva",
@@ -9,6 +9,12 @@
     "marvel",
     "spider-man",
     "den-slott"
+  ],
+  "cover": "https://web.archive.org/web/20150424105934im_/http://spidermedia.ru/assets/images/import_image/7287.jpg",
+  "modx_id": 7287,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

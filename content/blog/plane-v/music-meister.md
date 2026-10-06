@@ -1,7 +1,10 @@
 {
   "title": "The Music Meister",
-  "date": "2009-09-23T11:28:00+03:00",
+  "date": "2009-09-23T10:28:21+03:00",
   "url": "/blog/plane-v/music-meister/",
+  "aliases": [
+    "/node/1924/"
+  ],
   "original_url": "https://spidermedia.ru/blog/plane-v/music-meister",
   "archived": "https://web.archive.org/web/20260125061607/https://spidermedia.ru/blog/plane-v/music-meister",
   "tags": [
@@ -10,6 +13,11 @@
     "animaciya",
     "outrageous",
     "batman"
+  ],
+  "modx_id": 1924,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

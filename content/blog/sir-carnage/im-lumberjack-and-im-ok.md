@@ -1,11 +1,20 @@
 {
   "title": "I'm a lumberjack and I'm OK.",
-  "date": "2009-01-30T15:12:00+03:00",
+  "date": "2009-01-30T14:12:45+03:00",
   "url": "/blog/sir-carnage/im-lumberjack-and-im-ok/",
+  "aliases": [
+    "/node/23/"
+  ],
   "original_url": "http://spidermedia.ru/blog/sir-carnage/im-lumberjack-and-im-ok",
   "archived": "https://web.archive.org/web/20120608195621/http://spidermedia.ru/blog/sir-carnage/im-lumberjack-and-im-ok",
   "tags": [
     "vstuplenie"
+  ],
+  "cover": "https://web.archive.org/web/20120608195621im_/http://spidermedia.ru/assets/images/import_image/23.jpg",
+  "modx_id": 23,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

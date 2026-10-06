@@ -1,6 +1,6 @@
 {
   "title": "Dream Another Dream или Год Винзора МакКея",
-  "date": "2014-06-25T21:36:00+03:00",
+  "date": "2014-06-25T20:36:40+03:00",
   "url": "/news/dream-another-dream-ili-god-vinzora-makkeya/",
   "original_url": "https://spidermedia.ru/news/dream-another-dream-ili-god-vinzora-makkeya",
   "archived": "https://web.archive.org/web/20260312013928/https://spidermedia.ru/news/dream-another-dream-ili-god-vinzora-makkeya",
@@ -11,6 +11,12 @@
     "little-nemo",
     "kickstart-comics",
     "idw-publishing"
+  ],
+  "cover": "https://web.archive.org/web/20260312013928im_/http://spidermedia.ru/assets/images/import_image/7841.jpg",
+  "modx_id": 7841,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

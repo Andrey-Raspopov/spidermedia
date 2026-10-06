@@ -1,6 +1,6 @@
 {
   "title": "Алеш Кот и Марко Руди возродят онгоинг Зимнего Солдата",
-  "date": "2014-07-11T16:12:00+03:00",
+  "date": "2014-07-11T15:12:15+03:00",
   "url": "/news/alesh-kot-i-marko-rudi-vozrodyat-ongoing-zimnego-soldata/",
   "original_url": "http://spidermedia.ru/news/alesh-kot-i-marko-rudi-vozrodyat-ongoing-zimnego-soldata",
   "archived": "https://web.archive.org/web/20190917002605/http://spidermedia.ru:80/news/alesh-kot-i-marko-rudi-vozrodyat-ongoing-zimnego-soldata",
@@ -9,6 +9,12 @@
     "marvel",
     "winter-soldier",
     "ales-kot"
+  ],
+  "cover": "https://web.archive.org/web/20150326095522im_/http://spidermedia.ru/assets/images/import_image/7880.jpg",
+  "modx_id": 7880,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

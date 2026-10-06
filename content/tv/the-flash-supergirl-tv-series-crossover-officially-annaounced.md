@@ -9,6 +9,12 @@
     "the-flash",
     "dc-comics"
   ],
+  "cover": "https://web.archive.org/web/20160611144042im_/http://spidermedia.ru/assets/images/tv/dc/flash-supergirl-crossover.jpg",
+  "modx_id": 100877,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

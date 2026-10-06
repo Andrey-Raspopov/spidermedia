@@ -1,7 +1,10 @@
 {
   "title": "Harvey Awards '10",
-  "date": "2010-07-17T22:12:00+03:00",
+  "date": "2010-07-17T21:12:39+03:00",
   "url": "/news/harvey-awards-10/",
+  "aliases": [
+    "/node/2745/"
+  ],
   "original_url": "http://spidermedia.ru/news/harvey-awards-10",
   "archived": "https://web.archive.org/web/20150428045738/http://spidermedia.ru/news/harvey-awards-10",
   "tags": [
@@ -9,12 +12,18 @@
     "industriya",
     "harvey-awards"
   ],
+  "cover": "https://web.archive.org/web/20150428170722im_/http://spidermedia.ru/assets/images/import_image/2745.jpg",
+  "modx_id": 2745,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
 ![Harvey 2010](https://web.archive.org/web/20150428045738im_/http://img.photobucket.com/albums/v497/spidermedia/plane_news/harvey.jpg)
-На этой неделе были объявлены номинанты на премию **Harvey** (названную в честь **Харви Курцмана**, легендарного редактора журнала MAD), равную по значимости Eisner Awards. Лауреаты последней будут объявлены совсем скоро - 23 июля, список номинантов [мы уже выкладывали](../../node/2532/). Что же касается соискателей "Харви", то с ними можно ознакомиться, проследовав под кат. Церемония вручения состоится **28 августа** на Комик-Коне в Балтиморе.
+На этой неделе были объявлены номинанты на премию **Harvey** (названную в честь **Харви Курцмана**, легендарного редактора журнала MAD), равную по значимости Eisner Awards. Лауреаты последней будут объявлены совсем скоро - 23 июля, список номинантов [мы уже выкладывали](../eisner-awards-10/). Что же касается соискателей "Харви", то с ними можно ознакомиться, проследовав под кат. Церемония вручения состоится **28 августа** на Комик-Коне в Балтиморе.
 **Лучший Сценарист**[![Wimpy Kid](https://web.archive.org/web/20150428045738im_/http://img.photobucket.com/albums/v497/spidermedia/plane_news/laststraw_400thth.jpg)](http://img.photobucket.com/albums/v497/spidermedia/plane_news/laststraw_400.jpg)
 
 - **Джейсон Аарон** (*Jason Aaron*) - “SCALPED" (Vertigo/DC Comics)

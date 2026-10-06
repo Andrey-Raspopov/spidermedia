@@ -1,13 +1,20 @@
 {
   "title": "Вся правда о положении дел в России",
-  "date": "2011-03-02T16:49:00+03:00",
+  "date": "2011-03-02T15:49:06+03:00",
   "url": "/blog/redson/vsya-pravda-o-polozhenii-del-v-rossii/",
   "original_url": "http://spidermedia.ru/blog/redson/vsya-pravda-o-polozhenii-del-v-rossii",
   "archived": "https://web.archive.org/web/20120608224840/http://spidermedia.ru/blog/redson/vsya-pravda-o-polozhenii-del-v-rossii",
   "tags": [
     "dizayn",
     "kapitan-amerika",
-    "komiksy"
+    "komiksy",
+    "captain-america"
+  ],
+  "cover": "https://web.archive.org/web/20120608224840im_/http://spidermedia.ru/assets/images/import_image/3831.jpg",
+  "modx_id": 3831,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

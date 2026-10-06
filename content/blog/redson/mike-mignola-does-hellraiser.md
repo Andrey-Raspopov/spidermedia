@@ -1,6 +1,6 @@
 {
   "title": "Mike Mignola does Hellraiser",
-  "date": "2010-09-15T19:40:00+03:00",
+  "date": "2010-09-15T18:40:48+03:00",
   "url": "/blog/redson/mike-mignola-does-hellraiser/",
   "original_url": "http://spidermedia.ru/blog/redson/mike-mignola-does-hellraiser",
   "archived": "https://web.archive.org/web/20250119233653/http://spidermedia.ru/blog/redson/mike-mignola-does-hellraiser",
@@ -8,6 +8,12 @@
     "majk-minola",
     "mike-mignola",
     "hellraiser"
+  ],
+  "cover": "https://web.archive.org/web/20250119233653im_/http://spidermedia.ru/assets/images/import_image/2915.jpg",
+  "modx_id": 2915,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

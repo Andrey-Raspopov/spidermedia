@@ -9,6 +9,12 @@
     "recenziya",
     "zarubezhnye-komiksy-na-russkom"
   ],
+  "cover": "https://web.archive.org/web/20150315175206im_/http://spidermedia.ru/assets/images/reviews/boomkniga/maria_i_ya.jpg",
+  "modx_id": 100064,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

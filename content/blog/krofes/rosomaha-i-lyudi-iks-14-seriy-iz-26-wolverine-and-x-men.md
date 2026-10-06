@@ -1,14 +1,24 @@
 {
   "title": "Росомаха и Люди Икс (14 серий из 26) / Wolverine and the X-Men",
-  "date": "2009-03-14T19:03:00+03:00",
+  "date": "2009-03-14T19:03:31+03:00",
   "url": "/blog/krofes/rosomaha-i-lyudi-iks-14-seriy-iz-26-wolverine-and-x-men/",
+  "aliases": [
+    "/node/677/"
+  ],
   "original_url": "http://spidermedia.ru/blog/krofes/rosomaha-i-lyudi-iks-14-seriy-iz-26-wolverine-and-x-men",
   "archived": "https://web.archive.org/web/20220819224555/http://spidermedia.ru/blog/krofes/rosomaha-i-lyudi-iks-14-seriy-iz-26-wolverine-and-x-men",
   "tags": [
     "x-men",
     "marvel",
     "animaciya",
-    "wolverine"
+    "wolverine",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20220819224555im_/http://spidermedia.ru/assets/images/import_image/677.jpg",
+  "modx_id": 677,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "Messiah War: Второй взгляд",
-  "date": "2009-03-30T16:18:00+03:00",
+  "date": "2009-03-30T15:18:39+03:00",
   "url": "/news/messiah-war-vtoroy-vzglyad/",
+  "aliases": [
+    "/node/806/"
+  ],
   "original_url": "http://spidermedia.ru/news/messiah-war-vtoroy-vzglyad",
   "archived": "https://web.archive.org/web/20260215072611/http://spidermedia.ru/news/messiah-war-vtoroy-vzglyad",
   "tags": [
@@ -15,7 +18,13 @@
     "kejbl",
     "stryfe",
     "nadezhda",
-    "apokalipsis"
+    "apokalipsis",
+    "lyudi-iks"
+  ],
+  "modx_id": 806,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

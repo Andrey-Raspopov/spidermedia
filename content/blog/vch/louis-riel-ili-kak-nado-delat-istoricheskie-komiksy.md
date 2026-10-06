@@ -1,11 +1,17 @@
 {
   "title": "Louis Riel или Как надо делать исторические комиксы",
-  "date": "2013-04-30T12:35:00+03:00",
+  "date": "2013-04-30T11:35:36+03:00",
   "url": "/blog/vch/louis-riel-ili-kak-nado-delat-istoricheskie-komiksy/",
   "original_url": "http://spidermedia.ru/blog/vch/louis-riel-ili-kak-nado-delat-istoricheskie-komiksy",
   "archived": "https://web.archive.org/web/20130619021605/http://spidermedia.ru/blog/vch/louis-riel-ili-kak-nado-delat-istoricheskie-komiksy",
   "tags": [
     "komiksy"
+  ],
+  "cover": "https://web.archive.org/web/20130619021605im_/http://spidermedia.ru/assets/images/import_image/7232.jpg",
+  "modx_id": 7232,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

@@ -4,6 +4,12 @@
   "url": "/games/nextgen-consoles/",
   "original_url": "http://spidermedia.ru/games/nextgen-consoles",
   "archived": "https://web.archive.org/web/20250216225245/http://spidermedia.ru/games/nextgen-consoles",
+  "cover": "https://web.archive.org/web/20250216225245im_/http://spidermedia.ru/assets/images/games/nextgen/00000.jpg",
+  "modx_id": 102279,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,9 +1,18 @@
 {
   "title": "All-star, all-new!",
-  "date": "2009-01-29T14:44:00+03:00",
+  "date": "2009-01-29T14:44:18+03:00",
   "url": "/news/all-star-all-new/",
+  "aliases": [
+    "/node/3/"
+  ],
   "original_url": "http://spidermedia.ru/news/all-star-all-new",
   "archived": "https://web.archive.org/web/20241113212354/http://spidermedia.ru/news/all-star-all-new",
+  "cover": "https://web.archive.org/web/20180125230712im_/http://spidermedia.ru/assets/images/import_image/3.jpg",
+  "modx_id": 3,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

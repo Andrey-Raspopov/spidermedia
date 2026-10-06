@@ -1,13 +1,22 @@
 {
   "title": "Комиксы DC Universe. Выпуск № 21b",
-  "date": "2009-10-03T21:29:00+03:00",
+  "date": "2009-10-03T20:29:49+03:00",
   "url": "/blog/derden/komiksy-dc-universe-vypusk-no-21b/",
+  "aliases": [
+    "/node/1963/"
+  ],
   "original_url": "http://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-21b",
   "archived": "https://web.archive.org/web/20260211184702/http://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-21b",
   "tags": [
     "dc-comics",
     "batman",
     "dc-universe-comics"
+  ],
+  "cover": "https://web.archive.org/web/20260211184702im_/http://spidermedia.ru/assets/images/import_image/1963.jpg",
+  "modx_id": 1963,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

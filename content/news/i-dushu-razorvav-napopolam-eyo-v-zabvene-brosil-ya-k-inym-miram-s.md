@@ -1,12 +1,18 @@
 {
   "title": "И душу разорвав напополам, её в забвенье бросил я, к иным мирам (с)",
-  "date": "2014-09-19T18:22:00+03:00",
+  "date": "2014-09-19T17:22:00+03:00",
   "url": "/news/i-dushu-razorvav-napopolam-eyo-v-zabvene-brosil-ya-k-inym-miram-s/",
   "original_url": "http://spidermedia.ru/news/i-dushu-razorvav-napopolam-eyo-v-zabvene-brosil-ya-k-inym-miram-s",
   "archived": "https://web.archive.org/web/20251006132144/http://spidermedia.ru/news/i-dushu-razorvav-napopolam-eyo-v-zabvene-brosil-ya-k-inym-miram-s",
   "tags": [
     "kinokonkurs",
     "enki-bilal"
+  ],
+  "cover": "https://web.archive.org/web/20150502195310im_/http://spidermedia.ru/assets/images/import_image/8079.jpg",
+  "modx_id": 8079,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

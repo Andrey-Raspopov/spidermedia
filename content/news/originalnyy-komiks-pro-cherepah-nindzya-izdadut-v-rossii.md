@@ -1,6 +1,6 @@
 {
   "title": "Оригинальный комикс про Черепах-Ниндзя издадут в России",
-  "date": "2014-05-29T10:47:00+03:00",
+  "date": "2014-05-29T09:47:53+03:00",
   "url": "/news/originalnyy-komiks-pro-cherepah-nindzya-izdadut-v-rossii/",
   "original_url": "http://spidermedia.ru/news/originalnyy-komiks-pro-cherepah-nindzya-izdadut-v-rossii",
   "archived": "https://web.archive.org/web/20220815202552/http://spidermedia.ru/news/originalnyy-komiks-pro-cherepah-nindzya-izdadut-v-rossii",
@@ -8,6 +8,12 @@
     "ninja-turtles",
     "zarubezhnye-komiksy-na-russkom",
     "mirage-studios"
+  ],
+  "cover": "https://web.archive.org/web/20220815202552im_/http://spidermedia.ru/assets/images/import_image/7760.jpg",
+  "modx_id": 7760,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

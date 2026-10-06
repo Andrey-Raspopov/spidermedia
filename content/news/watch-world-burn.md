@@ -1,6 +1,6 @@
 {
   "title": "... to watch the world burn",
-  "date": "2012-04-16T10:47:00+03:00",
+  "date": "2012-04-16T09:47:21+03:00",
   "url": "/news/watch-world-burn/",
   "original_url": "https://spidermedia.ru/news/watch-world-burn",
   "archived": "https://web.archive.org/web/20260208205519/https://spidermedia.ru/news/watch-world-burn",
@@ -13,7 +13,15 @@
     "alan-devis",
     "thor",
     "marvel",
-    "journey-into-mystery"
+    "journey-into-mystery",
+    "mett-frakshen",
+    "tor"
+  ],
+  "cover": "https://web.archive.org/web/20260208205519im_/http://spidermedia.ru/assets/images/import_image/6877.jpg",
+  "modx_id": 6877,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

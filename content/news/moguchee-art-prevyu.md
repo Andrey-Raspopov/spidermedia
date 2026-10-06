@@ -1,6 +1,6 @@
 {
   "title": "Могучее арт-превью",
-  "date": "2011-02-12T17:13:00+03:00",
+  "date": "2011-02-12T17:13:57+03:00",
   "url": "/news/moguchee-art-prevyu/",
   "original_url": "http://spidermedia.ru/news/moguchee-art-prevyu",
   "archived": "https://web.archive.org/web/20260312012352/http://spidermedia.ru/news/moguchee-art-prevyu",
@@ -12,7 +12,15 @@
     "dag-brejtvejt",
     "kiron-gillen",
     "matt-fraction",
-    "paskal-ferri"
+    "paskal-ferri",
+    "tor",
+    "mett-frakshen"
+  ],
+  "cover": "https://web.archive.org/web/20150502154956im_/http://spidermedia.ru/assets/images/import_image/3364.jpg",
+  "modx_id": 3364,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

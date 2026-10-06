@@ -1,6 +1,6 @@
 {
   "title": "Читаем русские комиксы: Бесобой #01- (Bubble, 2012-)",
-  "date": "2014-04-09T18:02:00+03:00",
+  "date": "2014-04-09T17:02:28+03:00",
   "url": "/blog/derden/chitaem-russkie-komiksy-besoboy-01-bubble-2012/",
   "original_url": "https://spidermedia.ru/blog/derden/chitaem-russkie-komiksy-besoboy-01-bubble-2012",
   "archived": "https://web.archive.org/web/20260206224633/https://spidermedia.ru/blog/derden/chitaem-russkie-komiksy-besoboy-01-bubble-2012",
@@ -8,6 +8,12 @@
     "besoboj",
     "bubble",
     "russian-comics"
+  ],
+  "cover": "https://web.archive.org/web/20210820155112im_/https://spidermedia.ru/assets/images/import_image/7708.jpg",
+  "modx_id": 7708,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

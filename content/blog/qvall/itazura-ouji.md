@@ -1,14 +1,24 @@
 {
   "title": "Itazura Ouji",
-  "date": "2009-04-06T02:46:00+03:00",
+  "date": "2009-04-06T01:46:26+03:00",
   "url": "/blog/qvall/itazura-ouji/",
+  "aliases": [
+    "/node/865/"
+  ],
   "original_url": "http://spidermedia.ru/blog/qvall/itazura-ouji",
   "archived": "https://web.archive.org/web/20120607132638/http://spidermedia.ru/blog/qvall/itazura-ouji",
   "tags": [
     "manga",
     "one-shot",
     "shoujo",
-    "skachat"
+    "skachat",
+    "manga-2"
+  ],
+  "cover": "https://web.archive.org/web/20120607132638im_/http://spidermedia.ru/assets/images/import_image/865.jpg",
+  "modx_id": 865,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

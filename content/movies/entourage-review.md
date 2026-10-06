@@ -4,6 +4,12 @@
   "url": "/movies/entourage-review/",
   "original_url": "https://spidermedia.ru/movies/entourage-review",
   "archived": "https://web.archive.org/web/20260115053344/https://spidermedia.ru/movies/entourage-review",
+  "cover": "https://web.archive.org/web/20260115053344im_/http://spidermedia.ru/assets/images/movies/other/entourage/anturazh-zaglavnaya.jpg",
+  "modx_id": 100425,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

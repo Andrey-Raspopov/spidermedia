@@ -1,12 +1,21 @@
 {
   "title": "Обитаемый Остров: Комикс",
-  "date": "2009-03-18T21:50:00+03:00",
+  "date": "2009-03-18T21:50:14+03:00",
   "url": "/news/obitaemyy-ostrov-komiks/",
+  "aliases": [
+    "/node/709/"
+  ],
   "original_url": "https://spidermedia.ru/news/obitaemyy-ostrov-komiks",
   "archived": "https://web.archive.org/web/20250210035224/https://spidermedia.ru/news/obitaemyy-ostrov-komiks",
   "tags": [
     "russian-comics",
     "obitaemyj-ostrov"
+  ],
+  "cover": "https://web.archive.org/web/20250210035224im_/http://spidermedia.ru/assets/images/import_image/709.jpg",
+  "modx_id": 709,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

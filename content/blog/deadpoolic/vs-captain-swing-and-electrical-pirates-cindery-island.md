@@ -1,12 +1,18 @@
 {
   "title": "...Vs - Captain Swing and the Electrical Pirates of Cindery Island",
-  "date": "2010-02-27T01:06:00+03:00",
+  "date": "2010-02-27T01:06:20+03:00",
   "url": "/blog/deadpoolic/vs-captain-swing-and-electrical-pirates-cindery-island/",
   "original_url": "https://spidermedia.ru/blog/deadpoolic/vs-captain-swing-and-electrical-pirates-cindery-island",
   "archived": "https://web.archive.org/web/20260312021218/https://spidermedia.ru/blog/deadpoolic/vs-captain-swing-and-electrical-pirates-cindery-island",
   "tags": [
     "avatar-press",
     "warren-ellis"
+  ],
+  "cover": "https://web.archive.org/web/20260312021218im_/http://spidermedia.ru/assets/images/import_image/2402.jpg",
+  "modx_id": 2402,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

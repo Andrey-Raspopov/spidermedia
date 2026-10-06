@@ -1,13 +1,22 @@
 {
   "title": "Что стоит ждать 4 марта 2009",
-  "date": "2009-03-01T23:59:00+03:00",
+  "date": "2009-03-01T22:59:24+03:00",
   "url": "/blog/redson/chto-stoit-zhdat-4-marta-2009/",
+  "aliases": [
+    "/node/558/"
+  ],
   "original_url": "http://spidermedia.ru/blog/redson/chto-stoit-zhdat-4-marta-2009",
   "archived": "https://web.archive.org/web/20120608154217/http://spidermedia.ru/blog/redson/chto-stoit-zhdat-4-marta-2009",
   "tags": [
     "komiksy",
     "mnenie",
     "chto-stoit-zhdat"
+  ],
+  "cover": "https://web.archive.org/web/20120608154217im_/http://spidermedia.ru/assets/images/import_image/558.jpg",
+  "modx_id": 558,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

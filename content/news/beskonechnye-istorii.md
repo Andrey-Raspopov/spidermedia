@@ -1,6 +1,6 @@
 {
   "title": "Бесконечные истории",
-  "date": "2012-03-12T10:04:00+03:00",
+  "date": "2012-03-12T09:04:37+03:00",
   "url": "/news/beskonechnye-istorii/",
   "original_url": "http://spidermedia.ru/news/beskonechnye-istorii",
   "archived": "https://web.archive.org/web/20260117220639/http://spidermedia.ru/news/beskonechnye-istorii",
@@ -10,6 +10,12 @@
     "nova",
     "mark-waid",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20260117220639im_/http://spidermedia.ru/assets/images/import_image/6823.jpg",
+  "modx_id": 6823,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

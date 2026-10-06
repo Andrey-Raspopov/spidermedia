@@ -1,6 +1,6 @@
 {
   "title": "Двойная сила, двойная ответственность",
-  "date": "2012-04-11T15:39:00+03:00",
+  "date": "2012-04-11T14:39:17+03:00",
   "url": "/news/dvoynaya-sila-dvoynaya-otvetstvennost/",
   "original_url": "http://spidermedia.ru/news/dvoynaya-sila-dvoynaya-otvetstvennost",
   "archived": "https://web.archive.org/web/20250318081852/http://spidermedia.ru/news/dvoynaya-sila-dvoynaya-otvetstvennost",
@@ -10,6 +10,12 @@
     "spider-man",
     "marvel",
     "sara-pichelli"
+  ],
+  "cover": "https://web.archive.org/web/20250318081852im_/http://spidermedia.ru/assets/images/import_image/6863.jpg",
+  "modx_id": 6863,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

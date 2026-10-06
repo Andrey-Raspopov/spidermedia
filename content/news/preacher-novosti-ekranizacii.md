@@ -1,7 +1,10 @@
 {
   "title": "Preacher: Новости экранизации",
-  "date": "2009-05-12T16:30:00+03:00",
+  "date": "2009-05-12T15:30:08+03:00",
   "url": "/news/preacher-novosti-ekranizacii/",
+  "aliases": [
+    "/node/1161/"
+  ],
   "original_url": "http://spidermedia.ru/news/preacher-novosti-ekranizacii",
   "archived": "https://web.archive.org/web/20251014032534/http://spidermedia.ru/news/preacher-novosti-ekranizacii",
   "tags": [
@@ -9,6 +12,12 @@
     "preacher",
     "garth-ennis",
     "steve-dillon"
+  ],
+  "cover": "https://web.archive.org/web/20150326191850im_/http://spidermedia.ru/assets/images/import_image/1161.jpg",
+  "modx_id": 1161,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,11 +1,18 @@
 {
   "title": "Очередной тизер Марвел: \"Всему конец\"",
-  "date": "2014-11-04T17:35:00+03:00",
+  "date": "2014-11-04T17:35:28+03:00",
   "url": "/news/ocherednoy-tizer-marvel-vsemu-konec/",
   "original_url": "http://spidermedia.ru/news/ocherednoy-tizer-marvel-vsemu-konec",
   "archived": "https://web.archive.org/web/20150319224633/http://spidermedia.ru/news/ocherednoy-tizer-marvel-vsemu-konec",
   "tags": [
-    "marvel-comics"
+    "marvel-comics",
+    "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150326095734im_/http://spidermedia.ru/assets/images/import_image/8257.jpg",
+  "modx_id": 8257,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

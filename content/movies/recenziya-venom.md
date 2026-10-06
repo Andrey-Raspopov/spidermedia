@@ -4,6 +4,12 @@
   "url": "/movies/recenziya-venom/",
   "original_url": "http://spidermedia.ru/movies/recenziya-venom",
   "archived": "https://web.archive.org/web/20251107003637/http://spidermedia.ru/movies/recenziya-venom",
+  "cover": "https://web.archive.org/web/20251107003637im_/http://spidermedia.ru/assets/images/movies/marvel/venom/venom-2018-2.jpg",
+  "modx_id": 102024,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

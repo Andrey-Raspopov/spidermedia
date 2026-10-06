@@ -1,7 +1,10 @@
 {
   "title": "рецензия - Fallen Angel",
-  "date": "2009-05-05T21:56:00+03:00",
+  "date": "2009-05-05T20:56:06+03:00",
   "url": "/blog/bastion7/recenziya-fallen-angel/",
+  "aliases": [
+    "/node/1108/"
+  ],
   "original_url": "http://spidermedia.ru/blog/bastion7/recenziya-fallen-angel",
   "archived": "https://web.archive.org/web/20260121001049/http://spidermedia.ru/blog/bastion7/recenziya-fallen-angel",
   "tags": [
@@ -10,6 +13,12 @@
     "recenziya",
     "idw-publishing",
     "fallen-angel"
+  ],
+  "cover": "https://web.archive.org/web/20260121001049im_/http://spidermedia.ru/assets/images/import_image/1108.jpg",
+  "modx_id": 1108,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

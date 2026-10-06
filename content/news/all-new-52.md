@@ -1,6 +1,6 @@
 {
   "title": "All-new 52",
-  "date": "2014-04-10T06:24:00+03:00",
+  "date": "2014-04-10T05:24:10+03:00",
   "url": "/news/all-new-52/",
   "original_url": "http://spidermedia.ru/news/all-new-52",
   "archived": "https://web.archive.org/web/20250209110144/http://spidermedia.ru/news/all-new-52",
@@ -12,6 +12,12 @@
     "dzheremi-roberts",
     "teen-titans",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20250209110144im_/http://spidermedia.ru/assets/images/import_image/7709.jpg",
+  "modx_id": 7709,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "«42» издаст новый русский комикс",
-  "date": "2014-07-21T20:34:00+03:00",
+  "date": "2014-07-21T19:34:52+03:00",
   "url": "/news/42-izdast-novyy-russkiy-komiks/",
   "original_url": "http://spidermedia.ru/news/42-izdast-novyy-russkiy-komiks",
   "archived": "https://web.archive.org/web/20250717183238/http://spidermedia.ru/news/42-izdast-novyy-russkiy-komiks",
@@ -8,6 +8,12 @@
     "russian-comics",
     "izdatelstvo-42",
     "vtoroj"
+  ],
+  "cover": "https://web.archive.org/web/20250717183238im_/http://spidermedia.ru/assets/images/import_image/7904.png",
+  "modx_id": 7904,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

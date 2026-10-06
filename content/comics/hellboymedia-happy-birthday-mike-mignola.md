@@ -8,6 +8,12 @@
     "hellboymedia",
     "novosti"
   ],
+  "cover": "https://web.archive.org/web/20180203233139im_/http://spidermedia.ru/assets/images/hellboymedia/news/happy-birthday-mike-mignola/happy-birthday-mike-mignola-cover.jpg",
+  "modx_id": 100561,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

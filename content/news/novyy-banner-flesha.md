@@ -1,12 +1,19 @@
 {
   "title": "Новый баннер «Флэша»",
-  "date": "2014-08-05T11:02:00+03:00",
+  "date": "2014-08-05T10:02:44+03:00",
   "url": "/news/novyy-banner-flesha/",
   "original_url": "http://spidermedia.ru/news/novyy-banner-flesha",
   "archived": "https://web.archive.org/web/20230320155359/http://spidermedia.ru/news/novyy-banner-flesha",
   "tags": [
     "the-flash",
-    "serialy"
+    "serialy",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20230320155359im_/http://spidermedia.ru/assets/images/import_image/7959.jpg",
+  "modx_id": 7959,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

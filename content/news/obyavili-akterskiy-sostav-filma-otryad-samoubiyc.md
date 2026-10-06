@@ -1,6 +1,6 @@
 {
   "title": "Объявлен актерский состав фильма «Отряд самоубийц»",
-  "date": "2014-12-03T08:01:00+03:00",
+  "date": "2014-12-03T08:01:36+03:00",
   "url": "/news/obyavili-akterskiy-sostav-filma-otryad-samoubiyc/",
   "original_url": "http://spidermedia.ru/news/obyavili-akterskiy-sostav-filma-otryad-samoubiyc",
   "archived": "https://web.archive.org/web/20251115180345/http://spidermedia.ru/news/obyavili-akterskiy-sostav-filma-otryad-samoubiyc",
@@ -8,6 +8,12 @@
     "suicide-squad",
     "kasting",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150424161719im_/http://spidermedia.ru/assets/images/import_image/8334.jpg",
+  "modx_id": 8334,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

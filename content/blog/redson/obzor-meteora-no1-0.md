@@ -1,6 +1,6 @@
 {
   "title": "ОБЗОР: \"Метеора №1\"",
-  "date": "2014-10-27T11:06:00+03:00",
+  "date": "2014-10-27T11:06:04+03:00",
   "url": "/blog/redson/obzor-meteora-no1-0/",
   "original_url": "http://spidermedia.ru/blog/redson/obzor-meteora-no1-0",
   "archived": "https://web.archive.org/web/20260306001523/http://spidermedia.ru/blog/redson/obzor-meteora-no1-0",
@@ -11,6 +11,12 @@
     "meteora",
     "obzor",
     "russian-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150502140342im_/http://spidermedia.ru/assets/images/import_image/8226.jpg",
+  "modx_id": 8226,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

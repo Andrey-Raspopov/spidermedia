@@ -1,11 +1,20 @@
 {
   "title": "Болтливый режиссер",
-  "date": "2010-10-27T22:05:00+03:00",
+  "date": "2010-10-27T21:05:21+03:00",
   "url": "/news/boltlivyy-rezhisser/",
+  "aliases": [
+    "/node/3034/"
+  ],
   "original_url": "http://spidermedia.ru/news/boltlivyy-rezhisser",
   "archived": "https://web.archive.org/web/20220813154839/http://spidermedia.ru/news/boltlivyy-rezhisser",
   "tags": [
     "deadpool"
+  ],
+  "cover": "https://web.archive.org/web/20220813154839im_/http://spidermedia.ru/assets/images/import_image/3034.jpg",
+  "modx_id": 3034,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

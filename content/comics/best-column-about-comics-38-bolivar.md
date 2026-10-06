@@ -8,6 +8,12 @@
     "best-column-about-comics",
     "mnenie"
   ],
+  "cover": "https://web.archive.org/web/20260312005511im_/http://spidermedia.ru/assets/images/best-column-about-comics/38-bolivar/bolivar-cover.jpg",
+  "modx_id": 101965,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

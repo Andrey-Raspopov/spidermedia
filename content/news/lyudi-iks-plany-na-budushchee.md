@@ -1,7 +1,10 @@
 {
   "title": "Люди Икс: планы на будущее",
-  "date": "2009-02-05T12:53:00+03:00",
+  "date": "2009-02-05T11:53:47+03:00",
   "url": "/news/lyudi-iks-plany-na-budushchee/",
+  "aliases": [
+    "/node/206/"
+  ],
   "original_url": "http://spidermedia.ru/news/lyudi-iks-plany-na-budushchee",
   "archived": "https://web.archive.org/web/20120607170256/http://spidermedia.ru/news/lyudi-iks-plany-na-budushchee",
   "tags": [
@@ -10,7 +13,13 @@
     "x-men",
     "x-universe",
     "gellion",
-    "komiksy"
+    "komiksy",
+    "lyudi-iks"
+  ],
+  "modx_id": 206,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

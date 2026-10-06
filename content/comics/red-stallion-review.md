@@ -8,6 +8,12 @@
     "izdatelstvo-42",
     "russian-comics"
   ],
+  "cover": "https://web.archive.org/web/20260116222436im_/http://spidermedia.ru/assets/images/reviews/42/1.jpg",
+  "modx_id": 100670,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

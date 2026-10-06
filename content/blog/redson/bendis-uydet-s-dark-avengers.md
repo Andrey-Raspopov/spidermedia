@@ -1,7 +1,10 @@
 {
   "title": "Бендис уйдет с Dark Avengers",
-  "date": "2009-11-10T15:36:00+03:00",
+  "date": "2009-11-10T15:36:47+03:00",
   "url": "/blog/redson/bendis-uydet-s-dark-avengers/",
+  "aliases": [
+    "/node/2081/"
+  ],
   "original_url": "http://spidermedia.ru/blog/redson/bendis-uydet-s-dark-avengers",
   "archived": "https://web.archive.org/web/20251106234817/http://spidermedia.ru/blog/redson/bendis-uydet-s-dark-avengers",
   "tags": [
@@ -10,7 +13,13 @@
     "mysli",
     "mnenie",
     "marvel",
-    "brian-michael-bendis"
+    "brian-michael-bendis",
+    "dark-avengers"
+  ],
+  "modx_id": 2081,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

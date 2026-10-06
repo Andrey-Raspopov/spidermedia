@@ -1,6 +1,6 @@
 {
   "title": "Новые Могучие",
-  "date": "2013-06-08T04:47:00+03:00",
+  "date": "2013-06-08T03:47:05+03:00",
   "url": "/news/novye-moguchie/",
   "original_url": "http://spidermedia.ru/news/novye-moguchie",
   "archived": "https://web.archive.org/web/20250422042028/http://spidermedia.ru/news/novye-moguchie",
@@ -10,6 +10,12 @@
     "avengers",
     "marvel",
     "infinity"
+  ],
+  "cover": "https://web.archive.org/web/20250422042028im_/http://spidermedia.ru/assets/images/import_image/7267.jpg",
+  "modx_id": 7267,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

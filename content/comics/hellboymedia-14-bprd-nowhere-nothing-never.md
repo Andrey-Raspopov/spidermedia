@@ -8,6 +8,12 @@
     "hellboymedia",
     "mnenie"
   ],
+  "cover": "https://web.archive.org/web/20160611105657im_/http://spidermedia.ru/assets/images/hellboymedia/regular/14-bprd-nowhere-nothing-never/b.p.r.d.-nowhere-nothing-never-cover.jpg",
+  "modx_id": 100420,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

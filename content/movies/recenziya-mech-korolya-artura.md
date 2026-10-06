@@ -4,6 +4,12 @@
   "url": "/movies/recenziya-mech-korolya-artura/",
   "original_url": "http://spidermedia.ru/movies/recenziya-mech-korolya-artura",
   "archived": "https://web.archive.org/web/20250804002521/http://spidermedia.ru/movies/recenziya-mech-korolya-artura",
+  "cover": "https://web.archive.org/web/20170609131303im_/http://spidermedia.ru/assets/images/movies/other/1200x675.jpg",
+  "modx_id": 101560,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -7,6 +7,12 @@
   "tags": [
     "dc-comics"
   ],
+  "cover": "https://web.archive.org/web/20250422041829im_/http://spidermedia.ru/assets/images/valiant/images/superrecap/superrecap-gotham-promo.jpg",
+  "modx_id": 101485,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

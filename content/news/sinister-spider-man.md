@@ -1,13 +1,21 @@
 {
   "title": "The Sinister Spider-Man",
-  "date": "2009-03-20T21:55:00+03:00",
+  "date": "2009-03-20T21:55:37+03:00",
   "url": "/news/sinister-spider-man/",
+  "aliases": [
+    "/node/731/"
+  ],
   "original_url": "http://spidermedia.ru/news/sinister-spider-man",
   "archived": "https://web.archive.org/web/20250906082427/http://spidermedia.ru/news/sinister-spider-man",
   "tags": [
     "venom",
     "marvel",
     "spider-man"
+  ],
+  "modx_id": 731,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

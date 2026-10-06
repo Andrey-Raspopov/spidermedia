@@ -1,6 +1,6 @@
 {
   "title": "\"Первый мститель: Другая война\": Новый трейлер с комментариями актёров",
-  "date": "2014-02-28T22:05:00+03:00",
+  "date": "2014-02-28T21:05:04+03:00",
   "url": "/news/pervyy-mstitel-drugaya-voyna-novyy-treyler-s-kommentariyami-aktyorov/",
   "original_url": "http://spidermedia.ru/news/pervyy-mstitel-drugaya-voyna-novyy-treyler-s-kommentariyami-aktyorov",
   "archived": "https://web.archive.org/web/20240624012656/http://spidermedia.ru/news/pervyy-mstitel-drugaya-voyna-novyy-treyler-s-kommentariyami-aktyorov",
@@ -9,6 +9,12 @@
     "captain-america",
     "winter-soldier",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20240624012656im_/http://spidermedia.ru/assets/images/import_image/7663.jpg",
+  "modx_id": 7663,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

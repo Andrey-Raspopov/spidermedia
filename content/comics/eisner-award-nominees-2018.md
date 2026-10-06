@@ -7,6 +7,12 @@
   "tags": [
     "eisner-awards"
   ],
+  "cover": "https://web.archive.org/web/20200128044718im_/http://spidermedia.ru/assets/images/news/waid-eisner.jpg",
+  "modx_id": 101897,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

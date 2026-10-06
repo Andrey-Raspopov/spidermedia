@@ -1,7 +1,10 @@
 {
   "title": "Трейлер \"Зеленого Фонаря\"",
-  "date": "2010-11-17T06:49:00+03:00",
+  "date": "2010-11-17T06:49:06+03:00",
   "url": "/news/treyler-zelenogo-fonarya/",
+  "aliases": [
+    "/node/3071/"
+  ],
   "original_url": "https://spidermedia.ru/news/treyler-zelenogo-fonarya",
   "archived": "https://web.archive.org/web/20260211182625/https://spidermedia.ru/news/treyler-zelenogo-fonarya",
   "tags": [
@@ -10,7 +13,13 @@
     "postery",
     "art-0",
     "green-lantern",
-    "dc-comics"
+    "dc-comics",
+    "art"
+  ],
+  "modx_id": 3071,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

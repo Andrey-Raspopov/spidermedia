@@ -1,12 +1,18 @@
 {
   "title": "Поздравляем победителей викторины Comic Con Russia!",
-  "date": "2014-09-22T21:51:00+03:00",
+  "date": "2014-09-22T20:51:19+03:00",
   "url": "/news/pozdravlyaem-pobediteley-viktoriny-comic-con-russia-0/",
   "original_url": "http://spidermedia.ru/news/pozdravlyaem-pobediteley-viktoriny-comic-con-russia-0",
   "archived": "https://web.archive.org/web/20260309174943/http://spidermedia.ru/news/pozdravlyaem-pobediteley-viktoriny-comic-con-russia-0",
   "tags": [
     "comic-con-russia",
     "konkurs"
+  ],
+  "cover": "https://web.archive.org/web/20260309174943im_/http://spidermedia.ru/assets/images/import_image/8089.png",
+  "modx_id": 8089,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,11 +1,19 @@
 {
   "title": "Заголовок",
-  "date": "2009-02-04T07:41:00+03:00",
+  "date": "2009-02-04T06:41:23+03:00",
   "url": "/blog/deirdre/zagolovok/",
+  "aliases": [
+    "/node/169/"
+  ],
   "original_url": "http://spidermedia.ru/blog/deirdre/zagolovok",
   "archived": "https://web.archive.org/web/20120608195603/http://spidermedia.ru/blog/deirdre/zagolovok",
   "tags": [
     "vstuplenie"
+  ],
+  "modx_id": 169,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

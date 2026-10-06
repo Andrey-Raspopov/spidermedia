@@ -1,12 +1,21 @@
 {
   "title": "Судья Дредд в 3D",
-  "date": "2010-05-18T12:56:00+03:00",
+  "date": "2010-05-18T11:56:40+03:00",
   "url": "/news/sudya-dredd-v-3d/",
+  "aliases": [
+    "/node/2626/"
+  ],
   "original_url": "http://spidermedia.ru/news/sudya-dredd-v-3d",
   "archived": "https://web.archive.org/web/20260313114712/http://spidermedia.ru/news/sudya-dredd-v-3d",
   "tags": [
     "judge-dredd",
     "2000-ad"
+  ],
+  "cover": "https://web.archive.org/web/20260313114712im_/http://spidermedia.ru/assets/images/import_image/2626.jpg",
+  "modx_id": 2626,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

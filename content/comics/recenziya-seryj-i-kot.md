@@ -8,6 +8,12 @@
     "komiksy",
     "recenziya"
   ],
+  "cover": "https://web.archive.org/web/20250807222424im_/http://spidermedia.ru/assets/images/news/images/oleg-lyfar/komfederacija/cover.jpg",
+  "modx_id": 101534,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

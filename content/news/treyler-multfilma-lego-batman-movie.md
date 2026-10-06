@@ -1,6 +1,6 @@
 {
   "title": "Трейлер мультфильма \"LEGO BATMAN: THE MOVIE\"",
-  "date": "2012-10-22T12:33:00+03:00",
+  "date": "2012-10-22T11:33:35+03:00",
   "url": "/news/treyler-multfilma-lego-batman-movie/",
   "original_url": "https://spidermedia.ru/news/treyler-multfilma-lego-batman-movie",
   "archived": "https://web.archive.org/web/20260208204837/https://spidermedia.ru/news/treyler-multfilma-lego-batman-movie",
@@ -10,6 +10,12 @@
     "batman",
     "animaciya",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150326221432im_/http://spidermedia.ru/assets/images/import_image/7072.jpg",
+  "modx_id": 7072,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

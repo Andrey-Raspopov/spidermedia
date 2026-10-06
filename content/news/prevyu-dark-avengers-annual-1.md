@@ -1,7 +1,10 @@
 {
   "title": "Превью Dark Avengers Annual #1",
-  "date": "2009-11-13T22:20:00+03:00",
+  "date": "2009-11-13T22:20:46+03:00",
   "url": "/news/prevyu-dark-avengers-annual-1/",
+  "aliases": [
+    "/node/2092/"
+  ],
   "original_url": "https://spidermedia.ru/news/prevyu-dark-avengers-annual-1",
   "archived": "https://web.archive.org/web/20250114040429/https://spidermedia.ru/news/prevyu-dark-avengers-annual-1",
   "tags": [
@@ -9,7 +12,15 @@
     "kris-bachalo",
     "art-0",
     "marvel",
-    "avengers"
+    "avengers",
+    "art",
+    "dark-avengers"
+  ],
+  "cover": "https://web.archive.org/web/20250114040429im_/http://spidermedia.ru/assets/images/import_image/2092.jpg",
+  "modx_id": 2092,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

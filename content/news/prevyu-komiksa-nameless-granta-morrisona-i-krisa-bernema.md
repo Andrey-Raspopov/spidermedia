@@ -1,12 +1,18 @@
 {
   "title": "Превью комикса NAMELESS Гранта Моррисона и Криса Бернэма",
-  "date": "2014-11-18T11:05:00+03:00",
+  "date": "2014-11-18T11:05:47+03:00",
   "url": "/news/prevyu-komiksa-nameless-granta-morrisona-i-krisa-bernema/",
   "original_url": "https://spidermedia.ru/news/prevyu-komiksa-nameless-granta-morrisona-i-krisa-bernema",
   "archived": "https://web.archive.org/web/20260307051911/https://spidermedia.ru/news/prevyu-komiksa-nameless-granta-morrisona-i-krisa-bernema",
   "tags": [
     "grant-morrison",
     "image-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150424123242im_/http://spidermedia.ru/assets/images/import_image/8295.jpg",
+  "modx_id": 8295,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

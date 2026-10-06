@@ -1,7 +1,10 @@
 {
   "title": "Паучий треугольник",
-  "date": "2009-06-18T00:20:00+03:00",
+  "date": "2009-06-17T23:20:32+03:00",
   "url": "/news/pauchiy-treugolnik/",
+  "aliases": [
+    "/node/1438/"
+  ],
   "original_url": "http://spidermedia.ru/news/pauchiy-treugolnik",
   "archived": "https://web.archive.org/web/20190811012859/http://spidermedia.ru:80/news/pauchiy-treugolnik",
   "tags": [
@@ -13,7 +16,14 @@
     "mary-jane-watson",
     "black-cat",
     "spider-man",
-    "chernaya-koshka"
+    "chernaya-koshka",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20190811012859im_/http://spidermedia.ru/assets/images/import_image/1438.jpg",
+  "modx_id": 1438,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

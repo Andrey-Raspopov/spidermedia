@@ -4,6 +4,12 @@
   "url": "/games/dying-light-2-stay-human-opinion/",
   "original_url": "http://spidermedia.ru/games/dying-light-2-stay-human-opinion",
   "archived": "https://web.archive.org/web/20251110224202/http://spidermedia.ru/games/dying-light-2-stay-human-opinion",
+  "cover": "https://web.archive.org/web/20220314005032im_/http://spidermedia.ru/assets/images/games/0dlight2.jpg",
+  "modx_id": 102486,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

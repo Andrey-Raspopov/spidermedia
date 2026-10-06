@@ -1,7 +1,10 @@
 {
   "title": "SDCC'09 - Fables",
-  "date": "2009-07-26T14:33:00+03:00",
+  "date": "2009-07-26T13:33:37+03:00",
   "url": "/news/sdcc09-fables/",
+  "aliases": [
+    "/node/1670/"
+  ],
   "original_url": "http://spidermedia.ru/news/sdcc09-fables",
   "archived": "https://web.archive.org/web/20250913011846/http://spidermedia.ru/news/sdcc09-fables",
   "tags": [
@@ -11,6 +14,12 @@
     "fables",
     "bill-uillingem",
     "san-diego-comic-con-international"
+  ],
+  "cover": "https://web.archive.org/web/20250913011846im_/http://spidermedia.ru/assets/images/import_image/1670.jpg",
+  "modx_id": 1670,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

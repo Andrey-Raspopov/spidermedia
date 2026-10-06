@@ -1,11 +1,17 @@
 {
   "title": "Раскрепощенный Супермен",
-  "date": "2009-02-21T13:37:00+03:00",
+  "date": "2009-02-21T13:37:40+03:00",
   "url": "/news/raskreposhchennyy-supermen/",
   "original_url": "https://spidermedia.ru/news/raskreposhchennyy-supermen",
   "archived": "https://web.archive.org/web/20240720195345/https://spidermedia.ru/news/raskreposhchennyy-supermen",
   "tags": [
     "superman"
+  ],
+  "cover": "https://web.archive.org/web/20240720195345im_/http://spidermedia.ru/assets/images/import_image/474.jpg",
+  "modx_id": 474,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -8,6 +8,12 @@
     "dc-comics",
     "joker"
   ],
+  "cover": "https://web.archive.org/web/20150424102650im_/http://spidermedia.ru/assets/images/news/dc/111111111111111.jpg",
+  "modx_id": 100083,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

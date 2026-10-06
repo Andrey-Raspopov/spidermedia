@@ -7,6 +7,12 @@
   "tags": [
     "marvel"
   ],
+  "cover": "https://web.archive.org/web/20210128062135im_/http://spidermedia.ru/assets/images/movies/marvel/ant-man-2015/wasp.jpg",
+  "modx_id": 100634,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

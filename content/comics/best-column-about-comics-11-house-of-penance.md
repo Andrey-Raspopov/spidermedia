@@ -8,6 +8,12 @@
     "best-column-about-comics",
     "mnenie"
   ],
+  "cover": "https://web.archive.org/web/20251209145420im_/http://spidermedia.ru/assets/images/best-column-about-comics/11-house-of-penance/house-of-penance-cover.jpg",
+  "modx_id": 101487,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

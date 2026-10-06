@@ -8,6 +8,12 @@
     "intervyu",
     "russian-comics"
   ],
+  "cover": "https://web.archive.org/web/20170726134704im_/http://spidermedia.ru/assets/images/interview/09.05.2017-igor-oleinikov/interview-igor-oleinikov-cover-01.jpg",
+  "modx_id": 101561,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

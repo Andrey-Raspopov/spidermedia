@@ -1,12 +1,18 @@
 {
   "title": "МЖДЗ: GET BACK TO WORK",
-  "date": "2011-07-19T19:23:00+03:00",
+  "date": "2011-07-19T18:23:01+03:00",
   "url": "/blog/plane-v/mzhdz-get-back-work/",
   "original_url": "http://spidermedia.ru/blog/plane-v/mzhdz-get-back-work",
   "archived": "https://web.archive.org/web/20240805024406/http://spidermedia.ru/blog/plane-v/mzhdz-get-back-work",
   "tags": [
     "mnenie",
     "mzhdz"
+  ],
+  "cover": "https://web.archive.org/web/20160716184943im_/http://spidermedia.ru/assets/images/import_image/6507.png",
+  "modx_id": 6507,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

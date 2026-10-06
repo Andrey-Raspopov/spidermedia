@@ -1,12 +1,18 @@
 {
   "title": "Hellboymedia: 13 Дней Хэллбоя",
-  "date": "2014-10-13T23:45:00+03:00",
+  "date": "2014-10-13T22:45:06+03:00",
   "url": "/news/hellboymedia-news-13-dney-hellboya-obnovlyaetsya/",
   "original_url": "http://spidermedia.ru/news/hellboymedia-news-13-dney-hellboya-obnovlyaetsya",
   "archived": "https://web.archive.org/web/20260121004530/http://spidermedia.ru/news/hellboymedia-news-13-dney-hellboya-obnovlyaetsya",
   "tags": [
     "novosti",
     "hellboymedia"
+  ],
+  "cover": "https://web.archive.org/web/20160611212225im_/http://spidermedia.ru/assets/images/hellboymedia/news/13-days-of-hellboy/13-days-of-hellboy-cover.jpg",
+  "modx_id": 8132,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

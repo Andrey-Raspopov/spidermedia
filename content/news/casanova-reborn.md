@@ -1,14 +1,24 @@
 {
   "title": "Casanova Reborn",
-  "date": "2010-04-19T21:21:00+03:00",
+  "date": "2010-04-19T20:21:08+03:00",
   "url": "/news/casanova-reborn/",
+  "aliases": [
+    "/node/2561/"
+  ],
   "original_url": "https://spidermedia.ru/news/casanova-reborn",
   "archived": "https://web.archive.org/web/20250715220649/https://spidermedia.ru/news/casanova-reborn",
   "tags": [
     "matt-fraction",
     "fabio-mun",
     "gabriel-ba",
-    "icon-comics"
+    "icon-comics",
+    "mett-frakshen"
+  ],
+  "cover": "https://web.archive.org/web/20250715220649im_/http://spidermedia.ru/assets/images/import_image/2561.jpg",
+  "modx_id": 2561,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

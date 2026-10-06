@@ -8,6 +8,12 @@
     "best-column-about-comics",
     "mnenie"
   ],
+  "cover": "https://web.archive.org/web/20220906025619im_/http://spidermedia.ru/assets/images/best-column-about-comics/27-lastman/lastman-cover.jpg",
+  "modx_id": 101689,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

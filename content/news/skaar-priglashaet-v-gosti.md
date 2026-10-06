@@ -1,7 +1,10 @@
 {
   "title": "Скаар приглашает в гости",
-  "date": "2009-03-23T22:23:00+03:00",
+  "date": "2009-03-23T21:23:59+03:00",
   "url": "/news/skaar-priglashaet-v-gosti/",
+  "aliases": [
+    "/node/755/"
+  ],
   "original_url": "http://spidermedia.ru/news/skaar-priglashaet-v-gosti",
   "archived": "https://web.archive.org/web/20140823024427/http://spidermedia.ru:80/news/skaar-priglashaet-v-gosti",
   "tags": [
@@ -11,7 +14,15 @@
     "kristos-geydzh",
     "marvel",
     "skaar-0",
-    "hulk"
+    "hulk",
+    "kristos-gejdzh",
+    "klejton-genri"
+  ],
+  "cover": "https://web.archive.org/web/20140823024427im_/http://spidermedia.ru/assets/images/import_image/755.jpg",
+  "modx_id": 755,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

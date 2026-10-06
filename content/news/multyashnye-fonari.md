@@ -1,7 +1,10 @@
 {
   "title": "Мультяшные Фонари",
-  "date": "2010-10-11T14:31:00+03:00",
+  "date": "2010-10-11T13:31:16+03:00",
   "url": "/news/multyashnye-fonari/",
+  "aliases": [
+    "/node/2998/"
+  ],
   "original_url": "http://spidermedia.ru/news/multyashnye-fonari",
   "archived": "https://web.archive.org/web/20251116072247/http://spidermedia.ru/news/multyashnye-fonari",
   "tags": [
@@ -13,6 +16,12 @@
     "nycc-2010",
     "new-york-comic-con",
     "green-lantern"
+  ],
+  "cover": "https://web.archive.org/web/20251116072247im_/http://spidermedia.ru/assets/images/import_image/2998.jpg",
+  "modx_id": 2998,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

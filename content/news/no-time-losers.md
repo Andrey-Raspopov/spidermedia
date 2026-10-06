@@ -1,6 +1,6 @@
 {
   "title": "No time for losers",
-  "date": "2013-06-11T04:54:00+03:00",
+  "date": "2013-06-11T03:54:24+03:00",
   "url": "/news/no-time-losers/",
   "original_url": "http://spidermedia.ru/news/no-time-losers",
   "archived": "https://web.archive.org/web/20250519182932/http://spidermedia.ru/news/no-time-losers",
@@ -9,6 +9,12 @@
     "infinity",
     "marvel",
     "stiven-sanders"
+  ],
+  "cover": "https://web.archive.org/web/20150424123404im_/http://spidermedia.ru/assets/images/import_image/7270.jpg",
+  "modx_id": 7270,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

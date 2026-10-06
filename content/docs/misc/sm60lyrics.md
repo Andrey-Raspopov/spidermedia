@@ -4,6 +4,9 @@
   "url": "/docs/misc/sm60lyrics/",
   "original_url": "http://spidermedia.ru/docs/misc/sm60lyrics.html",
   "archived": "https://web.archive.org/web/20051201123209/http://spidermedia.ru:80/docs/misc/sm60lyrics.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "cp1251 (guessed)"
 }

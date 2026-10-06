@@ -1,13 +1,22 @@
 {
   "title": "Трансформеры-близнецы",
-  "date": "2009-02-01T02:11:00+03:00",
+  "date": "2009-02-01T02:11:52+03:00",
   "url": "/news/transformery-bliznecy/",
+  "aliases": [
+    "/node/56/"
+  ],
   "original_url": "https://spidermedia.ru/news/transformery-bliznecy",
   "archived": "https://web.archive.org/web/20260309173026/https://spidermedia.ru/news/transformery-bliznecy",
   "tags": [
     "hasbro",
     "idw-publishing",
     "transformers"
+  ],
+  "cover": "https://web.archive.org/web/20260309173026im_/http://spidermedia.ru/assets/images/import_image/56.jpg",
+  "modx_id": 56,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

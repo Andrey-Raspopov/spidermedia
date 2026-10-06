@@ -1,6 +1,6 @@
 {
   "title": "Флэш на ТВ: подробности",
-  "date": "2013-07-31T11:18:00+03:00",
+  "date": "2013-07-31T10:18:07+03:00",
   "url": "/news/flesh-na-tv-podrobnosti/",
   "original_url": "http://spidermedia.ru/news/flesh-na-tv-podrobnosti",
   "archived": "https://web.archive.org/web/20250215003657/http://spidermedia.ru/news/flesh-na-tv-podrobnosti",
@@ -8,6 +8,12 @@
     "dc-comics",
     "the-flash",
     "green-arrow"
+  ],
+  "cover": "https://web.archive.org/web/20150428170741im_/http://spidermedia.ru/assets/images/import_image/7392.jpg",
+  "modx_id": 7392,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

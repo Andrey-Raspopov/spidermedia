@@ -4,6 +4,9 @@
   "url": "/comics/g/greenlant/v3/greenlant3/",
   "original_url": "http://www.spidermedia.ru/comics/g/greenlant/v3/greenlant3.html",
   "archived": "https://web.archive.org/web/20050307041624/http://www.spidermedia.ru:80/comics/g/greenlant/v3/greenlant3.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "cp1251 (guessed)"
 }

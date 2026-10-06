@@ -1,12 +1,18 @@
 {
   "title": "О том, что пишут о комиксах в рунете, или \"Зачем тебе Спайдермедия\"",
-  "date": "2013-01-31T00:47:00+03:00",
+  "date": "2013-01-30T23:47:47+03:00",
   "url": "/blog/vch/o-tom-chto-pishut-o-komiksah-v-runete-ili-zachem-tebe-spaydermediya/",
   "original_url": "http://spidermedia.ru/blog/vch/o-tom-chto-pishut-o-komiksah-v-runete-ili-zachem-tebe-spaydermediya",
   "archived": "https://web.archive.org/web/20160305222335/http://spidermedia.ru/blog/vch/o-tom-chto-pishut-o-komiksah-v-runete-ili-zachem-tebe-spaydermediya",
   "tags": [
     "internety",
     "analitika"
+  ],
+  "cover": "https://web.archive.org/web/20160322214445im_/http://spidermedia.ru/assets/images/import_image/7129.jpg",
+  "modx_id": 7129,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

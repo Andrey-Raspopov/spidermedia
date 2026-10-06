@@ -10,6 +10,12 @@
     "wonder-woman",
     "dc-comics"
   ],
+  "cover": "https://web.archive.org/web/20160611110438im_/http://spidermedia.ru/assets/images/movies/dc/batman-v-superman-dawn-of-justice-2016/bvsdoj-trailer-2-2.jpg",
+  "modx_id": 100742,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

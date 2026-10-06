@@ -8,6 +8,12 @@
     "dc-comics",
     "supergirl"
   ],
+  "cover": "https://web.archive.org/web/20180125081309im_/http://spidermedia.ru/assets/images/tv/supergirl/10-childish-things/image03.jpg",
+  "modx_id": 101114,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

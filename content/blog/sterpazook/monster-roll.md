@@ -1,12 +1,17 @@
 {
   "title": "Monster Roll",
-  "date": "2012-10-26T11:27:00+03:00",
+  "date": "2012-10-26T10:27:39+03:00",
   "url": "/blog/sterpazook/monster-roll/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/monster-roll",
   "archived": "https://web.archive.org/web/20150501125251/http://spidermedia.ru/blog/sterpazook/monster-roll",
   "tags": [
     "kino",
     "video"
+  ],
+  "modx_id": 7076,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

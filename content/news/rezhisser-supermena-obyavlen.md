@@ -1,12 +1,18 @@
 {
   "title": "Режиссер \"Супермена\" объявлен",
-  "date": "2010-10-05T02:59:00+03:00",
+  "date": "2010-10-05T01:59:53+03:00",
   "url": "/news/rezhisser-supermena-obyavlen/",
   "original_url": "http://spidermedia.ru/news/rezhisser-supermena-obyavlen",
   "archived": "https://web.archive.org/web/20250424195315/http://spidermedia.ru/news/rezhisser-supermena-obyavlen",
   "tags": [
     "superman",
     "zack-snyder"
+  ],
+  "cover": "https://web.archive.org/web/20250424195315im_/http://spidermedia.ru/assets/images/import_image/2970.jpg",
+  "modx_id": 2970,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

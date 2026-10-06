@@ -1,6 +1,6 @@
 {
   "title": "Под Красным Колпаком",
-  "date": "2010-07-13T13:44:00+03:00",
+  "date": "2010-07-13T12:44:16+03:00",
   "url": "/blog/igrok/pod-krasnym-kolpakom/",
   "original_url": "https://spidermedia.ru/blog/igrok/pod-krasnym-kolpakom",
   "archived": "https://web.archive.org/web/20260211193256/https://spidermedia.ru/blog/igrok/pod-krasnym-kolpakom",
@@ -12,6 +12,11 @@
     "joker",
     "jason-todd",
     "batman"
+  ],
+  "modx_id": 2719,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

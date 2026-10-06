@@ -1,7 +1,10 @@
 {
   "title": "Темная Инициатива",
-  "date": "2009-04-22T21:59:00+03:00",
+  "date": "2009-04-22T20:59:30+03:00",
   "url": "/news/temnaya-iniciativa/",
+  "aliases": [
+    "/node/1032/"
+  ],
   "original_url": "http://spidermedia.ru/news/temnaya-iniciativa",
   "archived": "https://web.archive.org/web/20251117012031/http://spidermedia.ru/news/temnaya-iniciativa",
   "tags": [
@@ -11,13 +14,18 @@
     "iniciativa",
     "avengers"
   ],
+  "modx_id": 1032,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
 [![](https://web.archive.org/web/20251117012031im_/http://i.newsarama.com/images/initiative_26-ff.jpg)](http://img15.imageshack.us/img15/5158/27543newstoryimage98915.jpg)
 
-[Как вам известно](../../node/1002/), с **Avengers: The Initiative** **#26** новым художником становится **Рафа Сэндовал** *(Rafa Sandoval)*, который сменит **Умберто Рамоса** *(Humberto Ramos)*. Вы уже знаете, [что ждёт **Инициативу** *(the Initiative)* в ближайшем будущем.](../../node/1023/)
+[Как вам известно](../temnoe-pravlenie-vo-vsey-krase/), с **Avengers: The Initiative** **#26** новым художником становится **Рафа Сэндовал** *(Rafa Sandoval)*, который сменит **Умберто Рамоса** *(Humberto Ramos)*. Вы уже знаете, [что ждёт **Инициативу** *(the Initiative)* в ближайшем будущем.](../avengers-assemble-iyul-2009/)
 
 Сегодня, вы узнаете некоторые подробности относительно смены художника, да и того, что будет происходить с главными персонажами комикса в ближайшее время:
 
@@ -27,4 +35,4 @@
 - Мы увидим, как будут чувствовать себя те герои, которые оставили Инициативу. Гейдж называет этих героев Тайными Мстителями (the Secret Avengers). Преследуемые законом и прячущиеся от всех, Тайные Мстители попытаются остановить влияние **Темного Правления** *(Dark Reign)* на **Инициативу Пятидесяти Штатов** (Fifty State Initiative).
 - Помните ли вы New Avengers #35, в котором Капюшон (the Hood) атаковал Тигру в её квартире и унизил её в присутствии своих друзей? Тогда, она - была зарегистрирована, а её противники - нет. Теперь всё будет наоборот! Тигра (которая теперь вне закона) готова отомстить своим обидчикам!
 
-Вот, какие изменения ждут Инициативу в будущем! Напоминаем вам, что [Avengers: The Initiative](../../node/984/) [#23](../../node/984/) выходит 22го апреля!
+Вот, какие изменения ждут Инициативу в будущем! Напоминаем вам, что [Avengers: The Initiative](../prevyu-avengers-initiative-23/) [#23](../prevyu-avengers-initiative-23/) выходит 22го апреля!

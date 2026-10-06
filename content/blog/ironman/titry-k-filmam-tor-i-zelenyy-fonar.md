@@ -1,6 +1,6 @@
 {
   "title": "Титры к фильмам \"Тор\" и \"Зеленый Фонарь\"",
-  "date": "2011-01-07T20:43:00+03:00",
+  "date": "2011-01-07T20:43:34+03:00",
   "url": "/blog/ironman/titry-k-filmam-tor-i-zelenyy-fonar/",
   "original_url": "http://spidermedia.ru/blog/ironman/titry-k-filmam-tor-i-zelenyy-fonar",
   "archived": "https://web.archive.org/web/20250321100048/http://spidermedia.ru/blog/ironman/titry-k-filmam-tor-i-zelenyy-fonar",
@@ -8,7 +8,13 @@
     "thor",
     "green-lantern",
     "marvel",
-    "dc-comics"
+    "dc-comics",
+    "tor"
+  ],
+  "modx_id": 3148,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

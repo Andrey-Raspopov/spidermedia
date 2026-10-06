@@ -1,7 +1,10 @@
 {
   "title": "Летний Арт-Марвел",
-  "date": "2009-05-10T23:09:00+03:00",
+  "date": "2009-05-10T22:09:57+03:00",
   "url": "/news/letniy-art-marvel/",
+  "aliases": [
+    "/node/1147/"
+  ],
   "original_url": "http://spidermedia.ru/news/letniy-art-marvel",
   "archived": "https://web.archive.org/web/20120607114824/http://spidermedia.ru/news/letniy-art-marvel",
   "tags": [
@@ -15,7 +18,14 @@
     "komiksy",
     "marvel",
     "mstiteli",
-    "chelovek-pauk"
+    "chelovek-pauk",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20120607114824im_/http://spidermedia.ru/assets/images/import_image/1147.jpg",
+  "modx_id": 1147,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

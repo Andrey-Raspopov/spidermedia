@@ -10,6 +10,12 @@
     "grant-morrison",
     "the-flash"
   ],
+  "cover": "https://web.archive.org/web/20260209105200im_/http://spidermedia.ru/assets/images/news/dc/batman-black-and-white/cir-usuusaazgoe.jpg",
+  "modx_id": 100389,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

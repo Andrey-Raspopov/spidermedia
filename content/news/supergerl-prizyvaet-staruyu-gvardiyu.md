@@ -1,6 +1,6 @@
 {
   "title": "«Супергерл» созывает старую гвардию",
-  "date": "2015-02-27T23:01:00+03:00",
+  "date": "2015-02-27T23:01:15+03:00",
   "url": "/news/supergerl-prizyvaet-staruyu-gvardiyu/",
   "original_url": "http://spidermedia.ru/news/supergerl-prizyvaet-staruyu-gvardiyu",
   "archived": "https://web.archive.org/web/20251205111211/http://spidermedia.ru/news/supergerl-prizyvaet-staruyu-gvardiyu",
@@ -8,7 +8,14 @@
     "serialy",
     "kasting",
     "dc-comics",
-    "supergirl"
+    "supergirl",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20150326200515im_/http://spidermedia.ru/assets/images/import_image/8658.jpg",
+  "modx_id": 8658,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

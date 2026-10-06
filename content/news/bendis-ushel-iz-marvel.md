@@ -1,6 +1,6 @@
 {
   "title": "Бендис ушел из Marvel",
-  "date": "2011-04-01T00:00:00+03:00",
+  "date": "2011-03-31T23:00:06+03:00",
   "url": "/news/bendis-ushel-iz-marvel/",
   "original_url": "https://spidermedia.ru/news/bendis-ushel-iz-marvel",
   "archived": "https://web.archive.org/web/20251012170533/https://spidermedia.ru/news/bendis-ushel-iz-marvel",
@@ -8,6 +8,12 @@
     "brian-michael-bendis",
     "marvel",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20251012170533im_/http://spidermedia.ru/assets/images/import_image/4603.jpg",
+  "modx_id": 4603,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Истории игрушек 2009",
-  "date": "2009-02-17T10:10:00+03:00",
+  "date": "2009-02-17T10:10:51+03:00",
   "url": "/blog/alex/istorii-igrushek-2009/",
   "original_url": "https://spidermedia.ru/blog/alex/istorii-igrushek-2009",
   "archived": "https://web.archive.org/web/20260313115709/https://spidermedia.ru/blog/alex/istorii-igrushek-2009",
@@ -8,6 +8,12 @@
     "figurki",
     "green-lantern",
     "toy-fair-2009"
+  ],
+  "cover": "https://web.archive.org/web/20260313115709im_/http://spidermedia.ru/assets/images/import_image/404.jpg",
+  "modx_id": 404,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

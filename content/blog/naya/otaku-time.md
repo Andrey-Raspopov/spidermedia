@@ -2,8 +2,17 @@
   "title": "Otaku time",
   "date": "2009-02-01T14:49:00+03:00",
   "url": "/blog/naya/otaku-time/",
+  "aliases": [
+    "/node/71/"
+  ],
   "original_url": "http://spidermedia.ru/blog/naya/otaku-time",
   "archived": "https://web.archive.org/web/20210823064605/http://spidermedia.ru/blog/naya/otaku-time",
+  "cover": "https://web.archive.org/web/20210823064605im_/http://spidermedia.ru/assets/images/import_image/71.jpg",
+  "modx_id": 71,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

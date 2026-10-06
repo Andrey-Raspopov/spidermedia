@@ -1,7 +1,10 @@
 {
   "title": "Мюзикл Человек-Паук: Погасить Тьму",
-  "date": "2009-02-24T21:32:00+03:00",
+  "date": "2009-02-24T21:32:59+03:00",
   "url": "/news/myuzikl-chelovek-pauk-pogasit-tmu/",
+  "aliases": [
+    "/node/501/"
+  ],
   "original_url": "https://spidermedia.ru/news/myuzikl-chelovek-pauk-pogasit-tmu",
   "archived": "https://web.archive.org/web/20250807000047/https://spidermedia.ru/news/myuzikl-chelovek-pauk-pogasit-tmu",
   "tags": [
@@ -9,6 +12,12 @@
     "spider-man-turn-off-the-dark",
     "marvel",
     "spider-man"
+  ],
+  "cover": "https://web.archive.org/web/20250807000047im_/http://spidermedia.ru/assets/images/import_image/501.jpg",
+  "modx_id": 501,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

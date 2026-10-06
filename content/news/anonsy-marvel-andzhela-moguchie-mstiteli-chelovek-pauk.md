@@ -1,6 +1,6 @@
 {
   "title": "Анонсы Марвел: Анджела, Могучие Мстители, Человек-Паук",
-  "date": "2014-07-26T00:36:00+03:00",
+  "date": "2014-07-25T23:36:21+03:00",
   "url": "/news/anonsy-marvel-andzhela-moguchie-mstiteli-chelovek-pauk/",
   "original_url": "https://spidermedia.ru/news/anonsy-marvel-andzhela-moguchie-mstiteli-chelovek-pauk",
   "archived": "https://web.archive.org/web/20260215082016/https://spidermedia.ru/news/anonsy-marvel-andzhela-moguchie-mstiteli-chelovek-pauk",
@@ -10,6 +10,12 @@
     "marvel",
     "captain-america",
     "angela"
+  ],
+  "cover": "https://web.archive.org/web/20150326055108im_/http://spidermedia.ru/assets/images/import_image/7929.jpg",
+  "modx_id": 7929,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -7,6 +7,9 @@
   "tags": [
     "faq"
   ],
+  "sources": [
+    "archive"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

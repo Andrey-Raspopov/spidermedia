@@ -1,11 +1,17 @@
 {
   "title": "Светлейшие промо",
-  "date": "2010-04-02T09:38:00+03:00",
+  "date": "2010-04-02T08:38:59+03:00",
   "url": "/news/svetleyshie-promo/",
   "original_url": "http://spidermedia.ru/news/svetleyshie-promo",
   "archived": "https://web.archive.org/web/20250618120210/http://spidermedia.ru/news/svetleyshie-promo",
   "tags": [
     "svetlejshij-den"
+  ],
+  "cover": "https://web.archive.org/web/20250618120210im_/http://spidermedia.ru/assets/images/import_image/2499.png",
+  "modx_id": 2499,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

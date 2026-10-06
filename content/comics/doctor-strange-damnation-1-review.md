@@ -9,6 +9,12 @@
     "doctor-strange",
     "nik-spenser"
   ],
+  "cover": "https://web.archive.org/web/20260314083929im_/http://spidermedia.ru/assets/images/reviews/marvel/doctor-strange/damnation-1/mzk.jpg",
+  "modx_id": 101848,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

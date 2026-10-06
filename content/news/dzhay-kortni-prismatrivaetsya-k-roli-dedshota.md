@@ -1,6 +1,6 @@
 {
   "title": "Джай Кортни присматривается к роли Дэдшота",
-  "date": "2014-11-13T07:23:00+03:00",
+  "date": "2014-11-13T07:23:45+03:00",
   "url": "/news/dzhay-kortni-prismatrivaetsya-k-roli-dedshota/",
   "original_url": "https://spidermedia.ru/news/dzhay-kortni-prismatrivaetsya-k-roli-dedshota",
   "archived": "https://web.archive.org/web/20251206034452/https://spidermedia.ru/news/dzhay-kortni-prismatrivaetsya-k-roli-dedshota",
@@ -9,6 +9,12 @@
     "kasting",
     "dedshot",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150424123528im_/http://spidermedia.ru/assets/images/import_image/8285.jpg",
+  "modx_id": 8285,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

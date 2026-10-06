@@ -4,6 +4,12 @@
   "url": "/tv/piter-serafinovich-stanet-tikom/",
   "original_url": "http://spidermedia.ru/tv/piter-serafinovich-stanet-tikom",
   "archived": "https://web.archive.org/web/20220820002503/http://spidermedia.ru/tv/piter-serafinovich-stanet-tikom",
+  "cover": "https://web.archive.org/web/20220820002503im_/http://spidermedia.ru/assets/images/tv/tick/image00.jpg",
+  "modx_id": 101021,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

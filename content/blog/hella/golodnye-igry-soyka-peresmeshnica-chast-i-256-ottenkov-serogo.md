@@ -1,6 +1,6 @@
 {
   "title": "«Голодные игры: Сойка-пересмешница. Часть I»: 256 оттенков серого",
-  "date": "2014-11-21T14:03:00+03:00",
+  "date": "2014-11-21T14:03:35+03:00",
   "url": "/blog/hella/golodnye-igry-soyka-peresmeshnica-chast-i-256-ottenkov-serogo/",
   "original_url": "http://spidermedia.ru/blog/hella/golodnye-igry-soyka-peresmeshnica-chast-i-256-ottenkov-serogo",
   "archived": "https://web.archive.org/web/20150501130134/http://spidermedia.ru/blog/hella/golodnye-igry-soyka-peresmeshnica-chast-i-256-ottenkov-serogo",
@@ -8,6 +8,12 @@
     "otzyv",
     "kino",
     "golodnye-igry"
+  ],
+  "cover": "https://web.archive.org/web/20150501130134im_/http://spidermedia.ru/assets/images/import_image/8310.jpg",
+  "modx_id": 8310,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

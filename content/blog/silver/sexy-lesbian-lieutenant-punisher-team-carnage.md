@@ -1,7 +1,10 @@
 {
   "title": "Sexy Lesbian Lieutenant In Punisher Team-Up Carnage",
-  "date": "2009-01-30T03:22:00+03:00",
+  "date": "2009-01-30T03:22:25+03:00",
   "url": "/blog/silver/sexy-lesbian-lieutenant-punisher-team-carnage/",
+  "aliases": [
+    "/node/17/"
+  ],
   "original_url": "http://spidermedia.ru/blog/silver/sexy-lesbian-lieutenant-punisher-team-carnage",
   "archived": "https://web.archive.org/web/20251117010745/http://spidermedia.ru/blog/silver/sexy-lesbian-lieutenant-punisher-team-carnage",
   "tags": [
@@ -9,6 +12,12 @@
     "garth-ennis",
     "punisher",
     "steve-dillon"
+  ],
+  "cover": "https://web.archive.org/web/20251117010745im_/http://spidermedia.ru/assets/images/import_image/17.jpg",
+  "modx_id": 17,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

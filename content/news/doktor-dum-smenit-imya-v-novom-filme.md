@@ -1,12 +1,18 @@
 {
   "title": "Доктор Дум сменит имя в новом фильме",
-  "date": "2014-11-11T14:10:00+03:00",
+  "date": "2014-11-11T14:10:19+03:00",
   "url": "/news/doktor-dum-smenit-imya-v-novom-filme/",
   "original_url": "http://spidermedia.ru/news/doktor-dum-smenit-imya-v-novom-filme",
   "archived": "https://web.archive.org/web/20251206025543/http://spidermedia.ru/news/doktor-dum-smenit-imya-v-novom-filme",
   "tags": [
     "fantastic-four",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20251206025543im_/http://spidermedia.ru/assets/images/import_image/8281.jpg",
+  "modx_id": 8281,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

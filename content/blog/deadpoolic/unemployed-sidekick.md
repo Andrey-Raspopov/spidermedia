@@ -1,11 +1,17 @@
 {
   "title": "Unemployed Sidekick",
-  "date": "2010-09-10T15:33:00+03:00",
+  "date": "2010-09-10T14:33:03+03:00",
   "url": "/blog/deadpoolic/unemployed-sidekick/",
   "original_url": "http://spidermedia.ru/blog/deadpoolic/unemployed-sidekick",
   "archived": "https://web.archive.org/web/20111018065017/http://spidermedia.ru/blog/deadpoolic/unemployed-sidekick",
   "tags": [
-    "video-0"
+    "video-0",
+    "video"
+  ],
+  "modx_id": 2902,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "Пара слов о Красном Робине",
-  "date": "2009-08-22T03:22:00+03:00",
+  "date": "2009-08-22T02:22:57+03:00",
   "url": "/news/para-slov-o-krasnom-robine/",
+  "aliases": [
+    "/node/1813/"
+  ],
   "original_url": "https://spidermedia.ru/news/para-slov-o-krasnom-robine",
   "archived": "https://web.archive.org/web/20251213183050/https://spidermedia.ru/news/para-slov-o-krasnom-robine",
   "tags": [
@@ -9,6 +12,11 @@
     "krasnyj-robin",
     "red-robin",
     "dc-comics"
+  ],
+  "modx_id": 1813,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

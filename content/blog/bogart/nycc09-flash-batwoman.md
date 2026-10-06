@@ -1,14 +1,24 @@
 {
   "title": "NYCC'09 - Flash & Batwoman",
-  "date": "2009-02-06T19:18:00+03:00",
+  "date": "2009-02-06T19:18:29+03:00",
   "url": "/blog/bogart/nycc09-flash-batwoman/",
+  "aliases": [
+    "/node/230/"
+  ],
   "original_url": "https://spidermedia.ru/blog/bogart/nycc09-flash-batwoman",
   "archived": "https://web.archive.org/web/20260117224149/https://spidermedia.ru/blog/bogart/nycc09-flash-batwoman",
   "tags": [
     "dc-comics",
     "the-flash",
     "preview",
-    "betvuman"
+    "betvuman",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20260117224149im_/http://spidermedia.ru/assets/images/import_image/230.jpg",
+  "modx_id": 230,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

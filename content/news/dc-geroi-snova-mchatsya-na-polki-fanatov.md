@@ -1,7 +1,10 @@
 {
   "title": "DC герои снова мчатся на полки фанатов!",
-  "date": "2009-05-15T00:54:00+03:00",
+  "date": "2009-05-14T23:54:43+03:00",
   "url": "/news/dc-geroi-snova-mchatsya-na-polki-fanatov/",
+  "aliases": [
+    "/node/1190/"
+  ],
   "original_url": "http://spidermedia.ru/news/dc-geroi-snova-mchatsya-na-polki-fanatov",
   "archived": "https://web.archive.org/web/20260312012056/http://spidermedia.ru/news/dc-geroi-snova-mchatsya-na-polki-fanatov",
   "tags": [
@@ -11,6 +14,12 @@
     "superman",
     "aquaman",
     "wonder-woman"
+  ],
+  "cover": "https://web.archive.org/web/20260312012056im_/http://spidermedia.ru/assets/images/justice_league___logo_by_kakkay-d3hq5l2.jpg",
+  "modx_id": 1190,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

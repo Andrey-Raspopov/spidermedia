@@ -1,7 +1,10 @@
 {
   "title": "Найди Мстителя",
-  "date": "2010-07-15T23:26:00+03:00",
+  "date": "2010-07-15T22:26:12+03:00",
   "url": "/news/naydi-mstitelya/",
+  "aliases": [
+    "/node/2733/"
+  ],
   "original_url": "http://spidermedia.ru/news/naydi-mstitelya",
   "archived": "https://web.archive.org/web/20120613030756/http://spidermedia.ru/news/naydi-mstitelya",
   "tags": [
@@ -12,7 +15,14 @@
     "marvel",
     "marvelmen",
     "mstiteli",
-    "tizery"
+    "tizery",
+    "san-diego-comic-con-international"
+  ],
+  "cover": "https://web.archive.org/web/20120613030756im_/http://spidermedia.ru/assets/images/import_image/2733.jpg",
+  "modx_id": 2733,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

@@ -1,12 +1,18 @@
 {
   "title": "День \"Стражей галактики\" в IMAX",
-  "date": "2014-07-01T17:17:00+03:00",
+  "date": "2014-07-01T16:17:25+03:00",
   "url": "/news/den-strazhey-galaktiki-v-imax/",
   "original_url": "http://spidermedia.ru/news/den-strazhey-galaktiki-v-imax",
   "archived": "https://web.archive.org/web/20251107000848/http://spidermedia.ru/news/den-strazhey-galaktiki-v-imax",
   "tags": [
     "guardians-of-the-galaxy",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150424082426im_/http://spidermedia.ru/assets/images/import_image/7852.jpg",
+  "modx_id": 7852,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "Подготовка к Captain America: Reborn #4",
-  "date": "2009-08-07T17:43:00+03:00",
+  "date": "2009-08-07T16:43:13+03:00",
   "url": "/news/podgotovka-k-captain-america-reborn-4/",
+  "aliases": [
+    "/node/1737/"
+  ],
   "original_url": "https://spidermedia.ru/news/podgotovka-k-captain-america-reborn-4",
   "archived": "https://web.archive.org/web/20260314075854/https://spidermedia.ru/news/podgotovka-k-captain-america-reborn-4",
   "tags": [
@@ -14,7 +17,14 @@
     "reborn",
     "marvel",
     "dr.-doom",
-    "captain-america"
+    "captain-america",
+    "prevyu",
+    "brayan-hitch"
+  ],
+  "modx_id": 1737,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -9,6 +9,12 @@
     "marvel",
     "agent-karter"
   ],
+  "cover": "https://web.archive.org/web/20240304125135im_/https://spidermedia.ru/assets/images/tv/marvel/agent-carter/agent-carter-season-2-renewal-poster.jpg",
+  "modx_id": 100996,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

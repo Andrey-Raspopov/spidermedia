@@ -1,6 +1,6 @@
 {
   "title": "Spider-Man: Big Time (Трейлер)",
-  "date": "2010-10-16T21:04:00+03:00",
+  "date": "2010-10-16T20:04:13+03:00",
   "url": "/news/spider-man-big-time-treyler/",
   "original_url": "https://spidermedia.ru/news/spider-man-big-time-treyler",
   "archived": "https://web.archive.org/web/20251108025504/https://spidermedia.ru/news/spider-man-big-time-treyler",
@@ -9,7 +9,13 @@
     "preview",
     "den-slott",
     "marvel",
-    "spider-man"
+    "spider-man",
+    "prevyu"
+  ],
+  "modx_id": 3014,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

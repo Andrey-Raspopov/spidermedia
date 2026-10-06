@@ -1,6 +1,6 @@
 {
   "title": "Под знаком Луны",
-  "date": "2011-02-04T23:30:00+03:00",
+  "date": "2011-02-04T23:30:05+03:00",
   "url": "/news/pod-znakom-luny/",
   "original_url": "http://spidermedia.ru/news/pod-znakom-luny",
   "archived": "https://web.archive.org/web/20251108032245/http://spidermedia.ru/news/pod-znakom-luny",
@@ -9,7 +9,14 @@
     "brian-michael-bendis",
     "art-0",
     "alex-maleev",
-    "marvel"
+    "marvel",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20251108032245im_/http://spidermedia.ru/assets/images/import_image/3210.jpg",
+  "modx_id": 3210,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

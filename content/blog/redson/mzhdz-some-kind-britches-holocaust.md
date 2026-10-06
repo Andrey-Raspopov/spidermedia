@@ -1,12 +1,18 @@
 {
   "title": "МЖДЗ: SOME KIND OF BRITCHES HOLOCAUST",
-  "date": "2011-06-15T15:05:00+03:00",
+  "date": "2011-06-15T14:05:32+03:00",
   "url": "/blog/redson/mzhdz-some-kind-britches-holocaust/",
   "original_url": "http://spidermedia.ru/blog/redson/mzhdz-some-kind-britches-holocaust",
   "archived": "https://web.archive.org/web/20260206231533/http://spidermedia.ru/blog/redson/mzhdz-some-kind-britches-holocaust",
   "tags": [
     "mnenie",
     "mzhdz"
+  ],
+  "cover": "https://web.archive.org/web/20260206231533im_/http://spidermedia.ru/assets/images/import_image/6449.jpg",
+  "modx_id": 6449,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

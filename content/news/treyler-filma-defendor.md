@@ -1,13 +1,21 @@
 {
   "title": "Трейлер фильма \"DEFENDOR\"",
-  "date": "2009-09-03T12:15:00+03:00",
+  "date": "2009-09-03T11:15:12+03:00",
   "url": "/news/treyler-filma-defendor/",
+  "aliases": [
+    "/node/1869/"
+  ],
   "original_url": "https://spidermedia.ru/news/treyler-filma-defendor",
   "archived": "https://web.archive.org/web/20250512111305/https://spidermedia.ru/news/treyler-filma-defendor",
   "tags": [
     "vudi-harrelson",
     "defendor",
     "trejlery"
+  ],
+  "modx_id": 1869,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Hellboymedia: Арт-трибьют к юбилею Хэллбоя от Артёма Думова",
-  "date": "2014-12-15T15:03:00+03:00",
+  "date": "2014-12-15T15:03:59+03:00",
   "url": "/blog/shargor/hellboymedia-art-tribyut-k-yubileyu-hellboya-ot-artyoma-dumova/",
   "original_url": "https://spidermedia.ru/blog/shargor/hellboymedia-art-tribyut-k-yubileyu-hellboya-ot-artyoma-dumova",
   "archived": "https://web.archive.org/web/20251216184212/https://spidermedia.ru/blog/shargor/hellboymedia-art-tribyut-k-yubileyu-hellboya-ot-artyoma-dumova",
@@ -8,6 +8,12 @@
     "art-tribyut",
     "hellboymedia",
     "20-let-hellboya"
+  ],
+  "cover": "https://web.archive.org/web/20160611220933im_/http://spidermedia.ru/assets/images/hellboymedia/project-01-anniversary/art-tributes-roddoom/artem-dumov-cover.jpg",
+  "modx_id": 8380,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

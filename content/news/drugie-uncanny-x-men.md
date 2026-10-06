@@ -1,6 +1,6 @@
 {
   "title": "Другие Uncanny X-Men",
-  "date": "2011-02-25T23:15:00+03:00",
+  "date": "2011-02-25T23:15:53+03:00",
   "url": "/news/drugie-uncanny-x-men/",
   "original_url": "https://spidermedia.ru/news/drugie-uncanny-x-men",
   "archived": "https://web.archive.org/web/20260214130900/https://spidermedia.ru/news/drugie-uncanny-x-men",
@@ -9,7 +9,16 @@
     "art-0",
     "x-men",
     "mmxi",
-    "marvel"
+    "marvel",
+    "art",
+    "lyudi-iks",
+    "uncanny-x-men"
+  ],
+  "cover": "https://web.archive.org/web/20260214130900im_/http://spidermedia.ru/assets/images/import_image/3711.jpg",
+  "modx_id": 3711,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

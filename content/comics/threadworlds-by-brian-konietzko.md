@@ -4,6 +4,12 @@
   "url": "/comics/threadworlds-by-brian-konietzko/",
   "original_url": "http://spidermedia.ru/comics/threadworlds-by-brian-konietzko",
   "archived": "https://web.archive.org/web/20200218015342/http://spidermedia.ru:80/comics/threadworlds-by-brian-konietzko",
+  "cover": "https://web.archive.org/web/20200218015342im_/http://spidermedia.ru/assets/images/news/first-second/threadworlds-01.jpg",
+  "modx_id": 100319,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

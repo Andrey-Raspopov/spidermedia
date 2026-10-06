@@ -1,6 +1,6 @@
 {
   "title": "Почему Супермен - убийца?",
-  "date": "2013-06-24T11:54:00+03:00",
+  "date": "2013-06-24T10:54:38+03:00",
   "url": "/blog/igrok/pochemu-supermen-ubiyca/",
   "original_url": "http://spidermedia.ru/blog/igrok/pochemu-supermen-ubiyca",
   "archived": "https://web.archive.org/web/20260309185008/http://spidermedia.ru/blog/igrok/pochemu-supermen-ubiyca",
@@ -11,6 +11,12 @@
     "dc-comics",
     "chelovek-iz-stali",
     "man-of-steel"
+  ],
+  "cover": "https://web.archive.org/web/20260309185008im_/http://spidermedia.ru/assets/images/import_image/7300.jpg",
+  "modx_id": 7300,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

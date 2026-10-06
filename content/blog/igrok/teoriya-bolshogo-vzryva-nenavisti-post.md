@@ -1,12 +1,19 @@
 {
   "title": "Теория большого взрыва: ненависти пост",
-  "date": "2013-05-27T12:13:00+03:00",
+  "date": "2013-05-27T11:13:28+03:00",
   "url": "/blog/igrok/teoriya-bolshogo-vzryva-nenavisti-post/",
   "original_url": "https://spidermedia.ru/blog/igrok/teoriya-bolshogo-vzryva-nenavisti-post",
   "archived": "https://web.archive.org/web/20260125130435/https://spidermedia.ru/blog/igrok/teoriya-bolshogo-vzryva-nenavisti-post",
   "tags": [
     "serialy",
-    "mnenie"
+    "mnenie",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20150326221438im_/http://spidermedia.ru/assets/images/import_image/7254.jpg",
+  "modx_id": 7254,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

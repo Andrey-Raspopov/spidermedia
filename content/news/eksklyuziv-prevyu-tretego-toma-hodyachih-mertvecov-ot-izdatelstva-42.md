@@ -1,6 +1,6 @@
 {
   "title": "ЭКСКЛЮЗИВ: превью третьего тома «Ходячих мертвецов» от издательства «42»",
-  "date": "2015-01-13T20:50:00+03:00",
+  "date": "2015-01-13T20:50:25+03:00",
   "url": "/news/eksklyuziv-prevyu-tretego-toma-hodyachih-mertvecov-ot-izdatelstva-42/",
   "original_url": "https://spidermedia.ru/news/eksklyuziv-prevyu-tretego-toma-hodyachih-mertvecov-ot-izdatelstva-42",
   "archived": "https://web.archive.org/web/20251216121925/https://spidermedia.ru/news/eksklyuziv-prevyu-tretego-toma-hodyachih-mertvecov-ot-izdatelstva-42",
@@ -9,6 +9,12 @@
     "image-comics",
     "izdatelstvo-42",
     "zarubezhnye-komiksy-na-russkom"
+  ],
+  "cover": "https://web.archive.org/web/20150327041737im_/http://spidermedia.ru/assets/images/import_image/8498.png",
+  "modx_id": 8498,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -10,6 +10,12 @@
     "chris-samnee",
     "mark-waid"
   ],
+  "cover": "https://web.archive.org/web/20251208072659im_/http://spidermedia.ru/assets/images/reviews/marvel/captain-america/ongoing/695/3.jpg",
+  "modx_id": 101708,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

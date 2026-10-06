@@ -1,13 +1,20 @@
 {
   "title": "Халк дичать",
-  "date": "2014-03-12T09:18:00+03:00",
+  "date": "2014-03-12T08:18:38+03:00",
   "url": "/news/halk-dichat/",
   "original_url": "http://spidermedia.ru/news/halk-dichat",
   "archived": "https://web.archive.org/web/20150426231018/http://spidermedia.ru/news/halk-dichat",
   "tags": [
     "alan-devis",
     "dzhim-starlin",
-    "marvel-comics"
+    "marvel-comics",
+    "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150426231018im_/http://spidermedia.ru/assets/images/import_image/7682.jpg",
+  "modx_id": 7682,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

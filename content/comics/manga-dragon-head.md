@@ -7,6 +7,12 @@
   "tags": [
     "manga"
   ],
+  "cover": "https://web.archive.org/web/20260116204349im_/http://spidermedia.ru/assets/images/manga/others/dragon-head/risunok-1.jpg",
+  "modx_id": 102040,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

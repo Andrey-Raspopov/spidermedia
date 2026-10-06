@@ -1,12 +1,18 @@
 {
   "title": "Коп с топором",
-  "date": "2012-10-30T18:39:00+03:00",
+  "date": "2012-10-30T17:39:09+03:00",
   "url": "/news/kop-s-toporom/",
   "original_url": "http://spidermedia.ru/news/kop-s-toporom",
   "archived": "https://web.archive.org/web/20260124051533/http://spidermedia.ru/news/kop-s-toporom",
   "tags": [
     "veb-komiksy",
     "animaciya"
+  ],
+  "cover": "https://web.archive.org/web/20150428171130im_/http://spidermedia.ru/assets/images/import_image/7078.jpg",
+  "modx_id": 7078,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -4,6 +4,12 @@
   "url": "/games/prezentaciya-nintendo-switch-cena-igry-i-drugie-podrobnosti/",
   "original_url": "http://spidermedia.ru/games/prezentaciya-nintendo-switch-cena-igry-i-drugie-podrobnosti",
   "archived": "https://web.archive.org/web/20200806125329/http://spidermedia.ru/games/prezentaciya-nintendo-switch-cena-igry-i-drugie-podrobnosti",
+  "cover": "https://web.archive.org/web/20170909000514im_/http://spidermedia.ru/assets/images/games/ninswitch/ad78274f-f728-459b-9878-6eb3208f995f.jpg",
+  "modx_id": 101474,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

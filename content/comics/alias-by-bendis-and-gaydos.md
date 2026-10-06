@@ -9,6 +9,12 @@
     "brian-michael-bendis",
     "jessica-jones-alias"
   ],
+  "cover": "https://web.archive.org/web/20160405123546im_/http://spidermedia.ru/assets/images/articles/alias/01.jpg",
+  "modx_id": 100718,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

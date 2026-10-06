@@ -1,12 +1,21 @@
 {
   "title": "DVD - что интересного до конца года?",
-  "date": "2009-08-29T14:08:00+03:00",
+  "date": "2009-08-29T13:08:32+03:00",
   "url": "/blog/alex/dvd-chto-interesnogo-do-konca-goda/",
+  "aliases": [
+    "/node/1841/"
+  ],
   "original_url": "https://spidermedia.ru/blog/alex/dvd-chto-interesnogo-do-konca-goda",
   "archived": "https://web.archive.org/web/20251006142017/https://spidermedia.ru/blog/alex/dvd-chto-interesnogo-do-konca-goda",
   "tags": [
     "terminator",
     "hraniteli"
+  ],
+  "cover": "https://web.archive.org/web/20251006142017im_/http://spidermedia.ru/assets/images/import_image/1841.jpg",
+  "modx_id": 1841,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

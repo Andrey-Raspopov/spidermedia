@@ -1,12 +1,21 @@
 {
   "title": "Ох и нифига же...",
-  "date": "2009-07-20T10:20:00+03:00",
+  "date": "2009-07-20T09:20:49+03:00",
   "url": "/blog/gess/oh-i-nifiga-zhe/",
+  "aliases": [
+    "/node/1606/"
+  ],
   "original_url": "http://spidermedia.ru/blog/gess/oh-i-nifiga-zhe",
   "archived": "https://web.archive.org/web/20240305044455/http://spidermedia.ru/blog/gess/oh-i-nifiga-zhe",
   "tags": [
     "geoff-johns",
     "the-flash"
+  ],
+  "cover": "https://web.archive.org/web/20240305044455im_/http://spidermedia.ru/assets/images/import_image/1606.jpg",
+  "modx_id": 1606,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -9,6 +9,9 @@
     "kino",
     "transformers"
   ],
+  "sources": [
+    "archive"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
@@ -20,5 +23,5 @@
 А между тем на [блоге](http://transformerslive.blogspot.com) фильма официально были названы имена некоторых новых автоботов:
 
 - **Sideswipe** - **Chevrolet Corvette Stingray Concept**
-- **[Skids и Mudflap](../../node/56/)** - роботы-близнецы предстанут перед нами в виде **Chevy Beat** и **Chevy Trax**
+- **[Skids и Mudflap](../transformery-bliznecy/)** - роботы-близнецы предстанут перед нами в виде **Chevy Beat** и **Chevy Trax**
 - **Jolt** - **Chevrolet Volt**

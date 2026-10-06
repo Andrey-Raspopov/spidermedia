@@ -1,13 +1,19 @@
 {
   "title": "Супермен ненавидит стены",
-  "date": "2010-07-14T15:58:00+03:00",
+  "date": "2010-07-14T14:58:27+03:00",
   "url": "/blog/sterpazook/supermen-nenavidit-steny/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/supermen-nenavidit-steny",
   "archived": "https://web.archive.org/web/20260307064012/http://spidermedia.ru/blog/sterpazook/supermen-nenavidit-steny",
   "tags": [
     "superman",
     "serialy",
-    "yumor"
+    "yumor",
+    "tv"
+  ],
+  "modx_id": 2727,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

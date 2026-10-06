@@ -1,6 +1,6 @@
 {
   "title": "Мобильный Темный Рыцарь",
-  "date": "2012-06-15T16:00:00+03:00",
+  "date": "2012-06-15T15:00:58+03:00",
   "url": "/news/mobilnyy-temnyy-rycar/",
   "original_url": "https://spidermedia.ru/news/mobilnyy-temnyy-rycar",
   "archived": "https://web.archive.org/web/20260209114524/https://spidermedia.ru/news/mobilnyy-temnyy-rycar",
@@ -11,6 +11,12 @@
     "gameloft",
     "dc-comics",
     "dark-knight-rises"
+  ],
+  "cover": "https://web.archive.org/web/20150326040127im_/http://spidermedia.ru/assets/images/import_image/6931.jpg",
+  "modx_id": 6931,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

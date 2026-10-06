@@ -1,7 +1,10 @@
 {
   "title": "Из прошлого в будущее",
-  "date": "2009-05-13T21:38:00+03:00",
+  "date": "2009-05-13T20:38:06+03:00",
   "url": "/news/iz-proshlogo-v-budushchee/",
+  "aliases": [
+    "/node/1173/"
+  ],
   "original_url": "http://spidermedia.ru/news/iz-proshlogo-v-budushchee",
   "archived": "https://web.archive.org/web/20120607112841/http://spidermedia.ru/news/iz-proshlogo-v-budushchee",
   "tags": [
@@ -13,7 +16,15 @@
     "lyudi-iks",
     "marvel",
     "uesli-kreyg",
-    "chelovek-pauk"
+    "chelovek-pauk",
+    "uesli-krejg",
+    "brajan-rid"
+  ],
+  "cover": "https://web.archive.org/web/20120607112841im_/http://spidermedia.ru/assets/images/import_image/1173.jpg",
+  "modx_id": 1173,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"
@@ -21,7 +32,7 @@
 
 ]]>[![](https://web.archive.org/web/20120607112841im_/http://www.picamatic.com/show/2009/05/13/04/46/3629547_bigthumb.jpg)](http://www.picamatic.com/view/3629547_TimestormSpider-Man2/)]]> ]]>[![](https://web.archive.org/web/20120607112841im_/http://www.picamatic.com/show/2009/05/13/04/45/3629544_bigthumb.jpg)](http://www.picamatic.com/view/3629544_X-MEN-2099/)]]>
 
-Относительно [ван-шотов](../../node/754/) в рамках **Timestorm 2009-2099** появились новые подробности.
+Относительно [ван-шотов](../novoe-shtormovoe-preduprezhdenie/) в рамках **Timestorm 2009-2099** появились новые подробности.
 
 В первом выпуске мини-серии **Timestorm 2009-2099**, который вышел в печать недавно, перед нами предстает будущее глазами современного **Человека-Паука** *(Spider-Man)*. Все погрязло в неоне и рекламе, где главная роль отведена старым героям, когда-то спасавшие и оберегавшие этот мир. Голограмма **Рида Ричардса** *(Reed Richards)* учит детей, **Капитан Америка** *(Captain America)* рекламирует напиток; словом - былые заслуги превратились в инструмент корпораций будущего, где место нашлось и всеохватывающей **Сети Честности** *(The Honesty Web)*, способной доложить любому, чем вы занимаетесь в данный момент. Таков мир будет через 90 лет, но смогут ли его изменить пришельцы из прошлого?
 

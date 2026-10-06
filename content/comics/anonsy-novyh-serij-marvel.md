@@ -7,7 +7,14 @@
   "tags": [
     "marvel",
     "iron-man",
-    "avengers"
+    "avengers",
+    "zheleznyy-chelovek"
+  ],
+  "cover": "https://web.archive.org/web/20220314123148im_/http://spidermedia.ru/assets/images/news/marvel/new/6.jpg",
+  "modx_id": 101251,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

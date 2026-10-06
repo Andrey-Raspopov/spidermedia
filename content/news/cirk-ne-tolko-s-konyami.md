@@ -1,6 +1,6 @@
 {
   "title": "Цирк не только с конями",
-  "date": "2013-04-27T07:12:00+03:00",
+  "date": "2013-04-27T06:12:53+03:00",
   "url": "/news/cirk-ne-tolko-s-konyami/",
   "original_url": "http://spidermedia.ru/news/cirk-ne-tolko-s-konyami",
   "archived": "https://web.archive.org/web/20251012170455/http://spidermedia.ru/news/cirk-ne-tolko-s-konyami",
@@ -9,6 +9,12 @@
     "majk-minola",
     "dankan-fegredo",
     "dark-horse"
+  ],
+  "cover": "https://web.archive.org/web/20251012170455im_/http://spidermedia.ru/assets/images/import_image/7229.jpg",
+  "modx_id": 7229,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

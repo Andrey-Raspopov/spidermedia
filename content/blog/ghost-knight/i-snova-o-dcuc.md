@@ -1,13 +1,22 @@
 {
   "title": "И снова о DCUC...",
-  "date": "2009-02-01T18:59:00+03:00",
+  "date": "2009-02-01T18:59:30+03:00",
   "url": "/blog/ghost-knight/i-snova-o-dcuc/",
+  "aliases": [
+    "/node/80/"
+  ],
   "original_url": "http://spidermedia.ru/blog/ghost-knight/i-snova-o-dcuc",
   "archived": "https://web.archive.org/web/20260120235214/http://spidermedia.ru/blog/ghost-knight/i-snova-o-dcuc",
   "tags": [
     "figurki",
     "mattel",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20260120235214im_/http://spidermedia.ru/assets/images/import_image/80.jpg",
+  "modx_id": 80,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

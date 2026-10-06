@@ -7,6 +7,12 @@
   "tags": [
     "dark-horse"
   ],
+  "cover": "https://web.archive.org/web/20240913061439im_/http://spidermedia.ru/assets/images/news/dark-horse/halo/halo.png",
+  "modx_id": 101005,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

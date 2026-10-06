@@ -1,7 +1,10 @@
 {
   "title": "Картографы для Негативной Зоны",
-  "date": "2009-02-07T05:19:00+03:00",
+  "date": "2009-02-07T05:19:36+03:00",
   "url": "/news/kartografy-dlya-negativnoy-zony/",
+  "aliases": [
+    "/node/246/"
+  ],
   "original_url": "http://spidermedia.ru/news/kartografy-dlya-negativnoy-zony",
   "archived": "https://web.archive.org/web/20260214140855/http://spidermedia.ru/news/kartografy-dlya-negativnoy-zony",
   "tags": [
@@ -14,7 +17,13 @@
     "thing",
     "human-torch",
     "invisible-woman",
-    "mr-fantastic"
+    "mr-fantastic",
+    "fantasticheskaya-chetverka"
+  ],
+  "modx_id": 246,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

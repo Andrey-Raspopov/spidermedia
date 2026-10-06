@@ -1,6 +1,6 @@
 {
   "title": "Не ребут",
-  "date": "2012-07-04T06:31:00+03:00",
+  "date": "2012-07-04T05:31:39+03:00",
   "url": "/news/ne-rebut/",
   "original_url": "http://spidermedia.ru/news/ne-rebut",
   "archived": "https://web.archive.org/web/20260312015936/http://spidermedia.ru/news/ne-rebut",
@@ -13,7 +13,14 @@
     "rik-remender",
     "brian-michael-bendis",
     "dzhonatan-hikman",
-    "marvel"
+    "marvel",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20260312015936im_/http://spidermedia.ru/assets/images/import_image/6956.jpg",
+  "modx_id": 6956,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

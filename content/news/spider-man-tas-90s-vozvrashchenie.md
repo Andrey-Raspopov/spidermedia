@@ -1,14 +1,23 @@
 {
   "title": "Spider-Man: TAS (90's) - Возвращение!",
-  "date": "2009-08-06T02:31:00+03:00",
+  "date": "2009-08-06T01:31:39+03:00",
   "url": "/news/spider-man-tas-90s-vozvrashchenie/",
+  "aliases": [
+    "/node/1729/"
+  ],
   "original_url": "http://spidermedia.ru/news/spider-man-tas-90s-vozvrashchenie",
   "archived": "https://web.archive.org/web/20241109062924/http://spidermedia.ru/news/spider-man-tas-90s-vozvrashchenie",
   "tags": [
     "serialy",
     "animaciya",
     "marvel",
-    "spider-man"
+    "spider-man",
+    "tv"
+  ],
+  "modx_id": 1729,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

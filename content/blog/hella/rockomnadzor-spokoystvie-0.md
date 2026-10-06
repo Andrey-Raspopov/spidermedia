@@ -1,6 +1,6 @@
 {
   "title": "РоcКомНадзор: спокойствие",
-  "date": "2015-02-13T11:01:00+03:00",
+  "date": "2015-02-13T11:01:18+03:00",
   "url": "/blog/hella/rockomnadzor-spokoystvie-0/",
   "original_url": "http://spidermedia.ru/blog/hella/rockomnadzor-spokoystvie-0",
   "archived": "https://web.archive.org/web/20260123083402/http://spidermedia.ru/blog/hella/rockomnadzor-spokoystvie-0",
@@ -8,6 +8,12 @@
     "russian-comics",
     "roskomnadzor",
     "zarubezhnye-komiksy-na-russkom"
+  ],
+  "cover": "https://web.archive.org/web/20150328214421im_/http://spidermedia.ru/assets/images/import_image/8610.png",
+  "modx_id": 8610,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -7,6 +7,12 @@
   "tags": [
     "titan-comics"
   ],
+  "cover": "https://web.archive.org/web/20220314055557im_/http://spidermedia.ru/assets/images/news/titan-comics/thetroop.jpg",
+  "modx_id": 100565,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

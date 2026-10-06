@@ -1,11 +1,17 @@
 {
   "title": "Panty and Stocking with Garterbelt",
-  "date": "2010-09-08T18:11:00+03:00",
+  "date": "2010-09-08T17:11:53+03:00",
   "url": "/blog/plane-v/panty-and-stocking-garterbelt/",
   "original_url": "http://spidermedia.ru/blog/plane-v/panty-and-stocking-garterbelt",
   "archived": "https://web.archive.org/web/20260209123312/http://spidermedia.ru/blog/plane-v/panty-and-stocking-garterbelt",
   "tags": [
     "anime"
+  ],
+  "cover": "https://web.archive.org/web/20150315210246im_/http://spidermedia.ru/assets/images/ecahznqzhc4.jpg",
+  "modx_id": 2897,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

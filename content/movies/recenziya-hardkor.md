@@ -7,6 +7,12 @@
   "tags": [
     "recenziya"
   ],
+  "cover": "https://web.archive.org/web/20250120000311im_/http://spidermedia.ru/assets/images/movies/russian/hardcore/hardcorehenry_quad50-lores.jpg",
+  "modx_id": 101054,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

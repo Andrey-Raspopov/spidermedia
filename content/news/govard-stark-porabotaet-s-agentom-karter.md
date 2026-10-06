@@ -1,13 +1,20 @@
 {
   "title": "Говард Старк поработает с агентом Картер",
-  "date": "2014-09-30T21:15:00+03:00",
+  "date": "2014-09-30T20:15:29+03:00",
   "url": "/news/govard-stark-porabotaet-s-agentom-karter/",
   "original_url": "http://spidermedia.ru/news/govard-stark-porabotaet-s-agentom-karter",
   "archived": "https://web.archive.org/web/20250618124423/http://spidermedia.ru/news/govard-stark-porabotaet-s-agentom-karter",
   "tags": [
     "agent-karter",
     "serialy",
-    "kasting"
+    "kasting",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20250618124423im_/http://spidermedia.ru/assets/images/import_image/8117.jpg",
+  "modx_id": 8117,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

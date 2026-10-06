@@ -1,7 +1,10 @@
 {
   "title": "The perfect storm",
-  "date": "2010-04-24T01:06:00+03:00",
+  "date": "2010-04-24T00:06:26+03:00",
   "url": "/blog/plane-v/perfect-storm/",
+  "aliases": [
+    "/node/2577/"
+  ],
   "original_url": "https://spidermedia.ru/blog/plane-v/perfect-storm",
   "archived": "https://web.archive.org/web/20250119230602/https://spidermedia.ru/blog/plane-v/perfect-storm",
   "tags": [
@@ -9,6 +12,12 @@
     "veb-komiksy",
     "aquaman",
     "outrageous"
+  ],
+  "cover": "https://web.archive.org/web/20250119230602im_/http://spidermedia.ru/assets/images/import_image/2577.png",
+  "modx_id": 2577,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

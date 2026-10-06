@@ -1,7 +1,10 @@
 {
   "title": "NYCC'10: Marvel Television Presents - Marvel Anime",
-  "date": "2010-10-11T13:23:00+03:00",
+  "date": "2010-10-11T12:23:33+03:00",
   "url": "/news/nycc10-marvel-television-presents-marvel-anime/",
+  "aliases": [
+    "/node/2997/"
+  ],
   "original_url": "http://spidermedia.ru/news/nycc10-marvel-television-presents-marvel-anime",
   "archived": "https://web.archive.org/web/20260309182225/http://spidermedia.ru/news/nycc10-marvel-television-presents-marvel-anime",
   "tags": [
@@ -12,6 +15,11 @@
     "nycc-2010",
     "new-york-comic-con",
     "marvel"
+  ],
+  "modx_id": 2997,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,11 +1,20 @@
 {
   "title": "Pop Art Productions",
-  "date": "2010-11-27T16:18:00+03:00",
+  "date": "2010-11-27T16:18:45+03:00",
   "url": "/news/pop-art-productions/",
+  "aliases": [
+    "/node/3082/"
+  ],
   "original_url": "http://spidermedia.ru/news/pop-art-productions",
   "archived": "https://web.archive.org/web/20251206043527/http://spidermedia.ru/news/pop-art-productions",
   "tags": [
     "image-comics"
+  ],
+  "cover": "https://web.archive.org/web/20251206043527im_/http://spidermedia.ru/assets/images/import_image/3082.jpg",
+  "modx_id": 3082,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

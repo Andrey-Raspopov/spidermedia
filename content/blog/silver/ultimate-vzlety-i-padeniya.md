@@ -1,11 +1,17 @@
 {
   "title": "Ultimate: взлеты и падения",
-  "date": "2010-06-21T00:31:00+03:00",
+  "date": "2010-06-20T23:31:53+03:00",
   "url": "/blog/silver/ultimate-vzlety-i-padeniya/",
   "original_url": "http://spidermedia.ru/blog/silver/ultimate-vzlety-i-padeniya",
   "archived": "https://web.archive.org/web/20190907234032/http://spidermedia.ru:80/blog/silver/ultimate-vzlety-i-padeniya",
   "tags": [
     "ultimate"
+  ],
+  "cover": "https://web.archive.org/web/20190907234032im_/http://spidermedia.ru/assets/images/import_image/2681.jpg",
+  "modx_id": 2681,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -9,6 +9,12 @@
     "neil-gaiman",
     "zarubezhnye-komiksy-na-russkom"
   ],
+  "cover": "https://web.archive.org/web/20160611154811im_/http://spidermedia.ru/assets/images/reviews/xl-media/gaiman/wwgawcxcwia.jpg",
+  "modx_id": 100159,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

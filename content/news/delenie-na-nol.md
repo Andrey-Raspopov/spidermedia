@@ -1,6 +1,6 @@
 {
   "title": "Деление на ноль",
-  "date": "2012-06-08T16:36:00+03:00",
+  "date": "2012-06-08T15:36:10+03:00",
   "url": "/news/delenie-na-nol/",
   "original_url": "https://spidermedia.ru/news/delenie-na-nol",
   "archived": "https://web.archive.org/web/20251216171835/https://spidermedia.ru/news/delenie-na-nol",
@@ -12,6 +12,12 @@
     "aaron-lopresti",
     "phantom-stranger",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150502201814im_/http://spidermedia.ru/assets/images/import_image/6923.jpg",
+  "modx_id": 6923,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

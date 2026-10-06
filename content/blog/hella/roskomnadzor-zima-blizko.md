@@ -1,6 +1,6 @@
 {
   "title": "РосКомНадзор: зима близко",
-  "date": "2014-11-21T11:19:00+03:00",
+  "date": "2014-11-21T11:19:54+03:00",
   "url": "/blog/hella/roskomnadzor-zima-blizko/",
   "original_url": "https://spidermedia.ru/blog/hella/roskomnadzor-zima-blizko",
   "archived": "https://web.archive.org/web/20260214133813/https://spidermedia.ru/blog/hella/roskomnadzor-zima-blizko",
@@ -8,6 +8,12 @@
     "russian-comics",
     "roskomnadzor",
     "zarubezhnye-komiksy-na-russkom"
+  ],
+  "cover": "https://web.archive.org/web/20150424061927im_/http://spidermedia.ru/assets/images/import_image/8309.jpg",
+  "modx_id": 8309,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

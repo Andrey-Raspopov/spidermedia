@@ -4,6 +4,12 @@
   "url": "/movies/pacific-rim-2-review/",
   "original_url": "http://spidermedia.ru/movies/pacific-rim-2-review",
   "archived": "https://web.archive.org/web/20260308233758/http://spidermedia.ru/movies/pacific-rim-2-review",
+  "cover": "https://web.archive.org/web/20260308233758im_/http://spidermedia.ru/assets/images/movies/other/pacificrim-uprising-review.jpg",
+  "modx_id": 101868,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

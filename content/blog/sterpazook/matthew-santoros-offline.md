@@ -1,7 +1,10 @@
 {
   "title": "Matthew Santoro’s OFFLINE",
-  "date": "2009-08-03T21:26:00+03:00",
+  "date": "2009-08-03T20:26:44+03:00",
   "url": "/blog/sterpazook/matthew-santoros-offline/",
+  "aliases": [
+    "/node/1717/"
+  ],
   "original_url": "http://spidermedia.ru/blog/sterpazook/matthew-santoros-offline",
   "archived": "https://web.archive.org/web/20120607143951/http://spidermedia.ru/blog/sterpazook/matthew-santoros-offline",
   "tags": [
@@ -9,7 +12,14 @@
     "video",
     "kiberpank",
     "kino",
-    "trailers"
+    "trailers",
+    "trejlery"
+  ],
+  "cover": "https://web.archive.org/web/20120607143951im_/http://spidermedia.ru/assets/images/import_image/1717.jpg",
+  "modx_id": 1717,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

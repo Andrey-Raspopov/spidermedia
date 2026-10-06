@@ -1,6 +1,6 @@
 {
   "title": "ОБЗОР: «Неуклюжий»",
-  "date": "2014-12-24T17:19:00+03:00",
+  "date": "2014-12-24T17:19:53+03:00",
   "url": "/blog/transistor/obzor-neuklyuzhiy-0/",
   "original_url": "http://spidermedia.ru/blog/transistor/obzor-neuklyuzhiy-0",
   "archived": "https://web.archive.org/web/20260206215548/http://spidermedia.ru/blog/transistor/obzor-neuklyuzhiy-0",
@@ -8,6 +8,12 @@
     "obzor",
     "zarubezhnye-komiksy-na-russkom",
     "boomkniga"
+  ],
+  "cover": "https://web.archive.org/web/20150423220148im_/http://spidermedia.ru/assets/images/import_image/8423.jpg",
+  "modx_id": 8423,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,13 +1,20 @@
 {
   "title": "Palmer Addley is dead и слава богу",
-  "date": "2011-06-17T18:29:00+03:00",
+  "date": "2011-06-17T17:29:12+03:00",
   "url": "/blog/redson/palmer-addley-dead-i-slava-bogu/",
   "original_url": "https://spidermedia.ru/blog/redson/palmer-addley-dead-i-slava-bogu",
   "archived": "https://web.archive.org/web/20260214132542/https://spidermedia.ru/blog/redson/palmer-addley-dead-i-slava-bogu",
   "tags": [
     "marvel",
     "art-0",
-    "ariel-olivetti"
+    "ariel-olivetti",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20260214132542im_/http://spidermedia.ru/assets/images/import_image/6457.jpg",
+  "modx_id": 6457,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

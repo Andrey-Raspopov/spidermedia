@@ -1,6 +1,6 @@
 {
   "title": "Железный Патриот",
-  "date": "2012-05-31T16:02:00+03:00",
+  "date": "2012-05-31T15:02:49+03:00",
   "url": "/news/zheleznyy-patriot/",
   "original_url": "http://spidermedia.ru/news/zheleznyy-patriot",
   "archived": "https://web.archive.org/web/20260116215052/http://spidermedia.ru/news/zheleznyy-patriot",
@@ -8,7 +8,14 @@
     "marvel",
     "zheleznyj-patriot",
     "iron-patriot",
-    "iron-man"
+    "iron-man",
+    "zheleznyy-chelovek"
+  ],
+  "cover": "https://web.archive.org/web/20260116215052im_/http://spidermedia.ru/assets/images/import_image/6914.jpg",
+  "modx_id": 6914,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

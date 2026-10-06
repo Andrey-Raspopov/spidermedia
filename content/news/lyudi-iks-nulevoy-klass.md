@@ -1,6 +1,6 @@
 {
   "title": "Люди Икс: Нулевой Класс",
-  "date": "2012-05-15T14:48:00+03:00",
+  "date": "2012-05-15T13:48:48+03:00",
   "url": "/news/lyudi-iks-nulevoy-klass/",
   "original_url": "http://spidermedia.ru/news/lyudi-iks-nulevoy-klass",
   "archived": "https://web.archive.org/web/20251207004920/http://spidermedia.ru/news/lyudi-iks-nulevoy-klass",
@@ -9,7 +9,14 @@
     "kristos-gejdzh",
     "x-men",
     "wolverine",
-    "marvel"
+    "marvel",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20251207004920im_/http://spidermedia.ru/assets/images/import_image/6898.jpg",
+  "modx_id": 6898,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

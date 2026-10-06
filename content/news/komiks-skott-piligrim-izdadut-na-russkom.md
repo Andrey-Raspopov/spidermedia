@@ -1,6 +1,6 @@
 {
   "title": "Комикс \"Скотт Пилигрим\" издадут на русском",
-  "date": "2011-02-25T13:47:00+03:00",
+  "date": "2011-02-25T13:47:25+03:00",
   "url": "/news/komiks-skott-piligrim-izdadut-na-russkom/",
   "original_url": "https://spidermedia.ru/news/komiks-skott-piligrim-izdadut-na-russkom",
   "archived": "https://web.archive.org/web/20220626083135/https://spidermedia.ru/news/komiks-skott-piligrim-izdadut-na-russkom",
@@ -9,6 +9,12 @@
     "oni-press",
     "scott-pilgrim",
     "bryan-lee-o-malley"
+  ],
+  "cover": "https://web.archive.org/web/20220626083135im_/http://spidermedia.ru/assets/images/import_image/3700.gif",
+  "modx_id": 3700,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

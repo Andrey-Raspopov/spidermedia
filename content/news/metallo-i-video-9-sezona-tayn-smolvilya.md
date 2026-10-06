@@ -1,13 +1,23 @@
 {
   "title": "Металло и видео 9 сезона \"Тайн Смолвиля\"",
-  "date": "2009-08-23T18:48:00+03:00",
+  "date": "2009-08-23T17:48:16+03:00",
   "url": "/news/metallo-i-video-9-sezona-tayn-smolvilya/",
+  "aliases": [
+    "/node/1815/"
+  ],
   "original_url": "https://spidermedia.ru/news/metallo-i-video-9-sezona-tayn-smolvilya",
   "archived": "https://web.archive.org/web/20260211101847/https://spidermedia.ru/news/metallo-i-video-9-sezona-tayn-smolvilya",
   "tags": [
     "serialy",
     "metallo",
-    "smallville"
+    "smallville",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20260211101847im_/http://spidermedia.ru/assets/images/import_image/1815.jpg",
+  "modx_id": 1815,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "Фантастическое превью",
-  "date": "2009-07-21T21:22:00+03:00",
+  "date": "2009-07-21T20:22:51+03:00",
   "url": "/news/fantasticheskoe-prevyu/",
+  "aliases": [
+    "/node/1616/"
+  ],
   "original_url": "http://spidermedia.ru/news/fantasticheskoe-prevyu",
   "archived": "https://web.archive.org/web/20120718085634/http://spidermedia.ru/news/fantasticheskoe-prevyu",
   "tags": [
@@ -12,7 +15,17 @@
     "komiksy",
     "oblozhki",
     "preview-s",
-    "fantasticheskaya-chetverka"
+    "fantasticheskaya-chetverka",
+    "prevyu",
+    "dejl-iglshem",
+    "dzhonatan-hikman",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20120718085634im_/http://spidermedia.ru/assets/images/import_image/1616.jpg",
+  "modx_id": 1616,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

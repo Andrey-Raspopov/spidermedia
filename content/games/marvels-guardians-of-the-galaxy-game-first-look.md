@@ -4,6 +4,12 @@
   "url": "/games/marvels-guardians-of-the-galaxy-game-first-look/",
   "original_url": "http://spidermedia.ru/games/marvels-guardians-of-the-galaxy-game-first-look",
   "archived": "https://web.archive.org/web/20250320055713/http://spidermedia.ru/games/marvels-guardians-of-the-galaxy-game-first-look",
+  "cover": "https://web.archive.org/web/20250320055713im_/http://spidermedia.ru/assets/images/games/strazhigalaktiki/mgg_2021_06_14_keyart_slide_16x9.jpg",
+  "modx_id": 102399,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,12 +1,20 @@
 {
   "title": "Log #0008 - It's a Bird",
-  "date": "2009-02-03T01:14:00+03:00",
+  "date": "2009-02-03T01:14:10+03:00",
   "url": "/blog/qvall/log-0008-its-bird/",
+  "aliases": [
+    "/node/130/"
+  ],
   "original_url": "http://spidermedia.ru/blog/qvall/log-0008-its-bird",
   "archived": "https://web.archive.org/web/20250808203704/http://spidermedia.ru/blog/qvall/log-0008-its-bird",
   "tags": [
     "mnenie",
     "vertigo"
+  ],
+  "modx_id": 130,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

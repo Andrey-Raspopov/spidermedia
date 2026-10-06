@@ -1,7 +1,10 @@
 {
   "title": "Два больших и черных",
-  "date": "2009-02-01T03:32:00+03:00",
+  "date": "2009-02-01T03:32:54+03:00",
   "url": "/blog/silver/dva-bolshih-i-chernyh/",
+  "aliases": [
+    "/node/60/"
+  ],
   "original_url": "http://spidermedia.ru/blog/silver/dva-bolshih-i-chernyh",
   "archived": "https://web.archive.org/web/20250324160938/http://spidermedia.ru/blog/silver/dva-bolshih-i-chernyh",
   "tags": [
@@ -10,6 +13,11 @@
     "ultimate",
     "marvel",
     "spider-man"
+  ],
+  "modx_id": 60,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

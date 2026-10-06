@@ -1,6 +1,6 @@
 {
   "title": "Комиксы Adventure Time: уже совсем скоро на русском",
-  "date": "2013-06-23T14:29:00+03:00",
+  "date": "2013-06-23T13:29:21+03:00",
   "url": "/news/komiksy-adventure-time-uzhe-sovsem-skoro-na-russkom/",
   "original_url": "http://spidermedia.ru/news/komiksy-adventure-time-uzhe-sovsem-skoro-na-russkom",
   "archived": "https://web.archive.org/web/20251115040351/http://spidermedia.ru/news/komiksy-adventure-time-uzhe-sovsem-skoro-na-russkom",
@@ -8,6 +8,12 @@
     "komilfo",
     "zarubezhnye-komiksy-na-russkom",
     "vremya-priklyuchenij"
+  ],
+  "cover": "https://web.archive.org/web/20251115040351im_/http://spidermedia.ru/assets/images/import_image/7298.jpg",
+  "modx_id": 7298,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

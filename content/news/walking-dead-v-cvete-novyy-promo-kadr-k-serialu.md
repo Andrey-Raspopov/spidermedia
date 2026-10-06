@@ -1,14 +1,24 @@
 {
   "title": "The Walking Dead в цвете + Новый промо-кадр к сериалу",
-  "date": "2010-07-15T22:06:00+03:00",
+  "date": "2010-07-15T21:06:29+03:00",
   "url": "/news/walking-dead-v-cvete-novyy-promo-kadr-k-serialu/",
+  "aliases": [
+    "/node/2730/"
+  ],
   "original_url": "https://spidermedia.ru/news/walking-dead-v-cvete-novyy-promo-kadr-k-serialu",
   "archived": "https://web.archive.org/web/20260211192229/https://spidermedia.ru/news/walking-dead-v-cvete-novyy-promo-kadr-k-serialu",
   "tags": [
     "serialy",
     "robert-kirkman",
     "the-walking-dead",
-    "ryan-ottley"
+    "ryan-ottley",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20260211192229im_/http://spidermedia.ru/assets/images/import_image/2730.jpg",
+  "modx_id": 2730,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

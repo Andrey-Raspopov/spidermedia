@@ -1,14 +1,25 @@
 {
   "title": "Smallville стартует в конце сентября",
-  "date": "2009-06-17T13:46:00+03:00",
+  "date": "2009-06-17T12:46:31+03:00",
   "url": "/blog/red-hulk/smallville-startuet-v-konce-sentyabrya/",
+  "aliases": [
+    "/node/1432/"
+  ],
   "original_url": "http://spidermedia.ru/blog/red-hulk/smallville-startuet-v-konce-sentyabrya",
   "archived": "https://web.archive.org/web/20120608182756/http://spidermedia.ru/blog/red-hulk/smallville-startuet-v-konce-sentyabrya",
   "tags": [
     "serialy",
     "smollvill",
     "tayny-smollvillya",
-    "tv-0"
+    "tv-0",
+    "tv",
+    "tajny-smollvillya"
+  ],
+  "cover": "https://web.archive.org/web/20120608182756im_/http://spidermedia.ru/assets/images/import_image/1432.jpg",
+  "modx_id": 1432,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

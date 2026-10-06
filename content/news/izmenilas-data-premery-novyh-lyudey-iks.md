@@ -1,6 +1,6 @@
 {
   "title": "Изменилась дата премьеры новых \"Людей Икс\"",
-  "date": "2013-06-21T10:27:00+03:00",
+  "date": "2013-06-21T09:27:45+03:00",
   "url": "/news/izmenilas-data-premery-novyh-lyudey-iks/",
   "original_url": "http://spidermedia.ru/news/izmenilas-data-premery-novyh-lyudey-iks",
   "archived": "https://web.archive.org/web/20131206194116/http://spidermedia.ru/news/izmenilas-data-premery-novyh-lyudey-iks",
@@ -10,7 +10,14 @@
     "days-of-future-past",
     "movie",
     "lyudi-iks",
-    "marvel"
+    "marvel",
+    "dni-minuvshego-budushhego"
+  ],
+  "cover": "https://web.archive.org/web/20131206194116im_/http://spidermedia.ru/assets/images/import_image/7292.jpg",
+  "modx_id": 7292,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

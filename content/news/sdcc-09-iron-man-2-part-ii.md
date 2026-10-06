@@ -1,7 +1,10 @@
 {
   "title": "SDCC 09 - Iron Man 2 (Part II)",
-  "date": "2009-07-24T17:23:00+03:00",
+  "date": "2009-07-24T16:23:50+03:00",
   "url": "/news/sdcc-09-iron-man-2-part-ii/",
+  "aliases": [
+    "/node/1642/"
+  ],
   "original_url": "http://spidermedia.ru/news/sdcc-09-iron-man-2-part-ii",
   "archived": "https://web.archive.org/web/20120607140333/http://spidermedia.ru/news/sdcc-09-iron-man-2-part-ii",
   "tags": [
@@ -13,14 +16,21 @@
     "kino",
     "komiksy",
     "marvel",
-    "figurki"
+    "figurki",
+    "san-diego-comic-con-international"
+  ],
+  "cover": "https://web.archive.org/web/20120607140333im_/http://spidermedia.ru/assets/images/import_image/1642.jpg",
+  "modx_id": 1642,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }
 
 ![8914header_banner8384323.jpg - image uploaded to Picamatic](https://web.archive.org/web/20120607140333im_/http://www.picamatic.com/show/2009/07/24/03/43/4567064_608x229.jpg "8914header_banner8384323.jpg")**Комик-Кон** (San Diego Comic-Con 2009) в самом разгаре! Все мы с нетерпением ждём тизер-трейлер фильма Железный Человек 2 ("Iron Man 2"). До премьеры тизера остался один день, а потому, мы решили сделать необычный репортаж (разделённый на три части), который расскажет вам о всех последних подробностях.Гокин во всей красе
-]]>[![001cj_1248067116.jpg - Picamatic - upload your images](https://web.archive.org/web/20120607140333im_/http://www.picamatic.com/show/2009/07/24/03/55/4567131_bigthumb.jpg "001cj_1248067116.jpg")](http://www.picamatic.com/view/4567131_001cj_1248067116/)]]> ]]>[![armmc_1248067116.jpg - upload images with Picamatic](https://web.archive.org/web/20120607140333im_/http://www.picamatic.com/show/2009/07/24/03/56/4567134_bigthumb.jpg "armmc_1248067116.jpg")](http://www.picamatic.com/view/4567134_armmc_1248067116/)]]> ]]>[![backviewc_1248067116.jpg - Picamatic - upload your images](https://web.archive.org/web/20120607140333im_/http://www.picamatic.com/show/2009/07/24/03/57/4567138_bigthumb.jpg "backviewc_1248067116.jpg")](http://www.picamatic.com/view/4567138_backviewc_1248067116/)]]> ]]>[![flaresc_1248067116.jpg - upload images with Picamatic](https://web.archive.org/web/20120607140333im_/http://www.picamatic.com/show/2009/07/24/03/57/4567141_bigthumb.jpg "flaresc_1248067116.jpg")](http://www.picamatic.com/view/4567141_flaresc_1248067116/)]]> ]]>[![set01c_1248067147.jpg - image uploaded to Picamatic](https://web.archive.org/web/20120607140333im_/http://www.picamatic.com/show/2009/07/24/03/58/4567145_bigthumb.jpg "set01c_1248067147.jpg")](http://www.picamatic.com/view/4567145_set01c_1248067147/)]]> ]]>[![shoulderc_1248067147.jpg - upload images with Picamatic](https://web.archive.org/web/20120607140333im_/http://www.picamatic.com/show/2009/07/24/03/58/4567147_bigthumb.jpg "shoulderc_1248067147.jpg")](http://www.picamatic.com/view/4567147_shoulderc_1248067147/)]]> Вторая часть репортажа будет посвящена фигуркам. Итак, ]]>[помните ли вы](../../node/1124/)]]> про 8 дюймовую фигурку брони Марк III (Hyper Gokin - Iron Man) из фильма "Железный Человек" ("Iron Man") от компании Ezhobi Toys? Точная дата выхода фигурки до сих пор неизвестна, но теперь вы можете полюбоваться на неё во всей красе!Iron Man 2 - (Comics) Wave I
+]]>[![001cj_1248067116.jpg - Picamatic - upload your images](https://web.archive.org/web/20120607140333im_/http://www.picamatic.com/show/2009/07/24/03/55/4567131_bigthumb.jpg "001cj_1248067116.jpg")](http://www.picamatic.com/view/4567131_001cj_1248067116/)]]> ]]>[![armmc_1248067116.jpg - upload images with Picamatic](https://web.archive.org/web/20120607140333im_/http://www.picamatic.com/show/2009/07/24/03/56/4567134_bigthumb.jpg "armmc_1248067116.jpg")](http://www.picamatic.com/view/4567134_armmc_1248067116/)]]> ]]>[![backviewc_1248067116.jpg - Picamatic - upload your images](https://web.archive.org/web/20120607140333im_/http://www.picamatic.com/show/2009/07/24/03/57/4567138_bigthumb.jpg "backviewc_1248067116.jpg")](http://www.picamatic.com/view/4567138_backviewc_1248067116/)]]> ]]>[![flaresc_1248067116.jpg - upload images with Picamatic](https://web.archive.org/web/20120607140333im_/http://www.picamatic.com/show/2009/07/24/03/57/4567141_bigthumb.jpg "flaresc_1248067116.jpg")](http://www.picamatic.com/view/4567141_flaresc_1248067116/)]]> ]]>[![set01c_1248067147.jpg - image uploaded to Picamatic](https://web.archive.org/web/20120607140333im_/http://www.picamatic.com/show/2009/07/24/03/58/4567145_bigthumb.jpg "set01c_1248067147.jpg")](http://www.picamatic.com/view/4567145_set01c_1248067147/)]]> ]]>[![shoulderc_1248067147.jpg - upload images with Picamatic](https://web.archive.org/web/20120607140333im_/http://www.picamatic.com/show/2009/07/24/03/58/4567147_bigthumb.jpg "shoulderc_1248067147.jpg")](http://www.picamatic.com/view/4567147_shoulderc_1248067147/)]]> Вторая часть репортажа будет посвящена фигуркам. Итак, ]]>[помните ли вы](../zheleznyy-gokin/)]]> про 8 дюймовую фигурку брони Марк III (Hyper Gokin - Iron Man) из фильма "Железный Человек" ("Iron Man") от компании Ezhobi Toys? Точная дата выхода фигурки до сих пор неизвестна, но теперь вы можете полюбоваться на неё во всей красе!Iron Man 2 - (Comics) Wave I
 ]]>[![IMG_1274.JPG - upload images with Picamatic](https://web.archive.org/web/20120607140333im_/http://www.picamatic.com/show/2009/07/24/04/13/4567296_bigthumb.JPG "IMG_1274.JPG")](http://www.picamatic.com/view/4567296_IMG_1274/)]]> ]]>[![IMG_1275.JPG - Picamatic - upload your images](https://web.archive.org/web/20120607140333im_/http://www.picamatic.com/show/2009/07/24/04/13/4567295_bigthumb.JPG "IMG_1275.JPG")](http://www.picamatic.com/view/4567295_IMG_1275/)]]> ]]>[![IMG_1277.JPG - upload images with Picamatic](https://web.archive.org/web/20120607140333im_/http://www.picamatic.com/show/2009/07/24/04/13/4567300_bigthumb.JPG "IMG_1277.JPG")](http://www.picamatic.com/view/4567300_IMG_1277/)]]>Ребята из Hasbro (отдел Marvel) решили окончательно перейти на 3дюймовый формат. Всё началось с серии Marvel Universe. Данный формат коснулся и фигурок Железного Человека (Tony Stark/Iron Man). Дело в том, что у Тони Старка уже была "гибридная" 5тидюймовая-6дюймовая серия. Но, об этом позже. Первая волна новой серии, в основном, состоит из комикс версий персонажей. Что касается версий по фильму, то их покажут позже. Появится данная серия на прилавках весной, 2010. Кто же входит в этот состав?
 
 - Железный Человек - Первая Броня (The Original Grey Armor) по дизайну художника Ади Гранова (Adi Granov) из арка "Extremis".

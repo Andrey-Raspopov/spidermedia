@@ -8,6 +8,12 @@
     "hellboymedia",
     "novosti"
   ],
+  "cover": "https://web.archive.org/web/20160611224258im_/http://spidermedia.ru/assets/images/hellboymedia/news/bprd-third-cycle/b.p.r.d.-third-cycle-cover.jpg",
+  "modx_id": 100164,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

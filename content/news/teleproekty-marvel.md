@@ -1,12 +1,22 @@
 {
   "title": "Телепроекты Марвел",
-  "date": "2010-10-16T16:26:00+03:00",
+  "date": "2010-10-16T15:26:56+03:00",
   "url": "/news/teleproekty-marvel/",
+  "aliases": [
+    "/node/3013/"
+  ],
   "original_url": "https://spidermedia.ru/news/teleproekty-marvel",
   "archived": "https://web.archive.org/web/20250208085810/https://spidermedia.ru/news/teleproekty-marvel",
   "tags": [
     "serialy",
-    "marvel"
+    "marvel",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20250208085810im_/http://spidermedia.ru/assets/images/import_image/3013.jpg",
+  "modx_id": 3013,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

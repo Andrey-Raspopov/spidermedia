@@ -9,6 +9,12 @@
     "roskomnadzor",
     "russian-comics"
   ],
+  "cover": "https://web.archive.org/web/20180331203412im_/http://spidermedia.ru/assets/images/roskomnadzor/2016/0508/archieroskom-.jpg",
+  "modx_id": 101305,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,14 +1,24 @@
 {
   "title": "New York Comic-Con 2009 : Будущее Железного Человека - SPOILER ALERT!",
-  "date": "2009-02-13T19:42:00+03:00",
+  "date": "2009-02-13T19:42:29+03:00",
   "url": "/blog/ironman/new-york-comic-con-2009-budushchee-zheleznogo-cheloveka-spoiler-alert/",
+  "aliases": [
+    "/node/347/"
+  ],
   "original_url": "http://spidermedia.ru/blog/ironman/new-york-comic-con-2009-budushchee-zheleznogo-cheloveka-spoiler-alert",
   "archived": "https://web.archive.org/web/20251014032448/http://spidermedia.ru/blog/ironman/new-york-comic-con-2009-budushchee-zheleznogo-cheloveka-spoiler-alert",
   "tags": [
     "marvel",
     "iron-man",
     "nycc-2009",
-    "matt-fraction"
+    "matt-fraction",
+    "zheleznyy-chelovek",
+    "mett-frakshen"
+  ],
+  "modx_id": 347,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

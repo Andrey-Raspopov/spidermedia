@@ -1,6 +1,6 @@
 {
   "title": "Мэри Джейн найдена? (UPD: Актриса опровергла слухи о том что играет Мэри Джейн)",
-  "date": "2013-06-22T11:28:00+03:00",
+  "date": "2013-06-22T10:28:13+03:00",
   "url": "/news/meri-dzheyn-naydena/",
   "original_url": "http://spidermedia.ru/news/meri-dzheyn-naydena",
   "archived": "https://web.archive.org/web/20131206204044/http://spidermedia.ru/news/meri-dzheyn-naydena",
@@ -10,7 +10,14 @@
     "marvel",
     "mark-uebb",
     "novyy-chelovek-pauk",
-    "chelovek-pauk"
+    "chelovek-pauk",
+    "spider-man"
+  ],
+  "cover": "https://web.archive.org/web/20131206204044im_/http://spidermedia.ru/assets/images/import_image/7293.jpg",
+  "modx_id": 7293,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

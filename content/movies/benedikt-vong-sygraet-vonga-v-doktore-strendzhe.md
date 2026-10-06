@@ -8,6 +8,12 @@
     "marvel",
     "doctor-strange"
   ],
+  "cover": "https://web.archive.org/web/20160619162522im_/http://spidermedia.ru/assets/images/movies/marvel/dr-strange-movie-2016/doctor-strange-benedict-wong.jpg",
+  "modx_id": 100834,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

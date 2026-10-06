@@ -1,12 +1,18 @@
 {
   "title": "ALL-NEW МЖДЗ SPECIAL: СКРУЧИВАЙ СОТКУ, РОДНАЯ",
-  "date": "2014-12-16T18:19:00+03:00",
+  "date": "2014-12-16T18:19:56+03:00",
   "url": "/blog/stepan-karma/all-new-mzhdz-special-skruchivay-sotku-rodnaya-0/",
   "original_url": "http://spidermedia.ru/blog/stepan-karma/all-new-mzhdz-special-skruchivay-sotku-rodnaya-0",
   "archived": "https://web.archive.org/web/20230320170852/http://spidermedia.ru/blog/stepan-karma/all-new-mzhdz-special-skruchivay-sotku-rodnaya-0",
   "tags": [
     "obzor",
     "mzhdz"
+  ],
+  "cover": "https://web.archive.org/web/20150428170551im_/http://spidermedia.ru/assets/images/import_image/8387.jpg",
+  "modx_id": 8387,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

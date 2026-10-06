@@ -1,12 +1,18 @@
 {
   "title": "МЖДЗ: FLASHPOINT #3 VS. FEAR ITSELF #4",
-  "date": "2011-07-07T18:05:00+03:00",
+  "date": "2011-07-07T17:05:18+03:00",
   "url": "/blog/redson/mzhdz-flashpoint-3-vs-fear-itself-4/",
   "original_url": "http://spidermedia.ru/blog/redson/mzhdz-flashpoint-3-vs-fear-itself-4",
   "archived": "https://web.archive.org/web/20251116072432/http://spidermedia.ru/blog/redson/mzhdz-flashpoint-3-vs-fear-itself-4",
   "tags": [
     "mnenie",
     "mzhdz"
+  ],
+  "cover": "https://web.archive.org/web/20251116072432im_/http://spidermedia.ru/assets/images/import_image/6485.png",
+  "modx_id": 6485,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "\"Новый Человек-Паук: Высокое напряжение\": Расширенный Трейлер + Два ролика с Суперкубка!",
-  "date": "2014-02-03T04:52:00+03:00",
+  "date": "2014-02-03T03:52:01+03:00",
   "url": "/news/novyy-chelovek-pauk-vysokoe-napryazhenie-treyler-s-superkubka/",
   "original_url": "http://spidermedia.ru/news/novyy-chelovek-pauk-vysokoe-napryazhenie-treyler-s-superkubka",
   "archived": "https://web.archive.org/web/20251107032123/http://spidermedia.ru/news/novyy-chelovek-pauk-vysokoe-napryazhenie-treyler-s-superkubka",
@@ -10,6 +10,12 @@
     "spider-man",
     "mark-uebb",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150424110211im_/http://spidermedia.ru/assets/images/import_image/7625.png",
+  "modx_id": 7625,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

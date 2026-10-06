@@ -4,6 +4,12 @@
   "url": "/games/until-dawn-review/",
   "original_url": "https://spidermedia.ru/games/until-dawn-review",
   "archived": "https://web.archive.org/web/20251216114620/https://spidermedia.ru/games/until-dawn-review",
+  "cover": "https://web.archive.org/web/20160611154034im_/http://spidermedia.ru/assets/images/games/until-dawn/001.jpg",
+  "modx_id": 100496,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

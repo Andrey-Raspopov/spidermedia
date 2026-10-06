@@ -7,6 +7,12 @@
   "tags": [
     "boom-studios"
   ],
+  "cover": "https://web.archive.org/web/20180205064700im_/http://spidermedia.ru/assets/images/news/boom/welcome-back/welcomeback-001-b-jackpot-james-harvey2.jpg",
+  "modx_id": 100205,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

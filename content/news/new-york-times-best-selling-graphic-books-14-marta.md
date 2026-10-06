@@ -1,12 +1,21 @@
 {
   "title": "New York Times Best-selling Graphic Books - 14 марта",
-  "date": "2009-03-21T16:08:00+03:00",
+  "date": "2009-03-21T16:08:44+03:00",
   "url": "/news/new-york-times-best-selling-graphic-books-14-marta/",
+  "aliases": [
+    "/node/738/"
+  ],
   "original_url": "http://spidermedia.ru/news/new-york-times-best-selling-graphic-books-14-marta",
   "archived": "https://web.archive.org/web/20251013182745/http://spidermedia.ru/news/new-york-times-best-selling-graphic-books-14-marta",
   "tags": [
     "manga",
     "rejtingi-prodazh"
+  ],
+  "cover": "https://web.archive.org/web/20251013182745im_/http://spidermedia.ru/assets/images/import_image/738.jpg",
+  "modx_id": 738,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

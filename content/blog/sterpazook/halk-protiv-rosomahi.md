@@ -1,7 +1,10 @@
 {
   "title": "Халк против Росомахи",
-  "date": "2009-01-31T14:10:00+03:00",
+  "date": "2009-01-31T14:10:10+03:00",
   "url": "/blog/sterpazook/halk-protiv-rosomahi/",
+  "aliases": [
+    "/node/36/"
+  ],
   "original_url": "http://spidermedia.ru/blog/sterpazook/halk-protiv-rosomahi",
   "archived": "https://web.archive.org/web/20190719104748/http://spidermedia.ru/blog/sterpazook/halk-protiv-rosomahi",
   "tags": [
@@ -12,6 +15,12 @@
     "omega-red",
     "lady-deathstrike",
     "sabretooth"
+  ],
+  "cover": "https://web.archive.org/web/20190719104748im_/http://spidermedia.ru/assets/images/import_image/36.JPG",
+  "modx_id": 36,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

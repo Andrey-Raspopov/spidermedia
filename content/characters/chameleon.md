@@ -4,6 +4,9 @@
   "url": "/characters/chameleon/",
   "original_url": "http://spidermedia.ru/characters/chameleon.html",
   "archived": "https://web.archive.org/web/20031119023018/http://spidermedia.ru:80/characters/chameleon.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

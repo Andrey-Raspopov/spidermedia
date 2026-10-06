@@ -1,11 +1,19 @@
 {
   "title": "«Разбор полётов». Выпуск 6: Год в комиксах",
-  "date": "2015-01-26T07:42:00+03:00",
+  "date": "2015-01-26T07:42:10+03:00",
   "url": "/podcast/podkast-razbor-polyotov-vypusk-6-god-v-komiksah/",
   "original_url": "https://spidermedia.ru/podcast/podkast-razbor-polyotov-vypusk-6-god-v-komiksah",
   "archived": "https://web.archive.org/web/20260211182338/https://spidermedia.ru/podcast/podkast-razbor-polyotov-vypusk-6-god-v-komiksah",
   "tags": [
     "spidercast"
+  ],
+  "cover": "https://web.archive.org/web/20150315195835im_/http://spidermedia.ru/misc/files/podcast/covers/onemoretime_1.jpg",
+  "podcast_audio": "https://spidermedia.podster.fm/32/download/audio.mp3",
+  "podcast_length": "2:59:40",
+  "modx_id": 8542,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

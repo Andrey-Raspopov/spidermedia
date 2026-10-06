@@ -7,7 +7,14 @@
   "tags": [
     "avengers",
     "komik-kon-v-nyu-yorke",
-    "marvel"
+    "marvel",
+    "nycc-2015"
+  ],
+  "cover": "https://web.archive.org/web/20160617081551im_/http://spidermedia.ru/assets/images/games/marvel/lego-avengers/lego-avengers.jpg",
+  "modx_id": 100641,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

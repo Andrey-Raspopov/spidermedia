@@ -2,12 +2,21 @@
   "title": "It's me and my bitches",
   "date": "2010-01-24T00:28:00+03:00",
   "url": "/news/its-me-and-my-bitches/",
+  "aliases": [
+    "/node/2302/"
+  ],
   "original_url": "http://spidermedia.ru/news/its-me-and-my-bitches",
   "archived": "https://web.archive.org/web/20241213211759/http://spidermedia.ru/news/its-me-and-my-bitches",
   "tags": [
     "deadpool",
     "siege",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20241213211759im_/http://spidermedia.ru/assets/images/import_image/2302.jpg",
+  "modx_id": 2302,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

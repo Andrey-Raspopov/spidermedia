@@ -8,6 +8,12 @@
     "intervyu",
     "joe-kelly"
   ],
+  "cover": "https://web.archive.org/web/20241104221817im_/http://spidermedia.ru/assets/images/interview/i-kill-giants-joe-kelly/ikg-interview-cover.jpg",
+  "modx_id": 101874,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

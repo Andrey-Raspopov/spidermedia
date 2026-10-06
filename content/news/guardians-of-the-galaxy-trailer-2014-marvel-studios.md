@@ -1,6 +1,6 @@
 {
   "title": "Трейлер фильма \"СТРАЖИ ГАЛАКТИКИ\"",
-  "date": "2014-02-19T09:00:00+03:00",
+  "date": "2014-02-19T08:00:13+03:00",
   "url": "/news/guardians-of-the-galaxy-trailer-2014-marvel-studios/",
   "original_url": "https://spidermedia.ru/news/guardians-of-the-galaxy-trailer-2014-marvel-studios",
   "archived": "https://web.archive.org/web/20240419000504/https://spidermedia.ru/news/guardians-of-the-galaxy-trailer-2014-marvel-studios",
@@ -8,6 +8,12 @@
     "trejlery",
     "guardians-of-the-galaxy",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150424063028im_/http://spidermedia.ru/assets/images/import_image/7648.jpg",
+  "modx_id": 7648,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

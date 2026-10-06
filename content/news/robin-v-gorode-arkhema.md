@@ -1,6 +1,6 @@
 {
   "title": "Робин в Городе Аркхэма",
-  "date": "2011-06-21T11:08:00+03:00",
+  "date": "2011-06-21T10:08:33+03:00",
   "url": "/news/robin-v-gorode-arkhema/",
   "original_url": "http://spidermedia.ru/news/robin-v-gorode-arkhema",
   "archived": "https://web.archive.org/web/20260307062823/http://spidermedia.ru/news/robin-v-gorode-arkhema",
@@ -11,6 +11,12 @@
     "igry",
     "dc-comics",
     "arkham-asylum"
+  ],
+  "cover": "https://web.archive.org/web/20260307062823im_/http://spidermedia.ru/assets/images/import_image/6463.jpg",
+  "modx_id": 6463,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

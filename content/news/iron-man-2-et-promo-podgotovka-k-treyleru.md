@@ -1,6 +1,6 @@
 {
   "title": "Iron Man 2: ET Promo! Подготовка к трейлеру",
-  "date": "2009-12-16T12:50:00+03:00",
+  "date": "2009-12-16T12:50:19+03:00",
   "url": "/news/iron-man-2-et-promo-podgotovka-k-treyleru/",
   "original_url": "https://spidermedia.ru/news/iron-man-2-et-promo-podgotovka-k-treyleru",
   "archived": "https://web.archive.org/web/20260313105655/https://spidermedia.ru/news/iron-man-2-et-promo-podgotovka-k-treyleru",
@@ -8,7 +8,13 @@
     "reportazh",
     "dzhon-favro",
     "marvel",
-    "iron-man"
+    "iron-man",
+    "zheleznyy-chelovek"
+  ],
+  "modx_id": 2176,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

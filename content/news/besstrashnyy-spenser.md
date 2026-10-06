@@ -1,6 +1,6 @@
 {
   "title": "Бесстрашный Спенсер",
-  "date": "2011-02-11T06:05:00+03:00",
+  "date": "2011-02-11T06:05:03+03:00",
   "url": "/news/besstrashnyy-spenser/",
   "original_url": "https://spidermedia.ru/news/besstrashnyy-spenser",
   "archived": "https://web.archive.org/web/20251107011409/https://spidermedia.ru/news/besstrashnyy-spenser",
@@ -9,6 +9,12 @@
     "marvel",
     "nik-spenser",
     "skott-iton"
+  ],
+  "cover": "https://web.archive.org/web/20251107011409im_/http://spidermedia.ru/assets/images/import_image/3318.jpg",
+  "modx_id": 3318,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

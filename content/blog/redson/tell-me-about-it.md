@@ -1,11 +1,17 @@
 {
   "title": "Tell me about it",
-  "date": "2010-09-06T18:05:00+03:00",
+  "date": "2010-09-06T17:05:06+03:00",
   "url": "/blog/redson/tell-me-about-it/",
   "original_url": "http://spidermedia.ru/blog/redson/tell-me-about-it",
   "archived": "https://web.archive.org/web/20111126085501/http://spidermedia.ru/blog/redson/tell-me-about-it",
   "tags": [
     "komiksy"
+  ],
+  "cover": "https://web.archive.org/web/20111126085501im_/http://spidermedia.ru/assets/images/import_image/2890.jpg",
+  "modx_id": 2890,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

@@ -7,6 +7,12 @@
   "tags": [
     "manga"
   ],
+  "cover": "https://web.archive.org/web/20160619144117im_/http://spidermedia.ru/assets/images/movies/manga/attack-on-titan/attackontitan-570x806.jpg",
+  "modx_id": 100094,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,7 +1,10 @@
 {
   "title": "Валет или дама?",
-  "date": "2009-04-25T11:34:00+03:00",
+  "date": "2009-04-25T10:34:31+03:00",
   "url": "/news/valet-ili-dama/",
+  "aliases": [
+    "/node/1054/"
+  ],
   "original_url": "http://spidermedia.ru/news/valet-ili-dama",
   "archived": "https://web.archive.org/web/20120608213229/http://spidermedia.ru/news/valet-ili-dama",
   "tags": [
@@ -12,6 +15,11 @@
     "komiksy",
     "marvel",
     "chelovek-pauk"
+  ],
+  "modx_id": 1054,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

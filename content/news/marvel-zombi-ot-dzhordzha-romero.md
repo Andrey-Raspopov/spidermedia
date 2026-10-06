@@ -1,12 +1,19 @@
 {
   "title": "Марвел Зомби от Джорджа Ромеро",
-  "date": "2013-08-15T16:43:00+03:00",
+  "date": "2013-08-15T15:43:43+03:00",
   "url": "/news/marvel-zombi-ot-dzhordzha-romero/",
   "original_url": "http://spidermedia.ru/news/marvel-zombi-ot-dzhordzha-romero",
   "archived": "https://web.archive.org/web/20150427190446/http://spidermedia.ru/news/marvel-zombi-ot-dzhordzha-romero",
   "tags": [
     "marvel-comics",
-    "zombi"
+    "zombi",
+    "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150427190446im_/http://spidermedia.ru/assets/images/import_image/7421.jpg",
+  "modx_id": 7421,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

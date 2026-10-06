@@ -1,14 +1,23 @@
 {
   "title": "Sisterhood: Последняя X-идея Брубейкера!",
-  "date": "2009-04-13T15:01:00+03:00",
+  "date": "2009-04-13T14:01:23+03:00",
   "url": "/news/sisterhood-poslednyaya-x-ideya-brubeykera/",
+  "aliases": [
+    "/node/924/"
+  ],
   "original_url": "http://spidermedia.ru/news/sisterhood-poslednyaya-x-ideya-brubeykera",
   "archived": "https://web.archive.org/web/20120611043622/http://spidermedia.ru/news/sisterhood-poslednyaya-x-ideya-brubeykera",
   "tags": [
     "x-universe",
     "komiksy",
     "marvel",
-    "mett-frakshen"
+    "mett-frakshen",
+    "lyudi-iks"
+  ],
+  "modx_id": 924,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

@@ -1,13 +1,20 @@
 {
   "title": "Наследники Юпитера",
-  "date": "2013-01-29T17:18:00+03:00",
+  "date": "2013-01-29T16:18:48+03:00",
   "url": "/news/nasledniki-yupitera/",
   "original_url": "https://spidermedia.ru/news/nasledniki-yupitera",
   "archived": "https://web.archive.org/web/20260215085753/https://spidermedia.ru/news/nasledniki-yupitera",
   "tags": [
     "frenk-kuajtli",
     "preview",
-    "mark-millar"
+    "mark-millar",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20260215085753im_/http://spidermedia.ru/assets/images/import_image/7124.jpg",
+  "modx_id": 7124,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

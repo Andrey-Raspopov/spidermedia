@@ -1,6 +1,6 @@
 {
   "title": "Комик Кон в Лондоне: Взгляд изнутри: Возвращение",
-  "date": "2012-05-22T16:44:00+03:00",
+  "date": "2012-05-22T15:44:00+03:00",
   "url": "/blog/vch/komik-kon-v-londone-vzglyad-iznutri-vozvrashchenie/",
   "original_url": "https://spidermedia.ru/blog/vch/komik-kon-v-londone-vzglyad-iznutri-vozvrashchenie",
   "archived": "https://web.archive.org/web/20260214143328/https://spidermedia.ru/blog/vch/komik-kon-v-londone-vzglyad-iznutri-vozvrashchenie",
@@ -9,6 +9,12 @@
     "komik-kon-v-londone",
     "industriya",
     "kapow-comic-con"
+  ],
+  "cover": "https://web.archive.org/web/20150315210246im_/http://spidermedia.ru/assets/images/ecahznqzhc4.jpg",
+  "modx_id": 6903,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

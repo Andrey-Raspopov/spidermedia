@@ -1,13 +1,22 @@
 {
   "title": "Комиксы будут изучать в Шотландских университетах",
-  "date": "2009-08-11T22:00:00+03:00",
+  "date": "2009-08-11T21:00:31+03:00",
   "url": "/news/komiksy-budut-izuchat-v-shotlandskih-universitetah/",
+  "aliases": [
+    "/node/1764/"
+  ],
   "original_url": "http://spidermedia.ru/news/komiksy-budut-izuchat-v-shotlandskih-universitetah",
   "archived": "https://web.archive.org/web/20120608214516/http://spidermedia.ru/news/komiksy-budut-izuchat-v-shotlandskih-universitetah",
   "tags": [
     "industriya",
     "komiksy",
     "kultura"
+  ],
+  "cover": "https://web.archive.org/web/20120608214516im_/http://spidermedia.ru/assets/images/import_image/1764.png",
+  "modx_id": 1764,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

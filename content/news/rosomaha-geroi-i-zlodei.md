@@ -1,7 +1,10 @@
 {
   "title": "Росомаха: Герои и Злодеи",
-  "date": "2009-04-13T10:28:00+03:00",
+  "date": "2009-04-13T09:28:05+03:00",
   "url": "/news/rosomaha-geroi-i-zlodei/",
+  "aliases": [
+    "/node/922/"
+  ],
   "original_url": "http://spidermedia.ru/news/rosomaha-geroi-i-zlodei",
   "archived": "https://web.archive.org/web/20250808212642/http://spidermedia.ru/news/rosomaha-geroi-i-zlodei",
   "tags": [
@@ -11,7 +14,13 @@
     "sabretooth",
     "deadpool",
     "gambit",
-    "sablezubyj"
+    "sablezubyj",
+    "lyudi-iks"
+  ],
+  "modx_id": 922,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

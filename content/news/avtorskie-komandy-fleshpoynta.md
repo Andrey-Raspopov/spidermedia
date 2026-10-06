@@ -1,6 +1,6 @@
 {
   "title": "Авторские команды Флэшпойнта",
-  "date": "2011-03-05T12:09:00+03:00",
+  "date": "2011-03-05T12:09:50+03:00",
   "url": "/news/avtorskie-komandy-fleshpoynta/",
   "original_url": "http://spidermedia.ru/news/avtorskie-komandy-fleshpoynta",
   "archived": "https://web.archive.org/web/20251211033054/http://spidermedia.ru/news/avtorskie-komandy-fleshpoynta",
@@ -12,6 +12,12 @@
     "the-flash",
     "dc-comics",
     "endi-kubert"
+  ],
+  "cover": "https://web.archive.org/web/20251211033054im_/http://spidermedia.ru/assets/images/import_image/3907.jpg",
+  "modx_id": 3907,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -7,6 +7,12 @@
   "tags": [
     "russian-comics"
   ],
+  "cover": "https://web.archive.org/web/20180307173641im_/http://spidermedia.ru/assets/images/articles/unfair-review/frontier-2-buffalo-returns/1.jpg",
+  "modx_id": 101688,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

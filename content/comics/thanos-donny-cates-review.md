@@ -8,6 +8,12 @@
     "marvel",
     "tanos"
   ],
+  "cover": "https://web.archive.org/web/20251207002603im_/http://spidermedia.ru/assets/images/reviews/marvel/thanos/mzk.jpg",
+  "modx_id": 101891,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

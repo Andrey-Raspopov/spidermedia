@@ -1,12 +1,21 @@
 {
   "title": "The Guild: \"In life you are a starting character\"",
-  "date": "2010-01-16T22:08:00+03:00",
+  "date": "2010-01-16T22:08:51+03:00",
   "url": "/news/guild-life-you-are-starting-character/",
+  "aliases": [
+    "/node/2274/"
+  ],
   "original_url": "http://spidermedia.ru/news/guild-life-you-are-starting-character",
   "archived": "https://web.archive.org/web/20200130013423/http://spidermedia.ru:80/news/guild-life-you-are-starting-character",
   "tags": [
     "jim-rugg",
     "dark-horse"
+  ],
+  "cover": "https://web.archive.org/web/20200130013423im_/http://spidermedia.ru/assets/images/import_image/2274.jpg",
+  "modx_id": 2274,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

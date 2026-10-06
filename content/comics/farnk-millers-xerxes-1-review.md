@@ -8,6 +8,12 @@
     "dark-horse",
     "frenk-miller"
   ],
+  "cover": "https://web.archive.org/web/20250709060456im_/http://spidermedia.ru/assets/images/reviews/dark-horse/xerxes/1/mzk.jpg",
+  "modx_id": 101887,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -8,6 +8,12 @@
     "marvel",
     "aksel-alonso"
   ],
+  "cover": "https://web.archive.org/web/20250429012004im_/http://spidermedia.ru/assets/images/news/marvel/pngf4cgbmevdropbj8ey.jpg",
+  "modx_id": 101726,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/games/mnenie-bravely-default-ii/",
   "original_url": "http://spidermedia.ru/games/mnenie-bravely-default-ii",
   "archived": "https://web.archive.org/web/20240613073431/http://spidermedia.ru/games/mnenie-bravely-default-ii",
+  "cover": "https://web.archive.org/web/20240613073431im_/http://spidermedia.ru/assets/images/games/screenshot-2021-05-28t053923.422.png",
+  "modx_id": 102391,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

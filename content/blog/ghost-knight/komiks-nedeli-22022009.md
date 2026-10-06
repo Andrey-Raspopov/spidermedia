@@ -1,7 +1,10 @@
 {
   "title": "Комикс недели ! (22.02.2009)",
-  "date": "2009-02-22T15:00:00+03:00",
+  "date": "2009-02-22T15:00:04+03:00",
   "url": "/blog/ghost-knight/komiks-nedeli-22022009/",
+  "aliases": [
+    "/node/477/"
+  ],
   "original_url": "https://spidermedia.ru/blog/ghost-knight/komiks-nedeli-22022009",
   "archived": "https://web.archive.org/web/20251216115146/https://spidermedia.ru/blog/ghost-knight/komiks-nedeli-22022009",
   "tags": [
@@ -10,7 +13,13 @@
     "komiksy",
     "robin",
     "nightwing",
-    "jason-todd"
+    "jason-todd",
+    "komiks-nedeli"
+  ],
+  "modx_id": 477,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Танцуй пока молодой",
-  "date": "2011-01-19T17:09:00+03:00",
+  "date": "2011-01-19T17:09:45+03:00",
   "url": "/blog/plane-v/tancuy-poka-molodoy/",
   "original_url": "https://spidermedia.ru/blog/plane-v/tancuy-poka-molodoy",
   "archived": "https://web.archive.org/web/20260313105250/https://spidermedia.ru/blog/plane-v/tancuy-poka-molodoy",
@@ -8,6 +8,12 @@
     "manga",
     "avtory",
     "kazuo-umezu"
+  ],
+  "cover": "https://web.archive.org/web/20150315210246im_/http://spidermedia.ru/assets/images/ecahznqzhc4.jpg",
+  "modx_id": 3176,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

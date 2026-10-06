@@ -1,6 +1,6 @@
 {
   "title": "Ходячий Ромеро",
-  "date": "2013-10-04T05:30:00+03:00",
+  "date": "2013-10-04T04:30:53+03:00",
   "url": "/news/hodyachiy-romero/",
   "original_url": "http://spidermedia.ru/news/hodyachiy-romero",
   "archived": "https://web.archive.org/web/20190822005801/http://spidermedia.ru:80/news/hodyachiy-romero",
@@ -8,6 +8,12 @@
     "dzhordzh-romero",
     "alex-maleev",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20190822005801im_/http://spidermedia.ru/assets/images/import_image/7491.jpg",
+  "modx_id": 7491,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

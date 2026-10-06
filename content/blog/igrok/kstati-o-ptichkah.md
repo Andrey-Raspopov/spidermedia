@@ -1,7 +1,10 @@
 {
   "title": "Кстати о птичках...",
-  "date": "2009-02-05T18:40:00+03:00",
+  "date": "2009-02-05T18:40:38+03:00",
   "url": "/blog/igrok/kstati-o-ptichkah/",
+  "aliases": [
+    "/node/213/"
+  ],
   "original_url": "http://spidermedia.ru/blog/igrok/kstati-o-ptichkah",
   "archived": "https://web.archive.org/web/20251207095735/http://spidermedia.ru/blog/igrok/kstati-o-ptichkah",
   "tags": [
@@ -9,7 +12,13 @@
     "joker",
     "birds-of-prey",
     "mark-hemill",
-    "serialy"
+    "serialy",
+    "tv"
+  ],
+  "modx_id": 213,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

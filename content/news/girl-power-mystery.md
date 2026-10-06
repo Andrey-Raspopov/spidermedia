@@ -1,6 +1,6 @@
 {
   "title": "Girl Power Into Mystery",
-  "date": "2012-08-15T05:33:00+03:00",
+  "date": "2012-08-15T04:33:28+03:00",
   "url": "/news/girl-power-mystery/",
   "original_url": "https://spidermedia.ru/news/girl-power-mystery",
   "archived": "https://web.archive.org/web/20251014031848/https://spidermedia.ru/news/girl-power-mystery",
@@ -10,6 +10,12 @@
     "valerio-schiti",
     "marvel",
     "journey-into-mystery"
+  ],
+  "cover": "https://web.archive.org/web/20150326160832im_/http://spidermedia.ru/assets/images/import_image/7005.jpg",
+  "modx_id": 7005,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

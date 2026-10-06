@@ -1,12 +1,18 @@
 {
   "title": "Том Харди покинул «Отряд самоубийц»",
-  "date": "2015-01-15T22:49:00+03:00",
+  "date": "2015-01-15T22:49:37+03:00",
   "url": "/news/tom-hardi-pokinul-otryad-samoubiyc/",
   "original_url": "https://spidermedia.ru/news/tom-hardi-pokinul-otryad-samoubiyc",
   "archived": "https://web.archive.org/web/20251206155931/https://spidermedia.ru/news/tom-hardi-pokinul-otryad-samoubiyc",
   "tags": [
     "kasting",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150327041617im_/http://spidermedia.ru/assets/images/import_image/8509.png",
+  "modx_id": 8509,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

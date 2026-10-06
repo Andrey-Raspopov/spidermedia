@@ -1,7 +1,10 @@
 {
   "title": "Birth of a Nation",
-  "date": "2009-11-14T07:01:00+03:00",
+  "date": "2009-11-14T07:01:14+03:00",
   "url": "/news/birth-nation/",
+  "aliases": [
+    "/node/2095/"
+  ],
   "original_url": "http://spidermedia.ru/news/birth-nation",
   "archived": "https://web.archive.org/web/20260117231610/http://spidermedia.ru/news/birth-nation",
   "tags": [
@@ -15,7 +18,13 @@
     "nation-x",
     "marvel",
     "james-asmus",
-    "chris-yost"
+    "chris-yost",
+    "lyudi-iks"
+  ],
+  "modx_id": 2095,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

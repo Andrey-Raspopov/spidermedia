@@ -9,6 +9,12 @@
     "roskomnadzor",
     "russian-comics"
   ],
+  "cover": "https://web.archive.org/web/20260125123242im_/http://spidermedia.ru/assets/images/roskomnadzor/03042015/fte8xunjnqw.jpg",
+  "modx_id": 100137,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
@@ -50,7 +56,7 @@
 
 [![](http://spidermedia.ru/assets/cache/preview/100137/roskomnadzor/03042015/164x250-2e51mdfocjy.eca.jpg)](http://spidermedia.ru/assets/images/roskomnadzor/03042015/2e51mdfocjy.jpg)[![](http://spidermedia.ru/assets/cache/preview/100137/roskomnadzor/03042015/164x250-od3maaj1cve.eca.jpg)](http://spidermedia.ru/assets/images/roskomnadzor/03042015/od3maaj1cve.jpg)[![](http://spidermedia.ru/assets/cache/preview/100137/roskomnadzor/03042015/164x250-qqtyxggdf4k.eca.jpg)](http://spidermedia.ru/assets/images/roskomnadzor/03042015/qqtyxggdf4k.jpg)
 
-И да, конечно, [рецензию](https://web.archive.org/web/20251216180634/https://spidermedia.ru/comics/recenziya-prometej-ogon-i-kamen) Олега и Юрия на **«Прометея»** никак нельзя не прочитать!
+И да, конечно, [рецензию](../recenziya-prometej-ogon-i-kamen/) Олега и Юрия на **«Прометея»** никак нельзя не прочитать!
 
 Не пропустите также восьмой номер **«Местной»** от **издательства **«Рамона»**** и вторую антологию **«Доктора Люцида»**.
 

@@ -1,6 +1,6 @@
 {
   "title": "Обсуждаем фильм \"Первый мститель: Другая война\"",
-  "date": "2014-04-02T22:19:00+03:00",
+  "date": "2014-04-02T21:19:22+03:00",
   "url": "/blog/igrok/obsuzhdaem-film-pervyy-mstitel-drugaya-voyna/",
   "original_url": "https://spidermedia.ru/blog/igrok/obsuzhdaem-film-pervyy-mstitel-drugaya-voyna",
   "archived": "https://web.archive.org/web/20250715221139/https://spidermedia.ru/blog/igrok/obsuzhdaem-film-pervyy-mstitel-drugaya-voyna",
@@ -8,6 +8,12 @@
     "captain-america",
     "winter-soldier",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150424085946im_/http://spidermedia.ru/assets/images/import_image/7704.jpg",
+  "modx_id": 7704,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

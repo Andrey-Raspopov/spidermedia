@@ -1,7 +1,10 @@
 {
   "title": "Heroic Age: Все-все-все",
-  "date": "2010-04-19T01:33:00+03:00",
+  "date": "2010-04-19T00:33:07+03:00",
   "url": "/news/heroic-age-vse-vse-vse/",
+  "aliases": [
+    "/node/2557/"
+  ],
   "original_url": "http://spidermedia.ru/news/heroic-age-vse-vse-vse",
   "archived": "https://web.archive.org/web/20260312011318/http://spidermedia.ru/news/heroic-age-vse-vse-vse",
   "tags": [
@@ -10,7 +13,14 @@
     "akademiya-mstitelej",
     "young-avengers",
     "new-avengers",
-    "marvel"
+    "marvel",
+    "novye-mstiteli"
+  ],
+  "cover": "https://web.archive.org/web/20260312011318im_/http://spidermedia.ru/assets/images/import_image/2557.jpg",
+  "modx_id": 2557,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

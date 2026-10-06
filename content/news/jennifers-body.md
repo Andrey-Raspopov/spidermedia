@@ -1,12 +1,21 @@
 {
   "title": "Jennifer's Body",
-  "date": "2009-07-17T20:43:00+03:00",
+  "date": "2009-07-17T19:43:44+03:00",
   "url": "/news/jennifers-body/",
+  "aliases": [
+    "/node/1580/"
+  ],
   "original_url": "https://spidermedia.ru/news/jennifers-body",
   "archived": "https://web.archive.org/web/20230604093353/https://spidermedia.ru/news/jennifers-body",
   "tags": [
     "jennifers-body",
     "boom-studios"
+  ],
+  "cover": "https://web.archive.org/web/20230604093353im_/http://spidermedia.ru/assets/images/import_image/1580.jpg",
+  "modx_id": 1580,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

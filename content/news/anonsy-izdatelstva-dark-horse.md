@@ -1,12 +1,18 @@
 {
   "title": "Анонсы издательства Dark Horse",
-  "date": "2014-07-25T17:00:00+03:00",
+  "date": "2014-07-25T16:00:56+03:00",
   "url": "/news/anonsy-izdatelstva-dark-horse/",
   "original_url": "http://spidermedia.ru/news/anonsy-izdatelstva-dark-horse",
   "archived": "https://web.archive.org/web/20250617233613/http://spidermedia.ru/news/anonsy-izdatelstva-dark-horse",
   "tags": [
     "san-diego-comic-con-international",
     "dark-horse"
+  ],
+  "cover": "https://web.archive.org/web/20160611114919im_/http://spidermedia.ru/assets/images/import_image/7923.png",
+  "modx_id": 7923,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

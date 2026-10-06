@@ -1,7 +1,10 @@
 {
   "title": "Превью и обложки Смерти Человека-Паука",
-  "date": "2011-01-07T01:43:00+03:00",
+  "date": "2011-01-07T01:43:56+03:00",
   "url": "/news/prevyu-i-oblozhki-smerti-cheloveka-pauka/",
+  "aliases": [
+    "/node/3147/"
+  ],
   "original_url": "https://spidermedia.ru/news/prevyu-i-oblozhki-smerti-cheloveka-pauka",
   "archived": "https://web.archive.org/web/20260211185745/https://spidermedia.ru/news/prevyu-i-oblozhki-smerti-cheloveka-pauka",
   "tags": [
@@ -11,7 +14,15 @@
     "art-0",
     "ultimate",
     "spider-man",
-    "ed-makgines"
+    "ed-makgines",
+    "prevyu",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20260211185745im_/http://spidermedia.ru/assets/images/import_image/3147.jpg",
+  "modx_id": 3147,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

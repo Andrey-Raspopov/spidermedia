@@ -1,6 +1,6 @@
 {
   "title": "Шарлто Копли сыграет главную роль в сериале Powers",
-  "date": "2014-08-18T21:42:00+03:00",
+  "date": "2014-08-18T20:42:12+03:00",
   "url": "/news/sharlto-kopli-sygraet-glavnuyu-rol-v-seriale-powers/",
   "original_url": "http://spidermedia.ru/news/sharlto-kopli-sygraet-glavnuyu-rol-v-seriale-powers",
   "archived": "https://web.archive.org/web/20250814215701/http://spidermedia.ru/news/sharlto-kopli-sygraet-glavnuyu-rol-v-seriale-powers",
@@ -9,6 +9,12 @@
     "kasting",
     "brian-michael-bendis",
     "powers"
+  ],
+  "cover": "https://web.archive.org/web/20250814215701im_/http://spidermedia.ru/assets/images/import_image/8001.jpg",
+  "modx_id": 8001,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

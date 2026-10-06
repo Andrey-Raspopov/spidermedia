@@ -9,6 +9,12 @@
     "matt-fraction",
     "zarubezhnye-komiksy-na-russkom"
   ],
+  "cover": "https://web.archive.org/web/20260209123248im_/http://spidermedia.ru/assets/images/news/komilfo/hawkeye-komilfo.jpg",
+  "modx_id": 100209,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

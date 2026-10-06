@@ -4,6 +4,12 @@
   "url": "/tv/komiks-serialy-prodleniya-zakazy-zakrytiya/",
   "original_url": "http://spidermedia.ru/tv/komiks-serialy-prodleniya-zakazy-zakrytiya",
   "archived": "https://web.archive.org/web/20250617221652/http://spidermedia.ru/tv/komiks-serialy-prodleniya-zakazy-zakrytiya",
+  "cover": "https://web.archive.org/web/20250617221652im_/http://spidermedia.ru/assets/images/tv/marvel/agent-carter/111.jpg",
+  "modx_id": 101145,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

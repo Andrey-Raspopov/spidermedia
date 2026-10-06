@@ -1,12 +1,17 @@
 {
   "title": "Jeanine Schaefer",
-  "date": "2009-02-05T20:29:00+03:00",
+  "date": "2009-02-05T19:29:12+03:00",
   "url": "/blog/gess/jeanine-schaefer/",
   "original_url": "http://spidermedia.ru/blog/gess/jeanine-schaefer",
   "archived": "https://web.archive.org/web/20120607055211/http://spidermedia.ru/blog/gess/jeanine-schaefer",
   "tags": [
     "muzyka",
     "redaktory"
+  ],
+  "modx_id": 215,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

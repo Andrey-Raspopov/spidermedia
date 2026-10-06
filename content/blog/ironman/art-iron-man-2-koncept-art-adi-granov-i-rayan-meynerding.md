@@ -1,7 +1,10 @@
 {
   "title": "\"The Art of Iron Man 2\" - Концепт-арт, Ади Гранов и Райан Мейнердинг",
-  "date": "2010-05-04T18:28:00+03:00",
+  "date": "2010-05-04T17:28:21+03:00",
   "url": "/blog/ironman/art-iron-man-2-koncept-art-adi-granov-i-rayan-meynerding/",
+  "aliases": [
+    "/node/2598/"
+  ],
   "original_url": "http://spidermedia.ru/blog/ironman/art-iron-man-2-koncept-art-adi-granov-i-rayan-meynerding",
   "archived": "https://web.archive.org/web/20250116174624/http://spidermedia.ru/blog/ironman/art-iron-man-2-koncept-art-adi-granov-i-rayan-meynerding",
   "tags": [
@@ -10,7 +13,15 @@
     "dzhon-favro",
     "art-0",
     "marvel",
-    "iron-man"
+    "iron-man",
+    "art",
+    "zheleznyy-chelovek"
+  ],
+  "cover": "https://web.archive.org/web/20250116174624im_/http://spidermedia.ru/assets/images/import_image/2598.jpg",
+  "modx_id": 2598,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

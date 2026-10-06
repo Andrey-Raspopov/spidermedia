@@ -8,6 +8,12 @@
     "dc-comics",
     "geoff-johns"
   ],
+  "cover": "https://web.archive.org/web/20160611163744im_/http://spidermedia.ru/assets/images/news/dc/rebirth-2016/rebirth-it-never-was-b3885.jpg",
+  "modx_id": 100926,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,11 +1,17 @@
 {
   "title": "Русские фигурки от Prosto Toys",
-  "date": "2013-10-31T11:08:00+03:00",
+  "date": "2013-10-31T10:08:18+03:00",
   "url": "/news/russkie-figurki-ot-prosto-toys/",
   "original_url": "http://spidermedia.ru/news/russkie-figurki-ot-prosto-toys",
   "archived": "https://web.archive.org/web/20260313105015/http://spidermedia.ru/news/russkie-figurki-ot-prosto-toys",
   "tags": [
     "figurki"
+  ],
+  "cover": "https://web.archive.org/web/20150326221555im_/http://spidermedia.ru/assets/images/import_image/7524.jpg",
+  "modx_id": 7524,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

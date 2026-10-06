@@ -1,14 +1,24 @@
 {
   "title": "Комикс недели ! (07.02.2009)",
-  "date": "2009-02-08T00:00:00+03:00",
+  "date": "2009-02-08T00:00:18+03:00",
   "url": "/blog/ghost-knight/komiks-nedeli-07022009/",
+  "aliases": [
+    "/node/265/"
+  ],
   "original_url": "http://spidermedia.ru/blog/ghost-knight/komiks-nedeli-07022009",
   "archived": "https://web.archive.org/web/20250814211552/http://spidermedia.ru/blog/ghost-knight/komiks-nedeli-07022009",
   "tags": [
     "marvel",
     "recenziya",
     "thunderbolts",
-    "komiksy"
+    "komiksy",
+    "komiks-nedeli"
+  ],
+  "cover": "https://web.archive.org/web/20250814211552im_/http://spidermedia.ru/assets/images/import_image/265.jpg",
+  "modx_id": 265,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

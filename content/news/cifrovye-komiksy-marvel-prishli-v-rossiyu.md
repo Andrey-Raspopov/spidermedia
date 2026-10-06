@@ -1,6 +1,6 @@
 {
   "title": "Цифровые комиксы Марвел пришли в Россию",
-  "date": "2014-02-07T01:43:00+03:00",
+  "date": "2014-02-07T00:43:43+03:00",
   "url": "/news/cifrovye-komiksy-marvel-prishli-v-rossiyu/",
   "original_url": "http://spidermedia.ru/news/cifrovye-komiksy-marvel-prishli-v-rossiyu",
   "archived": "https://web.archive.org/web/20260211184007/http://spidermedia.ru/news/cifrovye-komiksy-marvel-prishli-v-rossiyu",
@@ -9,6 +9,12 @@
     "marvel",
     "industriya",
     "zarubezhnye-komiksy-na-russkom"
+  ],
+  "cover": "https://web.archive.org/web/20260211184007im_/http://spidermedia.ru/assets/images/import_image/7632.jpg",
+  "modx_id": 7632,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "SDCC'10: Green Lantern - Пресс-конференция",
-  "date": "2010-07-26T18:15:00+03:00",
+  "date": "2010-07-26T17:15:52+03:00",
   "url": "/news/sdcc10-green-lantern-press-konferenciya/",
+  "aliases": [
+    "/node/2806/"
+  ],
   "original_url": "http://spidermedia.ru/news/sdcc10-green-lantern-press-konferenciya",
   "archived": "https://web.archive.org/web/20120608153515/http://spidermedia.ru/news/sdcc10-green-lantern-press-konferenciya",
   "tags": [
@@ -11,7 +14,14 @@
     "zelenyy-fonar",
     "intervyu",
     "kino",
-    "komik-kon-v-san-diego"
+    "komik-kon-v-san-diego",
+    "san-diego-comic-con-international"
+  ],
+  "cover": "https://web.archive.org/web/20120608153515im_/http://spidermedia.ru/assets/images/import_image/2806.png",
+  "modx_id": 2806,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

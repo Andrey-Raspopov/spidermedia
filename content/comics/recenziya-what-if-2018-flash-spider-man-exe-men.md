@@ -9,6 +9,12 @@
     "x-men",
     "spider-man"
   ],
+  "cover": "https://web.archive.org/web/20260305230424im_/http://spidermedia.ru/assets/images/reviews/marvel/what-if/2018/spider-man-x-men/1.jpg",
+  "modx_id": 102032,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

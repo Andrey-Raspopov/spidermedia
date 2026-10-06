@@ -10,6 +10,12 @@
     "san-diego-comic-con-international",
     "justice-league"
   ],
+  "cover": "https://web.archive.org/web/20260117232638im_/http://spidermedia.ru/assets/images/news/sdcc/2017/0.jpg",
+  "modx_id": 101626,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

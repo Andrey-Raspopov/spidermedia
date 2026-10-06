@@ -1,13 +1,20 @@
 {
   "title": "«Доктор Кто: Глубокий вдох»: Мнение редакции",
-  "date": "2014-08-25T12:01:00+03:00",
+  "date": "2014-08-25T11:01:33+03:00",
   "url": "/blog/redson/doktor-kto-glubokiy-vdoh-mnenie-redakcii-0/",
   "original_url": "https://spidermedia.ru/blog/redson/doktor-kto-glubokiy-vdoh-mnenie-redakcii-0",
   "archived": "https://web.archive.org/web/20241211214755/https://spidermedia.ru/blog/redson/doktor-kto-glubokiy-vdoh-mnenie-redakcii-0",
   "tags": [
     "doctor-who",
     "mnenie",
-    "serialy"
+    "serialy",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20241211214755im_/http://spidermedia.ru/assets/images/import_image/8015.jpg",
+  "modx_id": 8015,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

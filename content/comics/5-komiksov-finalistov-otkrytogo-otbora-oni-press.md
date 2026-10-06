@@ -7,6 +7,12 @@
   "tags": [
     "oni-press"
   ],
+  "cover": "https://web.archive.org/web/20260125081619im_/http://spidermedia.ru/assets/images/news/oni-press/open-submissions/pilu-spot-illustration-use-this-08666.jpg",
+  "modx_id": 101108,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

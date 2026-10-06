@@ -1,6 +1,6 @@
 {
   "title": "\"Countrymen... we share the same ears.\" Now animated!",
-  "date": "2010-03-02T20:04:00+03:00",
+  "date": "2010-03-02T20:04:04+03:00",
   "url": "/blog/oleg89/countrymen-we-share-same-ears-now-animated/",
   "original_url": "http://spidermedia.ru/blog/oleg89/countrymen-we-share-same-ears-now-animated",
   "archived": "https://web.archive.org/web/20260115062025/http://spidermedia.ru/blog/oleg89/countrymen-we-share-same-ears-now-animated",
@@ -14,6 +14,11 @@
     "aleks-kurtcman",
     "tim-dzhons",
     "majk-dzhonson"
+  ],
+  "modx_id": 2412,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

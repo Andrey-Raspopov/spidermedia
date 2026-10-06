@@ -1,14 +1,24 @@
 {
   "title": "Next",
-  "date": "2010-09-27T00:45:00+03:00",
+  "date": "2010-09-26T23:45:07+03:00",
   "url": "/news/next/",
+  "aliases": [
+    "/node/2951/"
+  ],
   "original_url": "http://spidermedia.ru/news/next",
   "archived": "https://web.archive.org/web/20120609090421/http://spidermedia.ru/news/next",
   "tags": [
     "art-0",
     "komiksy",
     "marvel",
-    "tom-brevurt"
+    "tom-brevurt",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20120609090421im_/http://spidermedia.ru/assets/images/import_image/2951.jpg",
+  "modx_id": 2951,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

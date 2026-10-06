@@ -1,12 +1,18 @@
 {
   "title": "Комикс \"МАУС\" выходит в России",
-  "date": "2013-09-24T22:16:00+03:00",
+  "date": "2013-09-24T21:16:32+03:00",
   "url": "/news/komiks-maus-vyhodit-v-rossii/",
   "original_url": "http://spidermedia.ru/news/komiks-maus-vyhodit-v-rossii",
   "archived": "https://web.archive.org/web/20170609210828/http://spidermedia.ru:80/news/komiks-maus-vyhodit-v-rossii",
   "tags": [
     "novosti",
     "zarubezhnye-komiksy-na-russkom"
+  ],
+  "cover": "https://web.archive.org/web/20170609210828im_/http://spidermedia.ru/assets/images/import_image/7479.jpg",
+  "modx_id": 7479,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

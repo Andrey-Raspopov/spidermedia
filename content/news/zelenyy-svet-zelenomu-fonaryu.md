@@ -1,13 +1,22 @@
 {
   "title": "Зеленый свет Зеленому Фонарю",
-  "date": "2009-02-23T20:14:00+03:00",
+  "date": "2009-02-23T20:14:55+03:00",
   "url": "/news/zelenyy-svet-zelenomu-fonaryu/",
+  "aliases": [
+    "/node/484/"
+  ],
   "original_url": "https://spidermedia.ru/news/zelenyy-svet-zelenomu-fonaryu",
   "archived": "https://web.archive.org/web/20250429012205/https://spidermedia.ru/news/zelenyy-svet-zelenomu-fonaryu",
   "tags": [
     "dc-comics",
     "green-lantern",
     "hal-jordan"
+  ],
+  "cover": "https://web.archive.org/web/20250429012205im_/http://spidermedia.ru/assets/images/green-lantern-logo.jpg",
+  "modx_id": 484,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

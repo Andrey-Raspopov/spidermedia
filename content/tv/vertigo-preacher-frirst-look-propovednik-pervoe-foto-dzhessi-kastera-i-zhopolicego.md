@@ -8,6 +8,12 @@
     "vertigo",
     "preacher"
   ],
+  "cover": "https://web.archive.org/web/20250909140036im_/http://spidermedia.ru/assets/images/tv/dc/preacher-amc-tv-series/dc-comics-vertigo-preacher-dominic-cooper-arseface-first-look.jpg",
+  "modx_id": 100231,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

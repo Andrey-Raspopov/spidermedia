@@ -9,6 +9,12 @@
     "deadpool",
     "utka-govard"
   ],
+  "cover": "https://web.archive.org/web/20250806052857im_/http://spidermedia.ru/assets/images/news/marvel/thumb.jpg",
+  "modx_id": 101365,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

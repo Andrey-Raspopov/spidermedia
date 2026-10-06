@@ -1,6 +1,6 @@
 {
   "title": "Мысль",
-  "date": "2009-02-12T22:38:00+03:00",
+  "date": "2009-02-12T22:38:21+03:00",
   "url": "/blog/bastion7/mysl/",
   "original_url": "https://spidermedia.ru/blog/bastion7/mysl",
   "archived": "https://web.archive.org/web/20241202084735/https://spidermedia.ru/blog/bastion7/mysl",
@@ -9,6 +9,11 @@
     "mysli",
     "grant-morrison",
     "garth-ennis"
+  ],
+  "modx_id": 334,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,13 +1,20 @@
 {
   "title": "Герои\\Heroes s3 ep.20 - \"Cold Snap\"\\\"Заморозки\"",
-  "date": "2009-03-25T13:47:00+03:00",
+  "date": "2009-03-25T13:47:22+03:00",
   "url": "/blog/alex/geroi-heroes-s3-ep20-cold-snap-zamorozki/",
   "original_url": "http://spidermedia.ru/blog/alex/geroi-heroes-s3-ep20-cold-snap-zamorozki",
   "archived": "https://web.archive.org/web/20190901223110/http://spidermedia.ru:80/blog/alex/geroi-heroes-s3-ep20-cold-snap-zamorozki",
   "tags": [
     "heroes",
     "serialy",
-    "geroi"
+    "geroi",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20190901223110im_/http://spidermedia.ru/assets/images/import_image/765.gif",
+  "modx_id": 765,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

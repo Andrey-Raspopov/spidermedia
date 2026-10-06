@@ -1,7 +1,10 @@
 {
   "title": "Пугающая симметрия или Джокер от Hot Toys",
-  "date": "2009-04-14T16:19:00+03:00",
+  "date": "2009-04-14T15:19:48+03:00",
   "url": "/blog/sterpazook/pugayushchaya-simmetriya-ili-dzhoker-ot-hot-toys/",
+  "aliases": [
+    "/node/935/"
+  ],
   "original_url": "https://spidermedia.ru/blog/sterpazook/pugayushchaya-simmetriya-ili-dzhoker-ot-hot-toys",
   "archived": "https://web.archive.org/web/20260211184554/https://spidermedia.ru/blog/sterpazook/pugayushchaya-simmetriya-ili-dzhoker-ot-hot-toys",
   "tags": [
@@ -10,6 +13,12 @@
     "dark-knight",
     "figurki",
     "temnyj-rycar"
+  ],
+  "cover": "https://web.archive.org/web/20260211184554im_/http://spidermedia.ru/assets/images/import_image/935.jpg",
+  "modx_id": 935,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,13 +1,20 @@
 {
   "title": "Line",
-  "date": "2009-02-03T20:47:00+03:00",
+  "date": "2009-02-03T19:47:45+03:00",
   "url": "/blog/naya/line/",
   "original_url": "http://spidermedia.ru/blog/naya/line",
   "archived": "https://web.archive.org/web/20120612230417/http://spidermedia.ru/blog/naya/line",
   "tags": [
     "manga",
     "mystery",
-    "skachat"
+    "skachat",
+    "manga-2"
+  ],
+  "cover": "https://web.archive.org/web/20120612230417im_/http://spidermedia.ru/assets/images/import_image/158.gif",
+  "modx_id": 158,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

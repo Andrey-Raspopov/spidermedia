@@ -1,12 +1,18 @@
 {
   "title": "WWPRJD?",
-  "date": "2012-04-10T17:24:00+03:00",
+  "date": "2012-04-10T16:24:21+03:00",
   "url": "/news/wwprjd/",
   "original_url": "https://spidermedia.ru/news/wwprjd",
   "archived": "https://web.archive.org/web/20260206223239/https://spidermedia.ru/news/wwprjd",
   "tags": [
     "shon-merfi",
     "vertigo"
+  ],
+  "cover": "https://web.archive.org/web/20260206223239im_/http://spidermedia.ru/assets/images/import_image/6861.jpg",
+  "modx_id": 6861,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

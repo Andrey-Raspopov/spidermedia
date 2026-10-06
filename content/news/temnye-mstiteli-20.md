@@ -1,6 +1,6 @@
 {
   "title": "Темные Мстители 2.0",
-  "date": "2011-08-11T11:43:00+03:00",
+  "date": "2011-08-11T10:43:14+03:00",
   "url": "/news/temnye-mstiteli-20/",
   "original_url": "http://spidermedia.ru/news/temnye-mstiteli-20",
   "archived": "https://web.archive.org/web/20250715232604/http://spidermedia.ru/news/temnye-mstiteli-20",
@@ -10,7 +10,15 @@
     "majk-deodato",
     "brian-michael-bendis",
     "marvel",
-    "avengers"
+    "avengers",
+    "art",
+    "dark-avengers"
+  ],
+  "cover": "https://web.archive.org/web/20250715232604im_/http://spidermedia.ru/assets/images/import_image/6557.jpg",
+  "modx_id": 6557,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

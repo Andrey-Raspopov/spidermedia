@@ -1,6 +1,6 @@
 {
   "title": "До Хранителей, во время стыдобы",
-  "date": "2012-04-26T10:35:00+03:00",
+  "date": "2012-04-26T09:35:21+03:00",
   "url": "/blog/plane-v/do-hraniteley-vo-vremya-stydoby/",
   "original_url": "https://spidermedia.ru/blog/plane-v/do-hraniteley-vo-vremya-stydoby",
   "archived": "https://web.archive.org/web/20250807220154/https://spidermedia.ru/blog/plane-v/do-hraniteley-vo-vremya-stydoby",
@@ -9,6 +9,12 @@
     "gryazyuka",
     "hraniteli",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150502202346im_/http://spidermedia.ru/assets/images/import_image/6887.jpg",
+  "modx_id": 6887,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

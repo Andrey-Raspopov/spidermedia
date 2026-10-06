@@ -9,6 +9,12 @@
     "gabriel-rodriguez",
     "joe-hill"
   ],
+  "cover": "https://web.archive.org/web/20160611132147im_/http://spidermedia.ru/assets/images/news/idw/tales-from-the-darkside.jpg",
+  "modx_id": 100941,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

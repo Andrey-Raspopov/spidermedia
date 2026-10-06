@@ -1,6 +1,6 @@
 {
   "title": "DC запускает два новых бэт-онгоинга в октябре",
-  "date": "2014-07-01T14:24:00+03:00",
+  "date": "2014-07-01T13:24:09+03:00",
   "url": "/news/dc-zapustit-dva-novyh-bet-ongoinga-v-oktyabre/",
   "original_url": "https://spidermedia.ru/news/dc-zapustit-dva-novyh-bet-ongoinga-v-oktyabre",
   "archived": "https://web.archive.org/web/20260120150843/https://spidermedia.ru/news/dc-zapustit-dva-novyh-bet-ongoinga-v-oktyabre",
@@ -8,6 +8,12 @@
     "batman",
     "dc-comics",
     "arkham-asylum"
+  ],
+  "cover": "https://web.archive.org/web/20260120150843im_/http://spidermedia.ru/assets/images/import_image/7851.jpg",
+  "modx_id": 7851,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

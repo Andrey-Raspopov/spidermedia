@@ -9,6 +9,12 @@
     "art-tribyut",
     "mike-mignola-russia"
   ],
+  "cover": "https://web.archive.org/web/20160611164727im_/http://spidermedia.ru/assets/images/hellboymedia/project-02-russia/iconic-scenes-smagin/smagin-iconic-scenes-part-2-cover-horizontal.jpg.jpg",
+  "modx_id": 100792,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

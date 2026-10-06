@@ -4,6 +4,12 @@
   "url": "/comics/bigfest-anons/",
   "original_url": "https://spidermedia.ru/comics/bigfest-anons",
   "archived": "https://web.archive.org/web/20250909135433/https://spidermedia.ru/comics/bigfest-anons",
+  "cover": "https://web.archive.org/web/20240716070449im_/http://spidermedia.ru/assets/images/bigfest/2016/anons/4.jpg",
+  "modx_id": 101025,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

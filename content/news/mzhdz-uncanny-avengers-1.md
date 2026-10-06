@@ -1,6 +1,6 @@
 {
   "title": "МЖДЗ: UNCANNY AVENGERS #1",
-  "date": "2012-10-12T15:27:00+03:00",
+  "date": "2012-10-12T14:27:34+03:00",
   "url": "/news/mzhdz-uncanny-avengers-1/",
   "original_url": "http://spidermedia.ru/news/mzhdz-uncanny-avengers-1",
   "archived": "https://web.archive.org/web/20260306001416/http://spidermedia.ru/news/mzhdz-uncanny-avengers-1",
@@ -12,7 +12,14 @@
     "x-men",
     "marvel",
     "rick-remender",
-    "john-cassaday"
+    "john-cassaday",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20260306001416im_/http://spidermedia.ru/assets/images/import_image/7056.png",
+  "modx_id": 7056,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

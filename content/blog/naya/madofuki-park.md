@@ -1,6 +1,6 @@
 {
   "title": "Madofuki Park",
-  "date": "2009-02-01T20:43:00+03:00",
+  "date": "2009-02-01T19:43:21+03:00",
   "url": "/blog/naya/madofuki-park/",
   "original_url": "http://spidermedia.ru/blog/naya/madofuki-park",
   "archived": "https://web.archive.org/web/20120608033720/http://spidermedia.ru/blog/naya/madofuki-park",
@@ -8,7 +8,14 @@
     "manga",
     "one-shot",
     "sci-fi",
-    "skachat"
+    "skachat",
+    "manga-2"
+  ],
+  "cover": "https://web.archive.org/web/20120608033720im_/http://spidermedia.ru/assets/images/import_image/82.jpg",
+  "modx_id": 82,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

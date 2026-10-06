@@ -1,7 +1,10 @@
 {
   "title": "Отец и сын",
-  "date": "2009-11-20T21:43:00+03:00",
+  "date": "2009-11-20T21:43:30+03:00",
   "url": "/blog/fox1992/otec-i-syn/",
+  "aliases": [
+    "/node/2120/"
+  ],
   "original_url": "http://spidermedia.ru/blog/fox1992/otec-i-syn",
   "archived": "https://web.archive.org/web/20260214131520/http://spidermedia.ru/blog/fox1992/otec-i-syn",
   "tags": [
@@ -10,6 +13,12 @@
     "daken",
     "wolverine",
     "will-conrad"
+  ],
+  "cover": "https://web.archive.org/web/20260214131520im_/http://spidermedia.ru/assets/images/import_image/2120.jpg",
+  "modx_id": 2120,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

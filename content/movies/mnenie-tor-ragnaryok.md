@@ -9,6 +9,12 @@
     "thor",
     "hulk"
   ],
+  "cover": "https://web.archive.org/web/20260116215314im_/http://spidermedia.ru/assets/images/movies/marvel/thor1.png",
+  "modx_id": 101703,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

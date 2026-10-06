@@ -4,6 +4,9 @@
   "url": "/tv-index/marvel-comics/inhumans-abc-imax-tv-series/",
   "original_url": "http://spidermedia.ru/tv-index/marvel-comics/inhumans-abc-imax-tv-series",
   "archived": "https://web.archive.org/web/20250913022423/http://spidermedia.ru/tv-index/marvel-comics/inhumans-abc-imax-tv-series",
+  "sources": [
+    "archive"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

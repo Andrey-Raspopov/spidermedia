@@ -1,7 +1,10 @@
 {
   "title": "Batman & Six",
-  "date": "2009-03-21T01:42:00+03:00",
+  "date": "2009-03-21T01:42:30+03:00",
   "url": "/news/batman-six/",
+  "aliases": [
+    "/node/735/"
+  ],
   "original_url": "http://spidermedia.ru/news/batman-six",
   "archived": "https://web.archive.org/web/20251110230931/http://spidermedia.ru/news/batman-six",
   "tags": [
@@ -11,6 +14,12 @@
     "superman",
     "sekretnaya-shesterka",
     "wonder-woman"
+  ],
+  "cover": "https://web.archive.org/web/20251110230931im_/http://spidermedia.ru/assets/images/import_image/735.jpg",
+  "modx_id": 735,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

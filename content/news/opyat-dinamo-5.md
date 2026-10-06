@@ -1,12 +1,21 @@
 {
   "title": "Опять Динамо 5",
-  "date": "2010-04-13T20:52:00+03:00",
+  "date": "2010-04-13T19:52:40+03:00",
   "url": "/news/opyat-dinamo-5/",
+  "aliases": [
+    "/node/2542/"
+  ],
   "original_url": "http://spidermedia.ru/news/opyat-dinamo-5",
   "archived": "https://web.archive.org/web/20250209115959/http://spidermedia.ru/news/opyat-dinamo-5",
   "tags": [
     "jay-faerber",
     "image-comics"
+  ],
+  "cover": "https://web.archive.org/web/20250209115959im_/http://spidermedia.ru/assets/images/import_image/2542.jpg",
+  "modx_id": 2542,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

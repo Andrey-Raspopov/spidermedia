@@ -1,7 +1,10 @@
 {
   "title": "Я и Mutant Massacre pt.1",
-  "date": "2009-12-30T10:47:00+03:00",
+  "date": "2009-12-30T10:47:42+03:00",
   "url": "/blog/gess/ya-i-mutant-massacre-pt1/",
+  "aliases": [
+    "/node/2206/"
+  ],
   "original_url": "http://spidermedia.ru/blog/gess/ya-i-mutant-massacre-pt1",
   "archived": "https://web.archive.org/web/20190924050326/http://spidermedia.ru:80/blog/gess/ya-i-mutant-massacre-pt1",
   "tags": [
@@ -11,6 +14,12 @@
     "mnenie",
     "marvel",
     "x-men"
+  ],
+  "cover": "https://web.archive.org/web/20190924050326im_/http://spidermedia.ru/assets/images/import_image/2206.jpg",
+  "modx_id": 2206,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

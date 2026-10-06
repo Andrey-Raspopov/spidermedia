@@ -1,6 +1,6 @@
 {
   "title": "Уличный Мститель",
-  "date": "2012-04-15T05:40:00+03:00",
+  "date": "2012-04-15T04:40:01+03:00",
   "url": "/news/ulichnyy-mstitel/",
   "original_url": "https://spidermedia.ru/news/ulichnyy-mstitel",
   "archived": "https://web.archive.org/web/20260209105801/https://spidermedia.ru/news/ulichnyy-mstitel",
@@ -8,7 +8,14 @@
     "matt-fraction",
     "devid-aha",
     "marvel",
-    "hawkeye"
+    "hawkeye",
+    "mett-frakshen"
+  ],
+  "cover": "https://web.archive.org/web/20260209105801im_/http://spidermedia.ru/assets/images/import_image/6873.jpg",
+  "modx_id": 6873,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

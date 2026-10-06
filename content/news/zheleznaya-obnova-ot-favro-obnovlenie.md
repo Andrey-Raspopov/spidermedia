@@ -1,7 +1,10 @@
 {
   "title": "Железная обнова от Фавро + Обновление",
-  "date": "2009-12-03T21:12:00+03:00",
+  "date": "2009-12-03T20:12:50+03:00",
   "url": "/news/zheleznaya-obnova-ot-favro-obnovlenie/",
+  "aliases": [
+    "/node/2141/"
+  ],
   "original_url": "http://spidermedia.ru/news/zheleznaya-obnova-ot-favro-obnovlenie",
   "archived": "https://web.archive.org/web/20120613033827/http://spidermedia.ru/news/zheleznaya-obnova-ot-favro-obnovlenie",
   "tags": [
@@ -14,6 +17,12 @@
     "kino",
     "komiksy",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20120613033827im_/http://spidermedia.ru/assets/images/import_image/2141.jpg",
+  "modx_id": 2141,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

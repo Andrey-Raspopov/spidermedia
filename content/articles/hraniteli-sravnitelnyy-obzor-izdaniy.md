@@ -1,6 +1,6 @@
 {
   "title": "Watchmen — Хранители: Сравнительный обзор изданий",
-  "date": "2014-10-28T12:02:00+03:00",
+  "date": "2014-10-28T12:02:32+03:00",
   "url": "/articles/hraniteli-sravnitelnyy-obzor-izdaniy/",
   "original_url": "http://spidermedia.ru/articles/hraniteli-sravnitelnyy-obzor-izdaniy",
   "archived": "https://web.archive.org/web/20260123081215/http://spidermedia.ru/articles/hraniteli-sravnitelnyy-obzor-izdaniy",
@@ -11,6 +11,12 @@
     "alan-mur",
     "azbuka",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20160127205918im_/http://spidermedia.ru/assets/images/import_image/8231.jpg",
+  "modx_id": 8231,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

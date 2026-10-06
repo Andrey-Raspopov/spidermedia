@@ -8,6 +8,12 @@
     "dc-comics",
     "batman"
   ],
+  "cover": "https://web.archive.org/web/20160611161315im_/http://spidermedia.ru/assets/images/gallery/100625/original_dark-knight-III-cover29.jpg",
+  "modx_id": 100625,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,12 +1,20 @@
 {
   "title": "The Art of Thor the Movie (artbook)",
-  "date": "2012-03-10T15:30:00+03:00",
+  "date": "2012-03-10T14:30:54+03:00",
   "url": "/blog/naya/art-thor-movie-artbook/",
   "original_url": "http://spidermedia.ru/blog/naya/art-thor-movie-artbook",
   "archived": "https://web.archive.org/web/20260117215833/http://spidermedia.ru/blog/naya/art-thor-movie-artbook",
   "tags": [
     "art-0",
-    "thor"
+    "thor",
+    "art",
+    "tor"
+  ],
+  "cover": "https://web.archive.org/web/20260117215833im_/http://spidermedia.ru/assets/images/import_image/6821.jpg",
+  "modx_id": 6821,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

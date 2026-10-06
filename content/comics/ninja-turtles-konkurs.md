@@ -8,6 +8,12 @@
     "viktorina",
     "ninja-turtles"
   ],
+  "cover": "https://web.archive.org/web/20250906074621im_/http://spidermedia.ru/assets/images/bigfest/2016/anons/1(1).jpg",
+  "modx_id": 101130,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

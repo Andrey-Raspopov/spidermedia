@@ -4,6 +4,12 @@
   "url": "/movies/mad-max-fury-road-review/",
   "original_url": "http://spidermedia.ru/movies/mad-max-fury-road-review",
   "archived": "https://web.archive.org/web/20211208133708/http://spidermedia.ru/movies/mad-max-fury-road-review",
+  "cover": "https://web.archive.org/web/20160611124838im_/http://spidermedia.ru/assets/images/movies/other/mad-max-fury-road/mad-max-4-fury-road.jpg",
+  "modx_id": 100230,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

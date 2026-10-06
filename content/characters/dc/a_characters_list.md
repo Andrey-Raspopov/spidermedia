@@ -4,6 +4,9 @@
   "url": "/characters/dc/a_characters_list/",
   "original_url": "http://www.spidermedia.ru/characters/dc/a_characters_list.html",
   "archived": "https://web.archive.org/web/20050312044059/http://www.spidermedia.ru:80/characters/dc/a_characters_list.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

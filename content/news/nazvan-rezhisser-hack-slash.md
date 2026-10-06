@@ -1,12 +1,21 @@
 {
   "title": "Назван режиссер \"Hack/Slash\"",
-  "date": "2009-07-15T13:49:00+03:00",
+  "date": "2009-07-15T12:49:07+03:00",
   "url": "/news/nazvan-rezhisser-hack-slash/",
+  "aliases": [
+    "/node/1562/"
+  ],
   "original_url": "https://spidermedia.ru/news/nazvan-rezhisser-hack-slash",
   "archived": "https://web.archive.org/web/20250419042327/https://spidermedia.ru/news/nazvan-rezhisser-hack-slash",
   "tags": [
     "hackslash",
     "devils-due-publishing"
+  ],
+  "cover": "https://web.archive.org/web/20250419042327im_/http://spidermedia.ru/assets/images/import_image/1562.jpg",
+  "modx_id": 1562,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

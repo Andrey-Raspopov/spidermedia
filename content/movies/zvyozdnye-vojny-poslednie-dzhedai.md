@@ -4,6 +4,12 @@
   "url": "/movies/zvyozdnye-vojny-poslednie-dzhedai/",
   "original_url": "https://spidermedia.ru/movies/zvyozdnye-vojny-poslednie-dzhedai",
   "archived": "https://web.archive.org/web/20260312022608/https://spidermedia.ru/movies/zvyozdnye-vojny-poslednie-dzhedai",
+  "cover": "https://web.archive.org/web/20260312022608im_/http://spidermedia.ru/assets/images/movies/other/uvyvy.png",
+  "modx_id": 101762,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -8,6 +8,12 @@
     "hellboymedia",
     "novosti"
   ],
+  "cover": "https://web.archive.org/web/20180202053120im_/http://spidermedia.ru/assets/images/hellboymedia/news/mignola-spectrum-grand-master/spectrum-grand-master-cover.jpg",
+  "modx_id": 101155,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

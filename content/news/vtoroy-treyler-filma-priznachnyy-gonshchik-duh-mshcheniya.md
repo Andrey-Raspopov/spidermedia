@@ -1,6 +1,6 @@
 {
   "title": "Второй трейлер фильма \"Призрачный гонщик: Дух мщения\"",
-  "date": "2011-12-16T12:29:00+03:00",
+  "date": "2011-12-16T11:29:51+03:00",
   "url": "/news/vtoroy-treyler-filma-priznachnyy-gonshchik-duh-mshcheniya/",
   "original_url": "http://spidermedia.ru/news/vtoroy-treyler-filma-priznachnyy-gonshchik-duh-mshcheniya",
   "archived": "https://web.archive.org/web/20250803085838/http://spidermedia.ru/news/vtoroy-treyler-filma-priznachnyy-gonshchik-duh-mshcheniya",
@@ -8,6 +8,12 @@
     "trejlery",
     "prizrachnyj-gonshhik",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20250803085838im_/http://spidermedia.ru/assets/images/import_image/6741.jpg",
+  "modx_id": 6741,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

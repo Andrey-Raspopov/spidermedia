@@ -1,6 +1,6 @@
 {
   "title": "Я читаю Marvel NOW! Выпуск 2.2: Мстителей много не бывает... наверно",
-  "date": "2013-05-13T12:17:00+03:00",
+  "date": "2013-05-13T11:17:25+03:00",
   "url": "/blog/redson/ya-chitayu-marvel-now-vypusk-22-mstiteley-mnogo-ne-byvaet-naverno/",
   "original_url": "https://spidermedia.ru/blog/redson/ya-chitayu-marvel-now-vypusk-22-mstiteley-mnogo-ne-byvaet-naverno",
   "archived": "https://web.archive.org/web/20251211025758/https://spidermedia.ru/blog/redson/ya-chitayu-marvel-now-vypusk-22-mstiteley-mnogo-ne-byvaet-naverno",
@@ -12,6 +12,12 @@
     "dennis-houpless",
     "avengers",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20251211025758im_/http://spidermedia.ru/assets/images/import_image/7240.jpg",
+  "modx_id": 7240,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,11 +1,19 @@
 {
   "title": "You may have to defeat my seven evil remixes",
-  "date": "2010-07-22T23:08:00+03:00",
+  "date": "2010-07-22T22:08:37+03:00",
   "url": "/news/you-may-have-defeat-my-seven-evil-remixes/",
+  "aliases": [
+    "/node/2771/"
+  ],
   "original_url": "http://spidermedia.ru/news/you-may-have-defeat-my-seven-evil-remixes",
   "archived": "https://web.archive.org/web/20190820210110/http://spidermedia.ru:80/news/you-may-have-defeat-my-seven-evil-remixes",
   "tags": [
     "scott-pilgrim"
+  ],
+  "modx_id": 2771,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,11 +1,17 @@
 {
   "title": "2010: Winners and Losers",
-  "date": "2011-01-22T14:56:00+03:00",
+  "date": "2011-01-22T14:56:19+03:00",
   "url": "/blog/sir-carnage/2010-winners-and-losers/",
   "original_url": "https://spidermedia.ru/blog/sir-carnage/2010-winners-and-losers",
   "archived": "https://web.archive.org/web/20250217073444/https://spidermedia.ru/blog/sir-carnage/2010-winners-and-losers",
   "tags": [
     "itogi-goda"
+  ],
+  "cover": "https://web.archive.org/web/20250217073444im_/http://spidermedia.ru/assets/images/import_image/3185.jpg",
+  "modx_id": 3185,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
@@ -51,7 +57,7 @@
 Сюда же можно записать и **Batman Incorporated**, но не **The Return of Bruce Wayne**, там Моррисон недотянул (или перетянул, хрен его знает). Профессор Пиг, конечно, всё ещё раздражает, но не считая этого всё просто отлично. Правда я как пить дать пропустил где-то десяток скрытых смыслов, но эффект и без них силён.
 **4. Scott Pilgrim's Finest Hour by Brian Lee O'Malley (Oni Press)**
 [![](https://web.archive.org/web/20250217073444im_/http://img.photobucket.com/albums/v497/spidermedia/scottpilgrim_06_075_t.png)](http://img.photobucket.com/albums/v497/spidermedia/scottpilgrim_06_075.png)
-Ну тут пожалуй без комментариев, Ви уже [большой хороший обзор](http://www.spidermedia.ru/node/2760) написал, мне добавить нечего.
+Ну тут пожалуй без комментариев, Ви уже [большой хороший обзор](../../plane-v/maybe-we-dont-do-hits/) написал, мне добавить нечего.
 **3. The Unwritten by Mike Carey and Peter Gross (Vertigo)**
 [![](https://web.archive.org/web/20250217073444im_/http://img.photobucket.com/albums/v497/spidermedia/Unwritten18-026_t.jpg)](http://img.photobucket.com/albums/v497/spidermedia/Unwritten18-026.jpg)
 Вполне логично, что комикс, который я обозвал лучшим новым онгоингом прошлого года окажется тут где-нибудь близко к верху. Серия за год ничуть не испортилась и даже успела интересно соригинальничать, превратившись на один номер в Pick-a-Story book. Может вставляло бы ещё сильнее, если бы я ещё и Моби Дика читал.

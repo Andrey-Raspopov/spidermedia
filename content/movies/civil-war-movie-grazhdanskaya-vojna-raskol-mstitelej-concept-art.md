@@ -9,7 +9,14 @@
     "iron-man",
     "captain-america",
     "avengers",
-    "civil-war"
+    "civil-war",
+    "zheleznyy-chelovek"
+  ],
+  "cover": "https://web.archive.org/web/20160611102907im_/http://spidermedia.ru/assets/images/movies/marvel/captain-america-3-civil-war-2016/captain-america-civil-war-movie-concept-art-1.jpg",
+  "modx_id": 100493,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "Ye Olde Batman",
-  "date": "2009-09-11T23:01:00+03:00",
+  "date": "2009-09-11T22:01:21+03:00",
   "url": "/news/ye-olde-batman/",
+  "aliases": [
+    "/node/1887/"
+  ],
   "original_url": "https://spidermedia.ru/news/ye-olde-batman",
   "archived": "https://web.archive.org/web/20250913012645/https://spidermedia.ru/news/ye-olde-batman",
   "tags": [
@@ -10,6 +13,12 @@
     "grant-morrison",
     "dc-comics",
     "batman"
+  ],
+  "cover": "https://web.archive.org/web/20250913012645im_/http://spidermedia.ru/assets/images/import_image/1887.jpg",
+  "modx_id": 1887,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

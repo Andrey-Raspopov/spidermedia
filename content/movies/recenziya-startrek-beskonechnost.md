@@ -8,6 +8,12 @@
     "star-trek",
     "zvezdnyj-put"
   ],
+  "cover": "https://web.archive.org/web/20260306001515im_/http://spidermedia.ru/assets/images/reviews/movies/star-trek-beyond/star-trek-beyond_146398056400.jpg",
+  "modx_id": 101274,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

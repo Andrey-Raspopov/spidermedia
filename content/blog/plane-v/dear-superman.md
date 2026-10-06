@@ -1,6 +1,6 @@
 {
   "title": "Dear Superman",
-  "date": "2010-09-25T00:55:00+03:00",
+  "date": "2010-09-24T23:55:36+03:00",
   "url": "/blog/plane-v/dear-superman/",
   "original_url": "http://spidermedia.ru/blog/plane-v/dear-superman",
   "archived": "https://web.archive.org/web/20120610132411/http://spidermedia.ru/blog/plane-v/dear-superman",
@@ -8,6 +8,12 @@
     "dc-comics",
     "komiksy",
     "ferel-delrimpl"
+  ],
+  "cover": "https://web.archive.org/web/20120610132411im_/http://spidermedia.ru/assets/images/import_image/2944.jpg",
+  "modx_id": 2944,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

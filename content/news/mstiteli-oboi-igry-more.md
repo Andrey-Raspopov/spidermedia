@@ -1,6 +1,6 @@
 {
   "title": "МСТИТЕЛИ: Обои, игры & more",
-  "date": "2012-04-04T11:02:00+03:00",
+  "date": "2012-04-04T10:02:22+03:00",
   "url": "/news/mstiteli-oboi-igry-more/",
   "original_url": "http://spidermedia.ru/news/mstiteli-oboi-igry-more",
   "archived": "https://web.archive.org/web/20120512053946/http://spidermedia.ru/news/mstiteli-oboi-igry-more",
@@ -9,6 +9,12 @@
     "kino",
     "marvel",
     "mstiteli"
+  ],
+  "cover": "https://web.archive.org/web/20120512053946im_/http://spidermedia.ru/assets/images/import_image/6854.jpg",
+  "modx_id": 6854,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

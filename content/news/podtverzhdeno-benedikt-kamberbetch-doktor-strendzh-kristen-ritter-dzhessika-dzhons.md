@@ -1,6 +1,6 @@
 {
   "title": "ПОДТВЕРЖДЕНО: Бенедикт Камбербэтч - Доктор Стрэндж, Кристен Риттер - Джессика Джонс",
-  "date": "2014-12-05T11:06:00+03:00",
+  "date": "2014-12-05T11:06:20+03:00",
   "url": "/news/podtverzhdeno-benedikt-kamberbetch-doktor-strendzh-kristen-ritter-dzhessika-dzhons/",
   "original_url": "https://spidermedia.ru/news/podtverzhdeno-benedikt-kamberbetch-doktor-strendzh-kristen-ritter-dzhessika-dzhons",
   "archived": "https://web.archive.org/web/20251211032807/https://spidermedia.ru/news/podtverzhdeno-benedikt-kamberbetch-doktor-strendzh-kristen-ritter-dzhessika-dzhons",
@@ -9,7 +9,14 @@
     "marvel",
     "deadpool",
     "doctor-strange",
-    "jessica-jones-alias"
+    "jessica-jones-alias",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20150422202629im_/http://spidermedia.ru/assets/images/import_image/8347.jpg",
+  "modx_id": 8347,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

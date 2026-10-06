@@ -1,6 +1,6 @@
 {
   "title": "\"Бэтмен: Тшш\" выйдет в сентябре (UPD.: комикс, возможно, переименуют)",
-  "date": "2013-05-31T16:18:00+03:00",
+  "date": "2013-05-31T15:18:30+03:00",
   "url": "/news/betmen-tshsh-vyydet-v-sentyabre/",
   "original_url": "https://spidermedia.ru/news/betmen-tshsh-vyydet-v-sentyabre",
   "archived": "https://web.archive.org/web/20251014043453/https://spidermedia.ru/news/betmen-tshsh-vyydet-v-sentyabre",
@@ -9,6 +9,12 @@
     "zarubezhnye-komiksy-na-russkom",
     "batman",
     "hush"
+  ],
+  "cover": "https://web.archive.org/web/20251014043453im_/http://spidermedia.ru/assets/images/import_image/7258.jpg",
+  "modx_id": 7258,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

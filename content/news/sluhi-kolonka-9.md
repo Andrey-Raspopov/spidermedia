@@ -1,7 +1,10 @@
 {
   "title": "Слухи, колонка 9",
-  "date": "2009-08-29T02:10:00+03:00",
+  "date": "2009-08-29T01:10:11+03:00",
   "url": "/news/sluhi-kolonka-9/",
+  "aliases": [
+    "/node/1840/"
+  ],
   "original_url": "https://spidermedia.ru/news/sluhi-kolonka-9",
   "archived": "https://web.archive.org/web/20260306001617/https://spidermedia.ru/news/sluhi-kolonka-9",
   "tags": [
@@ -17,7 +20,17 @@
     "iron-man",
     "captain-america",
     "avengers",
-    "spider-man"
+    "spider-man",
+    "lyudi-iks",
+    "uncanny-x-men",
+    "tor",
+    "zheleznyy-chelovek"
+  ],
+  "cover": "https://web.archive.org/web/20260306001617im_/http://spidermedia.ru/assets/images/import_image/1840.jpg",
+  "modx_id": 1840,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
@@ -29,5 +42,5 @@
 - Запуск серии **Killraven** обещают в 2010 году.
 - Есть вероятность, что **Железный Человек** *(Iron Man)*, **Тор** *(Thor)* и **Капитан Америка** *(Captain America)* снова соберутся в составе одной из команд **Мстителей** *(Avengers)*. Данных слух родился из [описания](http://previewsworld.com/public/default.asp?t=2&m=1&c=23&s=214) **Wizard #218**, а сам [автор слуха](http://blog.newsarama.com/2009/08/21/is-the-trinity-returning-to-the-avengers/) рассматривает **Бакки Барнса** *(Bucky Barnes)* в роли **Капитана**.
 - Что касается серии **X-Factor**, то она не была анонсирована на **ноябрь**, что привело многих людей к мысли о закрытии. Впрочем, существует весьма высокая вероятность, что после **X-Factor #50** будет перезапуск серии, начиная с **X-Factor 200** - номера, который мы получим если сложим нумерацию старого волюма и нынешнего. Кстати о том, что серия продержится на плаву говорят и [цифры продаж](http://robot6.comicbookresources.com/2009/08/what-does-the-future-hold-for-x-factor/) в 32000 копий в месяц.
-- Возможно вас смутили [ноябрьские релизы](../../node/1800/) издательства **Marvel**, касающиеся **Людей Икс** *(X-men)*? Мы о том, что **Нэмор** *(Namor)* присутствует на обложке **Uncanny X-Men #517**. Что ж, тогда предлагаем вам взглянуть на оригинальную обложку **Dark Reign: The List - X-Men**, которую видите [справа](http://smg.photobucket.com/albums/v499/sp888/?action=view¤t=close.jpg). А заодно угадать, кто на ней находится.
-- И наконец, возможно вы заметили, что **Runaways #15** до сих пор не анонсирован, впрочем, как и нет сообщений о том, что серия закрыта. Мы уже писали о [бедственном положении комикса](../../node/1351/), тем не менее, как [сообщает](http://www.bleedingcool.com/2009/08/27/runaways-absent-without-leave/) **Рич Джонстон** *(Rich Johnston)*, **Marvel** сейчас работает над фильмом по комиксу. И если все получится, то возможно комикс вернется. Если нет, кто знает?
+- Возможно вас смутили [ноябрьские релизы](../noyabr-09-x-men/) издательства **Marvel**, касающиеся **Людей Икс** *(X-men)*? Мы о том, что **Нэмор** *(Namor)* присутствует на обложке **Uncanny X-Men #517**. Что ж, тогда предлагаем вам взглянуть на оригинальную обложку **Dark Reign: The List - X-Men**, которую видите [справа](http://smg.photobucket.com/albums/v499/sp888/?action=view¤t=close.jpg). А заодно угадать, кто на ней находится.
+- И наконец, возможно вы заметили, что **Runaways #15** до сих пор не анонсирован, впрочем, как и нет сообщений о том, что серия закрыта. Мы уже писали о [бедственном положении комикса](../odin-mertv-dvoe-na-grani/), тем не менее, как [сообщает](http://www.bleedingcool.com/2009/08/27/runaways-absent-without-leave/) **Рич Джонстон** *(Rich Johnston)*, **Marvel** сейчас работает над фильмом по комиксу. И если все получится, то возможно комикс вернется. Если нет, кто знает?

@@ -8,6 +8,12 @@
     "dc-comics",
     "young-justice"
   ],
+  "cover": "https://web.archive.org/web/20260206215703im_/http://spidermedia.ru/assets/images/animation/dc-comics/young-justice-vozvrashhaetsya/chya.jpg",
+  "modx_id": 101404,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,7 +1,10 @@
 {
   "title": "Еще столько неизвестно...",
-  "date": "2009-02-06T23:57:00+03:00",
+  "date": "2009-02-06T23:57:29+03:00",
   "url": "/news/eshche-stolko-neizvestno/",
+  "aliases": [
+    "/node/242/"
+  ],
   "original_url": "https://spidermedia.ru/news/eshche-stolko-neizvestno",
   "archived": "https://web.archive.org/web/20230607024232/https://spidermedia.ru/news/eshche-stolko-neizvestno",
   "tags": [
@@ -10,7 +13,13 @@
     "bande-dessinée",
     "preview",
     "nycc-2009",
-    "irredeemable"
+    "irredeemable",
+    "prevyu"
+  ],
+  "modx_id": 242,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

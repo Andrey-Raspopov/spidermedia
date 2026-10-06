@@ -4,6 +4,9 @@
   "url": "/comics2movie/s/sstroopers/2/sstroopers2/",
   "original_url": "http://www.spidermedia.ru/comics2movie/s/sstroopers/2/sstroopers2.html",
   "archived": "https://web.archive.org/web/20040528211907/http://www.spidermedia.ru:80/comics2movie/s/sstroopers/2/sstroopers2.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

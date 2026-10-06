@@ -1,6 +1,6 @@
 {
   "title": "Война - дело молодых",
-  "date": "2011-03-08T06:28:00+03:00",
+  "date": "2011-03-08T06:28:57+03:00",
   "url": "/news/voyna-delo-molodyh/",
   "original_url": "https://spidermedia.ru/news/voyna-delo-molodyh",
   "archived": "https://web.archive.org/web/20260115054108/https://spidermedia.ru/news/voyna-delo-molodyh",
@@ -12,6 +12,12 @@
     "marvel",
     "giant-man",
     "avengers"
+  ],
+  "cover": "https://web.archive.org/web/20260115054108im_/http://spidermedia.ru/assets/images/import_image/3977.jpg",
+  "modx_id": 3977,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

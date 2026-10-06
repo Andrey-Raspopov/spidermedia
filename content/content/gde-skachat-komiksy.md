@@ -4,6 +4,9 @@
   "url": "/content/gde-skachat-komiksy/",
   "original_url": "https://spidermedia.ru/content/gde-skachat-komiksy",
   "archived": "https://web.archive.org/web/20251029020809/https://spidermedia.ru/content/gde-skachat-komiksy",
+  "sources": [
+    "archive"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

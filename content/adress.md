@@ -4,6 +4,9 @@
   "url": "/adress/",
   "original_url": "http://www.spidermedia.ru/adress.html",
   "archived": "https://web.archive.org/web/20050207182617/http://www.spidermedia.ru:80/adress.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

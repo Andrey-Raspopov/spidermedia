@@ -1,6 +1,6 @@
 {
   "title": "Видительная Машина",
-  "date": "2010-10-08T12:27:00+03:00",
+  "date": "2010-10-08T11:27:39+03:00",
   "url": "/news/viditelnaya-mashina/",
   "original_url": "http://spidermedia.ru/news/viditelnaya-mashina",
   "archived": "https://web.archive.org/web/20260125115522/http://spidermedia.ru/news/viditelnaya-mashina",
@@ -9,6 +9,12 @@
     "nycc-2010",
     "komik-kon-v-nyu-jorke",
     "r.b.-silva"
+  ],
+  "cover": "https://web.archive.org/web/20260125115522im_/http://spidermedia.ru/assets/images/import_image/2981.jpg",
+  "modx_id": 2981,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

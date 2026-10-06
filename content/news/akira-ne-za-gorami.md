@@ -1,11 +1,17 @@
 {
   "title": "Акира не за горами",
-  "date": "2011-10-20T11:22:00+03:00",
+  "date": "2011-10-20T10:22:32+03:00",
   "url": "/news/akira-ne-za-gorami/",
   "original_url": "http://spidermedia.ru/news/akira-ne-za-gorami",
   "archived": "https://web.archive.org/web/20190929135827/http://spidermedia.ru:80/news/akira-ne-za-gorami",
   "tags": [
     "akira"
+  ],
+  "cover": "https://web.archive.org/web/20190929135827im_/http://spidermedia.ru/assets/images/import_image/6662.jpg",
+  "modx_id": 6662,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

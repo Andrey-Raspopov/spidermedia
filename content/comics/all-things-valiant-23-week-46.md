@@ -5,17 +5,22 @@
   "original_url": "https://spidermedia.ru/comics/all-things-valiant-23-week-46",
   "archived": "https://web.archive.org/web/20260125054154/https://spidermedia.ru/comics/all-things-valiant-23-week-46",
   "tags": [
-    "valiant-entertainment"
+    "valiant-entertainment",
+    "all-things-valiant"
+  ],
+  "cover": "https://web.archive.org/web/20160611203517im_/http://spidermedia.ru/assets/images/valiant/images/atv23/atv23a.jpg",
+  "modx_id": 100712,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](https://web.archive.org/web/20160611202824im_/http://spidermedia.ru/assets/cache/images/valiant/images/atv23/622x-atv23a.2e9.jpg)](https://web.archive.org/web/20160611203517im_/http://spidermedia.ru/assets/images/valiant/images/atv23/atv23a.jpg)
-
 Как было справедливо [отмечено](../all-things-valiant-20-week-43/), во вступлениях частенько упоминаются сериалы, поэтому сегодня поговорим об... играх! Все отошли от концовки Life is Strange? Уже влюбились в близнецов Фрай? Далеко продвинулись в Fallout 4? Ждете ли Star Wars: Battlefront? И самое главное, подготовились к финалу Game of Thrones от Telltale?
 
-**[Новости](./#news) **•** [Рецензии](./#reviews)**
+**[Новости](#news) **•** [Рецензии](#reviews)**
 
 В этом выпуске: Valiantagram, групповая терапия у доктора Ингрид и Аманда МакКи — лучший айтишник года. А также чуть больше Империума, чем обычно.
 
@@ -28,13 +33,13 @@
 #### Пришествие Valiant на Instagram
 Теперь за Valiant Entertainment можно будет наблюдать и при помощи популярного сервиса Instagram. Издательство планирует выкладывать там эксклюзивный арт, [фотографии офиса](http://spidermedia.ru/assets/images/valiant/files/atv23/valiant-entertainment-instagram-example.jpg) и конвенций. Проверьте сами на официальном [Valiant Entertainment Instagram](https://instagram.com/valiantentertainment/).
 
-[![](https://web.archive.org/web/20160611204111im_/http://spidermedia.ru/assets/cache/preview/100712/valiant/images/atv23/309x309-valiant-entertainment-instagram.906.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv23/valiant-entertainment-instagram.jpg)
+![](https://web.archive.org/web/20260125054154im_/http://spidermedia.ru/assets/images/valiant/images/atv23/valiant-entertainment-instagram.jpg)
 
 #### Новый сюжет в Imperium
 
 Сomic Book Resources [сообщает](http://www.comicbookresources.com/article/exclusive-valiants-harbinger-team-reunites-for-new-imperium-arc), что Джошуа Дайсарт и Кари Эванс, творческий дуэт, ответственный за комикс Harbinger, вновь воссоединится в феврале будущего года для работы над новым сюжетным арком серии Imperium под названием «Stormbreak». Авторы обещают, что самый знаменитый злодей вселенной Valiant изменится навсегда.
 
-[![](https://web.archive.org/web/20160611222620im_/http://spidermedia.ru/assets/cache/preview/100712/valiant/images/atv23/152x234-imperium-013-cover-a-gill-cd6cf.305.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv23/imperium-013-cover-a-gill-cd6cf.jpg) [![](https://web.archive.org/web/20160611203050im_/http://spidermedia.ru/assets/cache/preview/100712/valiant/images/atv23/152x234-imperium-013-cover-b-cafu-da2d8.305.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv23/imperium-013-cover-b-cafu-da2d8.jpg) [![](https://web.archive.org/web/20160611201847im_/http://spidermedia.ru/assets/cache/preview/100712/valiant/images/atv23/152x234-imperium-0013-variant-lee-d0a05.305.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv23/imperium-0013-variant-lee-d0a05.jpg) [![](https://web.archive.org/web/20160611214641im_/http://spidermedia.ru/assets/cache/preview/100712/valiant/images/atv23/152x234-imperium-013-variant-ryp-1b862.305.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv23/imperium-013-variant-ryp-1b862.jpg)Роберт Джилл **•** КАФУ **•** Райан Ли **•** Хуан Хосе Рип
+![](https://web.archive.org/web/20260125054154im_/http://spidermedia.ru/assets/images/valiant/images/atv23/imperium-013-cover-a-gill-cd6cf.jpg) ![](https://web.archive.org/web/20260125054154im_/http://spidermedia.ru/assets/images/valiant/images/atv23/imperium-013-cover-b-cafu-da2d8.jpg) ![](https://web.archive.org/web/20260125054154im_/http://spidermedia.ru/assets/images/valiant/images/atv23/imperium-0013-variant-lee-d0a05.jpg) ![](https://web.archive.org/web/20260125054154im_/http://spidermedia.ru/assets/images/valiant/images/atv23/imperium-013-variant-ryp-1b862.jpg)Роберт Джилл **•** КАФУ **•** Райан Ли **•** Хуан Хосе Рип
 
 Сценарий: Джошуа Дайсарт
 Рисунок: Кари Эванс
@@ -46,3 +51,45 @@
 **ЧТО МЫ ПРОЧИТАЛИ**
 
 ---
+
+a:2:{i:1;a:7:{s:5:"autor";a:3:{i:1;a:2:{i:0;s:16:"Сценарий";i:1;s:27:"Джошуа Дайсарт";}i:3;a:2:{i:0;s:14:"Рисунок";i:1;s:34:"КАФУ, Хуан Хосе Рип";}i:5;a:2:{i:0;s:8:"Цвет";i:1;s:23:"Брайан Рибер";}}s:4:"name";s:8:"Imperium";s:7:"edition";s:3:"#10";s:5:"cover";s:57:"assets/images/valiant/images/atv23/imperium_010-cover.jpg";s:9:"publisher";s:4:"1249";s:4:"year";s:4:"2015";s:8:"comments";a:1:{i:1;a:4:{s:5:"autor";s:6:"183732";s:4:"text";s:6504:"
+
+Насколько я горячо люблю Harbinger, настолько же прохладно отношусь к Imperium. Я считаю очень спорным решение Джошуа Дайсарта «игнорировать» Хараду (даже в Предвестнике у него было больше «экранного» времени) и сосредоточиться на его команде. Из интересных личностей там только Mech Major Sunlight On Snow да доктор Байнгана. Поэтому я очень обрадовался, когда, начиная с [седьмого номера](../all-things-valiant-9-week-32/#item2), ему стали уделять больше внимания. Но вот в Imperium #10 злодея опять задвинули на второй (даже третий) план.
+
+![](https://web.archive.org/web/20260125054154im_/http://spidermedia.ru/assets/images/valiant/images/atv23/imperium_010-image-001.jpg)
+
+*LV-99 кормить опаснее, чем [раптора](http://www.youtube.com/watch?v=DwAOHVBKTwg)*
+
+Раса Vine обеспокоена действиями Тойо Харады. Чтобы его остановить, V.P.L.A. (Vine Planting Liberation Army) обращаются к Тессе Соломон — единственной женщине, которой удалось обхитрить Хараду. Мисс Соломон рассказывает о многолетней вражде с Тойо и объясняет коллективному сознанию Vine, как его остановить.
+
+Номер оставляет двойственное ощущение, и это не только потому, что действие происходит в двух временных промежутках — в 1969 г. и в настоящем. Сейчас постараюсь объяснить. С одной стороны в комиксе присутствуют отличные эпизоды. Например, беседы с доктором Хиллкрафт, которые показывают, сколько чувств и эмоций может быть у [неживого существа](http://spidermedia.ru/assets/images/valiant/files/atv23/imperium_010-image-a001.jpg) и насколько чудовищными могут быть [живые](http://spidermedia.ru/assets/images/valiant/files/atv23/imperium_010-image-a002.jpg). Или потрясающий своей жестокостью эксперимент Харады над Vine, прекрасно проиллюстрированный Рипом. [Ужас героев ощущается очень живо](http://spidermedia.ru/assets/images/valiant/files/atv23/imperium_010-image-a003.jpg), и стремление пришельцев остановить злодея становится прекрасно понятным.
+
+С другой же стороны, есть флэшбэк, занимающий основную часть выпуска. Он вышел на удивление скучным (хотя не без интересных моментов). В комиксах Дайсарта всегда было много текста, что обычно у меня не вызывало проблем, но здесь же... Монолог Соломон излишне перегружен, понятно (и похвально), что сценарист хотел уместить рассказ Тесс в один выпуск, но его еще не мешало бы подсократить, а то за обилием врезок закадрового текста не видно рисунка. Причем это происходит и в экшн-сценах, где слова обычно не нужны.
+
+![](https://web.archive.org/web/20260125054154im_/http://spidermedia.ru/assets/images/valiant/images/atv23/imperium_010-image-002.jpg)
+
+*Н — невозмутимость*
+
+Издательство Valiant опять провернуло любимую фишку — разные временные промежутки, разные художники. Действие в настоящем иллюстрирует КАФУ. Его четкий и аккуратный рисунок (пусть его и немного в этом выпуске) прекрасно подходит к серьезному настрою серии. За прошлое отвечает Хуан Хосе Рип. В последнее время он частый «гость» нашей рубрики, поэтому ограничусь лишь тем, что в его исполнении молодой Харада выглядит не хуже, чем у [Хэйрсина](http://spidermedia.ru/assets/images/valiant/files/atv23/imperium_010-image-a004.jpg). Брайан Рибер отлично красит Рипа, но когда дело доходит до КАФУ, он почему-то использует какие-то слишком матовые цвета: создается впечатление, что все кругом переборщили с пудрой.
+
+Несмотря на мое отношение, Imperium очень хороший комикс с интересными идеями, крепким экшеном и проработанными персонажами. И по традиции: те, кто не читают эту серию, будут отданы Тойо Хараде для жесткой проверки на принадлежность к расе Vine.
+
+P.S. Было приятно вновь увидеть Гриффон.
+
+";s:8:"mjdzText";s:0:"";s:10:"conclusion";s:10:"ДОБРО";}}}i:2;a:7:{s:5:"autor";a:3:{i:1;a:2:{i:0;s:16:"Сценарий";i:1;s:23:"Джеймс Асмус";}i:3;a:2:{i:0;s:14:"Рисунок";i:1;s:51:"Карл Молин, Марк Пеннингтон ";}i:5;a:2:{i:0;s:8:"Цвет";i:1;s:25:"Эндрю Долхаус";}}s:4:"name";s:5:"Unity";s:7:"edition";s:3:"#24";s:5:"cover";s:54:"assets/images/valiant/images/atv23/unity-024-cover.jpg";s:9:"publisher";s:4:"1249";s:4:"year";s:4:"2015";s:8:"comments";a:1:{i:1;a:4:{s:5:"autor";s:6:"183731";s:4:"text";s:5591:"
+
+Открывая очередной сингл, следует помнить простую истину: каждый комикс не может быть шедевром. Супергероика – это развлекательный жанр, если авторская команда не пытается доказать нам обратное. Не стоит постоянно ожидать новых Watchmen и тогда можно будет получить удовольствие от чтения. Проблема с Unit #24 в том, что этот комикс не развлекает.
+
+![](https://web.archive.org/web/20260125054154im_/http://spidermedia.ru/assets/images/valiant/images/atv23/unity-24-image-1.jpg)
+
+Плохо становится еще до того, как мы прочтем хотя бы первую строчку текста. Картинка своей чумазой грузностью сбивает неподготовленного читателя с ног. Вместо [попкорнового рисунка Диего Бернарда](https://web.archive.org/web/20160611205209im_/http://spidermedia.ru/assets/cache/preview/100660/valiant/images/atv19/572x-unity-23-review-image-1.9a5.jpg) перед нами предстает творчество либо художника и инкера, либо двух художников. Акцент дуэта на грубых, обширных чернильных пятнах, составляющих иногда 70% содержания страницы, сильно мешает сконцентрироваться на скачущей истории. Не приносят радости и скучные плоские обесцвеченные цвета Эндрю Долхауса. Он использует градиент для предания фигурам объема, который [иногда плавный](http://spidermedia.ru/assets/images/valiant/files/atv23/unity-24-example-1.jpg), а [местами ступенчатый](http://spidermedia.ru/assets/images/valiant/files/atv23/unity-24-example-2.jpg). И подобная непоследовательность здорово отвлекает от чтения комикса. Не помогает наслаждаться «ровным» сторителлингом и совершенно [непонятные ракурсы](http://spidermedia.ru/assets/images/valiant/files/atv23/unity-24-example-3.jpg). Иногда сложно сказать, [что происходит на странице](http://spidermedia.ru/assets/images/valiant/files/atv23/unity-24-example-4.jpg), а иногда [об этом можно узнать только благодаря диалогам](http://spidermedia.ru/assets/images/valiant/files/atv23/unity-24-example-5.jpg).
+
+У сценария проблем не меньше. Большинство сюжетных линий, начатых в прошлом номере, были продвинуты вперед не органично, а искусственно. Мальгам был заговорщиком в прошлом номере, а в этом он друг Гилада, Helix в 23 выпуске тайно мстила за смерть своих товарищей, в этом она общается с Livewire по «телевизору». Кварц побежден роялем самолетом в кустах. С Helix расправился другой рояль, хотя Асмус и потратил целых 5 страниц, чтобы эта победа выглядела правдоподобней. Хотя, следует отдать сценаристу должное, дружба Аманды и Gin-Gr прописана очень хорошо. Увы, но даже бэдассных сцен в комиксе [раз](http://spidermedia.ru/assets/images/valiant/files/atv23/unity-24-example-6.jpg) и обчелся.
+
+![](https://web.archive.org/web/20260125054154im_/http://spidermedia.ru/assets/images/valiant/images/atv23/unity-24-image-2.jpg)
+
+Эта мини-арка подавалась как завершение всех незакрытых линий твента Armor Hunters (на самом деле там была хорошая концовка). Обещали изменение статуса кво уцелевших Охотников за броней. На начало 23 номера Кварц находился в заточении, Мальгам перевоспитывался, Gin-Gr состояла в Unity, Helix считалась погибшей. В конце 24 выпуска Кварц находится в заточении, Мальгам перевоспитывается, Gin-Gr все еще состоит в Unity, а Helix теперь находится в заточении. Отличное завершение ивента, теперь точно ничего не будет, как прежде!
+
+Unity #24 стандартный пример комикса, который нужен только для красивой статистики. И ради грядущей цифры 25 страдает и сюжет, и рисунок. При этом нельзя сказать, что художники плохо рисуют, но их стиль совершенно не подходит эпичной истории Асмуса, которую он пытается скомкать до двух номеров.
+
+";s:8:"mjdzText";s:0:"";s:10:"conclusion";s:10:"МУСОР";}}}}

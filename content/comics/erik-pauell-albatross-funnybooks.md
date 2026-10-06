@@ -4,6 +4,12 @@
   "url": "/comics/erik-pauell-albatross-funnybooks/",
   "original_url": "http://spidermedia.ru/comics/erik-pauell-albatross-funnybooks",
   "archived": "https://web.archive.org/web/20231231054835/http://spidermedia.ru/comics/erik-pauell-albatross-funnybooks",
+  "cover": "https://web.archive.org/web/20231231054835im_/http://spidermedia.ru/assets/images/news/albatros/hillbilly_cover_.jpg",
+  "modx_id": 100906,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

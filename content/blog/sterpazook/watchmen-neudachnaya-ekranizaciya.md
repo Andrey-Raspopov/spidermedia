@@ -1,12 +1,21 @@
 {
   "title": "Watchmen - неудачная экранизация?",
-  "date": "2009-02-10T14:25:00+03:00",
+  "date": "2009-02-10T14:25:22+03:00",
   "url": "/blog/sterpazook/watchmen-neudachnaya-ekranizaciya/",
+  "aliases": [
+    "/node/297/"
+  ],
   "original_url": "https://spidermedia.ru/blog/sterpazook/watchmen-neudachnaya-ekranizaciya",
   "archived": "https://web.archive.org/web/20260125053352/https://spidermedia.ru/blog/sterpazook/watchmen-neudachnaya-ekranizaciya",
   "tags": [
     "hraniteli",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20260125053352im_/http://spidermedia.ru/assets/images/import_image/297.jpg",
+  "modx_id": 297,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

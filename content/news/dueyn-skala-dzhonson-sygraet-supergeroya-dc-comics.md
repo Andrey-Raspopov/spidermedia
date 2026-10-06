@@ -1,12 +1,17 @@
 {
   "title": "Дуэйн \"Скала\" Джонсон сыграет супергероя DC Comics",
-  "date": "2014-07-21T22:06:00+03:00",
+  "date": "2014-07-21T21:06:14+03:00",
   "url": "/news/dueyn-skala-dzhonson-sygraet-supergeroya-dc-comics/",
   "original_url": "http://spidermedia.ru/news/dueyn-skala-dzhonson-sygraet-supergeroya-dc-comics",
   "archived": "https://web.archive.org/web/20190923111855/http://spidermedia.ru/news/dueyn-skala-dzhonson-sygraet-supergeroya-dc-comics",
   "tags": [
     "shazam",
     "dc-comics"
+  ],
+  "modx_id": 7905,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

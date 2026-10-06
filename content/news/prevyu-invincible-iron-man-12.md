@@ -1,7 +1,10 @@
 {
   "title": "Превью Invincible Iron Man #12",
-  "date": "2009-03-26T23:01:00+03:00",
+  "date": "2009-03-26T22:01:20+03:00",
   "url": "/news/prevyu-invincible-iron-man-12/",
+  "aliases": [
+    "/node/782/"
+  ],
   "original_url": "http://spidermedia.ru/news/prevyu-invincible-iron-man-12",
   "archived": "https://web.archive.org/web/20111018041013/http://spidermedia.ru/news/prevyu-invincible-iron-man-12",
   "tags": [
@@ -14,7 +17,13 @@
     "zheleznyy-chelovek",
     "komiksy",
     "norman-ozborn",
-    "neymor"
+    "neymor",
+    "nejmor"
+  ],
+  "modx_id": 782,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

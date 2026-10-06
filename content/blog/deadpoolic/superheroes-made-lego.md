@@ -1,14 +1,24 @@
 {
   "title": "Superheroes Made of LEGO",
-  "date": "2009-09-24T20:44:00+03:00",
+  "date": "2009-09-24T19:44:54+03:00",
   "url": "/blog/deadpoolic/superheroes-made-lego/",
+  "aliases": [
+    "/node/1926/"
+  ],
   "original_url": "http://spidermedia.ru/blog/deadpoolic/superheroes-made-lego",
   "archived": "https://web.archive.org/web/20111019003055/http://spidermedia.ru/blog/deadpoolic/superheroes-made-lego",
   "tags": [
     "captain-hammer",
     "crosspost",
     "dr-horrible",
-    "marvel"
+    "marvel",
+    "dr.-horrible"
+  ],
+  "cover": "https://web.archive.org/web/20111019003055im_/http://spidermedia.ru/assets/images/import_image/1926.jpg",
+  "modx_id": 1926,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

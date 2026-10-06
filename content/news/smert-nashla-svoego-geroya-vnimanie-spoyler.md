@@ -1,6 +1,6 @@
 {
   "title": "Смерть нашла своего героя (Внимание: СПОЙЛЕР)",
-  "date": "2011-06-22T14:24:00+03:00",
+  "date": "2011-06-22T13:24:09+03:00",
   "url": "/news/smert-nashla-svoego-geroya-vnimanie-spoyler/",
   "original_url": "http://spidermedia.ru/news/smert-nashla-svoego-geroya-vnimanie-spoyler",
   "archived": "https://web.archive.org/web/20251012174544/http://spidermedia.ru/news/smert-nashla-svoego-geroya-vnimanie-spoyler",
@@ -9,6 +9,12 @@
     "ultimate",
     "spider-man",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20251012174544im_/http://spidermedia.ru/assets/images/import_image/6465.jpg",
+  "modx_id": 6465,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

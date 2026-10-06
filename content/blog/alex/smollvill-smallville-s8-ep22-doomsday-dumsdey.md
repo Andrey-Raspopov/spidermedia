@@ -1,6 +1,6 @@
 {
   "title": "Смоллвилль\\Smallville s8 ep.22 - \"Doomsday\"\\\"Думсдэй\"",
-  "date": "2009-05-17T11:27:00+03:00",
+  "date": "2009-05-17T10:27:50+03:00",
   "url": "/blog/alex/smollvill-smallville-s8-ep22-doomsday-dumsdey/",
   "original_url": "https://spidermedia.ru/blog/alex/smollvill-smallville-s8-ep22-doomsday-dumsdey",
   "archived": "https://web.archive.org/web/20260305225402/https://spidermedia.ru/blog/alex/smollvill-smallville-s8-ep22-doomsday-dumsdey",
@@ -9,7 +9,14 @@
     "serialy",
     "superman",
     "smollvill",
-    "tajny-smollvillya"
+    "tajny-smollvillya",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20260305225402im_/http://spidermedia.ru/assets/images/import_image/1221.png",
+  "modx_id": 1221,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

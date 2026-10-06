@@ -1,7 +1,10 @@
 {
   "title": "The Avengers: Человек-Муравей, Оса и Воитель?",
-  "date": "2011-01-15T00:11:00+03:00",
+  "date": "2011-01-15T00:11:11+03:00",
   "url": "/news/avengers-chelovek-muravey-osa-i-voitel/",
+  "aliases": [
+    "/node/3163/"
+  ],
   "original_url": "http://spidermedia.ru/news/avengers-chelovek-muravey-osa-i-voitel",
   "archived": "https://web.archive.org/web/20220813152616/http://spidermedia.ru/news/avengers-chelovek-muravey-osa-i-voitel",
   "tags": [
@@ -10,6 +13,12 @@
     "the-avengers",
     "marvel",
     "war-machine"
+  ],
+  "cover": "https://web.archive.org/web/20220813152616im_/http://spidermedia.ru/assets/images/import_image/3163.jpg",
+  "modx_id": 3163,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -11,6 +11,12 @@
     "stiv-rodzhers",
     "hesus-sajz"
   ],
+  "cover": "https://web.archive.org/web/20160611075230im_/http://spidermedia.ru/assets/images/news/marvel/capam/qwyc4dxn8xq.jpg",
+  "modx_id": 100826,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

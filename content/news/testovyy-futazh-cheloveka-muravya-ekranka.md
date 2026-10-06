@@ -1,13 +1,20 @@
 {
   "title": "Тестовый футаж \"Человека-Муравья\" (Экранка)",
-  "date": "2013-03-20T08:22:00+03:00",
+  "date": "2013-03-20T07:22:01+03:00",
   "url": "/news/testovyy-futazh-cheloveka-muravya-ekranka/",
   "original_url": "http://spidermedia.ru/news/testovyy-futazh-cheloveka-muravya-ekranka",
   "archived": "https://web.archive.org/web/20240805032020/http://spidermedia.ru/news/testovyy-futazh-cheloveka-muravya-ekranka",
   "tags": [
     "ant-man",
     "marvel",
-    "fantastic-four"
+    "fantastic-four",
+    "fantasticheskaya-chetverka"
+  ],
+  "cover": "https://web.archive.org/web/20160319144045im_/http://spidermedia.ru/assets/images/import_image/7165.jpg",
+  "modx_id": 7165,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Batman: Arkham City E3 GAMEPLAY VIDEO",
-  "date": "2011-06-08T17:12:00+03:00",
+  "date": "2011-06-08T16:12:36+03:00",
   "url": "/news/batman-arkham-city-e3-gameplay-video/",
   "original_url": "https://spidermedia.ru/news/batman-arkham-city-e3-gameplay-video",
   "archived": "https://web.archive.org/web/20260211185651/https://spidermedia.ru/news/batman-arkham-city-e3-gameplay-video",
@@ -10,6 +10,12 @@
     "dc-comics",
     "batman",
     "arkham-asylum"
+  ],
+  "cover": "https://web.archive.org/web/20260211185651im_/http://spidermedia.ru/assets/images/import_image/6377.png",
+  "modx_id": 6377,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

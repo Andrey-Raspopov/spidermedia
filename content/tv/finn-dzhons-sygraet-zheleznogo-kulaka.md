@@ -8,6 +8,12 @@
     "marvel",
     "iron-fist"
   ],
+  "cover": "https://web.archive.org/web/20160501070352im_/http://spidermedia.ru/assets/images/tv/marvel/ironfist/finn-jone-iron-fist.jpg",
+  "modx_id": 100953,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

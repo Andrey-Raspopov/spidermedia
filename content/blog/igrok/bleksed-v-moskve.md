@@ -1,6 +1,6 @@
 {
   "title": "\"Блэксэд\" в Москве",
-  "date": "2011-05-09T20:17:00+03:00",
+  "date": "2011-05-09T19:17:11+03:00",
   "url": "/blog/igrok/bleksed-v-moskve/",
   "original_url": "https://spidermedia.ru/blog/igrok/bleksed-v-moskve",
   "archived": "https://web.archive.org/web/20250804005740/https://spidermedia.ru/blog/igrok/bleksed-v-moskve",
@@ -8,6 +8,12 @@
     "blacksad",
     "kommissiya",
     "bleksed"
+  ],
+  "cover": "https://web.archive.org/web/20250804005740im_/http://spidermedia.ru/assets/images/import_image/5600.jpg",
+  "modx_id": 5600,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

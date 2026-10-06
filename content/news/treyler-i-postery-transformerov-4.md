@@ -1,6 +1,6 @@
 {
   "title": "Трейлер и постеры \"Трансформеров-4\"",
-  "date": "2014-03-05T15:40:00+03:00",
+  "date": "2014-03-05T14:40:16+03:00",
   "url": "/news/treyler-i-postery-transformerov-4/",
   "original_url": "http://spidermedia.ru/news/treyler-i-postery-transformerov-4",
   "archived": "https://web.archive.org/web/20250617224947/http://spidermedia.ru/news/treyler-i-postery-transformerov-4",
@@ -8,6 +8,12 @@
     "transformers",
     "trejlery",
     "postery"
+  ],
+  "cover": "https://web.archive.org/web/20160626162805im_/http://spidermedia.ru/assets/images/import_image/7670.jpg",
+  "modx_id": 7670,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

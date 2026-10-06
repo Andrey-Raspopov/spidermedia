@@ -1,7 +1,10 @@
 {
   "title": "Фантастическая Фантастика",
-  "date": "2009-04-22T12:28:00+03:00",
+  "date": "2009-04-22T11:28:41+03:00",
   "url": "/news/fantasticheskaya-fantastika/",
+  "aliases": [
+    "/node/1021/"
+  ],
   "original_url": "http://spidermedia.ru/news/fantasticheskaya-fantastika",
   "archived": "https://web.archive.org/web/20250715225220/http://spidermedia.ru/news/fantasticheskaya-fantastika",
   "tags": [
@@ -10,7 +13,14 @@
     "bryan-hitch",
     "fantastic-four",
     "dzho-ehirn",
-    "styuart-immonen"
+    "styuart-immonen",
+    "brayan-hitch",
+    "fantasticheskaya-chetverka"
+  ],
+  "modx_id": 1021,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

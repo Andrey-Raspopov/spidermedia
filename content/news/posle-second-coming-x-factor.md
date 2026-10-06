@@ -1,7 +1,10 @@
 {
   "title": "После Second Coming: X-Factor",
-  "date": "2010-04-28T00:59:00+03:00",
+  "date": "2010-04-27T23:59:52+03:00",
   "url": "/news/posle-second-coming-x-factor/",
+  "aliases": [
+    "/node/2586/"
+  ],
   "original_url": "http://spidermedia.ru/news/posle-second-coming-x-factor",
   "archived": "https://web.archive.org/web/20120607131826/http://spidermedia.ru/news/posle-second-coming-x-factor",
   "tags": [
@@ -9,7 +12,14 @@
     "x-universe",
     "iks-faktor",
     "komiksy",
-    "marvel"
+    "marvel",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20120607131826im_/http://spidermedia.ru/assets/images/import_image/2586.jpg",
+  "modx_id": 2586,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

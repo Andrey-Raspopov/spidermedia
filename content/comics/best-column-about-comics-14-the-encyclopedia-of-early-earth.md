@@ -8,6 +8,12 @@
     "best-column-about-comics",
     "mnenie"
   ],
+  "cover": "https://web.archive.org/web/20251205114128im_/http://spidermedia.ru/assets/images/best-column-about-comics/14-the-encyclopedia-of-early-earth/the-encyclopedia-of-early-earth-cover.jpg",
+  "modx_id": 101521,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

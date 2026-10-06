@@ -8,6 +8,13 @@
     "panels-of-x",
     "on-panels"
   ],
+  "cover": "https://web.archive.org/web/20220314095739im_/http://spidermedia.ru/assets/images/podcast/inferno-panles/03/00-cover.jpg",
+  "podcast_audio": "https://spidermedia.podster.fm/170/download/audio.mp3",
+  "modx_id": 102471,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

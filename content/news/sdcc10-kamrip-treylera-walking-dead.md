@@ -1,6 +1,6 @@
 {
   "title": "SDCC'10: Камрип трейлера \"The Walking Dead\"",
-  "date": "2010-07-25T21:43:00+03:00",
+  "date": "2010-07-25T20:43:57+03:00",
   "url": "/news/sdcc10-kamrip-treylera-walking-dead/",
   "original_url": "https://spidermedia.ru/news/sdcc10-kamrip-treylera-walking-dead",
   "archived": "https://web.archive.org/web/20260211185941/https://spidermedia.ru/news/sdcc10-kamrip-treylera-walking-dead",
@@ -9,7 +9,14 @@
     "serialy",
     "san-diego-comic-con-international",
     "the-walking-dead",
-    "futazh"
+    "futazh",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20260211185941im_/http://spidermedia.ru/assets/images/import_image/2799.jpg",
+  "modx_id": 2799,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

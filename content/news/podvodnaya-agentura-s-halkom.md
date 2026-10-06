@@ -1,6 +1,6 @@
 {
   "title": "Подводная Агентура с Халком",
-  "date": "2009-04-18T02:15:00+03:00",
+  "date": "2009-04-18T01:15:48+03:00",
   "url": "/news/podvodnaya-agentura-s-halkom/",
   "original_url": "https://spidermedia.ru/news/podvodnaya-agentura-s-halkom",
   "archived": "https://web.archive.org/web/20260206225124/https://spidermedia.ru/news/podvodnaya-agentura-s-halkom",
@@ -14,6 +14,11 @@
     "marvel",
     "hulk",
     "agenty-atlasa"
+  ],
+  "modx_id": 980,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

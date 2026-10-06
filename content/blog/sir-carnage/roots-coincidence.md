@@ -1,6 +1,6 @@
 {
   "title": "The Roots of Coincidence",
-  "date": "2011-06-16T06:42:00+03:00",
+  "date": "2011-06-16T05:42:46+03:00",
   "url": "/blog/sir-carnage/roots-coincidence/",
   "original_url": "https://spidermedia.ru/blog/sir-carnage/roots-coincidence",
   "archived": "https://web.archive.org/web/20251211022734/https://spidermedia.ru/blog/sir-carnage/roots-coincidence",
@@ -8,6 +8,12 @@
     "darkwing-duck",
     "hellblazer",
     "krossover"
+  ],
+  "cover": "https://web.archive.org/web/20251211022734im_/http://spidermedia.ru/assets/images/import_image/6453.jpg",
+  "modx_id": 6453,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

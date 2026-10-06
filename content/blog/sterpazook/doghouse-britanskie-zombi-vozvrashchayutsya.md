@@ -1,6 +1,6 @@
 {
   "title": "Doghouse: Британские зомби возвращаются!",
-  "date": "2009-05-28T13:25:00+03:00",
+  "date": "2009-05-28T12:25:22+03:00",
   "url": "/blog/sterpazook/doghouse-britanskie-zombi-vozvrashchayutsya/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/doghouse-britanskie-zombi-vozvrashchayutsya",
   "archived": "https://web.archive.org/web/20140822170326/http://spidermedia.ru:80/blog/sterpazook/doghouse-britanskie-zombi-vozvrashchayutsya",
@@ -10,6 +10,12 @@
     "zombies",
     "zombi",
     "movie"
+  ],
+  "cover": "https://web.archive.org/web/20140822170326im_/http://spidermedia.ru/assets/images/import_image/1292.jpg",
+  "modx_id": 1292,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

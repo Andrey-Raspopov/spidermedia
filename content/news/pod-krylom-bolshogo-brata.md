@@ -1,7 +1,10 @@
 {
   "title": "Под крылом большого брата",
-  "date": "2009-08-31T18:55:00+03:00",
+  "date": "2009-08-31T17:55:56+03:00",
   "url": "/news/pod-krylom-bolshogo-brata/",
+  "aliases": [
+    "/node/1852/"
+  ],
   "original_url": "http://spidermedia.ru/news/pod-krylom-bolshogo-brata",
   "archived": "https://web.archive.org/web/20250715223310/http://spidermedia.ru/news/pod-krylom-bolshogo-brata",
   "tags": [
@@ -10,6 +13,12 @@
     "industriya",
     "disnej",
     "disney"
+  ],
+  "cover": "https://web.archive.org/web/20150428172521im_/http://spidermedia.ru/assets/images/import_image/1852.jpg",
+  "modx_id": 1852,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

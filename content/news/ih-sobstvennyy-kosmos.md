@@ -1,6 +1,6 @@
 {
   "title": "Их собственный космос",
-  "date": "2012-04-13T08:38:00+03:00",
+  "date": "2012-04-13T07:38:18+03:00",
   "url": "/news/ih-sobstvennyy-kosmos/",
   "original_url": "https://spidermedia.ru/news/ih-sobstvennyy-kosmos",
   "archived": "https://web.archive.org/web/20260120164728/https://spidermedia.ru/news/ih-sobstvennyy-kosmos",
@@ -11,6 +11,12 @@
     "brad-walker",
     "andres-ginaldo",
     "boom-studios"
+  ],
+  "cover": "https://web.archive.org/web/20260120164728im_/http://spidermedia.ru/assets/images/import_image/6865.jpg",
+  "modx_id": 6865,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

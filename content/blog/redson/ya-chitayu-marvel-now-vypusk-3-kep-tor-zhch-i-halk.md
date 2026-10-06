@@ -1,6 +1,6 @@
 {
   "title": "Я читаю Marvel NOW! Выпуск 3: Кэп, Тор, ЖЧ и Халк",
-  "date": "2013-05-28T12:01:00+03:00",
+  "date": "2013-05-28T11:01:20+03:00",
   "url": "/blog/redson/ya-chitayu-marvel-now-vypusk-3-kep-tor-zhch-i-halk/",
   "original_url": "http://spidermedia.ru/blog/redson/ya-chitayu-marvel-now-vypusk-3-kep-tor-zhch-i-halk",
   "archived": "https://web.archive.org/web/20260120160133/http://spidermedia.ru/blog/redson/ya-chitayu-marvel-now-vypusk-3-kep-tor-zhch-i-halk",
@@ -14,7 +14,15 @@
     "captain-america",
     "iron-man",
     "dzheyson-aaron",
-    "marvel"
+    "marvel",
+    "tor",
+    "zheleznyy-chelovek"
+  ],
+  "cover": "https://web.archive.org/web/20260120160133im_/http://spidermedia.ru/assets/images/import_image/7256.jpg",
+  "modx_id": 7256,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

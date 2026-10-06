@@ -11,6 +11,12 @@
     "dzhef-loeb",
     "jim-lee"
   ],
+  "cover": "https://web.archive.org/web/20160611142826im_/http://spidermedia.ru/assets/images/articles/hush/002/david-simon.png",
+  "modx_id": 100676,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

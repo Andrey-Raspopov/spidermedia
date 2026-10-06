@@ -1,6 +1,6 @@
 {
   "title": "Полный трейлер фильма \"Первый мститель: Другая война\" (HD)",
-  "date": "2013-10-24T20:03:00+03:00",
+  "date": "2013-10-24T19:03:28+03:00",
   "url": "/news/polnyy-treyler-filma-pervyy-mstitel-drugaya-voyna-hd-0/",
   "original_url": "https://spidermedia.ru/news/polnyy-treyler-filma-pervyy-mstitel-drugaya-voyna-hd-0",
   "archived": "https://web.archive.org/web/20240807000047/https://spidermedia.ru/news/polnyy-treyler-filma-pervyy-mstitel-drugaya-voyna-hd-0",
@@ -9,6 +9,12 @@
     "marvel",
     "captain-america",
     "winter-soldier"
+  ],
+  "cover": "https://web.archive.org/web/20240807000047im_/http://spidermedia.ru/assets/images/import_image/7510.jpg",
+  "modx_id": 7510,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

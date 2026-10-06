@@ -4,6 +4,9 @@
   "url": "/comics/s/stargate/stargate/",
   "original_url": "http://www.spidermedia.ru/comics/s/stargate/stargate.html",
   "archived": "https://web.archive.org/web/20050307065249/http://www.spidermedia.ru:80/comics/s/stargate/stargate.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "cp1251 (guessed)"
 }

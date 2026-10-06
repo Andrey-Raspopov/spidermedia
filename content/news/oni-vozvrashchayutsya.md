@@ -1,12 +1,21 @@
 {
   "title": "Они возвращаются?",
-  "date": "2009-12-24T00:36:00+03:00",
+  "date": "2009-12-23T23:36:54+03:00",
   "url": "/news/oni-vozvrashchayutsya/",
+  "aliases": [
+    "/node/2192/"
+  ],
   "original_url": "http://spidermedia.ru/news/oni-vozvrashchayutsya",
   "archived": "https://web.archive.org/web/20111026061652/http://spidermedia.ru/news/oni-vozvrashchayutsya",
   "tags": [
     "zenescope-entertainment",
     "komiksy"
+  ],
+  "cover": "https://web.archive.org/web/20111026061652im_/http://spidermedia.ru/assets/images/import_image/2192.jpg",
+  "modx_id": 2192,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "Соавтор без страха",
-  "date": "2009-11-22T15:34:00+03:00",
+  "date": "2009-11-22T15:34:09+03:00",
   "url": "/news/soavtor-bez-straha/",
+  "aliases": [
+    "/node/2126/"
+  ],
   "original_url": "http://spidermedia.ru/news/soavtor-bez-straha",
   "archived": "https://web.archive.org/web/20251209144532/http://spidermedia.ru/news/soavtor-bez-straha",
   "tags": [
@@ -12,7 +15,14 @@
     "dardevil",
     "art-0",
     "marvel",
-    "daredevil"
+    "daredevil",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20251209144532im_/http://spidermedia.ru/assets/images/import_image/2126.jpg",
+  "modx_id": 2126,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

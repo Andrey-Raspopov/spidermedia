@@ -1,11 +1,17 @@
 {
   "title": "Long Live The King",
-  "date": "2014-08-28T15:54:00+03:00",
+  "date": "2014-08-28T14:54:31+03:00",
   "url": "/blog/aleksey-volkov/den-rozhdeniya-dzheka-kirbi/",
   "original_url": "http://spidermedia.ru/blog/aleksey-volkov/den-rozhdeniya-dzheka-kirbi",
   "archived": "https://web.archive.org/web/20210303080421/http://spidermedia.ru/blog/aleksey-volkov/den-rozhdeniya-dzheka-kirbi",
   "tags": [
     "jack-kirby"
+  ],
+  "cover": "https://web.archive.org/web/20210303080421im_/http://spidermedia.ru/assets/images/import_image/8024.jpg",
+  "modx_id": 8024,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

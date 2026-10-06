@@ -1,13 +1,22 @@
 {
   "title": "Женский Marvel",
-  "date": "2009-12-26T14:44:00+03:00",
+  "date": "2009-12-26T13:44:31+03:00",
   "url": "/news/zhenskiy-marvel/",
+  "aliases": [
+    "/node/2198/"
+  ],
   "original_url": "http://spidermedia.ru/news/zhenskiy-marvel",
   "archived": "https://web.archive.org/web/20120608231241/http://spidermedia.ru/news/zhenskiy-marvel",
   "tags": [
     "girl-comics",
     "komiksy",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20120608231241im_/http://spidermedia.ru/assets/images/import_image/2198.jpg",
+  "modx_id": 2198,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

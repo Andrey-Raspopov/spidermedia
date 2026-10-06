@@ -1,6 +1,6 @@
 {
   "title": "Чудо-Человек и его Отомстители",
-  "date": "2011-06-16T01:57:00+03:00",
+  "date": "2011-06-16T00:57:22+03:00",
   "url": "/news/chudo-chelovek-i-ego-otomstiteli/",
   "original_url": "http://spidermedia.ru/news/chudo-chelovek-i-ego-otomstiteli",
   "archived": "https://web.archive.org/web/20230323041025/http://spidermedia.ru/news/chudo-chelovek-i-ego-otomstiteli",
@@ -9,7 +9,14 @@
     "brian-michael-bendis",
     "art-0",
     "marvel",
-    "avengers"
+    "avengers",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20230323041025im_/http://spidermedia.ru/assets/images/import_image/6451.jpg",
+  "modx_id": 6451,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

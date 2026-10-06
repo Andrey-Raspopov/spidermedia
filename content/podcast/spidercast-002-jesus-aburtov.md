@@ -1,11 +1,22 @@
 {
   "title": "SPIDERCAST 002: JESUS ABURTOV",
-  "date": "2012-02-27T08:14:00+03:00",
+  "date": "2012-02-27T07:14:21+03:00",
   "url": "/podcast/spidercast-002-jesus-aburtov/",
+  "aliases": [
+    "/blog/jane-snuff/spidercast-002-jesus-aburtov/"
+  ],
   "original_url": "http://spidermedia.ru/podcast/spidercast-002-jesus-aburtov",
   "archived": "https://web.archive.org/web/20250424202633/http://spidermedia.ru/podcast/spidercast-002-jesus-aburtov",
   "tags": [
     "spidercast"
+  ],
+  "cover": "https://web.archive.org/web/20150326220817im_/http://spidermedia.ru/misc/files/podcast/covers/spidercast002_0.png",
+  "podcast_audio": "https://spidermedia.podster.fm/9/download/audio.mp3",
+  "podcast_length": "1:55:54",
+  "modx_id": 6824,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

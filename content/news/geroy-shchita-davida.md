@@ -1,7 +1,10 @@
 {
   "title": "Герой щита Давида",
-  "date": "2009-05-15T16:28:00+03:00",
+  "date": "2009-05-15T15:28:10+03:00",
   "url": "/news/geroy-shchita-davida/",
+  "aliases": [
+    "/node/1185/"
+  ],
   "original_url": "http://spidermedia.ru/news/geroy-shchita-davida",
   "archived": "https://web.archive.org/web/20120607120443/http://spidermedia.ru/news/geroy-shchita-davida",
   "tags": [
@@ -11,7 +14,14 @@
     "marvel",
     "mett-yokama",
     "oblozhki",
-    "sabra"
+    "sabra",
+    "mett-jokama"
+  ],
+  "cover": "https://web.archive.org/web/20120607120443im_/http://spidermedia.ru/assets/images/import_image/1185.jpg",
+  "modx_id": 1185,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

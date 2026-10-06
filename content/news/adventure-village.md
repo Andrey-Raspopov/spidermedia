@@ -1,7 +1,10 @@
 {
   "title": "Adventure Village",
-  "date": "2010-08-24T00:17:00+03:00",
+  "date": "2010-08-23T23:17:19+03:00",
   "url": "/news/adventure-village/",
+  "aliases": [
+    "/node/2869/"
+  ],
   "original_url": "http://spidermedia.ru/news/adventure-village",
   "archived": "https://web.archive.org/web/20251216112025/http://spidermedia.ru/news/adventure-village",
   "tags": [
@@ -11,7 +14,13 @@
     "dzheff-lemajr",
     "art-0",
     "superboy",
-    "dc-comics"
+    "dc-comics",
+    "art"
+  ],
+  "modx_id": 2869,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

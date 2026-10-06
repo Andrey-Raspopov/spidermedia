@@ -1,13 +1,22 @@
 {
   "title": "Эпоха Нуара: Люк Кейдж",
-  "date": "2009-03-13T22:12:00+03:00",
+  "date": "2009-03-13T22:12:21+03:00",
   "url": "/news/epoha-nuara-lyuk-keydzh/",
+  "aliases": [
+    "/node/667/"
+  ],
   "original_url": "http://spidermedia.ru/news/epoha-nuara-lyuk-keydzh",
   "archived": "https://web.archive.org/web/20200217105010/http://spidermedia.ru:80/news/epoha-nuara-lyuk-keydzh",
   "tags": [
     "noirverse",
     "marvel",
     "luke-cage"
+  ],
+  "cover": "https://web.archive.org/web/20200217105010im_/http://spidermedia.ru/assets/images/import_image/667.jpg",
+  "modx_id": 667,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

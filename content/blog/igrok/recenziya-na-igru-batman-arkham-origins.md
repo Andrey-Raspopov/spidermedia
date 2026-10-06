@@ -1,6 +1,6 @@
 {
   "title": "Рецензия на игру BATMAN: ARKHAM ORIGINS",
-  "date": "2013-10-30T10:53:00+03:00",
+  "date": "2013-10-30T09:53:18+03:00",
   "url": "/blog/igrok/recenziya-na-igru-batman-arkham-origins/",
   "original_url": "http://spidermedia.ru/blog/igrok/recenziya-na-igru-batman-arkham-origins",
   "archived": "https://web.archive.org/web/20260209120841/http://spidermedia.ru/blog/igrok/recenziya-na-igru-batman-arkham-origins",
@@ -9,6 +9,12 @@
     "arkham-asylum",
     "batman",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150326035709im_/http://spidermedia.ru/assets/images/import_image/7521.jpg",
+  "modx_id": 7521,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

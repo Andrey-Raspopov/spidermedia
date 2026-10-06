@@ -1,12 +1,18 @@
 {
   "title": "МЖДЗ: BEFORE WATCHMEN UBER SPECIAL",
-  "date": "2012-06-11T19:53:00+03:00",
+  "date": "2012-06-11T18:53:15+03:00",
   "url": "/news/mzhdz-watchmen-uber-special/",
   "original_url": "https://spidermedia.ru/news/mzhdz-watchmen-uber-special",
   "archived": "https://web.archive.org/web/20251115030438/https://spidermedia.ru/news/mzhdz-watchmen-uber-special",
   "tags": [
     "mnenie",
     "mzhdz"
+  ],
+  "cover": "https://web.archive.org/web/20160716184936im_/http://spidermedia.ru/assets/images/import_image/6926.png",
+  "modx_id": 6926,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "ЭКСКЛЮЗИВ: Сцены из \"Железного Человека 3\" с комментариями актеров (ДУБЛЯЖ)",
-  "date": "2013-04-18T17:58:00+03:00",
+  "date": "2013-04-18T16:58:48+03:00",
   "url": "/news/eksklyuziv-sceny-iz-zheleznogo-cheloveka-3-s-kommentariyami-akterov-dublyazh/",
   "original_url": "http://www.spidermedia.ru/news/eksklyuziv-sceny-iz-zheleznogo-cheloveka-3-s-kommentariyami-akterov-dublyazh",
   "archived": "https://web.archive.org/web/20140708044315/http://www.spidermedia.ru:80/news/eksklyuziv-sceny-iz-zheleznogo-cheloveka-3-s-kommentariyami-akterov-dublyazh",
@@ -8,7 +8,14 @@
     "video",
     "iron-man",
     "movie",
-    "marvel"
+    "marvel",
+    "zheleznyy-chelovek"
+  ],
+  "cover": "https://web.archive.org/web/20140708044315im_/http://spidermedia.ru/assets/images/import_image/7213.jpg",
+  "modx_id": 7213,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

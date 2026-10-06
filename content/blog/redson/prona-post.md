@@ -1,12 +1,17 @@
 {
   "title": "Прона пост",
-  "date": "2010-09-06T23:21:00+03:00",
+  "date": "2010-09-06T22:21:13+03:00",
   "url": "/blog/redson/prona-post/",
   "original_url": "http://spidermedia.ru/blog/redson/prona-post",
   "archived": "https://web.archive.org/web/20120611012109/http://spidermedia.ru/blog/redson/prona-post",
   "tags": [
     "bred",
     "komiksy"
+  ],
+  "modx_id": 2891,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

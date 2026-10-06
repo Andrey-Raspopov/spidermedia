@@ -1,11 +1,17 @@
 {
   "title": "Вечер новых комиксов: 6 августа",
-  "date": "2014-08-06T21:16:00+03:00",
+  "date": "2014-08-06T20:16:38+03:00",
   "url": "/news/dzen-novyh-komiksov-6-avgusta/",
   "original_url": "http://spidermedia.ru/news/dzen-novyh-komiksov-6-avgusta",
   "archived": "https://web.archive.org/web/20200127211321/http://spidermedia.ru:80/news/dzen-novyh-komiksov-6-avgusta",
   "tags": [
     "den-novyh-komiksov"
+  ],
+  "cover": "https://web.archive.org/web/20150425004316im_/http://spidermedia.ru/assets/images/import_image/7961.jpg",
+  "modx_id": 7961,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

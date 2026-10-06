@@ -8,6 +8,12 @@
     "bubble",
     "russian-comics"
   ],
+  "cover": "https://web.archive.org/web/20211006163251im_/http://spidermedia.ru/assets/images/bubblegum/2/cover.jpg",
+  "modx_id": 101510,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,6 +1,6 @@
 {
   "title": "Что стоит ждать 29 сентября 2010",
-  "date": "2010-09-26T22:05:00+03:00",
+  "date": "2010-09-26T21:05:12+03:00",
   "url": "/blog/redson/chto-stoit-zhdat-29-sentyabrya-2010/",
   "original_url": "http://spidermedia.ru/blog/redson/chto-stoit-zhdat-29-sentyabrya-2010",
   "archived": "https://web.archive.org/web/20120608153254/http://spidermedia.ru/blog/redson/chto-stoit-zhdat-29-sentyabrya-2010",
@@ -8,6 +8,12 @@
     "komiksy",
     "mnenie",
     "chto-stoit-zhdat"
+  ],
+  "cover": "https://web.archive.org/web/20120608153254im_/http://spidermedia.ru/assets/images/import_image/2950.jpg",
+  "modx_id": 2950,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

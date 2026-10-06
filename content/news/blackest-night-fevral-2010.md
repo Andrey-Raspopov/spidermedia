@@ -1,7 +1,10 @@
 {
   "title": "Blackest Night - февраль 2010",
-  "date": "2009-11-17T08:44:00+03:00",
+  "date": "2009-11-17T08:44:20+03:00",
   "url": "/news/blackest-night-fevral-2010/",
+  "aliases": [
+    "/node/2106/"
+  ],
   "original_url": "https://spidermedia.ru/news/blackest-night-fevral-2010",
   "archived": "https://web.archive.org/web/20251106235500/https://spidermedia.ru/news/blackest-night-fevral-2010",
   "tags": [
@@ -9,6 +12,12 @@
     "solicitations",
     "dc-comics",
     "blackest-night"
+  ],
+  "cover": "https://web.archive.org/web/20251106235500im_/http://spidermedia.ru/assets/images/import_image/2106.png",
+  "modx_id": 2106,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

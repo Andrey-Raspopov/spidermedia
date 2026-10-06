@@ -1,6 +1,6 @@
 {
   "title": "Авторские команды Punisher и Daredevil",
-  "date": "2011-03-16T20:32:00+03:00",
+  "date": "2011-03-16T20:32:52+03:00",
   "url": "/news/avtorskie-komandy-punisher-i-daredevil/",
   "original_url": "https://spidermedia.ru/news/avtorskie-komandy-punisher-i-daredevil",
   "archived": "https://web.archive.org/web/20260309191419/https://spidermedia.ru/news/avtorskie-komandy-punisher-i-daredevil",
@@ -12,7 +12,14 @@
     "marvel",
     "marco-checchetto",
     "greg-rucka",
-    "punisher"
+    "punisher",
+    "derdevil"
+  ],
+  "cover": "https://web.archive.org/web/20260309191419im_/http://spidermedia.ru/assets/images/import_image/4198.jpg",
+  "modx_id": 4198,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

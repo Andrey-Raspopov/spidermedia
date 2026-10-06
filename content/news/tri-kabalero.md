@@ -1,12 +1,22 @@
 {
   "title": "Три Кабальеро",
-  "date": "2009-11-17T14:34:00+03:00",
+  "date": "2009-11-17T14:34:04+03:00",
   "url": "/news/tri-kabalero/",
+  "aliases": [
+    "/node/2109/"
+  ],
   "original_url": "http://spidermedia.ru/news/tri-kabalero",
   "archived": "https://web.archive.org/web/20251026234923/http://spidermedia.ru/news/tri-kabalero",
   "tags": [
     "thor",
-    "marvel"
+    "marvel",
+    "tor"
+  ],
+  "cover": "https://web.archive.org/web/20251026235205im_/http://spidermedia.ru/assets/images/import_image/2109.jpg",
+  "modx_id": 2109,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

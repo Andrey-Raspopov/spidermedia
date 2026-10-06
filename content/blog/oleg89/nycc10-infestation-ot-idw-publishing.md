@@ -1,7 +1,10 @@
 {
   "title": "NYCC'10: Infestation от IDW Publishing",
-  "date": "2010-10-09T19:42:00+03:00",
+  "date": "2010-10-09T18:42:47+03:00",
   "url": "/blog/oleg89/nycc10-infestation-ot-idw-publishing/",
+  "aliases": [
+    "/node/2984/"
+  ],
   "original_url": "http://spidermedia.ru/blog/oleg89/nycc10-infestation-ot-idw-publishing",
   "archived": "https://web.archive.org/web/20251115182623/http://spidermedia.ru/blog/oleg89/nycc10-infestation-ot-idw-publishing",
   "tags": [
@@ -25,6 +28,12 @@
     "komik-kon-v-nyu-yorke",
     "ghostbusters",
     "transformers"
+  ],
+  "cover": "https://web.archive.org/web/20150326221530im_/http://spidermedia.ru/assets/images/import_image/2984.jpg",
+  "modx_id": 2984,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

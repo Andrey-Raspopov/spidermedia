@@ -1,11 +1,17 @@
 {
   "title": "Crisis of Infinite Comics: Часть 2",
-  "date": "2014-07-17T12:41:00+03:00",
+  "date": "2014-07-17T11:41:42+03:00",
   "url": "/blog/aleksey-volkov/crisis-infinite-comics-chast-2/",
   "original_url": "http://spidermedia.ru/blog/aleksey-volkov/crisis-infinite-comics-chast-2",
   "archived": "https://web.archive.org/web/20210306231419/http://spidermedia.ru/blog/aleksey-volkov/crisis-infinite-comics-chast-2",
   "tags": [
     "istoriya"
+  ],
+  "cover": "https://web.archive.org/web/20210306231419im_/http://spidermedia.ru/assets/images/import_image/7900.jpg",
+  "modx_id": 7900,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

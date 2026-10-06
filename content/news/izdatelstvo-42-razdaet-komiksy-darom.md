@@ -1,12 +1,18 @@
 {
   "title": "Издательство \"42\" раздает комиксы даром",
-  "date": "2013-07-24T20:52:00+03:00",
+  "date": "2013-07-24T19:52:42+03:00",
   "url": "/news/izdatelstvo-42-razdaet-komiksy-darom/",
   "original_url": "http://spidermedia.ru/news/izdatelstvo-42-razdaet-komiksy-darom",
   "archived": "https://web.archive.org/web/20240911140338/http://spidermedia.ru/news/izdatelstvo-42-razdaet-komiksy-darom",
   "tags": [
     "zarubezhnye-komiksy-na-russkom",
     "izdatelstvo-42"
+  ],
+  "cover": "https://web.archive.org/web/20240911140338im_/http://spidermedia.ru/assets/images/import_image/7378.jpg",
+  "modx_id": 7378,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

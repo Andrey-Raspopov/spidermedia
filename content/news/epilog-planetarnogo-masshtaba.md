@@ -1,7 +1,10 @@
 {
   "title": "Эпилог планетарного масштаба",
-  "date": "2009-06-04T13:05:00+03:00",
+  "date": "2009-06-04T12:05:19+03:00",
   "url": "/news/epilog-planetarnogo-masshtaba/",
+  "aliases": [
+    "/node/1350/"
+  ],
   "original_url": "http://spidermedia.ru/news/epilog-planetarnogo-masshtaba",
   "archived": "https://web.archive.org/web/20160730054225/http://spidermedia.ru/news/epilog-planetarnogo-masshtaba",
   "tags": [
@@ -12,6 +15,12 @@
     "planetary",
     "john-cassaday",
     "planetarij"
+  ],
+  "cover": "https://web.archive.org/web/20160730054225im_/http://spidermedia.ru/assets/images/import_image/1350.jpg",
+  "modx_id": 1350,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

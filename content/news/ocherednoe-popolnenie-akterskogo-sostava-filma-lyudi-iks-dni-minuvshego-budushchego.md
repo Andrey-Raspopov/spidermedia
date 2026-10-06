@@ -1,13 +1,21 @@
 {
   "title": "Очередное пополнение актерского состава фильма \"Люди Икс: Дни минувшего будущего\"",
-  "date": "2013-06-26T05:08:00+03:00",
+  "date": "2013-06-26T04:08:29+03:00",
   "url": "/news/ocherednoe-popolnenie-akterskogo-sostava-filma-lyudi-iks-dni-minuvshego-budushchego/",
   "original_url": "http://spidermedia.ru/news/ocherednoe-popolnenie-akterskogo-sostava-filma-lyudi-iks-dni-minuvshego-budushchego",
   "archived": "https://web.archive.org/web/20200119142933/http://spidermedia.ru:80/news/ocherednoe-popolnenie-akterskogo-sostava-filma-lyudi-iks-dni-minuvshego-budushchego",
   "tags": [
     "x-men",
     "days-of-future-past",
-    "marvel"
+    "marvel",
+    "lyudi-iks",
+    "dni-minuvshego-budushhego"
+  ],
+  "cover": "https://web.archive.org/web/20200119142933im_/http://spidermedia.ru/assets/images/import_image/7304.jpg",
+  "modx_id": 7304,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Джейми Грант и работа колориста",
-  "date": "2010-08-14T12:42:00+03:00",
+  "date": "2010-08-14T11:42:14+03:00",
   "url": "/blog/plane-v/dzheymi-grant-i-rabota-kolorista/",
   "original_url": "http://spidermedia.ru/blog/plane-v/dzheymi-grant-i-rabota-kolorista",
   "archived": "https://web.archive.org/web/20120610103944/http://spidermedia.ru/blog/plane-v/dzheymi-grant-i-rabota-kolorista",
@@ -8,6 +8,11 @@
     "video",
     "koloristy",
     "komiksy"
+  ],
+  "modx_id": 2858,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

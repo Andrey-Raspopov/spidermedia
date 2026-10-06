@@ -7,6 +7,12 @@
   "tags": [
     "batman-and-robin-day"
   ],
+  "cover": "https://web.archive.org/web/20220314104735im_/http://spidermedia.ru/assets/images/birday/bizyaev.jpg",
+  "modx_id": 102011,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,7 +1,10 @@
 {
   "title": "Зеленая. Опасная.",
-  "date": "2009-03-13T23:40:00+03:00",
+  "date": "2009-03-13T22:40:16+03:00",
   "url": "/news/zelenaya-opasnaya/",
+  "aliases": [
+    "/node/669/"
+  ],
   "original_url": "http://spidermedia.ru/news/zelenaya-opasnaya",
   "archived": "https://web.archive.org/web/20120613061848/http://spidermedia.ru/news/zelenaya-opasnaya",
   "tags": [
@@ -9,7 +12,14 @@
     "art-0",
     "komiksy",
     "marvel",
-    "oblozhki"
+    "oblozhki",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20120613061848im_/http://spidermedia.ru/assets/images/import_image/669.jpg",
+  "modx_id": 669,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

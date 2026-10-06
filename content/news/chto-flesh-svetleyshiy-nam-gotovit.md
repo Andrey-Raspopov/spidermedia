@@ -1,7 +1,10 @@
 {
   "title": "Что Флэш Светлейший нам готовит?",
-  "date": "2010-01-31T14:00:00+03:00",
+  "date": "2010-01-31T14:00:17+03:00",
   "url": "/news/chto-flesh-svetleyshiy-nam-gotovit/",
+  "aliases": [
+    "/node/2299/"
+  ],
   "original_url": "https://spidermedia.ru/news/chto-flesh-svetleyshiy-nam-gotovit",
   "archived": "https://web.archive.org/web/20250807225640/https://spidermedia.ru/news/chto-flesh-svetleyshiy-nam-gotovit",
   "tags": [
@@ -13,6 +16,12 @@
     "the-flash",
     "dc-comics",
     "geoff-johns"
+  ],
+  "cover": "https://web.archive.org/web/20250807225640im_/http://spidermedia.ru/assets/images/import_image/2299.jpg",
+  "modx_id": 2299,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Чернильные пятна плохо отстирываются",
-  "date": "2009-05-20T00:36:00+03:00",
+  "date": "2009-05-19T23:36:40+03:00",
   "url": "/news/chernilnye-pyatna-ploho-otstiryvayutsya/",
   "original_url": "https://spidermedia.ru/news/chernilnye-pyatna-ploho-otstiryvayutsya",
   "archived": "https://web.archive.org/web/20260215072158/https://spidermedia.ru/news/chernilnye-pyatna-ploho-otstiryvayutsya",
@@ -8,7 +8,14 @@
     "preview",
     "tattooed-man",
     "final-crisis",
-    "dc-comics"
+    "dc-comics",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20260215072158im_/http://spidermedia.ru/assets/images/import_image/1245.jpg",
+  "modx_id": 1245,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

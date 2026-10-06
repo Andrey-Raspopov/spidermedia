@@ -7,6 +7,12 @@
   "tags": [
     "manga"
   ],
+  "cover": "https://web.archive.org/web/20251206154606im_/http://spidermedia.ru/assets/images/manga/others/shinsekai-yori/mzk.jpg",
+  "modx_id": 101825,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

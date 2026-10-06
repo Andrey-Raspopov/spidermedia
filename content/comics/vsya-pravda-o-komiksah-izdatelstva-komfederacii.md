@@ -9,6 +9,12 @@
     "mnenie",
     "russian-comics"
   ],
+  "cover": "https://web.archive.org/web/20231202152726im_/http://spidermedia.ru/assets/images/manga/comfed/clipboard02.jpg",
+  "modx_id": 101603,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -7,6 +7,12 @@
   "tags": [
     "image-comics"
   ],
+  "cover": "https://web.archive.org/web/20260313103152im_/http://spidermedia.ru/assets/images/reviews/image/farmhand/01/1.jpg",
+  "modx_id": 101977,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

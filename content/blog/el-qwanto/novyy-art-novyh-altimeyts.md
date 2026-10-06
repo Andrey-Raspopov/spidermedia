@@ -1,7 +1,10 @@
 {
   "title": "Новый арт Новых Алтимейтс",
-  "date": "2009-02-11T15:32:00+03:00",
+  "date": "2009-02-11T15:32:17+03:00",
   "url": "/blog/el-qwanto/novyy-art-novyh-altimeyts/",
+  "aliases": [
+    "/node/310/"
+  ],
   "original_url": "https://spidermedia.ru/blog/el-qwanto/novyy-art-novyh-altimeyts",
   "archived": "https://web.archive.org/web/20260120162305/https://spidermedia.ru/blog/el-qwanto/novyy-art-novyh-altimeyts",
   "tags": [
@@ -9,7 +12,14 @@
     "art-0",
     "ultimate",
     "ultimates",
-    "marvel"
+    "marvel",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20260120162305im_/http://spidermedia.ru/assets/images/import_image/310.jpg",
+  "modx_id": 310,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

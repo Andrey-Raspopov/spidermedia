@@ -1,7 +1,10 @@
 {
   "title": "Клон Сага 2.0",
-  "date": "2009-06-13T19:07:00+03:00",
+  "date": "2009-06-13T18:07:51+03:00",
   "url": "/news/klon-saga-20/",
+  "aliases": [
+    "/node/1410/"
+  ],
   "original_url": "http://spidermedia.ru/news/klon-saga-20",
   "archived": "https://web.archive.org/web/20120512064400/http://spidermedia.ru/news/klon-saga-20",
   "tags": [
@@ -15,13 +18,21 @@
     "paskal-ferri",
     "todd-nauk",
     "tom-defalko",
-    "chelovek-pauk"
+    "chelovek-pauk",
+    "art",
+    "alyj-pauk"
+  ],
+  "cover": "https://web.archive.org/web/20120512064400im_/http://spidermedia.ru/assets/images/import_image/1410.jpg",
+  "modx_id": 1410,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }
 
-Мы боялись даже предположить, что такое может произойти. Но многое на это указывало, слишком ]]>[подозрительно](../../node/1396/)]]> говорили сценаристы, что уж говорить про ]]>[намеки](../../node/1244/)]]> самого издательства? Итак, пришло время раскрыть все тайны, и подойти к этому серьезно, ведь нас может ждать либо разочарование, либо полнейший восторг. А все потому что...
+Мы боялись даже предположить, что такое может произойти. Но многое на это указывало, слишком ]]>[подозрительно](../burya-pered-svadboy/)]]> говорили сценаристы, что уж говорить про ]]>[намеки](../dolgozhdannoe-vozvrashchenie/)]]> самого издательства? Итак, пришло время раскрыть все тайны, и подойти к этому серьезно, ведь нас может ждать либо разочарование, либо полнейший восторг. А все потому что...
 
 ]]>[![SPIDER_MAN__THE_CLONE_SAGA_1.jpg - image uploaded to Picamatic](https://web.archive.org/web/20120512064400im_/http://www.picamatic.com/show/2009/06/13/06/45/3979707_bigthumb.jpg "SPIDER_MAN__THE_CLONE_SAGA_1.jpg")](http://www.picamatic.com/view/3979707_SPIDER_MAN__THE_CLONE_SAGA_1/)]]>
 

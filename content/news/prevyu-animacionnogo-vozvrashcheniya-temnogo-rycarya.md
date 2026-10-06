@@ -1,6 +1,6 @@
 {
   "title": "Превью анимационного \"Возвращения Темного Рыцаря\"",
-  "date": "2012-06-14T13:31:00+03:00",
+  "date": "2012-06-14T12:31:05+03:00",
   "url": "/news/prevyu-animacionnogo-vozvrashcheniya-temnogo-rycarya/",
   "original_url": "http://spidermedia.ru/news/prevyu-animacionnogo-vozvrashcheniya-temnogo-rycarya",
   "archived": "https://web.archive.org/web/20250807225040/http://spidermedia.ru/news/prevyu-animacionnogo-vozvrashcheniya-temnogo-rycarya",
@@ -9,6 +9,12 @@
     "animaciya",
     "dc-comics",
     "dark-knight-returns"
+  ],
+  "cover": "https://web.archive.org/web/20250807225040im_/http://spidermedia.ru/assets/images/import_image/6930.jpg",
+  "modx_id": 6930,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

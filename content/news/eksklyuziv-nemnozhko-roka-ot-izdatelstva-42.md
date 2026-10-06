@@ -1,6 +1,6 @@
 {
   "title": "ЭКСКЛЮЗИВ: \"И Немножко Рока\" от издательства \"42\"",
-  "date": "2014-07-20T17:04:00+03:00",
+  "date": "2014-07-20T16:04:02+03:00",
   "url": "/news/eksklyuziv-nemnozhko-roka-ot-izdatelstva-42/",
   "original_url": "http://spidermedia.ru/news/eksklyuziv-nemnozhko-roka-ot-izdatelstva-42",
   "archived": "https://web.archive.org/web/20251107025946/http://spidermedia.ru/news/eksklyuziv-nemnozhko-roka-ot-izdatelstva-42",
@@ -8,6 +8,12 @@
     "russian-comics",
     "izdatelstvo-42",
     "i-nemnozhko-roka"
+  ],
+  "cover": "https://web.archive.org/web/20251107025946im_/http://spidermedia.ru/assets/images/import_image/7903.jpg",
+  "modx_id": 7903,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

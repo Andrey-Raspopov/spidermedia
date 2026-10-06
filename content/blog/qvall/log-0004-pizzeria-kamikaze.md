@@ -1,11 +1,20 @@
 {
   "title": "Log #0004 - Pizzeria Kamikaze",
-  "date": "2009-02-02T22:55:00+03:00",
+  "date": "2009-02-02T22:55:25+03:00",
   "url": "/blog/qvall/log-0004-pizzeria-kamikaze/",
+  "aliases": [
+    "/node/122/"
+  ],
   "original_url": "http://spidermedia.ru/blog/qvall/log-0004-pizzeria-kamikaze",
   "archived": "https://web.archive.org/web/20200131103925/http://spidermedia.ru:80/blog/qvall/log-0004-pizzeria-kamikaze",
   "tags": [
     "independent-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150315210246im_/http://spidermedia.ru/assets/images/ecahznqzhc4.jpg",
+  "modx_id": 122,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "Поездка в Америку (как тот фильм с Эдди Мерфи)",
-  "date": "2010-09-17T07:13:00+03:00",
+  "date": "2010-09-17T06:13:40+03:00",
   "url": "/news/poezdka-v-ameriku-kak-tot-film-s-eddi-merfi/",
+  "aliases": [
+    "/node/2920/"
+  ],
   "original_url": "https://spidermedia.ru/news/poezdka-v-ameriku-kak-tot-film-s-eddi-merfi",
   "archived": "https://web.archive.org/web/20250804010941/https://spidermedia.ru/news/poezdka-v-ameriku-kak-tot-film-s-eddi-merfi",
   "tags": [
@@ -9,7 +12,14 @@
     "franchesko-frankavilla",
     "daredevil",
     "devid-liss",
-    "marvel"
+    "marvel",
+    "derdevil"
+  ],
+  "cover": "https://web.archive.org/web/20250804010941im_/http://spidermedia.ru/assets/images/import_image/2920.jpg",
+  "modx_id": 2920,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

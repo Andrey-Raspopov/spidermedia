@@ -1,12 +1,18 @@
 {
   "title": "В российской академии появится кафедра комиксов и манги",
-  "date": "2011-06-02T17:58:00+03:00",
+  "date": "2011-06-02T16:58:40+03:00",
   "url": "/news/v-rossiyskoy-akademii-poyavitsya-kafedra-komiksov-i-mangi/",
   "original_url": "https://spidermedia.ru/news/v-rossiyskoy-akademii-poyavitsya-kafedra-komiksov-i-mangi",
   "archived": "https://web.archive.org/web/20241106075043/https://spidermedia.ru/news/v-rossiyskoy-akademii-poyavitsya-kafedra-komiksov-i-mangi",
   "tags": [
     "russian-comics",
     "novosti"
+  ],
+  "cover": "https://web.archive.org/web/20241106075043im_/http://spidermedia.ru/assets/images/import_image/6216.gif",
+  "modx_id": 6216,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,12 +1,18 @@
 {
   "title": "\"Черепашки Ниндзя\": Тизер постеры",
-  "date": "2014-04-08T21:38:00+03:00",
+  "date": "2014-04-08T20:38:29+03:00",
   "url": "/news/cherepashki-nindzya-tizer-postery/",
   "original_url": "https://spidermedia.ru/news/cherepashki-nindzya-tizer-postery",
   "archived": "https://web.archive.org/web/20250210030858/https://spidermedia.ru/news/cherepashki-nindzya-tizer-postery",
   "tags": [
     "ninja-turtles",
     "postery"
+  ],
+  "cover": "https://web.archive.org/web/20250210030858im_/http://spidermedia.ru/assets/images/import_image/7706.jpg",
+  "modx_id": 7706,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

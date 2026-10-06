@@ -8,6 +8,12 @@
     "best-column-about-comics",
     "mnenie"
   ],
+  "cover": "https://web.archive.org/web/20170606211400im_/http://spidermedia.ru/assets/images/best-column-about-comics/18-the-wrenchies/the-wrenchies-cover.jpg",
+  "modx_id": 101557,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

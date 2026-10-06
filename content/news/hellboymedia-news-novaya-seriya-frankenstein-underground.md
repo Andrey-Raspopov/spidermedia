@@ -1,12 +1,18 @@
 {
   "title": "Hellboymedia: Новая мини-серия Frankenstein Underground",
-  "date": "2014-10-02T12:39:00+03:00",
+  "date": "2014-10-02T11:39:40+03:00",
   "url": "/news/hellboymedia-news-novaya-seriya-frankenstein-underground/",
   "original_url": "https://spidermedia.ru/news/hellboymedia-news-novaya-seriya-frankenstein-underground",
   "archived": "https://web.archive.org/web/20260313121020/https://spidermedia.ru/news/hellboymedia-news-novaya-seriya-frankenstein-underground",
   "tags": [
     "novosti",
     "hellboymedia"
+  ],
+  "cover": "https://web.archive.org/web/20260313121020im_/http://spidermedia.ru/assets/images/hellboymedia/news/frankenstein-underground/frankenstein-underground-annoucement-cover.jpg",
+  "modx_id": 8125,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

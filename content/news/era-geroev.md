@@ -1,7 +1,10 @@
 {
   "title": "Эра Героев",
-  "date": "2010-01-27T21:10:00+03:00",
+  "date": "2010-01-27T21:10:26+03:00",
   "url": "/news/era-geroev/",
+  "aliases": [
+    "/node/2311/"
+  ],
   "original_url": "https://spidermedia.ru/news/era-geroev",
   "archived": "https://web.archive.org/web/20260115061857/https://spidermedia.ru/news/era-geroev",
   "tags": [
@@ -11,7 +14,15 @@
     "brian-michael-bendis",
     "art-0",
     "marvel",
-    "heroic-age"
+    "heroic-age",
+    "prevyu",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20260115061857im_/http://spidermedia.ru/assets/images/import_image/2311.jpg",
+  "modx_id": 2311,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

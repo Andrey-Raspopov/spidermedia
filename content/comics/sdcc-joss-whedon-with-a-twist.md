@@ -7,7 +7,14 @@
   "tags": [
     "dark-horse",
     "san-diego-comic-con-international",
-    "joss-whedon"
+    "joss-whedon",
+    "sdcc2015"
+  ],
+  "cover": "https://web.archive.org/web/20160611141607im_/http://spidermedia.ru/assets/images/news/sdcc/2015/dark-horse/untitled-2-8835d.jpg",
+  "modx_id": 100359,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,12 +1,19 @@
 {
   "title": "Герои\\Heroes s3 ep.15 - \"Вера и Кровь\"\\\"Trust and Blood\"",
-  "date": "2009-02-14T12:30:00+03:00",
+  "date": "2009-02-14T12:30:07+03:00",
   "url": "/blog/alex/geroi-heroes-s3-ep15-vera-i-krov-trust-and-blood/",
   "original_url": "http://spidermedia.ru/blog/alex/geroi-heroes-s3-ep15-vera-i-krov-trust-and-blood",
   "archived": "https://web.archive.org/web/20191209030610/http://spidermedia.ru/blog/alex/geroi-heroes-s3-ep15-vera-i-krov-trust-and-blood",
   "tags": [
     "serialy",
-    "heroes"
+    "heroes",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20191209030610im_/http://spidermedia.ru/assets/images/import_image/358.gif",
+  "modx_id": 358,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

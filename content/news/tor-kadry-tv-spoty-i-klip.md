@@ -1,13 +1,20 @@
 {
   "title": "\"Тор\": Кадры, тв-споты и клип",
-  "date": "2011-03-31T18:19:00+03:00",
+  "date": "2011-03-31T17:19:18+03:00",
   "url": "/news/tor-kadry-tv-spoty-i-klip/",
   "original_url": "https://spidermedia.ru/news/tor-kadry-tv-spoty-i-klip",
   "archived": "https://web.archive.org/web/20240807184541/https://spidermedia.ru/news/tor-kadry-tv-spoty-i-klip",
   "tags": [
     "trejlery",
     "thor",
-    "marvel"
+    "marvel",
+    "tor"
+  ],
+  "cover": "https://web.archive.org/web/20240807184541im_/http://spidermedia.ru/assets/images/import_image/4594.jpg",
+  "modx_id": 4594,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

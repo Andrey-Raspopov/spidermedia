@@ -1,6 +1,6 @@
 {
   "title": "Превью 100 Bullets: Brother Lono #1",
-  "date": "2013-06-18T11:27:00+03:00",
+  "date": "2013-06-18T10:27:45+03:00",
   "url": "/news/prevyu-100-bullets-brother-lono-1/",
   "original_url": "https://spidermedia.ru/news/prevyu-100-bullets-brother-lono-1",
   "archived": "https://web.archive.org/web/20251206150028/https://spidermedia.ru/news/prevyu-100-bullets-brother-lono-1",
@@ -9,7 +9,14 @@
     "eduardo-risso",
     "preview",
     "dc-comics",
-    "vertigo"
+    "vertigo",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20160611144624im_/http://spidermedia.ru/assets/images/import_image/7285.jpg",
+  "modx_id": 7285,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "МСТИТЕЛИ: Несколько новых кадров (ФОТО, ВИДЕО)",
-  "date": "2011-09-22T10:36:00+03:00",
+  "date": "2011-09-22T09:36:06+03:00",
   "url": "/news/mstiteli-neskolko-novyh-kadrov-foto-video/",
   "original_url": "http://spidermedia.ru/news/mstiteli-neskolko-novyh-kadrov-foto-video",
   "archived": "https://web.archive.org/web/20120608171731/http://spidermedia.ru/news/mstiteli-neskolko-novyh-kadrov-foto-video",
@@ -14,7 +14,14 @@
     "kino",
     "marvel",
     "mstiteli",
-    "pervyy-mstitel-kapitan-amerika"
+    "pervyy-mstitel-kapitan-amerika",
+    "captain-america"
+  ],
+  "cover": "https://web.archive.org/web/20120608171731im_/http://spidermedia.ru/assets/images/import_image/6611.jpg",
+  "modx_id": 6611,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

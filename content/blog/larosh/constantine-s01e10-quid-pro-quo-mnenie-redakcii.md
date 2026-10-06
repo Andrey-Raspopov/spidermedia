@@ -1,6 +1,6 @@
 {
   "title": "Constantine s01e10 «Quid Pro Quo» — мнение редакции",
-  "date": "2015-01-26T12:46:00+03:00",
+  "date": "2015-01-26T12:46:53+03:00",
   "url": "/blog/larosh/constantine-s01e10-quid-pro-quo-mnenie-redakcii/",
   "original_url": "http://spidermedia.ru/blog/larosh/constantine-s01e10-quid-pro-quo-mnenie-redakcii",
   "archived": "https://web.archive.org/web/20260215080018/http://spidermedia.ru/blog/larosh/constantine-s01e10-quid-pro-quo-mnenie-redakcii",
@@ -10,7 +10,14 @@
     "dzhon-konstantin",
     "vertigo",
     "dc-comics",
-    "constantine"
+    "constantine",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20150326095846im_/http://spidermedia.ru/assets/images/import_image/8543.jpg",
+  "modx_id": 8543,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

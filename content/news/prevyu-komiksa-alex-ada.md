@@ -1,13 +1,20 @@
 {
   "title": "Превью комикса ALEX + ADA",
-  "date": "2013-11-05T13:41:00+03:00",
+  "date": "2013-11-05T12:41:40+03:00",
   "url": "/news/prevyu-komiksa-alex-ada/",
   "original_url": "https://spidermedia.ru/news/prevyu-komiksa-alex-ada",
   "archived": "https://web.archive.org/web/20260117231824/https://spidermedia.ru/news/prevyu-komiksa-alex-ada",
   "tags": [
     "preview",
     "luna-brothers",
-    "image-comics"
+    "image-comics",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20260117231824im_/http://spidermedia.ru/assets/images/import_image/7529.jpg",
+  "modx_id": 7529,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

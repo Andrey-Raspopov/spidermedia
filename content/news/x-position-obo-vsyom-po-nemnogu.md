@@ -1,7 +1,10 @@
 {
   "title": "X-Position: Обо всём по немногу",
-  "date": "2009-09-18T00:24:00+03:00",
+  "date": "2009-09-17T23:24:15+03:00",
   "url": "/news/x-position-obo-vsyom-po-nemnogu/",
+  "aliases": [
+    "/node/1907/"
+  ],
   "original_url": "http://spidermedia.ru/news/x-position-obo-vsyom-po-nemnogu",
   "archived": "https://web.archive.org/web/20260215074127/http://spidermedia.ru/news/x-position-obo-vsyom-po-nemnogu",
   "tags": [
@@ -15,7 +18,13 @@
     "pixie",
     "necrosha",
     "marvel",
-    "kathryn-immonen"
+    "kathryn-immonen",
+    "lyudi-iks"
+  ],
+  "modx_id": 1907,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

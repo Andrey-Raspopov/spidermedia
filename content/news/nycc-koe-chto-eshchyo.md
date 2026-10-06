@@ -1,6 +1,6 @@
 {
   "title": "NYCC: кое-что ещё",
-  "date": "2014-10-14T10:19:00+03:00",
+  "date": "2014-10-14T09:19:07+03:00",
   "url": "/news/nycc-koe-chto-eshchyo/",
   "original_url": "http://spidermedia.ru/news/nycc-koe-chto-eshchyo",
   "archived": "https://web.archive.org/web/20260215081003/http://spidermedia.ru/news/nycc-koe-chto-eshchyo",
@@ -18,6 +18,12 @@
     "gejl-simon",
     "vertigo",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150326053012im_/http://spidermedia.ru/assets/images/import_image/8181.jpg",
+  "modx_id": 8181,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

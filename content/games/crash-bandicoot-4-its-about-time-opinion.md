@@ -4,6 +4,12 @@
   "url": "/games/crash-bandicoot-4-its-about-time-opinion/",
   "original_url": "http://spidermedia.ru/games/crash-bandicoot-4-its-about-time-opinion",
   "archived": "https://web.archive.org/web/20250429151453/http://spidermedia.ru/games/crash-bandicoot-4-its-about-time-opinion",
+  "cover": "https://web.archive.org/web/20250429151453im_/http://spidermedia.ru/assets/images/games/01-1.jpg",
+  "modx_id": 102365,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

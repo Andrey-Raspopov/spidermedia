@@ -1,12 +1,21 @@
 {
   "title": "Качественные изображения \"Зеленого Фонаря\"",
-  "date": "2010-11-03T08:11:00+03:00",
+  "date": "2010-11-03T08:11:22+03:00",
   "url": "/news/kachestvennye-izobrazheniya-zelenogo-fonarya/",
+  "aliases": [
+    "/node/3050/"
+  ],
   "original_url": "https://spidermedia.ru/news/kachestvennye-izobrazheniya-zelenogo-fonarya",
   "archived": "https://web.archive.org/web/20260121004301/https://spidermedia.ru/news/kachestvennye-izobrazheniya-zelenogo-fonarya",
   "tags": [
     "green-lantern",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20260121004301im_/http://spidermedia.ru/assets/images/import_image/3050.png",
+  "modx_id": 3050,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

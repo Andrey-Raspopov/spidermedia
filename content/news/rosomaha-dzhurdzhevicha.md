@@ -1,14 +1,24 @@
 {
   "title": "Росомаха Джурджевича",
-  "date": "2010-11-02T21:46:00+03:00",
+  "date": "2010-11-02T21:46:29+03:00",
   "url": "/news/rosomaha-dzhurdzhevicha/",
+  "aliases": [
+    "/node/3045/"
+  ],
   "original_url": "https://spidermedia.ru/news/rosomaha-dzhurdzhevicha",
   "archived": "https://web.archive.org/web/20251013192316/https://spidermedia.ru/news/rosomaha-dzhurdzhevicha",
   "tags": [
     "marko-dzhurdzhevich",
     "art-0",
     "wolverine",
-    "marvel"
+    "marvel",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20251013192316im_/http://spidermedia.ru/assets/images/import_image/3045.jpg",
+  "modx_id": 3045,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

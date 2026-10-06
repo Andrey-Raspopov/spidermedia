@@ -1,12 +1,18 @@
 {
   "title": "МЖДЗ: ... IT'S ABOUT THE BREEDING",
-  "date": "2011-06-07T13:35:00+03:00",
+  "date": "2011-06-07T12:35:08+03:00",
   "url": "/blog/redson/mzhdz-its-about-breeding/",
   "original_url": "http://spidermedia.ru/blog/redson/mzhdz-its-about-breeding",
   "archived": "https://web.archive.org/web/20251208062322/http://spidermedia.ru/blog/redson/mzhdz-its-about-breeding",
   "tags": [
     "mnenie",
     "mzhdz"
+  ],
+  "cover": "https://web.archive.org/web/20160427211654im_/http://spidermedia.ru/assets/images/import_image/6342.jpg",
+  "modx_id": 6342,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

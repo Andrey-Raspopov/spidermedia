@@ -13,6 +13,12 @@
     "warren-ellis",
     "franchesko-frankavilla"
   ],
+  "cover": "https://web.archive.org/web/20251115040738im_/http://spidermedia.ru/assets/images/reviews/marvel/moon-knight/mzk.jpg",
+  "modx_id": 101881,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

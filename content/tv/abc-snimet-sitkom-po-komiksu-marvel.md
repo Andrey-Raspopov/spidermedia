@@ -7,6 +7,12 @@
   "tags": [
     "marvel"
   ],
+  "cover": "https://web.archive.org/web/20250717192113im_/http://spidermedia.ru/assets/images/tv/marvel/damage-control/damage-control(1).jpg",
+  "modx_id": 100627,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

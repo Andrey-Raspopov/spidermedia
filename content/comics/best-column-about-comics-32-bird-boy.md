@@ -8,6 +8,12 @@
     "best-column-about-comics",
     "mnenie"
   ],
+  "cover": "https://web.archive.org/web/20260211093914im_/http://spidermedia.ru/assets/images/best-column-about-comics/32-bird-boy/bird-boy-cover.jpg",
+  "modx_id": 101805,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

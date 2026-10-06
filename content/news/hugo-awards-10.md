@@ -1,6 +1,6 @@
 {
   "title": "Hugo Awards '10",
-  "date": "2010-04-09T00:39:00+03:00",
+  "date": "2010-04-08T23:39:39+03:00",
   "url": "/news/hugo-awards-10/",
   "original_url": "https://spidermedia.ru/news/hugo-awards-10",
   "archived": "https://web.archive.org/web/20260206214524/https://spidermedia.ru/news/hugo-awards-10",
@@ -17,6 +17,12 @@
     "fables",
     "dc-comics",
     "captain-britain"
+  ],
+  "cover": "https://web.archive.org/web/20150428172338im_/http://spidermedia.ru/assets/images/import_image/2525.jpg",
+  "modx_id": 2525,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

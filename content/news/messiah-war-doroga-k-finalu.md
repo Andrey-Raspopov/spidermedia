@@ -1,7 +1,10 @@
 {
   "title": "Messiah War: Дорога к финалу",
-  "date": "2009-06-17T17:48:00+03:00",
+  "date": "2009-06-17T16:48:44+03:00",
   "url": "/news/messiah-war-doroga-k-finalu/",
+  "aliases": [
+    "/node/1434/"
+  ],
   "original_url": "https://spidermedia.ru/news/messiah-war-doroga-k-finalu",
   "archived": "https://web.archive.org/web/20260314080753/https://spidermedia.ru/news/messiah-war-doroga-k-finalu",
   "tags": [
@@ -13,7 +16,14 @@
     "strajf",
     "kejbl",
     "stryfe",
-    "nadezhda"
+    "nadezhda",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20260314080753im_/http://spidermedia.ru/assets/images/import_image/1434.jpg",
+  "modx_id": 1434,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

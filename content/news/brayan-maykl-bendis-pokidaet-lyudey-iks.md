@@ -1,13 +1,20 @@
 {
   "title": "Брайан Майкл Бендис покидает Людей Икс",
-  "date": "2015-02-04T21:31:00+03:00",
+  "date": "2015-02-04T21:31:59+03:00",
   "url": "/news/brayan-maykl-bendis-pokidaet-lyudey-iks/",
   "original_url": "https://spidermedia.ru/news/brayan-maykl-bendis-pokidaet-lyudey-iks",
   "archived": "https://web.archive.org/web/20250913020407/https://spidermedia.ru/news/brayan-maykl-bendis-pokidaet-lyudey-iks",
   "tags": [
     "x-men",
     "marvel",
-    "brian-michael-bendis"
+    "brian-michael-bendis",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20180315151829im_/http://spidermedia.ru/assets/images/import_image/8586.jpg",
+  "modx_id": 8586,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

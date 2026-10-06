@@ -1,12 +1,19 @@
 {
   "title": "Ходячие мертвецы: новые промокадры",
-  "date": "2014-08-29T08:32:00+03:00",
+  "date": "2014-08-29T07:32:40+03:00",
   "url": "/news/hodyachie-mertvecy-novoe-promokadry/",
   "original_url": "http://spidermedia.ru/news/hodyachie-mertvecy-novoe-promokadry",
   "archived": "https://web.archive.org/web/20260125131908/http://spidermedia.ru/news/hodyachie-mertvecy-novoe-promokadry",
   "tags": [
     "hodyachie-mertvecy",
-    "serialy"
+    "serialy",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20260125131908im_/http://spidermedia.ru/assets/images/import_image/8026.jpg",
+  "modx_id": 8026,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

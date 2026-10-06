@@ -7,6 +7,12 @@
   "tags": [
     "batman-and-robin-day"
   ],
+  "cover": "https://web.archive.org/web/20220314040047im_/http://spidermedia.ru/assets/images/birday/zamskij2.png",
+  "modx_id": 102008,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,12 @@
   "url": "/games/death-stranding/",
   "original_url": "https://spidermedia.ru/games/death-stranding",
   "archived": "https://web.archive.org/web/20260313115653/https://spidermedia.ru/games/death-stranding",
+  "cover": "https://web.archive.org/web/20200213134708im_/http://spidermedia.ru/assets/images/games/fe.jpg",
+  "modx_id": 102187,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

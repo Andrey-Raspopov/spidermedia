@@ -1,12 +1,17 @@
 {
   "title": "Что-то меня на идиотские мысли пробило.",
-  "date": "2009-02-09T20:52:00+03:00",
+  "date": "2009-02-09T20:52:48+03:00",
   "url": "/blog/bastion7/chto-menya-na-idiotskie-mysli-probilo/",
   "original_url": "https://spidermedia.ru/blog/bastion7/chto-menya-na-idiotskie-mysli-probilo",
   "archived": "https://web.archive.org/web/20250217064605/https://spidermedia.ru/blog/bastion7/chto-menya-na-idiotskie-mysli-probilo",
   "tags": [
     "mysli",
     "garth-ennis"
+  ],
+  "modx_id": 290,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Смолвиль/Smallville s9 ep.6 - \"Перекрёстный огонь\"/\"Crossfire\"",
-  "date": "2009-11-01T19:34:00+03:00",
+  "date": "2009-11-01T19:34:50+03:00",
   "url": "/blog/alex/smolvil-smallville-s9-ep6-perekryostnyy-ogon-crossfire/",
   "original_url": "https://spidermedia.ru/blog/alex/smolvil-smallville-s9-ep6-perekryostnyy-ogon-crossfire",
   "archived": "https://web.archive.org/web/20251006142159/https://spidermedia.ru/blog/alex/smolvil-smallville-s9-ep6-perekryostnyy-ogon-crossfire",
@@ -9,7 +9,14 @@
     "smollvill",
     "superman",
     "tajny-smollvillya",
-    "serialy"
+    "serialy",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20251006142159im_/http://spidermedia.ru/assets/images/import_image/2047.png",
+  "modx_id": 2047,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

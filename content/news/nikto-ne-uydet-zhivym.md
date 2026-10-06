@@ -1,6 +1,6 @@
 {
   "title": "Никто не уйдет живым",
-  "date": "2012-05-15T16:30:00+03:00",
+  "date": "2012-05-15T15:30:32+03:00",
   "url": "/news/nikto-ne-uydet-zhivym/",
   "original_url": "http://spidermedia.ru/news/nikto-ne-uydet-zhivym",
   "archived": "https://web.archive.org/web/20251216122311/http://spidermedia.ru/news/nikto-ne-uydet-zhivym",
@@ -9,6 +9,12 @@
     "kallen-bann",
     "deadpool",
     "dalibor-taladzhich"
+  ],
+  "cover": "https://web.archive.org/web/20251216122311im_/http://spidermedia.ru/assets/images/import_image/6899.jpg",
+  "modx_id": 6899,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

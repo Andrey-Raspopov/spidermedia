@@ -1,7 +1,10 @@
 {
   "title": "SDCC'10: Green Lanten - промо",
-  "date": "2010-07-27T07:38:00+03:00",
+  "date": "2010-07-27T06:38:06+03:00",
   "url": "/news/sdcc10-green-lanten-promo/",
+  "aliases": [
+    "/node/2811/"
+  ],
   "original_url": "http://spidermedia.ru/news/sdcc10-green-lanten-promo",
   "archived": "https://web.archive.org/web/20120718080531/http://spidermedia.ru/news/sdcc10-green-lanten-promo",
   "tags": [
@@ -10,6 +13,12 @@
     "zelenyy-fonar",
     "kino",
     "postery"
+  ],
+  "cover": "https://web.archive.org/web/20120718080531im_/http://spidermedia.ru/assets/images/import_image/2811.png",
+  "modx_id": 2811,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

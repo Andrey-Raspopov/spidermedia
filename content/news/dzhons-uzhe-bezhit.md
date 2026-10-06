@@ -1,7 +1,10 @@
 {
   "title": "Джонс уже бежит...",
-  "date": "2009-06-02T23:14:00+03:00",
+  "date": "2009-06-02T22:14:28+03:00",
   "url": "/news/dzhons-uzhe-bezhit/",
+  "aliases": [
+    "/node/1334/"
+  ],
   "original_url": "http://spidermedia.ru/news/dzhons-uzhe-bezhit",
   "archived": "https://web.archive.org/web/20241202114345/http://spidermedia.ru/news/dzhons-uzhe-bezhit",
   "tags": [
@@ -9,7 +12,13 @@
     "the-flash",
     "preview",
     "geoff-johns",
-    "ethan-van-sciver"
+    "ethan-van-sciver",
+    "prevyu"
+  ],
+  "modx_id": 1334,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Секрет Dark Horse и Universal",
-  "date": "2009-05-14T13:15:00+03:00",
+  "date": "2009-05-14T12:15:18+03:00",
   "url": "/news/sekret-dark-horse-i-universal/",
   "original_url": "http://spidermedia.ru/news/sekret-dark-horse-i-universal",
   "archived": "https://web.archive.org/web/20111018235035/http://spidermedia.ru/news/sekret-dark-horse-i-universal",
@@ -10,7 +10,14 @@
     "universal",
     "kino",
     "komiksy",
-    "sekret"
+    "sekret",
+    "the-secret"
+  ],
+  "cover": "https://web.archive.org/web/20111018235035im_/http://spidermedia.ru/assets/images/import_image/1179.jpg",
+  "modx_id": 1179,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

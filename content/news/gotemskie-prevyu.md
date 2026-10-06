@@ -1,7 +1,10 @@
 {
   "title": "Готэмские превью",
-  "date": "2009-06-12T01:44:00+03:00",
+  "date": "2009-06-12T00:44:03+03:00",
   "url": "/news/gotemskie-prevyu/",
+  "aliases": [
+    "/node/1404/"
+  ],
   "original_url": "https://spidermedia.ru/news/gotemskie-prevyu",
   "archived": "https://web.archive.org/web/20260115050426/https://spidermedia.ru/news/gotemskie-prevyu",
   "tags": [
@@ -18,7 +21,15 @@
     "harley-quinn",
     "guillem-march",
     "harli-kvin",
-    "zhenshhina-koshka"
+    "zhenshhina-koshka",
+    "prevyu",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20260115050426im_/http://spidermedia.ru/assets/images/import_image/1404.jpg",
+  "modx_id": 1404,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

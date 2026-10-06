@@ -1,7 +1,10 @@
 {
   "title": "Логан. Теперь и черно-белый.",
-  "date": "2009-03-22T20:09:00+03:00",
+  "date": "2009-03-22T19:09:13+03:00",
   "url": "/news/logan-teper-i-cherno-belyy/",
+  "aliases": [
+    "/node/747/"
+  ],
   "original_url": "http://spidermedia.ru/news/logan-teper-i-cherno-belyy",
   "archived": "https://web.archive.org/web/20120608032252/http://spidermedia.ru/news/logan-teper-i-cherno-belyy",
   "tags": [
@@ -11,7 +14,15 @@
     "kris-yost",
     "marvel",
     "oblozhki",
-    "rosomaha"
+    "rosomaha",
+    "art",
+    "kris-jost"
+  ],
+  "cover": "https://web.archive.org/web/20120608032252im_/http://spidermedia.ru/assets/images/import_image/747.jpg",
+  "modx_id": 747,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

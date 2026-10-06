@@ -1,6 +1,6 @@
 {
   "title": "Первое официальное промо мультсериала Hulk and the Agents of S.M.A.S.H.",
-  "date": "2013-06-18T10:22:00+03:00",
+  "date": "2013-06-18T09:22:39+03:00",
   "url": "/news/pervoe-oficialnoe-promo-multseriala-hulk-and-agents-smash/",
   "original_url": "https://spidermedia.ru/news/pervoe-oficialnoe-promo-multseriala-hulk-and-agents-smash",
   "archived": "https://web.archive.org/web/20251206163255/https://spidermedia.ru/news/pervoe-oficialnoe-promo-multseriala-hulk-and-agents-smash",
@@ -10,6 +10,12 @@
     "dzhef-loeb",
     "animaciya",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150428175113im_/http://spidermedia.ru/assets/images/import_image/7284.jpg",
+  "modx_id": 7284,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

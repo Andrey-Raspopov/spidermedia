@@ -1,7 +1,10 @@
 {
   "title": "рецензия - Transmetropolitan",
-  "date": "2009-03-02T21:11:00+03:00",
+  "date": "2009-03-02T21:11:38+03:00",
   "url": "/blog/bastion7/recenziya-transmetropolitan/",
+  "aliases": [
+    "/node/564/"
+  ],
   "original_url": "https://spidermedia.ru/blog/bastion7/recenziya-transmetropolitan",
   "archived": "https://web.archive.org/web/20250518130525/https://spidermedia.ru/blog/bastion7/recenziya-transmetropolitan",
   "tags": [
@@ -10,6 +13,12 @@
     "vertigo",
     "warren-ellis",
     "derik-robertson"
+  ],
+  "cover": "https://web.archive.org/web/20250518130525im_/http://spidermedia.ru/assets/images/import_image/564.jpg",
+  "modx_id": 564,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

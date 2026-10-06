@@ -1,9 +1,15 @@
 {
   "title": "Краткий курс юного дилера",
-  "date": "2010-04-10T10:17:00+03:00",
+  "date": "2010-04-10T09:17:58+03:00",
   "url": "/blog/sir-carnage/kratkiy-kurs-yunogo-dilera/",
   "original_url": "http://spidermedia.ru/blog/sir-carnage/kratkiy-kurs-yunogo-dilera",
   "archived": "https://web.archive.org/web/20170715133253/http://spidermedia.ru:80/blog/sir-carnage/kratkiy-kurs-yunogo-dilera",
+  "cover": "https://web.archive.org/web/20170715133253im_/http://spidermedia.ru/assets/images/import_image/2527.jpg",
+  "modx_id": 2527,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

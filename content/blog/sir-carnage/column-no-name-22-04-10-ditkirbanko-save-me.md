@@ -1,6 +1,6 @@
 {
   "title": "The Column With No Name: 22/04/10 - Ditkirbanko save me!",
-  "date": "2010-04-25T07:19:00+03:00",
+  "date": "2010-04-25T06:19:07+03:00",
   "url": "/blog/sir-carnage/column-no-name-22-04-10-ditkirbanko-save-me/",
   "original_url": "https://spidermedia.ru/blog/sir-carnage/column-no-name-22-04-10-ditkirbanko-save-me",
   "archived": "https://web.archive.org/web/20250806090209/https://spidermedia.ru/blog/sir-carnage/column-no-name-22-04-10-ditkirbanko-save-me",
@@ -9,6 +9,12 @@
     "marvel",
     "dc-comics",
     "the-column-with-no-name"
+  ],
+  "cover": "https://web.archive.org/web/20250806090209im_/http://spidermedia.ru/assets/images/import_image/2579.jpg",
+  "modx_id": 2579,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

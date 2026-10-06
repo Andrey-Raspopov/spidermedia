@@ -8,6 +8,12 @@
     "marvel",
     "ant-man"
   ],
+  "cover": "https://web.archive.org/web/20160704093451im_/http://spidermedia.ru/assets/images/gallery/100157/original_marvel-ant-man-movie-first-trailer-screencaps-7.jpg",
+  "modx_id": 100157,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,12 +1,18 @@
 {
   "title": "Новое промо «Флэша»",
-  "date": "2014-09-25T20:26:00+03:00",
+  "date": "2014-09-25T19:26:38+03:00",
   "url": "/news/novoe-promo-flesha/",
   "original_url": "http://spidermedia.ru/news/novoe-promo-flesha",
   "archived": "https://web.archive.org/web/20250617232828/http://spidermedia.ru/news/novoe-promo-flesha",
   "tags": [
     "the-flash",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150502134333im_/http://spidermedia.ru/assets/images/import_image/8106.jpg",
+  "modx_id": 8106,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,11 +1,17 @@
 {
   "title": "Превью Dreadcore: Анамнез #2",
-  "date": "2014-09-29T23:17:00+03:00",
+  "date": "2014-09-29T22:17:41+03:00",
   "url": "/news/prevyu-dreadcore-anamnes-2/",
   "original_url": "http://spidermedia.ru/news/prevyu-dreadcore-anamnes-2",
   "archived": "https://web.archive.org/web/20190917031252/http://spidermedia.ru:80/news/prevyu-dreadcore-anamnes-2",
   "tags": [
     "russian-comics"
+  ],
+  "cover": "https://web.archive.org/web/20190917031252im_/http://spidermedia.ru/assets/images/import_image/8114.jpg",
+  "modx_id": 8114,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "А король-то (в основном) голый!",
-  "date": "2011-01-19T13:13:00+03:00",
+  "date": "2011-01-19T12:13:31+03:00",
   "url": "/news/korol-v-osnovnom-golyy/",
   "original_url": "http://spidermedia.ru/news/korol-v-osnovnom-golyy",
   "archived": "https://web.archive.org/web/20120608160213/http://spidermedia.ru/news/korol-v-osnovnom-golyy",
@@ -14,7 +14,14 @@
     "komiksy",
     "marvel",
     "rob-uillyams",
-    "skaar-0"
+    "skaar-0",
+    "brajan-ching"
+  ],
+  "cover": "https://web.archive.org/web/20120608160213im_/http://spidermedia.ru/assets/images/import_image/3175.jpg",
+  "modx_id": 3175,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

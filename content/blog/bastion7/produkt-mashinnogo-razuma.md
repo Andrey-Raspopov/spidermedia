@@ -1,11 +1,20 @@
 {
   "title": "Продукт машинного разума",
-  "date": "2009-01-31T23:17:00+03:00",
+  "date": "2009-01-31T22:17:30+03:00",
   "url": "/blog/bastion7/produkt-mashinnogo-razuma/",
+  "aliases": [
+    "/node/44/"
+  ],
   "original_url": "http://spidermedia.ru/blog/bastion7/produkt-mashinnogo-razuma",
   "archived": "https://web.archive.org/web/20120608195828/http://spidermedia.ru/blog/bastion7/produkt-mashinnogo-razuma",
   "tags": [
     "vstuplenie"
+  ],
+  "cover": "https://web.archive.org/web/20120608195828im_/http://spidermedia.ru/assets/images/import_image/44.jpg",
+  "modx_id": 44,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

@@ -1,13 +1,22 @@
 {
   "title": "Комиксы DC Universe. Выпуск № 17",
-  "date": "2009-07-25T14:07:00+03:00",
+  "date": "2009-07-25T13:07:21+03:00",
   "url": "/blog/derden/komiksy-dc-universe-vypusk-no-17/",
+  "aliases": [
+    "/node/1656/"
+  ],
   "original_url": "http://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-17",
   "archived": "https://web.archive.org/web/20260211191820/http://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-17",
   "tags": [
     "dc-comics",
     "teen-titans",
     "dc-universe-comics"
+  ],
+  "cover": "https://web.archive.org/web/20260211191820im_/http://spidermedia.ru/assets/images/import_image/1656.jpg",
+  "modx_id": 1656,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

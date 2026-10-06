@@ -1,12 +1,20 @@
 {
   "title": "Человек-Паук и Неведомая Грёбаная Хреновина",
-  "date": "2009-07-31T17:36:00+03:00",
+  "date": "2009-07-31T16:36:17+03:00",
   "url": "/blog/gess/chelovek-pauk-i-nevedomaya-gryobanaya-hrenovina/",
+  "aliases": [
+    "/node/1705/"
+  ],
   "original_url": "http://spidermedia.ru/blog/gess/chelovek-pauk-i-nevedomaya-gryobanaya-hrenovina",
   "archived": "https://web.archive.org/web/20241110020212/http://spidermedia.ru/blog/gess/chelovek-pauk-i-nevedomaya-gryobanaya-hrenovina",
   "tags": [
     "animaciya",
     "spider-man"
+  ],
+  "modx_id": 1705,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

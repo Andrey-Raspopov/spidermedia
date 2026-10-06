@@ -1,11 +1,17 @@
 {
   "title": "День новых комиксов: 15 октября",
-  "date": "2014-10-15T12:45:00+03:00",
+  "date": "2014-10-15T11:45:15+03:00",
   "url": "/blog/redson/den-novyh-komiksov-15-oktyabrya-0/",
   "original_url": "https://spidermedia.ru/blog/redson/den-novyh-komiksov-15-oktyabrya-0",
   "archived": "https://web.archive.org/web/20260314083900/https://spidermedia.ru/blog/redson/den-novyh-komiksov-15-oktyabrya-0",
   "tags": [
     "den-novyh-komiksov"
+  ],
+  "cover": "https://web.archive.org/web/20150326155616im_/http://spidermedia.ru/assets/images/import_image/8187.jpg",
+  "modx_id": 8187,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

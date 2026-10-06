@@ -8,6 +8,12 @@
     "marvel",
     "jessica-jones-alias"
   ],
+  "cover": "https://web.archive.org/web/20251211022121im_/http://spidermedia.ru/assets/images/tv/marvel/aka-jessica-jones-netflix-tv-series-2015/purple-man(1).jpg",
+  "modx_id": 100638,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

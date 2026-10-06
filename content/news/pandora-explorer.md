@@ -1,6 +1,6 @@
 {
   "title": "Pandora the Explorer",
-  "date": "2013-03-03T07:36:00+03:00",
+  "date": "2013-03-03T06:36:42+03:00",
   "url": "/news/pandora-explorer/",
   "original_url": "http://spidermedia.ru/news/pandora-explorer",
   "archived": "https://web.archive.org/web/20240908053816/http://spidermedia.ru/news/pandora-explorer",
@@ -8,6 +8,12 @@
     "dc-comics",
     "rej-fouks",
     "deniel-sampir"
+  ],
+  "cover": "https://web.archive.org/web/20240908053816im_/http://spidermedia.ru/assets/images/import_image/7156.jpg",
+  "modx_id": 7156,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

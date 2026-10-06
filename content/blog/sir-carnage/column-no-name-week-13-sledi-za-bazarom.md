@@ -1,7 +1,10 @@
 {
   "title": "The Column With No Name - Week #13: Sledi za bazarom--!",
-  "date": "2009-06-28T06:19:00+03:00",
+  "date": "2009-06-28T05:19:22+03:00",
   "url": "/blog/sir-carnage/column-no-name-week-13-sledi-za-bazarom/",
+  "aliases": [
+    "/node/1487/"
+  ],
   "original_url": "https://spidermedia.ru/blog/sir-carnage/column-no-name-week-13-sledi-za-bazarom",
   "archived": "https://web.archive.org/web/20260305231233/https://spidermedia.ru/blog/sir-carnage/column-no-name-week-13-sledi-za-bazarom",
   "tags": [
@@ -15,7 +18,14 @@
     "detective-comics",
     "dc-comics",
     "avengers",
-    "the-column-with-no-name"
+    "the-column-with-no-name",
+    "tor"
+  ],
+  "cover": "https://web.archive.org/web/20260305231233im_/http://spidermedia.ru/assets/images/import_image/1487.jpg",
+  "modx_id": 1487,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

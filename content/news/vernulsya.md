@@ -1,7 +1,10 @@
 {
   "title": "Он вернулся!",
-  "date": "2009-02-06T19:53:00+03:00",
+  "date": "2009-02-06T19:53:31+03:00",
   "url": "/news/vernulsya/",
+  "aliases": [
+    "/node/232/"
+  ],
   "original_url": "https://spidermedia.ru/news/vernulsya",
   "archived": "https://web.archive.org/web/20230607015018/https://spidermedia.ru/news/vernulsya",
   "tags": [
@@ -10,7 +13,14 @@
     "preview",
     "nycc-2009",
     "geoff-johns",
-    "ethan-van-sciver"
+    "ethan-van-sciver",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20230607015018im_/http://spidermedia.ru/assets/images/import_image/232.jpg",
+  "modx_id": 232,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Фрэнк Миллер и Скотт Снайдер планируют продолжение TDKR",
-  "date": "2014-12-05T07:44:00+03:00",
+  "date": "2014-12-05T07:44:39+03:00",
   "url": "/news/azzarello-romita-ml-gibbons-i-yanson-prisoedinyatsya-k-rabote-nad-trikvelom-vozvrashcheniya-tyo/",
   "original_url": "https://spidermedia.ru/news/azzarello-romita-ml-gibbons-i-yanson-prisoedinyatsya-k-rabote-nad-trikvelom-vozvrashcheniya-tyo",
   "archived": "https://web.archive.org/web/20260116225013/https://spidermedia.ru/news/azzarello-romita-ml-gibbons-i-yanson-prisoedinyatsya-k-rabote-nad-trikvelom-vozvrashcheniya-tyo",
@@ -9,6 +9,12 @@
     "skott-snajder",
     "batman",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150326221757im_/http://spidermedia.ru/assets/images/import_image/8346.jpg",
+  "modx_id": 8346,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

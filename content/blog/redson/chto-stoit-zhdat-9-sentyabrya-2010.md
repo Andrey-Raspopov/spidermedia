@@ -1,12 +1,18 @@
 {
   "title": "Что стоит ждать 9 сентября 2010",
-  "date": "2010-09-05T23:31:00+03:00",
+  "date": "2010-09-05T22:31:13+03:00",
   "url": "/blog/redson/chto-stoit-zhdat-9-sentyabrya-2010/",
   "original_url": "http://spidermedia.ru/blog/redson/chto-stoit-zhdat-9-sentyabrya-2010",
   "archived": "https://web.archive.org/web/20190907234142/http://spidermedia.ru:80/blog/redson/chto-stoit-zhdat-9-sentyabrya-2010",
   "tags": [
     "chto-stoit-zhdat",
     "mnenie"
+  ],
+  "cover": "https://web.archive.org/web/20190907234142im_/http://spidermedia.ru/assets/images/import_image/2889.jpg",
+  "modx_id": 2889,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

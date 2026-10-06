@@ -1,11 +1,19 @@
 {
   "title": "Комикс \"Стерва\" на русском языке",
-  "date": "2010-08-09T14:00:00+03:00",
+  "date": "2010-08-09T13:00:36+03:00",
   "url": "/news/komiks-sterva-na-russkom-yazyke/",
+  "aliases": [
+    "/node/2843/"
+  ],
   "original_url": "https://spidermedia.ru/news/komiks-sterva-na-russkom-yazyke",
   "archived": "https://web.archive.org/web/20240226070900/https://spidermedia.ru/news/komiks-sterva-na-russkom-yazyke",
   "tags": [
     "russian-comics"
+  ],
+  "modx_id": 2843,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

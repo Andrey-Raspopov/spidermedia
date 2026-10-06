@@ -1,13 +1,23 @@
 {
   "title": "Хорошие комиксы vs. куча г-вна с одинаковым сюжетом",
-  "date": "2009-06-25T23:05:00+03:00",
+  "date": "2009-06-25T22:05:28+03:00",
   "url": "/blog/gess/horoshie-komiksy-vs-kucha-g-vna-s-odinakovym-syuzhetom/",
+  "aliases": [
+    "/node/1480/"
+  ],
   "original_url": "http://spidermedia.ru/blog/gess/horoshie-komiksy-vs-kucha-g-vna-s-odinakovym-syuzhetom",
   "archived": "https://web.archive.org/web/20251206035126/http://spidermedia.ru/blog/gess/horoshie-komiksy-vs-kucha-g-vna-s-odinakovym-syuzhetom",
   "tags": [
     "thor",
     "j-michael-straczynski",
-    "you-do-it-wrong"
+    "you-do-it-wrong",
+    "tor",
+    "dzhej-majkl-strazhinski"
+  ],
+  "modx_id": 1480,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

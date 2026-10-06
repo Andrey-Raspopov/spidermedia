@@ -1,7 +1,10 @@
 {
   "title": "Обложки Темнейшей Ночи и Превью Фонаря",
-  "date": "2009-09-26T11:30:00+03:00",
+  "date": "2009-09-26T10:30:27+03:00",
   "url": "/news/oblozhki-temneyshey-nochi-i-prevyu-fonarya/",
+  "aliases": [
+    "/node/1934/"
+  ],
   "original_url": "https://spidermedia.ru/news/oblozhki-temneyshey-nochi-i-prevyu-fonarya",
   "archived": "https://web.archive.org/web/20250322062110/https://spidermedia.ru/news/oblozhki-temneyshey-nochi-i-prevyu-fonarya",
   "tags": [
@@ -9,7 +12,14 @@
     "green-lantern",
     "blackest-night",
     "preview",
-    "temnejshaya-noch"
+    "temnejshaya-noch",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20250322062110im_/http://spidermedia.ru/assets/images/import_image/1934.jpg",
+  "modx_id": 1934,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

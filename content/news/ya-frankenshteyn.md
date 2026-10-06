@@ -1,6 +1,6 @@
 {
   "title": "Я, Франкенштейн",
-  "date": "2009-04-16T14:01:00+03:00",
+  "date": "2009-04-16T13:01:30+03:00",
   "url": "/news/ya-frankenshteyn/",
   "original_url": "http://spidermedia.ru/news/ya-frankenshteyn",
   "archived": "https://web.archive.org/web/20190315120847/http://spidermedia.ru:80/news/ya-frankenshteyn",
@@ -8,6 +8,12 @@
     "darkstorm",
     "frankenstein",
     "frankenshtejn"
+  ],
+  "cover": "https://web.archive.org/web/20190315120847im_/http://spidermedia.ru/assets/images/import_image/953.jpg",
+  "modx_id": 953,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

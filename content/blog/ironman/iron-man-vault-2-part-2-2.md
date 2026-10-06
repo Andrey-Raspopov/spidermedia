@@ -1,7 +1,10 @@
 {
   "title": "Iron Man Vault #2 (Part 2 of 2)",
-  "date": "2009-07-14T15:35:00+03:00",
+  "date": "2009-07-14T14:35:24+03:00",
   "url": "/blog/ironman/iron-man-vault-2-part-2-2/",
+  "aliases": [
+    "/node/1556/"
+  ],
   "original_url": "http://spidermedia.ru/blog/ironman/iron-man-vault-2-part-2-2",
   "archived": "https://web.archive.org/web/20220808165045/http://spidermedia.ru/blog/ironman/iron-man-vault-2-part-2-2",
   "tags": [
@@ -9,7 +12,14 @@
     "war-machine",
     "marvel",
     "iron-man",
-    "avengers"
+    "avengers",
+    "zheleznyy-chelovek"
+  ],
+  "cover": "https://web.archive.org/web/20220808165045im_/http://spidermedia.ru/assets/images/import_image/1556.jpg",
+  "modx_id": 1556,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
@@ -21,13 +31,13 @@
 
 Первый выпуск колонки:
 
-Iron Man Vault #1 (Part 1 of 2) - [http://spidermedia.ru/node/1500](../../../node/1500/)
+Iron Man Vault #1 (Part 1 of 2) - [http://spidermedia.ru/node/1500](../iron-man-vault-1-part-1-2/)
 
-Iron Man Vault #1 (Part 2 of 2) - [http://spidermedia.ru/node/1512](../../../node/1512/)
+Iron Man Vault #1 (Part 2 of 2) - [http://spidermedia.ru/node/1512](../iron-man-vault-1-part-2-2/)
 
 Второй выпуск колонки (первая часть):
 
-Iron Man Vault #2 (Part 1 of 2) - [http://spidermedia.ru/node/1532](../../../node/1532/)
+Iron Man Vault #2 (Part 1 of 2) - [http://spidermedia.ru/node/1532](../iron-man-vault-2-part-1-2/)
 
 Сценарист Лен Камински вместе с художником Кевином Хопгудом поведают вам о том, что было с Джимом Роудсом во время смерти Тони Старка. Эта талантливая команда ещё вернётся к вам в Iron Man Vault #3, а пока - наслаждайтесь историей Воителя:
 

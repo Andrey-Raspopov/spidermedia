@@ -1,6 +1,6 @@
 {
   "title": "Лето с Росомахой и Издательством \"Комикс\"!",
-  "date": "2011-05-25T15:06:00+03:00",
+  "date": "2011-05-25T14:06:12+03:00",
   "url": "/news/leto-s-rosomahoy-i-izdatelstvom-komiks/",
   "original_url": "http://spidermedia.ru/news/leto-s-rosomahoy-i-izdatelstvom-komiks",
   "archived": "https://web.archive.org/web/20260124045704/http://spidermedia.ru/news/leto-s-rosomahoy-i-izdatelstvom-komiks",
@@ -12,7 +12,14 @@
     "wolverine",
     "ultimate",
     "thor",
-    "captain-america"
+    "captain-america",
+    "tor"
+  ],
+  "cover": "https://web.archive.org/web/20160322035121im_/http://spidermedia.ru/assets/images/import_image/6007.jpg",
+  "modx_id": 6007,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

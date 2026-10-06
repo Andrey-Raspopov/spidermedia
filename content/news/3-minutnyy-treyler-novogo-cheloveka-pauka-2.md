@@ -1,6 +1,6 @@
 {
   "title": "3-минутный трейлер \"Нового Человека-Паука 2\"",
-  "date": "2014-02-24T16:05:00+03:00",
+  "date": "2014-02-24T15:05:18+03:00",
   "url": "/news/3-minutnyy-treyler-novogo-cheloveka-pauka-2/",
   "original_url": "http://spidermedia.ru/news/3-minutnyy-treyler-novogo-cheloveka-pauka-2",
   "archived": "https://web.archive.org/web/20250113160024/http://spidermedia.ru/news/3-minutnyy-treyler-novogo-cheloveka-pauka-2",
@@ -8,6 +8,12 @@
     "trejlery",
     "spider-man",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150424030934im_/http://spidermedia.ru/assets/images/import_image/7656.jpg",
+  "modx_id": 7656,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

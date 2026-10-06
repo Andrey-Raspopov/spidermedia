@@ -1,11 +1,20 @@
 {
   "title": "SNIKTbub",
-  "date": "2009-10-13T12:34:00+03:00",
+  "date": "2009-10-13T11:34:33+03:00",
   "url": "/blog/alex/sniktbub/",
+  "aliases": [
+    "/node/1990/"
+  ],
   "original_url": "http://spidermedia.ru/blog/alex/sniktbub",
   "archived": "https://web.archive.org/web/20260120235000/http://spidermedia.ru/blog/alex/sniktbub",
   "tags": [
     "wolverine"
+  ],
+  "cover": "https://web.archive.org/web/20260120235000im_/http://spidermedia.ru/assets/images/import_image/1990.jpg",
+  "modx_id": 1990,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

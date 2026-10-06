@@ -1,12 +1,18 @@
 {
   "title": "Новый проект FuryLion Studios и Издательства «42»",
-  "date": "2014-03-10T15:01:00+03:00",
+  "date": "2014-03-10T14:01:01+03:00",
   "url": "/news/novyy-proekt-furylion-studios-i-izdatelstva-42/",
   "original_url": "http://spidermedia.ru/news/novyy-proekt-furylion-studios-i-izdatelstva-42",
   "archived": "https://web.archive.org/web/20260211193302/http://spidermedia.ru/news/novyy-proekt-furylion-studios-i-izdatelstva-42",
   "tags": [
     "novosti",
     "industriya"
+  ],
+  "cover": "https://web.archive.org/web/20180401162607im_/http://spidermedia.ru/assets/images/import_image/7676.jpg",
+  "modx_id": 7676,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

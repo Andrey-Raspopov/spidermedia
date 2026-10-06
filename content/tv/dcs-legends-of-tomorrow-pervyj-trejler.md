@@ -7,6 +7,12 @@
   "tags": [
     "dc-comics"
   ],
+  "cover": "https://web.archive.org/web/20251213191437im_/http://spidermedia.ru/assets/images/tv/dc/legends/dcs-legends-of-tomorrow_article_story_large.jpg",
+  "modx_id": 100229,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

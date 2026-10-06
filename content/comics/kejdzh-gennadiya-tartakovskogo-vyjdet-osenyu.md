@@ -8,6 +8,12 @@
     "marvel",
     "luke-cage"
   ],
+  "cover": "https://web.archive.org/web/20240913061426im_/http://spidermedia.ru/assets/images/news/marvel/cage1-cover.jpg",
+  "modx_id": 101256,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

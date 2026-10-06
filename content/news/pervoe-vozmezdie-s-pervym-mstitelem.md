@@ -1,6 +1,6 @@
 {
   "title": "Первое Возмездие с Первым Мстителем",
-  "date": "2011-02-01T19:28:00+03:00",
+  "date": "2011-02-01T19:28:20+03:00",
   "url": "/news/pervoe-vozmezdie-s-pervym-mstitelem/",
   "original_url": "https://spidermedia.ru/news/pervoe-vozmezdie-s-pervym-mstitelem",
   "archived": "https://web.archive.org/web/20251211035403/https://spidermedia.ru/news/pervoe-vozmezdie-s-pervym-mstitelem",
@@ -9,7 +9,14 @@
     "preview",
     "nil-edvards",
     "luke-ross",
-    "marvel"
+    "marvel",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20251211035403im_/http://spidermedia.ru/assets/images/import_image/3203.jpg",
+  "modx_id": 3203,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

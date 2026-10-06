@@ -1,7 +1,10 @@
 {
   "title": "Legacy of Iron",
-  "date": "2009-12-10T22:36:00+03:00",
+  "date": "2009-12-10T22:36:13+03:00",
   "url": "/news/legacy-iron/",
+  "aliases": [
+    "/node/2164/"
+  ],
   "original_url": "https://spidermedia.ru/news/legacy-iron",
   "archived": "https://web.archive.org/web/20251108191645/https://spidermedia.ru/news/legacy-iron",
   "tags": [
@@ -10,7 +13,16 @@
     "preview",
     "art-0",
     "marvel",
-    "iron-man"
+    "iron-man",
+    "prevyu",
+    "art",
+    "zheleznyy-chelovek"
+  ],
+  "cover": "https://web.archive.org/web/20251108191645im_/http://spidermedia.ru/assets/images/import_image/2164.jpg",
+  "modx_id": 2164,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

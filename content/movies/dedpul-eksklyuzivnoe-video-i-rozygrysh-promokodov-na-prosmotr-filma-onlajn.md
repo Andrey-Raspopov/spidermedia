@@ -8,6 +8,12 @@
     "marvel",
     "deadpool"
   ],
+  "cover": "https://web.archive.org/web/20260211185144im_/http://spidermedia.ru/assets/images/movies/marvel/deadpool/bufer-obmena-1.jpg",
+  "modx_id": 101119,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

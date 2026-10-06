@@ -1,7 +1,10 @@
 {
   "title": "Бэтмен и Робин, Кэмерон и Кларк + Обновление",
-  "date": "2009-12-15T18:08:00+03:00",
+  "date": "2009-12-15T18:08:20+03:00",
   "url": "/news/betmen-i-robin-kemeron-i-klark-obnovlenie/",
+  "aliases": [
+    "/node/2170/"
+  ],
   "original_url": "http://spidermedia.ru/news/betmen-i-robin-kemeron-i-klark-obnovlenie",
   "archived": "https://web.archive.org/web/20251205114857/http://spidermedia.ru/news/betmen-i-robin-kemeron-i-klark-obnovlenie",
   "tags": [
@@ -15,12 +18,18 @@
     "dc-comics",
     "batman"
   ],
+  "cover": "https://web.archive.org/web/20251205114857im_/http://spidermedia.ru/assets/images/import_image/2170.png",
+  "modx_id": 2170,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
 ![Photobucket](https://web.archive.org/web/20251205114857im_/http://i707.photobucket.com/albums/ww79/Alex_spidermedia/media/Batman.png)
-Совсем недавно мы вам [показывали](../../node/2124/) обложку **#8** серии **Batman and Robin**, а также описание нового арка, который будет состоять из номеров 7, 8 и 9 и художником которого будет **Кэмерон Стюарт** (*Cameron Stewart*). Сегодня мы представляем вам ч/б обложку номера **9** и оба варианта номера **10** от **Френка Куайтли** (*Frank Quitely*), а также ч/б арт-превью **седьмого** номера от Кэмерона Стюарта:
+Совсем недавно мы вам [показывали](../fevralskie-betmen-i-robin/) обложку **#8** серии **Batman and Robin**, а также описание нового арка, который будет состоять из номеров 7, 8 и 9 и художником которого будет **Кэмерон Стюарт** (*Cameron Stewart*). Сегодня мы представляем вам ч/б обложку номера **9** и оба варианта номера **10** от **Френка Куайтли** (*Frank Quitely*), а также ч/б арт-превью **седьмого** номера от Кэмерона Стюарта:
  [![](https://web.archive.org/web/20251205114857im_/http://s42.radikal.ru/i097/0912/39/8fdf21c316ad.jpg)](http://dcu.blog.dccomics.com/files/2009/12/brcover9vin.jpg) [![](https://web.archive.org/web/20251205114857im_/http://i072.radikal.ru/0912/2f/d180ba8f8f01t.jpg)](http://dcu.blog.dccomics.com/files/2009/12/brcover10vin.jpg) [![](https://web.archive.org/web/20251205114857im_/http://s45.radikal.ru/i107/0912/bd/c697b9770b3ct.jpg)](http://s45.radikal.ru/i107/0912/bd/c697b9770b3c.jpg)
 
 [![](https://web.archive.org/web/20251205114857im_/http://s54.radikal.ru/i144/0912/dd/0bbed034d4d5t.jpg)](http://radikal.ru/F/s54.radikal.ru/i144/0912/dd/0bbed034d4d5.jpg.html) [![](https://web.archive.org/web/20251205114857im_/http://i018.radikal.ru/0912/ca/e270fbcf94ect.jpg)](http://radikal.ru/F/i018.radikal.ru/0912/ca/e270fbcf94ec.jpg.html) [![](https://web.archive.org/web/20251205114857im_/http://i080.radikal.ru/0912/cb/9bc8bbd38188t.jpg)](http://radikal.ru/F/i080.radikal.ru/0912/cb/9bc8bbd38188.jpg.html)

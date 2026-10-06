@@ -8,6 +8,12 @@
     "marvel",
     "wolverine"
   ],
+  "cover": "https://web.archive.org/web/20250512120401im_/http://spidermedia.ru/assets/images/news/marvel/legacy/arf2e-dt.jpg",
+  "modx_id": 101728,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

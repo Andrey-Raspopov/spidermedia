@@ -1,6 +1,6 @@
 {
   "title": "Мастрид манги от Дердена #1: Homunculus, Хидэо Ямамото",
-  "date": "2014-10-16T13:07:00+03:00",
+  "date": "2014-10-16T12:07:51+03:00",
   "url": "/blog/derden/mastrid-mangi-ot-derdena-1-homunculus-hideo-yamamoto/",
   "original_url": "http://spidermedia.ru/blog/derden/mastrid-mangi-ot-derdena-1-homunculus-hideo-yamamoto",
   "archived": "https://web.archive.org/web/20260121001126/http://spidermedia.ru/blog/derden/mastrid-mangi-ot-derdena-1-homunculus-hideo-yamamoto",
@@ -9,6 +9,12 @@
     "manga",
     "gomunkul",
     "homunculus"
+  ],
+  "cover": "https://web.archive.org/web/20260121001126im_/http://spidermedia.ru/assets/images/import_image/8194.jpg",
+  "modx_id": 8194,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

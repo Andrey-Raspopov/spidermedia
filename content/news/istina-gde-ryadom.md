@@ -1,7 +1,10 @@
 {
   "title": "Истина где-то рядом",
-  "date": "2010-04-18T03:52:00+03:00",
+  "date": "2010-04-18T02:52:35+03:00",
   "url": "/news/istina-gde-ryadom/",
+  "aliases": [
+    "/node/2556/"
+  ],
   "original_url": "https://spidermedia.ru/news/istina-gde-ryadom",
   "archived": "https://web.archive.org/web/20260305234327/https://spidermedia.ru/news/istina-gde-ryadom",
   "tags": [
@@ -9,13 +12,20 @@
     "dzho-kesada",
     "art-0",
     "marvel",
-    "spider-man"
+    "spider-man",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20260305234327im_/http://spidermedia.ru/assets/images/import_image/2556.jpg",
+  "modx_id": 2556,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-Тайна [тизера **O.M.I.T.**](../../node/2533/) раскрыта: это действительно имеет прямое отношение к **Человеку-Пауку** *(Spider-Man)* и расшифровывается как **One Moment In Time**. Грядущий арк, охватывающий **#638-641**, от **Джо Кесады** *(Joe Quesada)* и **Паоло Ривьеры** *(Paolo Rivera)* планирует нам рассказать о животрепещущих событиях, произошедших вместо того периода, когда у прежних **Питера Паркера** *(Peter Parker)*  и **Мэри Джейн Ватсон** *(Mary Jane Watson)* случилась свадьба, описанная в **Amazing Spider-Man Annual #21**.
+Тайна [тизера **O.M.I.T.**](../one-more-internet-teaser/) раскрыта: это действительно имеет прямое отношение к **Человеку-Пауку** *(Spider-Man)* и расшифровывается как **One Moment In Time**. Грядущий арк, охватывающий **#638-641**, от **Джо Кесады** *(Joe Quesada)* и **Паоло Ривьеры** *(Paolo Rivera)* планирует нам рассказать о животрепещущих событиях, произошедших вместо того периода, когда у прежних **Питера Паркера** *(Peter Parker)*  и **Мэри Джейн Ватсон** *(Mary Jane Watson)* случилась свадьба, описанная в **Amazing Spider-Man Annual #21**.
 [![](https://web.archive.org/web/20260305234327im_/http://i691.photobucket.com/albums/vv276/Silvernoir/phpThumb-1.jpg?t=1271540467)](http://s691.photobucket.com/albums/vv276/Silvernoir/asm639cov_col_02.jpg)
 Обложка **#639** от Паоло Ривьеры
 Корни данной истории, естественно, стоит искать в **One More Day**, откуда начнется развитие и в этот раз. Кесада обещает удивительное путешествие по трем главным периодам: O.M.D., современные дни и свадьба; при этом у вас не должны возникнуть мысли, что вы чего-то не знаете или не помните, к разъяснению подойдут максимально ответственно. Также - по словам автора - само наполнение тоже не оставит старые вопросы без ответов, в том числе загадочный шепот Мэри Джейн в финале O.M.D. и многое другое.

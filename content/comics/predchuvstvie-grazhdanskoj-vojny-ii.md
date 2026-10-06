@@ -8,6 +8,12 @@
     "marvel",
     "civil-war"
   ],
+  "cover": "https://web.archive.org/web/20250419045013im_/http://spidermedia.ru/assets/images/newgallery/gallery624/CWIIteaser-SpiderMan2-676x1024-88e39.jpg",
+  "modx_id": 101003,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

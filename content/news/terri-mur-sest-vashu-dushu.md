@@ -1,11 +1,17 @@
 {
   "title": "Терри Мур съест вашу душу",
-  "date": "2011-03-17T11:56:00+03:00",
+  "date": "2011-03-17T11:56:23+03:00",
   "url": "/news/terri-mur-sest-vashu-dushu/",
   "original_url": "http://spidermedia.ru/news/terri-mur-sest-vashu-dushu",
   "archived": "https://web.archive.org/web/20200216105013/http://spidermedia.ru:80/news/terri-mur-sest-vashu-dushu",
   "tags": [
     "terri-mur"
+  ],
+  "cover": "https://web.archive.org/web/20200216105013im_/http://spidermedia.ru/assets/images/import_image/4215.jpg",
+  "modx_id": 4215,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

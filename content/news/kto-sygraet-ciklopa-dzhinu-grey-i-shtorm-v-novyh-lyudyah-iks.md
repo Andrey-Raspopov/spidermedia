@@ -1,13 +1,20 @@
 {
   "title": "Кто сыграет Циклопа, Джину Грей и Шторм в новых «Людях Икс»?",
-  "date": "2015-01-10T14:33:00+03:00",
+  "date": "2015-01-10T14:33:39+03:00",
   "url": "/news/kto-sygraet-ciklopa-dzhinu-grey-i-shtorm-v-novyh-lyudyah-iks/",
   "original_url": "https://spidermedia.ru/news/kto-sygraet-ciklopa-dzhinu-grey-i-shtorm-v-novyh-lyudyah-iks",
   "archived": "https://web.archive.org/web/20260309190532/https://spidermedia.ru/news/kto-sygraet-ciklopa-dzhinu-grey-i-shtorm-v-novyh-lyudyah-iks",
   "tags": [
     "marvel",
     "x-men",
-    "kasting"
+    "kasting",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20150326034437im_/http://spidermedia.ru/assets/images/import_image/8483.jpg",
+  "modx_id": 8483,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

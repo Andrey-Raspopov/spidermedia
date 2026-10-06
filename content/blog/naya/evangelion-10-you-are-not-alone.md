@@ -1,12 +1,18 @@
 {
   "title": "Evangelion: 1.0 You Are (Not) Alone",
-  "date": "2009-10-25T21:44:00+03:00",
+  "date": "2009-10-25T21:44:23+03:00",
   "url": "/blog/naya/evangelion-10-you-are-not-alone/",
   "original_url": "http://spidermedia.ru/blog/naya/evangelion-10-you-are-not-alone",
   "archived": "https://web.archive.org/web/20251107001800/http://spidermedia.ru/blog/naya/evangelion-10-you-are-not-alone",
   "tags": [
     "sci-fi",
     "anime"
+  ],
+  "cover": "https://web.archive.org/web/20251107001800im_/http://spidermedia.ru/assets/images/import_image/2025.jpg",
+  "modx_id": 2025,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

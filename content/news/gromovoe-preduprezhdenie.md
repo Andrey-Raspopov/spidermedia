@@ -1,7 +1,10 @@
 {
   "title": "Громовое предупреждение",
-  "date": "2009-07-26T18:10:00+03:00",
+  "date": "2009-07-26T17:10:56+03:00",
   "url": "/news/gromovoe-preduprezhdenie/",
+  "aliases": [
+    "/node/1673/"
+  ],
   "original_url": "http://spidermedia.ru/news/gromovoe-preduprezhdenie",
   "archived": "https://web.archive.org/web/20120608165403/http://spidermedia.ru/news/gromovoe-preduprezhdenie",
   "tags": [
@@ -9,13 +12,22 @@
     "thunder-agents",
     "agenty-groma",
     "art-0",
-    "oblozhki"
+    "oblozhki",
+    "art",
+    "agenty-g.r.o.m.a",
+    "t.h.u.n.d.e.r.-agents"
+  ],
+  "cover": "https://web.archive.org/web/20120608165403im_/http://spidermedia.ru/assets/images/import_image/1673.jpg",
+  "modx_id": 1673,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }
 
-На панели **DC Universe** было сообщено, что наконец-то права на комикс **T.H.U.N.D.E.R. Agents** у издательства полностью в кармане. Нас ожидает не только собственная серия об этих героях, но и плавный ввод персонажей в **DCU**, как это произойдет совсем скоро с героями мини-серии ]]>[**The Red Circle**](../../node/1296/)]]> от **Джея Майкла Стражинского** *(J. Michael Straczynski)*.
+На панели **DC Universe** было сообщено, что наконец-то права на комикс **T.H.U.N.D.E.R. Agents** у издательства полностью в кармане. Нас ожидает не только собственная серия об этих героях, но и плавный ввод персонажей в **DCU**, как это произойдет совсем скоро с героями мини-серии ]]>[**The Red Circle**](../strazhinskiy-svyazist/)]]> от **Джея Майкла Стражинского** *(J. Michael Straczynski)*.
 
 ]]>[![](https://web.archive.org/web/20120608165403im_/http://www.picamatic.com/show/2009/07/26/02/05/4591373_bigthumb.jpg)](http://www.picamatic.com/view/4591373_thunder-agents/)]]> ]]>[![](https://web.archive.org/web/20120608165403im_/http://www.picamatic.com/show/2009/07/26/02/05/4591381_bigthumb.jpg)](http://www.picamatic.com/view/4591381_Thunder_Agents1/)]]>
 Свежий промо-арт, созданный из старых скетчей, и одна из первых обложек для **DC** от **Джей Джи Джонса** *(J. G. Jones)*

@@ -8,6 +8,12 @@
     "bubble",
     "russian-comics"
   ],
+  "cover": "https://web.archive.org/web/20170912011149im_/http://spidermedia.ru/assets/images/news/bubble/2d/bubble-vtoroe-dyhanie.jpg",
+  "modx_id": 101461,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

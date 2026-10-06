@@ -8,6 +8,12 @@
     "boom-studios",
     "emerald-city-comicon"
   ],
+  "cover": "https://web.archive.org/web/20260306001601im_/http://spidermedia.ru/assets/images/news/boom/kong-of-skull-island-ad-3cb5c.jpg",
+  "modx_id": 101069,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,6 +1,6 @@
 {
   "title": "Вероятно лучший супергеройский комикс на русском языке",
-  "date": "2013-01-29T21:27:00+03:00",
+  "date": "2013-01-29T20:27:50+03:00",
   "url": "/news/veroyatno-luchshiy-supergeroyskiy-komiks-na-russkom-yazyke/",
   "original_url": "https://spidermedia.ru/news/veroyatno-luchshiy-supergeroyskiy-komiks-na-russkom-yazyke",
   "archived": "https://web.archive.org/web/20260312004914/https://spidermedia.ru/news/veroyatno-luchshiy-supergeroyskiy-komiks-na-russkom-yazyke",
@@ -9,6 +9,12 @@
     "invincible",
     "image-comics",
     "izdatelstvo-42"
+  ],
+  "cover": "https://web.archive.org/web/20260312004914im_/http://spidermedia.ru/assets/images/import_image/7125.jpg",
+  "modx_id": 7125,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

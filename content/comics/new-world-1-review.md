@@ -9,6 +9,12 @@
     "ales-kot",
     "tradd-moore"
   ],
+  "cover": "https://web.archive.org/web/20251211023214im_/http://spidermedia.ru/assets/images/reviews/image/new-world/01/1.jpg",
+  "modx_id": 101978,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

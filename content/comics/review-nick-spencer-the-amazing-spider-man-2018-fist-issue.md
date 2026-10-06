@@ -10,6 +10,12 @@
     "ryan-ottley",
     "spider-man"
   ],
+  "cover": "https://web.archive.org/web/20210823092939im_/http://spidermedia.ru/assets/images/reviews/marvel/spider-man/asm/2018/001/1.jpg",
+  "modx_id": 101969,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

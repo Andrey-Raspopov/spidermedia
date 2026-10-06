@@ -10,6 +10,12 @@
     "zarubezhnye-komiksy-na-russkom",
     "warren-ellis"
   ],
+  "cover": "https://web.archive.org/web/20251206023040im_/http://spidermedia.ru/assets/images/reviews/xl-media/fell/img_20150807_112402.jpg",
+  "modx_id": 100446,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

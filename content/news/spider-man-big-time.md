@@ -1,7 +1,10 @@
 {
   "title": "Spider-Man: Big Time",
-  "date": "2010-10-06T23:47:00+03:00",
+  "date": "2010-10-06T22:47:55+03:00",
   "url": "/news/spider-man-big-time/",
+  "aliases": [
+    "/node/2976/"
+  ],
   "original_url": "https://spidermedia.ru/news/spider-man-big-time",
   "archived": "https://web.archive.org/web/20260120144114/https://spidermedia.ru/news/spider-man-big-time",
   "tags": [
@@ -9,14 +12,21 @@
     "den-slott",
     "art-0",
     "marvel",
-    "spider-man"
+    "spider-man",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20260120144114im_/http://spidermedia.ru/assets/images/import_image/2976.jpg",
+  "modx_id": 2976,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
 [![](https://web.archive.org/web/20260120144114im_/http://img.photobucket.com/albums/v497/spidermedia/silver_news/1286390833315.jpg?t=1286393679)](http://smg.photobucket.com/albums/v497/spidermedia/silver_news/128639083331522.jpg)
-В [ноябре](../../node/2803/) для **Человека-Паука** *(Spider-Man)* и **Amazing Spider-Man** наступает новая эпоха, одним словом - **Big Time**. Поэтому главный и единственный сценарист **Дэн Слотт** *(Dan Slott)* поделился с читателями своими соображениями и мыслями относительно будущего серии и красно-синего героя вообще:
+В [ноябре](../sdcc10-spider-man/) для **Человека-Паука** *(Spider-Man)* и **Amazing Spider-Man** наступает новая эпоха, одним словом - **Big Time**. Поэтому главный и единственный сценарист **Дэн Слотт** *(Dan Slott)* поделился с читателями своими соображениями и мыслями относительно будущего серии и красно-синего героя вообще:
 
 - **Питер Паркер** *(Peter Parker)* обзаведется не только хорошей работой, но и приличной карьерой со всеми вытекающими. Отныне бедственное существование ему не грозит.
 - Само собой в комикс вернутся как старые противники, так и новые, в том числе **Мистер Негатив** *(Mister Negative)* введеный самим же Слоттом. Что до остальных персонажей - некоторые просто исчезнут со страниц ASM из-за неких других планов и изменений в рамках вселенной, а некоторые, как **Скорпион** *(Scorpion)*, получат еще один шанс

@@ -18,6 +18,9 @@
     "captain-britain",
     "spider-man"
   ],
+  "sources": [
+    "archive"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

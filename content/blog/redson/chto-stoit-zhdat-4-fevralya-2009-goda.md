@@ -1,12 +1,20 @@
 {
   "title": "Что стоит ждать 4 февраля 2009 года",
-  "date": "2009-02-01T23:53:00+03:00",
+  "date": "2009-02-01T23:53:34+03:00",
   "url": "/blog/redson/chto-stoit-zhdat-4-fevralya-2009-goda/",
+  "aliases": [
+    "/node/87/"
+  ],
   "original_url": "http://spidermedia.ru/blog/redson/chto-stoit-zhdat-4-fevralya-2009-goda",
   "archived": "https://web.archive.org/web/20170827214131/http://spidermedia.ru:80/blog/redson/chto-stoit-zhdat-4-fevralya-2009-goda",
   "tags": [
     "mnenie",
     "chto-stoit-zhdat"
+  ],
+  "modx_id": 87,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

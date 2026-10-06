@@ -1,12 +1,18 @@
 {
   "title": "\"Воскрешение Темного Рыцаря\": Женщина-кошка",
-  "date": "2011-09-25T11:46:00+03:00",
+  "date": "2011-09-25T10:46:00+03:00",
   "url": "/news/voskreshenie-temnogo-rycarya-zhenshchina-koshka-0/",
   "original_url": "https://spidermedia.ru/news/voskreshenie-temnogo-rycarya-zhenshchina-koshka-0",
   "archived": "https://web.archive.org/web/20260307055341/https://spidermedia.ru/news/voskreshenie-temnogo-rycarya-zhenshchina-koshka-0",
   "tags": [
     "zhenshhina-koshka",
     "batman"
+  ],
+  "cover": "https://web.archive.org/web/20260307055341im_/http://spidermedia.ru/assets/images/import_image/6618.jpg",
+  "modx_id": 6618,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

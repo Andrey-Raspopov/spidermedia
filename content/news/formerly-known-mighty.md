@@ -1,6 +1,6 @@
 {
   "title": "Formerly known as \"Mighty\"",
-  "date": "2012-08-01T06:09:00+03:00",
+  "date": "2012-08-01T05:09:09+03:00",
   "url": "/news/formerly-known-mighty/",
   "original_url": "https://spidermedia.ru/news/formerly-known-mighty",
   "archived": "https://web.archive.org/web/20260312022541/https://spidermedia.ru/news/formerly-known-mighty",
@@ -8,7 +8,14 @@
     "esad-ribich",
     "dzheyson-aaron",
     "marvel",
-    "thor"
+    "thor",
+    "tor"
+  ],
+  "cover": "https://web.archive.org/web/20150326162757im_/http://spidermedia.ru/assets/images/import_image/6993.jpg",
+  "modx_id": 6993,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,12 +1,18 @@
 {
   "title": "Их было семеро",
-  "date": "2009-03-30T22:25:00+03:00",
+  "date": "2009-03-30T21:25:08+03:00",
   "url": "/news/ih-bylo-semero/",
   "original_url": "https://spidermedia.ru/news/ih-bylo-semero",
   "archived": "https://web.archive.org/web/20240912045236/https://spidermedia.ru/news/ih-bylo-semero",
   "tags": [
     "dc-comics",
     "brian-wood"
+  ],
+  "cover": "https://web.archive.org/web/20240912045236im_/http://spidermedia.ru/assets/images/import_image/811.jpg",
+  "modx_id": 811,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

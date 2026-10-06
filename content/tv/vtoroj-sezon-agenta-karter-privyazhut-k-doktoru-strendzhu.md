@@ -9,6 +9,12 @@
     "agent-karter",
     "doctor-strange"
   ],
+  "cover": "https://web.archive.org/web/20160406070403im_/http://spidermedia.ru/assets/images/tv/marvel/agent-carter/agent-carter-doctor-strange.jpg",
+  "modx_id": 100814,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,6 +1,6 @@
 {
   "title": "Лоуренс Фишберн сыграет Перри Уайта в экранизации \"Супермена\"",
-  "date": "2011-08-03T11:20:00+03:00",
+  "date": "2011-08-03T10:20:07+03:00",
   "url": "/news/lourens-fishbern-sygraet-perri-uayta-v-ekranizacii-supermena/",
   "original_url": "https://spidermedia.ru/news/lourens-fishbern-sygraet-perri-uayta-v-ekranizacii-supermena",
   "archived": "https://web.archive.org/web/20260117223342/https://spidermedia.ru/news/lourens-fishbern-sygraet-perri-uayta-v-ekranizacii-supermena",
@@ -9,6 +9,12 @@
     "superman",
     "man-of-steel",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20260117223342im_/http://spidermedia.ru/assets/images/import_image/6543.jpg",
+  "modx_id": 6543,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

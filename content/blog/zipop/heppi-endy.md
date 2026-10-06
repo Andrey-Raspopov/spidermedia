@@ -1,7 +1,10 @@
 {
   "title": "Хэппи Энды",
-  "date": "2009-02-03T18:52:00+03:00",
+  "date": "2009-02-03T18:52:32+03:00",
   "url": "/blog/zipop/heppi-endy/",
+  "aliases": [
+    "/node/156/"
+  ],
   "original_url": "https://spidermedia.ru/blog/zipop/heppi-endy",
   "archived": "https://web.archive.org/web/20260115064638/https://spidermedia.ru/blog/zipop/heppi-endy",
   "tags": [
@@ -9,6 +12,11 @@
     "star-wars",
     "spider-man",
     "yumor"
+  ],
+  "modx_id": 156,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

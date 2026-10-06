@@ -1,12 +1,18 @@
 {
   "title": "Magic",
-  "date": "2011-03-16T16:09:00+03:00",
+  "date": "2011-03-16T16:09:49+03:00",
   "url": "/blog/plane-v/magic/",
   "original_url": "http://spidermedia.ru/blog/plane-v/magic",
   "archived": "https://web.archive.org/web/20210128052240/http://spidermedia.ru/blog/plane-v/magic",
   "tags": [
     "shon-fillips",
     "dark-horse"
+  ],
+  "cover": "https://web.archive.org/web/20210128052240im_/http://spidermedia.ru/assets/images/import_image/4193.jpg",
+  "modx_id": 4193,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -7,6 +7,12 @@
   "tags": [
     "marvel"
   ],
+  "cover": "https://web.archive.org/web/20180315123836im_/http://spidermedia.ru/assets/images/news/marvel/post-secret-wars/strange-fe7.jpg",
+  "modx_id": 100294,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

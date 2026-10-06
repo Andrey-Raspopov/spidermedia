@@ -1,6 +1,6 @@
 {
   "title": "Бесконечное вторжение",
-  "date": "2013-04-03T22:01:00+03:00",
+  "date": "2013-04-03T21:01:12+03:00",
   "url": "/news/beskonechnoe-vtorzhenie/",
   "original_url": "http://spidermedia.ru/news/beskonechnoe-vtorzhenie",
   "archived": "https://web.archive.org/web/20260120155721/http://spidermedia.ru/news/beskonechnoe-vtorzhenie",
@@ -10,6 +10,12 @@
     "marvel",
     "dzhonatan-hikman",
     "infinity"
+  ],
+  "cover": "https://web.archive.org/web/20150424150725im_/http://spidermedia.ru/assets/images/import_image/7178.jpg",
+  "modx_id": 7178,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

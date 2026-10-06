@@ -1,12 +1,21 @@
 {
   "title": "Бэтмен Будущего снова с нами!",
-  "date": "2009-08-26T19:18:00+03:00",
+  "date": "2009-08-26T18:18:15+03:00",
   "url": "/blog/alex/betmen-budushchego-snova-s-nami/",
+  "aliases": [
+    "/node/1831/"
+  ],
   "original_url": "http://spidermedia.ru/blog/alex/betmen-budushchego-snova-s-nami",
   "archived": "https://web.archive.org/web/20181213102819/http://spidermedia.ru:80/blog/alex/betmen-budushchego-snova-s-nami",
   "tags": [
     "dc-comics",
     "batman"
+  ],
+  "cover": "https://web.archive.org/web/20181213102819im_/http://spidermedia.ru/assets/images/import_image/1831.jpg",
+  "modx_id": 1831,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

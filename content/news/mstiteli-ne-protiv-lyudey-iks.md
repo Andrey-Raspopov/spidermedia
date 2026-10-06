@@ -1,6 +1,6 @@
 {
   "title": "Мстители не против Людей Икс",
-  "date": "2012-07-14T06:41:00+03:00",
+  "date": "2012-07-14T05:41:44+03:00",
   "url": "/news/mstiteli-ne-protiv-lyudey-iks/",
   "original_url": "http://spidermedia.ru/news/mstiteli-ne-protiv-lyudey-iks",
   "archived": "https://web.archive.org/web/20260115044825/http://spidermedia.ru/news/mstiteli-ne-protiv-lyudey-iks",
@@ -19,7 +19,14 @@
     "skotti-yang",
     "gurihiru",
     "san-diego-comic-con-international",
-    "marvel"
+    "marvel",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20150502153347im_/http://spidermedia.ru/assets/images/import_image/6973.jpg",
+  "modx_id": 6973,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

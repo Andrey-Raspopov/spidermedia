@@ -4,6 +4,12 @@
   "url": "/tv/forgotten-sci-fi/",
   "original_url": "https://spidermedia.ru/tv/forgotten-sci-fi",
   "archived": "https://web.archive.org/web/20241011153011/https://spidermedia.ru/tv/forgotten-sci-fi",
+  "cover": "https://web.archive.org/web/20160611144706im_/http://spidermedia.ru/assets/images/tv/top-5-forgotten-sci-fi/1.jpg",
+  "modx_id": 100409,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

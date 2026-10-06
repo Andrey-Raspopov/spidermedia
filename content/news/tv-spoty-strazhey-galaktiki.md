@@ -1,6 +1,6 @@
 {
   "title": "ТВ-споты \"Стражей галактики\" (ОБНОВЛЯЕТСЯ)",
-  "date": "2014-06-27T14:00:00+03:00",
+  "date": "2014-06-27T13:00:04+03:00",
   "url": "/news/tv-spoty-strazhey-galaktiki/",
   "original_url": "http://spidermedia.ru/news/tv-spoty-strazhey-galaktiki",
   "archived": "https://web.archive.org/web/20260313103744/http://spidermedia.ru/news/tv-spoty-strazhey-galaktiki",
@@ -8,6 +8,12 @@
     "trejlery",
     "guardians-of-the-galaxy",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150424090411im_/http://spidermedia.ru/assets/images/import_image/7773.jpg",
+  "modx_id": 7773,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

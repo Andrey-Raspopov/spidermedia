@@ -1,6 +1,6 @@
 {
   "title": "Шестой ствол Каллена Банна",
-  "date": "2012-10-12T21:15:00+03:00",
+  "date": "2012-10-12T20:15:14+03:00",
   "url": "/news/shestoy-stvol-kallena-banna/",
   "original_url": "http://spidermedia.ru/news/shestoy-stvol-kallena-banna",
   "archived": "https://web.archive.org/web/20250429014101/http://spidermedia.ru/news/shestoy-stvol-kallena-banna",
@@ -8,7 +8,14 @@
     "serialy",
     "kallen-bann",
     "sixth-gun",
-    "oni-press"
+    "oni-press",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20150326221238im_/http://spidermedia.ru/assets/images/import_image/7058.jpg",
+  "modx_id": 7058,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

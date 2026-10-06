@@ -1,13 +1,22 @@
 {
   "title": "Анимированный комикс \"Superman: Red Son\"",
-  "date": "2009-11-15T19:40:00+03:00",
+  "date": "2009-11-15T19:40:29+03:00",
   "url": "/blog/sterpazook/animirovannyy-komiks-superman-red-son/",
+  "aliases": [
+    "/node/2098/"
+  ],
   "original_url": "http://spidermedia.ru/blog/sterpazook/animirovannyy-komiks-superman-red-son",
   "archived": "https://web.archive.org/web/20250324165154/http://spidermedia.ru/blog/sterpazook/animirovannyy-komiks-superman-red-son",
   "tags": [
     "superman",
     "animirovannye-komiksy",
     "motion-comics"
+  ],
+  "cover": "https://web.archive.org/web/20250324165154im_/http://spidermedia.ru/assets/images/import_image/2098.gif",
+  "modx_id": 2098,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

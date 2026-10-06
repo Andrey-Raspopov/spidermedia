@@ -1,7 +1,10 @@
 {
   "title": "Торчвуд и комиксы",
-  "date": "2009-09-05T02:51:00+03:00",
+  "date": "2009-09-05T01:51:18+03:00",
   "url": "/news/torchvud-i-komiksy/",
+  "aliases": [
+    "/node/1880/"
+  ],
   "original_url": "http://spidermedia.ru/news/torchvud-i-komiksy",
   "archived": "https://web.archive.org/web/20120607143657/http://spidermedia.ru/news/torchvud-i-komiksy",
   "tags": [
@@ -10,6 +13,12 @@
     "komiksy",
     "stripy",
     "torchvud"
+  ],
+  "cover": "https://web.archive.org/web/20120607143657im_/http://spidermedia.ru/assets/images/import_image/1880.jpg",
+  "modx_id": 1880,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

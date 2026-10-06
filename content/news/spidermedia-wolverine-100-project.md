@@ -1,7 +1,10 @@
 {
   "title": "SpiderMedia: Wolverine 100 Project",
-  "date": "2009-07-31T14:54:00+03:00",
+  "date": "2009-07-31T13:54:22+03:00",
   "url": "/news/spidermedia-wolverine-100-project/",
+  "aliases": [
+    "/node/1704/"
+  ],
   "original_url": "http://spidermedia.ru/news/spidermedia-wolverine-100-project",
   "archived": "https://web.archive.org/web/20250906073252/http://spidermedia.ru/news/spidermedia-wolverine-100-project",
   "tags": [
@@ -11,11 +14,17 @@
     "100-project",
     "challenge"
   ],
+  "cover": "https://web.archive.org/web/20250906073252im_/http://spidermedia.ru/assets/images/import_image/1704.gif",
+  "modx_id": 1704,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-![Photobucket Uploader Firefox Extension](https://web.archive.org/web/20250906073252im_/http://img.photobucket.com/albums/v497/spidermedia/wolverine-1.gif) **Благодарим всех, кто решил поучаствовать в нашем ответе проекту **[Wolverine 100 Project](../../node/1584/)**, где сто самых известных художников рисуют обложки к комиксу **"Росомаха"**. Те же, кто не успел прислать нам свой вариант обложки, могут разместить её в комментариях к этой записи. Шаблон находится [здесь](http://i707.photobucket.com/albums/ww79/Alex_spidermedia/pickspam/wolverine100_cover.jpg).**
+![Photobucket Uploader Firefox Extension](https://web.archive.org/web/20250906073252im_/http://img.photobucket.com/albums/v497/spidermedia/wolverine-1.gif) **Благодарим всех, кто решил поучаствовать в нашем ответе проекту **[Wolverine 100 Project](../sotnya-rosomah-obnovlenie/)**, где сто самых известных художников рисуют обложки к комиксу **"Росомаха"**. Те же, кто не успел прислать нам свой вариант обложки, могут разместить её в комментариях к этой записи. Шаблон находится [здесь](http://i707.photobucket.com/albums/ww79/Alex_spidermedia/pickspam/wolverine100_cover.jpg).**
 
 |  |  |  |  |
 | --- | --- | --- | --- |

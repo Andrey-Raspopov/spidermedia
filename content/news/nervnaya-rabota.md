@@ -1,12 +1,18 @@
 {
   "title": "Нервная работа",
-  "date": "2012-04-04T08:29:00+03:00",
+  "date": "2012-04-04T07:29:26+03:00",
   "url": "/news/nervnaya-rabota/",
   "original_url": "http://spidermedia.ru/news/nervnaya-rabota",
   "archived": "https://web.archive.org/web/20230607023829/http://spidermedia.ru/news/nervnaya-rabota",
   "tags": [
     "majkl-ejvon-oeming",
     "dark-horse"
+  ],
+  "cover": "https://web.archive.org/web/20230607023829im_/http://spidermedia.ru/assets/images/import_image/6853.jpg",
+  "modx_id": 6853,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

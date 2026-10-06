@@ -11,6 +11,12 @@
     "captain-america",
     "avengers"
   ],
+  "cover": "https://web.archive.org/web/20160611015417im_/http://spidermedia.ru/assets/images/comic-con/2015/nycc/avengers-stand-off/standoff-assault-on-pleasant-hill-alpha-jesus-saiz-cover-536e7.jpeg",
+  "modx_id": 100789,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

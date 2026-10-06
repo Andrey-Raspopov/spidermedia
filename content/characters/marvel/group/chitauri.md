@@ -4,6 +4,9 @@
   "url": "/characters/marvel/group/chitauri/",
   "original_url": "http://www.spidermedia.ru/characters/marvel/group/chitauri.html",
   "archived": "https://web.archive.org/web/20050123092339/http://www.spidermedia.ru:80/characters/marvel/group/chitauri.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

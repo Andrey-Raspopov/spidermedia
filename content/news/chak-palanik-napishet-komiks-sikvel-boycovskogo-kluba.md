@@ -1,11 +1,17 @@
 {
   "title": "Чак Паланик напишет комикс-сиквел \"БОЙЦОВСКОГО КЛУБА\"",
-  "date": "2014-07-22T11:02:00+03:00",
+  "date": "2014-07-22T10:02:00+03:00",
   "url": "/news/chak-palanik-napishet-komiks-sikvel-boycovskogo-kluba/",
   "original_url": "http://spidermedia.ru/news/chak-palanik-napishet-komiks-sikvel-boycovskogo-kluba",
   "archived": "https://web.archive.org/web/20251006140617/http://spidermedia.ru/news/chak-palanik-napishet-komiks-sikvel-boycovskogo-kluba",
   "tags": [
     "dark-horse"
+  ],
+  "cover": "https://web.archive.org/web/20160611151054im_/http://spidermedia.ru/assets/images/import_image/7908.jpg",
+  "modx_id": 7908,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

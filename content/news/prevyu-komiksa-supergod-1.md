@@ -1,7 +1,10 @@
 {
   "title": "Превью комикса SUPERGOD #1",
-  "date": "2009-09-03T21:42:00+03:00",
+  "date": "2009-09-03T20:42:27+03:00",
   "url": "/news/prevyu-komiksa-supergod-1/",
+  "aliases": [
+    "/node/1872/"
+  ],
   "original_url": "http://spidermedia.ru/news/prevyu-komiksa-supergod-1",
   "archived": "https://web.archive.org/web/20251110222707/http://spidermedia.ru/news/prevyu-komiksa-supergod-1",
   "tags": [
@@ -11,6 +14,12 @@
     "warren-ellis",
     "garrie-gastonny",
     "gerri-gestonni"
+  ],
+  "cover": "https://web.archive.org/web/20251110222707im_/http://spidermedia.ru/assets/images/import_image/1872.jpg",
+  "modx_id": 1872,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

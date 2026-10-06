@@ -1,7 +1,10 @@
 {
   "title": "Месть при свете Луны",
-  "date": "2009-06-19T21:49:00+03:00",
+  "date": "2009-06-19T20:49:38+03:00",
   "url": "/news/mest-pri-svete-luny/",
+  "aliases": [
+    "/node/1443/"
+  ],
   "original_url": "http://spidermedia.ru/news/mest-pri-svete-luny",
   "archived": "https://web.archive.org/web/20251207101310/http://spidermedia.ru/news/mest-pri-svete-luny",
   "tags": [
@@ -11,7 +14,13 @@
     "dzherom-openya",
     "alex-ross",
     "moon-knight",
-    "greg-hurvitc"
+    "greg-hurvitc",
+    "art"
+  ],
+  "modx_id": 1443,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

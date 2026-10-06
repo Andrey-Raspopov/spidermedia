@@ -9,6 +9,12 @@
     "andrej-vasin",
     "russian-comics"
   ],
+  "cover": "https://web.archive.org/web/20161025113503im_/http://spidermedia.ru/assets/images/news/bubble/berlin/9eae25747255a8d1f091184df14144a9_original.jpg",
+  "modx_id": 100219,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,6 +1,6 @@
 {
   "title": "Where's Wally?",
-  "date": "2014-01-14T06:19:00+03:00",
+  "date": "2014-01-14T05:19:57+03:00",
   "url": "/news/wheres-wally/",
   "original_url": "https://spidermedia.ru/news/wheres-wally",
   "archived": "https://web.archive.org/web/20251208072130/https://spidermedia.ru/news/wheres-wally",
@@ -16,6 +16,12 @@
     "greg-pak",
     "brett-but",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150502190700im_/http://spidermedia.ru/assets/images/import_image/7594.jpg",
+  "modx_id": 7594,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,12 +1,20 @@
 {
   "title": "Бронированный Лютор готов для битвы в сети!",
-  "date": "2009-02-04T17:18:00+03:00",
+  "date": "2009-02-04T17:18:20+03:00",
   "url": "/blog/ghost-knight/bronirovannyy-lyutor-gotov-dlya-bitvy-v-seti/",
+  "aliases": [
+    "/node/181/"
+  ],
   "original_url": "https://spidermedia.ru/blog/ghost-knight/bronirovannyy-lyutor-gotov-dlya-bitvy-v-seti",
   "archived": "https://web.archive.org/web/20250814204839/https://spidermedia.ru/blog/ghost-knight/bronirovannyy-lyutor-gotov-dlya-bitvy-v-seti",
   "tags": [
     "dc-comics",
     "igry"
+  ],
+  "modx_id": 181,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

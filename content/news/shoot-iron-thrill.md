@@ -1,14 +1,23 @@
 {
   "title": "Shoot To Iron Thrill",
-  "date": "2010-01-26T22:14:00+03:00",
+  "date": "2010-01-26T22:14:23+03:00",
   "url": "/news/shoot-iron-thrill/",
+  "aliases": [
+    "/node/2307/"
+  ],
   "original_url": "https://spidermedia.ru/news/shoot-iron-thrill",
   "archived": "https://web.archive.org/web/20260120150430/https://spidermedia.ru/news/shoot-iron-thrill",
   "tags": [
     "muzyka",
     "dzhon-favro",
     "marvel",
-    "iron-man"
+    "iron-man",
+    "zheleznyy-chelovek"
+  ],
+  "modx_id": 2307,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

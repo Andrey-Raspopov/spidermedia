@@ -1,12 +1,18 @@
 {
   "title": "Сони экранизирует мультсериал \"Капитан Планета и Планетеры\"",
-  "date": "2013-10-19T00:08:00+03:00",
+  "date": "2013-10-18T23:08:37+03:00",
   "url": "/news/sony-ekraniziruet-multserial-captain-planet-and-planeteers/",
   "original_url": "http://spidermedia.ru/news/sony-ekraniziruet-multserial-captain-planet-and-planeteers",
   "archived": "https://web.archive.org/web/20200223125833/http://spidermedia.ru:80/news/sony-ekraniziruet-multserial-captain-planet-and-planeteers",
   "tags": [
     "supergeroi",
     "kapitan-planeta"
+  ],
+  "cover": "https://web.archive.org/web/20200223125833im_/http://spidermedia.ru/assets/images/import_image/7506.jpg",
+  "modx_id": 7506,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

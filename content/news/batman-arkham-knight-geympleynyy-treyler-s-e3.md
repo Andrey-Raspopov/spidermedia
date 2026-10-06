@@ -1,6 +1,6 @@
 {
   "title": "\"BATMAN: ARKHAM KNIGHT\": Геймплейный трейлер с E3",
-  "date": "2014-06-10T07:40:00+03:00",
+  "date": "2014-06-10T06:40:09+03:00",
   "url": "/news/batman-arkham-knight-geympleynyy-treyler-s-e3/",
   "original_url": "http://spidermedia.ru/news/batman-arkham-knight-geympleynyy-treyler-s-e3",
   "archived": "https://web.archive.org/web/20260117220744/http://spidermedia.ru/news/batman-arkham-knight-geympleynyy-treyler-s-e3",
@@ -10,6 +10,12 @@
     "batman",
     "dc-comics",
     "arkham-asylum"
+  ],
+  "cover": "https://web.archive.org/web/20150325225335im_/http://spidermedia.ru/assets/images/import_image/7790.jpg",
+  "modx_id": 7790,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

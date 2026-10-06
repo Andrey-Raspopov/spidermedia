@@ -1,6 +1,6 @@
 {
   "title": "Всё ещё на защите",
-  "date": "2012-04-26T13:58:00+03:00",
+  "date": "2012-04-26T12:58:33+03:00",
   "url": "/news/vsyo-eshchyo-na-zashchite/",
   "original_url": "http://spidermedia.ru/news/vsyo-eshchyo-na-zashchite",
   "archived": "https://web.archive.org/web/20120505032949/http://spidermedia.ru/news/vsyo-eshchyo-na-zashchite",
@@ -9,6 +9,12 @@
     "image-comics",
     "todd-nauk",
     "fil-hester"
+  ],
+  "cover": "https://web.archive.org/web/20120505032949im_/http://spidermedia.ru/assets/images/import_image/6888.jpg",
+  "modx_id": 6888,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

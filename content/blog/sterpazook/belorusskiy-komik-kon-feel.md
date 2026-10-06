@@ -1,12 +1,18 @@
 {
   "title": "Белорусский Комик Кон. That feel",
-  "date": "2013-03-07T17:00:00+03:00",
+  "date": "2013-03-07T16:00:37+03:00",
   "url": "/blog/sterpazook/belorusskiy-komik-kon-feel/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/belorusskiy-komik-kon-feel",
   "archived": "https://web.archive.org/web/20260312014433/http://spidermedia.ru/blog/sterpazook/belorusskiy-komik-kon-feel",
   "tags": [
     "komik-kon-v-minske",
     "unicon"
+  ],
+  "cover": "https://web.archive.org/web/20150424111243im_/http://spidermedia.ru/assets/images/import_image/7157.jpg",
+  "modx_id": 7157,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

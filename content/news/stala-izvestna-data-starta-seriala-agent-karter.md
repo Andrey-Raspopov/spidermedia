@@ -1,13 +1,20 @@
 {
   "title": "Стала известна дата старта сериала «Агент Картер»",
-  "date": "2014-11-06T08:49:00+03:00",
+  "date": "2014-11-06T08:49:04+03:00",
   "url": "/news/stala-izvestna-data-starta-seriala-agent-karter/",
   "original_url": "https://spidermedia.ru/news/stala-izvestna-data-starta-seriala-agent-karter",
   "archived": "https://web.archive.org/web/20250617225744/https://spidermedia.ru/news/stala-izvestna-data-starta-seriala-agent-karter",
   "tags": [
     "agent-karter",
     "serialy",
-    "marvel"
+    "marvel",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20150327021114im_/http://spidermedia.ru/assets/images/import_image/8262.jpg",
+  "modx_id": 8262,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

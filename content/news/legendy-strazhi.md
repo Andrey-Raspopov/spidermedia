@@ -1,7 +1,10 @@
 {
   "title": "Легенды Стражи",
-  "date": "2009-10-15T00:43:00+03:00",
+  "date": "2009-10-14T23:43:38+03:00",
   "url": "/news/legendy-strazhi/",
+  "aliases": [
+    "/node/1998/"
+  ],
   "original_url": "http://spidermedia.ru/news/legendy-strazhi",
   "archived": "https://web.archive.org/web/20120607162011/http://spidermedia.ru/news/legendy-strazhi",
   "tags": [
@@ -10,13 +13,19 @@
     "diamond-summit-09",
     "mouse-guard",
     "devid-petersen",
-    "komiksy"
+    "komiksy",
+    "archaia-comics"
+  ],
+  "modx_id": 1998,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }
 
-**Дэвид Петерсен** *(David Petersen)*, автор серии **Mouse Guard**, ни раз говорил о своём желании сделать ]]>[антологию](../../node/1690/)]]> по вселенной **Мышиной Стражи**. Пришло время притворить желаемое в действительность. Работа над мини-серией из четырех номеров **Mouse Guard: Legends of the Guard** уже началась.
+**Дэвид Петерсен** *(David Petersen)*, автор серии **Mouse Guard**, ни раз говорил о своём желании сделать ]]>[антологию](../all-hail-black-axe/)]]> по вселенной **Мышиной Стражи**. Пришло время притворить желаемое в действительность. Работа над мини-серией из четырех номеров **Mouse Guard: Legends of the Guard** уже началась.
 
 ]]>[![](https://web.archive.org/web/20120607162011im_/http://www.comicbookresources.com/assets/phpThumb/phpThumb.php?src=/assets/images/articles/1255386313.jpg&w=500)](http://www.comicbookresources.com/assets/images/articles/1255386313.jpg)]]>
 Промо-арт к **Mouse Guard: Legends of the Guard**

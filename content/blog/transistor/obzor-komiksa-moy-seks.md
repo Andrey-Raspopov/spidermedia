@@ -1,6 +1,6 @@
 {
   "title": "ОБЗОР: «Мой секс»",
-  "date": "2014-12-11T13:04:00+03:00",
+  "date": "2014-12-11T13:04:56+03:00",
   "url": "/blog/transistor/obzor-komiksa-moy-seks/",
   "original_url": "http://spidermedia.ru/blog/transistor/obzor-komiksa-moy-seks",
   "archived": "https://web.archive.org/web/20250424100833/http://spidermedia.ru/blog/transistor/obzor-komiksa-moy-seks",
@@ -8,6 +8,12 @@
     "russian-comics",
     "obzor",
     "boomkniga"
+  ],
+  "cover": "https://web.archive.org/web/20250424100833im_/http://spidermedia.ru/assets/images/import_image/8357.jpg",
+  "modx_id": 8357,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

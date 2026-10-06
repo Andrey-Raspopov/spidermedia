@@ -1,6 +1,6 @@
 {
   "title": "А ты еще не в Нуаре?",
-  "date": "2009-02-25T00:09:00+03:00",
+  "date": "2009-02-25T00:09:27+03:00",
   "url": "/blog/silver/ty-eshche-ne-v-nuare/",
   "original_url": "http://spidermedia.ru/blog/silver/ty-eshche-ne-v-nuare",
   "archived": "https://web.archive.org/web/20200217104541/http://spidermedia.ru:80/blog/silver/ty-eshche-ne-v-nuare",
@@ -9,6 +9,11 @@
     "mnenie",
     "noirverse",
     "marvel"
+  ],
+  "modx_id": 502,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

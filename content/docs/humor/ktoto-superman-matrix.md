@@ -4,6 +4,9 @@
   "url": "/docs/humor/ktoto-superman-matrix/",
   "original_url": "http://spidermedia.ru/docs/humor/ktoto-superman-matrix.html",
   "archived": "https://web.archive.org/web/20051202073615/http://spidermedia.ru:80/docs/humor/ktoto-superman-matrix.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

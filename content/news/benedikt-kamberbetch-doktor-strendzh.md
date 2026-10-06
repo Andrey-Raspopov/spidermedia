@@ -1,6 +1,6 @@
 {
   "title": "Бенедикт Камбербэтч — Доктор Стрэндж",
-  "date": "2014-10-27T21:52:00+03:00",
+  "date": "2014-10-27T21:52:13+03:00",
   "url": "/news/benedikt-kamberbetch-doktor-strendzh/",
   "original_url": "http://spidermedia.ru/news/benedikt-kamberbetch-doktor-strendzh",
   "archived": "https://web.archive.org/web/20251206030127/http://spidermedia.ru/news/benedikt-kamberbetch-doktor-strendzh",
@@ -8,6 +8,12 @@
     "marvel",
     "kasting",
     "doctor-strange"
+  ],
+  "cover": "https://web.archive.org/web/20251206030127im_/http://spidermedia.ru/assets/images/import_image/8228.jpg",
+  "modx_id": 8228,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

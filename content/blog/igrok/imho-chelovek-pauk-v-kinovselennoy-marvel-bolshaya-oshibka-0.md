@@ -1,6 +1,6 @@
 {
   "title": "ИМХО: Человек-Паук в киновселенной Marvel — большая ошибка",
-  "date": "2015-02-10T16:48:00+03:00",
+  "date": "2015-02-10T16:48:13+03:00",
   "url": "/blog/igrok/imho-chelovek-pauk-v-kinovselennoy-marvel-bolshaya-oshibka-0/",
   "original_url": "https://spidermedia.ru/blog/igrok/imho-chelovek-pauk-v-kinovselennoy-marvel-bolshaya-oshibka-0",
   "archived": "https://web.archive.org/web/20260312025030/https://spidermedia.ru/blog/igrok/imho-chelovek-pauk-v-kinovselennoy-marvel-bolshaya-oshibka-0",
@@ -9,6 +9,12 @@
     "marvel",
     "imho",
     "disney"
+  ],
+  "cover": "https://web.archive.org/web/20150326100152im_/http://spidermedia.ru/assets/images/import_image/8603.jpg",
+  "modx_id": 8603,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

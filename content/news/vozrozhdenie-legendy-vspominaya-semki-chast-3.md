@@ -1,6 +1,6 @@
 {
   "title": "Возрождение легенды: Вспоминая съемки - Часть 3",
-  "date": "2011-12-06T20:11:00+03:00",
+  "date": "2011-12-06T19:11:43+03:00",
   "url": "/news/vozrozhdenie-legendy-vspominaya-semki-chast-3/",
   "original_url": "https://spidermedia.ru/news/vozrozhdenie-legendy-vspominaya-semki-chast-3",
   "archived": "https://web.archive.org/web/20260125131839/https://spidermedia.ru/news/vozrozhdenie-legendy-vspominaya-semki-chast-3",
@@ -9,6 +9,12 @@
     "dark-knight-rises",
     "dc-comics",
     "temnyj-rycar"
+  ],
+  "cover": "https://web.archive.org/web/20260125131839im_/http://spidermedia.ru/assets/images/import_image/6721.png",
+  "modx_id": 6721,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

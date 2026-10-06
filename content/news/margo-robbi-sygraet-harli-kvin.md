@@ -1,6 +1,6 @@
 {
   "title": "Марго Робби сыграет Харли Куинн",
-  "date": "2014-11-10T12:55:00+03:00",
+  "date": "2014-11-10T12:55:26+03:00",
   "url": "/news/margo-robbi-sygraet-harli-kvin/",
   "original_url": "https://spidermedia.ru/news/margo-robbi-sygraet-harli-kvin",
   "archived": "https://web.archive.org/web/20251211034612/https://spidermedia.ru/news/margo-robbi-sygraet-harli-kvin",
@@ -9,6 +9,12 @@
     "suicide-squad",
     "kasting",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20251211034612im_/http://spidermedia.ru/assets/images/import_image/8277.jpg",
+  "modx_id": 8277,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,12 +1,18 @@
 {
   "title": "Онгоинг FANTASTIC FOUR перезапустят в феврале",
-  "date": "2013-11-13T11:49:00+03:00",
+  "date": "2013-11-13T10:49:34+03:00",
   "url": "/news/ongoing-fantastic-four-perezapustyat-v-fevrale/",
   "original_url": "https://spidermedia.ru/news/ongoing-fantastic-four-perezapustyat-v-fevrale",
   "archived": "https://web.archive.org/web/20250420033241/https://spidermedia.ru/news/ongoing-fantastic-four-perezapustyat-v-fevrale",
   "tags": [
     "marvel",
     "fantastic-four"
+  ],
+  "cover": "https://web.archive.org/web/20250420033241im_/http://spidermedia.ru/assets/images/import_image/7542.jpg",
+  "modx_id": 7542,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

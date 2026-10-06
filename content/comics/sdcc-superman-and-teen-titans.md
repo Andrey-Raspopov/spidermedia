@@ -7,7 +7,14 @@
   "tags": [
     "dc-comics",
     "san-diego-comic-con-international",
-    "superman"
+    "superman",
+    "sdcc2015"
+  ],
+  "cover": "https://web.archive.org/web/20250709071828im_/http://spidermedia.ru/assets/images/news/sdcc/2015/dc/blck_sman_cvr_fnl.jpg",
+  "modx_id": 100351,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

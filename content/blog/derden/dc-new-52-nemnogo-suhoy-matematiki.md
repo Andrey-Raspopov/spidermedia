@@ -1,12 +1,18 @@
 {
   "title": "DC New 52: Немного сухой математики",
-  "date": "2014-02-19T15:19:00+03:00",
+  "date": "2014-02-19T14:19:55+03:00",
   "url": "/blog/derden/dc-new-52-nemnogo-suhoy-matematiki/",
   "original_url": "https://spidermedia.ru/blog/derden/dc-new-52-nemnogo-suhoy-matematiki",
   "archived": "https://web.archive.org/web/20240911132856/https://spidermedia.ru/blog/derden/dc-new-52-nemnogo-suhoy-matematiki",
   "tags": [
     "new-52",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150502184937im_/http://spidermedia.ru/assets/images/import_image/7651.jpg",
+  "modx_id": 7651,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

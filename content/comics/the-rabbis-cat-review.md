@@ -7,6 +7,12 @@
   "tags": [
     "boomkniga"
   ],
+  "cover": "https://web.archive.org/web/20251216112106im_/http://spidermedia.ru/assets/images/reviews/boomkniga/the-rabbis-cat/001.jpg",
+  "modx_id": 102463,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

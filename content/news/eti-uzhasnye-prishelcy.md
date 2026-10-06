@@ -1,6 +1,6 @@
 {
   "title": "Эти ужасные пришельцы",
-  "date": "2009-05-15T12:58:00+03:00",
+  "date": "2009-05-15T11:58:11+03:00",
   "url": "/news/eti-uzhasnye-prishelcy/",
   "original_url": "https://spidermedia.ru/news/eti-uzhasnye-prishelcy",
   "archived": "https://web.archive.org/web/20251115025508/https://spidermedia.ru/news/eti-uzhasnye-prishelcy",
@@ -8,6 +8,12 @@
     "devils-due-publishing",
     "the-nye-incidents",
     "prishelcy"
+  ],
+  "cover": "https://web.archive.org/web/20251115025508im_/http://spidermedia.ru/assets/images/import_image/1194.jpg",
+  "modx_id": 1194,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

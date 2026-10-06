@@ -1,7 +1,10 @@
 {
   "title": "San Diego Comic-Con 2009: Marvel (Вступление)",
-  "date": "2009-07-11T20:53:00+03:00",
+  "date": "2009-07-11T19:53:21+03:00",
   "url": "/news/san-diego-comic-con-2009-marvel-vstuplenie/",
+  "aliases": [
+    "/node/1538/"
+  ],
   "original_url": "http://spidermedia.ru/news/san-diego-comic-con-2009-marvel-vstuplenie",
   "archived": "https://web.archive.org/web/20250807231753/http://spidermedia.ru/news/san-diego-comic-con-2009-marvel-vstuplenie",
   "tags": [
@@ -11,6 +14,12 @@
     "animaciya",
     "san-diego-comic-con-2009",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150428170850im_/http://spidermedia.ru/assets/images/import_image/1538.jpg",
+  "modx_id": 1538,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

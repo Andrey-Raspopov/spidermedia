@@ -1,6 +1,6 @@
 {
   "title": "Трейлер анимации \"Thor & Loki: Blood Brothers\"",
-  "date": "2011-03-12T11:44:00+03:00",
+  "date": "2011-03-12T11:44:39+03:00",
   "url": "/news/treyler-animacii-thor-loki-blood-brothers/",
   "original_url": "http://spidermedia.ru/news/treyler-animacii-thor-loki-blood-brothers",
   "archived": "https://web.archive.org/web/20260312012958/http://spidermedia.ru/news/treyler-animacii-thor-loki-blood-brothers",
@@ -12,7 +12,14 @@
     "thor",
     "motion-comics",
     "esad-ribic",
-    "esad-ribich"
+    "esad-ribich",
+    "tor"
+  ],
+  "cover": "https://web.archive.org/web/20260312012958im_/http://spidermedia.ru/assets/images/import_image/4087.jpg",
+  "modx_id": 4087,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

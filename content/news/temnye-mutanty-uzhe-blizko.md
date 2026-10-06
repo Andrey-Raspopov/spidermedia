@@ -1,13 +1,22 @@
 {
   "title": "Темные Мутанты уже близко!",
-  "date": "2009-04-03T14:50:00+03:00",
+  "date": "2009-04-03T13:50:31+03:00",
   "url": "/news/temnye-mutanty-uzhe-blizko/",
+  "aliases": [
+    "/node/840/"
+  ],
   "original_url": "http://spidermedia.ru/news/temnye-mutanty-uzhe-blizko",
   "archived": "https://web.archive.org/web/20200115072600/http://spidermedia.ru:80/news/temnye-mutanty-uzhe-blizko",
   "tags": [
     "x-men",
     "marvel",
-    "terri-dodson"
+    "terri-dodson",
+    "lyudi-iks"
+  ],
+  "modx_id": 840,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

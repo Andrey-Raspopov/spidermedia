@@ -1,6 +1,6 @@
 {
   "title": "Powers: первый промо-ролик",
-  "date": "2015-02-17T22:56:00+03:00",
+  "date": "2015-02-17T22:56:46+03:00",
   "url": "/news/powers-pervyy-promo-rolik/",
   "original_url": "http://spidermedia.ru/news/powers-pervyy-promo-rolik",
   "archived": "https://web.archive.org/web/20251117002846/http://spidermedia.ru/news/powers-pervyy-promo-rolik",
@@ -8,7 +8,14 @@
     "serialy",
     "majkl-ejvon-oeming",
     "brian-michael-bendis",
-    "powers"
+    "powers",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20150326220846im_/http://spidermedia.ru/assets/images/youtube/RPrZfjeeOio.jpg",
+  "modx_id": 8625,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -9,6 +9,12 @@
     "geek-cafe",
     "spidermedia-15th-anniversary"
   ],
+  "cover": "https://web.archive.org/web/20170911071225im_/http://spidermedia.ru/assets/images/spidermedia-anniversary/06-geek-cafe/red-son-cover-horizontal.jpg",
+  "modx_id": 101454,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

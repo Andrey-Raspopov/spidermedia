@@ -11,6 +11,12 @@
     "vertigo",
     "san-diego-comic-con-international"
   ],
+  "cover": "https://web.archive.org/web/20260313114647im_/http://spidermedia.ru/assets/images/news/sdcc/2017/cover-tv.jpg",
+  "modx_id": 101635,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,6 +1,6 @@
 {
   "title": "Marvel Anime: X-Men",
-  "date": "2011-02-18T23:34:00+03:00",
+  "date": "2011-02-18T23:34:25+03:00",
   "url": "/news/marvel-anime-x-men/",
   "original_url": "http://spidermedia.ru/news/marvel-anime-x-men",
   "archived": "https://web.archive.org/web/20260312011107/http://spidermedia.ru/news/marvel-anime-x-men",
@@ -8,7 +8,14 @@
     "anime",
     "animaciya",
     "x-men",
-    "marvel"
+    "marvel",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20150502154536im_/http://spidermedia.ru/assets/images/import_image/3523.jpg",
+  "modx_id": 3523,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

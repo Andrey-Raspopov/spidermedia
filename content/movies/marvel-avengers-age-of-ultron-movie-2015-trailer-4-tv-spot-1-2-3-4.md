@@ -8,6 +8,12 @@
     "marvel",
     "avengers"
   ],
+  "cover": "https://web.archive.org/web/20160617091353im_/http://spidermedia.ru/assets/images/movies/marvel/avengers-age-of-ultron-2015/avengers-team-epic-shot2.jpg",
+  "modx_id": 100142,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

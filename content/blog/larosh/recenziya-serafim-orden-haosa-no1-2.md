@@ -1,6 +1,6 @@
 {
   "title": "РЕЦЕНЗИЯ: «Серафим. Орден Хаоса №1-2»",
-  "date": "2015-01-14T11:23:00+03:00",
+  "date": "2015-01-14T11:23:38+03:00",
   "url": "/blog/larosh/recenziya-serafim-orden-haosa-no1-2/",
   "original_url": "http://spidermedia.ru/blog/larosh/recenziya-serafim-orden-haosa-no1-2",
   "archived": "https://web.archive.org/web/20251111073433/http://spidermedia.ru/blog/larosh/recenziya-serafim-orden-haosa-no1-2",
@@ -8,6 +8,12 @@
     "recenziya",
     "russian-comics",
     "obzor"
+  ],
+  "cover": "https://web.archive.org/web/20150327041917im_/http://spidermedia.ru/assets/images/import_image/8500.jpg",
+  "modx_id": 8500,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

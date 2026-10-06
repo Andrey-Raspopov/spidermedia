@@ -1,6 +1,6 @@
 {
   "title": "Радость, радость, счастье, счастье",
-  "date": "2012-02-25T08:29:00+03:00",
+  "date": "2012-02-25T07:29:35+03:00",
   "url": "/news/radost-radost-schaste-schaste/",
   "original_url": "http://spidermedia.ru/news/radost-radost-schaste-schaste",
   "archived": "https://web.archive.org/web/20251107010901/http://spidermedia.ru/news/radost-radost-schaste-schaste",
@@ -8,6 +8,12 @@
     "image-comics",
     "derik-robertson",
     "grant-morrison"
+  ],
+  "cover": "https://web.archive.org/web/20251107010901im_/http://spidermedia.ru/assets/images/import_image/6799.jpg",
+  "modx_id": 6799,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

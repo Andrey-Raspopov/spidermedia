@@ -1,12 +1,18 @@
 {
   "title": "Дисней экранизирует THE STUFF OF LEGEND",
-  "date": "2012-06-12T11:32:00+03:00",
+  "date": "2012-06-12T10:32:32+03:00",
   "url": "/news/disney-ekraniziruet-stuff-legend/",
   "original_url": "http://spidermedia.ru/news/disney-ekraniziruet-stuff-legend",
   "archived": "https://web.archive.org/web/20200130123428/http://spidermedia.ru:80/news/disney-ekraniziruet-stuff-legend",
   "tags": [
     "th3rd-world",
     "stuff-of-legend"
+  ],
+  "cover": "https://web.archive.org/web/20200130123428im_/http://spidermedia.ru/assets/images/import_image/6927.jpg",
+  "modx_id": 6927,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

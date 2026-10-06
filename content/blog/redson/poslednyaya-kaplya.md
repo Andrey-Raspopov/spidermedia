@@ -1,13 +1,22 @@
 {
   "title": "Последняя капля",
-  "date": "2009-04-29T18:07:00+03:00",
+  "date": "2009-04-29T17:07:46+03:00",
   "url": "/blog/redson/poslednyaya-kaplya/",
+  "aliases": [
+    "/node/1068/"
+  ],
   "original_url": "http://spidermedia.ru/blog/redson/poslednyaya-kaplya",
   "archived": "https://web.archive.org/web/20120607135648/http://spidermedia.ru/blog/redson/poslednyaya-kaplya",
   "tags": [
     "bollocks",
     "komiksy",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20120607135648im_/http://spidermedia.ru/assets/images/import_image/1068.jpg",
+  "modx_id": 1068,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

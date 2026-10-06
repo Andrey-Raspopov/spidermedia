@@ -1,6 +1,6 @@
 {
   "title": "Попади на спецпоказ фильма \"Первый мститель: Другая война\"!",
-  "date": "2014-03-14T15:00:00+03:00",
+  "date": "2014-03-14T14:00:06+03:00",
   "url": "/news/preview-first-avenger-winter-soldier-quiz/",
   "original_url": "http://spidermedia.ru/news/preview-first-avenger-winter-soldier-quiz",
   "archived": "https://web.archive.org/web/20230608110641/http://spidermedia.ru/news/preview-first-avenger-winter-soldier-quiz",
@@ -8,6 +8,12 @@
     "marvel",
     "captain-america",
     "winter-soldier"
+  ],
+  "cover": "https://web.archive.org/web/20150424061702im_/http://spidermedia.ru/assets/images/import_image/7686.jpg",
+  "modx_id": 7686,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

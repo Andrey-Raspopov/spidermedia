@@ -1,7 +1,10 @@
 {
   "title": "Римейк \"Кошмара на улице Вязов\": Первые кадры",
-  "date": "2009-05-28T10:55:00+03:00",
+  "date": "2009-05-28T09:55:51+03:00",
   "url": "/blog/sterpazook/rimeyk-koshmara-na-ulice-vyazov-pervye-kadry/",
+  "aliases": [
+    "/node/1290/"
+  ],
   "original_url": "http://spidermedia.ru/blog/sterpazook/rimeyk-koshmara-na-ulice-vyazov-pervye-kadry",
   "archived": "https://web.archive.org/web/20120608121552/http://spidermedia.ru/blog/sterpazook/rimeyk-koshmara-na-ulice-vyazov-pervye-kadry",
   "tags": [
@@ -10,7 +13,14 @@
     "kino",
     "koshmar-na-ulice-vyazov",
     "foto",
-    "freddi-kryuger"
+    "freddi-kryuger",
+    "nightmare-on-elm-street"
+  ],
+  "cover": "https://web.archive.org/web/20120608121552im_/http://spidermedia.ru/assets/images/import_image/1290.jpg",
+  "modx_id": 1290,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

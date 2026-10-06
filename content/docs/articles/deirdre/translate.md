@@ -4,6 +4,9 @@
   "url": "/docs/articles/deirdre/translate/",
   "original_url": "http://spidermedia.ru/docs/articles/deirdre/translate.html",
   "archived": "https://web.archive.org/web/20050208013444/http://spidermedia.ru:80/docs/articles/deirdre/translate.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

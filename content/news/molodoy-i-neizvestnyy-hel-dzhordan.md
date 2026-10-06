@@ -1,13 +1,22 @@
 {
   "title": "Молодой и неизвестный Хэл Джордан",
-  "date": "2009-03-02T13:25:00+03:00",
+  "date": "2009-03-02T13:25:21+03:00",
   "url": "/news/molodoy-i-neizvestnyy-hel-dzhordan/",
+  "aliases": [
+    "/node/561/"
+  ],
   "original_url": "http://spidermedia.ru/news/molodoy-i-neizvestnyy-hel-dzhordan",
   "archived": "https://web.archive.org/web/20250906063023/http://spidermedia.ru/news/molodoy-i-neizvestnyy-hel-dzhordan",
   "tags": [
     "hel-dzhordan",
     "hal-jordan",
     "green-lantern"
+  ],
+  "cover": "https://web.archive.org/web/20250906063023im_/http://spidermedia.ru/assets/images/import_image/561.jpg",
+  "modx_id": 561,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Марвел Диджитал, первые весенние обновления",
-  "date": "2009-03-05T16:15:00+03:00",
+  "date": "2009-03-05T15:15:10+03:00",
   "url": "/news/marvel-didzhital-pervye-vesennie-obnovleniya/",
   "original_url": "http://spidermedia.ru/news/marvel-didzhital-pervye-vesennie-obnovleniya",
   "archived": "https://web.archive.org/web/20120607133046/http://spidermedia.ru/news/marvel-didzhital-pervye-vesennie-obnovleniya",
@@ -12,7 +12,14 @@
     "malysh-kolt",
     "marvel",
     "oblozhki",
-    "preview-s"
+    "preview-s",
+    "prevyu",
+    "zheleznyy-chelovek"
+  ],
+  "modx_id": 598,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

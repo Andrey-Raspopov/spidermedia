@@ -1,13 +1,21 @@
 {
   "title": "Obata Takeshi",
-  "date": "2009-02-16T23:35:00+03:00",
+  "date": "2009-02-16T23:35:10+03:00",
   "url": "/blog/naya/obata-takeshi/",
   "original_url": "http://spidermedia.ru/blog/naya/obata-takeshi",
   "archived": "https://web.archive.org/web/20170827214125/http://spidermedia.ru:80/blog/naya/obata-takeshi",
   "tags": [
     "person",
     "manga",
-    "art-0"
+    "art-0",
+    "manga-2",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20170827214125im_/http://spidermedia.ru/assets/images/import_image/400.jpg",
+  "modx_id": 400,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

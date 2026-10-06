@@ -1,6 +1,6 @@
 {
   "title": "Лига Благотворительности",
-  "date": "2011-02-02T08:35:00+03:00",
+  "date": "2011-02-02T08:35:34+03:00",
   "url": "/news/liga-blagotvoritelnosti/",
   "original_url": "http://spidermedia.ru/news/liga-blagotvoritelnosti",
   "archived": "https://web.archive.org/web/20251012174618/http://spidermedia.ru/news/liga-blagotvoritelnosti",
@@ -9,6 +9,12 @@
     "the-hero-initiative",
     "100-project",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20251012174618im_/http://spidermedia.ru/assets/images/import_image/3206.jpg",
+  "modx_id": 3206,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

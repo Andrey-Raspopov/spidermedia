@@ -1,13 +1,20 @@
 {
   "title": "Комиксыыы",
-  "date": "2009-06-03T15:41:00+03:00",
+  "date": "2009-06-03T14:41:58+03:00",
   "url": "/blog/gess/komiksyyy/",
   "original_url": "http://spidermedia.ru/blog/gess/komiksyyy",
   "archived": "https://web.archive.org/web/20120607135823/http://spidermedia.ru/blog/gess/komiksyyy",
   "tags": [
     "girls-comics",
     "elitnyy-blogging",
-    "stripy"
+    "stripy",
+    "elitnyj-blogging"
+  ],
+  "cover": "https://web.archive.org/web/20120607135823im_/http://spidermedia.ru/assets/images/import_image/1342.png",
+  "modx_id": 1342,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

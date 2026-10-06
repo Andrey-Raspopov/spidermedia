@@ -1,7 +1,10 @@
 {
   "title": "The Column With No Name - Week #10: Wolverine is a jerk!!",
-  "date": "2009-05-31T03:59:00+03:00",
+  "date": "2009-05-31T02:59:18+03:00",
   "url": "/blog/sir-carnage/column-no-name-week-10-wolverine-jerk/",
+  "aliases": [
+    "/node/1309/"
+  ],
   "original_url": "http://spidermedia.ru/blog/sir-carnage/column-no-name-week-10-wolverine-jerk",
   "archived": "https://web.archive.org/web/20251211024332/http://spidermedia.ru/blog/sir-carnage/column-no-name-week-10-wolverine-jerk",
   "tags": [
@@ -19,6 +22,12 @@
     "dc-comics",
     "avengers",
     "spider-man"
+  ],
+  "cover": "https://web.archive.org/web/20251211024332im_/http://spidermedia.ru/assets/images/import_image/1309.jpg",
+  "modx_id": 1309,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

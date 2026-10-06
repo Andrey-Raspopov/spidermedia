@@ -8,6 +8,12 @@
     "dc-comics",
     "batman"
   ],
+  "cover": "https://web.archive.org/web/20251207010315im_/http://spidermedia.ru/assets/images/news/dc/dkr-3/dk3-dave-johnson-retail-cover.jpg",
+  "modx_id": 100509,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,12 +1,19 @@
 {
   "title": "100 пуль в ваш телевизор",
-  "date": "2011-06-21T10:25:00+03:00",
+  "date": "2011-06-21T09:25:07+03:00",
   "url": "/news/100-pul-v-vash-televizor/",
   "original_url": "https://spidermedia.ru/news/100-pul-v-vash-televizor",
   "archived": "https://web.archive.org/web/20260215081803/https://spidermedia.ru/news/100-pul-v-vash-televizor",
   "tags": [
     "vertigo",
-    "serialy"
+    "serialy",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20260215081803im_/http://spidermedia.ru/assets/images/import_image/6461.jpg",
+  "modx_id": 6461,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

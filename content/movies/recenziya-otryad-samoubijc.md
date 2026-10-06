@@ -10,6 +10,12 @@
     "suicide-squad",
     "harli-kvin"
   ],
+  "cover": "https://web.archive.org/web/20170423085726im_/http://spidermedia.ru/assets/images/movies/dc/suicide-squad-2016/ceheju3waaa5h0s.jpg",
+  "modx_id": 101304,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

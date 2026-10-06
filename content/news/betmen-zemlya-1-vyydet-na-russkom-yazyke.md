@@ -1,6 +1,6 @@
 {
   "title": "Бэтмен: Земля-1 выйдет на русском языке",
-  "date": "2014-10-02T12:03:00+03:00",
+  "date": "2014-10-02T11:03:09+03:00",
   "url": "/news/betmen-zemlya-1-vyydet-na-russkom-yazyke/",
   "original_url": "https://spidermedia.ru/news/betmen-zemlya-1-vyydet-na-russkom-yazyke",
   "archived": "https://web.archive.org/web/20260309184208/https://spidermedia.ru/news/betmen-zemlya-1-vyydet-na-russkom-yazyke",
@@ -8,6 +8,12 @@
     "zarubezhnye-komiksy-na-russkom",
     "batman",
     "azbuka"
+  ],
+  "cover": "https://web.archive.org/web/20150502184923im_/http://spidermedia.ru/assets/images/import_image/8123.jpg",
+  "modx_id": 8123,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "РосКомНадзор: сила просыпается",
-  "date": "2014-11-14T11:19:00+03:00",
+  "date": "2014-11-14T11:19:25+03:00",
   "url": "/blog/hella/roskomnadzor-sila-prosypaetsya/",
   "original_url": "https://spidermedia.ru/blog/hella/roskomnadzor-sila-prosypaetsya",
   "archived": "https://web.archive.org/web/20260214141741/https://spidermedia.ru/blog/hella/roskomnadzor-sila-prosypaetsya",
@@ -8,6 +8,12 @@
     "russian-comics",
     "roskomnadzor",
     "zarubezhnye-komiksy-na-russkom"
+  ],
+  "cover": "https://web.archive.org/web/20150424085957im_/http://spidermedia.ru/assets/images/import_image/8287.jpg",
+  "modx_id": 8287,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

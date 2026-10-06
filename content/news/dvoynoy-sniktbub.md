@@ -1,7 +1,10 @@
 {
   "title": "Двойной Sniktbub",
-  "date": "2010-08-27T23:44:00+03:00",
+  "date": "2010-08-27T22:44:45+03:00",
   "url": "/news/dvoynoy-sniktbub/",
+  "aliases": [
+    "/node/2876/"
+  ],
   "original_url": "https://spidermedia.ru/news/dvoynoy-sniktbub",
   "archived": "https://web.archive.org/web/20250420032200/https://spidermedia.ru/news/dvoynoy-sniktbub",
   "tags": [
@@ -10,14 +13,21 @@
     "renato-guedes",
     "dzheyson-aaron",
     "art-0",
-    "wolverine"
+    "wolverine",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20250420032200im_/http://spidermedia.ru/assets/images/import_image/2876.jpg",
+  "modx_id": 2876,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
 ![](https://web.archive.org/web/20250420032200im_/http://img.photobucket.com/albums/v497/spidermedia/silver_news/w.jpg?t=1282937970)
-У нас появились превью двух грядущих онгоингов, где в главной роли выступает простой канадский парень **Росомаха** *(Wolverine)*. Обе серии только начинаются, правда новый том [**Wolverine**](../../node/2818/), в котором читателям обещают приключение в ад в прямом смысле, стартует уже **первого сентября**, а [**Wolverine: The Best There Is**](../../node/2715/) появится на прилавках лишь в декабре.
+У нас появились превью двух грядущих онгоингов, где в главной роли выступает простой канадский парень **Росомаха** *(Wolverine)*. Обе серии только начинаются, правда новый том [**Wolverine**](../kogtistaya-semeyka/), в котором читателям обещают приключение в ад в прямом смысле, стартует уже **первого сентября**, а [**Wolverine: The Best There Is**](../iscelyat-i-ubivat/) появится на прилавках лишь в декабре.
 [![](https://web.archive.org/web/20250420032200im_/http://img.photobucket.com/albums/v497/spidermedia/silver_news/th_024ug.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/silver_news/024ug.jpg) [![](https://web.archive.org/web/20250420032200im_/http://img.photobucket.com/albums/v497/spidermedia/silver_news/th_025fp.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/silver_news/025fp.jpg) [![](https://web.archive.org/web/20250420032200im_/http://img.photobucket.com/albums/v497/spidermedia/silver_news/th_026vu.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/silver_news/026vu.jpg) [![](https://web.archive.org/web/20250420032200im_/http://img.photobucket.com/albums/v497/spidermedia/silver_news/th_027fa.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/silver_news/027fa.jpg) [![](https://web.archive.org/web/20250420032200im_/http://img.photobucket.com/albums/v497/spidermedia/silver_news/th_028yr.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/silver_news/028yr.jpg) [![](https://web.archive.org/web/20250420032200im_/http://img.photobucket.com/albums/v497/spidermedia/silver_news/th_029e.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/silver_news/029e.jpg)
 [![](https://web.archive.org/web/20250420032200im_/http://img.photobucket.com/albums/v497/spidermedia/silver_news/th_030pg.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/silver_news/030pg.jpg) [![](https://web.archive.org/web/20250420032200im_/http://img.photobucket.com/albums/v497/spidermedia/silver_news/th_031fs.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/silver_news/031fs.jpg) [![](https://web.archive.org/web/20250420032200im_/http://img.photobucket.com/albums/v497/spidermedia/silver_news/th_032yo.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/silver_news/032yo.jpg) [![](https://web.archive.org/web/20250420032200im_/http://img.photobucket.com/albums/v497/spidermedia/silver_news/th_033kg.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/silver_news/033kg.jpg) [![](https://web.archive.org/web/20250420032200im_/http://img.photobucket.com/albums/v497/spidermedia/silver_news/th_034p.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/silver_news/034p.jpg)
 Пишет **Джейсон Аарона** *(Jason Aaron)*, рисует **Ренато Гуэдес** *(Renato Guedes)*

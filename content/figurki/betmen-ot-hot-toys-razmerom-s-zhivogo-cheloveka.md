@@ -8,6 +8,12 @@
     "batman",
     "dc-comics"
   ],
+  "cover": "https://web.archive.org/web/20160416132643im_/http://spidermedia.ru/assets/images/news/images/5_toys/hot-toys/snyder-batman-1-6-and-life-size/armored0002.jpg",
+  "modx_id": 100861,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

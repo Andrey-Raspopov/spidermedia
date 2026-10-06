@@ -1,7 +1,10 @@
 {
   "title": "Американское превью Amazing Spider-Man #597",
-  "date": "2009-06-05T16:46:00+03:00",
+  "date": "2009-06-05T15:46:01+03:00",
   "url": "/news/amerikanskoe-prevyu-amazing-spider-man-597/",
+  "aliases": [
+    "/node/1358/"
+  ],
   "original_url": "https://spidermedia.ru/news/amerikanskoe-prevyu-amazing-spider-man-597",
   "archived": "https://web.archive.org/web/20250209114343/https://spidermedia.ru/news/amerikanskoe-prevyu-amazing-spider-man-597",
   "tags": [
@@ -11,7 +14,14 @@
     "joe-kelly",
     "garri-ozborn",
     "norman-osborn",
-    "spider-man"
+    "spider-man",
+    "dark-avengers"
+  ],
+  "cover": "https://web.archive.org/web/20250209114343im_/http://spidermedia.ru/assets/images/import_image/1358.jpg",
+  "modx_id": 1358,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,11 +1,20 @@
 {
   "title": "Журнал комиков \"Велес\"",
-  "date": "2009-02-10T20:08:00+03:00",
+  "date": "2009-02-10T20:08:17+03:00",
   "url": "/blog/sterpazook/zhurnal-komikov-veles/",
+  "aliases": [
+    "/node/305/"
+  ],
   "original_url": "http://spidermedia.ru/blog/sterpazook/zhurnal-komikov-veles",
   "archived": "https://web.archive.org/web/20230323040845/http://spidermedia.ru/blog/sterpazook/zhurnal-komikov-veles",
   "tags": [
     "russian-comics"
+  ],
+  "cover": "https://web.archive.org/web/20230323040845im_/http://spidermedia.ru/assets/images/import_image/305.jpg",
+  "modx_id": 305,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

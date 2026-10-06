@@ -1,12 +1,18 @@
 {
   "title": "ОБЗОР: «Легендарные Кайфоломы и их реальная жизнь», русскоязычное издание",
-  "date": "2014-09-08T15:28:00+03:00",
+  "date": "2014-09-08T14:28:32+03:00",
   "url": "/blog/hella/obzor-legendarnye-kayfolomy-i-ih-realnaya-zhizn-russkoyazychnoe-izdanie/",
   "original_url": "http://spidermedia.ru/blog/hella/obzor-legendarnye-kayfolomy-i-ih-realnaya-zhizn-russkoyazychnoe-izdanie",
   "archived": "https://web.archive.org/web/20251108040554/http://spidermedia.ru/blog/hella/obzor-legendarnye-kayfolomy-i-ih-realnaya-zhizn-russkoyazychnoe-izdanie",
   "tags": [
     "komilfo",
     "zarubezhnye-komiksy-na-russkom"
+  ],
+  "cover": "https://web.archive.org/web/20150326220841im_/http://spidermedia.ru/assets/images/import_image/8041.jpg",
+  "modx_id": 8041,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

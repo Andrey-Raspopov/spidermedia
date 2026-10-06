@@ -1,12 +1,20 @@
 {
   "title": "С героями DC по сети !",
-  "date": "2009-02-01T03:47:00+03:00",
+  "date": "2009-02-01T03:47:50+03:00",
   "url": "/blog/ghost-knight/s-geroyami-dc-po-seti/",
+  "aliases": [
+    "/node/62/"
+  ],
   "original_url": "https://spidermedia.ru/blog/ghost-knight/s-geroyami-dc-po-seti",
   "archived": "https://web.archive.org/web/20251006141723/https://spidermedia.ru/blog/ghost-knight/s-geroyami-dc-po-seti",
   "tags": [
     "dc-comics",
     "igry"
+  ],
+  "modx_id": 62,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

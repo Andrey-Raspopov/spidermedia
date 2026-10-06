@@ -1,7 +1,10 @@
 {
   "title": "Битва за Капюшон: очередное превью",
-  "date": "2009-03-04T13:25:00+03:00",
+  "date": "2009-03-04T13:25:55+03:00",
   "url": "/news/bitva-za-kapyushon-ocherednoe-prevyu/",
+  "aliases": [
+    "/node/581/"
+  ],
   "original_url": "https://spidermedia.ru/news/bitva-za-kapyushon-ocherednoe-prevyu",
   "archived": "https://web.archive.org/web/20251014041905/https://spidermedia.ru/news/bitva-za-kapyushon-ocherednoe-prevyu",
   "tags": [
@@ -10,6 +13,12 @@
     "nightwing",
     "toni-deniel",
     "najtving"
+  ],
+  "cover": "https://web.archive.org/web/20251014041905im_/http://spidermedia.ru/assets/images/import_image/581.jpg",
+  "modx_id": 581,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

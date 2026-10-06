@@ -1,7 +1,10 @@
 {
   "title": "Koorihime Kitan",
-  "date": "2009-04-06T03:19:00+03:00",
+  "date": "2009-04-06T02:19:56+03:00",
   "url": "/blog/qvall/koorihime-kitan/",
+  "aliases": [
+    "/node/866/"
+  ],
   "original_url": "http://spidermedia.ru/blog/qvall/koorihime-kitan",
   "archived": "https://web.archive.org/web/20120607131838/http://spidermedia.ru/blog/qvall/koorihime-kitan",
   "tags": [
@@ -10,7 +13,14 @@
     "romance",
     "shoujo",
     "supernatural",
-    "skachat"
+    "skachat",
+    "manga-2"
+  ],
+  "cover": "https://web.archive.org/web/20120607131838im_/http://spidermedia.ru/assets/images/import_image/866.jpg",
+  "modx_id": 866,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

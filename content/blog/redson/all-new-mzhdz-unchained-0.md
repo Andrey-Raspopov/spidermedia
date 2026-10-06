@@ -1,12 +1,18 @@
 {
   "title": "ALL-NEW МЖДЗ UNCHAINED",
-  "date": "2014-09-30T15:10:00+03:00",
+  "date": "2014-09-30T14:10:25+03:00",
   "url": "/blog/redson/all-new-mzhdz-unchained-0/",
   "original_url": "http://spidermedia.ru/blog/redson/all-new-mzhdz-unchained-0",
   "archived": "https://web.archive.org/web/20190314093440/http://spidermedia.ru:80/blog/redson/all-new-mzhdz-unchained-0",
   "tags": [
     "mzhdz",
     "obzor"
+  ],
+  "cover": "https://web.archive.org/web/20190314093440im_/http://spidermedia.ru/assets/images/import_image/8116.jpg",
+  "modx_id": 8116,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

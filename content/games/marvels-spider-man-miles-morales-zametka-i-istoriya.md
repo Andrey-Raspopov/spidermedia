@@ -4,6 +4,12 @@
   "url": "/games/marvels-spider-man-miles-morales-zametka-i-istoriya/",
   "original_url": "http://spidermedia.ru/games/marvels-spider-man-miles-morales-zametka-i-istoriya",
   "archived": "https://web.archive.org/web/20251014034522/http://spidermedia.ru/games/marvels-spider-man-miles-morales-zametka-i-istoriya",
+  "cover": "https://web.archive.org/web/20251014034522im_/http://spidermedia.ru/assets/images/games/00033e.jpg",
+  "modx_id": 102309,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

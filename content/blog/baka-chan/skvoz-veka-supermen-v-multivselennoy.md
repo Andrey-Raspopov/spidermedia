@@ -1,6 +1,6 @@
 {
   "title": "Сквозь века: Супермен в мультивселенной",
-  "date": "2009-02-15T15:06:00+03:00",
+  "date": "2009-02-15T15:06:25+03:00",
   "url": "/blog/baka-chan/skvoz-veka-supermen-v-multivselennoy/",
   "original_url": "https://spidermedia.ru/blog/baka-chan/skvoz-veka-supermen-v-multivselennoy",
   "archived": "https://web.archive.org/web/20240623022230/https://spidermedia.ru/blog/baka-chan/skvoz-veka-supermen-v-multivselennoy",
@@ -8,6 +8,12 @@
     "rubriki",
     "superman",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20240623022230im_/http://spidermedia.ru/assets/images/import_image/375.jpg",
+  "modx_id": 375,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

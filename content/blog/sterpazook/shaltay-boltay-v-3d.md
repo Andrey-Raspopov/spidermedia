@@ -1,13 +1,22 @@
 {
   "title": "\"Шалтай-Болтай\" в 3D",
-  "date": "2009-05-18T16:24:00+03:00",
+  "date": "2009-05-18T15:24:58+03:00",
   "url": "/blog/sterpazook/shaltay-boltay-v-3d/",
+  "aliases": [
+    "/node/1226/"
+  ],
   "original_url": "http://spidermedia.ru/blog/sterpazook/shaltay-boltay-v-3d",
   "archived": "https://web.archive.org/web/20111019192335/http://spidermedia.ru/blog/sterpazook/shaltay-boltay-v-3d",
   "tags": [
     "horror",
     "kino",
     "postery"
+  ],
+  "cover": "https://web.archive.org/web/20111019192335im_/http://spidermedia.ru/assets/images/import_image/1226.jpg",
+  "modx_id": 1226,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

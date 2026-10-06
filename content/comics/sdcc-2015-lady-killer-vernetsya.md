@@ -6,7 +6,14 @@
   "archived": "https://web.archive.org/web/20260117222140/https://spidermedia.ru/comics/sdcc-2015-lady-killer-vernetsya",
   "tags": [
     "dark-horse",
-    "san-diego-comic-con-international"
+    "san-diego-comic-con-international",
+    "sdcc2015"
+  ],
+  "cover": "https://web.archive.org/web/20160611160515im_/http://spidermedia.ru/assets/images/news/sdcc/2015/dark-horse/ladykiller2-ed695.jpg",
+  "modx_id": 100345,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

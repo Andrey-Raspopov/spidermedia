@@ -8,6 +8,12 @@
     "brajan-telbot",
     "bande-dessinée"
   ],
+  "cover": "https://web.archive.org/web/20190924061024im_/http://spidermedia.ru/assets/images/bd/02-12-15/advla-tpb-fc-comp.jpg",
+  "modx_id": 100738,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

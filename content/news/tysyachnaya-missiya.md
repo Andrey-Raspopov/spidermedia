@@ -1,6 +1,6 @@
 {
   "title": "Тысячная миссия",
-  "date": "2011-01-19T12:04:00+03:00",
+  "date": "2011-01-19T12:04:10+03:00",
   "url": "/news/tysyachnaya-missiya/",
   "original_url": "https://spidermedia.ru/news/tysyachnaya-missiya",
   "archived": "https://web.archive.org/web/20260206230510/https://spidermedia.ru/news/tysyachnaya-missiya",
@@ -11,6 +11,12 @@
     "dzhon-ostrander",
     "marvel",
     "spider-man"
+  ],
+  "cover": "https://web.archive.org/web/20260206230510im_/http://spidermedia.ru/assets/images/import_image/3174.jpg",
+  "modx_id": 3174,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

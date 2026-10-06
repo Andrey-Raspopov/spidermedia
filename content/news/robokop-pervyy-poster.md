@@ -1,12 +1,18 @@
 {
   "title": "\"РОБОКОП\": Первый постер",
-  "date": "2013-09-13T08:38:00+03:00",
+  "date": "2013-09-13T07:38:25+03:00",
   "url": "/news/robokop-pervyy-poster/",
   "original_url": "https://spidermedia.ru/news/robokop-pervyy-poster",
   "archived": "https://web.archive.org/web/20240911132352/https://spidermedia.ru/news/robokop-pervyy-poster",
   "tags": [
     "robocop",
     "postery"
+  ],
+  "cover": "https://web.archive.org/web/20240911132352im_/http://spidermedia.ru/assets/images/import_image/7467.jpg",
+  "modx_id": 7467,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

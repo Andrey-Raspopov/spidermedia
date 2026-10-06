@@ -8,6 +8,12 @@
     "hellboymedia",
     "novosti"
   ],
+  "cover": "https://web.archive.org/web/20160416072837im_/http://spidermedia.ru/assets/images/hellboymedia/news/statues-mignola-design/statues-by-mignola-design-cover.jpg",
+  "modx_id": 100284,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,9 +1,15 @@
 {
   "title": "Изгой",
-  "date": "2016-06-19T00:00:00+00:00",
+  "date": "2016-06-09T11:08:00+03:00",
   "url": "/tv-index/robert-kirkman-outcast-cinemax-tv-series-2016/",
   "original_url": "http://spidermedia.ru/tv-index/robert-kirkman-outcast-cinemax-tv-series-2016",
   "archived": "https://web.archive.org/web/20260309180223/http://spidermedia.ru/tv-index/robert-kirkman-outcast-cinemax-tv-series-2016",
+  "cover": "https://web.archive.org/web/20260309180223im_/http://spidermedia.ru/assets/images/tv/outcast/outcast1-sdcc2015-photo-cover.jpg",
+  "modx_id": 101196,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

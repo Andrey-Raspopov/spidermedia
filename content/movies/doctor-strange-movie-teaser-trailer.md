@@ -8,6 +8,12 @@
     "marvel",
     "doctor-strange"
   ],
+  "cover": "https://web.archive.org/web/20260214142031im_/http://spidermedia.ru/assets/images/movies/marvel/dr-strange-movie-2016/doctor-strange-1.jpg",
+  "modx_id": 101081,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

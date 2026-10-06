@@ -4,6 +4,9 @@
   "url": "/docs/cartoon/unlimited/",
   "original_url": "http://spidermedia.ru/docs/cartoon/unlimited.html",
   "archived": "https://web.archive.org/web/20051201122939/http://spidermedia.ru:80/docs/cartoon/unlimited.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

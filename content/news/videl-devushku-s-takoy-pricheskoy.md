@@ -1,12 +1,18 @@
 {
   "title": "Видел девушку с такой прической?",
-  "date": "2012-04-01T14:54:00+03:00",
+  "date": "2012-04-01T13:54:26+03:00",
   "url": "/news/videl-devushku-s-takoy-pricheskoy/",
   "original_url": "http://spidermedia.ru/news/videl-devushku-s-takoy-pricheskoy",
   "archived": "https://web.archive.org/web/20190924052656/http://spidermedia.ru:80/news/videl-devushku-s-takoy-pricheskoy",
   "tags": [
     "bryan-lee-o-malley",
     "scott-pilgrim"
+  ],
+  "cover": "https://web.archive.org/web/20190924052656im_/http://spidermedia.ru/assets/images/import_image/6851.jpg",
+  "modx_id": 6851,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

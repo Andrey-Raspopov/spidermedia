@@ -1,7 +1,10 @@
 {
   "title": "World War Hulks: апрель-июнь 2010",
-  "date": "2010-04-07T20:26:00+03:00",
+  "date": "2010-04-07T19:26:22+03:00",
   "url": "/news/world-war-hulks-aprel-iyun-2010/",
+  "aliases": [
+    "/node/2521/"
+  ],
   "original_url": "http://spidermedia.ru/news/world-war-hulks-aprel-iyun-2010",
   "archived": "https://web.archive.org/web/20260214130138/http://spidermedia.ru/news/world-war-hulks-aprel-iyun-2010",
   "tags": [
@@ -16,6 +19,12 @@
     "red-hulk",
     "marvel",
     "hulk"
+  ],
+  "cover": "https://web.archive.org/web/20260214130138im_/http://spidermedia.ru/assets/images/import_image/2521.jpg",
+  "modx_id": 2521,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

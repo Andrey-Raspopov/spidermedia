@@ -1,11 +1,17 @@
 {
   "title": "Марк Миллар не знает удержу",
-  "date": "2014-06-13T11:32:00+03:00",
+  "date": "2014-06-13T10:32:05+03:00",
   "url": "/news/mark-millar-ne-znaet-uderzhu/",
   "original_url": "http://spidermedia.ru/news/mark-millar-ne-znaet-uderzhu",
   "archived": "https://web.archive.org/web/20250620073026/http://spidermedia.ru/news/mark-millar-ne-znaet-uderzhu",
   "tags": [
     "mark-millar"
+  ],
+  "cover": "https://web.archive.org/web/20250620073026im_/http://spidermedia.ru/assets/images/import_image/7814.jpg",
+  "modx_id": 7814,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

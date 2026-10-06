@@ -8,6 +8,12 @@
     "old-komix",
     "istoriya"
   ],
+  "cover": "https://web.archive.org/web/20250519181456im_/http://spidermedia.ru/assets/images/articles/editors/part-3/part-3-3/03.jpg",
+  "modx_id": 101808,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

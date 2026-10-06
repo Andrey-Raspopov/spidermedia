@@ -1,14 +1,24 @@
 {
   "title": "Brand New Day в 2010",
-  "date": "2010-01-01T11:19:00+03:00",
+  "date": "2010-01-01T11:19:35+03:00",
   "url": "/news/brand-new-day-v-2010/",
+  "aliases": [
+    "/node/2204/"
+  ],
   "original_url": "http://spidermedia.ru/news/brand-new-day-v-2010",
   "archived": "https://web.archive.org/web/20190731041655/http://spidermedia.ru:80/news/brand-new-day-v-2010",
   "tags": [
     "paskal-ferri",
     "art-0",
     "marvel",
-    "spider-man"
+    "spider-man",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20190731041655im_/http://spidermedia.ru/assets/images/import_image/2204.jpg",
+  "modx_id": 2204,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

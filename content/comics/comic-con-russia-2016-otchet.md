@@ -9,6 +9,12 @@
     "zarubezhnye-komiksy-na-russkom",
     "russian-comics"
   ],
+  "cover": "https://web.archive.org/web/20251208073552im_/http://spidermedia.ru/assets/images/comic-con/2016/otchet/0k-1p65mbeq.jpg",
+  "modx_id": 101367,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

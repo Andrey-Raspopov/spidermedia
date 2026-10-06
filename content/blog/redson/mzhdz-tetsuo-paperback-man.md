@@ -1,12 +1,18 @@
 {
   "title": "МЖДЗ: TETSUO THE PAPERBACK MAN",
-  "date": "2011-08-01T18:23:00+03:00",
+  "date": "2011-08-01T17:23:28+03:00",
   "url": "/blog/redson/mzhdz-tetsuo-paperback-man/",
   "original_url": "http://spidermedia.ru/blog/redson/mzhdz-tetsuo-paperback-man",
   "archived": "https://web.archive.org/web/20251107175737/http://spidermedia.ru/blog/redson/mzhdz-tetsuo-paperback-man",
   "tags": [
     "mnenie",
     "mzhdz"
+  ],
+  "cover": "https://web.archive.org/web/20251107175737im_/http://spidermedia.ru/assets/images/import_image/6540.png",
+  "modx_id": 6540,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

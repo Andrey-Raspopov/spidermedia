@@ -1,6 +1,6 @@
 {
   "title": "Империя банановой кожуры // о League of Extraordinary Gentlemen Century 2009",
-  "date": "2012-07-13T16:23:00+03:00",
+  "date": "2012-07-13T15:23:03+03:00",
   "url": "/blog/plane-v/imperiya-bananovoy-kozhury-o-league-extraordinary-gentlemen-century-2009/",
   "original_url": "https://spidermedia.ru/blog/plane-v/imperiya-bananovoy-kozhury-o-league-extraordinary-gentlemen-century-2009",
   "archived": "https://web.archive.org/web/20250324061707/https://spidermedia.ru/blog/plane-v/imperiya-bananovoy-kozhury-o-league-extraordinary-gentlemen-century-2009",
@@ -9,6 +9,12 @@
     "kevin-onil",
     "alan-mur",
     "league-of-extraordinary-gentlemen"
+  ],
+  "cover": "https://web.archive.org/web/20150502194722im_/http://spidermedia.ru/assets/images/import_image/6971.gif",
+  "modx_id": 6971,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

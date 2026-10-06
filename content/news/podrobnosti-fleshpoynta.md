@@ -1,6 +1,6 @@
 {
   "title": "Подробности Флэшпойнта",
-  "date": "2011-01-30T11:55:00+03:00",
+  "date": "2011-01-30T11:55:27+03:00",
   "url": "/news/podrobnosti-fleshpoynta/",
   "original_url": "http://spidermedia.ru/news/podrobnosti-fleshpoynta",
   "archived": "https://web.archive.org/web/20251211021408/http://spidermedia.ru/news/podrobnosti-fleshpoynta",
@@ -9,6 +9,12 @@
     "the-flash",
     "dc-comics",
     "endi-kubert"
+  ],
+  "cover": "https://web.archive.org/web/20251211021408im_/http://spidermedia.ru/assets/images/import_image/3198.jpg",
+  "modx_id": 3198,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

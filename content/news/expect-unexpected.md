@@ -1,14 +1,23 @@
 {
   "title": "eXpect the uneXpected",
-  "date": "2009-01-29T15:26:00+03:00",
+  "date": "2009-01-29T15:26:13+03:00",
   "url": "/news/expect-unexpected/",
+  "aliases": [
+    "/node/4/"
+  ],
   "original_url": "https://spidermedia.ru/news/expect-unexpected",
   "archived": "https://web.archive.org/web/20260314082224/https://spidermedia.ru/news/expect-unexpected",
   "tags": [
     "x-men",
     "x-factor",
     "piter-devid",
-    "marvel"
+    "marvel",
+    "lyudi-iks"
+  ],
+  "modx_id": 4,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

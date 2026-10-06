@@ -1,12 +1,20 @@
 {
   "title": "Сайт компании Траск Индастриз + взгляд на Сентинелов (ФОТО/ВИДЕО)",
-  "date": "2013-07-30T22:55:00+03:00",
+  "date": "2013-07-30T21:55:50+03:00",
   "url": "/news/bolivar-trask-i-sentinely-v-novom-filme-o-lyudyah-iks-foto-video/",
   "original_url": "http://spidermedia.ru/news/bolivar-trask-i-sentinely-v-novom-filme-o-lyudyah-iks-foto-video",
   "archived": "https://web.archive.org/web/20260309185634/http://spidermedia.ru/news/bolivar-trask-i-sentinely-v-novom-filme-o-lyudyah-iks-foto-video",
   "tags": [
     "x-men",
-    "days-of-future-past"
+    "days-of-future-past",
+    "lyudi-iks",
+    "dni-minuvshego-budushhego"
+  ],
+  "cover": "https://web.archive.org/web/20260309185634im_/http://spidermedia.ru/assets/images/import_image/7391.jpg",
+  "modx_id": 7391,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "Квазар и Космические Мстители",
-  "date": "2009-10-06T15:53:00+03:00",
+  "date": "2009-10-06T14:53:26+03:00",
   "url": "/news/kvazar-i-kosmicheskie-mstiteli/",
+  "aliases": [
+    "/node/1971/"
+  ],
   "original_url": "http://spidermedia.ru/news/kvazar-i-kosmicheskie-mstiteli",
   "archived": "https://web.archive.org/web/20120607152631/http://spidermedia.ru/news/kvazar-i-kosmicheskie-mstiteli",
   "tags": [
@@ -12,7 +15,14 @@
     "kvazar",
     "komiksy",
     "marvel",
-    "mstiteli"
+    "mstiteli",
+    "realm-of-kings"
+  ],
+  "cover": "https://web.archive.org/web/20120607152631im_/http://spidermedia.ru/assets/images/import_image/1971.jpg",
+  "modx_id": 1971,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

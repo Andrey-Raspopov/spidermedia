@@ -8,6 +8,12 @@
     "marvel",
     "spider-week"
   ],
+  "cover": "https://web.archive.org/web/20251111072514im_/http://spidermedia.ru/assets/images/spiderweek/gwen/cover.jpg",
+  "modx_id": 101996,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

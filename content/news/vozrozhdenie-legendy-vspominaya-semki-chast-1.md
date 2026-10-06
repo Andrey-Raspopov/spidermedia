@@ -1,6 +1,6 @@
 {
   "title": "Возрождение легенды: Вспоминая съемки - Часть 1",
-  "date": "2011-11-19T18:27:00+03:00",
+  "date": "2011-11-19T17:27:19+03:00",
   "url": "/news/vozrozhdenie-legendy-vspominaya-semki-chast-1/",
   "original_url": "https://spidermedia.ru/news/vozrozhdenie-legendy-vspominaya-semki-chast-1",
   "archived": "https://web.archive.org/web/20260307055231/https://spidermedia.ru/news/vozrozhdenie-legendy-vspominaya-semki-chast-1",
@@ -8,6 +8,12 @@
     "temnyj-rycar",
     "dark-knight-rises",
     "batman"
+  ],
+  "cover": "https://web.archive.org/web/20260307055231im_/http://spidermedia.ru/assets/images/import_image/6703.jpg",
+  "modx_id": 6703,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

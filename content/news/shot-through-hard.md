@@ -1,6 +1,6 @@
 {
   "title": "Shot through the H.A.R.D.!",
-  "date": "2013-05-10T04:26:00+03:00",
+  "date": "2013-05-10T03:26:44+03:00",
   "url": "/news/shot-through-hard/",
   "original_url": "https://spidermedia.ru/news/shot-through-hard",
   "archived": "https://web.archive.org/web/20260125063358/https://spidermedia.ru/news/shot-through-hard",
@@ -12,6 +12,12 @@
     "joshua-dysart",
     "bladshot",
     "valiant-entertainment"
+  ],
+  "cover": "https://web.archive.org/web/20150327101458im_/http://spidermedia.ru/assets/images/import_image/7236.jpg",
+  "modx_id": 7236,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

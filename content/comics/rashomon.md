@@ -7,6 +7,12 @@
   "tags": [
     "dark-horse"
   ],
+  "cover": "https://web.archive.org/web/20250119063904im_/http://spidermedia.ru/assets/images/news/castle/cover-1.jpg",
+  "modx_id": 101618,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

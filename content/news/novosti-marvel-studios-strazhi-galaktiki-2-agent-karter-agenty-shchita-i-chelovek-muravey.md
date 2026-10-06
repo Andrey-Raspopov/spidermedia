@@ -1,6 +1,6 @@
 {
   "title": "Новости Marvel Studios: \"Стражи галактики 2\", \"Агент Картер\", \"Агенты ЩИТа\" и \"Человек-Муравей\"",
-  "date": "2014-07-26T15:07:00+03:00",
+  "date": "2014-07-26T14:07:58+03:00",
   "url": "/news/novosti-marvel-studios-strazhi-galaktiki-2-agent-karter-agenty-shchita-i-chelovek-muravey/",
   "original_url": "https://spidermedia.ru/news/novosti-marvel-studios-strazhi-galaktiki-2-agent-karter-agenty-shchita-i-chelovek-muravey",
   "archived": "https://web.archive.org/web/20260309182647/https://spidermedia.ru/news/novosti-marvel-studios-strazhi-galaktiki-2-agent-karter-agenty-shchita-i-chelovek-muravey",
@@ -11,7 +11,14 @@
     "san-diego-comic-con-international",
     "agenty-shhita",
     "agent-karter",
-    "serialy"
+    "serialy",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20260309182647im_/http://spidermedia.ru/assets/images/import_image/7932.jpg",
+  "modx_id": 7932,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

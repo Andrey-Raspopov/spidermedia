@@ -1,7 +1,10 @@
 {
   "title": "Не Хеллсинг",
-  "date": "2009-06-08T12:45:00+03:00",
+  "date": "2009-06-08T11:45:57+03:00",
   "url": "/news/ne-hellsing/",
+  "aliases": [
+    "/node/1380/"
+  ],
   "original_url": "http://spidermedia.ru/news/ne-hellsing",
   "archived": "https://web.archive.org/web/20120608173323/http://spidermedia.ru/news/ne-hellsing",
   "tags": [
@@ -11,7 +14,14 @@
     "kino",
     "komiksy",
     "manhva",
-    "svyashchennik"
+    "svyashchennik",
+    "svyashhennik"
+  ],
+  "cover": "https://web.archive.org/web/20120608173323im_/http://spidermedia.ru/assets/images/import_image/1380.jpg",
+  "modx_id": 1380,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "A couple of books",
-  "date": "2009-05-14T15:48:00+03:00",
+  "date": "2009-05-14T14:48:11+03:00",
   "url": "/news/couple-books/",
+  "aliases": [
+    "/node/1184/"
+  ],
   "original_url": "http://spidermedia.ru/news/couple-books",
   "archived": "https://web.archive.org/web/20260305234234/http://spidermedia.ru/news/couple-books",
   "tags": [
@@ -13,6 +16,12 @@
     "kevin-smit",
     "green-hornet",
     "uolt-flenagan"
+  ],
+  "cover": "https://web.archive.org/web/20150424150632im_/http://spidermedia.ru/assets/images/import_image/1184.jpg",
+  "modx_id": 1184,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

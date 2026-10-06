@@ -1,6 +1,6 @@
 {
   "title": "Мы верим, мы ждём: Человек-Паук появится в \"Мстителях-3\" + СТРАШНЫЕ СПОЙЛЕРЫ!",
-  "date": "2015-01-14T23:13:00+03:00",
+  "date": "2015-01-14T23:13:21+03:00",
   "url": "/news/my-verim-my-zhdyom-chelovek-pauk-poyavitsya-v-mstitelyah-3-strashnye-spoylery/",
   "original_url": "https://spidermedia.ru/news/my-verim-my-zhdyom-chelovek-pauk-poyavitsya-v-mstitelyah-3-strashnye-spoylery",
   "archived": "https://web.archive.org/web/20251006131206/https://spidermedia.ru/news/my-verim-my-zhdyom-chelovek-pauk-poyavitsya-v-mstitelyah-3-strashnye-spoylery",
@@ -8,6 +8,12 @@
     "spider-man",
     "avengers",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150326024411im_/http://spidermedia.ru/assets/images/import_image/8505.jpg",
+  "modx_id": 8505,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

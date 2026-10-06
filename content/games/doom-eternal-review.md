@@ -4,6 +4,12 @@
   "url": "/games/doom-eternal-review/",
   "original_url": "http://spidermedia.ru/games/doom-eternal-review",
   "archived": "https://web.archive.org/web/20260115051216/http://spidermedia.ru/games/doom-eternal-review",
+  "cover": "https://web.archive.org/web/20260115051216im_/http://spidermedia.ru/assets/images/games/wi1h5l-xkt2qw9etw4mhthixuty.jpeg",
+  "modx_id": 102218,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

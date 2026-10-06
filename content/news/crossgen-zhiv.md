@@ -1,6 +1,6 @@
 {
   "title": "CrossGen жив!",
-  "date": "2010-10-11T10:47:00+03:00",
+  "date": "2010-10-11T09:47:57+03:00",
   "url": "/news/crossgen-zhiv/",
   "original_url": "https://spidermedia.ru/news/crossgen-zhiv",
   "archived": "https://web.archive.org/web/20260206214001/https://spidermedia.ru/news/crossgen-zhiv",
@@ -11,6 +11,12 @@
     "marvel",
     "crossgen",
     "new-york-comic-con"
+  ],
+  "cover": "https://web.archive.org/web/20260206214001im_/http://spidermedia.ru/assets/images/import_image/2994.jpg",
+  "modx_id": 2994,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

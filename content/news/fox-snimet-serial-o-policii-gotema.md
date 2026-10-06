@@ -1,6 +1,6 @@
 {
   "title": "FOX снимет сериал о полиции Готэма",
-  "date": "2013-09-25T13:00:00+03:00",
+  "date": "2013-09-25T12:00:53+03:00",
   "url": "/news/fox-snimet-serial-o-policii-gotema/",
   "original_url": "https://spidermedia.ru/news/fox-snimet-serial-o-policii-gotema",
   "archived": "https://web.archive.org/web/20260125130341/https://spidermedia.ru/news/fox-snimet-serial-o-policii-gotema",
@@ -8,7 +8,14 @@
     "serialy",
     "gotem",
     "batman",
-    "dc-comics"
+    "dc-comics",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20150428231440im_/http://spidermedia.ru/assets/images/import_image/7482.png",
+  "modx_id": 7482,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

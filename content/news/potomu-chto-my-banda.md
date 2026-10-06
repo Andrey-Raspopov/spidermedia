@@ -1,7 +1,10 @@
 {
   "title": "Потому что мы - банда!",
-  "date": "2009-03-28T00:14:00+03:00",
+  "date": "2009-03-27T23:14:33+03:00",
   "url": "/news/potomu-chto-my-banda/",
+  "aliases": [
+    "/node/795/"
+  ],
   "original_url": "http://spidermedia.ru/news/potomu-chto-my-banda",
   "archived": "https://web.archive.org/web/20120718215937/http://spidermedia.ru/news/potomu-chto-my-banda",
   "tags": [
@@ -11,7 +14,14 @@
     "dzhon-romita-ml",
     "komiksy",
     "mark-millar",
-    "oblozhki"
+    "oblozhki",
+    "icon-comics",
+    "art"
+  ],
+  "modx_id": 795,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

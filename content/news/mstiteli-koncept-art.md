@@ -1,6 +1,6 @@
 {
   "title": "\"Мстители\": завершенный концепт-арт",
-  "date": "2011-07-24T23:48:00+03:00",
+  "date": "2011-07-24T22:48:07+03:00",
   "url": "/news/mstiteli-koncept-art/",
   "original_url": "https://spidermedia.ru/news/mstiteli-koncept-art",
   "archived": "https://web.archive.org/web/20241106123159/https://spidermedia.ru/news/mstiteli-koncept-art",
@@ -8,7 +8,14 @@
     "koncept-art",
     "art-0",
     "marvel",
-    "avengers"
+    "avengers",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20241106123159im_/http://spidermedia.ru/assets/images/import_image/6520.jpg",
+  "modx_id": 6520,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

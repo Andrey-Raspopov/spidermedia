@@ -1,6 +1,6 @@
 {
   "title": "SDCC'10: Marvel Studios - Рукавица Бесконечности",
-  "date": "2010-07-26T12:48:00+03:00",
+  "date": "2010-07-26T11:48:10+03:00",
   "url": "/news/sdcc10-marvel-studios-rukavica-beskonechnosti/",
   "original_url": "http://spidermedia.ru/news/sdcc10-marvel-studios-rukavica-beskonechnosti",
   "archived": "https://web.archive.org/web/20200223130136/http://spidermedia.ru:80/news/sdcc10-marvel-studios-rukavica-beskonechnosti",
@@ -9,6 +9,12 @@
     "san-diego-comic-con-international",
     "marvel",
     "infinity-gauntlet"
+  ],
+  "cover": "https://web.archive.org/web/20200223130136im_/http://spidermedia.ru/assets/images/import_image/2802.jpg",
+  "modx_id": 2802,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,12 +1,21 @@
 {
   "title": "Большой кусок комикса \"Обитаемый Остров\" (обновлено)",
-  "date": "2009-09-21T21:36:00+03:00",
+  "date": "2009-09-21T20:36:32+03:00",
   "url": "/blog/sterpazook/bolshoy-kusok-komiksa-obitaemyy-ostrov-obnovleno/",
+  "aliases": [
+    "/node/1892/"
+  ],
   "original_url": "https://spidermedia.ru/blog/sterpazook/bolshoy-kusok-komiksa-obitaemyy-ostrov-obnovleno",
   "archived": "https://web.archive.org/web/20240920183106/https://spidermedia.ru/blog/sterpazook/bolshoy-kusok-komiksa-obitaemyy-ostrov-obnovleno",
   "tags": [
     "russian-comics",
     "obitaemyj-ostrov"
+  ],
+  "cover": "https://web.archive.org/web/20240920183106im_/http://spidermedia.ru/assets/images/import_image/1892.jpg",
+  "modx_id": 1892,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

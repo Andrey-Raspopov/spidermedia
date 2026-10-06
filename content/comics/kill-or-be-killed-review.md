@@ -9,6 +9,12 @@
     "ed-brubaker",
     "image-comics"
   ],
+  "cover": "https://web.archive.org/web/20260313113329im_/http://spidermedia.ru/assets/images/reviews/image/kill-or-be-killed-1-14/1-1.jpg",
+  "modx_id": 101750,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

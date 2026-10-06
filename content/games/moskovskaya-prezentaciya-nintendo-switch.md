@@ -4,6 +4,12 @@
   "url": "/games/moskovskaya-prezentaciya-nintendo-switch/",
   "original_url": "http://spidermedia.ru/games/moskovskaya-prezentaciya-nintendo-switch",
   "archived": "https://web.archive.org/web/20200806140329/http://spidermedia.ru/games/moskovskaya-prezentaciya-nintendo-switch",
+  "cover": "https://web.archive.org/web/20170909163725im_/http://spidermedia.ru/assets/images/games/moskovskaya-prezentaciya-nintendo-switch/swit7.png",
+  "modx_id": 101480,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

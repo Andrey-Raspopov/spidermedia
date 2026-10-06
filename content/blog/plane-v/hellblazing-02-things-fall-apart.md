@@ -1,6 +1,6 @@
 {
   "title": "HELLBLAZING 02 - THINGS FALL APART",
-  "date": "2012-06-11T15:08:00+03:00",
+  "date": "2012-06-11T14:08:28+03:00",
   "url": "/blog/plane-v/hellblazing-02-things-fall-apart/",
   "original_url": "https://spidermedia.ru/blog/plane-v/hellblazing-02-things-fall-apart",
   "archived": "https://web.archive.org/web/20260211101852/https://spidermedia.ru/blog/plane-v/hellblazing-02-things-fall-apart",
@@ -11,6 +11,12 @@
     "vertigo",
     "hellblazing",
     "hellblazer"
+  ],
+  "cover": "https://web.archive.org/web/20160611143839im_/http://spidermedia.ru/assets/images/import_image/6925.jpg",
+  "modx_id": 6925,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

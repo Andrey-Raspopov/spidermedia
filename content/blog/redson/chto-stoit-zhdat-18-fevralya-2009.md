@@ -1,6 +1,6 @@
 {
   "title": "Что стоит ждать 18 февраля 2009",
-  "date": "2009-02-15T16:50:00+03:00",
+  "date": "2009-02-15T15:50:57+03:00",
   "url": "/blog/redson/chto-stoit-zhdat-18-fevralya-2009/",
   "original_url": "http://spidermedia.ru/blog/redson/chto-stoit-zhdat-18-fevralya-2009",
   "archived": "https://web.archive.org/web/20120608154104/http://spidermedia.ru/blog/redson/chto-stoit-zhdat-18-fevralya-2009",
@@ -8,6 +8,11 @@
     "komiksy",
     "mnenie",
     "chto-stoit-zhdat"
+  ],
+  "modx_id": 376,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

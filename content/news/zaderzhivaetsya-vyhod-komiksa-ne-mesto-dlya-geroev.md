@@ -1,12 +1,18 @@
 {
   "title": "Задерживается выход комикса \"Не место для героев\"",
-  "date": "2013-09-25T13:44:00+03:00",
+  "date": "2013-09-25T12:44:01+03:00",
   "url": "/news/zaderzhivaetsya-vyhod-komiksa-ne-mesto-dlya-geroev/",
   "original_url": "https://spidermedia.ru/news/zaderzhivaetsya-vyhod-komiksa-ne-mesto-dlya-geroev",
   "archived": "https://web.archive.org/web/20250322062430/https://spidermedia.ru/news/zaderzhivaetsya-vyhod-komiksa-ne-mesto-dlya-geroev",
   "tags": [
     "russian-comics",
     "ne-mesto-dlya-geroev"
+  ],
+  "cover": "https://web.archive.org/web/20250322062430im_/http://spidermedia.ru/assets/images/import_image/7483.jpg",
+  "modx_id": 7483,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -9,6 +9,12 @@
     "batman",
     "superman"
   ],
+  "cover": "https://web.archive.org/web/20160618173200im_/http://spidermedia.ru/assets/images/movies/dc/batman-v-superman-dawn-of-justice-2016/batman-v-superman.jpg",
+  "modx_id": 100808,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

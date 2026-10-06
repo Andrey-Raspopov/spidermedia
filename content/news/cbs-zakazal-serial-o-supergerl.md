@@ -1,12 +1,18 @@
 {
   "title": "CBS заказал сериал о Супергерл",
-  "date": "2014-09-19T21:17:00+03:00",
+  "date": "2014-09-19T20:17:05+03:00",
   "url": "/news/cbs-zakazal-serial-o-supergerl/",
   "original_url": "http://spidermedia.ru/news/cbs-zakazal-serial-o-supergerl",
   "archived": "https://web.archive.org/web/20250120015601/http://spidermedia.ru/news/cbs-zakazal-serial-o-supergerl",
   "tags": [
     "dc-comics",
     "supergirl"
+  ],
+  "cover": "https://web.archive.org/web/20250120015601im_/http://spidermedia.ru/assets/images/import_image/8080.jpg",
+  "modx_id": 8080,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

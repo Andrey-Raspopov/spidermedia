@@ -1,13 +1,22 @@
 {
   "title": "Image 2010 - Choker",
-  "date": "2009-07-27T23:49:00+03:00",
+  "date": "2009-07-27T22:49:07+03:00",
   "url": "/blog/deadpoolic/image-2010-choker/",
+  "aliases": [
+    "/node/1678/"
+  ],
   "original_url": "https://spidermedia.ru/blog/deadpoolic/image-2010-choker",
   "archived": "https://web.archive.org/web/20260307063353/https://spidermedia.ru/blog/deadpoolic/image-2010-choker",
   "tags": [
     "preview",
     "image-comics",
     "ben-templsmit"
+  ],
+  "cover": "https://web.archive.org/web/20260307063353im_/http://spidermedia.ru/assets/images/import_image/1678.jpg",
+  "modx_id": 1678,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

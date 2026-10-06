@@ -1,6 +1,6 @@
 {
   "title": "Not Dead",
-  "date": "2010-03-20T18:06:00+03:00",
+  "date": "2010-03-20T18:06:11+03:00",
   "url": "/news/not-dead/",
   "original_url": "https://spidermedia.ru/news/not-dead",
   "archived": "https://web.archive.org/web/20260125051558/https://spidermedia.ru/news/not-dead",
@@ -9,6 +9,12 @@
     "muzyka",
     "kiron-gillen",
     "boom-studios"
+  ],
+  "cover": "https://web.archive.org/web/20260125051558im_/http://spidermedia.ru/assets/images/import_image/2466.jpg",
+  "modx_id": 2466,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

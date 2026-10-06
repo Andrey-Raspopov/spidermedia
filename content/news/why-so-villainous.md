@@ -1,7 +1,10 @@
 {
   "title": "Why so villainous?",
-  "date": "2009-12-05T05:52:00+03:00",
+  "date": "2009-12-05T05:52:18+03:00",
   "url": "/news/why-so-villainous/",
+  "aliases": [
+    "/node/2151/"
+  ],
   "original_url": "https://spidermedia.ru/news/why-so-villainous",
   "archived": "https://web.archive.org/web/20250324061138/https://spidermedia.ru/news/why-so-villainous",
   "tags": [
@@ -12,11 +15,17 @@
     "marvel",
     "icon-comics"
   ],
+  "cover": "https://web.archive.org/web/20250324061138im_/http://spidermedia.ru/assets/images/import_image/2151.jpg",
+  "modx_id": 2151,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-Не так давно нам [показали какие-то буквы на чёрном фоне](../../node/2043/#comments) и сказали, что это новый проект **Марка Миллара** (*Mark Millar*) и **Стива МакНивена** (*Steve McNiven*) для **Marvel**. Оказалось, что последнее не совсем так: **Nemesis** будет авторским проектом, выпущенным на импринте **Icon**, как и милларовский же **Kick-Ass**. Таким образом можно быть спокойными, в этот раз **Капитан Америка** (*Captain America*) ни при чём, а при чём... Бэтмен?
+Не так давно нам [показали какие-то буквы на чёрном фоне](../ti-reks-venom-protiv-somaliyskih-piratov/#comments) и сказали, что это новый проект **Марка Миллара** (*Mark Millar*) и **Стива МакНивена** (*Steve McNiven*) для **Marvel**. Оказалось, что последнее не совсем так: **Nemesis** будет авторским проектом, выпущенным на импринте **Icon**, как и милларовский же **Kick-Ass**. Таким образом можно быть спокойными, в этот раз **Капитан Америка** (*Captain America*) ни при чём, а при чём... Бэтмен?
 
 [![Photobucket](https://web.archive.org/web/20250324061138im_/http://i3.photobucket.com/albums/y65/Carnage_vl/phpThumbphp-1.jpg)](http://i3.photobucket.com/albums/y65/Carnage_vl/1259885401.jpg?t=1259979648)
 

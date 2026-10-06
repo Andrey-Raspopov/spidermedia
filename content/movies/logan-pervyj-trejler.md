@@ -10,6 +10,12 @@
     "x-men",
     "wolverine"
   ],
+  "cover": "https://web.archive.org/web/20180211224256im_/http://spidermedia.ru/assets/images/news/movies/_marvel/logan/cvjnkgzvyaa_fce.jpg",
+  "modx_id": 101381,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

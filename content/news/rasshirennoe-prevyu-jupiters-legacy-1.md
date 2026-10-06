@@ -1,6 +1,6 @@
 {
   "title": "Расширенное превью JUPITER'S LEGACY #1",
-  "date": "2013-02-06T11:04:00+03:00",
+  "date": "2013-02-06T10:04:46+03:00",
   "url": "/news/rasshirennoe-prevyu-jupiters-legacy-1/",
   "original_url": "https://spidermedia.ru/news/rasshirennoe-prevyu-jupiters-legacy-1",
   "archived": "https://web.archive.org/web/20251107040928/https://spidermedia.ru/news/rasshirennoe-prevyu-jupiters-legacy-1",
@@ -8,7 +8,14 @@
     "mark-millar",
     "frenk-kuajtli",
     "image-comics",
-    "preview"
+    "preview",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20251107040928im_/http://spidermedia.ru/assets/images/import_image/7138.jpg",
+  "modx_id": 7138,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

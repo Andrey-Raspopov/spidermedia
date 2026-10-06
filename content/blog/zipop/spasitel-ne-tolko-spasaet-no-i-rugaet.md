@@ -1,12 +1,21 @@
 {
   "title": "Спаситель не только спасает, но и ругает.",
-  "date": "2009-02-03T14:12:00+03:00",
+  "date": "2009-02-03T14:12:48+03:00",
   "url": "/blog/zipop/spasitel-ne-tolko-spasaet-no-i-rugaet/",
+  "aliases": [
+    "/node/143/"
+  ],
   "original_url": "http://spidermedia.ru/blog/zipop/spasitel-ne-tolko-spasaet-no-i-rugaet",
   "archived": "https://web.archive.org/web/20210125232233/http://spidermedia.ru/blog/zipop/spasitel-ne-tolko-spasaet-no-i-rugaet",
   "tags": [
     "kristian-bejl",
     "terminator"
+  ],
+  "cover": "https://web.archive.org/web/20210125232233im_/http://spidermedia.ru/assets/images/import_image/143.jpg",
+  "modx_id": 143,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

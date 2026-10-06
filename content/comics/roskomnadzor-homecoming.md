@@ -9,6 +9,12 @@
     "roskomnadzor",
     "russian-comics"
   ],
+  "cover": "https://web.archive.org/web/20260312022451im_/http://spidermedia.ru/assets/images/roskomnadzor/2016/2904/welcome-home-green.jpg",
+  "modx_id": 101122,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
@@ -96,7 +102,7 @@
 
 [![](http://spidermedia.ru/assets/images/roskomnadzor/2016/2904/43.jpg)](http://spidermedia.ru/assets/images/roskomnadzor/2016/2904/43.jpg)
 
-Издательство **«Фантастика книжный клуб»** совсем недавно [выпустило «Посланника»](https://web.archive.org/web/20260123072428id_/https://spidermedia.ru/comics/recenziya-poslannik.-kniga-1-olovyannye-zvezdy) (почитайте текст Андрея!), а **«Черная наука»** уже вот-вот к нему присоединится.
+Издательство **«Фантастика книжный клуб»** совсем недавно [выпустило «Посланника»](../recenziya-poslannik.-kniga-1-olovyannye-zvezdy/) (почитайте текст Андрея!), а **«Черная наука»** уже вот-вот к нему присоединится.
 
 [![](http://spidermedia.ru/assets/images/roskomnadzor/2016/2904/65.jpg)](http://spidermedia.ru/assets/images/roskomnadzor/2016/2904/65.jpg)
 

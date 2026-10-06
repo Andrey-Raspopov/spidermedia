@@ -11,6 +11,12 @@
     "dzhon-romita-ml",
     "mark-millar"
   ],
+  "cover": "https://web.archive.org/web/20180112154932im_/http://spidermedia.ru/assets/images/news/kick_ass_p_2016.jpg",
+  "modx_id": 101237,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

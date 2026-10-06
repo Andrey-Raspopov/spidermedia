@@ -7,6 +7,12 @@
   "tags": [
     "muzyka"
   ],
+  "cover": "https://web.archive.org/web/20170909053138im_/http://spidermedia.ru/assets/images/games/protomen/2.jpg",
+  "modx_id": 100418,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,6 +1,6 @@
 {
   "title": "Superior: Не смейте обижать Марка Миллара",
-  "date": "2012-01-19T00:17:00+03:00",
+  "date": "2012-01-18T23:17:08+03:00",
   "url": "/blog/samm-o/superior-ne-smeyte-obizhat-marka-millara/",
   "original_url": "https://spidermedia.ru/blog/samm-o/superior-ne-smeyte-obizhat-marka-millara",
   "archived": "https://web.archive.org/web/20260314082926/https://spidermedia.ru/blog/samm-o/superior-ne-smeyte-obizhat-marka-millara",
@@ -8,6 +8,12 @@
     "superior",
     "icon-comics",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20160629051444im_/http://spidermedia.ru/assets/images/import_image/6759.jpg",
+  "modx_id": 6759,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

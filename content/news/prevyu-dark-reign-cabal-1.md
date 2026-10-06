@@ -1,7 +1,10 @@
 {
   "title": "Превью Dark Reign: The Cabal #1",
-  "date": "2009-04-24T17:53:00+03:00",
+  "date": "2009-04-24T16:53:15+03:00",
   "url": "/news/prevyu-dark-reign-cabal-1/",
+  "aliases": [
+    "/node/1047/"
+  ],
   "original_url": "http://spidermedia.ru/news/prevyu-dark-reign-cabal-1",
   "archived": "https://web.archive.org/web/20250324170846/http://spidermedia.ru/news/prevyu-dark-reign-cabal-1",
   "tags": [
@@ -21,7 +24,14 @@
     "the-cabal",
     "zagovorshhiki",
     "adi-granov",
-    "kajl-hotz"
+    "kajl-hotz",
+    "prevyu",
+    "mett-frakshen"
+  ],
+  "modx_id": 1047,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

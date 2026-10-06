@@ -7,6 +7,12 @@
   "tags": [
     "manga"
   ],
+  "cover": "https://web.archive.org/web/20251115033354im_/http://spidermedia.ru/assets/images/manga/others/fairy-tail/mzk.jpg",
+  "modx_id": 101931,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,6 +1,6 @@
 {
   "title": "Комиксы DC Universe. Выпуск № 23",
-  "date": "2010-03-16T17:08:00+03:00",
+  "date": "2010-03-16T17:08:42+03:00",
   "url": "/blog/derden/komiksy-dc-universe-vypusk-no-23/",
   "original_url": "http://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-23",
   "archived": "https://web.archive.org/web/20260211184046/http://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-23",
@@ -9,6 +9,12 @@
     "dc-comics",
     "geoff-johns",
     "dc-universe-comics"
+  ],
+  "cover": "https://web.archive.org/web/20260211184046im_/http://spidermedia.ru/assets/images/import_image/2447.jpg",
+  "modx_id": 2447,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,13 +1,20 @@
 {
   "title": "МЖДЗ: X-MEN: SCHISM #1",
-  "date": "2011-07-14T16:54:00+03:00",
+  "date": "2011-07-14T15:54:05+03:00",
   "url": "/blog/redson/mzhdz-x-men-schism-1/",
   "original_url": "http://spidermedia.ru/blog/redson/mzhdz-x-men-schism-1",
   "archived": "https://web.archive.org/web/20251116060554/http://spidermedia.ru/blog/redson/mzhdz-x-men-schism-1",
   "tags": [
     "mnenie",
     "mzhdz",
-    "x-men"
+    "x-men",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20160716124133im_/http://spidermedia.ru/assets/images/import_image/6497.png",
+  "modx_id": 6497,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

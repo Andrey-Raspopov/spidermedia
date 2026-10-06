@@ -1,6 +1,6 @@
 {
   "title": "Матерщина Бэйла в стиле техно",
-  "date": "2009-02-04T21:31:00+03:00",
+  "date": "2009-02-04T20:31:31+03:00",
   "url": "/blog/sterpazook/matershchina-beyla-v-stile-tehno/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/matershchina-beyla-v-stile-tehno",
   "archived": "https://web.archive.org/web/20120607055133/http://spidermedia.ru/blog/sterpazook/matershchina-beyla-v-stile-tehno",
@@ -8,7 +8,13 @@
     "video",
     "kristian-beyl",
     "muzyka",
-    "yumor"
+    "yumor",
+    "kristian-bejl"
+  ],
+  "modx_id": 186,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

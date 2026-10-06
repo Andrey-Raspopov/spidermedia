@@ -1,11 +1,17 @@
 {
   "title": "Hellboymedia: Анонсы на Апрель ’15",
-  "date": "2015-01-15T14:12:00+03:00",
+  "date": "2015-01-15T14:12:40+03:00",
   "url": "/news/hellboymedia-relizy-aprelya-15/",
   "original_url": "http://spidermedia.ru/news/hellboymedia-relizy-aprelya-15",
   "archived": "https://web.archive.org/web/20260117220347/http://spidermedia.ru/news/hellboymedia-relizy-aprelya-15",
   "tags": [
     "hellboymedia"
+  ],
+  "cover": "https://web.archive.org/web/20160611203629im_/http://spidermedia.ru/assets/images/hellboymedia/solicitations/15-04-april/april-15-solicitations-cover.jpg",
+  "modx_id": 8508,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

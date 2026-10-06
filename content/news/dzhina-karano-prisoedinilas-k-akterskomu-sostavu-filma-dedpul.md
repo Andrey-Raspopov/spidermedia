@@ -1,6 +1,6 @@
 {
   "title": "Джина Карано присоединилась к актерскому составу фильма «Дэдпул»",
-  "date": "2015-02-13T23:54:00+03:00",
+  "date": "2015-02-13T23:54:36+03:00",
   "url": "/news/dzhina-karano-prisoedinilas-k-akterskomu-sostavu-filma-dedpul/",
   "original_url": "https://spidermedia.ru/news/dzhina-karano-prisoedinilas-k-akterskomu-sostavu-filma-dedpul",
   "archived": "https://web.archive.org/web/20260309180710/https://spidermedia.ru/news/dzhina-karano-prisoedinilas-k-akterskomu-sostavu-filma-dedpul",
@@ -8,6 +8,12 @@
     "marvel",
     "kasting",
     "deadpool"
+  ],
+  "cover": "https://web.archive.org/web/20150326095507im_/http://spidermedia.ru/assets/images/import_image/8613.jpg",
+  "modx_id": 8613,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,9 +1,18 @@
 {
   "title": "Best of 2010 .1 - Прорывы и поражения",
-  "date": "2010-12-26T01:43:00+03:00",
+  "date": "2010-12-26T01:43:30+03:00",
   "url": "/blog/plane-v/best-2010-1-proryvy-i-porazheniya/",
+  "aliases": [
+    "/node/3137/"
+  ],
   "original_url": "http://spidermedia.ru/blog/plane-v/best-2010-1-proryvy-i-porazheniya",
   "archived": "https://web.archive.org/web/20230601000841/http://spidermedia.ru/blog/plane-v/best-2010-1-proryvy-i-porazheniya",
+  "cover": "https://web.archive.org/web/20220714022704im_/https://spidermedia.ru/assets/images/import_image/3137.jpg",
+  "modx_id": 3137,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,6 +1,6 @@
 {
   "title": "ЭКСКЛЮЗИВ: Вариантная обложка «Инок №28» для магазина «Чук и Гик»",
-  "date": "2015-01-09T14:39:00+03:00",
+  "date": "2015-01-09T14:39:06+03:00",
   "url": "/news/eksklyuziv-variantnaya-oblozhka-inok-no28-dlya-magazina-chuk-i-gik-0/",
   "original_url": "https://spidermedia.ru/news/eksklyuziv-variantnaya-oblozhka-inok-no28-dlya-magazina-chuk-i-gik-0",
   "archived": "https://web.archive.org/web/20250617233208/https://spidermedia.ru/news/eksklyuziv-variantnaya-oblozhka-inok-no28-dlya-magazina-chuk-i-gik-0",
@@ -8,6 +8,12 @@
     "bubble",
     "inok",
     "russian-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150326032930im_/http://spidermedia.ru/assets/images/import_image/8478.jpg",
+  "modx_id": 8478,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

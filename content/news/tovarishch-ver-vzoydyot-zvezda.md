@@ -1,12 +1,18 @@
 {
   "title": "Товарищ верь, взойдёт звезда",
-  "date": "2012-03-13T09:19:00+03:00",
+  "date": "2012-03-13T08:19:36+03:00",
   "url": "/news/tovarishch-ver-vzoydyot-zvezda/",
   "original_url": "http://spidermedia.ru/news/tovarishch-ver-vzoydyot-zvezda",
   "archived": "https://web.archive.org/web/20260214132401/http://spidermedia.ru/news/tovarishch-ver-vzoydyot-zvezda",
   "tags": [
     "captain-marvel",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20260214132401im_/http://spidermedia.ru/assets/images/import_image/6827.jpg",
+  "modx_id": 6827,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

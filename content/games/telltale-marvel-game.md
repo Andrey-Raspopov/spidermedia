@@ -7,6 +7,12 @@
   "tags": [
     "marvel"
   ],
+  "cover": "https://web.archive.org/web/20160611222623im_/http://spidermedia.ru/assets/images/news/marvel/marvel-ttg-650px-c22e4.jpg",
+  "modx_id": 100174,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

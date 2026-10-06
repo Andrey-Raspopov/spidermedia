@@ -1,7 +1,10 @@
 {
   "title": "X-Men: Legacy - новый старт!",
-  "date": "2009-04-16T12:20:00+03:00",
+  "date": "2009-04-16T11:20:10+03:00",
   "url": "/news/x-men-legacy-novyy-start/",
+  "aliases": [
+    "/node/951/"
+  ],
   "original_url": "https://spidermedia.ru/news/x-men-legacy-novyy-start",
   "archived": "https://web.archive.org/web/20251205125133/https://spidermedia.ru/news/x-men-legacy-novyy-start",
   "tags": [
@@ -13,7 +16,14 @@
     "roug",
     "shelma",
     "denzher",
-    "legacy"
+    "legacy",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20251205125133im_/http://spidermedia.ru/assets/images/import_image/951.jpg",
+  "modx_id": 951,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -9,6 +9,12 @@
     "roskomnadzor",
     "russian-comics"
   ],
+  "cover": "https://web.archive.org/web/20180201211447im_/http://spidermedia.ru/assets/images/roskomnadzor/2016/0912/0-future.jpg",
+  "modx_id": 101437,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

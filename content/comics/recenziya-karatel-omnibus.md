@@ -8,6 +8,12 @@
     "fanzon",
     "zarubezhnye-komiksy-na-russkom"
   ],
+  "cover": "https://web.archive.org/web/20251216125828im_/http://spidermedia.ru/assets/images/news/images/oleg-lyfar/review/punisher-omnibus/cover.jpg",
+  "modx_id": 102086,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

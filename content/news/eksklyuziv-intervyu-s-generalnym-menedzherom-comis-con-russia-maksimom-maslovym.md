@@ -1,12 +1,18 @@
 {
   "title": "ЭКСКЛЮЗИВ: Интервью с генеральным менеджером Comiс Con Russia Максимом Масловым",
-  "date": "2014-08-14T16:01:00+03:00",
+  "date": "2014-08-14T15:01:39+03:00",
   "url": "/news/eksklyuziv-intervyu-s-generalnym-menedzherom-comis-con-russia-maksimom-maslovym/",
   "original_url": "http://spidermedia.ru/news/eksklyuziv-intervyu-s-generalnym-menedzherom-comis-con-russia-maksimom-maslovym",
   "archived": "https://web.archive.org/web/20251116065704/http://spidermedia.ru/news/eksklyuziv-intervyu-s-generalnym-menedzherom-comis-con-russia-maksimom-maslovym",
   "tags": [
     "intervyu",
     "comic-con-russia"
+  ],
+  "cover": "https://web.archive.org/web/20251116065704im_/http://spidermedia.ru/assets/images/import_image/7990.jpg",
+  "modx_id": 7990,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

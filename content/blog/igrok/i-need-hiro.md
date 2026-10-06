@@ -1,13 +1,22 @@
 {
   "title": "I need a Hiro",
-  "date": "2009-02-02T01:02:00+03:00",
+  "date": "2009-02-02T01:02:23+03:00",
   "url": "/blog/igrok/i-need-hiro/",
+  "aliases": [
+    "/node/92/"
+  ],
   "original_url": "https://spidermedia.ru/blog/igrok/i-need-hiro",
   "archived": "https://web.archive.org/web/20240911131815/https://spidermedia.ru/blog/igrok/i-need-hiro",
   "tags": [
     "mnenie",
     "heroes",
-    "serialy"
+    "serialy",
+    "tv"
+  ],
+  "modx_id": 92,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

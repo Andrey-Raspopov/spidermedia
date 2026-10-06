@@ -1,7 +1,10 @@
 {
   "title": "Наташа фром Раша",
-  "date": "2010-01-09T03:55:00+03:00",
+  "date": "2010-01-09T03:55:54+03:00",
   "url": "/news/natasha-rasha/",
+  "aliases": [
+    "/node/2231/"
+  ],
   "original_url": "https://spidermedia.ru/news/natasha-rasha",
   "archived": "https://web.archive.org/web/20260208195552/https://spidermedia.ru/news/natasha-rasha",
   "tags": [
@@ -9,6 +12,12 @@
     "mardzhori-lyu",
     "daniel-akunya",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20260208195552im_/http://spidermedia.ru/assets/images/import_image/2231.jpg",
+  "modx_id": 2231,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

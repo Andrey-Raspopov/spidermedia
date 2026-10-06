@@ -7,6 +7,12 @@
   "tags": [
     "jellyfish-jam"
   ],
+  "cover": "https://web.archive.org/web/20230930003259im_/http://spidermedia.ru/assets/images/reviews/jellyfish/mouse-guard-vol-1/ugz50x0urc4.jpg",
+  "modx_id": 101723,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

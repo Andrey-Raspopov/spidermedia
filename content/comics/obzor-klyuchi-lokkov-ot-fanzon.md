@@ -9,6 +9,12 @@
     "gabriel-rodriguez",
     "joe-hill"
   ],
+  "cover": "https://web.archive.org/web/20260211094445im_/http://spidermedia.ru/assets/images/reviews/fanzon/locke-and-key/01/oblozhka.jpg",
+  "modx_id": 102036,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

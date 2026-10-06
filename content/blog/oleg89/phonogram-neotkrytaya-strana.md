@@ -1,6 +1,6 @@
 {
   "title": "Phonogram: Неоткрытая страна",
-  "date": "2015-01-19T14:08:00+03:00",
+  "date": "2015-01-19T14:08:08+03:00",
   "url": "/blog/oleg89/phonogram-neotkrytaya-strana/",
   "original_url": "http://spidermedia.ru/blog/oleg89/phonogram-neotkrytaya-strana",
   "archived": "https://web.archive.org/web/20260117230158/http://spidermedia.ru/blog/oleg89/phonogram-neotkrytaya-strana",
@@ -8,6 +8,12 @@
     "kiron-gillen",
     "dzheymi-makkelvi",
     "image-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150326160141im_/http://spidermedia.ru/assets/images/import_image/8519.jpg",
+  "modx_id": 8519,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

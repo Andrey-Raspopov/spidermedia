@@ -1,9 +1,15 @@
 {
   "title": "Чук и Гик: первые выводы",
-  "date": "2011-02-01T13:55:00+03:00",
+  "date": "2011-02-01T13:55:33+03:00",
   "url": "/blog/vch/chuk-n-geek-pervye-vyvody/",
   "original_url": "http://spidermedia.ru/blog/vch/chuk-n-geek-pervye-vyvody",
   "archived": "https://web.archive.org/web/20200130232655/http://spidermedia.ru:80/blog/vch/chuk-n-geek-pervye-vyvody",
+  "cover": "https://web.archive.org/web/20200130232655im_/http://spidermedia.ru/assets/images/import_image/3202.jpg",
+  "modx_id": 3202,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

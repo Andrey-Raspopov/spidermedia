@@ -1,12 +1,17 @@
 {
   "title": "I never read the first 40 years of Batman",
-  "date": "2011-06-03T15:35:00+03:00",
+  "date": "2011-06-03T14:35:27+03:00",
   "url": "/blog/sir-carnage/i-never-read-first-40-years-batman/",
   "original_url": "http://spidermedia.ru/blog/sir-carnage/i-never-read-first-40-years-batman",
   "archived": "https://web.archive.org/web/20250524063829/http://spidermedia.ru/blog/sir-carnage/i-never-read-first-40-years-batman",
   "tags": [
     "yumor",
     "dc-comics"
+  ],
+  "modx_id": 6242,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

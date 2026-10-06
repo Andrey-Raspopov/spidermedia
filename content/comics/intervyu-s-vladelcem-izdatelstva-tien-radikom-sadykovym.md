@@ -9,6 +9,12 @@
     "tien-print",
     "intervyu"
   ],
+  "cover": "https://web.archive.org/web/20220923001559im_/https://spidermedia.ru/assets/images/interview/tien-radik-sadykov/radik.jpg",
+  "modx_id": 100820,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

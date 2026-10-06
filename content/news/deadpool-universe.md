@@ -1,7 +1,10 @@
 {
   "title": "Deadpool Universe",
-  "date": "2010-01-13T02:53:00+03:00",
+  "date": "2010-01-13T02:53:15+03:00",
   "url": "/news/deadpool-universe/",
+  "aliases": [
+    "/node/2251/"
+  ],
   "original_url": "http://spidermedia.ru/news/deadpool-universe",
   "archived": "https://web.archive.org/web/20251209143353/http://spidermedia.ru/news/deadpool-universe",
   "tags": [
@@ -14,7 +17,14 @@
     "deadpool",
     "art-0",
     "marvel",
-    "cable"
+    "cable",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20251209143353im_/http://spidermedia.ru/assets/images/import_image/2251.jpg",
+  "modx_id": 2251,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

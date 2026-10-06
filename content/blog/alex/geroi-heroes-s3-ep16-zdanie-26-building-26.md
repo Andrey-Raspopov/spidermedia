@@ -1,12 +1,22 @@
 {
   "title": "Герои\\Heroes s3 ep.16 - \"Здание 26\"\\\"Building 26\"",
-  "date": "2009-02-19T09:11:00+03:00",
+  "date": "2009-02-19T09:11:39+03:00",
   "url": "/blog/alex/geroi-heroes-s3-ep16-zdanie-26-building-26/",
+  "aliases": [
+    "/node/437/"
+  ],
   "original_url": "http://spidermedia.ru/blog/alex/geroi-heroes-s3-ep16-zdanie-26-building-26",
   "archived": "https://web.archive.org/web/20201028171126/http://spidermedia.ru/blog/alex/geroi-heroes-s3-ep16-zdanie-26-building-26",
   "tags": [
     "serialy",
-    "heroes"
+    "heroes",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20201028171126im_/http://spidermedia.ru/assets/images/import_image/437.gif",
+  "modx_id": 437,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

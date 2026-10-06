@@ -1,7 +1,10 @@
 {
   "title": "Что приготовило 4ое марта для Чёрной Пантеры и Тайных Воинов Ника Фьюри?",
-  "date": "2009-02-28T15:49:00+03:00",
+  "date": "2009-02-28T14:49:19+03:00",
   "url": "/news/chto-prigotovilo-4oe-marta-dlya-chyornoy-pantery-i-taynyh-voinov-nika-fyuri/",
+  "aliases": [
+    "/node/544/"
+  ],
   "original_url": "http://spidermedia.ru/news/chto-prigotovilo-4oe-marta-dlya-chyornoy-pantery-i-taynyh-voinov-nika-fyuri",
   "archived": "https://web.archive.org/web/20120607184158/http://spidermedia.ru/news/chto-prigotovilo-4oe-marta-dlya-chyornoy-pantery-i-taynyh-voinov-nika-fyuri",
   "tags": [
@@ -13,7 +16,15 @@
     "preview-s",
     "taynye-voiny",
     "tyomnye-mstiteli",
-    "chyornaya-pantera"
+    "chyornaya-pantera",
+    "tajnye-voiny",
+    "prevyu",
+    "avengers"
+  ],
+  "modx_id": 544,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

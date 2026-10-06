@@ -8,6 +8,12 @@
     "zarubezhnye-komiksy-na-russkom",
     "komilfo"
   ],
+  "cover": "https://web.archive.org/web/20221116194231im_/http://spidermedia.ru/assets/images/reviews/komilfo/1.jpg",
+  "modx_id": 100443,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

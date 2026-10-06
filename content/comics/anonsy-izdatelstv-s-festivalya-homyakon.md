@@ -8,6 +8,12 @@
     "zarubezhnye-komiksy-na-russkom",
     "russian-comics"
   ],
+  "cover": "https://web.archive.org/web/20241213054604im_/http://spidermedia.ru/assets/images/xomyakon/anonsu/12.jpg",
+  "modx_id": 100992,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

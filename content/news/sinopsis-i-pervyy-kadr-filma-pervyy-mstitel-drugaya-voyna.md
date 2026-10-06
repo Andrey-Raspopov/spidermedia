@@ -1,6 +1,6 @@
 {
   "title": "Синопсис и первый кадр фильма \"Первый Мститель: Другая война\"",
-  "date": "2013-04-08T21:45:00+03:00",
+  "date": "2013-04-08T20:45:14+03:00",
   "url": "/news/sinopsis-i-pervyy-kadr-filma-pervyy-mstitel-drugaya-voyna/",
   "original_url": "http://spidermedia.ru/news/sinopsis-i-pervyy-kadr-filma-pervyy-mstitel-drugaya-voyna",
   "archived": "https://web.archive.org/web/20250807230740/http://spidermedia.ru/news/sinopsis-i-pervyy-kadr-filma-pervyy-mstitel-drugaya-voyna",
@@ -8,6 +8,12 @@
     "marvel",
     "winter-soldier",
     "s.h.i.e.l.d"
+  ],
+  "cover": "https://web.archive.org/web/20250807230740im_/http://spidermedia.ru/assets/images/import_image/7188.jpg",
+  "modx_id": 7188,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

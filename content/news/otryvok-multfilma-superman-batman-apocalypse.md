@@ -1,6 +1,6 @@
 {
   "title": "Отрывок мультфильма \"Superman/Batman: Apocalypse\"",
-  "date": "2010-09-15T23:27:00+03:00",
+  "date": "2010-09-15T22:27:13+03:00",
   "url": "/news/otryvok-multfilma-superman-batman-apocalypse/",
   "original_url": "http://spidermedia.ru/news/otryvok-multfilma-superman-batman-apocalypse",
   "archived": "https://web.archive.org/web/20251115032734/http://spidermedia.ru/news/otryvok-multfilma-superman-batman-apocalypse",
@@ -9,6 +9,11 @@
     "dc-comics",
     "superman",
     "batman"
+  ],
+  "modx_id": 2917,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

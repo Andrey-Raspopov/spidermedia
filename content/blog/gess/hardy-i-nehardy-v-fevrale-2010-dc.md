@@ -1,13 +1,22 @@
 {
   "title": "Харды и нехарды в феврале 2010 – DC",
-  "date": "2010-02-28T20:38:00+03:00",
+  "date": "2010-02-28T20:38:07+03:00",
   "url": "/blog/gess/hardy-i-nehardy-v-fevrale-2010-dc/",
+  "aliases": [
+    "/node/2406/"
+  ],
   "original_url": "https://spidermedia.ru/blog/gess/hardy-i-nehardy-v-fevrale-2010-dc",
   "archived": "https://web.archive.org/web/20250116125607/https://spidermedia.ru/blog/gess/hardy-i-nehardy-v-fevrale-2010-dc",
   "tags": [
     "handnh",
     "dc-comics",
     "vertigo"
+  ],
+  "cover": "https://web.archive.org/web/20250116125607im_/http://spidermedia.ru/assets/images/import_image/2406.png",
+  "modx_id": 2406,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

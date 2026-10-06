@@ -7,6 +7,12 @@
   "tags": [
     "dc-comics"
   ],
+  "cover": "https://web.archive.org/web/20260309183058im_/http://spidermedia.ru/assets/images/reviews/dc/heroes-in-crisis/01/1.jpg",
+  "modx_id": 102026,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

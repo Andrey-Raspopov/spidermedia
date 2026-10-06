@@ -1,9 +1,15 @@
 {
   "title": "Майор Гром",
-  "date": "2016-12-03T00:00:00+00:00",
+  "date": "2016-11-28T14:52:00+03:00",
   "url": "/movies-index/bubble-comics-major-grom-movie-2016/",
   "original_url": "http://spidermedia.ru/movies-index/bubble-comics-major-grom-movie-2016",
   "archived": "https://web.archive.org/web/20250419061454/http://spidermedia.ru/movies-index/bubble-comics-major-grom-movie-2016",
+  "cover": "https://web.archive.org/web/20250419061454im_/http://spidermedia.ru/assets/images/movies/russian/major-grom/major-grom-movie-variant-cover-kinooblozhka.jpg",
+  "modx_id": 101420,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
@@ -20,18 +26,18 @@ Major Grom
 
 Последние новости
 
-[![](https://web.archive.org/web/20161030110120im_/http://spidermedia.ru/assets/cache/images/news/bubble/grom/303x200-untitled-2.c45.jpg)](https://web.archive.org/web/20250806084439id_/https://spidermedia.ru/movies/major-grom.-vyhodnoj-pervyj-trejler)
+[![](https://web.archive.org/web/20161030110120im_/http://spidermedia.ru/assets/cache/images/news/bubble/grom/303x200-untitled-2.c45.jpg)](../../movies/major-grom.-vyhodnoj-pervyj-trejler/)
 
 [КИНО / Bubble](https://web.archive.org/web/20250803235739/http://spidermedia.ru/movies?tag=bubble)
 
-[«Майор Гром. Выходной»: первый трейлер](https://web.archive.org/web/20250806084439id_/https://spidermedia.ru/movies/major-grom.-vyhodnoj-pervyj-trejler)
+[«Майор Гром. Выходной»: первый трейлер](../../movies/major-grom.-vyhodnoj-pervyj-trejler/)
 
 05.10.2016, 11:49 — Ольга Щербинина
 
 Трейлер первой экранизации российского комикса!
 
 4962
-[15](https://web.archive.org/web/20250806084439id_/https://spidermedia.ru/movies/major-grom.-vyhodnoj-pervyj-trejler)
+[15](../../movies/major-grom.-vyhodnoj-pervyj-trejler/#disqus_thread)
 
 [![](https://spidermedia.ru/assets/cache/images/movies/russian/major-grom/280x400-major-grom-movie-variant-cover-kinooblozhka.1ea.jpg)](https://spidermedia.ru/assets/images/movies/russian/major-grom/major-grom-movie-variant-cover-kinooblozhka.jpg)
 

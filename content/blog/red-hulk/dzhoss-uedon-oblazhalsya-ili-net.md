@@ -1,11 +1,19 @@
 {
   "title": "Джосс Уэдон облажался или нет?",
-  "date": "2009-03-14T21:41:00+03:00",
+  "date": "2009-03-14T20:41:05+03:00",
   "url": "/blog/red-hulk/dzhoss-uedon-oblazhalsya-ili-net/",
+  "aliases": [
+    "/node/681/"
+  ],
   "original_url": "http://spidermedia.ru/blog/red-hulk/dzhoss-uedon-oblazhalsya-ili-net",
   "archived": "https://web.archive.org/web/20120608213853/http://spidermedia.ru/blog/red-hulk/dzhoss-uedon-oblazhalsya-ili-net",
   "tags": [
     "dzhoss-uedon"
+  ],
+  "modx_id": 681,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

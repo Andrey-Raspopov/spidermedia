@@ -1,11 +1,17 @@
 {
   "title": "График выхода фильмов Марвел до 2019 года",
-  "date": "2014-10-28T21:17:00+03:00",
+  "date": "2014-10-28T21:17:19+03:00",
   "url": "/news/make-mine-marvel-0/",
   "original_url": "http://spidermedia.ru/news/make-mine-marvel-0",
   "archived": "https://web.archive.org/web/20251211023814/http://spidermedia.ru/news/make-mine-marvel-0",
   "tags": [
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150325235513im_/http://spidermedia.ru/assets/images/import_image/8234.jpg",
+  "modx_id": 8234,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

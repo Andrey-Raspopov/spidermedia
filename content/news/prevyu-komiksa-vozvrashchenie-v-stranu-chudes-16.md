@@ -1,6 +1,6 @@
 {
   "title": "Превью комикса \"Возвращение в Страну Чудес\" (16+)",
-  "date": "2013-08-28T13:40:00+03:00",
+  "date": "2013-08-28T12:40:30+03:00",
   "url": "/news/prevyu-komiksa-vozvrashchenie-v-stranu-chudes-16/",
   "original_url": "http://spidermedia.ru/news/prevyu-komiksa-vozvrashchenie-v-stranu-chudes-16",
   "archived": "https://web.archive.org/web/20190907233504/http://spidermedia.ru:80/news/prevyu-komiksa-vozvrashchenie-v-stranu-chudes-16",
@@ -8,6 +8,12 @@
     "lavka-komiksov-apelsin",
     "zenescope-entertainment",
     "zarubezhnye-komiksy-na-russkom"
+  ],
+  "cover": "https://web.archive.org/web/20190907233504im_/http://spidermedia.ru/assets/images/import_image/7440.jpg",
+  "modx_id": 7440,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

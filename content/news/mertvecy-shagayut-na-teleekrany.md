@@ -1,7 +1,10 @@
 {
   "title": "Мертвецы шагают на телеэкраны",
-  "date": "2009-08-12T12:31:00+03:00",
+  "date": "2009-08-12T11:31:05+03:00",
   "url": "/news/mertvecy-shagayut-na-teleekrany/",
+  "aliases": [
+    "/node/1768/"
+  ],
   "original_url": "http://spidermedia.ru/news/mertvecy-shagayut-na-teleekrany",
   "archived": "https://web.archive.org/web/20120610035932/http://spidermedia.ru/news/mertvecy-shagayut-na-teleekrany",
   "tags": [
@@ -9,7 +12,15 @@
     "kino",
     "komiksy",
     "robert-kirkman",
-    "serialy"
+    "serialy",
+    "tv",
+    "the-walking-dead"
+  ],
+  "cover": "https://web.archive.org/web/20120610035932im_/http://spidermedia.ru/assets/images/import_image/1768.jpg",
+  "modx_id": 1768,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

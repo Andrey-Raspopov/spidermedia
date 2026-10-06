@@ -1,12 +1,18 @@
 {
   "title": "Декомпресс, my ass",
-  "date": "2011-11-23T23:17:00+03:00",
+  "date": "2011-11-23T22:17:32+03:00",
   "url": "/blog/samm-o/dekompress-my-ass/",
   "original_url": "https://spidermedia.ru/blog/samm-o/dekompress-my-ass",
   "archived": "https://web.archive.org/web/20260125121334/https://spidermedia.ru/blog/samm-o/dekompress-my-ass",
   "tags": [
     "the-walking-dead",
     "image-comics"
+  ],
+  "cover": "https://web.archive.org/web/20260125121334im_/http://spidermedia.ru/assets/images/import_image/6710.jpg",
+  "modx_id": 6710,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

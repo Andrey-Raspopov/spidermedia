@@ -1,6 +1,6 @@
 {
   "title": "Новое железо - новый человек",
-  "date": "2012-03-03T06:12:00+03:00",
+  "date": "2012-03-03T05:12:27+03:00",
   "url": "/news/novoe-zhelezo-novyy-chelovek/",
   "original_url": "https://spidermedia.ru/news/novoe-zhelezo-novyy-chelovek",
   "archived": "https://web.archive.org/web/20251207012856/https://spidermedia.ru/news/novoe-zhelezo-novyy-chelovek",
@@ -8,7 +8,16 @@
     "dzhonatan-hikman",
     "marvel",
     "iron-man",
-    "fantastic-four"
+    "fantastic-four",
+    "zheleznyy-chelovek",
+    "invincible-iron-man",
+    "fantasticheskaya-chetverka"
+  ],
+  "cover": "https://web.archive.org/web/20251207012856im_/http://spidermedia.ru/assets/images/import_image/6812.jpg",
+  "modx_id": 6812,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

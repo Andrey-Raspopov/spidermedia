@@ -1,7 +1,10 @@
 {
   "title": "Фэн-фильм \"Batman: Ashes to Ashes\"",
-  "date": "2009-06-07T18:10:00+03:00",
+  "date": "2009-06-07T17:10:59+03:00",
   "url": "/blog/sterpazook/fen-film-batman-ashes-ashes/",
+  "aliases": [
+    "/node/1374/"
+  ],
   "original_url": "http://spidermedia.ru/blog/sterpazook/fen-film-batman-ashes-ashes",
   "archived": "https://web.archive.org/web/20120607074420/http://spidermedia.ru/blog/sterpazook/fen-film-batman-ashes-ashes",
   "tags": [
@@ -14,6 +17,12 @@
     "komiksy",
     "skachat",
     "fanstaff"
+  ],
+  "cover": "https://web.archive.org/web/20120607074420im_/http://spidermedia.ru/assets/images/import_image/1374.gif",
+  "modx_id": 1374,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

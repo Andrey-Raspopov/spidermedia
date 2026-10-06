@@ -1,12 +1,18 @@
 {
   "title": "Отрывок фильма \"Зелёный Фонарь\" - \"Параллакс\"",
-  "date": "2011-06-08T13:15:00+03:00",
+  "date": "2011-06-08T12:15:27+03:00",
   "url": "/news/otryvok-filma-zelyonyy-fonar-parallaks/",
   "original_url": "https://spidermedia.ru/news/otryvok-filma-zelyonyy-fonar-parallaks",
   "archived": "https://web.archive.org/web/20260125124414/https://spidermedia.ru/news/otryvok-filma-zelyonyy-fonar-parallaks",
   "tags": [
     "dc-comics",
     "green-lantern"
+  ],
+  "cover": "https://web.archive.org/web/20260125124414im_/http://spidermedia.ru/assets/images/import_image/6371.jpg",
+  "modx_id": 6371,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

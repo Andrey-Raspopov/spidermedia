@@ -1,6 +1,6 @@
 {
   "title": "Рецензия на фильм «Чем дальше в лес...»",
-  "date": "2014-12-19T15:32:00+03:00",
+  "date": "2014-12-19T15:32:37+03:00",
   "url": "/blog/transistor/recenziya-na-film-chem-dalshe-v-les-0/",
   "original_url": "https://spidermedia.ru/blog/transistor/recenziya-na-film-chem-dalshe-v-les-0",
   "archived": "https://web.archive.org/web/20251116054056/https://spidermedia.ru/blog/transistor/recenziya-na-film-chem-dalshe-v-les-0",
@@ -9,6 +9,12 @@
     "myuzikl",
     "obzor",
     "recenziya"
+  ],
+  "cover": "https://web.archive.org/web/20150326204510im_/http://spidermedia.ru/assets/images/import_image/8405.jpg",
+  "modx_id": 8405,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

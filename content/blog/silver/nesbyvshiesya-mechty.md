@@ -1,12 +1,18 @@
 {
   "title": "Несбывшиеся мечты",
-  "date": "2010-02-21T21:58:00+03:00",
+  "date": "2010-02-21T21:58:06+03:00",
   "url": "/blog/silver/nesbyvshiesya-mechty/",
   "original_url": "http://spidermedia.ru/blog/silver/nesbyvshiesya-mechty",
   "archived": "https://web.archive.org/web/20190731040712/http://spidermedia.ru:80/blog/silver/nesbyvshiesya-mechty",
   "tags": [
     "nesbyvshiesya-mechty",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20190731040712im_/http://spidermedia.ru/assets/images/import_image/2391.jpg",
+  "modx_id": 2391,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

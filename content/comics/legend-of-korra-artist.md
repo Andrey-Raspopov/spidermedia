@@ -6,7 +6,14 @@
   "archived": "https://web.archive.org/web/20260211190453/http://spidermedia.ru/comics/legend-of-korra-artist",
   "tags": [
     "komik-kon-v-nyu-yorke",
-    "dark-horse"
+    "dark-horse",
+    "nycc-2015"
+  ],
+  "cover": "https://web.archive.org/web/20160611084725im_/http://spidermedia.ru/assets/images/comic-con/2015/nycc/image.jpg",
+  "modx_id": 100644,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,11 +1,17 @@
 {
   "title": "Image, ты просто космос!",
-  "date": "2014-06-12T12:04:00+03:00",
+  "date": "2014-06-12T11:04:03+03:00",
   "url": "/news/image-ty-prosto-kosmos/",
   "original_url": "https://spidermedia.ru/news/image-ty-prosto-kosmos",
   "archived": "https://web.archive.org/web/20260307054644/https://spidermedia.ru/news/image-ty-prosto-kosmos",
   "tags": [
     "image-comics"
+  ],
+  "cover": "https://web.archive.org/web/20260307054644im_/http://spidermedia.ru/assets/images/import_image/7811.jpg",
+  "modx_id": 7811,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

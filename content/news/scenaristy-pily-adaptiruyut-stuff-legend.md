@@ -1,12 +1,18 @@
 {
   "title": "Сценаристы \"Пилы\" адаптируют The Stuff of Legend",
-  "date": "2013-10-11T12:51:00+03:00",
+  "date": "2013-10-11T11:51:46+03:00",
   "url": "/news/scenaristy-pily-adaptiruyut-stuff-legend/",
   "original_url": "http://spidermedia.ru/news/scenaristy-pily-adaptiruyut-stuff-legend",
   "archived": "https://web.archive.org/web/20200128044843/http://spidermedia.ru:80/news/scenaristy-pily-adaptiruyut-stuff-legend",
   "tags": [
     "th3rd-world",
     "stuff-of-legend"
+  ],
+  "cover": "https://web.archive.org/web/20200128044843im_/http://spidermedia.ru/assets/images/import_image/7497.jpg",
+  "modx_id": 7497,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

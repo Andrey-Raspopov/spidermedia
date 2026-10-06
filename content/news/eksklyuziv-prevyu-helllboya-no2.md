@@ -1,6 +1,6 @@
 {
   "title": "ЭКСКЛЮЗИВ: Превью \"Хелллбоя\" №2",
-  "date": "2013-07-03T11:31:00+03:00",
+  "date": "2013-07-03T10:31:31+03:00",
   "url": "/news/eksklyuziv-prevyu-helllboya-no2/",
   "original_url": "http://spidermedia.ru/news/eksklyuziv-prevyu-helllboya-no2",
   "archived": "https://web.archive.org/web/20250913022744/http://spidermedia.ru/news/eksklyuziv-prevyu-helllboya-no2",
@@ -11,6 +11,12 @@
     "zarubezhnye-komiksy-na-russkom",
     "hellboy",
     "dark-horse"
+  ],
+  "cover": "https://web.archive.org/web/20250913022744im_/http://spidermedia.ru/assets/images/import_image/7312.png",
+  "modx_id": 7312,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

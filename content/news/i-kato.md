@@ -1,6 +1,6 @@
 {
   "title": "И Като",
-  "date": "2012-10-08T18:35:00+03:00",
+  "date": "2012-10-08T17:35:34+03:00",
   "url": "/news/i-kato/",
   "original_url": "http://spidermedia.ru/news/i-kato",
   "archived": "https://web.archive.org/web/20260116213622/http://spidermedia.ru/news/i-kato",
@@ -9,6 +9,12 @@
     "dynamite-entertainment",
     "zelenyj-shershen",
     "green-hornet"
+  ],
+  "cover": "https://web.archive.org/web/20150424123636im_/http://spidermedia.ru/assets/images/import_image/7048.jpg",
+  "modx_id": 7048,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

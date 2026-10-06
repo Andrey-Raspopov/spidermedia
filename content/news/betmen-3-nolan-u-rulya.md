@@ -1,7 +1,10 @@
 {
   "title": "\"Бэтмен 3\": Нолан у руля",
-  "date": "2010-10-01T01:26:00+03:00",
+  "date": "2010-10-01T00:26:31+03:00",
   "url": "/news/betmen-3-nolan-u-rulya/",
+  "aliases": [
+    "/node/2959/"
+  ],
   "original_url": "http://spidermedia.ru/news/betmen-3-nolan-u-rulya",
   "archived": "https://web.archive.org/web/20120609022110/http://spidermedia.ru/news/betmen-3-nolan-u-rulya",
   "tags": [
@@ -11,6 +14,12 @@
     "kino",
     "komiksy",
     "kristofer-nolan"
+  ],
+  "cover": "https://web.archive.org/web/20120609022110im_/http://spidermedia.ru/assets/images/import_image/2959.jpg",
+  "modx_id": 2959,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

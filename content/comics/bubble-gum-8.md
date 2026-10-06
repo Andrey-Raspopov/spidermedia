@@ -8,6 +8,12 @@
     "bubble",
     "russian-comics"
   ],
+  "cover": "https://web.archive.org/web/20210826104249im_/http://spidermedia.ru/assets/images/bubblegum/8/zastavka.jpg",
+  "modx_id": 101664,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

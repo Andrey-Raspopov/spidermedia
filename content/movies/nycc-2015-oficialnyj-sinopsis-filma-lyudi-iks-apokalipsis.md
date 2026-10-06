@@ -8,7 +8,14 @@
     "marvel",
     "komik-kon-v-nyu-yorke",
     "x-men",
-    "apokalipsis"
+    "apokalipsis",
+    "nycc-2015"
+  ],
+  "cover": "https://web.archive.org/web/20260208202902im_/http://spidermedia.ru/assets/images/movies/marvel/x-men-apocalypse-movie-2016/xmandms.jpg",
+  "modx_id": 100652,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

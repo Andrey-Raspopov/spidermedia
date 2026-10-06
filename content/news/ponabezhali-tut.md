@@ -1,7 +1,10 @@
 {
   "title": "Понабежали тут",
-  "date": "2009-02-18T15:09:00+03:00",
+  "date": "2009-02-18T15:09:46+03:00",
   "url": "/news/ponabezhali-tut/",
+  "aliases": [
+    "/node/424/"
+  ],
   "original_url": "http://spidermedia.ru/news/ponabezhali-tut",
   "archived": "https://web.archive.org/web/20251205115500/http://spidermedia.ru/news/ponabezhali-tut",
   "tags": [
@@ -15,6 +18,12 @@
     "sara-pichelli",
     "kris-jost",
     "beglecy"
+  ],
+  "cover": "https://web.archive.org/web/20251205115500im_/http://spidermedia.ru/assets/images/import_image/424.jpg",
+  "modx_id": 424,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

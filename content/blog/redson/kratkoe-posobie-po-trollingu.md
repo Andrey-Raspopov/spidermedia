@@ -1,12 +1,18 @@
 {
   "title": "Краткое пособие по троллингу",
-  "date": "2010-04-28T14:35:00+03:00",
+  "date": "2010-04-28T13:35:00+03:00",
   "url": "/blog/redson/kratkoe-posobie-po-trollingu/",
   "original_url": "http://spidermedia.ru/blog/redson/kratkoe-posobie-po-trollingu",
   "archived": "https://web.archive.org/web/20190915022054/http://spidermedia.ru:80/blog/redson/kratkoe-posobie-po-trollingu",
   "tags": [
     "trolling",
     "someone-is-wrong-on-the-internet"
+  ],
+  "cover": "https://web.archive.org/web/20190915022054im_/http://spidermedia.ru/assets/images/import_image/2588.gif",
+  "modx_id": 2588,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

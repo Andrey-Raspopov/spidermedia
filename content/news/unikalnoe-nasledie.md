@@ -1,6 +1,6 @@
 {
   "title": "Уникальное наследие",
-  "date": "2011-08-17T01:14:00+03:00",
+  "date": "2011-08-17T00:14:06+03:00",
   "url": "/news/unikalnoe-nasledie/",
   "original_url": "http://spidermedia.ru/news/unikalnoe-nasledie",
   "archived": "https://web.archive.org/web/20250906082951/http://spidermedia.ru/news/unikalnoe-nasledie",
@@ -8,7 +8,14 @@
     "khoj-fam",
     "karlos-pacheko",
     "x-men",
-    "marvel"
+    "marvel",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20250906082951im_/http://spidermedia.ru/assets/images/import_image/6566.jpg",
+  "modx_id": 6566,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

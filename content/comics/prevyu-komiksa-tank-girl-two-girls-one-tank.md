@@ -7,6 +7,12 @@
   "tags": [
     "titan-comics"
   ],
+  "cover": "https://web.archive.org/web/20160715115231im_/http://spidermedia.ru/assets/images/newgallery/gallery622/TankGirl_2G1T_1_Cover_C.jpg",
+  "modx_id": 101002,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

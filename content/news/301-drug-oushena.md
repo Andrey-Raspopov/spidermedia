@@ -1,6 +1,6 @@
 {
   "title": "301 друг Оушена",
-  "date": "2009-06-26T12:24:00+03:00",
+  "date": "2009-06-26T11:24:10+03:00",
   "url": "/news/301-drug-oushena/",
   "original_url": "http://spidermedia.ru/news/301-drug-oushena",
   "archived": "https://web.archive.org/web/20120608171600/http://spidermedia.ru/news/301-drug-oushena",
@@ -9,6 +9,12 @@
     "zak-snayder",
     "komiksy",
     "frenk-miller"
+  ],
+  "cover": "https://web.archive.org/web/20120608171600im_/http://spidermedia.ru/assets/images/import_image/1484.jpg",
+  "modx_id": 1484,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

@@ -1,12 +1,18 @@
 {
   "title": "Самый новый Человек-Паук: первые кастинговые слухи",
-  "date": "2015-02-11T18:47:00+03:00",
+  "date": "2015-02-11T18:47:25+03:00",
   "url": "/news/samyy-novyy-chelovek-pauk-pervye-kastingovye-sluhi/",
   "original_url": "http://spidermedia.ru/news/samyy-novyy-chelovek-pauk-pervye-kastingovye-sluhi",
   "archived": "https://web.archive.org/web/20260125123611/http://spidermedia.ru/news/samyy-novyy-chelovek-pauk-pervye-kastingovye-sluhi",
   "tags": [
     "spider-man",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150326062310im_/http://spidermedia.ru/assets/images/import_image/8606.jpg",
+  "modx_id": 8606,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

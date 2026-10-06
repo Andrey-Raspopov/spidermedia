@@ -1,7 +1,10 @@
 {
   "title": "Охота на ведьму",
-  "date": "2010-04-19T14:02:00+03:00",
+  "date": "2010-04-19T13:02:18+03:00",
   "url": "/news/ohota-na-vedmu/",
+  "aliases": [
+    "/node/2559/"
+  ],
   "original_url": "http://spidermedia.ru/news/ohota-na-vedmu",
   "archived": "https://web.archive.org/web/20250913014031/http://spidermedia.ru/news/ohota-na-vedmu",
   "tags": [
@@ -11,6 +14,12 @@
     "marvel",
     "scarlet-witch",
     "allan-hajnberg"
+  ],
+  "cover": "https://web.archive.org/web/20250913014031im_/http://spidermedia.ru/assets/images/import_image/2559.jpg",
+  "modx_id": 2559,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

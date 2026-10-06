@@ -1,11 +1,17 @@
 {
   "title": "\"Хроники Чедрика #0\" и \"Автор - Комиксы: Девятое Искусство\".",
-  "date": "2009-11-02T16:14:00+03:00",
+  "date": "2009-11-02T16:14:47+03:00",
   "url": "/blog/alex/hroniki-chedrika-0-i-avtor-komiksy-devyatoe-iskusstvo/",
   "original_url": "http://spidermedia.ru/blog/alex/hroniki-chedrika-0-i-avtor-komiksy-devyatoe-iskusstvo",
   "archived": "https://web.archive.org/web/20190907233721/http://spidermedia.ru:80/blog/alex/hroniki-chedrika-0-i-avtor-komiksy-devyatoe-iskusstvo",
   "tags": [
     "obzor"
+  ],
+  "cover": "https://web.archive.org/web/20190907233721im_/http://spidermedia.ru/assets/images/import_image/2050.jpg",
+  "modx_id": 2050,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

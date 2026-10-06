@@ -1,7 +1,10 @@
 {
   "title": "рецензия - The Invisibles",
-  "date": "2009-06-13T21:40:00+03:00",
+  "date": "2009-06-13T20:40:51+03:00",
   "url": "/blog/bastion7/recenziya-invisibles/",
+  "aliases": [
+    "/node/1413/"
+  ],
   "original_url": "http://spidermedia.ru/blog/bastion7/recenziya-invisibles",
   "archived": "https://web.archive.org/web/20251206152141/http://spidermedia.ru/blog/bastion7/recenziya-invisibles",
   "tags": [
@@ -10,6 +13,12 @@
     "grant-morrison",
     "vertigo",
     "filip-tan"
+  ],
+  "cover": "https://web.archive.org/web/20251206152141im_/http://spidermedia.ru/assets/images/import_image/1413.jpg",
+  "modx_id": 1413,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

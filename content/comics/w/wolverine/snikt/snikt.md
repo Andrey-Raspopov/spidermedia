@@ -4,6 +4,9 @@
   "url": "/comics/w/wolverine/snikt/snikt/",
   "original_url": "http://spidermedia.ru/comics/w/wolverine/snikt/snikt.html",
   "archived": "https://web.archive.org/web/20050108022907/http://spidermedia.ru:80/comics/w/wolverine/snikt/snikt.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "cp1251 (guessed)"
 }

@@ -1,6 +1,6 @@
 {
   "title": "Европейские каникулы",
-  "date": "2010-10-06T22:31:00+03:00",
+  "date": "2010-10-06T21:31:38+03:00",
   "url": "/news/evropeyskie-kanikuly/",
   "original_url": "https://spidermedia.ru/news/evropeyskie-kanikuly",
   "archived": "https://web.archive.org/web/20251216124508/https://spidermedia.ru/news/evropeyskie-kanikuly",
@@ -12,7 +12,14 @@
     "brian-azzarello",
     "art-0",
     "dc-comics",
-    "batman"
+    "batman",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20251216124508im_/http://spidermedia.ru/assets/images/import_image/2975.jpg",
+  "modx_id": 2975,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

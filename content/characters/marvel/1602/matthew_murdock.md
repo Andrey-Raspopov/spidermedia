@@ -4,6 +4,9 @@
   "url": "/characters/marvel/1602/matthew_murdock/",
   "original_url": "http://www.spidermedia.ru/characters/marvel/1602/matthew_murdock.html",
   "archived": "https://web.archive.org/web/20050313113557/http://www.spidermedia.ru:80/characters/marvel/1602/matthew_murdock.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

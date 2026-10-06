@@ -9,6 +9,12 @@
     "viktorina",
     "guardians-of-the-galaxy"
   ],
+  "cover": "https://web.archive.org/web/20170728202800im_/http://spidermedia.ru/assets/images/baby_groot.0.jpg",
+  "modx_id": 101549,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

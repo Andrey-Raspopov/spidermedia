@@ -1,9 +1,15 @@
 {
   "title": "Сорвиголова",
-  "date": "2015-03-20T00:00:00+00:00",
+  "date": "2016-01-06T22:01:00+03:00",
   "url": "/tv-index/marvel-daredevil-2015-tv-series-netflix/",
   "original_url": "http://spidermedia.ru/tv-index/marvel-daredevil-2015-tv-series-netflix",
   "archived": "https://web.archive.org/web/20150320031350/http://spidermedia.ru/tv-index/marvel-daredevil-2015-tv-series-netflix",
+  "cover": "https://web.archive.org/web/20150320031350im_/http://spidermedia.ru/assets/images/tv/marvel/daredevil/12525571_1720957711473798_4489177249886597130_o.jpg",
+  "modx_id": 100061,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

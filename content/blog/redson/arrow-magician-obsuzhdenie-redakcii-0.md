@@ -1,12 +1,18 @@
 {
   "title": "Обсуждение редакции: Arrow — The Magician",
-  "date": "2014-10-30T19:51:00+03:00",
+  "date": "2014-10-30T19:51:20+03:00",
   "url": "/blog/redson/arrow-magician-obsuzhdenie-redakcii-0/",
   "original_url": "http://spidermedia.ru/blog/redson/arrow-magician-obsuzhdenie-redakcii-0",
   "archived": "https://web.archive.org/web/20250807220410/http://spidermedia.ru/blog/redson/arrow-magician-obsuzhdenie-redakcii-0",
   "tags": [
     "dc-comics",
     "green-arrow"
+  ],
+  "cover": "https://web.archive.org/web/20250807220410im_/http://spidermedia.ru/assets/images/import_image/8243.jpg",
+  "modx_id": 8243,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -4,6 +4,9 @@
   "url": "/games_list/",
   "original_url": "http://spidermedia.ru/games_list.html",
   "archived": "https://web.archive.org/web/20041211042743/http://spidermedia.ru:80/games_list.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

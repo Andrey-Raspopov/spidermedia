@@ -1,7 +1,10 @@
 {
   "title": "Hellion: Requiem?",
-  "date": "2009-03-04T21:42:00+03:00",
+  "date": "2009-03-04T20:42:45+03:00",
   "url": "/news/hellion-requiem/",
+  "aliases": [
+    "/node/587/"
+  ],
   "original_url": "http://spidermedia.ru/news/hellion-requiem",
   "archived": "https://web.archive.org/web/20120607165957/http://spidermedia.ru/news/hellion-requiem",
   "tags": [
@@ -13,7 +16,13 @@
     "bastion-0",
     "gellion",
     "komiksy",
-    "marvel"
+    "marvel",
+    "lyudi-iks"
+  ],
+  "modx_id": 587,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"
@@ -23,7 +32,7 @@
 
 Тем временем сам сюжет истории посвящен тому, как оставшихся после **Дня М** *(Day M)* мутантов, заражают измененным **Вирусом Наследия** *(Legacy Virus)*, превращая их в ходячие бомбы - силы мутантов выходят из под контроля, убивая не только самого мутанта, но и сотни людей вокруг него.
 
-Ужасная участь! Особенно в свете того, что мы уже однажды [писали](../../node/206/) о том, что **Геллион** *(Hellion)* - один из самых интересных героев закрытой серии **New X-Men v2** - вернется именно в **X-Force #13**. Судя по превью его ожидает не самая лучшая судьба. Впрочем как знать - возможно герой не только выживет, но и войдет в состав **X-Force**. Все возможно...
+Ужасная участь! Особенно в свете того, что мы уже однажды [писали](../lyudi-iks-plany-na-budushchee/) о том, что **Геллион** *(Hellion)* - один из самых интересных героев закрытой серии **New X-Men v2** - вернется именно в **X-Force #13**. Судя по превью его ожидает не самая лучшая судьба. Впрочем как знать - возможно герой не только выживет, но и войдет в состав **X-Force**. Все возможно...
 
 ]]>[![](https://web.archive.org/web/20120607165957im_/http://www.marvel.com/i/content/st/7029new_storyimage5584551_thumb.jpg)](http://www.marvel.com/i/content/st/7029new_storyimage5584551.jpg)]]> ]]>[![](https://web.archive.org/web/20120607165957im_/http://www.marvel.com/i/content/st/7029new_storyimage5584610_thumb.jpg)](http://www.marvel.com/i/content/st/7029new_storyimage5584610.jpg)]]> ]]>[![](https://web.archive.org/web/20120607165957im_/http://www.marvel.com/i/content/st/7029new_storyimage5584662_thumb.jpg)](http://www.marvel.com/i/content/st/7029new_storyimage5584662.jpg)]]> ]]>[![](https://web.archive.org/web/20120607165957im_/http://www.marvel.com/i/content/st/7029new_storyimage5584688_thumb.jpg)](http://www.marvel.com/i/content/st/7029new_storyimage5584688.jpg)]]> ]]>[![](https://web.archive.org/web/20120607165957im_/http://www.marvel.com/i/content/st/7029new_storyimage5584731_thumb.jpg)](http://www.marvel.com/i/content/st/7029new_storyimage5584731.jpg)]]>
 

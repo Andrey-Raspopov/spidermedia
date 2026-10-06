@@ -7,6 +7,12 @@
   "tags": [
     "roskomnadzor"
   ],
+  "cover": "https://web.archive.org/web/20241009213035im_/http://spidermedia.ru/assets/images/roskomnadzor/2016/0411/hildaandtroll1-.jpg",
+  "modx_id": 101399,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

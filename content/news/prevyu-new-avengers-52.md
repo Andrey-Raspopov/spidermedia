@@ -1,6 +1,6 @@
 {
   "title": "Превью New Avengers #52",
-  "date": "2009-04-16T23:17:00+03:00",
+  "date": "2009-04-16T22:17:19+03:00",
   "url": "/news/prevyu-new-avengers-52/",
   "original_url": "https://spidermedia.ru/news/prevyu-new-avengers-52",
   "archived": "https://web.archive.org/web/20260214135524/https://spidermedia.ru/news/prevyu-new-avengers-52",
@@ -10,7 +10,14 @@
     "brian-michael-bendis",
     "billi-tan",
     "marvel",
-    "avengers"
+    "avengers",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20260214135524im_/http://spidermedia.ru/assets/images/import_image/966.jpg",
+  "modx_id": 966,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

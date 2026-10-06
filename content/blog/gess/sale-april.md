@@ -1,12 +1,18 @@
 {
   "title": "On Sale in April",
-  "date": "2009-05-30T03:09:00+03:00",
+  "date": "2009-05-30T02:09:25+03:00",
   "url": "/blog/gess/sale-april/",
   "original_url": "http://spidermedia.ru/blog/gess/sale-april",
   "archived": "https://web.archive.org/web/20190212203105/http://spidermedia.ru:80/blog/gess/sale-april",
   "tags": [
     "mnenie",
     "on-sale-this-week"
+  ],
+  "cover": "https://web.archive.org/web/20190212203105im_/http://spidermedia.ru/assets/images/import_image/1305.jpg",
+  "modx_id": 1305,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

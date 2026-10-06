@@ -4,6 +4,9 @@
   "url": "/gallery/gall_ross01/",
   "original_url": "http://www.spidermedia.ru/gallery/gall_ross01.html",
   "archived": "https://web.archive.org/web/20050208113030/http://www.spidermedia.ru:80/gallery/gall_ross01.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

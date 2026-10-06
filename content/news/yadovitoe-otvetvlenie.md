@@ -1,12 +1,21 @@
 {
   "title": "Ядовитое ответвление",
-  "date": "2009-10-09T01:48:00+03:00",
+  "date": "2009-10-09T00:48:38+03:00",
   "url": "/news/yadovitoe-otvetvlenie/",
+  "aliases": [
+    "/node/1974/"
+  ],
   "original_url": "https://spidermedia.ru/news/yadovitoe-otvetvlenie",
   "archived": "https://web.archive.org/web/20241113213323/https://spidermedia.ru/news/yadovitoe-otvetvlenie",
   "tags": [
     "venom",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20241113213323im_/http://spidermedia.ru/assets/images/import_image/1974.jpg",
+  "modx_id": 1974,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

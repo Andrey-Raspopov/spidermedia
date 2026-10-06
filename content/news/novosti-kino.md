@@ -1,7 +1,10 @@
 {
   "title": "Новости кино",
-  "date": "2010-01-07T23:43:00+03:00",
+  "date": "2010-01-07T23:43:58+03:00",
   "url": "/news/novosti-kino/",
+  "aliases": [
+    "/node/2229/"
+  ],
   "original_url": "http://spidermedia.ru/news/novosti-kino",
   "archived": "https://web.archive.org/web/20150320091821/http://spidermedia.ru/news/novosti-kino",
   "tags": [
@@ -9,7 +12,14 @@
     "zelyonyj-fonar",
     "mettyu-von",
     "kick-ass",
-    "tor"
+    "tor",
+    "green-lantern"
+  ],
+  "cover": "https://web.archive.org/web/20150326221346im_/http://spidermedia.ru/assets/images/import_image/2229.jpg",
+  "modx_id": 2229,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

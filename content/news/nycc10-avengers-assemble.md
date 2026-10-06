@@ -1,6 +1,6 @@
 {
   "title": "NYCC'10: Avengers Assemble",
-  "date": "2010-10-10T02:32:00+03:00",
+  "date": "2010-10-10T01:32:50+03:00",
   "url": "/news/nycc10-avengers-assemble/",
   "original_url": "http://spidermedia.ru/news/nycc10-avengers-assemble",
   "archived": "https://web.archive.org/web/20251018224808/http://spidermedia.ru/news/nycc10-avengers-assemble",
@@ -10,7 +10,14 @@
     "nycc-2010",
     "new-york-comic-con",
     "marvel",
-    "avengers"
+    "avengers",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20251018224808im_/http://spidermedia.ru/assets/images/import_image/2987.jpg",
+  "modx_id": 2987,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

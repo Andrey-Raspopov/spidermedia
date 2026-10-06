@@ -1,13 +1,21 @@
 {
   "title": "Клюква",
-  "date": "2009-08-08T22:58:00+03:00",
+  "date": "2009-08-08T21:58:18+03:00",
   "url": "/blog/trupoed/klyukva/",
+  "aliases": [
+    "/node/1746/"
+  ],
   "original_url": "http://spidermedia.ru/blog/trupoed/klyukva",
   "archived": "https://web.archive.org/web/20260125070819/http://spidermedia.ru/blog/trupoed/klyukva",
   "tags": [
     "klyukva",
     "kartinki",
     "sal-abbinanti"
+  ],
+  "modx_id": 1746,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -4,6 +4,12 @@
   "url": "/games/nintendo-switch-announced/",
   "original_url": "http://spidermedia.ru/games/nintendo-switch-announced",
   "archived": "https://web.archive.org/web/20260117221717/http://spidermedia.ru/games/nintendo-switch-announced",
+  "cover": "https://web.archive.org/web/20170908070655im_/http://spidermedia.ru/assets/images/games/svitch.png",
+  "modx_id": 101382,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

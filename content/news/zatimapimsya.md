@@ -1,7 +1,10 @@
 {
   "title": "Затимапимся",
-  "date": "2009-09-20T19:59:00+03:00",
+  "date": "2009-09-20T18:59:08+03:00",
   "url": "/news/zatimapimsya/",
+  "aliases": [
+    "/node/1914/"
+  ],
   "original_url": "http://spidermedia.ru/news/zatimapimsya",
   "archived": "https://web.archive.org/web/20251207093838/http://spidermedia.ru/news/zatimapimsya",
   "tags": [
@@ -11,13 +14,19 @@
     "gerkules",
     "art-0",
     "marvel",
-    "hercules"
+    "hercules",
+    "art"
+  ],
+  "modx_id": 1914,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[Ранее](../../node/1738/) анонсированный проект **Deadpool Team-Up** от сценариста **Фреда Ван Ленте** *(Fred Van Lente)* и художника **Далибора Таладжика** *(Dalibor Talajic)* обзавелся свежей информацией, в том числе и превью дебютного, аж **899**, номера:
+[Ранее](../deadpool-shou-prodolzhaetsya/) анонсированный проект **Deadpool Team-Up** от сценариста **Фреда Ван Ленте** *(Fred Van Lente)* и художника **Далибора Таладжика** *(Dalibor Talajic)* обзавелся свежей информацией, в том числе и превью дебютного, аж **899**, номера:
 [![](https://web.archive.org/web/20251207093838im_/http://www.comicbookresources.com/assets/phpThumb/phpThumb.php?src=/assets/images/articles/1253292081.jpg&w=150)](http://www.comicbookresources.com/assets/images/articles/1253292081.jpg)
 
 обложка **#899** от **Умберто Рамоса** *(Humberto Ramos)*

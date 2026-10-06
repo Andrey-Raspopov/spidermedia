@@ -1,7 +1,10 @@
 {
   "title": "Гуггенхайм и Ванко",
-  "date": "2009-08-28T13:45:00+03:00",
+  "date": "2009-08-28T12:45:53+03:00",
   "url": "/news/guggenhaym-i-vanko/",
+  "aliases": [
+    "/node/1836/"
+  ],
   "original_url": "http://spidermedia.ru/news/guggenhaym-i-vanko",
   "archived": "https://web.archive.org/web/20251013182708/http://spidermedia.ru/news/guggenhaym-i-vanko",
   "tags": [
@@ -10,13 +13,21 @@
     "knut",
     "mark-guggenhajm",
     "marvel",
-    "preview"
+    "preview",
+    "zheleznyy-chelovek",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20251013182708im_/http://spidermedia.ru/assets/images/import_image/1836.jpg",
+  "modx_id": 1836,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-Вы [уже знаете](../../node/1787/) про мини Iron Man vs. Whiplash, состоящей из 4 выпусков. До её выхода, конечно, ещё далеко, но у нас на руках есть свежая информация, которой мы решили с вами поделиться:
+Вы [уже знаете](../stark-knut-i-noyabr/) про мини Iron Man vs. Whiplash, состоящей из 4 выпусков. До её выхода, конечно, ещё далеко, но у нас на руках есть свежая информация, которой мы решили с вами поделиться:
 ![9196header_banner0263194.jpg - image uploaded to Picamatic](https://web.archive.org/web/20251013182708im_/http://www.picamatic.com/show/2009/08/14/08/38/4737238_608x229.jpg "9196header_banner0263194.jpg")
 
 - Cценарист комикса Марк Гуггенхайм (Marc Gugenheim) обещает читателям, что битва между новым Кнутом (Anton Vanko/New Whiplash) и Железным Человеком (Tony Stark/Iron Man) не будет похожа на предыдущие столкновения с первым Кнутом (Mark Scarlotti/Whiplash).

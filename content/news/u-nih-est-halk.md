@@ -1,6 +1,6 @@
 {
   "title": "У них есть Халк",
-  "date": "2012-02-06T07:01:00+03:00",
+  "date": "2012-02-06T06:01:45+03:00",
   "url": "/news/u-nih-est-halk/",
   "original_url": "http://spidermedia.ru/news/u-nih-est-halk",
   "archived": "https://web.archive.org/web/20260215091128/http://spidermedia.ru/news/u-nih-est-halk",
@@ -9,6 +9,12 @@
     "trejlery",
     "marvel",
     "avengers"
+  ],
+  "cover": "https://web.archive.org/web/20260215091128im_/http://spidermedia.ru/assets/images/import_image/6772.gif",
+  "modx_id": 6772,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

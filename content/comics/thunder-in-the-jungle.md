@@ -7,6 +7,12 @@
   "tags": [
     "bubble"
   ],
+  "cover": "https://web.archive.org/web/20240923112006im_/http://spidermedia.ru/assets/images/news/bubble/5370f2663e043d3c70277810a1b98fcc.png",
+  "modx_id": 100130,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

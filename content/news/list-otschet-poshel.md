@@ -1,7 +1,10 @@
 {
   "title": "The List - отсчет пошел!",
-  "date": "2009-09-16T00:32:00+03:00",
+  "date": "2009-09-15T23:32:18+03:00",
   "url": "/news/list-otschet-poshel/",
+  "aliases": [
+    "/node/1897/"
+  ],
   "original_url": "http://spidermedia.ru/news/list-otschet-poshel",
   "archived": "https://web.archive.org/web/20251213195700/http://spidermedia.ru/news/list-otschet-poshel",
   "tags": [
@@ -13,13 +16,22 @@
     "secret-warriors",
     "marvel",
     "list",
-    "daredevil"
+    "daredevil",
+    "dark-avengers",
+    "lyudi-iks",
+    "uncanny-x-men"
+  ],
+  "cover": "https://web.archive.org/web/20251213195700im_/http://spidermedia.ru/assets/images/import_image/1897.jpg",
+  "modx_id": 1897,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-Мы [уже писали](https://web.archive.org/web/20111015073310/http://spidermedia.ru/taxonomy/term/1954) о мини событии во **Вселенной Marvel** - **Dark Reign: The List**, ровно как и о командах сценаристов и художников, [работающих над ними](../../node/1453/). Тем временем, первая часть "Листа" - **Dark Reign: The List - Avengers** - уже вышла, на прошлой неделе. На этой же нас ждет **Dark Reign: The List - Deredevil**. А следом за ним последуют и остальные номера серии.
+Мы [уже писали](https://web.archive.org/web/20111015073310/http://spidermedia.ru/taxonomy/term/1954) о мини событии во **Вселенной Marvel** - **Dark Reign: The List**, ровно как и о командах сценаристов и художников, [работающих над ними](../temnye-akty/). Тем временем, первая часть "Листа" - **Dark Reign: The List - Avengers** - уже вышла, на прошлой неделе. На этой же нас ждет **Dark Reign: The List - Deredevil**. А следом за ним последуют и остальные номера серии.
 [![Photobucket](https://web.archive.org/web/20251213195700im_/http://img.photobucket.com/albums/v499/sp888/th_DarkReignTheListAvengers01MrShepher.jpg)](http://smg.photobucket.com/albums/v499/sp888/?action=view¤t=DarkReignTheListAvengers01MrShepher.jpg)
 Вслед за **Dark Reign: The List - Deredevil**, ниже, мы представим вам превью ожидающегося в этом месяце **Dark Reign: The List - X-Men** и следующих за ним, октябрьских, **Dark Reign: The List - Secret Warriors** и **Dark Reign: The List - Punisher**. [Чеклист](http://smg.photobucket.com/albums/v499/sp888/?action=view¤t=DarkReignTheListAvengers01MrShepher.jpg) серии вы можете найти выше, а мы тем временем переходим к самим превью! Смотрим:
 **Dark Reign: The List - Daredevil**

@@ -4,6 +4,12 @@
   "url": "/games/switcher-i-overwatch-chto-tam-u-switch-lite/",
   "original_url": "http://spidermedia.ru/games/switcher-i-overwatch-chto-tam-u-switch-lite",
   "archived": "https://web.archive.org/web/20260125131914/http://spidermedia.ru/games/switcher-i-overwatch-chto-tam-u-switch-lite",
+  "cover": "https://web.archive.org/web/20200128042335im_/http://spidermedia.ru/assets/images/games/oversvichved.jpg",
+  "modx_id": 102176,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

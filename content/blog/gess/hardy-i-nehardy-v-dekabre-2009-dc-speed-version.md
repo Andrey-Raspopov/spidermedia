@@ -1,13 +1,23 @@
 {
   "title": "Харды и нехарды в декабре 2009 - DC (speed version)",
-  "date": "2009-12-26T13:13:00+03:00",
+  "date": "2009-12-26T12:13:13+03:00",
   "url": "/blog/gess/hardy-i-nehardy-v-dekabre-2009-dc-speed-version/",
+  "aliases": [
+    "/node/2197/"
+  ],
   "original_url": "http://spidermedia.ru/blog/gess/hardy-i-nehardy-v-dekabre-2009-dc-speed-version",
   "archived": "https://web.archive.org/web/20120512081029/http://spidermedia.ru/blog/gess/hardy-i-nehardy-v-dekabre-2009-dc-speed-version",
   "tags": [
     "dc-comics",
     "komiksy",
-    "hnh"
+    "hnh",
+    "handnh"
+  ],
+  "cover": "https://web.archive.org/web/20120512081029im_/http://spidermedia.ru/assets/images/import_image/2197.png",
+  "modx_id": 2197,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

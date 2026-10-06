@@ -1,7 +1,10 @@
 {
   "title": "Оно на подходе",
-  "date": "2009-09-23T01:23:00+03:00",
+  "date": "2009-09-23T00:23:26+03:00",
   "url": "/news/ono-na-podhode/",
+  "aliases": [
+    "/node/1923/"
+  ],
   "original_url": "http://spidermedia.ru/news/ono-na-podhode",
   "archived": "https://web.archive.org/web/20260117214231/http://spidermedia.ru/news/ono-na-podhode",
   "tags": [
@@ -9,7 +12,14 @@
     "tony-daniel",
     "dc-comics",
     "toni-deniel",
-    "art-0"
+    "art-0",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20260117214231im_/http://spidermedia.ru/assets/images/import_image/1923.png",
+  "modx_id": 1923,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -9,6 +9,12 @@
     "konkurs",
     "mike-mignola-russia"
   ],
+  "cover": "https://web.archive.org/web/20260124055041im_/http://spidermedia.ru/assets/images/hellboymedia/project-02-russia/art-contest/russia-by-mignola-art-contest-cover.jpg",
+  "modx_id": 100741,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

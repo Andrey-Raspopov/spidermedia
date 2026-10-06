@@ -1,6 +1,6 @@
 {
   "title": "DC анонсировало новую серию",
-  "date": "2013-06-17T21:58:00+03:00",
+  "date": "2013-06-17T20:58:30+03:00",
   "url": "/news/dc-anonsirovalo-novuyu-seriyu/",
   "original_url": "http://spidermedia.ru/news/dc-anonsirovalo-novuyu-seriyu",
   "archived": "https://web.archive.org/web/20251117000956/http://spidermedia.ru/news/dc-anonsirovalo-novuyu-seriyu",
@@ -11,6 +11,12 @@
     "wonder-woman",
     "toni-deniel",
     "charlz-soul"
+  ],
+  "cover": "https://web.archive.org/web/20251117000956im_/http://spidermedia.ru/assets/images/import_image/7280.jpg",
+  "modx_id": 7280,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

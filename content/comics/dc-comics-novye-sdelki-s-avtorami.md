@@ -7,6 +7,12 @@
   "tags": [
     "dc-comics"
   ],
+  "cover": "https://web.archive.org/web/20160611111027im_/http://spidermedia.ru/assets/images/news/dc/calendrier-futurs-films-dc-comics-a-venir.jpg",
+  "modx_id": 100927,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

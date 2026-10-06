@@ -1,6 +1,6 @@
 {
   "title": "Итоги конкурса Batman 2.0",
-  "date": "2009-03-26T15:47:00+03:00",
+  "date": "2009-03-26T14:47:11+03:00",
   "url": "/blog/sterpazook/itogi-konkursa-batman-20/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/itogi-konkursa-batman-20",
   "archived": "https://web.archive.org/web/20120608193338/http://spidermedia.ru/blog/sterpazook/itogi-konkursa-batman-20",
@@ -9,7 +9,14 @@
     "ultimizing",
     "betmen",
     "redizayn",
-    "fanart"
+    "fanart",
+    "redizajn"
+  ],
+  "cover": "https://web.archive.org/web/20120608193338im_/http://spidermedia.ru/assets/images/import_image/776.jpg",
+  "modx_id": 776,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

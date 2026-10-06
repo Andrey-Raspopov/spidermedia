@@ -1,12 +1,21 @@
 {
   "title": "Free Comic Book Day: Краткий обзор",
-  "date": "2009-05-04T21:10:00+03:00",
+  "date": "2009-05-04T20:10:30+03:00",
   "url": "/blog/redson/free-comic-book-day-kratkiy-obzor/",
+  "aliases": [
+    "/node/1097/"
+  ],
   "original_url": "http://spidermedia.ru/blog/redson/free-comic-book-day-kratkiy-obzor",
   "archived": "https://web.archive.org/web/20120718110027/http://spidermedia.ru/blog/redson/free-comic-book-day-kratkiy-obzor",
   "tags": [
     "komiksy",
     "mnenie"
+  ],
+  "cover": "https://web.archive.org/web/20120718110027im_/http://spidermedia.ru/assets/images/import_image/1097.jpg",
+  "modx_id": 1097,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "Call me...Whiplash!",
-  "date": "2009-05-19T00:37:00+03:00",
+  "date": "2009-05-18T23:37:56+03:00",
   "url": "/news/call-mewhiplash/",
+  "aliases": [
+    "/node/1234/"
+  ],
   "original_url": "http://spidermedia.ru/news/call-mewhiplash",
   "archived": "https://web.archive.org/web/20120608153047/http://spidermedia.ru/news/call-mewhiplash",
   "tags": [
@@ -14,6 +17,11 @@
     "knut",
     "komiksy",
     "marvel"
+  ],
+  "modx_id": 1234,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

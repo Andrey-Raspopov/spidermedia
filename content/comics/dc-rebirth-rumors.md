@@ -9,6 +9,12 @@
     "piter-tomasi",
     "skott-snajder"
   ],
+  "cover": "https://web.archive.org/web/20160611094226im_/http://spidermedia.ru/assets/images/news/dc/rebirth-2016/rebirth-teaser.jpg",
+  "modx_id": 100874,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

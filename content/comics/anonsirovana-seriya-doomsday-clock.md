@@ -12,6 +12,12 @@
     "superman",
     "hraniteli"
   ],
+  "cover": "https://web.archive.org/web/20170616130018im_/http://spidermedia.ru/assets/images/news/dclock/cover.jpg",
+  "modx_id": 101566,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

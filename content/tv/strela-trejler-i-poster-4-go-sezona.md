@@ -8,6 +8,12 @@
     "dc-comics",
     "green-arrow"
   ],
+  "cover": "https://web.archive.org/web/20250906074354im_/http://spidermedia.ru/assets/images/tv/dc/arrow/season-4/kzr_ppwhyvq.jpg",
+  "modx_id": 100540,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

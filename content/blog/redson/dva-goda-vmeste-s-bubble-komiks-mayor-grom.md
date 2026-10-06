@@ -1,6 +1,6 @@
 {
   "title": "Два года вместе с BUBBLE: комикс «Майор Гром»",
-  "date": "2014-10-10T11:32:00+03:00",
+  "date": "2014-10-10T10:32:25+03:00",
   "url": "/blog/redson/dva-goda-vmeste-s-bubble-komiks-mayor-grom/",
   "original_url": "http://spidermedia.ru/blog/redson/dva-goda-vmeste-s-bubble-komiks-mayor-grom",
   "archived": "https://web.archive.org/web/20251206030212/http://spidermedia.ru/blog/redson/dva-goda-vmeste-s-bubble-komiks-mayor-grom",
@@ -9,6 +9,12 @@
     "major-grom",
     "obzor",
     "russian-comics"
+  ],
+  "cover": "https://web.archive.org/web/20170401150343im_/http://spidermedia.ru/assets/images/import_image/8160.jpg",
+  "modx_id": 8160,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

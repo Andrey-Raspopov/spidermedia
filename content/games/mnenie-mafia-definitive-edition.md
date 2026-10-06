@@ -4,6 +4,12 @@
   "url": "/games/mnenie-mafia-definitive-edition/",
   "original_url": "http://spidermedia.ru/games/mnenie-mafia-definitive-edition",
   "archived": "https://web.archive.org/web/20250518135047/http://spidermedia.ru/games/mnenie-mafia-definitive-edition",
+  "cover": "https://web.archive.org/web/20210824092615im_/http://spidermedia.ru/assets/images/games/capsule_616x353-5.jpg",
+  "modx_id": 102286,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

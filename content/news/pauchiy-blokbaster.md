@@ -1,6 +1,6 @@
 {
   "title": "Паучий блокбастер",
-  "date": "2011-06-14T15:21:00+03:00",
+  "date": "2011-06-14T14:21:10+03:00",
   "url": "/news/pauchiy-blokbaster/",
   "original_url": "https://spidermedia.ru/news/pauchiy-blokbaster",
   "archived": "https://web.archive.org/web/20260117230533/https://spidermedia.ru/news/pauchiy-blokbaster",
@@ -9,7 +9,14 @@
     "dzho-madurejra",
     "art-0",
     "spider-man",
-    "marvel"
+    "marvel",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20260117230533im_/http://spidermedia.ru/assets/images/import_image/6447.jpg",
+  "modx_id": 6447,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

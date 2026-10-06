@@ -1,7 +1,10 @@
 {
   "title": "Marvel - 02.09.09 + something else",
-  "date": "2009-08-28T14:24:00+03:00",
+  "date": "2009-08-28T13:24:24+03:00",
   "url": "/news/marvel-020909-something-else/",
+  "aliases": [
+    "/node/1837/"
+  ],
   "original_url": "http://spidermedia.ru/news/marvel-020909-something-else",
   "archived": "https://web.archive.org/web/20260215073714/http://spidermedia.ru/news/marvel-020909-something-else",
   "tags": [
@@ -18,7 +21,14 @@
     "prizrachnyj-gonshhik",
     "captain-america",
     "cable",
-    "spider-man"
+    "spider-man",
+    "prevyu",
+    "invincible-iron-man"
+  ],
+  "modx_id": 1837,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

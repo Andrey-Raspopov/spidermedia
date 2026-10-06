@@ -1,6 +1,6 @@
 {
   "title": "Вирусные сайты, баннер и новые ТВ-споты Зеленого Фонаря",
-  "date": "2011-05-10T08:17:00+03:00",
+  "date": "2011-05-10T07:17:30+03:00",
   "url": "/news/virusnye-sayty-banner-i-novye-tv-spoty-zelenogo-fonarya/",
   "original_url": "https://spidermedia.ru/news/virusnye-sayty-banner-i-novye-tv-spoty-zelenogo-fonarya",
   "archived": "https://web.archive.org/web/20260125045845/https://spidermedia.ru/news/virusnye-sayty-banner-i-novye-tv-spoty-zelenogo-fonarya",
@@ -8,6 +8,12 @@
     "postery",
     "green-lantern",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20260125045845im_/http://spidermedia.ru/assets/images/import_image/5613.jpg",
+  "modx_id": 5613,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

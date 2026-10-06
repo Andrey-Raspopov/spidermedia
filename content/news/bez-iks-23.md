@@ -1,6 +1,6 @@
 {
   "title": "Без Икс-23",
-  "date": "2011-12-13T05:04:00+03:00",
+  "date": "2011-12-13T04:04:12+03:00",
   "url": "/news/bez-iks-23/",
   "original_url": "https://spidermedia.ru/news/bez-iks-23",
   "archived": "https://web.archive.org/web/20260215081706/https://spidermedia.ru/news/bez-iks-23",
@@ -8,7 +8,14 @@
     "x-men",
     "mardzhori-lyu",
     "majk-perkins",
-    "marvel"
+    "marvel",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20260215081706im_/http://spidermedia.ru/assets/images/import_image/6731.jpg",
+  "modx_id": 6731,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

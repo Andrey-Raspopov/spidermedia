@@ -1,6 +1,6 @@
 {
   "title": "\"Первый Мститель: Другая война\": 5-минутный трейлер (ЭКРАНКА)",
-  "date": "2013-11-09T10:03:00+03:00",
+  "date": "2013-11-09T09:03:57+03:00",
   "url": "/news/pervyy-mstitel-drugaya-voyna-5-minutnyy-treyler-ekranka/",
   "original_url": "http://spidermedia.ru/news/pervyy-mstitel-drugaya-voyna-5-minutnyy-treyler-ekranka",
   "archived": "https://web.archive.org/web/20230604114338/http://spidermedia.ru/news/pervyy-mstitel-drugaya-voyna-5-minutnyy-treyler-ekranka",
@@ -9,6 +9,12 @@
     "marvel",
     "captain-america",
     "winter-soldier"
+  ],
+  "cover": "https://web.archive.org/web/20150424090456im_/http://spidermedia.ru/assets/images/import_image/7538.jpg",
+  "modx_id": 7538,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

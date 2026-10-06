@@ -1,6 +1,6 @@
 {
   "title": "Флэш на ТВ: планы меняются",
-  "date": "2013-11-18T21:51:00+03:00",
+  "date": "2013-11-18T20:51:41+03:00",
   "url": "/news/flesh-na-tv-plany-menyayutsya/",
   "original_url": "http://spidermedia.ru/news/flesh-na-tv-plany-menyayutsya",
   "archived": "https://web.archive.org/web/20250215000114/http://spidermedia.ru/news/flesh-na-tv-plany-menyayutsya",
@@ -8,6 +8,12 @@
     "dc-comics",
     "the-flash",
     "green-arrow"
+  ],
+  "cover": "https://web.archive.org/web/20150502171603im_/http://spidermedia.ru/assets/images/import_image/7550.jpg",
+  "modx_id": 7550,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

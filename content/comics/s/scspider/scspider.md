@@ -4,6 +4,9 @@
   "url": "/comics/s/scspider/scspider/",
   "original_url": "http://www.spidermedia.ru/comics/s/scspider/scspider.html",
   "archived": "https://web.archive.org/web/20050307044315/http://www.spidermedia.ru:80/comics/s/scspider/scspider.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

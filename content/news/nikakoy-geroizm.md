@@ -1,13 +1,20 @@
 {
   "title": "Никакой героизм",
-  "date": "2009-04-14T15:58:00+03:00",
+  "date": "2009-04-14T14:58:00+03:00",
   "url": "/news/nikakoy-geroizm/",
   "original_url": "http://spidermedia.ru/news/nikakoy-geroizm",
   "archived": "https://web.archive.org/web/20250807004544/http://spidermedia.ru/news/nikakoy-geroizm",
   "tags": [
     "spoof",
     "serialy",
-    "no-heroics"
+    "no-heroics",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20250807004544im_/http://spidermedia.ru/assets/images/import_image/933.jpg",
+  "modx_id": 933,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

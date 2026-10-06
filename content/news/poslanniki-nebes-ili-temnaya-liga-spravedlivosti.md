@@ -1,6 +1,6 @@
 {
   "title": "Посланники небес или Темная Лига Справедливости?",
-  "date": "2012-11-04T17:45:00+03:00",
+  "date": "2012-11-04T16:45:20+03:00",
   "url": "/news/poslanniki-nebes-ili-temnaya-liga-spravedlivosti/",
   "original_url": "http://spidermedia.ru/news/poslanniki-nebes-ili-temnaya-liga-spravedlivosti",
   "archived": "https://web.archive.org/web/20260215073237/http://spidermedia.ru/news/poslanniki-nebes-ili-temnaya-liga-spravedlivosti",
@@ -8,6 +8,12 @@
     "justice-league-dark",
     "dc-comics",
     "dzhon-konstantin"
+  ],
+  "cover": "https://web.archive.org/web/20260215073237im_/http://spidermedia.ru/assets/images/import_image/7082.jpg",
+  "modx_id": 7082,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

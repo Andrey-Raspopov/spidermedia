@@ -7,6 +7,12 @@
   "tags": [
     "marvel"
   ],
+  "cover": "https://web.archive.org/web/20160611131225im_/http://spidermedia.ru/assets/images/movies/marvel/guardians-of-the-galaxy-vol-2-2017/kurt-russell1.jpg",
+  "modx_id": 100923,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

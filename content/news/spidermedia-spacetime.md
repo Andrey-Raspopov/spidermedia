@@ -1,11 +1,17 @@
 {
   "title": "Spidermedia Into Spacetime",
-  "date": "2013-05-21T19:51:00+03:00",
+  "date": "2013-05-21T18:51:45+03:00",
   "url": "/news/spidermedia-spacetime/",
   "original_url": "http://spidermedia.ru/news/spidermedia-spacetime",
   "archived": "https://web.archive.org/web/20251115180053/http://spidermedia.ru/news/spidermedia-spacetime",
   "tags": [
     "zvezdnyj-put"
+  ],
+  "cover": "https://web.archive.org/web/20150428172221im_/http://spidermedia.ru/assets/images/import_image/7245.jpg",
+  "modx_id": 7245,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

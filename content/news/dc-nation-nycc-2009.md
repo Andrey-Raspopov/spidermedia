@@ -1,7 +1,10 @@
 {
   "title": "DC Nation - NYCC 2009",
-  "date": "2009-02-07T09:36:00+03:00",
+  "date": "2009-02-07T09:36:05+03:00",
   "url": "/news/dc-nation-nycc-2009/",
+  "aliases": [
+    "/node/249/"
+  ],
   "original_url": "http://spidermedia.ru/news/dc-nation-nycc-2009",
   "archived": "https://web.archive.org/web/20260125125522/http://spidermedia.ru/news/dc-nation-nycc-2009",
   "tags": [
@@ -17,6 +20,12 @@
     "blackest-night",
     "greg-rakka",
     "komik-kon-v-nyu-jorke"
+  ],
+  "cover": "https://web.archive.org/web/20260125125522im_/http://spidermedia.ru/assets/images/import_image/249.jpg",
+  "modx_id": 249,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

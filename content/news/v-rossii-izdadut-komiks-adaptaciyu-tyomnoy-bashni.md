@@ -1,6 +1,6 @@
 {
   "title": "В России издадут комикс-адаптацию \"Тёмной башни\"",
-  "date": "2013-08-27T13:23:00+03:00",
+  "date": "2013-08-27T12:23:40+03:00",
   "url": "/news/v-rossii-izdadut-komiks-adaptaciyu-tyomnoy-bashni/",
   "original_url": "http://spidermedia.ru/news/v-rossii-izdadut-komiks-adaptaciyu-tyomnoy-bashni",
   "archived": "https://web.archive.org/web/20191229111134/http://spidermedia.ru:80/news/v-rossii-izdadut-komiks-adaptaciyu-tyomnoy-bashni",
@@ -8,6 +8,12 @@
     "tyomnaya-bashnya",
     "marvel",
     "izdatelstvo-ast"
+  ],
+  "cover": "https://web.archive.org/web/20191229111134im_/http://spidermedia.ru/assets/images/import_image/7437.jpg",
+  "modx_id": 7437,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Marvel Resurrected",
-  "date": "2011-09-22T17:00:00+03:00",
+  "date": "2011-09-22T16:00:05+03:00",
   "url": "/news/marvel-ressurected/",
   "original_url": "http://spidermedia.ru/news/marvel-ressurected",
   "archived": "https://web.archive.org/web/20120607170902/http://spidermedia.ru/news/marvel-ressurected",
@@ -9,6 +9,12 @@
     "kevin-noulan",
     "marvel",
     "stiv-gerber"
+  ],
+  "cover": "https://web.archive.org/web/20120607170902im_/http://spidermedia.ru/assets/images/import_image/6612.jpg",
+  "modx_id": 6612,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

@@ -6,7 +6,14 @@
   "archived": "https://web.archive.org/web/20241104083300/https://spidermedia.ru/movies/sdcc-2015-kino",
   "tags": [
     "san-diego-comic-con-international",
-    "digest"
+    "digest",
+    "sdcc2015"
+  ],
+  "cover": "https://web.archive.org/web/20241104083300im_/http://spidermedia.ru/assets/images/news/sdcc/2015/kino/batman-v-superman-dawn-of-justice.jpg",
+  "modx_id": 100372,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

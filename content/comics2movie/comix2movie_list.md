@@ -4,6 +4,9 @@
   "url": "/comics2movie/comix2movie_list/",
   "original_url": "http://www.spidermedia.ru/comics2movie/comix2movie_list.html",
   "archived": "https://web.archive.org/web/20050307031259/http://www.spidermedia.ru:80/comics2movie/comix2movie_list.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

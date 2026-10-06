@@ -20,6 +20,9 @@
     "preview-s",
     "salvador-larroka"
   ],
+  "sources": [
+    "archive"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

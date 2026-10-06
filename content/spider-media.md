@@ -4,6 +4,9 @@
   "url": "/spider-media/",
   "original_url": "http://spidermedia.ru/spider-media.html",
   "archived": "https://web.archive.org/web/20050105091304/http://spidermedia.ru:80/spider-media.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

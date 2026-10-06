@@ -1,6 +1,6 @@
 {
   "title": "Джефф Джонс и Дэвид Финч творят зло",
-  "date": "2013-06-03T17:55:00+03:00",
+  "date": "2013-06-03T16:55:23+03:00",
   "url": "/news/dzheff-dzhons-i-devid-finch-tvoryat-zlo/",
   "original_url": "http://spidermedia.ru/news/dzheff-dzhons-i-devid-finch-tvoryat-zlo",
   "archived": "https://web.archive.org/web/20251207101208/http://spidermedia.ru/news/dzheff-dzhons-i-devid-finch-tvoryat-zlo",
@@ -13,6 +13,12 @@
     "geoff-johns",
     "brian-buccellato",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150502193242im_/http://spidermedia.ru/assets/images/import_image/7264.jpg",
+  "modx_id": 7264,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

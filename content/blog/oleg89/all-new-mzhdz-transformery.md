@@ -1,6 +1,6 @@
 {
   "title": "ALL-NEW МЖДЗ: ТРАНСФОРМЕРЫ",
-  "date": "2014-06-26T14:02:00+03:00",
+  "date": "2014-06-26T13:02:40+03:00",
   "url": "/blog/oleg89/all-new-mzhdz-transformery/",
   "original_url": "http://spidermedia.ru/blog/oleg89/all-new-mzhdz-transformery",
   "archived": "https://web.archive.org/web/20260123083035/http://spidermedia.ru/blog/oleg89/all-new-mzhdz-transformery",
@@ -9,6 +9,12 @@
     "mnenie",
     "mzhdz",
     "idw-publishing"
+  ],
+  "cover": "https://web.archive.org/web/20260123083035im_/http://spidermedia.ru/assets/images/import_image/7844.jpg",
+  "modx_id": 7844,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

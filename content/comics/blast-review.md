@@ -7,6 +7,12 @@
   "tags": [
     "bande-dessinée"
   ],
+  "cover": "https://web.archive.org/web/20251013175156im_/http://spidermedia.ru/assets/images/bd/06-10-15/blast1.jpg",
+  "modx_id": 100620,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

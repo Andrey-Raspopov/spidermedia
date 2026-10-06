@@ -1,6 +1,6 @@
 {
   "title": "Корнелл хочет верить",
-  "date": "2011-10-15T08:57:00+03:00",
+  "date": "2011-10-15T07:57:30+03:00",
   "url": "/news/kornell-hochet-verit/",
   "original_url": "http://spidermedia.ru/news/kornell-hochet-verit",
   "archived": "https://web.archive.org/web/20260305233934/http://spidermedia.ru/news/kornell-hochet-verit",
@@ -10,6 +10,12 @@
     "komik-kon-v-nyu-jorke",
     "vertigo",
     "nycc-2011"
+  ],
+  "cover": "https://web.archive.org/web/20260305233934im_/http://spidermedia.ru/assets/images/import_image/6647.jpg",
+  "modx_id": 6647,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

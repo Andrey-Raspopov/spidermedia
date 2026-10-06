@@ -1,7 +1,10 @@
 {
   "title": "rawr",
-  "date": "2009-11-19T17:42:00+03:00",
+  "date": "2009-11-19T17:42:07+03:00",
   "url": "/blog/plane-v/rawr/",
+  "aliases": [
+    "/node/2117/"
+  ],
   "original_url": "https://spidermedia.ru/blog/plane-v/rawr",
   "archived": "https://web.archive.org/web/20250324060521/https://spidermedia.ru/blog/plane-v/rawr",
   "tags": [
@@ -9,6 +12,12 @@
     "superman",
     "development-hell",
     "tim-berton"
+  ],
+  "cover": "https://web.archive.org/web/20250324060521im_/http://spidermedia.ru/assets/images/import_image/2117.jpg",
+  "modx_id": 2117,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

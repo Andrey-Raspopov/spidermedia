@@ -7,6 +7,12 @@
   "tags": [
     "marvel"
   ],
+  "cover": "https://web.archive.org/web/20180315065531im_/http://spidermedia.ru/assets/images/news/marvel/post-secret-wars/moon-girl-and-devil-dinosaur/moon-girl-devil-dinosaur-1-cover-b2b66.jpg",
+  "modx_id": 100465,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

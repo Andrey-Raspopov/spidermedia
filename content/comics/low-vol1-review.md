@@ -9,6 +9,12 @@
     "greg-tochchini",
     "rik-remender"
   ],
+  "cover": "https://web.archive.org/web/20251211034304im_/http://spidermedia.ru/assets/images/reviews/xl-media/low-vol-1/obl.jpg",
+  "modx_id": 101754,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

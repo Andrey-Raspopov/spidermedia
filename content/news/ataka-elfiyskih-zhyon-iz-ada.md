@@ -1,7 +1,10 @@
 {
   "title": "Атака Эльфийских Жён из Ада!",
-  "date": "2009-05-17T11:23:00+03:00",
+  "date": "2009-05-17T10:23:00+03:00",
   "url": "/news/ataka-elfiyskih-zhyon-iz-ada/",
+  "aliases": [
+    "/node/1123/"
+  ],
   "original_url": "https://spidermedia.ru/news/ataka-elfiyskih-zhyon-iz-ada",
   "archived": "https://web.archive.org/web/20260215082508/https://spidermedia.ru/news/ataka-elfiyskih-zhyon-iz-ada",
   "tags": [
@@ -10,6 +13,12 @@
     "captain-britain",
     "kapitan-britaniya",
     "majkl-kollins"
+  ],
+  "cover": "https://web.archive.org/web/20260215082508im_/http://spidermedia.ru/assets/images/import_image/1123.jpg",
+  "modx_id": 1123,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

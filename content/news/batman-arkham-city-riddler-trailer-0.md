@@ -1,6 +1,6 @@
 {
   "title": "Batman: Arkham City Penguin Trailer",
-  "date": "2011-07-23T00:01:00+03:00",
+  "date": "2011-07-22T23:01:45+03:00",
   "url": "/news/batman-arkham-city-riddler-trailer-0/",
   "original_url": "https://spidermedia.ru/news/batman-arkham-city-riddler-trailer-0",
   "archived": "https://web.archive.org/web/20260211095041/https://spidermedia.ru/news/batman-arkham-city-riddler-trailer-0",
@@ -10,6 +10,12 @@
     "dc-comics",
     "batman",
     "arkham-asylum"
+  ],
+  "cover": "https://web.archive.org/web/20260211095041im_/http://spidermedia.ru/assets/images/import_image/6516.png",
+  "modx_id": 6516,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

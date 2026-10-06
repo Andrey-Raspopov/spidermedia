@@ -1,7 +1,10 @@
 {
   "title": "Передача о Комик-Коне в Сан Диего на NovaRadio",
-  "date": "2009-08-01T20:28:00+03:00",
+  "date": "2009-08-01T19:28:13+03:00",
   "url": "/blog/redson/peredacha-o-komik-kone-v-san-diego-na-novaradio/",
+  "aliases": [
+    "/node/1708/"
+  ],
   "original_url": "http://spidermedia.ru/blog/redson/peredacha-o-komik-kone-v-san-diego-na-novaradio",
   "archived": "https://web.archive.org/web/20120608005856/http://spidermedia.ru/blog/redson/peredacha-o-komik-kone-v-san-diego-na-novaradio",
   "tags": [
@@ -9,7 +12,14 @@
     "sdcc-2009",
     "kino",
     "komik-kon-v-san-diego",
-    "komiksy"
+    "komiksy",
+    "san-diego-comic-con-international"
+  ],
+  "cover": "https://web.archive.org/web/20120608005856im_/http://spidermedia.ru/assets/images/import_image/1708.png",
+  "modx_id": 1708,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

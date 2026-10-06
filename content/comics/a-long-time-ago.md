@@ -7,6 +7,12 @@
   "tags": [
     "russian-comics"
   ],
+  "cover": "https://web.archive.org/web/20180813144114im_/http://spidermedia.ru/assets/images/articles/oldruscom/header.jpg",
+  "modx_id": 100193,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

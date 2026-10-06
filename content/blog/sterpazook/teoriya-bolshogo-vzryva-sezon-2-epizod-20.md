@@ -1,14 +1,24 @@
 {
   "title": "Теория Большого Взрыва - сезон 2, эпизод 20",
-  "date": "2009-04-16T15:02:00+03:00",
+  "date": "2009-04-16T14:02:11+03:00",
   "url": "/blog/sterpazook/teoriya-bolshogo-vzryva-sezon-2-epizod-20/",
+  "aliases": [
+    "/node/954/"
+  ],
   "original_url": "http://spidermedia.ru/blog/sterpazook/teoriya-bolshogo-vzryva-sezon-2-epizod-20",
   "archived": "https://web.archive.org/web/20251216114844/http://spidermedia.ru/blog/sterpazook/teoriya-bolshogo-vzryva-sezon-2-epizod-20",
   "tags": [
     "dc-comics",
     "batman",
     "serialy",
-    "teoriya-bolshogo-vzryva"
+    "teoriya-bolshogo-vzryva",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20251216114844im_/http://spidermedia.ru/assets/images/import_image/954.jpg",
+  "modx_id": 954,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

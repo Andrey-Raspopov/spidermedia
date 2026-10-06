@@ -1,13 +1,22 @@
 {
   "title": "Металло в \"Тайнах Смолвиля\"",
-  "date": "2009-08-19T15:01:00+03:00",
+  "date": "2009-08-19T14:01:06+03:00",
   "url": "/news/metallo-v-taynah-smolvilya/",
+  "aliases": [
+    "/node/1804/"
+  ],
   "original_url": "https://spidermedia.ru/news/metallo-v-taynah-smolvilya",
   "archived": "https://web.archive.org/web/20251110223345/https://spidermedia.ru/news/metallo-v-taynah-smolvilya",
   "tags": [
     "smallville",
     "serialy",
-    "metallo"
+    "metallo",
+    "tv"
+  ],
+  "modx_id": 1804,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

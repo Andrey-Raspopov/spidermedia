@@ -1,7 +1,10 @@
 {
   "title": "Экранизация \"Kick-Ass\": Вот этот парень--",
-  "date": "2009-05-28T12:17:00+03:00",
+  "date": "2009-05-28T11:17:02+03:00",
   "url": "/blog/sterpazook/ekranizaciya-kick-ass-vot-etot-paren/",
+  "aliases": [
+    "/node/1291/"
+  ],
   "original_url": "http://spidermedia.ru/blog/sterpazook/ekranizaciya-kick-ass-vot-etot-paren",
   "archived": "https://web.archive.org/web/20120607191923/http://spidermedia.ru/blog/sterpazook/ekranizaciya-kick-ass-vot-etot-paren",
   "tags": [
@@ -15,7 +18,13 @@
     "komiksy",
     "marvel",
     "mark-millar",
-    "mettyu-von"
+    "mettyu-von",
+    "icon-comics"
+  ],
+  "modx_id": 1291,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

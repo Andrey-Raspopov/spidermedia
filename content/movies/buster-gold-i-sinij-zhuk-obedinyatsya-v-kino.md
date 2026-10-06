@@ -9,6 +9,12 @@
     "buster-gold",
     "blue-beetle"
   ],
+  "cover": "https://web.archive.org/web/20160611144342im_/http://spidermedia.ru/assets/images/movies/dc/booster-gold-blue-beetle/boog-cv7_solicit.jpg",
+  "modx_id": 100568,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

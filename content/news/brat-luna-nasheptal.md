@@ -1,6 +1,6 @@
 {
   "title": "Брат Луна нашептал",
-  "date": "2011-09-29T20:26:00+03:00",
+  "date": "2011-09-29T19:26:13+03:00",
   "url": "/news/brat-luna-nasheptal/",
   "original_url": "http://spidermedia.ru/news/brat-luna-nasheptal",
   "archived": "https://web.archive.org/web/20251107004740/http://spidermedia.ru/news/brat-luna-nasheptal",
@@ -8,6 +8,12 @@
     "image-comics",
     "luna-brothers",
     "dzhoshua-luna"
+  ],
+  "cover": "https://web.archive.org/web/20251107004740im_/http://spidermedia.ru/assets/images/import_image/6628.jpg",
+  "modx_id": 6628,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

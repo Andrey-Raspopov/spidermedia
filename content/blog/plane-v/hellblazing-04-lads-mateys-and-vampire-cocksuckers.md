@@ -1,6 +1,6 @@
 {
   "title": "HELLBLAZING 04 - LADS, MATEYS AND VAMPIRE COCKSUCKERS",
-  "date": "2012-09-26T10:57:00+03:00",
+  "date": "2012-09-26T09:57:04+03:00",
   "url": "/blog/plane-v/hellblazing-04-lads-mateys-and-vampire-cocksuckers/",
   "original_url": "http://spidermedia.ru/blog/plane-v/hellblazing-04-lads-mateys-and-vampire-cocksuckers",
   "archived": "https://web.archive.org/web/20260206224920/http://spidermedia.ru/blog/plane-v/hellblazing-04-lads-mateys-and-vampire-cocksuckers",
@@ -8,6 +8,12 @@
     "vertigo",
     "hellblazing",
     "hellblazer"
+  ],
+  "cover": "https://web.archive.org/web/20160611141910im_/http://spidermedia.ru/assets/images/import_image/7038.jpg",
+  "modx_id": 7038,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

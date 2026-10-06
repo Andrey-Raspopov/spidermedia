@@ -1,13 +1,21 @@
 {
   "title": "Battletoads и другие животные",
-  "date": "2009-11-04T22:22:00+03:00",
+  "date": "2009-11-04T22:22:26+03:00",
   "url": "/blog/sterpazook/battletoads-i-drugie-zhivotnye/",
+  "aliases": [
+    "/node/2061/"
+  ],
   "original_url": "https://spidermedia.ru/blog/sterpazook/battletoads-i-drugie-zhivotnye",
   "archived": "https://web.archive.org/web/20250807011411/https://spidermedia.ru/blog/sterpazook/battletoads-i-drugie-zhivotnye",
   "tags": [
     "igry",
     "animaciya",
     "nintendo"
+  ],
+  "modx_id": 2061,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,12 +1,18 @@
 {
   "title": "Темный Рыцарь в Нью-Йорке: фото со съемок",
-  "date": "2011-10-28T22:39:00+03:00",
+  "date": "2011-10-28T21:39:39+03:00",
   "url": "/news/temnyy-rycar-v-nyu-yorke-foto-so-semok/",
   "original_url": "https://spidermedia.ru/news/temnyy-rycar-v-nyu-yorke-foto-so-semok",
   "archived": "https://web.archive.org/web/20260307053319/https://spidermedia.ru/news/temnyy-rycar-v-nyu-yorke-foto-so-semok",
   "tags": [
     "batman",
     "dark-knight-rises"
+  ],
+  "cover": "https://web.archive.org/web/20260307053319im_/http://spidermedia.ru/assets/images/import_image/6671.jpg",
+  "modx_id": 6671,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

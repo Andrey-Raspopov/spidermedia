@@ -1,12 +1,18 @@
 {
   "title": "Ли Пейс сыграет злодея в \"Стражах Галактики\"",
-  "date": "2013-04-24T12:49:00+03:00",
+  "date": "2013-04-24T11:49:28+03:00",
   "url": "/news/li-peys-sygraet-zlodeya-v-strazhah-galaktiki/",
   "original_url": "http://spidermedia.ru/news/li-peys-sygraet-zlodeya-v-strazhah-galaktiki",
   "archived": "https://web.archive.org/web/20240807182117/http://spidermedia.ru/news/li-peys-sygraet-zlodeya-v-strazhah-galaktiki",
   "tags": [
     "guardians-of-the-galaxy",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20240807182117im_/http://spidermedia.ru/assets/images/import_image/7226.jpg",
+  "modx_id": 7226,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

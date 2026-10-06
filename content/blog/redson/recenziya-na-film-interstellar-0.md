@@ -1,11 +1,17 @@
 {
   "title": "Рецензия на фильм \"Интерстеллар\"",
-  "date": "2014-11-06T12:06:00+03:00",
+  "date": "2014-11-06T12:06:09+03:00",
   "url": "/blog/redson/recenziya-na-film-interstellar-0/",
   "original_url": "http://spidermedia.ru/blog/redson/recenziya-na-film-interstellar-0",
   "archived": "https://web.archive.org/web/20190911050737/http://spidermedia.ru:80/blog/redson/recenziya-na-film-interstellar-0",
   "tags": [
     "obzor"
+  ],
+  "cover": "https://web.archive.org/web/20150502161454im_/http://spidermedia.ru/assets/images/import_image/8256.jpg",
+  "modx_id": 8256,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

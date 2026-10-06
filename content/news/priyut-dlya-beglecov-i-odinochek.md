@@ -1,6 +1,6 @@
 {
   "title": "Приют для беглецов и одиночек",
-  "date": "2011-07-22T18:51:00+03:00",
+  "date": "2011-07-22T17:51:35+03:00",
   "url": "/news/priyut-dlya-beglecov-i-odinochek/",
   "original_url": "https://spidermedia.ru/news/priyut-dlya-beglecov-i-odinochek",
   "archived": "https://web.archive.org/web/20251006143339/https://spidermedia.ru/news/priyut-dlya-beglecov-i-odinochek",
@@ -12,6 +12,12 @@
     "avengers",
     "tom-rejni",
     "shon-chen"
+  ],
+  "cover": "https://web.archive.org/web/20251006143339im_/http://spidermedia.ru/assets/images/import_image/6514.jpg",
+  "modx_id": 6514,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

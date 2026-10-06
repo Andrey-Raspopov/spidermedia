@@ -5,17 +5,22 @@
   "original_url": "https://spidermedia.ru/comics/all-things-valiant-19-week-42",
   "archived": "https://web.archive.org/web/20260125062814/https://spidermedia.ru/comics/all-things-valiant-19-week-42",
   "tags": [
-    "valiant-entertainment"
+    "valiant-entertainment",
+    "all-things-valiant"
+  ],
+  "cover": "https://web.archive.org/web/20160611210854im_/http://spidermedia.ru/assets/images/valiant/images/atv19/cover19-42.jpg",
+  "modx_id": 100660,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](https://web.archive.org/web/20160611215946im_/http://spidermedia.ru/assets/cache/images/valiant/images/atv19/622x-cover19-42.2e9.jpg)](https://web.archive.org/web/20160611210854im_/http://spidermedia.ru/assets/images/valiant/images/atv19/cover19-42.jpg)
-
 Октябрь — лучшее время, чтобы включить телевизор (монитор?) и понаблюдать за любимыми героями. Некоторые нас [смешат](http://www.imdb.com/title/tt2467372/?ref_=nv_sr_1), другие [пугают](http://www.imdb.com/title/tt1844624/?ref_=nv_sr_1), третьи делают это [одновременно](http://www.imdb.com/title/tt4145384/?ref_=nv_sr_1). Кто-то же просто заставляет [восхищаться](http://www.imdb.com/title/tt3107288/?ref_=nv_sr_1), жаль только раз в неделю. Но долгую «дорогу» до Central City помогут скрасить комиксы. Комиксы Valiant.
 
-**[Новости](./#news) **• [Галерея](./#gallery) ****•****** [Рецензии](./#reviews)**
+**[Новости](#news) **• [Галерея](#gallery) ****•****** [Рецензии](#reviews)**
 
 В этом выпуске Дэвид Бэрон (колорист, не визажист) научиться работать с цветом, Ниндзяк подскажет, как заводить новые знакомства. А также возвращение старых сюжетных ходов врагов.
 
@@ -28,9 +33,7 @@
 #### Заключительная видеолекция из цикла «Искусство комиксов»
 [Мы уже писали](../all-things-valiant-13-week-36/#news), [и не раз](../all-things-valiant-16-week-39/#news), [и не два](../all-things-valiant-18-week-41/#news), про совместную акцию Valiant Entertainment и торговой фирмы Hastings — «Искусство комикса». Вышла заключительная видеолекция от Дэвида Бэрона о тайнах работы с цветом:
 
-![](https://web.archive.org/web/20160611215720im_/http://spidermedia.ru/assets/cache/images/youtube/622x350-jcIxSLbrHOY.3e9.jpg)
-
-[Hastings & Valiant "The Craft of Comics" Workshop - Week 4 ft. David Baron](./) 00:57:47
+<iframe allowfullscreen="" frameborder="0" height="360" src="http://www.youtube.com/embed/jcIxSLbrHOY?wmode=transparent" width="640"></iframe>
 
 И по доброй традиции, предлагаем вам взглянуть на [конспект лекции](http://all-comic.com/2015/valiant-presents-craft-comics-part-4/) от людей с [Valiant Central](http://all-comic.com/valiant-central-landing/).
 
@@ -48,15 +51,81 @@
 
 [Блог художника](http://www.juanjoseryp.blogspot.ru).
 
-[![](https://web.archive.org/web/20160611203621im_/http://spidermedia.ru/assets/cache/preview/100660/valiant/images/atv19/x289-gallery-juan-jose-ryp-image-2.c5d.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv19/gallery-juan-jose-ryp-image-2.jpg)[![](https://web.archive.org/web/20160612021835im_/http://spidermedia.ru/assets/cache/preview/100660/valiant/images/atv19/204x289-gallery-juan-jose-ryp-image-8.b73.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv19/gallery-juan-jose-ryp-image-8.jpg)
-[![](https://web.archive.org/web/20160611204139im_/http://spidermedia.ru/assets/cache/preview/100660/valiant/images/atv19/204x290-gallery-juan-jose-ryp-image-25.8a5.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv19/gallery-juan-jose-ryp-image-25.jpg)[![](https://web.archive.org/web/20160611203732im_/http://spidermedia.ru/assets/cache/preview/100660/valiant/images/atv19/x289-gallery-juan-jose-ryp-image-15.c5d.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv19/gallery-juan-jose-ryp-image-15.jpg)
-[![](https://web.archive.org/web/20160611213850im_/http://spidermedia.ru/assets/cache/preview/100660/valiant/images/atv19/x289-gallery-juan-jose-ryp-image-0001.c5d.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv19/gallery-juan-jose-ryp-image-0001.jpg) [![](https://web.archive.org/web/20160611211808im_/http://spidermedia.ru/assets/cache/preview/100660/valiant/images/atv19/200x289-gallery-juan-jose-ryp-image-6.917.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv19/gallery-juan-jose-ryp-image-6.jpg)
-[![](https://web.archive.org/web/20160611210625im_/http://spidermedia.ru/assets/cache/preview/100660/valiant/images/atv19/x289-gallery-juan-jose-ryp-image-20.c5d.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv19/gallery-juan-jose-ryp-image-20.jpg)[![](https://web.archive.org/web/20160611204223im_/http://spidermedia.ru/assets/cache/preview/100660/valiant/images/atv19/x289-gallery-juan-jose-ryp-image-0002.c5d.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv19/gallery-juan-jose-ryp-image-0002.jpg)
-[![](https://web.archive.org/web/20160611222950im_/http://spidermedia.ru/assets/cache/preview/100660/valiant/images/atv19/408x289-gallery-juan-jose-ryp-image-19.c64.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv19/gallery-juan-jose-ryp-image-19.jpg)[![](https://web.archive.org/web/20160612021358im_/http://spidermedia.ru/assets/cache/preview/100660/valiant/images/atv19/x289-gallery-juan-jose-ryp-image-0006.c5d.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv19/gallery-juan-jose-ryp-image-0006.jpg)
-[![](https://web.archive.org/web/20160611223104im_/http://spidermedia.ru/assets/cache/preview/100660/valiant/images/atv19/204x-gallery-juan-jose-ryp-image-0003.913.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv19/gallery-juan-jose-ryp-image-0003.jpg)[![](https://web.archive.org/web/20160611210835im_/http://spidermedia.ru/assets/cache/preview/100660/valiant/images/atv19/204x-gallery-juan-jose-ryp-image-0004.913.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv19/gallery-juan-jose-ryp-image-0004.png)[![](https://web.archive.org/web/20160611220813im_/http://spidermedia.ru/assets/cache/preview/100660/valiant/images/atv19/204x-gallery-juan-jose-ryp-image-0005.913.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv19/gallery-juan-jose-ryp-image-0005.jpg)
+![](https://web.archive.org/web/20260125062814im_/http://spidermedia.ru/assets/images/valiant/images/atv19/gallery-juan-jose-ryp-image-2.jpg)![](https://web.archive.org/web/20260125062814im_/http://spidermedia.ru/assets/images/valiant/images/atv19/gallery-juan-jose-ryp-image-8.jpg)
+![](https://web.archive.org/web/20260125062814im_/http://spidermedia.ru/assets/images/valiant/images/atv19/gallery-juan-jose-ryp-image-25.jpg)![](https://web.archive.org/web/20260125062814im_/http://spidermedia.ru/assets/images/valiant/images/atv19/gallery-juan-jose-ryp-image-15.jpg)
+![](https://web.archive.org/web/20260125062814im_/http://spidermedia.ru/assets/images/valiant/images/atv19/gallery-juan-jose-ryp-image-0001.jpg) ![](https://web.archive.org/web/20260125062814im_/http://spidermedia.ru/assets/images/valiant/images/atv19/gallery-juan-jose-ryp-image-6.jpg)
+![](https://web.archive.org/web/20260125062814im_/http://spidermedia.ru/assets/images/valiant/images/atv19/gallery-juan-jose-ryp-image-20.jpg)![](https://web.archive.org/web/20260125062814im_/http://spidermedia.ru/assets/images/valiant/images/atv19/gallery-juan-jose-ryp-image-0002.jpg)
+![](https://web.archive.org/web/20260125062814im_/http://spidermedia.ru/assets/images/valiant/images/atv19/gallery-juan-jose-ryp-image-19.jpg)![](https://web.archive.org/web/20260125062814im_/http://spidermedia.ru/assets/images/valiant/images/atv19/gallery-juan-jose-ryp-image-0006.jpg)
+![](https://web.archive.org/web/20260125062814im_/http://spidermedia.ru/assets/images/valiant/images/atv19/gallery-juan-jose-ryp-image-0003.jpg)![](https://web.archive.org/web/20260125062814im_/http://spidermedia.ru/assets/images/valiant/images/atv19/gallery-juan-jose-ryp-image-0004.png)![](https://web.archive.org/web/20260125062814im_/http://spidermedia.ru/assets/images/valiant/images/atv19/gallery-juan-jose-ryp-image-0005.jpg)
 
 ---
 
 **ЧТО МЫ ПРОЧИТАЛИ**
 
 ---
+
+a:3:{i:1;a:7:{s:5:"autor";a:3:{i:1;a:2:{i:0;s:16:"Сценарий";i:1;s:19:"Мэтт Киндт";}i:3;a:2:{i:0;s:14:"Рисунок";i:1;s:53:"Стивен Сеговия, Хуан Хосе Рип";}i:5;a:2:{i:0;s:8:"Цвет";i:1;s:27:"Улисес Арреола";}}s:4:"name";s:6:"Ninjak";s:7:"edition";s:2:"#8";s:5:"cover";s:55:"assets/images/valiant/images/atv19/ninjak-008-cover.jpg";s:9:"publisher";s:4:"1249";s:4:"year";s:4:"2015";s:8:"comments";a:1:{i:1;a:4:{s:5:"autor";s:6:"183731";s:4:"text";s:6383:"
+
+Мы все не хотим очередной истории происхождения Человека-Паука в новом фильме. И тем не менее сами ориджины бывают достаточно интересные. Например, Мэтт Киндт на протяжении уже 8 номеров упрямо выдает нам историю становления Ниндзяка по чайной ложке на выпуск, приправленную зубодробительным экшеном и захватывающим вордбилдингом. И все в восторге!
+
+Вот только арк «The Shadow Wars» несется со скоростью гоночного болида. По номеру на злодея это, конечно, олдскульно и похвально, но часто темп истории настолько стремительный, что перехватывает дыхание. Если в первом арке нас радовали различными талантами Колина Кинга — шпионажем, тайным проникновением, внушительной коллекцией гаджетов, изобретательным экшеном и многим другим, — то в этом арке у Колина есть время только на один прием — «Because I’m Batman». И из-за этой гонки трепетно выстраиваемая Киндтом репутация зловещей и непобедимой оружейной организации Weaponeer тает с каждым номером, пока ее CEO шастает по свету и выбивает дурь из самых влиятельных ее членов.
+
+![](https://web.archive.org/web/20260125062814im_/http://spidermedia.ru/assets/images/valiant/images/atv19/ninjak-8-review-image-1.jpg)![](https://web.archive.org/web/20260125062814im_/http://spidermedia.ru/assets/images/valiant/images/atv19/ninjak-8-review-image-2.jpg)
+
+Безумный темп маскирует полную остановку сюжета. Что атомная бомба, что начальство, недовольное действиями Колина, — это сюжетозаменители, а не натуральный продукт. Ниндзяк в этой «истории» следует заветам Эша — «[поймать их всех](https://youtu.be/SWjDnCS03gU)». Отсутствие повествования — намеренный ход Киндта, переключившегося на вордбилдинг. Добавляя по штриху за выпуск к интриге связи Бессмертного монаха и культа Мастера Дарка, сценарист скупо намекает на мистическую конспирологию, распутывание которой, сопоставляя обрывки информации из предыдущих номеров, приносит настоящее удовольствие от серии.
+
+Для этой истории основным изобразительным приемом Стивен Сеговия избрал декомпресс. Почти каждая страница может похвастаться копиями или легкой вариацией соседнего фрейма. Иногда кадр обогащается лишними деталями, иногда используется другой ракурс, а иногда художник просто экономит свои силы. А вот чего в его рисунке с избытком, так это плотной штриховки на лицах мужских персонажей. Его рисунок — глянцевые 90-ые: если женщины, то обязательно сексуальные, если мужчины, то накачанно-брутальные, если голые негры, то лоснящиеся и мускулистые.
+
+![](https://web.archive.org/web/20260125062814im_/http://spidermedia.ru/assets/images/valiant/images/atv19/ninjak-8-review-image-3.jpg)![](https://web.archive.org/web/20260125062814im_/http://spidermedia.ru/assets/images/valiant/images/atv19/ninjak-8-review-image-4.jpg)
+
+Рельефная грузность рисунка Хуана Хосе Рипа идеально подходит смертельной битве, в которую превратилось обучение молодого Колина в таинственном монастыре. Грязь, пот и кровь заставляют поверить, что перед нами настоящие, пусть и перекаченные люди.
+
+Покраска Улисеса Арреола выполняет две функции: компенсирует фоновую бедность Сеговии и топит детализрованность Рипа в оранжевых тонах. Хотя засилье этого выжигающего сетчатку цветового решения играет на руку истории бэкапа, подготавливая читателя к интересному твисту.
+
+В Ninjak #8 есть самодостаточная история, крепкий экшен, пара интересных твистов, — есть все, чтобы подцепить любого неофита. А легкий кивок Киндта на второй арк Unity, в котором клоны Фитза были мелкими злодеями, будет безразличен даже преданным фанатам. Их больше волнует вопрос: «когда в бэкапе появится Року?»
+
+";s:8:"mjdzText";s:0:"";s:10:"conclusion";s:10:"ДОБРО";}}}i:2;a:7:{s:5:"autor";a:3:{i:1;a:2:{i:0;s:16:"Сценарий";i:1;s:23:"Джеймс Асмус";}i:3;a:2:{i:0;s:14:"Рисунок";i:1;s:25:"Диего Бернард";}i:5;a:2:{i:0;s:8:"Цвет";i:1;s:25:"Эндрю Долхаус";}}s:4:"name";s:5:"Unity";s:7:"edition";s:3:"#23";s:5:"cover";s:54:"assets/images/valiant/images/atv19/unity-023-cover.jpg";s:9:"publisher";s:4:"1249";s:4:"year";s:0:"";s:8:"comments";a:1:{i:1;a:4:{s:5:"autor";s:6:"183731";s:4:"text";s:4946:"
+
+Серии нужна была встряска после того болота, в которое загнал ее сюжет про Вар-Монгер. И эти перемены явились в лице новой авторской команды, сделавшей все профессионально, но скучно.
+
+Джеймс Асмус написал крепкий боевик, пестрящий отсылками к поп-культуре. А легкие подшучивания, которые Асмус вкладывает в уста героев, отличает его подход от формальной «over-the-top» серьезной командной супергероики Мэтта Киндта.
+
+![](https://web.archive.org/web/20260125062814im_/http://spidermedia.ru/assets/images/valiant/images/atv19/unity-23-review-image-1.jpg)
+
+Асмусу дали задание провести персонажей из точки А (текущее состояние «Unity» — братья по оружию на век, готовые друг за друга порвать противнику горло) в точку Б (события «Book of Death», где команда показана как сборище параноидальных тупиц, не верящих своему бывшему товарищу). Джеймс выбирает путь наименьшего сопротивления: опираясь на намеки Киндта: он изображает команду как людей, в трудную минуту сомневающихся в лояльности друг друга и не способных сообща справиться с возникающими проблемами.
+
+Другая задача, которая стояла перед Джеймсом, — подчистить сюжетные хвосты «Armor Hunters». И раз это опоздавшее на год заключение эвента, то новичкам тут не рады. А для преданных поклонников этот номер совершенно лишен интриги. Удовольствие будет прямо пропорционально тому, насколько вам понравился каст Охотников за броней и ждали ли вы его возвращения.
+
+![](https://web.archive.org/web/20260125062814im_/http://spidermedia.ru/assets/images/valiant/images/atv19/unity-23-review-image-2.jpg)
+
+Но возвращаются к «Armor Hunters» не только фанаты, но и художник. Диего Бернард рисовал тай-ин к эвенту — X-O Manowar #23-32. У него хороший арт: его люди выглядят как люди, а монстры как монстры, персонажей легко различить по лицам и у его фонов достаточно деталей. Хотя, иногда эмоции персонажей могут и не подходить сцене, но это терпимо. Пожалуй, наиболее интересная сторона художника — это его смелые композиционные решения. Последнее, скорее всего, связано с необходимостью ужать множество событий до двух номеров.
+
+Эндрю Долхаус красит рисунок мягкими теплыми тонами. Персонажи в его исполнении не сливаются с фоном, а сами задники у него, в основном, обходятся без текстуры. Покраска отдельных фреймов не разрушает целостность всей страницы.
+
+Если попытаться описать Unity #23 одним словом, то это будет «стандарт». Это крепкая, профессиональная работа, как сценариста, так и команды иллюстраторов. Здесь нет ничего выдающегося, также как нет и ничего, за что следует поругать. Хороший комикс про команду сверхлюдей. Но согласны ли вы читать нечто заурядное без любимого Бэтмена/Тора?
+
+";s:8:"mjdzText";s:0:"";s:10:"conclusion";s:8:"ЖИЖА";}}}i:3;a:7:{s:5:"autor";a:3:{i:1;a:2:{i:0;s:16:"Сценарий";i:1;s:29:"Роберт Вендитти";}i:3;a:2:{i:0;s:14:"Рисунок";i:1;s:25:"Рафа Сандовал";}i:5;a:2:{i:0;s:8:"Цвет";i:1;s:27:"Улисес Арреола";}}s:4:"name";s:11:"X-O Manowar";s:7:"edition";s:3:"#41";s:5:"cover";s:60:"assets/images/valiant/images/atv19/x-o-manowar-041-cover.jpg";s:9:"publisher";s:4:"1249";s:4:"year";s:4:"2015";s:8:"comments";a:1:{i:1;a:4:{s:5:"autor";s:6:"183732";s:4:"text";s:5535:"
+
+Представьте, что вам заказали сценарий комикса из четырех номеров, но сюжета вы смогли придумать только на два выпуска. Что делать? Спросите у Роберта Вендитти, он знает, что вам поможет: диалоги, пересказы событий предыдущих частей и диалоги, пересказывающие события предыдущих частей. С Книгой Смерти же сработало, сработает и с очередным арком X-O Manowar.
+
+![](https://web.archive.org/web/20260125062814im_/http://spidermedia.ru/assets/images/valiant/images/atv19/x-o-manowar-041-image-001.jpg)
+
+*Как же я люблю название этого корабля*
+
+Арик и полковник Кэпшоу пытаются мирно разрешить недопонимание, возникшее между людьми и расой Vine. Но что-то, как всегда, идет не так, и вот уже инопланетный флот вторгается на Землю.
+
+Пусть вас не обманывает цифра «3», указанная на странице рекапа, сюжет «Исход» по-настоящему начинается только сейчас. К чести Вендитти, история в X-O Manowar #41 действительно продвигается вперед, пусть это и происходит на фоне растянутых и ненужных диалогов, которые занимают основную часть комикса. Центральный конфликт тоже развивается и начинает перетекать в активную фазу. Но вот какими средствами это достигается. Очень удобно, когда секретного агента Vine выбирают охранять мирные переговоры, не правда ли? Сама же сцена примирения получилась очень добротной. И Кэпшоу (хотя ее речь можно было сократить вдвое), и жрец с командором Дэлганом изображены адекватными взрослыми людьми (и пришельцами), которые вместе пытаются достичь компромисса. Развязка переговоров вышла напряженной и вызывающей чувство скорой катастрофы.
+
+![](https://web.archive.org/web/20260125062814im_/http://spidermedia.ru/assets/images/valiant/images/atv19/x-o-manowar-041-image-002.jpg)
+
+*Trill* *sends* *his* *regards*
+
+И нельзя не отметить потрясающую помощницу Трилла — Жаклин. Крутости этой женщины позавидовал бы сам Брюс Уиллис. Вот бы она наподдала командору и сама бы руководила инопланетными войсками. Но это все мечты, ведь уже подтвердили, что Трилл станет наиглавнейшим противником Арика.
+
+Рафа Сандовал в очередной раз выдает очень красивый рисунок. Единственный минус — летательные аппараты Vine. Космические корабли пришельцев смотрятся несколько простовато и скучно, из-за чего [эта страница](http://spidermedia.ru/assets/images/valiant/files/atv19/x-o-manowar-041-image-003.jpg) выглядит не так впечатляюще. Приятно, что цвета Улисеса Арреолы работают на художника, а не против него (как в случае Хуана Хосе Рипа), добавляя рисунку необходимого лоска и эффектности, без малейших потерь детализации.
+
+«Исход» попал в ловушку стандартной вэлиантовской структуры сюжетов из четырех частей. Будь он чуть короче (или сценарист чуть талантливее), все было бы куда бодрее. А так получилась типичная супергеройская история с неплохой идеей, растянутая на необходимое количество номеров бесполезной (по большей части) болтовней.
+
+P.S. Еще в этом номере присутствует одно из самых глупых разрешений клиффхэнгера, какое я видел.
+
+";s:8:"mjdzText";s:0:"";s:10:"conclusion";s:8:"ЖИЖА";}}}}

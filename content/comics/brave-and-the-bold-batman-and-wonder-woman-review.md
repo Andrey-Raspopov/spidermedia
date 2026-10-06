@@ -9,6 +9,12 @@
     "batman",
     "wonder-woman"
   ],
+  "cover": "https://web.archive.org/web/20260313121130im_/http://spidermedia.ru/assets/images/reviews/dc/brave-and-bold/batman-and-ww/mzk.jpg",
+  "modx_id": 101855,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

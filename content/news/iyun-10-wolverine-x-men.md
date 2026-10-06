@@ -1,7 +1,10 @@
 {
   "title": "Июнь '10: Wolverine & X-Men",
-  "date": "2010-05-31T21:11:00+03:00",
+  "date": "2010-05-31T20:11:58+03:00",
   "url": "/news/iyun-10-wolverine-x-men/",
+  "aliases": [
+    "/node/2644/"
+  ],
   "original_url": "http://spidermedia.ru/news/iyun-10-wolverine-x-men",
   "archived": "https://web.archive.org/web/20260206225529/http://spidermedia.ru/news/iyun-10-wolverine-x-men",
   "tags": [
@@ -9,13 +12,20 @@
     "daken",
     "x-men",
     "wolverine",
-    "marvel"
+    "marvel",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20260206225529im_/http://spidermedia.ru/assets/images/import_image/2644.jpg",
+  "modx_id": 2644,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-Пока все главные икс-серии участвуют во [**Втором Пришествии** **(Second Coming)**](../../node/2643/), впрочем, это не касается новой-старой икс-серии от **Уоррена Эллиса** **(Warren Ellis)** - **Astonishing X-Men**, представляем вам релизы комиксов посвященных **Росомахе** **(Wolverine)**, **Людям Икс** *(X-Men)*, а так же нескольким аут-оф-континьюти тайтлам на июнь 2010.
+Пока все главные икс-серии участвуют во [**Втором Пришествии** **(Second Coming)**](../iyun-10-second-coming/), впрочем, это не касается новой-старой икс-серии от **Уоррена Эллиса** **(Warren Ellis)** - **Astonishing X-Men**, представляем вам релизы комиксов посвященных **Росомахе** **(Wolverine)**, **Людям Икс** *(X-Men)*, а так же нескольким аут-оф-континьюти тайтлам на июнь 2010.
 ![](https://web.archive.org/web/20260206225529im_/http://img.photobucket.com/albums/v499/sp888/news/Wolverine1.jpg)
 
 [![](https://web.archive.org/web/20260206225529im_/http://i.annihil.us/u/prod/marvel/i/content/69600comic_storystory_thumb-8926486..jpg)](http://images.comicbookresources.com/solicits/marvelcomics/201006-advance/36_DARK_WOLVERINE_87.jpg) **Dark Wolverine #87**

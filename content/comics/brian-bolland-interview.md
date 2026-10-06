@@ -8,6 +8,12 @@
     "dc-comics",
     "brian-bolland"
   ],
+  "cover": "https://web.archive.org/web/20250818083405im_/http://spidermedia.ru/assets/images/news/dc/brian-bolland/gb0gmjmhlbs.jpg",
+  "modx_id": 100211,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

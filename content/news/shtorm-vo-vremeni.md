@@ -1,11 +1,20 @@
 {
   "title": "Шторм во времени",
-  "date": "2009-01-30T23:16:00+03:00",
+  "date": "2009-01-30T23:16:06+03:00",
   "url": "/news/shtorm-vo-vremeni/",
+  "aliases": [
+    "/node/26/"
+  ],
   "original_url": "http://spidermedia.ru/news/shtorm-vo-vremeni",
   "archived": "https://web.archive.org/web/20250422035721/http://spidermedia.ru/news/shtorm-vo-vremeni",
   "tags": [
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20250422035721im_/http://spidermedia.ru/assets/images/import_image/26.jpg",
+  "modx_id": 26,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

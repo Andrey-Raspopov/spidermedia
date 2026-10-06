@@ -1,12 +1,18 @@
 {
   "title": "Геймплей отменённой игры \"Мстители\" (ВИДЕО)",
-  "date": "2011-09-19T12:50:00+03:00",
+  "date": "2011-09-19T11:50:35+03:00",
   "url": "/news/geympley-otmenyonnoy-igry-mstiteli-video/",
   "original_url": "http://spidermedia.ru/news/geympley-otmenyonnoy-igry-mstiteli-video",
   "archived": "https://web.archive.org/web/20260314080212/http://spidermedia.ru/news/geympley-otmenyonnoy-igry-mstiteli-video",
   "tags": [
     "avengers",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150326033934im_/http://spidermedia.ru/assets/images/import_image/6610.jpg",
+  "modx_id": 6610,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,13 +1,20 @@
 {
   "title": "SyFy экранизирует комикс \"Booster Gold\"",
-  "date": "2011-11-24T17:00:00+03:00",
+  "date": "2011-11-24T16:00:41+03:00",
   "url": "/news/syfy-ekraniziruet-komiks-booster-gold/",
   "original_url": "https://spidermedia.ru/news/syfy-ekraniziruet-komiks-booster-gold",
   "archived": "https://web.archive.org/web/20260125115407/https://spidermedia.ru/news/syfy-ekraniziruet-komiks-booster-gold",
   "tags": [
     "serialy",
     "buster-gold",
-    "dc-comics"
+    "dc-comics",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20260125115407im_/http://spidermedia.ru/assets/images/import_image/6712.jpg",
+  "modx_id": 6712,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

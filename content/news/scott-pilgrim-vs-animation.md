@@ -1,6 +1,6 @@
 {
   "title": "Scott Pilgrim vs. The Animation",
-  "date": "2010-08-13T21:13:00+03:00",
+  "date": "2010-08-13T20:13:15+03:00",
   "url": "/news/scott-pilgrim-vs-animation/",
   "original_url": "http://spidermedia.ru/news/scott-pilgrim-vs-animation",
   "archived": "https://web.archive.org/web/20251108032351/http://spidermedia.ru/news/scott-pilgrim-vs-animation",
@@ -8,6 +8,11 @@
     "scott-pilgrim",
     "animaciya",
     "oni-press"
+  ],
+  "modx_id": 2857,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

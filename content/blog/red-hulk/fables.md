@@ -1,13 +1,23 @@
 {
   "title": "Fables",
-  "date": "2009-02-15T02:16:00+03:00",
+  "date": "2009-02-15T02:16:29+03:00",
   "url": "/blog/red-hulk/fables/",
+  "aliases": [
+    "/node/368/"
+  ],
   "original_url": "http://spidermedia.ru/blog/red-hulk/fables",
   "archived": "https://web.archive.org/web/20250808205404/http://spidermedia.ru/blog/red-hulk/fables",
   "tags": [
     "vertigo",
     "fables",
-    "serialy"
+    "serialy",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20250808205404im_/http://spidermedia.ru/assets/images/import_image/368.jpg",
+  "modx_id": 368,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

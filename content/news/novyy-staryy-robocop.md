@@ -1,7 +1,10 @@
 {
   "title": "Новый старый RoboCop",
-  "date": "2009-11-07T01:49:00+03:00",
+  "date": "2009-11-07T01:49:19+03:00",
   "url": "/news/novyy-staryy-robocop/",
+  "aliases": [
+    "/node/2070/"
+  ],
   "original_url": "https://spidermedia.ru/news/novyy-staryy-robocop",
   "archived": "https://web.archive.org/web/20260123092552/https://spidermedia.ru/news/novyy-staryy-robocop",
   "tags": [
@@ -9,13 +12,19 @@
     "rob-uillyams",
     "art-0",
     "robocop",
-    "dynamite-entertainment"
+    "dynamite-entertainment",
+    "art"
+  ],
+  "modx_id": 2070,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-Этим летом [всплыла](../../node/1395/) информация о том, что новому комикс-воплощению легендарного **Робокопа** *(Robocop)* дан зеленый свет и в ближайшем будущем стоит готовиться к долгожданному возвращению робота-полицейского. Спустя месяцы издательство **Dynamite Entertainment**, которому достался Робокоп в долговременное пользование, спешит поделиться свежей информацией о грядущей серии:
+Этим летом [всплыла](../youre-under-arrest/) информация о том, что новому комикс-воплощению легендарного **Робокопа** *(Robocop)* дан зеленый свет и в ближайшем будущем стоит готовиться к долгожданному возвращению робота-полицейского. Спустя месяцы издательство **Dynamite Entertainment**, которому достался Робокоп в долговременное пользование, спешит поделиться свежей информацией о грядущей серии:
 [![](https://web.archive.org/web/20260123092552im_/http://www.comicbookresources.com/assets/phpThumb/phpThumb.php?src=/assets/images/articles/1257371324.jpg&w=200)](http://www.comicbookresources.com/assets/images/articles/1257371324.jpg)
 
 Обложка **Стивена Сеговии** *(Stephen Segovia)*

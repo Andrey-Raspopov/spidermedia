@@ -1,13 +1,22 @@
 {
   "title": "Комиксы DC Universe. Выпуск № 05",
-  "date": "2009-07-10T22:29:00+03:00",
+  "date": "2009-07-10T21:29:33+03:00",
   "url": "/blog/derden/komiksy-dc-universe-vypusk-no-05/",
+  "aliases": [
+    "/node/1529/"
+  ],
   "original_url": "http://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-05",
   "archived": "https://web.archive.org/web/20190811002347/http://spidermedia.ru:80/blog/derden/komiksy-dc-universe-vypusk-no-05",
   "tags": [
     "dc-comics",
     "outsiders",
     "dc-universe-comics"
+  ],
+  "cover": "https://web.archive.org/web/20190811002347im_/http://spidermedia.ru/assets/images/import_image/1529.gif",
+  "modx_id": 1529,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

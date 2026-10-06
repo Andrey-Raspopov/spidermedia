@@ -1,13 +1,23 @@
 {
   "title": "Кромсай и режь! Теперь и в кинотеатрах.",
-  "date": "2009-03-30T15:23:00+03:00",
+  "date": "2009-03-30T14:23:20+03:00",
   "url": "/news/kromsay-i-rezh-teper-i-v-kinoteatrah/",
+  "aliases": [
+    "/node/805/"
+  ],
   "original_url": "http://spidermedia.ru/news/kromsay-i-rezh-teper-i-v-kinoteatrah",
   "archived": "https://web.archive.org/web/20120610040439/http://spidermedia.ru/news/kromsay-i-rezh-teper-i-v-kinoteatrah",
   "tags": [
     "hack-slash",
     "kino",
-    "komiksy"
+    "komiksy",
+    "hackslash"
+  ],
+  "cover": "https://web.archive.org/web/20120610040439im_/http://spidermedia.ru/assets/images/import_image/805.jpg",
+  "modx_id": 805,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

@@ -1,13 +1,21 @@
 {
   "title": "\"Люди Икс: Дни минувшего будущего\": Первые постеры (UPD.)",
-  "date": "2013-07-23T00:38:00+03:00",
+  "date": "2013-07-22T23:38:26+03:00",
   "url": "/news/lyudi-iks-dni-minuvshego-budushchego-pervye-oficialnye-postery/",
   "original_url": "https://spidermedia.ru/news/lyudi-iks-dni-minuvshego-budushchego-pervye-oficialnye-postery",
   "archived": "https://web.archive.org/web/20260117223922/https://spidermedia.ru/news/lyudi-iks-dni-minuvshego-budushchego-pervye-oficialnye-postery",
   "tags": [
     "postery",
     "days-of-future-past",
-    "x-men"
+    "x-men",
+    "dni-minuvshego-budushhego",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20260117223922im_/http://spidermedia.ru/assets/images/import_image/7376.jpg",
+  "modx_id": 7376,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

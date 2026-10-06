@@ -7,6 +7,12 @@
   "tags": [
     "doctor-who"
   ],
+  "cover": "https://web.archive.org/web/20230105030909im_/http://spidermedia.ru/assets/images/tv/doctor-who/doctor_who_sleep_no_more_main.jpg",
+  "modx_id": 100715,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

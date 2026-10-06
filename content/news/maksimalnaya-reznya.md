@@ -1,7 +1,10 @@
 {
   "title": "Максимальная Резня",
-  "date": "2010-09-29T21:19:00+03:00",
+  "date": "2010-09-29T20:19:17+03:00",
   "url": "/news/maksimalnaya-reznya/",
+  "aliases": [
+    "/node/2956/"
+  ],
   "original_url": "https://spidermedia.ru/news/maksimalnaya-reznya",
   "archived": "https://web.archive.org/web/20260121012224/https://spidermedia.ru/news/maksimalnaya-reznya",
   "tags": [
@@ -11,7 +14,14 @@
     "art-0",
     "marvel",
     "karnazh",
-    "spider-man"
+    "spider-man",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20260121012224im_/http://spidermedia.ru/assets/images/import_image/2956.jpg",
+  "modx_id": 2956,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

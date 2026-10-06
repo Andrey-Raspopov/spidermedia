@@ -1,6 +1,6 @@
 {
   "title": "\"Амфора\" издаст комикс Фрэнка Миллера \"300\"",
-  "date": "2014-07-30T21:31:00+03:00",
+  "date": "2014-07-30T20:31:24+03:00",
   "url": "/news/amfora-izdast-komiks-frenka-millera-300/",
   "original_url": "http://spidermedia.ru/news/amfora-izdast-komiks-frenka-millera-300",
   "archived": "https://web.archive.org/web/20251006014137/http://spidermedia.ru/news/amfora-izdast-komiks-frenka-millera-300",
@@ -8,6 +8,12 @@
     "zarubezhnye-komiksy-na-russkom",
     "amfora",
     "frenk-miller"
+  ],
+  "cover": "https://web.archive.org/web/20251006014137im_/http://spidermedia.ru/assets/images/import_image/7949.jpg",
+  "modx_id": 7949,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

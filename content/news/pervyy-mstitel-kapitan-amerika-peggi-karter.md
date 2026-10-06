@@ -1,11 +1,17 @@
 {
   "title": "\"Первый Мститель\" - Пегги Картер",
-  "date": "2010-09-24T11:29:00+03:00",
+  "date": "2010-09-24T10:29:18+03:00",
   "url": "/news/pervyy-mstitel-kapitan-amerika-peggi-karter/",
   "original_url": "http://spidermedia.ru/news/pervyy-mstitel-kapitan-amerika-peggi-karter",
   "archived": "https://web.archive.org/web/20241212085232/http://spidermedia.ru/news/pervyy-mstitel-kapitan-amerika-peggi-karter",
   "tags": [
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20210820092424im_/https://spidermedia.ru/assets/images/import_image/2939.jpg",
+  "modx_id": 2939,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

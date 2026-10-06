@@ -1,7 +1,10 @@
 {
   "title": "Перевоссоединение",
-  "date": "2010-03-11T13:56:00+03:00",
+  "date": "2010-03-11T13:56:01+03:00",
   "url": "/news/perevossoedinenie/",
+  "aliases": [
+    "/node/2432/"
+  ],
   "original_url": "https://spidermedia.ru/news/perevossoedinenie",
   "archived": "https://web.archive.org/web/20251208080142/https://spidermedia.ru/news/perevossoedinenie",
   "tags": [
@@ -15,6 +18,12 @@
     "heroic-age",
     "era-geroev",
     "devid-lopes"
+  ],
+  "cover": "https://web.archive.org/web/20251208080142im_/http://spidermedia.ru/assets/images/import_image/2432.jpg",
+  "modx_id": 2432,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

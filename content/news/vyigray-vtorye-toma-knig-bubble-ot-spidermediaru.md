@@ -1,6 +1,6 @@
 {
   "title": "Выиграй вторые тома книг BUBBLE от SpiderMedia.ru!",
-  "date": "2014-12-16T11:53:00+03:00",
+  "date": "2014-12-16T11:53:33+03:00",
   "url": "/news/vyigray-vtorye-toma-knig-bubble-ot-spidermediaru/",
   "original_url": "http://spidermedia.ru/news/vyigray-vtorye-toma-knig-bubble-ot-spidermediaru",
   "archived": "https://web.archive.org/web/20260211184410/http://spidermedia.ru/news/vyigray-vtorye-toma-knig-bubble-ot-spidermediaru",
@@ -8,6 +8,12 @@
     "russian-comics",
     "konkurs",
     "bubble"
+  ],
+  "cover": "https://web.archive.org/web/20150428170915im_/http://spidermedia.ru/assets/images/import_image/8382.jpg",
+  "modx_id": 8382,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

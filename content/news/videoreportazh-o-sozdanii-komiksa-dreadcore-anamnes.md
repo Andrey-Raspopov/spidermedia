@@ -1,11 +1,16 @@
 {
   "title": "Видеорепортаж о создании комикса DREADCORE: ANAMNES",
-  "date": "2014-03-20T13:36:00+03:00",
+  "date": "2014-03-20T12:36:06+03:00",
   "url": "/news/videoreportazh-o-sozdanii-komiksa-dreadcore-anamnes/",
   "original_url": "http://spidermedia.ru/news/videoreportazh-o-sozdanii-komiksa-dreadcore-anamnes",
   "archived": "https://web.archive.org/web/20250920202414/http://spidermedia.ru/news/videoreportazh-o-sozdanii-komiksa-dreadcore-anamnes",
   "tags": [
     "izdatelstvo-42"
+  ],
+  "modx_id": 7690,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "The Hammer Strikes! - SPOILER ALERT",
-  "date": "2010-01-21T19:41:00+03:00",
+  "date": "2010-01-21T18:41:05+03:00",
   "url": "/news/hammer-strikes-spoiler-alert/",
+  "aliases": [
+    "/node/2293/"
+  ],
   "original_url": "http://spidermedia.ru/news/hammer-strikes-spoiler-alert",
   "archived": "https://web.archive.org/web/20120611045939/http://spidermedia.ru/news/hammer-strikes-spoiler-alert",
   "tags": [
@@ -14,7 +17,15 @@
     "komiksy",
     "marvel",
     "preview-s",
-    "spoylery"
+    "spoylery",
+    "spojlery",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20120611045939im_/http://spidermedia.ru/assets/images/import_image/2293.jpg",
+  "modx_id": 2293,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

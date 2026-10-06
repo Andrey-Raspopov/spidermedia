@@ -7,6 +7,12 @@
   "tags": [
     "geroi"
   ],
+  "cover": "https://web.archive.org/web/20241205093226im_/http://spidermedia.ru/assets/images/tv/heroes-reborn/heroes-reborn-poster.jpg",
+  "modx_id": 100598,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

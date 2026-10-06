@@ -11,6 +11,12 @@
     "istoriya",
     "kirby100"
   ],
+  "cover": "https://web.archive.org/web/20251108191828im_/http://spidermedia.ru/assets/images/articles/oldkomix/fourth-world/00.jpg",
+  "modx_id": 101764,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

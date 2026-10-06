@@ -8,6 +8,12 @@
     "dc-comics",
     "joker"
   ],
+  "cover": "https://web.archive.org/web/20150315175431im_/http://spidermedia.ru/assets/images/news/dc/variant-covers/action_cut.jpg",
+  "modx_id": 100074,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

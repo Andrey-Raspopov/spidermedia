@@ -1,13 +1,20 @@
 {
   "title": "Мастрид манги от Дердена #4: Boku to Issho, Фуруя Минора",
-  "date": "2014-11-27T14:31:00+03:00",
+  "date": "2014-11-27T14:31:13+03:00",
   "url": "/blog/derden/mastrid-mangi-ot-derdena-4-boku-ishho-furuya-minora/",
   "original_url": "https://spidermedia.ru/blog/derden/mastrid-mangi-ot-derdena-4-boku-ishho-furuya-minora",
   "archived": "https://web.archive.org/web/20251211035124/https://spidermedia.ru/blog/derden/mastrid-mangi-ot-derdena-4-boku-ishho-furuya-minora",
   "tags": [
     "furuya-minora",
     "manga",
-    "bokku-to-issho"
+    "bokku-to-issho",
+    "manga-2"
+  ],
+  "cover": "https://web.archive.org/web/20251211035124im_/http://spidermedia.ru/assets/images/import_image/8324.jpg",
+  "modx_id": 8324,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

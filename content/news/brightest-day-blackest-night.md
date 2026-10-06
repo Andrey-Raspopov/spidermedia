@@ -1,12 +1,20 @@
 {
   "title": "In Brightest Day, In Blackest Night...",
-  "date": "2010-11-13T08:47:00+03:00",
+  "date": "2010-11-13T08:47:11+03:00",
   "url": "/news/brightest-day-blackest-night/",
+  "aliases": [
+    "/node/3062/"
+  ],
   "original_url": "https://spidermedia.ru/news/brightest-day-blackest-night",
   "archived": "https://web.archive.org/web/20260121000939/https://spidermedia.ru/news/brightest-day-blackest-night",
   "tags": [
     "green-lantern",
     "dc-comics"
+  ],
+  "modx_id": 3062,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

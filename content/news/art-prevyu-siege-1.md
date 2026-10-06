@@ -1,7 +1,10 @@
 {
   "title": "Арт-превью Siege #1",
-  "date": "2009-11-26T20:00:00+03:00",
+  "date": "2009-11-26T20:00:59+03:00",
   "url": "/news/art-prevyu-siege-1/",
+  "aliases": [
+    "/node/2134/"
+  ],
   "original_url": "https://spidermedia.ru/news/art-prevyu-siege-1",
   "archived": "https://web.archive.org/web/20251006143628/https://spidermedia.ru/news/art-prevyu-siege-1",
   "tags": [
@@ -11,7 +14,15 @@
     "brian-michael-bendis",
     "art-0",
     "siege",
-    "marvel"
+    "marvel",
+    "prevyu",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20251006143628im_/http://spidermedia.ru/assets/images/import_image/2134.jpg",
+  "modx_id": 2134,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

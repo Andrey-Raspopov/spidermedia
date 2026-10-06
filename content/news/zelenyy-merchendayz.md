@@ -1,12 +1,20 @@
 {
   "title": "Зеленый мерчендайз",
-  "date": "2010-11-18T22:49:00+03:00",
+  "date": "2010-11-18T22:49:28+03:00",
   "url": "/news/zelenyy-merchendayz/",
+  "aliases": [
+    "/node/3073/"
+  ],
   "original_url": "https://spidermedia.ru/news/zelenyy-merchendayz",
   "archived": "https://web.archive.org/web/20260211184337/https://spidermedia.ru/news/zelenyy-merchendayz",
   "tags": [
     "green-lantern",
     "dc-comics"
+  ],
+  "modx_id": 3073,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

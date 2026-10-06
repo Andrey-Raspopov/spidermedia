@@ -1,6 +1,6 @@
 {
   "title": "Рецензия на фильм \"Мстители\"",
-  "date": "2012-04-21T13:12:00+03:00",
+  "date": "2012-04-21T12:12:45+03:00",
   "url": "/news/recenziya-na-film-mstiteli/",
   "original_url": "http://spidermedia.ru/news/recenziya-na-film-mstiteli",
   "archived": "https://web.archive.org/web/20140417041119/http://spidermedia.ru:80/news/recenziya-na-film-mstiteli",
@@ -9,6 +9,12 @@
     "marvel",
     "avengers",
     "recenziya"
+  ],
+  "cover": "https://web.archive.org/web/20140417041119im_/http://spidermedia.ru/assets/images/import_image/6884.jpg",
+  "modx_id": 6884,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

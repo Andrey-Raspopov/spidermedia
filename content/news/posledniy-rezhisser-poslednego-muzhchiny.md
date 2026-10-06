@@ -1,12 +1,18 @@
 {
   "title": "Последний режиссер \"Последнего мужчины\"",
-  "date": "2013-01-10T20:59:00+03:00",
+  "date": "2013-01-10T19:59:02+03:00",
   "url": "/news/posledniy-rezhisser-poslednego-muzhchiny/",
   "original_url": "https://spidermedia.ru/news/posledniy-rezhisser-poslednego-muzhchiny",
   "archived": "https://web.archive.org/web/20260117225824/https://spidermedia.ru/news/posledniy-rezhisser-poslednego-muzhchiny",
   "tags": [
     "y-the-last-man",
     "vertigo"
+  ],
+  "cover": "https://web.archive.org/web/20150503105854im_/http://spidermedia.ru/assets/images/import_image/7114.jpg",
+  "modx_id": 7114,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

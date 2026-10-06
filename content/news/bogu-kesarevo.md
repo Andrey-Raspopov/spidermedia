@@ -1,6 +1,6 @@
 {
   "title": "Богу кесарево",
-  "date": "2011-01-27T03:41:00+03:00",
+  "date": "2011-01-27T03:41:07+03:00",
   "url": "/news/bogu-kesarevo/",
   "original_url": "http://spidermedia.ru/news/bogu-kesarevo",
   "archived": "https://web.archive.org/web/20260121010159/http://spidermedia.ru/news/bogu-kesarevo",
@@ -15,6 +15,12 @@
     "marvel",
     "domovoj",
     "hercules"
+  ],
+  "cover": "https://web.archive.org/web/20260121010159im_/http://spidermedia.ru/assets/images/import_image/3193.jpg",
+  "modx_id": 3193,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

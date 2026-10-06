@@ -1,6 +1,6 @@
 {
   "title": "Постер, кадры и новое видео Зеленого Фонаря",
-  "date": "2011-04-22T18:10:00+03:00",
+  "date": "2011-04-22T17:10:14+03:00",
   "url": "/news/poster-kadry-i-novoe-video-zelenogo-fonarya/",
   "original_url": "https://spidermedia.ru/news/poster-kadry-i-novoe-video-zelenogo-fonarya",
   "archived": "https://web.archive.org/web/20260211181925/https://spidermedia.ru/news/poster-kadry-i-novoe-video-zelenogo-fonarya",
@@ -8,6 +8,12 @@
     "green-lantern",
     "dc-comics",
     "postery"
+  ],
+  "cover": "https://web.archive.org/web/20260211181925im_/http://spidermedia.ru/assets/images/import_image/5168.jpg",
+  "modx_id": 5168,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

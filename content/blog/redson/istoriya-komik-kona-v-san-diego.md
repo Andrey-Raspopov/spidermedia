@@ -1,13 +1,23 @@
 {
   "title": "История Комик-Кона в Сан-Диего",
-  "date": "2009-07-22T02:06:00+03:00",
+  "date": "2009-07-22T01:06:15+03:00",
   "url": "/blog/redson/istoriya-komik-kona-v-san-diego/",
+  "aliases": [
+    "/node/1615/"
+  ],
   "original_url": "http://spidermedia.ru/blog/redson/istoriya-komik-kona-v-san-diego",
   "archived": "https://web.archive.org/web/20111126083805/http://spidermedia.ru/blog/redson/istoriya-komik-kona-v-san-diego",
   "tags": [
     "kino",
     "komik-kon-v-san-diego",
-    "komiksy"
+    "komiksy",
+    "san-diego-comic-con-international"
+  ],
+  "cover": "https://web.archive.org/web/20111126083805im_/http://spidermedia.ru/assets/images/import_image/1615.gif",
+  "modx_id": 1615,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

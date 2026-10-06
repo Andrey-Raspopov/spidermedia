@@ -1,13 +1,21 @@
 {
   "title": "Лёгкий хип, метапроза и хорошие комиксы",
-  "date": "2009-08-08T10:38:00+03:00",
+  "date": "2009-08-08T09:38:48+03:00",
   "url": "/blog/gess/lyogkiy-hip-metaproza-i-horoshie-komiksy/",
   "original_url": "https://spidermedia.ru/blog/gess/lyogkiy-hip-metaproza-i-horoshie-komiksy",
   "archived": "https://web.archive.org/web/20260125061457/https://spidermedia.ru/blog/gess/lyogkiy-hip-metaproza-i-horoshie-komiksy",
   "tags": [
     "matt-fraction",
     "muzyka",
-    "iron-man"
+    "iron-man",
+    "mett-frakshen",
+    "invincible-iron-man"
+  ],
+  "cover": "https://web.archive.org/web/20260125061457im_/http://spidermedia.ru/assets/images/import_image/1742.jpg",
+  "modx_id": 1742,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

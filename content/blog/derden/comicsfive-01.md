@@ -1,13 +1,22 @@
 {
   "title": "Comicsfive 01",
-  "date": "2010-09-20T14:48:00+03:00",
+  "date": "2010-09-20T13:48:46+03:00",
   "url": "/blog/derden/comicsfive-01/",
+  "aliases": [
+    "/node/2927/"
+  ],
   "original_url": "http://spidermedia.ru/blog/derden/comicsfive-01",
   "archived": "https://web.archive.org/web/20240422185408/http://spidermedia.ru/blog/derden/comicsfive-01",
   "tags": [
     "rob-zombi",
     "toni-harris",
     "warren-ellis"
+  ],
+  "cover": "https://web.archive.org/web/20240422185408im_/http://spidermedia.ru/assets/images/import_image/2927.jpg",
+  "modx_id": 2927,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,12 +1,21 @@
 {
   "title": "Best of 2010 .3 - Смотрим в будущее",
-  "date": "2011-01-09T15:13:00+03:00",
+  "date": "2011-01-09T15:13:45+03:00",
   "url": "/blog/plane-v/best-2010-3-smotrim-v-budushchee/",
+  "aliases": [
+    "/node/3151/"
+  ],
   "original_url": "https://spidermedia.ru/blog/plane-v/best-2010-3-smotrim-v-budushchee",
   "archived": "https://web.archive.org/web/20251115031555/https://spidermedia.ru/blog/plane-v/best-2010-3-smotrim-v-budushchee",
   "tags": [
     "kurt-busiek",
     "brian-azzarello"
+  ],
+  "cover": "https://web.archive.org/web/20251115031555im_/http://spidermedia.ru/assets/images/import_image/3151.jpg",
+  "modx_id": 3151,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
@@ -34,14 +43,14 @@ jkjkjk
 [![Habibi](https://web.archive.org/web/20251115031555im_/http://img.photobucket.com/albums/v497/spidermedia/plane_news/best%20comics%20of%202010/habibi_1.jpg)](http://img.photobucket.com/albums/v497/spidermedia/plane_news/best%20comics%20of%202010/habibi.jpg)
 **Spaceman**. Брайан Аззарелло, Эдуардо Риссо, ниндзя обложек Дэйв Джонсон и редактор Уилл Дэннис - команда 100 Bullets в полном составе работает над сай-фаем в духе Блейд Раннера, эти ребята просто не могут проиграть.
 [**Snapshot**](http://robot6.comicbookresources.com/2010/07/sneak-a-peek-at-andy-diggle-and-jocks-image-thriller-snapshot/). Энди Диггл и Джок, jump in for a ride.
-**[Super Natural](http://robot6.comicbookresources.com/2011/01/from-spies-to-spirits-matt-kindt-conjures-up-super-natural/)**. Еще один тематический сиквел - на этот раз от Мэтта Кинта и к его хитрой книжке Super Spy, которая мне [очень понравилась](../../../node/2599/). Кинт расскажет о сверхъестественном с участием таких людей как Гарри Гудини и Амелия Экхарт.
+**[Super Natural](http://robot6.comicbookresources.com/2011/01/from-spies-to-spirits-matt-kindt-conjures-up-super-natural/)**. Еще один тематический сиквел - на этот раз от Мэтта Кинта и к его хитрой книжке Super Spy, которая мне [очень понравилась](../milkshake-reviews-01-retro-gyorl-v-tvoroge-gipertayma/). Кинт расскажет о сверхъестественном с участием таких людей как Гарри Гудини и Амелия Экхарт.
 [![Photobucket](https://web.archive.org/web/20251115031555im_/http://img.photobucket.com/albums/v497/spidermedia/plane_news/best%20comics%20of%202010/kindt4_1.jpg)](http://img.photobucket.com/albums/v497/spidermedia/plane_news/best%20comics%20of%202010/kindt4.jpg)
 **Moon Knight**. Брайан Бендис и Алекс Малеев с окончания их почти идеального рана на Дэрдэвиле успели забить себе два страйка - беспомощную Spider-Woman и невыносимую Scarlet - но я не оставляю надежды на то, что возвращение к прославленному марвеловскому стрит-левелу будет по меньшей мере удовлетворительным.
 **Multiple Warheads**. Вслед за триумфом King City, Брэндон Грэхэм возвращается к своему другому давнему комиксу. Full color Ice Cold Russian werewolf Epix, да, детка, да.
 [![Photobucket](https://web.archive.org/web/20251115031555im_/http://img.photobucket.com/albums/v497/spidermedia/plane_news/best%20comics%20of%202010/king_1.jpg)](http://img.photobucket.com/albums/v497/spidermedia/plane_news/best%20comics%20of%202010/king.jpg)
 **Multiversity: Pax Americana**. Грант Моррисон против Алана Мура; выбранное оружие - персонажи Чарльтон Комикс, по мотивам которых были созданы Вотчмены; поле боя - амбициозный элсворлд-проект шотландского гения; победитель получает все. хотьбывышелSeaguyEternalхотьбывышелSeaguyEternalхотьбывышелSeaguyEternal
 **Plus**. 3 22-страничных истории в одном комиксе и все они от того Джонатана Хикмана что написал Nightly News и Pax Romana, то есть во всю creator-owned мощь и притом - сразу в цифре, в полном соответствии с современными тенденциями.
-**[Venom](../../../node/3104/)**. Рик Ремендер и Тони Мур - ответственные за самую завораживающую марвеловскую мясорубку последних лет комикс-монстры - возвращают Веному фан, по которому уже можно было соскучится (все помнят Sinister Spider-Man? awwww yeah baby).
+**[Venom](../../../news/agent-00venom/)**. Рик Ремендер и Тони Мур - ответственные за самую завораживающую марвеловскую мясорубку последних лет комикс-монстры - возвращают Веному фан, по которому уже можно было соскучится (все помнят Sinister Spider-Man? awwww yeah baby).
 [![Photobucket](https://web.archive.org/web/20251115031555im_/http://img.photobucket.com/albums/v497/spidermedia/plane_news/best%20comics%20of%202010/venom_1.jpg)](http://img.photobucket.com/albums/v497/spidermedia/plane_news/best%20comics%20of%202010/venom.jpg)
 **[Witchlands](http://www.newsarama.com/comics/kurt-busiek-the-witchlands-101123.html)**. Курт Бусиек, Астро Сити про колдунов - то есть высококлассные истории, интересный мир и большое будущее. фак офф фейблз
 **[Xombi](http://robot6.comicbookresources.com/2010/12/frazer-irving-joins-john-rozum-for-xombi-revival/)**. Фрейзер Ирвинг. Хоррор. Заберите все что есть.

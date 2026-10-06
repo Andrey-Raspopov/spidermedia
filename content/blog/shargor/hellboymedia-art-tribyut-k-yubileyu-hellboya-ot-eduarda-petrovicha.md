@@ -1,6 +1,6 @@
 {
   "title": "Hellboymedia: Арт-трибьют к юбилею Хэллбоя от Эдуарда Петровича",
-  "date": "2014-12-22T16:25:00+03:00",
+  "date": "2014-12-22T16:25:29+03:00",
   "url": "/blog/shargor/hellboymedia-art-tribyut-k-yubileyu-hellboya-ot-eduarda-petrovicha/",
   "original_url": "https://spidermedia.ru/blog/shargor/hellboymedia-art-tribyut-k-yubileyu-hellboya-ot-eduarda-petrovicha",
   "archived": "https://web.archive.org/web/20251209143323/https://spidermedia.ru/blog/shargor/hellboymedia-art-tribyut-k-yubileyu-hellboya-ot-eduarda-petrovicha",
@@ -8,6 +8,12 @@
     "art-tribyut",
     "hellboymedia",
     "20-let-hellboya"
+  ],
+  "cover": "https://web.archive.org/web/20160611205937im_/http://spidermedia.ru/assets/images/hellboymedia/project-01-anniversary/art-tributes-bubble/eduard-petrovich-cover.jpg",
+  "modx_id": 8411,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

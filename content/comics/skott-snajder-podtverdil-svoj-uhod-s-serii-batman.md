@@ -11,6 +11,12 @@
     "greg-capullo",
     "skott-snajder"
   ],
+  "cover": "https://web.archive.org/web/20160611084656im_/http://spidermedia.ru/assets/images/news/dc/rebirth-2016/1.jpg",
+  "modx_id": 100900,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

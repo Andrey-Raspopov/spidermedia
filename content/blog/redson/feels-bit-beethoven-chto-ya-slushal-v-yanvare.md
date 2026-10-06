@@ -1,12 +1,18 @@
 {
   "title": "Feels a bit like Beethoven: что я слушал в январе",
-  "date": "2013-02-03T21:19:00+03:00",
+  "date": "2013-02-03T20:19:55+03:00",
   "url": "/blog/redson/feels-bit-beethoven-chto-ya-slushal-v-yanvare/",
   "original_url": "https://spidermedia.ru/blog/redson/feels-bit-beethoven-chto-ya-slushal-v-yanvare",
   "archived": "https://web.archive.org/web/20260125063259/https://spidermedia.ru/blog/redson/feels-bit-beethoven-chto-ya-slushal-v-yanvare",
   "tags": [
     "muzyka",
     "mnenie"
+  ],
+  "cover": "https://web.archive.org/web/20260125063259im_/http://spidermedia.ru/assets/images/import_image/7134.jpg",
+  "modx_id": 7134,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

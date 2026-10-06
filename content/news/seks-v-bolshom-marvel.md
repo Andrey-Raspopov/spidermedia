@@ -17,6 +17,9 @@
     "photon",
     "firestar"
   ],
+  "sources": [
+    "archive"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

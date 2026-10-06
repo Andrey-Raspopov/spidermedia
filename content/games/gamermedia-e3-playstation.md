@@ -8,6 +8,12 @@
     "gamermedia",
     "spider-man"
   ],
+  "cover": "https://web.archive.org/web/20240422200217im_/http://spidermedia.ru/assets/images/games/gamediad2s.jpg",
+  "modx_id": 101219,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

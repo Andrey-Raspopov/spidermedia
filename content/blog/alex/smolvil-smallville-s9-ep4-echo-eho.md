@@ -1,6 +1,6 @@
 {
   "title": "Смолвиль/Smallville s9 ep.4 - \"Echo\"/\"Эхо\"",
-  "date": "2009-10-20T11:51:00+03:00",
+  "date": "2009-10-20T10:51:02+03:00",
   "url": "/blog/alex/smolvil-smallville-s9-ep4-echo-eho/",
   "original_url": "https://spidermedia.ru/blog/alex/smolvil-smallville-s9-ep4-echo-eho",
   "archived": "https://web.archive.org/web/20250909134840/https://spidermedia.ru/blog/alex/smolvil-smallville-s9-ep4-echo-eho",
@@ -9,7 +9,14 @@
     "smollvill",
     "superman",
     "tajny-smollvillya",
-    "serialy"
+    "serialy",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20250909134840im_/http://spidermedia.ru/assets/images/import_image/2011.png",
+  "modx_id": 2011,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

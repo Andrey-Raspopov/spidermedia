@@ -1,14 +1,24 @@
 {
   "title": "В семье не без Дэдпула",
-  "date": "2011-01-11T23:24:00+03:00",
+  "date": "2011-01-11T23:24:48+03:00",
   "url": "/news/v-seme-ne-bez-dedpula/",
+  "aliases": [
+    "/node/3155/"
+  ],
   "original_url": "http://spidermedia.ru/news/v-seme-ne-bez-dedpula",
   "archived": "https://web.archive.org/web/20220813152857/http://spidermedia.ru/news/v-seme-ne-bez-dedpula",
   "tags": [
     "deadpool",
     "dzhejson-pirson",
     "art-0",
-    "marvel"
+    "marvel",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20220813152857im_/http://spidermedia.ru/assets/images/import_image/3155.jpg",
+  "modx_id": 3155,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

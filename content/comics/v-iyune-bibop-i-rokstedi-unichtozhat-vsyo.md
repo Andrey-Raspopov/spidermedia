@@ -8,6 +8,12 @@
     "idw-publishing",
     "ninja-turtles"
   ],
+  "cover": "https://web.archive.org/web/20180205113905im_/http://spidermedia.ru/assets/images/newgallery/gallery643/tmnt-brde1.jpg",
+  "modx_id": 101018,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

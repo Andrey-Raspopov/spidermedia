@@ -9,6 +9,12 @@
     "mnenie",
     "spider-man"
   ],
+  "cover": "https://web.archive.org/web/20251111081052im_/http://spidermedia.ru/assets/images/movies/marvel/spidermanhome/sph1.png",
+  "modx_id": 101601,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -4,6 +4,9 @@
   "url": "/docs/articles/zmeyukina/goblin/",
   "original_url": "http://spidermedia.ru/docs/articles/zmeyukina/goblin.html",
   "archived": "https://web.archive.org/web/20051202070027/http://spidermedia.ru:80/docs/articles/zmeyukina/goblin.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

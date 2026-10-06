@@ -10,11 +10,17 @@
     "deadpool",
     "black-panther"
   ],
+  "cover": "https://web.archive.org/web/20171018152223im_/http://spidermedia.ru/assets/images/comic-con/2016/sdcc-2016/wakanda.jpg",
+  "modx_id": 101284,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-Кроме ранее упомянутого [вороха новостей](https://web.archive.org/web/20240908075224id_/https://spidermedia.ru/comics/marvel-now-2.0-startuet-v-oktyabre), на Комик-Коне в Сан-Диего была объявлено ещё кое-что.
+Кроме ранее упомянутого [вороха новостей](../marvel-now-2.0-startuet-v-oktyabre/), на Комик-Коне в Сан-Диего была объявлено ещё кое-что.
 
 ![](https://web.archive.org/web/20171018152223im_/http://spidermedia.ru/assets/images/comic-con/2016/sdcc-2016/wakanda.jpg)
 

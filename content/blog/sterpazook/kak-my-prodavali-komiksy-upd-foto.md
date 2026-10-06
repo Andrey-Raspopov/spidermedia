@@ -1,7 +1,10 @@
 {
   "title": "Как мы продавали комиксы. UPD: фото",
-  "date": "2009-05-05T23:55:00+03:00",
+  "date": "2009-05-05T22:55:02+03:00",
   "url": "/blog/sterpazook/kak-my-prodavali-komiksy-upd-foto/",
+  "aliases": [
+    "/node/1103/"
+  ],
   "original_url": "https://spidermedia.ru/blog/sterpazook/kak-my-prodavali-komiksy-upd-foto",
   "archived": "https://web.archive.org/web/20250512120510/https://spidermedia.ru/blog/sterpazook/kak-my-prodavali-komiksy-upd-foto",
   "tags": [
@@ -9,6 +12,12 @@
     "spidermedia",
     "kommissiya",
     "moskva"
+  ],
+  "cover": "https://web.archive.org/web/20150428172708im_/http://spidermedia.ru/assets/images/import_image/1103.jpg",
+  "modx_id": 1103,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

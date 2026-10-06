@@ -8,6 +8,12 @@
     "dc-comics",
     "supergirl"
   ],
+  "cover": "https://web.archive.org/web/20160611144027im_/http://spidermedia.ru/assets/images/tv/supergirl/09-blood-bonds/supergirl-s01e09-blood-bonds-08.jpg",
+  "modx_id": 100921,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

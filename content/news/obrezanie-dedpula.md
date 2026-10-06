@@ -1,6 +1,6 @@
 {
   "title": "Обрезание Дэдпула",
-  "date": "2010-11-16T10:43:00+03:00",
+  "date": "2010-11-16T09:43:19+03:00",
   "url": "/news/obrezanie-dedpula/",
   "original_url": "http://spidermedia.ru/news/obrezanie-dedpula",
   "archived": "https://web.archive.org/web/20140824050257/http://spidermedia.ru:80/news/obrezanie-dedpula",
@@ -10,6 +10,12 @@
     "dedpul",
     "comics",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20140824050257im_/http://spidermedia.ru/assets/images/import_image/3067.jpg",
+  "modx_id": 3067,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

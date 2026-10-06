@@ -1,7 +1,10 @@
 {
   "title": "Still alive",
-  "date": "2009-12-18T01:31:00+03:00",
+  "date": "2009-12-18T01:31:29+03:00",
   "url": "/news/still-alive/",
+  "aliases": [
+    "/node/2179/"
+  ],
   "original_url": "http://spidermedia.ru/news/still-alive",
   "archived": "https://web.archive.org/web/20250512122505/http://spidermedia.ru/news/still-alive",
   "tags": [
@@ -12,7 +15,15 @@
     "xerxes",
     "x-men-first-class",
     "x-men",
-    "thor"
+    "thor",
+    "lyudi-iks",
+    "tor"
+  ],
+  "cover": "https://web.archive.org/web/20160614011217im_/http://spidermedia.ru/assets/images/import_image/2179.jpg",
+  "modx_id": 2179,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

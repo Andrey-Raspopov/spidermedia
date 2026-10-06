@@ -1,6 +1,6 @@
 {
   "title": "Они бегут, бегут, бегут...",
-  "date": "2009-09-29T18:36:00+03:00",
+  "date": "2009-09-29T17:36:57+03:00",
   "url": "/news/oni-begut-begut-begut/",
   "original_url": "http://spidermedia.ru/news/oni-begut-begut-begut",
   "archived": "https://web.archive.org/web/20260214143029/http://spidermedia.ru/news/oni-begut-begut-begut",
@@ -8,6 +8,12 @@
     "francis-manapul",
     "the-flash",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20260214143029im_/http://spidermedia.ru/assets/images/import_image/1942.jpg",
+  "modx_id": 1942,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

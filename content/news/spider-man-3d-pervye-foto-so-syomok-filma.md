@@ -1,7 +1,10 @@
 {
   "title": "Spider-Man 3D: Первые фото со съёмок фильма",
-  "date": "2010-12-09T11:40:00+03:00",
+  "date": "2010-12-09T11:40:25+03:00",
   "url": "/news/spider-man-3d-pervye-foto-so-syomok-filma/",
+  "aliases": [
+    "/node/3102/"
+  ],
   "original_url": "http://spidermedia.ru/news/spider-man-3d-pervye-foto-so-syomok-filma",
   "archived": "https://web.archive.org/web/20251207095237/http://spidermedia.ru/news/spider-man-3d-pervye-foto-so-syomok-filma",
   "tags": [
@@ -10,6 +13,12 @@
     "marvel",
     "spider-man",
     "emma-stoun"
+  ],
+  "cover": "https://web.archive.org/web/20251207095237im_/http://spidermedia.ru/assets/images/import_image/3102.jpg",
+  "modx_id": 3102,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -4,6 +4,12 @@
   "url": "/games/gamermedia-special-wg-fest-2017-i-kalibr/",
   "original_url": "http://spidermedia.ru/games/gamermedia-special-wg-fest-2017-i-kalibr",
   "archived": "https://web.archive.org/web/20241211214030/http://spidermedia.ru/games/gamermedia-special-wg-fest-2017-i-kalibr",
+  "cover": "https://web.archive.org/web/20241211214030im_/http://spidermedia.ru/assets/images/games/wg-fest-2017/wg_fest_keyvisual.png",
+  "modx_id": 101797,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

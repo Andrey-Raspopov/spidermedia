@@ -1,6 +1,6 @@
 {
   "title": "Наконец-то: новая серия комиксов про Человека-Муравья",
-  "date": "2014-10-12T21:49:00+03:00",
+  "date": "2014-10-12T20:49:15+03:00",
   "url": "/news/nakonec-novaya-seriya-komiksov-pro-cheloveka-muravya/",
   "original_url": "http://spidermedia.ru/news/nakonec-novaya-seriya-komiksov-pro-cheloveka-muravya",
   "archived": "https://web.archive.org/web/20260314080638/http://spidermedia.ru/news/nakonec-novaya-seriya-komiksov-pro-cheloveka-muravya",
@@ -8,6 +8,12 @@
     "ant-man",
     "nik-spenser",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150326095931im_/http://spidermedia.ru/assets/images/import_image/8170.jpg",
+  "modx_id": 8170,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

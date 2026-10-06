@@ -1,6 +1,6 @@
 {
   "title": "Гранди в игре!",
-  "date": "2009-04-16T19:18:00+03:00",
+  "date": "2009-04-16T18:18:48+03:00",
   "url": "/news/grandi-v-igre/",
   "original_url": "http://spidermedia.ru/news/grandi-v-igre",
   "archived": "https://web.archive.org/web/20260211181234/http://spidermedia.ru/news/grandi-v-igre",
@@ -9,6 +9,12 @@
     "igry",
     "solomon-grundy",
     "solomon-grandi"
+  ],
+  "cover": "https://web.archive.org/web/20180201123657im_/http://spidermedia.ru/assets/images/import_image/961.jpg",
+  "modx_id": 961,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

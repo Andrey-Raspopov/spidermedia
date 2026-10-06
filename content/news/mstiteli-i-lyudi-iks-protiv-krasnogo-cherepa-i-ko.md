@@ -1,6 +1,6 @@
 {
   "title": "Мстители и Люди Икс против Красного Черепа и Ко",
-  "date": "2014-06-14T22:58:00+03:00",
+  "date": "2014-06-14T21:58:06+03:00",
   "url": "/news/mstiteli-i-lyudi-iks-protiv-krasnogo-cherepa-i-ko/",
   "original_url": "https://spidermedia.ru/news/mstiteli-i-lyudi-iks-protiv-krasnogo-cherepa-i-ko",
   "archived": "https://web.archive.org/web/20251107173808/https://spidermedia.ru/news/mstiteli-i-lyudi-iks-protiv-krasnogo-cherepa-i-ko",
@@ -8,7 +8,14 @@
     "avengers",
     "marvel",
     "x-men",
-    "krasnyj-cherep"
+    "krasnyj-cherep",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20251107173808im_/http://spidermedia.ru/assets/images/import_image/7816.jpg",
+  "modx_id": 7816,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

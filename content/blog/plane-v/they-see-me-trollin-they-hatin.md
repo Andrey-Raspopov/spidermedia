@@ -1,7 +1,10 @@
 {
   "title": "They see me trollin', they hatin'",
-  "date": "2009-08-10T20:48:00+03:00",
+  "date": "2009-08-10T19:48:50+03:00",
   "url": "/blog/plane-v/they-see-me-trollin-they-hatin/",
+  "aliases": [
+    "/node/1762/"
+  ],
   "original_url": "http://spidermedia.ru/blog/plane-v/they-see-me-trollin-they-hatin",
   "archived": "https://web.archive.org/web/20251207103508/http://spidermedia.ru/blog/plane-v/they-see-me-trollin-they-hatin",
   "tags": [
@@ -9,6 +12,11 @@
     "rob-lajfeld",
     "anatomicheskij-teatr",
     "komik-kon-v-chikago"
+  ],
+  "modx_id": 1762,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

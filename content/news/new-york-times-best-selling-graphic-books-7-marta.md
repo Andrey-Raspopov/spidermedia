@@ -1,11 +1,20 @@
 {
   "title": "New York Times Best-selling Graphic Books - 7 марта",
-  "date": "2009-03-14T19:09:00+03:00",
+  "date": "2009-03-14T19:09:48+03:00",
   "url": "/news/new-york-times-best-selling-graphic-books-7-marta/",
+  "aliases": [
+    "/node/678/"
+  ],
   "original_url": "http://spidermedia.ru/news/new-york-times-best-selling-graphic-books-7-marta",
   "archived": "https://web.archive.org/web/20170910211013/http://spidermedia.ru:80/news/new-york-times-best-selling-graphic-books-7-marta",
   "tags": [
     "rejtingi-prodazh"
+  ],
+  "cover": "https://web.archive.org/web/20170910211013im_/http://spidermedia.ru/assets/images/import_image/678.jpg",
+  "modx_id": 678,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

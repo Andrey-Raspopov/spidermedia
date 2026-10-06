@@ -4,6 +4,12 @@
   "url": "/games/e3-2018-itogi/",
   "original_url": "http://spidermedia.ru/games/e3-2018-itogi",
   "archived": "https://web.archive.org/web/20260307071435/http://spidermedia.ru/games/e3-2018-itogi",
+  "cover": "https://web.archive.org/web/20260307071435im_/http://spidermedia.ru/assets/images/games/blozhka-e3.jpg",
+  "modx_id": 101946,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

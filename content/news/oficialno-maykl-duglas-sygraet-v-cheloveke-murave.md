@@ -1,6 +1,6 @@
 {
   "title": "Официально: Майкл Дуглас сыграет в \"Человеке-Муравье\"",
-  "date": "2014-01-14T00:48:00+03:00",
+  "date": "2014-01-13T23:48:28+03:00",
   "url": "/news/oficialno-maykl-duglas-sygraet-v-cheloveke-murave/",
   "original_url": "http://spidermedia.ru/news/oficialno-maykl-duglas-sygraet-v-cheloveke-murave",
   "archived": "https://web.archive.org/web/20230128190306/http://spidermedia.ru/news/oficialno-maykl-duglas-sygraet-v-cheloveke-murave",
@@ -8,6 +8,12 @@
     "edgar-rajt",
     "ant-man",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150424221250im_/http://spidermedia.ru/assets/images/import_image/7593.jpg",
+  "modx_id": 7593,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

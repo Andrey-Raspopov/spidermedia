@@ -8,6 +8,12 @@
     "marvel",
     "secret-wars"
   ],
+  "cover": "https://web.archive.org/web/20150424123501im_/http://spidermedia.ru/assets/images/news/marvel/secret-wars/secretwars-social-dbf31.jpg",
+  "modx_id": 100096,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

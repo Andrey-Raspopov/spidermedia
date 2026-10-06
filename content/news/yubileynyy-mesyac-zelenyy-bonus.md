@@ -1,21 +1,30 @@
 {
   "title": "Юбилейный месяц + зеленый бонус",
-  "date": "2009-05-14T23:35:00+03:00",
+  "date": "2009-05-14T22:35:35+03:00",
   "url": "/news/yubileynyy-mesyac-zelenyy-bonus/",
+  "aliases": [
+    "/node/1186/"
+  ],
   "original_url": "http://spidermedia.ru/news/yubileynyy-mesyac-zelenyy-bonus",
   "archived": "https://web.archive.org/web/20190816183919/http://spidermedia.ru:80/news/yubileynyy-mesyac-zelenyy-bonus",
   "tags": [
     "marvel",
     "art-0",
     "dzhim-cheng",
-    "steve-dillon"
+    "steve-dillon",
+    "art"
+  ],
+  "modx_id": 1186,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
 ![](https://web.archive.org/web/20190816183919im_/http://s46.radikal.ru/i112/0905/db/581898361b07.jpg)
-О празднике-юбилее издательства **Marvel Comics**, которому будет целых 70 лет, не слышал только ленивый. В Марвел решили не останавливаться на [акции-спешлах](../../node/397/), посвященные ветеранам-персонажам, и представить миру целый набор вариант-каверов в августе, когда сам праздник достигнет своего пика. Нечто подобное уже нам показывали несколько лет назад, пример можно увидеть [здесь](http://kleefeldoncomics.blogspot.com/2006/11/marvels-25th-anniversary.html) - но прошли годы, а традиция осталась. Увы, пока нам показали далеко не все обложки, хотя некоторые из них уже можно увидеть прямо сейчас. Главная же деталь, рамка, принадлежит перу **Джима Ченга** *(Jim Cheung)*:
+О празднике-юбилее издательства **Marvel Comics**, которому будет целых 70 лет, не слышал только ленивый. В Марвел решили не останавливаться на [акции-спешлах](../zolotoy-oldskul/), посвященные ветеранам-персонажам, и представить миру целый набор вариант-каверов в августе, когда сам праздник достигнет своего пика. Нечто подобное уже нам показывали несколько лет назад, пример можно увидеть [здесь](http://kleefeldoncomics.blogspot.com/2006/11/marvels-25th-anniversary.html) - но прошли годы, а традиция осталась. Увы, пока нам показали далеко не все обложки, хотя некоторые из них уже можно увидеть прямо сейчас. Главная же деталь, рамка, принадлежит перу **Джима Ченга** *(Jim Cheung)*:
 Слева-направо:
 рамка Ченга, **Punisher #8** от **Стива Диллона** *(Steve Dillon)*, **Incredible Hulk #601** от **Майкла Голдена** *(Michael Golden)*
 [![](https://web.archive.org/web/20190816183919im_/http://s39.radikal.ru/i086/0905/8b/7be2d3fb01fbt.jpg)](http://s39.radikal.ru/i086/0905/8b/7be2d3fb01fb.jpg) [![](https://web.archive.org/web/20190816183919im_/http://s41.radikal.ru/i093/0905/65/c2162bdf349bt.jpg)](http://s41.radikal.ru/i093/0905/65/c2162bdf349b.jpg) [![](https://web.archive.org/web/20190816183919im_/http://s46.radikal.ru/i112/0905/3d/714501d37cb7t.jpg)](http://s46.radikal.ru/i112/0905/3d/714501d37cb7.jpg)

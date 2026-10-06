@@ -12,6 +12,12 @@
     "shang-chi",
     "san-diego-comic-con-international"
   ],
+  "cover": "https://web.archive.org/web/20251107002552im_/http://spidermedia.ru/assets/images/news/sdcc/2017/ml-cover.jpg",
+  "modx_id": 101631,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

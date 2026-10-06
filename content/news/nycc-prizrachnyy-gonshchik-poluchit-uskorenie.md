@@ -1,6 +1,6 @@
 {
   "title": "NYCC: Призрачный гонщик получит ускорение",
-  "date": "2013-10-13T00:14:00+03:00",
+  "date": "2013-10-12T23:14:40+03:00",
   "url": "/news/nycc-prizrachnyy-gonshchik-poluchit-uskorenie/",
   "original_url": "http://spidermedia.ru/news/nycc-prizrachnyy-gonshchik-poluchit-uskorenie",
   "archived": "https://web.archive.org/web/20251013185740/http://spidermedia.ru/news/nycc-prizrachnyy-gonshchik-poluchit-uskorenie",
@@ -9,6 +9,12 @@
     "prizrachnyj-gonshhik",
     "marvel",
     "new-york-comic-con"
+  ],
+  "cover": "https://web.archive.org/web/20150428172332im_/http://spidermedia.ru/assets/images/import_image/7500.jpg",
+  "modx_id": 7500,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

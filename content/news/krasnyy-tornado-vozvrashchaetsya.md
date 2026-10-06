@@ -1,7 +1,10 @@
 {
   "title": "Красный Торнадо возвращается",
-  "date": "2009-06-12T02:10:00+03:00",
+  "date": "2009-06-12T01:10:05+03:00",
   "url": "/news/krasnyy-tornado-vozvrashchaetsya/",
+  "aliases": [
+    "/node/1405/"
+  ],
   "original_url": "http://spidermedia.ru/news/krasnyy-tornado-vozvrashchaetsya",
   "archived": "https://web.archive.org/web/20120607162101/http://spidermedia.ru/news/krasnyy-tornado-vozvrashchaetsya",
   "tags": [
@@ -9,7 +12,15 @@
     "ed-benes-0",
     "red-tornado",
     "komiksy",
-    "krasnyy-tornado"
+    "krasnyy-tornado",
+    "ed-benes",
+    "krasnyj-tornado"
+  ],
+  "cover": "https://web.archive.org/web/20120607162101im_/http://spidermedia.ru/assets/images/import_image/1405.jpg",
+  "modx_id": 1405,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

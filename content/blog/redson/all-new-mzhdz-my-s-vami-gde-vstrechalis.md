@@ -1,12 +1,18 @@
 {
   "title": "ALL-NEW МЖДЗ: МЫ С ВАМИ ГДЕ-ТО ВСТРЕЧАЛИСЬ",
-  "date": "2014-09-02T12:49:00+03:00",
+  "date": "2014-09-02T11:49:32+03:00",
   "url": "/blog/redson/all-new-mzhdz-my-s-vami-gde-vstrechalis/",
   "original_url": "http://spidermedia.ru/blog/redson/all-new-mzhdz-my-s-vami-gde-vstrechalis",
   "archived": "https://web.archive.org/web/20241205104145/http://spidermedia.ru/blog/redson/all-new-mzhdz-my-s-vami-gde-vstrechalis",
   "tags": [
     "mnenie",
     "mzhdz"
+  ],
+  "cover": "https://web.archive.org/web/20150428180616im_/http://spidermedia.ru/assets/images/import_image/8033.jpg",
+  "modx_id": 8033,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -8,6 +8,12 @@
     "jellyfish-jam",
     "zarubezhnye-komiksy-na-russkom"
   ],
+  "cover": "https://web.archive.org/web/20220703150557im_/http://spidermedia.ru/assets/images/reviews/jellyfish/through-the-woods/uqwzvmc.jpg",
+  "modx_id": 101856,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

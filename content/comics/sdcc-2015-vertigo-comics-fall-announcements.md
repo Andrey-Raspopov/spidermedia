@@ -6,7 +6,14 @@
   "archived": "https://web.archive.org/web/20251207013104/http://spidermedia.ru/comics/sdcc-2015-vertigo-comics-fall-announcements",
   "tags": [
     "vertigo",
-    "san-diego-comic-con-international"
+    "san-diego-comic-con-international",
+    "sdcc2015"
+  ],
+  "cover": "https://web.archive.org/web/20160611164714im_/http://spidermedia.ru/assets/images/news/dc/vertigo/vertigocatalog2015_fnl_crop_page_01_5602e7784564d5.25291669.jpg",
+  "modx_id": 100338,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

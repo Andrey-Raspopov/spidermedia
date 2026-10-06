@@ -1,6 +1,6 @@
 {
   "title": "Все с начала",
-  "date": "2011-06-01T09:02:00+03:00",
+  "date": "2011-06-01T08:02:57+03:00",
   "url": "/news/vse-s-nachala/",
   "original_url": "http://spidermedia.ru/news/vse-s-nachala",
   "archived": "https://web.archive.org/web/20260116223329/http://spidermedia.ru/news/vse-s-nachala",
@@ -16,6 +16,12 @@
     "batman",
     "cyborg",
     "the-flash"
+  ],
+  "cover": "https://web.archive.org/web/20260116223329im_/http://spidermedia.ru/assets/images/import_image/6179.jpg",
+  "modx_id": 6179,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

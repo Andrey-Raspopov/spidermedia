@@ -1,6 +1,6 @@
 {
   "title": "Баки жил, Баки жив, Баки будет жить",
-  "date": "2011-11-04T04:42:00+03:00",
+  "date": "2011-11-04T03:42:46+03:00",
   "url": "/news/baki-zhil-baki-zhiv-baki-budet-zhit/",
   "original_url": "http://spidermedia.ru/news/baki-zhil-baki-zhiv-baki-budet-zhit",
   "archived": "https://web.archive.org/web/20260211190838/http://spidermedia.ru/news/baki-zhil-baki-zhiv-baki-budet-zhit",
@@ -9,6 +9,12 @@
     "butch-gajs",
     "winter-soldier",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20260211190838im_/http://spidermedia.ru/assets/images/import_image/6685.jpg",
+  "modx_id": 6685,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

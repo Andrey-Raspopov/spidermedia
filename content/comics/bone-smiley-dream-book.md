@@ -9,6 +9,12 @@
     "jeff-smith",
     "dzhef-smit"
   ],
+  "cover": "https://web.archive.org/web/20170823205726im_/http://spidermedia.ru/assets/images/news/bone/bone.jpg",
+  "modx_id": 101621,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

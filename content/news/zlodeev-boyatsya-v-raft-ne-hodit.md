@@ -1,7 +1,10 @@
 {
   "title": "Злодеев бояться - в Рафт не ходить",
-  "date": "2010-06-09T07:31:00+03:00",
+  "date": "2010-06-09T06:31:13+03:00",
   "url": "/news/zlodeev-boyatsya-v-raft-ne-hodit/",
+  "aliases": [
+    "/node/2660/"
+  ],
   "original_url": "https://spidermedia.ru/news/zlodeev-boyatsya-v-raft-ne-hodit",
   "archived": "https://web.archive.org/web/20260123084852/https://spidermedia.ru/news/zlodeev-boyatsya-v-raft-ne-hodit",
   "tags": [
@@ -12,6 +15,12 @@
     "thunderbolts",
     "marvel",
     "avengers"
+  ],
+  "cover": "https://web.archive.org/web/20260123084852im_/http://spidermedia.ru/assets/images/import_image/2660.jpg",
+  "modx_id": 2660,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

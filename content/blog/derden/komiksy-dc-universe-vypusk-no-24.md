@@ -1,13 +1,22 @@
 {
   "title": "Комиксы DC Universe. Выпуск № 24",
-  "date": "2010-04-23T15:54:00+03:00",
+  "date": "2010-04-23T14:54:13+03:00",
   "url": "/blog/derden/komiksy-dc-universe-vypusk-no-24/",
+  "aliases": [
+    "/node/2573/"
+  ],
   "original_url": "http://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-24",
   "archived": "https://web.archive.org/web/20260211192511/http://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-24",
   "tags": [
     "dc-comics",
     "aquaman",
     "dc-universe-comics"
+  ],
+  "cover": "https://web.archive.org/web/20260211192511im_/http://spidermedia.ru/assets/images/import_image/2573.jpg",
+  "modx_id": 2573,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

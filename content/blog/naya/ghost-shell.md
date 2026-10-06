@@ -1,12 +1,19 @@
 {
   "title": "Ghost in the Shell",
-  "date": "2010-11-29T21:40:00+03:00",
+  "date": "2010-11-29T21:40:02+03:00",
   "url": "/blog/naya/ghost-shell/",
   "original_url": "https://spidermedia.ru/blog/naya/ghost-shell",
   "archived": "https://web.archive.org/web/20251211023404/https://spidermedia.ru/blog/naya/ghost-shell",
   "tags": [
     "sci-fi",
-    "manga"
+    "manga",
+    "manga-2"
+  ],
+  "cover": "https://web.archive.org/web/20251211023404im_/http://spidermedia.ru/assets/images/import_image/3086.jpg",
+  "modx_id": 3086,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

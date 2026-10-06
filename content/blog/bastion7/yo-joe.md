@@ -1,7 +1,10 @@
 {
   "title": "Yo, Joe!",
-  "date": "2009-02-01T00:18:00+03:00",
+  "date": "2009-02-01T00:18:38+03:00",
   "url": "/blog/bastion7/yo-joe/",
+  "aliases": [
+    "/node/48/"
+  ],
   "original_url": "https://spidermedia.ru/blog/bastion7/yo-joe",
   "archived": "https://web.archive.org/web/20260314075749/https://spidermedia.ru/blog/bastion7/yo-joe",
   "tags": [
@@ -9,6 +12,11 @@
     "warren-ellis",
     "idw-publishing",
     "gi-joe"
+  ],
+  "modx_id": 48,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

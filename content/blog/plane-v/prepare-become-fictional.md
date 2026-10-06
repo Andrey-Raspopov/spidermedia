@@ -1,7 +1,10 @@
 {
   "title": "Prepare to become fictional",
-  "date": "2010-01-31T15:58:00+03:00",
+  "date": "2010-01-31T15:58:43+03:00",
   "url": "/blog/plane-v/prepare-become-fictional/",
+  "aliases": [
+    "/node/2323/"
+  ],
   "original_url": "https://spidermedia.ru/blog/plane-v/prepare-become-fictional",
   "archived": "https://web.archive.org/web/20260123073848/https://spidermedia.ru/blog/plane-v/prepare-become-fictional",
   "tags": [
@@ -9,6 +12,12 @@
     "grant-morrison",
     "flex-mentallo",
     "vertigo"
+  ],
+  "cover": "https://web.archive.org/web/20260123073848im_/http://spidermedia.ru/assets/images/import_image/2323.jpg",
+  "modx_id": 2323,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

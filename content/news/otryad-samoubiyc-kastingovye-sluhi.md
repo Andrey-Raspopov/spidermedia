@@ -1,6 +1,6 @@
 {
   "title": "«Отряд самоубийц»: кастинговые слухи",
-  "date": "2015-01-23T08:37:00+03:00",
+  "date": "2015-01-23T08:37:26+03:00",
   "url": "/news/otryad-samoubiyc-kastingovye-sluhi/",
   "original_url": "https://spidermedia.ru/news/otryad-samoubiyc-kastingovye-sluhi",
   "archived": "https://web.archive.org/web/20251216111943/https://spidermedia.ru/news/otryad-samoubiyc-kastingovye-sluhi",
@@ -8,6 +8,12 @@
     "suicide-squad",
     "kasting",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150326221108im_/http://spidermedia.ru/assets/images/import_image/8536.jpg",
+  "modx_id": 8536,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,9 +1,15 @@
 {
   "title": "Хоррор-комиксы мертвы",
-  "date": "2011-07-15T23:58:00+03:00",
+  "date": "2011-07-15T22:58:38+03:00",
   "url": "/blog/samm-o/horror-komiksy-mertvy/",
   "original_url": "http://spidermedia.ru/blog/samm-o/horror-komiksy-mertvy",
   "archived": "https://web.archive.org/web/20200130013313/http://spidermedia.ru:80/blog/samm-o/horror-komiksy-mertvy",
+  "cover": "https://web.archive.org/web/20200130013313im_/http://spidermedia.ru/assets/images/import_image/6502.jpg",
+  "modx_id": 6502,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

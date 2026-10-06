@@ -1,12 +1,21 @@
 {
   "title": "Hell yeah !",
-  "date": "2009-04-23T16:41:00+03:00",
+  "date": "2009-04-23T15:41:33+03:00",
   "url": "/blog/ghost-knight/hell-yeah/",
+  "aliases": [
+    "/node/1038/"
+  ],
   "original_url": "http://spidermedia.ru/blog/ghost-knight/hell-yeah",
   "archived": "https://web.archive.org/web/20190918100208/http://spidermedia.ru/blog/ghost-knight/hell-yeah",
   "tags": [
     "dc-comics",
     "blackest-night"
+  ],
+  "cover": "https://web.archive.org/web/20190918100208im_/http://spidermedia.ru/assets/images/import_image/1038.jpg",
+  "modx_id": 1038,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

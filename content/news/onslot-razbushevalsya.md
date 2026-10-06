@@ -1,6 +1,6 @@
 {
   "title": "Онслот разбушевался",
-  "date": "2010-11-11T10:04:00+03:00",
+  "date": "2010-11-11T10:04:51+03:00",
   "url": "/news/onslot-razbushevalsya/",
   "original_url": "http://spidermedia.ru/news/onslot-razbushevalsya",
   "archived": "https://web.archive.org/web/20251107005511/http://spidermedia.ru/news/onslot-razbushevalsya",
@@ -15,6 +15,12 @@
     "onslaught",
     "marvel",
     "secret-avengers"
+  ],
+  "cover": "https://web.archive.org/web/20251107005511im_/http://spidermedia.ru/assets/images/import_image/3060.jpg",
+  "modx_id": 3060,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

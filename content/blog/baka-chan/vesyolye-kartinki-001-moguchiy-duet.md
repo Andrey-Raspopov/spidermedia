@@ -1,11 +1,20 @@
 {
   "title": "Весёлые картинки #001: Могучий дуэт",
-  "date": "2009-04-16T00:09:00+03:00",
+  "date": "2009-04-15T23:09:55+03:00",
   "url": "/blog/baka-chan/vesyolye-kartinki-001-moguchiy-duet/",
+  "aliases": [
+    "/node/947/"
+  ],
   "original_url": "http://spidermedia.ru/blog/baka-chan/vesyolye-kartinki-001-moguchiy-duet",
   "archived": "https://web.archive.org/web/20250618121918/http://spidermedia.ru/blog/baka-chan/vesyolye-kartinki-001-moguchiy-duet",
   "tags": [
     "invincible"
+  ],
+  "cover": "https://web.archive.org/web/20250618121918im_/http://spidermedia.ru/assets/images/import_image/947.jpg",
+  "modx_id": 947,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

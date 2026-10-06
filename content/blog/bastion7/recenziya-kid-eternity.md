@@ -1,6 +1,6 @@
 {
   "title": "рецензия - Kid Eternity",
-  "date": "2009-03-04T20:45:00+03:00",
+  "date": "2009-03-04T20:45:44+03:00",
   "url": "/blog/bastion7/recenziya-kid-eternity/",
   "original_url": "http://spidermedia.ru/blog/bastion7/recenziya-kid-eternity",
   "archived": "https://web.archive.org/web/20251211035559/http://spidermedia.ru/blog/bastion7/recenziya-kid-eternity",
@@ -9,6 +9,12 @@
     "recenziya",
     "grant-morrison",
     "vertigo"
+  ],
+  "cover": "https://web.archive.org/web/20251211035559im_/http://spidermedia.ru/assets/images/import_image/588.jpg",
+  "modx_id": 588,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

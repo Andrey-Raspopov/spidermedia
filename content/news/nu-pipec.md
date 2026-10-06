@@ -1,13 +1,21 @@
 {
   "title": "Ну, пипец!",
-  "date": "2010-01-22T00:35:00+03:00",
+  "date": "2010-01-22T00:35:24+03:00",
   "url": "/news/nu-pipec/",
+  "aliases": [
+    "/node/2294/"
+  ],
   "original_url": "https://spidermedia.ru/news/nu-pipec",
   "archived": "https://web.archive.org/web/20250316152630/https://spidermedia.ru/news/nu-pipec",
   "tags": [
     "mettyu-von",
     "mark-millar",
     "kick-ass"
+  ],
+  "modx_id": 2294,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

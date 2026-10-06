@@ -1,6 +1,6 @@
 {
   "title": "Не так страшен чёрт",
-  "date": "2011-12-27T18:41:00+03:00",
+  "date": "2011-12-27T17:41:35+03:00",
   "url": "/articles/lyucifer/",
   "original_url": "http://spidermedia.ru/articles/lyucifer",
   "archived": "https://web.archive.org/web/20260209105432/http://spidermedia.ru/articles/lyucifer",
@@ -12,6 +12,12 @@
     "zarubezhnye-komiksy-na-russkom",
     "vertigo",
     "komiks-art"
+  ],
+  "cover": "https://web.archive.org/web/20150326001000im_/http://spidermedia.ru/assets/images/import_image/6746.jpg",
+  "modx_id": 6746,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

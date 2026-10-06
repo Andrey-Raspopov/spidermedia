@@ -1,11 +1,20 @@
 {
   "title": "С праздником, друзья!",
-  "date": "2009-01-29T20:24:00+03:00",
+  "date": "2009-01-29T19:24:09+03:00",
   "url": "/blog/zipop/s-prazdnikom-druzya/",
+  "aliases": [
+    "/node/15/"
+  ],
   "original_url": "http://spidermedia.ru/blog/zipop/s-prazdnikom-druzya",
   "archived": "https://web.archive.org/web/20120608195852/http://spidermedia.ru/blog/zipop/s-prazdnikom-druzya",
   "tags": [
     "vstuplenie"
+  ],
+  "cover": "https://web.archive.org/web/20120608195852im_/http://spidermedia.ru/assets/images/import_image/15.jpg",
+  "modx_id": 15,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

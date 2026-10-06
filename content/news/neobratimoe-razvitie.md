@@ -1,7 +1,10 @@
 {
   "title": "Необратимое  развитие",
-  "date": "2010-01-29T20:59:00+03:00",
+  "date": "2010-01-29T20:59:26+03:00",
   "url": "/news/neobratimoe-razvitie/",
+  "aliases": [
+    "/node/2317/"
+  ],
   "original_url": "https://spidermedia.ru/news/neobratimoe-razvitie",
   "archived": "https://web.archive.org/web/20240613045528/https://spidermedia.ru/news/neobratimoe-razvitie",
   "tags": [
@@ -12,6 +15,11 @@
     "govard-chajkin",
     "irredeemable",
     "boom-studios"
+  ],
+  "modx_id": 2317,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

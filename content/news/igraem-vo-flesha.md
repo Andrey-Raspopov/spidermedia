@@ -1,13 +1,23 @@
 {
   "title": "Играем во Флэша",
-  "date": "2009-05-22T07:57:00+03:00",
+  "date": "2009-05-22T06:57:22+03:00",
   "url": "/news/igraem-vo-flesha/",
+  "aliases": [
+    "/node/1260/"
+  ],
   "original_url": "http://spidermedia.ru/news/igraem-vo-flesha",
   "archived": "https://web.archive.org/web/20260211182215/http://spidermedia.ru/news/igraem-vo-flesha",
   "tags": [
     "the-flash",
     "igry",
-    "art-0"
+    "art-0",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20260211182215im_/http://spidermedia.ru/assets/images/import_image/1260.jpg",
+  "modx_id": 1260,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

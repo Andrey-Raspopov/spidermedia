@@ -1,7 +1,10 @@
 {
   "title": "Ultimate Comics Avengers",
-  "date": "2009-06-02T22:45:00+03:00",
+  "date": "2009-06-02T21:45:20+03:00",
   "url": "/news/ultimate-comics-avengers/",
+  "aliases": [
+    "/node/1326/"
+  ],
   "original_url": "http://spidermedia.ru/news/ultimate-comics-avengers",
   "archived": "https://web.archive.org/web/20120608203859/http://spidermedia.ru/news/ultimate-comics-avengers",
   "tags": [
@@ -10,7 +13,13 @@
     "komiksy",
     "marvel",
     "mark-millar",
-    "mstiteli"
+    "mstiteli",
+    "avengers"
+  ],
+  "modx_id": 1326,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"
@@ -18,10 +27,10 @@
 
 ![554headerbanner5225003.jpg - image uploaded to Picamatic](https://web.archive.org/web/20120608203859im_/http://www.picamatic.com/show/2009/06/03/12/30/3869034_608x229.jpg "554headerbanner5225003.jpg")
 
-Мы [уже знаем](../../node/749/), каков будет сюжет первого арка комикса Ultimate Comics Avengers, но в недавнем выпуске журнала Wizard, сценарист комикса Марк Миллар (Mark Millar), порадовавший нас на этой неделе невероятным, эпичным и потрясающим Wolverine #72 (арк Old Man Logan), раскрыл такие подробности, которых вы уж точно не ожидали. Всё, что помечено белым цветом - это возможные спойлеры, читать их или нет - исключительно ваш выбор! Итак:
+Мы [уже знаем](../vozvrashchenie-dzhedaya-ili-millar-nanosit-otvetnyy-udar/), каков будет сюжет первого арка комикса Ultimate Comics Avengers, но в недавнем выпуске журнала Wizard, сценарист комикса Марк Миллар (Mark Millar), порадовавший нас на этой неделе невероятным, эпичным и потрясающим Wolverine #72 (арк Old Man Logan), раскрыл такие подробности, которых вы уж точно не ожидали. Всё, что помечено белым цветом - это возможные спойлеры, читать их или нет - исключительно ваш выбор! Итак:
 
 - Главными персонажами первого арка будут: Капитан Америка (Ultimate Captain America), Железный Человек (Ultimate Iron Man), Хоукай (Ultimate Hawkeye), Ник Фьюри (Ultimate Nick Fury), новые Чёрная Вдова (Ultimate Black Widow II) и ещё один, новый, Железный Человек (Ultimate Iron Man II).
-- [События первого арка](../../node/1206/) комикса идут сразу после окончания Ультиматума (Ultimatum). Первая страница комикса покажет нам "чистку" после последствий Ультиматума. Но это не флэшбэк!
+- [События первого арка](../ne-zhdali-my-tut/) комикса идут сразу после окончания Ультиматума (Ultimatum). Первая страница комикса покажет нам "чистку" после последствий Ультиматума. Но это не флэшбэк!
 
 Вас наверное уже заинтриговали имена новых персонажей, которые вы увидели в списке? Господин Марк Миллар с радостью рассказал о том, что будут представлять из себя новые персонажи:
 

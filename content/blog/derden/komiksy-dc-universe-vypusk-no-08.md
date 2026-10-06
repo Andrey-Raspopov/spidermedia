@@ -1,7 +1,10 @@
 {
   "title": "Комиксы DC Universe. Выпуск № 08",
-  "date": "2009-07-14T10:02:00+03:00",
+  "date": "2009-07-14T09:02:40+03:00",
   "url": "/blog/derden/komiksy-dc-universe-vypusk-no-08/",
+  "aliases": [
+    "/node/1555/"
+  ],
   "original_url": "http://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-08",
   "archived": "https://web.archive.org/web/20190923014002/http://spidermedia.ru:80/blog/derden/komiksy-dc-universe-vypusk-no-08",
   "tags": [
@@ -9,6 +12,12 @@
     "superman",
     "batman",
     "dc-universe-comics"
+  ],
+  "cover": "https://web.archive.org/web/20190923014002im_/http://spidermedia.ru/assets/images/import_image/1555.gif",
+  "modx_id": 1555,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

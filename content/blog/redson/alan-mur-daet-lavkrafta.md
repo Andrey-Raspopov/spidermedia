@@ -1,12 +1,18 @@
 {
   "title": "Алан Мур дает Лавкрафта",
-  "date": "2009-02-02T18:31:00+03:00",
+  "date": "2009-02-02T17:31:11+03:00",
   "url": "/blog/redson/alan-mur-daet-lavkrafta/",
   "original_url": "http://spidermedia.ru/blog/redson/alan-mur-daet-lavkrafta",
   "archived": "https://web.archive.org/web/20120610054551/http://spidermedia.ru/blog/redson/alan-mur-daet-lavkrafta",
   "tags": [
     "alan-moore",
-    "kartinki"
+    "kartinki",
+    "alan-mur"
+  ],
+  "modx_id": 107,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

@@ -8,6 +8,12 @@
     "hellboymedia",
     "novosti"
   ],
+  "cover": "https://web.archive.org/web/20180203234216im_/http://spidermedia.ru/assets/images/hellboymedia/news/hellboy-in-hell-ending/hellboy-in-hell-ending-cover_.jpg",
+  "modx_id": 100813,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

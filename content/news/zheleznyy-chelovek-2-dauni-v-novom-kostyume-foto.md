@@ -1,6 +1,6 @@
 {
   "title": "Железный Человек 2: Дауни в новом костюме (Фото)",
-  "date": "2009-05-08T12:56:00+03:00",
+  "date": "2009-05-08T11:56:12+03:00",
   "url": "/news/zheleznyy-chelovek-2-dauni-v-novom-kostyume-foto/",
   "original_url": "http://spidermedia.ru/news/zheleznyy-chelovek-2-dauni-v-novom-kostyume-foto",
   "archived": "https://web.archive.org/web/20120608232611/http://spidermedia.ru/news/zheleznyy-chelovek-2-dauni-v-novom-kostyume-foto",
@@ -12,6 +12,12 @@
     "kino",
     "robert-dauni-ml",
     "foto"
+  ],
+  "cover": "https://web.archive.org/web/20120608232611im_/http://spidermedia.ru/assets/images/import_image/1130.jpg",
+  "modx_id": 1130,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

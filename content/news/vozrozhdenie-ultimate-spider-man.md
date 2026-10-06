@@ -1,6 +1,6 @@
 {
   "title": "Возрождение Ultimate: Spider-Man",
-  "date": "2011-05-05T23:51:00+03:00",
+  "date": "2011-05-05T22:51:50+03:00",
   "url": "/news/vozrozhdenie-ultimate-spider-man/",
   "original_url": "http://spidermedia.ru/news/vozrozhdenie-ultimate-spider-man",
   "archived": "https://web.archive.org/web/20251108195710/http://spidermedia.ru/news/vozrozhdenie-ultimate-spider-man",
@@ -11,7 +11,14 @@
     "art-0",
     "ultimate",
     "spider-man",
-    "marvel"
+    "marvel",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20251108195710im_/http://spidermedia.ru/assets/images/import_image/5506.jpg",
+  "modx_id": 5506,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

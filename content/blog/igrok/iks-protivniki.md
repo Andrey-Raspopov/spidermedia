@@ -1,6 +1,6 @@
 {
   "title": "Икс-противники",
-  "date": "2010-09-07T11:56:00+03:00",
+  "date": "2010-09-07T10:56:32+03:00",
   "url": "/blog/igrok/iks-protivniki/",
   "original_url": "http://spidermedia.ru/blog/igrok/iks-protivniki",
   "archived": "https://web.archive.org/web/20120607150149/http://spidermedia.ru/blog/igrok/iks-protivniki",
@@ -8,6 +8,12 @@
     "x-men",
     "lyudi-iks",
     "mysli"
+  ],
+  "cover": "https://web.archive.org/web/20120607150149im_/http://spidermedia.ru/assets/images/import_image/2894.jpg",
+  "modx_id": 2894,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

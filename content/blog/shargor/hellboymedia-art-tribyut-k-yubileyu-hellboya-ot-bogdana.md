@@ -1,6 +1,6 @@
 {
   "title": "Hellboymedia: Арт-трибьют к юбилею Хэллбоя от Богдана",
-  "date": "2014-12-30T12:51:00+03:00",
+  "date": "2014-12-30T12:51:38+03:00",
   "url": "/blog/shargor/hellboymedia-art-tribyut-k-yubileyu-hellboya-ot-bogdana/",
   "original_url": "https://spidermedia.ru/blog/shargor/hellboymedia-art-tribyut-k-yubileyu-hellboya-ot-bogdana",
   "archived": "https://web.archive.org/web/20251209152201/https://spidermedia.ru/blog/shargor/hellboymedia-art-tribyut-k-yubileyu-hellboya-ot-bogdana",
@@ -8,6 +8,12 @@
     "art-tribyut",
     "hellboymedia",
     "20-let-hellboya"
+  ],
+  "cover": "https://web.archive.org/web/20160611201742im_/http://spidermedia.ru/assets/images/hellboymedia/project-01-anniversary/art-trubites-other/bogdan-cover.jpg",
+  "modx_id": 8444,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

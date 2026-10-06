@@ -4,6 +4,12 @@
   "url": "/comics/starcon-2015/",
   "original_url": "http://spidermedia.ru/comics/starcon-2015",
   "archived": "https://web.archive.org/web/20250417172733/http://spidermedia.ru/comics/starcon-2015",
+  "cover": "https://web.archive.org/web/20250417172733im_/http://spidermedia.ru/assets/images/srarcon2015/star.jpg",
+  "modx_id": 100459,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,6 +1,6 @@
 {
   "title": "Лучше, чем удивительный",
-  "date": "2012-10-11T05:46:00+03:00",
+  "date": "2012-10-11T04:46:26+03:00",
   "url": "/news/luchshe-chem-udivitelnyy/",
   "original_url": "http://spidermedia.ru/news/luchshe-chem-udivitelnyy",
   "archived": "https://web.archive.org/web/20260117232530/http://spidermedia.ru/news/luchshe-chem-udivitelnyy",
@@ -11,6 +11,12 @@
     "umberto-ramos",
     "spider-man",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20260117232530im_/http://spidermedia.ru/assets/images/import_image/7053.jpg",
+  "modx_id": 7053,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

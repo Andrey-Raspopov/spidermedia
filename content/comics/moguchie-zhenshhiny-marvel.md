@@ -7,6 +7,12 @@
   "tags": [
     "marvel"
   ],
+  "cover": "https://web.archive.org/web/20160611083928im_/http://spidermedia.ru/assets/images/newgallery/gallery232/dazzler-001-col2-d7efe.jpg",
+  "modx_id": 100872,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

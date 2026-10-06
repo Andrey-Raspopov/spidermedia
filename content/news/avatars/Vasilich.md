@@ -4,6 +4,9 @@
   "url": "/news/avatars/Vasilich/",
   "original_url": "http://www.spidermedia.ru/news/avatars/Vasilich",
   "archived": "https://web.archive.org/web/20050324034330/http://www.spidermedia.ru:80/news/avatars/Vasilich",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "cp1251 (guessed)"
 }

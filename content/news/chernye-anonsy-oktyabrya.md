@@ -1,7 +1,10 @@
 {
   "title": "Черные анонсы октября!",
-  "date": "2009-07-19T15:12:00+03:00",
+  "date": "2009-07-19T14:12:30+03:00",
   "url": "/news/chernye-anonsy-oktyabrya/",
+  "aliases": [
+    "/node/1596/"
+  ],
   "original_url": "http://spidermedia.ru/news/chernye-anonsy-oktyabrya",
   "archived": "https://web.archive.org/web/20251216114249/http://spidermedia.ru/news/chernye-anonsy-oktyabrya",
   "tags": [
@@ -18,11 +21,17 @@
     "temnejshaya-noch",
     "solicitations"
   ],
+  "cover": "https://web.archive.org/web/20251216114249im_/http://spidermedia.ru/assets/images/import_image/1596.jpg",
+  "modx_id": 1596,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-Подбирается конец месяца, а значит начинают появляться анонсы будущих выпусков. И по традиции мы не проходим мимо анонсов, связанных с **Темнейшей Ночью** *(Blackest Night)*. Это последние ожидавшиеся анонсы, касающиеся октябрьской части [чеклиста](../../node/1574/), следующие уже будут относиться ко второй половине эвента (ещё не анонсированной) - следите за новостной лентой.
+Подбирается конец месяца, а значит начинают появляться анонсы будущих выпусков. И по традиции мы не проходим мимо анонсов, связанных с **Темнейшей Ночью** *(Blackest Night)*. Это последние ожидавшиеся анонсы, касающиеся октябрьской части [чеклиста](../../blog/alex/temneyshaya-noch-cheklist/), следующие уже будут относиться ко второй половине эвента (ещё не анонсированной) - следите за новостной лентой.
 [![](https://web.archive.org/web/20251216114249im_/http://i707.photobucket.com/albums/ww79/Alex_spidermedia/media/th_blackest-night-event-20090717051706.jpg)](http://i707.photobucket.com/albums/ww79/Alex_spidermedia/media/blackest-night-event-20090717051706.jpg) **Blackest Night #4**
 Сценарий - **Джефф Джонс** *(Geoff Johns)*
 Рисунок - **Айван Рейс** *(Ivan Reis)*

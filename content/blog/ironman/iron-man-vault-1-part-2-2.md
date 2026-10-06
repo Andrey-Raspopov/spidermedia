@@ -1,7 +1,10 @@
 {
   "title": "Iron Man Vault #1 (Part 2 of 2)",
-  "date": "2009-07-08T22:51:00+03:00",
+  "date": "2009-07-08T21:51:54+03:00",
   "url": "/blog/ironman/iron-man-vault-1-part-2-2/",
+  "aliases": [
+    "/node/1512/"
+  ],
   "original_url": "http://spidermedia.ru/blog/ironman/iron-man-vault-1-part-2-2",
   "archived": "https://web.archive.org/web/20220813151221/http://spidermedia.ru/blog/ironman/iron-man-vault-1-part-2-2",
   "tags": [
@@ -9,7 +12,14 @@
     "war-machine",
     "marvel",
     "iron-man",
-    "avengers"
+    "avengers",
+    "zheleznyy-chelovek"
+  ],
+  "cover": "https://web.archive.org/web/20220813151221im_/http://spidermedia.ru/assets/images/import_image/1512.jpg",
+  "modx_id": 1512,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
@@ -18,7 +28,7 @@
 ![Photobucket](https://web.archive.org/web/20220813151221im_/http://img.photobucket.com/albums/v497/spidermedia/Iron_News/1-8.jpg)Осознав, что вам (читателям) было тяжело, да и возможно лень читать 3 выпуска моей колонки, я отныне и навсегда решил делить каждый выпуск колонки на две части, чтобы вам было легко, интересно, а главное - удобно! Поэтому я представляю вам свежий Iron Man Vault #1 (Part 2 of 2), который завершает первый выпуск моей колонки!
 **Автор статьи: IrOnMaN**
 
-Ознакомиться с Iron Man Vault #1 (Part 1 of 2) можно здесь - [http://spidermedia.ru/node/1500](../../../node/1500/)
+Ознакомиться с Iron Man Vault #1 (Part 1 of 2) можно здесь - [http://spidermedia.ru/node/1500](../iron-man-vault-1-part-1-2/)
 В этом выпуске вы узнаете выживет ли Тони Старк во Второй Бронированной Войне или нет, а также - каковы планы Мандарина и Чен Су. Ну и как всегда у вас есть возможность оценить творчество отличного сценариста  Джона Бирна и таких великолепных художников, как Джона Ромиты Мл, Пола Райана, Боба Висека и Марка Брайта. Наслаждайтесь:
 Очередной удар:
 [![](https://web.archive.org/web/20220813151221im_/http://img.photobucket.com/albums/v497/spidermedia/Iron_News/th_2-7.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/Iron_News/2-7.jpg) [![](https://web.archive.org/web/20220813151221im_/http://img.photobucket.com/albums/v497/spidermedia/Iron_News/th_3-6.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/Iron_News/3-6.jpg) [![](https://web.archive.org/web/20220813151221im_/http://img.photobucket.com/albums/v497/spidermedia/Iron_News/th_4-6.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/Iron_News/?4-6.jpg)Чен Су приводит Мандарина в чувство с помощью магии и раскрывает ему его настоящую сущность. Мандарин начинает понимать своё истинное предназначение и совершает поход в далёкую долину вместе с Чен Су, чтобы найти кое-кого. Скорая помощь прибывает на место происшествия и увозит Железного Человека, которого все теперь считают мёртвым. К счастью, Старк вовремя успел включить робота-двойника Железного Человека, который забрал его из машины и доставил в SE.[![](https://web.archive.org/web/20220813151221im_/http://img.photobucket.com/albums/v497/spidermedia/Iron_News/th_5-6.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/Iron_News/5-6.jpg) [![](https://web.archive.org/web/20220813151221im_/http://img.photobucket.com/albums/v497/spidermedia/Iron_News/th_6-5.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/Iron_News/6-5.jpg) [![](https://web.archive.org/web/20220813151221im_/http://img.photobucket.com/albums/v497/spidermedia/Iron_News/th_7-4.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/Iron_News/7-4.jpg)Тем временем, близнецы, довольные результатом, дали очередной приказ ДеУитту - сделать тело Старка снова активным. После этого Тони приходит в себя, но он в полном недоумении из-за того, что произошло с ним. Ведь он же был мёртв, а теперь его разум свободен, но он не чувствует своего тела. Вместе с Роуди они находят первый способ, который хоть как-то может остановить ДеУитта, а именно... Удалённая Броня Энчефало или Самомотивационная Броня (Это и есть та броня, которая в качестве робота-двойника спасла Старку жизнь)! Мандарин вместе с Чен Су добираются до долины и встречают...ужасного дракона Фин Фанг Фума!

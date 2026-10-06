@@ -1,6 +1,6 @@
 {
   "title": "Постер фильма \"РОСОМАХА: БЕССМЕРТНЫЙ\"",
-  "date": "2012-12-13T11:52:00+03:00",
+  "date": "2012-12-13T10:52:51+03:00",
   "url": "/news/poster-filma-rosomaha/",
   "original_url": "https://spidermedia.ru/news/poster-filma-rosomaha",
   "archived": "https://web.archive.org/web/20251205105754/https://spidermedia.ru/news/poster-filma-rosomaha",
@@ -8,6 +8,12 @@
     "wolverine",
     "postery",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20251205105754im_/http://spidermedia.ru/assets/images/import_image/7105.jpg",
+  "modx_id": 7105,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

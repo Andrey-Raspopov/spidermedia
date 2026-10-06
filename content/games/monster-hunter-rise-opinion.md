@@ -4,6 +4,12 @@
   "url": "/games/monster-hunter-rise-opinion/",
   "original_url": "http://spidermedia.ru/games/monster-hunter-rise-opinion",
   "archived": "https://web.archive.org/web/20250808213402/http://spidermedia.ru/games/monster-hunter-rise-opinion",
+  "cover": "https://web.archive.org/web/20250808213402im_/http://spidermedia.ru/assets/images/games/screenshot-2021-03-30t051023.801.png",
+  "modx_id": 102369,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

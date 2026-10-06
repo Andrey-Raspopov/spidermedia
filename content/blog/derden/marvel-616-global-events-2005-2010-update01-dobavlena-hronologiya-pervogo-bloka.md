@@ -1,11 +1,20 @@
 {
   "title": "Marvel 616 Global Events 2005-2010 Update01: Добавлена хронология первого блока: Супергерои Земли",
-  "date": "2010-05-11T16:36:00+03:00",
+  "date": "2010-05-11T15:36:31+03:00",
   "url": "/blog/derden/marvel-616-global-events-2005-2010-update01-dobavlena-hronologiya-pervogo-bloka/",
+  "aliases": [
+    "/node/2619/"
+  ],
   "original_url": "http://spidermedia.ru/blog/derden/marvel-616-global-events-2005-2010-update01-dobavlena-hronologiya-pervogo-bloka",
   "archived": "https://web.archive.org/web/20200130013749/http://spidermedia.ru:80/blog/derden/marvel-616-global-events-2005-2010-update01-dobavlena-hronologiya-pervogo-bloka",
   "tags": [
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20200130013749im_/http://spidermedia.ru/assets/images/import_image/2619.jpg",
+  "modx_id": 2619,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

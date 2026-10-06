@@ -1,6 +1,6 @@
 {
   "title": "Рецензия на фильм \"Стартрек: Возмездие\"",
-  "date": "2013-04-25T12:27:00+03:00",
+  "date": "2013-04-25T11:27:43+03:00",
   "url": "/blog/redson/recenziya-na-film-startrek-vozmezdie/",
   "original_url": "https://spidermedia.ru/blog/redson/recenziya-na-film-startrek-vozmezdie",
   "archived": "https://web.archive.org/web/20260313113916/https://spidermedia.ru/blog/redson/recenziya-na-film-startrek-vozmezdie",
@@ -9,6 +9,12 @@
     "zvezdnyj-put",
     "star-trek",
     "recenziya"
+  ],
+  "cover": "https://web.archive.org/web/20160512103502im_/http://spidermedia.ru/assets/images/import_image/7227.jpg",
+  "modx_id": 7227,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Темный Январь Прошлого",
-  "date": "2009-10-13T10:14:00+03:00",
+  "date": "2009-10-13T09:14:53+03:00",
   "url": "/news/temnyy-yanvar-proshlogo/",
   "original_url": "http://spidermedia.ru/news/temnyy-yanvar-proshlogo",
   "archived": "https://web.archive.org/web/20250424103351/http://spidermedia.ru/news/temnyy-yanvar-proshlogo",
@@ -13,6 +13,12 @@
     "peter-j.-tomasi",
     "gail-simone",
     "blackest-night"
+  ],
+  "cover": "https://web.archive.org/web/20250424103351im_/http://spidermedia.ru/assets/images/import_image/1989.gif",
+  "modx_id": 1989,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

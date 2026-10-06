@@ -1,11 +1,17 @@
 {
   "title": "Превью онгоинга \"Бог ненавидит астронавтов\"",
-  "date": "2014-07-18T13:49:00+03:00",
+  "date": "2014-07-18T12:49:25+03:00",
   "url": "/news/prevyu-ongoinga-bog-nenavidit-astronavtov/",
   "original_url": "http://spidermedia.ru/news/prevyu-ongoinga-bog-nenavidit-astronavtov",
   "archived": "https://web.archive.org/web/20150423180214/http://spidermedia.ru/news/prevyu-ongoinga-bog-nenavidit-astronavtov",
   "tags": [
     "image-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150424075102im_/http://spidermedia.ru/assets/images/import_image/7902.jpg",
+  "modx_id": 7902,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

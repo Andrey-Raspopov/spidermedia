@@ -1,6 +1,6 @@
 {
   "title": "Смоллвилль\\Smallville s8 ep.18 - \"Eternal\"\\\"Бессмертный\"",
-  "date": "2009-04-06T15:14:00+03:00",
+  "date": "2009-04-06T14:14:28+03:00",
   "url": "/blog/alex/smollvill-smallville-s8-ep18-eternal-bessmertnyy/",
   "original_url": "https://spidermedia.ru/blog/alex/smollvill-smallville-s8-ep18-eternal-bessmertnyy",
   "archived": "https://web.archive.org/web/20251208074302/https://spidermedia.ru/blog/alex/smollvill-smallville-s8-ep18-eternal-bessmertnyy",
@@ -9,7 +9,14 @@
     "serialy",
     "superman",
     "smollvill",
-    "tajny-smollvillya"
+    "tajny-smollvillya",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20251208074302im_/http://spidermedia.ru/assets/images/import_image/868.png",
+  "modx_id": 868,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

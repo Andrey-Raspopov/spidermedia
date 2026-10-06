@@ -1,12 +1,18 @@
 {
   "title": "Фантастическая 2+2",
-  "date": "2014-01-24T14:50:00+03:00",
+  "date": "2014-01-24T13:50:46+03:00",
   "url": "/news/fantasticheskaya-2-2/",
   "original_url": "http://spidermedia.ru/news/fantasticheskaya-2-2",
   "archived": "https://web.archive.org/web/20251208081200/http://spidermedia.ru/news/fantasticheskaya-2-2",
   "tags": [
     "fantastic-four",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20160322092507im_/http://spidermedia.ru/assets/images/import_image/7613.jpg",
+  "modx_id": 7613,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

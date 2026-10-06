@@ -1,6 +1,6 @@
 {
   "title": "Встречаем по обложке",
-  "date": "2011-02-02T17:20:00+03:00",
+  "date": "2011-02-02T17:20:20+03:00",
   "url": "/blog/plane-v/vstrechaem-po-oblozhke/",
   "original_url": "http://spidermedia.ru/blog/plane-v/vstrechaem-po-oblozhke",
   "archived": "https://web.archive.org/web/20230323045500/http://spidermedia.ru/blog/plane-v/vstrechaem-po-oblozhke",
@@ -9,6 +9,12 @@
     "dzhok",
     "marvel",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20230323045500im_/http://spidermedia.ru/assets/images/import_image/3207.jpg",
+  "modx_id": 3207,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

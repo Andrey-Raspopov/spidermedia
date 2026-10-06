@@ -1,6 +1,6 @@
 {
   "title": "SpiderMedia.RU: Первая рецензия на фильм \"Скотт Пилигрим против всех\"",
-  "date": "2010-08-05T23:21:00+03:00",
+  "date": "2010-08-05T22:21:38+03:00",
   "url": "/news/spidermediaru-pervaya-recenziya-na-film-skott-piligrim-protiv-vseh/",
   "original_url": "http://spidermedia.ru/news/spidermediaru-pervaya-recenziya-na-film-skott-piligrim-protiv-vseh",
   "archived": "https://web.archive.org/web/20190907234117/http://spidermedia.ru:80/news/spidermediaru-pervaya-recenziya-na-film-skott-piligrim-protiv-vseh",
@@ -8,6 +8,12 @@
     "scott-pilgrim",
     "recenziya",
     "oni-press"
+  ],
+  "cover": "https://web.archive.org/web/20150428172347im_/http://spidermedia.ru/assets/images/import_image/2837.jpg",
+  "modx_id": 2837,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

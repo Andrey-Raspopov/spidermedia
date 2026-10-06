@@ -1,7 +1,10 @@
 {
   "title": "Armored basterds",
-  "date": "2009-09-28T23:47:00+03:00",
+  "date": "2009-09-28T22:47:16+03:00",
   "url": "/news/armored-basterds/",
+  "aliases": [
+    "/node/1939/"
+  ],
   "original_url": "http://spidermedia.ru/news/armored-basterds",
   "archived": "https://web.archive.org/web/20120608193610/http://spidermedia.ru/news/armored-basterds",
   "tags": [
@@ -12,7 +15,14 @@
     "marvel",
     "oblozhki",
     "stiv-kurt",
-    "uorren-ellis"
+    "uorren-ellis",
+    "warren-ellis"
+  ],
+  "cover": "https://web.archive.org/web/20120608193610im_/http://spidermedia.ru/assets/images/import_image/1939.jpg",
+  "modx_id": 1939,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

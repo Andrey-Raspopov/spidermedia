@@ -1,6 +1,6 @@
 {
   "title": "Пшли вон!",
-  "date": "2012-02-14T11:47:00+03:00",
+  "date": "2012-02-14T10:47:17+03:00",
   "url": "/news/pshli-von/",
   "original_url": "http://spidermedia.ru/news/pshli-von",
   "archived": "https://web.archive.org/web/20251110225128/http://spidermedia.ru/news/pshli-von",
@@ -10,6 +10,12 @@
     "karmin-di-dzhyandomeniko",
     "marvel",
     "journey-into-mystery"
+  ],
+  "cover": "https://web.archive.org/web/20251110225128im_/http://spidermedia.ru/assets/images/import_image/6783.jpg",
+  "modx_id": 6783,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

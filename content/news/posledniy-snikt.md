@@ -1,6 +1,6 @@
 {
   "title": "Последний SNIKT",
-  "date": "2014-04-25T17:59:00+03:00",
+  "date": "2014-04-25T16:59:32+03:00",
   "url": "/news/posledniy-snikt/",
   "original_url": "http://spidermedia.ru/news/posledniy-snikt",
   "archived": "https://web.archive.org/web/20251111082037/http://spidermedia.ru/news/posledniy-snikt",
@@ -9,6 +9,12 @@
     "marvel",
     "stiv-makniven",
     "charlz-soul"
+  ],
+  "cover": "https://web.archive.org/web/20251111082037im_/http://spidermedia.ru/assets/images/import_image/7721.jpg",
+  "modx_id": 7721,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

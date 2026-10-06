@@ -5,13 +5,20 @@
   "original_url": "https://spidermedia.ru/comics/all-things-valiant-week-26",
   "archived": "https://web.archive.org/web/20260125052649/https://spidermedia.ru/comics/all-things-valiant-week-26",
   "tags": [
-    "valiant-entertainment"
+    "valiant-entertainment",
+    "all-things-valiant"
+  ],
+  "cover": "https://web.archive.org/web/20260125052649im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/all-things-valiant-03-cover-horizontal.jpg",
+  "modx_id": 100304,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](http://spidermedia.ru/assets/cache/preview/100304/valiant/all-things-valiant-03-week-26/622x415-all-things-valiant-03-cover-horizontal.b08.jpg)](http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/all-things-valiant-03-cover-horizontal.jpg)
+![](https://web.archive.org/web/20260125052649im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/all-things-valiant-03-cover-horizontal.jpg)
 
 Если считать новость о возрождении рубрики своеобразным «трейлером», то теперь перед вами полноценный пилотный эпизод. Пусть цифра три в заголовке вас не смущает, Лукас начинал с четверки (#скромность). И, как любые шоураннеры, надеемся, что нас «продлят на полный сезон».
 
@@ -31,15 +38,15 @@
 
 Valiant Entertainment, изменив своему стандартному дизайну обложек, идет дальше в создании уникального вида своего июльского блокбастера. Сообщается, что первый номер мини-серии будет продаваться с уникальным роскошным «сверх-покрытием», чередующим матовую отделку и лакировку на обложках из плотной бумаги.
 
-[![](http://spidermedia.ru/assets/cache/preview/100304/valiant/all-things-valiant-03-week-26/153x235-1_1-preview-1.f1c.jpg)](http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/1_1-preview-1.jpg) [![](http://spidermedia.ru/assets/cache/preview/100304/valiant/all-things-valiant-03-week-26/306x235-1_1-preview-2.af0.jpg)](http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/1_1-preview-2.jpg) [![](http://spidermedia.ru/assets/cache/preview/100304/valiant/all-things-valiant-03-week-26/153x235-1_1-preview-3.f1c.jpg)](http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/1_1-preview-3.jpg)[![](http://spidermedia.ru/assets/cache/preview/100304/valiant/all-things-valiant-03-week-26/204x314-1_1-preview-4.b96.jpg)](http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/1_1-preview-4.jpg) [![](http://spidermedia.ru/assets/cache/preview/100304/valiant/all-things-valiant-03-week-26/204x314-1_1-preview-5.b96.jpg)](http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/1_1-preview-5.jpg) [![](http://spidermedia.ru/assets/cache/preview/100304/valiant/all-things-valiant-03-week-26/204x314-1_1-preview-6.b96.jpg)](http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/1_1-preview-6.jpg)
+![](https://web.archive.org/web/20260125052649im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/1_1-preview-1.jpg) ![](https://web.archive.org/web/20260125052649im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/1_1-preview-2.jpg) ![](https://web.archive.org/web/20260125052649im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/1_1-preview-3.jpg)![](https://web.archive.org/web/20260125052649im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/1_1-preview-4.jpg) ![](https://web.archive.org/web/20260125052649im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/1_1-preview-5.jpg) ![](https://web.archive.org/web/20260125052649im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/1_1-preview-6.jpg)
 
 Издательство активно подогревает интерес к своему летнему эвенту, обещая появление на страницах серии новых персонажей. Также стали известны подробности о таинственном злодее, задумавшем уничтожить мир и, согласно книге Тамы, в будущем уже погрузившем человечество в Темные века. До 3-го номера основной серии его личность останется неизвестной, но руководство издательства эксклюзивно проСПОЙЛЕРило имя антагониста сайту [io9](http://io9.com/the-sinister-force-who-will-destroy-the-valiant-comics-1710356599). Им стал Мастер Дарк, сильнейший некромант вселенной и смертельный враг Шэдоумена. Как сказал Роберт Вендитти, целью Дарка станет желание сохранить временно полученные им силы Геоманта.
 
-[![](http://spidermedia.ru/assets/cache/preview/100304/valiant/all-things-valiant-03-week-26/206x313-1_2-preview-1.0c9.jpg)](http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/1_2-preview-1.jpg) [![](http://spidermedia.ru/assets/cache/preview/100304/valiant/all-things-valiant-03-week-26/404x313-1_2-preview-2.dc1.jpg)](http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/1_2-preview-2.jpg)[![](http://spidermedia.ru/assets/cache/preview/100304/valiant/all-things-valiant-03-week-26/204x310-1_2-preview-3.715.jpg)](http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/1_2-preview-3.jpg) [![](http://spidermedia.ru/assets/cache/preview/100304/valiant/all-things-valiant-03-week-26/204x310-1_2-preview-4.715.jpg)](http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/1_2-preview-4.jpg) [![](http://spidermedia.ru/assets/cache/preview/100304/valiant/all-things-valiant-03-week-26/204x310-1_2-preview-5.715.jpg)](http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/1_2-preview-5.jpg)
+![](https://web.archive.org/web/20260125052649im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/1_2-preview-1.jpg) ![](https://web.archive.org/web/20260125052649im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/1_2-preview-2.jpg)![](https://web.archive.org/web/20260125052649im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/1_2-preview-3.jpg) ![](https://web.archive.org/web/20260125052649im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/1_2-preview-4.jpg) ![](https://web.archive.org/web/20260125052649im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/1_2-preview-5.jpg)
 
 Кроме того, Valiant активно сотрудничает с новостным ресурсосм ComicBook.com: каждую неделю на нем будет публиковаться вебкомикс Book of Death: Chapter Zero. Сценаристом выступит Роберт Вендитти, за иллюстрации отвечает КАФУ. Первую страницу из четырёх уже выложили.
 
-[![](http://spidermedia.ru/assets/cache/preview/100304/valiant/all-things-valiant-03-week-26/300x462-1_3-webcomic.1a2.jpg)](http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/1_3-webcomic.jpg)
+![](https://web.archive.org/web/20260125052649im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/1_3-webcomic.jpg)
 
 #### Сотрудничество с Diamond
 
@@ -51,7 +58,7 @@ Valiant Entertainment, изменив своему стандартному ди
 
 Это огромный шаг вперед для Valiant, так как благодаря Diamond Comic Distributors их комиксы станут доступны практически в каждой точке земного шара.
 
-[![](http://spidermedia.ru/assets/cache/preview/100304/valiant/all-things-valiant-03-week-26/229x111-1_4-logo-1.e55.jpg)](http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/1_4-logo-1.png) [![](http://spidermedia.ru/assets/cache/preview/100304/valiant/all-things-valiant-03-week-26/384x111-1_4-logo-2.b0f.jpg)](http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/1_4-logo-2.jpg)
+![](https://web.archive.org/web/20260125052649im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/1_4-logo-1.png) ![](https://web.archive.org/web/20260125052649im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/1_4-logo-2.jpg)
 
 #### #ValiantSummit
 
@@ -59,13 +66,13 @@ Valiant Entertainment, изменив своему стандартному ди
 
 Эксклюзивная презентация будет транслироваться из штаб-квартиры Twitter в Сан-Франциско 30 июня (т.е. уже завтра!) в 22:00 по Москве. Роберт Вендитти (Book of Death, X-O Manowar), Джен Ван Метер (The Death-Defying Dr. Mirage), Динеш Шамдасани (генеральный директор), Уоррен Саймонс (главный редактор) и Хантер Гаррисон (директор по маркетингу) подготовили более часа новостей и анонсов. Живое вещание будет осуществляться через приложение [Рeriscope](https://www.periscope.tv/) на странице [@ValiantComics](https://twitter.com/ValiantComics).
 
-![](http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/1_5-valiantsummit.jpg)
+![](https://web.archive.org/web/20260125052649im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/1_5-valiantsummit.jpg)
 
 #### Divinity II
 
 Первую мини-серию про афросоветского космонавта, способного манипулировать реальностью, публика приняла на ура. В итоге была анонсирована вторая мини, выход которой запланирован на апрель 2016. Авторский коллектив останется неизменным: сценарий Мэтта Киндта, карандаш Трэвора Хэйрсина, тушь Райана Винна, цвет Дэвида Барона, обложками же нас снова порадуют Елена Кевич-Джурджевич и Том Мюллер. Те же поклонники Адама Абрамса, которые не согласны терпеть год, смогут насладиться дальнейшими приключениями Divinity уже 5 августа в Imperium #7. Также обещают появление персонажа на страницах мини-серии Book of Death.
 
-![](http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/1_6-divinity-ii.jpg)
+![](https://web.archive.org/web/20260125052649im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/1_6-divinity-ii.jpg)
 
 ---
 
@@ -74,7 +81,7 @@ Valiant Entertainment, изменив своему стандартному ди
 ---
 
 #### Book of Death #2
-[![](http://spidermedia.ru/assets/cache/preview/100304/valiant/all-things-valiant-03-week-26/120x185-2_1-book-of-death-2-cover_1.0ed.jpg)](http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/2_1-book-of-death-2-cover_1.jpg) [![](http://spidermedia.ru/assets/cache/preview/100304/valiant/all-things-valiant-03-week-26/120x185-2_1-book-of-death-2-cover_2.0ed.jpg)](http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/2_1-book-of-death-2-cover_2.jpg) [![](http://spidermedia.ru/assets/cache/preview/100304/valiant/all-things-valiant-03-week-26/122x185-2_1-book-of-death-2-cover_3.8a9.jpg)](http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/2_1-book-of-death-2-cover_3.jpg) [![](http://spidermedia.ru/assets/cache/preview/100304/valiant/all-things-valiant-03-week-26/120x185-2_1-book-of-death-2-cover_4.0ed.jpg)](http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/2_1-book-of-death-2-cover_4.jpg) [![](http://spidermedia.ru/assets/cache/preview/100304/valiant/all-things-valiant-03-week-26/122x185-2_1-book-of-death-2-cover_5.8a9.jpg)](http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/2_1-book-of-death-2-cover_5.jpg)Кэри Норд ****•**** Клэйтон Крэйн ****•**** Кано ****•**** Пепе Перез ****•**** Паоло Ривьера
+![](https://web.archive.org/web/20260125052649im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/2_1-book-of-death-2-cover_1.jpg) ![](https://web.archive.org/web/20260125052649im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/2_1-book-of-death-2-cover_2.jpg) ![](https://web.archive.org/web/20260125052649im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/2_1-book-of-death-2-cover_3.jpg) ![](https://web.archive.org/web/20260125052649im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/2_1-book-of-death-2-cover_4.jpg) ![](https://web.archive.org/web/20260125052649im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/2_1-book-of-death-2-cover_5.jpg)Кэри Норд ****•**** Клэйтон Крэйн ****•**** Кано ****•**** Пепе Перез ****•**** Паоло Ривьера
 
 Сценарий: Роберт Вендитти
 Рисунок: Роберт Джилл и Даг Брэйтвэйт
@@ -83,7 +90,7 @@ Valiant Entertainment, изменив своему стандартному ди
 Убежденные тем, что именно прибытие нового геоманта вызвало катастрофу, разрывающую мир на части, объединенные силы вселенной Valiant вступают в конфликт с Вечным Воином. Чтобы предотвратить наступление Темной Эры, Гилад пойдет на все.
 
 #### Book of Death: The Fall of Ninjak
-[![](http://spidermedia.ru/assets/cache/preview/100304/valiant/all-things-valiant-03-week-26/152x234-2_2-the-fall-of-ninjak-cover_1.305.jpg)](http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/2_2-the-fall-of-ninjak-cover_1.jpg) [![](http://spidermedia.ru/assets/cache/preview/100304/valiant/all-things-valiant-03-week-26/151x234-2_2-the-fall-of-ninjak-cover_2.512.jpg)](http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/2_2-the-fall-of-ninjak-cover_2.jpg) [![](http://spidermedia.ru/assets/cache/preview/100304/valiant/all-things-valiant-03-week-26/154x234-2_2-the-fall-of-ninjak-cover_3.c4e.jpg)](http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/2_2-the-fall-of-ninjak-cover_3.jpg) [![](http://spidermedia.ru/assets/cache/preview/100304/valiant/all-things-valiant-03-week-26/150x234-2_2-the-fall-of-ninjak-cover_4.992.jpg)](http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/2_2-the-fall-of-ninjak-cover_4.jpg)Кано ****•**** Клэй Манн ****•**** Роберт Джилл ****•**** Ден Пасторас
+![](https://web.archive.org/web/20260125052649im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/2_2-the-fall-of-ninjak-cover_1.jpg) ![](https://web.archive.org/web/20260125052649im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/2_2-the-fall-of-ninjak-cover_2.jpg) ![](https://web.archive.org/web/20260125052649im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/2_2-the-fall-of-ninjak-cover_3.jpg) ![](https://web.archive.org/web/20260125052649im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/2_2-the-fall-of-ninjak-cover_4.jpg)Кано ****•**** Клэй Манн ****•**** Роберт Джилл ****•**** Ден Пасторас
 
 Сценарий: Мэтт Киндт
 Рисунок: Трэвор Хэйрсин
@@ -91,7 +98,7 @@ Valiant Entertainment, изменив своему стандартному ди
 После Третьей Охоты на Доспехи (Armor Hunt) на развалинах своего особняка влачит жалкое существование Колин Кинг — последний оставшийся в живых член Unity. Но неожиданный визит старого друга дает Ниндзяку надежду разорвать порочный круг смертей и избежать ужасной судьбы, предсказанной Книгой Геоманта.
 
 #### Book of Death: Legends of the Geomancer #2
-[![](http://spidermedia.ru/assets/cache/preview/100304/valiant/all-things-valiant-03-week-26/310x477-2_3-legends-of-the-geomancer-2.0e1.jpg)](http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/2_3-legends-of-the-geomancer-2.jpg)Хуан Хосе Рип
+![](https://web.archive.org/web/20260125052649im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/2_3-legends-of-the-geomancer-2.jpg)Хуан Хосе Рип
 
 Сценарий: Фред Ван Ленте
 Рисунок: Хуан Хосе Рип
@@ -101,7 +108,7 @@ Valiant Entertainment, изменив своему стандартному ди
 
 #### Bloodshot Reborn #5
 
-[![](http://spidermedia.ru/assets/cache/preview/100304/valiant/all-things-valiant-03-week-26/120x185-2_4-bloodshot-reborn-5-cover_1.0ed.jpg)](http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/2_4-bloodshot-reborn-5-cover_1.jpg) [![](http://spidermedia.ru/assets/cache/preview/100304/valiant/all-things-valiant-03-week-26/119x185-2_4-bloodshot-reborn-5-cover_2.953.jpg)](http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/2_4-bloodshot-reborn-5-cover_2.jpg) [![](http://spidermedia.ru/assets/cache/preview/100304/valiant/all-things-valiant-03-week-26/120x185-2_4-bloodshot-reborn-5-cover_3.0ed.jpg)](http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/2_4-bloodshot-reborn-5-cover_3.jpg) [![](http://spidermedia.ru/assets/cache/preview/100304/valiant/all-things-valiant-03-week-26/123x185-2_4-bloodshot-reborn-5-cover_4.97e.jpg)](http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/2_4-bloodshot-reborn-5-cover_4.jpg) [![](http://spidermedia.ru/assets/cache/preview/100304/valiant/all-things-valiant-03-week-26/122x185-2_4-bloodshot-reborn-5-cover_5.8a9.jpg)](http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/2_4-bloodshot-reborn-5-cover_5.jpg)Рауль Аллен **•** Мико Суаян **•** Джей Фаберес **•** Дэйв Джонсон **•** Кано
+![](https://web.archive.org/web/20260125052649im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/2_4-bloodshot-reborn-5-cover_1.jpg) ![](https://web.archive.org/web/20260125052649im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/2_4-bloodshot-reborn-5-cover_2.jpg) ![](https://web.archive.org/web/20260125052649im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/2_4-bloodshot-reborn-5-cover_3.jpg) ![](https://web.archive.org/web/20260125052649im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/2_4-bloodshot-reborn-5-cover_4.jpg) ![](https://web.archive.org/web/20260125052649im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/2_4-bloodshot-reborn-5-cover_5.jpg)Рауль Аллен **•** Мико Суаян **•** Джей Фаберес **•** Дэйв Джонсон **•** Кано
 
 Сценарий: Джефф Лемир
 Рисунок: Рауль Аллен
@@ -110,7 +117,7 @@ Valiant Entertainment, изменив своему стандартному ди
 
 #### Ninjak #6
 
-[![](http://spidermedia.ru/assets/cache/preview/100304/valiant/all-things-valiant-03-week-26/118x182-2_5-ninjak-6-cover_1.86f.jpg)](http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/2_5-ninjak-6-cover_1.jpg) [![](http://spidermedia.ru/assets/cache/preview/100304/valiant/all-things-valiant-03-week-26/129x182-2_5-ninjak-6-cover_2.622.jpg)](http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/2_5-ninjak-6-cover_2.jpg) [![](http://spidermedia.ru/assets/cache/preview/100304/valiant/all-things-valiant-03-week-26/121x182-2_5-ninjak-6-cover_3.26e.jpg)](http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/2_5-ninjak-6-cover_3.jpg) [![](http://spidermedia.ru/assets/cache/preview/100304/valiant/all-things-valiant-03-week-26/118x182-2_5-ninjak-6-cover_4.86f.jpg)](http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/2_5-ninjak-6-cover_4.jpg) [![](http://spidermedia.ru/assets/cache/preview/100304/valiant/all-things-valiant-03-week-26/120x182-2_5-ninjak-6-cover_5.3c5.jpg)](http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/2_5-ninjak-6-cover_5.jpg)Мико Суаян **•** Елена Кевич-Джурджевич **•** Дэйв Джонсон **•** Мэтт Киндт **•** Клэйтон Хенри
+![](https://web.archive.org/web/20260125052649im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/2_5-ninjak-6-cover_1.jpg) ![](https://web.archive.org/web/20260125052649im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/2_5-ninjak-6-cover_2.jpg) ![](https://web.archive.org/web/20260125052649im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/2_5-ninjak-6-cover_3.jpg) ![](https://web.archive.org/web/20260125052649im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/2_5-ninjak-6-cover_4.jpg) ![](https://web.archive.org/web/20260125052649im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/2_5-ninjak-6-cover_5.jpg)Мико Суаян **•** Елена Кевич-Джурджевич **•** Дэйв Джонсон **•** Мэтт Киндт **•** Клэйтон Хенри
 
 Сценарий: Мэтт Киндт
 Рисунок: Рауль Аллен и Бутч Гайс
@@ -118,7 +125,7 @@ Valiant Entertainment, изменив своему стандартному ди
 Кто такие Shadow Seven? Ответ именно на этот вопрос должен был найти Колин, когда его внедрили в террористическую организацию Weaponeer с целью уничтожить ее изнутри. Когда новые таинственные враги выходят на сцену, Ниндзяк отправляется в путешествие по всему земному шару, чтобы их остановить. Кроме того, в The Lost Files нам расскажут о первой встрече Колина Кинга и Невилла Элкотта.
 
 #### Rai #9
-[![](http://spidermedia.ru/assets/cache/preview/100304/valiant/all-things-valiant-03-week-26/120x184-2_6-rai-9-cover_1.703.jpg)](http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/2_6-rai-9-cover_1.jpg) [![](http://spidermedia.ru/assets/cache/preview/100304/valiant/all-things-valiant-03-week-26/121x184-2_6-rai-9-cover_2.9bf.jpg)](http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/2_6-rai-9-cover_2.jpg) [![](http://spidermedia.ru/assets/cache/preview/100304/valiant/all-things-valiant-03-week-26/118x184-2_6-rai-9-cover_3.9e3.jpg)](http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/2_6-rai-9-cover_3.jpg) [![](http://spidermedia.ru/assets/cache/preview/100304/valiant/all-things-valiant-03-week-26/121x184-2_6-rai-9-cover_4.9bf.jpg)](http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/2_6-rai-9-cover_4.jpg) [![](http://spidermedia.ru/assets/cache/preview/100304/valiant/all-things-valiant-03-week-26/123x184-2_6-rai-9-cover_5.73b.jpg)](http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/2_6-rai-9-cover_5.jpg)Клэйтон Крэйн ****•**** Райан Сук ****•**** Райли Россмо ****•**** Райан Ли ****•**** Клэйтон Хенри
+![](https://web.archive.org/web/20260125052649im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/2_6-rai-9-cover_1.jpg) ![](https://web.archive.org/web/20260125052649im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/2_6-rai-9-cover_2.jpg) ![](https://web.archive.org/web/20260125052649im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/2_6-rai-9-cover_3.jpg) ![](https://web.archive.org/web/20260125052649im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/2_6-rai-9-cover_4.jpg) ![](https://web.archive.org/web/20260125052649im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/2_6-rai-9-cover_5.jpg)Клэйтон Крэйн ****•**** Райан Сук ****•**** Райли Россмо ****•**** Райан Ли ****•**** Клэйтон Хенри
 
 Сценарий: Мэтт Киндт
 Рисунок: Клэйтон Крэйн
@@ -126,7 +133,7 @@ Valiant Entertainment, изменив своему стандартному ди
 Израненный и сломленный Рай изгнан на землю. На его сторонников объявлена охота за неудачную попытку мятежа. Но Рай полон решимости спасти своих друзей и положить конец правлению Отца. Удастся ли ему это сделать с поверхности? Старт нового сюжета «Сирота».
 
 #### X-O Manowar #39
-[![](http://spidermedia.ru/assets/cache/preview/100304/valiant/all-things-valiant-03-week-26/152x234-2_7-x-o-manowar-39-cover_1.305.jpg)](http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/2_7-x-o-manowar-39-cover_1.jpg) [![](http://spidermedia.ru/assets/cache/preview/100304/valiant/all-things-valiant-03-week-26/154x234-2_7-x-o-manowar-39-cover_2.c4e.jpg)](http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/2_7-x-o-manowar-39-cover_2.jpg) [![](http://spidermedia.ru/assets/cache/preview/100304/valiant/all-things-valiant-03-week-26/153x234-2_7-x-o-manowar-39-cover_3.881.jpg)](http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/2_7-x-o-manowar-39-cover_3.jpg) [![](http://spidermedia.ru/assets/cache/preview/100304/valiant/all-things-valiant-03-week-26/149x234-2_7-x-o-manowar-39-cover_4.29d.jpg)](http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/2_7-x-o-manowar-39-cover_4.jpg)Рафа Сандовал ****•**** Роберт Джилл ****•**** КАФУ ****•**** Брент Пиплс
+![](https://web.archive.org/web/20260125052649im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/2_7-x-o-manowar-39-cover_1.jpg) ![](https://web.archive.org/web/20260125052649im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/2_7-x-o-manowar-39-cover_2.jpg) ![](https://web.archive.org/web/20260125052649im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/2_7-x-o-manowar-39-cover_3.jpg) ![](https://web.archive.org/web/20260125052649im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/2_7-x-o-manowar-39-cover_4.jpg)Рафа Сандовал ****•**** Роберт Джилл ****•**** КАФУ ****•**** Брент Пиплс
 
 Сценарий: Роберт Вендитти
 Рисунок: Рафа Сандовал
@@ -135,7 +142,7 @@ Valiant Entertainment, изменив своему стандартному ди
 
 #### Imperium #7
 
-[![](http://spidermedia.ru/assets/cache/preview/100304/valiant/all-things-valiant-03-week-26/207x318-2_8-imperium-7-cover_1.d3a.jpg)](http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/2_8-imperium-7-cover_1.jpg) [![](http://spidermedia.ru/assets/cache/preview/100304/valiant/all-things-valiant-03-week-26/209x318-2_8-imperium-7-cover_2.840.jpg)](http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/2_8-imperium-7-cover_2.jpg) [![](http://spidermedia.ru/assets/cache/preview/100304/valiant/all-things-valiant-03-week-26/197x318-2_8-imperium-7-cover_3.6bc.jpg)](http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/2_8-imperium-7-cover_3.jpg)Кано **•** Пепе Перез **•** Филип Тан
+![](https://web.archive.org/web/20260125052649im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/2_8-imperium-7-cover_1.jpg) ![](https://web.archive.org/web/20260125052649im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/2_8-imperium-7-cover_2.jpg) ![](https://web.archive.org/web/20260125052649im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/2_8-imperium-7-cover_3.jpg)Кано **•** Пепе Перез **•** Филип Тан
 
 Сценарий: Джошуа Дизарт
 Рисунок: Скот Итон
@@ -144,7 +151,7 @@ Valiant Entertainment, изменив своему стандартному ди
 
 #### Ivar, Timewalker #8
 
-[![](http://spidermedia.ru/assets/cache/preview/100304/valiant/all-things-valiant-03-week-26/203x312-2_9-ivar-the-timewalker-8-cover_1.6c8.jpg)](http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/2_9-ivar-the-timewalker-8-cover_1.jpg) [![](http://spidermedia.ru/assets/cache/preview/100304/valiant/all-things-valiant-03-week-26/205x312-2_9-ivar-the-timewalker-8-cover_2.aff.jpg)](http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/2_9-ivar-the-timewalker-8-cover_2.jpg) [![](http://spidermedia.ru/assets/cache/preview/100304/valiant/all-things-valiant-03-week-26/205x312-2_9-ivar-the-timewalker-8-cover_3.aff.jpg)](http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/2_9-ivar-the-timewalker-8-cover_3.jpg)Рауль Аллен **•** Стив Либер **•** Роберт Джилл
+![](https://web.archive.org/web/20260125052649im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/2_9-ivar-the-timewalker-8-cover_1.jpg) ![](https://web.archive.org/web/20260125052649im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/2_9-ivar-the-timewalker-8-cover_2.jpg) ![](https://web.archive.org/web/20260125052649im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/2_9-ivar-the-timewalker-8-cover_3.jpg)Рауль Аллен **•** Стив Либер **•** Роберт Джилл
 
 Сценарий: Фред Ван Ленте
 Рисунок: Фрэнсис Портела
@@ -153,7 +160,7 @@ Valiant Entertainment, изменив своему стандартному ди
 
 #### Unity #21
 
-[![](http://spidermedia.ru/assets/cache/preview/100304/valiant/all-things-valiant-03-week-26/307x472-2_10-unity-21-cover_1.49e.jpg)](http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/2_10-unity-21-cover_1.jpg) [![](http://spidermedia.ru/assets/cache/preview/100304/valiant/all-things-valiant-03-week-26/309x472-2_10-unity-21-cover_2.a13.jpg)](http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/2_10-unity-21-cover_2.jpg)Кано **•** Сина Грэйс
+![](https://web.archive.org/web/20260125052649im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/2_10-unity-21-cover_1.jpg) ![](https://web.archive.org/web/20260125052649im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/2_10-unity-21-cover_2.jpg)Кано **•** Сина Грэйс
 
 Сценарий: Мэтт Киндт
 Рисунок: Хосе Луис
@@ -162,7 +169,7 @@ Valiant Entertainment, изменив своему стандартному ди
 
 #### Dead Drop #4
 
-[![](http://spidermedia.ru/assets/cache/preview/100304/valiant/all-things-valiant-03-week-26/310x471-2_11-dead-drop-4.3d0.jpg)](http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/2_11-dead-drop-4.jpg)Рауль Аллен
+![](https://web.archive.org/web/20260125052649im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/2_11-dead-drop-4.jpg)Рауль Аллен
 
 Сценарий: Алеш Кот
 Рисунок: Адам Горэм
@@ -174,3 +181,86 @@ Valiant Entertainment, изменив своему стандартному ди
 **ЧТО МЫ ПРОЧИТАЛИ**
 
 ---
+
+a:4:{i:1;a:7:{s:5:"autor";a:3:{i:1;a:2:{i:0;s:16:"Сценарий";i:1;s:19:"Мэтт Киндт";}i:3;a:2:{i:0;s:14:"Рисунок";i:1;s:27:"Трэвор Хэйрсин";}i:5;a:2:{i:0;s:8:"Цвет";i:1;s:21:"Дэвид Барон";}}s:4:"name";s:8:"Divinity";s:7:"edition";s:2:"#4";s:5:"cover";s:76:"assets/images/valiant/all-things-valiant-03-week-26/3_1-divinity-4-cover.jpg";s:9:"publisher";s:4:"1249";s:4:"year";s:4:"2015";s:8:"comments";a:1:{i:1;a:4:{s:5:"autor";s:6:"183731";s:4:"text";s:4907:"
+
+На первый взгляд, серию можно упрекнуть в достаточно заметных логических нестыковках. Самым ярким примером служит изменяющийся каждый номер статус Евы. В первом она только девушка главного героя, во втором, за день до отлёта Абрама, она сообщает ему, что ждет ребенка. В третьем она уже на N-м месяце беременности, а он всё ещё улетает на следующий день. В четвёртом Livewire утверждает, что Ева — жена Адамса. Но сложно выйти замуж втайне от правительства, которое постоянно следит за тобой. Возможно, Абраму позволили жениться, потому что «государство беспокоилось, что бремя ответственности может сломить его»? И вот мы вернулись к первому номеру.
+
+Постоянное возвращение к ранее прочитанному является ключевым мотивом всей серии. Выражено это как текстом в лоб: *«Сейчас я пролистываю жизнь Абрама Адамся так, словно истертые страницы старого романа с загнутыми уголками»*, — так и более элегантно через доминирования в иллюстрациях кругов и сфер. Например, в конце четвертого номера создатели умело цитируют Уильяма Блейка, помещая Divinity в круг.
+
+![](https://web.archive.org/web/20260125052649im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/3_1-divinity-4-image-1.jpg)
+
+Перекраивая и смакуя жизнь Абрама Адамса, Divinity оказывается в ловушке своего уникального существования во времени. Однажды испытав шок от возвращения семьи, наш эмоциональный Доктор Манхэттен, будучи заточённым в сферу проекций Livewire, переживает возврат близких с прежней силой. Точнее, он переживает эту сцену и существует в ней только один раз, но, из-за своего целостного восприятия времени, способен быть одновременно разбитым горем и безэмоционально исполнять нужды страждущих.
+
+Четвертый выпуск постоянно отсылает читателя к более ранним номерам, а те в свою очередь вновь разворачивают того в сторону четвертого — такова суть серии. Постепенно проясняющиеся моменты переплетаются со становящимися ещё более загадочными деталями в плотную сферу. Фигура, которая выходит из-под карандаша Хэйрсина чуть-ли не чаще, чем её двухмерный родитель. Но без работы над цветом Дэвида Барона сферы так и остались бы плоскими кругами. Именно он придаёт объем самым эмоциональным сценам комикса. Без его мастерства мы бы не смогли поверить в тот невероятный космический зрачок, который дал силы Адамсу.
+
+![](https://web.archive.org/web/20260125052649im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/3_1-divinity-4-image-2.jpg)
+
+Divinity — серия-бриллиант. Читая её, мы больше узнаём о себе, чем о событиях лимитки. Не стоит отказываться от удовольствии приобщиться к настолько уникальному опыту.
+
+";s:8:"mjdzText";s:0:"";s:10:"conclusion";s:12:"ЗОЛОТО";}}}i:2;a:7:{s:5:"autor";a:3:{i:1;a:2:{i:0;s:16:"Сценарий";i:1;s:19:"Мэтт Киндт";}i:3;a:2:{i:0;s:14:"Рисунок";i:1;s:27:"Манн, Бутч Гайс";}i:5;a:2:{i:0;s:8:"Цвет";i:1;s:27:"Улисес Арреола";}}s:4:"name";s:6:"Ninjak";s:7:"edition";s:2:"#3";s:5:"cover";s:74:"assets/images/valiant/all-things-valiant-03-week-26/3_2-ninjak-3-cover.jpg";s:9:"publisher";s:4:"1249";s:4:"year";s:4:"2015";s:8:"comments";a:1:{i:1;a:4:{s:5:"autor";s:6:"183731";s:4:"text";s:4965:"
+
+Именная серия Ниндзяка — настоящая ода контрасту. Бешенный экшен соседствует с историей о тяжелом детстве и выживании во флэшбеке, а всему этому противопоставляется романтическая история бэкапа.
+
+Третий номер начинается там, где заканчивается второй — на полпути до земли. Року, телохранитель ген. директора крупнейшего нелегального синдиката продавцов оружием, помешала Колину Книгу закончить его миссию. И теперь у него только десять минут на то чтобы победить убийцу с бритвенно-острыми волосами, преодолеть охрану здания и встретиться с ген. директором синдиката, прежде чем тот поймет, что Колин Кинг и Ниндзяк — один и тот же человек.
+
+Адреналиновой гонке настоящего противопоставляется размеренное прошлое, где временной интервал между панельками растягивается от нескольких секунд до времен года. Юный Кинг всё так же маниакально пытается убить собственного дворецкого. В этот раз, прибегнув к том, что не раз выручит его в будущем, — созданию гаджета.
+
+![](https://web.archive.org/web/20260125052649im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/3_2-ninjak-3-image-1.jpg)
+
+Рисунок Клэя Манна работает на поддержание контраста между дистиллированным экшеном и размеренным флэшбэком. Динамичная, изобретательная, местами ломаная композиция и широкая размашистая штриховка настоящего спорят с более мелкой штриховкой и почти строгой геометричностью композиции прошлого. Колорист Улисес Арреола красит Манна сочными полутонами. Покраска экшен-сцен и флэшбека различается работой со светом. Неон городских высоток и слепящие спецэфекты шпионских гаджетов противопоставлены ламповому освещению родового поместья из детских воспоминаний Колина.
+
+История бэкапа раскручивается неспешно, сосредоточившись на проработке персонажей. В центре повествования рассказ о запретной любви в мире шпионов. Страстью и подозрительностью пропитаны взаимоотношения только постигающего азы шпионского мастерства Кинга и его агентуриста Анджелины.
+
+![](https://web.archive.org/web/20260125052649im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/3_2-ninjak-3-image-2.jpg)
+
+Приземлённый рисунок Бутча Гайса удачно контрастирует с основной историей. При этом художник может выдавать интересные композиционные решения, элегантно размещая на одной странице уйму информации. Улисес Арреола в бэкапе выдает тусклые потертые цвета, отлично подчёркивающие реалистичность истории.
+
+Рекомендовать с третьего номера начинать знакомство с серией следует очень аккуратно. Если Эшен-составляющая и бэкап продолжают быть дружелюбны к новому читателю, то флэшбек для вас может остаться непонятым.
+
+";s:8:"mjdzText";s:0:"";s:10:"conclusion";s:10:"ДОБРО";}}}i:3;a:7:{s:5:"autor";a:3:{i:1;a:2:{i:0;s:16:"Сценарий";i:1;s:19:"Мэтт Киндт";}i:3;a:2:{i:0;s:14:"Рисунок";i:1;s:91:"Хуан Хосе Рип, Клэй Манн, Маргарит Саваж, Бутч Гайс";}i:5;a:2:{i:0;s:8:"Цвет";i:1;s:27:"Улисес Арреола";}}s:4:"name";s:6:"Ninjak";s:7:"edition";s:2:"#4";s:5:"cover";s:75:"assets/images/valiant/all-things-valiant-03-week-26/3_3-ninjak-4-cover_.jpg";s:9:"publisher";s:4:"1249";s:4:"year";s:4:"2015";s:8:"comments";a:1:{i:1;a:4:{s:5:"autor";s:6:"183732";s:4:"text";s:3302:"
+
+Итак, Колин Кинг оказался в интересном положении. Его прикрытие раскрыто, и нас ожидает развязка сюжета Weaponeer. Как, разве Ninjak #4 не об этом? У Valiant же все арки заканчиваются на четвертом выпуске?
+
+Не в этот раз, друзья. В этом номере нам расскажут о происхождении Року.
+
+![](https://web.archive.org/web/20260125052649im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/3_3-ninjak-4-image.jpg)
+*Первый вздох в новой роли*
+
+Ориджин-стори представлена весьма оригинально: напоминает одновременно трансформацию куколки и прорастание семени. Застывшая поза, кокон из бинтов и эти волшебные волосы. Локоны, словно стебли, продираются сквозь толщу земли к новой жизни, вытягивая девушку за собой. Сценарист совершенно беспощаден к героине, сталкивая её со множеством опасностей: потеря памяти, лабиринт пещер, схватки с демонами. Фоном к основному повествованию идет сказка о девочке, спустившейся под землю в поисках своего брата и встретившей демона (с рисунком Маргарит Саваж, словно бы вырвавшемся из мира детских грез).
+
+Заигрывание с визуальной составляющей в этом номере заходит еще дальше. Четыре художника на выпуск! Основная часть принадлежит карандашу Хуана Хосе Рипа. Его рисунок поражает детализацией. Это почти Джефф Дэрроу, почти «Круто сваренный». Особого внимания заслуживают кадры в пещере, где панели то взмывают вверх сталагмитами, то устремляются вниз сталактитами.
+
+Выбранный Мэттом Киндтом подход к ведению истории заставляет в какой-то момент усомниться в реальности происходящего. Сам собой напрашивается вопрос, было ли все на самом деле, или это лишь в голове главной героини. Я очень рад, что создатели приостановили бешеный темп серии, чтобы поведать историю Рокурокуби.
+
+Это комикс достоинством в
+
+";s:8:"mjdzText";s:0:"";s:10:"conclusion";s:12:"ЗОЛОТО";}}}i:4;a:7:{s:5:"autor";a:3:{i:1;a:2:{i:0;s:16:"Сценарий";i:1;s:73:"Джефф Лемир, Мэтт Киндт, Роберт Вендитти";}i:3;a:2:{i:0;s:14:"Рисунок";i:1;s:63:"Бутч Гайс, Клэй Манн, Рафа Сандовал";}i:5;a:2:{i:0;s:8:"Цвет";i:1;s:90:"Аллен Пассалак, Улисес Арреола, Дэвид Гарсия Круз";}}s:4:"name";s:32:"Valiant 25th Anniversary Special";s:7:"edition";s:0:"";s:5:"cover";s:98:"assets/images/valiant/all-things-valiant-03-week-26/3_4-valiant-25th-anniversary-special-cover.jpg";s:9:"publisher";s:4:"1249";s:4:"year";s:4:"2015";s:8:"comments";a:1:{i:1;a:4:{s:5:"autor";s:6:"183731";s:4:"text";s:2642:"
+
+Этот спецвыпуск содержит два хороших комикса, превью Ninjak #1, информацию о возвращении серий Harbinger, Archer and Armstrong и Eternal Warrior, а также описания сборников издательства, спойлерных по самое не балуй. Так что ни в коем случае их не читайте!
+
+О самих комиксах, входящих в юбилейный выпуск, можно сказать следующее.
+
+Авторская команда сценариста Роберта Вендитти, художника Рафа Сандовала и колориста Дэвида Гарсия Круза, выстраивает мостик между эвентом прошлого года, Armor Hunters, и текущим арком в X-O Manowar — Dead Hand. Дополнение не обязательное, но приятное для фанатов, т.к. рассказывает о нетипичной мотивации главного Охотника за броней по имени Контроль.
+
+Очень добротный комикс о Бладшоте от Лемира, Гайса и Пассалака повествует о том, что случилось с главным героем сразу после событий серии The Valiant. При этом он остается максимально дружелюбным к новым читателям. Как такового сюжета здесь нет, но есть качественная эмоциональная проработка персонажа. Рисунок Бутча Гайса может показаться слегка грязноватым, но он здорово придает объем персонажам и добавляет атмосферности истории. Здесь он сам себя обводит тушью и иногда вместо лиц перед нами предстают кляксы. Работа над цветом Аллена Пассалака компетентна и не спорит с рисунком.
+
+![](https://web.archive.org/web/20260125052649im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/3_4-valiant-25th-anniversary-special-image.jpg)
+
+";s:8:"mjdzText";s:1312:"
+
+---
+
+**БОНУС**
+
+---
+
+Также в мае вышел Valiant Universe Handbook 2015 Edition.
+
+![](https://web.archive.org/web/20260125052649im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-03-week-26/3_5-valiant-universe-handbook-cover.jpg)
+
+Справочник в алфавитном порядке рассказывает нам о наиболее популярных персонажах и фракциях вселенной Valiant. Его структура простая: картинка, имена, известные способности и навыки, пересказ событий комиксов, плюс иногда ещё одна картинка. По сути перед нами печатный вариант Википедии. Если вы новичок в комиксах издательства, данная книжонка может помочь вникнуть в историю персонажей и фракций.
+
+Или вы можете продолжать читать All Things Valiant и наслаждаться самими комиксами.
+
+";s:10:"conclusion";s:0:"";}}}}

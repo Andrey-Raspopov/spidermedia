@@ -1,14 +1,24 @@
 {
   "title": "Thor: God of Thunder - Первые новости",
-  "date": "2010-12-02T16:27:00+03:00",
+  "date": "2010-12-02T16:27:24+03:00",
   "url": "/news/thor-god-thunder-pervye-novosti/",
+  "aliases": [
+    "/node/3092/"
+  ],
   "original_url": "http://spidermedia.ru/news/thor-god-thunder-pervye-novosti",
   "archived": "https://web.archive.org/web/20251019001120/http://spidermedia.ru/news/thor-god-thunder-pervye-novosti",
   "tags": [
     "loki",
     "igry",
     "thor",
-    "marvel"
+    "marvel",
+    "tor"
+  ],
+  "cover": "https://web.archive.org/web/20251019001120im_/http://spidermedia.ru/assets/images/import_image/3092.png",
+  "modx_id": 3092,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

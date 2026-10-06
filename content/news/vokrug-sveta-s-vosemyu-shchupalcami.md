@@ -1,6 +1,6 @@
 {
   "title": "Вокруг света с восемью щупальцами",
-  "date": "2011-12-14T11:38:00+03:00",
+  "date": "2011-12-14T10:38:08+03:00",
   "url": "/news/vokrug-sveta-s-vosemyu-shchupalcami/",
   "original_url": "https://spidermedia.ru/news/vokrug-sveta-s-vosemyu-shchupalcami",
   "archived": "https://web.archive.org/web/20250618124319/https://spidermedia.ru/news/vokrug-sveta-s-vosemyu-shchupalcami",
@@ -9,6 +9,12 @@
     "den-slott",
     "stefano-kaselli",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20250618124319im_/http://spidermedia.ru/assets/images/import_image/6736.jpg",
+  "modx_id": 6736,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

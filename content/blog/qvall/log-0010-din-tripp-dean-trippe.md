@@ -1,12 +1,17 @@
 {
   "title": "Log #0010 - Дин Трипп (Dean Trippe)",
-  "date": "2009-02-18T00:18:00+03:00",
+  "date": "2009-02-17T23:18:47+03:00",
   "url": "/blog/qvall/log-0010-din-tripp-dean-trippe/",
   "original_url": "http://spidermedia.ru/blog/qvall/log-0010-din-tripp-dean-trippe",
   "archived": "https://web.archive.org/web/20120609003011/http://spidermedia.ru/blog/qvall/log-0010-din-tripp-dean-trippe",
   "tags": [
     "veb-komiksy",
     "din-tripp"
+  ],
+  "modx_id": 414,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

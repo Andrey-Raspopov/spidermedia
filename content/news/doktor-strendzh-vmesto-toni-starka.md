@@ -1,12 +1,18 @@
 {
   "title": "Доктор Стрэндж вместо Железного Человека",
-  "date": "2013-06-25T23:14:00+03:00",
+  "date": "2013-06-25T22:14:43+03:00",
   "url": "/news/doktor-strendzh-vmesto-toni-starka/",
   "original_url": "http://spidermedia.ru/news/doktor-strendzh-vmesto-toni-starka",
   "archived": "https://web.archive.org/web/20260314082355/http://spidermedia.ru/news/doktor-strendzh-vmesto-toni-starka",
   "tags": [
     "marvel",
     "doctor-strange"
+  ],
+  "cover": "https://web.archive.org/web/20260314082355im_/http://spidermedia.ru/assets/images/import_image/7302.jpg",
+  "modx_id": 7302,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

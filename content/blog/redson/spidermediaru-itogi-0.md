@@ -1,11 +1,17 @@
 {
   "title": "SpiderMedia.RU: Итоги 2014",
-  "date": "2014-12-31T15:01:00+03:00",
+  "date": "2014-12-31T15:01:09+03:00",
   "url": "/blog/redson/spidermediaru-itogi-0/",
   "original_url": "http://spidermedia.ru/blog/redson/spidermediaru-itogi-0",
   "archived": "https://web.archive.org/web/20200223125652/http://spidermedia.ru:80/blog/redson/spidermediaru-itogi-0",
   "tags": [
     "itogi-goda"
+  ],
+  "cover": "https://web.archive.org/web/20200223125652im_/http://spidermedia.ru/assets/images/import_image/8452.jpg",
+  "modx_id": 8452,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

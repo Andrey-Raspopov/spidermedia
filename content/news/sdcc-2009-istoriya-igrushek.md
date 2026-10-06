@@ -1,13 +1,22 @@
 {
   "title": "SDCC 2009 - История Игрушек",
-  "date": "2009-07-25T15:35:00+03:00",
+  "date": "2009-07-25T14:35:46+03:00",
   "url": "/news/sdcc-2009-istoriya-igrushek/",
+  "aliases": [
+    "/node/1657/"
+  ],
   "original_url": "https://spidermedia.ru/news/sdcc-2009-istoriya-igrushek",
   "archived": "https://web.archive.org/web/20251108030957/https://spidermedia.ru/news/sdcc-2009-istoriya-igrushek",
   "tags": [
     "figurki",
     "san-diego-comic-con-international",
     "igrushki"
+  ],
+  "cover": "https://web.archive.org/web/20150326220837im_/http://spidermedia.ru/assets/images/import_image/1657.jpg",
+  "modx_id": 1657,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -10,6 +10,12 @@
     "green-lantern",
     "mnenie"
   ],
+  "cover": "https://web.archive.org/web/20260123084846im_/http://spidermedia.ru/assets/images/reviews/dc/green-lantern/00.png",
+  "modx_id": 102513,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

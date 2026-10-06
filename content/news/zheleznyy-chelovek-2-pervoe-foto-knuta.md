@@ -1,6 +1,6 @@
 {
   "title": "Железный Человек 2: Первое фото Кнута",
-  "date": "2009-06-10T09:50:00+03:00",
+  "date": "2009-06-10T08:50:52+03:00",
   "url": "/news/zheleznyy-chelovek-2-pervoe-foto-knuta/",
   "original_url": "http://spidermedia.ru/news/zheleznyy-chelovek-2-pervoe-foto-knuta",
   "archived": "https://web.archive.org/web/20120608132947/http://spidermedia.ru/news/zheleznyy-chelovek-2-pervoe-foto-knuta",
@@ -15,6 +15,12 @@
     "komiksy",
     "marvel",
     "mikki-rurk"
+  ],
+  "cover": "https://web.archive.org/web/20120608132947im_/http://spidermedia.ru/assets/images/import_image/1392.jpg",
+  "modx_id": 1392,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

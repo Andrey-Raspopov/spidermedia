@@ -9,6 +9,12 @@
     "thor",
     "hulk"
   ],
+  "cover": "https://web.archive.org/web/20260208194805im_/http://spidermedia.ru/assets/images/news/images/2_movies/marvel/image.jpg",
+  "modx_id": 100848,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

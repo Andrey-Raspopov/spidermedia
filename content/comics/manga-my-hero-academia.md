@@ -7,6 +7,12 @@
   "tags": [
     "manga"
   ],
+  "cover": "https://web.archive.org/web/20251208070507im_/http://spidermedia.ru/assets/images/manga/others/my-hero-academia/str-1.jpg",
+  "modx_id": 101968,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

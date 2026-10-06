@@ -1,13 +1,20 @@
 {
   "title": "Смоллвилль - эпизод 13",
-  "date": "2009-02-02T19:54:00+03:00",
+  "date": "2009-02-02T19:54:26+03:00",
   "url": "/blog/alex/smollvill-epizod-13/",
   "original_url": "http://spidermedia.ru/blog/alex/smollvill-epizod-13",
   "archived": "https://web.archive.org/web/20250913020258/http://spidermedia.ru/blog/alex/smollvill-epizod-13",
   "tags": [
     "serialy",
     "superman",
-    "smallville"
+    "smallville",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20250913020258im_/http://spidermedia.ru/assets/images/import_image/113.png",
+  "modx_id": 113,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,13 +1,20 @@
 {
   "title": "Новые постеры фильма \"Тор\"",
-  "date": "2011-03-25T18:31:00+03:00",
+  "date": "2011-03-25T18:31:58+03:00",
   "url": "/news/novye-postery-filma-tor-0/",
   "original_url": "https://spidermedia.ru/news/novye-postery-filma-tor-0",
   "archived": "https://web.archive.org/web/20250618000331/https://spidermedia.ru/news/novye-postery-filma-tor-0",
   "tags": [
     "postery",
     "thor",
-    "marvel"
+    "marvel",
+    "tor"
+  ],
+  "cover": "https://web.archive.org/web/20160306232955im_/http://spidermedia.ru/assets/images/import_image/4439.jpg",
+  "modx_id": 4439,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

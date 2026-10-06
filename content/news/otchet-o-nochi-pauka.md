@@ -1,12 +1,18 @@
 {
   "title": "Отчет о \"Ночи Паука\"",
-  "date": "2012-02-11T16:45:00+03:00",
+  "date": "2012-02-11T15:45:07+03:00",
   "url": "/news/otchet-o-nochi-pauka/",
   "original_url": "https://spidermedia.ru/news/otchet-o-nochi-pauka",
   "archived": "https://web.archive.org/web/20250118035854/https://spidermedia.ru/news/otchet-o-nochi-pauka",
   "tags": [
     "spider-man",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20250118035854im_/http://spidermedia.ru/assets/images/import_image/6779.jpg",
+  "modx_id": 6779,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

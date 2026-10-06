@@ -7,6 +7,13 @@
   "tags": [
     "spider-talk"
   ],
+  "cover": "https://web.archive.org/web/20260121010507im_/http://spidermedia.ru/assets/images/podcast/spt/oblozhka-spajder-tolk.jpg",
+  "podcast_audio": "https://spidermedia.podster.fm/97/download/audio.mp3",
+  "modx_id": 102210,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,6 +1,6 @@
 {
   "title": "SDCC'10: Green Lantern (movie)",
-  "date": "2010-07-26T09:51:00+03:00",
+  "date": "2010-07-26T08:51:15+03:00",
   "url": "/news/sdcc10-green-lantern-movie/",
   "original_url": "https://spidermedia.ru/news/sdcc10-green-lantern-movie",
   "archived": "https://web.archive.org/web/20251018223803/https://spidermedia.ru/news/sdcc10-green-lantern-movie",
@@ -10,6 +10,12 @@
     "igry",
     "green-lantern",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20251018223803im_/http://spidermedia.ru/assets/images/import_image/2792.png",
+  "modx_id": 2792,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

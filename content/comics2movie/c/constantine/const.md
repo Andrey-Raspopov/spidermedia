@@ -4,6 +4,9 @@
   "url": "/comics2movie/c/constantine/const/",
   "original_url": "http://www.spidermedia.ru/comics2movie/c/constantine/const.html",
   "archived": "https://web.archive.org/web/20050330062341/http://www.spidermedia.ru:80/comics2movie/c/constantine/const.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

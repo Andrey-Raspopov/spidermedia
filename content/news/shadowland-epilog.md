@@ -1,7 +1,10 @@
 {
   "title": "Shadowland: Эпилог",
-  "date": "2010-08-29T10:27:00+03:00",
+  "date": "2010-08-29T09:27:04+03:00",
   "url": "/news/shadowland-epilog/",
+  "aliases": [
+    "/node/2879/"
+  ],
   "original_url": "http://spidermedia.ru/news/shadowland-epilog",
   "archived": "https://web.archive.org/web/20251205122801/http://spidermedia.ru/news/shadowland-epilog",
   "tags": [
@@ -10,6 +13,12 @@
     "shadowland",
     "marvel",
     "daredevil"
+  ],
+  "cover": "https://web.archive.org/web/20251205122801im_/http://spidermedia.ru/assets/images/import_image/2879.jpg",
+  "modx_id": 2879,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

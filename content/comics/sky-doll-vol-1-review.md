@@ -7,6 +7,12 @@
   "tags": [
     "xl-media"
   ],
+  "cover": "https://web.archive.org/web/20251211031638im_/http://spidermedia.ru/assets/images/reviews/xl-media/skydoll/vol-1/mosaic.jpg",
+  "modx_id": 101733,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

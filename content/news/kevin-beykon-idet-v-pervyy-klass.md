@@ -1,13 +1,23 @@
 {
   "title": "Кевин Бэйкон идет в \"Первый класс\"",
-  "date": "2010-07-16T11:24:00+03:00",
+  "date": "2010-07-16T10:24:56+03:00",
   "url": "/news/kevin-beykon-idet-v-pervyy-klass/",
+  "aliases": [
+    "/node/2738/"
+  ],
   "original_url": "http://spidermedia.ru/news/kevin-beykon-idet-v-pervyy-klass",
   "archived": "https://web.archive.org/web/20260125062713/http://spidermedia.ru/news/kevin-beykon-idet-v-pervyy-klass",
   "tags": [
     "lyudi-iks-pervyj-klass",
     "x-men-first-class",
-    "x-men"
+    "x-men",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20160626102349im_/http://spidermedia.ru/assets/images/import_image/2738.jpg",
+  "modx_id": 2738,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

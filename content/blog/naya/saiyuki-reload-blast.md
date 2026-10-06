@@ -1,11 +1,17 @@
 {
   "title": "Saiyuki Reload Blast",
-  "date": "2010-04-23T22:09:00+03:00",
+  "date": "2010-04-23T21:09:32+03:00",
   "url": "/blog/naya/saiyuki-reload-blast/",
   "original_url": "http://spidermedia.ru/blog/naya/saiyuki-reload-blast",
   "archived": "https://web.archive.org/web/20120607111058/http://spidermedia.ru/blog/naya/saiyuki-reload-blast",
   "tags": [
     "art"
+  ],
+  "cover": "https://web.archive.org/web/20120607111058im_/http://spidermedia.ru/assets/images/import_image/2575.jpg",
+  "modx_id": 2575,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

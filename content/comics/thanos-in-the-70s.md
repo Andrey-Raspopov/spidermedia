@@ -12,6 +12,12 @@
     "avengers-week",
     "marvel"
   ],
+  "cover": "https://web.archive.org/web/20260206222618im_/http://spidermedia.ru/assets/images/articles/oldkomix/thanos-70/mzk.jpg",
+  "modx_id": 101898,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

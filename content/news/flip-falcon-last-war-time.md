@@ -1,6 +1,6 @@
 {
   "title": "FLIP FALCON: THE LAST WAR IN TIME",
-  "date": "2012-09-05T16:35:00+03:00",
+  "date": "2012-09-05T15:35:30+03:00",
   "url": "/news/flip-falcon-last-war-time/",
   "original_url": "http://spidermedia.ru/news/flip-falcon-last-war-time",
   "archived": "https://web.archive.org/web/20260211180253/http://spidermedia.ru/news/flip-falcon-last-war-time",
@@ -8,6 +8,12 @@
     "russian-comics",
     "novosti",
     "industriya"
+  ],
+  "cover": "https://web.archive.org/web/20150326154628im_/http://spidermedia.ru/assets/images/import_image/7011.jpg",
+  "modx_id": 7011,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

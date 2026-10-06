@@ -8,6 +8,12 @@
     "bryan-lee-o-malley",
     "image-comics"
   ],
+  "cover": "https://web.archive.org/web/20251211024623im_/http://spidermedia.ru/assets/images/news/snotgirl.jpg",
+  "modx_id": 101096,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

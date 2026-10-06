@@ -1,6 +1,6 @@
 {
   "title": "Рецензия на фильм \"Человек из стали\"",
-  "date": "2013-06-11T14:11:00+03:00",
+  "date": "2013-06-11T13:11:13+03:00",
   "url": "/news/recenziya-na-film-chelovek-iz-stali/",
   "original_url": "https://spidermedia.ru/news/recenziya-na-film-chelovek-iz-stali",
   "archived": "https://web.archive.org/web/20260125070736/https://spidermedia.ru/news/recenziya-na-film-chelovek-iz-stali",
@@ -11,6 +11,12 @@
     "recenziya",
     "chelovek-iz-stali",
     "man-of-steel"
+  ],
+  "cover": "https://web.archive.org/web/20260125070736im_/http://spidermedia.ru/assets/images/import_image/7271.jpg",
+  "modx_id": 7271,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

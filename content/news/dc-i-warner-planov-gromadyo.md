@@ -1,12 +1,18 @@
 {
   "title": "DC и Warner: Планов громадьё",
-  "date": "2014-06-17T21:04:00+03:00",
+  "date": "2014-06-17T20:04:17+03:00",
   "url": "/news/dc-i-warner-planov-gromadyo/",
   "original_url": "https://spidermedia.ru/news/dc-i-warner-planov-gromadyo",
   "archived": "https://web.archive.org/web/20260307063505/https://spidermedia.ru/news/dc-i-warner-planov-gromadyo",
   "tags": [
     "justice-league",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150424112419im_/http://spidermedia.ru/assets/images/import_image/7821.jpg",
+  "modx_id": 7821,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

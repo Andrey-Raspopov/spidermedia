@@ -1,7 +1,10 @@
 {
   "title": "...Я убил Галактуса",
-  "date": "2009-08-08T01:57:00+03:00",
+  "date": "2009-08-08T00:57:01+03:00",
   "url": "/news/ya-ubil-galaktusa/",
+  "aliases": [
+    "/node/1741/"
+  ],
   "original_url": "http://spidermedia.ru/news/ya-ubil-galaktusa",
   "archived": "https://web.archive.org/web/20120607184458/http://spidermedia.ru/news/ya-ubil-galaktusa",
   "tags": [
@@ -15,7 +18,16 @@
     "komiksy",
     "marvel",
     "serebryanyy-serfer",
-    "fantasticheskaya-chetverka"
+    "fantasticheskaya-chetverka",
+    "dejl-iglshem",
+    "dzhonatan-hikman",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20120607184458im_/http://spidermedia.ru/assets/images/import_image/1741.jpg",
+  "modx_id": 1741,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

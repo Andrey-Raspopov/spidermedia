@@ -1,7 +1,10 @@
 {
   "title": "Star Trek Yourself",
-  "date": "2009-04-16T16:22:00+03:00",
+  "date": "2009-04-16T15:22:23+03:00",
   "url": "/blog/sterpazook/star-trek-yourself/",
+  "aliases": [
+    "/node/956/"
+  ],
   "original_url": "http://spidermedia.ru/blog/sterpazook/star-trek-yourself",
   "archived": "https://web.archive.org/web/20260123082727/http://spidermedia.ru/blog/sterpazook/star-trek-yourself",
   "tags": [
@@ -9,6 +12,11 @@
     "star-trek",
     "zvezdnyj-put",
     "konstruktor"
+  ],
+  "modx_id": 956,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

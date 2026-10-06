@@ -1,13 +1,20 @@
 {
   "title": "Подробности о российском издании комикса \"Бэтмен: Лечебница Аркхэм. Дом скорби на скорбной земле\"",
-  "date": "2013-08-06T16:41:00+03:00",
+  "date": "2013-08-06T15:41:03+03:00",
   "url": "/news/podrobnosti-o-rossiyskom-izdanii-komiksa-betmen-lechebnica-arkhem-dom-skorbi-na-skorbnoy-zemle/",
   "original_url": "http://spidermedia.ru/news/podrobnosti-o-rossiyskom-izdanii-komiksa-betmen-lechebnica-arkhem-dom-skorbi-na-skorbnoy-zemle",
   "archived": "https://web.archive.org/web/20240908053659/http://spidermedia.ru/news/podrobnosti-o-rossiyskom-izdanii-komiksa-betmen-lechebnica-arkhem-dom-skorbi-na-skorbnoy-zemle",
   "tags": [
     "zarubezhnye-komiksy-na-russkom",
     "batman",
-    "art-0"
+    "art-0",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20150503110236im_/http://spidermedia.ru/assets/images/import_image/7406.jpg",
+  "modx_id": 7406,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

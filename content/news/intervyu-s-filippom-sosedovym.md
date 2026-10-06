@@ -1,6 +1,6 @@
 {
   "title": "Интервью с Филиппом Соседовым",
-  "date": "2013-08-29T13:16:00+03:00",
+  "date": "2013-08-29T12:16:25+03:00",
   "url": "/news/intervyu-s-filippom-sosedovym/",
   "original_url": "https://spidermedia.ru/news/intervyu-s-filippom-sosedovym",
   "archived": "https://web.archive.org/web/20251107031854/https://spidermedia.ru/news/intervyu-s-filippom-sosedovym",
@@ -9,6 +9,12 @@
     "russian-comics",
     "intervyu",
     "belyj-edinorog"
+  ],
+  "cover": "https://web.archive.org/web/20251107031854im_/http://spidermedia.ru/assets/images/import_image/7443.jpg",
+  "modx_id": 7443,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

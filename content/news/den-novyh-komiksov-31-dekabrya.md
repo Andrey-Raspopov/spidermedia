@@ -1,11 +1,17 @@
 {
   "title": "День новых комиксов: 31 декабря",
-  "date": "2013-12-31T12:46:00+03:00",
+  "date": "2013-12-31T11:46:35+03:00",
   "url": "/news/den-novyh-komiksov-31-dekabrya/",
   "original_url": "https://spidermedia.ru/news/den-novyh-komiksov-31-dekabrya",
   "archived": "https://web.archive.org/web/20250315170717/https://spidermedia.ru/news/den-novyh-komiksov-31-dekabrya",
   "tags": [
     "den-novyh-komiksov"
+  ],
+  "cover": "https://web.archive.org/web/20250315170717im_/http://spidermedia.ru/assets/images/import_image/7584.jpg",
+  "modx_id": 7584,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

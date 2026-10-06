@@ -1,6 +1,6 @@
 {
   "title": "Кроссовер личностей",
-  "date": "2011-01-16T02:15:00+03:00",
+  "date": "2011-01-16T02:15:41+03:00",
   "url": "/news/krossover-lichnostey/",
   "original_url": "http://spidermedia.ru/news/krossover-lichnostey",
   "archived": "https://web.archive.org/web/20251111050531/http://spidermedia.ru/news/krossover-lichnostey",
@@ -9,7 +9,14 @@
     "li-garbett",
     "dzhon-lejman",
     "art-0",
-    "spider-man"
+    "spider-man",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20251111050531im_/http://spidermedia.ru/assets/images/import_image/3166.jpg",
+  "modx_id": 3166,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

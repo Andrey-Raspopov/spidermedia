@@ -1,7 +1,10 @@
 {
   "title": "Изумрудные Воины",
-  "date": "2010-02-12T21:59:00+03:00",
+  "date": "2010-02-12T21:59:52+03:00",
   "url": "/news/izumrudnye-voiny/",
+  "aliases": [
+    "/node/2363/"
+  ],
   "original_url": "https://spidermedia.ru/news/izumrudnye-voiny",
   "archived": "https://web.archive.org/web/20250429005840/https://spidermedia.ru/news/izumrudnye-voiny",
   "tags": [
@@ -12,6 +15,12 @@
     "peter-j.-tomasi",
     "dc-comics",
     "green-lantern"
+  ],
+  "cover": "https://web.archive.org/web/20250429005840im_/http://spidermedia.ru/assets/images/import_image/2363.jpg",
+  "modx_id": 2363,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

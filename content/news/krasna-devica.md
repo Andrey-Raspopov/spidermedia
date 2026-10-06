@@ -1,6 +1,6 @@
 {
   "title": "Красна девица",
-  "date": "2012-07-14T06:15:00+03:00",
+  "date": "2012-07-14T05:15:09+03:00",
   "url": "/news/krasna-devica/",
   "original_url": "https://spidermedia.ru/news/krasna-devica",
   "archived": "https://web.archive.org/web/20251208070116/https://spidermedia.ru/news/krasna-devica",
@@ -10,6 +10,12 @@
     "dzheff-parker",
     "vellington-alves",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150502141834im_/http://spidermedia.ru/assets/images/import_image/6972.jpg",
+  "modx_id": 6972,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

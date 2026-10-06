@@ -1,12 +1,18 @@
 {
   "title": "МЖДЗ: DAMN US ALL TO HELL",
-  "date": "2011-08-08T20:24:00+03:00",
+  "date": "2011-08-08T19:24:36+03:00",
   "url": "/blog/redson/mzhdz-damn-us-all-hell/",
   "original_url": "http://spidermedia.ru/blog/redson/mzhdz-damn-us-all-hell",
   "archived": "https://web.archive.org/web/20251013191745/http://spidermedia.ru/blog/redson/mzhdz-damn-us-all-hell",
   "tags": [
     "mnenie",
     "mzhdz"
+  ],
+  "cover": "https://web.archive.org/web/20160715165935im_/http://spidermedia.ru/assets/images/import_image/6550.png",
+  "modx_id": 6550,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

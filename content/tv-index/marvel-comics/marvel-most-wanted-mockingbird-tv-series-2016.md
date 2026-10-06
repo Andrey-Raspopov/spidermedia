@@ -4,6 +4,9 @@
   "url": "/tv-index/marvel-comics/marvel-most-wanted-mockingbird-tv-series-2016/",
   "original_url": "https://spidermedia.ru/tv-index/marvel-comics/marvel-most-wanted-mockingbird-tv-series-2016",
   "archived": "https://web.archive.org/web/20251117011415/https://spidermedia.ru/tv-index/marvel-comics/marvel-most-wanted-mockingbird-tv-series-2016",
+  "sources": [
+    "archive"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
@@ -33,18 +36,18 @@ Marvel's Most Wanted
 9935
 [29](../../../tv/peresmeshnica-oficialnogo-logo-kasting/#disqus_thread)
 
-[![](https://web.archive.org/web/20160501070524im_/http://spidermedia.ru/assets/cache/images/news/images/3_tv/marvel/marvels-most-wanted/303x200-ac95829d321993b2cc534479125f3a14.c45.jpg)](https://web.archive.org/web/20250519180500id_/https://spidermedia.ru/tv/delroj-lindo-sygraet-fortunu-v-spin-offe-agentov-shh.i.t)
+[![](https://web.archive.org/web/20160501070524im_/http://spidermedia.ru/assets/cache/images/news/images/3_tv/marvel/marvels-most-wanted/303x200-ac95829d321993b2cc534479125f3a14.c45.jpg)](../../../tv/delroj-lindo-sygraet-fortunu-v-spin-offe-agentov-shh.i.t/)
 
 [ТВ / Marvel](https://web.archive.org/web/20251216182014/https://spidermedia.ru/tv?tag=marvel)
 
-[Делрой Линдо сыграет Фортуну в спин-оффе сериала «Агенты Щ.И.Т.»](https://web.archive.org/web/20250519180500id_/https://spidermedia.ru/tv/delroj-lindo-sygraet-fortunu-v-spin-offe-agentov-shh.i.t)
+[Делрой Линдо сыграет Фортуну в спин-оффе сериала «Агенты Щ.И.Т.»](../../../tv/delroj-lindo-sygraet-fortunu-v-spin-offe-agentov-shh.i.t/)
 
 27.01.2016, 22:33 — Павел Першин
 
 Делрой Линдо присоединился к актёрскому составу сериала Marvel’s Most Wanted в качестве Доминика Фортуны.
 
 5103
-[0](https://web.archive.org/web/20250519180500id_/https://spidermedia.ru/tv/delroj-lindo-sygraet-fortunu-v-spin-offe-agentov-shh.i.t)
+[0](../../../tv/delroj-lindo-sygraet-fortunu-v-spin-offe-agentov-shh.i.t/#disqus_thread)
 
 [![](https://spidermedia.ru/assets/cache/images/tv/marvel/most-wanted/280x400-kinopoiskru-adrianne-palicki-.1ea.jpg)](https://spidermedia.ru/assets/images/tv/marvel/most-wanted/kinopoiskru-adrianne-palicki-.jpg)
 

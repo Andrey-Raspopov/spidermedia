@@ -1,6 +1,6 @@
 {
   "title": "ZANGAVAR издаст \"PEANUTS\" в России",
-  "date": "2013-11-15T12:36:00+03:00",
+  "date": "2013-11-15T11:36:16+03:00",
   "url": "/news/zangavar-izdast-peanuts-v-rossii/",
   "original_url": "http://spidermedia.ru/news/zangavar-izdast-peanuts-v-rossii",
   "archived": "https://web.archive.org/web/20231129061456/http://spidermedia.ru/news/zangavar-izdast-peanuts-v-rossii",
@@ -8,6 +8,12 @@
     "zarubezhnye-komiksy-na-russkom",
     "zangavar",
     "peanuts"
+  ],
+  "cover": "https://web.archive.org/web/20231129061456im_/http://spidermedia.ru/assets/images/import_image/7547.jpg",
+  "modx_id": 7547,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

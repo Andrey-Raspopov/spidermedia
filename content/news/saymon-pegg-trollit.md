@@ -1,12 +1,18 @@
 {
   "title": "Саймон Пегг троллит",
-  "date": "2013-08-16T12:35:00+03:00",
+  "date": "2013-08-16T11:35:22+03:00",
   "url": "/news/saymon-pegg-trollit/",
   "original_url": "https://spidermedia.ru/news/saymon-pegg-trollit",
   "archived": "https://web.archive.org/web/20250425225457/https://spidermedia.ru/news/saymon-pegg-trollit",
   "tags": [
     "ant-man",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20250425225457im_/http://spidermedia.ru/assets/images/import_image/7422.jpg",
+  "modx_id": 7422,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

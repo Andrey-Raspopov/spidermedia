@@ -1,6 +1,6 @@
 {
   "title": "Hellboymedia: Обзор русскоязычного издания «Удивительный Голова-Винт»",
-  "date": "2014-10-10T16:27:00+03:00",
+  "date": "2014-10-10T15:27:34+03:00",
   "url": "/blog/shargor/hellboymedia-special-05-russkoyazychnoe-izdanie-udivitelnyy-golova-vint/",
   "original_url": "https://spidermedia.ru/blog/shargor/hellboymedia-special-05-russkoyazychnoe-izdanie-udivitelnyy-golova-vint",
   "archived": "https://web.archive.org/web/20251213185118/https://spidermedia.ru/blog/shargor/hellboymedia-special-05-russkoyazychnoe-izdanie-udivitelnyy-golova-vint",
@@ -8,6 +8,12 @@
     "obzor",
     "zarubezhnye-komiksy-na-russkom",
     "hellboymedia"
+  ],
+  "cover": "https://web.archive.org/web/20160611150439im_/http://spidermedia.ru/assets/images/hellboymedia/local/review-amazing-screw-on-head/amazing-screw-on-head-russian-edition-cover.jpg",
+  "modx_id": 8162,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

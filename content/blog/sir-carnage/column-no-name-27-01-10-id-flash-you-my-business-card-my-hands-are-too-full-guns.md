@@ -1,13 +1,22 @@
 {
   "title": "The Column With No Name: 27/01/10 - I'd flash you my business card, but my hands are too full of guns.",
-  "date": "2010-01-31T05:15:00+03:00",
+  "date": "2010-01-31T05:15:21+03:00",
   "url": "/blog/sir-carnage/column-no-name-27-01-10-id-flash-you-my-business-card-my-hands-are-too-full-guns/",
+  "aliases": [
+    "/node/2321/"
+  ],
   "original_url": "http://spidermedia.ru/blog/sir-carnage/column-no-name-27-01-10-id-flash-you-my-business-card-my-hands-are-too-full-guns",
   "archived": "https://web.archive.org/web/20190907232244/http://spidermedia.ru:80/blog/sir-carnage/column-no-name-27-01-10-id-flash-you-my-business-card-my-hands-are-too-full-guns",
   "tags": [
     "marvel",
     "dc-comics",
     "the-column-with-no-name"
+  ],
+  "cover": "https://web.archive.org/web/20190907232244im_/http://spidermedia.ru/assets/images/import_image/2321.jpg",
+  "modx_id": 2321,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

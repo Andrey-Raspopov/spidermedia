@@ -8,6 +8,12 @@
     "san-diego-comic-con-international",
     "eisner-awards"
   ],
+  "cover": "https://web.archive.org/web/20260125131823im_/http://spidermedia.ru/assets/images/news/sdcc/2017/eisner/charlie.jpg",
+  "modx_id": 101629,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,13 +1,20 @@
 {
   "title": "FOX заказал пилот «Люцифера»",
-  "date": "2015-02-19T21:34:00+03:00",
+  "date": "2015-02-19T21:34:38+03:00",
   "url": "/news/fox-zakazal-pilot-lyucifera/",
   "original_url": "https://spidermedia.ru/news/fox-zakazal-pilot-lyucifera",
   "archived": "https://web.archive.org/web/20260314082722/https://spidermedia.ru/news/fox-zakazal-pilot-lyucifera",
   "tags": [
     "serialy",
     "lyucifer",
-    "vertigo"
+    "vertigo",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20150326095647im_/http://spidermedia.ru/assets/images/import_image/8636.jpg",
+  "modx_id": 8636,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

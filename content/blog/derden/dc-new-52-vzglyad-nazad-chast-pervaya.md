@@ -1,6 +1,6 @@
 {
   "title": "DC New 52: взгляд назад, часть первая",
-  "date": "2013-04-15T23:44:00+03:00",
+  "date": "2013-04-15T22:44:05+03:00",
   "url": "/blog/derden/dc-new-52-vzglyad-nazad-chast-pervaya/",
   "original_url": "https://spidermedia.ru/blog/derden/dc-new-52-vzglyad-nazad-chast-pervaya",
   "archived": "https://web.archive.org/web/20250804002305/https://spidermedia.ru/blog/derden/dc-new-52-vzglyad-nazad-chast-pervaya",
@@ -8,6 +8,12 @@
     "new-52",
     "dc-comics",
     "batman"
+  ],
+  "cover": "https://web.archive.org/web/20250804002305im_/http://spidermedia.ru/assets/images/import_image/7203.jpg",
+  "modx_id": 7203,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,12 +1,18 @@
 {
   "title": "Вирусный ролик нового \"РобоКопа\"",
-  "date": "2012-07-16T14:15:00+03:00",
+  "date": "2012-07-16T13:15:58+03:00",
   "url": "/news/virusnyy-rolik-novogo-robokopa/",
   "original_url": "http://spidermedia.ru/news/virusnyy-rolik-novogo-robokopa",
   "archived": "https://web.archive.org/web/20190823010114/http://spidermedia.ru:80/news/virusnyy-rolik-novogo-robokopa",
   "tags": [
     "robocop",
     "viral"
+  ],
+  "cover": "https://web.archive.org/web/20150502181307im_/http://spidermedia.ru/assets/images/import_image/6981.jpg",
+  "modx_id": 6981,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Забытый",
-  "date": "2009-04-29T12:44:00+03:00",
+  "date": "2009-04-29T11:44:25+03:00",
   "url": "/news/zabytyy/",
   "original_url": "http://spidermedia.ru/news/zabytyy",
   "archived": "https://web.archive.org/web/20190822000753/http://spidermedia.ru:80/news/zabytyy",
@@ -8,6 +8,12 @@
     "zabytyj",
     "independent-comics",
     "indi"
+  ],
+  "cover": "https://web.archive.org/web/20190822000753im_/http://spidermedia.ru/assets/images/import_image/1065.jpg",
+  "modx_id": 1065,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

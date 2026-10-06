@@ -1,6 +1,6 @@
 {
   "title": "Эскапизм",
-  "date": "2009-02-17T17:27:00+03:00",
+  "date": "2009-02-17T16:27:07+03:00",
   "url": "/blog/redson/eskapizm/",
   "original_url": "http://spidermedia.ru/blog/redson/eskapizm",
   "archived": "https://web.archive.org/web/20120608123225/http://spidermedia.ru/blog/redson/eskapizm",
@@ -8,6 +8,11 @@
     "nsfw",
     "komiksy",
     "mnenie"
+  ],
+  "modx_id": 410,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

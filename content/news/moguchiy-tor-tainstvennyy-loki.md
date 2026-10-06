@@ -1,6 +1,6 @@
 {
   "title": "Могучий Тор, Таинственный Локи",
-  "date": "2011-01-18T08:03:00+03:00",
+  "date": "2011-01-18T08:03:54+03:00",
   "url": "/news/moguchiy-tor-tainstvennyy-loki/",
   "original_url": "http://spidermedia.ru/news/moguchiy-tor-tainstvennyy-loki",
   "archived": "https://web.archive.org/web/20260313121138/http://spidermedia.ru/news/moguchiy-tor-tainstvennyy-loki",
@@ -14,7 +14,15 @@
     "galactus",
     "thor",
     "marvel",
-    "journey-into-mystery"
+    "journey-into-mystery",
+    "mett-frakshen",
+    "tor"
+  ],
+  "cover": "https://web.archive.org/web/20150502201608im_/http://spidermedia.ru/assets/images/import_image/3169.jpg",
+  "modx_id": 3169,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

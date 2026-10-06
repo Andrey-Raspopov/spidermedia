@@ -1,11 +1,17 @@
 {
   "title": "Краткая история супергеройского костюма. Часть 1: Золотой Век",
-  "date": "2014-07-25T12:01:00+03:00",
+  "date": "2014-07-25T11:01:33+03:00",
   "url": "/blog/aleksey-volkov/kratkaya-istoriya-supergeroyskogo-kostyuma-chast-1-zolotoy-vek-0/",
   "original_url": "http://spidermedia.ru/blog/aleksey-volkov/kratkaya-istoriya-supergeroyskogo-kostyuma-chast-1-zolotoy-vek-0",
   "archived": "https://web.archive.org/web/20210303094003/http://spidermedia.ru/blog/aleksey-volkov/kratkaya-istoriya-supergeroyskogo-kostyuma-chast-1-zolotoy-vek-0",
   "tags": [
     "istoriya"
+  ],
+  "cover": "https://web.archive.org/web/20210303094003im_/http://spidermedia.ru/assets/images/import_image/7922.jpg",
+  "modx_id": 7922,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

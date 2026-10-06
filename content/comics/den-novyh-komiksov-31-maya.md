@@ -7,11 +7,15 @@
   "tags": [
     "den-novyh-komiksov"
   ],
+  "cover": "https://web.archive.org/web/20190915013323im_/http://spidermedia.ru/assets/images/dnk/2017-05/31/dnk-31-05-2017-cover.jpg",
+  "modx_id": 101580,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
-
-[![](http://spidermedia.ru/assets/cache/images/dnk/2017-05/31/622x-dnk-31-05-2017-cover.2e9.jpg)](http://spidermedia.ru/assets/images/dnk/2017-05/31/dnk-31-05-2017-cover.jpg)
 
 Саша Моисеенко открывает люк в редакционный подвал и оттуда на руках поднимают автора — с лицом, как сырое тесто, полуслепого от света и не держащегося на ногах.
 
@@ -48,3 +52,203 @@
 Отмахнуться бы — я ничего не знаю, я никуда не летаю! В смысле я ничего не читаю, я не знаю, кто эти люди (улыбаюсь немного странно, заподозрят, что я…), я не помню этих фамилий, пока не загляну в гуглишки и википешки, я не умею говорить о рисунке, как можно делать выводы по превью, почему кому-то нравится этот модный автор, почему кому-то нравится этот ненужный эвент, на самом ведь деле невыносимо скучны и комиксы, делающиеся «для этих», и комиксы, делающиеся «для тех», и комиксы, делающиеся похоже ни для кого вообще…
 
 Но я же обычно зануда, который пишет длинные тексты, иногда захлебывается от избытка энтузиазма и всё время делает вид, что знает много (и ещё больше лишнего). Надо держать марку, друзья. Надо держать марку.
+
+В **Flash** закончили дразнить читателей сюжетом про значок Комедианта, вернулся Джандоменико и начинается новый сюжет — про Эобарда Тона, который может быть сколько угодно хорош, но после «The Button» неизбежно выглядит, как филлер. Мы же ведь, НАВЕРНОЕ, уже только и ждём, чтобы началось большое событие «мастермайндед бай Джефф Джонс» — а на Эобарде Тоне не может свет клином сойтись НА ЭТОТ РАЗ, потому что снаряд в одну воронку и всё такое, правильно? А кроссовер с привычного ритма серию уже сбил.
+
+Кроссовер «Lazarus Contract» заканчивается в **Teen Titans the Lazarus Contract Special #1**, который НЕ НАДО ПУТАТЬ с Teen Titans Annual #1. В конце Deathstroke #19 пообещали, что история закончится в ежегоднике, но это ОБМАН. История закончится не в ежегоднике, а в этом спешле, что бы там ни писали внутри комикса. БУДЬТЕ ВНИМАТЕЛЬНЫ, потому что нормальная не вызывающая путаницы нумерация комиксов — не для крупнейших компаний, читатель супергероики должен стойко сносить все тяготы директ-маркета.
+
+Заканчивается мини-серия **Guardians of the Galaxy Mother Entropy** Старлина и Дэвиса, которую проще всего представить себе в виде концерта постаревших «монстров рока» перед благодарной публикой. Мэтры без огонька лабают свои старые хиты, публика знает текст наизусть и поет громче вокалиста, когда тому в силу возраста не хватает дыхания. В песнях поистерся смысл и посыл, но настроение они всё еще поднимают — поэтому «монстры» намеренно играют их повеселее. Зачем идти? Ну ты что, там Старлин пишет Дракса и Гамору, я это соло наизусть знаю и не могу, а притопываю, когда оно по радио играть начинает.
+
+Кстати, рядом у Марвела продолжает выходить огорчительная серия **Thanos**, где Джефф Лемир стал очередным автором, который не знает, что делать с сыном Таноса Тэйном (этот секрет унес с собой Джонатан Хикман) и как вообще писать Таноса, если каноничны и работы Старлина, и то, что делал Бендис на «Стражах Галактики». Ну там, короче, Танос, Тэйн, Смерть, и что-то происходит, но в марвеловском космосе, как в настоящем — большую часть места занимает пустота.
+
+Джеймс Робинсон (автор Starman-а) пишет новую серию **Cable** и тут уже все всё обсудили, когда выходили анонсы ResurreXion — раз уж воскрешают все Икс-серии, то как без Кейбла-то. Мне всё так же кажется, что это ж-ж-ж неспроста. Это, конечно, не «Прист захотел писать Дэфстроука!» у Робинсона много проходных комиксов, и «возвращение» его чисто символическое (ну писал он Кейбла двадцать лет назад, но так, служил «переходным периодом»). Но пока все выглядит, как не привязанная к «большой вселенной» серия про путешествия во времени, и уж по крайней мере может выйти лихо закрученная история. Художники, правда, не для вечности.
+
+### DC Comics
+
+- Flash Vol.5 #23
+- Teen Titans the Lazarus Contract Special #1
+- Trinity Vol.2 Annual #1
+- Wonder Woman Vol.5 Annual #1
+
+### Marvel Comics
+
+- Cable Vol.4 #1
+- Captain America Sam Wilson #22
+- Deadpool Vol.5 #31
+- Deadpool Vs The Punisher #4 (Of 5)
+- Doctor Strange Vol.4 #21
+- Gamora #5
+- Generation X Vol.2 #2
+- Guardians of the Galaxy Mother Entropy #5 (Of 5)
+- Gwenpool the Unbelievable #16
+- Hulk Vol.4 #6
+- Man-Thing Vol.5 #4 (Of 5)
+- Moon Knight Vol.8 #14
+- Occupy Avengers #7
+- Old Man Logan Vol.2 #24
+- Secret Empire #3 (Of 10)
+- Secret Empire Uprising #1
+- Spider-Gwen Vol.2 #20
+- Star Wars Doctor Aphra #7
+- Thanos Vol.2 #7
+
+![](https://web.archive.org/web/20190915013323im_/http://spidermedia.ru/assets/images/dnk/2017-05/31/dnk-31-05-2017-dc-comics-01-flash-vol.5-23.jpg)![](https://web.archive.org/web/20190915013323im_/http://spidermedia.ru/assets/images/dnk/2017-05/31/dnk-31-05-2017-dc-comics-02-teen-titans-the-lazarus-contract-special-1.jpg)![](https://web.archive.org/web/20190915013323im_/http://spidermedia.ru/assets/images/dnk/2017-05/31/dnk-31-05-2017-dc-comics-03-trinity-vol.2-annual-1.jpg)![](https://web.archive.org/web/20190915013323im_/http://spidermedia.ru/assets/images/dnk/2017-05/31/dnk-31-05-2017-dc-comics-04-wonder-woman-vol.5-annual-1.jpg)![](https://web.archive.org/web/20190915013323im_/http://spidermedia.ru/assets/images/dnk/2017-05/31/dnk-31-05-2017-marvel-comics-07-generation-x-vol.2-2.jpg)![](https://web.archive.org/web/20190915013323im_/http://spidermedia.ru/assets/images/dnk/2017-05/31/dnk-31-05-2017-marvel-comics-11-man-thing-vol.5-4.jpg)![](https://web.archive.org/web/20180124000259im_/http://spidermedia.ru/assets/images/dnk/2017-05/31/dnk-31-05-2017-marvel-comics-12-moon-knight-vol.8-14.jpg)![](https://web.archive.org/web/20190915013323im_/http://spidermedia.ru/assets/images/dnk/2017-05/31/dnk-31-05-2017-marvel-comics-19-thanos-7.jpg)
+
+Заканчивается комикс про Лобстера Джонсона и начинается комикс про Джо Голема. Ваше отношение к этому прямо связано с тем, каким количеством Голдена вы любите разбавлять вашего Миньолу. В редакции Миньолу глушат залпом и не разбавляя, а лично мне и рисунок Рейнольдса на прошлой серии про Джо Голема не понравился. Уж слишком хлопотливо он там работал тушью, как будто весь комикс в саже выпачкался. Да и под сажей там было мало интересного. В общем, возьмите лучше Лобстера Джонсона, его нельзя не любить.
+
+Про **Black Science** Ремендер при выходе 26-го номера говорил, что начинается финальный арк на примерно 13 номеров. Превьюшки при этом пишут, что 30-й номер — это END OF STORY ARC. Анонса на 31-й номер ещё нет, но финалом комикса в Черной Науке вроде не пахло. Так что я не готов ни за что ручаться, но если вам нужен был стимул наверстать отставание от серии — самое время.
+
+Заканчивается и **Black road**, ну то есть как — вроде бы с 10-м номером заканчивается история, начатая в первом, но это не означает, что серия заканчивается навсегда. Эта серия — очень Брайан Вуд, и конечно, ближе всего она из хитов Вуда к Northlanders, но с другим рисунком (так что просто «ещё чуточку Норслендеров» из нее получить нельзя). Суровые викинги, суровая жизнь, встреча языческого и раннехристианского миров. Если это для вас, вы это уже почувствовали.
+
+Самое интересное на этой неделе — это **Paklis**. «Имейдж» вообще не та компания, от которой ждёшь выхода авторской антологии, где будут истории переменной длины, сколько и какие вздумаются автору. У «Имейджа» с антологиями как-то построже, а тут такая «канадщина», и автор с гордостью говорит «я там могу делать, что захочу». Тем более автор этот — Дастин Вивер, которого обычно знают не как рассказчика, а как художника (у нас из комиксов с его рисунком вышла марвеловская «Бесконечность»). Часть его историй, которые пойдут в антологию, уже выходила в виде вебкомиксов, но в основном обещают новый материал. В серии разнообразная фантастика, вроде бы без какой-то сквозной темы или техники. Посмотреть на стиль рисунка в антологии можно на ранее опубликованных [страничках](http://www.newsarama.com/34680-marvel-s-infinity-artist-on-creating-his-own-space-epics-with-paklis-at-image-comics.html).
+
+### Dark Horse
+
+- Aliens Dead Orbit #2 (Of 4),
+- Joe Golem Occult Detective the Outer Dark #1 (Of 3)
+- Lobster Johnson the Pirate's Ghost #3 (Of 3)
+- Visitor How and Why He Stayed #4 (Of 5)
+
+### Image Comics
+
+- Black Road #10
+- Black Science #30
+- Hadrian's Wall #7 (Of 8)
+- Image+ #14
+- Kill Or Be Killed #9
+- Monstress #12
+- Paklis #1
+- Saga #43
+- Sex Criminals #19
+- Southern Cross #12
+- **TOP COW**
+- Romulus #4
+- Think Tank Vol.2 #3
+
+![](https://web.archive.org/web/20190915013323im_/http://spidermedia.ru/assets/images/dnk/2017-05/31/dnk-31-05-2017-dark-horse-01-aliens-dead-orbit-2.jpg)![](https://web.archive.org/web/20190915013323im_/http://spidermedia.ru/assets/images/dnk/2017-05/31/dnk-31-05-2017-dark-horse-02-joe-golem-occult-detective-the-outer-dark-1.jpg)![](https://web.archive.org/web/20190915013323im_/http://spidermedia.ru/assets/images/dnk/2017-05/31/dnk-31-05-2017-dark-horse-03-lobster-johnson-the-pirates-ghost-3.jpg)![](https://web.archive.org/web/20190915013323im_/http://spidermedia.ru/assets/images/dnk/2017-05/31/dnk-31-05-2017-dark-horse-04-visitor-how-and-why-he-stayed-4.jpg)![](https://web.archive.org/web/20190915013323im_/http://spidermedia.ru/assets/images/dnk/2017-05/31/dnk-31-05-2017-image-comics-01-black-road-10.jpg)![](https://web.archive.org/web/20190915013323im_/http://spidermedia.ru/assets/images/dnk/2017-05/31/dnk-31-05-2017-image-comics-06-monstress-12.jpg)![](https://web.archive.org/web/20190915013323im_/http://spidermedia.ru/assets/images/dnk/2017-05/31/dnk-31-05-2017-image-comics-07-paklis-1.jpg)![](https://web.archive.org/web/20190915013323im_/http://spidermedia.ru/assets/images/dnk/2017-05/31/dnk-31-05-2017-image-comics-09-saga-43.jpg)
+
+Вот вроде много выпусков ДНК уже вышло, и я почти все читал — почему до сих пор не было шутки про то, что не бум, а потом динамит, а сначала динамит, а потом бум?
+
+Главный бум в следующем: у нового номера **Over the Garden Wall** будет вариантная обложка, нарисованная [Катей Чинаски](https://vk.com/gast_neighborhood) , петербуржской художницей, до этого рисовавшей обложки к «Роману, победителю ласточек» и «Продуктам-24». Каждое появление «наших» в рубрике ДНК — это всегда маленький праздник.
+
+Заканчивается серия **Ladycastle**, которая ничем не выделяется на фоне остальных новых комиксов про то, как принцессы сами себя спасают. Что характерно, делают они это во всех комиксах одними и теми же способами — потому что ты можешь отвернуться от Диснея, но так ему просто будет удобнее воткнуть щупальце в твой затылок. В превью четвертого [номера](https://majorspoilers.com/2017/05/30/preview-ladycastle-4/) есть шутки про «Триста спартанцев» и «Монти Пайтон и Святой Грааль», поэтому мне совершенно не жалко, что ВОТ ЭТУ серию про принцесс со словом «Castle» в заглавии я не читал.
+
+Про **Гарфилда** теперь выходят книжки, которые делают вид, что они «графроманы», но внутри там на самом деле наборы коротких (но уж подлиннее, чем стрипы рабов Дэвиса) историй. Из новой книги (у которой, если только превью не врут, точно такая же обложка, как у предыдущей — а правильно, зачем париться) можно извлечь только одно важное знание: вот этим зарабатывает Джад Виник, пока медленно рисует свои авторские комиксы Hilo. Видимо.
+
+Динамита практически не завезли. Есть **Animal Jam** — это комикс для детской MMO, и кто-то тут что-то продвигает: то ли комикс игру, то ли игра — игрушки, то ли игрушки — микротранзакции. Я открыл превью и там есть ТРОЯНСКИЙ СЛОН. Иногда всё, что тебе нужно от комикса — это троянский слон (сам комикс после этого можно не открывать). Делают комикс ремесленники, так что откровений там не прячется, я думаю.
+
+Если кому нужно еще немного динамита, то возьмите омнибус «Зены», там есть чуточку Джона Вагнера, а спешл KISS пропустите — его делают не те люди, что основную серию, про которую (рядовой янгадалт про тинейджеров, угнетенных в будущем) я слышал что-то хорошее.
+
+### BOOM! Studios
+
+- Garfield Vol.2 Unreality TV GN
+- Ladycastle #4 (Of 4)
+- Mighty Morphin Power Rangers 2017 Annual #1
+- Over The Garden Wall Vol.2 #14
+- Steven Universe Vol.2 #4
+- WWE #5
+
+### Dynamite Entertainment
+
+- Animal Jam #1
+- KISS Forever Special #1
+- Vampirella Vol.7 #3
+
+![](https://web.archive.org/web/20190915013323im_/http://spidermedia.ru/assets/images/dnk/2017-05/31/dnk-31-05-2017-boom-studios-02-ladycastle-4.jpg)![](https://web.archive.org/web/20190915013323im_/http://spidermedia.ru/assets/images/dnk/2017-05/31/dnk-31-05-2017-boom-studios-03-mighty-morphin-power-rangers-2017-annual-1.jpg)![](https://web.archive.org/web/20190915013323im_/http://spidermedia.ru/assets/images/dnk/2017-05/31/dnk-31-05-2017-boom-studios-04-over-the-garden-wall-vol.2-14.jpg)![](https://web.archive.org/web/20190915013323im_/http://spidermedia.ru/assets/images/dnk/2017-05/31/dnk-31-05-2017-boom-studios-05-steven-universe-vol.2-4.jpg)![](https://web.archive.org/web/20190915013323im_/http://spidermedia.ru/assets/images/dnk/2017-05/31/dnk-31-05-2017-boom-studios-06-wwe-5.jpg)![](https://web.archive.org/web/20190915013323im_/http://spidermedia.ru/assets/images/dnk/2017-05/31/dnk-31-05-2017-dynamite-entertainment-01-animal-jam-1.jpg)![](https://web.archive.org/web/20190915013323im_/http://spidermedia.ru/assets/images/dnk/2017-05/31/dnk-31-05-2017-dynamite-entertainment-02-kiss-forever-special-1.jpg)![](https://web.archive.org/web/20190915013323im_/http://spidermedia.ru/assets/images/dnk/2017-05/31/dnk-31-05-2017-dynamite-entertainment-03-vampirella-vol.7-3.jpg)
+
+Заканчивается трилогия про роботов D4VE, выходит последний номер **D4VEocracy**. Про первый комикс этой серии когда-то на нашем сайте [написали](../../news/all-new-mzhdz-my-bandito-gangsterito/#item3) «Я никогда не думал, что комикс, в котором главные герои — фашисты, может быть таким увлекательным и смешным», и это фраза, которой можно рецензировать если не каждый комикс на свете, то примерно каждый второй. Извините, не сдержался. Сдержишься тут, когда выходят комиксы типа **Judge Dredd Funko Universe #1**.
+
+Первый номер **Doctor Crowe** меня поставил в тупик. Это такая антология про маску чумного доктора, приключения и сверхъестественное. Хеллбоевщина такая, только раскрашенная, будто фломастерами, и написанная проще простого. Я сначала подумал «Это как наш Доктор Люцид», но Люцид, знаете, посложнее будет. Может, я бэкграунда не понимаю? В общем, как набор MegaBloks в детстве — вроде и кубики, и рыцари с волшебниками, и всё как надо, но не «Лего», братцы, совсем не «Лего».
+
+Titan1Studios, которые нельзя путать с комиксами от Titan Group (это у которых всё по лицензии), запускают новую мини-серию **New Humanz** во вселенной серии «Knight Guardians of Relativity» (или как-то так). В чем фишка вселенной, я не понял: описаний и пресс-релизов много, но дистиллировать из них что-то в одну строчку трудно. Похоже, что мир будущего, восстанавливающийся после войн и апокалипсисов, использует машины времени, чтобы таскать что-то из благополучного прошлого, и то ли эти машины запрещено использовать, то ли их использование может всех погубить… В общем, в «New Humanz» есть путешествия во времени, киборги и семейные отношения, и проблематика там связана с заменой человеческого тела имплантами. То ли корабль Тезея, то ли «Деус Экс». Вряд ли вы это прочтете, потому что Titan1Studios как-то не особо пиратят.
+
+А у тех, других Titan Group начинаются лимитки по Little Nightmares (зачем это вам, хотите — сыграйте в игру) и Blood Bowl (тем более сыграйте в игру).
+
+Новая серия Теда Найфе (Courtney Crumrin, Polly and the Pirates), которого я обычно всем советую, **Heroines**, оставила меня равнодушным. Сильные проактивные героини, окей, но это выглядит не искренним порывом, а коньюнктурным ходом. Но зато в превью выложен весь первый номер, видимо, так что можно прочитать [бесплатно](https://www.previewsworld.com/Catalog/MAR172017) и сделать выводы самостоятельно. Найфе обычно хороший, не знаю, что он тут вдруг задумал.
+
+Новый номер **Heavy Metal** носит плашку «Magick Special» (sic!) и это куда интереснее в смысле Гранта Моррисона как редактора антологии, чем, скажем, «Sex Special» пару номеров назад. Магия с Грантом Моррисоном привлекает меня куда больше, чем секс с Грантом Моррисоном.
+
+Кстати про секс. У нас на сайте про такое обычно не пишут, но уже четыре номера как перешагнул за сотню Tarot Witch of the Black Rose, комикс, существование которого говорит каждому из нас, что всё возможно. Хочешь делать комиксы — делай, не сомневайся. Вот Джим Балент не сомневался, и теперь он сам себе индустрия, Явление с большой буквы и автор, подобных которому нет. В 103-м номере не произошло ничего такого, про что можно было бы писать, вытаращив глаза (ни тебе пулеметов в грудях, ни великого «This vagina is haunted!»), даже клиффхэнгера толком не было. Была сцена гадания по зеленому мохнатому тапочку, но поверьте, она не репрезентует комиксы Джима Балента как следует. А то, что я не смог бы выбрать из комикса ни одного разворота, который можно было бы повесить сюда без риска сделать рубрику «только для взрослых» — вполне репрезентует.
+
+И хотелось бы написать что-то про Зенескоп (а помните, помните, я тыщу лет назад писал в ДНК про издательскую инициативу Зенескопа для новых читателей?) но на этой неделе не выходит ничего толкового. Основная **Grimm Fairy Tales** и после ребута представляет из себя именно то, что вы думаете о комиксах «Зенескопа», только рисовать там стали ещё пластмассовей, чем раньше; сопутствующая ей антология Tales of terror каждый месяц выбирает новую «хоррорную» тему и рассказывает про нее несложную историю. В пятом номере тема будет «снафф-фильм». До нее были «рука мертвеца», «человек-невидимка», «клоуны» и «черноглазые дети» — приятно, что разброс достигает и старых, и новых «хоррор-мемов», но истории получаются проходные, а рисунок… Ну, нормальный рисунок. «Нарисовано похоже».
+
+А, ну и выходит новый графроман Джиллиан Томаки. Кому надо, те поняли.
+
+---
+
+Ладно, чего там. Хорошая неделя, хорошая среда, хорошие комиксы. Люди стараются, душу вкладывают. Сядешь, прочитаешь, улыбнешься. Или идея хорошая придет, или зуд какой-то внутри утихнет. Время скоротаешь, или душу расслабишь.
+
+Перефразируя другого «классика», я так скажу: надо бы читать больше комиксов, потому что пока ты читаешь, одиночества нету.
+
+Такие дела. В ближайшее время снова увидимся.
+
+### IDW Publishing
+
+- Back to the Future Biff to the Future #5 (Of 6)
+- D4VEocracy #4 (Of 4)
+- Donald Duck Vol.2 #20
+- Judge Dredd Funko Universe #1
+- Judge Dredd the Blessed Earth #2
+- Lennon the New York Years HC
+- M.A.S.K. Mobile Armored Strike Kommand #7
+- Micronauts Wrath of Karza #2 (Of 5)
+- Popeye Classics #58
+- Star Trek Waypoint #5 (Of 6)
+- Transformers Till All Are One #10
+- X-Files Vol.3 #14
+
+### Другие издательства
+
+- *215 INK*
+- Doctor Crowe #2
+- *ABSTRACT STUDIOS*
+- Motor Girl #6
+- *AFTERSHOCK COMICS*
+- InSEXts #11
+- *ALBATROSS FUNNYBOOKS*
+- Namwolf #2
+- *ARCHIE COMIC PUBLICATIONS*
+- Archie 75th Anniversary Digest #10
+- Archie Comics Double Digest #279
+- Josie and The Pussycats Vol.2 #7
+- *ASPEN COMICS*
+- No World #2
+- AVATAR PRESS
+- Uber Invasion #6
+- *BROADSWORD COMICS*
+- Tarot Witch of the Black Rose #104
+- *DANGER ZONE*
+- Dollface #5
+- Spencer and Locke #2 (Of 4)
+- Vampblade Season Two #3
+- *DRAWN AND QUARTERLY*
+- Boundless GN
+- *HEAVY METAL MAGAZINE*
+- Heavy Metal #286
+- *HUMANOIDS PUBLISHING*
+- Egyptian Princesses GN
+- *LION FORGE*
+- Klaw Vol.2 The Second Cycle GN
+- ONI PRESS
+- Rick and Morty #26
+- *REBELLION*
+- 2000 AD Pack April 2017 (2025-2028)
+- *SPACE GOAT PUBLISHING*
+- Heroines #1
+- *STUDIO FARLAINE*
+- Farlaine the Goblin #5
+- *TITAN PUBLISHING GROUP*
+- Blood Bowl More Guts More Glory #1 (Of 4)
+- Doctor Who The Ninth Doctor #13
+- Little Nightmares #1 (Of 4)
+- *TITAN1STUDIOS*
+- New Humanz #1 (Of 4)
+- *TOKYOPOP*
+- Disney Manga Descendants the Rotten to the Core Trilogy Vol.1 GN
+- *VAULT COMICS*
+- Fissure #2
+- *ZENESCOPE ENTERTAINMENT*
+- Grimm Fairy Tales Vol.2 #6
+- Grimm Fairy Tales Presents Grimm Tales of Terror Vol.3 #5
+
+![](https://web.archive.org/web/20180124002935im_/http://spidermedia.ru/assets/images/dnk/2017-05/31/dnk-31-05-2017-idw-publishing-02-d4veocracy-4.jpg)![](https://web.archive.org/web/20190915013323im_/http://spidermedia.ru/assets/images/dnk/2017-05/31/dnk-31-05-2017-idw-publishing-07-micronauts-wrath-of-karza-2.jpg)![](https://web.archive.org/web/20190915013323im_/http://spidermedia.ru/assets/images/dnk/2017-05/31/dnk-31-05-2017-idw-publishing-09-star-trek-waypoint-5.jpg)![](https://web.archive.org/web/20190915013323im_/http://spidermedia.ru/assets/images/dnk/2017-05/31/dnk-31-05-2017-idw-publishing-11-x-files-vol.3-14.jpg)![](https://web.archive.org/web/20190915013323im_/http://spidermedia.ru/assets/images/dnk/2017-05/31/dnk-31-05-2017-others-02-motor-girl-6.jpg)![](https://web.archive.org/web/20180124003211im_/http://spidermedia.ru/assets/images/dnk/2017-05/31/dnk-31-05-2017-others-03-insexts-11.jpg)![](https://web.archive.org/web/20190915013323im_/http://spidermedia.ru/assets/images/dnk/2017-05/31/dnk-31-05-2017-others-04-namwolf-2.jpg)![](https://web.archive.org/web/20180123235734im_/http://spidermedia.ru/assets/images/dnk/2017-05/31/dnk-31-05-2017-others-05-josie-and-the-pussycats-vol.2-7.jpg)![](https://web.archive.org/web/20190915013323im_/http://spidermedia.ru/assets/images/dnk/2017-05/31/dnk-31-05-2017-others-06-no-world-2.jpg)![](https://web.archive.org/web/20190915013323im_/http://spidermedia.ru/assets/images/dnk/2017-05/31/dnk-31-05-2017-others-19-blood-bowl-more-guts-more-glory-1.jpg)![](https://web.archive.org/web/20190915013323im_/http://spidermedia.ru/assets/images/dnk/2017-05/31/dnk-31-05-2017-others-21-little-nightmares-1.jpg)![](https://web.archive.org/web/20190915013323im_/http://spidermedia.ru/assets/images/dnk/2017-05/31/dnk-31-05-2017-others-22-new-humanz-1.jpg)

@@ -1,12 +1,18 @@
 {
   "title": "Студия Marvel представила удаленные сцены из фильма «Первый мститель: другая война»",
-  "date": "2014-08-06T08:50:00+03:00",
+  "date": "2014-08-06T07:50:29+03:00",
   "url": "/news/studiya-marvel-predstavila-udalennye-sceny-iz-filma-pervyy-mstitel-drugaya-voyna/",
   "original_url": "https://spidermedia.ru/news/studiya-marvel-predstavila-udalennye-sceny-iz-filma-pervyy-mstitel-drugaya-voyna",
   "archived": "https://web.archive.org/web/20260209114807/https://spidermedia.ru/news/studiya-marvel-predstavila-udalennye-sceny-iz-filma-pervyy-mstitel-drugaya-voyna",
   "tags": [
     "captain-america",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20160430182809im_/http://spidermedia.ru/assets/images/movies/marvel/captain-america-2-the-winter-soldier-2014/captain-america-the-winter-soldier-movie-poster-07.jpg",
+  "modx_id": 7964,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

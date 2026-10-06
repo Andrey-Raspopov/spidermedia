@@ -1,7 +1,10 @@
 {
   "title": "Iron Man Vault #3 (Part 1 of 4)",
-  "date": "2009-08-14T01:47:00+03:00",
+  "date": "2009-08-14T00:47:04+03:00",
   "url": "/blog/ironman/iron-man-vault-3-part-1-4/",
+  "aliases": [
+    "/node/1781/"
+  ],
   "original_url": "http://spidermedia.ru/blog/ironman/iron-man-vault-3-part-1-4",
   "archived": "https://web.archive.org/web/20220808162532/http://spidermedia.ru/blog/ironman/iron-man-vault-3-part-1-4",
   "tags": [
@@ -12,7 +15,14 @@
     "war-machine",
     "marvel",
     "iron-man",
-    "avengers"
+    "avengers",
+    "zheleznyy-chelovek"
+  ],
+  "cover": "https://web.archive.org/web/20220808162532im_/http://spidermedia.ru/assets/images/import_image/1781.jpg",
+  "modx_id": 1781,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
@@ -24,11 +34,11 @@
 
 Первый выпуск колонки:
 
-[Part 1](../../../node/1500/) - [Part 2](../../../node/1512/)
+[Part 1](../iron-man-vault-1-part-1-2/) - [Part 2](../iron-man-vault-1-part-2-2/)
 
 Второй выпуск колонки:
 
-[Part 1](../../../node/1532/) - [Part 2](../../../node/1556/)
+[Part 1](../iron-man-vault-2-part-1-2/) - [Part 2](../iron-man-vault-2-part-2-2/)
 
 **Iron Man v1 #290 - март 1993 года**. Издательство Marvel отмечает **тридцатилетие Железного Человека**. **Iron Man #300** - Железный Человек делает шаг вперёд, после которого он (снова) получает узнаваемость, внимание и уважение среди всех комикс фэнов. Сценарист **Лен Камински** откроет для всех совершенно новый мир Тони Старка, который будет сильно отличаться от того, что предлагали другие сценаристы. Осуществить эту задачу мистеру Камински помогут такие талантливые художкники, как **Кевин Хопгуд** и **Том Морган**. Перейдём от слов к делу!Новая броня:[![](https://web.archive.org/web/20220808162532im_/http://img.photobucket.com/albums/v497/spidermedia/Iron_News/th_2-10.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/Iron_News/2-10.jpg) [![](https://web.archive.org/web/20220808162532im_/http://img.photobucket.com/albums/v497/spidermedia/Iron_News/th_3-9.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/Iron_News/3-9.jpg) [![](https://web.archive.org/web/20220808162532im_/http://img.photobucket.com/albums/v497/spidermedia/Iron_News/th_4-9.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/Iron_News/4-9.jpg)Тони Старк вернулся к жизни благодаря криогенной спячке, но к сожалению его нервную систему (пострадавшую от техно-вируса) восстановить до конца не удалось. Тони полностью парализован, но он не теряется и решает действовать дальше, не заглядывая назад. Для начала он пытается восстановить свою дружбу с Джимом Роудсом (Воитель), но здесь ничего хорошего не получится. Затем Эйб Зиммер, по просьбе Тони, приносит ему невральный прибор, с помощью которого Тони может контролировать всю электронику.[![](https://web.archive.org/web/20220808162532im_/http://img.photobucket.com/albums/v497/spidermedia/Iron_News/th_5-9.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/Iron_News/5-9.jpg) [![](https://web.archive.org/web/20220808162532im_/http://img.photobucket.com/albums/v497/spidermedia/Iron_News/th_6-8.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/Iron_News/6-8.jpg) [![](https://web.archive.org/web/20220808162532im_/http://img.photobucket.com/albums/v497/spidermedia/Iron_News/th_7-7.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/Iron_News/7-7.jpg)Первым шагом Тони будет - создание новой брони. А тем временем, Akane Fusion готовят план мести против Джима Роудса и Stark Enterprises. Они посылают cвою тяжёлую артиллерию, чтобы уничтожить всех, кто будет стоять у них на пути. Тони понимает, что дело плохо и использует дистанционную мини-гарнитуру, с помощью которой он сможет контролировать новою броню на расстоянии, при этом не одевая её. Битва за Stark Enterprises началась!Судный день:
 

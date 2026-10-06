@@ -6,7 +6,15 @@
   "archived": "https://web.archive.org/web/20160426212605/http://spidermedia.ru/comics/sdcc-top-cow",
   "tags": [
     "komik-kon-v-san-diego",
-    "top-cow"
+    "top-cow",
+    "sdcc2015",
+    "san-diego-comic-con-international"
+  ],
+  "cover": "https://web.archive.org/web/20160426212605im_/http://spidermedia.ru/assets/images/news/sdcc/2015/top-cow/sm001_cov.jpg",
+  "modx_id": 100377,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

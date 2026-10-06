@@ -7,6 +7,12 @@
   "tags": [
     "vertigo"
   ],
+  "cover": "https://web.archive.org/web/20240229151751im_/http://spidermedia.ru/assets/images/news/images/3_tv/other/vertigo/preacher/preacher-characters-174121.jpg",
+  "modx_id": 100997,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

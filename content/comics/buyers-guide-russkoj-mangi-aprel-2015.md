@@ -7,6 +7,12 @@
   "tags": [
     "manga"
   ],
+  "cover": "https://web.archive.org/web/20160611152653im_/http://spidermedia.ru/assets/images/manga/bg/bg_apr_001.jpg",
+  "modx_id": 100182,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

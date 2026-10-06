@@ -1,6 +1,6 @@
 {
   "title": "Ultimate Superman",
-  "date": "2009-02-28T17:20:00+03:00",
+  "date": "2009-02-28T17:20:01+03:00",
   "url": "/blog/sterpazook/ultimate-superman/",
   "original_url": "https://spidermedia.ru/blog/sterpazook/ultimate-superman",
   "archived": "https://web.archive.org/web/20251111043042/https://spidermedia.ru/blog/sterpazook/ultimate-superman",
@@ -11,7 +11,13 @@
     "deviantart",
     "redizajn",
     "superman",
-    "ultimizing"
+    "ultimizing",
+    "art"
+  ],
+  "modx_id": 451,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

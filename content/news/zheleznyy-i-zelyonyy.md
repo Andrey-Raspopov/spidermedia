@@ -1,6 +1,6 @@
 {
   "title": "Железный и Зелёный",
-  "date": "2012-10-05T13:45:00+03:00",
+  "date": "2012-10-05T12:45:43+03:00",
   "url": "/news/zheleznyy-i-zelyonyy/",
   "original_url": "http://spidermedia.ru/news/zheleznyy-i-zelyonyy",
   "archived": "https://web.archive.org/web/20260211094344/http://spidermedia.ru/news/zheleznyy-i-zelyonyy",
@@ -8,7 +8,14 @@
     "marvel",
     "animaciya",
     "iron-man",
-    "hulk"
+    "hulk",
+    "zheleznyy-chelovek"
+  ],
+  "cover": "https://web.archive.org/web/20150428175527im_/http://spidermedia.ru/assets/images/import_image/7046.jpg",
+  "modx_id": 7046,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

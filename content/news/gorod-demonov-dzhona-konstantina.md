@@ -1,7 +1,10 @@
 {
   "title": "Город демонов Джона Константина",
-  "date": "2010-07-20T00:32:00+03:00",
+  "date": "2010-07-19T23:32:56+03:00",
   "url": "/news/gorod-demonov-dzhona-konstantina/",
+  "aliases": [
+    "/node/2749/"
+  ],
   "original_url": "https://spidermedia.ru/news/gorod-demonov-dzhona-konstantina",
   "archived": "https://web.archive.org/web/20251211024024/https://spidermedia.ru/news/gorod-demonov-dzhona-konstantina",
   "tags": [
@@ -11,6 +14,12 @@
     "sean-murphy",
     "hellblazer",
     "shon-merfi"
+  ],
+  "cover": "https://web.archive.org/web/20251211024024im_/http://spidermedia.ru/assets/images/import_image/2749.jpg",
+  "modx_id": 2749,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

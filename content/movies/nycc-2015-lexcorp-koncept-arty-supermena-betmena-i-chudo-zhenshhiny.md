@@ -6,7 +6,14 @@
   "archived": "https://web.archive.org/web/20260214134528/http://spidermedia.ru/movies/nycc-2015-lexcorp-koncept-arty-supermena-betmena-i-chudo-zhenshhiny",
   "tags": [
     "dc-comics",
-    "komik-kon-v-nyu-yorke"
+    "komik-kon-v-nyu-yorke",
+    "nycc-2015"
+  ],
+  "cover": "https://web.archive.org/web/20160618235823im_/http://spidermedia.ru/assets/images/comic-con/2015/nycc/batvssuper/00s.jpg",
+  "modx_id": 100649,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

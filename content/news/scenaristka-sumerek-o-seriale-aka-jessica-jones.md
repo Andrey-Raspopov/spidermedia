@@ -1,6 +1,6 @@
 {
   "title": "Сценаристка \"Сумерек\" о сериале \"A.K.A. Jessica Jones\"",
-  "date": "2011-11-11T12:08:00+03:00",
+  "date": "2011-11-11T11:08:52+03:00",
   "url": "/news/scenaristka-sumerek-o-seriale-aka-jessica-jones/",
   "original_url": "https://spidermedia.ru/news/scenaristka-sumerek-o-seriale-aka-jessica-jones",
   "archived": "https://web.archive.org/web/20260214131046/https://spidermedia.ru/news/scenaristka-sumerek-o-seriale-aka-jessica-jones",
@@ -8,6 +8,12 @@
     "marvel",
     "brian-michael-bendis",
     "jessica-jones-alias"
+  ],
+  "cover": "https://web.archive.org/web/20260214131046im_/http://spidermedia.ru/assets/images/import_image/6694.jpg",
+  "modx_id": 6694,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

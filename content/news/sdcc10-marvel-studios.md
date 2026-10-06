@@ -1,7 +1,10 @@
 {
   "title": "SDCC'10: Marvel Studios",
-  "date": "2010-07-25T15:00:00+03:00",
+  "date": "2010-07-25T14:00:20+03:00",
   "url": "/news/sdcc10-marvel-studios/",
+  "aliases": [
+    "/node/2791/"
+  ],
   "original_url": "http://spidermedia.ru/news/sdcc10-marvel-studios",
   "archived": "https://web.archive.org/web/20250617233514/http://spidermedia.ru/news/sdcc10-marvel-studios",
   "tags": [
@@ -12,7 +15,14 @@
     "marvel",
     "joss-whedon",
     "captain-america",
-    "avengers"
+    "avengers",
+    "tor"
+  ],
+  "cover": "https://web.archive.org/web/20160620021039im_/http://spidermedia.ru/assets/images/import_image/2791.jpg",
+  "modx_id": 2791,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
@@ -43,4 +53,4 @@
 
 - Показвают **тизер** фильма "Мстители". **Клятву Мстителей** зачитал сам **Ник Фьюри** *(Ultimate Nick Fury)*.
 - На сцену вышли: **Скарлет "Черная Вдова" Йохансcон** *(Scarlett Johansson/Black Widow)*, **Роберт "Тони Старк" Дауни Мл** *(Robert Downey Jr./Tony Stark/Iron Man)*, **Сэмюэль Л. Джексон** *(Samuel L. Jackson)*, новый исполнитель роли **Брюса Бэннера**/**Халка** *(Bruce Banner/Hulk)* - **Марк Руффало** *(Mark Ruffalo)* и исполнитель роли **Хоукая** *(Hawkeye)* - **Джереми Реннер** *(Jeremy Renner)*.
-- Сценаристом и режиссером фильма и [впрямь стал](http://spidermedia.ru/node/2779) **Джосс Уидон** *(Joss Whedon)*. "Мстители" появятся на больших экранах в **2012 году**.
+- Сценаристом и режиссером фильма и [впрямь стал](../sdcc10-dzhoss-uidon-o-filme-mstiteli/) **Джосс Уидон** *(Joss Whedon)*. "Мстители" появятся на больших экранах в **2012 году**.

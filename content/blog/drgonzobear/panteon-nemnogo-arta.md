@@ -1,6 +1,6 @@
 {
   "title": "Пантеон: немного арта",
-  "date": "2012-05-21T23:48:00+03:00",
+  "date": "2012-05-21T22:48:54+03:00",
   "url": "/blog/drgonzobear/panteon-nemnogo-arta/",
   "original_url": "http://spidermedia.ru/blog/drgonzobear/panteon-nemnogo-arta",
   "archived": "https://web.archive.org/web/20210118135644/http://spidermedia.ru/blog/drgonzobear/panteon-nemnogo-arta",
@@ -8,6 +8,12 @@
     "stimpank",
     "russian-comics",
     "miscreant"
+  ],
+  "cover": "https://web.archive.org/web/20210118135644im_/http://spidermedia.ru/assets/images/import_image/6902.jpg",
+  "modx_id": 6902,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

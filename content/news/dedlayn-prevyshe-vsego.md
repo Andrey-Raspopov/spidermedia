@@ -1,6 +1,6 @@
 {
   "title": "Дэдлайн превыше всего",
-  "date": "2010-04-23T01:08:00+03:00",
+  "date": "2010-04-23T00:08:18+03:00",
   "url": "/news/dedlayn-prevyshe-vsego/",
   "original_url": "http://spidermedia.ru/news/dedlayn-prevyshe-vsego",
   "archived": "https://web.archive.org/web/20251014033552/http://spidermedia.ru/news/dedlayn-prevyshe-vsego",
@@ -9,6 +9,12 @@
     "amanda-konner",
     "power-girl",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20251014033552im_/http://spidermedia.ru/assets/images/import_image/2569.jpg",
+  "modx_id": 2569,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

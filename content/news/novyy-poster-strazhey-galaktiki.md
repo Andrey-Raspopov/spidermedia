@@ -1,6 +1,6 @@
 {
   "title": "Новый постер \"СТРАЖЕЙ ГАЛАКТИКИ\"",
-  "date": "2014-05-16T20:44:00+03:00",
+  "date": "2014-05-16T19:44:58+03:00",
   "url": "/news/novyy-poster-strazhey-galaktiki/",
   "original_url": "http://spidermedia.ru/news/novyy-poster-strazhey-galaktiki",
   "archived": "https://web.archive.org/web/20260307071446/http://spidermedia.ru/news/novyy-poster-strazhey-galaktiki",
@@ -8,6 +8,12 @@
     "guardians-of-the-galaxy",
     "postery",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150424123049im_/http://spidermedia.ru/assets/images/import_image/7743.jpg",
+  "modx_id": 7743,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

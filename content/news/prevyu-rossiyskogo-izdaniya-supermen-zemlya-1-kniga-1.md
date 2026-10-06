@@ -1,6 +1,6 @@
 {
   "title": "Превью российского издания \"Супермен: Земля-1. Книга 1\"",
-  "date": "2013-03-31T18:03:00+03:00",
+  "date": "2013-03-31T17:03:51+03:00",
   "url": "/news/prevyu-rossiyskogo-izdaniya-supermen-zemlya-1-kniga-1/",
   "original_url": "http://spidermedia.ru/news/prevyu-rossiyskogo-izdaniya-supermen-zemlya-1-kniga-1",
   "archived": "https://web.archive.org/web/20251206022227/http://spidermedia.ru/news/prevyu-rossiyskogo-izdaniya-supermen-zemlya-1-kniga-1",
@@ -9,7 +9,14 @@
     "superman",
     "komiks-art",
     "j-michael-straczynski",
-    "dc-comics"
+    "dc-comics",
+    "dzhej-majkl-strazhinski"
+  ],
+  "cover": "https://web.archive.org/web/20150424184215im_/http://spidermedia.ru/assets/images/import_image/7175.jpg",
+  "modx_id": 7175,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

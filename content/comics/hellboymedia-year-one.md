@@ -8,6 +8,12 @@
     "hellboymedia",
     "dorogaya-redakciya"
   ],
+  "cover": "https://web.archive.org/web/20180203234215im_/http://spidermedia.ru/assets/images/hellboymedia/anniversary/hellboymedia-anniversary-cover.jpg",
+  "modx_id": 100275,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

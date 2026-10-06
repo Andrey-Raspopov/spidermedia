@@ -8,11 +8,15 @@
     "manga",
     "right-binding"
   ],
+  "cover": "https://web.archive.org/web/20251014032401im_/http://spidermedia.ru/assets/images/valiant/images/pp-02/000.jpg",
+  "modx_id": 101471,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
-
-[![](http://spidermedia.ru/assets/cache/images/valiant/images/pp-02/622x-000.2e9.jpg)](http://spidermedia.ru/assets/images/valiant/images/pp-02/000.jpg)
 
 Что ж, приветствую всех в новом 2017 году! Надеюсь, вы успели отдохнуть и набраться сил за эти праздничные дни. А также смогли почитать/посмотреть все, что запланировали. Я, например, нет: моя первоначальная задумка о прохождении трилогии *Bioshock* превратилась в марафон *Steven* *Universe* (я ни о чем не жалею!) Поэтому теперь придется выкраивать время для игры на «трудовых неделях».
 
@@ -26,75 +30,35 @@
 
 Главные новости пришли с баббловского ХомяКона: издательство **XL****Media** объявило о лицензии отличной манги Гамона Сакурая **Ajin** (Получеловек) и любимого многими ранобэ **No****Game** **No****Life** за авторством Ю Камии. Первые тома обеих серий уже переведены и в скором времени должны отправиться на верстку.
 
-[![](http://spidermedia.ru/assets/images/valiant/images/pp-02/01-1.jpg)](./)
-[![](http://spidermedia.ru/assets/images/valiant/images/pp-02/01-2.jpg)](./)
+![](https://web.archive.org/web/20251014032401im_/http://spidermedia.ru/assets/images/valiant/images/pp-02/01-1.jpg)![](https://web.archive.org/web/20251014032401im_/http://spidermedia.ru/assets/images/valiant/images/pp-02/01-2.jpg)
 
 А вот эти книги от **ИксЭл** уже можно купить: **«Бездомный бог»** (тома 3 и 4), **«****Восхождение героя щита»** (тома 5 и 6) и **«Я — Сакамото, а что?»** (том 1).
 
-[![](http://spidermedia.ru/assets/images/valiant/images/pp-02/02-1.jpg)](http://spidermedia.ru/assets/images/valiant/images/pp-02/02-1.jpg)
-
-[![](http://spidermedia.ru/assets/images/valiant/images/pp-02/02-2.jpg)](http://spidermedia.ru/assets/images/valiant/images/pp-02/02-2.jpg)
-
-[![](http://spidermedia.ru/assets/images/valiant/images/pp-02/02-3.jpg)](http://spidermedia.ru/assets/images/valiant/images/pp-02/02-3.jpg)
-
-[![](http://spidermedia.ru/assets/images/valiant/images/pp-02/02-4.jpg)](http://spidermedia.ru/assets/images/valiant/images/pp-02/02-4.jpg)
-
-[![](http://spidermedia.ru/assets/images/valiant/images/pp-02/02-5.jpg)](http://spidermedia.ru/assets/images/valiant/images/pp-02/02-5.jpg)
+![](https://web.archive.org/web/20251014032401im_/http://spidermedia.ru/assets/images/valiant/images/pp-02/02-1.jpg)![](https://web.archive.org/web/20251014032401im_/http://spidermedia.ru/assets/images/valiant/images/pp-02/02-2.jpg)![](https://web.archive.org/web/20251014032401im_/http://spidermedia.ru/assets/images/valiant/images/pp-02/02-3.jpg)![](https://web.archive.org/web/20251014032401im_/http://spidermedia.ru/assets/images/valiant/images/pp-02/02-4.jpg)![](https://web.archive.org/web/20251014032401im_/http://spidermedia.ru/assets/images/valiant/images/pp-02/02-5.jpg)
 
 Ребята из **Alt** **Graph** успели-таки под конец года выпустить однотомную **«Повозку Бладхарли»** и мини-историю **«Своими глазами»**. Также в печать отправился финальный том **«Крушителя»**.
 
-[![](http://spidermedia.ru/assets/images/valiant/images/pp-02/03-1.jpg)](./)
-[![](http://spidermedia.ru/assets/images/valiant/images/pp-02/03-2.jpg)](./)
-[![](https://web.archive.org/web/20171024121917im_/http://spidermedia.ru/assets/images/valiant/images/pp-02/03-3.jpg)](./)
+![](https://web.archive.org/web/20251014032401im_/http://spidermedia.ru/assets/images/valiant/images/pp-02/03-1.jpg)![](https://web.archive.org/web/20251014032401im_/http://spidermedia.ru/assets/images/valiant/images/pp-02/03-2.jpg)![](https://web.archive.org/web/20171024121917im_/http://spidermedia.ru/assets/images/valiant/images/pp-02/03-3.jpg)
 
 Декабрьский предзаказ **«Истари комикс»** отпечатан, и издательство начало рассылку книг: **«Волчица и пряности»** (том 13), **«Бладхаунд»**, **«Даже боги лгут»** и **«Форма голоса»** (тома 1-2).
 
-[![](http://spidermedia.ru/assets/images/valiant/images/pp-01/4-01.jpg)](http://spidermedia.ru/assets/images/valiant/images/pp-01/4-01.jpg)
-
-[![](http://spidermedia.ru/assets/images/valiant/images/pp-01/4-02.jpg)](http://spidermedia.ru/assets/images/valiant/images/pp-01/4-02.jpg)
-
-[![](http://spidermedia.ru/assets/images/valiant/images/pp-01/4-03.jpg)](http://spidermedia.ru/assets/images/valiant/images/pp-01/4-03.jpg)
-
-[![](http://spidermedia.ru/assets/images/valiant/images/pp-01/4-04.jpg)](http://spidermedia.ru/assets/images/valiant/images/pp-01/4-04.jpg)
-
-[![](http://spidermedia.ru/assets/images/valiant/images/pp-01/4-05.jpg)](http://spidermedia.ru/assets/images/valiant/images/pp-01/4-05.jpg)
+![](https://web.archive.org/web/20251014032401im_/http://spidermedia.ru/assets/images/valiant/images/pp-01/4-01.jpg)![](https://web.archive.org/web/20251014032401im_/http://spidermedia.ru/assets/images/valiant/images/pp-01/4-02.jpg)![](https://web.archive.org/web/20251014032401im_/http://spidermedia.ru/assets/images/valiant/images/pp-01/4-03.jpg)![](https://web.archive.org/web/20251014032401im_/http://spidermedia.ru/assets/images/valiant/images/pp-01/4-04.jpg)![](https://web.archive.org/web/20251014032401im_/http://spidermedia.ru/assets/images/valiant/images/pp-01/4-05.jpg)
 
 И, конечно же, у **«Истари»** стартовал следующий предзаказ (он продлится до 13 февраля). В его составе: пятая и шестая книги **Sword Art Online**,в которых Кирито предстоит отправиться в мир игры *GunGale Online*, и три тома манга-адаптации первого сезона сериала **Шерлок** (как вам, кстати, новые серии?)
 
-[![](http://spidermedia.ru/assets/images/valiant/images/pp-02/05-1.jpg)](http://spidermedia.ru/assets/images/valiant/images/pp-02/05-1.jpg)
-
-[![](http://spidermedia.ru/assets/images/valiant/images/pp-02/05-2.jpg)](http://spidermedia.ru/assets/images/valiant/images/pp-02/05-2.jpg)
-
-[![](http://spidermedia.ru/assets/images/valiant/images/pp-02/05-3.jpg)](http://spidermedia.ru/assets/images/valiant/images/pp-02/05-3.jpg)
-
-[![](http://spidermedia.ru/assets/images/valiant/images/pp-02/05-4.jpg)](http://spidermedia.ru/assets/images/valiant/images/pp-02/05-4.jpg)
-
-[![](http://spidermedia.ru/assets/images/valiant/images/pp-02/05-5.jpg)](http://spidermedia.ru/assets/images/valiant/images/pp-02/05-5.jpg)
+![](https://web.archive.org/web/20251014032401im_/http://spidermedia.ru/assets/images/valiant/images/pp-02/05-1.jpg)![](https://web.archive.org/web/20251014032401im_/http://spidermedia.ru/assets/images/valiant/images/pp-02/05-2.jpg)![](https://web.archive.org/web/20251014032401im_/http://spidermedia.ru/assets/images/valiant/images/pp-02/05-3.jpg)![](https://web.archive.org/web/20251014032401im_/http://spidermedia.ru/assets/images/valiant/images/pp-02/05-4.jpg)![](https://web.archive.org/web/20251014032401im_/http://spidermedia.ru/assets/images/valiant/images/pp-02/05-5.jpg)
 
 **«Фабрика комиксов»** отметилась только двумя релизами: заключительным одиннадцатым томом манхвы **One** иотечественным BL-ным танкобоном **«Ничего особенного»**.
 
-[![](https://web.archive.org/web/20180315125642im_/http://spidermedia.ru/assets/images/valiant/images/pp-02/06-1.jpg)](./)
-[![](http://spidermedia.ru/assets/images/valiant/images/pp-02/06-2.jpg)](./)
+![](https://web.archive.org/web/20180315125642im_/http://spidermedia.ru/assets/images/valiant/images/pp-02/06-1.jpg)![](https://web.archive.org/web/20251014032401im_/http://spidermedia.ru/assets/images/valiant/images/pp-02/06-2.jpg)
 
 Все силы издательство вложило в отправку книг в типографию, так что в скором времени нас ждут: **«Эмбрион мира»** (том 7), продолжение очаровательной маньхуа от Никки Ли **«Номер один»** (том 8), **«Звезда** **J-****pop»** (тома 2 и 3), очередной **«Альманах русской манги»** (MNG 013) и нечто под названием **«Апчхи!»**.
 
-[![](http://spidermedia.ru/assets/images/valiant/images/pp-02/07-1.jpg)](http://spidermedia.ru/assets/images/valiant/images/pp-02/07-1.jpg)
-
-[![](http://spidermedia.ru/assets/images/valiant/images/pp-02/07-2.jpg)](http://spidermedia.ru/assets/images/valiant/images/pp-02/07-2.jpg)
-
-[![](http://spidermedia.ru/assets/images/valiant/images/pp-02/07-3.jpg)](http://spidermedia.ru/assets/images/valiant/images/pp-02/07-3.jpg)
-
-[![](https://web.archive.org/web/20180202183946im_/http://spidermedia.ru/assets/images/valiant/images/pp-02/07-4.jpg)](https://web.archive.org/web/20180202183946im_/http://spidermedia.ru/assets/images/valiant/images/pp-02/07-4.jpg)
-
-[![](http://spidermedia.ru/assets/images/valiant/images/pp-02/07-5.jpg)](http://spidermedia.ru/assets/images/valiant/images/pp-02/07-5.jpg)
-
-[![](http://spidermedia.ru/assets/images/valiant/images/pp-02/07-6.jpg)](http://spidermedia.ru/assets/images/valiant/images/pp-02/07-6.jpg)
+![](https://web.archive.org/web/20251014032401im_/http://spidermedia.ru/assets/images/valiant/images/pp-02/07-1.jpg)![](https://web.archive.org/web/20251014032401im_/http://spidermedia.ru/assets/images/valiant/images/pp-02/07-2.jpg)![](https://web.archive.org/web/20251014032401im_/http://spidermedia.ru/assets/images/valiant/images/pp-02/07-3.jpg)![](https://web.archive.org/web/20180202183946im_/http://spidermedia.ru/assets/images/valiant/images/pp-02/07-4.jpg)![](https://web.archive.org/web/20251014032401im_/http://spidermedia.ru/assets/images/valiant/images/pp-02/07-5.jpg)![](https://web.archive.org/web/20251014032401im_/http://spidermedia.ru/assets/images/valiant/images/pp-02/07-6.jpg)
 
 Теперь новости, откуда не ждали. **ДМК-Пресс** выпустило новые книги из серии образовательной манги: **«Занимательную электротехнику»** (обложку в хорошем качестве удалось найти только на Озоне) и**«Занимательную молекулярную биологию»**. А издательство **АСТ** приобрело права на трилогию **«Адские механизмы»**, которая является манга-переложением романов Кассандры Клэр из серии «Хроники Сумеречных охотников».
 
-[![](https://web.archive.org/web/20180315145104im_/http://spidermedia.ru/assets/images/valiant/images/pp-02/08-1.jpg)](./)
-[![](http://spidermedia.ru/assets/images/valiant/images/pp-02/08-2.jpg)](./)
-[![](http://spidermedia.ru/assets/images/valiant/images/pp-02/08-3.jpeg)](./)
+![](https://web.archive.org/web/20180315145104im_/http://spidermedia.ru/assets/images/valiant/images/pp-02/08-1.jpg)![](https://web.archive.org/web/20251014032401im_/http://spidermedia.ru/assets/images/valiant/images/pp-02/08-2.jpg)![](https://web.archive.org/web/20251014032401im_/http://spidermedia.ru/assets/images/valiant/images/pp-02/08-3.jpeg)
 
 ---
 
@@ -103,9 +67,7 @@
 ---
 
 #### Natsume Yuujinchou Go
-![](http://spidermedia.ru/assets/cache/images/youtube/622x350-y4ZDv8vtm58.3e9.jpg)
-
-[Natsume Yuujinchou Go - Opening 01 「Takarabako」 (タカラバコ) [TV Size] English Translate](./) 00:01:31
+<iframe allowfullscreen="" frameborder="0" height="360" src="http://www.youtube.com/embed/y4ZDv8vtm58?wmode=transparent" width="640"></iframe>
 
 Жанр: мистика, повседневность
 Число эпизодов: 11
@@ -115,7 +77,7 @@
 
 #### Ajin 2
 
-![](http://spidermedia.ru/assets/cache/images/youtube/622x350-AZtcdcjQznE.3e9.jpg)
+<iframe allowfullscreen="" frameborder="0" height="360" src="http://www.youtube.com/embed/AZtcdcjQznE?wmode=transparent" width="640"></iframe>
 
 Жанр: триллер, мистика
 Число эпизодов: 13
@@ -125,9 +87,7 @@
 
 #### Occultic;Nine
 
-![](http://spidermedia.ru/assets/cache/images/youtube/622x350-0WI33IX_gUI.3e9.jpg)
-
-[Occultic;Nine Opening - [1080p] [HD] [sub]](./) 00:01:30
+<iframe allowfullscreen="" frameborder="0" height="360" src="http://www.youtube.com/embed/0WI33IX_gUI?wmode=transparent" width="640"></iframe>
 
 Жанр: приключения, мистика
 Число эпизодов: 12
@@ -140,3 +100,42 @@
 **ЧИТАЕМ**
 
 ---
+
+a:2:{i:1;a:7:{s:5:"autor";a:3:{i:1;a:2:{i:0;s:12:"[Автор]";i:1;s:17:"Ко Джинхо";}i:3;a:2:{i:0;s:51:"[Оригинальное издательство]";i:1;s:6:"Haksan";}i:5;a:2:{i:0;s:33:"[Количество томов]";i:1;s:2:"11";}}s:4:"name";s:19:"Джек Фрост";s:7:"edition";s:10:"Том 1-7";s:5:"cover";s:47:"assets/images/valiant/images/pp-02/jf-cover.jpg";s:9:"publisher";s:4:"3300";s:4:"year";s:5:"2011-";s:8:"comments";a:1:{i:1;a:4:{s:5:"autor";s:6:"183732";s:4:"text";s:5110:"
+
+«Фабрика комиксов» очень... своеобразно относится к выпуску своих лицензий. Взять, например, «Джека Фроста», перерыв между вторым и третьим томами которого длился почти пять лет, зато за прошлый год вышло сразу пять книг. И раз уж издательство вспомнило о серии (даже собирается завершить ее в 2017), то почему бы про нее не рассказать.
+
+*Обычная корейская школьница Джу Ноа переводится в новую школу. В первый же день девушке отрубают голову, но она почему-то не умирает. Оказывается, учебное заведение и город Амитивилль (**get**it?), в котором оно расположено, находится в своего рода чистилище, где застряли души умерших, а главная героиня является Бессмертным отражением — ключевой фигурой в борьбе за власть над этим миром. На Ноа начинается охота, и единственный, кто сможет ее защитить — это таинственный Джек Фрост.*
+
+[[gallery? &id=`1637` &type=`1` &rowHeight=`150` &maxRowHeight=`100%` &captions=`false` &fixedHeight=`false` &lastRow=`justify` &margins=`2`]]
+
+Не буду ходить вокруг да около (или выискивать «глубинный смысл» произведения, тут он отсутствует), а скажу прямо: «Джек Фрост» — чистый rip-off японского «Хеллсинга». Не в плане сюжета, а в плане персонажей и, в некотором роде, атмосферы. Ноа и Хансен ведут себя точь-в-точь как Виктория и Бернадотт соответственно, а дизайны Джека и Хельмины (его хозяйки) беззастенчиво срисованы с Алукарда и Интегры. Поначалу все смахивает на банальный плагиат, но в дальнейшем понимаешь, что это скорее выражение фанатской любви к культовой работе Коты Хирано (и не только его, например, в манхве есть сцена-оммаж на Тригана). Которая достигает своего пика в одном очень крутом эпизоде (середина 6 тома), наверное, самом лучшем и единственном действительно заслуживающем внимания. В нем Джек сражается с очередным противником, битва полностью выполнена в карандаше, без обводки и скринтонов. Поединок идет без слов, лишь под аккомпанемент [арии](https://youtu.be/463jDvbw3LQ?t=132) Царицы ночи из «Волшебной флейты» (что напоминает о противостоянии Алукарда и Рип Ван Винкль, только там был «Волшебный стрелок»). Грубые карандашные линии и эпичная музыка (что играет в голове) живо передают ярость персонажей и невероятный накал боя. Одно плохо, сцена длится слишком мало.
+
+Если же отбросить все реверансы в сторону «Хеллсинга», то «Джек Фрост» — это обычный боевик со стандартным сюжетом без сюрпризов и особой смысловой нагрузки. Кроме красивой картинки, которая, что удивительно, немного сдает после шестой книги, похвастаться-то ему особо нечем. Так что читать серию следует только в случае сильной тоски по Алукарду и компании.
+
+";s:8:"mjdzText";s:0:"";s:10:"conclusion";s:0:"";}}}i:2;a:7:{s:5:"autor";a:3:{i:1;a:2:{i:0;s:12:"[Автор]";i:1;s:29:"Дайсукэ Морияма";}i:3;a:2:{i:0;s:51:"[Оригинальное издательство]";i:1;s:14:"Shonen Gahosha";}i:5;a:2:{i:0;s:33:"[Количество томов]";i:1;s:2:"13";}}s:4:"name";s:23:"Эмбрион мира";s:7:"edition";s:10:"Том 1-6";s:5:"cover";s:47:"assets/images/valiant/images/pp-02/we-cover.jpg";s:9:"publisher";s:4:"3300";s:4:"year";s:5:"2011-";s:8:"comments";a:1:{i:1;a:4:{s:5:"autor";s:6:"183732";s:4:"text";s:4639:"
+
+Еще один «фабричный» долгострой, который ожил после длительного (четырехлетнего) простоя. На этот раз более достойный внимания, и не в последнюю очередь благодаря имени автора, создателя небезызвестного «Крестового похода Хроно», которого даже издавали на русском.
+
+*Сводная сестра главного героя Рику Амами гибнет при загадочных обстоятельствах. Спустя пару лет после смерти девушки ему приходит сообщение с ее номера. В нем лишь два слова: «Найди меня». Рику отправляется в указанное в тексте место, где его атакуют монстры — кансю. От нападения юношу спасает старый друг Ёхэй, который состоит в организации, противостоящей чудовищам. Теперь, чтобы докопаться до правды о гибели сестры, Рику придется присоединиться к их борьбе.*
+
+[[gallery? &id=`1638` &type=`1` &rowHeight=`150` &maxRowHeight=`100%` &captions=`false` &fixedHeight=`false` &lastRow=`justify` &margins=`2`]]
+
+Основной темой «Эмбриона мира» Дайсукэ Морияма выбрал ложь и то, как она разрушает человеческие отношения. Каждый из героев в той или иной степени чувствует на себе ее тлетворное влияние. Причем мангака использовал интересный прием: все обманчивые фразы в облачках взяты в кавычки, и читатель всегда знает, что из сказанного персонажами правда, а что нет. Плюс, такой подход дополнительно акцентирует внимание на авторской идее.
+
+Сценарий у манги довольно крепкий и насыщенный (текста много, а томики толще обычных — по 220-240 стр.), хотя и не блещущий оригинальностью (при чтении я постоянно вспоминал об [«Алхимическом оружии»](http://www.world-art.ru/animation/animation.php?id=5907) Нобухиро Вацуки). Концепция «Эмбриона» проста: есть хорошие ребята с особыми способностями и злодей, который с помощью похожих сил создает армии чудовищ. Но превращение людей в монстров происходит интересным путем: через сотовые телефоны. Да, тут такая легкая социальная сатира, что мобильные устройства — зло. Повествование идет бойко, выдавая ровно столько информации о мире (и главной тайне), сколько необходимо в данный конкретный момент. В истории есть место и юмору, и драме, и неплохим экшен-сценам (присутствует и небольшой фансервис). В итоге получается такой крепенький середняк, не стремящийся прыгнуть выше головы, но на который не жалко потратить свое время.
+
+«Эмбрион мира» — типичный представитель жанра сёнен, не хуже, но и не лучше других подобных серий. Пусть штамповка, зато качественная.
+
+";s:8:"mjdzText";s:372:"
+
+---
+
+**つづく...**
+
+---
+
+В следующем выпуске: что было в январе, новая глава *Ao no Exorcist* и «Восхождение героя щита».
+ «Правый переплет #03: пламя».
+
+";s:10:"conclusion";s:0:"";}}}}

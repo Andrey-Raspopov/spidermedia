@@ -8,6 +8,12 @@
     "marvel",
     "punisher"
   ],
+  "cover": "https://web.archive.org/web/20251207001556im_/http://spidermedia.ru/assets/images/reviews/marvel/punisher/2018/001/1.jpg",
+  "modx_id": 101992,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

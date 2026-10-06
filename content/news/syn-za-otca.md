@@ -1,7 +1,10 @@
 {
   "title": "Сын за отца",
-  "date": "2009-02-12T09:52:00+03:00",
+  "date": "2009-02-12T09:52:49+03:00",
   "url": "/news/syn-za-otca/",
+  "aliases": [
+    "/node/325/"
+  ],
   "original_url": "http://spidermedia.ru/news/syn-za-otca",
   "archived": "https://web.archive.org/web/20260214131120/http://spidermedia.ru/news/syn-za-otca",
   "tags": [
@@ -9,6 +12,12 @@
     "wolverine",
     "nycc-2009",
     "daken"
+  ],
+  "cover": "https://web.archive.org/web/20260214131120im_/http://spidermedia.ru/assets/images/import_image/325.jpg",
+  "modx_id": 325,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

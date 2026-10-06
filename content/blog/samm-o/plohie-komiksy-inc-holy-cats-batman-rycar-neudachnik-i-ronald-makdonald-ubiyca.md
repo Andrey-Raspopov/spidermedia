@@ -1,6 +1,6 @@
 {
   "title": "плохие комиксы Inc.: holy cats, Batman!, рыцарь-неудачник и Рональд Макдональд - убийца",
-  "date": "2011-07-22T21:47:00+03:00",
+  "date": "2011-07-22T20:47:23+03:00",
   "url": "/blog/samm-o/plohie-komiksy-inc-holy-cats-batman-rycar-neudachnik-i-ronald-makdonald-ubiyca/",
   "original_url": "http://spidermedia.ru/blog/samm-o/plohie-komiksy-inc-holy-cats-batman-rycar-neudachnik-i-ronald-makdonald-ubiyca",
   "archived": "https://web.archive.org/web/20120610055407/http://spidermedia.ru/blog/samm-o/plohie-komiksy-inc-holy-cats-batman-rycar-neudachnik-i-ronald-makdonald-ubiyca",
@@ -8,6 +8,12 @@
     "komiksy",
     "mnenie",
     "plohie-komiksy-inc"
+  ],
+  "cover": "https://web.archive.org/web/20120610055407im_/http://spidermedia.ru/assets/images/import_image/6515.jpg",
+  "modx_id": 6515,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

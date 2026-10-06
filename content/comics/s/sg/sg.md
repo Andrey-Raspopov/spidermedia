@@ -4,6 +4,9 @@
   "url": "/comics/s/sg/sg/",
   "original_url": "http://www.spidermedia.ru/comics/s/sg/sg.html",
   "archived": "https://web.archive.org/web/20050307044746/http://www.spidermedia.ru:80/comics/s/sg/sg.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

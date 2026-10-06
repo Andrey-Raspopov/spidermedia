@@ -1,7 +1,10 @@
 {
   "title": "Ultimate Comics в марте",
-  "date": "2010-01-25T23:29:00+03:00",
+  "date": "2010-01-25T23:29:15+03:00",
   "url": "/news/ultimate-comics-v-marte/",
+  "aliases": [
+    "/node/2190/"
+  ],
   "original_url": "http://spidermedia.ru/news/ultimate-comics-v-marte",
   "archived": "https://web.archive.org/web/20260208194031/http://spidermedia.ru/news/ultimate-comics-v-marte",
   "tags": [
@@ -18,6 +21,12 @@
     "ed-mcguinness",
     "david-lafuente",
     "brian-michael-bendis"
+  ],
+  "cover": "https://web.archive.org/web/20260208194031im_/http://spidermedia.ru/assets/images/import_image/2190.png",
+  "modx_id": 2190,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

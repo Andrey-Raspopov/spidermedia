@@ -1,7 +1,10 @@
 {
   "title": "Мисс Марвел в игре Marvel Ultimate Alliance 2",
-  "date": "2009-08-15T19:27:00+03:00",
+  "date": "2009-08-15T18:27:25+03:00",
   "url": "/news/miss-marvel-v-igre-marvel-ultimate-alliance-2/",
+  "aliases": [
+    "/node/1795/"
+  ],
   "original_url": "http://spidermedia.ru/news/miss-marvel-v-igre-marvel-ultimate-alliance-2",
   "archived": "https://web.archive.org/web/20251107010432/http://spidermedia.ru/news/miss-marvel-v-igre-marvel-ultimate-alliance-2",
   "tags": [
@@ -10,6 +13,11 @@
     "miss-marvel",
     "igry",
     "stan-lee"
+  ],
+  "modx_id": 1795,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

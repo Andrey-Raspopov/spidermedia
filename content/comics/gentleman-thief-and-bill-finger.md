@@ -9,6 +9,12 @@
     "batman",
     "batman-week"
   ],
+  "cover": "https://web.archive.org/web/20250318075724im_/http://spidermedia.ru/assets/images/articles/batman-week/bob-kane/pic-3.jpg",
+  "modx_id": 100581,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,11 +1,20 @@
 {
   "title": "Marvel Universe - Gigantic Battles",
-  "date": "2009-06-24T12:54:00+03:00",
+  "date": "2009-06-24T11:54:28+03:00",
   "url": "/news/marvel-universe-gigantic-battles/",
+  "aliases": [
+    "/node/1469/"
+  ],
   "original_url": "https://spidermedia.ru/news/marvel-universe-gigantic-battles",
   "archived": "https://web.archive.org/web/20250807000420/https://spidermedia.ru/news/marvel-universe-gigantic-battles",
   "tags": [
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20250807000420im_/http://spidermedia.ru/assets/images/import_image/1469.jpg",
+  "modx_id": 1469,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

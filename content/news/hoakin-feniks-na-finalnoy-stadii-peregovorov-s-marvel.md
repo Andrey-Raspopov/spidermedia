@@ -1,6 +1,6 @@
 {
   "title": "Хоакин Феникс на финальной стадии переговоров с Marvel",
-  "date": "2014-08-29T08:53:00+03:00",
+  "date": "2014-08-29T07:53:21+03:00",
   "url": "/news/hoakin-feniks-na-finalnoy-stadii-peregovorov-s-marvel/",
   "original_url": "http://spidermedia.ru/news/hoakin-feniks-na-finalnoy-stadii-peregovorov-s-marvel",
   "archived": "https://web.archive.org/web/20260313103937/http://spidermedia.ru/news/hoakin-feniks-na-finalnoy-stadii-peregovorov-s-marvel",
@@ -8,6 +8,12 @@
     "kasting",
     "doctor-strange",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150503101222im_/http://spidermedia.ru/assets/images/import_image/8027.jpg",
+  "modx_id": 8027,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

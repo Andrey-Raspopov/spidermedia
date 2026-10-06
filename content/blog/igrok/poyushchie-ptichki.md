@@ -1,6 +1,6 @@
 {
   "title": "Поющие птички",
-  "date": "2010-09-29T16:25:00+03:00",
+  "date": "2010-09-29T15:25:20+03:00",
   "url": "/blog/igrok/poyushchie-ptichki/",
   "original_url": "http://spidermedia.ru/blog/igrok/poyushchie-ptichki",
   "archived": "https://web.archive.org/web/20260208204732/http://spidermedia.ru/blog/igrok/poyushchie-ptichki",
@@ -9,6 +9,11 @@
     "birds-of-prey",
     "hishchnye-pticy",
     "batman"
+  ],
+  "modx_id": 2954,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

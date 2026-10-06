@@ -12,6 +12,12 @@
     "wonder-woman",
     "yanik-pekket"
   ],
+  "cover": "https://web.archive.org/web/20250720032415im_/https://spidermedia.ru/assets/images/reviews/dc/wonder-woman/earth-one/001.jpg",
+  "modx_id": 102458,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

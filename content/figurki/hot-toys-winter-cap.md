@@ -9,6 +9,12 @@
     "winter-soldier",
     "captain-america"
   ],
+  "cover": "https://web.archive.org/web/20160611202353im_/http://spidermedia.ru/assets/images/toys/hottoys/civilwar/4v43joh.jpg",
+  "modx_id": 100908,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

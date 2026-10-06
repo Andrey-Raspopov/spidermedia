@@ -12,11 +12,14 @@
     "preview-s",
     "fred-van-lente"
   ],
+  "sources": [
+    "archive"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }
 
-]]>[![TMSTRM001_cov.jpg - image uploaded to Picamatic](https://web.archive.org/web/20120608213430im_/http://www.comicbookresources.com/assets/phpThumb/phpThumb.php?src=/assets/images/preview/2311/prv2311_cov.jpg&w=150 "TMSTRM001_cov.jpg")](http://www.comicbookresources.com/?page=preview&id=2311&disp=table)]]> О зеленой героине писалось уже [достаточно](../../node/702/).
+]]>[![TMSTRM001_cov.jpg - image uploaded to Picamatic](https://web.archive.org/web/20120608213430im_/http://www.comicbookresources.com/assets/phpThumb/phpThumb.php?src=/assets/images/preview/2311/prv2311_cov.jpg&w=150 "TMSTRM001_cov.jpg")](http://www.comicbookresources.com/?page=preview&id=2311&disp=table)]]> О зеленой героине писалось уже [достаточно](../../blog/jongrey/intervyu-s-fredom-van-lente-o-novoy-she-hulk/).
 
 Пришло время увидеть полноценное превью, а заодно и оценить старания **Питера Вейла** *(Peter Vale)* на посту художника.
 

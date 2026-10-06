@@ -1,7 +1,10 @@
 {
   "title": "Битва за Капюшон продолжается...серьезно",
-  "date": "2009-05-10T02:21:00+03:00",
+  "date": "2009-05-10T01:21:59+03:00",
   "url": "/news/bitva-za-kapyushon-prodolzhaetsyaserezno/",
+  "aliases": [
+    "/node/1141/"
+  ],
   "original_url": "http://spidermedia.ru/news/bitva-za-kapyushon-prodolzhaetsyaserezno",
   "archived": "https://web.archive.org/web/20260123071817/http://spidermedia.ru/news/bitva-za-kapyushon-prodolzhaetsyaserezno",
   "tags": [
@@ -12,6 +15,12 @@
     "najtving",
     "tony-daniel",
     "dzhejson-todd"
+  ],
+  "cover": "https://web.archive.org/web/20260123071817im_/http://spidermedia.ru/assets/images/import_image/1141.jpg",
+  "modx_id": 1141,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,13 +1,21 @@
 {
   "title": "Первые фото Чарли Кокса со съемок «Сорвиголовы»",
-  "date": "2014-08-05T10:44:00+03:00",
+  "date": "2014-08-05T09:44:51+03:00",
   "url": "/news/pervye-foto-charli-koksa-so-semok-sorvigolovy/",
   "original_url": "http://spidermedia.ru/news/pervye-foto-charli-koksa-so-semok-sorvigolovy",
   "archived": "https://web.archive.org/web/20260115055806/http://spidermedia.ru/news/pervye-foto-charli-koksa-so-semok-sorvigolovy",
   "tags": [
     "charli-koks",
     "serialy",
-    "daredevil"
+    "daredevil",
+    "tv",
+    "sorvigolova"
+  ],
+  "cover": "https://web.archive.org/web/20150327041709im_/http://spidermedia.ru/assets/images/import_image/7958.jpg",
+  "modx_id": 7958,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "Арт из Battle for the Cowl",
-  "date": "2009-02-24T10:40:00+03:00",
+  "date": "2009-02-24T10:40:10+03:00",
   "url": "/news/art-iz-battle-cowl/",
+  "aliases": [
+    "/node/492/"
+  ],
   "original_url": "https://spidermedia.ru/news/art-iz-battle-cowl",
   "archived": "https://web.archive.org/web/20260211095139/https://spidermedia.ru/news/art-iz-battle-cowl",
   "tags": [
@@ -9,6 +12,12 @@
     "batman",
     "nightwing",
     "toni-deniel"
+  ],
+  "cover": "https://web.archive.org/web/20260211095139im_/http://spidermedia.ru/assets/images/import_image/492.jpg",
+  "modx_id": 492,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

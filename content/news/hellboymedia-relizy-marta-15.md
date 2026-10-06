@@ -1,11 +1,17 @@
 {
   "title": "Hellboymedia: Анонсы на Март ’15",
-  "date": "2014-12-12T16:42:00+03:00",
+  "date": "2014-12-12T16:42:49+03:00",
   "url": "/news/hellboymedia-relizy-marta-15/",
   "original_url": "https://spidermedia.ru/news/hellboymedia-relizy-marta-15",
   "archived": "https://web.archive.org/web/20250324173559/https://spidermedia.ru/news/hellboymedia-relizy-marta-15",
   "tags": [
     "hellboymedia"
+  ],
+  "cover": "https://web.archive.org/web/20160611212035im_/http://spidermedia.ru/assets/images/hellboymedia/solicitations/15-03-march/march-15-solicitations-cover.jpg",
+  "modx_id": 8370,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

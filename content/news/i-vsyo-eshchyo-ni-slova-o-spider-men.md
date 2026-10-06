@@ -1,6 +1,6 @@
 {
   "title": "И всё ещё ни слова о Spider-Men",
-  "date": "2012-03-17T04:44:00+03:00",
+  "date": "2012-03-17T03:44:43+03:00",
   "url": "/news/i-vsyo-eshchyo-ni-slova-o-spider-men/",
   "original_url": "http://spidermedia.ru/news/i-vsyo-eshchyo-ni-slova-o-spider-men",
   "archived": "https://web.archive.org/web/20251207000814/http://spidermedia.ru/news/i-vsyo-eshchyo-ni-slova-o-spider-men",
@@ -13,6 +13,12 @@
     "dzhuzeppe-kamunkoli",
     "yashher",
     "den-slott"
+  ],
+  "cover": "https://web.archive.org/web/20251207000814im_/http://spidermedia.ru/assets/images/import_image/6837.jpg",
+  "modx_id": 6837,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

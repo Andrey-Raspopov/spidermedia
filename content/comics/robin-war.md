@@ -7,7 +7,14 @@
   "tags": [
     "dc-comics",
     "san-diego-comic-con-international",
-    "robin"
+    "robin",
+    "sdcc2015"
+  ],
+  "cover": "https://web.archive.org/web/20250807224602im_/http://spidermedia.ru/assets/images/news/sdcc/2015/dc/batman-and-robin-eternal-cover-1-bcb3c.jpg",
+  "modx_id": 100347,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

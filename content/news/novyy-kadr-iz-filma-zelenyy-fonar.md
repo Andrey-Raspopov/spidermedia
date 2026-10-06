@@ -1,12 +1,18 @@
 {
   "title": "Новый кадр из фильма \"Зеленый Фонарь\"",
-  "date": "2011-01-19T17:24:00+03:00",
+  "date": "2011-01-19T17:24:31+03:00",
   "url": "/news/novyy-kadr-iz-filma-zelenyy-fonar/",
   "original_url": "https://spidermedia.ru/news/novyy-kadr-iz-filma-zelenyy-fonar",
   "archived": "https://web.archive.org/web/20260211182405/https://spidermedia.ru/news/novyy-kadr-iz-filma-zelenyy-fonar",
   "tags": [
     "green-lantern",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20260211182405im_/http://spidermedia.ru/assets/images/import_image/3177.jpg",
+  "modx_id": 3177,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

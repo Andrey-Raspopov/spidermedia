@@ -1,6 +1,6 @@
 {
   "title": "BatEmpire (ОБНОВЛЕНО)",
-  "date": "2011-11-20T11:36:00+03:00",
+  "date": "2011-11-20T10:36:07+03:00",
   "url": "/news/batempire/",
   "original_url": "http://spidermedia.ru/news/batempire",
   "archived": "https://web.archive.org/web/20250913023145/http://spidermedia.ru/news/batempire",
@@ -8,6 +8,12 @@
     "temnyj-rycar",
     "dark-knight-rises",
     "batman"
+  ],
+  "cover": "https://web.archive.org/web/20250913023145im_/http://spidermedia.ru/assets/images/import_image/6705.jpg",
+  "modx_id": 6705,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

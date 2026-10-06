@@ -8,6 +8,12 @@
     "komilfo",
     "russian-comics"
   ],
+  "cover": "https://web.archive.org/web/20240714190301im_/http://spidermedia.ru/assets/images/reviews/komilfo/roman/0b9ced7da9dc1f5a1769b3e43e7fd0ffd6f4f341.png",
+  "modx_id": 101520,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

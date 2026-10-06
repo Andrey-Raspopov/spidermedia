@@ -9,6 +9,12 @@
     "avengers",
     "hulk"
   ],
+  "cover": "https://web.archive.org/web/20260312014619im_/http://spidermedia.ru/assets/images/news/marvel/aven2017684-cov.jpg",
+  "modx_id": 101771,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

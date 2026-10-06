@@ -1,6 +1,6 @@
 {
   "title": "Инок пойдет на Берлин: Эксклюзивные подробности",
-  "date": "2015-03-02T13:39:00+03:00",
+  "date": "2015-03-02T13:39:24+03:00",
   "url": "/news/inok-poydet-na-berlin-eksklyuzivnye-podrobnosti-0/",
   "original_url": "https://spidermedia.ru/news/inok-poydet-na-berlin-eksklyuzivnye-podrobnosti-0",
   "archived": "https://web.archive.org/web/20250808205438/https://spidermedia.ru/news/inok-poydet-na-berlin-eksklyuzivnye-podrobnosti-0",
@@ -10,6 +10,12 @@
     "artem-gabrelyanov",
     "inok",
     "russian-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150315195745im_/http://spidermedia.ru/assets/images/import_image/8663.jpg",
+  "modx_id": 8663,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

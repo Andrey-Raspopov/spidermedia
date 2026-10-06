@@ -1,13 +1,21 @@
 {
   "title": "Блокбастер за $300",
-  "date": "2009-12-19T12:24:00+03:00",
+  "date": "2009-12-19T11:24:43+03:00",
   "url": "/blog/sterpazook/blokbaster-za-300/",
+  "aliases": [
+    "/node/2183/"
+  ],
   "original_url": "http://spidermedia.ru/blog/sterpazook/blokbaster-za-300",
   "archived": "https://web.archive.org/web/20120607193319/http://spidermedia.ru/blog/sterpazook/blokbaster-za-300",
   "tags": [
     "video",
     "kino",
     "roboty"
+  ],
+  "modx_id": 2183,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

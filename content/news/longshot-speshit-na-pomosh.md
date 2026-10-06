@@ -1,6 +1,6 @@
 {
   "title": "Лонгшот спешит на помошь",
-  "date": "2013-07-22T05:03:00+03:00",
+  "date": "2013-07-22T04:03:44+03:00",
   "url": "/news/longshot-speshit-na-pomosh/",
   "original_url": "http://spidermedia.ru/news/longshot-speshit-na-pomosh",
   "archived": "https://web.archive.org/web/20250808212245/http://spidermedia.ru/news/longshot-speshit-na-pomosh",
@@ -10,6 +10,12 @@
     "dzhakopo-kamani",
     "san-diego-comic-con-international",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20250808212245im_/http://spidermedia.ru/assets/images/import_image/7373.jpg",
+  "modx_id": 7373,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

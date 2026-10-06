@@ -1,13 +1,21 @@
 {
   "title": "\"Люди Икс: Дни минувшего будущего\": Голова Стража и Экранка футажа с Комик-Кона",
-  "date": "2013-08-14T11:50:00+03:00",
+  "date": "2013-08-14T10:50:00+03:00",
   "url": "/news/lyudi-iks-dni-minuvshego-budushchego-golova-strazha-i-ekranka-futazha-s-komik-kona/",
   "original_url": "http://spidermedia.ru/news/lyudi-iks-dni-minuvshego-budushchego-golova-strazha-i-ekranka-futazha-s-komik-kona",
   "archived": "https://web.archive.org/web/20250806235902/http://spidermedia.ru/news/lyudi-iks-dni-minuvshego-budushchego-golova-strazha-i-ekranka-futazha-s-komik-kona",
   "tags": [
     "marvel",
     "x-men",
-    "days-of-future-past"
+    "days-of-future-past",
+    "lyudi-iks",
+    "dni-minuvshego-budushhego"
+  ],
+  "cover": "https://web.archive.org/web/20250806235902im_/http://spidermedia.ru/assets/images/import_image/7419.jpg",
+  "modx_id": 7419,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

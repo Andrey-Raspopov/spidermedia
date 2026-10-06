@@ -1,13 +1,22 @@
 {
   "title": "Комиксы DC Universe. Выпуск № 16",
-  "date": "2009-07-24T21:11:00+03:00",
+  "date": "2009-07-24T20:11:52+03:00",
   "url": "/blog/derden/komiksy-dc-universe-vypusk-no-16/",
+  "aliases": [
+    "/node/1646/"
+  ],
   "original_url": "http://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-16",
   "archived": "https://web.archive.org/web/20260211182833/http://spidermedia.ru/blog/derden/komiksy-dc-universe-vypusk-no-16",
   "tags": [
     "dc-comics",
     "superman",
     "dc-universe-comics"
+  ],
+  "cover": "https://web.archive.org/web/20260211182833im_/http://spidermedia.ru/assets/images/import_image/1646.jpg",
+  "modx_id": 1646,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,12 +1,18 @@
 {
   "title": "Уоррен Эллис и Майкл Оллред создали комикс The Spirit of BACARD?",
-  "date": "2014-07-16T15:32:00+03:00",
+  "date": "2014-07-16T14:32:31+03:00",
   "url": "/news/uorren-ellis-i-maykl-ollred-sozdali-komiks-spirit-bacardi/",
   "original_url": "http://spidermedia.ru/news/uorren-ellis-i-maykl-ollred-sozdali-komiks-spirit-bacardi",
   "archived": "https://web.archive.org/web/20250512124557/http://spidermedia.ru/news/uorren-ellis-i-maykl-ollred-sozdali-komiks-spirit-bacardi",
   "tags": [
     "warren-ellis",
     "majk-ollred"
+  ],
+  "cover": "https://web.archive.org/web/20250512124557im_/http://spidermedia.ru/assets/images/import_image/7894.jpg",
+  "modx_id": 7894,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

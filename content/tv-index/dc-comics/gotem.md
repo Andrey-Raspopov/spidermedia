@@ -4,6 +4,9 @@
   "url": "/tv-index/dc-comics/gotem/",
   "original_url": "http://spidermedia.ru/tv-index/dc-comics/gotem",
   "archived": "https://web.archive.org/web/20260121002541/http://spidermedia.ru/tv-index/dc-comics/gotem",
+  "sources": [
+    "archive"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

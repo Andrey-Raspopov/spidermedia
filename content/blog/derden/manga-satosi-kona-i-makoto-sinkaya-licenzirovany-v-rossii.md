@@ -1,6 +1,6 @@
 {
   "title": "Манга Сатоси Кона и Макото Синкая лицензирована в России",
-  "date": "2014-10-06T12:56:00+03:00",
+  "date": "2014-10-06T11:56:41+03:00",
   "url": "/blog/derden/manga-satosi-kona-i-makoto-sinkaya-licenzirovany-v-rossii/",
   "original_url": "https://spidermedia.ru/blog/derden/manga-satosi-kona-i-makoto-sinkaya-licenzirovany-v-rossii",
   "archived": "https://web.archive.org/web/20251019001157/https://spidermedia.ru/blog/derden/manga-satosi-kona-i-makoto-sinkaya-licenzirovany-v-rossii",
@@ -9,6 +9,12 @@
     "manga",
     "makot-sinkaj",
     "istari-komiks"
+  ],
+  "cover": "https://web.archive.org/web/20160313151438im_/http://spidermedia.ru/assets/images/import_image/8137.jpg",
+  "modx_id": 8137,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

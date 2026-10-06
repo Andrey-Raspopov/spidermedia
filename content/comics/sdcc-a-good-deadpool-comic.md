@@ -7,7 +7,14 @@
   "tags": [
     "marvel",
     "san-diego-comic-con-international",
-    "deadpool"
+    "deadpool",
+    "sdcc2015"
+  ],
+  "cover": "https://web.archive.org/web/20180315032223im_/http://spidermedia.ru/assets/images/news/sdcc/2015/marvel/spider-man-deadpool-1-cover-9dc44.jpg",
+  "modx_id": 100367,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

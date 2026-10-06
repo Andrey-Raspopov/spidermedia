@@ -1,12 +1,18 @@
 {
   "title": "You will neverrr see him coming!",
-  "date": "2013-08-09T12:28:00+03:00",
+  "date": "2013-08-09T11:28:04+03:00",
   "url": "/blog/igrok/you-will-neverrr-see-him-coming/",
   "original_url": "http://spidermedia.ru/blog/igrok/you-will-neverrr-see-him-coming",
   "archived": "https://web.archive.org/web/20251216184547/http://spidermedia.ru/blog/igrok/you-will-neverrr-see-him-coming",
   "tags": [
     "figurki",
     "pop-skulptura"
+  ],
+  "cover": "https://web.archive.org/web/20150326220547im_/http://spidermedia.ru/assets/images/import_image/7412.jpg",
+  "modx_id": 7412,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

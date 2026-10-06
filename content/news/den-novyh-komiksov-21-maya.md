@@ -1,11 +1,17 @@
 {
   "title": "День новых комиксов: 21 мая",
-  "date": "2014-05-21T12:10:00+03:00",
+  "date": "2014-05-21T11:10:27+03:00",
   "url": "/news/den-novyh-komiksov-21-maya/",
   "original_url": "http://spidermedia.ru/news/den-novyh-komiksov-21-maya",
   "archived": "https://web.archive.org/web/20200127175345/http://spidermedia.ru:80/news/den-novyh-komiksov-21-maya",
   "tags": [
     "den-novyh-komiksov"
+  ],
+  "cover": "https://web.archive.org/web/20150425032637im_/http://spidermedia.ru/assets/images/import_image/7750.jpg",
+  "modx_id": 7750,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

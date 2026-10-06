@@ -8,6 +8,12 @@
     "marvel",
     "spider-man"
   ],
+  "cover": "https://web.archive.org/web/20250208103923im_/http://spidermedia.ru/assets/images/news/marvel/dead_no_more_combined.jpg",
+  "modx_id": 101040,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -7,7 +7,14 @@
   "tags": [
     "idw-publishing",
     "komik-kon-v-nyu-yorke",
-    "transformers"
+    "transformers",
+    "nycc-2015"
+  ],
+  "cover": "https://web.archive.org/web/20180205112144im_/http://spidermedia.ru/assets/images/comic-con/2015/nycc/idw/all-hail-optimus.jpg",
+  "modx_id": 100650,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

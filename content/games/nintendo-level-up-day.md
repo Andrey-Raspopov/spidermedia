@@ -4,6 +4,12 @@
   "url": "/games/nintendo-level-up-day/",
   "original_url": "http://spidermedia.ru/games/nintendo-level-up-day",
   "archived": "https://web.archive.org/web/20191001151051/http://spidermedia.ru:80/games/nintendo-level-up-day",
+  "cover": "https://web.archive.org/web/20170906085933im_/http://spidermedia.ru/assets/images/games/lud/01.jpg",
+  "modx_id": 100725,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

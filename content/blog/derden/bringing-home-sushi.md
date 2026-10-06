@@ -1,11 +1,18 @@
 {
   "title": "Bringing Home the Sushi",
-  "date": "2012-06-04T11:56:00+03:00",
+  "date": "2012-06-04T10:56:40+03:00",
   "url": "/blog/derden/bringing-home-sushi/",
   "original_url": "https://spidermedia.ru/blog/derden/bringing-home-sushi",
   "archived": "https://web.archive.org/web/20251211033549/https://spidermedia.ru/blog/derden/bringing-home-sushi",
   "tags": [
-    "manga"
+    "manga",
+    "manga-2"
+  ],
+  "cover": "https://web.archive.org/web/20251211033549im_/http://spidermedia.ru/assets/images/import_image/6917.jpg",
+  "modx_id": 6917,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

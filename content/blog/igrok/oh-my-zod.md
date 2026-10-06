@@ -1,12 +1,18 @@
 {
   "title": "OH MY ZOD",
-  "date": "2013-08-28T10:44:00+03:00",
+  "date": "2013-08-28T09:44:53+03:00",
   "url": "/blog/igrok/oh-my-zod/",
   "original_url": "https://spidermedia.ru/blog/igrok/oh-my-zod",
   "archived": "https://web.archive.org/web/20250806061516/https://spidermedia.ru/blog/igrok/oh-my-zod",
   "tags": [
     "figurki",
     "pop-skulptura"
+  ],
+  "cover": "https://web.archive.org/web/20150326221751im_/http://spidermedia.ru/assets/images/import_image/7439.jpg",
+  "modx_id": 7439,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

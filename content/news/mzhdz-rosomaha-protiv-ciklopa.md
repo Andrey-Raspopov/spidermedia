@@ -1,6 +1,6 @@
 {
   "title": "МЖДЗ: РОСОМАХА ПРОТИВ ЦИКЛОПА",
-  "date": "2011-11-03T16:28:00+03:00",
+  "date": "2011-11-03T15:28:53+03:00",
   "url": "/news/mzhdz-rosomaha-protiv-ciklopa/",
   "original_url": "http://spidermedia.ru/news/mzhdz-rosomaha-protiv-ciklopa",
   "archived": "https://web.archive.org/web/20251117001939/http://spidermedia.ru/news/mzhdz-rosomaha-protiv-ciklopa",
@@ -8,7 +8,14 @@
     "mnenie",
     "mzhdz",
     "x-men",
-    "marvel"
+    "marvel",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20160716094015im_/http://spidermedia.ru/assets/images/import_image/6683.png",
+  "modx_id": 6683,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

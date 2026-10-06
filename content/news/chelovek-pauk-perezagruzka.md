@@ -1,12 +1,21 @@
 {
   "title": "Человек-Паук: Перезагрузка!",
-  "date": "2010-01-12T02:31:00+03:00",
+  "date": "2010-01-12T02:31:50+03:00",
   "url": "/news/chelovek-pauk-perezagruzka/",
+  "aliases": [
+    "/node/2245/"
+  ],
   "original_url": "http://spidermedia.ru/news/chelovek-pauk-perezagruzka",
   "archived": "https://web.archive.org/web/20180524025421/http://spidermedia.ru:80/news/chelovek-pauk-perezagruzka",
   "tags": [
     "marvel",
     "spider-man"
+  ],
+  "cover": "https://web.archive.org/web/20180524025421im_/http://spidermedia.ru/assets/images/import_image/2245.gif",
+  "modx_id": 2245,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

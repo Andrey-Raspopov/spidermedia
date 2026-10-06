@@ -1,7 +1,10 @@
 {
   "title": "Messiah War - первый взгляд!",
-  "date": "2009-02-20T09:38:00+03:00",
+  "date": "2009-02-20T09:38:45+03:00",
   "url": "/news/messiah-war-pervyy-vzglyad/",
+  "aliases": [
+    "/node/452/"
+  ],
   "original_url": "http://spidermedia.ru/news/messiah-war-pervyy-vzglyad",
   "archived": "https://web.archive.org/web/20240617223219/http://spidermedia.ru/news/messiah-war-pervyy-vzglyad",
   "tags": [
@@ -9,7 +12,14 @@
     "marvel",
     "x-force",
     "cable",
-    "hope"
+    "hope",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20240617223219im_/http://spidermedia.ru/assets/images/import_image/452.jpg",
+  "modx_id": 452,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

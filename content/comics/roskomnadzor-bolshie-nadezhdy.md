@@ -9,6 +9,12 @@
     "roskomnadzor",
     "russian-comics"
   ],
+  "cover": "https://web.archive.org/web/20230608124143im_/http://spidermedia.ru/assets/images/roskomnadzor/07082015/jekf6_fwceo.jpg",
+  "modx_id": 100448,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,7 +1,10 @@
 {
   "title": "Руководство к \"Темнейшей Ночи\" - Часть пятая - Корпус Синестро (продолжение)",
-  "date": "2009-07-06T14:09:00+03:00",
+  "date": "2009-07-06T13:09:58+03:00",
   "url": "/blog/alex/rukovodstvo-k-temneyshey-nochi-chast-pyataya-korpus-sinestro-prodolzhenie/",
+  "aliases": [
+    "/node/1490/"
+  ],
   "original_url": "http://spidermedia.ru/blog/alex/rukovodstvo-k-temneyshey-nochi-chast-pyataya-korpus-sinestro-prodolzhenie",
   "archived": "https://web.archive.org/web/20250909141426/http://spidermedia.ru/blog/alex/rukovodstvo-k-temneyshey-nochi-chast-pyataya-korpus-sinestro-prodolzhenie",
   "tags": [
@@ -12,6 +15,12 @@
     "dc-comics",
     "blackest-night"
   ],
+  "cover": "https://web.archive.org/web/20250909141426im_/http://spidermedia.ru/assets/images/import_image/1490.png",
+  "modx_id": 1490,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
@@ -19,13 +28,13 @@
 Часть вторая главы второй руководства. Не устаю предупреждать о спойлерах, потому как сведения достаточно свежие включая самые последние номера.
 ![Blackest Night](https://web.archive.org/web/20250909141426im_/http://img.photobucket.com/albums/v497/spidermedia/alex_nexs/BN.png)Предыдущие части:
 
-- [Часть первая - Корпус Зеленых Фонарей](../../../node/316/)
-- [Часть вторая - Supporting cast](../../../node/428/)
-- [Часть третья - Корпус Зеленых Фонарей (дополнение)](../../../node/1465/)
-- [Часть четвертая - Корпус Синестро](../../../node/1477/)
+- [Часть первая - Корпус Зеленых Фонарей](../rukovodstvo-k-temneyshey-nochi-chast-pervaya-korpus-zelenyh-fonarey/)
+- [Часть вторая - Supporting cast](../rukovodstvo-k-temneyshey-nochi-chast-vtoraya-supporting-cast/)
+- [Часть третья - Корпус Зеленых Фонарей (дополнение)](../rukovodstvo-k-temneyshey-nochi-chast-tretya-korpus-zelenyh-fonarey-dopolnenie/)
+- [Часть четвертая - Корпус Синестро](../rukovodstvo-k-temneyshey-nochi-chast-chetvertaya-korpus-sinestro/)
 - **Часть пятая - Корпус Синестро (продолжение)**
-- [Часть шестая - Звездные Сапфиры и Красные Фонари](../../../node/1499/)
-- [Часть седьмая - Голубые Фонари, Агент Орандж, Племя Индиго и Черные Фонари](../../../node/1507/)
+- [Часть шестая - Звездные Сапфиры и Красные Фонари](../rukovodstvo-k-temneyshey-nochi-chast-shestaya-zvezdnye-sapfiry-i-krasnye-fonari/)
+- [Часть седьмая - Голубые Фонари, Агент Орандж, Племя Индиго и Черные Фонари](../rukovodstvo-k-temneyshey-nochi-chast-sedmaya-golubye-fonari-agent-orandzh-plemya-indigo-i/)
 
 **Мэнхантеры**
 

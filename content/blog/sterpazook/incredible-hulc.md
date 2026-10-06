@@ -1,7 +1,10 @@
 {
   "title": "The Incredible H.U.L.C.",
-  "date": "2009-09-09T14:23:00+03:00",
+  "date": "2009-09-09T13:23:17+03:00",
   "url": "/blog/sterpazook/incredible-hulc/",
+  "aliases": [
+    "/node/1885/"
+  ],
   "original_url": "http://spidermedia.ru/blog/sterpazook/incredible-hulc",
   "archived": "https://web.archive.org/web/20120607143608/http://spidermedia.ru/blog/sterpazook/incredible-hulc",
   "tags": [
@@ -9,6 +12,11 @@
     "video",
     "nauka",
     "novye-tehnologii"
+  ],
+  "modx_id": 1885,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

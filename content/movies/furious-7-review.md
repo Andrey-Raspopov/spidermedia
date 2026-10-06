@@ -7,6 +7,12 @@
   "tags": [
     "recenziya"
   ],
+  "cover": "https://web.archive.org/web/20251115040518im_/http://spidermedia.ru/assets/images/movies/other/furious-7.jpg",
+  "modx_id": 100145,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

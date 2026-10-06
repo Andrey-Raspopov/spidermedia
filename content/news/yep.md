@@ -1,6 +1,6 @@
 {
   "title": "Йеп",
-  "date": "2014-02-27T17:26:00+03:00",
+  "date": "2014-02-27T16:26:03+03:00",
   "url": "/news/yep/",
   "original_url": "https://spidermedia.ru/news/yep",
   "archived": "https://web.archive.org/web/20260214132844/https://spidermedia.ru/news/yep",
@@ -8,6 +8,12 @@
     "guardians-of-the-galaxy",
     "skotti-yang",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20260214132844im_/http://spidermedia.ru/assets/images/import_image/7661.jpg",
+  "modx_id": 7661,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

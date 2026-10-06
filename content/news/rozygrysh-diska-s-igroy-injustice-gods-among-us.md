@@ -1,6 +1,6 @@
 {
   "title": "Выиграй диск с игрой INJUSTICE: GODS AMONG US!",
-  "date": "2013-04-18T21:21:00+03:00",
+  "date": "2013-04-18T20:21:45+03:00",
   "url": "/news/rozygrysh-diska-s-igroy-injustice-gods-among-us/",
   "original_url": "https://spidermedia.ru/news/rozygrysh-diska-s-igroy-injustice-gods-among-us",
   "archived": "https://web.archive.org/web/20260215075408/https://spidermedia.ru/news/rozygrysh-diska-s-igroy-injustice-gods-among-us",
@@ -9,6 +9,12 @@
     "viktorina",
     "injustice",
     "konkurs"
+  ],
+  "cover": "https://web.archive.org/web/20150326100049im_/http://spidermedia.ru/assets/images/import_image/7212.jpg",
+  "modx_id": 7212,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

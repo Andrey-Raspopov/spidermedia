@@ -1,6 +1,6 @@
 {
   "title": "Новый Человек-Паук 2: Макс Диллон и Гарри Озборн (ФОТО)",
-  "date": "2013-04-22T12:24:00+03:00",
+  "date": "2013-04-22T11:24:30+03:00",
   "url": "/news/novyy-chelovek-pauk-2-maks-dillon-i-garri-ozborn-foto/",
   "original_url": "http://spidermedia.ru/news/novyy-chelovek-pauk-2-maks-dillon-i-garri-ozborn-foto",
   "archived": "https://web.archive.org/web/20130619034903/http://spidermedia.ru/news/novyy-chelovek-pauk-2-maks-dillon-i-garri-ozborn-foto",
@@ -9,7 +9,14 @@
     "kino",
     "marvel",
     "novyy-chelovek-pauk",
-    "chelovek-pauk"
+    "chelovek-pauk",
+    "spider-man"
+  ],
+  "cover": "https://web.archive.org/web/20130619034903im_/http://spidermedia.ru/assets/images/import_image/7220.jpg",
+  "modx_id": 7220,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

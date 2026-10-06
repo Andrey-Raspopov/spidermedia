@@ -8,6 +8,12 @@
     "hellboymedia",
     "novosti"
   ],
+  "cover": "https://web.archive.org/web/20160611203742im_/http://spidermedia.ru/assets/images/hellboymedia/news/the-hellboy-100-project-covers/the-hellboy-100-project-gallery-cover.jpg",
+  "modx_id": 100265,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

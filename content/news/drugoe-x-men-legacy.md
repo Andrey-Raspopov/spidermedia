@@ -11,7 +11,16 @@
     "art-0",
     "x-men",
     "mmxi",
-    "marvel"
+    "marvel",
+    "art",
+    "lyudi-iks",
+    "x-men-legacy"
+  ],
+  "cover": "https://web.archive.org/web/20260215073644im_/http://spidermedia.ru/assets/images/import_image/3683.jpg",
+  "modx_id": 3683,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

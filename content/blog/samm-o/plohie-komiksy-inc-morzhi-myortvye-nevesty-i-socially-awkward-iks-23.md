@@ -1,6 +1,6 @@
 {
   "title": "плохие комиксы Inc.: моржи, мёртвые невесты и socially awkward Икс-23",
-  "date": "2011-08-05T23:23:00+03:00",
+  "date": "2011-08-05T22:23:11+03:00",
   "url": "/blog/samm-o/plohie-komiksy-inc-morzhi-myortvye-nevesty-i-socially-awkward-iks-23/",
   "original_url": "http://spidermedia.ru/blog/samm-o/plohie-komiksy-inc-morzhi-myortvye-nevesty-i-socially-awkward-iks-23",
   "archived": "https://web.archive.org/web/20120610055035/http://spidermedia.ru/blog/samm-o/plohie-komiksy-inc-morzhi-myortvye-nevesty-i-socially-awkward-iks-23",
@@ -8,6 +8,12 @@
     "komiksy",
     "mnenie",
     "plohie-komiksy-inc"
+  ],
+  "cover": "https://web.archive.org/web/20120610055035im_/http://spidermedia.ru/assets/images/import_image/6549.jpg",
+  "modx_id": 6549,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

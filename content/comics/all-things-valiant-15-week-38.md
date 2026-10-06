@@ -5,17 +5,22 @@
   "original_url": "https://spidermedia.ru/comics/all-things-valiant-15-week-38",
   "archived": "https://web.archive.org/web/20260125055854/https://spidermedia.ru/comics/all-things-valiant-15-week-38",
   "tags": [
-    "valiant-entertainment"
+    "valiant-entertainment",
+    "all-things-valiant"
+  ],
+  "cover": "https://web.archive.org/web/20260125055854im_/http://spidermedia.ru/assets/images/valiant/images/atv15/cover-15c.jpg",
+  "modx_id": 100569,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![](http://spidermedia.ru/assets/cache/images/valiant/images/atv15/622x-cover-15c.2e9.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv15/cover-15c.jpg)
-
 Если на прошлой неделе мы прощались с Unity, то теперь пора расстаться с Иваром. Ivar, Timewalker #12 станет последним в серии. И если Unity «ушли в закат», не оставив после себя ничего, то завершение Ивара – предвестник возвращения Арчера и Армстронга. Что не так уж плохо, правда?
 
-**[Анонсы](./#solicitations) **•** [Рецензии](./#reviews)**
+**[Анонсы](#solicitations) **•** [Рецензии](#reviews)**
 
 В этом выпуске: Время Приключений! Во времени с Нилой и Иваром. В пространстве с Раем и Лемуром. По Колорадо с Рэем и Мэджик. А также долгожданное возвращение доктора Мираж.
 
@@ -27,7 +32,7 @@
 
 #### **The Death-Defying Dr. Mirage: Second Lives** #1
 
-[![](https://web.archive.org/web/20220315181741im_/http://spidermedia.ru/assets/cache/preview/100569/valiant/images/atv15/202x310-mirage-sec_001_cover-a_djurdjevic1.d4f.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv15/mirage-sec_001_cover-a_djurdjevic1.jpg) [![](https://web.archive.org/web/20220314035949im_/http://spidermedia.ru/assets/cache/preview/100569/valiant/images/atv15/202x310-mirage-sec_001_cover-b_wada1.d4f.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv15/mirage-sec_001_cover-b_wada1.jpg) [![](https://web.archive.org/web/20220314044615im_/http://spidermedia.ru/assets/cache/preview/100569/valiant/images/atv15/202x310-mirage-sec_001_cover-c_delatorre1.d4f.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv15/mirage-sec_001_cover-c_delatorre1.jpg)[![](https://web.archive.org/web/20220314054443im_/http://spidermedia.ru/assets/cache/preview/100569/valiant/images/atv15/202x310-mirage-sec_001_variant_evans1.d4f.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv15/mirage-sec_001_variant_evans1.jpg) [![](https://web.archive.org/web/20220314075120im_/http://spidermedia.ru/assets/cache/preview/100569/valiant/images/atv15/202x310-mirage-sec_001_variant_skelly1.d4f.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv15/mirage-sec_001_variant_skelly1.jpg) [![](https://web.archive.org/web/20220314041825im_/http://spidermedia.ru/assets/cache/preview/100569/valiant/images/atv15/199x310-mirage-sec_001_variant_coover1.955.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv15/mirage-sec_001_variant_coover1.jpg)Е. Кевич-Джурджевич **•** К. Вада **•** Р. Де Ла Торре **•** К. Эванс **•** К. Скелли **•** К. Кувер
+![](https://web.archive.org/web/20260125055854im_/http://spidermedia.ru/assets/images/valiant/images/atv15/mirage-sec_001_cover-a_djurdjevic1.jpg) ![](https://web.archive.org/web/20260125055854im_/http://spidermedia.ru/assets/images/valiant/images/atv15/mirage-sec_001_cover-b_wada1.jpg) ![](https://web.archive.org/web/20260125055854im_/http://spidermedia.ru/assets/images/valiant/images/atv15/mirage-sec_001_cover-c_delatorre1.jpg)![](https://web.archive.org/web/20260125055854im_/http://spidermedia.ru/assets/images/valiant/images/atv15/mirage-sec_001_variant_evans1.jpg) ![](https://web.archive.org/web/20260125055854im_/http://spidermedia.ru/assets/images/valiant/images/atv15/mirage-sec_001_variant_skelly1.jpg) ![](https://web.archive.org/web/20260125055854im_/http://spidermedia.ru/assets/images/valiant/images/atv15/mirage-sec_001_variant_coover1.jpg)Е. Кевич-Джурджевич **•** К. Вада **•** Р. Де Ла Торре **•** К. Эванс **•** К. Скелли **•** К. Кувер
 
 Сценарий: Джен Ван Метер 
 Рисунок: Роберто Де Ла Торре
@@ -38,7 +43,7 @@
 
 #### Ninjak #10
 
-[![](https://web.archive.org/web/20220314030811im_/http://spidermedia.ru/assets/cache/preview/100569/valiant/images/atv15/118x182-ninjak_010_cover-a_braithwaite1.86f.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv15/ninjak_010_cover-a_braithwaite1.jpg) [![](https://web.archive.org/web/20220315203356im_/http://spidermedia.ru/assets/cache/preview/100569/valiant/images/atv15/118x182-ninjak_010_cover-b_muller1.86f.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv15/ninjak_010_cover-b_muller1.jpg) [![](https://web.archive.org/web/20220314032105im_/http://spidermedia.ru/assets/cache/preview/100569/valiant/images/atv15/118x182-ninjak_010_cover-c_hairsine1.86f.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv15/ninjak_010_cover-c_hairsine1.jpg) [![](https://web.archive.org/web/20220314030210im_/http://spidermedia.ru/assets/cache/preview/100569/valiant/images/atv15/120x182-ninjak_010_variant_design-hairsine.3c5.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv15/ninjak_010_variant_design-hairsine.jpg) [![](https://web.archive.org/web/20220314052141im_/http://spidermedia.ru/assets/cache/preview/100569/valiant/images/atv15/121x182-ninjak_010_variant_johnson.26e.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv15/ninjak_010_variant_johnson.jpg)
+[![](https://web.archive.org/web/20260125055854im_/http://spidermedia.ru/assets/images/valiant/images/atv15/ninjak_010_cover-a_braithwaite1.jpg)](http://spidermedia.ru/assets/images/valiant/all-things-valiant-06-week-29/2_5-ninjak-8-cover_1.jpg) [![](https://web.archive.org/web/20260125055854im_/http://spidermedia.ru/assets/images/valiant/images/atv15/ninjak_010_cover-b_muller1.jpg)](http://spidermedia.ru/assets/images/valiant/all-things-valiant-06-week-29/2_5-ninjak-8-cover_2.jpg) [![](https://web.archive.org/web/20260125055854im_/http://spidermedia.ru/assets/images/valiant/images/atv15/ninjak_010_cover-c_hairsine1.jpg)](http://spidermedia.ru/assets/images/valiant/all-things-valiant-06-week-29/2_5-ninjak-8-cover_3.jpg) [![](https://web.archive.org/web/20260125055854im_/http://spidermedia.ru/assets/images/valiant/images/atv15/ninjak_010_variant_design-hairsine.jpg)](http://spidermedia.ru/assets/images/valiant/all-things-valiant-06-week-29/2_5-ninjak-8-cover_4.jpg) ![](https://web.archive.org/web/20260125055854im_/http://spidermedia.ru/assets/images/valiant/images/atv15/ninjak_010_variant_johnson.jpg)
 
 Дуг Брэйтвэйт **•** Том Мюллер **•** Трэвор Хэйрсин **•** Трэвор Хэйрсин **•**Дэйв Джонсон
 
@@ -50,7 +55,7 @@
 Цель их миссии была засекречена. Теперь, исчерпав все варианты, МИ-6 отправляет своего самого элитного агента — Ниндзяка — вместе с единственной свидетельницей тех роковых событий — Punk Mambo, специалистом в области оккультизма — в измерение под названием Deadside... чтобы вернуть пропавших товарищей.
 
 #### **Wrath of the Eternal Warrior** #2
-[![](https://web.archive.org/web/20220314053256im_/http://spidermedia.ru/assets/cache/preview/100569/valiant/images/atv15/120x184-wrath_002_cover-a_lafuente.703.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv15/wrath_002_cover-a_lafuente.jpg) [![](https://web.archive.org/web/20220314040837im_/http://spidermedia.ru/assets/cache/preview/100569/valiant/images/atv15/123x184-wrath_002_cover-b_allen.73b.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv15/wrath_002_cover-b_allen.jpg) [![](https://web.archive.org/web/20220314035743im_/http://spidermedia.ru/assets/cache/preview/100569/valiant/images/atv15/121x184-wrath_002_cover-c_martin.9bf.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv15/wrath_002_cover-c_martin.jpg) [![](https://web.archive.org/web/20220314042315im_/http://spidermedia.ru/assets/cache/preview/100569/valiant/images/atv15/121x184-wrath_002_variant_kano.9bf.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv15/wrath_002_variant_kano.jpg) [![](https://web.archive.org/web/20220314034045im_/http://spidermedia.ru/assets/cache/preview/100569/valiant/images/atv15/119x184-wrath_002_variant_pollina.afd.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv15/wrath_002_variant_pollina.jpg)
+![](https://web.archive.org/web/20260125055854im_/http://spidermedia.ru/assets/images/valiant/images/atv15/wrath_002_cover-a_lafuente.jpg) ![](https://web.archive.org/web/20260125055854im_/http://spidermedia.ru/assets/images/valiant/images/atv15/wrath_002_cover-b_allen.jpg) ![](https://web.archive.org/web/20260125055854im_/http://spidermedia.ru/assets/images/valiant/images/atv15/wrath_002_cover-c_martin.jpg) ![](https://web.archive.org/web/20260125055854im_/http://spidermedia.ru/assets/images/valiant/images/atv15/wrath_002_variant_kano.jpg) ![](https://web.archive.org/web/20260125055854im_/http://spidermedia.ru/assets/images/valiant/images/atv15/wrath_002_variant_pollina.jpg)
 
 Дэвид Лафуэнте ****•**** Рауль Аллен ****•**** Маркос Мартин ****•**** Кано ****•**** Адам Поллина
 
@@ -61,14 +66,14 @@
 
 #### Unity #25
 
-[![](https://web.archive.org/web/20220314032551im_/http://spidermedia.ru/assets/cache/preview/100569/valiant/images/atv14/151x232-unity_025_cover-a_kano.460.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv14/unity_025_cover-a_kano.jpg) [![](https://web.archive.org/web/20220314061816im_/http://spidermedia.ru/assets/cache/preview/100569/valiant/images/atv14/151x232-unity_025_cover-b_kindt.460.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv14/unity_025_cover-b_kindt.jpg) [![](https://web.archive.org/web/20220314031052im_/http://spidermedia.ru/assets/cache/preview/100569/valiant/images/atv14/151x232-unity_025_cover-c_hembeck.460.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv14/unity_025_cover-c_hembeck.jpg) [![](https://web.archive.org/web/20220314050507im_/http://spidermedia.ru/assets/cache/preview/100569/valiant/images/atv14/151x232-unity_025_cover-d_kupperman.460.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv14/unity_025_cover-d_kupperman.jpg)Кано **•** Мэтт Киндт **•** Фрэд Хембек **•** Майкл Купперман
+![](https://web.archive.org/web/20260125055854im_/http://spidermedia.ru/assets/images/valiant/images/atv14/unity_025_cover-a_kano.jpg) ![](https://web.archive.org/web/20260125055854im_/http://spidermedia.ru/assets/images/valiant/images/atv14/unity_025_cover-b_kindt.jpg) ![](https://web.archive.org/web/20260125055854im_/http://spidermedia.ru/assets/images/valiant/images/atv14/unity_025_cover-c_hembeck.jpg) ![](https://web.archive.org/web/20260125055854im_/http://spidermedia.ru/assets/images/valiant/images/atv14/unity_025_cover-d_kupperman.jpg)Кано **•** Мэтт Киндт **•** Фрэд Хембек **•** Майкл Купперман
 
 В преддверии событий «Книги Смерти» Unity распадается. Но прежде чем сказать «прощай», звездная команда соберется вновь, чтобы поведать самые невероятные истории, доселе неизвестные и слишком странные, чтобы в них поверить.
 
 Думали, Bloodshot присоединился к Unity только на время схватки с Armor Hunters? А вот и нет! Откройте для себя недавно рассекреченные миссии с его участием в составе команды! Вы видели, как Фэйт помогала Unity бороться с The United... теперь узнайте, как еще она помогала героям. Помните, как козел из Quantum and Woody присоединился к команде самых сильных героев вселенной Valiant? Нет? Ну а это было. Серьезно!
 
 #### X-O Manowar: Commander Trill #0
-[![](https://web.archive.org/web/20220314052446im_/http://spidermedia.ru/assets/cache/preview/100569/valiant/images/atv15/120x184-xo-trill_zero_cover-a_jimenez.703.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv15/xo-trill_zero_cover-a_jimenez.jpg) [![](https://web.archive.org/web/20220314031339im_/http://spidermedia.ru/assets/cache/preview/100569/valiant/images/atv15/119x184-xo-trill_zero_cover-b_nord.afd.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv15/xo-trill_zero_cover-b_nord.jpg) [![](https://web.archive.org/web/20220314054024im_/http://spidermedia.ru/assets/cache/preview/100569/valiant/images/atv15/369x184-xo-trill_zero_variant_lafuente.49d.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv15/xo-trill_zero_variant_lafuente.jpg)Фил Хименез **•** Кэри Норд **•** Дэвид Лафуэнте
+[![](https://web.archive.org/web/20260125055854im_/http://spidermedia.ru/assets/images/valiant/images/atv15/xo-trill_zero_cover-a_jimenez.jpg)](http://spidermedia.ru/assets/images/valiant/all-things-valiant-06-week-29/2_8-x-o-manowar-41-cover_1.jpg) [![](https://web.archive.org/web/20260125055854im_/http://spidermedia.ru/assets/images/valiant/images/atv15/xo-trill_zero_cover-b_nord.jpg)](http://spidermedia.ru/assets/images/valiant/all-things-valiant-06-week-29/2_8-x-o-manowar-41-cover_2.jpg) [![](https://web.archive.org/web/20260125055854im_/http://spidermedia.ru/assets/images/valiant/images/atv15/xo-trill_zero_variant_lafuente.jpg)](http://spidermedia.ru/assets/images/valiant/all-things-valiant-06-week-29/2_8-x-o-manowar-41-cover_3.jpg)Фил Хименез **•** Кэри Норд **•** Дэвид Лафуэнте
 
 Сценарий: Роберт Вендитти
 Рисунок: Фрэнсис Портела
@@ -77,7 +82,7 @@
 
 #### **Bloodshot Reborn** #9
 
-[![](https://web.archive.org/web/20220314051626im_/http://spidermedia.ru/assets/cache/preview/100569/valiant/images/atv15/120x184-bsrb_009_cover-a_suayan.703.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv15/bsrb_009_cover-a_suayan.jpg) [![](https://web.archive.org/web/20220314065235im_/http://spidermedia.ru/assets/cache/preview/100569/valiant/images/atv15/123x184-bsrb_009_cover-b_johnson.73b.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv15/bsrb_009_cover-b_johnson.jpg) [![](https://web.archive.org/web/20220314033954im_/http://spidermedia.ru/assets/cache/preview/100569/valiant/images/atv15/121x184-bsrb_009_cover-c_fabry.9bf.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv15/bsrb_009_cover-c_fabry.jpg) [![](https://web.archive.org/web/20220314032045im_/http://spidermedia.ru/assets/cache/preview/100569/valiant/images/atv15/121x184-bsrb_009_variant_gill.9bf.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv15/bsrb_009_variant_gill.jpg) [![](https://web.archive.org/web/20220314045841im_/http://spidermedia.ru/assets/cache/preview/100569/valiant/images/atv15/121x184-bsrb_009_variant_ryp.9bf.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv15/bsrb_009_variant_ryp.jpg)Мико Суаян **•** Дэйв Джонсон **•**Глен Фабри **•** Роберт Джилл **•** Хуан Хосе Рип
+![](https://web.archive.org/web/20260125055854im_/http://spidermedia.ru/assets/images/valiant/images/atv15/bsrb_009_cover-a_suayan.jpg) ![](https://web.archive.org/web/20260125055854im_/http://spidermedia.ru/assets/images/valiant/images/atv15/bsrb_009_cover-b_johnson.jpg) ![](https://web.archive.org/web/20260125055854im_/http://spidermedia.ru/assets/images/valiant/images/atv15/bsrb_009_cover-c_fabry.jpg) ![](https://web.archive.org/web/20260125055854im_/http://spidermedia.ru/assets/images/valiant/images/atv15/bsrb_009_variant_gill.jpg) ![](https://web.archive.org/web/20260125055854im_/http://spidermedia.ru/assets/images/valiant/images/atv15/bsrb_009_variant_ryp.jpg)Мико Суаян **•** Дэйв Джонсон **•**Глен Фабри **•** Роберт Джилл **•** Хуан Хосе Рип
 
 Сценарий: Джефф Лемир 
 Рисунок: Бутч Гайс
@@ -85,7 +90,7 @@
 Эпичная развязка сюжета «Охота». Рэй Гаррисон сталкивается лицом к лицу с инфицированным нанитами убийцей, сеявшим ужас в штате Колорадо.  Но сможет ли Рэй спустить курок, когда узнает личность своего врага? Или он поддастся темным голосам нанитов, грозящихся истребить в нем человечность раз и навсегда?
 
 #### Rai #12
-[![](https://web.archive.org/web/20220314035013im_/http://spidermedia.ru/assets/cache/preview/100569/valiant/images/atv15/151x232-rai_012_cover-a_crain.460.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv15/rai_012_cover-a_crain.jpg) [![](https://web.archive.org/web/20220314083250im_/http://spidermedia.ru/assets/cache/preview/100569/valiant/images/atv15/150x232-rai_012_cover-b_crain.97f.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv15/rai_012_cover-b_crain.jpg) [![](https://web.archive.org/web/20220314053255im_/http://spidermedia.ru/assets/cache/preview/100569/valiant/images/atv15/150x232-rai_012_cover-c_sook.97f.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv15/rai_012_cover-c_sook.jpg) [![](https://web.archive.org/web/20220314034201im_/http://spidermedia.ru/assets/cache/preview/100569/valiant/images/atv15/153x232-rai_012_variant_lee.9fd.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv15/rai_012_variant_lee.jpg)Клэйтон Крэйн ****•**** Клэйтон Крэйн ****•**** Райан Сук ****•**** Райан Ли
+![](https://web.archive.org/web/20260125055854im_/http://spidermedia.ru/assets/images/valiant/images/atv15/rai_012_cover-a_crain.jpg) ![](https://web.archive.org/web/20260125055854im_/http://spidermedia.ru/assets/images/valiant/images/atv15/rai_012_cover-b_crain.jpg) ![](https://web.archive.org/web/20260125055854im_/http://spidermedia.ru/assets/images/valiant/images/atv15/rai_012_cover-c_sook.jpg) ![](https://web.archive.org/web/20260125055854im_/http://spidermedia.ru/assets/images/valiant/images/atv15/rai_012_variant_lee.jpg)Клэйтон Крэйн ****•**** Клэйтон Крэйн ****•**** Райан Сук ****•**** Райан Ли
 
 Сценарий: Мэтт Киндт
 Рисунок: Клэйтон Крэйн
@@ -94,7 +99,7 @@
 
 #### Ivar, Timewalker #12
 
-[![](https://web.archive.org/web/20220314034753im_/http://spidermedia.ru/assets/cache/preview/100569/valiant/images/atv15/204x310-ivar_012_cover-a_allen.715.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv15/ivar_012_cover-a_allen.jpg) [![](https://web.archive.org/web/20220314033052im_/http://spidermedia.ru/assets/cache/preview/100569/valiant/images/atv15/203x310-ivar_012_cover-b_bensler.80b.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv15/ivar_012_cover-b_bensler.jpg) [![](https://web.archive.org/web/20220314034004im_/http://spidermedia.ru/assets/cache/preview/100569/valiant/images/atv15/204x310-ivar_012_variant_kano.715.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv15/ivar_012_variant_kano.jpg)Рауль Аллен **•** Каролина Бенслер **•** Кано
+[![](https://web.archive.org/web/20260125055854im_/http://spidermedia.ru/assets/images/valiant/images/atv15/ivar_012_cover-a_allen.jpg)](http://spidermedia.ru/assets/images/valiant/all-things-valiant-06-week-29/2_10-ivar-timewalker-10-cover_1.jpg) [![](https://web.archive.org/web/20260125055854im_/http://spidermedia.ru/assets/images/valiant/images/atv15/ivar_012_cover-b_bensler.jpg)](http://spidermedia.ru/assets/images/valiant/all-things-valiant-06-week-29/2_10-ivar-timewalker-10-cover_2.jpg) [![](https://web.archive.org/web/20260125055854im_/http://spidermedia.ru/assets/images/valiant/images/atv15/ivar_012_variant_kano.jpg)](http://spidermedia.ru/assets/images/valiant/all-things-valiant-06-week-29/2_10-ivar-timewalker-10-cover_3.jpg)Рауль Аллен **•** Каролина Бенслер **•** Кано
 
 Сценарий: Фред Ван Ленте
 Рисунок: Пере Перез
@@ -105,7 +110,7 @@
 
 #### Imperium #11
 
-[![](https://web.archive.org/web/20220314081450im_/http://spidermedia.ru/assets/cache/preview/100569/valiant/images/atv15/200x308-imperium_011_cover-a_cafu.e04.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv15/imperium_011_cover-a_cafu.jpg) [![](https://web.archive.org/web/20220314030737im_/http://spidermedia.ru/assets/cache/preview/100569/valiant/images/atv15/210x308-imperium_011_cover-b_bernard.d8b.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv15/imperium_011_cover-b_bernard.jpg) [![](https://web.archive.org/web/20220314050526im_/http://spidermedia.ru/assets/cache/preview/100569/valiant/images/atv15/203x308-imperium_011_variant_walsh.b41.jpg)](http://spidermedia.ru/assets/images/valiant/images/atv15/imperium_011_variant_walsh.jpg)КАФУ **•** Диего Бернард **•** Майкл Уолш
+[![](https://web.archive.org/web/20260125055854im_/http://spidermedia.ru/assets/images/valiant/images/atv15/imperium_011_cover-a_cafu.jpg)](http://spidermedia.ru/assets/images/valiant/all-things-valiant-06-week-29/2_6-imperium-9-cover_1.jpg) [![](https://web.archive.org/web/20260125055854im_/http://spidermedia.ru/assets/images/valiant/images/atv15/imperium_011_cover-b_bernard.jpg)](http://spidermedia.ru/assets/images/valiant/all-things-valiant-06-week-29/2_6-imperium-9-cover_2.jpg) [![](https://web.archive.org/web/20260125055854im_/http://spidermedia.ru/assets/images/valiant/images/atv15/imperium_011_variant_walsh.jpg)](http://spidermedia.ru/assets/images/valiant/all-things-valiant-06-week-29/2_6-imperium-9-cover_3.jpg)КАФУ **•** Диего Бернард **•** Майкл Уолш
 
 Сценарий: Джошуа Дизарт
 Рисунок: КАФУ
@@ -119,3 +124,61 @@
 **ЧТО МЫ ПРОЧИТАЛИ**
 
 ---
+
+a:3:{i:1;a:7:{s:5:"autor";a:3:{i:1;a:2:{i:0;s:16:"Сценарий";i:1;s:21:"Джефф Лемир";}i:3;a:2:{i:0;s:14:"Рисунок";i:1;s:17:"Бутч Гайс";}i:5;a:2:{i:0;s:8:"Цвет";i:1;s:21:"Дэвид Барон";}}s:4:"name";s:16:"Bloodshot Reborn";s:7:"edition";s:2:"#6";s:5:"cover";s:64:"assets/images/valiant/images/atv15/bloodshot-reborn-06-cover.jpg";s:9:"publisher";s:4:"1249";s:4:"year";s:4:"2015";s:8:"comments";a:1:{i:1;a:4:{s:5:"autor";s:6:"183731";s:4:"text";s:4749:"
+
+Для серии с названием Bloodshot данный выпуск был на удивление бескровным. И это здорово!
+
+Весь номер – это одна сплошная филигранная работа с персонажами. Под пером Лемира герои, замкнутые в решетку комикса, смеются, плачут, но главное живут. И пока сценарист работает над их характерами, сами персонажи работают над своими взаимоотношениями. Агент Фестиваль и агент Хойт выясняют отношения, а у Рэя Гаррисона, Бладшота и Мэджик развивается любовная линия.
+
+![](https://web.archive.org/web/20260125055854im_/http://spidermedia.ru/assets/images/valiant/images/atv15/atv-15-bloodshot-reborn-10-review-image-1.jpg)
+
+Интересно то, что все связанное с Мэджик, точнее с будущей историей ее отношений с Бладшотом, предсказывается. Намеками и прямым текстом нам говорят о тех ситуациях, которые только предстоит пережить паре. Эта манера подачи отношений кардинально отличается от способа развития любовной линии Рэйя и Кей в The Valiant. Да, Мэджик тоже прописывается сценаристом как живой человек, но весь этот намеренно-искусственный и навязанный шиппинг ее и Рэя создает у читателя ощущение дискомфорта. Эти описание «единственной и последней любви» сразу после смерти и периода навязчивых галлюцинаций прошлой «единственной и последней любви» заставляют усомниться в реальности Мэджик. Не помогает избавиться от паранойи и тот факт, что девушка не взаимодействует ни с кем, кроме Бладшота (убийство своего бойфренда не в счет, его мог пришить и Рэй, спихнув это дело на галлюцинацию.).
+
+![](https://web.archive.org/web/20260125055854im_/http://spidermedia.ru/assets/images/valiant/images/atv15/atv-15-bloodshot-reborn-10-review-image-2.jpg)
+
+Переход от излишне детализованного рисунка Мико Суаян к аскетично-нуарному стилю Бутча Гайса прошел спокойно. Остались на месте густые тени и фетишизация складок одежды. Главное, художнику отлично удается поставить тягучую атмосферу: все эти тяжелые взгляды со страниц в душу читателя, ассиметричная композиция в тревожных сценах. Хотя и в спокойных обстановке Гайс держится уверено, выдавая убедительную лицевую игру персонажей.
+
+Удачно играет цветами и Дэвид Барон: где надо добавляет саспенса красным цветом, а когда требуется разрядка после чувственной сцены, он заливает страницы яркой солнечной краской.
+
+Казалось бы, начался новый арк, и новичкам смело можно браться за чтение серии с 6 номера. Но, если вы принялись за тайтл, не прочитав The Valiant и прошлые 5 номеров Bloodshot Reborn, то большая часть нюансов отношений Рэя и Мэджик от вас ускользнет. А в серии, которая полностью стоит на взаимодействии персонажей, подобный пробел рискует испортить вам удовольствие от чтения. Ах, да. В этот раз парад невероятно бессовестных клиффхэнгеров не продолжается, но нас ждет лучшая постельная сцена после «Жуя» №9.
+
+";s:8:"mjdzText";s:0:"";s:10:"conclusion";s:10:"ДОБРО";}}}i:2;a:7:{s:5:"autor";a:3:{i:1;a:2:{i:0;s:16:"Сценарий";i:1;s:26:"Фред Ван Ленте";}i:3;a:2:{i:0;s:14:"Рисунок";i:1;s:19:"Пере Перез";}i:5;a:2:{i:0;s:8:"Цвет";i:1;s:25:"Эндрю Долхауз";}}s:4:"name";s:16:"Ivar, Timewalker";s:7:"edition";s:2:"#9";s:5:"cover";s:63:"assets/images/valiant/images/atv15/ivar-timewalker-09-cover.jpg";s:9:"publisher";s:4:"1249";s:4:"year";s:4:"2015";s:8:"comments";a:1:{i:1;a:4:{s:5:"autor";s:6:"183732";s:4:"text";s:5680:"
+
+Прежде чем переходить непосредственно к рецензии на комикс, я хочу задать один вопрос. Могу ли я шутить про «Доктора Кто», если я его не смотрел?.. Нет? А, ну ладно. Тогда переходим к Neela Ivar, Timewalker #9.
+
+![](https://web.archive.org/web/20260125055854im_/http://spidermedia.ru/assets/images/valiant/images/atv15/ivar-timewalker-09-image-01.jpg)
+
+*Come with me, if you want to live*
+
+После трагедии на Oblivi-1 Нила отправляется свозь пространство и время, чтобы остановить свою злую копию. А кто лучше всех поможет разобраться во всех перипетиях подобных путешествий, как не Ивар? Но старший из братьев Анни-Падда мертв. Поэтому Нила принимает единственно верное решение: вернуться в прошлое и встретиться с молодым Иваром.
+
+После откровенно скучного [прошлого](../all-things-valiant-07-week-30/#item2) [арка](../all-things-valiant-11-week-34/#item2) комиксу была необходима встряска, и смена ролей «наставника» и «ученика» оказалась идеальным решением. Данный выпуск — своеобразный ремикс первого номера серии: умудренная опытом Нила ведет Ивара через множество временных арок, а попутно рассказывая о сложности устройства пространства-времени. И если она в свое время была [растеряна](http://spidermedia.ru/assets/images/valiant/files/atv15/ivar-timewalker-09-image-02.jpg), то Ивар сохраняет [хладнокровие](http://spidermedia.ru/assets/images/valiant/files/atv15/ivar-timewalker-09-image-03.jpg) и даже берет ситуацию [в свои руки](http://spidermedia.ru/assets/images/valiant/files/atv15/ivar-timewalker-09-image-04.jpg). И вновь происходит смена ролей — Ивар опять главный. Двойная смена статуса-кво за один выпуск. Неплохо, правда?
+
+А еще прибавьте к этому непростую романтическую линию. Нила снова вместе с Иваром, только это совсем не тот Ивар, в которого она влюбилась. И любил ли тот Ивар Нилу, или только ее злодейскую версию? В общем, за отношениями персонажей наблюдать не менее интересно, чем за безумными альтернативными вселенными.
+
+![](https://web.archive.org/web/20260125055854im_/http://spidermedia.ru/assets/images/valiant/images/atv15/ivar-timewalker-09-image-02.jpg)
+
+*Вот как не любить этот комикс?*
+
+Теперь о рисунке. Лично у меня Фред Ван Ленте ассоциируется, в основном, с Клэйтоном Хенри. Художник и сценарист отлично чувствуют друг друга, выдавая вместе прекрасную работу. Поэтому было приятно увидеть Хенри в этом номере (пусть это лишь «повторюшка» из Archer & Armstrong #1). Здесь же есть Пере Перез, который ничуть ему не уступает. Перез в свое время тоже иллюстрировал Archer & Armstrong, а именно сюжет «Far Faraway» (пожалуй, лучший в ране), который во многом напоминает текущий арк Timewalker’а. Рисунок у художника приятный, присутствуют интересные решения в расстановке панелей. Меня покоробил лишь вот этот [фрейм](http://spidermedia.ru/assets/images/valiant/files/atv15/ivar-timewalker-09-image-06.jpg). Ивар, что у тебя с лицом?
+
+Новый выпуск Ivar, Timewalker — отличный комикс. Здесь есть все то, за что мы полюбили эту серию (и Арчера с Армстронгом, кстати, тоже) — веселое безумие и динамика между персонажами. Можно смело пропускать «Breaking History» и скорее переходить к «Ending History».
+
+";s:8:"mjdzText";s:0:"";s:10:"conclusion";s:10:"ДОБРО";}}}i:3;a:7:{s:5:"autor";a:2:{i:1;a:2:{i:0;s:16:"Сценарий";i:1;s:19:"Мэтт Киндт";}i:3;a:2:{i:0;s:14:"Рисунок";i:1;s:25:"Клэйтон Крэйн";}}s:4:"name";s:3:"Rai";s:7:"edition";s:3:"#10";s:5:"cover";s:51:"assets/images/valiant/images/atv15/rai-10-cover.jpg";s:9:"publisher";s:4:"1249";s:4:"year";s:4:"2015";s:8:"comments";a:1:{i:1;a:4:{s:5:"autor";s:6:"183731";s:4:"text";s:4943:"
+
+Мэтт Киндт не стал изобретать велосипед и предложил вместо завязки третьего акта улучшенный пролог второго. Посудите сами: Рай на Земле занят поисками могучего воина, способного помочь свергнуть Отца (во втором арке этим страдал Спайлок), в Новой Японии вновь наметились две армии, готовые дать отпор тирану. А Момо, как и раньше, отправляется заручаться поддержкой шестируких пришельцев. И только ОЯШ, ой, простите, Обычная Ново-Японская Школьница Лула делает что-то оригинальное: спасает очередного бисёнена.
+
+![](https://web.archive.org/web/20260125055854im_/http://spidermedia.ru/assets/images/valiant/images/atv15/atv-15-rai-10-review-image-1.jpg)
+
+Но, несмотря на вторичность, в этом номере «Рая» была решена основная проблема серии – несоответствие сеттинга и истории. С самого начала сеттинг отличался богатой проработкой и обширной мифологией. И при всем многообразии сюжетов, который предоставляет система секторов Новой Японии, фокус в серии был сделан на историю Рая. И эта история камерной разборки «отцов и детей», сдобренная вопрошанием «тварь ли я дрожащая или право имею», смотрится несколько чужеродно на фоне бронтозавров с пушками и попыток свергнут революционным путем злобный ИИ. Проблема была решена радикально – главного героя переместили в новую локацию, сменив тональность повествования, и выдали ему стильный черный плащ.
+
+И черный плащ помог. Если в первой половине Рай все еще старательно описывает собственное эмоциональное состояние, то во второй all-new all-different Рай в новом луке отправляется с внебрачным сыном Ходора и Росомахи в «Путешествие на Запад». Но главное, наш герой наконец-то думает, а не предается бесконечной меланхоличной рефлексии.
+
+![](https://web.archive.org/web/20260125055854im_/http://spidermedia.ru/assets/images/valiant/images/atv15/atv-15-rai-10-review-image-2.jpg)
+
+Клэйтон Крэйн в своем репертуаре. Раскосые окостеневшие маски-лица безуспешно изображают эмоции на фоне перегруженных деталями задников. Фирменная раскадровка под голографические экраны придает страницам динамичности, но создает ощущение кучности. А тусклые маслянистые цвета, несдержанные контуром, выдают картинку, на которую приятно смотреть, но из-за этого тяжело сфокусироваться на отдельных фреймах.
+
+Хотя, преданные читатели, следящие за приключениями Рая с первого номера, и будут разочарованны воспроизведением формулы прошлого арка, новички вполне могут начать читать серию с этого номера. Все, что случилось в прошлом выпуске, повторяют в рекапе, завязываются несколько параллельных сюжетных линий, а герои берутся за квесты. И это было бы отлично, будь этот номер началом арка, но это уже вторая часть сюжета. Возникает опасение, что в декабре [история так же резко схлопнется, ощетинившись вопросами о последовательности, как это уже было](../all-things-valiant-april-2015/#item2).
+
+";s:8:"mjdzText";s:0:"";s:10:"conclusion";s:8:"ЖИЖА";}}}}

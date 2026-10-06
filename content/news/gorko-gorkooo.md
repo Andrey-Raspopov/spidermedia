@@ -1,7 +1,10 @@
 {
   "title": "Горько! Горькооо!",
-  "date": "2009-06-03T22:28:00+03:00",
+  "date": "2009-06-03T21:28:05+03:00",
   "url": "/news/gorko-gorkooo/",
+  "aliases": [
+    "/node/1345/"
+  ],
   "original_url": "http://spidermedia.ru/news/gorko-gorkooo",
   "archived": "https://web.archive.org/web/20120608123237/http://spidermedia.ru/news/gorko-gorkooo",
   "tags": [
@@ -14,7 +17,14 @@
     "den-slott",
     "komiksy",
     "oblozhki",
-    "chelovek-pauk"
+    "chelovek-pauk",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20120608123237im_/http://spidermedia.ru/assets/images/import_image/1345.jpg",
+  "modx_id": 1345,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"
@@ -24,6 +34,6 @@
 
 ]]>[![](https://web.archive.org/web/20120608123237im_/http://i034.radikal.ru/0906/f7/402ea6afc321.jpg)](http://marvel.com/i/content/st/7974new_storyimage1803922.jpg)]]>
 
-Даже если вы не **Питер Паркер** *(Peter Parker)*, вам стоит помнить, что в [июле](../../node/1006/) выходит юбилейный **Amazing Spider-Man**! Шестисотый номер несет в себе кучу всего интересного: от главного сюжета с возращением **Доктора Осьминога** *(Doctor Octopus)* и подводки к свадьбе, вероятно, **Мэй Паркер** и **Джей Джоны Джеймсона старшего** *(May Parker & J. Jonah Jameson, Sr)*, до появления **Дардевила** *(Daredevil)* и большого количества разнообразных историй от авторов всех мастей и расцветок. В общем, не пропустите 104 страницы паучьего счастья, релиз намечен на **15 июля**.
+Даже если вы не **Питер Паркер** *(Peter Parker)*, вам стоит помнить, что в [июле](../brand-new-day-iyul-2009/) выходит юбилейный **Amazing Spider-Man**! Шестисотый номер несет в себе кучу всего интересного: от главного сюжета с возращением **Доктора Осьминога** *(Doctor Octopus)* и подводки к свадьбе, вероятно, **Мэй Паркер** и **Джей Джоны Джеймсона старшего** *(May Parker & J. Jonah Jameson, Sr)*, до появления **Дардевила** *(Daredevil)* и большого количества разнообразных историй от авторов всех мастей и расцветок. В общем, не пропустите 104 страницы паучьего счастья, релиз намечен на **15 июля**.
 
 Поделиться:

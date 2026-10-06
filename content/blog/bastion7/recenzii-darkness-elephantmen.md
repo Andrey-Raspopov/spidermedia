@@ -1,6 +1,6 @@
 {
   "title": "рецензии - The Darkness & Elephantmen",
-  "date": "2009-02-06T21:44:00+03:00",
+  "date": "2009-02-06T21:44:38+03:00",
   "url": "/blog/bastion7/recenzii-darkness-elephantmen/",
   "original_url": "https://spidermedia.ru/blog/bastion7/recenzii-darkness-elephantmen",
   "archived": "https://web.archive.org/web/20250324170230/https://spidermedia.ru/blog/bastion7/recenzii-darkness-elephantmen",
@@ -13,6 +13,12 @@
     "pol-dzhenkins",
     "mark-silvestri",
     "ron-marc"
+  ],
+  "cover": "https://web.archive.org/web/20250324170230im_/http://spidermedia.ru/assets/images/import_image/235.jpg",
+  "modx_id": 235,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

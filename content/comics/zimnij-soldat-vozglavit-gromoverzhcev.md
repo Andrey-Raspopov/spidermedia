@@ -8,6 +8,12 @@
     "marvel",
     "thunderbolts"
   ],
+  "cover": "https://web.archive.org/web/20160611144125im_/http://spidermedia.ru/assets/images/news/marvel/thunderbolts/thunderbolts-2016-01.jpg",
+  "modx_id": 100841,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

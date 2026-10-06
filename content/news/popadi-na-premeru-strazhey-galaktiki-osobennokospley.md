@@ -1,12 +1,18 @@
 {
   "title": "ПОПАДИ НА ПРЕМЬЕРУ «СТРАЖЕЙ ГАЛАКТИКИ»! #особеннокосплей",
-  "date": "2014-07-16T13:52:00+03:00",
+  "date": "2014-07-16T12:52:46+03:00",
   "url": "/news/popadi-na-premeru-strazhey-galaktiki-osobennokospley/",
   "original_url": "https://spidermedia.ru/news/popadi-na-premeru-strazhey-galaktiki-osobennokospley",
   "archived": "https://web.archive.org/web/20260215082337/https://spidermedia.ru/news/popadi-na-premeru-strazhey-galaktiki-osobennokospley",
   "tags": [
     "guardians-of-the-galaxy",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150424090424im_/http://spidermedia.ru/assets/images/import_image/7890.jpg",
+  "modx_id": 7890,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -8,6 +8,12 @@
     "parallel-comics",
     "russian-comics"
   ],
+  "cover": "https://web.archive.org/web/20250419054827im_/http://spidermedia.ru/assets/images/reviews/parallel/dissonans/mozaika.jpg",
+  "modx_id": 101793,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

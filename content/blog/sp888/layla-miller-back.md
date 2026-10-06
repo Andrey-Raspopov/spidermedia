@@ -13,6 +13,9 @@
     "layla-govorit",
     "piter-devid"
   ],
+  "sources": [
+    "archive"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

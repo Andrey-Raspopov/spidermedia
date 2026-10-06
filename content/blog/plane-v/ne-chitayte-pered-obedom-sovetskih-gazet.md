@@ -1,6 +1,6 @@
 {
   "title": "Не читайте перед обедом советских газет",
-  "date": "2011-02-07T18:55:00+03:00",
+  "date": "2011-02-07T18:55:59+03:00",
   "url": "/blog/plane-v/ne-chitayte-pered-obedom-sovetskih-gazet/",
   "original_url": "https://spidermedia.ru/blog/plane-v/ne-chitayte-pered-obedom-sovetskih-gazet",
   "archived": "https://web.archive.org/web/20251006135141/https://spidermedia.ru/blog/plane-v/ne-chitayte-pered-obedom-sovetskih-gazet",
@@ -8,6 +8,12 @@
     "mark-millar",
     "ilya-stogov",
     "alan-mur"
+  ],
+  "cover": "https://web.archive.org/web/20251006135141im_/http://spidermedia.ru/assets/images/import_image/3225.jpg",
+  "modx_id": 3225,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

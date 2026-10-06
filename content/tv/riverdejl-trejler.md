@@ -7,6 +7,12 @@
   "tags": [
     "archie-comics"
   ],
+  "cover": "https://web.archive.org/web/20260215084223im_/http://spidermedia.ru/assets/images/tv/riverdale/riverdale.jpg",
+  "modx_id": 101160,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

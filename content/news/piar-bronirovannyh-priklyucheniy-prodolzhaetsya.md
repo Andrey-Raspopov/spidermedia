@@ -1,13 +1,19 @@
 {
   "title": "Пиар Бронированных Приключений продолжается",
-  "date": "2009-03-19T02:11:00+03:00",
+  "date": "2009-03-19T02:11:54+03:00",
   "url": "/news/piar-bronirovannyh-priklyucheniy-prodolzhaetsya/",
   "original_url": "http://spidermedia.ru/news/piar-bronirovannyh-priklyucheniy-prodolzhaetsya",
   "archived": "https://web.archive.org/web/20251014042505/http://spidermedia.ru/news/piar-bronirovannyh-priklyucheniy-prodolzhaetsya",
   "tags": [
     "marvel",
     "iron-man",
-    "animaciya"
+    "animaciya",
+    "zheleznyy-chelovek"
+  ],
+  "modx_id": 713,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

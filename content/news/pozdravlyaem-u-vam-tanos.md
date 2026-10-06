@@ -1,6 +1,6 @@
 {
   "title": "Поздравляем, у вас Танос",
-  "date": "2013-01-17T04:15:00+03:00",
+  "date": "2013-01-17T03:15:36+03:00",
   "url": "/news/pozdravlyaem-u-vam-tanos/",
   "original_url": "https://spidermedia.ru/news/pozdravlyaem-u-vam-tanos",
   "archived": "https://web.archive.org/web/20251107030021/https://spidermedia.ru/news/pozdravlyaem-u-vam-tanos",
@@ -10,6 +10,12 @@
     "dzheyson-aaron",
     "thanos",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20251107030021im_/http://spidermedia.ru/assets/images/import_image/7120.jpg",
+  "modx_id": 7120,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

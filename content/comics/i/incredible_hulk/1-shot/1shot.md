@@ -4,6 +4,9 @@
   "url": "/comics/i/incredible_hulk/1-shot/1shot/",
   "original_url": "http://www.spidermedia.ru/comics/i/incredible_hulk/1-shot/1shot.html",
   "archived": "https://web.archive.org/web/20050307042112/http://www.spidermedia.ru:80/comics/i/incredible_hulk/1-shot/1shot.html",
+  "sources": [
+    "archive"
+  ],
   "template": "static",
   "source_encoding": "windows-1251"
 }

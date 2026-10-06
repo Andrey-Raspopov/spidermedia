@@ -1,6 +1,6 @@
 {
   "title": "Bat In The Sun",
-  "date": "2012-08-03T13:58:00+03:00",
+  "date": "2012-08-03T12:58:13+03:00",
   "url": "/blog/sterpazook/bat-sun/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/bat-sun",
   "archived": "https://web.archive.org/web/20250806233037/http://spidermedia.ru/blog/sterpazook/bat-sun",
@@ -8,6 +8,12 @@
     "batman",
     "wolverine",
     "fanstaff"
+  ],
+  "cover": "https://web.archive.org/web/20250806233037im_/http://spidermedia.ru/assets/images/import_image/6999.jpg",
+  "modx_id": 6999,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

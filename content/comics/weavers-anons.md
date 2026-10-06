@@ -7,6 +7,12 @@
   "tags": [
     "boom-studios"
   ],
+  "cover": "https://web.archive.org/web/20260312013601im_/http://spidermedia.ru/assets/images/news/images/1_comics/boom/weavers/12.jpg",
+  "modx_id": 100889,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

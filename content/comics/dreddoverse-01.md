@@ -8,6 +8,12 @@
     "judge-dredd",
     "2000-ad"
   ],
+  "cover": "https://web.archive.org/web/20251207095557im_/http://spidermedia.ru/assets/images/2000ad/001/judge-dredd-hitch-1-vstavka-1.jpg",
+  "modx_id": 100536,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,6 +1,6 @@
 {
   "title": "Обложка к игре Thor: God of Thunder",
-  "date": "2011-02-25T22:01:00+03:00",
+  "date": "2011-02-25T21:01:03+03:00",
   "url": "/news/oblozhki-k-igre-thor-god-thunder/",
   "original_url": "http://spidermedia.ru/news/oblozhki-k-igre-thor-god-thunder",
   "archived": "https://web.archive.org/web/20120608144644/http://spidermedia.ru/news/oblozhki-k-igre-thor-god-thunder",
@@ -9,7 +9,14 @@
     "games",
     "komiksy",
     "marvel",
-    "tor"
+    "tor",
+    "igry"
+  ],
+  "cover": "https://web.archive.org/web/20120608144644im_/http://spidermedia.ru/assets/images/import_image/3708.png",
+  "modx_id": 3708,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

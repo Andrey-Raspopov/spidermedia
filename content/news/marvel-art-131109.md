@@ -1,7 +1,10 @@
 {
   "title": "Marvel Art - 13.11.09",
-  "date": "2009-11-13T02:05:00+03:00",
+  "date": "2009-11-13T02:05:20+03:00",
   "url": "/news/marvel-art-131109/",
+  "aliases": [
+    "/node/2089/"
+  ],
   "original_url": "http://spidermedia.ru/news/marvel-art-131109",
   "archived": "https://web.archive.org/web/20260305230737/http://spidermedia.ru/news/marvel-art-131109",
   "tags": [
@@ -14,7 +17,14 @@
     "captain-america",
     "avengers",
     "spider-man",
-    "doctor-strange"
+    "doctor-strange",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20150315210246im_/http://spidermedia.ru/assets/images/ecahznqzhc4.jpg",
+  "modx_id": 2089,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

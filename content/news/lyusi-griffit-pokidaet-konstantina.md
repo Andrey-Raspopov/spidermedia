@@ -1,12 +1,18 @@
 {
   "title": "Люси Гриффит покидает «Константина»",
-  "date": "2014-07-11T07:32:00+03:00",
+  "date": "2014-07-11T06:32:26+03:00",
   "url": "/news/lyusi-griffit-pokidaet-konstantina/",
   "original_url": "http://spidermedia.ru/news/lyusi-griffit-pokidaet-konstantina",
   "archived": "https://web.archive.org/web/20250717192214/http://spidermedia.ru/news/lyusi-griffit-pokidaet-konstantina",
   "tags": [
     "kasting",
     "dzhon-konstantin"
+  ],
+  "cover": "https://web.archive.org/web/20150502202143im_/http://spidermedia.ru/assets/images/import_image/7878.jpg",
+  "modx_id": 7878,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

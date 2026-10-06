@@ -2,6 +2,9 @@
   "title": "Ultimate Spider-Man Loves Mary Jane",
   "date": "2010-02-06T22:21:00+03:00",
   "url": "/news/ultimate-spider-man-loves-mary-jane/",
+  "aliases": [
+    "/node/2343/"
+  ],
   "original_url": "http://spidermedia.ru/news/ultimate-spider-man-loves-mary-jane",
   "archived": "https://web.archive.org/web/20260215080540/http://spidermedia.ru/news/ultimate-spider-man-loves-mary-jane",
   "tags": [
@@ -10,7 +13,14 @@
     "brian-michael-bendis",
     "art-0",
     "ultimate",
-    "spider-man"
+    "spider-man",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20260215080540im_/http://spidermedia.ru/assets/images/import_image/2343.jpg",
+  "modx_id": 2343,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

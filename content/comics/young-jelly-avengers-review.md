@@ -10,6 +10,12 @@
     "young-avengers",
     "recenziya"
   ],
+  "cover": "https://web.archive.org/web/20160731004757im_/http://spidermedia.ru/assets/images/reviews/jellyfish/mozajka.png",
+  "modx_id": 100657,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

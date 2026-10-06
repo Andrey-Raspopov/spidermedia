@@ -1,7 +1,10 @@
 {
   "title": "Ultimate Comics в июне",
-  "date": "2010-04-05T20:31:00+03:00",
+  "date": "2010-04-05T19:31:45+03:00",
   "url": "/news/ultimate-comics-v-iyune/",
+  "aliases": [
+    "/node/2510/"
+  ],
   "original_url": "https://spidermedia.ru/news/ultimate-comics-v-iyune",
   "archived": "https://web.archive.org/web/20260208202441/https://spidermedia.ru/news/ultimate-comics-v-iyune",
   "tags": [
@@ -14,6 +17,12 @@
     "jeph-loeb",
     "brian-michael-bendis",
     "david-lafuente"
+  ],
+  "cover": "https://web.archive.org/web/20260208202441im_/http://spidermedia.ru/assets/images/import_image/2510.png",
+  "modx_id": 2510,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Новая авторская команда \"Moon Knight\"",
-  "date": "2014-06-05T00:51:00+03:00",
+  "date": "2014-06-04T23:51:36+03:00",
   "url": "/news/novaya-avtorskaya-komanda-moon-knight/",
   "original_url": "https://spidermedia.ru/news/novaya-avtorskaya-komanda-moon-knight",
   "archived": "https://web.archive.org/web/20250806052539/https://spidermedia.ru/news/novaya-avtorskaya-komanda-moon-knight",
@@ -10,6 +10,12 @@
     "moon-knight",
     "deklan-shelvi",
     "brian-wood"
+  ],
+  "cover": "https://web.archive.org/web/20250806052539im_/http://spidermedia.ru/assets/images/import_image/7769.jpg",
+  "modx_id": 7769,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

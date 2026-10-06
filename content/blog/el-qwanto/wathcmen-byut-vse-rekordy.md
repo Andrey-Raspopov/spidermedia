@@ -1,11 +1,21 @@
 {
   "title": "Wathcmen бьют все рекорды!",
-  "date": "2009-03-10T02:30:00+03:00",
+  "date": "2009-03-10T01:30:04+03:00",
   "url": "/blog/el-qwanto/wathcmen-byut-vse-rekordy/",
+  "aliases": [
+    "/node/633/"
+  ],
   "original_url": "http://spidermedia.ru/blog/el-qwanto/wathcmen-byut-vse-rekordy",
   "archived": "https://web.archive.org/web/20120613055021/http://spidermedia.ru/blog/el-qwanto/wathcmen-byut-vse-rekordy",
   "tags": [
-    "watchmen"
+    "watchmen",
+    "hraniteli"
+  ],
+  "cover": "https://web.archive.org/web/20120613055021im_/http://spidermedia.ru/assets/images/import_image/633.jpg",
+  "modx_id": 633,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

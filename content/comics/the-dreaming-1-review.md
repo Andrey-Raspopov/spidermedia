@@ -9,6 +9,12 @@
     "neil-gaiman-sandman",
     "sajmon-spurrier"
   ],
+  "cover": "https://web.archive.org/web/20260308231103im_/http://spidermedia.ru/assets/images/reviews/vertigo/the-dreaming/1/mzk.jpg",
+  "modx_id": 101999,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

@@ -1,13 +1,20 @@
 {
   "title": "UPD.: Про Флэша снимут и сериал и фильм!",
-  "date": "2013-07-30T20:35:00+03:00",
+  "date": "2013-07-30T19:35:49+03:00",
   "url": "/news/pro-flesha-sdelayut-serial/",
   "original_url": "https://spidermedia.ru/news/pro-flesha-sdelayut-serial",
   "archived": "https://web.archive.org/web/20260125123947/https://spidermedia.ru/news/pro-flesha-sdelayut-serial",
   "tags": [
     "the-flash",
     "serialy",
-    "dc-comics"
+    "dc-comics",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20160611125101im_/http://spidermedia.ru/assets/images/import_image/7390.jpg",
+  "modx_id": 7390,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

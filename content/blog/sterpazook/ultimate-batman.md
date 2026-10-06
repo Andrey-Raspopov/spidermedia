@@ -1,6 +1,6 @@
 {
   "title": "Ultimate Batman",
-  "date": "2009-02-28T17:00:00+03:00",
+  "date": "2009-02-28T17:00:29+03:00",
   "url": "/blog/sterpazook/ultimate-batman/",
   "original_url": "https://spidermedia.ru/blog/sterpazook/ultimate-batman",
   "archived": "https://web.archive.org/web/20250709062210/https://spidermedia.ru/blog/sterpazook/ultimate-batman",
@@ -11,13 +11,19 @@
     "art-0",
     "deviantart",
     "redizajn",
-    "ultimizing"
+    "ultimizing",
+    "art"
+  ],
+  "modx_id": 546,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-Продолжаем ([раз](http://spidermedia.ru/node/451) и [два](http://spidermedia.ru/node/456)) тему тотальной алтимизации классических персонажей
+Продолжаем ([раз](../ultimate-superman/) и [два](http://spidermedia.ru/node/456)) тему тотальной алтимизации классических персонажей
 
 [Flash: <http://backend.deviantart.com/embed/view.swf>]
 

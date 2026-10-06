@@ -1,7 +1,10 @@
 {
   "title": "Hall of Just Us 007: Terminal City",
-  "date": "2010-10-16T00:26:00+03:00",
+  "date": "2010-10-15T23:26:43+03:00",
   "url": "/blog/redson/hall-just-us-007-terminal-city/",
+  "aliases": [
+    "/node/3010/"
+  ],
   "original_url": "https://spidermedia.ru/blog/redson/hall-just-us-007-terminal-city",
   "archived": "https://web.archive.org/web/20260206223210/https://spidermedia.ru/blog/redson/hall-just-us-007-terminal-city",
   "tags": [
@@ -11,6 +14,12 @@
     "michael-lark",
     "hall-of-just-us",
     "dean-motter"
+  ],
+  "cover": "https://web.archive.org/web/20260206223210im_/http://spidermedia.ru/assets/images/import_image/3010.jpg",
+  "modx_id": 3010,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

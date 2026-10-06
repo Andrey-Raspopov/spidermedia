@@ -1,7 +1,10 @@
 {
   "title": "Июль '10: Wolverine",
-  "date": "2010-07-14T01:29:00+03:00",
+  "date": "2010-07-14T00:29:59+03:00",
   "url": "/news/iyul-10-wolverine/",
+  "aliases": [
+    "/node/2724/"
+  ],
   "original_url": "https://spidermedia.ru/news/iyul-10-wolverine",
   "archived": "https://web.archive.org/web/20260121000828/https://spidermedia.ru/news/iyul-10-wolverine",
   "tags": [
@@ -9,13 +12,20 @@
     "daken",
     "x-men",
     "wolverine",
-    "marvel"
+    "marvel",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20260121000828im_/http://spidermedia.ru/assets/images/import_image/2724.jpg",
+  "modx_id": 2724,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-В полку серий о **Росомахе** *(Wolverine)* прибыло! Мало того, что наконец-то в свет выйдет второй номер  **Astonishing Spider-Man/Wolverine**, так ещё и серии **Dark Wolverine** и **Franken-Castle** начнут [долгожданный кроссовер](../../node/2541/). В общем - релизы серий о когтистом канадце и его сыне к вашим услугам.
+В полку серий о **Росомахе** *(Wolverine)* прибыло! Мало того, что наконец-то в свет выйдет второй номер  **Astonishing Spider-Man/Wolverine**, так ещё и серии **Dark Wolverine** и **Franken-Castle** начнут [долгожданный кроссовер](../match-revansh/). В общем - релизы серий о когтистом канадце и его сыне к вашим услугам.
 ![](https://web.archive.org/web/20260121000828im_/http://img.photobucket.com/albums/v499/sp888/news/Wolverine1.jpg)
 
  [![](https://web.archive.org/web/20260121000828im_/http://img.photobucket.com/albums/v497/spidermedia/sp888_News/th_10_ASTONISHING_SPIDER_MAN_WOLVERINE.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/sp888_News/10_ASTONISHING_SPIDER_MAN_WOLVERINE.jpg) **Astonishing Spider-Man/Wolverine #2**

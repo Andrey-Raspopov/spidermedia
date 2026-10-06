@@ -13,6 +13,9 @@
     "figurki",
     "hyu-dzhekman"
   ],
+  "sources": [
+    "archive"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

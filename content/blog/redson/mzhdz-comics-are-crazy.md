@@ -1,12 +1,18 @@
 {
   "title": "МЖДЗ: COMICS ARE CRAZY",
-  "date": "2011-07-12T22:55:00+03:00",
+  "date": "2011-07-12T21:55:22+03:00",
   "url": "/blog/redson/mzhdz-comics-are-crazy/",
   "original_url": "http://spidermedia.ru/blog/redson/mzhdz-comics-are-crazy",
   "archived": "https://web.archive.org/web/20260123075224/http://spidermedia.ru/blog/redson/mzhdz-comics-are-crazy",
   "tags": [
     "mnenie",
     "mzhdz"
+  ],
+  "cover": "https://web.archive.org/web/20260123075224im_/http://spidermedia.ru/assets/images/import_image/6492.png",
+  "modx_id": 6492,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

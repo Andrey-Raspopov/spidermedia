@@ -1,6 +1,6 @@
 {
   "title": "Встречайте: «Доктор Люцид»",
-  "date": "2014-08-08T10:00:00+03:00",
+  "date": "2014-08-08T09:00:35+03:00",
   "url": "/news/doktor-lyucid/",
   "original_url": "https://spidermedia.ru/news/doktor-lyucid",
   "archived": "https://web.archive.org/web/20260215083638/https://spidermedia.ru/news/doktor-lyucid",
@@ -8,6 +8,12 @@
     "russian-comics",
     "doktor-lyucid",
     "old-komix"
+  ],
+  "cover": "https://web.archive.org/web/20260215083638im_/http://spidermedia.ru/assets/images/import_image/7974.jpg",
+  "modx_id": 7974,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

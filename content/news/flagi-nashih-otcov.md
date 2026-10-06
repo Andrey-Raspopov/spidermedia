@@ -1,7 +1,10 @@
 {
   "title": "Флаги наших отцов",
-  "date": "2009-07-24T00:57:00+03:00",
+  "date": "2009-07-23T23:57:47+03:00",
   "url": "/news/flagi-nashih-otcov/",
+  "aliases": [
+    "/node/1629/"
+  ],
   "original_url": "https://spidermedia.ru/news/flagi-nashih-otcov",
   "archived": "https://web.archive.org/web/20250429011759/https://spidermedia.ru/news/flagi-nashih-otcov",
   "tags": [
@@ -10,7 +13,14 @@
     "deni-kouejn",
     "art-0",
     "marvel",
-    "captain-america"
+    "captain-america",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20250429011759im_/http://spidermedia.ru/assets/images/import_image/1629.jpg",
+  "modx_id": 1629,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

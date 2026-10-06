@@ -10,6 +10,12 @@
     "jessica-jones-alias",
     "emerald-city-comicon"
   ],
+  "cover": "https://web.archive.org/web/20251108194933im_/http://spidermedia.ru/assets/images/news/marvel/aka-jessica-jones-defenders-1f442.jpg",
+  "modx_id": 101070,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

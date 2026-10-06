@@ -1,6 +1,6 @@
 {
   "title": "\"Мстители\": Марк Руффало о Халке",
-  "date": "2010-09-25T13:21:00+03:00",
+  "date": "2010-09-25T12:21:51+03:00",
   "url": "/news/mstiteli-mark-ruffalo-o-halke/",
   "original_url": "http://spidermedia.ru/news/mstiteli-mark-ruffalo-o-halke",
   "archived": "https://web.archive.org/web/20120608140944/http://spidermedia.ru/news/mstiteli-mark-ruffalo-o-halke",
@@ -13,6 +13,12 @@
     "mark-ruffalo",
     "mstiteli",
     "halk"
+  ],
+  "cover": "https://web.archive.org/web/20120608140944im_/http://spidermedia.ru/assets/images/import_image/2945.jpg",
+  "modx_id": 2945,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

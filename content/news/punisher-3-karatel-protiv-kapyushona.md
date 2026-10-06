@@ -1,13 +1,22 @@
 {
   "title": "Punisher #3: Каратель против Капюшона!",
-  "date": "2009-02-20T10:28:00+03:00",
+  "date": "2009-02-20T10:28:43+03:00",
   "url": "/news/punisher-3-karatel-protiv-kapyushona/",
+  "aliases": [
+    "/node/453/"
+  ],
   "original_url": "http://spidermedia.ru/news/punisher-3-karatel-protiv-kapyushona",
   "archived": "https://web.archive.org/web/20251106234925/http://spidermedia.ru/news/punisher-3-karatel-protiv-kapyushona",
   "tags": [
     "marvel",
     "hood",
     "punisher"
+  ],
+  "cover": "https://web.archive.org/web/20150315210246im_/http://spidermedia.ru/assets/images/ecahznqzhc4.jpg",
+  "modx_id": 453,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

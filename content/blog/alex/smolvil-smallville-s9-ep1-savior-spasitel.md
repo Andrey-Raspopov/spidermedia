@@ -1,7 +1,10 @@
 {
   "title": "Смолвиль\\Smallville s9 ep.1 - \"Savior\"\\\"Спаситель\"",
-  "date": "2009-09-27T10:31:00+03:00",
+  "date": "2009-09-27T09:31:45+03:00",
   "url": "/blog/alex/smolvil-smallville-s9-ep1-savior-spasitel/",
+  "aliases": [
+    "/node/1936/"
+  ],
   "original_url": "https://spidermedia.ru/blog/alex/smolvil-smallville-s9-ep1-savior-spasitel",
   "archived": "https://web.archive.org/web/20251207005158/https://spidermedia.ru/blog/alex/smolvil-smallville-s9-ep1-savior-spasitel",
   "tags": [
@@ -9,7 +12,14 @@
     "superman",
     "serialy",
     "tajny-smollvillya",
-    "smollvill"
+    "smollvill",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20251207005158im_/http://spidermedia.ru/assets/images/import_image/1936.png",
+  "modx_id": 1936,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

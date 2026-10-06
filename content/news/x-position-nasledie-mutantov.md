@@ -1,7 +1,10 @@
 {
   "title": "X-Position: Наследие мутантов",
-  "date": "2009-12-03T00:34:00+03:00",
+  "date": "2009-12-03T00:34:55+03:00",
   "url": "/news/x-position-nasledie-mutantov/",
+  "aliases": [
+    "/node/2146/"
+  ],
   "original_url": "http://spidermedia.ru/news/x-position-nasledie-mutantov",
   "archived": "https://web.archive.org/web/20251115185455/http://spidermedia.ru/news/x-position-nasledie-mutantov",
   "tags": [
@@ -11,7 +14,14 @@
     "necrosha",
     "mike-carey",
     "marvel",
-    "legacy"
+    "legacy",
+    "mett-frakshen",
+    "lyudi-iks"
+  ],
+  "modx_id": 2146,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

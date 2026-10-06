@@ -1,11 +1,17 @@
 {
   "title": "«Мстителей» ожидает смена состава",
-  "date": "2014-10-28T13:14:00+03:00",
+  "date": "2014-10-28T13:14:47+03:00",
   "url": "/news/mstiteley-ozhidaet-smena-sostava/",
   "original_url": "http://spidermedia.ru/news/mstiteley-ozhidaet-smena-sostava",
   "archived": "https://web.archive.org/web/20251206024541/http://spidermedia.ru/news/mstiteley-ozhidaet-smena-sostava",
   "tags": [
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20251206024541im_/http://spidermedia.ru/assets/images/import_image/8232.jpg",
+  "modx_id": 8232,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
@@ -15,4 +21,4 @@
 [![](https://web.archive.org/web/20251206024541im_/http://i.imgur.com/gcI91yYl.jpg "source: imgur.com")](http://imgur.com/gcI91yY)
 *«Фильмы про Мстителей по задумке всегда являются огромными столпами. Аналогичная ситуация была в комиксах, когда каждый из героев отправлялся в сольные приключения и затем в какой-то момент они собирались вместе для мега ивента на 12 выпусков. И потом они опять возвращались в свои сольные комиксы, но уже претерпев какие-то изменения после этого ивента. Я вижу то же самое после этого фильма, потому что состав будет изменен в финале»*, — заявил Файги.
 С учетом того, что в третьем сольнике о Капитане Америка нас скорее всего ждет адаптация «Гражданской войны», логично, что до «Мстителей 3» доберутся не все знакомые персонажи. Будет ли смена актерского состава радикальной или частичной, покажет время.
-Премьера фильма «Мстители 2: Эра Альтрона» в России запланирована на 30 апреля 2015 года. Трейлер вы можете посмотреть [здесь](https://web.archive.org/web/20251211025107/http://spidermedia.ru/news/pervyy-treyler-filma-mstiteli-era-altrona).
+Премьера фильма «Мстители 2: Эра Альтрона» в России запланирована на 30 апреля 2015 года. Трейлер вы можете посмотреть [здесь](../../movies/pervyy-treyler-filma-mstiteli-era-altrona/).

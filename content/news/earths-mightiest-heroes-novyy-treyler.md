@@ -1,14 +1,23 @@
 {
   "title": "Earth's Mightiest Heroes: Новый трейлер",
-  "date": "2010-08-16T19:19:00+03:00",
+  "date": "2010-08-16T18:19:56+03:00",
   "url": "/news/earths-mightiest-heroes-novyy-treyler/",
+  "aliases": [
+    "/node/2861/"
+  ],
   "original_url": "http://spidermedia.ru/news/earths-mightiest-heroes-novyy-treyler",
   "archived": "https://web.archive.org/web/20251108193030/http://spidermedia.ru/news/earths-mightiest-heroes-novyy-treyler",
   "tags": [
     "avengers",
     "marvel",
     "animaciya",
-    "preview"
+    "preview",
+    "prevyu"
+  ],
+  "modx_id": 2861,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

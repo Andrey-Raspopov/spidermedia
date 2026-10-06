@@ -1,13 +1,22 @@
 {
   "title": "Последние дни Сотника",
-  "date": "2009-09-16T03:09:00+03:00",
+  "date": "2009-09-16T02:09:57+03:00",
   "url": "/news/poslednie-dni-sotnika/",
+  "aliases": [
+    "/node/1899/"
+  ],
   "original_url": "https://spidermedia.ru/news/poslednie-dni-sotnika",
   "archived": "https://web.archive.org/web/20260305234418/https://spidermedia.ru/news/poslednie-dni-sotnika",
   "tags": [
     "toni-harris",
     "brian-k-vaughan",
-    "tony-harris"
+    "tony-harris",
+    "brajan-k.-von"
+  ],
+  "modx_id": 1899,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

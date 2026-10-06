@@ -1,6 +1,6 @@
 {
   "title": "Старр MAX",
-  "date": "2009-06-20T10:27:00+03:00",
+  "date": "2009-06-20T09:27:52+03:00",
   "url": "/news/starr-max/",
   "original_url": "https://spidermedia.ru/news/starr-max",
   "archived": "https://web.archive.org/web/20230323045850/https://spidermedia.ru/news/starr-max",
@@ -9,7 +9,13 @@
     "deniel-vej",
     "marvel",
     "starr-ubijca",
-    "richard-kobren"
+    "richard-kobren",
+    "art"
+  ],
+  "modx_id": 1448,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

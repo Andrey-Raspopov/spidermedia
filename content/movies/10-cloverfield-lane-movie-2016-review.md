@@ -7,6 +7,12 @@
   "tags": [
     "recenziya"
   ],
+  "cover": "https://web.archive.org/web/20250806051931im_/http://spidermedia.ru/assets/images/reviews/movies/cloverfield/share.jpg",
+  "modx_id": 101042,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

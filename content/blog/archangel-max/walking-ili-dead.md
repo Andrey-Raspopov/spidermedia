@@ -1,12 +1,18 @@
 {
   "title": "Walking или Dead",
-  "date": "2012-07-16T04:12:00+03:00",
+  "date": "2012-07-16T03:12:46+03:00",
   "url": "/blog/archangel-max/walking-ili-dead/",
   "original_url": "https://spidermedia.ru/blog/archangel-max/walking-ili-dead",
   "archived": "https://web.archive.org/web/20260211191122/https://spidermedia.ru/blog/archangel-max/walking-ili-dead",
   "tags": [
     "the-walking-dead",
     "robert-kirkman"
+  ],
+  "cover": "https://web.archive.org/web/20260211191122im_/http://spidermedia.ru/assets/images/import_image/6979.jpg",
+  "modx_id": 6979,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

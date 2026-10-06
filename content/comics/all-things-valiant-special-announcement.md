@@ -6,7 +6,14 @@
   "archived": "https://web.archive.org/web/20251206162204/https://spidermedia.ru/comics/all-things-valiant-special-announcement",
   "tags": [
     "valiant-entertainment",
-    "dorogaya-redakciya"
+    "dorogaya-redakciya",
+    "all-things-valiant"
+  ],
+  "cover": "https://web.archive.org/web/20180201214835im_/http://spidermedia.ru/assets/images/valiant/images/atv70/atv-sa.jpg",
+  "modx_id": 101440,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

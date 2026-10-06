@@ -1,12 +1,18 @@
 {
   "title": "Wild Children: идите в 2D",
-  "date": "2012-07-14T20:16:00+03:00",
+  "date": "2012-07-14T19:16:05+03:00",
   "url": "/blog/samm-o/wild-children-idite-v-2d/",
   "original_url": "http://spidermedia.ru/blog/samm-o/wild-children-idite-v-2d",
   "archived": "https://web.archive.org/web/20200203060902/http://spidermedia.ru:80/blog/samm-o/wild-children-idite-v-2d",
   "tags": [
     "wild-children",
     "image-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150502135922im_/http://spidermedia.ru/assets/images/import_image/6975.jpg",
+  "modx_id": 6975,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

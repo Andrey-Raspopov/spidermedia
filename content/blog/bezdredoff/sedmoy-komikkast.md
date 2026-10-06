@@ -8,6 +8,9 @@
     "komiksy",
     "komikkast"
   ],
+  "sources": [
+    "archive"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

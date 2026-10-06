@@ -1,6 +1,6 @@
 {
   "title": "AVA Expo ЭКСКЛЮЗИВ: «Комильфо» издаст Seconds на русском",
-  "date": "2014-10-25T14:03:00+03:00",
+  "date": "2014-10-25T13:03:29+03:00",
   "url": "/news/ava-expo-eksklyuziv-komilfo-izdast-seconds-na-russkom/",
   "original_url": "http://spidermedia.ru/news/ava-expo-eksklyuziv-komilfo-izdast-seconds-na-russkom",
   "archived": "https://web.archive.org/web/20250913023620/http://spidermedia.ru/news/ava-expo-eksklyuziv-komilfo-izdast-seconds-na-russkom",
@@ -9,7 +9,14 @@
     "preview",
     "komilfo",
     "zarubezhnye-komiksy-na-russkom",
-    "bryan-lee-o-malley"
+    "bryan-lee-o-malley",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20150326183853im_/http://spidermedia.ru/assets/images/import_image/8222.jpg",
+  "modx_id": 8222,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

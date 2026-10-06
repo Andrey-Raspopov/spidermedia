@@ -1,11 +1,17 @@
 {
   "title": "День новых комиксов: 16 апреля",
-  "date": "2014-04-16T13:49:00+03:00",
+  "date": "2014-04-16T12:49:16+03:00",
   "url": "/news/den-novyh-komiksov-16-aprelya/",
   "original_url": "http://spidermedia.ru/news/den-novyh-komiksov-16-aprelya",
   "archived": "https://web.archive.org/web/20250324164623/http://spidermedia.ru/news/den-novyh-komiksov-16-aprelya",
   "tags": [
     "den-novyh-komiksov"
+  ],
+  "cover": "https://web.archive.org/web/20250324164623im_/http://spidermedia.ru/assets/images/import_image/7717.jpg",
+  "modx_id": 7717,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

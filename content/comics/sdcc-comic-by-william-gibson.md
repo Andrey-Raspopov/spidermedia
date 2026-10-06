@@ -6,7 +6,14 @@
   "archived": "https://web.archive.org/web/20260125061837/http://spidermedia.ru/comics/sdcc-comic-by-william-gibson",
   "tags": [
     "idw-publishing",
-    "san-diego-comic-con-international"
+    "san-diego-comic-con-international",
+    "sdcc2015"
+  ],
+  "cover": "https://web.archive.org/web/20180205115143im_/http://spidermedia.ru/assets/images/news/sdcc/2015/idw/archangelcover-be43a.jpg",
+  "modx_id": 100362,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

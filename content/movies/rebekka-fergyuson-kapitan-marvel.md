@@ -8,6 +8,12 @@
     "marvel",
     "captain-marvel"
   ],
+  "cover": "https://web.archive.org/web/20260214134905im_/http://spidermedia.ru/assets/images/movies/marvel/captain-marvel-2018/capmarv.jpg",
+  "modx_id": 100542,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

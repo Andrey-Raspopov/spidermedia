@@ -1,7 +1,10 @@
 {
   "title": "Что стоит ждать 12 августа 2009",
-  "date": "2009-08-10T16:44:00+03:00",
+  "date": "2009-08-10T15:44:11+03:00",
   "url": "/blog/redson/chto-stoit-zhdat-12-avgusta-2009/",
+  "aliases": [
+    "/node/1761/"
+  ],
   "original_url": "http://spidermedia.ru/blog/redson/chto-stoit-zhdat-12-avgusta-2009",
   "archived": "https://web.archive.org/web/20260125115635/http://spidermedia.ru/blog/redson/chto-stoit-zhdat-12-avgusta-2009",
   "tags": [
@@ -10,6 +13,12 @@
     "idw-publishing",
     "ultimate",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20260125115635im_/http://spidermedia.ru/assets/images/import_image/1761.jpg",
+  "modx_id": 1761,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "В мультсериале ULTIMATE SPIDER-MAN появится Майлз Моралес",
-  "date": "2014-06-17T22:02:00+03:00",
+  "date": "2014-06-17T21:02:11+03:00",
   "url": "/news/v-multseriale-ultimate-spider-man-poyavitsya-maylz-morales/",
   "original_url": "http://spidermedia.ru/news/v-multseriale-ultimate-spider-man-poyavitsya-maylz-morales",
   "archived": "https://web.archive.org/web/20260123090138/http://spidermedia.ru/news/v-multseriale-ultimate-spider-man-poyavitsya-maylz-morales",
@@ -8,6 +8,12 @@
     "spider-man",
     "marvel",
     "animaciya"
+  ],
+  "cover": "https://web.archive.org/web/20150326160620im_/http://spidermedia.ru/assets/images/import_image/7822.jpg",
+  "modx_id": 7822,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

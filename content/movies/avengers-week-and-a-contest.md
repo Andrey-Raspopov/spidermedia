@@ -10,6 +10,12 @@
     "avengers",
     "tanos"
   ],
+  "cover": "https://web.archive.org/web/20260208210609im_/http://spidermedia.ru/assets/images/movies/marvel/avengers-3-infinity-war-part-1-2018/mstiteli_bez_spoylerov_i_sms.jpg",
+  "modx_id": 101896,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

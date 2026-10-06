@@ -1,11 +1,17 @@
 {
   "title": "День новых комиксов: 4 сентября",
-  "date": "2013-09-04T15:45:00+03:00",
+  "date": "2013-09-04T14:45:38+03:00",
   "url": "/news/den-novyh-komiksov-4-sentyabrya/",
   "original_url": "http://spidermedia.ru/news/den-novyh-komiksov-4-sentyabrya",
   "archived": "https://web.archive.org/web/20260307071348/http://spidermedia.ru/news/den-novyh-komiksov-4-sentyabrya",
   "tags": [
     "den-novyh-komiksov"
+  ],
+  "cover": "https://web.archive.org/web/20260307071348im_/http://spidermedia.ru/assets/images/import_image/7451.jpg",
+  "modx_id": 7451,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "Алтимейт Паук - Арт и Колор",
-  "date": "2009-02-20T17:22:00+03:00",
+  "date": "2009-02-20T17:22:16+03:00",
   "url": "/news/altimeyt-pauk-art-i-kolor/",
+  "aliases": [
+    "/node/461/"
+  ],
   "original_url": "http://spidermedia.ru/news/altimeyt-pauk-art-i-kolor",
   "archived": "https://web.archive.org/web/20260208202620/http://spidermedia.ru/news/altimeyt-pauk-art-i-kolor",
   "tags": [
@@ -12,7 +15,13 @@
     "art-0",
     "ultimate",
     "marvel",
-    "spider-man"
+    "spider-man",
+    "art"
+  ],
+  "modx_id": 461,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

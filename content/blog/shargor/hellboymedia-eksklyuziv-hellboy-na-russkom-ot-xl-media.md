@@ -1,6 +1,6 @@
 {
   "title": "Hellboymedia ЭКСКЛЮЗИВ: Hellboy на русском от «XL Media»",
-  "date": "2015-01-05T19:56:00+03:00",
+  "date": "2015-01-05T19:56:40+03:00",
   "url": "/blog/shargor/hellboymedia-eksklyuziv-hellboy-na-russkom-ot-xl-media/",
   "original_url": "http://spidermedia.ru/blog/shargor/hellboymedia-eksklyuziv-hellboy-na-russkom-ot-xl-media",
   "archived": "https://web.archive.org/web/20260206215348/http://spidermedia.ru/blog/shargor/hellboymedia-eksklyuziv-hellboy-na-russkom-ot-xl-media",
@@ -8,6 +8,12 @@
     "eksklyuziv",
     "zarubezhnye-komiksy-na-russkom",
     "hellboymedia"
+  ],
+  "cover": "https://web.archive.org/web/20160316062341im_/http://spidermedia.ru/assets/images/hellboymedia/local/announcement-hellboy/hellboy-by-xl-media-cover.jpg",
+  "modx_id": 8458,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

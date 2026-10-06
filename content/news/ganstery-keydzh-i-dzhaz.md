@@ -1,6 +1,6 @@
 {
   "title": "Ганстеры, Кейдж и джаз",
-  "date": "2009-05-25T23:16:00+03:00",
+  "date": "2009-05-25T22:16:10+03:00",
   "url": "/news/ganstery-keydzh-i-dzhaz/",
   "original_url": "http://spidermedia.ru/news/ganstery-keydzh-i-dzhaz",
   "archived": "https://web.archive.org/web/20200217105021/http://spidermedia.ru:80/news/ganstery-keydzh-i-dzhaz",
@@ -13,11 +13,17 @@
     "marvel",
     "luke-cage"
   ],
+  "cover": "https://web.archive.org/web/20200217105021im_/http://spidermedia.ru/assets/images/import_image/1275.jpg",
+  "modx_id": 1275,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-[![TMSTRM001_cov.jpg - image uploaded to Picamatic](https://web.archive.org/web/20200217105021im_/http://s49.radikal.ru/i123/0905/74/b53a44234b42.jpg)](http://marvel.com/i/content/st/25634new_storyimage2155952.jpg) Относительно [недавно](../../node/1223/#comments) мы уже касались анонса мини-серии о не совсем простом парне из Гарлема. Теперь же **Майк Бенсон** и **Адам Гласс** *(Mike Benson & Adam Glass)* расссказывают о **Нуарном Люке Кейдже** *(Luke Cage)*:
+[![TMSTRM001_cov.jpg - image uploaded to Picamatic](https://web.archive.org/web/20200217105021im_/http://s49.radikal.ru/i123/0905/74/b53a44234b42.jpg)](http://marvel.com/i/content/st/25634new_storyimage2155952.jpg) Относительно [недавно](../chernaya-istoriya-iz-garlema/#comments) мы уже касались анонса мини-серии о не совсем простом парне из Гарлема. Теперь же **Майк Бенсон** и **Адам Гласс** *(Mike Benson & Adam Glass)* расссказывают о **Нуарном Люке Кейдже** *(Luke Cage)*:
 
 - Нам обещают атмосферу классического нуара, когда есть один герой, и много проблем вокруг него. Люк пойман в ловушку, но он способен дать отпор силам, желающие использовать его в своих целях.
 - Лимитка слабо связана с другими нуарными проектами **Marvel**. Их объединяет только общий временной промежуток, в котором происходят события комиксов. **Luke Cage Noir** можно смело назвать достаточно независимым.

@@ -1,6 +1,6 @@
 {
   "title": "Новое поколение и герои будущего",
-  "date": "2011-06-09T11:24:00+03:00",
+  "date": "2011-06-09T10:24:08+03:00",
   "url": "/news/novoe-pokolenie-i-geroi-budushchego/",
   "original_url": "https://spidermedia.ru/news/novoe-pokolenie-i-geroi-budushchego",
   "archived": "https://web.archive.org/web/20251216121710/https://spidermedia.ru/news/novoe-pokolenie-i-geroi-budushchego",
@@ -30,6 +30,12 @@
     "francis-portela",
     "dc-comics",
     "brett-booth"
+  ],
+  "cover": "https://web.archive.org/web/20251216121710im_/http://spidermedia.ru/assets/images/import_image/6397.jpg",
+  "modx_id": 6397,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

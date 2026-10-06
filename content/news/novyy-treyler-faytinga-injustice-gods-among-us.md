@@ -1,6 +1,6 @@
 {
   "title": "Новый трейлер файтинга INJUSTICE: GODS AMONG US",
-  "date": "2013-02-02T15:22:00+03:00",
+  "date": "2013-02-02T14:22:26+03:00",
   "url": "/news/novyy-treyler-faytinga-injustice-gods-among-us/",
   "original_url": "http://spidermedia.ru/news/novyy-treyler-faytinga-injustice-gods-among-us",
   "archived": "https://web.archive.org/web/20260215085722/http://spidermedia.ru/news/novyy-treyler-faytinga-injustice-gods-among-us",
@@ -9,6 +9,12 @@
     "igry",
     "justice-league",
     "trejlery"
+  ],
+  "cover": "https://web.archive.org/web/20150326034717im_/http://spidermedia.ru/assets/images/import_image/7132.jpg",
+  "modx_id": 7132,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

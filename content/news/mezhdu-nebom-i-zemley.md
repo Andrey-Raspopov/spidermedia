@@ -1,7 +1,10 @@
 {
   "title": "Между небом и землей",
-  "date": "2010-10-02T13:28:00+03:00",
+  "date": "2010-10-02T12:28:33+03:00",
   "url": "/news/mezhdu-nebom-i-zemley/",
+  "aliases": [
+    "/node/2962/"
+  ],
   "original_url": "http://spidermedia.ru/news/mezhdu-nebom-i-zemley",
   "archived": "https://web.archive.org/web/20250814204319/http://spidermedia.ru/news/mezhdu-nebom-i-zemley",
   "tags": [
@@ -9,7 +12,16 @@
     "pol-dzhenkins",
     "art-0",
     "thor",
-    "marvel"
+    "marvel",
+    "prevyu",
+    "art",
+    "tor"
+  ],
+  "cover": "https://web.archive.org/web/20250814204319im_/http://spidermedia.ru/assets/images/import_image/2962.jpg",
+  "modx_id": 2962,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,12 +1,21 @@
 {
   "title": "Эндрю Гарфилд - новый Человек-Паук",
-  "date": "2010-07-02T11:27:00+03:00",
+  "date": "2010-07-02T10:27:43+03:00",
   "url": "/news/endryu-garfild-novyy-chelovek-pauk/",
+  "aliases": [
+    "/node/2704/"
+  ],
   "original_url": "http://spidermedia.ru/news/endryu-garfild-novyy-chelovek-pauk",
   "archived": "https://web.archive.org/web/20240916030712/http://spidermedia.ru/news/endryu-garfild-novyy-chelovek-pauk",
   "tags": [
     "marvel",
     "spider-man"
+  ],
+  "cover": "https://web.archive.org/web/20240916030712im_/http://spidermedia.ru/assets/images/import_image/2704.jpg",
+  "modx_id": 2704,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

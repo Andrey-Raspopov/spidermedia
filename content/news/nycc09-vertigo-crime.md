@@ -1,7 +1,10 @@
 {
   "title": "NYCC'09 - Vertigo Crime",
-  "date": "2009-02-11T16:09:00+03:00",
+  "date": "2009-02-11T16:09:59+03:00",
   "url": "/news/nycc09-vertigo-crime/",
+  "aliases": [
+    "/node/312/"
+  ],
   "original_url": "http://spidermedia.ru/news/nycc09-vertigo-crime",
   "archived": "https://web.archive.org/web/20260312014152/http://spidermedia.ru/news/nycc09-vertigo-crime",
   "tags": [
@@ -13,6 +16,11 @@
     "vertigo",
     "nycc-2009",
     "vertigo-crime"
+  ],
+  "modx_id": 312,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

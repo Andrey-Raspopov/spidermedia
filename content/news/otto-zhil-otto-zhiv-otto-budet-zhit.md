@@ -1,6 +1,6 @@
 {
   "title": "Отто жил, Отто жив, Отто будет жить!",
-  "date": "2014-07-11T00:33:00+03:00",
+  "date": "2014-07-10T23:33:18+03:00",
   "url": "/news/otto-zhil-otto-zhiv-otto-budet-zhit/",
   "original_url": "https://spidermedia.ru/news/otto-zhil-otto-zhiv-otto-budet-zhit",
   "archived": "https://web.archive.org/web/20251014042242/https://spidermedia.ru/news/otto-zhil-otto-zhiv-otto-budet-zhit",
@@ -8,6 +8,12 @@
     "spider-man",
     "marvel",
     "den-slott"
+  ],
+  "cover": "https://web.archive.org/web/20150326100629im_/http://spidermedia.ru/assets/images/import_image/7877.jpg",
+  "modx_id": 7877,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

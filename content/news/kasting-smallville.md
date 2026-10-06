@@ -1,7 +1,10 @@
 {
   "title": "Кастинг - Smallville",
-  "date": "2009-10-20T12:40:00+03:00",
+  "date": "2009-10-20T11:40:26+03:00",
   "url": "/news/kasting-smallville/",
+  "aliases": [
+    "/node/2013/"
+  ],
   "original_url": "https://spidermedia.ru/news/kasting-smallville",
   "archived": "https://web.archive.org/web/20250709055729/https://spidermedia.ru/news/kasting-smallville",
   "tags": [
@@ -10,7 +13,14 @@
     "smollvill",
     "obshhestvo-spravedlivosti-ameriki",
     "smallville",
-    "jsa"
+    "jsa",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20250709055729im_/http://spidermedia.ru/assets/images/import_image/2013.jpg",
+  "modx_id": 2013,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

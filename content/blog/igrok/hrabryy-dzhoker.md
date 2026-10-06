@@ -1,7 +1,10 @@
 {
   "title": "Храбрый Джокер",
-  "date": "2009-02-16T00:55:00+03:00",
+  "date": "2009-02-16T00:55:57+03:00",
   "url": "/blog/igrok/hrabryy-dzhoker/",
+  "aliases": [
+    "/node/381/"
+  ],
   "original_url": "http://spidermedia.ru/blog/igrok/hrabryy-dzhoker",
   "archived": "https://web.archive.org/web/20251216172616/http://spidermedia.ru/blog/igrok/hrabryy-dzhoker",
   "tags": [
@@ -9,6 +12,11 @@
     "batman",
     "joker",
     "toy-fair-2009"
+  ],
+  "modx_id": 381,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

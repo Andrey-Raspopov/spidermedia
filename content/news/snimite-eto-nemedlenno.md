@@ -1,13 +1,22 @@
 {
   "title": "Снимите это немедленно!",
-  "date": "2009-11-16T20:33:00+03:00",
+  "date": "2009-11-16T20:33:42+03:00",
   "url": "/news/snimite-eto-nemedlenno/",
+  "aliases": [
+    "/node/2079/"
+  ],
   "original_url": "https://spidermedia.ru/news/snimite-eto-nemedlenno",
   "archived": "https://web.archive.org/web/20250422031758/https://spidermedia.ru/news/snimite-eto-nemedlenno",
   "tags": [
     "figurki",
     "konkurs",
     "igrushki"
+  ],
+  "cover": "https://web.archive.org/web/20150326195855im_/http://spidermedia.ru/assets/images/import_image/2079.jpg",
+  "modx_id": 2079,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

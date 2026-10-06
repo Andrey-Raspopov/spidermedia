@@ -1,7 +1,10 @@
 {
   "title": "Dark Reign review",
-  "date": "2009-02-01T19:09:00+03:00",
+  "date": "2009-02-01T19:09:15+03:00",
   "url": "/blog/jean-grey/dark-reign-review/",
+  "aliases": [
+    "/node/81/"
+  ],
   "original_url": "http://spidermedia.ru/blog/jean-grey/dark-reign-review",
   "archived": "https://web.archive.org/web/20220814192607/http://spidermedia.ru/blog/jean-grey/dark-reign-review",
   "tags": [
@@ -13,6 +16,12 @@
     "loki",
     "hood",
     "norman-osborn"
+  ],
+  "cover": "https://web.archive.org/web/20150315210246im_/http://spidermedia.ru/assets/images/ecahznqzhc4.jpg",
+  "modx_id": 81,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

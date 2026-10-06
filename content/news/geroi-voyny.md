@@ -1,13 +1,22 @@
 {
   "title": "Герои Войны",
-  "date": "2009-04-01T16:16:00+03:00",
+  "date": "2009-04-01T15:16:28+03:00",
   "url": "/news/geroi-voyny/",
+  "aliases": [
+    "/node/831/"
+  ],
   "original_url": "http://spidermedia.ru/news/geroi-voyny",
   "archived": "https://web.archive.org/web/20120609002123/http://spidermedia.ru/news/geroi-voyny",
   "tags": [
     "70th-anniversary-special",
     "komiksy",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20120609002123im_/http://spidermedia.ru/assets/images/import_image/831.jpg",
+  "modx_id": 831,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

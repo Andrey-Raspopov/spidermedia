@@ -1,6 +1,6 @@
 {
   "title": "Green Lantern: The Animated Series",
-  "date": "2011-06-21T11:00:00+03:00",
+  "date": "2011-06-21T10:00:23+03:00",
   "url": "/news/green-lantern-animated-series/",
   "original_url": "http://spidermedia.ru/news/green-lantern-animated-series",
   "archived": "https://web.archive.org/web/20250217074744/http://spidermedia.ru/news/green-lantern-animated-series",
@@ -8,6 +8,12 @@
     "green-lantern",
     "animaciya",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20250217074744im_/http://spidermedia.ru/assets/images/import_image/6462.jpg",
+  "modx_id": 6462,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Аквамен в кино: первый кадр",
-  "date": "2015-02-20T09:12:00+03:00",
+  "date": "2015-02-20T09:12:24+03:00",
   "url": "/news/akvamen-v-kino-pervyy-kadr/",
   "original_url": "https://spidermedia.ru/news/akvamen-v-kino-pervyy-kadr",
   "archived": "https://web.archive.org/web/20251013184132/https://spidermedia.ru/news/akvamen-v-kino-pervyy-kadr",
@@ -8,6 +8,12 @@
     "kasting",
     "aquaman",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150326034126im_/http://spidermedia.ru/assets/images/import_image/8637.jpg",
+  "modx_id": 8637,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

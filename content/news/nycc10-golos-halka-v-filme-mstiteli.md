@@ -1,6 +1,6 @@
 {
   "title": "NYCC'10: Голос Халка в фильме \"Мстители\"",
-  "date": "2010-10-10T20:01:00+03:00",
+  "date": "2010-10-10T19:01:42+03:00",
   "url": "/news/nycc10-golos-halka-v-filme-mstiteli/",
   "original_url": "http://spidermedia.ru/news/nycc10-golos-halka-v-filme-mstiteli",
   "archived": "https://web.archive.org/web/20260125122223/http://spidermedia.ru/news/nycc10-golos-halka-v-filme-mstiteli",
@@ -11,6 +11,12 @@
     "marvel",
     "hulk",
     "avengers"
+  ],
+  "cover": "https://web.archive.org/web/20260125122223im_/http://spidermedia.ru/assets/images/import_image/2992.jpg",
+  "modx_id": 2992,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,12 +1,18 @@
 {
   "title": "Сиквелы Росомахи и Фантастической Четвёрки увидят свет в 2017",
-  "date": "2014-03-22T00:27:00+03:00",
+  "date": "2014-03-21T23:27:42+03:00",
   "url": "/news/sikvely-rosomahi-i-fantasticheskoy-chetvyorki-uvidyat-svet-v-2017/",
   "original_url": "https://spidermedia.ru/news/sikvely-rosomahi-i-fantasticheskoy-chetvyorki-uvidyat-svet-v-2017",
   "archived": "https://web.archive.org/web/20250316171648/https://spidermedia.ru/news/sikvely-rosomahi-i-fantasticheskoy-chetvyorki-uvidyat-svet-v-2017",
   "tags": [
     "fantastic-four",
     "wolverine"
+  ],
+  "cover": "https://web.archive.org/web/20250316171648im_/http://spidermedia.ru/assets/images/import_image/7692.jpg",
+  "modx_id": 7692,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

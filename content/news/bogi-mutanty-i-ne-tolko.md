@@ -1,7 +1,10 @@
 {
   "title": "Боги, Мутанты и не только",
-  "date": "2009-09-25T02:00:00+03:00",
+  "date": "2009-09-25T01:00:26+03:00",
   "url": "/news/bogi-mutanty-i-ne-tolko/",
+  "aliases": [
+    "/node/1929/"
+  ],
   "original_url": "http://spidermedia.ru/news/bogi-mutanty-i-ne-tolko",
   "archived": "https://web.archive.org/web/20170908231348/http://spidermedia.ru:80/news/bogi-mutanty-i-ne-tolko",
   "tags": [
@@ -12,7 +15,14 @@
     "marvel",
     "fantastic-four",
     "thor",
-    "x-men"
+    "x-men",
+    "silver-surfer"
+  ],
+  "cover": "https://web.archive.org/web/20170908231348im_/http://spidermedia.ru/assets/images/import_image/1929.jpg",
+  "modx_id": 1929,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

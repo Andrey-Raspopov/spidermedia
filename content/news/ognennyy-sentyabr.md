@@ -1,7 +1,10 @@
 {
   "title": "Огненный сентябрь",
-  "date": "2009-06-13T03:30:00+03:00",
+  "date": "2009-06-13T02:30:21+03:00",
   "url": "/news/ognennyy-sentyabr/",
+  "aliases": [
+    "/node/1367/"
+  ],
   "original_url": "http://spidermedia.ru/news/ognennyy-sentyabr",
   "archived": "https://web.archive.org/web/20260208195010/http://spidermedia.ru/news/ognennyy-sentyabr",
   "tags": [
@@ -12,13 +15,19 @@
     "alex-ross",
     "doktor-nemezis",
     "chelovek-fakel",
-    "patrik-berkenkotter"
+    "patrik-berkenkotter",
+    "art"
+  ],
+  "modx_id": 1367,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-Сентябрь приготовил, как минимум, одно хорошее событие для поклонников комиксов и **Marvel** в частности. [Анонсированная](http://spidermedia.ru/node/1297) лимитка о **Человеке-Факеле** *(Human Torch)* разжилась именем художника и первыми наметками на сюжет.
+Сентябрь приготовил, как минимум, одно хорошее событие для поклонников комиксов и **Marvel** в частности. [Анонсированная](../plamennyy-privet/) лимитка о **Человеке-Факеле** *(Human Torch)* разжилась именем художника и первыми наметками на сюжет.
 **ОБНОВЛЕНИЕ:** добавлен вариант-кавер (справа) первого номера от Алекса Росса.
  [![](https://web.archive.org/web/20260208195010im_/http://www.picamatic.com/show/2009/06/13/02/53/3973561_bigthumb.jpg)](http://i.livescience.com/images/TheTorch01RossCover.jpg) [![](https://web.archive.org/web/20260208195010im_/http://www.picamatic.com/show/2009/06/13/02/51/3973546_bigthumb.jpg)](http://www.comicbookresources.com/assets/images/articles/1244834291.jpg)
 Мини-серия из 8 номеров обрела точное название - **The Torch**, а к сценаристам **Алексу Россу** и **Майку Кэри** *(Alex Ross & Mike Carey)* присоединился художник **Патрик Беркенкоттер** *(Patrick Berkenkotter)*.

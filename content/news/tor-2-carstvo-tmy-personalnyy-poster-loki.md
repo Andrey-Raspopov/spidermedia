@@ -1,6 +1,6 @@
 {
   "title": "\"Тор 2: Царство тьмы\": Персональный постер Локи",
-  "date": "2013-09-10T11:26:00+03:00",
+  "date": "2013-09-10T10:26:01+03:00",
   "url": "/news/tor-2-carstvo-tmy-personalnyy-poster-loki/",
   "original_url": "https://spidermedia.ru/news/tor-2-carstvo-tmy-personalnyy-poster-loki",
   "archived": "https://web.archive.org/web/20250113163726/https://spidermedia.ru/news/tor-2-carstvo-tmy-personalnyy-poster-loki",
@@ -8,7 +8,14 @@
     "thor",
     "postery",
     "marvel",
-    "loki"
+    "loki",
+    "tor"
+  ],
+  "cover": "https://web.archive.org/web/20250113163726im_/http://spidermedia.ru/assets/images/import_image/7461.jpg",
+  "modx_id": 7461,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Новая авторская команда онгоинга Superman",
-  "date": "2014-02-04T20:33:00+03:00",
+  "date": "2014-02-04T19:33:42+03:00",
   "url": "/news/novaya-avtorskaya-komanda-ongoinga-superman/",
   "original_url": "https://spidermedia.ru/news/novaya-avtorskaya-komanda-ongoinga-superman",
   "archived": "https://web.archive.org/web/20260305234812/https://spidermedia.ru/news/novaya-avtorskaya-komanda-ongoinga-superman",
@@ -9,6 +9,12 @@
     "dzhon-romita-ml",
     "geoff-johns",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150503090404im_/http://spidermedia.ru/assets/images/import_image/7627.jpg",
+  "modx_id": 7627,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

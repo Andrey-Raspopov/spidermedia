@@ -1,13 +1,22 @@
 {
   "title": "Реплика пистолета из \"Ignition City\"",
-  "date": "2009-04-17T21:50:00+03:00",
+  "date": "2009-04-17T20:50:47+03:00",
   "url": "/blog/sterpazook/replika-pistoleta-iz-ignition-city/",
+  "aliases": [
+    "/node/975/"
+  ],
   "original_url": "https://spidermedia.ru/blog/sterpazook/replika-pistoleta-iz-ignition-city",
   "archived": "https://web.archive.org/web/20260121004224/https://spidermedia.ru/blog/sterpazook/replika-pistoleta-iz-ignition-city",
   "tags": [
     "figurki",
     "warren-ellis",
     "avatar-press"
+  ],
+  "cover": "https://web.archive.org/web/20260121004224im_/http://spidermedia.ru/assets/images/import_image/975.jpg",
+  "modx_id": 975,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

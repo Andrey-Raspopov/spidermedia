@@ -1,12 +1,20 @@
 {
   "title": "Исповедь",
-  "date": "2009-04-06T13:12:00+03:00",
+  "date": "2009-04-06T12:12:11+03:00",
   "url": "/blog/redson/ispoved/",
+  "aliases": [
+    "/node/867/"
+  ],
   "original_url": "http://spidermedia.ru/blog/redson/ispoved",
   "archived": "https://web.archive.org/web/20120611192359/http://spidermedia.ru/blog/redson/ispoved",
   "tags": [
     "komiksy",
     "fanstaff"
+  ],
+  "modx_id": 867,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

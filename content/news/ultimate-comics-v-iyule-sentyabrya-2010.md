@@ -1,7 +1,10 @@
 {
   "title": "Ultimate Comics в июле-сентября 2010",
-  "date": "2010-07-14T13:08:00+03:00",
+  "date": "2010-07-14T12:08:29+03:00",
   "url": "/news/ultimate-comics-v-iyule-sentyabrya-2010/",
+  "aliases": [
+    "/node/2726/"
+  ],
   "original_url": "http://spidermedia.ru/news/ultimate-comics-v-iyule-sentyabrya-2010",
   "archived": "https://web.archive.org/web/20190907234520/http://spidermedia.ru:80/news/ultimate-comics-v-iyule-sentyabrya-2010",
   "tags": [
@@ -10,6 +13,12 @@
     "ultimate",
     "spider-man",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20190907234520im_/http://spidermedia.ru/assets/images/import_image/2726.jpg",
+  "modx_id": 2726,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

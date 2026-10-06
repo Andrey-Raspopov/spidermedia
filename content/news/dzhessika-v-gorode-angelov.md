@@ -1,7 +1,10 @@
 {
   "title": "Джессика в Городе Ангелов",
-  "date": "2009-02-19T23:26:00+03:00",
+  "date": "2009-02-19T23:26:25+03:00",
   "url": "/news/dzhessika-v-gorode-angelov/",
+  "aliases": [
+    "/node/447/"
+  ],
   "original_url": "https://spidermedia.ru/news/dzhessika-v-gorode-angelov",
   "archived": "https://web.archive.org/web/20260214141354/https://spidermedia.ru/news/dzhessika-v-gorode-angelov",
   "tags": [
@@ -10,7 +13,13 @@
     "dzhonatan-grin",
     "spider-woman",
     "marvel",
-    "cifrovye-komiksy"
+    "cifrovye-komiksy",
+    "prevyu"
+  ],
+  "modx_id": 447,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

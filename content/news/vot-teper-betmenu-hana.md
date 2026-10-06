@@ -1,7 +1,10 @@
 {
   "title": "Вот теперь Бэтмену хана",
-  "date": "2009-07-09T11:35:00+03:00",
+  "date": "2009-07-09T10:35:32+03:00",
   "url": "/news/vot-teper-betmenu-hana/",
+  "aliases": [
+    "/node/1501/"
+  ],
   "original_url": "http://spidermedia.ru/news/vot-teper-betmenu-hana",
   "archived": "https://web.archive.org/web/20260121004750/http://spidermedia.ru/news/vot-teper-betmenu-hana",
   "tags": [
@@ -16,6 +19,12 @@
     "penguin",
     "dc-comics",
     "batman"
+  ],
+  "cover": "https://web.archive.org/web/20150502181045im_/http://spidermedia.ru/assets/images/import_image/1501.png",
+  "modx_id": 1501,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

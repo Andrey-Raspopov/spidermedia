@@ -1,6 +1,6 @@
 {
   "title": "Альфа и Омега",
-  "date": "2011-10-17T20:22:00+03:00",
+  "date": "2011-10-17T19:22:45+03:00",
   "url": "/news/alfa-i-omega/",
   "original_url": "http://spidermedia.ru/news/alfa-i-omega",
   "archived": "https://web.archive.org/web/20241105154244/http://spidermedia.ru/news/alfa-i-omega",
@@ -11,7 +11,14 @@
     "kventin-kvajer",
     "brian-wood",
     "x-men",
-    "marvel"
+    "marvel",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20241105154244im_/http://spidermedia.ru/assets/images/import_image/6654.jpg",
+  "modx_id": 6654,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

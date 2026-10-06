@@ -1,7 +1,10 @@
 {
   "title": "Spider-Woman: Малеев скрашивает ожидание + Обновление",
-  "date": "2009-07-20T14:38:00+03:00",
+  "date": "2009-07-20T13:38:00+03:00",
   "url": "/news/spider-woman-maleev-skrashivaet-ozhidanie-obnovlenie/",
+  "aliases": [
+    "/node/1553/"
+  ],
   "original_url": "https://spidermedia.ru/news/spider-woman-maleev-skrashivaet-ozhidanie-obnovlenie",
   "archived": "https://web.archive.org/web/20251014050526/https://spidermedia.ru/news/spider-woman-maleev-skrashivaet-ozhidanie-obnovlenie",
   "tags": [
@@ -13,7 +16,14 @@
     "spider-woman",
     "motion-comics",
     "marvel",
-    "brian-michael-bendis"
+    "brian-michael-bendis",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20251014050526im_/http://spidermedia.ru/assets/images/import_image/1553.jpg",
+  "modx_id": 1553,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

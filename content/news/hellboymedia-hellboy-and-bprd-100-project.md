@@ -1,12 +1,18 @@
 {
   "title": "Hellboymedia: Инициатива The Hellboy 100 Project",
-  "date": "2015-01-07T16:01:00+03:00",
+  "date": "2015-01-07T16:01:02+03:00",
   "url": "/news/hellboymedia-hellboy-and-bprd-100-project/",
   "original_url": "http://spidermedia.ru/news/hellboymedia-hellboy-and-bprd-100-project",
   "archived": "https://web.archive.org/web/20260309183457/http://spidermedia.ru/news/hellboymedia-hellboy-and-bprd-100-project",
   "tags": [
     "hellboymedia",
     "novosti"
+  ],
+  "cover": "https://web.archive.org/web/20160611202523im_/http://spidermedia.ru/assets/images/hellboymedia/news/the-hellboy-100-project/the-hellboy-100-project-cover-horizontal.jpg",
+  "modx_id": 8468,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

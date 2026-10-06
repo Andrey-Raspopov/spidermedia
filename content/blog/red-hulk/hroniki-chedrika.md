@@ -1,11 +1,19 @@
 {
   "title": "Хроники Чедрика",
-  "date": "2009-05-08T15:58:00+03:00",
+  "date": "2009-05-08T14:58:17+03:00",
   "url": "/blog/red-hulk/hroniki-chedrika/",
+  "aliases": [
+    "/node/1133/"
+  ],
   "original_url": "https://spidermedia.ru/blog/red-hulk/hroniki-chedrika",
   "archived": "https://web.archive.org/web/20241106085211/https://spidermedia.ru/blog/red-hulk/hroniki-chedrika",
   "tags": [
     "russian-comics"
+  ],
+  "modx_id": 1133,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

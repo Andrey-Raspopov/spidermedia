@@ -1,12 +1,18 @@
 {
   "title": "Hellboymedia: Новая серия Hellboy and the B.P.R.D.",
-  "date": "2014-07-08T22:24:00+03:00",
+  "date": "2014-07-08T21:24:47+03:00",
   "url": "/news/hellboymedia-news-novaya-seriya-hellboy-and-bprd/",
   "original_url": "http://spidermedia.ru/news/hellboymedia-news-novaya-seriya-hellboy-and-bprd",
   "archived": "https://web.archive.org/web/20260124045204/http://spidermedia.ru/news/hellboymedia-news-novaya-seriya-hellboy-and-bprd",
   "tags": [
     "novosti",
     "hellboymedia"
+  ],
+  "cover": "https://web.archive.org/web/20160611215036im_/http://spidermedia.ru/assets/images/hellboymedia/news/hellboy-and-the-bprd/hellboy-and-the-b.p.r.d.-annoucement-cover-horizontal.jpg",
+  "modx_id": 7869,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

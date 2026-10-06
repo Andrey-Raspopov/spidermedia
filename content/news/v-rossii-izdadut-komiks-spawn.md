@@ -1,6 +1,6 @@
 {
   "title": "В России издадут комикс SPAWN",
-  "date": "2014-04-15T16:22:00+03:00",
+  "date": "2014-04-15T15:22:15+03:00",
   "url": "/news/v-rossii-izdadut-komiks-spawn/",
   "original_url": "http://spidermedia.ru/news/v-rossii-izdadut-komiks-spawn",
   "archived": "https://web.archive.org/web/20251213190008/http://spidermedia.ru/news/v-rossii-izdadut-komiks-spawn",
@@ -9,6 +9,12 @@
     "xl-media",
     "spawn",
     "image-comics"
+  ],
+  "cover": "https://web.archive.org/web/20251213190008im_/http://spidermedia.ru/assets/images/import_image/7713.jpg",
+  "modx_id": 7713,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

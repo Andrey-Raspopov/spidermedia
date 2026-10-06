@@ -1,11 +1,17 @@
 {
   "title": "День новых комиксов: 11 февраля",
-  "date": "2015-02-11T12:00:00+03:00",
+  "date": "2015-02-11T12:00:13+03:00",
   "url": "/blog/oleg89/den-novyh-komiksov-11-fevralya-0/",
   "original_url": "http://spidermedia.ru/blog/oleg89/den-novyh-komiksov-11-fevralya-0",
   "archived": "https://web.archive.org/web/20200205094710/http://spidermedia.ru:80/blog/oleg89/den-novyh-komiksov-11-fevralya-0",
   "tags": [
     "den-novyh-komiksov"
+  ],
+  "cover": "https://web.archive.org/web/20150326055530im_/http://spidermedia.ru/assets/images/import_image/8604.jpg",
+  "modx_id": 8604,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

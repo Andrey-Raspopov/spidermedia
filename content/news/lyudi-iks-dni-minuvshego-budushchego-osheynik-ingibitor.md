@@ -1,13 +1,21 @@
 {
   "title": "\"Люди Икс: Дни минувшего будущего\": Ошейник-ингибитор",
-  "date": "2013-08-09T11:08:00+03:00",
+  "date": "2013-08-09T10:08:36+03:00",
   "url": "/news/lyudi-iks-dni-minuvshego-budushchego-osheynik-ingibitor/",
   "original_url": "http://spidermedia.ru/news/lyudi-iks-dni-minuvshego-budushchego-osheynik-ingibitor",
   "archived": "https://web.archive.org/web/20260305234659/http://spidermedia.ru/news/lyudi-iks-dni-minuvshego-budushchego-osheynik-ingibitor",
   "tags": [
     "marvel",
     "x-men",
-    "days-of-future-past"
+    "days-of-future-past",
+    "lyudi-iks",
+    "dni-minuvshego-budushhego"
+  ],
+  "cover": "https://web.archive.org/web/20260305234659im_/http://spidermedia.ru/assets/images/import_image/7410.jpg",
+  "modx_id": 7410,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

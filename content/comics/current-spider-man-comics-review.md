@@ -12,6 +12,12 @@
     "spider-man",
     "chip-zdarski"
   ],
+  "cover": "https://web.archive.org/web/20251013183813im_/http://spidermedia.ru/assets/images/reviews/marvel/spider-man/asm-ppssm/cover.jpg",
+  "modx_id": 101724,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

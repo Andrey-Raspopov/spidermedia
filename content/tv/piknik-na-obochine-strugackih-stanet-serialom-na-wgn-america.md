@@ -4,6 +4,12 @@
   "url": "/tv/piknik-na-obochine-strugackih-stanet-serialom-na-wgn-america/",
   "original_url": "http://spidermedia.ru/tv/piknik-na-obochine-strugackih-stanet-serialom-na-wgn-america",
   "archived": "https://web.archive.org/web/20220517201611/http://spidermedia.ru/tv/piknik-na-obochine-strugackih-stanet-serialom-na-wgn-america",
+  "cover": "https://web.archive.org/web/20220517201611im_/http://spidermedia.ru/assets/images/tv/f7wizy_r_q0.jpg",
+  "modx_id": 100550,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

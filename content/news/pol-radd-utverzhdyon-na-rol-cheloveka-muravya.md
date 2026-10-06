@@ -1,12 +1,18 @@
 {
   "title": "Пол Радд утверждён на роль Человека-Муравья",
-  "date": "2013-12-20T10:56:00+03:00",
+  "date": "2013-12-20T09:56:40+03:00",
   "url": "/news/pol-radd-utverzhdyon-na-rol-cheloveka-muravya/",
   "original_url": "http://spidermedia.ru/news/pol-radd-utverzhdyon-na-rol-cheloveka-muravya",
   "archived": "https://web.archive.org/web/20170520174037/http://spidermedia.ru:80/news/pol-radd-utverzhdyon-na-rol-cheloveka-muravya",
   "tags": [
     "ant-man",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150424135839im_/http://spidermedia.ru/assets/images/import_image/7576.jpg",
+  "modx_id": 7576,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

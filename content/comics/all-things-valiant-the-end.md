@@ -6,7 +6,14 @@
   "archived": "https://web.archive.org/web/20260211092030/http://spidermedia.ru/comics/all-things-valiant-the-end",
   "tags": [
     "valiant-entertainment",
-    "dorogaya-redakciya"
+    "dorogaya-redakciya",
+    "all-things-valiant"
+  ],
+  "cover": "https://web.archive.org/web/20260211092030im_/http://spidermedia.ru/assets/images/valiant/all-things-valiant-the-end/all-things-valiant-the-end-cover.jpg",
+  "modx_id": 100293,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

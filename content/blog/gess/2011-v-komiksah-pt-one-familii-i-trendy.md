@@ -1,11 +1,17 @@
 {
   "title": "2011 в комиксах, pt. one - имена и тренды",
-  "date": "2011-12-31T01:13:00+03:00",
+  "date": "2011-12-31T00:13:04+03:00",
   "url": "/blog/gess/2011-v-komiksah-pt-one-familii-i-trendy/",
   "original_url": "http://spidermedia.ru/blog/gess/2011-v-komiksah-pt-one-familii-i-trendy",
   "archived": "https://web.archive.org/web/20251216181414/http://spidermedia.ru/blog/gess/2011-v-komiksah-pt-one-familii-i-trendy",
   "tags": [
     "itogi-goda"
+  ],
+  "cover": "https://web.archive.org/web/20251216181414im_/http://spidermedia.ru/assets/images/import_image/6748.jpg",
+  "modx_id": 6748,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

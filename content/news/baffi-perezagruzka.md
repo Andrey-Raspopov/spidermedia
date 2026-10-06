@@ -1,12 +1,21 @@
 {
   "title": "Баффи: Перезагрузка",
-  "date": "2009-05-26T11:39:00+03:00",
+  "date": "2009-05-26T10:39:39+03:00",
   "url": "/news/baffi-perezagruzka/",
+  "aliases": [
+    "/node/1276/"
+  ],
   "original_url": "http://spidermedia.ru/news/baffi-perezagruzka",
   "archived": "https://web.archive.org/web/20200128045003/http://spidermedia.ru:80/news/baffi-perezagruzka",
   "tags": [
     "perezapusk",
     "baffi-istrebitelnica-vampirov"
+  ],
+  "cover": "https://web.archive.org/web/20200128045003im_/http://spidermedia.ru/assets/images/import_image/1276.jpg",
+  "modx_id": 1276,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

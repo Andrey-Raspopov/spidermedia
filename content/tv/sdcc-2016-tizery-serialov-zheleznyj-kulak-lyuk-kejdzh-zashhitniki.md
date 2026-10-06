@@ -13,6 +13,12 @@
     "daredevil",
     "san-diego-comic-con-international"
   ],
+  "cover": "https://web.archive.org/web/20251211020724im_/http://spidermedia.ru/assets/images/tv/marvel/ironfist/iron-fist.jpg",
+  "modx_id": 101276,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

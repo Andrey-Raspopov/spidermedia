@@ -4,6 +4,12 @@
   "url": "/games/mobile-games/",
   "original_url": "http://spidermedia.ru/games/mobile-games",
   "archived": "https://web.archive.org/web/20230320160717/http://spidermedia.ru/games/mobile-games",
+  "cover": "https://web.archive.org/web/20160611084124im_/http://spidermedia.ru/assets/images/games/mobile/001.jpg",
+  "modx_id": 100559,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

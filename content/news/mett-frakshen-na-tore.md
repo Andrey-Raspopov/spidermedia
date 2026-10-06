@@ -1,6 +1,6 @@
 {
   "title": "Мэтт Фракшен на Торе",
-  "date": "2010-06-28T01:39:00+03:00",
+  "date": "2010-06-28T00:39:22+03:00",
   "url": "/news/mett-frakshen-na-tore/",
   "original_url": "http://spidermedia.ru/news/mett-frakshen-na-tore",
   "archived": "https://web.archive.org/web/20120512065142/http://spidermedia.ru/news/mett-frakshen-na-tore",
@@ -9,13 +9,20 @@
     "marvel",
     "mett-frakshen",
     "paskal-ferri-0",
-    "tor"
+    "tor",
+    "paskal-ferri"
+  ],
+  "cover": "https://web.archive.org/web/20120512065142im_/http://spidermedia.ru/assets/images/import_image/2693.jpg",
+  "modx_id": 2693,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }
 
-Мы [уже писали](../../node/2173/) о том, что **Мэтт Фракшен** *(Matt Fraction)* станет новым сценаристом онгоинга **Thor**. Впрочем, с тех пор прошло очень много времени, поэтому в данной новости мы расскажем вам, что изменилось с момента предыдущей новости, а так же о том, чего стоит ждать от серии, когда за неё возьмется **Фракшен**.
+Мы [уже писали](../novyy-tor-v-novom-godu/) о том, что **Мэтт Фракшен** *(Matt Fraction)* станет новым сценаристом онгоинга **Thor**. Впрочем, с тех пор прошло очень много времени, поэтому в данной новости мы расскажем вам, что изменилось с момента предыдущей новости, а так же о том, чего стоит ждать от серии, когда за неё возьмется **Фракшен**.
 
 ]]>[![](https://web.archive.org/web/20120512065142im_/http://img.photobucket.com/albums/v497/spidermedia/sp888_News/th_1268415226.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/sp888_News/1268415226.jpg)]]> ]]>[![](https://web.archive.org/web/20120512065142im_/http://img.photobucket.com/albums/v497/spidermedia/sp888_News/THORV2615023scol-1.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/sp888_News/THORV2615023scol.jpg)]]>
 Обложка и страница для **Thor #615**

@@ -8,6 +8,12 @@
     "best-column-about-comics",
     "mnenie"
   ],
+  "cover": "https://web.archive.org/web/20260123082819im_/http://spidermedia.ru/assets/images/best-column-about-comics/36-multiple-warheads/multiple-warheads-cover.jpg",
+  "modx_id": 101911,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

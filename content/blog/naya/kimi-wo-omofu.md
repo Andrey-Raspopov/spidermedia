@@ -1,6 +1,6 @@
 {
   "title": "Kimi wo Omofu",
-  "date": "2009-03-31T22:25:00+03:00",
+  "date": "2009-03-31T21:25:06+03:00",
   "url": "/blog/naya/kimi-wo-omofu/",
   "original_url": "http://spidermedia.ru/blog/naya/kimi-wo-omofu",
   "archived": "https://web.archive.org/web/20120607131454/http://spidermedia.ru/blog/naya/kimi-wo-omofu",
@@ -9,7 +9,14 @@
     "drama",
     "manga",
     "one-shot",
-    "skachat"
+    "skachat",
+    "manga-2"
+  ],
+  "cover": "https://web.archive.org/web/20120607131454im_/http://spidermedia.ru/assets/images/import_image/821.gif",
+  "modx_id": 821,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

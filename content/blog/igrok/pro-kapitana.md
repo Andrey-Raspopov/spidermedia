@@ -1,12 +1,18 @@
 {
   "title": "Про Капитана",
-  "date": "2010-03-19T12:43:00+03:00",
+  "date": "2010-03-19T12:43:35+03:00",
   "url": "/blog/igrok/pro-kapitana/",
   "original_url": "http://spidermedia.ru/blog/igrok/pro-kapitana",
   "archived": "https://web.archive.org/web/20260125070823/http://spidermedia.ru/blog/igrok/pro-kapitana",
   "tags": [
     "captain-america",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150315210246im_/http://spidermedia.ru/assets/images/ecahznqzhc4.jpg",
+  "modx_id": 2459,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

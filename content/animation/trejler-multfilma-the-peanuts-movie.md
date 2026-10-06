@@ -7,6 +7,12 @@
   "tags": [
     "peanuts"
   ],
+  "cover": "https://web.archive.org/web/20160611151917im_/http://spidermedia.ru/assets/images/animation/misc/peanuts-movie-2015/snupi-poster.jpg",
+  "modx_id": 100591,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

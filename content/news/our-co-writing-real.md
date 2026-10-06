@@ -1,6 +1,6 @@
 {
   "title": "Our co-writing is real",
-  "date": "2012-02-17T10:04:00+03:00",
+  "date": "2012-02-17T09:04:16+03:00",
   "url": "/news/our-co-writing-real/",
   "original_url": "http://spidermedia.ru/news/our-co-writing-real",
   "archived": "https://web.archive.org/web/20260116221639/http://spidermedia.ru/news/our-co-writing-real",
@@ -10,6 +10,12 @@
     "ultimates",
     "ultimate",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20260116221639im_/http://spidermedia.ru/assets/images/import_image/6788.jpg",
+  "modx_id": 6788,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

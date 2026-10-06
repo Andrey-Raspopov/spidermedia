@@ -7,7 +7,14 @@
   "tags": [
     "dc-comics",
     "san-diego-comic-con-international",
-    "suicide-squad"
+    "suicide-squad",
+    "sdcc2015"
+  ],
+  "cover": "https://web.archive.org/web/20160619061331im_/http://spidermedia.ru/assets/images/news/sdcc/2015/kino/g_v_zgbmufu.jpg",
+  "modx_id": 100375,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

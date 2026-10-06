@@ -1,12 +1,18 @@
 {
   "title": "ALL-NEW МЖДЗ: BIZARRE ADVENTURE",
-  "date": "2014-09-09T12:38:00+03:00",
+  "date": "2014-09-09T11:38:20+03:00",
   "url": "/blog/redson/all-new-mzhdz-bizarre-adventure/",
   "original_url": "http://spidermedia.ru/blog/redson/all-new-mzhdz-bizarre-adventure",
   "archived": "https://web.archive.org/web/20220808173830/http://spidermedia.ru/blog/redson/all-new-mzhdz-bizarre-adventure",
   "tags": [
     "mnenie",
     "mzhdz"
+  ],
+  "cover": "https://web.archive.org/web/20150428231414im_/http://spidermedia.ru/assets/images/import_image/8046.jpg",
+  "modx_id": 8046,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

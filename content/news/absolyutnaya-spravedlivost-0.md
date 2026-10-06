@@ -1,7 +1,10 @@
 {
   "title": "Абсолютная Справедливость!",
-  "date": "2009-11-28T11:54:00+03:00",
+  "date": "2009-11-28T11:54:25+03:00",
   "url": "/news/absolyutnaya-spravedlivost-0/",
+  "aliases": [
+    "/node/2125/"
+  ],
   "original_url": "https://spidermedia.ru/news/absolyutnaya-spravedlivost-0",
   "archived": "https://web.archive.org/web/20250913011629/https://spidermedia.ru/news/absolyutnaya-spravedlivost-0",
   "tags": [
@@ -11,6 +14,12 @@
     "jsa",
     "dc-comics",
     "geoff-johns"
+  ],
+  "cover": "https://web.archive.org/web/20250913011629im_/http://spidermedia.ru/assets/images/superman-logo-4.jpg",
+  "modx_id": 2125,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

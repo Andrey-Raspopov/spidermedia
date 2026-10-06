@@ -1,12 +1,21 @@
 {
   "title": "Сценарист \"Сверхъестественного\" адаптирует \"Сэндмена\"",
-  "date": "2010-09-02T11:00:00+03:00",
+  "date": "2010-09-02T10:00:33+03:00",
   "url": "/news/scenarist-sverhestestvennogo-adaptiruet-sendmena/",
+  "aliases": [
+    "/node/2885/"
+  ],
   "original_url": "http://spidermedia.ru/news/scenarist-sverhestestvennogo-adaptiruet-sendmena",
   "archived": "https://web.archive.org/web/20250324163330/http://spidermedia.ru/news/scenarist-sverhestestvennogo-adaptiruet-sendmena",
   "tags": [
     "vertigo",
     "neil-gaiman-sandman"
+  ],
+  "cover": "https://web.archive.org/web/20160506201204im_/http://spidermedia.ru/assets/images/news/movies/_dc_comics/ppbtqgpvwy6j4v8knzpg.jpg",
+  "modx_id": 2885,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

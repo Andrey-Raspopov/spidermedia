@@ -1,6 +1,6 @@
 {
   "title": "Аннотации к Spider-Men #2",
-  "date": "2012-07-01T00:20:00+03:00",
+  "date": "2012-06-30T23:20:46+03:00",
   "url": "/blog/redson/annotacii-k-spider-men-2/",
   "original_url": "https://spidermedia.ru/blog/redson/annotacii-k-spider-men-2",
   "archived": "https://web.archive.org/web/20251108183416/https://spidermedia.ru/blog/redson/annotacii-k-spider-men-2",
@@ -9,6 +9,12 @@
     "spider-man",
     "marvel",
     "brian-michael-bendis"
+  ],
+  "cover": "https://web.archive.org/web/20160611145432im_/http://spidermedia.ru/assets/images/import_image/6949.jpg",
+  "modx_id": 6949,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

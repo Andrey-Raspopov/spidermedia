@@ -8,6 +8,12 @@
     "bande-dessinée",
     "zarubezhnye-komiksy-na-russkom"
   ],
+  "cover": "https://web.archive.org/web/20220703144454im_/http://spidermedia.ru/assets/images/reviews/fanzon/metabarons/mzk.jpg",
+  "modx_id": 101830,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

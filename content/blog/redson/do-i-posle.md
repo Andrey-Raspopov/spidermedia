@@ -1,6 +1,6 @@
 {
   "title": "До и после",
-  "date": "2010-08-28T21:37:00+03:00",
+  "date": "2010-08-28T20:37:18+03:00",
   "url": "/blog/redson/do-i-posle/",
   "original_url": "http://spidermedia.ru/blog/redson/do-i-posle",
   "archived": "https://web.archive.org/web/20251207093158/http://spidermedia.ru/blog/redson/do-i-posle",
@@ -11,7 +11,15 @@
     "art-0",
     "david-aja",
     "frank-darmata",
-    "frenk-darmata"
+    "frenk-darmata",
+    "lyudi-iks",
+    "art"
+  ],
+  "cover": "https://web.archive.org/web/20251207093158im_/http://spidermedia.ru/assets/images/import_image/2878.jpg",
+  "modx_id": 2878,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

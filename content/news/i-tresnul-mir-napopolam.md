@@ -1,6 +1,6 @@
 {
   "title": "И треснул мир напополам",
-  "date": "2011-04-04T12:17:00+03:00",
+  "date": "2011-04-04T11:17:35+03:00",
   "url": "/news/i-tresnul-mir-napopolam/",
   "original_url": "http://spidermedia.ru/news/i-tresnul-mir-napopolam",
   "archived": "https://web.archive.org/web/20250807004437/http://spidermedia.ru/news/i-tresnul-mir-napopolam",
@@ -14,6 +14,12 @@
     "wolverine",
     "marvel",
     "x-men"
+  ],
+  "cover": "https://web.archive.org/web/20250807004437im_/http://spidermedia.ru/assets/images/import_image/4701.jpg",
+  "modx_id": 4701,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

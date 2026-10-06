@@ -1,11 +1,16 @@
 {
   "title": "Зажигай с нами!",
-  "date": "2011-09-24T06:53:00+03:00",
+  "date": "2011-09-24T05:53:40+03:00",
   "url": "/blog/bezdredoff/zazhigay-s-nami/",
   "original_url": "http://spidermedia.ru/blog/bezdredoff/zazhigay-s-nami",
   "archived": "https://web.archive.org/web/20190907234702/http://spidermedia.ru:80/blog/bezdredoff/zazhigay-s-nami",
   "tags": [
     "zazhigaj"
+  ],
+  "modx_id": 6615,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

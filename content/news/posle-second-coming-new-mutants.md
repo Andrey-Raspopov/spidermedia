@@ -1,13 +1,22 @@
 {
   "title": "После Second Coming: New Mutants",
-  "date": "2010-04-28T01:15:00+03:00",
+  "date": "2010-04-28T00:15:20+03:00",
   "url": "/news/posle-second-coming-new-mutants/",
+  "aliases": [
+    "/node/2587/"
+  ],
   "original_url": "http://spidermedia.ru/news/posle-second-coming-new-mutants",
   "archived": "https://web.archive.org/web/20260214132304/http://spidermedia.ru/news/posle-second-coming-new-mutants",
   "tags": [
     "leonard-kirk",
     "marvel",
     "x-men"
+  ],
+  "cover": "https://web.archive.org/web/20260214132304im_/http://spidermedia.ru/assets/images/import_image/2587.jpg",
+  "modx_id": 2587,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

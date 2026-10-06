@@ -1,12 +1,20 @@
 {
   "title": "Грустные мысли на тему кризиса и индустрии",
-  "date": "2009-02-03T18:32:00+03:00",
+  "date": "2009-02-03T18:32:05+03:00",
   "url": "/blog/gess/grustnye-mysli-na-temu-krizisa-i-industrii/",
+  "aliases": [
+    "/node/153/"
+  ],
   "original_url": "http://spidermedia.ru/blog/gess/grustnye-mysli-na-temu-krizisa-i-industrii",
   "archived": "https://web.archive.org/web/20150428053104/http://spidermedia.ru/blog/gess/grustnye-mysli-na-temu-krizisa-i-industrii",
   "tags": [
     "yumor",
     "industriya"
+  ],
+  "modx_id": 153,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

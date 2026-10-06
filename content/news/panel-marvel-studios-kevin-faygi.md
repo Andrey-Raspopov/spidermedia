@@ -1,12 +1,22 @@
 {
   "title": "Панель Marvel Studios: Кевин Файги",
-  "date": "2010-12-11T05:48:00+03:00",
+  "date": "2010-12-11T05:48:07+03:00",
   "url": "/news/panel-marvel-studios-kevin-faygi/",
+  "aliases": [
+    "/node/3111/"
+  ],
   "original_url": "http://spidermedia.ru/news/panel-marvel-studios-kevin-faygi",
   "archived": "https://web.archive.org/web/20250216231407/http://spidermedia.ru/news/panel-marvel-studios-kevin-faygi",
   "tags": [
     "marvel",
-    "preview"
+    "preview",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20250216231407im_/http://spidermedia.ru/assets/images/import_image/3111.jpg",
+  "modx_id": 3111,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
@@ -36,7 +46,7 @@
 
 *"В **каком-то** из фильмов - **да**."*
 
-**6)** Правда ли это, что вы собираетесь прикреплять ко всем грядущим фильмам [**10-ти минутные короткометражки**](../../node/2684/)?
+**6)** Правда ли это, что вы собираетесь прикреплять ко всем грядущим фильмам [**10-ти минутные короткометражки**](../korotkiy-metr/)?
 
 *"У **Marvel** такого **в планах нет**, но идея неплохая и имеет право на существование."*
 

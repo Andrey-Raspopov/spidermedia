@@ -8,6 +8,12 @@
     "boomkniga",
     "russian-comics"
   ],
+  "cover": "https://web.archive.org/web/20251209133639im_/http://spidermedia.ru/assets/images/reviews/boomkniga/name-face/cover.jpg",
+  "modx_id": 102082,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

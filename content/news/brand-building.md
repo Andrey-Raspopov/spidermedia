@@ -1,6 +1,6 @@
 {
   "title": "Brand Building",
-  "date": "2010-08-11T21:42:00+03:00",
+  "date": "2010-08-11T20:42:35+03:00",
   "url": "/news/brand-building/",
   "original_url": "http://spidermedia.ru/news/brand-building",
   "archived": "https://web.archive.org/web/20260312014730/http://spidermedia.ru/news/brand-building",
@@ -10,6 +10,12 @@
     "grant-morrison",
     "dc-comics",
     "batman"
+  ],
+  "cover": "https://web.archive.org/web/20260312014730im_/http://spidermedia.ru/assets/images/import_image/2852.jpg",
+  "modx_id": 2852,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

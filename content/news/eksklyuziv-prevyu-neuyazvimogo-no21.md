@@ -1,6 +1,6 @@
 {
   "title": "ЭКСКЛЮЗИВ: Превью \"Неуязвимого\" №21",
-  "date": "2013-11-09T17:53:00+03:00",
+  "date": "2013-11-09T16:53:11+03:00",
   "url": "/news/eksklyuziv-prevyu-neuyazvimogo-no21/",
   "original_url": "http://spidermedia.ru/news/eksklyuziv-prevyu-neuyazvimogo-no21",
   "archived": "https://web.archive.org/web/20250324154310/http://spidermedia.ru/news/eksklyuziv-prevyu-neuyazvimogo-no21",
@@ -10,6 +10,12 @@
     "izdatelstvo-42",
     "robert-kirkman",
     "ryan-ottley"
+  ],
+  "cover": "https://web.archive.org/web/20250324154310im_/http://spidermedia.ru/assets/images/import_image/7539.jpg",
+  "modx_id": 7539,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

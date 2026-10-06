@@ -1,7 +1,10 @@
 {
   "title": "Бэтмен против Джокера: Брейкдэнс битва",
-  "date": "2009-10-22T10:52:00+03:00",
+  "date": "2009-10-22T09:52:16+03:00",
   "url": "/blog/sterpazook/betmen-protiv-dzhokera-breykdens-bitva/",
+  "aliases": [
+    "/node/2019/"
+  ],
   "original_url": "https://spidermedia.ru/blog/sterpazook/betmen-protiv-dzhokera-breykdens-bitva",
   "archived": "https://web.archive.org/web/20260211174914/https://spidermedia.ru/blog/sterpazook/betmen-protiv-dzhokera-breykdens-bitva",
   "tags": [
@@ -13,6 +16,11 @@
     "joker",
     "dark-knight",
     "batman"
+  ],
+  "modx_id": 2019,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

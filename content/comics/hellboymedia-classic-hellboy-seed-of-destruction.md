@@ -8,6 +8,12 @@
     "hellboymedia",
     "mnenie"
   ],
+  "cover": "https://web.archive.org/web/20160611142854im_/http://spidermedia.ru/assets/images/hellboymedia/classic/hellboy-vol-01-seed-of-destruction/hellboy-vol.-1-seed-of-destruction-cover.jpg",
+  "modx_id": 100321,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

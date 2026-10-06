@@ -1,12 +1,18 @@
 {
   "title": "Я рисую на асфальте белым мелом слово \"хватит\"",
-  "date": "2013-11-08T13:00:00+03:00",
+  "date": "2013-11-08T12:00:58+03:00",
   "url": "/news/ya-risuyu-na-asfalte-belym-melom-slovo-hvatit/",
   "original_url": "http://spidermedia.ru/news/ya-risuyu-na-asfalte-belym-melom-slovo-hvatit",
   "archived": "https://web.archive.org/web/20200221074341/http://spidermedia.ru:80/news/ya-risuyu-na-asfalte-belym-melom-slovo-hvatit",
   "tags": [
     "nablyudatel",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20200221074341im_/http://spidermedia.ru/assets/images/import_image/7536.jpg",
+  "modx_id": 7536,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

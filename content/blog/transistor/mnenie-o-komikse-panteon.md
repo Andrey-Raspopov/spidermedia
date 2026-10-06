@@ -1,6 +1,6 @@
 {
   "title": "Мнение о комиксе \"Пантеон\"",
-  "date": "2013-09-09T14:35:00+03:00",
+  "date": "2013-09-09T13:35:24+03:00",
   "url": "/blog/transistor/mnenie-o-komikse-panteon/",
   "original_url": "http://spidermedia.ru/blog/transistor/mnenie-o-komikse-panteon",
   "archived": "https://web.archive.org/web/20260120160623/http://spidermedia.ru/blog/transistor/mnenie-o-komikse-panteon",
@@ -8,6 +8,12 @@
     "filipp-sosedov",
     "russian-comics",
     "belyj-edinorog"
+  ],
+  "cover": "https://web.archive.org/web/20260120160623im_/http://spidermedia.ru/assets/images/import_image/7456.jpg",
+  "modx_id": 7456,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -8,6 +8,12 @@
     "marvel",
     "shang-chi"
   ],
+  "cover": "https://web.archive.org/web/20260211090455im_/http://spidermedia.ru/assets/images/screenshot-32.png",
+  "modx_id": 102430,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

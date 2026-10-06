@@ -1,11 +1,17 @@
 {
   "title": "«Черепашки-Ниндзя»: кадр со Шреддером",
-  "date": "2014-06-18T03:33:00+03:00",
+  "date": "2014-06-18T02:33:59+03:00",
   "url": "/news/cherepashki-nindzya-still-so-shredderom/",
   "original_url": "http://spidermedia.ru/news/cherepashki-nindzya-still-so-shredderom",
   "archived": "https://web.archive.org/web/20160630072602/http://spidermedia.ru/news/cherepashki-nindzya-still-so-shredderom",
   "tags": [
     "ninja-turtles"
+  ],
+  "cover": "https://web.archive.org/web/20160630072602im_/http://spidermedia.ru/assets/images/import_image/7825.png",
+  "modx_id": 7825,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

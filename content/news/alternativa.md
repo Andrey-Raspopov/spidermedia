@@ -1,6 +1,6 @@
 {
   "title": "Альтернатива",
-  "date": "2009-05-13T13:25:00+03:00",
+  "date": "2009-05-13T12:25:32+03:00",
   "url": "/news/alternativa/",
   "original_url": "http://spidermedia.ru/news/alternativa",
   "archived": "https://web.archive.org/web/20120512074237/http://spidermedia.ru/news/alternativa",
@@ -10,7 +10,14 @@
     "dzhey-li",
     "komiksy",
     "marvel",
-    "saymon-byanchi"
+    "saymon-byanchi",
+    "sajmon-byanchi"
+  ],
+  "cover": "https://web.archive.org/web/20120512074237im_/http://spidermedia.ru/assets/images/import_image/1169.jpg",
+  "modx_id": 1169,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

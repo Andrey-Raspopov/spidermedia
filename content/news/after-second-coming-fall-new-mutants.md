@@ -1,7 +1,10 @@
 {
   "title": "After Second Coming: Fall of New Mutants",
-  "date": "2010-07-03T17:55:00+03:00",
+  "date": "2010-07-03T16:55:25+03:00",
   "url": "/news/after-second-coming-fall-new-mutants/",
+  "aliases": [
+    "/node/2705/"
+  ],
   "original_url": "https://spidermedia.ru/news/after-second-coming-fall-new-mutants",
   "archived": "https://web.archive.org/web/20260211183841/https://spidermedia.ru/news/after-second-coming-fall-new-mutants",
   "tags": [
@@ -10,11 +13,17 @@
     "marvel",
     "x-men"
   ],
+  "cover": "https://web.archive.org/web/20260211183841im_/http://spidermedia.ru/assets/images/import_image/2705.jpg",
+  "modx_id": 2705,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-Мы [уже писали](../../node/2587/) о изменениях, которые ждут серию **New Mutants**, по окончании кроссовера [**Second Coming**](https://web.archive.org/web/20111018183255/http://spidermedia.ru/taxonomy/term/2395). Теперь, пусть и скудно, начала появляться информация о том, чего же стоит ждать от серии в дальнейшем.
+Мы [уже писали](../posle-second-coming-new-mutants/) о изменениях, которые ждут серию **New Mutants**, по окончании кроссовера [**Second Coming**](https://web.archive.org/web/20111018183255/http://spidermedia.ru/taxonomy/term/2395). Теперь, пусть и скудно, начала появляться информация о том, чего же стоит ждать от серии в дальнейшем.
 
 ![](https://web.archive.org/web/20260211183841im_/http://img.photobucket.com/albums/v497/spidermedia/sp888_News/fall.jpg)
 

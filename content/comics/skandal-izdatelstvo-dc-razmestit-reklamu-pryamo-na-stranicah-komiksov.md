@@ -8,6 +8,12 @@
     "dc-comics",
     "industriya"
   ],
+  "cover": "https://web.archive.org/web/20180401181154im_/http://spidermedia.ru/assets/images/news/dc/dc-comics-same-page-ads1.jpg",
+  "modx_id": 100260,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

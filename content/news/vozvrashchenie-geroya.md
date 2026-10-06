@@ -1,12 +1,18 @@
 {
   "title": "Возвращение Героя",
-  "date": "2013-01-29T12:49:00+03:00",
+  "date": "2013-01-29T11:49:16+03:00",
   "url": "/news/vozvrashchenie-geroya/",
   "original_url": "http://spidermedia.ru/news/vozvrashchenie-geroya",
   "archived": "https://web.archive.org/web/20181112153022/http://spidermedia.ru:80/news/vozvrashchenie-geroya",
   "tags": [
     "recenziya",
     "geroi"
+  ],
+  "cover": "https://web.archive.org/web/20181112153022im_/http://spidermedia.ru/assets/images/import_image/7130.jpg",
+  "modx_id": 7130,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

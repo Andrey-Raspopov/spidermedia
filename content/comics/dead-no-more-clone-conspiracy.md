@@ -8,6 +8,12 @@
     "marvel",
     "spider-man"
   ],
+  "cover": "https://web.archive.org/web/20180315134938im_/http://spidermedia.ru/assets/images/news/marvel/spider-man/clone.jpg",
+  "modx_id": 101227,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

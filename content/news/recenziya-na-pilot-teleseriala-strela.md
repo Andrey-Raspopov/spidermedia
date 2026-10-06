@@ -1,6 +1,6 @@
 {
   "title": "Рецензия: «Стрела», пилотный эпизод",
-  "date": "2012-10-15T12:39:00+03:00",
+  "date": "2012-10-15T11:39:40+03:00",
   "url": "/news/recenziya-na-pilot-teleseriala-strela/",
   "original_url": "http://spidermedia.ru/news/recenziya-na-pilot-teleseriala-strela",
   "archived": "https://web.archive.org/web/20240809114348/http://spidermedia.ru/news/recenziya-na-pilot-teleseriala-strela",
@@ -8,6 +8,12 @@
     "dc-comics",
     "recenziya",
     "green-arrow"
+  ],
+  "cover": "https://web.archive.org/web/20240809114348im_/http://spidermedia.ru/assets/images/import_image/7066.jpg",
+  "modx_id": 7066,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

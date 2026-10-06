@@ -1,11 +1,20 @@
 {
   "title": "Дэдпул позеленел!",
-  "date": "2009-07-11T10:21:00+03:00",
+  "date": "2009-07-11T09:21:37+03:00",
   "url": "/news/dedpul-pozelenel/",
+  "aliases": [
+    "/node/1534/"
+  ],
   "original_url": "http://spidermedia.ru/news/dedpul-pozelenel",
   "archived": "https://web.archive.org/web/20241110024504/http://spidermedia.ru/news/dedpul-pozelenel",
   "tags": [
     "green-lantern"
+  ],
+  "cover": "https://web.archive.org/web/20241110024504im_/http://spidermedia.ru/assets/images/import_image/1534.jpg",
+  "modx_id": 1534,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

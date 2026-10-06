@@ -1,7 +1,10 @@
 {
   "title": "Тучи сгущаются...",
-  "date": "2009-04-18T15:19:00+03:00",
+  "date": "2009-04-18T14:19:56+03:00",
   "url": "/news/tuchi-sgushchayutsya/",
+  "aliases": [
+    "/node/985/"
+  ],
   "original_url": "http://spidermedia.ru/news/tuchi-sgushchayutsya",
   "archived": "https://web.archive.org/web/20260125123206/http://spidermedia.ru/news/tuchi-sgushchayutsya",
   "tags": [
@@ -12,6 +15,11 @@
     "temnejshaya-noch",
     "dag-manke",
     "doug-mahnke"
+  ],
+  "modx_id": 985,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

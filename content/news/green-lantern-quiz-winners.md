@@ -1,6 +1,6 @@
 {
   "title": "Зеленый Фонарь: Результаты Викторины!",
-  "date": "2011-07-06T13:50:00+03:00",
+  "date": "2011-07-06T12:50:53+03:00",
   "url": "/news/green-lantern-quiz-winners/",
   "original_url": "http://spidermedia.ru/news/green-lantern-quiz-winners",
   "archived": "https://web.archive.org/web/20251116063857/http://spidermedia.ru/news/green-lantern-quiz-winners",
@@ -10,6 +10,12 @@
     "manhunters",
     "green-lantern",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20251116063857im_/http://spidermedia.ru/assets/images/import_image/6481.png",
+  "modx_id": 6481,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

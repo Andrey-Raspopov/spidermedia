@@ -9,6 +9,12 @@
     "avengers-week",
     "marvel"
   ],
+  "cover": "https://web.archive.org/web/20210825034939im_/http://spidermedia.ru/assets/images/articles/avengers-week/marvel-cinematic-universe/marvel-studios-the-first-10-years-banner-e1521296244255.jpg",
+  "modx_id": 101904,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

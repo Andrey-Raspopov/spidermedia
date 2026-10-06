@@ -1,6 +1,6 @@
 {
   "title": "Пантеон: Культ двуличия. Новости и превью четвертого номера.",
-  "date": "2013-11-22T23:35:00+03:00",
+  "date": "2013-11-22T22:35:47+03:00",
   "url": "/news/panteon-kult-dvulichiya-novosti-i-prevyu/",
   "original_url": "https://spidermedia.ru/news/panteon-kult-dvulichiya-novosti-i-prevyu",
   "archived": "https://web.archive.org/web/20260116213819/https://spidermedia.ru/news/panteon-kult-dvulichiya-novosti-i-prevyu",
@@ -8,6 +8,12 @@
     "filipp-sosedov",
     "russian-comics",
     "belyj-edinorog"
+  ],
+  "cover": "https://web.archive.org/web/20260116213819im_/http://spidermedia.ru/assets/images/import_image/7554.jpg",
+  "modx_id": 7554,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

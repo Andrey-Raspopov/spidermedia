@@ -1,6 +1,6 @@
 {
   "title": "ЭКСКЛЮЗИВ: Вариантная обложка «Красная Фурия №28» для магазина «Чук и Гик»",
-  "date": "2015-01-13T10:31:00+03:00",
+  "date": "2015-01-13T10:31:53+03:00",
   "url": "/news/eksklyuziv-variantnaya-oblozhka-krasnaya-furiya-no28-dlya-magazina-chuk-i-gik-0/",
   "original_url": "http://spidermedia.ru/news/eksklyuziv-variantnaya-oblozhka-krasnaya-furiya-no28-dlya-magazina-chuk-i-gik-0",
   "archived": "https://web.archive.org/web/20251005133523/http://spidermedia.ru/news/eksklyuziv-variantnaya-oblozhka-krasnaya-furiya-no28-dlya-magazina-chuk-i-gik-0",
@@ -9,6 +9,12 @@
     "konstantin-tarasov",
     "krasnaya-furiya",
     "russian-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150328213226im_/http://spidermedia.ru/assets/images/import_image/8494.jpg",
+  "modx_id": 8494,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

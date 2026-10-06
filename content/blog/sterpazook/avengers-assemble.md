@@ -1,6 +1,6 @@
 {
   "title": "Avengers Assemble!",
-  "date": "2009-02-10T17:24:00+03:00",
+  "date": "2009-02-10T17:24:35+03:00",
   "url": "/blog/sterpazook/avengers-assemble/",
   "original_url": "http://spidermedia.ru/blog/sterpazook/avengers-assemble",
   "archived": "https://web.archive.org/web/20190915014814/http://spidermedia.ru:80/blog/sterpazook/avengers-assemble",
@@ -10,7 +10,14 @@
     "thor",
     "industriya",
     "captain-america",
-    "istoriya"
+    "istoriya",
+    "tor"
+  ],
+  "cover": "https://web.archive.org/web/20190915014814im_/http://spidermedia.ru/assets/images/import_image/300.JPG",
+  "modx_id": 300,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

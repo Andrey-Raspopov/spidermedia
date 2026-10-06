@@ -10,6 +10,12 @@
     "daredevil",
     "elektra"
   ],
+  "cover": "https://web.archive.org/web/20160611155009im_/http://spidermedia.ru/assets/images/tv/daredevil/dd-pun.jpg",
+  "modx_id": 100913,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

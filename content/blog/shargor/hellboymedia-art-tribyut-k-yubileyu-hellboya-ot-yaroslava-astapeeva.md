@@ -1,6 +1,6 @@
 {
   "title": "Hellboymedia: Арт-трибьют к юбилею Хэллбоя от Ярослава Астапеева",
-  "date": "2014-12-19T12:25:00+03:00",
+  "date": "2014-12-19T12:25:12+03:00",
   "url": "/blog/shargor/hellboymedia-art-tribyut-k-yubileyu-hellboya-ot-yaroslava-astapeeva/",
   "original_url": "http://spidermedia.ru/blog/shargor/hellboymedia-art-tribyut-k-yubileyu-hellboya-ot-yaroslava-astapeeva",
   "archived": "https://web.archive.org/web/20260209123308/http://spidermedia.ru/blog/shargor/hellboymedia-art-tribyut-k-yubileyu-hellboya-ot-yaroslava-astapeeva",
@@ -8,6 +8,12 @@
     "art-tribyut",
     "hellboymedia",
     "20-let-hellboya"
+  ],
+  "cover": "https://web.archive.org/web/20220714164724im_/https://spidermedia.ru/assets/images/hellboymedia/project-01-anniversary/art-tributes-roddoom/yaroslav-astapeev-cover.jpg",
+  "modx_id": 8403,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

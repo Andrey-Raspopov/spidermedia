@@ -1,7 +1,10 @@
 {
   "title": "Ангелус: Дорогой Черной Пантеры",
-  "date": "2009-06-15T04:43:00+03:00",
+  "date": "2009-06-15T03:43:15+03:00",
   "url": "/news/angelus-dorogoy-chernoy-pantery/",
+  "aliases": [
+    "/node/1423/"
+  ],
   "original_url": "https://spidermedia.ru/news/angelus-dorogoy-chernoy-pantery",
   "archived": "https://web.archive.org/web/20260307060958/https://spidermedia.ru/news/angelus-dorogoy-chernoy-pantery",
   "tags": [
@@ -11,6 +14,12 @@
     "witchblade",
     "klinok-vedm",
     "angelus"
+  ],
+  "cover": "https://web.archive.org/web/20260307060958im_/http://spidermedia.ru/assets/images/import_image/1423.jpg",
+  "modx_id": 1423,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

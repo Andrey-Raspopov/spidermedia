@@ -1,13 +1,22 @@
 {
   "title": "Снова о ДиДио...",
-  "date": "2009-02-08T22:02:00+03:00",
+  "date": "2009-02-08T22:02:20+03:00",
   "url": "/blog/el-qwanto/snova-o-didio/",
+  "aliases": [
+    "/node/276/"
+  ],
   "original_url": "http://spidermedia.ru/blog/el-qwanto/snova-o-didio",
   "archived": "https://web.archive.org/web/20260314075131/http://spidermedia.ru/blog/el-qwanto/snova-o-didio",
   "tags": [
     "dan-didio",
     "geoff-johns",
     "nycc-2009"
+  ],
+  "cover": "https://web.archive.org/web/20150315210246im_/http://spidermedia.ru/assets/images/ecahznqzhc4.jpg",
+  "modx_id": 276,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,6 +1,6 @@
 {
   "title": "Сет Грин о мультсериале \"Халк и агенты СМЭШа\" (ВИДЕО)",
-  "date": "2013-08-09T11:37:00+03:00",
+  "date": "2013-08-09T10:37:43+03:00",
   "url": "/news/set-grin-o-multseriale-halk-i-agenty-smesha-video/",
   "original_url": "http://spidermedia.ru/news/set-grin-o-multseriale-halk-i-agenty-smesha-video",
   "archived": "https://web.archive.org/web/20260206225949/http://spidermedia.ru/news/set-grin-o-multseriale-halk-i-agenty-smesha-video",
@@ -8,6 +8,12 @@
     "hulk",
     "marvel",
     "animaciya"
+  ],
+  "cover": "https://web.archive.org/web/20150326221255im_/http://spidermedia.ru/assets/images/import_image/7411.jpg",
+  "modx_id": 7411,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

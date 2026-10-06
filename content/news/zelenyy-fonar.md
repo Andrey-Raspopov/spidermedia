@@ -1,6 +1,6 @@
 {
   "title": "Зеленый - Фонарь",
-  "date": "2009-04-14T11:02:00+03:00",
+  "date": "2009-04-14T10:02:44+03:00",
   "url": "/news/zelenyy-fonar/",
   "original_url": "http://spidermedia.ru/news/zelenyy-fonar",
   "archived": "https://web.archive.org/web/20260125120332/http://spidermedia.ru/news/zelenyy-fonar",
@@ -9,6 +9,12 @@
     "green-lantern",
     "hal-jordan",
     "hel-dzhordan"
+  ],
+  "cover": "https://web.archive.org/web/20260125120332im_/http://spidermedia.ru/assets/images/import_image/929.jpg",
+  "modx_id": 929,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

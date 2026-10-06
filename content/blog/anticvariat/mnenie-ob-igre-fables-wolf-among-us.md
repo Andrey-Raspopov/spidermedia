@@ -1,6 +1,6 @@
 {
   "title": "Мнение об игре \"Fables: The Wolf Among Us\"",
-  "date": "2014-08-01T12:10:00+03:00",
+  "date": "2014-08-01T11:10:13+03:00",
   "url": "/blog/anticvariat/mnenie-ob-igre-fables-wolf-among-us/",
   "original_url": "https://spidermedia.ru/blog/anticvariat/mnenie-ob-igre-fables-wolf-among-us",
   "archived": "https://web.archive.org/web/20260206215240/https://spidermedia.ru/blog/anticvariat/mnenie-ob-igre-fables-wolf-among-us",
@@ -10,6 +10,12 @@
     "vertigo",
     "fables",
     "dc-comics"
+  ],
+  "cover": "https://web.archive.org/web/20150326052919im_/http://spidermedia.ru/assets/images/import_image/7955.jpg",
+  "modx_id": 7955,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

@@ -1,7 +1,10 @@
 {
   "title": "Как быть, старик?",
-  "date": "2009-04-14T16:13:00+03:00",
+  "date": "2009-04-14T15:13:58+03:00",
   "url": "/news/kak-byt-starik/",
+  "aliases": [
+    "/node/934/"
+  ],
   "original_url": "https://spidermedia.ru/news/kak-byt-starik",
   "archived": "https://web.archive.org/web/20250617234225/https://spidermedia.ru/news/kak-byt-starik",
   "tags": [
@@ -12,7 +15,14 @@
     "preview",
     "old-man-logan",
     "stiv-makniven",
-    "steve-mcniven"
+    "steve-mcniven",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20250617234225im_/http://spidermedia.ru/assets/images/import_image/934.jpg",
+  "modx_id": 934,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

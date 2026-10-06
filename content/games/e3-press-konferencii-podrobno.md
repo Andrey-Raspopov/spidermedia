@@ -4,6 +4,12 @@
   "url": "/games/e3-press-konferencii-podrobno/",
   "original_url": "http://spidermedia.ru/games/e3-press-konferencii-podrobno",
   "archived": "https://web.archive.org/web/20241011014356/http://spidermedia.ru/games/e3-press-konferencii-podrobno",
+  "cover": "https://web.archive.org/web/20180315163016im_/http://spidermedia.ru/assets/images/games/e3ko.jpg",
+  "modx_id": 101591,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

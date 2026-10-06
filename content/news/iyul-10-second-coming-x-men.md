@@ -1,7 +1,10 @@
 {
   "title": "Июль '10: Second Coming & X-Men",
-  "date": "2010-07-08T15:39:00+03:00",
+  "date": "2010-07-08T14:39:10+03:00",
   "url": "/news/iyul-10-second-coming-x-men/",
+  "aliases": [
+    "/node/2710/"
+  ],
   "original_url": "http://spidermedia.ru/news/iyul-10-second-coming-x-men",
   "archived": "https://web.archive.org/web/20251107003317/http://spidermedia.ru/news/iyul-10-second-coming-x-men",
   "tags": [
@@ -9,13 +12,20 @@
     "vampiry",
     "x-men",
     "second-coming",
-    "marvel"
+    "marvel",
+    "lyudi-iks"
+  ],
+  "cover": "https://web.archive.org/web/20251107003317im_/http://spidermedia.ru/assets/images/import_image/2710.jpg",
+  "modx_id": 2710,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
 
-**Второе Пришествие** ****(Second Coming)**** заканчивается в этом месяце. История [подойдет к концу в **X-Force #28**](../../node/2709/), после чего получит эпилог в **Second Coming #2**. Тем временем, основные Икс-серии вернутся в привычное русло, с небольшим дополнением в виде [нового онгоинга **X-Men**](../../node/2690/) и [лимитки-долгостроя **X-Force: Sex & Violence**](../../node/1937/). Мы же, пусть и с небольшим опозданием, представляем вам релизы комиксов о **Втором Пришествии** *(Second Coming)* и **Людях Икс** *(X-Men)*.
+**Второе Пришествие** ****(Second Coming)**** заканчивается в этом месяце. История [подойдет к концу в **X-Force #28**](../days-second-coming-part-5/), после чего получит эпилог в **Second Coming #2**. Тем временем, основные Икс-серии вернутся в привычное русло, с небольшим дополнением в виде [нового онгоинга **X-Men**](../x-men-vs-vampires/) и [лимитки-долгостроя **X-Force: Sex & Violence**](../ozhidanie-zatyanulos/). Мы же, пусть и с небольшим опозданием, представляем вам релизы комиксов о **Втором Пришествии** *(Second Coming)* и **Людях Икс** *(X-Men)*.
 ![](https://web.archive.org/web/20251107003317im_/http://img.photobucket.com/albums/v499/sp888/news/second1.jpg)
 
 [![](https://web.archive.org/web/20251107003317im_/http://img.photobucket.com/albums/v497/spidermedia/sp888_News/th_xmensecondcoming2.jpg)](http://smg.photobucket.com/albums/v497/spidermedia/sp888_News/xmensecondcoming2.jpg) **X-Men: Second Coming #2**

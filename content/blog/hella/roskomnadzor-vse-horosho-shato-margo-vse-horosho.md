@@ -1,6 +1,6 @@
 {
   "title": "РосКомНадзор: все хорошо, Шато Марго, все хорошо",
-  "date": "2014-11-28T12:11:00+03:00",
+  "date": "2014-11-28T12:11:45+03:00",
   "url": "/blog/hella/roskomnadzor-vse-horosho-shato-margo-vse-horosho/",
   "original_url": "https://spidermedia.ru/blog/hella/roskomnadzor-vse-horosho-shato-margo-vse-horosho",
   "archived": "https://web.archive.org/web/20260214134338/https://spidermedia.ru/blog/hella/roskomnadzor-vse-horosho-shato-margo-vse-horosho",
@@ -8,6 +8,12 @@
     "russian-comics",
     "roskomnadzor",
     "zarubezhnye-komiksy-na-russkom"
+  ],
+  "cover": "https://web.archive.org/web/20150424063033im_/http://spidermedia.ru/assets/images/import_image/8325.jpg",
+  "modx_id": 8325,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

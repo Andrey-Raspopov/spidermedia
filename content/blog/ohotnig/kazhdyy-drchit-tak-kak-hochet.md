@@ -1,6 +1,6 @@
 {
   "title": "Каждый др*чит так как хочет",
-  "date": "2011-03-30T09:16:00+03:00",
+  "date": "2011-03-30T08:16:37+03:00",
   "url": "/blog/ohotnig/kazhdyy-drchit-tak-kak-hochet/",
   "original_url": "https://spidermedia.ru/blog/ohotnig/kazhdyy-drchit-tak-kak-hochet",
   "archived": "https://web.archive.org/web/20250327225856/https://spidermedia.ru/blog/ohotnig/kazhdyy-drchit-tak-kak-hochet",
@@ -8,6 +8,12 @@
     "hellboj",
     "fanart",
     "bprd"
+  ],
+  "cover": "https://web.archive.org/web/20250327225856im_/http://spidermedia.ru/assets/images/import_image/4557.jpg",
+  "modx_id": 4557,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

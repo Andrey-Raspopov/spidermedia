@@ -4,6 +4,12 @@
   "url": "/comics/mnenie-renya-of-darkness/",
   "original_url": "http://spidermedia.ru/comics/mnenie-renya-of-darkness",
   "archived": "https://web.archive.org/web/20251006135054/http://spidermedia.ru/comics/mnenie-renya-of-darkness",
+  "cover": "https://web.archive.org/web/20251006135054im_/http://spidermedia.ru/assets/images/manga/geass/00.jpg",
+  "modx_id": 102376,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

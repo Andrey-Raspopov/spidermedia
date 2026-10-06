@@ -8,6 +8,12 @@
     "zarubezhnye-komiksy-na-russkom",
     "recenziya"
   ],
+  "cover": "https://web.archive.org/web/20160201201719im_/http://spidermedia.ru/assets/images/reviews/azbuka/b1.jpg",
+  "modx_id": 100782,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

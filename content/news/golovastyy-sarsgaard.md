@@ -1,11 +1,20 @@
 {
   "title": "Головастый Сарсгаард",
-  "date": "2010-05-10T20:22:00+03:00",
+  "date": "2010-05-10T19:22:46+03:00",
   "url": "/news/golovastyy-sarsgaard/",
+  "aliases": [
+    "/node/2616/"
+  ],
   "original_url": "http://spidermedia.ru/news/golovastyy-sarsgaard",
   "archived": "https://web.archive.org/web/20250909132709/http://spidermedia.ru/news/golovastyy-sarsgaard",
   "tags": [
     "green-lantern"
+  ],
+  "cover": "https://web.archive.org/web/20250909132709im_/http://spidermedia.ru/assets/images/import_image/2616.jpg",
+  "modx_id": 2616,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

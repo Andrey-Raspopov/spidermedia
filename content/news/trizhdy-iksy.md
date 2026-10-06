@@ -1,7 +1,10 @@
 {
   "title": "Трижды Иксы",
-  "date": "2009-09-18T03:09:00+03:00",
+  "date": "2009-09-18T02:09:39+03:00",
   "url": "/news/trizhdy-iksy/",
+  "aliases": [
+    "/node/1909/"
+  ],
   "original_url": "http://spidermedia.ru/news/trizhdy-iksy",
   "archived": "https://web.archive.org/web/20260313115453/http://spidermedia.ru/news/trizhdy-iksy",
   "tags": [
@@ -19,7 +22,15 @@
     "craig-kyle",
     "chris-yost",
     "utopia",
-    "nation-x"
+    "nation-x",
+    "mett-frakshen",
+    "lyudi-iks",
+    "uncanny-x-men"
+  ],
+  "modx_id": 1909,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

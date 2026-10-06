@@ -7,7 +7,14 @@
   "tags": [
     "grant-morrison",
     "sten-li",
-    "san-diego-comic-con-international"
+    "san-diego-comic-con-international",
+    "sdcc2015"
+  ],
+  "cover": "https://web.archive.org/web/20250121005127im_/http://spidermedia.ru/assets/images/news/sdcc/2015/avatarex.jpg",
+  "modx_id": 100341,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

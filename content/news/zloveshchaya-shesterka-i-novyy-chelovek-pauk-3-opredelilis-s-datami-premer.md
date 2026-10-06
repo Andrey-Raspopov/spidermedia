@@ -1,12 +1,18 @@
 {
   "title": "«Зловещая шестерка» и «Новый Человек-Паук 3» определились с датами премьер",
-  "date": "2014-07-24T09:03:00+03:00",
+  "date": "2014-07-24T08:03:19+03:00",
   "url": "/news/zloveshchaya-shesterka-i-novyy-chelovek-pauk-3-opredelilis-s-datami-premer/",
   "original_url": "http://spidermedia.ru/news/zloveshchaya-shesterka-i-novyy-chelovek-pauk-3-opredelilis-s-datami-premer",
   "archived": "https://web.archive.org/web/20251012173405/http://spidermedia.ru/news/zloveshchaya-shesterka-i-novyy-chelovek-pauk-3-opredelilis-s-datami-premer",
   "tags": [
     "zloveshhaya-shesterka",
     "spider-man"
+  ],
+  "cover": "https://web.archive.org/web/20150502174223im_/http://spidermedia.ru/assets/images/import_image/7916.jpg",
+  "modx_id": 7916,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

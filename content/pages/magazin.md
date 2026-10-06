@@ -11,6 +11,9 @@
     "sayt",
     "skany"
   ],
+  "sources": [
+    "archive"
+  ],
   "template": "drupal",
   "source_encoding": "utf-8"
 }

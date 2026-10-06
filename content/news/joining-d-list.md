@@ -1,6 +1,6 @@
 {
   "title": "Joining the D-list",
-  "date": "2012-08-03T03:25:00+03:00",
+  "date": "2012-08-03T02:25:27+03:00",
   "url": "/news/joining-d-list/",
   "original_url": "http://spidermedia.ru/news/joining-d-list",
   "archived": "https://web.archive.org/web/20250906072731/http://spidermedia.ru/news/joining-d-list",
@@ -10,6 +10,12 @@
     "dzherri-duggan",
     "brajan-posejn",
     "marvel"
+  ],
+  "cover": "https://web.archive.org/web/20150326160316im_/http://spidermedia.ru/assets/images/import_image/6998.jpg",
+  "modx_id": 6998,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

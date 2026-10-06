@@ -1,7 +1,10 @@
 {
   "title": "Джеймс Бонд в хрустальных туфельках",
-  "date": "2009-08-05T05:52:00+03:00",
+  "date": "2009-08-05T04:52:34+03:00",
   "url": "/news/dzheyms-bond-v-hrustalnyh-tufelkah/",
+  "aliases": [
+    "/node/1724/"
+  ],
   "original_url": "http://spidermedia.ru/news/dzheyms-bond-v-hrustalnyh-tufelkah",
   "archived": "https://web.archive.org/web/20250620071223/http://spidermedia.ru/news/dzheyms-bond-v-hrustalnyh-tufelkah",
   "tags": [
@@ -15,6 +18,12 @@
     "fables",
     "chris-roberson",
     "bill-uillingem"
+  ],
+  "cover": "https://web.archive.org/web/20250620071223im_/http://spidermedia.ru/assets/images/import_image/1724.jpg",
+  "modx_id": 1724,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

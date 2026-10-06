@@ -1,13 +1,20 @@
 {
   "title": "Тизер-постер \"Фантастической Четверки\" + ОБНОВЛЕНИЕ",
-  "date": "2011-08-10T23:55:00+03:00",
+  "date": "2011-08-10T22:55:49+03:00",
   "url": "/news/tizer-poster-fantasticheskoy-chetverki/",
   "original_url": "https://spidermedia.ru/news/tizer-poster-fantasticheskoy-chetverki",
   "archived": "https://web.archive.org/web/20251014040032/https://spidermedia.ru/news/tizer-poster-fantasticheskoy-chetverki",
   "tags": [
     "fantastic-four",
     "postery",
-    "marvel"
+    "marvel",
+    "fantasticheskaya-chetverka"
+  ],
+  "cover": "https://web.archive.org/web/20251014040032im_/http://spidermedia.ru/assets/images/import_image/6552.jpg",
+  "modx_id": 6552,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

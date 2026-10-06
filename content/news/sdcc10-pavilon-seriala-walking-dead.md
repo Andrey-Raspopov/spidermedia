@@ -1,6 +1,6 @@
 {
   "title": "SDCC'10: Павильон сериала \"The Walking Dead\"",
-  "date": "2010-07-22T13:12:00+03:00",
+  "date": "2010-07-22T12:12:47+03:00",
   "url": "/news/sdcc10-pavilon-seriala-walking-dead/",
   "original_url": "https://spidermedia.ru/news/sdcc10-pavilon-seriala-walking-dead",
   "archived": "https://web.archive.org/web/20260211184123/https://spidermedia.ru/news/sdcc10-pavilon-seriala-walking-dead",
@@ -8,7 +8,14 @@
     "serialy",
     "san-diego-comic-con-international",
     "zombi",
-    "the-walking-dead"
+    "the-walking-dead",
+    "tv"
+  ],
+  "cover": "https://web.archive.org/web/20260211184123im_/http://spidermedia.ru/assets/images/import_image/2765.jpg",
+  "modx_id": 2765,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

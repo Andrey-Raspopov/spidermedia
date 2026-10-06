@@ -9,6 +9,12 @@
     "suicide-squad",
     "dc-comics"
   ],
+  "cover": "https://web.archive.org/web/20160611145042im_/http://spidermedia.ru/assets/images/news/dc/harley-quinn-suicide-squad(1).jpg",
+  "modx_id": 100938,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

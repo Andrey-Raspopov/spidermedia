@@ -1,7 +1,10 @@
 {
   "title": "Гидра капут",
-  "date": "2010-07-21T04:33:00+03:00",
+  "date": "2010-07-21T03:33:52+03:00",
   "url": "/news/gidra-kaput/",
+  "aliases": [
+    "/node/2755/"
+  ],
   "original_url": "http://spidermedia.ru/news/gidra-kaput",
   "archived": "https://web.archive.org/web/20190811011844/http://spidermedia.ru:80/news/gidra-kaput",
   "tags": [
@@ -16,6 +19,12 @@
     "marvel",
     "hydra",
     "captain-america"
+  ],
+  "cover": "https://web.archive.org/web/20190811011844im_/http://spidermedia.ru/assets/images/import_image/2755.jpg",
+  "modx_id": 2755,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "modern",
   "source_encoding": "utf-8"

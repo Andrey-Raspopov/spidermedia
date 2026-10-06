@@ -1,7 +1,10 @@
 {
   "title": "Зомби против Нечисти",
-  "date": "2009-03-05T22:59:00+03:00",
+  "date": "2009-03-05T21:59:50+03:00",
   "url": "/news/zombi-protiv-nechisti/",
+  "aliases": [
+    "/node/602/"
+  ],
   "original_url": "http://spidermedia.ru/news/zombi-protiv-nechisti",
   "archived": "https://web.archive.org/web/20120607154146/http://spidermedia.ru/news/zombi-protiv-nechisti",
   "tags": [
@@ -12,7 +15,14 @@
     "marvel",
     "marvel-zombi",
     "oblozhki",
-    "preview-s"
+    "preview-s",
+    "prevyu"
+  ],
+  "cover": "https://web.archive.org/web/20120607154146im_/http://spidermedia.ru/assets/images/import_image/602.jpg",
+  "modx_id": 602,
+  "sources": [
+    "archive",
+    "database"
   ],
   "template": "drupal",
   "source_encoding": "utf-8"

@@ -1,9 +1,15 @@
 {
   "title": "Хранители",
-  "date": "2015-04-28T00:00:00+00:00",
+  "date": "2009-03-06T12:00:00+03:00",
   "url": "/movies-index/dc-comics-watchmen-movie-2009/",
   "original_url": "http://spidermedia.ru/movies-index/dc-comics-watchmen-movie-2009",
   "archived": "https://web.archive.org/web/20150428110339/http://spidermedia.ru/movies-index/dc-comics-watchmen-movie-2009",
+  "cover": "https://web.archive.org/web/20150428231102im_/http://spidermedia.ru/assets/images/movies/dc/watchmen/watchmen-imax-poster.jpg",
+  "modx_id": 100090,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }

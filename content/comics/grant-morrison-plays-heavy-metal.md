@@ -8,6 +8,12 @@
     "heavy-metal",
     "grant-morrison"
   ],
+  "cover": "https://web.archive.org/web/20250807230540im_/http://spidermedia.ru/assets/images/news/heavy-metal/heavy-metal-magazine-red-dccdb.jpg",
+  "modx_id": 100320,
+  "sources": [
+    "archive",
+    "database"
+  ],
   "template": "modern",
   "source_encoding": "utf-8"
 }
